@@ -3,6 +3,7 @@ import { antiguoTestamentoWeeks } from "./data/antiguo-testamento"
 import { nuevoTestamentoWeeks } from "./data/nuevo-testamento"
 import { libroDeMormonWeeks } from "./data/libro-de-mormon"
 import { doctrinaYConveniosWeeks } from "./data/doctrina-y-convenios"
+import { bloqueDeEscriturasWeeks } from "./data/bloques"
 
 export const categories: Category[] = [
   {
@@ -45,6 +46,16 @@ export const categories: Category[] = [
     color: "bg-secondary",
     weeks: doctrinaYConveniosWeeks,
   },
+  {
+    id: "Bloques",
+    name: "Bloque de Escrituras",
+    shortName: "Bloque",
+    description:
+      "Un bloque de estudio que combina las cuatro escrituras. Ideal para repasar y comparar enseñanzas clave.",
+    icon: "book-open",
+    color: "bg-primary",
+    weeks: bloqueDeEscriturasWeeks, // Este bloque se puede llenar con lecciones seleccionadas de las otras categorías
+  }
 ]
 
 export function getCategoryById(id: string) {

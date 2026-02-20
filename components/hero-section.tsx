@@ -21,8 +21,7 @@ export function HeroSection() {
         </h2>
         <p className="mx-auto mt-6 max-w-xl text-pretty text-base leading-relaxed text-primary-foreground/80 md:text-lg">
           Fortalece tu conocimiento de las Escrituras a través de cuestionarios
-          interactivos del Seminario de La Iglesia de Jesucristo de los Santos
-          de los Últimos Días.
+          interactivos de Seminario
         </p>
         <a
           href="#categorias"
