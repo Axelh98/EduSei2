@@ -52,7 +52,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
               Volver al inicio
             </Link>
             <h1 className="font-serif text-3xl font-bold text-balance text-foreground md:text-4xl">
-              {category.name}
+              {category.name} 
             </h1>
             <p className="mt-3 max-w-2xl text-base leading-relaxed text-muted-foreground">
               {category.description}

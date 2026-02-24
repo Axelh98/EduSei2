@@ -10,10 +10,12 @@ export const antiguoTestamentoWeeks: Week[] = [
         id: "leccion-1",
         title: "Lección 1: Introducción al Antiguo Testamento",
         description: "Esta lección te invita a buscar a Jesucristo en cada página de este libro sagrado.",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/01-welcome/011-introduction?lang=spa",
         questions: [
           {
             id: 1,
             question: "Cuando lees el Antiguo Testamento, ¿cuál es el objetivo principal que debes tener en mente?",
+            
             options: [
               "Memorizar fechas históricas exactas.",
               "Aumentar tu deseo de acercarte más al Padre Celestial y a Jesucristo.",
@@ -67,6 +69,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         id: "leccion-2",
         title: "Lección 2: El Plan de Salvación",
         description: "El Salvador es la figura central de tu felicidad eterna.",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/01-welcome/012-the-plan-of-salvation?lang=spa",
         questions: [
           {
             id: 1,
@@ -124,6 +127,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         id: "leccion-29",
         title: "Lección 29: Génesis 24 (El matrimonio por convenio)",
         description: "Tu preparación para el matrimonio eterno comienza hoy.",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/10-genesis-24-33/101-genesis-24?lang=spa",
         questions: [
           {
             id: 1,
@@ -181,6 +185,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         id: "leccion-30",
         title: "Lección 30: Génesis 25–27 (Jacob y Esaú)",
         description: "Valora tus bendiciones espirituales por encima de los deseos pasajeros.",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/10-genesis-24-33/102-genesis-25-27?lang=spa",
         questions: [
           {
             id: 1,
@@ -245,6 +250,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         id: "leccion-33",
         title: "Lección 33: Génesis 37–41 (José en Egipto)",
         description: "Aprende cómo el Señor te acompaña en tus desafíos más difíciles.",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/11-genesis-37-41/111-genesis-37-41?lang=spa",
         questions: [
           { id: 1, question: "A pesar de ser vendido como esclavo y encarcelado injustamente, ¿qué frase se repite sobre la situación de José?", options: ["Que José tenía mucha suerte.", "\"Mas Jehová estaba con José\".", "Que José era el más fuerte de Egipto."], correctAnswer: 1 },
           { id: 2, question: "¿Qué verdad central aprendemos de la reacción de José ante sus pruebas?", options: ["Si somos fieles, Dios puede utilizar nuestras pruebas para bendecir nuestra vida y la de los demás.", "Que los desafíos son una señal de que Dios nos ha abandonado.", "Que no debemos esforzarnos si las cosas salen mal."], correctAnswer: 0 },
@@ -256,6 +262,7 @@ export const antiguoTestamentoWeeks: Week[] = [
       {
         id: "leccion-34",
         title: "Lección 34: Génesis 39 (Vencer la tentación)",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/11-genesis-37-41/112-genesis-39?lang=spa",
         description: "Tu devoción a Dios es tu mejor defensa.",
         questions: [
           { id: 1, question: "¿Cuál fue la razón principal por la que José se negó a pecar con la esposa de Potifar?", options: ["Tenía miedo de que Potifar lo viera.", "No quería pecar contra Dios.", "Estaba demasiado ocupado con su trabajo."], correctAnswer: 1 },
@@ -269,6 +276,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         id: "leccion-172",
         title: "Lección 172: Preparación para la vida (Fijar metas)",
         description: "El Señor desea que alcances tu máximo potencial.",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/63-for-the-strength-of-youth/632-setting-goals?lang=spa",
         questions: [
           { id: 1, question: "¿Qué enseñó el élder Ulisses Soares sobre la ayuda que recibimos del Señor para nuestras metas?", options: ["Que el Señor solo ayuda en metas religiosas.", "Que Su ayuda es ilimitada y nos apoya en todo esfuerzo bueno y justo.", "Que debemos lograr nuestras metas solos antes de pedir ayuda."], correctAnswer: 1 },
           { id: 2, question: "¿Qué significa que \"el Señor se deleita con el esfuerzo\"?", options: ["Que solo le importa si llegamos al final de la meta.", "Que Él valora nuestro intento constante de mejorar, sin importar cuán pequeño sea el paso.", "Que debemos esforzarnos hasta el agotamiento total."], correctAnswer: 1 },
@@ -281,6 +289,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         id: "leccion-161",
         title: "Lección 161: Fortalecer tu cimiento espiritual",
         description: "Edifica tu vida sobre la Roca que es Jesucristo.",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/61-doctrinal-mastery/611-strengthening-spiritual-foundation?lang=spa",
         questions: [
           { id: 1, question: "¿Cuál es el propósito principal del Dominio de la doctrina en tu vida?", options: ["Solo memorizar pasajes para ganar concursos.", "Ayudarte a responder a los desafíos y preguntas con fe en Jesucristo.", "Aprender historia antigua sin aplicación actual."], correctAnswer: 1 },
           { id: 2, question: "¿Cómo influye la forma en que manejas tus dudas y preguntas en tu relación con Dios?", options: ["Puede acercarte más a Ellos o alejarte, dependiendo de si buscas respuestas con fe.", "No influye en nada mientras asistas a la Iglesia.", "Las dudas siempre te alejan de Dios inevitablemente."], correctAnswer: 0 },
@@ -293,6 +302,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         id: "leccion-174",
         title: "Lección 174: Uso responsable de la tecnología",
         description: "Aprende a caminar en la luz de Dios en un mundo digital.",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/63-for-the-strength-of-youth/634-taking-charge-of-technology?lang=spa",
         questions: [
           { id: 1, question: "¿Quién debe ser tu guía principal al navegar por internet o usar redes sociales?", options: ["La cantidad de \"likes\" que recibes.", "El Espíritu Santo.", "Los algoritmos de las aplicaciones."], correctAnswer: 1 },
           { id: 2, question: "¿Cuál es una pregunta clave que la guía para jóvenes te invita a hacerte sobre la tecnología?", options: ["¿Cuántas horas pasé hoy en el teléfono?", "¿Mi uso de la tecnología ayuda o perjudica a las relaciones que tengo con los demás?", "¿Es este el video más gracioso del momento?"], correctAnswer: 1 },
@@ -311,6 +321,7 @@ export const antiguoTestamentoWeeks: Week[] = [
       {
         id: "leccion-35",
         title: "Lección 35: Génesis 42–50 (José perdona a sus hermanos)",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/12-genesis-42-50/121-genesis-42-45?lang=spa",
         description: "El perdón nos hace más semejantes al Salvador.",
         questions: [
           { id: 1, question: "Muchos años después de ser vendido, ¿cómo reaccionó José al ver a sus hermanos por primera vez en Egipto?", options: ["Los mandó ejecutar de inmediato.", "Los reconoció, pero ellos a él no, y sintió compasión aunque los puso a prueba.", "Fingió que no los conocía para siempre."], correctAnswer: 1 },
@@ -323,6 +334,7 @@ export const antiguoTestamentoWeeks: Week[] = [
       {
         id: "leccion-36",
         title: "Lección 36: Traducción de José Smith, Génesis 50",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/12-genesis-42-50/122-jst-genesis-50?lang=spa",
         description: "Un profeta para los últimos días.",
         questions: [
           { id: 1, question: "¿Qué profecía importante hizo José de Egipto antes de morir?", options: ["Que los israelitas nunca saldrían de Egipto.", "Que el Señor levantaría a un vidente escogido llamado José Smith.", "Que Egipto sería destruido pronto."], correctAnswer: 1 },
@@ -336,6 +348,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         id: "leccion-37",
         title: "Lección 37: Evalúa tu aprendizaje 2",
         description: "Reflexiona sobre tu progreso y tus convenios.",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/12-genesis-42-50/123-assess-your-learning-2?lang=spa",
         questions: [
           { id: 1, question: "¿Cuál es el objetivo principal de las lecciones de \"Evalúa tu aprendizaje\"?", options: ["Obtener una calificación para la escuela.", "Hacer una pausa para reconocer tus esfuerzos y tu progreso espiritual con la ayuda del Espíritu.", "Compararte con tus compañeros de clase."], correctAnswer: 1 },
           { id: 2, question: "¿Por qué se utilizan imágenes de árboles (uno joven y uno maduro) en esta lección?", options: ["Para aprender sobre agricultura antigua.", "Para simbolizar que el crecimiento espiritual es un proceso que lleva tiempo y cuidado.", "Porque a José de Egipto le gustaban los árboles."], correctAnswer: 1 },
@@ -347,6 +360,7 @@ export const antiguoTestamentoWeeks: Week[] = [
       {
         id: "leccion-166",
         title: "Lección 166: Centrarse en Jesucristo en las Escrituras",
+        chapterUrl:"https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/62-scripture-study-skills/621-focusing-on-the-savior?lang=spa",
         description: "Encuentra al Salvador en cada relato.",
         questions: [
           { id: 1, question: "¿Cuál es uno de los objetivos centrales de las Escrituras?", options: ["Darle a los arqueólogos pistas sobre el pasado.", "Ayudarnos a aprender sobre el Padre Celestial y Jesucristo para aumentar nuestra fe.", "Contar historias entretenidas para niños."], correctAnswer: 1 },
@@ -360,6 +374,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         id: "leccion-192",
         title: "Lección 192: Éxito en la escuela",
         description: "El Señor desea magnificarte en tus estudios.",
+        chapterUrl:"https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/67-succeed-in-school/671-involving-the-lord?lang=spa",
         questions: [
           { id: 1, question: "¿Por qué el Padre Celestial y Jesucristo quieren ayudarte con tus tareas escolares?", options: ["Porque quieren que seas el más famoso de la escuela.", "Porque se preocupan por ti y por tu progreso eterno.", "Para que no tengas que estudiar nada."], correctAnswer: 1 },
           { id: 2, question: "¿Cuál es el principio central de esta lección respecto a los estudios?", options: ["Al hacer que el Señor forme parte de nuestro aprendizaje, Él magnificará y fortalecerá nuestros esfuerzos.", "Que si oramos, Dios nos dará las respuestas de los exámenes sin estudiar.", "Que la escuela no es importante para los planes de Dios."], correctAnswer: 0 },

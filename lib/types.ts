@@ -11,6 +11,7 @@ export interface Lesson {
   title: string
   description: string
   questions: Question[]
+  chapterUrl?: string
 }
 
 export interface Week {
