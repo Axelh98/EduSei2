@@ -30,6 +30,13 @@ export function QuizResults({
   const result = getResultMessage(percentage)
   const ResultIcon = result.icon
 
+  // 🔗 Texto para compartir en WhatsApp
+  const shareText = encodeURIComponent(
+    `🎯 Resultado del Quiz\n\n📚 ${categoryName}\n✅ ${score}/${totalQuestions}\n🔥 ${percentage}%\n\n¿Podés superarme? 😏`
+  )
+
+  const whatsappUrl = `https://wa.me/?text=${shareText}`
+
   return (
     <div className="mx-auto max-w-lg rounded-xl border border-border bg-card p-8 text-center md:p-10">
       {/* Icon */}
@@ -74,6 +81,7 @@ export function QuizResults({
           <RotateCcw className="h-4 w-4" />
           Intentar de nuevo
         </button>
+
         <Link
           href={`/quiz/${categoryId}`}
           className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-background px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:bg-muted"
@@ -81,6 +89,16 @@ export function QuizResults({
           <Home className="h-4 w-4" />
           Volver a lecciones
         </Link>
+
+        {/* 📲 Botón WhatsApp */}
+        <a
+          href={whatsappUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center justify-center gap-2 rounded-lg bg-green-500 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-green-600"
+        >
+          Compartir resultado
+        </a>
       </div>
     </div>
   )
