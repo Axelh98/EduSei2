@@ -1,82 +1,87 @@
-"use client"
+"use client";
 
-import { useState, useCallback } from "react"
-import { ArrowLeft, ArrowRight, Check } from "lucide-react"
-import Link from "next/link"
-import type { Question } from "@/lib/types"
-import { QuestionCard } from "./question-card"
-import { QuizResults } from "./quiz-results"
+import { useState, useCallback } from "react";
+import { ArrowLeft, ArrowRight, Check } from "lucide-react";
+import Link from "next/link";
+import type { Question } from "@/lib/types";
+import { QuestionCard } from "./question-card";
+import { QuizResults } from "./quiz-results";
 
 interface QuizClientProps {
-  questions: Question[]
-  categoryName: string
-  categoryId: string
-  lessonTitle: string
+  questions: Question[];
+  categoryName: string;
+  categoryId: string;
+  lessonTitle: string;
 }
 
-export function QuizClient({ questions, categoryName, categoryId, lessonTitle }: QuizClientProps) {
-  const [currentQuestion, setCurrentQuestion] = useState(0)
+export function QuizClient({
+  questions,
+  categoryName,
+  categoryId,
+  lessonTitle,
+}: QuizClientProps) {
+  const [currentQuestion, setCurrentQuestion] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState<(number | null)[]>(
-    new Array(questions.length).fill(null)
-  )
+    new Array(questions.length).fill(null),
+  );
   const [submittedQuestions, setSubmittedQuestions] = useState<boolean[]>(
-    new Array(questions.length).fill(false)
-  )
-  const [isFinished, setIsFinished] = useState(false)
+    new Array(questions.length).fill(false),
+  );
+  const [isFinished, setIsFinished] = useState(false);
 
   const handleSelectAnswer = useCallback(
     (index: number) => {
       setSelectedAnswers((prev) => {
-        const next = [...prev]
-        next[currentQuestion] = index
-        return next
-      })
+        const next = [...prev];
+        next[currentQuestion] = index;
+        return next;
+      });
     },
-    [currentQuestion]
-  )
+    [currentQuestion],
+  );
 
   const handleSubmitAnswer = useCallback(() => {
     setSubmittedQuestions((prev) => {
-      const next = [...prev]
-      next[currentQuestion] = true
-      return next
-    })
-  }, [currentQuestion])
+      const next = [...prev];
+      next[currentQuestion] = true;
+      return next;
+    });
+  }, [currentQuestion]);
 
   const handleNext = useCallback(() => {
     if (currentQuestion < questions.length - 1) {
-      setCurrentQuestion((prev) => prev + 1)
+      setCurrentQuestion((prev) => prev + 1);
     }
-  }, [currentQuestion, questions.length])
+  }, [currentQuestion, questions.length]);
 
   const handlePrev = useCallback(() => {
     if (currentQuestion > 0) {
-      setCurrentQuestion((prev) => prev - 1)
+      setCurrentQuestion((prev) => prev - 1);
     }
-  }, [currentQuestion])
+  }, [currentQuestion]);
 
   const handleFinish = useCallback(() => {
     // Submit any unsubmitted answers
-    setSubmittedQuestions(new Array(questions.length).fill(true))
-    setIsFinished(true)
-  }, [questions.length])
+    setSubmittedQuestions(new Array(questions.length).fill(true));
+    setIsFinished(true);
+  }, [questions.length]);
 
   const handleRetry = useCallback(() => {
-    setCurrentQuestion(0)
-    setSelectedAnswers(new Array(questions.length).fill(null))
-    setSubmittedQuestions(new Array(questions.length).fill(false))
-    setIsFinished(false)
-  }, [questions.length])
+    setCurrentQuestion(0);
+    setSelectedAnswers(new Array(questions.length).fill(null));
+    setSubmittedQuestions(new Array(questions.length).fill(false));
+    setIsFinished(false);
+  }, [questions.length]);
 
   const score = selectedAnswers.reduce((acc, answer, index) => {
-    if (answer === questions[index].correctAnswer) return acc + 1
-    return acc
-  }, 0)
+    if (answer === questions[index].correctAnswer) return acc + 1;
+    return acc;
+  }, 0);
 
-  const allSubmitted = submittedQuestions.every(Boolean)
-  const currentAnswered = selectedAnswers[currentQuestion] !== null
-  const currentSubmitted = submittedQuestions[currentQuestion]
-  const isLast = currentQuestion === questions.length - 1
+  const allSubmitted = submittedQuestions.every(Boolean);
+  const currentAnswered = selectedAnswers[currentQuestion] !== null;
+  const currentSubmitted = submittedQuestions[currentQuestion];
+  const isLast = currentQuestion === questions.length - 1;
 
   if (isFinished) {
     return (
@@ -85,9 +90,10 @@ export function QuizClient({ questions, categoryName, categoryId, lessonTitle }:
         totalQuestions={questions.length}
         categoryName={categoryName}
         categoryId={categoryId}
+        lessonTitle={lessonTitle} // 👈 faltaba esto
         onRetry={handleRetry}
       />
-    )
+    );
   }
 
   return (
@@ -115,11 +121,12 @@ export function QuizClient({ questions, categoryName, categoryId, lessonTitle }:
       {/* Question dots */}
       <div className="mb-6 flex flex-wrap gap-2">
         {questions.map((_, index) => {
-          const isAnswered = selectedAnswers[index] !== null
-          const isSubmitted = submittedQuestions[index]
+          const isAnswered = selectedAnswers[index] !== null;
+          const isSubmitted = submittedQuestions[index];
           const isCorrect =
-            isSubmitted && selectedAnswers[index] === questions[index].correctAnswer
-          const isCurrent = index === currentQuestion
+            isSubmitted &&
+            selectedAnswers[index] === questions[index].correctAnswer;
+          const isCurrent = index === currentQuestion;
 
           return (
             <button
@@ -140,7 +147,7 @@ export function QuizClient({ questions, categoryName, categoryId, lessonTitle }:
             >
               {index + 1}
             </button>
-          )
+          );
         })}
       </div>
 
@@ -203,5 +210,5 @@ export function QuizClient({ questions, categoryName, categoryId, lessonTitle }:
         </div>
       </div>
     </div>
-  )
+  );
 }
