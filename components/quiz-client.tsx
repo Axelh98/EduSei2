@@ -6,6 +6,7 @@ import Link from "next/link";
 import type { Question } from "@/lib/types";
 import { QuestionCard } from "./question-card";
 import { QuizResults } from "./quiz-results";
+import { useSearchParams } from "next/navigation";
 
 interface QuizClientProps {
   questions: Question[];
@@ -20,6 +21,15 @@ export function QuizClient({
   categoryId,
   lessonTitle,
 }: QuizClientProps) {
+
+  const searchParams = useSearchParams();
+  const recoveryData = searchParams.get("data");
+  
+  // Si hay recoveryData, el link de volver debe ir a /recuperar, si no, a la categoría normal
+  const backUrl = recoveryData 
+    ? `/recuperar?data=${encodeURIComponent(recoveryData)}`
+    : `/quiz/${categoryId}`;
+
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState<(number | null)[]>(
     new Array(questions.length).fill(null),
@@ -90,21 +100,22 @@ export function QuizClient({
         totalQuestions={questions.length}
         categoryName={categoryName}
         categoryId={categoryId}
-        lessonTitle={lessonTitle} // 👈 faltaba esto
+        lessonTitle={lessonTitle}
         onRetry={handleRetry}
+        recoveryData={recoveryData}
       />
     );
   }
 
   return (
     <div className="mx-auto max-w-2xl">
-      {/* Back link */}
+      {/* Botón Volver dinámico */}
       <Link
-        href={`/quiz/${categoryId}`}
+        href={backUrl}
         className="mb-6 inline-flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
       >
         <ArrowLeft className="h-4 w-4" />
-        Volver a {categoryName}
+        {recoveryData ? "Volver a mi plan" : `Volver a ${categoryName}`}
       </Link>
 
       {/* Lesson title */}

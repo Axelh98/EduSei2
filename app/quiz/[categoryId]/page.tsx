@@ -1,35 +1,25 @@
+"use client"
+
+import { useState, use } from "react"
 import { notFound } from "next/navigation"
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
 import { WeekCard } from "@/components/week-card"
-import { categories, getCategoryById, getTotalLessons, getTotalQuestions } from "@/lib/quiz-data"
-import { ArrowLeft, BookOpen, FileQuestion, Calendar } from "lucide-react"
+import { getCategoryById, getTotalLessons, getTotalQuestions } from "@/lib/quiz-data"
+import { ArrowLeft, BookOpen, FileQuestion, Calendar, Share2, X } from "lucide-react"
 import Link from "next/link"
-import type { Metadata } from "next"
 
 interface CategoryPageProps {
   params: Promise<{ categoryId: string }>
 }
 
-export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
-  const { categoryId } = await params
+export default function CategoryPage({ params }: CategoryPageProps) {
+  // En Next.js 15, usamos 'use' para desenvolver los params en Client Components
+  const { categoryId } = use(params)
   const category = getCategoryById(categoryId)
-  if (!category) return { title: "No encontrado" }
-  return {
-    title: `${category.name} - Seminario Cuestionarios`,
-    description: category.description,
-  }
-}
 
-export function generateStaticParams() {
-  return categories.map((category) => ({
-    categoryId: category.id,
-  }))
-}
-
-export default async function CategoryPage({ params }: CategoryPageProps) {
-  const { categoryId } = await params
-  const category = getCategoryById(categoryId)
+  // Estado global para las lecciones seleccionadas de todas las semanas
+  const [selectedLessons, setSelectedLessons] = useState<string[]>([])
 
   if (!category) {
     notFound()
@@ -38,10 +28,29 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
   const totalLessons = getTotalLessons(category)
   const totalQuestions = getTotalQuestions(category)
 
+  // Función global para alternar selección
+  const toggleLesson = (lessonId: string) => {
+    setSelectedLessons((prev) =>
+      prev.includes(lessonId)
+        ? prev.filter((id) => id !== lessonId)
+        : [...prev, lessonId]
+    )
+  }
+
+  // Función para compartir todas las seleccionadas
+  const handleShare = () => {
+    const baseUrl = window.location.origin
+    const data = `${categoryId}:${selectedLessons.join(",")}`
+    const finalUrl = `${baseUrl}/recuperar?data=${encodeURIComponent(data)}`
+    
+    const text = `Hola, aquí tienes las lecciones de Seminario que debes completar: ${finalUrl}`
+    window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank")
+  }
+
   return (
     <div className="flex min-h-screen flex-col bg-background">
       <SiteHeader />
-      <main className="flex-1">
+      <main className="flex-1 pb-20"> {/* pb-20 para que el botón flotante no tape contenido */}
         <section className="border-b border-border bg-card px-4 pb-10 pt-8 md:px-6">
           <div className="mx-auto max-w-4xl">
             <Link
@@ -52,7 +61,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
               Volver al inicio
             </Link>
             <h1 className="font-serif text-3xl font-bold text-balance text-foreground md:text-4xl">
-              {category.name} 
+              {category.name}
             </h1>
             <p className="mt-3 max-w-2xl text-base leading-relaxed text-muted-foreground">
               {category.description}
@@ -84,11 +93,40 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
                 week={week}
                 categoryId={category.id}
                 defaultOpen={index === 0}
+                selectedLessons={selectedLessons}
+                onToggleLesson={toggleLesson}
               />
             ))}
           </div>
         </section>
       </main>
+
+      {/* BOTÓN FLOTANTE GLOBAL */}
+      {selectedLessons.length > 0 && (
+        <div className="fixed bottom-6 left-1/2 z-50 flex -translate-x-1/2 items-center gap-2 rounded-full border border-border bg-card p-2 shadow-2xl animate-in fade-in slide-in-from-bottom-4">
+          <div className="flex items-center gap-3 px-4">
+            <span className="flex h-6 w-6 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground">
+              {selectedLessons.length}
+            </span>
+            <span className="text-sm font-medium hidden sm:inline">lecciones seleccionadas</span>
+          </div>
+          <button
+            onClick={handleShare}
+            className="flex items-center gap-2 rounded-full bg-[#25D366] px-6 py-2.5 text-sm font-bold text-white transition-transform hover:scale-105 active:scale-95"
+          >
+            <Share2 className="h-4 w-4" />
+            Compartir
+          </button>
+          <button 
+            onClick={() => setSelectedLessons([])}
+            className="mr-2 rounded-full p-2 hover:bg-muted transition-colors"
+            title="Limpiar selección"
+          >
+            <X className="h-4 w-4 text-muted-foreground" />
+          </button>
+        </div>
+      )}
+
       <SiteFooter />
     </div>
   )
