@@ -9,6 +9,7 @@ export interface Question {
 export interface Lesson {
   id: string
   title: string
+  type: "Antiguo Testamento - Ven Sigueme" | "Nuevo Testamento - Ven Sigueme" | "Libro de Mormon - Ven Sigueme" | "Doctrina y Convenios - Ven Sigueme" | "Bloque de Escrituras - Ven Sigueme" | "Preparación para la Vida" | "Dominio de la Doctrina" | "Especial"
   description: string
   questions: Question[]
   chapterUrl?: string

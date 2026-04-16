@@ -1,46 +1,101 @@
 import Link from "next/link"
 import { FileQuestion, ArrowRight } from "lucide-react"
 import type { Lesson } from "@/lib/types"
+import { cn } from "@/lib/utils" 
 
 interface LessonCardProps {
   lesson: Lesson
   categoryId: string
-  chapterUrl?: string
 }
 
-export function LessonCard({ lesson, categoryId, chapterUrl }: LessonCardProps) {
+const typeColorMap: Record<string, string> = {
+
+  "Antiguo Testamento - Ven Sigueme": "#18181b", 
+  "Nuevo Testamento - Ven Sigueme": "#27272a", 
+  "Libro de Mormon - Ven Sigueme": "#3f3f46", 
+  "Doctrina y Convenios - Ven Sigueme": "#52525b",
+
+  "Preparación para la Vida": "#ef4444", 
+  "Dominio de la Doctrina": "#f97316",
+  "Especial": "#38bdf8",      
+  "Día Flexible": "#a855f7",
+
+  "default": "#71717a",
+};
+
+export function LessonCard({ lesson, categoryId }: LessonCardProps) {
+  // 1. Obtener el color hexadecimal base
+  const lessonColor = typeColorMap[lesson.type] || typeColorMap["default"];
+
   return (
-    <div className="group flex items-center gap-4 rounded-lg border border-border bg-background p-4 transition-all hover:border-primary/30 hover:bg-primary/5">
-      <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-muted text-muted-foreground transition-colors group-hover:bg-primary/10 group-hover:text-primary">
-        <FileQuestion className="h-4 w-4" />
+    <div 
+      className={cn(
+        "group flex items-center gap-4 rounded-xl border border-border bg-background p-5 transition-all duration-300 ease-in-out",
+        // EFECTOS HOVER PROFESIONALES:
+        // 1. Borde sutil del color de la lección (con baja opacidad)
+        "hover:border-[var(--lesson-color)]/40",
+        // 2. Fondo muy tenue del color de la lección
+        "hover:bg-[var(--lesson-color)]/[0.03]",
+        // 3. Sombra suave para dar profundidad
+        "hover:shadow-lg hover:shadow-[var(--lesson-color)]/[0.08]"
+      )}
+      // 2. Inyectar la variable CSS inline
+      style={{ "--lesson-color": lessonColor } as React.CSSProperties}
+    >
+      
+      {/* Icono con sutil cambio de fondo al hacer hover */}
+      <div 
+        className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-muted text-muted-foreground transition-all duration-300 group-hover:bg-[var(--lesson-color)]/[0.1] group-hover:text-[var(--lesson-color)]"
+      >
+        <FileQuestion className="h-5 w-5" />
       </div>
+
       <div className="flex-1">
-        <h4 className="text-sm font-semibold text-foreground group-hover:text-primary">
-          {lesson.title}
-        </h4>
-        <p className="mt-0.5 text-xs text-muted-foreground">
+        <div className="flex flex-wrap items-center gap-2 mb-1.5">
+          <h4 className="text-base font-semibold text-foreground group-hover:text-[var(--lesson-color)] transition-colors duration-300">
+            {lesson.title}
+          </h4>
+          
+          {/* Badge con el color exacto y texto contrastante */}
+          <span 
+            className="inline-flex items-center rounded-full px-2.5 py-0.5 text-[10px] font-bold border uppercase tracking-wider transition-all"
+            style={{ 
+                backgroundColor: `${lessonColor}10`, // Fondo con 10% opacidad (hex + 10)
+                borderColor: `${lessonColor}30`,      // Borde con 30% opacidad
+                color: lessonColor                    // Texto del color base
+            }}
+          >
+            {lesson.type}
+          </span>
+        </div>
+
+        <p className="text-xs text-muted-foreground line-clamp-1 mb-2">
           {lesson.description}
         </p>
-        <p className="mt-1 text-xs font-medium text-primary/70">
-          {lesson.questions.length} preguntas
-        </p>
 
-        {/* Botón extra para ir al capítulo */}
-        {lesson.chapterUrl && (
-          <Link
-            href={lesson.chapterUrl}
-            target="_blank"
-            className="mt-2 inline-block rounded-md bg-primary px-3 py-1 text-xs font-medium text-white hover:bg-primary/80"
-          >
-            Ver capítulo
-          </Link>
-        )}
+        <div className="flex items-center gap-4">
+            <span className="text-xs font-medium text-muted-foreground/80">
+              {lesson.questions.length} preguntas
+            </span>
+
+            {/* Ajusté lesson.chapterUrl asumiendo que viene dentro de lesson */}
+            {lesson.chapterUrl && (
+              <Link
+                href={lesson.chapterUrl}
+                target="_blank"
+                className="text-xs font-semibold text-primary underline-offset-4 hover:underline"
+              >
+                Ver capítulo
+              </Link>
+            )}
+        </div>
       </div>
+
       <Link
         href={`/quiz/${categoryId}/${lesson.id}`}
-        className="shrink-0"
+        className="shrink-0 p-2 rounded-full bg-muted/50 transition-all group-hover:bg-[var(--lesson-color)]/[0.1]"
       >
-        <ArrowRight className="h-4 w-4 text-muted-foreground transition-transform group-hover:translate-x-1 group-hover:text-primary" />
+        <ArrowRight className="h-4 w-4 text-muted-foreground transition-transform group-hover:translate-x-1 group-hover:text-[var(--lesson-color)]" />
       </Link>
     </div>
   )
