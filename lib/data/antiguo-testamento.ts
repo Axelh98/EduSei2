@@ -127,7 +127,7 @@ export const antiguoTestamentoWeeks: Week[] = [
       },
       {
         id: "leccion-29",
-        title: "Lección 29: Génesis 24 (El matrimonio por convenio)",
+        title: "Lección 29: Génesis 24",
         description: "Tu preparación para el matrimonio eterno comienza hoy.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/10-genesis-24-33/101-genesis-24?lang=spa",
@@ -186,7 +186,7 @@ export const antiguoTestamentoWeeks: Week[] = [
       },
       {
         id: "leccion-30",
-        title: "Lección 30: Génesis 25–27 (Jacob y Esaú)",
+        title: "Lección 30: Génesis 25–27",
         description: "Valora tus bendiciones espirituales por encima de los deseos pasajeros.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/10-genesis-24-33/102-genesis-25-27?lang=spa",
@@ -252,7 +252,7 @@ export const antiguoTestamentoWeeks: Week[] = [
     lessons: [
       {
         id: "leccion-33",
-        title: "Lección 33: Génesis 37–41 (José en Egipto)",
+        title: "Lección 33: Génesis 37–41",
         description: "Aprende cómo el Señor te acompaña en tus desafíos más difíciles.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/11-genesis-37-41/111-genesis-37-41?lang=spa",
@@ -266,7 +266,7 @@ export const antiguoTestamentoWeeks: Week[] = [
       },
       {
         id: "leccion-34",
-        title: "Lección 34: Génesis 39 (Vencer la tentación)",
+        title: "Lección 34: Génesis 39",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/11-genesis-37-41/112-genesis-39?lang=spa",
         description: "Tu devoción a Dios es tu mejor defensa.",
         type: "Antiguo Testamento - Ven Sigueme",

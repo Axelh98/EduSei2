@@ -13,14 +13,14 @@ export function HeroSection() {
         <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-primary-foreground/20 bg-primary-foreground/10 px-4 py-2">
           <BookOpen className="h-4 w-4 text-primary-foreground" />
           <span className="text-sm font-medium text-primary-foreground">
-            Seminario 2025-2026
+            Seminario 2026
           </span>
         </div>
         <h2 className="text-balance font-serif text-4xl font-bold leading-tight text-primary-foreground md:text-5xl lg:text-6xl">
           Cuestionarios de las Escrituras
         </h2>
         <p className="mx-auto mt-6 max-w-xl text-pretty text-base leading-relaxed text-primary-foreground/80 md:text-lg">
-          Fortalece tu conocimiento de las Escrituras a través de cuestionarios
+          Recupera o Fortalece tu conocimiento de las Escrituras a través de cuestionarios
           interactivos de Seminario
         </p>
         <a
