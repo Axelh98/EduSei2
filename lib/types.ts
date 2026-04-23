@@ -15,6 +15,18 @@ export interface Lesson {
   chapterUrl?: string
 }
 
+export interface ShortLesson {
+  id: number;
+  titulo: string; // Cambio de title -> titulo
+  url_fuente: string; // Cambio de chapterUrl -> url_fuente
+  type: string; // Mantenemos para el colorMap
+  secciones: {
+    tipo: string;
+    contenido?: string;
+    preguntas?: string[];
+    // ... otros campos
+  }[];
+}
 export interface Week {
   id: number
   title: string
@@ -31,6 +43,8 @@ export interface Category {
   color: string
   weeks: Week[]
 }
+
+
 
 export interface QuizState {
   currentQuestion: number
