@@ -1,9 +1,38 @@
 import type { Category } from "./types"
+import { leccionesResumidas } from "./data/antiguo-testamento-resumido"
 import { antiguoTestamentoWeeks } from "./data/antiguo-testamento"
 import { nuevoTestamentoWeeks } from "./data/nuevo-testamento"
 import { libroDeMormonWeeks } from "./data/libro-de-mormon"
 import { doctrinaYConveniosWeeks } from "./data/doctrina-y-convenios"
 import { bloqueDeEscriturasWeeks } from "./data/bloques"
+
+
+
+export function getContentByLessonId(lessonId: string | number) {
+  // 1. Normalizamos el ID que viene de antiguo-testamento.ts (ej: "leccion-2" -> 2)
+  const idToSearch = typeof lessonId === 'string' 
+    ? parseInt(lessonId.replace('leccion-', '')) 
+    : lessonId;
+
+  // 2. Usamos validación de tipo o aserción para evitar el error ts(2367)
+  return leccionesResumidas.find((l) => {
+    // Convertimos ambos a número para una comparación segura
+    return Number(l.id) === idToSearch;
+  });
+}
+
+export function getFullLesson(categoryId: string, lessonId: string) {
+  const baseData = getLessonById(categoryId, lessonId); // La función que ya tenías
+  if (!baseData) return null;
+
+  // Buscamos el contenido extendido (secciones)
+  const extendedContent = leccionesResumidas.find(l => l.id === lessonId);
+
+  return {
+    ...baseData.lesson,
+    secciones: extendedContent?.secciones || []
+  };
+}
 
 export const categories: Category[] = [
   {
