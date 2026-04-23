@@ -72,7 +72,7 @@ export function LessonCard({ lesson, categoryId }: LessonCardProps) {
               className="flex items-center gap-1.5 text-[11px] font-bold text-[var(--lesson-color)] hover:opacity-70 transition-all uppercase tracking-tight"
             >
               <FileText className="h-3.5 w-3.5" />
-              Repasar Lectura
+              Lectura
             </Link>
           )}
           
@@ -83,7 +83,7 @@ export function LessonCard({ lesson, categoryId }: LessonCardProps) {
               className="flex items-center gap-1 text-[11px] font-medium text-muted-foreground/60 hover:text-foreground transition-colors"
             >
               <ExternalLink className="h-3 w-3" />
-              Manual
+              Manual de Seminario
             </Link>
           )}
         </div>
@@ -92,7 +92,7 @@ export function LessonCard({ lesson, categoryId }: LessonCardProps) {
           href={`/quiz/${categoryId}/${lesson.id}`}
           className="w-full sm:w-auto flex items-center justify-center gap-2 px-4 py-2 rounded-lg bg-[var(--lesson-color)] text-white text-[11px] font-bold hover:brightness-110 transition-all shadow-md active:scale-95"
         >
-          PRACTICAR QUIZ
+          Hacer el QUIZ
           <span className="bg-white/20 px-1.5 py-0.5 rounded text-[10px]">
             {numQuiz}
           </span>
