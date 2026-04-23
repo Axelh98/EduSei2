@@ -37,3 +37,18 @@ export interface QuizState {
   isFinished: boolean
   score: number
 }
+
+export interface CrosswordWord {
+  number: number;
+  direction: 'horizontal' | 'vertical';
+  answer: string;
+  clue: string;
+  row: number;
+  col: number;
+}
+
+export interface LessonCrossword {
+  lessonId: string;
+  gridSize: number;
+  words: CrosswordWord[];
+}

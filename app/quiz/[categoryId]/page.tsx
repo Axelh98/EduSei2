@@ -58,7 +58,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
               className="mb-6 inline-flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
             >
               <ArrowLeft className="h-4 w-4" />
-              Volver al inicio
+              Volver al inicio 
             </Link>
             <h1 className="font-serif text-3xl font-bold text-balance text-foreground md:text-4xl">
               {category.name}

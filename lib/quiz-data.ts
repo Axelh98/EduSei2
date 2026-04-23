@@ -4,6 +4,7 @@ import { nuevoTestamentoWeeks } from "./data/nuevo-testamento"
 import { libroDeMormonWeeks } from "./data/libro-de-mormon"
 import { doctrinaYConveniosWeeks } from "./data/doctrina-y-convenios"
 import { bloqueDeEscriturasWeeks } from "./data/bloques"
+import { crucigramas } from "./data/crucigramas"
 
 export const categories: Category[] = [
   {
@@ -82,4 +83,9 @@ export function getTotalQuestions(category: Category) {
       acc + w.lessons.reduce((la, l) => la + l.questions.length, 0),
     0
   )
+}
+
+export function hasCrossword(lessonId: string): boolean {
+  // Verificamos si existe la propiedad en el objeto de crucigramas
+  return !!crucigramas[lessonId];
 }
