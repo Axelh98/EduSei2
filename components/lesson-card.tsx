@@ -18,9 +18,6 @@ const typeColorMap: Record<string, string> = {
   "Preparación para la Vida": "#ef4444", 
   "Dominio de la Doctrina": "#f97316",
   "Especial": "#38bdf8",      
-  "Día Flexible": "#a855f7",
-
-  "default": "#71717a",
 };
 
 export function LessonCard({ lesson, categoryId }: LessonCardProps) {
