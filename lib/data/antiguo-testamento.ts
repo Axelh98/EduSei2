@@ -65,6 +65,7 @@ export const antiguoTestamentoWeeks: Week[] = [
             correctAnswer: 1,
           },
         ],
+        secciones: []
       },
       {
         id: "leccion-2",
@@ -124,8 +125,10 @@ export const antiguoTestamentoWeeks: Week[] = [
             correctAnswer: 0,
           },
         ],
+        secciones: []
       },
       {
+        // FALTA LA LECCION 29
         id: "leccion-29",
         title: "Lección 29: Génesis 24",
         description: "Tu preparación para el matrimonio eterno comienza hoy.",
@@ -183,6 +186,7 @@ export const antiguoTestamentoWeeks: Week[] = [
             correctAnswer: 0,
           },
         ],
+        secciones: []
       },
       {
         id: "leccion-30",
@@ -242,6 +246,7 @@ export const antiguoTestamentoWeeks: Week[] = [
             correctAnswer: 1,
           },
         ],
+        secciones: []
       },
     ],
   },
@@ -263,6 +268,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "Según el élder Uchtdorf, ¿qué hará el amor de Dios incluso cuando nos sentimos \"rodeados de tinieblas emocionales\"?", options: ["Nos hará olvidar el pasado.", "Hará que surja algo inimaginable y bendecido.", "Nos dará riqueza inmediata."], correctAnswer: 1 },
           { id: 5, question: "¿Cuál es el propósito de ver tus desafíos desde una \"perspectiva eterna\"?", options: ["Ignorar el dolor que sientes ahora.", "Entender cómo el Padre Celestial puede usar tus desafíos para bendecirte y ayudarte a crecer.", "Esperar a que el tiempo cure todo sin ayuda divina."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
         id: "leccion-34",
@@ -277,6 +283,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "Según la guía Para la Fortaleza de la Juventud, ¿es pecado sentir atracción hacia alguien del mismo sexo?", options: ["Sí, sentir el sentimiento ya es un pecado.", "No; es pecado si se busca o se actúa de acuerdo con esos sentimientos.", "La guía no menciona nada al respecto."], correctAnswer: 1 },
           { id: 5, question: "Si alguien se siente desesperanzado por errores del pasado, ¿qué enseñó el élder Renlund?", options: ["Que ya no hay nada que hacer.", "Que el Salvador puede darnos esperanza y ayudarnos a arrepentirnos.", "Que debemos ocultar nuestros pecados para ser felices."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
         id: "leccion-172",
@@ -291,6 +298,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Por qué es importante que tus metas sean \"realistas\" pero que también \"requieran fe\"?", options: ["Para que no tengas que trabajar tanto.", "Para que te obliguen a superarte y permitan que el Señor te ayude.", "Porque las metas fáciles no le gustan a Dios."], correctAnswer: 1 },
           { id: 5, question: "¿Qué debes hacer si sientes que fracasas con frecuencia al intentar lograr una meta?", options: ["Dejar de fijar metas para evitar la frustración.", "Recordar que el Señor te ama y está ahí para ayudarte a intentarlo de nuevo.", "Cambiar tu meta por algo mucho más bajo."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
         id: "leccion-161",
@@ -305,6 +313,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Qué significa edificar tu \"cimiento espiritual\" en Jesucristo?", options: ["Leer las Escrituras solo cuando tienes problemas.", "Centrar tu vida, decisiones y fe en Sus enseñanzas y Su Expiación.", "Seguir a los amigos que parecen más espirituales."], correctAnswer: 1 },
           { id: 5, question: "¿Por qué el Dominio de la doctrina se considera una \"guía\"?", options: ["Porque ofrece principios inspirados para adquirir conocimiento espiritual.", "Porque contiene todas las respuestas científicas del mundo.", "Porque es un reglamento de castigos."], correctAnswer: 0 },
         ],
+        secciones: []
       },
       {
         id: "leccion-174",
@@ -319,6 +328,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Qué advertencia se da sobre el contenido que \"entorpece tu juicio\" o \"adormece tu sensibilidad al Espíritu\"?", options: ["Que debes evitarlo, incluyendo violencia, drogas o contenido inmoral.", "Que puedes verlo si solo es por entretenimiento.", "Que no es tan importante si no lo haces en la vida real."], correctAnswer: 0 },
           { id: 5, question: "¿Qué promesa hace el Señor si actúas de acuerdo con las impresiones sobre cómo mejorar tu uso de la tecnología?", options: ["Que te dará el último modelo de teléfono.", "Que te bendecirá y te fortalecerá.", "Que nunca más tendrás tentaciones."], correctAnswer: 1 },
         ],
+        secciones: []
       },
     ],
   },
@@ -340,6 +350,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Qué le recordó José a sus hermanos para ayudarlos a no sentirse culpables por el pasado?", options: ["Que él era ahora el segundo al mando y podía castigarlos.", "Que Dios lo envió delante de ellos para preservar la vida de su familia.", "Que debían pagarle todo el grano que llevaron."], correctAnswer: 1 },
           { id: 5, question: "¿Cuál es la invitación final de esta lección para tu vida?", options: ["Olvidar todo lo malo sin hablarlo.", "Seguir el ejemplo del Salvador al perdonar a quienes te han tratado mal.", "Solo perdonar a los miembros de tu propia familia."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
         id: "leccion-36",
@@ -354,6 +365,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Cómo utilizó el Señor a José de Egipto, Moisés y José Smith de manera similar?", options: ["A cada uno los utilizó como un \"libertador\" para rescatar a Su pueblo de diferentes cautiverios.", "Los tres vivieron en la misma época.", "Los tres fueron reyes de grandes naciones."], correctAnswer: 0 },
           { id: 5, question: "¿Qué puedes hacer si aún no tienes un testimonio fuerte de que José Smith fue un profeta?", options: ["Dejar de estudiar hasta que sientas algo.", "Prestar atención a las impresiones del Espíritu y pedirle a Dios saber por ti mismo.", "Solo creer lo que dicen tus amigos."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
         id: "leccion-37",
@@ -368,6 +380,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Qué enseñó el élder Larry R. Lawrence sobre la \"velocidad\" de nuestro progreso?", options: ["Que debemos ser los más rápidos en arrepentirnos.", "Que la dirección en la que vamos es mucho más importante que nuestra velocidad.", "Que si progresamos lento, Dios se decepciona."], correctAnswer: 1 },
           { id: 5, question: "¿Cómo puedes reconocer que estás creciendo espiritualmente?", options: ["Al repasar lo que has aprendido sobre el Salvador y cómo ha mejorado tu relación con Él.", "Si ya no tienes ningún problema en la vida.", "Si memorizaste todos los pasajes del Dominio de la doctrina."], correctAnswer: 0 },
         ],
+        secciones: []
       },
       {
         id: "leccion-166",
@@ -382,6 +395,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Por qué es útil hacerte preguntas como \"¿Cómo me ayuda esta acción a entender al Salvador?\" mientras lees?", options: ["Para que la lectura sea más larga.", "Para conectar las historias antiguas con tu vida y las bendiciones que Él te ofrece hoy.", "Porque es un requisito de Seminario."], correctAnswer: 1 },
           { id: 5, question: "¿Qué sucede con tu fe a medida que aprendes más sobre los atributos de Cristo en las Escrituras?", options: ["Se mantiene igual.", "Tu fe en el Padre Celestial y en Jesucristo crece.", "Empiezas a tener más dudas."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
         id: "leccion-192",
@@ -396,6 +410,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "Según el volante \"Incluir al Señor...\", ¿qué significa aprender \"línea por línea\"?", options: ["Leer solo una línea de los libros por día.", "Es un proceso de cambio constante donde Dios nos da dirección a medida que actuamos con fe en la primera impresión.", "Que el aprendizaje debe ser instantáneo."], correctAnswer: 1 },
           { id: 5, question: "¿De qué manera el Espíritu Santo puede ayudarte durante un examen difícil?", options: ["Dándote las respuestas de tus compañeros.", "Llenándote de paz e iluminando tu mente para recordar lo que estudiaste.", "Suspendiendo la clase para que no haya examen."], correctAnswer: 1 },
         ],
+        secciones: []
       },
     ],
   },
@@ -417,6 +432,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Qué promesa hizo el Salvador en Mateo 5:10–12 para quienes son perseguidos por seguirlo?", options: ["Que sus problemas desaparecerán al instante.", "Que serán bendecidos y su galardón será grande en los cielos.", "Que no deben esforzarse más."], correctAnswer: 1 },
           { id: 5, question: "¿Cómo puede ayudarte el Espíritu Santo cuando te sientes presionado a hacer algo incorrecto?", options: ["Te ayuda a prepararte para actuar con valor de acuerdo con la voluntad de Dios.", "Te da permiso para ignorar los mandamientos.", "No interviene en decisiones sociales."], correctAnswer: 0 },
         ],
+        secciones: []
       },
       {
         id: "leccion-39",
@@ -431,6 +447,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Qué principio sobre el estudio de las palabras de los profetas se sugiere en esta lección?", options: ["El crear un plan para estudiar los mensajes de los profetas vivientes te ayuda a escuchar la voz del Señor.", "Que solo debes escucharlos durante la conferencia general.", "Que sus palabras son solo para los adultos."], correctAnswer: 0 },
           { id: 5, question: "¿Por qué se dice que la presencia de Jesús santificó el suelo donde estaba Moisés?", options: ["Porque el desierto era un lugar mágico.", "Porque Su presencia es santa y apartada del mundo.", "Porque Moisés era un rey."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
         id: "leccion-40",
@@ -445,6 +462,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Cómo nos ayuda reconocer las promesas que el Señor nos ha hecho?", options: ["Para presumir de ellas ante los demás.", "Nos motiva a obedecerle incluso cuando las bendiciones tardan en llegar.", "Para no tener que trabajar en nuestra fe."], correctAnswer: 1 },
           { id: 5, question: "¿Qué hicieron Moisés y Aarón después de que el Señor les reiteró Sus promesas en Éxodo 7:6?", options: ["Decidieron retirarse.", "\"Como Jehová les mandó, así lo hicieron\".", "Esperaron a que Faraón cambiara de opinión primero."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
         id: "leccion-201",
@@ -459,6 +477,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Qué bendiciones prometió el presidente Nelson a quienes sirvan y adoren en la Casa del Señor?", options: ["Solo bendiciones materiales.", "Respuestas a la oración, revelación personal, mayor fe y poder.", "Que nunca más tendrán desafíos en la vida."], correctAnswer: 1 },
           { id: 5, question: "¿De qué manera el tiempo que pases en el templo te ayuda a \"pensar de manera celestial\"?", options: ["Te ayuda a captar la visión de quién eres realmente y qué clase de vida puedes tener para siempre.", "Te hace olvidar tus responsabilidades terrenales.", "Te permite saber el futuro exacto de tu vida."], correctAnswer: 0 },
         ],
+        secciones: []
       },
     ],
   },
@@ -472,7 +491,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         title: "Lección de Pascua de Resurrección",
         description: "Encuentra esperanza y paz en el Salvador resucitado.",
         type: "Especial",
-        chapterUrl:"https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/71-easter/711-easter?lang=spa",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/71-easter/711-easter?lang=spa",
         questions: [
           { id: 1, question: "¿Cuál es el evento central que celebramos en la Pascua de Resurrección?", options: ["El nacimiento de Jesús.", "La Resurrección de Jesucristo y Su victoria sobre el pecado y la muerte.", "La salida de los israelitas de Egipto."], correctAnswer: 1 },
           { id: 2, question: "¿Cómo reaccionaron muchos discípulos ante la Crucifixión de Jesús antes de saber que había resucitado?", options: ["Se sintieron muy confiados.", "Se sintieron tentados a perder la esperanza porque el Salvador había muerto.", "Estaban celebrando."], correctAnswer: 1 },
@@ -480,6 +499,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Qué invitación hace el presidente Nelson para el domingo de Pascua?", options: ["Quedarse en casa descansando.", "Centrarse en el Salvador y unirse a la conferencia general para escuchar mensajes sobre Cristo.", "Solo estudiar historia antigua."], correctAnswer: 1 },
           { id: 5, question: "¿Qué nos ofrece el Salvador en momentos de \"tinieblas\" o desafíos personales?", options: ["Solo una explicación teórica.", "Esperanza y paz que otras personas considerarían imposibles.", "La capacidad de evitar todas las pruebas."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
         id: "leccion-205",
@@ -494,6 +514,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Qué significa \"escuchar por el Espíritu\" durante la conferencia?", options: ["Invitar al Espíritu Santo para que nos ilumine y confirme la verdad de lo que escuchamos.", "Escuchar solo la música.", "Tratar de memorizar cada palabra del orador."], correctAnswer: 0 },
           { id: 5, question: "¿Qué prometió el presidente Nelson sobre las notas que tomamos de las ideas que captan nuestra atención?", options: ["Que nos servirán para ganar premios.", "Que debemos pedir al Señor que nos confirme que lo escuchado es verdadero para que sea significativo.", "Que son solo para nuestro uso personal y no tienen valor espiritual."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
         id: "leccion-206",
@@ -508,6 +529,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Cómo puede el Espíritu Santo ayudarte en tu estudio personal de los discursos?", options: ["Ayudándote a reconocer por qué es importante estudiar esos mensajes para ti hoy.", "Dándote las respuestas de tus exámenes escolares.", "Obligándote a leer sin que tengas que esforzarte."], correctAnswer: 0 },
           { id: 5, question: "¿Qué prometió el manual que sucederá si haces el esfuerzo por estudiar las palabras de los siervos del Señor?", options: ["Que serás el alumno más inteligente.", "Que recibirás bendiciones y guía personalizada del Padre Celestial y Jesucristo.", "Que ya no tendrás que leer las Escrituras."], correctAnswer: 1 },
         ],
+        secciones: []
       },
     ],
   },
@@ -516,8 +538,8 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "6 al 12 de abril",
     lessons: [
       {
-        id: "leccion-41", 
-        title: "Lección 41: Éxodo 7–11", 
+        id: "leccion-41",
+        title: "Lección 41: Éxodo 7–11",
         description: "Aprende a ver la mano de Dios en tu vida.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/14-exodus-7-13/141-exodus-7-11?lang=spa",
@@ -528,10 +550,11 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Cuál es una forma común en que el poder del Señor se manifiesta en la actualidad?", options: ["Únicamente mediante plagas o desastres.", "Al sentir consuelo, paz al orar, perdón o la guía del Espíritu Santo.", "A través de la fama y el dinero."], correctAnswer: 1 },
           { id: 5, question: "¿Qué nos ayuda a tener experiencias más frecuentes con el poder del Señor?", options: ["No hacer nada y esperar.", "Demostrar actitudes y acciones fieles de nuestra parte.", "Criticar a los que no tienen fe."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
-        id: "leccion-42", 
-        title: "Lección 42: Éxodo 12–13, Parte 1", 
+        id: "leccion-42",
+        title: "Lección 42: Éxodo 12–13, Parte 1",
         description: "Jesucristo es tu Libertador.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/14-exodus-7-13/142-exodus-12-13-part-1?lang=spa",
@@ -542,10 +565,11 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Por qué es Jesucristo llamado tu \"Libertador\" en esta lección?", options: ["Porque te ayuda a salir de vacaciones.", "Porque tiene la capacidad de librarte de tus pecados y de las dificultades que afrontas.", "Porque Él fue un líder político en Egipto."], correctAnswer: 1 },
           { id: 5, question: "¿Qué representaban las \"hierbas amargas\" en la cena de la Pascua?", options: ["La importancia de comer vegetales.", "La amargura de la servidumbre de Israel y la amargura del pecado en nuestra vida.", "El sabor de la victoria."], correctAnswer: 1 },
         ],
+        secciones: []
       },
       {
-        id: "leccion-43", 
-        title: "Lección 43: Éxodo 12–13, Parte 2", 
+        id: "leccion-43",
+        title: "Lección 43: Éxodo 12–13, Parte 2",
         description: "Participa de la Santa Cena con el deseo de recordar al Salvador.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/14-exodus-7-13/143-exodus-12-13-part-2?lang=spa",
@@ -556,10 +580,11 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Qué nos sucede si dejamos de recordar lo que el Salvador ha hecho por nosotros?", options: ["Nada, la fe sigue igual.", "Nuestra vida se ve afectada y perdemos la perspectiva de Su poder para ayudarnos.", "Somos castigados físicamente de inmediato."], correctAnswer: 1 },
           { id: 5, question: "¿Qué puedes hacer para que la Santa Cena sea más significativa para ti cada semana?", options: ["Prepararte antes, durante y después para recordar algo específico sobre el Salvador.", "Tratar de salir lo más rápido posible de la reunión.", "No pensar en nada para no distraerte."], correctAnswer: 0 },
         ],
+        secciones: []
       },
       {
-        id: "leccion-44", 
-        title: "Lección 44: Práctica 3 del Dominio de la doctrina", 
+        id: "leccion-44",
+        title: "Lección 44: Práctica 3 del Dominio de la doctrina",
         description: "Aprende a adquirir conocimiento espiritual ante desafíos modernos.",
         type: "Dominio de la Doctrina",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/14-exodus-7-13/144-doctrinal-mastery-practice-3?lang=spa",
@@ -570,6 +595,7 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 4, question: "¿Cómo ayuda el ejemplo de José de Egipto (Génesis 39:9) en la práctica de adquirir conocimiento espiritual?", options: ["Muestra cómo conectar nuestras decisiones con nuestra devoción a Dios.", "Nos enseña cómo ser famosos en Egipto.", "No tiene relación con los jóvenes de hoy."], correctAnswer: 0 },
           { id: 5, question: "¿Qué debes recordar al tratar de ayudar a alguien que tiene preguntas o dudas sinceras?", options: ["Que debes juzgarlo por no tener suficiente fe.", "Que debes esforzarte por tratar a todas las personas con el mismo amor y respeto que el Padre Celestial y Jesucristo.", "Que no es importante ayudar si no son de tu religión."], correctAnswer: 1 },
         ],
+        secciones: []
       },
     ],
   },
@@ -577,8 +603,8 @@ export const antiguoTestamentoWeeks: Week[] = [
     id: 7, title: "Semana 7", dateRange: "13 al 19 de abril",
     lessons: [
       {
-        id: "leccion-45", 
-        title: "Lección 45: Éxodo 14", 
+        id: "leccion-45",
+        title: "Lección 45: Éxodo 14",
         description: "Centrarnos en Jesucristo puede aumentar nuestra esperanza.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/15-exodus-14-18/151-exodus-14?lang=spa",
@@ -588,11 +614,12 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué verdad aprendemos sobre nuestra esperanza durante los desafíos difíciles?", options: ["Centrarnos en Jesucristo puede aumentar nuestra esperanza durante las pruebas.", "La esperanza solo llega cuando el problema ya se resolvió.", "Debemos ignorar los problemas para que desaparezcan."], correctAnswer: 0 },
           { id: 4, question: "¿Cómo luchó el Señor por los israelitas en el Mar Rojo?", options: ["Les dio caballos más rápidos.", "Dividió las aguas para que pasaran en seco y luego las cerró sobre los egipcios.", "Hizo que los egipcios se perdieran en el desierto."], correctAnswer: 1 },
           { id: 5, question: "¿Qué nos enseña este milagro sobre la liberación del Señor en nuestra vida?", options: ["Que Él siempre nos quitará el problema de inmediato.", "Que centrarnos en Él nos da fortaleza y esperanza sin importar lo que enfrentemos.", "Que el Señor solo ayuda a quienes nunca tienen miedo."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-46", 
-        title: "Lección 46: Éxodo 15; 17", 
+        id: "leccion-46",
+        title: "Lección 46: Éxodo 15; 17",
         description: "Reconoce verdades de Dios y relacióndalas con tu vida.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/15-exodus-14-18/152-exodus-15-17?lang=spa",
@@ -602,10 +629,11 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué técnica de estudio se sugiere para sacar más provecho de los relatos de las Escrituras?", options: ["Leer solo los versículos más cortos.", "Practicar cómo reconocer verdades de Dios y relacionarlas con nuestra vida.", "Memorizar los nombres de todos los lugares."], correctAnswer: 1 },
           { id: 4, question: "¿Qué aprendemos sobre el sostenimiento de los líderes en la batalla contra Amalec (Éxodo 17)?", options: ["Que cuando sostenemos a nuestros líderes, el pueblo es bendecido y prospera.", "Que los líderes no necesitan ayuda de nadie.", "Que ganar batallas depende solo de la fuerza física."], correctAnswer: 0 },
           { id: 5, question: "¿Cuál es la invitación constante al estudiar estos relatos?", options: ["Solo conocer la historia antigua.", "Buscar impresiones del Espíritu Santo que nos ayuden en el estudio personal.", "Comparar nuestra vida con la de los egipcios."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-47", 
+        id: "leccion-47",
         title: "Lección 47: Éxodo 16",
         description: "Confía en el Señor para tus necesidades diarias.",
         type: "Antiguo Testamento - Ven Sigueme",
@@ -616,12 +644,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué sucedía si los israelitas intentaban guardar maná para el día siguiente (excepto para el día de reposo)?", options: ["Se volvía más sabroso.", "Criaba gusanos y hedía.", "Desaparecía milagrosamente."], correctAnswer: 1 },
           { id: 4, question: "¿Qué principio aprendemos sobre el alimento espiritual diario?", options: ["Cuando confiamos en el Señor a diario, Él nos bendice con el alimento espiritual que necesitamos.", "Una sola experiencia espiritual fuerte dura para toda la vida.", "No necesitamos nutrirnos espiritualmente todos los días."], correctAnswer: 0 },
           { id: 5, question: "¿Cómo puedes aplicar la lección del maná en tu rutina actual?", options: ["Comiendo pan en cada comida.", "Creando el hábito de buscar al Salvador diariamente mediante la oración y las Escrituras.", "Esperando a que el Señor resuelva mis problemas sin esfuerzo."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-162", 
-        title: "Lección 162: Buscar revelación personal", 
-        description: "El Padre Celestial desea revelarte Su voluntad.", 
+        id: "leccion-162",
+        title: "Lección 162: Buscar revelación personal",
+        description: "El Padre Celestial desea revelarte Su voluntad.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/61-doctrinal-mastery/612-seeking-personal-revelation?lang=spa",
         questions: [
@@ -630,12 +659,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué aprendemos de 3 Nefi 11:1–7 sobre cómo reconocer la voz de Dios?", options: ["Que es una voz muy fuerte y ruidosa que todos oyen.", "Que debemos preparar el corazón y los oídos para escuchar Su voz apacible.", "Que solo se oye en el templo."], correctAnswer: 1 },
           { id: 4, question: "¿Cómo puede la comprensión de las diferentes maneras en que el Espíritu se comunica ayudarte?", options: ["Te ayuda a reconocer la revelación personal cuando llega a tu mente o corazón.", "Te permite ignorar los consejos de tus padres.", "No es necesario entenderlo mientras seas bueno."], correctAnswer: 0 },
           { id: 5, question: "Si un amigo siente que no recibe revelación, ¿qué podrías decirle basado en esta lección?", options: ["Que probablemente no tiene fe.", "Que la revelación a menudo viene como una voz apacible y delicada, y requiere esfuerzo buscarla.", "Que deje de orar hasta que sienta algo."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-163", 
-        title: "Lección 163: Actuar con fe para encontrar respuestas", 
-        description: "La fe en Jesucristo te guiará.", 
+        id: "leccion-163",
+        title: "Lección 163: Actuar con fe para encontrar respuestas",
+        description: "La fe en Jesucristo te guiará.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/61-doctrinal-mastery/613-acting-in-faith?lang=spa",
         questions: [
@@ -644,7 +674,8 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Por qué es importante \"confiar en lo que ya sabemos que es verdadero\"?", options: ["Porque nos da un cimiento seguro mientras el Señor nos revela más luz.", "Porque ya no necesitamos aprender nada nuevo.", "Para poder ganar discusiones con otros."], correctAnswer: 0 },
           { id: 4, question: "Muchos relatos del Antiguo Testamento enseñan que...", options: ["Las respuestas siempre llegan al instante.", "Los seguidores de Dios continuaron tomando decisiones fieles mientras esperaban respuestas.", "Solo los que no tenían dudas eran bendecidos."], correctAnswer: 1 },
           { id: 5, question: "¿Cuál es la promesa para quienes actúan con fe ante sus inquietudes?", options: ["Que nunca más tendrán preguntas.", "Que el Señor los bendecirá y fortalecerá en Su propio tiempo.", "Que serán los más populares de su clase."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
     ],
   },
@@ -653,24 +684,25 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "20 al 26 de abril", 
     lessons: [
       {
-        id: "leccion-48", 
-        title: "Lección 48: Éxodo 19", 
-        description: "Dios desea una relación por convenio contigo.", 
+        id: "leccion-48",
+        title: "Lección 48: Éxodo 19",
+        description: "Dios desea una relación por convenio contigo.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/16-exodus-19-20-24-31-34/161-exodus-19?lang=spa",
-        
+
         questions: [
           { id: 1, question: "¿Qué significa el término hebreo segula que se usa en Éxodo 19:5?", options: ["Un pueblo que no tiene nada.", "\"Propiedad preciada\" o \"especial tesoro\".", "Alguien que es muy extraño."], correctAnswer: 1 },
           { id: 2, question: "¿Qué condición puso el Señor a Israel para que llegaran a ser Su pueblo santo?", options: ["Que obedecieran Su voz y guardaran Sus convenios.", "Que construyeran una pirámide más alta que la de Egipto.", "Que nunca tuvieran desafíos en el desierto."], correctAnswer: 0 },
           { id: 3, question: "Según el presidente Nelson, ¿qué sucede con nuestra relación con Dios después de hacer un convenio?", options: ["Se mantiene igual que antes.", "Se vuelve mucho más estrecha y Él jamás cejará en Sus esfuerzos por ayudarnos.", "Él nos exige perfección absoluta de inmediato."], correctAnswer: 1 },
           { id: 4, question: "¿Para qué mandó Moisés santificar al pueblo antes de llegar al monte Sinaí?", options: ["Para una fiesta nacional.", "Para prepararse \"para recibir a Dios\" y hacer convenios.", "Para demostrar que eran mejores que los egipcios."], correctAnswer: 1 },
           { id: 5, question: "¿Qué verdad aprendemos sobre los convenios en esta lección?", options: ["El Padre Celestial desea tener una relación por convenio con cada uno de nosotros.", "Los convenios son solo para los profetas.", "Los convenios limitan nuestra libertad sin darnos nada a cambio."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-49", 
-        title: "Lección 49: Éxodo 20:1–11", 
-        description: "Los Diez Mandamientos nos guían a amar a Dios.", 
+        id: "leccion-49",
+        title: "Lección 49: Éxodo 20:1–11",
+        description: "Los Diez Mandamientos nos guían a amar a Dios.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/16-exodus-19-20-24-31-34/162-exodus-20-1-11?lang=spa",
         questions: [
@@ -679,12 +711,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Por qué el Señor dio estos mandamientos a los israelitas después de liberarlos?", options: ["Para que extrañaran a Faraón.", "Porque los amaba y deseaba guiarlos hacia una vida santa.", "Porque quería que se quedaran en el desierto."], correctAnswer: 1 },
           { id: 4, question: "¿Qué significa santificar el día de reposo en el contexto de amar a Dios?", options: ["Apartar ese día para honrar al Señor y fortalecer nuestra relación con Él.", "No hacer nada en absoluto, ni siquiera comer.", "Es solo un día de descanso físico sin importancia espiritual."], correctAnswer: 0 },
           { id: 5, question: "¿Cuál es la promesa implícita al seguir estos primeros mandamientos?", options: ["Seremos los más ricos del mundo.", "Nuestra conexión con el cielo se fortalecerá y tendremos mayor paz.", "No tendremos que enfrentar más pruebas."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-51", 
-        title: "Lección 51: Éxodo 24; 32–34", 
-        description: "Jesucristo hace posible la misericordia.", 
+        id: "leccion-51",
+        title: "Lección 51: Éxodo 24; 32–34",
+        description: "Jesucristo hace posible la misericordia.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/16-exodus-19-20-24-31-34/164-exodus-24-31-34?lang=spa",
         questions: [
@@ -693,12 +726,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué consecuencia tuvo Israel por su rebelión inicial en el monte?", options: ["El Señor los abandonó para siempre.", "Perdieron el privilegio de recibir las ordenanzas del Sacerdocio de Melquisedec en ese momento.", "Se les ordenó regresar a Egipto."], correctAnswer: 1 },
           { id: 4, question: "¿Qué hizo posible Jesucristo a través de Su Expiación respecto a la ley de la justicia?", options: ["Que la misericordia prevalezca para quienes se arrepienten.", "Que la justicia sea eliminada por completo.", "Que nadie tenga que enfrentar consecuencias."], correctAnswer: 0 },
           { id: 5, question: "¿Qué nos enseña la paciencia (longanimidad) del Señor hacia Israel?", options: ["Que el pecado no importa.", "Que Él nos da tiempo y oportunidades para arrepentirnos y volver a Él.", "Que Él espera que seamos perfectos hoy mismo."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-164", 
-        title: "Lección 164: Analizar temas con perspectiva eterna", 
-        description: "Esfuérzate por ver las cosas como el Señor las ve.", 
+        id: "leccion-164",
+        title: "Lección 164: Analizar temas con perspectiva eterna",
+        description: "Esfuérzate por ver las cosas como el Señor las ve.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/61-doctrinal-mastery/614-examining-gospel-topics?lang=spa",
         questions: [
@@ -707,7 +741,8 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué sabemos sobre el Padre Celestial que nos motiva a confiar en Su perspectiva?", options: ["Que Él nos ama perfectamente y ve lo que nosotros no podemos ver.", "Que Él es un juez severo.", "Que Él no quiere que sepamos nada."], correctAnswer: 0 },
           { id: 4, question: "¿Qué debemos hacer si no encontramos una respuesta inmediata a nuestra pregunta?", options: ["Dejar de asistir a la Iglesia.", "Confiar en el Padre Celestial y Jesucristo mientras seguimos aprendiendo.", "Suponer que no hay respuesta."], correctAnswer: 1 },
           { id: 5, question: "¿Cómo influye una perspectiva eterna en nuestra paz personal?", options: ["Nos ayuda a sentir confianza y esperanza incluso ante lo desconocido.", "Nos hace sentir superiores a los demás.", "Elimina todos nuestros desafíos de inmediato."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -717,9 +752,9 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "27 de abril al 3 de mayo", 
     lessons: [
       {
-        id: "leccion-52", 
-        title: "Lección 52: Éxodo 25; 35–40", 
-        description: "El tabernáculo simboliza los templos modernos.", 
+        id: "leccion-52",
+        title: "Lección 52: Éxodo 25; 35–40",
+        description: "El tabernáculo simboliza los templos modernos.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/17-exodus-35-40-leviticus-1-4-16-19/171-exodus-25-35-40?lang=spa",
         questions: [
@@ -728,11 +763,12 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué representa hoy en día el tabernáculo de la antigüedad?", options: ["Un museo histórico.", "Los santos templos modernos donde adoramos al Señor.", "Una tienda de campaña común."], correctAnswer: 1 },
           { id: 4, question: "¿Cómo ayudaban los símbolos del tabernáculo a los israelitas?", options: ["Dirigían sus pensamientos hacia el Padre Celestial y Jesucristo.", "Les servían de decoración para el campamento.", "Eran acertijos que nadie podía resolver."], correctAnswer: 0 },
           { id: 5, question: "¿Qué sentimiento desea el manual que los alumnos desarrollen a través de esta lección?", options: ["Curiosidad por la arquitectura antigua.", "Un mayor deseo de adorar al Señor en Su templo.", "Ganas de viajar por el desierto."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-53", 
-        title: "Lección 53: Levítico, Parte 1", 
+        id: "leccion-53",
+        title: "Lección 53: Levítico, Parte 1",
         description: "Los sacrificios simbolizan a Jesucristo.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/17-exodus-35-40-leviticus-1-4-16-19/172-leviticus-part-1?lang=spa",
@@ -742,7 +778,8 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿A quién simbolizaba el cordero perfecto?", options: ["A Jesucristo, el Cordero de Dios.", "Al profeta Moisés.", "A la nación de Israel."], correctAnswer: 0 },
           { id: 4, question: "¿Qué aprendemos sobre Jesucristo al estudiar las leyes de sacrificio en Levítico?", options: ["Que Su sacrificio fue voluntario, perfecto y necesario para nuestro perdón.", "Que a Él le gustan los rituales complejos.", "Que el sacrificio terminó con Adán."], correctAnswer: 0 },
           { id: 5, question: "Hoy en día, ¿qué tipo de \"sacrificio\" nos pide el Señor en lugar de animales?", options: ["No nos pide ningún sacrificio.", "Un corazón quebrantado y un espíritu contrito (nuestra voluntad).", "Solo sacrificios de dinero."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -751,8 +788,8 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "4 al 10 de mayo", 
     lessons: [
       {
-        id: "leccion-56", 
-        title: "Lección 56: Números 11–14", 
+        id: "leccion-56",
+        title: "Lección 56: Números 11–14",
         description: "Escoge confiar en el Señor.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/18-numbers-11-14/181-numbers-11-14?lang=spa",
@@ -762,12 +799,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "Según el élder Kevin R. Duncan, cada desafío que afrontamos es una oportunidad para...", options: ["Quejarnos por lo difícil que es la vida.", "Escoger confiar en el Señor, como hicieron Josué y Caleb.", "Rendirnos antes de empezar."], correctAnswer: 1 },
           { id: 4, question: "¿Qué consecuencia sufrió Israel por su falta de fe y rebelión en ese momento?", options: ["Tuvieron que vagar por el desierto durante 40 años.", "Fueron llevados de regreso a Egipto encadenados.", "El Señor les dio una tierra diferente."], correctAnswer: 0 },
           { id: 5, question: "¿Qué verdad aprendemos sobre actuar con fe ante obstáculos \"gigantes\"?", options: ["El Señor nos bendecirá mientras afrontamos nuestros desafíos con fe en lugar de temor.", "La fe elimina los obstáculos instantáneamente sin esfuerzo.", "Es mejor esperar a que el obstáculo desaparezca solo."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-57", 
-        title: "Lección 57: Números 21", 
-        description: "Mira al Salvador con fe.", 
+        id: "leccion-57",
+        title: "Lección 57: Números 21",
+        description: "Mira al Salvador con fe.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/18-numbers-11-14-21/182-numbers-21?lang=spa",
         questions: [
@@ -776,12 +814,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿A quién simbolizaba la serpiente de bronce levantada en el asta?", options: ["A Moisés como líder.", "A Jesucristo levantado en la cruz.", "Al poder de los médicos."], correctAnswer: 1 },
           { id: 4, question: "¿Por qué algunas personas murieron a pesar de tener la solución tan cerca?", options: ["Porque la serpiente estaba muy lejos.", "Por la sencillez del camino (falta de fe para simplemente mirar).", "Porque no tenían buena vista."], correctAnswer: 1 },
           { id: 5, question: "¿Cuál es la verdad central que aprendemos de este relato para nuestra vida hoy?", options: ["Si miramos al Salvador con fe, Él nos sanará espiritual y físicamente según Su voluntad.", "Que debemos tener cuidado con las serpientes en el campo.", "Que las soluciones fáciles nunca funcionan."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-165", 
-        title: "Lección 165: Recurrir a las fuentes divinamente señaladas", 
-        description: "Las Escrituras, profetas y el Espíritu Santo son tus fuentes.", 
+        id: "leccion-165",
+        title: "Lección 165: Recurrir a las fuentes divinamente señaladas",
+        description: "Las Escrituras, profetas y el Espíritu Santo son tus fuentes.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/61-doctrinal-mastery/615-turning-to-divinely-appointed-sources?lang=spa",
         questions: [
@@ -790,12 +829,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Por qué no debemos confiar en \"fuentes no autorizadas\" para responder preguntas espirituales?", options: ["Porque a menudo carecen de la perspectiva eterna y pueden conducir al error.", "Porque está prohibido leer cosas fuera de la Iglesia.", "Porque son aburridas."], correctAnswer: 0 },
           { id: 4, question: "Al buscar respuestas, ¿qué función cumple el Espíritu Santo?", options: ["Él lee las Escrituras por nosotros.", "Nos testifica de la verdad y nos brinda paz y comprensión.", "Nos da las respuestas sin que tengamos que estudiar."], correctAnswer: 1 },
           { id: 5, question: "¿Qué verdad aprendemos sobre cómo Dios nos guía en nuestra búsqueda de conocimiento?", options: ["El Señor nos ha dado fuentes divinamente señaladas para ayudarnos a encontrar respuestas y dirección.", "El Señor quiere que descubramos todo por nuestra cuenta sin ayuda.", "No hay fuentes confiables en la tierra hoy."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-193", 
-        title: "Lección 193: Asumir la responsabilidad de tu aprendizaje", 
-        description: "Tú eres el principal responsable de tu progreso.", 
+        id: "leccion-193",
+        title: "Lección 193: Asumir la responsabilidad de tu aprendizaje",
+        description: "Tú eres el principal responsable de tu progreso.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/67-succeed-in-school/672-taking-responsibility-for-your-learning?lang=spa        ",
         questions: [
@@ -804,7 +844,8 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Por qué es importante estudiar las Escrituras por cuenta propia además de en clase?", options: ["Para terminar el libro más rápido.", "Porque permite que el Espíritu Santo nos enseñe verdades personalizadas para nuestras necesidades.", "Porque es una regla del manual."], correctAnswer: 1 },
           { id: 4, question: "¿Qué actitud ayuda más a un alumno a aprender por el Espíritu?", options: ["La humildad y el deseo sincero de conocer la verdad.", "Tratar de ser el que más sabe en el salón.", "Cuestionar todo con cinismo."], correctAnswer: 0 },
           { id: 5, question: "¿Cuál es el resultado de asumir la responsabilidad de tu propio progreso eterno?", options: ["Tendrás menos tiempo libre.", "Tu testimonio se volverá profundo y firme, edificando tu vida sobre la roca de Cristo.", "Recibirás un diploma automáticamente."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -814,9 +855,9 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "11 al 17 de mayo", 
     lessons: [
       {
-        id: "leccion-194", 
-        title: "Lección 194: Organizar las tareas y prioridades", 
-        description: "El orden te ayuda a seguir el ejemplo de Cristo.", 
+        id: "leccion-194",
+        title: "Lección 194: Organizar las tareas y prioridades",
+        description: "El orden te ayuda a seguir el ejemplo de Cristo.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/67-succeed-in-school/673-organizing-tasks-and-priorities?lang=spa",
         questions: [
@@ -825,12 +866,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "Al organizar un proyecto grande, ¿qué estrategia sugiere el manual basada en la Creación?", options: ["Hacer todo al mismo tiempo para terminar rápido.", "Dividir las tareas grandes en pasos más pequeños y manejables.", "Esperar hasta tener toda la energía necesaria."], correctAnswer: 1 },
           { id: 4, question: "¿Por qué es importante \"descansar\" (como en Abraham 5:2) en nuestra planificación?", options: ["Porque el día de reposo nos permite descansar de nuestras labores y honrar al Señor.", "Porque así tenemos más tiempo para jugar.", "Porque el descanso elimina automáticamente la tarea."], correctAnswer: 0 },
           { id: 5, question: "¿Qué prometen el Padre Celestial y Jesucristo a quienes se esfuerzan por poner orden en su aprendizaje?", options: ["Que siempre tendrán las mejores notas sin estudiar.", "Que Ellos magnificarán y fortalecerán sus esfuerzos.", "Que no tendrán que enfrentar desafíos escolares."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-195", 
-        title: "Lección 195: Superar la procrastinación", 
-        description: "La fe en Jesucristo te ayuda a vencer la postergación.", 
+        id: "leccion-195",
+        title: "Lección 195: Superar la procrastinación",
+        description: "La fe en Jesucristo te ayuda a vencer la postergación.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/67-succeed-in-school/674-overcoming-procrastination?lang=spa",
         questions: [
@@ -839,12 +881,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "Según el élder Randall K. Bennett, ¿cuándo fracasamos realmente?", options: ["Cada vez que cometemos un error.", "Solo si no damos otro paso fiel hacia adelante.", "Si no somos perfectos desde el principio."], correctAnswer: 1 },
           { id: 4, question: "¿Cómo ayuda determinar por qué procrastinamos según el manual?", options: ["Para tener una excusa válida ante los maestros.", "Para ayudarnos a corregir un hábito perjudicial o evitar que se forme.", "Para sentirnos menos culpables."], correctAnswer: 1 },
           { id: 5, question: "¿Cuál es una estrategia sugerida para invitar el poder del Señor contra la procrastinación?", options: ["Orar cada mañana pidiendo Su ayuda para recordar y realizar las tareas.", "Dejar de estudiar y esperar una revelación.", "Estudiar solo cinco minutos antes de dormir."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-58", 
-        title: "Lección 58: Deuteronomio 6:1–6", 
-        description: "Amarás a Jehová tu Dios con todo tu corazón.", 
+        id: "leccion-58",
+        title: "Lección 58: Deuteronomio 6:1–6",
+        description: "Amarás a Jehová tu Dios con todo tu corazón.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/19-deuteronomy-6-34/191-deuteronomy-6-1-6?lang=spa",
         questions: [
@@ -853,12 +896,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué relación hay entre el amor a Dios y la obediencia?", options: ["Guardar los mandamientos es una manera significativa de demostrar que amamos al Señor.", "No hay relación; el amor es solo un sentimiento.", "La obediencia es opcional si sentimos que amamos a Dios."], correctAnswer: 0 },
           { id: 4, question: "¿Por qué el consejo de Moisés de amar a Dios se dio justo antes de entrar a la tierra prometida?", options: ["Porque allí no habría mandamientos.", "Porque el amor a Dios sería su protección contra las influencias del mundo.", "Porque Moisés ya no quería ser el líder."], correctAnswer: 1 },
           { id: 5, question: "¿Qué puede suceder si permites que la seguridad del amor de Dios arda en tu alma?", options: ["Tendrás confianza para seguir tratando de mejorar y buscar el perdón.", "Ya no necesitarás esforzarte en nada.", "Serás más importante que los demás."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-59", 
-        title: "Lección 59: Deuteronomio 6–8", 
-        description: "Recuerda al Señor en todo momento.", 
+        id: "leccion-59",
+        title: "Lección 59: Deuteronomio 6–8",
+        description: "Recuerda al Señor en todo momento.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/19-deuteronomy-6-34/192-deuteronomy-6-8?lang=spa",
         questions: [
@@ -867,7 +911,8 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Cómo puede ayudarte recordar lo que el Señor ha hecho por ti en el pasado?", options: ["Te da confianza para afrontar desafíos futuros con la ayuda del Señor.", "Te hace sentir triste por el tiempo que ya pasó.", "Sirve solo como un dato histórico."], correctAnswer: 0 },
           { id: 4, question: "¿Qué efecto tiene reflexionar en la compasión y bondad de Dios según el manual?", options: ["Nos vuelve más orgullosos de nuestra religión.", "Nos vuelve más humildes, firmes y dedicados a la oración.", "Elimina la necesidad de arrepentirnos."], correctAnswer: 1 },
           { id: 5, question: "¿Qué actividad sugerida ayuda a reconocer la mano del Señor diariamente?", options: ["Llevar un registro de las bendiciones y evidencias del poder de Dios.", "Solo orar cuando algo sale mal.", "Esperar a que ocurra un milagro espectacular."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -876,8 +921,8 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "18 al 24 de mayo", 
     lessons: [
       {
-        id: "leccion-61", 
-        title: "Lección 61: Josué 1", 
+        id: "leccion-61",
+        title: "Lección 61: Josué 1",
         description: "El Señor no te fallará ni te abandonará.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/20-joshua-1-24/201-joshua-1?lang=spa",
@@ -887,12 +932,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué relación existe entre la obediencia a la ley de Dios y la fortaleza personal?", options: ["Ser obedientes nos ayuda a tener mayor confianza para ser fuertes y valientes.", "Ninguna; la valentía es un rasgo de nacimiento.", "La ley de Dios solo sirve para limitarnos."], correctAnswer: 0 },
           { id: 4, question: "¿Qué instrucción le dio el Señor a Josué sobre el \"libro de la ley\" (las Escrituras)?", options: ["Que lo leyera solo una vez al mes.", "Que meditara en él de día y de noche para prosperar.", "Que lo guardara en un lugar seguro sin abrirlo."], correctAnswer: 1 },
           { id: 5, question: "¿Por qué Josué podía tener confianza a pesar de que la tarea era desalentadora?", options: ["Porque el Señor le aseguró: \"como estuve con Moisés, estaré contigo\".", "Porque los israelitas siempre eran muy obedientes.", "Porque él era el mejor estratega militar del mundo."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-62", 
-        title: "Lección 62: Josué 2–4", 
-        description: "Actúa con fe antes de recibir el milagro.", 
+        id: "leccion-62",
+        title: "Lección 62: Josué 2–4",
+        description: "Actúa con fe antes de recibir el milagro.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/20-joshua-1-24/202-joshua-2-4?lang=spa",
         questions: [
@@ -901,12 +947,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Cuál fue el propósito de las doce piedras que sacaron del río Jordán?", options: ["Para construir una nueva muralla.", "Para que sirvieran de monumento y recordatorio del poder de Dios a las futuras generaciones.", "No tenían ningún propósito especial."], correctAnswer: 1 },
           { id: 4, question: "¿Qué aprendemos sobre el ejercicio de la fe en este relato?", options: ["Que la fe solo funciona después de que el milagro ocurre.", "Que a menudo debemos actuar con fe antes de recibir la bendición o el milagro.", "Que la fe es solo para los profetas."], correctAnswer: 1 },
           { id: 5, question: "¿Cómo demostraron fe los hijos de Israel al entrar en la tierra prometida?", options: ["Obedeciendo las instrucciones del Señor, aunque los obstáculos parecieran imposibles.", "Quejándose por la falta de comida.", "Regresando a Egipto para buscar refuerzos."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-63", 
-        title: "Lección 63: Josué 23–24 (Escogeos hoy)", 
-        description: "Usa tu albedrío para servir al Señor.", 
+        id: "leccion-63",
+        title: "Lección 63: Josué 23–24 (Escogeos hoy)",
+        description: "Usa tu albedrío para servir al Señor.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/20-joshua-1-24/203-joshua-23-24?lang=spa",
         questions: [
@@ -915,7 +962,8 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Cuál fue la declaración personal de Josué respecto a su familia?", options: ["\"Mi familia hará lo que todos hagan\".", "\"Pero yo y mi casa serviremos a Jehová\".", "\"Mis hijos decidirán cuando sean adultos\"."], correctAnswer: 1 },
           { id: 4, question: "¿Por qué Josué les recordó a los israelitas los milagros pasados del Señor?", options: ["Para motivarlos a elegir servir al Señor por encima de otras influencias.", "Para presumir de sus victorias militares.", "Porque ellos no sabían historia."], correctAnswer: 0 },
           { id: 5, question: "¿Qué significa hoy \"servir al Señor\" por encima de otros \"dioses\"?", options: ["Solo ir a la Iglesia los domingos.", "Poner al Señor en primer lugar por encima de las prioridades del mundo.", "No tener ninguna otra actividad fuera de la religión."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -925,9 +973,9 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "25 al 31 de mayo", 
     lessons: [
       {
-        id: "leccion-66", 
-        title: "Lección 66: Jueces 6–8", 
-        description: "Confía en el Señor para obtener fortaleza.", 
+        id: "leccion-66",
+        title: "Lección 66: Jueces 6–8",
+        description: "Confía en el Señor para obtener fortaleza.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/21-judges-2-16/212-judges-6-8?lang=spa",
         questions: [
@@ -936,12 +984,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué atributo del Salvador se destaca en esta lección para nuestras pruebas personales?", options: ["Su deseo de que suframos solos.", "Su capacidad para darnos fortaleza cuando sentimos que la nuestra no es suficiente.", "Que Él solo ayuda a los ejércitos grandes."], correctAnswer: 1 },
           { id: 4, question: "¿Qué verdad aprendemos al confiar en Jesucristo para obtener fortaleza?", options: ["Que con Su ayuda podemos prevalecer sobre desafíos que parecen imposibles.", "Que nunca tendremos que esforzarnos.", "Que los problemas desaparecerán sin que hagamos nada."], correctAnswer: 0 },
           { id: 5, question: "¿Cuál es la invitación central de la historia de Gedeón para tu vida?", options: ["Ser un líder militar.", "Confiar en el Señor para obtener fortaleza en tus desafíos personales.", "Solo buscar ayuda cuando todo lo demás falle."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-67", 
-        title: "Lección 67: Evalúa tu aprendizaje 4", 
-        description: "Reflexiona sobre tu progreso espiritual.", 
+        id: "leccion-67",
+        title: "Lección 67: Evalúa tu aprendizaje 4",
+        description: "Reflexiona sobre tu progreso espiritual.",
         type: "Dominio de la Doctrina",
         questions: [
           { id: 1, question: "¿Cuál es el propósito de reflexionar sobre los modelos o símbolos de Jesucristo en el Antiguo Testamento?", options: ["Dirigir nuestros pensamientos hacia Su misión y poder para sanarnos y liberarnos.", "Aprender arte antiguo.", "Cumplir con un requisito de examen."], correctAnswer: 0 },
@@ -949,7 +998,8 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Qué verdad se repasó sobre la serpiente de bronce (Números 21)?", options: ["Que si miramos al Salvador con fe, Él puede sanarnos espiritual y físicamente.", "Que las serpientes son peligrosas.", "Que los símbolos no tienen poder."], correctAnswer: 0 },
           { id: 4, question: "¿Por qué es importante evaluar periódicamente nuestro progreso en guardar los mandamientos?", options: ["Para compararnos con los demás.", "Para reconocer bendiciones, crecimiento y ajustar nuestro plan para acercarnos a Dios.", "Porque el maestro necesita poner una nota."], correctAnswer: 1 },
           { id: 5, question: "¿Qué enseñó el manual sobre la \"velocidad\" de tu progreso espiritual?", options: ["Que la dirección en la que te diriges es más importante que la velocidad.", "Que debes ser el más rápido de tu clase.", "Que si vas lento, no estás progresando."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -959,9 +1009,9 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "1 al 7 de junio", 
     lessons: [
       {
-        id: "leccion-68", 
-        title: "Lección 68: Rut (Redención)", 
-        description: "El Salvador está dispuesto a redimirte.", 
+        id: "leccion-68",
+        title: "Lección 68: Rut (Redención)",
+        description: "El Salvador está dispuesto a redimirte.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-ruth-1-samuel-1-7/221-ruth-1-4?lang=spa",
         questions: [
@@ -970,12 +1020,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Por qué se dice que nuestra salvación es una historia de redención?", options: ["Porque el precio es demasiado alto para pagarlo solos y necesitamos ser rescatados por el Salvador.", "Porque nosotros podemos pagar todo con nuestro esfuerzo.", "Porque la redención es solo para los israelitas antiguos."], correctAnswer: 0 },
           { id: 4, question: "¿Qué cualidad de Rut permitió que el Señor la bendijera grandemente?", options: ["Su fe, lealtad y disposición para confiar bajo las alas del Dios de Israel.", "Su riqueza previa en Moab.", "Su gran conocimiento de la guerra."], correctAnswer: 0 },
           { id: 5, question: "¿Cuál es la lección principal sobre la redención en nuestras vidas?", options: ["Que solo ocurre después de morir.", "Que el Salvador está dispuesto y es capaz de redimirnos de nuestras aflicciones y pecados.", "Que debemos ser perfectos para ser redimidos."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-177", 
-        title: "Lección 177: Desarrollar autosuficiencia a la manera del Señor", 
-        description: "Prepárate para proveer y bendecir a los demás.", 
+        id: "leccion-177",
+        title: "Lección 177: Desarrollar autosuficiencia a la manera del Señor",
+        description: "Prepárate para proveer y bendecir a los demás.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/64-building-self-reliance/641-building-self-reliance-in-the-lords-way?lang=spa",
         questions: [
@@ -984,7 +1035,8 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "Según el manual, ¿qué áreas incluye la autosuficiencia?", options: ["Solo el área financiera.", "Elementos tanto espirituales como temporales.", "Únicamente el éxito académico."], correctAnswer: 1 },
           { id: 4, question: "Al desarrollar autosuficiencia desde joven, ¿qué estás logrando?", options: ["Prepararte para tener una mayor capacidad en la vida adulta.", "Evitar todos los problemas de la vida.", "No tener que volver a estudiar."], correctAnswer: 0 },
           { id: 5, question: "¿Por qué se usa el ejemplo de la \"máscara de oxígeno\" del avión en esta lección?", options: ["Para ilustrar que debemos fortalecernos nosotros mismos para poder ayudar eficazmente a otros.", "Para aprender sobre seguridad en viajes.", "Porque es un requisito de supervivencia."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -994,9 +1046,9 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "8 al 14 de junio", 
     lessons: [
       {
-        id: "leccion-72", 
-        title: "Lección 72: 1 Samuel 15", 
-        description: "La obediencia total conduce al gozo.", 
+        id: "leccion-72",
+        title: "Lección 72: 1 Samuel 15",
+        description: "La obediencia total conduce al gozo.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/23-1-samuel-8-16/232-1-samuel-15?lang=spa",
         questions: [
@@ -1005,12 +1057,13 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Cuál es la consecuencia de \"seleccionar y escoger\" qué mandamientos guardar?", options: ["Una vida más fácil y libre.", "Conduce a la miseria y nos aleja del Señor.", "No tiene ninguna consecuencia si somos buenas personas."], correctAnswer: 1 },
           { id: 4, question: "¿Por qué Dios nos da leyes y mandamientos según el presidente Nelson?", options: ["Debido a Su amor infinito y Su deseo de que lleguemos a ser todo lo que podemos ser.", "Para ver si fallamos y poder castigarnos.", "Porque a Él le gusta controlar a las personas."], correctAnswer: 0 },
           { id: 5, question: "¿Qué sucede cuando escogemos amar al Señor y guardar Sus mandamientos?", options: ["Él puede bendecirnos y amarnos más abundantemente.", "Ya no necesitamos arrepentirnos más.", "Somos automáticamente mejores que quienes no los guardan."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-179", 
-        title: "Lección 179: Administración prudente de recursos económicos", 
-        description: "El Señor se ocupa de los detalles de tu vida.", 
+        id: "leccion-179",
+        title: "Lección 179: Administración prudente de recursos económicos",
+        description: "El Señor se ocupa de los detalles de tu vida.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/64-building-self-reliance/643-managing-financial-resources-wisely?lang=spa",
         questions: [
@@ -1019,7 +1072,8 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 3, question: "¿Cuál debe ser nuestra prioridad suprema al administrar nuestro dinero?", options: ["Comprar el teléfono más moderno.", "Pagar los diezmos y ofrendas y buscar el Reino de Dios.", "Ser la persona más rica de la comunidad."], correctAnswer: 1 },
           { id: 4, question: "¿Por qué es importante orar por nuestros asuntos temporales (como las finanzas)?", options: ["Porque debemos hacer partícipe al Señor en todas las partes de nuestra vida.", "Para que Dios nos dé los números de la lotería.", "No es importante orar por eso; Dios ya lo sabe."], correctAnswer: 0 },
           { id: 5, question: "¿Qué principio nos ayuda a evitar la codicia según el manual?", options: ["Agradecer sinceramente las bendiciones que Dios ya nos ha dado.", "Trabajar 24 horas al día.", "No mirar lo que tienen los demás."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -1029,52 +1083,56 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "15 al 21 de junio", 
     lessons: [
       {
-        id: "leccion-180", 
-        title: "Lección 180: Proveer para nosotros mismos y cuidar de los necesitados", 
-        description: "La autosuficiencia nos permite ayudar como Cristo.", 
+        id: "leccion-180",
+        title: "Lección 180: Proveer para nosotros mismos y cuidar de los necesitados",
+        description: "La autosuficiencia nos permite ayudar como Cristo.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/64-building-self-reliance/644-providing-for-ourselves?lang=spa",
         questions: [
           { id: 1, question: "¿Qué verdad central aprendemos sobre el desarrollo de nuestra autosuficiencia?", options: ["Que sirve para ser independientes de Dios.", "Que nos permite ayudar a los demás tal como lo haría Jesucristo.", "Que es solo para ganar más dinero."], correctAnswer: 1 },
           { id: 2, question: "¿Qué personaje del Antiguo Testamento es un gran ejemplo de autosuficiencia y de ayudar a los necesitados durante una hambruna?", options: ["Saúl.", "José de Egipto.", "Nabal."], correctAnswer: 1 },
           { id: 3, question: "Para ayudar a alguien, ¿necesitas ser perfectamente autosuficiente primero?", options: ["Sí, de lo contrario no puedes dar nada.", "No; puedes ayudar a otros mientras te esfuerzas por mejorar tú mismo.", "Solo si se trata de ayuda económica."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-202", 
-        title: "Lección 202: Convenio de obedecer las leyes de obediencia y de sacrificio", 
-        description: "Los convenios del templo te acercan a Cristo.", 
+        id: "leccion-202",
+        title: "Lección 202: Convenio de obedecer las leyes de obediencia y de sacrificio",
+        description: "Los convenios del templo te acercan a Cristo.",
         type: "Especial",
-        chapterUrl:"https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/692-laws-of-obedience?lang=spa",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/692-laws-of-obedience?lang=spa",
         questions: [
           { id: 1, question: "¿Qué leyes prometemos vivir como parte del convenio de la investidura en el templo?", options: ["Solo la ley del diezmo.", "Las leyes de obediencia y de sacrificio.", "Únicamente reglas de vestimenta."], correctAnswer: 1 },
           { id: 2, question: "¿Por qué el Señor nos pide hacer estos convenios en Su santa casa?", options: ["Para ayudarnos a llegar a ser más semejantes a Él y a Su Hijo.", "Porque quiere restringir nuestra libertad.", "Para que podamos presumir de ser miembros del templo."], correctAnswer: 0 },
           { id: 3, question: "¿Cuál es la relación entre el sacrificio y nuestro amor por el Salvador?", options: ["Nuestra disposición a sacrificar muestra nuestra devoción y amor por Él.", "El sacrificio es un castigo por nuestros pecados.", "No hay relación entre ambos."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-74", 
-        title: "Lección 74: 1 Samuel 17", 
-        description: "El Señor te ayudará a vencer tus gigantes.", 
+        id: "leccion-74",
+        title: "Lección 74: 1 Samuel 17",
+        description: "El Señor te ayudará a vencer tus gigantes.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/24-1-samuel-17-26-2-samuel-5-7/241-1-samuel-17?lang=spa",
         questions: [
           { id: 1, question: "¿En qué basó David su confianza para enfrentar al gigante Goliat?", options: ["En su gran puntería con la honda.", "En que el Señor, que lo había librado antes, lo ayudaría de nuevo.", "En que era más alto que Saúl."], correctAnswer: 1 },
           { id: 2, question: "¿Qué simbolizan las \"piedras\" de David para los desafíos que tú enfrentas hoy?", options: ["Diferentes maneras y principios en los que puedes confiar en el Señor.", "Que debes buscar soluciones físicas a problemas espirituales.", "Que los desafíos son fáciles de vencer."], correctAnswer: 0 },
           { id: 3, question: "¿Qué verdad aprendemos sobre cómo enfrentar nuestros \"gigantes\" personales?", options: ["Debemos hacerlo siempre solos.", "El Señor nos ayudará a afrontar y vencer nuestros desafíos si confiamos en Él.", "Si tenemos fe, el desafío desaparecerá sin pelear."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-75", 
-        title: "Lección 75: 1 Samuel 25", 
-        description: "El Salvador intercede por nosotros.", 
+        id: "leccion-75",
+        title: "Lección 75: 1 Samuel 25",
+        description: "El Salvador intercede por nosotros.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/24-1-samuel-17-26-2-samuel-5-7/242-1-samuel-25?lang=spa",
         questions: [
           { id: 1, question: "¿A quién simboliza Abigail en su papel de intercesora entre David y Nabal?", options: ["A una reina antigua.", "A Jesucristo, quien intercede por nosotros y nos ayuda a perdonar.", "A una líder militar."], correctAnswer: 1 },
           { id: 2, question: "¿Cuál fue el consejo de Abigail que evitó que David cometiera un error por enojo?", options: ["Que atacara a Nabal por la noche.", "Que dejara el juicio en manos del Señor y evitara derramar sangre.", "Que huyera de regreso a su casa."], correctAnswer: 1 },
           { id: 3, question: "¿Cómo puede el Salvador ayudarte cuando alguien te ofende o te lastima?", options: ["Él puede darte la capacidad y el corazón para perdonar, incluso cuando es difícil.", "Él te ayudará a vengarte justamente.", "Él hará que olvides lo que pasó instantáneamente."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -1084,21 +1142,22 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "22 al 28 de junio", 
     lessons: [
       {
-        id: "leccion-77", 
-        title: "Lección 77: 2 Samuel 11–12", 
-        description: "No podemos ocultar nuestros pecados del Señor.", 
+        id: "leccion-77",
+        title: "Lección 77: 2 Samuel 11–12",
+        description: "No podemos ocultar nuestros pecados del Señor.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/251-2-samuel-11-12?lang=spa",
         questions: [
           { id: 1, question: "¿Qué gran verdad aprendemos de la caída del rey David respecto a sus decisiones?", options: ["Que los reyes pueden hacer lo que quieran.", "Que no podemos ocultar nuestros pecados del Señor.", "Que el pecado no tiene consecuencias si eres un profeta."], correctAnswer: 1 },
           { id: 2, question: "¿Cómo reaccionó David cuando el profeta Natán lo confrontó con su pecado?", options: ["Mandó encarcelar a Natán.", "Reconoció su pecado y dijo: \"Pequé contra Jehová\".", "Negó todo lo que había sucedido."], correctAnswer: 1 },
           { id: 3, question: "A pesar de los errores graves, ¿qué desea el Padre Celestial para todos nosotros?", options: ["Que nos sintamos culpables para siempre.", "Que nos arrepintamos y volvamos a Él, porque nos ama perfectamente.", "Que ocultemos nuestros errores para no avergonzar a la Iglesia."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-79", 
-        title: "Lección 79: 1 Reyes 6–9", 
-        description: "El templo es la Casa del Señor.", 
+        id: "leccion-79",
+        title: "Lección 79: 1 Reyes 6–9",
+        description: "El templo es la Casa del Señor.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/253-1-kings-6-9?lang=spa",
 
@@ -1106,19 +1165,21 @@ export const antiguoTestamentoWeeks: Week[] = [
           { id: 1, question: "¿Cuál es la verdad fundamental sobre el templo que el élder Andersen nos invita a grabar en el alma?", options: ["Es el edificio más caro de la ciudad.", "El templo es la Casa del Señor.", "Es un lugar para reuniones sociales."], correctAnswer: 1 },
           { id: 2, question: "¿Cuál era el propósito de construir una Casa del Señor permanente en la época de Salomón?", options: ["Para que el Señor pudiera \"habitar en medio\" de Su pueblo.", "Para guardar los tesoros del rey.", "Para demostrar que Israel era una nación poderosa."], correctAnswer: 0 },
           { id: 3, question: "¿Qué bendiciones buscó Salomón para el pueblo en la oración dedicatoria del templo?", options: ["Solo victorias militares.", "Perdón, guía y que el Señor escuchara sus oraciones desde Su casa.", "Riquezas para todos los ciudadanos."], correctAnswer: 1 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-203", 
-        title: "Lección 203: Preparación para entrar dignamente en el templo", 
+        id: "leccion-203",
+        title: "Lección 203: Preparación para entrar dignamente en el templo",
         description: "El Señor establece las normas de dignidad.",
         type: "Especial",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/694-participating-in-temple-and-family-history?lang=spa",
-         questions: [
+        questions: [
           { id: 1, question: "¿Quién establece las normas de dignidad para entrar en la Casa del Señor?", options: ["El obispo según su opinión personal.", "El Señor.", "La comunidad local."], correctAnswer: 1 },
           { id: 2, question: "¿Por qué el Señor pide que los líderes del sacerdocio nos entrevisten para ir al templo?", options: ["Para juzgarnos severamente.", "Para asegurarse de que entremos en Su casa dignamente y ayudarnos a prepararnos.", "Solo para llevar un registro de asistencia."], correctAnswer: 1 },
           { id: 3, question: "¿Qué efecto tiene el vivir las normas del Señor en tu vida diaria?", options: ["Te ayuda a llegar a ser como Él y te bendice con Su Espíritu y paz.", "Te hace sentir superior a los que no van al templo.", "No tiene ningún efecto fuera del edificio del templo."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -1128,28 +1189,30 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "29 de junio al 5 de julio", 
     lessons: [
       {
-        id: "leccion-81", 
-        title: "Lección 81: 1 Reyes 17", 
-        description: "La fe en medio de la escasez trae bendiciones.", 
+        id: "leccion-81",
+        title: "Lección 81: 1 Reyes 17",
+        description: "La fe en medio de la escasez trae bendiciones.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/26-1-kings-12-22/261-1-kings-17?lang=spa",
         questions: [
           { id: 1, question: "¿Qué le pidió Elías a la viuda de Sarepta antes de que ella alimentara a su propio hijo?", options: ["Que le diera todo su dinero.", "Que le hiciera a él primero una pequeña torta cocida con lo último que tenía.", "Que lo dejara vivir en su casa para siempre."], correctAnswer: 1 },
           { id: 2, question: "¿Cómo demostró la viuda su fe en Dios en medio de la sequía?", options: ["Quejándose con el profeta.", "Siguiendo las instrucciones del profeta a pesar de su situación desesperada.", "Pidiendo una señal antes de actuar."], correctAnswer: 1 },
           { id: 3, question: "¿Cuál fue la promesa cumplida por actuar con fe en este relato?", options: ["Que la harina y el aceite no escasearían hasta que volviera a llover.", "Que la viuda se volvería la mujer más rica de Sarepta.", "Que Elías le daría un nuevo hogar."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-204", 
-        title: "Lección 204: Participar en la obra del templo y de historia familiar", 
-        description: "Sé un salvador en el monte de Sion.", 
+        id: "leccion-204",
+        title: "Lección 204: Participar en la obra del templo y de historia familiar",
+        description: "Sé un salvador en el monte de Sion.",
         type: "Especial",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/694-participating-in-temple-and-family-history?lang=spa",
         questions: [
           { id: 1, question: "¿A qué se refiere el título \"salvadores en el monte Sion\"?", options: ["A las personas que rescatan a otros de desastres naturales.", "A nosotros, cuando participamos en las ordenanzas por nuestros antepasados fallecidos.", "Solo a los profetas antiguos."], correctAnswer: 1 },
           { id: 2, question: "Según el presidente Nelson, ¿por qué es tan importante la obra por los antepasados ahora?", options: ["Porque hay muchas más personas esperando las ordenanzas al otro lado del velo que de este.", "Porque es un pasatiempo interesante.", "Para llenar las bases de datos de la Iglesia."], correctAnswer: 0 },
           { id: 3, question: "¿Cómo te ayuda esta obra a ser más como Jesucristo?", options: ["Al hacer algo por otros que ellos mismos no pueden hacer.", "Al aprender mucha historia del mundo.", "Al viajar a diferentes templos."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -1159,39 +1222,42 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "6 al 12 de julio", 
     lessons: [
       {
-        id: "leccion-169", 
-        title: "Lección 169: Acciones que invitan al Espíritu Santo durante el estudio", 
-        description: "El Espíritu Santo te enseñará verdades.", 
+        id: "leccion-169",
+        title: "Lección 169: Acciones que invitan al Espíritu Santo durante el estudio",
+        description: "El Espíritu Santo te enseñará verdades.",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/624-actions-that-invite-the-holy-ghost?lang=spa",
         questions: [
           { id: 1, question: "¿Cuál es el resultado de abordar tu estudio de las Escrituras con atención deliberada?", options: ["Terminarás el libro más rápido.", "El Padre Celestial enviará al Espíritu Santo para ayudarte a reconocer y aplicar verdades.", "Sabrás más palabras técnicas que los demás."], correctAnswer: 1 },
           { id: 2, question: "¿Qué acción puedes tomar para que el Espíritu te enseñe mejor en Seminario?", options: ["Orar para entender y venir preparado para participar activamente.", "Solo sentarte y esperar a que el maestro hable.", "Estudiar otras cosas durante la clase."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-84", 
-        title: "Lección 84: 2 Reyes 5", 
-        description: "Las cosas pequeñas y sencillas traen grandes bendiciones.", 
+        id: "leccion-84",
+        title: "Lección 84: 2 Reyes 5",
+        description: "Las cosas pequeñas y sencillas traen grandes bendiciones.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/272-2-kings-5?lang=spa",
         questions: [
           { id: 1, question: "¿Por qué se indignó Naamán inicialmente con el consejo del profeta Eliseo?", options: ["Porque el profeta le pidió mucho dinero.", "Porque el camino para ser sanado (lavarse en el Jordán) le pareció demasiado sencillo.", "Porque no quería mojarse."], correctAnswer: 1 },
           { id: 2, question: "¿Cuál es la lección principal sobre las cosas \"pequeñas y sencillas\"?", options: ["Que no son importantes para Dios.", "Que al obedecer las cosas sencillas que el Señor pide, recibimos Su poder y bendiciones.", "Que las cosas difíciles valen más que las sencillas."], correctAnswer: 1 },
           { id: 3, question: "¿Qué recibió Naamán además de la salud física al final de su historia?", options: ["Un testimonio de que no hay Dios en toda la tierra, sino en Israel.", "Un puesto de mando más alto.", "Una medalla de honor."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-85", 
-        title: "Lección 85: 2 Reyes 6 (Los carros de fuego)", 
-        description: "Los que están con nosotros son más que los que están contra nosotros.", 
+        id: "leccion-85",
+        title: "Lección 85: 2 Reyes 6 (Los carros de fuego)",
+        description: "Los que están con nosotros son más que los que están contra nosotros.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/273-2-kings-6?lang=spa",
         questions: [
           { id: 1, question: "¿Por qué gritó atemorizado el criado de Eliseo cuando vio al ejército sirio?", options: ["Porque no tenían armas.", "Porque solo veía el peligro físico y no la ayuda espiritual.", "Porque tenía hambre."], correctAnswer: 1 },
           { id: 2, question: "¿Qué pidió Eliseo al Señor que hiciera por su criado?", options: ["Que los transportara a otro lugar.", "\"Te ruego, oh Jehová, que abras sus ojos para que vea\".", "Que destruyera a los sirios con fuego."], correctAnswer: 1 },
           { id: 3, question: "¿Cuál es la verdad que nos consuela en momentos de temor según esta lección?", options: ["Los que están con nosotros son más que los que están contra nosotros (el poder del Señor nos protege).", "Que los ejércitos humanos son siempre débiles.", "Que debemos cerrar los ojos ante los problemas."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -1201,26 +1267,28 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "13 al 19 de julio", 
     lessons: [
       {
-        id: "leccion-86", 
-        title: "Lección 86: 2 Reyes 18–19", 
-        description: "Pon tu esperanza en Jehová.", 
+        id: "leccion-86",
+        title: "Lección 86: 2 Reyes 18–19",
+        description: "Pon tu esperanza en Jehová.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/281-2-kings-18-19?lang=spa",
         questions: [
           { id: 1, question: "¿Qué hizo el rey Ezequías cuando el poderoso ejército asirio amenazó con destruir Jerusalén?", options: ["Se rindió de inmediato.", "Acudió al Señor en el templo y buscó la guía del profeta Isaías.", "Hizo una alianza secreta con Egipto."], correctAnswer: 1 },
           { id: 2, question: "¿Cuál es la promesa para quienes ponen su esperanza en Jehová?", options: ["El Señor nos fortalecerá y nos librará según Su voluntad.", "Nunca tendremos que enfrentar enemigos.", "Seremos el ejército más grande del mundo."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-87", 
-        title: "Lección 87: 2 Reyes 21–23 (Josías)", 
+        id: "leccion-87",
+        title: "Lección 87: 2 Reyes 21–23 (Josías)",
         description: "Las Escrituras transforman vidas.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/282-2-kings-21-23?lang=spa",
         questions: [
           { id: 1, question: "¿Qué descubrimiento cambió el reinado de Josías y la vida de su pueblo?", options: ["Una mina de oro.", "El hallazgo del \"libro de la ley\" (las Escrituras) en el templo.", "Una nueva táctica militar."], correctAnswer: 1 },
           { id: 2, question: "¿Cómo influyó el estudio de las Escrituras en el pueblo de Josías?", options: ["Les ayudó a volverse al Señor con todo su corazón y a eliminar la idolatría.", "Los hizo sentir más inteligentes que sus vecinos.", "No tuvo ningún efecto duradero."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },
@@ -1230,27 +1298,29 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "20 al 26 de julio", 
     lessons: [
       {
-        id: "leccion-90", 
-        title: "Lección 90: 2 Crónicas 14–16", 
-        description: "Busca al Señor en todo momento.", 
+        id: "leccion-90",
+        title: "Lección 90: 2 Crónicas 14–16",
+        description: "Busca al Señor en todo momento.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/29-2-kings-14-30/291-2-chronicles-14-16?lang=spa",
         questions: [
           { id: 1, question: "¿Cuándo es el mejor momento para buscar al Señor, según la experiencia de Asa?", options: ["Solo cuando tenemos problemas graves.", "Solo cuando todo va bien y estamos en paz.", "Tanto en tiempos de paz como en momentos de dificultad."], correctAnswer: 2 },
           { id: 2, question: "¿Qué promesa le dio el profeta Azarías a Asa en 2 Crónicas 15:2?", options: ["\"Si le buscáis, vosotros le hallaréis\".", "\"Ya no tendréis más guerras\".", "\"Seréis los más sabios de Judá\"."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
       {
-        id: "leccion-91", 
-        title: "Lección 91: 2 Crónicas 17–20", 
-        description: "Cree en el Señor y en Sus profetas.", 
+        id: "leccion-91",
+        title: "Lección 91: 2 Crónicas 17–20",
+        description: "Cree en el Señor y en Sus profetas.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/29-2-kings-14-30/292-2-chronicles-17-20?lang=spa",
         questions: [
           { id: 1, question: "¿Qué acción colectiva tomó el pueblo de Josafat para pedir ayuda ante un gran ejército enemigo?", options: ["Reunieron todos sus ahorros.", "Ayunaron y oraron juntos buscando al Señor en Su casa.", "Entrenaron 24 horas al día."], correctAnswer: 1 },
           { id: 2, question: "¿Cuál de estos principios aprendemos de la victoria de Josafat?", options: ["Mientras creamos en el Señor y en Sus profetas, prosperaremos.", "La música no tiene poder en las batallas.", "El ayuno es solo para los adultos."], correctAnswer: 0 },
           { id: 3, question: "¿Qué papel jugó la alabanza y la música en su liberación?", options: ["El Señor los bendijo mientras alababan con música incluso antes de la batalla.", "Fue solo para celebrar después de ganar.", "No tuvo ninguna importancia."], correctAnswer: 0 },
-        ]
+        ],
+        secciones: []
       },
     ]
   },

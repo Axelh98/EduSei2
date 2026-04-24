@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, use } from "react"
+import { useState, use, useMemo } from "react"
 import { notFound } from "next/navigation"
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
@@ -9,17 +9,38 @@ import { getCategoryById, getTotalLessons, getTotalQuestions } from "@/lib/quiz-
 import { ArrowLeft, BookOpen, FileQuestion, Calendar, Share2, X } from "lucide-react"
 import Link from "next/link"
 
+// --- IMPORTACIÓN DE RESÚMENES ---
+import { leccionesResumidas } from "@/lib/data/antiguo-testamento-resumido"
+
 interface CategoryPageProps {
   params: Promise<{ categoryId: string }>
 }
 
 export default function CategoryPage({ params }: CategoryPageProps) {
-  // En Next.js 15, usamos 'use' para desenvolver los params en Client Components
   const { categoryId } = use(params)
   const category = getCategoryById(categoryId)
 
-  // Estado global para las lecciones seleccionadas de todas las semanas
   const [selectedLessons, setSelectedLessons] = useState<string[]>([])
+
+  // --- LÓGICA DE UNIÓN DE DATOS ---
+  // Unimos las lecciones del manual con el contenido resumido si existe
+  const weeksWithExtraContent = useMemo(() => {
+    if (!category) return []
+
+    return category.weeks.map(week => ({
+      ...week,
+      lessons: week.lessons.map(lesson => {
+        // Buscamos si hay un resumen para esta lección en particular
+        const extraData = leccionesResumidas.find(l => l.id === lesson.id)
+        
+        return {
+          ...lesson,
+          // Inyectamos las secciones del resumen (esto habilitará el botón en LessonCard)
+          secciones: extraData ? extraData.secciones : []
+        }
+      })
+    }))
+  }, [category])
 
   if (!category) {
     notFound()
@@ -28,7 +49,6 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const totalLessons = getTotalLessons(category)
   const totalQuestions = getTotalQuestions(category)
 
-  // Función global para alternar selección
   const toggleLesson = (lessonId: string) => {
     setSelectedLessons((prev) =>
       prev.includes(lessonId)
@@ -37,20 +57,19 @@ export default function CategoryPage({ params }: CategoryPageProps) {
     )
   }
 
-  // Función para compartir todas las seleccionadas
   const handleShare = () => {
     const baseUrl = window.location.origin
     const data = `${categoryId}:${selectedLessons.join(",")}`
     const finalUrl = `${baseUrl}/recuperar?data=${encodeURIComponent(data)}`
     
-    const text = `Hola, aquí tienes las lecciones de Seminario que debes completar: ${finalUrl}`
+    const text = `Hola, aquí tienes las lecciones de Seminario que debes completar para ponerte al día: ${finalUrl}`
     window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank")
   }
 
   return (
     <div className="flex min-h-screen flex-col bg-background">
       <SiteHeader />
-      <main className="flex-1 pb-20"> {/* pb-20 para que el botón flotante no tape contenido */}
+      <main className="flex-1 pb-20">
         <section className="border-b border-border bg-card px-4 pb-10 pt-8 md:px-6">
           <div className="mx-auto max-w-4xl">
             <Link
@@ -75,11 +94,11 @@ export default function CategoryPage({ params }: CategoryPageProps) {
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <BookOpen className="h-4 w-4 text-primary" />
                 <span className="font-medium">{totalLessons}</span>{" "}
-                {totalLessons === 1 ? "leccion" : "lecciones"}
+                {totalLessons === 1 ? "lección" : "lecciones"}
               </div>
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <FileQuestion className="h-4 w-4 text-primary" />
-                <span className="font-medium">{totalQuestions}</span> preguntas
+                <span className="font-medium">{totalQuestions}</span> preguntas evaluativas
               </div>
             </div>
           </div>
@@ -87,7 +106,8 @@ export default function CategoryPage({ params }: CategoryPageProps) {
 
         <section className="px-4 py-10 md:px-6">
           <div className="mx-auto flex max-w-4xl flex-col gap-4">
-            {category.weeks.map((week, index) => (
+            {/* CAMBIO CLAVE: Usamos weeksWithExtraContent en lugar de category.weeks */}
+            {weeksWithExtraContent.map((week, index) => (
               <WeekCard
                 key={week.id}
                 week={week}
@@ -108,14 +128,14 @@ export default function CategoryPage({ params }: CategoryPageProps) {
             <span className="flex h-6 w-6 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground">
               {selectedLessons.length}
             </span>
-            <span className="text-sm font-medium hidden sm:inline">lecciones seleccionadas</span>
+            <span className="text-sm font-medium hidden sm:inline">seleccionadas</span>
           </div>
           <button
             onClick={handleShare}
-            className="flex items-center gap-2 rounded-full bg-[#25D366] px-6 py-2.5 text-sm font-bold text-white transition-transform hover:scale-105 active:scale-95"
+            className="flex items-center gap-2 rounded-full bg-[#25D366] px-6 py-2.5 text-sm font-bold text-white transition-transform hover:scale-105 active:scale-95 shadow-md"
           >
             <Share2 className="h-4 w-4" />
-            Compartir
+            Compartir por WhatsApp
           </button>
           <button 
             onClick={() => setSelectedLessons([])}
