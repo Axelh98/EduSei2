@@ -1,42 +1,51 @@
 "use client"
 
 import { use } from "react"
-import { useRouter } from "next/navigation"
 import { ArrowLeft, BookOpen, GraduationCap, Quote } from "lucide-react"
 import { getCategoryById } from "@/lib/quiz-data"
 import { leccionesResumidas } from "@/lib/data/antiguo-testamento-resumido"
-import { Button } from "@/components/ui/button" // O tu componente de botón
 import Link from "next/link"
 
 interface StudyPageProps {
   params: Promise<{ categoryId: string; lessonId: string }>
+  // Agregamos searchParams a las props del componente
+  searchParams: Promise<{ data?: string }>
 }
 
-export default function StudyPage({ params }: StudyPageProps) {
+export default function StudyPage({ params, searchParams }: StudyPageProps) {
   const { categoryId, lessonId } = use(params)
-  const category = getCategoryById(categoryId)
   
-  // Buscamos la lección en los resúmenes
+  // Capturamos el parámetro 'data' de la URL actual
+  const resolvedSearchParams = use(searchParams)
+  const recoveryData = resolvedSearchParams.data
+
+  const category = getCategoryById(categoryId)
   const lessonData = leccionesResumidas.find(l => l.id === lessonId)
 
   if (!lessonData) {
     return <div className="p-10 text-center">Lección no encontrada</div>
   }
 
+  // Construimos la URL de retorno dinámicamente
+  // Si existe recoveryData, volvemos a /recuperar, si no, a la categoría normal
+  const backUrl = recoveryData 
+    ? `/recuperar?data=${encodeURIComponent(recoveryData)}`
+    : `/quiz/${categoryId}`
+
   return (
     <div className="min-h-screen bg-background pb-20">
       {/* Header Minimalista */}
-      <div className="border-b bg-card px-4 py-4">
+      <div className="border-b bg-card px-4 py-4 shadow-sm">
         <div className="mx-auto max-w-2xl flex items-center justify-between">
           <Link 
-            href={`/quiz/${categoryId}`}
-            className="flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground"
+            href={backUrl}
+            className="flex items-center gap-2 text-sm font-bold text-primary hover:opacity-70 transition-opacity"
           >
             <ArrowLeft className="h-4 w-4" />
-            Volver
+            {recoveryData ? "Volver a mi plan" : "Volver"}
           </Link>
-          <span className="text-xs font-bold uppercase tracking-widest text-muted-foreground/60">
-            Material de Estudio
+          <span className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground/50">
+            Repaso de Estudio
           </span>
         </div>
       </div>
@@ -57,16 +66,16 @@ export default function StudyPage({ params }: StudyPageProps) {
                 </p>
               )}
 
-              {/* Renderizado de ENSEÑANZA (Citas de Autoridades) */}
+              {/* Renderizado de ENSEÑANZA */}
               {seccion.tipo === "enseñanza" && (
-                <div className="relative rounded-2xl bg-primary/5 p-8 border border-primary/10">
-                  <Quote className="absolute top-4 left-4 h-8 w-8 text-primary/20" />
+                <div className="relative rounded-2xl bg-primary/[0.03] p-8 border border-primary/10">
+                  <Quote className="absolute top-4 left-4 h-8 w-8 text-primary/10" />
                   <blockquote className="relative text-xl font-medium italic text-foreground leading-snug">
                     "{seccion.texto}"
                   </blockquote>
-                  <div className="mt-4 text-right">
+                  <div className="mt-6 text-right">
                     <p className="font-bold text-primary">{seccion.autor}</p>
-                    <p className="text-sm text-muted-foreground">{seccion.fuente}</p>
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider">{seccion.fuente}</p>
                   </div>
                 </div>
               )}
@@ -74,31 +83,31 @@ export default function StudyPage({ params }: StudyPageProps) {
               {/* Renderizado de ESCRITURAS */}
               {seccion.tipo === "escrituras" && (
                 <div className="grid gap-4">
-                  <h3 className="flex items-center gap-2 font-bold text-sm uppercase tracking-wider text-muted-foreground">
+                  <h3 className="flex items-center gap-2 font-black text-[10px] uppercase tracking-[0.15em] text-muted-foreground">
                     <BookOpen className="h-4 w-4" /> Escrituras clave
                   </h3>
                   <div className="grid gap-3">
                     {seccion.citas?.map((cita, i) => (
-                      <div key={i} className="rounded-xl border bg-card p-4 shadow-sm">
-                        <span className="font-bold text-primary">{cita.referencia}</span>
-                        <p className="mt-1 text-sm leading-relaxed">{cita.texto}</p>
+                      <div key={i} className="rounded-xl border bg-card p-5 shadow-sm">
+                        <span className="font-bold text-primary block mb-1">{cita.referencia}</span>
+                        <p className="text-sm leading-relaxed text-foreground/90 italic">"{cita.texto}"</p>
                       </div>
                     ))}
                   </div>
                 </div>
               )}
 
-              {/* Renderizado de PREGUNTAS REFLEXIVAS */}
+              {/* Renderizado de CUESTIONARIO */}
               {seccion.tipo === "cuestionario" && (
-                <div className="rounded-2xl border-2 border-dashed border-muted p-6 bg-muted/30">
-                  <h3 className="flex items-center gap-2 font-bold mb-4">
-                    <GraduationCap className="h-5 w-5 text-primary" />
+                <div className="rounded-2xl border-2 border-dashed border-primary/20 p-6 bg-primary/[0.01]">
+                  <h3 className="flex items-center gap-2 font-bold mb-4 text-primary">
+                    <GraduationCap className="h-5 w-5" />
                     Para reflexionar
                   </h3>
                   <ul className="space-y-4">
                     {seccion.preguntas?.map((pregunta, i) => (
-                      <li key={i} className="flex gap-3 text-sm font-medium leading-relaxed">
-                        <span className="text-primary font-bold">{i + 1}.</span>
+                      <li key={i} className="flex gap-3 text-sm font-medium leading-relaxed text-muted-foreground">
+                        <span className="text-primary font-black">{i + 1}.</span>
                         {pregunta}
                       </li>
                     ))}
@@ -111,14 +120,14 @@ export default function StudyPage({ params }: StudyPageProps) {
 
         {/* CTA FINAL PARA IR AL QUIZ */}
         <div className="mt-16 border-t pt-10 text-center">
-          <p className="mb-6 text-sm text-muted-foreground">
-            ¿Has terminado de repasar el material?
+          <p className="mb-6 text-xs font-medium text-muted-foreground uppercase tracking-widest">
+            ¿Listo para la evaluación?
           </p>
           <Link
-            href={`/quiz/${categoryId}/${lessonId}`}
-            className="inline-flex h-12 items-center justify-center rounded-full bg-primary px-8 text-sm font-bold text-primary-foreground shadow-lg transition-transform hover:scale-105 active:scale-95"
+            href={`/quiz/${categoryId}/${lessonId}${recoveryData ? `?data=${encodeURIComponent(recoveryData)}` : ""}`}
+            className="inline-flex h-14 items-center justify-center rounded-full bg-primary px-10 text-sm font-black text-primary-foreground shadow-xl transition-all hover:scale-105 active:scale-95"
           >
-            Comenzar Cuestionario Evaluativo
+            Hacer el Quiz Evaluativo
           </Link>
         </div>
       </main>
