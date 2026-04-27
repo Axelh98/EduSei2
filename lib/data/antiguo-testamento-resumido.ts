@@ -710,5 +710,322 @@ export const leccionesResumidas: Lesson[] = [
     type: "Antiguo Testamento - Ven Sigueme",
     description: "",
     questions: []
+  },
+
+  /* 
+  {
+    "id": "leccion-4",
+    "title": "Génesis 24",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/10-genesis-24-33/101-genesis-24?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "Abraham busca una esposa para su hijo Isaac, demostrando la importancia de casarse con alguien que comparta los mismos valores y convenios eternos." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Isaías 54:4", "texto": "No temáis, porque no seréis avergonzados." },
+        { "referencia": "D&C 131:1-4", "texto": "El nuevo y sempiterno convenio del matrimonio." },
+        { "referencia": "Mateo 19:4-6", "texto": "El hombre dejará a su padre y a su madre, y se unirá a su mujer." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Hermana Kristen M. Oaks", "texto": "El matrimonio es un don y nos da la oportunidad de comenzar un camino de crecimiento el uno con el otro." },
+      { "tipo": "enseñanza", "autor": "Presidente Dallin H. Oaks", "texto": "Los jóvenes adultos se pierden oportunidades y bendiciones cuando retrasan intencionalmente sus matrimonios." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Qué consideras más importante al buscar una pareja para el matrimonio eterno?",
+        "¿Cómo aplicarías la enseñanza de que el matrimonio es un 'don' en tu vida?",
+        "¿Qué pasos darás hoy para prepararte para el matrimonio eterno?"
+      ]}
+    ],
+    "type": "Antiguo Testamento - Ven Sigueme",
+    "description": "",
+    "questions": []
+  },
+*/
+
+  {
+    "id": "leccion-162",
+    "title": "Lección 162: Buscar revelación personal",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/61-doctrinal-mastery/612-seeking-personal-revelation?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "La revelación personal es fundamental para nuestra relación con Dios. Él se comunica mediante la voz apacible del Espíritu Santo." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "1 Reyes 19:9-12", "texto": "Una voz apacible y delicada." },
+        { "referencia": "Juan 14:26-27", "texto": "El Espíritu Santo os enseñará todas las cosas." },
+        { "referencia": "D&C 6:21-23", "texto": "El Espíritu hablará 'poco a poco' y 'de tiempo en tiempo'." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Presidente Russell M. Nelson", "texto": "Podemos orar y recibir orientación; el Espíritu Santo nos guiará en asuntos grandes y pequeños." },
+      { "tipo": "enseñanza", "autor": "Élder Ronald A. Rasband", "texto": "La voz del Santo Espíritu es apacible y delicada." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Cuánta confianza tienes en reconocer la voz del Señor en tu vida?",
+        "¿Qué preguntas tienes respecto a cómo recibir revelación?",
+        "¿Cómo fortalecerás tu relación con el Padre Celestial mediante la revelación diaria?"
+      ]}
+    ],
+    "type": "Preparación para la Vida",
+    "description": "",
+    "questions": []
+  },
+  {
+    "id": "leccion-163",
+    "title": "Lección 163: Actuar con fe para encontrar respuestas",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/61-doctrinal-mastery/613-acting-in-faith?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "La fe es un principio de acción que nos impulsa a confiar en el Señor aun cuando no tenemos todas las respuestas inmediatas." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Hebreos 11:1", "texto": "La fe es la sustancia de las cosas que se esperan." },
+        { "referencia": "Mateo 17:20", "texto": "Si tuvieren fe como un grano de mostaza... nada les será imposible." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Élder Dale G. Renlund", "texto": "La fe se profundiza al actuar de maneras que nos aferran más firmemente a Jesucristo." },
+      { "tipo": "enseñanza", "autor": "Presidente Jeffrey R. Holland", "texto": "Sean fieles a la fe que sí tienen, no finjan tener una que no tienen." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Cuándo has tenido que actuar con fe ante una inquietud del Evangelio?",
+        "¿Qué podrías hacer para sentirte más cerca del Salvador hoy?",
+        "¿Cómo aplicarás el principio de actuar con fe en tus desafíos actuales?"
+      ]}
+    ],
+    "type": "Preparación para la Vida",
+    "description": "",
+    "questions": []
+  },
+  {
+    "id": "leccion-48",
+    "title": "Lección 48: Éxodo 19",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/16-exodus-19-20-24-31-34/161-exodus-19?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "El Señor llevó a Israel al monte Sinaí para establecer una relación por convenio, invitándolos a ser Su especial tesoro." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Éxodo 19:3-6", "texto": "Seréis mi especial tesoro sobre todos los pueblos." },
+        { "referencia": "1 Pedro 2:9", "texto": "Sois un pueblo adquirido por Dios." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Presidenta Emily Belle Freeman", "texto": "Un convenio no solo consiste en un contrato... consiste en una relación." },
+      { "tipo": "enseñanza", "autor": "Élder Neil L. Andersen", "texto": "Damos forma conscientemente a nuestros pensamientos y acciones al ser una luz brillante." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Qué has aprendido que te ayude a desear guardar convenios?",
+        "¿Cómo cambia tu perspectiva saber que Dios desea una relación personal contigo?",
+        "¿De qué manera el hacer convenios bendice tu vida diaria?"
+      ]}
+    ],
+    "type": "Preparación para la Vida",
+    "description": "",
+    "questions": []
+  },
+  {
+    "id": "leccion-49",
+    "title": "Lección 49: Éxodo 20:1-11",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/16-exodus-19-20-24-31-34/162-exodus-20-1-11?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "Los primeros cuatro mandamientos nos enseñan a amar y honrar a Dios poniéndolo en el lugar de prioridad en nuestras vidas." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Mateo 22:37-38", "texto": "Amarás al Señor tu Dios con todo tu corazón." },
+        { "referencia": "Juan 14:15", "texto": "Si me amáis, guardad mis mandamientos." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Presidente Ezra Taft Benson", "texto": "Cuando damos a Dios el lugar de preferencia, todos los demás aspectos de nuestra vida pasan a tener la posición que les corresponde." },
+      { "tipo": "enseñanza", "autor": "Élder D. Todd Christofferson", "texto": "Los mandamientos señalan la senda que conduce a la sanación, la felicidad, la paz y el gozo." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Qué significa para ti poner a Dios en primer lugar?",
+        "¿Qué acciones podrías alinear hoy con los mandamientos de Dios?",
+        "¿Qué bendiciones has recibido por obedecer al Señor?"
+      ]}
+    ],
+    "type": "Antiguo Testamento - Ven Sigueme",
+    "description": "",
+    "questions": []
+  },
+
+  /*
+  {
+    "id": "leccion-38",
+    "title": "Éxodo 20:12-17",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/16-exodus-19-20-24-31-34/163-exodus-20-12-17?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "Los últimos seis mandamientos se centran en cómo amar y tratar a nuestro prójimo, fortaleciendo nuestras relaciones humanas." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Mateo 22:36-40", "texto": "El segundo mandamiento es amarás a tu prójimo como a ti mismo." },
+        { "referencia": "1 Juan 4:21", "texto": "El que ama a Dios, ame también a su hermano." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Presidente Russell M. Nelson", "texto": "Cuando amamos a Dios con todo el corazón, Él nos vuelve el corazón hacia el bienestar de otras personas." },
+      { "tipo": "enseñanza", "autor": "Presidente Thomas S. Monson", "texto": "No podemos amar verdaderamente a Dios si no amamos a nuestros compañeros de viaje." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Cómo aplicarás el mandamiento de honrar a tus padres hoy?",
+        "¿Qué acciones puedes tomar para cultivar la gratitud en lugar de la codicia?",
+        "¿Cómo demuestras amor por Dios a través de tu trato a los demás?"
+      ]}
+    ],
+    "type": "Antiguo Testamento - Ven Sigueme",
+    "description": "",
+    "questions": []
+  },*/ 
+
+  {
+    "id": "leccion-51",
+    "title": "Lección 51: Éxodo 24; 32–34",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/16-exodus-19-20-24-31-34/164-exodus-24-31-34?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "Tras el incidente del becerro de oro, el Señor demuestra que Su carácter se define por la justicia, pero también por una inmensa misericordia y longanimidad." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Éxodo 34:6-7", "texto": "El Señor es justo, misericordioso y longánimo." },
+        { "referencia": "Romanos 3:24", "texto": "Somos justificados gratuitamente por Su gracia." },
+        { "referencia": "2 Pedro 3:9", "texto": "El Señor tiene paciencia con nosotros, no queriendo que ninguno se pierda." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Élder Quentin L. Cook", "texto": "La misericordia del Salvador cumple la ley de la justicia." },
+      { "tipo": "enseñanza", "autor": "Presidente Jeffrey R. Holland", "texto": "Sabemos que Dios es justo... por eso tenemos fe para seguir adelante sin temor a la arbitrariedad." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Cómo has visto la misericordia del Señor en tu propia vida?",
+        "¿Qué significa para ti que el Señor sea 'longánimo' (paciente)?",
+        "¿Qué pasos darás hoy para confiar más en Su perdón?"
+      ]}
+    ],
+    "type": "Antiguo Testamento - Ven Sigueme",
+    "description": "",
+    "questions": []
+  },
+  {
+    "id": "leccion-164",
+    "title": "Lección 164: Analizar temas con perspectiva eterna",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/61-doctrinal-mastery/614-examining-gospel-topics?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "Debemos aprender a ver nuestras dudas e inquietudes bajo la luz del Plan de Salvación, confiando en que Dios ve el panorama completo." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Proverbios 3:5-6", "texto": "Confía en el Señor con todo tu corazón, y no te apoyes en tu propia inteligencia." },
+        { "referencia": "Isaías 55:8-9", "texto": "Como son más altos los cielos que la tierra, así son mis caminos." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Élder David A. Bednar", "texto": "La fidelidad no es ser insensato. Es confiar en Jesucristo y en Sus promesas." },
+      { "tipo": "enseñanza", "autor": "Presidente Dieter F. Uchtdorf", "texto": "La fe es confianza en que Dios ve lo que nosotros no podemos ver." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Qué verdades del Plan de Salvación ayudan a aclarar tus preguntas actuales?",
+        "¿Cómo cambia una situación difícil cuando la miras desde la eternidad?",
+        "¿En qué promesas del Salvador decidirás confiar hoy?"
+      ]}
+    ],
+    "type": "Antiguo Testamento - Ven Sigueme",
+    "description": "",
+    "questions": []
+  },
+  {
+    "id": "leccion-52",
+    "title": "Lección 52: Éxodo 25; 35-40",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/17-exodus-35-40-leviticus-1-4-16-19/171-exodus-25-35-40?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "La construcción del tabernáculo simboliza el deseo de Dios de habitar entre Su pueblo y nos prepara para entender la santidad de los templos modernos." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Éxodo 25:8", "texto": "Me harán un santuario, y yo habitaré entre ellos." },
+        { "referencia": "1 Corintios 3:16", "texto": "¿No sabéis que sois templo de Dios?" }
+      ]},
+      { "tipo": "enseñanza", "autor": "Presidente Russell M. Nelson", "texto": "El Señor les proporcionará los milagros que necesitan al hacer sacrificios de adorar en Sus templos." },
+      { "tipo": "enseñanza", "autor": "Presidente Jeffrey R. Holland", "texto": "El templo es Su casa y Él debe ocupar el centro supremo de nuestros pensamientos." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Cómo te ayuda el templo a sentirte más cerca de Jesucristo?",
+        "¿Qué sacrificios puedes hacer para asistir o prepararte para el templo?",
+        "¿Cómo puedes hacer de tu cuerpo un lugar más digno para el Espíritu?"
+      ]}
+    ],
+    "type": "Antiguo Testamento - Ven Sigueme",
+    "description": "",
+    "questions": []
+  },
+  {
+    "id": "leccion-53",
+    "title": "Lección 53: Levítico, Parte 1",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/17-exodus-35-40-leviticus-1-4-16-19/172-leviticus-part-1?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "Los antiguos sacrificios de animales en Levítico eran símbolos poderosos que señalaban hacia el sacrificio futuro y definitivo de Jesucristo." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Isaías 53:5", "texto": "Fue herido por nuestras transgresiones y molido por nuestras iniquidades." },
+        { "referencia": "Juan 3:16", "texto": "Porque de tal manera amó Dios al mundo." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Presidente Dallin H. Oaks", "texto": "El amor es la motivación de todo ello, y así fue desde el principio." },
+      { "tipo": "enseñanza", "autor": "Profeta José Smith", "texto": "Verter la sangre de un animal no beneficiaría a nadie, a menos que se hiciese como símbolo del don de Dios." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Cómo te sientes respecto a lo que el Salvador ha hecho por ti?",
+        "¿De qué manera la Santa Cena es hoy tu 'sacrificio' de recordatorio?",
+        "¿Qué puedes cambiar hoy para demostrar más gratitud por la Expiación?"
+      ]}
+    ],
+    "type": "Antiguo Testamento - Ven Sigueme",
+    "description": "",
+    "questions": []
+  },
+  {
+    "id": "leccion-54",
+    "title": "Lección 54: Levítico, Parte 2",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/17-exodus-35-40-leviticus-1-4-16-19/173-leviticus-part-2?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "Se nos invita a ofrecer sacrificios voluntarios, no de animales, sino de un corazón quebrantado y un espíritu contrito." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Romanos 12:1-2", "texto": "Presentad vuestros cuerpos como sacrificio vivo." },
+        { "referencia": "3 Nefi 9:19-20", "texto": "Me ofreceréis como sacrificio un corazón quebrantado." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Élder Dieter F. Uchtdorf", "texto": "Sacrificar quiere decir renunciar a algo a favor de algo más valioso." },
+      { "tipo": "enseñanza", "autor": "Élder Ulisses Soares", "texto": "Nuestra determinación de desechar lo contrario a Dios nos ayudará a perseverar." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿A qué cosa 'valiosa' del mundo podrías renunciar por algo 'más valioso' del cielo?",
+        "¿Qué significa para ti presentar un 'sacrificio vivo'?",
+        "¿Cómo ha prosperado tu vida al seguir los mandamientos del Señor?"
+      ]}
+    ],
+    "type": "Antiguo Testamento - Ven Sigueme",
+    "description": "",
+    "questions": []
+  },
+  {
+    "id": "leccion-55",
+    "title": "Lección 55: Evalúa tu aprendizaje 3 (Éxodo y Levítico)",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/17-exodus-35-40-leviticus-1-4-16-19/174-assess-your-learning-3?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "Es momento de evaluar cuánto hemos crecido desde que comenzamos Éxodo y Levítico, comparando nuestro 'yo' del pasado con el de hoy." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Éxodo 3:12", "texto": "Ciertamente yo estaré contigo." },
+        { "referencia": "Gálatas 6:9", "texto": "No nos cansemos, pues, de hacer bien." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Élder J. Devn Cornish", "texto": "Si tenemos que comparar, comparemos cómo éramos en el pasado a cómo somos hoy." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Qué atributo de Jesucristo has llegado a admirar más estas semanas?",
+        "¿Cómo ha cambiado tu deseo de confiar en Dios comparado con el mes pasado?",
+        "¿Qué meta te pondrás para la siguiente etapa de estudio?"
+      ]}
+    ],
+    "type": "Dominio de la Doctrina",
+    "description": "",
+    "questions": []
+  },
+  {
+    "id": "leccion-56",
+    "title": "Lección 56: Números 11–14",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/18-numbers-11-14-21/181-numbers-11-14?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "La historia de los doce espías nos enseña a elegir la fe de Josué y Caleb sobre el temor de los demás al enfrentar nuestros 'gigantes'." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Números 14:9", "texto": "No seáis rebeldes contra Jehová, ni temáis al pueblo de esta tierra." },
+        { "referencia": "1 Juan 4:18", "texto": "El perfecto amor echa fuera el temor." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Presidente Dieter F. Uchtdorf", "texto": "En vez de enfocarnos en los desafíos, enfoquémonos en la grandeza infinita de nuestro Dios." },
+      { "tipo": "enseñanza", "autor": "Élder Kevin R. Duncan", "texto": "No hay nada malo en reconocer los obstáculos, pero hay que afrontarlos con fe." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Cuál es el 'gigante' o desafío que enfrentas hoy con fe?",
+        "¿Cómo puedes recordar las bendiciones pasadas para fortalecerte hoy?",
+        "¿Qué pasos darás para no dejarte llevar por el temor de los demás?"
+      ]}
+    ],
+    "type": "Antiguo Testamento - Ven Sigueme",
+    "description": "",
+    "questions": []
+  },
+  {
+    "id": "leccion-57",
+    "title": "Lección 57: Números 21",
+    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/18-numbers-11-14-21/182-numbers-21?lang=spa",
+    "secciones": [
+      { "tipo": "contexto", "contenido": "La serpiente de bronce levantada por Moisés es un tipo de Cristo: así como los israelitas miraron y sanaron, nosotros sanamos al mirar al Salvador." },
+      { "tipo": "escrituras", "citas": [
+        { "referencia": "Juan 3:14-16", "texto": "Como Moisés levantó la serpiente, así es necesario que el Hijo del Hombre sea levantado." },
+        { "referencia": "1 Nefi 17:41", "texto": "Y porque era tan sencillo el medio... hubo muchos que perecieron." }
+      ]},
+      { "tipo": "enseñanza", "autor": "Presidente Russell M. Nelson", "texto": "Les ruego que vengan a Él para que Él pueda sanarlos." },
+      { "tipo": "enseñanza", "autor": "Hermana Cristina B. Franco", "texto": "Al ejercer fe, arrepentirnos y guardar convenios, nuestro quebranto puede sanar." },
+      { "tipo": "cuestionario", "preguntas": [
+        "¿Qué 'pequeñas cosas' sencillas (como la oración) te ayudan a mirar al Salvador?",
+        "¿Cómo ha sanado Jesucristo alguna herida de tu corazón?",
+        "¿Por qué crees que a veces nos cuesta aceptar medios tan sencillos para ser sanados?"
+      ]}
+    ],
+    "type": "Antiguo Testamento - Ven Sigueme",
+    "description": "",
+    "questions": []
   }
 ];
