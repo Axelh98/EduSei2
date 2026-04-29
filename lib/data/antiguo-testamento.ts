@@ -3117,6 +3117,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         ],
         secciones: [],
       },
+      // AGREGAR DEUTERONOMIO 15
     ],
   },
   {
@@ -3256,6 +3257,66 @@ export const antiguoTestamentoWeeks: Week[] = [
         secciones: [],
       },
       {
+      id: "leccion-190",
+      title: "Lección 190: Superar los obstáculos para ampliar la formación académica",
+      description: "Aprende a utilizar los recursos disponibles y la fe en Jesucristo para alcanzar tus metas educativas.",
+      type: "Preparación para la Vida",
+      chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/66-future-education-and-employment/663-overcoming-obstacles-to-furthering-education?lang=spa",
+      questions: [
+        {
+          id: 1,
+          question: "¿Qué principio enseña la historia de los sacerdotes cruzando el río Jordán sobre los obstáculos?",
+          options: [
+            "Que debemos esperar a que el obstáculo desaparezca antes de actuar.",
+            "Que al avanzar con fe (mojarse los pies), el Señor abre el camino.",
+            "Que los obstáculos son señales de que no debemos seguir adelante.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 2,
+          question: "Según Doctrina y Convenios 93:36, ¿por qué es importante para Dios que estudiemos?",
+          options: [
+            "Porque la gloria de Dios es la inteligencia.",
+            "Porque así ganaremos más dinero en el futuro.",
+            "Porque es un requisito para ir a la universidad.",
+          ],
+          correctAnswer: 0,
+        },
+        {
+          id: 3,
+          question: "¿Qué enseñó el élder Clark G. Gilbert sobre pasar de la 'determinación' a la 'gracia'?",
+          options: [
+            "Que solo nuestro esfuerzo personal importa.",
+            "Que debemos dejar de esforzarnos y esperar que Dios lo haga todo.",
+            "Que debemos esforzarnos al máximo y buscar el poder fortalecedor del Salvador.",
+          ],
+          correctAnswer: 2,
+        },
+        {
+          id: 4,
+          question: "¿Cuál es nuestra responsabilidad respecto a la educación según los líderes de la Iglesia?",
+          options: [
+            "Estudiar solo si tenemos los recursos económicos necesarios.",
+            "Obtener tanto conocimiento como nos sea posible, por el estudio y por la fe.",
+            "Solo estudiar cosas relacionadas con la religión.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 5,
+          question: "¿Qué significa 'hacer con buen ánimo cuanta cosa esté a nuestro alcance' (D. y C. 123:17)?",
+          options: [
+            "Hacer nuestro mejor esfuerzo con fe para recibir la ayuda divina.",
+            "Hacer las cosas solo cuando estemos felices.",
+            "Hacer lo mínimo necesario para que el Señor haga el resto.",
+          ],
+          correctAnswer: 0,
+        },
+      ],
+      secciones: [],
+    },
+      {
         id: "leccion-63",
         title: "Lección 63: Josué 23–24 (Escogeos hoy)",
         description: "Usa tu albedrío para servir al Señor.",
@@ -3320,6 +3381,71 @@ export const antiguoTestamentoWeeks: Week[] = [
         ],
         secciones: [],
       },
+        {
+      id: "leccion-64",
+      title: "Lección 64: Práctica 4 del Dominio de la doctrina",
+      description: "Aprende y aplica los principios para adquirir conocimiento espiritual ante dudas y desafíos.",
+      type: "Dominio de la Doctrina",
+      chapterUrl:
+        "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/20-joshua-1-24/202-doctrinal-mastery-practice-4?lang=spa",
+      questions: [
+        {
+          id: 1,
+          question:
+            "¿Cuál es el primer principio para adquirir conocimiento espiritual?",
+          options: [
+            "Esperar a que alguien más nos dé la respuesta.",
+            "Actuar con fe.",
+            "Ignorar la duda hasta que desaparezca.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 2,
+          question: "¿Qué significa 'analizar los conceptos y las preguntas con una perspectiva eterna'?",
+          options: [
+            "Ver las cosas como el mundo las ve actualmente.",
+            "Considerar las preguntas en el contexto del plan de salvación y las enseñanzas del Señor.",
+            "Buscar respuestas solo en fuentes seculares.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 3,
+          question:
+            "¿Cuál es el propósito de buscar una comprensión mayor mediante las fuentes divinamente señaladas?",
+          options: [
+            "Encontrar cualquier información que confirme nuestras dudas.",
+            "Ganar debates con otras personas.",
+            "Utilizar las Escrituras y las palabras de los profetas para encontrar la verdad de Dios.",
+          ],
+          correctAnswer: 2,
+        },
+        {
+          id: 4,
+          question:
+            "Cuando actuamos con fe, ¿qué debemos hacer si no recibimos una respuesta inmediata?",
+          options: [
+            "Dejar de creer en las promesas del Señor.",
+            "Seguir confiando en Dios y en la verdad que ya hemos recibido.",
+            "Buscar respuestas en fuentes que critican a la Iglesia.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 5,
+          question:
+            "¿Cuál es una fuente divinamente señalada para encontrar respuestas a preguntas espirituales?",
+          options: [
+            "El Espíritu Santo y los líderes de la Iglesia.",
+            "Redes sociales con opiniones populares.",
+            "Cualquier libro de historia antigua.",
+          ],
+          correctAnswer: 0,
+        },
+      ],
+      secciones: [],
+    },
     ],
   },
   {
@@ -3327,6 +3453,71 @@ export const antiguoTestamentoWeeks: Week[] = [
     title: "Semana 13",
     dateRange: "25 al 31 de mayo",
     lessons: [
+        {
+      id: "leccion-65",
+      title: "Lección: Jueces 2–4 (Acudir al Señor para ser librados)",
+      description: "Comprende el ciclo de desobediencia y liberación de Israel y cómo el Señor nos rescata.",
+      type: "Antiguo Testamento - Ven Sigueme",
+      chapterUrl:
+        "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/21-judges-2-16/211-judges-2-4?lang=spa",
+      questions: [
+        {
+          id: 1,
+          question:
+            "¿Qué patrón o ciclo repetitivo se describe en el libro de Jueces?",
+          options: [
+            "Prosperidad eterna sin necesidad de arrepentimiento.",
+            "Apostasía, aflicción, clamor al Señor y liberación por medio de un juez.",
+            "Mudarse constantemente de una tierra a otra.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 2,
+          question: "¿Por qué el Señor permitía que los enemigos de Israel los oprimieran?",
+          options: [
+            "Porque el Señor se había olvidado de Sus promesas.",
+            "Porque los israelitas abandonaron al Señor y sirvieron a dioses falsos como Baal.",
+            "Porque los enemigos eran más fuertes que el poder de Dios.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 3,
+          question:
+            "¿Cuál era la función de los 'jueces' que el Señor levantaba?",
+          options: [
+            "Escribir leyes nuevas para reemplazar los mandamientos de Moisés.",
+            "Ser líderes inspirados para librar a Israel de sus opresores.",
+            "Gobernar como reyes con poder absoluto sobre la tierra.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 4,
+          question:
+            "¿Qué podemos aprender sobre el Señor cuando los israelitas clamaban a Él en su angustia?",
+          options: [
+            "Que el Señor es misericordioso y desea librarnos cuando nos volvemos a Él.",
+            "Que el Señor solo ayuda a quienes nunca cometen errores.",
+            "Que el Señor requiere muchos años de castigo antes de escuchar.",
+          ],
+          correctAnswer: 0,
+        },
+        {
+          id: 5,
+          question:
+            "¿Quién fue la profetisa que ayudó a Barac a librar a Israel de Jabín y Sísara?",
+          options: [
+            "Abigail.",
+            "Débora.",
+            "Betsabé.",
+          ],
+          correctAnswer: 1,
+        },
+      ],
+      secciones: [],
+    },
       {
         id: "leccion-66",
         title: "Lección 66: Jueces 6–8",
@@ -3457,6 +3648,136 @@ export const antiguoTestamentoWeeks: Week[] = [
         ],
         secciones: [],
       },
+        {
+      id: "leccion-188",
+      title: "Lección: La importancia de la formación académica",
+      description: "Reconoce cómo la educación nos prepara para servir mejor a Dios, a la familia y a la sociedad.",
+      type: "Preparación para la Vida",
+      chapterUrl:
+        "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/66-future-education-and-employment/661-the-importance-of-education?lang=spa",
+      questions: [
+        {
+          id: 1,
+          question:
+            "¿Por qué la educación se considera un mandamiento y no solo una sugerencia para los Santos de los Últimos Días?",
+          options: [
+            "Porque es necesario para ser populares.",
+            "Porque el Señor desea que desarrollemos nuestros talentos y nos preparemos para servir.",
+            "Porque es la única forma de entrar al templo.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 2,
+          question: "¿Qué tipo de bendiciones espirituales aporta la educación?",
+          options: [
+            "Nos permite ganar debates religiosos.",
+            "Aumenta nuestra capacidad de comprender la verdad y de recibir revelación personal.",
+            "Nos asegura que nunca tendremos problemas en la vida.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 3,
+          question:
+            "¿Cuál es una bendición temporal clave de obtener formación académica?",
+          options: [
+            "Tener una casa más grande que la de los vecinos.",
+            "Poder trabajar menos horas que los demás.",
+            "Estar mejor capacitados para proveer para nuestras necesidades y las de nuestra futura familia.",
+          ],
+          correctAnswer: 2,
+        },
+        {
+          id: 4,
+          question:
+            "Según las enseñanzas de los profetas, ¿cuándo termina nuestro proceso de aprendizaje?",
+          options: [
+            "Cuando nos graduamos de la escuela secundaria.",
+            "Es un proceso eterno que continúa incluso después de esta vida.",
+            "Cuando conseguimos nuestro primer empleo.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 5,
+          question:
+            "¿Cómo ayuda la formación académica a nuestro servicio en el Reino de Dios?",
+          options: [
+            "Nos da habilidades y conocimientos para ser instrumentos más eficaces en Sus manos.",
+            "Hace que nuestras oraciones sean escuchadas más rápido.",
+            "Nos permite evitar los llamamientos que no nos gustan.",
+          ],
+          correctAnswer: 0,
+        },
+      ],
+      secciones: [],
+    },
+      {
+    id: "leccion-167",
+    title: "Lección: Encontrar verdades del Evangelio en las Escrituras",
+    description: "Desarrolla la habilidad de identificar doctrinas y principios eternos mientras estudias la palabra de Dios.",
+    type: "Preparación para la Vida",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/621-identifying-doctrine-and-principles?lang=spa",
+    questions: [
+      {
+        id: 1,
+        question:
+          "¿Cuál es la diferencia principal entre un 'hecho' histórico y un 'principio' del Evangelio?",
+        options: [
+          "No hay diferencia; ambos son conceptos idénticos en las Escrituras.",
+          "El hecho describe lo que sucedió, mientras que el principio es una verdad eterna que se puede aplicar en cualquier época.",
+          "Los hechos son verdaderos y los principios son solo sugerencias personales.",
+        ],
+        correctAnswer: 1,
+      },
+      {
+        id: 2,
+        question: "¿Qué técnica es útil para identificar un principio cuando no está escrito de forma explícita?",
+        options: [
+          "Leer solo los encabezados de los capítulos.",
+          "Observar las relaciones de causa y efecto en la historia de los personajes.",
+          "Memorizar los nombres de todos los lugares mencionados.",
+        ],
+        correctAnswer: 1,
+      },
+      {
+        id: 3,
+        question:
+          "¿Por qué es importante expresar una verdad del Evangelio como una frase u oración completa?",
+        options: [
+          "Porque ayuda a definir mejor cómo esa verdad se aplica a nuestra conducta y decisiones.",
+          "Porque así es más fácil aprobar los exámenes de seminario.",
+          "Porque las palabras sueltas no tienen ningún significado espiritual.",
+        ],
+        correctAnswer: 0,
+      },
+      {
+        id: 4,
+        question:
+          "Al buscar principios, ¿qué pregunta podrías hacerte para profundizar en el texto?",
+        options: [
+          "¿Cuántos versículos tiene este capítulo?",
+          "¿Cuál es el mensaje central que el autor inspirado desea que yo aprenda de este relato?",
+          "¿En qué año se descubrieron estas planchas?",
+        ],
+        correctAnswer: 1,
+      },
+      {
+        id: 5,
+        question:
+          "¿Qué sucede cuando logramos reconocer correctamente la doctrina en las Escrituras?",
+        options: [
+          "Las Escrituras se vuelven más relevantes para nuestros desafíos actuales.",
+          "Terminamos el estudio diario mucho más rápido.",
+          "Ya no necesitamos buscar la guía del Espíritu Santo.",
+        ],
+        correctAnswer: 0,
+      },
+    ],
+    secciones: [],
+  },
     ],
   },
   {
@@ -3526,6 +3847,138 @@ export const antiguoTestamentoWeeks: Week[] = [
         ],
         secciones: [],
       },
+        {
+      id: "Lección 69:",
+      title: "Lección 69: 1 Samuel 1 (“Jehová me dio lo que le pedí”)",
+      description: "Sigue el ejemplo de Ana al acudir al Señor con fervor y fe durante las pruebas personales.",
+      type: "Antiguo Testamento - Ven Sigueme",
+      chapterUrl:
+        "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-1-samuel-1-15/221-1-samuel-1?lang=spa",
+      questions: [
+        {
+          id: 1,
+          question:
+            "¿Cómo reaccionó Ana ante la tristeza de no poder tener hijos y las burlas que recibía?",
+          options: [
+            "Se alejó del tabernáculo por amargura.",
+            "Derramó su alma en oración ferviente ante Jehová.",
+            "Decidió dejar de confiar en los líderes del sacerdocio.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 2,
+          question: "¿Qué promesa o voto le hizo Ana al Señor si Él le concedía un hijo?",
+          options: [
+            "Que lo dedicaría al servicio de Jehová todos los días de su vida.",
+            "Que le daría grandes ofrendas de oro al tabernáculo.",
+            "Que su hijo sería un gran guerrero en Israel.",
+          ],
+          correctAnswer: 0,
+        },
+        {
+          id: 3,
+          question:
+            "¿Qué podemos aprender de la respuesta de Ana después de hablar con Elí y recibir su bendición?",
+          options: [
+            "Que debemos dudar hasta que la promesa se cumpla físicamente.",
+            "Que podemos hallar paz y consuelo al dejar nuestras cargas en manos del Señor.",
+            "Que la tristeza solo se quita cuando ya tenemos lo que pedimos.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 4,
+          question:
+            "¿Qué hizo Ana una vez que Samuel fue destetado, cumpliendo su promesa al Señor?",
+          options: [
+            "Se quedó con él en casa porque era muy pequeño.",
+            "Lo llevó al tabernáculo para que sirviera junto al sacerdote Elí.",
+            "Pidió al Señor que cambiara el trato original.",
+          ],
+          correctAnswer: 1,
+        },
+        {
+          id: 5,
+          question:
+            "¿Cuál es una verdad fundamental que enseña la historia de Ana sobre la oración?",
+          options: [
+            "Dios siempre nos da exactamente lo que pedimos en el momento que queremos.",
+            "Al buscar la ayuda de Dios, podemos recibir consuelo y fortaleza según Su voluntad.",
+            "Solo las oraciones que se hacen en voz alta son escuchadas por Dios.",
+          ],
+          correctAnswer: 1,
+        },
+      ],
+      secciones: [],
+    },
+
+    {
+    id: "leccion-70",
+    title: "Lección 70: 1 Samuel 3 (Habla, Jehová; que tu siervo escucha)",
+    description: "Aprende a reconocer la voz del Señor y a responder con prontitud a Sus llamados.",
+    type: "Antiguo Testamento - Ven Sigueme",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-1-samuel-1-15/222-1-samuel-3?lang=spa",
+    questions: [
+      {
+        id: 1,
+        question:
+          "¿Por qué Samuel no reconoció inicialmente que era Jehová quien lo llamaba?",
+        options: [
+          "Porque el Señor hablaba en un idioma que él no conocía.",
+          "Porque Samuel aún no conocía a Jehová ni se le había manifestado Su palabra.",
+          "Porque había mucho ruido en el tabernáculo.",
+        ],
+        correctAnswer: 1,
+      },
+      {
+        id: 2,
+        question: "¿Cuál fue el consejo del sacerdote Elí a Samuel tras el tercer llamado del Señor?",
+        options: [
+          "Que volviera a dormir y no hiciera caso a los sueños.",
+          "Que si lo llamaban de nuevo, respondiera: 'Habla, Jehová; porque tu siervo oye'.",
+          "Que saliera del tabernáculo para buscar de dónde venía la voz.",
+        ],
+        correctAnswer: 1,
+      },
+      {
+        id: 3,
+        question:
+          "¿Qué significa la frase 'la palabra de Jehová escaseaba en aquellos días' (versículo 1)?",
+        options: [
+          "Que las personas ya no sabían leer las escrituras.",
+          "Que no había revelaciones ni visiones frecuentes debido a la iniquidad del pueblo.",
+          "Que se habían perdido todos los rollos de la ley de Moisés.",
+        ],
+        correctAnswer: 1,
+      },
+      {
+        id: 4,
+        question:
+          "¿Cómo demostró Samuel que era un profeta digno de confianza mientras crecía?",
+        options: [
+          "No dejó caer a tierra ninguna de las palabras del Señor (fue obediente).",
+          "Se convirtió en un gran general del ejército.",
+          "Decidió alejarse de Elí para fundar su propio templo.",
+        ],
+        correctAnswer: 0,
+      },
+      {
+        id: 5,
+        question:
+          "¿Qué nos enseña esta lección sobre nuestra disposición para recibir revelación?",
+        options: [
+          "Que el Señor solo habla con personas de edad avanzada.",
+          "Que debemos estar preparados y dispuestos a escuchar cuando el Señor nos hable.",
+          "Que la revelación solo ocurre de forma ruidosa y espectacular.",
+        ],
+        correctAnswer: 1,
+      },
+    ],
+    secciones: [],
+  },
+
       {
         id: "leccion-177",
         title: "Lección 177: Desarrollar autosuficiencia a la manera del Señor",
@@ -3536,7 +3989,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         questions: [
           {
             id: 1,
-            question:
+          question:
               "¿Cuál es el propósito de desarrollar autosuficiencia según el manual?",
             options: [
               "Proveer para nosotros mismos y estar mejor preparados para bendecir a los demás.",
@@ -3736,6 +4189,10 @@ export const antiguoTestamentoWeeks: Week[] = [
     title: "Semana 16",
     dateRange: "15 al 21 de junio",
     lessons: [
+
+
+      // AGREGAR 1 SAMUEL 16
+
       {
         id: "leccion-180",
         title:
@@ -3866,6 +4323,9 @@ export const antiguoTestamentoWeeks: Week[] = [
         ],
         secciones: [],
       },
+
+      // AGREGAR PRACTICA DEL DOMINIO DE LA DOCTRINA 5
+
       {
         id: "leccion-75",
         title: "Lección 75: 1 Samuel 25",
@@ -3961,6 +4421,9 @@ export const antiguoTestamentoWeeks: Week[] = [
         ],
         secciones: [],
       },
+
+      // AGREGAR 1 REYES 3
+
       {
         id: "leccion-79",
         title: "Lección 79: 1 Reyes 6–9",
@@ -4152,6 +4615,9 @@ export const antiguoTestamentoWeeks: Week[] = [
     title: "Semana 19",
     dateRange: "6 al 12 de julio",
     lessons: [
+
+      // AGREGAR "TOMAR NOTAS EN LA ESCRITURAS"
+
       {
         id: "leccion-169",
         title:
@@ -4186,6 +4652,12 @@ export const antiguoTestamentoWeeks: Week[] = [
         ],
         secciones: [],
       },
+
+      // AGREGAR "HACER COMPARACIONES"
+
+
+      // AGREGAR 2 REYES 2-4
+
       {
         id: "leccion-84",
         title: "Lección 84: 2 Reyes 5",
@@ -4315,6 +4787,9 @@ export const antiguoTestamentoWeeks: Week[] = [
         ],
         secciones: [],
       },
+
+      // PRACTICA 6 del DOMINIO DE LA DOCTRINA
+
       {
         id: "leccion-87",
         title: "Lección 87: 2 Reyes 21–23 (Josías)",
@@ -4350,6 +4825,10 @@ export const antiguoTestamentoWeeks: Week[] = [
       },
     ],
   },
+
+  // AGREGAR 2 REYES 17; 24-25
+
+
   {
     id: 21,
     title: "Semana 21",
