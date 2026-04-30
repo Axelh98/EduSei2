@@ -220,7 +220,7 @@ export const religion250Lessons: FlatLesson[] = [
     ],
   },
 
-  // ─── Lección 2 (pendiente de contenido) ───────────────────────────────────
+  // ─── Lección 2 ────────────────────────────────────────────────────────────
   {
     id: "r250-l02",
     title: "Lección 2: Fortalecer nuestro testimonio del Cristo Viviente",
@@ -230,8 +230,169 @@ export const religion250Lessons: FlatLesson[] = [
     unitTitle: "Venir a Cristo",
     unitNumber: 1,
     chapterUrl: `${BASE_URL}/lesson-02-class-prep?lang=spa`,
-    secciones: [],
-    questions: [],
+
+    secciones: [
+      {
+        tipo: "resumen",
+        bloques: [
+          {
+            tipo: "parrafo",
+            texto:
+              "Imagina el pesar y el dolor que los seguidores de Jesucristo debieron de haber sentido al verlo sufrir y morir en la cruz. Al no comprender plenamente Su misión, probablemente se sintieron confundidos y solos cuando colocaron Su cuerpo en el sepulcro. Puedes imaginar su gozo y asombro cuando, solo unos días después, lo vieron con vida. ¡Ahora podían testificar que Él es el Cristo Viviente! Nosotros también podemos obtener ese mismo testimonio.",
+          },
+          {
+            tipo: "escritura",
+            referencia: "Juan 20:30–31",
+            texto:
+              "Y hizo Jesús muchas otras señales en presencia de Sus discípulos, las cuales no están escritas en este libro. Pero estas se han escrito para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que creyendo, tengáis vida en Su nombre.",
+            comentario:
+              "Juan escribió su evangelio con un propósito específico: fortalecer el testimonio de sus lectores. Cada milagro, cada diálogo, cada testimonio registrado fue escogido para invitar a creer que Jesús es el Cristo.",
+          },
+          {
+            tipo: "parrafo",
+            texto:
+              "La palabra «Cristo» en griego significa «el ungido» y es equivalente a la palabra hebrea «Mesías». Cuando Andrés encontró a su hermano Simón Pedro y anunció «Hemos hallado al Cristo» (Juan 1:41), estaba declarando que Jesús era el Rey y Libertador prometido que los judíos esperaban ansiosamente. El título es una afirmación doctrinal de la mayor importancia.",
+          },
+          {
+            tipo: "escritura",
+            referencia: "Mateo 16:15–17",
+            texto:
+              "Él les dijo: Y vosotros, ¿quién decís que soy yo? Respondiendo Simón Pedro, dijo: Tú eres el Cristo, el Hijo del Dios viviente. Entonces Jesús le dijo: Bienaventurado eres, Simón, hijo de Jonás, porque no te lo reveló carne ni sangre, sino mi Padre que está en los cielos.",
+            comentario:
+              "El Salvador señala algo crucial: los testimonios verdaderos de Cristo no provienen de argumentos humanos ni de evidencias físicas solamente, sino de la revelación del Padre a través del Espíritu Santo.",
+          },
+          {
+            tipo: "cita",
+            autor: "Presidente Russell M. Nelson",
+            fuente: "«Cómo obtener el poder de Jesucristo en nuestra vida», Liahona, mayo de 2017, pág. 40",
+            texto:
+              "Muchos miembros han memorizado las verdades que contiene [El Cristo Viviente]; otros apenas saben que existe. A medida que procuran aprender más acerca de Jesucristo, los insto a estudiar El Cristo Viviente.",
+          },
+          {
+            tipo: "parrafo",
+            texto:
+              "«El Cristo Viviente: El Testimonio de los Apóstoles» fue publicado el 1 de enero del año 2000, en conmemoración del natalicio del Salvador hace dos milenios. Los Apóstoles testifican: «Ninguna otra persona ha ejercido una influencia tan profunda sobre todos los que han vivido y los que aún vivirán sobre la tierra. Él fue el Gran Jehová del Antiguo Testamento y el Mesías del Nuevo Testamento.» Este documento inspirado puede fortalecer y anclar nuestro testimonio.",
+          },
+          {
+            tipo: "cita",
+            autor: "Élder Neil L. Andersen",
+            fuente: "«Hablamos de Cristo», Liahona, noviembre de 2020, pág. 88",
+            texto:
+              "A medida que el mundo hable menos de Jesucristo, hablemos nosotros más de Él. Conforme se manifieste nuestro verdadero carácter como discípulos Suyos, muchas personas a nuestro alrededor estarán preparadas para escuchar.",
+          },
+          {
+            tipo: "escritura",
+            referencia: "Doctrina y Convenios 107:23",
+            texto:
+              "Las doce viajantes especiales que se escogieron y ordenaros de conformidad con los mandamientos del Señor son los testigos especiales del nombre de Cristo en todo el mundo.",
+            comentario:
+              "El Señor ha llamado Apóstoles para testificar de Él ante todas las personas. Sus testimonios modernos complementan y refuerzan los testimonios bíblicos del Cristo resucitado.",
+          },
+          {
+            tipo: "doctrinal",
+            puntos: [
+              "El testimonio de que Jesucristo vive es la base de todo lo demás en el Evangelio restaurado.",
+              "Los testimonios verdaderos del Salvador provienen de la revelación del Padre a través del Espíritu Santo (Mateo 16:17).",
+              "«El Cristo Viviente» es el testimonio oficial de la Primera Presidencia y el Cuórum de los Doce Apóstoles del Salvador resucitado.",
+              "Memorizar y estudiar «El Cristo Viviente» puede fortalecer y profundizar nuestra comprensión de las funciones divinas del Señor.",
+              "Al compartir nuestro testimonio del Salvador, invitamos al Espíritu Santo a tocar los corazones de quienes nos escuchan.",
+            ],
+          },
+          {
+            tipo: "reflexion",
+            preguntas: [
+              "¿Qué evidencia has visto en tu vida o en la vida de otras personas de que Jesucristo vive hoy?",
+              "Cuando escuchas el testimonio de los Apóstoles vivientes del Señor, ¿cómo influye en tu propio testimonio?",
+              "¿Qué verdad de «El Cristo Viviente» te ha impresionado más? ¿Cómo podrías compartirla con alguien esta semana?",
+              "El presidente Nelson enseñó que memorizar «El Cristo Viviente» puede cambiar a una persona. ¿Qué pasos puedes tomar para estudiarlo más profundamente?",
+            ],
+          },
+        ],
+      },
+    ],
+
+    questions: [
+      {
+        id: 1,
+        type: "multiple",
+        question:
+          "Según Juan 20:30–31, ¿cuál fue el propósito principal de Juan al escribir su evangelio?",
+        options: [
+          "Registrar todos los milagros de Jesús para la historia",
+          "Para que los lectores crean que Jesús es el Cristo y tengan vida en Su nombre",
+          "Corregir los errores de los otros evangelistas",
+          "Convencer a los líderes judíos de la divinidad de Cristo",
+        ],
+        correctAnswer: 1,
+        explanation:
+          "Juan declara explícitamente su propósito: que los lectores «crean que Jesús es el Cristo, el Hijo de Dios, y para que creyendo, tengáis vida en Su nombre».",
+      },
+      {
+        id: 2,
+        type: "multiple",
+        question:
+          "¿Cómo recibió Simón Pedro su testimonio de que Jesús es el Cristo, según Mateo 16:17?",
+        options: [
+          "Por haber visto los milagros de Jesús",
+          "Por las enseñanzas de los rabinos judíos",
+          "Mediante revelación del Padre Celestial",
+          "Por leer las profecías del Antiguo Testamento",
+        ],
+        correctAnswer: 2,
+        explanation:
+          "Jesús declaró: «no te lo reveló carne ni sangre, sino mi Padre que está en los cielos». El testimonio verdadero proviene de revelación divina, no solo de evidencia humana.",
+      },
+      {
+        id: 3,
+        type: "truefalse",
+        question:
+          "Verdadero o Falso: «El Cristo Viviente: El Testimonio de los Apóstoles» fue publicado el 1 de enero de 2000 para conmemorar los 2000 años del nacimiento del Salvador.",
+        options: ["Verdadero", "Falso"],
+        correctAnswer: 0,
+        explanation:
+          "Verdadero. La Primera Presidencia y el Cuórum de los Doce publicaron este documento histórico al inicio del nuevo milenio como su testimonio especial del Salvador.",
+      },
+      {
+        id: 4,
+        type: "multiple",
+        question:
+          "¿Qué significa el título «Cristo» según el material de la lección?",
+        options: [
+          "Salvador de Israel",
+          "Hijo de Dios",
+          "El ungido; equivalente a Mesías en hebreo",
+          "El maestro eterno",
+        ],
+        correctAnswer: 2,
+        explanation:
+          "La palabra griega «Cristo» significa «el ungido» y es el equivalente de la palabra hebrea Mesías. Es un título que denota al Rey y Libertador prometido.",
+      },
+      {
+        id: 5,
+        type: "truefalse",
+        question:
+          "Verdadero o Falso: El Élder Andersen enseñó que a medida que el mundo hable menos de Jesucristo, los discípulos deben hablar más de Él.",
+        options: ["Verdadero", "Falso"],
+        correctAnswer: 0,
+        explanation:
+          "Verdadero. El Élder Andersen invitó a los discípulos del Salvador a aumentar su testimonio verbal de Cristo precisamente cuando el mundo tiende a silenciarlo.",
+      },
+      {
+        id: 6,
+        type: "multiple",
+        question:
+          "Según DyC 107:23, ¿cuál es la función específica de los Doce Apóstoles?",
+        options: [
+          "Administrar las finanzas de la Iglesia a nivel mundial",
+          "Ser testigos especiales del nombre de Cristo en todo el mundo",
+          "Presidir cada una de las congregaciones locales",
+          "Traducir las escrituras a todos los idiomas",
+        ],
+        correctAnswer: 1,
+        explanation:
+          "Los Doce son llamados específicamente como «testigos especiales del nombre de Cristo en todo el mundo». Su misión principal es testificar del Salvador.",
+      },
+    ],
   },
 
   // ─── UNIDAD 2: El ministerio preterrenal de Jesucristo ────────────────────
