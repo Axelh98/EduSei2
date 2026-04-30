@@ -46,7 +46,7 @@ export interface Lesson {
   type?:
     | "Antiguo Testamento - Ven Sigueme"
     | "Nuevo Testamento - Ven Sigueme"
-    | "Libro de Mormon - Ven Sigueme"
+    | "Libro de Mormón - Ven Sigueme"
     | "Doctrina y Convenios - Ven Sigueme"
     | "Bloque de Escrituras - Ven Sigueme"
     | "Preparación para la Vida"
