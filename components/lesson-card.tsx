@@ -17,7 +17,8 @@ const typeColorMap: Record<string, string> = {
   "Doctrina y Convenios - Ven Sigueme": "#52525b",
   "Preparación para la Vida": "#ef4444", 
   "Dominio de la Doctrina": "#f97316",
-  "Especial": "#38bdf8",      
+  "Especial": "#38bdf8",  
+  "default": "#6b7280",   
 };
 
 export function LessonCard({ lesson, categoryId }: LessonCardProps) {

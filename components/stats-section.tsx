@@ -1,8 +1,11 @@
 import { BookOpen, HelpCircle, Award, Calendar } from "lucide-react"
-import { categories, getTotalLessons, getTotalQuestions } from "@/lib/quiz-data"
+import { categories, getTotalLessons, getTotalQuestions, isFlatCategory } from "@/lib/quiz-data"
 
 export function StatsSection() {
-  const totalWeeks = categories.reduce((acc, c) => acc + c.weeks.length, 0)
+  const totalWeeks = categories.reduce((acc, c) => {
+    if (isFlatCategory(c)) return acc
+    return acc + c.weeks.length
+  }, 0)
   const totalLessons = categories.reduce((acc, c) => acc + getTotalLessons(c), 0)
   const totalQuestions = categories.reduce((acc, c) => acc + getTotalQuestions(c), 0)
 

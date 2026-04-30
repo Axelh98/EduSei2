@@ -3,7 +3,7 @@
 import { BookMarked, BookOpen, FileText, ScrollText, ArrowRight, Calendar } from "lucide-react"
 import Link from "next/link"
 import type { Category } from "@/lib/types"
-import { getTotalLessons } from "@/lib/quiz-data"
+import { getTotalLessons, isFlatCategory } from "@/lib/quiz-data"
 
 const iconMap: Record<string, React.ElementType> = {
   scroll: ScrollText,
@@ -15,6 +15,7 @@ const iconMap: Record<string, React.ElementType> = {
 export function CategoryCard({ category }: { category: Category }) {
   const Icon = iconMap[category.icon] || BookOpen
   const totalLessons = getTotalLessons(category)
+  const isFlat = isFlatCategory(category)
 
   return (
     <Link href={`/quiz/${category.id}`} className="group block">
@@ -27,10 +28,13 @@ export function CategoryCard({ category }: { category: Category }) {
               <Icon className="h-6 w-6 text-primary-foreground" />
             </div>
             <div className="flex flex-col items-end gap-1">
-              <span className="flex items-center gap-1.5 rounded-full bg-muted px-3 py-1 text-xs font-medium text-muted-foreground">
-                <Calendar className="h-3 w-3" />
-                {category.weeks.length} {category.weeks.length === 1 ? "semana" : "semanas"}
-              </span>
+              {!isFlat && (
+                <span className="flex items-center gap-1.5 rounded-full bg-muted px-3 py-1 text-xs font-medium text-muted-foreground">
+                  <Calendar className="h-3 w-3" />
+                  {(category as any).weeks.length}{" "}
+                  {(category as any).weeks.length === 1 ? "semana" : "semanas"}
+                </span>
+              )}
               <span className="text-xs text-muted-foreground">
                 {totalLessons} {totalLessons === 1 ? "leccion" : "lecciones"}
               </span>
