@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, use, useMemo } from "react";
-import { getLessonById } from "@/lib/quiz-data";
+import { getLessonById, isFlatCategory, getCategoryById } from "@/lib/quiz-data";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import Link from "next/link";
@@ -27,6 +27,8 @@ const typeColorMap: Record<string, string> = {
   "Dominio de la Doctrina": "#f97316",
   "Especial": "#38bdf8",
   "Día Flexible": "#a855f7",
+  "Religión 250": "#6366f1",
+  "Religión 225": "#0ea5e9",
   "default": "#71717a",
 };
 
@@ -49,13 +51,24 @@ export default function RecoveryPage({ searchParams }: PageProps) {
     const dataString = decodeURIComponent(rawData);
     return dataString.split("|").filter(Boolean).flatMap((group) => {
       const [categoryId, lessonIdsRaw] = group.split(":");
+      const category = getCategoryById(categoryId);
+      const isFlat = category ? isFlatCategory(category) : false;
+
       return lessonIdsRaw.split(",").map((lId) => {
         const result = getLessonById(categoryId, lId);
         if (!result) return null;
+
+        // Para Instituto: tiene resumen si la lección tiene secciones propias
+        // Para Seminario: tiene resumen si está en leccionesResumidas
+        const tieneResumen = isFlat
+          ? (result.lesson.secciones ?? []).length > 0
+          : leccionesResumidas.some(r => r.id === lId);
+
         return { 
           ...result, 
-          categoryId, 
-          tieneResumen: leccionesResumidas.some(r => r.id === lId) 
+          categoryId,
+          isFlat,
+          tieneResumen,
         };
       }).filter(Boolean);
     });
@@ -120,7 +133,7 @@ export default function RecoveryPage({ searchParams }: PageProps) {
             {pendingLessons.map((item, index) => {
               if (!item) return null;
               const isDone = completados.includes(`${item.categoryId}-${item.lesson.title}`);
-              const lessonColor = typeColorMap[item.lesson.type] || typeColorMap["default"];
+              const lessonColor = typeColorMap[item.lesson.type ?? "default"] || typeColorMap["default"];
 
               return (
                 <div 
@@ -145,6 +158,12 @@ export default function RecoveryPage({ searchParams }: PageProps) {
                         <p className="text-[10px] font-bold uppercase tracking-widest text-muted-foreground/70 mb-0.5">
                           {item.category.name}
                         </p>
+                        {/* Para Instituto: mostrar unidad si está disponible */}
+                        {item.isFlat && (item.lesson as any).unitTitle && (
+                          <p className="text-[10px] text-muted-foreground/50 mb-0.5">
+                            {(item.lesson as any).unitTitle}
+                          </p>
+                        )}
                         <h3 className={cn(
                           "text-base font-bold leading-tight",
                           isDone ? "text-muted-foreground/60 line-through" : "text-foreground"
