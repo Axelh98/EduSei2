@@ -15,7 +15,7 @@ import {
   Share2 
 } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { leccionesResumidas } from "@/lib/data/antiguo-testamento-resumido";
+import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-resumido";
 import { generateWhatsAppReport } from "@/lib/utils";
 
 const typeColorMap: Record<string, string> = {
@@ -62,7 +62,7 @@ export default function RecoveryPage({ searchParams }: PageProps) {
         // Para Seminario: tiene resumen si está en leccionesResumidas
         const tieneResumen = isFlat
           ? (result.lesson.secciones ?? []).length > 0
-          : leccionesResumidas.some(r => r.id === lId);
+          : leccionesResumidasAT.some(r => r.id === lId);
 
         return { 
           ...result, 

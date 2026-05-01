@@ -10,7 +10,7 @@ import { getCategoryById, getTotalLessons, getTotalQuestions, isFlatCategory } f
 import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X } from "lucide-react"
 import Link from "next/link"
 
-import { leccionesResumidas } from "@/lib/data/antiguo-testamento-resumido"
+import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-resumido"
 
 interface CategoryPageProps {
   params: Promise<{ categoryId: string }>
@@ -29,7 +29,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
     return category.weeks.map(week => ({
       ...week,
       lessons: week.lessons.map(lesson => {
-        const extraData = leccionesResumidas.find(l => l.id === lesson.id)
+        const extraData = leccionesResumidasAT.find(l => l.id === lesson.id)
         return {
           ...lesson,
           secciones: extraData ? extraData.secciones : (lesson.secciones ?? []),

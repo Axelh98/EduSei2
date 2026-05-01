@@ -1,6 +1,6 @@
 import type { Category, WeeklyCategory, FlatCategory } from "./types"
 import { isFlatCategory } from "./types"
-import { leccionesResumidas } from "./data/antiguo-testamento-resumido"
+import { leccionesResumidasAT } from "./data/antiguo-testamento-resumido"
 import { antiguoTestamentoWeeks } from "./data/antiguo-testamento"
 import { nuevoTestamentoWeeks } from "./data/nuevo-testamento"
 import { libroDeMormonWeeks } from "./data/libro-de-mormon"
@@ -133,13 +133,13 @@ export function getContentByLessonId(lessonId: string | number) {
   const idToSearch = typeof lessonId === "string"
     ? parseInt(lessonId.replace("leccion-", ""))
     : lessonId
-  return leccionesResumidas.find((l) => Number(l.id) === idToSearch)
+  return leccionesResumidasAT.find((l) => Number(l.id) === idToSearch)
 }
 
 export function getFullLesson(categoryId: string, lessonId: string) {
   const baseData = getLessonById(categoryId, lessonId)
   if (!baseData) return null
-  const extendedContent = leccionesResumidas.find((l) => l.id === lessonId)
+  const extendedContent = leccionesResumidasAT.find((l) => l.id === lessonId)
   return {
     ...baseData.lesson,
     secciones: extendedContent?.secciones || [],

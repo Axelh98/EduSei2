@@ -2,7 +2,7 @@
 import type { Lesson } from "../types"
 import type { Seccion } from "../types"
 
-export const leccionesResumidas: Lesson[] = [
+export const leccionesResumidasAT: Lesson[] = [
   {
     id: "leccion-1",
     title: "Lección 1: Introducción al Antiguo Testamento",

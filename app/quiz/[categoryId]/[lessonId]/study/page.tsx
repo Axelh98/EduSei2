@@ -3,7 +3,7 @@
 import { use } from "react"
 import { ArrowLeft, BookOpen, GraduationCap, Quote, BookMarked, ListChecks } from "lucide-react"
 import { getCategoryById, isFlatCategory } from "@/lib/quiz-data"
-import { leccionesResumidas } from "@/lib/data/antiguo-testamento-resumido"
+import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-resumido"
 import type { Seccion, BloqueResumen } from "@/lib/types"
 import Link from "next/link"
 
@@ -195,7 +195,7 @@ function findLesson(categoryId: string, lessonId: string) {
   }
 
   // 2. Resúmenes del Seminario
-  const resumida = leccionesResumidas.find(l => l.id === lessonId)
+  const resumida = leccionesResumidasAT.find(l => l.id === lessonId)
   if (resumida) return resumida
 
   return null
