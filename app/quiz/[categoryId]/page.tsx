@@ -119,6 +119,8 @@ export default function CategoryPage({ params }: CategoryPageProps) {
               <FlatLessonList
                 lessons={category.lessons}
                 categoryId={category.id}
+                selectedLessons={selectedLessons}
+                onToggleLesson={toggleLesson}
               />
             ) : (
               // Seminario: lista por semanas con selección para compartir
@@ -139,8 +141,8 @@ export default function CategoryPage({ params }: CategoryPageProps) {
         </section>
       </main>
 
-      {/* Botón flotante solo para Seminario */}
-      {!isFlat && selectedLessons.length > 0 && (
+      {/* Botón flotante para Seminario e Instituto */}
+      {selectedLessons.length > 0 && (
         <div className="fixed bottom-6 left-1/2 z-50 flex -translate-x-1/2 items-center gap-2 rounded-full border border-border bg-card p-2 shadow-2xl animate-in fade-in slide-in-from-bottom-4">
           <div className="flex items-center gap-3 px-4">
             <span className="flex h-6 w-6 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground">
