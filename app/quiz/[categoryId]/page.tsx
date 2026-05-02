@@ -11,6 +11,7 @@ import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X } from "
 import Link from "next/link"
 
 import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-resumido"
+import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-resumido"
 
 interface CategoryPageProps {
   params: Promise<{ categoryId: string }>
@@ -26,17 +27,24 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const weeksWithExtraContent = useMemo(() => {
     if (!category || isFlatCategory(category)) return []
 
+    // Determinar qué archivo de resúmenes usar según la categoría
+    const resumidas = categoryId === "antiguo-testamento" 
+      ? leccionesResumidasAT 
+      : categoryId === "libro-de-mormon"
+        ? leccionesResumidasLM
+        : []
+
     return category.weeks.map(week => ({
       ...week,
       lessons: week.lessons.map(lesson => {
-        const extraData = leccionesResumidasAT.find(l => l.id === lesson.id)
+        const extraData = resumidas.find(l => l.id === lesson.id)
         return {
           ...lesson,
           secciones: extraData ? extraData.secciones : (lesson.secciones ?? []),
         }
       })
     }))
-  }, [category])
+  }, [category, categoryId])
 
   if (!category) {
     notFound()

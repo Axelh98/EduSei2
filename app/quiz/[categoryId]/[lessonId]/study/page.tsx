@@ -4,6 +4,7 @@ import { use } from "react"
 import { ArrowLeft, BookOpen, GraduationCap, Quote, BookMarked, ListChecks } from "lucide-react"
 import { getCategoryById, isFlatCategory } from "@/lib/quiz-data"
 import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-resumido"
+import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-resumido"
 import type { Seccion, BloqueResumen } from "@/lib/types"
 import Link from "next/link"
 
@@ -194,8 +195,14 @@ function findLesson(categoryId: string, lessonId: string) {
     if (lesson && (lesson.secciones ?? []).length > 0) return lesson
   }
 
-  // 2. Resúmenes del Seminario
-  const resumida = leccionesResumidasAT.find(l => l.id === lessonId)
+  // 2. Resúmenes del Seminario - Buscar según categoría
+  let resumida = null
+  if (categoryId === "antiguo-testamento") {
+    resumida = leccionesResumidasAT.find(l => l.id === lessonId)
+  } else if (categoryId === "libro-de-mormon") {
+    resumida = leccionesResumidasLM.find(l => l.id === lessonId)
+  }
+  
   if (resumida) return resumida
 
   return null

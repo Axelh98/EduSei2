@@ -1,6 +1,7 @@
 import type { Category, WeeklyCategory, FlatCategory } from "./types"
 import { isFlatCategory } from "./types"
 import { leccionesResumidasAT } from "./data/antiguo-testamento-resumido"
+import { leccionesResumidasLM } from "./data/libro-de-mormon-resumido"
 import { antiguoTestamentoWeeks } from "./data/antiguo-testamento"
 import { nuevoTestamentoWeeks } from "./data/nuevo-testamento"
 import { libroDeMormonWeeks } from "./data/libro-de-mormon"
@@ -139,7 +140,15 @@ export function getContentByLessonId(lessonId: string | number) {
 export function getFullLesson(categoryId: string, lessonId: string) {
   const baseData = getLessonById(categoryId, lessonId)
   if (!baseData) return null
-  const extendedContent = leccionesResumidasAT.find((l) => l.id === lessonId)
+  
+  // Determinar qué archivo de resúmenes usar según la categoría
+  let extendedContent = null
+  if (categoryId === "antiguo-testamento") {
+    extendedContent = leccionesResumidasAT.find((l) => l.id === lessonId)
+  } else if (categoryId === "libro-de-mormon") {
+    extendedContent = leccionesResumidasLM.find((l) => l.id === lessonId)
+  }
+  
   return {
     ...baseData.lesson,
     secciones: extendedContent?.secciones || [],
