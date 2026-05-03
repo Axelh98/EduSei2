@@ -6,12 +6,13 @@ import Link from "next/link"
 export function SiteHeader() {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-card/80 backdrop-blur-md">
-      <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-4 md:px-6">
+      <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3 md:px-6 md:py-4">
         <Link href="/" className="flex items-center gap-3 transition-opacity hover:opacity-80">
-          <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
-            <BookOpen className="h-5 w-5 text-primary-foreground" />
+          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary md:h-10 md:w-10">
+            <BookOpen className="h-4 w-4 text-primary-foreground md:h-5 md:w-5" />
           </div>
-          <div>
+          {/* Nombre completo solo en desktop */}
+          <div className="hidden md:block">
             <h1 className="text-base font-bold leading-tight text-foreground">
               Mi Seminario e Instituto
             </h1>
@@ -19,7 +20,15 @@ export function SiteHeader() {
               Escrituras · Doctrina · Evaluaciones
             </p>
           </div>
+          {/* Nombre abreviado en mobile */}
+          <div className="md:hidden">
+            <h1 className="text-sm font-bold leading-tight text-foreground">MSI</h1>
+            <p className="text-[10px] leading-none text-muted-foreground">
+              Seminario e Instituto
+            </p>
+          </div>
         </Link>
+
         <nav className="hidden items-center gap-6 md:flex">
           <Link
             href="/"

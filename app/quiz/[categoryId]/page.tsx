@@ -1,12 +1,14 @@
 "use client"
 
-import { useState, use, useMemo } from "react"
+import { useState, use, useMemo, useEffect } from "react"
+import { createPortal } from "react-dom"
 import { notFound } from "next/navigation"
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
 import { WeekCard } from "@/components/week-card"
 import { FlatLessonList } from "@/components/flat-lesson-list"
 import { getCategoryById, getTotalLessons, getTotalQuestions, isFlatCategory } from "@/lib/quiz-data"
+import { generateAssignmentMessage } from "@/lib/utils"
 import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X } from "lucide-react"
 import Link from "next/link"
 
@@ -22,27 +24,29 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const category = getCategoryById(categoryId)
 
   const [selectedLessons, setSelectedLessons] = useState<string[]>([])
+  const [mounted, setMounted] = useState(false)
 
-  // Solo para categorías semanales (Seminario): inyectar secciones resumidas
+  useEffect(() => { setMounted(true) }, [])
+
   const weeksWithExtraContent = useMemo(() => {
     if (!category || isFlatCategory(category)) return []
 
-    // Determinar qué archivo de resúmenes usar según la categoría
-    const resumidas = categoryId === "antiguo-testamento" 
-      ? leccionesResumidasAT 
-      : categoryId === "libro-de-mormon"
+    const resumidas =
+      categoryId === "antiguo-testamento"
+        ? leccionesResumidasAT
+        : categoryId === "libro-de-mormon"
         ? leccionesResumidasLM
         : []
 
-    return category.weeks.map(week => ({
+    return category.weeks.map((week) => ({
       ...week,
-      lessons: week.lessons.map(lesson => {
-        const extraData = resumidas.find(l => l.id === lesson.id)
+      lessons: week.lessons.map((lesson) => {
+        const extraData = resumidas.find((l) => l.id === lesson.id)
         return {
           ...lesson,
           secciones: extraData ? extraData.secciones : (lesson.secciones ?? []),
         }
-      })
+      }),
     }))
   }, [category, categoryId])
 
@@ -65,105 +69,54 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const handleShare = () => {
     const baseUrl = window.location.origin
     const data = `${categoryId}:${selectedLessons.join(",")}`
-    const finalUrl = `${baseUrl}/recuperar?data=${encodeURIComponent(data)}`
-    const text = `Hola, aquí tienes las lecciones de Seminario que debes completar para ponerte al día: ${finalUrl}`
-    window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank")
+    const recoveryUrl = `${baseUrl}/recuperar?data=${encodeURIComponent(data)}`
+
+    const lessonTitles: string[] = []
+    if (isFlat) {
+      selectedLessons.forEach((id) => {
+        const lesson = category.lessons.find((l) => l.id === id)
+        if (lesson) lessonTitles.push(lesson.title)
+      })
+    } else {
+      selectedLessons.forEach((id) => {
+        for (const week of category.weeks) {
+          const lesson = week.lessons.find((l) => l.id === id)
+          if (lesson) { lessonTitles.push(lesson.title); break }
+        }
+      })
+    }
+
+    const mensaje = generateAssignmentMessage(
+      categoryId,
+      category.name,
+      lessonTitles,
+      recoveryUrl
+    )
+
+    window.open(`https://wa.me/?text=${encodeURIComponent(mensaje)}`, "_blank")
   }
 
-  return (
-    <div className="flex min-h-screen flex-col bg-background">
-      <SiteHeader />
-      <main className="flex-1 pb-20">
-        <section className="border-b border-border bg-card px-4 pb-10 pt-8 md:px-6">
-          <div className="mx-auto max-w-4xl">
-            <Link
-              href="/"
-              className="mb-6 inline-flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
-            >
-              <ArrowLeft className="h-4 w-4" />
-              Volver al inicio
-            </Link>
-            <h1 className="font-serif text-3xl font-bold text-balance text-foreground md:text-4xl">
-              {category.name}
-            </h1>
-            <p className="mt-3 max-w-2xl text-base leading-relaxed text-muted-foreground">
-              {category.description}
-            </p>
-            <div className="mt-6 flex flex-wrap gap-6">
-              {/* Seminario muestra semanas, Instituto muestra lecciones */}
-              {!isFlat && (
-                <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                  <Calendar className="h-4 w-4 text-primary" />
-                  <span className="font-medium">{category.weeks.length}</span>{" "}
-                  {category.weeks.length === 1 ? "semana" : "semanas"}
-                </div>
-              )}
-              {isFlat && (
-                <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                  <Layers className="h-4 w-4 text-primary" />
-                  <span className="font-medium">
-                    {new Set(category.lessons.map(l => l.unitTitle).filter(Boolean)).size}
-                  </span>{" "}
-                  unidades
-                </div>
-              )}
-              <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                <BookOpen className="h-4 w-4 text-primary" />
-                <span className="font-medium">{totalLessons}</span>{" "}
-                {totalLessons === 1 ? "lección" : "lecciones"}
-              </div>
-              <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                <FileQuestion className="h-4 w-4 text-primary" />
-                <span className="font-medium">{totalQuestions}</span> preguntas evaluativas
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <section className="px-4 py-10 md:px-6">
-          <div className="mx-auto max-w-4xl">
-            {isFlat ? (
-              // Instituto: lista plana agrupada por unidades
-              <FlatLessonList
-                lessons={category.lessons}
-                categoryId={category.id}
-                selectedLessons={selectedLessons}
-                onToggleLesson={toggleLesson}
-              />
-            ) : (
-              // Seminario: lista por semanas con selección para compartir
-              <div className="flex flex-col gap-4">
-                {weeksWithExtraContent.map((week, index) => (
-                  <WeekCard
-                    key={week.id}
-                    week={week}
-                    categoryId={category.id}
-                    defaultOpen={index === 0}
-                    selectedLessons={selectedLessons}
-                    onToggleLesson={toggleLesson}
-                  />
-                ))}
-              </div>
-            )}
-          </div>
-        </section>
-      </main>
-
-      {/* Botón flotante para Seminario e Instituto */}
-      {selectedLessons.length > 0 && (
-        <div className="fixed bottom-6 left-1/2 z-50 flex -translate-x-1/2 items-center gap-2 rounded-full border border-border bg-card p-2 shadow-2xl animate-in fade-in slide-in-from-bottom-4">
+  // FAB renderizado en un portal directo al <body> — evita cualquier
+  // problema de stacking context creado por wrappers de animación o flex
+  const fab = mounted && selectedLessons.length > 0
+    ? createPortal(
+        <div
+          className="fixed bottom-8 left-1/2 z-[9999] flex -translate-x-1/2 items-center gap-2 rounded-full border border-border bg-card p-2 shadow-2xl animate-in fade-in slide-in-from-bottom-4"
+        >
           <div className="flex items-center gap-3 px-4">
             <span className="flex h-6 w-6 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground">
               {selectedLessons.length}
             </span>
-            <span className="text-sm font-medium hidden sm:inline">seleccionadas</span>
+            <span className="text-sm font-medium hidden sm:inline">
+              {selectedLessons.length === 1 ? "lección seleccionada" : "lecciones seleccionadas"}
+            </span>
           </div>
           <button
             onClick={handleShare}
             className="flex items-center gap-2 rounded-full bg-[#25D366] px-6 py-2.5 text-sm font-bold text-white transition-transform hover:scale-105 active:scale-95 shadow-md"
           >
             <Share2 className="h-4 w-4" />
-            Compartir por WhatsApp
+            Asignar por WhatsApp
           </button>
           <button
             onClick={() => setSelectedLessons([])}
@@ -172,10 +125,90 @@ export default function CategoryPage({ params }: CategoryPageProps) {
           >
             <X className="h-4 w-4 text-muted-foreground" />
           </button>
-        </div>
-      )}
+        </div>,
+        document.body
+      )
+    : null
 
-      <SiteFooter />
-    </div>
+  return (
+    <>
+      {fab}
+      <div className="flex min-h-screen flex-col bg-background">
+        <SiteHeader />
+        <main className="flex-1 pb-32">
+          <section className="border-b border-border bg-card px-4 pb-10 pt-8 md:px-6">
+            <div className="mx-auto max-w-4xl">
+              <Link
+                href="/"
+                className="mb-6 inline-flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
+              >
+                <ArrowLeft className="h-4 w-4" />
+                Volver al inicio
+              </Link>
+              <h1 className="font-serif text-3xl font-bold text-balance text-foreground md:text-4xl">
+                {category.name}
+              </h1>
+              <p className="mt-3 max-w-2xl text-base leading-relaxed text-muted-foreground">
+                {category.description}
+              </p>
+              <div className="mt-6 flex flex-wrap gap-6">
+                {!isFlat && (
+                  <div className="flex items-center gap-2 text-sm text-muted-foreground">
+                    <Calendar className="h-4 w-4 text-primary" />
+                    <span className="font-medium">{category.weeks.length}</span>{" "}
+                    {category.weeks.length === 1 ? "semana" : "semanas"}
+                  </div>
+                )}
+                {isFlat && (
+                  <div className="flex items-center gap-2 text-sm text-muted-foreground">
+                    <Layers className="h-4 w-4 text-primary" />
+                    <span className="font-medium">
+                      {new Set(category.lessons.map((l) => l.unitTitle).filter(Boolean)).size}
+                    </span>{" "}
+                    unidades
+                  </div>
+                )}
+                <div className="flex items-center gap-2 text-sm text-muted-foreground">
+                  <BookOpen className="h-4 w-4 text-primary" />
+                  <span className="font-medium">{totalLessons}</span>{" "}
+                  {totalLessons === 1 ? "lección" : "lecciones"}
+                </div>
+                <div className="flex items-center gap-2 text-sm text-muted-foreground">
+                  <FileQuestion className="h-4 w-4 text-primary" />
+                  <span className="font-medium">{totalQuestions}</span> preguntas evaluativas
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section className="px-4 py-10 md:px-6">
+            <div className="mx-auto max-w-4xl">
+              {isFlat ? (
+                <FlatLessonList
+                  lessons={category.lessons}
+                  categoryId={category.id}
+                  selectedLessons={selectedLessons}
+                  onToggleLesson={toggleLesson}
+                />
+              ) : (
+                <div className="flex flex-col gap-4">
+                  {weeksWithExtraContent.map((week, index) => (
+                    <WeekCard
+                      key={week.id}
+                      week={week}
+                      categoryId={category.id}
+                      defaultOpen={index === 0}
+                      selectedLessons={selectedLessons}
+                      onToggleLesson={toggleLesson}
+                    />
+                  ))}
+                </div>
+              )}
+            </div>
+          </section>
+        </main>
+        <SiteFooter />
+      </div>
+    </>
   )
 }
