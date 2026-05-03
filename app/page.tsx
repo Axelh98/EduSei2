@@ -1,5 +1,6 @@
 import { SiteHeader } from "@/components/site-header"
 import { HeroSection } from "@/components/hero-section"
+import { HowItWorksSection } from "@/components/how-it-works-section"
 import { StatsSection } from "@/components/stats-section"
 import { CategoriesSection } from "@/components/categories-section"
 import { SiteFooter } from "@/components/site-footer"
@@ -10,6 +11,7 @@ export default function HomePage() {
       <SiteHeader />
       <main className="flex-1">
         <HeroSection />
+        <HowItWorksSection />
         <StatsSection />
         <CategoriesSection />
       </main>

@@ -4,24 +4,23 @@ import { Trophy, RotateCcw, Home, Star, BookOpen, ListChecks, Share2 } from "luc
 import Link from "next/link"
 import { cn } from "@/lib/utils"
 import { useEffect } from "react"
-import { generateSingleQuizReport } from "@/lib/utils" 
+import { generateSingleQuizReport, resolveStudentName } from "@/lib/utils"
 
 interface QuizResultsProps {
   score: number
   totalQuestions: number
   categoryName: string
   categoryId: string
-  lessonTitle: string 
+  lessonTitle: string
   onRetry: () => void
   recoveryData?: string | null
 }
 
-// 1. DEFINICIÓN DE LA FUNCIÓN (Fuera del componente para evitar recrearla)
 function getResultMessage(percentage: number) {
-  if (percentage === 100) return { text: "Perfecto", icon: Star, color: "text-yellow-500" }
-  if (percentage >= 80) return { text: "Excelente", icon: Trophy, color: "text-secondary" }
-  if (percentage >= 60) return { text: "Bien hecho", icon: BookOpen, color: "text-primary" }
-  return { text: "Sigue estudiando", icon: BookOpen, color: "text-muted-foreground" }
+  if (percentage === 100) return { text: "¡Perfecto!", icon: Star, color: "text-yellow-500" }
+  if (percentage >= 80)  return { text: "Excelente",  icon: Trophy, color: "text-secondary" }
+  if (percentage >= 60)  return { text: "Aprobado",   icon: BookOpen, color: "text-primary" }
+  return { text: "Seguí estudiando", icon: BookOpen, color: "text-muted-foreground" }
 }
 
 export function QuizResults({
@@ -34,7 +33,7 @@ export function QuizResults({
   onRetry,
 }: QuizResultsProps) {
   const percentage = Math.round((score / totalQuestions) * 100)
-  const result = getResultMessage(percentage) // <--- Ahora sí la encontrará
+  const result = getResultMessage(percentage)
   const ResultIcon = result.icon
 
   useEffect(() => {
@@ -42,8 +41,7 @@ export function QuizResults({
       const storageKey = "seminario-completados"
       const rawData = localStorage.getItem(storageKey)
       const completados = rawData ? JSON.parse(rawData) : []
-      const lessonKey = `${categoryId}-${lessonTitle}` 
-      
+      const lessonKey = `${categoryId}-${lessonTitle}`
       if (!completados.includes(lessonKey)) {
         completados.push(lessonKey)
         localStorage.setItem(storageKey, JSON.stringify(completados))
@@ -53,12 +51,8 @@ export function QuizResults({
 
   const handleShareWhatsApp = (e: React.MouseEvent) => {
     e.preventDefault()
-    const nombre = window.prompt("Ingresa tu nombre completo para firmar tu evaluación:")
-    
-    if (!nombre || nombre.trim().length < 4) {
-      alert("Debes ingresar tu nombre para generar un reporte válido.")
-      return
-    }
+    const nombre = resolveStudentName()
+    if (!nombre) return
 
     const mensaje = generateSingleQuizReport(
       categoryName,
@@ -68,11 +62,10 @@ export function QuizResults({
       percentage,
       nombre
     )
-
     window.open(`https://wa.me/?text=${encodeURIComponent(mensaje)}`, "_blank")
   }
 
-  const backUrl = recoveryData 
+  const backUrl = recoveryData
     ? `/recuperar?data=${encodeURIComponent(recoveryData)}`
     : `/quiz/${categoryId}`
 
@@ -86,6 +79,7 @@ export function QuizResults({
         {result.text}
       </h2>
       <p className="mt-2 text-sm text-muted-foreground">{categoryName}</p>
+      <p className="text-xs text-muted-foreground/60">{lessonTitle}</p>
 
       <div className="my-8">
         <div className="text-6xl font-bold text-foreground md:text-7xl">
@@ -129,7 +123,7 @@ export function QuizResults({
           className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#25D366] px-6 py-3 text-sm font-bold text-white transition-all hover:brightness-110 active:scale-95"
         >
           <Share2 className="h-4 w-4" />
-          Compartir
+          Compartir resultado
         </button>
       </div>
     </div>

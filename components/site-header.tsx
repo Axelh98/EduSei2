@@ -12,11 +12,11 @@ export function SiteHeader() {
             <BookOpen className="h-5 w-5 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="text-lg font-bold leading-tight text-foreground">
-              Seminario
+            <h1 className="text-base font-bold leading-tight text-foreground">
+              Mi Seminario e Instituto
             </h1>
-            <p className="text-xs text-muted-foreground">
-              Cuestionarios de las Escrituras
+            <p className="text-[11px] text-muted-foreground">
+              Escrituras · Doctrina · Evaluaciones
             </p>
           </div>
         </Link>

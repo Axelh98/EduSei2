@@ -11,9 +11,9 @@ const _merriweather = Merriweather({
 })
 
 export const metadata: Metadata = {
-  title: 'Seminario - Cuestionarios de las Escrituras',
+  title: 'Mi Seminario e Instituto',
   description:
-    'Cuestionarios del Seminario de La Iglesia de Jesucristo de los Santos de los Últimos Días. Estudia el Antiguo Testamento, Nuevo Testamento, Libro de Mormón y Doctrina y Convenios.',
+    'Cuestionarios interactivos de Seminario e Instituto de La Iglesia de Jesucristo de los Santos de los Últimos Días. Estudia el Antiguo Testamento, Nuevo Testamento, Libro de Mormón, Doctrina y Convenios y más.',
 }
 
 export const viewport: Viewport = {

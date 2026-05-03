@@ -10,84 +10,94 @@ interface WeekCardProps {
   week: Week
   categoryId: string
   defaultOpen?: boolean
-  selectedLessons: string[]        // Estado recibido del padre
-  onToggleLesson: (id: string) => void // Función recibida del padre
+  selectedLessons: string[]
+  onToggleLesson: (id: string) => void
 }
 
-export function WeekCard({ 
-  week, 
-  categoryId, 
+export function WeekCard({
+  week,
+  categoryId,
   defaultOpen = false,
   selectedLessons,
-  onToggleLesson
+  onToggleLesson,
 }: WeekCardProps) {
   const [isOpen, setIsOpen] = useState(defaultOpen)
 
-  // Contamos cuántas lecciones de ESTA semana específica están seleccionadas
-  const countInWeek = week.lessons.filter(l => selectedLessons.includes(l.id)).length
+  const countInWeek = week.lessons.filter((l) => selectedLessons.includes(l.id)).length
+  const lessonCount = week.lessons.length
 
   return (
     <div className="overflow-hidden rounded-xl border border-border bg-card">
+      {/* Header del acordeón */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex w-full items-center justify-between px-5 py-4 text-left transition-colors hover:bg-muted/50"
+        className="flex w-full items-center gap-4 px-5 py-4 text-left transition-colors hover:bg-muted/40"
         aria-expanded={isOpen}
       >
-        <div className="flex items-center gap-4">
-          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-primary/10 text-sm font-bold text-primary">
+        {/* Número de semana — jerarquía primaria */}
+        <div className="flex h-11 w-11 shrink-0 flex-col items-center justify-center rounded-lg bg-primary/8 leading-none">
+          <span className="text-[9px] font-bold uppercase tracking-widest text-primary/50">
+            Sem.
+          </span>
+          <span className="text-lg font-bold text-primary leading-tight">
             {week.id}
-          </div>
-          <div>
-            <h3 className="text-base font-semibold text-foreground">
-              {week.title}
-            </h3>
-            <p className="text-sm text-muted-foreground">
-              {week.dateRange}
-              {" -- "}
-              {week.lessons.length}
-              {week.lessons.length === 1 ? " lección" : " lecciones"}
-            </p>
-          </div>
+          </span>
         </div>
-        <div className="flex items-center gap-3">
+
+        {/* Título y metadata */}
+        <div className="flex-1 min-w-0">
+          <h3 className="truncate text-sm font-bold text-foreground">
+            {week.title}
+          </h3>
+          <p className="mt-0.5 text-xs text-muted-foreground">
+            {week.dateRange}
+            <span className="mx-1.5 text-border">·</span>
+            {lessonCount} {lessonCount === 1 ? "lección" : "lecciones"}
+          </p>
+        </div>
+
+        {/* Indicadores a la derecha */}
+        <div className="flex shrink-0 items-center gap-2">
           {countInWeek > 0 && (
-            <span className="rounded-full bg-primary/20 px-2 py-0.5 text-[10px] font-bold text-primary">
+            <span className="rounded-full bg-primary/10 px-2 py-0.5 text-[10px] font-bold text-primary">
               {countInWeek} marcadas
             </span>
           )}
           <ChevronDown
             className={cn(
-              "h-5 w-5 shrink-0 text-muted-foreground transition-transform duration-200",
+              "h-4 w-4 text-muted-foreground/60 transition-transform duration-200",
               isOpen && "rotate-180"
             )}
           />
         </div>
       </button>
 
+      {/* Cuerpo expandido */}
       {isOpen && (
-        <div className="flex flex-col gap-3 border-t border-border px-5 py-4 animate-in fade-in zoom-in-95 duration-200">
-          <p className="text-[11px] font-medium uppercase tracking-wider text-muted-foreground/70">
-            Selecciona lecciones para compartir
+        <div className="border-t border-border animate-in fade-in slide-in-from-top-1 duration-150">
+          {/* Instrucción de selección */}
+          <p className="border-b border-border/50 bg-muted/30 px-5 py-2 text-[10px] font-medium uppercase tracking-wider text-muted-foreground/60">
+            Seleccioná lecciones para compartir
           </p>
-          
-          {week.lessons.map((lesson) => (
-            <div key={lesson.id} className="flex items-start gap-3">
-              <div className="pt-3"> {/* Alineación con el centro de la primera línea de la card */}
-                <input
-                  type="checkbox"
-                  checked={selectedLessons.includes(lesson.id)}
-                  onChange={() => onToggleLesson(lesson.id)}
-                  className="h-5 w-5 cursor-pointer rounded border-input bg-background text-primary focus:ring-primary"
-                />
+
+          <div className="flex flex-col gap-3 p-4">
+            {week.lessons.map((lesson) => (
+              <div key={lesson.id} className="flex items-start gap-3">
+                {/* Checkbox alineado con el título de la card */}
+                <div className="flex h-10 w-5 shrink-0 items-center justify-center pt-3.5">
+                  <input
+                    type="checkbox"
+                    checked={selectedLessons.includes(lesson.id)}
+                    onChange={() => onToggleLesson(lesson.id)}
+                    className="h-4 w-4 cursor-pointer rounded border-input bg-background text-primary focus:ring-primary"
+                  />
+                </div>
+                <div className="flex-1 min-w-0">
+                  <LessonCard lesson={lesson} categoryId={categoryId} />
+                </div>
               </div>
-              <div className="flex-1">
-                <LessonCard
-                  lesson={lesson}
-                  categoryId={categoryId}
-                />
-              </div>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
       )}
     </div>
