@@ -11,16 +11,15 @@ import { useShareWithName } from "@/hooks/use-share-with-name"
 import { StudentNameModal } from "@/components/student-name-modal"
 import { RecoveryDashboard } from "@/components/recovery/recovery-dashboard"
 import { PendingLessonCard } from "@/components/recovery/pending-lesson-card"
-import { RecoveryLesson } from "@/components/recovery/pending-lesson-card"
 import { CompletedLessonCard } from "@/components/recovery/completed-lesson-card"
+import { saveRecoveryPlan } from "@/lib/recovery-storage"
 import { cn } from "@/lib/utils"
-
+import type { RecoveryLesson } from "@/components/recovery/pending-lesson-card"
 
 interface RecoveryClientProps {
   rawData: string
 }
 
-// Parsea el query param "data" y devuelve la lista de lecciones
 function parseLessons(rawData: string): RecoveryLesson[] {
   if (!rawData) return []
 
@@ -59,22 +58,26 @@ function parseLessons(rawData: string): RecoveryLesson[] {
 }
 
 export function RecoveryClient({ rawData }: RecoveryClientProps) {
-  const [completados,    setCompletados]    = useState<string[]>([])
-  const [showCompleted,  setShowCompleted]  = useState(false)
+  const [completados,   setCompletados]   = useState<string[]>([])
+  const [showCompleted, setShowCompleted] = useState(false)
 
   const { modalOpen, handleConfirm, handleCancel, shareToWhatsApp } = useShareWithName()
 
   useEffect(() => {
+    // Guardar el plan para que la home muestre el banner
+    if (rawData) saveRecoveryPlan(rawData)
+
+    // Cargar lecciones completadas
     const saved = JSON.parse(localStorage.getItem("seminario-completados") || "[]")
     setCompletados(saved)
-  }, [])
+  }, [rawData])
 
   const lessons = useMemo(() => parseLessons(rawData), [rawData])
 
   const pending   = lessons.filter((l) => !completados.includes(`${l.categoryId}-${l.lesson.title}`))
   const completed = lessons.filter((l) =>  completados.includes(`${l.categoryId}-${l.lesson.title}`))
-  const done      = completed.length
-  const total     = lessons.length
+  const done       = completed.length
+  const total      = lessons.length
   const percentage = total > 0 ? Math.round((done / total) * 100) : 0
   const allDone    = done === total && total > 0
 
@@ -92,7 +95,6 @@ export function RecoveryClient({ rawData }: RecoveryClientProps) {
         onCancel={handleCancel}
       />
 
-      {/* Header */}
       <header className="mb-8">
         <p className="mb-1 text-xs font-bold uppercase tracking-widest text-muted-foreground/50">
           Plan de recuperación
@@ -102,7 +104,6 @@ export function RecoveryClient({ rawData }: RecoveryClientProps) {
         </h1>
       </header>
 
-      {/* Dashboard: ring + stats + botón compartir */}
       <RecoveryDashboard
         percentage={percentage}
         done={done}
@@ -112,7 +113,6 @@ export function RecoveryClient({ rawData }: RecoveryClientProps) {
         onShare={handleShare}
       />
 
-      {/* Lecciones pendientes */}
       {pending.length > 0 && (
         <section className="mb-6">
           <h2 className="mb-3 flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-muted-foreground">
@@ -129,7 +129,6 @@ export function RecoveryClient({ rawData }: RecoveryClientProps) {
         </section>
       )}
 
-      {/* Lecciones completadas (colapsables) */}
       {completed.length > 0 && (
         <section>
           <button
@@ -140,12 +139,10 @@ export function RecoveryClient({ rawData }: RecoveryClientProps) {
               {done}
             </span>
             Completadas
-            <ChevronDown
-              className={cn(
-                "ml-auto h-3.5 w-3.5 transition-transform duration-200",
-                showCompleted && "rotate-180"
-              )}
-            />
+            <ChevronDown className={cn(
+              "ml-auto h-3.5 w-3.5 transition-transform duration-200",
+              showCompleted && "rotate-180"
+            )} />
           </button>
 
           {showCompleted && (
@@ -158,7 +155,6 @@ export function RecoveryClient({ rawData }: RecoveryClientProps) {
         </section>
       )}
 
-      {/* Estado vacío */}
       {total === 0 && (
         <div className="flex flex-col items-center justify-center rounded-2xl border border-dashed border-border py-16 text-center">
           <BookOpen className="mb-3 h-8 w-8 text-muted-foreground/30" />
