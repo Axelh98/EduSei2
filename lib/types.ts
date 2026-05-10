@@ -29,11 +29,14 @@ export interface Seccion {
 export interface Question {
   id: number
   question: string
-  type?: "multiple" | "truefalse"
+  type?: "multiple" | "truefalse" | "written" // ← Agregar "written"
   options: string[]
   correctAnswer: number
   reference?: string
   explanation?: string
+  // Para preguntas escritas:
+  prompt?: string // Guía sobre qué escribir
+  minWords?: number // Mínimo de palabras requeridas
 }
 
 // ─── Lección ──────────────────────────────────────────────────────────────────

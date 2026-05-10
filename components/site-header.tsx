@@ -2,6 +2,7 @@
 
 import { BookOpen } from "lucide-react"
 import Link from "next/link"
+import { LessonSearch } from "./lesson-search"
 
 export function SiteHeader() {
   return (
@@ -29,6 +30,10 @@ export function SiteHeader() {
           </div>
         </Link>
 
+        <div className="hidden flex-1 justify-center md:flex">
+          <LessonSearch />
+        </div>
+
         <nav className="hidden items-center gap-6 md:flex">
           <Link
             href="/"
@@ -43,6 +48,9 @@ export function SiteHeader() {
             Categorías
           </Link>
         </nav>
+        <div className="flex w-full md:hidden">
+          <LessonSearch />
+        </div>
       </div>
     </header>
   )
