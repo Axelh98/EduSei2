@@ -1,9 +1,12 @@
 import type { Week } from "../types"
 
-export const doctrinaYConveniosWeeks: Week[] = [
+export const doctrinaYConveniosWeeks2semestre: Week[] = [
+
+  
+
   {
-    id: 1,
-    title: "Semana 1",
+    id: 21,
+    title: "Semana 21",
     dateRange: "30 junio – 6 julio",
     lessons: [
       {
@@ -261,8 +264,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 2,
-    title: "Semana 2",
+    id: 22,
+    title: "Semana 22",
     dateRange: "7 – 13 julio",
     lessons: [
       {
@@ -586,8 +589,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 3,
-    title: "Semana 3",
+    id: 23,
+    title: "Semana 23",
     dateRange: "14 – 20 julio",
     lessons: [
       {
@@ -761,8 +764,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 4,
-    title: "Semana 4",
+    id: 24,
+    title: "Semana 24",
     dateRange: "21 – 27 julio",
     lessons: [
       {
@@ -1020,8 +1023,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 5,
-    title: "Semana 5",
+    id: 25,
+    title: "Semana 25",
     dateRange: "28 julio – 3 agosto",
     lessons: [
       {
@@ -1195,8 +1198,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 6,
-    title: "Semana 6",
+    id: 26,
+    title: "Semana 26",
     dateRange: "4 – 10 agosto",
     lessons: [
       {
@@ -1447,8 +1450,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 7,
-    title: "Semana 7",
+    id: 27,
+    title: "Semana 27",
     dateRange: "11 – 17 agosto",
     lessons: [
       {
@@ -1790,8 +1793,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 8,
-    title: "Semana 8",
+    id: 28,
+    title: "Semana 28",
     dateRange: "18 – 24 agosto",
     lessons: [
       {
@@ -2049,8 +2052,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 9,
-    title: "Semana 9",
+    id: 29,
+    title: "Semana 29",
     dateRange: "25 – 31 agosto",
     lessons: [
       {
@@ -2242,8 +2245,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 10,
-    title: "Semana 10",
+    id: 30,
+    title: "Semana 30",
     dateRange: "1 – 7 septiembre",
     lessons: [
       {
@@ -2369,8 +2372,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 11,
-    title: "Semana 11",
+    id: 31,
+    title: "Semana 31",
     dateRange: "8 – 14 septiembre",
     lessons: [
       {
@@ -2562,8 +2565,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 12,
-    title: "Semana 12",
+    id: 32,
+    title: "Semana 32",
     dateRange: "15 – 21 septiembre",
     lessons: [
       {
@@ -2755,10 +2758,10 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 13,
-    title: "Semana 13",
+    id: 33,
+    title: "Semana 33",
     dateRange: "22 – 28 septiembre",
-    lessons: [
+    lessons: [    
       {
         id: "doctrina-y-convenios-107-1-20",
         title: "Lección: Doctrina y Convenios 107:1–20",
@@ -2959,8 +2962,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 14,
-    title: "Semana 14",
+    id: 34,
+    title: "Semana 34",
     dateRange: "29 septiembre – 5 octubre",
     lessons: [
       {
@@ -3152,8 +3155,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 15,
-    title: "Semana 15",
+    id: 35,
+    title: "Semana 35",
     dateRange: "6 – 12 octubre",
     lessons: [
       {
@@ -3345,8 +3348,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 16,
-    title: "Semana 16",
+    id: 36,
+    title: "Semana 36",
     dateRange: "13 – 19 octubre",
     lessons: [
       {
@@ -3538,8 +3541,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 17,
-    title: "Semana 17",
+    id: 37,
+    title: "Semana 37",
     dateRange: "20 – 26 octubre",
     lessons: [
       {
@@ -3731,8 +3734,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 18,
-    title: "Semana 18",
+    id: 38,
+    title: "Semana 38",
     dateRange: "27 octubre – 2 noviembre",
     lessons: [
       {
@@ -3862,8 +3865,8 @@ export const doctrinaYConveniosWeeks: Week[] = [
     ]
   },
   {
-    id: 19,
-    title: "Semana 19",
+    id: 39,
+    title: "Semana 39",
     dateRange: "3 – 9 noviembre",
     lessons: [
       {

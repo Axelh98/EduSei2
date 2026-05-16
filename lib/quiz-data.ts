@@ -5,7 +5,8 @@ import { leccionesResumidasLM } from "./data/libro-de-mormon-resumido"
 import { antiguoTestamentoWeeks } from "./data/antiguo-testamento"
 import { nuevoTestamentoWeeks } from "./data/nuevo-testamento"
 import { libroDeMormonWeeks } from "./data/libro-de-mormon"
-import { doctrinaYConveniosWeeks } from "./data/doctrina-y-convenios"
+import { doctrinaYConveniosWeeks1semestre } from "./data/doctrina-y-convenios-primer-semestre"
+import { doctrinaYConveniosWeeks2semestre } from "./data/doctrina-y-convenios-segundo-semestre"
 import { bloqueDeEscriturasWeeks } from "./data/bloques"
 import { religion250Lessons } from "./data/religion-250"
 import { religion225Lessons } from "./data/religion-225"
@@ -51,7 +52,7 @@ const weeklyCategories: WeeklyCategory[] = [
     icon: "file-text",
     color: "bg-secondary",
     courseType: "seminario",
-    weeks: doctrinaYConveniosWeeks,
+    weeks: doctrinaYConveniosWeeks2semestre,
   },
   {
     id: "Bloques",
