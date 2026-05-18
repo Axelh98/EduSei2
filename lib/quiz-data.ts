@@ -3,6 +3,7 @@ import { isFlatCategory } from "./types"
 import { leccionesResumidasAT } from "./data/antiguo-testamento-resumido"
 import { leccionesResumidasLM } from "./data/libro-de-mormon-resumido"
 import { antiguoTestamentoWeeks } from "./data/antiguo-testamento"
+import { antiguoTestamentoWeeks2semestre } from "./data/antiguo-testamento-segundo-semestre"
 import { nuevoTestamentoWeeks } from "./data/nuevo-testamento"
 import { libroDeMormonWeeks } from "./data/libro-de-mormon"
 import { doctrinaYConveniosWeeks1semestre } from "./data/doctrina-y-convenios-primer-semestre"
@@ -21,8 +22,20 @@ const weeklyCategories: WeeklyCategory[] = [
     description: "Desde la Creación hasta los profetas. Estudia las escrituras hebreas semana a semana con lecciones del manual de Seminario.",
     icon: "scroll",
     color: "bg-primary",
+    semester: 1,
     courseType: "seminario",
     weeks: antiguoTestamentoWeeks,
+  },
+  {
+    id: "antiguo-testamento-2do-semestre",
+    name: "Antiguo Testamento - Segundo Semestre",
+    shortName: "AT-2do-Sem",
+    description: "Estudia las escrituras hebreas del segundo semestre con lecciones del manual de Seminario.",
+    icon: "scroll",
+    color: "bg-primary",
+    semester: 2,
+    courseType: "seminario",
+    weeks: antiguoTestamentoWeeks2semestre,
   },
   {
     id: "nuevo-testamento",
@@ -45,13 +58,25 @@ const weeklyCategories: WeeklyCategory[] = [
     weeks: libroDeMormonWeeks,
   },
   {
-    id: "doctrina-y-convenios",
+    id: "doctrina-y-convenios-1",
     name: "Doctrina y Convenios",
     shortName: "DyC",
-    description: "Revelaciones para los últimos días. Doctrinas y convenios de la Restauración.",
+    description: "Revelaciones para los últimos días. Primer semestre: secciones 1–76.",
     icon: "file-text",
     color: "bg-secondary",
     courseType: "seminario",
+    semester: 1,
+    weeks: doctrinaYConveniosWeeks1semestre,
+  },
+  {
+    id: "doctrina-y-convenios-2",
+    name: "Doctrina y Convenios",
+    shortName: "DyC",
+    description: "Revelaciones para los últimos días. Segundo semestre: secciones 77–138.",
+    icon: "file-text",
+    color: "bg-secondary",
+    courseType: "seminario",
+    semester: 2,
     weeks: doctrinaYConveniosWeeks2semestre,
   },
   {
@@ -92,6 +117,24 @@ const flatCategories: FlatCategory[] = [
     lessons: religion225Lessons,
   },
 ]
+
+
+export function getUniqueCourses(): Category[] {
+  const seen = new Map<string, Category>()
+  for (const category of categories) {
+    const key = category.name // agrupa por nombre
+    const existing = seen.get(key)
+    if (!existing) {
+      seen.set(key, category)
+    } else {
+      // Quedarse con el de menor semestre (1° tiene prioridad)
+      const existingSem = (existing as any).semester ?? 1
+      const currentSem = (category as any).semester ?? 1
+      if (currentSem < existingSem) seen.set(key, category)
+    }
+  }
+  return Array.from(seen.values())
+}
 
 export const categories: Category[] = [...weeklyCategories, ...flatCategories]
 
@@ -141,7 +184,7 @@ export function getContentByLessonId(lessonId: string | number) {
 export function getFullLesson(categoryId: string, lessonId: string) {
   const baseData = getLessonById(categoryId, lessonId)
   if (!baseData) return null
-  
+
   // Determinar qué archivo de resúmenes usar según la categoría
   let extendedContent = null
   if (categoryId === "antiguo-testamento") {
@@ -149,7 +192,7 @@ export function getFullLesson(categoryId: string, lessonId: string) {
   } else if (categoryId === "libro-de-mormon") {
     extendedContent = leccionesResumidasLM.find((l) => l.id === lessonId)
   }
-  
+
   return {
     ...baseData.lesson,
     secciones: extendedContent?.secciones || [],

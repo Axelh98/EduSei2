@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { categories } from "@/lib/quiz-data"
+import { getUniqueCourses } from "@/lib/quiz-data"
 import { CategoryCard } from "./category-card"
 import type { Category } from "@/lib/types"
 import { GraduationCap, BookOpen, Star, Sparkles } from "lucide-react"
@@ -14,11 +14,13 @@ export function CategoriesSection() {
   const [mainTab, setMainTab] = useState<MainTab>("seminario")
   const [instituteTab, setInstituteTab] = useState<InstituteTab>("fundamental")
 
-  const seminarioCourses = categories.filter((c) => c.courseType === "seminario")
-  const institutoFundamentales = categories.filter(
+  const allUnique = getUniqueCourses()
+
+  const seminarioCourses = allUnique.filter((c) => c.courseType === "seminario")
+  const institutoFundamentales = allUnique.filter(
     (c) => c.courseType === "instituto" && c.instituteTrack === "fundamental"
   )
-  const institutoElectivos = categories.filter(
+  const institutoElectivos = allUnique.filter(
     (c) => c.courseType === "instituto" && c.instituteTrack === "electivo"
   )
 
@@ -94,7 +96,7 @@ export function CategoriesSection() {
           </div>
         </div>
 
-        {/* Subtabs de Instituto (Fundamentales / Electivos) */}
+        {/* Subtabs de Instituto */}
         {mainTab === "instituto" && (
           <div className="mb-8 flex justify-center gap-3">
             <button

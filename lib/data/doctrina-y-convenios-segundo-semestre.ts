@@ -12,7 +12,10 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "doctrina-y-convenios-71",
         title: "Lección: Doctrina y Convenios 71",
-        description: "",
+        // Descriptión de 10 palabras maximo
+        description: "Cómo responder a las críticas con fe y fortaleza interior",
+        type: "Dominio de la Doctrina",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=spa",
         questions: [
           {
             id: 1,
@@ -96,7 +99,10 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "pr-ctica-del-dominio-de-la-doctrina-5",
         title: "Lección: Práctica del Dominio de la doctrina 5",
-        description: "",
+        // Descriptión de 10 palabras maximo
+        description: "Cómo memorizar información para fortalecer el testimonio y la fe",
+        type: "Dominio de la Doctrina",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/112-doctrine-mastery-practice-5?lang=spa",
         questions: [
           {
             id: 1,
@@ -180,7 +186,10 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "eval-a-tu-aprendizaje-5",
         title: "Lección: Evalúa tu aprendizaje 5",
-        description: "",
+        // Descriptión de 10 palabras maximo
+        description: "Cómo evaluar el progreso espiritual y la aplicación de los principios del Evangelio en la vida diaria",
+        type: "Dominio de la Doctrina",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual/113-evaluate-your-learning-5?lang=spa",
         questions: [
           {
             id: 1,
@@ -267,11 +276,14 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
     id: 22,
     title: "Semana 22",
     dateRange: "7 – 13 julio",
+    
     lessons: [
       {
         id: "doctrina-y-convenios-76-1-19",
         title: "Lección: Doctrina y Convenios 76:1–19",
-        description: "",
+        description: "La visión de José y Sidney",
+        type: "Doctrina y Convenios - Ven Sigueme",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa",
         questions: [
           {
             id: 1,
@@ -355,7 +367,9 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "doctrina-y-convenios-76-19-24",
         title: "Lección: Doctrina y Convenios 76:19–24",
-        description: "",
+        description: "El testimonio de que Jesucristo vive",
+        type: "Doctrina y Convenios - Ven Sigueme",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa",
         questions: [
           {
             id: 1,
@@ -439,7 +453,9 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "doctrina-y-convenios-76-50-70",
         title: "Lección: Doctrina y Convenios 76:50–70",
-        description: "",
+        description: "El Reino Celestial y los diferentes grados de gloria",
+        type: "Doctrina y Convenios - Ven Sigueme",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa",
         questions: [
           {
             id: 1,
@@ -596,7 +612,9 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "doctrina-y-convenios-78",
         title: "Lección: Doctrina y Convenios 78",
-        description: "",
+        description: "La Firma Unida y su propósito en la administración de propiedades para ayudar a los necesitados",
+        type: "Doctrina y Convenios - Ven Sigueme",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa",
         questions: [
           {
             id: 1,
@@ -680,7 +698,9 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "doctrina-y-convenios-79-80",
         title: "Lección: Doctrina y Convenios 79–80",
-        description: "",
+        description: "La visión de José y Sidney sobre compartir el Evangelio y el llamado a servir en misiones",
+        type: "Doctrina y Convenios - Ven Sigueme",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/79?lang=spa",
         questions: [
           {
             id: 1,
@@ -771,7 +791,9 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "doctrina-y-convenios-82-1-7",
         title: "Lección: Doctrina y Convenios 82:1–7",
-        description: "",
+        description: "El principio de que quienes reciben muchas bendiciones tienen mayores obligaciones",
+        type: "Doctrina y Convenios - Ven Sigueme",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa",
         questions: [
           {
             id: 1,
@@ -855,7 +877,9 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "doctrina-y-convenios-82-8-24",
         title: "Lección: Doctrina y Convenios 82:8–24",
-        description: "",
+        description: "La relación entre obediencia y bendiciones, y el propósito de los convenios en la vida de los santos",
+        type: "Doctrina y Convenios - Ven Sigueme",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa",
         questions: [
           {
             id: 1,
@@ -939,7 +963,9 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "eval-a-tu-aprendizaje-6",
         title: "Lección: Evalúa tu aprendizaje 6",
-        description: "",
+        description: "La visión de los tres grados de gloria y su significado para nuestra vida",
+        type: "Dominio de la Doctrina",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa",
         questions: [
           {
             id: 1,
@@ -1030,7 +1056,9 @@ export const doctrinaYConveniosWeeks2semestre: Week[] = [
       {
         id: "doctrina-y-convenios-84-1-32",
         title: "Lección: Doctrina y Convenios 84:1–32",
-        description: "",
+        description: "La importancia de las ordenanzas del sacerdocio en la vida de los santos",
+        type: "Doctrina y Convenios - Ven Sigueme",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa",
         questions: [
           {
             id: 1,

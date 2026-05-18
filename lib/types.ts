@@ -88,6 +88,7 @@ export interface WeeklyCategory extends CourseMetadata {
   icon: string
   color: string
   layoutType?: "weekly"
+  semester?: 1 | 2     
   weeks: Week[]
 }
 

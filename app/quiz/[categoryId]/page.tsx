@@ -2,7 +2,7 @@
 
 import { useState, use, useMemo, useEffect } from "react"
 import { createPortal } from "react-dom"
-import { notFound } from "next/navigation"
+import { notFound, useRouter } from "next/navigation"
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
 import { WeekCard } from "@/components/week-card"
@@ -11,6 +11,7 @@ import { getCategoryById, getTotalLessons, getTotalQuestions, isFlatCategory } f
 import { generateAssignmentMessage } from "@/lib/utils"
 import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X } from "lucide-react"
 import Link from "next/link"
+import { cn } from "@/lib/utils"
 
 import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-resumido"
 import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-resumido"
@@ -19,14 +20,21 @@ interface CategoryPageProps {
   params: Promise<{ categoryId: string }>
 }
 
+// IDs que forman parte del mismo curso de DyC
+const DYC_IDS = ["doctrina-y-convenios-1", "doctrina-y-convenios-2"]
+
 export default function CategoryPage({ params }: CategoryPageProps) {
   const { categoryId } = use(params)
+  const router = useRouter()
   const category = getCategoryById(categoryId)
 
   const [selectedLessons, setSelectedLessons] = useState<string[]>([])
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => { setMounted(true) }, [])
+
+  const isDyC = DYC_IDS.includes(categoryId)
+  const activeSemester = categoryId === "doctrina-y-convenios-1" ? 1 : 2
 
   const weeksWithExtraContent = useMemo(() => {
     if (!category || isFlatCategory(category)) return []
@@ -96,13 +104,9 @@ export default function CategoryPage({ params }: CategoryPageProps) {
     window.open(`https://wa.me/?text=${encodeURIComponent(mensaje)}`, "_blank")
   }
 
-  // FAB renderizado en un portal directo al <body> — evita cualquier
-  // problema de stacking context creado por wrappers de animación o flex
   const fab = mounted && selectedLessons.length > 0
     ? createPortal(
-        <div
-          className="fixed bottom-8 left-1/2 z-[9999] flex -translate-x-1/2 items-center gap-2 rounded-full border border-border bg-card p-2 shadow-2xl animate-in fade-in slide-in-from-bottom-4"
-        >
+        <div className="fixed bottom-8 left-1/2 z-[9999] flex -translate-x-1/2 items-center gap-2 rounded-full border border-border bg-card p-2 shadow-2xl animate-in fade-in slide-in-from-bottom-4">
           <div className="flex items-center gap-3 px-4">
             <span className="flex h-6 w-6 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground">
               {selectedLessons.length}
@@ -145,12 +149,48 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                 <ArrowLeft className="h-4 w-4" />
                 Volver al inicio
               </Link>
+
               <h1 className="font-serif text-3xl font-bold text-balance text-foreground md:text-4xl">
                 {category.name}
               </h1>
               <p className="mt-3 max-w-2xl text-base leading-relaxed text-muted-foreground">
                 {category.description}
               </p>
+
+              {/* Switcher de semestre — solo para DyC */}
+              {isDyC && (
+                <div className="mt-5 inline-flex rounded-lg border border-border bg-muted/50 p-1 gap-1">
+                  <button
+                    onClick={() => {
+                      setSelectedLessons([])
+                      router.replace("/quiz/doctrina-y-convenios-1")
+                    }}
+                    className={cn(
+                      "rounded-md px-4 py-1.5 text-sm font-semibold transition-all",
+                      activeSemester === 1
+                        ? "bg-card text-foreground shadow-sm"
+                        : "text-muted-foreground hover:text-foreground"
+                    )}
+                  >
+                    1° Semestre
+                  </button>
+                  <button
+                    onClick={() => {
+                      setSelectedLessons([])
+                      router.replace("/quiz/doctrina-y-convenios-2")
+                    }}
+                    className={cn(
+                      "rounded-md px-4 py-1.5 text-sm font-semibold transition-all",
+                      activeSemester === 2
+                        ? "bg-card text-foreground shadow-sm"
+                        : "text-muted-foreground hover:text-foreground"
+                    )}
+                  >
+                    2° Semestre
+                  </button>
+                </div>
+              )}
+
               <div className="mt-6 flex flex-wrap gap-6">
                 {!isFlat && (
                   <div className="flex items-center gap-2 text-sm text-muted-foreground">
