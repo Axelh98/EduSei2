@@ -15,7 +15,11 @@ export interface Seccion {
   tipo: "contexto" | "escrituras" | "enseñanza" | "conclusion" | "cuestionario" | "resumen"
   // Campos heredados Seminario
   contenido?: string
-  citas?: { referencia: string; texto: string }[]
+  citas?: { 
+    referencia: string
+    texto: string
+    link?: string  // ← NUEVO: Link directo al versículo en el sitio oficial
+  }[]
   autor?: string
   fuente?: string
   texto?: string
@@ -54,6 +58,7 @@ export interface Lesson {
     | "Bloque de Escrituras - Ven Sigueme"
     | "Preparación para la Vida"
     | "Dominio de la Doctrina"
+    | "Para la Fortaleza de la Juventud"  // ← NUEVO tipo agregado
     | "Especial"
     | "Religión 250"
     | "Religión 225"

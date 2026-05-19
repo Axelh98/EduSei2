@@ -1,7 +1,7 @@
 // app/quiz/[categoryId]/[lessonId]/study/page.tsx
 import { notFound } from "next/navigation"
 import { getCategoryById, isFlatCategory } from "@/lib/quiz-data"
-import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-resumido"
+import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-primer-semestre"
 import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-resumido"
 import { StudyClient } from "./study-client"
 import type { Metadata } from "next"
@@ -30,7 +30,8 @@ function findLessonData(categoryId: string, lessonId: string) {
 
   // 2. Resúmenes de Seminario
   const resumeMap: Record<string, typeof leccionesResumidasAT> = {
-    "antiguo-testamento": leccionesResumidasAT,
+    "antiguo-testamento-1": leccionesResumidasAT,
+    "antiguo-testamento-2": leccionesResumidasAT,
     "libro-de-mormon": leccionesResumidasLM,
   }
   const source = resumeMap[categoryId]

@@ -13,15 +13,12 @@ import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X } from "
 import Link from "next/link"
 import { cn } from "@/lib/utils"
 
-import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-resumido"
+import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-primer-semestre"
 import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-resumido"
 
 interface CategoryPageProps {
   params: Promise<{ categoryId: string }>
 }
-
-// IDs que forman parte del mismo curso de DyC
-const DYC_IDS = ["doctrina-y-convenios-1", "doctrina-y-convenios-2"]
 
 export default function CategoryPage({ params }: CategoryPageProps) {
   const { categoryId } = use(params)
@@ -33,18 +30,23 @@ export default function CategoryPage({ params }: CategoryPageProps) {
 
   useEffect(() => { setMounted(true) }, [])
 
-  const isDyC = DYC_IDS.includes(categoryId)
-  const activeSemester = categoryId === "doctrina-y-convenios-1" ? 1 : 2
+  // Detectar si tiene par de semestres — busca el ID hermano
+  const semester1Id = categoryId.replace(/-2$/, "-1")
+  const semester2Id = categoryId.replace(/-1$/, "-2")
+  const hasSemester2 = !!getCategoryById(semester2Id)
+  const hasSemester1 = !!getCategoryById(semester1Id)
+  const hasSemesters = hasSemester2 || (hasSemester1 && categoryId.endsWith("-2"))
+  const activeSemester = categoryId.endsWith("-2") ? 2 : 1
 
   const weeksWithExtraContent = useMemo(() => {
     if (!category || isFlatCategory(category)) return []
 
-    const resumidas =
-      categoryId === "antiguo-testamento"
-        ? leccionesResumidasAT
-        : categoryId === "libro-de-mormon"
-        ? leccionesResumidasLM
-        : []
+    // ← Corregido: usar startsWith para cubrir -1 y -2
+    const resumidas = categoryId.startsWith("antiguo-testamento")
+      ? leccionesResumidasAT
+      : categoryId === "libro-de-mormon"
+      ? leccionesResumidasLM
+      : []
 
     return category.weeks.map((week) => ({
       ...week,
@@ -157,13 +159,13 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                 {category.description}
               </p>
 
-              {/* Switcher de semestre — solo para DyC */}
-              {isDyC && (
+              {/* Switcher de semestre — aparece automáticamente si existe el par */}
+              {hasSemesters && (
                 <div className="mt-5 inline-flex rounded-lg border border-border bg-muted/50 p-1 gap-1">
                   <button
                     onClick={() => {
                       setSelectedLessons([])
-                      router.replace("/quiz/doctrina-y-convenios-1")
+                      router.replace(`/quiz/${semester1Id}`)
                     }}
                     className={cn(
                       "rounded-md px-4 py-1.5 text-sm font-semibold transition-all",
@@ -177,7 +179,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                   <button
                     onClick={() => {
                       setSelectedLessons([])
-                      router.replace("/quiz/doctrina-y-convenios-2")
+                      router.replace(`/quiz/${semester2Id}`)
                     }}
                     className={cn(
                       "rounded-md px-4 py-1.5 text-sm font-semibold transition-all",

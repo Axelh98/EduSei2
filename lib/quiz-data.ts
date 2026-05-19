@@ -1,6 +1,6 @@
 import type { Category, WeeklyCategory, FlatCategory } from "./types"
 import { isFlatCategory } from "./types"
-import { leccionesResumidasAT } from "./data/antiguo-testamento-resumido"
+import { leccionesResumidasAT } from "./data/antiguo-testamento-primer-semestre"
 import { leccionesResumidasLM } from "./data/libro-de-mormon-resumido"
 import { antiguoTestamentoWeeks } from "./data/antiguo-testamento"
 import { antiguoTestamentoWeeks2semestre } from "./data/antiguo-testamento-segundo-semestre"
@@ -16,25 +16,25 @@ export { isFlatCategory }
 
 const weeklyCategories: WeeklyCategory[] = [
   {
-    id: "antiguo-testamento",
+    id: "antiguo-testamento-1",
     name: "Antiguo Testamento",
     shortName: "AT",
     description: "Desde la Creación hasta los profetas. Estudia las escrituras hebreas semana a semana con lecciones del manual de Seminario.",
     icon: "scroll",
     color: "bg-primary",
-    semester: 1,
     courseType: "seminario",
+    semester: 1,
     weeks: antiguoTestamentoWeeks,
   },
   {
-    id: "antiguo-testamento-2do-semestre",
-    name: "Antiguo Testamento - Segundo Semestre",
-    shortName: "AT-2do-Sem",
-    description: "Estudia las escrituras hebreas del segundo semestre con lecciones del manual de Seminario.",
+    id: "antiguo-testamento-2",
+    name: "Antiguo Testamento",
+    shortName: "AT",
+    description: "Desde la Creación hasta los profetas. Estudia las escrituras hebreas semana a semana con lecciones del manual de Seminario.",
     icon: "scroll",
     color: "bg-primary",
-    semester: 2,
     courseType: "seminario",
+    semester: 2,
     weeks: antiguoTestamentoWeeks2semestre,
   },
   {
@@ -118,16 +118,17 @@ const flatCategories: FlatCategory[] = [
   },
 ]
 
+export const categories: Category[] = [...weeklyCategories, ...flatCategories]
 
+// Debe estar DESPUÉS de categories
 export function getUniqueCourses(): Category[] {
   const seen = new Map<string, Category>()
   for (const category of categories) {
-    const key = category.name // agrupa por nombre
+    const key = category.name
     const existing = seen.get(key)
     if (!existing) {
       seen.set(key, category)
     } else {
-      // Quedarse con el de menor semestre (1° tiene prioridad)
       const existingSem = (existing as any).semester ?? 1
       const currentSem = (category as any).semester ?? 1
       if (currentSem < existingSem) seen.set(key, category)
@@ -135,8 +136,6 @@ export function getUniqueCourses(): Category[] {
   }
   return Array.from(seen.values())
 }
-
-export const categories: Category[] = [...weeklyCategories, ...flatCategories]
 
 export function getCategoryById(id: string): Category | undefined {
   return categories.find((c) => c.id === id)
@@ -185,9 +184,9 @@ export function getFullLesson(categoryId: string, lessonId: string) {
   const baseData = getLessonById(categoryId, lessonId)
   if (!baseData) return null
 
-  // Determinar qué archivo de resúmenes usar según la categoría
   let extendedContent = null
-  if (categoryId === "antiguo-testamento") {
+  // Usar startsWith para cubrir antiguo-testamento-1 y antiguo-testamento-2
+  if (categoryId.startsWith("antiguo-testamento")) {
     extendedContent = leccionesResumidasAT.find((l) => l.id === lessonId)
   } else if (categoryId === "libro-de-mormon") {
     extendedContent = leccionesResumidasLM.find((l) => l.id === lessonId)

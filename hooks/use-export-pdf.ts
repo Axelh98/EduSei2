@@ -1,263 +1,236 @@
 // hooks/use-export-pdf.ts
 "use client"
 
-import { useState, useRef } from "react"
+import { useState } from "react"
+import type { Seccion, BloqueResumen } from "@/lib/types"
 
 export interface ExportOptions {
   categoryName: string
   lessonTitle: string
+  secciones: Seccion[]
   notes?: string
   studentName?: string
 }
 
-/**
- * Inyecta una hoja de estilos en el documento clonado por html2canvas.
- * Es el único enfoque confiable: no depende de getComputedStyle
- * (que lee el documento original, no el clon) ni de selectores de
- * clase que Tailwind puede hashear en producción.
- */
-function forceReadableColors(clonedDoc: Document) {
-  const html = clonedDoc.documentElement
-
-  // 1. Quitar dark mode
-  html.classList.remove("dark")
-  html.style.colorScheme = "light"
-
-  // 2. Inyectar stylesheet con overrides agresivos
-  const style = clonedDoc.createElement("style")
-  style.textContent = `
-    html, body {
-      background: #ffffff !important;
-      color: #111827 !important;
-    }
-    * {
-      color: #111827 !important;
-    }
-    *, *::before, *::after {
-      border-color: #d1d5db !important;
-    }
-    div, section, article, aside, header, footer, main, nav, span {
-      background-color: transparent !important;
-    }
-    blockquote, blockquote * {
-      color: #1f2937 !important;
-    }
-    em, i {
-      color: #1f2937 !important;
-    }
-    svg {
-      color: inherit !important;
-    }
-    svg * {
-      fill: currentColor !important;
-    }
-  `
-  clonedDoc.head.appendChild(style)
-
-  // 3. Recorrer todos los nodos y corregir colores inline problemáticos
-  clonedDoc.querySelectorAll<HTMLElement>("*").forEach((el) => {
-    // Color de texto inline demasiado claro → forzar oscuro
-    const c = el.style.color
-    if (c) {
-      const m = c.match(/\d+/g)
-      if (m && m.length >= 3) {
-        const [r, g, b] = m.map(Number)
-        if (r > 160 && g > 160 && b > 160) {
-          el.style.setProperty("color", "#111827", "important")
-        }
-      }
-    }
-
-    // Fondo inline oscuro (dark mode) → blanquear
-    const bg = el.style.backgroundColor
-    if (bg) {
-      const m = bg.match(/\d+/g)
-      if (m && m.length >= 3) {
-        const [r, g, b] = m.map(Number)
-        if (r < 60 && g < 60 && b < 60) {
-          el.style.setProperty("background-color", "#ffffff", "important")
-        }
-      }
-    }
-  })
+// ─── Colores ──────────────────────────────────────────────────────────────────
+const C = {
+  primary:    [29,  78,  216] as [number,number,number],
+  dark:       [17,  24,   39] as [number,number,number],
+  body:       [55,  65,   81] as [number,number,number],  // gray-700
+  muted:      [107, 114, 128] as [number,number,number],  // gray-500
+  light:      [156, 163, 175] as [number,number,number],  // gray-400
+  white:      [255, 255, 255] as [number,number,number],
+  pageBg:     [249, 250, 251] as [number,number,number],  // gray-50
+  cardBg:     [243, 244, 246] as [number,number,number],  // gray-100
+  citaBg:     [239, 246, 255] as [number,number,number],  // blue-50
+  escrituraBg:[240, 249, 255] as [number,number,number],  // sky-50
+  border:     [209, 213, 219] as [number,number,number],  // gray-300
+  primaryLight:[219, 234, 254] as [number,number,number], // blue-100
+  amber:      [180, 120,  20] as [number,number,number],
 }
 
 export function useExportPDF() {
   const [isExporting, setIsExporting] = useState(false)
-  const contentRef = useRef<HTMLDivElement>(null)
 
   const exportToPDF = async (options: ExportOptions) => {
-    if (!contentRef.current) return
     setIsExporting(true)
-
     try {
-      const [{ default: jsPDF }, { default: html2canvas }] = await Promise.all([
-        import("jspdf"),
-        import("html2canvas"),
-      ])
+      const { default: jsPDF } = await import("jspdf")
+      const { categoryName, lessonTitle, secciones, notes, studentName } = options
 
-      const { categoryName, lessonTitle, notes, studentName } = options
-      const pdf = new jsPDF({ orientation: "portrait", unit: "mm", format: "a4" })
+      const pdf  = new jsPDF({ orientation: "portrait", unit: "mm", format: "a4" })
+      const W    = pdf.internal.pageSize.getWidth()   // 210
+      const H    = pdf.internal.pageSize.getHeight()  // 297
+      const M    = 14   // margen izquierdo/derecho
+      const CW   = W - M * 2  // ancho de contenido: 182mm
+      const BOT  = H - 12     // límite inferior antes del footer
 
-      const W  = pdf.internal.pageSize.getWidth()
-      const H  = pdf.internal.pageSize.getHeight()
-      const M  = 15
-      const CW = W - M * 2
+      // ── helpers de posición ───────────────────────────────────────
+      let y = 0
 
-      // ─── Paleta nativa del PDF ────────────────────────────────────
-      const PRIMARY:  [number, number, number] = [29,  78, 216]
-      const DARK:     [number, number, number] = [17,  24,  39]
-      const MUTED:    [number, number, number] = [75,  85,  99]
-      const LIGHT_BG: [number, number, number] = [249, 250, 251]
-      const BORDER:   [number, number, number] = [209, 213, 219]
+      /** Agrega página nueva y resetea y al margen superior */
+      const newPage = () => {
+        pdf.addPage()
+        y = 16
+        drawFooter()
+      }
 
-      // ─── Header ───────────────────────────────────────────────────
-      pdf.setFillColor(...PRIMARY)
-      pdf.rect(0, 0, W, 28, "F")
-      pdf.setTextColor(255, 255, 255)
+      /** Garantiza que haya al menos `need` mm libres; si no, nueva página */
+      const ensure = (need: number) => {
+        if (y + need > BOT) newPage()
+      }
+
+      /** Texto con word-wrap automático. Devuelve nueva y. */
+      const text = (
+        str: string,
+        x: number,
+        color: [number,number,number],
+        size: number,
+        style: "normal"|"bold"|"italic" = "normal",
+        maxW = CW,
+        align: "left"|"right"|"center" = "left",
+      ): number => {
+        pdf.setTextColor(...color)
+        pdf.setFontSize(size)
+        pdf.setFont("helvetica", style)
+        const lines = pdf.splitTextToSize(str, maxW)
+        const lh    = size * 0.4   // line-height en mm aprox
+        lines.forEach((line: string, i: number) => {
+          ensure(lh + 2)
+          const tx = align === "right" ? x : align === "center" ? x : x
+          pdf.text(line, tx, y, { align })
+          y += lh + (i < lines.length - 1 ? 1 : 0)
+        })
+        return y
+      }
+
+      // ── footer (se dibuja en cada página al crearla) ──────────────
+      const drawFooter = () => {
+        const pg    = pdf.getNumberOfPages()
+        const total = "??"   // se sobreescribe al final
+        pdf.setFillColor(...C.pageBg)
+        pdf.rect(0, H - 10, W, 10, "F")
+        pdf.setTextColor(...C.muted)
+        pdf.setFontSize(7)
+        pdf.setFont("helvetica", "normal")
+        pdf.text("Mi Seminario e Instituto", M, H - 4)
+        pdf.text(`Página ${pg}`, W - M, H - 4, { align: "right" })
+      }
+
+      // ────────────────────────────────────────────────────────────────
+      // PÁGINA 1 — Header azul
+      // ────────────────────────────────────────────────────────────────
+      pdf.setFillColor(...C.primary)
+      pdf.rect(0, 0, W, 30, "F")
+
+      pdf.setTextColor(...C.white)
       pdf.setFont("helvetica", "bold")
-      pdf.setFontSize(10)
-      pdf.text("Mi Seminario e Instituto", M, 10)
+      pdf.setFontSize(11)
+      pdf.text("Mi Seminario e Instituto", M, 11)
+
       pdf.setFont("helvetica", "normal")
       pdf.setFontSize(9)
-      pdf.text(categoryName, M, 17)
+      pdf.text(categoryName, M, 19)
+
       const dateStr = new Date().toLocaleDateString("es-AR", {
         weekday: "long", day: "numeric", month: "long", year: "numeric",
       })
       pdf.setFontSize(8)
       pdf.setTextColor(186, 230, 253)
-      pdf.text(dateStr, W - M, 10, { align: "right" })
-      if (studentName) pdf.text(`Estudiante: ${studentName}`, W - M, 17, { align: "right" })
+      pdf.text(dateStr, W - M, 11, { align: "right" })
+      if (studentName) {
+        pdf.text(`Estudiante: ${studentName}`, W - M, 19, { align: "right" })
+      }
 
-      let y = 36
+      y = 40
 
-      // ─── Título ───────────────────────────────────────────────────
-      pdf.setTextColor(...DARK)
-      pdf.setFontSize(18)
+      // Título lección
+      pdf.setTextColor(...C.dark)
       pdf.setFont("helvetica", "bold")
+      pdf.setFontSize(20)
       const titleLines = pdf.splitTextToSize(lessonTitle, CW)
-      pdf.text(titleLines, M, y)
-      y += titleLines.length * 8 + 4
-      pdf.setDrawColor(...BORDER)
+      titleLines.forEach((line: string) => {
+        pdf.text(line, M, y)
+        y += 9
+      })
+      y += 2
+
+      // Divisor
+      pdf.setDrawColor(...C.border)
       pdf.setLineWidth(0.3)
       pdf.line(M, y, W - M, y)
-      y += 8
+      y += 10
 
-      // ─── Capturar HTML ────────────────────────────────────────────
-      const el      = contentRef.current
-      const htmlEl  = document.documentElement
-      const wasDark = htmlEl.classList.contains("dark")
+      drawFooter()
 
-      // Quitar dark del documento real durante la captura
-      if (wasDark) htmlEl.classList.remove("dark")
+      // ────────────────────────────────────────────────────────────────
+      // SECCIONES
+      // ────────────────────────────────────────────────────────────────
+      for (const seccion of secciones) {
 
-      // Guardar y forzar fondo blanco en el elemento
-      const prevStyle = el.getAttribute("style") ?? ""
-      el.style.cssText = (prevStyle ? prevStyle + ";" : "") +
-        "background:#ffffff!important;color:#111827!important;"
-
-      const canvas = await html2canvas(el, {
-        scale: 2,
-        useCORS: true,
-        logging: false,
-        backgroundColor: "#ffffff",
-        windowWidth: 800,
-        onclone: (clonedDoc) => {
-          forceReadableColors(clonedDoc)
-        },
-      })
-
-      // Restaurar
-      if (wasDark) htmlEl.classList.add("dark")
-      if (prevStyle) el.setAttribute("style", prevStyle)
-      else el.removeAttribute("style")
-
-      // ─── Insertar imagen en el PDF ────────────────────────────────
-      const imgData   = canvas.toDataURL("image/png")
-      const imgW      = CW
-      const imgH      = (canvas.height * imgW) / canvas.width
-      const available = H - y - M
-
-      if (imgH <= available) {
-        pdf.addImage(imgData, "PNG", M, y, imgW, imgH)
-        y += imgH + 10
-      } else {
-        // Dividir en páginas con guards contra slices vacíos
-        let srcY = 0, first = true, remaining = imgH
-
-        while (remaining > 0) {
-          const sliceH    = first ? available : H - M * 2
-          const srcSliceH = (sliceH / imgW) * canvas.width
-
-          const srcHeightLeft = canvas.height - srcY
-          if (srcHeightLeft <= 0) break
-
-          const sc   = document.createElement("canvas")
-          sc.width   = canvas.width
-          sc.height  = Math.floor(Math.min(srcSliceH, srcHeightLeft))
-          if (sc.height <= 0) break
-
-          sc.getContext("2d")!.drawImage(
-            canvas, 0, srcY, canvas.width, sc.height,
-            0, 0, canvas.width, sc.height
-          )
-
-          const actualH = (sc.height * imgW) / canvas.width
-          if (actualH > 0.1) {
-            pdf.addImage(sc.toDataURL("image/png"), "PNG", M, first ? y : M, imgW, actualH)
+        // ── tipo "resumen" con bloques ────────────────────────────────
+        if (seccion.tipo === "resumen" && seccion.bloques) {
+          for (const bloque of seccion.bloques) {
+            renderBloque(pdf, bloque, M, CW, W, H, BOT, C, y, newPage, ensure,
+              (newY) => { y = newY })
           }
+          continue
+        }
 
-          srcY      += sc.height
-          remaining -= actualH
+        // ── tipos heredados del Seminario ────────────────────────────
 
-          if (remaining > 0.5) { pdf.addPage(); first = false }
-          else { y = (first ? y : M) + actualH + 10; break }
+        if (seccion.tipo === "contexto" && seccion.contenido) {
+          ensure(12)
+          y = renderParrafo(pdf, seccion.contenido, M, C, CW, y)
+          y += 6
+        }
+
+        if (seccion.tipo === "conclusion" && seccion.contenido) {
+          ensure(14)
+          // Línea vertical izquierda
+          pdf.setDrawColor(...C.primary)
+          pdf.setLineWidth(1)
+          // Se dibuja después de saber el alto del texto — estimamos
+          const antes = y
+          pdf.setLineWidth(0.4)
+          y = renderParrafo(pdf, seccion.contenido, M + 6, C, CW - 6, y, "italic")
+          pdf.setDrawColor(...C.primaryLight)
+          pdf.setLineWidth(1.5)
+          pdf.line(M + 1, antes - 1, M + 1, y + 1)
+          y += 6
+        }
+
+        if (seccion.tipo === "enseñanza") {
+          ensure(20)
+          drawCitaBox(pdf, {
+            texto: seccion.texto ?? "",
+            autor: seccion.autor,
+            fuente: seccion.fuente,
+          }, M, CW, W, C, y, (newY) => { y = newY }, ensure)
+        }
+
+        if (seccion.tipo === "escrituras" && seccion.citas?.length) {
+          ensure(10)
+          // Label
+          pdf.setTextColor(...C.muted)
+          pdf.setFontSize(7.5)
+          pdf.setFont("helvetica", "bold")
+          pdf.text("ESCRITURAS CLAVE", M, y)
+          y += 6
+          for (const cita of seccion.citas) {
+            drawEscrituraBox(pdf, cita, M, CW, C, y, (newY) => { y = newY }, ensure)
+          }
+        }
+
+        if (seccion.tipo === "cuestionario" && seccion.preguntas?.length) {
+          ensure(14)
+          drawReflexionBox(pdf, seccion.preguntas, M, CW, W, C, y,
+            (newY) => { y = newY }, ensure)
         }
       }
 
-      // ─── Notas ────────────────────────────────────────────────────
+      // ────────────────────────────────────────────────────────────────
+      // NOTAS
+      // ────────────────────────────────────────────────────────────────
       if (notes?.trim()) {
-        if (y + 60 > H - M) { pdf.addPage(); y = M }
-        pdf.setFontSize(10)
-        const noteLines = pdf.splitTextToSize(notes, CW - 12)
-        const boxH      = noteLines.length * 5 + 20
-        pdf.setFillColor(...LIGHT_BG)
-        pdf.setDrawColor(...BORDER)
-        pdf.setLineWidth(0.3)
-        pdf.roundedRect(M, y, CW, boxH, 3, 3, "FD")
-        pdf.setFillColor(...PRIMARY)
-        pdf.roundedRect(M + 4, y + 4, 28, 7, 2, 2, "F")
-        pdf.setTextColor(255, 255, 255)
-        pdf.setFont("helvetica", "bold")
-        pdf.setFontSize(7)
-        pdf.text("MIS NOTAS", M + 6, y + 9)
-        pdf.setTextColor(...MUTED)
-        pdf.setFont("helvetica", "normal")
-        pdf.setFontSize(7.5)
-        pdf.text(
-          `Guardada el ${new Date().toLocaleDateString("es-AR")}`,
-          W - M - 4, y + 9, { align: "right" }
-        )
-        pdf.setTextColor(...DARK)
-        pdf.setFontSize(10)
-        pdf.text(noteLines, M + 6, y + 18)
-        y += boxH + 8
+        ensure(20)
+        drawNotasBox(pdf, notes, M, CW, W, C, y, (newY) => { y = newY }, ensure)
       }
 
-      // ─── Footer ───────────────────────────────────────────────────
-      const total = pdf.getNumberOfPages()
-      for (let i = 1; i <= total; i++) {
-        pdf.setPage(i)
-        pdf.setFillColor(...LIGHT_BG)
+      // ── Footer en todas las páginas con total correcto ────────────
+      const totalPages = pdf.getNumberOfPages()
+      for (let p = 1; p <= totalPages; p++) {
+        pdf.setPage(p)
+        pdf.setFillColor(...C.pageBg)
         pdf.rect(0, H - 10, W, 10, "F")
-        pdf.setTextColor(...MUTED)
-        pdf.setFont("helvetica", "normal")
+        pdf.setTextColor(...C.muted)
         pdf.setFontSize(7)
+        pdf.setFont("helvetica", "normal")
         pdf.text("Mi Seminario e Instituto", M, H - 4)
-        pdf.text(`Página ${i} de ${total}`, W - M, H - 4, { align: "right" })
+        pdf.text(`Página ${p} de ${totalPages}`, W - M, H - 4, { align: "right" })
       }
 
-      // ─── Guardar ──────────────────────────────────────────────────
+      // ── Guardar ───────────────────────────────────────────────────
       const fileName = lessonTitle
         .slice(0, 50)
         .replace(/[^\w\sáéíóúñ]/gi, "")
@@ -273,5 +246,354 @@ export function useExportPDF() {
     }
   }
 
-  return { contentRef, isExporting, exportToPDF }
+  return { isExporting, exportToPDF }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Renderizadores por tipo de bloque
+// ─────────────────────────────────────────────────────────────────────────────
+
+function renderBloque(
+  pdf: any,
+  bloque: BloqueResumen,
+  M: number,
+  CW: number,
+  W: number,
+  H: number,
+  BOT: number,
+  C: typeof import("./use-export-pdf")extends never ? any : any,
+  y: number,
+  newPage: () => void,
+  ensure: (n: number) => void,
+  setY: (y: number) => void,
+) {
+  switch (bloque.tipo) {
+
+    case "parrafo": {
+      ensure(10)
+      y = renderParrafo(pdf, bloque.texto, M, C, CW, y)
+      y += 6
+      setY(y)
+      break
+    }
+
+    case "escritura": {
+      drawEscrituraBox(pdf, { referencia: bloque.referencia, texto: bloque.texto, comentario: bloque.comentario },
+        M, CW, C, y, setY, ensure)
+      break
+    }
+
+    case "cita": {
+      drawCitaBox(pdf, { texto: bloque.texto, autor: bloque.autor, fuente: bloque.fuente },
+        M, CW, W, C, y, setY, ensure)
+      break
+    }
+
+    case "doctrinal": {
+      ensure(14)
+      // Label
+      pdf.setTextColor(...C.primary)
+      pdf.setFontSize(7.5)
+      pdf.setFont("helvetica", "bold")
+      pdf.text("VERDADES DOCTRINALES", M, y)
+      y += 5
+      for (const punto of bloque.puntos) {
+        ensure(8)
+        // Bullet
+        pdf.setFillColor(...C.primary)
+        pdf.circle(M + 1.5, y - 1.2, 1, "F")
+        pdf.setTextColor(...C.body)
+        pdf.setFontSize(9.5)
+        pdf.setFont("helvetica", "normal")
+        const lines = pdf.splitTextToSize(punto, CW - 7)
+        lines.forEach((line: string, i: number) => {
+          ensure(5)
+          pdf.text(line, M + 5, y)
+          y += 4.5
+        })
+        y += 1
+      }
+      y += 4
+      setY(y)
+      break
+    }
+
+    case "reflexion": {
+      drawReflexionBox(pdf, bloque.preguntas, M, CW, W, C, y, setY, ensure)
+      break
+    }
+  }
+}
+
+// ── Párrafo simple ────────────────────────────────────────────────────────────
+function renderParrafo(
+  pdf: any,
+  texto: string,
+  x: number,
+  C: any,
+  maxW: number,
+  y: number,
+  style: "normal"|"italic" = "normal",
+): number {
+  pdf.setTextColor(...C.body)
+  pdf.setFontSize(10)
+  pdf.setFont("helvetica", style)
+  const lines = pdf.splitTextToSize(texto, maxW)
+  lines.forEach((line: string) => {
+    pdf.text(line, x, y)
+    y += 5
+  })
+  return y
+}
+
+// ── Caja de escritura ─────────────────────────────────────────────────────────
+function drawEscrituraBox(
+  pdf: any,
+  cita: { referencia: string; texto: string; comentario?: string },
+  M: number, CW: number, C: any,
+  y: number,
+  setY: (y: number) => void,
+  ensure: (n: number) => void,
+) {
+  ensure(18)
+
+  // Calcular alto de la caja
+  pdf.setFontSize(9.5)
+  const textLines    = pdf.splitTextToSize(`"${cita.texto}"`, CW - 10)
+  const comentLines  = cita.comentario ? pdf.splitTextToSize(cita.comentario, CW - 10) : []
+  const boxH = 7 + textLines.length * 4.8 + (comentLines.length > 0 ? 2 + comentLines.length * 4.2 : 0) + 5
+
+  if (y + boxH > 285) {
+    pdf.addPage()
+    y = 16
+  }
+
+  // Fondo y borde
+  pdf.setFillColor(...C.escrituraBg)
+  pdf.setDrawColor(...C.primaryLight)
+  pdf.setLineWidth(0.3)
+  pdf.roundedRect(M, y, CW, boxH, 3, 3, "FD")
+
+  // Acento izquierdo
+  pdf.setFillColor(...C.primary)
+  pdf.roundedRect(M, y, 2.5, boxH, 1, 1, "F")
+
+  // Referencia
+  pdf.setTextColor(...C.primary)
+  pdf.setFontSize(7.5)
+  pdf.setFont("helvetica", "bold")
+  pdf.text(cita.referencia.toUpperCase(), M + 6, y + 5.5)
+
+  // Texto
+  pdf.setTextColor(...C.dark)
+  pdf.setFontSize(9.5)
+  pdf.setFont("helvetica", "italic")
+  let ty = y + 11
+  textLines.forEach((line: string) => {
+    pdf.text(line, M + 6, ty)
+    ty += 4.8
+  })
+
+  // Comentario
+  if (cita.comentario && comentLines.length > 0) {
+    ty += 1
+    pdf.setDrawColor(...C.border)
+    pdf.setLineWidth(0.2)
+    pdf.line(M + 6, ty, M + CW - 4, ty)
+    ty += 3.5
+    pdf.setTextColor(...C.muted)
+    pdf.setFontSize(8.5)
+    pdf.setFont("helvetica", "normal")
+    comentLines.forEach((line: string) => {
+      pdf.text(line, M + 6, ty)
+      ty += 4.2
+    })
+  }
+
+  y += boxH + 4
+  setY(y)
+}
+
+// ── Caja de cita profética ────────────────────────────────────────────────────
+function drawCitaBox(
+  pdf: any,
+  cita: { texto: string; autor?: string; fuente?: string },
+  M: number, CW: number, W: number, C: any,
+  y: number,
+  setY: (y: number) => void,
+  ensure: (n: number) => void,
+) {
+  ensure(20)
+
+  pdf.setFontSize(10.5)
+  const textLines = pdf.splitTextToSize(`"${cita.texto}"`, CW - 12)
+  const boxH = 9 + textLines.length * 5.5 + (cita.autor ? 10 : 4)
+
+  if (y + boxH > 285) {
+    pdf.addPage()
+    y = 16
+  }
+
+  // Fondo azul claro
+  pdf.setFillColor(...C.citaBg)
+  pdf.setDrawColor(...C.primaryLight)
+  pdf.setLineWidth(0.4)
+  pdf.roundedRect(M, y, CW, boxH, 4, 4, "FD")
+
+  // Comilla decorativa grande
+  pdf.setTextColor(...C.primaryLight)
+  pdf.setFontSize(42)
+  pdf.setFont("helvetica", "bold")
+  pdf.text("\u201C", M + 3, y + 11)
+
+  // Texto de la cita
+  pdf.setTextColor(...C.dark)
+  pdf.setFontSize(10.5)
+  pdf.setFont("helvetica", "italic")
+  let ty = y + 9
+  textLines.forEach((line: string) => {
+    pdf.text(line, M + 10, ty)
+    ty += 5.5
+  })
+
+  // Autor y fuente
+  if (cita.autor) {
+    ty += 2
+    pdf.setDrawColor(...C.primaryLight)
+    pdf.setLineWidth(0.3)
+    pdf.line(M + 10, ty, W - M - 4, ty)
+    ty += 4
+    pdf.setTextColor(...C.primary)
+    pdf.setFontSize(8.5)
+    pdf.setFont("helvetica", "bold")
+    pdf.text(cita.autor, W - M - 4, ty, { align: "right" })
+    if (cita.fuente) {
+      ty += 4
+      pdf.setTextColor(...C.muted)
+      pdf.setFontSize(7.5)
+      pdf.setFont("helvetica", "normal")
+      pdf.text(cita.fuente.toUpperCase(), W - M - 4, ty, { align: "right" })
+    }
+  }
+
+  y += boxH + 5
+  setY(y)
+}
+
+// ── Caja de reflexión ─────────────────────────────────────────────────────────
+function drawReflexionBox(
+  pdf: any,
+  preguntas: string[],
+  M: number, CW: number, W: number, C: any,
+  y: number,
+  setY: (y: number) => void,
+  ensure: (n: number) => void,
+) {
+  ensure(16)
+
+  // Calcular alto total
+  pdf.setFontSize(9.5)
+  let totalLines = 0
+  for (const p of preguntas) {
+    totalLines += pdf.splitTextToSize(p, CW - 14).length
+  }
+  const boxH = 10 + totalLines * 4.8 + preguntas.length * 3 + 4
+
+  if (y + boxH > 285) {
+    pdf.addPage()
+    y = 16
+  }
+
+  // Fondo gris muy claro con borde punteado simulado
+  pdf.setFillColor(...C.pageBg)
+  pdf.setDrawColor(...C.border)
+  pdf.setLineWidth(0.3)
+  pdf.roundedRect(M, y, CW, boxH, 4, 4, "FD")
+
+  // Label
+  pdf.setTextColor(...C.primary)
+  pdf.setFontSize(7.5)
+  pdf.setFont("helvetica", "bold")
+  pdf.text("PARA REFLEXIONAR", M + 5, y + 6)
+
+  let ty = y + 12
+  preguntas.forEach((pregunta, i) => {
+    // Número en círculo simulado
+    pdf.setFillColor(...C.primaryLight)
+    pdf.circle(M + 7, ty - 1.2, 3.5, "F")
+    pdf.setTextColor(...C.primary)
+    pdf.setFontSize(7)
+    pdf.setFont("helvetica", "bold")
+    pdf.text(String(i + 1), M + 7, ty, { align: "center" })
+
+    // Texto
+    pdf.setTextColor(...C.body)
+    pdf.setFontSize(9.5)
+    pdf.setFont("helvetica", "normal")
+    const lines = pdf.splitTextToSize(pregunta, CW - 14)
+    lines.forEach((line: string) => {
+      pdf.text(line, M + 13, ty)
+      ty += 4.8
+    })
+    ty += 3
+  })
+
+  y += boxH + 5
+  setY(y)
+}
+
+// ── Caja de notas ─────────────────────────────────────────────────────────────
+function drawNotasBox(
+  pdf: any,
+  notes: string,
+  M: number, CW: number, W: number, C: any,
+  y: number,
+  setY: (y: number) => void,
+  ensure: (n: number) => void,
+) {
+  ensure(20)
+
+  pdf.setFontSize(9.5)
+  const noteLines = pdf.splitTextToSize(notes, CW - 12)
+  const boxH = 12 + noteLines.length * 4.8 + 6
+
+  if (y + boxH > 285) {
+    pdf.addPage()
+    y = 16
+  }
+
+  pdf.setFillColor(...C.pageBg)
+  pdf.setDrawColor(...C.border)
+  pdf.setLineWidth(0.3)
+  pdf.roundedRect(M, y, CW, boxH, 3, 3, "FD")
+
+  // Badge "MIS NOTAS"
+  pdf.setFillColor(...C.primary)
+  pdf.roundedRect(M + 4, y + 3.5, 24, 6, 2, 2, "F")
+  pdf.setTextColor(...C.white)
+  pdf.setFontSize(6.5)
+  pdf.setFont("helvetica", "bold")
+  pdf.text("MIS NOTAS", M + 6, y + 7.5)
+
+  // Fecha
+  pdf.setTextColor(...C.muted)
+  pdf.setFontSize(7)
+  pdf.setFont("helvetica", "normal")
+  pdf.text(
+    `Guardada el ${new Date().toLocaleDateString("es-AR")}`,
+    W - M - 4, y + 7.5, { align: "right" }
+  )
+
+  // Contenido
+  pdf.setTextColor(...C.dark)
+  pdf.setFontSize(9.5)
+  pdf.setFont("helvetica", "normal")
+  let ty = y + 15
+  noteLines.forEach((line: string) => {
+    pdf.text(line, M + 6, ty)
+    ty += 4.8
+  })
+
+  y += boxH + 6
+  setY(y)
 }

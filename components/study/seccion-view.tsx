@@ -1,5 +1,5 @@
 // components/study/seccion-view.tsx
-import { BookMarked, Quote, GraduationCap } from "lucide-react"
+import { BookMarked, Quote, GraduationCap, ExternalLink } from "lucide-react"
 import type { Seccion } from "@/lib/types"
 import { BloqueView } from "./bloque-view"
 
@@ -53,9 +53,22 @@ export function SeccionView({ seccion }: { seccion: Seccion }) {
         <div className="grid gap-3">
           {seccion.citas?.map((cita, i) => (
             <div key={i} className="rounded-2xl border border-primary/15 bg-primary/[0.025] p-5">
-              <span className="mb-2 block text-xs font-bold uppercase tracking-widest text-primary">
-                {cita.referencia}
-              </span>
+              {/* ✅ CAMBIO: Convertir referencia en link si existe cita.link */}
+              {cita.link ? (
+                <a
+                  href={cita.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="group mb-2 inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-widest text-primary transition-colors hover:text-primary/80"
+                >
+                  {cita.referencia}
+                  <ExternalLink className="h-3 w-3 opacity-60 transition-opacity group-hover:opacity-100" />
+                </a>
+              ) : (
+                <span className="mb-2 block text-xs font-bold uppercase tracking-widest text-primary">
+                  {cita.referencia}
+                </span>
+              )}
               <p className="font-serif text-sm italic leading-relaxed text-foreground/90">
                 "{cita.texto}"
               </p>

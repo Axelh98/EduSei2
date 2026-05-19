@@ -27,7 +27,7 @@ export function StudyClient({
   secciones,
   recoveryData,
 }: StudyClientProps) {
-  const { contentRef, isExporting, exportToPDF } = useExportPDF()
+  const { isExporting, exportToPDF } = useExportPDF()
 
   const backUrl = recoveryData
     ? `/recuperar?data=${encodeURIComponent(recoveryData)}`
@@ -38,6 +38,7 @@ export function StudyClient({
     exportToPDF({
       categoryName,
       lessonTitle,
+      secciones,
       notes: notes?.content,
       studentName: getSavedStudentName() || undefined,
     })
@@ -53,20 +54,17 @@ export function StudyClient({
       />
 
       <main className="mx-auto max-w-2xl px-5 pt-10">
-        {/* Título */}
         <h1 className="font-serif text-3xl font-bold leading-tight text-foreground md:text-4xl">
           {lessonTitle}
         </h1>
 
-        {/* Divisor decorativo */}
         <div className="mb-10 mt-6 flex items-center gap-3">
           <div className="h-px flex-1 bg-border" />
           <div className="h-1.5 w-1.5 rounded-full bg-primary/40" />
           <div className="h-1 w-1 rounded-full bg-primary/20" />
         </div>
 
-        {/* Contenido capturado en el PDF */}
-        <div ref={contentRef} data-pdf-content className="space-y-10">
+        <div className="space-y-10">
           {secciones.map((seccion, idx) => (
             <section
               key={idx}
@@ -78,7 +76,6 @@ export function StudyClient({
           ))}
         </div>
 
-        {/* Notas — fuera del ref, se pasan como texto al PDF */}
         <div className="mt-12">
           <LessonNotes categoryId={categoryId} lessonId={lessonId} />
         </div>
