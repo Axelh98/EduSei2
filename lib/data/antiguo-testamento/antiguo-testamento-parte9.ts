@@ -3,244 +3,385 @@ import type { Seccion } from "@/lib/types"
 
 // Parte 9: Lecciones 51-60 (10 lecciones)
 export const leccionesResumidasAT_Parte9: Lesson[] = [
+
+  // ── SEMANA 14 ──────────────────────────────────────────────────────────────
   {
-    "id": "leccion-62",
-    "title": "Lección 62: Rut",
-    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/21-ruth-1-samuel-1-3-8-15-17/211-ruth?lang=spa",
-    "secciones": [
+    id: "leccion-68",
+    title: "Lección 68: Rut (Redención)",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-ruth-1-samuel-1-7/221-ruth-1-4?lang=spa",
+    secciones: [
       {
-        "tipo": "contexto",
-        "contenido": "Rut era una moabita, una extranjera que según la ley israelita no tenía ningún derecho a estar en el pueblo de Dios. Pero cuando su suegra Noemí decidió volver a Israel, Rut tomó una decisión radical: 'Tu pueblo será mi pueblo, y tu Dios mi Dios.' Dejó todo lo conocido por seguir al Dios de Israel. Esa elección valiente no solo cambió su vida; hizo que ella se convirtiera en bisabuela del rey David y, siglos después, en ancestro de Jesucristo. Su historia nos enseña que el linaje espiritual importa más que el biológico, que Dios puede usar a cualquiera que esté dispuesto, y que la lealtad y la bondad son cualidades que Él valora profundamente. Para los jóvenes que sienten que no 'encajan', la historia de Rut es un recordatorio poderoso: Dios te ve, te valora, y puede escribir tu nombre en Su historia sagrada."
+        tipo: "contexto",
+        contenido: "Rut era una moabita, una extranjera que no tenía ningún derecho legal dentro del pueblo de Israel. Cuando su suegra Noemí decidió volver a su tierra, Rut pudo haberse quedado en Moab con su familia y empezar de nuevo. En cambio, pronunció una de las declaraciones de lealtad más hermosas de toda la Biblia: 'Tu pueblo será mi pueblo, y tu Dios mi Dios.' Esa decisión lo cambió todo. Booz, un pariente cercano de Noemí, actuó como goel, es decir, redentor, al comprar las tierras de Noemí y tomar a Rut como esposa, rescatándola de la pobreza y el abandono. En el plan de salvación, nosotros somos como Rut: incapaces de redimir nuestra propia situación. Cristo es nuestro Booz, el Redentor que está dispuesto y es capaz de pagar el precio por nosotros, no porque lo merezcamos, sino porque nos ama."
       },
-      { "tipo": "escrituras", "citas": [
-        { "referencia": "Rut 1:16", "texto": "Tu pueblo será mi pueblo, y tu Dios mi Dios.", "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ruth/1?lang=spa&id=p16#p16" },
-        { "referencia": "Gálatas 3:28-29", "texto": "Ya no hay judío ni griego... todos sois uno en Cristo.", "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/gal/3?lang=spa&id=p28-p29#p28" }
-      ]},
-      { "tipo": "enseñanza", "autor": "Élder Quentin L. Cook", "texto": "El recogimiento de Israel no se basa en etnicidad ni raza, sino en convenios." },
-      { "tipo": "cuestionario", "preguntas": [
-        "¿Qué significa para ti que el Evangelio sea para todos?",
-        "¿Cómo demuestras lealtad a Dios y a otros?",
-        "¿De qué manera la historia de Rut te inspira?"
-      ]}
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "Rut 1:16", texto: "Tu pueblo será mi pueblo, y tu Dios mi Dios.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/ruth/1?lang=spa&id=p16#p16" },
+          { referencia: "Rut 2:12", texto: "Jehová recompense tu obra, y tu remuneración sea plena de parte de Jehová Dios de Israel, bajo cuyas alas has venido a refugiarte.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/ruth/2?lang=spa&id=p12#p12" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Élder Jeffrey R. Holland", texto: "El Salvador está dispuesto y es capaz de redimir cada situación difícil de nuestra vida." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿De qué manera necesitas hoy que el Salvador actúe como tu Redentor?",
+          "¿Qué cualidades de Rut quieres desarrollar en tu propia fe?",
+          "¿Cómo te da esperanza saber que Cristo puede redimirte de tus aflicciones?"
+        ]
+      }
     ],
-    "type": "Antiguo Testamento - Ven Sigueme",
-    "description": "",
-    "questions": []
+    type: "Antiguo Testamento - Ven Sigueme",
+    description: "El Salvador está dispuesto a redimirte.",
+    questions: []
   },
+
   {
-    "id": "leccion-63",
-    "title": "Lección 63: 1 Samuel 1-3",
-    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/21-ruth-1-samuel-1-3-8-15-17/212-1-samuel-1-3?lang=spa",
-    "secciones": [
+    id: "leccion-69",
+    title: "Lección 69: 1 Samuel 1 (Jehová me dio lo que le pedí)",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-1-samuel-1-15/221-1-samuel-1?lang=spa",
+    secciones: [
       {
-        "tipo": "contexto",
-        "contenido": "Ana era estéril en una cultura donde no tener hijos era considerado vergonzoso. Durante años oró con desesperación, hasta que un día hizo un convenio con Dios: si le daba un hijo, ella se lo dedicaría al servicio del Señor. Dios le concedió a Samuel, y Ana cumplió su promesa. Apenas el niño fue destetado, lo llevó al templo y lo dejó allí para que creciera sirviendo al sacerdote Elí. Esa entrega requirió una fe extraordinaria. Años después, Dios llamó al joven Samuel en medio de la noche para hacerlo profeta. La lección aquí es múltiple: las oraciones persistentes son escuchadas, los convenios son sagrados, y Dios llama a personas inesperadas, incluso a niños, para hacer Su obra. Para los jóvenes que se sienten demasiado jóvenes o insignificantes, Samuel es la prueba de que Dios puede usarte ahora, no solo cuando seas adulto."
+        tipo: "contexto",
+        contenido: "Ana llevaba años cargando uno de los dolores más profundos que puede sentir una mujer: no poder tener hijos. En su cultura, eso era motivo de vergüenza social. Para empeorar las cosas, Penina, la otra esposa de su marido, se burlaba de ella constantemente. Pero Ana no se amargó ni se alejó de Dios; hizo lo contrario: fue al tabernáculo y derramó su alma en oración, llorando y suplicando con tal intensidad que el sacerdote Elí pensó que estaba ebria. Hizo un voto solemne: si Dios le daba un hijo, ella se lo dedicaría al Señor. Dios la escuchó, le dio a Samuel, y Ana cumplió su promesa. Esta historia nos enseña que llevar nuestras cargas más pesadas al Señor con fe genuina no es debilidad, sino el camino más valiente hacia la paz y la respuesta divina."
       },
-      { "tipo": "escrituras", "citas": [
-        { "referencia": "1 Samuel 3:9-10", "texto": "Habla, porque tu siervo escucha.", "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p9-p10#p9" },
-        { "referencia": "Santiago 5:16", "texto": "La oración eficaz del justo puede mucho.", "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/james/5?lang=spa&id=p16#p16" }
-      ]},
-      { "tipo": "enseñanza", "autor": "Presidente Russell M. Nelson", "texto": "Cuando oramos al Padre Celestial, Él responde." },
-      { "tipo": "cuestionario", "preguntas": [
-        "¿Cuándo has sentido que el Señor te ha hablado?",
-        "¿Cómo puedes mejorar tu disposición para escuchar Su voz?",
-        "¿Qué convenio puedes hacer con Dios hoy?"
-      ]}
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "1 Samuel 1:27", texto: "Por este niño oraba, y Jehová me dio lo que le pedí.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/1?lang=spa&id=p27#p27" },
+          { referencia: "Filipenses 4:6-7", texto: "No os afanéis por nada; sino sean conocidas vuestras peticiones delante de Dios... y la paz de Dios guardará vuestros corazones.", link: "https://www.churchofjesuschrist.org/study/scriptures/nt/philip/4?lang=spa&id=p6-p7#p6" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Presidente Russell M. Nelson", texto: "Cuando oramos con fe real, el Padre Celestial escucha y responde según Su perfecta sabiduría y amor." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Qué carga personal puedes llevar al Señor con más fe esta semana?",
+          "¿Cómo el ejemplo de Ana cambia tu forma de orar?",
+          "¿Qué significa para ti que Dios responde 'según Su voluntad'?"
+        ]
+      }
     ],
-    "type": "Antiguo Testamento - Ven Sigueme",
-    "description": "",
-    "questions": []
+    type: "Antiguo Testamento - Ven Sigueme",
+    description: "Sigue el ejemplo de Ana al acudir al Señor con fervor y fe durante las pruebas personales.",
+    questions: []
   },
+
   {
-    "id": "leccion-64",
-    "title": "Lección 64: 1 Samuel 8; 15; 2 Samuel 22",
-    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/21-ruth-1-samuel-1-3-8-15-17/213-1-samuel-8-15-2-samuel-22?lang=spa",
-    "secciones": [
+    id: "leccion-70",
+    title: "Lección 70: 1 Samuel 3 (Habla, Jehová; que tu siervo escucha)",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-1-samuel-1-15/222-1-samuel-3?lang=spa",
+    secciones: [
       {
-        "tipo": "contexto",
-        "contenido": "Israel tenía jueces que los gobernaban bajo la autoridad de Dios, pero el pueblo quería un rey 'como las demás naciones'. Esa petición dolió a Samuel porque significaba un rechazo a Dios como su verdadero Rey. Dios les concedió lo que pedían y ungió a Saúl, quien empezó bien pero terminó mal. Cuando Dios le dio una instrucción clara, Saúl decidió modificarla porque le pareció mejor su propio juicio. La respuesta del profeta Samuel es inolvidable: '¿Se complace Jehová tanto en los holocaustos como en que se obedezca a su voz? Ciertamente el obedecer es mejor que los sacrificios.' Esta lección confronta una tentación moderna: creer que podemos mejorar los mandamientos de Dios con nuestro propio razonamiento. La obediencia no es ceguera; es confiar en que Dios ve lo que nosotros no vemos."
+        tipo: "contexto",
+        contenido: "Samuel tenía apenas unos doce años cuando Dios lo llamó por su nombre en medio de la noche. No lo reconoció de inmediato, porque era joven y aún no había tenido experiencias directas con la revelación divina. Tuvo que ir tres veces a despertar al anciano sacerdote Elí antes de que éste reconociera lo que estaba pasando y le enseñara cómo responder: 'Habla, Señor, porque tu siervo escucha.' Esa disposición sencilla y humilde fue el momento que transformó a Samuel en uno de los profetas más grandes del Antiguo Testamento. Esta historia nos desafía directamente: ¿estás lo suficientemente quieto, lo suficientemente atento, como para reconocer cuando el Señor te habla? La revelación personal no siempre llega como un trueno; a menudo llega como una voz suave que requiere que estés preparado para escuchar."
       },
-      { "tipo": "escrituras", "citas": [
-        { "referencia": "1 Samuel 15:22", "texto": "El obedecer es mejor que los sacrificios.", "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/15?lang=spa&id=p22#p22" },
-        { "referencia": "Juan 14:15", "texto": "Si me amáis, guardad mis mandamientos.", "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa&id=p15#p15" }
-      ]},
-      { "tipo": "enseñanza", "autor": "Élder D. Todd Christofferson", "texto": "Nuestra obediencia a los mandamientos de Dios y las enseñanzas de Sus siervos no debe ser selectiva." },
-      { "tipo": "cuestionario", "preguntas": [
-        "¿En qué áreas de tu vida te cuesta obedecer completamente?",
-        "¿Por qué crees que a veces modificamos los mandamientos de Dios?",
-        "¿Cómo puedes demostrar amor a Dios mediante tu obediencia?"
-      ]}
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "1 Samuel 3:10", texto: "Habla, porque tu siervo escucha.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p10#p10" },
+          { referencia: "1 Reyes 19:12", texto: "Tras el fuego un silbo apacible y delicado.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/19?lang=spa&id=p12#p12" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Élder David A. Bednar", texto: "La mayoría de las revelaciones vienen como el amanecer: gradualmente, suavemente, si estamos preparados para recibirlas." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Qué haces para prepararte para recibir revelación personal?",
+          "¿Cuándo has sentido que el Señor te hablaba y cómo respondiste?",
+          "¿Qué necesitas cambiar para estar más disponible para escuchar Su voz?"
+        ]
+      }
     ],
-    "type": "Antiguo Testamento - Ven Sigueme",
-    "description": "",
-    "questions": []
+    type: "Antiguo Testamento - Ven Sigueme",
+    description: "Aprende a reconocer la voz del Señor y a responder con prontitud a Sus llamados.",
+    questions: []
   },
+
   {
-    "id": "leccion-65",
-    "title": "Lección 65: 1 Samuel 16-17",
-    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/21-ruth-1-samuel-1-3-8-15-17/214-1-samuel-16-17?lang=spa",
-    "secciones": [
+    id: "leccion-177",
+    title: "Lección 177: Desarrollar autosuficiencia a la manera del Señor",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/64-building-self-reliance/641-building-self-reliance-in-the-lords-way?lang=spa",
+    secciones: [
       {
-        "tipo": "contexto",
-        "contenido": "Samuel fue enviado a la casa de Isaí para ungir al próximo rey de Israel. Los hermanos mayores de David eran impresionantes: altos, fuertes, con aspecto de líderes. Pero Dios rechazó a cada uno. Cuando finalmente trajeron a David, el menor, el pastor, el que nadie consideraba importante, Dios dijo: 'Este es.' La lección es clara y poderosa: 'El hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón.' Dios no se impresiona con los mismos atributos que impresionan a la gente. No busca perfección externa sino corazones dispuestos. Para los jóvenes que sienten que no son lo suficientemente inteligentes, talentosos o populares, la historia de David es una promesa: lo que importa no es cómo te ve la gente, sino el corazón que estás cultivando."
+        tipo: "contexto",
+        contenido: "Existe una diferencia importante entre ser autosuficiente y ser autónomo. La autosuficiencia que el Señor promueve no significa que no necesitamos a nadie, sino que nos preparamos para no ser una carga innecesaria y para tener capacidad de bendecir a otros. En las Escrituras, personajes como José de Egipto y Noemí muestran que la preparación inteligente, combinada con la confianza en Dios, produce resultados extraordinarios. El Señor se deleita en nuestro esfuerzo diligente, pero también quiere que lo hagamos partícipe de nuestros planes. Esta lección nos invita a pensar a largo plazo: ¿qué habilidades, recursos y preparación espiritual estoy desarrollando hoy para poder servir y bendecir a mi familia y comunidad mañana?"
       },
-      { "tipo": "escrituras", "citas": [
-        { "referencia": "1 Samuel 16:7", "texto": "El hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón.", "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/16?lang=spa&id=p7#p7" },
-        { "referencia": "1 Samuel 17:45", "texto": "Tú vienes a mí con espada... mas yo vengo a ti en el nombre de Jehová.", "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/17?lang=spa&id=p45#p45" }
-      ]},
-      { "tipo": "enseñanza", "autor": "Élder Dieter F. Uchtdorf", "texto": "Dios está mucho menos preocupado con el aspecto de nuestro currículum que con la condición de nuestro corazón." },
-      { "tipo": "cuestionario", "preguntas": [
-        "¿Cómo estás cultivando tu corazón, más allá de tu apariencia externa?",
-        "¿Qué 'Goliat' (problema gigante) enfrentas con la fuerza del Señor?",
-        "¿Cómo puedes ver a otros como Dios los ve, más allá de lo superficial?"
-      ]}
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "DyC 78:13-14", texto: "Seréis independientes sobre todas las cosas... para llevar a cabo mis propósitos.", link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p13-p14#p13" },
+          { referencia: "1 Timoteo 5:8", texto: "Si alguno no provee para los suyos... ha negado la fe.", link: "https://www.churchofjesuschrist.org/study/scriptures/nt/1-tim/5?lang=spa&id=p8#p8" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Élder Robert D. Hales", texto: "La autosuficiencia nos libera para servir a otros y no ser una carga; es una forma de amor." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Qué habilidades estás desarrollando que te ayudarán a ser autosuficiente?",
+          "¿Cómo puedes hacer partícipe al Señor en tu preparación para el futuro?",
+          "¿De qué manera tu autosuficiencia te permite bendecir a quienes te rodean?"
+        ]
+      }
     ],
-    "type": "Antiguo Testamento - Ven Sigueme",
-    "description": "",
-    "questions": []
+    type: "Preparación para la Vida",
+    description: "Prepárate para proveer y bendecir a los demás.",
+    questions: []
   },
+
+  // ── SEMANA 15 ──────────────────────────────────────────────────────────────
   {
-    "id": "leccion-66",
-    "title": "Lección 66: Práctica 5 del Dominio de la doctrina",
-    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/21-ruth-1-samuel-1-3-8-15-17/215-doctrinal-mastery-practice-5?lang=spa",
-    "secciones": [
+    id: "leccion-72",
+    title: "Lección 72: 1 Samuel 15",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/23-1-samuel-8-16/232-1-samuel-15?lang=spa",
+    secciones: [
       {
-        "tipo": "contexto",
-        "contenido": "El conocimiento sin aplicación es información muerta. Puedes memorizar cien pasajes de las escrituras, pero si nunca los usas para tomar decisiones, consolar a alguien o fortalecer tu fe, ese conocimiento no te transformará. Esta lección de práctica te invita a conectar lo que has aprendido con tu vida real: cuando enfrentes una tentación, ¿qué escritura te ayudará? Cuando alguien cuestione tu fe, ¿qué doctrina articularás? Cuando te sientas solo o desanimado, ¿qué promesa del Señor recordarás? El dominio de la doctrina no es un fin en sí mismo; es una herramienta para vivir el Evangelio con mayor convicción y claridad. Esta práctica te ayuda a convertir conocimiento en poder."
+        tipo: "contexto",
+        contenido: "El rey Saúl recibió una instrucción clara y específica de parte del Señor: destruir completamente al pueblo amalecita, sin guardar nada. Saúl obedeció... casi. Guardó al rey Agag con vida y se quedó con lo mejor del ganado, argumentando que era para ofrecerlo en sacrificio al Señor. Cuando Samuel llegó y vio lo que había pasado, pronunció una de las frases más memorables del Antiguo Testamento: '¿Se complace Jehová tanto en los holocaustos como en que se obedezca a su voz? Ciertamente el obedecer es mejor que los sacrificios.' La obediencia parcial de Saúl no era realmente obediencia; era negociación. Nosotros hacemos lo mismo cuando obedecemos los mandamientos que nos resultan cómodos y encontramos razones para ignorar los demás. Esta historia nos confronta: ¿estamos obedeciendo completamente o a medias?"
       },
-      { "tipo": "escrituras", "citas": [
-        { "referencia": "Santiago 1:22", "texto": "Sed hacedores de la palabra, y no solamente oidores.", "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa&id=p22#p22" },
-        { "referencia": "2 Timoteo 3:16-17", "texto": "La Escritura es útil para enseñar, redargüir, corregir e instruir.", "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=spa&id=p16-p17#p16" }
-      ]},
-      { "tipo": "enseñanza", "autor": "Élder David A. Bednar", "texto": "Actuar de acuerdo con lo que aprendemos aumenta nuestro entendimiento." },
-      { "tipo": "cuestionario", "preguntas": [
-        "¿Qué doctrina has aplicado recientemente en tu vida diaria?",
-        "¿Cómo ha cambiado una escritura tu forma de actuar?",
-        "¿Qué área de tu vida necesita más la guía de las Escrituras?"
-      ]}
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "1 Samuel 15:22", texto: "El obedecer es mejor que los sacrificios, y el prestar atención que la grosura de los carneros.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/15?lang=spa&id=p22#p22" },
+          { referencia: "Juan 14:15", texto: "Si me amáis, guardad mis mandamientos.", link: "https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa&id=p15#p15" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Presidente Russell M. Nelson", texto: "El Señor nos da mandamientos por Su amor infinito. Guardarlos conduce al gozo más profundo." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿En qué áreas de tu vida estás obedeciendo 'a medias' como Saúl?",
+          "¿Por qué crees que la obediencia completa es más valiosa que los 'sacrificios'?",
+          "¿Qué mandamiento específico necesitas obedecer con mayor plenitud?"
+        ]
+      }
     ],
-    "type": "Dominio de la Doctrina",
-    "description": "",
-    "questions": []
+    type: "Antiguo Testamento - Ven Sigueme",
+    description: "La obediencia total conduce al gozo.",
+    questions: []
   },
+
   {
-    "id": "leccion-67",
-    "title": "Lección 67: 1 Samuel 18-20; 24",
-    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-1-samuel-18-31-2-samuel-2-7-11-12/221-1-samuel-18-20-24?lang=spa",
-    "secciones": [
+    id: "leccion-179",
+    title: "Lección 179: Administración prudente de recursos económicos",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/64-building-self-reliance/643-managing-financial-resources-wisely?lang=spa",
+    secciones: [
       {
-        "tipo": "contexto",
-        "contenido": "Después de que David mató a Goliat, su fama creció rápidamente. El pueblo cantaba: 'Saúl mató a sus miles, pero David a sus diez miles.' Eso encendió una llama de celos en el corazón de Saúl que lo consumió completamente. Durante años persiguió a David con intención de matarlo, a pesar de que David nunca le había hecho daño. Hubo dos ocasiones en que David pudo haber matado a Saúl mientras dormía o estaba vulnerable, pero no lo hizo. En lugar de eso, respetó la posición de Saúl como el ungido del Señor. Esta lección nos muestra el peligro destructivo de la envidia y, al mismo tiempo, el poder liberador del perdón y la integridad. David eligió confiar en que Dios manejaría la justicia, y esa decisión lo preparó para ser rey."
+        tipo: "contexto",
+        contenido: "El dinero es uno de los temas que más afecta la vida diaria de las personas, pero rara vez hablamos de él desde una perspectiva espiritual. Las Escrituras están llenas de principios financieros sabios: José ahorró durante los años de abundancia para sobrevivir los años de hambruna; el Señor enseñó el principio del diezmo como acto de fe y prioridad. La administración prudente del dinero no es solo una habilidad práctica; es una expresión de nuestra confianza en Dios y de nuestro mayordomato sobre los recursos que Él nos confía. Cuando hacemos partícipe al Señor en nuestras decisiones financieras, cuando pagamos el diezmo primero y gastamos con gratitud y moderación, encontramos una paz que el dinero en sí mismo nunca puede comprar."
       },
-      { "tipo": "escrituras", "citas": [
-        { "referencia": "1 Samuel 24:6", "texto": "Jehová me guarde de hacer tal cosa contra mi señor, el ungido de Jehová.", "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/24?lang=spa&id=p6#p6" },
-        { "referencia": "Proverbios 14:30", "texto": "La envidia es carcoma de los huesos.", "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/14?lang=spa&id=p30#p30" }
-      ]},
-      { "tipo": "enseñanza", "autor": "Presidente Dieter F. Uchtdorf", "texto": "La envidia es un cáncer que envenena el alma." },
-      { "tipo": "cuestionario", "preguntas": [
-        "¿Has sentido envidia de alguien? ¿Cómo la superaste?",
-        "¿Qué te enseña la respuesta de David sobre la integridad?",
-        "¿Cómo puedes celebrar el éxito de otros sin compararte?"
-      ]}
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "Malaquías 3:10", texto: "Traed todos los diezmos al alfolí... y probadme ahora en esto.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=spa&id=p10#p10" },
+          { referencia: "Mateo 6:33", texto: "Buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.", link: "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/6?lang=spa&id=p33#p33" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Élder Ronald A. Rasband", texto: "El Señor se ocupa de los pequeños detalles de nuestra vida, incluyendo nuestras decisiones financieras." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Cómo decides actualmente en qué gastar tu dinero?",
+          "¿De qué manera el pago del diezmo es un acto de fe más que de matemáticas?",
+          "¿Qué hábito financiero quieres desarrollar basándote en principios del Evangelio?"
+        ]
+      }
     ],
-    "type": "Antiguo Testamento - Ven Sigueme",
-    "description": "",
-    "questions": []
+    type: "Preparación para la Vida",
+    description: "El Señor se ocupa de los detalles de tu vida.",
+    questions: []
   },
+
+  // ── SEMANA 16 ──────────────────────────────────────────────────────────────
   {
-    "id": "leccion-68",
-    "title": "Lección 68: 2 Samuel 5-7; Salmos 23",
-    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-1-samuel-18-31-2-samuel-2-7-11-12/222-2-samuel-5-7-psalm-23?lang=spa",
-    "secciones": [
+    id: "leccion-180",
+    title: "Lección 180: Proveer para nosotros mismos y cuidar de los necesitados",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/64-building-self-reliance/644-providing-for-ourselves?lang=spa",
+    secciones: [
       {
-        "tipo": "contexto",
-        "contenido": "David pasó años huyendo, escondiéndose en cuevas, siendo perseguido injustamente. Finalmente fue coronado rey de Israel. En su momento de mayor éxito, escribió el Salmo 23, una de las piezas literarias más hermosas de todos los tiempos. Lo notable es que usa la imagen de sí mismo no como un rey poderoso, sino como una oveja dependiente de su pastor. 'Jehová es mi pastor, nada me faltará.' Después de todo lo que había logrado, David seguía viendo a Dios como su proveedor, su guía, su protector. Esta lección nos enseña que el verdadero éxito no nos aleja de Dios sino que nos acerca a Él, y que la grandeza genuina se mide por nuestra humildad, no por nuestros títulos."
+        tipo: "contexto",
+        contenido: "José de Egipto es uno de los mejores ejemplos de autosuficiencia en toda la Biblia. No solo se preparó a sí mismo para sobrevivir la hambruna; administró los recursos de una nación entera para que millones de personas no murieran de hambre. Su historia nos muestra que la preparación temporal tiene un propósito espiritual más grande: estar en posición de bendecir a otros cuando más lo necesitan. El Señor no nos pide que acumulemos riqueza para nuestra comodidad, sino que desarrollemos capacidad para dar cuando llegue la necesidad. Esta lección nos invita a pensar: ¿estás construyendo tu vida de una manera que te permita ayudar a otros, no solo a ti mismo?"
       },
-      { "tipo": "escrituras", "citas": [
-        { "referencia": "Salmos 23:1", "texto": "Jehová es mi pastor; nada me faltará.", "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/23?lang=spa&id=p1#p1" },
-        { "referencia": "Juan 10:11", "texto": "Yo soy el buen pastor; el buen pastor da su vida por las ovejas.", "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/10?lang=spa&id=p11#p11" }
-      ]},
-      { "tipo": "enseñanza", "autor": "Élder Jeffrey R. Holland", "texto": "Cristo es el Buen Pastor que conoce y ama a Sus ovejas." },
-      { "tipo": "cuestionario", "preguntas": [
-        "¿Cómo has sentido que el Señor es tu Pastor?",
-        "¿Qué significa para ti que 'nada te faltará'?",
-        "¿Cómo puedes mantener humildad en tus éxitos?"
-      ]}
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "Génesis 41:48-49", texto: "José recogió trigo como arena del mar, en abundancia, hasta no poder contarlo.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/41?lang=spa&id=p48-p49#p48" },
+          { referencia: "Mosíah 4:26", texto: "Para retener la remisión de vuestros pecados... impartid de vuestros bienes a los pobres.", link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p26#p26" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Presidente Thomas S. Monson", texto: "Cuando ayudamos a otros a llevar sus cargas, cumplimos la ley de Cristo." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Qué estás haciendo hoy para prepararte para ayudar a otros mañana?",
+          "¿Cómo cambia tu perspectiva ver la autosuficiencia como un acto de servicio?",
+          "¿A quién puedes ayudar ahora, aunque no seas completamente autosuficiente todavía?"
+        ]
+      }
     ],
-    "type": "Antiguo Testamento - Ven Sigueme",
-    "description": "",
-    "questions": []
+    type: "Preparación para la Vida",
+    description: "La autosuficiencia nos permite ayudar como Cristo.",
+    questions: []
   },
+
   {
-    "id": "leccion-69",
-    "title": "Lección 69: 2 Samuel 11-12; Salmos 51",
-    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-1-samuel-18-31-2-samuel-2-7-11-12/223-2-samuel-11-12-psalm-51?lang=spa",
-    "secciones": [
+    id: "leccion-202",
+    title: "Lección 202: Convenio de obedecer las leyes de obediencia y de sacrificio",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/692-laws-of-obedience?lang=spa",
+    secciones: [
       {
-        "tipo": "contexto",
-        "contenido": "David, el hombre conforme al corazón de Dios, cometió adulterio con Betsabé y luego ordenó la muerte de su esposo Urías para encubrir el embarazo. Fue un abuso terrible de poder. Pero lo más instructivo de esta historia no es el pecado de David, sino su respuesta cuando el profeta Natán lo confrontó. David no se defendió, no culpó a otros, no minimizó lo que había hecho. Simplemente dijo: 'He pecado contra Jehová.' El Salmo 51 es su oración de arrepentimiento, un grito del alma pidiendo un corazón limpio. Esta lección nos enseña que ningún pecado, por grave que sea, está más allá del alcance de la Expiación si nos arrepentimos genuinamente. David pagó consecuencias dolorosas por sus acciones, pero Dios no lo abandonó."
+        tipo: "contexto",
+        contenido: "En el templo hacemos convenios sagrados que nos conectan directamente con el cielo. Dos de los más fundamentales son la ley de obediencia y la ley de sacrificio. La ley de obediencia es una promesa de seguir a Jesucristo y guardar Sus mandamientos con todo nuestro corazón. La ley de sacrificio es una promesa de consagrar nuestro tiempo, talentos y recursos al Señor y a Su obra. Estos no son convenios fáciles, pero son convenios liberadores: cuando los hacemos con sinceridad, dejamos de vivir para nosotros mismos y comenzamos a vivir con un propósito eterno. Abraham es el modelo perfecto de ambas leyes, alguien que obedeció incluso cuando no entendía todo, y que sacrificó lo que más amaba cuando el Señor se lo pidió."
       },
-      { "tipo": "escrituras", "citas": [
-        { "referencia": "Salmos 51:10", "texto": "Crea en mí, oh Dios, un corazón limpio.", "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=spa&id=p10#p10" },
-        { "referencia": "DyC 58:42-43", "texto": "El que se ha arrepentido, es perdonado, y yo, el Señor, no lo recuerdo más.", "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p42-p43#p42" }
-      ]},
-      { "tipo": "enseñanza", "autor": "Élder Dale G. Renlund", "texto": "El arrepentimiento es el remedio divino para el pecado." },
-      { "tipo": "cuestionario", "preguntas": [
-        "¿Qué te enseña la respuesta de David sobre el verdadero arrepentimiento?",
-        "¿Cómo puedes desarrollar un 'corazón limpio'?",
-        "¿Qué pasos darás hoy hacia un arrepentimiento más profundo?"
-      ]}
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "Génesis 22:18", texto: "En tu simiente serán benditas todas las naciones de la tierra, por cuanto obedeciste mi voz.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=spa&id=p18#p18" },
+          { referencia: "DyC 97:8", texto: "Bienaventurados todos los que son puros de corazón... que entran en esta casa.", link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa&id=p8#p8" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Presidente Russell M. Nelson", texto: "Los convenios del templo nos definen, nos protegen y nos conectan con el poder del cielo." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Qué significa para ti hacer un convenio de obediencia con el Señor?",
+          "¿Qué estás dispuesto a sacrificar para seguir más de cerca a Jesucristo?",
+          "¿Cómo te preparas para hacer convenios con fe y con plena comprensión?"
+        ]
+      }
     ],
-    "type": "Antiguo Testamento - Ven Sigueme",
-    "description": "",
-    "questions": []
+    type: "Especial",
+    description: "Los convenios del templo te acercan a Cristo.",
+    questions: []
   },
+
   {
-    "id": "leccion-70",
-    "title": "Lección 70: Evalúa tu aprendizaje 4",
-    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-1-samuel-18-31-2-samuel-2-7-11-12/224-assess-your-learning-4?lang=spa",
-    "secciones": [
+    id: "leccion-74",
+    title: "Lección 74: 1 Samuel 17",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/24-1-samuel-17-26-2-samuel-5-7/241-1-samuel-17?lang=spa",
+    secciones: [
       {
-        "tipo": "contexto",
-        "contenido": "Hemos caminado a través de Josué, Jueces, Rut y la vida de David: historias de valentía, fracaso, redención y fe. Pero todas esas historias tienen un propósito más profundo que simplemente conocer eventos del pasado. Están escritas para enseñarnos sobre Jesucristo y para mostrarnos cómo aplicar Su evangelio hoy. Esta evaluación te invita a hacer una pausa y reflexionar honestamente: ¿qué ha cambiado en ti? ¿Qué doctrina ahora entiendes mejor? ¿Qué ejemplo te ha inspirado a mejorar? El crecimiento espiritual no siempre es dramático; a menudo es silencioso y acumulativo. Pero si miras hacia atrás con honestidad, es probable que notes semillas que han germinado, luz que ha aumentado, y fe que se ha fortalecido."
+        tipo: "contexto",
+        contenido: "Goliat medía casi tres metros de altura, llevaba armadura de bronce, y había estado aterrorizando al ejército israelita durante cuarenta días. Ningún soldado adulto se atrevió a enfrentarlo. Entonces llegó David, un adolescente que venía a llevar comida a sus hermanos. Lo que diferenciaba a David de todos los demás no era su tamaño ni su entrenamiento militar; era su perspectiva. Donde todos veían un gigante imposible de vencer, David veía a un hombre que se atrevía a desafiar al Dios viviente. Sus 'piedras' no eran solo piedras; eran cada experiencia pasada en que el Señor lo había librado de un oso y un león. Cada uno de nosotros tiene gigantes: miedos, adicciones, situaciones difíciles. Esta historia nos pregunta directamente: ¿qué 'piedras' de fe has recogido de tus experiencias pasadas con Dios que puedes usar hoy?"
       },
-      { "tipo": "escrituras", "citas": [
-        { "referencia": "2 Nefi 25:26", "texto": "Hablamos de Cristo, nos regocijamos en Cristo... para que nuestros hijos sepan en qué fuente buscar la remisión de sus pecados.", "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=spa&id=p26#p26" },
-        { "referencia": "Romanos 15:4", "texto": "Las cosas que se escribieron antes, para nuestra enseñanza se escribieron.", "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/rom/15?lang=spa&id=p4#p4" }
-      ]},
-      { "tipo": "enseñanza", "autor": "Élder Neal A. Maxwell", "texto": "Somos lo que leemos repetidamente." },
-      { "tipo": "cuestionario", "preguntas": [
-        "¿Qué historia del Antiguo Testamento te ha impactado más estas semanas?",
-        "¿Cómo ha aumentado tu fe en Jesucristo?",
-        "¿Qué meta te pondrás para la siguiente etapa de estudio?"
-      ]}
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "1 Samuel 17:45", texto: "Tú vienes a mí con espada y lanza... mas yo vengo a ti en el nombre de Jehová de los ejércitos.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/17?lang=spa&id=p45#p45" },
+          { referencia: "Filipenses 4:13", texto: "Todo lo puedo en Cristo que me fortalece.", link: "https://www.churchofjesuschrist.org/study/scriptures/nt/philip/4?lang=spa&id=p13#p13" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Presidente Russell M. Nelson", texto: "El Señor no nos pide que enfrentemos solos nuestros gigantes; nos pide que confiemos en Él para vencerlos juntos." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Qué 'gigante' estás enfrentando ahora mismo en tu vida?",
+          "¿Qué experiencias pasadas con el Señor son tus 'piedras' de fe?",
+          "¿Cómo puedes enfrentar tus desafíos desde la perspectiva de David en lugar de la perspectiva del ejército?"
+        ]
+      }
     ],
-    "type": "Dominio de la Doctrina",
-    "description": "",
-    "questions": []
+    type: "Antiguo Testamento - Ven Sigueme",
+    description: "El Señor te ayudará a vencer tus gigantes.",
+    questions: []
   },
+
   {
-    "id": "leccion-71",
-    "title": "Lección 71: 1 Reyes 3; 5-11",
-    "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/23-1-kings-3-5-11-17-19/231-1-kings-3-5-11?lang=spa",
-    "secciones": [
+    id: "leccion-75",
+    title: "Lección 75: 1 Samuel 25",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/24-1-samuel-17-26-2-samuel-5-7/242-1-samuel-25?lang=spa",
+    secciones: [
       {
-        "tipo": "contexto",
-        "contenido": "Cuando Salomón se convirtió en rey siendo joven, el Señor se le apareció y le dijo: 'Pide lo que quieras que yo te dé.' Salomón pudo haber pedido riqueza, poder o larga vida, pero pidió sabiduría para gobernar bien. Esa elección agradó tanto a Dios que además le dio todo lo demás. Durante su reinado, Salomón construyó el templo, escribió proverbios, y se convirtió en el rey más sabio y rico de su época. Pero hay un giro trágico: al final de su vida, sus muchas esposas lo alejaron de Dios hacia la idolatría. La lección es clara y advertente: la sabiduría es un don maravilloso, pero no reemplaza la obediencia continua. Puedes empezar bien y terminar mal si no mantienes tu corazón centrado en el Señor hasta el final."
+        tipo: "contexto",
+        contenido: "David había protegido los rebaños de Nabal durante meses, y cuando pidió un poco de comida para sus hombres, Nabal lo insultó y lo rechazó. David, furioso, marchó con cuatrocientos hombres armados con intención de matarlo. Entonces Abigail, la esposa de Nabal, se interpuso. Sin que su marido lo supiera, preparó provisiones, salió al encuentro de David y con sabiduría y humildad lo persuadió de no vengarse. Su intercesión salvó a su familia y evitó que David cometiera un acto del que luego se habría arrepentido. Abigail es un símbolo poderoso de Jesucristo, quien también intercede por nosotros cuando estamos a punto de cometer errores graves, quien nos da la capacidad de perdonar cuando humanamente no podríamos, y quien protege nuestra alma del daño que nos haríamos al actuar desde la ira."
       },
-      { "tipo": "escrituras", "citas": [
-        { "referencia": "1 Reyes 3:9", "texto": "Da a tu siervo un corazón que sepa discernir.", "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=spa&id=p9#p9" },
-        { "referencia": "Santiago 1:5", "texto": "Si alguno de vosotros tiene falta de sabiduría, pídala a Dios.", "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa&id=p5#p5" }
-      ]},
-      { "tipo": "enseñanza", "autor": "Presidente Thomas S. Monson", "texto": "Es esencial que seamos fieles hasta el fin." },
-      { "tipo": "cuestionario", "preguntas": [
-        "¿Qué pedirías si el Señor te dijera 'pide lo que quieras'?",
-        "¿Cómo puedes buscar sabiduría divina en tus decisiones?",
-        "¿Qué harás para terminar bien, no solo empezar bien?"
-      ]}
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "1 Samuel 25:33", texto: "Bendito sea tu consejo, y bendita tú, que me has estorbado hoy de ir a derramar sangre.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/25?lang=spa&id=p33#p33" },
+          { referencia: "DyC 64:10", texto: "Yo, el Señor, perdonaré a quien quiera perdonar... pero a vosotros os es requerido perdonar a todos los hombres.", link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p10#p10" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Élder Kevin W. Pearson", texto: "El Salvador intercede por nosotros y nos da el poder de perdonar cuando por nosotros solos no podríamos." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Hay alguien a quien necesitas perdonar pero sientes que no puedes?",
+          "¿Cómo puede el Salvador ayudarte a perdonar como lo haría Abigail?",
+          "¿Qué decisiones apresuradas ha evitado el Señor en tu vida?"
+        ]
+      }
     ],
-    "type": "Antiguo Testamento - Ven Sigueme",
-    "description": "",
-    "questions": []
+    type: "Antiguo Testamento - Ven Sigueme",
+    description: "El Salvador intercede por nosotros.",
+    questions: []
+  },
+
+  // ── SEMANA 17 ──────────────────────────────────────────────────────────────
+  {
+    id: "leccion-77",
+    title: "Lección 77: 2 Samuel 11–12",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/251-2-samuel-11-12?lang=spa",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "David era el rey más poderoso de Israel, el hombre llamado 'conforme al corazón de Dios'. Y sin embargo, cometió adulterio con Betsabé y luego orquestó la muerte de Urías, su esposo, para intentar encubrir el embarazo. Fue una caída devastadora. Pero lo más impactante de esta historia no es el pecado de David, sino lo que pasó después: el profeta Natán se presentó ante él con una parábola sobre un hombre rico que robó la única ovejita de un hombre pobre. Cuando David reaccionó con indignación ante esa injusticia, Natán lo miró y dijo: 'Tú eres ese hombre.' David no se defendió. No culpó a otros. Simplemente respondió: 'He pecado contra Jehová.' Esa honestidad brutal fue el primer paso de un arrepentimiento genuino que Dios aceptó, aunque David vivió con las consecuencias de sus actos."
+      },
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "2 Samuel 12:13", texto: "Y David dijo a Natán: Pequé contra Jehová.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-sam/12?lang=spa&id=p13#p13" },
+          { referencia: "Salmos 51:10", texto: "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=spa&id=p10#p10" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Élder Dale G. Renlund", texto: "Dios no abandona a quienes se arrepienten con sinceridad. Ningún pecado está más allá del alcance de la Expiación." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Qué te enseña la respuesta de David sobre lo que significa arrepentirse de verdad?",
+          "¿Cómo te da esperanza la historia de David cuando cometes errores?",
+          "¿Hay algo de lo que necesitas arrepentirte con más honestidad?"
+        ]
+      }
+    ],
+    type: "Antiguo Testamento - Ven Sigueme",
+    description: "No podemos ocultar nuestros pecados del Señor.",
+    questions: []
+  },
+
+  {
+    id: "leccion-79",
+    title: "Lección 79: 1 Reyes 6–9",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/253-1-kings-6-9?lang=spa",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "Construir el templo de Salomón tardó siete años y requirió el trabajo de decenas de miles de personas. Cada detalle fue diseñado con precisión extraordinaria: los materiales más nobles, los artesanos más hábiles, las proporciones más exactas. Cuando terminó, Salomón dedicó el templo con una oración que reconocía abiertamente que ningún edificio, por magnífico que fuera, podría contener a Dios. La nube de gloria que llenó el templo fue la señal de que el Señor lo aceptaba como Su casa. Hoy, los templos modernos tienen el mismo propósito sagrado: son lugares donde el cielo y la tierra se tocan, donde recibimos ordenanzas eternas y hacemos convenios que trascienden la muerte. Para un joven que quizás nunca ha entrado a un templo, esta historia es una invitación a prepararse para esa experiencia transformadora."
+      },
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "1 Reyes 8:10-11", texto: "La nube llenó la casa de Jehová... porque la gloria de Jehová había llenado la casa de Jehová.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/8?lang=spa&id=p10-p11#p10" },
+          { referencia: "DyC 109:22", texto: "Y que todos los que entren en el umbral del Señor puedan sentir Tu poder.", link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=spa&id=p22#p22" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Élder Neil L. Andersen", texto: "El templo es la Casa del Señor. Deja que esa verdad quede grabada en tu alma." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Qué significa para ti que el templo sea la Casa del Señor?",
+          "¿Cómo te estás preparando para entrar al templo o para volver con mayor dignidad?",
+          "¿Qué sientes cuando visitas o piensas en el templo?"
+        ]
+      }
+    ],
+    type: "Antiguo Testamento - Ven Sigueme",
+    description: "El templo es la Casa del Señor.",
+    questions: []
+  },
+
+  {
+    id: "leccion-203",
+    title: "Lección 203: Preparación para entrar dignamente en el templo",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/694-participating-in-temple-and-family-history?lang=spa",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "No cualquier persona puede entrar al templo. No porque Dios excluya a nadie, sino porque la santidad del lugar requiere que quienes entran estén preparados para recibir lo que el Señor tiene para darles. Las normas de dignidad no son listas arbitrarias de reglas; son indicadores del estado de nuestro corazón y de nuestra relación con Dios. Cuando un líder del sacerdocio nos entrevista, no lo hace para juzgarnos severamente, sino para ayudarnos a evaluar honestamente si estamos listos. El Señor quiere que entremos a Su casa, y por eso nos da tiempo para prepararnos. Esta preparación no es un obstáculo; es una invitación a vivir de una manera que nos haga dignos de la presencia del Señor cada día, no solo cuando visitamos el templo."
+      },
+      {
+        tipo: "escrituras", citas: [
+          { referencia: "Salmos 24:3-4", texto: "¿Quién subirá al monte de Jehová?... El limpio de manos y puro de corazón.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=spa&id=p3-p4#p3" },
+          { referencia: "DyC 97:15-16", texto: "Todo lo que es impuro no puede abidará en Su presencia... sino los que son lavados y purificados.", link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa&id=p15-p16#p15" }
+        ]
+      },
+      { tipo: "enseñanza", autor: "Presidente Russell M. Nelson", texto: "La preparación para el templo no comienza el día antes de ir; comienza con las decisiones de cada día." },
+      {
+        tipo: "cuestionario", preguntas: [
+          "¿Qué cambios en tu vida diaria te acercan más a ser digno del templo?",
+          "¿Cómo puedes ver las normas de dignidad como una invitación y no como una restricción?",
+          "¿Qué significa para ti vivir de manera que el Señor pueda estar contigo en todo momento?"
+        ]
+      }
+    ],
+    type: "Especial",
+    description: "El Señor establece las normas de dignidad.",
+    questions: []
   }
-];
+]

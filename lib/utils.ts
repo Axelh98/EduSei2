@@ -95,13 +95,16 @@ function formatTimestamp(): string {
 }
 
 // ─── Detección de programa por categoryId ────────────────────────────────────
+// ✅ CORREGIDO: Ahora incluye todas las variantes de Seminario
 
 function getProgramLabel(categoryId: string): string {
   const seminarioIds = [
     'antiguo-testamento',
+    'antiguo-testamento-2do-semestre',
     'nuevo-testamento',
     'libro-de-mormon',
-    'doctrina-y-convenios',
+    'doctrina-y-convenios-1',
+    'doctrina-y-convenios-2',
     'Bloques',
   ]
   return seminarioIds.includes(categoryId) ? 'Seminario' : 'Instituto'
