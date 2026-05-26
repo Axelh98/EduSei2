@@ -2,7 +2,8 @@
 import { notFound } from "next/navigation"
 import { getCategoryById, isFlatCategory } from "@/lib/quiz-data"
 import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-primer-semestre"
-import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-resumido"
+import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-primer-semestre"
+import { leccionesResumidasLM2 } from "@/lib/data/libro-de-mormon-2-semestre"
 import { StudyClient } from "./study-client"
 import type { Metadata } from "next"
 import type { Seccion } from "@/lib/types"
@@ -32,7 +33,8 @@ function findLessonData(categoryId: string, lessonId: string) {
   const resumeMap: Record<string, typeof leccionesResumidasAT> = {
     "antiguo-testamento-1": leccionesResumidasAT,
     "antiguo-testamento-2": leccionesResumidasAT,
-    "libro-de-mormon": leccionesResumidasLM,
+    "libro-de-mormon-1": leccionesResumidasLM,
+    "libro-de-mormon-2": leccionesResumidasLM2,
   }
   const source = resumeMap[categoryId]
   if (source) {

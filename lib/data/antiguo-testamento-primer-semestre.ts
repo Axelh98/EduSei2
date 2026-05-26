@@ -28,5 +28,3 @@ export const leccionesResumidasAT: Lesson[] = [
 
 // Exportar también el conteo total
 export const totalLeccionesAT = leccionesResumidasAT.length
-
-console.log(`✅ Total de lecciones del Antiguo Testamento cargadas: ${totalLeccionesAT}`)

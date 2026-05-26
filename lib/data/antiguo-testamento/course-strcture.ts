@@ -78,7 +78,7 @@ import {
   leccion205Questions,
   leccion206Questions,
   leccionPascuaQuestions,
-} from "./antiguo-testamento/questions";
+} from "./questions";
 
 export const antiguoTestamentoWeeks: Week[] = [
   {

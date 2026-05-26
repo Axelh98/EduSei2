@@ -14,7 +14,8 @@ import Link from "next/link"
 import { cn } from "@/lib/utils"
 
 import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-primer-semestre"
-import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-resumido"
+import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-primer-semestre"
+import { leccionesResumidasLM2 } from "@/lib/data/libro-de-mormon-2-semestre"
 
 interface CategoryPageProps {
   params: Promise<{ categoryId: string }>
@@ -44,8 +45,10 @@ export default function CategoryPage({ params }: CategoryPageProps) {
     // ← Corregido: usar startsWith para cubrir -1 y -2
     const resumidas = categoryId.startsWith("antiguo-testamento")
       ? leccionesResumidasAT
-      : categoryId === "libro-de-mormon"
+      : categoryId === "libro-de-mormon-1"
       ? leccionesResumidasLM
+      : categoryId === "libro-de-mormon-2"
+      ? leccionesResumidasLM2
       : []
 
     return category.weeks.map((week) => ({

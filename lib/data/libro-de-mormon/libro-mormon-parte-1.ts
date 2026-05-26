@@ -454,15 +454,9 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
     description: "Comprender los propósitos divinos del Libro de Mormón como instrumento de recogimiento.",
     questions: []
   },
-
   // ════════════════════════════════════════════════════════════════════════════════
-  // LECCIONES 7-10: CONTINUACIÓN DE PÁGINAS INTRODUCTORIAS
-  // Las siguientes 4 lecciones completan el estudio de las páginas introductorias
-  // del Libro de Mormón, incluyendo la Introducción, el Testimonio de José Smith,
-  // los Testimonios de los Testigos, y Adquirir conocimiento espiritual Parte 2
-  // ════════════════════════════════════════════════════════════════════════════════
-
   // LECCIÓN 7: INTRODUCCIÓN AL LIBRO DE MORMÓN
+  // ════════════════════════════════════════════════════════════════════════════════
   {
     id: "introduccion-libro-mormon",
     title: "Introducción al Libro de Mormón: La piedra clave de nuestra religión",
@@ -472,29 +466,73 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "José Smith declaró que el Libro de Mormón es 'la piedra clave de nuestra religión, y que un hombre se acercaría más a Dios al seguir sus preceptos que los de cualquier otro libro'. Esta declaración profunda nos ayuda a comprender la importancia singular de este registro sagrado. Una piedra clave es la piedra central de un arco que mantiene unidas todas las demás piedras. Si se retira la piedra clave, el arco completo se desmorona. De manera similar, el Libro de Mormón mantiene unida nuestra comprensión de la doctrina de Cristo y nos acerca más a Él que cualquier otro libro. El presidente Ezra Taft Benson enseñó que el Libro de Mormón 'es el instrumento que Dios ha designado para desenmascarar al anticristo'. Por medio de sus páginas, podemos discernir el error y permanecer firmes en la verdad."
+        contenido: "José Smith declaró que el Libro de Mormón es 'la piedra clave de nuestra religión, y que un hombre se acercaría más a Dios al seguir sus preceptos que los de cualquier otro libro'. Esta declaración profunda nos ayuda a comprender la importancia singular de este registro sagrado. Una piedra clave es la piedra central de un arco que mantiene unidas todas las demás piedras; si se retira la piedra clave, el arco completo se desmorona. De manera similar, el Libro de Mormón mantiene unida nuestra comprensión de la doctrina de Cristo y nos acerca más a Él que cualquier otro libro. El presidente Ezra Taft Benson enseñó que el Libro de Mormón es 'la piedra clave de nuestro testimonio de Jesucristo' y que 'testifica de Su realidad con poder y claridad'. Además, explicó que 'el Libro de Mormón es la clave del testimonio. Al igual que el arco se derrumba si se le quita la piedra clave, así también toda la Iglesia permanece o cae en base a la veracidad del Libro de Mormón'. El Libro de Mormón contiene la plenitud del evangelio sempiterno y testifica de la veracidad de la Biblia. Este libro sagrado menciona al Salvador con tal frecuencia que se calcula que se usa alguna forma de Su nombre una vez cada 1.7 versículos."
       },
       {
         tipo: "escrituras",
-        citas: []
+        citas: [
+          {
+            referencia: "Moroni 10:3-5",
+            texto: "He aquí, quisiera exhortaros a que cuando leáis estas cosas... recordéis cuán misericordioso ha sido el Señor... y meditéis estas cosas en vuestro corazón. Y cuando recibáis estas cosas, quisiera exhortaros a que preguntéis a Dios... si no son verdaderas estas cosas; y si pedís con un corazón sincero, con verdadera intención, teniendo fe en Cristo, él os manifestará la verdad de ellas por el poder del Espíritu Santo.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p3-p5#p3"
+          },
+          {
+            referencia: "Alma 13:27",
+            texto: "Y ahora bien, hermanos míos, quisiera que plantarais esta palabra en vuestros corazones, y a medida que empiece a hincharse, nutridla con vuestra fe. Y he aquí, llegará a ser un árbol que brotará para vida sempiterna.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/13?lang=spa&id=p27#p27"
+          },
+          {
+            referencia: "Mosíah 4:9",
+            texto: "Creed en Dios; creed que él es, y que creó todas las cosas, tanto en el cielo como en la tierra; creed que él tiene toda sabiduría y todo poder, tanto en el cielo como en la tierra; creed que el hombre no comprende todas las cosas que el Señor puede comprender.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p9#p9"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Ezra Taft Benson",
+        fuente: "Liahona, octubre de 2011, págs. 54-55",
+        texto: "El Libro de Mormón es la piedra clave de nuestro testimonio de Jesucristo, quien a la vez es la piedra angular de todo lo que hacemos. Con poder y claridad testifica de Su realidad. El Libro de Mormón es la clave del testimonio. Al igual que el arco se derrumba si se le quita la piedra clave, así también toda la Iglesia permanece o cae en base a la veracidad del Libro de Mormón."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Gary E. Stevenson",
+        fuente: "Liahona, noviembre de 2016, pág. 47",
+        texto: "Leerán detenidamente los pasajes de ese preciado libro y hallarán a su amado Salvador, el Señor Jesucristo, en casi cada página. Se calcula que, en promedio, se usa alguna forma de Su nombre una vez cada 1,7 versículos."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, noviembre de 2017, págs. 62-63",
+        texto: "Les prometo que si cada día estudian el Libro de Mormón con espíritu de oración, cada día tomarán mejores decisiones. Les prometo que cuando mediten en lo que estudien, se abrirán las ventanas de los cielos y recibirán respuestas a sus preguntas y dirección para su vida. Les prometo que si cada día se sumergen en el Libro de Mormón, estarán vacunados contra los males de esta época, incluso la plaga esclavizante de la pornografía y otras adicciones que entumecen la mente."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Ezra Taft Benson",
+        fuente: "Liahona, octubre de 2011, pág. 57",
+        texto: "No es solo que el Libro de Mormón nos enseña la verdad, aunque en realidad así lo hace; no es solo que el Libro de Mormón da testimonio de Cristo, aunque de hecho también lo hace; hay algo más que eso. Hay un poder en el libro que empezará a fluir en la vida de ustedes en el momento en que empiecen a estudiarlo seriamente. Encontrarán mayor poder para resistir la tentación, encontrarán el poder para evitar el engaño, encontrarán el poder para mantenerse en el camino estrecho y angosto."
       },
       {
         tipo: "conclusion",
-        contenido: "El Libro de Mormón es verdaderamente la piedra clave de nuestra religión. Al estudiar y seguir sus preceptos, nos acercamos más a Dios y a Su Hijo Jesucristo. Este libro sagrado contiene la plenitud del evangelio sempiterno y testifica de la veracidad de la Biblia."
+        contenido: "El Libro de Mormón es verdaderamente la piedra clave de nuestra religión. Al estudiar y seguir sus preceptos, nos acercamos más a Dios y a Su Hijo Jesucristo. Este libro sagrado contiene la plenitud del evangelio sempiterno y testifica de la veracidad de la Biblia. Como enseñó el presidente Russell M. Nelson, cuando estudiamos el Libro de Mormón cada día, las ventanas de los cielos se abren y recibimos respuestas a nuestras preguntas y dirección para nuestra vida. El testimonio de Jesucristo que obtenemos al leer este libro nos acerca más a nuestro Salvador y nos prepara para recibir las bendiciones del templo y la vida eterna."
       },
       {
         tipo: "cuestionario",
         preguntas: [
           "¿Cómo te ha ayudado el Libro de Mormón a acercarte más a Dios?",
           "¿Qué evidencia has visto de que el Libro de Mormón es la piedra clave de nuestra religión?",
-          "¿De qué manera el Libro de Mormón fortalece tu testimonio de Jesucristo?"
+          "¿De qué manera el Libro de Mormón fortalece tu testimonio de Jesucristo?",
+          "¿Qué te llama la atención de la promesa del presidente Nelson sobre el estudio diario del Libro de Mormón?",
+          "¿Qué obstáculos podrías enfrentar en tu estudio diario y cómo puedes superarlos?"
         ]
       }
     ],
     questions: []
   },
-
+ 
+  // ════════════════════════════════════════════════════════════════════════════════
   // LECCIÓN 8: TESTIMONIO DE JOSÉ SMITH
+  // ════════════════════════════════════════════════════════════════════════════════
   {
     id: "testimonio-jose-smith",
     title: "El testimonio de José Smith del Libro de Mormón: Traducido por el don y el poder de Dios",
@@ -504,31 +542,75 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "El testimonio de José Smith sobre la salida a luz del Libro de Mormón es un relato de milagro y revelación divina. José recibió las planchas de oro del ángel Moroni y las tradujo 'por el don y el poder de Dios'. Este proceso de traducción no fue una tarea académica ordinaria; fue un acto de revelación pura donde José veía las palabras traducidas mediante el Urim y Tumim y las piedras videntes. José mismo declaró: 'Les digo que por el poder de Dios he traducido este libro de las planchas'. El testimonio de José Smith es crucial porque establece la autenticidad divina del Libro de Mormón y confirma que Dios continúa revelando Su palabra en nuestros días. Este testimonio es una invitación para que cada persona busque su propio testimonio del libro mediante el estudio, la oración y el poder del Espíritu Santo."
+        contenido: "El testimonio de José Smith sobre la salida a luz del Libro de Mormón es un relato de milagro y revelación divina. En la noche del 21 de septiembre de 1823, José recibió la visita del ángel Moroni, quien le reveló la ubicación de las planchas de oro enterradas en el cerro Cumorah. Durante los siguientes cuatro años, José visitó anualmente el cerro donde las planchas estaban depositadas, recibiendo instrucción del ángel. Finalmente, en 1827, José recibió las planchas junto con el Urim y Tumim y las piedras videntes. El proceso de traducción no fue una tarea académica ordinaria; fue un acto de revelación pura. Como explicó el élder Ulisses Soares: 'Este antiguo registro sagrado no fue traducido del modo tradicional que los eruditos traducirían un texto antiguo. Debemos considerar el proceso más como una revelación con la ayuda de instrumentos físicos que el Señor proporcionó'. José veía las palabras traducidas mediante el Urim y Tumim y las piedras videntes, dictando las palabras a escribas como Oliver Cowdery y Emma Smith. Emma describió que José 'dictaba, hora tras hora, sin nada entre nosotros dos', y que cuando retomaban el trabajo después de interrupciones, 'inmediatamente comenzaba donde lo había dejado, sin ni siquiera ver el manuscrito'. Este testimonio es crucial porque establece la autenticidad divina del Libro de Mormón y confirma que Dios continúa revelando Su palabra en nuestros días."
       },
       {
         tipo: "escrituras",
-        citas: []
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 135:3",
+            texto: "José Smith, el Profeta y Vidente del Señor, ha hecho más por la salvación del hombre en este mundo, que cualquier otro hombre que jamás haya vivido en él, exceptuando solo a Jesús... produjo el Libro de Mormón, el cual tradujo por el don y el poder de Dios.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/135?lang=spa&id=p3#p3"
+          },
+          {
+            referencia: "2 Nefi 27:12-14",
+            texto: "De modo que el Señor Dios le entregará las palabras de un libro, y serán las palabras de aquellos que han dormido en el polvo... Y por tres testigos se establecerán estas cosas; y el testimonio de tres, y esta obra, en la cual se mostrará el poder de Dios, y también su palabra, se pondrá de manifiesto.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=spa&id=p12-p14#p12"
+          },
+          {
+            referencia: "Éter 5:2-4",
+            texto: "Y he aquí, vendrás de acuerdo con las palabras de aquel que de nuevo pondrá de manifiesto estas cosas... Y las mostrará por el poder de Dios; y ninguna otra persona las verá, salvo unos pocos, según la voluntad de Dios... Y en la boca de tres testigos se establecerán estas cosas.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/5?lang=spa&id=p2-p4#p2"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Ulisses Soares",
+        fuente: "Liahona, mayo de 2020, pág. 33",
+        texto: "El proceso de traducción del Libro de Mormón fue también un milagro. Este antiguo registro sagrado no fue 'traducido' del modo tradicional que los eruditos traducirían un texto antiguo, es decir, estudiando ese idioma antiguo. Debemos considerar el proceso más como una 'revelación' con la ayuda de instrumentos físicos que el Señor proporcionó y no como una 'traducción' hecha por un experto en idiomas."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Emma Smith (esposa de José Smith)",
+        fuente: "Ensayos sobre Temas del Evangelio - La traducción del Libro de Mormón",
+        texto: "Estaba sentado, con el rosto oculto en el sombrero, con la piedra en su interior, y dictando, hora tras hora, sin nada entre nosotros dos. Cuando retomábamos la labor tras las comidas o tras una interrupción, inmediatamente comenzaba donde lo había dejado, sin ni siquiera ver el manuscrito ni hacer que le leyese parte alguna de él. La autenticidad del Libro de Mormón es divina. No tengo la más mínima duda al respecto. Estoy convencida de que ningún hombre habría podido dictar los manuscritos si no hubiese sido inspirado."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Dallin H. Oaks",
+        fuente: "Liahona, mayo de 2016, pág. 116",
+        texto: "Después de que José Smith terminara de traducir el Libro de Mormón, todavía le faltaba encontrar quien lo publicara. Eso no era fácil; la complejidad de este extenso manuscrito y el costo de impresión y encuadernación de miles de ejemplares eran intimidantes. José se dirigió en primer lugar a E. B. Grandin, quien tenía una imprenta en Palmyra, pero él lo rechazó. Entonces recurrió a otra imprenta en Palmyra, la cual tampoco aceptó. Habían pasado semanas y José seguramente estaba desconcertado por la oposición que afrontaba para cumplir su mandato divino. El Señor no lo hizo fácil, pero sí lo hizo posible."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Lucy Mack Smith (madre de José Smith)",
+        fuente: "Lucy Mack Smith, History, 1844-1845",
+        texto: "¡No sabes lo feliz que soy! El Señor ha hecho que se mostraran las planchas a tres personas más, aparte de mí. Ellos también han visto a un ángel, y tendrán que dar testimonio de la verdad de lo que yo he dicho, pues ahora ellos mismos saben que no ando engañando a la gente. ¡Siento como si se me hubiera liberado de una carga que me resultaba demasiado pesada de soportar, pero ahora ellos tendrán que sobrellevar una porción, y mi alma se regocija al saber que no estaré enteramente solo en el mundo!"
       },
       {
         tipo: "conclusion",
-        contenido: "El Libro de Mormón vino a la luz mediante revelación divina a través del profeta José Smith. Su traducción por el don y el poder de Dios es evidencia del amor del Padre Celestial por Sus hijos y de Su deseo de que tengan acceso a Su palabra."
+        contenido: "El Libro de Mormón vino a la luz mediante revelación divina a través del profeta José Smith. Su traducción por el don y el poder de Dios es evidencia del amor del Padre Celestial por Sus hijos y de Su deseo de que tengan acceso a Su palabra. El proceso milagroso de traducción, donde José dictaba las palabras sin ver el manuscrito y sin conocimiento previo del idioma, demuestra que este libro es verdaderamente la palabra de Dios. Los desafíos que José enfrentó para publicar el libro, superando múltiples rechazos hasta encontrar finalmente una imprenta dispuesta, muestran que aunque el Señor no hizo el camino fácil, sí lo hizo posible. Este mismo patrón se aplica a nuestra vida: el Señor nos ayudará a cumplir los mandatos que nos ha dado, aunque el camino pueda ser difícil."
       },
       {
         tipo: "cuestionario",
         preguntas: [
           "¿Qué significa para ti que el Libro de Mormón fue traducido 'por el don y el poder de Dios'?",
           "¿Cómo fortalece tu testimonio el conocer la forma milagrosa en que salió a luz el Libro de Mormón?",
-          "¿Qué puedes hacer para obtener tu propio testimonio de la veracidad del Libro de Mormón?"
+          "¿Qué puedes hacer para obtener tu propio testimonio de la veracidad del Libro de Mormón?",
+          "¿Qué te enseña la experiencia de José Smith sobre cómo el Señor nos ayuda a cumplir mandatos difíciles?",
+          "¿De qué forma influyen estos detalles históricos en tus sentimientos personales en cuanto al Libro de Mormón?"
         ]
       }
     ],
     questions: []
   },
-
+ 
+  // ════════════════════════════════════════════════════════════════════════════════
   // LECCIÓN 9: TESTIMONIOS DE LOS TESTIGOS
+  // ════════════════════════════════════════════════════════════════════════════════
   {
-    id: "testimonios-testigos",
+    id: "testigos-libro-mormon",
     title: "Los Testimonios de Tres Testigos y Ocho Testigos: Hemos visto las planchas",
     chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/02-introductory-pages/024-teacher?lang=spa",
     type: "Libro de Mormón - Ven Sigueme",
@@ -536,29 +618,72 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Además del testimonio de José Smith, el Señor proveyó testigos adicionales de la veracidad del Libro de Mormón. Los Tres Testigos (Oliver Cowdery, David Whitmer y Martin Harris) testificaron solemnemente que un ángel del Señor descendió del cielo y les mostró las planchas, y que la voz de Dios declaró que el libro había sido traducido por el don y poder de Dios. Los Ocho Testigos (incluyendo miembros de las familias Whitmer y Smith) declararon que José Smith les mostró las planchas, las tocaron con sus manos y vieron los grabados sobre ellas. Estos testimonios son notables porque ninguno de estos hombres jamás negó su testimonio, a pesar de que varios se alejaron de la Iglesia. Como declaró el presidente Gordon B. Hinckley: 'Estos testimonios han permanecido inalterados e incuestionables durante más de 170 años'. La existencia de estos testigos adicionales cumple el principio bíblico de que 'por boca de dos o tres testigos se establecerá toda palabra'."
+        contenido: "Además del testimonio de José Smith, el Señor proveyó testigos adicionales de la veracidad del Libro de Mormón, cumpliendo así las profecías antiguas registradas en las Escrituras. Los Tres Testigos (Oliver Cowdery, David Whitmer y Martin Harris) testificaron solemnemente que un ángel del Señor descendió del cielo y les mostró las planchas, y que la voz de Dios declaró que el libro había sido traducido por el don y poder de Dios. Además vieron la espada de Labán, el pectoral, la Liahona y el Urim y Tumim. Los Ocho Testigos (Christian Whitmer, Jacob Whitmer, Peter Whitmer Jr., John Whitmer, Hiram Page, José Smith padre, Hyrum Smith y Samuel H. Smith) declararon que José Smith les mostró las planchas físicamente, las tocaron con sus manos, sopesaron su peso y vieron los grabados sobre ellas. Estos testimonios son notables por varias razones: primero, cumplen el principio bíblico de que 'por boca de dos o tres testigos se establecerá toda palabra'; segundo, muchos de estos hombres ayudaron significativamente en la salida a luz del Libro de Mormón (David Whitmer proporcionó alojamiento, Martin Harris hipotecó su granja para pagar los costos de impresión, Oliver Cowdery sirvió como escribiente principal); y tercero, ninguno de estos hombres jamás negó su testimonio, a pesar de que varios se alejaron de la Iglesia por períodos de tiempo. Como declaró el presidente Gordon B. Hinckley: 'Estos testimonios han permanecido inalterados e incuestionables durante más de 170 años'."
       },
       {
         tipo: "escrituras",
-        citas: []
+        citas: [
+          {
+            referencia: "2 Nefi 27:12-14",
+            texto: "De modo que el Señor Dios le entregará las palabras de un libro, y serán las palabras de aquellos que han dormido en el polvo... Y el Señor Dios dirá: Levantaré tres testigos de entre vosotros, y ellos verán las palabras que les sean entregadas; y además del testimonio de tres testigos, el Señor Dios enviará mi palabra al pueblo.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=spa&id=p12-p14#p12"
+          },
+          {
+            referencia: "Éter 5:2-4",
+            texto: "Y he aquí, vendrás de acuerdo con las palabras de aquel que de nuevo pondrá de manifiesto estas cosas; y serán mostradas por el poder de Dios. Y ninguna otra persona las verá, salvo unos pocos, según la voluntad de Dios... Y en la boca de tres testigos se establecerán estas cosas; y el testimonio de tres, y esta obra, en la cual se mostrará el poder de Dios y también su palabra... se pondrán de manifiesto.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/5?lang=spa&id=p2-p4#p2"
+          },
+          {
+            referencia: "Doctrina y Convenios 5:7",
+            texto: "Y tienes un don para traducir las planchas; y esta es la primera dádiva que te concedí; y he mandado que no pretendas ninguna otra dádiva hasta que se termine mi propósito en esto; porque no te concederé que seas visto con las planchas sino por aquellos a quienes he mandado que sean testigos.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?lang=spa&id=p7#p7"
+          },
+          {
+            referencia: "Juan 20:29",
+            texto: "Jesús le dijo: Porque me has visto, Tomás, creíste; bienaventurados los que no vieron y creyeron.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/john/20?lang=spa&id=p29#p29"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Henry B. Eyring",
+        fuente: "Liahona, noviembre de 2003, pág. 90",
+        texto: "Los Tres Testigos jamás negaron su testimonio del Libro de Mormón; no podían hacerlo porque sabían que era verdadero. Realizaron sacrificios y pasaron dificultades inimaginables para la mayoría de la gente. Oliver Cowdery dio el mismo testimonio del origen divino del Libro de Mormón en su lecho de muerte. Pero, en los momentos de prueba, flaqueó su fe en que José Smith seguía siendo un profeta de Dios y en que el único medio para llegar al Salvador era por medio de Su Iglesia restaurada. El hecho de que durante sus largos períodos de distanciamiento de la Iglesia y de José continuaran afirmando lo que habían visto y oído hace que su testimonio sea aún más poderoso."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente James E. Faust",
+        fuente: "Liahona, julio de 2002, pág. 53",
+        texto: "Hoy en día debemos llegar a conocer la veracidad de lo que estaba en las planchas de oro sin verlas, puesto que no están a nuestro alcance para que las veamos o las palpemos, como sucedió con los Tres Testigos y los Ocho Testigos. Algunos de los que las vieron y palparon no permanecieron fieles a la Iglesia. El ver a un ángel podría ser una gran experiencia, pero es más importante llegar al conocimiento de la divinidad del Salvador mediante la fe y el testimonio del Espíritu."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Ulisses Soares",
+        fuente: "Liahona, mayo de 2020, pág. 33",
+        texto: "El Señor dispuso que un grupo de tres hombres y, más adelante, ocho hombres, vieran las planchas. Muchos de esos testigos ayudaron de alguna manera a que el Libro de Mormón saliera a la luz. Por ejemplo, David Whitmer invitó a José y a Emma a vivir con ellos mientras José traducía; Martin Harris hipotecó su granja para pagar los costos de impresión del Libro de Mormón y Oliver Cowdery sirvió como escribiente durante una gran parte de la traducción."
       },
       {
         tipo: "conclusion",
-        contenido: "Los testimonios de los Tres Testigos y los Ocho Testigos proporcionan evidencia poderosa de la realidad física de las planchas de oro y de la naturaleza divina del Libro de Mormón. Estos hombres arriesgaron su reputación y soportaron persecución por sus testimonios, sin embargo, ninguno jamás lo negó."
+        contenido: "Los testimonios de los Tres Testigos y los Ocho Testigos proporcionan evidencia poderosa de la realidad física de las planchas de oro y de la naturaleza divina del Libro de Mormón. Estos hombres arriesgaron su reputación y soportaron persecución por sus testimonios, sin embargo, ninguno jamás lo negó, incluso cuando varios se alejaron de la Iglesia. La existencia de dos tipos diferentes de experiencias (manifestación angelical para los Tres Testigos y examen físico para los Ocho Testigos) fortalece aún más el testimonio: si los críticos acusan a los Tres Testigos de imaginar su visión, no pueden explicar la experiencia física de los Ocho Testigos; si acusan a José de falsificar las planchas, no pueden explicar las manifestaciones divinas presenciadas por los Tres Testigos. Aunque es importante conocer estos testimonios, el presidente Faust nos recuerda que llegar al conocimiento de la divinidad del Salvador mediante la fe y el testimonio del Espíritu es aún más importante que ver ángeles. Nuestro propio testimonio del Libro de Mormón, obtenido mediante el estudio, la oración y la guía del Espíritu Santo, es el testimonio más valioso que podemos tener."
       },
       {
         tipo: "cuestionario",
         preguntas: [
           "¿Por qué crees que el Señor proveyó testigos adicionales del Libro de Mormón además de José Smith?",
           "¿Qué te enseña el hecho de que ningún testigo jamás negó su testimonio, incluso cuando enfrentaron oposición?",
-          "¿Cómo puedes convertirte tú mismo en un testigo del Libro de Mormón?"
+          "¿Cómo puedes convertirte tú mismo en un testigo del Libro de Mormón?",
+          "¿Qué diferencias notaste en las experiencias de los dos grupos de testigos y por qué podrían ser significativas?",
+          "¿Cómo se relaciona el testimonio de estos testigos con tu propio testimonio personal del Libro de Mormón?"
         ]
       }
     ],
     questions: []
   },
-
+ 
+  // ════════════════════════════════════════════════════════════════════════════════
   // LECCIÓN 10: ADQUIRIR CONOCIMIENTO ESPIRITUAL - PARTE 2
+  // ════════════════════════════════════════════════════════════════════════════════
   {
     id: "conocimiento-espiritual-2",
     title: "Adquirir conocimiento espiritual, Parte 2: Analizar los conceptos con una perspectiva eterna",
@@ -568,29 +693,66 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Después de aprender sobre actuar con fe cuando surgen preguntas, esta lección se enfoca en el segundo principio para adquirir conocimiento espiritual: analizar los conceptos y las preguntas con una perspectiva eterna. Vivimos en un mundo lleno de información, ideas y filosofías que compiten por nuestra atención y lealtad. Algunas de estas ideas son verdaderas y edificantes, mientras que otras pueden alejarnos de Jesucristo. El Señor nos ha dado principios para ayudarnos a evaluar las ideas que encontramos. Analizar con una perspectiva eterna significa considerar cómo una idea se relaciona con el plan de salvación, si es compatible con las enseñanzas de Jesucristo y Sus profetas, y cuáles serían las consecuencias de aceptar esa idea. El presidente Dallin H. Oaks enseñó: 'Cuando evaluamos las enseñanzas, decisiones u opciones del mundo, debemos considerar las posibles consecuencias, tanto en esta vida como en la eternidad'. Esta perspectiva eterna nos protege del engaño y nos ayuda a permanecer en la senda de los convenios."
+        contenido: "Después de aprender sobre actuar con fe cuando surgen preguntas, esta lección se enfoca en el segundo principio para adquirir conocimiento espiritual: analizar los conceptos y las preguntas con una perspectiva eterna. Vivimos en un mundo lleno de información, ideas y filosofías que compiten por nuestra atención y lealtad. Algunas de estas ideas son verdaderas y edificantes, mientras que otras pueden alejarnos de Jesucristo. El Señor nos ha dado principios para ayudarnos a evaluar las ideas que encontramos. Analizar con una perspectiva eterna significa considerar cómo una idea se relaciona con el plan de salvación, si es compatible con las enseñanzas de Jesucristo y Sus profetas, y cuáles serían las consecuencias de aceptar esa idea. Como enseñó el presidente Dallin H. Oaks: 'Puesto que los Santos de los Últimos Días conocemos el plan del Padre Celestial para Sus hijos, sabemos que esta vida terrenal no es una obra de un solo acto en medio de un pasado misterioso y un futuro incierto. Esta vida es el segundo acto de una obra de tres actos'. Esta perspectiva eterna nos protege del engaño y nos ayuda a permanecer en la senda de los convenios. El proceso de 'reformular' preguntas implica identificar las suposiciones subyacentes detrás de una pregunta y evaluarlas en el contexto del Plan de Salvación y las enseñanzas del Salvador."
       },
       {
         tipo: "escrituras",
-        citas: []
+        citas: [
+          {
+            referencia: "Mosíah 4:9",
+            texto: "Creed en Dios; creed que él es, y que creó todas las cosas, tanto en el cielo como en la tierra; creed que él tiene toda sabiduría y todo poder, tanto en el cielo como en la tierra; creed que el hombre no comprende todas las cosas que el Señor puede comprender.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p9#p9"
+          },
+          {
+            referencia: "Alma 40:1",
+            texto: "Ahora bien, hijo mío, aquí hay algo más que deseo saber; porque veo que tu mente está preocupada en cuanto a la resurrección de los muertos.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=spa&id=p1#p1"
+          },
+          {
+            referencia: "Alma 42:1",
+            texto: "Y ahora bien, hijo mío, percibo que hay algo más que inquieta tu mente, algo que no puedes comprender, concerniente a la justicia de Dios en el castigo del pecador.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa&id=p1#p1"
+          },
+          {
+            referencia: "2 Nefi 28:30",
+            texto: "Porque he aquí, así dice el Señor Dios: Daré a los hijos de los hombres línea sobre línea, precepto tras precepto, un poco aquí y un poco allí; y benditos son aquellos que escuchan mis preceptos y prestan atención a mis consejos, porque aprenderán sabiduría.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=spa&id=p30#p30"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Dallin H. Oaks",
+        fuente: "Una velada con una Autoridad General, 8 de febrero de 2013",
+        texto: "Puesto que los Santos de los Últimos Días conocemos el plan del Padre Celestial para Sus hijos, sabemos que esta vida terrenal no es una obra de un solo acto en medio de un pasado misterioso y un futuro incierto. Esta vida es el segundo acto de una obra de tres actos; su propósito viene definido por aquello que se ha revelado sobre nuestra existencia espiritual en el primer acto y sobre nuestro destino eterno en el tercero. Debido a que conocemos este plan y otras verdades que Dios ha revelado, comenzamos con suposiciones diferentes de quienes no comparten nuestro conocimiento. Como resultado, llegamos a conclusiones diferentes en muchos asuntos importantes que otras personas solo juzgan basándose en sus opiniones acerca de la vida terrenal."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente M. Russell Ballard",
+        fuente: "Liahona, noviembre de 2015, pág. 25",
+        texto: "Mediante José Smith, Dios dio el Libro de Mormón, Doctrina y Convenios y muchas enseñanzas adicionales a la Iglesia. Entre ellas, un conocimiento del Plan de Salvación, que es un mapa que indica de dónde vinimos, nuestro propósito aquí en la tierra y a dónde vamos al morir. El plan también nos proporciona una perspectiva única y eterna de que somos hijos de Dios procreados en espíritu. Al entender quién es nuestro Padre Celestial y nuestra relación con Él y Su Amado Hijo Jesucristo, aceptaremos Sus mandamientos y haremos convenios con Ellos que nos llevarán de nuevo a Su eterna presencia."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente M. Russell Ballard",
+        fuente: "Una velada con una Autoridad General, 26 de febrero de 2016",
+        texto: "Esta iniciativa [del Dominio de la doctrina] es inspirada y oportuna; tendrá una maravillosa influencia en nuestros jóvenes. Sin embargo, el éxito del Dominio de la doctrina y el de todos los otros programas de estudio de Seminarios e Institutos dependerá en gran medida de ustedes."
       },
       {
         tipo: "conclusion",
-        contenido: "Analizar los conceptos con una perspectiva eterna nos ayuda a discernir la verdad del error y a tomar decisiones sabias. Al considerar cómo las ideas se alinean con el evangelio de Jesucristo, podemos evitar ser 'llevados por doquiera de todo viento de doctrina' y permanecer firmes en nuestra fe."
+        contenido: "Analizar los conceptos con una perspectiva eterna nos ayuda a discernir la verdad del error y a tomar decisiones sabias. Al considerar cómo las ideas se alinean con el evangelio de Jesucristo y el Plan de Salvación, podemos evitar ser 'llevados por doquiera de todo viento de doctrina' y permanecer firmes en nuestra fe. El proceso de reformular preguntas implica identificar las suposiciones subyacentes y evaluarlas en el contexto de lo que sabemos sobre el Padre Celestial, Su plan y las enseñanzas del Salvador. Como enseñó Alma a su hijo Coriantón cuando enfrentó preguntas difíciles sobre la resurrección y la justicia de Dios, las respuestas se encuentran al considerar estas inquietudes en el contexto del Plan de Salvación. Al desarrollar esta habilidad de ver las cosas con una perspectiva eterna, nos volvemos más semejantes al Padre Celestial y a Jesucristo, quienes ven todas las cosas con una perspectiva eterna perfecta."
       },
       {
         tipo: "cuestionario",
         preguntas: [
           "¿Cómo te ayuda tener una perspectiva eterna al evaluar las ideas que encuentras?",
           "¿Qué preguntas puedes hacerte para analizar si una idea es compatible con el evangelio de Jesucristo?",
-          "¿Cómo puede este principio ayudarte a fortalecer tu testimonio y tu relación con el Salvador?"
+          "¿Cómo puede este principio ayudarte a fortalecer tu testimonio y tu relación con el Salvador?",
+          "¿Qué diferencia observas entre ver las cosas solo desde una perspectiva terrenal versus verlas con una perspectiva eterna?",
+          "¿Cómo te sientes en cuanto a tu capacidad para resolver preguntas difíciles mediante la reformulación?"
         ]
       }
     ],
     questions: []
   }
-]
-
-// ══════════════════════════════════════════════════════════════════════════════════
-// EXPORTACIONES Y RESUMEN
-// ══════════════════════════════════════════════════════════════════════════════════
+];

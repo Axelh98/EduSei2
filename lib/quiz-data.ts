@@ -1,9 +1,11 @@
 import type { Category, WeeklyCategory, FlatCategory } from "./types"
 import { isFlatCategory } from "./types"
 import { leccionesResumidasAT } from "./data/antiguo-testamento-primer-semestre"
-import { leccionesResumidasLM } from "./data/libro-de-mormon-resumido"
+import { leccionesResumidasLM } from "./data/libro-de-mormon-primer-semestre"
+import { leccionesResumidasLM2 } from "./data/libro-de-mormon-2-semestre"
 import { antiguoTestamentoWeeks } from "./data/antiguo-testamento"
 import { antiguoTestamentoWeeks2semestre } from "./data/antiguo-testamento-segundo-semestre"
+import { libroMormonSegundoSemestreWeeks } from "./data/libro-de-mormon-segundo-semestre"
 import { nuevoTestamentoWeeks } from "./data/nuevo-testamento"
 import { libroDeMormonWeeks } from "./data/libro-de-mormon"
 import { doctrinaYConveniosWeeks1semestre } from "./data/doctrina-y-convenios-primer-semestre"
@@ -38,6 +40,28 @@ const weeklyCategories: WeeklyCategory[] = [
     weeks: antiguoTestamentoWeeks2semestre,
   },
   {
+    id: "libro-de-mormon-1",
+    name: "Libro de Mormón",
+    shortName: "LM",
+    description: "Otro Testamento de Jesucristo. Los pueblos, profetas y enseñanzas del Libro de Mormón.",
+    icon: "book-marked",
+    color: "bg-primary",
+    courseType: "seminario",
+    semester: 1,
+    weeks: libroDeMormonWeeks,
+  },
+  {
+    id: "libro-de-mormon-2",
+    name: "Libro de Mormón",
+    shortName: "LM",
+    description: "Otro Testamento de Jesucristo. Los pueblos, profetas y enseñanzas del Libro de Mormón.",
+    icon: "book-marked",
+    color: "bg-primary",
+    courseType: "seminario",
+    semester: 2,
+    weeks: libroMormonSegundoSemestreWeeks,
+  },
+  {
     id: "nuevo-testamento",
     name: "Nuevo Testamento",
     shortName: "NT",
@@ -46,16 +70,6 @@ const weeklyCategories: WeeklyCategory[] = [
     color: "bg-secondary",
     courseType: "seminario",
     weeks: nuevoTestamentoWeeks,
-  },
-  {
-    id: "libro-de-mormon",
-    name: "Libro de Mormón",
-    shortName: "LM",
-    description: "Otro Testamento de Jesucristo. Los pueblos, profetas y enseñanzas del Libro de Mormón.",
-    icon: "book-marked",
-    color: "bg-primary",
-    courseType: "seminario",
-    weeks: libroDeMormonWeeks,
   },
   {
     id: "doctrina-y-convenios-1",
@@ -190,6 +204,8 @@ export function getFullLesson(categoryId: string, lessonId: string) {
     extendedContent = leccionesResumidasAT.find((l) => l.id === lessonId)
   } else if (categoryId === "libro-de-mormon") {
     extendedContent = leccionesResumidasLM.find((l) => l.id === lessonId)
+  } else if (categoryId === "libro-de-mormon-2") {
+    extendedContent = leccionesResumidasLM2.find((l) => l.id === lessonId)
   }
 
   return {

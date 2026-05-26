@@ -1,9 +1,6 @@
 import type { Week } from "../types"
 
 export const doctrinaYConveniosWeeks2semestre: Week[] = [
-
-  
-
   {
     id: 21,
     title: "Semana 21",
