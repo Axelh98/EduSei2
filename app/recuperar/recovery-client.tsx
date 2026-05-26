@@ -4,8 +4,9 @@
 import { useState, useEffect, useMemo } from "react"
 import { BookOpen, ChevronDown } from "lucide-react"
 import { getLessonById, isFlatCategory, getCategoryById } from "@/lib/quiz-data"
-import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-resumido"
-import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-resumido"
+import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-primer-semestre"
+import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-primer-semestre"
+import { leccionesResumidasLM2 } from "@/lib/data/libro-de-mormon-2-semestre"
 import { generateWhatsAppReport } from "@/lib/utils"
 import { useShareWithName } from "@/hooks/use-share-with-name"
 import { StudentNameModal } from "@/components/student-name-modal"
@@ -38,7 +39,8 @@ function parseLessons(rawData: string): RecoveryLesson[] {
         const tieneResumen = isFlat
           ? (result.lesson.secciones ?? []).length > 0
           : leccionesResumidasAT.some((r) => r.id === lId) ||
-            leccionesResumidasLM.some((r) => r.id === lId)
+            leccionesResumidasLM.some((r) => r.id === lId) ||
+            leccionesResumidasLM2.some((r) => r.id === lId)
 
         return [{
           categoryId,
