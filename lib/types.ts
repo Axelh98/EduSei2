@@ -8,23 +8,19 @@ export type BloqueResumen =
   | { tipo: "reflexion"; preguntas: string[] }
 
 // ─── Sección ──────────────────────────────────────────────────────────────────
-// tipo "resumen" es el nuevo formato de Instituto (usa bloques[])
-// los demás son los tipos heredados del Seminario (sin cambios)
 
 export interface Seccion {
   tipo: "contexto" | "escrituras" | "enseñanza" | "conclusion" | "cuestionario" | "resumen"
-  // Campos heredados Seminario
   contenido?: string
-  citas?: { 
+  citas?: {
     referencia: string
     texto: string
-    link?: string  // ← NUEVO: Link directo al versículo en el sitio oficial
+    link?: string
   }[]
   autor?: string
   fuente?: string
   texto?: string
   preguntas?: string[]
-  // Campo nuevo solo para tipo "resumen"
   bloques?: BloqueResumen[]
 }
 
@@ -33,19 +29,16 @@ export interface Seccion {
 export interface Question {
   id: number
   question: string
-  type?: "multiple" | "truefalse" | "written" // ← Agregar "written"
+  type?: "multiple" | "truefalse" | "written"
   options: string[]
   correctAnswer: number
   reference?: string
   explanation?: string
-  // Para preguntas escritas:
-  prompt?: string // Guía sobre qué escribir
-  minWords?: number // Mínimo de palabras requeridas
+  prompt?: string
+  minWords?: number
 }
 
 // ─── Lección ──────────────────────────────────────────────────────────────────
-// NOTA: type y secciones son opcionales para no romper archivos de datos
-// existentes (bloques.ts, doctrina-y-convenios.ts, etc.) que no los declaran.
 
 export interface Lesson {
   id: string
@@ -58,7 +51,7 @@ export interface Lesson {
     | "Bloque de Escrituras - Ven Sigueme"
     | "Preparación para la Vida"
     | "Dominio de la Doctrina"
-    | "Para la Fortaleza de la Juventud"  // ← NUEVO tipo agregado
+    | "Para la Fortaleza de la Juventud"
     | "Especial"
     | "Religión 250"
     | "Religión 225"
@@ -93,7 +86,13 @@ export interface WeeklyCategory extends CourseMetadata {
   icon: string
   color: string
   layoutType?: "weekly"
-  semester?: 1 | 2     
+  semester?: 1 | 2
+  /**
+   * Clave compartida entre los dos semestres de un mismo curso.
+   * Ej: "antiguo-testamento", "libro-de-mormon", "doctrina-y-convenios".
+   * Si está presente, la UI muestra el switcher 1° / 2° Semestre.
+   */
+  semesterGroup?: string
   weeks: Week[]
 }
 

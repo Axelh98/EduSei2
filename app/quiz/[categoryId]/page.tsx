@@ -7,15 +7,18 @@ import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
 import { WeekCard } from "@/components/week-card"
 import { FlatLessonList } from "@/components/flat-lesson-list"
-import { getCategoryById, getTotalLessons, getTotalQuestions, isFlatCategory } from "@/lib/quiz-data"
+import {
+  getCategoryById,
+  getTotalLessons,
+  getTotalQuestions,
+  isFlatCategory,
+  getSemesterSiblings,
+  getWeeksWithExtendedContent,
+} from "@/lib/quiz-data"
 import { generateAssignmentMessage } from "@/lib/utils"
 import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X } from "lucide-react"
 import Link from "next/link"
 import { cn } from "@/lib/utils"
-
-import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-primer-semestre"
-import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-primer-semestre"
-import { leccionesResumidasLM2 } from "@/lib/data/libro-de-mormon-2-semestre"
 
 interface CategoryPageProps {
   params: Promise<{ categoryId: string }>
@@ -31,37 +34,19 @@ export default function CategoryPage({ params }: CategoryPageProps) {
 
   useEffect(() => { setMounted(true) }, [])
 
-  // Detectar si tiene par de semestres — busca el ID hermano
-  const semester1Id = categoryId.replace(/-2$/, "-1")
-  const semester2Id = categoryId.replace(/-1$/, "-2")
-  const hasSemester2 = !!getCategoryById(semester2Id)
-  const hasSemester1 = !!getCategoryById(semester1Id)
-  const hasSemesters = hasSemester2 || (hasSemester1 && categoryId.endsWith("-2"))
-  const activeSemester = categoryId.endsWith("-2") ? 2 : 1
+  // Siblings de semestre: solo se calculan si la categoría existe y tiene grupo
+  const semesterSiblings = useMemo(
+    () => (category ? getSemesterSiblings(category) : null),
+    [category]
+  )
+  const activeSemester =
+    !isFlatCategory(category!) && (category as any)?.semester === 2 ? 2 : 1
 
+  // Semanas con contenido extendido: solo para categorías semanales
   const weeksWithExtraContent = useMemo(() => {
     if (!category || isFlatCategory(category)) return []
-
-    // ← Corregido: usar startsWith para cubrir -1 y -2
-    const resumidas = categoryId.startsWith("antiguo-testamento")
-      ? leccionesResumidasAT
-      : categoryId === "libro-de-mormon-1"
-      ? leccionesResumidasLM
-      : categoryId === "libro-de-mormon-2"
-      ? leccionesResumidasLM2
-      : []
-
-    return category.weeks.map((week) => ({
-      ...week,
-      lessons: week.lessons.map((lesson) => {
-        const extraData = resumidas.find((l) => l.id === lesson.id)
-        return {
-          ...lesson,
-          secciones: extraData ? extraData.secciones : (lesson.secciones ?? []),
-        }
-      }),
-    }))
-  }, [category, categoryId])
+    return getWeeksWithExtendedContent(category)
+  }, [category])
 
   if (!category) {
     notFound()
@@ -111,28 +96,39 @@ export default function CategoryPage({ params }: CategoryPageProps) {
 
   const fab = mounted && selectedLessons.length > 0
     ? createPortal(
-        <div className="fixed bottom-8 left-1/2 z-[9999] flex -translate-x-1/2 items-center gap-2 rounded-full border border-border bg-card p-2 shadow-2xl animate-in fade-in slide-in-from-bottom-4">
+        <div
+          role="region"
+          aria-label="Lecciones seleccionadas"
+          className="fixed bottom-8 left-1/2 z-[9999] flex -translate-x-1/2 items-center gap-2 rounded-full border border-border bg-card p-2 shadow-2xl animate-in fade-in slide-in-from-bottom-4"
+        >
           <div className="flex items-center gap-3 px-4">
-            <span className="flex h-6 w-6 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground">
+            <span
+              aria-hidden="true"
+              className="flex h-6 w-6 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground"
+            >
               {selectedLessons.length}
             </span>
-            <span className="text-sm font-medium hidden sm:inline">
+            <span className="sr-only">
+              {selectedLessons.length} {selectedLessons.length === 1 ? "lección seleccionada" : "lecciones seleccionadas"}
+            </span>
+            <span aria-hidden="true" className="text-sm font-medium hidden sm:inline">
               {selectedLessons.length === 1 ? "lección seleccionada" : "lecciones seleccionadas"}
             </span>
           </div>
           <button
             onClick={handleShare}
-            className="flex items-center gap-2 rounded-full bg-[#25D366] px-6 py-2.5 text-sm font-bold text-white transition-transform hover:scale-105 active:scale-95 shadow-md"
+            className="flex items-center gap-2 rounded-full bg-[#25D366] px-4 py-2.5 text-sm font-bold text-white transition-transform hover:scale-105 active:scale-95 shadow-md sm:px-6"
           >
-            <Share2 className="h-4 w-4" />
-            Asignar por WhatsApp
+            <Share2 className="h-4 w-4 shrink-0" aria-hidden="true" />
+            <span className="sm:hidden">Asignar ({selectedLessons.length})</span>
+            <span className="hidden sm:inline">Asignar por WhatsApp</span>
           </button>
           <button
             onClick={() => setSelectedLessons([])}
+            aria-label="Limpiar selección"
             className="mr-2 rounded-full p-2 hover:bg-muted transition-colors"
-            title="Limpiar selección"
           >
-            <X className="h-4 w-4 text-muted-foreground" />
+            <X className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
           </button>
         </div>,
         document.body
@@ -151,7 +147,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                 href="/"
                 className="mb-6 inline-flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
               >
-                <ArrowLeft className="h-4 w-4" />
+                <ArrowLeft className="h-4 w-4" aria-hidden="true" />
                 Volver al inicio
               </Link>
 
@@ -162,14 +158,19 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                 {category.description}
               </p>
 
-              {/* Switcher de semestre — aparece automáticamente si existe el par */}
-              {hasSemesters && (
-                <div className="mt-5 inline-flex rounded-lg border border-border bg-muted/50 p-1 gap-1">
+              {/* Switcher de semestre — aparece solo si existe el par */}
+              {semesterSiblings && (
+                <div
+                  role="group"
+                  aria-label="Seleccionar semestre"
+                  className="mt-5 inline-flex rounded-lg border border-border bg-muted/50 p-1 gap-1"
+                >
                   <button
                     onClick={() => {
                       setSelectedLessons([])
-                      router.replace(`/quiz/${semester1Id}`)
+                      router.replace(`/quiz/${semesterSiblings.sem1Id}`)
                     }}
+                    aria-pressed={activeSemester === 1}
                     className={cn(
                       "rounded-md px-4 py-1.5 text-sm font-semibold transition-all",
                       activeSemester === 1
@@ -182,8 +183,9 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                   <button
                     onClick={() => {
                       setSelectedLessons([])
-                      router.replace(`/quiz/${semester2Id}`)
+                      router.replace(`/quiz/${semesterSiblings.sem2Id}`)
                     }}
+                    aria-pressed={activeSemester === 2}
                     className={cn(
                       "rounded-md px-4 py-1.5 text-sm font-semibold transition-all",
                       activeSemester === 2
@@ -199,14 +201,14 @@ export default function CategoryPage({ params }: CategoryPageProps) {
               <div className="mt-6 flex flex-wrap gap-6">
                 {!isFlat && (
                   <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                    <Calendar className="h-4 w-4 text-primary" />
+                    <Calendar className="h-4 w-4 text-primary" aria-hidden="true" />
                     <span className="font-medium">{category.weeks.length}</span>{" "}
                     {category.weeks.length === 1 ? "semana" : "semanas"}
                   </div>
                 )}
                 {isFlat && (
                   <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                    <Layers className="h-4 w-4 text-primary" />
+                    <Layers className="h-4 w-4 text-primary" aria-hidden="true" />
                     <span className="font-medium">
                       {new Set(category.lessons.map((l) => l.unitTitle).filter(Boolean)).size}
                     </span>{" "}
@@ -214,12 +216,12 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                   </div>
                 )}
                 <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                  <BookOpen className="h-4 w-4 text-primary" />
+                  <BookOpen className="h-4 w-4 text-primary" aria-hidden="true" />
                   <span className="font-medium">{totalLessons}</span>{" "}
                   {totalLessons === 1 ? "lección" : "lecciones"}
                 </div>
                 <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                  <FileQuestion className="h-4 w-4 text-primary" />
+                  <FileQuestion className="h-4 w-4 text-primary" aria-hidden="true" />
                   <span className="font-medium">{totalQuestions}</span> preguntas evaluativas
                 </div>
               </div>

@@ -13,7 +13,12 @@ interface FlatLessonListProps {
   onToggleLesson: (id: string) => void
 }
 
-export function FlatLessonList({ lessons, categoryId, selectedLessons, onToggleLesson }: FlatLessonListProps) {
+export function FlatLessonList({
+  lessons,
+  categoryId,
+  selectedLessons,
+  onToggleLesson,
+}: FlatLessonListProps) {
   const [completados, setCompletados] = useState<string[]>([])
 
   useEffect(() => {
@@ -31,12 +36,18 @@ export function FlatLessonList({ lessons, categoryId, selectedLessons, onToggleL
   return (
     <div className="flex flex-col gap-10">
       {Array.from(units.entries()).map(([unitTitle, unitLessons], unitIndex) => (
-        <section key={unitTitle}>
+        <section key={unitTitle} aria-labelledby={`unit-heading-${unitIndex}`}>
           <div className="mb-4 flex items-center gap-3">
-            <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground">
+            <div
+              aria-hidden="true"
+              className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground"
+            >
               {unitIndex + 1}
             </div>
-            <h2 className="text-base font-bold uppercase tracking-widest text-muted-foreground">
+            <h2
+              id={`unit-heading-${unitIndex}`}
+              className="text-base font-bold uppercase tracking-widest text-muted-foreground"
+            >
               {unitTitle}
             </h2>
           </div>
@@ -46,14 +57,17 @@ export function FlatLessonList({ lessons, categoryId, selectedLessons, onToggleL
               const isDone = completados.includes(`${categoryId}-${lesson.title}`)
               const hasQuiz = lesson.questions.length > 0
               const hasStudy = (lesson.secciones ?? []).length > 0
+              const checkId = `lesson-check-${lesson.id}`
 
               return (
                 <div key={lesson.id} className="flex items-start gap-3">
                   <div className="pt-3">
                     <input
                       type="checkbox"
+                      id={checkId}
                       checked={selectedLessons.includes(lesson.id)}
                       onChange={() => onToggleLesson(lesson.id)}
+                      aria-label={`Seleccionar lección: ${lesson.title}`}
                       className="h-5 w-5 cursor-pointer rounded border-input bg-background text-primary focus:ring-primary"
                     />
                   </div>
@@ -68,19 +82,33 @@ export function FlatLessonList({ lessons, categoryId, selectedLessons, onToggleL
                       )}
                     >
                       <div className="flex items-start gap-3">
-                        <div className={cn(
-                          "mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-lg transition-colors",
-                          isDone ? "bg-green-500 text-white" : "bg-muted text-muted-foreground group-hover:bg-primary group-hover:text-white"
-                        )}>
-                          {isDone ? <CheckCircle2 className="h-5 w-5" /> : <BookOpen className="h-5 w-5" />}
+                        <div
+                          aria-hidden="true"
+                          className={cn(
+                            "mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-lg transition-colors",
+                            isDone
+                              ? "bg-green-500 text-white"
+                              : "bg-muted text-muted-foreground group-hover:bg-primary group-hover:text-white"
+                          )}
+                        >
+                          {isDone ? (
+                            <CheckCircle2 className="h-5 w-5" />
+                          ) : (
+                            <BookOpen className="h-5 w-5" />
+                          )}
                         </div>
                         <div className="flex-1 min-w-0">
-                          <h3 className={cn(
-                            "text-sm font-bold leading-snug",
-                            isDone ? "text-muted-foreground line-through" : "text-foreground"
-                          )}>
+                          <label
+                            htmlFor={checkId}
+                            className={cn(
+                              "cursor-pointer text-sm font-bold leading-snug",
+                              isDone
+                                ? "text-muted-foreground line-through"
+                                : "text-foreground"
+                            )}
+                          >
                             {lesson.title}
-                          </h3>
+                          </label>
                           {lesson.description && (
                             <p className="mt-1 text-[11px] leading-relaxed text-muted-foreground line-clamp-2">
                               {lesson.description}
@@ -96,7 +124,7 @@ export function FlatLessonList({ lessons, categoryId, selectedLessons, onToggleL
                             target="_blank"
                             className="flex items-center gap-1 rounded-lg bg-muted px-3 py-1.5 text-[10px] font-medium text-muted-foreground hover:bg-muted/80 transition-colors"
                           >
-                            <ExternalLink className="h-3 w-3" />
+                            <ExternalLink className="h-3 w-3" aria-hidden="true" />
                             Manual
                           </Link>
                         )}
@@ -106,7 +134,7 @@ export function FlatLessonList({ lessons, categoryId, selectedLessons, onToggleL
                             href={`/quiz/${categoryId}/${lesson.id}/study`}
                             className="flex items-center gap-1 rounded-lg bg-primary/10 px-3 py-1.5 text-[10px] font-bold text-primary hover:bg-primary/20 transition-colors"
                           >
-                            <FileText className="h-3 w-3" />
+                            <FileText className="h-3 w-3" aria-hidden="true" />
                             Repasar
                           </Link>
                         )}
@@ -114,13 +142,14 @@ export function FlatLessonList({ lessons, categoryId, selectedLessons, onToggleL
                         {hasQuiz ? (
                           <Link
                             href={`/quiz/${categoryId}/${lesson.id}`}
+                            aria-label={`Hacer quiz de ${lesson.title} — ${lesson.questions.length} preguntas`}
                             className="ml-auto flex items-center gap-1.5 rounded-full bg-primary px-4 py-1.5 text-[11px] font-bold text-white shadow-sm hover:brightness-110 active:scale-95 transition-all"
                           >
                             Quiz
-                            <span className="rounded bg-white/20 px-1.5 py-0.5 text-[9px]">
+                            <span aria-hidden="true" className="rounded bg-white/20 px-1.5 py-0.5 text-[9px]">
                               {lesson.questions.length}
                             </span>
-                            <ArrowRight className="h-3 w-3" />
+                            <ArrowRight className="h-3 w-3" aria-hidden="true" />
                           </Link>
                         ) : (
                           <span className="ml-auto flex items-center gap-1 rounded-full border border-border px-3 py-1.5 text-[10px] text-muted-foreground/50">

@@ -19,7 +19,6 @@ export default async function RecoveryPage({ searchParams }: PageProps) {
 
   return (
     <div className="flex min-h-screen flex-col bg-background">
-      <SiteHeader />
       <main className="flex-1 px-4 py-8 md:px-6">
         <div className="mx-auto max-w-2xl">
           <RecoveryClient rawData={rawData} />

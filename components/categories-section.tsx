@@ -41,7 +41,7 @@ export function CategoriesSection() {
             Elige tu estudio
           </span>
           <h2 className="mt-3 font-serif text-3xl font-bold text-foreground md:text-4xl">
-            Categorías de Estudio
+            Cursos de Estudio
           </h2>
           <p className="mx-auto mt-4 max-w-lg text-muted-foreground">
             Selecciona entre cursos de Seminario e Instituto. Cada lección incluye

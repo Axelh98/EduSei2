@@ -37,7 +37,7 @@ export function HeroSection() {
           href="#categorias"
           className="mt-10 inline-flex items-center gap-2 rounded-full bg-primary-foreground px-6 py-3 text-sm font-semibold text-primary transition-all hover:bg-primary-foreground/90 hover:shadow-lg"
         >
-          Explorar Categorías
+          Explorar Cursos
           <ChevronDown className="h-4 w-4" />
         </a>
       </div>

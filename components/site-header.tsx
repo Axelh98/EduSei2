@@ -45,7 +45,7 @@ export function SiteHeader() {
             href="/#categorias"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
           >
-            Categorías
+            Cursos
           </Link>
         </nav>
         <div className="flex w-full md:hidden">
