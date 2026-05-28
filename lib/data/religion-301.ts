@@ -1,6 +1,32 @@
 import type { FlatLesson } from "@/lib/types";
-
-const BASE_URL = "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026?lang=spa";
+import { religion301Lecciones } from "./religion-301/indexlecciones";
+import {
+  r301Leccion01Questions,
+  r301Leccion02Questions,
+  r301Leccion03Questions,
+  r301Leccion04Questions,
+  r301Leccion05Questions,
+  r301Leccion06Questions,
+  r301Leccion07Questions,
+  r301Leccion08Questions,
+  r301Leccion09Questions,
+  r301Leccion10Questions,
+  r301Leccion11Questions,
+  r301Leccion12Questions,
+  r301Leccion13Questions,
+  r301Leccion14Questions,
+  r301Leccion15Questions,
+  r301Leccion16Questions,
+  r301Leccion17Questions,
+  r301Leccion18Questions,
+  r301Leccion19Questions,
+  r301Leccion20Questions,
+  r301Leccion21Questions,
+  r301Leccion22Questions,
+  r301Leccion23Questions,
+  r301Leccion24Questions,
+  r301Leccion25Questions,
+} from "./religion-301/questions/indexQuestions";
 
 export const religion301Lessons: FlatLesson[] = [
   {
@@ -10,7 +36,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/01-moses-1-abraham-3?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion01Questions,
   },
   {
     id: "r301-l02",
@@ -19,7 +45,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/02-genesis-1-2-moses-2-3-abraham-4-5?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion02Questions,
   },
   {
     id: "r301-l03",
@@ -28,7 +54,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/03-genesis-3-4-moses-4-5?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion03Questions,
   },
   {
     id: "r301-l04",
@@ -37,7 +63,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/04-genesis-5-moses-6?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion04Questions,
   },
   {
     id: "r301-l05",
@@ -46,7 +72,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/05-moses-7?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion05Questions,
   },
   {
     id: "r301-l06",
@@ -55,7 +81,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/06-genesis-6-11-moses-8?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion06Questions,
   },
   {
     id: "r301-l07",
@@ -64,7 +90,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/07-genesis-12-17-abraham-1-2?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion07Questions,
   },
   {
     id: "r301-l08",
@@ -73,7 +99,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/08-genesis-18-23?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion08Questions,
   },
   {
     id: "r301-l09",
@@ -82,7 +108,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/09-genesis-24-33?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion09Questions,
   },
   {
     id: "r301-l10",
@@ -91,7 +117,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/10-genesis-37-41?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion10Questions,
   },
   {
     id: "r301-l11",
@@ -100,7 +126,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/11-genesis-42-50?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion11Questions,
   },
   {
     id: "r301-l12",
@@ -109,7 +135,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/12-exodus-1-6?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion12Questions,
   },
   {
     id: "r301-l13",
@@ -118,7 +144,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/13-exodus-7-13?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion13Questions,
   },
   {
     id: "r301-l14",
@@ -127,7 +153,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/14-exodus-14-18?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion14Questions,
   },
   {
     id: "r301-l15",
@@ -136,7 +162,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/15-exodus-19-20-24-31-34?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion15Questions,
   },
   {
     id: "r301-l16",
@@ -145,7 +171,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/16-exodus-35-40-leviticus-1-4-16-19?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion16Questions,
   },
   {
     id: "r301-l17",
@@ -154,7 +180,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/17-numbers-11-14-20-24-27?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion17Questions,
   },
   {
     id: "r301-l18",
@@ -163,7 +189,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/18-deuteronomy-6-8-15-18-29-30-34?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion18Questions,
   },
   {
     id: "r301-l19",
@@ -172,7 +198,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/19-joshua-1-8-23-24?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion19Questions,
   },
   {
     id: "r301-l20",
@@ -181,7 +207,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/20-judges-2-4-6-8-13-16?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion20Questions,
   },
   {
     id: "r301-l21",
@@ -190,7 +216,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/21-ruth-1-samuel-1-7?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion21Questions,
   },
   {
     id: "r301-l22",
@@ -199,7 +225,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/22-1-samuel-8-10-13-15-16?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion22Questions,
   },
   {
     id: "r301-l23",
@@ -208,7 +234,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/23-1-samuel-17-18-24-26-2-samuel-5-7?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion23Questions,
   },
   {
     id: "r301-l24",
@@ -217,7 +243,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/24-2-samuel-11-12-1-kings-3-6-9-11?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion24Questions,
   },
   {
     id: "r301-l25",
@@ -226,8 +252,9 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/25-1-kings-12-13-17-22?lang=spa`,
     secciones: [],
-    questions: []
+    questions: r301Leccion25Questions,
   },
+  // ── Lecciones 26–49: questions se irán agregando por bloques ──
   {
     id: "r301-l26",
     title: "Lección 26: Eliseo es llamado como profeta",
@@ -235,7 +262,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/26-2-kings-2-7?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l27",
@@ -244,7 +271,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/27-2-kings-16-25?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l28",
@@ -253,7 +280,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/28-2-chronicles-14-20-26-30?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l29",
@@ -262,7 +289,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/29-2-ezra-1-3-7-nehemiah-2-4-6-8?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l30",
@@ -271,7 +298,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/30-esther?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l31",
@@ -280,7 +307,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/31-job-1-3-12-14-19-21-24-38-40-42?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l32",
@@ -289,7 +316,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/32-psalms-1-2-8-19-33-40-46?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l33",
@@ -298,7 +325,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/33-psalms-49-51-61-66-69-72-77-78-85-86?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l34",
@@ -307,7 +334,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/34-psalms-102-103-110-116-119-127-128-135-139-146-50?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l35",
@@ -316,7 +343,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/35-proverbs-1-4-15-16-22-31-ecclesiastes-1-3-11-12?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l36",
@@ -325,7 +352,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/36-isaiah-1-12?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l37",
@@ -334,7 +361,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/37-isaiah-13-14-22-24-30-35?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l38",
@@ -343,7 +370,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/38-isaiah-40-49?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l39",
@@ -352,7 +379,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/39-isaiah-50-57?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l40",
@@ -361,7 +388,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/40-isaiah-58-66?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l41",
@@ -370,7 +397,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/41-jeremiah-1-3-7-16-18-20?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l42",
@@ -379,7 +406,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/42-jeremiah-31-33-36-38?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l43",
@@ -388,7 +415,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/43-ezekiel-1-3-33-34-36-37-47?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l44",
@@ -397,7 +424,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/44-daniel-1-7?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l45",
@@ -406,7 +433,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/45-hosea-1-6-10-14-joel?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l46",
@@ -415,7 +442,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/46-amos-obadiah-jonah?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l47",
@@ -424,7 +451,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/47-micah-nahum-habakkuk-zephaniah?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l48",
@@ -433,7 +460,7 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/48-haggai-zechariah?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
   {
     id: "r301-l49",
@@ -442,6 +469,18 @@ export const religion301Lessons: FlatLesson[] = [
     type: "Religión 301",
     chapterUrl: `https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/49-malachi?lang=spa`,
     secciones: [],
-    questions: []
+    questions: [],
   },
 ];
+
+// ─── Merge: combina secciones de indexlecciones con questions de este archivo ──
+// Esto permite usar un solo export (religion301Lessons) que tiene ambos campos.
+export const religion301LessonsWithContent: FlatLesson[] = religion301Lessons.map(
+  (lesson) => {
+    const withSecciones = religion301Lecciones.find((l) => l.id === lesson.id);
+    return {
+      ...lesson,
+      secciones: withSecciones?.secciones ?? lesson.secciones ?? [],
+    };
+  }
+);

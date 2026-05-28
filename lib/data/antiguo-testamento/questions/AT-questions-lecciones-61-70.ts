@@ -1,4 +1,4 @@
-import type { Question } from "../../types";
+import type { Question } from "@/lib/types";
 
 // ============================================================================
 // LECCIÓN 66: Jueces 6–8

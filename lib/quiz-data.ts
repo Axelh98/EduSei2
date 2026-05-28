@@ -16,6 +16,7 @@ import { religion225Lessons } from "./data/religion-225"
 import { religion301Lessons } from "./data/religion-301"
 import { religion301Lecciones } from "./data/religion-301/indexlecciones"
 
+
 export { isFlatCategory }
 
 // ─── Mapa de contenido extendido por categoryId ───────────────────────────────
@@ -153,6 +154,15 @@ const weeklyCategories: WeeklyCategory[] = [
   },
 ]
 
+
+const religion301LessonsWithContent = religion301Lecciones.map((lesson) => {
+  const withQuestions = religion301Lessons.find((l) => l.id === lesson.id);
+  return {
+    ...lesson,
+    questions: withQuestions?.questions ?? [],
+  };
+});
+
 const flatCategories: FlatCategory[] = [
   {
     id: "religion-250",
@@ -191,7 +201,7 @@ const flatCategories: FlatCategory[] = [
     layoutType: "flat",
     courseType: "instituto",
     instituteTrack: "fundamental",
-    lessons: religion301Lecciones,
+    lessons: religion301LessonsWithContent,
   },
 ]
 
