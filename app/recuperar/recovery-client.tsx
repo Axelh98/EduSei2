@@ -7,6 +7,7 @@ import { getLessonById, isFlatCategory, getCategoryById } from "@/lib/quiz-data"
 import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-primer-semestre"
 import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-primer-semestre"
 import { leccionesResumidasLM2 } from "@/lib/data/libro-de-mormon-2-semestre"
+import { religion301Lecciones } from "@/lib/data/religion-301/indexlecciones"
 import { generateWhatsAppReport } from "@/lib/utils"
 import { useShareWithName } from "@/hooks/use-share-with-name"
 import { StudentNameModal } from "@/components/student-name-modal"
@@ -40,7 +41,8 @@ function parseLessons(rawData: string): RecoveryLesson[] {
           ? (result.lesson.secciones ?? []).length > 0
           : leccionesResumidasAT.some((r) => r.id === lId) ||
             leccionesResumidasLM.some((r) => r.id === lId) ||
-            leccionesResumidasLM2.some((r) => r.id === lId)
+            leccionesResumidasLM2.some((r) => r.id === lId) ||
+            religion301Lecciones.some((r) => r.id === lId)
 
         return [{
           categoryId,
