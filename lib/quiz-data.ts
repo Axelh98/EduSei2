@@ -14,6 +14,7 @@ import { bloqueDeEscriturasWeeks } from "./data/bloques"
 import { religion250Lessons } from "./data/religion-250"
 import { religion225Lessons } from "./data/religion-225"
 import { religion301Lessons } from "./data/religion-301"
+import { religion301Lecciones } from "./data/religion-301/indexlecciones"
 
 export { isFlatCategory }
 
@@ -190,7 +191,7 @@ const flatCategories: FlatCategory[] = [
     layoutType: "flat",
     courseType: "instituto",
     instituteTrack: "fundamental",
-    lessons: religion301Lessons,
+    lessons: religion301Lecciones,
   },
 ]
 
