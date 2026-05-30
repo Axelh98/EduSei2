@@ -3,6 +3,7 @@ import { isFlatCategory } from "./types"
 import { leccionesResumidasAT } from "./data/antiguo-testamento-primer-semestre"
 import { leccionesResumidasLM } from "./data/libro-de-mormon-primer-semestre"
 import { leccionesResumidasLM2 } from "./data/libro-de-mormon-2-semestre"
+import { doctrinasConveniosLeccionesResumen } from "./data/doctrinas-convenios/DC-resumentotal"
 import { antiguoTestamentoWeeks } from "./data/antiguo-testamento"
 import { antiguoTestamentoWeeks2semestre } from "./data/antiguo-testamento-segundo-semestre"
 import { libroMormonSegundoSemestreWeeks } from "./data/libro-de-mormon-segundo-semestre"
@@ -28,6 +29,7 @@ const EXTENDED_CONTENT_MAP: Record<string, typeof leccionesResumidasAT> = {
   "antiguo-testamento-2": leccionesResumidasAT,
   "libro-de-mormon-1": leccionesResumidasLM,
   "libro-de-mormon-2": leccionesResumidasLM2,
+  "doctrina-y-convenios-1": doctrinasConveniosLeccionesResumen,
 }
 
 /**

@@ -4,6 +4,7 @@ import { getCategoryById, isFlatCategory } from "@/lib/quiz-data"
 import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-primer-semestre"
 import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-primer-semestre"
 import { leccionesResumidasLM2 } from "@/lib/data/libro-de-mormon-2-semestre"
+import { doctrinasConveniosLeccionesResumen } from "@/lib/data/doctrinas-convenios/DC-resumentotal"
 import { StudyClient } from "./study-client"
 import type { Metadata } from "next"
 import type { Seccion } from "@/lib/types"
@@ -35,6 +36,7 @@ function findLessonData(categoryId: string, lessonId: string) {
     "antiguo-testamento-2": leccionesResumidasAT,
     "libro-de-mormon-1": leccionesResumidasLM,
     "libro-de-mormon-2": leccionesResumidasLM2,
+    "doctrina-y-convenios-1": doctrinasConveniosLeccionesResumen,
   }
   const source = resumeMap[categoryId]
   if (source) {
