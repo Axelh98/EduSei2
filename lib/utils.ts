@@ -122,10 +122,9 @@ export function generateAssignmentMessage(
   lessonTitles: string[],
   recoveryUrl: string
 ): string {
-  const programa = getProgramLabel(categoryId)
   const lista = lessonTitles.map((t) => `   📖 ${t}`).join('\n')
 
-  return `📚 *LECCIONES ASIGNADAS — ${programa.toUpperCase()}*
+  return `📚 *LECCIONES ASIGNADAS A RECUPERAR*
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 📘 *Curso:* ${categoryName}
 
@@ -136,7 +135,7 @@ ${lista}
 🔗 *Tu plan de recuperación:*
 ${recoveryUrl}
 
-_Ingresá al link, leé los resúmenes, hacé los quizzes y enviame tu reporte cuando termines._`
+_Ingresá a tu plan, leé el manual o los resúmenes, compartí tus reflexiones mediante el PDF y completá los cuestionarios. Cuando termines, enviame tus resultados._`
 }
 
 /**
