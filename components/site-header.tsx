@@ -1,8 +1,10 @@
+// components/site-header.tsx
 "use client"
 
 import { BookOpen } from "lucide-react"
 import Link from "next/link"
 import { LessonSearch } from "./lesson-search"
+import { ThemeToggle } from "./theme-toggle"
 
 export function SiteHeader() {
   return (
@@ -34,7 +36,7 @@ export function SiteHeader() {
           <LessonSearch />
         </div>
 
-        <nav className="hidden items-center gap-6 md:flex">
+        <nav className="hidden items-center gap-4 md:flex">
           <Link
             href="/"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
@@ -47,9 +49,17 @@ export function SiteHeader() {
           >
             Cursos
           </Link>
+          {/* Separador visual */}
+          <div className="h-4 w-px bg-border" />
+          <ThemeToggle />
         </nav>
-        <div className="flex w-full md:hidden">
-          <LessonSearch />
+
+        {/* Mobile: search + toggle */}
+        <div className="flex items-center gap-2 md:hidden">
+          <ThemeToggle />
+          <div className="flex-1">
+            <LessonSearch />
+          </div>
         </div>
       </div>
     </header>

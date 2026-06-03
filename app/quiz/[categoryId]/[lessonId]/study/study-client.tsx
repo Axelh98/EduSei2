@@ -7,6 +7,7 @@ import { LessonNotes } from "@/components/study/lesson-notes"
 import { StudyCta } from "@/components/study/study-cta"
 import { StudyHeader } from "@/components/study/study-header"
 import { useExportPDF } from "@/hooks/use-export-pdf"
+import { useReadingProgress } from "@/hooks/use-reading-progress"
 import { trackStudyOpened } from "@/lib/analytics"
 import type { Seccion } from "@/lib/types"
 
@@ -17,7 +18,7 @@ interface StudyClientProps {
   lessonTitle:   string
   secciones:     Seccion[]
   courseType:    "seminario" | "instituto"
-  recoveryData?: string   // viene del server component, no de useSearchParams
+  recoveryData?: string
   chapterUrl?:   string
 }
 
@@ -38,7 +39,10 @@ export function StudyClient({
 
   const { isExporting, exportToPDF } = useExportPDF()
 
-  // ── Analytics ─────────────────────────────────────────────────────────────
+  // ── Barra de progreso de lectura ───────────────────────────────────────
+  useReadingProgress("study-content")
+
+  // ── Analytics ─────────────────────────────────────────────────────────
   useEffect(() => {
     trackStudyOpened({
       categoryId,

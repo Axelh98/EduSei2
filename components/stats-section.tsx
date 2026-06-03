@@ -72,7 +72,7 @@ export function StatsSection() {
   const totalQuestions = categories.reduce((acc, c) => acc + getTotalQuestions(c), 0)
 
   const stats = [
-    { icon: BookOpen,     target: categories.length, label: "Categorías"  },
+    { icon: BookOpen,     target: categories.length, label: "Cursos"  },
     { icon: Calendar,     target: totalWeeks,         label: "Semanas"     },
     { icon: Award,        target: totalLessons,        label: "Lecciones"   },
     { icon: HelpCircle,   target: totalQuestions,      label: "Preguntas"   },

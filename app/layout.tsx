@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import { Inter, Merriweather } from 'next/font/google'
 import { PageTransition } from '@/components/page-transition'
 import { PageViewTracker } from '@/components/analytics/page-view-tracker'
+import { ThemeProvider } from '@/components/theme-provider'
 import './globals.css'
 
 const _inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
@@ -18,7 +19,10 @@ export const metadata: Metadata = {
 }
 
 export const viewport: Viewport = {
-  themeColor: '#2e5a88',
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: '#2e5a88' },
+    { media: '(prefers-color-scheme: dark)',  color: '#1a2a3a' },
+  ],
 }
 
 export default function RootLayout({
@@ -27,12 +31,19 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="es">
+    <html lang="es" suppressHydrationWarning>
       <body
         className={`${_inter.variable} ${_merriweather.variable} font-sans antialiased`}
       >
-        <PageViewTracker />
-        <PageTransition>{children}</PageTransition>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange={false}
+        >
+          <PageViewTracker />
+          <PageTransition>{children}</PageTransition>
+        </ThemeProvider>
       </body>
     </html>
   )
