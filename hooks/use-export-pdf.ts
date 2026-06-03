@@ -69,7 +69,7 @@ export function useExportPDF() {
       pdf.setTextColor(...C.white)
       pdf.setFont("helvetica", "bold")
       pdf.setFontSize(11)
-      pdf.text("Mi Seminario e Instituto", M, 11)
+      pdf.text("Aula SEI", M, 11)
 
       pdf.setFont("helvetica", "normal")
       pdf.setFontSize(9)
@@ -168,7 +168,7 @@ export function useExportPDF() {
         pdf.setTextColor(...C.muted)
         pdf.setFontSize(7)
         pdf.setFont("helvetica", "normal")
-        pdf.text("Mi Seminario e Instituto", M, H - 4)
+        pdf.text("Aula SEI", M, H - 4)
         pdf.text(`Página ${p} de ${totalPages}`, W - M, H - 4, { align: "right" })
       }
 
