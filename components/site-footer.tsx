@@ -7,18 +7,16 @@ export function SiteFooter() {
         <div className="flex items-center gap-2">
           <BookOpen className="h-5 w-5 text-primary" />
           <span className="text-sm font-semibold text-foreground">
-            Mi Seminario e Instituto
+            Aula SEI
           </span>
         </div>
         <p className="max-w-md text-xs leading-relaxed text-muted-foreground">
-          Recurso educativo de La Iglesia de Jesucristo de los Santos de los
-          Últimos Días para el estudio personal de las Escrituras, Seminario e
-          Instituto.
+          Recurso educativo en línea para el estudio de las Escrituras y lecciones de Seminario e Instituto.
         </p>
         <p className="text-xs text-muted-foreground/60">
           {"© "}
           {new Date().getFullYear()}
-          {" Mi Seminario e Instituto. Todos los derechos reservados."}
+          {" Aula SEI. Todos los derechos reservados."}
         </p>
       </div>
     </footer>

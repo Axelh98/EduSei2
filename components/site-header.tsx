@@ -27,7 +27,7 @@ export function SiteHeader() {
           <div className="md:hidden">
             <h1 className="text-sm font-bold leading-tight text-foreground">MSI</h1>
             <p className="text-[10px] leading-none text-muted-foreground">
-              Seminario e Instituto
+              Aula SEI
             </p>
           </div>
         </Link>
