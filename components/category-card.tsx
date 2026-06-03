@@ -88,13 +88,6 @@ function CategoryIcon({ categoryId, color }: { categoryId: string; color: string
           <path d="M7 9h6M7 12h4" stroke={color} strokeWidth="1" strokeLinecap="round" />
         </svg>
       )
-    case "nuevo-testamento":
-      return (
-        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
-          <circle cx="10" cy="10" r="7" stroke={color} strokeWidth="1.2" fill="none" />
-          <path d="M10 6v8M6 10h8" stroke={color} strokeWidth="1.2" strokeLinecap="round" />
-        </svg>
-      )
     case "libro-de-mormon":
       return (
         <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
@@ -107,6 +100,13 @@ function CategoryIcon({ categoryId, color }: { categoryId: string; color: string
         <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
           <path d="M10 3L3 8v9h14V8L10 3z" stroke={color} strokeWidth="1.2" fill="none" strokeLinejoin="round" />
           <path d="M8 17v-5h4v5" stroke={color} strokeWidth="1" strokeLinecap="round" strokeLinejoin="round" />
+        </svg>
+      )
+    case "nuevo-testamento":
+      return (
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+          <circle cx="10" cy="10" r="7" stroke={color} strokeWidth="1.2" fill="none" />
+          <path d="M10 6v8M6 10h8" stroke={color} strokeWidth="1.2" strokeLinecap="round" />
         </svg>
       )
     case "Bloques":
@@ -135,6 +135,7 @@ export function CategoryCard({ category }: { category: Category }) {
   const totalLessons = getTotalLessons(category)
   const totalQuestions = getTotalQuestions(category)
   const isFlat = isFlatCategory(category)
+  const isComingSoon = category.id === "nuevo-testamento"
 
   // Resolver tema
   const isSeminario = category.courseType === "seminario"
@@ -158,7 +159,10 @@ export function CategoryCard({ category }: { category: Category }) {
     : 0
 
   return (
-    <Link href={`/quiz/${category.id}`} className="group block">
+    <Link
+      href={isComingSoon ? "#" : `/quiz/${category.id}`}
+      className={`group block ${isComingSoon ? "pointer-events-none" : ""}`}
+    >
       <div
         className="relative flex flex-col overflow-hidden rounded-xl border border-border bg-card transition-all duration-200 hover:-translate-y-0.5 hover:border-border/80 hover:shadow-md"
         style={{ borderTop: `3px solid ${stripe}` }}
@@ -238,6 +242,20 @@ export function CategoryCard({ category }: { category: Category }) {
                   {category.shortName}
                 </span>
               )}
+
+              {isComingSoon && (
+                <span
+                  className="inline-flex items-center rounded-full px-2 py-0.5 text-[10px] font-semibold"
+                  style={{
+                    backgroundColor: "#FEF3C7",
+                    color: "#92400E",
+                    border: "0.5px solid #FCD34D",
+                  }}
+                >
+                  🚧 Próximamente
+                </span>
+              )}
+
             </div>
           </div>
 
