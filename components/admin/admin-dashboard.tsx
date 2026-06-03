@@ -159,7 +159,7 @@ export function AdminDashboard({
                 Panel de administración
               </p>
               <h1 className="mt-0.5 text-xl font-bold text-foreground">
-                MSI Analytics
+                Aula SEI Analytics
               </h1>
             </div>
             <div className="flex items-center gap-2 rounded-full bg-muted px-3 py-1.5">

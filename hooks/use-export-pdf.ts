@@ -69,7 +69,7 @@ export function useExportPDF() {
       pdf.setTextColor(...C.white)
       pdf.setFont("helvetica", "bold")
       pdf.setFontSize(11)
-      pdf.text("Aula SEI", M, H - 4)
+        
 
       pdf.setFont("helvetica", "normal")
       pdf.setFontSize(9)
