@@ -77,17 +77,17 @@ export function useExportPDF() {
         const lh    = size * 0.4   // line-height en mm aprox
         lines.forEach((line: string, i: number) => {
           ensure(lh + 2)
-          const tx = align === "right" ? x : align === "center" ? x : x
-          pdf.text(line, tx, y, { align })
+          pdf.text(line, x, y, { align })
           y += lh + (i < lines.length - 1 ? 1 : 0)
         })
         return y
       }
 
       // ── footer (se dibuja en cada página al crearla) ──────────────
+      // NOTA: NO llamar drawFooter() manualmente fuera de newPage() ni al final de la p.1
+      // El footer de todas las páginas se sobreescribe correctamente en el loop final.
       const drawFooter = () => {
-        const pg    = pdf.getNumberOfPages()
-        const total = "??"   // se sobreescribe al final
+        const pg = pdf.getNumberOfPages()
         pdf.setFillColor(...C.pageBg)
         pdf.rect(0, H - 10, W, 10, "F")
         pdf.setTextColor(...C.muted)
@@ -141,7 +141,8 @@ export function useExportPDF() {
       pdf.line(M, y, W - M, y)
       y += 10
 
-      drawFooter()
+      // FIX: Se eliminó el drawFooter() suelto que estaba aquí.
+      // El footer de la página 1 se renderiza correctamente en el loop final.
 
       // ────────────────────────────────────────────────────────────────
       // SECCIONES
@@ -167,10 +168,6 @@ export function useExportPDF() {
 
         if (seccion.tipo === "conclusion" && seccion.contenido) {
           ensure(14)
-          // Línea vertical izquierda
-          pdf.setDrawColor(...C.primary)
-          pdf.setLineWidth(1)
-          // Se dibuja después de saber el alto del texto — estimamos
           const antes = y
           pdf.setLineWidth(0.4)
           y = renderParrafo(pdf, seccion.contenido, M + 6, C, CW - 6, y, "italic")
@@ -186,26 +183,25 @@ export function useExportPDF() {
             texto: seccion.texto ?? "",
             autor: seccion.autor,
             fuente: seccion.fuente,
-          }, M, CW, W, C, y, (newY) => { y = newY }, ensure)
+          }, M, CW, W, C, BOT, y, (newY) => { y = newY }, ensure, newPage)
         }
 
         if (seccion.tipo === "escrituras" && seccion.citas?.length) {
           ensure(10)
-          // Label
           pdf.setTextColor(...C.muted)
           pdf.setFontSize(7.5)
           pdf.setFont("helvetica", "bold")
           pdf.text("ESCRITURAS CLAVE", M, y)
           y += 6
           for (const cita of seccion.citas) {
-            drawEscrituraBox(pdf, cita, M, CW, C, y, (newY) => { y = newY }, ensure)
+            drawEscrituraBox(pdf, cita, M, CW, C, BOT, y, (newY) => { y = newY }, ensure, newPage)
           }
         }
 
         if (seccion.tipo === "cuestionario" && seccion.preguntas?.length) {
           ensure(14)
-          drawReflexionBox(pdf, seccion.preguntas, M, CW, W, C, y,
-            (newY) => { y = newY }, ensure)
+          drawReflexionBox(pdf, seccion.preguntas, M, CW, W, C, BOT, y,
+            (newY) => { y = newY }, ensure, newPage)
         }
       }
 
@@ -214,7 +210,7 @@ export function useExportPDF() {
       // ────────────────────────────────────────────────────────────────
       if (notes?.trim()) {
         ensure(20)
-        drawNotasBox(pdf, notes, M, CW, W, C, y, (newY) => { y = newY }, ensure)
+        drawNotasBox(pdf, notes, M, CW, W, C, BOT, y, (newY) => { y = newY }, ensure, newPage)
       }
 
       // ── Footer en todas las páginas con total correcto ────────────
@@ -261,7 +257,7 @@ function renderBloque(
   W: number,
   H: number,
   BOT: number,
-  C: typeof import("./use-export-pdf")extends never ? any : any,
+  C: any,
   y: number,
   newPage: () => void,
   ensure: (n: number) => void,
@@ -279,19 +275,18 @@ function renderBloque(
 
     case "escritura": {
       drawEscrituraBox(pdf, { referencia: bloque.referencia, texto: bloque.texto, comentario: bloque.comentario },
-        M, CW, C, y, setY, ensure)
+        M, CW, C, BOT, y, setY, ensure, newPage)
       break
     }
 
     case "cita": {
       drawCitaBox(pdf, { texto: bloque.texto, autor: bloque.autor, fuente: bloque.fuente },
-        M, CW, W, C, y, setY, ensure)
+        M, CW, W, C, BOT, y, setY, ensure, newPage)
       break
     }
 
     case "doctrinal": {
       ensure(14)
-      // Label
       pdf.setTextColor(...C.primary)
       pdf.setFontSize(7.5)
       pdf.setFont("helvetica", "bold")
@@ -299,14 +294,13 @@ function renderBloque(
       y += 5
       for (const punto of bloque.puntos) {
         ensure(8)
-        // Bullet
         pdf.setFillColor(...C.primary)
         pdf.circle(M + 1.5, y - 1.2, 1, "F")
         pdf.setTextColor(...C.body)
         pdf.setFontSize(9.5)
         pdf.setFont("helvetica", "normal")
         const lines = pdf.splitTextToSize(punto, CW - 7)
-        lines.forEach((line: string, i: number) => {
+        lines.forEach((line: string) => {
           ensure(5)
           pdf.text(line, M + 5, y)
           y += 4.5
@@ -319,7 +313,7 @@ function renderBloque(
     }
 
     case "reflexion": {
-      drawReflexionBox(pdf, bloque.preguntas, M, CW, W, C, y, setY, ensure)
+      drawReflexionBox(pdf, bloque.preguntas, M, CW, W, C, BOT, y, setY, ensure, newPage)
       break
     }
   }
@@ -347,26 +341,25 @@ function renderParrafo(
 }
 
 // ── Caja de escritura ─────────────────────────────────────────────────────────
+// FIX: Recibe BOT y newPage. Ya no tiene su propio addPage() — usa ensure() correctamente.
 function drawEscrituraBox(
   pdf: any,
   cita: { referencia: string; texto: string; comentario?: string },
   M: number, CW: number, C: any,
+  BOT: number,
   y: number,
   setY: (y: number) => void,
   ensure: (n: number) => void,
+  newPage: () => void,
 ) {
-  ensure(18)
-
   // Calcular alto de la caja
   pdf.setFontSize(9.5)
   const textLines    = pdf.splitTextToSize(`"${cita.texto}"`, CW - 10)
   const comentLines  = cita.comentario ? pdf.splitTextToSize(cita.comentario, CW - 10) : []
   const boxH = 7 + textLines.length * 4.8 + (comentLines.length > 0 ? 2 + comentLines.length * 4.2 : 0) + 5
 
-  if (y + boxH > 285) {
-    pdf.addPage()
-    y = 16
-  }
+  // FIX: un solo punto de decisión de salto de página
+  ensure(boxH + 4)
 
   // Fondo y borde
   pdf.setFillColor(...C.escrituraBg)
@@ -415,24 +408,23 @@ function drawEscrituraBox(
 }
 
 // ── Caja de cita profética ────────────────────────────────────────────────────
+// FIX: Recibe BOT y newPage. Ya no tiene su propio addPage() — usa ensure() correctamente.
 function drawCitaBox(
   pdf: any,
   cita: { texto: string; autor?: string; fuente?: string },
   M: number, CW: number, W: number, C: any,
+  BOT: number,
   y: number,
   setY: (y: number) => void,
   ensure: (n: number) => void,
+  newPage: () => void,
 ) {
-  ensure(20)
-
   pdf.setFontSize(10.5)
   const textLines = pdf.splitTextToSize(`"${cita.texto}"`, CW - 12)
   const boxH = 9 + textLines.length * 5.5 + (cita.autor ? 10 : 4)
 
-  if (y + boxH > 285) {
-    pdf.addPage()
-    y = 16
-  }
+  // FIX: un solo punto de decisión de salto de página
+  ensure(boxH + 5)
 
   // Fondo azul claro
   pdf.setFillColor(...C.citaBg)
@@ -481,16 +473,17 @@ function drawCitaBox(
 }
 
 // ── Caja de reflexión ─────────────────────────────────────────────────────────
+// FIX: Recibe BOT y newPage. Ya no tiene su propio addPage() — usa ensure() correctamente.
 function drawReflexionBox(
   pdf: any,
   preguntas: string[],
   M: number, CW: number, W: number, C: any,
+  BOT: number,
   y: number,
   setY: (y: number) => void,
   ensure: (n: number) => void,
+  newPage: () => void,
 ) {
-  ensure(16)
-
   // Calcular alto total
   pdf.setFontSize(9.5)
   let totalLines = 0
@@ -499,12 +492,10 @@ function drawReflexionBox(
   }
   const boxH = 10 + totalLines * 4.8 + preguntas.length * 3 + 4
 
-  if (y + boxH > 285) {
-    pdf.addPage()
-    y = 16
-  }
+  // FIX: un solo punto de decisión de salto de página
+  ensure(boxH + 5)
 
-  // Fondo gris muy claro con borde punteado simulado
+  // Fondo gris muy claro
   pdf.setFillColor(...C.pageBg)
   pdf.setDrawColor(...C.border)
   pdf.setLineWidth(0.3)
@@ -543,24 +534,23 @@ function drawReflexionBox(
 }
 
 // ── Caja de notas ─────────────────────────────────────────────────────────────
+// FIX: Recibe BOT y newPage. Ya no tiene su propio addPage() — usa ensure() correctamente.
 function drawNotasBox(
   pdf: any,
   notes: string,
   M: number, CW: number, W: number, C: any,
+  BOT: number,
   y: number,
   setY: (y: number) => void,
   ensure: (n: number) => void,
+  newPage: () => void,
 ) {
-  ensure(20)
-
   pdf.setFontSize(9.5)
   const noteLines = pdf.splitTextToSize(notes, CW - 12)
   const boxH = 12 + noteLines.length * 4.8 + 6
 
-  if (y + boxH > 285) {
-    pdf.addPage()
-    y = 16
-  }
+  // FIX: un solo punto de decisión de salto de página
+  ensure(boxH + 6)
 
   pdf.setFillColor(...C.pageBg)
   pdf.setDrawColor(...C.border)

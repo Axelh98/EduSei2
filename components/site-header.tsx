@@ -17,7 +17,7 @@ export function SiteHeader() {
           {/* Nombre completo solo en desktop */}
           <div className="hidden md:block">
             <h1 className="text-base font-bold leading-tight text-foreground">
-              Mi Seminario e Instituto
+              Aula SEI
             </h1>
             <p className="text-[11px] text-muted-foreground">
               Escrituras · Doctrina · Evaluaciones
