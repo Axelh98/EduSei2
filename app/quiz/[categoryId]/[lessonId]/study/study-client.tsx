@@ -39,23 +39,16 @@ export function StudyClient({
 
   const { isExporting, exportToPDF } = useExportPDF()
 
-  // ── Barra de progreso de lectura ───────────────────────────────────────
   useReadingProgress("study-content")
 
-  // ── Analytics ─────────────────────────────────────────────────────────
   useEffect(() => {
-    trackStudyOpened({
-      categoryId,
-      categoryName,
-      lessonId,
-      lessonTitle,
-      courseType,
-    })
+    trackStudyOpened({ categoryId, categoryName, lessonId, lessonTitle, courseType })
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
+  // FIX: pasar categoryId y lessonId para que el hook lea las notas del storage
   const handleExport = () => {
-    exportToPDF({ categoryName, lessonTitle, secciones })
+    exportToPDF({ categoryName, lessonTitle, secciones, categoryId, lessonId })
   }
 
   return (
@@ -70,7 +63,6 @@ export function StudyClient({
       <main className="flex-1 px-4 py-10">
         <div className="mx-auto max-w-2xl" id="study-content">
 
-          {/* Encabezado de la lección */}
           <div className="mb-10">
             <p className="mb-1 text-[10px] font-black uppercase tracking-[0.2em] text-primary/60">
               {categoryName}
@@ -90,7 +82,6 @@ export function StudyClient({
             )}
           </div>
 
-          {/* Secciones de contenido */}
           {secciones.length > 0 ? (
             <div className="space-y-10">
               {secciones.map((seccion, i) => (
@@ -109,12 +100,10 @@ export function StudyClient({
             </div>
           )}
 
-          {/* Notas personales */}
           <div className="mt-14">
             <LessonNotes categoryId={categoryId} lessonId={lessonId} />
           </div>
 
-          {/* CTA al quiz */}
           <StudyCta
             categoryId={categoryId}
             lessonId={lessonId}
