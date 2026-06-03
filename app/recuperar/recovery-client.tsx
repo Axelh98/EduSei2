@@ -15,7 +15,8 @@ import { RecoveryDashboard } from "@/components/recovery/recovery-dashboard"
 import { PendingLessonCard } from "@/components/recovery/pending-lesson-card"
 import { CompletedLessonCard } from "@/components/recovery/completed-lesson-card"
 import { saveRecoveryPlan } from "@/lib/recovery-storage"
-import { cn } from "@/lib/utils"
+import { getSavedStudentName, cn } from "@/lib/utils"
+import { trackRecoveryPlanViewed, trackWhatsappReportSent } from "@/lib/analytics"
 import type { RecoveryLesson } from "@/components/recovery/pending-lesson-card"
 
 interface RecoveryClientProps {
@@ -64,8 +65,12 @@ function parseLessons(rawData: string): RecoveryLesson[] {
 export function RecoveryClient({ rawData }: RecoveryClientProps) {
   const [completados,   setCompletados]   = useState<string[]>([])
   const [showCompleted, setShowCompleted] = useState(false)
+  // Flag para disparar el tracking de "plan visto" solo una vez
+  const [tracked, setTracked] = useState(false)
 
   const { modalOpen, handleConfirm, handleCancel, shareToWhatsApp } = useShareWithName()
+
+  const lessons = useMemo(() => parseLessons(rawData), [rawData])
 
   useEffect(() => {
     // Guardar el plan para que la home muestre el banner
@@ -76,7 +81,16 @@ export function RecoveryClient({ rawData }: RecoveryClientProps) {
     setCompletados(saved)
   }, [rawData])
 
-  const lessons = useMemo(() => parseLessons(rawData), [rawData])
+  // Trackear "plan de recuperación visto" — solo una vez cuando los datos están listos
+  useEffect(() => {
+    if (!tracked && lessons.length > 0) {
+      trackRecoveryPlanViewed({
+        totalLessons: lessons.length,
+        categoryIds: [...new Set(lessons.map((l) => l.categoryId))],
+      })
+      setTracked(true)
+    }
+  }, [lessons, tracked])
 
   const pending   = lessons.filter((l) => !completados.includes(`${l.categoryId}-${l.lesson.title}`))
   const completed = lessons.filter((l) =>  completados.includes(`${l.categoryId}-${l.lesson.title}`))
@@ -86,9 +100,19 @@ export function RecoveryClient({ rawData }: RecoveryClientProps) {
   const allDone    = done === total && total > 0
 
   const handleShare = () => {
-    shareToWhatsApp((nombre) =>
-      generateWhatsAppReport(lessons, completados, percentage, nombre)
-    )
+    shareToWhatsApp((nombre) => {
+      // Trackear el envío del reporte
+      trackWhatsappReportSent({
+        studentName:  nombre,
+        lessonsDone:  done,
+        lessonsTotal: total,
+        percentage,
+        // Si todas las lecciones son del mismo curso, pasar el categoryId
+        categoryId: lessons.length > 0 ? lessons[0].categoryId : undefined,
+      })
+
+      return generateWhatsAppReport(lessons, completados, percentage, nombre)
+    })
   }
 
   return (

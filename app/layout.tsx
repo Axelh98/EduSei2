@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next'
 import { Inter, Merriweather } from 'next/font/google'
 import { PageTransition } from '@/components/page-transition'
+import { PageViewTracker } from '@/components/analytics/page-view-tracker'
 import './globals.css'
 
 const _inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
@@ -30,6 +31,7 @@ export default function RootLayout({
       <body
         className={`${_inter.variable} ${_merriweather.variable} font-sans antialiased`}
       >
+        <PageViewTracker />
         <PageTransition>{children}</PageTransition>
       </body>
     </html>

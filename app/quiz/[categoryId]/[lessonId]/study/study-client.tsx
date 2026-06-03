@@ -1,22 +1,24 @@
 // app/quiz/[categoryId]/[lessonId]/study/study-client.tsx
 "use client"
 
-import type { Seccion } from "@/lib/types"
-import { useExportPDF } from "@/hooks/use-export-pdf"
-import { getLessonNote } from "@/lib/notes-storage"
-import { getSavedStudentName } from "@/lib/utils"
-import { StudyHeader } from "@/components/study/study-header"
+import { useEffect } from "react"
 import { SeccionView } from "@/components/study/seccion-view"
 import { LessonNotes } from "@/components/study/lesson-notes"
 import { StudyCta } from "@/components/study/study-cta"
+import { StudyHeader } from "@/components/study/study-header"
+import { useExportPDF } from "@/hooks/use-export-pdf"
+import { trackStudyOpened } from "@/lib/analytics"
+import type { Seccion } from "@/lib/types"
 
 interface StudyClientProps {
-  categoryId: string
-  categoryName: string
-  lessonId: string
-  lessonTitle: string
-  secciones: Seccion[]
-  recoveryData?: string
+  categoryId:    string
+  categoryName:  string
+  lessonId:      string
+  lessonTitle:   string
+  secciones:     Seccion[]
+  courseType:    "seminario" | "instituto"
+  recoveryData?: string   // viene del server component, no de useSearchParams
+  chapterUrl?:   string
 }
 
 export function StudyClient({
@@ -25,27 +27,35 @@ export function StudyClient({
   lessonId,
   lessonTitle,
   secciones,
+  courseType,
   recoveryData,
+  chapterUrl,
 }: StudyClientProps) {
-  const { isExporting, exportToPDF } = useExportPDF()
 
   const backUrl = recoveryData
     ? `/recuperar?data=${encodeURIComponent(recoveryData)}`
     : `/quiz/${categoryId}`
 
-  const handleExport = () => {
-    const notes = getLessonNote(categoryId, lessonId)
-    exportToPDF({
+  const { isExporting, exportToPDF } = useExportPDF()
+
+  // ── Analytics ─────────────────────────────────────────────────────────────
+  useEffect(() => {
+    trackStudyOpened({
+      categoryId,
       categoryName,
+      lessonId,
       lessonTitle,
-      secciones,
-      notes: notes?.content,
-      studentName: getSavedStudentName() || undefined,
+      courseType,
     })
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  const handleExport = () => {
+    exportToPDF({ categoryName, lessonTitle, secciones })
   }
 
   return (
-    <div className="min-h-screen bg-background pb-24">
+    <div className="flex min-h-screen flex-col bg-background">
       <StudyHeader
         backUrl={backUrl}
         recoveryData={recoveryData}
@@ -53,38 +63,60 @@ export function StudyClient({
         onExport={handleExport}
       />
 
-      <main className="mx-auto max-w-2xl px-5 pt-10">
-        <h1 className="font-serif text-3xl font-bold leading-tight text-foreground md:text-4xl">
-          {lessonTitle}
-        </h1>
+      <main className="flex-1 px-4 py-10">
+        <div className="mx-auto max-w-2xl" id="study-content">
 
-        <div className="mb-10 mt-6 flex items-center gap-3">
-          <div className="h-px flex-1 bg-border" />
-          <div className="h-1.5 w-1.5 rounded-full bg-primary/40" />
-          <div className="h-1 w-1 rounded-full bg-primary/20" />
+          {/* Encabezado de la lección */}
+          <div className="mb-10">
+            <p className="mb-1 text-[10px] font-black uppercase tracking-[0.2em] text-primary/60">
+              {categoryName}
+            </p>
+            <h1 className="font-serif text-3xl font-bold leading-tight text-foreground md:text-4xl">
+              {lessonTitle}
+            </h1>
+            {chapterUrl && (
+              <a
+                href={chapterUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-3 inline-flex items-center gap-1.5 text-xs font-medium text-primary/70 underline-offset-2 hover:text-primary hover:underline transition-colors"
+              >
+                Abrir en el manual oficial ↗
+              </a>
+            )}
+          </div>
+
+          {/* Secciones de contenido */}
+          {secciones.length > 0 ? (
+            <div className="space-y-10">
+              {secciones.map((seccion, i) => (
+                <SeccionView key={i} seccion={seccion} />
+              ))}
+            </div>
+          ) : (
+            <div className="flex flex-col items-center gap-3 rounded-2xl border border-dashed border-border py-16 text-center">
+              <span className="text-3xl">📖</span>
+              <p className="font-medium text-muted-foreground">
+                Resumen no disponible todavía
+              </p>
+              <p className="text-sm text-muted-foreground/60">
+                Estamos preparando el contenido de esta lección.
+              </p>
+            </div>
+          )}
+
+          {/* Notas personales */}
+          <div className="mt-14">
+            <LessonNotes categoryId={categoryId} lessonId={lessonId} />
+          </div>
+
+          {/* CTA al quiz */}
+          <StudyCta
+            categoryId={categoryId}
+            lessonId={lessonId}
+            recoveryData={recoveryData}
+          />
         </div>
-
-        <div className="space-y-10">
-          {secciones.map((seccion, idx) => (
-            <section
-              key={idx}
-              className="animate-in fade-in slide-in-from-bottom-3 duration-500"
-              style={{ animationDelay: `${idx * 60}ms` }}
-            >
-              <SeccionView seccion={seccion} />
-            </section>
-          ))}
-        </div>
-
-        <div className="mt-12">
-          <LessonNotes categoryId={categoryId} lessonId={lessonId} />
-        </div>
-
-        <StudyCta
-          categoryId={categoryId}
-          lessonId={lessonId}
-          recoveryData={recoveryData}
-        />
       </main>
     </div>
   )

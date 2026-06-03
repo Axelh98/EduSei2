@@ -16,6 +16,7 @@ import {
   getWeeksWithExtendedContent,
 } from "@/lib/quiz-data"
 import { generateAssignmentMessage } from "@/lib/utils"
+import { trackLessonsShared } from "@/lib/analytics"
 import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X } from "lucide-react"
 import Link from "next/link"
 import { cn } from "@/lib/utils"
@@ -34,7 +35,6 @@ export default function CategoryPage({ params }: CategoryPageProps) {
 
   useEffect(() => { setMounted(true) }, [])
 
-  // Siblings de semestre: solo se calculan si la categoría existe y tiene grupo
   const semesterSiblings = useMemo(
     () => (category ? getSemesterSiblings(category) : null),
     [category]
@@ -42,7 +42,6 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const activeSemester =
     !isFlatCategory(category!) && (category as any)?.semester === 2 ? 2 : 1
 
-  // Semanas con contenido extendido: solo para categorías semanales
   const weeksWithExtraContent = useMemo(() => {
     if (!category || isFlatCategory(category)) return []
     return getWeeksWithExtendedContent(category)
@@ -52,9 +51,9 @@ export default function CategoryPage({ params }: CategoryPageProps) {
     notFound()
   }
 
-  const totalLessons = getTotalLessons(category)
+  const totalLessons   = getTotalLessons(category)
   const totalQuestions = getTotalQuestions(category)
-  const isFlat = isFlatCategory(category)
+  const isFlat         = isFlatCategory(category)
 
   const toggleLesson = (lessonId: string) => {
     setSelectedLessons((prev) =>
@@ -65,10 +64,11 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   }
 
   const handleShare = () => {
-    const baseUrl = window.location.origin
-    const data = `${categoryId}:${selectedLessons.join(",")}`
+    const baseUrl     = window.location.origin
+    const data        = `${categoryId}:${selectedLessons.join(",")}`
     const recoveryUrl = `${baseUrl}/recuperar?data=${encodeURIComponent(data)}`
 
+    // Recolectar títulos de las lecciones seleccionadas
     const lessonTitles: string[] = []
     if (isFlat) {
       selectedLessons.forEach((id) => {
@@ -83,6 +83,15 @@ export default function CategoryPage({ params }: CategoryPageProps) {
         }
       })
     }
+
+    // ── Analytics ──────────────────────────────────────────────────────────
+    trackLessonsShared({
+      categoryId:   category.id,
+      categoryName: category.name,
+      lessonTitles,
+      courseType:   category.courseType,
+    })
+    // ──────────────────────────────────────────────────────────────────────
 
     const mensaje = generateAssignmentMessage(
       categoryId,
@@ -158,7 +167,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                 {category.description}
               </p>
 
-              {/* Switcher de semestre — aparece solo si existe el par */}
+              {/* Switcher de semestre */}
               {semesterSiblings && (
                 <div
                   role="group"

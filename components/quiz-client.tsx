@@ -1,3 +1,8 @@
+// components/quiz-client.tsx
+// CAMBIOS respecto al original:
+//   - Importa trackQuizCompleted desde @/lib/analytics
+//   - handleFinish ahora llama trackQuizCompleted con todos los datos
+//   - El nombre del alumno se lee de localStorage (getSavedStudentName)
 "use client";
 
 import { useState, useCallback } from "react";
@@ -9,12 +14,16 @@ import { QuizResults } from "./quiz-results";
 import { useSearchParams } from "next/navigation";
 import { useShuffledQuestions } from "@/hooks/use-shuffled-questions";
 import { useQuizAttempts } from "@/hooks/use-quiz-attempts";
+import { trackQuizCompleted } from "@/lib/analytics";
+import { getSavedStudentName } from "@/lib/utils";
 
 interface QuizClientProps {
-  questions: Question[];
+  questions:    Question[];
   categoryName: string;
-  categoryId: string;
-  lessonTitle: string;
+  categoryId:   string;
+  lessonTitle:  string;
+  lessonId:     string;
+  courseType:   "seminario" | "instituto";
 }
 
 export function QuizClient({
@@ -22,6 +31,8 @@ export function QuizClient({
   categoryName,
   categoryId,
   lessonTitle,
+  lessonId,
+  courseType,
 }: QuizClientProps) {
 
   const searchParams = useSearchParams();
@@ -32,15 +43,13 @@ export function QuizClient({
     ? `/recuperar?data=${encodeURIComponent(recoveryData)}`
     : `/quiz/${categoryId}`;
 
-  // Mezclar opciones de las preguntas
   const shuffledQuestions = useShuffledQuestions(questions, attemptKey);
 
-  // Control de intentos
   const { attempts, maxAttempts, isBlocked, registerAttempt, loaded } =
     useQuizAttempts(categoryId, lessonTitle);
 
-  const [currentQuestion, setCurrentQuestion] = useState(0);
-  const [selectedAnswers, setSelectedAnswers] = useState<(number | null)[]>(
+  const [currentQuestion, setCurrentQuestion]   = useState(0);
+  const [selectedAnswers, setSelectedAnswers]    = useState<(number | null)[]>(
     new Array(shuffledQuestions.length).fill(null),
   );
   const [submittedQuestions, setSubmittedQuestions] = useState<boolean[]>(
@@ -83,7 +92,37 @@ export function QuizClient({
     setSubmittedQuestions(new Array(shuffledQuestions.length).fill(true));
     registerAttempt();
     setIsFinished(true);
-  }, [shuffledQuestions.length, registerAttempt]);
+
+    // ── Analytics ──────────────────────────────────────────────
+    const score = selectedAnswers.reduce<number>((acc, answer, index) => {
+      if (answer === shuffledQuestions[index].correctAnswer) return acc + 1;
+      return acc;
+    }, 0);
+    const total      = shuffledQuestions.length;
+    const percentage = Math.round((score / total) * 100);
+
+    trackQuizCompleted({
+      categoryId,
+      categoryName,
+      lessonId,
+      lessonTitle,
+      studentName:  getSavedStudentName() || "Anónimo",
+      score,
+      total,
+      percentage,
+      courseType,
+    });
+    // ──────────────────────────────────────────────────────────
+  }, [
+    shuffledQuestions,
+    selectedAnswers,
+    registerAttempt,
+    categoryId,
+    categoryName,
+    lessonId,
+    lessonTitle,
+    courseType,
+  ]);
 
   const handleRetry = useCallback(() => {
     setAttemptKey((prev) => prev + 1);
@@ -98,30 +137,24 @@ export function QuizClient({
     return acc;
   }, 0);
 
-  const allSubmitted = submittedQuestions.every(Boolean);
+  const allSubmitted    = submittedQuestions.every(Boolean);
   const currentAnswered = selectedAnswers[currentQuestion] !== null;
   const currentSubmitted = submittedQuestions[currentQuestion];
-  const isLast = currentQuestion === shuffledQuestions.length - 1;
+  const isLast          = currentQuestion === shuffledQuestions.length - 1;
 
-  // Evitar flash mientras carga localStorage
   if (!loaded) return null;
 
-  // Pantalla de bloqueo por límite de intentos
   if (isBlocked) {
     return (
       <div className="mx-auto max-w-lg rounded-xl border border-border bg-card p-8 text-center shadow-sm">
         <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-muted">
           <span className="text-3xl">🔒</span>
         </div>
-        <h2 className="font-serif text-2xl font-bold text-foreground">
-          Límite alcanzado
-        </h2>
+        <h2 className="font-serif text-2xl font-bold text-foreground">Límite alcanzado</h2>
         <p className="mt-3 text-muted-foreground">
           Ya realizaste este quiz{" "}
-          <strong>
-            {maxAttempts} {maxAttempts === 1 ? "vez" : "veces"}
-          </strong>
-          . Consultá a tu instructor para continuar.
+          <strong>{maxAttempts} {maxAttempts === 1 ? "vez" : "veces"}</strong>.
+          Consultá a tu instructor para continuar.
         </p>
         <p className="mt-1 text-sm text-muted-foreground/60">
           {attempts} de {maxAttempts} intentos usados
@@ -153,7 +186,6 @@ export function QuizClient({
 
   return (
     <div className="mx-auto max-w-2xl">
-      {/* Botón Volver dinámico */}
       <Link
         href={backUrl}
         className="mb-6 inline-flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
@@ -162,7 +194,6 @@ export function QuizClient({
         {recoveryData ? "Volver a mi plan" : `Volver a ${categoryName}`}
       </Link>
 
-      {/* Lesson title */}
       <div className="mb-8">
         <p className="mb-1 text-sm font-medium text-primary">{categoryName}</p>
         <h2 className="font-serif text-2xl font-bold text-foreground md:text-3xl">
@@ -171,21 +202,17 @@ export function QuizClient({
         <p className="mt-2 text-sm text-muted-foreground">
           Responde cada pregunta y verifica tu respuesta antes de continuar.
         </p>
-        {/* Contador de intentos */}
         <p className="mt-1 text-xs text-muted-foreground/60">
           Intento {attempts + 1} de {maxAttempts}
         </p>
       </div>
 
-      {/* Question dots */}
       <div className="mb-6 flex flex-wrap gap-2">
         {shuffledQuestions.map((_, index) => {
-          const isAnswered = selectedAnswers[index] !== null;
+          const isAnswered  = selectedAnswers[index] !== null;
           const isSubmitted = submittedQuestions[index];
-          const isCorrect =
-            isSubmitted &&
-            selectedAnswers[index] === shuffledQuestions[index].correctAnswer;
-          const isCurrent = index === currentQuestion;
+          const isCorrect   = isSubmitted && selectedAnswers[index] === shuffledQuestions[index].correctAnswer;
+          const isCurrent   = index === currentQuestion;
 
           return (
             <button
@@ -210,7 +237,6 @@ export function QuizClient({
         })}
       </div>
 
-      {/* Question card */}
       <QuestionCard
         question={shuffledQuestions[currentQuestion]}
         questionNumber={currentQuestion + 1}
@@ -220,7 +246,6 @@ export function QuizClient({
         onSelectAnswer={handleSelectAnswer}
       />
 
-      {/* Action buttons */}
       <div className="mt-6 flex items-center justify-between gap-4">
         <button
           onClick={handlePrev}
@@ -241,7 +266,6 @@ export function QuizClient({
               Verificar
             </button>
           )}
-
           {currentSubmitted && !isLast && (
             <button
               onClick={handleNext}
@@ -251,7 +275,6 @@ export function QuizClient({
               <ArrowRight className="h-4 w-4" />
             </button>
           )}
-
           {isLast && allSubmitted && (
             <button
               onClick={handleFinish}
@@ -260,7 +283,6 @@ export function QuizClient({
               Ver Resultados
             </button>
           )}
-
           {isLast && !allSubmitted && currentSubmitted && (
             <span className="text-xs text-muted-foreground">
               Responde todas las preguntas para ver tus resultados
