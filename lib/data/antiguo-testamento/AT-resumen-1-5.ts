@@ -11,7 +11,15 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "El Antiguo Testamento es el registro sagrado más extenso que poseemos de la relación entre Dios y Sus hijos. Cubre miles de años de historia —desde la creación del mundo hasta el periodo postexílico— y es la fuente de algunas de las enseñanzas más profundas sobre los convenios, los profetas y el plan del Padre Celestial. Sin embargo, muchas personas lo estudian sin ver a su personaje principal: Jesucristo. Gracias a las Escrituras de la Restauración sabemos que Jehová —el Dios que aparece a lo largo del Antiguo Testamento— es precisamente Jesucristo, actuando bajo la dirección del Padre Celestial. Esto transforma completamente la lectura: cada mandamiento que Jehová da, cada convenio que establece, cada milagro que obra, es Jesucristo involucrado íntimamente en la vida de Sus hijos. El presidente Dallin H. Oaks enseñó que los registros de las palabras pronunciadas por 'Dios' o el 'Señor' en las Escrituras son casi siempre las palabras de Jehová, nuestro Señor resucitado Jesucristo. Comenzar el año con este enfoque —buscar activamente al Salvador en cada página— puede convertir el estudio del Antiguo Testamento en una de las experiencias espirituales más transformadoras de la vida.",
+        contenido: `¿Alguna vez miraste un video sin notar algo que estaba justo frente a tus ojos? Eso les pasa a muchos lectores del Antiguo Testamento. Leen sobre guerras, reyes y milagros, pero se pierden al personaje principal: Jesucristo.
+
+El Antiguo Testamento cubre miles de años de historia —desde la creación del mundo hasta el periodo que siguió al exilio en Babilonia. Es el registro sagrado más extenso que poseemos de la relación entre Dios y Sus hijos. Sin embargo, el nombre "Jesucristo" no aparece en él. Entonces, ¿cómo puede ser sobre Él?
+
+Gracias a las Escrituras de la Restauración sabemos que Jehová —el nombre con el que aparece Dios en el Antiguo Testamento— es precisamente Jesucristo, que actuaba bajo la dirección del Padre Celestial. Eso cambia todo. Cada vez que leas que Jehová habló con Abraham en su tienda, o que guió a Israel por el desierto, o que estableció convenios con Su pueblo: eso fue Jesucristo, involucrado de manera profunda y personal en la vida de Sus hijos. El presidente Dallin H. Oaks enseñó que los registros de las palabras del "Señor" o de "Dios" en las Escrituras son casi siempre las palabras de Jehová, nuestro Señor resucitado.
+
+El élder Michael T. Ringwood lo dijo de manera directa: somos el centro focal del plan del Padre Celestial y la razón de la misión del Salvador. Capítulo tras capítulo del Antiguo Testamento lo demuestra. Y el Salvador mismo, en el camino a Emaús, tomó las Escrituras hebreas desde Moisés hasta los profetas y las usó para enseñar sobre Sí mismo.
+
+Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. La pregunta es: ¿estás dispuesto a buscarlo activamente cada vez que abras esas páginas?`,
       },
       {
         tipo: "enseñanza",
@@ -52,17 +60,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "Estudiar el Antiguo Testamento con los ojos puestos en Jesucristo no es una técnica de lectura: es un acto de fe. Jehová —el Creador, el Dios de los convenios, el Redentor que habló a Moisés en la zarza ardiente— es el mismo Jesucristo que entró a Getsemaní por amor a ti. Cuando leas sobre Sus actos de misericordia con Israel, estarás aprendiendo sobre Su misericordia contigo. El objetivo de este año es que, al cerrar el Antiguo Testamento en noviembre, tu testimonio de Jesucristo sea más profundo y personal que cuando lo abriste.",
+        contenido: "Estudiar el Antiguo Testamento buscando activamente a Jesucristo no es una técnica de lectura: es un acto de fe. Jehová —el que habló desde la zarza ardiente, el que dividió el mar, el que estableció convenios con Abraham— es el mismo Salvador que entró a Getsemaní por amor a ti. Cuando leas Sus actos de misericordia con Israel, estarás aprendiendo sobre Su misericordia contigo. Este año, cada vez que abras el Antiguo Testamento, hazte esta pregunta: ¿dónde está Jesucristo en esta página? Con ese enfoque, el libro más antiguo de las Escrituras puede convertirse en tu encuentro más personal con el Salvador.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿De qué manera saber que Jehová es Jesucristo cambia la forma en que leerás el Antiguo Testamento este año?",
-          "¿En qué relato que ya conoces puedes ver ahora la mano del Salvador más claramente?",
-          "¿Qué hábito concreto adoptarás este año para buscar a Jesucristo mientras estudias las Escrituras cada día?",
-          "El élder Ringwood dice que el Padre Celestial y Jesucristo se involucran 'de manera íntima' en nuestra vida. ¿Cuándo has sentido esa presencia divina en tu propia experiencia?",
-          "¿Por qué crees que es fácil 'perderse' la presencia de Cristo en el Antiguo Testamento si no se lee con el enfoque correcto?",
-          "¿Cómo podrías compartir con alguien que no es miembro de la Iglesia la idea de que el Dios del Antiguo Testamento es Jesucristo?",
+          "¿Alguna vez leíste o estudiaste algo y luego te diste cuenta de que te habías perdido lo más importante? ¿Qué estabas buscando en cambio?",
+          "Ahora que sabés que Jehová es Jesucristo, ¿qué relato del Antiguo Testamento que ya conocés te parece diferente o más significativo?",
+          "¿Qué tan seguido buscás a Jesucristo cuando estudiás las Escrituras? ¿Qué te ayudaría a hacerlo más conscientemente?",
+          "El élder Ringwood dice que el Padre Celestial y Jesucristo se involucran 'de manera íntima' en nuestra vida. ¿En qué momento de tu vida sentiste esa presencia divina de forma concreta?",
+          "¿Qué hábito específico vas a adoptar esta semana para buscar a Jesucristo mientras estudiás el Antiguo Testamento?",
+          "Si un amigo te dijera que el Antiguo Testamento no tiene nada que ver con Jesús, ¿cómo le explicarías lo que aprendiste hoy en una o dos oraciones?",
         ],
       },
     ],
@@ -77,7 +85,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Antes de venir a la tierra, todos vivíamos como espíritus en la presencia de nuestro Padre Celestial. En aquella existencia premortal se celebró el gran concilio de los cielos: el Padre presentó Su plan de salvación y Jehová —Jesucristo— fue elegido como Salvador y Redentor. El élder Dieter F. Uchtdorf enseñó que en aquel concilio vimos a Dios, conocimos a Jesucristo, y participamos con pleno entendimiento en ese plan eterno. ¡Y nos regocijamos grandemente! (Job 38:7). El Plan de Salvación responde las tres preguntas más profundas de la existencia humana: ¿de dónde venimos?, ¿cuál es el propósito de esta vida?, y ¿qué nos sucede después de morir? Jesucristo es el eje de cada una de esas respuestas: Él creó este mundo, tomó sobre Sí nuestros pecados y nuestra muerte mediante la Expiación, y es el Juez que determinará nuestra herencia eterna. Comprender el plan del Padre no es una cuestión académica: es lo que transforma el sufrimiento en esperanza, las pruebas en crecimiento y la muerte en un umbral hacia la vida eterna.",
+        contenido: "Antes de venir a esta tierra, todos nosotros existíamos como espíritus en la presencia del Padre Celestial. No es una metáfora: es doctrina real. En esa existencia premortal se realizó el gran concilio de los cielos. El Padre presentó Su plan —un plan diseñado para llevar a Sus hijos a la inmortalidad y la vida eterna— y Jesucristo fue elegido como Salvador y Redentor. Satanás propuso una alternativa que eliminaba la agencia; Jehová aceptó la voluntad del Padre. Nosotros estuvimos ahí, y nos regocijamos.\n\nEse plan responde las tres preguntas que más importan: ¿de dónde venimos?, ¿para qué estamos aquí?, ¿qué pasa después de morir? Y Jesucristo está en el centro de cada respuesta. Él creó este mundo. Tomó sobre Sí nuestros pecados en la Expiación. Y es el Juez misericordioso que determinará nuestra herencia eterna.\n\nEl presidente Dallin H. Oaks lo resumió con claridad: Jesucristo ha hecho todo lo que es esencial para nuestra travesía por la vida terrenal hacia el destino señalado en el plan del Padre. No es un personaje secundario del plan: es la figura central.\n\nComprenderlo cambia la manera en que vivís el día a día. Cuando algo duele, cuando algo no tiene sentido, cuando te sentís perdido —el plan de salvación es el mapa. Muestra que estás aquí por una razón, que tus decisiones importan, y que hay un destino real esperándote. Cada ordenanza que recibís, cada convenio que guardás, cada esfuerzo honesto por seguir a Jesucristo te acerca a ese destino.",
       },
       {
         tipo: "enseñanza",
@@ -118,17 +126,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "El Plan de Salvación no es una doctrina abstracta: es el mapa de por qué estás aquí, quién eres y adónde puedes llegar. Cada ordenanza que recibes, cada convenio que guardas, cada esfuerzo por seguir a Jesucristo te acerca a tu destino divino como hijo de Dios. Cuando la vida duele o no tiene sentido, volver a este plan es volver a la esperanza: porque el mismo Padre que organizó este plan también te conoce por nombre y desea que regreses a Su presencia.",
+        contenido: "El Plan de Salvación no es una doctrina que memorizás para el seminario y después guardás en un cajón. Es el mapa de tu vida. Explica por qué estás aquí, quién sos, y adónde podés ir. Cuando algo duele o parece sin sentido, volver a este plan es volver a la esperanza. El mismo Padre que diseñó todo esto también te conoce por nombre y desea que regreses a Su presencia. Esta semana, elegí conscientemente una acción —una oración, una ordenanza renovada, un momento de estudio— que te acerque a tu destino divino.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Cómo cambia tu perspectiva de los desafíos diarios saber que eres parte del plan eterno del Padre Celestial?",
-          "¿Qué parte del Plan de Salvación le compartirías a alguien que está pasando por una prueba dolorosa, como la pérdida de un ser querido?",
-          "¿Qué significa para ti que Jesucristo haya sido elegido como Salvador antes de que el mundo existiera y que lo haya aceptado libremente?",
-          "¿De qué forma tu comprensión de la existencia premortal cambia la manera en que te ves a ti mismo y a los demás?",
-          "¿Qué acción concreta puedes tomar esta semana para honrar el propósito por el cual viniste a esta tierra?",
-          "El élder Stevenson menciona tomar la Santa Cena, estudiar las Escrituras y orar como acciones que te ayudan a recordar por qué estás aquí. ¿Cuál de estas prácticas necesitas fortalecer más en tu vida?",
+          "¿Qué te parece más sorprendente o emocionante del hecho de que existías antes de nacer? ¿Cómo te hace sentir eso?",
+          "¿En qué situación difícil de tu vida —tuya o de alguien cercano— el Plan de Salvación te daría o te dio esperanza real?",
+          "¿Qué diferencia hace en cómo tratás a los demás saber que todos —incluidos los que te caen mal— vivieron antes con el mismo Padre Celestial que vos?",
+          "El élder Stevenson menciona las ordenanzas y los convenios como pasos concretos hacia tu destino divino. ¿Cuál de esos pasos sentís que necesitás fortalecer más ahora mismo?",
+          "Pensá en alguien de tu familia o grupo de amigos que esté pasando por algo difícil. ¿Cómo le explicarías el Plan de Salvación de una manera que le dé esperanza concreta?",
+          "¿Qué decisión pequeña pero real podés tomar esta semana para vivir de acuerdo con el propósito por el que viniste a esta tierra?",
         ],
       },
     ],
@@ -143,7 +151,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Al envejecer Abraham, su más urgente preocupación era que su hijo Isaac encontrara una esposa que pudiera entrar con él en los convenios eternos. No había mujeres en Canaán que compartieran su fe, por lo que envió a su mayordomo a Harán —un viaje de casi dos mil kilómetros de ida— con esa misión sagrada. El mayordomo oró antes de llegar al pozo, pidiendo una señal específica de la mujer que el Señor había preparado para Isaac. Y lo extraordinario es que la respuesta llegó antes de que terminara de orar: Rebeca apareció en el momento preciso y actuó exactamente como el mayordomo había pedido. Esta narrativa nos enseña que el matrimonio eterno por convenio es tan central en el plan del Padre que Él mismo prepara las circunstancias para que Sus hijos puedan acceder a esa bendición. La doctrina del matrimonio celestial —sellado por la autoridad del sacerdocio en el templo— enseña que la familia puede ser eterna: no separada por la muerte, sino unida para siempre a través de los convenios. El presidente Henry B. Eyring prometió que quienes vivan dignos del Reino Celestial encontrarán que 'la situación de su familia será más maravillosa de lo que puedan imaginar.'",
+        contenido: "Abraham estaba envejeciendo. Su hijo Isaac era ya adulto, pero seguía soltero. El problema era real: en Canaán no había mujeres que compartieran su fe en el Dios verdadero. Sin un matrimonio por convenio, los convenios abrahámicos no podían continuar hacia la siguiente generación. Entonces Abraham tomó una decisión drástica: envió a su mayordomo de más confianza a Harán —un viaje de casi 1.900 kilómetros— con la misión de encontrar una esposa para Isaac entre los familiares de Abraham.\n\nEl mayordomo podría haberse sentido abrumado. Era una misión enorme, en una tierra desconocida, buscando a alguien que quizás no quería venir. Pero hizo lo que cualquier persona de fe haría primero: oró. Y no una oración vaga. Le pidió al Señor una señal específica —que la mujer elegida le ofreciera agua a él y a sus camellos— y la respuesta llegó antes de que terminara de orar. Rebeca apareció en el momento exacto y actuó exactamente como él había pedido.\n\nEsta historia enseña algo poderoso: el matrimonio eterno es tan central en el plan del Padre que Él mismo prepara el camino para que Sus hijos puedan acceder a esa bendición. Eso no significa que encontrás a la persona perfecta sin hacer nada. El mayordomo caminó casi dos mil kilómetros, oró con fe específica, y confió en el tiempo del Señor. La promesa del presidente Henry B. Eyring es clara: quienes viven dignos del Reino Celestial descubrirán que la situación de su familia será más maravillosa de lo que puedan imaginar.",
       },
       {
         tipo: "enseñanza",
@@ -184,17 +192,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "La historia de Isaac y Rebeca no es solo un relato de amor antiguo: es una ventana a la doctrina de que el matrimonio eterno es parte esencial del plan del Padre. El Señor estaba profundamente involucrado en ese proceso, y lo mismo puede ser cierto para cada uno de Sus hijos hoy. Vivir con dignidad, orar con fe específica y confiar en el tiempo del Señor son los mismos principios que guiaron al mayordomo de Abraham en aquel viaje. Cuando ponemos nuestra confianza en Él, Sus promesas se cumplen de maneras que superan nuestra imaginación.",
+        contenido: "La historia de Isaac y Rebeca no es un cuento de amor antiguo. Es evidencia de que Dios está profundamente involucrado en las cosas que más importan en nuestra vida —incluyendo la familia. El mayordomo oró con fe específica, caminó lo que fuera necesario, y confió en el tiempo del Señor. Esos mismos principios funcionan hoy. Vivir con dignidad para el templo, orar con fe concreta y confiar en que el Señor tiene un plan —eso es lo que transforma el matrimonio eterno de un concepto abstracto en una promesa personal.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué te enseña la oración del mayordomo —antes de llegar al pozo, con una petición muy específica— sobre cómo pedir ayuda al Señor en decisiones importantes?",
-          "¿De qué maneras prácticas puedes prepararte hoy para ser digno de un matrimonio eterno por convenio en el templo?",
-          "¿Qué confianza te da saber que el Señor preparó el camino para Isaac y puede hacer lo mismo en tu vida?",
-          "Rebeca demostró atributos como generosidad, prontitud para servir y valentía para decidir. ¿Qué atributo de Rebeca quisieras desarrollar más en tu vida?",
-          "El presidente Eyring dijo: 'simplemente viva digno del Reino Celestial.' ¿Qué cambio específico podrías hacer esta semana para vivir con mayor dignidad para el templo?",
-          "¿Cómo cambia tu perspectiva sobre el matrimonio eterno saber que Dios lo considera tan importante que interviene activamente para hacerlo posible?",
+          "¿Alguna vez pediste algo muy específico en oración y sentiste que el Señor respondió de una manera que no esperabas? ¿Cómo fue?",
+          "El mayordomo de Abraham oró con una petición muy concreta antes de llegar al pozo. ¿Cómo cambia eso la manera en que pensás en tus propias oraciones sobre decisiones importantes?",
+          "¿Cuáles atributos de Rebeca —su generosidad, su rapidez para servir, su valentía para decidir— te gustaría desarrollar más en tu vida y por qué?",
+          "El presidente Eyring prometió que quien vive digno del Reino Celestial tendrá una situación familiar 'más maravillosa de lo que pueda imaginar'. ¿Qué cosa concreta podés cambiar esta semana para vivir con más dignidad para el templo?",
+          "¿Cómo te ayuda saber que Dios preparó el camino para Isaac a confiar en Él con respecto a algo que en tu propia vida parece imposible o muy lejano?",
+          "Si alguien de tu edad te dijera que el matrimonio en el templo no le parece relevante, ¿qué le explicarías a partir de lo que aprendiste hoy?",
         ],
       },
     ],
@@ -209,7 +217,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Esaú era el primogénito de Isaac y tenía derecho a la primogenitura: una herencia doble de tierras y bienes, la responsabilidad de guiar a la familia después de la muerte de su padre, la bendición del sacerdocio y —lo más valioso— la transmisión de los convenios abrahámicos hacia sus descendientes. Sin embargo, un día que llegó exhausto del campo, vendió ese privilegio eterno a Jacob a cambio de un guisado de lentejas. Esta decisión impulsiva revela algo fundamental: cuando la necesidad inmediata —el hambre, el cansancio, el deseo urgente— nubla nuestro juicio, podemos intercambiar lo eterno por lo temporal sin siquiera darnos cuenta de lo que estamos perdiendo. El élder David A. Bednar advirtió que la preocupación a corto plazo con 'las cosas de este mundo' y 'los honores de los hombres' puede llevar a cualquiera de nosotros a perder su primogenitura espiritual 'por mucho menos que un guisado de lentejas.' En nuestros días, esa primogenitura espiritual incluye convenios del sacerdocio, el don del Espíritu Santo, los privilegios del templo y nuestra herencia como hijos del Padre Celestial. Las distracciones del mundo —redes sociales, popularidad, placeres inmediatos— pueden hacernos sacrificar esas bendiciones de la misma manera que lo hizo Esaú.",
+        contenido: "Imaginá que sos el mayor de dos hijos gemelos. Por derecho de nacimiento, todo está a tu favor: una doble porción de la herencia, el liderazgo de la familia, la bendición del sacerdocio, y —lo más valioso— la transmisión de los convenios abrahámicos hacia tus descendientes. Eso era la primogenitura de Esaú. Un privilegio espiritual enorme.\n\nPero Esaú llegó un día del campo agotado y con hambre. Su hermano Jacob tenía un guisado de lentejas listo. Y en ese momento de debilidad física —impulsivo, sin pensar en las consecuencias— Esaú cambió todo ese privilegio eterno por una sola comida. 'He aquí yo me voy a morir', dijo. No se estaba muriendo. Estaba hambriento y exageró. Y esa exageración le costó su herencia espiritual.\n\nEl élder David A. Bednar advirtió que la misma trampa nos espera hoy. Nuestra 'primogenitura espiritual' incluye convenios del bautismo, el don del Espíritu Santo, los privilegios del templo, y nuestra identidad como hijos del Padre Celestial. Las distracciones del mundo —una notificación en el teléfono, la presión de encajar, el entretenimiento que nos aleja del Espíritu— pueden hacernos sacrificar esas bendiciones de la misma manera que lo hizo Esaú: no en un gran momento de decisión, sino en un instante de debilidad sin pensar.\n\nLa buena noticia del Evangelio es que, a diferencia de Esaú que lloró sin poder revertir lo que hizo, nosotros siempre podemos arrepentirnos y renovar nuestros convenios. El Salvador no abandona a quien se vuelve hacia Él.",
       },
       {
         tipo: "enseñanza",
@@ -250,17 +258,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "La historia de Esaú nos advierte que las grandes pérdidas espirituales raramente suceden de golpe: ocurren en momentos de debilidad, cuando valoramos más el alivio inmediato que el privilegio eterno. Los convenios que hemos hecho con Dios —el bautismo, el sacerdocio, las ordenanzas del templo— son nuestra primogenitura espiritual. Protegerlos requiere evaluación constante de prioridades. La buena noticia es que, a diferencia de Esaú, siempre podemos arrepentirnos y renovar nuestros convenios. El Señor no abandona a quien se vuelve hacia Él.",
+        contenido: "Esaú no perdió su primogenitura en una batalla épica ni frente a una tentación dramática. La perdió en un momento ordinario de hambre, cansancio e impulsividad. Las pérdidas espirituales más grandes rara vez suceden de golpe: ocurren en pequeños momentos de debilidad cuando no tenemos claras nuestras prioridades. Los convenios que hiciste con Dios —el bautismo, el sacerdocio, las ordenanzas del templo— son tu primogenitura espiritual. Protegerlos requiere decidir, antes de que llegue el hambre, lo que vas a hacer cuando llegue.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿En qué situaciones de tu vida existe el riesgo de sacrificar algo eterno —un convenio, un principio, la integridad— por algo temporal o placentero?",
-          "¿Por qué crees que Esaú no valoró su primogenitura hasta que la perdió? ¿Cómo podemos evitar ese mismo error con nuestros privilegios espirituales?",
-          "El élder Bednar dice que podemos perder nuestra primogenitura espiritual 'por mucho menos que un guisado de lentejas.' ¿Qué cosas pequeñas y aparentemente inofensivas podrían estar erosionando tus prioridades eternas?",
-          "¿Qué bendiciones espirituales —convenios, hábitos de estudio, relación con el Espíritu— valoras y deseas proteger activamente en tu vida?",
-          "¿Cómo cambia tu actitud hacia los mandamientos saber que son parte de una 'primogenitura espiritual' y no simplemente reglas arbitrarias?",
-          "¿Cuál es el 'guisado de lentejas' que más fácilmente te tienta a dejar de lado lo eterno en tu vida?",
+          "¿Con qué situación del día a día te identificás más con Esaú —cansancio, presión, impaciencia— que podría hacerte tomar una mala decisión espiritual?",
+          "¿Alguna vez valoraste algo importante recién cuando lo perdiste o estuviste a punto de perderlo? ¿Qué aprendiste de eso?",
+          "El élder Bednar dice que podemos perder nuestra primogenitura espiritual 'por mucho menos que un guisado de lentejas'. ¿Qué cosa pequeña en tu vida —una aplicación, un hábito, una actitud— podría estar erosionando poco a poco tus prioridades eternas?",
+          "¿Qué bendición espiritual —un convenio, un hábito de estudio, tu relación con el Espíritu— valorás más y querés proteger activamente en tu vida?",
+          "A diferencia de Esaú, nosotros podemos arrepentirnos y renovar convenios. ¿Hay algo que perdiste o dejaste ir espiritualmente que esta semana podrías renovar o recuperar?",
+          "¿Cómo le explicarías a un amigo que los mandamientos y convenios no son 'restricciones' sino una herencia espiritual valiosa que vale la pena proteger?",
         ],
       },
     ],
@@ -275,7 +283,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "La historia de José hijo de Jacob es uno de los relatos más ricos del Antiguo Testamento como tipo y prefiguración de Jesucristo. A sus diecisiete años fue vendido como esclavo por sus propios hermanos por veinte piezas de plata —comparable a las treinta piezas que recibiría Judas—; fue llevado a Egipto, acusado falsamente y encarcelado durante años sin haber cometido ningún crimen. Sin embargo, hay una frase que se repite como un estribillo a lo largo de Génesis 39: 'Mas Jehová estaba con José.' Esa presencia divina no evitó las pruebas, pero sí las transformó. Finalmente, al interpretar el sueño del faraón —una habilidad que había desarrollado precisamente durante su encarcelamiento— fue elevado a ser el segundo hombre más poderoso de Egipto. El élder Dieter F. Uchtdorf enseñó que, aunque a veces nos sintamos 'sepultados por las pruebas de la vida o rodeados de tinieblas emocionales, el amor de Dios y las bendiciones del Evangelio harán que surja algo inimaginable.' Lo que los hermanos de José planearon para el mal, Dios lo encaminó para el bien de miles de personas. Ese principio —que el Señor puede convertir incluso nuestras pruebas más dolorosas en bendiciones— es la esperanza central de este relato.",
+        contenido: "Hay una fábula sobre un burro que cae en un pozo. El dueño empieza a echar tierra para taparlo. Pero el burro hace algo inesperado: cada vez que le cae tierra encima, se la sacude del lomo y pisa sobre ella. Palada tras palada, el burro va subiendo hasta que logra salir.\n\nEsa imagen describe perfectamente la historia de José hijo de Jacob. A los diecisiete años, sus propios hermanos lo vendieron como esclavo por veinte piezas de plata. Fue llevado a Egipto, acusado falsamente por la esposa de su amo, y encarcelado durante años por algo que no hizo. Cada palada de tierra parecía hundirlo más. Sin embargo, Génesis 39 repite cuatro veces una misma frase: 'Mas Jehová estaba con José.' Esa presencia no evitó las pruebas. Pero las transformó en escalones.\n\nCuando el faraón tuvo sueños que nadie pudo interpretar, llamaron a José. Y José —que había desarrollado el don de la interpretación precisamente durante su encarcelamiento— fue elevado a ser el segundo hombre más poderoso de Egipto. Lo que sus hermanos planearon para destruirlo, Dios lo usó para salvar miles de vidas durante siete años de hambre.\n\nJosé también es uno de los tipos más claros de Jesucristo en las Escrituras: vendido por piezas de plata por los más cercanos a Él, acusado sin culpa, y finalmente exaltado para salvar a Su pueblo. El élder Uchtdorf prometió que aunque nos sintamos 'sepultados por las pruebas de la vida', el amor de Dios hará que 'surja algo inimaginable.' Esa es la esperanza de la historia de José: las paladas de tierra no te entierran. Te elevan.",
       },
       {
         tipo: "enseñanza",
@@ -316,17 +324,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "José no fue un hombre sin pruebas: fue un hombre cuyas pruebas tenían propósito. La diferencia entre él y quienes se derrumban ante el sufrimiento es esa frase que se repite: 'Jehová estaba con José.' Esa presencia no lo libró de la cárcel, pero sí le dio poder para prosperar dentro de ella. El mismo principio se aplica a tu vida: el Señor no siempre quita las cargas de inmediato, pero siempre puede hacer que surja algo inimaginable a través de ellas, si permites que Él esté contigo.",
+        contenido: "José no fue un hombre sin pruebas. Fue un hombre cuyas pruebas tenían propósito. La diferencia entre él y quien se derrumba no es la cantidad de problemas: es esa frase que se repite, 'Jehová estaba con José.' El Señor no siempre quita las cargas de inmediato. Pero sí puede hacer que surja algo inimaginable a través de ellas —si permitís que Él esté con vos. Esta semana, cuando algo difícil llegue, en lugar de preguntar '¿por qué a mí?', intentá preguntar '¿qué está preparando el Señor a través de esto?'",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué significa para ti que 'Jehová estaba con José' incluso en la cárcel? ¿De qué manera concreta podría el Señor estar 'contigo' en tus circunstancias difíciles actuales?",
-          "¿Recuerdas alguna experiencia en que algo que parecía terrible resultó ser una bendición inesperada? ¿Cómo ves la mano de Dios en eso ahora?",
-          "José pasó años en la cárcel antes de ser liberado. ¿Cómo mantienes la fe cuando la respuesta del Señor tarda mucho más de lo que esperabas?",
-          "¿En qué aspectos de la historia de José ves paralelismos con la vida de Jesucristo? ¿Qué te dice eso sobre el propósito de esos relatos?",
-          "El élder Uchtdorf promete que 'surgirá algo inimaginable.' ¿Qué promesa de este tipo estás esperando ver cumplida en tu vida?",
-          "¿Cómo puede el ejemplo de José ayudarte a responder con más fe ante las circunstancias que no puedes controlar?",
+          "¿Con cuál de las etapas de la historia de José te identificás más ahora mismo: la traición, el desierto de esperar, o el momento de ver la mano de Dios en lo que viviste?",
+          "¿Recordás alguna situación de tu vida en que algo que parecía terrible resultó tener un propósito que no veías en ese momento? ¿Cómo lo ves ahora?",
+          "La frase 'Jehová estaba con José' se repite incluso cuando estaba en la cárcel. ¿De qué manera concreta podrías reconocer la presencia del Señor en tus circunstancias difíciles actuales?",
+          "¿En qué momentos de la historia de José ves paralelos con la vida de Jesucristo? ¿Qué te dice eso sobre el propósito de esos relatos en las Escrituras?",
+          "José esperó años antes de ser liberado. ¿Cómo mantenés la fe cuando la respuesta del Señor tarda mucho más de lo que esperás?",
+          "El élder Uchtdorf promete que 'surgirá algo inimaginable'. ¿Hay alguna situación difícil de tu vida ahora mismo que podrías entregar al Señor con esa promesa en mente?",
         ],
       },
     ],
@@ -341,7 +349,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "José, ya como mayordomo de la casa de Potifar, gozaba de prosperidad y confianza. Pero la esposa de su amo lo tentó repetidamente a quebrantar la ley de castidad. La respuesta de José fue clara y contundente: primero rechazó la tentación argumentando que hacerlo sería 'un grande mal' y pecar contra Dios. Segundo, cuando la tentación se intensificó al punto de que ella lo tomó de su ropa, José huyó literalmente, dejando su manto en manos de ella. No intentó encontrar términos medios ni racionalizar. Esta doble estrategia —rechazar y huir— es precisamente lo que el Señor enseña hoy para enfrentar tentaciones sexuales. El manual Para la Fortaleza de la Juventud enseña que la ley de castidad no es una restricción arbitraria: los sentimientos sexuales son sagrados, parte del poder creador que Dios nos ha dado, y fuera del matrimonio ese poder puede causar daño espiritual y emocional profundo. El élder David A. Bednar enseñó que las relaciones íntimas no son 'una conquista que lograr ni simplemente un acto que realizar', sino 'una de las máximas expresiones de nuestro potencial y naturaleza divinos.' Cuando José dijo '¿cómo pecaría yo contra Dios?', no estaba hablando de una regla: estaba defendiendo algo sagrado.",
+        contenido: "José había pasado de ser esclavo a mayordomo de confianza de Potifar, uno de los oficiales más importantes del faraón. Tenía poder, responsabilidades y la confianza de su amo. Pero también tenía un problema: la esposa de Potifar lo tentaba repetidamente a quebrantar la ley de castidad.\n\nLa respuesta de José es notable por su claridad. Primero, rechazó la tentación con un argumento teológico: 'No hay nadie más grande en esta casa que yo, y ninguna cosa me ha reservado. ¿Cómo, pues, haría yo este grande mal, y pecaría contra Dios?' No dijo 'no quiero', ni 'es muy riesgoso'. Dijo: esto sería un pecado contra Dios. Llamó al pecado por su nombre. Segundo, cuando la situación se volvió imposible de manejar y ella lo tomó de su manto, José huyó literalmente —dejó su ropa en sus manos y salió corriendo. No negoció. No buscó un término medio. Huyó.\n\nEsa doble estrategia —rechazar con claridad doctrinal y huir físicamente— es exactamente lo que el Señor enseña hoy para enfrentar tentaciones sexuales. El élder David A. Bednar enseñó que los sentimientos sexuales no son algo sucio: son parte del poder creador que Dios nos ha dado, y son sagrados. Fuera del matrimonio, ese poder puede causar daño espiritual y emocional profundo. Cuando José dijo '¿cómo pecaría yo contra Dios?', no estaba hablando de una regla: estaba defendiendo algo sagrado.\n\nLa ley de castidad no es una restricción arbitraria. Es la protección de uno de los dones más divinos que el Padre Celestial ha compartido con Sus hijos.",
       },
       {
         tipo: "enseñanza",
@@ -382,17 +390,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "La ley de castidad existe porque el cuerpo humano es sagrado —templo del Espíritu Santo— y porque el poder de crear vida es uno de los atributos más divinos que el Padre Celestial ha compartido con Sus hijos. Proteger ese poder a través de la virtud no es una limitación: es un acto de respeto hacia Dios, hacia uno mismo y hacia la familia que un día formaremos. Como José, la estrategia más eficaz ante la tentación no es negociar ni racionalizar: es rechazar y huir.",
+        contenido: "La ley de castidad existe porque el cuerpo humano es sagrado —templo del Espíritu Santo— y porque el poder de crear vida es uno de los atributos más divinos que el Padre Celestial ha compartido con Sus hijos. Proteger ese poder a través de la virtud no es una limitación: es un acto de respeto hacia Dios, hacia uno mismo y hacia la familia que un día formaremos. Como José, la estrategia más eficaz ante la tentación no es negociar: es rechazar con claridad y huir. Esta semana, identificá de antemano una situación que podría ponerte a prueba y decidí ahora cómo vas a responder.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Por qué crees que José llamó a esa tentación 'un grande mal' y 'pecar contra Dios'? ¿Cómo te ayuda esa perspectiva en tus propias decisiones?",
-          "¿Qué estrategias prácticas puedes usar para 'huir' —como José— de situaciones que pongan en riesgo la ley de castidad?",
-          "¿Cómo podrías explicarle a un amigo que la ley de castidad es una bendición y una protección, no una restricción arbitraria?",
-          "El élder Bednar describe las relaciones íntimas como 'una de las máximas expresiones de nuestro potencial divino.' ¿Cómo cambia esa perspectiva tu comprensión de la ley de castidad?",
-          "La tentación de José fue persistente y vino de alguien con poder sobre él. ¿Cómo te ayuda ese contexto a prepararte para resistir cuando las tentaciones parecen especialmente difíciles de evadir?",
-          "¿Qué papel juegan los medios de comunicación, las redes sociales y el entretenimiento en facilitar o dificultar el vivir la ley de castidad hoy?",
+          "José llamó a esa tentación 'un grande mal' y 'pecar contra Dios' —no simplemente 'algo incorrecto'. ¿Por qué importa nombrar las cosas con esa claridad?",
+          "¿Qué estrategias concretas podés preparar con anticipación para 'huir' —como José— de situaciones que pongan en riesgo la ley de castidad?",
+          "El élder Bednar describe las relaciones íntimas como 'una de las máximas expresiones de nuestro potencial divino'. ¿Cómo cambia esa perspectiva la manera en que entendés la ley de castidad?",
+          "La tentación de José era persistente y venía de alguien con poder sobre su carrera y su vida. ¿Cómo te ayuda ese contexto a prepararte para resistir cuando las tentaciones parecen especialmente difíciles de evadir?",
+          "¿Qué papel juegan las redes sociales, el entretenimiento y los grupos de amigos en hacer más fácil o más difícil vivir la ley de castidad en tu vida hoy?",
+          "Si un amigo te dijera que la ley de castidad le parece una regla anticuada, ¿cómo le explicarías que es una protección para algo sagrado, no una restricción arbitraria?",
         ],
       },
     ],
@@ -407,7 +415,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "El manual Para la Fortaleza de la Juventud enseña que fijar metas es parte esencial del crecimiento espiritual y temporal. No se trata de una simple técnica de productividad: es una práctica de discipulado. Cuando establecemos propósitos con fe, colaboramos activamente con el Señor en nuestro propio desarrollo. La doctrina de Jesucristo enseña que la vida mortal es un tiempo de preparación activa —no pasiva— para volver a la presencia del Padre Celestial. Esa preparación activa requiere intención: decidir quién queremos ser y dar pasos concretos en esa dirección. El Señor no hace por nosotros lo que nosotros podemos hacer por nosotros mismos, pero sí magnifica nuestro esfuerzo honesto. Doctrina y Convenios 58:27–28 enseña que el poder está en nosotros para hacer 'muchas cosas por nuestra propia voluntad' en la buena causa; Él no quiere hijos que esperen instrucciones para cada paso, sino discípulos que toman iniciativa con fe. Al mismo tiempo, Proverbios 16:3 nos recuerda que cuando 'encomendamos a Jehová nuestras obras', Él afirma nuestros pensamientos —es decir, alinea nuestra dirección con la Suya.",
+        contenido: "Fijar metas no es solo una técnica de productividad que te enseñan en la escuela. Cuando la hacés con fe, es una práctica de discipulado. Es decidir con intención quién querés ser y dar pasos concretos en esa dirección —colaborando activamente con el Señor en tu propio desarrollo.\n\nDoctrina y Convenios 58:27–28 dice que 'el poder está en nosotros' para hacer muchas cosas por nuestra propia voluntad en la buena causa. El Señor no quiere hijos que esperen instrucción divina para cada paso. Quiere discípulos que tomen iniciativa con fe. Al mismo tiempo, Proverbios 16:3 dice que cuando encomendamos a Jehová nuestras obras, Él afirma nuestros pensamientos —es decir, alinea nuestra dirección con la Suya.\n\nEstos dos principios no se contradicen: se complementan. Vos ponés el esfuerzo real, la planificación concreta, el hábito sostenido. Y el Señor magnifica ese esfuerzo honesto más allá de lo que podrías lograr solo.\n\nLas metas espirituales —leer las Escrituras diariamente, orar con más intención, prepararse para el templo o la misión— no son solo compromisos religiosos. Son decisiones sobre quién querés ser. Y cuando el Señor sabe que sos serio al respecto, Su ayuda se vuelve real y tangible. Como enseñó el élder Bednar, 'pedir que Dios nos ayude a alcanzar metas buenas y santas no es presunción; es fe.'",
       },
       {
         tipo: "enseñanza",
@@ -442,17 +450,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "Fijar metas alineadas con los valores del Evangelio no es solo planificación personal: es una expresión de fe en que el Padre Celestial tiene un plan para ti y quiere que colabores activamente en él. Las metas espirituales —leer las Escrituras, orar, servir, prepararse para el templo o la misión— son compromisos que nos ayudan a convertirnos en la persona que el Señor nos llama a ser. Y cuando lo incluimos a Él en el proceso, nuestro esfuerzo es magnificado más allá de lo que podríamos lograr solos.",
+        contenido: "Fijar metas alineadas con los valores del Evangelio es una expresión de fe en que el Padre Celestial tiene un plan para vos y quiere que colabores activamente en él. No alcanza con tener buenas intenciones: necesitás metas concretas, pequeñas y alcanzables que te muevan en la dirección correcta. Esta semana, elegí una meta espiritual específica —no vaga— y escribila. Después encomendásela al Señor en oración y empezá hoy.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Cuál es una meta espiritual que quisieras alcanzar este año? ¿Cómo puedes involucrar al Señor activamente en ese proceso?",
-          "¿Qué obstáculos suelen impedirte cumplir tus metas? ¿Cómo podría ayudarte la fe en Cristo a superarlos específicamente?",
-          "DyC 58 dice que el poder está 'en nosotros' para hacer el bien. ¿Cómo equilibras tomar iniciativa propia con depender del Señor?",
-          "¿De qué manera tus metas actuales te acercan —o te alejan— de la persona que el Señor te llama a ser?",
-          "¿Cómo podrías convertir una meta académica o laboral en también una meta espiritual?",
-          "¿Cuál es el área de tu vida —física, intelectual, espiritual, social— en la que más necesitas fijar una meta esta semana?",
+          "¿Cuál es una meta que querés alcanzar este año pero que todavía no pusiste en palabras concretas? ¿Qué te impide hacerlo?",
+          "¿Alguna vez sentiste que una meta que te fijaste fue más fácil de cumplir porque la pusiste en oración primero? ¿Cómo fue esa experiencia?",
+          "DyC 58 dice que el poder está 'en nosotros' para hacer el bien. ¿Cuándo fue la última vez que tomaste iniciativa espiritual —sin que nadie te lo pidiera— y cómo te sentiste?",
+          "¿De qué manera tus metas actuales —académicas, sociales, espirituales— te acercan o te alejan de la persona que el Señor te llama a ser?",
+          "¿Cómo podrías convertir una meta académica o laboral en también una meta espiritual? Poné un ejemplo concreto de tu propia vida.",
+          "Esta semana, ¿cuál es una meta pequeña pero real que vas a fijar en el área de tu vida —física, intelectual, espiritual, social— donde más la necesitás?",
         ],
       },
     ],
@@ -467,7 +475,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "El programa de Dominio de la Doctrina ayuda a los alumnos a edificar su fe en Jesucristo sobre una base firme e inamovible. Vivimos en un tiempo en que las preguntas difíciles sobre la historia, la doctrina y las prácticas de la Iglesia son frecuentes y fácilmente accesibles. Sin un cimiento sólido, esas preguntas pueden sacudir —o incluso destruir— la fe. El presidente Russell M. Nelson advirtió que 'en los días que vienen, no será posible sobrevivir espiritualmente sin la orientación del Espíritu Santo.' La metáfora de Helamán 5:12 es poderosa: el cimiento sobre la roca de Cristo no es la ausencia de tormentas, sino la capacidad de permanecer en pie cuando las tormentas llegan. Esta lección invita a entender que el Dominio de la Doctrina no es memorizar respuestas —aunque la memorización de escrituras clave es parte de él— sino desarrollar la capacidad de adquirir conocimiento espiritual por medio de tres fuentes que se complementan: el Espíritu Santo, las Escrituras y las palabras de los profetas vivos. Un cimiento espiritual sólido transforma las preguntas difíciles de ser amenazas a ser oportunidades para crecer en comprensión y fe.",
+        contenido: "¿Qué pasa cuando alguien que conocés publica en Instagram un video que 'desmiente' algo de la historia de la Iglesia? ¿O cuando un familiar te pregunta algo sobre la doctrina que no sabés responder? ¿O cuando te encontrás leyendo algo que sacude lo que creías saber?\n\nEso le pasa a mucha gente. Y la diferencia entre quien sobrevive espiritualmente a esas sacudidas y quien no, no es la cantidad de respuestas que sabe. Es la profundidad del cimiento sobre el que está parado.\n\nHelamán 5:12 describe ese cimiento: construir sobre la roca de Cristo no garantiza que no habrá tormentas. Garantiza que cuando lleguen —y llegarán— vas a poder mantenerte en pie. El presidente Russell M. Nelson fue directo: 'En los días que vienen, no será posible sobrevivir espiritualmente sin la orientación del Espíritu Santo.'\n\nEl programa de Dominio de la Doctrina te ayuda a construir ese cimiento. No es memorizar respuestas para un examen. Es desarrollar la capacidad de obtener conocimiento espiritual de tres fuentes que se complementan: el Espíritu Santo, las Escrituras y las palabras de los profetas vivos. Con esas tres fuentes funcionando juntas, las preguntas difíciles dejan de ser amenazas y se convierten en oportunidades para crecer en comprensión y fe.\n\nEl cimiento no se construye de una vez. Se edifica ladrillo a ladrillo, día a día, hábito a hábito.",
       },
       {
         tipo: "enseñanza",
@@ -502,17 +510,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "El cimiento espiritual no se construye de una vez: se edifica ladrillo a ladrillo, día a día, a través de hábitos de estudio, oración y obediencia. Cada escritura memorizada, cada pregunta difícil abordada con fe, cada impresión del Espíritu honrada son piedras que refuerzan ese cimiento. Cuando lleguen las tormentas —y llegarán— lo que determinará si permaneces en pie no será la ausencia de preguntas, sino la profundidad del cimiento sobre el que te has edificado.",
+        contenido: "El cimiento espiritual no se construye en un campamento de la Iglesia ni en un momento emotivo de testimonio. Se construye con hábitos diarios: una escritura estudiada con atención, una oración honesta, una pregunta difícil abordada con fe en lugar de evitada. Cuando lleguen las tormentas —y van a llegar— lo que determinará si te mantenés en pie no será la ausencia de preguntas, sino la profundidad del cimiento que construiste antes de que llegaran.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué parte de tu fe sientes que tiene el cimiento más sólido? ¿En qué área te gustaría fortalecerlo más?",
-          "¿Cómo describirías la diferencia entre 'saber las respuestas del Evangelio' y tener un cimiento espiritual firme que te sostenga cuando viene la tormenta?",
-          "El presidente Nelson dice que 'no será posible sobrevivir espiritualmente sin el Espíritu Santo.' ¿Qué hábitos concretos te ayudan a mantener esa guía en tu vida?",
-          "¿Qué preguntas difíciles sobre la Iglesia o el Evangelio has tenido? ¿Cómo las has abordado y qué has aprendido en ese proceso?",
-          "¿Qué hábito espiritual —oración, estudio de Escrituras, asistencia al templo, servicio— te ayuda más a edificar tu cimiento en Jesucristo?",
-          "Si alguien que conoces está pasando por una crisis de fe, ¿qué le dirías basándote en lo que has aprendido sobre edificar sobre la roca de Cristo?",
+          "¿Qué parte de tu fe sentís que tiene el cimiento más sólido ahora mismo? ¿En qué área te gustaría fortalecerlo más?",
+          "¿Alguna vez enfrentaste una pregunta difícil sobre la Iglesia o el Evangelio? ¿Cómo la manejaste y qué aprendiste en ese proceso?",
+          "El presidente Nelson dice que 'no será posible sobrevivir espiritualmente sin el Espíritu Santo'. ¿Qué hábitos concretos te ayudan a mantener esa guía activa en tu vida cotidiana?",
+          "¿Cuál es la diferencia entre 'saber las respuestas del Evangelio' y tener un cimiento espiritual firme que te sostenga cuando viene la tormenta?",
+          "Si alguien que conocés está pasando por una crisis de fe —dudando de cosas que antes creía—, ¿qué le dirías basándote en lo que aprendiste sobre edificar sobre la roca de Cristo?",
+          "¿Qué hábito espiritual —oración, estudio de Escrituras, asistencia al templo, servicio— vas a fortalecer esta semana como una piedra más en tu cimiento?",
         ],
       },
     ],
@@ -527,7 +535,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Vivimos en una era en que la tecnología está presente en casi todos los momentos del día. Para los Santos de los Últimos Días, su uso no es neutral: puede ser una herramienta poderosa para el bien —compartir el Evangelio, acceder a las Escrituras, conectar con familia y amigos, aprender— o una puerta de entrada a contenidos y hábitos que alejan del Espíritu. La doctrina de Jesucristo enseña que el Espíritu Santo es una influencia delicada que se puede apagar fácilmente mediante el pecado, el entretenimiento vulgar, la ociosidad o el consumo de contenido que viola la ley de castidad o incita a la violencia. Esta lección invita a evaluar el uso de la tecnología usando las enseñanzas del Salvador como estándar. Moroni 7:16 ofrece una regla de oro práctica: 'Todo lo que os invite a hacer el bien y a persuadiros a creer en Cristo es enviado por el poder de Cristo.' La pregunta central no es '¿qué prohíbe la Iglesia?' sino '¿este uso me acerca o me aleja del Espíritu Santo?' Esa pregunta personal, aplicada con honestidad, puede transformar la relación de cualquier joven con la tecnología.",
+        contenido: "¿Cuántas veces abriste una aplicación hoy sin una razón específica? ¿Cuánto tiempo pasaste mirando contenido que no buscabas, simplemente porque apareció en tu feed? Para la mayoría de los jóvenes, la tecnología es el ambiente más constante de su vida: más tiempo de pantalla que de conversación cara a cara, más notificaciones que momentos de silencio.\n\nEso no es necesariamente malo. Un teléfono puede ser el portal a las Escrituras, al estudio del Evangelio, a la conexión con familia lejana, al aprendizaje. O puede ser la mayor distracción de tu vida espiritual. La diferencia no está en el dispositivo: está en cómo lo usás.\n\nLa doctrina de Jesucristo enseña que el Espíritu Santo es una influencia delicada que puede apagarse fácilmente: mediante el pecado, sí, pero también mediante la ociosidad, el entretenimiento que embota la mente, o el consumo de contenido que viola la ley de castidad. Moroni 7:16 ofrece un filtro práctico y concreto: 'Todo lo que os invite a hacer el bien y a persuadiros a creer en Cristo es enviado por el poder de Cristo.' La pregunta no es '¿qué prohíbe la Iglesia?' La pregunta es más personal: '¿este uso me acerca o me aleja del Espíritu Santo?'\n\nEsa pregunta, hecha con honestidad, puede transformar tu relación con la tecnología. No se trata de eliminar las pantallas. Se trata de gobernarlas con intención y con el estándar del Salvador.",
       },
       {
         tipo: "enseñanza",
@@ -562,17 +570,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "La tecnología es solo una herramienta: su valor moral depende completamente de cómo la usamos. Un teléfono puede ser el portal a las Escrituras, al estudio del Evangelio y al servicio; o puede ser el mayor obstáculo para la oración, la reflexión espiritual y las relaciones humanas reales. El Señor no nos pide que eliminemos la tecnología, sino que la gobernemos con sabiduría y con el estándar de lo que invita al Espíritu Santo.",
+        contenido: "La tecnología es solo una herramienta. Su valor moral depende completamente de cómo la usás. El Señor no te pide que elimines el teléfono: te pide que lo goberné con sabiduría y con el estándar de lo que invita al Espíritu Santo. Esta semana, revisá tu uso con el filtro de Moroni 7:16 y elegí un cambio concreto: un límite de tiempo, una aplicación que borrar, o un momento del día sin pantalla dedicado a la oración.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué aspecto de tu uso actual de la tecnología —redes sociales, entretenimiento, videojuegos, etc.— te acerca al Espíritu Santo, y cuál te aleja de Él?",
-          "Usando Moroni 7:16 como filtro: ¿qué aplicaciones o contenidos de tu teléfono o computadora pasarían esa prueba y cuáles no?",
-          "¿Cómo podrías usar la tecnología esta semana de una forma intencional que fortalezca tu relación con el Padre Celestial?",
-          "¿Qué límites personales —horas de uso, tipos de contenido, horarios sin pantalla— podrías establecer para proteger tu tiempo de oración y estudio?",
-          "¿De qué manera la ociosidad digital —pasar horas sin propósito en redes sociales— puede afectar tu vida espiritual tanto como el consumo de contenido dañino?",
-          "¿Cómo responderías a alguien que dice: 'la tecnología no tiene nada que ver con la espiritualidad'?",
+          "¿Qué aplicación o tipo de contenido en tu teléfono te acerca al Espíritu Santo, y cuál te aleja de Él? Sé específico.",
+          "Usando Moroni 7:16 como filtro: ¿qué aplicaciones o contenidos de tu dispositivo pasarían esa prueba y cuáles no?",
+          "¿Alguna vez sentiste que después de pasar mucho tiempo en redes sociales te sentías peor —más ansioso, más distraído, menos en paz— que antes de entrar? ¿Qué te dice eso?",
+          "¿Qué límite personal concreto —horas de uso, tipo de contenido, horarios sin pantalla— podrías establecer esta semana para proteger tu tiempo de oración y estudio?",
+          "¿Cómo podrías usar la tecnología esta semana de una manera intencional que fortalezca tu relación con el Padre Celestial en lugar de debilitarla?",
+          "Si alguien te dijera que la tecnología no tiene nada que ver con la espiritualidad, ¿qué le responderías con lo que aprendiste hoy?",
         ],
       },
     ],
@@ -587,7 +595,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Años después de ser vendido por sus hermanos, José era el hombre más poderoso de Egipto después del faraón. Cuando sus hermanos llegaron a comprar alimento durante la gran hambruna, José los reconoció de inmediato pero ellos no lo reconocieron a él. En lugar de vengarse, José puso a prueba sus corazones: quería saber si habían cambiado. Cuando Judá —el mismo que había propuesto venderlo— ofreció quedarse en prisión en lugar de su hermano Benjamín, José vio que sí habían cambiado. Y entonces, en uno de los momentos más emocionantes de las Escrituras, se reveló a sus hermanos llorando: 'Yo soy José, vuestro hermano.' La respuesta de José al miedo y la vergüenza de sus hermanos fue extraordinaria: les dijo que no se entristeciesen, porque Dios había usado todo aquello para un bien mayor. El presidente Russell M. Nelson enseñó que si el perdón parece imposible, debemos suplicar por el poder de la sangre expiatoria de Jesucristo para ayudarnos. El perdón de José no justificó lo que sus hermanos hicieron; pero los liberó a ellos y lo liberó a él. Como tipo de Jesucristo, José demostró que la misericordia puede coexistir con la justicia, y que el amor puede sobrevivir a la traición.",
+        contenido: "Habían pasado más de veinte años. José era ahora el segundo hombre más poderoso de Egipto. Sus hermanos —los mismos que lo habían vendido como esclavo— llegaron a comprar comida durante la gran hambruna, sin reconocerlo. José podría haberse vengado. Tenía todo el poder para hacerlo. En cambio, eligió ponerlos a prueba: quería saber si habían cambiado.\n\nEl momento clave llegó cuando Judá —el mismo que había propuesto venderlo años antes— se ofreció a quedarse como esclavo en lugar de su hermano menor Benjamín. Era evidencia de que algo en ellos había cambiado profundamente. Y entonces José no pudo contenerse más. Ordenó que salieran todos sus sirvientes egipcios, y en ese momento de privacidad, llorando, dijo: 'Yo soy José, vuestro hermano.'\n\nLa respuesta de José al miedo y la vergüenza de sus hermanos fue extraordinaria. 'No os entristezcáis, ni os pese de haberme vendido acá; porque para preservación de vida me envió Dios delante de vosotros.' No justificó lo que habían hecho. Pero eligió ver la mano de Dios en todo lo que había sufrido.\n\nEl presidente Russell M. Nelson enseñó que si el perdón parece imposible —cuando lo que ocurrió fue realmente grave—, podemos suplicar por el poder de la sangre expiatoria de Jesucristo para ayudarnos. El perdón no es un sentimiento que llega solo: a veces es un poder que hay que pedir. José lo demostró: como tipo de Jesucristo, mostró que la misericordia puede coexistir con la justicia, y que el amor puede sobrevivir a la traición más profunda.",
       },
       {
         tipo: "enseñanza",
@@ -628,17 +636,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "José no perdonó a sus hermanos porque lo que hicieron estuviera bien: los perdonó porque entendió que el Señor puede convertir incluso la traición en providencia. Ese mismo principio está disponible para cada uno de nosotros: a través de la Expiación de Jesucristo, tenemos acceso al poder de perdonar lo que humanamente parecería imperdonable. El perdón libera al que perdona tanto como —o más que— al perdonado.",
+        contenido: "José no perdonó a sus hermanos porque lo que hicieron estuvo bien. Los perdonó porque entendió que el Señor puede convertir incluso la traición en providencia. Ese mismo poder está disponible para vos. A través de la Expiación de Jesucristo, tenés acceso a la capacidad de perdonar lo que humanamente parecería imperdonable. Y el presidente Nelson promete algo concreto a quienes lo intentan: paz personal. El perdón libera al que perdona tanto como —o más que— al perdonado.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
           "¿Qué te impresiona más de la respuesta de José cuando se reveló a sus hermanos? ¿Qué dice eso sobre su carácter?",
-          "¿Has vivido alguna experiencia en la que perdonar a alguien te liberó más a ti que a la otra persona? ¿Cómo fue ese proceso?",
-          "El presidente Packer describe el resentimiento como golpearse a uno mismo con el garrote del que te ofendió. ¿Cómo cambia esa imagen tu perspectiva sobre el perdón?",
-          "¿En qué aspectos ves a José como un tipo o prefiguración de Jesucristo? ¿Qué paralelos específicos encuentras?",
-          "El presidente Nelson promete 'paz personal' a quienes piden el poder de Cristo para perdonar. ¿Hay alguien en tu vida a quien necesites perdonar y a quien podrías llevar al Salvador en oración?",
-          "¿Cómo puede la historia de José darte esperanza en situaciones donde sientes que las personas o las circunstancias han actuado injustamente contra ti?",
+          "¿Hay alguien en tu vida a quien te resulte difícil perdonar? No necesitás nombrarlo, pero ¿cómo te afecta a vos esa falta de perdón?",
+          "El presidente Packer compara el resentimiento con golpearse con el mismo garrote del que te ofendió. ¿Cambia esa imagen la manera en que pensás sobre sostener un rencor?",
+          "¿En qué aspectos ves a José como un tipo o prefiguración de Jesucristo? ¿Qué paralelos específicos encontrás?",
+          "El presidente Nelson promete 'paz personal' a quienes piden el poder de Cristo para perdonar. ¿Estarías dispuesto esta semana a pedir en oración ese poder con respecto a alguien específico?",
+          "¿Cómo puede la historia de José darte esperanza en situaciones donde sentís que las personas o las circunstancias actuaron injustamente contra vos?",
         ],
       },
     ],
@@ -653,7 +661,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "La Traducción de José Smith (TJS) de Génesis 50 restaura material que fue quitado de las Escrituras en tiempos antiguos. En ese texto restaurado, José hijo de Jacob profetizó que en los últimos días el Señor levantaría 'un escogido' de entre sus descendientes —alguien que llevaría el nombre de su padre y del padre de su padre— para restaurar las verdades del Evangelio. Esta profecía apunta inconfundiblemente a José Smith: cuyo padre se llamaba José Smith padre, y cuyo bisabuelo también tenía ese nombre. Esta profecía fue registrada miles de años antes del nacimiento de José Smith, lo que demuestra que la Restauración no fue un accidente histórico ni el invento de un hombre: fue un plan deliberado y antiguo de Dios. Esta lección también refuerza la doctrina de que la Restauración completa del Evangelio —con sus sacerdocios, convenios, ordenanzas y Escrituras— era necesaria porque las llaves y las verdades habían sido quitadas de la tierra. El profeta José Smith fue el instrumento elegido para devolverlas.",
+        contenido: "¿Puede alguien profetizar sobre una persona específica miles de años antes de que nazca, nombrando incluso el nombre de su padre? Eso es exactamente lo que registra la Traducción de José Smith de Génesis 50.\n\nEn ese texto restaurado por revelación divina, José hijo de Jacob profetizó que en los últimos días el Señor levantaría 'un escogido' de entre sus descendientes. Ese hombre llevaría el nombre de su padre y también el nombre del padre de su padre. Vendría para restaurar las verdades del Evangelio que habían sido quitadas de la tierra. La profecía apunta con una precisión imposible de ignorar a José Smith: cuyo padre era José Smith padre, y cuyo bisabuelo también llevaba ese nombre.\n\nEsta no es solo una curiosidad histórica. Es evidencia de que la Restauración no fue el invento de un hombre entusiasta ni un accidente del siglo XIX. Fue un plan deliberado y antiguo del Padre Celestial, preparado con cuidado y anunciado con anticipación. El mismo Señor que planificó la venida de José Smith también planificó la dispensación en la que vivimos nosotros.\n\nDoctrina y Convenios 135:3 dice que José Smith hizo más por la salvación de los hombres en este mundo que cualquier otro ser humano excepto solamente Jesús. Esa no es una afirmación casual: es la evaluación del Señor sobre el hombre que Él preparó desde antes de nacer para restaurar la plenitud del Evangelio.",
       },
       {
         tipo: "enseñanza",
@@ -670,7 +678,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
             link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/3?lang=spa&id=p14-p15#p14",
           },
           {
-            referencia: "Amos 3:7",
+            referencia: "Amós 3:7",
             texto: "No hará nada el Señor Jehová sin que revele su secreto a sus siervos los profetas.",
             link: "https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=spa&id=p7#p7",
           },
@@ -683,17 +691,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "El hecho de que la venida de José Smith fuera profetizada por un José anterior —miles de años antes— es una evidencia poderosa de que el Señor dirige Su obra con propósito y visión eterna. La Restauración no fue improvisada: fue planeada. Y si el Señor planificó cuidadosamente la Restauración, también ha planificado cuidadosamente tu papel en Su obra en esta dispensación.",
+        contenido: "Que la venida de José Smith fuera profetizada miles de años antes de su nacimiento —por nombre y linaje— es una de las evidencias más poderosas de que el Señor dirige Su obra con visión eterna, no con improvisación. La Restauración fue planeada. Y si el Señor planificó tan cuidadosamente la Restauración, también tiene un plan cuidadoso para tu papel en Su obra en esta dispensación. Ningún detalle está fuera de Su vista.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Cómo fortalece tu testimonio saber que la venida de José Smith fue profetizada siglos antes de su nacimiento?",
-          "¿Qué significa para ti que el Señor planificara la Restauración desde tiempos tan antiguos? ¿Cómo habla eso de la naturaleza de Dios?",
-          "¿Cuál es la evidencia de la Restauración que más impacto tiene en tu testimonio personal?",
-          "La profecía fue quitada de las Escrituras originales y restaurada a través de José Smith. ¿Qué nos dice eso sobre la necesidad de tener profetas vivos y Escrituras restauradas?",
-          "Si alguien te pregunta por qué crees que José Smith fue un profeta real, ¿cómo usarías esta profecía en tu respuesta?",
-          "¿Qué papel crees que tienes tú en la Restauración continua del Evangelio en nuestros días?",
+          "¿Qué te parece más impresionante de esta profecía: que menciona el nombre, el linaje, o la misión específica de José Smith? ¿Por qué?",
+          "¿Cómo fortalece tu testimonio saber que la venida de José Smith fue anunciada siglos antes de su nacimiento?",
+          "¿Qué nos dice sobre la naturaleza de Dios el hecho de que haya planeado la Restauración con tanto detalle y tan anticipadamente?",
+          "La profecía fue quitada de las Escrituras originales y restaurada a través de José Smith. ¿Qué nos dice eso sobre la importancia de tener profetas vivos y Escrituras restauradas hoy?",
+          "Si alguien te preguntara por qué creés que José Smith fue un profeta real, ¿cómo usarías esta profecía como parte de tu respuesta?",
+          "¿Qué papel creés que tenés vos en la Restauración continua del Evangelio en nuestros días, en tu familia, tu barrio o tu comunidad?",
         ],
       },
     ],
@@ -708,7 +716,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Las lecciones de 'Evalúa tu aprendizaje' son momentos deliberados para hacer una pausa y reflexionar sobre el crecimiento espiritual. No se trata de un examen académico: es una invitación del Señor a evaluar qué tan profundamente hemos dejado que Su palabra cambie nuestro corazón. En este segundo momento de evaluación, los alumnos han recorrido el estudio desde la creación del mundo hasta el final del libro de Génesis —desde Abraham hasta José de Egipto. Han aprendido sobre el plan de salvación, los convenios patriarcales, el simbolismo del matrimonio eterno, la transformación de las pruebas en bendiciones, y la prefiguración de Jesucristo en varios de estos personajes. Alma 5:26 hace una pregunta que puede guiar esta reflexión: '¿Podéis sentir ahora?' No pregunta si conoces las doctrinas, sino si las estás viviendo. El verdadero aprendizaje espiritual no termina en la cabeza: termina en el corazón y se expresa en el comportamiento.",
+        contenido: "Hay una pregunta en Alma 5:26 que no es para el examen. Es para el corazón: '¿Podéis sentir eso ahora?' No pregunta si sabés las doctrinas del Evangelio. Pregunta si las estás viviendo.\n\nEste segundo momento de evaluación es una pausa para mirar hacia atrás y hacia adentro. Desde la creación del mundo hasta el final de Génesis, has recorrido algunos de los relatos más profundos de las Escrituras: el Plan de Salvación presentado en el concilio celestial, los convenios de Abraham, el matrimonio eterno de Isaac y Rebeca, la elección de Esaú de cambiar lo eterno por lo temporal, la providencia de Dios en la historia de José, y el perdón extraordinario que José extendió a sus hermanos.\n\nNo es un repaso académico. Es una invitación a preguntarse: ¿qué de todo esto ha cambiado algo en mí? ¿Ha cambiado la manera en que trato a mi familia? ¿La manera en que enfrento las pruebas? ¿La disposición a perdonar a alguien que me hirió?\n\nSantiago 1:22 lo dice con claridad: la diferencia entre ser oyente y ser hacedor de la palabra es la diferencia entre conocer el Evangelio y vivirlo. El verdadero aprendizaje espiritual no termina en la cabeza. Termina en el corazón y se expresa en el comportamiento.",
       },
       {
         tipo: "escrituras",
@@ -728,12 +736,12 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué verdad doctrinal de las semanas pasadas —desde Génesis hasta ahora— ha cambiado o profundizado más tu comprensión del Evangelio?",
-          "¿En qué área de tu vida has notado más crecimiento espiritual desde que comenzaste el año?",
-          "¿Hay algo que hayas aprendido que quieras compartir con alguien más? ¿Con quién y cómo?",
-          "Alma 5:26 pregunta si 'puedes sentir eso ahora.' ¿Qué tan presente está en tu vida actual el amor del Salvador que aprendiste en estas lecciones?",
-          "¿Qué personaje del Antiguo Testamento estudiado hasta ahora —Abraham, Isaac, Rebeca, Esaú, Jacob, José— te ha hablado más profundamente? ¿Por qué?",
-          "¿Cuál es un cambio específico en tus hábitos espirituales que harás basándote en lo que has aprendido?",
+          "¿Qué personaje del Antiguo Testamento estudiado hasta ahora —Abraham, Isaac, Rebeca, Esaú, Jacob, José— te habló más profundamente y por qué?",
+          "¿Qué verdad doctrinal de las últimas semanas cambió o profundizó más tu comprensión del Evangelio?",
+          "Alma 5:26 pregunta si 'podés sentir eso ahora'. ¿Qué tan presente está en tu vida actual el amor del Salvador que aprendiste en estas lecciones?",
+          "¿Hay algo que aprendiste y querés compartir con alguien más? ¿Con quién y de qué forma concreta podrías hacerlo esta semana?",
+          "¿En qué área de tu vida notás más crecimiento espiritual desde que comenzaste el año de Seminario?",
+          "¿Cuál es un cambio específico en tus hábitos espirituales que harás a partir de lo que aprendiste en estas semanas?",
         ],
       },
     ],
@@ -748,7 +756,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Una de las habilidades más valiosas que un alumno de Seminario puede desarrollar es la capacidad de ver a Jesucristo en todo el canon de las Escrituras. Cuando el Salvador resucitado se apareció a los discípulos en el camino a Emaús, 'comenzando desde Moisés y siguiendo por todos los profetas, les declaraba en todas las Escrituras lo que de él decían' (Lucas 24:27). Esto revela que el Salvador mismo vio toda la Escritura hebrea como un testimonio de Su misión. Esta lección enseña técnicas prácticas para descubrir esa presencia: buscar Sus nombres y títulos (Jehová, el Señor, el Santo de Israel), reconocer las ordenanzas que prefiguran Sus ordenanzas —el cordero pascual anticipa la Expiación, el tabernáculo prefigura el templo—, identificar relatos que son 'tipos' de Su misión —José vendido por veinte piezas de plata, Moisés elevando la serpiente de bronce—, y notar las profecías mesiánicas explícitas que se dispersan a lo largo del Antiguo Testamento, especialmente en Isaías. El élder D. Todd Christofferson enseñó que 'Jesucristo es el tema central de todas las Escrituras. Cada libro, cada profeta, cada convenio apunta hacia Él y hacia Su Expiación.'",
+        contenido: "Después de Su resurrección, Jesús caminó junto a dos discípulos en el camino a Emaús sin que lo reconocieran. Durante horas les habló. Y Lucas registra algo notable: 'comenzando desde Moisés y siguiendo por todos los profetas, les declaraba en todas las Escrituras lo que de él decían.' El Salvador mismo usó el Antiguo Testamento completo para enseñar sobre Sí mismo. Eso significa que Él veía cada relato, cada profecía, cada ordenanza como un testimonio de Su misión.\n\nAprender a ver lo que Él veía es una habilidad que se desarrolla. Hay cuatro técnicas principales. Primero, buscar Sus nombres y títulos: Jehová, el Santo de Israel, el Ángel del Señor. Cuando aparecen, es Cristo. Segundo, identificar tipos y prefiguraciones: José vendido por veinte piezas de plata prefigura a Cristo vendido por treinta; el cordero pascual sin defecto prefigura la ofrenda perfecta de Cristo en la Expiación. Tercero, reconocer ordenanzas que apuntan a las Suyas: el tabernáculo prefigura el templo; los sacrificios prefiguran la Expiación. Cuarto, notar las profecías mesiánicas explícitas, especialmente en Isaías 53, donde cada verso describe con precisión sorprendente la Pasión del Salvador.\n\nEl élder D. Todd Christofferson lo dijo sin rodeos: Jesucristo es el tema central de todas las Escrituras. No algunos libros. No el Nuevo Testamento nada más. Todas las Escrituras —incluyendo las más antiguas y difíciles del Antiguo Testamento— apuntan a Él y a Su Expiación.",
       },
       {
         tipo: "enseñanza",
@@ -778,17 +786,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "Aprender a ver a Jesucristo en el Antiguo Testamento no es una habilidad académica: es una práctica espiritual que transforma el estudio de las Escrituras en un encuentro personal con el Salvador. Cada vez que reconoces un tipo, una profecía o una enseñanza que apunta a Cristo, estás viendo lo que Él mismo veía cuando decía: 'las Escrituras dan testimonio de mí.' Con el tiempo, esa capacidad se convierte en un lente a través del cual todo el Evangelio se vuelve más claro y más real.",
+        contenido: "Aprender a ver a Jesucristo en el Antiguo Testamento no es una habilidad académica para impresionar en clase. Es una práctica espiritual que transforma el estudio de las Escrituras en un encuentro personal con el Salvador. Cada vez que reconocés un tipo, una profecía o un nombre divino que apunta a Cristo, estás viendo lo que Él mismo veía. Con el tiempo, ese lente se convierte en la manera natural en que abrís las Escrituras. Esta semana, elegí un pasaje del Antiguo Testamento que ya conocés y buscá activamente la presencia de Cristo en él usando alguna de las técnicas que aprendiste.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿En qué relato del Antiguo Testamento —de los que hemos estudiado— puedes ver a Jesucristo más claramente?",
-          "¿Qué técnica de estudio —buscar nombres de Cristo, tipos, ordenanzas prefigurativas, profecías mesiánicas— te ayuda más a descubrir la presencia del Salvador?",
-          "¿Qué personaje o historia del Antiguo Testamento te parece el tipo más claro de la misión del Salvador, y por qué?",
-          "El Salvador usó las Escrituras del Antiguo Testamento para enseñar sobre Sí mismo. ¿Cómo podrías usar un pasaje del Antiguo Testamento para compartir tu testimonio de Cristo con alguien?",
-          "¿Cómo cambia tu experiencia de estudio de las Escrituras cuando activamente buscas al Salvador en ellas en lugar de simplemente leer los eventos históricos?",
-          "¿Cuál profecía del Antiguo Testamento sobre el Salvador tiene más impacto en tu testimonio y por qué?",
+          "¿En qué relato del Antiguo Testamento que ya estudiaste podés ver a Jesucristo más claramente ahora que sabés dónde buscarlo?",
+          "De las cuatro técnicas para encontrar a Cristo en las Escrituras —nombres y títulos, tipos, ordenanzas prefigurativas, profecías mesiánicas—, ¿cuál te resulta más útil o interesante y por qué?",
+          "Lee Isaías 53:3–5. ¿Qué te dice ese pasaje sobre el Salvador que no hubieras sabido si solo leyeras los Evangelios?",
+          "El Salvador usó el Antiguo Testamento para enseñar sobre Sí mismo en el camino a Emaús. ¿Cómo cambia tu experiencia de estudio saber que Él mismo veía todo el Antiguo Testamento como un testimonio de Su misión?",
+          "¿Cómo podrías usar un pasaje del Antiguo Testamento para compartir tu testimonio de Jesucristo con alguien que quizás no lo conoce?",
+          "Esta semana, ¿cuál pasaje del Antiguo Testamento vas a estudiar buscando activamente a Jesucristo, usando al menos una de las técnicas que aprendiste hoy?",
         ],
       },
     ],
@@ -803,7 +811,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "El Señor desea que Sus hijos sean educados, capaces y preparados. Doctrina y Convenios 88:118 manda explícitamente: 'Buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe.' Estos dos métodos —estudio y fe— no son opuestos: son complementarios. La educación académica desarrolla las capacidades que el Señor puede usar para bendecir a otros; la fe nos conecta con la fuente del conocimiento más profundo. Esta lección enseña que involucrar al Señor en el proceso de aprendizaje —a través de la oración antes de estudiar, pedir la guía del Espíritu Santo, y estudiar con gratitud y propósito— puede marcar una diferencia significativa. No se trata de pedir respuestas mágicas en los exámenes, sino de estudiar con fe y confiar en que el Señor puede 'magnificar nuestro esfuerzo honesto,' como enseñó el élder Bednar. El ejemplo de Daniel en Babilonia es ilustrativo: al rechazar la comida del rey y pedir a Dios sabiduría, 'los cuatro jóvenes... en todo asunto de sabiduría e inteligencia... los halló diez veces mejores que todos los magos y astrólogos que había en todo su reino.' La consagración de nuestro aprendizaje al Señor tiene consecuencias reales.",
+        contenido: "Cuando Daniel y sus tres amigos llegaron como cautivos a Babilonia —uno de los imperios más poderosos del mundo antiguo— los pusieron en un programa de educación de élite. Tenían acceso a los mejores maestros, los mejores recursos, y la comida del rey. Pero Daniel pidió no comer la comida del rey y pidió a Dios sabiduría. El resultado fue documentado: los cuatro jóvenes terminaron siendo 'diez veces mejores' que todos los magos y astrólogos del reino en todo asunto de sabiduría e inteligencia.\n\nEso no era casualidad. Era el principio de Doctrina y Convenios 88:118 puesto en práctica: 'Buscad conocimiento, tanto por el estudio como por la fe.' Estos dos métodos no son opuestos —uno secular y el otro religioso. Son complementarios. El estudio desarrolla las capacidades que el Señor puede usar para bendecir a otros. La fe nos conecta con la fuente del conocimiento más profundo.\n\nInvolucrar al Señor en el aprendizaje no significa pedir respuestas mágicas para un examen. Significa estudiar con propósito —porque tus capacidades importan para el Reino—, orar con gratitud por la mente que tenés, y confiar en que el Señor puede magnificar tu esfuerzo honesto. El élder Bednar lo expresó así: 'La espiritualidad necesita renovarse cada día. El Señor puede magnificar nuestro esfuerzo honesto.'\n\nSer un buen estudiante y ser un buen discípulo de Jesucristo no son metas en tensión. Son metas que se refuerzan mutuamente.",
       },
       {
         tipo: "enseñanza",
@@ -833,17 +841,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "Ser un buen estudiante y ser un buen discípulo de Jesucristo no son metas en tensión: son metas que se refuerzan mutuamente. El Evangelio nos llama a desarrollar todas nuestras capacidades —intelectuales, físicas, espirituales, sociales— en servicio al Padre Celestial y a Sus hijos. Cuando involucramos al Señor en nuestro estudio, no solo aprendemos mejor; aprendemos con propósito eterno.",
+        contenido: "El Evangelio no te pide que elijas entre ser buen estudiante o buen discípulo. Te pide que seas las dos cosas a la vez —y que las dos se alimenten entre sí. Cuando consagrás tu aprendizaje al Señor, no solo aprendés mejor: aprendés con propósito eterno. Esta semana, antes de estudiar para un examen o hacer una tarea importante, empezá con una oración corta que le diga al Señor para qué vas a usar lo que aprendás.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿De qué manera concreta podrías involucrar al Señor en tu estudio académico esta semana —no solo pedir ayuda, sino estudiar con propósito y gratitud?",
-          "¿Cómo puedes mantener el equilibrio entre el estudio académico, el estudio de las Escrituras, el descanso y el servicio?",
-          "El ejemplo de Daniel muestra que la obediencia a los principios del Evangelio mejoró sus capacidades académicas. ¿Cómo has visto ese principio funcionar en tu propia vida?",
-          "DyC 88:118 dice 'por el estudio Y por la fe.' ¿Qué significa para ti combinar esos dos métodos en tu aprendizaje?",
+          "¿Alguna vez sentiste que tu estudio académico fue mejor o más fácil cuando lo empezaste con oración? ¿Qué pasó?",
+          "Daniel fue 'diez veces mejor' que sus compañeros porque combinó el estudio con la fe. ¿Qué cambiaría en tu rendimiento escolar si aplicaras ese mismo principio esta semana?",
+          "DyC 88:118 dice 'por el estudio Y por la fe'. ¿Qué significa para vos combinar esos dos métodos en tu aprendizaje, de forma práctica y cotidiana?",
+          "¿Cómo equilibrás el tiempo de estudio académico con el tiempo de estudio de las Escrituras, el descanso y el servicio? ¿Dónde está el mayor desequilibrio ahora mismo?",
           "¿Qué conexión ves entre desarrollar tus capacidades académicas y ser un mejor discípulo de Jesucristo y servidor de los demás?",
-          "¿Cuál es el mayor obstáculo que enfrentas en tu rendimiento escolar y cómo crees que el Señor puede ayudarte a superarlo?",
+          "¿Cuál es el mayor obstáculo que enfrentás en tu rendimiento escolar ahora mismo? ¿De qué manera concreta creés que el Señor puede ayudarte a superarlo?",
         ],
       },
     ],
@@ -858,7 +866,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Bajo el gobierno de un nuevo faraón que no había conocido a José, los israelitas —que habían crecido enormemente en número— fueron esclavizados con crueldad. Cuando el miedo del faraón al crecimiento de Israel se intensificó, ordenó a las parteras hebreas Sifrá y Puá que mataran a todos los niños varones hebreos al nacer. Esta orden ponía a esas dos mujeres ante una elección radical: obedecer al hombre más poderoso del mundo conocido, o obedecer a Dios. Sin dudar, 'temieron a Dios' —es decir, lo reverenciaron y respetaron— y preservaron la vida de los niños. El élder Bednar enseñó que 'temer a Dios' no es miedo, sino 'un profundo sentimiento de reverencia, respeto y asombro por el Señor Jesucristo.' En un mundo donde la presión social, el miedo a las consecuencias y el deseo de aprobación pueden hacernos comprometer nuestros principios, el ejemplo de Sifrá y Puá enseña que la reverencia real hacia Dios produce valentía real ante los hombres. El presidente Russell M. Nelson describió a los verdaderos discípulos de Cristo como personas 'dispuestas a destacarse, defender sus principios y ser diferentes a la gente del mundo. Impávidos, devotos y valientes.'",
+        contenido: "Un nuevo faraón subió al trono de Egipto. No había conocido a José. Solo veía una cosa: los israelitas se habían multiplicado tanto que se habían vuelto una amenaza potencial. Entonces los esclavizó con crueldad. Y cuando ni eso frenó su crecimiento, dio una orden aún más oscura: mandó a las parteras hebreas —Sifrá y Puá— que mataran a todos los niños varones israelitas al momento de nacer.\n\nEra una orden del hombre más poderoso del mundo conocido. Desobedecerla ponía en riesgo sus propias vidas. Y sin embargo, el texto es directo: 'las parteras temieron a Dios, y no hicieron como les mandó el rey de Egipto, sino que preservaron la vida a los niños.'\n\nNo organizaron una marcha. No escribieron una petición. Simplemente se negaron a participar en el mal. Su reverencia hacia Dios —no miedo al castigo, sino respeto genuino por Su autoridad— fue más fuerte que el miedo al faraón.\n\nEso es exactamente lo que el presidente Russell M. Nelson describe como un discípulo verdadero de Jesucristo: alguien 'dispuesto a destacarse, defender sus principios y ser diferente a la gente del mundo. Impávido, devoto y valiente.' En tu vida, el faraón no da órdenes desde un palacio. Llega en forma de normas sociales, de presión de grupo, de burlas cuando decidís hacer lo correcto. La pregunta que Sifrá y Puá responden con su historia es: ¿a quién le tenés más miedo —a los que pueden dañar tu reputación, o al Dios que conoce tu corazón?",
       },
       {
         tipo: "enseñanza",
@@ -899,17 +907,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "La historia de Sifrá y Puá demuestra que la valentía moral no requiere poder ni fama: requiere reverencia hacia Dios que supere el miedo a las consecuencias. El Señor prometió proteger y bendecir a quienes lo honran a Él por encima de las presiones del mundo. En nuestros días, las órdenes del 'faraón' vienen disfrazadas de normas sociales, presión de grupo y burla. La misma fe que guió a esas dos parteras está disponible para ti.",
+        contenido: "Sifrá y Puá no eran líderes famosos ni tenían un ejército. Eran dos mujeres que tomaron una decisión silenciosa de honrar a Dios por encima del poder humano. Y el Señor prosperó sus familias. La valentía moral no requiere poder ni audiencia: requiere reverencia hacia Dios que supere el miedo a las consecuencias. En tu vida, el 'faraón' puede ser la presión de encajar, la burla de tus compañeros, o el miedo a parecer raro por vivir lo que creés. La promesa del Señor es la misma que guió a esas parteras: 'Yo estaré contigo.'",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué te inspira del ejemplo de Sifrá y Puá? ¿Qué te parece más difícil de imitar en tu propia vida?",
-          "¿Hay situaciones en tu vida donde sientes presión para comprometer lo que crees? ¿Cómo respondes normalmente?",
-          "El élder Bednar enseña que 'temer a Dios' es reverencia, no terror. ¿Cómo cambia esa definición tu comprensión de lo que significa honrar a Dios?",
-          "¿Qué promesas ves en Éxodo 1:20–21 para quienes confían en Dios cuando las circunstancias son difíciles?",
-          "El presidente Nelson describe a los discípulos de Cristo como 'impávidos, devotos y valientes.' ¿Cuál de esas tres características sientes que necesitas desarrollar más?",
-          "¿Cómo se manifiesta en tu vida cotidiana la tensión entre 'obedecer a Dios' y 'obedecer a los hombres'? ¿Qué te ayuda a elegir correctamente?",
+          "¿Qué te inspira más del ejemplo de Sifrá y Puá: su valentía, su claridad moral, o la promesa que recibieron de Dios?",
+          "¿Hay situaciones en tu vida donde sentís presión para hacer algo que va contra lo que creés? ¿Cómo respondés normalmente?",
+          "El texto dice que las parteras 'temieron a Dios' —lo que significa reverencia, no terror. ¿Qué diferencia práctica hace esa distinción en la manera en que tomás decisiones difíciles?",
+          "Éxodo 1:20–21 dice que Dios prosperó las familias de las parteras por su fidelidad. ¿Creés que el Señor honra así a quienes Le honran a Él hoy? ¿Por qué?",
+          "El presidente Nelson describe a los discípulos de Cristo como 'impávidos, devotos y valientes'. De esas tres características, ¿cuál sentís que necesitás desarrollar más en tu vida ahora mismo?",
+          "¿Qué decisión concreta podés tomar esta semana que muestre que ponés a Dios por encima de la aprobación de las personas que te rodean?",
         ],
       },
     ],
@@ -924,7 +932,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Moisés nació en medio de la persecución israelita, fue salvado milagrosamente por su madre en una canasta en el Nilo, adoptado por la hija del faraón y criado en el corazón del poder egipcio. Después de matar a un capataz que maltrataba a un israelita, huyó al desierto de Madián, donde pasó cuarenta años como pastor —un aprendizaje de humildad esencial para quien iba a conducir a un pueblo por el desierto. Fue allí, ante la zarza ardiente en el monte Horeb, donde Jehová se le reveló: 'YO SOY EL QUE SOY.' Este nombre divino —en hebreo, Ehyeh Asher Ehyeh— expresa la existencia eterna y autosuficiente de Dios: Él es, fue y será. Ante esa presencia, Moisés se sintió completamente inadecuado: no era elocuente, el pueblo no lo creería, podría fallar. Pero Dios no llamó a alguien ya capaz; llamó a alguien dispuesto y le prometió Su presencia: 'Ve, porque yo estaré contigo.' El élder Jeffrey R. Holland enseñó que 'el Señor no llama a los capacitados; capacita a los llamados.' El mismo principio se aplica a cada llamamiento que recibes: la capacidad viene como resultado de la fe y la obediencia, no como condición previa.",
+        contenido: "Moisés tenía todo a su favor y lo perdió todo. Criado en el palacio del faraón, educado en el poder más grande del mundo, era alguien con un futuro brillante por delante. Pero mató a un capataz egipcio que maltrataba a un israelita, y tuvo que huir. Terminó en el desierto de Madián, cuidando ovejas. Durante cuarenta años.\n\nLuego vino la zarza ardiente. El Señor le habló desde esa llama sin consumirse: 'YO SOY EL QUE SOY. Ve, saca a mi pueblo de Egipto.' Y ahí empezaron las excusas. '¿Quién soy yo para ir al faraón?' '¿Y si no me creen?' 'Yo no soy elocuente.' 'Envía a alguien más.'\n\nLas excusas de Moisés no eran excusas de alguien cobarde. Eran las preguntas honestas de alguien que sabía perfectamente lo difícil que era la tarea. Pero la respuesta de Dios a cada excusa fue la misma: no discutió los argumentos. Simplemente prometió: 'Yo estaré contigo.'\n\nEl élder Allen D. Haynie enseñó que un profeta es alguien que Dios 'personalmente ha preparado, llamado, corregido, inspirado, reprendido, santificado y sostenido.' Eso describe a Moisés. Y también describe el proceso por el que el Señor pasa contigo cuando te llama a servir —en la familia, en el barrio, en la misión, en cualquier escenario donde sentís que no sos suficiente.\n\nEl Señor no llama a los que ya están listos. Los prepara en el camino.",
       },
       {
         tipo: "enseñanza",
@@ -959,17 +967,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "Las excusas de Moisés ante el llamamiento divino no son señal de debilidad: son la señal honesta de alguien que sabe lo que tiene por delante. La respuesta de Dios a cada excusa no fue argumentar: fue prometer Su presencia. Cuando el Señor te llama a servir —en la familia, en el barrio, en la misión, en cualquier escenario— Su promesa es la misma que le dio a Moisés: 'Yo estaré contigo.' Esa presencia no elimina la dificultad, pero sí transforma lo imposible en posible.",
+        contenido: "Las excusas de Moisés son completamente humanas. Quizás te identificás con alguna de ellas: 'No soy lo suficientemente bueno', 'Nadie me va a escuchar', 'Hay alguien más adecuado para esto.' La respuesta del Señor a esas excusas no fue un argumento —fue una promesa: 'Yo estaré contigo.' Esa presencia no elimina la dificultad. Pero transforma lo que parecería imposible en posible. Cuando esta semana sientas que algo te supera, recordá el nombre que el Señor le dio a Moisés: 'YO SOY.' El mismo que estuvo con Moisés está con vos.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Con cuál de las excusas de Moisés te identificas más cuando el Señor te pide algo que parece fuera de tu alcance?",
-          "¿Cómo ha actuado el Señor contigo en momentos en que sentías que no eras suficiente para la tarea que se te pedía?",
-          "El nombre 'YO SOY EL QUE SOY' expresa la existencia eterna y omnipotente de Dios. ¿Cómo te da confianza ese nombre al enfrentar incertidumbre?",
-          "Éter 12:27 promete que las debilidades se vuelven fortalezas a través de la humildad y la fe. ¿Qué debilidad estás experimentando ahora que podrías llevar al Señor con esa promesa?",
-          "¿Qué promesa de esta lección te da más confianza para responder a los callamientos que tienes hoy en tu familia, barrio o escuela?",
-          "Moisés pasó cuarenta años como pastor antes de ser llamado. ¿De qué manera las experiencias 'ordinarias' de tu vida pueden ser preparación para lo que el Señor quiere hacer a través de ti?",
+          "¿Con cuál de las excusas de Moisés te identificás más cuando el Señor te pide algo que parece fuera de tu alcance?",
+          "¿Alguna vez aceptaste un llamamiento o responsabilidad sintiéndote completamente inadecuado? ¿Qué pasó después?",
+          "El nombre 'YO SOY EL QUE SOY' expresa la existencia eterna y autosuficiente de Dios. ¿Cómo cambia esa imagen de Dios la confianza que podés tener al enfrentar algo que te supera?",
+          "Moisés pasó cuarenta años como pastor antes de ser llamado. ¿De qué manera las experiencias 'ordinarias' y aparentemente sin importancia de tu vida podrían ser preparación para lo que el Señor quiere hacer a través de vos?",
+          "Éter 12:27 promete que las debilidades se vuelven fortalezas a través de la humildad y la fe. ¿Qué debilidad tuya podrías llevar al Señor esta semana con esa promesa en mente?",
+          "¿Cómo respondés cuando el Señor te pide algo a través de un llamamiento, una impresión del Espíritu, o una necesidad de alguien cercano? ¿Qué cambiarías en esa respuesta?",
         ],
       },
     ],
@@ -984,7 +992,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Cuando Moisés y Aarón se presentaron ante el faraón con el mensaje de Dios —'Deja ir a mi pueblo'— la respuesta fue el opuesto de lo esperado: el faraón aumentó la carga de trabajo de los israelitas, exigiéndoles fabricar el mismo número de ladrillos sin darles paja. El pueblo sufrió más que antes y se quejó amargamente contra Moisés. El propio Moisés cuestionó a Dios con una pregunta honesta: '¿Por qué has afligido a este pueblo? ¿Para qué me enviaste?' Esta lección enseña uno de los principios de fe más difíciles: obedecer al Señor a veces empeora las circunstancias antes de que mejoren. La respuesta de Dios a Moisés no fue una explicación detallada de Su plan: fue la renovación de Sus convenios y una afirmación de Su identidad: 'Yo soy Jehová.' La doctrina de la fe enseña que el Señor no siempre evita el sufrimiento; en cambio, lo transforma en refinamiento. El élder Holland enseñó que 'cuando Dios parece habernos llevado a un callejón sin salida, puede ser porque está a punto de abrirte el mar.' Israel necesitaba aprender a confiar en Jehová en la oscuridad antes de experimentar el milagro en la luz.",
+        contenido: "Moisés y Aarón cumplieron exactamente lo que el Señor les pidió. Se presentaron ante el faraón y le dieron el mensaje: 'Deja ir a mi pueblo.' Era obediencia perfecta. Y el resultado fue el opuesto de lo esperado: el faraón no solo dijo que no, sino que duplicó la carga de trabajo de los israelitas. Ahora tenían que fabricar el mismo número de ladrillos, pero sin que se les diera paja —tenían que buscarla ellos mismos. El pueblo se quejó furiosamente contra Moisés. Y Moisés, exhausto y confundido, le hizo una pregunta honesta y directa a Dios: '¿Por qué has afligido a este pueblo? ¿Para qué me enviaste?'\n\nNo fue una crisis de fe. Fue fe lo suficientemente madura como para llevar las dudas directamente al Señor en lugar de apartarse. Y la respuesta de Dios no fue una explicación larga. Fue una afirmación de identidad: 'Yo soy Jehová.' Y luego una renovación de Sus promesas: 'Os sacaré de debajo de las tareas pesadas de Egipto, y os libraré de su servidumbre, y os redimiré.'\n\nEste principio es uno de los más difíciles y más reconfortantes del Evangelio: obedecer al Señor a veces empeora las circunstancias antes de mejorarlas. El presidente Uchtdorf lo expresó con claridad: vivimos en un mundo que quiere resultados inmediatos. Pero el tiempo del Señor no siempre coincide con el nuestro. La fe real —la fe madura— no es la que solo confía cuando las cosas mejoran de inmediato. Es la que sigue confiando en la oscuridad, porque conoce al Señor que está al otro lado.",
       },
       {
         tipo: "enseñanza",
@@ -1019,17 +1027,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "La respuesta de Moisés —quejarse honestamente ante Dios— no fue un fracaso de fe: fue fe lo suficientemente madura como para llevar las dudas directamente al Señor. Y la respuesta de Dios fue renovar Su promesa y recordar Su identidad. Cuando tu obediencia produce más dificultades en lugar de alivio inmediato, la doctrina de esta lección te invita a hacer lo mismo que Moisés: llevar esa confusión al Padre Celestial y esperar en Él, confiando en que está preparando un camino que aún no puedes ver.",
+        contenido: "La pregunta honesta de Moisés —'¿Por qué has afligido a este pueblo?'— no fue falta de fe. Fue fe lo suficientemente real como para no pretender que todo estaba bien cuando no lo estaba. El Señor recibió esa pregunta y respondió con identidad y con promesas. Cuando obedecer produce más dificultades en lugar de alivio, ese es el momento de hacer lo mismo que Moisés: llevá la confusión al Padre Celestial, esperá en Él, y confiá en que está preparando un camino que todavía no podés ver.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Has vivido alguna vez una situación en la que hacer lo correcto empeoró las circunstancias temporalmente? ¿Qué aprendiste de eso?",
-          "¿Qué promesa de Dios has tenido que sostener con fe durante una larga espera sin ver todavía el cumplimiento?",
-          "¿Qué te enseña la respuesta honesta de Moisés —'¿por qué has afligido a este pueblo?'— sobre cómo puedes llevar tus propias dudas y preguntas al Señor?",
-          "La respuesta de Dios a Moisés fue: 'Yo soy Jehová.' ¿Cómo cambia esa afirmación de identidad divina la manera en que afrontamos las circunstancias difíciles?",
-          "El élder Holland habla de 'el mar que se abrirá.' ¿En qué situación de tu vida necesitas confiar ahora en que el Señor está preparando ese milagro aunque no lo veas todavía?",
-          "¿Cómo equilibras la honestidad ante Dios —como Moisés, que cuestionó— con la fe en Su plan, aunque ese plan parezca empeorar las cosas antes de mejorarlas?",
+          "¿Alguna vez hiciste lo correcto y las cosas empeoraron en lugar de mejorar? ¿Cómo manejaste eso espiritualmente?",
+          "Moisés le preguntó honestamente a Dios: '¿Por qué has afligido a este pueblo?' ¿Te parece bien llevar tus propias dudas y preguntas al Señor así de directamente? ¿Por qué?",
+          "La respuesta de Dios a Moisés fue simplemente: 'Yo soy Jehová.' ¿Cómo te ayuda esa afirmación de identidad divina a afrontar situaciones donde el Señor no da explicaciones detalladas?",
+          "El élder Holland habla de 'el mar que se va a abrir'. ¿Hay alguna situación en tu vida ahora mismo en la que necesitás confiar en que el Señor está preparando ese milagro aunque todavía no lo veas?",
+          "¿Cómo equilibrás la honestidad ante Dios —llevarle tus dudas reales— con la fe en Su plan, aunque ese plan parezca empeorar las cosas antes de mejorarlas?",
+          "¿Qué promesa del Señor estás sosteniendo ahora mismo con fe, aunque todavía no hayas visto su cumplimiento? ¿Qué te ayuda a seguir confiando?",
         ],
       },
     ],
@@ -1044,7 +1052,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "El templo es la casa del Señor —el lugar más sagrado de la tierra— y todo lo que ocurre en él gira en torno a Jesucristo y Su Expiación. Desde el tabernáculo del desierto que Moisés construyó por revelación divina hasta los modernos templos del Señor, cada elemento arquitectónico y cada ordenanza han apuntado hacia el Salvador: su simbolismo, sus vestiduras, sus convenios y sus promesas. Las ordenanzas del templo —incluyendo la investidura y el sellamiento— son sagradas porque expresan la esencia de la Expiación: limpieza del pecado, protección espiritual y unión eterna de familias. El presidente Russell M. Nelson ha enseñado que el templo es 'un lugar de revelación' donde el Señor puede comunicarse con Sus siervos. No es solo un lugar de actividad religiosa: es el lugar donde los convenios más sagrados se hacen y sellan por la eternidad. Esta lección cultiva en los alumnos un corazón que anhele el templo, que se prepare para entrar dignamente, y que comprenda que el templo no es el final del camino del discipulado sino el centro de él.",
+        contenido: "Cuando Moisés construyó el tabernáculo en el desierto, no lo inventó. El Señor le dio cada detalle: las dimensiones, los materiales, el arreglo de los muebles, las vestiduras sacerdotales, cada ordenanza. Nada era arbitrario. Todo apuntaba hacia algo —hacia Alguien.\n\nEl velo que separaba el lugar santo del santísimo representaba la separación entre los mortales y la presencia de Dios. El arca del convenio simbolizaba Su trono. Los sacrificios de animales sin defecto prefiguraban el sacrificio perfecto de Jesucristo. El Día de la Expiación —cuando el sumo sacerdote entraba solo al lugar santísimo con la sangre del sacrificio— era un tipo de la Expiación de Cristo, que entró solo al Getsemaní y pagó el precio de todos nuestros pecados.\n\nHoy los templos modernos continúan esa tradición: cada ordenanza, cada convenio, cada símbolo apunta a Jesucristo y a Su Expiación. La investidura enseña el plan de salvación y el camino de regreso a la presencia de Dios. El sellamiento une familias por la eternidad —selladas por el poder del sacerdocio que Cristo restauró.\n\nEl presidente Russell M. Nelson enseñó que el templo es un lugar de revelación. No solo de actividad religiosa: es el lugar donde los convenios más sagrados se hacen y se sellan para siempre, y donde el Señor puede hablar directamente a Sus hijos. Prepararse para entrar al templo no es una meta que alcanzar y dejar atrás. Es el comienzo de una vida centrada en los convenios.",
       },
       {
         tipo: "enseñanza",
@@ -1079,17 +1087,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "El templo no es una meta que alcanzar y dejar atrás: es una fuente continua de fortaleza, revelación y renovación de convenios. Cada vez que entras al templo, estás afirmando quién eres —un hijo del Padre Celestial comprometido con los convenios— y a quién quieres llegar a ser. La preparación para el templo comienza hoy, con cada decisión que honra los convenios ya recibidos.",
+        contenido: "El templo no es una meta que alcanzás y dejás atrás. Es una fuente continua de fortaleza, revelación y renovación de convenios. Cada vez que entrás, estás afirmando quién sos —hijo o hija del Padre Celestial comprometido con Sus convenios— y a quién querés llegar a ser. La preparación para el templo empieza hoy, con cada decisión que honra los convenios ya recibidos. Esta semana, ¿qué podés hacer concretamente para acercarte un paso más a vivir digno de la casa del Señor?",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué sentiste la primera vez que entraste a un templo o participaste en una actividad relacionada con él? ¿Cómo ha cambiado tu comprensión del templo desde entonces?",
-          "¿Qué pasos concretos puedes dar ahora mismo —en tu comportamiento, hábitos espirituales y dignidad personal— para prepararte para recibir tus dotaciones?",
-          "¿Cómo puede el templo fortalecer tu familia —tanto la presente como la familia eterna que esperas formar?",
-          "El Salmo 84 expresa un anhelo profundo: 'Anhela mi alma... los atrios de Jehová.' ¿Sientes ese tipo de anhelo por el templo? ¿Qué lo fomenta o lo dificulta en tu vida?",
-          "¿Cómo cambia tu comprensión de las pruebas y el sufrimiento saber que los convenios del templo son sellos eternos que la muerte no puede romper?",
-          "¿Qué antepasados o familiares que no tuvieron la oportunidad de recibir las ordenanzas del templo te gustaría llevar a través del trabajo de historia familiar y templo?",
+          "¿Qué es lo que más te llama la atención del templo —su arquitectura, lo que representa, o lo que ocurre adentro? ¿Por qué?",
+          "¿Qué pasos concretos podés dar ahora mismo —en tu comportamiento, hábitos espirituales y dignidad personal— para prepararte para recibir tus dotaciones?",
+          "El Salmo 84 expresa 'Anhela mi alma... los atrios de Jehová.' ¿Sentís ese tipo de anhelo por el templo? Si no, ¿qué podría ayudarte a desarrollarlo?",
+          "¿Cómo el simbolismo del tabernáculo de Moisés —el velo, los sacrificios, el lugar santísimo— cambia la manera en que entendés lo que representa el templo hoy?",
+          "¿Qué antepasados o familiares que no tuvieron la oportunidad de recibir las ordenanzas del templo te gustaría llevar a través del trabajo de historia familiar?",
+          "¿Cómo cambia tu perspectiva sobre las pruebas y el sufrimiento saber que los convenios del templo son sellos eternos que la muerte no puede romper?",
         ],
       },
     ],
@@ -1104,7 +1112,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "La Pascua de Resurrección es la festividad cristiana más importante del año: la celebración de que Jesucristo literalmente resucitó de entre los muertos con un cuerpo glorificado, haciendo posible la inmortalidad y la vida eterna para todos los hijos del Padre Celestial. Este no fue un evento simbólico ni metafórico: Tomás tocó Sus manos y Su costado; Jesús comió con Sus discípulos en Galilea; los ángeles declararon: 'No está aquí, ha resucitado.' La Resurrección de Cristo es el cimiento de toda esperanza cristiana —y especialmente de la esperanza SUD. Sin la Resurrección, la Expiación sería incompleta: podría haber perdón de pecados, pero no la promesa de que los cuerpos volverían a unirse con los espíritus para siempre. Porque Cristo resucitó, todos los seres humanos resucitarán también —sin excepción— y recibirán la oportunidad de ser juzgados según sus obras. El presidente Nelson enseñó: 'La Resurrección de Jesucristo es la más poderosa realidad que existe. Porque Él vive, nosotros también viviremos.' Esta doctrina transforma completamente cómo vemos la muerte, el duelo, el sufrimiento y el propósito de la vida.",
+        contenido: "Job lo dijo en medio del peor sufrimiento posible —con la salud destrozada, los hijos muertos, todo perdido— y lo dijo con certeza: 'Yo sé que mi Redentor vive.' No 'creo que', no 'espero que'. Lo sabía. Y esa certeza es el corazón de la Pascua de Resurrección.\n\nJesucristo resucitó literalmente de entre los muertos. Esto no es una metáfora de esperanza ni un símbolo de vida nueva. Es un hecho histórico. Tomás tocó Sus manos y Su costado. Jesús comió pescado con Sus discípulos en Galilea. Los ángeles en el sepulcro vacío dijeron: 'No está aquí, ha resucitado.' Y Pablo lo explicó con una lógica implacable: 'Si Cristo no resucitó, vuestra fe es vana.' Pero sí resucitó. Por eso la fe no es vana.\n\nLa Resurrección tiene consecuencias concretas para tu vida. Porque Cristo resucitó, todos los seres humanos resucitarán también —sin excepción, sin importar cómo vivieron. Eso incluye a las personas que amás y que murieron. Eso incluye a los que murieron demasiado joven. Eso incluye tu propio cuerpo, que un día se reunirá con tu espíritu para nunca más separarse.\n\nEl presidente Nelson lo expresó de la manera más directa posible: 'La Resurrección de Jesucristo es la más poderosa realidad que existe. Porque Él vive, nosotros también viviremos.' Esa certeza transforma el duelo en esperanza, el miedo a la muerte en paz, y el propósito de esta vida en algo genuinamente urgente.",
       },
       {
         tipo: "enseñanza",
@@ -1139,17 +1147,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "La Resurrección no es solo una doctrina abstracta: es una promesa personal. Cada persona que ha muerto o que morirá —incluyendo los que amas— resucitará gracias a Jesucristo. Esa certeza puede transformar el duelo en esperanza, el miedo a la muerte en paz, y la perspectiva de la vida eterna en una motivación real para vivir el Evangelio hoy. 'Porque Él vive, nosotros también viviremos' no es simplemente un versículo de Pascua: es la esperanza que sostiene todo lo demás.",
+        contenido: "La Resurrección no es solo una doctrina del calendario de la Iglesia que celebramos en abril. Es la promesa más personal que existe: cada persona que alguna vez vivió —incluyendo los que amás y perdiste— resucitará gracias a Jesucristo. Esa certeza transforma el duelo en esperanza, el miedo a la muerte en paz, y la vida cotidiana en algo urgente y con propósito. 'Porque Él vive, nosotros también viviremos' —esa promesa vale la pena que la hagas tuya esta semana, no solo como doctrina, sino como convicción personal.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Cómo cambia tu perspectiva de la vida, la muerte y el sufrimiento saber que Jesucristo resucitó literalmente con un cuerpo físico glorificado?",
-          "¿De qué manera la Resurrección de Cristo te da esperanza personal en alguna circunstancia específica de tu vida actual?",
-          "Job declaró 'Yo sé que mi Redentor vive' en medio del sufrimiento más severo. ¿Cómo puedes fortalecer ese mismo conocimiento en tu propio corazón?",
-          "¿Qué diferencia hace en tu vida cotidiana creer realmente que resucitarás, que verás a tus seres queridos de nuevo, que la muerte no tiene la última palabra?",
-          "¿Cómo podrías celebrar la Pascua de una manera que genuinamente fortalezca tu testimonio de Cristo resucitado, más allá de las tradiciones culturales?",
-          "Si alguien que conoces está enfrentando la muerte de un ser querido, ¿cómo usarías la doctrina de la Resurrección para ofrecerle consuelo y esperanza real?",
+          "¿Hay alguien que amás y que ya no está con vos? ¿Cómo cambia la doctrina de la Resurrección la manera en que pensás en esa persona?",
+          "Job dijo 'Yo sé que mi Redentor vive' en medio del peor sufrimiento de su vida. ¿Cómo podés construir ese mismo tipo de certeza en tu propio corazón?",
+          "¿Qué diferencia hace en tu vida cotidiana creer realmente que vos mismo vas a resucitar, que tenés un cuerpo glorificado esperándote?",
+          "La Resurrección es un hecho histórico —Tomás tocó Sus manos, Jesús comió con Sus discípulos. ¿Por qué importa que sea literal y no simbólica?",
+          "Si un amigo que perdió a alguien cercano te preguntara por qué la Pascua importa, ¿qué le dirías usando la doctrina de la Resurrección?",
+          "¿Cómo podrías celebrar esta Pascua de una manera que genuinamente fortalezca tu testimonio de Cristo resucitado, más allá de las tradiciones culturales?",
         ],
       },
     ],
@@ -1164,7 +1172,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Dos veces al año —en los primeros fines de semana de abril y octubre— el Señor habla a Sus hijos a través de Sus profetas, videntes y reveladores en la Conferencia General. Doctrina y Convenios 1:38 establece que 'ya sea por mi propia voz o por la voz de mis siervos, es lo mismo.' Esto significa que los mensajes de la Conferencia General no son simplemente consejos útiles de líderes de la Iglesia: son la voz del Señor para Su pueblo en este tiempo. El valor que extraemos de la Conferencia General depende directamente de la preparación personal con la que lleguemos a escucharla. El presidente Russell M. Nelson instó a escuchar 'como si tu vida dependiera de ello, porque en sentido espiritual, así es.' Llegar con preguntas específicas, con un corazón abierto y dispuesto, y con el propósito de recibir revelación personal transforma la Conferencia General de un evento religioso en una experiencia de comunicación directa con el cielo. Amós 3:7 nos asegura que el Señor siempre revela Su voluntad a Sus profetas antes de actuar — lo que significa que la Conferencia General es una ventana al propósito divino en el momento actual de la historia.",
+        contenido: "Dos veces al año el Señor habla a Sus hijos. No de manera vaga ni general: a través de Sus profetas, videntes y reveladores, en la Conferencia General. Doctrina y Convenios 1:38 lo establece con precisión: 'ya sea por mi propia voz o por la voz de mis siervos, es lo mismo.' No es una exageración inspiracional. Es una declaración doctrinal.\n\nEso transforma completamente la manera en que deberías acercarte a cada Conferencia General. No es un evento religioso que escuchás por costumbre. Es la voz del Señor dirigiéndose a Sus hijos en este momento específico de la historia. Los mensajes no son discursos motivacionales preparados por personas con buenas intenciones: son revelación para nuestra época, entregada por hombres a quienes el Señor 'personalmente ha preparado, llamado, corregido, inspirado, reprendido, santificado y sostenido.'\n\nEl valor que extraés de la Conferencia General depende directamente de la preparación con que llegás. El presidente Russell M. Nelson dio un consejo que suena extremo hasta que pensás en lo que implica: 'Escuchen durante la Conferencia General como si su vida dependiera de ello, porque en sentido espiritual, así es.' Llegar con preguntas específicas, con un corazón abierto, con el propósito de recibir revelación personal —eso transforma la Conferencia de un programa que seguís en una experiencia directa con el cielo.\n\nAmós 3:7 nos asegura que el Señor no actúa sin revelar Su voluntad a Sus profetas primero. La Conferencia General es esa revelación disponible para todos.",
       },
       {
         tipo: "enseñanza",
@@ -1194,17 +1202,17 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "La Conferencia General es una de las mayores bendiciones espirituales disponibles en nuestra era: acceso directo a la voz del Señor a través de Sus profetas vivos, dos veces al año. Aprovecharla plenamente requiere preparación, actitud de oración, y la disposición de actuar sobre lo que se reciba. El Señor habla a quienes están listos para escuchar.",
+        contenido: "La Conferencia General es una de las bendiciones espirituales más extraordinarias de nuestra era: acceso gratuito, dos veces al año, a la voz del Señor a través de Sus profetas vivos. Aprovecharla plenamente requiere preparación, actitud de oración, y la disposición de actuar sobre lo que recibás. Esta semana, antes de la próxima Conferencia, escribí al menos una pregunta personal que llevarás al Señor esperando una respuesta.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
           "¿Qué pregunta personal llevarías a la próxima Conferencia General esperando una respuesta del Señor?",
-          "¿Recuerdas algún mensaje de una Conferencia pasada que haya respondido una pregunta específica tuya o cambiado algo concreto en tu vida?",
-          "El presidente Nelson dice que debemos escuchar 'como si nuestra vida dependiera de ello.' ¿Cómo cambiaría tu actitud hacia la Conferencia si lo tomaras literalmente?",
-          "DyC 1:38 dice que la voz de los profetas es 'lo mismo' que la voz del Señor. ¿Cómo afecta esa doctrina la forma en que tratas los mensajes de la Conferencia en tu estudio personal?",
-          "¿Qué hábitos prácticos podrías adoptar —antes, durante y después— para aprovechar mejor la próxima Conferencia General?",
-          "¿Cuál sería el costo espiritual de no prepararse ni comprometerse con escuchar la Conferencia General con plena atención?",
+          "¿Recordás algún mensaje de una Conferencia pasada que respondió una pregunta específica tuya o cambió algo concreto en tu vida? ¿Cuál fue?",
+          "El presidente Nelson dice que debemos escuchar 'como si nuestra vida dependiera de ello'. ¿Qué cambiaría en tu actitud si lo tomaras completamente en serio?",
+          "DyC 1:38 dice que la voz de los profetas es 'lo mismo' que la voz del Señor. ¿Cómo afecta esa doctrina la forma en que tratás los mensajes de la Conferencia en tu estudio personal?",
+          "¿Qué hábito concreto —antes, durante o después de la Conferencia— podrías adoptar para aprovecharla mejor?",
+          "¿Qué pasaría espiritualmente en tu vida si decidieras tratar los mensajes de la próxima Conferencia General con el mismo cuidado con el que estudiás las Escrituras?",
         ],
       },
     ],
@@ -1219,7 +1227,7 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Después de cada Conferencia General, los mensajes de los profetas y apóstoles quedan publicados y disponibles en múltiples idiomas y formatos. Esta disponibilidad es en sí misma un regalo: la voz del Señor, grabada y accesible para ser estudiada con calma, reflexión y espíritu de oración. La verdadera productividad espiritual de la Conferencia General no ocurre durante el fin de semana de transmisión —aunque ese sea un momento importante—: ocurre en las semanas y meses siguientes, cuando los alumnos leen, subrayan, meditan y aplican esos mensajes. Santiago 1:22 nos advierte contra ser 'tan solamente oidores' de la palabra: el Señor espera 'hacedores.' Eso implica que cada mensaje de la Conferencia viene con una invitación implícita a actuar de una manera específica. Los discursos de los líderes de la Iglesia merecen el mismo respeto y método de estudio que aplicamos a las Escrituras: orar antes de leer, marcar frases clave, relacionar con experiencias personales, identificar la acción que se te pide tomar.",
+        contenido: "La Conferencia General termina. Y entonces comienza la parte que más importa.\n\nLos mensajes de los profetas y apóstoles quedan publicados en varios idiomas, accesibles en cualquier momento, listos para ser leídos con calma y reflexión. Esa disponibilidad es en sí misma un regalo de nuestra era: la voz del Señor, grabada y disponible para ser estudiada tantas veces como necesités, con lápiz y cuaderno, en cualquier lugar del mundo.\n\nPero hay una diferencia enorme entre escuchar un discurso el domingo de Conferencia y estudiarlo durante las semanas siguientes. La productividad espiritual real de la Conferencia General no ocurre durante el fin de semana de transmisión. Ocurre en las semanas y meses siguientes, cuando los alumnos leen, subrayan, meditan y actúan sobre esos mensajes.\n\nSantiago 1:22 advierte contra ser 'tan solamente oidores' de la palabra. Ser oyente es cómodo. Ser hacedor es lo que transforma. Eso implica que cada mensaje de la Conferencia viene con una invitación implícita a actuar de una manera específica: cambiar un hábito, perdonar a alguien, fortalecer un convenio, servir de una forma concreta.\n\nLos discursos de los líderes de la Iglesia merecen el mismo cuidado que aplicamos a las Escrituras. Orar antes de leer. Marcar frases que hablan directamente a tu situación. Preguntarte: '¿Qué acción específica me está pidiendo este mensaje?' Esa pregunta, respondida con honestidad, puede convertir una hora de lectura en un punto de inflexión en tu vida.",
       },
       {
         tipo: "enseñanza",
@@ -1249,16 +1257,16 @@ export const leccionesResumidasAT_1_5: Lesson[] = [
       },
       {
         tipo: "conclusion",
-        contenido: "Los mensajes de la Conferencia General son revelación para nuestra época. Estudiarlos —no solo escucharlos— con el mismo cuidado que las Escrituras sagradas es una forma poderosa de mantener al Señor presente en tu vida y de seguir siendo guiado por Su Espíritu mucho después de que la Conferencia haya terminado.",
+        contenido: "Los mensajes de la Conferencia General son revelación para nuestra época. No son consejos genéricos: son palabras del Señor para Sus hijos en este momento de la historia. Estudiarlos —no solo escucharlos— con el mismo cuidado que las Escrituras sagradas es una de las maneras más poderosas de mantener al Señor presente en tu vida todo el año. Esta semana, elegí un discurso de la última Conferencia, leelo con lápiz en mano, marcá lo que te habla, y escribí una acción concreta que vas a tomar.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Cuál fue el discurso de la última Conferencia que más impacto tuvo en ti? ¿Por qué fue significativo?",
-          "¿Qué hábito concreto podrías adoptar para que los mensajes de la Conferencia formen parte de tu estudio regular de las Escrituras durante el año?",
-          "Santiago dice 'sed hacedores de la palabra.' ¿Qué acción específica tomaste —o podrías tomar— después de escuchar un mensaje de la Conferencia?",
-          "¿Qué diferencia hace en tu fe tratar los mensajes de los profetas como revelación personal dirigida directamente a ti, no solo como consejos generales?",
-          "¿Cómo podrías compartir un mensaje específico de la Conferencia con alguien de tu familia o de tu barrio que lo necesite?",
+          "¿Cuál fue el discurso de la última Conferencia General que más impacto tuvo en vos? ¿Por qué te habló de una manera especial?",
+          "¿Qué diferencia hace en tu fe tratar los mensajes de los profetas como revelación personal dirigida directamente a vos, no como consejos generales para todos?",
+          "Santiago dice 'sed hacedores de la palabra'. ¿Qué acción específica tomaste —o podrías tomar— como resultado de algún mensaje de la Conferencia?",
+          "¿Qué hábito concreto podrías adoptar para que los mensajes de la Conferencia formen parte de tu estudio regular de las Escrituras durante el año —y no solo durante el fin de semana de transmisión?",
+          "¿Cómo podrías compartir un mensaje específico de la Conferencia con alguien de tu familia o de tu barrio que lo necesite esta semana?",
           "¿Cómo podría el estudio regular de los mensajes de la Conferencia complementar y enriquecer tu estudio del Antiguo Testamento este año?",
         ],
       },
