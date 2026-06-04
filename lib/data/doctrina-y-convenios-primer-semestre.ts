@@ -1,4 +1,4 @@
-import type { Week } from "../types"
+import type { Week } from "@/lib/types"
 
 // Semanas 1-5
 import {
@@ -13,59 +13,42 @@ import {
   examinar_perspectivaQuestions,
   fuentes_divinasQuestions,
   dc23_24Questions,
-  //dc25Questions,
-  //dc26_28Questions,
-  //pasaje_dc1_37_38Questions,
-  //evaluacion_aprendizaje_1Questions,
-  //dc29_parte1Questions,
-  //dc29_parte2Questions,
-  //dc29_parte3Questions,
-  //pasaje_dc6_36Questions,
-  //pasaje_dc8_2_3Questions,
-  //dc30_32Questions,
- // dc33_34Questions,
-  //dc35Questions,
-  //pasaje_dc13_1Questions,
-  //pasaje_dc18_10_11Questions,
+  dc25_parte1Questions,
+  dc25_parte2Questions,
+  actuar_fe_encontrar_respuestasQuestions,
+  fijar_metasQuestions,
+  dc27_1_14Questions,
+  dc27_15_18Questions,
+  dc28Questions,
+  enfocarse_jcQuestions,
+  encontrar_verdadesQuestions,
   dc29_1_8Questions,
   dc29_9_29Questions,
   dc29_36_50Questions,
   preparar_conferencia_generalQuestions,
   mensajes_siervosQuestions,
-  encontrar_verdadesQuestions,
-  enfocarse_jcQuestions,
-  dc28Questions,
-  dc27_15_18Questions,
-  dc27_1_14Questions,
-  fijar_metasQuestions,
-  actuar_fe_encontrar_respuestasQuestions,
-  dc25_parte2Questions,
-  dc25_parte1Questions,
 } from "./doctrinas-convenios/questions/DC1-preguntas-1-5"
 
 // Semanas 6-10
 import {
-  dc49_dc35Questions,
-  dc50_dc36Questions,
-  dc51_dc37_38_parte1Questions,
-  dc52_dc37_38_parte2Questions,
-  adquirir_conocimiento_1Questions,
-  evaluacion_1Questions,
-  dc53_dc39Questions,
-  dc54_dc42_parte1Questions,
-  dc55_dc42_parte2Questions,
-  dc56_dc43Questions,
-  dc57_dc45_parte1Questions,
-  dc58_dc45_parte2Questions,
-  dc59_dc46Questions,
-  dc60_dc49_50Questions,
-  guia_estudioQuestions,
-  actuar_feQuestions,
-  dc61_dc51_52Questions,
-  dc62_dc56Questions,
-  dc63_dc58_parte1Questions,
-  dc64_dc58_parte2Questions,
-  dominio_2Questions,
+  dc30_36_parte1Questions,
+  dc35Questions,
+  dominioPractica3Questions,
+  ensenanza_profeta_actualQuestions,
+  el_cristo_viviente_parte1Questions,
+  el_cristo_viviente_parte2Questions,
+  pascua_resurreccionQuestions,
+  dc30_36_parte2Questions,
+  evalua_aprendizaje_3Questions,
+  dc37_38_parte1Questions,
+  dc38_parte2Questions,
+  dc39_40Questions,
+  tomar_notas_escriturasQuestions,
+  dc41Questions,
+  dc42_parte1Questions,
+  dc42_29_39Questions,
+  importancia_educacionQuestions,
+  dc42_parte2Questions,
 } from "./doctrinas-convenios/questions/DC1-preguntas-6-10"
 
 // Semanas 11-15
@@ -126,13 +109,11 @@ import {
   conclusion_semestreQuestions,
 } from "./doctrinas-convenios/questions/DC1-preguntas-16-20"
 
-/**
- * DOCTRINA Y CONVENIOS - SEMINARIO 2025
- * PRIMER SEMESTRE - BLOQUE 1 (Semanas 1-5)
- */
-
 export const doctrinaYConveniosWeeks1semestre: Week[] = [
 
+  // ─────────────────────────────────────────────────────────────────────────────
+  // SEMANA 1 — 3 al 9 de Marzo — D&C 19
+  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: 1,
     title: "Semana 1",
@@ -143,7 +124,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         title: "Doctrina y Convenios 19:1-24, Parte 1",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/101-doctrine-and-covenants-19-1-24-part-1?lang=spa",
-        description: "El sufrimiento de Jesucristo en Getsemaní",
+        description: "Jesucristo se sometió a la voluntad del Padre Celestial",
         secciones: [],
         questions: dc19_1_24_parte1Questions,
       },
@@ -152,7 +133,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         title: "Doctrina y Convenios 19:1-24, Parte 2",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/102-doctrine-and-covenants-19-1-24-part-2?lang=spa",
-        description: "El arrepentimiento y la Expiación de Jesucristo",
+        description: "\"Yo, Jesucristo, he padecido estas cosas por todos\"",
         secciones: [],
         questions: dc19_1_24_parte2Questions,
       },
@@ -161,7 +142,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         title: "Doctrina y Convenios 19:25-41",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/103-doctrine-and-covenants-19-25-41?lang=spa",
-        description: "Orar siempre y dedicar tiempo al servicio del Señor",
+        description: "Ver los sacrificios con una perspectiva eterna",
         secciones: [],
         questions: dc19_25_41Questions,
       },
@@ -182,9 +163,13 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "Principios para adquirir conocimiento espiritual - Parte 1",
         secciones: [],
         questions: buscar_revelacionQuestions,
-      }
-    ]
+      },
+    ],
   },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // SEMANA 2 — 10 al 16 de Marzo — D&C 20-22
+  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: 2,
     title: "Semana 2",
@@ -194,8 +179,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         id: "35-dc-20-1-36",
         title: "Doctrina y Convenios 20:1-36",
         type: "Doctrina y Convenios - Ven Sigueme",
-        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/105-doctrine-and-covenants-20-1-36?lang=spa",
-        description: "Artículos y convenios de la Iglesia",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/111-doctrine-and-covenants-20-1-36?lang=spa",
+        description: "La organización de la Iglesia de Jesucristo",
         secciones: [],
         questions: dc20_1_36Questions,
       },
@@ -203,8 +188,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         id: "36-dc-20-37-68-79",
         title: "Doctrina y Convenios 20:37, 68-79",
         type: "Doctrina y Convenios - Ven Sigueme",
-        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/106-doctrine-and-covenants-20-37-68-79?lang=spa",
-        description: "El convenio bautismal y la Santa Cena",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/112-doctrine-and-covenants-20-37?lang=spa",
+        description: "El bautismo y la Santa Cena: cumplir las expectativas del Señor",
         secciones: [],
         questions: dc20_37_68_79Questions,
       },
@@ -212,7 +197,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         id: "37-dc-21",
         title: "Doctrina y Convenios 21",
         type: "Doctrina y Convenios - Ven Sigueme",
-        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/107-doctrine-and-covenants-21?lang=spa",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/113-doctrine-and-covenants-21?lang=spa",
         description: "Recibir las palabras del profeta",
         secciones: [],
         questions: dc21Questions,
@@ -234,9 +219,13 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "Principios para adquirir conocimiento espiritual - Parte 3",
         secciones: [],
         questions: fuentes_divinasQuestions,
-      }
-    ]
+      },
+    ],
   },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // SEMANA 3 — 17 al 23 de Marzo — D&C 23-26
+  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: 3,
     title: "Semana 3",
@@ -265,7 +254,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         title: "Doctrina y Convenios 25, Parte 2",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/123-doctrine-and-covenants-25-part-2?lang=spa",
-        description: "El canto de los justos es una oración para mí",
+        description: "Buscar las cosas de un mundo mejor",
         secciones: [],
         questions: dc25_parte2Questions,
       },
@@ -287,13 +276,11 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         secciones: [],
         questions: fijar_metasQuestions,
       },
-    ]
+    ],
   },
-  
+
   // ─────────────────────────────────────────────────────────────────────────────
-  // SEMANA 4 — 24 al 30 de Marzo
-  // Bloque de escrituras: Doctrina y Convenios 27–28
-  // Lun 24: FERIADO
+  // SEMANA 4 — 24 al 30 de Marzo — D&C 27-28 (Lun 24: FERIADO)
   // ─────────────────────────────────────────────────────────────────────────────
   {
     id: 4,
@@ -305,7 +292,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         title: "Doctrina y Convenios 27:1–14",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/131-doctrine-and-covenants-27-1-14?lang=spa",
-        description: "Los símbolos de la Santa Cena y los mensajeros celestiales",
+        description: "\"Con la mira puesta únicamente en mi gloria\"",
         secciones: [],
         questions: dc27_1_14Questions,
       },
@@ -314,7 +301,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         title: "Doctrina y Convenios 27:15–18",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/132-doctrine-and-covenants-27-15-18?lang=spa",
-        description: "Poneos toda la armadura de Dios",
+        description: "\"Tomad sobre vosotros toda mi armadura\"",
         secciones: [],
         questions: dc27_15_18Questions,
       },
@@ -334,7 +321,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/531-focusing-on-jesus-christ-in-the-scriptures?lang=spa",
         description: "Técnicas para encontrar a Cristo en el estudio de las Escrituras",
         secciones: [],
-        questions:enfocarse_jcQuestions,
+        questions: enfocarse_jcQuestions,
       },
       {
         id: "169-encontrar-verdades-evangelio",
@@ -345,13 +332,11 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         secciones: [],
         questions: encontrar_verdadesQuestions,
       },
-    ]
+    ],
   },
-  
+
   // ─────────────────────────────────────────────────────────────────────────────
-  // SEMANA 5 — 31 de Marzo al 6 de Abril
-  // Bloque de escrituras: Doctrina y Convenios 29
-  // Lun 31: FERIADO
+  // SEMANA 5 — 31 de Marzo al 6 de Abril — D&C 29 (Lun 31: FERIADO)
   // ─────────────────────────────────────────────────────────────────────────────
   {
     id: 5,
@@ -363,7 +348,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         title: "Doctrina y Convenios 29:1–8",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/141-doctrine-and-covenants-29-1-8?lang=spa",
-        description: "Lo que el Padre Celestial desea para Sus hijos",
+        description: "Escucha a tu Redentor",
         secciones: [],
         questions: dc29_1_8Questions,
       },
@@ -372,7 +357,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         title: "Doctrina y Convenios 29:9–29",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/142-doctrine-and-covenants-29-9-29?lang=spa",
-        description: "El gozo por la Segunda Venida de Jesucristo",
+        description: "Sentir gozo por la Segunda Venida de Jesucristo",
         secciones: [],
         questions: dc29_9_29Questions,
       },
@@ -403,12 +388,11 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         secciones: [],
         questions: mensajes_siervosQuestions,
       },
-    ]
+    ],
   },
-  
+
   // ─────────────────────────────────────────────────────────────────────────────
-  // SEMANA 6 — 7 al 13 de Abril
-  // Bloque de escrituras: Doctrina y Convenios 30–36
+  // SEMANA 6 — 7 al 13 de Abril — D&C 30-36
   // ─────────────────────────────────────────────────────────────────────────────
   {
     id: 6,
@@ -422,7 +406,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/151-doctrine-and-covenants-30-36-part-1?lang=spa",
         description: "Llamados a predicar el Evangelio",
         secciones: [],
-        questions: []//dc30_36_parte1Questions,
+        questions: dc30_36_parte1Questions,
       },
       {
         id: "49-dc-35",
@@ -431,7 +415,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/153-doctrine-and-covenants-35?lang=spa",
         description: "El llamado de Sidney Rigdon",
         secciones: [],
-        questions: []//dc35Questions,
+        questions: dc35Questions,
       },
       {
         id: "178-dominio-practica-3",
@@ -440,7 +424,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/154-doctrinal-mastery-practice-3?lang=spa",
         description: "Repaso y aplicación práctica de pasajes clave",
         secciones: [],
-        questions: []//dominioPractica3Questions,
+        questions: dominioPractica3Questions,
       },
       {
         id: "179-ensenanza-profeta-actual",
@@ -449,15 +433,14 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/543-template-teachings-of-church-leaders?lang=spa",
         description: "Cómo estudiar y aplicar las enseñanzas de los líderes de la Iglesia",
         secciones: [],
-        questions: []//ensenanza_profeta_actualQuestions,
+        questions: ensenanza_profeta_actualQuestions,
       },
-    ]
+    ],
   },
-  
+
   // ─────────────────────────────────────────────────────────────────────────────
-  // SEMANA 7 — 14 al 20 de Abril (PASCUA DE RESURRECCIÓN)
-  // Lun 14, Mar 15, Mie 16: Clases especiales
-  // Jue 17, Vie 18: FERIADOS
+  // SEMANA 7 — 14 al 20 de Abril — PASCUA DE RESURRECCIÓN
+  // Jue 17 y Vie 18: FERIADOS
   // ─────────────────────────────────────────────────────────────────────────────
   {
     id: 7,
@@ -471,7 +454,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/511-the-living-christ-part-1?lang=spa",
         description: "Estudio y memorización del testimonio del Cristo Viviente",
         secciones: [],
-        questions: [], //el_cristo_viviente_parte1Questions,
+        questions: el_cristo_viviente_parte1Questions,
       },
       {
         id: "el-cristo-viviente-parte-2",
@@ -480,7 +463,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/512-the-living-christ-part-2?lang=spa",
         description: "Aplicación del testimonio del Cristo Viviente a la vida personal",
         secciones: [],
-        questions: [], //el_cristo_viviente_parte2Questions,
+        questions: el_cristo_viviente_parte2Questions,
       },
       {
         id: "pascua-resurreccion",
@@ -489,14 +472,13 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=spa",
         description: "Celebración de la Resurrección de Jesucristo",
         secciones: [],
-        questions: [], //pascua_resurreccionQuestions,
+        questions: pascua_resurreccionQuestions,
       },
-    ]
+    ],
   },
-  
+
   // ─────────────────────────────────────────────────────────────────────────────
-  // SEMANA 8 — 21 al 27 de Abril
-  // Bloque de escrituras: Doctrina y Convenios 30–36 (continuación)
+  // SEMANA 8 — 21 al 27 de Abril — D&C 30-36 continuación
   // ─────────────────────────────────────────────────────────────────────────────
   {
     id: 8,
@@ -510,7 +492,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/152-doctrine-and-covenants-30-36-part-2?lang=spa",
         description: "Llamados a proclamar el Evangelio de Jesucristo",
         secciones: [],
-        questions: [], //dc30_36_parte2Questions,
+        questions: dc30_36_parte2Questions,
       },
       {
         id: "106-evalua-aprendizaje-3",
@@ -519,14 +501,13 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/164-assess-your-learning-3?lang=spa",
         description: "Revisión del aprendizaje del tercer bloque",
         secciones: [],
-        questions:[], // evalua_aprendizaje_3Questions,
+        questions: evalua_aprendizaje_3Questions,
       },
-    ]
+    ],
   },
-  
+
   // ─────────────────────────────────────────────────────────────────────────────
-  // SEMANA 9 — 28 de Abril al 4 de Mayo
-  // Bloque de escrituras: Doctrina y Convenios 37–40
+  // SEMANA 9 — 28 de Abril al 4 de Mayo — D&C 37-40
   // Jue 1 Mayo y Vie 2 Mayo: FERIADOS
   // ─────────────────────────────────────────────────────────────────────────────
   {
@@ -541,7 +522,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/161-doctrine-and-covenants-37-38?lang=spa",
         description: "El mandamiento de congregarse y el amor de Cristo por los santos",
         secciones: [],
-        questions: [], //dc37_38_parte1Questions,
+        questions: dc37_38_parte1Questions,
       },
       {
         id: "52-dc-38-parte-2",
@@ -550,7 +531,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/162-doctrine-and-covenants-38-15-27-34-42?lang=spa",
         description: "Principios de unidad, igualdad y preparación en Sion",
         secciones: [],
-        questions: [], //dc38_parte2Questions,
+        questions: dc38_parte2Questions,
       },
       {
         id: "53-dc-39-40",
@@ -559,7 +540,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/163-doctrine-and-covenants-39-40?lang=spa",
         description: "El peligro de postergar el arrepentimiento y las promesas a James Covill",
         secciones: [],
-        questions: [], //dc39_40Questions,
+        questions: dc39_40Questions,
       },
       {
         id: "180-tomar-notas-escrituras",
@@ -568,63 +549,70 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/533-annotating-scriptures?lang=spa",
         description: "Técnicas para marcar y anotar las Escrituras de forma efectiva",
         secciones: [],
-        questions: [], //tomar_notas_escriturasQuestions,
+        questions: tomar_notas_escriturasQuestions,
       },
-    ]
+    ],
   },
 
+  // ─────────────────────────────────────────────────────────────────────────────
+  // SEMANA 10 — 5 al 11 de Mayo — D&C 41-44
+  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: 10,
     title: "Semana 10",
     dateRange: "5 al 11 de Mayo",
     lessons: [
       {
-        id: "61-dc-51-52",
-        title: "Doctrina y Convenios 51-52",
+        id: "54-dc-41",
+        title: "Doctrina y Convenios 41",
         type: "Doctrina y Convenios - Ven Sigueme",
-        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/134-doctrine-and-covenants-51-52?lang=spa",
-        description: "Instrucciones de mayordomía para el obispo y discernimiento de siervos verdaderos",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/171-doctrine-and-covenants-41?lang=spa",
+        description: "El Señor llama al primer obispo de la Iglesia",
         secciones: [],
-        questions: dc61_dc51_52Questions,
+        questions: dc41Questions,
       },
       {
-        id: "62-dc-56",
-        title: "Doctrina y Convenios 56",
+        id: "55-dc-42-parte-1",
+        title: "Doctrina y Convenios 42, Parte 1",
         type: "Doctrina y Convenios - Ven Sigueme",
-        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/135-doctrine-and-covenants-56?lang=spa",
-        description: "Advertencias a los ricos orgullosos y a los pobres ociosos",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/172-doctrine-and-covenants-42-part-1?lang=spa",
+        description: "Las leyes y mandamientos para guiar a la Iglesia",
         secciones: [],
-        questions: dc62_dc56Questions,
+        questions: dc42_parte1Questions,
       },
       {
-        id: "63-dc-58-parte-1",
-        title: "Doctrina y Convenios 58, Parte 1",
+        id: "56-dc-42-29-39",
+        title: "Doctrina y Convenios 42:29–39",
         type: "Doctrina y Convenios - Ven Sigueme",
-        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/136-doctrine-and-covenants-58-part-1?lang=spa",
-        description: "El propósito de las tribulaciones e iniciativa personal en el bien",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/173-doctrine-and-covenants-42-29-39?lang=spa",
+        description: "La ley de consagración y el cuidado de los pobres",
         secciones: [],
-        questions: dc63_dc58_parte1Questions,
+        questions: dc42_29_39Questions,
       },
       {
-        id: "64-dc-58-parte-2",
-        title: "Doctrina y Convenios 58, Parte 2",
-        type: "Doctrina y Convenios - Ven Sigueme",
-        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/137-doctrine-and-covenants-58-part-2?lang=spa",
-        description: "El arrepentimiento completo: confesar y abandonar el pecado",
+        id: "181-importancia-educacion",
+        title: "La importancia de la educación",
+        type: "Preparación para la Vida",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/561-importance-of-education?lang=spa",
+        description: "Preparación académica como mayordomía del talento",
         secciones: [],
-        questions: dc64_dc58_parte2Questions,
+        questions: importancia_educacionQuestions,
       },
       {
-        id: "178-dominio-2",
-        title: "Práctica del Dominio de la doctrina 2",
-        type: "Dominio de la Doctrina",
-        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/138-doctrinal-mastery-practice-2?lang=spa",
-        description: "Uso práctico y explicación de pasajes clave de las Escrituras",
+        id: "57-dc-42-parte-2",
+        title: "Doctrina y Convenios 42, Parte 2",
+        type: "Doctrina y Convenios - Ven Sigueme",
+        chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/174-doctrine-and-covenants-42-part-2?lang=spa",
+        description: "Mayordomía, consagración y el cuidado de los pobres",
         secciones: [],
-        questions: dominio_2Questions,
-      }
-    ]
+        questions: dc42_parte2Questions,
+      },
+    ],
   },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // SEMANAS 11-20 — sin cambios en imports
+  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: 11,
     title: "Semana 11",
@@ -674,8 +662,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "Examinar conceptos con una perspectiva eterna",
         secciones: [],
         questions: adquirir_conocimiento_2Questions,
-      }
-    ]
+      },
+    ],
   },
   {
     id: 12,
@@ -726,8 +714,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "Los hijos de perdición y los requisitos del Reino Celestial",
         secciones: [],
         questions: dc73_dc76_parte2Questions,
-      }
-    ]
+      },
+    ],
   },
   {
     id: 13,
@@ -735,7 +723,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
     dateRange: "26 de Mayo al 1 de Junio",
     lessons: [
       {
-        id: "73-dc-76-parte-3",
+        id: "73b-dc-76-parte-3",
         title: "Doctrina y Convenios 76, Parte 3",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/149-doctrine-and-covenants-76-part-3?lang=spa",
@@ -778,8 +766,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "El llamamiento de Frederick G. Williams en la Primera Presidencia",
         secciones: [],
         questions: dc77_dc81Questions,
-      }
-    ]
+      },
+    ],
   },
   {
     id: 14,
@@ -830,8 +818,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "Aprender a buscar la verdad mediante las fuentes establecidas por Dios",
         secciones: [],
         questions: fuentes_divinas_1Questions,
-      }
-    ]
+      },
+    ],
   },
   {
     id: 15,
@@ -858,7 +846,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
       },
       {
         id: "84-dc-88-parte-1",
-        title: "Doctrina y Convenios 84, Parte 1",
+        title: "Doctrina y Convenios 88, Parte 1",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/160-doctrine-and-covenants-88-part-1?lang=spa",
         description: "La hoja de olivo: la luz de la verdad y las leyes de los reinos de gloria",
@@ -882,8 +870,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "Repaso integral y aplicación de casos prácticos con las Escrituras",
         secciones: [],
         questions: dominio_3Questions,
-      }
-    ]
+      },
+    ],
   },
   {
     id: 16,
@@ -934,8 +922,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "Revisión y evaluación del segundo trimestre de Seminario",
         secciones: [],
         questions: evaluacion_2Questions,
-      }
-    ]
+      },
+    ],
   },
   {
     id: 17,
@@ -986,8 +974,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "Evaluar la fiabilidad de la información externa frente a las fuentes de Dios",
         secciones: [],
         questions: fuentes_divinas_2Questions,
-      }
-    ]
+      },
+    ],
   },
   {
     id: 18,
@@ -1038,8 +1026,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "La disolución del Campo de Sion y los requisitos para la redención futura",
         secciones: [],
         questions: dc98_dc105Questions,
-      }
-    ]
+      },
+    ],
   },
   {
     id: 19,
@@ -1074,8 +1062,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         questions: dc101_dc107_parte2Questions,
       },
       {
-        id: "102-dc-107-parte-3-108",
-        title: "Doctrina y Convenios 107:Parte 3",
+        id: "102-dc-107-parte-3",
+        title: "Doctrina y Convenios 107, Parte 3",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/180-doctrine-and-covenants-107-part-3?lang=spa",
         description: "La línea patriarcal de Adán y la reunión gloriosa en Adán-ondi-Ahmán",
@@ -1090,8 +1078,8 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "Práctica de los tres principios para adquirir conocimiento en situaciones complejas",
         secciones: [],
         questions: adquirir_conocimiento_4Questions,
-      }
-    ]
+      },
+    ],
   },
   {
     id: 20,
@@ -1142,7 +1130,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         description: "Cierre del primer semestre, expresiones de fe y metas para el futuro",
         secciones: [],
         questions: conclusion_semestreQuestions,
-      }
-    ]
-  }
-] // Cierre final del array de semanas
+      },
+    ],
+  },
+]
