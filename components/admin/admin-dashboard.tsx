@@ -1,17 +1,13 @@
 "use client"
 
 // components/admin/admin-dashboard.tsx
-// Panel visual de estadísticas MSI.
-// Recibe datos pre-fetched del server component.
-
 import { useState } from "react"
 import {
-  BarChart, Bar, LineChart, Line,
-  XAxis, YAxis, Tooltip, ResponsiveContainer, Cell,
+  BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell,
 } from "recharts"
 import {
   BookOpen, MessageCircle, Eye, FileText,
-  Share2, Monitor, TrendingUp, Users,
+  Share2, Monitor, TrendingUp,
   CheckCircle2, XCircle, Clock, Award,
 } from "lucide-react"
 
@@ -43,12 +39,12 @@ interface TopPage {
 
 interface AdminDashboardProps {
   stats: {
-    quizzes:    { id: string; percentage: number; category_name: string; course_type: string }[]
-    reports:    { id: string; percentage: number }[]
-    recoveries: { id: string }[]
-    studies:    { id: string; category_name: string }[]
-    shares:     { id: string; total: number; category_name: string }[]
-    pageViews:  { path: string }[]
+    quizzes:         { id: string; percentage: number; category_name: string; course_type: string }[]
+    reports:         { id: string; percentage: number }[]
+    recoveriesCount: number   // conteo exacto desde DB
+    studiesCount:    number
+    sharesCount:     number
+    pageViewsCount:  number   // conteo exacto — sin límite de 1000
   }
   recentQuizzes: QuizEvent[]
   topLessons:    TopLesson[]
@@ -102,17 +98,18 @@ export function AdminDashboard({
   const [activeTab, setActiveTab] = useState<"resumen" | "quizzes" | "lecciones" | "paginas">("resumen")
 
   // ── Métricas derivadas ──────────────────────────────────────────────────────
-  const totalQuizzes   = stats.quizzes.length
-  const avgScore       = avg(stats.quizzes.map((q) => q.percentage))
-  const passRate       = totalQuizzes
+  const totalQuizzes    = stats.quizzes.length
+  const avgScore        = avg(stats.quizzes.map((q) => q.percentage))
+  const passRate        = totalQuizzes
     ? Math.round(stats.quizzes.filter((q) => q.percentage >= 80).length / totalQuizzes * 100)
     : 0
-  const totalReports   = stats.reports.length
-  const totalRecoveries = stats.recoveries.length
-  const totalStudies   = stats.studies.length
-  const totalShares    = stats.shares.length
-  const totalPageViews = stats.pageViews.length
-  const totalLessonsShared = stats.shares.reduce((a, s) => a + (s.total ?? 0), 0)
+  const totalReports    = stats.reports.length
+
+  // Conteos exactos desde la DB (sin límite de 1000)
+  const totalRecoveries = stats.recoveriesCount
+  const totalStudies    = stats.studiesCount
+  const totalShares     = stats.sharesCount
+  const totalPageViews  = stats.pageViewsCount   // ← ahora es exacto
 
   // ── Quizzes por curso ───────────────────────────────────────────────────────
   const byCourse = Object.entries(
@@ -135,18 +132,9 @@ export function AdminDashboard({
     { label: "<60%",   count: stats.quizzes.filter((q) => q.percentage < 60).length },
   ]
 
-  // ── Tabs de páginas visitadas ──────────────────────────────────────────────
-  const pageData = stats.pageViews
-    .reduce<Record<string, number>>((acc, pv) => {
-      acc[pv.path] = (acc[pv.path] ?? 0) + 1
-      return acc
-    }, {})
-  const topPagesLocal = Object.entries(pageData)
-    .sort(([, a], [, b]) => b - a)
-    .slice(0, 12)
-    .map(([path, views]) => ({ path, views }))
+  // ── Páginas más visitadas (desde topPages ya procesado en la vista SQL) ─────
+  const topPagesLocal = topPages.slice(0, 12)
 
-  // ── Render ──────────────────────────────────────────────────────────────────
   return (
     <div className="min-h-screen bg-background">
 
@@ -158,9 +146,7 @@ export function AdminDashboard({
               <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-muted-foreground">
                 Panel de administración
               </p>
-              <h1 className="mt-0.5 text-xl font-bold text-foreground">
-                Aula SEI Analytics
-              </h1>
+              <h1 className="mt-0.5 text-xl font-bold text-foreground">MSI Analytics</h1>
             </div>
             <div className="flex items-center gap-2 rounded-full bg-muted px-3 py-1.5">
               <div className="h-2 w-2 animate-pulse rounded-full bg-green-500" />
@@ -174,23 +160,23 @@ export function AdminDashboard({
 
         {/* KPIs principales */}
         <div className="mb-8 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
-          <KpiCard icon={BookOpen}    label="Quizzes"        value={totalQuizzes}       color={COLORS.primary}   />
-          <KpiCard icon={Award}       label="Score promedio" value={`${avgScore}%`}     color={scoreColor(avgScore)} />
-          <KpiCard icon={TrendingUp}  label="Tasa aprobación" value={`${passRate}%`}    color={passRate >= 70 ? COLORS.success : COLORS.warning} />
-          <KpiCard icon={MessageCircle} label="Reportes WA"  value={totalReports}       color="#25D366"          />
-          <KpiCard icon={Share2}      label="Planes creados" value={totalShares}        color={COLORS.seminario} />
-          <KpiCard icon={Monitor}     label="Visitas (7d)"   value={totalPageViews}     color={COLORS.instituto} />
+          <KpiCard icon={BookOpen}      label="Quizzes"          value={totalQuizzes}              color={COLORS.primary}   />
+          <KpiCard icon={Award}         label="Score promedio"   value={`${avgScore}%`}            color={scoreColor(avgScore)} />
+          <KpiCard icon={TrendingUp}    label="Tasa aprobación"  value={`${passRate}%`}            color={passRate >= 70 ? COLORS.success : COLORS.warning} />
+          <KpiCard icon={MessageCircle} label="Reportes WA"      value={totalReports}              color="#25D366" />
+          <KpiCard icon={Share2}        label="Planes creados"   value={totalShares}               color={COLORS.seminario} />
+          <KpiCard icon={Monitor}       label="Visitas (7d)"     value={totalPageViews.toLocaleString("es-AR")} color={COLORS.instituto} />
         </div>
 
-        {/* Segunda fila de KPIs */}
+        {/* Segunda fila */}
         <div className="mb-8 grid grid-cols-2 gap-3 sm:grid-cols-4">
-          <KpiCard icon={Eye}       label="Planes vistos"    value={totalRecoveries}      color={COLORS.primary}   small />
-          <KpiCard icon={FileText}  label="Estudios abiertos" value={totalStudies}        color={COLORS.seminario} small />
-          <KpiCard icon={Users}     label="Lecciones asignadas" value={totalLessonsShared} color={COLORS.instituto} small />
-          <KpiCard icon={CheckCircle2} label="Quiz perfectos" value={stats.quizzes.filter((q) => q.percentage === 100).length} color={COLORS.success} small />
+          <KpiCard icon={Eye}           label="Planes vistos"     value={totalRecoveries}           color={COLORS.primary}   small />
+          <KpiCard icon={FileText}      label="Estudios abiertos" value={totalStudies}              color={COLORS.seminario} small />
+          <KpiCard icon={Share2}        label="Lecciones asignadas" value={totalShares}             color={COLORS.instituto} small />
+          <KpiCard icon={CheckCircle2}  label="Quiz perfectos"    value={stats.quizzes.filter((q) => q.percentage === 100).length} color={COLORS.success} small />
         </div>
 
-        {/* Tabs de navegación */}
+        {/* Tabs */}
         <div className="mb-6 flex gap-1 rounded-xl border border-border bg-muted/40 p-1">
           {(["resumen", "quizzes", "lecciones", "paginas"] as const).map((tab) => (
             <button
@@ -212,34 +198,25 @@ export function AdminDashboard({
         {activeTab === "resumen" && (
           <div className="grid gap-6 lg:grid-cols-2">
 
-            {/* Quizzes por curso */}
             <div className="rounded-xl border border-border bg-card p-5">
               <h3 className="mb-4 text-sm font-bold text-foreground">Quizzes por curso</h3>
-              {byCourse.length === 0 ? (
-                <EmptyState />
-              ) : (
+              {byCourse.length === 0 ? <EmptyState /> : (
                 <ResponsiveContainer width="100%" height={220}>
                   <BarChart data={byCourse} layout="vertical" margin={{ left: 0, right: 16 }}>
                     <XAxis type="number" tick={{ fontSize: 10 }} />
                     <YAxis type="category" dataKey="name" tick={{ fontSize: 10 }} width={130} />
-                    <Tooltip
-                      contentStyle={{ fontSize: 11, borderRadius: 8 }}
+                    <Tooltip contentStyle={{ fontSize: 11, borderRadius: 8 }}
                       formatter={(val: number, name: string) =>
-                        name === "count" ? [val, "Quizzes"] : [`${val}%`, "Promedio"]
-                      }
-                    />
+                        name === "count" ? [val, "Quizzes"] : [`${val}%`, "Promedio"]} />
                     <Bar dataKey="count" fill={COLORS.primary} radius={[0, 4, 4, 0]} />
                   </BarChart>
                 </ResponsiveContainer>
               )}
             </div>
 
-            {/* Distribución de scores */}
             <div className="rounded-xl border border-border bg-card p-5">
               <h3 className="mb-4 text-sm font-bold text-foreground">Distribución de resultados</h3>
-              {totalQuizzes === 0 ? (
-                <EmptyState />
-              ) : (
+              {totalQuizzes === 0 ? <EmptyState /> : (
                 <>
                   <ResponsiveContainer width="100%" height={180}>
                     <BarChart data={scoreDist}>
@@ -265,20 +242,22 @@ export function AdminDashboard({
               )}
             </div>
 
-            {/* Top páginas visitadas */}
             <div className="rounded-xl border border-border bg-card p-5 lg:col-span-2">
-              <h3 className="mb-4 text-sm font-bold text-foreground">Páginas más visitadas (últimos 7 días)</h3>
-              {topPagesLocal.length === 0 ? (
-                <EmptyState />
-              ) : (
+              <h3 className="mb-4 text-sm font-bold text-foreground">
+                Páginas más visitadas (últimos 7 días)
+                <span className="ml-2 text-xs font-normal text-muted-foreground">
+                  Total: {totalPageViews.toLocaleString("es-AR")} visitas
+                </span>
+              </h3>
+              {topPagesLocal.length === 0 ? <EmptyState /> : (
                 <div className="grid gap-2 sm:grid-cols-2">
                   {topPagesLocal.map(({ path, views }) => (
                     <div key={path} className="flex items-center justify-between rounded-lg bg-muted/40 px-3 py-2">
-                      <span className="text-xs text-muted-foreground font-mono truncate max-w-[70%]">
+                      <span className="truncate max-w-[70%] font-mono text-xs text-muted-foreground">
                         {shortPath(path)}
                       </span>
                       <span className="ml-2 shrink-0 rounded-full bg-primary/10 px-2 py-0.5 text-[10px] font-bold text-primary">
-                        {views} visitas
+                        {views.toLocaleString("es-AR")} visitas
                       </span>
                     </div>
                   ))}
@@ -301,14 +280,12 @@ export function AdminDashboard({
               <div className="divide-y divide-border">
                 {recentQuizzes.map((q) => (
                   <div key={q.id} className="flex items-center gap-4 px-5 py-3">
-                    {/* Score badge */}
                     <div
                       className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-xs font-black text-white"
                       style={{ backgroundColor: scoreColor(q.percentage) }}
                     >
                       {q.percentage}%
                     </div>
-
                     <div className="flex-1 min-w-0">
                       <p className="truncate text-sm font-semibold text-foreground">{q.lesson_title}</p>
                       <p className="text-[11px] text-muted-foreground">
@@ -318,7 +295,6 @@ export function AdminDashboard({
                         )}
                       </p>
                     </div>
-
                     <div className="flex shrink-0 flex-col items-end gap-1">
                       <span className="text-[10px] font-bold" style={{ color: scoreColor(q.percentage) }}>
                         {q.score}/{q.total}
@@ -328,8 +304,6 @@ export function AdminDashboard({
                         {formatDate(q.created_at)}
                       </span>
                     </div>
-
-                    {/* Indicador visual de resultado */}
                     {q.percentage >= 80
                       ? <CheckCircle2 className="h-4 w-4 shrink-0 text-green-500" />
                       : <XCircle className="h-4 w-4 shrink-0 text-red-400" />
@@ -380,23 +354,24 @@ export function AdminDashboard({
         {activeTab === "paginas" && (
           <div className="grid gap-6">
             <div className="rounded-xl border border-border bg-card p-5">
-              <h3 className="mb-4 text-sm font-bold text-foreground">Visitas por página (últimos 7 días)</h3>
-              {topPagesLocal.length === 0 ? (
-                <EmptyState />
-              ) : (
+              <h3 className="mb-1 text-sm font-bold text-foreground">
+                Visitas por página (últimos 7 días)
+              </h3>
+              <p className="mb-4 text-xs text-muted-foreground">
+                Total exacto: <strong>{totalPageViews.toLocaleString("es-AR")}</strong> visitas
+              </p>
+              {topPagesLocal.length === 0 ? <EmptyState /> : (
                 <ResponsiveContainer width="100%" height={300}>
                   <BarChart data={topPagesLocal.slice(0, 10)} layout="vertical">
                     <XAxis type="number" tick={{ fontSize: 10 }} />
                     <YAxis
-                      type="category"
-                      dataKey="path"
-                      tick={{ fontSize: 9 }}
-                      width={180}
+                      type="category" dataKey="path"
+                      tick={{ fontSize: 9 }} width={180}
                       tickFormatter={shortPath}
                     />
                     <Tooltip
                       contentStyle={{ fontSize: 11, borderRadius: 8 }}
-                      formatter={(val: number) => [val, "Visitas"]}
+                      formatter={(val: number) => [val.toLocaleString("es-AR"), "Visitas"]}
                       labelFormatter={shortPath}
                     />
                     <Bar dataKey="views" fill={COLORS.instituto} radius={[0, 4, 4, 0]} />
@@ -410,9 +385,7 @@ export function AdminDashboard({
         {/* Footer */}
         <div className="mt-8 text-center text-[10px] text-muted-foreground/40">
           MSI Admin · Datos en tiempo real desde Supabase ·{" "}
-          <a href={`/admin?key=${adminKey}`} className="underline">
-            Actualizar
-          </a>
+          <a href={`/admin?key=${adminKey}`} className="underline">Actualizar</a>
         </div>
 
       </div>
@@ -425,7 +398,7 @@ export function AdminDashboard({
 function KpiCard({
   icon: Icon, label, value, color, small = false,
 }: {
-  icon: React.ComponentType<React.SVGProps<SVGSVGElement>>
+  icon: React.ComponentType<{ className?: string }>
   label: string
   value: string | number
   color: string
