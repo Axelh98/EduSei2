@@ -1,1495 +1,2025 @@
 import type { Question } from "@/lib/types";
-// ============================================================================
-// SEMANA 16
-// ============================================================================
-
-// Lección: Doctrina y Convenios 89
-export const dc86_dc89Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Por qué dio el Señor la Palabra de Sabiduría según DyC 89:4?",
-    options: [
-      "Por motivos meramente financieros de la época",
-      "A consecuencia de las maldades y designios de hombres conspiradores en los últimos días",
-      "Como una regla temporal para los pioneros",
-      "Sin un propósito específico, solo como sugerencia"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 2,
-    question: "¿Qué sustancias prohíbe explícitamente la revelación y su interpretación profética actual?",
-    options: [
-      "Cualquier tipo de carne y frutas",
-      "El vino, las bebidas fuertes (alcohol), las bebidas calientes (café y té) y el tabaco",
-      "Los alimentos procesados únicamente",
-      "El azúcar y los lácteos por completo"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 3,
-    question: "Según DyC 89:18-19, ¿qué notables bendiciones espirituales y mentales reciben quienes obedecen?",
-    options: [
-      "Inmunidad absoluta a cualquier muerte física",
-      "Hallarán sabiduría y grandes tesoros de conocimiento, sí, tesoros ocultos",
-      "Riquezas materiales incalculables",
-      "Habilidades físicas sobrenaturales"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 4,
-    question: "¿Qué promesa extraordinaria evoca la parte final de DyC 89:21?",
-    options: [
-      "Que el ángel de la muerte pasará de ellos, como de los hijos de Israel, y no los matará",
-      "Que nunca se cansarán al caminar",
-      "Que no tendrán tentaciones en la vida",
-      "Que gozarán de juventud eterna terrenal"
-    ],
-    correctAnswer: 0
-  },
-  {
-    id: 5,
-    question: "¿Por qué es la Palabra de Sabiduría un principio con promesa tanto física como espiritual?",
-    options: [
-      "Porque solo afecta el aparato digestivo",
-      "Porque cuidar el cuerpo (templo del Espíritu) nos permite mantener la claridad mental para recibir revelación",
-      "No tiene componentes espirituales, es solo de salud",
-      "Porque restringe las libertades personales de forma total"
-    ],
-    correctAnswer: 1
-  }
-];
-
-// Lección: Doctrina y Convenios 90-91
-export const dc87_dc90_91Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Qué gran verdad sobre los oráculos (revelaciones) se enseña en DyC 90:4-5?",
-    options: [
-      "Que pueden ser tratados a la ligera sin consecuencias",
-      "Tened cuidado cómo los tratáis, no sea que caigáis bajo condenación y tropecéis",
-      "Que los profetas ya no reciben oráculos",
-      "Que solo aplican para la antigüedad"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 2,
-    question: "Según DyC 91:1-3, ¿cuál fue la respuesta del Señor acerca de traducir los libros Apócrifos?",
-    options: [
-      "Contienen solo mentiras y deben quemarse",
-      "Contienen muchas cosas verdaderas, pero también muchas interpolaciones humanas; no es necesario traducirlos",
-      "Son la escritura más pura del mundo entero",
-      "José Smith debía traducirlos letra por letra obligatoriamente"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 3,
-    question: "¿Cómo enseña DyC 91:4-5 que se debe leer los libros Apócrifos para beneficiarse?",
-    options: [
-      "Con la guía de comentarios de eruditos seculares",
-      "Por medio del Espíritu, porque el Espíritu manifiesta la verdad a quien es iluminado",
-      "No deben leerse bajo ninguna circunstancia",
-      "Buscando únicamente los errores humanos"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 4,
-    question: "Según DyC 90:6, ¿quiénes poseen las llaves del reino juntamente con el profeta?",
-    options: [
-      "Cualquier miembro de la Iglesia con antigüedad",
-      "Sus consejeros en la Primera Presidencia",
-      "Únicamente los historiadores de la Iglesia",
-      "Los líderes políticos conversos"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 5,
-    question: "¿Qué principio de discernimiento aprendemos de la revelación sobre los Apócrifos?",
-    options: [
-      "Rechazar todo libro que no esté en el canon oficial de inmediato",
-      "Que el Espíritu Santo nos ayuda a rescatar la verdad y discernir el error en nuestras lecturas",
-      "Que todo lo escrito por hombres es falso",
-      "No podemos discernir la verdad fuera de las Escrituras"
-    ],
-    correctAnswer: 1
-  }
-];
-
-// Lección: Doctrina y Convenios 93, Parte 1
-export const dc88_dc93_parte1Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Qué extraordinaria promesa abre la sección en DyC 93:1?",
-    options: [
-      "Todo el que deje sus pecados, venga a Cristo y guarde Sus mandamientos, verá Su faz",
-      "Que la vida terrenal será sin pruebas para los santos",
-      "Que recibirán revelación sin necesidad de orar",
-      "Que el mal desaparecerá del mundo de inmediato"
-    ],
-    correctAnswer: 0
-  },
-  {
-    id: 2,
-    question: "Según DyC 93:12-14, ¿cómo progresó Jesucristo en su vida mortal?",
-    options: [
-      "Tenía todo el conocimiento completo desde el nacimiento sin esfuerzo",
-      "No recibió de la plenitud al principio, sino que continuó de gracia en gracia hasta recibir la plenitud",
-      "Su cuerpo no experimentó crecimiento humano normal",
-      "Su progreso fue idéntico al de los seres caídos"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 3,
-    question: "¿Para qué dio el Señor los detalles del progreso de Cristo en DyC 93:19?",
-    options: [
-      "Para desanimarnos al ver Su grandeza",
-      "Para que comprendáis y sepáis cómo adorar, y sepáis lo que adoráis, y vengáis al Padre en Su nombre",
-      "Como un dato meramente histórico sin aplicación",
-      "Para demostrar que Cristo era solo un hombre común"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 4,
-    question: "¿Qué significa avanzar 'de gracia en gracia' en nuestra vida espiritual?",
-    options: [
-      "Esperar que la salvación ocurra sin esfuerzo personal",
-      "Aprender y crecer línea por línea, recibiendo fortaleza divina a medida que obedecemos",
-      "Saltar de un error a otro sin arrepentimiento",
-      "Depender solo de los milagros externos"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 5,
-    question: "¿Cuál es la verdadera naturaleza de la adoración según esta lección?",
-    options: [
-      "Cumplir con ritos externos los domingos solamente",
-      "Seguir el ejemplo del Salvador, alineando nuestra vida con la luz y verdad del Padre",
-      "Sentir emociones pasajeras en las reuniones",
-      "Memorizar pasajes complejos sin aplicarlos"
-    ],
-    correctAnswer: 1
-  }
-];
-
-// Lección: Doctrina y Convenios 93, Parte 2
-export const dc89_dc93_parte2Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Qué asombrosa definición de la verdad se encuentra en DyC 93:24?",
-    options: [
-      "La verdad es lo que la mayoría de las personas acepta como real",
-      "El conocimiento de las cosas como son, como eran y como han de ser",
-      "Una teoría filosófica que cambia con cada generación",
-      "Un concepto inalcanzable para la mente humana"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 2,
-    question: "¿Qué enseña DyC 93:29 sobre el origen de la inteligencia del hombre?",
-    options: [
-      "Fue creada de la nada en el nacimiento mortal",
-      "La inteligencia, o sea, la luz de verdad, no fue creada ni hecha, ni tampoco lo puede ser",
-      "Es un producto de la evolución puramente orgánica",
-      "Fue diseñada por ángeles menores"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 3,
-    question: "Según DyC 93:39, ¿cómo quita el inicuo la luz y la verdad de los hijos de los hombres?",
-    options: [
-      "Por la fuerza quitando su albedrío",
-      "Por motivo de la desobediencia y a causa de las tradiciones de sus padres",
-      "Haciendo que pierdan sus capacidades intelectuales",
-      "Únicamente mediante desastres naturales"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 4,
-    question: "¿Qué severa reprensión dio el Señor a los líderes en DyC 93:41-43?",
-    options: [
-      "No haber viajado lo suficiente en las misiones",
-      "No haber enseñado a sus hijos la luz y la verdad según los mandamientos",
-      "Por el manejo de los fondos del templo",
-      "Por desacuerdos doctrinales públicos"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 5,
-    question: "¿Cómo define DyC 93:36 la verdadera gloria de Dios?",
-    options: [
-      "La riqueza material del universo",
-      "La gloria de Dios es la inteligencia, o en otras palabras, luz y verdad",
-      "El poder para infundir temor en los hombres",
-      "La admiración pasiva de Sus creaciones"
-    ],
-    correctAnswer: 1
-  }
-];
-
-// Lección: Evaluación del aprendizaje 2 (Especial)
-export const evaluacion_2Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Cuál es el enfoque principal de esta segunda evaluación de aprendizaje?",
-    options: [
-      "Asignar notas bajas para motivar a los estudiantes",
-      "Permitir al alumno reflexionar sobre su asimilación de la Palabra de Sabiduría, el Sacerdocio y su relación con Cristo",
-      "Fomentar debates competitivos entre los distritos de seminario",
-      "Memorizar fechas de las revelaciones de Ohio"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 2,
-    question: "Cuando descubrimos que nos cuesta cumplir con un principio evaluado, ¿cuál es la respuesta correcta?",
-    options: [
-      "Abandonar seminario por frustración",
-      "Acudir al Salvador en oración, usar Su expiación y trazar metas sinceras de cambio",
-      "Fingir ante el maestro que cumplimos a la perfección",
-      "Culpar a los miembros de nuestra familia"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 3,
-    question: "¿Por qué las autoevaluaciones periódicas fortalecen el testimonio?",
-    options: [
-      "Porque revelan que somos perfectos",
-      "Porque nos ayudan a examinar nuestra vida con perspectiva eterna y ver el progreso real guiado por el Espíritu",
-      "Porque eliminan la necesidad de confesión",
-      "No tienen impacto en el testimonio"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 4,
-    question: "¿Qué atributo del discipulado se demuestra al tomar una evaluación con honestidad?",
-    options: [
-      "Orgullo intelectual",
-      "Integridad y deseos reales de alinearse con el Salvador",
-      "Temor al castigo de los líderes",
-      "Indiferencia hacia los resultados"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 5,
-    question: "¿De quién depende el verdadero éxito final de nuestro progreso evaluado?",
-    options: [
-      "Del maestro de Seminario exclusivamente",
-      "De nuestra voluntad cooperando con la gracia redentora de Jesucristo",
-      "De la opinión de nuestros compañeros de clase",
-      "De la suerte en responder los cuestionarios"
-    ],
-    correctAnswer: 1
-  }
-];
 
 // ============================================================================
-// SEMANA 17
+// SEMANA 16 — 16 al 22 de Junio
+// Lecciones: Autosuficiencia cuidar otros, D&C 64:1-17, D&C 64:20-43, D&C 65
 // ============================================================================
 
-// Lección: Doctrina y Convenios 94-97
-export const dc90_dc94_97Questions: Question[] = [
+// La autosuficiencia nos permite cuidar mejor de los demás
+export const autosuficiencia_cuidar_otrosQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Qué advertencia estricta da DyC 94:8-9 sobre la edificación de la casa del Señor?",
+    question:
+      "D&C 82:18–19 declara que el propósito de la organización económica de la Iglesia es que todos puedan servir a Dios y a los hombres. ¿Qué condición previa hace posible ese servicio?",
     options: [
-      "No permitir que entre en ella ninguna cosa inmunda para que no sea profanada",
-      "Decorarla con lujos costosos del mundo exterior",
-      "Edificarla sin planos específicos",
-      "Utilizarla para fines comerciales diarios"
+      "Que cada persona esté libre de necesidades básicas para poder dar a otros sin agotarse.",
+      "Que el liderazgo de la Iglesia gestione los recursos centralmente.",
+      "Que cada miembro done el cien por ciento de sus ingresos al fondo de bienestar.",
+      "Que los santos vivan en comunidades físicamente separadas del mundo.",
     ],
-    correctAnswer: 0
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Según DyC 97:8, ¿a quiénes acepta el Señor con certeza en Sus santos templos?",
+    question:
+      "Mosíah 18:27 describe cómo los santos del rey Benjamín compartían sus bienes. ¿Cuál era el criterio de esa distribución?",
     options: [
-      "A los que tienen una posición social alta",
-      "A todos los que saben que su corazón es sincero y está contrito ante mí",
-      "A quienes nunca han tenido pruebas",
-      "Únicamente a los líderes ancianos"
+      "Que todos recibieran exactamente la misma cantidad sin excepción.",
+      "Que los ricos dieran todo y los pobres recibieran todo hasta igualar las cantidades.",
+      "Que el que tuviese más que suficiente diera según lo que era justo — proporcional a lo que tenía.",
+      "Que solo los líderes del sacerdocio administraran los bienes sin participación general.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Qué asombrosa definición eterna de Sion da el Señor en DyC 97:21?",
+    question:
+      "El élder Hales enseñó que 'no podemos dar lo que no tenemos'. ¿Por qué la autosuficiencia personal es una condición para el servicio genuino y no simplemente un objetivo de comodidad personal?",
     options: [
-      "Una ciudad física en el desierto únicamente",
-      "Porque de cierto, así dice el Señor: Los puros de corazón",
-      "Un grupo político selecto",
-      "Una utopía del pasado inalcanzable"
+      "Porque el Señor valora la comodidad personal de Sus discípulos por encima del servicio a otros.",
+      "Porque quien constantemente depende de otros para sus propias necesidades básicas tiene poca capacidad real de dar — su energía está consumida en sobrevivir.",
+      "Porque la autosuficiencia es una meta espiritual que el servicio no puede alcanzar.",
+      "Porque el servicio genuino requiere recursos económicos abundantes antes de comenzar.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Qué promesa recibe Sion si edifica el templo con fidelidad según DyC 97:15-16?",
+    question:
+      "¿Cuál es la diferencia entre dar porque uno tiene excedente y dar porque uno deliberadamente se hace autosuficiente para poder dar?",
     options: [
-      "Verán grandes tesoros de oro",
-      "Todos los puros de corazón que en ella entren verán a Dios",
-      "No experimentarán el invierno",
-      "Serán inmunes a las leyes civiles"
+      "No hay diferencia práctica — el resultado del servicio es el mismo en ambos casos.",
+      "El primero es reactivo — da cuando sobra; el segundo es proactivo — construye la capacidad de dar como objetivo espiritual, no como consecuencia accidental.",
+      "El primero es más valioso porque el sacrificio de dar del excedente es mayor.",
+      "Solo la segunda forma es aceptable para el Señor; la primera no tiene valor espiritual.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo podemos aplicar hoy la definición de Sion como 'los puros de corazón'?",
+    question:
+      "Tomás dice que no puede servir más en la Iglesia porque 'no le alcanza el tiempo ni la energía'. Según el principio de la lección, ¿qué cambio de perspectiva podría ayudarle?",
     options: [
-      "Mudándonos de país obligatoriamente",
-      "Purificando nuestras intenciones, pensamientos y acciones diarios mediante el arrepentimiento",
-      "Preocupándonos solo por el estatus externo de la Iglesia",
-      "Ignorando los mandamientos morales"
+      "Que debería pedir al obispo que reduzca sus responsabilidades hasta que tenga más recursos.",
+      "Que la autosuficiencia en el tiempo y la energía — desarrollar disciplina y buenos hábitos — es lo que le daría capacidad de servir; la escasez no es una excusa permanente sino un punto de partida para crecer.",
+      "Que el servicio en la Iglesia es solo para quienes tienen tiempo libre abundante.",
+      "Que debería esperar a jubilarse para tener los recursos necesarios para servir bien.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Valentina tiene más habilidades académicas que muchos de sus compañeros. Según Mosíah 18:27 y el principio de la lección, ¿qué responsabilidad concreta genera esa autosuficiencia intelectual?",
+    options: [
+      "Ninguna — sus habilidades son suyas y no generan obligación hacia otros.",
+      "Que debería obtener títulos universitarios antes de ayudar a sus compañeros.",
+      "Que el que tiene más que suficiente —incluyendo habilidades— tiene la responsabilidad de compartirlas según lo que es justo.",
+      "Que primero debe asegurarse de que sus habilidades sean perfectas antes de enseñar a otros.",
+    ],
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 82:18–19 (servir a Dios y los hombres) y Mosíah 18:27 (dar según lo que es justo) forman juntos un principio sobre el propósito de la autosuficiencia. ¿Cuál es ese principio completo?",
+    options: [
+      "Que la autosuficiencia es el objetivo final del evangelio y el servicio es solo su consecuencia opcional.",
+      "Que el Señor diseñó la autosuficiencia no como un fin en sí mismo sino como el fundamento que hace posible el servicio libre — la capacidad de dar sin que la necesidad propia lo impida.",
+      "Que solo los que tienen abundancia económica pueden cumplir plenamente el evangelio.",
+      "Que el servicio y la autosuficiencia son metas paralelas sin relación directa entre ellas.",
+    ],
+    correctAnswer: 1,
+  },
 ];
 
-// Lección: Doctrina y Convenios 98
-export const dc91_dc98Questions: Question[] = [
+// D&C 64:1–17
+export const dc64_1_17Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Cómo aconseja el Señor reaccionar ante las aflicciones de la persecución en DyC 98:1-3?",
+    question:
+      "D&C 64:9–10 contiene uno de los mandamientos más directos sobre el perdón. ¿Cuál es la distinción que el Señor hace entre Su obligación y la nuestra?",
     options: [
-      "Con ira y deseos de venganza inmediata",
-      "No temáis... regocijaos de continuo, y en todo dad gracias",
-      "Abandonando la fe para evitar el sufrimiento",
-      "Atacando a los enemigos de forma secreta"
+      "El Señor es requerido a perdonar solo a quien se arrepiente; nosotros somos requeridos a perdonar a todos los hombres.",
+      "El Señor perdona a todos automáticamente; nosotros solo perdonamos a quienes nos lo piden.",
+      "Ambos — el Señor y nosotros — perdonamos solo a los que se arrepienten.",
+      "El Señor perdona solo los pecados contra Él; nosotros perdonamos los pecados entre personas.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Según DyC 98:4-6, ¿qué leyes de la tierra apoya y justifica el Señor?",
+    question:
+      "D&C 64:10 dice que quien no perdona a su hermano 'quedará condenado ante el Señor'. ¿Por qué el Señor describe esa consecuencia con tanta gravedad?",
     options: [
-      "Cualquier ley impuesta por dictaduras severas",
-      "La ley constitucional que protege los derechos y libertades de toda la humanidad",
-      "Leyes que restringen la libertad de cultos",
-      "Leyes comerciales que benefician solo a los ricos"
+      "Porque el resentimiento es un pecado menor que el Señor castiga desproporcionadamente.",
+      "Porque el rencor cierra el acceso a la misericordia — quien no la da, no puede recibirla plenamente.",
+      "Porque la condena se refiere solo a la posición social en la comunidad de la Iglesia.",
+      "Porque el versículo usa lenguaje hiperbólico para enfatizar un punto sin consecuencias reales.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Qué notable ley de la reciprocidad y la paz establece el Señor en DyC 98:23-24?",
+    question:
+      "El presidente Hinckley enseñó que 'el resentimiento es un veneno que destruye al que lo alberga, no al que lo causó'. ¿Qué implica eso sobre para quién es el perdón principalmente?",
     options: [
-      "Ojo por ojo, diente por diente de forma estricta",
-      "Si los hombres os hieren una vez y lo soportáis sin proferir injurias, seréis recompensados",
-      "Atacar antes de ser agredidos por seguridad",
-      "Hacer alianzas con la maldad del enemigo"
+      "Que el perdón beneficia principalmente al ofensor, quien queda libre de consecuencias.",
+      "Que el perdón libera al que perdona — no es un regalo para el otro sino un acto de libertad personal para uno mismo.",
+      "Que el perdón no tiene ningún efecto real en ninguna de las dos partes.",
+      "Que el perdón solo beneficia a quien lo da si el otro se arrepintió primero.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Por qué permite el Señor que Su pueblo sea probado mediante aflicciones según DyC 98:12?",
+    question:
+      "D&C 64:7 dice 'sed misericordiosos y yo seré misericordioso con vosotros'. ¿Qué principio sobre la relación entre la misericordia que damos y la que recibimos establece ese versículo?",
     options: [
-      "Porque Dios ignora sus sufrimientos",
-      "Para probarlos en todas las cosas, a ver si permanecen en Su convenio hasta la muerte",
-      "Por error administrativo de los líderes",
-      "Como castigo definitivo sin retorno"
+      "Que la misericordia divina es independiente de la misericordia que nosotros damos.",
+      "Que la misericordia que extendemos a otros abre nuestro corazón para recibir la misericordia del Señor — existe una coherencia entre ambas.",
+      "Que el Señor solo da misericordia como recompensa económica por actos de servicio.",
+      "Que ser misericordioso con otros garantiza que no sufriremos consecuencias por nuestros propios errores.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo podemos mantener la paz interior cuando sufrimos injusticias?",
+    question:
+      "Lucía fue herida profundamente por su mejor amiga y siente que perdonarla 'significaría que lo que hizo está bien'. Según D&C 64:9–10, ¿qué le respondería el Señor a esa confusión?",
     options: [
-      "Almacenando resentimiento durante años",
-      "Confiando en la justicia final del Señor, perdonando y guardando los convenios",
-      "Ignorando la realidad de la prueba mediante la distracción",
-      "Pagando con la misma moneda"
+      "Que tiene razón — perdonar implica aprobar, así que debe esperar a que la situación sea justa primero.",
+      "Que perdonar no significa aprobar lo que ocurrió — significa elegir no dejar que lo que pasó controle el resto de su vida. El juicio sobre lo que estuvo mal le pertenece al Señor.",
+      "Que debería olvidar el incidente completamente para que el perdón sea genuino.",
+      "Que el mandamiento de perdonar no aplica cuando el daño fue muy profundo.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Agustín lleva meses sin hablarle a su hermano por un conflicto y siente que 'él es quien debe pedir disculpas primero'. D&C 64:9 le dice algo específico. ¿Qué?",
+    options: [
+      "Que tiene razón — esperar a que el otro pida disculpas primero es lo justo.",
+      "Que el mandamiento de perdonar no depende de que el otro se arrepienta — 'a vosotros os es requerido perdonar a todos los hombres' sin condición previa.",
+      "Que debería consultar con el obispo antes de tomar cualquier iniciativa de reconciliación.",
+      "Que puede seguir esperando porque el Señor entiende que primero el otro debe cambiar.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 64:7 (sed misericordiosos) y D&C 64:9–10 (perdonad a todos) forman juntos la doctrina del perdón en esta sección. ¿Cuál es el principio unificador?",
+    options: [
+      "Que el perdón es una obligación formal de la Iglesia sin dimensión espiritual personal.",
+      "Que la misericordia y el perdón no son solo virtudes que benefician al otro — son condiciones del propio corazón que abren o cierran el acceso a la misericordia y la paz del Señor.",
+      "Que el Señor requiere el perdón como prueba de obediencia, no porque tenga beneficios reales.",
+      "Que el perdón y la misericordia aplican principalmente a los líderes de la Iglesia, no a los miembros comunes.",
+    ],
+    correctAnswer: 1,
+  },
 ];
 
-// Lección: Doctrina y Convenios 100
-export const dc92_dc100Questions: Question[] = [
+// D&C 64:20–43
+export const dc64_20_43Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Qué tierno consuelo da el Señor a José y Sidney sobre sus familias ausentes en DyC 100:1-2?",
+    question:
+      "D&C 64:33–34 contiene una promesa y un estándar. ¿Qué es lo que el Señor 'requiere' específicamente, según el versículo 34?",
     options: [
-      "Que debían regresar a casa de inmediato y dejar la misión",
-      "Vuestras familias están bien; están en mis manos, y haré con ellas lo que me parezca bueno",
-      "Que sus familias serían expulsadas de sus hogares",
-      "No les da ninguna información sobre sus seres queridos"
+      "El corazón y una mente dispuesta — no resultados perfectos ni grandes hazañas.",
+      "Que los santos edifiquen templos antes del fin del año.",
+      "Que cada miembro sirva una misión de tiempo completo.",
+      "Que los santos abandonen sus bienes materiales para construir Sion.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "¿Qué promesa misional extraordinaria sobre la elocuencia se halla en DyC 100:5-6?",
+    question:
+      "D&C 64:33 dice que quienes hacen el bien 'ponen los cimientos de una gran obra'. ¿Qué metáfora usa el versículo para describir la relación entre los actos pequeños y la obra grande?",
     options: [
-      "Declarad las cosas que os ponga en el corazón... os será dado en la hora misma lo que debéis decir",
-      "Deben escribir discursos rígidos y memorizarlos por completo",
-      "Que convencerán a todas las personas sin excepción",
-      "No se les promete ayuda con las palabras"
+      "De pequeñas cosas proceden las grandes.",
+      "La semilla pequeña produce el árbol más alto.",
+      "Los ladrillos humildes sostienen las catedrales más altas.",
+      "El río comienza como una gota pero llena el océano.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "Según DyC 100:7-8, ¿cómo debían declarar el mensaje del evangelio?",
+    question:
+      "El presidente Uchtdorf enseñó que las personas grandes rara vez hacen un solo acto extraordinario — hacen 'miles de actos ordinarios realizados fielmente'. ¿Qué implica eso sobre cómo evaluar el propio progreso espiritual?",
     options: [
-      "Con solemnidad de corazón, con el espíritu de mansedumbre",
-      "Con altivez, gritando en las plazas de mercado",
-      "Discutiendo agresivamente con los líderes locales",
-      "Con timidez, evitando los temas difíciles"
+      "Que el progreso espiritual real solo se mide en los momentos de crisis importantes.",
+      "Que la fidelidad cotidiana invisible es el verdadero material de la grandeza espiritual — los días ordinarios son donde se construye el carácter, no los eventos dramáticos.",
+      "Que las grandes experiencias espirituales son más valiosas que la fidelidad cotidiana.",
+      "Que el progreso espiritual es principalmente visible y verificable por los demás.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Por qué promete el Señor sostener a las familias de los misioneros fieles?",
+    question:
+      "D&C 64:33 instruyó a los santos que estaban agotados por la persecución y las demandas de la obra. ¿Por qué ese contexto hace que el mensaje 'no os canséis de hacer el bien' sea especialmente significativo?",
     options: [
-      "Es un incentivo material temporal",
-      "Porque demuestra Su amor y permite que los siervos se enfoquen con paz en Su obra sagrada",
-      "Solo aplica a los profetas de la antigüedad",
-      "No hay promesas para las familias"
+      "Porque el mandamiento es más fácil de cumplir cuando uno está descansado y con recursos.",
+      "Porque el Señor lo dijo precisamente cuando era más difícil de cumplir — el mandamiento reconoce el cansancio real y pide perseverar a pesar de él, no en ausencia de él.",
+      "Porque los santos de Ohio eran especialmente débiles espiritualmente y necesitaban ese recordatorio.",
+      "Porque el mandamiento solo aplica en contextos de persecución activa, no en tiempos normales.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Qué nos enseña DyC 100:12 sobre el cumplimiento final de los propósitos de Dios?",
+    question:
+      "Camila lleva meses haciendo el bien silenciosamente — ayudando en casa, siendo amable con compañeros difíciles — sin ver resultados visibles. Está pensando en dejar de intentarlo. D&C 64:33–34 le dice algo directo. ¿Qué?",
     options: [
-      "Que los planes de Dios fracasan ante la oposición humana",
-      "Sion será redimida, aunque sea atribulada por un corto tiempo",
-      "Que Sion ya no tiene valor para el Señor",
-      "Que todo ocurre de forma mágica sin esfuerzo"
+      "Que debería buscar actividades de mayor impacto visible para no desperdiciar su esfuerzo.",
+      "Que debería comentar sus actos de servicio en sus redes para recibir retroalimentación.",
+      "Que no se canse de hacer el bien — con cada acto está poniendo cimientos de algo grande aunque ahora no lo vea, y el Señor solo requiere su corazón dispuesto, no resultados inmediatos.",
+      "Que espere a recibir una señal del Señor antes de continuar para confirmar que va por buen camino.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Nicolás siente que su contribución al Seminario, a su familia y a la Iglesia es tan pequeña que 'no hace ninguna diferencia'. Según D&C 64:33, ¿qué perspectiva cambia ese sentimiento?",
+    options: [
+      "Que debería ampliar sus contribuciones hasta que sean lo suficientemente grandes para notarse.",
+      "Que las cosas pequeñas son la fuente de las cosas grandes — cada acción fiel suya es un cimiento, aunque la obra completa todavía no sea visible.",
+      "Que tiene razón y debería esperar a tener más capacidades antes de contribuir.",
+      "Que el Señor valora solo las contribuciones que otros pueden ver y agradecer.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 64:33 ('no os canséis') y D&C 64:34 ('el Señor requiere el corazón y una mente dispuesta') son dos principios complementarios. ¿Cuál es la tensión que resuelven juntos?",
+    options: [
+      "La tensión entre la obediencia externa y la motivación interna — ambas son necesarias.",
+      "La tensión entre el cansancio real que uno siente y la perfección de resultados que imagina que el Señor exige — el mandamiento reconoce el cansancio pero lo que pide es disposición, no perfección.",
+      "La tensión entre el trabajo en la Iglesia y el trabajo en el hogar.",
+      "La tensión entre las pequeñas obras y las grandes obras en el reino de Dios.",
+    ],
+    correctAnswer: 1,
+  },
 ];
 
-// Lección: Doctrina y Convenios 101, Parte 1
-export const dc93_dc101_parte1Questions: Question[] = [
+// D&C 65
+export const dc65Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Por qué permitió el Señor que los santos sufrieran aflicciones y expulsión en Misuri según DyC 101:1-6?",
+    question:
+      "D&C 65 tiene solo cinco versículos pero contiene una profecía de Daniel. ¿Qué imagen usa el Señor para describir el crecimiento del reino de Dios en la tierra?",
     options: [
-      "Porque los odiaba y deseaba su destrucción definitiva",
-      "A causa de sus transgresiones, contiendas, envidias y deseos codiciosos entre ellos",
-      "Por un error imprevisto en los planes del Señor",
-      "Sin ningún motivo, por puro azar de la historia"
+      "Una semilla de mostaza que crece hasta ser el árbol más grande del jardín.",
+      "Una piedra cortada sin manos que rueda desde una montaña y llena toda la tierra.",
+      "Un río pequeño que comienza en las montañas y llena todos los valles.",
+      "Un fuego pequeño que se extiende hasta cubrir toda la tierra.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "¿Qué consuelo de amor paternal da el Señor a pesar del castigo en DyC 101:9?",
+    question:
+      "D&C 65:5–6 instruye a los santos sobre cómo deben orar. ¿Cuál es el contenido específico de esa oración?",
     options: [
-      "Que nunca más volverá a considerarlos Su pueblo",
-      "En el día de mi ira me acordaré de ellos con misericordia",
-      "Que no deben esperar compasión divina",
-      "Que los justificará sin necesidad de arrepentimiento"
+      "Que el reino de los cielos venga y que el de Dios progrese en la tierra.",
+      "Que el Señor proteja a los santos de la persecución durante los últimos días.",
+      "Que el templo de Sion sea edificado pronto en Independence.",
+      "Que el profeta reciba la sabiduría necesaria para guiar a la Iglesia.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "En la parábola de los olivos (DyC 101:43-54), ¿por qué destruyó el enemigo la torre y los olivos?",
+    question:
+      "El presidente Nelson enseñó que 'cada miembro que ora, sirve y guarda los convenios está contribuyendo a que esa piedra siga rodando'. ¿Qué implica eso sobre el rol de los jóvenes en la profecía de D&C 65?",
     options: [
-      "Porque los siervos eran muy débiles físicamente",
-      "Porque los siervos fueron perezosos, dudaron y no edificaron la torre protectora que el noble mandó",
-      "Porque el noble les dio instrucciones confusas",
-      "Por una tormenta natural imprevista"
+      "Que los jóvenes son espectadores de una obra que los adultos llevan adelante.",
+      "Que los jóvenes son colaboradores activos en el cumplimiento de la profecía — cada acción fiel es un impulso a esa piedra.",
+      "Que solo los misioneros de tiempo completo participan en el avance del reino.",
+      "Que el cumplimiento de la profecía ocurre independientemente de las acciones de los miembros.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Qué representa la 'torre' en la parábola aplicada a nuestros días?",
+    question:
+      "Daniel 2:44 profetizó que el reino de Dios 'no será jamás destruido'. ¿Qué confianza específica da eso al discípulo que enfrenta persecución, desánimo o la sensación de que la Iglesia es pequeña?",
     options: [
-      "Un edificio civil alto de defensa militar",
-      "El templo, la guía profética y los mandamientos que nos protegen del enemigo antes de que ataque",
-      "Una estructura meramente ornamental",
-      "El poder financiero de la comunidad"
+      "Que el discípulo nunca enfrentará circunstancias difíciles si sirve fielmente.",
+      "Que el tamaño actual o las dificultades presentes no definen el destino final — el Señor declaró el resultado con certeza y ese decreto no puede anularse.",
+      "Que la persecución es una señal de que el reino ya llegó a su tamaño máximo.",
+      "Que el Señor intervendrá milagrosamente en cada crisis para proteger a la Iglesia.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Qué lección de obediencia exacta aprendemos del fracaso de los siervos en la parábola?",
+    question:
+      "Renata siente que su oración semanal es rutinaria y sin impacto. Según D&C 65:5–6, ¿qué cambiaría en su oración si entendiera el principio de esta lección?",
     options: [
-      "Que podemos postergar el consejo profético si estamos cansados",
-      "Que ignorar o cuestionar los consejos de los profetas nos deja vulnerables al adversario",
-      "Que los siervos no tenían responsabilidad porque el enemigo era astuto",
-      "No hay lecciones prácticas en la parábola"
+      "Que debería orar más tiempo para que su oración sea más efectiva.",
+      "Que al orar específicamente por el avance del reino del Señor, se convierte en colaboradora activa de una obra profética — su oración tiene un propósito que trasciende sus circunstancias personales.",
+      "Que debería memorizar el texto exacto de D&C 65:5–6 para incluirlo en sus oraciones.",
+      "Que la oración solo tiene impacto cuando viene acompañada de ayuno formal.",
     ],
-    correctAnswer: 1
-  }
-];
-
-// Lección: Fuentes divinamente señaladas - Parte 2 (Dominio de la Doctrina)
-export const fuentes_divinas_2Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Cómo podemos evaluar la fiabilidad de una información o idea sobre la Iglesia?",
-    options: [
-      "Por la cantidad de 'Me gusta' o reproducciones que tiene en internet",
-      "Comparándola sistemáticamente con lo revelado en las fuentes divinamente señaladas",
-      "Aceptándola de inmediato si suena lógica e inteligente",
-      "Preguntando a personas ajenas a la fe"
-    ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
-    id: 2,
-    question: "¿Qué característica define a un argumento falso o engañoso en el entorno secular?",
+    id: 6,
+    question:
+      "Joaquín piensa que 'la Iglesia es solo una organización pequeña entre miles y no tiene mucho futuro'. D&C 65 y Daniel 2:44 le responden directamente. ¿Cuál es esa respuesta?",
     options: [
-      "Suele citar textos antiguos con perfecta precisión",
-      "A menudo saca verdades de contexto, apela al orgullo o siembra dudas sobre los líderes elegidos",
-      "Siempre se basa en matemáticas exactas",
-      "Es fácil de detectar porque nunca usa palabras buenas"
+      "Que debería estudiar estadísticas de crecimiento de la Iglesia para tener más confianza.",
+      "Que el tamaño actual no determina el destino — el Señor declaró que esa piedra llenará toda la tierra y ese decreto es irrevocable.",
+      "Que la Iglesia ya es grande suficiente y la profecía ya se cumplió.",
+      "Que Joaquín debería hacer más trabajo misional para que la Iglesia crezca más rápido.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // SÍNTESIS 7
   {
-    id: 3,
-    question: "Al investigar la historia de la Iglesia, ¿por qué es vital acudir a fuentes oficiales autorizadas?",
+    id: 7,
+    question:
+      "D&C 65 y D&C 64:33–34 (lección anterior) comparten algo sobre la perspectiva correcta del discípulo. ¿Cuál es el principio que los une?",
     options: [
-      "Para evitar aprender historia secular",
-      "Porque proveen el contexto completo, la doctrina correcta y la influencia del Espíritu Santo",
-      "Para ocultar los errores de los hombres del pasado",
-      "No es vital, cualquier fuente da el mismo resultado"
+      "Que el cansancio en el servicio y el pequeño tamaño del reino son problemas que el Señor resolverá en el futuro sin nuestra participación.",
+      "Que el discípulo que comprende la perspectiva del Señor —que de pequeñas cosas proceden las grandes, y que el reino está destinado a llenar la tierra— tiene una fuente de energía y propósito que supera el desánimo cotidiano.",
+      "Que ambas lecciones tratan principalmente de eventos futuros sin aplicación práctica presente.",
+      "Que el tamaño de la Iglesia y la fidelidad personal son temas completamente separados.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
-  {
-    id: 4,
-    question: "¿Qué nos enseña el Salvador sobre los frutos para discernir las fuentes de información?",
-    options: [
-      "Por sus frutos los conoceréis: las fuentes divinas edifican, traen paz y nos acercan a Cristo",
-      "Toda fuente que critique ferozmente es honesta",
-      "Los frutos no aplican al conocimiento intelectual",
-      "Solo los líderes pueden discernir los frutos"
-    ],
-    correctAnswer: 0
-  },
-  {
-    id: 5,
-    question: "Frente a un ataque directo contra tu fe en redes sociales, ¿cuál es la acción más alineada con el Dominio?",
-    options: [
-      "Responder con el mismo lenguaje agresivo y ofensivo",
-      "Fortalecer tu testimonio en las fuentes divinas, orar y evitar contiendas destructivas",
-      "Dudar de tu testimonio de inmediato y ceder al temor",
-      "Borrar tus cuentas y aislarte del mundo físico"
-    ],
-    correctAnswer: 1
-  }
 ];
 
 // ============================================================================
-// SEMANA 18
+// SEMANA 17 — 23 al 29 de Junio (Vacaciones Chile)
+// Lecciones: D&C 67, D&C 68:25-31, Plantilla líderes,
+//            Decisiones eternidad, Herramientas escrituras
 // ============================================================================
 
-// Lección: Doctrina y Convenios 101, Parte 2
-export const dc94_dc101_parte2Questions: Question[] = [
+// D&C 67
+export const dc67Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿A qué instancias mandó el Señor apelar a los santos expulsados en DyC 101:85-88?",
+    question:
+      "D&C 67:5–7 desafía a los más sabios a escribir la revelación más sencilla del libro con el mismo poder. ¿Quién intentó ese desafío y qué ocurrió?",
     options: [
-      "A los jueces, luego al gobernador, y finalmente al presidente de la nación",
-      "A ejércitos extranjeros de forma inmediata",
-      "A tribunales eclesiásticos de otras religiones",
-      "A abandonar toda apelación legal"
+      "Sidney Rigdon lo intentó y produjo algo comparable pero inferior.",
+      "William McLellin lo intentó y fracasó — no pudo igualarlo.",
+      "Oliver Cowdery lo intentó y el resultado fue destruido por el Señor.",
+      "Nadie se atrevió a intentarlo porque sabían que fracasarían.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Según DyC 101:77-80, ¿cuál es el propósito de la Constitución de los Estados Unidos según Dios?",
+    question:
+      "D&C 67:10 advierte que los santos no podrían 'soportar la presencia de Dios ahora mismo'. ¿Qué implica eso sobre las condiciones necesarias para estar ante el Señor?",
     options: [
-      "Establecer un control absoluto del estado sobre la fe",
-      "Para que todo hombre actúe en doctrina y principio... de acuerdo con el albedrío moral que le he dado",
-      "Favorecer económicamente solo a un grupo selecto",
-      "Es una ley puramente humana sin inspiración divina"
+      "Que nadie puede ver a Dios en esta vida bajo ninguna circunstancia.",
+      "Que el problema no es la voluntad del Señor sino la preparación del discípulo — ver a Dios requiere un nivel de santidad que se construye con el tiempo.",
+      "Que solo los profetas pueden estar ante el Señor.",
+      "Que la presencia de Dios es tan aterradora que nadie querrá estar en ella.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Por qué dice el Señor en DyC 101:79 que ningún hombre debe ser esclavo de otro?",
+    question:
+      "D&C 67 fue dada cuando algunos cuestionaban el lenguaje de las revelaciones de José Smith. El resultado del desafío demostró algo sobre el origen de esas revelaciones. ¿Cuál fue esa evidencia?",
     options: [
-      "Porque la esclavitud ayuda a la economía nacional",
-      "Porque hizo al hombre responsable ante Sus propios mandamientos y le otorgó albedrío",
-      "Es un mandamiento temporal de la época pionera",
-      "No se detalla ninguna justificación doctrinal"
+      "Que José era el único hombre inteligente suficiente para producir ese texto.",
+      "Que si la revelación más sencilla no podía imitarse por el hombre más erudito presente, eso demostraba que su origen era divino, no humano.",
+      "Que el idioma inglés era insuficiente para expresar las revelaciones divinas.",
+      "Que el desafío era imposible por razones lingüísticas técnicas, no espirituales.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Qué actitud requiere el Señor de nosotros ante las leyes que protegen la libertad de cultos?",
+    question:
+      "El élder Callister enseñó que la profundidad doctrinal de las revelaciones restauradas 'no podía ser inventada por un joven de 25 años sin educación formal'. ¿Cómo complementa eso el principio de D&C 67?",
     options: [
-      "Sostenerlas, defenderlas y valorarlas como un derecho sagrado",
-      "Ignorarlas si no benefician a la Iglesia",
-      "Combatirlas para imponer nuestra doctrina por la fuerza",
-      "Esperar que los gobiernos las eliminen"
+      "Que la evidencia histórica de la educación de José Smith es más convincente que el desafío de D&C 67.",
+      "Que tanto el desafío directo (D&C 67) como el análisis intelectual del contenido señalan al mismo origen divino — la evidencia es redundante y convergente.",
+      "Que el argumento del élder Callister contradice D&C 67 porque enfatiza el intelecto.",
+      "Que la evidencia solo es convincente para personas con educación teológica.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo se relaciona el albedrío moral con la existencia de leyes constitucionales justas?",
+    question:
+      "Sofía tiene un amigo que dice que 'las revelaciones de José Smith son solo sus propias ideas religiosas'. ¿Cómo usaría el principio de D&C 67 en esa conversación?",
     options: [
-      "Las leyes justas quitan el albedrío",
-      "Proveen un marco de libertad que protege la capacidad del individuo para elegir servir a Dios",
-      "El albedrío solo existe donde no hay leyes",
-      "No tienen ninguna relación"
+      "Citando todas las revelaciones que José recibió para demostrar su volumen.",
+      "Señalando que el Señor mismo desafió a los más instruidos a imitar una sola — y fracasaron. Si fueran solo ideas humanas, ese intento habría tenido más éxito.",
+      "Mostrándo la falta de educación formal de José como evidencia principal.",
+      "Evitando el tema porque no hay manera de probar el origen de las revelaciones.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Mateo a veces duda de las revelaciones modernas porque 'suenan demasiado humanas'. D&C 67 le ofrece una perspectiva diferente. ¿Cuál es?",
+    options: [
+      "Que las revelaciones que suenan humanas son inválidas y deben descartarse.",
+      "Que el Señor mismo reconoce en D&C 67:5 que las revelaciones usan el lenguaje humano según la capacidad de los receptores — eso no reduce su origen divino sino que explica cómo Dios comunica.",
+      "Que Mateo debería leer solo las revelaciones que le parecen más sobrenaturales en su estilo.",
+      "Que dudar de las revelaciones modernas es una señal de madurez intelectual que el Señor valora.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 67 defiende el origen divino de las revelaciones a través de un desafío práctico. ¿Qué tipo de evidencia es ese — y por qué es más contundente que solo afirmar que son verdaderas?",
+    options: [
+      "Es evidencia emocional — genera un sentimiento que convence más que los argumentos.",
+      "Es evidencia empírica — invita a intentar la prueba y el fracaso en hacerlo habla por sí solo, sin necesidad de argumentos adicionales.",
+      "Es evidencia histórica — demuestra que nadie en la historia pudo escribir algo similar.",
+      "Es evidencia teológica — muestra que el contenido doctrinal es más profundo que cualquier texto humano.",
+    ],
+    correctAnswer: 1,
+  },
 ];
 
-// Lección: Doctrina y Convenios 102
-export const dc95_dc102Questions: Question[] = [
+// D&C 68:25–31
+export const dc68_25_31Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Cuál era la función principal del Sumo Consejo según se detalla en DyC 102:1-2?",
+    question:
+      "D&C 68:25 establece un deber específico de los padres en Sion. ¿Cuáles son los tres elementos doctrinales que deben enseñar a sus hijos antes de los ocho años?",
     options: [
-      "Administrar los negocios comerciales de la ciudad",
-      "Resolver dificultades importantes que surjan en la Iglesia que no puedan resolverse por el obispo",
-      "Planificar los viajes misionales exclusivamente",
-      "Escribir nuevos libros de Escrituras oficiales"
+      "El arrepentimiento, la fe en Cristo y el bautismo por inmersión.",
+      "La oración, el diezmo y la asistencia a la Iglesia.",
+      "La historia de la Iglesia, el Libro de Mormón y los mandamientos básicos.",
+      "La creación, la caída y la Expiación como etapas del plan de salvación.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Según DyC 102:9-11, ¿quién preside las deliberaciones del Sumo Consejo?",
+    question:
+      "D&C 68:28 añade una instrucción práctica adicional sobre qué deben enseñar los padres. ¿Cuál es?",
     options: [
-      "El miembro más joven del consejo",
-      "El presidente de la Iglesia (o el presidente de estaca en su nivel respectivo)",
-      "Un juez civil externo",
-      "Se elige por votación secreta en cada reunión"
+      "Enseñar a sus hijos a orar y a andar rectamente ante el Señor.",
+      "Enseñar a sus hijos a memorizar las Escrituras desde los cuatro años.",
+      "Asegurarse de que sus hijos asistan al Seminario sin faltas.",
+      "Enseñar a sus hijos las doctrinas del sacerdocio desde la infancia.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Cómo se determinaba el orden de participación de los consejeros en un caso difícil (DyC 102:12-13)?",
+    question:
+      "El presidente Nelson enseñó que 'los padres son los maestros de evangelio más importantes que sus hijos tendrán jamás'. ¿Por qué ninguna institución —ni la Iglesia ni el Seminario— puede reemplazar ese rol?",
     options: [
-      "Por sorteo echando suertes",
-      "Sacando números por medio de doce consejeros, divididos en números pares e impares",
-      "Solo hablaban los consejeros mayores",
-      "No existía ningún orden establecido"
+      "Porque las instituciones no tienen suficiente personal para atender a cada hijo individualmente.",
+      "Porque el hogar es donde la doctrina se convierte en vida — los padres enseñan no solo con palabras sino con el ejemplo diario y el contexto del amor familiar que ninguna clase puede replicar.",
+      "Porque los maestros institucionales no tienen el Espíritu Santo a diferencia de los padres.",
+      "Porque la Iglesia solo enseña doctrina mientras los padres enseñan valores prácticos.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Cuál es el propósito espiritual de los consejos eclesiásticos actuales al tratar transgresiones?",
+    question:
+      "D&C 68:25 dice que si los padres no enseñan esas cosas a sus hijos, el pecado recae sobre ellos. ¿Qué nivel de responsabilidad establece eso para los padres — y para los futuros padres que hoy son jóvenes?",
     options: [
-      "Castigar severamente al miembro por venganza",
-      "Ayudar al transgresor a arrepentirse, proteger a los inocentes y salvaguardar el buen nombre de la Iglesia",
-      "Generar multas financieras para los fondos locales",
-      "Exponer públicamente los pecados de los miembros"
+      "Que la responsabilidad es compartida equitativamente entre los padres y la Iglesia.",
+      "Que la enseñanza espiritual del hogar es una responsabilidad sagrada con consecuencias espirituales reales — no es delegable, y empezar a prepararla ahora mientras se es joven tiene sentido.",
+      "Que la responsabilidad aplica solo en zonas geográficas llamadas 'Sion'.",
+      "Que el pecado sobre los padres es solo una expresión metafórica sin consecuencias doctrinales concretas.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Qué principio de revelación se manifiesta cuando un consejo delinea y analiza un asunto con orden?",
+    question:
+      "Valentina tiene hermanos pequeños y sus padres trabajan mucho. Según D&C 68:28 y el principio de la lección, ¿qué puede hacer ella ahora, antes de ser madre?",
     options: [
-      "Que la opinión de la mayoría siempre reemplaza la revelación",
-      "El Señor bendice el orden, la unidad y la deliberación honesta infundiendo Su Espíritu",
-      "Que Dios no participa en asuntos administrativos",
-      "Los consejos eliminan la necesidad de orar"
+      "Nada — la responsabilidad de D&C 68 es solo de los padres, no de los hermanos mayores.",
+      "Puede ser un instrumento en el hogar para enseñar a orar y andar rectamente, y al mismo tiempo ir construyendo el tipo de hogar espiritual que ella quiere tener algún día.",
+      "Debería esperar a tener su propia familia antes de aplicar estos principios.",
+      "Puede hablar con el obispo para que asigne a alguien de la Iglesia que ayude a sus hermanos.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Nicolás dice que 'el Seminario y los maestros de la Iglesia son suficientes para enseñarle el evangelio a sus hijos futuros'. D&C 68:25 le responde directamente. ¿Cómo?",
+    options: [
+      "Que tiene razón — la Iglesia está bien equipada para asumir toda la responsabilidad espiritual.",
+      "Que el mandamiento de enseñar recae sobre los padres, no sobre la Iglesia — delegar completamente esa responsabilidad es exactamente lo que D&C 68 previene.",
+      "Que debería estudiar más en el Seminario para estar mejor preparado como futuro padre.",
+      "Que la responsabilidad de D&C 68 aplica solo en circunstancias donde no hay Iglesia organizada.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 68:25 (deber de enseñar) y D&C 68:28 (enseñar a orar y andar rectamente) juntos describen el hogar ideal. ¿Cuál es el principio completo sobre el hogar como institución espiritual?",
+    options: [
+      "Que el hogar es principalmente un lugar de educación doctrinal formal con estructura similar a la Iglesia.",
+      "Que el hogar es el lugar donde la doctrina se hace vida — donde los niños aprenden no solo verdades sino a vivir por ellas, a orar y a caminar con el Señor en lo cotidiano.",
+      "Que el hogar solo tiene valor espiritual si los padres tienen llamamientos activos en la Iglesia.",
+      "Que la enseñanza en el hogar es complementaria y opcional cuando la Iglesia funciona bien.",
+    ],
+    correctAnswer: 1,
+  },
 ];
 
-// Lección: Doctrina y Convenios 103
-export const dc96_dc103Questions: Question[] = [
+// Plantilla: Enseñanzas de los líderes de la Iglesia
+export const plantilla_lideresQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Por qué permitió el Señor que los enemigos prevalecieran temporalmente según DyC 103:1-4?",
+    question:
+      "D&C 21:4–5 describe cómo deben recibirse las palabras del profeta. ¿Cuál es la comparación exacta que usa el Señor?",
     options: [
-      "Porque los enemigos eran más justos",
-      "Porque los santos no escucharon por completo los mandamientos del Señor",
-      "Porque la Iglesia iba a desaparecer",
-      "Por razones geográficas inevitables"
+      "Como si vinieran de la propia boca del Señor, con toda paciencia y fe.",
+      "Como instrucciones de un maestro sabio cuya experiencia merece respeto.",
+      "Como sugerencias inspiradas que cada miembro puede aplicar según su criterio.",
+      "Como revelación secundaria de menor autoridad que las Escrituras canónicas.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "¿Qué mandato de reclutamiento da el Señor a la Iglesia en DyC 103:22-24?",
+    question:
+      "Al estudiar un discurso de la Conferencia General con la plantilla de la lección, ¿cuáles son las cuatro categorías que se deben identificar?",
     options: [
-      "Reunir hombres para marchar a Misuri y ayudar a redimir Sion (el Campo de Sion)",
-      "Abandonar los Estados Unidos e ir a Europa",
-      "Disolver la organización eclesiástica",
-      "No hacer nada físico y quedarse en Ohio"
+      "El principio central, las Escrituras usadas, las promesas y condiciones, y la acción personal concreta.",
+      "El tema general, la historia personal del líder, las estadísticas de la Iglesia, y la aplicación global.",
+      "El título del discurso, el nombre del orador, la duración, y el idioma original.",
+      "La doctrina teórica, la historia eclesiástica, la profecía futura, y el consejo práctico.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "Según DyC 103:31-35, ¿cuál era el número mínimo de personas requerido para el Campo de Sion?",
+    question:
+      "El presidente Benson enseñó que 'el profeta viviente es más vital que el profeta muerto'. ¿Qué significa eso en la práctica — no que los profetas del pasado no importan, sino algo diferente?",
     options: [
-      "Al menos quinientos, pero no menos de cien",
-      "Exactamente doce personas",
-      "Diez mil soldados armados",
-      "No se especificó un número mínimo"
+      "Que los discursos actuales reemplazan y anulan las Escrituras canónicas.",
+      "Que los profetas del pasado se equivocaban con más frecuencia que el profeta actual.",
+      "Que el profeta viviente aplica las verdades eternas a los desafíos específicos del tiempo en que vivimos — lo que ningún profeta del pasado puede hacer por nosotros hoy.",
+      "Que solo las declaraciones oficiales del profeta tienen valor, no los discursos de los apóstoles.",
     ],
-    correctAnswer: 0
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Qué bendición promete el Señor a quienes dan su vida en el Campo de Sion según DyC 103:27-28?",
+    question:
+      "¿Cuál es la diferencia entre escuchar un discurso de la Conferencia General y estudiarlo activamente con la plantilla de la lección?",
     options: [
-      "El que diere su vida por mi causa, la volverá a hallar, sí, vida eterna",
-      "Riquezas materiales para sus descendientes",
-      "Resucitar de inmediato en ese mismo instante",
-      "Que sus nombres borrarán sus transgresiones sin arrepentimiento"
+      "No hay diferencia real si uno presta atención durante la transmisión en vivo.",
+      "El estudio activo transforma el discurso de un mensaje recibido pasivamente a una fuente de revelación personal — identificar principio, promesas, condiciones y acción produce aplicación concreta.",
+      "La diferencia es solo de tiempo — el estudio posterior toma más horas pero produce los mismos resultados.",
+      "El estudio activo solo lo hacen los maestros; los alumnos solo necesitan escuchar.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Qué gran principio sobre el sacrificio nos enseña la organización del Campo de Sion?",
+    question:
+      "Lucía escuchó la última Conferencia General completa pero dos semanas después no recuerda ningún mensaje específico ni tomó ninguna acción. Según la plantilla de la lección, ¿qué paso omitió?",
     options: [
-      "Que el Señor requiere la disposición de sacrificar lo temporal por amor a Su obra y Sus hermanos",
-      "Que todo esfuerzo humano es inútil si hay oposición",
-      "Que los sacrificios materiales no importan en el evangelio",
-      "Que Dios siempre concede victorias militares físicas instantáneas"
+      "No tomó suficientes notas durante la transmisión en vivo.",
+      "No compartió los discursos en sus redes sociales inmediatamente después.",
+      "No volvió a los discursos después, no identificó el principio central ni decidió una acción concreta.",
+      "No leyó los discursos en inglés para entenderlos con más precisión doctrinal.",
     ],
-    correctAnswer: 0
-  }
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Agustín dice que los consejos del profeta 'son muy generales y no aplican a mi vida específica'. Según D&C 21:4–5, ¿cuál es el problema real en esa actitud?",
+    options: [
+      "Que el profeta debería dar consejería individual para que sus mensajes sean más útiles.",
+      "Que tiene razón y debería buscar orientación en fuentes más específicas a su situación.",
+      "Que Agustín recibe las palabras del profeta con filtro personal en lugar de con paciencia y fe — y eso impide que el Espíritu le muestre la aplicación personal.",
+      "Que los discursos de la Conferencia General son demasiado formales y deberían ser más conversacionales.",
+    ],
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Amós 3:7 ('el Señor no hace nada sin revelar sus secretos a sus profetas') y D&C 21:4–5 ('recibid sus palabras como de mi boca') forman juntos un principio. ¿Cuál es?",
+    options: [
+      "Que el profeta es infalible en todas sus declaraciones públicas y privadas.",
+      "Que el Señor diseñó un canal de comunicación activo: habla al profeta para hablar a Sus hijos — y el discípulo que recibe con fe cierra ese circuito de revelación continua.",
+      "Que solo los secretos doctrinales se revelan a través del profeta; los asuntos personales llegan directamente.",
+      "Que D&C 21 y Amós 3 describen épocas diferentes y no deben leerse juntos.",
+    ],
+    correctAnswer: 1,
+  },
 ];
 
-// Lección: Doctrina y Convenios 104
-export const dc97_dc104Questions: Question[] = [
+// Decisiones para la eternidad
+export const decisiones_eternidadQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Qué principio sobre la propiedad de la tierra y los bienes declara DyC 104:14?",
+    question:
+      "D&C 130:20–21 establece el principio de leyes y bendiciones. ¿Cuál es la declaración exacta sobre las bendiciones?",
     options: [
-      "Los hombres son dueños absolutos e independientes de la tierra",
-      "Yo, el Señor, extendí los cielos y formé la tierra, y es mi propia obra; todas las cosas son mías",
-      "La Iglesia posee las almas pero no las propiedades",
-      "Los bienes terrenales pertenecen al enemigo"
+      "Hay una ley irrevocablemente decretada en el cielo sobre la cual se basan todas las bendiciones — se obtienen por obediencia a esa ley.",
+      "Las bendiciones se otorgan según la fe del receptor y no dependen de leyes fijas.",
+      "Las bendiciones son dadas libremente por el Padre sin condición de obediencia.",
+      "Las leyes del cielo se aplican solo a los que tienen el sacerdocio activo.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Según DyC 104:15-18, ¿cuál es la manera del Señor para proveer a Sus santos?",
+    question:
+      "Helamán 5:12 describe el tipo de fundamento que protege al discípulo cuando 'el diablo envía sus vientos y sus granizos'. ¿Cuál es ese fundamento?",
     options: [
-      "Hacer que caiga dinero del cielo milagrosamente",
-      "Que los pobres sean exaltados, y los ricos sean humillados, compartiendo en mayordomía abundancia",
-      "Eliminar la necesidad de trabajar por el pan",
-      "Dejar que cada individuo compita de forma codiciosa"
+      "La roca del Redentor, que es Cristo, el Hijo de Dios.",
+      "La comunidad de los santos que rodea al discípulo.",
+      "La obediencia perfecta a todos los mandamientos sin excepción.",
+      "La fortaleza del carácter personal desarrollado por el discípulo.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Qué advertencia seria da DyC 104:18 a quien reciba abundancia y no comparta con los pobres?",
+    question:
+      "El presidente Nelson enseñó que 'las decisiones que toman ahora determinarán quiénes serán en la eternidad'. ¿Por qué las decisiones adolescentes tienen peso eterno, no solo temporal?",
     options: [
-      "No recibirá castigo si paga impuestos civiles",
-      "Con los ricos alzará sus ojos en el infierno, estando en tormentos",
-      "Solo perderá un porcentaje menor de su herencia",
-      "Se le dará más abundancia para probarlo de nuevo"
+      "Porque las decisiones de la adolescencia son las únicas que el Señor evalúa en el juicio final.",
+      "Porque las decisiones forman hábitos, los hábitos forman carácter, y el carácter se lleva a la eternidad — cada decisión de hoy construye o debilita el yo eterno.",
+      "Porque la adolescencia es la única etapa donde las decisiones son completamente libres.",
+      "Porque las decisiones adolescentes tienen consecuencias sociales más visibles que las de otras etapas.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Qué significa ser un 'mayordomo' ante los ojos del Señor?",
+    question:
+      "¿Por qué la perspectiva eterna es una herramienta de toma de decisiones más poderosa que simplemente preguntar '¿qué quiero ahora?'?",
     options: [
-      "Ser el propietario absoluto e incuestionable de todo",
-      "Reconocer que los bienes y talentos son de Dios, y los administramos bajo Su guía",
-      "Trabajar sin recibir ninguna recompensa eterna",
-      "Un puesto estrictamente administrativo sin valor espiritual"
+      "Porque la perspectiva eterna siempre produce las decisiones más conservadoras.",
+      "Porque '¿qué quiero ahora?' solo mide el deseo inmediato; la perspectiva eterna pregunta '¿qué tipo de persona quiero ser para siempre?' — y esa pregunta más larga clarifica lo que el deseo inmediato oscurece.",
+      "Porque la perspectiva eterna elimina todos los deseos temporales.",
+      "Porque las decisiones conservadoras siempre producen mejores resultados a largo plazo.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo destruye el egoísmo el plan del Señor para el bienestar de Sus hijos?",
+    question:
+      "Camila enfrenta una decisión sobre con quiénes pasar su tiempo libre y siente presión de un grupo que no comparte sus valores. Según Helamán 5:12 y la perspectiva eterna, ¿qué pregunta concreta le ayudaría a decidir?",
     options: [
-      "El egoísmo impide la unidad, quebranta convenios y priva a los necesitados del socorro dispuesto",
-      "No lo destruye, el egoísmo ayuda a acumular bienes",
-      "Obliga a que todos sean pobres por igual de forma violenta",
-      "No tiene influencia en las leyes de bienestar"
+      "'¿Qué diría mi grupo de amigos actuales si elijo diferente?'",
+      "'¿Estaré feliz en los próximos dos días con esta decisión?'",
+      "'¿En quién me estoy convirtiendo con esta decisión, y es esa la persona que quiero ser para siempre?' Construir sobre la roca significa elegir lo que sostiene cuando vienen las tormentas.",
+      "'¿Podré compensar esta decisión con buenas acciones después?'",
     ],
-    correctAnswer: 0
-  }
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Joaquín dice que 'una decisión pequeña no define quién soy'. Según D&C 130:20–21 y el principio de la lección, ¿qué le respondería el Señor?",
+    options: [
+      "Que tiene razón — el Señor solo evalúa las decisiones grandes y dramáticas.",
+      "Que las leyes irrevocables no distinguen entre decisiones pequeñas y grandes — cada elección de obediencia o desobediencia activa la ley correspondiente y construye o debilita el carácter poco a poco.",
+      "Que las decisiones pequeñas son perdonadas automáticamente sin necesidad de arrepentimiento.",
+      "Que debería preocuparse solo por las decisiones que otros pueden ver.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 130:20–21 (las bendiciones siguen a las leyes) y Helamán 5:12 (construir sobre la roca) forman juntos un modelo de vida. ¿Cuál es ese modelo completo?",
+    options: [
+      "Que basta con evitar los pecados grandes para garantizar las bendiciones eternas.",
+      "Que quien construye sus decisiones sobre Cristo y las leyes del evangelio recibe las bendiciones prometidas — y cuando lleguen las tormentas (y llegarán), ese fundamento no se mueve.",
+      "Que las bendiciones son garantizadas para los que asisten regularmente a la Iglesia.",
+      "Que el modelo es solo espiritual y no tiene implicaciones en decisiones prácticas cotidianas.",
+    ],
+    correctAnswer: 1,
+  },
 ];
 
-// Lección: Doctrina y Convenios 105
-export const dc98_dc105Questions: Question[] = [
+// Herramientas para el estudio de las Escrituras
+export const herramientas_escriturasQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Por qué mandó el Señor suspender la redención militar de Sion en DyC 105:1-6?",
+    question:
+      "D&C 88:118 instruye buscar conocimiento 'de los mejores libros'. ¿Qué herramienta oficial de la Iglesia contiene definiciones doctrinales, referencias cruzadas temáticas y mapas para el estudio de las Escrituras?",
     options: [
-      "Porque el Señor se quedó sin poder frente al enemigo",
-      "Porque el pueblo no había aprendido a ser obediente, unido y consagrado como requería la ley celestial",
-      "Porque los mapas de Misuri estaban equivocados",
-      "Porque el gobierno civil les prohibió caminar"
+      "La Guía para el Estudio de las Escrituras — disponible en la aplicación Gospel Library.",
+      "El manual de estudio de la Conferencia General publicado cada seis meses.",
+      "El diccionario de la Iglesia publicado en el siglo XIX por Brigham Young.",
+      "Los libros de texto del Instituto de Religión que contienen notas de los apóstoles.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Según DyC 105:9-11, ¿qué gran evento debían esperar los santos antes de que Sion fuera redimida?",
+    question:
+      "2 Timoteo 2:15 instruye a quien estudia la Palabra a presentarse como 'obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad'. ¿Qué implica 'usar bien' en el contexto del estudio de las Escrituras?",
     options: [
-      "Que sus ejércitos se duplicaran en armas",
-      "Que mis élderes reciban investidura de poder de lo alto en la casa del Señor",
-      "La destrucción física de todos los ciudadanos de Misuri",
-      "El fin de los tiempos de forma inmediata"
+      "Citar los versículos con la referencia exacta sin cometer errores.",
+      "Entenderlos en su contexto, interpretar correctamente su significado y aplicarlos con precisión — no usarlos fuera de su sentido original.",
+      "Memorizar el mayor número posible de capítulos para tenerlos disponibles.",
+      "Leerlos en el idioma original hebreo o griego para mayor precisión.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Qué mandato sobre la paz y la prudencia da el Señor en DyC 105:38-40?",
+    question:
+      "El élder Scott enseñó que si no se registran las impresiones del Espíritu al estudiar, se pierden. ¿Qué función de Gospel Library responde a esa necesidad directamente?",
     options: [
-      "Buscar la paz, no solo con quienes los hirieron, sino con todos los hombres",
-      "Planificar un ataque sorpresa nocturno",
-      "Maldecir públicamente a los perseguidores",
-      "Rendirse y abandonar la Iglesia por completo"
+      "La función de subrayado y notas personales que permite anotar impresiones junto al versículo.",
+      "La función de descarga de discursos en audio para escuchar mientras se hace otra cosa.",
+      "La función de compartir versículos en redes sociales con un solo toque.",
+      "La función de estadísticas de lectura que muestra cuántos capítulos has leído.",
     ],
-    correctAnswer: 0
+    correctAnswer: 0,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "Aunque el Campo de Sion no recuperó las tierras físicamente, ¿por qué fue un éxito espiritual?",
+    question:
+      "¿Por qué conocer las herramientas de estudio de las Escrituras produce independencia espiritual — y eso es algo valioso para un joven?",
     options: [
-      "Porque sirvió de prueba para forjar el carácter y fe de futuros apóstoles y líderes",
-      "Porque ganaron mucho dinero en el viaje",
-      "No tuvo ningún éxito, fue un fracaso absoluto",
-      "Porque asustaron a los enemigos temporales"
+      "Porque la independencia espiritual significa no necesitar a los líderes de la Iglesia.",
+      "Porque un estudiante que domina las herramientas puede responder sus propias preguntas espirituales y no depender de que alguien siempre le dé las respuestas — eso construye fe robusta, no frágil.",
+      "Porque las herramientas de estudio reemplazan la necesidad de la oración.",
+      "Porque dominar las herramientas produce reconocimiento intelectual en la clase de Seminario.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Qué nos enseña esta sección sobre la relación entre nuestra rectitud y el cumplimiento de las promesas de Dios?",
+    question:
+      "Renata dice que 'no entiende un versículo de D&C que leyó esta mañana'. ¿Cuál sería el proceso correcto usando las herramientas de la lección, antes de rendirse o preguntar a alguien?",
     options: [
-      "Las promesas de Dios se cumplen aunque seamos desobedientes",
-      "Para recibir las bendiciones del Señor colectivamente, debemos alinearnos primero con Sus leyes",
-      "Dios cambia de parecer y rompe convenios arbitrariamente",
-      "La rectitud personal no influye en los propósitos de la Iglesia"
+      "Leerlo en voz alta varias veces hasta que el significado aparezca.",
+      "Buscar el versículo en Google para ver qué dicen los comentaristas populares.",
+      "Usar las notas al pie y referencias cruzadas de ese versículo, buscar el término en la Guía para el Estudio, y leer los versículos antes y después para entender el contexto.",
+      "Esperar la próxima clase de Seminario para que el maestro lo explique.",
     ],
-    correctAnswer: 1
-  }
-];
-
-// ============================================================================
-// SEMANA 19
-// ============================================================================
-
-// Lección: Doctrina y Convenios 106-108
-export const dc99_dc106_108Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Qué tierno título da el Señor a Warren Cowdery por su fidelidad en DyC 106:6?",
-    options: [
-      "Un siervo perezoso",
-      "Un gozoso heredero del reino",
-      "Un testigo de mi nombre, a quien coronaré",
-      "No le da ningún reconocimiento espiritual"
-    ],
-    correctAnswer: 2
+    correctAnswer: 2,
   },
+  // APLICACIÓN 6
   {
-    id: 2,
-    question: "Según DyC 108:1-3, ¿qué bendición recibe Lyman Sherman al confesar sus pecados ante el profeta?",
+    id: 6,
+    question:
+      "Tomás estudia las Escrituras en papel porque 'el celular distrae'. Pero entonces no puede acceder a las herramientas digitales. ¿Cuál sería el enfoque más práctico según el principio de la lección?",
     options: [
-      "Tus pecados te son perdonados; quédate tranquilo de aquí en adelante",
-      "Se le impone un castigo público severo",
-      "Se le retira el llamamiento misional de inmediato",
-      "El Señor ignora su confesión"
+      "Debe elegir solo uno — papel o digital — y ser consistente con esa elección.",
+      "Puede estudiar en papel y usar Gospel Library solo para las herramientas (notas al pie, referencias, Guía) — las herramientas son un complemento, no un reemplazo del texto.",
+      "El papel es siempre superior al digital para el estudio espiritual.",
+      "Debería usar solo el digital porque el papel no permite acceder a suficientes recursos.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // SÍNTESIS 7
   {
-    id: 3,
-    question: "¿Qué mandato de fortaleza interpersonal da el Señor a Lyman Sherman en DyC 108:7?",
+    id: 7,
+    question:
+      "D&C 88:118 ('buscar conocimiento con el estudio y la fe') y 2 Timoteo 2:15 ('usar bien la palabra de verdad') juntos describen el tipo de estudiante de Escrituras que el Señor busca. ¿Cuál es ese perfil?",
     options: [
-      "Fortalece a tus hermanos en todas tus conversaciones, oraciones y exhortaciones",
-      "Evita hablar con quienes tengan dudas o debilidades",
-      "Busca destacar sobre tus compañeros de llamamiento",
-      "Estudia solo en privado sin predicar"
+      "Alguien que memoriza grandes cantidades de texto bíblico con precisión académica.",
+      "Alguien que combina el esfuerzo activo del estudio —usando todas las herramientas disponibles— con la fe que abre el entendimiento, y que aplica lo que aprende con integridad.",
+      "Alguien que lee las Escrituras todos los días sin interrupción, independientemente de la comprensión.",
+      "Alguien que puede defender las doctrinas de la Iglesia en debates intelectuales.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
-  {
-    id: 4,
-    question: "¿Por qué es importante que nuestras conversaciones cotidianas sirvan para 'fortalecer a nuestros hermanos'?",
-    options: [
-      "Porque edifica la fe, combate el desánimo y consolida la unidad del convenio",
-      "Es solo una norma de cortesía social sin valor eterno",
-      "Para vigilar las faltas de los demás miembros",
-      "No tiene importancia real"
-    ],
-    correctAnswer: 0
-  },
-  {
-    id: 5,
-    question: "¿Qué nos enseña la pronta disposición del Señor para perdonar a Lyman Sherman?",
-    options: [
-      "Que el pecado no es grave ante Dios",
-      "La infinita paciencia y misericordia del Salvador ante un corazón humilde que busca rectitud",
-      "Que no necesitamos arrepentirnos en el templo",
-      "Que el perdón depende de la posición social del miembro"
-    ],
-    correctAnswer: 1
-  }
-];
-
-// Lección: Doctrina y Convenios 107, Parte 1
-export const dc100_dc107_parte1Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Por qué se llamó originalmente Sacerdocio de Melquisedec según DyC 107:2-4?",
-    options: [
-      "Por el nombre de un lugar geográfico antiguo",
-      "Por respeto o reverencia al nombre del Ser Supremo, para evitar la repetición frecuente de Su nombre",
-      "Porque Melquisedec inventó el sacerdocio",
-      "Es un título administrativo sin significado espiritual"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 2,
-    question: "Según DyC 107:13-14, ¿cuál es el segundo sacerdocio y por qué se llama Aarónico?",
-    options: [
-      "El Sacerdocio Menor, porque se confirió a Aarón y a su descendencia",
-      "El Sacerdocio de los Reyes, por razones políticas",
-      "Un orden civil de la antigua Roma",
-      "No se le da ninguna denominación especial"
-    ],
-    correctAnswer: 0
-  },
-  {
-    id: 3,
-    question: "¿Qué derecho y autoridad posee el Sacerdocio de Melquisedec según DyC 107:18-19?",
-    options: [
-      "Gobernar los reinos políticos de la tierra por la fuerza",
-      "Poseer las llaves de todas las bendiciones espirituales de la iglesia y recibir los misterios del reino",
-      "Administrar únicamente los diezmos materiales",
-      "Evitar guardar los mandamientos menores"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 4,
-    question: "¿Qué llaves eclesiásticas retiene el Sacerdocio Aarónico según DyC 107:20?",
-    options: [
-      "Las llaves del ministerio de ángeles y de las ordenanzas exteriores (el bautismo y la santa cena)",
-      "Las llaves de la investidura del templo y sellamientos",
-      "La presidencia total sobre el Sumo Consejo",
-      "No posee llaves espirituales"
-    ],
-    correctAnswer: 0
-  },
-  {
-    id: 5,
-    question: "¿Cómo trabajan en armonía ambos sacerdocios para la salvación de los hijos de Dios?",
-    options: [
-      "Compitiendo por el poder administrativo",
-      "El Aarónico prepara el camino con las ordenanzas de arrepentimiento y el Melquisedec guía hacia la exaltación",
-      "Actuando de manera totalmente aislada e independiente",
-      "El Sacerdocio de Melquisedec eliminó la necesidad del Aarónico"
-    ],
-    correctAnswer: 1
-  }
-];
-
-// Lección: Doctrina y Convenios 107, Parte 2
-export const dc101_dc107_parte2Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Qué enseña DyC 107:22-24 sobre la autoridad de los Doce Apóstoles comparada con la Primera Presidencia?",
-    options: [
-      "Que los Doce no tienen ninguna autoridad real",
-      "Constituyen un cuórum igual en autoridad y poder al de los tres presidentes",
-      "Que los Doce mandan de forma absoluta sobre el profeta",
-      "Su autoridad varía según la edad de los miembros"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 2,
-    question: "Según DyC 107:27, ¿cómo deben tomarse las decisiones en los cuórums de la presidencia de la Iglesia?",
-    options: [
-      "Por simple mayoría de votos en discordia",
-      "Por la voz unánime de los mismos; cada miembro debe estar de acuerdo",
-      "Por orden dictatorial del líder principal sin consultar",
-      "Echando suertes al azar"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 3,
-    question: "¿Qué solemne mandato cierra la sección en DyC 107:99?",
-    options: [
-      "Aprenda todo hombre su deber, así como a obrar con toda diligencia en el oficio para el cual fuere nombrado",
-      "Postergue sus responsabilidades hasta que tenga más tiempo libre",
-      "Busque cambiar de llamamiento si le parece difícil",
-      "Deje la obra en manos de los líderes a tiempo completo"
-    ],
-    correctAnswer: 0
-  },
-  {
-    id: 4,
-    question: "Según DyC 107:100, ¿qué sucede con el hombre que no aprende ni cumple con su deber en el sacerdocio?",
-    options: [
-      "No será tenido por digno de permanecer, y perderá su recompensa",
-      "Se le premia con una posición más alta para animarlo",
-      "No pasa nada, la gracia cubre la negligencia absoluta",
-      "Se le exime de toda responsabilidad para siempre"
-    ],
-    correctAnswer: 0
-  },
-  {
-    id: 5,
-    question: "¿Por qué es vital el principio de la 'unanimidad' en las decisiones de la Primera Presidencia y los Doce?",
-    options: [
-      "Garantiza que el orgullo humano no domine; refleja la mente y voluntad unificada de Jesucristo",
-      "Es solo una regla para evitar discusiones largas",
-      "Demuestra que todos los hombres piensan igual por naturaleza",
-      "No influye en la validez doctrinal"
-    ],
-    correctAnswer: 0
-  }
-];
-
-// Lección: Doctrina y Convenios 107, Parte 3
-export const dc102_dc107_parte3Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Qué notable evento histórico-profético se describe en DyC 107:53-56?",
-    options: [
-      "Una batalla militar del Antiguo Testamento",
-      "Adán reunió a su posteridad justa en el valle de Adán-ondi-Ahmán y los bendijo, y el Señor se les apareció",
-      "La edificación del templo de Jerusalén",
-      "La mudanza de los pioneros a Utah"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 2,
-    question: "Según DyC 107:56, ¿qué profetizó Adán durante esa gran reunión familiar?",
-    options: [
-      "El fin del mundo para el día siguiente",
-      "Profetizó todo lo que habría de acontecer a su posteridad hasta la última generación",
-      "Cosas puramente económicas de su época",
-      "No profetizó nada, solo se despidió"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 3,
-    question: "¿Qué bendición especial posee el Sacerdocio Patriarcal según esta sección?",
-    options: [
-      "Se transmite de padre a hijo entre la posteridad justa, uniendo las generaciones en convenios eternos",
-      "Permite gobernar naciones seculares",
-      "Otorga riquezas materiales automáticas",
-      "Exime a las familias de pasar por aflicciones"
-    ],
-    correctAnswer: 0
-  },
-  {
-    id: 4,
-    question: "¿Qué significado tiene el valle de Adán-ondi-Ahmán para los santos de los últimos días?",
-    options: [
-      "Un sitio arqueológico sin trascendencia futura",
-      "El lugar sagrado donde ocurrió la reunión antigua y donde Cristo se reunirá con Sus siervos antes de la Segunda Venida",
-      "Un territorio comercial de la Iglesia",
-      "Una metáfora mística que no existió físicamente"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 5,
-    question: "¿Cómo nos ayuda recordar las profecías y promesas hechas a los patriarcas antiguos?",
-    options: [
-      "Nos da una perspectiva eterna sobre la fidelidad de Dios y la continuidad de Sus convenios familiares",
-      "Reemplaza nuestro estudio de las escrituras modernas",
-      "Demuestra que el pasado era mejor que el presente",
-      "No tiene relevancia práctica"
-    ],
-    correctAnswer: 0
-  }
-];
-
-// Lección: Adquirir conocimiento espiritual - Parte 4 (Dominio de la Doctrina)
-export const adquirir_conocimiento_4Questions: Question[] = [
-  {
-    id: 1,
-    question: "¿Cuáles son los tres principios fundamentales para adquirir conocimiento espiritual estudiados en el Dominio?",
-    options: [
-      "Leer rápido, discutir con elocuencia y juzgar las opiniones ajenas",
-      "Actuar con fe, examinar los conceptos con perspectiva eterna y buscar entendimiento mediante fuentes divinamente señaladas",
-      "Esperar pasivamente, dudar de todo y seguir los valores populares",
-      "Estudiar ciencia secular, ignorar la oración y confiar en el intelecto humano"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 2,
-    question: "Cuando un concepto o mandamiento te resulta difícil de comprender, ¿qué significa 'actuar con fe'?",
-    options: [
-      "Abandonar el estudio y fingir que el problema no existe",
-      "Continuar confiando en Dios y guardando Sus convenios mientras buscas honestamente respuestas",
-      "Rechazar el mandamiento hasta tener la prueba matemática perfecta",
-      "Dudar de tu testimonio anterior de inmediato"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 3,
-    question: "¿Cómo nos ayuda 'examinar los conceptos con perspectiva eterna'?",
-    options: [
-      "Nos permite ver las dudas en el contexto del Plan de Salvación, en lugar de juzgarlas bajo las normas del mundo",
-      "Hace que nos olvidemos por completo de la vida terrenal",
-      "Demuestra que la historia del mundo no importa",
-      "Cambia las escrituras para adaptarlas a las opiniones modernas"
-    ],
-    correctAnswer: 0
-  },
-  {
-    id: 4,
-    question: "Frente a una duda histórica compleja sobre la Iglesia, ¿cuál es el uso correcto de las fuentes divinamente señaladas?",
-    options: [
-      "Evitarlas y leer foros de críticos en internet",
-      "Acudir a las Escrituras, las declaraciones de los profetas y recursos oficiales que gozan de la influencia del Espíritu",
-      "Aceptar cualquier rumor si suena lógico",
-      "Esperar que la duda desaparezca sola sin investigar"
-    ],
-    correctAnswer: 1
-  },
-  {
-    id: 5,
-    question: "¿Cuál es el fruto definitivo de aplicar estos tres principios con constancia en la vida?",
-    options: [
-      "Volvernos arrogantes intelectualmente",
-      "Un testimonio firme, paz mental y una relación profunda y real con el Salvador Jesucristo",
-      "Estar exentos de tener cualquier prueba futura",
-      "Que todos piensen exactamente igual que nosotros"
-    ],
-    correctAnswer: 1
-  }
 ];
 
 // ============================================================================
-// SEMANA 20
+// SEMANA 18 — 30 de Junio al 6 de Julio
+// Lecciones: D&C 71, Dominio práctica 5, Evalúa aprendizaje 5,
+//            Contexto escrituras, Cuidar el cuerpo
 // ============================================================================
 
-// Lección: Doctrina y Convenios 109, Parte 1
-export const dc103_dc109_parte1Questions: Question[] = [
+// D&C 71
+export const dc71Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Cómo recibió José Smith el texto de la oración de dedicación en DyC 109?",
+    question:
+      "D&C 71 fue dada cuando Ezra Booth publicaba cartas atacando a la Iglesia. ¿Qué instrucción específica dio el Señor a José Smith y Sidney Rigdon como respuesta?",
     options: [
-      "La escribió un comité político de la ciudad",
-      "Le fue dada por revelación del Señor antes del servicio de dedicación",
-      "La copió de una liturgia antigua de otra fe",
-      "Fue improvisada completamente en el momento"
+      "Salir públicamente a proclamar el evangelio y confundir a sus enemigos — no debatir sino declarar.",
+      "Ignorar las cartas y continuar la traducción de la Biblia sin interrupciones.",
+      "Publicar una respuesta formal en el mismo periódico donde aparecieron las cartas.",
+      "Orar por Ezra Booth y esperar que el Señor actuara directamente.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Según DyC 109:7-8, ¿qué tipo de casa mandó el Señor edificar a los santos en Kirtland?",
+    question:
+      "D&C 71:7–9 promete que si los siervos del Señor proclaman el evangelio con fidelidad, sus enemigos 'no tendrán poder ni lugar para ellos'. ¿Qué condición activa esa promesa?",
     options: [
-      "Un centro comercial exclusivo",
-      "Una casa de oración, de ayuno, de fe, de instrucción... una casa de Dios",
-      "Un cuartel defensivo civil",
-      "Un edificio puramente social"
+      "Que proclamen el evangelio con fidelidad — la verdad declarada con el Espíritu desplaza la mentira sin necesidad de combatirla directamente.",
+      "Que denuncien públicamente los errores de sus opositores con evidencia específica.",
+      "Que reúnan suficientes testimonios de miembros que apoyen su versión de los hechos.",
+      "Que esperen a que sus enemigos se arrepientan antes de proclamar el evangelio.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Qué bendición extraordinaria se pide para quienes adoren en el templo en DyC 109:22?",
+    question:
+      "El élder Holland enseñó que 'el mejor testimonio es el que comparte con luz en los ojos por qué el evangelio es verdadero'. ¿Por qué ese tipo de testimonio es más eficaz que refutar directamente cada crítica?",
     options: [
-      "Que salgan de ella armados de tu poder, y que tu nombre esté sobre ellos y tu gloria alrededor",
-      "Inmunidad absoluta contra la fatiga física",
-      "Riquezas materiales garantizadas de inmediato",
-      "Que no necesiten pasar por el juicio final"
+      "Porque las críticas no merecen respuesta directa y deben ser ignoradas.",
+      "Porque un testimonio vivo del poder transformador del evangelio es evidencia que ningún argumento puede contraargumentar — la luz desplaza la oscuridad sin necesidad de pelear con ella.",
+      "Porque refutar críticas demuestra que uno tiene dudas sobre la verdad del evangelio.",
+      "Porque el Señor prohíbe el debate intelectual sobre asuntos religiosos.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Por qué requirió el Señor un sacrificio tan grande de los santos pobres de Kirtland para hacer el templo?",
+    question:
+      "¿Por qué D&C 71 instruye 'confundir a los enemigos' mediante la proclamación del evangelio y no mediante argumentos directos contra sus críticas?",
     options: [
-      "Porque el Señor necesitaba sus monedas materiales",
-      "Para preparar un lugar puro donde derramar bendiciones, llaves y poder celestiales indispensables",
-      "Fue un mandamiento sin un propósito real",
-      "Para edificar el orgullo arquitectónico de la región"
+      "Porque el Señor considera que los argumentos son una señal de debilidad espiritual.",
+      "Porque responder directamente a cada crítica le da credibilidad y amplifica su alcance; proclamar la verdad cambia el terreno del debate y pone a los detractores en la posición de tener que responder a la luz.",
+      "Porque los argumentos solo son útiles para los académicos, no para los miembros comunes.",
+      "Porque José Smith no tenía la educación necesaria para debatir intelectualmente.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo se cumple hoy la promesa de salir del templo 'armados de Su poder'?",
+    question:
+      "Sofía tiene un compañero que comparte críticas a la Iglesia en las redes sociales. Según el principio de D&C 71, ¿cuál sería la respuesta más efectiva espiritualmente?",
     options: [
-      "Recibiendo fortaleza espiritual, paz mental y la guía del Espíritu Santo para enfrentar los desafíos diarios",
-      "Haciendo ejercicios físicos dentro del edificio",
-      "Adquiriendo una posición social influyente",
-      "Estando exentos de cumplir los mandamientos morales"
+      "Bloquear al compañero para no ver las críticas y no responder.",
+      "Contrarrestar cada crítica con evidencias históricas y fuentes académicas.",
+      "Compartir lo que el evangelio ha hecho en su vida —con autenticidad y sin atacar— y dejar que esa luz hable por sí sola.",
+      "Pedirle al obispo que hable con el compañero para resolver el problema formalmente.",
     ],
-    correctAnswer: 0
-  }
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Mateo se siente sin respuesta cuando alguien critica a la Iglesia con argumentos que no conoce bien. Según D&C 71, ¿cuál es la herramienta más poderosa que sí tiene disponible siempre?",
+    options: [
+      "La memorización de todos los pasajes del Dominio de la Doctrina.",
+      "Su testimonio personal de lo que el evangelio ha hecho en su vida — eso no puede ser refutado por ningún argumento externo.",
+      "El acceso a la biblioteca de discursos de la Conferencia General.",
+      "La habilidad de decir 'no lo sé pero voy a investigar' y cambiar el tema.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 71 y D&C 67 (lección anterior) tratan ambos la relación entre el evangelio y sus críticos. ¿Cuál es el principio común que las une?",
+    options: [
+      "Que el Señor quiere que los santos sean expertos en debate intelectual religioso.",
+      "Que la verdad del evangelio no necesita defenderse con las mismas armas que la atacan — en D&C 67 el desafío práctico reveló el origen divino, y en D&C 71 la proclamación fiel desplaza la mentira.",
+      "Que la respuesta correcta a las críticas siempre es el silencio espiritual.",
+      "Que solo José Smith tenía la autoridad y capacidad para responder a las críticas del evangelio.",
+    ],
+    correctAnswer: 1,
+  },
 ];
 
-// Lección: Doctrina y Convenios 109, Parte 2
-export const dc104_dc109_parte2Questions: Question[] = [
+// Práctica del Dominio de la doctrina 5
+export const dominioPractica5Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Qué pide la oración por los santos que fueron expulsados de Misuri en DyC 109:47-50?",
+    question:
+      "D&C 64:9–10 es uno de los pasajes del Dominio de la Doctrina de este bloque. ¿Cuál es su declaración central que lo hace único frente a otras enseñanzas sobre el perdón?",
     options: [
-      "Que el Señor destruya a sus enemigos con fuego inmediato",
-      "Ten misericordia, oh Señor, de la chusma, y muévelos al arrepentimiento si es posible",
-      "Que se les permita olvidar sus convenios templarios",
-      "Que abandonen la Iglesia para no sufrir más"
+      "Que el Señor es requerido a perdonar a quien se arrepiente, pero nosotros somos requeridos a perdonar a todos — sin condición previa de arrepentimiento del otro.",
+      "Que el perdón es una elección personal sin implicaciones espirituales obligatorias.",
+      "Que el Señor no perdona a quien no se arrepiente, y nosotros tampoco estamos obligados.",
+      "Que el perdón de Dios y el perdón humano funcionan exactamente de la misma manera.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Según DyC 109:54, ¿por qué pide el profeta misericordia para todas las naciones de la tierra?",
+    question:
+      "D&C 64:33 dice que 'de pequeñas cosas proceden las grandes'. Si alguien te pregunta cómo ese principio aplica a la construcción del testimonio, ¿qué responderías usando ese versículo?",
     options: [
-      "Para que se detenga el prejuicio y el evangelio pueda ser predicado libremente a todas las almas",
-      "Porque todas las culturas actúan con perfecta justicia",
-      "Para unificar todos los gobiernos en una dictadura humana",
-      "No se menciona a las naciones seculares"
+      "Que el testimonio crece solo en los grandes momentos de revelación y crisis.",
+      "Que así como las grandes obras se construyen con actos pequeños y fieles, el testimonio se construye con oraciones diarias, estudios breves y decisiones cotidianas — no con un momento único.",
+      "Que el versículo solo aplica a obras físicas como templos y edificios de la Iglesia.",
+      "Que el principio es solo motivacional y no tiene aplicación doctrinal concreta.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Qué glorioso deseo final expresa el profeta para los santos en DyC 109:75-76?",
+    question:
+      "¿Qué hace que un pasaje del Dominio esté realmente dominado, más allá de poder recitarlo?",
     options: [
-      "Que se vuelvan los más ricos de la tierra",
-      "Ser coronados con gloria y ser arrebatados en la nube para reinar con Cristo",
-      "Evitar la muerte física por completo",
-      "Permanecer aislados en el desierto para siempre"
+      "Haber estudiado todos los versículos de la sección completa que lo contiene.",
+      "Poder explicar su principio con las propias palabras, ubicarlo en su contexto y usarlo naturalmente en una conversación sin necesitar buscarlo.",
+      "Haberlo escrito a mano al menos diez veces como ejercicio de memorización.",
+      "Haberlo citado en al menos tres discursos o lecciones formales de la Iglesia.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Qué actitud hacia nuestros enemigos nos enseña la oración de dedicación?",
+    question:
+      "El Dominio de la Doctrina cubre versículos de D&C 58:42–43 sobre el arrepentimiento y D&C 64:9–10 sobre el perdón. ¿Cómo se complementan doctrinalmente esos dos pasajes?",
     options: [
-      "Almacenar resentimiento y planear su caída",
-      "Orar por ellos, pidiendo que sus corazones sean conmovidos hacia el arrepentimiento y la verdad",
-      "Ignorar su existencia por completo",
-      "Pagar con la misma agresión"
+      "No se complementan — tratan temas completamente separados sin relación.",
+      "D&C 58:42–43 describe lo que el Señor hace cuando uno se arrepiente; D&C 64:9–10 describe lo que nosotros debemos hacer independientemente del arrepentimiento del otro — ambos revelan la misericordia como principio central del evangelio.",
+      "Ambos dicen lo mismo con palabras diferentes y uno de los dos es redundante.",
+      "D&C 58 aplica a pecados graves y D&C 64 aplica solo a ofensas menores interpersonales.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo demuestra esta sección el alcance global y misional de la obra de los últimos días?",
+    question:
+      "Agustín tiene memorizados todos los pasajes del Dominio pero nunca los usó fuera del aula. Esta semana su hermana le dice que 'Dios no puede olvidar lo que hizo'. ¿Qué versículo usaría y cómo?",
     options: [
-      "Muestra que el templo no es solo para Kirtland, sino el motor espiritual para llevar salvación a todo el mundo",
-      "Restringe el evangelio únicamente a la posteridad de Adán",
-      "Se enfoca solo en asuntos políticos de Ohio",
-      "No tiene metas misionales"
+      "D&C 6:36 — 'No temas, pequeño rebaño' — porque su hermana necesita calma.",
+      "D&C 58:42 — 'Yo, el Señor, no los recuerdo más' — porque ese versículo responde directamente a la angustia de su hermana sobre si el perdón es completo.",
+      "D&C 1:37–38 — las palabras del Señor se cumplirán — para mostrarle que las promesas son fiables.",
+      "D&C 19:16–19 — la Expiación — para explicarle por qué el Salvador sufrió.",
     ],
-    correctAnswer: 0
-  }
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Renata quiere usar D&C 64:33 esta semana pero no sabe cuándo. ¿Cuál de las siguientes situaciones sería el momento más natural para ese versículo?",
+    options: [
+      "Cuando alguien le pide que memorice más versículos para el examen del Dominio.",
+      "Cuando un amigo que lleva meses intentando cambiar sin ver resultados está a punto de rendirse.",
+      "Cuando alguien le pregunta sobre la historia de la Iglesia y los errores del pasado.",
+      "Cuando necesita justificar por qué no hizo algo importante que le pidieron.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "El Dominio de la Doctrina como programa tiene un objetivo final: que los versículos estén 'vivos' en el discípulo. ¿Cuál es la diferencia entre un versículo 'aprendido' y uno 'vivo'?",
+    options: [
+      "El versículo aprendido se puede recitar; el versículo vivo surge naturalmente cuando la situación lo requiere, como parte del pensamiento y el lenguaje cotidiano del discípulo.",
+      "La diferencia es solo de repetición — un versículo vivo fue revisado más veces.",
+      "Un versículo vivo es uno que el discípulo puede recitar incluso bajo presión extrema.",
+      "No hay diferencia práctica — todos los versículos memorizados están igualmente disponibles.",
+    ],
+    correctAnswer: 0,
+  },
 ];
 
-// Lección: Doctrina y Convenios 110
-export const dc105_dc110Questions: Question[] = [
+// Evalúa tu aprendizaje 5
+export const evalua_aprendizaje_5Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Quién se apareció primero a José Smith y Oliver Cowdery en el Templo de Kirtland (DyC 110:1-4)?",
+    question:
+      "Las semanas 16–18 cubrieron varios principios. ¿A cuál lección pertenece el principio 'de pequeñas cosas proceden las grandes'?",
     options: [
-      "Un ángel de las Escrituras antiguas sin nombre",
-      "El Señor Jesucristo, de pie sobre el antepecho del púlpito",
-      "El emperador de Roma resucitado",
-      "Un líder civil de Ohio"
+      "A D&C 64:20–43 — no cansarse de hacer el bien.",
+      "A D&C 65 — el reino de Dios en la tierra.",
+      "A D&C 67 — el origen divino de las revelaciones.",
+      "A D&C 71 — proclamar el evangelio frente a las críticas.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "¿Qué llave entregó Moisés en DyC 110:11?",
+    question:
+      "D&C 65 describe una piedra que 'rodará hasta llenar la tierra'. ¿De qué profecía del Antiguo Testamento toma esa imagen?",
     options: [
-      "Las llaves del recogimiento de Israel de las cuatro partes de la tierra",
-      "Las llaves del sellamiento de las familias",
-      "La autoridad para bautizar únicamente",
-      "El plano para edificar más templos"
+      "De Daniel 2 — la piedra cortada sin manos que destruye las estatuas de los reinos del mundo.",
+      "De Isaías 28 — la piedra angular del fundamento de Sion.",
+      "De Ezequiel 37 — los huesos secos que vuelven a la vida.",
+      "De Jeremías 31 — el nuevo convenio escrito en el corazón del pueblo.",
     ],
-    correctAnswer: 0
+    correctAnswer: 0,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Qué misión cumplió Elías el Profeta al entregar las llaves en DyC 110:13-15?",
+    question:
+      "Las semanas 16–18 incluyeron D&C 64 (perdón), D&C 65 (reino), D&C 67 (origen de revelaciones) y D&C 71 (respuesta a críticos). ¿Qué tema de fondo une a todas esas secciones?",
     options: [
-      "Cambiar las leyes del Sacerdocio Aarónico",
-      "Hacer volver el corazón de los padres a los hijos, y el de los hijos a los padres (llaves de sellamiento)",
-      "Profetizar plagas sobre la tierra",
-      "Traducir los libros apócrifos pendientes"
+      "Que el Señor organizó la Iglesia en Ohio y Misuri con instrucciones muy específicas.",
+      "Que el discípulo fiel enfrenta oposición — interna (falta de perdón, cansancio) y externa (críticas, dudas) — y el Señor provee principios concretos para cada tipo.",
+      "Que el sacerdocio es la fuente principal de todas las bendiciones de ese período.",
+      "Que el traslado a Misuri fue el evento doctrinal más importante de esa época.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "Según DyC 110:16, ¿qué sabemos con certeza gracias a la entrega de estas llaves sagradas?",
+    question:
+      "D&C 64:9 dice que perdonar a todos es requerido. ¿Cuál es la diferencia entre perdonar 'porque el Señor lo manda' y perdonar 'porque entiendo que el resentimiento me destruye a mí'?",
     options: [
-      "Que la Iglesia se disolverá pronto",
-      "Que las llaves de esta dispensación han sido entregadas y que el día grande y terrible del Señor está cerca",
-      "Que ya no es necesario hacer obra misional",
-      "Que el juicio final ocurrió en el siglo XIX"
+      "No hay diferencia — el resultado espiritual es idéntico independientemente de la motivación.",
+      "El primero es obediencia externa; el segundo es sabiduría interior. Idealmente ambas coinciden — el discípulo maduro obedece y entiende por qué esa obediencia lo libera.",
+      "El segundo es más valioso porque no requiere referencia al mandamiento.",
+      "El primero es más valioso porque demuestra sujeción a la autoridad divina.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo afecta la restauración de las llaves por Elías el Profeta a nuestra vida familiar actual?",
+    question:
+      "Camila siente que las últimas semanas del Seminario le enseñaron mucho pero no sabe cómo medir su crecimiento real. ¿Cuál es la mejor medida del aprendizaje espiritual genuino?",
     options: [
-      "Nos permite sellarnos como familias por la eternidad y hacer la obra vicaria por nuestros antepasados",
-      "Elimina la responsabilidad de criar a los hijos en luz",
-      "Hace que la genealogía sea obligatoria para la salvación civil",
-      "No tiene ningún impacto en las familias de hoy"
+      "La cantidad de preguntas que respondió correctamente en los quizzes del bloque.",
+      "Cuántos versículos del Dominio de la Doctrina memorizó durante el período.",
+      "Si algo cambió en cómo actúa, cómo trata a otros, o cómo entiende su relación con el Señor — el aprendizaje real siempre produce cambio concreto.",
+      "La cantidad de veces que asistió al Seminario sin faltar durante el bloque.",
     ],
-    correctAnswer: 0
-  }
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Joaquín identificó que el principio de D&C 71 (proclamar en lugar de debatir) describe exactamente lo que necesita en su vida con un compañero crítico. ¿Qué haría la versión más fiel de Joaquín con ese reconocimiento?",
+    options: [
+      "Compartirlo con el maestro de Seminario para que le dé consejos más específicos.",
+      "Esperar a que su compañero crítico cambie antes de intentar proclamar nada.",
+      "Identificar una oportunidad concreta esta semana para compartir lo que el evangelio significa en su vida — no argumentar sino testificar.",
+      "Escribir un ensayo sobre el principio de D&C 71 para consolidar su entendimiento.",
+    ],
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Esta evaluación cierra el quinto bloque del año. ¿Cuál es la pregunta más importante que define si el aprendizaje del Seminario fue genuino este año?",
+    options: [
+      "'¿Cuántos capítulos de D&C estudié en total?'",
+      "'¿Aprobé todos los exámenes del Dominio de la Doctrina?'",
+      "'¿Hay algo en mí que cambió — en cómo veo al Señor, cómo trato a otros, cómo enfrento las dificultades — que no estaba antes de comenzar el año?'",
+      "'¿Asistí al Seminario con más regularidad que el año anterior?'",
+    ],
+    correctAnswer: 2,
+  },
 ];
 
-// Lección: Repaso de Dominio de la doctrina final
-export const repaso_final_1Questions: Question[] = [
+// Comprender el contexto de las Escrituras
+export const contexto_escriturasQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Cuál es el propósito del repaso final de Dominio de la Doctrina?",
+    question:
+      "La lección describe tres tipos de contexto esenciales para interpretar correctamente un versículo. ¿Cuáles son?",
     options: [
-      "Asegurar que el estudiante olvide los textos antiguos",
-      "Consolidar el conocimiento doctrinal, la localización de pasajes y su aplicación práctica en la vida",
-      "Competir agresivamente por ver quién es el mejor de la estaca",
-      "Reemplazar la lectura diaria de Ven, Sígueme"
+      "Histórico (cuándo y por qué), literario (qué dicen los versículos alrededor) y doctrinal (cómo se conecta con el resto de la doctrina).",
+      "Geográfico, político y cultural.",
+      "Textual, lingüístico y hermenéutico.",
+      "Personal, comunitario y eclesial.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Cuando dominamos un pasaje de las Escrituras, ¿qué somos capaces de hacer según el manual?",
+    question:
+      "2 Pedro 1:20 dice que 'ninguna profecía de la Escritura es de interpretación privada'. ¿Qué implica eso sobre cómo se deben interpretar las Escrituras?",
     options: [
-      "Explicar el principio con claridad, testificar de él y usarlo para guiar nuestras decisiones",
-      "Usarlo para criticar los errores doctrinales ajenos",
-      "Sentirnos superiores intelectualmente a los demás",
-      "No requiere ninguna acción práctica"
+      "Que cada persona puede interpretar las Escrituras como mejor le parezca sin referencia externa.",
+      "Que las Escrituras no pueden interpretarse individualmente de manera aislada — forman un cuerpo coherente y la interpretación correcta considera ese cuerpo completo.",
+      "Que solo los profetas y apóstoles pueden interpretar correctamente las Escrituras.",
+      "Que las Escrituras deben leerse siempre en grupo para evitar errores de interpretación.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Qué rol juega la constancia en el repaso para mantener fuerte nuestro testimonio?",
+    question:
+      "El élder Christofferson enseñó que las Escrituras nunca deben leerse en aislamiento. ¿Por qué un versículo sacado de su contexto puede usarse para apoyar ideas incorrectas?",
     options: [
-      "Mantiene la verdad fresca en la mente, permitiendo que el Espíritu Santo nos recuerde la guía divina cuando la necesitemos",
-      "Ninguno, el testimonio no se asocia al estudio constante",
-      "Provoca dudas intelectuales innecesarias",
-      "Es solo para quienes van a la misión de tiempo completo"
+      "Porque los versículos fuera de contexto automáticamente pierden su valor espiritual.",
+      "Porque el significado de un texto depende parcialmente de lo que lo rodea — sacado de su contexto, un versículo puede significar algo que el autor nunca quiso decir.",
+      "Porque la gente deshonesta siempre busca versículos fuera de contexto para manipular.",
+      "Porque los versículos fuera de contexto son más difíciles de memorizar.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "Si un compañero se siente frustrado porque no memoriza las referencias, ¿cómo le aconsejas?",
+    question:
+      "¿Cómo protege el conocimiento del contexto histórico de las revelaciones de D&C la fe de un joven que encuentra críticas históricas sobre esas revelaciones en internet?",
     options: [
-      "Dile que lo importante es el deseo sincero y el esfuerzo diario; el Espíritu edificará sobre su diligencia",
-      "Dile que si no memoriza no tiene suficiente fe",
-      "Aconséjale que abandone la clase para evitar la presión",
-      "Ignora su frustración por completo"
+      "Porque el contexto histórico elimina todas las dificultades que las críticas presentan.",
+      "Porque entender el contexto original de una revelación —quién la recibió, cuándo, por qué— permite evaluar con más precisión si una crítica distorsiona ese contexto o no.",
+      "Porque el conocimiento histórico reemplaza la necesidad de la fe.",
+      "Porque las críticas históricas nunca son válidas cuando vienen de fuera de la Iglesia.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Quién es el verdadero maestro que sella estos principios de Dominio en nuestro corazón?",
+    question:
+      "Valentina leyó un post que cita D&C 132 fuera de contexto para apoyar una práctica que la Iglesia no enseña hoy. Usando los tres tipos de contexto de la lección, ¿cuál debería aplicar primero?",
     options: [
-      "El manual impreso de seminario",
-      "El Espíritu Santo, que testifica del Padre y del Hijo y de la verdad eterna",
-      "La calificación obtenida en los exámenes",
-      "Nuestros compañeros de clase"
+      "El contexto doctrinal — comparar el versículo con lo que el profeta actual enseña.",
+      "El contexto histórico — entender cuándo fue revelada esa sección, a quién y en qué circunstancias específicas.",
+      "El contexto literario — leer los versículos anteriores y posteriores para ver el significado más amplio.",
+      "Cualquiera de los tres — todos son igualmente válidos como primer paso y producen resultados idénticos.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Nicolás quiere estudiar D&C 58:26–27 en profundidad. Según la lección, ¿cuál sería el proceso completo de contextualización?",
+    options: [
+      "Leer el versículo diez veces hasta tenerlo memorizado con precisión.",
+      "Buscar el versículo en Google para ver cuántas personas lo citan en blogs religiosos.",
+      "Investigar quién estaba en Misuri cuando fue revelado (histórico), leer los versículos 24–30 del capítulo (literario), y conectarlo con D&C 46 y principios de mayordomía (doctrinal).",
+      "Pedirle al maestro de Seminario que lo explique en la próxima clase.",
+    ],
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Las herramientas de estudio (lección anterior) y el contexto de las Escrituras (esta lección) juntos forman un sistema. ¿Cuál es el principio integrador?",
+    options: [
+      "Que las herramientas son para principiantes y el contexto es para estudiantes avanzados.",
+      "Que ambos sirven al mismo objetivo: convertir al discípulo en un estudiante independiente y preciso de las Escrituras — las herramientas dan acceso a la información y el contexto enseña cómo usarla correctamente.",
+      "Que las herramientas son digitales y el contexto es una habilidad analítica sin relación con las herramientas.",
+      "Que el contexto es más importante que las herramientas para la comprensión espiritual.",
+    ],
+    correctAnswer: 1,
+  },
 ];
 
-// Lección: Conclusión y testimonios (Especial)
-export const conclusion_semestreQuestions: Question[] = [
+// Cómo cuidar nuestro cuerpo
+export const cuidar_cuerpoQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Cuál es la actividad central de la lección de conclusión de seminario?",
+    question:
+      "D&C 88:15 define el alma humana. ¿Cuál es esa definición?",
     options: [
-      "Hacer un festejo civil sin contenido religioso",
-      "Compartir testimonios sinceros sobre lo aprendido en Doctrina y Convenios y el acercamiento al Salvador",
-      "Realizar un examen escrito de mil preguntas complejas",
-      "Criticar el desempeño del maestro durante el año"
+      "El espíritu y el cuerpo son el alma del hombre.",
+      "El alma es el espíritu eterno que habita temporalmente en el cuerpo mortal.",
+      "El alma es la identidad personal que persiste después de la muerte.",
+      "El alma es la suma de las experiencias vividas en la mortalidad.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Al expresar tu testimonio ante tus compañeros de clase, ¿en quién debe centrarse principalmente?",
+    question:
+      "1 Corintios 6:19–20 presenta el cuerpo como templo del Espíritu Santo. ¿Cuál es la consecuencia que el apóstol Pablo saca de esa verdad?",
     options: [
-      "En tus propios logros intelectuales y talentos",
-      "En Jesucristo, Su expiación, las llaves restauradas y el amor de Dios",
-      "En anécdotas puramente divertidas sin doctrina",
-      "En las fallas del mundo exterior"
+      "Glorificar a Dios en el cuerpo — cuidarlo es una expresión de adoración a quien lo creó.",
+      "Evitar toda actividad física que cause dolor o cansancio al templo.",
+      "Ayunar regularmente para mantener el cuerpo libre de impurezas.",
+      "Vestir de manera específica para honrar la dignidad del templo físico.",
     ],
-    correctAnswer: 1
+    correctAnswer: 0,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Por qué compartir el testimonio fortalece tanto a quien lo da como a quien lo escucha?",
+    question:
+      "El élder Bednar enseñó que 'el cuerpo no es simplemente un vehículo temporal del espíritu — es parte integrante de la identidad eterna'. ¿Qué implica eso sobre la Resurrección y el cuerpo?",
     options: [
-      "Porque el Espíritu Santo testifica de la veracidad de las palabras inspiradas en ambas partes",
-      "Es solo un ejercicio de oratoria que quita el temor al público",
-      "Obliga a las personas a creer por compromiso social",
-      "No tiene ningún impacto real en la fe"
+      "Que la Resurrección es solo espiritual y el cuerpo físico no resucita.",
+      "Que el cuerpo resucitado será completamente diferente al cuerpo mortal sin continuidad.",
+      "Que el cuerpo es parte permanente de quien somos — la Resurrección lo confirma al restaurar y glorificar el cuerpo, no al liberarnos de él.",
+      "Que el cuerpo solo importa durante la mortalidad y después se vuelve irrelevante.",
     ],
-    correctAnswer: 0
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "Al terminar este primer semestre, ¿cuál debe ser tu meta espiritual inmediata?",
+    question:
+      "¿Por qué cuidar el cuerpo — dormir bien, ejercitarse, evitar sustancias dañinas — es una responsabilidad espiritual además de una cuestión de salud personal?",
     options: [
-      "Dejar de leer las escrituras hasta que inicie el siguiente periodo",
-      "Mantener el hábito diario de estudio y seguir aplicando los convenios en tu vida cotidiana",
-      "Olvidar los pasajes memorizados para liberar espacio mental",
-      "Depender solo de lo que recuerdes sin volver a abrir el libro"
+      "Porque el Señor quiere que los santos sean físicamente atractivos.",
+      "Porque el Espíritu Santo necesita un templo limpio y capaz para manifestarse con plenitud — el descuido del cuerpo puede disminuir la capacidad de recibir inspiración espiritual.",
+      "Porque la salud física garantiza automáticamente la salud espiritual.",
+      "Porque el descuido del cuerpo es señal de falta de disciplina que afecta solo el comportamiento externo.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Qué promesa eterna acompaña a un discípulo que persevera fiel hasta el fin de sus días?",
+    question:
+      "Renata duerme pocas horas por pasar tiempo en el celular y llega al Seminario sin concentración. Según D&C 88:15 y el principio de la lección, ¿qué está afectando realmente con ese hábito?",
     options: [
-      "Una vida terrenal libre de toda lágrima y dolor",
-      "La herencia de la vida eterna en el Reino Celestial en la presencia del Padre y del Hijo",
-      "Fama imperecedera en los registros del mundo secular",
-      "Poder absoluto para controlar el albedrío de su posteridad"
+      "Solo su rendimiento académico en la escuela.",
+      "Solo su salud física sin consecuencias espirituales.",
+      "La integridad de su alma completa — el cuerpo y el espíritu son el alma, y descuidar el cuerpo afecta la capacidad del espíritu de funcionar con claridad y recibir guía del Señor.",
+      "Solo su sociabilidad porque llega cansada y menos dispuesta a relacionarse.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Mateo dice que 'el cuerpo es solo temporal así que no importa tanto lo que le haga'. 1 Corintios 6:19–20 y D&C 88:15 le responden directamente. ¿Cuál es esa respuesta?",
+    options: [
+      "Que tiene razón — el cuerpo es temporal y el espíritu es lo eterno que importa.",
+      "Que el cuerpo es parte del alma, es templo del Espíritu Santo, y fue comprado por precio — tratarlo con descuido es contradecir esas tres verdades simultáneamente.",
+      "Que el cuerpo solo importa después de la resurrección, no durante la mortalidad.",
+      "Que el Señor entiende que los jóvenes no pueden cuidar perfectamente su cuerpo.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 88:15 (el cuerpo y el espíritu son el alma) y 1 Corintios 6:19–20 (el cuerpo es templo) forman una visión integral. ¿Qué cambio práctico debería producir esa visión en la vida de un joven?",
+    options: [
+      "Que debería obsesionarse con la imagen corporal y el ejercicio como señal de piedad.",
+      "Que el cuidado del cuerpo pasa de ser una preocupación estética o de rendimiento a ser un acto de mayordomía espiritual — no cuidarlo bien ni cuidarlo en exceso, sino tratarlo como el templo que es.",
+      "Que debería seguir todas las tendencias de salud populares como expresión de fe.",
+      "Que la Palabra de Sabiduría es la única guía necesaria y no hay más principios de cuidado del cuerpo en el evangelio.",
+    ],
+    correctAnswer: 1,
+  },
+];
+
+// ============================================================================
+// SEMANA 19 — 7 al 13 de Julio
+// Lecciones: D&C 76:1-19, D&C 76:19-24, D&C 76:50-70,
+//            D&C 76:71-112, Fortaleza emocional
+// ============================================================================
+
+// D&C 76:1–19
+export const dc76_1_19Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "D&C 76:5–7 describe cómo el Señor se relaciona con quienes le sirven en rectitud. ¿Qué tres características del Señor menciona esos versículos?",
+    options: [
+      "Misericordioso, compasivo y generoso en recompensas para los fieles.",
+      "Omnipotente, omnisciente y omnipresente en Su relación con los justos.",
+      "Justo, severo y exigente con quienes le siguen fielmente.",
+      "Solo misericordioso — el versículo no menciona otras características.",
+    ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "¿Qué circunstancia específica desencadenó la recepción de la visión de D&C 76 — qué estaban haciendo José Smith y Sidney Rigdon cuando el cielo se abrió?",
+    options: [
+      "Estaban traduciendo el Evangelio de Juan y meditando sobre la resurrección.",
+      "Estaban orando y ayunando en preparación para la conferencia de la Iglesia.",
+      "Estaban predicando juntos en una reunión pública de la Iglesia en Kirtland.",
+      "Estaban visitando a un miembro enfermo cuando se les abrió la visión.",
+    ],
+    correctAnswer: 0,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "D&C 76:5 promete que la 'gloria seguirá después de mucha tribulación'. ¿Qué perspectiva sobre las dificultades actuales produce esa promesa en el discípulo?",
+    options: [
+      "Que las dificultades son señal de que el Señor está descontento con el discípulo.",
+      "Que las dificultades actuales no definen el resultado final — son parte del proceso, no el fin del proceso. La gloria que sigue tiene un peso que hace ligeras las tribulaciones presentes.",
+      "Que la tribulación solo viene cuando uno no cumple los mandamientos correctamente.",
+      "Que el discípulo debe esperar sin hacer nada hasta que la gloria llegue automáticamente.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "La visión de D&C 76 fue descrita por el Señor como 'el grande y más glorioso' de los temas revelados en esta dispensación. ¿Por qué esa designación importa doctrinalmente?",
+    options: [
+      "Porque D&C 76 es la sección más larga de toda la Doctrina y Convenios.",
+      "Porque establece una jerarquía entre las revelaciones que ayuda a priorizar cuáles estudiar primero.",
+      "Porque el Señor mismo señaló que el Plan de Salvación y el destino eterno del ser humano son el tema central de toda la Restauración — no una doctrina periférica.",
+      "Porque fue la primera visión que José Smith recibió después de la Primera Visión.",
+    ],
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Sofía está pasando por una semana muy difícil y siente que el Señor la abandonó. D&C 76:5–7 le habla directamente. ¿Qué le diría?",
+    options: [
+      "Que el Señor solo es misericordioso con quienes cumplen perfectamente los mandamientos.",
+      "Que el Señor es misericordioso y compasivo con quienes le temen — la dificultad de esta semana no cambia eso. Después de la tribulación viene la gloria que el Señor ya preparó para ella.",
+      "Que debería orar más intensamente para que el Señor se manifieste y le muestre Su presencia.",
+      "Que la ausencia de milagros visibles es señal de que necesita aumentar su fe.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Agustín escucha que D&C 76 es una de las revelaciones más importantes y decide estudiarla. ¿Cómo podría aprovechar mejor esa sesión de estudio?",
+    options: [
+      "Leer la sección completa de principio a fin sin detenerse para mantener el flujo.",
+      "Leer solo los versículos del Dominio de la Doctrina que aparecen en D&C 76.",
+      "Leer con el contexto en mente — quiénes eran José y Sidney, qué estaban haciendo, y qué pregunta doctrinal estaban meditando — para que las respuestas del Señor cobren el peso que tienen.",
+      "Comparar D&C 76 con la teoría científica del multiverso para encontrar puntos de conexión.",
+    ],
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 76:5 ('después de mucha tribulación vienen las bendiciones') y D&C 64:33 ('no os canséis de hacer el bien') comparten una perspectiva temporal sobre el bien y el sufrimiento. ¿Cuál es el principio que los une?",
+    options: [
+      "Que el cansancio y la tribulación son señales de que el discípulo está en el camino incorrecto.",
+      "Que el discípulo fiel vive en la tensión entre el esfuerzo presente y la gloria futura — y esa tensión no paraliza sino que da propósito al cansancio y sentido al sufrimiento.",
+      "Que la tribulación es solo para los santos que tienen una misión especial, no para todos.",
+      "Que el cansancio en el bien es inevitable y el Señor lo disculpa sin consecuencias.",
+    ],
+    correctAnswer: 1,
+  },
+];
+
+// D&C 76:19–24
+export const dc76_19_24Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "D&C 76:22–23 es el testimonio central de la visión. ¿Cuál es la declaración exacta de José y Sidney sobre lo que vieron?",
+    options: [
+      "'Que vive. Porque le vimos, aun a la diestra de Dios; y oímos la voz que daba testimonio de que Él es el Unigénito del Padre.'",
+      "'Que Cristo resucitó y que Su Padre celestial lo recibió en gloria eterna.'",
+      "'Que el Padre y el Hijo son uno en propósito aunque distintos en persona.'",
+      "'Que el Salvador intercede continuamente por Sus discípulos ante el trono de Dios.'",
+    ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "D&C 76:19–20 describe el momento en que el cielo se abrió. ¿Qué 'tocó' el Señor para que pudieran ver la visión?",
+    options: [
+      "Los ojos del entendimiento de José y Sidney — no fue una experiencia física sino espiritual.",
+      "Los ojos físicos de José y Sidney con una luz especial.",
+      "Los corazones de José y Sidney para prepararlos emocionalmente.",
+      "La mente de José Smith solamente, quien luego describió la visión a Sidney.",
+    ],
+    correctAnswer: 0,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "D&C 76:22–23 establece que el Padre y el Hijo son seres separados — José vio al Hijo 'a la diestra de Dios'. ¿Qué doctrina sobre la naturaleza de Dios confirma directamente ese testimonio?",
+    options: [
+      "Que el Padre y el Hijo son la misma persona en diferentes manifestaciones.",
+      "Que el Padre y el Hijo son seres distintos y separados — la Trinidad como tres personas en una es doctrinalmente incorrecta según esta visión.",
+      "Que el Hijo es menor que el Padre porque está ubicado 'a su diestra' y no en el centro.",
+      "Que el Espíritu Santo también fue visto en la visión aunque el texto no lo mencione.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "El presidente Hinckley enseñó que el testimonio de que 'Jesús de Nazaret es el Cristo, el Hijo del Dios Viviente' es el más importante que cualquier ser humano puede dar o recibir. ¿Por qué D&C 76:22–23 es la expresión más directa de ese testimonio en la Restauración?",
+    options: [
+      "Porque fue dado por dos testigos que lo vieron con sus propios ojos — no es una creencia sino un testimonio de testigos presenciales.",
+      "Porque es la sección más citada de D&C y por eso tiene más autoridad.",
+      "Porque fue dado por el profeta José Smith, cuya autoridad supera la de cualquier otro testigo.",
+      "Porque es el único testimonio en toda la Escritura que incluye tanto el Padre como el Hijo.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Camila tiene un amigo que dice que Dios y Jesús son la misma persona. Según D&C 76:19–20, ¿cuál es la evidencia más directa disponible en la Restauración para responder esa creencia?",
+    options: [
+      "Los escritos teológicos de los primeros padres de la Iglesia cristiana.",
+      "Los argumentos filosóficos sobre la naturaleza de Dios desarrollados por teólogos modernos.",
+      "La visión de D&C 76 donde José y Sidney vieron al Hijo 'a la diestra de Dios' — dos seres distintos en dos posiciones distintas, vistas al mismo tiempo.",
+      "La traducción de José Smith de la Biblia que clarifica los versículos sobre la Trinidad.",
+    ],
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Tomás tiene dudas sobre si el Salvador es real o solo una figura histórica y cultural. D&C 76:22 le ofrece un tipo diferente de evidencia. ¿Cuál es?",
+    options: [
+      "Evidencia arqueológica que confirma los hechos históricos del Nuevo Testamento.",
+      "El testimonio personal de dos hombres que lo vieron — no como creencia sino como experiencia directa. Si Tomás busca con fe, el mismo Espíritu que confirmó la visión puede confirmarle a él.",
+      "Evidencia estadística sobre el número de personas que han testificado de Cristo.",
+      "Los argumentos filosóficos del diseño inteligente que apuntan a un Creador.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 76:22–23 (testimonio de que 'vive') y 'El Cristo Viviente' (estudiado en la semana 7) comparten la misma declaración central separados por casi dos siglos. ¿Qué dice ese eco a través del tiempo sobre la naturaleza del testimonio del Salvador?",
+    options: [
+      "Que el testimonio de Cristo pierde fuerza con el tiempo y debe actualizarse cada generación.",
+      "Que el testimonio verdadero del Salvador trasciende el tiempo — distintas personas en distintas épocas llegan a la misma certeza a través del mismo Espíritu, y esa convergencia es en sí misma una evidencia.",
+      "Que los testimonios del siglo XIX son más válidos que los modernos porque están más cerca de Cristo.",
+      "Que 'El Cristo Viviente' es solo una repetición formal de D&C 76 sin valor doctrinal adicional.",
+    ],
+    correctAnswer: 1,
+  },
+];
+
+// D&C 76:50–70
+export const dc76_50_70Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "D&C 76:51–53 lista los requisitos para heredar el Reino Celestial. ¿Cuáles son los elementos específicos mencionados en esos versículos?",
+    options: [
+      "Recibir el testimonio de Jesús, creer en Su nombre, bautizarse, recibir el Espíritu Santo y ser sellados por el Espíritu Santo de promesa.",
+      "Servir una misión de tiempo completo, pagar el diezmo fielmente y asistir al templo regularmente.",
+      "Nacer en el convenio, guardar los mandamientos y tener un hogar activo en la Iglesia.",
+      "Tener una familia eterna, servir en llamamientos de la Iglesia y leer las Escrituras diariamente.",
+    ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "D&C 76:69 describe a los herederos del Reino Celestial como 'hombres justos hechos perfectos mediante Jesús'. ¿Qué implica la palabra 'mediante' sobre cómo se alcanza la perfección?",
+    options: [
+      "Que la perfección se logra por el esfuerzo humano puro sin necesidad de ayuda externa.",
+      "Que la perfección viene exclusivamente de un milagro divino sin esfuerzo del discípulo.",
+      "Que la perfección es el resultado de la colaboración — el mejor esfuerzo del discípulo más el poder expiatorio de Cristo que completa lo que el esfuerzo humano no puede.",
+      "Que 'perfección' es solo un término metafórico sin contenido doctrinal específico.",
+    ],
+    correctAnswer: 2,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "El presidente Oaks enseñó que el plan de salvación 'no diseñó un destino mediocre para Sus hijos'. ¿Qué implica eso sobre la motivación para guardar los convenios del evangelio?",
+    options: [
+      "Que guardar los convenios es una obligación de gratitud sin beneficio personal real.",
+      "Que el camino de los convenios conduce al máximo de lo que el Padre puede ofrecer — no a sobrevivir sino a heredar todo. Eso convierte la obediencia de carga en inversión.",
+      "Que todos heredarán el reino celestial eventualmente con suficiente tiempo.",
+      "Que la motivación principal debe ser el miedo a los reinos inferiores, no el amor al Padre.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "D&C 76:51 menciona ser 'valiente en el testimonio de Jesús' como característica de los herederos del reino celestial. ¿Por qué la valentía —y no solo la creencia— es un requisito?",
+    options: [
+      "Porque el Señor evalúa principalmente el coraje físico de Sus discípulos.",
+      "Porque la valentía en el testimonio distingue una fe activa y comprometida de una pasiva que evita el costo social del discipulado.",
+      "Porque la valentía es una virtud superior a la fe y la esperanza en el evangelio.",
+      "Porque el mundo moderno no persigue a los creyentes y por eso la valentía ya no es necesaria.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Valentina cumple todos los requisitos externos de la Iglesia pero nunca habla de su fe con nadie fuera del contexto de la Iglesia. Según D&C 76:51, ¿qué elemento del camino celestial podría estar descuidando?",
+    options: [
+      "El ayuno regular como señal de devoción espiritual genuina.",
+      "La valentía en el testimonio — ser testigo de Jesús requiere ser activo en la proclamación, no solo privado en la práctica.",
+      "La asistencia al templo que confirma el compromiso con los convenios.",
+      "El servicio en llamamientos formales que demuestra dedicación a la Iglesia.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Joaquín siente que los requisitos del Reino Celestial son tan altos que 'nunca podrá alcanzarlos'. D&C 76:69 ('hechos perfectos mediante Jesús') le responde directamente. ¿Cómo?",
+    options: [
+      "Que tiene razón y debería conformarse con un reino menor que sea más alcanzable.",
+      "Que la perfección es un requisito que el Señor impone como prueba sin intención de que se cumpla.",
+      "Que la perfección no depende solo de su esfuerzo — Cristo completa lo que el esfuerzo humano no puede. Su trabajo es dar su mejor esfuerzo; el Salvador hace el resto.",
+      "Que los requisitos del reino celestial se reducen para las personas con circunstancias difíciles.",
+    ],
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 76:51–53 (requisitos del reino celestial) y D&C 76:69 (hechos perfectos mediante Jesús) juntos presentan la visión completa del camino celestial. ¿Cuál es ese mensaje completo?",
+    options: [
+      "Que el reino celestial es para los perfectos, no para los que están en proceso.",
+      "Que hay requisitos reales que el discípulo debe cumplir activamente, y hay un Salvador que hace posible lo que esos requisitos exigen — el camino celestial combina responsabilidad humana y gracia divina.",
+      "Que la gracia de Cristo reemplaza todos los requisitos para los que tienen suficiente fe.",
+      "Que los convenios son solo señales externas sin peso doctrinal en el acceso al reino celestial.",
+    ],
+    correctAnswer: 1,
+  },
+];
+
+// D&C 76:71–112
+export const dc76_71_112Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "D&C 76:71–72 describe a quienes heredan el Reino Terrestre. ¿Cuál es la característica que los distingue de los herederos del Celestial?",
+    options: [
+      "Gente honorable de la tierra que no recibió el evangelio completo o no fue valiente en el testimonio de Jesús.",
+      "Personas que cometieron pecados graves y no se arrepintieron completamente.",
+      "Miembros inactivos de la Iglesia que dejaron de asistir a las reuniones.",
+      "Personas que vivieron en épocas sin el evangelio disponible y por eso no pudieron recibirlo.",
+    ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "D&C 76:89 describe el Reino Telestial con una afirmación sorprendente. ¿Cuál es?",
+    options: [
+      "Que su gloria sobrepasa todo entendimiento — incluso el reino más bajo tiene una gloria inconcebible.",
+      "Que es el único reino donde no hay presencia del Espíritu Santo.",
+      "Que sus habitantes sufrirán durante el milenio antes de recibir su gloria.",
+      "Que nadie que haya conocido el evangelio puede heredar ese reino.",
+    ],
+    correctAnswer: 0,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "D&C 76:96–98 usa la metáfora del sol, la luna y las estrellas para describir las tres glorias. ¿Qué principio sobre la justicia divina ilustra esa metáfora?",
+    options: [
+      "Que el Señor trata igual a todos independientemente de sus elecciones.",
+      "Que la justicia divina no produce un resultado único para todos sino una respuesta perfectamente calibrada a lo que cada persona eligió ser — cada gloria tiene su propia magnificencia.",
+      "Que las tres glorias son etapas progresivas que todos atravesarán eventualmente.",
+      "Que la metáfora es solo poética y no describe diferencias doctrinales reales.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "El élder Holland enseñó que las tres glorias revelan tanto la 'justicia perfecta' como el 'amor infinito' del Padre. ¿Cómo equilibra D&C 76 esas dos dimensiones que parecen tensas?",
+    options: [
+      "Priorizando el amor sobre la justicia — todos eventualmente heredan el reino celestial.",
+      "Priorizando la justicia sobre el amor — las elecciones tienen consecuencias irreversibles.",
+      "Mostrando que el Padre diseñó el máximo de gloria posible para cada persona según sus elecciones — hay justicia en la diferencia y misericordia en que incluso el menor supera toda comprensión.",
+      "Eliminando la tensión al declarar que la justicia y el amor son lo mismo.",
+    ],
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Renata dice que 'si al final todos van a algún lugar bueno, da igual lo que haga ahora'. D&C 76:71–112 le responde con un principio. ¿Cuál es?",
+    options: [
+      "Que los reinos son todos tan distintos que la diferencia no importa para la vida mortal.",
+      "Que las glorias difieren radicalmente en naturaleza y en quién puede estar en cada una — las elecciones de hoy determinan en qué tipo de persona uno se convierte y con quién puede morar eternamente.",
+      "Que tiene razón — el Padre es tan misericordioso que compensará cualquier falta.",
+      "Que la preocupación por el destino eterno es propia de adultos, no de jóvenes.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Agustín siente que la doctrina de los tres reinos es confusa y prefiere no pensar en ella. ¿Cómo podría entender esa doctrina de manera que le dé motivación práctica esta semana?",
+    options: [
+      "Leyendo toda la sección 76 de principio a fin para tener el cuadro completo.",
+      "Preguntándole al obispo qué reino cree que Agustín heredará según cómo lo conoce.",
+      "Viendo la doctrina no como un sistema de premios y castigos sino como una descripción de en qué tipo de persona se está convirtiendo — cada decisión de hoy lo acerca o aleja del tipo de gloria que el Padre diseñó para él.",
+      "Esperando a ser adulto para pensar en decisiones con peso eterno.",
+    ],
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 76:50–70 (reino celestial) y D&C 76:71–112 (reinos terrestre y telestial) juntos completan la visión de las glorias. ¿Cuál es el mensaje central que esa visión completa transmite sobre el carácter del Padre?",
+    options: [
+      "Que el Padre es principalmente un juez severo que separa a los buenos de los malos.",
+      "Que el Padre diseñó el máximo bien posible para cada uno de Sus hijos según lo que eligieron ser — no hay un infierno eterno para casi todos, sino reinos de gloria calibrados con perfecta misericordia y justicia.",
+      "Que todas las personas recibirán eventualmente el reino celestial con suficiente tiempo.",
+      "Que el Padre solo se preocupa por quienes activamente buscaron el evangelio en esta vida.",
+    ],
+    correctAnswer: 1,
+  },
+];
+
+// Desarrollar fortaleza emocional en el Señor
+export const fortaleza_emocionalQuestions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "D&C 121:7–8 fue escrito por José Smith desde la Cárcel de Liberty. ¿Cuál es la promesa específica que el Señor le da en esos versículos?",
+    options: [
+      "Paz sea a tu alma — tu adversidad y aflicciones no serán sino un pequeño momento, y si soportas bien, Dios te exaltará en lo alto.",
+      "Que sería liberado de la cárcel en pocas semanas.",
+      "Que sus perseguidores recibirían castigo inmediato del Señor.",
+      "Que la Iglesia prosperaría incluso sin su presencia.",
+    ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "Filipenses 4:7 describe un tipo específico de paz. ¿Cuál es la característica que Pablo le atribuye?",
+    options: [
+      "Que sobrepasa todo entendimiento y guarda los corazones y pensamientos en Cristo Jesús.",
+      "Que llega después de resolver todos los problemas y circunstancias difíciles.",
+      "Que solo está disponible para quienes tienen una fe perfecta sin dudas.",
+      "Que es una emoción producida por la meditación y la práctica espiritual disciplinada.",
+    ],
+    correctAnswer: 0,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "El élder Holland enseñó que el Salvador sufrió 'no solo nuestros pecados sino también nuestros dolores, enfermedades y tristezas'. ¿Qué implica eso sobre la capacidad del Salvador de ayudar en la salud emocional?",
+    options: [
+      "Que el Salvador solo comprende el sufrimiento espiritual causado por el pecado.",
+      "Que el Salvador conoce desde dentro cada tipo de sufrimiento emocional — no ofrece comprensión teórica sino comprensión experiencial completa de lo que el discípulo vive.",
+      "Que el sufrimiento emocional es menos importante que el sufrimiento espiritual para el Señor.",
+      "Que el Salvador interviene directamente para eliminar el sufrimiento emocional de quienes oran.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "¿Por qué los principios del evangelio — identidad como hijo de Dios, Expiación, oración, servicio, comunidad — son recursos de salud emocional y no solo espiritual?",
+    options: [
+      "Porque la salud espiritual y emocional son mundos separados que no se influyen.",
+      "Porque el evangelio trata a la persona como una unidad — D&C 88:15 dice que el espíritu y el cuerpo son el alma — y lo que fortalece el espíritu tiene efectos reales en el estado emocional.",
+      "Porque el evangelio es superior a la psicología y la reemplaza completamente.",
+      "Porque los principios del evangelio solo tienen efecto emocional en personas con suficiente fe.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Camila lleva semanas sintiéndose ansiosa y vacía sin saber bien por qué. Según la lección, ¿cuál sería el primer principio del evangelio que podría anclar su identidad en ese estado?",
+    options: [
+      "Que debería ayunar más frecuentemente para recibir paz espiritual.",
+      "Que es hija de un Padre Celestial que la conoce por nombre y tiene un plan específico para ella — esa identidad no cambia con el estado emocional que está experimentando.",
+      "Que debería leer más versículos del Dominio de la Doctrina para fortalecer su mente.",
+      "Que necesita encontrar un llamamiento en la Iglesia que le dé propósito.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Nicolás está atravesando una semana muy difícil emocionalmente y no quiere orar porque 'no tiene fuerzas ni palabras'. D&C 121:7–8 le habla desde el ejemplo de José Smith. ¿Qué le diría?",
+    options: [
+      "Que orar sin fuerzas ni palabras no tiene valor espiritual real.",
+      "Que debería esperar a sentirse mejor antes de retomar los hábitos espirituales.",
+      "Que José Smith oró desde la Cárcel de Liberty en una de sus noches más oscuras — precisamente cuando no hay fuerzas es cuando el Señor dice 'paz sea a tu alma', y esa oración imperfecta puede recibir esa respuesta.",
+      "Que el Señor entiende que no siempre se puede orar y que el silencio también es válido.",
+    ],
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 121:7–8 (paz en la adversidad) y Filipenses 4:7 (paz que sobrepasa el entendimiento) juntos describen la paz del Señor. ¿En qué se diferencia esa paz de la simple ausencia de problemas?",
+    options: [
+      "No se diferencia — la paz del Señor elimina los problemas y por eso no hay diferencia.",
+      "La paz del Señor es una presencia en medio del problema, no la ausencia del problema — José tenía paz en la cárcel sin que la cárcel desapareciera, y Filipenses describe una paz que guarda el corazón incluso cuando las circunstancias no cambian.",
+      "La paz del Señor solo llega después de que los problemas se resuelven.",
+      "Solo los santos más avanzados pueden experimentar esa paz mientras los problemas continúan.",
+    ],
+    correctAnswer: 1,
+  },
+];
+
+// ============================================================================
+// SEMANA 20 — 14 al 20 de Julio
+// Lecciones: D&C 78, D&C 79-80
+// (Día 3: Día Flexible; Días 4-5: Vacaciones Argentina)
+// ============================================================================
+
+// D&C 78
+export const dc78Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "D&C 78:5–6 establece el principio de igualdad temporal con un propósito espiritual. ¿Cuál es ese propósito según el versículo?",
+    options: [
+      "Para que seamos iguales en el logro de las cosas celestiales — la igualdad temporal prepara para la igualdad celestial.",
+      "Para que la Iglesia pueda financiar sus operaciones sin depender de los gobiernos.",
+      "Para que los santos no sean tentados por las riquezas durante los últimos días.",
+      "Para que el obispo pueda administrar los recursos con mayor eficiencia.",
+    ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "D&C 78:14 declara un objetivo de independencia para el pueblo del Señor. ¿De qué quiere el Señor que no dependan Sus santos?",
+    options: [
+      "De los reinos del mundo ni de sus poderes.",
+      "De los líderes de la Iglesia para tomar decisiones espirituales.",
+      "De los servicios sociales y económicos de los gobiernos locales.",
+      "De los recursos naturales del mundo que tienen dueños privados.",
+    ],
+    correctAnswer: 0,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "D&C 78:17–18 contiene una de las expresiones más tiernas del Señor en toda la sección: 'Sois niños pequeños y todavía no habéis comprendido cuán grandes bendiciones el Padre tiene'. ¿Qué actitud del Señor revela ese lenguaje?",
+    options: [
+      "Frustración con la lentitud espiritual de los santos.",
+      "Un amor paciente que ve el potencial eterno de Sus hijos incluso cuando ellos no lo ven — no los reprueba por no entender sino que les da perspectiva.",
+      "Condescendencia hacia los santos que no tienen suficiente educación doctrinal.",
+      "Una advertencia de que deben madurar rápidamente o perder las bendiciones prometidas.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "D&C 78:19 promete que 'el que reciba todas las cosas con gratitud será glorificado'. ¿Por qué la gratitud es una condición de gloria y no solo una virtud agradable?",
+    options: [
+      "Porque la gratitud es la emoción que el Señor más disfruta en Sus hijos.",
+      "Porque la gratitud reconoce que todo bien viene de Dios — quien vive en gratitud vive en una relación correcta con el Dador, y esa relación es el fundamento de la gloria.",
+      "Porque la gratitud genera más bendiciones materiales que producen más glorificación.",
+      "Porque la ingratitud es el único pecado que el Señor no puede perdonar.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Sofía participa en el programa de bienestar de su barrio pero lo ve como una actividad social, no espiritual. D&C 78:5–6 le ofrece una perspectiva diferente. ¿Cuál es?",
+    options: [
+      "Que el bienestar es principalmente una señal de que la Iglesia es generosa con sus miembros.",
+      "Que cuidar la igualdad temporal de quienes nos rodean es parte de preparar a las personas para las cosas celestiales — tiene peso eterno, no solo social.",
+      "Que debería hacerlo solo cuando el obispo se lo pide formalmente.",
+      "Que el bienestar es un programa administrativo sin conexión con el desarrollo espiritual personal.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Mateo se queja frecuentemente de lo que no tiene. D&C 78:19 le habla directamente. ¿Qué cambio en perspectiva produciría aplicar ese versículo?",
+    options: [
+      "Que debería fingir estar contento con todo aunque realmente no lo esté.",
+      "Que al practicar gratitud deliberada por lo que sí tiene, abriría su corazón a recibir más — y más importante, se colocaría en una relación de reconocimiento con el Dador que es el fundamento de la glorificación.",
+      "Que el Señor le enviará más bendiciones automáticamente cuando deje de quejarse.",
+      "Que la gratitud es solo para los momentos en que las cosas van bien, no en las dificultades.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 78:5–6 (igualdad temporal para cosas celestiales), D&C 78:14 (independencia del mundo) y D&C 78:19 (gratitud lleva a glorificación) juntos describen el carácter del pueblo celestial. ¿Cuál es ese retrato?",
+    options: [
+      "Un pueblo rico y autosuficiente que no necesita a nadie más.",
+      "Un pueblo que cuida a sus miembros con equidad, vive libre de dependencias mundanas y recibe todo con gratitud — las tres cualidades apuntan al mismo corazón: uno que reconoce a Dios como fuente de todo.",
+      "Un pueblo que acumula recursos suficientes para no necesitar el sistema de bienestar de la Iglesia.",
+      "Un pueblo perfectamente organizado administrativamente cuya eficiencia produce las bendiciones.",
+    ],
+    correctAnswer: 1,
+  },
+];
+
+// D&C 79–80
+export const dc79_80Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "D&C 79:1–2 llama a Jared Carter a predicar el evangelio por el Espíritu. ¿Cuál es el nombre específico que el Señor usa para ese Espíritu en esos versículos?",
+    options: [
+      "El Consolador — el Espíritu que fue enviado para enseñar la verdad.",
+      "El Espíritu de Revelación que guía a la verdad completa.",
+      "El Espíritu de Profecía que confirma las palabras del profeta.",
+      "El Espíritu de Discernimiento que protege al misionero del engaño.",
+    ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "D&C 80:3 contiene una promesa sobre el lugar del llamamiento misional. ¿Cuál es el principio que ese versículo establece?",
+    options: [
+      "'No importa a dónde vayan, no podéis ir descarriados' — la disposición del siervo es más importante que la geografía del llamamiento.",
+      "Que el Señor asignará el lugar más adecuado a las fortalezas de cada misionero.",
+      "Que el lugar del llamamiento no tiene importancia porque todos los lugares son iguales.",
+      "Que el misionero elige su destino y el Señor lo bendice donde elija ir.",
+    ],
+    correctAnswer: 0,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "D&C 80:4 instruye que los misioneros declaren 'las cosas que han oído, y que de cierto creen, y saben que son verdaderas'. ¿Qué tipo de testimonio describe ese versículo — y qué lo hace más poderoso que el argumento intelectual?",
+    options: [
+      "Un testimonio basado en la experiencia personal del poder transformador del evangelio — lo que uno vivió no puede ser refutado porque no es un argumento sino un hecho personal.",
+      "Un testimonio basado en el conocimiento académico de la historia de la Iglesia.",
+      "Un testimonio que solo tiene validez después de haber estudiado todos los argumentos en contra.",
+      "Un testimonio que requiere haber visto milagros personales para poder ser compartido.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "El presidente Nelson enseñó que 'cada miembro es un misionero'. ¿Cómo conecta el principio de D&C 80:3 ('no podéis ir descarriados') con la obra misional cotidiana de un joven que no es misionero de tiempo completo?",
+    options: [
+      "Que el principio solo aplica a misioneros con llamamiento formal y no a miembros comunes.",
+      "Que donde sea que el joven esté — su escuela, su barrio, su familia — ese es su campo misional actual, y la misma promesa de que 'no puede ir descarriado' aplica cuando predica con disposición fiel.",
+      "Que los jóvenes deben esperar a ser misioneros de tiempo completo para aplicar D&C 80.",
+      "Que la misión cotidiana es menos importante y no recibe la promesa del Señor en D&C 80.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Camila quiere compartir el evangelio pero siente que 'no sabe suficiente para responder preguntas difíciles'. D&C 80:4 le responde directamente. ¿Qué le diría?",
+    options: [
+      "Que primero debe estudiar todos los argumentos apologéticos antes de hablar con alguien.",
+      "Que empiece con lo que sí sabe y ha vivido — eso es exactamente lo que el Señor le pide: declarar lo que oyó, creyó y sabe que es verdadero. Su testimonio personal es suficiente.",
+      "Que espere a ser misionera de tiempo completo para tener la autorización de hablar del evangelio.",
+      "Que la falta de conocimiento es una señal de que todavía no está lista para testificar.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Este es el cierre del primer semestre de Seminario. ¿Qué actitud misional describe D&C 79:1–2 y D&C 80:3–4 que sería la mejor manera de terminar el año?",
+    options: [
+      "La actitud de quien ya cumplió con lo que el Seminario le pedía y puede descansar.",
+      "La actitud de quien predica por el Espíritu con disposición genuina, declarando lo que sabe que es verdadero, y confía en que dondequiera que esté, ese es su campo y no puede ir descarriado.",
+      "La actitud de quien espera el llamamiento de misión para comenzar a proclamar el evangelio.",
+      "La actitud de quien evalúa cuánto aprendió en el año para determinar si está listo para testificar.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 79–80 cierra el primer semestre con un llamado a proclamar el evangelio. ¿Cómo conectan esas dos secciones con el principio de D&C 58:27 estudiado en la semana 14 ('ser ansiosamente dedicado a toda buena causa')?",
+    options: [
+      "No se conectan — D&C 58 habla de iniciativa en el servicio y D&C 79–80 hablan específicamente de misiones formales.",
+      "Ambos describen el mismo tipo de discípulo maduro: uno que no espera ser mandado sino que actúa por amor, proclama lo que sabe porque quiere compartirlo, y confía en que el Señor acompañará esa disposición dondequiera que esté.",
+      "D&C 79–80 corrige el principio de D&C 58 porque requiere autorización formal antes de actuar.",
+      "Solo los que tienen llamamiento de misión pueden cumplir los principios de D&C 79–80 y D&C 58.",
+    ],
+    correctAnswer: 1,
+  },
 ];

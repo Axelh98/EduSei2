@@ -2,1305 +2,2114 @@ import type { Question } from "@/lib/types";
 
 // ============================================================================
 // SEMANA 6 — 7 al 13 de Abril
-// Bloque: Doctrina y Convenios 30–36
 // ============================================================================
 
-// Lección 47: Doctrina y Convenios 30–36, Parte 1
-// Tema: Llamados a predicar el Evangelio
+// Lección 47 — D&C 30–36, Parte 1
+// Llamados a predicar el Evangelio
 export const dc30_36_parte1Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "En septiembre de 1830 el Señor llamó a varios miembros a predicar el evangelio. Ninguno era experto ni famoso. ¿Qué dice eso sobre los criterios del Señor para llamar a Sus obreros?",
+    question:
+      "En D&C 30, el Señor reprendió a David Whitmer por dos razones específicas. ¿Cuáles fueron?",
     options: [
-      "Que el Señor prefiere a personas con educación formal y experiencia religiosa previa",
-      "Que el Señor no llama a los capacitados; capacita a los que llama",
-      "Que el Señor solo llama a los que ya demostraron ser perfectos",
-      "Que el Señor llama al azar sin considerar las características de cada persona"
-    ],
-    correctAnswer: 1
+        "Temer la opinión de los hombres y tener la mente puesta en las cosas de la tierra.",
+        "No pagar el diezmo y faltar a las reuniones de la Iglesia con frecuencia.",
+        "Disputar con el profeta y negarse a bautizarse nuevamente.",
+        "Abandonar su misión antes de tiempo y regresar a su familia sin autorización.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 30 incluye una reprensión al David Whitmer por haber 'temido a los hombres y fijado su mente en las cosas de la tierra'. ¿Qué dos problemas señala el Señor allí?",
+    question:
+      "D&C 32 llamó a Parley P. Pratt y a Oliver Cowdery para una misión histórica. ¿A quiénes debían llevar el evangelio?",
     options: [
-      "Pereza y falta de oración",
-      "Miedo a la opinión de otros y enfoque en lo temporal por encima de lo espiritual",
-      "Falta de conocimiento de las Escrituras y poca asistencia a la Iglesia",
-      "Orgullo y desobediencia al profeta"
+      "A los miembros inactivos de las congregaciones en Nueva York.",
+      "A los lamanitas, los pueblos nativos de América.",
+      "A los líderes religiosos de las ciudades de Ohio y Misuri.",
+      "A los emigrantes europeos que llegaban a las costas del este.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Alguna vez sentiste miedo de lo que otros pensarían si compartías el evangelio o expresabas tu fe? ¿Qué es lo que más te frena en ese momento?",
+    question:
+      "D&C 33:8 dice 'abrid vuestra boca y no la cerréis'. ¿Qué condición pone el Señor antes de prometer que la llenará de palabras?",
     options: [
-      "No saber las respuestas exactas a las preguntas que me pueden hacer",
-      "El miedo al rechazo o al ridículo delante de personas que me importan",
-      "No tener un llamamiento formal que me autorice a compartir el evangelio",
-      "La sensación de que no es el momento adecuado"
+      "Que el misionero estudie durante años para tener todas las respuestas listas.",
+      "Que espere tener un llamamiento formal de misión antes de hablar.",
+      "Que primero abra la boca — la promesa viene después del acto de fe, no antes.",
+      "Que cuente con la aprobación del obispo para cada conversación sobre el evangelio.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "D&C 31 le dice a Thomas B. Marsh: 'Mira hacia mí, y sé fiel'. ¿Qué tiene en común ese consejo con D&C 6:36?",
+    question:
+      "El Señor llamó a Orson Pratt a predicar cuando tenía apenas 19 años y llevaba pocas semanas bautizado. ¿Qué principio ilustra ese llamado sobre los criterios del Señor para Sus obreros?",
     options: [
-      "Ambos hablan de la importancia de asistir a las reuniones de la Iglesia",
-      "Ambos invitan a poner la mirada en Cristo como remedio para el miedo y la duda",
-      "Ambos describen la organización del sacerdocio en los últimos días",
-      "Ambos hablan específicamente de Thomas B. Marsh y Oliver Cowdery"
+      "Que la experiencia y los años de membresía son los factores más importantes para un llamado.",
+      "Que el Señor espera a que una persona sea casi perfecta antes de encargarle una responsabilidad.",
+      "Que el Señor no llama a los capacitados; capacita a quienes llama, sin importar la edad ni la experiencia.",
+      "Que los llamamientos tempranos son excepciones históricas que no se repiten en la Iglesia actual.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Quién en tu entorno cercano podría beneficiarse de escuchar el evangelio? ¿Qué pequeña acción concreta podrías dar esta semana para ser un obrero en la viña del Señor?",
+    question:
+      "Valentina quiere compartir el evangelio con su mejor amiga pero tiene miedo de que la juzgue o la deje de lado. Según la corrección que el Señor hizo a David Whitmer en D&C 30, ¿qué nombre tiene exactamente ese obstáculo?",
     options: [
-      "Esperar a ser misionero de tiempo completo para tener el llamamiento correcto",
-      "Identificar a una persona específica y hacer algo concreto — invitar, compartir, orar por ella",
-      "Hablar del evangelio solo cuando me lo pidan directamente",
-      "Pedir al obispo que me asigne la tarea antes de actuar"
+      "Falta de preparación doctrinal suficiente para responder preguntas difíciles.",
+      "Temer a los hombres más que al Señor y poner la mente en las cosas de la tierra.",
+      "No tener un llamamiento formal que la autorice a compartir el evangelio.",
+      "Humildad excesiva que le impide hablar sin sentir que se alaba a sí misma.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "D&C 32:3 promete a los misioneros que el Señor 'iría con ellos y estaría en medio de ellos'. ¿Cómo cambia esa promesa la disposición de alguien para compartir el evangelio?",
+    question:
+      "Mateo argumenta que no puede ser un obrero útil en la viña porque 'no sabe suficiente' del evangelio. D&C 35:13 le responde con un principio. ¿Cuál es?",
     options: [
-      "Garantiza que nadie rechazará el mensaje si el Señor acompaña al misionero",
-      "Transforma la obra misional de una tarea solitaria a una empresa en la que no estamos solos",
-      "Solo aplica a los misioneros de tiempo completo que tienen el llamamiento formal",
-      "Es una promesa del pasado que no se aplica a los miembros comunes de hoy"
+      "Que efectivamente debería estudiar más antes de intentar servir.",
+      "Que el Señor usa precisamente a los débiles para confundir a los poderosos — el poder viene de Él, no de Mateo.",
+      "Que debería pedir al obispo que le asigne un mentor más experimentado primero.",
+      "Que su falta de conocimiento lo excusa temporalmente de la responsabilidad de servir.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Tanto la reprensión a David Whitmer (D&C 30) como el llamado a Orson Pratt (D&C 34) giran alrededor de la misma tensión. ¿Cuál es el principio común que los une?",
+    options: [
+        "Que los llamamientos misioneros son más importantes que los llamamientos locales en la Iglesia.",
+        "Que el miedo y la falta de experiencia son los dos obstáculos principales para servir al Señor.",
+        "Que el Señor siempre reprende antes de llamar para asegurarse de que el corazón esté listo.",
+        "Que el miedo a las personas paraliza; la confianza en el Señor libera — y Él capacita a quien responde.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección 49: Doctrina y Convenios 35
-// Tema: El llamado de Sidney Rigdon
+// Lección 48 — D&C 30–36, Parte 2
+// Llamados a proclamar el Evangelio
+export const dc30_36_parte2Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "Según D&C 33:3, ¿en qué estado se encontraba el campo del Señor cuando llamó a Ezra Thayre y Northrop Sweet a predicar?",
+    options: [
+        "Listo para la siega — blanco para ser cosechado de inmediato.",
+        "Todavía no estaba listo y necesitaban esperar la señal del profeta.",
+        "Parcialmente preparado en el este, pero no en el oeste del país.",
+        "En estado de barbecho, esperando las lluvias del arrepentimiento primero.",
+      ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "En D&C 36, el Señor le dice a Edward Partridge que sus pecados le son perdonados antes de asignarle un llamado. ¿Qué orden tiene esa secuencia?",
+    options: [
+      "Primero el llamado, luego el perdón como recompensa por aceptarlo.",
+      "Primero el perdón, luego el llamado — la misericordia precede a la responsabilidad.",
+      "El perdón y el llamado se dan simultáneamente como un solo acto divino.",
+      "Primero años de servicio, y el perdón se confirma al final de la vida.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "D&C 31 le da a Thomas B. Marsh instrucciones detalladas sobre su familia, sus viajes y sus debilidades personales. ¿Qué revela eso sobre la naturaleza de la revelación personal del Señor?",
+    options: [
+      "Que el Señor solo da revelaciones generales aplicables a todos por igual.",
+      "Que el Señor conoce las circunstancias específicas de cada persona y adapta Su guía a ellas.",
+      "Que Thomas Marsh era el único en recibir revelaciones tan detalladas por su cargo especial.",
+      "Que las revelaciones personales solo tratan de asuntos espirituales, no de familia o viajes.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "D&C 36:1–2 describe a Jesucristo como el Señor que habló y 'el mundo fue hecho'. ¿Por qué comenzar una revelación de llamado misional con esa declaración de identidad?",
+    options: [
+      "Es una fórmula de saludo oficial sin implicaciones doctrinales específicas.",
+      "Porque todo llamado al servicio nace del amor de quien creó el mundo — entender quién llama cambia cómo respondemos.",
+      "Para recordarle a Edward que el mundo le pertenece al Señor y no a él.",
+      "Porque era necesario establecer la autoridad legal antes de dar cualquier instrucción.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Sofía recibió un llamado en la Iglesia que siente que no merece porque cometió errores hace unos meses. Según el patrón de D&C 36 con Edward Partridge, ¿qué le diría el Señor primero?",
+    options: [
+      "Que espere hasta sentirse más digna antes de aceptar un llamado de responsabilidad.",
+      "Que sus pecados pasados la descalifican temporalmente hasta completar el proceso de arrepentimiento.",
+      "Que sus pecados le son perdonados — la misericordia precede al llamado, no lo sigue.",
+      "Que el llamado es una prueba para ver si puede cumplirlo a pesar de su historial.",
+    ],
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Lucas dice que la viña del Señor es el campo misional y que él no tiene nada que hacer allí hasta ser misionero de tiempo completo. Según D&C 33:3, ¿qué le respondería el Señor?",
+    options: [
+      "Que tiene razón y debe prepararse durante los próximos años antes de actuar.",
+      "Que la viña está lista ahora mismo, y su familia, amigos y escuela son parte de ella hoy.",
+      "Que puede esperar hasta los 18 años sin perder oportunidades importantes.",
+      "Que el trabajo en la viña requiere siempre una asignación formal previa.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 31 habla del conocimiento personal que el Señor tiene de Thomas Marsh. D&C 36 declara el perdón de Edward Partridge antes de llamarlo. ¿Qué principio común sobre el Señor revelan estas dos revelaciones juntas?",
+    options: [
+        "Que el Señor trata diferente a los líderes de la Iglesia que a los miembros comunes.",
+        "Que el conocimiento personal del Señor y Su perdón son independientes y no tienen relación.",
+        "Que el Señor solo habla de manera personal cuando hay un llamado importante que asignar.",
+        "Que el Señor adapta Su guía y Su misericordia a la persona específica — conoce a cada uno y responde a lo que ese individuo necesita.",
+      ],
+    correctAnswer: 3,
+  },
+];
+
+// Lección 49 — D&C 35
+// El llamado de Sidney Rigdon
 export const dc35Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "Sidney Rigdon era un predicador elocuente cuando Parley P. Pratt le presentó el evangelio restaurado. ¿Qué dice el hecho de que el Señor usara sus dones específicos para Su obra?",
+    question:
+      "¿Cuál fue el rol específico que el Señor le asignó a Sidney Rigdon en D&C 35, además de predicar el evangelio?",
     options: [
-      "Que el Señor solo usa a personas con talentos especiales fuera de lo común",
-      "Que el Señor llama a personas con dones específicos para necesidades específicas de Su obra",
-      "Que Sidney fue llamado por su cargo previo, no por sus dones personales",
-      "Que los talentos naturales no tienen relevancia en el trabajo del Señor"
-    ],
-    correctAnswer: 1
+        "Ser escribano de José Smith para ayudar en la Traducción de José Smith de la Biblia.",
+        "Organizar las finanzas de la Iglesia en Ohio como primer administrador.",
+        "Presidir la Iglesia en Ohio mientras José Smith viajaba a Misuri.",
+        "Traducir el Libro de Mormón al idioma de los lamanitas.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 35:13 dice que el Señor llama a 'las cosas débiles del mundo para quebrantar a los poderosos'. ¿Qué significa eso para alguien que se siente insuficiente para servir?",
+    question:
+      "D&C 35:3 declara que el Señor 'fue crucificado por los pecados del mundo'. ¿Por qué esa declaración abre toda la revelación dirigida a Sidney?",
     options: [
-      "Que debería esperar a volverse más fuerte antes de ofrecerse a servir",
-      "Que el poder para la obra viene del Señor, no de las capacidades propias",
-      "Que el Señor prefiere a las personas débiles porque son más manejables",
-      "Que la debilidad es una excusa válida para no participar en la obra"
+      "Porque es la fórmula de saludo obligatoria en todas las revelaciones de D&C.",
+      "Para establecer la autoridad legal de Cristo antes de dar instrucciones formales.",
+      "Porque todo llamado al servicio nace del amor del que murió por nosotros — entender quién llama cambia cómo uno responde.",
+      "Porque Sidney dudaba de la divinidad de Cristo y necesitaba ser corregido primero.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Cuáles son dos o tres dones o habilidades que tenés que podrían usarse en la obra del Señor? ¿Alguna vez los usaste de esa manera?",
+    question:
+      "D&C 35:13 dice que el Señor usa 'las cosas débiles del mundo para quebrantar a los poderosos'. ¿Qué implica ese principio sobre de dónde viene el poder real en la obra del Señor?",
     options: [
-      "Solo los dones espirituales como la sanación o las lenguas cuentan para la obra del Señor",
-      "Habilidades como escuchar bien, crear, comunicar o enseñar también pueden ser instrumentos del Señor",
-      "Los dones solo se usan en la obra cuando uno tiene un llamamiento específico",
-      "No tengo dones relevantes para el trabajo del Señor"
+      "Que los más débiles son los únicos que pueden servir efectivamente al Señor.",
+      "Que el poder para la obra viene del Señor, no de las capacidades humanas — lo que uno tiene no es el factor decisivo.",
+      "Que el Señor prefiere a personas débiles porque son más fáciles de dirigir.",
+      "Que la debilidad personal es una condición necesaria para recibir un llamado importante.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "D&C 35:20 asignó a Sidney ser escribano de José Smith en la traducción de la Biblia. Era un papel de apoyo, no protagónico. ¿Qué valor tienen los roles de apoyo en la obra del Señor?",
+    question:
+      "Sidney Rigdon era predicador elocuente y educado antes de unirse a la Iglesia. ¿Qué dice el hecho de que el Señor usara específicamente esos dones para Su obra?",
     options: [
-      "Son menos importantes que los roles de liderazgo visible",
-      "Son fundamentales porque sin ellos los roles protagónicos no pueden funcionar",
-      "Solo son útiles cuando no hay nadie más disponible para el rol principal",
-      "El Señor prefiere que todos tengan roles de liderazgo visibles"
+      "Que el Señor solo llama a personas con talentos fuera de lo común para hacer Su obra.",
+      "Que los dones desarrollados fuera de la Iglesia no tienen valor en el reino del Señor.",
+      "Que el Señor puede consagrar lo que somos — incluyendo lo que aprendimos antes de conocerlo — para Su propósito.",
+      "Que Sidney habría sido más útil si hubiera llegado sin dones previos para no depender de ellos.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo podés usar un don o habilidad concreta que tenés para servir mejor en tu barrio, rama o familia esta semana?",
+    question:
+      "Camila toca la guitarra, dibuja bien y tiene facilidad para explicar cosas. Nunca lo relacionó con el evangelio. Según el principio de D&C 35 y el ejemplo de Sidney Rigdon, ¿qué le diría el Señor sobre esos dones?",
     options: [
-      "Esperar a que alguien me pida específicamente usar ese don antes de ofrecerlo",
-      "Identificar una necesidad real y ofrecer activamente ese don sin esperar que me lo pidan",
-      "Solo usar mis dones en actividades formales de la Iglesia",
-      "Desarrollar primero el don hasta la perfección antes de usarlo en la obra"
+      "Que esos talentos son útiles en el mundo pero no tienen aplicación espiritual.",
+      "Que primero debe obtener un llamamiento formal antes de usar esos dones para la Iglesia.",
+      "Que esos dones pueden ser consagrados al Señor — y que Él los necesita más de lo que ella imagina.",
+      "Que debería desarrollar primero dones específicamente religiosos antes de ofrecer los suyos.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "D&C 35:3 presenta a Jesucristo como 'el Hijo de Dios, que fue crucificado por los pecados del mundo'. ¿Por qué esa declaración de identidad abre toda la revelación a Sidney?",
+    question:
+      "Agustín siente que no está listo para enseñar una lección en la clase porque no sabe suficiente. D&C 35:20 le prometió a Sidney que en Ohio recibiría 'poder de lo alto'. ¿Qué principio aplica aquí para Agustín?",
     options: [
-      "Porque establece la autoridad legal de Cristo para llamar obreros",
-      "Porque todo llamado al servicio nace del amor de quien murió por nosotros — entender quién llama cambia cómo respondemos",
-      "Porque Sidney necesitaba una declaración formal antes de aceptar su llamado",
-      "Porque es la fórmula de saludo oficial en todas las revelaciones de D&C"
+      "Que debería esperar a sentirse listo antes de aceptar la responsabilidad de enseñar.",
+      "Que los llamamientos para enseñar son para personas con más conocimiento que Agustín.",
+      "Que el poder viene cuando uno obedece y actúa — no cuando uno ya se siente suficientemente preparado.",
+      "Que pedir al maestro que lo reemplace es la respuesta más humilde y correcta.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Tanto Sidney Rigdon (D&C 35) como Orson Pratt (D&C 34) fueron llamados en condiciones muy diferentes: uno con mucha experiencia religiosa, el otro recién bautizado. ¿Qué principio común sobre los llamados del Señor ilustran esos dos casos juntos?",
+    options: [
+        "Que el Señor prefiere a personas recién convertidas porque son más entusiastas.",
+        "Que tener mucha experiencia previa es una desventaja porque genera hábitos difíciles de cambiar.",
+        "Que los llamados tempranos son más importantes que los tardíos en la historia de la Iglesia.",
+        "Que el Señor adapta el llamado a la persona específica y usa lo que ella ya es — experiencia o frescura, según la necesidad de la obra.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección 178: Práctica del Dominio de la doctrina 3
-// Tema: Repaso y aplicación práctica de pasajes clave
+// Lección 50 — Práctica del Dominio de la doctrina 3
 export const dominioPractica3Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Cuál es la diferencia entre memorizar un pasaje del Dominio de la Doctrina y realmente dominarlo?",
+    question:
+      "D&C 19:16–19 describe el sufrimiento de Cristo en la Expiación. Según esos versículos, ¿cuál fue la alternativa que el Señor ofreció para que los seres humanos no sufrieran como Él?",
     options: [
-      "No hay diferencia si podés recitarlo perfectamente",
-      "Dominarlo significa poder explicar su principio central y aplicarlo a situaciones reales de la vida",
-      "Dominarlo requiere haberlo leído en el idioma original",
-      "Dominarlo significa usarlo correctamente en un debate teológico"
-    ],
-    correctAnswer: 1
+        "Arrepentirse — los que se arrepienten no necesitarán sufrir como Él sufrió.",
+        "Vivir perfectamente sin cometer errores desde el nacimiento.",
+        "Recibir el bautismo antes de cumplir los ocho años.",
+        "Memorizar y cumplir todos los mandamientos del evangelio sin excepción.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Si alguien te pregunta '¿por qué seguís lo que dice el profeta?', ¿qué pasaje del Dominio usarías y por qué?",
+    question:
+      "D&C 8:2–3 describe el proceso de recibir revelación. ¿A qué dos partes de la persona habla el Espíritu Santo según esos versículos?",
     options: [
-      "D&C 6:36 — porque habla de mirar a Cristo en todo pensamiento",
-      "D&C 1:37–38 — porque establece que las palabras de los siervos son equivalentes a las palabras del Señor",
-      "D&C 8:2–3 — porque describe cómo el Espíritu habla a la mente y al corazón",
-      "D&C 18:10–11 — porque habla del valor de las almas"
+      "Al cuerpo y al espíritu como una unidad indivisible.",
+      "A la mente y al corazón — ambos reciben la comunicación del Espíritu.",
+      "Solo a la mente para garantizar que el mensaje sea racional y verificable.",
+      "Solo al corazón porque el Señor prefiere las emociones a los argumentos intelectuales.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Cuál de los pasajes del Dominio de la Doctrina que estudiaste este año aplicaste de forma concreta fuera del Seminario? ¿Cómo fue esa experiencia?",
+    question:
+      "D&C 1:37–38 dice que las palabras del Señor 'se cumplirán todas'. ¿Qué diferencia práctica hace ese principio cuando alguien estudia las profecías del Señor sobre los últimos días?",
     options: [
-      "Todavía no apliqué ninguno fuera del aula porque los trato como tarea escolar",
-      "Usé uno en una conversación, en una decisión o en un momento de duda — y cambió algo",
-      "Los pasajes del Dominio solo son útiles dentro del contexto del Seminario",
-      "No recuerdo ninguno fuera del aula porque los memorizo para el examen y después los olvido"
+      "Que las profecías son garantías de resultados futuros que no dependen de nuestras elecciones.",
+      "Que las profecías son más bien sugerencias que pueden o no cumplirse según las circunstancias.",
+      "Que cada señal cumplida es evidencia de que el plan del Señor avanza exactamente como lo declaró — y eso fortalece la confianza.",
+      "Que el cumplimiento de las profecías es responsabilidad de los profetas actuales, no del Señor.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Qué rol cumple el Espíritu Santo cuando usamos un pasaje del Dominio en una conversación real?",
+    question:
+      "Si alguien te pregunta '¿por qué seguís al profeta?', D&C 1:37–38 es la respuesta más directa. ¿Qué afirma ese pasaje sobre las palabras de los siervos del Señor?",
     options: [
-      "Ninguno — los pasajes memorizados funcionan solos sin necesidad del Espíritu",
-      "Nos ayuda a saber qué pasaje usar, cómo decirlo, y qué significa para esa persona en ese momento",
-      "Solo ayuda a los maestros de Seminario que tienen llamamiento formal",
-      "El Espíritu reemplaza la necesidad de memorizar los pasajes"
+      "Que las palabras del profeta son inspiradas pero pueden contener errores humanos importantes.",
+      "Que las palabras de los siervos del Señor son equivalentes a Sus propias palabras — el Señor las respalda.",
+      "Que las palabras del profeta solo son válidas cuando van acompañadas de un milagro visible.",
+      "Que D&C 1:37–38 habla de los profetas del Antiguo Testamento, no de los líderes actuales.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿En qué situación concreta de esta semana podrías usar un pasaje del Dominio de la Doctrina — en una conversación, decisión o momento de dificultad?",
+    question:
+      "Nicolás acaba de estudiar D&C 19:16–19 y tiene un amigo que dice 'no me arrepiento de nada porque me parece que Dios no existe'. Según el principio de esos versículos, ¿qué consecuencia describe el Señor para quien no se arrepiente?",
     options: [
-      "Solo si alguien me hace una pregunta religiosa directamente",
-      "En cualquier momento donde el principio del pasaje sea relevante — decisión, duda, conversación o prueba personal",
-      "Solo en las reuniones de la Iglesia donde hay contexto religioso",
-      "Esperar a que el maestro me asigne cuándo usarlo"
+      "Que recibirá una segunda oportunidad en la vida espiritual sin consecuencias mayores.",
+      "Que el Señor simplemente no lo conocerá en el juicio y eso será consecuencia suficiente.",
+      "Que sufrirá como el Señor sufrió en la Expiación — el arrepentimiento existe precisamente para evitar eso.",
+      "Que perderá sus bendiciones temporales pero no tendrá consecuencias eternas.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "De todos los pasajes del Dominio estudiados hasta ahora, ¿cuál tiene más impacto en tu vida personal actual? ¿Por qué ese y no otro?",
+    question:
+      "Lucía memorizó D&C 6:36 ('no temas, pequeño rebaño; haced el bien') pero no sabe cuándo usarlo. Esta semana su hermana está muy ansiosa por una decisión difícil. ¿En qué situación encaja exactamente ese versículo?",
     options: [
-      "El que memorizé más fácil porque me resulta más accesible",
-      "El que responde a algo que estoy viviendo o luchando ahora mismo",
-      "El más largo porque demuestra más esfuerzo de aprendizaje",
-      "El primero de la lista porque siempre lo recuerdo mejor"
+      "No encaja — ese versículo es solo para misioneros que enfrentan persecución real.",
+      "Encaja porque su hermana necesita un argumento doctrinal para no tomar la decisión equivocada.",
+      "Encaja perfectamente — el miedo y la ansiedad ante decisiones difíciles son exactamente el contexto de ese versículo.",
+      "Encaja solo si la hermana ya es miembro activa de la Iglesia, de lo contrario el versículo no aplica.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 8:2–3 (revelación habla a mente y corazón) y D&C 9:7–8 (estudiar en la mente y luego preguntar) juntos describen un proceso. ¿Cuál es el principio completo que esos dos versículos enseñan sobre cómo obtener revelación?",
+    options: [
+        "Que la revelación llega sin esfuerzo cuando uno tiene suficiente fe acumulada.",
+        "Que solo las personas con dones especiales de revelación pueden recibir ambas partes del proceso.",
+        "Que la mente y el corazón reciben mensajes diferentes que a veces se contradicen entre sí.",
+        "Que el Espíritu habla a mente y corazón, pero primero el buscador debe estudiar y trabajar — la revelación responde al esfuerzo, no lo reemplaza.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección 179: Enseñanza del profeta actual
-// Tema: Cómo estudiar y aplicar las enseñanzas de los líderes de la Iglesia
+// Lección — Enseñanza del profeta actual
 export const ensenanza_profeta_actualQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Qué diferencia hay entre escuchar un discurso del profeta en Conferencia General y estudiarlo activamente después?",
+    question:
+      "D&C 21:4–5 describe cómo deben recibirse las palabras del profeta. ¿Qué dos condiciones menciona ese versículo?",
     options: [
-      "Escuchar es suficiente si prestás atención durante la transmisión",
-      "Estudiar activamente incluye identificar el principio central, las Escrituras usadas y la acción que el profeta invita a tomar",
-      "La diferencia es solo de tiempo — estudiar toma más horas pero produce los mismos resultados",
-      "Estudiar solo lo hacen los maestros y los líderes, no los alumnos de Seminario"
-    ],
-    correctAnswer: 1
+        "Con paciencia y fe — como si vinieran de la propia boca del Señor.",
+        "Con duda crítica y comparación con opiniones de otros expertos religiosos.",
+        "Con análisis histórico y contextualización académica antes de aplicarlas.",
+        "Con entusiasmo público pero sin compromisos personales concretos.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 21:4–6 dice que las palabras del profeta se reciben 'como si fueran de la boca del Señor'. ¿Cómo debería eso cambiar la actitud con que estudias un discurso de la Conferencia General?",
+    question:
+      "¿Cuál de las siguientes herramientas de Gospel Library te permite encontrar los discursos del profeta organizados por Conferencia General?",
     options: [
-      "Debería hacerme sentir que estoy leyendo algo sagrado con la misma reverencia que las Escrituras",
-      "Significa que el profeta no puede equivocarse en ninguna declaración personal ni pública",
-      "Solo aplica a los discursos del presidente de la Iglesia, no a los de los apóstoles",
-      "No cambia nada porque ya sé que el profeta es importante"
+      "La sección de Escrituras, buscando por nombre del profeta.",
+      "La sección de Revistas, filtrando por año y número de Liahona.",
+      "La sección de Conferencia General, ordenada por fecha y orador.",
+      "La sección de Estudio, buscando por temas doctrinales generales.",
     ],
-    correctAnswer: 0
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Cuál fue el último consejo del profeta actual que realmente te llegó? ¿Lo aplicaste de alguna manera concreta?",
+    question:
+      "El presidente Benson enseñó que el 'profeta viviente es más vital para nosotros que el profeta muerto'. ¿Qué significa eso en la práctica — no que los profetas antiguos no importan, sino algo diferente?",
     options: [
-      "Ninguno todavía porque espero que los consejos sean más específicos para mi situación",
-      "Sí — hay un consejo que reconocí como aplicable a mi vida y di algún paso hacia él",
-      "Los consejos del profeta son muy generales para tener impacto en mi vida cotidiana",
-      "Escucho todos los consejos pero no los anoto ni los recuerdo después"
+      "Que los discursos actuales del profeta reemplazan y anulan las Escrituras canónicas.",
+      "Que los profetas del pasado se equivocaban más frecuentemente que el profeta actual.",
+      "Que el profeta viviente aplica las verdades eternas a los desafíos específicos del tiempo en que vivimos — eso es lo que nadie del pasado puede hacer.",
+      "Que solo las declaraciones oficiales del profeta tienen valor, no los discursos de los apóstoles.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Qué herramientas concretas de la Biblioteca del Evangelio podés usar para estudiar las enseñanzas del profeta actual?",
+    question:
+      "¿Qué diferencia hay entre escuchar un discurso del profeta durante la Conferencia General y estudiarlo activamente después con herramientas de Gospel Library?",
     options: [
-      "Solo buscar el nombre del profeta y leer el primer resultado",
-      "Los discursos de la Conferencia General con sus referencias de Escrituras vinculadas, la sección de notas, y los temas relacionados",
-      "Solo los libros físicos publicados por la Iglesia porque son más confiables",
-      "La Biblioteca del Evangelio no tiene función de notas ni referencias cruzadas"
+      "Ninguna diferencia real si uno presta atención durante la transmisión en vivo.",
+      "Estudiar activamente significa identificar el principio central, las Escrituras usadas, las promesas y la acción concreta que el profeta invita a tomar.",
+      "La diferencia es solo de tiempo — estudiar toma más horas pero produce los mismos resultados.",
+      "El estudio posterior solo lo hacen los maestros de Seminario para preparar lecciones.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Qué consejo del profeta actual vas a estudiar esta semana? ¿Cuándo específicamente lo harás y qué acción concreta tomarás como resultado?",
+    question:
+      "Tomás escuchó la Conferencia General completa pero a las dos semanas no recuerda ningún mensaje específico ni tomó ninguna acción. Según la plantilla de estudio de esta lección, ¿qué paso omitió?",
     options: [
-      "Esperar a que el maestro de Seminario lo asigne para no duplicar esfuerzos",
-      "Elegir un discurso reciente, leerlo con atención, escribir el principio central y decidir una acción antes del domingo",
-      "Solo escucharlo en audio mientras hago otra cosa para aprovechar el tiempo",
-      "Compartirlo en redes sociales sin haberlo estudiado en profundidad"
+      "No tomó suficientes notas durante la transmisión en vivo.",
+      "No compartió los discursos en sus redes sociales inmediatamente.",
+      "No volvió a los discursos después, no identificó el principio central y no decidió una acción concreta.",
+      "No leyó los discursos en inglés para entenderlos con más precisión.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "El presidente Benson enseñó que el profeta viviente es 'más vital para nosotros que el profeta muerto'. ¿Cómo se ve eso en la práctica en tu estudio semanal?",
+    question:
+      "Renata dice que los consejos del profeta 'son muy generales y no aplican a mi vida específica'. Según D&C 21:4–5, ¿cuál es el problema real en esa actitud?",
     options: [
-      "Que debería leer menos D&C y más discursos de la Conferencia General actual",
-      "Que las Escrituras siguen siendo fundamentales, pero el profeta viviente aplica esas verdades a los desafíos específicos de nuestra época",
-      "Que las palabras del profeta actual reemplazan a las Escrituras en importancia",
-      "Que solo debería estudiar discursos del profeta y no de los apóstoles"
+      "Que los consejos del profeta realmente son demasiado generales para situaciones individuales.",
+      "Que Renata recibe las palabras del profeta con filtro personal en lugar de con paciencia y fe — y eso impide que el Espíritu le muestre la aplicación personal.",
+      "Que el profeta debería dar consejería individual para que sus mensajes sean más útiles.",
+      "Que Renata tiene razón y debería buscar orientación de fuentes más específicas a su situación.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Amós 3:7 dice que el Señor no hace nada sin revelar Sus secretos a Sus profetas. D&C 21:4–5 pide recibir esas palabras con fe. ¿Qué principio completo forman esos dos versículos juntos sobre la relación entre el Señor, el profeta y el discípulo?",
+    options: [
+        "Que el profeta tiene acceso a información privilegiada y el discípulo solo necesita obedecerlo sin entender por qué.",
+        "Que D&C 21 y Amós 3 describen épocas diferentes y no deben leerse juntos.",
+        "Que los secretos del Señor son solo para el profeta y los miembros comunes no tienen acceso a ellos.",
+        "Que el Señor diseñó un canal de comunicación: habla al profeta para hablar a Sus hijos — y el discípulo que recibe con fe cierra ese circuito de revelación.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
 // ============================================================================
 // SEMANA 7 — 14 al 20 de Abril (PASCUA DE RESURRECCIÓN)
-// Lunes 14, Martes 15, Miércoles 16: Clases especiales
-// Jueves 17 y Viernes 18: FERIADOS
 // ============================================================================
 
-// Lección: El Cristo Viviente, Parte 1
-// Tema: Estudio y memorización del testimonio del Cristo Viviente
+// El Cristo Viviente — Parte 1
 export const el_cristo_viviente_parte1Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "El documento 'El Cristo Viviente' fue firmado por los Doce Apóstoles en el año 2000. ¿Qué hace que ese testimonio sea especialmente significativo comparado con otros documentos religiosos?",
+    question:
+      "El documento 'El Cristo Viviente' fue emitido el 1 de enero del año 2000. ¿Quiénes lo firmaron como testigos?",
     options: [
-      "Que fue escrito en un año redondo y fácil de recordar",
-      "Que es el testimonio unificado de doce hombres que afirman ser testigos especiales de Jesucristo",
-      "Que fue traducido a más idiomas que cualquier otro documento de la Iglesia",
-      "Que incluye más versículos de Escritura que otros documentos similares"
-    ],
-    correctAnswer: 1
+        "Los miembros del Quórum de la Primera Presidencia y del Quórum de los Doce Apóstoles.",
+        "El presidente de la Iglesia y los presidentes de las estacas del mundo.",
+        "Los presidentes de misión de los cinco continentes como representantes globales.",
+        "El profeta y los setenta miembros del Quórum de los Setenta.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "El documento declara que Cristo 'fue el Gran Jehová del Antiguo Testamento'. ¿Qué dice eso sobre la continuidad entre el Dios del Antiguo y el Nuevo Testamento?",
+    question:
+      "El documento declara que Cristo fue 'el Gran Jehová del Antiguo Testamento'. ¿Qué implica esa declaración sobre la identidad del Dios que habló con Moisés, Abraham y los profetas de Israel?",
     options: [
-      "Que el Dios del Antiguo Testamento es diferente al Dios del Nuevo Testamento",
-      "Que Jesucristo es el mismo Dios que se comunicó con Moisés, Abraham e Israel — el mismo ayer, hoy y por los siglos",
-      "Que el Antiguo Testamento tiene menos valor que el Nuevo porque describe a un Dios diferente",
-      "Que el nombre Jehová es solo un título que usaban los judíos sin relevancia doctrinal"
+      "Que el Dios del Antiguo Testamento es diferente al Padre Celestial y al Jesucristo del Nuevo Testamento.",
+      "Que Jehová era un título genérico que distintos seres divinos usaban según el contexto.",
+      "Que Jesucristo es el mismo Dios que dirigió a Israel — el mismo ayer, hoy y por los siglos.",
+      "Que el nombre Jehová pertenece al Padre Celestial, no a Jesucristo.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Cuál de las declaraciones del documento 'El Cristo Viviente' te resulta más significativa personalmente? ¿Por qué esa y no otra?",
+    question:
+      "El documento afirma que Cristo 'venció físicamente a la muerte'. ¿Qué diferencia doctrinal concreta hace creer en una resurrección corporal real versus una resurrección solo espiritual o metafórica?",
     options: [
-      "La que habla de Su nacimiento porque es la que más conozco desde la infancia",
-      "La que describe algo de Cristo que necesito creer con más profundidad en este momento de mi vida",
-      "La más corta porque es más fácil de memorizar para el Seminario",
-      "La que ya había leído antes porque me resulta familiar y cómoda"
+      "Ninguna diferencia práctica — lo que importa es que exista algo después de la muerte.",
+      "Una resurrección corporal real significa que la identidad personal continúa, que el cuerpo importa eternamente y que la muerte no es el final de quiénes somos.",
+      "Solo importa a los teólogos que debaten sobre la naturaleza de la vida eterna.",
+      "La diferencia es solo semántica entre diferentes tradiciones religiosas.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "El documento afirma que Cristo 'venció físicamente a la muerte'. ¿Qué diferencia práctica hace para tu vida creer en una resurrección corporal real versus una resurrección solo espiritual?",
+    question:
+      "D&C 76:22–23 dice que José Smith y Sidney Rigdon vieron al Salvador 'a la diestra de Dios'. ¿Qué doctrina sobre la naturaleza de Dios confirma esa visión directamente?",
     options: [
-      "Ninguna diferencia práctica, lo importante es que haya algo después de la muerte",
-      "Una resurrección corporal real significa que el cuerpo importa, que la identidad personal continúa, y que la muerte no es el final de quiénes somos",
-      "Solo importa a los teólogos que debaten sobre la naturaleza de la vida eterna",
-      "La diferencia es solo semántica entre tradiciones religiosas distintas"
+      "Que el Padre y el Hijo son la misma persona en diferentes manifestaciones.",
+      "Que el Padre y el Hijo son seres separados y distintos, no una trinidad abstracta.",
+      "Que Jesucristo es inferior al Padre porque está ubicado 'a Su diestra' y no en el centro.",
+      "Que el Espíritu Santo también estaba presente en la visión aunque no fue mencionado.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Qué parte del documento 'El Cristo Viviente' memorizarías primero para tenerla disponible cuando la necesites? ¿En qué situación de tu vida podría ser útil?",
+    question:
+      "Valentina dice que cree en Cristo 'porque me lo enseñaron desde chica', pero no sabe si eso es fe propia o solo tradición familiar. ¿Qué parte del documento 'El Cristo Viviente' le ayudaría a desarrollar un testimonio personal?",
     options: [
-      "La firma de los apóstoles porque da credibilidad formal al documento",
-      "Una declaración sobre quién es Cristo que pueda compartir con alguien que no sabe quién es Él",
-      "Solo las referencias de Escrituras para poder citarlas en clase",
-      "La parte más larga para demostrar mayor esfuerzo de memorización"
+      "La lista de milagros de Cristo — memorizar hechos históricos consolida la fe.",
+      "La firma de los apóstoles — ver sus nombres la haría sentir que hay autoridad detrás.",
+      "El desafío de leerlo específicamente preguntándose '¿qué de esto creo yo y qué todavía necesito conocer por mí misma?'",
+      "El párrafo sobre la Segunda Venida — pensar en el futuro genera más motivación que el pasado.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "El documento cierra con la declaración: 'Él vive'. ¿Qué impacto tiene en tu fe personal el que doce apóstoles hagan esa declaración en nombre propio?",
+    question:
+      "Joaquín tiene un amigo que pregunta 'si Cristo resucitó, ¿por qué no hay evidencia histórica más clara?'. Usando el principio del documento sobre el testimonio apostólico, ¿cuál es la respuesta más sólida?",
     options: [
-      "No tiene impacto adicional porque ya lo sabía antes de leer el documento",
-      "Fortalece mi fe saber que personas con responsabilidad apostólica han hecho de ese testimonio el centro de su vida",
-      "Solo importa si los apóstoles tienen más fe que yo",
-      "Es una declaración de fe igual a la de cualquier otro creyente sin relevancia especial"
+      "Que la evidencia histórica existe pero los científicos la ocultan deliberadamente.",
+      "Que la fe no necesita evidencia histórica y preguntar eso muestra poca espiritualidad.",
+      "Que doce testigos actuales — apóstoles vivos — ofrecen su nombre como evidencia personal de que Él vive hoy.",
+      "Que la resurrección ocurrió hace tanto tiempo que la evidencia naturalmente se perdió.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Tanto 'El Cristo Viviente' como D&C 76:22–23 afirman que Cristo 'vive'. Pero uno es un documento firmado y el otro es un relato de visión. ¿Qué fortaleza diferente aporta cada uno como testimonio?",
+    options: [
+        "Ambos aportan exactamente la misma fortaleza porque la fuente de ambos es el Espíritu Santo.",
+        "'El Cristo Viviente' es más fuerte porque es reciente y fue firmado por más personas.",
+        "D&C 76 es más fuerte porque es Escritura canónica; 'El Cristo Viviente' es solo un documento moderno.",
+        "'El Cristo Viviente' aporta un testimonio formal colectivo de testigos vivos; D&C 76 aporta un testimonio de experiencia directa y visual — juntos cubren lo intelectual y lo experiencial.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección: El Cristo Viviente, Parte 2
-// Tema: Aplicación del testimonio del Cristo Viviente a la vida personal
+// El Cristo Viviente — Parte 2
 export const el_cristo_viviente_parte2Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "El documento describe a Cristo como 'la luz, la vida y la esperanza del mundo'. ¿Cuál de esos tres atributos necesitás más en tu vida esta semana y por qué?",
+    question:
+      "El documento 'El Cristo Viviente' menciona que Cristo fue 'elegido antes de la fundación de este mundo'. ¿Qué implica eso sobre el Plan de Salvación?",
     options: [
-      "Luz — para tener claridad en alguna decisión o pregunta que no termino de resolver",
-      "Vida — para sentir que mis hábitos espirituales tienen energía y no son solo rutina",
-      "Esperanza — para enfrentar algo difícil que me desanima",
-      "Cualquiera de los tres según lo que estoy viviendo ahora"
-    ],
-    correctAnswer: 3
+        "Que la Expiación fue planificada antes de que este mundo existiera — Dios nunca fue tomado por sorpresa.",
+        "Que el Plan fue diseñado de emergencia después de la Caída de Adán y Eva.",
+        "Que Cristo fue elegido porque fue el primero en ofrecerse voluntariamente durante la Creación.",
+        "Que la elección de Cristo ocurrió simultáneamente con la Caída, no antes.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "El documento habla de las 'marcas de los clavos' como evidencia de Su identidad cuando regrese. ¿Qué dice eso sobre la relación entre la fe que tenemos ahora y la certeza que tendremos después?",
+    question:
+      "El documento cierra con la promesa de que Cristo regresará con las 'marcas de los clavos' visibles. ¿Qué propósito doctrinal tienen esas marcas en el regreso del Salvador?",
     options: [
-      "Que la fe actual no sirve de nada porque después habrá evidencia visible",
-      "Que la fe de hoy y la certeza de después son parte del mismo camino — creer ahora es prepararse para reconocerlo entonces",
-      "Que la fe solo importa mientras no haya evidencia física disponible",
-      "Que las marcas de los clavos son una metáfora sin implicaciones sobre la resurrección corporal"
+      "Son un recordatorio visual de que sufrió, para generar gratitud en quienes lo vean.",
+      "Sirven como identificación para que los santos lo reconozcan aunque no lo hayan visto antes.",
+      "Demuestran que la resurrección no elimina el registro físico del sacrificio — la Expiación es parte permanente de Su identidad.",
+      "Son solo un detalle simbólico sin implicaciones sobre la naturaleza del cuerpo resucitado.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Alguna vez compartiste tu testimonio de Jesucristo con alguien fuera de la Iglesia? ¿Qué fue lo más difícil de esa experiencia?",
+    question:
+      "El documento describe a Cristo como 'la luz, la vida y la esperanza del mundo'. ¿Por qué usar tres palabras diferentes en lugar de una sola, como simplemente 'salvador'?",
     options: [
-      "No saber exactamente qué decir sin sonar religioso o extraño",
-      "El miedo al rechazo o a que la otra persona no tome el tema en serio",
-      "No tener las palabras exactas del documento para citar",
-      "Cualquiera de las anteriores según la situación"
+      "Por razones de estilo literario para hacer el documento más solemne y formal.",
+      "Porque cada una apunta a una necesidad diferente: oscuridad espiritual, muerte, y desesperanza — Cristo responde a las tres simultáneamente.",
+      "Porque son los tres títulos que los apóstoles usaban en sus discursos individuales y querían unificarlos.",
+      "Porque 'luz' y 'vida' aplican a esta vida, pero 'esperanza' solo aplica a la vida futura.",
     ],
-    correctAnswer: 3
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "El documento afirma que Cristo fue 'elegido antes de la fundación del mundo'. ¿Qué dice eso sobre el Plan de Salvación como algo planificado y no improvisado?",
+    question:
+      "Juan 20:27–28 describe a Tomás viendo las marcas del Salvador y exclamando '¡Señor mío y Dios mío!'. ¿Qué diferencia hay entre la fe de Tomás antes y después de ese momento?",
     options: [
-      "Que Dios tuvo que improvisar la Expiación después de que Adán y Eva transgredieron",
-      "Que la Expiación fue planificada antes de que este mundo existiera — Dios nunca fue tomado por sorpresa",
-      "Que Cristo fue elegido por Sus méritos personales sin que Dios lo planificara de antemano",
-      "Que la fundación del mundo ocurrió después de que Cristo fue elegido, no antes"
+      "No hay diferencia real — Tomás siempre tuvo fe pero no la había expresado verbalmente.",
+      "Antes era fe de segunda mano basada en el testimonio de otros; después era fe de primera mano basada en experiencia personal.",
+      "Después de ver a Cristo, Tomás ya no necesitaba fe porque tenía conocimiento absoluto.",
+      "La fe de Tomás se debilitó porque los que creen sin ver son más bienaventurados.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo podrías usar una declaración del documento 'El Cristo Viviente' en una conversación real con un amigo o familiar que no es miembro de la Iglesia?",
+    question:
+      "Sofía dice que su testimonio de Cristo es 'heredado' — cree porque sus padres creen. Según el principio que ilustra la historia de Tomás, ¿qué paso necesita dar Sofía?",
     options: [
-      "Leerle el documento completo para que escuche todo el testimonio",
-      "Elegir una declaración específica sobre quién es Cristo y compartirla en el contexto de una conversación natural",
-      "Solo usarlo si la persona me hace una pregunta directa sobre religión",
-      "No compartirlo porque es un documento interno de la Iglesia"
+      "Dejar de creer temporalmente para ver si la fe regresa por sí sola.",
+      "Aceptar que la fe heredada es suficiente para toda la vida si los padres son fieles.",
+      "Buscar activamente sus propias experiencias espirituales — preguntar, estudiar y orar hasta que el testimonio sea suyo, no de sus padres.",
+      "Esperar a ser mayor antes de buscar su propio testimonio porque no está lista.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "El documento concluye con la promesa de que Cristo regresará en gloria. ¿Cómo cambia esa perspectiva la forma en que vivís el día de hoy?",
+    question:
+      "Mateo está pasando por una semana muy difícil emocionalmente. ¿Cuál de los tres atributos de Cristo descritos en el documento — 'luz, vida y esperanza' — encaja mejor con lo que Mateo necesita, y qué acción concreta podría ayudarle?",
     options: [
-      "Me hace querer procrastinar los cambios porque el regreso está lejos",
-      "Me recuerda que cada día tiene peso eterno y que lo que hago ahora importa para entonces",
-      "Me genera ansiedad sobre si estaré listo cuando llegue ese momento",
-      "No cambia nada porque el regreso de Cristo es un evento abstracto del futuro"
+      "Luz — debería estudiar más doctrina para aclarar sus pensamientos.",
+      "Esperanza — podría leer el último párrafo del documento y orar específicamente por la paz que Cristo ofrece.",
+      "Vida — debería asistir a más reuniones de la Iglesia para estar rodeado de personas que lo animen.",
+      "Los tres atributos son iguales y Mateo debería elegir el que le suene mejor ese día.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "El testimonio de Tomás ('¡Señor mío y Dios mío!') y el cierre del documento ('Él vive') son expresiones similares separadas por dos mil años. ¿Qué principio sobre el testimonio de Cristo une esas dos declaraciones?",
+    options: [
+        "Que los testimonios más poderosos son siempre breves y emocionales.",
+        "Que los testimonios en grupo como el del documento son más válidos que los individuales como el de Tomás.",
+        "Que solo los que vieron físicamente a Cristo pueden tener un testimonio completo.",
+        "Que el testimonio verdadero del Salvador trasciende el tiempo — distintas personas en distintas épocas llegan a la misma certeza por el mismo Espíritu.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección: Lección Pascua de Resurrección con "Ven, Sígueme"
-// Tema: Celebración de la Resurrección de Jesucristo
+// Lección Pascua de Resurrección
 export const pascua_resurreccionQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "La Resurrección de Cristo no fue simplemente 'volver a la vida'. ¿En qué se diferencia Su resurrección de, por ejemplo, la resurrección de Lázaro?",
+    question:
+      "Según Lucas 24:36–43, cuando Cristo se apareció a Sus discípulos después de resucitar, ¿qué hizo para demostrar que no era un espíritu?",
     options: [
-      "Solo en que Cristo resucitó antes que Lázaro",
-      "Lázaro volvió a una vida mortal que terminaría en muerte; Cristo resucitó con un cuerpo glorificado e inmortal que no volverá a morir",
-      "No hay diferencia doctrinal significativa entre las dos resurrecciones",
-      "Cristo resucitó con mayor poder que Lázaro porque era el Hijo de Dios"
-    ],
-    correctAnswer: 1
+        "Les mostró sus heridas, les pidió que lo tocaran y comió pescado en su presencia.",
+        "Habló con una voz diferente y más poderosa que la que tenía en vida.",
+        "Desapareció y reapareció en diferentes lugares del cuarto simultáneamente.",
+        "Realizó un milagro sanando a uno de los discípulos que estaba enfermo.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "Después de la Resurrección, Cristo comió pescado con Sus discípulos (Lucas 24:42–43) y les mostró Sus manos y Sus pies. ¿Por qué estos detalles físicos son doctrinalmente importantes?",
+    question:
+      "1 Corintios 15:22 dice 'en Cristo todos serán vivificados'. ¿A quiénes incluye ese 'todos'?",
     options: [
-      "Para demostrar que Cristo necesitaba alimento después de resucitar",
-      "Para confirmar que la resurrección es corporal y real, no solo espiritual o simbólica",
-      "Para mostrar que los discípulos no reconocían a Cristo sin esas señales físicas",
-      "Son detalles culturales judíos sin implicaciones doctrinales"
+      "Solo a los miembros de la Iglesia que guardaron sus convenios fielmente.",
+      "A todos los seres humanos que vivieron en la tierra — la resurrección es universal.",
+      "A quienes creyeron en Cristo durante su vida mortal.",
+      "Solo a los que murieron jóvenes o de manera inocente.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Qué cambia en tu vida práctica el creer en la Resurrección de Cristo? ¿Hay algo que vivirías diferente si no creyeras en ella?",
+    question:
+      "La resurrección de Lázaro (Juan 11) y la resurrección de Cristo son dos eventos diferentes. ¿En qué se diferencian doctrinalmente?",
     options: [
-      "Nada prácticamente, porque la fe es una cuestión personal sin impacto en las decisiones diarias",
-      "El significado de las dificultades, la muerte de seres queridos, y el valor de las decisiones morales cambian completamente",
-      "Solo cambia cómo me siento los domingos de Pascua",
-      "Cambia principalmente cómo me porto en la Iglesia, no en el mundo"
+      "No hay diferencia — ambas son resurrecciones permanentes con cuerpos glorificados.",
+      "Lázaro volvió a una vida mortal que terminaría en muerte; Cristo resucitó con un cuerpo glorificado e inmortal que no volverá a morir jamás.",
+      "Solo difieren en que Cristo resucitó primero y eso le dio autoridad sobre la muerte.",
+      "La diferencia es solo de cronología — Lázaro resucitará definitivamente junto con todos en la resurrección final.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "María Magdalena fue la primera en ver al Cristo resucitado (Juan 20:11–18). ¿Qué dice eso sobre quién el Señor considera digno de recibir un testimonio de Su resurrección?",
+    question:
+      "D&C 88:15 dice que 'el espíritu y el cuerpo son el alma del hombre'. ¿Qué implica eso sobre el significado de la resurrección para la identidad personal?",
     options: [
-      "Que el Señor prefería a las mujeres sobre los apóstoles para este tipo de revelaciones",
-      "Que el Señor revela Sus verdades más profundas a quienes lo buscan con amor y fidelidad, sin importar su posición social",
-      "Que María tenía un cargo especial que le daba acceso prioritario al Salvador",
-      "Que el Señor eligió a María para confundirla porque no esperaba encontrarlo resucitado"
+      "Que el espíritu solo alcanza su plenitud cuando se libera permanentemente del cuerpo.",
+      "Que sin cuerpo el alma está incompleta — la resurrección restaura la plenitud de quiénes somos, no solo continúa el espíritu.",
+      "Que el cuerpo es solo un contenedor temporal sin parte en la identidad eterna.",
+      "Que la resurrección es principalmente una promesa para el cuerpo físico, no para el espíritu.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo podés celebrar la Resurrección de Cristo más allá de asistir a las reuniones del domingo de Pascua? ¿Qué acción concreta harías esta semana?",
+    question:
+      "La abuela de Renata falleció el año pasado. Renata dice que 'extrañarla toda la vida es demasiado duro'. Según 1 Corintios 15:22, ¿qué esperanza concreta y real puede ofrecer el evangelio a Renata?",
     options: [
-      "Decorar huevos de colores como tradición cultural de la época",
-      "Hacer algo concreto que refleje la esperanza de la Resurrección — servir, perdonar, compartir mi testimonio",
-      "Solo asistir a la reunión porque eso es lo que la Iglesia pide",
-      "Ver una película religiosa sobre la vida de Cristo"
+      "Que el dolor de la pérdida no es real porque las almas nunca mueren realmente.",
+      "Que la separación es temporal — la resurrección de Cristo garantiza que ella volverá a ver a su abuela.",
+      "Que su abuela está en un lugar mejor y eso debería ser suficiente para que Renata no llore.",
+      "Que la fe fuerte elimina el dolor del luto y Renata debería confiar más.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "1 Corintios 15:22 dice 'en Cristo todos serán vivificados'. ¿Qué esperanza concreta ofrece eso a alguien que ha perdido a un ser querido?",
+    question:
+      "Agustín va a celebrar la Pascua este domingo pero siente que es 'solo ir a la Iglesia como siempre'. Según los detalles físicos de Lucas 24 (comer, tocar, hablar), ¿qué actitud diferente podría llevar Agustín a la reunión?",
     options: [
-      "Que el dolor de la pérdida no es real porque todos resucitarán",
-      "Que la separación es temporal — la Resurrección de Cristo garantiza que volveremos a ver a quienes amamos",
-      "Solo ofrece esperanza a los miembros de la Iglesia que guardaron sus convenios",
-      "Es una promesa abstracta que no tiene impacto emocional real en el duelo"
+      "Intentar sentir una emoción intensa durante la Santa Cena para que la Pascua sea especial.",
+      "Ir con la disposición de rendir homenaje a un evento histórico importante del pasado.",
+      "Renovar conscientemente su conexión con un Salvador que resucitó corporalmente y vive ahora — no recordar un mito sino celebrar una realidad presente.",
+      "No hay manera de hacer la Pascua más significativa si no se sienten emociones fuertes naturalmente.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "La Resurrección de Cristo y la doctrina de D&C 88:15 (espíritu + cuerpo = alma) juntas forman un argumento. ¿Cuál es el principio completo que esas dos enseñanzas construyen sobre la persona humana?",
+    options: [
+        "Que el cuerpo es un obstáculo espiritual del que el alma necesita liberarse definitivamente.",
+        "Que solo el espíritu tiene valor eterno y el cuerpo resucita como beneficio secundario.",
+        "Que el cuerpo resucitado es completamente diferente al cuerpo mortal y no tiene continuidad con él.",
+        "Que la persona humana es una unidad de espíritu y cuerpo, y que la Resurrección de Cristo garantiza que esa unidad será restaurada para todos — lo que somos no se pierde.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
 // ============================================================================
 // SEMANA 8 — 21 al 27 de Abril
-// Bloque: Doctrina y Convenios 30–36 (continuación) + Evaluación
 // ============================================================================
 
-// Lección 48: Doctrina y Convenios 30–36, Parte 2
-// Tema: Llamados a proclamar el Evangelio de Jesucristo
-export const dc30_36_parte2Questions: Question[] = [
+// Lección 51 — D&C 37; 38:1–9, 28–33
+export const dc37_38_parte1Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "D&C 33:3–4 dice: 'el campo ya está listo para la siega' y manda a los obreros que 'entren en la viña'. ¿Qué dice ese lenguaje de urgencia sobre el timing del trabajo misional?",
+    question:
+      "En diciembre de 1830, el Señor mandó a los santos trasladarse de Nueva York a Ohio. ¿Qué prometió específicamente en D&C 38:32 a quienes obedecieran ese mandato?",
     options: [
-      "Que el trabajo misional debe esperar al momento perfecto cuando uno esté completamente preparado",
-      "Que la viña está lista ahora — la necesidad no espera a que uno se sienta listo",
-      "Que solo los misioneros de tiempo completo pueden responder a esa urgencia",
-      "Que la urgencia aplica solo a los primeros años de la Restauración, no hoy"
-    ],
-    correctAnswer: 1
+        "Que serían investidos con poder de lo alto.",
+        "Que serían económicamente bendecidos más que en Nueva York.",
+        "Que no sufrirían persecución en Ohio y vivirían en paz.",
+        "Que el profeta les revelaría el lugar exacto de Sion antes del viaje.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 34:5–6 le promete a Orson Pratt, que tenía 19 años, que 'las puertas del infierno no prevalecerán' contra él. ¿Qué dice eso sobre la edad como factor en el llamado al servicio?",
+    question:
+      "D&C 38:1–2 presenta a Cristo describiendo Su omnisciencia: 'conozco todas las cosas, porque todas las cosas están presentes ante mis ojos'. ¿En qué contexto emocional les dice esto el Señor a los santos?",
     options: [
-      "Que la juventud es una desventaja que se supera con el tiempo y la experiencia",
-      "Que la edad no es un descalificador — el Señor puede usar a jóvenes con fe igual que a adultos",
-      "Que el llamado de Orson Pratt fue excepcional y no aplica a los jóvenes de hoy",
-      "Que los jóvenes deben esperar hasta los 18 o 19 años para recibir un llamado real"
+      "Cuando estaban celebrando el éxito de la obra misional en sus comunidades.",
+      "Cuando enfrentaban persecución, amenazas reales y la orden de abandonar sus hogares.",
+      "Cuando algunos miembros pedían revelaciones más frecuentes sobre el futuro.",
+      "Cuando el profeta José Smith estaba ausente y los santos necesitaban liderazgo temporal.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Alguna vez sentiste que eras demasiado joven, inexperto o imperfecto para hacer algo significativo por el evangelio? ¿Qué te responde D&C 34 a esa sensación?",
+    question:
+      "D&C 38:30 dice 'si estáis preparados, no temeréis'. ¿Qué tipo de preparación tiene en mente el Señor — no la temporal sino la espiritual?",
     options: [
-      "Que esa sensación es una señal de humildad genuina que el Señor aprecia",
-      "Que el Señor no espera perfección para llamar — capacita a los que llama, independientemente de la edad",
-      "Que debería esperar a tener más experiencia antes de intentar servir",
-      "Que la sensación de insuficiencia es una excusa válida para posponer el servicio"
+      "Memorizar todas las doctrinas del evangelio para poder responder cualquier pregunta.",
+      "Tener convenios activos, hábitos de oración y estudio, y una fe que no depende de las circunstancias externas.",
+      "Rodearse de muchos miembros activos de la Iglesia para no estar solo en momentos difíciles.",
+      "Acumular bienes materiales para no depender de nadie durante las tribulaciones.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "D&C 33:8–10 dice 'abrid vuestra boca y será llena'. ¿Qué condición pone el Señor antes de prometer que llenará la boca?",
+    question:
+      "El mandato de congregarse en Ohio implicó que familias enteras dejaran granjas, hogares y trabajos. ¿Qué principio sobre la obediencia ilustra esa respuesta de los santos?",
     options: [
-      "Que estudiemos durante años antes de hablar",
-      "Que primero abramos la boca — la promesa viene después del acto de fe, no antes",
-      "Que solo hablemos cuando tengamos la certeza de tener todas las respuestas",
-      "Que tengamos un llamamiento formal de misión antes de abrir la boca"
+      "Que obedecer al Señor siempre resulta en ausencia de sacrificio o pérdida personal.",
+      "Que la obediencia genuina a veces tiene un costo real y visible — y ese costo es parte del principio, no un error.",
+      "Que la obediencia es más valiosa cuando no cuesta nada, porque entonces viene del corazón.",
+      "Que el Señor compensa económicamente a quienes sacrifican bienes materiales por obedecerle.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cuál es tu 'viña' específica ahora mismo — el grupo de personas en tu entorno donde el Señor espera que trabajes?",
+    question:
+      "Nicolás está muy ansioso por un examen importante la próxima semana y siente que el miedo lo paraliza. Según D&C 38:30, ¿qué pregunta debería hacerse primero?",
     options: [
-      "Solo las personas que me pidan información sobre la Iglesia",
-      "Mi familia, mis amigos de la escuela, mi barrio — las personas reales de mi vida cotidiana",
-      "La viña solo existe en el campo misional formal",
-      "No tengo una viña específica hasta que sea misionero de tiempo completo"
+      "¿Cuántas horas más necesito estudiar para estar absolutamente seguro de aprobar?",
+      "¿Estoy preparado espiritualmente — orando, estudiando las Escrituras, confiando en el Señor — además de académicamente?",
+      "¿Por qué el Señor me permite sentir este miedo si soy un miembro fiel?",
+      "¿Debería pedir al obispo una bendición para garantizar que todo salga bien?",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "¿Qué acción concreta pequeña podrías dar esta semana para trabajar en tu viña, aunque sea un paso mínimo?",
+    question:
+      "Camila recibió un consejo de su líder que no entiende completamente pero que implica un cambio real en su vida. Según el patrón de los santos que obedecieron el mandato de mudarse a Ohio, ¿qué haría la Camila más fiel?",
     options: [
-      "Esperar a que alguien me pregunte sobre el evangelio antes de hacer algo",
-      "Orar por una persona específica, hacer una pregunta genuina, o compartir algo que me importa de mi fe",
-      "Invitar a alguien a ir a la Iglesia como primer y único paso",
-      "Planificar un plan misional completo antes de tomar cualquier acción"
+      "Esperar hasta entender completamente el porqué antes de tomar cualquier acción.",
+      "Preguntar al líder hasta que le dé una explicación satisfactoria antes de obedecer.",
+      "Dar el paso de fe aunque no entienda todo, confiando en que el sentido se revelará en el proceso.",
+      "Obedecer solo la parte que entiende y esperar para el resto.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 38:7 muestra a Cristo diciendo que conoce todas las cosas. D&C 38:30 promete que la preparación elimina el miedo. ¿Qué principio completo forman esas dos enseñanzas juntas para alguien que enfrenta incertidumbre?",
+    options: [
+        "Que Dios tiene el control y por eso nosotros no necesitamos hacer nada para prepararnos.",
+        "Que el conocimiento de que Dios ve todo debería eliminarnos el miedo automáticamente sin esfuerzo propio.",
+        "Que la preparación material es más urgente que la espiritual porque el Señor ya se encarga de lo espiritual.",
+        "Que sabemos que Él conoce el camino completo — eso da base para confiar; y prepararse espiritualmente es la respuesta práctica a esa confianza.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección 106: Evalúa tu aprendizaje 3
-// Tema: Revisión del aprendizaje del tercer bloque
-export const evalua_aprendizaje_3Questions: Question[] = [
+// Lección 52 — D&C 38:15–27, 34–42
+export const dc38_parte2Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "Esta evaluación cubre las semanas 6–8: D&C 30–36, Pascua, y los primeros misioneros. ¿Cuál de los principios de ese bloque tuvo más impacto en cómo pensás o actuás?",
+    question:
+      "D&C 38:27 dice: 'si no sois uno, no sois míos'. ¿En qué contexto inmediato dio el Señor esa instrucción — qué situación vivían los santos?",
     options: [
-      "El principio sobre la urgencia de la obra misional — que la viña ya está lista",
-      "El principio de que el Señor llama a los débiles para confundir a los poderosos",
-      "El testimonio de la Resurrección de Cristo y su impacto en la esperanza cristiana",
-      "Cualquiera de los anteriores según lo que más tocó mi vida en estas semanas"
-    ],
-    correctAnswer: 3
+        "Enfrentaban persecución externa, conflictos internos y la orden de trasladarse — la desunión habría destruido su capacidad de sobrevivir.",
+        "Estaban en un período de prosperidad donde la unidad no era urgente.",
+        "Estaban debatiendo doctrinas teológicas complejas y necesitaban un árbitro.",
+        "Era una instrucción preventiva sin situación crítica inmediata de fondo.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "El documento 'El Cristo Viviente' declara que Cristo 'vive'. ¿Podés expresar en tus propias palabras por qué esa declaración importa para tu vida diaria?",
+    question:
+      "D&C 38:34–35 instruye a los santos sobre el uso de los bienes temporales. ¿Cuál es el propósito explícito que el Señor da para esas instrucciones?",
     options: [
-      "Solo importa en la Pascua cuando la Iglesia lo enfatiza",
-      "Porque si Cristo vive, entonces intercede por mí ahora mismo, no solo en el pasado",
-      "Porque es una declaración doctrinal que debo conocer para el examen",
-      "Porque demuestra que los apóstoles actuales tienen más fe que los demás"
+      "Para demostrar que la Iglesia tiene recursos suficientes para sostenerse sola.",
+      "Para preparar a los santos para recibir las revelaciones y bendiciones mayores que vendrían después.",
+      "Para establecer un sistema económico que compita con los gobiernos locales.",
+      "Para que los miembros más ricos puedan demostrar su fe con sacrificio visible.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Hay algún principio de estas semanas que todavía te cuesta aplicar en tu vida real? ¿Cuál es el obstáculo principal?",
+    question:
+      "D&C 38:24–25 dice que cada persona debe estimar al hermano 'como a sí mismo'. ¿Por qué el Señor usa la palabra 'estimar' y no simplemente 'tolerar' o 'aguantar'?",
     options: [
-      "No apliqué ninguno porque eran semanas muy ocupadas",
-      "Sí — hay uno donde veo la brecha entre lo que sé y cómo vivo, y eso me dice algo sobre dónde crecer",
-      "Todos los apliqué completamente sin dificultad",
-      "Los principios de estas semanas no tienen aplicación práctica para mi vida"
+      "Porque 'estimar' es un término más formal apropiado para documentos religiosos.",
+      "Porque estimar implica atribuirle valor real a la otra persona — no solo soportarla sino reconocer que importa tanto como uno mismo.",
+      "Porque tolerar ya implica estimar en el vocabulario de D&C.",
+      "Porque el Señor distingue entre estimar a los santos y a los no miembros.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "De los primeros misioneros de la Iglesia (David Whitmer, Thomas B. Marsh, Orson Pratt, Sidney Rigdon), ¿con cuál te identificás más y por qué?",
+    question:
+      "La instrucción de D&C 38:34–42 sobre compartir bienes subyace en un principio económico específico. ¿Cuál es ese principio — no el comunismo ni la acumulación privada?",
     options: [
-      "Con Sidney Rigdon porque tenía dones especiales que el Señor usó",
-      "Con Orson Pratt porque era joven y el Señor lo llamó igual",
-      "Con David Whitmer porque también yo a veces temo la opinión de los demás",
-      "Con cualquiera de ellos dependiendo de la semana que estoy viviendo"
+      "Que la riqueza es mala y debe ser destruida para crear igualdad real.",
+      "Que la propiedad privada no existe en el reino de Dios.",
+      "Que somos mayordomos — no dueños absolutos — de lo que Dios nos dio, y eso implica responsabilidad hacia otros.",
+      "Que el Señor redistribuirá la riqueza directamente durante el Milenio sin nuestra participación.",
     ],
-    correctAnswer: 3
+    correctAnswer: 2,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Qué meta espiritual concreta te ponés para las próximas semanas, basada en algo específico que aprendiste en este bloque?",
+    question:
+      "En el quórum de Luca hay dos chicos que se llevan mal y esa tensión afecta a todos. Según D&C 38:27, ¿qué tiene en juego ese quórum si no resuelve esa desunión?",
     options: [
-      "Memorizar el documento 'El Cristo Viviente' completo",
-      "Dar un paso concreto en mi propia 'viña' — una persona, una conversación, una acción",
-      "Leer más capítulos de D&C por semana para cubrir más material",
-      "Esperar a que el maestro me asigne un objetivo específico"
+      "Solo el ambiente social del grupo — la desunión no afecta la validez de las ordenanzas.",
+      "La capacidad del quórum de ser reconocido como parte del cuerpo de Cristo y de avanzar la obra del Señor.",
+      "Las calificaciones del presidente del quórum que debería haber prevenido el conflicto.",
+      "Las actividades del quórum, pero no su relación con el Señor mientras individualmente sean fieles.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "La verdadera medida del aprendizaje en Seminario no es cuántas preguntas respondiste bien, sino si las verdades están cambiando cómo vivís. ¿Cómo medirías tu propio progreso real en estas semanas?",
+    question:
+      "Renata tiene mucho más dinero y recursos que otras personas de su barrio. D&C 38:34–35 le habla directamente. Según el principio de mayordomía de esa sección, ¿qué actitud sería más coherente con el evangelio?",
     options: [
-      "Por la cantidad de preguntas que respondí correctamente en los quizzes",
-      "Por si tomé decisiones diferentes, traté a alguien diferente, o me acerqué más al Salvador",
-      "Por cuántas veces asistí al Seminario sin faltas",
-      "Por cuántos versículos del Dominio de la Doctrina memoricé"
+      "Que primero debe cubrir todas sus necesidades futuras antes de pensar en compartir con otros.",
+      "Que sus recursos son suyos para usarlos como quiera siempre que pague el diezmo.",
+      "Que lo que tiene es una mayordomía para bendecir a otros — y administrarlo así es parte de ser discípula de Cristo.",
+      "Que debe donar todo lo que le sobre inmediatamente sin planificación ni discernimiento.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 38:27 ('sed uno') y D&C 38:30 ('si estáis preparados, no temeréis') son dos principios de la misma revelación. ¿Cómo se conectan — qué tiene que ver la unidad con la ausencia de miedo?",
+    options: [
+        "No se conectan directamente — son principios independientes que el Señor dio en la misma revelación por razones diferentes.",
+        "La unidad genera miedo porque implica depender de otros que pueden fallar.",
+        "La preparación individual es suficiente — la unidad es un ideal pero no una condición para vencer el miedo.",
+        "Un pueblo unido se prepara junto, se cuida mutuamente y enfrenta la adversidad con la fortaleza colectiva que la desunión destruye.",
+      ],
+    correctAnswer: 3,
+  },
+];
+
+// Lección 53 — D&C 39–40
+export const dc39_40Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "D&C 39:10 describe la secuencia del llamado de James Covill. ¿Qué debía ocurrir primero — el bautismo o la recepción del Espíritu Santo?",
+    options: [
+        "El bautismo primero; luego se le daría el Espíritu Santo — la obediencia a la ordenanza precede al don.",
+        "Ambos simultáneamente como un solo acto de la misericordia del Señor.",
+        "El Espíritu Santo primero, para motivarle a bautizarse con más convicción.",
+        "Ninguno — James ya tenía el Espíritu y el bautismo era solo una formalidad.",
+      ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "D&C 40:2 revela por qué James Covill no cumplió su promesa. ¿Cuál fue la causa exacta que el Señor identificó?",
+    options: [
+      "No entendió bien la doctrina del bautismo por autoridad del sacerdocio.",
+      "Su esposa se opuso a que dejara su congregación y él le dio prioridad.",
+      "Temió la persecución y tenía el corazón puesto en las cosas del mundo.",
+      "Recibió una revelación contraria que lo hizo cambiar de opinión sinceramente.",
+    ],
+    correctAnswer: 2,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "James Covill había servido cuarenta años como ministro y bautizado a miles. Aun así, el Señor le pedía bautizarse nuevamente. ¿Qué diferencia doctrinal justifica ese pedido?",
+    options: [
+      "Que los bautismos anteriores de James eran inválidos por sus pecados personales.",
+      "Que el bautismo con autoridad restaurada del sacerdocio es doctrinalmente diferente a los bautismos sin esa autoridad.",
+      "Que el bautismo repetido es simplemente una señal de humildad sin diferencia real.",
+      "Que James necesitaba demostrar públicamente que renunciaba a su cargo previo.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "D&C 40:2 dice que James tenía el corazón 'puesto en las cosas del mundo'. ¿Qué significa eso concretamente en el contexto de su situación — no como crítica moral sino como diagnóstico espiritual?",
+    options: [
+      "Que James era codicioso y buscaba dinero por encima de la verdad.",
+      "Que la preocupación por su reputación, su congregación y su posición social pesaba más en su corazón que la verdad que había recibido.",
+      "Que James no creía realmente en el evangelio y solo fingió interés desde el principio.",
+      "Que James nunca oró sinceramente para saber si el evangelio era verdad.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Mateo siente fervor espiritual después de un retiro de la Iglesia y hace una promesa al Señor de leer las Escrituras cada día. A las dos semanas lo dejó porque 'nadie se fijaba si lo hacía o no'. Según el patrón de James Covill, ¿qué nombre tiene ese obstáculo?",
+    options: [
+      "Falta de motivación intrínseca que el Señor entiende y perdona sin consecuencias.",
+      "Un error menor sin relación con los patrones descritos en D&C 39–40.",
+      "Tener el corazón puesto en la aprobación de otros más que en la promesa hecha al Señor.",
+      "Humildad auténtica que lo llevó a no presumir de sus hábitos espirituales.",
+    ],
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Lucía recibió un consejo claro del obispo sobre algo que necesita cambiar en su vida. Lo recibió con gozo en la reunión, pero dos semanas después no tomó ninguna acción. Según D&C 39:9, ¿qué advierte el Señor sobre ese patrón?",
+    options: [
+      "Que el Señor tiene paciencia ilimitada y Lucía puede tomar el tiempo que necesite.",
+      "Que el Espíritu no siempre contenderá con la persona — el momento de receptividad espiritual no siempre regresa.",
+      "Que basta con haber recibido bien el consejo aunque no se actúe, porque la intención cuenta.",
+      "Que el obispo debería repetir el consejo hasta que Lucía sienta la motivación suficiente.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 39 ofrece a James promesas extraordinarias. D&C 40 revela que las rechazó por miedo y apego al mundo. ¿Qué principio sobre la naturaleza del arrepentimiento y la conversión ilustran esas dos revelaciones juntas?",
+    options: [
+        "Que las promesas del Señor pierden valor cuando la persona no las acepta.",
+        "Que la conversión siempre ocurre de forma gradual y James simplemente necesitaba más tiempo.",
+        "Que el Señor es injusto al ofrecer promesas a alguien que sabe que no las aceptará.",
+        "Que el gozo inicial y la promesa sincera no garantizan la conversión — esta requiere que el corazón cambie su jerarquía de valores, no solo que la mente acepte la doctrina.",
+      ],
+    correctAnswer: 3,
+  },
+];
+
+// Evalúa tu aprendizaje 3
+export const evalua_aprendizaje_3Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "De los principios estudiados en las semanas 6–8, ¿cuál de los siguientes pertenece específicamente a D&C 38:27?",
+    options: [
+        "'Si no sois uno, no sois míos'.",
+        "'Si estáis preparados, no temeréis'.",
+        "'Abrid vuestra boca y no la cerréis'.",
+        "'El campo ya está listo para la siega'.",
+      ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "Según D&C 40:2, ¿qué dos razones específicas explican por qué James Covill no cumplió su promesa al Señor?",
+    options: [
+      "Falta de fe en el profeta y dudas sobre la autoridad del sacerdocio.",
+      "Temor a la persecución y tener el corazón puesto en las cosas del mundo.",
+      "Influencia de su familia y falta de apoyo de su congregación anterior.",
+      "No entender la doctrina del bautismo y sentirse indigno de recibirlo.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "'El Cristo Viviente' declara que Él vive. ¿Por qué esa declaración importa más que simplemente saber que existió históricamente?",
+    options: [
+      "Porque los datos históricos son suficientes para establecer la base de la fe cristiana.",
+      "Porque si Cristo vive, intercede por nosotros ahora mismo y Su poder está disponible hoy — no es solo un recuerdo.",
+      "Porque la declaración la firman doce personas y eso la hace más confiable que los registros históricos.",
+      "Porque la existencia histórica de Cristo es cuestionada por muchos historiadores modernos.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "D&C 38:30 y la Pascua de Resurrección comparten una base doctrinal común. ¿Cuál es?",
+    options: [
+      "Que ambos tratan del regreso físico de Cristo a la tierra en los últimos días.",
+      "Que el miedo y la Resurrección solo se relacionan en el contexto de los mártires.",
+      "Que la preparación espiritual y la victoria de Cristo sobre la muerte eliminan las razones últimas del miedo más profundo.",
+      "Que la preparación material para las tribulaciones y la fe en la resurrección son equivalentes.",
+    ],
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Joaquín estudió las semanas 6–8 pero no puede recordar ningún principio que haya aplicado fuera del Seminario. ¿Qué dice eso sobre la diferencia entre aprender y crecer?",
+    options: [
+      "Que el Seminario falló en hacer el contenido relevante para su vida.",
+      "Que Joaquín tiene mala memoria y necesita técnicas de memorización más efectivas.",
+      "Que recibió información pero no la convirtió en cambio — el aprendizaje real siempre deja una huella en cómo vivimos.",
+      "Que eso es normal y no hay problema porque la siembra tarda en dar fruto.",
+    ],
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Sofía identificó que el principio de D&C 30 ('temer a los hombres') describe exactamente algo que ella hace. ¿Qué haría la Sofía más fiel con ese reconocimiento esta semana?",
+    options: [
+      "Compartirlo con sus amigos del Seminario para que también se examinen a sí mismos.",
+      "Escribirlo en su diario y seguir con su vida normal hasta que se sienta lista para cambiar.",
+      "Identificar una situación concreta esta semana donde puede elegir temer al Señor en lugar de temer a las personas.",
+      "Pedirle al maestro que dé una lección especial sobre ese tema para toda la clase.",
+    ],
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Las semanas 6–8 cubrieron el llamado a predicar (D&C 30–36), la unidad y preparación (D&C 37–38) y la fidelidad a los convenios (D&C 39–40). ¿Qué tema común une esos tres bloques?",
+    options: [
+        "Que la Iglesia necesitaba más organización antes de poder avanzar la obra del Señor.",
+        "Que la geografía física del traslado a Ohio fue el evento más importante de ese período.",
+        "Que los primeros miembros de la Iglesia eran menos fieles que los miembros actuales.",
+        "Que el miedo — a los hombres, a los sacrificios, a los costos — es el principal obstáculo que el Señor pide superar para ser Su discípulo.",
+      ],
+    correctAnswer: 3,
+  },
+];
+
+// Tomar notas en las Escrituras
+export const tomar_notas_escriturasQuestions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "Según la lección, Néfi escribió en las planchas 'las cosas de su alma' (2 Nefi 4:15). ¿Cuál es la diferencia entre ese tipo de registro y simplemente copiar versículos?",
+    options: [
+        "Registrar 'las cosas del alma' implica conectar el texto con la experiencia personal — lo que el versículo significa para quien lo vive, no solo lo que dice.",
+        "No hay diferencia práctica — ambos métodos producen el mismo crecimiento espiritual.",
+        "Copiar versículos es más valioso porque preserva el texto exacto sin riesgo de error.",
+        "Copiar versículos es el primer paso antes de poder registrar reflexiones personales.",
+      ],
+    correctAnswer: 0,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "D&C 88:118 dice 'buscad conocimiento con el estudio y también con la fe'. ¿Qué papel juega anotar las Escrituras en ese principio combinado?",
+    options: [
+      "Anotar es la parte del 'estudio' — el componente activo que hace que la lectura sea más que pasiva.",
+      "Anotar pertenece solo a la parte de 'fe' porque es una práctica espiritual, no académica.",
+      "Anotar no tiene relación directa con ese versículo, que habla del estudio de ciencias y no de las Escrituras.",
+      "Anotar es un método opcional que algunos estudiantes prefieren por su estilo de aprendizaje personal.",
+    ],
+    correctAnswer: 0,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "El élder Scott enseñó que si no se registran las impresiones del Espíritu cuando llegan, se pierden. ¿Qué implica eso sobre el momento de anotar durante el estudio?",
+    options: [
+      "Que es mejor anotar todo después de terminar la sesión de estudio para no interrumpir el flujo.",
+      "Que las impresiones del Espíritu deben registrarse en el momento — la dilación las debilita o las borra.",
+      "Que solo las impresiones muy fuertes vale la pena anotar; las pequeñas no tienen importancia.",
+      "Que el momento de anotar no importa mientras se haga en algún punto del día.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "¿Por qué un sistema de marcas simple y personal es más valioso que un sistema muy detallado tomado de un libro de métodos de estudio?",
+    options: [
+      "Porque los sistemas complejos son señal de orgullo intelectual incompatible con la humildad espiritual.",
+      "Porque un sistema que uno diseña y entiende se aplica consistentemente — un sistema ajeno se abandona cuando se vuelve complicado.",
+      "Porque los sistemas complejos están diseñados para adultos y no funcionan para jóvenes.",
+      "Porque los libros de métodos de estudio nunca consideran el estudio de las Escrituras en sus diseños.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Camila tiene sus Escrituras sin ninguna marca ni nota después de dos años de Seminario. Quiere empezar esta semana pero le parece abrumador. ¿Cuál es el primer paso más pequeño y más concreto que podría dar?",
+    options: [
+      "Comprar Escrituras nuevas con más margen para que sea más fácil escribir.",
+      "Leer primero toda la sección de D&C que está estudiando sin marcar nada para entenderla completamente antes.",
+      "Elegir un solo versículo de la lección de hoy y escribir en el margen una frase sobre por qué le importa ahora mismo.",
+      "Pedirle al maestro que le diga cuáles versículos vale la pena marcar para no equivocarse.",
+    ],
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Mateo dice que prefiere leer las Escrituras en el celular porque 'en papel no puedo marcar sin arruinarlo'. Según el principio de la lección, ¿qué herramienta de Gospel Library resuelve exactamente ese problema?",
+    options: [
+      "No hay solución — las Escrituras digitales no permiten anotaciones.",
+      "Debe leer en papel porque las anotaciones digitales no tienen el mismo valor espiritual.",
+      "La función de notas y subrayado de Gospel Library permite anotar versículos en digital con el mismo principio que en papel.",
+      "Debe alternar entre papel y digital según el día para desarrollar ambos hábitos.",
+    ],
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Néfi escribía 'las cosas de su alma' y el élder Scott decía que anotar preserva revelación personal. ¿Qué principio común sobre el estudio de las Escrituras forman esas dos enseñanzas juntas?",
+    options: [
+        "Que el estudio más valioso es el que produce más texto escrito al final.",
+        "Que las Escrituras son más útiles cuando se estudian en grupo que individualmente.",
+        "Que las anotaciones de otros pueden reemplazar el estudio propio si son lo suficientemente profundas.",
+        "Que el estudio de las Escrituras no es solo un acto de lectura sino un acto de diálogo — uno lleva su vida al texto y registra lo que el texto responde.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
 // ============================================================================
 // SEMANA 9 — 28 de Abril al 4 de Mayo
-// Bloque: Doctrina y Convenios 37–40
-// Jueves 1 y Viernes 2 de Mayo: FERIADOS
 // ============================================================================
 
-// Lección 51: Doctrina y Convenios 37; 38:1–9, 28–33
-// Tema: El mandamiento de congregarse y el amor de Cristo por los santos
-export const dc37_38_parte1Questions: Question[] = [
+// Lección 55 — D&C 41
+export const dc41Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "En diciembre de 1830 el Señor mandó a los santos trasladarse de Nueva York a Ohio. ¿Qué sacrificio concreto implicaba ese mandato para las familias que lo obedecieron?",
+    question:
+      "D&C 41:11 describe a Edward Partridge con dos cualidades específicas. ¿Cuáles son?",
     options: [
-      "Solo un viaje de unos días sin consecuencias permanentes",
-      "Dejar granjas, hogares, trabajos y comunidades por obediencia a un mandato que no entendían completamente",
-      "Un cambio menor que el Señor hizo fácil para quienes eran fieles",
-      "El traslado era voluntario y sin costo real para quienes no querían ir"
-    ],
-    correctAnswer: 1
+        "Corazón puro delante del Señor y sin engaño — como Natanael de la Biblia.",
+        "Mucha experiencia religiosa previa y educación formal en teología.",
+        "Fidelidad al diezmo y asistencia perfecta a las reuniones de la Iglesia.",
+        "Gran habilidad administrativa y conocimiento de las finanzas de la Iglesia.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 38:1–2 describe a Cristo como 'el mismo que conoce todas las cosas, porque todas las cosas están presentes ante mis ojos'. ¿Qué consuelo ofrece eso en medio de una situación difícil o incierta?",
+    question:
+      "D&C 41:5 establece una distinción entre dos tipos de personas. ¿Cuál es esa distinción?",
     options: [
-      "Que Dios nos observa para juzgarnos por cada error cometido",
-      "Que nada de lo que vivimos le es desconocido a Él — enfrenta nuestras situaciones con conocimiento completo, no a ciegas",
-      "Que Dios ya decidió el resultado de nuestra vida y no podemos cambiarlo",
-      "Que el conocimiento de Dios reemplaza la necesidad de que nosotros tomemos decisiones"
+      "El que tiene fe y el que no la tiene.",
+      "El que fue bautizado antes de 1831 y el que fue bautizado después.",
+      "El que recibe la ley del Señor y la hace versus el que dice recibirla pero no la hace.",
+      "El que tiene un llamamiento formal y el que sirve sin un cargo asignado.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Alguna vez recibiste un consejo de un líder o del Señor que no entendiste completamente pero obedeciste de todas formas? ¿Qué pasó después?",
+    question:
+      "El Señor describe a Partridge como alguien 'en quien no hay engaño'. ¿Por qué esa cualidad de integridad es más importante que la experiencia o el talento para un cargo de responsabilidad?",
     options: [
-      "Nunca obedecí sin entender porque me parece irresponsable actuar sin razón suficiente",
-      "Sí — y con el tiempo vi el sentido de ese consejo o recibí paz por haberlo seguido",
-      "Siempre espero entender completamente antes de obedecer cualquier consejo",
-      "La obediencia sin entendimiento solo es válida para niños pequeños"
+      "Porque la integridad es la cualidad más fácil de desarrollar y todos la pueden tener rápidamente.",
+      "Porque quien tiene experiencia pero no integridad puede usar esa experiencia para su propio beneficio en lugar del bien de los demás.",
+      "Porque el Señor prefiere a personas sin experiencia para que no dependan de sus propias capacidades.",
+      "Porque la integridad es un don espiritual que no puede aprenderse, a diferencia de la experiencia.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "D&C 38:30 dice: 'si estáis preparados, no temeréis'. ¿Qué tipo de preparación hace referencia ese versículo?",
+    question:
+      "D&C 41:5 dice que el verdadero discípulo no solo recibe la ley sino que la hace. ¿Qué diferencia doctrinal hay entre esas dos acciones — recibir y hacer?",
     options: [
-      "Preparación material — comida, agua y suministros de emergencia",
-      "Preparación espiritual — convenios activos, hábitos diarios de oración y estudio",
-      "Preparación académica — conocer bien las doctrinas teológicas",
-      "Preparación social — estar rodeado de muchos miembros activos de la Iglesia"
+      "No hay diferencia real — quien recibe la ley genuinamente la hará automáticamente.",
+      "Recibir es intelectual — conocer y aceptar la doctrina; hacer es vital — convertir ese conocimiento en acción y en carácter.",
+      "Hacer es más importante en los primeros años de membresía; recibir lo es en la vejez.",
+      "Recibir aplica a las doctrinas y hacer aplica solo a los mandamientos formales como el diezmo.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿En qué área de tu vida sentís que la preparación te daría más paz frente al futuro — en lo espiritual, lo académico, lo familiar o algún desafío concreto?",
+    question:
+      "Agustín se comporta diferente cuando está con sus amigos de la Iglesia que cuando está en la escuela — más paciente con unos, más agresivo con otros. Según el estándar de Edward Partridge en D&C 41:11, ¿cómo describiría el Señor esa situación?",
     options: [
-      "En lo académico porque las calificaciones me generan mucha ansiedad",
-      "En lo espiritual porque siento que mis hábitos son inconsistentes",
-      "En lo familiar porque hay tensiones que no sé cómo manejar",
-      "En el área que siento más descuidada ahora mismo"
+      "Como una adaptación social normal que no tiene implicaciones espirituales.",
+      "Como una forma de engaño — ser diferente según quién mira es exactamente lo opuesto de ser 'alguien sin engaño'.",
+      "Como una señal de madurez — saber adaptar el comportamiento al contexto social.",
+      "Como algo que solo importa en los líderes de la Iglesia, no en los miembros comunes.",
     ],
-    correctAnswer: 3
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "El Señor prometió a los santos en D&C 38:32 que serían 'investidos con poder de lo alto' si se trasladaban. ¿Cómo relacionas esa promesa con el sacrificio que se les pedía?",
+    question:
+      "Valentina dice que conoce perfectamente la doctrina del amor y del servicio, pero rara vez actúa según eso en casa. Según D&C 41:5, ¿en qué categoría la ubica el Señor?",
     options: [
-      "Que la promesa hacía el sacrificio fácil y sin costo real",
-      "Que las bendiciones más grandes del Señor suelen requerir los sacrificios más costosos",
-      "Que la promesa era solo para los santos de esa época específica",
-      "Que el poder del cielo llega automáticamente sin que debamos hacer nada de nuestra parte"
+      "Como alguien que está creciendo espiritualmente a su propio ritmo.",
+      "Como alguien que dice recibir la ley pero no la hace — lo cual el Señor describe directamente como no ser Su discípula.",
+      "Como alguien con un llamamiento espiritual alto pero circunstancias difíciles.",
+      "Como alguien a quien el Señor entiende porque el hogar siempre es el lugar más difícil para practicar el evangelio.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "El llamado de Edward Partridge (D&C 41) y el de Sidney Rigdon (D&C 35) comparten una característica. ¿Cuál es el principio común que ilustran ambos llamados?",
+    options: [
+        "Que el Señor siempre llama a personas con experiencia religiosa previa para los cargos más importantes.",
+        "Que los cargos del sacerdocio requieren aprobación de la congregación antes de ser válidos.",
+        "Que los primeros llamamientos de la Iglesia restaurada fueron todos excepcionales y no sirven de patrón hoy.",
+        "Que el Señor llama según la condición del corazón — en Partridge la integridad, en Rigdon los dones consagrados — y esa es la cualidad que importa más.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección 52: Doctrina y Convenios 38:15–27, 34–42
-// Tema: Principios de unidad, igualdad y preparación en Sion
-export const dc38_parte2Questions: Question[] = [
+// Lección 56 — D&C 42, Parte 1
+export const dc42_parte1Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "D&C 38:27 dice: 'Sed uno; y si no sois uno, no sois míos.' ¿Qué tan exigente es esa condición y por qué el Señor la hace tan absoluta?",
+    question:
+      "D&C 42 es conocida históricamente como 'la ley de la Iglesia'. ¿En qué lugar y mes fue revelada según el contexto histórico?",
     options: [
-      "Es una exigencia retórica sin implicaciones reales para la vida en la Iglesia",
-      "Es absolutamente exigente porque la desunión destruye la capacidad de la Iglesia de avanzar la obra del Señor",
-      "Solo aplica a los líderes de la Iglesia, no a los miembros comunes",
-      "Se refiere solo a la unidad doctrinal, no a las relaciones personales"
-    ],
-    correctAnswer: 1
+        "En Kirtland, Ohio, en febrero de 1831.",
+        "En Palmyra, Nueva York, en marzo de 1830.",
+        "En Independence, Misuri, en julio de 1831.",
+        "En Nauvoo, Illinois, en enero de 1841.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 38:24–25 dice que debemos estimar al hermano 'como a ti mismo'. ¿En qué situación concreta de tu vida es más difícil aplicar ese principio?",
+    question:
+      "D&C 42:14 establece una condición específica para enseñar el evangelio. ¿Cuál es?",
     options: [
-      "Con personas que me caen bien porque es fácil y no requiere esfuerzo real",
-      "Con personas que me han lastimado, que son difíciles de tratar, o con quienes tengo fricciones",
-      "Con personas de otras culturas o países porque las diferencias son muchas",
-      "Con los líderes de la Iglesia porque tienen más autoridad que yo"
+      "Que el maestro tenga un llamamiento formal del obispo antes de cada lección.",
+      "Que el maestro haya memorizado los versículos del Dominio de la Doctrina relevantes.",
+      "Que el maestro enseñe por el Espíritu — si no recibe el Espíritu, no debe enseñar.",
+      "Que el maestro cuente con la aprobación de los padres de los alumnos antes de enseñar.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Alguna vez la desunión dentro de un grupo — en la escuela, en la familia, en la Iglesia — impidió que algo bueno se lograra? ¿Qué aprendiste de esa experiencia?",
+    question:
+      "D&C 42:22–23 habla de adulterio 'en el corazón' al mirar con codicia. ¿Qué nivel de la vida humana regula la ley del Señor, más allá del comportamiento externo?",
     options: [
-      "Que la desunión es inevitable y no tiene solución práctica",
-      "Que la desunión divide la energía y el enfoque, haciendo imposible lo que la unidad haría posible",
-      "Que la desunión solo importa en grupos grandes, no en grupos pequeños",
-      "Que los conflictos dentro de los grupos siempre producen resultados mejores a largo plazo"
+      "Solo el comportamiento visible y verificable, porque Dios no juzga los pensamientos.",
+      "El nivel de los deseos y los pensamientos — la pureza del discípulo comienza en lo interno antes de manifestarse externamente.",
+      "El nivel de las intenciones pero no de los pensamientos espontáneos que uno no controla.",
+      "Solo los actos premeditados con tiempo suficiente para haberlos evitado.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "D&C 38:34–42 instruye sobre cómo manejar los bienes y ayudar a los pobres. ¿Qué principio económico subyace a esa instrucción?",
+    question:
+      "D&C 42:61 promete 'revelación sobre revelación' a quienes pidan. ¿A qué condición está ligada esa promesa según el versículo?",
     options: [
-      "Que la propiedad privada debe eliminarse para crear igualdad perfecta",
-      "Que somos mayordomos de lo que Dios nos da y tenemos responsabilidad de usarlo para bendecir a otros",
-      "Que el Señor solo bendice económicamente a los que ya son ricos",
-      "Que dar a los pobres es opcional y cada quien decide según su conveniencia"
+      "A pagar el diezmo completo durante al menos un año previo.",
+      "A haber completado el programa de Seminario de cuatro años.",
+      "A pedir — la promesa responde a la acción de preguntar con fe, no llega automáticamente.",
+      "A ser mayor de 18 años y tener el Sacerdocio Melquisedec activo.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Hay alguien en tu entorno cercano con quien necesites trabajar la unidad esta semana — en la familia, en el barrio, en el Seminario? ¿Qué primer paso concreto darías?",
+    question:
+      "Nicolás tiene el hábito de ver contenido en internet que sabe que no debería ver, aunque nunca actuó físicamente mal. Según D&C 42:22–23, ¿cómo evalúa el Señor esa situación?",
     options: [
-      "Esperar a que la otra persona tome la iniciativa primero",
-      "Dar un paso pequeño pero real — una conversación, un gesto, un intento genuino de entender",
-      "Hablar del conflicto con otras personas antes de hablar con esa persona",
-      "Orar por la situación pero sin hacer nada concreto todavía"
+      "Como algo sin consecuencias espirituales mientras no haya actos físicos inapropiados.",
+      "Como una debilidad humana normal que el Señor comprende completamente sin consecuencias.",
+      "Como un asunto de adulterio en el corazón — la ley opera en el nivel de los pensamientos y deseos, no solo de los actos.",
+      "Como algo que solo importa cuando la persona está casada, no durante la adolescencia.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "¿Qué relación hay entre la unidad que el Señor pide en D&C 38:27 y la construcción de Sion como sociedad?",
+    question:
+      "Renata prepara una lección para la clase pero la escribe de memoria sin orar ni pedir al Espíritu antes de enseñar. Según D&C 42:14, ¿qué problema concreto anticipa el Señor con esa preparación?",
     options: [
-      "Sion es un lugar físico que no tiene relación con las actitudes de las personas",
-      "Sion no puede construirse sin personas que hayan aprendido a estar unidas — empieza en las relaciones, no en los edificios",
-      "La unidad solo importa después de que Sion esté construida, no antes",
-      "Sion es principalmente una doctrina teológica sin implicaciones sociales prácticas"
+      "Que su lección tendrá errores doctrinales por no haber consultado las fuentes correctas.",
+      "Que la lección puede estar bien preparada en papel pero faltará el poder del Espíritu que transforma el conocimiento en testimonio.",
+      "Que sin orar primero, el llamamiento de Renata como maestra no es válido para esa clase.",
+      "Que sus compañeros notarán que no se preparó espiritualmente y eso dañará su reputación.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 42:14 (enseñar por el Espíritu) y D&C 42:22–23 (pureza en los pensamientos) son dos leyes distintas de la misma revelación. ¿Qué principio común subyace a ambas?",
+    options: [
+        "Que las leyes del evangelio se dividen en las que regulan lo público y las que regulan lo privado.",
+        "Que el Señor distingue entre leyes para líderes y leyes para miembros comunes.",
+        "Que la ley de la castidad y la ley de enseñanza son los dos mandamientos más importantes de D&C 42.",
+        "Que el evangelio opera desde adentro hacia afuera — la autenticidad interna (pureza, Espíritu) es la condición de la efectividad externa (enseñar, servir).",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección 53: Doctrina y Convenios 39–40
-// Tema: El peligro de postergar el arrepentimiento y las promesas a James Covill
-export const dc39_40Questions: Question[] = [
+// La importancia de la formación académica
+export const importancia_educacionQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "James Covill era un ministro que había seguido a Cristo durante cuarenta años y bautizó a miles de personas. ¿Por qué es sorprendente entonces que el Señor le pidiera bautizarse de nuevo?",
+    question:
+      "D&C 130:18–19 dice que la inteligencia adquirida en esta vida 'se levantará con nosotros en la resurrección'. ¿Qué condición adicional menciona ese versículo para recibir ventaja en el mundo venidero?",
     options: [
-      "Porque cuarenta años de servicio deberían ser suficientes para cualquier persona",
-      "Porque demuestra que el bautismo con autoridad del sacerdocio restaurado es diferente al que ya había administrado",
-      "Porque James ya era perfecto espiritualmente y no necesitaba ningún cambio",
-      "Porque el Señor quería humillar a James públicamente"
-    ],
-    correctAnswer: 1
+        "Adquirir conocimiento mediante diligencia y obediencia — ambas condiciones juntas.",
+        "Haber obtenido un título universitario formal antes de los 30 años.",
+        "Solo la obediencia — el estudio por sí solo no produce ventaja espiritual.",
+        "Solo la diligencia — la obediencia aplica a las ordenanzas, no al estudio académico.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 39:10 dice que James debía 'ser bautizado con agua, y entonces le sería dado el Espíritu Santo'. ¿Qué dice esa secuencia sobre la relación entre la acción obediente y los dones espirituales?",
+    question:
+      "D&C 88:118 manda buscar conocimiento 'de los mejores libros' y también 'con la fe'. ¿Qué ocurre cuando se separan esas dos cosas — cuando alguien estudia mucho pero sin fe, o tiene fe pero sin estudiar?",
     options: [
-      "Que los dones espirituales llegan antes de la obediencia para motivar la acción",
-      "Que la obediencia a la ordenanza precede al don — primero el acto de fe, luego el don",
-      "Que el Espíritu Santo ya estaba con James y el bautismo no cambiaría nada",
-      "Que el Espíritu Santo y el bautismo son independientes y no tienen relación causal"
+      "Nada problemático — ambas formas producen crecimiento espiritual aunque de manera diferente.",
+      "El estudio sin fe puede volverse arrogante; la fe sin estudio puede volverse superficial — cada una sola es incompleta.",
+      "El estudio sin fe es más peligroso que la fe sin estudio.",
+      "La fe sin estudio es más valorada por el Señor porque demuestra mayor humildad.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "D&C 40:2 revela que James Covill 'recibió la palabra con gozo, pero fue tentado del diablo, y temió la persecución.' ¿Te resulta familiar esa secuencia — gozo inicial seguido de retroceso?",
+    question:
+      "Si la inteligencia adquirida 'se levanta con nosotros en la resurrección', ¿qué implicación tiene eso para la actitud de un estudiante hacia materias que no le gustan?",
     options: [
-      "No, nunca recibí algo con gozo y luego retrocedí por el miedo",
-      "Sí — hay situaciones donde empiezo con entusiasmo espiritual y después el miedo o la presión me hacen retroceder",
-      "Esa secuencia solo ocurre en personas con fe débil, no en miembros comprometidos",
-      "El gozo inicial siempre garantiza que la persona perseverará hasta el final"
+      "Que solo vale la pena aprender las materias que disfruta porque esas son las que desarrollan dones genuinos.",
+      "Que el aprendizaje de cualquier materia con diligencia es una inversión eterna — no termina al graduarse.",
+      "Que las materias seculares no tienen valor en la resurrección porque pertenecen a esta vida.",
+      "Que el Señor nivelará el aprendizaje de todos en la resurrección sin importar el esfuerzo individual.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Cuál fue la raíz del rechazo de James según D&C 40:2 — no fue duda doctrinal sino algo distinto. ¿Qué fue?",
+    question:
+      "El presidente Nelson es médico y músico — dos campos muy diferentes. ¿Qué habilidad dijo él haber aprendido que es más valiosa que el contenido específico de cualquier materia?",
     options: [
-      "No entendió bien la doctrina del bautismo",
-      "Temor a la persecución y al 'cuidado por las cosas del mundo'",
-      "Recibió una revelación contraria que lo hizo cambiar de opinión",
-      "El obispo no procesó su solicitud de bautismo a tiempo"
+      "La capacidad de memorizar grandes cantidades de información con precisión.",
+      "La habilidad de aprender a aprender — abordar cualquier tema nuevo con método, curiosidad y perseverancia.",
+      "La disciplina de estudiar más horas que los demás sin cansarse.",
+      "La capacidad de enseñar lo que sabe a otras personas de manera efectiva.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Hay algo que el Señor te ha pedido hacer que recibiste con gozo inicial pero que todavía no terminás de hacer por el miedo a las consecuencias? ¿Qué sería un primer paso concreto?",
+    question:
+      "Tomás odia matemáticas y dice que no las necesitará nunca. Según D&C 130:18–19, ¿qué argumento del evangelio le daría más perspectiva sobre ese razonamiento?",
     options: [
-      "No existe tal cosa en mi vida porque cuando el Señor me pide algo lo hago de inmediato",
-      "Sí — hay algo donde el gozo inicial chocó con el costo real y todavía estoy posponiendo",
-      "El miedo a las consecuencias siempre es una señal de que el Señor no quería que lo hiciera",
-      "Las cosas que el Señor pide nunca producen miedo si uno tiene suficiente fe"
+      "Que el Señor le dará matemáticas en la resurrección si las necesita para Su obra.",
+      "Que la inteligencia adquirida con diligencia y obediencia se lleva a la otra vida — incluso lo que hoy parece inútil puede tener valor eterno que todavía no ve.",
+      "Que las matemáticas son necesarias para administrar el dinero en la vida adulta.",
+      "Que si el presidente Nelson estudió medicina siendo músico, Tomás también puede aprender lo que no le gusta.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "El caso de James Covill es una advertencia sobre postergar el arrepentimiento o la obediencia. ¿Por qué el momento de aceptar una invitación del Señor importa tanto?",
+    question:
+      "Camila estudia mucho para los exámenes pero nunca ora antes de estudiar ni pide al Señor que ilumine su comprensión. Según D&C 88:118, ¿qué dimensión del estudio está omitiendo?",
     options: [
-      "Porque Dios pierde la paciencia rápidamente y no vuelve a invitar",
-      "Porque el 'momento de receptividad' espiritual no siempre regresa — el corazón se puede endurecer con el tiempo",
-      "Porque las consecuencias del retraso son siempre irreversibles",
-      "Porque el Señor solo invita una vez y después sigue con otra persona"
+      "La dimensión social — no estudia en grupo y eso limita su aprendizaje.",
+      "La dimensión formal — necesita un llamamiento de la Iglesia para que su estudio tenga valor espiritual.",
+      "La dimensión de la fe — está estudiando 'con el estudio' pero sin 'la fe' que el Señor pone junto al estudio como condición.",
+      "La dimensión doctrinal — necesita leer las Escrituras además de sus materias para que el estudio sea completo.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 88:118 (estudiar con estudio Y fe) y D&C 130:18–19 (la inteligencia se va con nosotros) juntos forman una visión completa de la educación. ¿Cuál es el principio unificador de esas dos enseñanzas?",
+    options: [
+        "Que la educación académica es más importante que la educación espiritual en esta etapa de la vida.",
+        "Que el Señor recompensa el estudio académico con bendiciones económicas en esta vida.",
+        "Que la educación formal y la fe espiritual son dos caminos paralelos que nunca se cruzan.",
+        "Que el aprendizaje es una responsabilidad eterna y espiritual — no termina en la escuela ni en esta vida — y la fe lo transforma de obligación en mayordomía.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección 180: Tomar notas en las Escrituras
-// Tema: Técnicas para marcar y anotar las Escrituras de forma efectiva
-export const tomar_notas_escriturasQuestions: Question[] = [
+// Lección 57 — D&C 42:29–39
+export const dc42_29_39Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "¿Cuál es la diferencia entre leer las Escrituras y estudiarlas activamente con notas y marcas?",
+    question:
+      "D&C 42:30–31 instruye a los santos sobre qué hacer si obtienen 'más de lo necesario para su sustento'. ¿A quién debían entregar ese excedente y para qué propósito?",
     options: [
-      "No hay diferencia real si prestás atención mientras leés",
-      "Anotar y marcar involucra el pensamiento activo — obliga a decidir qué importa y por qué, lo que profundiza la comprensión",
-      "Marcar las Escrituras es solo para personas muy organizadas",
-      "Las notas solo sirven para los maestros que preparan lecciones"
-    ],
-    correctAnswer: 1
+        "Al obispo, para administrarlo en una tesorería destinada a los que no tienen.",
+        "Al profeta, para financiar la traducción de la Biblia.",
+        "A sus vecinos más pobres directamente, sin intermediarios eclesiásticos.",
+        "A una cuenta de ahorro personal para futuros períodos de escasez.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "¿Qué tipos de cosas vale la pena anotar o marcar al estudiar las Escrituras?",
+    question:
+      "D&C 42:38 dice 'en dar a los pobres hacéis para mí'. ¿A qué enseñanza de Jesús en el Nuevo Testamento se conecta directamente ese principio?",
     options: [
-      "Solo los versículos del Dominio de la Doctrina porque son los más importantes",
-      "Verdades doctrinales, conexiones entre versículos, respuestas a preguntas personales, y aplicaciones a tu situación actual",
-      "Solo los versículos que el maestro de Seminario indica que son importantes",
-      "Los versículos más conocidos para que sean más fáciles de encontrar"
+      "A la parábola del sembrador, donde la semilla cae en tierra buena.",
+      "Al Sermón del Monte, donde se promete que los misericordiosos alcanzarán misericordia.",
+      "A Mateo 25:40: 'en cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis'.",
+      "A Juan 3:16, donde el amor de Dios se expresa en el don de Su Hijo.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Alguna vez volviste a leer notas o marcas que hiciste en las Escrituras hace tiempo y notaste algo que no recordabas? ¿Qué pasó?",
+    question:
+      "La ley de consagración de D&C 42 nunca fue implementada plenamente por los santos de 1831. ¿Qué principio detrás de esa ley sí puede aplicarse hoy sin una sociedad de consagración formal?",
     options: [
-      "Nunca anoto nada porque no quiero ensuciar las páginas",
-      "Sí — ver lo que me importó antes me recuerda etapas de mi fe y cómo crecí",
-      "Las notas viejas siempre están equivocadas porque uno cambia con el tiempo",
-      "Nunca volví a revisar notas porque ya leí esas páginas una vez"
+      "Ninguno — la ley era exclusiva para esa época y no tiene aplicación en el mundo moderno.",
+      "El principio de mayordomía: lo que tenemos — tiempo, dinero, talento — son bienes del Señor que administramos con responsabilidad hacia quienes tienen necesidad.",
+      "El principio de que toda la propiedad privada debe cederse voluntariamente a la Iglesia.",
+      "El principio de que el Señor proveerá milagrosamente a quienes donen todo sin guardar reservas.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Qué sistema de marcas simple podrías usar en tus Escrituras que te ayude a distinguir entre distintos tipos de verdades — por ejemplo, promesas, mandamientos, atributos de Cristo?",
+    question:
+      "D&C 42:42 advierte contra la 'ociosidad'. ¿Qué diferencia hay entre el descanso legítimo y la ociosidad que el Señor condena?",
     options: [
-      "Un sistema tan complejo que tome más tiempo entenderlo que el estudio en sí",
-      "Un sistema simple y personal — colores o símbolos que yo pueda entender y aplicar consistentemente",
-      "No usar ningún sistema porque las marcas generan confusión",
-      "Copiar el sistema exacto que usa el maestro de Seminario sin adaptarlo"
+      "No hay diferencia — ambas implican no estar trabajando activamente.",
+      "Solo la ociosidad visible frente a otros es problemática; el descanso en privado siempre está bien.",
+      "El descanso renueva la capacidad de servir mejor; la ociosidad es una actitud de indiferencia hacia la responsabilidad y hacia las necesidades de los demás.",
+      "La ociosidad solo es un pecado cuando se trata de trabajo económico, no de actividades espirituales.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo podrías usar las notas en las Escrituras para conectar lo que estudiás en Seminario con lo que estás viviendo en tu vida esa semana?",
+    question:
+      "Joaquín tiene mucho tiempo libre en vacaciones pero lo pasa completamente en entretenimiento. Según D&C 42:38 y el principio de mayordomía, ¿qué pregunta debería hacerse sobre ese tiempo?",
     options: [
-      "Solo anotando las referencias que el maestro menciona durante la clase",
-      "Escribiendo al margen cómo el versículo aplica a una situación concreta de mi semana",
-      "Copiando el versículo completo para memorizarlo mejor",
-      "Dibujando imágenes que representen la escena histórica descrita"
+      "Si está descansando lo suficiente para no agotarse cuando vuelva la rutina.",
+      "Si sus padres aprueban la cantidad de tiempo que dedica al entretenimiento.",
+      "Si hay alguien cerca que podría beneficiarse de ese tiempo que él está administrando como si fuera solo suyo.",
+      "Si el contenido que consume durante el entretenimiento es apropiado según los estándares de la Iglesia.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "¿Qué hábito concreto de estudio con notas vas a adoptar esta semana? ¿Cuándo específicamente lo harás?",
+    question:
+      "Sofía quiere contribuir más al bienestar de otros pero dice 'no tengo dinero para dar'. Según el principio de consagración de D&C 42, ¿qué le diría el Señor sobre esa limitación?",
     options: [
-      "Marcar todos los versículos que lea para no perderse ninguno importante",
-      "Elegir un hábito simple y específico — por ejemplo, anotar una aplicación personal por sesión de estudio",
-      "Esperar a comprar Escrituras nuevas antes de empezar a anotar",
-      "Solo anotar cuando sienta que un versículo es muy importante, que es algo raro"
+      "Que debería esperar a tener ingresos propios antes de pensar en contribuir.",
+      "Que la consagración incluye tiempo, atención y habilidades — recursos que Sofía sí tiene aunque no tenga dinero.",
+      "Que el diezmo es suficiente hasta que tenga recursos económicos propios.",
+      "Que la contribución económica es la única forma válida de vivir el principio de consagración.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 42:38 ('dar a los pobres es dar al Señor') y la ley de consagración juntos apuntan al mismo principio. ¿Cuál es?",
+    options: [
+        "Que el Señor necesita recursos económicos de Sus discípulos para financiar Su obra en la tierra.",
+        "Que la ley de consagración es la más importante de todas las leyes reveladas en D&C 42.",
+        "Que dar a los pobres garantiza bendiciones económicas proporcionales en esta vida.",
+        "Que la relación entre el discípulo y el Salvador se mide concretamente en cómo trata a las personas que tienen menos — el amor al Señor y el amor al prójimo son la misma acción.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
 // ============================================================================
 // SEMANA 10 — 5 al 11 de Mayo
-// Bloque: Doctrina y Convenios 41–44
+// D&C 45 + Preparación para la Vida
 // ============================================================================
 
-// Lección: Doctrina y Convenios 41 (Pasaje)
-// Tema: El Señor llama al primer obispo de la Iglesia
-export const dc41Questions: Question[] = [
+// Lección 58 — D&C 45:1–8
+export const dc45_1_8Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "D&C 41 fue dada en Kirtland, Ohio, en febrero de 1831. El Señor llamó a Edward Partridge como el primer obispo de la Iglesia restaurada. ¿Qué dice ese llamado sobre el ritmo de la Restauración?",
+    question:
+      "D&C 45:3–5 describe al Salvador intercediendo ante el Padre. ¿Qué promete específicamente hacer por Sus discípulos en esa intercesión?",
     options: [
-      "Que la Iglesia tardó demasiado en organizar el sacerdocio correctamente",
-      "Que la Restauración avanzó paso a paso — cada revelación añadía organización y autoridad según las necesidades del momento",
-      "Que el obispado fue restaurado antes que cualquier otro cargo del sacerdocio",
-      "Que Edward Partridge se autopropuso para el cargo y el Señor lo aceptó"
-    ],
-    correctAnswer: 1
+        "Purificarlos y presentarlos ante el Padre sin mancha y sin culpa.",
+        "Defenderlos de toda persecución y garantizarles prosperidad temporal.",
+        "Revelarles toda la doctrina del evangelio antes del juicio final.",
+        "Asignarles un ángel guardián personal hasta la Segunda Venida.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 41:1 dice que el Señor es 'misericordioso y compasivo para con los que le temen y se deleitan en servirle con constancia'. ¿Qué tres características describe ese versículo?",
+    question:
+      "D&C 45 fue revelada en marzo de 1831, cuando los santos en Ohio enfrentaban oposición creciente. ¿Con qué presentación del Salvador comienza esa revelación — qué título usa Él para identificarse?",
     options: [
-      "Obediencia, servicio y constancia",
-      "Temor reverente, deleite en el servicio y constancia en la devoción",
-      "Fe, esperanza y caridad",
-      "Oración, ayuno y diezmo"
+      "Como el Gran Legislador que vino a establecer la ley de la Iglesia.",
+      "Como el Juez Supremo que vendrá a separar al trigo de la cizaña.",
+      "Como el Defensor y Abogado que clama al Padre por Sus discípulos.",
+      "Como el Rey de reyes que gobernará la tierra durante el Milenio.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "El Señor describe a Edward Partridge como 'un hombre que no tiene engaño; es un hombre sin hipocresía'. ¿Qué dice eso sobre las cualidades que el Señor valora para un cargo de responsabilidad?",
+    question:
+      "La imagen del Salvador como Abogado o Intercesor en D&C 45:3–5 contrasta con la imagen cultural del juicio como algo que uno enfrenta solo. ¿Qué cambia doctrinalmente esa imagen para alguien que teme el juicio?",
     options: [
-      "Que el Señor valora principalmente la educación y la experiencia administrativa",
-      "Que la integridad personal — ser quien uno aparenta ser — es más importante que los talentos o el cargo previo",
-      "Que el Señor solo llama a personas con décadas de servicio previo en la Iglesia",
-      "Que la ausencia de engaño es un requisito solo para el obispado, no para otros cargos"
+      "Que el juicio ya no existe — el Salvador lo canceló con la Expiación.",
+      "Que el juicio sigue existiendo, pero no se enfrenta solo: hay un Intercesor que conoce perfectamente la situación de cada persona y aboga con el poder de Su Expiación.",
+      "Que el Salvador actúa como juez y como abogado a la vez, lo cual hace el juicio innecesario.",
+      "Que la intercesión del Salvador solo aplica a quienes son perfectos, no a los que han cometido errores graves.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿Cuánta integridad hay entre lo que sos en público y lo que sos en privado? ¿Hay áreas donde existe una brecha entre la imagen que mostrás y quien realmente sos?",
+    question:
+      "D&C 45:8 promete que los discípulos pueden 'tener igual poder para hacer lo que yo hice'. ¿Qué implica esa promesa sobre el propósito final del discipulado?",
     options: [
-      "No tengo ninguna brecha porque siempre soy completamente auténtico",
-      "Sí — hay áreas donde me comporto diferente según quién me esté mirando",
-      "La brecha entre público y privado es inevitable y Dios lo entiende",
-      "Solo los adultos tienen ese tipo de inconsistencias, no los jóvenes"
+      "Que los discípulos podrán hacer milagros físicos equivalentes a los de Cristo.",
+      "Que el objetivo del discipulado no es solo obedecer reglas sino llegar a tener el carácter y el poder de Cristo.",
+      "Que todos los discípulos fieles se convertirán en misioneros de tiempo completo.",
+      "Que la promesa aplica solo a los Apóstoles llamados como testigos especiales.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Qué cambio concreto podés hacer esta semana para cerrar una brecha entre quién sos en apariencia y quién sos realmente?",
+    question:
+      "Valentina siente que no es suficientemente buena para presentarse ante Dios y a veces eso le genera ansiedad religiosa. Según D&C 45:3–5, ¿qué verdad concreta podría transformar esa ansiedad?",
     options: [
-      "Mejorar la imagen pública para que coincida con cómo quiero que me vean",
-      "Cambiar algo en la realidad privada para que coincida con los valores que digo tener",
-      "Aceptar que la brecha siempre existirá y no preocuparse más por eso",
-      "Hablar más sobre integridad con los demás antes de cambiar algo propio"
+      "Que el Señor bajará sus estándares para adaptarlos a lo que ella puede cumplir.",
+      "Que si se esfuerza más, eventualmente será suficientemente buena por sus propios méritos.",
+      "Que no se presentará sola ante el Padre — el Salvador ya está allí, intercediendo y purificando a quienes creen en Su nombre.",
+      "Que la ansiedad religiosa es una señal de que debería participar más activamente en la Iglesia.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "D&C 41:5 promete que quien 'recibe la ley' y 'la hace, es mi discípulo'. ¿Qué diferencia hay entre recibir la ley y hacerla?",
+    question:
+      "Luca dice que la Expiación es 'para cuando uno hace algo muy grave, no para los errores cotidianos'. Según la imagen de Cristo como Intercesor en D&C 45, ¿qué le respondería el Señor a esa visión reducida?",
     options: [
-      "No hay diferencia — recibir la ley implica automáticamente hacerla",
-      "Recibir es intelectual; hacer es vital — el discipulado real exige que el conocimiento se convierta en acción",
-      "Solo los líderes de la Iglesia necesitan hacer la ley; los demás solo necesitan recibirla",
-      "Hacer la ley es opcional si ya se la recibió con sinceridad"
+      "Que tiene razón — la Expiación es más necesaria en los pecados graves que en los errores pequeños.",
+      "Que Cristo intercede activamente por Sus discípulos cada día, no solo en momentos de errores graves — Su rol de Abogado es continuo, no puntual.",
+      "Que los errores cotidianos se resuelven solos con el tiempo y no requieren la Expiación.",
+      "Que debería preocuparse menos por los detalles y enfocarse en las leyes más importantes.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 45:3–5 muestra al Salvador diciendo al Padre 'estos son los que creyeron en mi nombre'. Juan 17:3 dice que la vida eterna es conocer al Padre y al Hijo. ¿Qué principio común forman esas dos enseñanzas?",
+    options: [
+        "Que el objetivo de la fe es acumular suficientes méritos para el juicio.",
+        "Que el Padre y el Hijo tienen roles distintos y la fe debe dirigirse exclusivamente al Padre.",
+        "Que el conocimiento teológico del Padre y del Hijo es el requisito principal para la vida eterna.",
+        "Que la salvación consiste fundamentalmente en ser conocido por el Salvador y llegar a conocer al Padre — es una relación, no solo un logro.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección: Doctrina y Convenios 42, Parte 1
-// Tema: Las leyes y mandamientos para guiar a la Iglesia
-export const dc42_parte1Questions: Question[] = [
+// Lección 59 — D&C 45:9–75, Parte 1
+export const dc45_9_75_parte1Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "D&C 42 fue revelada en febrero de 1831 y es conocida como 'la ley de la Iglesia'. ¿Qué dice el hecho de que el Señor revelara esta ley tan temprano en la historia de la Iglesia?",
+    question:
+      "D&C 45:32 promete que el discípulo fiel 'estará en pie en lugares santos y no será conmovido'. ¿Qué contraste establece ese versículo con lo que les ocurrirá a quienes no están en esos lugares?",
     options: [
-      "Que la Iglesia necesitaba reglas claras porque los miembros se estaban comportando mal",
-      "Que el Señor tenía un diseño claro para Su Iglesia desde el principio y lo reveló según la capacidad de los santos",
-      "Que la ley fue revelada por presión de los santos que pedían reglas más claras",
-      "Que D&C 42 reemplaza todos los mandamientos de las Escrituras anteriores"
-    ],
-    correctAnswer: 1
+        "Que los que estén fuera de esos lugares levantarán la voz y maldecirán a Dios.",
+        "Que los que no estén en lugares santos sufrirán destrucción física inmediata.",
+        "Que los que no estén en lugares santos simplemente no verán las señales de los tiempos.",
+        "Que los que estén fuera dormirán sin darse cuenta de los eventos de los últimos días.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 42:11 dice que los maestros deben enseñar 'por el Espíritu, y si es por el Espíritu, será Escritura'. ¿Qué nivel de responsabilidad eso pone sobre quien enseña el evangelio?",
+    question:
+      "D&C 45:26–27 describe que en los últimos días los corazones de los hombres 'desfallecerán'. ¿Cuál es la razón que el versículo da para ese estado emocional generalizado?",
     options: [
-      "Que cualquier cosa que diga un maestro se convierte automáticamente en Escritura",
-      "Que enseñar el evangelio requiere preparación, pureza de intención y dependencia del Espíritu — no es una tarea casual",
-      "Que los maestros de Seminario tienen más autoridad que los padres en asuntos espirituales",
-      "Que la responsabilidad de enseñar solo cae sobre los líderes con cargos formales"
+      "La escasez económica global que devastará las principales economías del mundo.",
+      "La incapacidad de los gobiernos para mantener el orden y la paz entre las naciones.",
+      "Guerras y rumores de guerras, conmoción en toda la tierra y la sensación de que Cristo tarda en venir.",
+      "La apostasía masiva de las iglesias que dejará a la gente sin guía espiritual.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "D&C 42:22–24 habla sobre la castidad y menciona que el adulterio puede cometerse 'en el corazón'. ¿Qué dice eso sobre el nivel al que opera la ley del Señor?",
+    question:
+      "El Señor revela las señales de los tiempos en D&C 45 no para generar pánico sino con un propósito diferente. ¿Cuál es ese propósito según el principio de la lección?",
     options: [
-      "Que la ley del Señor regula principalmente el comportamiento externo visible",
-      "Que la ley opera en el nivel de los deseos y pensamientos, no solo en los actos — la pureza comienza adentro",
-      "Que pensar en algo no es un pecado mientras no se actúe",
-      "Que la ley de castidad solo aplica a personas casadas"
+      "Para que los santos abandonen sus bienes materiales y se preparen para la fuga.",
+      "Para que los discípulos sepan exactamente cuándo vendrá el Salvador y puedan planificar.",
+      "Para confirmar que el plan del Señor avanza exactamente como lo declaró — cada señal cumplida fortalece la confianza, no el miedo.",
+      "Para que la Iglesia pueda reclutar más misioneros ante la urgencia de los últimos días.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "¿En qué área de la vida de un adolescente de hoy es más relevante la advertencia de D&C 42 sobre la castidad y la pureza mental?",
+    question:
+      "¿Qué significa concretamente 'estar en lugares santos' según D&C 45:32 — no solo en sentido geográfico?",
     options: [
-      "Solo en las relaciones románticas formales como el noviazgo",
-      "En el consumo de contenido digital — lo que se ve, escucha y busca en el celular o computadora",
-      "Solo en la etapa adulta cuando las decisiones tienen consecuencias legales",
-      "En ninguna área específica porque los adolescentes no enfrentan esos desafíos todavía"
+      "Vivir físicamente dentro del perímetro de un templo o edificio de la Iglesia.",
+      "Tener membresía activa en la Iglesia y asistir a todas las reuniones obligatorias.",
+      "Tener convenios activos, hábitos espirituales firmes y un corazón preparado — los lugares santos incluyen el hogar fiel y el corazón comprometido.",
+      "Mudarse a Utah o a una ciudad con alto porcentaje de miembros de la Iglesia.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "D&C 42:45 habla de amar a quienes servimos como Cristo amó. ¿Qué diferencia hay entre servir a alguien y amar a alguien mientras se le sirve?",
+    question:
+      "Agustín ve noticias de guerras y desastres y se llena de ansiedad. Según el principio de D&C 45:26–32, ¿qué actitud diferente podría tener el discípulo preparado frente a esas mismas noticias?",
     options: [
-      "No hay diferencia — servir ya implica amor por definición",
-      "Servir sin amor puede ser una obligación vacía; servir con amor convierte cada acto en una manifestación del carácter del Salvador",
-      "El amor es un sentimiento que puede o no acompañar el servicio, sin cambiar el valor del acto",
-      "Solo el Señor puede servir con amor genuino; los mortales siempre sirven con motivos mixtos"
+      "Ignorarlas completamente porque el Señor no quiere que Sus discípulos se informen del mundo.",
+      "Verlas como evidencia de que el Plan del Señor avanza — confirmación de profecía, no fuente de miedo.",
+      "Usarlas para convencer a sus amigos de que el fin del mundo es inminente.",
+      "Prepararse materialmente con urgencia para el desastre más cercano que vea en las noticias.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "¿Hay alguien en tu vida a quien servís por obligación o rutina pero sin amor genuino? ¿Qué podría cambiar esa dinámica?",
+    question:
+      "Renata vive su espiritualidad solo en momentos de crisis — cuando algo malo ocurre, ora más y estudia las Escrituras; cuando todo está bien, abandona esos hábitos. Según D&C 45:32, ¿qué problema genera ese patrón para cuando lleguen los eventos de los últimos días?",
     options: [
-      "Dejar de servir a esa persona hasta que surja el amor de forma natural",
-      "Orar por amor genuino hacia esa persona y buscar entender su situación antes de juzgarla",
-      "Seguir sirviendo mecánicamente porque las acciones externas no requieren motivaciones internas puras",
-      "Hablar con el obispo para que reasigne el llamamiento a otra persona"
+      "Ningún problema — el Señor entiende que las personas se vuelven a Él en tiempos difíciles.",
+      "Solo un problema de constancia personal sin implicaciones espirituales mayores.",
+      "Que no estará 'en pie en lugares santos' cuando más lo necesite — la preparación no se construye en momentos de crisis sino en los días ordinarios.",
+      "Que perderá el hábito de orar durante los períodos buenos y tendrá que volver a aprenderlo.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 45:26–27 (corazones que desfallecen) y D&C 45:32 (el discípulo que está en pie) describen dos respuestas opuestas a los mismos eventos. ¿Cuál es el factor que explica esa diferencia?",
+    options: [
+        "La ubicación geográfica — los que viven cerca de un templo están mejor protegidos.",
+        "La cantidad de bienes materiales — los que están preparados temporalmente no temen.",
+        "La fe heredada de los padres — los que vienen de familias fieles tienen ventaja innata.",
+        "La preparación espiritual acumulada en los días ordinarios — los convenios activos y los hábitos sólidos producen la firmeza que los eventos no pueden sacudir.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección: Doctrina y Convenios 42:29–39 (Pasaje)
-// Tema: La ley de consagración y el cuidado de los pobres
-export const dc42_29_39Questions: Question[] = [
+// Lección 60 — D&C 45:9–75, Parte 2
+export const dc45_9_75_parte2Questions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "D&C 42:30–31 manda a los santos 'consagrar sus propiedades' para el cuidado de los pobres. ¿Qué principio económico subyace a esa instrucción?",
+    question:
+      "D&C 45:56–57 aplica la parábola de las Diez Vírgenes a los últimos días. Según esos versículos, ¿qué caracteriza a las vírgenes sabias — no el aceite en sí, sino la cualidad que las distingue?",
     options: [
-      "Que la propiedad privada debe eliminarse para crear igualdad perfecta",
-      "Que somos mayordomos de lo que Dios nos da y tenemos responsabilidad de usarlo para bendecir a otros",
-      "Que el dinero en sí es malo y debe distribuirse lo más rápido posible",
-      "Que solo los ricos tienen responsabilidad hacia los pobres"
-    ],
-    correctAnswer: 1
+        "Que recibieron la verdad y tomaron al Espíritu Santo por su guía, y no fueron engañadas.",
+        "Que nacieron en familias con tradición religiosa fuerte.",
+        "Que fueron las primeras en prepararse y llegaron con tiempo de sobra.",
+        "Que tenían lámparas más grandes que las insensatas.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 42:38 dice que 'en dar a los pobres hacéis para mí'. ¿Qué transforma ese versículo en la experiencia de ayudar a alguien necesitado?",
+    question:
+      "D&C 45:66–67 describe la Nueva Jerusalén con tres denominaciones específicas. ¿Cuáles son?",
     options: [
-      "Que ayudar a los pobres es una inversión que Dios devolverá económicamente",
-      "Que en cada acto de servicio genuino hay una dimensión divina — el servicio a otros es servicio al Salvador mismo",
-      "Que solo cuenta el servicio hecho en el nombre formal de la Iglesia",
-      "Que ayudar a los pobres sin que ellos lo sepan tiene más valor espiritual"
+      "Ciudad del Salvador, refugio de Israel y tierra de los convenios.",
+      "Tierra de paz, ciudad de refugio y lugar de seguridad para los santos.",
+      "Capital de Sion, ciudad del Milenio y morada eterna del pueblo del Señor.",
+      "Nueva Sion, ciudad del Templo y tierra prometida de los últimos días.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Alguna vez ayudaste a alguien en necesidad y sentiste que eso te cambió más a vos que a la persona que ayudaste? ¿Qué pasó?",
+    question:
+      "Las cinco vírgenes insensatas no pudieron obtener aceite prestado de las sabias. ¿Por qué ese detalle es tan importante doctrinalmente?",
     options: [
-      "No, el servicio solo beneficia a quien lo recibe, no a quien lo da",
-      "Sí — hay algo en el acto de dar genuinamente que abre algo adentro de uno mismo",
-      "El servicio solo cambia al que lo da si se hace públicamente para reconocimiento",
-      "El efecto sobre quien da es irrelevante — lo que importa es el bien objetivo que se hace"
+      "Porque demuestra que las vírgenes sabias eran egoístas y no querían compartir.",
+      "Porque el aceite era un recurso escaso que no había suficiente para todas.",
+      "Porque la preparación espiritual acumulada con el tiempo no puede transferirse — es el resultado de decisiones propias que nadie puede dar ni recibir de otra persona.",
+      "Porque en la parábola el tiempo se acabó antes de que pudieran compartir.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "La 'ley de consagración' que el Señor reveló en D&C 42 nunca fue plenamente implementada por los santos de esa época. ¿Qué principio detrás de esa ley podés aplicar hoy aunque no vivamos en una sociedad de consagración?",
+    question:
+      "¿Qué representa concretamente el 'aceite' en la parábola según el principio de D&C 45:56–57?",
     options: [
-      "Ninguno, porque la ley era específica para esa época y no tiene aplicación moderna",
-      "El principio de que mis recursos — tiempo, dinero, talento — son mayordomías para bendecir a otros, no acumulaciones personales",
-      "Que debo donar todo lo que tengo a la Iglesia inmediatamente",
-      "Que la ley de consagración será implementada obligatoriamente en el Milenio"
+      "Los recursos materiales acumulados para los tiempos difíciles.",
+      "El conocimiento teológico acumulado mediante el estudio de las Escrituras.",
+      "La preparación espiritual construida con el tiempo mediante convenios activos, oración, estudio y servicio fiel.",
+      "La membresía en la Iglesia y la asistencia regular a las reuniones del domingo.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Hay algún recurso que tenés — tiempo, habilidad, dinero, atención — que podrías consagrar más deliberadamente esta semana para bendecir a alguien en necesidad?",
+    question:
+      "Nicolás tiene 16 años y piensa 'tengo tiempo de prepararme espiritualmente después, ahora quiero disfrutar'. Según el principio del aceite en la parábola, ¿cuál es el problema concreto con ese razonamiento?",
     options: [
-      "No tengo recursos suficientes porque soy joven y dependo de mis padres",
-      "Sí — incluso con recursos limitados, algo de lo que tengo puede bendecir a alguien específico esta semana",
-      "Esperar a tener más antes de dar porque así el impacto será mayor",
-      "Solo cuando reciba un llamamiento formal de la Iglesia para ese tipo de servicio"
+      "Que el Señor castiga a quienes demoran su preparación más allá de cierta edad.",
+      "Que el aceite no se llena de golpe en el último momento — se acumula gota a gota en los años ordinarios, y los años de hoy son esos años.",
+      "Que disfrutar y prepararse espiritualmente son completamente incompatibles.",
+      "Que no hay tiempo suficiente en la adolescencia para prepararse y también vivir normalmente.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "D&C 42:42 advierte contra la 'ociosidad'. ¿Qué diferencia hay entre descanso y ociosidad?",
+    question:
+      "Camila tiene buenos hábitos espirituales pero depende mucho del ambiente de su familia y de la Iglesia para mantenerlos. Cuando está de viaje o en situaciones donde nadie la anima, los abandona. Según D&C 45:56–57, ¿qué señal da eso sobre su aceite?",
     options: [
-      "No hay diferencia, ambas implican no hacer nada",
-      "El descanso renueva para servir mejor; la ociosidad es una actitud de indiferencia hacia la responsabilidad y hacia los demás",
-      "La ociosidad es un pecado solo cuando no se paga el diezmo",
-      "Solo la ociosidad económica importa; la ociosidad espiritual no tiene consecuencias"
+      "Que tiene suficiente aceite porque sus hábitos son buenos cuando las condiciones lo permiten.",
+      "Que su aceite depende del ambiente externo — lo que necesita es que su preparación espiritual sea interior y autónoma, no condicionada a circunstancias favorables.",
+      "Que debería pedir a su familia que la acompañe en cada situación para mantener sus hábitos.",
+      "Que la dependencia del ambiente es normal y el Señor la compensará cuando la situación mejore.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 45:32 ('estar en pie en lugares santos') y D&C 45:56–57 ('tener aceite en la lámpara') describen lo mismo con dos metáforas diferentes. ¿Cuál es el principio único que ambas imágenes enseñan?",
+    options: [
+        "Que la preparación material y espiritual son igualmente importantes para los últimos días.",
+        "Que ambas metáforas se refieren exclusivamente a la preparación para el Segundo Advenimiento, no a la vida cotidiana.",
+        "Que los lugares santos son donde se produce el aceite espiritual — fuera de ellos no hay preparación posible.",
+        "Que la firmeza y la preparación espiritual son la misma cosa: un estado interior construido gradualmente, que no depende de las circunstancias externas para sostenerse.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección: La importancia de la educación
-// Tema: Preparación para la vida - Principio del estudio y la fe
-export const importancia_educacionQuestions: Question[] = [
+// Hacer que el Señor forme parte del aprendizaje
+export const senor_aprendizajeQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "D&C 88:118 dice 'buscad conocimiento de los mejores libros; buscad la sabiduría en el estudio y también con la fe'. ¿Por qué el Señor combina el estudio Y la fe en lugar de elegir solo uno?",
+    question:
+      "D&C 9:7–8 describe el proceso de recibir confirmación del Señor sobre algo. ¿Qué paso debe preceder obligatoriamente a preguntar al Señor, según esos versículos?",
     options: [
-      "Porque el estudio y la fe son igualmente útiles dependiendo del tema que se estudia",
-      "Porque el estudio sin fe puede volverse arrogante, y la fe sin estudio puede volverse superficial — los dos se necesitan mutuamente",
-      "Porque Dios quiere que trabajemos el doble en todo",
-      "Porque la fe reemplaza al estudio cuando uno está muy ocupado"
-    ],
-    correctAnswer: 1
+        "Estudiar el asunto en la mente primero — el Señor confirma el esfuerzo previo, no lo reemplaza.",
+        "Ayunar durante al menos un día antes de hacer la pregunta.",
+        "Consultar con el obispo antes de llevar la pregunta directamente al Señor.",
+        "Memorizar los versículos relevantes del Dominio de la Doctrina sobre el tema.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "¿Cómo puede la educación formal —la escuela, la universidad— ser una forma de honrar a Dios y cumplir Sus propósitos?",
+    question:
+      "Santiago 1:5 promete que Dios dará sabiduría a quien la pida. ¿Qué dos características del Señor describe ese versículo al dar esa sabiduría?",
     options: [
-      "Solo si se estudian materias directamente relacionadas con la religión",
-      "Porque desarrollar nuestras capacidades intelectuales es una forma de administrar bien los talentos que Dios nos dio",
-      "La educación formal y la fe son mundos separados que no se conectan",
-      "Solo si los padres pueden pagar la educación sin esfuerzo económico"
+      "Con condiciones estrictas y con registro de la petición.",
+      "Con abundancia y sin reproche.",
+      "Con lentitud y con consideración de méritos previos.",
+      "Con suficiencia y con plazo determinado.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Hay alguna materia de la escuela que te cueste especialmente? ¿Cómo podrías aplicar el principio de 'estudio y fe' para mejorar en ella?",
+    question:
+      "D&C 88:118 pide buscar conocimiento 'con el estudio y también con la fe'. ¿Qué función específica cumple la oración dentro de ese proceso combinado — no reemplaza al estudio, sino que hace algo diferente?",
     options: [
-      "Rezar para que el examen sea fácil sin estudiar más de lo normal",
-      "Estudiar con más constancia Y pedir la guía del Espíritu para entender mejor, no solo para recordar datos",
-      "Abandonar esa materia porque probablemente no es para mí",
-      "Copiar las respuestas de alguien que sí entiende porque el resultado es lo que importa"
+      "Garantiza que el alumno recuerde perfectamente lo que estudió.",
+      "Pide que el Señor realice el trabajo de entendimiento en lugar del alumno.",
+      "Abre la mente para recibir comprensión que el esfuerzo humano solo no puede generar — amplifica la capacidad, no la reemplaza.",
+      "Es una señal formal de gratitud que da validez espiritual al estudio académico.",
     ],
-    correctAnswer: 1
+    correctAnswer: 2,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "El presidente Nelson, que es médico y músico, dijo que aprendió a aprender. ¿Qué habilidad detrás del estudio es más valiosa que el contenido específico de cualquier materia?",
+    question:
+      "El élder Bednar enseñó que el Señor 'amplifica nuestra capacidad cuando lo reconocemos como fuente de toda sabiduría'. ¿Por qué amplificar es diferente a reemplazar el esfuerzo?",
     options: [
-      "Memorizar grandes cantidades de información lo más rápido posible",
-      "Aprender a aprender — la capacidad de abordar nuevos temas con curiosidad, método y perseverancia",
-      "Saber responder exámenes bajo presión sin importar si se entendió el material",
-      "Conocer las respuestas que el maestro quiere escuchar"
+      "No hay diferencia real — cualquier ayuda del Señor termina reemplazando el trabajo humano.",
+      "Amplificar significa que el esfuerzo propio sigue siendo necesario y el Señor lo multiplica; reemplazar significaría que el esfuerzo no importa.",
+      "Amplificar aplica al estudio académico; reemplazar aplica al estudio espiritual.",
+      "La diferencia es solo semántica — el resultado final es el mismo en ambos casos.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo podés aplicar el principio del 'estudio y la fe' a tu preparación académica esta semana — en un trabajo, examen o proyecto específico?",
+    question:
+      "Tomás reza antes de cada examen pidiendo que le 'vaya bien' pero estudia muy poco durante la semana. Según D&C 9:7–8, ¿qué parte del proceso está invirtiendo Tomás?",
     options: [
-      "Estudiar intensamente el día anterior y orar para que el esfuerzo sea suficiente",
-      "Planificar el estudio con anticipación, hacerlo con consistencia, y pedir al Señor que ilumine el entendimiento durante el proceso",
-      "Confiar solo en la fe y estudiar menos porque el Señor compensará el resto",
-      "Esperar a que el maestro de Seminario dé consejos de estudio académico"
+      "Está haciendo exactamente lo correcto — primero la fe, después el estudio.",
+      "Está pidiendo sin haber estudiado primero — el Señor confirma el esfuerzo previo, no lo suple cuando se omite.",
+      "No hay problema con su proceso siempre que ore con suficiente fe.",
+      "Debería orar después del examen para agradecer en lugar de pedir antes.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "¿Qué dice la actitud que tenés hacia la escuela sobre cómo ves los talentos que Dios te dio?",
+    question:
+      "Lucía estudia mucho pero nunca ora antes de comenzar una sesión de estudio. Tiene buenas notas pero siente que el aprendizaje se le olvida rápido. Según Santiago 1:5, ¿qué podría cambiar si incorporara ese paso?",
     options: [
-      "La actitud hacia la escuela y la fe son cosas completamente separadas",
-      "Si Dios me dio capacidad de aprender, usarla bien es una forma de agradecimiento y de honrar el don",
-      "Solo importa la actitud hacia el Seminario, no hacia la escuela secular",
-      "La actitud hacia la escuela depende principalmente de si tengo buenos maestros o no"
+      "Sus calificaciones subirían automáticamente porque el Señor intervendría en los exámenes.",
+      "Recibiría sabiduría — no solo información que se memoriza — que le ayudaría a integrar lo aprendido de manera más duradera.",
+      "Nada cambiaría porque la oración no tiene efecto en procesos académicos.",
+      "El Señor le mostraría qué temas estudiar para que no tenga que revisar todo el material.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 9:7–8 (estudiar, luego preguntar) y Santiago 1:5 (pedir sabiduría sin reproche) juntos describen un proceso. ¿Cuál es el principio completo sobre cómo trabajan juntos el esfuerzo humano y el Señor en el aprendizaje?",
+    options: [
+        "Que el Señor hace el trabajo real y el esfuerzo humano es solo una señal de buena voluntad.",
+        "Que la fe elimina la necesidad de esfuerzo sostenido cuando la petición es sincera.",
+        "Que el Señor solo ayuda cuando el alumno llega al límite de sus capacidades, no antes.",
+        "Que el esfuerzo va primero y el Señor lo confirma y amplifica — no es esfuerzo sin fe ni fe sin esfuerzo, sino los dos en secuencia.",
+      ],
+    correctAnswer: 3,
+  },
 ];
 
-// Lección: Doctrina y Convenios 42, Parte 2
-// Tema: Mayordomía, consagración y el cuidado de los pobres
-export const dc42_parte2Questions: Question[] = [
+// La integridad en nuestra formación académica
+export const integridad_educacionQuestions: Question[] = [
+  // RECUERDO 1
   {
     id: 1,
-    question: "D&C 42:30–31 establece que los miembros deben consagrar sus propiedades para el cuidado de los pobres. ¿Cómo se aplica ese principio en la Iglesia de hoy?",
+    question:
+      "D&C 42:21 dice 'no mentirás'. ¿Qué consecuencia espiritual específica menciona ese versículo para quien miente y engaña?",
     options: [
-      "Se aplica solo a los santos que vivieron en Kirtland en el siglo XIX",
-      "Se aplica a través del diezmo, la ofrenda de ayuno, el servicio voluntario y el sistema de bienestar de la Iglesia",
-      "Ya no aplica porque la ley de consagración fue derogada en 1831",
-      "Solo aplica a los obispos que administran los fondos de la Iglesia"
-    ],
-    correctAnswer: 1
+        "Que no tendrá el Espíritu Santo.",
+        "Que perderá su membresía en la Iglesia automáticamente.",
+        "Que sus oraciones no serán escuchadas por el Señor.",
+        "Que su testimonio se debilitará gradualmente hasta desaparecer.",
+      ],
+    correctAnswer: 0,
   },
+  // RECUERDO 2
   {
     id: 2,
-    question: "D&C 42:42 advierte contra los que 'no quieren trabajar'. ¿Qué distingue la autosuficiencia del orgullo de quien rechaza la ayuda cuando genuinamente la necesita?",
+    question:
+      "Lucas 16:10 dice 'el que es fiel en lo muy poco, también en lo más es fiel'. ¿Qué implica ese principio sobre la relación entre la honestidad en los exámenes y la integridad en situaciones más importantes?",
     options: [
-      "No hay diferencia, ambos demuestran falta de humildad",
-      "La autosuficiencia genuina trabaja para ser independiente; el orgullo rechaza la ayuda aunque la necesite por no querer parecer débil",
-      "Aceptar ayuda siempre es un signo de debilidad independientemente de la situación",
-      "El Señor solo quiere que trabajemos duro sin importar las circunstancias"
+      "Que los exámenes son tan importantes como cualquier otra responsabilidad de la vida.",
+      "Que los hábitos formados en las cosas pequeñas determinan la persona que uno será en las grandes — copiar en un examen entrena el carácter para hacer trampa cuando más importa.",
+      "Que la fidelidad en los exámenes garantiza automáticamente fidelidad en el matrimonio y el trabajo.",
+      "Que las cosas pequeñas no importan tanto como las grandes y se pueden flexibilizar.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 3
   {
     id: 3,
-    question: "¿Alguna vez recibiste ayuda de la Iglesia, de un obispo o de una persona de tu barrio cuando la necesitabas? ¿Cómo afectó eso tu relación con la comunidad de la Iglesia?",
+    question:
+      "El presidente Hinckley dijo que si se pierde la integridad, 'cuesta toda una vida reconstruirla'. ¿Por qué es tan difícil recuperar la integridad una vez que se pierde?",
     options: [
-      "Nunca aceptaría ayuda porque eso significaría admitir que no soy autosuficiente",
-      "Recibir ayuda con humildad puede fortalecer la unidad y hacer visible el amor del Señor a través de Sus santos",
-      "La ayuda recibida genera una deuda que siempre hay que devolver exactamente",
-      "La ayuda de la Iglesia es solo para situaciones de emergencia extrema"
+      "Porque el Señor no perdona los pecados relacionados con el engaño.",
+      "Porque la confianza de otros se daña lentamente y la reputación de honestidad se construye con años de consistencia, no con una sola disculpa.",
+      "Porque el cerebro se acostumbra a mentir y es imposible cambiar ese patrón neurológico.",
+      "Porque la sociedad nunca perdona a quienes estuvieron involucrados en deshonestidad.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // COMPRENSIÓN 4
   {
     id: 4,
-    question: "D&C 42:43 dice que los pobres 'serán exaltados en el corazón'. ¿Qué actitud del corazón pide el Señor a quienes reciben ayuda?",
+    question:
+      "¿Por qué la integridad académica no es solo una regla del colegio sino una cuestión de carácter según los principios del evangelio?",
     options: [
-      "Humildad y gratitud en lugar de vergüenza o resentimiento",
-      "Que se comprometan a devolver exactamente lo que recibieron",
-      "Que no hablen con nadie sobre la ayuda que recibieron",
-      "Que acepten cualquier ayuda incluso cuando no la necesitan"
+      "Porque el colegio fue diseñado por personas inspiradas y sus reglas tienen origen divino.",
+      "Porque el carácter no distingue entre contextos — la persona que hace trampa en un examen está practicando ser alguien que hace trampa cuando importa más.",
+      "Porque las reglas académicas son equivalentes a los mandamientos del evangelio en importancia.",
+      "Porque los maestros del colegio tienen autoridad equivalente a la de los líderes de la Iglesia.",
     ],
-    correctAnswer: 0
+    correctAnswer: 1,
   },
+  // APLICACIÓN 5
   {
     id: 5,
-    question: "¿Cómo podés participar más activamente en el sistema de bienestar de la Iglesia esta semana — ya sea dando, sirviendo, u ofreciendo tus habilidades?",
+    question:
+      "Joaquín está a punto de copiar en un examen importante porque 'todos lo hacen' y 'una vez no importa'. Según D&C 42:21 y Lucas 16:10, ¿qué está apostando Joaquín con esa decisión?",
     options: [
-      "Solo participar cuando el obispo me asigne una tarea específica",
-      "Buscar activamente una necesidad real y ofrecer lo que tengo — tiempo, habilidad o recurso",
-      "Donar dinero pero evitar el servicio personal porque es más incómodo",
-      "Esperar a tener más recursos antes de contribuir al bienestar de otros"
+      "Solo su calificación, que puede recuperar con el próximo examen.",
+      "La presencia del Espíritu Santo en su vida y el patrón de carácter que está construyendo para decisiones más grandes.",
+      "La amistad de los compañeros que sí estudian y que pueden juzgarlo.",
+      "La opinión de sus padres si se enteran de lo que hizo.",
     ],
-    correctAnswer: 1
+    correctAnswer: 1,
   },
+  // APLICACIÓN 6
   {
     id: 6,
-    question: "El principio de mayordomía en D&C 42 dice que lo que tenemos es del Señor. ¿Cómo cambia esa perspectiva la forma en que gastás tu tiempo y dinero esta semana?",
+    question:
+      "Sofía fue honesta en un trabajo cuando todos los demás copiaron y su calificación fue más baja. Se siente tonta. Según Lucas 16:10 y el principio del evangelio, ¿qué ganó Sofía que sus compañeros no obtuvieron?",
     options: [
-      "No cambia nada porque el Señor entiende que primero debo cubrir mis necesidades",
-      "Me recuerda que cada decisión de tiempo y dinero puede ser un acto de mayordomía — no solo las donaciones formales",
-      "Solo aplica al diezmo formal, no a las decisiones cotidianas de gasto",
-      "Solo cambia la forma en que me siento en la Iglesia, no las decisiones fuera de ella"
+      "Nada tangible — fue una decisión correcta pero sin beneficio real.",
+      "Una calificación más alta en el largo plazo porque el maestro valorará su honestidad.",
+      "Un paso en la formación del carácter de alguien que puede ser confiable cuando más importa — eso no tiene precio académico pero tiene peso eterno.",
+      "La aprobación del Señor que compensará económicamente en el futuro.",
     ],
-    correctAnswer: 1
-  }
+    correctAnswer: 2,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "D&C 42:21 (no mentirás — quien engaña no tiene el Espíritu) y Lucas 16:10 (fiel en lo poco, fiel en lo más) juntos construyen un argumento sobre la integridad. ¿Cuál es ese argumento completo?",
+    options: [
+        "Que la deshonestidad académica es el pecado más grave para un estudiante de Seminario.",
+        "Que la integridad académica es una condición para recibir llamados importantes en la Iglesia.",
+        "Que el Señor vigila los exámenes y califica la honestidad junto con el conocimiento académico.",
+        "Que la honestidad en cosas pequeñas preserva el Espíritu y forma el carácter — y ese carácter construido hoy es la persona que será en todas las situaciones futuras donde la integridad cueste algo.",
+      ],
+    correctAnswer: 3,
+  },
 ];

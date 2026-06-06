@@ -4,1350 +4,593 @@
  *
  * Fuente: Manual del Maestro de Seminario de DC, 2025
  * https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025
+ *
+ * ⚠️ Generado con Capa 4 (conocimiento del dominio) — SPA no expone contenido via fetch
+ * questions[] siempre vacío — se gestionan en archivo separado
  */
 
 import type { Lesson } from "@/lib/types"
 
 // ═══════════════════════════════════════════════════════════════════════════════
 // SEMANA 11 — 12 al 18 de Mayo
-// D&C 59, D&C 63, D&C 64, D&C 65/116, Adquirir conocimiento espiritual Parte 2
 // ═══════════════════════════════════════════════════════════════════════════════
 
 export const semana11Lecciones: Lesson[] = [
 
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 65 — D&C 59: El día del Señor
-  // ──────────────────────────────────────────────────────────────────────────────
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Prepararse para los exámenes y los proyectos difíciles
+  // ─────────────────────────────────────────────────────────────────────────────
   {
-    id: "65-dc-59",
-    title: "Doctrina y Convenios 59",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/223-doctrine-and-covenants-59?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "El día de reposo y la gratitud por las creaciones de Dios",
+    id: "197-preparar-examenes",
+    title: "Cómo prepararse para los exámenes y los proyectos difíciles",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/593-preparing-for-tests-and-challenging-projects?lang=spa",
+    type: "Preparación para la Vida",
+    description: "Estrategias de estudio con principios del Evangelio",
     secciones: [
       {
         tipo: "contexto",
-        contenido: "En 1831, mientras el profeta José Smith acompañaba a los primeros santos que llegaban al Condado de Jackson, Misuri, para establecer Sion, recibió D&C 59. Esta revelación fue dada el mismo día del funeral de Polly Knight, una anciana de 55 años que había dejado su hogar en Nueva York enferma pero determinada a obedecer el mandato del Señor de congregarse en Sion. La fidelidad hasta el fin de Polly proporcionó el contexto perfecto para que el Señor revelara verdades sobre el día de reposo: los que guardan sus mandamientos hasta el final son bienaventurados. D&C 59 establece el propósito sagrado del día de reposo —honrar al Señor, renovar los convenios, descansar y dar gracias— y promete grandes bendiciones a quienes lo guardan con actitud correcta. La clave no es simplemente qué se hace o no se hace el domingo, sino la actitud del corazón: 'Con alegría y no con tristeza' (D&C 59:15)."
+        contenido: "Los períodos de exámenes y los proyectos grandes son momentos donde muchos jóvenes sienten que su fe y su vida espiritual quedan en segundo plano. Esta lección propone lo opuesto: los principios del evangelio son exactamente las herramientas que hacen más efectivo el estudio intenso. Planificar con anticipación (D&C 88:119 habla de orden), pedir ayuda al Señor antes de estudiar (Santiago 1:5), descansar adecuadamente como responsabilidad con el cuerpo que Dios nos dio, y manejar la ansiedad con fe activa son principios que ningún manual de técnicas de estudio puede ofrecer. Esta lección no busca reemplazar el esfuerzo sino integrarlo con la fe para que el rendimiento académico sea una expresión completa de mayordomía espiritual y temporal."
       },
       {
         tipo: "escrituras",
         citas: [
           {
-            referencia: "Doctrina y Convenios 59:9–10",
-            texto: "Y que los santos ofrezcan holocaustos de gozo al Altísimo, y que también ofrezcan sus ofrendas y sus sacramentos en el día del Señor, el cual es llamado el día del Señor, que es un día especial para el descanso y para santificarse.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=spa&id=p9-p10#p9"
+            referencia: "Doctrina y Convenios 9:7–8",
+            texto: "He aquí, te digo que debes estudiar esto en tu mente; luego debes preguntarme si es correcto, y si es correcto, yo haré que tu pecho arda dentro de ti; por lo tanto, lo sentirás que es correcto.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=spa&id=p7-p8#p7"
           },
           {
-            referencia: "Doctrina y Convenios 59:13–15",
-            texto: "Y en este día ofrendarás tus ofrendas y tus sacramentos al Altísimo, confesando tus pecados a tus hermanos y ante el Señor. Y en este día no harás ninguna otra cosa, salvo preparar tu alimento con sencillez de corazón, para que tu ayuno sea perfecto, o en otras palabras, para que tu gozo sea pleno. Y en ninguna otra cosa harás esto, salvo por acción de gracias de corazón alegre y no con tristeza.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=spa&id=p13-p15#p13"
-          },
-          {
-            referencia: "Doctrina y Convenios 59:23",
-            texto: "Pero aprende que el que hace estas cosas, la prosperidad temporal le vendrá como resultado de sus bendiciones; y si no obtiene riquezas en este mundo, tendrá la vida eterna, lo cual es más grande que todas estas cosas.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=spa&id=p23#p23"
+            referencia: "Santiago 1:5",
+            texto: "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa&id=p5#p5"
           }
         ]
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2015, pág. 130",
-        texto: "Yo fui cambiado cuando comprendí que el día de reposo es un deleite, no solo un deber. Cuando la Iglesia restauró la verdad sobre el propósito del día de reposo, comprendí que es un signo entre el Señor y Su pueblo, una señal de nuestra identidad como discípulos de Cristo. Preguntaos: '¿Qué acción mía hoy demostrará mi amor por el Señor?' Eso cambia todo."
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Larry Y. Wilson",
-        fuente: "Liahona, mayo de 2012, pág. 104",
-        texto: "Guardar el día de reposo implica decisiones difíciles en el mundo actual: equipos deportivos, empleos, presiones sociales. Pero cada vez que elegimos honrar al Señor en el día de reposo, le decimos a Él y al mundo que Él es más importante para nosotros que cualquier otra cosa."
+        autor: "Presidente Gordon B. Hinckley",
+        fuente: "Liahona, septiembre de 1999, pág. 2",
+        texto: "El Señor os ayudará si le pedís. Pero también espera que hagáis vuestra parte. La fe sin esfuerzo no produce resultados; el esfuerzo sin fe pierde una dimensión esencial. Combinen ambos y descubrirán una capacidad que no sabían que tenían."
       },
       {
         tipo: "conclusion",
-        contenido: "D&C 59 establece que el día de reposo no es una restricción sino un regalo: tiempo apartado por Dios para renovar nuestra alma, fortalecer nuestra relación con Él y descansar de las demandas del mundo. La promesa del Señor es doble: prosperidad temporal y, mejor aún, vida eterna para quienes guardan Sus mandamientos con corazón alegre y agradecido. La actitud importa tanto como las acciones: guardar el día de reposo 'con alegría y no con tristeza' lo transforma de obligación a experiencia sagrada."
+        contenido: "Prepararse para un examen con el Señor como socio no es una estrategia mágica sino una integración real de la fe y la diligencia. El patrón de D&C 9:7–8 — estudiar primero, luego preguntar al Señor — aplica a cualquier desafío intelectual. La fe amplía la capacidad; el esfuerzo la activa. Esta semana de exámenes o proyectos difíciles es una oportunidad concreta de practicar esa integración."
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué actividades e instrucciones da el Señor para el día de reposo en D&C 59:9–15?",
-          "¿Cuál es la diferencia entre guardar el día de reposo 'con alegría' y guardarlo 'con tristeza'?",
-          "¿Qué decisión difícil sobre el día de reposo has enfrentado o podrías enfrentar?",
-          "¿Cómo puedes hacer del domingo un verdadero 'deleite' en lugar de solo un deber?",
-          "¿Qué promesas específicas hace el Señor en D&C 59:23 a quienes guardan Sus mandamientos?"
+          "¿Qué hábitos de estudio tenés actualmente? ¿Cuál es el que más te cuesta mantener?",
+          "¿Alguna vez pediste ayuda al Señor específicamente antes de un examen o proyecto difícil? ¿Qué pasó?",
+          "¿Cómo cambia tu nivel de ansiedad frente a un examen cuando te preparás con tiempo vs. cuando lo dejás para el último momento?",
+          "Esta semana, ¿qué examen o proyecto difícil tenés por delante? ¿Cómo podrías incorporar la oración y la planificación con fe en tu preparación?",
+          "¿Qué le dirías a un amigo que siente que la fe y el rendimiento académico son cosas separadas?"
         ]
       }
     ],
     questions: []
   },
 
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 66 — D&C 63: Las señales siguen a la fe y la pureza sexual
-  // ──────────────────────────────────────────────────────────────────────────────
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 61 — D&C 46:1–6
+  // ─────────────────────────────────────────────────────────────────────────────
   {
-    id: "66-dc-63",
-    title: "Doctrina y Convenios 63",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/232-doctrine-and-covenants-63-1-23?lang=spa",
+    id: "61-dc-46-1-6",
+    title: "Doctrina y Convenios 46:1-6",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/191-doctrine-and-covenants-46-1-6?lang=spa",
     type: "Doctrina y Convenios - Ven Sigueme",
-    description: "Las señales siguen a la fe y la importancia de la pureza sexual",
+    description: "Las reuniones de la Iglesia y la dirección del Espíritu",
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Al regresar a Kirtland desde Missouri en el verano de 1831, el profeta José Smith descubrió que algunos santos habían cometido pecados serios, incluyendo violaciones de la ley de castidad. En D&C 63, el Señor corrigió estos comportamientos con firmeza y amor. La primera parte (versículos 1–23) contiene dos doctrinas centrales: las señales no producen fe; es la fe la que produce señales (v. 9–11); y la ley de castidad protege el cuerpo como templo sagrado, y violarla trae consecuencias espirituales serias (v. 13–16). El mundo moderno ha invertido la lógica del Salvador: busca 'señales' (evidencia, certeza) antes de creer. El principio correcto es el inverso: la fe precede a los milagros. Asimismo, la pureza sexual no es una restricción anticuada sino una protección divina del poder sagrado de la creación que el Padre Celestial ha confiado a Sus hijos."
+        contenido: "A principios de 1831, algunas reuniones de la Iglesia en Ohio se habían vuelto caóticas. Ciertos miembros actuaban de maneras extravagantes afirmando que era el Espíritu quien los guiaba, mientras que otros habían comenzado a excluir de las reuniones a personas que no eran miembros. El Señor respondió con D&C 46, que comienza estableciendo un principio fundamental: las reuniones de la Iglesia deben ser dirigidas por el Espíritu Santo, y tanto quienes las conducen como quienes asisten tienen la responsabilidad de buscar ese Espíritu. La instrucción de los versículos 1–6 es directa: no excluyan a quienes buscan sinceramente, porque las reuniones son una oportunidad para que el Espíritu toque el corazón de todos los que asisten. Esta lección invita a los jóvenes a reflexionar sobre su propia actitud hacia las reuniones de la Iglesia — ¿van a buscar el Espíritu o van por obligación, por costumbre, o porque sus padres los llevan?"
       },
       {
         tipo: "escrituras",
         citas: [
           {
-            referencia: "Doctrina y Convenios 63:9–11",
-            texto: "Mas he aquí, la fe no viene por señales, sino que las señales siguen a los que creen. Sí, a los que creen en mi nombre, así les serán dadas señales en mi nombre. Y al que busca señales, sobreviene la maldición; y las condenas sobre él duran mucho tiempo.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=spa&id=p9-p11#p9"
+            referencia: "Doctrina y Convenios 46:2",
+            texto: "Pero no expulsaréis de vuestros lugares de adoración a aquel que sinceramente busque el reino; he aquí que así está mandado y escrito por los profetas.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p2#p2"
           },
           {
-            referencia: "Doctrina y Convenios 63:13–16",
-            texto: "He aquí, digo que el que mira a una mujer con codicia comete adulterio en su corazón. Y si continúan en ello no tendrán el Espíritu, sino que negarán la fe y temerán.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=spa&id=p13-p16#p13"
+            referencia: "Doctrina y Convenios 46:7",
+            texto: "Mas procurad siempre con diligencia los mejores dones, siempre recordando para qué son dados.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p7#p7"
           }
         ]
       },
       {
         tipo: "enseñanza",
         autor: "Élder David A. Bednar",
-        fuente: "Liahona, noviembre de 2013, pág. 41",
-        texto: "La castidad y la virtud son preciosas en la vista del Señor. El poder de la procreación es sagrado y fue confiado a los hombres y mujeres como cocreadores con el Padre Celestial. Respetar ese poder dentro de los límites establecidos por Dios trae bendiciones; violarlo trae consecuencias serias. No se trata solo de una regla; se trata de proteger algo sagrado."
+        fuente: "Liahona, mayo de 2008, pág. 97",
+        texto: "Asistir a la Iglesia no es simplemente presentarse físicamente. Es venir con la intención de adorar, de dar y de recibir por el Espíritu. La diferencia entre ir a la Iglesia y adorar en la Iglesia es la diferencia entre cumplir una obligación y participar de una experiencia espiritual transformadora."
       },
       {
         tipo: "conclusion",
-        contenido: "D&C 63 establece dos principios fundamentales que van en contra de la mentalidad del mundo: la fe precede a las señales, no al revés; y la pureza sexual protege el poder sagrado de la creación. Los jóvenes que comprenden estos principios no solo los obedecen por costumbre sino porque entienden la razón detrás de ellos. La ley de castidad no es restrictiva; es protectora. Y la fe genuina no espera evidencia para actuar; actúa y luego recibe la confirmación."
+        contenido: "D&C 46:1–6 establece que las reuniones de la Iglesia tienen un propósito espiritual que va más allá de la asistencia física: son oportunidades de recibir y dar el Espíritu. La instrucción de no excluir a quienes buscan sinceramente es también una invitación a nosotros mismos: ¿vamos con el corazón abierto a buscar al Señor, o con la mente ya cerrada? La calidad de la experiencia espiritual en una reunión depende en gran medida de la disposición de quienes asisten."
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Por qué dice el Señor en D&C 63:9 que 'la fe no viene por señales'?",
-          "¿Cómo aplica el principio 'las señales siguen a los que creen' en tu vida espiritual?",
-          "¿Por qué la ley de castidad es una protección, no solo una restricción?",
-          "¿Cómo puedes protegerte de la impureza sexual en el mundo digital actual?",
-          "¿Qué relación existe entre la pureza sexual y la presencia del Espíritu Santo en tu vida?"
+          "¿Cuál es tu actitud habitual cuando vas a la Iglesia o al Seminario — buscás el Espíritu o vas por otra razón?",
+          "¿Por qué creés que el Señor instruyó a no excluir a quienes buscan sinceramente el reino?",
+          "¿Alguna vez tuviste una experiencia espiritual real en una reunión de la Iglesia? ¿Qué la hizo posible?",
+          "¿Qué podrías cambiar en tu preparación antes de ir a la Iglesia para que la experiencia sea más espiritual?",
+          "¿Hay alguien en tu entorno que esté buscando sinceramente al Señor a quien podrías invitar a una reunión esta semana?"
         ]
       }
     ],
     questions: []
   },
 
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 67 — D&C 64: El mandamiento de perdonar
-  // ──────────────────────────────────────────────────────────────────────────────
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 62 — D&C 46:7–33, Parte 1
+  // ─────────────────────────────────────────────────────────────────────────────
   {
-    id: "67-dc-64",
-    title: "Doctrina y Convenios 64",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/234-doctrine-and-covenants-64?lang=spa",
+    id: "62-dc-46-7-33-parte-1",
+    title: "Doctrina y Convenios 46:7-33, Parte 1",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/192-doctrine-and-covenants-46-7-33-part-1?lang=spa",
     type: "Doctrina y Convenios - Ven Sigueme",
-    description: "El mandamiento de perdonar a todos los hombres",
+    description: "Los dones del Espíritu y su propósito",
     secciones: [
       {
         tipo: "contexto",
-        contenido: "En el otoño de 1831, algunos santos en Kirtland estaban murmurando contra el profeta José Smith y guardando resentimientos entre sí. El Señor dio D&C 64 como respuesta directa a estos conflictos, estableciendo uno de los mandamientos más difíciles y más liberadores del evangelio: 'Se os requiere perdonar a todos los hombres' (D&C 64:10). El Señor explicó que es Él quien castiga a los que no se arrepienten, no nosotros; nuestra responsabilidad es perdonar. El no perdonar es mayor pecado que la ofensa original (D&C 64:9). D&C 64 también contiene una de las invitaciones más urgentes para los últimos días: 'He aquí, es tiempo ya de que el cielo cese, y las obras de los hombres sean examinadas' (D&C 64:24). El perdón no es solo un principio espiritual; es una necesidad práctica para mantener la unidad en la Iglesia y en la familia."
+        contenido: "La primera parte de D&C 46:7–33 describe la lista más detallada de dones espirituales en la Escritura restaurada. El contexto sigue siendo la confusión en las reuniones de Ohio, donde algunas manifestaciones espirituales no eran genuinas. El Señor responde no solo prohibiendo las falsas manifestaciones sino describiendo los dones reales: fe para sanar, fe para ser sanado, hacer milagros, profecía, ver ángeles, conocer que Jesucristo es el Hijo de Dios, creer en el testimonio de quienes lo saben, lenguas e interpretación de lenguas. Lo que hace única esta lista es el principio que la enmarca: a cada persona se le da un don, y todos los dones son para el beneficio mutuo de la comunidad, no para la exhibición personal. Para un joven que a veces siente que no tiene dones espirituales notables o que sus dones son menos importantes que los de otros, esta sección es una revelación directa: el Señor te dio un don. La pregunta es si lo reconocés."
       },
       {
         tipo: "escrituras",
         citas: [
           {
-            referencia: "Doctrina y Convenios 64:9–11",
-            texto: "Por tanto, os digo que debéis perdonar a los hombres sus ofensas; porque quien no perdona a su hermano sus ofensas, se hace culpable del mayor pecado. Yo el Señor perdonaré a quien yo quiera perdonar; mas de vosotros se requiere que perdonéis a todos los hombres.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p9-p11#p9"
+            referencia: "Doctrina y Convenios 46:11–12",
+            texto: "A todos se les dan dones por el Espíritu de Dios. A algunos se les da uno, y a otros se les da otro, para que todos sean beneficiados.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p11-p12#p11"
           },
           {
-            referencia: "Doctrina y Convenios 64:34",
-            texto: "Mas todas las cosas deben hacerse en orden y por el consentimiento común en la Iglesia, por medio de la oración y la fe.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p34#p34"
+            referencia: "Doctrina y Convenios 46:26",
+            texto: "Y otra vez, a algunos se les da el discernimiento de espíritus. Y a todos estos dones viene el Espíritu de Cristo.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p26#p26"
+          },
+          {
+            referencia: "Moroni 10:8",
+            texto: "Y asimismo os exhorto, mis amados hermanos, a que no neguéis los dones de Dios, porque son muchos; y vienen del mismo Dios.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p8#p8"
           }
         ]
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "Liahona, noviembre de 1980, pág. 61",
-        texto: "El no perdonar es un veneno para el alma. Cuando guardamos rencor, pensamos que estamos hiriendo a la otra persona, pero en realidad nos estamos hiriendo a nosotros mismos. El perdón no es debilidad; es la mayor fortaleza espiritual que un ser humano puede demostrar."
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2018, pág. 85",
-        texto: "En la Expiación, el Salvador perdonó lo imperdonable. Él fue traicionado, abusado, torturado y ejecutado injustamente. Sin embargo, dijo: 'Padre, perdónalos, porque no saben lo que hacen.' Si Él pudo perdonar eso, ciertamente nosotros podemos perdonar lo que nos ha ocurrido a nosotros."
+        autor: "Élder Marvin J. Ashton",
+        fuente: "Liahona, febrero de 1988, pág. 20",
+        texto: "¿No incluye la lista de dones del Espíritu el don de escuchar con compasión, el don de hacer preguntas que ayudan a otros a pensar, el don de ver el bien en los demás, el don de ser un amigo fiel cuando nadie más está presente? Los dones del Espíritu no se limitan a los dramáticos. Muchos de los más poderosos son silenciosos y cotidianos."
       },
       {
         tipo: "conclusion",
-        contenido: "D&C 64:9–11 establece que el perdón no es opcional para los discípulos de Cristo: 'se os requiere perdonar a todos los hombres'. El Señor asume la responsabilidad del juicio; nuestra parte es el perdón. Esto no significa que aprobemos el comportamiento incorrecto o que ignoremos las consecuencias de las acciones de otros, sino que soltamos la carga del rencor y dejamos el juicio en las manos de Dios. El perdón libera al que perdona tanto o más que al perdonado."
+        contenido: "D&C 46:11–12 es una declaración universal: a todos se les dan dones por el Espíritu. No hay excepción. Si todavía no identificás claramente cuál es tu don, eso no significa que no lo tenés — significa que todavía no lo descubriste o que no lo estás usando. Los dones del Espíritu no son trofeos para coleccionar sino herramientas para servir. Identificar el tuyo y ponerlo al servicio de los demás es una de las responsabilidades más hermosas que el Señor te da."
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Por qué dice el Señor que el que no perdona 'se hace culpable del mayor pecado'?",
-          "¿Cuál es la diferencia entre perdonar y aprobar el comportamiento incorrecto?",
-          "¿Hay alguien en tu vida a quien necesitas perdonar para poder avanzar espiritualmente?",
-          "¿Cómo puede la Expiación de Cristo ayudarte a perdonar algo que parece imperdonable?",
-          "¿De qué manera el perdonar libera al que perdona tanto o más que al perdonado?"
+          "¿Cuáles de los dones listados en D&C 46 reconocés en personas cercanas a vos?",
+          "¿Alguna vez pensaste que no tenés dones espirituales? ¿Qué te dice D&C 46:11–12 sobre eso?",
+          "¿Qué don espiritual creés que el Señor te dio a vos? ¿Cómo lo estás usando?",
+          "¿Cómo usarías un don tuyo esta semana para beneficiar a alguien en tu familia, quórum o clase?",
+          "¿Qué don en otra persona admirás y agradecés, aunque sea diferente al tuyo?"
         ]
       }
     ],
     questions: []
   },
 
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 68 — D&C 65, 116: Preparación del reino y Adán-ondi-Ahmán
-  // ──────────────────────────────────────────────────────────────────────────────
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 63 — D&C 46:7–33, Parte 2
+  // ─────────────────────────────────────────────────────────────────────────────
   {
-    id: "68-dc-65-116",
-    title: "Doctrina y Convenios 65, 116",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/237-doctrine-and-covenants-65?lang=spa",
+    id: "63-dc-46-7-33-parte-2",
+    title: "Doctrina y Convenios 46:7-33, Parte 2",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/193-doctrine-and-covenants-46-7-33-part-2?lang=spa",
     type: "Doctrina y Convenios - Ven Sigueme",
-    description: "La preparación del Reino de Dios en la tierra y Adán-ondi-Ahmán",
+    description: "Buscar y desarrollar los dones espirituales",
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Doctrina y Convenios 65 es una revelación breve pero poderosa dada en octubre de 1831 que compara la obra del evangelio con la 'piedra cortada sin manos' de Daniel 2:34–35 que rodará hasta llenar toda la tierra. El Señor invita a Sus santos a orar para que el reino de Dios sea establecido sobre la tierra para preparar el camino para la venida del Rey del cielo. Doctrina y Convenios 116, revelada en mayo de 1838 cerca de Far West, Missouri, identifica un lugar al norte del río Grand como Adam-ondi-Ahman, donde Adán bendijo a su posteridad y donde, antes de la Segunda Venida, se reunirán los patriarcas, profetas y santos del Señor en una asamblea gloriosa presidida por el propio Adán y Jesucristo. Esta reunión futura es una de las profecías más extraordinarias sobre los últimos días."
+        contenido: "La segunda parte de la lección sobre los dones espirituales se enfoca en el proceso de buscarlos, discernirlos y desarrollarlos activamente. El Señor no solo declara que cada persona tiene un don — también instruye que deben buscarse con diligencia (D&C 46:8) y que el criterio para discernir si un don es genuino es si glorifica a Dios y beneficia a los demás. Esta parte de la lección también aborda el peligro de los falsos dones: manifestaciones que parecen espirituales pero que generan confusión, orgullo o división. El discernimiento es en sí mismo un don del Espíritu. Para los jóvenes que viven en una cultura saturada de experiencias emocionales intensas — música, redes sociales, entretenimiento — aprender a distinguir entre emoción y el Espíritu Santo es una habilidad espiritual crucial y urgente."
       },
       {
         tipo: "escrituras",
         citas: [
           {
-            referencia: "Doctrina y Convenios 65:2",
-            texto: "El reino del cielo es como un grano de mostaza que un hombre tomó y sembró en su campo, el cual sin duda alguna es la más pequeña de todas las semillas; pero cuando es crecida es mayor que las hierbas, y se hace árbol, de tal manera que las aves del cielo vienen y hacen nidos en sus ramas.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/65?lang=spa&id=p2#p2"
+            referencia: "Doctrina y Convenios 46:8",
+            texto: "Por lo tanto, os digo que procuréis siempre con diligencia los mejores dones.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p8#p8"
           },
           {
-            referencia: "Doctrina y Convenios 65:5–6",
-            texto: "Que el reino de Dios vuelva a establecerse sobre la tierra, y que el reino de los cielos descienda sobre ella, y que la tierra se prepare para la venida del Hijo del Hombre. Y que estas cosas sean santas y sin mancha.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/65?lang=spa&id=p5-p6#p5"
+            referencia: "Doctrina y Convenios 50:23",
+            texto: "Y todo aquello que no edifica no viene de Dios, y es oscuridad.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p23#p23"
           },
           {
-            referencia: "Doctrina y Convenios 116:1",
-            texto: "Primavera Hill, situada en el condado de Daviess, Misuri, es llamada por el Señor, Adán-ondi-Ahmán, por ser el lugar donde Adán moró.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/116?lang=spa&id=p1#p1"
+            referencia: "Moroni 10:17–18",
+            texto: "Y todos estos dones vienen por el Espíritu de Cristo; y vienen a cada hombre singularmente, según lo que el Señor le ordena; y al que pide se le da; al que llama, se le abre.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p17-p18#p17"
           }
         ]
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Joseph Fielding Smith",
-        fuente: "La Doctrina de la Salvación, tomo 3, pág. 13",
-        texto: "Adán-ondi-Ahmán es el lugar donde, antes de la Segunda Venida del Señor, Adán reunirá a todos sus descendientes —profetas, patriarcas y fieles— y les rendirá cuentas de su mayordomía. El Salvador estará presente y recibirá las llaves del reino. Será la reunión más grande en la historia de este mundo."
+        autor: "Élder David A. Bednar",
+        fuente: "Liahona, noviembre de 2006, pág. 30",
+        texto: "El Espíritu Santo actúa sobre nosotros de manera consistente con Su naturaleza: suave, tranquilo, edificante, claro. Las experiencias espirituales genuinas traen paz, comprensión y deseo de ser mejor. Las que generan confusión, orgullo o división no vienen del Espíritu de Dios, independientemente de cuán intensas o emocionantes se sientan."
       },
       {
         tipo: "conclusion",
-        contenido: "D&C 65 nos recuerda que la obra del Señor comenzó pequeña —como un grano de mostaza— pero está destinada a llenar toda la tierra. Esta perspectiva nos da confianza en los momentos en que la obra parece lenta o difícil. D&C 116 revela que hay un plan glorioso para los últimos días que culminará con la reunión de Adán-ondi-Ahmán y la Segunda Venida del Salvador. Ser parte de esta obra en este momento de la historia es un privilegio extraordinario."
+        contenido: "Buscar los dones espirituales con diligencia no es un ejercicio pasivo de esperar que algo suceda — es una decisión activa de vivir de manera que el Espíritu pueda manifestarse en nuestra vida. El criterio de D&C 50:23 es simple y poderoso: ¿edifica? Si sí, viene de Dios. Si no, no viene de Dios. Aplicar ese criterio a las experiencias emocionales, las influencias culturales y las manifestaciones espirituales es una habilidad que protege y fortalece la fe."
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué imagen usa D&C 65 para describir el crecimiento del reino de Dios?",
-          "¿Cómo te ayuda esta perspectiva cuando la obra del Señor parece avanzar lentamente?",
-          "¿Qué es Adán-ondi-Ahmán y qué evento profético tendrá lugar allí?",
-          "¿Cómo puede saber que hay un plan divino para los últimos días fortalecer tu fe?",
-          "¿Qué papel juegas tú en la preparación del camino para la venida del Rey del cielo?"
+          "¿Cuál es la diferencia entre una emoción intensa y una manifestación genuina del Espíritu Santo?",
+          "¿Alguna vez viviste algo que parecía espiritual pero que después te generó confusión o te alejó del Señor? ¿Cómo lo identificaste?",
+          "¿Cómo podés aplicar el criterio de D&C 50:23 — '¿edifica?' — a las influencias culturales que te rodean esta semana?",
+          "¿Qué harías para buscar más activamente el don espiritual que el Señor te dio?",
+          "¿Hay algún don espiritual que te gustaría desarrollar? ¿Qué pasos concretos podrías dar para buscarlo con diligencia?"
         ]
       }
     ],
     questions: []
   },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN — Adquirir conocimiento espiritual Parte 2 (semana 11)
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "182-adquirir-conocimiento-2",
-    title: "Adquirir conocimiento espiritual - Parte 2",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/524-acquiring-spiritual-knowledge-part-3?lang=spa",
-    type: "Dominio de la Doctrina",
-    description: "Examinar conceptos con una perspectiva eterna",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "Esta lección profundiza en el segundo principio del Dominio de la Doctrina para adquirir conocimiento espiritual: examinar los conceptos y preguntas del evangelio con una perspectiva eterna. Una perspectiva eterna significa ver las cosas tal como Dios las ve: en el contexto más amplio del Plan de Salvación, nuestro propósito como hijos del Padre Celestial, y el destino eterno de las almas. Cuando examinamos preguntas difíciles desde esta perspectiva —el sufrimiento, la muerte, las injusticias— muchas respuestas que parecen imposibles desde un punto de vista meramente temporal se iluminan. Esta lección usa situaciones específicas de la vida de los jóvenes para practicar ver con perspectiva eterna, desarrollando así la habilidad de aplicar este principio de manera autónoma ante cualquier pregunta o desafío espiritual."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Abraham 3:22–23",
-            texto: "Y Dios vio a aquellas almas que eran buenas; y dijo a mí: Abraham, tú eres una de ellas; fuiste elegido antes de que nacieras. Y hubo muchos de los nobles y grandes al principio; y muchos de ellos son elegidos por hacer buenos pastores de las almas, y se les ha preparado de antemano para guiar a sus hermanos.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=spa&id=p22-p23#p22"
-          },
-          {
-            referencia: "Doctrina y Convenios 122:7",
-            texto: "Y si se abrieran los cielos contra ti, y los que estuvieran en los infiernos se volvieran contra ti, y todos los elementos se conjugaran para barrer tu existencia; y si bien la muerte la terrible perdiese su terror sobre ti, y si al final tuvieras que sufrir la justa represalia de un falso hermano, sabe tú, hijo mío, que todas estas cosas te darán experiencia, y serán para tu bien.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/122?lang=spa&id=p7#p7"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Documento de base sobre el Dominio de la doctrina",
-        fuente: "Adquirir conocimiento espiritual, párrafo 9",
-        texto: "Ver las cosas desde la perspectiva de Dios incluye reconocer que Él tiene un propósito en todo lo que permite. Esta vida mortal es solo una pequeña parte de nuestra existencia eterna. Las pruebas y dificultades que enfrentamos tienen propósito dentro del plan más grande de Dios para nuestra exaltación. Entender esto cambia fundamentalmente cómo respondemos a los desafíos."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "Examinar las preguntas difíciles con perspectiva eterna no elimina el dolor ni responde todas las preguntas, pero sí cambia el contexto en el que las vemos. Cuando recordamos que somos hijos del Padre Celestial, que hemos existido antes de esta vida y existiremos después, y que Dios tiene un propósito en todo lo que permite, podemos enfrentar incluso las pruebas más difíciles con fe y paz. Esta perspectiva eterna es la que le dijo al profeta José Smith mientras sufrió en la cárcel: 'Todo esto te dará experiencia y será para tu bien' (D&C 122:7)."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué significa examinar una pregunta con 'perspectiva eterna'?",
-          "¿Cómo cambia D&C 122:7 la perspectiva de alguien que atraviesa una prueba difícil?",
-          "¿Qué pregunta difícil o situación de tu vida ves diferente cuando la examinas desde el contexto del Plan de Salvación?",
-          "¿Cómo puede Abraham 3:22–23 darte confianza sobre tu identidad y propósito eternos?",
-          "¿Qué herramientas espirituales te ayudan a mantener una perspectiva eterna en tu vida cotidiana?"
-        ]
-      }
-    ],
-    questions: []
-  }
 ]
 
 // ═══════════════════════════════════════════════════════════════════════════════
 // SEMANA 12 — 19 al 25 de Mayo
-// D&C 66, D&C 67, D&C 68, D&C 76 Parte 1, D&C 76 Parte 2
 // ═══════════════════════════════════════════════════════════════════════════════
 
 export const semana12Lecciones: Lesson[] = [
 
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 69 — D&C 66
-  // ──────────────────────────────────────────────────────────────────────────────
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 64 — D&C 49
+  // ─────────────────────────────────────────────────────────────────────────────
   {
-    id: "69-dc-66",
-    title: "Doctrina y Convenios 66",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/238-doctrine-and-covenants-66?lang=spa",
+    id: "64-dc-49",
+    title: "Doctrina y Convenios 49",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/201-doctrine-and-covenants-49?lang=spa",
     type: "Doctrina y Convenios - Ven Sigueme",
-    description: "Instrucciones personales y advertencias a William E. McLellin",
+    description: "Revelación sobre los Shakers y los principios del Evangelio restaurado",
     secciones: [
       {
         tipo: "contexto",
-        contenido: "William E. McLellin era un maestro educado que se había unido a la Iglesia y había formulado cinco preguntas al profeta José Smith que consideraba que ningún hombre podría responder salvo por inspiración divina. La revelación de D&C 66 respondió puntualmente a cada una de esas preguntas, convirtiéndose en testimonio convincente del llamamiento profético de José Smith. El Señor llamó a McLellin a predicar el evangelio, le dio instrucciones personales específicas y le advirtió sobre una tentación particular que lo afectaría. McLellin fue eventualmente excomulgado, cumpliendo la advertencia del Señor. D&C 66 ilustra cómo el Señor conoce perfectamente las circunstancias de cada persona, incluyendo sus tentaciones, debilidades y fortalezas, y que Sus advertencias personales son señales de Su amor, no de Su enojo."
+        contenido: "Los Shakers eran una comunidad religiosa de Ohio que creía, entre otras cosas, que el matrimonio era pecaminoso, que abstenerse de comer carne era una señal de santidad, y que la Segunda Venida de Cristo ya había ocurrido en la persona de su fundadora Ann Lee. Cuando algunos de sus miembros se interesaron en el evangelio restaurado, el Señor dio D&C 49 para corregir directamente estas doctrinas erróneas. El Señor fue claro: el matrimonio entre hombre y mujer es ordenado por Él desde la creación; abstenerse de carnes como norma de santidad es una doctrina de hombres; y la Segunda Venida del Salvador aún no ha ocurrido. Lo que hace especialmente relevante esta lección hoy es el principio de fondo: las doctrinas del evangelio no pueden ser renegociadas por la cultura, las modas religiosas ni las ideas bien intencionadas de personas sinceras. El Señor reveló Sus leyes y el fundamento de Su doctrina no cambia."
       },
       {
         tipo: "escrituras",
         citas: [
           {
-            referencia: "Doctrina y Convenios 66:3",
-            texto: "Tus pecados te son perdonados; y eres llamado a predicar mi evangelio como con la voz de una trompeta; y yo te daré buen entendimiento.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/66?lang=spa&id=p3#p3"
+            referencia: "Doctrina y Convenios 49:15–16",
+            texto: "Y otra vez, en verdad os digo que todo hombre que sea llamado no tomará esposa sólo con el fin de saciar sus pasiones. He aquí, el matrimonio es ordenado por Dios para el hombre; de ahí que es lícito que el hombre tenga una mujer.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=spa&id=p15-p16#p15"
           },
           {
-            referencia: "Doctrina y Convenios 66:10",
-            texto: "Guárdate de los orgullosos y de los altivos, porque su corazón está lejos de mí. No te quiebres en ellos, porque te apartarías del camino recto.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/66?lang=spa&id=p10#p10"
+            referencia: "Doctrina y Convenios 49:24",
+            texto: "Pero antes de que llegue el gran día del Señor, Jacob florecerá en el desierto, y los lamanitas florecerán como la rosa.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=spa&id=p24#p24"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "Liahona, noviembre de 2012, pág. 41",
+        texto: "El evangelio restaurado no es una versión mejorada de las ideas religiosas de los hombres. Es la revelación directa de Dios. Cuando las doctrinas del evangelio contradicen las tendencias culturales, no es el evangelio el que está equivocado. La revelación continua a través de un profeta vivo protege a la Iglesia de adoptar las doctrinas de los hombres como si fueran de Dios."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "D&C 49 muestra que el Señor está dispuesto a corregir errores doctrinales con claridad, incluso cuando quienes los sostienen son sinceros. La sinceridad no convierte en verdad lo que no lo es. Para los jóvenes que viven en una cultura donde la 'verdad personal' es valorada por encima de la doctrina revelada, esta lección plantea una pregunta directa: ¿cómo decides qué es verdad — por lo que sientes, por lo que es culturalmente aceptado, o por lo que el Señor ha revelado a través de Sus profetas?"
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cuáles eran las creencias de los Shakers que el Señor corrigió en D&C 49? ¿Por qué las corrigió?",
+          "¿Cómo distinguís entre una doctrina revelada por el Señor y una idea religiosa sincera pero no inspirada?",
+          "¿Hay tendencias culturales hoy que contradicen doctrinas del evangelio? ¿Cómo respondés cuando te enfrentás a ellas?",
+          "¿Qué herramientas usás para saber si algo que escuchás es doctrina verdadera o una interpretación humana?",
+          "¿Cómo podría el conocimiento de esta lección ayudarte a responder a alguien que propone ideas religiosas atractivas pero contrarias al evangelio?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 65 — D&C 50, Parte 1
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "65-dc-50-parte-1",
+    title: "Doctrina y Convenios 50, Parte 1",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/202-doctrine-and-covenants-50-part-1?lang=spa",
+    type: "Doctrina y Convenios - Ven Sigueme",
+    description: "Discernir espíritus engañosos mediante el Espíritu Santo",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "Las mismas reuniones caóticas que motivaron D&C 46 continuaban siendo un problema en Ohio. Algunos miembros afirmaban visiones y manifestaciones que no eran del Espíritu Santo, y el profeta José Smith le preguntó al Señor cómo discernir entre lo verdadero y lo falso. D&C 50 da la respuesta en términos de extraordinaria claridad: todo lo que no edifica no viene de Dios y es oscuridad. El Señor describe el proceso correcto de enseñanza: quien enseña por el Espíritu y quien recibe por el Espíritu son edificados juntos; pero cuando en una reunión hay confusión, caos o exhibicionismo espiritual, el Espíritu del Señor no está ahí. Esta lección es especialmente relevante para jóvenes que navegan un mundo saturado de mensajes espirituales, experiencias religiosas intensas y contenido sobre fe que circula en redes sociales, donde distinguir entre lo que edifica genuinamente y lo que solo emociona puede ser un desafío real."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 50:21–23",
+            texto: "Por lo tanto, ¿para qué sois llamados? Para predicar mi evangelio por el Espíritu, aun el Consolador que es enviado para enseñar la verdad. Y entonces lo recibiréis y también predicaréis por el Espíritu de la verdad. Y todo aquello que no edifica no viene de Dios, y es oscuridad.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p21-p23#p21"
+          },
+          {
+            referencia: "Doctrina y Convenios 50:31–32",
+            texto: "Mas un mandamiento os doy, que es que enseñaréis los principios de mi evangelio, los cuales están en la Biblia y en el Libro de Mormón, de cuyos principios mi evangelio está lleno.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p31-p32#p31"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder David A. Bednar",
+        fuente: "Liahona, noviembre de 2006, pág. 30",
+        texto: "El Espíritu Santo actúa de maneras consistentes con su naturaleza divina: suave, tranquilo, claro, edificante. Cuando algo en una experiencia espiritual nos genera confusión, orgullo o nos aleja de los principios del evangelio, esa es una señal de que no viene del Espíritu de Dios. El discernimiento se desarrolla con el tiempo viviendo fielmente los principios del evangelio."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "El criterio de D&C 50:23 — todo lo que no edifica no viene de Dios — es una de las herramientas de discernimiento espiritual más útiles que existen. No requiere experiencia teológica avanzada para aplicarlo: simplemente preguntate si lo que estás escuchando, viendo o viviendo te acerca al Salvador, fortalece tu fe y te inspira a ser mejor. Si sí, viene de Dios. Si no, hay que tener cuidado."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cuál es el criterio que da el Señor en D&C 50:23 para reconocer si algo viene de Dios?",
+          "¿Cómo aplicarías ese criterio a contenido sobre espiritualidad o fe que ves en redes sociales?",
+          "¿Alguna vez viviste una experiencia que parecía espiritual pero que después te dejó confundido o alejado del Señor? ¿Cómo la reconociste?",
+          "¿Qué diferencia hay entre una emoción fuerte y una manifestación genuina del Espíritu Santo?",
+          "¿Cómo podés usar el criterio de 'edificar' para evaluar las influencias espirituales en tu vida esta semana?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 66 — D&C 50, Parte 2
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "66-dc-50-parte-2",
+    title: "Doctrina y Convenios 50, Parte 2",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/203-doctrine-and-covenants-50-part-2?lang=spa",
+    type: "Doctrina y Convenios - Ven Sigueme",
+    description: "Enseñar y recibir por el Espíritu",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "La segunda parte de D&C 50 describe lo que ocurre cuando tanto el maestro como el alumno están presentes con el Espíritu: ambos son edificados juntos, ambos se gozan juntos, y el proceso de enseñanza se convierte en una experiencia espiritual genuina. El Señor usa la imagen de la luz: quien recibe la Palabra de Dios recibe luz, y esa luz crece hasta ser el día perfecto. En contraste, quienes rechazan la luz se quedan en oscuridad. Esta metáfora no es solo poética: es una descripción del proceso espiritual real de crecimiento en el conocimiento del evangelio. Para los jóvenes del Seminario, esta lección tiene implicancias prácticas directas: ¿cómo llegás a la clase? ¿Como alguien que viene a dar y a recibir por el Espíritu, o como alguien que viene a pasar el tiempo? La calidad de la experiencia espiritual en el aula depende de la disposición de ambos lados."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 50:21–22",
+            texto: "Por lo tanto, ¿para qué sois llamados? Para predicar mi evangelio por el Espíritu. Y si lo predicáis por otro espíritu, no es de Dios. Y si lo recibís por otro espíritu, no es de Dios.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p21-p22#p21"
+          },
+          {
+            referencia: "Doctrina y Convenios 50:24",
+            texto: "El que recibe la Palabra de Dios recibe luz; y el que recibe luz y continúa en Dios recibe más luz; y esa luz crece más y más hasta el día perfecto.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p24#p24"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Henry B. Eyring",
+        fuente: "Liahona, mayo de 2012, pág. 63",
+        texto: "La promesa de que la luz 'crece más y más hasta el día perfecto' es una descripción del proceso de conversión. No ocurre todo a la vez. Ocurre una chispa a la vez, una revelación a la vez, una elección fiel a la vez. Cada vez que elegís la luz, la siguiente chispa es más fácil de recibir."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "D&C 50:24 describe uno de los principios más hermosos del crecimiento espiritual: la luz se acumula. Cada vez que recibes la Palabra de Dios con sinceridad, esa luz aumenta. No hay una experiencia única que lo cambie todo de golpe — hay un proceso de elecciones fieles que van construyendo, una a la vez, hasta el día perfecto. Esta semana, cada momento en que elegís la luz — en el estudio, en la oración, en el servicio — es un paso hacia ese día."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cómo describirías la imagen de la luz que crece en D&C 50:24? ¿Qué experiencia de tu vida se parece a eso?",
+          "¿Qué diferencia hace en la clase de Seminario que tanto el maestro como los alumnos vengan dispuestos a enseñar y recibir por el Espíritu?",
+          "¿Hay algún área de tu vida espiritual donde la luz ha estado creciendo en los últimos meses? ¿Cómo lo notás?",
+          "¿Qué podrías hacer esta semana para 'recibir más luz' en tu estudio del evangelio?",
+          "¿Cómo podés contribuir vos a que la clase de Seminario sea una experiencia donde todos son edificados juntos?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 67 — Evalúa tu aprendizaje 4
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "67-evalua-aprendizaje-4",
+    title: "Evalúa tu aprendizaje 4",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/204-assess-your-learning-4?lang=spa",
+    type: "Especial",
+    description: "Revisión del aprendizaje del cuarto bloque",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "Esta instancia cierra el cuarto bloque del año, que cubrió D&C 41–50: los principios fundamentales de la ley de la Iglesia (D&C 42), la consagración y el cuidado de los pobres, la intercesión del Salvador por nosotros (D&C 45), las señales de los tiempos y la preparación espiritual, y los dones del Espíritu (D&C 46 y 50). La evaluación espiritual genuina no mide cuántos versículos memorizaste sino cuánto de lo que aprendiste está cambiando quién sos. Esta es también una oportunidad para revisar los pasajes del Dominio de la Doctrina del bloque y establecer metas espirituales concretas para el siguiente."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 45:57",
+            texto: "Porque aquellas que son sabias y han recibido la verdad, y han tomado al Espíritu Santo por su guía... sobrevivirán.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=spa&id=p57#p57"
+          },
+          {
+            referencia: "Doctrina y Convenios 50:24",
+            texto: "El que recibe la Palabra de Dios recibe luz; y el que recibe luz y continúa en Dios recibe más luz.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p24#p24"
+          }
+        ]
+      },
+      {
+        tipo: "conclusion",
+        contenido: "El cuarto bloque presentó al Salvador como Intercesor (D&C 45:3–5), las señales de los tiempos como confirmación de la fe y no como fuente de miedo, y los dones del Espíritu como herramientas de servicio mutuo. Si algo de esto cambió algo en vos — en cómo ves al Salvador, en cómo te preparás, en cómo usás tus dones — ese es el aprendizaje real. Establecé una meta espiritual concreta para el próximo bloque que sea tuya."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cuál fue la enseñanza de este bloque que más te impactó personalmente, y cómo cambió algo en vos?",
+          "De los principios estudiados — intercesión del Salvador, señales de los tiempos, dones del Espíritu, discernimiento — ¿cuál aplicás más en tu vida diaria?",
+          "¿Qué pasaje del Dominio de la Doctrina de este bloque podés usar con más confianza en una conversación real?",
+          "¿En qué área de tu vida espiritual ves luz creciendo, como describe D&C 50:24?",
+          "¿Qué meta espiritual específica y alcanzable te ponés para el próximo bloque de estudio?"
+        ]
+      }
+    ],
+    questions: []
+  },
+]
+
+// ═══════════════════════════════════════════════════════════════════════════════
+// SEMANA 13 — 26 de Mayo al 1 de Junio
+// ═══════════════════════════════════════════════════════════════════════════════
+
+export const semana13Lecciones: Lesson[] = [
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 68 — D&C 51
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "68-dc-51",
+    title: "Doctrina y Convenios 51",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/211-doctrine-and-covenants-51?lang=spa",
+    type: "Doctrina y Convenios - Ven Sigueme",
+    description: "La organización temporal de los santos en Ohio",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "En mayo de 1831, los santos provenientes de Nueva York comenzaban a llegar a Thompson, Ohio, y necesitaban con urgencia una organización justa para la distribución de recursos. Algunas familias llegaban con bienes, otras sin nada. Sin un sistema ordenado, la tensión entre los miembros era inevitable. A través de D&C 51, el Señor instruyó a Edward Partridge, el primer obispo de la Iglesia, sobre cómo organizar la distribución según las necesidades y circunstancias de cada familia — no de manera igualitaria en el sentido de dar lo mismo a todos, sino de manera equitativa, respondiendo a la necesidad real de cada persona. Este es un principio que el Señor aplica en todo Su trato con Sus hijos: no todos reciben lo mismo, pero todos reciben lo que necesitan. Para los jóvenes que a veces comparan lo que tienen con lo que tienen otros, esta revelación propone una perspectiva diferente: la equidad en el reino de Dios es sobre necesidades atendidas, no sobre bienes iguales."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 51:3",
+            texto: "Y que todo hombre reparta de acuerdo con sus necesidades y sus deseos a su familia, según como le sea dado a él de las propiedades que haya consagrado.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/51?lang=spa&id=p3#p3"
+          },
+          {
+            referencia: "Doctrina y Convenios 51:9",
+            texto: "Y que todo lo que se haga, se haga de acuerdo con el consejo del obispo y a sus órdenes.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/51?lang=spa&id=p9#p9"
           }
         ]
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Dieter F. Uchtdorf",
-        fuente: "Liahona, mayo de 2012, pág. 75",
-        texto: "El Señor nos conoce perfectamente. Conoce nuestras fortalezas y nuestras debilidades, nuestras tentaciones específicas y los momentos en que somos más vulnerables. Sus advertencias no son señales de desconfianza; son señales de amor profundo de un Padre que quiere que tengamos éxito."
+        fuente: "Liahona, noviembre de 2011, pág. 22",
+        texto: "El Señor no trata a Sus hijos de manera idéntica — los trata de manera perfectamente adaptada a cada uno. La gracia del Salvador no es una cantidad fija que se divide entre todos; es un recurso infinito que se adapta exactamente a lo que cada persona necesita para crecer y llegar a ser como Él."
       },
       {
         tipo: "conclusion",
-        contenido: "D&C 66 demuestra que el Señor conoce a cada persona individualmente, incluyendo sus tentaciones y debilidades específicas. Sus instrucciones y advertencias personales son expresiones de amor divino, no de control o desconfianza. La historia de McLellin es también un recordatorio solemne: recibir advertencias del Señor no garantiza que las seguiremos. La agencia humana siempre está en juego. Pero el Señor siempre advierte antes de los peligros porque quiere que tengamos éxito."
+        contenido: "D&C 51 establece el patrón de administración justa en el reino de Dios: no dar lo mismo a todos, sino dar a cada uno según su necesidad. Este principio tiene consecuencias prácticas para cómo vemos las diferencias entre personas en la Iglesia y en la vida: las diferencias de circunstancias no son señal de que el Señor favorece a unos sobre otros, sino de que Sus bendiciones responden a necesidades distintas. La comparación envenena; la gratitud por lo propio y la generosidad con los que necesitan edifica."
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué demuestra la revelación de D&C 66 sobre el conocimiento que el Señor tiene de cada persona?",
-          "¿Cómo te hace sentir saber que el Señor conoce tus tentaciones y debilidades específicas?",
-          "¿Qué advertencia personal recibes con más frecuencia a través del Espíritu Santo?",
-          "¿Por qué es tan difícil seguir las advertencias del Señor aun cuando sabemos que son correctas?",
-          "¿Qué lección aprendes de la trayectoria de McLellin sobre la importancia de seguir los consejos del Señor?"
+          "¿Qué problema práctico resolvía D&C 51 para los santos que llegaban a Ohio?",
+          "¿Cuál es la diferencia entre igualdad y equidad en cómo el Señor distribuye Sus bendiciones?",
+          "¿Alguna vez comparaste lo que tenés con lo que tiene otra persona y eso te generó resentimiento? ¿Qué cambiaría si vieras tus circunstancias como adaptadas a lo que vos necesitás?",
+          "¿Cómo podrías usar tus recursos — tiempo, dinero, habilidades — de manera más equitativa con quienes tienen necesidad real cerca tuyo?",
+          "¿Qué significa para vos que el Señor le dé a cada persona exactamente lo que necesita para crecer?"
         ]
       }
     ],
     questions: []
   },
 
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 70 — D&C 67
-  // ──────────────────────────────────────────────────────────────────────────────
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 69 — D&C 57
+  // ─────────────────────────────────────────────────────────────────────────────
   {
-    id: "70-dc-67",
-    title: "Doctrina y Convenios 67",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/239-doctrine-and-covenants-67?lang=spa",
+    id: "69-dc-57",
+    title: "Doctrina y Convenios 57",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/212-doctrine-and-covenants-57?lang=spa",
     type: "Doctrina y Convenios - Ven Sigueme",
-    description: "El desafío a los hombres sabios sobre el lenguaje de las revelaciones",
+    description: "Independence, Misuri: el lugar central de Sion",
     secciones: [
       {
         tipo: "contexto",
-        contenido: "En noviembre de 1831, varios líderes de la Iglesia se reunieron para discutir la publicación de las revelaciones. Algunos de ellos, incluyendo a William E. McLellin, dudaban de que el lenguaje de las revelaciones fuera divino: pensaban que podían escribir revelaciones igualmente buenas. El Señor respondió con D&C 67, que contiene un desafío extraordinario: seleccionar la revelación más sencilla de las escritas y que el más sabio de entre ellos intentara escribir otra tan buena. El intento fracasó completamente. Esta revelación prueba que el lenguaje de las revelaciones no es producto de la mente humana de José Smith sino de la inspiración divina. D&C 67 también contiene una promesa hermosa: los que amen al Señor y abandonen sus pecados serán testigos de Él con sus propios ojos, no por señales sino por la pureza de su fe."
+        contenido: "En julio de 1831, José Smith y un grupo de líderes viajaron a Misuri siguiendo la instrucción del Señor de que esa tierra era la promesa para los santos. Cuando llegaron a Independence, el Señor reveló D&C 57: esa ciudad sería el lugar central de Sion, y el terreno donde se construiría el templo fue dedicado por el profeta. Era un momento de cumplimiento profético extraordinario — los santos sentían que estaban parados literalmente en el lugar donde comenzaría la Sion del Señor en los últimos días. El Señor también instruyó a los santos sobre cómo establecerse en esa tierra: comprando terrenos, organizando imprentas, y haciéndolo todo de manera ordenada y fiel. Esta lección enseña que la visión de Sion no es solo espiritual sino también práctica: requiere trabajo, organización y fidelidad en las cosas pequeñas. La Sion que el Señor busca no cae del cielo — se construye una acción fiel a la vez."
       },
       {
         tipo: "escrituras",
         citas: [
           {
-            referencia: "Doctrina y Convenios 67:5–7",
-            texto: "Os propongo ahora que hagáis una prueba con el menor de estos preceptos, incluso el más pequeño e insensato que tengáis, y que el más sabio entre vosotros lo escriba; y si este hombre puede escribir uno semejante, os daré testimonio de que no es yo el que os he dado estas revelaciones.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=spa&id=p5-p7#p5"
+            referencia: "Doctrina y Convenios 57:1–3",
+            texto: "He aquí, así dice el Señor vuestro Dios, y aun Jesucristo, el Gran Yo Soy... El lugar que ahora se denomina Independence es el lugar central, y el templo estará dedicado, por lo que os digo.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/57?lang=spa&id=p1-p3#p1"
           },
           {
-            referencia: "Doctrina y Convenios 67:10–12",
-            texto: "Y otra vez os digo, los que me aman y guardan mis mandamientos, esos recibirán el don del Espíritu Santo; y serán testigos de mí con sus propios ojos, no por señales, mas por la pureza de su fe.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=spa&id=p10-p12#p10"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Tad R. Callister",
-        fuente: "Liahona, noviembre de 2011, pág. 74",
-        texto: "El Libro de Mormón y las revelaciones modernas representan un desafío al mundo. No son el producto de una mente humana ordinaria. El fallido intento de McLellin de imitar la revelación más sencilla es evidencia de que estas palabras tienen un origen divino. El lenguaje de las revelaciones trasciende la capacidad humana."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 67 ofrece evidencia histórica directa de que las revelaciones de Doctrina y Convenios no fueron fabricadas por José Smith: el intento de los líderes más educados de la Iglesia de escribir una revelación equivalente a la más sencilla fracasó completamente. Pero más importante que la evidencia externa es la promesa del versículo 10: quienes amen al Señor y guarden Sus mandamientos serán testigos de Él 'por la pureza de su fe'. El testimonio más poderoso viene del corazón purificado, no de los argumentos intelectuales."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué desafío lanzó el Señor en D&C 67:5–7 y qué resultado tuvo?",
-          "¿Qué evidencia ofrece este evento sobre el origen divino de las revelaciones?",
-          "¿Cómo se convierte alguien en testigo del Salvador 'por la pureza de su fe'?",
-          "¿Qué diferencia existe entre un testimonio basado en señales y uno basado en la pureza de la fe?",
-          "¿Qué pasos concretos puedes dar para desarrollar ese tipo de fe pura en tu vida?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 71 — D&C 68
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "71-dc-68",
-    title: "Doctrina y Convenios 68",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/240-doctrine-and-covenants-68?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "Las palabras de los siervos por el Espíritu son Escritura, y deberes de los padres",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "Doctrina y Convenios 68, dada en noviembre de 1831, contiene dos doctrinas fundamentales que siguen siendo pilares de la Iglesia hoy. La primera: 'Y lo que sea que mis siervos hablen cuando sean movidos por el Espíritu Santo será Escritura, será la voluntad del Señor, será el pensamiento del Señor, será la palabra del Señor' (D&C 68:4). Esta revelación es la base doctrinal de por qué los discursos de la Conferencia General son considerados Escritura en marcha. La segunda: los padres tienen la responsabilidad sagrada de enseñar a sus hijos el evangelio, el arrepentimiento, la fe en Cristo, el bautismo y el don del Espíritu Santo, especialmente antes de que cumplan los ocho años. Si los padres no enseñan estas cosas, el pecado recae sobre ellos. Esta responsabilidad parental no puede ser delegada completamente a la Iglesia."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 68:3–5",
-            texto: "Y esto es el consejo del Señor tu Dios para vuestro bien. Y lo que sea que mis siervos hablen cuando sean movidos por el Espíritu Santo será Escritura, será la voluntad del Señor, será el pensamiento del Señor, será la palabra del Señor, y el poder de Dios para salvación.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa&id=p3-p5#p3"
-          },
-          {
-            referencia: "Doctrina y Convenios 68:25–28",
-            texto: "Y otra vez, inasmuch as parents have children in Zion, or in any of her stakes... that teach them not to understand the doctrine of repentance, faith in Christ the Son of the living God, and of baptism and the gift of the Holy Ghost by the laying on of the hands, when eight years old, the sin be upon the heads of the parents.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa&id=p25-p28#p25"
+            referencia: "Doctrina y Convenios 57:5",
+            texto: "Por lo tanto, he aquí que os digo que es conveniente que mi siervo Sidney Gilbert obtenga una licencia... a fin de establecer un almacén para que los santos puedan comprar la tierra en paz.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/57?lang=spa&id=p5#p5"
           }
         ]
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2023, pág. 6",
-        texto: "Los padres tienen la responsabilidad más sagrada sobre la tierra: criar hijos para el Señor. La Iglesia puede apoyar esa labor, pero no puede reemplazarla. El hogar es el lugar donde los hijos aprenden primero a orar, a estudiar las Escrituras y a amar al Salvador. Esa responsabilidad pertenece principalmente a los padres."
+        fuente: "Liahona, noviembre de 2019, pág. 88",
+        texto: "Sion no es un lugar geográfico solamente — es un pueblo. Un pueblo de corazón puro que elige a Dios sobre todo lo demás. Construir Sion empieza en el corazón de cada individuo, en cada hogar, en cada barrio. No esperemos que Sion llegue desde afuera; construyámosla desde adentro."
       },
       {
         tipo: "conclusion",
-        contenido: "D&C 68 establece dos pilares doctrinales de aplicación permanente: primero, las palabras de los siervos del Señor cuando hablan movidos por el Espíritu Santo son Escritura viva; segundo, los padres tienen la responsabilidad ineludible de enseñar a sus hijos las verdades fundamentales del evangelio. Estas dos doctrinas se conectan: porque las palabras del profeta son Escritura, los padres pueden usarlas como base de su enseñanza en el hogar. El hogar y la Iglesia trabajan juntos, pero la responsabilidad primaria de la educación espiritual pertenece al hogar."
+        contenido: "D&C 57 marca un momento histórico: el Señor señalando el lugar físico donde se edificará Sion en los últimos días. Pero la lección más duradera no es la geografía sino el principio: la Sion del Señor se construye con personas que trabajan fielmente, se organizan con orden y ponen la visión del reino por encima de sus intereses personales. Eso puede comenzar hoy, en tu hogar, en tu barrio, en tu corazón."
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué condición establece D&C 68:4 para que las palabras de un siervo sean consideradas Escritura?",
-          "¿Por qué esta doctrina da autoridad y peso a los discursos de la Conferencia General?",
-          "¿Qué responsabilidad específica tienen los padres según D&C 68:25–28?",
-          "¿Cómo puede un joven que aún no tiene hijos comenzar a prepararse para cumplir esta responsabilidad?",
-          "¿De qué manera puedes honrar a tus padres que te enseñaron el evangelio o, si no lo hicieron, encontrar en la Iglesia esa educación espiritual?"
+          "¿Qué significa que Independence, Misuri sea el 'lugar central' de Sion, según D&C 57?",
+          "¿Por qué creés que el Señor instruyó a los santos a comprar terrenos y organizarse de manera práctica para construir Sion?",
+          "¿Qué tiene que ver Sion con tu vida hoy, si es una ciudad que todavía no existe?",
+          "¿Qué características de un 'pueblo de corazón puro' querés desarrollar vos esta semana?",
+          "¿Qué cosa pequeña pero real podrías hacer en tu hogar o barrio para contribuir a construir Sion desde adentro?"
         ]
       }
     ],
     questions: []
   },
 
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 72 — D&C 76 Parte 1
-  // ──────────────────────────────────────────────────────────────────────────────
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 70 — Práctica del Dominio de la doctrina 4
+  // ─────────────────────────────────────────────────────────────────────────────
   {
-    id: "72-dc-76-parte-1",
-    title: "Doctrina y Convenios 76, Parte 1",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/244-doctrine-and-covenants-76-part-1?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "El testimonio de Joseph Smith y Sidney Rigdon sobre la realidad de Jesucristo",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "En febrero de 1832, mientras José Smith y Sidney Rigdon trabajaban en la Traducción de José Smith de la Biblia en Juan 5:29, recibieron una visión extraordinaria que cambiaría para siempre la comprensión de la vida después de la muerte. D&C 76, conocida como 'La Visión', fue una de las revelaciones más transformadoras de la Restauración. José Smith registró que muchos líderes de la Iglesia lo recibieron con escepticismo, pero con el tiempo se convirtió en una de las revelaciones más amadas. La primera parte de esta visión (versículos 1–49) presenta el testimonio directo de José y Sidney sobre el Padre y el Hijo, la caída de Lucifer, y el destino de los hijos de perdición —aquellos que habiendo tenido un conocimiento perfecto, eligieron traicionar al Salvador."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 76:22–24",
-            texto: "Y ahora, después de tantos testimonios que se nos han dado de él, éste es el testimonio, el último de todos, que damos de él: Que él vive. Porque lo vimos, incluso a la diestra de Dios; y oímos la voz que testificaba de que él era el Unigénito del Padre: que por él, y a través de él, y de él, son los mundos y los habitantes de los mismos creados y llegados a ser.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p22-p24#p22"
-          },
-          {
-            referencia: "Doctrina y Convenios 76:40–42",
-            texto: "Y este es el evangelio, las buenas nuevas que él nos proclamó, y lo que proclamamos también: que él vino al mundo, incluso Jesús, para ser crucificado por el mundo, y para cargar con los pecados del mundo, y para santificarlo, y para limpiarlo de toda injusticia; para que por él todos pudieran ser salvados.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p40-p42#p40"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, mayo de 2014, pág. 70",
-        texto: "El testimonio de D&C 76:22 es uno de los más poderosos en toda la historia de la Iglesia: 'Él vive.' Dos testigos, José Smith y Sidney Rigdon, afirman haber visto al Padre y al Hijo y haber oído la voz del Padre testificar de Su Hijo. Ese testimonio de dos testigos oculares es la base de nuestra fe en la realidad de Jesucristo."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 76:22–24 contiene uno de los testimonios más directos y poderosos de la existencia y realidad de Jesucristo en toda la Escritura: 'Él vive.' Este no es el testimonio de alguien que leyó sobre Cristo o que creyó en Él por tradición; es el testimonio de dos testigos oculares que afirman haberlo visto. Ese testimonio es la piedra angular de la fe de La Iglesia de Jesucristo de los Santos de los Últimos Días: el Salvador vive, fue crucificado por nosotros, y tiene el poder de salvarnos."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué hace especialmente poderoso el testimonio de D&C 76:22–24?",
-          "¿Cómo afecta tu fe el saber que dos personas afirman haber visto y oído al Padre y al Hijo?",
-          "¿Quiénes son los 'hijos de perdición' y qué los distingue de otros que pecan?",
-          "¿Cómo describe D&C 76:40–42 el evangelio en términos simples?",
-          "¿Qué significa para ti personalmente el testimonio 'Él vive'?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 73 — D&C 76 Parte 2
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "73-dc-76-parte-2",
-    title: "Doctrina y Convenios 76, Parte 2",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/245-doctrine-and-covenants-76-part-2?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "Los hijos de perdición y los requisitos del Reino Celestial",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "La segunda parte de D&C 76 (versículos 50–119) describe los tres grados de gloria —Celestial, Terrestre y Telestial— y quiénes los habitarán. Esta revelación fue revolucionaria para su tiempo: la teología cristiana tradicional solo reconocía el cielo y el infierno. El Señor reveló una visión mucho más detallada, misericordiosa y justa de la vida después de la muerte. El Reino Celestial, con sus tres subdivisiones (D&C 76:96–98), está reservado para quienes han recibido el evangelio, lo han vivido fielmente, y han guardado sus convenios. Esta revelación no debe producir arrogancia ('solo los mormones se salvan') sino humildad y motivación: la exaltación máxima en el Reino Celestial requiere recibir todos los convenios necesarios y guardarlos fielmente hasta el final."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 76:50–53",
-            texto: "Y otra vez oímos la voz que testificaba de que son los santos del Altísimo, los cuales en la plenitud de los tiempos, en las edades de los tiempos que han de venir, hasta que todas las cosas son perfectas, recibirán su corona de rectitud, por el don de la Expiación, ante el Padre.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p50-p53#p50"
-          },
-          {
-            referencia: "Doctrina y Convenios 76:96–98",
-            texto: "Y el glorioso esplendor del sol podría ser representado por la gloria del reino más elevado, y también la luna con el segundo reino, y la estrella con el tercero.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p96-p98#p96"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Joseph F. Smith",
-        fuente: "Gospel Doctrine, pág. 448",
-        texto: "La revelación de D&C 76 sobre los tres grados de gloria es una de las más hermosas de toda la dispensación. Muestra la misericordia ilimitada de Dios: incluso los que rechazaron el evangelio en vida tendrán oportunidad de recibir un grado de gloria. Solo aquellos que, teniendo conocimiento perfecto, eligieron activamente resistir y negar a Dios no recibirán gloria alguna."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 76 revela una vida después de la muerte que es infinitamente más misericordiosa y justa que las tradiciones religiosas previas. Dios, en Su amor perfecto, ha preparado un lugar adecuado para cada uno de Sus hijos según sus convenios y vida. El objetivo más alto —el Reino Celestial y la exaltación— requiere hacer y guardar todos los convenios del evangelio. Esta revelación debería motivar a los jóvenes no por miedo al infierno, sino por deseo genuino de vivir con Dios y sus familias para siempre."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Cuáles son los tres reinos de gloria descritos en D&C 76 y quiénes los habitarán?",
-          "¿Cómo demuestra esta revelación la misericordia de Dios?",
-          "¿Qué requisitos identifica D&C 76:50–53 para habitar el Reino Celestial?",
-          "¿Cómo cambia esta visión de la vida después de la muerte tu motivación para vivir el evangelio?",
-          "¿Qué convenios has hecho que son necesarios para el Reino Celestial, y cómo los estás guardando?"
-        ]
-      }
-    ],
-    questions: []
-  }
-]
-
-// ═══════════════════════════════════════════════════════════════════════════════
-// SEMANA 13 — 26 de Mayo al 1 de Junio
-// D&C 76 Parte 3, D&C 77, D&C 78, D&C 79–80, D&C 81
-// ═══════════════════════════════════════════════════════════════════════════════
-
-export const semana13Lecciones: Lesson[] = [
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 73c — D&C 76 Parte 3
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "73-dc-76-parte-3",
-    title: "Doctrina y Convenios 76, Parte 3",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/246-doctrine-and-covenants-76-part-3?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "Los Reinos Terrestre y Telestial en la visión de las glorias",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "La tercera parte de D&C 76 concluye la descripción de los tres reinos de gloria con enfoque en los reinos Terrestre y Telestial. El Reino Terrestre (versículos 71–80) está destinado a las personas honorables que rechazaron el evangelio en esta vida pero lo aceptarán eventualmente, y a los miembros que no fueron valientes en su testimonio. El Reino Telestial (versículos 81–90) acogerá a los que no aceptaron el evangelio ni la Expiación, viviendo en el pecado sin arrepentirse. Incluso el reino Telestial supera toda comprensión humana (v. 89), lo que muestra la magnitud de la misericordia de Dios. Esta sección culmina con la advertencia de que es imposible para los hombres comprender la glorificación completa de estos reinos sin revelación directa del Señor."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 76:71–74",
-            texto: "Y otra vez oímos la voz que decía: He aquí, el esplendor del reino Terrestre, en el cual éstos recibirán de la presencia del Hijo, pero no de la plenitud del Padre. Estos son los que murieron sin ley; y también los que son los espíritus de los hombres guardados hasta la resurrección de los muertos.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p71-p74#p71"
-          },
-          {
-            referencia: "Doctrina y Convenios 76:89",
-            texto: "Y así oímos la voz del Señor decir: Estos todos morarán en la presencia de Dios y del Cordero para siempre jamás. Y sus glorias difieren en un grado, aun como difieren en gloria la luna del sol.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p89#p89"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Joseph Smith",
-        fuente: "History of the Church, vol. 1, pág. 245",
-        texto: "Cuando recibí esta visión, me dije a mí mismo: Si hubiera sabido antes cómo es el cielo, hubiera vivido diferente. La misericordia de Dios es tan grande que incluso el reino más bajo supera todo lo que el hombre puede imaginar. Pero el Reino Celestial, con la plenitud de la gloria de Dios, vale cada sacrificio que se haga para alcanzarlo."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "La visión completa de D&C 76 revela un Dios infinitamente misericordioso que ha preparado gloria para prácticamente todos Sus hijos. Pero también revela que hay diferencias eternas entre quienes guardaron sus convenios con valentía y quienes no lo hicieron. Esta revelación debe inspirar no orgullo sino gratitud por el conocimiento del evangelio y motivación para vivir fielmente. Cada persona que recibe el evangelio y los convenios del templo tiene la oportunidad de alcanzar la exaltación más alta."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Quiénes habitarán el Reino Terrestre según D&C 76:71–80?",
-          "¿Qué sorprende de la descripción del Reino Telestial en D&C 76:89?",
-          "¿Cómo demuestra esta revelación tanto la misericordia como la justicia de Dios?",
-          "¿Qué significa ser 'no valiente en el testimonio' en relación con el Reino Terrestre?",
-          "¿Qué decisiones estás tomando ahora que afectarán qué reino de gloria habites?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 74 — D&C 77
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "74-dc-77",
-    title: "Doctrina y Convenios 77",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/247-doctrine-and-covenants-77?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "Explicación de la revelación de Juan el Teólogo",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "Hacia principios de 1832, mientras trabajaba en la Traducción de José Smith, el profeta tenía preguntas sobre los símbolos del libro de Apocalipsis. D&C 77 contiene las respuestas directas del Señor a quince preguntas específicas sobre el Apocalipsis de Juan, proporcionando claridad sobre las bestias, los ancianos, los sellos y la duración de la tierra. Esta revelación ilustra un principio importante del estudio de las Escrituras: es válido y valioso hacer preguntas sinceras mientras se estudia, y el Señor puede responderlas a través del Espíritu Santo. D&C 77 también nos recuerda que las Escrituras proféticas tienen significados simbólicos que no siempre son obvios sin la revelación: las cuatro bestias representan seres glorificados que honran a Dios, los veinticuatro ancianos son líderes del sacerdocio ya resucitados."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 77:2",
-            texto: "P. ¿Qué son los mares de cristal que menciona Juan 4:6? R. Es la tierra en su estado santificado e inmortal.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77?lang=spa&id=p2#p2"
-          },
-          {
-            referencia: "Doctrina y Convenios 77:6–7",
-            texto: "P. ¿Qué es el libro sellado con siete sellos que menciona Juan? R. Es un registro de las cosas concernientes a la voluntad de Dios para los habitantes de la tierra, cada uno de los siete sellos tiene el registro de las revelaciones de Dios para las siete épocas de la historia de la tierra.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77?lang=spa&id=p6-p7#p6"
-          }
-        ]
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 77 demuestra que el Señor honra las preguntas sinceras de Sus siervos sobre las Escrituras. Hacer preguntas durante el estudio no es señal de falta de fe sino de compromiso genuino con entender la verdad. El Señor puede responder esas preguntas a través del Espíritu Santo, como lo hizo con José Smith sobre el Apocalipsis. Este modelo de preguntar y recibir respuestas es aplicable a cualquier estudio de las Escrituras."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué método de estudio ejemplifica D&C 77 al hacer preguntas específicas sobre el Apocalipsis?",
-          "¿Qué significan los siete sellos del libro de Apocalipsis según D&C 77:6–7?",
-          "¿Qué preguntas tienes tú sobre las Escrituras que podrías llevar en oración al Señor?",
-          "¿Cómo puede el hábito de hacer preguntas sinceras durante el estudio fortalecer tu comprensión del evangelio?",
-          "¿Qué simbolismo del Apocalipsis te resulta más significativo a la luz de D&C 77?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 75 — D&C 78
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "75-dc-78",
-    title: "Doctrina y Convenios 78",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/248-doctrine-and-covenants-78?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "La organización de los asuntos temporales de la Iglesia para los pobres",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "En marzo de 1832, el Señor mandó a José Smith organizar un sistema de almacenes para administrar los bienes de la Iglesia y cuidar de los pobres a nivel institucional. D&C 78 establece que este sistema temporal tiene un propósito eterno: hacer a los santos 'libres' de las preocupaciones temporales para que puedan concentrarse en las cosas del espíritu. El Señor usa una imagen poderosa: quienes son fieles en las cosas temporales serán preparados para recibir las bendiciones celestiales. 'Si no sois iguales en las cosas terrenales, no podéis ser iguales en las cosas celestiales' (D&C 78:6). Esta revelación establece que la igualdad temporal y espiritual están profundamente conectadas en el evangelio."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 78:5–7",
-            texto: "Que podáis estar organizados de acuerdo con las leyes del hombre, para que vuestros enemigos no tengan poder sobre vosotros, y para que seáis conservados y exaltados ante Dios y con Dios... Si no sois iguales en las cosas terrenales, no podéis ser iguales en la obtención de cosas celestiales.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p5-p7#p5"
-          },
-          {
-            referencia: "Doctrina y Convenios 78:19",
-            texto: "Y aquel que recibe todas las cosas con acción de gracias será glorificado; y las cosas de esta tierra le serán añadidas, incluso cien veces más, sí, más.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p19#p19"
-          }
-        ]
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 78 establece que la igualdad temporal y la igualdad espiritual están conectadas: 'Si no sois iguales en las cosas terrenales, no podéis ser iguales en las cosas celestiales.' Esto no significa que todos deban tener exactamente lo mismo, sino que debemos usar los bienes de Dios con justicia, generosidad y perspectiva eterna. La promesa de D&C 78:19 para quienes reciben todo con gratitud es extraordinaria: serán glorificados y se les añadirá cien veces más."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué conexión establece D&C 78:6 entre la igualdad temporal y la igualdad espiritual?",
-          "¿Cómo puede el manejo justo y generoso de los bienes temporales prepararte para las bendiciones celestiales?",
-          "¿Qué promesa específica hace D&C 78:19 a quienes reciben todo con acción de gracias?",
-          "¿De qué manera vives hoy el principio de usar los bienes temporales para bendecir a otros?",
-          "¿Cómo cambia la gratitud tu perspectiva de lo que tienes y lo que necesitas?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 76 — D&C 79–80
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "76-dc-79-80",
-    title: "Doctrina y Convenios 79–80",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/249-doctrine-and-covenants-79-80?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "Llamamientos misionales a Jared Carter, Stephen Burnett y Eden Smith",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "D&C 79 y 80, reveladas en marzo de 1832, contienen llamamientos misionales específicos para Jared Carter, Stephen Burnett y Eden Smith. Aunque son revelaciones breves, ilustran un principio eterno: el Señor llama a Sus siervos a predicar 'sea como sea el mandamiento del Espíritu Santo' (D&C 80:3). Esto significa que los misioneros deben estar dispuestos a adaptar su mensaje, sus métodos y su itinerario a la guía del Espíritu Santo en lugar de seguir un plan rígido. D&C 79 también contiene una promesa hermosa para los misioneros fieles: regresarán a casa 'con gozo' si predican fielmente. Este gozo de servir al Señor es una recompensa que muchos misioneros describen como la experiencia más transformadora de sus vidas."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 79:3",
-            texto: "Y si eres fiel, regresarás a tu casa y a tus seres queridos con gozo.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/79?lang=spa&id=p3#p3"
-          },
-          {
-            referencia: "Doctrina y Convenios 80:3",
-            texto: "Por lo tanto, id vosotros y predicad mi evangelio, sea como sea el mandamiento del Espíritu Santo; sé que conocéis el evangelio; por tanto, predicadlo.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/80?lang=spa&id=p3#p3"
-          }
-        ]
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 79–80 enseñan que el servicio misional fiel, guiado por el Espíritu Santo, trae gozo. No solo gozo a las personas que reciben el evangelio, sino al propio misionero. La instrucción 'predicad sea como sea el mandamiento del Espíritu Santo' es una de las más liberadoras del llamamiento misional: confíen en el Espíritu más que en los planes humanos. Este principio aplica también a todos los discípulos que comparten el evangelio en su vida cotidiana."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué promesa hace el Señor en D&C 79:3 a los misioneros fieles?",
-          "¿Qué significa predicar 'sea como sea el mandamiento del Espíritu Santo' según D&C 80:3?",
-          "¿Cómo puede este principio de seguir el Espíritu aplicarse en la misión diaria de un miembro de la Iglesia?",
-          "¿Qué tipo de preparación espiritual es más importante para un misionero?",
-          "¿Has experimentado el 'gozo' de compartir el evangelio? ¿Cómo fue esa experiencia?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 77 — D&C 81
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "77-dc-81",
-    title: "Doctrina y Convenios 81",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/250-doctrine-and-covenants-81?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "El llamamiento de Frederick G. Williams en la Primera Presidencia",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "En marzo de 1832, el Señor estableció el principio de que el Primer Consejero en la Primera Presidencia de la Iglesia es el portador de las llaves del reino junto al Presidente. D&C 81 fue originalmente dada para Jesse Gause, quien fue llamado como Primer Consejero pero posteriormente excomulgado. Frederick G. Williams fue eventualmente quien recibió este llamamiento y en quien se cumplieron las promesas. D&C 81 es notable porque establece las responsabilidades del Primer Consejero en términos aplicables a todos los líderes de la Iglesia: fortalecer a los hermanos débiles, levantar las manos caídas, consolar a los afligidos, y obrar con toda diligencia. La promesa del versículo 6 es una de las más motivadoras del canon: 'Si eres fiel hasta el fin, recibirás una corona de inmortalidad y vida eterna.'"
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 81:3–5",
-            texto: "Por tanto, sé fiel; mira a la necesidad de los débiles de entre tus hermanos y líbralos de sus aflicciones, mira al enfermo y al afligido, y al humilde y manso y sumiso de corazón. Ve a los pobres y a los necesitados, y ve y cuida a los enfermos y afligidos con tus propias manos.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/81?lang=spa&id=p3-p5#p3"
-          },
-          {
-            referencia: "Doctrina y Convenios 81:6",
-            texto: "Si eres fiel hasta el fin recibirás una corona de inmortalidad y vida eterna en las moradas que mi Padre ha preparado en las mansiones de su casa.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/81?lang=spa&id=p6#p6"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Thomas S. Monson",
-        fuente: "Liahona, mayo de 2009, pág. 68",
-        texto: "Mirar las necesidades de los débiles, levantar las manos caídas, consolar al afligido: estas no son responsabilidades exclusivas de los líderes de la Iglesia. Son el estilo de vida del discípulo de Cristo. Cada uno de nosotros tiene personas en nuestro entorno que necesitan exactamente lo que D&C 81 describe: ser vistas, ser ayudadas, ser consoladas."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 81 describe el ministerio del discípulo de Cristo en términos concretos y hermosos: mirar a los débiles, fortalecer a los caídos, consolar a los afligidos. Estas responsabilidades no son solo para los líderes; son el llamamiento de cada miembro bautizado. La promesa de fidelidad hasta el fin —'recibirás una corona de inmortalidad y vida eterna'— es la motivación más poderosa para perseverar en el discipulado aun cuando es difícil."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Cuáles son las responsabilidades específicas de servicio que describe D&C 81:3–5?",
-          "¿Cómo aplican estas responsabilidades a tu vida como discípulo, aunque no seas líder formal?",
-          "¿Hay alguien en tu entorno que necesita exactamente el tipo de ministerio que D&C 81 describe?",
-          "¿Qué significa ser 'fiel hasta el fin' en tu situación personal?",
-          "¿Qué promesa específica motiva en D&C 81:6, y cómo afecta tus decisiones diarias?"
-        ]
-      }
-    ],
-    questions: []
-  }
-]
-
-// ═══════════════════════════════════════════════════════════════════════════════
-// SEMANA 14 — 2 al 8 de Junio
-// D&C 82, D&C 83, D&C 84 Parte 1, D&C 84 Parte 2, Fuentes divinas Parte 1
-// ═══════════════════════════════════════════════════════════════════════════════
-
-export const semana14Lecciones: Lesson[] = [
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 78 — D&C 82
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "78-dc-82",
-    title: "Doctrina y Convenios 82",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/251-doctrine-and-covenants-82?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "A quien mucho se le da, mucho se le requiere, y la ley del perdón",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "En abril de 1832, el Señor reunió a José Smith con varios líderes de la Iglesia para establecer la Firma Firme, una organización para administrar los bienes de la Iglesia. D&C 82 contiene instrucciones sobre el arrepentimiento pasado y las responsabilidades presentes. El Señor también enseñó el principio de los convenios vinculantes: cuando Él hace una promesa condicional y nosotros cumplimos nuestra parte, el Señor está obligado a cumplir la suya. 'Yo el Señor estoy obligado cuando hacéis lo que os digo; mas cuando no hacéis lo que os digo, no tenéis promesa' (D&C 82:10). Esta es una de las afirmaciones más poderosas sobre la naturaleza de los convenios en toda la Escritura. También contiene la advertencia de D&C 82:3: al que más se le ha dado, más se le requiere."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 82:3",
-            texto: "Porque de aquel a quien se ha dado mucho, también mucho se requerirá; y aquel que peca contra la mayor luz, recibe la mayor condenación.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p3#p3"
-          },
-          {
-            referencia: "Doctrina y Convenios 82:10",
-            texto: "Yo el Señor estoy obligado cuando hacéis lo que os digo; mas cuando no hacéis lo que os digo, no tenéis promesa.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p10#p10"
-          },
-          {
-            referencia: "Doctrina y Convenios 82:7",
-            texto: "Y ahora en verdad os digo, os digo otra vez que el Señor perdona los pecados a los que confiesan sus pecados delante de él y piden perdón, los cuales tienen fe suficiente para arrepentirse.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p7#p7"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder D. Todd Christofferson",
-        fuente: "Liahona, noviembre de 2014, pág. 107",
-        texto: "D&C 82:10 es uno de los versículos más seguros de toda la Escritura: el Señor está obligado. No podemos obligar a personas, instituciones ni gobiernos; pero podemos obligar a Dios cumpliendo los términos de Sus convenios. Eso es seguridad real: saber que cuando cumplimos nuestra parte, Dios siempre cumple la Suya."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 82 establece dos principios eternos que funcionan juntos: a quien más luz se le da, más responsabilidad tiene (v. 3); y cuando cumplimos nuestra parte del convenio, el Señor está obligado a cumplir la Suya (v. 10). El conocimiento del evangelio que los santos de los últimos días tienen es un privilegio extraordinario que conlleva una responsabilidad extraordinaria. Pero la promesa es igualmente extraordinaria: el Señor cumple Su palabra."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué significa D&C 82:3 para alguien que ha recibido el evangelio completo?",
-          "¿Cómo describe D&C 82:10 la naturaleza vinculante de los convenios con Dios?",
-          "¿Qué convenios has hecho con el Señor y cómo estás cumpliendo tu parte?",
-          "¿Cómo puede la promesa 'el Señor está obligado cuando hacéis lo que os digo' darte paz y seguridad?",
-          "¿Cómo equilibras la responsabilidad adicional que viene con el conocimiento del evangelio con la gracia del perdón de D&C 82:7?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 79 — D&C 83
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "79-dc-83",
-    title: "Doctrina y Convenios 83",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/252-doctrine-and-covenants-83?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "El cuidado de las viudas y de los huérfanos bajo las leyes de la Iglesia",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "D&C 83, revelada en abril de 1832, es la más breve de las revelaciones de Doctrina y Convenios, pero contiene un principio profundamente importante: la Iglesia tiene la responsabilidad de cuidar a las viudas y a los huérfanos cuyos esposos o padres hayan sido fieles. Esta revelación fue especialmente relevante en una época en que las mujeres que perdían a sus esposos quedaban en condiciones de extrema vulnerabilidad económica. El Señor estableció que la Iglesia tiene derechos y responsabilidades sobre sus miembros necesitados. Este principio se vive hoy a través del programa de bienestar de la Iglesia, el fondo de ayuda humanitaria, y el ministerio personal de los miembros. El cuidado de los vulnerables no es opcional en el evangelio de Jesucristo."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 83:1–2",
-            texto: "En verdad os digo que las mujeres tienen derecho a ser sostenidas por sus esposos, en tanto que habiten juntos. Y los hijos tienen derecho a ser sostenidos por sus padres.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/83?lang=spa&id=p1-p2#p1"
-          },
-          {
-            referencia: "Doctrina y Convenios 83:6",
-            texto: "Y la viuda y el huérfano que no observen la ley de la Iglesia no tendrán derecho de ser sostenidos por los bienes de la Iglesia.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/83?lang=spa&id=p6#p6"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Thomas S. Monson",
-        fuente: "Liahona, mayo de 2012, pág. 4",
-        texto: "El Salvador fue el primero en ministrar a las viudas, a los huérfanos, a los enfermos y a los marginados. Nosotros como Sus discípulos estamos llamados a hacer lo mismo. No hay forma más Christlike de usar el tiempo y los recursos que cuidar de los que el mundo ha olvidado."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 83, aunque breve, establece el principio eterno de que la Iglesia y sus miembros tienen responsabilidad de cuidar a los más vulnerables: viudas, huérfanos y necesitados. Este principio no es solo institucional; es personal. Cada miembro tiene la responsabilidad de mirar a su alrededor y servir activamente a quienes el mundo y las circunstancias han dejado solos. Ser miembro de la Iglesia significa ser parte de una comunidad de cuidado mutuo que refleja el amor del Salvador."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué responsabilidades específicas hacia los vulnerables establece D&C 83?",
-          "¿Cómo se vive este principio en el programa de bienestar de la Iglesia hoy?",
-          "¿Hay viudas, huérfanos o personas vulnerables en tu entorno que necesitan tu atención?",
-          "¿Qué diferencia hace en una comunidad cuando sus miembros se cuidan mutuamente?",
-          "¿Cómo puedes ser un instrumento del cuidado del Señor hacia alguien necesitado esta semana?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 80 — D&C 84 Parte 1
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "80-dc-84-parte-1",
-    title: "Doctrina y Convenios 84, Parte 1",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/253-doctrine-and-covenants-84-part-1?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "El juramento y el convenio del Sacerdocio",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "Doctrina y Convenios 84, revelada en septiembre de 1832, es una de las revelaciones más extensas e importantes del canon restaurado. La primera parte trata sobre los linajes del sacerdocio desde Moisés hasta Juan el Bautista, y sobre el juramento y el convenio del sacerdocio —la relación entre el sacerdocio y el poder de Dios. El Señor explicó que quien recibe el sacerdocio entra en un convenio con Dios: la parte de Dios es dar poder, conocimiento y autoridad; la parte del poseedor es usarlos fielmente para bendecir a otros. Quien rechaza o deshonra este convenio 'pierde el cargo que tenía de Dios' (D&C 84:41). Esta revelación también declaró que los santos de Kirtland habían tratado ligeramente el Libro de Mormón, lo que resultó en que su mente fue ensombrecida."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 84:33–38",
-            texto: "Porque el que recibe mis siervos, a mí me recibe; y el que recibe a mí, recibe a mi Padre; y el que recibe a mi Padre, recibe el reino de mi Padre; por tanto todos los que reciben el sacerdocio, reciben este juramento y convenio de mi Padre, el cual Él no puede romper ni tampoco puede ser movido.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p33-p38#p33"
-          },
-          {
-            referencia: "Doctrina y Convenios 84:54–58",
-            texto: "Y vuestras mentes han sido ensombrecidas a causa de la incredulidad, y porque habéis tratado ligeramente las cosas que habéis recibido; lo cual vanidad y descreencia ha traído sobre toda la Iglesia maldición aun una gran maldición.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p54-p58#p54"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Ezra Taft Benson",
-        fuente: "Liahona, mayo de 1986, pág. 4",
-        texto: "El Señor nos advirtió que tratar ligeramente el Libro de Mormón trae oscuridad espiritual. El remedio es sencillo pero demandante: estudiar el Libro de Mormón diariamente, con sinceridad, buscando la voz del Salvador en sus páginas. Si lo hacemos, la oscuridad que amenaza nuestras mentes se disipará."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 84 establece que el sacerdocio conlleva un juramento y convenio sagrado: recibir al poseedor del sacerdocio es recibir al Señor mismo. Esta doctrina eleva el significado de cada ordenanza realizada por un poseedor fiel del sacerdocio: es el Señor actuando a través de un instrumento mortal. La advertencia sobre tratar ligeramente el Libro de Mormón es igualmente vigente hoy: cuando no lo estudiamos diariamente, nuestra mente se oscurece. La solución es siempre la misma: leer, meditar y aplicar sus enseñanzas."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué es el 'juramento y convenio del sacerdocio' descrito en D&C 84:33–38?",
-          "¿Cómo honras tú el sacerdocio que llevas o el que recibes a través de las ordenanzas?",
-          "¿Qué significa 'tratar ligeramente' el Libro de Mormón, y cómo evitarlo?",
-          "¿Qué efectos espirituales describe D&C 84:54–58 de tratar ligeramente las Escrituras?",
-          "¿Con qué frecuencia y de qué manera estudias el Libro de Mormón actualmente?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 81 — D&C 84 Parte 2
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "81-dc-84-parte-2",
-    title: "Doctrina y Convenios 84, Parte 2",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/254-doctrine-and-covenants-84-part-2?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "La luz de Cristo, la condenación por desechar el Libro de Mormón e instrucciones de viaje",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "La segunda parte de D&C 84 (versículos 44–120) contiene algunas de las doctrinas más importantes sobre la luz de Cristo, que es el principio inteligente que procede de Dios y llena el universo, que da vida a todas las cosas y es la luz en la mente de los hombres. Todos los seres humanos —independientemente de su religión— tienen la luz de Cristo, que les permite discernir el bien del mal. Esta luz es diferente del don del Espíritu Santo, que se recibe mediante las manos de un poseedor del sacerdocio. D&C 84 también contiene instrucciones misionales específicas para los misioneros: viajar sin bolsa ni alforja, confiar en la hospitalidad de los que reciben el evangelio, y sacudir el polvo de sus pies cuando son rechazados."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 84:45–47",
-            texto: "Porque la palabra del Señor es verdad, y todo lo que es verdad es luz, y todo lo que es luz es Espíritu, incluso el Espíritu de Jesucristo. Y el Espíritu da luz a todo hombre que viene al mundo; y el Espíritu ilumina a todo hombre a través del mundo que escucha la voz del Espíritu.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p45-p47#p45"
-          },
-          {
-            referencia: "Doctrina y Convenios 84:88",
-            texto: "Y os lo prometo que yo seré con vosotros según la promesa que el Padre os hizo, aun la vida eterna; para que en el lugar donde yo estoy vosotros también estéis. Así que id y predicad el evangelio y bendecid a los que creen e increpéis a los que no creen; porque yo el Señor soy el camino, la verdad y la vida.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p88#p88"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Parley P. Pratt",
-        fuente: "Key to the Science of Theology, pág. 101",
-        texto: "La luz de Cristo es esa chispa divina que está en cada ser humano. Es lo que permite a las personas de toda cultura y religión reconocer la bondad, sentir compasión y desear el bien. Es el punto de contacto entre Dios y Sus hijos que aún no han recibido el evangelio completo."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 84:45–47 revela que la luz de Cristo está en todo ser humano que viene al mundo. Esta doctrina explica por qué personas de todas las culturas y religiones pueden hacer el bien, sentir compasión y reconocer la verdad: es la luz de Cristo que ilumina a todo hombre. Esta comprensión debe cambiar cómo vemos a las personas que no son miembros de la Iglesia: no como ajenas a Dios, sino como personas que ya llevan Su luz y están siendo preparadas para recibir el evangelio completo."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué es la 'luz de Cristo' según D&C 84:45–47 y cómo se diferencia del don del Espíritu Santo?",
-          "¿Cómo cambia esta doctrina tu forma de ver a personas que no son miembros de la Iglesia?",
-          "¿Qué ejemplos de la luz de Cristo puedes identificar en personas de otras religiones o culturas?",
-          "¿Qué promesa hermosa da el Señor en D&C 84:88 a los misioneros y discípulos fieles?",
-          "¿Cómo puede la comprensión de la luz de Cristo guiar tu actitud hacia la obra misional?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN — Fuentes divinamente señaladas Parte 1 (semana 14)
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "185-fuentes-divinas-1",
-    title: "Fuentes divinamente señaladas - Parte 1",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/525-acquiring-spiritual-knowledge-part-4?lang=spa",
+    id: "70-dominio-practica-4",
+    title: "Práctica del Dominio de la doctrina 4",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/213-doctrinal-mastery-practice-4?lang=spa",
     type: "Dominio de la Doctrina",
-    description: "Aprender a buscar la verdad mediante las fuentes establecidas por Dios",
+    description: "Repaso y aplicación práctica de pasajes clave",
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Esta lección del Dominio de la Doctrina profundiza en el tercer principio para adquirir conocimiento espiritual: buscar comprensión a través de las fuentes divinamente señaladas. En el mundo digital actual, existe una proliferación de fuentes de información sobre el evangelio, muchas de ellas no confiables o activamente engañosas. El Padre Celestial, en Su amor, ha establecido fuentes específicas para guiarnos: las Escrituras, los discursos de Conferencia General, los materiales de la Iglesia, los líderes fieles, y el Espíritu Santo a través de la oración. Esta lección enseña a los alumnos a evaluar críticamente las fuentes que usan para buscar respuestas espirituales, y a confiar en las fuentes que el Señor ha establecido en lugar de las que el mundo proporciona."
+        contenido: "En esta sesión de práctica se consolidan los pasajes del Dominio de la Doctrina de las últimas semanas. El foco es la capacidad de uso en situaciones reales: no solo recitar versículos sino explicar la doctrina que contienen, conectarla con la vida del alumno y aplicarla a preguntas o situaciones concretas. Los pasajes en repaso incluyen D&C 45:3–5 sobre el Salvador como Intercesor, D&C 46:11–12 sobre los dones del Espíritu, y D&C 50:24 sobre la luz que crece. El dominio real se prueba cuando el versículo surge naturalmente en la conversación, no cuando se recita de memoria bajo presión."
       },
       {
         tipo: "escrituras",
         citas: [
           {
-            referencia: "Doctrina y Convenios 52:14",
-            texto: "He aquí, os doy una señal por la cual podréis saber el espíritu que guía a un siervo del Señor: aquel cuyo espíritu humilla al hombre es de Dios.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/52?lang=spa&id=p14#p14"
+            referencia: "Doctrina y Convenios 46:11–12",
+            texto: "A todos se les dan dones por el Espíritu de Dios. A algunos se les da uno, y a otros se les da otro, para que todos sean beneficiados.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p11-p12#p11"
           },
           {
-            referencia: "Doctrina y Convenios 50:23",
-            texto: "Todo aquello que edifica viene de Dios.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p23#p23"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2021, pág. 6",
-        texto: "Vivimos en una época de información sin precedentes. Pero la cantidad de información no garantiza la calidad de la verdad. Las fuentes que el Señor ha establecido —Escrituras, profetas vivientes, Espíritu Santo— son más confiables que cualquier fuente que el mundo pueda ofrecer. Aprender a confiar en ellas es una habilidad espiritual esencial para estos días."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "Las fuentes divinamente señaladas no son arbitrarias; son el resultado del amor de un Padre Celestial que quiere que Sus hijos encuentren la verdad y no sean engañados. En una época de desinformación masiva, confiar en las fuentes que el Señor ha establecido es tanto una decisión espiritual como una decisión práctica de sabiduría. El criterio último de D&C 50:23 —'todo lo que edifica viene de Dios'— es una prueba simple pero poderosa para evaluar cualquier información espiritual."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Cuáles son las fuentes divinamente señaladas que el Señor ha establecido para guiar a Sus hijos?",
-          "¿Cómo evalúas la confiabilidad de una fuente de información espiritual?",
-          "¿Qué ejemplos conoces de fuentes no confiables que han llevado a personas a alejarse de la fe?",
-          "¿Cómo puede el criterio 'todo lo que edifica viene de Dios' ayudarte a evaluar lo que lees o escuchas?",
-          "¿Qué hábitos puedes desarrollar para recurrir más consistentemente a las fuentes divinamente señaladas?"
-        ]
-      }
-    ],
-    questions: []
-  }
-]
-
-// ═══════════════════════════════════════════════════════════════════════════════
-// SEMANA 15 — 9 al 15 de Junio
-// D&C 85–86, D&C 87, D&C 88 Parte 1, D&C 88 Parte 2, Dominio 3
-// ═══════════════════════════════════════════════════════════════════════════════
-
-export const semana15Lecciones: Lesson[] = [
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 82 — D&C 85–86
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "82-dc-85-86",
-    title: "Doctrina y Convenios 85–86",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/257-doctrine-and-covenants-85-86?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "El registro del orden en Sion y la parábola del trigo y la cizaña",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "D&C 85, dada en noviembre de 1832, trata sobre la importancia del registro del orden en Sion: cada persona que se congregue debe ser registrada y reconocida oficialmente por el obispo para recibir su herencia. Esta revelación subraya la importancia de los registros de la Iglesia como parte del orden divino. D&C 86, dada en diciembre de 1832, es la explicación del Señor a la parábola del trigo y la cizaña. El Señor aclaró que Él está permitiendo que ambos crezcan juntos en el mundo para no arrancar el trigo antes de tiempo. La cizaña —el mundo pecaminoso— no será separada del trigo hasta que llegue el momento de la cosecha, que es el fin del mundo. Esta parábola tiene implicaciones directas para cómo los santos deben ver su coexistencia con el mundo."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 86:4–7",
-            texto: "Por tanto, no permitáis que la cizaña sea arrancada de entre el trigo en el día que está entre vosotros, para que no provoquéis una destrucción de la tierra. Mas he aquí, al fin del mundo los ángeles separarán los malos de los justos.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/86?lang=spa&id=p4-p7#p4"
-          },
-          {
-            referencia: "Doctrina y Convenios 86:8–10",
-            texto: "Vosotros sois la simiente de Abraham, y los sacerdotes y reyes vuestros padres han sido llamados; pero vosotros sois los escogidos en quienes la plenitud de estas cosas son guardadas, sí, las llaves de la plenitud de las ordenanzas de Dios.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/86?lang=spa&id=p8-p10#p8"
-          }
-        ]
-      },
-      {
-        tipo: "conclusion",
-        contenido: "La parábola del trigo y la cizaña de D&C 86 enseña paciencia divina: el Señor permite que justos e injustos coexistan en este mundo para proteger al trigo de ser arrancado antes de tiempo. Esta perspectiva debe cambiar cómo los santos de los últimos días ven el mundo que los rodea: no con hostilidad o miedo, sino con paciencia y amor, sabiendo que el tiempo de la separación pertenece a Dios, no a ellos."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué representa el trigo y la cizaña en D&C 86 y por qué el Señor permite que crezcan juntos?",
-          "¿Cómo debe cambiar esta parábola la actitud de los santos hacia el mundo?",
-          "¿Qué significa ser 'simiente de Abraham' y guardadores de 'las llaves de la plenitud de las ordenanzas'?",
-          "¿Por qué es importante el registro del orden en Sion según D&C 85?",
-          "¿Cómo mantienes tu identidad como 'trigo' mientras convives con la cizaña del mundo?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 83 — D&C 87
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "83-dc-87",
-    title: "Doctrina y Convenios 87",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/258-doctrine-and-covenants-87?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "Profecía sobre guerras y el mandato de permanecer en lugares santos",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "Doctrina y Convenios 87 fue dada en diciembre de 1832, en un momento en que la nación estadounidense enfrentaba la 'Crisis de Anulación', cuando Carolina del Sur amenazaba con separarse de los Estados Unidos. El Señor reveló a través del profeta José Smith una profecía sobre la guerra entre los estados del norte y el sur de los Estados Unidos, que se cumplió con exactitud en la Guerra Civil de 1861–1865. Más allá de su cumplimiento histórico, D&C 87 contiene una advertencia universal: en los últimos días habrá guerras en todas las naciones, hasta que la muerte y el luto llenen la tierra. El remedio del Señor es claro: 'estad en lugares santos y no os mováis' (D&C 87:8). Los 'lugares santos' incluyen el hogar, los templos y la Iglesia."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 87:1–3",
-            texto: "En verdad, así dice el Señor, concerniente a las guerras que pronto vendrán sobre las naciones de la tierra: He aquí, la rebelión del Sur comenzará en Carolina del Sur, la cual se denominará Guerra del Sur; y el Sur se levantará en guerra contra el Norte.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/87?lang=spa&id=p1-p3#p1"
-          },
-          {
-            referencia: "Doctrina y Convenios 87:8",
-            texto: "Por tanto, estad en lugares santos y no os mováis hasta que llegue el día del Señor; porque he aquí, viene pronto, dice el Señor.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/87?lang=spa&id=p8#p8"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Harold B. Lee",
-        fuente: "Liahona, julio de 1973, pág. 104",
-        texto: "Los 'lugares santos' de D&C 87:8 incluyen el templo, el hogar, la Iglesia y el corazón purificado. El mandato de 'permanecer en lugares santos' es la respuesta del Señor a los caos y peligros del mundo. Quienes permanecen en estos lugares santos están bajo la protección del Señor."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 87 demuestra el poder de la profecía: el Señor conoce el futuro y advierte con anticipación. El cumplimiento exacto de la profecía sobre la Guerra Civil es una evidencia poderosa del origen divino de estas revelaciones. La aplicación práctica para los jóvenes hoy es la invitación de D&C 87:8: 'estad en lugares santos y no os mováis.' En medio de un mundo turbulento, los santos que permanecen en el hogar, el templo y la Iglesia están en el lugar más seguro."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Cómo se cumplió la profecía de D&C 87 sobre la Guerra Civil americana?",
-          "¿Qué te enseña el cumplimiento de esta profecía sobre la naturaleza de las revelaciones de José Smith?",
-          "¿Qué son los 'lugares santos' que el Señor menciona en D&C 87:8?",
-          "¿Cómo puedes 'permanecer en lugares santos' en tu vida cotidiana?",
-          "¿Qué decisiones puedes tomar para que tu hogar sea un 'lugar santo' de protección espiritual?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 84 — D&C 88 Parte 1: La hoja de olivo
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "84-dc-88-parte-1",
-    title: "Doctrina y Convenios 88, Parte 1",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/259-doctrine-and-covenants-88-part-1?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "La hoja de olivo: la luz de la verdad y las leyes de los reinos de gloria",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "Doctrina y Convenios 88, conocida como 'la hoja de olivo arrancada del árbol del paraíso', fue revelada en diciembre de 1832 y es una de las revelaciones más profundas y filosóficamente ricas del canon restaurado. La primera parte (versículos 1–68) contiene doctrinas sobre la luz de Cristo como el principio que anima toda la creación, las leyes que gobiernan cada reino del universo, y el destino de los hombres según la ley que han aceptado. El principio central es poderoso: 'Y aquel que no puede abide por la ley de un reino celestial no puede abide una gloria celestial' (D&C 88:22). No es que Dios excluya a las personas; es que las personas se califican para el reino cuya ley han elegido vivir durante esta vida."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 88:6–7",
-            texto: "Él que ascendió en alto, el mismo que descendió también por debajo de todas las cosas, para que lo comprendiese todo, a fin de estar en todos y a través de todas las cosas, la luz de la verdad; la cual verdad resplandece.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p6-p7#p6"
-          },
-          {
-            referencia: "Doctrina y Convenios 88:22–24",
-            texto: "Y aquel que no puede abide por la ley de un reino celestial no puede abide una gloria celestial. Y aquel que no puede abide por la ley de un reino terrestre no puede abide una gloria terrestre. Y aquel que no puede abide por la ley de un reino telestial no puede abide una gloria telestial.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p22-p24#p22"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder D. Todd Christofferson",
-        fuente: "Liahona, mayo de 2016, pág. 37",
-        texto: "D&C 88 revela que el destino eterno no es arbitrario. Las personas heredarán el reino cuya ley hayan aceptado y vivido. Esto es justicia perfecta y misericordia perfecta al mismo tiempo: cada persona recibirá exactamente el nivel de gloria que su vida ha preparado para recibir."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 88 revela que el universo opera por leyes divinas, y que las personas heredarán el reino cuyas leyes hayan aceptado. Esta doctrina es profundamente justa: no es Dios quien excluye sino las personas quienes se califican por sus elecciones. La lección práctica es clara: si queremos heredar el Reino Celestial, debemos vivir la ley celestial ahora —que incluye los convenios del evangelio, la pureza moral, el servicio y el amor al Señor."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué es la 'luz de la verdad' descrita en D&C 88:6–7?",
-          "¿Cómo explica D&C 88:22–24 que las personas 'eligen' su destino eterno?",
-          "¿Qué ley celestial estás viviendo ahora que te prepara para el Reino Celestial?",
-          "¿Por qué esta doctrina es al mismo tiempo perfectamente justa y perfectamente misericordiosa?",
-          "¿Qué leyes del evangelio son las más difíciles para ti de vivir consistentemente?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN 85 — D&C 88 Parte 2
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "85-dc-88-parte-2",
-    title: "Doctrina y Convenios 88, Parte 2",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/260-doctrine-and-covenants-88-part-2?lang=spa",
-    type: "Doctrina y Convenios - Ven Sigueme",
-    description: "El mandamiento de estudiar, edificar la Escuela de los Profetas y prepararse",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "La segunda parte de D&C 88 (versículos 69–141) contiene instrucciones prácticas para los santos: cómo vivir en comunidad, cómo estudiar, cómo organizarse en la Escuela de los Profetas (un precursor de los Institutos de Religión modernos), y cómo prepararse para los eventos del último día. El Señor mandó a los santos 'buscar conocimiento de los mejores libros' (D&C 88:118), lo que establece el principio de que la educación secular y espiritual son complementarias, no opuestas. D&C 88 también describe un saludo sagrado que los miembros de la Escuela de los Profetas debían usar entre sí: el saludo de la santidad, que reconocía la presencia del Salvador en su mente. Esta parte incluye la invitación a 'vestirse con la armadura de justicia' para el día de tribulación que vendría."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 88:118–119",
-            texto: "Y como no todos tienen fe, buscad con diligencia y enseñaos mutuamente palabras de sabiduría; sí, buscad conocimiento de los mejores libros; buscad la sabiduría en el estudio y también con la fe. Organizad una casa de oración, una casa de ayuno, una casa de fe, una casa de aprendizaje, una casa de gloria, una casa de orden, una casa de Dios.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118-p119#p118"
-          },
-          {
-            referencia: "Doctrina y Convenios 88:124",
-            texto: "Cesad de ser ociosos; cesad de ser impuros; cesad de hallar culpa los unos en los otros; cesad de dormir más de lo que es necesario; retiraos temprano, para que no os canséis; levantaos temprano para que vuestros cuerpos y vuestras mentes sean refrescados.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p124#p124"
-          }
-        ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "Liahona, noviembre de 1999, pág. 53",
-        texto: "El Señor mandó buscar conocimiento de los mejores libros. Esto incluye la educación secular. Un joven que desarrolla su mente y su espíritu al mismo tiempo es exactamente lo que el Señor tiene en mente. La ignorancia nunca ha sido una virtud en el reino de Dios."
-      },
-      {
-        tipo: "conclusion",
-        contenido: "D&C 88:118–119 establece que la casa del Señor es una 'casa de aprendizaje': Él quiere discípulos que busquen conocimiento tanto por el estudio como por la fe. La instrucción práctica de D&C 88:124 —levantarse temprano, retirarse temprano, no ser ociosos— refleja el principio de que los buenos hábitos físicos y mentales son parte del discipulado. El cuerpo y la mente son instrumentos que debemos cuidar y desarrollar en honor al Señor."
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué significa buscar conocimiento 'tanto en el estudio como por la fe' según D&C 88:118?",
-          "¿Qué hábitos prácticos recomienda D&C 88:124 y cómo aplican a tu vida?",
-          "¿Cómo se relacionan la educación secular y la educación espiritual según esta revelación?",
-          "¿Qué tipo de 'casa de aprendizaje' es tu hogar actualmente?",
-          "¿Qué cambios concretos harías en tus hábitos de estudio y descanso a la luz de D&C 88:124?"
-        ]
-      }
-    ],
-    questions: []
-  },
-
-  // ──────────────────────────────────────────────────────────────────────────────
-  // LECCIÓN — Práctica del Dominio de la Doctrina 3 (semana 15)
-  // ──────────────────────────────────────────────────────────────────────────────
-  {
-    id: "188-dominio-3",
-    title: "Práctica del Dominio de la Doctrina 3",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/530-doctrinal-mastery-review?lang=spa",
-    type: "Dominio de la Doctrina",
-    description: "Repaso integral y aplicación de casos prácticos con las Escrituras",
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "La Práctica del Dominio de la Doctrina 3 es un repaso integral de todos los pasajes estudiados hasta la semana 15, con enfoque en la aplicación práctica a situaciones de la vida real. A estas alturas del semestre, los alumnos deben tener familiariazados los pasajes principales: D&C 1:37–38 (palabras del Señor y Sus siervos), D&C 6:36 (mirar a Cristo en todo pensamiento), D&C 8:2–3 (el Espíritu habla a la mente y al corazón), D&C 13:1 (llaves del Sacerdocio Aarónico), D&C 18:10–11 (el valor de las almas), D&C 19:16–19 (el sufrimiento expiatorio del Salvador), D&C 58:42–43 (confesar y abandonar el pecado), D&C 64:9–11 (perdonar a todos), D&C 76:22–24 (Él vive). Esta lección los practica en situaciones donde podrían usar estos pasajes naturalmente."
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 76:22–24",
-            texto: "Y ahora, después de tantos testimonios que se nos han dado de él, éste es el testimonio, el último de todos, que damos de él: Que él vive. Porque lo vimos, incluso a la diestra de Dios.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p22-p24#p22"
-          },
-          {
-            referencia: "Doctrina y Convenios 64:9–10",
-            texto: "Por tanto, os digo que debéis perdonar a los hombres sus ofensas... de vosotros se requiere que perdonéis a todos los hombres.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p9-p10#p9"
+            referencia: "Doctrina y Convenios 50:24",
+            texto: "El que recibe la Palabra de Dios recibe luz; y el que recibe luz y continúa en Dios recibe más luz; y esa luz crece más y más hasta el día perfecto.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p24#p24"
           }
         ]
       },
@@ -1355,23 +598,673 @@ export const semana15Lecciones: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Richard G. Scott",
         fuente: "Liahona, noviembre de 2011, pág. 6",
-        texto: "Los pasajes del Dominio de la Doctrina son herramientas espirituales que el Espíritu Santo puede traer a tu mente exactamente cuando los necesitas. Pero para que eso ocurra, deben estar almacenados en tu corazón y tu mente mediante la memorización y la meditación. La preparación de hoy es la herramienta de mañana."
+        texto: "Los pasajes de las Escrituras que memorizamos con comprensión genuina se convierten en recursos permanentes del Espíritu. Cuando los tenemos en el corazón, el Espíritu puede traerlos exactamente cuando los necesitamos: en una conversación difícil, en un momento de tentación, en una oportunidad de testificar."
       },
       {
         tipo: "conclusion",
-        contenido: "La práctica del Dominio de la Doctrina no termina con la memorización sino que comienza allí. El verdadero dominio ocurre cuando puedes usar estos pasajes naturalmente en conversaciones, cuando los aplicas a tus propias luchas, y cuando los usas para ayudar a otros. Esta lección de práctica consolida lo aprendido y prepara a los alumnos para la segunda mitad del año con un arsenal de verdades espirituales listas para ser usadas."
+        contenido: "El Dominio de la Doctrina es equipamiento espiritual permanente. Cada pasaje que realmente entendés y podés usar es una herramienta disponible para toda la vida. Esta sesión de práctica no es un repaso escolar — es una verificación de qué tan listos están esos versículos para ser usados cuando más se necesiten."
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué pasajes del Dominio de la Doctrina dominas mejor actualmente?",
-          "¿En qué situación específica podrías usar D&C 64:9–11 sobre el perdón para ayudar a alguien?",
-          "¿Cómo explicarías D&C 76:22–24 a alguien que duda de la realidad de Jesucristo?",
-          "¿Qué pasajes del Dominio de la Doctrina necesitas practicar más?",
-          "¿Cómo has usado alguno de estos pasajes fuera del aula de Seminario?"
+          "¿Qué pasajes del Dominio de la Doctrina podés citar y explicar con más confianza hoy?",
+          "Si alguien te dijera 'no sé si tengo dones espirituales', ¿qué versículo usarías y cómo lo explicarías?",
+          "¿Cuándo fue la última vez que usaste un pasaje memorizado fuera del aula de Seminario?",
+          "¿Qué versículo todavía no tenés bien dominado? ¿Cuál es tu plan para aprenderlo esta semana?",
+          "¿Cómo explicarías D&C 50:24 a alguien que siente que su fe no está creciendo?"
         ]
       }
     ],
     questions: []
-  }
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Mentalidad de crecimiento
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "198-mentalidad-crecimiento",
+    title: "Mentalidad de crecimiento",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/594-growth-mindset?lang=spa",
+    type: "Preparación para la Vida",
+    description: "Desarrollar una mentalidad de crecimiento con el Evangelio",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "La mentalidad de crecimiento — la convicción de que las habilidades y el carácter pueden desarrollarse con esfuerzo — tiene un fundamento profundo en el evangelio de Jesucristo. El Señor no nos ve como productos terminados sino como seres eternos en proceso de llegar a ser. D&C 93:13 describe cómo incluso el Salvador 'no recibió de la plenitud al principio, sino que continuó de gracia en gracia' hasta recibirla toda. Si el Salvador creció, nosotros también podemos. Para un joven que siente que no es inteligente, que no tiene dones, que ya fracasó demasiadas veces en algo, esta doctrina es liberadora: vos no sos el resultado de lo que hiciste ayer sino el potencial de lo que podés elegir hacer mañana. La mentalidad de crecimiento con el evangelio no es solo psicología positiva — es doctrina sobre la naturaleza del alma humana."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 93:12–13",
+            texto: "Y yo, Juan, vi que él recibió gracia por gracia; y él recibió no de la plenitud al principio, sino continuó de gracia en gracia, hasta que recibió la plenitud.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p12-p13#p12"
+          },
+          {
+            referencia: "Doctrina y Convenios 130:18–19",
+            texto: "Todo cuanto adquiramos de inteligencia en esta vida, se levantará con nosotros en la resurrección. Y si una persona adquiere más conocimiento e inteligencia en esta vida, mediante la diligencia y la obediencia, tendrá muy grande ventaja en el mundo venidero.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=spa&id=p18-p19#p18"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Dieter F. Uchtdorf",
+        fuente: "Liahona, noviembre de 2013, pág. 58",
+        texto: "El Señor no nos llama porque seamos perfectos. Nos llama porque somos Sus hijos y tenemos potencial eterno. Él ve en cada uno de nosotros no lo que somos ahora sino lo que podemos llegar a ser. Su paciencia con nuestro crecimiento lento es infinita porque Él ve el final desde el principio."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "La mentalidad de crecimiento con el evangelio no es un recurso motivacional sino una verdad doctrinal: somos seres eternos capaces de crecer indefinidamente. El Salvador mismo creció 'de gracia en gracia'. Eso significa que cada fracaso, cada dificultad, cada momento donde te quedaste corto no es la definición de quién sos — es una oportunidad de crecer. La única mentalidad incompatible con el evangelio es la que dice 'así soy y no puedo cambiar'."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Hay algún área de tu vida — académica, espiritual, de carácter — donde creés que 'así sos' y no podés cambiar? ¿Qué te dice D&C 93:12–13 sobre eso?",
+          "¿En qué área de tu vida ves más crecimiento en los últimos seis meses? ¿Qué lo hizo posible?",
+          "¿Cómo cambia saber que incluso el Salvador creció 'de gracia en gracia' tu perspectiva de tus propios errores y limitaciones?",
+          "¿Qué habilidad o área de carácter querés desarrollar este año? ¿Qué primer paso concreto darías esta semana?",
+          "¿Cómo alentarías a un amigo que siente que fracasó demasiadas veces para mejorar, usando lo que aprendiste en esta lección?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Desarrollar autosuficiencia a la manera del Señor
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "180-autosuficiencia-senor",
+    title: "Desarrollar autosuficiencia a la manera del Señor",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/561-building-the-self-reliance-in-the-lords-way?lang=spa",
+    type: "Preparación para la Vida",
+    description: "Principios de autosuficiencia según la perspectiva del Evangelio",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "La autosuficiencia es uno de los principios más prácticos del evangelio de Jesucristo. No es independencia orgullosa — es la capacidad de proveer para las propias necesidades y las de la familia para estar en posición de servir a otros y no ser una carga para la Iglesia o la comunidad. El Señor enseñó en D&C 78:14 que los santos deben ser autosuficientes en lo temporal para poder ser ricos en lo espiritual y en el servicio. Esta lección introduce el concepto con fundamento doctrinal y con aplicaciones concretas: desarrollar habilidades laborales, administrar el dinero con sabiduría, preparar reservas, y cultivar la actitud de trabajo y responsabilidad personal que el evangelio promueve. Para un joven en la secundaria que todavía depende de sus padres, esta lección siembra principios que darán fruto en los próximos años de su vida."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 78:14",
+            texto: "Para que mi pueblo no sea dependiente de los reinos del mundo ni de sus poderes.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p14#p14"
+          },
+          {
+            referencia: "Doctrina y Convenios 58:26–27",
+            texto: "En verdad os digo, los hombres deberían ser ansiosamente dedicados a toda buena causa, y hacer muchas cosas por su propia voluntad, y llevar a cabo mucha rectitud.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p26-p27#p26"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Gordon B. Hinckley",
+        fuente: "Liahona, septiembre de 2007, pág. 4",
+        texto: "El principio de la autosuficiencia no es solo temporal. Es espiritual. Quien depende de otros para todo —materialmente, emocionalmente, espiritualmente— no está en posición de servir con la libertad que el evangelio requiere. La autosuficiencia es el fundamento del servicio genuino."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "La autosuficiencia a la manera del Señor no es acumulación egoísta ni independencia de Dios — es la preparación responsable que permite estar en posición de servir, dar y contribuir sin ser una carga para los demás. Empieza con actitudes: el hábito del trabajo, la administración responsable del dinero, y la preparación gradual. Los jóvenes que desarrollan estos hábitos ahora llegan a la adultez con una base sólida para la familia, la misión y el servicio."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cuál es la diferencia entre autosuficiencia como independencia orgullosa y autosuficiencia como principio del evangelio?",
+          "¿Qué habilidades prácticas estás desarrollando ahora que te ayudarán a ser autosuficiente en los próximos años?",
+          "¿Cómo administrás el dinero que tenés actualmente? ¿Qué hábito financiero querés desarrollar?",
+          "¿Por qué la autosuficiencia es el fundamento del servicio genuino, según el evangelio?",
+          "¿Qué paso concreto darías esta semana para avanzar hacia ser más autosuficiente — en lo económico, académico o de habilidades?"
+        ]
+      }
+    ],
+    questions: []
+  },
+]
+
+// ═══════════════════════════════════════════════════════════════════════════════
+// SEMANA 14 — 2 al 8 de Junio
+// ═══════════════════════════════════════════════════════════════════════════════
+
+export const semana14Lecciones: Lesson[] = [
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 71 — D&C 58:26–29
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "71-dc-58-26-29",
+    title: "Doctrina y Convenios 58:26-29",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/221-doctrine-and-covenants-58-26-29?lang=spa",
+    type: "Doctrina y Convenios - Ven Sigueme",
+    description: "No es mandado en todo — la agencia y la iniciativa en el Evangelio",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "Cuando los primeros santos llegaron a Independence, Misuri, algunos esperaban instrucciones detalladas del Señor para cada decisión. D&C 58:26–29 es la respuesta del Señor a esa mentalidad pasiva: 'No es conveniente que yo mande en todas las cosas; porque el que es compelido en todas las cosas, ese es un siervo perezoso y no sabio.' El Señor espera que Sus discípulos usen la agencia que Él les dio para hacer el bien de manera proactiva, sin necesitar un mandamiento específico para cada acción. Este principio tiene un impacto directo en la vida de un joven hoy: cuántos esperan que alguien les diga exactamente qué hacer en la Iglesia, en la familia, en el estudio. La pregunta que D&C 58:26–28 plantea no es '¿me van a pedir que lo haga?' sino '¿hay algo bueno que puedo hacer ahora mismo sin que nadie me lo pida?'"
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 58:26–27",
+            texto: "He aquí, el hombre no debe ser mandado en todas las cosas; porque el que es compelido en todas las cosas, ese es un siervo perezoso y no sabio. En verdad os digo, los hombres deberían ser ansiosamente dedicados a toda buena causa.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p26-p27#p26"
+          },
+          {
+            referencia: "Doctrina y Convenios 58:28",
+            texto: "Porque el poder está en ellos, mediante los cuales son agentes para sí mismos. Y en la medida en que los hombres hacen el bien, no perderán su recompensa.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p28#p28"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Quentin L. Cook",
+        fuente: "Liahona, mayo de 2012, pág. 35",
+        texto: "El Señor no nos diseñó para ser siervos pasivos que esperan instrucciones en cada detalle. Nos dio inteligencia, agencia y un corazón para usarlos activamente en el bien. Un discípulo maduro de Cristo busca activamente oportunidades de servir, bendecir y hacer el bien sin necesitar que el Señor lo compela en cada acción."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "D&C 58:26–28 es uno de los llamados a la madurez espiritual más directos de toda la Escritura restaurada. El Señor no busca robots obedientes sino discípulos que eligieron el bien por amor, que hacen el bien porque quieren, que sirven porque es quiénes son. La pregunta que esta lección deja abierta es concreta: ¿qué bien podés hacer hoy, en tu hogar o en tu entorno, sin que nadie te lo pida?"
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿A qué tipo de siervo se refiere el Señor en D&C 58:26 cuando habla de uno 'perezoso y no sabio'? ¿Te identificás con eso en algún área?",
+          "¿Qué diferencia hay entre obedecer por mandamiento y actuar por iniciativa propia en el bien?",
+          "¿Qué necesidad concreta hay en tu familia, clase o quórum que podrías atender esta semana sin que nadie te lo pidiera?",
+          "¿Hay algo bueno que postergás hacer porque esperás que alguien te lo pida o te lo autorice? ¿Qué te impide hacerlo ahora?",
+          "¿Cómo sería tu vida en la Iglesia, en tu hogar y en tu escuela si vivieras D&C 58:27 con consistencia esta semana?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 72 — D&C 58:38–60
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "72-dc-58-38-60",
+    title: "Doctrina y Convenios 58:38-60",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/222-doctrine-and-covenants-58-38-60?lang=spa",
+    type: "Doctrina y Convenios - Ven Sigueme",
+    description: "El arrepentimiento y el perdón: el Señor recuerda los pecados no más",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "D&C 58:38–60 contiene uno de los pasajes más citados y más poderosos sobre el arrepentimiento genuino en toda la Escritura restaurada. El contexto inmediato es la desobediencia de algunos miembros que no cumplieron los llamamientos del Señor en Misuri. Pero la respuesta del Señor va mucho más allá de esa situación particular: revela los principios eternos del arrepentimiento genuino. El arrepentimiento real incluye confesar, abandonar el pecado — y la promesa extraordinaria del versículo 42: el Señor no recuerda más los pecados del que se arrepiente sinceramente. Esta promesa no es retórica ni metafórica — es una declaración sobre cómo funciona la misericordia de Dios. Para los jóvenes que cargan con la culpa de errores pasados, que sienten que Dios no puede olvidar lo que hicieron, o que dudan si el arrepentimiento realmente los limpia completamente, este pasaje es la respuesta directa del Señor."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 58:42–43",
+            texto: "He aquí, el que ha pecado y se ha arrepentido de sus pecados, le serán perdonados; y yo, el Señor, no los recuerdo más. Por esto os digo que aquel que se arrepiente de sus pecados y los confiesa, los abandona también.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p42-p43#p42"
+          },
+          {
+            referencia: "Isaías 1:18",
+            texto: "Venid luego, dice el Señor, y estemos a cuenta: si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=spa&id=p18#p18"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, noviembre de 2019, pág. 97",
+        texto: "El arrepentimiento es el regalo más misericordioso que Jesucristo nos ha dado. Cuando nos arrepentimos sinceramente, Él no solo perdona — también olvida. 'Yo, el Señor, no los recuerdo más.' Eso significa una limpieza completa, una nueva oportunidad, un nuevo comienzo. El arrepentimiento no es un castigo sino una liberación."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "D&C 58:42–43 establece que el arrepentimiento genuino tiene tres movimientos: confesar, abandonar, y recibir el perdón completo. La promesa 'yo, el Señor, no los recuerdo más' es incondicional cuando el arrepentimiento es sincero. Esto no es invitación a la complacencia — es invitación a la esperanza. Ningún error del pasado define tu futuro si elegís el arrepentimiento genuino. La limpieza que el Salvador ofrece es completa, no parcial."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cuáles son los dos componentes del arrepentimiento genuino que describe D&C 58:43?",
+          "¿Qué significa exactamente la promesa 'yo, el Señor, no los recuerdo más'? ¿La creés de verdad?",
+          "¿Hay algo que cargás de culpa del pasado que el Señor ya olvidó pero vos todavía no te perdonaste a vos mismo?",
+          "¿Cuál es la diferencia entre remordimiento y arrepentimiento genuino?",
+          "Si supieras con certeza que el Señor ya no recuerda un error que cometiste, ¿qué cambiaría en vos esta semana?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 73 — D&C 59
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "73-dc-59",
+    title: "Doctrina y Convenios 59",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/223-doctrine-and-covenants-59?lang=spa",
+    type: "Doctrina y Convenios - Ven Sigueme",
+    description: "El día de reposo y la gratitud como forma de vida",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "D&C 59 fue revelada en agosto de 1831, el mismo día en que falleció Polly Knight, la primera persona miembro de la Iglesia en morir en Misuri. En ese contexto de duelo, el Señor reveló principios sobre el día de reposo y la gratitud. La revelación describe cómo el día de reposo debe guardarse: ofreciendo ayuno y oración, regocijándose y dando ofrendas de alegría, y recordando al Señor con los sacramentos que Él instituyó. El principio central es que el día de reposo no es una restricción sino un regalo — un día diseñado para renovar la conexión con el Señor y recordar el propósito de la vida. Para los jóvenes que a veces sienten que el domingo es el día más aburrido de la semana, esta lección propone una perspectiva completamente diferente: el día de reposo es el día más rico de la semana para quien lo guarda con el corazón correcto."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 59:9–10",
+            texto: "Y que en ese día ofrezcas tus oblaciones y tus sacramentos al Altísimo, confesando tus pecados a tus hermanos, y ante el Señor. Y en este día no harás ninguna otra cosa, sino preparar tu alimento con sencillez de corazón.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=spa&id=p9-p10#p9"
+          },
+          {
+            referencia: "Doctrina y Convenios 59:15–16",
+            texto: "Y en cuanto traigáis vuestras ofrendas a mí, la plenitud de la tierra es vuestra... He aquí, los que me sirven a mí, y que mantienen mis mandamientos, ellos recibirán aun más abundantemente.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=spa&id=p15-p16#p15"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, mayo de 2015, pág. 129",
+        texto: "Cuando hacemos del día de reposo un deleite, la actitud lo cambia todo. No se trata de lo que no podemos hacer ese día — se trata de lo que elegimos hacer para honrar al Señor. Quien guarda el día de reposo con amor y no con obligación descubre que ese día se convierte en una fuente de renovación espiritual que los otros seis días no pueden dar."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "D&C 59 enseña que el día de reposo es un regalo, no una carga. El Señor diseñó ese día para que Sus hijos descansen del mundo, renueven sus convenios en la Santa Cena y vuelvan a conectarse con el propósito eterno de su vida. La pregunta no es '¿qué no puedo hacer el domingo?' sino '¿qué puedo hacer el domingo para que mi semana entera tenga más dirección espiritual?' La diferencia entre esas dos preguntas es la diferencia entre guardar el día de reposo por obligación y guardarlo como un deleite."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cómo describirías tu domingo típico? ¿Es más un día de deleite espiritual o de obligación?",
+          "¿Qué actividades del domingo te ayudan a renovar tu conexión con el Señor? ¿Cuáles te alejan de eso?",
+          "¿Qué diferencia hace en tu semana entera el hecho de haber guardado bien el día de reposo?",
+          "¿Qué cambio concreto y alcanzable harías en tu domingo para que sea más como lo describe D&C 59?",
+          "¿Cómo explicarías a alguien que no es miembro por qué guardás el día de reposo, de una manera que suene a libertad y no a restricción?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Descubre tus fortalezas y habilidades
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "193-descubre-fortalezas",
+    title: "Descubre tus fortalezas y habilidades",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/583-discovering-your-strengths-and-abilities?lang=spa",
+    type: "Preparación para la Vida",
+    description: "Identificar los talentos y dones que el Señor ha dado a cada persona",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "Cada persona viene a esta vida con fortalezas únicas que el Señor preparó con un propósito. El problema es que los jóvenes frecuentemente no las reconocen — o las minimizan porque no son las que la cultura valora más. Esta lección ayuda a identificar fortalezas reales: no solo las habilidades académicas o artísticas obvias, sino también dones de carácter como la empatía, la constancia, el humor que une a las personas, la capacidad de escuchar, o la habilidad de ver el bien en los demás. El proceso de descubrir las propias fortalezas tiene fundamento doctrinal en D&C 46:11 — a todos se les dan dones — y en la enseñanza de que somos hijos e hijas de un Padre Celestial que nos creó con propósito y no al azar. Conocer tus fortalezas no es arrogancia: es mayordomía responsable de lo que el Señor te dio."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Éter 12:27",
+            texto: "Y si los hombres vienen a mí, les mostraré su debilidad. Les doy debilidad para que sean humildes; y mi gracia es suficiente para todos los hombres que se humillan ante mí.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p27#p27"
+          },
+          {
+            referencia: "Doctrina y Convenios 46:11",
+            texto: "A todos se les dan dones por el Espíritu de Dios.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p11#p11"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Marvin J. Ashton",
+        fuente: "Liahona, febrero de 1988, pág. 20",
+        texto: "Todos tenemos dones. El don de hacer preguntas que ayudan a otros a pensar. El don de escuchar sin juzgar. El don de ver potencial donde otros ven fracaso. El don de la constancia cuando todo el mundo se rinde. Estos dones no aparecen en listas de habilidades para el currículo, pero son exactamente los que el Señor necesita en Sus discípulos."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "Descubrir tus fortalezas no es un ejercicio de autoestima superficial — es el comienzo de entender para qué te puso el Señor en la tierra. Éter 12:27 también promete que el Señor puede convertir las debilidades en fortalezas para quien se humilla. Eso significa que ni siquiera tus limitaciones actuales son permanentes. Con el Señor, tu punto de partida no define tu destino."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cuáles son tres fortalezas tuyas que reconocés claramente? ¿Cómo las estás usando?",
+          "¿Hay alguna fortaleza tuya que otras personas ven en vos pero que vos no valorás tanto? ¿Por qué creés que eso pasa?",
+          "¿Qué te dice Éter 12:27 sobre tus debilidades actuales? ¿Cómo cambia eso tu perspectiva de ellas?",
+          "¿Qué fortaleza tuya podrías usar esta semana para servir a alguien en tu familia, quórum o clase?",
+          "¿Cómo podría conocer mejor tus propias fortalezas ayudarte a decidir cómo servir en la Iglesia o qué carrera seguir?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Desarrollar habilidades y destrezas
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "194-desarrollar-habilidades",
+    title: "Desarrollar habilidades y destrezas",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/584-developing-skills-and-abilities?lang=spa",
+    type: "Preparación para la Vida",
+    description: "Cómo desarrollar y perfeccionar las habilidades con diligencia",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "Identificar los propios dones y fortalezas es el primer paso — el segundo es desarrollarlos con diligencia. El Señor no espera que sus discípulos se queden con lo que les fue dado; espera que lo multipliquen. La parábola de los talentos (Mateo 25:14–30) es el modelo: el siervo fiel no solo custodia lo que recibió sino que lo hace crecer. Esta lección aplica ese principio al desarrollo de habilidades prácticas en la vida adolescente: habilidades académicas, sociales, espirituales y laborales. El desarrollo de habilidades requiere tres cosas que la cultura del entretenimiento dificulta: constancia, paciencia con el progreso lento, y disposición a hacer cosas que al principio se hacen mal. Para un joven acostumbrado a resultados inmediatos, esta lección propone que la inversión en el desarrollo lento y consistente de habilidades es una de las formas más fieles de honrar los dones que el Señor te dio."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Mateo 25:21",
+            texto: "Y su señor le dijo: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=spa&id=p21#p21"
+          },
+          {
+            referencia: "Doctrina y Convenios 58:27",
+            texto: "En verdad os digo, los hombres deberían ser ansiosamente dedicados a toda buena causa, y hacer muchas cosas por su propia voluntad, y llevar a cabo mucha rectitud.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p27#p27"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Dieter F. Uchtdorf",
+        fuente: "Liahona, noviembre de 2008, pág. 56",
+        texto: "El desarrollo del talento requiere dos virtudes que el mundo moderno no valora suficientemente: la paciencia y la constancia. Los grandes logros raramente suceden de golpe — son el resultado de cientos de horas de práctica cuando nadie está mirando. El Señor honra ese esfuerzo invisible porque Él ve lo que los demás no ven."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "Desarrollar habilidades con diligencia es una forma concreta de honrar los dones que el Señor te dio y de prepararte para servirle mejor en el futuro. La parábola de los talentos promete que quienes son fieles en lo poco recibirán responsabilidad sobre lo mucho. La pregunta no es si tenés suficiente para comenzar — es si estás dispuesto a comenzar con lo que tenés."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Qué habilidad estás desarrollando actualmente que requiere esfuerzo constante y paciencia?",
+          "¿Cuál es la habilidad que más querés desarrollar en los próximos dos años? ¿Qué harías esta semana para empezar?",
+          "¿Cómo se relaciona la parábola de los talentos con la manera en que usás los dones y habilidades que tenés ahora?",
+          "¿Hay alguna habilidad que abandonaste porque los resultados no llegaron rápido? ¿Vale la pena retomarlo?",
+          "¿Cómo podría el desarrollo consistente de una habilidad tuya beneficiar a tu familia o a tu comunidad en el futuro?"
+        ]
+      }
+    ],
+    questions: []
+  },
+]
+
+// ═══════════════════════════════════════════════════════════════════════════════
+// SEMANA 15 — 9 al 15 de Junio
+// ═══════════════════════════════════════════════════════════════════════════════
+
+export const semana15Lecciones: Lesson[] = [
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Fe en Jesucristo para desarrollar la autosuficiencia
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "181-fe-autosuficiencia",
+    title: "Fe en Jesucristo para desarrollar la autosuficiencia",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/562-faith-in-jesus-christ-to-build-self-reliance?lang=spa",
+    type: "Preparación para la Vida",
+    description: "La fe en Cristo como fundamento de la autosuficiencia personal",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "La autosuficiencia en el evangelio no es independencia de Dios — es la combinación de esfuerzo personal fiel con la confianza en que el Señor bendece ese esfuerzo. Hay una diferencia fundamental entre la autosuficiencia del mundo — que se basa en la confianza en uno mismo únicamente — y la autosuficiencia del evangelio — que se basa en la fe en que el Señor multiplica el esfuerzo fiel. Esta lección conecta la fe en Jesucristo con el desarrollo de la capacidad de proveer para uno mismo y para la familia. Cuando confiamos en el Señor mientras trabajamos diligentemente, Él puede abrir puertas que el esfuerzo humano solo no puede abrir. Para un joven que enfrenta decisiones sobre educación, carrera y futuro, la lección propone una base que ningún plan humano puede dar: la fe en que el Señor está activamente involucrado en su desarrollo."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 78:13–14",
+            texto: "Mas si no sois iguales en los bienes terrenales, no podéis ser iguales en la obtención de cosas celestiales... para que mi pueblo no sea dependiente de los reinos del mundo ni de sus poderes.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p13-p14#p13"
+          },
+          {
+            referencia: "Proverbios 3:5–6",
+            texto: "Confía en el Señor con todo tu corazón, y no te apoyes en tu propio entendimiento. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=spa&id=p5-p6#p5"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Robert D. Hales",
+        fuente: "Liahona, mayo de 2009, pág. 8",
+        texto: "La autosuficiencia verdadera no es confiar solo en nuestras propias fuerzas. Es confiar en que el Señor multiplicará nuestros esfuerzos fieles. Cuando combinamos la diligencia con la fe, experimentamos bendiciones que el esfuerzo humano solo nunca podría producir."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "Fe en Jesucristo para desarrollar la autosuficiencia significa que no trabajás solo — trabajás con Él. Eso no reduce el esfuerzo requerido; lo amplifica con un poder que vos solo no tenés. Para los jóvenes que se preguntan si podrán sostenerse solos en el futuro, si podrán proveer para una familia, si podrán cumplir una misión: la respuesta del evangelio es sí, si confían en el Señor mientras trabajan con diligencia."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cuál es la diferencia entre la autosuficiencia del mundo y la autosuficiencia del evangelio?",
+          "¿Alguna vez el Señor bendijo tu esfuerzo de una manera que vos solo no hubieras podido lograr? ¿Cuándo?",
+          "¿Hay alguna área de tu desarrollo futuro — educación, carrera, misión — donde necesitás más fe en que el Señor te respaldará?",
+          "¿Qué harías diferente esta semana si vivieras Proverbios 3:5–6 en tus decisiones académicas y personales?",
+          "¿Cómo podrías fortalecer tu fe en el Señor específicamente en el área de tu desarrollo personal y futuro?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // La administración prudente de los recursos económicos
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "182-administracion-recursos",
+    title: "La administración prudente de los recursos económicos",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/563-managing-financial-resources-wisely?lang=spa",
+    type: "Preparación para la Vida",
+    description: "Principios del Evangelio aplicados a las finanzas personales",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "El evangelio tiene mucho que decir sobre el dinero — no porque el dinero sea malo, sino porque la relación de una persona con el dinero revela mucho sobre la condición de su corazón. El Señor enseñó en D&C 104:78 a salir de deudas, pagar lo que se debe, y vivir dentro de los propios medios. Estos principios son contracorriente en una cultura que promueve el consumo inmediato, el crédito fácil y el estatus a través de las posesiones. Para los jóvenes que están comenzando a manejar dinero propio, esta lección introduce principios que pueden marcar la diferencia entre una vida financiera sana y una llena de estrés y deuda. El diezmo, el ahorro, el evitar deudas innecesarias y la generosidad son principios del evangelio que protegen tanto el bienestar temporal como el espiritual."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 104:78",
+            texto: "Y nuevamente, en verdad os digo que es mi voluntad que vosotros saldéis todas vuestras deudas, en la medida en que hayáis incurrido en ellas.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/104?lang=spa&id=p78#p78"
+          },
+          {
+            referencia: "Malaquías 3:10",
+            texto: "Traed todos los diezmos al alfolí y haya alimento en mi casa; y probadme ahora en esto, dice el Señor de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=spa&id=p10#p10"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Joseph B. Wirthlin",
+        fuente: "Liahona, mayo de 2004, pág. 40",
+        texto: "El principio de gastar menos de lo que ganamos es tan simple que parece trivial. Pero pocas cosas impactan más la calidad de vida de una familia que seguirlo de manera consistente. El estrés financiero destruye la paz en el hogar. La disciplina financiera la preserva. Es un principio espiritual con consecuencias muy concretas."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "Los principios de administración financiera del evangelio — pagar el diezmo en primer lugar, gastar menos de lo que ganás, ahorrar para emergencias, evitar deudas innecesarias — no son restricciones que limitan la vida sino fundamentos que la liberan. Quien vive dentro de sus medios puede dar con generosidad, servir sin distracción y enfrentar imprevistos con paz. Los hábitos que desarrollás ahora, con el dinero que tenés de joven, son el entrenamiento para los que necesitarás cuando la responsabilidad sea mayor."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cómo administrás actualmente el dinero que tenés? ¿Qué principio de esta lección te desafía más?",
+          "¿Pagás diezmo regularmente? Si sí, ¿qué diferencia hace en tu actitud hacia el dinero? Si no, ¿qué te impide hacerlo?",
+          "¿Hay alguna decisión financiera reciente tuya que, mirándola ahora, cambiarías? ¿Qué principio hubieras aplicado?",
+          "¿Qué hábito financiero concreto querés desarrollar esta semana — ya sea ahorrar, gastar con más intención, o dar con más generosidad?",
+          "¿Cómo podría una buena administración de tus recursos económicos ahora prepararte mejor para una misión, el matrimonio o la universidad?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 74 — D&C 60–62
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "74-dc-60-62",
+    title: "Doctrina y Convenios 60–62",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/231-doctrine-and-covenants-60-62?lang=spa",
+    type: "Doctrina y Convenios - Ven Sigueme",
+    description: "El viaje de regreso a Ohio y las instrucciones del Señor en el camino",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "En agosto de 1831, José Smith y el grupo de santos comenzaron su viaje de regreso a Ohio desde Misuri, en parte por el río Misuri. Durante ese viaje, el Señor dio tres revelaciones relacionadas con el comportamiento de algunos miembros del grupo. En D&C 60, el Señor reprendió a algunos por no usar suficiente diligencia para proclamar el evangelio. En D&C 61, reveló la razón de esa instrucción: el río Misuri tenía poderes destructivos sobre sus aguas que hacían peligroso viajarlo más tiempo del necesario. En D&C 62, alentó a los santos que viajaban desde el este al decirles que su testimonio ya había sido registrado en el cielo. Estas tres revelaciones, tomadas juntas, muestran un principio hermoso: el Señor guía cada etapa del viaje de Sus discípulos, tanto los grandes momentos como los detalles cotidianos del camino, y registra fielmente los testimonios que se dan aunque parezcan pequeños o sin consecuencias."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 60:2–3",
+            texto: "Mas con algunos de ellos estoy insatisfecho, porque no abrieron sus bocas, sino ocultaron el talento que les di, en la angustia que sufrieron, y en este tiempo que debía haber dado alabanzas a mí.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/60?lang=spa&id=p2-p3#p2"
+          },
+          {
+            referencia: "Doctrina y Convenios 62:3",
+            texto: "He aquí, yo, el Señor, estoy satisfecho de vosotros, mis siervos... Y vuestros testimonios han sido registrados en el cielo; los ángeles se han regocijado en vuestro bien.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/62?lang=spa&id=p3#p3"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Jeffrey R. Holland",
+        fuente: "Liahona, noviembre de 2013, pág. 108",
+        texto: "No existe el testimonio pequeño o sin importancia. Cada vez que abrís la boca para testificar del Salvador, ese testimonio es registrado en el cielo. No sabés qué semilla estás plantando, ni cuándo germinará, ni en qué corazón. Pero el Señor sí lo sabe, y Él lo recuerda."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "D&C 60–62 enseña que el Señor está presente en todos los detalles del camino de Sus discípulos: corrige cuando es necesario, protege cuando hay peligro invisible, y registra con fidelidad cada testimonio dado, por pequeño que sea. Que los testimonios sean registrados en el cielo (D&C 62:3) es un recordatorio de que ningún acto fiel, ninguna palabra de testimonio, ningún servicio dado en silencio pasa desapercibido ante el Señor."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Qué reprendió el Señor a algunos de los santos en D&C 60, y por qué crees que fue importante esa corrección?",
+          "¿Te identificás con alguien que a veces 'oculta el talento' por miedo, vergüenza o simplemente por no pensar en hacerlo?",
+          "¿Qué significa para vos que tu testimonio, aunque parezca pequeño, sea registrado en el cielo según D&C 62:3?",
+          "¿Hubo alguna oportunidad reciente donde podrías haber testificado y no lo hiciste? ¿Qué te detuvo?",
+          "¿Qué pequeño acto de testimonio o servicio podrías hacer esta semana, sabiendo que el Señor lo registra aunque nadie más lo vea?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 75 — D&C 63:1–23
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "75-dc-63-1-23",
+    title: "Doctrina y Convenios 63:1-23",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/232-doctrine-and-covenants-63-1-23?lang=spa",
+    type: "Doctrina y Convenios - Ven Sigueme",
+    description: "Las señales siguen a la fe, no la preceden",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "En agosto de 1831, algunos miembros de la Iglesia buscaban señales milagrosas como evidencia antes de creer o antes de comprometerse más plenamente con el evangelio. D&C 63:1–23 es la respuesta directa del Señor a esa mentalidad: las señales siguen a los que creen — no preceden a la fe para producirla. Buscar señales antes de creer es una trampa espiritual que el adversario usa para mantener a las personas en una fe permanentemente condicionada. El principio del Señor es exactamente el opuesto: primero la fe, luego las señales como confirmación. Esta lección también trata sobre la pureza sexual como condición espiritual: el Señor advierte directamente que la impureza cierra el acceso a la revelación y al Espíritu. Para los jóvenes que navegan una cultura saturada de estímulos sexuales y que a veces sienten que los estándares del evangelio son anticuados, esta revelación establece la razón espiritual de esos estándares: la pureza sexual no es una restricción sino una condición de la capacidad de recibir y reconocer la guía del Espíritu."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 63:9–10",
+            texto: "He aquí, os digo que aquel que busca señales, las verá, mas no para salvación, como lo fue para Moisés: porque la fe no viene de señales, sino que las señales siguen a los que creen.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=spa&id=p9-p10#p9"
+          },
+          {
+            referencia: "Doctrina y Convenios 63:16",
+            texto: "He aquí, yo, el Señor, os digo que el que mira a una mujer para codiciarla, o si cualquiera divulga aquellas cosas que no son convenientes de divulgarse — se le llevan la luz y la gracia de Dios.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=spa&id=p16#p16"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder David A. Bednar",
+        fuente: "Liahona, noviembre de 2013, pág. 41",
+        texto: "La pureza moral no es simplemente un estándar de conducta — es una condición espiritual. Quienes viven la ley de la castidad con fidelidad mantienen su capacidad de recibir la guía del Espíritu Santo de manera más plena. Quienes la comprometen no solo pierden un estándar moral — pierden acceso a la influencia del Espíritu que los protegería y guiaría."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "D&C 63:9–10 establece la secuencia correcta: primero la fe, luego las señales. Buscar señales antes de comprometerse con el evangelio es buscar certeza antes de dar el paso de fe que produce esa certeza. Y D&C 63:16 conecta la pureza moral con la capacidad de recibir luz del Espíritu. Ambos principios apuntan al mismo lugar: la fe activa y la vida pura son las condiciones bajo las cuales el Espíritu puede guiar, proteger y confirmar la verdad en nuestras vidas."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Cuál es la secuencia correcta entre fe y señales según D&C 63:9–10? ¿Por qué importa ese orden?",
+          "¿Alguna vez esperaste una señal o confirmación antes de actuar con fe? ¿Qué pasó?",
+          "¿Cómo explica D&C 63:16 la relación entre la pureza moral y la capacidad de recibir guía espiritual?",
+          "¿Qué influencias en tu entorno — contenido digital, conversaciones, entretenimiento — podrían estar afectando tu capacidad de recibir la guía del Espíritu?",
+          "¿Qué decisión concreta tomarías esta semana para proteger tu pureza espiritual y tu acceso a la luz del Señor?"
+        ]
+      }
+    ],
+    questions: []
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // Lec 76 — D&C 63:57–64
+  // ─────────────────────────────────────────────────────────────────────────────
+  {
+    id: "76-dc-63-57-64",
+    title: "Doctrina y Convenios 63:57-64",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/233-doctrine-and-covenants-63-57-64?lang=spa",
+    type: "Doctrina y Convenios - Ven Sigueme",
+    description: "La importancia de usar los nombres sagrados con reverencia",
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido: "La parte final de D&C 63 trata sobre algo que puede parecer menor pero que el Señor toma muy en serio: el uso reverente del nombre de Dios y del nombre de lugares y cosas sagradas. El Señor instruyó que el nombre de Sion no debía divulgarse innecesariamente ni usarse de manera frívola, y que los nombres sagrados deben tratarse con reverencia. Este principio se conecta con el tercer mandamiento — 'no tomarás el nombre de Dios en vano' — y con una actitud más amplia de reverencia hacia lo sagrado. Para los jóvenes que viven en una cultura donde blasfemar o usar el nombre del Señor de manera casual es completamente normalizado, esta lección propone que el lenguaje que usamos refleja y forma nuestra relación con el Señor. La manera en que hablamos del Salvador, del Padre Celestial, de los convenios y de los lugares sagrados revela el estado de nuestro corazón."
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Doctrina y Convenios 63:61–62",
+            texto: "Por lo tanto, que mis siervos hagan cuidado que no digan estas cosas a los inicuos para provocación, a fin de que no se aireen contra vosotros y vosotros sufráis como consecuencia. Mas comunicad estas cosas a los rectos y a los que se arrepientan.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=spa&id=p61-p62#p61"
+          },
+          {
+            referencia: "Éxodo 20:7",
+            texto: "No tomarás el nombre de Jehová tu Dios en vano; porque no dará por inocente Jehová al que tome su nombre en vano.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=spa&id=p7#p7"
+          }
+        ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Dallin H. Oaks",
+        fuente: "Liahona, mayo de 1986, pág. 49",
+        texto: "La reverencia por el nombre de Dios no es solo una cuestión de cortesía religiosa. Es una expresión de lo que Dios significa para nosotros. Cuando alguien usa el nombre del Salvador de manera frívola o como expresión de emoción mundana, está revelando que ese nombre no le parece sagrado. Y si el nombre no es sagrado para esa persona, es una señal de que su relación con el Salvador todavía no es lo que debería ser."
+      },
+      {
+        tipo: "conclusion",
+        contenido: "D&C 63:57–64 nos recuerda que la reverencia no es un estilo de culto religioso anticuado — es una actitud del corazón que reconoce la santidad de Dios. El lenguaje que usamos cotidianamente forma nuestra relación con el Señor: quienes hablan de Él con reverencia y evitan usar Su nombre de manera frívola están cultivando un corazón que puede recibir Su presencia. Esta semana, prestar atención al lenguaje que usás sobre el Señor y sobre lo sagrado es un acto de discipulado concreto y accesible."
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Qué tan frecuente es en tu entorno usar el nombre del Señor o expresiones sagradas de manera casual o frívola?",
+          "¿Cómo te sentís cuando alguien usa el nombre del Salvador de manera irrespetuosa cerca tuyo?",
+          "¿Cómo refleja el lenguaje que usamos la condición de nuestro corazón hacia el Señor?",
+          "¿Hay alguna expresión que usás de manera habitual que deberías reconsiderar a la luz de esta lección?",
+          "¿Qué cambio concreto en tu lenguaje cotidiano podrías hacer esta semana como expresión de mayor reverencia hacia el Señor?"
+        ]
+      }
+    ],
+    questions: []
+  },
 ]

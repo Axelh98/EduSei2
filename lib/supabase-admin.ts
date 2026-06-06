@@ -1,9 +1,8 @@
 // lib/supabase-admin.ts
+const SUPABASE_URL     = process.env.NEXT_PUBLIC_SUPABASE_URL ?? ""
+const SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY ?? ""
 
-const SUPABASE_URL      = process.env.NEXT_PUBLIC_SUPABASE_URL ?? ""
-const SERVICE_ROLE_KEY  = process.env.SUPABASE_SERVICE_ROLE_KEY ?? ""
-
-// ── Query genérica ────────────────────────────────────────────────────────────
+// ── Query genérica (devuelve filas) ───────────────────────────────────────────
 
 async function adminQuery<T>(
   path: string,
@@ -32,7 +31,50 @@ async function adminQuery<T>(
   }
 }
 
-// ── Tipos de cada query ───────────────────────────────────────────────────────
+// ── Query de conteo (usa el header Prefer: count=exact de Supabase) ───────────
+// No trae filas — solo devuelve el número exacto desde la DB.
+
+async function adminCount(
+  path: string,
+  params?: Record<string, string>
+): Promise<number> {
+  if (!SUPABASE_URL || !SERVICE_ROLE_KEY) return 0
+
+  const url = new URL(`${SUPABASE_URL}/rest/v1/${path}`)
+  // select vacío para no traer datos, solo el header Content-Range
+  url.searchParams.set("select", "id")
+  if (params) {
+    Object.entries(params).forEach(([k, v]) => url.searchParams.set(k, v))
+  }
+
+  try {
+    const res = await fetch(url.toString(), {
+      headers: {
+        "apikey":        SERVICE_ROLE_KEY,
+        "Authorization": `Bearer ${SERVICE_ROLE_KEY}`,
+        "Accept":        "application/json",
+        // Este header le dice a Supabase que cuente todas las filas exactas
+        "Prefer":        "count=exact",
+        // Range vacío para no traer ninguna fila (solo el conteo)
+        "Range":         "0-0",
+      },
+      cache: "no-store",
+    })
+
+    // Supabase devuelve el total en el header Content-Range: 0-0/TOTAL
+    const contentRange = res.headers.get("content-range")
+    if (contentRange) {
+      // Formato: "0-0/1234" → extraemos 1234
+      const total = contentRange.split("/")[1]
+      if (total && total !== "*") return parseInt(total, 10)
+    }
+    return 0
+  } catch {
+    return 0
+  }
+}
+
+// ── Tipos ─────────────────────────────────────────────────────────────────────
 
 type QuizRow = {
   id: string
@@ -44,25 +86,6 @@ type QuizRow = {
 type ReportRow = {
   id: string
   percentage: number
-}
-
-type RecoveryRow = {
-  id: string
-}
-
-type StudyRow = {
-  id: string
-  category_name: string
-}
-
-type ShareRow = {
-  id: string
-  total: number
-  category_name: string
-}
-
-type PageViewRow = {
-  path: string
 }
 
 export type RecentQuizRow = {
@@ -89,51 +112,69 @@ export type TopPageRow = {
   views: number
 }
 
-// ── Queries para el panel /admin ──────────────────────────────────────────────
+// ── Stats para el panel ───────────────────────────────────────────────────────
 
 export async function getAdminStats() {
-  const [quizzes, reports, recoveries, studies, shares, pageViews] =
-    await Promise.all([
-      adminQuery<QuizRow>("events", {
-        event_type: "eq.quiz_completed",
-        created_at: `gte.${daysAgo(30)}`,
-        select: "id,percentage,category_name,course_type",
-      }),
-      adminQuery<ReportRow>("events", {
-        event_type: "eq.whatsapp_report_sent",
-        created_at: `gte.${daysAgo(30)}`,
-        select: "id,percentage",
-      }),
-      adminQuery<RecoveryRow>("events", {
-        event_type: "eq.recovery_plan_viewed",
-        created_at: `gte.${daysAgo(30)}`,
-        select: "id",
-      }),
-      adminQuery<StudyRow>("events", {
-        event_type: "eq.study_opened",
-        created_at: `gte.${daysAgo(30)}`,
-        select: "id,category_name",
-      }),
-      adminQuery<ShareRow>("events", {
-        event_type: "eq.lessons_shared",
-        created_at: `gte.${daysAgo(30)}`,
-        select: "id,total,category_name",
-      }),
-      adminQuery<PageViewRow>("page_views", {
-        created_at: `gte.${daysAgo(7)}`,
-        select: "path",
-      }),
-    ])
+  const since30 = daysAgo(30)
+  const since7  = daysAgo(7)
 
-  return { quizzes, reports, recoveries, studies, shares, pageViews }
+  const [
+    quizzes,
+    reports,
+    recoveriesCount,
+    studiesCount,
+    sharesCount,
+    pageViewsCount,
+  ] = await Promise.all([
+    // Quizzes: necesitamos las filas para calcular promedios y distribución
+    adminQuery<QuizRow>("events", {
+      event_type: "eq.quiz_completed",
+      created_at: `gte.${since30}`,
+      select:     "id,percentage,category_name,course_type",
+      limit:      "5000",   // suficiente para cálculos, muy difícil de superar
+    }),
+    // Reports: necesitamos las filas para el porcentaje promedio
+    adminQuery<ReportRow>("events", {
+      event_type: "eq.whatsapp_report_sent",
+      created_at: `gte.${since30}`,
+      select:     "id,percentage",
+      limit:      "5000",
+    }),
+    // Los demás solo necesitan el conteo exacto — sin límite de 1000
+    adminCount("events", {
+      event_type: "eq.recovery_plan_viewed",
+      created_at: `gte.${since30}`,
+    }),
+    adminCount("events", {
+      event_type: "eq.study_opened",
+      created_at: `gte.${since30}`,
+    }),
+    adminCount("events", {
+      event_type: "eq.lessons_shared",
+      created_at: `gte.${since30}`,
+    }),
+    // Visitas: conteo exacto sin límite
+    adminCount("page_views", {
+      created_at: `gte.${since7}`,
+    }),
+  ])
+
+  return {
+    quizzes,
+    reports,
+    recoveriesCount,
+    studiesCount,
+    sharesCount,
+    pageViewsCount,
+  }
 }
 
-export async function getRecentQuizzes(limit = 20): Promise<RecentQuizRow[]> {
+export async function getRecentQuizzes(limit = 25): Promise<RecentQuizRow[]> {
   return adminQuery<RecentQuizRow>("events", {
     event_type: "eq.quiz_completed",
-    select: "id,lesson_title,category_name,student_name,score,total,percentage,course_type,created_at",
-    order: "created_at.desc",
-    limit: String(limit),
+    select:     "id,lesson_title,category_name,student_name,score,total,percentage,course_type,created_at",
+    order:      "created_at.desc",
+    limit:      String(limit),
   })
 }
 
