@@ -15,6 +15,7 @@ import { RecoveryDashboard } from "@/components/recovery/recovery-dashboard"
 import { PendingLessonCard } from "@/components/recovery/pending-lesson-card"
 import { CompletedLessonCard } from "@/components/recovery/completed-lesson-card"
 import { saveRecoveryPlan } from "@/lib/recovery-storage"
+import { decodeRecoveryPayload } from "@/lib/recovery-format"
 import { getSavedStudentName, cn } from "@/lib/utils"
 import { trackRecoveryPlanViewed, trackWhatsappReportSent } from "@/lib/analytics"
 import type { RecoveryLesson } from "@/components/recovery/pending-lesson-card"
@@ -26,46 +27,44 @@ interface RecoveryClientProps {
 function parseLessons(rawData: string): RecoveryLesson[] {
   if (!rawData) return []
 
-  return decodeURIComponent(rawData)
-    .split("|")
-    .filter(Boolean)
-    .flatMap((group) => {
-      const [categoryId, lessonIdsRaw] = group.split(":")
-      const category = getCategoryById(categoryId)
-      const isFlat   = category ? isFlatCategory(category) : false
+  // Usar decodeRecoveryPayload que entiende tanto el formato viejo
+  // ("cat:les1,les2|cat2:les3") como el nuevo con overrides ("v2:eyJ...")
+  const items = decodeRecoveryPayload(rawData)
 
-      return lessonIdsRaw.split(",").flatMap((lId) => {
-        const result = getLessonById(categoryId, lId)
-        if (!result) return []
+  return items.flatMap((item) => {
+    const { categoryId, lessonId, overrideId } = item
+    const category = getCategoryById(categoryId)
+    const isFlat   = category ? isFlatCategory(category) : false
+    const result   = getLessonById(categoryId, lessonId)
+    if (!result) return []
 
-        const tieneResumen = isFlat
-          ? (result.lesson.secciones ?? []).length > 0
-          : leccionesResumidasAT.some((r) => r.id === lId) ||
-            leccionesResumidasLM.some((r) => r.id === lId) ||
-            leccionesResumidasLM2.some((r) => r.id === lId) ||
-            religion301Lecciones.some((r) => r.id === lId)
+    const tieneResumen = isFlat
+      ? (result.lesson.secciones ?? []).length > 0
+      : leccionesResumidasAT.some((r) => r.id === lessonId) ||
+        leccionesResumidasLM.some((r) => r.id === lessonId) ||
+        leccionesResumidasLM2.some((r) => r.id === lessonId) ||
+        religion301Lecciones.some((r) => r.id === lessonId)
 
-        return [{
-          categoryId,
-          isFlat,
-          tieneResumen,
-          lesson: {
-            id:         result.lesson.id,
-            title:      result.lesson.title,
-            type:       result.lesson.type,
-            chapterUrl: result.lesson.chapterUrl,
-            unitTitle:  (result.lesson as any).unitTitle,
-          },
-          category: { name: result.category.name },
-        } satisfies RecoveryLesson]
-      })
-    })
+    return [{
+      categoryId,
+      isFlat,
+      tieneResumen,
+      overrideId,
+      lesson: {
+        id:         result.lesson.id,
+        title:      result.lesson.title,
+        type:       result.lesson.type,
+        chapterUrl: result.lesson.chapterUrl,
+        unitTitle:  (result.lesson as any).unitTitle,
+      },
+      category: { name: result.category.name },
+    } satisfies RecoveryLesson]
+  })
 }
 
 export function RecoveryClient({ rawData }: RecoveryClientProps) {
   const [completados,   setCompletados]   = useState<string[]>([])
   const [showCompleted, setShowCompleted] = useState(false)
-  // Flag para disparar el tracking de "plan visto" solo una vez
   const [tracked, setTracked] = useState(false)
 
   const { modalOpen, handleConfirm, handleCancel, shareToWhatsApp } = useShareWithName()
@@ -73,15 +72,11 @@ export function RecoveryClient({ rawData }: RecoveryClientProps) {
   const lessons = useMemo(() => parseLessons(rawData), [rawData])
 
   useEffect(() => {
-    // Guardar el plan para que la home muestre el banner
     if (rawData) saveRecoveryPlan(rawData)
-
-    // Cargar lecciones completadas
     const saved = JSON.parse(localStorage.getItem("seminario-completados") || "[]")
     setCompletados(saved)
   }, [rawData])
 
-  // Trackear "plan de recuperación visto" — solo una vez cuando los datos están listos
   useEffect(() => {
     if (!tracked && lessons.length > 0) {
       trackRecoveryPlanViewed({
@@ -101,16 +96,13 @@ export function RecoveryClient({ rawData }: RecoveryClientProps) {
 
   const handleShare = () => {
     shareToWhatsApp((nombre) => {
-      // Trackear el envío del reporte
       trackWhatsappReportSent({
         studentName:  nombre,
         lessonsDone:  done,
         lessonsTotal: total,
         percentage,
-        // Si todas las lecciones son del mismo curso, pasar el categoryId
         categoryId: lessons.length > 0 ? lessons[0].categoryId : undefined,
       })
-
       return generateWhatsAppReport(lessons, completados, percentage, nombre)
     })
   }
