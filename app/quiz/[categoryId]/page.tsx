@@ -1,4 +1,9 @@
 "use client"
+// app/quiz/[categoryId]/page.tsx
+// CAMBIOS respecto al original:
+//  - Importa OverridePicker y recovery-format
+//  - handleShare ahora abre el picker antes de generar el link
+//  - Si hay overrides seleccionados, usa formato v2; si no, usa el formato original
 
 import { useState, use, useMemo, useEffect } from "react"
 import { createPortal } from "react-dom"
@@ -7,6 +12,7 @@ import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
 import { WeekCard } from "@/components/week-card"
 import { FlatLessonList } from "@/components/flat-lesson-list"
+import { OverridePicker } from "@/components/override-picker"
 import {
   getCategoryById,
   getTotalLessons,
@@ -14,7 +20,14 @@ import {
   isFlatCategory,
   getSemesterSiblings,
   getWeeksWithExtendedContent,
+  getLessonById,
 } from "@/lib/quiz-data"
+import {
+  encodeRecoveryPayload,
+  encodeOldFormat,
+  hasOverrides,
+  type RecoveryItem,
+} from "@/lib/recovery-format"
 import { generateAssignmentMessage } from "@/lib/utils"
 import { trackLessonsShared } from "@/lib/analytics"
 import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X } from "lucide-react"
@@ -31,71 +44,89 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const category = getCategoryById(categoryId)
 
   const [selectedLessons, setSelectedLessons] = useState<string[]>([])
-  const [mounted, setMounted] = useState(false)
+  const [mounted, setMounted]     = useState(false)
+  const [showPicker, setShowPicker] = useState(false)
 
   useEffect(() => { setMounted(true) }, [])
 
+  // Necesario antes de los useMemo para que TypeScript estreche el tipo.
+  // notFound() lanza internamente pero TS no lo infiere como "never",
+  // así que usamos una aserción de tipo explícita debajo del guard.
+  if (!category) notFound()
+  const cat = category!   // aserción segura: notFound() ya habrá lanzado si era undefined
+
   const semesterSiblings = useMemo(
-    () => (category ? getSemesterSiblings(category) : null),
-    [category]
+    () => getSemesterSiblings(cat),
+    [cat]
   )
   const activeSemester =
-    !isFlatCategory(category!) && (category as any)?.semester === 2 ? 2 : 1
+    !isFlatCategory(cat) && (cat as any)?.semester === 2 ? 2 : 1
 
   const weeksWithExtraContent = useMemo(() => {
-    if (!category || isFlatCategory(category)) return []
-    return getWeeksWithExtendedContent(category)
-  }, [category])
+    if (isFlatCategory(cat)) return []
+    return getWeeksWithExtendedContent(cat)
+  }, [cat])
 
-  if (!category) {
-    notFound()
-  }
-
-  const totalLessons   = getTotalLessons(category)
-  const totalQuestions = getTotalQuestions(category)
-  const isFlat         = isFlatCategory(category)
+  const totalLessons   = getTotalLessons(cat)
+  const totalQuestions = getTotalQuestions(cat)
+  const isFlat         = isFlatCategory(cat)
 
   const toggleLesson = (lessonId: string) => {
-    setSelectedLessons((prev) =>
-      prev.includes(lessonId)
-        ? prev.filter((id) => id !== lessonId)
-        : [...prev, lessonId]
+    setSelectedLessons(prev =>
+      prev.includes(lessonId) ? prev.filter(id => id !== lessonId) : [...prev, lessonId]
     )
   }
 
-  const handleShare = () => {
-    const baseUrl     = window.location.origin
-    const data        = `${categoryId}:${selectedLessons.join(",")}`
-    const recoveryUrl = `${baseUrl}/recuperar?data=${encodeURIComponent(data)}`
-
-    // Recolectar títulos de las lecciones seleccionadas
-    const lessonTitles: string[] = []
-    if (isFlat) {
-      selectedLessons.forEach((id) => {
-        const lesson = category.lessons.find((l) => l.id === id)
-        if (lesson) lessonTitles.push(lesson.title)
-      })
-    } else {
-      selectedLessons.forEach((id) => {
-        for (const week of category.weeks) {
-          const lesson = week.lessons.find((l) => l.id === id)
-          if (lesson) { lessonTitles.push(lesson.title); break }
-        }
-      })
-    }
-
-    // ── Analytics ──────────────────────────────────────────────────────────
-    trackLessonsShared({
-      categoryId:   category.id,
-      categoryName: category.name,
-      lessonTitles,
-      courseType:   category.courseType,
+  // ── Construir lista de lecciones seleccionadas con títulos ──
+  const selectedLessonItems = useMemo(() => {
+    return selectedLessons.flatMap(lessonId => {
+      const result = getLessonById(categoryId, lessonId)
+      if (!result) return []
+      return [{ categoryId, lessonId, title: result.lesson.title }]
     })
-    // ──────────────────────────────────────────────────────────────────────
+  }, [selectedLessons, categoryId])
+
+  // ── Share: abrir picker ────────────────────────────────────
+  function handleShareClick() {
+    setShowPicker(true)
+  }
+
+  // ── Share: confirmar desde el picker ──────────────────────
+  function handlePickerConfirm(selections: Record<string, string | null>) {
+    setShowPicker(false)
+
+    const items: RecoveryItem[] = selectedLessonItems.map(lesson => ({
+      categoryId:  lesson.categoryId,
+      lessonId:    lesson.lessonId,
+      overrideId:  selections[`${lesson.categoryId}-${lesson.lessonId}`] ?? undefined,
+    }))
+
+    const lessonTitles = selectedLessonItems.map(l => l.title)
+
+    // Analytics
+    trackLessonsShared({
+      categoryId:   cat.id,
+      categoryName: cat.name,
+      lessonTitles,
+      courseType:   cat.courseType,
+    })
+
+    let recoveryUrl: string
+    const baseUrl = window.location.origin
+
+    if (hasOverrides(items)) {
+      // Formato nuevo (v2) cuando hay al menos un override
+      const encoded = encodeRecoveryPayload(items)
+      recoveryUrl = `${baseUrl}/recuperar?data=${encoded}`
+    } else {
+      // Formato viejo cuando no hay overrides — igual que antes
+      const data = `${categoryId}:${selectedLessons.join(",")}`
+      recoveryUrl = `${baseUrl}/recuperar?data=${encodeURIComponent(data)}`
+    }
 
     const mensaje = generateAssignmentMessage(
       categoryId,
-      category.name,
+      cat.name,
       lessonTitles,
       recoveryUrl
     )
@@ -103,6 +134,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
     window.open(`https://wa.me/?text=${encodeURIComponent(mensaje)}`, "_blank")
   }
 
+  // ── FAB ───────────────────────────────────────────────────
   const fab = mounted && selectedLessons.length > 0
     ? createPortal(
         <div
@@ -117,15 +149,12 @@ export default function CategoryPage({ params }: CategoryPageProps) {
             >
               {selectedLessons.length}
             </span>
-            <span className="sr-only">
-              {selectedLessons.length} {selectedLessons.length === 1 ? "lección seleccionada" : "lecciones seleccionadas"}
-            </span>
             <span aria-hidden="true" className="text-sm font-medium hidden sm:inline">
               {selectedLessons.length === 1 ? "lección seleccionada" : "lecciones seleccionadas"}
             </span>
           </div>
           <button
-            onClick={handleShare}
+            onClick={handleShareClick}
             className="flex items-center gap-2 rounded-full bg-[#25D366] px-4 py-2.5 text-sm font-bold text-white transition-transform hover:scale-105 active:scale-95 shadow-md sm:px-6"
           >
             <Share2 className="h-4 w-4 shrink-0" aria-hidden="true" />
@@ -144,9 +173,23 @@ export default function CategoryPage({ params }: CategoryPageProps) {
       )
     : null
 
+  // ── Portal del OverridePicker (fuera del árbol para evitar button anidado) ──
+  const pickerPortal = mounted && showPicker
+    ? createPortal(
+        <OverridePicker
+          lessons={selectedLessonItems}
+          onShare={handlePickerConfirm}
+          onCancel={() => setShowPicker(false)}
+        />,
+        document.body
+      )
+    : null
+
   return (
     <>
       {fab}
+      {pickerPortal}
+
       <div className="flex min-h-screen flex-col bg-background">
         <SiteHeader />
         <main className="flex-1 pb-32">
@@ -161,10 +204,10 @@ export default function CategoryPage({ params }: CategoryPageProps) {
               </Link>
 
               <h1 className="font-serif text-3xl font-bold text-balance text-foreground md:text-4xl">
-                {category.name}
+                {cat.name}
               </h1>
               <p className="mt-3 max-w-2xl text-base leading-relaxed text-muted-foreground">
-                {category.description}
+                {cat.description}
               </p>
 
               {/* Switcher de semestre */}
@@ -175,10 +218,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                   className="mt-5 inline-flex rounded-lg border border-border bg-muted/50 p-1 gap-1"
                 >
                   <button
-                    onClick={() => {
-                      setSelectedLessons([])
-                      router.replace(`/quiz/${semesterSiblings.sem1Id}`)
-                    }}
+                    onClick={() => { setSelectedLessons([]); router.replace(`/quiz/${semesterSiblings.sem1Id}`) }}
                     aria-pressed={activeSemester === 1}
                     className={cn(
                       "rounded-md px-4 py-1.5 text-sm font-semibold transition-all",
@@ -190,10 +230,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                     1° Semestre
                   </button>
                   <button
-                    onClick={() => {
-                      setSelectedLessons([])
-                      router.replace(`/quiz/${semesterSiblings.sem2Id}`)
-                    }}
+                    onClick={() => { setSelectedLessons([]); router.replace(`/quiz/${semesterSiblings.sem2Id}`) }}
                     aria-pressed={activeSemester === 2}
                     className={cn(
                       "rounded-md px-4 py-1.5 text-sm font-semibold transition-all",
@@ -211,15 +248,15 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                 {!isFlat && (
                   <div className="flex items-center gap-2 text-sm text-muted-foreground">
                     <Calendar className="h-4 w-4 text-primary" aria-hidden="true" />
-                    <span className="font-medium">{category.weeks.length}</span>{" "}
-                    {category.weeks.length === 1 ? "semana" : "semanas"}
+                    <span className="font-medium">{cat.weeks.length}</span>{" "}
+                    {cat.weeks.length === 1 ? "semana" : "semanas"}
                   </div>
                 )}
                 {isFlat && (
                   <div className="flex items-center gap-2 text-sm text-muted-foreground">
                     <Layers className="h-4 w-4 text-primary" aria-hidden="true" />
                     <span className="font-medium">
-                      {new Set(category.lessons.map((l) => l.unitTitle).filter(Boolean)).size}
+                      {new Set(cat.lessons.map((l: any) => l.unitTitle).filter(Boolean)).size}
                     </span>{" "}
                     unidades
                   </div>
@@ -241,8 +278,8 @@ export default function CategoryPage({ params }: CategoryPageProps) {
             <div className="mx-auto max-w-4xl">
               {isFlat ? (
                 <FlatLessonList
-                  lessons={category.lessons}
-                  categoryId={category.id}
+                  lessons={cat.lessons}
+                  categoryId={cat.id}
                   selectedLessons={selectedLessons}
                   onToggleLesson={toggleLesson}
                 />
@@ -252,7 +289,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                     <WeekCard
                       key={week.id}
                       week={week}
-                      categoryId={category.id}
+                      categoryId={cat.id}
                       defaultOpen={index === 0}
                       selectedLessons={selectedLessons}
                       onToggleLesson={toggleLesson}

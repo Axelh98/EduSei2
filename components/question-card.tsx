@@ -14,7 +14,6 @@ interface QuestionCardProps {
   onSelectAnswer: (index: number) => void
 }
 
-// Hook para disparar animaciones CSS en respuestas
 function useAnswerAnimation(hasSubmitted: boolean, isCorrect: boolean) {
   const ref = useRef<HTMLButtonElement>(null)
 
@@ -32,15 +31,14 @@ function useAnswerAnimation(hasSubmitted: boolean, isCorrect: boolean) {
         { duration: 400, easing: "ease-out" }
       )
     } else {
-      // Shake suave
       el.animate(
         [
-          { transform: "translateX(0)"   },
+          { transform: "translateX(0)"    },
           { transform: "translateX(-6px)" },
           { transform: "translateX(5px)"  },
           { transform: "translateX(-4px)" },
           { transform: "translateX(3px)"  },
-          { transform: "translateX(0)"   },
+          { transform: "translateX(0)"    },
         ],
         { duration: 320, easing: "ease-out" }
       )
@@ -80,27 +78,36 @@ function AnswerOption({
       onClick={onSelect}
       disabled={hasSubmitted}
       className={cn(
-        "flex items-center gap-3 rounded-lg border px-4 py-3.5 text-left text-sm font-medium transition-all md:text-base",
+        // Base: bordes redondeados más generosos, padding equilibrado
+        "flex items-center gap-3.5 rounded-xl border px-4 py-3.5 text-left text-sm font-medium",
+        "transition-all duration-150 md:text-base",
+        // Estado idle — sin selección
         !hasSubmitted && !isSelected &&
-          "border-border bg-background text-foreground hover:border-primary/40 hover:bg-muted/50",
+          "border-border bg-background text-foreground hover:border-primary/40 hover:bg-muted/40",
+        // ↑ micro-lift al seleccionar antes de verificar
         !hasSubmitted && isSelected &&
-          "border-primary bg-primary/5 text-foreground ring-1 ring-primary",
+          "border-primary bg-primary/5 text-foreground ring-1 ring-primary scale-[1.01]",
+        // Post-verificación: correcto
         showCorrect &&
-          "border-success bg-success/5 text-foreground",
+          "border-success/60 bg-success/5 text-foreground shadow-[0_0_0_1px_rgba(34,197,94,0.2)]",
+        // Post-verificación: incorrecto
         showIncorrect &&
-          "border-destructive bg-destructive/5 text-foreground",
+          "border-destructive/60 bg-destructive/5 text-foreground",
+        // Opciones no involucradas post-verificación
         hasSubmitted && !showCorrect && !showIncorrect &&
-          "border-border bg-background text-muted-foreground opacity-60"
+          "border-border bg-background text-muted-foreground opacity-50 cursor-default"
       )}
     >
+      {/* Badge de letra — más grande, monoespaciado, con más presencia */}
       <span
         className={cn(
-          "flex h-7 w-7 shrink-0 items-center justify-center rounded-full border text-xs font-bold transition-colors",
-          !hasSubmitted && !isSelected && "border-border text-muted-foreground",
-          !hasSubmitted && isSelected  && "border-primary bg-primary text-primary-foreground",
-          showCorrect                  && "border-success bg-success text-success-foreground",
-          showIncorrect                && "border-destructive bg-destructive text-destructive-foreground",
-          hasSubmitted && !showCorrect && !showIncorrect && "border-border text-muted-foreground"
+          "flex h-8 w-8 shrink-0 items-center justify-center rounded-full",
+          "font-mono text-xs font-black tracking-tight transition-all duration-150",
+          !hasSubmitted && !isSelected && "border border-border text-muted-foreground",
+          !hasSubmitted && isSelected  && "border-0 bg-primary text-primary-foreground shadow-sm",
+          showCorrect  && "border-0 bg-success text-success-foreground",
+          showIncorrect && "border-0 bg-destructive text-destructive-foreground",
+          hasSubmitted && !showCorrect && !showIncorrect && "border border-border/50 text-muted-foreground/50"
         )}
       >
         {showCorrect ? (
@@ -111,7 +118,7 @@ function AnswerOption({
           String.fromCharCode(65 + index)
         )}
       </span>
-      <span>{option}</span>
+      <span className="leading-snug">{option}</span>
     </button>
   )
 }
@@ -124,37 +131,53 @@ export function QuestionCard({
   hasSubmitted,
   onSelectAnswer,
 }: QuestionCardProps) {
+  const progress = (questionNumber / totalQuestions) * 100
+
   return (
     <div className="rounded-xl border border-border bg-card p-6 md:p-8">
+
       {/* Progress indicator */}
-      <div className="mb-6 flex items-center justify-between">
+      <div className="mb-5 flex items-center justify-between">
         <span className="text-sm font-medium text-muted-foreground">
-          Pregunta {questionNumber} de {totalQuestions}
+          Pregunta{" "}
+          <span className="tabular-nums font-bold text-foreground">{questionNumber}</span>
+          {" "}de{" "}
+          <span className="tabular-nums">{totalQuestions}</span>
         </span>
-        <div className="flex h-8 w-8 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground">
-          {questionNumber}
+        {/* Contador circular — más carácter que el badge plano */}
+        <div
+          className="relative flex h-9 w-9 items-center justify-center rounded-full bg-primary text-xs font-black text-primary-foreground"
+          style={{
+            // Anillo de progreso via conic-gradient
+            background: `conic-gradient(var(--primary) ${progress}%, transparent ${progress}%)`,
+            padding: "2px",
+          }}
+        >
+          <div className="flex h-full w-full items-center justify-center rounded-full bg-card text-[11px] font-black text-foreground">
+            {questionNumber}
+          </div>
         </div>
       </div>
 
       {/* Progress bar */}
-      <div className="mb-6 h-1.5 w-full overflow-hidden rounded-full bg-muted">
+      <div className="mb-6 h-1 w-full overflow-hidden rounded-full bg-muted">
         <div
-          className="h-full rounded-full bg-primary transition-all duration-500"
-          style={{ width: `${(questionNumber / totalQuestions) * 100}%` }}
+          className="h-full rounded-full bg-primary transition-all duration-700 ease-out"
+          style={{ width: `${progress}%` }}
         />
       </div>
 
       {/* Question */}
-      <h3 className="mb-6 font-serif text-xl font-bold leading-relaxed text-foreground md:text-2xl">
+      <h3 className="mb-6 font-serif text-xl font-bold leading-relaxed text-foreground md:text-2xl [text-wrap:pretty]">
         {question.question}
       </h3>
 
       {/* Options */}
-      <div className="flex flex-col gap-3">
+      <div className="flex flex-col gap-2.5">
         {question.options.map((option, index) => {
-          const isSelected   = selectedAnswer === index
-          const isCorrect    = index === question.correctAnswer
-          const showCorrect  = hasSubmitted && isCorrect
+          const isSelected    = selectedAnswer === index
+          const isCorrect     = index === question.correctAnswer
+          const showCorrect   = hasSubmitted && isCorrect
           const showIncorrect = hasSubmitted && isSelected && !isCorrect
 
           return (
@@ -175,9 +198,9 @@ export function QuestionCard({
 
       {/* Reference after submit */}
       {hasSubmitted && question.reference && (
-        <div className="mt-5 animate-in fade-in slide-in-from-bottom-2 duration-300 rounded-lg bg-muted/60 px-4 py-3">
-          <p className="text-sm text-muted-foreground">
-            <span className="font-semibold text-foreground">Referencia: </span>
+        <div className="mt-5 animate-in fade-in slide-in-from-bottom-2 duration-300 rounded-xl border border-border/60 bg-muted/40 px-4 py-3.5">
+          <p className="text-sm text-muted-foreground [text-wrap:pretty]">
+            <span className="font-bold text-foreground">Referencia: </span>
             {question.reference}
           </p>
         </div>

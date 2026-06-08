@@ -1,5 +1,8 @@
 // components/recovery/pending-lesson-card.tsx
-import { BookOpen, ArrowRight, FileText, ExternalLink } from "lucide-react"
+// CAMBIOS: acepta overrideId y overrideData opcionales,
+// muestra badge "Versión personalizada" y pasa overrideId en los links.
+
+import { BookOpen, ArrowRight, FileText, ExternalLink, Sparkles } from "lucide-react"
 import Link from "next/link"
 
 const TYPE_ACCENT: Record<string, string> = {
@@ -17,15 +20,21 @@ const TYPE_ACCENT: Record<string, string> = {
 }
 
 export interface RecoveryLesson {
-  categoryId: string
-  isFlat: boolean
-  tieneResumen: boolean
+  categoryId:    string
+  isFlat:        boolean
+  tieneResumen:  boolean
+  overrideId?:   string
+  overrideData?: {
+    title:         string | null
+    seccionCount:  number
+    questionCount: number
+  }
   lesson: {
-    id: string
-    title: string
-    type?: string
+    id:         string
+    title:      string
+    type?:      string
     chapterUrl?: string
-    unitTitle?: string
+    unitTitle?:  string
   }
   category: {
     name: string
@@ -33,12 +42,18 @@ export interface RecoveryLesson {
 }
 
 interface PendingLessonCardProps {
-  item: RecoveryLesson
+  item:    RecoveryLesson
   rawData: string
 }
 
 export function PendingLessonCard({ item, rawData }: PendingLessonCardProps) {
   const accent = TYPE_ACCENT[item.lesson.type ?? "default"] ?? TYPE_ACCENT.default
+  const hasOverride = !!item.overrideId
+
+  // Los links al quiz/study incluyen el overrideId si existe
+  const overrideParam = item.overrideId ? `&overrideId=${item.overrideId}` : ""
+  const quizUrl  = `/quiz/${item.categoryId}/${item.lesson.id}?data=${rawData}${overrideParam}`
+  const studyUrl = `/quiz/${item.categoryId}/${item.lesson.id}/study?data=${rawData}${overrideParam}`
 
   return (
     <div
@@ -55,21 +70,36 @@ export function PendingLessonCard({ item, rawData }: PendingLessonCardProps) {
         </div>
 
         <div className="min-w-0 flex-1">
-          <p className="mb-0.5 text-[10px] font-semibold uppercase tracking-widest text-muted-foreground/60">
-            {item.category.name}
-            {item.isFlat && item.lesson.unitTitle && (
-              <span className="ml-1 font-normal normal-case">
-                · {item.lesson.unitTitle}
+          <div className="flex items-center gap-2 flex-wrap mb-0.5">
+            <p className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground/60">
+              {item.category.name}
+              {item.isFlat && item.lesson.unitTitle && (
+                <span className="ml-1 font-normal normal-case">· {item.lesson.unitTitle}</span>
+              )}
+            </p>
+            {/* Badge de versión personalizada */}
+            {hasOverride && (
+              <span className="inline-flex items-center gap-1 rounded-full bg-secondary/10 px-2 py-0.5 text-[9px] font-bold uppercase tracking-wide text-secondary border border-secondary/20">
+                <Sparkles className="h-2.5 w-2.5" />
+                Versión personalizada
               </span>
             )}
-          </p>
+          </div>
           <h3 className="text-sm font-bold leading-snug text-foreground">
-            {item.lesson.title}
+            {/* Si el override tiene título propio, mostrarlo */}
+            {hasOverride && item.overrideData?.title
+              ? item.overrideData.title
+              : item.lesson.title}
           </h3>
+          {hasOverride && item.overrideData?.title && (
+            <p className="text-[11px] text-muted-foreground mt-0.5">
+              {item.lesson.title}
+            </p>
+          )}
         </div>
 
         <Link
-          href={`/quiz/${item.categoryId}/${item.lesson.id}?data=${rawData}`}
+          href={quizUrl}
           className="flex shrink-0 items-center gap-1.5 rounded-full px-3.5 py-2 text-[11px] font-bold text-white transition-all hover:brightness-110 active:scale-95"
           style={{ backgroundColor: accent }}
         >
@@ -83,12 +113,12 @@ export function PendingLessonCard({ item, rawData }: PendingLessonCardProps) {
         <div className="flex items-center gap-4 border-t border-border/50 bg-muted/20 px-4 py-2">
           {item.tieneResumen && (
             <Link
-              href={`/quiz/${item.categoryId}/${item.lesson.id}/study?data=${rawData}`}
+              href={studyUrl}
               className="flex items-center gap-1.5 text-[10px] font-semibold uppercase tracking-wide transition-colors"
               style={{ color: accent }}
             >
               <FileText className="h-3 w-3" />
-              Repasar resumen
+              {hasOverride ? "Ver resumen personalizado" : "Repasar resumen"}
             </Link>
           )}
           {item.lesson.chapterUrl && (

@@ -8,10 +8,10 @@ import { getTotalLessons, getTotalQuestions, isFlatCategory } from "@/lib/quiz-d
 // ─── Paleta de identidad por categoría ───────────────────────────────────────
 
 type CategoryTheme = {
-  stripe: string          // color de la franja superior (3px)
-  iconBg: string          // fondo del ícono
-  iconColor: string       // color del SVG del ícono
-  sigla: string           // badge corto (AT, NT, LM…)
+  stripe: string
+  iconBg: string
+  iconColor: string
+  sigla: string
   siglaBg: string
   siglaText: string
 }
@@ -59,7 +59,6 @@ const SEMINARIO_THEMES: Record<string, CategoryTheme> = {
   },
 }
 
-// Instituto: identidad por track, NO por id individual — escala con cualquier curso nuevo
 const INSTITUTO_FUNDAMENTAL_THEME = {
   stripe: "#BA7517",
   iconBg: "#FAEEDA",
@@ -82,7 +81,7 @@ function CategoryIcon({ categoryId, color }: { categoryId: string; color: string
   switch (categoryId) {
     case "antiguo-testamento":
       return (
-        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+        <svg width="22" height="22" viewBox="0 0 20 20" fill="none">
           <path d="M4 3h9l3 3v11H4V3z" stroke={color} strokeWidth="1.2" fill="none" />
           <path d="M13 3v3h3" stroke={color} strokeWidth="1.2" fill="none" />
           <path d="M7 9h6M7 12h4" stroke={color} strokeWidth="1" strokeLinecap="round" />
@@ -90,28 +89,28 @@ function CategoryIcon({ categoryId, color }: { categoryId: string; color: string
       )
     case "libro-de-mormon":
       return (
-        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+        <svg width="22" height="22" viewBox="0 0 20 20" fill="none">
           <rect x="3" y="3" width="14" height="14" rx="2" stroke={color} strokeWidth="1.2" fill="none" />
           <path d="M7 7h6M7 10h6M7 13h4" stroke={color} strokeWidth="1" strokeLinecap="round" />
         </svg>
       )
     case "doctrina-y-convenios":
       return (
-        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+        <svg width="22" height="22" viewBox="0 0 20 20" fill="none">
           <path d="M10 3L3 8v9h14V8L10 3z" stroke={color} strokeWidth="1.2" fill="none" strokeLinejoin="round" />
           <path d="M8 17v-5h4v5" stroke={color} strokeWidth="1" strokeLinecap="round" strokeLinejoin="round" />
         </svg>
       )
     case "nuevo-testamento":
       return (
-        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+        <svg width="22" height="22" viewBox="0 0 20 20" fill="none">
           <circle cx="10" cy="10" r="7" stroke={color} strokeWidth="1.2" fill="none" />
           <path d="M10 6v8M6 10h8" stroke={color} strokeWidth="1.2" strokeLinecap="round" />
         </svg>
       )
     case "Bloques":
       return (
-        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+        <svg width="22" height="22" viewBox="0 0 20 20" fill="none">
           <rect x="3" y="3" width="6" height="6" rx="1" stroke={color} strokeWidth="1.2" fill="none" />
           <rect x="11" y="3" width="6" height="6" rx="1" stroke={color} strokeWidth="1.2" fill="none" />
           <rect x="3" y="11" width="6" height="6" rx="1" stroke={color} strokeWidth="1.2" fill="none" />
@@ -119,9 +118,8 @@ function CategoryIcon({ categoryId, color }: { categoryId: string; color: string
         </svg>
       )
     default:
-      // Ícono genérico para Instituto — funciona para cualquier curso nuevo
       return (
-        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+        <svg width="22" height="22" viewBox="0 0 20 20" fill="none">
           <path d="M10 3l7 4v6l-7 4-7-4V7l7-4z" stroke={color} strokeWidth="1.2" fill="none" strokeLinejoin="round" />
           <path d="M10 3v14M3 7l7 4 7-4" stroke={color} strokeWidth="1" strokeLinecap="round" />
         </svg>
@@ -137,7 +135,6 @@ export function CategoryCard({ category }: { category: Category }) {
   const isFlat = isFlatCategory(category)
   const isComingSoon = category.id === "nuevo-testamento"
 
-  // Resolver tema
   const isSeminario = category.courseType === "seminario"
   const track = (category as any).instituteTrack as "fundamental" | "electivo" | undefined
 
@@ -153,7 +150,6 @@ export function CategoryCard({ category }: { category: Category }) {
     stripe = t.stripe; iconBg = t.iconBg; iconColor = t.iconColor
   }
 
-  // Conteo de unidades para Instituto
   const unitCount = isFlat
     ? new Set((category as any).lessons.map((l: any) => l.unitTitle).filter(Boolean)).size
     : 0
@@ -164,16 +160,31 @@ export function CategoryCard({ category }: { category: Category }) {
       className={`group block ${isComingSoon ? "pointer-events-none" : ""}`}
     >
       <div
-        className="relative flex flex-col overflow-hidden rounded-xl border border-border bg-card transition-all duration-200 hover:-translate-y-0.5 hover:border-border/80 hover:shadow-md"
-        style={{ borderTop: `3px solid ${stripe}` }}
+        className="relative flex flex-col overflow-hidden rounded-xl border border-border bg-card transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
+        style={{
+          // Borde izquierdo en lugar de superior — más impacto visual
+          boxShadow: `inset 3px 0 0 ${stripe}`,
+          // Gradiente de fondo muy sutil que "pertenece" al color de la categoría
+          background: `linear-gradient(135deg, ${stripe}06 0%, transparent 45%)`,
+        }}
       >
+        {/* Borde exterior en hover */}
+        <div
+          className="absolute inset-0 rounded-xl opacity-0 ring-1 transition-opacity duration-300 group-hover:opacity-100"
+          style={{ "--ring-color": stripe, boxShadow: `0 0 0 1px ${stripe}30` } as React.CSSProperties}
+        />
+
         <div className="flex flex-col gap-3 p-5">
 
           {/* Fila superior: ícono + badges */}
           <div className="flex items-start justify-between gap-3">
             <div
-              className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg transition-transform duration-200 group-hover:scale-105"
-              style={{ backgroundColor: iconBg }}
+              className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl transition-all duration-300 group-hover:scale-110"
+              style={{
+                backgroundColor: iconBg,
+                // Glow del color de la categoría bajo el ícono
+                boxShadow: `0 4px 14px ${stripe}35`,
+              }}
             >
               <CategoryIcon categoryId={category.id} color={iconColor} />
             </div>
@@ -213,10 +224,10 @@ export function CategoryCard({ category }: { category: Category }) {
                 </span>
               )}
 
-              {/* Badge de sigla (solo Seminario) */}
+              {/* Badge sigla Seminario */}
               {isSeminario && SEMINARIO_THEMES[category.id] && (
                 <span
-                  className="inline-flex items-center rounded-full px-2 py-0.5 text-[10px] font-semibold"
+                  className="inline-flex items-center rounded-full px-2 py-0.5 text-[10px] font-bold"
                   style={{
                     backgroundColor: SEMINARIO_THEMES[category.id].siglaBg,
                     color: SEMINARIO_THEMES[category.id].siglaText,
@@ -226,10 +237,10 @@ export function CategoryCard({ category }: { category: Category }) {
                 </span>
               )}
 
-              {/* Badge de sigla para Instituto (shortName) */}
+              {/* Badge sigla Instituto */}
               {!isSeminario && (
                 <span
-                  className="inline-flex items-center rounded-full px-2 py-0.5 text-[10px] font-semibold"
+                  className="inline-flex items-center rounded-full px-2 py-0.5 text-[10px] font-bold"
                   style={{
                     backgroundColor: track === "electivo"
                       ? INSTITUTO_ELECTIVO_THEME.trackBg
@@ -246,25 +257,18 @@ export function CategoryCard({ category }: { category: Category }) {
               {isComingSoon && (
                 <span
                   className="inline-flex items-center rounded-full px-2 py-0.5 text-[10px] font-semibold"
-                  style={{
-                    backgroundColor: "#FEF3C7",
-                    color: "#92400E",
-                    border: "0.5px solid #FCD34D",
-                  }}
+                  style={{ backgroundColor: "#FEF3C7", color: "#92400E", border: "0.5px solid #FCD34D" }}
                 >
                   🚧 Próximamente
                 </span>
               )}
-
             </div>
           </div>
 
           {/* Título y descripción */}
           <div>
-            <h3
-              className="text-base font-semibold leading-snug text-foreground transition-colors duration-200"
-              style={{ ["--hover-color" as string]: stripe }}
-            >
+            <h3 className="text-base font-semibold leading-snug text-foreground transition-colors duration-200 group-hover:text-[var(--accent)]"
+                style={{ "--accent": stripe } as React.CSSProperties}>
               {category.name}
             </h3>
             <p className="mt-1.5 text-sm leading-relaxed text-muted-foreground line-clamp-2">
@@ -293,7 +297,7 @@ export function CategoryCard({ category }: { category: Category }) {
           </div>
 
           <span
-            className="flex items-center gap-1 text-xs font-medium opacity-0 transition-opacity duration-200 group-hover:opacity-100"
+            className="flex items-center gap-1 text-xs font-bold opacity-0 transition-all duration-200 group-hover:opacity-100 group-hover:translate-x-0.5"
             style={{ color: stripe }}
           >
             Ver

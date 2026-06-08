@@ -1,7 +1,7 @@
 // components/quiz-results.tsx
 "use client"
 
-import { Trophy, RotateCcw, Home, Star, BookOpen, ListChecks, Share2 } from "lucide-react"
+import { Trophy, RotateCcw, Home, Star, BookOpen, ListChecks, Share2, CheckCircle2 } from "lucide-react"
 import Link from "next/link"
 import { cn } from "@/lib/utils"
 import { useEffect } from "react"
@@ -20,11 +20,44 @@ interface QuizResultsProps {
   recoveryData?: string | null
 }
 
-function getResultMessage(percentage: number) {
-  if (percentage === 100) return { text: "¡Perfecto!",      icon: Star,     color: "text-yellow-500" }
-  if (percentage >= 80)  return { text: "Excelente",        icon: Trophy,   color: "text-secondary"  }
-  if (percentage >= 60)  return { text: "Aprobado",         icon: BookOpen, color: "text-primary"    }
-  return                        { text: "Animos! Lo Haras Mejor La Próxima", icon: BookOpen, color: "text-muted-foreground" }
+// ─── Escala de resultado en 4 niveles claros ──────────────────────────────────
+function getResultConfig(percentage: number) {
+  if (percentage === 100) return {
+    text:    "¡Perfecto!",
+    sub:     "Respondiste todo correctamente.",
+    icon:    Star,
+    color:   "text-yellow-500",
+    ringBg:  "bg-yellow-400/15 ring-4 ring-yellow-400/30",
+    barColor: "bg-yellow-400",
+    pulse:   true,
+  }
+  if (percentage >= 80) return {
+    text:    "Excelente",
+    sub:     "Dominás el material de esta lección.",
+    icon:    Trophy,
+    color:   "text-green-600",
+    ringBg:  "bg-green-500/10 ring-2 ring-green-500/20",
+    barColor: "bg-green-500",
+    pulse:   false,
+  }
+  if (percentage >= 60) return {
+    text:    "Aprobado",
+    sub:     "Superaste el umbral mínimo. ¡Bien hecho!",
+    icon:    CheckCircle2,
+    color:   "text-primary",
+    ringBg:  "bg-primary/10 ring-2 ring-primary/20",
+    barColor: "bg-primary",
+    pulse:   false,
+  }
+  return {
+    text:    "¡Ánimo! Podés mejorar",   // corregido el typo
+    sub:     "Repasá el contenido e intentalo de nuevo.",
+    icon:    BookOpen,
+    color:   "text-amber-600",
+    ringBg:  "bg-amber-500/10 ring-2 ring-amber-500/20",
+    barColor: "bg-amber-500",
+    pulse:   false,
+  }
 }
 
 export function QuizResults({
@@ -37,8 +70,8 @@ export function QuizResults({
   onRetry,
 }: QuizResultsProps) {
   const percentage = Math.round((score / totalQuestions) * 100)
-  const result     = getResultMessage(percentage)
-  const ResultIcon = result.icon
+  const config     = getResultConfig(percentage)
+  const ResultIcon = config.icon
   const isPerfect  = percentage === 100
 
   const { modalOpen, handleConfirm, handleCancel, shareToWhatsApp } = useShareWithName()
@@ -61,23 +94,13 @@ export function QuizResults({
   // ── Confetti para 100% ────────────────────────────────────────────────
   useEffect(() => {
     if (!isPerfect) return
-    // Pequeño delay para que la tarjeta aparezca primero
-    const t = setTimeout(() => {
-      fireConfetti()
-    }, 350)
+    const t = setTimeout(() => fireConfetti(), 350)
     return () => clearTimeout(t)
   }, [isPerfect, fireConfetti])
 
   const handleShare = () => {
     shareToWhatsApp((nombre) =>
-      generateSingleQuizReport(
-        categoryName,
-        lessonTitle,
-        score,
-        totalQuestions,
-        percentage,
-        nombre
-      )
+      generateSingleQuizReport(categoryName, lessonTitle, score, totalQuestions, percentage, nombre)
     )
   }
 
@@ -87,15 +110,11 @@ export function QuizResults({
 
   return (
     <>
-      <StudentNameModal
-        isOpen={modalOpen}
-        onConfirm={handleConfirm}
-        onCancel={handleCancel}
-      />
+      <StudentNameModal isOpen={modalOpen} onConfirm={handleConfirm} onCancel={handleCancel} />
 
       <div
         className={cn(
-          "mx-auto max-w-lg rounded-xl border bg-card p-8 text-center md:p-10 shadow-sm",
+          "mx-auto max-w-lg rounded-2xl border bg-card p-8 text-center md:p-10 shadow-sm",
           "animate-in fade-in slide-in-from-bottom-4 duration-500",
           isPerfect && "border-yellow-400/40 dark:border-yellow-500/30",
         )}
@@ -104,26 +123,26 @@ export function QuizResults({
         <div
           className={cn(
             "mx-auto mb-6 flex h-20 w-20 items-center justify-center rounded-full",
-            isPerfect
-              ? "bg-yellow-400/15 ring-4 ring-yellow-400/30 animate-pulse"
-              : "bg-muted",
+            config.ringBg,
+            config.pulse && "animate-pulse",
           )}
         >
-          <ResultIcon className={cn("h-10 w-10", result.color)} />
+          <ResultIcon className={cn("h-10 w-10", config.color)} />
         </div>
 
         {/* Título */}
         <h2
           className={cn(
             "font-serif text-2xl font-bold md:text-3xl",
-            result.color,
+            config.color,
             isPerfect && "animate-in zoom-in-75 duration-500",
           )}
         >
-          {result.text}
+          {config.text}
         </h2>
-        <p className="mt-2 text-sm text-muted-foreground">{categoryName}</p>
-        <p className="text-xs text-muted-foreground/60">{lessonTitle}</p>
+        {/* Sub-mensaje emocional */}
+        <p className="mt-1.5 text-sm font-medium text-muted-foreground">{config.sub}</p>
+        <p className="mt-1 text-xs text-muted-foreground/60">{categoryName} · {lessonTitle}</p>
 
         {/* Score grande */}
         <div className="my-8">
@@ -137,19 +156,15 @@ export function QuizResults({
             <span className="text-2xl text-muted-foreground">%</span>
           </div>
           <p className="mt-2 text-muted-foreground">
-            {score} de {totalQuestions} respuestas correctas
+            <span className="font-bold tabular-nums">{score}</span> de{" "}
+            <span className="tabular-nums">{totalQuestions}</span> respuestas correctas
           </p>
         </div>
 
         {/* Barra de progreso animada */}
-        <div className="mb-8 h-3 w-full overflow-hidden rounded-full bg-muted">
+        <div className="mb-8 h-2.5 w-full overflow-hidden rounded-full bg-muted">
           <div
-            className={cn(
-              "h-full rounded-full transition-all duration-1000 ease-out",
-              percentage === 100 ? "bg-yellow-400" :
-              percentage >= 80   ? "bg-green-500"  :
-              percentage >= 60   ? "bg-blue-500"   : "bg-red-500"
-            )}
+            className={cn("h-full rounded-full transition-all duration-1000 ease-out", config.barColor)}
             style={{ width: `${percentage}%` }}
           />
         </div>
@@ -167,7 +182,7 @@ export function QuizResults({
         <div className="flex flex-col gap-3 sm:flex-row sm:justify-center">
           <button
             onClick={onRetry}
-            className="inline-flex items-center justify-center gap-2 rounded-lg bg-primary px-6 py-3 text-sm font-bold text-primary-foreground transition-all hover:opacity-90 active:scale-95"
+            className="inline-flex items-center justify-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-bold text-primary-foreground transition-all hover:opacity-90 active:scale-95"
           >
             <RotateCcw className="h-4 w-4" />
             Reintentar
@@ -175,7 +190,7 @@ export function QuizResults({
 
           <Link
             href={backUrl}
-            className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-background px-6 py-3 text-sm font-bold text-foreground transition-all hover:bg-muted active:scale-95"
+            className="inline-flex items-center justify-center gap-2 rounded-full border border-border bg-background px-6 py-3 text-sm font-bold text-foreground transition-all hover:bg-muted active:scale-95"
           >
             {recoveryData ? <ListChecks className="h-4 w-4" /> : <Home className="h-4 w-4" />}
             {recoveryData ? "Mi Plan" : "Inicio"}
@@ -183,10 +198,10 @@ export function QuizResults({
 
           <button
             onClick={handleShare}
-            className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#25D366] px-6 py-3 text-sm font-bold text-white transition-all hover:brightness-110 active:scale-95"
+            className="inline-flex items-center justify-center gap-2 rounded-full bg-[#25D366] px-6 py-3 text-sm font-bold text-white transition-all hover:brightness-110 active:scale-95"
           >
             <Share2 className="h-4 w-4" />
-            Compartir resultado
+            Compartir
           </button>
         </div>
       </div>

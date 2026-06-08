@@ -10,32 +10,37 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-card/80 backdrop-blur-md">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3 md:px-6 md:py-4">
+
         <Link href="/" className="flex items-center gap-3 transition-opacity hover:opacity-80">
-          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary md:h-10 md:w-10">
-            <BookOpen className="h-4 w-4 text-primary-foreground md:h-5 md:w-5" />
+          {/* Logo — shimmer decorativo, más identidad */}
+          <div className="relative flex h-9 w-9 items-center justify-center overflow-hidden rounded-lg bg-primary md:h-10 md:w-10">
+            <BookOpen className="relative z-10 h-4 w-4 text-primary-foreground md:h-5 md:w-5" />
+            {/* Shimmer diagonal que da sensación de material */}
+            <div className="absolute inset-0 bg-gradient-to-br from-white/20 via-transparent to-transparent" />
           </div>
-          {/* Nombre completo solo en desktop */}
+
+          {/* Desktop: nombre completo — consistente con "Aula SEI" */}
           <div className="hidden md:block">
             <h1 className="text-base font-bold leading-tight text-foreground">
               Aula SEI
             </h1>
             <p className="text-[11px] text-muted-foreground">
-              Escrituras · Doctrina · Evaluaciones
+              Escrituras · Instituto
             </p>
           </div>
-          {/* Nombre abreviado en mobile */}
+
+          {/* Mobile: también "Aula SEI" para consistencia de marca */}
           <div className="md:hidden">
-            <h1 className="text-sm font-bold leading-tight text-foreground">MSI</h1>
-            <p className="text-[10px] leading-none text-muted-foreground">
-              Aula SEI
-            </p>
+            <h1 className="text-sm font-bold leading-tight text-foreground">Aula SEI</h1>
           </div>
         </Link>
 
+        {/* Search centrado en desktop */}
         <div className="hidden flex-1 justify-center md:flex">
           <LessonSearch />
         </div>
 
+        {/* Nav desktop */}
         <nav className="hidden items-center gap-4 md:flex">
           <Link
             href="/"
@@ -49,17 +54,14 @@ export function SiteHeader() {
           >
             Cursos
           </Link>
-          {/* Separador visual */}
-          <div className="h-4 w-px bg-border" />
+          <div className="h-4 w-px bg-border" aria-hidden="true" />
           <ThemeToggle />
         </nav>
 
-        {/* Mobile: search + toggle */}
+        {/* Mobile: toggle + search */}
         <div className="flex items-center gap-2 md:hidden">
           <ThemeToggle />
-          <div className="flex-1">
-            <LessonSearch />
-          </div>
+          <LessonSearch />
         </div>
       </div>
     </header>

@@ -1,18 +1,21 @@
+"use client"
+
 // components/study/bloque-view.tsx
 import { BookOpen, Quote, Star, HelpCircle } from "lucide-react"
 import type { BloqueResumen } from "@/lib/types"
 
 export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
   switch (bloque.tipo) {
-    // ─── Párrafo narrativo ────────────────────────────────────────────────────
+
+    // ─── Párrafo narrativo — mejor contraste, text-wrap:pretty ────────────
     case "parrafo":
       return (
-        <p className="text-lg leading-[1.85] text-muted-foreground">
+        <p className="text-base leading-[1.9] text-foreground/80 [text-wrap:pretty]">
           {bloque.texto}
         </p>
       )
 
-    // ─── Escritura ────────────────────────────────────────────────────────────
+    // ─── Escritura — sin cambios, ya está bien ────────────────────────────
     case "escritura":
       return (
         <div className="rounded-2xl border border-primary/15 bg-primary/[0.03] p-5">
@@ -22,35 +25,32 @@ export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
               {bloque.referencia}
             </span>
           </div>
-          <p className="font-serif text-base leading-relaxed text-foreground">
+          <p className="font-serif text-base leading-relaxed text-foreground [text-wrap:pretty]">
             "{bloque.texto}"
           </p>
           {bloque.comentario && (
-            <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
+            <p className="mt-3 text-sm leading-relaxed text-muted-foreground [text-wrap:pretty]">
               {bloque.comentario}
             </p>
           )}
         </div>
       )
 
-    // ─── Cita profética / apostólica ─────────────────────────────────────────
-    // Fondo sólido oscuro (slate-800) + texto blanco explícito.
-    // Evitamos variables CSS HSL que html2canvas no resuelve bien en el clon.
+    // ─── Cita — sin cambios (ya es el mejor bloque) ───────────────────────
     case "cita":
       return (
         <div
           className="relative overflow-hidden rounded-2xl p-7"
-          style={{ backgroundColor: "#1e293b" }}   // slate-800 — sólido, sin vars
+          style={{ backgroundColor: "#1e293b" }}
         >
-          {/* Marca decorativa de comillas */}
           <Quote
             className="absolute right-5 top-4 h-12 w-12 opacity-10"
             style={{ color: "#ffffff" }}
           />
-
-          {/* Badge "Cita profética" */}
-          <div className="mb-4 inline-flex items-center gap-1.5 rounded-full px-3 py-1"
-               style={{ backgroundColor: "rgba(255,255,255,0.12)" }}>
+          <div
+            className="mb-4 inline-flex items-center gap-1.5 rounded-full px-3 py-1"
+            style={{ backgroundColor: "rgba(255,255,255,0.12)" }}
+          >
             <Star className="h-3 w-3" style={{ color: "#fbbf24" }} />
             <span
               className="text-[9px] font-black uppercase tracking-[0.2em]"
@@ -59,30 +59,20 @@ export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
               Cita Profética
             </span>
           </div>
-
-          {/* Texto de la cita */}
           <blockquote
-            className="relative font-serif text-xl font-medium italic leading-relaxed"
-            style={{ color: "#f1f5f9" }}   // slate-100
+            className="relative font-serif text-xl font-medium italic leading-relaxed [text-wrap:pretty]"
+            style={{ color: "#f1f5f9" }}
           >
             "{bloque.texto}"
           </blockquote>
-
-          {/* Divisor + autor */}
           <div className="mt-6 flex items-center gap-3">
             <div className="h-px flex-1" style={{ backgroundColor: "rgba(255,255,255,0.15)" }} />
             <div className="text-right">
-              <p
-                className="text-sm font-bold"
-                style={{ color: "#e2e8f0" }}   // slate-200
-              >
+              <p className="text-sm font-bold" style={{ color: "#e2e8f0" }}>
                 {bloque.autor}
               </p>
               {bloque.fuente && (
-                <p
-                  className="text-xs uppercase tracking-wider"
-                  style={{ color: "#94a3b8" }}  // slate-400
-                >
+                <p className="text-xs uppercase tracking-wider" style={{ color: "#94a3b8" }}>
                   {bloque.fuente}
                 </p>
               )}
@@ -91,7 +81,7 @@ export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
         </div>
       )
 
-    // ─── Puntos doctrinales ───────────────────────────────────────────────────
+    // ─── Puntos doctrinales — numerados como pills, más jerarquía ─────────
     case "doctrinal":
       return (
         <div className="space-y-3">
@@ -99,20 +89,25 @@ export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
             <Star className="h-3.5 w-3.5" />
             Verdades doctrinales
           </h3>
-          <ul className="space-y-2">
+          <ol className="space-y-2">
             {bloque.puntos.map((punto, i) => (
-              <li key={i} className="flex items-start gap-3">
-                <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-primary" />
-                <span className="text-base leading-relaxed text-foreground">
+              <li
+                key={i}
+                className="flex items-start gap-3 rounded-xl border-l-2 border-primary/25 bg-primary/[0.03] px-4 py-3"
+              >
+                <span className="mt-0.5 font-mono text-xs font-black text-primary/60 select-none shrink-0">
+                  {String(i + 1).padStart(2, "0")}
+                </span>
+                <span className="text-sm leading-relaxed text-foreground [text-wrap:pretty]">
                   {punto}
                 </span>
               </li>
             ))}
-          </ul>
+          </ol>
         </div>
       )
 
-    // ─── Preguntas de reflexión ───────────────────────────────────────────────
+    // ─── Preguntas de reflexión — más espaciosas, numeradas ───────────────
     case "reflexion":
       return (
         <div className="space-y-3">
@@ -120,16 +115,21 @@ export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
             <HelpCircle className="h-3.5 w-3.5" />
             Para reflexionar
           </h3>
-          <ul className="space-y-2.5">
+          <ol className="space-y-2">
             {bloque.preguntas.map((pregunta, i) => (
               <li
                 key={i}
-                className="rounded-xl border border-border bg-muted/30 px-4 py-3 text-sm leading-relaxed text-foreground"
+                className="flex items-start gap-3 rounded-xl border border-border bg-muted/25 px-4 py-3.5"
               >
-                {pregunta}
+                <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-secondary/15 text-[9px] font-black text-secondary/80 select-none mt-0.5">
+                  {i + 1}
+                </span>
+                <span className="text-sm leading-relaxed text-foreground [text-wrap:pretty]">
+                  {pregunta}
+                </span>
               </li>
             ))}
-          </ul>
+          </ol>
         </div>
       )
 
