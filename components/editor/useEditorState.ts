@@ -1,6 +1,5 @@
 "use client"
 // components/editor/useEditorState.ts
-// Hook central que maneja todo el estado del formulario del editor.
 
 import { useState, useCallback } from "react"
 import type { Seccion, Question } from "@/lib/types"
@@ -33,10 +32,16 @@ export function useEditorState(initial?: Partial<EditorState>) {
     setState(s => ({ ...s, [key]: value }))
   }, [])
 
+  // ── Cargar contenido original de una lección ──────────────
+  // Se llama cuando el maestro selecciona una lección y quiere
+  // partir del contenido existente como base de edición.
+  const loadFromLesson = useCallback((secciones: Seccion[], questions: Question[]) => {
+    setState(s => ({ ...s, secciones, questions }))
+  }, [])
+
   // ── Secciones ────────────────────────────────────────────
   const addSeccion = useCallback((tipo: Seccion["tipo"]) => {
-    const base = buildEmptySeccion(tipo)
-    setState(s => ({ ...s, secciones: [...s.secciones, base] }))
+    setState(s => ({ ...s, secciones: [...s.secciones, buildEmptySeccion(tipo)] }))
   }, [])
 
   const updateSeccion = useCallback((idx: number, seccion: Seccion) => {
@@ -48,10 +53,7 @@ export function useEditorState(initial?: Partial<EditorState>) {
   }, [])
 
   const removeSeccion = useCallback((idx: number) => {
-    setState(s => ({
-      ...s,
-      secciones: s.secciones.filter((_, i) => i !== idx),
-    }))
+    setState(s => ({ ...s, secciones: s.secciones.filter((_, i) => i !== idx) }))
   }, [])
 
   const moveSeccion = useCallback((from: number, to: number) => {
@@ -90,15 +92,13 @@ export function useEditorState(initial?: Partial<EditorState>) {
   }, [])
 
   const removeQuestion = useCallback((idx: number) => {
-    setState(s => ({
-      ...s,
-      questions: s.questions.filter((_, i) => i !== idx),
-    }))
+    setState(s => ({ ...s, questions: s.questions.filter((_, i) => i !== idx) }))
   }, [])
 
   return {
     state,
     setField,
+    loadFromLesson,
     addSeccion,
     updateSeccion,
     removeSeccion,
@@ -109,22 +109,14 @@ export function useEditorState(initial?: Partial<EditorState>) {
   }
 }
 
-// ── Builders de secciones vacías ──────────────────────────────
 function buildEmptySeccion(tipo: Seccion["tipo"]): Seccion {
   switch (tipo) {
-    case "contexto":
-      return { tipo, contenido: "" }
-    case "conclusion":
-      return { tipo, contenido: "" }
-    case "enseñanza":
-      return { tipo, autor: "", fuente: "", texto: "" }
-    case "escrituras":
-      return { tipo, citas: [{ referencia: "", texto: "" }] }
-    case "cuestionario":
-      return { tipo, preguntas: [""] }
-    case "resumen":
-      return { tipo, bloques: [] }
-    default:
-      return { tipo: "contexto", contenido: "" }
+    case "contexto":    return { tipo, contenido: "" }
+    case "conclusion":  return { tipo, contenido: "" }
+    case "enseñanza":   return { tipo, autor: "", fuente: "", texto: "" }
+    case "escrituras":  return { tipo, citas: [{ referencia: "", texto: "" }] }
+    case "cuestionario":return { tipo, preguntas: [""] }
+    case "resumen":     return { tipo, bloques: [] }
+    default:            return { tipo: "contexto", contenido: "" }
   }
 }

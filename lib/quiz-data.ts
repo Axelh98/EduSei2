@@ -16,6 +16,7 @@ import { religion250Lessons } from "./data/religion-250"
 import { religion225Lessons } from "./data/religion-225"
 import { religion301Lessons } from "./data/religion-301"
 import { religion301Lecciones } from "./data/religion-301/indexlecciones"
+import { leccionesResumidasR250 } from "./data/religion-250/religion-250-resumen"
 
 
 export { isFlatCategory }
@@ -30,6 +31,7 @@ const EXTENDED_CONTENT_MAP: Record<string, typeof leccionesResumidasAT> = {
   "libro-de-mormon-1": leccionesResumidasLM,
   "libro-de-mormon-2": leccionesResumidasLM2,
   "doctrina-y-convenios-1": doctrinasConveniosLeccionesResumen,
+  "religion-250": leccionesResumidasR250,
 }
 
 /**
@@ -165,6 +167,15 @@ const religion301LessonsWithContent = religion301Lecciones.map((lesson) => {
   };
 });
 
+const religion250LessonsWithContent = religion250Lessons.map((lesson) => {
+  const withSecciones = leccionesResumidasR250.find((l) => l.id === lesson.id)
+  return {
+    ...lesson,
+    secciones: withSecciones?.secciones ?? [],
+  }
+})
+
+
 const flatCategories: FlatCategory[] = [
   {
     id: "religion-250",
@@ -177,7 +188,7 @@ const flatCategories: FlatCategory[] = [
     layoutType: "flat",
     courseType: "instituto",
     instituteTrack: "fundamental",
-    lessons: religion250Lessons,
+    lessons: religion250LessonsWithContent,
   },
   {
     id: "religion-225",
@@ -294,7 +305,7 @@ export function getFullLesson(categoryId: string, lessonId: string) {
 
   return {
     ...baseData.lesson,
-    secciones: extendedContent?.secciones ?? [],
+    secciones: extendedContent?.secciones ?? baseData.lesson.secciones ?? [],
   }
 }
 

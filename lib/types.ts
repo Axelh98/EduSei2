@@ -59,6 +59,8 @@ export interface Lesson {
   chapterUrl?: string
   secciones?: Seccion[]
   questions: Question[]
+  unitTitle?: string
+  unitNumber?: number
 }
 
 export interface Week {

@@ -10,7 +10,7 @@ import { LessonPreview }   from "./Lessonpreview"
 import { EditorGuide, useEditorGuide } from "./Editorguide"
 import { useEditorState }  from "./useEditorState"
 import { createOverride, updateOverride } from "@/actions/overrides"
-import { getFullLesson } from "@/lib/quiz-data"
+import { getFullLesson, getLessonById, isFlatCategory } from "@/lib/quiz-data"
 import type { LessonOverride } from "@/actions/overrides"
 import type { Seccion, Question } from "@/lib/types"
 
@@ -43,7 +43,7 @@ export function EditorForm({ existing }: Props) {
   const { showGuide, dismissGuide } = useEditorGuide()
 
   const {
-    state, setField,
+    state, setField, loadFromLesson,
     addSeccion, updateSeccion, removeSeccion, moveSeccion,
     addQuestion, updateQuestion, removeQuestion,
   } = useEditorState(
@@ -59,29 +59,36 @@ export function EditorForm({ existing }: Props) {
 
   const isEditing = !!existing
 
-  function loadFromLesson(secciones: Seccion[], questions: Question[]) {
-    setField("secciones", secciones)
-    setField("questions", questions)
-  }
-
   // ── Cargar contenido original cuando cambia la lección ────
   useEffect(() => {
     if (!state.categoryId || !state.lessonId) {
       setOriginalLesson(null)
       return
     }
-    // getFullLesson fusiona secciones del código con las resumidas
-    const lessonData = getFullLesson(state.categoryId, state.lessonId)
-    if (!lessonData) { setOriginalLesson(null); return }
 
-    // Buscar las questions de la lección base
-    const { getLessonById } = require("@/lib/quiz-data")
     const result = getLessonById(state.categoryId, state.lessonId)
-    const questions: Question[] = result?.lesson?.questions ?? []
+    if (!result) { setOriginalLesson(null); return }
 
-    const secciones = (lessonData.secciones ?? []) as Seccion[]
+    const { lesson, category } = result
+    const questions: Question[] = lesson.questions ?? []
+
+    // Para Instituto (FlatCategory): las secciones viven directamente
+    // en la lección — las tomamos de ahí.
+    // Para Seminario: getFullLesson fusiona con el EXTENDED_CONTENT_MAP
+    // (resúmenes enriquecidos). Si no hay resumen extendido, usa las
+    // secciones base de la lección (puede ser []).
+    let secciones: Seccion[] = (lesson.secciones ?? []) as Seccion[]
+
+    if (!isFlatCategory(category)) {
+      // Seminario — intentar obtener las secciones enriquecidas
+      const fullLesson = getFullLesson(state.categoryId, state.lessonId)
+      if (fullLesson?.secciones?.length) {
+        secciones = fullLesson.secciones as Seccion[]
+      }
+    }
+
     setOriginalLesson({
-      title:     lessonData.title,
+      title:     lesson.title,
       secciones,
       questions,
     })

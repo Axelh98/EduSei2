@@ -71,39 +71,29 @@ export function LessonPreview({
 }: Props) {
   const [expandSecciones, setExpandSecciones] = useState(true)
   const [expandQuestions, setExpandQuestions] = useState(false)
-  const [loadedSecciones, setLoadedSecciones] = useState<Set<number>>(new Set())
-  const [loadedQuestions, setLoadedQuestions] = useState<Set<number>>(new Set())
-  const [allLoaded, setAllLoaded] = useState(false)
 
   const hasSecciones = lesson.secciones.length > 0
   const hasQuestions = lesson.questions.length > 0
 
-  function handleLoadSeccion(i: number) {
-    onLoadSeccion(lesson.secciones[i])
-    setLoadedSecciones(prev => new Set([...prev, i]))
+  function isSeccionLoaded(sec: Seccion): boolean {
+    return currentSecciones.some(s => JSON.stringify(s) === JSON.stringify(sec))
   }
 
-  function handleLoadQuestion(i: number) {
-    onLoadQuestion(lesson.questions[i])
-    setLoadedQuestions(prev => new Set([...prev, i]))
+  function isQuestionLoaded(q: Question): boolean {
+    return currentQuestions.some(cq => cq.question === q.question)
   }
 
-  function handleLoadAll() {
-    onLoadAll()
-    setAllLoaded(true)
-    setLoadedSecciones(new Set(lesson.secciones.map((_, i) => i)))
-    setLoadedQuestions(new Set(lesson.questions.map((_, i) => i)))
-  }
+  const loadedSeccionesCount = lesson.secciones.filter(isSeccionLoaded).length
+  const loadedQuestionsCount = lesson.questions.filter(isQuestionLoaded).length
+  const allLoaded =
+    loadedSeccionesCount === lesson.secciones.length &&
+    loadedQuestionsCount === lesson.questions.length
 
-  function handleLoadSecciones() {
-    onLoadSecciones()
-    setLoadedSecciones(new Set(lesson.secciones.map((_, i) => i)))
-  }
-
-  function handleLoadQuestions() {
-    onLoadQuestions()
-    setLoadedQuestions(new Set(lesson.questions.map((_, i) => i)))
-  }
+  function handleLoadSeccion(i: number) { onLoadSeccion(lesson.secciones[i]) }
+  function handleLoadQuestion(i: number) { onLoadQuestion(lesson.questions[i]) }
+  function handleLoadAll() { onLoadAll() }
+  function handleLoadSecciones() { onLoadSecciones() }
+  function handleLoadQuestions() { onLoadQuestions() }
 
   return (
     <div className="border border-primary/20 bg-primary/[0.02] rounded-2xl overflow-hidden animate-in fade-in slide-in-from-top-2 duration-200">
@@ -165,9 +155,9 @@ export function LessonPreview({
                 </span>
               </div>
               <div className="flex items-center gap-2">
-                {loadedSecciones.size > 0 && (
+                {loadedSeccionesCount > 0 && (
                   <span className="text-[11px] text-primary font-semibold">
-                    {loadedSecciones.size} cargadas
+                    {loadedSeccionesCount} cargadas
                   </span>
                 )}
                 {expandSecciones
@@ -183,7 +173,7 @@ export function LessonPreview({
                 <button
                   type="button"
                   onClick={handleLoadSecciones}
-                  disabled={loadedSecciones.size === lesson.secciones.length}
+                  disabled={loadedSeccionesCount === lesson.secciones.length}
                   className="self-start flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold border border-border rounded-lg text-muted-foreground hover:border-primary/40 hover:text-foreground disabled:opacity-40 disabled:cursor-default transition-colors mb-1"
                 >
                   <Download className="h-3 w-3" />
@@ -192,7 +182,7 @@ export function LessonPreview({
 
                 {lesson.secciones.map((sec, i) => {
                   const Icon = TIPO_ICON[sec.tipo] ?? BookOpen
-                  const isLoaded = loadedSecciones.has(i)
+                  const isLoaded = isSeccionLoaded(sec)
                   const preview = seccionPreview(sec)
 
                   return (
@@ -266,9 +256,9 @@ export function LessonPreview({
                 </span>
               </div>
               <div className="flex items-center gap-2">
-                {loadedQuestions.size > 0 && (
+                {loadedQuestionsCount > 0 && (
                   <span className="text-[11px] text-secondary font-semibold">
-                    {loadedQuestions.size} cargadas
+                    {loadedQuestionsCount} cargadas
                   </span>
                 )}
                 {expandQuestions
@@ -283,7 +273,7 @@ export function LessonPreview({
                 <button
                   type="button"
                   onClick={handleLoadQuestions}
-                  disabled={loadedQuestions.size === lesson.questions.length}
+                  disabled={loadedQuestionsCount === lesson.questions.length}
                   className="self-start flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold border border-border rounded-lg text-muted-foreground hover:border-secondary/40 hover:text-foreground disabled:opacity-40 disabled:cursor-default transition-colors mb-1"
                 >
                   <Download className="h-3 w-3" />
@@ -291,7 +281,7 @@ export function LessonPreview({
                 </button>
 
                 {lesson.questions.map((q, i) => {
-                  const isLoaded = loadedQuestions.has(i)
+                  const isLoaded = loadedQuestionsCount > i && isQuestionLoaded(q)
                   const typeLabel = q.type === "truefalse" ? "V/F" : "Múltiple"
 
                   return (
