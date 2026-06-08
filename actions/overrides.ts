@@ -155,8 +155,6 @@ export async function deleteOverride(id: string) {
 }
 
 // ── Fetch anónimo: el alumno carga un override por ID ─────────
-// Esta función va en lib/ porque la llama código del cliente/servidor
-// sin autenticación de maestro.
 export async function fetchPublicOverride(
   overrideId: string
 ): Promise<LessonOverride | null> {
@@ -165,9 +163,49 @@ export async function fetchPublicOverride(
     .from("lesson_overrides")
     .select("*")
     .eq("id", overrideId)
-    .eq("is_public", true) // RLS lo garantiza, pero lo repetimos por claridad
+    .eq("is_public", true)
     .single()
 
   if (error) return null
   return data as LessonOverride
+}
+
+// ── Duplicar override de un colega ────────────────────────────
+export async function duplicateOverride(
+  sourceId: string
+): Promise<{ id: string } | { error: string }> {
+  const user = await getUser()
+  if (!user) return { error: "No autenticado." }
+
+  const supabase = await createServerSupabaseClient()
+
+  // 1. Leer el override original (debe ser público para que otro lo pueda copiar)
+  const { data: source, error: fetchError } = await supabase
+    .from("lesson_overrides")
+    .select("*")
+    .eq("id", sourceId)
+    .eq("is_public", true)
+    .single()
+
+  if (fetchError || !source) return { error: "No se encontró el override original." }
+
+  // 2. Insertar como override nuevo del usuario actual
+  const { data: created, error: insertError } = await supabase
+    .from("lesson_overrides")
+    .insert({
+      author_id:   user.id,
+      category_id: source.category_id,
+      lesson_id:   source.lesson_id,
+      title:       source.title ? `Copia de ${source.title}` : `Copia de versión`,
+      secciones:   source.secciones,
+      questions:   source.questions,
+      is_public:   false, // siempre empieza privada
+    })
+    .select("id")
+    .single()
+
+  if (insertError || !created) return { error: "No se pudo duplicar el override." }
+
+  revalidatePath("/editor")
+  return { id: created.id }
 }
