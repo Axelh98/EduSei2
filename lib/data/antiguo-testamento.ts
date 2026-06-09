@@ -876,7 +876,7 @@ export const antiguoTestamentoWeeks: Week[] = [
       },
       {
         id: "leccion-202",
-        title: "Lección 202: Convenio de obedecer las leyes de obediencia y de sacrificio",
+        title: "Lección 202: En el templo hacemos convenio de obedecer las leyes de obediencia y de sacrificio",
         description: "Los convenios del templo te acercan a Cristo.",
         type: "Especial",
         chapterUrl:
