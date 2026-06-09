@@ -1,5 +1,101 @@
 import type { Question } from "@/lib/types";
 
+
+export const leccion71Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "¿Cuál fue el motivo explícito que dieron los ancianos de Israel para pedir un rey a Samuel?",
+    options: [
+      "Que Samuel era demasiado viejo para seguir siendo juez y necesitaban un sucesor.",
+      "Que los hijos de Samuel no seguían sus caminos, y querían un rey que los gobernara como tienen todas las naciones.",
+      "Que los filisteos habían atacado y necesitaban un líder militar permanente.",
+      "Que el Señor les había prometido un rey desde los tiempos de Moisés y querían cumplir esa promesa.",
+    ],
+    correctAnswer: 1,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "Cuando Samuel fue al Señor con la petición del pueblo, ¿cómo interpretó el Señor esa demanda?",
+    options: [
+      "Como un rechazo personal a Samuel como profeta y líder.",
+      "Como una señal de madurez política de Israel después de siglos en la tierra prometida.",
+      "Como un rechazo a Él mismo, para que no reinara sobre Su pueblo.",
+      "Como una petición legítima que debía atenderse sin advertencia previa.",
+    ],
+    correctAnswer: 2,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "El Señor advirtió a Israel de las consecuencias de tener un rey antes de dejarlos elegir. ¿Qué enseña esa secuencia —advertencia antes de consentir— sobre cómo Dios trata el albedrío de Sus hijos?",
+    options: [
+      "Que el Señor solo acepta las decisiones de Sus hijos cuando estas coinciden con Su voluntad.",
+      "Que Dios respeta el albedrío humano pero nunca deja de advertir sobre las consecuencias de las malas decisiones.",
+      "Que el albedrío significa que Dios nunca interviene en las decisiones de las personas.",
+      "Que las advertencias proféticas solo sirven para los líderes políticos, no para los individuos.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "Israel quería ser 'como todas las naciones'. ¿Por qué esa razón específica era problemática espiritualmente, más allá de solo ser moda o costumbre?",
+    options: [
+      "Porque las otras naciones eran militarmente más débiles y copiar su sistema era un error estratégico.",
+      "Porque Israel había sido llamado a ser diferente del mundo, y querer igualarlas significaba renunciar a esa identidad elegida por Dios.",
+      "Porque los reyes de otras naciones eran conocidos por ser crueles y corruptos sin excepción.",
+      "Porque Moisés había prohibido expresamente tener reyes en el libro de Deuteronomio.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Sofía siente que sus amigos la presionan para ver contenido en redes que sabe que no debería ver. 'No es para tanto', le dicen, 'todos lo hacen.' Según el principio de esta lección, ¿cuál sería la respuesta más coherente?",
+    options: [
+      "Mirar el contenido una vez para ver si realmente es malo antes de decidir.",
+      "Reconocer que la presión de 'ser como todos' es exactamente el patrón que llevó a Israel a alejarse del Señor, y elegir conscientemente seguir los estándares del Evangelio.",
+      "Hablar con sus padres primero y esperar su permiso antes de tomar cualquier decisión.",
+      "Aceptar para no perder la amistad, porque las relaciones son más importantes que las reglas.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Mateo dice que dejó de guardar el día de reposo 'porque nadie en mi entorno lo hace y no cambia nada'. ¿Cuál es el error doctrinal más profundo en su razonamiento, según lo que enseña 1 Samuel 8?",
+    options: [
+      "Que está priorizando la opinión de su entorno por encima de seguir al Señor, repitiendo el patrón de Israel.",
+      "Que no asiste a la Iglesia con suficiente frecuencia para conocer la doctrina correcta.",
+      "Que debería leer más el Antiguo Testamento antes de tomar decisiones sobre los mandamientos.",
+      "Que el día de reposo es un mandamiento opcional que cada persona puede adaptar a su contexto.",
+    ],
+    correctAnswer: 0,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Tanto en 1 Samuel 8 (Israel pide un rey) como en Deuteronomio 8 (advertencia de olvidarse de Dios en la prosperidad), el peligro espiritual viene disfrazado de algo razonable. ¿Cuál es el principio común que une ambas advertencias?",
+    options: [
+      "Que la comodidad y la aceptación social son las principales fuentes de apostasía, y que resistirlas requiere identificarlas antes de ceder.",
+      "Que el Señor castiga a los que buscan comodidad material en lugar de seguirlo a Él.",
+      "Que los israelitas eran espiritualmente débiles y por eso caían siempre en los mismos errores.",
+      "Que los mandamientos del Señor son incompatibles con vivir en sociedad con otras personas.",
+    ],
+    correctAnswer: 0,
+  },
+];
+
+
 // ================================-============================================
 // LECCIÓN 72: 1 Samuel 15
 // Link: https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/23-1-samuel-8-16/232-1-samuel-15?lang=spa
@@ -9,12 +105,12 @@ export const leccion72Questions: Question[] = [
   {
     id: 1,
     question:
-      "¿Qué instrucción específica dio el Señor a Saúl respecto a los amalecitas, que Saúl no cumplió completamente?",
+      "¿Qué instrucción específica le dio el Señor a Saúl respecto al pueblo de Amalec, y qué hizo Saúl en cambio?",
     options: [
-      "Que los expulsara del territorio sin hacerles daño y les permitiera huir hacia el desierto.",
-      "Que destruyera todo lo que tenían, sin guardar ningún botín ni conservar animales.",
-      "Que capturara al rey Agag y lo enviara como prisionero a Jerusalén.",
-      "Que esperara siete días hasta que Samuel llegara para dar inicio a la batalla.",
+      "El Señor le ordenó perdonar a los amalecitas; Saúl los atacó de todas formas.",
+      "El Señor le ordenó destruir todo completamente; Saúl perdonó al rey Agag y reservó los mejores animales.",
+      "El Señor le pidió tomar prisioneros para negociar la paz; Saúl los mató a todos sin excepción.",
+      "El Señor le ordenó no atacar; Saúl atacó porque el pueblo lo presionó.",
     ],
     correctAnswer: 1,
   },
@@ -22,12 +118,12 @@ export const leccion72Questions: Question[] = [
   {
     id: 2,
     question:
-      "Cuando Samuel confrontó a Saúl, este argumentó que guardó los mejores animales con un propósito específico. ¿Cuál fue su justificación?",
+      "Cuando Samuel confrontó a Saúl por su desobediencia, ¿qué justificación dio Saúl para haber guardado los animales?",
     options: [
-      "Que los soldados tenían hambre y necesitaban el ganado para alimentar al ejército en el camino.",
-      "Que los mejores animales eran un regalo para el rey de Israel como símbolo de la victoria.",
-      "Que el pueblo los había guardado para sacrificarlos a Jehová en Gilgal.",
-      "Que la ley israelita permitía conservar el primer décimo del botín de guerra para uso personal.",
+      "Que los necesitaba para alimentar al ejército durante la campaña de regreso.",
+      "Que el pueblo los había tomado sin su consentimiento y él no pudo impedirlo.",
+      "Que los había reservado para sacrificarlos al Señor en Gilgal.",
+      "Que el rey Agag le había prometido información sobre otros enemigos de Israel.",
     ],
     correctAnswer: 2,
   },
@@ -35,12 +131,12 @@ export const leccion72Questions: Question[] = [
   {
     id: 3,
     question:
-      "Samuel le dijo a Saúl: '¿Se complace Jehová tanto en los holocaustos y víctimas como en la obediencia a Su voz? La obediencia es mejor que los sacrificios.' ¿Qué enseña este versículo sobre la religiosidad externa?",
+      "Samuel declaró: 'El obedecer es mejor que los sacrificios'. ¿Qué principio sobre la naturaleza de la obediencia revela esta afirmación?",
     options: [
-      "Que las ofrendas y rituales del templo son innecesarios si uno tiene buenas intenciones.",
-      "Que realizar actos religiosos visibles sin obediencia genuina no sustituye lo que el Señor realmente pide.",
-      "Que Saúl fue perdonado porque su intención era ofrecer sacrificios al Señor con los animales guardados.",
-      "Que en el Antiguo Testamento los sacrificios eran más importantes que los mandamientos morales.",
+      "Que los rituales religiosos son innecesarios si uno tiene buenas intenciones en el corazón.",
+      "Que hacer algo bueno por nuestra cuenta no reemplaza hacer exactamente lo que el Señor pidió, aunque nuestra alternativa parezca igualmente valiosa.",
+      "Que los sacrificios del Antiguo Testamento eran inferiores a los mandamientos escritos.",
+      "Que el Señor solo valora los actos de obediencia que requieren un esfuerzo visible.",
     ],
     correctAnswer: 1,
   },
@@ -48,12 +144,12 @@ export const leccion72Questions: Question[] = [
   {
     id: 4,
     question:
-      "El presidente Nelson enseñó que el Señor nos da mandamientos debido a Su amor infinito. ¿Qué implicación tiene eso para la forma en que entendemos la obediencia total que se exigía a Saúl?",
+      "Saúl insistió en que había 'cumplido la palabra del Señor' aunque claramente no lo había hecho. ¿Qué revela esa afirmación sobre el peligro de la racionalización espiritual?",
     options: [
-      "Que la obediencia total es una forma de castigo diseñada para probar si somos suficientemente sumisos.",
-      "Que los mandamientos, incluso los difíciles, son expresión del amor de Dios y de Su deseo de que alcancemos nuestro mayor potencial.",
-      "Que el Señor solo da mandamientos difíciles a los líderes, no a los miembros comunes.",
-      "Que si el mandamiento parece injusto o innecesario, hay margen para modificarlo con buenas intenciones.",
+      "Que Saúl tenía problemas de memoria y genuinamente olvidó las instrucciones originales.",
+      "Que es posible convencerse a uno mismo de que está obedeciendo mientras en realidad se está eligiendo selectivamente qué mandamientos seguir.",
+      "Que el orgullo siempre lleva a mentirle directamente al profeta de Dios.",
+      "Que los reyes tienen una tendencia natural a ignorar a los profetas por razones políticas.",
     ],
     correctAnswer: 1,
   },
@@ -61,12 +157,12 @@ export const leccion72Questions: Question[] = [
   {
     id: 5,
     question:
-      "Agustina guarda casi todos los mandamientos, pero evita uno que le parece difícil, diciéndose que 'compensa' con los demás. Según el error de Saúl, ¿qué le diría esta lección?",
+      "Luca dice que no va a Seminario porque 'igual leo las Escrituras por mi cuenta, que es lo mismo'. Aplicando el principio de 1 Samuel 15, ¿qué problema tiene ese razonamiento?",
     options: [
-      "Que es normal tener un mandamiento difícil y que el Señor entiende sus limitaciones actuales.",
-      "Que la obediencia selectiva — guardar los fáciles pero evitar el difícil — es el mismo patrón que alejó a Saúl del Señor.",
-      "Que debería hablar con su obispo y pedirle que le rebaje la exigencia de ese mandamiento específico.",
-      "Que compensar con otros mandamientos es válido siempre que el balance general sea positivo.",
+      "Que leer las Escrituras por cuenta propia no tiene ningún valor espiritual si no va acompañado de asistencia a clases.",
+      "Que está sustituyendo lo que el Señor pidió por algo que a él le parece equivalente, el mismo patrón de Saúl con los sacrificios.",
+      "Que la asistencia a Seminario es un requisito para la salvación, por lo que no puede reemplazarse.",
+      "Que leer solo sin un maestro siempre lleva a malentender las Escrituras.",
     ],
     correctAnswer: 1,
   },
@@ -74,12 +170,12 @@ export const leccion72Questions: Question[] = [
   {
     id: 6,
     question:
-      "Nicolás asiste a Seminario, paga diezmo y va al templo, pero mira contenido que sabe que no debería en sus redes sociales. Según el principio de esta lección, ¿cuál es el problema central?",
+      "Camila guarda el día de reposo pero hace excepciones cuando hay partidos de su equipo favorito. 'Es solo una vez al mes', se dice. ¿En qué se parece este razonamiento al de Saúl en 1 Samuel 15?",
     options: [
-      "Que las actividades religiosas de Nicolás no son suficientes para compensar su comportamiento en redes.",
-      "Que está usando los actos religiosos visibles como sustitutos de la obediencia interna, igual que Saúl usó los sacrificios.",
-      "Que el problema solo existiría si Nicolás estuviera en una posición de liderazgo como Saúl.",
-      "Que ver contenido inadecuado en redes no tiene la misma gravedad que desobedecer un mandamiento directo del Señor.",
+      "En que ambos están incumpliendo mandamientos por presión de otras personas, no por convicción propia.",
+      "En que ambos obedecen parcialmente y luego justifican la excepción con algo que parece razonable, pero que reemplaza la obediencia completa.",
+      "En que ambos tienen líderes religiosos que no comprenden sus circunstancias particulares.",
+      "En que los dos casos involucran bienes materiales que se priorizan sobre lo espiritual.",
     ],
     correctAnswer: 1,
   },
@@ -87,12 +183,201 @@ export const leccion72Questions: Question[] = [
   {
     id: 7,
     question:
-      "Saúl obedeció en parte (destruyó lo de poco valor) pero guardó lo mejor para un sacrificio. ¿En qué se diferencia eso de la obediencia que el Señor pide, y qué nos enseña esa diferencia sobre el corazón?",
+      "Saúl perdió el reino por obediencia incompleta, no por rebelión abierta. Comparándolo con el ciclo de Jueces (lección 65), donde Israel apostató gradualmente, ¿cuál es el principio común sobre cómo ocurre la distancia espiritual?",
     options: [
-      "Que Saúl fue perfecto en los detalles grandes y solo falló en los pequeños, lo que revela que la obediencia perfecta es imposible.",
-      "Que obedecer en lo conveniente mientras se negocia con lo costoso revela que el centro de obediencia es uno mismo, no el Señor.",
-      "Que el error de Saúl fue confiar demasiado en Samuel en lugar de tomar decisiones por sí mismo.",
-      "Que los sacrificios eran tan importantes como la obediencia en el sistema del Antiguo Testamento, y Saúl simplemente eligió uno sobre el otro.",
+      "Que la distancia espiritual siempre comienza con una decisión dramática y consciente de abandonar a Dios.",
+      "Que tanto la apostasía colectiva como la personal tienden a ocurrir de a poco, mediante concesiones pequeñas que se acumulan hasta cambiar el rumbo completamente.",
+      "Que el Señor retira Sus bendiciones inmediatamente después del primer error, sin posibilidad de corrección.",
+      "Que la obediencia parcial es siempre mejor que la desobediencia completa, por lo que el Señor la acepta.",
+    ],
+    correctAnswer: 1,
+  },
+];
+
+
+export const leccion73Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "Cuando Samuel llegó a la casa de Isaí para ungir al nuevo rey, ¿qué hizo que Samuel pensara inicialmente que Eliab era el elegido?",
+    options: [
+      "Que Eliab era el más devoto y conocía mejor las Escrituras entre los hermanos.",
+      "Que su apariencia y estatura eran imponentes, lo que llevó a Samuel a creer que era el indicado.",
+      "Que Isaí se lo presentó primero diciendo que era el más fiel de sus hijos.",
+      "Que Eliab ya había sido ungido anteriormente por otro profeta como líder militar.",
+    ],
+    correctAnswer: 1,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "¿Dónde estaba David cuando Samuel llegó a ungir al próximo rey, y por qué es significativo ese detalle?",
+    options: [
+      "Estaba en el tabernáculo orando, lo cual indicaba su preparación espiritual para el cargo.",
+      "Estaba en el campo cuidando ovejas, sin que nadie lo hubiera mandado llamar, porque nadie lo consideró candidato.",
+      "Estaba entrenando con el ejército de Israel, adquiriendo la experiencia que lo haría rey.",
+      "Estaba en la ciudad vendiendo los productos de la familia, cumpliendo sus responsabilidades económicas.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "El Señor le dijo a Samuel: 'el hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón'. ¿Qué implicación concreta tiene esa diferencia de perspectiva para alguien que siente que 'no da el perfil'?",
+    options: [
+      "Que la apariencia exterior es irrelevante y el Señor ignorará completamente cómo se presenta una persona.",
+      "Que la evaluación del Señor no depende de logros visibles ni de apariencia, sino del estado interior, lo que significa que nadie está descalificado por no tener 'la imagen correcta'.",
+      "Que el Señor solo evalúa el corazón de las personas en los momentos de crisis, no en la vida cotidiana.",
+      "Que esforzarse por mejorar la apariencia externa es contrario al Evangelio porque distrae del corazón.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "David fue ungido mientras estaba solo en el campo, en el lugar más inesperado. ¿Qué enseña ese detalle sobre cuándo y dónde el Señor forma el carácter de Sus hijos?",
+    options: [
+      "Que el Señor prefiere llamar a líderes que no tienen experiencia pública para que sean más fáciles de moldear.",
+      "Que el carácter se forja en los momentos ordinarios y anónimos, no solo en los escenarios visibles, y el Señor ve lo que hacemos cuando nadie nos mira.",
+      "Que cuidar animales era la forma más elevada de servicio en el Israel antiguo y por eso David fue elegido.",
+      "Que el Señor elige deliberadamente a personas de entornos rurales porque son más humildes que las de la ciudad.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Mateo siente que en su grupo de amigos siempre es 'el que menos importa': no es el más gracioso, el más atlético ni el más popular. Según el principio de 1 Samuel 16:7, ¿qué verdad podría cambiar la forma en que se ve a sí mismo?",
+    options: [
+      "Que debería trabajar en mejorar su imagen social para que los demás lo valoren más.",
+      "Que la evaluación de Dios no se basa en ninguno de esos criterios, y que Él ve en Mateo un potencial que sus amigos —y quizás él mismo— no están mirando.",
+      "Que si ora con suficiente fe, el Señor cambiará las percepciones de sus amigos sobre él.",
+      "Que la popularidad y los talentos sociales son dones del Espíritu que puede pedir en oración.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Juliana cuida muy bien su imagen en redes sociales pero se descuida en su actitud en casa: es impaciente con sus hermanos y poco honesta con sus padres. Según el principio de esta lección, ¿cuál es el problema central?",
+    options: [
+      "Que está usando las redes sociales en exceso y eso distrae su tiempo de los hábitos espirituales.",
+      "Que está construyendo una imagen externa que no coincide con el corazón que el Señor realmente ve, invirtiendo el esfuerzo en lo que los demás ven en lugar de en lo que Dios mira.",
+      "Que sus padres deberían limitar su uso de redes para que desarrolle mejores hábitos en casa.",
+      "Que la honestidad con los padres es más importante que la paciencia con los hermanos según las enseñanzas del Evangelio.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Tanto en 1 Samuel 16 (el Señor elige al que nadie consideró) como en 1 Samuel 8 (Israel elige un rey por apariencia y status), la misma tendencia humana aparece desde dos ángulos opuestos. ¿Cuál es el principio que conecta ambas lecciones?",
+    options: [
+      "Que los líderes elegidos por los hombres siempre fracasan, mientras que los elegidos por Dios siempre tienen éxito.",
+      "Que los criterios del mundo para evaluar a las personas —apariencia, popularidad, poder— son opuestos a los criterios del Señor, y seguirlos lleva a malas decisiones tanto individuales como colectivas.",
+      "Que el albedrío humano es siempre equivocado y por eso el Señor debe intervenir para corregirlo.",
+      "Que Israel necesitaba fracasar con Saúl para poder apreciar el liderazgo de David.",
+    ],
+    correctAnswer: 1,
+  },
+];
+
+export const leccion178Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "La lección presenta el ejemplo de José en Egipto para enseñar sobre la autosuficiencia. ¿Qué combinación específica hizo posible que Egipto sobreviviera los siete años de escasez?",
+    options: [
+      "La riqueza acumulada del Faraón y los impuestos cobrados a los pueblos vecinos.",
+      "La interpretación dada por Dios a José y la organización diligente del almacenamiento durante los años de abundancia.",
+      "El heroísmo personal de José al administrar los recursos sin ayuda de nadie más.",
+      "Un milagro directo del Señor que multiplicó los alimentos cuando llegó la escasez.",
+    ],
+    correctAnswer: 1,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "La lección presenta dos errores opuestos sobre la autosuficiencia. ¿Cuáles son?",
+    options: [
+      "Creer que la autosuficiencia es solo para adultos, y creer que los jóvenes ya son suficientemente independientes.",
+      "Creer que Dios lo resolverá todo sin esfuerzo propio, y creer que lo temporal no le importa a Dios.",
+      "Creer que el diezmo garantiza prosperidad automática, y creer que ahorrar es falta de fe.",
+      "Creer que la educación es suficiente sin fe, y creer que la fe es suficiente sin educación formal.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "El obispo Waddell describió la autosuficiencia como usar la gracia de Jesucristo junto con el propio esfuerzo. ¿Qué implica esa definición sobre la relación entre fe y trabajo?",
+    options: [
+      "Que la fe es el elemento espiritual y el trabajo es el elemento temporal, y los dos nunca se mezclan.",
+      "Que la fe sin obras no produce autosuficiencia real; ambas dimensiones deben operar juntas para que el Señor pueda bendecir los esfuerzos.",
+      "Que el esfuerzo humano es más importante que la fe, porque Dios bendice a los que ya se ayudaron a sí mismos.",
+      "Que confiar en el Señor reemplaza la necesidad de desarrollar habilidades laborales o académicas.",
+    ],
+    correctAnswer: 1,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "La lección cubre cinco áreas de autosuficiencia: espiritual, financiera, educativa, física y emocional. ¿Qué enseña el hecho de que el Señor se interese en las cinco, incluyendo las más prácticas?",
+    options: [
+      "Que la Iglesia quiere que sus miembros sean económicamente productivos para poder pagar más diezmo.",
+      "Que no hay separación entre lo espiritual y lo temporal en el Evangelio; el Señor se ocupa de la persona completa.",
+      "Que las necesidades materiales son más urgentes que las espirituales y deben resolverse primero.",
+      "Que el bienestar emocional y físico son responsabilidad exclusiva de los profesionales de la salud.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Valentina quiere estudiar una carrera universitaria pero cree que Dios no se involucra en esas decisiones 'mundanas'. Según el principio de esta lección, ¿qué verdad le falta integrar?",
+    options: [
+      "Que la decisión de qué carrera estudiar no tiene consecuencias espirituales y puede tomarse sin oración.",
+      "Que el Señor se interesa en todas las áreas de la vida, incluyendo la formación académica, y puede guiarla si lo incluye en el proceso.",
+      "Que primero debería completar su preparación misional antes de pensar en una carrera.",
+      "Que la autosuficiencia académica solo importa si después se usa directamente para el trabajo de la Iglesia.",
+    ],
+    correctAnswer: 1,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Pablo ora todos los días para que Dios le consiga un trabajo, pero no actualiza su currículum, no pregunta en ningún lugar y no desarrolla nuevas habilidades. ¿Qué problema identifica la lección en este enfoque?",
+    options: [
+      "Que está orando de manera incorrecta y debería pedir consejo a su obispo antes de orar por trabajo.",
+      "Que está cometiendo el primer error de la lección: esperar que Dios provea sin hacer su parte, separando la fe del esfuerzo que el Señor espera de él.",
+      "Que la oración no es un recurso válido para asuntos relacionados con el empleo.",
+      "Que debería trabajar en cualquier cosa disponible antes de pedir orientación espiritual.",
+    ],
+    correctAnswer: 1,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Tanto José en Egipto (lección 178) como Gedeón con sus 300 hombres (lección 66) lograron resultados imposibles para sus propias fuerzas. ¿Cuál es el principio común que une ambas historias sobre la forma en que el Señor potencia el esfuerzo humano?",
+    options: [
+      "Que el Señor actúa solo en situaciones de crisis extrema, no en los desafíos cotidianos de la vida.",
+      "Que cuando una persona ejerce fe activa y hace su parte, el Señor añade Su poder para producir resultados que ninguno de los dos podría lograr por separado.",
+      "Que la clave en ambos casos fue la obediencia perfecta, sin ningún error durante el proceso.",
+      "Que Dios elige a personas extraordinarias para tareas imposibles, lo que confirma que no todos pueden esperar ese tipo de ayuda.",
     ],
     correctAnswer: 1,
   },

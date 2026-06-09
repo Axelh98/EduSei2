@@ -40,7 +40,9 @@ import {
   leccion68Questions,
   leccion69Questions,
   leccion70Questions,
+  leccion71Questions,
   leccion72Questions,
+  leccion73Questions,
   leccion74Questions,
   leccion75Questions,
   leccion77Questions,
@@ -63,6 +65,7 @@ import {
   leccion172Questions,
   leccion174Questions,
   leccion177Questions,
+  leccion178Questions,
   leccion179Questions,
   leccion180Questions,
   leccion188Questions,
@@ -804,6 +807,16 @@ export const antiguoTestamentoWeeks: Week[] = [
     dateRange: "8 al 14 de junio",
     lessons: [
       {
+        id: "leccion-71",
+        title: "Lección 71: 1 Samuel 8",
+        description: "Israel desea tener un rey",
+        type: "Antiguo Testamento - Ven Sigueme",
+        chapterUrl:
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/23-1-samuel-8-16/231-1-samuel-8?lang=spa",
+        questions: leccion71Questions,
+        secciones: [],
+      },
+      {
         id: "leccion-72",
         title: "Lección 72: 1 Samuel 15",
         description: "La obediencia total conduce al gozo.",
@@ -814,6 +827,17 @@ export const antiguoTestamentoWeeks: Week[] = [
         secciones: [],
       },
       {
+        id: "leccion-178",
+        title: "Lección 178: ejercer la fe en Jesucristo para desarrollar autosuficiencia",
+        description: "El Señor se ocupa de los detalles de tu vida.",
+        type: "Preparación para la Vida",
+        chapterUrl:
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/64-building-self-reliance/642-exercising-faith?lang=spa",
+        questions: leccion178Questions,
+        secciones: [],
+      },
+
+      {
         id: "leccion-179",
         title: "Lección 179: Administración prudente de recursos económicos",
         description: "El Señor se ocupa de los detalles de tu vida.",
@@ -821,6 +845,16 @@ export const antiguoTestamentoWeeks: Week[] = [
         chapterUrl:
           "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/64-building-self-reliance/643-managing-financial-resources-wisely?lang=spa",
         questions: leccion179Questions,
+        secciones: [],
+      },
+            {
+        id: "leccion-73",
+        title: "Lección 73: 1 Samuel 16",
+        description: "La obediencia total conduce al gozo.",
+        type: "Antiguo Testamento - Ven Sigueme",
+        chapterUrl:
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/23-1-samuel-8-16/233-1-samuel-16?lang=spa",
+        questions: leccion73Questions,
         secciones: [],
       },
     ],
