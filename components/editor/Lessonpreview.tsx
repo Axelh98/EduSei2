@@ -1,7 +1,9 @@
 "use client"
 // components/editor/LessonPreview.tsx
 // Muestra el contenido original de la lección seleccionada.
-// El maestro puede cargar todo, cargar sección por sección, o ignorar.
+// El estado "cargada" se trackea por índice de origen (lo maneja
+// EditorForm), no por comparación de JSON: así una sección editada
+// sigue figurando como traída al editor y no se duplica por error.
 
 import { useState } from "react"
 import { Download, BookOpen, MessageSquare, FileText, HelpCircle, Sparkles, ChevronDown, ChevronUp, Check } from "lucide-react"
@@ -14,14 +16,14 @@ interface OriginalLesson {
 }
 
 interface Props {
-  lesson:          OriginalLesson
-  onLoadAll:       () => void
-  onLoadSecciones: () => void
-  onLoadQuestions: () => void
-  onLoadSeccion:   (seccion: Seccion) => void
-  onLoadQuestion:  (question: Question) => void
-  currentSecciones: Seccion[]
-  currentQuestions: Question[]
+  lesson:            OriginalLesson
+  loadedSeccionIdx:  Set<number>   // índices del original ya traídos al editor
+  loadedQuestionIdx: Set<number>
+  onLoadAll:         () => void
+  onLoadSecciones:   () => void
+  onLoadQuestions:   () => void
+  onLoadSeccion:     (index: number) => void
+  onLoadQuestion:    (index: number) => void
 }
 
 const TIPO_ICON: Record<Seccion["tipo"], React.ElementType> = {
@@ -47,11 +49,12 @@ function seccionPreview(sec: Seccion): string {
   switch (sec.tipo) {
     case "contexto":
     case "conclusion":
-      return sec.contenido?.slice(0, 120).trim() + (sec.contenido && sec.contenido.length > 120 ? "…" : "") || ""
+      if (!sec.contenido) return ""
+      return sec.contenido.slice(0, 120).trim() + (sec.contenido.length > 120 ? "…" : "")
     case "enseñanza":
-      return `"${sec.texto?.slice(0, 100).trim()}…" — ${sec.autor || ""}`
+      return sec.texto ? `"${sec.texto.slice(0, 100).trim()}…" — ${sec.autor || ""}` : ""
     case "escrituras":
-      return sec.citas?.map(c => c.referencia).join(", ") || ""
+      return sec.citas?.map(c => c.referencia).filter(Boolean).join(", ") || ""
     case "cuestionario":
       return `${sec.preguntas?.length ?? 0} pregunta${(sec.preguntas?.length ?? 0) !== 1 ? "s" : ""}`
     default:
@@ -61,39 +64,25 @@ function seccionPreview(sec: Seccion): string {
 
 export function LessonPreview({
   lesson,
+  loadedSeccionIdx,
+  loadedQuestionIdx,
   onLoadAll,
   onLoadSecciones,
   onLoadQuestions,
   onLoadSeccion,
   onLoadQuestion,
-  currentSecciones,
-  currentQuestions,
 }: Props) {
-  const [expandSecciones, setExpandSecciones] = useState(true)
+  const [expandSecciones, setExpandSecciones] = useState(false)
   const [expandQuestions, setExpandQuestions] = useState(false)
 
   const hasSecciones = lesson.secciones.length > 0
   const hasQuestions = lesson.questions.length > 0
 
-  function isSeccionLoaded(sec: Seccion): boolean {
-    return currentSecciones.some(s => JSON.stringify(s) === JSON.stringify(sec))
-  }
-
-  function isQuestionLoaded(q: Question): boolean {
-    return currentQuestions.some(cq => cq.question === q.question)
-  }
-
-  const loadedSeccionesCount = lesson.secciones.filter(isSeccionLoaded).length
-  const loadedQuestionsCount = lesson.questions.filter(isQuestionLoaded).length
+  const loadedSeccionesCount = loadedSeccionIdx.size
+  const loadedQuestionsCount = loadedQuestionIdx.size
   const allLoaded =
-    loadedSeccionesCount === lesson.secciones.length &&
-    loadedQuestionsCount === lesson.questions.length
-
-  function handleLoadSeccion(i: number) { onLoadSeccion(lesson.secciones[i]) }
-  function handleLoadQuestion(i: number) { onLoadQuestion(lesson.questions[i]) }
-  function handleLoadAll() { onLoadAll() }
-  function handleLoadSecciones() { onLoadSecciones() }
-  function handleLoadQuestions() { onLoadQuestions() }
+    loadedSeccionesCount >= lesson.secciones.length &&
+    loadedQuestionsCount >= lesson.questions.length
 
   return (
     <div className="border border-primary/20 bg-primary/[0.02] rounded-2xl overflow-hidden animate-in fade-in slide-in-from-top-2 duration-200">
@@ -120,7 +109,7 @@ export function LessonPreview({
         {/* Cargar todo */}
         <button
           type="button"
-          onClick={handleLoadAll}
+          onClick={onLoadAll}
           disabled={allLoaded}
           className={`flex-shrink-0 flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold rounded-lg transition-all ${
             allLoaded
@@ -169,11 +158,10 @@ export function LessonPreview({
 
             {expandSecciones && (
               <div className="px-5 pb-4 flex flex-col gap-2">
-                {/* Cargar todas las secciones */}
                 <button
                   type="button"
-                  onClick={handleLoadSecciones}
-                  disabled={loadedSeccionesCount === lesson.secciones.length}
+                  onClick={onLoadSecciones}
+                  disabled={loadedSeccionesCount >= lesson.secciones.length}
                   className="self-start flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold border border-border rounded-lg text-muted-foreground hover:border-primary/40 hover:text-foreground disabled:opacity-40 disabled:cursor-default transition-colors mb-1"
                 >
                   <Download className="h-3 w-3" />
@@ -182,7 +170,7 @@ export function LessonPreview({
 
                 {lesson.secciones.map((sec, i) => {
                   const Icon = TIPO_ICON[sec.tipo] ?? BookOpen
-                  const isLoaded = isSeccionLoaded(sec)
+                  const isLoaded = loadedSeccionIdx.has(i)
                   const preview = seccionPreview(sec)
 
                   return (
@@ -220,7 +208,7 @@ export function LessonPreview({
 
                       <button
                         type="button"
-                        onClick={() => handleLoadSeccion(i)}
+                        onClick={() => onLoadSeccion(i)}
                         disabled={isLoaded}
                         className={`flex-shrink-0 flex items-center gap-1 px-2.5 py-1.5 text-[11px] font-semibold rounded-lg transition-all ${
                           isLoaded
@@ -272,8 +260,8 @@ export function LessonPreview({
               <div className="px-5 pb-4 flex flex-col gap-2">
                 <button
                   type="button"
-                  onClick={handleLoadQuestions}
-                  disabled={loadedQuestionsCount === lesson.questions.length}
+                  onClick={onLoadQuestions}
+                  disabled={loadedQuestionsCount >= lesson.questions.length}
                   className="self-start flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold border border-border rounded-lg text-muted-foreground hover:border-secondary/40 hover:text-foreground disabled:opacity-40 disabled:cursor-default transition-colors mb-1"
                 >
                   <Download className="h-3 w-3" />
@@ -281,7 +269,7 @@ export function LessonPreview({
                 </button>
 
                 {lesson.questions.map((q, i) => {
-                  const isLoaded = loadedQuestionsCount > i && isQuestionLoaded(q)
+                  const isLoaded = loadedQuestionIdx.has(i)
                   const typeLabel = q.type === "truefalse" ? "V/F" : "Múltiple"
 
                   return (
@@ -319,7 +307,7 @@ export function LessonPreview({
 
                       <button
                         type="button"
-                        onClick={() => handleLoadQuestion(i)}
+                        onClick={() => onLoadQuestion(i)}
                         disabled={isLoaded}
                         className={`flex-shrink-0 flex items-center gap-1 px-2.5 py-1.5 text-[11px] font-semibold rounded-lg transition-all ${
                           isLoaded

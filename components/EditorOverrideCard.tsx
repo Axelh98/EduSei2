@@ -4,8 +4,8 @@
 import Link from "next/link"
 import { useState, useTransition } from "react"
 import { useRouter } from "next/navigation"
-import { X, BookOpen, MessageSquare, FileText, HelpCircle, Sparkles, Eye, Copy } from "lucide-react"
-import { deleteOverride, duplicateOverride } from "@/actions/overrides"
+import { X, BookOpen, MessageSquare, FileText, HelpCircle, Sparkles, Eye, Copy, Globe, Lock } from "lucide-react"
+import { deleteOverride, duplicateOverride, toggleOverrideVisibility } from "@/actions/overrides"
 import type { LessonOverride } from "@/actions/overrides"
 import type { Seccion, Question } from "@/lib/types"
 
@@ -136,7 +136,6 @@ function OverrideDetailModal({
           {/* Contenido */}
           <div className="flex-1 overflow-y-auto px-5 py-4 flex flex-col gap-4">
 
-            {/* Secciones */}
             {secciones.length > 0 && (
               <div>
                 <p className="text-[11px] font-bold uppercase tracking-widest text-muted-foreground mb-2">
@@ -150,7 +149,6 @@ function OverrideDetailModal({
               </div>
             )}
 
-            {/* Preguntas */}
             {questions.length > 0 && (
               <div>
                 <p className="text-[11px] font-bold uppercase tracking-widest text-muted-foreground mb-2">
@@ -227,8 +225,9 @@ function OverrideDetailModal({
 
 export function EditorOverrideCard({ override, isOwn }: Props) {
   const router = useRouter()
-  const [isPending,    startTransition]    = useTransition()
+  const [isPending,     startTransition]   = useTransition()
   const [isDuplicating, startDuplicating]  = useTransition()
+  const [isToggling,    startToggling]     = useTransition()
   const [confirmDelete, setConfirmDelete]  = useState(false)
   const [showDetail,    setShowDetail]     = useState(false)
 
@@ -256,17 +255,43 @@ export function EditorOverrideCard({ override, isOwn }: Props) {
     })
   }
 
+  function handleToggleVisibility() {
+    startToggling(async () => {
+      await toggleOverrideVisibility(override.id)
+      router.refresh()
+    })
+  }
+
   return (
     <>
       <div className={`flex flex-col bg-card border border-border rounded-xl overflow-hidden hover:shadow-md transition-all duration-200 ${
         override.is_public ? "border-t-[3px] border-t-secondary" : "border-t-[3px] border-t-border"
       }`}>
 
-        {/* Badge */}
+        {/* Badge de visibilidad — para versiones propias es un toggle */}
         <div className="px-4 pt-4 pb-0">
-          <span className="text-[11px] font-semibold text-muted-foreground">
-            {override.is_public ? "🌐 Pública" : "🔒 Privada"}
-          </span>
+          {isOwn ? (
+            <button
+              type="button"
+              onClick={handleToggleVisibility}
+              disabled={isToggling}
+              title={override.is_public ? "Pasar a privada" : "Pasar a pública"}
+              className={`inline-flex items-center gap-1.5 text-[11px] font-semibold rounded-full px-2.5 py-1 border transition-colors disabled:opacity-50 ${
+                override.is_public
+                  ? "border-secondary/30 bg-secondary/10 text-secondary hover:bg-secondary/20"
+                  : "border-border bg-muted/40 text-muted-foreground hover:bg-muted"
+              }`}
+            >
+              {override.is_public
+                ? <><Globe className="h-3 w-3" /> Pública</>
+                : <><Lock className="h-3 w-3" /> Privada</>}
+              <span className="text-[10px] opacity-60">{isToggling ? "…" : "· cambiar"}</span>
+            </button>
+          ) : (
+            <span className="inline-flex items-center gap-1.5 text-[11px] font-semibold text-muted-foreground">
+              <Globe className="h-3 w-3" /> Pública
+            </span>
+          )}
         </div>
 
         {/* Info */}
@@ -298,6 +323,16 @@ export function EditorOverrideCard({ override, isOwn }: Props) {
                 className="px-3 py-1.5 text-sm font-semibold bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors">
                 Editar
               </Link>
+              <button
+                type="button"
+                onClick={handleDuplicate}
+                disabled={isDuplicating}
+                title="Crear una variante de esta versión"
+                className="flex items-center gap-1.5 px-3 py-1.5 text-sm font-semibold border border-border rounded-lg text-muted-foreground hover:border-primary/40 hover:text-foreground disabled:opacity-60 transition-colors"
+              >
+                <Copy className="h-3.5 w-3.5" />
+                {isDuplicating ? "…" : "Duplicar"}
+              </button>
               <button onClick={handleDelete} disabled={isPending}
                 className={`px-3 py-1.5 text-sm font-semibold rounded-lg border transition-colors ${
                   confirmDelete

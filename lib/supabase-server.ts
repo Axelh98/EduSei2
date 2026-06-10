@@ -53,3 +53,9 @@ export async function getProfile() {
 
   return profile
 }
+
+// ── Helper: cerrar sesión desde el servidor ─────────────────
+export async function signOut() {
+  const supabase = await createServerSupabaseClient()
+  await supabase.auth.signOut()
+}

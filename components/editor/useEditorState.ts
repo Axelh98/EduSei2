@@ -1,7 +1,7 @@
 "use client"
 // components/editor/useEditorState.ts
 
-import { useState, useCallback } from "react"
+import { useState, useCallback, useRef } from "react"
 import type { Seccion, Question } from "@/lib/types"
 
 export interface EditorState {
@@ -22,8 +22,26 @@ const EMPTY_STATE: EditorState = {
   isPublic:   false,
 }
 
+// id único para preguntas nuevas: max(id existente) + 1.
+// Evita colisiones cuando se borra y se vuelve a agregar.
+function nextQuestionId(questions: Question[]): number {
+  return questions.reduce((max, q) => Math.max(max, q.id ?? 0), 0) + 1
+}
+
 export function useEditorState(initial?: Partial<EditorState>) {
   const [state, setState] = useState<EditorState>({ ...EMPTY_STATE, ...initial })
+
+  // Snapshot del estado inicial para detectar cambios sin guardar
+  const initialJson = useRef(JSON.stringify({ ...EMPTY_STATE, ...initial }))
+  const isDirty = JSON.stringify(state) !== initialJson.current
+
+  // Después de guardar (o restaurar borrador) re-anclamos el snapshot
+  const markClean = useCallback(() => {
+    setState(s => {
+      initialJson.current = JSON.stringify(s)
+      return s
+    })
+  }, [])
 
   // ── Campo simple ─────────────────────────────────────────
   const setField = useCallback(<K extends keyof EditorState>(
@@ -32,16 +50,29 @@ export function useEditorState(initial?: Partial<EditorState>) {
     setState(s => ({ ...s, [key]: value }))
   }, [])
 
+  // ── Reemplazar todo el estado (restaurar borrador) ────────
+  const replaceState = useCallback((next: EditorState) => {
+    setState(next)
+  }, [])
+
   // ── Cargar contenido original de una lección ──────────────
-  // Se llama cuando el maestro selecciona una lección y quiere
-  // partir del contenido existente como base de edición.
   const loadFromLesson = useCallback((secciones: Seccion[], questions: Question[]) => {
-    setState(s => ({ ...s, secciones, questions }))
+    setState(s => ({
+      ...s,
+      secciones,
+      // re-numerar ids para garantizar unicidad
+      questions: questions.map((q, i) => ({ ...q, id: i + 1 })),
+    }))
   }, [])
 
   // ── Secciones ────────────────────────────────────────────
   const addSeccion = useCallback((tipo: Seccion["tipo"]) => {
     setState(s => ({ ...s, secciones: [...s.secciones, buildEmptySeccion(tipo)] }))
+  }, [])
+
+  // Agregar una sección ya armada (desde el contenido original)
+  const addSeccionExistente = useCallback((seccion: Seccion) => {
+    setState(s => ({ ...s, secciones: [...s.secciones, seccion] }))
   }, [])
 
   const updateSeccion = useCallback((idx: number, seccion: Seccion) => {
@@ -58,6 +89,7 @@ export function useEditorState(initial?: Partial<EditorState>) {
 
   const moveSeccion = useCallback((from: number, to: number) => {
     setState(s => {
+      if (to < 0 || to >= s.secciones.length) return s
       const secciones = [...s.secciones]
       const [moved] = secciones.splice(from, 1)
       secciones.splice(to, 0, moved)
@@ -72,7 +104,7 @@ export function useEditorState(initial?: Partial<EditorState>) {
       questions: [
         ...s.questions,
         {
-          id:            s.questions.length + 1,
+          id:            nextQuestionId(s.questions),
           question:      "",
           type:          "multiple" as const,
           options:       ["", "", "", ""],
@@ -80,6 +112,14 @@ export function useEditorState(initial?: Partial<EditorState>) {
           explanation:   "",
         },
       ],
+    }))
+  }, [])
+
+  // Agregar una pregunta ya armada (desde el contenido original)
+  const addQuestionExistente = useCallback((question: Question) => {
+    setState(s => ({
+      ...s,
+      questions: [...s.questions, { ...question, id: nextQuestionId(s.questions) }],
     }))
   }, [])
 
@@ -97,13 +137,18 @@ export function useEditorState(initial?: Partial<EditorState>) {
 
   return {
     state,
+    isDirty,
+    markClean,
     setField,
+    replaceState,
     loadFromLesson,
     addSeccion,
+    addSeccionExistente,
     updateSeccion,
     removeSeccion,
     moveSeccion,
     addQuestion,
+    addQuestionExistente,
     updateQuestion,
     removeQuestion,
   }
