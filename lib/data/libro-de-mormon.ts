@@ -170,7 +170,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "La obediencia de Nefi al ir por las planchas.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/03-1-nephi-1-5/033-teacher?lang=spa",
-        questions: q.nefi1_3Additional,
+        questions: q.nefi1_3Questions,
         secciones: []
       },
       {
@@ -179,7 +179,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Dominio de la Doctrina",
         description: "Dominar el compromiso de ir y hacer lo que el Señor manda.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/03-1-nephi-1-5/034-teacher?lang=spa",
-        questions: q.dd1Nefi3_7Additional,
+        questions: q.dd1Nefi3_7Questions,
         secciones: []
       },
       {
@@ -188,7 +188,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Preparación para la Vida",
         description: "Aplicación de principios en situaciones reales.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/04-1-nephi-6-10/042-teacher?lang=spa",
-        questions: q.adquirirConocimiento3Additional,
+        questions: q.adquirirConocimiento3Questions,
         secciones: []
       },
       {
@@ -197,7 +197,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Dominio de la Doctrina",
         description: "Repaso de las primeras verdades fundamentales de dominio.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/05-1-nephi-11-15/055-teacher?lang=spa",
-        questions: q.repasoDominio1Additional,
+        questions: q.repasoDominio1Questions,
         secciones: []
       }
     ]
@@ -218,7 +218,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "Magnificar los llamamientos en el Señor.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/14-jacob-1-4/142-teacher?lang=spa",
-        questions: q.jacob1Additional,
+        questions: q.jacob1Questions,
         secciones: []
       },
       {
@@ -227,7 +227,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "Mirar más allá del objetivo y la fe en Cristo.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/14-jacob-1-4/145-teacher?lang=spa",
-        questions: q.jacob4Additional,
+        questions: q.jacob4Questions,
         secciones: []
       },
       {
@@ -236,7 +236,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "Libertad para escoger la vida o la cautividad.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/07-2-nephi-1-2/075-teacher?lang=spa",
-        questions: q.nefi2_26_30Additional,
+        questions: q.nefi2_26_30Questions,
         secciones: []
       },
       {
@@ -245,7 +245,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Dominio de la Doctrina",
         description: "Dominar la verdad de nuestro albedrío moral.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/08-2-nephi-3-5/081-teacher?lang=spa",
-        questions: q.dd2Nefi2_27Additional,
+        questions: q.dd2Nefi2_27Questions,
         secciones: []
       }
     ]
@@ -261,7 +261,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "La alegoría del olivo cultivado y del silvestre.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/15-jacob-5-7/151-teacher?lang=spa",
-        questions: q.jacob5_1_53Additional,
+        questions: q.jacob5_1_53Questions,
         secciones: []
       },
       {
@@ -270,7 +270,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "La labor en la viña y el amor del Señor.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/15-jacob-5-7/152-teacher?lang=spa",
-        questions: q.jacob5_54_77_6_1_13Additional,
+        questions: q.jacob5_54_77_6_1_13Questions,
         secciones: []
       },
       {
@@ -279,7 +279,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "Superar la oposición a nuestra fe: Jacob y Sherem.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/15-jacob-5-7/153-teacher?lang=spa",
-        questions: q.jacob7Additional,
+        questions: q.jacob7Questions,
         secciones: []
       },
       {
@@ -288,7 +288,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "Invitaciones del Señor a venir a Él.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/11-2-nephi-20-25/114-teacher?lang=spa",
-        questions: q.nefi2_26Additional,
+        questions: q.nefi2_26Questions,
         secciones: []
       },
       {
@@ -297,7 +297,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Dominio de la Doctrina",
         description: "Dominar la verdad de que todos son iguales ante Dios.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/11-2-nephi-20-25/115-teacher?lang=spa",
-        questions: q.dd2Nefi26_33Additional,
+        questions: q.dd2Nefi26_33Questions,
         secciones: []
       }
     ]
@@ -313,7 +313,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "La Caída de Adán y el Plan de Redención.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/07-2-nephi-1-2/073-teacher?lang=spa",
-        questions: q.nefi2_17_26Additional,
+        questions: q.nefi2_17_26Questions,
         secciones: []
       },
       {
@@ -322,7 +322,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Dominio de la Doctrina",
         description: "Dominar el propósito de la Caída y el gozo humano.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/07-2-nephi-1-2/074-teacher?lang=spa",
-        questions: q.dd2Nefi2_25Additional,
+        questions: q.dd2Nefi2_25Questions,
         secciones: []
       },
       {
@@ -331,7 +331,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "El servicio y la enseñanza de los registros sagrados.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/16-enos-words-of-mormon/163-teacher?lang=spa",
-        questions: q.palabrasMormon_Mosiah1Additional,
+        questions: q.palabrasMormon_Mosiah1Questions,
         secciones: []
       },
       {
@@ -340,7 +340,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "Recibir más luz línea por línea.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/12-2-nephi-26-30/123-teacher?lang=spa",
-        questions: q.nefi2_28_27_32Additional,
+        questions: q.nefi2_28_27_32Questions,
         secciones: []
       },
       {
@@ -349,7 +349,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Dominio de la Doctrina",
         description: "Dominar la enseñanza de cómo Dios da revelación.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/12-2-nephi-26-30/124-teacher?lang=spa",
-        questions: q.dd2Nefi28_30Additional,
+        questions: q.dd2Nefi28_30Questions,
         secciones: []
       }
     ]
@@ -365,7 +365,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "El servicio a nuestros semejantes como servicio a Dios.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/17-mosiah-1-3/171-teacher?lang=spa",
-        questions: q.mosiah2_1_18Additional,
+        questions: q.mosiah2_1_18Questions,
         secciones: []
       },
       {
@@ -374,7 +374,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Dominio de la Doctrina",
         description: "Dominar el concepto del servicio desinteresado.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/17-mosiah-1-3/172-teacher?lang=spa",
-        questions: q.ddMosiah2_17Additional,
+        questions: q.ddMosiah2_17Questions,
         secciones: []
       },
       {
@@ -383,7 +383,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "La felicidad de los que guardan los mandamientos.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/17-mosiah-1-3/173-teacher?lang=spa",
-        questions: q.mosiah2_19_41Additional,
+        questions: q.mosiah2_19_41Questions,
         secciones: []
       },
       {
@@ -392,7 +392,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Dominio de la Doctrina",
         description: "Dominar la promesa de felicidad para los fieles.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/17-mosiah-1-3/174-teacher?lang=spa",
-        questions: q.ddMosiah2_41Additional,
+        questions: q.ddMosiah2_41Questions,
         secciones: []
       },
       {
@@ -401,7 +401,7 @@ export const libroDeMormonWeeks: Week[] = [
         type: "Libro de Mormón - Ven Sigueme",
         description: "El ministerio del Salvador y Su Expiación.",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/17-mosiah-1-3/175-teacher?lang=spa",
-        questions: q.mosiah3_1_17Additional,
+        questions: q.mosiah3_1_17Questions,
         secciones: []
       }
     ]

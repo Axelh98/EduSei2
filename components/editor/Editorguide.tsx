@@ -14,8 +14,8 @@ const STEPS = [
     color: "text-primary",
     bg:    "bg-primary/10",
     title: "1. Elegí la lección base",
-    desc:  "En el panel izquierdo, seleccioná el curso y la lección que querés personalizar. El contenido original se carga automáticamente para que puedas editarlo.",
-    tip:   "Podés partir del contenido original o borrarlo todo y empezar desde cero.",
+    desc:  "En el panel izquierdo, seleccioná el curso y buscá la lección que querés personalizar. El contenido original se carga automáticamente, listo para editar.",
+    tip:   "¿Preferís arrancar de cero? Usá \"Vaciar y empezar en blanco\" después de elegir la lección.",
   },
   {
     icon: Edit3,
@@ -23,15 +23,15 @@ const STEPS = [
     bg:    "bg-secondary/10",
     title: "2. Editá el contenido",
     desc:  "Modificá las secciones existentes (contexto, citas, escrituras, cuestionario) o agregá nuevas. También podés editar, agregar o quitar preguntas del quiz.",
-    tip:   "Usá ↑ ↓ para reordenar secciones. El ✕ elimina una sección o pregunta.",
+    tip:   "Arrastrá las secciones desde el grip ⋮⋮ para reordenarlas, o usá ↑ ↓. Tu trabajo se guarda como borrador automáticamente en este dispositivo.",
   },
   {
     icon: Eye,
     color: "text-primary",
     bg:    "bg-primary/10",
-    title: "3. Elegí la visibilidad",
-    desc:  "Privada: solo vos podés verla y usarla. Pública: otros maestros la ven en su lista y pueden usarla cuando asignan lecciones a sus alumnos.",
-    tip:   "Podés cambiar la visibilidad después de guardar.",
+    title: "3. Revisá y elegí la visibilidad",
+    desc:  "Con \"Ver como alumno\" podés ver la lección exactamente como la va a ver el estudiante antes de guardar. Después elegí: Privada (solo vos) o Pública (otros maestros pueden usarla).",
+    tip:   "Podés cambiar la visibilidad en cualquier momento, incluso desde la tarjeta en la pantalla principal.",
   },
   {
     icon: Share2,
@@ -95,12 +95,10 @@ export function EditorGuide({ onDismiss }: Props) {
 
         {/* Tarjeta del paso */}
         <div className="bg-card border border-border rounded-2xl p-8 mb-6 animate-in fade-in slide-in-from-bottom-2 duration-200">
-          {/* Ícono */}
           <div className={`inline-flex items-center justify-center w-12 h-12 rounded-xl ${current.bg} mb-5`}>
             <Icon className={`h-6 w-6 ${current.color}`} />
           </div>
 
-          {/* Contenido */}
           <h3 className="font-serif text-xl font-bold text-foreground mb-3 leading-snug">
             {current.title}
           </h3>
@@ -108,7 +106,6 @@ export function EditorGuide({ onDismiss }: Props) {
             {current.desc}
           </p>
 
-          {/* Tip */}
           <div className="flex items-start gap-2.5 bg-muted/50 rounded-lg px-3 py-2.5">
             <Lightbulb className="h-3.5 w-3.5 text-secondary flex-shrink-0 mt-0.5" />
             <p className="text-xs text-muted-foreground leading-relaxed">

@@ -19,6 +19,12 @@ export function QuestionEditor({ question, index, onChange, onRemove }: Props) {
   const optionCount = type === "truefalse" ? 2 : 4
   const options = question.options ?? Array(optionCount).fill("")
 
+  const missingEnunciado = !question.question?.trim()
+  const correctIsEmpty =
+    type === "multiple" &&
+    options[question.correctAnswer ?? 0] !== undefined &&
+    !String(options[question.correctAnswer ?? 0]).trim()
+
   function setOption(i: number, val: string) {
     const next = [...options]; next[i] = val
     onChange({ ...question, options: next })
@@ -54,7 +60,7 @@ export function QuestionEditor({ question, index, onChange, onRemove }: Props) {
             ))}
           </div>
         </div>
-        <button type="button" onClick={onRemove}
+        <button type="button" onClick={onRemove} title="Eliminar pregunta"
           className="inline-flex items-center justify-center w-7 h-7 rounded-md border border-border text-destructive hover:bg-destructive/10 hover:border-destructive/30 text-sm transition-colors">
           ✕
         </button>
@@ -71,7 +77,16 @@ export function QuestionEditor({ question, index, onChange, onRemove }: Props) {
           <textarea value={question.question} rows={2}
             placeholder="Escribí la pregunta..."
             onChange={e => onChange({ ...question, question: e.target.value })}
-            className="w-full px-3 py-2.5 text-sm leading-relaxed border border-input rounded-lg bg-background text-foreground placeholder:text-muted-foreground/50 outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 resize-y transition-all" />
+            className={`w-full px-3 py-2.5 text-sm leading-relaxed border rounded-lg bg-background text-foreground placeholder:text-muted-foreground/50 outline-none focus:ring-2 resize-y transition-all ${
+              missingEnunciado
+                ? "border-secondary/40 focus:border-secondary focus:ring-secondary/20"
+                : "border-input focus:border-primary focus:ring-primary/20"
+            }`} />
+          {missingEnunciado && (
+            <p className="mt-1 text-[11px] text-secondary">
+              Esta pregunta todavía no tiene enunciado.
+            </p>
+          )}
         </div>
 
         {/* Opciones */}
@@ -111,6 +126,11 @@ export function QuestionEditor({ question, index, onChange, onRemove }: Props) {
               )
             })}
           </div>
+          {correctIsEmpty && (
+            <p className="mt-1.5 text-[11px] text-secondary">
+              La respuesta correcta apunta a una opción que todavía está vacía.
+            </p>
+          )}
         </div>
 
         {/* Referencia y explicación */}

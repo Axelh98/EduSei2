@@ -1,6 +1,7 @@
 "use client"
 // components/editor/SeccionEditor.tsx
 
+import { GripVertical } from "lucide-react"
 import type { Seccion } from "@/lib/types"
 
 interface Props {
@@ -11,6 +12,8 @@ interface Props {
   onRemove:   () => void
   onMoveUp:   () => void
   onMoveDown: () => void
+  // Props para el grip de drag & drop (las inyecta EditorForm)
+  dragHandleProps?: React.HTMLAttributes<HTMLButtonElement>
 }
 
 const TIPO_LABELS: Record<Seccion["tipo"], string> = {
@@ -26,13 +29,24 @@ const inputClass  = "w-full px-3 py-2 text-sm border border-input rounded-lg bg-
 const textareaClass = "w-full px-3 py-2.5 text-sm leading-relaxed border border-input rounded-lg bg-background text-foreground placeholder:text-muted-foreground/50 outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 resize-y transition-all"
 const labelClass = "block text-[11px] font-bold uppercase tracking-widest text-muted-foreground mb-1"
 
-export function SeccionEditor({ seccion, index, total, onChange, onRemove, onMoveUp, onMoveDown }: Props) {
+export function SeccionEditor({
+  seccion, index, total, onChange, onRemove, onMoveUp, onMoveDown, dragHandleProps,
+}: Props) {
   return (
     <div className="border border-border rounded-xl bg-card overflow-hidden focus-within:border-primary/40 focus-within:ring-2 focus-within:ring-primary/10 transition-all">
 
       {/* Header */}
-      <div className="flex items-center justify-between px-4 py-2.5 bg-muted/40 border-b border-border">
-        <div className="flex items-center gap-2.5">
+      <div className="flex items-center justify-between px-3 py-2.5 bg-muted/40 border-b border-border">
+        <div className="flex items-center gap-2">
+          {/* Grip para arrastrar */}
+          <button
+            type="button"
+            title="Arrastrá para reordenar"
+            className="touch-none cursor-grab active:cursor-grabbing p-1 -ml-0.5 rounded text-muted-foreground/50 hover:text-muted-foreground hover:bg-muted transition-colors"
+            {...dragHandleProps}
+          >
+            <GripVertical className="h-4 w-4" />
+          </button>
           <span className="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary text-primary-foreground text-[10px] font-bold flex-shrink-0">
             {index + 1}
           </span>
@@ -40,13 +54,14 @@ export function SeccionEditor({ seccion, index, total, onChange, onRemove, onMov
         </div>
         <div className="flex items-center gap-1.5">
           {[
-            { label: "↑", action: onMoveUp,   disabled: index === 0,         danger: false },
-            { label: "↓", action: onMoveDown, disabled: index === total - 1, danger: false },
-            { label: "✕", action: onRemove,   disabled: false,               danger: true  },
-          ].map(({ label, action, disabled, danger }) => (
+            { label: "↑", title: "Subir",    action: onMoveUp,   disabled: index === 0,         danger: false },
+            { label: "↓", title: "Bajar",    action: onMoveDown, disabled: index === total - 1, danger: false },
+            { label: "✕", title: "Eliminar", action: onRemove,   disabled: false,               danger: true  },
+          ].map(({ label, title, action, disabled, danger }) => (
             <button
               key={label}
               type="button"
+              title={title}
               onClick={action}
               disabled={disabled}
               className={`inline-flex items-center justify-center w-7 h-7 rounded-md border text-sm transition-colors disabled:opacity-30 disabled:cursor-not-allowed ${
@@ -88,9 +103,17 @@ export function SeccionEditor({ seccion, index, total, onChange, onRemove, onMov
           />
         )}
         {seccion.tipo === "resumen" && (
-          <p className="text-sm text-muted-foreground italic px-1">
-            El tipo "resumen" usa bloques complejos — editalo directamente en el JSON si lo necesitás.
-          </p>
+          <div className="rounded-lg bg-muted/40 border border-border px-4 py-3">
+            <p className="text-sm text-foreground font-medium mb-1">
+              Sección de resumen enriquecido
+            </p>
+            <p className="text-xs text-muted-foreground leading-relaxed">
+              Este tipo de sección usa un formato especial que todavía no se puede
+              editar desde acá. Se va a mostrar al alumno tal cual está. Si necesitás
+              cambiarla, podés eliminarla y reemplazarla por secciones de contexto,
+              enseñanza o escrituras.
+            </p>
+          </div>
         )}
       </div>
     </div>
