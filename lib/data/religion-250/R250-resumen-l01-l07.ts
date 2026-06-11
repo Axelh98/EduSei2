@@ -1,5 +1,17 @@
 import type { Lesson } from "@/lib/types"
 
+import {
+  r250Leccion01Questions,
+  r250Leccion02Questions,
+  r250Leccion03Questions,
+  r250Leccion04Questions,
+  r250Leccion05Questions,
+  r250Leccion06Questions,
+  r250Leccion07Questions,
+
+} from "./questions"
+
+
 export const leccionesResumidasR250_01_07: Lesson[] = [
   {
     id: "r250-l01",
@@ -10,7 +22,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
     unitNumber: 1,
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023/lesson-01-class-prep?lang=spa",
-    questions: [],
+    questions: r250Leccion01Questions,
     secciones: [
       {
         tipo: "contexto",

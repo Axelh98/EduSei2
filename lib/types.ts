@@ -55,6 +55,8 @@ export interface Lesson {
     | "Especial"
     | "Religión 250"
     | "Religión 225"
+    | "Religión 301"
+    | "Religión 200"
   description: string
   chapterUrl?: string
   secciones?: Seccion[]

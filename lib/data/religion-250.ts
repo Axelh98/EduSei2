@@ -1,5 +1,29 @@
 import type { FlatLesson } from "../types"
 
+import {
+  r250Leccion01Questions,
+  r250Leccion02Questions,
+  r250Leccion03Questions,
+  r250Leccion04Questions,
+  r250Leccion05Questions,
+  r250Leccion06Questions,
+  r250Leccion07Questions,
+  r250Leccion08Questions,
+  r250Leccion09Questions,
+  r250Leccion10Questions,
+  r250Leccion11Questions,
+  r250Leccion12Questions,
+  r250Leccion13Questions,
+  r250Leccion14Questions,
+  r250Leccion15Questions,
+  r250Leccion16Questions,
+  r250Leccion17Questions,
+  r250Leccion18Questions,
+  r250Leccion19Questions,
+  r250Leccion20Questions,
+  r250Leccion21Questions
+} from "./religion-250/questions"
+
 /**
  * Jesucristo y Su evangelio sempiterno
  * Religión 250 — Material de preparación para la clase (2023)
@@ -126,98 +150,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Mateo 11:28–30, ¿qué promete el Salvador a quienes acuden a Él?",
-        options: [
-          "Eliminar completamente sus dificultades",
-          "Darles descanso y aliviar su carga",
-          "Concederles riquezas y prosperidad",
-          "Liberarlos de toda responsabilidad",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "El Salvador promete descanso y que Su yugo es fácil y Su carga ligera. No elimina las dificultades sino que las comparte con nosotros.",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "¿Cuáles son los dos significados de «aprende de mí» según el Élder Kim B. Clark?",
-        options: [
-          "Leer las Escrituras y asistir a la Iglesia",
-          "Conocer a Cristo personalmente y seguir Su ejemplo perfecto",
-          "Estudiar teología y hacer misión",
-          "Orar diariamente y pagar el diezmo",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "El Élder Clark enseñó que la invitación tiene dos dimensiones: conocer a Cristo íntimamente (cambio de corazón) y aprender de Su ejemplo perfecto para llegar a ser como Él.",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según DyC 88:118, el conocimiento espiritual se obtiene únicamente a través del estudio intelectual, sin necesidad de la fe.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. El versículo enseña que debemos buscar conocimiento «tanto por el estudio como por la fe». Ambos son necesarios; el intelecto solo no es suficiente.",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "¿Qué representa el yugo en la metáfora de Mateo 11:29–30?",
-        options: [
-          "Una carga adicional que el Señor nos impone",
-          "Un símbolo de obediencia ciega",
-          "Una unión con Cristo para que Él ayude a cargar el peso de la vida",
-          "Las ordenanzas del bautismo y la confirmación",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "En la agricultura bíblica, el yugo unía dos bueyes. Cristo, el buey fuerte, se une a nosotros para cargar juntos. No aumenta nuestra carga — la comparte.",
-      },
-      {
-        id: 5,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: El Élder Richard G. Scott enseñó que la oración diaria y el estudio de Escrituras son formas concretas de responder a la invitación «venid a mí» del Salvador.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El Élder Scott listó específicamente la oración mañana y noche, el estudio diario de Escrituras, la noche de hogar y la asistencia al templo como respuestas activas a la invitación del Salvador.",
-      },
-      {
-        id: 6,
-        type: "multiple",
-        question:
-          "¿Qué escritura conecta directamente el aprender de Cristo con recibir paz?",
-        options: [
-          "Juan 14:6",
-          "Doctrina y Convenios 19:23",
-          "2 Nefi 2:6–8",
-          "Alma 7:11",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "DyC 19:23 dice: «Aprended de mí, y escuchad mis palabras; andad en la mansedumbre de mi Espíritu, y tendréis paz en mí.»",
-      },
-      {
-        id: 7,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: La Primera Presidencia y el Cuórum de los Doce Apóstoles declararon en «El Cristo Viviente» que ninguna persona ha ejercido una influencia tan profunda como Jesucristo sobre todos los que han vivido.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Esa declaración abre el documento «El Cristo Viviente: El Testimonio de los Apóstoles» (2000) y es citada en el material de preparación de esta lección.",
-      },
-    ],
+    questions: r250Leccion01Questions,
   },
 
   // ─── Lección 2 ────────────────────────────────────────────────────────────
@@ -311,88 +244,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Juan 20:30–31, ¿cuál fue el propósito principal de Juan al escribir su evangelio?",
-        options: [
-          "Registrar todos los milagros de Jesús para la historia",
-          "Para que los lectores crean que Jesús es el Cristo y tengan vida en Su nombre",
-          "Corregir los errores de los otros evangelistas",
-          "Convencer a los líderes judíos de la divinidad de Cristo",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Juan declara explícitamente su propósito: que los lectores «crean que Jesús es el Cristo, el Hijo de Dios, y para que creyendo, tengáis vida en Su nombre».",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "¿Cómo recibió Simón Pedro su testimonio de que Jesús es el Cristo, según Mateo 16:17?",
-        options: [
-          "Por haber visto los milagros de Jesús",
-          "Por las enseñanzas de los rabinos judíos",
-          "Mediante revelación del Padre Celestial",
-          "Por leer las profecías del Antiguo Testamento",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Jesús declaró: «no te lo reveló carne ni sangre, sino mi Padre que está en los cielos». El testimonio verdadero proviene de revelación divina, no solo de evidencia humana.",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: «El Cristo Viviente: El Testimonio de los Apóstoles» fue publicado el 1 de enero de 2000 para conmemorar los 2000 años del nacimiento del Salvador.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. La Primera Presidencia y el Cuórum de los Doce publicaron este documento histórico al inicio del nuevo milenio como su testimonio especial del Salvador.",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "¿Qué significa el título «Cristo» según el material de la lección?",
-        options: [
-          "Salvador de Israel",
-          "Hijo de Dios",
-          "El ungido; equivalente a Mesías en hebreo",
-          "El maestro eterno",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "La palabra griega «Cristo» significa «el ungido» y es el equivalente de la palabra hebrea Mesías. Es un título que denota al Rey y Libertador prometido.",
-      },
-      {
-        id: 5,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: El Élder Andersen enseñó que a medida que el mundo hable menos de Jesucristo, los discípulos deben hablar más de Él.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El Élder Andersen invitó a los discípulos del Salvador a aumentar su testimonio verbal de Cristo precisamente cuando el mundo tiende a silenciarlo.",
-      },
-      {
-        id: 6,
-        type: "multiple",
-        question:
-          "Según DyC 107:23, ¿cuál es la función específica de los Doce Apóstoles?",
-        options: [
-          "Administrar las finanzas de la Iglesia a nivel mundial",
-          "Ser testigos especiales del nombre de Cristo en todo el mundo",
-          "Presidir cada una de las congregaciones locales",
-          "Traducir las escrituras a todos los idiomas",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Los Doce son llamados específicamente como «testigos especiales del nombre de Cristo en todo el mundo». Su misión principal es testificar del Salvador.",
-      },
-    ],
+    questions: r250Leccion02Questions,
   },
 
   // ─── UNIDAD 2: El ministerio preterrenal de Jesucristo ────────────────────
@@ -475,88 +327,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Moisés 4:1–2, ¿cuál fue la diferencia principal entre la propuesta de Satanás y la de Jesucristo en el Gran Concilio?",
-        options: [
-          "Satanás prometía salvar a más personas que Cristo",
-          "Satanás buscaba su propia gloria; Cristo buscaba hacer la voluntad del Padre",
-          "Cristo prometía un plan más fácil para los mortales",
-          "Satanás tenía más seguidores en el mundo preterrenal",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Satanás dijo «dame tu honor» buscando su propia gloria y el control del albedrío. Cristo dijo «hágase tu voluntad, y sea la gloria tuya», sometiendo Su voluntad al Padre.",
-      },
-      {
-        id: 2,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según Abraham 3:19, Jesucristo era más inteligente que todos los demás espíritus en la vida preterrenal.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El Señor le enseñó a Abraham que no había dos iguales entre todos los espíritus, y que Él era «más inteligente que todas ellas».",
-      },
-      {
-        id: 3,
-        type: "multiple",
-        question:
-          "¿Qué evidencia tenemos de que elegimos seguir a Jesucristo en la vida preterrenal?",
-        options: [
-          "Que somos miembros de la Iglesia",
-          "Que tenemos un cuerpo mortal y estamos en la tierra",
-          "Que hemos sido bautizados",
-          "Que conocemos las Escrituras",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Tener un cuerpo mortal y estar en la tierra es la evidencia de que en la vida preterrenal elegimos seguir a Cristo y aceptar el plan del Padre. Los seguidores de Satanás no recibieron cuerpos.",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "Según Apocalipsis 12:11, ¿cómo vencieron los seguidores del Salvador a Satanás en la guerra preterrenal?",
-        options: [
-          "Por su inteligencia superior",
-          "Por la fuerza de su número",
-          "Por medio de la sangre del Cordero y la palabra de su testimonio",
-          "Por el conocimiento de las profecías",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "«Le han vencido por medio de la sangre del Cordero y de la palabra del testimonio de ellos.» El mismo patrón — confiar en la expiación de Cristo y dar testimonio — sigue siendo la clave hoy.",
-      },
-      {
-        id: 5,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Satanás y sus seguidores también están presentes en la tierra, pero como espíritus sin cuerpo físico.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Al haber rechazado el plan del Padre, los seguidores de Satanás nunca recibieron cuerpos mortales y actúan en la tierra como espíritus tentando a los que sí los tienen.",
-      },
-      {
-        id: 6,
-        type: "multiple",
-        question:
-          "¿Cuál de los siguientes pasajes de las Escrituras describe la elección de Jesucristo como Salvador en el Gran Concilio preterrenal?",
-        options: [
-          "Juan 3:16",
-          "Abraham 3:27",
-          "Doctrina y Convenios 19:23",
-          "Mateo 11:28",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Abraham 3:27 registra la respuesta de Jehová al llamado del Padre: «Heme aquí; envíame», aceptando voluntariamente ser el Salvador de la humanidad.",
-      },
-    ],
+    questions: r250Leccion03Questions,
   },
   {
     id: "r250-l04",
@@ -636,72 +407,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question: "Según Juan 1:3, ¿quién creó todas las cosas?",
-        options: [
-          "El Padre Celestial directamente",
-          "Los ángeles bajo la dirección de Dios",
-          "Jesucristo, bajo la dirección del Padre",
-          "La naturaleza por sus propias leyes",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Juan 1:3 enseña que «todas las cosas por medio de él fueron hechas, y sin él nada de lo que ha sido hecho fue hecho». Cristo fue el Creador activo bajo la dirección del Padre.",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "Según Moisés 1:39, ¿cuál es el propósito principal de la Creación?",
-        options: [
-          "Demostrar el poder de Dios ante los seres celestiales",
-          "Proveer recursos naturales para los mortales",
-          "Llevar a cabo la inmortalidad y la vida eterna del hombre",
-          "Crear belleza artística para el disfrute divino",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "El Señor declara: «esta es mi obra y mi gloria: llevar a cabo la inmortalidad y la vida eterna del hombre.» La Creación existe para facilitar el progreso eterno de los hijos de Dios.",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según DyC 59:18–20, el Señor quiere que Sus hijos disfruten de las creaciones de la tierra con gratitud.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El Señor dice que es «gratamente agradable» que Sus creaciones sean dadas en abundancia para el disfrute del hombre mediante todos los sentidos.",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "¿Cuál de las siguientes afirmaciones describe mejor la relación entre el estudio de la ciencia y el testimonio de Cristo como Creador?",
-        options: [
-          "La ciencia y la fe son necesariamente contradictorias",
-          "Solo la fe, sin el estudio científico, puede revelar al Creador",
-          "El estudio de la naturaleza puede profundizar el testimonio de Cristo como Creador",
-          "La ciencia reemplaza la necesidad de creer en un Creador",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "La complejidad y precisión de la Creación, vista a través de la ciencia, puede ser evidencia adicional de la inteligencia y el amor del Creador.",
-      },
-      {
-        id: 5,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: «El Cristo Viviente» declara que Jesucristo fue el Creador de la tierra bajo la dirección de Su Padre.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          'Verdadero. «El Cristo Viviente» afirma: «Bajo la dirección de Su Padre, Él fue el Creador de la tierra. "Todas las cosas por medio de él fueron hechas, y sin él nada de lo que ha sido hecho fue hecho."»',
-      },
-    ],
+    questions: r250Leccion04Questions,
   },
   {
     id: "r250-l05",
@@ -782,72 +488,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question: "¿Qué es un convenio según la doctrina del Evangelio?",
-        options: [
-          "Una regla que la Iglesia establece para sus miembros",
-          "Un acuerdo sagrado entre Dios y el hombre con promesas mutuas",
-          "Una promesa unilateral que Dios hace a Sus hijos",
-          "Una tradición religiosa sin consecuencias eternas",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Un convenio es un acuerdo sagrado en el que Dios promete bendiciones específicas y el hombre promete obediencia. Ambas partes tienen obligaciones.",
-      },
-      {
-        id: 2,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según Gálatas 3:29, quienes son de Cristo son linaje de Abraham y herederos según la promesa.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Pablo enseña que al pertenecer a Cristo, somos adoptados espiritualmente al linaje de Abraham y heredamos sus promesas del convenio.",
-      },
-      {
-        id: 3,
-        type: "multiple",
-        question:
-          "Según DyC 84:33–34, ¿qué se promete a quienes reciben fielmente a los siervos del Señor y al Señor mismo?",
-        options: [
-          "Perdón completo de todos sus pecados pasados",
-          "Un llamamiento en la Iglesia",
-          "Todas las cosas que el Padre tiene",
-          "Protección de todas las dificultades terrenales",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "El pasaje establece una cadena: recibir a los siervos → recibir al Señor → recibir al Padre → recibir el reino → «todas las cosas que el Padre tiene».",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "¿Cuál es el modelo del pueblo del convenio plenamente realizado según Moisés 7:18?",
-        options: [
-          "El pueblo de Israel en el desierto",
-          "La ciudad de Sión bajo Enoc: un mismo corazón y mente, sin pobres",
-          "La Iglesia primitiva de Jesucristo",
-          "El reino de Salomón en su época de esplendor",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Moisés 7:18 describe la Sión de Enoc: «de un mismo corazón y una misma mente, moraban en justicia, y no había pobres entre ellos». Es el ideal del pueblo unido por convenios.",
-      },
-      {
-        id: 5,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: El presidente Nelson enseñó que los convenios nos vinculan a Dios y nos hacen partícipes de Su poder.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El presidente Nelson declaró: «Cuando usted hace un convenio con Dios, se vincula a Él y se hace partícipe de Su poder.»",
-      },
-    ],
+    questions: r250Leccion05Questions,
   },
   {
     id: "r250-l06",
@@ -927,73 +568,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Moisés 5:6–7, ¿qué significaba el sistema de sacrificios que Adán practicaba?",
-        options: [
-          "Era una expresión de gratitud por las bendiciones materiales",
-          "Era una semejanza del sacrificio del Unigénito del Padre",
-          "Era una tradición cultural sin significado espiritual",
-          "Era un símbolo de la obediencia a los profetas",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "El ángel reveló a Adán: «Esto es una semejanza del sacrificio del Unigénito del Padre.» Cada animal sacrificado apuntaba simbólicamente hacia el futuro sacrificio de Cristo.",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "Según Juan 3:14–15, ¿qué símbolo del Antiguo Testamento usó Jesús para describir Su propia crucifixión?",
-        options: [
-          "El arca de Noé",
-          "El maná en el desierto",
-          "La serpiente de bronce levantada por Moisés",
-          "El templo de Salomón",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Jesús dijo: «Como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado.» Mirar la serpiente con fe sanaba físicamente; mirar a Cristo con fe sana espiritualmente.",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según el Élder McConkie, toda la ley mosaica fue diseñada para centrar la fe de los creyentes en Jesucristo.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El Élder McConkie enseñó que el sistema completo de la ley mosaica estaba diseñado para «dar testimonio del Hijo de Dios y centrar la fe de los creyentes en Él».",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "¿Quién reconoció públicamente a Jesús como «el Cordero de Dios» al comienzo de Su ministerio?",
-        options: [
-          "Simón Pedro",
-          "El apóstol Juan",
-          "Juan el Bautista",
-          "María Magdalena",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Juan el Bautista exclamó: «He aquí el Cordero de Dios, que quita el pecado del mundo» (Juan 1:29), conectando explícitamente a Jesús con el simbolismo del cordero pascual.",
-      },
-      {
-        id: 5,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según 1 Corintios 10:4, la roca que dio agua a Israel en el desierto era un símbolo de Cristo.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Pablo declara: «la roca era Cristo». El agua que brotó milagrosamente de la roca en el desierto simbolizaba las bendiciones espirituales que fluyen de Jesucristo.",
-      },
-    ],
+    questions: r250Leccion06Questions,
   },
   {
     id: "r250-l07",
@@ -1074,73 +649,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Alma 42:22–25, ¿cómo puede extenderse la misericordia sin destruir la justicia?",
-        options: [
-          "Dios simplemente decide ignorar las transgresiones de las personas buenas",
-          "La Expiación de Cristo satisface las exigencias de la justicia, permitiendo que fluya la misericordia",
-          "La misericordia siempre tiene prioridad sobre la justicia en el plan de Dios",
-          "Solo los pecados graves requieren justicia; los menores son perdonados automáticamente",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Alma enseña que «la misericordia satisface las exigencias de la justicia, y la expiación reclama los privilegios de la misericordia». Cristo pagó el precio; por eso la misericordia puede fluir legítimamente.",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "Según 2 Nefi 2:7, ¿para quiénes puede cumplir la Expiación sus propósitos?",
-        options: [
-          "Para todos los seres humanos sin condición alguna",
-          "Solo para los miembros activos de la Iglesia",
-          "Para todos los de corazón quebrantado y espíritu contrito",
-          "Solo para quienes nunca han cometido pecados graves",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Lehi enseña que Cristo se ofrece como sacrificio «para todos los de corazón quebrantado y espíritu contrito». El acceso a la misericordia requiere humildad y arrepentimiento.",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según Mosíah 15:9, Cristo ascendió al cielo habiendo satisfecho las exigencias de la justicia y reclamando misericordia para los hijos de los hombres.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Abinadí describe a Cristo como el Mediador perfecto que, habiendo satisfecho la justicia con Su expiación, ahora reclama misericordia en nuestro favor ante el Padre.",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "¿Por qué solo Jesucristo podía realizar el sacrificio expiatorio?",
-        options: [
-          "Porque era el más obediente de los espíritus preterrenales",
-          "Porque el Padre simplemente lo escogió arbitrariamente",
-          "Porque como Hijo Unigénito en la carne reunía la naturaleza divina e infinita necesaria",
-          "Porque tenía más conocimiento de la ley que los demás",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Al ser completamente divino podía realizar un sacrificio infinito; al ser completamente mortal podía sufrir por sus hermanos mortales. Solo el Unigénito reunía ambas condiciones.",
-      },
-      {
-        id: 5,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: La misericordia divina opera de manera automática para todos sin necesidad de arrepentimiento.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. Alma 42 enseña claramente que «la misericordia viene por razón del arrepentimiento». Sin arrepentimiento, la justicia reclama al pecador. El arrepentimiento activa la misericordia.",
-      },
-    ],
+    questions: r250Leccion07Questions,
   },
   {
     id: "r250-l08",
@@ -1220,63 +729,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "¿Cuántos años antes del nacimiento de Cristo escribió Isaías la descripción del «siervo sufriente» en Isaías 53?",
-        options: ["Aproximadamente 100 años", "Aproximadamente 400 años", "Aproximadamente 700 años", "Aproximadamente 300 años"],
-        correctAnswer: 2,
-        explanation:
-          "Isaías escribió aproximadamente 700 años antes del nacimiento de Cristo, describiendo con notable precisión Su sufrimiento expiatorio: «herido fue por nuestras rebeliones, molido por nuestros pecados».",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "Según Miqueas 5:2, ¿dónde profetizó el Señor que nacería el Mesías?",
-        options: ["Nazaret", "Jerusalén", "Belén", "Capernaum"],
-        correctAnswer: 2,
-        explanation:
-          "Miqueas profetizó específicamente: «de ti, Belén Efrata, me saldrá el que será Señor en Israel». Esta profecía se cumplió exactamente con el nacimiento de Jesús en Belén.",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según Juan 1:41, Andrés anunció a su hermano Pedro que habían hallado al Mesías.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Andrés, después de encontrarse con Jesús, corrió a su hermano Simón Pedro y le dijo: «Hemos hallado al Mesías (que traducido es, el Cristo)».",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "Según 1 Nefi 10:4, ¿qué profetizó Lehi acerca del Mesías?",
-        options: [
-          "Que nacería en Belén de una virgen",
-          "Que sería traicionado por sus discípulos más cercanos",
-          "Que moriría y resucitaría, y se manifestaría por el Espíritu Santo a los gentiles",
-          "Que establecería una Iglesia con doce apóstoles",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Lehi profetizó que el Mesías «después que fuera muerto, resucitaría de los muertos, y se manifestaría por el Espíritu Santo a los gentiles», confirmando Su muerte, resurrección y misión universal.",
-      },
-      {
-        id: 5,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: El Élder Holland enseñó que el Libro de Mormón es el testigo más claro y completo de que Jesucristo es el Mesías prometido.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El Élder Holland declaró que el Libro de Mormón «habla de Cristo con tanto poder y claridad» como ningún otro libro en el mundo.",
-      },
-    ],
+    questions: r250Leccion08Questions,
   },
 
   // ─── UNIDAD 3: El ministerio terrenal de Jesucristo ──────────────────────
@@ -1350,58 +803,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Lucas 2:11, ¿cuáles son los tres títulos que el ángel usó para anunciar el nacimiento de Jesús?",
-        options: [
-          "Rey, Profeta y Sacerdote",
-          "Salvador, Cristo y Señor",
-          "Mesías, Redentor y Emmanuel",
-          "Hijo de Dios, Cordero y Jehová",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "El ángel declaró: «os ha nacido hoy un Salvador, que es Cristo el Señor.» Cada título declara un aspecto de Su identidad divina.",
-      },
-      {
-        id: 2,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Nefi vio en visión el nacimiento del Mesías aproximadamente 600 años antes de que ocurriera.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Nefi registra en 1 Nefi 11 la visión que tuvo del nacimiento de Cristo, incluyendo la imagen de una virgen y la confirmación de que sería el Hijo Eterno del Padre.",
-      },
-      {
-        id: 3,
-        type: "multiple",
-        question:
-          "¿Qué característica única tenía Jesucristo por ser el Hijo Unigénito en la carne?",
-        options: [
-          "Nunca sintió hambre ni sed como los mortales",
-          "Nació con el conocimiento completo de todas las cosas",
-          "Heredó la capacidad de morir de Su madre y el poder de resucitar de Su Padre",
-          "Podía realizar milagros sin esfuerzo desde el nacimiento",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Al nacer de María, Jesús heredó la mortalidad (capacidad de morir); al ser Hijo de Dios, heredó el poder de resucitar. Esta combinación única lo hacía el único capaz de realizar la Expiación.",
-      },
-      {
-        id: 4,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según «El Cristo Viviente», la vida de Jesucristo comenzó en Belén y concluyó en el Calvario.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. «El Cristo Viviente» declara: «Su vida, que es fundamental para toda la historia de la humanidad, no comenzó en Belén ni concluyó en el Calvario.» Su existencia es eterna.",
-      },
-    ],
+    questions: r250Leccion09Questions,
   },
   {
     id: "r250-l10",
@@ -1481,63 +883,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Juan 5:30, ¿qué principio fundamental guiaba las acciones de Jesucristo?",
-        options: [
-          "Actuar según Su propia sabiduría y juicio divino",
-          "No buscar Su voluntad sino la voluntad del Padre",
-          "Obedecer las leyes civiles y religiosas de Su época",
-          "Seguir los consejos del Espíritu Santo en cada momento",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Cristo declaró: «no busco mi voluntad, sino la voluntad del que me envió, la del Padre.» Esta sumisión total era la base de todo Su ministerio.",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "Según el Élder Neal A. Maxwell, ¿qué es lo único que realmente podemos darle a Dios?",
-        options: [
-          "Nuestras obras y servicio en la Iglesia",
-          "Nuestros diezmos y ofrendas",
-          "Nuestra propia voluntad",
-          "Nuestro tiempo y talentos",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "El Élder Maxwell enseñó: «La sumisión de la voluntad es en realidad la única cosa que podemos dar verdaderamente a Dios. Todo lo demás que le 'damos' ya es Suyo.»",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según 2 Nefi 31:7, Jesucristo se bautizó para cumplir toda justicia, aunque era sin pecado.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Nefi revela que la razón del bautismo de Cristo no fue el arrepentimiento (era sin pecado) sino «para cumplir toda justicia» — un acto de sumisión y ejemplo.",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "En Mateo 26:39, ¿cómo demostró Jesús la sumisión perfecta en Getsemaní?",
-        options: [
-          "Pidiendo que la copa pasara y negándose a beberla",
-          "Expresando honestamente Su sentir y luego sometiendo Su voluntad al Padre",
-          "Aceptando en silencio sin expresar Sus sentimientos",
-          "Pidiendo consejo a Sus apóstoles antes de orar",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Jesús expresó honestamente: «si es posible, pase de mí esta copa» y luego sometió Su voluntad: «pero no sea como yo quiero, sino como tú.» La sumisión incluye honestidad, no supresión de sentimientos.",
-      },
-    ],
+    questions: r250Leccion10Questions,
   },
   {
     id: "r250-l11",
@@ -1609,58 +955,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Efesios 4:11–13, ¿cuál es el propósito de tener apóstoles y profetas en la Iglesia?",
-        options: [
-          "Administrar las finanzas y recursos de la Iglesia",
-          "Perfeccionar a los santos hasta que lleguen a la unidad de la fe y al conocimiento del Hijo de Dios",
-          "Garantizar el cumplimiento de las reglas y normas de la Iglesia",
-          "Representar a la Iglesia ante los gobiernos del mundo",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Pablo enseña que la organización de la Iglesia sirve «a fin de perfeccionar a los santos para la obra del ministerio, hasta que todos lleguemos a la unidad de la fe y del conocimiento del Hijo de Dios».",
-      },
-      {
-        id: 2,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según DyC 1:30, el Señor declaró que Su Iglesia restaurada es «la única iglesia verdadera y viviente sobre la faz de toda la tierra».",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El Señor hizo esta declaración no porque sus miembros sean perfectos, sino porque posee la plenitud del Evangelio y las llaves del sacerdocio restauradas.",
-      },
-      {
-        id: 3,
-        type: "multiple",
-        question:
-          "¿Qué prometió Jesús darle a Pedro según Mateo 16:19?",
-        options: [
-          "El liderazgo de todos los apóstoles",
-          "La capacidad de obrar milagros",
-          "Las llaves del reino de los cielos",
-          "La visión de todas las dispensaciones",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Jesús prometió a Pedro: «a ti te daré las llaves del reino de los cielos». Estas llaves incluyen la autoridad para administrar las ordenanzas de salvación.",
-      },
-      {
-        id: 4,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: La Restauración de la Iglesia en 1830 fue la creación de una religión completamente nueva.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. La Restauración fue la restitución de la Iglesia original de Cristo — con su misma autoridad, ordenanzas y doctrina — que se había perdido durante la Gran Apostasía.",
-      },
-    ],
+    questions: r250Leccion11Questions,
   },
   {
     id: "r250-l12",
@@ -1732,62 +1027,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question: "Según Juan 14:6, ¿qué declaró Jesucristo sobre sí mismo?",
-        options: [
-          "Que señalaba el camino hacia Dios",
-          "Que enseñaba la verdad a sus seguidores",
-          "Que Él es el camino, la verdad y la vida",
-          "Que era el mejor maestro de todos los tiempos",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Cristo declaró: «Yo soy el camino, y la verdad, y la vida.» No dice que señala o enseña estas cosas — afirma ser la encarnación de todas ellas.",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "Según Juan 7:17, ¿cómo puede alguien saber si la doctrina de Cristo es de Dios?",
-        options: [
-          "Estudiando teología y filosofía religiosa",
-          "Comparando Sus enseñanzas con otras religiones",
-          "Estando dispuesto a hacer la voluntad de Dios",
-          "Recibiendo la confirmación de un sacerdote o líder religioso",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Jesús enseñó: «El que quiera hacer la voluntad de Dios, conocerá si la doctrina es de Dios.» La disposición a practicar abre la puerta a la confirmación espiritual.",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: El Evangelio de Cristo opera desde afuera hacia adentro, comenzando por cambiar comportamientos externos.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. El Evangelio de Cristo opera desde adentro hacia afuera. El Sermón del Monte eleva el estándar a la transformación interior del corazón, no solo a comportamientos externos.",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "¿Por qué se admiraron las personas de las enseñanzas de Cristo según Mateo 7:28–29?",
-        options: [
-          "Porque usaba parábolas que nadie había escuchado antes",
-          "Porque enseñaba como quien tiene autoridad, no como los escribas",
-          "Porque Sus palabras venían acompañadas de señales milagrosas",
-          "Porque Sus enseñanzas eran más fáciles de cumplir que la ley mosaica",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "El pueblo «se admiraba de Su doctrina; porque les enseñaba como quien tiene autoridad, y no como los escribas.» Cristo hablaba con autoridad directa como el Legislador eterno.",
-      },
-    ],
+    questions: r250Leccion12Questions,
   },
   {
     id: "r250-l13",
@@ -1859,58 +1099,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "¿Qué demostró el Salvador al llamar a Zaqueo por nombre en Lucas 19:5?",
-        options: [
-          "Que conocía la identidad de todos los recaudadores de impuestos",
-          "Que tenía conocimiento sobrenatural de todas las personas",
-          "Que Su ministerio era personal e individual, no masivo e impersonal",
-          "Que Zaqueo era un discípulo secreto desde antes",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Al llamar a Zaqueo por nombre y buscar estar con él, Jesús demostró que Su ministerio era personal: vio a una persona específica con necesidades específicas, no una multitud anónima.",
-      },
-      {
-        id: 2,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según 3 Nefi 17, Jesús tomó a los niños nefitas uno a uno en Sus brazos.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El texto dice «llegó Jesús y os tomó a sus pequeños hijos, uno a uno». Incluso con una multitud de miles, el Salvador ministró de manera individual.",
-      },
-      {
-        id: 3,
-        type: "multiple",
-        question:
-          "¿A qué personas buscaba específicamente ministrar el Salvador, según el ejemplo de Zaqueo?",
-        options: [
-          "Solo a los líderes religiosos y personas influyentes",
-          "Principalmente a Sus discípulos más cercanos",
-          "A todos, incluyendo a quienes eran considerados pecadores o marginados",
-          "Solo a los que habían demostrado fe previamente",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Zaqueo era publicano, considerado pecador por su profesión. El Salvador buscó activamente estar con él. Su ministerio no tenía exclusiones basadas en reputación o estatus social.",
-      },
-      {
-        id: 4,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: El Élder Holland enseñó que el ministerio del Salvador era principalmente colectivo, dirigido a multitudes.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. El Élder Holland enseñó que «la historia del ministerio del Salvador es, en su mayor parte, una historia de encuentros individuales». Él veía a las personas realmente, una a una.",
-      },
-    ],
+    questions: r250Leccion13Questions,
   },
   {
     id: "r250-l14",
@@ -1982,63 +1171,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Hechos 10:38, ¿cómo describe Pedro el ministerio de Jesucristo?",
-        options: [
-          "Predicó en las sinagogas y enseñó la ley de Moisés",
-          "Anduvo haciendo bienes y sanando a todos los oprimidos por el diablo",
-          "Realizó señales y prodigios para convencer a los líderes judíos",
-          "Se concentró en enseñar a Sus doce apóstoles",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Pedro describe el ministerio de Cristo como que «anduvo haciendo bienes y sanando a todos los oprimidos por el diablo, porque Dios estaba con él.»",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "¿Qué hizo Jesús antes de curar al leproso según Marcos 1:41?",
-        options: [
-          "Le preguntó si tenía fe suficiente para ser sanado",
-          "Oró al Padre pidiendo permiso para sanarle",
-          "Lo tocó, demostrando que nadie estaba fuera de Su alcance",
-          "Le pidió que se mostrara a los sacerdotes primero",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Jesús «extendió la mano y le tocó». Los leprosos eran intocables por ley, pero el Salvador los tocó antes de sanarlos, enviando el mensaje de que nadie está tan marginado que no pueda recibir Su amor.",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: El Élder Bednar enseñó que el poder sanador de la Expiación solo aplica para el perdón de pecados, no para el sufrimiento físico o emocional.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. El Élder Bednar enseñó que la Expiación «también nos puede dar fortaleza para soportar el dolor, las aflicciones y las enfermedades», extendiendo el poder sanador más allá del perdón.",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "¿Qué papel jugaba la fe en los milagros de curación del Salvador?",
-        options: [
-          "La fe no era necesaria; Jesús sanaba a todos independientemente",
-          "La fe era el mérito que hacía al enfermo digno de ser sanado",
-          "La fe abría el corazón a recibir lo que el Salvador podía dar",
-          "Solo aquellos con fe perfecta podían ser sanados",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "La frase «tu fe te ha salvado» indica que la fe no era el mérito sino el canal: abre el corazón para recibir las bendiciones del Salvador.",
-      },
-    ],
+    questions: r250Leccion14Questions,
   },
 
   // ─── UNIDAD 4: La expiación de Jesucristo ────────────────────────────────
@@ -2119,73 +1252,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según DyC 20:77, ¿cuáles son los tres compromisos que hacemos al participar de la Santa Cena?",
-        options: [
-          "Pagar diezmo, asistir a la Iglesia y servir en un llamamiento",
-          "Tomar el nombre de Cristo, recordarle siempre y guardar Sus mandamientos",
-          "Leer las Escrituras, orar diariamente y ayunar mensualmente",
-          "Ser bautizados, confirmados y recibir el sacerdocio",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "La oración sacramental de DyC 20:77 enumera tres compromisos: (1) tomar sobre sí el nombre de Su Hijo, (2) recordarle siempre, y (3) guardar Sus mandamientos.",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "¿Cuál es la promesa divina asociada con participar fielmente de la Santa Cena?",
-        options: [
-          "Recibir remisión automática de todos los pecados",
-          "Evitar las pruebas y dificultades de la vida",
-          "Tener siempre el Espíritu del Señor con nosotros",
-          "Garantizar la exaltación en el reino celestial",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "La promesa es: «para que siempre puedan tener su Espíritu consigo» (DyC 20:77). La compañía constante del Espíritu Santo es uno de los mayores dones de la vida terrenal.",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: La Santa Cena fue instituida por Cristo tanto en el Viejo Mundo (la última cena) como entre los nefitas en el Nuevo Mundo.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Cristo instituyó la Santa Cena la noche antes de Su crucifixión (Lucas 22:19–20) y también durante Su ministerio entre los nefitas (3 Nefi 18:1–11).",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "¿Qué representan el pan y el agua de la Santa Cena respectivamente?",
-        options: [
-          "El cuerpo y la sangre del Salvador sacrificados por nosotros",
-          "La ley y la gracia del Evangelio",
-          "El sufrimiento de la mortalidad y la esperanza de la resurrección",
-          "Los convenios del bautismo y la confirmación",
-        ],
-        correctAnswer: 0,
-        explanation:
-          "El pan representa el cuerpo de Cristo que fue partido por nosotros; el agua representa la sangre que derramó en Getsemaní y el Calvario. Ambos apuntan a Su sacrificio expiatorio.",
-      },
-      {
-        id: 5,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: El Élder Christofferson enseñó que participar de la Santa Cena con arrepentimiento puede renovar espiritualmente a quien la toma.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El Élder Christofferson describió la Santa Cena como «una invitación sagrada y recurrente a arrepentirnos sinceramente y ser renovados espiritualmente».",
-      },
-    ],
+    questions: r250Leccion15Questions,
   },
   {
     id: "r250-l16",
@@ -2257,63 +1324,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según DyC 19:18, ¿cuál fue el resultado físico del sufrimiento de Cristo en Getsemaní?",
-        options: [
-          "Quedó temporalmente inconsciente por el peso del sufrimiento",
-          "Sangró de cada poro y sufrió tanto en cuerpo como en espíritu",
-          "Experimentó visiones de todos los pecados del mundo",
-          "Su cuerpo brilló con luz intensa como expresión de su agonía",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "El Señor describe: «temblar de dolor y sangrar de cada poro, y sufrir tanto en cuerpo como en espíritu». Mosíah 3:7 confirma esta manifestación física del sufrimiento expiatorio.",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "Según Alma 7:11–12, ¿qué tomó Cristo sobre Sí mismo además de los pecados?",
-        options: [
-          "Solo los pecados voluntarios de quienes se arrepienten",
-          "Los dolores, aflicciones, enfermedades y debilidades de Su pueblo",
-          "Las consecuencias de la transgresión de Adán únicamente",
-          "Los sufrimientos de los mártires y profetas del Evangelio",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Alma enseña que Cristo tomó sobre Sí «dolores, aflicciones y tentaciones de todas clases», así como «dolores y enfermedades» y «debilidades». La Expiación cubre todo el sufrimiento humano, no solo los pecados.",
-      },
-      {
-        id: 3,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según el Élder Holland, la Expiación fue infinita en alcance pero no fue personal para cada individuo.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. El Élder Holland enseñó que la Expiación «fue eterna, por lo que sobrepasa la comprensión humana. Sin embargo, fue personal, porque nos conoce a cada uno de nosotros.»",
-      },
-      {
-        id: 4,
-        type: "multiple",
-        question:
-          "¿Por qué puede Cristo socorrernos perfectamente en nuestro sufrimiento, según Alma 7:12?",
-        options: [
-          "Porque tiene conocimiento perfecto de todas las situaciones posibles",
-          "Porque experimentó personalmente todos los dolores y debilidades que nosotros experimentamos",
-          "Porque el Espíritu Santo le informa de todas nuestras necesidades",
-          "Porque como Dios tiene el poder de eliminar cualquier sufrimiento",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Alma explica que Cristo tomó sobre Sí nuestras debilidades «para que sus entrañas se llenen de misericordia según la carne». Él puede socorrer porque experimentó, no solo porque sabe.",
-      },
-    ],
+    questions: r250Leccion16Questions,
   },
   {
     id: "r250-l17",
@@ -2385,58 +1396,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "¿Qué significa que Cristo fuera las «primicias de los que durmieron» según 1 Corintios 15:20?",
-        options: [
-          "Que fue el primero en morir de manera heroica",
-          "Que su muerte fue la más significativa de la historia",
-          "Que su resurrección garantiza que todos los demás también resucitarán",
-          "Que fue el primero en entender el significado de la muerte",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Las «primicias» son las primeras frutas que garantizan la cosecha futura. La resurrección de Cristo garantiza que toda la humanidad también resucitará, así como en Adán todos mueren.",
-      },
-      {
-        id: 2,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según Juan 11:25, Jesucristo declaró ser no solo el maestro de la resurrección sino la resurrección misma.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Jesús declaró: «Yo soy la resurrección y la vida.» No solo señala o enseña sobre ella — Él ES la resurrección personificada.",
-      },
-      {
-        id: 3,
-        type: "multiple",
-        question:
-          "¿Cómo demostró Cristo la realidad corporal de Su resurrección según el registro de los Evangelios?",
-        options: [
-          "Apareciendo rodeado de una luz gloriosa imposible de tocar",
-          "Hablando solo desde el cielo sin mostrar Su cuerpo",
-          "Invitando a Sus discípulos a tocar las marcas de los clavos en Sus manos y pies",
-          "Resucitando a otras personas para probar Su poder sobre la muerte",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Cristo invitó a Sus discípulos a tocar Sus heridas para confirmar que era real y corporal. «El Cristo Viviente» menciona que esto «estableció para siempre la realidad corporal de la vida después de la muerte».",
-      },
-      {
-        id: 4,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: La doctrina de la resurrección universal enseña que solo los justos resucitarán.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. 1 Corintios 15:22 enseña: «así como en Adán todos mueren, también en Cristo todos serán vivificados.» La resurrección es un don universal gratuito para toda la humanidad.",
-      },
-    ],
+    questions: r250Leccion17Questions,
   },
   {
     id: "r250-l18",
@@ -2508,63 +1468,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según 2 Nefi 25:23, ¿cuándo opera la gracia salvadora de Cristo?",
-        options: [
-          "Solo cuando hemos alcanzado la perfección en esta vida",
-          "Independientemente de nuestro esfuerzo; es un don gratuito sin condiciones",
-          "Después de hacer cuanto podamos — gracia y esfuerzo van juntos",
-          "Solo cuando hemos cumplido todas las ordenanzas del templo",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Nefi enseña: «es por la gracia que nos salvamos, después de hacer cuanto podamos.» Es un equilibrio entre el esfuerzo humano y la gracia divina.",
-      },
-      {
-        id: 2,
-        type: "multiple",
-        question:
-          "Según Éter 12:27, ¿cuál es el propósito de las debilidades que el Señor da a los mortales?",
-        options: [
-          "Para castigarlos por pecados pasados",
-          "Para producir humildad y dependencia de Cristo",
-          "Para que aprendan a compensarlas con sus fortalezas",
-          "Para que los demás puedan ayudarlos",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "El Señor dice: «si se humillan ante mí y tienen fe en mí, entonces haré que las cosas débiles se vuelvan fuertes.» Las debilidades producen humildad, que abre la puerta a la gracia transformadora.",
-      },
-      {
-        id: 3,
-        type: "multiple",
-        question:
-          "¿Cuáles son las dos dimensiones de la gracia de Cristo según el Élder Bednar?",
-        options: [
-          "La gracia temporal (para esta vida) y la gracia eterna (para la vida venidera)",
-          "La gracia salvadora (que perdona) y la gracia habilitadora (que capacita)",
-          "La gracia individual (para cada persona) y la gracia colectiva (para la Iglesia)",
-          "La gracia visible (en los milagros) y la gracia invisible (en el corazón)",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "El Élder Bednar distinguió entre la «gracia salvadora» que limpia los pecados y la «gracia habilitadora» que capacita para hacer y llegar a ser más de lo que somos por nuestra propia cuenta.",
-      },
-      {
-        id: 4,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: La gracia de Cristo reemplaza la necesidad de que hagamos esfuerzo personal en nuestra vida espiritual.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. 2 Nefi 25:23 enseña que la gracia opera «después de hacer cuanto podamos». La gracia magnifica nuestro esfuerzo — no lo reemplaza.",
-      },
-    ],
+    questions: r250Leccion18Questions,
   },
 
   // ─── UNIDAD 5: El ministerio posterrenal de Jesucristo ───────────────────
@@ -2638,58 +1542,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según DyC 138, ¿qué hizo Jesucristo entre Su muerte y Su resurrección?",
-        options: [
-          "Esperó en un estado de descanso hasta la resurrección",
-          "Organizó la obra de salvación y predicó el Evangelio en el mundo de los espíritus",
-          "Visitó a los apóstoles supervivientes para consolarlos",
-          "Se preparó para Su segunda venida futura",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "La visión de DyC 138 revela que Cristo fue al mundo de los espíritus y organizó la obra de salvación, enviando mensajeros a predicar a quienes no habían escuchado el Evangelio.",
-      },
-      {
-        id: 2,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según 1 Pedro 3:19, Cristo predicó a los espíritus encarcelados — aquellos que habían fallecido.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Pedro confirma que Cristo, después de Su muerte, «fue y predicó a los espíritus encarcelados», confirmando que la obra de salvación se extiende al mundo de los espíritus.",
-      },
-      {
-        id: 3,
-        type: "multiple",
-        question:
-          "¿Qué ocurre con la agencia de los muertos cuando realizamos ordenanzas vicarias por ellos en el templo?",
-        options: [
-          "Son obligados a aceptar las ordenanzas automáticamente",
-          "Solo las aceptan si sus descendientes eran suficientemente justos",
-          "Su agencia permanece intacta; pueden aceptar o rechazar las ordenanzas",
-          "Las ordenanzas entran en vigor inmediatamente sin necesidad de su elección",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Las ordenanzas vicarias ofrecen la oportunidad — pero la agencia de los muertos permanece intacta. Ellos pueden aceptar o rechazar lo que se realiza por ellos en el templo.",
-      },
-      {
-        id: 4,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: La obra del templo y la investigación genealógica son actividades opcionales para miembros interesados, no partes esenciales del plan de salvación.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 1,
-        explanation:
-          "Falso. El presidente Nelson enseñó que «la obra del templo y la investigación genealógica no son un pasatiempo; son una parte esencial del plan de salvación.»",
-      },
-    ],
+    questions: r250Leccion19Questions,
   },
   {
     id: "r250-l20",
@@ -2761,58 +1614,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Juan 10:14–15, ¿con qué profundidad de conocimiento compara Cristo el que tiene con Sus ovejas?",
-        options: [
-          "Con el conocimiento de un maestro sobre sus alumnos",
-          "Con el conocimiento mutuo entre el Padre y el Hijo",
-          "Con el conocimiento de un padre sobre sus hijos",
-          "Con el conocimiento de un médico sobre sus pacientes",
-        ],
-        correctAnswer: 1,
-        explanation:
-          "Jesús dice: «conozco mis ovejas y las mías me conocen, así como el Padre me conoce a mí, y yo conozco al Padre.» El estándar de conocimiento es la relación perfecta entre el Padre y el Hijo.",
-      },
-      {
-        id: 2,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según Juan 10:16, Jesús anunció que tenía ovejas que no eran del rebaño judío — anticipando Su ministerio universal.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. Cristo declaró: «También tengo otras ovejas que no son de este redil... habrá un rebaño, y un pastor.» Esto se cumplió en Su ministerio entre los nefitas y en la obra misional global.",
-      },
-      {
-        id: 3,
-        type: "multiple",
-        question:
-          "¿Qué enseña la parábola de la oveja perdida sobre el valor de cada individuo?",
-        options: [
-          "Que el bien de la mayoría supera al de un individuo",
-          "Que solo los muy activos merecen la atención del Salvador",
-          "Que cada persona tiene valor infinito — el Salvador deja a muchos para buscar a uno",
-          "Que quienes se alejan del Evangelio deben esperar a arrepentirse para ser buscados",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "En la parábola, el pastor deja 99 ovejas para buscar una sola perdida. En los cálculos divinos, cada persona tiene un valor tan infinito que justifica dejar todo para encontrarla.",
-      },
-      {
-        id: 4,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: El Élder Stevenson enseñó que somos instrumentos del Salvador para encontrar y traer de vuelta a quienes se han alejado del rebaño.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El Élder Stevenson enseñó que «así como Él busca, nosotros también somos Sus instrumentos para encontrar y traer de vuelta a quienes se han alejado del rebaño.»",
-      },
-    ],
+    questions: r250Leccion20Questions,
   },
   {
     id: "r250-l21",
@@ -2884,58 +1686,7 @@ export const religion250Lessons: FlatLesson[] = [
       },
     ],
 
-    questions: [
-      {
-        id: 1,
-        type: "multiple",
-        question:
-          "Según Amós 3:7, ¿cómo revela Dios Sus propósitos a Sus hijos?",
-        options: [
-          "Directamente a cada individuo sin necesidad de intermediarios",
-          "A través de señales naturales y eventos de la historia",
-          "Revelando Sus secretos a Sus siervos los profetas",
-          "Solo a través de las Escrituras ya escritas",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "Amós enseña que «no hará nada el Señor Jehová, sin que revele su secreto a sus siervos los profetas.» El patrón eterno de Dios es comunicarse a través de profetas.",
-      },
-      {
-        id: 2,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: Según DyC 1:38, la voz de los siervos autorizados del Señor equivale a la voz del propio Señor.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. El Señor declaró: «sea por mi propia voz o por la voz de mis siervos, lo mismo da.» Cuando el profeta habla por inspiración divina, tiene la misma autoridad.",
-      },
-      {
-        id: 3,
-        type: "multiple",
-        question:
-          "Según el presidente Nelson, ¿cómo podemos saber si un mensaje proviene del Señor?",
-        options: [
-          "Si es compartido por la Primera Presidencia en conferencia general",
-          "Si coincide con las Escrituras ya existentes",
-          "Mediante el poder del Espíritu Santo",
-          "Si es aceptado por consenso de los líderes de la Iglesia",
-        ],
-        correctAnswer: 2,
-        explanation:
-          "El presidente Nelson enseñó: «¿Cómo saber si un mensaje proviene del Señor? La respuesta es siempre la misma: mediante el poder del Espíritu Santo.»",
-      },
-      {
-        id: 4,
-        type: "truefalse",
-        question:
-          "Verdadero o Falso: La creencia en la revelación continua es una de las distinciones más importantes de la Iglesia restaurada.",
-        options: ["Verdadero", "Falso"],
-        correctAnswer: 0,
-        explanation:
-          "Verdadero. La Iglesia restaurada sostiene que Dios no guardó silencio después de los tiempos bíblicos — sigue revelando Su voluntad a través de profetas vivientes, escrituras y el Espíritu Santo.",
-      },
-    ],
+    questions: r250Leccion21Questions,
   },
   {
     id: "r250-l22",
