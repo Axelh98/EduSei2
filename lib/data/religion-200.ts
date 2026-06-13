@@ -169,7 +169,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-15-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion15Questions,
   },
   {
     id: "r200-l16",
@@ -180,7 +180,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-16-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion16Questions,
   },
   {
     id: "r200-l17",
@@ -191,7 +191,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-17-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion17Questions,
   },
   {
     id: "r200-l18",
@@ -202,7 +202,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-18-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion18Questions,
   },
   {
     id: "r200-l19",
@@ -213,7 +213,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-19-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion19Questions,
   },
   {
     id: "r200-l20",
@@ -224,7 +224,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-20-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion20Questions,
   },
   {
     id: "r200-l21",
@@ -235,7 +235,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-21-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion21Questions,
   },
   {
     id: "r200-l22",
