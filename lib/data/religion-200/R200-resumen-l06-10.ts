@@ -198,7 +198,7 @@ export const leccionesResumidasR200_06_10: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente M. Russell Ballard",
         fuente:
-          "«¡El Señor los necesita ya!», Liahona, septiembre de 2015, pág. 15. churchofjesuschrist.org/study/liahona/2015/09/the-lord-needs-you-now",
+          "«¡El Señor los necesita ya!», Liahona, noviembre de 2015, pág. 15. churchofjesuschrist.org/study/liahona/2015/11/the-lord-needs-you-now",
         texto:
           "La Iglesia de Jesucristo de los Santos de los Últimos Días cree que la experiencia de la atracción entre personas del mismo sexo es una complicada realidad para muchas personas. La atracción en sí no es pecado, sino el actuar según esos sentimientos. Aunque las personas no eligen tener esas atracciones, sí eligen cómo responder a ellas.",
       },
@@ -275,7 +275,7 @@ export const leccionesResumidasR200_06_10: Lesson[] = [
         fuente:
           "«Tesoros espirituales», Liahona, noviembre de 2019, págs. 77–78. churchofjesuschrist.org/study/general-conference/2019/10/36nelson",
         texto:
-          "Quienes han sido investidos en la Casa del Señor reciben un don de poder del sacerdocio de Dios en virtud de ese convenio, junto con un don de conocimiento para saber cómo recurrir a ese poder. Cada vez que sirven y adoran dignamente en el templo, salen armados con el poder de Dios y Sus ángeles que los guardan.",
+          "Quienes han sido investidos en la Casa del Señor reciben un don de poder del sacerdocio de Dios en virtud de ese convenio, junto con un don de conocimiento para saber cómo recurrir a ese poder. Cada vez que sirven y adoran dignamente en el templo, salen armadas con el poder de Dios y Sus ángeles que las guardan.",
       },
       {
         tipo: "enseñanza",

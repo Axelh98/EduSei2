@@ -31,13 +31,14 @@ export default async function LessonQuizPage({ params }: LessonPageProps) {
 
   return (
     <div className="flex min-h-screen flex-col bg-background">
-      <SiteHeader />
       <main className="flex-1 px-4 py-8 md:px-6 md:py-12">
         <QuizClient
           questions={lesson.questions}
           categoryName={category.name}
           categoryId={category.id}
+          lessonId={lessonId}
           lessonTitle={lesson.title}
+          courseType="seminario"
         />
       </main>
       <SiteFooter />

@@ -5,6 +5,8 @@ import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-primer-semes
 import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-primer-semestre"
 import { leccionesResumidasLM2 } from "@/lib/data/libro-de-mormon-2-semestre"
 import { doctrinasConveniosLeccionesResumen } from "@/lib/data/doctrinas-convenios/DC-resumentotal"
+import { leccionesResumidasR250 } from "@/lib/data/religion-250/religion-250-resumen"
+import { leccionesResumidasR200 } from "@/lib/data/religion-200/religion-200-resumen"
 import { fetchPublicOverride } from "@/lib/override-resolver"
 import { StudyClient } from "./study-client"
 import type { Metadata } from "next"
@@ -38,6 +40,8 @@ function findLessonData(categoryId: string, lessonId: string) {
     "libro-de-mormon-1":       leccionesResumidasLM,
     "libro-de-mormon-2":       leccionesResumidasLM2,
     "doctrina-y-convenios-1":  doctrinasConveniosLeccionesResumen,
+    "religion-250":            leccionesResumidasR250,
+    "religion-200":            leccionesResumidasR200,
   }
   const source = resumeMap[categoryId]
   if (source) {
