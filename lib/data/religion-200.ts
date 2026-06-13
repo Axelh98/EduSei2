@@ -1,4 +1,6 @@
 import type { FlatLesson } from "../types"
+import * as q from "./religion-200/questions/index"
+
 
 // ─── Religión 200 — La Familia Eterna ────────────────────────────────────────
 // Manual: https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022?lang=spa
@@ -13,7 +15,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-1-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion01Questions,
   },
   {
     id: "r200-l02",
@@ -24,7 +26,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-2-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion02Questions,
   },
   {
     id: "r200-l03",
@@ -35,7 +37,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-3-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion03Questions,
   },
   {
     id: "r200-l04",
@@ -46,7 +48,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-4-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion04Questions,
   },
   {
     id: "r200-l05",
@@ -57,7 +59,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-5-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion05Questions,
   },
   {
     id: "r200-l06",
@@ -68,7 +70,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-6-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion06Questions,
   },
   {
     id: "r200-l07",
@@ -79,7 +81,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-7-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion07Questions,
   },
   {
     id: "r200-l08",
@@ -90,7 +92,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-8-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion08Questions,
   },
   {
     id: "r200-l09",
@@ -101,7 +103,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-9-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion09Questions,
   },
   {
     id: "r200-l10",
@@ -112,7 +114,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-10-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion10Questions,
   },
   {
     id: "r200-l11",
@@ -123,7 +125,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-11-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion11Questions,
   },
   {
     id: "r200-l12",
@@ -134,7 +136,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-12-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion12Questions,
   },
   {
     id: "r200-l13",
@@ -145,7 +147,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-13-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion13Questions,
   },
   {
     id: "r200-l14",
@@ -156,7 +158,7 @@ export const religion200Lessons: FlatLesson[] = [
     chapterUrl:
       "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-teacher-material-2022/lesson-14-teacher-material?lang=spa",
     secciones: [],
-    questions: [],
+    questions: q.r200Leccion14Questions,
   },
   {
     id: "r200-l15",
