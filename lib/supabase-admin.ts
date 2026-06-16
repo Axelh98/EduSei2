@@ -1,31 +1,102 @@
 // lib/supabase-admin.ts
+
 import { createClient } from "@supabase/supabase-js"
 
-// ── Cliente server-side ──────────────────────────────────────────────────────
-// Usa SERVICE_ROLE_KEY si la tenés (acceso completo), sino cae al anon key.
-const SUPABASE_URL =
-  process.env.NEXT_PUBLIC_SUPABASE_URL ?? process.env.SUPABASE_URL ?? ""
+const SUPABASE_URL     = process.env.NEXT_PUBLIC_SUPABASE_URL ?? ""
+const SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY ?? ""
 
-const SUPABASE_KEY =
-  process.env.SUPABASE_SERVICE_ROLE_KEY ??
-  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ??
-  ""
+// ── Query genérica (devuelve filas) ───────────────────────────────────────────
 
-const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, {
-  auth: { persistSession: false },
-})
-
-// ── Tipos ────────────────────────────────────────────────────────────────────
-export type Range = "7d" | "15d" | "30d" | "all"
-
-export interface Bounds {
-  since:     string | null   // ISO inicio del período actual
-  prevSince: string | null   // ISO inicio del período anterior
-  prevUntil: string | null   // ISO fin del período anterior (= since)
-  days:      number | null   // días del período (null = "all")
+export function createAdminClient() {
+  return createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.SUPABASE_SERVICE_ROLE_KEY!,
+    {
+      auth: { autoRefreshToken: false, persistSession: false },
+    }
+  )
 }
 
-export interface QuizRow {
+async function adminQuery<T>(
+  path: string,
+  params?: Record<string, string>
+): Promise<T[]> {
+  if (!SUPABASE_URL || !SERVICE_ROLE_KEY) return []
+
+  const url = new URL(`${SUPABASE_URL}/rest/v1/${path}`)
+  if (params) {
+    Object.entries(params).forEach(([k, v]) => url.searchParams.set(k, v))
+  }
+
+  try {
+    const res = await fetch(url.toString(), {
+      headers: {
+        "apikey":        SERVICE_ROLE_KEY,
+        "Authorization": `Bearer ${SERVICE_ROLE_KEY}`,
+        "Accept":        "application/json",
+      },
+      cache: "no-store",
+    })
+    if (!res.ok) return []
+    return res.json() as Promise<T[]>
+  } catch {
+    return []
+  }
+}
+
+// ── Query de conteo (usa el header Prefer: count=exact de Supabase) ───────────
+// No trae filas — solo devuelve el número exacto desde la DB.
+
+async function adminCount(
+  path: string,
+  params?: Record<string, string>
+): Promise<number> {
+  if (!SUPABASE_URL || !SERVICE_ROLE_KEY) return 0
+
+  const url = new URL(`${SUPABASE_URL}/rest/v1/${path}`)
+  // select vacío para no traer datos, solo el header Content-Range
+  url.searchParams.set("select", "id")
+  if (params) {
+    Object.entries(params).forEach(([k, v]) => url.searchParams.set(k, v))
+  }
+
+  try {
+    const res = await fetch(url.toString(), {
+      headers: {
+        "apikey":        SERVICE_ROLE_KEY,
+        "Authorization": `Bearer ${SERVICE_ROLE_KEY}`,
+        "Accept":        "application/json",
+        // Este header le dice a Supabase que cuente todas las filas exactas
+        "Prefer":        "count=exact",
+        // Range vacío para no traer ninguna fila (solo el conteo)
+        "Range":         "0-0",
+      },
+      cache: "no-store",
+    })
+
+    // Supabase devuelve el total en el header Content-Range: 0-0/TOTAL
+    const contentRange = res.headers.get("content-range")
+    if (contentRange) {
+      // Formato: "0-0/1234" → extraemos 1234
+      const total = contentRange.split("/")[1]
+      if (total && total !== "*") return parseInt(total, 10)
+    }
+    return 0
+  } catch {
+    return 0
+  }
+}
+
+// ── Tipos ─────────────────────────────────────────────────────────────────────
+
+type QuizRow = {
+  id: string
+  percentage: number
+  category_name: string
+  course_type: string
+}
+
+type ReportRow = {
   id: string
   lesson_id?: string | null
   lesson_title: string
