@@ -1,8 +1,21 @@
 // lib/supabase-admin.ts
+
+import { createClient } from "@supabase/supabase-js"
+
 const SUPABASE_URL     = process.env.NEXT_PUBLIC_SUPABASE_URL ?? ""
 const SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY ?? ""
 
 // ── Query genérica (devuelve filas) ───────────────────────────────────────────
+
+export function createAdminClient() {
+  return createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.SUPABASE_SERVICE_ROLE_KEY!,
+    {
+      auth: { autoRefreshToken: false, persistSession: false },
+    }
+  )
+}
 
 async function adminQuery<T>(
   path: string,

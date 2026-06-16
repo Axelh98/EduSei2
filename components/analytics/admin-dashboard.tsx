@@ -398,7 +398,7 @@ export function AdminDashboard({
 function KpiCard({
   icon: Icon, label, value, color, small = false,
 }: {
-  icon: React.ComponentType<{ className?: string }>
+  icon: React.ComponentType<{ className?: string; style?: React.CSSProperties }>
   label: string
   value: string | number
   color: string
