@@ -4,6 +4,8 @@
 //  - Importa OverridePicker y recovery-format
 //  - handleShare ahora abre el picker antes de generar el link
 //  - Si hay overrides seleccionados, usa formato v2; si no, usa el formato original
+//  - Usa shareViaWhatsApp() para compatibilidad con Safari iOS
+//  - Muestra toast indicando que el mensaje quedó copiado al portapapeles
 
 import { useState, use, useMemo, useEffect } from "react"
 import { createPortal } from "react-dom"
@@ -24,13 +26,13 @@ import {
 } from "@/lib/quiz-data"
 import {
   encodeRecoveryPayload,
-  encodeOldFormat,
   hasOverrides,
   type RecoveryItem,
 } from "@/lib/recovery-format"
 import { generateAssignmentMessage } from "@/lib/utils"
+import { shareViaWhatsApp } from "@/lib/whatsapp-share"
 import { trackLessonsShared } from "@/lib/analytics"
-import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X } from "lucide-react"
+import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X, Check } from "lucide-react"
 import Link from "next/link"
 import { cn } from "@/lib/utils"
 
@@ -46,14 +48,20 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const [selectedLessons, setSelectedLessons] = useState<string[]>([])
   const [mounted, setMounted]     = useState(false)
   const [showPicker, setShowPicker] = useState(false)
+  const [showCopiedToast, setShowCopiedToast] = useState(false)
 
   useEffect(() => { setMounted(true) }, [])
 
+  // Auto-ocultar el toast después de unos segundos
+  useEffect(() => {
+    if (!showCopiedToast) return
+    const t = setTimeout(() => setShowCopiedToast(false), 4500)
+    return () => clearTimeout(t)
+  }, [showCopiedToast])
+
   // Necesario antes de los useMemo para que TypeScript estreche el tipo.
-  // notFound() lanza internamente pero TS no lo infiere como "never",
-  // así que usamos una aserción de tipo explícita debajo del guard.
   if (!category) notFound()
-  const cat = category!   // aserción segura: notFound() ya habrá lanzado si era undefined
+  const cat = category!
 
   const semesterSiblings = useMemo(
     () => getSemesterSiblings(cat),
@@ -115,11 +123,9 @@ export default function CategoryPage({ params }: CategoryPageProps) {
     const baseUrl = window.location.origin
 
     if (hasOverrides(items)) {
-      // Formato nuevo (v2) cuando hay al menos un override
       const encoded = encodeRecoveryPayload(items)
       recoveryUrl = `${baseUrl}/recuperar?data=${encoded}`
     } else {
-      // Formato viejo cuando no hay overrides — igual que antes
       const data = `${categoryId}:${selectedLessons.join(",")}`
       recoveryUrl = `${baseUrl}/recuperar?data=${encodeURIComponent(data)}`
     }
@@ -131,7 +137,11 @@ export default function CategoryPage({ params }: CategoryPageProps) {
       recoveryUrl
     )
 
-    window.open(`https://wa.me/?text=${encodeURIComponent(mensaje)}`, "_blank")
+    // Compartir con compatibilidad mejorada en Safari iOS.
+    // shareViaWhatsApp() debe ejecutarse sincrónicamente en este handler
+    // (sin await previo) para que iOS Safari no bloquee la navegación.
+    shareViaWhatsApp(mensaje)
+    setShowCopiedToast(true)
   }
 
   // ── FAB ───────────────────────────────────────────────────
@@ -173,7 +183,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
       )
     : null
 
-  // ── Portal del OverridePicker (fuera del árbol para evitar button anidado) ──
+  // ── Portal del OverridePicker ─────────────────────────────
   const pickerPortal = mounted && showPicker
     ? createPortal(
         <OverridePicker
@@ -185,10 +195,42 @@ export default function CategoryPage({ params }: CategoryPageProps) {
       )
     : null
 
+  // ── Toast: mensaje copiado al portapapeles ────────────────
+  const copiedToast = mounted && showCopiedToast
+    ? createPortal(
+        <div
+          role="status"
+          aria-live="polite"
+          className="fixed top-6 left-1/2 z-[10000] -translate-x-1/2 flex items-start gap-3 rounded-xl border border-border bg-card px-4 py-3 shadow-2xl animate-in fade-in slide-in-from-top-4 max-w-sm"
+        >
+          <div className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-[#25D366]">
+            <Check className="h-4 w-4 text-white" aria-hidden="true" />
+          </div>
+          <div className="flex-1">
+            <p className="text-sm font-semibold text-foreground">
+              Mensaje copiado al portapapeles
+            </p>
+            <p className="mt-0.5 text-xs text-muted-foreground leading-relaxed">
+              Si WhatsApp no muestra el texto automáticamente, pegalo en el chat (mantené presionado → Pegar).
+            </p>
+          </div>
+          <button
+            onClick={() => setShowCopiedToast(false)}
+            aria-label="Cerrar"
+            className="rounded-full p-1 hover:bg-muted transition-colors shrink-0"
+          >
+            <X className="h-3.5 w-3.5 text-muted-foreground" aria-hidden="true" />
+          </button>
+        </div>,
+        document.body
+      )
+    : null
+
   return (
     <>
       {fab}
       {pickerPortal}
+      {copiedToast}
 
       <div className="flex min-h-screen flex-col bg-background">
         <SiteHeader />
