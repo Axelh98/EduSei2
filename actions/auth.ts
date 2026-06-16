@@ -61,12 +61,20 @@ export async function signupWithInvite(params: SignupParams) {
 
   const supabase = await createServerSupabaseClient()
 
-  // 1. Validar que el código exista
+  // 1. Validar que el código exista. Normalizamos a minúsculas porque
+  // el código se guarda en minúsculas pero se MUESTRA en mayúsculas
+  // (ver InviteCodeDisplay), así que el usuario puede pegarlo en cualquier case.
+  const normalizedCode = inviteCode.trim().toLowerCase()
+
   const { data: clase, error: claseError } = await supabase
     .from("classes")
     .select("id, name")
-    .eq("invite_code", inviteCode.trim())
+    .eq("invite_code", normalizedCode)
     .single()
+
+  if (claseError) {
+    console.log("[signupWithInvite] Error buscando clase por invite_code:", claseError.code, claseError.message)
+  }
 
   if (claseError || !clase) {
     return { error: "El código de invitación no es válido" }
@@ -84,7 +92,11 @@ export async function signupWithInvite(params: SignupParams) {
         emailRedirectTo: `${process.env.NEXT_PUBLIC_SITE_URL ?? ""}/`,
       },
     })
-    if (error) return { error: parseAuthError(error.message) }
+    if (error) {
+      console.log("[signupWithInvite] Error de Supabase Auth (signUp):", error.status, error.message)
+      return { error: parseAuthError(error.message) }
+    }
+    console.log("[signupWithInvite] Usuario creado en auth:", data.user?.id, "| session:", !!data.session)
     userId = data.user?.id ?? null
   } else {
     const { data, error } = await supabase.auth.signInWithOtp({
@@ -94,7 +106,10 @@ export async function signupWithInvite(params: SignupParams) {
         emailRedirectTo: `${process.env.NEXT_PUBLIC_SITE_URL ?? ""}/?invite=${inviteCode}`,
       },
     })
-    if (error) return { error: parseAuthError(error.message) }
+    if (error) {
+      console.log("[signupWithInvite] Error de Supabase Auth (signInWithOtp):", error.status, error.message)
+      return { error: parseAuthError(error.message) }
+    }
     // En modo magic, el usuario completa el flujo al hacer clic en el email.
     // Devolvemos success y el cliente muestra el mensaje correspondiente.
     return {
@@ -108,7 +123,7 @@ export async function signupWithInvite(params: SignupParams) {
   // (idealmente con un trigger DB o en el callback de auth).
   if (userId) {
     // Pre-cargado? — actualizar fila existente
-    const { data: pending } = await supabase
+    const { data: pending, error: pendingError } = await supabase
       .from("class_members")
       .select("id")
       .eq("class_id", clase.id)
@@ -116,24 +131,37 @@ export async function signupWithInvite(params: SignupParams) {
       .is("user_id", null)
       .maybeSingle()
 
+    if (pendingError) {
+      console.log("[signupWithInvite] Error buscando pending member:", pendingError.code, pendingError.message)
+    }
+
     if (pending) {
-      await supabase
+      const { error: updateError } = await supabase
         .from("class_members")
         .update({ user_id: userId, email: null, status: "active" })
         .eq("id", pending.id)
+      if (updateError) console.log("[signupWithInvite] Error actualizando member pendiente:", updateError.code, updateError.message)
     } else {
-      await supabase
+      const { error: insertError } = await supabase
         .from("class_members")
         .insert({ class_id: clase.id, user_id: userId, status: "active" })
+      if (insertError) console.log("[signupWithInvite] Error insertando member:", insertError.code, insertError.message, insertError.details)
     }
 
     // Asegurar que el profile tenga full_name y rol de estudiante
-    await supabase
+    const { error: profileError } = await supabase
       .from("profiles")
       .upsert({ id: userId, full_name: fullName.trim(), role: "estudiante" })
+    if (profileError) {
+      console.log("[signupWithInvite] Error en upsert de profile:", profileError.code, profileError.message)
+    }
   }
 
-  redirect("/")
+  console.log("[signupWithInvite] Signup completo, devolviendo success")
+  // No usamos redirect() acá: dentro de startTransition() en el cliente,
+  // redirect() tira una excepción que no se propaga bien. Devolvemos un
+  // flag y el cliente navega con router.push().
+  return { success: "¡Cuenta creada! Ya estás enrolado en tu clase.", done: true }
 }
 
 function parseAuthError(message: string): string {
@@ -143,5 +171,7 @@ function parseAuthError(message: string): string {
   if (message.includes("Password")) {
     return "La contraseña no cumple los requisitos mínimos"
   }
-  return "No pudimos crear la cuenta. Intentá de nuevo."
+  // En vez de esconder el error real detrás de un mensaje genérico,
+  // lo mostramos — así se ve en pantalla sin tener que mirar logs.
+  return `No pudimos crear la cuenta: ${message}`
 }

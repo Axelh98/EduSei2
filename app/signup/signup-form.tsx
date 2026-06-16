@@ -3,6 +3,7 @@
 
 import { useState, useTransition } from "react"
 import Link from "next/link"
+import { useRouter } from "next/navigation"
 import { GraduationCap, KeyRound } from "lucide-react"
 import { signupWithInvite } from "@/actions/auth"
 
@@ -11,6 +12,7 @@ interface Props {
 }
 
 export function SignupForm({ initialInvite }: Props) {
+  const router = useRouter()
   const [mode, setMode]              = useState<"password" | "magic">("password")
   const [error, setError]            = useState<string | null>(null)
   const [success, setSuccess]        = useState<string | null>(null)
@@ -31,8 +33,24 @@ export function SignupForm({ initialInvite }: Props) {
 
     startTransition(async () => {
       const result = await signupWithInvite(params)
-      if (result?.error) setError(result.error)
-      else if (result && "success" in result) setSuccess(result.success ?? null)
+      console.log("[SignupForm] Resultado de signupWithInvite:", result)
+
+      if (!result) {
+        setError("El servidor no respondió. Revisá la consola del servidor.")
+        return
+      }
+      if ("error" in result && result.error) {
+        setError(result.error)
+        return
+      }
+      if ("success" in result && result.success) {
+        setSuccess(result.success)
+        // Si done:true, el signup con password ya enroló al usuario
+        // y tiene sesión activa — navegamos al inicio.
+        if ("done" in result && result.done) {
+          setTimeout(() => router.push("/"), 1200)
+        }
+      }
     })
   }
 
