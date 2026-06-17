@@ -11,27 +11,35 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "El Señor ha diseñado un sistema de bienestar que refleja Su carácter: primero, cada persona se esfuerza por ser autosuficiente; luego, las familias se ayudan entre sí; después, la Iglesia complementa lo que los individuos no pueden cubrir solos. Cuidar de los necesitados no es solo caridad; es el principio del amor puro de Cristo aplicado a las necesidades temporales.",
+        contenido: "¿Conocés a alguien que sea realmente autosuficiente? José de Egipto lo fue. Aprendió a trabajar, a confiar en el Señor y a tomar decisiones difíciles incluso cuando nadie lo estaba mirando. Por eso, cuando llegó el momento, el Señor pudo usarlo para salvar a toda su familia de morir de hambre. Su autosuficiencia no fue solo para él: terminó siendo una bendición para muchas otras personas. Lo mismo pasó con Amulek. Era un hombre que sabía manejar su propia vida y sus propios recursos. Por eso, cuando el profeta Alma llegó a su puerta, hambriento y sin nada, Amulek pudo recibirlo en su casa y cuidarlo. Si Amulek hubiera dependido de otros para todo, no habría tenido nada para compartir. Acá está el principio central: cuidar de nosotros mismos no es egoísmo. Es lo que nos prepara para poder cuidar a otros. Pensalo así: si nunca aprendiste a cocinar, no podés cocinarle a un amigo que la está pasando mal. Si nunca aprendiste a manejar tu plata, no vas a tener nada guardado para ayudar a alguien en una emergencia. La autosuficiencia y el servicio no son caminos separados; el primero hace posible el segundo.",
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2014",
-        texto: "No podemos pretender que amamos a Dios si ignoramos a los necesitados que están a nuestro alrededor. La caridad genuina se manifiesta en actos concretos de servicio.",
+        autor: "Élder Hugo E. Martínez",
+        fuente: "Liahona, noviembre de 2017",
+        texto: "La autosuficiencia es una doctrina del evangelio de Jesucristo, no un programa.",
       },
       {
         tipo: "escrituras",
         citas: [
+          { referencia: "Mosíah 4:26", texto: "...quisiera que de vuestros bienes dieseis al pobre, cada cual según lo que tuviere, tal como alimentar al hambriento, vestir al desnudo, visitar al enfermo, y ministrar para su alivio, tanto espiritual como temporalmente, según sus necesidades.", link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p26#p26" },
           { referencia: "Mateo 25:40", texto: "En cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis.", link: "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=spa&id=p40#p40" },
-          { referencia: "Mosíah 4:26", texto: "Os exhorto a que deis de vuestra sustancia a los pobres, cada uno según lo que tiene: alimentar a los hambrientos, vestir a los desnudos, visitar a los enfermos.", link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p26#p26" },
+          { referencia: "Alma 15:18", texto: "Y aconteció que después de que hubieron sanado de sus heridas... establecieron una iglesia en aquella tierra...", link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=spa&id=p18#p18" },
         ],
+      },
+      {
+        tipo: "conclusion",
+        contenido: "Trabajar en tu propia autosuficiencia —ya sea estudiando, ahorrando, aprendiendo una habilidad o haciéndote cargo de tus responsabilidades en casa— no te aleja de servir a otros. Te prepara para hacerlo de verdad. Esta semana, identificá un área donde podrías depender menos de otros para algo que sí podés aprender a hacer vos mismo. Esa es la base desde la cual vas a poder ayudar a alguien que lo necesite.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Cómo balanceas la responsabilidad de proveer para ti mismo con la responsabilidad de ayudar a los demás?",
-          "¿Qué oportunidades tienes ahora mismo de cuidar de alguien que lo necesita?",
-          "¿De qué manera el servicio a los necesitados puede fortalecer tu propio testimonio y discipulado?",
+          "¿Quién te parece que es un buen ejemplo de autosuficiencia en tu vida? ¿Qué hace esa persona que te llama la atención?",
+          "¿Alguna vez pudiste ayudar a alguien justamente porque vos ya tenías algo resuelto en tu propia vida?",
+          "¿En qué área de tu vida sentís que dependés demasiado de otros para algo que podrías aprender a hacer vos mismo?",
+          "¿Qué relación ves entre la historia de José en Egipto y la idea de que la autosuficiencia te prepara para servir?",
+          "¿A quién podrías ayudar esta semana, aunque sea con algo pequeño, usando algo que ya sabés hacer bien?",
+          "¿Qué paso concreto podrías dar esta semana para ser un poco más autosuficiente en algo específico?",
         ],
       },
     ],
@@ -46,27 +54,34 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Las ordenanzas del templo incluyen convenios específicos que los Santos hacen con el Padre Celestial. Entre los más importantes están la ley de obediencia —consagrarse a vivir de acuerdo con los mandamientos— y la ley de sacrificio —dedicar tiempo, talentos y recursos al fortalecimiento de la Iglesia. Esta lección ayuda a los alumnos a entender el significado de esos convenios antes de recibirlos.",
+        contenido: "El Padre Celestial ama a todos sus hijos. Una de las formas en que demuestra ese amor es invitándolos a hacer convenios con Él en el templo. Entre esos convenios están la ley de obediencia y la ley de sacrificio. La ley de obediencia significa esforzarse por guardar los mandamientos del Padre Celestial. No se trata de obedecer por miedo, sino de confiar en que Sus mandamientos existen para protegernos y ayudarnos a llegar a ser como Él. La ley de sacrificio significa entregar tiempo, talentos y todo lo que el Señor nos ha dado para edificar Su Iglesia, y también acercarnos a Él con un corazón quebrantado cuando nos arrepentimos. Estas dos leyes no son una carga extra que se suma a tu vida espiritual: son una invitación a vivir con un propósito más claro. Pensá en Abraham: en una visión, aprendió que el Padre Celestial probaría a Sus hijos para ver si harían todo lo que Él les pidiera. Esa prueba no es un examen para hacernos fallar; es una oportunidad para crecer en fe y en confianza. Antes de hacer estos convenios en el templo, vale la pena entender qué significan y por qué importan, así no llegás a ese momento sintiendo que es algo desconocido, sino algo que ya empezaste a vivir.",
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, noviembre de 2009",
-        texto: "Los convenios del templo no son una carga; son la mayor fuente de poder espiritual disponible en la tierra. Cuando obedecemos por amor y sacrificamos por genuina devoción, el poder de los convenios fluye libremente en nuestra vida.",
+        autor: "William Oswald",
+        fuente: "Liahona, enero de 2008",
+        texto: "Muchas veces, nuestra obediencia a los mandamientos de Dios se convierte en la misma armadura que nos protege del mal.",
       },
       {
         tipo: "escrituras",
         citas: [
           { referencia: "Abraham 3:25", texto: "Y los probaremos con esto, para ver si harán todas las cosas que el Señor su Dios les mandare.", link: "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=spa&id=p25#p25" },
-          { referencia: "Lucas 22:42", texto: "No se haga mi voluntad, sino la tuya.", link: "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/22?lang=spa&id=p42#p42" },
+          { referencia: "Doctrina y Convenios 97:8", texto: "Pues yo, el Señor, exijo el corazón y una mente dispuesta...", link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa&id=p8#p8" },
         ],
+      },
+      {
+        tipo: "conclusion",
+        contenido: "Los convenios de obediencia y sacrificio no buscan quitarte algo, sino ayudarte a llegar a ser más como el Padre Celestial y el Salvador. Cada vez que elegís obedecer un mandamiento aunque sea difícil, o cuando entregás tu tiempo o tus recursos para servir en la Iglesia, ya estás viviendo el espíritu de estos convenios antes de hacerlos formalmente en el templo. Esta semana, identificá una manera concreta de practicar uno de estos dos principios, aunque sea en algo pequeño.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Cómo ves la diferencia entre obedecer por miedo a las consecuencias y obedecer por amor al Señor?",
-          "¿De qué maneras ya estás viviendo el principio del sacrificio en tu vida ahora mismo?",
-          "¿Cómo te preparas espiritual y actitudinalmente para hacer los convenios del templo?",
+          "¿Qué mandamiento te resulta más fácil de obedecer y cuál te cuesta más?",
+          "¿Alguna vez sacrificaste algo tuyo —tiempo, plata, comodidad— para servir a alguien o a la Iglesia? ¿Cómo te sentiste después?",
+          "¿Qué diferencia hay, para vos, entre obedecer por miedo y obedecer por amor a Dios?",
+          "¿De qué manera ya estás practicando el principio del sacrificio en tu vida diaria, aunque no lo hayas hecho como convenio formal todavía?",
+          "¿Qué decisión pequeña pero concreta podrías tomar esta semana para practicar la ley de obediencia?",
+          "¿Hay algo —tiempo, talento, comodidad— que podrías ofrecer esta semana para servir a otra persona o a tu congregación?",
         ],
       },
     ],
@@ -81,13 +96,13 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Durante cuarenta días, Goliat desafió al ejército de Israel y nadie respondió. Cuando el joven David llegó al campamento, reaccionó de manera completamente diferente: no vio un gigante imposible de vencer; vio a alguien que había desafiado al ejército del Dios vivo. David había enfrentado antes leones y osos mientras cuidaba ovejas, y el Señor lo había librado. Esa experiencia previa fue la base de su confianza ante Goliat.",
+        contenido: "Durante cuarenta días, el gigante filisteo Goliat desafió al ejército de Israel y nadie se atrevió a responder. Medía más de dos metros y setenta centímetros, y su armadura sola pesaba más de cincuenta kilos. Cuando el joven David llegó al campamento llevando comida para sus hermanos, escuchó el desafío y reaccionó completamente distinto a los soldados israelitas, que estaban paralizados de miedo. David no vio un enemigo imposible de vencer. Vio a alguien que se había atrevido a desafiar al ejército del Dios viviente, y eso lo indignó más que el tamaño del gigante. ¿De dónde sacó esa confianza un pastor adolescente frente a un guerrero experimentado? David ya había enfrentado leones y osos mientras cuidaba las ovejas de su padre, y el Señor lo había librado cada vez. Esa experiencia previa con el poder de Dios fue la base real de su valentía: no era que David se sintiera invencible, sino que recordaba con claridad cómo Dios ya había estado con él antes. Por eso pudo decirle a Saúl, con total seguridad, que el mismo Jehová que lo había librado del león y del oso lo libraría también del filisteo. Y así fue: con una honda, cinco piedras y una fe construida sobre experiencias reales, David venció al gigante que paralizaba a todo un ejército.",
       },
       {
         tipo: "enseñanza",
-        autor: "Presidenta Camille N. Johnson",
-        fuente: "Liahona, noviembre de 2021",
-        texto: "Tu historia, aunque no tan famosa como la de David, con seguridad incluirá desafíos del tamaño de un Goliat. La confianza en Dios crece cuando recuerdas las veces pasadas en que Él estuvo contigo.",
+        autor: "Presidente Gordon B. Hinckley",
+        fuente: "Liahona, junio de 2008",
+        texto: "Hay Goliats por todas partes, gigantes enormes con la intención de destruirte. No son hombres de tres metros, pero son personas e instituciones que ofrecen cosas atractivas pero dañinas que pueden desafiarte y debilitarte.",
       },
       {
         tipo: "escrituras",
@@ -97,11 +112,18 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
         ],
       },
       {
+        tipo: "conclusion",
+        contenido: "Recordar cómo el Señor te ayudó en el pasado fortalece tu fe para enfrentar lo que tenés por delante ahora. David no inventó su confianza de la nada; la construyó recordando momentos concretos en los que Dios ya había estado con él. Vos también tenés esos momentos en tu propia historia, aunque no sean tan dramáticos como pelear contra un gigante. Esta semana, escribí en algún lugar un momento específico en que sentiste la ayuda de Dios, y volvé a leerlo cuando enfrentes tu próximo Goliat.",
+      },
+      {
         tipo: "cuestionario",
         preguntas: [
-          "¿Cuál es el 'Goliat' más grande que enfrentas en este momento de tu vida?",
-          "¿Qué experiencias pasadas con el poder del Señor pueden darte confianza para enfrentar ese desafío?",
-          "¿Qué diferencia hace en tus batallas personales recordar que 'de Jehová es la batalla'?",
+          "¿Con qué personaje de esta historia te identificás más: con David, con sus hermanos, o con el resto del ejército que tenía miedo?",
+          "¿Cuál es el 'Goliat' más grande que estás enfrentando en este momento de tu vida?",
+          "¿Hubo alguna vez que actuaste con fe en una situación difícil antes de tener todas las respuestas?",
+          "¿Qué experiencia pasada con la ayuda de Dios podés usar, como hizo David, para enfrentar con confianza tu desafío actual?",
+          "¿A quién podrías contarle esta semana sobre un momento en que sentiste que Dios te ayudó?",
+          "¿Qué decisión pequeña pero real podrías tomar esta semana para enfrentar tu Goliat con más fe?",
         ],
       },
     ],
@@ -116,7 +138,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Nabal insultó a David cuando este le pidió ayuda. David, ofendido, se preparó para vengarse. Pero Abigaíl —la esposa inteligente y valiente de Nabal— actuó con rapidez: salió al encuentro de David y su intercesión salvó tanto a su familia como a David de cometer una injusticia. En este relato, los eruditos ven en Abigaíl un tipo de Jesucristo: alguien que se interpone entre el juicio justo y aquellos que lo merecen.",
+        contenido: "Nabal era un hombre rico, pero también orgulloso y grosero. Cuando los hombres de David —que habían protegido los rebaños de Nabal sin pedir nada a cambio— le pidieron provisiones, Nabal los insultó y se negó a ayudarlos. David se enfureció y reunió a cuatrocientos hombres armados, decidido a vengarse matando a Nabal y a toda su casa. En ese momento de furia, una sola persona se interpuso entre la decisión de David y la tragedia que estaba a punto de ocurrir: Abigaíl, la esposa de Nabal. Apenas se enteró de lo que había pasado, actuó rápido. Sin consultarle a su esposo, preparó comida en abundancia y salió al encuentro de David en el camino. Se inclinó ante él, asumió la culpa de su esposo como si fuera propia, y le pidió perdón en su nombre. David, conmovido por su sabiduría y su humildad, se detuvo. No mató a nadie esa noche. Los eruditos ven en Abigaíl algo más que una mujer valiente: la ven como un tipo, o símbolo, de Jesucristo. Así como ella se interpuso entre la furia justa de David y la familia que merecía el castigo, Jesucristo se interpone entre la justicia de Dios y nosotros, cargando con lo que no le correspondía para que pudiéramos recibir perdón.",
       },
       {
         tipo: "enseñanza",
@@ -132,11 +154,18 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
         ],
       },
       {
+        tipo: "conclusion",
+        contenido: "Una sola decisión recta —la de Abigaíl, actuando rápido y con humildad— evitó una tragedia y cambió el curso de varias vidas. Lo mismo pasa con tus propias decisiones: una elección correcta, aunque parezca pequeña, puede proteger a otros de consecuencias que ni siquiera imaginás. Y, sobre todo, esta historia es un recordatorio de que Jesucristo hace exactamente eso por vos todos los días: se interpone entre tus errores y lo que merecerías recibir por ellos.",
+      },
+      {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué cualidades de Abigaíl te impresionan más? ¿Cuáles te gustaría desarrollar?",
-          "¿De qué manera ves la conexión entre Abigaíl como intercesora y Jesucristo como nuestro intercesor eterno?",
-          "¿Hay alguien en tu vida a quien puedas actuar como 'Abigaíl' para alguien que esté en conflicto?",
+          "¿Qué cualidades de Abigaíl te impresionan más?",
+          "¿Alguna vez una decisión tuya, o de otra persona, evitó que algo malo pasara?",
+          "¿De qué manera ves la conexión entre lo que hizo Abigaíl y lo que Jesucristo hace por nosotros?",
+          "¿Hay alguien en tu vida a quien puedas actuar como 'Abigaíl', interponiéndote con paciencia en lugar de sumarte al conflicto?",
+          "¿A quién podrías ayudar esta semana actuando con la misma rapidez y humildad que tuvo Abigaíl?",
+          "¿Qué decisión pequeña podrías tomar esta semana para evitar un conflicto en lugar de alimentarlo?",
         ],
       },
     ],
