@@ -242,7 +242,7 @@ export function AdminDashboard({
                 Panel de administración
               </p>
               <h1 className="mt-0.5 text-xl font-bold text-foreground">
-                MSI Analytics
+                AulaSEI Analytics
               </h1>
             </div>
             <RangeSelector value={range} />
