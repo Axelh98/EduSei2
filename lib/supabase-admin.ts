@@ -106,7 +106,45 @@ function avg(arr: number[]): number {
   return Math.round(arr.reduce((a, b) => a + b, 0) / arr.length)
 }
 
+// ── Paginación a prueba del límite "Max Rows" de Supabase ───────────────────
+// Supabase/PostgREST corta cada respuesta en el server (default 1000 filas,
+// configurable en Settings → API, pero nunca hay que depender de eso). Un
+// `.limit(10000)` del lado del cliente NO lo evita — el server igual corta.
+// La única forma confiable de traer "todo" es pedir de a páginas con
+// `.range()` y seguir pidiendo hasta que vuelva una página incompleta.
+
+const PAGE_SIZE = 1000
+
+async function fetchAllRows<T>(
+  buildQuery: () => any, // debe devolver una query NUEVA y sin .range() cada vez
+  hardCap = 50_000,       // tope de seguridad para no loopear infinito
+): Promise<T[]> {
+  const rows: T[] = []
+  let from = 0
+
+  while (true) {
+    const { data, error } = await buildQuery().range(from, from + PAGE_SIZE - 1)
+
+    if (error) {
+      console.warn("[supabase-admin] fetchAllRows error:", error.message)
+      break
+    }
+    if (!data || data.length === 0) break
+
+    rows.push(...(data as T[]))
+
+    if (data.length < PAGE_SIZE) break // última página, ya trajimos todo
+    from += PAGE_SIZE
+    if (rows.length >= hardCap) break
+  }
+
+  return rows
+}
+
 // ── Conteos exactos sin traer filas ──────────────────────────────────────────
+// Estos YA eran inmunes al límite de 1000: { count: "exact" } le pide a
+// Postgres el total real vía el header Content-Range, sin importar cuántas
+// filas se devuelvan en el body (acá pedimos 0 con head:true).
 
 async function countEvents(
   eventType: string,
@@ -144,9 +182,7 @@ async function countPageViews(
   return count ?? 0
 }
 
-// ── Serie diaria para sparklines ─────────────────────────────────────────────
-// Versión "client-side aggregation". Para producción a escala, conviene mover
-// esto a una SQL function o vista materializada.
+// ── Serie diaria para sparklines (ahora paginada) ────────────────────────────
 
 async function dailySeries(
   eventType: string,
@@ -154,45 +190,13 @@ async function dailySeries(
 ): Promise<DailyPoint[]> {
   const since = new Date(Date.now() - days * 86_400_000).toISOString()
 
-  const { data, error } = await supabase
-    .from("events")
-    .select("created_at")
-    .eq("event_type", eventType)
-    .gte("created_at", since)
-    .limit(50_000)
-
-  if (error) {
-    console.warn("[supabase-admin] dailySeries error:", eventType, error.message)
-    return []
-  }
-
-  async function dailyPageViewSeries(days: number): Promise<DailyPoint[]> {
-  const since = new Date(Date.now() - days * 86_400_000).toISOString()
-
-  const { data, error } = await supabase
-    .from("page_views")
-    .select("created_at")
-    .gte("created_at", since)
-    .limit(50_000)
-
-  if (error) {
-    console.warn("[supabase-admin] dailyPageViewSeries error:", error.message)
-    return []
-  }
-
-  const buckets: Record<string, number> = {}
-  for (let i = days - 1; i >= 0; i--) {
-    const d = new Date(Date.now() - i * 86_400_000).toISOString().slice(0, 10)
-    buckets[d] = 0
-  }
-
-  for (const row of data ?? []) {
-    const d = (row.created_at as string).slice(0, 10)
-    if (d in buckets) buckets[d]++
-  }
-
-  return Object.entries(buckets).map(([day, count]) => ({ day, count }))
-}
+  const rows = await fetchAllRows<{ created_at: string }>(() =>
+    supabase
+      .from("events")
+      .select("created_at")
+      .eq("event_type", eventType)
+      .gte("created_at", since),
+  )
 
   // Pre-poblar buckets para los últimos `days` días, en orden cronológico
   const buckets: Record<string, number> = {}
@@ -201,8 +205,32 @@ async function dailySeries(
     buckets[d] = 0
   }
 
-  for (const row of data ?? []) {
-    const d = (row.created_at as string).slice(0, 10)
+  for (const row of rows) {
+    const d = row.created_at.slice(0, 10)
+    if (d in buckets) buckets[d]++
+  }
+
+  return Object.entries(buckets).map(([day, count]) => ({ day, count }))
+}
+
+async function dailyPageViewSeries(days: number): Promise<DailyPoint[]> {
+  const since = new Date(Date.now() - days * 86_400_000).toISOString()
+
+  const rows = await fetchAllRows<{ created_at: string }>(() =>
+    supabase
+      .from("page_views")
+      .select("created_at")
+      .gte("created_at", since),
+  )
+
+  const buckets: Record<string, number> = {}
+  for (let i = days - 1; i >= 0; i--) {
+    const d = new Date(Date.now() - i * 86_400_000).toISOString().slice(0, 10)
+    buckets[d] = 0
+  }
+
+  for (const row of rows) {
+    const d = row.created_at.slice(0, 10)
     if (d in buckets) buckets[d]++
   }
 
@@ -217,31 +245,32 @@ export async function getAdminStats(range: Range): Promise<AdminStats> {
   const b = rangeBounds(range)
 
   // ── Quizzes del período actual (filas completas para charts en JS) ───────
-  let qz = supabase
-    .from("events")
-    .select("*")
-    .eq("event_type", "quiz_completed")
-    .order("created_at", { ascending: false })
-  if (b.since) qz = qz.gte("created_at", b.since)
+  // Paginado: antes era un único `.limit(10_000)` que el server cortaba en
+  // 1000 filas igual. Por eso el contador se quedaba pegado en 1000.
+  const quizzes = await fetchAllRows<QuizRow>(() => {
+    let q = supabase
+      .from("events")
+      .select("*")
+      .eq("event_type", "quiz_completed")
+      .order("created_at", { ascending: false })
+    if (b.since) q = q.gte("created_at", b.since)
+    return q
+  })
 
-  const { data: quizzesData, error: quizzesErr } = await qz.limit(10_000)
-  if (quizzesErr) {
-    console.warn("[supabase-admin] quizzes error:", quizzesErr.message)
-  }
-  const quizzes = (quizzesData ?? []) as QuizRow[]
-
-  // ── Quizzes del período anterior (solo lo necesario para delta) ──────────
-  let prevQz = supabase
-    .from("events")
-    .select("percentage", { count: "exact" })
-    .eq("event_type", "quiz_completed")
-  if (b.prevSince) prevQz = prevQz.gte("created_at", b.prevSince)
-  if (b.prevUntil) prevQz = prevQz.lt("created_at",  b.prevUntil)
-
-  const { data: prevQzData, count: prevQzCount } = await prevQz.limit(10_000)
-  const prevAvgScore = avg(
-    (prevQzData ?? []).map((q: { percentage: number }) => q.percentage),
-  )
+  // ── Quizzes del período anterior (solo lo necesario para el delta) ───────
+  const [prevQzRows, prevQuizzesCount] = await Promise.all([
+    fetchAllRows<{ percentage: number }>(() => {
+      let q = supabase
+        .from("events")
+        .select("percentage")
+        .eq("event_type", "quiz_completed")
+      if (b.prevSince) q = q.gte("created_at", b.prevSince)
+      if (b.prevUntil) q = q.lt("created_at",  b.prevUntil)
+      return q
+    }),
+    countEvents("quiz_completed", b.prevSince, b.prevUntil),
+  ])
+  const prevAvgScore = avg(prevQzRows.map((q) => q.percentage))
 
   // ── Conteos de eventos en paralelo (actual + anterior) ───────────────────
   const [
@@ -280,7 +309,7 @@ export async function getAdminStats(range: Range): Promise<AdminStats> {
     sharesCount,
     pageViewsCount,
     previous: {
-      quizzes:    prevQzCount ?? 0,
+      quizzes:    prevQuizzesCount,
       avgScore:   prevAvgScore,
       reports:    prevReports,
       recoveries: prevRecoveries,
@@ -299,6 +328,8 @@ export async function getAdminStats(range: Range): Promise<AdminStats> {
 }
 
 // ── Lista de quizzes recientes ───────────────────────────────────────────────
+// Acá NO hace falta paginar: pedimos explícitamente pocos resultados (25 por
+// defecto), muy por debajo del límite de 1000.
 
 export async function getRecentQuizzes(
   limit = 25,
@@ -327,27 +358,28 @@ export async function getRecentQuizzes(
 export async function getTopLessons(range: Range = "30d"): Promise<TopLesson[]> {
   const b = rangeBounds(range)
 
-  let q = supabase
-    .from("events")
-    .select("lesson_title, category_name, percentage")
-    .eq("event_type", "quiz_completed")
-  if (b.since) q = q.gte("created_at", b.since)
-
-  const { data, error } = await q.limit(10_000)
-  if (error) {
-    console.warn("[supabase-admin] getTopLessons error:", error.message)
-    return []
-  }
+  const rows = await fetchAllRows<{
+    lesson_title: string
+    category_name: string
+    percentage: number
+  }>(() => {
+    let q = supabase
+      .from("events")
+      .select("lesson_title, category_name, percentage")
+      .eq("event_type", "quiz_completed")
+    if (b.since) q = q.gte("created_at", b.since)
+    return q
+  })
 
   const map = new Map<string, { lesson_title: string; category_name: string; pcts: number[] }>()
-  for (const row of data ?? []) {
-    const title    = (row as any).lesson_title ?? "—"
-    const category = (row as any).category_name ?? "—"
+  for (const row of rows) {
+    const title    = row.lesson_title ?? "—"
+    const category = row.category_name ?? "—"
     const key      = `${title}::${category}`
     if (!map.has(key)) {
       map.set(key, { lesson_title: title, category_name: category, pcts: [] })
     }
-    map.get(key)!.pcts.push((row as any).percentage ?? 0)
+    map.get(key)!.pcts.push(row.percentage ?? 0)
   }
 
   return Array.from(map.values())
@@ -366,18 +398,15 @@ export async function getTopLessons(range: Range = "30d"): Promise<TopLesson[]> 
 export async function getTopPages(range: Range = "30d"): Promise<TopPage[]> {
   const b = rangeBounds(range)
 
-  let q = supabase.from("page_views").select("path")
-  if (b.since) q = q.gte("created_at", b.since)
-
-  const { data, error } = await q.limit(50_000)
-  if (error) {
-    console.warn("[supabase-admin] getTopPages error:", error.message)
-    return []
-  }
+  const rows = await fetchAllRows<{ path: string }>(() => {
+    let q = supabase.from("page_views").select("path")
+    if (b.since) q = q.gte("created_at", b.since)
+    return q
+  })
 
   const counts: Record<string, number> = {}
-  for (const row of data ?? []) {
-    const p = (row as any).path ?? "/"
+  for (const row of rows) {
+    const p = row.path ?? "/"
     counts[p] = (counts[p] ?? 0) + 1
   }
 
@@ -385,32 +414,4 @@ export async function getTopPages(range: Range = "30d"): Promise<TopPage[]> {
     .map(([path, views]) => ({ path, views }))
     .sort((a, b) => b.views - a.views)
     .slice(0, 30)
-}
-
-async function dailyPageViewSeries(days: number): Promise<DailyPoint[]> {
-  const since = new Date(Date.now() - days * 86_400_000).toISOString()
-
-  const { data, error } = await supabase
-    .from("page_views")
-    .select("created_at")
-    .gte("created_at", since)
-    .limit(50_000)
-
-  if (error) {
-    console.warn("[supabase-admin] dailyPageViewSeries error:", error.message)
-    return []
-  }
-
-  const buckets: Record<string, number> = {}
-  for (let i = days - 1; i >= 0; i--) {
-    const d = new Date(Date.now() - i * 86_400_000).toISOString().slice(0, 10)
-    buckets[d] = 0
-  }
-
-  for (const row of data ?? []) {
-    const d = (row as any).created_at.slice(0, 10)
-    if (d in buckets) buckets[d]++
-  }
-
-  return Object.entries(buckets).map(([day, count]) => ({ day, count }))
 }
