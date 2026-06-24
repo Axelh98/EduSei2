@@ -579,21 +579,22 @@ export const leccion75Questions: Question[] = [
   },
 ];
 
-// ============================================================================
+// ─────────────────────────────────────────────
 // LECCIÓN 77: 2 Samuel 11–12
-// Link: https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/251-2-samuel-11-12?lang=spa
-// ============================================================================
+// "No podemos ocultar nuestros pecados del Señor."
+// correctAnswer distribution: 1, 2, 1, 2, 3, 0, 1
+// ─────────────────────────────────────────────
 export const leccion77Questions: Question[] = [
   // RECUERDO 1
   {
     id: 1,
     question:
-      "El profeta Natán confrontó a David usando una parábola. ¿Qué personajes incluía esa parábola y qué acción injusta describía?",
+      "Según 2 Samuel 11, ¿cuál fue la primera decisión de David que lo puso en el camino del pecado?",
     options: [
-      "Un rey que robó el trono a un anciano juez, y el pueblo que no dijo nada por miedo.",
-      "Un hombre rico que tomó la única oveja querida de un hombre pobre, en lugar de usar sus propias ovejas.",
-      "Un pastor que abandonó a sus ovejas en el desierto para buscar riquezas en la ciudad.",
-      "Un soldado que se apropió del campo de su vecino mientras este estaba en la guerra.",
+      "Ordenar a su ejército que atacara en un momento estratégicamente equivocado.",
+      "Quedarse en el palacio cuando los reyes debían estar en la guerra, y desde la terraza ver a Betsabé.",
+      "Aceptar los consejos de sus funcionarios en lugar de consultar directamente al Señor.",
+      "Llamar a Urías al palacio antes de conocer los detalles del conflicto en el frente.",
     ],
     correctAnswer: 1,
   },
@@ -601,12 +602,111 @@ export const leccion77Questions: Question[] = [
   {
     id: 2,
     question:
-      "Cuando Natán terminó la parábola, David se indignó ante la injusticia del hombre rico. ¿Cómo respondió Natán ante esa reacción de David?",
+      "¿Qué estrategia usó el profeta Natán para confrontar a David con la gravedad de su pecado, según 2 Samuel 12?",
     options: [
-      "Le pidió que esperara antes de juzgar porque la historia era solo una ilustración.",
-      "Le dijo: 'Tú eres aquel hombre', revelando que la parábola describía lo que David había hecho.",
-      "Le explicó que la historia era sobre el rey anterior, Saúl, y no tenía relación con David.",
-      "Le preguntó qué castigo consideraba justo antes de revelarle la aplicación de la parábola.",
+      "Le leyó en voz alta el registro completo de sus acciones ante los ancianos de Israel.",
+      "Le pidió que se arrodillara frente al pueblo y confesara públicamente lo que había hecho.",
+      "Le contó una parábola sobre un hombre rico que robó la única oveja de un hombre pobre.",
+      "Le mostró una visión del juicio divino que le esperaba si no se arrepentía de inmediato.",
+    ],
+    correctAnswer: 2,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "David intentó encubrir su pecado durante varios meses sin buscar arrepentirse. ¿Qué enseña este patrón sobre la naturaleza del pecado que se oculta en lugar de confesarse?",
+    options: [
+      "Que encubrir un pecado requiere más pecados para mantenerlo oculto, alejándonos cada vez más de Dios.",
+      "Que los pecados graves solo producen consecuencias cuando el profeta los denuncia públicamente.",
+      "Que el Señor interviene con mayor urgencia cuando el pecado afecta a personas inocentes.",
+      "Que los líderes con autoridad tienen más herramientas para evitar que sus errores tengan consecuencias.",
+    ],
+    correctAnswer: 0,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "En el Salmo 51, escrito después de que Natán confrontó a David, él le pide al Señor que cree en él 'un corazón limpio'. ¿Qué revela esa petición sobre lo que David entendió del arrepentimiento?",
+    options: [
+      "Que el arrepentimiento consiste principalmente en mejorar la conducta visible ante los demás.",
+      "Que David creía que sus pecados eran demasiado graves para ser perdonados en su totalidad.",
+      "Que el arrepentimiento verdadero implica un cambio profundo del interior, no solo dejar de hacer el mal.",
+      "Que la purificación espiritual depende de las buenas obras futuras que compensen las malas del pasado.",
+    ],
+    correctAnswer: 2,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Joaquín cometió un error que nadie descubrió y lleva semanas diciéndose 'si nadie lo sabe, ya está'. Sin embargo, cada vez se siente más incómodo y distante del Señor. Según el principio de 2 Samuel 11–12, ¿qué le está señalando ese malestar?",
+    options: [
+      "Que necesita esperar más tiempo hasta que el sentimiento de culpa desaparezca solo.",
+      "Que debería contarle a un amigo de confianza para aliviar la presión emocional que siente.",
+      "Que sus estándares personales son demasiado elevados y necesita ser más flexible consigo mismo.",
+      "Que el Espíritu Santo le está indicando que el Señor conoce el pecado y lo invita a arrepentirse.",
+    ],
+    correctAnswer: 3,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Valentina piensa que primero tiene que 'ser mejor persona' durante varios meses antes de hablar con su obispo sobre un pecado serio. Según la enseñanza del élder Andersen y el ejemplo de David, ¿qué le dirías?",
+    options: [
+      "Que acudir al obispo es parte del proceso de arrepentimiento, no el final; esperar no ayuda ni es necesario.",
+      "Que tiene razón, porque el obispo necesita ver un cambio real sostenido antes de poder guiarla.",
+      "Que el arrepentimiento personal y sincero sin hablar con un líder es suficiente para pecados que no dañaron directamente a terceros.",
+      "Que lo más importante es hacer buenas obras como compensación antes de iniciar cualquier proceso formal.",
+    ],
+    correctAnswer: 0,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "David fue llamado 'un hombre conforme al corazón de Dios' y también cometió adulterio y ordenó un asesinato. Tanto su caída como su arrepentimiento enseñan algo sobre la misericordia del Señor. ¿Qué principio emerge al comparar ambas partes de su historia?",
+    options: [
+      "Que las personas con grandes responsabilidades espirituales son más vulnerables a pecar gravemente.",
+      "Que la misericordia del Señor está disponible para quien se arrepiente genuinamente, sin importar la gravedad del pecado, aunque las consecuencias temporales puedan persistir.",
+      "Que el Señor perdona los pecados graves solo cuando la persona ha sufrido suficientemente por ellos.",
+      "Que la grandeza espiritual anterior de una persona reduce las consecuencias de sus pecados futuros.",
+    ],
+    correctAnswer: 1,
+  },
+]
+
+// ─────────────────────────────────────────────
+// LECCIÓN 78: 1 Reyes 3
+// "El Señor nos bendice para llevar a cabo Su obra."
+// correctAnswer distribution: 2, 1, 0, 1, 3, 2, 1
+// ─────────────────────────────────────────────
+export const leccion78Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "Cuando el Señor se le apareció a Salomón en sueños y le dijo 'Pide lo que quieras', ¿qué eligió pedir Salomón según 1 Reyes 3:9?",
+    options: [
+      "Riquezas y honor para que su reino superara al de todos los reyes vecinos.",
+      "Larga vida para poder terminar la construcción del templo que su padre David había planeado.",
+      "Un corazón entendido para juzgar a su pueblo y discernir entre el bien y el mal.",
+      "Victoria sobre sus enemigos para que Israel pudiera vivir en paz permanente.",
+    ],
+    correctAnswer: 2,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "En la historia de las dos madres y el bebé (1 Reyes 3:16–28), ¿cómo identificó Salomón a la madre verdadera?",
+    options: [
+      "Llamó a testigos que habían estado presentes en el nacimiento de ambos niños.",
+      "Propuso dividir al niño con una espada; la madre verdadera pidió entregarlo vivo a la otra.",
+      "Consultó con los sacerdotes del templo, quienes usaron el Urim y el Tumim para revelar la verdad.",
+      "Observó el comportamiento de ambas mujeres durante tres días antes de emitir su veredicto.",
     ],
     correctAnswer: 1,
   },
@@ -614,123 +714,124 @@ export const leccion77Questions: Question[] = [
   {
     id: 3,
     question:
-      "A pesar de arrepentirse, David enfrentó consecuencias serias: 'la espada no se apartará de tu casa.' ¿Qué enseña ese resultado sobre el arrepentimiento y las consecuencias del pecado?",
+      "Al responder la petición de Salomón, el Señor le dio sabiduría y también riquezas y honor que Salomón no había pedido. ¿Qué principio doctrinal ilustra esta respuesta adicional?",
     options: [
-      "Que el arrepentimiento de David fue incompleto, y por eso el Señor no lo perdonó del todo.",
-      "Que el arrepentimiento puede restaurar nuestra relación con el Señor, pero no siempre elimina todas las consecuencias terrenales del pecado.",
-      "Que el Padre Celestial castiga doblemente a quienes pecan desde posiciones de liderazgo.",
-      "Que las consecuencias eternas del pecado son inevitables incluso después de un arrepentimiento sincero.",
+      "Quienes buscan primero el reino de Dios y Su justicia reciben también las cosas necesarias para su obra.",
+      "Las riquezas materiales son siempre una señal de que alguien agrada al Señor en ese momento.",
+      "El Señor recompensa la humildad duplicando automáticamente todo lo que la persona desea.",
+      "Los líderes religiosos tienen derecho a recibir riquezas para administrar mejor a su pueblo.",
     ],
-    correctAnswer: 1,
+    correctAnswer: 0,
   },
   // COMPRENSIÓN 4
   {
     id: 4,
     question:
-      "El Señor envió a un profeta para confrontar a David en lugar de dejar que sus pecados quedaran ocultos. ¿Qué revela eso sobre la relación entre el Padre Celestial y Sus hijos que han pecado?",
+      "Salomón reconoció ante el Señor que era 'como un niño pequeño que no sabe cómo entrar ni salir' (1 Reyes 3:7). ¿Por qué esa actitud fue exactamente lo que el Señor necesitaba ver en él antes de bendecirlo?",
     options: [
-      "Que el Señor busca exponer públicamente los pecados para que sirvan de ejemplo a otros.",
-      "Que el Señor no abandona a Sus hijos en el pecado; actúa para darles la oportunidad de ver su error y volver a Él.",
-      "Que el profeta tenía la obligación legal de informar al pueblo sobre las transgresiones del rey.",
-      "Que el Señor solo interviene cuando el pecado es de dominio público y ya todos lo saben.",
+      "Porque el Señor solo ayuda a quienes reconocen públicamente su incapacidad ante el pueblo.",
+      "Porque Salomón estaba siendo demasiado modesto y el Señor quería mostrar que en realidad ya era suficiente.",
+      "Porque los reyes que se consideran capaces tienden a tomar decisiones militares impulsivas y peligrosas.",
+      "Porque la humildad abre el canal para recibir ayuda divina; quien cree que puede solo cierra esa puerta.",
     ],
-    correctAnswer: 1,
+    correctAnswer: 3,
   },
   // APLICACIÓN 5
   {
     id: 5,
     question:
-      "Felipe cometió un error grave y lleva semanas sintiéndose tan culpable que cree que 'ya no hay vuelta atrás' para él. Según la reacción del Padre Celestial ante David, ¿qué le diría esta lección a Felipe?",
+      "Emilio recibió un llamamiento para presidir su cuórum de los élderes pero siente que no tiene las habilidades para liderar. Está pensando en rechazarlo. Según 1 Reyes 3 y la enseñanza del presidente Monson, ¿qué sería lo más coherente?",
     options: [
-      "Que tiene razón: algunos errores son demasiado grandes para que el Padre Celestial los pase por alto.",
-      "Que el Padre Celestial nos ama perfectamente y desea que nos arrepintamos y volvamos a Él, sin importar la gravedad del error.",
-      "Que lo primero que debe hacer es confesar públicamente su error ante el barrio antes de poder arrepentirse.",
-      "Que si todavía siente culpa, es señal de que su arrepentimiento no ha sido suficientemente profundo.",
+      "Rechazar el llamamiento honestamente hasta sentirse preparado para asumirlo con confianza.",
+      "Aceptarlo pero pedirle a alguien más experimentado que haga la mayor parte del trabajo.",
+      "Pedir al obispo que retrase el llamamiento hasta completar un curso de liderazgo.",
+      "Aceptar el llamamiento, reconocer su necesidad en oración y confiar en que el Señor lo equipará.",
     ],
-    correctAnswer: 1,
+    correctAnswer: 3,
   },
   // APLICACIÓN 6
   {
     id: 6,
     question:
-      "Martina ha estado mintiendo a sus padres sobre a dónde va los fines de semana. Usa la frase 'igual lo que hago no es tan grave' para tranquilizarse. Según la lección de David, ¿qué peligro revela esa forma de pensar?",
+      "Rocío tiene que hablar con una amiga sobre una situación difícil. Antes de reunirse, se arrodilla y le pide al Señor específicamente palabras sabias para esa conversación. Según 1 Reyes 3, ¿qué está haciendo correctamente?",
     options: [
-      "Que compararse con los errores de otros, como David, siempre hará que los propios parezcan pequeños.",
-      "Que minimizar un pecado impide reconocerlo, y lo que no se reconoce no se puede arrepentir ni sanar.",
-      "Que la mentira a los padres es grave solo si involucra situaciones peligrosas para la salud.",
-      "Que ese pensamiento solo es peligroso en personas con posiciones de liderazgo como los reyes.",
+      "Está evitando responsabilidad al depender del Señor para algo que debería resolver con sus propias habilidades.",
+      "Está siendo demasiado religiosa en una situación que solo requiere sentido común y experiencia personal.",
+      "Está siguiendo el patrón de Salomón: reconocer su necesidad específica y pedirle al Señor ayuda para esa tarea.",
+      "Está confundiendo la oración general con la revelación, que solo se recibe en circunstancias especiales.",
     ],
-    correctAnswer: 1,
+    correctAnswer: 2,
   },
   // SÍNTESIS 7
   {
     id: 7,
     question:
-      "David cometió pecados graves partiendo de una pequeña decisión inicial: quedarse en Jerusalén cuando debía estar en la guerra y mirar desde la terraza. ¿Qué patrón sobre el pecado ilustra esa progresión, y cómo lo confirmó la respuesta del Señor a través de Natán?",
+      "Salomón pidió sabiduría para servir a otros, no para beneficio propio. El élder Uchtdorf enseñó que Dios acepta a las personas como son y empieza a ayudarlas de inmediato. ¿Qué principio común une ambas enseñanzas?",
     options: [
-      "Que los pecados grandes siempre comienzan con negligencia en responsabilidades menores, y el Señor interviene en el momento en que el ciclo se vuelve irreversible.",
-      "Que el pecado avanza en pasos pequeños desde una decisión aparentemente menor, y el Señor, en Su amor, interviene para interrumpir ese ciclo antes de que el daño sea total.",
-      "Que David era un pecador habitual desde antes, y la historia del adulterio fue solo la expresión más grave de un carácter ya formado.",
-      "Que el patrón de David demuestra que incluso los grandes líderes espirituales están destinados a fallar en algún punto de sus vidas.",
+      "Que el Señor solo ayuda a quienes ya demostraron que pueden hacer la obra con sus propias capacidades.",
+      "Que la orientación al servicio de los demás, combinada con la dependencia del Señor, es la base de toda bendición espiritual.",
+      "Que las bendiciones llegan más rápido a quienes ocupan posiciones formales de liderazgo en la Iglesia.",
+      "Que la humildad consiste principalmente en no hablar sobre los dones y talentos que uno posee.",
     ],
     correctAnswer: 1,
   },
-];
+]
 
-// ============================================================================
+// ─────────────────────────────────────────────
 // LECCIÓN 79: 1 Reyes 6–9
-// Link: https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/253-1-kings-6-9?lang=spa
-// ============================================================================
+// "El templo es la Casa del Señor."
+// correctAnswer distribution: 1, 3, 2, 1, 0, 3, 1
+// ─────────────────────────────────────────────
 export const leccion79Questions: Question[] = [
   // RECUERDO 1
   {
     id: 1,
     question:
-      "¿Cuántos años tardó Salomón en construir el templo en Jerusalén, según el relato de 1 Reyes?",
+      "¿Cuánto tiempo le tomó construir el Templo de Salomón, y qué señal dio el Señor cuando fue dedicado según 1 Reyes 6 y 8?",
     options: [
-      "Tres años, con la ayuda de trabajadores traídos desde Egipto y Fenicia.",
-      "Diez años, porque los materiales debían traerse desde países muy lejanos.",
-      "Siete años, usando madera de cedro del Líbano y piedras labradas preparadas fuera del templo.",
-      "Veinte años, incluyendo el tiempo de la planificación que hizo su padre David.",
+      "Tres años; el Señor hizo aparecer el arca del convenio en el lugar santísimo.",
+      "Siete años; una nube con la gloria del Señor llenó el templo de tal manera que los sacerdotes no podían officiar.",
+      "Diez años; el Señor envió fuego del cielo que consumió los sacrificios del altar.",
+      "Cuatro años; el Señor se apareció a Salomón frente a todo el pueblo reunido en Jerusalén.",
     ],
-    correctAnswer: 2,
+    correctAnswer: 1,
   },
   // RECUERDO 2
   {
     id: 2,
     question:
-      "¿Qué evento sobrenatural ocurrió cuando el Arca del Pacto fue llevada al interior del templo recién terminado?",
+      "En la dedicación del templo, ¿qué promesa específica hizo el Señor a Salomón sobre ese lugar según 1 Reyes 9:3?",
     options: [
-      "Un fuego descendió del cielo y consumió el sacrificio en el altar como señal de aceptación.",
-      "La tierra tembló y la gente cayó de rodillas al escuchar la voz del Señor.",
-      "La gloria del Señor llenó la casa en forma de nube, de modo que los sacerdotes no podían ministrar.",
-      "El agua de la fuente del templo brotó en abundancia durante siete días consecutivos.",
+      "Que el templo permanecería en pie para siempre sin importar lo que hiciera el pueblo de Israel.",
+      "Que cualquier persona que entrara al templo quedaría automáticamente libre de sus pecados.",
+      "Que las bendiciones del templo solo se extenderían a quienes hubieran ayudado en su construcción.",
+      "Que sus ojos y su corazón estarían en ese lugar perpetuamente, pues había santificado esa casa.",
     ],
-    correctAnswer: 2,
+    correctAnswer: 3,
   },
   // COMPRENSIÓN 3
   {
     id: 3,
     question:
-      "En la oración dedicatoria del templo, Salomón pidió que el Señor escuchara desde Su casa las oraciones de Su pueblo, incluyendo las de los extranjeros. ¿Qué revela esa petición sobre el propósito del templo?",
+      "La construcción del Templo de Salomón usó materiales del más alto valor y piedras cortadas lejos del recinto para no escuchar martillos dentro. ¿Qué enseña esa atención al detalle sobre la relación con el templo?",
     options: [
-      "Que el templo era un edificio administrativo donde se gestionaban los asuntos religiosos del reino.",
-      "Que el templo era un punto de conexión entre el cielo y la tierra, un lugar donde el Señor se acercaba a Su pueblo y escuchaba sus necesidades.",
-      "Que el templo era principalmente un monumento nacional para demostrar el poder y la riqueza de Israel.",
-      "Que el templo servía solo para los sacrificios de expiación y no tenía función relacionada con la oración.",
+      "Que los templos modernos deben ser los edificios más costosos de cada ciudad donde se construyen.",
+      "Que el trabajo físico de construir un templo tiene el mismo valor espiritual que recibir las ordenanzas dentro.",
+      "Que lo sagrado merece nuestra mejor atención y preparación, no lo que nos queda después de cubrir lo demás.",
+      "Que los templos solo tienen valor cuando son construidos con materiales traídos de Tierra Santa.",
     ],
-    correctAnswer: 1,
+    correctAnswer: 2,
   },
   // COMPRENSIÓN 4
   {
     id: 4,
     question:
-      "El élder Andersen invita a 'grabar en el alma' que el templo es la Casa del Señor. ¿Por qué ese nivel de convicción —no solo conocer el dato sino tenerlo grabado— hace diferencia práctica en la vida de un joven?",
+      "D&C 88:119 describe el templo como 'casa de oración, casa de ayuno, casa de fe, casa de aprendizaje, casa de orden, casa de Dios'. ¿Por qué esa descripción incluye tantas dimensiones y no solo 'lugar de ordenanzas'?",
     options: [
-      "Porque conocer los datos históricos del templo permite responder mejor en exámenes de Seminario.",
-      "Porque una convicción grabada en el alma motiva decisiones concretas (ir al templo, prepararse, hacer convenios) que un dato aprendido de memoria no genera.",
-      "Porque si el joven lo sabe de memoria, podrá enseñarlo a sus amigos no miembros con más confianza.",
-      "Porque el élder Andersen habló específicamente a jóvenes de 14 años y esa instrucción solo aplica a esa edad.",
+      "Porque el templo fue diseñado para reemplazar todas las demás actividades religiosas del miembro.",
+      "Porque el templo es un espacio integral donde el Señor puede actuar sobre toda la persona: mente, corazón, voluntad y compromiso.",
+      "Porque las ordenanzas del templo solo tienen validez si el miembro también ayuna y ora dentro del edificio.",
+      "Porque la descripción refleja las diferentes salas físicas que se encuentran en todos los templos modernos.",
     ],
     correctAnswer: 1,
   },
@@ -738,39 +839,237 @@ export const leccion79Questions: Question[] = [
   {
     id: 5,
     question:
-      "Juana vive lejos de un templo y siente que no tiene sentido prepararse para ir si tardará años en poder hacerlo. Según el propósito del templo según esta lección, ¿qué perspectiva le ofrecería?",
+      "Tomás dice que el templo 'es para cuando sea mayor' y que por ahora no tiene sentido preocuparse por la dignidad. Según la enseñanza del presidente Nelson en esta lección, ¿qué le falta entender a Tomás?",
     options: [
-      "Que tiene razón: la preparación solo tiene sentido cuando la visita es inminente.",
-      "Que el templo es la Casa del Señor, y prepararse para entrar en ella es una meta espiritual que vale independientemente de cuándo ocurra, porque la preparación ya transforma al que se prepara.",
-      "Que debería mudarse a una ciudad con templo para no perder los años de juventud.",
-      "Que el Salvador comprende su situación y por eso no le pedirá rendir cuentas sobre el templo.",
+      "Que prepararse para el templo desde joven protege y bendice su vida de formas que nada más puede lograr, incluso antes de entrar.",
+      "Que los jóvenes menores de 18 años no pueden recibir ningún beneficio espiritual relacionado con el templo.",
+      "Que el templo es principalmente para quienes ya están casados o próximos a casarse en la Iglesia.",
+      "Que la dignidad del templo se logra automáticamente al cumplir los 18 años de edad.",
     ],
-    correctAnswer: 1,
+    correctAnswer: 0,
   },
   // APLICACIÓN 6
   {
     id: 6,
     question:
-      "Ramiro tiene la oportunidad de ir al templo con su grupo de jóvenes, pero prefiere quedarse porque 'ya fue una vez'. Según el principio de esta lección, ¿qué le perdería al no ir?",
+      "Luca vive a cuatro horas del templo más cercano y siente que prepararse para el templo no tiene sentido práctico dada la distancia. Según 1 Reyes 9:3 y lo enseñado en la lección, ¿qué le dirías?",
     options: [
-      "Principalmente el paseo con sus amigos y el tiempo de convivencia del grupo.",
-      "Una oportunidad de acercarse a la Casa del Señor, renovar convenios y recibir la influencia espiritual que ese lugar ofrece, algo que no se acumula de una sola visita.",
-      "Nada significativo, ya que el Señor valora la calidad de las visitas al templo, no la cantidad.",
-      "Solo la actividad social del barrio, que podría compensar yendo al siguiente evento del grupo de jóvenes.",
+      "Que tiene razón en enfocarse en las actividades de la Iglesia local hasta que el templo sea más accesible.",
+      "Que debería pedirle al obispo que le financie el viaje como parte de sus deberes de seminario.",
+      "Que el Señor entiende su situación y no le pide lo mismo que a alguien que vive cerca de un templo.",
+      "Que la distancia física no cambia el valor de la dignidad del templo; prepararse lo acerca al Señor ahora mismo.",
     ],
-    correctAnswer: 1,
+    correctAnswer: 3,
   },
   // SÍNTESIS 7
   {
     id: 7,
     question:
-      "El templo de Salomón fue construido con materiales preparados fuera del lugar para que no se escucharan martillos ni herramientas durante su edificación. Esa preparación silenciosa externa se conecta con la preparación interna que el Señor pide a quienes entran al templo hoy. ¿Cuál es el principio que une ambas ideas?",
+      "Tanto el Templo de Salomón (1 Reyes 6–9) como los templos modernos descritos en D&C 88 son llamados 'Casa del Señor'. ¿Qué principio eterno revela esa continuidad de nombre y propósito a través del tiempo?",
     options: [
-      "Que la construcción silenciosa era una técnica de ingeniería que la Iglesia recuperó para sus templos modernos.",
-      "Que todo lo que entra en la Casa del Señor —materiales o personas— debe llegar ya preparado; la preparación ocurre antes, no adentro.",
-      "Que el silencio es el único estado emocional adecuado para estar en el templo, tanto en el pasado como en el presente.",
-      "Que la preparación externa del templo es más importante que la preparación interna del individuo.",
+      "Que los templos modernos son réplicas exactas del Templo de Salomón en diseño arquitectónico y materiales.",
+      "Que el Señor ha requerido siempre un lugar santificado donde habitar entre Su pueblo y donde los convenios más sagrados se hagan.",
+      "Que el valor del templo consiste principalmente en su antigüedad y en los registros históricos que contiene.",
+      "Que la función del templo fue rediseñada completamente en la Restauración sin relación con el templo bíblico.",
     ],
     correctAnswer: 1,
   },
-];
+]
+
+// ─────────────────────────────────────────────
+// LECCIÓN 80: Evalúa tu aprendizaje 5
+// "Reflexiona sobre tu progreso espiritual."
+// correctAnswer distribution: 1, 2, 2, 0, 3, 1, 2
+// ─────────────────────────────────────────────
+export const leccion80Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "El manual propone tres áreas para evaluar el aprendizaje de este bloque. ¿Cuál de las siguientes corresponde a una de esas áreas de evaluación?",
+    options: [
+      "Memorizar las fechas exactas de los reinados de Saúl, David y Salomón en orden cronológico.",
+      "Evaluar si creció el deseo de ir al templo, si mejoró la capacidad de recibir revelación y si se puede explicar algún título de Jesucristo.",
+      "Completar un mapa geográfico de todos los lugares mencionados desde Rut hasta 1 Reyes 11.",
+      "Recitar de memoria al menos cinco versículos de dominio de la doctrina estudiados en el bloque.",
+    ],
+    correctAnswer: 1,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "Samuel respondió al llamado del Señor con las palabras 'Habla, Jehová, porque tu siervo oye' (1 Samuel 3:9). ¿Quién lo instruyó a responder de esa manera?",
+    options: [
+      "Su madre Ana, quien le había enseñado esa oración específica desde pequeño.",
+      "Una visión en la que el Señor mismo le indicó las palabras exactas antes del llamamiento.",
+      "El sacerdote Elí, después de que Samuel lo despertara por tercera vez pensando que era él quien llamaba.",
+      "El profeta que ungió a Elí y que visitó el tabernáculo antes del llamamiento de Samuel.",
+    ],
+    correctAnswer: 2,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "El presidente Nelson advirtió que 'quienes no hayan aprendido a obtener revelación personal caerán'. ¿Qué diferencia hay entre rezar para hablar al Señor y rezar para escuchar al Señor?",
+    options: [
+      "No hay diferencia esencial; lo importante es que la oración sea frecuente y sincera, independiente de la dirección.",
+      "Hablar al Señor es suficiente para la vida diaria, pero escucharlo es necesario solo en momentos de crisis.",
+      "Escuchar al Señor implica un estado de atención activa y disposición para recibir dirección; hablar sin escuchar convierte la oración en monólogo.",
+      "La revelación personal solo llega cuando uno permanece en silencio absoluto durante períodos prolongados de ayuno.",
+    ],
+    correctAnswer: 2,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "Evaluar el aprendizaje espiritual es diferente a un examen académico porque no tiene respuestas absolutamente correctas o incorrectas. ¿Por qué el manual propone igualmente hacer esta evaluación?",
+    options: [
+      "Porque sin detenerse a revisar adónde fue, una persona no puede decidir conscientemente adónde quiere ir espiritualmente.",
+      "Para que el maestro de seminario pueda calificar el progreso de cada alumno durante el año lectivo.",
+      "Porque el Señor requiere que Sus seguidores rindan cuentas formales al final de cada bloque de estudio.",
+      "Para que cada alumno pueda comparar su progreso con el del resto del grupo y motivarse a mejorar.",
+    ],
+    correctAnswer: 0,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Andrés siente que 'no aprendió nada' en este bloque porque no recuerda los nombres de todos los reyes ni las fechas de las batallas. Según el enfoque de esta lección, ¿qué le falta considerar?",
+    options: [
+      "Que debería repasar todos los capítulos del Antiguo Testamento antes de hacer cualquier evaluación válida.",
+      "Que memorizar los datos históricos es efectivamente la parte más importante del año de seminario.",
+      "Que debería hablar con su maestro para que le explique de nuevo todo el contenido del bloque estudiado.",
+      "Que el aprendizaje espiritual se mide por cambios en el corazón, los deseos y las decisiones, no solo por datos memorizados.",
+    ],
+    correctAnswer: 3,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Camila terminó este bloque sintiendo que su fe creció pero no sabe cómo sostenerla durante las vacaciones sin las clases de Seminario. Según Moroni 10:5 y el principio de esta lección, ¿qué podría hacer concretamente?",
+    options: [
+      "Elegir un hábito espiritual diario específico —estudio, oración enfocada en escuchar, o servicio— y comprometerse a mantenerlo durante las vacaciones.",
+      "Esperar a que empiece el nuevo año de Seminario para retomar el crecimiento espiritual en un ambiente estructurado.",
+      "Pedirle a su maestro de Seminario que le envíe material por correo durante el receso para no perder el ritmo.",
+      "Leer el Antiguo Testamento completo durante las vacaciones para no quedarse atrás en el programa anual.",
+    ],
+    correctAnswer: 0,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Tanto Samuel ('Habla, Señor, que tu siervo escucha') como Salomón ('Dame un corazón entendido') se detuvieron a recibir dirección divina antes de actuar. ¿Qué principio común une sus actitudes con el propósito de esta lección de evaluación?",
+    options: [
+      "Que los líderes bíblicos tenían acceso directo a Dios que los miembros ordinarios de hoy no pueden esperar tener.",
+      "Que el crecimiento espiritual requiere principalmente conocer las Escrituras del Antiguo Testamento en profundidad.",
+      "Que detener la actividad para escuchar y evaluar es esencial para recibir guía divina, tanto en la vida bíblica como al revisar nuestro crecimiento personal.",
+      "Que la evaluación espiritual solo es válida cuando la realiza un líder de la Iglesia, no el propio individuo.",
+    ],
+    correctAnswer: 2,
+  },
+]
+
+// ─────────────────────────────────────────────
+// LECCIÓN 203: Preparación para entrar dignamente en el templo
+// "El Señor establece las normas de dignidad."
+// correctAnswer distribution: 1, 2, 3, 1, 0, 3, 2
+// ─────────────────────────────────────────────
+export const leccion203Questions: Question[] = [
+  // RECUERDO 1
+  {
+    id: 1,
+    question:
+      "Según Salmos 24:3–4, ¿qué características describe el salmista de quien puede 'subir al monte de Jehová y estar en su lugar santo'?",
+    options: [
+      "Quien ha estudiado las Escrituras durante años y conoce la doctrina en profundidad.",
+      "Quien es limpio de manos y puro de corazón, y no elevó su alma a cosas vanas ni juró con engaño.",
+      "Quien ha servido en la Iglesia durante al menos cinco años sin interrupción en su llamamiento.",
+      "Quien ha completado todos los programas de seminario e instituto disponibles en su área geográfica.",
+    ],
+    correctAnswer: 1,
+  },
+  // RECUERDO 2
+  {
+    id: 2,
+    question:
+      "En la historia del suegro del élder Rasband, ¿qué pidió ese hombre antes de morir que ilustra el valor de la recomendación del templo?",
+    options: [
+      "Que le trajeran el Libro de Mormón para leer sus versículos favoritos una última vez.",
+      "Que le hicieran una reunión sacramental privada con sus seres queridos en el hospital.",
+      "Que viniera su obispo para realizarle la entrevista de la recomendación, para irse 'recomendado al Señor'.",
+      "Que lo llevaran físicamente al templo para recibir sus propias ordenanzas antes de fallecer.",
+    ],
+    correctAnswer: 2,
+  },
+  // COMPRENSIÓN 3
+  {
+    id: 3,
+    question:
+      "Las preguntas de la entrevista para la recomendación cubren fe, diezmo, ley de castidad y honestidad personal. ¿Por qué el Señor estableció un proceso de entrevista formal en lugar de confiar solo en la autoevaluación del miembro?",
+    options: [
+      "Porque los miembros generalmente sobreestiman su dignidad y necesitan que alguien externo los corrija.",
+      "Porque la recomendación es principalmente un documento administrativo que la Iglesia necesita para sus registros.",
+      "Porque el Señor no confía en la revelación personal para asuntos tan importantes como el acceso al templo.",
+      "Porque la entrevista crea un momento sagrado de rendición de cuentas y abre la puerta a la orientación del obispo si se necesita.",
+    ],
+    correctAnswer: 3,
+  },
+  // COMPRENSIÓN 4
+  {
+    id: 4,
+    question:
+      "El élder Kearon enseñó que el plan del Padre está diseñado para 'llevarlos a casa, no para dejarlos afuera'. ¿Cómo cambia esa perspectiva la forma de entender las normas de dignidad del templo?",
+    options: [
+      "Que las normas no son barreras para excluir sino un camino diseñado con amor para acercar a cada persona a Dios.",
+      "Que las normas de dignidad son opcionales para quienes sienten que ya tienen una relación fuerte con el Señor.",
+      "Que el Señor finalmente aceptará a todos en el templo sin importar cómo vivieron, porque Su amor es incondicional.",
+      "Que los líderes tienen autoridad para hacer excepciones a las normas cuando lo consideran espiritualmente apropiado.",
+    ],
+    correctAnswer: 0,
+  },
+  // APLICACIÓN 5
+  {
+    id: 5,
+    question:
+      "Luciana cometió un error serio hace cuatro meses, desde entonces cambió su conducta y lleva una vida alineada con el Evangelio, pero siente que no merece pedir una recomendación todavía. Según esta lección, ¿cuál es el paso más coherente?",
+    options: [
+      "Hablar con su obispo honestamente; la dignidad no requiere perfección sino sinceridad y esfuerzo genuino.",
+      "Esperar al menos un año completo sin errores antes de acercarse a un líder de la Iglesia.",
+      "Seguir trabajando sola en su progreso espiritual hasta sentirse completamente lista para la entrevista.",
+      "Pedirle a sus padres que hablen primero con el obispo para explicar su situación antes de que ella lo haga.",
+    ],
+    correctAnswer: 0,
+  },
+  // APLICACIÓN 6
+  {
+    id: 6,
+    question:
+      "Benjamín piensa que la recomendación del templo es 'un trámite para adultos' y que no tiene nada que ver con su vida actual como joven de 16 años. Según el élder Rasband y el principio de esta lección, ¿qué le dirías?",
+    options: [
+      "Que tiene razón en esperar; las ordenanzas del templo son más relevantes cuando uno tiene responsabilidades familiares.",
+      "Que debería enfocarse primero en las metas de preparación para la misión antes de pensar en el templo.",
+      "Que hablar sobre la recomendación con un joven de 16 años podría causarle presión espiritual innecesaria.",
+      "Que poseer una recomendación vigente es también una protección espiritual ahora, y prepararse desde joven tiene valor real.",
+    ],
+    correctAnswer: 3,
+  },
+  // SÍNTESIS 7
+  {
+    id: 7,
+    question:
+      "Tanto Salmos 24 ('limpio de manos y puro de corazón') como las preguntas modernas para la recomendación del templo establecen condiciones para entrar a la Casa del Señor. ¿Qué principio eterno sostiene ambos conjuntos de condiciones a través del tiempo?",
+    options: [
+      "Que el Señor cambia Sus estándares de santidad según la dispensación en que vive Su pueblo.",
+      "Que los estándares del Antiguo Testamento eran más estrictos que los modernos porque Israel vivía bajo una ley menor.",
+      "Que el Señor requiere siempre coherencia entre la vida interior y la exterior como condición para habitar entre Su pueblo.",
+      "Que las condiciones para el templo son principalmente simbólicas y no afectan realmente la experiencia espiritual del individuo.",
+    ],
+    correctAnswer: 2,
+  },
+]

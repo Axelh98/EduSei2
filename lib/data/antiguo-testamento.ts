@@ -46,7 +46,9 @@ import {
   leccion74Questions,
   leccion75Questions,
   leccion77Questions,
+  leccion78Questions,
   leccion79Questions,
+  leccion80Questions,
   leccion81Questions,
   leccion84Questions,
   leccion85Questions,
@@ -922,6 +924,16 @@ export const antiguoTestamentoWeeks: Week[] = [
         secciones: [],
       },
       {
+        id: "leccion-78",
+        title: "Lección 78: 1 Reyes 3",
+        description: "El Señor nos bendice para llevar a cabo Su obra.",
+        type: "Antiguo Testamento - Ven Sigueme",
+        chapterUrl:
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/252-1-kings-3?lang=spa",
+        questions: leccion78Questions,
+        secciones: [],
+      },
+      {
         id: "leccion-79",
         title: "Lección 79: 1 Reyes 6–9",
         description: "El templo es la Casa del Señor.",
@@ -932,12 +944,22 @@ export const antiguoTestamentoWeeks: Week[] = [
         secciones: [],
       },
       {
+        id: "leccion-80",
+        title: "Evalúa tu aprendizaje 5",
+        description: "Reflexiona sobre tu progreso espiritual.",
+        type: "Dominio de la Doctrina",
+        chapterUrl:
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/254-assess-your-learning-5?lang=spa",
+        questions: leccion80Questions,
+        secciones: [],
+      },
+      {
         id: "leccion-203",
         title: "Lección 203: Preparación para entrar dignamente en el templo",
         description: "El Señor establece las normas de dignidad.",
         type: "Especial",
         chapterUrl:
-          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/694-participating-in-temple-and-family-history?lang=spa",
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/693-preparing-to-enter-worthily?lang=spa",
         questions: leccion203Questions,
         secciones: [],
       },

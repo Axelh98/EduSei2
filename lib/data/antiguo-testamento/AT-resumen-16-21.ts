@@ -170,105 +170,365 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
       },
     ],
   },
-  {
-    id: "leccion-77",
-    title: "Lección 77: 2 Samuel 11–12",
-    type: "Antiguo Testamento - Ven Sigueme",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/251-2-samuel-11-12?lang=spa",
-    questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "David, uno de los hombres más ungidos de la historia, cedió ante la tentación, cometió adulterio y luego ordenó la muerte de Urías para encubrir su pecado. Pasaron meses sin que David buscara arrepentirse. Fue el profeta Natán quien, con una parábola sobre un hombre rico que robó la oveja de un pobre, hizo que David se confrontara con la realidad de lo que había hecho. 'Tú eres ese hombre', le dijo Natán. La reacción de David fue arrepentimiento genuino.",
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2012",
-        texto: "La gracia del Salvador puede restaurar la relación con Dios para quienes se arrepienten de verdad. Pero las consecuencias de los pecados graves pueden ser duraderas.",
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "2 Samuel 12:7", texto: "Y Natán dijo a David: Tú eres aquel hombre.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-sam/12?lang=spa&id=p7#p7" },
-          { referencia: "Salmos 51:10", texto: "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=spa&id=p10#p10" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué hábitos o comportamientos en tu vida actual podrían convertirse en puertas de entrada a tentaciones mayores?",
-          "¿Por qué crees que David tardó tanto en arrepentirse? ¿Qué nos dice sobre el peligro del encubrimiento?",
-          "¿Qué te enseña el Salmo 51 sobre el tipo de corazón que el Señor desea en Sus hijos?",
-        ],
-      },
-    ],
-  },
-  {
-    id: "leccion-79",
-    title: "Lección 79: 1 Reyes 6–9",
-    type: "Antiguo Testamento - Ven Sigueme",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/253-1-kings-6-9?lang=spa",
-    questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "Durante el reinado de Salomón, Israel vivió su época de mayor esplendor, y el proyecto más grandioso fue la construcción del templo de Jerusalén. El templo tardó siete años en construirse y fue la obra más elaborada de su época. La dedicación del templo fue uno de los momentos más sagrados de la historia de Israel: la gloria del Señor llenó el edificio de tal manera que los sacerdotes no podían continuar sus funciones.",
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2024",
-        texto: "Todo sincero buscador de Jesucristo lo encontrará en el templo. El templo es el lugar donde el Salvador puede revelar Sus verdades a Sus siervos.",
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "1 Reyes 8:11", texto: "Los sacerdotes no podían permanecer para ministrar por causa de la nube; porque la gloria de Jehová había llenado la casa de Jehová.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/8?lang=spa&id=p11#p11" },
-          { referencia: "1 Reyes 8:29", texto: "Que tus ojos estén abiertos de noche y de día sobre esta casa... que oigas la oración que tu siervo hace en este lugar.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/8?lang=spa&id=p29#p29" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué sentiste la primera vez que entraste a un templo o participaste en una actividad relacionada con él?",
-          "¿Cómo puedes preparar tu corazón antes de asistir al templo para recibir más plenamente la presencia del Señor?",
-          "¿De qué manera el templo puede ser una fuente de revelación y guía personal en tu vida?",
-        ],
-      },
-    ],
-  },
-  {
-    id: "leccion-203",
-    title: "Lección 203: Preparación para entrar dignamente en el templo",
-    type: "Especial",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/694-participating-in-temple-and-family-history?lang=spa",
-    questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "Entrar al templo no es un derecho automático de la membresía; es un privilegio que requiere dignidad. El Señor ha establecido estándares específicos —vividos como estilo de vida— que preparan al corazón y al cuerpo para entrar en Su presencia. La recomendación del templo no es simplemente un documento; es un testimonio personal de que quien la tiene vive de manera congruente con los convenios.",
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "Salmos 24:3–4", texto: "¿Quién subirá al monte de Jehová? El limpio de manos y puro de corazón; el que no ha elevado su alma a cosas vanas.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=spa&id=p3-p4#p3" },
-          { referencia: "Doctrina y Convenios 97:15–16", texto: "Os exhorto a que os organicéis... y que edifiquéis una casa a mi nombre, a fin de que pueda revelar en ella mis ordenanzas a mi pueblo.", link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa&id=p15-p16#p15" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué aspectos de los estándares de dignidad para el templo te parecen más significativos y por qué?",
-          "¿Hay hábitos en tu vida que podrías fortalecer para estar más plenamente preparado para el templo?",
-          "¿Qué significa para ti la promesa de que quienes entran dignamente al templo pueden 'ver a Dios'?",
-        ],
-      },
-    ],
-  },
+  // Semana 17 — Lecciones enriquecidas
+// Generado a partir del contenido real del manual oficial (churchofjesuschrist.org)
+
+// ─────────────────────────────────────────────
+// LECCIÓN 77: 2 Samuel 11–12
+// ─────────────────────────────────────────────
+{
+  id: "leccion-77",
+  title: "Lección 77: 2 Samuel 11–12",
+  type: "Antiguo Testamento - Ven Sigueme",
+  description: "No podemos ocultar nuestros pecados del Señor.",
+  chapterUrl:
+    "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/251-2-samuel-11-12?lang=spa",
+  questions: [],
+  secciones: [
+    {
+      tipo: "contexto",
+      contenido:
+        "David era el rey más bendecido de Israel. Había derrotado a Goliat, sobrevivido años de persecución y llegado a ser rey con la ayuda del Señor. Pero un día, en lugar de ir a la guerra con su ejército, se quedó en el palacio. Desde la terraza vio a Betsabé, la esposa de uno de sus soldados más leales, y siguió mirándola. Esa primera decisión pequeña abrió la puerta a una serie de elecciones cada vez peores. Cometió adulterio, intentó encubrirlo llamando al marido de Betsabé desde el frente de batalla, y cuando eso no funcionó, envió a Urías a una muerte segura para que nadie lo descubriera. Pasaron meses. David no buscó arrepentirse. Probablemente se decía a sí mismo: 'nadie lo sabe'. Pero el Señor sí sabía. Envió al profeta Natán, quien le contó una parábola sobre un hombre rico que le robó la única oveja a un hombre pobre. David se enojó con ese hombre. Entonces Natán le dijo: 'Tú eres ese hombre.' En ese momento, David no pudo seguir huyendo. Lo que parecía oculto quedó expuesto frente a él mismo. Su reacción fue el Salmo 51: 'Crea en mí un corazón limpio, oh Dios.' Eso es lo que el Señor siempre estuvo esperando. Vos también vas a cometer errores —algunos pequeños, algunos que te van a avergonzar. La mentira de Satanás siempre es la misma: 'nadie lo sabrá, podés esperar.' La verdad del Evangelio es que no podés ocultar tus pecados del Señor, pero eso no debería asustarte. Debería liberarte: Él ya lo sabe, ya te ama, y ya pagó el precio para que puedas volver.",
+    },
+    {
+      tipo: "escrituras",
+      citas: [
+        {
+          referencia: "2 Samuel 12:7",
+          texto:
+            "Y Natán dijo a David: Tú eres aquel hombre. Así ha dicho Jehová, el Dios de Israel: Yo te ungí por rey sobre Israel, y te libré de la mano de Saúl.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-sam/12?lang=spa&id=p7#p7",
+        },
+        {
+          referencia: "Salmos 51:10",
+          texto:
+            "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=spa&id=p10#p10",
+        },
+        {
+          referencia: "1 Corintios 10:13",
+          texto:
+            "No os ha sobrevenido ninguna tentación que no sea humana; pero fiel es Dios, que no os dejará ser tentados más de lo que podéis resistir, sino que dará también juntamente con la tentación la salida, para que podáis soportar.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/10?lang=spa&id=p13#p13",
+        },
+        {
+          referencia: "Doctrina y Convenios 132:39",
+          texto:
+            "David recibió muchas esposas y concubinas, y también David Salomón; pero David cayó de su exaltación, y recibió su porción; y no se le perdonará su pecado de cometido el adulterio con la esposa de Urías.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=spa&id=p39#p39",
+        },
+      ],
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Élder Neil L. Andersen",
+      fuente: "Conferencia General, Liahona, noviembre de 2009",
+      texto:
+        "Cuando pecamos, nos alejamos de Dios. Cuando nos arrepentimos, nos volvemos hacia Dios. La invitación a arrepentirnos rara vez es una reprimenda; es más bien una petición amorosa de que nos demos vuelta y de que nos volvamos de nuevo hacia Dios. Es el llamado de un Padre amoroso y de Su Hijo Unigénito a que seamos más de lo que somos, que alcancemos un nivel de vida mejor, que cambiemos y que sintamos la felicidad que proviene de guardar los mandamientos.",
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Élder Lynn G. Robbins",
+      fuente: "Conferencia General, Liahona, mayo de 2018",
+      texto:
+        "El arrepentimiento es un don de Dios siempre a nuestro alcance que nos permite y nos habilita para ir de fracaso en fracaso sin perder nunca el entusiasmo. El arrepentimiento no es Su plan B por si fallamos. El arrepentimiento es Su plan.",
+    },
+    {
+      tipo: "conclusion",
+      contenido:
+        "Las decisiones de David muestran cómo un pecado lleva al siguiente cuando intentamos ocultarlo en lugar de enfrentarlo. Pero también muestran que el arrepentimiento genuino es posible, incluso después de errores muy graves. El Señor sabía todo lo que David había hecho, y aun así envió a Su profeta no para destruirlo, sino para invitarlo a volver. Esa misma invitación llega a cada uno de nosotros cuando fallamos. No podés esconderle nada al Padre Celestial, pero Él ya conoce tus errores y los ama de la misma manera. La pregunta no es si Él sabe, sino si vos estás dispuesto a darte vuelta y volver.",
+    },
+    {
+      tipo: "cuestionario",
+      preguntas: [
+        "¿Cuáles son algunas decisiones que tomó David en 2 Samuel 11:1–5 que lo llevaron cada vez más lejos del Señor?",
+        "¿Qué estrategia usó Natán para que David reconociera su pecado, y por qué crees que fue tan efectiva?",
+        "¿Hubo alguna vez que intentaste minimizar un error que cometiste diciéndote 'no es para tanto' o 'nadie lo sabe'? ¿Cómo te sentiste después?",
+        "¿Qué diferencia hay entre saber que el Señor conoce tus errores y sentir eso realmente en tu corazón? ¿Cómo cambia esa diferencia cómo enfrentás los errores?",
+        "Pensando en 1 Corintios 10:13, ¿qué 'salida' sentiste que el Señor te dio en algún momento en que enfrentaste una tentación difícil?",
+        "¿Qué pequeño paso concreto podrías dar esta semana para acercarte más al Padre Celestial en un área donde sentís que te alejaste?",
+      ],
+    },
+  ],
+},
+
+// ─────────────────────────────────────────────
+// LECCIÓN 78: 1 Reyes 3
+// ─────────────────────────────────────────────
+{
+  id: "leccion-78",
+  title: "Lección 78: 1 Reyes 3",
+  type: "Antiguo Testamento - Ven Sigueme",
+  description: "El Señor nos bendice para llevar a cabo Su obra.",
+  chapterUrl:
+    "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/252-1-kings-3?lang=spa",
+  questions: [],
+  secciones: [
+    {
+      tipo: "contexto",
+      contenido:
+        "Imaginate tener 20 años y que de un día para el otro te pidan que seas el líder de una nación entera. Eso fue exactamente lo que le pasó a Salomón cuando murió su padre David. Era el nuevo rey de Israel, con toda la responsabilidad que eso implicaba: tomar decisiones legales, administrar el ejército, guiar a su pueblo. Era enorme. Esa noche, el Señor se le apareció en sueños y le dijo: 'Pide lo que quieras.' Salomón podría haber pedido riquezas, poder o larga vida. Pero en cambio pidió un corazón entendido para discernir entre el bien y el mal, y para gobernar bien a su pueblo. Al Señor le agradó tanto esa respuesta que no solo le dio sabiduría, sino también las cosas que no había pedido: riquezas y honor. El relato de las dos madres que disputaban por un bebé muestra esa sabiduría en acción: al proponer dividir al niño, Salomón reveló quién era la verdadera madre. Pero la lección más profunda no es sobre Salomón. Es sobre vos. Vos también tenés cosas que el Señor te invita a hacer: ser buen ejemplo con tus amigos, defender lo que creés cuando alguien se burla, ser fiel cuando nadie te mira. Y probablemente sentís que no estás a la altura. La buena noticia es que el Señor no te pide que lo hagas con tus propias fuerzas. Te pide que reconozcas tu necesidad y que se la presentes a Él. Cuando lo hacés así, como Salomón, Él te equipa para la tarea.",
+    },
+    {
+      tipo: "escrituras",
+      citas: [
+        {
+          referencia: "1 Reyes 3:9",
+          texto:
+            "Da, pues, a tu siervo corazón entendido para juzgar a tu pueblo, y para discernir entre lo bueno y lo malo; porque ¿quién podrá gobernar este tu pueblo tan grande?",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=spa&id=p9#p9",
+        },
+        {
+          referencia: "1 Reyes 3:12–13",
+          texto:
+            "He aquí lo he hecho conforme a tus palabras; he aquí que te he dado corazón sabio y entendido, tanto que no ha habido antes de ti otro como tú, ni después de ti se levantará otro como tú. Y aun también te he dado las cosas que no pediste, riquezas y gloria.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=spa&id=p12-p13#p12",
+        },
+        {
+          referencia: "Éter 12:27",
+          texto:
+            "Y si los hombres vienen a mí, les mostraré su debilidad. Doy a los hombres debilidad para que sean humildes; y mi gracia es suficiente para todos los hombres que se humillan ante mí; porque si se humillan ante mí, y tienen fe en mí, entonces haré que las cosas débiles se vuelvan fuertes para ellos.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p27#p27",
+        },
+      ],
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Presidente Thomas S. Monson",
+      fuente: "Conferencia General, Liahona, noviembre de 2008",
+      texto:
+        "Algunos de ustedes tal vez sean tímidos por naturaleza o se consideren inadecuados para aceptar un llamamiento del Señor. Recuerden que esta no es su obra ni la mía; es la obra del Señor, y cuando estamos en la obra del Señor, tenemos derecho a recibir Su ayuda. Recuerden que Él fortalecerá nuestros hombros para que soporten la carga que se coloque sobre ellos.",
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Presidente Dieter F. Uchtdorf",
+      fuente: "Conferencia General, Liahona, noviembre de 2015",
+      texto:
+        "No necesitamos ser 'más' de nada para llegar a ser la persona que Dios desea que seamos. Dios los aceptará como son en este preciso momento y empezará a ayudarlos. Todo lo que necesitan es tener un corazón dispuesto, un deseo de creer y confiar en el Señor.",
+    },
+    {
+      tipo: "conclusion",
+      contenido:
+        "Salomón no pidió ser suficiente por sí mismo. Pidió la ayuda para serlo. Esa humildad fue exactamente lo que el Señor estaba esperando para bendecirlo más de lo que Salomón había imaginado. Cuando enfrentás algo que te parece demasiado grande para vos —un llamamiento, una responsabilidad, un momento que requiere valentía— ese no es el momento para retirarte. Es el momento para hacer lo que hizo Salomón: reconocer que lo necesitás a Él y pedirle que te equipe. Esa petición humilde abre la puerta a los dones del Espíritu que el Señor tiene reservados para vos.",
+    },
+    {
+      tipo: "cuestionario",
+      preguntas: [
+        "¿Qué le pidió Salomón al Señor cuando se le apareció en sueños, y qué dice eso de sus prioridades como rey?",
+        "¿Qué situación de tu vida ahora mismo te hace sentir que no estás a la altura de lo que el Señor o alguien espera de vos?",
+        "¿Por qué crees que al Señor le agradó más la petición de Salomón que si hubiera pedido riquezas o larga vida?",
+        "Pensando en el relato de las dos madres y el bebé (1 Reyes 3:16–28), ¿cómo cambiaría tu vida si recibieras un 'corazón entendido' para discernir entre el bien y el mal?",
+        "Valentina recibió un llamamiento para dar un discurso en la reunión sacramental y siente que no sabe hablar bien en público. Según el principio de esta lección, ¿qué podría hacer Valentina antes de preparar su discurso?",
+        "¿Qué bendición específica le podrías pedir al Padre Celestial esta semana que te ayude a llevar a cabo algo que Él te ha invitado a hacer?",
+      ],
+    },
+  ],
+},
+
+// ─────────────────────────────────────────────
+// LECCIÓN 79: 1 Reyes 6–9
+// ─────────────────────────────────────────────
+{
+  id: "leccion-79",
+  title: "Lección 79: 1 Reyes 6–9",
+  type: "Antiguo Testamento - Ven Sigueme",
+  description: "El templo es la Casa del Señor.",
+  chapterUrl:
+    "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/253-1-kings-6-9?lang=spa",
+  questions: [],
+  secciones: [
+    {
+      tipo: "contexto",
+      contenido:
+        "Por siglos, el pueblo de Israel había adorado al Señor en un tabernáculo portátil: una carpa que se armaba y se desarmaba. Era funcional, pero provisional. Cuando Salomón finalmente construyó el templo en Jerusalén, tomó siete años de trabajo, materiales preciosos traídos de lugares lejanos y el esfuerzo de decenas de miles de obreros. No se escatimó en nada: paredes recubiertas de cedro y oro, querubines tallados, piedras cortadas con precisión. No porque Dios necesite lujo, sino porque dar lo mejor refleja lo que ese lugar representa. En la dedicación, el Señor respondió de manera dramática: Su gloria, como una nube, llenó el templo de tal manera que los sacerdotes no podían seguir officiando. Siglos después, cuando se restauró el Evangelio, el Señor volvió a pedir templos. En Doctrina y Convenios 88, los llamó 'casa de oración, casa de ayuno, casa de fe... casa de Dios'. Hoy los templos siguen siendo eso. No son simplemente edificios bonitos. El élder Andersen lo dijo de manera directa: 'El templo es literalmente la Casa del Señor. Deja que esas palabras se depositen en tu alma. Es Su casa.' Para vos, como joven que tal vez está aprendiendo a ver el templo como algo personal y no solo como un lugar donde van los adultos, esta lección te invita a preguntarte: ¿qué significa para mí que el Señor tenga una casa en la tierra, y qué haría yo para ser digno de entrar en ella?",
+    },
+    {
+      tipo: "escrituras",
+      citas: [
+        {
+          referencia: "1 Reyes 6:13",
+          texto:
+            "Y habitaré en medio de los hijos de Israel, y no abandonaré a mi pueblo Israel.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/6?lang=spa&id=p13#p13",
+        },
+        {
+          referencia: "1 Reyes 9:3",
+          texto:
+            "Y Jehová le dijo: Yo he oído tu oración y tu ruego que has hecho en mi presencia. Yo he santificado esta casa que tú has edificado, para poner mi nombre en ella para siempre; y mis ojos y mi corazón estarán ahí perpetuamente.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/9?lang=spa&id=p3#p3",
+        },
+        {
+          referencia: "Doctrina y Convenios 88:119",
+          texto:
+            "Organizaos; preparad todo lo necesario; y estableced una casa, aun una casa de oración, una casa de ayuno, una casa de fe, una casa de aprendizaje, una casa de gloria, una casa de orden, una casa de Dios.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p119#p119",
+        },
+        {
+          referencia: "Doctrina y Convenios 110:7–8",
+          texto:
+            "He aquí, el corazón de vuestro pueblo se regocijará, y millares y millares de los más humildes afluirán a esta casa para buscar sabiduría... Porque aquí estará mi morada, y el nombre de aquellos que ministraren será exaltado.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=spa&id=p7-p8#p7",
+        },
+      ],
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Presidente Russell M. Nelson",
+      fuente: "Conferencia General, Liahona, noviembre de 2022",
+      texto:
+        "Es significativo que el Salvador eligiera aparecerse a las personas en el templo. Es Su casa y está llena de Su poder. No perdamos nunca de vista lo que el Señor está haciendo por nosotros ahora: está propiciando que Sus templos estén más al alcance de todos, está acelerando el ritmo al que construimos templos y está aumentando nuestra capacidad de ayudar a recoger a Israel. Les prometo que aumentar el tiempo que pasan en el templo bendecirá su vida como nada más puede hacerlo.",
+    },
+    {
+      tipo: "conclusion",
+      contenido:
+        "El Templo de Salomón tardó siete años en construirse, utilizó materiales de lo mejor disponible y fue dedicado con una de las oraciones más largas del Antiguo Testamento. El Señor respondió llenando el templo con Su gloria. Esa misma presencia, esa misma santidad, está disponible para vos hoy en los templos modernos. El templo no es para cuando crezcas ni para cuando seas perfecto. Es para quien está dispuesto a prepararse. Preparar dignidad para el templo es una de las formas más concretas en que podés acercarte al Señor en este momento de tu vida.",
+    },
+    {
+      tipo: "cuestionario",
+      preguntas: [
+        "¿Qué pasó cuando se terminó de dedicar el Templo de Salomón según 1 Reyes 8 y 2 Crónicas 7? ¿Qué señal dio el Señor?",
+        "¿Qué diferencias y similitudes encontrás entre la construcción del Templo de Salomón y la de los templos de hoy?",
+        "¿Alguna vez visitaste o entraste a un templo? ¿Qué sentiste o notaste que fuera diferente a otros lugares?",
+        "1 Reyes 6:13 dice que el Señor quería 'habitar en medio de los hijos de Israel'. ¿Cómo cambia tu visión del templo saber que esa promesa sigue vigente hoy?",
+        "Luca vive a tres horas del templo más cercano y siente que el templo 'no es para él todavía' porque le parece muy lejos y muy complicado. Según lo que aprendiste hoy, ¿qué le dirías?",
+        "¿Qué paso práctico y alcanzable podrías dar en los próximos meses para prepararte para entrar al templo o para ir más seguido?",
+      ],
+    },
+  ],
+},
+
+// ─────────────────────────────────────────────
+// LECCIÓN 80: Evalúa tu aprendizaje 5
+// ─────────────────────────────────────────────
+{
+  id: "leccion-80",
+  title: "Lección 80: Evalúa tu aprendizaje 5",
+  type: "Dominio de la Doctrina",
+  description: "Reflexiona sobre tu progreso espiritual.",
+  chapterUrl:
+    "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/25-2-samuel-1-kings/254-assess-your-learning-5?lang=spa",
+  questions: [],
+  secciones: [
+    {
+      tipo: "contexto",
+      contenido:
+        "Una semilla no crece si nadie la revisa. Un atleta no mejora si nunca mira cómo está rindiendo. Esta lección tiene un propósito diferente a las otras: no es para aprender contenido nuevo, sino para detenerse y mirar hacia atrás. Desde Rut hasta 1 Reyes 11, estudiaste el fiel regreso de Rut, el llamado de Samuel, la valentía de David, la sabiduría de Salomón y el templo como Casa del Señor. Pero lo más importante no es si recordás los datos. Lo importante es si algo de todo eso cambió la forma en que pensás, orás o tomás decisiones. El manual propone tres preguntas para evaluar ese progreso: ¿Podés explicar alguno de los títulos de Jesucristo que estudiaste? ¿Creció tu deseo de ir al templo? ¿Mejoraste tu capacidad para recibir revelación personal? Ninguna de esas preguntas tiene una respuesta correcta o incorrecta. Son una invitación a que seas honesto con vos mismo sobre cómo vas en tu camino espiritual. Así como una semilla necesita ser revisada para saber si necesita más agua, más sol o menos tierra, vos también necesitás este momento para ajustar lo que haga falta.",
+    },
+    {
+      tipo: "escrituras",
+      citas: [
+        {
+          referencia: "1 Samuel 3:9",
+          texto:
+            "Y Elí dijo a Samuel: Ve y acuéstate; y si te llamare, dirás: Habla, Jehová, porque tu siervo oye.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p9#p9",
+        },
+        {
+          referencia: "Moroni 10:5",
+          texto:
+            "Y por el poder del Espíritu Santo podéis conocer la verdad de todas las cosas.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p5#p5",
+        },
+      ],
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Presidente Russell M. Nelson",
+      fuente: "Conferencia General, Liahona, mayo de 2018",
+      texto:
+        "En los días que nos esperan, los que no hayan aprendido a obtener revelación personal caerán. Por favor, empiece a trabajar en este don ahora. El Señor le ayudará a encontrar la manera de escuchar Su voz.",
+    },
+    {
+      tipo: "conclusion",
+      contenido:
+        "Evaluar tu aprendizaje espiritual no es un examen donde podés reprobar. Es un momento honesto con vos mismo y con el Señor. ¿Dónde estabas cuando empezaste este bloque del Antiguo Testamento? ¿Dónde estás ahora? Aunque el cambio sea pequeño, el Señor lo ve y lo valora. Un paso hacia Él siempre vale. Esta semana, elegí una cosa concreta que quieras mejorar basándote en lo que evaluaste hoy, y comprometete a darle seguimiento.",
+    },
+    {
+      tipo: "cuestionario",
+      preguntas: [
+        "De todos los títulos o funciones de Jesucristo que estudiaste (Redentor, Libertador, Creador, Legislador, Rey de Sion), ¿cuál te resonó más personalmente y por qué?",
+        "¿Qué pasaje de las Escrituras o relato del Antiguo Testamento de este bloque marcaste porque te impactó? ¿Qué te dijo ese versículo en ese momento?",
+        "¿Notaste algún cambio en tus sentimientos hacia el templo durante este año de Seminario? ¿A qué crees que se debe ese cambio (o la falta de él)?",
+        "Pensando en el relato de Samuel ('Habla, Señor, que tu siervo escucha'), ¿qué diferencia hay entre rezar para hablar con el Señor y rezar para escuchar al Señor?",
+        "Sofía siente que no progresó espiritualmente este año porque no cumplió todas las metas que se fijó al principio. Según la metáfora de la semilla que usa esta lección, ¿qué le dirías?",
+        "¿Qué ajuste específico querés hacer en las próximas semanas para seguir creciendo espiritualmente? Nombra algo concreto y alcanzable.",
+      ],
+    },
+  ],
+},
+
+// ─────────────────────────────────────────────
+// LECCIÓN 203: Preparación para entrar dignamente en el templo
+// ─────────────────────────────────────────────
+{
+  id: "leccion-203",
+  title: "Lección 203: Preparación para entrar dignamente en el templo",
+  type: "Especial",
+  description: "El Señor establece las normas de dignidad.",
+  chapterUrl:
+    "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/693-preparing-to-enter-worthily?lang=spa",
+  questions: [],
+  secciones: [
+    {
+      tipo: "contexto",
+      contenido:
+        "Imaginate que alguien muy especial —alguien que te quiere profundamente— te invita a su casa. Pero esa persona también establece ciertas condiciones para entrar: tienen que ir con una actitud específica, con un compromiso de honrar ese lugar. ¿Lo verías como una restricción o como una señal de lo sagrado que es ese espacio? Esa es exactamente la situación con el templo. El Señor tiene una casa en la tierra, y Él mismo establece quién puede entrar. No lo hace para excluir a nadie, sino porque el templo es un santuario donde Su Espíritu habita de manera especial, y eso requiere preparación. Las preguntas para la recomendación del templo cubren áreas como la fe, la ley del diezmo, la ley de castidad, el apoyo a los líderes de la Iglesia y la honestidad personal. El élder Rasband contó que su suegro, casi al final de su vida, pidió a su obispo que viniera a hacerle la entrevista para la recomendación porque quería irse 'recomendado al Señor'. No es un trámite burocrático. Es una declaración de que estás esforzándote por vivir de acuerdo con las normas del Señor. El hermano Wilcox aclaró algo importante: la dignidad no significa estar libre de mancha. Significa ser sincero y estar esforzándote. Eso es algo que cualquier joven de Seminario puede alcanzar hoy mismo, si está dispuesto a revisar honestamente dónde está y qué necesita ajustar.",
+    },
+    {
+      tipo: "escrituras",
+      citas: [
+        {
+          referencia: "Salmos 24:3–4",
+          texto:
+            "¿Quién subirá al monte de Jehová? ¿Y quién estará en su lugar santo? El limpio de manos y puro de corazón; el que no ha elevado su alma a cosas vanas, ni jurado con engaño.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=spa&id=p3-p4#p3",
+        },
+        {
+          referencia: "Doctrina y Convenios 8:2–3",
+          texto:
+            "Sí, te hablaré en tu mente y en tu corazón, por medio del Espíritu Santo, que vendrá sobre ti y que morará en tu corazón. Ahora, éste es el espíritu de revelación.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=spa&id=p2-p3#p2",
+        },
+        {
+          referencia: "Ezequiel 44:9",
+          texto:
+            "Así ha dicho Jehová el Señor: Ningún extranjero, incircunciso de corazón ni incircunciso de carne, entrará en mi santuario, de ningún extranjero que esté entre los hijos de Israel.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/44?lang=spa&id=p9#p9",
+        },
+      ],
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Élder Ronald A. Rasband",
+      fuente: "Conferencia General, Liahona, noviembre de 2020",
+      texto:
+        "El templo es la Casa del Señor y un santuario para resguardarse del mundo. Su Espíritu envuelve a quienes adoran dentro de esas paredes sagradas. Él establece las normas por las cuales entramos como Sus invitados. El ser dignos de poseer una recomendación vigente para el templo es tanto una protección del adversario como una promesa de que el Espíritu estará con vosotros.",
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Élder Patrick Kearon",
+      fuente: "Conferencia General, Liahona, mayo de 2024",
+      texto:
+        "El hermoso plan de nuestro Padre está diseñado para llevarlos a casa, no para dejarlos afuera. Nadie ha construido una barrera ni ha puesto a alguien allí para regresarlos y negarles el paso. De hecho, es justamente lo contrario. Dios los busca de manera incesante. Él quiere que todos Sus hijos elijan regresar a Él.",
+    },
+    {
+      tipo: "conclusion",
+      contenido:
+        "Las normas de dignidad del templo no son un obstáculo que el Señor pone para mantenerte afuera. Son un camino que Él diseñó para acercarte a Él. Cada área que cubre la recomendación —fe, integridad, castidad, diezmo— es una parte de la vida que, cuando se vive bien, te hace más parecido a Él y más capaz de sentir Su Espíritu. La pregunta que esta lección te deja no es '¿soy perfecto?', sino '¿estoy esforzándome con sinceridad?' Si la respuesta es sí, estás en el camino correcto.",
+    },
+    {
+      tipo: "cuestionario",
+      preguntas: [
+        "¿Qué áreas de tu vida cubren las preguntas para la recomendación del templo? Mencioná al menos tres.",
+        "Según el relato del suegro del élder Rasband, ¿qué significa para vos la idea de irte de esta vida 'recomendado al Señor'?",
+        "¿Hubo alguna pregunta de las de la recomendación del templo que te llamó la atención o sobre la que querés saber más? ¿Por qué esa?",
+        "El élder Kearon dijo que el plan del Padre está diseñado para 'llevarlos a casa, no para dejarlos afuera'. ¿Cómo cambia eso la forma en que pensás en las normas del templo?",
+        "Mateo siente que no puede obtener una recomendación para el templo porque cometió un error grave hace seis meses y siente que no es suficientemente digno. Según lo que enseñó el hermano Wilcox, ¿qué le dirías?",
+        "¿Cuál es una cosa concreta que podrías hacer esta semana para acercarte más a ser digno de entrar al templo o para mantener la dignidad que ya tenés?",
+      ],
+    },
+  ],
+},
   {
     id: "leccion-81",
     title: "Lección 81: 1 Reyes 17",
