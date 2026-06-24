@@ -20,6 +20,7 @@ export interface Seccion {
   autor?: string
   fuente?: string
   texto?: string
+  link?: string
   preguntas?: string[]
   bloques?: BloqueResumen[]
 }

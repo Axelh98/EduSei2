@@ -26,12 +26,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder Michael T. Ringwood",
         fuente: "Liahona, mayo de 2022, pág. 88",
         texto: "Somos la esencia [el centro focal] del plan de nuestro Padre Celestial y la razón de la misión de nuestro Salvador. Capítulo tras capítulo [del Antiguo Testamento] descubrimos ejemplos de cómo el Padre Celestial y Jesucristo se involucran de manera íntima en nuestra vida.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/44ringwood?lang=spa",
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Dallin H. Oaks",
         fuente: "Liahona, mayo de 2023, pág. 102",
         texto: "Los anales de las Escrituras con las palabras pronunciadas por 'Dios' o el 'Señor' son casi siempre las palabras de Jehová, nuestro Señor resucitado, Jesucristo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/04/51oaks?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -92,12 +94,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Dallin H. Oaks",
         fuente: "Liahona, mayo de 2021, pág. 75",
         texto: "¿Qué ha hecho Jesucristo por cada uno de nosotros? Ha hecho todo lo que es esencial para nuestra travesía por la vida terrenal hacia el destino señalado en el plan de nuestro Padre Celestial. Su Hijo Unigénito, Jesucristo, es la figura central.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/35oaks?lang=spa",
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Gary E. Stevenson",
-        fuente: "Para la Fortaleza de la Juventud, enero de 2022, pág. 4",
-        texto: "Con tu cuerpo puedes escoger seguir fielmente a Jesucristo; puedes escoger obedecer los mandamientos de Dios, recibir las ordenanzas sagradas y hacer los convenios del Evangelio y guardarlos. El hacer esas cosas te preparará para alcanzar tu destino divino.",
+        autor: "Presidente Dieter F. Uchtdorf",
+        fuente: "Liahona, mayo de 2013, págs. 126–127",
+        texto: "Regresamos a esa primera morada con la certeza absoluta de que Dios existía porque lo viste y lo escuchaste. Conocías a Jesucristo, quien se convertiría en el Cordero de Dios. Tenías fe en Él... Habías participado en los grandes concilios celestiales y sabías que tu Salvador y Redentor, Jesucristo, proveería un camino para que fueras limpiado del pecado y rescatado de la muerte física.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/your-wonderful-journey-home?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -134,7 +138,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
           "¿Qué te parece más sorprendente o emocionante del hecho de que existías antes de nacer? ¿Cómo te hace sentir eso?",
           "¿En qué situación difícil de tu vida —tuya o de alguien cercano— el Plan de Salvación te daría o te dio esperanza real?",
           "¿Qué diferencia hace en cómo tratás a los demás saber que todos —incluidos los que te caen mal— vivieron antes con el mismo Padre Celestial que vos?",
-          "El élder Stevenson menciona las ordenanzas y los convenios como pasos concretos hacia tu destino divino. ¿Cuál de esos pasos sentís que necesitás fortalecer más ahora mismo?",
+          "El presidente Uchtdorf describe que antes de venir a esta tierra ya conocías a Jesucristo y tenías fe en Él. ¿Cómo cambia esa perspectiva la manera en que ves los convenios y ordenanzas del Evangelio que tenés disponibles ahora?",
           "Pensá en alguien de tu familia o grupo de amigos que esté pasando por algo difícil. ¿Cómo le explicarías el Plan de Salvación de una manera que le dé esperanza concreta?",
           "¿Qué decisión pequeña pero real podés tomar esta semana para vivir de acuerdo con el propósito por el que viniste a esta tierra?",
         ],
@@ -158,12 +162,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Henry B. Eyring",
         fuente: "Liahona, agosto de 2016, pág. 5",
         texto: "Usted simplemente viva digno del Reino Celestial, y la situación de su familia será más maravillosa de lo que pueda imaginar. Testifico que, a medida que vivan de manera que sean dignos del Reino Celestial, esa promesa profética también se cumplirá para ustedes.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2016/08?lang=spa",
       },
       {
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
         fuente: "Liahona, mayo de 2015",
         texto: "Al casarse y constituir una familia de acuerdo con el evangelio, los Santos se convierten en partícipes de la más sagrada de las ordenanzas disponibles en la tierra.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -224,12 +230,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder David A. Bednar",
         fuente: "Liahona, noviembre de 2022, pág. 94",
         texto: "Nuestra preocupación a corto plazo con 'las cosas de este mundo' y 'los honores de los hombres' puede llevarnos a perder nuestra primogenitura espiritual por mucho menos que un guisado de lentejas. Cada uno de nosotros debemos evaluar nuestras prioridades temporales y espirituales con sinceridad y con espíritu de oración.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/46bednar?lang=spa",
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2022",
-        texto: "Los que se niegan a que el mundo los moldee estarán preparados para que el Señor los purifique. Les invito a poner su mira en el gozo que puede ser vuestro ahora y en la eternidad.",
+        autor: "Élder Matthew L. Carpenter",
+        fuente: "Liahona, mayo de 2024, pág. 62",
+        texto: "¿Cuáles son las bendiciones de la exaltación? Incluyen morar en la presencia de Dios por toda la eternidad junto al cónyuge, heredar 'tronos, reinos, principados y potestades... y una continuación de los descendientes para siempre jamás', recibir todo lo que el Padre Celestial tiene.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2024/04/34carpenter?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -290,12 +298,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder Dieter F. Uchtdorf",
         fuente: "Liahona, noviembre de 2020, pág. 52",
         texto: "Soy testigo de que, aunque a veces nos sintamos sepultados por las pruebas de la vida o rodeados de tinieblas emocionales, el amor de Dios y las bendiciones del Evangelio restaurado de Jesucristo harán que surja algo inimaginable.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/47uchtdorf?lang=spa",
       },
       {
         tipo: "enseñanza",
         autor: "Élder Richard G. Scott",
         fuente: "Liahona, noviembre de 2010",
         texto: "El Padre Celestial y Su Hijo conocen perfectamente tu capacidad para crecer al superar los desafíos. Han reservado para ti ciertas pruebas diseñadas específicamente para tu crecimiento eterno.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/10?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -356,12 +366,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder David A. Bednar",
         fuente: "Liahona, mayo de 2013, pág. 42",
         texto: "Esas relaciones no son una mera curiosidad para explorar, un apetito que satisfacer, ni un tipo de recreación o entretenimiento que debe procurarse egoístamente. Más bien, en la vida mortal son una de las máximas expresiones de nuestro potencial y naturaleza divinos, y un medio para fortalecer los lazos emocionales y espirituales entre esposo y esposa.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/we-believe-in-being-chaste?lang=spa",
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Gordon B. Hinckley",
         fuente: "Liahona, noviembre de 1998",
         texto: "La ley de castidad es la ley de Dios. Es la ley que protege la vida, la familia y la felicidad.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1998/10?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -422,6 +434,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder David A. Bednar",
         fuente: "Liahona, noviembre de 2009",
         texto: "Pedir que Dios nos ayude a alcanzar metas buenas y santas no es presunción; es fe. Él quiere que progresemos y que le pidamos Su ayuda en ese proceso.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2009/10?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -480,8 +493,9 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2018",
-        texto: "En los días que vienen, no será posible sobrevivir espiritualmente sin la orientación del Espíritu Santo. Tenemos que estar aprendiendo continuamente.",
+        fuente: "Liahona, mayo de 2018, pág. 96",
+        texto: "En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -542,6 +556,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder Quentin L. Cook",
         fuente: "Liahona, noviembre de 2014",
         texto: "Seamos cuidadosos y no despreocupados en nuestro uso de la tecnología. Usémosla para edificar y bendecir, no para herir o destruir.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/10?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -602,12 +617,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, mayo de 2022, pág. 100",
         texto: "Si en este momento el perdón parece imposible, supliquen por el poder que se deriva de la sangre expiatoria de Jesucristo para que los ayude. Si lo hacen, les prometo paz personal y un súbito aumento de su ímpetu espiritual.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/47nelson?lang=spa",
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Boyd K. Packer",
         fuente: "Liahona, mayo de 2011, pág. 33",
         texto: "Esa actitud se parece a la del hombre que fue golpeado con un garrote. Ofendido, toma el garrote y se golpea a sí mismo en la cabeza todos los días de su vida. Si alguien los ha ofendido, perdonen, olviden, y déjenlo así.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/04/cleansing-the-inner-vessel?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -668,6 +685,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Joseph Fielding Smith",
         fuente: "Doctrina de Salvación, vol. 1",
         texto: "José Smith fue escogido antes de que naciera para ser el profeta de la Restauración, para cumplir esta misión en la dispensación de la plenitud de los tiempos.",
+        link: "https://www.churchofjesuschrist.org/study/manual/teachings-joseph-f-smith?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -763,6 +781,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder D. Todd Christofferson",
         fuente: "Liahona, mayo de 2010",
         texto: "Jesucristo es el tema central de todas las Escrituras. Cada libro, cada profeta, cada convenio apunta hacia Él y hacia Su Expiación.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/04?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -818,6 +837,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder David A. Bednar",
         fuente: "Liahona, noviembre de 2012",
         texto: "La espiritualidad necesita renovarse cada día a través de la oración, el estudio de las Escrituras y la obediencia. El Señor puede magnificar nuestro esfuerzo honesto.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2012/10?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -873,12 +893,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, mayo de 2017, pág. 40",
         texto: "Los discípulos verdaderos de Jesucristo están dispuestos a destacarse, defender sus principios y ser diferentes a la gente del mundo. Son impávidos, devotos y valientes.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa",
       },
       {
         tipo: "enseñanza",
         autor: "Élder Neal A. Maxwell",
         fuente: "Liahona, noviembre de 1996",
         texto: "Las personas con convicción real actúan correctamente incluso cuando la presión del entorno juega en su contra. Su brújula moral no es la aprobación de los demás, sino la voluntad de Dios.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1996/10?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -936,9 +958,10 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2013",
-        texto: "El Señor no llama a los capacitados; capacita a los llamados. Moisés, Pedro, José Smith sintieron lo mismo que tú cuando te piden algo que parece fuera de tu alcance.",
+        autor: "Élder Neil L. Andersen",
+        fuente: "Liahona, mayo de 2018, pág. 26",
+        texto: "Vivimos en un mundo donde hay el clamor de millones de voces. La internet, nuestro teléfono inteligente, nuestras diversas opciones de entretenimiento, todos solicitan nuestra atención y ejercen su influencia sobre nosotros.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -992,13 +1015,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Moisés y Aarón cumplieron exactamente lo que el Señor les pidió. Se presentaron ante el faraón y le dieron el mensaje: 'Deja ir a mi pueblo.' Era obediencia perfecta. Y el resultado fue el opuesto de lo esperado: el faraón no solo dijo que no, sino que duplicó la carga de trabajo de los israelitas. Ahora tenían que fabricar el mismo número de ladrillos, pero sin que se les diera paja —tenían que buscarla ellos mismos. El pueblo se quejó furiosamente contra Moisés. Y Moisés, exhausto y confundido, le hizo una pregunta honesta y directa a Dios: '¿Por qué has afligido a este pueblo? ¿Para qué me enviaste?'\n\nNo fue una crisis de fe. Fue fe lo suficientemente madura como para llevar las dudas directamente al Señor en lugar de apartarse. Y la respuesta de Dios no fue una explicación larga. Fue una afirmación de identidad: 'Yo soy Jehová.' Y luego una renovación de Sus promesas: 'Os sacaré de debajo de las tareas pesadas de Egipto, y os libraré de su servidumbre, y os redimiré.'\n\nEste principio es uno de los más difíciles y más reconfortantes del Evangelio: obedecer al Señor a veces empeora las circunstancias antes de mejorarlas. El presidente Uchtdorf lo expresó con claridad: vivimos en un mundo que quiere resultados inmediatos. Pero el tiempo del Señor no siempre coincide con el nuestro. La fe real —la fe madura— no es la que solo confía cuando las cosas mejoran de inmediato. Es la que sigue confiando en la oscuridad, porque conoce al Señor que está al otro lado.",
+        contenido: 'Moisés y Aarón cumplieron exactamente lo que el Señor les pidió. Se presentaron ante el faraón y le dieron el mensaje: "Deja ir a mi pueblo." Era obediencia perfecta. Y el resultado fue el opuesto de lo esperado: el faraón no solo dijo que no, sino que duplicó la carga de trabajo de los israelitas. Ahora tenían que fabricar el mismo número de ladrillos, pero sin que se les diera paja —tenían que buscarla ellos mismos. El pueblo se quejó furiosamente contra Moisés. Y Moisés, exhausto y confundido, le hizo una pregunta honesta y directa a Dios: "¿Por qué has afligido a este pueblo? ¿Para qué me enviaste?"\n\nNo fue una crisis de fe. Fue fe lo suficientemente madura como para llevar las dudas directamente al Señor en lugar de apartarse. Y la respuesta de Dios no fue una explicación larga. Fue una afirmación de identidad: "Yo soy Jehová." Y luego una renovación de Sus promesas: "Os sacaré de debajo de las tareas pesadas de Egipto, y os libraré de su servidumbre, y os redimiré."\n\nEste principio es uno de los más difíciles y más reconfortantes del Evangelio: obedecer al Señor a veces empeora las circunstancias antes de mejorarlas. El élder Christofferson lo articuló bien: no debemos imaginar el plan de Dios como una "máquina dispensadora de bendiciones" donde la obediencia produce resultados automáticos en el tiempo que esperamos. Dios sí honra Sus promesas, pero las bendiciones —tanto temporales como espirituales— las administra Él, no nosotros. La fe real es la que sigue adelante aunque no vea resultados inmediatos, confiando en que Dios cumplirá a Su tiempo y a Su manera.',
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 1999",
-        texto: "Cuando Dios parece habernos llevado a un callejón sin salida, puede ser porque está a punto de abrirte el mar.",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "Liahona, mayo de 2022, págs. 78–79",
+        texto: "Algunas personas malinterpretan las promesas de Dios, creyendo que la obediencia produce resultados específicos en un horario determinado... No debemos imaginar el plan de Dios como una máquina cósmica dispensadora donde podemos: elegir una bendición deseada, insertar la cantidad requerida de buenas obras y recibir automáticamente lo pedido. Dios sí honrará Sus convenios y promesas hechos con cada uno de nosotros. No necesitamos preocuparnos por eso.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/41christofferson?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -1035,7 +1059,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
           "¿Alguna vez hiciste lo correcto y las cosas empeoraron en lugar de mejorar? ¿Cómo manejaste eso espiritualmente?",
           "Moisés le preguntó honestamente a Dios: '¿Por qué has afligido a este pueblo?' ¿Te parece bien llevar tus propias dudas y preguntas al Señor así de directamente? ¿Por qué?",
           "La respuesta de Dios a Moisés fue simplemente: 'Yo soy Jehová.' ¿Cómo te ayuda esa afirmación de identidad divina a afrontar situaciones donde el Señor no da explicaciones detalladas?",
-          "El élder Holland habla de 'el mar que se va a abrir'. ¿Hay alguna situación en tu vida ahora mismo en la que necesitás confiar en que el Señor está preparando ese milagro aunque todavía no lo veas?",
+          "El élder Christofferson enseña que no debemos esperar que Dios funcione como 'una máquina dispensadora de bendiciones'. ¿Hay alguna situación en tu vida ahora mismo en la que estás esperando resultados del Señor según tu cronograma? ¿Cómo podés entregarle el tiempo a Él?",
           "¿Cómo equilibrás la honestidad ante Dios —llevarle tus dudas reales— con la fe en Su plan, aunque ese plan parezca empeorar las cosas antes de mejorarlas?",
           "¿Qué promesa del Señor estás sosteniendo ahora mismo con fe, aunque todavía no hayas visto su cumplimiento? ¿Qué te ayuda a seguir confiando?",
         ],
@@ -1059,6 +1083,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, noviembre de 2021",
         texto: "El templo sagrado de Dios es un lugar de revelación. Allí el Señor puede revelar a Sus siervos lo que necesitan saber para cumplir Su obra.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/47nelson?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -1119,6 +1144,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, mayo de 2021",
         texto: "La Resurrección de Jesucristo es la más poderosa realidad que existe. Porque Él vive, nosotros también viviremos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/57nelson?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -1172,13 +1198,21 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Dos veces al año el Señor habla a Sus hijos. No de manera vaga ni general: a través de Sus profetas, videntes y reveladores, en la Conferencia General. Doctrina y Convenios 1:38 lo establece con precisión: 'ya sea por mi propia voz o por la voz de mis siervos, es lo mismo.' No es una exageración inspiracional. Es una declaración doctrinal.\n\nEso transforma completamente la manera en que deberías acercarte a cada Conferencia General. No es un evento religioso que escuchás por costumbre. Es la voz del Señor dirigiéndose a Sus hijos en este momento específico de la historia. Los mensajes no son discursos motivacionales preparados por personas con buenas intenciones: son revelación para nuestra época, entregada por hombres a quienes el Señor 'personalmente ha preparado, llamado, corregido, inspirado, reprendido, santificado y sostenido.'\n\nEl valor que extraés de la Conferencia General depende directamente de la preparación con que llegás. El presidente Russell M. Nelson dio un consejo que suena extremo hasta que pensás en lo que implica: 'Escuchen durante la Conferencia General como si su vida dependiera de ello, porque en sentido espiritual, así es.' Llegar con preguntas específicas, con un corazón abierto, con el propósito de recibir revelación personal —eso transforma la Conferencia de un programa que seguís en una experiencia directa con el cielo.\n\nAmós 3:7 nos asegura que el Señor no actúa sin revelar Su voluntad a Sus profetas primero. La Conferencia General es esa revelación disponible para todos.",
+        contenido: "Dos veces al año el Señor habla a Sus hijos. No de manera vaga ni general: a través de Sus profetas, videntes y reveladores, en la Conferencia General. Doctrina y Convenios 1:38 lo establece con precisión: 'ya sea por mi propia voz o por la voz de mis siervos, es lo mismo.' No es una exageración inspiracional. Es una declaración doctrinal.\n\nEso transforma completamente la manera en que deberías acercarte a cada Conferencia General. No es un evento religioso que escuchás por costumbre. Es la voz del Señor dirigiéndose a Sus hijos en este momento específico de la historia. El élder Andersen lo testificó directamente: la conferencia general es uno de los momentos sumamente importantes en los que Jesucristo da dirección a Su Iglesia y a nosotros en forma personal.\n\nEl élder Uchtdorf hace una pregunta que vale la pena llevar a cada Conferencia: '¿Qué les diría el Salvador si estuviera aquí?' Ese debería ser el marco con el que abrís cada discurso. Llegar con preguntas específicas, con un corazón abierto, con el propósito de recibir revelación personal —eso transforma la Conferencia de un programa que seguís en una experiencia directa con el cielo.\n\nAmós 3:7 nos asegura que el Señor no actúa sin revelar Su voluntad a Sus profetas primero. La Conferencia General es esa revelación disponible para todos.",
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2018",
-        texto: "Escuchen durante la Conferencia General como si su vida dependiera de ello, porque en sentido espiritual, así es.",
+        autor: "Élder Dieter F. Uchtdorf",
+        fuente: "Liahona, noviembre de 2022, págs. 9–10",
+        texto: "Mis queridos jóvenes amigos, si el Salvador estuviera aquí en este momento, ¿qué les diría? Creo que comenzaría por expresar Su profundo amor por ustedes... El Salvador declararía, sin dejar lugar a dudas, que ustedes son hijas e hijos del Dios Todopoderoso. Su Padre Celestial es el Ser más glorioso del universo; rebosa de amor, gozo, pureza, santidad, luz, gracia y verdad; y quiere que un día ustedes hereden todo lo que Él tiene.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/12uchtdorf?lang=spa",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Neil L. Andersen",
+        fuente: "Liahona, noviembre de 2017, pág. 122",
+        texto: "Testifico que Jesús es el Cristo, que Él guía los asuntos de esta obra sagrada y que la conferencia general es uno de los momentos sumamente importantes en los que Él da dirección a Su Iglesia y a nosotros en forma personal.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-voice-of-the-lord?lang=spa",
       },
       {
         tipo: "escrituras",
@@ -1209,7 +1243,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         preguntas: [
           "¿Qué pregunta personal llevarías a la próxima Conferencia General esperando una respuesta del Señor?",
           "¿Recordás algún mensaje de una Conferencia pasada que respondió una pregunta específica tuya o cambió algo concreto en tu vida? ¿Cuál fue?",
-          "El presidente Nelson dice que debemos escuchar 'como si nuestra vida dependiera de ello'. ¿Qué cambiaría en tu actitud si lo tomaras completamente en serio?",
+          "El élder Andersen dice que la conferencia general es cuando Cristo 'da dirección a Su Iglesia y a nosotros en forma personal'. ¿Cómo cambia esa perspectiva la manera en que te preparás para escuchar cada discurso?",
           "DyC 1:38 dice que la voz de los profetas es 'lo mismo' que la voz del Señor. ¿Cómo afecta esa doctrina la forma en que tratás los mensajes de la Conferencia en tu estudio personal?",
           "¿Qué hábito concreto —antes, durante o después de la Conferencia— podrías adoptar para aprovecharla mejor?",
           "¿Qué pasaría espiritualmente en tu vida si decidieras tratar los mensajes de la próxima Conferencia General con el mismo cuidado con el que estudiás las Escrituras?",
@@ -1231,9 +1265,10 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, noviembre de 2011",
-        texto: "La obra de los templos y de la historia familiar une los corazones de las generaciones en un lazo eterno que el mundo jamás podrá romper.",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, mayo de 2020, pág. 90",
+        texto: "Lo escuchamos a Él al dar oído a las palabras de los profetas, videntes y reveladores. Los apóstoles ordenados de Jesucristo siempre testifican de Él. Ellos nos indican el camino, en tanto avanzamos por el doloroso laberinto de nuestras experiencias terrenales. ¿Qué sucederá si escuchamos, prestamos atención y damos oído con mayor intención a lo que el Salvador ha dicho, y lo que está diciendo ahora a través de Sus profetas? Yo les prometo que serán bendecidos con poder adicional para lidiar con la tentación, las pruebas y la debilidad.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa",
       },
       {
         tipo: "escrituras",
