@@ -38,8 +38,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2019",
-        texto: "Sean humildes. En oración pidan tener ojos para ver la mano de Dios en su vida y en el mundo que los rodea. Pídanle que les diga si realmente está allí, si realmente los conoce.",
+        fuente: "\"Ven, sígueme\", Liahona, mayo de 2019, pág. 90",
+        texto: "Sean humildes. En oración pidan tener ojos para ver la mano de Dios en su vida y en el mundo que los rodea. Pídanle que les diga si realmente está allí, si realmente los conoce. Pregúntenle qué siente Él por ustedes y luego, escuchen.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/46nelson?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -101,8 +102,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2022",
-        texto: "Debido a que el Salvador, por medio de Su expiación infinita, nos redimió a todos nosotros de la debilidad, los errores y el pecado, y experimentó cada dolor, preocupación y carga que hayan tenido, entonces, conforme se arrepientan verdaderamente y busquen Su ayuda, podrán elevarse por encima de este mundo precario.",
+        fuente: "\"Vencer al mundo y hallar descanso\", Liahona, noviembre de 2022, pág. 96",
+        texto: "Debido a que el Salvador, por medio de Su expiación infinita, nos redimió a todos nosotros de la debilidad, los errores y el pecado, y experimentó cada dolor, preocupación y carga que ustedes hayan tenido alguna vez, entonces, conforme se arrepientan verdaderamente y busquen Su ayuda, podrán elevarse por encima de este mundo precario actual.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/47nelson?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -159,8 +161,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Dale G. Renlund",
-        fuente: "Liahona, mayo de 2020",
-        texto: "Nuestro Padre Celestial quiere que recordemos Su bondad y la de Su Hijo Amado por la influencia que dicho recuerdo tiene en nosotros. Al reflexionar en la compasión que Ellos sienten, nos volvemos más humildes, firmes y dedicados a la oración.",
+        fuente: "\"Considerad la bondad y la grandeza de Dios\", Liahona, mayo de 2020, pág. 41",
+        texto: "Nuestro Padre Celestial quiere que recordemos Su bondad y la de Su Hijo Amado, no para Su propia gratificación, sino por la influencia que dicho recuerdo tiene en nosotros. Al reflexionar en la compasión que Ellos sienten, nos volvemos más humildes, firmes y dedicados a la oración.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -217,8 +220,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Richard G. Scott",
-        fuente: "Liahona, noviembre de 2012",
-        texto: "La revelación personal es el canal más preciado que el Padre Celestial usa para guiar a Sus hijos en la tierra. Buscarla sinceramente es uno de los actos de mayor fe que podemos realizar.",
+        fuente: "\"Cómo obtener revelación e inspiración en tu propia vida\", Liahona, mayo de 2012",
+        texto: "La comunicación con nuestro Padre Celestial no es un asunto trivial. Es un privilegio sagrado. Está basada en principios eternos que no cambian. Recibimos ayuda de nuestro Padre Celestial en respuesta a nuestra fe, obediencia y al uso apropiado del albedrío.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2012/04/how-to-obtain-revelation-and-inspiration-for-your-personal-life?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -275,8 +279,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Hermano Milton Camargo",
-        fuente: "Liahona, mayo de 2023",
+        fuente: "\"Céntrense en Jesucristo\", Liahona, mayo de 2023, pág. 64",
         texto: "Mi padre solía decirme: 'No te centres tanto en tus problemas que no puedas ver la solución.' Testifico que el Señor Jesucristo es la solución incluso para nuestros problemas más difíciles. Él puede tener una presencia activa y diaria en nuestra vida.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/04/32camargo?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -332,9 +337,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Dieter F. Uchtdorf",
-        fuente: "Liahona, noviembre de 2013",
-        texto: "La gratitud no es solo un sentimiento cálido del corazón; es también una actitud del alma que puede cambiarlo todo. Las personas agradecidas no murmuran porque están demasiado ocupadas viendo las bendiciones.",
+        autor: "Élder David A. Bednar",
+        fuente: "\"Los principios de mi evangelio\", Liahona, mayo de 2021, pág. 126",
+        texto: "Los principios del Evangelio son para mí y para ti lo que el timón es para un barco. Los principios correctos nos permiten encontrar nuestro camino y mantenernos firmes, constantes e inamovibles, de modo que no perdamos el equilibrio y caigamos en las tempestuosas tormentas de oscuridad y confusión de los últimos días.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/56bednar?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -390,9 +396,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, noviembre de 2012",
-        texto: "La espiritualidad no puede almacenarse. Necesita renovarse cada día a través de la oración, el estudio de las Escrituras y la obediencia.",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "\"El pan de cada día: Modelo\", Biblioteca del Evangelio (video), 2013",
+        texto: "Todos reconocemos la necesidad de sustento físico. El hambre y la sed nos lo recuerdan muy claramente si nos olvidamos. Pero la necesidad espiritual de sustento es igualmente fuerte.",
+        link: "https://www.churchofjesuschrist.org/media/video/2013-08-0012-daily-bread-pattern?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -449,8 +456,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2018",
-        texto: "En los días que vienen, no será posible sobrevivir espiritualmente sin la orientación del Espíritu Santo. Tenemos que estar aprendiendo continuamente a escuchar, reconocer y seguir esa guía.",
+        fuente: "\"Revelación para la Iglesia, revelación para nuestras vidas\", Liahona, mayo de 2018, pág. 96",
+        texto: "En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -506,9 +514,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2013",
-        texto: "Aunque no siempre podamos ver el destino al que el Señor nos dirige, podemos confiar en que Él sí lo ve. El primer paso en la oscuridad siempre precede a la luz del siguiente escalón.",
+        autor: "Presidente Dieter F. Uchtdorf",
+        fuente: "\"Venid, uníos a nosotros\", Liahona, noviembre de 2013, pág. 23",
+        texto: "La belleza del proceso del Evangelio es que se puede comenzar a partir de donde se está... Primero duded de vuestras dudas antes de dudar de vuestra fe. Nunca permitamos que la duda nos tenga prisioneros y nos impida gozar del amor divino, la paz y los dones que vienen a través de la fe en el Señor Jesucristo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/come-join-with-us?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -564,9 +573,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder D. Todd Christofferson",
-        fuente: "Liahona, mayo de 2009",
-        texto: "Los convenios con Dios no son restricciones: son privilegios. Cada vez que guardamos un convenio, no estamos cediendo libertad; estamos entrando más profundamente en la relación más sagrada que existe.",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "\"El convenio sempiterno\", Liahona, octubre de 2022, pág. 6",
+        texto: "Una vez que ustedes y yo hemos hecho un convenio con Dios, nuestra relación con Él se vuelve mucho más estrecha que antes del convenio. Ahora estamos ligados en unión. Debido a nuestro convenio con Dios, Él jamás cejará en Sus esfuerzos por ayudarnos, y nunca agotaremos Su misericordiosa paciencia para con nosotros. Cada uno de nosotros tiene un lugar especial en el corazón de Dios.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -578,7 +588,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         preguntas: [
           "¿Qué sentís cuando leés que el Señor te llama Su 'especial tesoro'? ¿Te resulta fácil o difícil creerlo sobre vos mismo?",
           "¿Qué convenios tenés con el Señor ahora mismo? ¿Qué significan esos convenios para vos en este momento de tu vida?",
-          "El élder Christofferson dice que guardar convenios es entrar en 'la relación más sagrada que existe'. ¿Cómo cambia esa perspectiva tu actitud hacia los mandamientos?",
+          "El presidente Nelson dice que quienes hacen convenios con Dios quedan 'ligados en unión' con Él. ¿Cómo cambia esa perspectiva tu actitud hacia los mandamientos y la Santa Cena?",
           "El Señor pidió que Israel se santificara durante tres días antes de recibir Su voz. ¿Qué tipo de preparación practicás vos antes de buscar la guía del Señor?",
           "Pedro cita las mismas palabras del Sinaí para los primeros cristianos. ¿Qué te dice eso sobre la continuidad del plan del Padre a través del tiempo?",
           "¿Cómo podrías honrar esta semana el convenio que ya tenés con el Señor de una manera más concreta y visible?",
@@ -623,8 +633,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2015",
-        texto: "El sábado es el día de Dios. Es una señal entre Dios y Su pueblo. Si el sábado es sagrado para ti, si se convierte en el punto culminante de la semana, te será imposible hacer actividades mundanas ese día.",
+        fuente: "\"El día de reposo es una delicia\", Liahona, mayo de 2015, pág. 130",
+        texto: "No fue sino hasta más adelante que aprendí de las Escrituras que mi conducta y mi actitud en el día de reposo constituían una señal entre mi Padre Celestial y yo. Con ese entendimiento, ya no necesité más listas de lo que se podía y no se podía hacer. Cuando tenía que tomar una decisión en cuanto a si una actividad era o no era apropiada para el día de reposo, simplemente me preguntaba a mí mismo: '¿Qué señal quiero darle a Dios?'. Esa pregunta hizo que mis opciones respecto al día de reposo fueran bien claras. ... ¿Qué señal le darás al Señor para demostrarle tu amor por Él?",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -680,9 +691,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Dieter F. Uchtdorf",
-        fuente: "Liahona, mayo de 2011",
-        texto: "El arrepentimiento no es un castigo; es el regalo más grandioso que Dios nos ha dado después de la vida misma. No te rindas. El Señor siempre tiene segundas tablas para quien regresa a Él.",
+        autor: "Élder Gerrit W. Gong",
+        fuente: "\"Felices y para siempre\", Liahona, noviembre de 2022, pág. 84",
+        texto: "Quienes deliberadamente eligen la maldad, quienes conscientemente postergan el arrepentimiento, o quienes de cualquier manera premeditada o deliberada quebrantan los mandamientos, planificando un fácil arrepentimiento, serán juzgados por Dios. No podemos pecar deliberadamente el sábado y luego esperar el perdón automático al tomar la Santa Cena el domingo. ... Ninguno de nosotros debería posponer el arrepentimiento. Las bendiciones del arrepentimiento comienzan cuando comenzamos a arrepentirnos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/37gong?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -739,8 +751,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Neal A. Maxwell",
-        fuente: "Liahona, noviembre de 1994",
-        texto: "La fe no requiere que entendamos todo antes de creer. Requiere que confiemos en Quien sabe todo, mientras nosotros aprendemos gradualmente lo que necesitamos saber.",
+        fuente: "\"Lord, Increase Our Faith\" (Señor, aumenta nuestra fe), 1994, pág. 43",
+        texto: "Los frentes tormentosos arrasan nuestra vida, pero no duran eternamente. Podemos aprender la importante diferencia que hay entre un pequeño nubarrón y las tinieblas.",
+        // ⚠️ PENDIENTE: Verificar si este texto aparece en el manual AT 2026 de L164. Cita verificada en manuales SUD pero no confirmada en 614-examining-gospel-topics específicamente.
       },
       {
         tipo: "conclusion",
@@ -797,8 +810,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2024",
-        texto: "Todo sincero buscador de Jesucristo lo encontrará en el templo. El templo no es solo un edificio sagrado; es el lugar donde el Salvador puede revelar Sus verdades más preciadas.",
+        fuente: "\"El templo y tu fundamento espiritual\", Liahona, noviembre de 2021, pág. 95",
+        texto: "Si aún no amas asistir al templo, ve más seguido, no menos. Deja que el Señor, por Su Espíritu, te enseñe e inspire allí. Te prometo que con el tiempo el templo será un lugar de seguridad, consuelo y revelación.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/49nelson?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -812,7 +826,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
           "El velo se rasgó en el momento de la muerte de Jesús. ¿Qué te dice ese detalle sobre lo que Su Expiación logró en términos de acceso a Dios?",
           "¿Cómo te sentís cuando estás cerca de un templo o cuando lo visitás? ¿Qué pensás o sentís en ese momento?",
           "Éxodo 25:8 dice que el propósito del santuario era que Dios habitara 'en medio de ellos'. ¿De qué maneras sentís la presencia de Dios en tu vida cotidiana?",
-          "El presidente Nelson dice que todo buscador sincero encontrará a Cristo en el templo. ¿Cómo podés prepararte hoy para que esa experiencia sea más profunda cuando vayas?",
+          "El presidente Nelson promete que si vas al templo más seguido, Él te enseñará e inspirará allí. ¿Qué podés hacer esta semana para preparar tu corazón para esa experiencia?",
           "¿Qué hábito o actitud podés cultivar esta semana que te acerque a la santidad que el templo representa?",
         ],
       },
@@ -854,9 +868,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2019",
-        texto: "El mayor regalo que podemos dar al Salvador es un corazón quebrantado y un espíritu contrito. Eso es lo que reemplazó a los sacrificios de animales después de Su Expiación. Eso es lo que Él nos pide hoy.",
+        autor: "Presidente Dallin H. Oaks",
+        fuente: "\"¿Qué ha hecho nuestro Salvador por nosotros?\", Liahona, mayo de 2021, pág. 77",
+        texto: "Jesucristo hizo todo esto porque ama a todos los hijos de Dios. El amor es la motivación de todo esto, y así fue desde el mismísimo principio. ... Oro para que todos recordemos lo que nuestro Salvador ha hecho por cada uno de nosotros.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/35oaks?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -917,9 +932,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Boyd K. Packer",
-        fuente: "Liahona, mayo de 2012",
-        texto: "El maravilloso mensaje de la Expiación es que la misericordia satisface las demandas de la justicia. El chivo expiatorio cargó con lo que Israel no podía cargar. Cristo cargó con lo que nosotros no podíamos.",
+        autor: "Élder Taylor G. Godoy",
+        fuente: "\"Un día más\", Liahona, mayo de 2018, pág. 34",
+        texto: "La clave para que nuestro día sea exitoso es estar dispuestos a sacrificarnos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/one-more-day?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -975,9 +991,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2019",
-        texto: "Vengan a Cristo con la mente y el corazón dispuestos a aprender. No solo a escuchar, sino a cambiar. Ese es el estudio que transforma.",
+        autor: "Élder J. Devn Cornish",
+        fuente: "\"¿Soy lo suficientemente bueno? ¿Lo lograré?\", Liahona, noviembre de 2016, pág. 33",
+        texto: "Si debemos comparar, comparemos cómo éramos en el pasado con cómo somos hoy, e incluso con cómo queremos ser en el futuro.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/am-i-good-enough-will-i-make-it?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -1033,9 +1050,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, mayo de 2015",
-        texto: "La fe genuina no niega los obstáculos; los ve desde la perspectiva de Dios. Caleb y Josué no vieron gigantes más pequeños; vieron a un Dios más grande que cualquier gigante.",
+        autor: "Élder Kevin R. Duncan",
+        fuente: "\"No se rebelen... ni tengan miedo\", Liahona, abril de 2022, pág. 46",
+        texto: "Al igual que los hijos de Israel, enfrentamos obstáculos formidables. Cada desafío y cada obstáculo que afrontamos es una oportunidad de elegir, como lo hicieron Josué y Caleb, confiar en el Señor. 'No os rebeléis... ni los temáis' (Números 14:9) fue un buen consejo para los hijos de Israel, y sigue siendo un buen consejo para cada uno de nosotros hoy.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2022/04/rebel-not-neither-fear?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -1091,9 +1109,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2015",
-        texto: "Cuando sentís el veneno del pecado o de la duda, mirá a Cristo. No a las circunstancias, no a tus fracasos, no a los estándares imposibles que otros imponen. Mirá a Cristo y viví.",
+        autor: "Élder David A. Bednar",
+        fuente: "\"Cosas pequeñas y sencillas\", Liahona, mayo de 2022, pág. 6",
+        texto: "Consideren el estudio de las Escrituras que se nos ha enseñado a incorporar en nuestra vida diaria. O consideren las oraciones personales y familiares que son prácticas regulares de los Santos de los Últimos Días fieles. Cada una de estas prácticas puede parecer pequeña y sencilla, pero con el tiempo resultan en un poderoso edificante espiritual y crecimiento. Esto ocurre porque cada una de estas cosas pequeñas y sencillas invita la compañía del Espíritu Santo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/16bednar?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -1149,9 +1168,11 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Quentin L. Cook",
-        fuente: "Liahona, noviembre de 2020",
-        texto: "Las fuentes divinamente señaladas no son las más populares ni las más accesibles; son las más confiables. Aprender a confiar en ellas antes que en otras es en sí mismo un acto de fe.",
+        autor: "Documento de base del Dominio de la doctrina, 2023",
+        fuente: "Sección \"Adquirir conocimiento espiritual\", párrafos 11–12",
+        texto: "El Padre Celestial desea contestar tus preguntas sinceras y ha proporcionado fuentes confiables para guiarte. Buscar respuestas en fuentes confiables puede marcar la diferencia entre aprender la verdad y ser engañado por ideas falsas.",
+        link: "https://www.churchofjesuschrist.org/study/manual/doctrinal-mastery-core-document-2023?lang=spa",
+        // ⚠️ El manual del maestro 2026 de L165 no usa una cita de líder individual; cita el Documento de base del Dominio de la Doctrina
       },
       {
         tipo: "conclusion",
@@ -1208,8 +1229,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Gordon B. Hinckley",
-        fuente: "Liahona, enero de 2002",
-        texto: "Estudien. Estudien con diligencia. Obtengan toda la educación que les sea posible. El Señor espera que Sus hijos aprendan y crezcan en conocimiento durante toda su vida.",
+        fuente: "en Conference Report, octubre de 1964, pág. 118",
+        texto: "Con todo lo que aprendéis, aprended de Él. Con todo vuestro estudio, buscad el conocimiento del Maestro. Ese conocimiento complementará de manera maravillosa la preparación secular que recibáis y dará plenitud a vuestra vida y carácter de una manera que no puede venir de ninguna otra forma.",
+        link: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/66-future-education-and-employment/662-education-for-the-whole-soul?lang=spa",
+        // Fuente verificada en manual AT 2026 lección 189 (Educación para toda el alma)
       },
       {
         tipo: "conclusion",
