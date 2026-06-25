@@ -1,11 +1,33 @@
 // middleware.ts
-// Colocar en la raíz del proyecto (mismo nivel que /app)
-// Protege /editor/* — redirige a /login si no hay sesión activa.
-
 import { createServerClient } from "@supabase/ssr"
 import { NextResponse, type NextRequest } from "next/server"
 
+const MAINTENANCE_MODE = true // ← true = mantenimiento activo, false = todo normal
+
 export async function middleware(request: NextRequest) {
+  const { pathname, searchParams } = request.nextUrl
+
+  // ── Rutas que nunca se bloquean ───────────────────────────────────────────
+  const isPublicAsset =
+    pathname.startsWith("/_next") ||
+    pathname.startsWith("/favicon") ||
+    pathname.startsWith("/api") ||
+    pathname === "/mantenimiento"
+
+  if (isPublicAsset) return NextResponse.next()
+
+  // ── Modo mantenimiento ────────────────────────────────────────────────────
+  if (MAINTENANCE_MODE) {
+    const key = searchParams.get("key")
+    const secret = process.env.ADMIN_SECRET
+    const hasAccess = secret && key === secret
+
+    if (!hasAccess) {
+      return NextResponse.redirect(new URL("/mantenimiento", request.url))
+    }
+  }
+
+  // ── Protección de /editor con Supabase (solo corre si no hay mantenimiento) 
   let supabaseResponse = NextResponse.next({ request })
 
   const supabase = createServerClient(
@@ -29,16 +51,15 @@ export async function middleware(request: NextRequest) {
     }
   )
 
-  // Refrescar la sesión si el token expiró
   const { data: { user } } = await supabase.auth.getUser()
 
-  const isEditorRoute = request.nextUrl.pathname.startsWith("/editor")
-  const isLoginPage   = request.nextUrl.pathname === "/login"
+  const isEditorRoute = pathname.startsWith("/editor")
+  const isLoginPage   = pathname === "/login"
 
   // Si intenta acceder al editor sin sesión → redirigir a login
   if (isEditorRoute && !user) {
     const loginUrl = new URL("/login", request.url)
-    loginUrl.searchParams.set("redirect", request.nextUrl.pathname)
+    loginUrl.searchParams.set("redirect", pathname)
     return NextResponse.redirect(loginUrl)
   }
 
@@ -51,8 +72,5 @@ export async function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: [
-    "/editor/:path*",
-    "/login",
-  ],
+  matcher: ["/((?!_next|favicon.ico).*)"],
 }
