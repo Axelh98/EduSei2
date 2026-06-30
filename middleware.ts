@@ -13,6 +13,7 @@ export async function middleware(request: NextRequest) {
     pathname.startsWith("/favicon") ||
     pathname.startsWith("/api") ||
     pathname.startsWith("/quiz") ||
+    pathname.startsWith("/recuperar") ||
     pathname === "/mantenimiento"
 
   if (isPublicAsset) return NextResponse.next()
