@@ -12,8 +12,8 @@ export async function middleware(request: NextRequest) {
     pathname.startsWith("/_next") ||
     pathname.startsWith("/favicon") ||
     pathname.startsWith("/api") ||
-    pathname.startsWith("/quiz") ||
-    pathname.startsWith("/recuperar") ||
+    //pathname.startsWith("/quiz") ||
+    //pathname.startsWith("/recuperar") ||
     pathname === "/mantenimiento"
 
   if (isPublicAsset) return NextResponse.next()
