@@ -101,13 +101,14 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
           },
         ],
       },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Dieter F. Uchtdorf",
-        fuente: "Liahona, noviembre de 2010",
-        texto:
-          "La creación siempre comienza con una decisión de empezar. No esperes el momento perfecto. El momento perfecto rara vez llega. Empieza ahora y el Señor hará que el camino aparezca.",
-      },
+        {
+          tipo: "enseñanza",
+          autor: "Élder Randall K. Bennett",
+          fuente: "Liahona, noviembre de 2015, pág. 75",
+          texto:
+            "Debemos contrarrestar la tendencia del hombre natural de aplazar, posponer o darse por vencido. A medida que progresamos a lo largo de la senda de los convenios, cometemos errores, algunos, más de una vez [...]. Pero la fe en el Padre Celestial y en Jesucristo es un principio de acción y de poder. Si estamos dispuestos a actuar, seremos bendecidos con la fortaleza para arrepentirnos y la fortaleza para cambiar. Fracasamos solo si no damos otro paso fiel hacia adelante.",
+          link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/your-next-step?lang=spa&id=p26-p28#p26",
+        },
       {
         tipo: "conclusion",
         contenido:
