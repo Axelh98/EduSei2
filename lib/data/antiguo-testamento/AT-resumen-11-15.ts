@@ -41,10 +41,11 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2022",
+        autor: "Presidente Dallin H. Oaks",
+        fuente: "\"Face to Face con el presidente y la hermana Oaks [Strive to Be]\", transmisión mundial, 23 de febrero de 2020",
         texto:
-          "Los que se niegan a que el mundo los moldee estarán preparados para que el Señor los purifique.",
+          "Muchas veces cometemos el error de fijar una meta muy a largo plazo, como un estudiante que una vez me dijo que estudiaba para ser neurocirujano. Le dije: 'Está bien. Pero, ¿no debería ser tu primera meta aprobar un curso de biología?' ... Así que recordá, podés tener una visión a largo plazo. Pero recordá que las metas más efectivas para acercarte a esa visión son las metas intermedias, las metas a corto plazo que te acercan a ese destino.",
+        link: "https://www.churchofjesuschrist.org/media/video/2020-02-1000-face-to-face-with-president-and-sister-oaks-strive-to-be?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -167,9 +168,11 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder K. Brett Nattress",
-        fuente: "Liahona, mayo de 2023",
+        fuente: "\"¿De verdad he sido perdonado?\", Liahona, mayo de 2023, pág. 67–68",
         texto:
-          "¿Lo recordamos a Él? ¿Lo amamos? ¿Cómo mostramos ese amor en las decisiones cotidianas de nuestra vida? El amor verdadero no se declara, se demuestra.",
+          "Hermanos y hermanas, testifico que nuestro Padre Celestial siempre se acuerda de nosotros y que nos ama perfectamente.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/04/33nattress?lang=spa",
+        // ⚠️ Título corregido ("¿He sido verdaderamente perdonado?" → "¿De verdad he sido perdonado?", título oficial). Link corregido: el archivo original decía "45nattress"; el discurso real es "33nattress". Cita ajustada a la redacción textual.
       },
       {
         tipo: "conclusion",
@@ -228,10 +231,11 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Henry B. Eyring",
-        fuente: "Liahona, noviembre de 2007",
+        autor: "Élder Dale G. Renlund",
+        fuente: "\"Considerad la bondad y la grandeza de Dios\", Conferencia General, abril de 2020",
         texto:
-          "Lo que más importa no es cuán grandes son tus bendiciones, sino si recuerdas de dónde vienen. El corazón que recuerda al Señor con gratitud es un corazón que permanece cerca de Él.",
+          "Nuestro Padre Celestial quiere que recordemos Su bondad y la de Su Amado Hijo, no para la propia satisfacción de Ellos, sino por la influencia que ese recuerdo tiene en nosotros. Al considerar Su bondad, nuestra perspectiva y entendimiento se amplían. Al reflexionar en Su compasión, nos volvemos más humildes, más orantes y más constantes.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -289,10 +293,11 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2013",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "\"El Libro de Mormón: ¿Cómo sería tu vida sin él?\", Liahona, noviembre de 2017, pág. 62–63",
         texto:
-          "El Señor no te ha traído hasta aquí para abandonarte. En cada etapa de la vida Su promesa sigue siendo la misma: 'No te dejaré, ni te desampararé.'",
+          "Cuando pienso en el Libro de Mormón, pienso en la palabra poder. Las verdades del Libro de Mormón tienen el poder de sanar, consolar, restaurar, socorrer, fortalecer, consolar y alegrar nuestras almas. ... Prometo que a medida que estudiéis el Libro de Mormón con oración todos los días, tomaréis mejores decisiones cada día.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -351,10 +356,12 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2013",
+        autor: "Élder David A. Bednar",
+        fuente: "\"Buscar conocimiento por la fe\", Liahona, septiembre de 2007, pág. 61–62",
         texto:
-          "El Señor honra la fe que actúa aunque el camino no esté completamente abierto. No esperes que las aguas se separen para entrar al río.",
+          "El apóstol Pablo definió la fe como \"la certeza de lo que se espera [y] la convicción de lo que no se ve\" (Hebreos 11:1). Alma declaró que la fe no es un conocimiento perfecto, sino una \"esperanza en cosas que no se ven, y que son verdaderas\" (Alma 32:21). Estas enseñanzas resaltan tres componentes básicos de la fe: (1) la fe es la certeza de cosas que se esperan y que son verdaderas, (2) es la convicción de lo que no se ve y (3) es el principio de acción en todos los seres inteligentes.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2007/09/seek-learning-by-faith?lang=spa",
+        // ⚠️ Título corregido ("Buscar el aprendizaje por la fe" → "Buscar conocimiento por la fe", título oficial). Link corregido: para el español la revista es "Liahona", no "Ensign" (Ensign es la edición en inglés). Cita ajustada a la redacción textual.
       },
       {
         tipo: "conclusion",
@@ -388,7 +395,7 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       {
         tipo: "contexto",
         contenido:
-          "Para muchos jóvenes, el camino hacia la educación superior no es una autopista. Es un sendero con obstáculos reales: dinero que no alcanza, familias que necesitan ayuda, escuelas que quedan lejos, dudas sobre si uno es suficientemente capaz, o simplemente no saber por dónde empezar.\n\nEsta lección parte de una verdad importante: esos obstáculos no significan que la educación no es para vos. El Señor quiere que Sus hijos se preparen. Él dijo que 'todo lo que adquiramos de inteligencia en esta vida se levantará con nosotros en la resurrección' (D&C 130:18). La educación no es un lujo para los que tienen acceso fácil. Es un principio del Evangelio para todos.\n\nLa diferencia está en cómo enfrentás los obstáculos. No en si los tenés. Hay una frase del Élder Patrick Kearon que vale la pena grabarse: 'Dios no pone obstáculos ni barreras; Él los quita.' Eso no significa que desaparecerán solos. Significa que hay un Dios que conoce tu situación específica —tus límites económicos, tus miedos, tus circunstancias familiares— y que puede abrir puertas que vos no ves todavía.\n\nEl primer paso es buscar esa guía en oración. El segundo es buscar los recursos que el Señor ya puso en tu camino: becas, programas de la Iglesia, mentores, instituciones accesibles. El Señor no promete que el camino será fácil. Promete que no estarás solo en él.",
+          "Para muchos jóvenes, el camino hacia la educación superior no es una autopista. Es un sendero con obstáculos reales: dinero que no alcanza, familias que necesitan ayuda, escuelas que quedan lejos, dudas sobre si uno es suficientemente capaz, o simplemente no saber por dónde empezar.\n\nEsta lección parte de una verdad importante: esos obstáculos no significan que la educación no es para vos. El Señor quiere que Sus hijos se preparen. Él dijo que 'todo lo que adquiramos de inteligencia en esta vida se levantará con nosotros en la resurrección' (D&C 130:18). La educación no es un lujo para los que tienen acceso fácil. Es un principio del Evangelio para todos.\n\nLa diferencia está en cómo enfrentás los obstáculos. No en si los tenés. El manual de esta lección usa el ejemplo de Josué y los sacerdotes cruzando el río Jordán desbordado (Josué 3:15): avanzaron con fe antes de que el obstáculo desapareciera. Eso no significa que las dificultades van a desaparecer solas. Significa que hay un Dios que conoce tu situación específica —tus límites económicos, tus miedos, tus circunstancias familiares— y que puede abrir puertas que vos no ves todavía, si avanzás con fe.\n\nEl primer paso es buscar esa guía en oración. El segundo es buscar los recursos que el Señor ya puso en tu camino: becas, programas de la Iglesia, mentores, instituciones accesibles. El Señor no promete que el camino será fácil. Promete que no estarás solo en él.",
       },
       {
         tipo: "escrituras",
@@ -412,13 +419,7 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
           },
         ],
       },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Patrick Kearon",
-        fuente: "Liahona, mayo de 2024",
-        texto:
-          "Dios no pone obstáculos ni barreras; Él los quita. Su poder está disponible para cada uno de Sus hijos que busca prepararse para servir.",
-      },
+      // ⚠️ No se encontró cita de líder verificable en el manual del alumno 2026 para esta lección — es una lección práctica de recursos (becas, mentores, ayuno, diezmo) sin cita de discurso. Sección "enseñanza" omitida.
       {
         tipo: "conclusion",
         contenido:
@@ -477,9 +478,11 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Dale G. Renlund",
-        fuente: "Liahona, noviembre de 2020",
+        fuente: "\"Escogeos hoy\", Liahona, noviembre de 2018",
         texto:
-          "Cuando descubrimos que estamos fuera del camino, podemos elegir revertir nuestros pasos y regresar. No importa cuánto tiempo hayamos estado fuera; en el momento en que decidimos cambiar, Dios nos ayuda a regresar.",
+          "Cuando descubrimos que estamos fuera del camino, podemos permanecer fuera de él o, debido a la Expiación de Jesucristo, podemos elegir revertir nuestros pasos y regresar. No importa cuánto tiempo hayamos estado fuera del camino ni cuán lejos nos hayamos alejado; en el momento en que decidimos cambiar, Dios nos ayuda a regresar.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/choose-you-this-day?lang=spa",
+        // ⚠️ Título corregido ("Elegid hoy a quién sirváis" → "Escogeos hoy", título oficial). Confirmé el tema y el link contra el discurso real; no encontré esta oración exacta palabra por palabra en los extractos disponibles, aunque es fiel al contenido del discurso sobre el camino de los convenios y el arrepentimiento.
       },
       {
         tipo: "conclusion",
@@ -530,13 +533,7 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
           },
         ],
       },
-      {
-        tipo: "enseñanza",
-        autor: "Élder M. Russell Ballard",
-        fuente: "Liahona, noviembre de 2014",
-        texto:
-          "La mayoría de las conversiones no ocurren por argumentos ganados. Ocurren porque alguien escuchó bien, respondió con amor, y compartió un testimonio sincero.",
-      },
+      // ⚠️ No se encontró cita de líder verificable para esta lección de práctica en el manual 2026. Las lecciones "Doctrinal Mastery Practice" son de aplicación (usan escenarios y preguntas) y generalmente no introducen citas nuevas — patrón confirmado comparando con "Doctrinal Mastery Practice 4" del manual D&C 2025 equivalente. Sección "enseñanza" omitida.
       {
         tipo: "conclusion",
         contenido:
@@ -594,10 +591,12 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Dieter F. Uchtdorf",
-        fuente: "Liahona, mayo de 2011",
+        autor: "Élder Kyle S. McKay",
+        fuente: "\"La cercana bondad de Dios\", Liahona, mayo de 2019, pág. 107",
         texto:
-          "Dios no abandona a Sus hijos incluso cuando ellos lo abandonan a Él. Siempre hay un camino de regreso, y ese camino comienza con un solo paso sincero en la dirección correcta.",
+          "Doy testimonio de que Jesucristo es el Gran Libertador, y en Su nombre prometo que a medida que os volváis a Él con verdadera intención y pleno propósito de corazón, Él os librará de todo aquello que amenace con disminuir o destruir vuestra vida o vuestro gozo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/55mckay?lang=spa",
+        // ⚠️ Título corregido ("La bondad inmediata de Dios" → "La cercana bondad de Dios", título oficial). Link corregido: el archivo decía "35mckay"; el discurso real es "55mckay" (sesión del domingo por la tarde, abril de 2019).
       },
       {
         tipo: "conclusion",
@@ -657,10 +656,11 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2013",
+        autor: "Élder David A. Bednar",
+        fuente: "\"El élder Bednar comparte cinco lecciones sobre el espíritu de revelación con nuevos líderes de misión\", Church News, 10 de julio de 2018",
         texto:
-          "Cuando el Señor te llama a algo que parece demasiado grande para vos, no te llama porque ya tenés la fuerza suficiente. Te llama porque quiere darte la Suya.",
+          "En muchas de las incertidumbres y desafíos que enfrentamos en nuestra vida y en esta gran obra de los últimos días, Dios requiere que hagamos nuestro mejor esfuerzo, que confiemos en Él, que estemos ansiosamente involucrados y actuemos, y no simplemente esperemos a ser movidos a la acción. Es posible que no veamos ángeles, ni escuchemos voces celestiales, ni recibamos impresiones espirituales abrumadoras. Con frecuencia podemos seguir adelante con esperanza y oración —pero sin una seguridad absoluta— de que estamos actuando conforme a la voluntad de Dios. Pero al honrar nuestros convenios y guardar los mandamientos, podemos caminar con la confianza de que Dios guiará nuestros pasos.",
+        link: "https://www.thechurchnews.com/2018/7/10/23217775/elder-bednar-shares-five-lessons-about-the-spirit-of-revelation-with-new-mission-leaders",
       },
       {
         tipo: "conclusion",
@@ -714,10 +714,11 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2019",
+        autor: "Élder Larry R. Lawrence",
+        fuente: "\"¿Qué más me falta?\", Liahona, noviembre de 2015",
         texto:
-          "Vengan a Cristo con la mente y el corazón dispuestos a aprender. No solo a escuchar, sino a cambiar.",
+          "Nuestro Padre Celestial conoce nuestro potencial divino. Él se regocija cada vez que avanzamos un paso. Para Él, la dirección en la que vamos es mucho más importante que nuestra velocidad. Hermanos y hermanas, sean constantes, pero nunca se desanimen.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/what-lack-i-yet?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -777,9 +778,10 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Gordon B. Hinckley",
-        fuente: "Liahona, julio de 1999",
+        fuente: "\"Words of the Prophet: Seek Learning\", New Era, septiembre de 2007, pág. 3–4",
         texto:
-          "Obtened toda la educación que puedan. Prepárense para el futuro. La educación es la gran igualadora. Es el camino hacia la oportunidad.",
+          "Deben obtener toda la educación que les sea posible. La vida se ha vuelto muy compleja y competitiva. No pueden dar por sentado que tienen derechos adquiridos. Se esperará que hagan un gran esfuerzo y que usen sus mejores talentos para abrirse camino hacia el futuro más maravilloso del que sean capaces. Sacrifiquen un auto; sacrifiquen lo que sea necesario para calificarse y hacer el trabajo del mundo. Ese mundo, en gran medida, les pagará lo que crea que valen, y su valor aumentará a medida que adquieran educación y competencia en el campo que elijan.",
+        link: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/66-future-education-and-employment/661-importance-of-education?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -839,9 +841,10 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
-        fuente: "Liahona, mayo de 2010",
+        fuente: "\"La bendición de las Escrituras\", Liahona, mayo de 2010, pág. 32-35",
         texto:
-          "Cada libro, cada profeta, cada convenio apunta hacia Jesucristo y hacia Su Expiación. Al leer las Escrituras con esa perspectiva, no solo aprendemos historia: nos encontramos con el Salvador mismo.",
+          "Debido a que exponen la doctrina de Cristo, las Escrituras van acompañadas del Espíritu Santo, cuyo papel es dar testimonio del Padre y del Hijo. Por lo tanto, estar en las Escrituras es una manera en que recibimos al Espíritu Santo. Por supuesto, la Escritura es dada a través del Espíritu Santo en primer lugar, y ese mismo Espíritu puede atestiguar su verdad a ustedes y a mí. Estudien las Escrituras con cuidado, deliberadamente. Reflexionen y oren sobre ellas. Las Escrituras son revelación, y traerán revelación adicional.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/04/the-blessing-of-scripture?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -900,10 +903,11 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, noviembre de 2018",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "\"Redención\", Liahona, mayo de 2013, pág. 109",
         texto:
-          "Jesucristo es nuestro perfecto redentor. Él tiene tanto la voluntad como el poder de redimirnos. No es simplemente capaz de hacerlo; lo desea con todo Su corazón.",
+          "Entre los títulos descriptivos más significativos de Jesucristo está el de Redentor. ... La palabra redimir significa pagar una obligación o una deuda. Redimir también puede significar rescatar o poner en libertad.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/redemption?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -960,13 +964,7 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
           },
         ],
       },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Neal A. Maxwell",
-        fuente: "Liahona, noviembre de 1997",
-        texto:
-          "La oración sincera en medio del dolor no es señal de debilidad; es señal de fe. Cuando llevamos al Señor nuestras pruebas más profundas, Él escucha con un amor que trasciende toda comprensión humana.",
-      },
+      // ⚠️ No se encontró evidencia de que el manual 2026 use una cita de Neal A. Maxwell (ni ninguna otra específica) para esta lección de 1 Samuel 1. Se agotaron búsquedas razonables (fetch directo, manuales paralelos NT/D&C, overview de la sección) sin poder confirmar el contenido exacto de esta lección puntual. Sección "enseñanza" omitida en lugar de mantener una cita no verificada.
       {
         tipo: "conclusion",
         contenido:
@@ -1024,9 +1022,10 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2018",
+        fuente: "\"Revelación para la Iglesia, revelación para nuestra vida\", Liahona, mayo de 2018, pág. 95",
         texto:
-          "Cuando vivimos de manera que el Espíritu pueda morar con nosotros, aprendemos a reconocer Su voz y a responder con confianza. Esa habilidad no viene de golpe; se cultiva con práctica y obediencia.",
+          "Oren en el nombre de Jesucristo acerca de sus preocupaciones, sus temores, sus debilidades; sí, los anhelos más profundos de su corazón. Y luego, ¡escuchen! Anoten los pensamientos que vengan a su mente. Registren sus sentimientos y actúen conforme a lo que sientan que deben hacer. A medida que repitan este proceso día tras día, mes tras mes, año tras año, 'crecerán en el principio de la revelación'.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -1085,10 +1084,12 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2014",
+        autor: "Obispo W. Christopher Waddell",
+        fuente: "\"Había pan\", Liahona, noviembre de 2020, pág. 43",
         texto:
-          "No podemos pretender que amamos a Dios si ignoramos a los necesitados que están a nuestro alrededor. Pero para poder dar, primero necesitamos estar en posición de hacerlo. La autosuficiencia es lo que te pone en esa posición.",
+          "El Señor no espera que hagamos más de lo que podemos, pero sí espera que hagamos lo que podemos hacer, cuando podamos hacerlo. Estar preparados temporalmente y ser autosuficientes significa \"creer que por medio de la gracia, o el poder habilitador de Jesucristo, y nuestro propio esfuerzo, podemos obtener todos los elementos espirituales y temporales indispensables de la vida que requerimos para nosotros mismos y nuestra familia\".",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/25waddell?lang=spa",
+        // ⚠️ ERROR GRAVE corregido: esta cita NO es del presidente Nelson. Es del obispo W. Christopher Waddell, en su discurso "Había pan" (no "Hubo pan"). El archivo original atribuía la cita, el título y el link a la persona equivocada.
       },
       {
         tipo: "conclusion",
@@ -1148,9 +1149,11 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2021",
+        fuente: "\"Dediquen tiempo al Señor\", Liahona, noviembre de 2021, pág. 120",
         texto:
-          "Las voces y presiones del mundo son numerosas y atractivas, pero muchas de esas voces son engañosas y seductoras y pueden desviarnos de la senda de los convenios. Para evitar la inevitable angustia que le sigue, les ruego que contrarresten el encanto del mundo dedicando tiempo al Señor en su vida, todos y cada uno de los días.",
+          "Las voces y presiones del mundo son numerosas y atractivas, pero muchas de esas voces son engañosas, seductoras y pueden desviarnos de la senda de los convenios. Para evitar la inevitable angustia que le sigue, hoy les ruego que contrarresten el encanto del mundo dedicando tiempo al Señor en su vida, todos y cada uno de los días.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/59nelson?lang=spa",
+        // ⚠️ Título corregido ("Hagan tiempo para el Señor" → "Dediquen tiempo al Señor", título oficial). Link corregido: el archivo decía "46nelson"; el discurso real es "59nelson" (palabras de clausura, octubre de 2021).
       },
       {
         tipo: "conclusion",
@@ -1208,10 +1211,12 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder L. Tom Perry",
-        fuente: "Liahona, mayo de 2014",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "\"Afrontar el futuro con fe\", Liahona, mayo de 2011, pág. 34",
         texto:
-          "La obediencia es el principio primero del cielo. No se trata de seguir reglas sin pensar, sino de confiar en que quien da los mandamientos conoce lo que necesitamos para nuestra felicidad eterna.",
+          "Adviértanles que se encontrarán con personas que escogerán cuáles mandamientos guardarán e ignorarán otros que han escogido desobedecer. A ese enfoque, lo llamo el \"buffet de la obediencia\". Esa práctica de seleccionar y escoger cuáles obedecer no funcionará; los conducirá al sufrimiento. Al prepararse para comparecer ante Dios, uno guarda todos Sus mandamientos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/04/face-the-future-with-faith?lang=spa",
+        // ⚠️ Título corregido ("Encaremos el futuro con fe" → "Afrontar el futuro con fe", título oficial). Cita ajustada a la redacción textual (el discurso dice "buffet de la obediencia", no "enfoque de cafetería").
       },
       {
         tipo: "conclusion",
@@ -1273,9 +1278,10 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2021",
+        fuente: "\"Cristo ha resucitado; la fe en Él moverá montañas\", Liahona, mayo de 2021, pág. 102–103",
         texto:
           "Mi llamado a ustedes es que comiencen hoy a aumentar su fe. Mediante su fe, Jesucristo aumentará la capacidad de ustedes para mover los montes que haya en su vida, aunque sus desafíos personales puedan ser tan grandes como el monte Everest. Sus montes serán distintos; no obstante, la respuesta a cada uno de sus desafíos es aumentar su fe.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/42nelson?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -1335,10 +1341,12 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "Liahona, noviembre de 1998",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "\"¡Piensen de manera celestial!\", Liahona, noviembre de 2023",
+        // ⚠️ Título corregido ("Piensa celestialmente" → "¡Piensen de manera celestial!", título oficial).
         texto:
-          "El diezmo no es una carga; es una oportunidad y una bendición. Os prometo que si lo pagan, el Señor abrirá las ventanas del cielo y derramará sobre vosotros bendiciones que no tendréis lugar suficiente para recibirlas.",
+          "Cuando era un joven interno, mi ingreso era de $15 al mes. Una noche, mi esposa Dantzel me preguntó si estaba pagando diezmo sobre ese estipendio tan modesto. No lo estaba haciendo. Me arrepentí rápidamente y comencé a pagar el $1,50 adicional de diezmo mensual. ¿Fue la Iglesia diferente porque aumentamos nuestro diezmo? Por supuesto que no. Sin embargo, convertirme en un pagador de diezmo completo me cambió a mí. Fue entonces cuando aprendí que pagar el diezmo tiene que ver con la fe, no con el dinero. Al convertirme en un pagador de diezmo completo, las ventanas del cielo comenzaron a abrirse para mí.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/10/51nelson?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -1398,9 +1406,11 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Dieter F. Uchtdorf",
-        fuente: "Liahona, mayo de 2013",
+        fuente: "\"Su maravillosa travesía a casa\", Liahona, mayo de 2013, pág. 128",
+        // ⚠️ Título corregido ("Tu maravilloso viaje a casa" → "Su maravillosa travesía a casa", título oficial). Cita verificada como textual.
         texto:
           "El interés que el Padre Celestial tiene en ustedes no se basa en la riqueza, la belleza, la salud o la inteligencia que posean. Él no los ve como el mundo los ve. Él ve quiénes son en realidad; Él ve su corazón y Él los ama porque son Sus hijos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/your-wonderful-journey-home?lang=spa",
       },
       {
         tipo: "conclusion",

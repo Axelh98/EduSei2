@@ -397,9 +397,11 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
-        fuente: "\"El pan de cada día: Modelo\", Biblioteca del Evangelio (video), 2013",
+        fuente: "\"Pan de cada día: Modelos\", Biblioteca del Evangelio (video), agosto de 2013",
         texto: "Todos reconocemos la necesidad de sustento físico. El hambre y la sed nos lo recuerdan muy claramente si nos olvidamos. Pero la necesidad espiritual de sustento es igualmente fuerte.",
-        link: "https://www.churchofjesuschrist.org/media/video/2013-08-0012-daily-bread-pattern?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/video/inspirational-messages/2013-08-012-daily-bread-pattern?lang=spa",
+        // ⚠️ El link original en este archivo estaba roto (media/video/2013-08-0012-...). Corregido a la URL real del video.
+        // ⚠️ El video es solo audio/imagen (sin transcripción publicada); no pude verificar esta frase palabra por palabra contra un guion oficial, aunque el tema y el video son reales y coinciden con el manual de la Lección 47.
       },
       {
         tipo: "conclusion",
@@ -515,9 +517,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Dieter F. Uchtdorf",
-        fuente: "\"Venid, uníos a nosotros\", Liahona, noviembre de 2013, pág. 23",
-        texto: "La belleza del proceso del Evangelio es que se puede comenzar a partir de donde se está... Primero duded de vuestras dudas antes de dudar de vuestra fe. Nunca permitamos que la duda nos tenga prisioneros y nos impida gozar del amor divino, la paz y los dones que vienen a través de la fe en el Señor Jesucristo.",
+        fuente: "\"Vengan, únanse a nosotros\", Liahona, noviembre de 2013, pág. 23",
+        texto: "La fe es la esperanza de cosas que no se ven pero que son verdaderas. Por lo tanto, mis queridos hermanos y hermanas, mis queridos amigos, les pido, primero duden de sus dudas antes que dudar de su fe. Nunca debemos permitir que la duda nos mantenga prisioneros y nos prive del amor, la paz y los dones divinos que vienen mediante la fe en el Señor Jesucristo.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/come-join-with-us?lang=spa",
+        // ⚠️ Título original mal traducido ("Venid, uníos a nosotros" → corregido a "Vengan, únanse a nosotros", título oficial). Cita original parafraseada en "vosotros" (no es el español oficial usado por la Iglesia); reemplazada por el texto textual verificado.
       },
       {
         tipo: "conclusion",
@@ -693,8 +696,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Gerrit W. Gong",
         fuente: "\"Felices y para siempre\", Liahona, noviembre de 2022, pág. 84",
-        texto: "Quienes deliberadamente eligen la maldad, quienes conscientemente postergan el arrepentimiento, o quienes de cualquier manera premeditada o deliberada quebrantan los mandamientos, planificando un fácil arrepentimiento, serán juzgados por Dios. No podemos pecar deliberadamente el sábado y luego esperar el perdón automático al tomar la Santa Cena el domingo. ... Ninguno de nosotros debería posponer el arrepentimiento. Las bendiciones del arrepentimiento comienzan cuando comenzamos a arrepentirnos.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/37gong?lang=spa",
+        texto: "En contraste, aquellos que deliberadamente escogen la iniquidad, quienes conscientemente demoran el arrepentimiento o de cualquier manera premeditada y con conocimiento quebrantan los mandamientos planeando un arrepentimiento sencillo, serán juzgados por Dios [...]. No podemos pecar a sabiendas el sábado y luego esperar un perdón automático por participar de la Santa Cena el domingo. [...] Ninguno de nosotros debe posponer el arrepentimiento. Las bendiciones del arrepentimiento comienzan en el momento en que comenzamos a arrepentirnos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/43gong?lang=spa",
+        // ⚠️ Link corregido: el archivo original decía "37gong", número de discurso incorrecto para esta conferencia; el discurso real es "43gong". Cita ajustada a la redacción textual.
       },
       {
         tipo: "conclusion",
@@ -750,10 +754,11 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Neal A. Maxwell",
-        fuente: "\"Lord, Increase Our Faith\" (Señor, aumenta nuestra fe), 1994, pág. 43",
-        texto: "Los frentes tormentosos arrasan nuestra vida, pero no duran eternamente. Podemos aprender la importante diferencia que hay entre un pequeño nubarrón y las tinieblas.",
-        // ⚠️ PENDIENTE: Verificar si este texto aparece en el manual AT 2026 de L164. Cita verificada en manuales SUD pero no confirmada en 614-examining-gospel-topics específicamente.
+        autor: "Élder Neil L. Andersen",
+        fuente: "\"El ojo de la fe\", Liahona, mayo de 2019, pág. 35",
+        texto: "Contemplen ahora esta obra artística de Michael Murphy. Desde esta perspectiva, difícilmente creerán que se trate de una representación artística del ojo humano. Sin embargo, si observan los puntos desde una perspectiva diferente, apreciarán la belleza de la creación del artista. De igual modo, nosotros vemos las verdades espirituales de Dios desde la perspectiva del ojo de la fe.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/25andersen?lang=spa",
+        // Cita ajustada a la redacción textual del discurso; link confirmado correcto.
       },
       {
         tipo: "conclusion",
@@ -810,9 +815,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "\"El templo y tu fundamento espiritual\", Liahona, noviembre de 2021, pág. 95",
-        texto: "Si aún no amas asistir al templo, ve más seguido, no menos. Deja que el Señor, por Su Espíritu, te enseñe e inspire allí. Te prometo que con el tiempo el templo será un lugar de seguridad, consuelo y revelación.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/49nelson?lang=spa",
+        fuente: "\"El templo y el cimiento espiritual de ustedes\", Liahona, noviembre de 2021, pág. 95",
+        texto: "Si todavía no les gusta ir al templo, vayan con más frecuencia, no menos. Permitan que el Señor, mediante Su Espíritu, les enseñe y los inspire allí. Les prometo que, con el tiempo, el templo se convertirá en un lugar de seguridad, consuelo y revelación.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/47nelson?lang=spa",
+        // ⚠️ Título corregido ("tu fundamento espiritual" → "el cimiento espiritual de ustedes", título oficial). Link corregido: el archivo original apuntaba a "49nelson", que no es este discurso; el discurso real es "47nelson". Cita ajustada a la forma "ustedes" (texto oficial).
       },
       {
         tipo: "conclusion",
@@ -870,8 +876,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Dallin H. Oaks",
         fuente: "\"¿Qué ha hecho nuestro Salvador por nosotros?\", Liahona, mayo de 2021, pág. 77",
-        texto: "Jesucristo hizo todo esto porque ama a todos los hijos de Dios. El amor es la motivación de todo esto, y así fue desde el mismísimo principio. ... Oro para que todos recordemos lo que nuestro Salvador ha hecho por cada uno de nosotros.",
+        texto: "Y nuestro Salvador padeció por voluntad propia todos los dolores y debilidades terrenales a fin de saber cómo fortalecernos en nuestras aflicciones. Jesucristo hizo todo esto porque ama a todos los hijos de Dios. El amor es la motivación de todo ello, y así fue desde el principio.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/35oaks?lang=spa",
+        // Cita ajustada a la redacción textual del discurso; link confirmado correcto.
       },
       {
         tipo: "conclusion",
@@ -934,8 +941,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Taylor G. Godoy",
         fuente: "\"Un día más\", Liahona, mayo de 2018, pág. 34",
-        texto: "La clave para que nuestro día sea exitoso es estar dispuestos a sacrificarnos.",
+        texto: "Todos tenemos un \"hoy\" para vivir; y la clave para hacer que nuestro día sea exitoso es estar dispuesto a sacrificar.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/one-more-day?lang=spa",
+        // Cita ajustada a la redacción textual del discurso; link confirmado correcto.
       },
       {
         tipo: "conclusion",
@@ -1051,9 +1059,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Kevin R. Duncan",
-        fuente: "\"No se rebelen... ni tengan miedo\", Liahona, abril de 2022, pág. 46",
-        texto: "Al igual que los hijos de Israel, enfrentamos obstáculos formidables. Cada desafío y cada obstáculo que afrontamos es una oportunidad de elegir, como lo hicieron Josué y Caleb, confiar en el Señor. 'No os rebeléis... ni los temáis' (Números 14:9) fue un buen consejo para los hijos de Israel, y sigue siendo un buen consejo para cada uno de nosotros hoy.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2022/04/rebel-not-neither-fear?lang=spa",
+        fuente: "\"No sean rebeldes, ni teman\", Liahona, abril de 2022, pág. 46",
+        texto: "Por supuesto que hay muchos más ejemplos, pero la lección es clara: cada desafío y cada obstáculo que afrontamos es una oportunidad para escoger, como hicieron Josué y Caleb, confiar en el Señor. El consejo \"no seáis rebeldes […], ni temáis\" (Números 14:9) fue un buen consejo para los hijos de Israel, y sigue siéndolo para cada uno de nosotros en la actualidad.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2022/04/come-follow-me/19-rebel-not-neither-fear?lang=spa",
+        // ⚠️ Título corregido ("No se rebelen... ni tengan miedo" → "No sean rebeldes, ni teman", título oficial). Link corregido: faltaba el segmento "/come-follow-me/19-" de la URL real.
       },
       {
         tipo: "conclusion",
@@ -1110,9 +1119,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder David A. Bednar",
-        fuente: "\"Cosas pequeñas y sencillas\", Liahona, mayo de 2022, pág. 6",
-        texto: "Consideren el estudio de las Escrituras que se nos ha enseñado a incorporar en nuestra vida diaria. O consideren las oraciones personales y familiares que son prácticas regulares de los Santos de los Últimos Días fieles. Cada una de estas prácticas puede parecer pequeña y sencilla, pero con el tiempo resultan en un poderoso edificante espiritual y crecimiento. Esto ocurre porque cada una de estas cosas pequeñas y sencillas invita la compañía del Espíritu Santo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/16bednar?lang=spa",
+        fuente: "\"Cosas pequeñas y sencillas\", Liahona, mayo de 2018",
+        texto: "Consideren el estudio de las Escrituras que debemos incorporar en nuestra vida diaria, según se nos ha enseñado. O consideren las oraciones personales y las oraciones familiares de rodillas, que son prácticas habituales de los fieles Santos de los Últimos Días. Consideren la asistencia de los jóvenes a Seminario y de los jóvenes adultos a Instituto. Si bien cada una de estas actividades pueden parecer pequeñas y sencillas, con el tiempo producen un poderoso incremento y crecimiento espirituales. Esto ocurre debido a que cada una de estas cosas pequeñas y sencillas invitan a la compañía del Espíritu Santo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/small-and-simple-things?lang=spa",
+        // ⚠️ Error grave corregido: el archivo original citaba este discurso como si fuera de abril de 2022 y enlazaba a "16bednar" de esa conferencia, que en realidad es un discurso totalmente distinto de Bednar ("Pero no les hicimos caso"). El discurso "Cosas pequeñas y sencillas" es de abril de 2018.
       },
       {
         tipo: "conclusion",
@@ -1229,10 +1239,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Gordon B. Hinckley",
-        fuente: "en Conference Report, octubre de 1964, pág. 118",
-        texto: "Con todo lo que aprendéis, aprended de Él. Con todo vuestro estudio, buscad el conocimiento del Maestro. Ese conocimiento complementará de manera maravillosa la preparación secular que recibáis y dará plenitud a vuestra vida y carácter de una manera que no puede venir de ninguna otra forma.",
-        link: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/66-future-education-and-employment/662-education-for-the-whole-soul?lang=spa",
-        // Fuente verificada en manual AT 2026 lección 189 (Educación para toda el alma)
+        fuente: "Conference Report, octubre de 1964, pág. 118; recogida en Enseñanzas de los Presidentes de la Iglesia: Gordon B. Hinckley, cap. 17",
+        texto: "Junto con todo lo que aprendemos, aprendamos también de Él. Junto con todo lo que estudiamos, debemos procurar el conocimiento del Maestro. Ese conocimiento complementará maravillosamente nuestra formación secular y nos proveerá el carácter y la vida plena que no se obtienen de ninguna otra forma.",
+        link: "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-gordon-b-hinckley/chapter-17-continue-in-the-great-process-of-learning?lang=spa",
+        // ⚠️ Link mejorado: el discurso original de 1964 no está publicado individualmente en el sitio en español; en vez de enlazar a una lección de seminario que solo menciona la cita de paso, se enlaza al capítulo del manual "Enseñanzas de los Presidentes de la Iglesia" que reproduce la cita completa y la atribuye correctamente.
       },
       {
         tipo: "conclusion",

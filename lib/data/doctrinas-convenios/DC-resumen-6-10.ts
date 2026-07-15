@@ -53,10 +53,12 @@ export const semana6Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2013, pág. 107",
-        texto: "Dios no espera que seamos perfectos para llamarnos. Llama a personas imperfectas porque son las únicas disponibles. Lo que sí requiere es disponibilidad y voluntad. El Salvador no dijo 'envíame a los preparados'; dijo 'aquí estoy yo, envíame a mí'. Esa disposición es lo que convierte al llamado en poder."
+        autor: "Presidente Russell M. Nelson",
+        fuente: "\"Predicar el evangelio de paz\", Conferencia General, abril de 2022 (Liahona, mayo de 2022, págs. 6–7)",
+        texto: "Hoy reafirmo con firmeza que el Señor le ha pedido a todo joven digno y capaz que se prepare y sirva una misión. Para los jóvenes Santos de los Últimos Días, el servicio misional es una responsabilidad del sacerdocio. […] Para ustedes, jóvenes hermanas dignas y capaces, una misión también es una oportunidad poderosa, aunque opcional. Amamos a las hermanas misioneras y las recibimos de todo corazón. ¡Lo que ustedes aportan a esta obra es magnífico!",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/11nelson?lang=spa"
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Doctrine and Covenants Seminary Teacher Manual 2025, Lección 47), donde es la cita central que introduce el tema. Se reemplazó la cita fabricada de Holland (que no corresponde a ningún discurso real de esa fecha) por esta cita verificada de Nelson, que el manual usa exactamente en esta lección sobre D&C 30–36.
       {
         tipo: "conclusion",
         contenido: "D&C 30–34 muestran que el Señor llama a personas normales, con miedos y defectos reales, a proclamar Su evangelio con urgencia. La corrección a David Whitmer por temer al hombre más que a Dios es un recordatorio vigente: buscar la aprobación de los demás antes que la dirección divina nos paraliza. La clave no es sentirse listo, sino estar dispuesto. Si sientes que no estás preparado para testificar o servir, estas revelaciones te dicen que eso no es obstáculo para el Señor — la disposición es suficiente para que Él haga el resto."
@@ -111,10 +113,12 @@ export const semana6Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2023, pág. 96",
-        texto: "El Señor no ve a las personas como estadísticas o como parte de un grupo. Él las conoce a cada una por su nombre, sus luchas, su corazón. Cuando Él nos da instrucciones personales a través del Espíritu, está ejerciendo ese conocimiento infinito de quiénes somos. Ningún ser humano puede conocernos así; solo nuestro Padre Celestial y el Salvador pueden hacerlo."
+        autor: "Élder Dieter F. Uchtdorf",
+        fuente: "\"La obra misional: comparte lo que hay en tu corazón\", Conferencia General, abril de 2019 (Liahona, mayo de 2019, pág. 17)",
+        texto: "Entiende que no es tu trabajo convertir a las personas. Ese es el papel del Espíritu Santo. Tu papel es compartir lo que hay en tu corazón y vivir de acuerdo con tus creencias. Así que no te desanimes si alguien no acepta el mensaje del Evangelio de inmediato. No es un fracaso personal. Eso es un asunto entre esa persona y el Padre Celestial. Lo tuyo es amar a Dios y amar a tu prójimo, Sus hijos. Cree, ama, actúa.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/14uchtdorf?lang=spa"
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 48), bajo "¿Qué pasa si las personas no aceptan lo que comparto?". Se reemplazó la cita fabricada de Nelson (que no corresponde a ningún discurso real) por esta cita verificada de Uchtdorf, que es la que el manual usa exactamente en esta lección.
       {
         tipo: "conclusion",
         contenido: "D&C 31–32 y 36 revelan un Dios que no da revelaciones genéricas: las da personalizadas, adaptadas a la situación específica de cada persona. Que el Señor hablara directamente de la familia de Thomas Marsh, o que declarara el perdón personal de Edward Partridge antes de llamarlo, muestra que el evangelio no es un sistema de reglas impersonales sino una relación viva. Si el Señor conocía así a estos primeros santos, te conoce a vos de la misma manera: con esa profundidad, con ese detalle, con esa atención."
@@ -167,12 +171,7 @@ export const semana6Lecciones: Lesson[] = [
           }
         ]
       },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Dieter F. Uchtdorf",
-        fuente: "Liahona, noviembre de 2008, pág. 55",
-        texto: "El Señor no descarta lo que somos ni lo que vivimos antes de encontrar el evangelio. Él redime esas experiencias, esos dones, esa historia, y los convierte en herramientas para Su obra. El llamado de Sidney Rigdon es prueba de eso: no comenzó desde cero, sino que lo que ya tenía fue consagrado al Señor."
-      },
+      // ⚠️ Sección "enseñanza" omitida tras consultar directamente el manual real de esta lección (Doctrine and Covenants Seminary Teacher Manual 2025, Lección 49, "Doctrine and Covenants 35: The Joseph Smith Translation of the Bible"). Esa lección real trata sobre la Traducción de José Smith de la Biblia (no específicamente sobre el llamado de Sidney Rigdon a predicar) y su única fuente citada es un erudito SUD (Robert J. Matthews), no una Autoridad General. Siguiendo la regla de la skill de no inventar una cita cuando no se encuentra ninguna real, se omite el campo "enseñanza" en vez de sustituirlo por otra fabricación.
       {
         tipo: "conclusion",
         contenido: "D&C 35 enseña que el Señor prepara instrumentos con anticipación y que nadie llega al evangelio por accidente. El principio de que 'los débiles confundirán a los sabios' no descarta la habilidad de los preparados como Sidney Rigdon — los incluye, siempre que se sometan al Señor. Si tenés talentos, dones, habilidades o experiencias que todavía no pusiste al servicio del evangelio, esta lección es una invitación directa: el Señor puede hacer con eso algo que vos no te imaginás."
@@ -223,9 +222,11 @@ export const semana6Lecciones: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Richard G. Scott",
-        fuente: "Liahona, noviembre de 2011, pág. 6",
-        texto: "Memorizar pasajes de las Escrituras es preparación espiritual en acción. Cuando los versículos están en tu mente y en tu corazón, el Espíritu puede traerlos exactamente cuando los necesitás — para resistir una tentación, para consolar a alguien, o para responder una pregunta que no esperabas."
+        fuente: "Conferencia General, octubre de 2011 (Liahona, noviembre de 2011, pág. 6)",
+        texto: "Se obtiene un gran poder al memorizar pasajes de Escrituras. El memorizar un pasaje es como crear una nueva amistad. Es como descubrir a una persona nueva que puede ayudarnos en tiempos de necesidad, darnos inspiración y consuelo, y ser la fuente de motivación para lograr un cambio necesario.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa"
       },
+      // ✅ Cita verificada palabra por palabra contra el discurso original ("El poder de las Escrituras", Richard G. Scott, octubre de 2011). El texto original del archivo era una paráfrasis presentada como cita textual; se reemplazó por la cita real y verbatim del mismo discurso, que trata exactamente el mismo tema (memorizar Escrituras). Nota: se consultó también el manual real de esta lección ("Doctrinal Mastery Practice 3") y esa lección específica no incluye ninguna cita fija de un líder de la Iglesia — es una lección de práctica basada en escenarios (Noelle, Amy), sin cita "oficial" asociada. Se mantiene esta cita de Scott como complemento verificado y temáticamente pertinente (memorización), no como la cita que use el manual textualmente en esta lección.
       {
         tipo: "conclusion",
         contenido: "El Dominio de la Doctrina no es un ejercicio escolar — es equipamiento para la vida. Cada pasaje memorizado y comprendido es una herramienta disponible en cualquier momento. El objetivo de esta práctica es salir del aula con versículos que ya no necesitás buscar, sino que están listos para cuando los necesités."
@@ -276,9 +277,11 @@ export const semana6Lecciones: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2022, pág. 8",
-        texto: "Os prometo que si buscáis las enseñanzas del profeta con la misma dedicación con que buscáis las Escrituras, recibiréis revelación personal para vuestra vida. Las palabras del profeta son palabras vivas, dadas para el tiempo en que vivís."
+        fuente: "\"Choices for Eternity\" (devocional mundial para jóvenes adultos, 15 de mayo de 2022)",
+        texto: "Creo en ustedes. Como profeta del Señor, los bendigo para que conozcan la verdad de quiénes son y para que atesoren la verdad de cuál es su glorioso potencial. Los bendigo para que se hagan cargo de su propio testimonio. Y los bendigo para que tengan el deseo y la fuerza de guardar sus convenios.",
+        link: ""
       },
+      // ✅ Esta lección corresponde a la "Plantilla: Enseñanzas de los líderes de la Iglesia" (Lección 210 del manual), un formato genérico y reutilizable sin una cita fija propia — el maestro elige el mensaje a estudiar cada vez. El propio manual ofrece como ejemplo resuelto de cómo usar esta plantilla la Lección 211, "Choices for Eternity" (discurso de Russell M. Nelson en el devocional mundial para jóvenes adultos, mayo de 2022). Se reemplazó la cita fabricada del archivo original (que no corresponde a ningún discurso real) por una cita textual real de ese mismo discurso, el ejemplo oficial del manual para este tipo de lección.
       {
         tipo: "conclusion",
         contenido: "Seguir al profeta no es pasividad espiritual sino una decisión activa y renovada. Las herramientas de estudio de esta lección — identificar el principio, las promesas, las condiciones y la acción personal — convierten escuchar la Conferencia General en un ejercicio de revelación personal. El desafío no es memorizar lo que dijo el profeta, sino identificar qué quiere el Señor que hagas vos con lo que dijo."
@@ -340,10 +343,12 @@ export const semana7Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2014, pág. 88",
-        texto: "El testimonio de que Jesús de Nazaret es el Cristo, el Hijo del Dios viviente, es el testimonio más importante que cualquier ser humano puede dar o recibir. En ese testimonio está la respuesta a todas las preguntas que importan: ¿Quién soy? ¿Por qué estoy aquí? ¿Hay esperanza cuando todo falla? La respuesta es siempre Él."
+        autor: "Élder Robert D. Hales",
+        fuente: "Declaración citada en el manual; discurso original no identificado con precisión por el manual",
+        texto: "El mundo se está alejando del Señor más rápido y más lejos que nunca. El adversario ha sido soltado sobre la tierra. Vemos, oímos, leemos, estudiamos y compartimos las palabras de los profetas para estar advertidos y protegidos. Por ejemplo, 'La Familia: Una Proclamación para el Mundo' se dio mucho antes de que enfrentáramos los desafíos que hoy afectan a la familia. 'El Cristo Viviente: El Testimonio de los Apóstoles' se preparó de antemano para cuando más lo necesitáramos.",
+        link: ""
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 162, "El Cristo Viviente, Parte 1"), donde es la cita central que introduce por qué se estudia el documento "El Cristo Viviente". Se reemplazó la cita fabricada de Holland (que no corresponde a ningún discurso real de esa fecha) por esta cita real de Robert D. Hales (1932–2017), que es la que el manual usa exactamente en esta lección. // link: no verificado — el manual no especifica la fuente original completa de esta declaración de Hales.
       {
         tipo: "conclusion",
         contenido: "La primera parte de 'El Cristo Viviente' establece quién es el Salvador: no un maestro histórico ni un símbolo religioso, sino el Hijo Unigénito del Padre, que vivió, murió y resucitó con un propósito infinito. Conocerlo no es saber sobre Él — es tener una relación viva con Él. Esta semana de Pascua es el momento perfecto para preguntarte: ¿lo conozco a Él como persona, o solo conozco datos sobre Él?"
@@ -398,10 +403,12 @@ export const semana7Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "Liahona, enero de 2000 — Mensaje al publicar El Cristo Viviente",
-        texto: "En este año de jubileo presentamos este testimonio de la vida y la misión de Jesucristo. Como testigos especiales suyos, ante los hombres y ángeles, declaramos que Él vive. Es el Rey de reyes, el Señor de señores, el Creador de este mundo eterno. Él es nuestro Salvador y Redentor."
+        autor: "Élder Neil L. Andersen",
+        fuente: "\"Hablamos de Cristo\", Conferencia General, octubre de 2020 (Liahona, noviembre de 2020, págs. 88–89)",
+        texto: "Hay muchas personas en la tierra que saben muy poco de Jesucristo, y en algunas partes del mundo donde Su nombre se ha proclamado durante siglos, la fe en Jesucristo está disminuyendo. […] Si el mundo va a hablar menos de Él, ¿quién va a hablar más de Él? ¡Nosotros!",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/45andersen?lang=spa"
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 163, "El Cristo Viviente, Parte 2"), donde es la cita central que introduce la invitación a testificar de Cristo. Se reemplazó la cita fabricada de Hinckley/"El Cristo Viviente" (que pertenece temáticamente a la lección anterior, no a esta) por esta cita real de Neil L. Andersen, que es la que el manual usa exactamente en esta lección.
       {
         tipo: "conclusion",
         contenido: "El testimonio no se hereda — se construye. Los Apóstoles que firmaron 'El Cristo Viviente' no lo hicieron por tradición familiar sino por convicción personal. La invitación de esta lección es exactamente esa: pasar de un conocimiento de segunda mano a un testimonio propio. No importa qué tan joven seas — el Salvador te puede revelar la verdad de Su existencia si vos la buscás de la misma manera que Tomás, con honestidad y con disposición a creer."
@@ -456,10 +463,12 @@ export const semana7Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2021, pág. 6",
-        texto: "Porque el Salvador vive, nosotros también viviremos. Porque Él venció la muerte, nosotros también venceremos la muerte. Porque Él fue resucitado en un cuerpo glorificado, nosotros también recibiremos cuerpos glorificados. La Resurrección no es una metáfora ni un símbolo — es una realidad que cambia todo lo que somos y todo lo que podemos llegar a ser."
+        autor: "Élder Richard G. Scott",
+        fuente: "\"El poder de las Escrituras\", Conferencia General, octubre de 2011 (Liahona, noviembre de 2011, pág. 6) — citado en Ven, Sígueme para el Hogar y la Iglesia: Doctrina y Convenios 2025, semana de Pascua",
+        texto: "Se obtiene un gran poder al memorizar pasajes de Escrituras. El memorizar un pasaje es como crear una nueva amistad. Es como descubrir a una persona nueva que puede ayudarnos en tiempos de necesidad, darnos inspiración y consuelo, y ser la fuente de motivación para lograr un cambio necesario.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa"
       },
+      // ✅/⚠️ Cita real localizada directamente en el manual real de esta semana (Ven, Sígueme — Doctrina y Convenios, 14-20 de abril, "Pascua"), donde se sugiere memorizar un pasaje sobre el Salvador citando esta misma cita de Scott. Se reemplazó la cita fabricada de Nelson sobre la Resurrección (que no se localizó en ningún discurso real) por esta cita real, aunque su tema (el poder de memorizar Escrituras) es distinto al de la cita original (la realidad de la Resurrección). El manual de esta semana no incluye una cita de un líder específicamente sobre la Resurrección más allá del testimonio escritural de José Smith (D. y C. 76:22).
       {
         tipo: "conclusion",
         contenido: "La Pascua de Resurrección es el momento del año donde el evangelio se concentra en su verdad más fundamental: Cristo vive. No como un recuerdo, no como un símbolo, sino como una Persona resucitada que conoce tu nombre, que intercede por vos ante el Padre, y que ha preparado el camino para que también vos vivas para siempre. Esta semana, más que cualquier otra, es el momento de preguntarte qué significa para vos personalmente que el Salvador vive."
@@ -521,10 +530,12 @@ export const semana8Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2018, pág. 7",
-        texto: "Reunirse con los santos no es un mandamiento opcional. La comunidad de los discípulos de Cristo tiene un poder que ningún individuo puede generar solo. Cuando los santos se reúnen en torno a los convenios y al Señor, la fuerza de la unidad se convierte en escudo espiritual que el adversario no puede penetrar."
+        autor: "Presidente Henry B. Eyring",
+        fuente: "\"Nuestros corazones tejidos como uno solo\", Conferencia General, octubre de 2008 (Liahona, noviembre de 2008, pág. 69)",
+        texto: "Sabemos por experiencia que el gozo viene cuando somos bendecidos con unidad. […] El deseo de nuestro Padre Celestial es concedernos ese sagrado anhelo de unidad por Su amor hacia nosotros. Él no puede concedérnoslo como individuos. El gozo de la unidad que Él tanto desea darnos no es algo solitario. Debemos buscarlo y calificar para recibirlo junto con otros. Por eso Dios nos insta a reunirnos, para poder bendecirnos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2008/10/our-hearts-knit-as-one?lang=spa"
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 51, "Reuníos a Ohio"), en la sección de Recursos adicionales sobre por qué el Señor manda reunirnos. Se reemplazó la cita fabricada de Nelson (que no corresponde a ningún discurso real) por esta cita verificada de Eyring, que trata exactamente el mismo tema (la reunión y la unidad).
       {
         tipo: "conclusion",
         contenido: "D&C 38:27 y 30 son dos frases que se refuerzan mutuamente: si sois uno, estáis preparados — y si estáis preparados, no temeréis. El miedo que los santos de 1830 sentían era real. La respuesta del Señor no fue eliminar la amenaza de inmediato, sino revelar quién es Él y pedir unidad y preparación. El mismo patrón aplica hoy: la preparación espiritual y la unidad en el Señor son la respuesta al miedo, no la ausencia de peligros."
@@ -574,10 +585,12 @@ export const semana8Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Dieter F. Uchtdorf",
-        fuente: "Liahona, noviembre de 2013, pág. 21",
-        texto: "La igualdad que el Señor pide no es uniformidad — no somos todos iguales en dones, circunstancias ni historia. Pero sí somos iguales en valor. Cuando veo al otro como alguien de valor infinito ante el Padre Celestial, no puedo tener envidia de sus dones ni ignorar su necesidad. La unidad en Cristo empieza en ese reconocimiento."
+        autor: "Presidente Russell M. Nelson",
+        fuente: "\"Remarks at Worldwide Priesthood Celebration\" (celebración \"Be One\", 1 de junio de 2018)",
+        texto: "En última instancia, nos damos cuenta de que solo la comprensión de la verdadera paternidad de Dios puede traer plena apreciación de la verdadera hermandad de los hombres y la verdadera hermandad de las mujeres. Esa comprensión nos inspira con un deseo apasionado de construir puentes de cooperación en lugar de muros de segregación.",
+        link: ""
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 52, "Ser uno"), donde es la cita central que ilustra el principio de valorar a los demás y buscar la unidad. Se reemplazó la cita fabricada de Uchtdorf (que no corresponde a ningún discurso real) por esta cita verificada de Nelson. // link: no verificado — se trata de una alocución (no discurso de conferencia general) sin URL de estudio estándar.
       {
         tipo: "conclusion",
         contenido: "Los principios de D&C 38 son la descripción de cómo se construye Sion desde adentro hacia afuera: no con programas ni estructuras, sino con personas que estiman al otro, comparten lo que tienen y se preparan en lugar de temer. Esto empieza en el aula de Seminario, en la familia, en el barrio. La preparación que el Señor pide no es solo provisiones físicas — es carácter, unidad y fe construida día a día."
@@ -628,9 +641,11 @@ export const semana8Lecciones: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2011, pág. 86",
-        texto: "Un convenio con Dios es la promesa más sagrada que existe. Dios nunca rompe Su parte — sus promesas son eternas. La pregunta siempre es si nosotros guardamos la nuestra. Cuando guardamos los convenios, abrimos el flujo del poder divino hacia nuestra vida. Cuando los quebrantamos, cerramos ese flujo — no porque Dios nos castigue, sino porque nosotros mismos cerramos la puerta."
+        fuente: "\"Convenios\", Conferencia General, octubre de 2011 (Liahona, noviembre de 2011, pág. 86)",
+        texto: "Un convenio es […] una promesa sagrada con Dios. Él fija los términos. Cada persona puede optar por aceptar esos términos. Si alguien acepta los términos del convenio y obedece la ley de Dios, recibe las bendiciones asociadas con el convenio.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/10/covenants?lang=spa"
       },
+      // ✅ Cita verificada palabra por palabra contra el discurso original ("Convenios", Russell M. Nelson, octubre de 2011). La fuente del archivo original ya era correcta (autor, discurso y página coincidían); solo el texto era una paráfrasis. Se reemplazó por la definición textual real de Nelson, localizada directamente en el manual oficial de esta lección.
       {
         tipo: "conclusion",
         contenido: "D&C 39–40 no es solo la historia de James Covill — es un espejo. ¿Cuántas promesas le hiciste al Señor en momentos de fervor espiritual que después abandonaste cuando llegó la presión social o el miedo? La lección no es juzgar a James Covill sino preguntarse honestamente qué lugar ocupa el Señor en las decisiones cotidianas cuando nadie de la Iglesia está mirando. La buena noticia es que el Señor estuvo dispuesto a dar a James promesas extraordinarias — y está dispuesto a dártelas a vos también, si tu corazón está con Él."
@@ -727,10 +742,12 @@ export const semana8Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Richard G. Scott",
-        fuente: "Liahona, noviembre de 2011, pág. 6",
-        texto: "El Espíritu Santo puede revelar verdades mientras estudiás. Si no las registrás en ese momento, las perdés. Anotar lo que el Espíritu te revela mientras estudiás las Escrituras no es solo una buena práctica académica — es el acto de preservar revelación personal. Esas notas se convierten en un registro de tu crecimiento espiritual a lo largo del tiempo."
+        autor: "Élder David A. Bednar",
+        fuente: "\"Porque las tenemos ante nuestros ojos\", Conferencia General, abril de 2006 (Liahona, abril de 2006, pág. 20)",
+        texto: "El anotar lo que aprendamos, lo que pensemos y sintamos al estudiar las Escrituras es otra forma de meditar y una invitación poderosa que extendemos al Espíritu Santo para que continúe dándonos instrucción.",
+        link: ""
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 171, "Tomar notas en las Escrituras"), donde es la cita que el manual usa exactamente para introducir la técnica de agregar notas. Corrección de la corrección anterior: en la primera pasada de esta auditoría se había reemplazado el texto fabricado por una cita real pero de otro autor (Richard G. Scott); al consultar el manual de esta lección específica se confirmó que la cita real y oficial es de David A. Bednar, sobre este tema exacto.
       {
         tipo: "conclusion",
         contenido: "Las Escrituras anotadas con honestidad y con el Espíritu se convierten en uno de los registros espirituales más valiosos de tu vida. Con el tiempo, leer tus propias notas es leer la historia de cómo el Señor te habló en cada etapa. Esta semana, elegí un sistema de anotación — aunque sea simple — y comenzá a aplicarlo. No hace falta ser perfecto desde el principio; hace falta comenzar."
@@ -792,10 +809,12 @@ export const semana9Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Thomas S. Monson",
-        fuente: "Liahona, noviembre de 2008, pág. 60",
-        texto: "El liderazgo en el reino de Dios no se mide por habilidades administrativas ni por elocuencia, sino por la pureza del corazón. El Señor busca personas en quienes no haya engaño — que digan lo que piensan, que hagan lo que prometen, y que pongan el bien de los demás antes que el propio. Eso es lo que el Señor encontró en Edward Partridge."
+        autor: "Presidente Russell M. Nelson",
+        fuente: "\"Óyele a Él\", Conferencia General, abril de 2020 (Liahona, mayo de 2020, págs. 89–90)",
+        texto: "Se requiere un esfuerzo consciente y constante para llenar nuestra vida diaria con Sus palabras, Sus enseñanzas, Sus verdades. […] Podemos acudir a las Escrituras. Ellas nos enseñan acerca de Jesucristo y Su evangelio, la magnitud de Su Expiación y el gran plan de felicidad y redención de nuestro Padre. […] También podemos oírlo a Él en el templo. La casa del Señor es una casa de aprendizaje. […] Lo oímos a Él cuando prestamos atención a las palabras de los profetas, videntes y reveladores.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa"
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 55, "El Señor se deleita en bendecirnos"), donde es la cita central que ilustra cómo podemos oír al Señor. Se reemplazó la cita fabricada de Monson (que no corresponde a ningún discurso real ni trata sobre Edward Partridge en ese contexto) por esta cita verificada de Nelson.
       {
         tipo: "conclusion",
         contenido: "El llamado de Edward Partridge en D&C 41 establece un principio que no cambia: el Señor califica a quienes llama por la condición de su corazón, no por sus credenciales externas. La descripción 'como Natanael, en quien no hay engaño' es un estándar de carácter que aplica a cualquier líder, madre, padre, misionero o joven que quiere servir al Señor fielmente. ¿En qué medida podría el Señor describir tu corazón con esas palabras?"
@@ -850,10 +869,12 @@ export const semana9Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder D. Todd Christofferson",
-        fuente: "Liahona, noviembre de 2009, pág. 20",
-        texto: "Las leyes de Dios no son restricciones arbitrarias. Son las condiciones bajo las cuales podemos recibir las bendiciones más altas. Cuando vivimos dentro de esas leyes, nos alineamos con las fuerzas que gobiernan el universo, y eso nos da acceso a poder y gozo que de otra manera no podríamos obtener."
+        autor: "Élder Dale G. Renlund",
+        fuente: "\"Escógete hoy\", Conferencia General, octubre de 2018 (Liahona, noviembre de 2018, pág. 105)",
+        texto: "El plan de Dios incluye instrucciones para nosotros, a las que las Escrituras llaman mandamientos. Estos mandamientos no son un conjunto caprichoso ni una colección arbitraria de reglas impuestas solo para entrenarnos a ser obedientes. Están vinculados con el desarrollo de los atributos de la divinidad, el regreso a nuestro Padre Celestial y la obtención de un gozo perdurable.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/choose-you-this-day?lang=spa"
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 56, "Las leyes del Señor"), en la sección de Recursos adicionales sobre por qué Dios nos da mandamientos. Se reemplazó la cita fabricada de Christofferson (que no corresponde a ningún discurso real) por esta cita verificada de Renlund, que coincide casi palabra por palabra con el tema del texto original ("no son restricciones arbitrarias").
       {
         tipo: "conclusion",
         contenido: "D&C 42 establece que la Iglesia opera por leyes reveladas, no por tradiciones humanas ni por preferencias individuales. Las leyes sobre la moralidad, la honestidad y la manera de enseñar no son un estándar impuesto desde afuera — son la descripción de quién es Cristo y de quién Sus discípulos están aprendiendo a ser. La promesa de D&C 42:61 es especialmente motivadora: quienes persistan en buscar recibirán revelación sobre revelación, construyendo un edificio de conocimiento espiritual que trae gozo y vida eterna."
@@ -903,10 +924,12 @@ export const semana9Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "Liahona, septiembre de 1999, pág. 2",
-        texto: "Os ruego que seáis estudiantes insaciables. El mundo en que vivís es tan complejo, tan competitivo, tan exigente que os necesita bien preparados. Pero más que eso: el Señor os necesita con una mente afilada para avanzar Su obra. No desperdiciéis la oportunidad de aprender."
+        autor: "Élder David A. Bednar",
+        fuente: "\"Learning to Love Learning\", Ensign, febrero de 2010, pág. 27",
+        texto: "Ustedes y yo estamos aquí en la tierra para prepararnos para la eternidad, para aprender a aprender, para aprender cosas que son temporalmente importantes y eternamente esenciales, y para ayudar a otros a aprender sabiduría y verdad (véase D. y C. 97:1). Comprender quiénes somos, de dónde venimos y por qué estamos en la tierra impone a cada uno de nosotros una gran responsabilidad, tanto de aprender a aprender como de aprender a amar el aprendizaje.",
+        link: ""
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 191, "La importancia de la educación"), donde es la cita central que abre el tema. Se reemplazó la cita fabricada de Hinckley (que no corresponde a ningún discurso real localizado) por esta cita verificada de Bednar. // link: no verificado — el artículo original de Ensign no tiene una URL de estudio estándar localizada.
       {
         tipo: "conclusion",
         contenido: "Ver la educación como mayordomía espiritual lo cambia todo: ya no estudiás solo para conseguir trabajo o para aprobar — estudiás porque el Señor te dio una mente y espera que la desarrolles para Su obra y para el bienestar de tu familia y tu comunidad. D&C 130:18–19 promete que el conocimiento adquirido con fidelidad no se pierde — trasciende esta vida. Esa es una motivación que ningún otro sistema de valores puede ofrecer."
@@ -956,10 +979,12 @@ export const semana9Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, mayo de 2014, pág. 5",
-        texto: "El Salvador dijo que los pobres siempre estarían entre nosotros. No lo dijo como resignación sino como llamado: siempre habrá alguien cerca de vos que necesita lo que vos tenés — tiempo, dinero, habilidad, atención. La pregunta no es si hay necesidad cerca tuya. La pregunta es si estás mirando."
+        autor: "Presidente Dieter F. Uchtdorf",
+        fuente: "\"Ustedes son Mis manos\", Conferencia General, abril de 2010 (Liahona, mayo de 2010, pág. 68)",
+        texto: "Se cuenta que durante el bombardeo de una ciudad en la Segunda Guerra Mundial, una gran estatua de Jesucristo quedó severamente dañada. Cuando los habitantes del pueblo encontraron la estatua entre los escombros, se lamentaron porque había sido un símbolo amado de su fe y de la presencia de Dios en su vida. Los expertos pudieron reparar la mayor parte de la estatua, pero sus manos habían quedado tan dañadas que no pudieron restaurarse. […] Finalmente, la estatua permaneció sin manos. Sin embargo, la gente de la ciudad agregó en la base de la estatua de Jesucristo un letrero con estas palabras: 'Ustedes son Mis manos'.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/04/you-are-my-hands?lang=spa"
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 57, "Consagrados al Señor"), donde es la historia con la que se abre la lección. Se reemplazó la cita fabricada de Holland (que no corresponde a ningún discurso real) por esta cita verificada de Uchtdorf.
       {
         tipo: "conclusion",
         contenido: "La ley de la consagración no fue retirada porque sea obsoleta — fue suspendida porque los santos no estaban preparados para vivirla plenamente. Hoy la vivimos parcialmente a través del ayuno y las ofrendas, las contribuciones humanitarias y el servicio. Pero el principio de fondo es eterno: somos mayordomos de los bienes del Señor, y cómo los usamos con los que tienen necesidad es una medida directa de cuánto amamos al Salvador en la persona de Sus hijos."
@@ -1017,9 +1042,11 @@ export const semana10Lecciones: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2016, pág. 38",
-        texto: "Hay un momento que todos enfrentaremos: el juicio ante el Padre. Pero no estamos solos en ese momento. El Salvador — que nos conoce de manera infinita, que pagó el precio de cada error que cometimos — está ahí, no como acusador sino como nuestro Abogado. Esa es la imagen más consoladora que existe: no enfrentás el juicio solo."
+        fuente: "Sobre el título \"Alfa y Omega\" (D. y C. 45:7), citado en el manual oficial de esta lección",
+        texto: "Alfa, la primera letra del alfabeto griego, sugiere comienzo e inicio. […] Como Primogénito, Él estuvo a la diestra del Padre en los concilios celestiales y en la obra de la creación. […] Como Omega, nombre tomado de la última letra del alfabeto griego, Cristo es el término, la causa final tanto como el resultado final de la experiencia mortal. […] Estas letras del griego sugieren el papel universal de Jesús desde el principio del mundo hasta su fin. Pero Él debería ser Alfa y Omega también en lo particular — nuestro principio personal y nuestro fin individual — ese modelo con el cual moldeamos nuestro viaje.",
+        link: ""
       },
+      // ✅ Cita real de Jeffrey R. Holland localizada directamente en el manual oficial de esta lección (Lección 58, "El Abogado con el Padre"), en la sección sobre el título "Alfa y Omega". Se mantiene el mismo autor que el archivo original, pero se reemplazó el texto fabricado (sobre el juicio y el Abogado) por esta cita real de Holland sobre un título distinto de Cristo mencionado en el mismo pasaje (D. y C. 45:7). // link: no verificado.
       {
         tipo: "conclusion",
         contenido: "D&C 45:3–8 revela al Salvador en Su rol de Intercesor: no un mediador frío y distante, sino uno que conoce personalmente cada aspecto de tu vida, que sufrió la Expiación específicamente por tus errores, y que ahora aboga activamente por vos ante el Padre. Esta verdad no es invitación a la complacencia — es invitación a la gratitud y a la confianza. No tenés que ser perfecto para presentarte ante Dios: tenés que tener fe en Quien ya lo es."
@@ -1070,9 +1097,11 @@ export const semana10Lecciones: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Dallin H. Oaks",
-        fuente: "Liahona, noviembre de 2004, pág. 8",
-        texto: "Las señales de los tiempos no son para atemorizar a los santos sino para confirmarles que el Señor tiene el control. Cada señal cumplida es evidencia de que la profecía es verdadera y de que el regreso del Salvador se acerca. El que entiende esto no teme los eventos del mundo — los ve como confirmaciones de su fe."
+        fuente: "Conferencia General, abril de 2004, \"La preparación para la Segunda Venida\" (Liahona, mayo de 2004, pág. 9)",
+        texto: "En la revelación moderna tenemos la promesa de que si estamos preparados no debemos temer (véase D. y C. 38:30).",
+        link: "https://www.lds.org/general-conference/2004/04/preparation-for-the-second-coming?lang=spa"
       },
+      // ✅/⚠️ Fecha corregida: el discurso real de Dallin H. Oaks sobre este tema es de abril de 2004 (Liahona, mayo de 2004), no de octubre/noviembre de 2004 como indicaba el archivo. La primera frase del discurso real coincide temáticamente con la idea de la cita original (las señales no deben atemorizar); se reemplazó por esa frase textual. El resto del texto original del archivo (sobre "confirmaciones de la fe") es una elaboración no verificada palabra por palabra.
       {
         tipo: "conclusion",
         contenido: "Las señales de los tiempos que describe D&C 45 no son noticias del caos — son el cumplimiento de la profecía. Para el discípulo preparado, cada señal que se cumple no genera miedo sino confianza: el Señor dijo exactamente esto, y está ocurriendo. La clave de D&C 45:32 es la posición del discípulo: estar en lugares santos, firme, no sacudido. Los lugares santos son los templos, los hogares fieles, y los corazones preparados."
@@ -1123,9 +1152,11 @@ export const semana10Lecciones: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Dallin H. Oaks",
-        fuente: "Liahona, noviembre de 2004, pág. 8",
-        texto: "La preparación para la Segunda Venida del Salvador no puede prestarse ni transferirse. El aceite de las vírgenes sabias era el resultado de sus propias elecciones y su propio estilo de vida. Nadie puede dártelo. Nadie puede guardarlo por vos. Es tuyo o no existe. Por eso la preparación espiritual es personal e intransferible."
+        fuente: "Conferencia General, abril de 2004, \"La preparación para la Segunda Venida\" (Liahona, mayo de 2004, pág. 9)",
+        texto: "Los cálculos aritméticos de esta parábola son espeluznantes. Las diez vírgenes obviamente representan a los miembros de la Iglesia de Cristo porque todas fueron invitadas a las fiestas de bodas y todas sabían lo que se requería para ser admitidas cuando el esposo llegara, pero sólo la mitad estuvo lista cuando Él llegó.",
+        link: "https://www.lds.org/general-conference/2004/04/preparation-for-the-second-coming?lang=spa"
       },
+      // ✅/⚠️ Cita real localizada, del mismo discurso que la lección anterior (mismo error de fecha en el archivo original: decía "noviembre de 2004", el real es abril de 2004 / Liahona mayo de 2004). Es el mismo discurso de Oaks sobre la parábola de las diez vírgenes. Sin embargo, la idea específica de que "nadie puede dar o guardar el aceite por otro" —tal como aparece en el archivo original— corresponde en las fuentes de la Iglesia a una enseñanza del presidente Spencer W. Kimball (citada junto al discurso de Oaks en materiales de estudio), no a palabras textuales de Oaks. Se reemplazó el texto por una oración sí verificada de Oaks sobre la misma parábola.
       {
         tipo: "conclusion",
         contenido: "El aceite de la parábola — la preparación espiritual que las vírgenes sabias no podían prestar — se acumula con el tiempo a través de la oración diaria, el estudio de las Escrituras, la participación en los convenios del templo, el servicio y la fidelidad en las cosas pequeñas. No hay un evento de último momento que pueda reemplazar ese proceso. La pregunta que esta lección deja abierta no es teológica — es práctica: ¿qué harás hoy para llenar un poco más tu lámpara?"
@@ -1175,10 +1206,12 @@ export const semana10Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, enero de 2007, pág. 5",
-        texto: "El Señor no hace el trabajo por nosotros — pero sí amplifica nuestra capacidad cuando lo reconocemos como fuente de toda sabiduría. La oración antes del estudio no reemplaza el estudio, pero abre nuestra mente para recibir comprensión que de otra manera no llegaríamos a tener. La fe y el esfuerzo trabajan juntos, no separados."
+        autor: "Élder D. Todd Christofferson",
+        fuente: "\"The Will to Prepare\" (devocional BYU–Pathway Worldwide, 12 de noviembre de 2019)",
+        texto: "Necesitas recordar siempre que no estás solo en esto. Hay personas que te aman y oran por ti. […] Pero no pueden detenerte, y son más los que te apoyan. Lo más importante es que tu Padre Celestial y tu Salvador te conocen y pueden — y quieren — concederte ayuda celestial. Haz de Dios tu socio. […] Tu Padre Celestial y Su Amado Hijo te aman tanto como me aman a mí, y tienes tanto derecho a Su ayuda como yo. Con Su ayuda, puedes tener éxito en [tu educación] y en cualquier otro esfuerzo digno de tu vida. No trabajas ni estudias solo.",
+        link: ""
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 195, "Hacer que el Señor forme parte del aprendizaje"), en la sección de Recursos adicionales. Se reemplazó la cita fabricada de Bednar (que no corresponde a ningún discurso real de esta lección) por esta cita verificada de Christofferson, que trata el mismo principio central del texto original: que no aprendemos ni nos preparamos solos, sino con la ayuda del Señor.
       {
         tipo: "conclusion",
         contenido: "Integrar al Señor en el aprendizaje académico no es dejar todo en Sus manos sino invitarlo a participar activamente en algo que vos también hacés con diligencia. El patrón de D&C 9:7–8 es claro: estudiá primero, luego preguntale. El esfuerzo va primero, la fe lo acompaña. Cuando hacés eso con consistencia, tu aprendizaje tiene una dimensión espiritual que el estudio sin fe nunca puede alcanzar."
@@ -1228,10 +1261,12 @@ export const semana10Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "Liahona, septiembre de 1999, pág. 3",
-        texto: "La integridad es el valor más precioso que podéis llevar al mundo. Podéis perder mucho y recuperarlo. Pero si perdéis la integridad — si la gente no puede confiar en vuestra palabra — habréis perdido algo que cuesta toda una vida reconstruir. Sed honestos. En todo. Siempre."
+        autor: "Élder Joseph B. Wirthlin",
+        fuente: "\"Personal Integrity\", Ensign, mayo de 1990, págs. 30, 32",
+        texto: "La integridad significa hacer siempre lo correcto y lo bueno, sin importar las consecuencias inmediatas. Significa ser recto desde lo más profundo de nuestra alma, no solo en nuestras acciones sino, más importante aún, en nuestros pensamientos y en nuestro corazón. La integridad personal implica tal grado de confiabilidad e incorruptibilidad que somos incapaces de faltar a una confianza o a un convenio. […] El mundo necesita desesperadamente hombres y mujeres íntegros.",
+        link: ""
       },
+      // ✅ Cita real localizada directamente en el manual oficial de esta lección (Lección 196, "La integridad en nuestra formación académica"), en la sección de Recursos adicionales. Se reemplazó la cita fabricada de Hinckley (que no se pudo verificar palabra por palabra) por esta cita verificada de Wirthlin, que trata exactamente el mismo tema con un tono y contenido muy similares al texto original del archivo.
       {
         tipo: "conclusion",
         contenido: "La integridad académica no es solo una regla del colegio — es una práctica de carácter. Cada vez que elegís ser honesto cuando sería fácil no serlo, estás entrenando el tipo de persona que vas a ser en todos los contextos de tu vida: como empleado, como cónyuge, como padre, como líder. Lucas 16:10 lo resume perfectamente: el que es fiel en lo poco, también lo es en lo más. Los exámenes son lo poco. Lo más viene después."

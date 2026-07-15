@@ -25,15 +25,16 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         tipo: "enseñanza",
         autor: "Élder Michael T. Ringwood",
         fuente: "Liahona, mayo de 2022, pág. 88",
-        texto: "Somos la esencia [el centro focal] del plan de nuestro Padre Celestial y la razón de la misión de nuestro Salvador. Capítulo tras capítulo [del Antiguo Testamento] descubrimos ejemplos de cómo el Padre Celestial y Jesucristo se involucran de manera íntima en nuestra vida.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/44ringwood?lang=spa",
+        texto: "Hermanos y hermanas, somos la esencia del plan del Padre Celestial y la razón de la misión de nuestro Salvador. […] Para mí, ningún libro de Escritura ilustra esto más claramente que mi estudio del Antiguo Testamento. Capítulo tras capítulo descubrimos ejemplos de cómo el Padre Celestial y Jehová se involucran de manera íntima en nuestra vida.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/44ringwood?lang=spa&id=p7-p8#p7",
+        // ✅ Corregido: la versión anterior tenía inserciones entre corchetes que no son del orador y cambiaba "Jehová" por "Jesucristo". El link ya era correcto.
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Dallin H. Oaks",
         fuente: "Liahona, mayo de 2023, pág. 102",
         texto: "Los anales de las Escrituras con las palabras pronunciadas por 'Dios' o el 'Señor' son casi siempre las palabras de Jehová, nuestro Señor resucitado, Jesucristo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/04/51oaks?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/04/51oaks?lang=spa&id=p2#p2",
       },
       {
         tipo: "escrituras",
@@ -94,7 +95,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Dallin H. Oaks",
         fuente: "Liahona, mayo de 2021, pág. 75",
         texto: "¿Qué ha hecho Jesucristo por cada uno de nosotros? Ha hecho todo lo que es esencial para nuestra travesía por la vida terrenal hacia el destino señalado en el plan de nuestro Padre Celestial. Su Hijo Unigénito, Jesucristo, es la figura central.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/35oaks?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/35oaks?lang=spa&id=p2#p2",
       },
       {
         tipo: "enseñanza",
@@ -161,15 +162,17 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         tipo: "enseñanza",
         autor: "Presidente Henry B. Eyring",
         fuente: "Liahona, agosto de 2016, pág. 5",
-        texto: "Usted simplemente viva digno del Reino Celestial, y la situación de su familia será más maravillosa de lo que pueda imaginar. Testifico que, a medida que vivan de manera que sean dignos del Reino Celestial, esa promesa profética también se cumplirá para ustedes.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2016/08?lang=spa",
+        texto: "Usted simplemente viva digno del Reino Celestial, y la situación de su familia será más maravillosa de lo que pueda imaginar. Testifico que, a medida que vivan de manera que sean dignos del Reino Celestial, esa promesa profética se cumplirá para ustedes.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2016/08/the-hope-of-eternal-family-love?lang=spa&id=p9-p11#p9",
+        // ✅ Verificado contra el manual oficial de esta lección (cita textualmente este discurso: "The Hope of Eternal Family Love", Ensign/Liahona, agosto de 2016, pág. 5). Mi corrección anterior en esta conversación estaba mal: la fuente de agosto 2016 SÍ es la correcta (Eyring repitió esta misma anécdota en 2019, lo cual me hizo confundir la fuente). Solo hacía falta completar el link con el discurso específico.
       },
       {
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
         fuente: "Liahona, mayo de 2015",
-        texto: "Al casarse y constituir una familia de acuerdo con el evangelio, los Santos se convierten en partícipes de la más sagrada de las ordenanzas disponibles en la tierra.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04?lang=spa",
+        texto: "La familia edificada en el matrimonio de un hombre y una mujer proporciona el mejor entorno para que el plan de Dios prospere.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/why-marriage-why-family?lang=spa&id=p13#p13",
+        // ✅ Corregido: la frase anterior ("partícipes de la más sagrada de las ordenanzas...") no existe en el discurso real "El porqué del matrimonio, el porqué de la familia" (verifiqué el texto completo). Se reemplazó por una cita textual real del mismo discurso y se completó el link (antes apuntaba solo a la sesión completa).
       },
       {
         tipo: "escrituras",
@@ -230,14 +233,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder David A. Bednar",
         fuente: "Liahona, noviembre de 2022, pág. 94",
         texto: "Nuestra preocupación a corto plazo con 'las cosas de este mundo' y 'los honores de los hombres' puede llevarnos a perder nuestra primogenitura espiritual por mucho menos que un guisado de lentejas. Cada uno de nosotros debemos evaluar nuestras prioridades temporales y espirituales con sinceridad y con espíritu de oración.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/46bednar?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/46bednar?lang=spa&id=p24#p24",
       },
       {
         tipo: "enseñanza",
         autor: "Élder Matthew L. Carpenter",
         fuente: "Liahona, mayo de 2024, pág. 62",
         texto: "¿Cuáles son las bendiciones de la exaltación? Incluyen morar en la presencia de Dios por toda la eternidad junto al cónyuge, heredar 'tronos, reinos, principados y potestades... y una continuación de los descendientes para siempre jamás', recibir todo lo que el Padre Celestial tiene.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2024/04/34carpenter?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2024/04/34carpenter?lang=spa&id=p5#p5",
       },
       {
         tipo: "escrituras",
@@ -298,14 +301,16 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder Dieter F. Uchtdorf",
         fuente: "Liahona, noviembre de 2020, pág. 52",
         texto: "Soy testigo de que, aunque a veces nos sintamos sepultados por las pruebas de la vida o rodeados de tinieblas emocionales, el amor de Dios y las bendiciones del Evangelio restaurado de Jesucristo harán que surja algo inimaginable.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/47uchtdorf?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/28uchtdorf?lang=spa&id=p16#p16",
+        // ✅ Corregido el link: el manual de esta lección cita "28uchtdorf", no "47uchtdorf".
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Richard G. Scott",
-        fuente: "Liahona, noviembre de 2010",
-        texto: "El Padre Celestial y Su Hijo conocen perfectamente tu capacidad para crecer al superar los desafíos. Han reservado para ti ciertas pruebas diseñadas específicamente para tu crecimiento eterno.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/10?lang=spa",
+        autor: "Presidente Thomas S. Monson",
+        fuente: "Liahona, noviembre de 2013, pág. 87",
+        texto: "Sabemos que habrá ocasiones en que sentiremos un pesar desgarrador, que sufriremos y que seremos probados al máximo; no obstante, esas dificultades nos permiten cambiar para mejorar, reconstruir nuestra vida a la manera en que nuestro Padre Celestial nos enseña y llegar a ser diferentes de lo que éramos; mejor de lo que éramos, más comprensivos, más empáticos, con testimonios más fuertes de los que antes teníamos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/i-will-not-fail-thee-nor-forsake-thee?lang=spa&id=p23#p23",
+        // ✅ Corregido: la cita de Scott no aparece en el manual oficial de esta lección ni pude verificarla en ninguna fuente real — se reemplazó por una cita textual de Monson que el propio manual de esta lección cita para el mismo principio.
       },
       {
         tipo: "escrituras",
@@ -365,15 +370,16 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         tipo: "enseñanza",
         autor: "Élder David A. Bednar",
         fuente: "Liahona, mayo de 2013, pág. 42",
-        texto: "Esas relaciones no son una mera curiosidad para explorar, un apetito que satisfacer, ni un tipo de recreación o entretenimiento que debe procurarse egoístamente. Más bien, en la vida mortal son una de las máximas expresiones de nuestro potencial y naturaleza divinos, y un medio para fortalecer los lazos emocionales y espirituales entre esposo y esposa.",
+        texto: "Esas relaciones no son una mera curiosidad para explorar, un apetito que satisfacer, ni un tipo de recreación o entretenimiento que debe procurarse egoístamente. No son una conquista que lograr ni simplemente un acto que realizar. Más bien, en la vida mortal son una de las máximas expresiones de nuestro potencial y naturaleza divinos, y un medio para fortalecer los lazos emocionales y espirituales entre esposo y esposa.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/we-believe-in-being-chaste?lang=spa",
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "Liahona, noviembre de 1998",
-        texto: "La ley de castidad es la ley de Dios. Es la ley que protege la vida, la familia y la felicidad.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/1998/10?lang=spa",
+        autor: "Temas y preguntas — Biblioteca del Evangelio",
+        fuente: "\"Castidad\", ChurchofJesusChrist.org",
+        texto: "Nuestro Padre Celestial nos ha dado la ley de castidad para protegernos. La obediencia a esta ley es esencial para tener paz personal, firmeza de carácter y felicidad en el hogar. Aquellos que se mantengan puros desde el punto de vista sexual evitarán el daño espiritual y emocional que siempre proviene de compartir la intimidad física con alguien fuera de los lazos del matrimonio.",
+        link: "https://www.churchofjesuschrist.org/study/manual/gospel-topics/chastity?lang=spa&id=p5#p5",
+        // ✅ Corregido: la cita de Hinckley ("La ley de castidad es la ley de Dios...") no está en el manual oficial de esta lección ni pude verificarla en ningún discurso real — se reemplazó por la cita que el manual sí usa aquí (Temas y preguntas: "Castidad").
       },
       {
         tipo: "escrituras",
@@ -427,14 +433,15 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Fijar metas no es solo una técnica de productividad que te enseñan en la escuela. Cuando la hacés con fe, es una práctica de discipulado. Es decidir con intención quién querés ser y dar pasos concretos en esa dirección —colaborando activamente con el Señor en tu propio desarrollo.\n\nDoctrina y Convenios 58:27–28 dice que 'el poder está en nosotros' para hacer muchas cosas por nuestra propia voluntad en la buena causa. El Señor no quiere hijos que esperen instrucción divina para cada paso. Quiere discípulos que tomen iniciativa con fe. Al mismo tiempo, Proverbios 16:3 dice que cuando encomendamos a Jehová nuestras obras, Él afirma nuestros pensamientos —es decir, alinea nuestra dirección con la Suya.\n\nEstos dos principios no se contradicen: se complementan. Vos ponés el esfuerzo real, la planificación concreta, el hábito sostenido. Y el Señor magnifica ese esfuerzo honesto más allá de lo que podrías lograr solo.\n\nLas metas espirituales —leer las Escrituras diariamente, orar con más intención, prepararse para el templo o la misión— no son solo compromisos religiosos. Son decisiones sobre quién querés ser. Y cuando el Señor sabe que sos serio al respecto, Su ayuda se vuelve real y tangible. Como enseñó el élder Bednar, 'pedir que Dios nos ayude a alcanzar metas buenas y santas no es presunción; es fe.'",
+        contenido: "Fijar metas no es solo una técnica de productividad que te enseñan en la escuela. Cuando la hacés con fe, es una práctica de discipulado. Es decidir con intención quién querés ser y dar pasos concretos en esa dirección —colaborando activamente con el Señor en tu propio desarrollo.\n\nDoctrina y Convenios 58:27–28 dice que 'el poder está en nosotros' para hacer muchas cosas por nuestra propia voluntad en la buena causa. El Señor no quiere hijos que esperen instrucción divina para cada paso. Quiere discípulos que tomen iniciativa con fe. Al mismo tiempo, Proverbios 16:3 dice que cuando encomendamos a Jehová nuestras obras, Él afirma nuestros pensamientos —es decir, alinea nuestra dirección con la Suya.\n\nEstos dos principios no se contradicen: se complementan. Vos ponés el esfuerzo real, la planificación concreta, el hábito sostenido. Y el Señor magnifica ese esfuerzo honesto más allá de lo que podrías lograr solo.\n\nLas metas espirituales —leer las Escrituras diariamente, orar con más intención, prepararse para el templo o la misión— no son solo compromisos religiosos. Son decisiones sobre quién querés ser. Y aunque falles en el camino, como enseñó el presidente Uchtdorf, 'continuar el viaje nos hará mejores de lo que éramos antes.'",
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, noviembre de 2009",
-        texto: "Pedir que Dios nos ayude a alcanzar metas buenas y santas no es presunción; es fe. Él quiere que progresemos y que le pidamos Su ayuda en ese proceso.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2009/10?lang=spa",
+        autor: "Presidente Dieter F. Uchtdorf",
+        fuente: "Liahona, enero de 2014",
+        texto: "Casi con seguridad fracasaremos, al menos a corto plazo. Sin embargo, en lugar de desanimarnos, eso puede fortalecernos... Aunque no logremos alcanzar la meta, continuar el viaje nos hará mejores de lo que éramos antes.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2014/01/the-best-time-to-plant-a-tree?lang=spa&id=p19-p22#p19",
+        // ✅ Corregido: la cita de Bednar no está en el manual oficial de esta lección ni pude verificarla en ningún discurso real. Se reemplazó por una cita textual y verificada de Uchtdorf ("El mejor momento para plantar un árbol", Liahona, enero de 2014), que el propio manual de esta lección usa para este principio.
       },
       {
         tipo: "escrituras",
@@ -495,7 +502,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, mayo de 2018, pág. 96",
         texto: "En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&id=p2#p2",
       },
       {
         tipo: "escrituras",
@@ -553,10 +560,11 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Quentin L. Cook",
-        fuente: "Liahona, noviembre de 2014",
-        texto: "Seamos cuidadosos y no despreocupados en nuestro uso de la tecnología. Usémosla para edificar y bendecir, no para herir o destruir.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/10?lang=spa",
+        autor: "Élder Peter M. Johnson",
+        fuente: "Liahona, noviembre de 2019, pág. 111",
+        texto: "Seamos cuidadosos y no despreocupados en el uso que le demos a la tecnología. Busquemos continuamente maneras en que la tecnología nos pueda acercar más al Salvador y nos permita llevar a cabo Su obra a medida que nos preparemos para Su segunda venida.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/10/54johnson?lang=spa&id=p11#p11",
+        // ✅ Corregido: la cita estaba atribuida a Quentin L. Cook (2014), pero el manual oficial de esta lección la cita textualmente de Peter M. Johnson, "Poder para vencer al adversario" (2019). La segunda oración inventada ("Usémosla para edificar y bendecir...") se reemplazó por la real.
       },
       {
         tipo: "escrituras",
@@ -617,14 +625,15 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, mayo de 2022, pág. 100",
         texto: "Si en este momento el perdón parece imposible, supliquen por el poder que se deriva de la sangre expiatoria de Jesucristo para que los ayude. Si lo hacen, les prometo paz personal y un súbito aumento de su ímpetu espiritual.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/47nelson?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/47nelson?lang=spa&id=p34#p34",
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Boyd K. Packer",
         fuente: "Liahona, mayo de 2011, pág. 33",
-        texto: "Esa actitud se parece a la del hombre que fue golpeado con un garrote. Ofendido, toma el garrote y se golpea a sí mismo en la cabeza todos los días de su vida. Si alguien los ha ofendido, perdonen, olviden, y déjenlo así.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/04/cleansing-the-inner-vessel?lang=spa",
+        texto: "Esa actitud se parece a la del hombre que fue golpeado con un garrote. Ofendido, toma el garrote y se golpea a sí mismo en la cabeza todos los días de su vida. ¡Qué necio! ¡Qué triste! Ese tipo de venganza es autodestructiva. Si alguien los ha ofendido, perdonen, olviden, y déjenlo así.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/04/guided-by-the-holy-spirit?lang=spa&id=p4#p4",
+        // ✅ Corregido el link: el manual de esta lección cita "Guiados por el Santo Espíritu" (abril de 2011), no "cleansing-the-inner-vessel" (un discurso distinto, de 2010).
       },
       {
         tipo: "escrituras",
@@ -682,10 +691,11 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Joseph Fielding Smith",
-        fuente: "Doctrina de Salvación, vol. 1",
-        texto: "José Smith fue escogido antes de que naciera para ser el profeta de la Restauración, para cumplir esta misión en la dispensación de la plenitud de los tiempos.",
-        link: "https://www.churchofjesuschrist.org/study/manual/teachings-joseph-f-smith?lang=spa",
+        autor: "Élder Neil L. Andersen",
+        fuente: "Liahona, noviembre de 2014, pág. 30",
+        texto: "Cada creyente necesita una confirmación espiritual de la misión divina y del carácter del profeta José Smith. Esto es cierto para cada generación.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/10/joseph-smith?lang=spa&id=p1#p1",
+        // ✅ Corregido: la cita de Joseph Fielding Smith no está en el manual oficial de esta lección, no pude verificarla, y su link apuntaba por error a un manual de Joseph F. Smith (una persona distinta). Se reemplazó por la cita real que el manual de esta lección usa (Andersen, "José Smith", noviembre de 2014).
       },
       {
         tipo: "escrituras",
@@ -780,8 +790,9 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
         fuente: "Liahona, mayo de 2010",
-        texto: "Jesucristo es el tema central de todas las Escrituras. Cada libro, cada profeta, cada convenio apunta hacia Él y hacia Su Expiación.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/04?lang=spa",
+        texto: "El propósito central de todas las Escrituras es llenar nuestras almas de fe en Dios el Padre y en Su Hijo Jesucristo.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2010/05/saturday-afternoon-session/the-blessing-of-scripture?lang=spa&id=p14#p14",
+        // ✅ Corregido: la frase anterior ("Jesucristo es el tema central...") era una paráfrasis, no la cita textual. Se reemplazó por el texto real de "La bendición de las Escrituras" y se completó el link (antes apuntaba solo a la sesión completa).
       },
       {
         tipo: "escrituras",
@@ -830,14 +841,15 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Cuando Daniel y sus tres amigos llegaron como cautivos a Babilonia —uno de los imperios más poderosos del mundo antiguo— los pusieron en un programa de educación de élite. Tenían acceso a los mejores maestros, los mejores recursos, y la comida del rey. Pero Daniel pidió no comer la comida del rey y pidió a Dios sabiduría. El resultado fue documentado: los cuatro jóvenes terminaron siendo 'diez veces mejores' que todos los magos y astrólogos del reino en todo asunto de sabiduría e inteligencia.\n\nEso no era casualidad. Era el principio de Doctrina y Convenios 88:118 puesto en práctica: 'Buscad conocimiento, tanto por el estudio como por la fe.' Estos dos métodos no son opuestos —uno secular y el otro religioso. Son complementarios. El estudio desarrolla las capacidades que el Señor puede usar para bendecir a otros. La fe nos conecta con la fuente del conocimiento más profundo.\n\nInvolucrar al Señor en el aprendizaje no significa pedir respuestas mágicas para un examen. Significa estudiar con propósito —porque tus capacidades importan para el Reino—, orar con gratitud por la mente que tenés, y confiar en que el Señor puede magnificar tu esfuerzo honesto. El élder Bednar lo expresó así: 'La espiritualidad necesita renovarse cada día. El Señor puede magnificar nuestro esfuerzo honesto.'\n\nSer un buen estudiante y ser un buen discípulo de Jesucristo no son metas en tensión. Son metas que se refuerzan mutuamente.",
+        contenido: "Cuando Daniel y sus tres amigos llegaron como cautivos a Babilonia —uno de los imperios más poderosos del mundo antiguo— los pusieron en un programa de educación de élite. Tenían acceso a los mejores maestros, los mejores recursos, y la comida del rey. Pero Daniel pidió no comer la comida del rey y pidió a Dios sabiduría. El resultado fue documentado: los cuatro jóvenes terminaron siendo 'diez veces mejores' que todos los magos y astrólogos del reino en todo asunto de sabiduría e inteligencia.\n\nEso no era casualidad. Era el principio de Doctrina y Convenios 88:118 puesto en práctica: 'Buscad conocimiento, tanto por el estudio como por la fe.' Estos dos métodos no son opuestos —uno secular y el otro religioso. Son complementarios. El estudio desarrolla las capacidades que el Señor puede usar para bendecir a otros. La fe nos conecta con la fuente del conocimiento más profundo.\n\nInvolucrar al Señor en el aprendizaje no significa pedir respuestas mágicas para un examen. Significa estudiar con propósito —porque tus capacidades importan para el Reino—, orar con gratitud por la mente que tenés, y confiar en que el Señor puede magnificar tu esfuerzo honesto. Como enseñó el presidente Uchtdorf, aunque todos tenemos debilidades, es por la gracia de Dios que esas debilidades pueden tornarse en fortalezas.\n\nSer un buen estudiante y ser un buen discípulo de Jesucristo no son metas en tensión. Son metas que se refuerzan mutuamente.",
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, noviembre de 2012",
-        texto: "La espiritualidad necesita renovarse cada día a través de la oración, el estudio de las Escrituras y la obediencia. El Señor puede magnificar nuestro esfuerzo honesto.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2012/10?lang=spa",
+        autor: "Presidente Dieter F. Uchtdorf",
+        fuente: "Liahona, mayo de 2015",
+        texto: "Aunque todos tenemos debilidades, podemos superarlas. En efecto, es por la gracia de Dios que las debilidades se tornarán en fortalezas, si nos humillamos y tenemos fe. A lo largo de la vida, la gracia de Dios nos concede bendiciones temporales y dones espirituales que aumentan nuestras habilidades y enriquecen nuestra vida. Su gracia nos refina. Su gracia nos ayuda a llegar a ser nuestro mejor yo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/the-gift-of-grace?lang=spa&id=p24-p25#p24",
+        // ✅ Corregido: la cita de Bednar no está en el manual oficial de esta lección ni pude verificarla. Se reemplazó por una cita real y verificada de Uchtdorf ("El don de la gracia"), que el manual sí usa para este mismo principio (superar las debilidades en el aprendizaje con ayuda del Señor).
       },
       {
         tipo: "escrituras",
@@ -893,14 +905,15 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, mayo de 2017, pág. 40",
         texto: "Los discípulos verdaderos de Jesucristo están dispuestos a destacarse, defender sus principios y ser diferentes a la gente del mundo. Son impávidos, devotos y valientes.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&id=p18#p18",
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Neal A. Maxwell",
-        fuente: "Liahona, noviembre de 1996",
-        texto: "Las personas con convicción real actúan correctamente incluso cuando la presión del entorno juega en su contra. Su brújula moral no es la aprobación de los demás, sino la voluntad de Dios.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/1996/10?lang=spa",
+        autor: "Presidente Thomas S. Monson",
+        fuente: "Liahona, mayo de 2014, pág. 69",
+        texto: "Todos sentiremos temor, seremos ridiculizados y afrontaremos oposición. Tengamos todos nosotros el valor de desafiar la opinión popular, la valentía de defender nuestros principios. El tener valor, no el transigir, es lo que trae la aprobación de Dios.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/be-strong-and-of-a-good-courage?lang=spa&id=p29#p29",
+        // ✅ Corregido: la cita de Maxwell no está en el manual oficial de esta lección ni pude verificarla. Se reemplazó por la cita real de Monson ("Esfuércense y sean valientes") que el manual sí usa para este principio.
       },
       {
         tipo: "escrituras",
@@ -960,8 +973,9 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         tipo: "enseñanza",
         autor: "Élder Neil L. Andersen",
         fuente: "Liahona, mayo de 2018, pág. 26",
-        texto: "Vivimos en un mundo donde hay el clamor de millones de voces. La internet, nuestro teléfono inteligente, nuestras diversas opciones de entretenimiento, todos solicitan nuestra atención y ejercen su influencia sobre nosotros.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa",
+        texto: "Vivimos en un planeta con clamores de un millón de voces. Internet, nuestros teléfonos inteligentes, nuestras cajas de entretenimiento tan recargadas, todo ello reclama nuestra atención y arroja su influencia sobre nosotros, con la esperanza de que compremos sus productos y adoptemos sus normas.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa&id=p20#p20",
+        // ✅ Corregido: el texto anterior era una paráfrasis; se reemplazó por la cita textual real (el link ya era correcto).
       },
       {
         tipo: "escrituras",
@@ -1021,8 +1035,9 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
         fuente: "Liahona, mayo de 2022, págs. 78–79",
-        texto: "Algunas personas malinterpretan las promesas de Dios, creyendo que la obediencia produce resultados específicos en un horario determinado... No debemos imaginar el plan de Dios como una máquina cósmica dispensadora donde podemos: elegir una bendición deseada, insertar la cantidad requerida de buenas obras y recibir automáticamente lo pedido. Dios sí honrará Sus convenios y promesas hechos con cada uno de nosotros. No necesitamos preocuparnos por eso.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/41christofferson?lang=spa",
+        texto: "Algunos malinterpretan las promesas de Dios y creen que obedecerle a Él produce resultados específicos en un momento determinado... Sin embargo, las cosas no suceden de una forma tan mecánica en el sistema divino. No debemos pensar en el plan de Dios como si fuera una máquina expendedora cósmica en la que (1) seleccionamos una bendición deseada, (2) insertamos la suma total requerida de buenas obras y (3) el pedido se entrega sin demora.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/41christofferson?lang=spa&id=p7#p7",
+        // ✅ Corregido: el texto anterior era una paráfrasis; se reemplazó por la cita textual real (el link ya era correcto).
       },
       {
         tipo: "escrituras",
@@ -1082,8 +1097,9 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, noviembre de 2021",
-        texto: "El templo sagrado de Dios es un lugar de revelación. Allí el Señor puede revelar a Sus siervos lo que necesitan saber para cumplir Su obra.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/47nelson?lang=spa",
+        texto: "Permitan que el Señor, mediante Su Espíritu, les enseñe y los inspire allí. Les prometo que, con el tiempo, el templo se convertirá en un lugar de seguridad, consuelo y revelación.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/47nelson?lang=spa&id=p21#p21",
+        // ✅ Corregido: el texto anterior era una paráfrasis; se reemplazó por la cita textual real de "El templo y el cimiento espiritual de ustedes" (el link ya era correcto).
       },
       {
         tipo: "escrituras",
@@ -1137,14 +1153,15 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Job lo dijo en medio del peor sufrimiento posible —con la salud destrozada, los hijos muertos, todo perdido— y lo dijo con certeza: 'Yo sé que mi Redentor vive.' No 'creo que', no 'espero que'. Lo sabía. Y esa certeza es el corazón de la Pascua de Resurrección.\n\nJesucristo resucitó literalmente de entre los muertos. Esto no es una metáfora de esperanza ni un símbolo de vida nueva. Es un hecho histórico. Tomás tocó Sus manos y Su costado. Jesús comió pescado con Sus discípulos en Galilea. Los ángeles en el sepulcro vacío dijeron: 'No está aquí, ha resucitado.' Y Pablo lo explicó con una lógica implacable: 'Si Cristo no resucitó, vuestra fe es vana.' Pero sí resucitó. Por eso la fe no es vana.\n\nLa Resurrección tiene consecuencias concretas para tu vida. Porque Cristo resucitó, todos los seres humanos resucitarán también —sin excepción, sin importar cómo vivieron. Eso incluye a las personas que amás y que murieron. Eso incluye a los que murieron demasiado joven. Eso incluye tu propio cuerpo, que un día se reunirá con tu espíritu para nunca más separarse.\n\nEl presidente Nelson lo expresó de la manera más directa posible: 'La Resurrección de Jesucristo es la más poderosa realidad que existe. Porque Él vive, nosotros también viviremos.' Esa certeza transforma el duelo en esperanza, el miedo a la muerte en paz, y el propósito de esta vida en algo genuinamente urgente.",
+        contenido: "Job lo dijo en medio del peor sufrimiento posible —con la salud destrozada, los hijos muertos, todo perdido— y lo dijo con certeza: 'Yo sé que mi Redentor vive.' No 'creo que', no 'espero que'. Lo sabía. Y esa certeza es el corazón de la Pascua de Resurrección.\n\nJesucristo resucitó literalmente de entre los muertos. Esto no es una metáfora de esperanza ni un símbolo de vida nueva. Es un hecho histórico. Tomás tocó Sus manos y Su costado. Jesús comió pescado con Sus discípulos en Galilea. Los ángeles en el sepulcro vacío dijeron: 'No está aquí, ha resucitado.' Y Pablo lo explicó con una lógica implacable: 'Si Cristo no resucitó, vuestra fe es vana.' Pero sí resucitó. Por eso la fe no es vana.\n\nLa Resurrección tiene consecuencias concretas para tu vida. Porque Cristo resucitó, todos los seres humanos resucitarán también —sin excepción, sin importar cómo vivieron. Eso incluye a las personas que amás y que murieron. Eso incluye a los que murieron demasiado joven. Eso incluye tu propio cuerpo, que un día se reunirá con tu espíritu para nunca más separarse.\n\nEl presidente Nelson lo testificó en esa misma mañana de Pascua: 'Declaro mi testimonio de que Jesucristo verdaderamente ha resucitado... Con fe en Él, podemos mover los montes de nuestra vida.' Esa certeza transforma el duelo en esperanza, el miedo a la muerte en paz, y el propósito de esta vida en algo genuinamente urgente.",
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2021",
-        texto: "La Resurrección de Jesucristo es la más poderosa realidad que existe. Porque Él vive, nosotros también viviremos.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/57nelson?lang=spa",
+        fuente: "Conferencia General, abril de 2021",
+        texto: "Declaro mi testimonio de que Jesucristo verdaderamente ha resucitado. Ha resucitado para guiar Su Iglesia. Ha resucitado para bendecir la vida de todos los hijos de Dios, dondequiera que vivan.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/49nelson?lang=spa&id=p33#p33",
+        // ✅ Corregido: la cita anterior no existe en ningún discurso de Nelson (se buscó en el discurso linkeado —que era sobre COVID-19 y templos, tema no relacionado— y en su discurso real de esa misma Pascua sobre la Resurrección). Se reemplazó por el testimonio textual y verificado con el que cierra "Cristo ha resucitado; la fe en Él moverá montes" (abril de 2021).
       },
       {
         tipo: "escrituras",
@@ -1173,7 +1190,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
       },
       {
         tipo: "conclusion",
-        contenido: "La Resurrección no es solo una doctrina del calendario de la Iglesia que celebramos en abril. Es la promesa más personal que existe: cada persona que alguna vez vivió —incluyendo los que amás y perdiste— resucitará gracias a Jesucristo. Esa certeza transforma el duelo en esperanza, el miedo a la muerte en paz, y la vida cotidiana en algo urgente y con propósito. 'Porque Él vive, nosotros también viviremos' —esa promesa vale la pena que la hagas tuya esta semana, no solo como doctrina, sino como convicción personal.",
+        contenido: "La Resurrección no es solo una doctrina del calendario de la Iglesia que celebramos en abril. Es la promesa más personal que existe: cada persona que alguna vez vivió —incluyendo los que amás y perdiste— resucitará gracias a Jesucristo. Esa certeza transforma el duelo en esperanza, el miedo a la muerte en paz, y la vida cotidiana en algo urgente y con propósito. 'Yo sé que mi Redentor vive' —esa certeza vale la pena que la hagas tuya esta semana, no solo como doctrina, sino como convicción personal.",
       },
       {
         tipo: "cuestionario",
@@ -1205,14 +1222,14 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder Dieter F. Uchtdorf",
         fuente: "Liahona, noviembre de 2022, págs. 9–10",
         texto: "Mis queridos jóvenes amigos, si el Salvador estuviera aquí en este momento, ¿qué les diría? Creo que comenzaría por expresar Su profundo amor por ustedes... El Salvador declararía, sin dejar lugar a dudas, que ustedes son hijas e hijos del Dios Todopoderoso. Su Padre Celestial es el Ser más glorioso del universo; rebosa de amor, gozo, pureza, santidad, luz, gracia y verdad; y quiere que un día ustedes hereden todo lo que Él tiene.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/12uchtdorf?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/12uchtdorf?lang=spa&id=p6#p6",
       },
       {
         tipo: "enseñanza",
         autor: "Élder Neil L. Andersen",
         fuente: "Liahona, noviembre de 2017, pág. 122",
         texto: "Testifico que Jesús es el Cristo, que Él guía los asuntos de esta obra sagrada y que la conferencia general es uno de los momentos sumamente importantes en los que Él da dirección a Su Iglesia y a nosotros en forma personal.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-voice-of-the-lord?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-voice-of-the-lord?lang=spa&id=p4#p4",
       },
       {
         tipo: "escrituras",
@@ -1268,7 +1285,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, mayo de 2020, pág. 90",
         texto: "Lo escuchamos a Él al dar oído a las palabras de los profetas, videntes y reveladores. Los apóstoles ordenados de Jesucristo siempre testifican de Él. Ellos nos indican el camino, en tanto avanzamos por el doloroso laberinto de nuestras experiencias terrenales. ¿Qué sucederá si escuchamos, prestamos atención y damos oído con mayor intención a lo que el Salvador ha dicho, y lo que está diciendo ahora a través de Sus profetas? Yo les prometo que serán bendecidos con poder adicional para lidiar con la tentación, las pruebas y la debilidad.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa&id=p31-p32#p31",
       },
       {
         tipo: "escrituras",

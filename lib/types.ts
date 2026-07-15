@@ -2,8 +2,8 @@
 
 export type BloqueResumen =
   | { tipo: "parrafo"; texto: string }
-  | { tipo: "escritura"; referencia: string; texto: string; comentario?: string }
-  | { tipo: "cita"; autor: string; fuente?: string; texto: string }
+  | { tipo: "escritura"; referencia: string; texto: string; comentario?: string; link?: string }
+  | { tipo: "cita"; autor: string; fuente?: string; texto: string; link?: string }
   | { tipo: "doctrinal"; puntos: string[] }
   | { tipo: "reflexion"; preguntas: string[] }
 

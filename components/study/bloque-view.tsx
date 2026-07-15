@@ -1,7 +1,7 @@
 "use client"
 
 // components/study/bloque-view.tsx
-import { BookOpen, Quote, Star, HelpCircle } from "lucide-react"
+import { BookOpen, Quote, Star, HelpCircle, ExternalLink } from "lucide-react"
 import type { BloqueResumen } from "@/lib/types"
 
 export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
@@ -15,7 +15,7 @@ export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
         </p>
       )
 
-    // ─── Escritura — sin cambios, ya está bien ────────────────────────────
+    // ─── Escritura — ahora con link opcional al versículo ─────────────────
     case "escritura":
       return (
         <div className="rounded-2xl border border-primary/15 bg-primary/[0.03] p-5">
@@ -33,10 +33,21 @@ export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
               {bloque.comentario}
             </p>
           )}
+          {bloque.link && (
+            <a
+              href={bloque.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 inline-flex items-center gap-1.5 text-xs font-medium text-primary/70 transition-colors hover:text-primary hover:underline"
+            >
+              Ver en las Escrituras
+              <ExternalLink className="h-3 w-3" />
+            </a>
+          )}
         </div>
       )
 
-    // ─── Cita — sin cambios (ya es el mejor bloque) ───────────────────────
+    // ─── Cita — ahora con link opcional al discurso completo ──────────────
     case "cita":
       return (
         <div
@@ -78,6 +89,20 @@ export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
               )}
             </div>
           </div>
+          {bloque.link && (
+            <div className="mt-4 flex justify-end">
+              <a
+                href={bloque.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 text-xs font-medium transition-opacity hover:opacity-80"
+                style={{ color: "#93c5fd" }}
+              >
+                Ver discurso completo
+                <ExternalLink className="h-3 w-3" />
+              </a>
+            </div>
+          )}
         </div>
       )
 

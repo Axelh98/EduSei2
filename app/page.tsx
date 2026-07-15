@@ -12,6 +12,8 @@ interface HomePageProps {
 }
 
 export default async function HomePage({ searchParams }: HomePageProps) {
+
+  /* 
   const { key } = await searchParams
   const secret = process.env.ADMIN_SECRET
 
@@ -27,7 +29,7 @@ export default async function HomePage({ searchParams }: HomePageProps) {
       </div>
     )
   }
-
+*/
   return (
     <div className="flex min-h-screen flex-col bg-background">
       <SiteHeader />

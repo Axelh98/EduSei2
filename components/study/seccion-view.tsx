@@ -39,6 +39,20 @@ export function SeccionView({ seccion }: { seccion: Seccion }) {
             </p>
           </div>
         </div>
+        {/* ✅ NUEVO: link al discurso completo, mismo patrón que "escrituras" */}
+        {seccion.link && (
+          <div className="mt-4 flex justify-end">
+            <a
+              href={seccion.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group inline-flex items-center gap-1.5 text-xs font-medium text-secondary/70 transition-colors hover:text-secondary"
+            >
+              Ver discurso completo
+              <ExternalLink className="h-3 w-3 opacity-60 transition-opacity group-hover:opacity-100" />
+            </a>
+          </div>
+        )}
       </div>
     )
   }

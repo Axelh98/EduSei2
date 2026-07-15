@@ -2,23 +2,28 @@
 import { createServerClient } from "@supabase/ssr"
 import { NextResponse, type NextRequest } from "next/server"
 
-const MAINTENANCE_MODE = true // ← true = mantenimiento activo, false = todo normal
+// 1. Cambiamos a false. Cuando quieras activar el mantenimiento, solo cámbialo a true.
+const MAINTENANCE_MODE = false 
 
 export async function middleware(request: NextRequest) {
   const { pathname, searchParams } = request.nextUrl
 
   // ── Rutas que nunca se bloquean ───────────────────────────────────────────
+  // Descomentamos esta sección para que el middleware funcione con normalidad en el día a día.
   const isPublicAsset =
     pathname.startsWith("/_next") ||
     pathname.startsWith("/favicon") ||
     pathname.startsWith("/api") ||
-    //pathname.startsWith("/quiz") ||
-    //pathname.startsWith("/recuperar") ||
+    // pathname.startsWith("/quiz") ||
+    // pathname.startsWith("/recuperar") ||
     pathname === "/mantenimiento"
-
+  
   if (isPublicAsset) return NextResponse.next()
-
+  
   // ── Modo mantenimiento ────────────────────────────────────────────────────
+  // Dejamos este bloque comentado. Cuando quieras activar el mantenimiento, 
+  // simplemente descomenta estas líneas de abajo y pon MAINTENANCE_MODE en true.
+  /*
   if (MAINTENANCE_MODE) {
     const key = searchParams.get("key")
     const secret = process.env.ADMIN_SECRET
@@ -28,6 +33,7 @@ export async function middleware(request: NextRequest) {
       return NextResponse.redirect(new URL("/mantenimiento", request.url))
     }
   }
+  */
 
   // ── Protección de /editor con Supabase (solo corre si no hay mantenimiento) 
   let supabaseResponse = NextResponse.next({ request })
