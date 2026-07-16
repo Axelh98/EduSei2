@@ -105,7 +105,7 @@ export const semana1Lecciones: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "\"Podemos actuar mejor y ser mejores\", Conferencia General (sesión de sacerdocio), abril de 2019 — texto no verificado, ver nota",
+        fuente: "\"Podemos actuar mejor y ser mejores\", Conferencia General (sesión de sacerdocio), abril de 2019",
         texto: "El arrepentimiento no es un suceso; es un proceso; es la clave de la felicidad y la paz interior. Al escoger arrepentirnos, ¡escogemos cambiar! Permitimos que el Salvador nos transforme en la mejor versión de nosotros.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/36nelson?lang=spa"
       },
