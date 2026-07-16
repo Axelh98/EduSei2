@@ -3,6 +3,17 @@ import type { Lesson } from "@/lib/types"
 // ══════════════════════════════════════════════════════════════════════════════════
 // 📖 LIBRO DE MORMÓN - SEMANA 16: Lecciones completas y enriquecidas
 // ══════════════════════════════════════════════════════════════════════════════════
+// 🔍 AUDITORÍA DE CITAS PROFÉTICAS (visitado el manual oficial 2024 para las 3 lecciones):
+//   Lección 1 (Alma 9, Nelson):        ❌ el manual oficial ("Alma 9: Remember the Lord's Blessings") no cita a
+//                                          ningún líder. Cita eliminada (no sustituida) por instrucción explícita.
+//   Lección 2 (Alma 10-11, Holland):   ❌ el manual oficial ("Alma 10-11: 'According to the Spirit of the Lord'")
+//                                          no cita a ningún líder. Cita eliminada.
+//   Lección 3 (Repaso DD 9-10, Oaks):  🔧 URL corregida (apuntaba por error a la unidad de Mosíah 25-28) · ❌ la
+//                                          lección de repaso correcta es un ejercicio de aplicación sin cita de
+//                                          líder. Cita eliminada.
+// Ninguna de las 3 citas originales de este archivo pudo verificarse. Siguiendo la instrucción explícita, se
+// eliminó por completo la sección "enseñanza" en los tres casos, en vez de dejarla vacía o sustituirla.
+// ══════════════════════════════════════════════════════════════════════════════════
 
 export const leccionesResumidasLM_Semana16: Lesson[] = [
   // ════════════════════════════════════════════════════════════════════════════════
@@ -15,7 +26,7 @@ export const leccionesResumidasLM_Semana16: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "El pueblo de Ammoníah se había endurecido contra el mensaje del Evangelio. A pesar de la advertencia de un ángel, Alma regresa a esta ciudad con un mensaje urgente de arrepentimiento. Alma les recuerda su identidad como pueblo del convenio y las bendiciones que habían recibido, las cuales ahora estaban en peligro debido a su apostasía. Esta lección explora la paciencia y la severidad del amor de Dios; a veces, el llamado al arrepentimiento es la mayor muestra de misericordia que podemos recibir, aunque sea difícil de escuchar. Como enseñó el presidente Russell M. Nelson: 'Nada es más liberador, más ennoblecedor ni más crucial para nuestro progreso personal que el arrepentimiento diario'."
+        contenido: "El pueblo de Ammoníah se había endurecido contra el mensaje del Evangelio. A pesar de la advertencia de un ángel, Alma regresa a esta ciudad con un mensaje urgente de arrepentimiento. Alma les recuerda su identidad como pueblo del convenio y las bendiciones que habían recibido, las cuales ahora estaban en peligro debido a su apostasía. Esta lección explora la paciencia y la severidad del amor de Dios; a veces, el llamado al arrepentimiento es la mayor muestra de misericordia que podemos recibir, aunque sea difícil de escuchar."
       },
       {
         tipo: "escrituras",
@@ -26,12 +37,6 @@ export const leccionesResumidasLM_Semana16: Lesson[] = [
             link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=spa&id=p26#p26"
           }
         ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2018",
-        texto: "El arrepentimiento no es un castigo; es un privilegio. Es la puerta que nos permite acceder al poder de la Expiación de Jesucristo en nuestra vida."
       },
       {
         tipo: "conclusion",
@@ -74,12 +79,6 @@ export const leccionesResumidasLM_Semana16: Lesson[] = [
         ]
       },
       {
-        tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2014",
-        texto: "La fe es el primer paso, pero el testimonio es el cimiento. Cuando compartimos lo que sabemos por experiencia personal, el mundo no puede rebatir el poder que emana de nosotros."
-      },
-      {
         tipo: "conclusion",
         contenido: "La interacción entre Alma, Amulek y Zeezrom demuestra que la verdad siempre prevalece sobre la astucia. El testimonio honesto y sencillo tiene más poder que el lenguaje sofisticado o la lógica mundana. Al igual que Amulek, todos hemos sido llamados a ser testigos del Salvador en nuestra propia esfera de influencia, confiando en que el Señor nos dará las palabras necesarias en el momento justo."
       },
@@ -103,11 +102,11 @@ export const leccionesResumidasLM_Semana16: Lesson[] = [
   {
     id: "repaso-dd-9-10",
     title: "Repaso del Dominio de la doctrina 9 y 10",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/22-mosiah-25-28/225-teacher?lang=spa",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/25-alma-8-12/255-teacher?lang=spa",
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Este repaso se centra en integrar las verdades del Dominio de la Doctrina como guías para nuestras decisiones actuales. El conocimiento de las Escrituras es una fuente constante de fortaleza y sabiduría divina. Al evaluar nuestra comprensión de los pasajes clave, estamos fortaleciendo nuestra capacidad de discernir entre la voz del mundo y la voz del Espíritu. Como enseñó el presidente Dallin H. Oaks: 'La doctrina de Cristo es el mapa de nuestra jornada eterna'. Aprovechemos este tiempo para reflexionar sobre cómo estos principios nos protegen de la confusión y nos guían hacia el Salvador."
+        contenido: "Este repaso se centra en integrar las verdades del Dominio de la Doctrina como guías para nuestras decisiones actuales. El conocimiento de las Escrituras es una fuente constante de fortaleza y sabiduría divina. Al evaluar nuestra comprensión de los pasajes clave, estamos fortaleciendo nuestra capacidad de discernir entre la voz del mundo y la voz del Espíritu. Aprovechemos este tiempo para reflexionar sobre cómo estos principios nos protegen de la confusión y nos guían hacia el Salvador."
       },
       {
         tipo: "escrituras",
@@ -118,12 +117,6 @@ export const leccionesResumidasLM_Semana16: Lesson[] = [
             link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=spa&id=p22#p22"
           }
         ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Dallin H. Oaks",
-        fuente: "Liahona, mayo de 2011",
-        texto: "El estudio de la doctrina pura es el mejor antídoto contra el engaño que prevalece en nuestros días. Si conoces la verdad, no serás llevado por los vientos de las opiniones del mundo."
       },
       {
         tipo: "conclusion",

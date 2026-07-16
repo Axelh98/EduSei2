@@ -18,7 +18,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
         autor: "Élder Hugo E. Martínez",
         fuente: "Conferencia General, abril de 2022 (\"Enseñar la autosuficiencia a los niños y los jóvenes\", Liahona, mayo de 2022, pág. 95)",
         texto: "La autosuficiencia es una doctrina del evangelio de Jesucristo, no un programa. Es un proceso de toda la vida, no un hecho puntual.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/46martinez?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/46martinez?lang=spa&id=p3#p3",
       },
       // ✅ Cita verificada textualmente. La fuente original del archivo (Liahona, nov. 2017) era incorrecta; se corrigió a la fuente real.
       {
@@ -58,10 +58,6 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
         tipo: "contexto",
         contenido: "El Padre Celestial ama a todos sus hijos. Una de las formas en que demuestra ese amor es invitándolos a hacer convenios con Él en el templo. Entre esos convenios están la ley de obediencia y la ley de sacrificio. La ley de obediencia significa esforzarse por guardar los mandamientos del Padre Celestial. No se trata de obedecer por miedo, sino de confiar en que Sus mandamientos existen para protegernos y ayudarnos a llegar a ser como Él. La ley de sacrificio significa entregar tiempo, talentos y todo lo que el Señor nos ha dado para edificar Su Iglesia, y también acercarnos a Él con un corazón quebrantado cuando nos arrepentimos. Estas dos leyes no son una carga extra que se suma a tu vida espiritual: son una invitación a vivir con un propósito más claro. Pensá en Abraham: en una visión, aprendió que el Padre Celestial probaría a Sus hijos para ver si harían todo lo que Él les pidiera. Esa prueba no es un examen para hacernos fallar; es una oportunidad para crecer en fe y en confianza. Antes de hacer estos convenios en el templo, vale la pena entender qué significan y por qué importan, así no llegás a ese momento sintiendo que es algo desconocido, sino algo que ya empezaste a vivir.",
       },
-      // ⚠️ No se encontró cita verificable en el manual ni en los recursos web — sección enseñanza omitida.
-      // La cita original atribuida a "William Oswald" (Liahona, enero de 2008) fue eliminada: no existe
-      // ninguna Autoridad General de la Iglesia con ese nombre, y el texto no aparece en ningún discurso
-      // o publicación oficial verificable. Todo indica que autor y cita fueron inventados.
       {
         tipo: "escrituras",
         citas: [
@@ -100,14 +96,11 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "\"Venzamos a los Goliats de nuestra vida\", Conferencia General, abril de 1983 (reeditado como mensaje de la Primera Presidencia en Liahona, febrero de 2002, pág. 5)",
-        texto: "Hay Goliats alrededor, enormes gigantes con la mala intención de destruiros. No son hombres de casi tres metros de altura, sino que son los atractivos pero malignos elementos que pueden acometeros, debilitaros y destruiros.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2002/02/overpowering-the-goliaths-in-our-lives?lang=spa",
+        autor: "Elder Carl B. Cook",
+        fuente: "\"Liahona, Mayo de 2023, pág. 15\"",
+        texto: "Independientemente del tamaño, el alcance o la gravedad de los desafíos que afrontamos en la vida, todos tenemos momentos en los que queremos detenernos, irnos, escapar o, probablemente, darnos por vencidos. Sin embargo, el ejercer la fe en nuestro Salvador, Jesucristo, nos ayuda a superar el desaliento, sin importar los obstáculos que afrontemos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/04/13cook?lang=spa&id=p28#p28",
       },
-      // ✅ Cita real, corregida a su texto textual (el archivo original tenía una paráfrasis modernizada
-      // presentada entre comillas). La fuente "junio de 2008" era solo la página del manual de Seminario
-      // que la citaba, no el discurso original; se corrigió a la fuente primaria (1983 / reedición 2002).
       {
         tipo: "escrituras",
         citas: [
@@ -149,10 +142,8 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
         autor: "Hermana Kristin M. Yee",
         fuente: "\"Gloria en lugar de ceniza: El camino sanador del perdón\", Conferencia General, octubre de 2022 (Liahona, noviembre de 2022)",
         texto: "En este relato, Abigaíl puede considerarse un poderoso tipo o símbolo de Jesucristo. Por medio de Su sacrificio expiatorio, Él puede liberarnos del pecado y del peso de un corazón en guerra, y darnos el sustento que necesitamos.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/23yee?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/23yee?lang=spa&id=p14-p15,p19,p22#p14",
       },
-      // ✅ Autora y discurso reales — el nombre tenía un error de tipeo ("Kristen" → "Kristin M. Yee").
-      // El texto se corrigió para reflejar más de cerca la idea central del discurso (Abigaíl como tipo de Cristo).
       {
         tipo: "escrituras",
         citas: [
@@ -232,8 +223,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
       fuente: "\"Arrepent[íos]... para que yo os sane\", Conferencia General, octubre de 2009 (Liahona, noviembre de 2009)",
       texto:
         "Cuando pecamos, nos alejamos de Dios. Cuando nos arrepentimos, nos volvemos hacia Dios. La invitación a arrepentirnos rara vez es una reprimenda; es más bien una petición amorosa de que nos demos vuelta y de que nos volvamos de nuevo hacia Dios. Es el llamado de un Padre amoroso y de Su Hijo Unigénito a que seamos más de lo que somos, que alcancemos un nivel de vida mejor, que cambiemos y que sintamos la felicidad que proviene de guardar los mandamientos.",
-      link: "https://www.churchofjesuschrist.org/study/general-conference/2009/10/repent-that-i-may-heal-you?lang=spa",
-      // ✅ Cita verificada palabra por palabra contra el discurso original.
+      link: "https://www.churchofjesuschrist.org/study/general-conference/2009/10/repent-that-i-may-heal-you?lang=spa&id=p9-p10#p9",
     },
     {
       tipo: "enseñanza",
@@ -241,8 +231,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
       fuente: "\"Hasta setenta veces siete\", Conferencia General, abril de 2018 (Liahona, mayo de 2018)",
       texto:
         "El arrepentimiento es un don de Dios siempre a nuestro alcance que nos permite y nos habilita para ir de fracaso en fracaso sin perder nunca el entusiasmo. El arrepentimiento no es Su plan B por si fallamos. El arrepentimiento es Su plan.",
-      link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/until-seventy-times-seven?lang=spa",
-      // ✅ Cita verificada contra el discurso original.
+      link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/until-seventy-times-seven?lang=spa&id=p20#p20",
     },
     {
       tipo: "conclusion",
@@ -309,8 +298,8 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
       fuente: "\"Aprendamos, hagamos, seamos\", Conferencia General, octubre de 2008 (Liahona, noviembre de 2008, pág. 62)",
       texto:
         "Algunos de ustedes tal vez sean tímidos por naturaleza o se consideren inadecuados para aceptar un llamamiento del Señor. Recuerden que esta no es su obra ni la mía; es la obra del Señor, y cuando estamos en la obra del Señor, tenemos derecho a recibir Su ayuda. Recuerden que Él fortalecerá nuestros hombros para que soporten la carga que se coloque sobre ellos.",
-      link: "https://www.churchofjesuschrist.org/study/general-conference/2008/10/to-learn-to-do-to-be?lang=spa",
-      // ✅ Cita verificada palabra por palabra — el propio manual del Seminario cita este mismo pasaje para esta lección.
+      link: "https://www.churchofjesuschrist.org/study/general-conference/2008/10/to-learn-to-do-to-be?lang=spa&id=p28#p28",
+
     },
     {
       tipo: "enseñanza",
@@ -318,8 +307,8 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
       fuente: "\"¡Funciona de maravilla!\", Conferencia General, octubre de 2015 (Liahona, noviembre de 2015)",
       texto:
         "No necesitamos ser 'más' de nada para llegar a ser la persona que Dios desea que seamos. Dios los aceptará como son en este preciso momento y empezará a ayudarlos. Todo lo que necesitan es tener un corazón dispuesto, un deseo de creer y confiar en el Señor.",
-      link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/it-works-wonderfully?lang=spa",
-      // ✅ Cita verificada palabra por palabra.
+      link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/it-works-wonderfully?lang=spa&id=p46-p48#p46",
+
     },
     {
       tipo: "conclusion",
@@ -392,8 +381,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
       fuente: "\"Enfóquense en el templo\", Conferencia General, octubre de 2022 (Liahona, noviembre de 2022)",
       texto:
         "Es significativo que el Salvador eligiera aparecerse a las personas en el templo. Es Su casa y está llena de Su poder. No perdamos nunca de vista lo que el Señor está haciendo por nosotros ahora: está haciendo que Sus templos estén más al alcance de todos, está acelerando el ritmo al que construimos templos y está aumentando nuestra capacidad de ayudar a recoger a Israel. Les prometo que aumentar el tiempo que pasan en el templo bendecirá su vida como nada más puede hacerlo.",
-      link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/58nelson?lang=spa",
-      // ✅ Cita verificada (muy cercana al texto original en español).
+      link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/58nelson?lang=spa&id=p3#p3",
     },
     {
       tipo: "conclusion",
@@ -447,17 +435,6 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
           link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p5#p5",
         },
       ],
-    },
-    {
-      tipo: "enseñanza",
-      autor: "Presidente Russell M. Nelson",
-      fuente: "Conferencia General, abril de 2018 — cita no verificada, texto no localizado en la fuente indicada",
-      texto:
-        "En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo. Ruego que aumentemos nuestra capacidad espiritual para recibir revelación.",
-      link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa",
-      // ⚠️ La frase original del archivo ("los que no hayan aprendido a obtener revelación personal caerán")
-      // no se encontró en ningún discurso de Nelson. Se reemplazó por la cita real y verificada de ese
-      // mismo discurso, que trata el mismo tema (necesidad de aprender a recibir revelación personal).
     },
     {
       tipo: "conclusion",
@@ -524,8 +501,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
       fuente: "\"Recomendados al Señor\", Conferencia General, octubre de 2020 (Liahona, noviembre de 2020, pág. 23)",
       texto:
         "El templo es la Casa del Señor y un santuario para resguardarse del mundo. Su Espíritu envuelve a quienes adoran dentro de esas paredes sagradas. Él establece las normas por las cuales entramos como Sus invitados. El ser dignos de poseer una recomendación vigente para el templo es tanto una protección del adversario como una promesa de que el Espíritu estará con vosotros.",
-      link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/16rasband?lang=spa",
-      // ✅ Cita verificada palabra por palabra — el propio manual del Seminario cita este mismo pasaje para esta lección.
+      link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/16rasband?lang=spa&id=p4#p4",
     },
     {
       tipo: "enseñanza",
@@ -533,8 +509,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
       fuente: "\"La intención de Dios es llevarlos a casa\", Conferencia General, abril de 2024 (Liahona, mayo de 2024, pág. 87)",
       texto:
         "El hermoso plan de nuestro Padre, sí, Su 'fabuloso' plan, está diseñado para llevarlos a casa, no para dejarlos afuera. Nadie ha construido una barrera ni ha puesto a alguien allí para regresarlos y negarles el paso. De hecho, es justamente lo contrario. Dios los busca de manera incesante. Él 'quiere que todos Sus hijos elijan regresar a Él' y emplea toda medida posible para llevarlos de regreso.",
-      link: "https://www.churchofjesuschrist.org/study/general-conference/2024/04/45kearon?lang=spa",
-      // ✅ Cita verificada palabra por palabra — el propio manual del Seminario cita este mismo pasaje para esta lección.
+      link: "https://www.churchofjesuschrist.org/study/general-conference/2024/04/45kearon?lang=spa&id=p5#p5",
     },
     {
       tipo: "conclusion",
@@ -561,38 +536,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     description: "",
     chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/26-1-kings-12-22/261-1-kings-17?lang=spa",
     questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "El profeta Elías anunció una gran sequía sobre Israel. El Señor lo envió a la casa de una viuda en Sarepta que estaba preparando la última comida para ella y su hijo antes de morir de hambre. Elías le pidió que primero le hiciera una torta a él. La viuda obedeció en un acto de fe extraordinario, y la tinaja de harina y la vasija de aceite no se agotaron durante toda la sequía. Este relato enseña uno de los principios más contraintuitivos del Evangelio: dar primero al Señor cuando no tienes es la puerta a la abundancia que Él provee.",
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Lynn G. Robbins",
-        fuente: "\"El diezmo: Un mandamiento incluso para los más pobres\", Conferencia General, abril de 2005 (Liahona, mayo de 2005) — texto no verificado, ver nota",
-        texto: "¿No es mucho más fácil darle al Señor de las primicias que esperar que haya suficiente 'de sobra' para darle a Él? En calidad de organizador de nuestro festín, ¿no debe ser Él nuestro invitado de honor, el primero a quien sirvamos?",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2005/04/tithing-a-commandment-even-for-the-destitute?lang=spa",
-      },
-      // ⚠️ El autor y el discurso son reales (confirmado), pero la frase exacta del archivo original
-      // ("El Señor pide que lo pongamos a Él primero... la llave que abre Sus depósitos de bendiciones")
-      // no se encontró textualmente en la fuente. Se reemplazó por una cita verificada del mismo discurso,
-      // sobre el mismo principio (dar al Señor "de las primicias").
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "1 Reyes 17:13–14", texto: "Hazme a mí primero de ello una pequeña torta... la harina de la tinaja no escaseará, ni el aceite de la vasija disminuirá.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/17?lang=spa&id=p13-p14#p13" },
-          { referencia: "Malaquías 3:10", texto: "Traed todos los diezmos al alfolí... si no os abriré las ventanas de los cielos.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=spa&id=p10#p10" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué te parece más difícil de la fe de la viuda de Sarepta: la generosidad o la obediencia sin garantías visibles?",
-          "¿Has experimentado la promesa del diezmo en tu vida o en la de tu familia? ¿Cómo fue?",
-          "¿En qué área de tu vida el Señor te está invitando a confiar en Él antes de que veas la provisión?",
-        ],
-      },
-    ],
+    secciones: [],
   },
   {
     id: "leccion-204",
@@ -601,36 +545,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     description: "",
     chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/694-participating-in-temple-and-family-history?lang=spa",
     questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "Una de las obras más importantes de los Santos de los Últimos Días es la investigación de historia familiar y la realización de ordenanzas del templo en nombre de los antepasados fallecidos. El profeta Elías fue enviado a restaurar las llaves del sellamiento para que el corazón de los hijos se volviera hacia sus padres. El presidente Nelson ha enseñado que la obra del templo y la historia familiar son inseparables.",
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "\"El corazón de los hijos se volverá\", Conferencia General, octubre de 2011 (Liahona, noviembre de 2011)",
-        texto: "Si responden con fe a esta invitación, el corazón de ustedes se volverá a los padres... Su testimonio del Salvador y su conversión a Él serán profundos y perdurables. Y les prometo que serán protegidos contra la creciente influencia del adversario.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-hearts-of-the-children-shall-turn?lang=spa",
-      },
-      // ⚠️ El autor y el discurso son reales (confirmado), pero la frase exacta del archivo original
-      // no se encontró textualmente en la fuente. Se reemplazó por una cita verificada del mismo discurso.
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "Malaquías 4:5–6", texto: "He aquí yo os envío el profeta Elías... Él hará volver el corazón de los padres hacia los hijos, y el corazón de los hijos hacia los padres.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=spa&id=p5-p6#p5" },
-          { referencia: "1 Corintios 15:29", texto: "¿Qué harán los que se bautizan por los muertos, si en ninguna manera los muertos resucitan?", link: "https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=spa&id=p29#p29" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Has participado en historia familiar o en ordenanzas del templo para tus antepasados? ¿Cómo fue esa experiencia?",
-          "¿Qué significa para ti ser 'un salvador en el monte de Sion' para tu propia familia?",
-          "¿Cómo puedes comenzar o profundizar tu participación en la historia familiar esta semana?",
-        ],
-      },
-    ],
+    secciones: [],
   },
   {
     id: "leccion-169",
@@ -639,30 +554,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     description: "",
     chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/624-actions-that-invite-the-holy-ghost?lang=spa",
     questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "El Espíritu Santo es el maestro supremo de las verdades del Evangelio. Sin Su presencia, el estudio de las Escrituras puede ser interesante como literatura, pero no transformador como revelación. Esta lección enseña acciones específicas que invitan al Espíritu durante el estudio: orar antes y durante la lectura, estudiar con preguntas específicas en mente, meditar sobre lo que se lee, escribir las impresiones que llegan y actuar sobre lo que se aprende.",
-      },
-      // ⚠️ No se pudo verificar esta cita ni localizar el discurso exacto de "Liahona, noviembre de 2014"
-      // que contenga este texto. Se omite la sección "enseñanza" para esta lección hasta confirmar la fuente.
-      // link: no verificado
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "2 Nefi 32:3", texto: "Deleitaos en las palabras de Cristo; pues las palabras de Cristo os dirán todas las cosas que debéis hacer.", link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3" },
-          { referencia: "Juan 14:26", texto: "El Espíritu Santo, a quien el Padre enviará en mi nombre, él os enseñará todas las cosas.", link: "https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa&id=p26#p26" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué diferencia has notado en tu estudio cuando el Espíritu Santo está presente vs. cuando no lo está?",
-          "¿Has tenido alguna experiencia en que el Espíritu te enseñó algo a través de una escritura que habías leído muchas veces sin 'verlo'?",
-          "¿Cómo puedes crear mejores condiciones en tu entorno para estudiar con la presencia del Espíritu Santo?",
-        ],
-      },
-    ],
+    secciones: [],
   },
   {
     id: "leccion-84",
@@ -671,37 +563,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     description: "",
     chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/272-2-kings-5?lang=spa",
     questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "Naamán era el comandante del ejército de Siria: poderoso, respetado, exitoso. Pero tenía lepra. Cuando llegó a la puerta de Eliseo, el profeta envió un mensajero con una instrucción que le pareció ridícula: lavarse siete veces en el Jordán. Naamán, ofendido en su orgullo, estuvo a punto de irse. Sus siervos lo convencieron de intentarlo. Se lavó siete veces y quedó limpio. La historia de Naamán enseña directamente sobre el peligro del orgullo espiritual y la importancia de la obediencia sencilla.",
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Dallin H. Oaks",
-        fuente: "\"Cosas pequeñas y sencillas\", Conferencia General, abril de 2018 (Liahona, mayo de 2018)",
-        texto: "Necesitamos que se nos recuerde que estas cosas aparentemente pequeñas y sencillas, a lo largo de un período de tiempo significativo, hacen que se realicen grandes cosas... Consideren el estudio de las Escrituras que debemos incorporar en nuestra vida diaria. O consideren las oraciones personales y las oraciones familiares de rodillas.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/small-and-simple-things?lang=spa",
-      },
-      // ⚠️ El autor y el discurso son reales (confirmado), y el tema coincide, pero el texto exacto del
-      // archivo original (que mencionaba específicamente "la Santa Cena") no se encontró textualmente
-      // en la fuente. Se reemplazó por una cita verificada del mismo discurso.
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "2 Reyes 5:13", texto: "Si el profeta te mandara alguna gran cosa, ¿no la harías? ¿Cuánto más, diciéndote: Lávate, y serás limpio?", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=spa&id=p13#p13" },
-          { referencia: "Alma 37:6", texto: "Por medio de cosas pequeñas y sencillas se llevan a cabo grandes cosas.", link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa&id=p6#p6" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Hay alguna práctica espiritual 'sencilla' que hayas descuidado porque parece demasiado pequeña?",
-          "¿Cómo se manifiesta el orgullo espiritual en la vida de las personas hoy, similar al de Naamán?",
-          "¿Cuál es la 'cosa pequeña y sencilla' que el Señor te está invitando a practicar con más consistencia?",
-        ],
-      },
-    ],
+    secciones: [],
   },
   {
     id: "leccion-85",
@@ -710,37 +572,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     description: "",
     chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/273-2-kings-6?lang=spa",
     questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "El ejército de Siria rodeó la ciudad de Dotán para capturar al profeta Eliseo. Cuando el siervo de Eliseo salió y vio los ejércitos que los rodeaban, quedó paralizado por el miedo. La respuesta de Eliseo fue una oración sencilla: 'Señor, abre sus ojos para que vea.' El siervo abrió los ojos y vio el monte lleno de caballos y carros de fuego alrededor de Eliseo. La realidad espiritual era más grande que la amenaza física, pero era invisible al ojo natural.",
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Neal A. Maxwell",
-        fuente: "We Will Prove Them Herewith [Nos probaremos con esto], Deseret Book, 1982 — cita no verificada, ver nota",
-        texto: "En tiempos de agitación, la respuesta de los profetas de hoy será la misma que la de Eliseo: 'No tengas miedo, porque más son los que están con nosotros.' Solo cuando estamos asentados espiritualmente podemos entender ese tipo de aritmética.",
-        link: "",
-      },
-      // ⚠️ El libro "We Will Prove Them Herewith" (1982) de Neal A. Maxwell existe realmente (Deseret Book),
-      // y el tema (2 Reyes 6, "más son los que están con nosotros") es coherente con su obra, pero no
-      // pudimos localizar este pasaje exacto para confirmarlo palabra por palabra. link: no verificado.
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "2 Reyes 6:16–17", texto: "No tengas miedo, porque más son los que están con nosotros que los que están con ellos. Y Jehová abrió los ojos del criado... y el monte estaba lleno de gente de a caballo, y de carros de fuego.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/6?lang=spa&id=p16-p17#p16" },
-          { referencia: "Doctrina y Convenios 84:88", texto: "Os enviaré delante de vosotros para que vayáis; y Yo seré vuestra retaguardia y vuestro escudo.", link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p88#p88" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿En qué situaciones de tu vida necesitas la misma oración que hizo Eliseo: 'Señor, abre mis ojos para que vea'?",
-          "¿Has tenido alguna experiencia en que sentiste la protección o ayuda del Señor de una manera inesperada?",
-          "¿Qué significa para ti personalmente que 'más son los que están con nosotros que los que están con ellos'?",
-        ],
-      },
-    ],
+    secciones: [],
   },
   {
     id: "leccion-86",
@@ -749,31 +581,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     description: "",
     chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/281-2-kings-18-19?lang=spa",
     questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "El rey Ezequías fue uno de los reyes más fieles del reino del sur. Cuando el poderoso ejército asirio rodeó Jerusalén y envió un mensaje amenazador y blasfemo, Ezequías fue al templo, extendió la carta de Senaquerib delante del Señor y oró con fe extraordinaria: 'Tú solo eres Dios de todos los reinos de la tierra.' El profeta Isaías respondió con un oráculo de salvación, y esa misma noche el ángel del Señor hirió a 185,000 soldados asirios.",
-      },
-      // ⚠️ No se pudo verificar esta cita. El discurso real del élder Andersen en la Conferencia General
-      // de octubre de 2020 fue "Hablamos de Cristo", que no trata específicamente sobre Ezequías; no se
-      // encontró ningún discurso suyo de esa fecha con este texto. Se omite la sección "enseñanza" para
-      // esta lección hasta confirmar la fuente. link: no verificado
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "2 Reyes 19:15–16", texto: "Tú solo eres Dios de todos los reinos de la tierra... Inclina, oh Jehová, tu oído, y oye.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/19?lang=spa&id=p15-p16#p15" },
-          { referencia: "Isaías 40:31", texto: "Los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=spa&id=p31#p31" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué 'cartas de Senaquerib' —amenazas o presiones— llevarías hoy al Señor en oración?",
-          "¿Qué te enseña el estilo de oración de Ezequías sobre cómo hablarle al Señor en momentos de crisis?",
-          "¿Cómo puede la promesa de Isaías 40:31 cambiar tu perspectiva sobre los desafíos que enfrentas esta semana?",
-        ],
-      },
-    ],
+    secciones: [],
   },
   {
     id: "leccion-87",
@@ -782,39 +590,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     description: "",
     chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/282-2-kings-21-23?lang=spa",
     questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "El rey Josías llegó al trono a los ocho años y fue uno de los reyes más fieles de toda la historia de Israel. Cuando el libro de la ley fue encontrado durante las reparaciones del templo y se lo leyeron a Josías, su reacción fue de rasgarse los vestidos en señal de humildad y arrepentimiento. Inmediatamente instituyó las reformas más completas de la historia de Judá. Las Escrituras tienen el poder de transformar vidas cuando se las recibe con un corazón humilde y dispuesto a actuar.",
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Ezra Taft Benson",
-        fuente: "\"El poder de la palabra\", Conferencia General, abril de 1986 (Liahona, julio de 1986) — texto no verificado, ver nota",
-        texto: "El Señor ejerce su poder desde el interior del hombre hacia afuera; el mundo lo ejerce desde afuera hacia el interior... El mundo trata de amoldar el comportamiento del hombre, pero Cristo puede cambiar la naturaleza humana.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2013/03/the-power-of-the-word-of-god?lang=spa",
-      },
-      // ⚠️ El autor y el tema (el poder transformador de la palabra de Dios) son reales, pero la frase
-      // exacta del archivo original que mencionaba a Josías específicamente no se encontró textualmente.
-      // Se reemplazó por una cita verificada del presidente Benson sobre el mismo principio. El link
-      // apunta a un artículo de Liahona que reproduce y cita esa enseñanza (fuente secundaria), no al
-      // discurso original de 1986, cuyo link exacto no pudimos confirmar.
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "2 Reyes 22:11–13", texto: "Cuando el rey hubo oído las palabras del libro de la ley, rasgó sus vestidos.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/22?lang=spa&id=p11-p13#p11" },
-          { referencia: "2 Reyes 23:3", texto: "El rey se puso en pie junto a la columna, e hizo alianza delante de Jehová, de que irían en pos de Jehová.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=spa&id=p3#p3" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Hay algún pasaje de las Escrituras que, al leerlo recientemente, te haya impactado de una manera nueva?",
-          "¿Cuál fue el primer paso de Josías después de escuchar la ley? ¿Qué nos enseña eso?",
-          "¿De qué manera las Escrituras han cambiado o moldeado una decisión importante en tu vida?",
-        ],
-      },
-    ],
+    secciones: [],
   },
   {
     id: "leccion-90",
@@ -823,30 +599,7 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     description: "",
     chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/29-2-kings-14-30/291-2-chronicles-14-16?lang=spa",
     questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "El rey Asa comenzó su reinado de manera extraordinaria: reformó el culto y declaró que el pueblo buscaría al Señor. Cuando un ejército enorme marchó contra él, Asa oró con fe notable: 'No hay diferencia alguna para ti, oh Jehová, actuar con muchos o sin fuerza.' El Señor le dio una victoria aplastante. Sin embargo, en sus últimos años, cuando el rey de Israel amenazó a Judá, Asa recurrió al rey de Siria en lugar de buscar al Señor. El profeta Hanani lo confrontó: 'Los ojos de Jehová contemplan toda la tierra para mostrar su poder a los de corazón perfecto para con él.'",
-      },
-      // ⚠️ No se pudo verificar esta cita ni localizar un discurso de Neal A. Maxwell de esa fecha con este
-      // texto exacto. Se omite la sección "enseñanza" para esta lección hasta confirmar la fuente.
-      // link: no verificado
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "2 Crónicas 14:11", texto: "Jehová, para ti no hay diferencia alguna en dar ayuda al poderoso o al que no tiene fuerzas. Ayúdanos, oh Jehová Dios nuestro.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/14?lang=spa&id=p11#p11" },
-          { referencia: "2 Crónicas 16:9", texto: "Los ojos de Jehová contemplan toda la tierra, para mostrar su poder a favor de los que tienen corazón perfecto para con él.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/16?lang=spa&id=p9#p9" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Hay áreas en tu vida donde tiendes a confiar en el 'brazo de carne' en lugar de buscar al Señor primero?",
-          "¿Qué te enseña el contraste entre el Asa joven y el Asa anciano sobre los peligros de la autosuficiencia espiritual?",
-          "¿Qué significa para ti que 'los ojos de Jehová contemplan toda la tierra para mostrar Su poder a los de corazón perfecto'?",
-        ],
-      },
-    ],
+    secciones: [],
   },
   {
     id: "leccion-91",
@@ -855,29 +608,6 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     description: "",
     chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/29-2-kings-14-30/292-2-chronicles-17-20?lang=spa",
     questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido: "El rey Josafat de Judá fue uno de los reyes más fieles del reino del sur. Cuando una alianza de enemigos marchó contra Judá con una fuerza abrumadora, Josafat proclamó un ayuno nacional y oró públicamente con humildad y fe. La respuesta del Señor llegó a través del profeta Jahaziel: 'No temáis ni os amedrentéis delante de esta multitud tan grande, porque no es vuestra la guerra, sino de Dios.' Al día siguiente, Josafat instruyó a los cantores a marchar delante del ejército alabando al Señor. Cuando llegaron al campamento enemigo, los ejércitos ya se habían destruido entre sí.",
-      },
-      // ⚠️ No se pudo verificar esta cita textualmente en ningún discurso de Russell M. Nelson de esa
-      // fecha. Se omite la sección "enseñanza" para esta lección hasta confirmar la fuente.
-      // link: no verificado
-      {
-        tipo: "escrituras",
-        citas: [
-          { referencia: "2 Crónicas 20:15", texto: "No temáis ni os amedrentéis delante de esta multitud tan grande, porque no es vuestra la guerra, sino de Dios.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/20?lang=spa&id=p15#p15" },
-          { referencia: "2 Crónicas 20:20", texto: "Creed en Jehová vuestro Dios, y estaréis seguros; creed a sus profetas, y seréis prosperados.", link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/20?lang=spa&id=p20#p20" },
-        ],
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Hay algún consejo de los profetas vivientes que hayas seguido aunque no entendieras del todo la razón? ¿Qué ocurrió?",
-          "¿Qué desafíos actuales en tu vida requieren que 'no temas' y confíes en que la guerra es del Señor?",
-          "¿Cómo crece tu confianza en los profetas cuando ves que su guía se cumple en tu vida?",
-        ],
-      },
-    ],
+    secciones: [],
   },
 ]

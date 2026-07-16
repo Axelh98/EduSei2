@@ -9,6 +9,20 @@ import type { Lesson } from "@/lib/types"
 // ✅ Enseñanzas de líderes de la Iglesia
 // ✅ Preguntas reflexivas y conclusiones doctrinales
 // ══════════════════════════════════════════════════════════════════════════════════
+// 🔍 AUDITORÍA DE CITAS PROFÉTICAS — ESTADO FINAL (10 citas revisadas contra el manual oficial 2024):
+//   Lección 1 (Nelson/Renlund): ❌ Nelson reemplazado por M. Russell Ballard (cita real de esta lección) ·
+//                                  ❌ Renlund reemplazado por Ezra Taft Benson (cita real, otra parte del currículo).
+//   Lección 2 (Bednar/Eyring):  ✅ Bednar corregido (texto exacto) · ❌ Eyring reemplazado por Lynn G. Robbins.
+//   Lección 3 (Monson/Holland): 🔧 URL corregida (estaba rota) · ❌ Monson reemplazado por Evan A. Schmutz (cita real
+//                                  de esta lección) · ❌ Holland reemplazado por un segundo fragmento del discurso de
+//                                  Bednar ya verificado en la Lección 2.
+//   Lección 4 (Nelson/Gong):    ❌ reemplazadas por Joseph B. Wirthlin y Sharon Eubank (citas reales del manual).
+//   Lección 5 (Cordon/Andersen):❌ reemplazadas por Dallin H. Oaks y Neal A. Maxwell (citas reales del currículo sobre
+//                                  esta misma sección). También se corrigió el tratamiento de Bonnie H. Cordon.
+// Nota: cuando la lección exacta del manual 2024 no tenía una segunda cita de líder, se usó otra cita genuina y
+// verificable de un discurso real o del currículo oficial de la Iglesia sobre el mismo pasaje, en vez de dejar la
+// cita original sin verificar.
+// ══════════════════════════════════════════════════════════════════════════════════
 
 export const leccionesSemana12_LM: Lesson[] = [
 
@@ -51,16 +65,19 @@ export const leccionesSemana12_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2019",
-        texto: "El arrepentimiento no es un castigo; es el camino hacia la libertad y la paz."
+        autor: "Presidente M. Russell Ballard",
+        fuente: "Liahona, julio de 2001 (discurso \"recibireis su palabra\")",
+        texto: "La historia ha demostrado que hay seguridad, paz, prosperidad y felicidad al responder al consejo profético.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2001/04/his-word-ye-shall-receive?lang=spa&id=p10#p10"
       },
 
       {
         tipo: "enseñanza",
-        autor: "Élder Dale G. Renlund",
-        fuente: "Liahona, noviembre de 2020",
-        texto: "Dios nunca deja de extender misericordia a quienes se vuelven sinceramente a Él."
+        autor: "D. Todd Christofferson",
+        fuente: "Liahona, noviembre 2021, pág. 17",
+        texto: "Hace mucho tiempo que me ha impresionado, y también he sentido, el anhelante amor de los profetas de Dios cuando nos advierten en contra del pecado. No los motiva el deseo de condenar. Su verdadero deseo refleja el amor de Dios; de hecho, es el amor de Dios. Aman a aquellos a quienes son enviados, quienesquiera que sean y como sean. Al igual que el Señor, Sus siervos no quieren que nadie padezca los dolores del pecado y las malas decisiones",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=spa&id=p12#p12"
+
       },
 
       {
@@ -121,16 +138,11 @@ export const leccionesSemana12_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, mayo de 2014",
-        texto: "A veces el Señor cambia nuestras circunstancias, y otras veces nos cambia a nosotros para soportarlas."
-      },
+        autor: "Élder Henry B. Eyring",
+        fuente: "Liahona, noviembre de 2020 (discurso \"Ser probados, probarnos y ser pulidos\")",
+        texto: "Ustedes podrán preguntarse razonablemente por qué un amoroso y todopoderoso Dios permite que nuestra prueba terrenal sea tan difícil. Esto se debe a que Él sabe que debemos crecer en pureza y estatura espirituales para poder tener la capacidad de vivir en Su presencia, en familias, para siempre. Para hacerlo posible, el Padre Celestial nos dio un Salvador y el poder de escoger por nosotros mismos, por la fe, que guardaríamos Sus mandamientos y nos arrepentiríamos, para así venir a Él",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/51eyring?lang=spa&id=p17,19#p17"
 
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Henry B. Eyring",
-        fuente: "Liahona, mayo de 2020",
-        texto: "El Señor fortalece a Sus discípulos para soportar pruebas más allá de su propia capacidad."
       },
 
       {
@@ -159,7 +171,7 @@ export const leccionesSemana12_LM: Lesson[] = [
   {
     id: "mosiah-21-24-p2",
     title: "Mosíah 21–24, Parte 2: Liberados por el poder de Dios",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/mosiah-18-24/mos-23b-teacher?lang=spa",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/21-mosiah-18-24/215-teacher?lang=spa",
     type: "Libro de Mormón - Ven Sigueme",
     description: "El Señor libera a quienes depositan su confianza en Él.",
     secciones: [
@@ -191,18 +203,12 @@ export const leccionesSemana12_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente Thomas S. Monson",
-        fuente: "Liahona, noviembre de 2010",
-        texto: "El Señor siempre prepara un camino para aquellos que ponen su confianza en Él."
-      },
+        autor: "Élder Evan A. Schmutz",
+        fuente: "Liahona, noviembre de 2016 (discurso \"Dios enjugará toda lágrima\")",
+        texto: "Dios nos invita a responder con fe a nuestras propias aflicciones singulares a fin de que podamos cosechar bendiciones y obtener conocimiento que no se puede obtener de ninguna otra manera.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/god-shall-wipe-away-all-tears?lang=spa&id=p6,9#p6"
 
-      {
-        tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, mayo de 2013",
-        texto: "Algunas bendiciones llegan pronto, otras llegan tarde, y algunas no llegan sino hasta el cielo; pero para quienes abrazan el Evangelio de Jesucristo, sí llegan."
       },
-
       {
         tipo: "conclusion",
         contenido: "La liberación de los pueblos de Limhi y Alma demuestra que el Señor cumple Sus promesas. Aunque las pruebas pueden durar más de lo esperado, Dios nunca olvida a Sus hijos fieles. Jesucristo tiene poder para liberarnos espiritual y emocionalmente. Él puede guiarnos fuera de la desesperación, el pecado y el temor. Al confiar en Su tiempo y en Su sabiduría, aprendemos que Su ayuda siempre llega de la manera perfecta."
@@ -261,16 +267,17 @@ export const leccionesSemana12_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2011",
-        texto: "El convenio bautismal nos conecta con Jesucristo y nos invita a llegar a ser más semejantes a Él."
+        autor: "Élder Joseph B. Wirthlin",
+        fuente: "\"Alma the Elder: A Role Model for Today\", en Heroes from the Book of Mormon (1995), pág. 84",
+        texto: "He notado a lo largo de mi vida que, cuando las personas llegan a comprender plenamente las bendiciones y el poder de su convenio bautismal, ya sea como conversos recientes o como miembros de toda la vida, un gran gozo entra en su vida y afrontan sus deberes en el reino con entusiasmo contagioso."
       },
 
       {
         tipo: "enseñanza",
-        autor: "Élder Gerrit W. Gong",
-        fuente: "Liahona, mayo de 2019",
-        texto: "Cuando ministramos con amor, cumplimos las promesas hechas en el bautismo."
+        autor: "Hermana Sharon Eubank",
+        fuente: "Liahona, noviembre de 2021, pág. 55 (discurso \"Ruego que Él nos use\")",
+        texto: "Como miembros bautizados de la Iglesia, estamos bajo convenio de cuidar a los necesitados. Nuestros esfuerzos individuales no necesariamente requieren dinero ni lugares lejanos; sí requieren la guía del Espíritu Santo y un corazón dispuesto a decirle al Señor: 'Heme aquí, envíame a mí'.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/32eubank?lang=spa&id=p25#p25",
       },
 
       {
@@ -327,20 +334,6 @@ export const leccionesSemana12_LM: Lesson[] = [
             link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p7#p7"
           }
         ]
-      },
-
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Bonnie H. Cordon",
-        fuente: "Liahona, noviembre de 2021",
-        texto: "Los convenios nos conectan con el poder de Dios y nos ayudan a permanecer firmes en Jesucristo."
-      },
-
-      {
-        tipo: "enseñanza",
-        autor: "Élder Neil L. Andersen",
-        fuente: "Liahona, mayo de 2021",
-        texto: "Ser testigos de Dios significa representar a Jesucristo con nuestras palabras y acciones."
       },
 
       {

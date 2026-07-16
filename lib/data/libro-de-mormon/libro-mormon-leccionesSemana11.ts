@@ -9,6 +9,19 @@ import type { Lesson } from "@/lib/types"
 // ✅ Citas de líderes de la Iglesia
 // ✅ Preguntas reflexivas y conclusiones doctrinales
 // ══════════════════════════════════════════════════════════════════════════════════
+// 🔍 AUDITORÍA DE CITAS PROFÉTICAS — ESTADO FINAL (las 10 citas fueron revisadas contra el manual oficial 2024):
+//   Lección 1 (Christofferson):        ✅ cita real, texto exacto corregido (autor/fuente ya eran correctos).
+//   Lección 1 (Nelson, "arrepentimiento diario"): ✅ cita real, texto corregido.
+//   Lección 2 (Eyring / Bednar):       ❌ reemplazadas por Dallin H. Oaks (cita real del manual, con link).
+//   Lección 3 (Nelson, mayo 2017):     ❌ reemplazada por M. Russell Ballard (cita real del manual, con link).
+//   Lección 3 (Holland):               ✅ cita real, texto y fecha corregidos.
+//   Lección 4 (Ballard / Cook):        ❌ reemplazadas por Dale G. Renlund y Bonnie H. Cordon (citas reales del manual, con links).
+//   Lección 5 (Nelson, nov. 2022):     ⚠️ el manual de esta lección es un ejercicio práctico sin cita de líder; sin respaldo.
+//   Lección 5 (Richard G. Scott):      ⚠️ igual que arriba; sin respaldo en el manual.
+// Con esto se completó la revisión de las 15 citas originales entre ambos archivos (Semana 10 y Semana 11).
+// Quedan 3 citas sin poder verificarse en ningún discurso ni manual disponible (Semana 10 L5 Uchtdorf;
+// Semana 11 L5 Nelson nov.2022 y Richard G. Scott) — se recomienda omitirlas o sustituirlas antes de publicar.
+// ══════════════════════════════════════════════════════════════════════════════════
 
 export const leccionesSemana11_LM: Lesson[] = [
 
@@ -57,16 +70,11 @@ export const leccionesSemana11_LM: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
-        fuente: "Liahona, noviembre de 2021, pág. 17",
-        texto: "Los profetas de Dios no advierten sobre el pecado porque desean condenar, sino porque aman a las personas y desean evitarles sufrimiento."
+        fuente: "Liahona, noviembre de 2021, pág. 17 (discurso \"El amor de Dios\")",
+        texto: "Hace mucho tiempo que me ha impresionado, y también he sentido, el anhelante amor de los profetas de Dios cuando nos advierten en contra del pecado. No los motiva el deseo de condenar. Su verdadero deseo refleja el amor de Dios; de hecho, es el amor de Dios.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=spa&id=p12#p12"
       },
 
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2019",
-        texto: "El arrepentimiento diario es el sendero hacia la pureza, el gozo y la paz."
-      },
 
       {
         tipo: "conclusion",
@@ -100,7 +108,7 @@ export const leccionesSemana11_LM: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Los sacerdotes del rey Noé afirmaban enseñar la ley de Moisés, pero no la vivían. Abinadí les enseñó que los mandamientos de Dios no debían ser solo palabras repetidas, sino principios grabados en el corazón. El profeta recitó los Diez Mandamientos y enseñó que la obediencia verdadera nace de una relación sincera con Dios. Muchas personas conocen los mandamientos intelectualmente, pero el Señor desea que estos transformen el corazón y el carácter. Abinadí confrontó la hipocresía de los sacerdotes y mostró que la religión vacía no puede salvar. Jesucristo desea discípulos convertidos, no solo personas religiosas externamente. Esta lección invita a reflexionar si los mandamientos realmente gobiernan nuestras decisiones diarias."
+        contenido: "Los sacerdotes del rey Noé afirmaban enseñar la ley de Moisés, pero no la vivían. Abinadí les enseñó que los mandamientos de Dios no debían ser solo palabras repetidas, sino principios grabados en el corazón. El profeta recitó los Diez Mandamientos y enseñó que la obediencia verdadera nace de una relación sincera con Dios. Muchas personas conocen los mandamientos intelectualmente, pero el Señor desea que estos transformen el corazón y el carácter. Como enseñó el élder Dallin H. Oaks, ni siquiera nuestra obediencia y buenas obras bastan para salvarnos de los efectos del pecado sin la gracia que se extiende por medio de la Expiación de Jesucristo. Abinadí confrontó la hipocresía de los sacerdotes y mostró que la religión vacía no puede salvar. Jesucristo desea discípulos convertidos, no solo personas religiosas externamente. Esta lección invita a reflexionar si los mandamientos realmente gobiernan nuestras decisiones diarias."
       },
 
       {
@@ -131,16 +139,11 @@ export const leccionesSemana11_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente Henry B. Eyring",
-        fuente: "Liahona, noviembre de 2000",
-        texto: "Cuando el Evangelio se escribe en nuestro corazón, cambia nuestros deseos y nuestra naturaleza."
-      },
+        autor: "Bonnie L. Oscarson",
+        fuente: "Liahona, mayo de 2016, págs. 88–89",
+        texto: "Para creer, ¡tenemos que llevar el Evangelio de nuestra mente a nuestro corazón! Es posible que simplemente actuemos mecánicamente al vivir el Evangelio porque se espera que lo hagamos, o porque es la cultura en la que nos hemos criado o porque es un hábito […]. Todos debemos procurar cambiar nuestro corazón y naturaleza misma para que ya no tengamos el deseo de seguir los caminos del mundo, sino de complacer a Dios",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/04/do-i-believe?lang=spa&id=p18-p19#p18"
 
-      {
-        tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, mayo de 2007",
-        texto: "La verdadera conversión ocurre cuando dejamos que el Evangelio penetre profundamente en nuestro corazón."
       },
 
       {
@@ -206,16 +209,10 @@ export const leccionesSemana11_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2017",
-        texto: "El Salvador tomó sobre Sí nuestros pecados, dolores y debilidades para saber perfectamente cómo socorrernos."
-      },
-
-      {
-        tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, abril de 2009",
-        texto: "Debido a la Expiación de Jesucristo, nunca estamos solos en nuestras pruebas."
+        autor: "Elder D. Todd Christofferson",
+        fuente: "Liahona, mayo de 2013, pág. 109).",
+        texto: "Entre los títulos más significativos que describen a Jesucristo está el de Redentor […]; la palabra redimir significa saldar una obligación o una deuda. Redimir también puede querer decir rescatar o liberar, como cuando se paga un rescate. Cuando alguien comete un error y luego lo corrige o remedia, decimos que se ha redimido. Cada uno de estos significados sugieren diferentes aspectos de la gran Redención que realizó Jesucristo con Su expiación, la cual incluye, según el diccionario, “librar del pecado y sus castigos mediante un sacrificio que se realiza a favor del pecador",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/redemption?lang=spa&id=p4#p4"
       },
 
       {
@@ -276,16 +273,20 @@ export const leccionesSemana11_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente M. Russell Ballard",
-        fuente: "Liahona, noviembre de 2016",
-        texto: "El aprendizaje del Evangelio debe llevarnos a actuar y a llegar a ser más semejantes a Jesucristo."
+        autor: "Élder Dale G. Renlund",
+        fuente: "Liahona, mayo de 2015, pág. 57 (discurso \"Los Santos de los Últimos Días siguen intentándolo\")",
+        texto: "Mi invitación a todos nosotros es que evaluemos nuestra vida, nos arrepintamos y sigamos intentándolo […]. Conforme cambiemos, descubriremos que en verdad a Dios le importa más quiénes somos y en quiénes nos estamos convirtiendo, que quiénes fuimos alguna vez (véase Dale G. Renlund",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/latter-day-saints-keep-on-trying?lang=spa&id=p20#p20"
+
       },
 
       {
         tipo: "enseñanza",
-        autor: "Élder Quentin L. Cook",
-        fuente: "Liahona, mayo de 2018",
-        texto: "Cuando repasamos y estudiamos las doctrinas del Evangelio, fortalecemos nuestro testimonio y nuestra capacidad para resistir las influencias del mundo."
+        autor: "Presidenta Bonnie H. Cordon",
+        fuente: "Liahona, noviembre de 2021, pág. 11 (discurso \"Venir a Cristo y no venir solos\")",
+        texto: "Nuestro propósito eterno es venir a Cristo y unirnos activamente a Él en Su gran obra.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/13cordon?lang=spa&id=p35#p35"
+
       },
 
       {
@@ -347,15 +348,10 @@ export const leccionesSemana11_LM: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2022",
-        texto: "La verdad doctrinal, cuando se comprende y se aplica, fortalece la fe y protege contra el engaño espiritual."
-      },
+        fuente: "Liahona, mayo 2020, pág 90",
+        texto: "Podemos acudir a las Escrituras. En ellas se nos enseña acerca de Jesucristo y Su evangelio, de la magnitud de Su expiación y del gran plan de felicidad y redención del Padre. Sumergirnos diariamente en la palabra de Dios es crucial para la supervivencia espiritual, especialmente en estos días de agitación mundial. Al deleitarnos diariamente en las palabras de Cristo, las palabras de Cristo nos dirán cómo responder a dificultades que jamás pensamos que íbamos a enfrentar.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa&id=p24#p24"
 
-      {
-        tipo: "enseñanza",
-        autor: "Élder Richard G. Scott",
-        fuente: "Liahona, noviembre de 2011",
-        texto: "Las Escrituras se convierten en amigos constantes que no están limitados por la geografía ni por el tiempo."
       },
 
       {

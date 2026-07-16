@@ -1,5 +1,19 @@
 import type { Lesson } from "@/lib/types"
 
+// ══════════════════════════════════════════════════════════════════════════════════
+// 🔍 AUDITORÍA DE CITAS PROFÉTICAS (visitado el manual oficial 2024 para las 5 lecciones):
+//   Alma 13 (Renlund):              ✅ cita real; texto y fecha corregidos, con link.
+//   Alma 14 (Eyring):               ✅ cita real; texto y fuente corregidos (era un discurso a CES, no Conferencia
+//                                       General, por lo que no tiene link a churchofjesuschrist.org).
+//   Repaso evaluación 1:            (ya no tenía sección "enseñanza" en el archivo original — correcto).
+//   Adquirir conocimiento esp. 4 (Nelson): ❌ el manual oficial no cita a ningún líder en esta lección. Cita
+//                                       eliminada (no sustituida) por instrucción explícita.
+//   Repaso DD 11-12 (Bednar):       🔧 URL corregida (apuntaba por error a la unidad de Alma 8-12) · ❌ la lección
+//                                       de repaso correcta no cita a ningún líder. Cita eliminada.
+// Siguiendo la instrucción explícita: cuando el manual oficial no tiene una cita real de un líder para una lección
+// específica, se elimina por completo la sección "enseñanza" (no se deja vacía ni se sustituye con otra cita).
+// ══════════════════════════════════════════════════════════════════════════════════
+
 export const leccionesSemana17: Lesson[] = [
   {
     id: "alma-13",
@@ -23,8 +37,12 @@ export const leccionesSemana17: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Dale G. Renlund",
-        fuente: "Conferencia General, abril 2017",
-        texto: "El sacerdocio es la autoridad delegada de Cristo para bendecir a Sus hijos."
+        fuente: "Liahona, noviembre de 2017 (discurso \"El sacerdocio y el poder redentor del Salvador\")",
+        texto: "A causa de Su sacrificio expiatorio, Jesucristo tiene el poder y autoridad para redimir a la humanidad. Para que Su poder expiatorio esté al alcance de todos, Él ha delegado una porción de Su poder y autoridad a los hombres sobre la tierra.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-priesthood-and-the-saviors-atoning-power?lang=spa"
+        // ✅ Corregido tras visitar el manual oficial de esta lección (261-teacher): esta es la cita real que usa el
+        // manual junto a Alma 13:1-2, 6. El autor ya era correcto, pero la fecha del archivo original (abril de 2017)
+        // era incorrecta — el discurso es de octubre de 2017 — y el texto era una paráfrasis.
       },
       {
         tipo: "conclusion",
@@ -63,8 +81,14 @@ export const leccionesSemana17: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Henry B. Eyring",
-        fuente: "Conferencia General, octubre 2001",
-        texto: "Solo por el Espíritu Santo podemos conocer y amar a Dios."
+        fuente: "\"To Know and to Love God\" (discurso a los educadores de CES)",
+        texto: "Nuestros alumnos no pueden conocer a Dios, y por lo tanto amar como deben amar, a menos que sean enseñados por el Espíritu Santo.",
+        link: ""
+        // ✅ Corregido tras visitar el manual oficial de esta lección (262-teacher): esta es la cita real que usa el
+        // manual. La fuente original del archivo ("Conferencia General, octubre 2001") era incorrecta — esta cita
+        // proviene de un discurso de Eyring a educadores de CES, no de la Conferencia General, por lo que no tiene
+        // una cita de Liahona ni link a churchofjesuschrist.org. El texto es una traducción fiel del original en
+        // inglés, ya que no se localizó una versión en español publicada por separado.
       },
       {
         tipo: "conclusion",
@@ -135,12 +159,6 @@ export const leccionesSemana17: Lesson[] = [
         ]
       },
       {
-        tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Conferencia General, octubre 2018",
-        texto: "El Señor ama responder las preguntas sinceras de Sus hijos. Él nos invita a buscar revelación personal."
-      },
-      {
         tipo: "conclusion",
         contenido: "La lección fortalece la capacidad de responder con integridad y fe a inquietudes espirituales. Al aplicar los tres principios, los estudiantes desarrollan confianza en que Dios provee respuestas mediante Su Espíritu."
       },
@@ -158,7 +176,7 @@ export const leccionesSemana17: Lesson[] = [
   {
     id: "repaso-dd-11-12",
     title: "Repaso del Dominio de la doctrina 11 y 12",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/25-alma-8-12/255-teacher?lang=spa",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/26-alma-13-16/265-teacher?lang=spa",
     type: "Dominio de la Doctrina",
     description: "Consolidación de las verdades de dominio aprendidas.",
     secciones: [
@@ -173,12 +191,6 @@ export const leccionesSemana17: Lesson[] = [
           { referencia: "Mosíah 4:9", texto: "Creed en Dios; creed que existe...", link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p9#p9" },
           { referencia: "Mosíah 18:8–10", texto: "Convenio bautismal de servir a Dios y llevar las cargas de los demás.", link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=spa&id=p8-p10#p8" }
         ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Conferencia General, octubre 2001",
-        texto: "El hombre natural se vence mediante la expiación de Cristo y la sumisión a la voluntad de Dios."
       },
       {
         tipo: "conclusion",

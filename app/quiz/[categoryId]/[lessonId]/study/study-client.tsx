@@ -20,6 +20,7 @@ interface StudyClientProps {
   courseType:    "seminario" | "instituto"
   recoveryData?: string
   chapterUrl?:   string
+  lessonType?:   "preparacion-para-la-vida" | "antiguo-testamento" | "nuevo-testamento"
 }
 
 export function StudyClient({
@@ -31,6 +32,7 @@ export function StudyClient({
   courseType,
   recoveryData,
   chapterUrl,
+  lessonType,
 }: StudyClientProps) {
 
   const backUrl = recoveryData

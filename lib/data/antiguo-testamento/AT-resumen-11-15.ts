@@ -165,14 +165,14 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
           },
         ],
       },
+
       {
         tipo: "enseñanza",
         autor: "Élder K. Brett Nattress",
         fuente: "\"¿De verdad he sido perdonado?\", Liahona, mayo de 2023, pág. 67–68",
         texto:
-          "Hermanos y hermanas, testifico que nuestro Padre Celestial siempre se acuerda de nosotros y que nos ama perfectamente.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/04/33nattress?lang=spa",
-        // ⚠️ Título corregido ("¿He sido verdaderamente perdonado?" → "¿De verdad he sido perdonado?", título oficial). Link corregido: el archivo original decía "45nattress"; el discurso real es "33nattress". Cita ajustada a la redacción textual.
+          "Hermanos y hermanas, testifico que nuestro Padre Celestial siempre se acuerda de nosotros y que nos ama perfectamente. Mi pregunta es la siguiente: ¿Nos acordamos nosotros de Él? ¿Y lo amamos?",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/04/33nattress?lang=spa&id=p4#p4",
       },
       {
         tipo: "conclusion",
@@ -235,7 +235,7 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         fuente: "\"Considerad la bondad y la grandeza de Dios\", Conferencia General, abril de 2020",
         texto:
           "Nuestro Padre Celestial quiere que recordemos Su bondad y la de Su Amado Hijo, no para la propia satisfacción de Ellos, sino por la influencia que ese recuerdo tiene en nosotros. Al considerar Su bondad, nuestra perspectiva y entendimiento se amplían. Al reflexionar en Su compasión, nos volvemos más humildes, más orantes y más constantes.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=spa&id=p2,p10#p2",
       },
       {
         tipo: "conclusion",
@@ -297,7 +297,7 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         fuente: "\"El Libro de Mormón: ¿Cómo sería tu vida sin él?\", Liahona, noviembre de 2017, pág. 62–63",
         texto:
           "Cuando pienso en el Libro de Mormón, pienso en la palabra poder. Las verdades del Libro de Mormón tienen el poder de sanar, consolar, restaurar, socorrer, fortalecer, consolar y alegrar nuestras almas. ... Prometo que a medida que estudiéis el Libro de Mormón con oración todos los días, tomaréis mejores decisiones cada día.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&id=p38#p38",
       },
       {
         tipo: "conclusion",
@@ -480,8 +480,8 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         autor: "Élder Dale G. Renlund",
         fuente: "\"Escogeos hoy\", Liahona, noviembre de 2018",
         texto:
-          "Cuando descubrimos que estamos fuera del camino, podemos permanecer fuera de él o, debido a la Expiación de Jesucristo, podemos elegir revertir nuestros pasos y regresar. No importa cuánto tiempo hayamos estado fuera del camino ni cuán lejos nos hayamos alejado; en el momento en que decidimos cambiar, Dios nos ayuda a regresar.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/choose-you-this-day?lang=spa",
+          "Cuando descubrimos que nos hemos salido del camino, podemos permanecer alejados o, debido a la expiación de Jesucristo, podemos optar por dar la vuelta y regresar al camino. En las Escrituras, el proceso de decidir cambiar y regresar al camino se conoce como arrepentimiento. El no arrepentirnos significa que elegimos descalificarnos de las bendiciones que Dios desea conceder. Si “no [queremos] gozar de lo que [podríamos] haber recibido”, “[volveremos] otra vez a [nuestro] propio lugar para gozar de lo que [estemos] dispuestos a recibir”; es nuestra decisión, no la de Dios.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/choose-you-this-day?lang=spa&id=p24-p25#p24",
         // ⚠️ Título corregido ("Elegid hoy a quién sirváis" → "Escogeos hoy", título oficial). Confirmé el tema y el link contra el discurso real; no encontré esta oración exacta palabra por palabra en los extractos disponibles, aunque es fiel al contenido del discurso sobre el camino de los convenios y el arrepentimiento.
       },
       {
@@ -508,49 +508,9 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
     type: "Dominio de la Doctrina",
     description: "Compartir el Evangelio con mansedumbre y reverencia",
     chapterUrl:
-      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/20-joshua-1-24/202-doctrinal-mastery-practice-4?lang=spa",
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/20-joshua-1-24/204-doctrinal-mastery-practice-4?lang=spa",
     questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido:
-          "El Dominio de la Doctrina no consiste en memorizar respuestas para ganar debates. Consiste en desarrollar la capacidad de compartir lo que creés de manera clara, respetuosa y genuina. Esta cuarta práctica se enfoca en las situaciones de diálogo real: cuando alguien pregunta sobre tu fe, cuando enfrentás una duda con alguien, cuando tenés la oportunidad de dar razón de tu esperanza.\n\nPedro lo resumió así: 'Estad siempre preparados para presentar defensa con mansedumbre y reverencia' (1 Pedro 3:15). Las dos palabras clave son 'mansedumbre' y 'reverencia'. No agresividad. No performance. Escucha genuina más testimonio personal.\n\nLa habilidad central en esta práctica es saber distinguir cuándo explicar, cuándo escuchar y cuándo simplemente compartir lo que vos viviste. El Espíritu Santo hace una diferencia cuando das razón de tu esperanza desde la experiencia personal y no solo desde el argumento lógico.",
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "1 Pedro 3:15",
-            texto:
-              "Estad siempre preparados para presentar defensa con mansedumbre y reverencia ante todo el que os demande razón de la esperanza que hay en vosotros.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/1-pet/3?lang=spa&id=p15#p15",
-          },
-          {
-            referencia: "Doctrina y Convenios 100:5–6",
-            texto:
-              "No os preocupéis por lo que hablaréis; no, sino que atesorad en vuestra mente siempre las palabras de vida, y se os dará en el instante preciso esa porción que le corresponde a cada hombre.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/100?lang=spa&id=p5-p6#p5",
-          },
-        ],
-      },
-      // ⚠️ No se encontró cita de líder verificable para esta lección de práctica en el manual 2026. Las lecciones "Doctrinal Mastery Practice" son de aplicación (usan escenarios y preguntas) y generalmente no introducen citas nuevas — patrón confirmado comparando con "Doctrinal Mastery Practice 4" del manual D&C 2025 equivalente. Sección "enseñanza" omitida.
-      {
-        tipo: "conclusion",
-        contenido:
-          "La mejor preparación para compartir el Evangelio no es tener respuestas perfectas para cada pregunta. Es conocer al Salvador lo suficientemente bien como para que cuando alguien pregunte, el Espíritu pueda hablar a través tuyo. Practicá esta semana: si alguien te pregunta sobre tu fe, respondé desde tu experiencia personal antes de recurrir a los argumentos.",
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué tema del Evangelio te resulta más natural explicar? ¿Y cuál te cuesta más?",
-          "¿Cómo cambia la calidad de tu respuesta cuando primero escuchás bien la pregunta de alguien antes de contestar?",
-          "¿Alguna vez alguien te preguntó sobre tu fe en un momento inesperado? ¿Cómo respondiste?",
-          "¿Qué diferencia hace compartir tu propia experiencia versus solo explicar la doctrina?",
-          "¿Qué versículo del Dominio de la Doctrina usarías si alguien te preguntara por qué creés en la Expiación?",
-          "Esta semana, ¿cómo podrías practicar dar razón de tu esperanza de manera natural, sin que parezca un sermón?",
-        ],
-      },
-    ],
+    secciones: [],
   },
   {
     id: "leccion-65",
@@ -595,7 +555,7 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         fuente: "\"La cercana bondad de Dios\", Liahona, mayo de 2019, pág. 107",
         texto:
           "Doy testimonio de que Jesucristo es el Gran Libertador, y en Su nombre prometo que a medida que os volváis a Él con verdadera intención y pleno propósito de corazón, Él os librará de todo aquello que amenace con disminuir o destruir vuestra vida o vuestro gozo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/55mckay?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/55mckay?lang=spa&id=p24#p24",
         // ⚠️ Título corregido ("La bondad inmediata de Dios" → "La cercana bondad de Dios", título oficial). Link corregido: el archivo decía "35mckay"; el discurso real es "55mckay" (sesión del domingo por la tarde, abril de 2019).
       },
       {
@@ -656,11 +616,10 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "\"El élder Bednar comparte cinco lecciones sobre el espíritu de revelación con nuevos líderes de misión\", Church News, 10 de julio de 2018",
-        texto:
-          "En muchas de las incertidumbres y desafíos que enfrentamos en nuestra vida y en esta gran obra de los últimos días, Dios requiere que hagamos nuestro mejor esfuerzo, que confiemos en Él, que estemos ansiosamente involucrados y actuemos, y no simplemente esperemos a ser movidos a la acción. Es posible que no veamos ángeles, ni escuchemos voces celestiales, ni recibamos impresiones espirituales abrumadoras. Con frecuencia podemos seguir adelante con esperanza y oración —pero sin una seguridad absoluta— de que estamos actuando conforme a la voluntad de Dios. Pero al honrar nuestros convenios y guardar los mandamientos, podemos caminar con la confianza de que Dios guiará nuestros pasos.",
-        link: "https://www.thechurchnews.com/2018/7/10/23217775/elder-bednar-shares-five-lessons-about-the-spirit-of-revelation-with-new-mission-leaders",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, mayo de 2022, pág. 99",
+        texto: "Moroni nos aseguró que “Dios no ha cesado de ser un Dios de milagros” (Mormón 9:15). Cada libro de las Escrituras demuestra lo dispuesto que está el Señor a intervenir en la vida de quienes creen en Él. El Señor dividió el mar Rojo para Moisés, ayudó a Nefi a obtener las planchas de bronce y restauró Su Iglesia por medio del profeta José Smith. Cada uno de estos milagros tomó tiempo y quizás no fuera exactamente lo que esas personas le pidieron originalmente al Señor.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/47nelson?lang=spa&id=p30-p31#p30",
       },
       {
         tipo: "conclusion",
@@ -718,7 +677,7 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         fuente: "\"¿Qué más me falta?\", Liahona, noviembre de 2015",
         texto:
           "Nuestro Padre Celestial conoce nuestro potencial divino. Él se regocija cada vez que avanzamos un paso. Para Él, la dirección en la que vamos es mucho más importante que nuestra velocidad. Hermanos y hermanas, sean constantes, pero nunca se desanimen.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/what-lack-i-yet?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/what-lack-i-yet?lang=spa&id=p31-p32#p31",
       },
       {
         tipo: "conclusion",
@@ -738,132 +697,140 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
     ],
   },
-  {
-    id: "leccion-188",
-    title: "Lección 188: La importancia de la formación académica",
-    type: "Preparación para la Vida",
-    description: "La educación como principio del Evangelio",
-    chapterUrl:
-      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/66-future-education-and-employment/661-the-importance-of-education?lang=spa",
-    questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido:
-          "Hay una frase en las Escrituras que muchos Santos conocen pero pocos conectan con la educación cotidiana: 'La gloria de Dios es la inteligencia, o, en otras palabras, la luz y la verdad' (D&C 93:36). Esta no es solo una declaración bonita. Es la base doctrinal de por qué educarse importa.\n\nEl Señor también dijo algo muy práctico: 'Todo lo que adquiramos de inteligencia en esta vida se levantará con nosotros en la resurrección' (D&C 130:18). La educación no queda acá cuando morimos. Va con nosotros. Eso cambia la perspectiva sobre el esfuerzo académico: no es solo para conseguir trabajo o aprobar materias. Es inversión eterna.\n\nLa Iglesia ha enseñado desde el principio que educarse es un deber sagrado. No solo para los que tienen acceso fácil o viven en países con buenas escuelas. Para todos. D&C 88:78–79 instruye a los miembros a enseñarse 'la doctrina del reino' pero también astronomía, historia, idiomas, ciencias. El Señor no separa el conocimiento espiritual del conocimiento secular. Ambos son parte de 'buscar el aprendizaje por el estudio y también por la fe' (D&C 88:118).\n\nTu formación académica no es algo separado de tu desarrollo espiritual. Es parte del mismo camino. Las habilidades que desarrollás en la escuela pueden servir al Señor de maneras que todavía no imaginás.",
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Doctrina y Convenios 93:36",
-            texto:
-              "La gloria de Dios es la inteligencia, o, en otras palabras, la luz y la verdad.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p36#p36",
-          },
-          {
-            referencia: "Doctrina y Convenios 130:18–19",
-            texto:
-              "Todo lo que adquiramos de inteligencia en esta vida, se levantará con nosotros en la resurrección. Y si una persona adquiere más conocimiento e inteligencia en esta vida..., tendrá mucha más ventaja en el mundo venidero.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=spa&id=p18-p19#p18",
-          },
-          {
-            referencia: "Doctrina y Convenios 88:118",
-            texto:
-              "Buscad el aprendizaje, incluso por el estudio y también por la fe.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118",
-          },
-        ],
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "\"Words of the Prophet: Seek Learning\", New Era, septiembre de 2007, pág. 3–4",
-        texto:
-          "Deben obtener toda la educación que les sea posible. La vida se ha vuelto muy compleja y competitiva. No pueden dar por sentado que tienen derechos adquiridos. Se esperará que hagan un gran esfuerzo y que usen sus mejores talentos para abrirse camino hacia el futuro más maravilloso del que sean capaces. Sacrifiquen un auto; sacrifiquen lo que sea necesario para calificarse y hacer el trabajo del mundo. Ese mundo, en gran medida, les pagará lo que crea que valen, y su valor aumentará a medida que adquieran educación y competencia en el campo que elijan.",
-        link: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/66-future-education-and-employment/661-importance-of-education?lang=spa",
-      },
-      {
-        tipo: "conclusion",
-        contenido:
-          "Educarse no es solo prepararse para el mercado laboral. Es honrar el mandato del Señor de desarrollar el potencial que Él puso en vos. Cada materia que aprendés, cada habilidad que desarrollás, cada esfuerzo que hacés en la escuela puede ser puesto al servicio del Señor y de las personas que te rodean. Esta semana, abordá tus tareas escolares con esa perspectiva: no como una obligación, sino como parte de tu preparación para servir.",
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Qué área de estudio te apasiona más? ¿Cómo podría ser usada esa área por el Señor para Su obra?",
-          "¿Cómo cambia tu motivación para estudiar cuando lo ves como un principio del Evangelio y no solo como una obligación escolar?",
-          "¿Hay algún hábito tuyo que esté saboteando tu formación académica? ¿Qué creés que está detrás de eso?",
-          "¿Cómo podría tu educación ayudarte a servir mejor a tu familia en el futuro?",
-          "¿Hay alguna materia o habilidad que el Señor te podría estar impulsando a desarrollar más en este momento?",
-          "¿Qué cambiaría en tu actitud hacia la escuela si empezaras a verla como inversión eterna y no solo como requisito temporal?",
-        ],
-      },
-    ],
-  },
-  {
-    id: "leccion-167",
-    title: "Lección 167: Encontrar verdades del Evangelio en las Escrituras",
-    type: "Preparación para la Vida",
-    description: "Cómo extraer principios eternos de los textos sagrados",
-    chapterUrl:
-      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/621-identifying-doctrine-and-principles?lang=spa",
-    questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido:
-          "Leer las Escrituras y entender las Escrituras son dos cosas diferentes. Podés leer el relato de Nefi construyendo el barco y simplemente saber que Nefi construyó un barco. O podés preguntarte: ¿qué verdad eterna enseña ese relato sobre la fe y la obediencia? La segunda lectura es la que transforma.\n\nEsta lección enseña una habilidad concreta: cómo extraer principios doctrinales de un pasaje bíblico. El proceso tiene tres movimientos. Primero, entendé qué está pasando en el texto: el contexto histórico, quiénes son los personajes, qué ocurre. Segundo, identificá la verdad eterna que se enseña a través de ese evento: el principio que sigue siendo verdad hoy aunque el contexto histórico sea completamente diferente. Tercero, conectá ese principio con tu vida ahora mismo: ¿qué situación tuya se ilumina con esta verdad?\n\nEl apóstol Pablo lo expresó con claridad en 2 Timoteo: 'Toda la Escritura es inspirada por Dios, y útil para enseñar, para corregir, para instruir en justicia.' No dice que las Escrituras son interesantes históricamente. Dice que son útiles. Para ahora. Para vos.\n\nNefi también lo dijo en sus propias palabras: 'Las exhorto a comparar con nuestra situación; pues para esa mira están escritas' (1 Nefi 19:23). Las Escrituras fueron escritas con tu situación en mente, no solo la de los personajes del relato.",
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "2 Timoteo 3:16–17",
-            texto:
-              "Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=spa&id=p16-p17#p16",
-          },
-          {
-            referencia: "1 Nefi 19:23",
-            texto:
-              "Las exhorto a comparar con nuestra situación; pues para esa mira están escritas, y para nuestro provecho y aprendizaje.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/19?lang=spa&id=p23#p23",
-          },
-          {
-            referencia: "Juan 5:39",
-            texto:
-              "Escudriñad las Escrituras; porque a vosotros os parece que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/john/5?lang=spa&id=p39#p39",
-          },
-        ],
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder D. Todd Christofferson",
-        fuente: "\"La bendición de las Escrituras\", Liahona, mayo de 2010, pág. 32-35",
-        texto:
-          "Debido a que exponen la doctrina de Cristo, las Escrituras van acompañadas del Espíritu Santo, cuyo papel es dar testimonio del Padre y del Hijo. Por lo tanto, estar en las Escrituras es una manera en que recibimos al Espíritu Santo. Por supuesto, la Escritura es dada a través del Espíritu Santo en primer lugar, y ese mismo Espíritu puede atestiguar su verdad a ustedes y a mí. Estudien las Escrituras con cuidado, deliberadamente. Reflexionen y oren sobre ellas. Las Escrituras son revelación, y traerán revelación adicional.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/04/the-blessing-of-scripture?lang=spa",
-      },
-      {
-        tipo: "conclusion",
-        contenido:
-          "Las Escrituras no son solo relatos de personas que vivieron hace miles de años. Son depósitos de verdades que el Padre Celestial preservó para vos, para este momento de tu vida. Cuando las lees preguntándote '¿qué verdad eterna enseña esto y cómo se aplica a mí hoy?', se convierten en algo diferente. Esta semana, al estudiar un capítulo, pausate en al menos un versículo y hacé esas tres preguntas: ¿qué pasa en el texto? ¿Qué verdad enseña? ¿Cómo aplica a mi vida ahora mismo?",
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Cuál fue el último versículo de las Escrituras que te habló directamente a tu situación? ¿Qué pasaba en tu vida en ese momento?",
-          "¿Qué diferencia hay entre leer un relato bíblico como historia y leerlo como un principio eterno? ¿Podés dar un ejemplo concreto?",
-          "¿Alguna vez encontraste en las Escrituras respuesta a algo que estabas enfrentando? ¿Cómo llegaste a ese versículo?",
-          "¿Qué pasaje del Antiguo Testamento que estudiaste este año te parece que apunta más claramente a Jesucristo?",
-          "¿Tenés alguna técnica personal para sacar más provecho del tiempo que le dedicás al estudio de las Escrituras?",
-          "¿Cómo podrías practicar la habilidad de identificar principios doctrinales durante tu estudio personal esta semana?",
-        ],
-      },
-    ],
-  },
+{
+  id: "leccion-188",
+  title: "Lección 188: La importancia de la formación académica",
+  type: "Preparación para la Vida",
+  description: "La educación como principio del Evangelio",
+  chapterUrl:
+    "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/66-future-education-and-employment/661-importance-of-education?lang=spa",
+  questions: [],
+  secciones: [
+    {
+      tipo: "contexto",
+      contenido:
+        "Capaz estás cansado de la escuela. Tal vez sentís que estudiar no tiene sentido, que preferirías empezar a trabajar ya, o que la educación es solo un trámite antes de la \"vida real\". Es una sensación común entre los adolescentes, y es normal sentirla de vez en cuando.\n\nPero el Padre Celestial ve la educación de otra manera. Para Él no es solamente un medio para ganar dinero. Es parte de tu progreso eterno. Cada vez que aprendés algo nuevo, con esfuerzo y disciplina, te estás pareciendo un poco más a Él. La inteligencia que ganás en esta vida no se pierde: te acompaña para siempre.\n\nPensá en la educación como un embudo. Al principio, estudiar parece la abertura angosta: exige esfuerzo, sacrificio y disciplina. Pero esa angostura se abre después en más libertad, más oportunidades y más capacidad para servir a los demás. En cambio, elegir no esforzarte hoy parece más liviano, pero con el tiempo termina cerrando puertas.\n\nNo hace falta que ames cada materia del colegio. Lo que sí necesitás es una razón más grande que la nota del boletín: aprender es parte de llegar a ser como tu Padre Celestial, y de tener más herramientas para bendecir a otros el día de mañana.",
+    },
+    {
+      tipo: "escrituras",
+      citas: [
+        {
+          referencia: "Proverbios 3:13–18",
+          texto:
+            "Bienaventurado el hombre que halla la sabiduría y que adquiere entendimiento, porque su ganancia es mejor que la ganancia de la plata, y sus beneficios más que el oro fino. Más preciosa es que las piedras preciosas, y todo lo que puedas desear no se puede comparar con ella. Largura de días hay en su mano derecha; en su izquierda, riquezas y honra. Sus caminos son caminos deleitosos, y todas sus veredas, paz. Ella es árbol de vida a los que de ella echan mano, y bienaventurados son los que la retienen.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=spa&id=p13-p18#p13",
+        },
+        {
+          referencia: "Doctrina y Convenios 130:18–19",
+          texto:
+            "Cualquier principio de inteligencia que logremos en esta vida se levantará con nosotros en la resurrección; y si en esta vida una persona adquiere más conocimiento e inteligencia que otra, por medio de su diligencia y obediencia, hasta ese grado le llevará la ventaja en el mundo venidero.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=spa&id=p18-p19#p18",
+        },
+        {
+          referencia: "Doctrina y Convenios 88:118",
+          texto:
+            "Y por cuanto no todos tienen fe, buscad diligentemente y enseñaos el uno al otro palabras de sabiduría; sí, buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118",
+        },
+      ],
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Presidente Russell M. Nelson",
+      fuente:
+        "\"Education—A Religious Responsibility\" (devocional de BYU-Idaho, 26 de enero de 2010)",
+      texto:
+        "Nuestro Creador espera que Sus hijos en todas partes adquieran una educación.",
+      link: "https://www.byui.edu/speeches/russell-m-nelson/education-a-religious-responsibility",
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Presidente Gordon B. Hinckley",
+      fuente: "\"Words of the Prophet: Seek Learning\", New Era, septiembre de 2007, págs. 3–4",
+      texto: "Obtengan toda la educación académica posible.",
+      link: "https://www.churchofjesuschrist.org/study/new-era/2007/09/words-of-the-prophet-seek-learning?lang=eng",
+    },
+    {
+      tipo: "conclusion",
+      contenido:
+        "La educación no es un obstáculo entre vos y la vida que querés vivir; es parte del camino. El Padre Celestial no espera que ames cada examen o cada tarea, pero sí espera que sigas aprendiendo, con esfuerzo y con fe, porque cada cosa que aprendés te acerca un poco más a ser como Él. Esta semana vas a tomar decisiones pequeñas: estudiar un poco más, pedir ayuda cuando algo no entendés, no abandonar una materia difícil. Ninguna de esas decisiones parece gran cosa por sí sola, pero son las que van abriendo la puerta más grande. Elegí el esfuerzo de hoy, aunque no veas todavía la recompensa completa.",
+    },
+    {
+      tipo: "cuestionario",
+      preguntas: [
+        "¿Qué materia o tema te gusta aprender más, y cómo descubriste ese interés?",
+        "¿Alguna vez sentiste que estudiar era una pérdida de tiempo? ¿Qué te ayudó a cambiar esa forma de verlo, si es que cambió?",
+        "¿Por qué creés que el Padre Celestial quiere que Sus hijos sigan aprendiendo toda la vida, y no solo mientras están en la escuela?",
+        "¿Qué diferencia hay entre estudiar solo para aprobar una materia y estudiar para llegar a ser más semejante al Padre Celestial?",
+        "¿Qué materia o hábito de estudio te está costando más esta semana? ¿Qué paso concreto podés dar para no abandonarlo?",
+        "¿A quién podrías pedirle ayuda esta semana si algo en la escuela te resulta difícil?",
+      ],
+    },
+  ],
+},
+{
+  id: "leccion-167",
+  title: "Lección 167: Encontrar verdades del Evangelio en las Escrituras",
+  type: "Preparación para la Vida",
+  description: "Cómo extraer principios eternos de los textos sagrados",
+  chapterUrl:
+    "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/622-finding-gospel-truths?lang=spa",
+  questions: [],
+  secciones: [
+    {
+      tipo: "contexto",
+      contenido:
+        "¿Alguna vez leíste un capítulo entero de las Escrituras y llegaste al final sin acordarte de nada? Te pasa a casi todos. El problema no es que las Escrituras sean aburridas. El problema es que a veces leemos el relato sin buscar lo que hay debajo de él. Esa sensación de vacío no significa que te falte fe; significa que todavía no aprendiste a mirar más allá de las palabras.\n\nPensá en una banana. Nadie come la cáscara, pero la cáscara protege y mantiene fresca la fruta de adentro. Los relatos de las Escrituras funcionan parecido: son la cáscara que preserva algo más importante, las verdades del Evangelio que Dios quiere que encontrés.\n\nHay dos formas de encontrarlas. Algunas verdades están escritas con toda claridad, en una sola frase, como \"confía en Jehová con todo tu corazón\" (Proverbios 3:5). Otras están implícitas: tenés que hacerte preguntas mientras leés, como \"¿qué me enseña esto sobre Dios?\" o \"¿por qué el Señor habrá incluido este relato?\".\n\nLa próxima vez que abras las Escrituras, no te conformes con terminar el capítulo. Preguntate qué verdad hay debajo del relato, y por qué el Padre Celestial querría que la conocieras justo ahora. Esa costumbre, más que la cantidad de versículos que leas, es lo que te va a acercar a Él.",
+    },
+    {
+      tipo: "escrituras",
+      citas: [
+        {
+          referencia: "Proverbios 3:5–6",
+          texto:
+            "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=spa&id=p5-p6#p5",
+        },
+        {
+          referencia: "Números 21:8–9",
+          texto:
+            "Y Jehová dijo a Moisés: Hazte una serpiente ardiente y ponla sobre un asta; y acontecerá que cualquiera que sea mordido y la mire, vivirá. Y Moisés hizo una serpiente de bronce y la puso sobre un asta, y sucedía que cuando una serpiente mordía a alguno, y este miraba a la serpiente de bronce, vivía.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/num/21?lang=spa&id=p8-p9#p8",
+        },
+        {
+          referencia: "Juan 3:14–16",
+          texto:
+            "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado, para que todo aquel que en él cree no se pierda, mas tenga vida eterna. Porque de tal manera amó Dios al mundo que ha dado a su Hijo Unigénito, para que todo aquel que en él cree no se pierda, mas tenga vida eterna.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=spa&id=p14-p16#p14",
+        },
+      ],
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Élder David A. Bednar",
+      fuente: "\"Los principios de Mi Evangelio\", Liahona, mayo de 2021, pág. 126",
+      texto:
+        "Sé que la doctrina y los principios del evangelio de Jesucristo son las fuentes primordiales de dirección para nuestra vida y de un gozo perdurable tanto en la vida terrenal como en la eternidad.",
+      link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/56bednar?lang=spa&id=p34#p34",
+    },
+    {
+      tipo: "conclusion",
+      contenido:
+        "Encontrar verdades del Evangelio en las Escrituras no es una técnica académica; es una manera de invitar al Espíritu Santo a tu estudio personal. La próxima vez que te sientes en las Escrituras, no busques terminar rápido un capítulo: buscá una verdad, marcala, y preguntate por qué el Padre Celestial querría que la conocieras hoy. Con el tiempo, esa costumbre va a cambiar completamente lo que sentís cuando abrís tus Escrituras. No hace falta que encuentres una verdad enorme cada vez. Alcanza con una frase, una idea, una conexión pequeña con tu vida. Esas verdades, juntadas una por una, son las que te van acercando al Salvador.",
+    },
+    {
+      tipo: "cuestionario",
+      preguntas: [
+        "¿Cuál es la última verdad del Evangelio que encontraste en tu estudio personal de las Escrituras?",
+        "¿Alguna vez terminaste de leer un capítulo de las Escrituras sin acordarte de nada? ¿Qué creés que faltó en esa lectura?",
+        "¿Cuál es la diferencia entre una verdad \"expresada con claridad\" y una verdad \"implícita\"? ¿Cuál de las dos te resulta más difícil de encontrar?",
+        "Según el élder Bednar, ¿de dónde vienen la doctrina y los principios del Evangelio? ¿Por qué es importante saber eso cuando estudiás?",
+        "¿Qué pasaje vas a estudiar esta semana buscando específicamente una verdad implícita, y qué preguntas te vas a hacer mientras lo leés?",
+        "¿A quién podrías contarle esta semana una verdad que encontraste en tu estudio personal de las Escrituras?",
+      ],
+    },
+  ],
+},
   {
     id: "leccion-68",
     title: "Lección 68: Rut",
@@ -933,52 +900,66 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
     type: "Antiguo Testamento - Ven Sigueme",
     description: "La oración ferviente de Ana y la fidelidad de Dios",
     chapterUrl:
-      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-1-samuel-1-15/221-1-samuel-1?lang=spa",
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-ruth-1-samuel-1-7/222-1-samuel-1-7?lang=spa",
     questions: [],
     secciones: [
       {
         tipo: "contexto",
         contenido:
-          "Ana tenía un dolor que no podía ocultar y que nadie más podía resolver. Era estéril, y en la cultura de su tiempo, eso era una carga social y emocional enorme. Pero además tenía a Penina, la otra esposa de su marido Elcana, que la provocaba año tras año en el momento del sacrificio anual. El texto dice que Ana 'lloraba y no comía' (1 Samuel 1:7). Era una mujer quebrada.\n\nSin embargo, Ana hizo algo que define toda su historia: fue al tabernáculo y oró. No oró de manera correcta y ordenada. El texto dice que 'hablaba en su corazón' con tal intensidad que sus labios se movían pero no salían palabras. El sacerdote Elí, al verla, pensó que estaba borracha (1 Samuel 1:13). Así de intensa era su oración.\n\nY en esa oración hizo algo notable: hizo un voto. Si el Señor le daba un hijo, ese hijo le pertenecería al Señor todos los días de su vida. Era una ofrenda que todavía no tenía. Una fe que actuaba antes de recibir la respuesta.\n\nEl Señor la escuchó. Samuel nació. Y Ana cumplió su voto: cuando el niño fue destetado, lo llevó al templo y lo entregó al servicio de Dios. El cántico de alabanza que siguió —'Mi corazón se regocija en Jehová'— no es el de alguien que recibió lo que quería. Es el de alguien que aprendió quién es Dios en el proceso de esperar.\n\nLa oración de Ana en medio del dolor no fue señal de debilidad. Fue la expresión más poderosa de su fe.",
+          "Ana quería un hijo. Año tras año, subía con su familia al tabernáculo de Silo para adorar a Jehová, y año tras año volvía a casa sin la bendición que tanto anhelaba. Para empeorar las cosas, Penina, la otra esposa de su esposo Elcana, se burlaba de ella por no tener hijos. Ana lloraba tanto que ni siquiera podía comer.\n\nUn día, en Silo, Ana se levantó y oró como nunca antes. No gritó ni hizo un espectáculo. Oró en silencio, moviendo solo los labios, derramando su alma delante del Señor con tanta angustia que el sacerdote Elí pensó que estaba borracha. Cuando Elí la confrontó, Ana no se ofendió. Le explicó con calma que no estaba ebria, sino profundamente afligida, y que había estado hablando con Dios sobre su dolor.\n\nElí, al darse cuenta de su error, la bendijo: \"el Dios de Israel te otorgue la petición que le has hecho\". Algo cambió en Ana en ese momento. El relato dice que se fue, comió, y \"no estuvo más triste\". Todavía no tenía a su hijo. La bendición todavía no había llegado. Pero la paz sí.\n\nCon el tiempo, Ana concibió y tuvo a Samuel, y cumplió su promesa de entregarlo al servicio del Señor. Cuando lo llevó al templo, no se quejó del sacrificio. Cantó de alegría: \"Mi corazón se regocija en Jehová\".\n\nA vos también te va a tocar orar por algo durante mucho tiempo sin ver la respuesta: una amistad que sanás, una decisión que no se aclara, una necesidad que parece no resolverse nunca. La historia de Ana no promete que la respuesta llegue rápido. Promete que Dios escucha, aunque tu oración sea solo un murmullo, y que Su paz puede llegar antes que Su respuesta.",
       },
       {
         tipo: "escrituras",
         citas: [
           {
-            referencia: "1 Samuel 1:11",
+            referencia: "1 Samuel 1:10–13",
             texto:
-              "Oh Jehová de los ejércitos, si te dignares mirar a la aflicción de tu sierva... y dieres a tu sierva un hijo varón, yo lo dedicaré a Jehová todos los días de su vida.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/1?lang=spa&id=p11#p11",
+              "ella, con amargura de alma, oró a Jehová y lloró desconsoladamente. E hizo voto, diciendo: Jehová de los ejércitos, si te dignas mirar la aflicción de tu sierva [...] Y aconteció que mientras ella oraba largamente delante de Jehová, Elí observaba la boca de ella. Mas Ana hablaba en su corazón, y solamente se movían sus labios, y su voz no se oía; y Elí la tuvo por ebria.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/1?lang=spa&id=p10-p13#p10",
           },
           {
-            referencia: "1 Samuel 2:1",
+            referencia: "1 Samuel 1:17–18",
             texto:
-              "Mi corazón se regocija en Jehová, mi poder se exalta en Jehová; mi boca se ensanchó sobre mis enemigos, por cuanto me alegré en tu salvación.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/2?lang=spa&id=p1#p1",
+              "Y Elí respondió y dijo: Ve en paz, y el Dios de Israel te otorgue la petición que le has hecho. Y ella dijo: Halle tu sierva gracia delante de tus ojos. Y se fue la mujer por su camino, y comió y no estuvo más triste.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/1?lang=spa&id=p17-p18#p17",
           },
           {
-            referencia: "Filipenses 4:6–7",
+            referencia: "1 Samuel 2:1–2",
             texto:
-              "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias. Y la paz de Dios... guardará vuestros corazones.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/philip/4?lang=spa&id=p6-p7#p6",
+              "Y Ana oró y dijo: Mi corazón se regocija en Jehová; mi poder se exalta en Jehová; mi boca se ensancha contra mis enemigos, por cuanto me alegro en tu salvación. No hay santo como Jehová, porque no hay ninguno fuera de ti, ni hay roca como el Dios nuestro.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/2?lang=spa&id=p1-p2#p1",
           },
         ],
       },
-      // ⚠️ No se encontró evidencia de que el manual 2026 use una cita de Neal A. Maxwell (ni ninguna otra específica) para esta lección de 1 Samuel 1. Se agotaron búsquedas razonables (fetch directo, manuales paralelos NT/D&C, overview de la sección) sin poder confirmar el contenido exacto de esta lección puntual. Sección "enseñanza" omitida en lugar de mantener una cita no verificada.
+      {
+        tipo: "enseñanza",
+        autor: "Élder Dale G. Renlund",
+        fuente: "\"Considerad la bondad y la grandeza de Dios\", Liahona, mayo de 2020, pág. 43",
+        texto:
+          "No buscamos cambiar Su voluntad, sino alinear nuestra voluntad con la Suya.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=spa&id=p17#p17",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "\"Revelación para la Iglesia, revelación para nuestras vidas\", Liahona, mayo de 2018, pág. 95",
+        texto: "¿Quiere Dios realmente hablarles? ¡Sí!",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&id=p28-p30#p28",
+      },
       {
         tipo: "conclusion",
         contenido:
-          "Ana oró con todo su ser en el momento de mayor quebranto. No esperó a sentirse mejor para orar. Oró precisamente porque se sentía rota. Y el Señor respondió, no solo con Samuel, sino con una paz que antecedió a la respuesta: 'Y ella se fue, y comió, y no estuvo más triste' (1 Samuel 1:18), antes de que hubiera cualquier confirmación del embarazo. Esa paz que precede a la respuesta es también disponible para vos. La oración honesta y ferviente abre esa puerta.",
+          "El relato de Ana nos enseña que la oración humilde tiene poder, incluso cuando la respuesta tarda en llegar. Ana no dejó de creer después de años de espera, y tampoco escondió su dolor: se lo entregó por completo al Señor. Esa combinación —fe constante y honestidad total en la oración— es lo que abrió el camino para que Dios la bendijera a Su manera y en Su tiempo. Cuando sientas que tu oración lleva mucho esperando respuesta, recordá a Ana: seguí orando, seguí confiando, y estate abierto a recibir la paz de Dios incluso antes de recibir la respuesta completa que buscás.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Hay alguna situación en tu vida ahora mismo por la que hayas orado con el tipo de fervor e intensidad que mostró Ana?",
-          "¿Alguna vez sentiste paz del Señor antes de recibir la respuesta a algo por lo que estabas orando?",
-          "¿Cómo describirías la diferencia entre una oración rutinaria y una oración del corazón como la de Ana?",
-          "¿Qué te enseña que Ana cumplió su voto y entregó a Samuel aunque eso le costara tanto?",
-          "¿Hay algo que has estado guardándote en lugar de llevar al Señor en oración? ¿Qué te impide hacerlo?",
-          "¿Cómo podrías hacer que una de tus oraciones de esta semana sea más honesta y específica, como la oración de Ana?",
+          "¿Con qué parte del relato de Ana te identificás más: con la espera, con el dolor de sentirse incomprendida, o con el momento en que recibe paz?",
+          "¿Qué palabras usarías para describir cómo era la oración de Ana en el templo?",
+          "¿Alguna vez oraste por algo durante mucho tiempo sin ver la respuesta? ¿Cómo te sentiste durante esa espera?",
+          "Elí malinterpretó la oración de Ana al principio. ¿Alguna vez alguien malinterpretó lo que estabas sintiendo o viviendo? ¿Qué aprendiste de esa situación?",
+          "¿Por qué estás orando ahora mismo que todavía no tiene respuesta? ¿Qué podrías hacer esta semana para seguir confiando mientras esperás?",
+          "¿Cómo te gustaría que fuera tu próxima oración personal, después de conocer el ejemplo de Ana?",
         ],
       },
     ],
@@ -989,58 +970,69 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
     type: "Antiguo Testamento - Ven Sigueme",
     description: '"Habla, Jehová, porque tu siervo oye"',
     chapterUrl:
-      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-1-samuel-1-15/222-1-samuel-3?lang=spa",
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/22-ruth-1-samuel-1-7/223-1-samuel-3?lang=spa",
     questions: [],
     secciones: [
       {
         tipo: "contexto",
         contenido:
-          "El texto lo dice sin rodeos: 'La palabra de Jehová escaseaba en aquellos días; no había visión con frecuencia' (1 Samuel 3:1). Era un período de silencio espiritual en Israel. Y en ese contexto, el Señor eligió hablarle a Samuel, un niño que servía en el tabernáculo junto al sacerdote Elí.\n\nLa primera noche que el Señor lo llamó, Samuel no reconoció la voz. Corrió a despertar a Elí pensando que era él quien lo llamaba. Elí le dijo que no había sido él, que se volviera a dormir. Esto ocurrió tres veces. Recién entonces Elí reconoció lo que estaba pasando y le enseñó a Samuel cómo responder: 'Si te llamare, dirás: Habla, Jehová, porque tu siervo oye' (1 Samuel 3:9).\n\nHay dos cosas que impresionan de este relato. La primera: que Samuel necesitó a alguien más —Elí— para reconocer la voz del Señor. Aprender a recibir revelación es un proceso, y a veces necesitamos la guía de alguien con más experiencia. La segunda: la respuesta que le enseñaron. No 'qué querés' ni 'estoy ocupado'. 'Tu siervo oye.' Una disposición total.\n\nEl Señor sigue hablando hoy. Habla a través del Espíritu Santo, de las Escrituras, de los profetas, de impresiones en la mente y el corazón. La pregunta no es si Él habla. La pregunta es si vos estás en condiciones de escuchar. ¿Qué hay en tu vida que podría estar bloqueando esa voz? ¿Y qué necesitarías ajustar para poder decir honestamente: 'Habla, Señor, tu siervo oye'?",
+          "Samuel era todavía un niño cuando el Señor lo llamó por primera vez. Servía en el tabernáculo de Silo bajo el cuidado de Elí, el sumo sacerdote. Una noche, mientras dormía cerca del arca de Dios, escuchó una voz que lo llamaba por su nombre: \"Samuel\".\n\nSamuel corrió hasta Elí. \"¿Para qué me llamaste?\", le preguntó. Pero Elí no lo había llamado. Esto se repitió una segunda vez, y Samuel volvió a correr hasta Elí sin entender lo que pasaba. El relato explica algo importante en ese momento: \"Samuel no había conocido aún a Jehová, ni la palabra de Jehová le había sido revelada\". No era que Samuel fuera indigno de escuchar al Señor. Simplemente todavía no había aprendido a reconocer Su voz.\n\nA la tercera vez, Elí entendió lo que estaba sucediendo. Le enseñó a Samuel exactamente qué decir la próxima vez que escuchara el llamado: \"Habla, Jehová, que tu siervo escucha\". Cuando el Señor volvió a llamar, Samuel respondió con esas palabras, y el Señor le habló.\n\nFijate en algo: Samuel necesitó tres intentos y la ayuda de otra persona para reconocer la voz del Señor. No lo logró solo, ni a la primera. Y aun así, con el tiempo, llegó a ser uno de los grandes profetas de Israel.\n\nA vos te puede estar pasando algo parecido. Tal vez sentís una impresión suave mientras orás, una idea mientras leés las Escrituras, o una paz tranquila después de tomar una decisión, y no estás seguro de si eso es el Señor hablándote. Eso no significa que no tengas fe. Significa que, como Samuel, todavía estás aprendiendo a reconocer Su voz. Esa es una habilidad que se construye con tiempo, con práctica, y muchas veces con la ayuda de alguien de confianza.",
       },
       {
         tipo: "escrituras",
         citas: [
           {
-            referencia: "1 Samuel 3:9–10",
+            referencia: "1 Samuel 3:8–9",
             texto:
-              "Si te llamare, dirás: Habla, Jehová, porque tu siervo oye. Y Samuel vino y se paró, y dijo como antes: Habla, porque tu siervo oye.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p9-p10#p9",
+              "Jehová, pues, llamó por tercera vez a Samuel. Y él se levantó y fue a Elí y le dijo: Heme aquí; ¿para qué me has llamado? Entonces entendió Elí que Jehová llamaba al joven. Y dijo Elí a Samuel: Ve y acuéstate; y si te llama, dirás: Habla, Jehová, que tu siervo escucha.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p8-p9#p8",
           },
           {
-            referencia: "Doctrina y Convenios 8:2",
+            referencia: "1 Samuel 3:10",
             texto:
-              "Sí, te diré en tu mente y en tu corazón, por el Espíritu Santo, que vendrá sobre ti y morará en tu corazón.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=spa&id=p2#p2",
+              "Y vino Jehová, y se puso delante de él y llamó como las otras veces: ¡Samuel, Samuel! Entonces Samuel dijo: Habla, que tu siervo escucha.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p10#p10",
           },
           {
-            referencia: "Juan 10:27",
-            texto: "Mis ovejas oyen mi voz, y yo las conozco, y me siguen.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/john/10?lang=spa&id=p27#p27",
+            referencia: "1 Samuel 3:19",
+            texto:
+              "Y Samuel crecía, y Jehová estaba con él y no dejó caer a tierra ninguna de sus palabras.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p19#p19",
           },
         ],
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "\"Revelación para la Iglesia, revelación para nuestra vida\", Liahona, mayo de 2018, pág. 95",
+        fuente: "\"Revelación para la Iglesia, revelación para nuestras vidas\", Liahona, mayo de 2018, pág. 94",
         texto:
-          "Oren en el nombre de Jesucristo acerca de sus preocupaciones, sus temores, sus debilidades; sí, los anhelos más profundos de su corazón. Y luego, ¡escuchen! Anoten los pensamientos que vengan a su mente. Registren sus sentimientos y actúen conforme a lo que sientan que deben hacer. A medida que repitan este proceso día tras día, mes tras mes, año tras año, 'crecerán en el principio de la revelación'.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa",
+          "El privilegio de recibir revelación es uno de los dones más grandiosos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&id=p16#p16",
       },
+
+      /*
+      {
+        tipo: "enseñanza",
+        autor: "Hermano Chad H Webb, administrador de Seminarios e Institutos de Religión",
+        fuente:
+          "\"Sus representantes\", transmisión de la capacitación con el presidente Ballard, 21 de enero de 2022",
+        texto: "El Espíritu Santo también les habla de muchas maneras sencillas.",
+        link: "https://www.churchofjesuschrist.org/study/broadcasts/miscellaneous-events/2021/11-01/11webb?lang=spa&id=p31#p31",
+      },*/
       {
         tipo: "conclusion",
         contenido:
-          "Samuel aprendió a escuchar. No llegó a esa experiencia con habilidades perfectas. Necesitó orientación, y cuando la recibió, respondió con disponibilidad total. Esa disponibilidad es lo que el Señor busca en vos también. No perfección, no experiencia vasta. Solo un corazón dispuesto a decir: 'Habla, Señor, tu siervo oye.' Esta semana, creá un momento de silencio en tu día específicamente para escuchar al Señor, sin agenda, sin apuro.",
+          "El relato de Samuel nos enseña que reconocer la voz del Señor no es un don que aparece de un día para el otro. Samuel necesitó tres intentos, una noche entera y la ayuda de Elí para entender lo que le estaba pasando. Vos también podés necesitar tiempo, práctica y la ayuda de alguien de confianza para reconocer cómo te habla el Padre Celestial. Lo importante no es acertar a la primera. Lo importante es seguir escuchando, seguir preguntando, y estar dispuesto a decir, como Samuel: \"Habla, Jehová, que tu siervo escucha\". Esa disposición, más que la experiencia, es lo que abre la puerta a la revelación personal.",
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Cómo describirías la 'voz del Señor' en tu propia experiencia? ¿Llega como pensamiento, sentimiento, impresión, u otra cosa?",
-          "¿Alguna vez necesitaste que alguien más —como Elí con Samuel— te ayudara a reconocer que el Señor te estaba hablando?",
-          "¿Qué cosas de tu vida cotidiana hacen más difícil escuchar al Señor?",
-          "¿Qué condiciones necesitás en tu día para poder escuchar al Espíritu con más claridad?",
-          "¿Qué significa para vos decir 'Habla, Señor, tu siervo oye' en tu oración de esta semana?",
-          "¿Qué ajuste concreto en tus hábitos diarios te permitiría ser más receptivo a la voz del Señor?",
+          "¿Cuántas veces necesitó Samuel escuchar el llamado del Señor antes de entender lo que estaba pasando?",
+          "¿Con qué parte del relato de Samuel te identificás más: con la confusión inicial, o con el momento en que por fin entiende?",
+          "¿Alguna vez sentiste una impresión o una idea que después te diste cuenta de que venía del Espíritu Santo, pero no lo reconociste en el momento?",
+          "¿Por qué creés que el Señor necesitó llamar a Samuel tres veces en lugar de explicarle todo de una sola vez?",
+          "¿A quién de confianza podrías contarle esta semana sobre una impresión espiritual que hayas tenido, como Samuel le contó a Elí?",
+          "¿Qué vas a hacer esta semana para practicar el reconocer la voz del Señor, ya sea en la oración, en las Escrituras o en tu vida diaria?",
         ],
       },
     ],
@@ -1088,8 +1080,8 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         fuente: "\"Había pan\", Liahona, noviembre de 2020, pág. 43",
         texto:
           "El Señor no espera que hagamos más de lo que podemos, pero sí espera que hagamos lo que podemos hacer, cuando podamos hacerlo. Estar preparados temporalmente y ser autosuficientes significa \"creer que por medio de la gracia, o el poder habilitador de Jesucristo, y nuestro propio esfuerzo, podemos obtener todos los elementos espirituales y temporales indispensables de la vida que requerimos para nosotros mismos y nuestra familia\".",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/25waddell?lang=spa",
-        // ⚠️ ERROR GRAVE corregido: esta cita NO es del presidente Nelson. Es del obispo W. Christopher Waddell, en su discurso "Había pan" (no "Hubo pan"). El archivo original atribuía la cita, el título y el link a la persona equivocada.
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/25waddell?lang=spa&id=p16,p21#p16",
+        
       },
       {
         tipo: "conclusion",
@@ -1152,8 +1144,8 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         fuente: "\"Dediquen tiempo al Señor\", Liahona, noviembre de 2021, pág. 120",
         texto:
           "Las voces y presiones del mundo son numerosas y atractivas, pero muchas de esas voces son engañosas, seductoras y pueden desviarnos de la senda de los convenios. Para evitar la inevitable angustia que le sigue, hoy les ruego que contrarresten el encanto del mundo dedicando tiempo al Señor en su vida, todos y cada uno de los días.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/59nelson?lang=spa",
-        // ⚠️ Título corregido ("Hagan tiempo para el Señor" → "Dediquen tiempo al Señor", título oficial). Link corregido: el archivo decía "46nelson"; el discurso real es "59nelson" (palabras de clausura, octubre de 2021).
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/59nelson?lang=spa&id=p4#p4",
+        
       },
       {
         tipo: "conclusion",
@@ -1214,9 +1206,8 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "\"Afrontar el futuro con fe\", Liahona, mayo de 2011, pág. 34",
         texto:
-          "Adviértanles que se encontrarán con personas que escogerán cuáles mandamientos guardarán e ignorarán otros que han escogido desobedecer. A ese enfoque, lo llamo el \"buffet de la obediencia\". Esa práctica de seleccionar y escoger cuáles obedecer no funcionará; los conducirá al sufrimiento. Al prepararse para comparecer ante Dios, uno guarda todos Sus mandamientos.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/04/face-the-future-with-faith?lang=spa",
-        // ⚠️ Título corregido ("Encaremos el futuro con fe" → "Afrontar el futuro con fe", título oficial). Cita ajustada a la redacción textual (el discurso dice "buffet de la obediencia", no "enfoque de cafetería").
+          "[Tengan] fe para guardar todos los mandamientos de Dios, sabiendo que se dan para bendecir a Sus hijos y brindarles gozo. […] Se encontrarán con personas que escogerán cuáles mandamientos guardarán e ignorarán otros que han escogido desobedecer. A ese enfoque, lo llamo el “bufé de la obediencia”. Esa práctica de seleccionar y escoger cuáles obedecer no funcionará; los conducirá al sufrimiento. Al prepararse para comparecer ante Dios, uno guarda todos Sus mandamientos. Requiere fe el obedecerlos, y el guardar Sus mandamientos fortalecerá esa fe.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/04/face-the-future-with-faith?lang=spa&id=p12#p12",
       },
       {
         tipo: "conclusion",
@@ -1277,11 +1268,10 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "\"Cristo ha resucitado; la fe en Él moverá montañas\", Liahona, mayo de 2021, pág. 102–103",
-        texto:
-          "Mi llamado a ustedes es que comiencen hoy a aumentar su fe. Mediante su fe, Jesucristo aumentará la capacidad de ustedes para mover los montes que haya en su vida, aunque sus desafíos personales puedan ser tan grandes como el monte Everest. Sus montes serán distintos; no obstante, la respuesta a cada uno de sus desafíos es aumentar su fe.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/42nelson?lang=spa",
+        autor: "Elder Jeffrey R. Holland",
+        fuente: "\"Jehova Hará mañana maravillas entre vosotros\", Liahona, mayo de 2016, pág. 14",
+        texto: "De modo que recuerden, mañana y todos los días después, que el Señor bendice a aquellos que desean mejorar, que aceptan la necesidad de los mandamientos y tratan de guardarlos, que atesoran las virtudes semejantes a las de Cristo y se esfuerzan, al máximo de sus posibilidades, por adquirirlas. Si tropiezan en ese esfuerzo, también lo hacen los demás. El Salvador está allí para ayudarlos a seguir adelante. Si caen, soliciten Su fortaleza […]; con el tiempo, lograrán el éxito que buscan.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/04/tomorrow-the-lord-will-do-wonders-among-you?lang=spa&id=p14#p14",
       },
       {
         tipo: "conclusion",
@@ -1343,10 +1333,9 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente: "\"¡Piensen de manera celestial!\", Liahona, noviembre de 2023",
-        // ⚠️ Título corregido ("Piensa celestialmente" → "¡Piensen de manera celestial!", título oficial).
         texto:
           "Cuando era un joven interno, mi ingreso era de $15 al mes. Una noche, mi esposa Dantzel me preguntó si estaba pagando diezmo sobre ese estipendio tan modesto. No lo estaba haciendo. Me arrepentí rápidamente y comencé a pagar el $1,50 adicional de diezmo mensual. ¿Fue la Iglesia diferente porque aumentamos nuestro diezmo? Por supuesto que no. Sin embargo, convertirme en un pagador de diezmo completo me cambió a mí. Fue entonces cuando aprendí que pagar el diezmo tiene que ver con la fe, no con el dinero. Al convertirme en un pagador de diezmo completo, las ventanas del cielo comenzaron a abrirse para mí.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/10/51nelson?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/10/51nelson?lang=spa&id=p24-p26#p24",
       },
       {
         tipo: "conclusion",
@@ -1407,10 +1396,9 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Dieter F. Uchtdorf",
         fuente: "\"Su maravillosa travesía a casa\", Liahona, mayo de 2013, pág. 128",
-        // ⚠️ Título corregido ("Tu maravilloso viaje a casa" → "Su maravillosa travesía a casa", título oficial). Cita verificada como textual.
         texto:
           "El interés que el Padre Celestial tiene en ustedes no se basa en la riqueza, la belleza, la salud o la inteligencia que posean. Él no los ve como el mundo los ve. Él ve quiénes son en realidad; Él ve su corazón y Él los ama porque son Sus hijos.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/your-wonderful-journey-home?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/your-wonderful-journey-home?lang=spa&id=p45#p45",
       },
       {
         tipo: "conclusion",

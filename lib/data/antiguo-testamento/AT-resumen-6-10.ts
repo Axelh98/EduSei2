@@ -40,7 +40,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "\"Ven, sígueme\", Liahona, mayo de 2019, pág. 90",
         texto: "Sean humildes. En oración pidan tener ojos para ver la mano de Dios en su vida y en el mundo que los rodea. Pídanle que les diga si realmente está allí, si realmente los conoce. Pregúntenle qué siente Él por ustedes y luego, escuchen.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/46nelson?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/46nelson?lang=spa&id=p33#p33",
       },
       {
         tipo: "conclusion",
@@ -220,9 +220,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Richard G. Scott",
-        fuente: "\"Cómo obtener revelación e inspiración en tu propia vida\", Liahona, mayo de 2012",
-        texto: "La comunicación con nuestro Padre Celestial no es un asunto trivial. Es un privilegio sagrado. Está basada en principios eternos que no cambian. Recibimos ayuda de nuestro Padre Celestial en respuesta a nuestra fe, obediencia y al uso apropiado del albedrío.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2012/04/how-to-obtain-revelation-and-inspiration-for-your-personal-life?lang=spa",
+        fuente: "\"El poder de las Escrituras\", Liahona, Noviembre de 2011",
+        texto: "Se obtiene un gran poder al memorizar pasajes de Escrituras. El memorizar un pasaje es como crear una nueva amistad",
+        link: "hhttps://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa&id=p9#p9",
       },
       {
         tipo: "conclusion",
@@ -281,7 +281,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Hermano Milton Camargo",
         fuente: "\"Céntrense en Jesucristo\", Liahona, mayo de 2023, pág. 64",
         texto: "Mi padre solía decirme: 'No te centres tanto en tus problemas que no puedas ver la solución.' Testifico que el Señor Jesucristo es la solución incluso para nuestros problemas más difíciles. Él puede tener una presencia activa y diaria en nuestra vida.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/04/32camargo?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/04/32camargo?lang=spa&id=p1#p1",
       },
       {
         tipo: "conclusion",
@@ -340,7 +340,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Élder David A. Bednar",
         fuente: "\"Los principios de mi evangelio\", Liahona, mayo de 2021, pág. 126",
         texto: "Los principios del Evangelio son para mí y para ti lo que el timón es para un barco. Los principios correctos nos permiten encontrar nuestro camino y mantenernos firmes, constantes e inamovibles, de modo que no perdamos el equilibrio y caigamos en las tempestuosas tormentas de oscuridad y confusión de los últimos días.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/56bednar?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/56bednar?lang=spa&id=p30#p30",
       },
       {
         tipo: "conclusion",
@@ -398,7 +398,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
         fuente: "\"Pan de cada día: Modelos\", Biblioteca del Evangelio (video), agosto de 2013",
-        texto: "Todos reconocemos la necesidad de sustento físico. El hambre y la sed nos lo recuerdan muy claramente si nos olvidamos. Pero la necesidad espiritual de sustento es igualmente fuerte.",
+        texto: "Todos reconocemos la necesidad de la nutrición física. El hambre y la sed nos la recuerdan claramente si la olvidamos. Pero la nutrición espiritual es igualmente necesaria",
         link: "https://www.churchofjesuschrist.org/study/video/inspirational-messages/2013-08-012-daily-bread-pattern?lang=spa",
         // ⚠️ El link original en este archivo estaba roto (media/video/2013-08-0012-...). Corregido a la URL real del video.
         // ⚠️ El video es solo audio/imagen (sin transcripción publicada); no pude verificar esta frase palabra por palabra contra un guion oficial, aunque el tema y el video son reales y coinciden con el manual de la Lección 47.
@@ -460,7 +460,14 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "\"Revelación para la Iglesia, revelación para nuestras vidas\", Liahona, mayo de 2018, pág. 96",
         texto: "En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&id=p37#p37",
+      },
+            {
+        tipo: "enseñanza",
+        autor: "Elder Rondald A. Rasband",
+        fuente: "\"Deja que el Espíritu Santo te enseñe\", Liahona, mayo de 2017, pág. 94",
+        texto: "Mi experiencia ha sido que el Espíritu se comunica con mayor frecuencia en forma de sentimientos. Lo sienten en palabras que les son familiares, que tienen sentido para ustedes, que los inspiran. […] La voz del Santo Espíritu es apacible y delicada",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/let-the-holy-spirit-guide?lang=spa&id=p23#p23",
       },
       {
         tipo: "conclusion",
@@ -579,7 +586,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "\"El convenio sempiterno\", Liahona, octubre de 2022, pág. 6",
         texto: "Una vez que ustedes y yo hemos hecho un convenio con Dios, nuestra relación con Él se vuelve mucho más estrecha que antes del convenio. Ahora estamos ligados en unión. Debido a nuestro convenio con Dios, Él jamás cejará en Sus esfuerzos por ayudarnos, y nunca agotaremos Su misericordiosa paciencia para con nosotros. Cada uno de nosotros tiene un lugar especial en el corazón de Dios.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa&id=p14#p14",
       },
       {
         tipo: "conclusion",
@@ -638,7 +645,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "\"El día de reposo es una delicia\", Liahona, mayo de 2015, pág. 130",
         texto: "No fue sino hasta más adelante que aprendí de las Escrituras que mi conducta y mi actitud en el día de reposo constituían una señal entre mi Padre Celestial y yo. Con ese entendimiento, ya no necesité más listas de lo que se podía y no se podía hacer. Cuando tenía que tomar una decisión en cuanto a si una actividad era o no era apropiada para el día de reposo, simplemente me preguntaba a mí mismo: '¿Qué señal quiero darle a Dios?'. Esa pregunta hizo que mis opciones respecto al día de reposo fueran bien claras. ... ¿Qué señal le darás al Señor para demostrarle tu amor por Él?",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa&id=p11#p11",
       },
       {
         tipo: "conclusion",
@@ -697,7 +704,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Élder Gerrit W. Gong",
         fuente: "\"Felices y para siempre\", Liahona, noviembre de 2022, pág. 84",
         texto: "En contraste, aquellos que deliberadamente escogen la iniquidad, quienes conscientemente demoran el arrepentimiento o de cualquier manera premeditada y con conocimiento quebrantan los mandamientos planeando un arrepentimiento sencillo, serán juzgados por Dios [...]. No podemos pecar a sabiendas el sábado y luego esperar un perdón automático por participar de la Santa Cena el domingo. [...] Ninguno de nosotros debe posponer el arrepentimiento. Las bendiciones del arrepentimiento comienzan en el momento en que comenzamos a arrepentirnos.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/43gong?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/43gong?lang=spa&id=p23#p23",
         // ⚠️ Link corregido: el archivo original decía "37gong", número de discurso incorrecto para esta conferencia; el discurso real es "43gong". Cita ajustada a la redacción textual.
       },
       {
@@ -754,10 +761,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Neil L. Andersen",
-        fuente: "\"El ojo de la fe\", Liahona, mayo de 2019, pág. 35",
-        texto: "Contemplen ahora esta obra artística de Michael Murphy. Desde esta perspectiva, difícilmente creerán que se trate de una representación artística del ojo humano. Sin embargo, si observan los puntos desde una perspectiva diferente, apreciarán la belleza de la creación del artista. De igual modo, nosotros vemos las verdades espirituales de Dios desde la perspectiva del ojo de la fe.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/25andersen?lang=spa",
+        autor: "Élder David A. Bednar",
+        fuente: "\"Con esto los probaremos\", Liahona, noviembre de 2020, pág. 11",
+        texto: "La fidelidad no es ser insensato ni fanático. Más bien, es confiar y depositar nuestra confianza en Jesucristo como nuestro Salvador, en Su nombre y en Sus promesas. Al “seguir adelante con firmeza en Cristo, teniendo un fulgor perfecto de esperanza y amor por Dios y por todos los hombres” [2 Nefi 31:20], somos bendecidos con una perspectiva y una visión eternas que se extienden mucho más allá de nuestra limitada capacidad mortal",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/12bednar?lang=spa&id=p35#p35",
         // Cita ajustada a la redacción textual del discurso; link confirmado correcto.
       },
       {
@@ -817,7 +824,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "\"El templo y el cimiento espiritual de ustedes\", Liahona, noviembre de 2021, pág. 95",
         texto: "Si todavía no les gusta ir al templo, vayan con más frecuencia, no menos. Permitan que el Señor, mediante Su Espíritu, les enseñe y los inspire allí. Les prometo que, con el tiempo, el templo se convertirá en un lugar de seguridad, consuelo y revelación.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/47nelson?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/47nelson?lang=spa&id=p29#p29",
         // ⚠️ Título corregido ("tu fundamento espiritual" → "el cimiento espiritual de ustedes", título oficial). Link corregido: el archivo original apuntaba a "49nelson", que no es este discurso; el discurso real es "47nelson". Cita ajustada a la forma "ustedes" (texto oficial).
       },
       {
@@ -875,9 +882,9 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Dallin H. Oaks",
-        fuente: "\"¿Qué ha hecho nuestro Salvador por nosotros?\", Liahona, mayo de 2021, pág. 77",
-        texto: "Y nuestro Salvador padeció por voluntad propia todos los dolores y debilidades terrenales a fin de saber cómo fortalecernos en nuestras aflicciones. Jesucristo hizo todo esto porque ama a todos los hijos de Dios. El amor es la motivación de todo ello, y así fue desde el principio.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/35oaks?lang=spa",
+        fuente: "\"¿Qué ha hecho nuestro Salvador por nosotros?\", Liahona, mayo de 2021, pág. 76",
+        texto: "Nuestro Salvador y Redentor soportó un sufrimiento incomprensible para convertirse en un sacrificio por los pecados de todos los seres mortales que se arrepientan. Ese sacrificio expiatorio ofreció el bien supremo, el Cordero puro y sin mancha, a cambio de la medida suprema de la maldad: los pecados del mundo entero. Nos abrió la puerta a todos nosotros para que seamos limpios de nuestros propios pecados a fin de que podamos ser readmitidos en la presencia de Dios, nuestro Padre Eterno. Esa puerta abierta está disponible para todos los hijos de Dios.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/35oaks?lang=spa&id=p15#p15",
         // Cita ajustada a la redacción textual del discurso; link confirmado correcto.
       },
       {
@@ -1001,8 +1008,8 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder J. Devn Cornish",
         fuente: "\"¿Soy lo suficientemente bueno? ¿Lo lograré?\", Liahona, noviembre de 2016, pág. 33",
-        texto: "Si debemos comparar, comparemos cómo éramos en el pasado con cómo somos hoy, e incluso con cómo queremos ser en el futuro.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/am-i-good-enough-will-i-make-it?lang=spa",
+        texto: "Por favor, mis queridos hermanos y hermanas, debemos dejar de compararnos con los demás; nos torturamos inútilmente al competir y compararnos. Erróneamente juzgamos nuestra autoestima según las cosas que tenemos o no tenemos y por las opiniones de los demás. Si tenemos que comparar, comparemos cómo éramos en el pasado a cómo somos hoy, e incluso a cómo queremos ser en el futuro. La única opinión que importa es lo que nuestro Padre Celestial piensa de nosotros. Por favor, pregúntenle con sinceridad lo que Él piensa de ustedes. Él nos ama y nos corrige pero nunca nos desanima; ese es el truco de Satanás.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/am-i-good-enough-will-i-make-it?lang=spa&id=p9#p9",
       },
       {
         tipo: "conclusion",
@@ -1022,66 +1029,69 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
     ],
   },
-  {
-    id: "leccion-56",
-    title: "Lección 56: Números 11–14",
-    type: "Antiguo Testamento - Ven Sigueme",
-    description: "Los espías en Canaán: el reporte del miedo versus el reporte de la fe",
-    chapterUrl:
-      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/18-numbers-11-14/181-numbers-11-14?lang=spa",
-    questions: [],
-    secciones: [
-      {
-        tipo: "contexto",
-        contenido:
-          "Después de dos años en el desierto, Israel llegó a las fronteras de Canaán —la tierra prometida. Moisés envió doce espías a explorarla durante cuarenta días. Los doce vieron exactamente las mismas cosas: ciudades amuralladas enormes, y habitantes de gran estatura, los descendientes de Anac que parecían gigantes.\n\nPero los doce sacaron conclusiones completamente diferentes de los mismos datos.\n\nDiez de ellos dieron un reporte de miedo: 'No podremos subir contra aquel pueblo, porque es más fuerte que nosotros. Éramos nosotros, a nuestro parecer, como langostas; y así les parecíamos a ellos' (Números 13:31, 33). Fijate en la imagen: se vieron a sí mismos como langostas. Eso no era una descripción objetiva —era la perspectiva del miedo.\n\nSolo Caleb y Josué dieron un reporte diferente: 'Si Jehová se agradare de nosotros, él nos llevará a esta tierra... el Señor está con nosotros; no los temáis' (Números 14:8–9). No vieron gigantes más pequeños. Vieron a un Dios más grande.\n\nEl pueblo eligió el reporte del miedo. La consecuencia fue devastadora: cuarenta años más en el desierto. La generación que creyó que no podía nunca entró a la tierra prometida. Solo entraron los que creyeron que con el Señor podían.\n\nEsa elección —el reporte del miedo o el reporte de la fe— se repite en tu vida cada vez que enfrentás algo que parece demasiado grande para vos.",
-      },
-      {
-        tipo: "escrituras",
-        citas: [
-          {
-            referencia: "Números 14:8–9",
-            texto: "Si Jehová se agradare de nosotros, él nos llevará a esta tierra, y nos la entregará... con nosotros está Jehová; no los temáis.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/num/14?lang=spa&id=p8-p9#p8",
-          },
-          {
-            referencia: "Números 13:33",
-            texto: "También vimos allí gigantes... y éramos nosotros, a nuestro parecer, como langostas; y así les parecíamos a ellos.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/num/13?lang=spa&id=p33#p33",
-          },
-          {
-            referencia: "1 Nefi 3:7",
-            texto: "Yo iré y haré las cosas que el Señor ha mandado, pues sé que el Señor no da mandamientos a los hijos de los hombres sin prepararles el camino para que puedan cumplirlos.",
-            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=spa&id=p7#p7",
-          },
-        ],
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Kevin R. Duncan",
-        fuente: "\"No sean rebeldes, ni teman\", Liahona, abril de 2022, pág. 46",
-        texto: "Por supuesto que hay muchos más ejemplos, pero la lección es clara: cada desafío y cada obstáculo que afrontamos es una oportunidad para escoger, como hicieron Josué y Caleb, confiar en el Señor. El consejo \"no seáis rebeldes […], ni temáis\" (Números 14:9) fue un buen consejo para los hijos de Israel, y sigue siéndolo para cada uno de nosotros en la actualidad.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2022/04/come-follow-me/19-rebel-not-neither-fear?lang=spa",
-        // ⚠️ Título corregido ("No se rebelen... ni tengan miedo" → "No sean rebeldes, ni teman", título oficial). Link corregido: faltaba el segmento "/come-follow-me/19-" de la URL real.
-      },
-      {
-        tipo: "conclusion",
-        contenido:
-          "Los diez espías y Caleb y Josué miraron las mismas ciudades amuralladas y los mismos gigantes. Lo que los separó no fue información diferente sino fe diferente. La fe de Caleb y Josué no negaba a los gigantes —los veían claramente— pero los medían con una escala diferente: la del Dios que había dividido el Mar Rojo. Esa perspectiva es la que cambia lo imposible en posible. Esta semana, identificá un 'gigante' en tu vida y preguntate: ¿cómo lo ve el Señor?",
-      },
-      {
-        tipo: "cuestionario",
-        preguntas: [
-          "¿Con cuál grupo te identificás más en esta historia: con los diez espías o con Caleb y Josué? ¿Por qué?",
-          "Los diez espías se vieron a sí mismos como 'langostas'. ¿Hay alguna situación en tu vida donde tu autopercepción te impide actuar con la fe que tenés?",
-          "¿Cuáles son los 'gigantes' —miedos, obstáculos, circunstancias— de tu vida que parecen imposibles de vencer? ¿Cómo los verías desde la perspectiva de Dios?",
-          "¿Alguna vez elegiste el 'reporte del miedo' en una decisión importante? ¿Qué pasó? ¿Qué hubieras hecho diferente?",
-          "La generación que creyó que no podía nunca entró a la tierra prometida. ¿Qué bendiciones prometidas podrías estar perdiéndote por dar más peso al miedo que a la fe?",
-          "¿Qué diferencia práctica hace en tus decisiones de esta semana recordar que 'el Señor está con nosotros'?",
-        ],
-      },
-    ],
-  },
+{
+  id: "leccion-56",
+  title: "Lección 56: Números 11–14",
+  type: "Antiguo Testamento - Ven Sigueme",
+  description: "Escoger la fe en lugar del temor",
+  chapterUrl:
+    "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/18-numbers-11-14-21/181-numbers-11-14?lang=spa",
+  questions: [],
+  secciones: [
+    {
+      tipo: "contexto",
+      contenido:
+        "Israel ya había salido de Egipto. El Señor los guiaba con una columna de nube de día y de fuego de noche. Ahora estaban en la frontera de Canaán, la tierra que Dios les había prometido. El Señor le dijo a Moisés que enviara a doce hombres, uno por cada tribu, para explorar esa tierra antes de entrar en ella.\n\nLos doce espías recorrieron Canaán durante cuarenta días. Vieron una tierra fértil: cortaron un racimo de uvas tan grande que dos hombres tuvieron que cargarlo entre ambos. Pero también vieron ciudades amuralladas y hombres de gran estatura. Cuando volvieron, dieron su informe frente a todo el pueblo.\n\nDiez de los espías hablaron con miedo. Dijeron que el pueblo de Canaán era más fuerte que Israel y que no había manera de vencerlos. Se compararon con esos hombres y sintieron que eran diminutos, \"como langostas\" ante ellos. Esa misma noche, el pueblo escuchó el informe y empezó a llorar y a quejarse contra Moisés.\n\nCaleb y Josué vieron la misma tierra, pero con otros ojos. Caleb hizo callar al pueblo y dijo que sí podían conquistarla. Él y Josué recordaban lo que el Señor ya había hecho por Israel: las plagas en Egipto, el cruce del Mar Rojo, el maná de cada mañana. No negaron que existieran obstáculos reales. Simplemente eligieron confiar en que Dios cumpliría Su promesa, a pesar de los gigantes.\n\nLa diferencia entre los doce espías no fue lo que vieron con sus ojos. Fue cómo decidieron responder a lo que vieron. Diez eligieron el temor. Dos eligieron la fe.\n\nA vos también te va a tocar mirar de frente un desafío que parece más grande que vos: un examen que te supera, una conversación incómoda con tus padres, o el miedo a hablar de tu fe delante de tus amigos. El obstáculo puede ser real. La pregunta es si vas a enfrentarlo como los diez espías o como Caleb y Josué.",
+    },
+    {
+      tipo: "escrituras",
+      citas: [
+        {
+          referencia: "Números 13:30",
+          texto:
+            "Entonces Caleb hizo callar al pueblo delante de Moisés, y dijo: Subamos enseguida, y poseámosla, porque ciertamente podremos apoderarnos de ella.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/num/13?lang=spa&id=p30#p30",
+        },
+        {
+          referencia: "Números 14:8–9",
+          texto:
+            "Si Jehová se agrada de nosotros, él nos llevará a esa tierra y nos la entregará; es una tierra que fluye leche y miel. Por tanto, no seáis rebeldes contra Jehová, ni temáis al pueblo de esta tierra, porque son como pan para nosotros; su amparo se ha apartado de ellos y con nosotros está Jehová. No los temáis.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/num/14?lang=spa&id=p8-p9#p8",
+        },
+        {
+          referencia: "Números 14:24",
+          texto:
+            "Pero mi siervo Caleb, por cuanto hubo en él otro espíritu y me ha seguido fielmente, yo le llevaré a la tierra donde entró y su descendencia la recibirá en heredad.",
+          link: "https://www.churchofjesuschrist.org/study/scriptures/ot/num/14?lang=spa&id=p24#p24",
+        },
+      ],
+    },
+    {
+      tipo: "enseñanza",
+      autor: "Presidente Dieter F. Uchtdorf",
+      fuente: "Liahona, mayo de 2017, pág. 106",
+      texto:
+        "Por lo tanto, no ignoramos los desafíos del mundo ni tampoco desconocemos las dificultades de nuestros tiempos, pero eso no significa que debemos permitir constantemente que el temor nos agobie a nosotros mismos o a otras personas. En vez de centrarnos en la inmensidad de nuestros desafíos, ¿no sería mejor enfocarnos en la grandeza infinita, bondad y poder absoluto de nuestro Dios, confiar en Él y prepararnos con un corazón alegre para el regreso de Jesús el Cristo?",
+      link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/perfect-love-casteth-out-fear?lang=spa&id=p45-p46#p45",
+    },
+    {
+      tipo: "conclusion",
+      contenido:
+        "El relato de los doce espías nos enseña que la fe y el temor no son solamente sentimientos que nos pasan; son decisiones que tomamos frente a lo que vemos. Caleb y Josué vieron los mismos gigantes y las mismas ciudades amuralladas que los otros diez, pero eligieron recordar el poder de Dios en lugar de quedarse solo con el tamaño del problema. Confiar en el Señor puede ayudarnos a ver nuestros desafíos con fe y no con temor. Esta semana vas a tener al menos una oportunidad de elegir entre esas dos respuestas. Cuando llegue ese momento, elegí ser como Caleb: reconocé el obstáculo, pero avanzá confiando en que Dios va a cumplir Su palabra.",
+    },
+    {
+      tipo: "cuestionario",
+      preguntas: [
+        "¿Con cuál de los doce espías te identificás más en este momento de tu vida: con los diez que tuvieron miedo o con Caleb y Josué?",
+        "¿Qué fue lo que más te llamó la atención del informe de los espías sobre Canaán?",
+        "¿Alguna vez viviste algo parecido a lo que vivieron los espías: mirar el mismo problema que otra persona y sentir más miedo que fe? ¿Qué pasó?",
+        "¿Qué recuerdos de la ayuda de Dios en tu propia vida podrían darte más fe la próxima vez que enfrentes un desafío grande?",
+        "¿Qué desafío concreto estás enfrentando ahora mismo con más temor que fe? ¿Qué podrías hacer esta semana para elegir la fe en esa situación?",
+        "¿A quién podrías contarle sobre un desafío que estás enfrentando, para pedirle que ore por vos esta semana?",
+      ],
+    },
+  ],
+},
   {
     id: "leccion-57",
     title: "Lección 57: Números 21",
@@ -1178,11 +1188,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Documento de base del Dominio de la doctrina, 2023",
-        fuente: "Sección \"Adquirir conocimiento espiritual\", párrafos 11–12",
-        texto: "El Padre Celestial desea contestar tus preguntas sinceras y ha proporcionado fuentes confiables para guiarte. Buscar respuestas en fuentes confiables puede marcar la diferencia entre aprender la verdad y ser engañado por ideas falsas.",
-        link: "https://www.churchofjesuschrist.org/study/manual/doctrinal-mastery-core-document-2023?lang=spa",
-        // ⚠️ El manual del maestro 2026 de L165 no usa una cita de líder individual; cita el Documento de base del Dominio de la Doctrina
+        autor: "Presidente Dallin H. Oaks",
+        fuente: "\"La verdad y el plan\" Liahona, noviembre de 2018, pág. 25",
+        texto: "Vivimos en una época de información ampliamente expandida y diseminada, pero no toda esa información es verdadera. Debemos ser prudentes al buscar la verdad y elegir fuentes para realizar esa búsqueda No debemos considerar el prestigio o la autoridad secular como fuentes de verdad fidedignas. Debemos tener cuidado con fiarnos de información o consejos que ofrezcan las celebridades, los atletas destacados o las fuentes anónimas de internet. La pericia en un campo no se debe tomar como pericia sobre la verdad en otros temas",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/truth-and-the-plan?lang=spa&id=p4#p4",
       },
       {
         tipo: "conclusion",
@@ -1238,11 +1247,11 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "Conference Report, octubre de 1964, pág. 118; recogida en Enseñanzas de los Presidentes de la Iglesia: Gordon B. Hinckley, cap. 17",
-        texto: "Junto con todo lo que aprendemos, aprendamos también de Él. Junto con todo lo que estudiamos, debemos procurar el conocimiento del Maestro. Ese conocimiento complementará maravillosamente nuestra formación secular y nos proveerá el carácter y la vida plena que no se obtienen de ninguna otra forma.",
-        link: "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-gordon-b-hinckley/chapter-17-continue-in-the-great-process-of-learning?lang=spa",
-        // ⚠️ Link mejorado: el discurso original de 1964 no está publicado individualmente en el sitio en español; en vez de enlazar a una lección de seminario que solo menciona la cita de paso, se enlaza al capítulo del manual "Enseñanzas de los Presidentes de la Iglesia" que reproduce la cita completa y la atribuye correctamente.
+        autor: "Elder David A. Bednar",
+        fuente: "Preparados para recibir cuanto fuere necesario, Liahona, mayo de 2019, pág. 10",
+        texto: "Nuestra responsabilidad personal es aprender lo que debemos aprender, vivir como sabemos que debemos vivir, y llegar a ser lo que el Maestro quiere que seamos.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2019/05/54bednar?lang=spa&id=p4#p4",
+       
       },
       {
         tipo: "conclusion",
