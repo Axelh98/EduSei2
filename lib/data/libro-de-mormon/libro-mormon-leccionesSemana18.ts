@@ -1,12 +1,40 @@
 import type { Lesson } from "@/lib/types"
 
 // ══════════════════════════════════════════════════════════════════════════════════
-// 📖 LIBRO DE MORMÓN - SEMANA 18: ALMA 17-19
+// 🔍 AUDITORÍA DE CITAS PROFÉTICAS (visitado el manual oficial 2024, en español e inglés,
+//    para las 3 lecciones de esta semana):
+//
+//   Alma 17 (Nelson):  ✅ cita real y correctamente atribuida. El manual (271-teacher) sí usa
+//                          este pasaje de "Cómo obtener el poder de Jesucristo en nuestra vida"
+//                          (Conferencia General, abril de 2017 / Liahona, mayo de 2017, págs. 39–42).
+//                          Solo faltaba el campo `link` (no existía en el archivo original) y se
+//                          ajustó la fuente para incluir el rango de páginas correcto.
+//
+//   Alma 18 (Eyring):  ✅ cita real y correctamente atribuida. El manual (272-teacher) sí usa este
+//                          pasaje de "El Libro de Mormón cambiará sus vidas" (Liahona, febrero de
+//                          2004). El archivo original tenía las páginas equivocadas (17–18 en vez
+//                          de 13–14) y le faltaba el `link`. El discurso es de 1990 (CES) pero se
+//                          publicó en Ensign/Liahona en 2004; se corrigió la fuente para reflejar
+//                          esto con precisión.
+//
+//   Alma 19 (Bednar):  ✅ cita real y correctamente atribuida. El manual (273-teacher) sí usa este
+//                          pasaje de "Convertidos al Señor" (Conferencia General, octubre de 2012 /
+//                          Liahona, noviembre de 2012, págs. 107–108). Se corrigió el rango de
+//                          páginas (era solo "108") y se agregó el `link`.
+//
+//   Las 3 citas del archivo original eran genuinas — el problema no eran citas inventadas, sino
+//   metadatos incompletos (falta de `link` en las 3, páginas imprecisas en 2 de 3).
+//
+// 🔧 OTRAS CORRECCIONES DE FORMATO (no relacionadas a las citas de líderes):
+//   - Se eliminaron ~57 artefactos de numeración tipo "[1]", "[2, 3]" que habían quedado de un
+//     proceso de investigación anterior y no tienen ningún significado dentro de este archivo
+//     (no son notas al pie reales ni corresponden a ningún sistema de citado del sitio).
+//   - `contexto` y `conclusion` se reescribieron para cumplir con el rango de palabras de la skill
+//     (260–320 y 80–130 respectivamente para lecciones "Libro de Mormón - Ven Sigueme") y para
+//     incluir una conexión explícita con la vida de un adolescente, como pide la skill.
+//   - `cuestionario` se expandió de 5 a exactamente 6 preguntas, organizadas en los 3 roles que
+//     pide la skill: abridoras (1–2), profundizadoras (3–4) y de compromiso (5–6).
 // ══════════════════════════════════════════════════════════════════════════════════
-// ✅ BASADO EN EL CONTENIDO REAL DEL MANUAL OFICIAL DE SEMINARIO 2024
-// ✅ Escrituras extraídas directamente de cada lección del manual
-// ✅ Citas textuales de líderes de la Iglesia del manual oficial
-// ✅ Todos los enlaces verificados y funcionando según formato estándar
 
 export const leccionesSemana18_LM: Lesson[] = [
 
@@ -23,7 +51,7 @@ export const leccionesSemana18_LM: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Tras catorce años de separación, Alma se reencuentra con los hijos de Mosíah, quienes regresaban de una misión entre los lamanitas [1]. Estos misioneros se habían preparado diligentemente mediante el estudio de las Escrituras, la oración y el ayuno, lo que les permitió enseñar con el poder y la autoridad de Dios [2, 3]. Al llegar a la tierra de Ismael, Ammón fue capturado y llevado ante el rey Lamoni, a quien sorprendió al ofrecerse como su siervo [4]. Mientras cuidaba los rebaños, Ammón se enfrentó a un grupo de hombres que intentaban dispersar las ovejas en las aguas de Sebus [5]. Con una fe inquebrantable en las promesas del Señor, Ammón defendió los rebaños con tal poder que los otros siervos quedaron maravillados ante su fuerza sobrehumana [5, 6]. Esta experiencia demuestra que el Señor concede Su fortaleza y poder a Sus siervos que se esfuerzan por hacer Su voluntad [7]. Ammón reconoció posteriormente que su gozo y fuerza no provenían de sí mismo, sino que se gloriaba en su Dios [7]. Su ejemplo de servicio desinteresado abrió las puertas para que el poder de Dios se manifestara en una tierra difícil [4, 8]."
+        contenido: "Tras catorce años de separación, Alma se reencuentra con los hijos de Mosíah, que regresaban de una larga misión entre los lamanitas. Antes de partir, estos misioneros se habían preparado en serio: estudiaron las Escrituras, ayunaron y oraron durante mucho tiempo, y por eso pudieron enseñar con el poder y la autoridad de Dios. Cuando Ammón llega a la tierra de Ismael, es capturado y llevado ante el rey Lamoni. Ahí sorprende a todos al ofrecerse como su siervo, en lugar de pedir un puesto de honor. Mientras cuida los rebaños del rey, un grupo de hombres intenta dispersarlos en las aguas de Sebus. Ammón los enfrenta con una fe firme en las promesas del Señor y defiende el rebaño con una fuerza que deja maravillados a los demás siervos. Más tarde, con sus propias palabras, reconoce que ese gozo y esa fuerza no eran suyos: se gloría en su Dios, no en sí mismo. Su decisión de servir primero, antes de predicar una sola palabra, es lo que abre la puerta para que el poder de Dios se manifieste en una tierra difícil. Es fácil pensar que la fortaleza espiritual aparece de la nada justo cuando la necesitamos, pero el relato muestra otra cosa: Ammón ya se había preparado durante años antes de ese momento. Tal vez a vos también te toque \"defender el rebaño\" esta semana, ya sea sosteniendo tu fe frente a la burla de un grupo o encontrando el valor para hacer lo correcto cuando nadie más lo hace. La pregunta no es si vas a tener esos momentos, sino si vas a estar preparado cuando lleguen."
       },
       {
         tipo: "escrituras",
@@ -48,21 +76,25 @@ export const leccionesSemana18_LM: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2017, pág. 41",
-        texto: "Cuando busquen el poder del Señor en su vida con la misma intensidad que tiene uno que se está ahogando y lucha por respirar, el poder proveniente de Jesucristo será de ustedes. Cuando el Salvador sepa que ustedes realmente desean acudir a Él... serán guiados por el Espíritu Santo para saber exactamente lo que deben hacer [9]."
+        fuente: "Conferencia General, abril de 2017 (discurso \"Cómo obtener el poder de Jesucristo en nuestra vida\"); Liahona, mayo de 2017, págs. 39–42",
+        texto: "Cuando procuren el poder del Señor en su vida con la misma intensidad que tiene uno que se está ahogando y lucha por respirar, el poder proveniente de Jesucristo será de ustedes.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa"
+        // ✅ Verificado contra el manual oficial (271-teacher): es el discurso real que el manual usa para esta
+        // lección. Se agregó el link (faltaba en el archivo original) y se precisó el rango de páginas.
       },
       {
         tipo: "conclusion",
-        contenido: "La preparación espiritual previa de Ammón fue fundamental para que pudiera actuar como un instrumento eficaz en las manos del Señor [2, 3]. Al elegir el servicio humilde como punto de partida, Ammón no solo preservó los bienes temporales del rey, sino que validó su mensaje espiritual mediante acciones poderosas [4, 6]. El Señor cumple Sus promesas de protección y fortaleza cuando actuamos con fe y nos esforzamos por cumplir Sus propósitos [7, 10]. Debemos recordar que, al igual que Ammón, nuestra capacidad para superar desafíos difíciles aumenta cuando buscamos diligentemente la guía y el poder que solo Dios puede ofrecer [8, 11]."
+        contenido: "La preparación espiritual de Ammón —años de estudio, oración y ayuno— fue lo que le permitió actuar como un instrumento útil en las manos del Señor justo cuando se presentó la crisis en Sebus. Al elegir el servicio humilde como punto de partida, no solo protegió los bienes del rey: le dio credibilidad a todo lo que enseñaría después. El Señor cumple sus promesas de fortaleza cuando actuamos con fe, pero esa fortaleza rara vez llega de la nada; casi siempre se apoya en una preparación que nadie vio. Elegí hoy una escritura, una oración o una decisión pequeña que te prepare para el \"Sebus\" que todavía no sabés que vas a enfrentar."
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué detalles de la preparación de los hijos de Mosíah te gustaría imitar en tu vida personal? [2]",
-          "¿Cómo influyó el hecho de que Ammón se ofreciera como siervo en su capacidad para enseñar al rey? [5]",
-          "¿En qué situaciones actuales sientes que necesitas más la ayuda o la fortaleza especial del Señor? [12]",
-          "¿Qué aprendemos sobre la fuente de la fortaleza de Ammón según sus propias palabras en Alma 26:12? [7]",
-          "¿Cómo puedes prepararte hoy para ser un instrumento más eficaz en las manos de Dios mañana? [3]"
+          "¿Con qué personaje de este relato te identificás más: con Ammón, con el rey Lamoni o con los otros siervos? ¿Por qué?",
+          "¿Qué fue lo que más te sorprendió de la forma en que Ammón decidió servir al rey?",
+          "¿Alguna vez te preparaste durante mucho tiempo para algo importante sin saber exactamente cuándo lo ibas a necesitar? Contá qué pasó.",
+          "¿Hubo algún momento en que sentiste una fuerza o una claridad que no parecía venir solo de vos?",
+          "¿Qué decisión pequeña pero real podrías tomar esta semana para \"prepararte\" espiritualmente, igual que los hijos de Mosíah?",
+          "¿A quién podrías servir esta semana sin esperar nada a cambio, tal como hizo Ammón con Lamoni?"
         ]
       }
     ]
@@ -81,7 +113,7 @@ export const leccionesSemana18_LM: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Tras la milagrosa defensa de los rebaños, el rey Lamoni quedó profundamente conmovido por la fidelidad y el poder manifestados por Ammón [13]. Lamoni, creyendo inicialmente que Ammón podría ser el 'Gran Espíritu', se sentía temeroso y maravillado ante la presencia de su siervo [6, 14]. Ammón, guiado por el Espíritu, percibió los pensamientos del rey y aprovechó su disposición para enseñarle verdades fundamentales sobre Dios [14]. Utilizando las creencias previas de Lamoni como fundamento, Ammón le explicó que el Gran Espíritu es en realidad Dios, el Creador de todas las cosas [15, 16]. Le relató la historia de la Creación, la Caída de Adán y el Plan de Redención mediante Jesucristo [15, 17]. La enseñanza de Ammón fue tan poderosa que Lamoni reconoció su propia necesidad de un Salvador y clamó por misericordia [15, 18]. Esta lección resalta cómo el amor y el servicio desinteresado pueden ablandar los corazones más endurecidos [13, 19]. Finalmente, el ejemplo de Ammón nos enseña que el servicio temporal tiene un valor espiritual inmenso al edificar puentes de confianza [20, 21]."
+        contenido: "Después de que Ammón defiende los rebaños de Lamoni, el rey queda profundamente impactado por lo que vio. Al principio, cree que Ammón podría ser el \"Gran Espíritu\" del que hablaban sus antepasados, y esa idea lo llena de temor y asombro a la vez. Ammón, guiado por el Espíritu, percibe los pensamientos del rey y aprovecha ese momento para enseñarle. En vez de corregir de entrada las creencias de Lamoni, parte de ellas: le explica que el Gran Espíritu que él ya reconoce es, en realidad, Dios, el Creador de todas las cosas. A partir de ahí, le relata la historia de la Creación, la Caída de Adán y el plan de redención por medio de Jesucristo. La enseñanza de Ammón es tan clara y tan cargada de Espíritu que Lamoni reconoce su propia necesidad de un Salvador y clama por misericordia. Todo esto ocurre después de que Ammón pasó horas cuidando caballos y preparando carros en el establo, un trabajo humilde que nadie esperaría de alguien llamado a enseñar doctrinas de salvación. Esa mezcla de servicio silencioso y enseñanza valiente es el corazón de la lección: el amor genuino ablanda corazones que ningún argumento lograría convencer. A veces pensamos que primero hay que \"ganarse el derecho\" a hablar de Dios con una explicación perfecta, cuando en realidad ese derecho se gana sirviendo primero, con humildad, incluso en tareas que a nadie más le importan. Pensá en alguien que conocés y que parece lejos de la fe: tal vez lo que necesita de vos no es un sermón, sino que le ayudes con algo pequeño, sin esperar nada a cambio."
       },
       {
         tipo: "escrituras",
@@ -106,21 +138,26 @@ export const leccionesSemana18_LM: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Henry B. Eyring",
-        fuente: "Liahona, febrero de 2004, págs. 17-18",
-        texto: "Jamás subestimen el valor espiritual de hacer cosas temporales para el beneficio de aquellos a quienes sirven... Sean sus siervos y llegarán a amarlos, y ellos sentirán su amor. Pero, lo que es aún más importante, sentirán el amor de Dios [21]."
+        fuente: "Discurso a educadores de CES, 17 de agosto de 1990 (\"El Libro de Mormón cambiará sus vidas\"); publicado en Liahona, febrero de 2004, págs. 13–14",
+        texto: "Jamás subestimen el valor espiritual de hacer cosas temporales para el beneficio de aquellos a quienes sirven. Sean sus siervos: llegarán a amarlos, y ellos sentirán el amor de Dios.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2004/02/the-book-of-mormon-will-change-your-life?lang=spa"
+        // ✅ Verificado contra el manual oficial (272-teacher): es el discurso real que el manual usa para esta
+        // lección. El archivo original tenía las páginas equivocadas (17-18) y le faltaba el link; ambos se
+        // corrigieron. El discurso se dio en 1990 pero se publicó en Liahona recién en febrero de 2004.
       },
       {
         tipo: "conclusion",
-        contenido: "Ammón demostró que la enseñanza más eficaz a menudo comienza con el servicio humilde y la validación de las verdades que otros ya poseen [16, 19]. Al enseñar sobre la Creación, la Caída y la Expiación, Ammón proporcionó el contexto necesario para que Lamoni comprendiera su necesidad de redención [17, 22]. Mediante nuestro amor y servicio cristianos, Dios puede preparar el corazón de quienes servimos para que reciban las verdades del Evangelio [19]. No debemos servir únicamente para convertir, sino porque amamos genuinamente a los hijos de Dios [23]. Cuando el servicio es desinteresado, se convierte en un reflejo del amor del Salvador y permite que el Espíritu actúe poderosamente [13, 21]."
+        contenido: "Ammón demuestra que la enseñanza más eficaz casi siempre empieza con servicio humilde y con el respeto por lo que la otra persona ya cree. Al explicar la Creación, la Caída y la Expiación a partir de las propias ideas de Lamoni, le da el contexto que necesitaba para reconocer su necesidad de un Salvador. Servir a alguien no es una técnica para ganarlo al Evangelio: es una forma de amarlo de verdad, y ese amor es justamente lo que prepara el terreno para que el Espíritu actúe. Esta semana, buscá una oportunidad concreta de servir a alguien sin decirle una sola palabra sobre religión, y fijate qué puertas se empiezan a abrir solas."
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Por qué crees que Ammón comenzó su enseñanza basándose en lo que Lamoni ya creía? [16]",
-          "¿De qué maneras el servicio temporal puede ayudar a que alguien valore un mensaje espiritual? [21]",
-          "¿Qué verdades fundamentales enseñó Ammón que llevaron al rey Lamoni a clamar por misericordia? [15]",
-          "¿Cómo puedes aplicar el modelo de Ammón de 'servir primero' en tu propia vida? [24]",
-          "¿Por qué es vital entender la Caída de Adán para comprender la Expiación de Jesucristo? [22]"
+          "¿Qué palabra usarías para describir la reacción de Lamoni al ver la fuerza de Ammón: miedo, asombro, curiosidad? ¿Por qué esa palabra?",
+          "¿Qué te parece la estrategia de Ammón de empezar preguntando en qué creía Lamoni, en vez de corregirlo de entrada?",
+          "¿Viviste alguna vez una situación en la que alguien te ayudó a entender algo espiritual partiendo de lo que vos ya creías?",
+          "¿Qué conexión ves entre \"servir primero\" y \"ganarse el derecho\" de hablar de las cosas de Dios?",
+          "Pensá en una persona a la que te gustaría hablarle de tu fe. ¿Qué podrías hacer por ella esta semana, sin mencionar todavía el Evangelio?",
+          "¿Qué parte de la Creación, la Caída o la Expiación te gustaría entender mejor esta semana, y con quién podrías conversar sobre eso?"
         ]
       }
     ]
@@ -139,7 +176,7 @@ export const leccionesSemana18_LM: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Después de que el rey Lamoni fue dominado por el Espíritu, su esposa, la reina, demostró una fe extraordinaria al confiar en el testimonio de Ammón [25, 26]. Al despertar, Lamoni testificó haber visto a su Redentor, lo que provocó una manifestación espiritual masiva en su casa [26, 27]. Abish, una sierva fiel que se había convertido años antes por una visión, vio en esto la oportunidad de que el pueblo creyera y los convocó a todos [25, 27]. A pesar de la confusión y contención inicial de la multitud, el testimonio de los que fueron transformados prevaleció [27, 28]. Muchos lamanitas experimentaron un cambio de corazón tan profundo que ya no tenían deseos de hacer lo malo [28, 29]. Mormón concluye este relato enseñando que el brazo del Señor está extendido hacia todas las personas que se arrepientan y crean [30]. Esto nos recuerda que Dios ama a todos Sus hijos y desea que todos vengan a Él [31]. La conversión, aunque a veces dramática como aquí, suele ser un proceso constante y paciente en la vida de la mayoría [32, 33]."
+        contenido: "Después de que el rey Lamoni cae bajo el poder del Espíritu, su esposa la reina muestra una fe poco común: confía en el testimonio de Ammón, incluso cuando todos a su alrededor piensan que el rey ha muerto. Cuando Lamoni despierta, testifica haber visto a su Redentor, y esa experiencia provoca una manifestación espiritual que se extiende a toda su casa. Abish, una sierva que se había convertido años antes gracias a una visión de su padre, entiende lo que está pasando y corre de casa en casa para reunir al pueblo y que sea testigo del milagro. La multitud llega confundida y hasta discute entre sí, pero el testimonio de quienes fueron transformados termina imponiéndose sobre la contienda. Muchos lamanitas experimentan un cambio de corazón tan real que Mormón dice que ya no tenían deseos de hacer lo malo. Al cerrar el relato, Mormón enseña algo que va más allá de esta familia real: el brazo del Señor se extiende a todo el que se arrepienta y crea, sin importar de dónde venga ni cuán lejos de Dios parezca estar. Es tentador mirar a ciertas personas, tal vez a alguien de tu curso o de tu familia, y pensar que jamás van a cambiar. Esta lección invita a soltar esa idea. La conversión casi nunca se ve tan dramática como la de la casa de Lamoni: para la mayoría de nosotros es un proceso lento, hecho de decisiones pequeñas y constantes, más parecido a subir una escalera que a cruzar una puerta de golpe."
       },
       {
         tipo: "escrituras",
@@ -164,21 +201,25 @@ export const leccionesSemana18_LM: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder David A. Bednar",
-        fuente: "Liahona, noviembre de 2012, pág. 108",
-        texto: "Para muchos de nosotros, la conversión es un proceso constante y no un solo acontecimiento que resulta de una experiencia poderosa o dramática... La conversión al Señor requiere tanto perseverancia como paciencia [33]."
+        fuente: "Conferencia General, octubre de 2012 (discurso \"Convertidos al Señor\"); Liahona, noviembre de 2012, págs. 107–108",
+        texto: "Para muchos de nosotros, la conversión es un proceso constante y no un solo acontecimiento que resulta de una experiencia poderosa o dramática. La conversión al Señor requiere tanto perseverancia como paciencia.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2012/10/converted-unto-the-lord?lang=spa"
+        // ✅ Verificado contra el manual oficial (273-teacher): es el discurso real que el manual usa, palabra por
+        // palabra, para esta lección. Se corrigió el rango de páginas (era solo "108") y se agregó el link.
       },
       {
         tipo: "conclusion",
-        contenido: "La historia de la conversión de la casa de Lamoni nos enseña que no debemos juzgar la capacidad de nadie para aceptar el Evangelio [31, 34]. El papel de Abish destaca la importancia de actuar con fe y compartir nuestro testimonio cuando el Espíritu nos guía, incluso en momentos de contención [27, 28]. El Señor está preparando activamente el corazón de personas de todo origen para que reciban Su mensaje de amor y perdón [18, 31]. Debemos esforzarnos por ver a los demás a través de los ojos del Padre Celestial para comprender su verdadero valor [35]. Independientemente de cuán alejados parezcan estar algunos, el brazo de la misericordia del Señor siempre está extendido para aquellos que deseen arrepentirse y creer [30, 36]. La verdadera conversión se manifiesta en un cambio de deseos y en una vida centrada en el Salvador [28, 29]."
+        contenido: "La conversión de la casa de Lamoni muestra que nadie está fuera del alcance de la misericordia de Dios, ni siquiera quienes parecen más lejanos o más confundidos. El papel de Abish recuerda que a veces alcanza con animarse a actuar cuando el Espíritu lo pide, incluso en medio de la contención o la incertidumbre de los demás. El Señor sigue preparando corazones hoy, tal como preparó el de Lamoni y su pueblo, y espera que nosotros también estemos dispuestos a ver a los demás con esperanza en vez de con resignación. Esta semana, elegí a una persona que \"diste por perdida\" para el Evangelio y tratala, aunque sea en un detalle pequeño, como alguien que todavía puede sorprenderte."
       },
       {
         tipo: "cuestionario",
         preguntas: [
-          "¿Qué aprendes sobre la fe de la reina al confiar en la palabra de Ammón acerca de su esposo? [26]",
-          "¿Cómo puede influir en tus acciones el comprender que Dios ama a todas las personas por igual? [32, 35]",
-          "¿Qué papel desempeñó Abish en la conversión de su pueblo y qué podemos aprender de ella? [28]",
-          "¿Cómo explican las palabras del élder Bednar la diferencia entre experiencias poderosas y el proceso diario de conversión? [33]",
-          "¿Qué significa para ti personalmente que el brazo del Señor se extienda hacia ti hoy? [30]"
+          "¿Qué personaje de este relato te llamó más la atención: la reina, Abish o el propio Lamoni? ¿Por qué?",
+          "¿Qué fue lo que hizo Abish apenas se dio cuenta de lo que estaba pasando en la casa del rey?",
+          "¿Alguna vez tuviste que mantenerte firme en lo que creías mientras otros a tu alrededor estaban confundidos o discutían?",
+          "El élder Bednar dice que la conversión es \"un proceso constante\". ¿Tu propia experiencia de fe se parece más a un cambio repentino o a un proceso lento?",
+          "¿Hay alguien en tu vida a quien hayas \"descartado\" como poco probable para el Evangelio? ¿Qué podrías hacer esta semana para verlo con más esperanza?",
+          "¿Qué pequeño paso podés dar esta semana para seguir \"convirtiéndote al Señor\", línea por línea?"
         ]
       }
     ]

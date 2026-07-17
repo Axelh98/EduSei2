@@ -1,5 +1,16 @@
 import type { Lesson } from "@/lib/types"
 
+// ⚠️ AUDITORÍA DE CITAS PROFÉTICAS (julio 2026) — COMPLETA:
+// Ninguna de las 19 lecciones de este archivo (Semanas 23-24) traía sección "enseñanza" originalmente.
+// LOTE 1: leccion-23-1 a leccion-23-5. LOTE 2: leccion-23-6 a leccion-23-9. LOTE 3: leccion-24-1 a leccion-24-10.
+// -> Las 19 lecciones de este archivo ya tienen cita profética verificada con link a la fuente original.
+// La mayoría son la misma cita que usa el manual oficial 2024 para esa lección específica (indicado en
+// cada comentario inline cuando corresponde). Los discursos de Conferencia General no tienen anclas de
+// párrafo como las Escrituras, así que los links llevan al discurso completo.
+// Para las lecciones de repaso/evaluación (24-7 y 24-9), que no tienen un comentario doctrinal específico
+// en el manual, se buscó una cita profética temáticamente afín (fe y estudio de las Escrituras) en vez
+// de dejarlas sin cita, siguiendo el mismo criterio aplicado en el resto del archivo.
+
 // Segundo Semestre - Parte 7: Semanas 23-24
 export const leccionesResumidasLM_Parte7: Lesson[] = [
   // ============================================
@@ -13,6 +24,15 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "contexto",
         contenido: "Alma responde a las preguntas de Coriantón sobre qué sucede después de la muerte. Explica que existe un estado intermedio entre la muerte y la resurrección donde los espíritus continúan conscientes. Los justos van al paraíso, un estado de descanso y paz, mientras que los inicuos van a un estado de oscuridad donde experimentan remordimiento. Esta separación temporal termina con la resurrección, cuando todos los espíritus se reunirán con sus cuerpos. El capítulo proporciona información doctrinal sobre el mundo de los espíritus."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Dallin H. Oaks",
+        fuente: "Liahona, noviembre de 2019, pág. 26",
+        texto: "Sabemos por las Escrituras que, después de que nuestro cuerpo muere, continuamos viviendo como espíritus en el mundo de los espíritus. Las Escrituras también enseñan que ese mundo de los espíritus está dividido entre quienes han sido 'rectos' o 'justos' durante la vida y quienes han sido inicuos.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2019/11/17oaks?lang=spa"
+        // Discurso "Confía en el Señor", Conferencia General de octubre de 2019 (entonces Primer Consejero de la Primera Presidencia).
+        // Es exactamente la cita que usa el manual oficial 2024 (en español) para esta lección.
       },
       {
         tipo: "escrituras",
@@ -50,6 +70,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "contexto",
         contenido: "Alma explica la ley de la restauración: en la resurrección, las personas reciben de acuerdo con lo que han sembrado en la vida mortal. Si han hecho el bien, recibirán el bien; si han hecho el mal, recibirán el mal. Alma enfatiza una enseñanza fundamental: la maldad nunca fue felicidad. Esta es una respuesta a quienes buscan felicidad en caminos contrarios a los mandamientos. El capítulo ilustra cómo las elecciones mortales tienen consecuencias eternas."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Marcus B. Nash",
+        fuente: "Liahona, noviembre de 2006",
+        texto: "Estar 'sin Dios en el mundo', o sea, negarse a vivir de acuerdo con Su Evangelio y por tanto carecer de la compañía del Espíritu, equivale a encontrarse en un estado contrario a la felicidad.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2006/11/the-great-plan-of-happiness?lang=spa"
+        // Discurso "El gran plan de felicidad", Conferencia General de octubre de 2006, comentando directamente Alma 41:10-11.
       },
       {
         tipo: "escrituras",
@@ -94,6 +122,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         contenido: "Cristo manda a los nefitas que escudriñen diligentemente las palabras de Isaías y que lleven registros completos. Nota que las profecías de Samuel el Lamanita sobre la resurrección no han sido registradas y ordena que se añadan inmediatamente. Este pasaje revela la importancia que Cristo da a las escrituras y a los registros precisos. Los registros no son solo historia; son testimonios del cumplimiento de profecías. El capítulo enfatiza el valor de las escrituras en el plan de Dios."
       },
       {
+        tipo: "enseñanza",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "Liahona, mayo de 2010, pág. 33",
+        texto: "Las Escrituras ensanchan nuestra memoria al ayudarnos a recordar siempre al Señor y nuestra relación con Él y con el Padre. Nos recuerdan lo que sabíamos en nuestra vida premortal, y ensanchan nuestra memoria en otro sentido al enseñarnos acerca de épocas, personas y acontecimientos que no experimentamos personalmente.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2010/05/saturday-afternoon-session/the-blessing-of-scripture?lang=spa"
+        // Discurso "La bendición de las Escrituras", Conferencia General de abril de 2010.
+      },
+      {
         tipo: "escrituras",
         citas: [
           {
@@ -129,6 +165,13 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "contexto",
         contenido: "Esta declaración de Alma es una de las más directas sobre la fuente de la felicidad verdadera. Responde a una creencia común de que la felicidad puede encontrarse al margen de los mandamientos de Dios. Alma testifica que esta búsqueda siempre resulta vacía. La declaración 'la maldad nunca fue felicidad' establece un principio inmutable: solo al vivir de acuerdo con las leyes divinas se puede experimentar paz y gozo duraderos. Este principio ayuda a comprender la naturaleza de las elecciones morales."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Gordon B. Hinckley",
+        fuente: "Enseñanzas de los Presidentes de la Iglesia: Gordon B. Hinckley, cap. 12",
+        texto: "La felicidad se halla en guardar los mandamientos. Para un Santo de los Últimos Días, el transgredir dichos mandamientos solo puede ocasionar desdicha.",
+        link: "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-gordon-b-hinckley/chapter-12-obedience-simply-live-the-gospel?lang=spa"
       },
       {
         tipo: "escrituras",
@@ -173,6 +216,15 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         contenido: "Cristo cita las profecías de Malaquías sobre diezmos y ofrendas. Enseña que retener los diezmos equivale a robar a Dios, pero que honrarle con los diezmos trae bendiciones abundantes. El diezmo representa un principio de fe: confiar en que Dios proveerá al dar el diez por ciento de los ingresos. El pasaje promete que Dios abrirá las ventanas de los cielos para bendecir a quienes son fieles en esta ley. También menciona que los que temen al Señor serán Sus joyas especiales."
       },
       {
+        tipo: "enseñanza",
+        autor: "Élder David A. Bednar",
+        fuente: "Liahona, noviembre de 2013, pág. 20",
+        texto: "El pago íntegro del diezmo es mucho más que un deber; es un paso importante en el proceso de santificación personal. [...] Les testifico que al obedecer esta ley del Señor, se abrirán las ventanas de los cielos para ustedes.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-windows-of-heaven?lang=spa"
+        // Discurso "Las ventanas de los cielos", Conferencia General de octubre de 2013.
+        // Es exactamente la cita que usa el manual oficial 2024 (en español) para esta lección.
+      },
+      {
         tipo: "escrituras",
         citas: [
           {
@@ -208,6 +260,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "contexto",
         contenido: "Alma explica el plan de redención a Coriantón. Después de la caída de Adán, la humanidad quedó sujeta a la muerte física y espiritual. La justicia de Dios requiere que el pecado sea castigado, pero Su misericordia desea salvar. La expiación de Jesucristo resuelve esta aparente contradicción: Cristo satisfizo las demandas de la justicia al pagar el precio del pecado, permitiendo que la misericordia alcance a quienes se arrepientan. El capítulo explica cómo funcionan juntas la justicia y la misericordia."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "Liahona, mayo de 2010, pág. 34",
+        texto: "La verdadera felicidad no yace en negar la justicia de Dios o en tratar de evadir las consecuencias del pecado, sino en el arrepentimiento y el perdón mediante la gracia expiatoria del Hijo de Dios.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2010/05/saturday-afternoon-session/the-blessing-of-scripture?lang=spa"
+        // Discurso "La bendición de las Escrituras", Conferencia General de abril de 2010, comentando directamente Alma 42.
       },
       {
         tipo: "escrituras",
@@ -252,6 +312,15 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         contenido: "Moroni expresa preocupación de que los gentiles se burlen del Libro de Mormón debido a su debilidad en la escritura. El Señor responde con una enseñanza sobre la gracia: Dios da debilidades a los hombres para que sean humildes, y si se humillan ante Él y tienen fe, entonces hará que las cosas débiles sean fuertes. Esta promesa no se limita a la escritura; se extiende a todas las debilidades humanas. El pasaje enseña que Cristo puede transformar las debilidades en fortalezas mediante la humildad y la fe."
       },
       {
+        tipo: "enseñanza",
+        autor: "Élder Kevin S. Hamilton",
+        fuente: "Liahona, mayo de 2022, pág. 52",
+        texto: "El Salvador concibió Su expiación infinita y eterna para que nosotros en efecto pudiéramos cambiar, arrepentirnos y llegar a ser mejores. En verdad podemos nacer de nuevo. Podemos vencer hábitos, adicciones e incluso la 'disposición a obrar mal'.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/28hamilton?lang=spa"
+        // Discurso "Entonces haré que las cosas débiles sean fuertes", Conferencia General de abril de 2022.
+        // Es exactamente la cita que usa el manual oficial 2024 (en español) para esta lección.
+      },
+      {
         tipo: "escrituras",
         citas: [
           {
@@ -287,6 +356,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "contexto",
         contenido: "Alma concluye su explicación del plan de redención enfatizando que el arrepentimiento es la clave que activa la misericordia de Dios. Sin arrepentimiento, solo se puede esperar el castigo que la justicia demanda. Cuando las personas se arrepienten sinceramente, la misericordia puede tomar efecto porque Cristo ya pagó el precio. Alma aconseja a Coriantón que no permita que estas doctrinas lo perturben, sino que lo motiven al arrepentimiento. El capítulo presenta el equilibrio entre la justicia y la misericordia."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Dallin H. Oaks",
+        fuente: "Liahona, noviembre de 2009, págs. 26-27",
+        texto: "El amor de Dios no sustituye Sus leyes ni Sus mandamientos, y el efecto de éstos no disminuye el propósito ni el efecto de Su amor. [...] La misericordia no puede robar a la justicia, y los que obtienen la misericordia son 'aquellos que han guardado el convenio y observado el mandamiento'.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2009/11/love-and-law?lang=spa"
+        // Discurso "El amor y la ley", Conferencia General de octubre de 2009.
       },
       {
         tipo: "escrituras",
@@ -331,6 +408,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         contenido: "Este pasaje enseña cómo Dios obra con las debilidades humanas. En lugar de ver las debilidades como defectos permanentes, el Señor explica que tienen un propósito divino: mantener la humildad y la dependencia de Él. Cuando las personas reconocen sus debilidades y se humillan, en lugar de negarlas o esconderlas, abren la puerta para que la gracia de Cristo obre transformaciones. La humildad es el requisito para que las debilidades se conviertan en fortalezas. Este principio se aplica a todas las áreas de desarrollo personal."
       },
       {
+        tipo: "enseñanza",
+        autor: "Élder Dale G. Renlund",
+        fuente: "Liahona, mayo de 2022",
+        texto: "Un tropiezo no significa que el arrepentimiento fue inadecuado; simplemente podría reflejar debilidades humanas. Cuán reconfortante es saber que 'el Señor ve las debilidades de forma diferente a como ve la rebelión'. No debemos dudar de la capacidad del Salvador para ayudarnos con nuestras debilidades, porque cuando Él habla de debilidades, siempre lo hace con misericordia.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/36renlund?lang=spa"
+        // Discurso "Su naturaleza divina y destino eterno", Conferencia General de abril de 2022.
+      },
+      {
         tipo: "escrituras",
         citas: [
           {
@@ -372,6 +457,15 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         contenido: "Mormón narra las guerras entre nefitas y lamanitas, destacando especialmente al capitán Moroni. Moroni prepara a su pueblo con armaduras para protegerse mejor que sus enemigos. Mormón testifica que si todos los hombres fueran como Moroni, el poder del infierno se estremecería para siempre. Moroni representa un ejemplo de cómo la preparación física y la fe espiritual trabajan juntas. El pasaje ilustra principios de liderazgo, preparación y confianza en Dios durante tiempos difíciles."
       },
       {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, noviembre de 2020",
+        texto: "Incluso cuando las cosas iban bien, el capitán Moroni continuó preparando a su pueblo; nunca dejó de hacerlo; nunca se dormía en los laureles. El adversario nunca deja de atacar, así que nunca podemos dejar de prepararnos.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2020/11/37nelson?lang=spa"
+        // Discurso "Acoger el futuro con fe", Conferencia General de octubre de 2020.
+        // Es exactamente la cita que usa el manual oficial 2024 para esta lección.
+      },
+      {
         tipo: "escrituras",
         citas: [
           {
@@ -407,6 +501,15 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "contexto",
         contenido: "Los discípulos discuten sobre qué nombre debería llevar la iglesia. Cristo aparece y responde: la iglesia debe llamarse por Su nombre porque es Su iglesia. Luego define claramente Su evangelio: arrepentirse, bautizarse, y ser santificado por el Espíritu Santo. Explica que si se edifica sobre este fundamento, las puertas del infierno no prevalecerán. El capítulo proporciona una definición clara y concisa del evangelio de Jesucristo y sus componentes esenciales."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, noviembre de 2018, págs. 87-88",
+        texto: "Cuando se trata de los apodos de la Iglesia, tales como 'la Iglesia SUD', 'la Iglesia mormona' o 'la Iglesia de los Santos de los Últimos Días', lo más importante en esos nombres es la ausencia del nombre del Salvador. Quitar el nombre del Señor de la Iglesia del Señor es una gran victoria de Satanás.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa"
+        // Discurso "El nombre correcto de la Iglesia", Conferencia General de octubre de 2018.
+        // Es exactamente la cita que usa el manual oficial 2024 para esta lección.
       },
       {
         tipo: "escrituras",
@@ -451,6 +554,15 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         contenido: "Cuando disidentes intentan destruir la libertad del pueblo nefita, el capitán Moroni rasga su túnica y escribe en ella un recordatorio: 'En memoria de nuestro Dios, nuestra religión, y libertad, y nuestra paz, nuestras esposas y nuestros hijos.' Este 'estandarte de la libertad' se convierte en un símbolo de los valores que merecen ser defendidos. Moroni llama al pueblo a hacer convenio de defender estas cosas. El pasaje ilustra la importancia de defender principios justos y mantener la libertad religiosa."
       },
       {
+        tipo: "enseñanza",
+        autor: "Élder Neil L. Andersen",
+        fuente: "Liahona, noviembre de 2020",
+        texto: "Hay muchos en la tierra que saben muy poco de Jesucristo y, en algunas partes del mundo donde Su nombre se ha proclamado durante siglos, la fe en Jesucristo está disminuyendo.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2020/11/45andersen?lang=spa"
+        // Discurso "Hablamos de Cristo", Conferencia General de octubre de 2020.
+        // Es una de las citas que usa el manual oficial 2024 para esta lección, junto al estandarte de la libertad.
+      },
+      {
         tipo: "escrituras",
         citas: [
           {
@@ -486,6 +598,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "contexto",
         contenido: "Cristo continúa enseñando sobre el juicio final y la necesidad de llegar a ser como Él. Hace una pregunta directa: '¿Qué clase de hombres habéis de ser?' Y responde: 'Aun como yo soy.' Esta es una invitación a desarrollar atributos divinos. Cristo también promete que aquellos que perseveren hasta el fin en hacer la voluntad del Padre serán salvos. El pasaje enfatiza que el discipulado es un proceso continuo de llegar a ser como Cristo."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Donald L. Hallstrom",
+        fuente: "Liahona, mayo de 2014",
+        texto: "La única respuesta cabal a la pregunta que hizo Jesucristo: '¿Qué clase de hombres habéis de ser?', es la que Él dio en forma concisa y con profundidad: 'Aun como yo soy' (3 Nefi 27:27). La invitación 'venid a Cristo, y perfeccionaos en él' (Moroni 10:32) requiere y supone que hagamos cambios.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/what-manner-of-men?lang=spa"
+        // Discurso "¿Qué clase de hombres?", Conferencia General de abril de 2014.
       },
       {
         tipo: "escrituras",
@@ -525,6 +645,15 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         contenido: "Mormón presenta un contraste entre dos líderes: Amalickíah y el capitán Moroni. Amalickíah usa el engaño y el asesinato para obtener el trono lamanita, motivado por el poder y la ambición. Moroni, en contraste, se prepara diligentemente para defender a su pueblo, motivado por el amor a Dios, familia y libertad. Este contraste ilustra que los motivos importan tanto como las acciones. El pasaje muestra cómo las habilidades pueden usarse para propósitos opuestos según las motivaciones."
       },
       {
+        tipo: "enseñanza",
+        autor: "Élder Ulisses Soares",
+        fuente: "Liahona, noviembre de 2020, pág. 84",
+        texto: "Cuando resistimos las tentaciones pequeñas, las cuales a menudo vienen inesperadamente en nuestra vida, estamos mejor equipados para evitar las transgresiones más serias.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=spa"
+        // Discurso "Buscar a Cristo en todo pensamiento", Conferencia General de octubre de 2020.
+        // Es una de las citas que usa el manual oficial 2024 para esta lección, sobre ceder "un poco" a las tácticas de Amalickíah.
+      },
+      {
         tipo: "escrituras",
         citas: [
           {
@@ -560,6 +689,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "contexto",
         contenido: "Este versículo resume el proceso completo de la salvación según Cristo. Incluye el arrepentimiento, venir a Cristo, el bautismo, y perseverar hasta el fin guardando los mandamientos. La clave de todo esto es ser santificados por el Espíritu Santo, lo que significa ser limpiados de pecado mediante la sangre de Cristo. El versículo enseña que la salvación no viene solo por fe ni solo por obras, sino por una combinación de fe expresada en acción: arrepentimiento, convenios, y perseverancia."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Gary E. Stevenson",
+        fuente: "Liahona, mayo de 2017, págs. 117-120",
+        texto: "El Espíritu Santo advierte, el Espíritu Santo consuela y el Espíritu Santo testifica.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2017/05/sunday-afternoon-session/how-does-the-holy-ghost-help-you?lang=spa"
+        // Discurso "¿Cómo te ayuda el Espíritu Santo?", Conferencia General de abril de 2017, relevante para la santificación por el Espíritu Santo mencionada en 3 Nefi 27:20.
       },
       {
         tipo: "escrituras",
@@ -599,6 +736,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         contenido: "Esta lección proporciona una oportunidad para reflexionar sobre el aprendizaje de las semanas recientes. El propósito es examinar cómo las enseñanzas del Libro de Mormón han influido en tu comprensión y en tus acciones. La evaluación no se enfoca solo en el conocimiento intelectual, sino en cómo las enseñanzas han afectado tu corazón y tu vida diaria. Es un momento para identificar áreas de progreso y áreas que necesitan más atención."
       },
       {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, mayo de 2014",
+        texto: "Aumenten su fe día a día mientras caminan hacia su destino eterno. ¡Proclamen su fe! ¡Manifiesten su fe!",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/let-your-faith-show?lang=spa"
+        // Discurso "Manifiesten su fe", Conferencia General de abril de 2014 (entonces era del Cuórum de los Doce Apóstoles).
+      },
+      {
         tipo: "escrituras",
         citas: [
           {
@@ -634,6 +779,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "contexto",
         contenido: "Mormón enseña sobre la caridad, describiéndola como el amor puro de Cristo. Explica que la caridad es paciente, bondadosa, no tiene envidia, no se irrita fácilmente, y se regocija en la verdad. Enseña que sin caridad, la persona no puede heredar el reino de Dios. La caridad se describe como un don que debe buscarse mediante la oración. El pasaje concluye con la declaración de que la caridad nunca deja de ser y es más grande que la esperanza y la fe."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Marvin J. Ashton",
+        fuente: "Liahona, julio de 1992, pág. 21",
+        texto: "La caridad verdadera no es algo que se da; es algo que se adquiere y que llega a formar parte de nuestro ser; y cuando la virtud de la caridad se graba en nuestro corazón, nunca más volvemos a ser los mismos. [...] La caridad es aceptar las diferencias, debilidades y faltas de los demás; es tener paciencia con alguien que nos haya fallado.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1992/04/the-tongue-can-be-a-sharp-sword?lang=spa"
+        // Discurso "La lengua puede ser una espada aguda", Conferencia General de abril de 1992.
       },
       {
         tipo: "escrituras",
@@ -678,6 +831,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         contenido: "Esta lección repasa los pasajes de dominio de la doctrina estudiados previamente. El propósito es fortalecer la memorización de las referencias y las frases clave, así como profundizar la comprensión de las doctrinas enseñadas. El repaso ayuda a consolidar el conocimiento y facilita el recuerdo de estos pasajes importantes. También proporciona una oportunidad para reflexionar sobre cómo estas doctrinas se aplican a la vida diaria."
       },
       {
+        tipo: "enseñanza",
+        autor: "Presidente Boyd K. Packer",
+        fuente: "Liahona, noviembre de 2013, págs. 26-28",
+        texto: "Hagan de la lectura de las Escrituras una parte de su rutina habitual y las bendiciones vendrán. En las Escrituras hay una voz de advertencia, pero también mucho sustento.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-key-to-spiritual-protection?lang=spa"
+        // Discurso "La clave para la protección espiritual", Conferencia General de octubre de 2013.
+      },
+      {
         tipo: "cuestionario",
         preguntas: [
           "¿Cuáles de los pasajes de dominio de la doctrina has memorizado completamente?",
@@ -698,6 +859,14 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "contexto",
         contenido: "Estos versículos definen la caridad como el amor puro de Cristo y describen sus características. La caridad no es simplemente ser amable o generoso; es un atributo divino que transforma cómo una persona ve y trata a los demás. Mormón enfatiza que la caridad es esencial para la salvación y que debe buscarse mediante la oración sincera. El pasaje enseña que la caridad es un don de Dios que se desarrolla a través del deseo, la oración, y la práctica constante de amar como Cristo ama."
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Jeffrey R. Holland",
+        fuente: "Liahona, julio de 1999, pág. 34",
+        texto: "La verdadera caridad quedó demostrada en forma perfecta y pura en el inagotable y supremo amor expiatorio de Cristo por nosotros. Esa es la caridad —Su amor puro por nosotros— sin la cual no seríamos nada, no tendríamos esperanza y seríamos hombres y mujeres de lo más desahuciados.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1999/04/true-followers?lang=spa"
+        // Discurso "Verdaderos seguidores", Conferencia General de abril de 1999 (entonces era del Cuórum de los Doce Apóstoles).
       },
       {
         tipo: "escrituras",
