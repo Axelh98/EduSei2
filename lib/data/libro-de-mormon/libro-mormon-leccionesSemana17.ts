@@ -73,8 +73,7 @@ export const leccionesSemana17: Lesson[] = [
         autor: "Élder Dale G. Renlund",
         fuente: "Conferencia General, octubre de 2017 (discurso \"El sacerdocio y el poder redentor del Salvador\"); Liahona, noviembre de 2017, págs. 64–67",
         texto: "A causa de Su sacrificio expiatorio, Jesucristo tiene el poder y autoridad para redimir a la humanidad. Para que Su poder expiatorio esté al alcance de todos, Él ha delegado una porción de Su poder y autoridad a los hombres sobre la tierra.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-priesthood-and-the-saviors-atoning-power?lang=spa"
-        // ✅ Re-confirmado contra el manual oficial (261-teacher): sigue siendo la cita real que usa el manual.
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-priesthood-and-the-saviors-atoning-power?lang=spa&id=p5#p5"
       },
       {
         tipo: "conclusion",
@@ -115,13 +114,10 @@ export const leccionesSemana17: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Henry B. Eyring",
-        fuente: "\"To Know and to Love God\" (Evening with a General Authority, transmisión de CES, 26 de febrero de 2010)",
-        texto: "Nuestros alumnos no pueden conocer a Dios, y por lo tanto amar como deben amar, a menos que sean enseñados por el Espíritu Santo.",
-        link: ""
-        // ✅ Re-confirmado contra el manual oficial (262-teacher): sigue siendo la cita real que usa el manual.
-        // No existe una página propia en churchofjesuschrist.org/study para esta transmisión de CES de 2010,
-        // por lo que el link permanece vacío tras verificar que no hay una URL oficial disponible.
+        autor: "Elder Quentin L. Cook",
+        fuente: "\"Paz Personal: La recompensa a la rectitud\" (Liahona, Mayo de 2013, Págs. 33-34)",
+        texto: "Todos participamos en los concilios de los cielos que nos aseguraron el albedrío moral, sabiendo que habría dolor en la tierra e incluso tragedias atroces por causa del abuso del mismo. Entendimos que eso podría causar que nos enojáramos o que estuviéramos confundidos, indefensos y vulnerables; pero también sabíamos que la expiación del Salvador vencería y compensaría toda injusticia de la vida terrenal y nos brindaría paz",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/personal-peace-the-reward-of-righteousness?lang=spa&id=p27#p27"
       },
       {
         tipo: "conclusion",

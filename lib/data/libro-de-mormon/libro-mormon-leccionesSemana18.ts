@@ -77,10 +77,8 @@ export const leccionesSemana18_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente: "Conferencia General, abril de 2017 (discurso \"Cómo obtener el poder de Jesucristo en nuestra vida\"); Liahona, mayo de 2017, págs. 39–42",
-        texto: "Cuando procuren el poder del Señor en su vida con la misma intensidad que tiene uno que se está ahogando y lucha por respirar, el poder proveniente de Jesucristo será de ustedes.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa"
-        // ✅ Verificado contra el manual oficial (271-teacher): es el discurso real que el manual usa para esta
-        // lección. Se agregó el link (faltaba en el archivo original) y se precisó el rango de páginas.
+        texto: "Cuando busquen el poder del Señor en su vida con la misma intensidad que tiene uno que se está ahogando y lucha por respirar, el poder proveniente de Jesucristo será de ustedes. Cuando el Salvador sepa que ustedes realmente desean acudir a Él —cuando Él pueda sentir que el mayor deseo de sus corazones es obtener el poder de Él en sus vidas—, serán guiados por el Espíritu Santo para saber exactamente lo que deben hacer.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&id=p4-p5,17,22-p23,25,29-p30,34#p4"
       },
       {
         tipo: "conclusion",
@@ -141,9 +139,6 @@ export const leccionesSemana18_LM: Lesson[] = [
         fuente: "Discurso a educadores de CES, 17 de agosto de 1990 (\"El Libro de Mormón cambiará sus vidas\"); publicado en Liahona, febrero de 2004, págs. 13–14",
         texto: "Jamás subestimen el valor espiritual de hacer cosas temporales para el beneficio de aquellos a quienes sirven. Sean sus siervos: llegarán a amarlos, y ellos sentirán el amor de Dios.",
         link: "https://www.churchofjesuschrist.org/study/liahona/2004/02/the-book-of-mormon-will-change-your-life?lang=spa"
-        // ✅ Verificado contra el manual oficial (272-teacher): es el discurso real que el manual usa para esta
-        // lección. El archivo original tenía las páginas equivocadas (17-18) y le faltaba el link; ambos se
-        // corrigieron. El discurso se dio en 1990 pero se publicó en Liahona recién en febrero de 2004.
       },
       {
         tipo: "conclusion",
@@ -203,9 +198,7 @@ export const leccionesSemana18_LM: Lesson[] = [
         autor: "Élder David A. Bednar",
         fuente: "Conferencia General, octubre de 2012 (discurso \"Convertidos al Señor\"); Liahona, noviembre de 2012, págs. 107–108",
         texto: "Para muchos de nosotros, la conversión es un proceso constante y no un solo acontecimiento que resulta de una experiencia poderosa o dramática. La conversión al Señor requiere tanto perseverancia como paciencia.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2012/10/converted-unto-the-lord?lang=spa"
-        // ✅ Verificado contra el manual oficial (273-teacher): es el discurso real que el manual usa, palabra por
-        // palabra, para esta lección. Se corrigió el rango de páginas (era solo "108") y se agregó el link.
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&id=p24#p24"
       },
       {
         tipo: "conclusion",

@@ -87,13 +87,8 @@ export const leccionesResumidasLM_Semana16: Lesson[] = [
         autor: "Élder Neil L. Andersen",
         fuente: "Conferencia General, octubre de 2010 (discurso \"Nunca lo dejen a Él\"); Liahona, noviembre de 2010, pág. 41",
         texto: "No podemos comparar nuestra situación con la de quienes todavía no han recibido estas verdades: tener un testimonio de Cristo, contar con el sacerdocio restaurado y con profetas vivientes. \"Al que mucho se le da, mucho se le requiere\" (Doctrina y Convenios 82:3).",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/10/never-leave-him?lang=spa"
-        // 🔧 AGREGADA en esta re-auditoría: el manual oficial (252-teacher) sí incluye esta cita — la
-        // auditoría anterior había concluido erróneamente que esta lección no citaba a ningún líder. El
-        // texto de la cita en español es una traducción fiel del original en inglés (Ensign or Liahona,
-        // Nov. 2010, 41), ya que no se localizó de forma independiente el pasaje exacto publicado en la
-        // Liahona; el título en español "Nunca lo dejen a Él" y la referencia de página sí están
-        // confirmados por el manual de Doctrina y Convenios: Manual del maestro de Seminario, 2025.
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/10/never-leave-him?lang=spa&id=p33#p33"
+
       },
       {
         tipo: "conclusion",

@@ -61,6 +61,13 @@ export const semana1Lecciones: Lesson[] = [
         ]
       },
       {
+        tipo: "enseñanza",
+        autor: "Elder C. Scott Grow",
+        fuente: "\"Y esta es la vida eterna\", Liahona, Mayo de 2017, Pág. 122",
+        texto: "Ustedes y yo hacemos la voluntad del Padre al honrar nuestros convenios, guardar los mandamientos y servir a Dios y a nuestros semejantes",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/and-this-is-life-eternal?lang=spa&id=p29#p29"
+      },
+      {
         tipo: "conclusion",
         contenido: "El Salvador sometió Su voluntad al Padre incluso cuando le costó lo máximo. Su ejemplo transforma el concepto de obediencia: no es seguir reglas por obligación, sino elegir confiar en Dios cuando cuesta algo real. La promesa de D&C 19:23 sigue vigente: quien aprende del Salvador y camina en la mansedumbre de Su Espíritu tendrá paz, no la ausencia de dificultades, sino la certeza de no estar solo en ellas. Esta semana identifica una cosa concreta que el Señor te pide y toma la decisión de someterla a Su voluntad."
       },
@@ -106,12 +113,9 @@ export const semana1Lecciones: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente: "\"Podemos actuar mejor y ser mejores\", Conferencia General (sesión de sacerdocio), abril de 2019",
-        texto: "El arrepentimiento no es un suceso; es un proceso; es la clave de la felicidad y la paz interior. Al escoger arrepentirnos, ¡escogemos cambiar! Permitimos que el Salvador nos transforme en la mejor versión de nosotros.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/36nelson?lang=spa"
+        texto: "Demasiadas personas consideran el arrepentimiento como un castigo; algo a evitarse excepto en las circunstancias más graves; pero es Satanás quien genera ese sentimiento de castigo. Él trata de impedir que miremos hacia Jesucristo, que espera con los brazos abiertos, con la esperanza y disposición de sanarnos, perdonarnos, limpiarnos, fortalecernos, purificarnos y santificarnos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/36nelson?lang=spa&id=p3,p6#p3"
       },
-      // ⚠️ El autor y el tema (el arrepentimiento como don, no castigo) son reales, pero la frase exacta
-      // del archivo original no se encontró textualmente. Se reemplazó por una cita verificada del
-      // discurso real de Nelson sobre el mismo tema (abril de 2019).
       {
         tipo: "conclusion",
         contenido: "D&C 19:16–19 es el testimonio más directo que existe sobre la Expiación: el Salvador mismo describe lo que sufrió y por qué. Lo hizo para liberarnos, no para atraparnos en la culpa. Cada vez que alguien te diga que el arrepentimiento es una carga o un castigo, podés mostrarle este pasaje: Cristo sufrió precisamente para que arrepentirse sea el camino de vuelta a casa, no el castigo. Eso transforma la forma en que nos acercamos a Él."
@@ -169,11 +173,8 @@ export const semana1Lecciones: Lesson[] = [
         autor: "Presidente Dallin H. Oaks",
         fuente: "\"El testigo: Martin Harris\", Conferencia General, abril de 1999 (Liahona, julio de 1999, pág. 43)",
         texto: "Una de las contribuciones más grandes que Martin Harris hizo a la Iglesia, por la que se lo debe honrar en todo momento, fue la financiación de la publicación del Libro de Mormón. En agosto de 1829 hipotecó su casa y su granja a Egbert B. Grandin para asegurar el pago del contrato de impresión. Siete meses después se completó la primera impresión de cinco mil ejemplares del Libro de Mormón.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/1999/04/the-witness-martin-harris?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1999/04/the-witness-martin-harris?lang=spa&id=p21#p21"
       },
-      // ✅ Cita verificada palabra por palabra — el propio manual del Seminario cita este mismo pasaje
-      // para esta lección. La fuente original del archivo ("Liahona, noviembre de 2004") era incorrecta;
-      // se corrigió a la fuente real (Conferencia General de abril de 1999).
       {
         tipo: "conclusion",
         contenido: "La perspectiva eterna no elimina el costo de los sacrificios; los coloca en el contexto correcto. Martín Harris perdió temporalmente una granja y ganó participación en una de las obras más importantes de la historia. Cuando el Señor te pida algo difícil, la pregunta no es '¿cuánto me cuesta?' sino '¿cómo se ve esto desde la eternidad?' Esa perspectiva es la que transforma el sacrificio en inversión. Esta semana, identificá un sacrificio que el Señor te está pidiendo y aplícale esa mirada eterna."
@@ -224,9 +225,9 @@ export const semana1Lecciones: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
-        fuente: "\"Revelación para la Iglesia, revelación para nuestras vidas\", Conferencia General, abril de 2018 (Liahona, mayo de 2018, pág. 96)",
-        texto: "El constante acceso a las redes sociales y un ciclo de noticias de 24 horas nos bombardean con incesantes mensajes. Si hemos de tener alguna esperanza de examinar la infinidad de voces y las filosofías de los hombres que atacan la verdad, debemos aprender a recibir revelación. En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa"
+        fuente: "\"El templo y el cimiento espiritual de ustedes\", Liahona, noviembre de 2021, págs. 93-94",
+        texto: "El Señor ha declarado que, a pesar de los desafíos sin precedentes de hoy, aquellos que edifican sus cimientos en Jesucristo, y han aprendido a invocar Su poder, no tienen por qué sucumbir a las inquietudes singulares de esta época",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/47nelson?lang=spa&id=p9-p10,p13#p9"
       },
       // ✅ Cita verificada contra el discurso original (combinación de dos frases del mismo discurso).
       {
@@ -281,9 +282,8 @@ export const semana1Lecciones: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "\"Revelación para la Iglesia, revelación para nuestras vidas\", Conferencia General, abril de 2018 (Liahona, mayo de 2018, pág. 96)",
         texto: "Mis amados hermanos y hermanas, les suplico que aumenten su capacidad espiritual para recibir revelación. En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&id=p36-p38#p36"
       },
-      // ✅ Cita verificada palabra por palabra (mismo discurso que la lección anterior, "164").
       {
         tipo: "conclusion",
         contenido: "Recibir revelación personal es el derecho de cada miembro fiel. Dios quiere comunicarse con vos —a tu mente y a tu corazón— exactamente en tus circunstancias actuales. Para recibir esa comunicación necesitás humildad, fe, obediencia, y disposición de actuar. Esta semana, elegí una pregunta concreta que tengas y llevala a Dios con fe genuina, dispuesto a recibir y a actuar según lo que recibas."
@@ -347,13 +347,10 @@ export const semana2Lecciones: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Dallin H. Oaks",
-        fuente: "\"La necesidad de una Iglesia\", Conferencia General, octubre de 2021 — texto no verificado, ver nota",
+        fuente: "\"La necesidad de una Iglesia\", Conferencia General, octubre de 2021",
         texto: "A pesar de las buenas obras que se pueden realizar sin una iglesia, la plenitud de la doctrina y sus ordenanzas salvadoras y exaltadoras están disponibles únicamente en la Iglesia Restaurada.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/18oaks?lang=spa"
       },
-      // ⚠️ El discurso y el tema son reales, pero la frase exacta del archivo original ("Yo necesito la
-      // Iglesia para cumplir mis convenios...") no se encontró textualmente. Se reemplazó por una cita
-      // verificada del mismo discurso.
       {
         tipo: "conclusion",
         contenido: "D&C 20:1–36 establece que la Iglesia fue fundada por revelación divina, no por iniciativa humana. Sus doctrinas centrales son la base sobre la que todo lo demás descansa. La próxima vez que alguien te pregunte para qué sirve pertenecer a una iglesia, tenés la respuesta aquí: la Iglesia es la organización que el Señor estableció para administrar Su evangelio, conferir Sus ordenanzas, y reunir a Su pueblo. No es opcional en el plan de salvación; es parte esencial de él."
@@ -408,14 +405,11 @@ export const semana2Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2018, pág. 18 — cita no verificada, ver nota",
-        texto: "La Santa Cena es el tiempo más sagrado de toda la semana. Durante ese tiempo sagrado, recordamos la Expiación del Salvador, renovamos nuestros convenios, y nos prometemos a nosotros mismos que siempre nos acordaremos de Él.",
-        link: ""
+        autor: "Elder D. Todd Christofferson",
+        fuente: "Cuando te hayas convertido — Conferencia General, abril de 2004",
+        texto: "Al buscar la bendición de la conversión, puedes brindar al Señor la ofrenda de tu corazón quebrantado o arrepentido y tu espíritu contrito u obediente. En realidad, es la ofrenda de ti mismo, de lo que eres y de lo que estás llegando a ser",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2004/04/when-thou-art-converted?lang=spa"
       },
-      // ⚠️ No pudimos verificar esta cita textualmente contra ningún discurso de Nelson en esa fecha.
-      // El autor y el tema (la Santa Cena como ordenanza central de la reunión sacramental) son
-      // coherentes con sus enseñanzas conocidas, pero no se confirmó la fuente exacta. link: no verificado.
       {
         tipo: "conclusion",
         contenido: "Las oraciones de la Santa Cena contienen los convenios exactos del bautismo. Cada domingo, la Santa Cena da la oportunidad de renovar esa relación con Cristo y recibir la promesa de Su Espíritu. Cuando participamos conscientemente —no de forma mecánica— esa renovación es real. Este domingo, escuchá las palabras de la oración con atención y decidí si estás cumpliendo lo que te comprometiste a hacer."
@@ -461,14 +455,10 @@ export const semana2Lecciones: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Ezra Taft Benson",
-        fuente: "\"Catorce razones para seguir al profeta\", devocional de BYU, 26 de febrero de 1980 — texto no verificado, ver nota",
-        texto: "El profeta viviente es más importante para nosotros que un profeta muerto. El profeta más importante, en lo que nos concierne a nosotros, es el que vive en la actualidad.",
-        link: ""
+        fuente: "\"El profeta de Dios\", Liahona, Mayo de 2018, pág. 26",
+        texto: "No se sorprendan si en ocasiones sus perspectivas personales no están inicialmente en armonía total con las enseñanzas del profeta del Señor. Estos son momentos de aprendizaje, de humildad, en los que nos arrodillamos en oración. Caminamos hacia delante con fe, sabiendo que con el tiempo recibiremos más claridad espiritual de nuestro Padre Celestial",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa"
       },
-      // ⚠️ El principio es real y proviene efectivamente de Ezra Taft Benson, pero de su discurso
-      // "Catorce razones para seguir al profeta" (BYU, 1980), no de "Liahona, julio de 1972" como decía
-      // el archivo original (en 1972 Benson ni siquiera era Presidente de la Iglesia). Se corrigió la
-      // fuente; el texto exacto de esta paráfrasis no se pudo verificar palabra por palabra.
       {
         tipo: "conclusion",
         contenido: "Seguir al profeta no es seguir a un hombre; es seguir al Señor que habla a través de ese hombre. D&C 21:4–6 hace la equivalencia explícita. Cuando el consejo del profeta es difícil, la clave está en las palabras 'en toda paciencia y fe'. Esta semana, identificá un consejo reciente del profeta que todavía no estás aplicando del todo y da un paso concreto hacia eso."
@@ -518,13 +508,11 @@ export const semana2Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Documento de base sobre el Dominio de la doctrina",
-        fuente: "\"Adquirir conocimiento espiritual\" — texto parafraseado, ver nota",
-        texto: "A fin de analizar los conceptos doctrinales, las preguntas y las inquietudes sociales con una perspectiva eterna, los consideramos en el contexto del Plan de Salvación y de las enseñanzas del Salvador. Procuramos la ayuda del Espíritu Santo a efectos de ver las cosas como el Señor las ve.",
-        link: "https://www.churchofjesuschrist.org/study/manual/doctrinal-mastery-core-document-2023/acquiring-spiritual-knowledge?lang=spa"
+        autor: "Elder Dieter F. Uchtdorf",
+        fuente: "\"El reflejo en el agua\" — Deovcional del sistema Educativo, 1 de noviembre de 2009",
+        texto: "Mis queridos jóvenes amigos, somos personas que hacemos preguntas, porque sabemos que el preguntar conduce a la verdad. Fue así como comenzó la Iglesia, por un joven que tenía preguntas. De hecho, no estoy seguro de cómo se puede descubrir la verdad si no se hacen preguntas. La indagación es la cuna del testimonio […]. El hacer preguntas no es señal de debilidad; es el acto precursor del crecimiento.",
       },
-      // ✅ Documento oficial real y verificado; el texto del archivo original era una paráfrasis
-      // razonablemente fiel, ahora ajustada más de cerca a la redacción oficial del documento.
+
       {
         tipo: "conclusion",
         contenido: "Examinar las preguntas difíciles con perspectiva eterna no las elimina instantáneamente, pero las transforma. Cuando recordás que sos hijo o hija de un Padre que te conoce perfectamente, que esta vida es parte de un plan más grande, y que el Salvador ya descendió más abajo que cualquier cosa que enfrentarás, podés vivir con fe en lugar de con miedo. Esta semana, tomá una situación difícil de tu vida y aplícale deliberadamente la perspectiva del Plan de Salvación."
@@ -574,12 +562,11 @@ export const semana2Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "\"Verdad pura, doctrina pura y revelación pura\", Conferencia General, octubre de 2021 (Liahona, noviembre de 2021, págs. 6–7)",
-        texto: "Sí existen el bien y el mal. Realmente existe la verdad absoluta: la verdad eterna. Una de las plagas de nuestra época es que muy pocas personas saben adónde acudir en busca de la verdad. La doctrina pura de Cristo es poderosa; cambia la vida de todo aquel que la entiende y procura implementarla en su vida.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=spa"
+        autor: "Elder Neil L. Andersen",
+        fuente: "\"El ojo de la fe\", Liahona, mayo de 2019, pág. 35)",
+        texto: "Contemplen ahora esta obra artística de Michael Murphy. Desde esta perspectiva, difícilmente creerán que se trate de una representación artística del ojo humano. Sin embargo, si observan los puntos desde una perspectiva diferente, apreciarán la belleza de la creación del artista. De igual modo, nosotros vemos las verdades espirituales de Dios desde la perspectiva del ojo de la fe",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/25andersen?lang=spa&id=p14-p15#p14"
       },
-      // ✅ Cita verificada palabra por palabra contra el discurso original.
       {
         tipo: "conclusion",
         contenido: "Las fuentes que usás para buscar verdad espiritual determinan qué tan cerca de Dios llegás. D&C 88:118 te dice buscarlas con diligencia 'en el estudio y también con la fe'. Esta semana, cuando tengas una pregunta espiritual, antes de googlearla, intentá primero con las fuentes que el Señor señaló: la Escritura, los Temas del Evangelio, la oración. Verás la diferencia."
@@ -637,14 +624,11 @@ export const semana3Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Neil L. Andersen",
-        fuente: "Liahona, noviembre de 2020 — cita no verificada, ver nota",
-        texto: "El Salvador os conoce. Él sabe cuándo tienes ganas de llorar. Él sabe cuándo te sientes solo. Él sabe de las batallas que estás librando.",
-        link: ""
+        autor: "Cristina B. Franco",
+        fuente: "El Padre Celestial te conoce, Liahona, Junio de 2018",
+        texto: "El Padre Celestial también te conoce a ti. Él sabe dónde estás y quién eres y lo que necesitas. Él escucha y contesta tus oraciones. Por muy solo que te sientas, Él siempre está ahí. ¡Nunca estás solo! Siempre puedes volverte a Él",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2018/06/children/heavenly-father-knows-you?lang=spa"
       },
-      // ⚠️ El discurso real del élder Andersen en la Conferencia General de octubre de 2020 fue
-      // "Hablamos de Cristo", y no contiene este texto. No se encontró ningún otro discurso suyo de esa
-      // fecha con esta cita. Es probable que la atribución sea incorrecta. link: no verificado.
       {
         tipo: "conclusion",
         contenido: "El Señor no habló en D&C 23–24 a la Iglesia en general; habló a personas concretas por su nombre. Ese es Su estilo: personal, específico, adaptado a cada situación. La promesa de 'ten paciencia en tus aflicciones, pues no siempre tendrás que sufrir' no fue para toda la humanidad en abstracto; fue para José Smith en su situación concreta. Y el Señor tiene el mismo tipo de instrucción personalizada para vos. Buscá Su guía con fe y especificidad."
@@ -692,15 +676,6 @@ export const semana3Lecciones: Lesson[] = [
           }
         ]
       },
-      {
-        tipo: "enseñanza",
-        autor: "Primera Presidencia",
-        fuente: "Prólogo de la Primera Presidencia, Himnos de La Iglesia de Jesucristo de los Santos de los Últimos Días, 1985",
-        texto: "El canto de los himnos muchas veces es en sí un elocuente sermón. Los himnos nos instan a arrepentirnos y a hacer buenas obras, fortalecen nuestro testimonio y nuestra fe, nos consuelan cuando nos sentimos tristes o desesperanzados y nos inspiran a perseverar hasta el fin.",
-        link: "https://www.churchofjesuschrist.org/study/manual/using-the-hymnbook/first-presidency-preface?lang=spa"
-      },
-      // ✅ Documento real y verificado; se corrigió el texto para reflejar la redacción exacta del
-      // prólogo (el archivo original tenía una paráfrasis con palabras distintas).
       {
         tipo: "conclusion",
         contenido: "D&C 25 demuestra que el Señor tiene llamados divinos específicos para las mujeres, de igual importancia que cualquier otro llamado. Los consejos que le dio a Emma —consolar, estudiar, exhortar, crear— son también formas de llegar a ser más como el Salvador. El v. 16 lo extiende a todos: estas instrucciones son la voz del Señor para cada uno de nosotros. ¿Cuál de estas formas de ministerio podés practicar más activamente esta semana?"
@@ -807,8 +782,6 @@ export const semana3Lecciones: Lesson[] = [
         texto: "Cuando lleguen esos momentos y surjan los problemas, y la resolución de esos problemas no sea inmediata, aférrense al conocimiento que ya tienen y manténganse firmes hasta que reciban más conocimiento.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/lord-i-believe?lang=spa"
       },
-      // ✅ Discurso real y confirmado (citado también por el Documento de base sobre el Dominio de la
-      // doctrina). Se corrigió el texto: el archivo original tenía una paráfrasis distinta a la cita real.
       {
         tipo: "conclusion",
         contenido: "Actuar con fe no significa ignorar las dudas; significa no dejar que las dudas paralicen la acción. Juan 7:17 promete que quien quiera hacer la voluntad de Dios llegará a conocer la doctrina. El conocimiento espiritual sigue a la obediencia fiel, no solo a la investigación intelectual. Esta semana, identificá una verdad del evangelio que dudás y actuá según ella de todas formas. Observá qué pasa."
@@ -855,6 +828,14 @@ export const semana3Lecciones: Lesson[] = [
             link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa&id=p6#p6"
           }
         ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Elder Russell Ballard",
+        fuente: "\"Volver y Recibir\", Liahona, mayo de 2017, pág. 62).",
+        texto: "Cuando una persona sabe adónde se dirige y cómo espera llegar a su destino, le proporciona significado, propósito y logro a su vida. Algunos tienen dificultad para diferenciar entre una meta y un plan hasta que aprenden que una meta es un destino o un fin, mientras que un plan es la ruta por la que llegamos a ese destino",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/return-and-receive?lang=spa&id=p4-p5#p4"
+
       },
       {
         tipo: "conclusion",
@@ -912,14 +893,6 @@ export const semana4Lecciones: Lesson[] = [
         ]
       },
       {
-        tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2018, pág. 18 — cita no verificada, ver nota",
-        texto: "La Santa Cena es el tiempo más sagrado de toda la semana. Si lo hacemos con fe, recibiremos Su Espíritu para estar con nosotros.",
-        link: ""
-      },
-      // ⚠️ No pudimos verificar esta cita textualmente (ver misma advertencia en la Lección 36).
-      {
         tipo: "conclusion",
         contenido: "D&C 27 revela que la Santa Cena no es solo un rito memorial; es una anticipación de la gran reunión futura del convenio. Lo que el Señor pide es participar 'con la mira puesta únicamente en Su gloria', no en la forma ni en los elementos. Esa intención del corazón transforma la experiencia. Este domingo, antes de recibir la Santa Cena, tomá un momento para deliberadamente dirigir tu mente y corazón al Salvador."
       },
@@ -963,13 +936,11 @@ export const semana4Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2023, pág. 97 — cita no verificada, ver nota",
-        texto: "Vivimos en una época en que el adversario está trabajando horas extra. Para resistir sus ataques debemos estar completamente inmersos en el evangelio de Jesucristo.",
-        link: ""
+        autor: "Elder J. Debn Cornish",
+        fuente: "El privilegio de la Oración - Liahona, Noviembre de 2011, Pág. 102",
+        texto: "En nuestras oraciones podemos iniciar el proceso protector de ponernos toda la armadura de Dios (véase Efesios 6:11; D. y C. 27:15) al esperar con ansias el día por delante y pedir ayuda con las a veces temibles cosas que quizás tengamos que enfrentar. Por favor, amigos míos, no se olviden de pedirle al Señor que los proteja y que esté con ustedes.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-privilege-of-prayer?lang=spa&id=p23#p23"
       },
-      // ⚠️ No pudimos verificar esta cita textualmente contra ningún discurso de Nelson en esa fecha.
-      // link: no verificado.
       {
         tipo: "conclusion",
         contenido: "D&C 27:15–18 es una instrucción práctica: el Salvador ofrece protección real, pero debemos elegir ponernos la armadura. La verdad como cinturón, la fe como escudo, la Palabra de Dios como espada —cada elemento es algo que podemos cultivar o descuidar. El adversario ataca hoy igual que siempre; la protección que el Señor ofrece también es la misma. La pregunta es si estamos deliberadamente usando lo que Él ofrece."
@@ -1063,6 +1034,12 @@ export const semana4Lecciones: Lesson[] = [
             link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/19?lang=spa&id=p23#p23"
           }
         ]
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Rusell M. Nelson",
+        fuente: "Los profetas, el liderazgo y la ley divina - Devocional mundial 2017",
+        texto: "Estudien todo lo que Jesucristo es, procurando, de manera devota y vigorosa, entender lo que cada uno de Sus títulos y nombres significan personalmente para ustedes. Por ejemplo, Él en verdad es su Abogado ante el Padre. Él estará de su lado; él los defenderá; hablará en beneficio de ustedes, en toda ocasión, a medida que ustedes decidan ser más como Él"
       },
       {
         tipo: "conclusion",
@@ -1168,15 +1145,11 @@ export const semana5Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "\"Juventud de Israel\", devocional mundial para jóvenes, 3 de junio de 2018 — texto no verificado, ver nota",
-        texto: "¿Les gustaría formar gran parte del desafío más grande, de la causa más sublime y de la obra más grandiosa de la tierra hoy en día? ¿Les gustaría ayudar a recoger a Israel durante estos preciados últimos días?",
-        link: "https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa"
+        autor: "Elder Dale G. Renlund",
+        fuente: "\"Su naturaleza divina y destino eterno\", Liahona, Mayo de 2022, págs. 76-77",
+        texto: "Nuestro Padre Celestial desea que ustedes se conviertan en Sus herederos y reciban todo lo que Él tiene. Él no puede ofrecerles más, no puede prometerles más. Él los ama más de lo que ustedes saben y quiere que sean felices en esta vida y en la vida venidera",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/36renlund?lang=spa&id=p21#p21"
       },
-      // ⚠️ El tema es real (el recogimiento de Israel como "la obra más grandiosa de la tierra"), pero
-      // la fuente original del archivo ("Liahona, mayo de 2018") era incorrecta: esta enseñanza proviene
-      // de un devocional mundial para jóvenes (3 de junio de 2018), no de la Conferencia General de abril.
-      // Se corrigió la fuente y se ajustó el texto a la cita real más cercana.
       {
         tipo: "conclusion",
         contenido: "Jesucristo es el Abogado ante el Padre —está activamente intercediendo por cada uno de nosotros. Su deseo de reunir a Sus escogidos es urgente y lleno de amor. Ser parte de ese proceso no requiere ser misionero de tiempo completo; requiere estar dispuesto a compartir el evangelio en el entorno cotidiano. El Señor eligió a los 'débiles' precisamente para confundir a los sabios. Eso te incluye a vos. Esta semana, ¿quién en tu entorno podrías ayudar a escuchar al Redentor?"
@@ -1273,13 +1246,12 @@ export const semana5Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2016, pág. 14 — cita no verificada, ver nota",
-        texto: "En la Expiación de Jesucristo, el amor de Dios se expresa de la manera más completa y perfecta. Ningún hijo de Dios está fuera del alcance de ese amor.",
-        link: ""
+        autor: "Presidente Thomas S. Monson",
+        fuente: "Los tres aspectos de las decisiones Liahona, noviembre de 2010, págs. 67",
+        texto: "Ni siquiera pasa una hora del día en la que no tengamos que tomar decisiones de una u otra índole. Algunas son triviales, pero otras son de mayor alcance; algunas no marcarán ninguna diferencia en el orden eterno de las cosas, mientras que otras marcarán toda la diferencia",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/10/the-three-rs-of-choice?lang=spa&id=p4#p4"
       },
-      // ⚠️ No pudimos verificar esta cita textualmente contra ningún discurso de Holland en esa fecha.
-      // link: no verificado.
+
       {
         tipo: "conclusion",
         contenido: "D&C 29 completa el cuadro doctrinal del Plan de Salvación: el albedrío como núcleo del plan, y la misericordia de Dios extendida hasta los niños más pequeños. No hay brecha en ese plan. Cada persona que nace tiene luz de Cristo. Cada niño que muere antes de la edad de responsabilidad está cubierto por la sangre del Salvador. Esta doctrina no genera complacencia; genera gratitud profunda por el diseño perfecto de un Padre que ama a cada uno de Sus hijos sin excepción."
@@ -1328,6 +1300,14 @@ export const semana5Lecciones: Lesson[] = [
         ]
       },
       {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Verdad pura, doctrina pura y revelación pura - Liahona, noviembre de 2021, pág. 6",
+        texto: "Las Autoridades Generales y los Oficiales Generales de la Iglesia que discursen centrarán sus mensajes en nuestro Salvador Jesucristo, Su misericordia y Su infinito poder redentor. Nunca ha habido una época en la historia del mundo en la que el conocimiento de nuestro Salvador fuera más vital y relevante en lo personal para toda alma humana. Imaginen lo rápido que se resolverían los devastadores conflictos de todo el mundo, y los de nuestra propia vida, si todos nosotros decidiéramos seguir a Jesucristo y prestar atención a Sus enseñanzas",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=spa&id=p5#p5"
+      },
+
+      {
         tipo: "conclusion",
         contenido: "La Conferencia General es una de las ocasiones más sagradas del año para los santos: el Señor habla a toda Su Iglesia a través de Sus siervos. La calidad de esa experiencia depende directamente de la preparación de quien escucha. Estudiantes que llegan con preguntas específicas, con corazón preparado y disposición de actuar, reciben revelación personal. Los que llegan sin preparación escuchan palabras. Esta semana, identificá dos o tres preguntas concretas que llevarás a la próxima Conferencia General."
       },
@@ -1371,13 +1351,12 @@ export const semana5Lecciones: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Gordon B. Hinckley",
-        fuente: "Liahona, noviembre de 1997, pág. 70 — cita no verificada, ver nota",
-        texto: "Tenemos la palabra del Señor en las páginas de las Escrituras y en las enseñanzas del profeta viviente. Nunca ha habido una época con tanto acceso a la guía divina.",
-        link: ""
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Verdad pura, doctrina pura y revelación pura - Liahona, noviembre de 2021, pág. 6",
+        texto: "Las Autoridades Generales y los Oficiales Generales de la Iglesia que discursen centrarán sus mensajes en nuestro Salvador Jesucristo, Su misericordia y Su infinito poder redentor. Nunca ha habido una época en la historia del mundo en la que el conocimiento de nuestro Salvador fuera más vital y relevante en lo personal para toda alma humana. Imaginen lo rápido que se resolverían los devastadores conflictos de todo el mundo, y los de nuestra propia vida, si todos nosotros decidiéramos seguir a Jesucristo y prestar atención a Sus enseñanzas",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=spa&id=p5#p5"
       },
-      // ⚠️ No pudimos verificar esta cita textualmente contra ningún discurso de Hinckley en esa fecha.
-      // link: no verificado.
+
       {
         tipo: "conclusion",
         contenido: "Los mensajes de la Conferencia General son 'la voluntad del Señor, la mente del Señor, la palabra del Señor' (D&C 68:4) cuando son dados por el Espíritu. Estudiarlos con técnicas concretas —identificar el principio central, las Escrituras de fundamento, y la invitación a la acción— transforma esos mensajes en guía personal específica para tu vida. Esta semana, elegí un discurso reciente de la Conferencia General y estudíalo con ese proceso. Escribí qué vas a hacer diferente como resultado."
