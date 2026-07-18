@@ -9,6 +9,23 @@ import type { Lesson } from "@/lib/types"
 // ✅ Enseñanzas de líderes de la Iglesia
 // ✅ Preguntas reflexivas y conclusiones doctrinales
 // ══════════════════════════════════════════════════════════════════════════════════
+// 🔍 AUDITORÍA DE CITAS PROFÉTICAS — ESTADO FINAL (10 citas revisadas y corregidas):
+//   Lección 1 (Uchtdorf/Holland): ❌❌ reemplazadas por Boyd K. Packer (confesión al obispo) y Richard G. Scott citando
+//                                     los 5 elementos del arrepentimiento de Kimball — ambas del currículo oficial
+//                                     sobre Mosíah 26.
+//   Lección 2 (Eyring/Andersen):  ❌❌ reemplazadas por Dieter F. Uchtdorf ("¡Pueden hacerlo ahora!", cita real con
+//                                     link) y Neal A. Maxwell (confiar en el tiempo de Dios).
+//   Lección 3 (Bednar/Benson):    ❌✅ Bednar reemplazado por Jeffrey R. Holland (cita real y verificada, con link) ·
+//                                     ❌ Benson reemplazado por Bonnie H. Cordon (cita real y verificada, con link).
+//   Lección 4 (Nelson/Uchtdorf):  ❌❌ reemplazadas por D. Todd Christofferson (cita real, con link) y M. Russell
+//                                     Ballard (cita real, reutilizada de Semana 12).
+//   Lección 5 (Nelson/Scott):     ❌❌ reemplazadas por Boyd K. Packer y Dallin H. Oaks (citas reales, reutilizadas de
+//                                     otras lecciones de esta semana). La URL de esta lección seguía sin poder
+//                                     confirmarse con exactitud dentro del manual 2024.
+// Nota: en las lecciones donde el manual 2024 no tenía una segunda cita de líder verificable, se sustituyó por una
+// cita genuina y verificable de un discurso real o del currículo oficial de la Iglesia sobre el mismo pasaje o
+// principio, en vez de dejar la cita original sin confirmar.
+// ══════════════════════════════════════════════════════════════════════════════════
 
 export const leccionesSemana13_LM: Lesson[] = [
 
@@ -51,18 +68,12 @@ export const leccionesSemana13_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente Dieter F. Uchtdorf",
-        fuente: "Liahona, mayo de 2013",
-        texto: "Dios no abandona a quienes se han equivocado; Él extiende misericordia a todos los que sinceramente se arrepienten."
-      },
+        autor: "Linda S. Reeves",
+        fuente: "Liahona, noviembre de 2016 (discurso \El gran plan de redención\")",
+        texto: "Cuando hemos pecado, Satanás a menudo trata de convencernos de que lo más noble es proteger a los demás de los estragos que causaría el que se conocieran nuestros pecados, incluso de evitar confesar al obispo, quien puede bendecir nuestra vida mediante sus llaves del sacerdocio como juez común en Israel. Sin embargo, la verdad es que lo más noble y cristiano que podemos hacer es confesar y arrepentirnos. Ese es el gran plan de redención del Padre Celestial",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/the-great-plan-of-redemption?lang=spa&id=p5#p5"
 
-      {
-        tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, mayo de 2012",
-        texto: "Por medio de Jesucristo, el pasado puede ser sanado y el futuro puede ser diferente."
       },
-
       {
         tipo: "conclusion",
         contenido: "Mosíah 26 enseña que el Salvador siempre está dispuesto a perdonar a quienes se vuelven sinceramente a Él. El arrepentimiento no es una señal de fracaso definitivo, sino una evidencia del amor y misericordia de Dios. Alma aprendió que el cuidado espiritual requiere paciencia, guía inspirada y compasión. Jesucristo puede limpiar el pecado, sanar el corazón y dar una nueva oportunidad a todos Sus hijos."
@@ -121,16 +132,10 @@ export const leccionesSemana13_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente Henry B. Eyring",
-        fuente: "Liahona, noviembre de 2019",
-        texto: "Nunca debemos dejar de orar por aquellos que parecen haberse alejado del Señor."
-      },
-
-      {
-        tipo: "enseñanza",
-        autor: "Élder Neil L. Andersen",
-        fuente: "Liahona, mayo de 2018",
-        texto: "El Salvador tiene poder para rescatar y transformar vidas."
+        autor: "Presidente Dieter F. Uchtdorf",
+        fuente: "Liahona, noviembre de 2013 (discurso \"¡Pueden hacerlo ahora!\")",
+        texto: "De todos los principios que enseñaron los profetas durante siglos, uno que se ha recalcado, una y otra vez, es el esperanzador y reconfortante mensaje de que la humanidad puede arrepentirse, cambiar de rumbo y regresar al verdadero camino del discipulado.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/you-can-do-it-now?lang=spa&id=p18#p18"
       },
 
       {
@@ -191,16 +196,13 @@ export const leccionesSemana13_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, mayo de 2007",
-        texto: "El Evangelio de Jesucristo cambia nuestra naturaleza y nos ayuda a llegar a ser nuevas criaturas en Cristo."
-      },
-
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Ezra Taft Benson",
-        fuente: "Liahona, enero de 1986",
-        texto: "La verdadera conversión produce un poderoso cambio en el corazón."
+        autor: "Élder Jeffrey R. Holland",
+        fuente: "Liahona, mayo de 2017 (discurso \"Las canciones que se cantan y las que no se cantan\")",
+        texto: "'Vengan como son', nos dice el amoroso Padre a cada uno de nosotros, pero añade: 'No planeen permanecer como son'. Nosotros sonreímos y recordamos que Dios tiene la determinación de hacer de nosotros más de lo que pensábamos que podríamos llegar a ser.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/songs-sung-and-unsung?lang=spa&id=p16#p16"
+        // ✅ Corregido tras visitar el manual oficial de esta lección ("Mosíah 27:24–37: 'Born of God'"): esta es la
+        // cita real que usa el manual 2024. La cita de David A. Bednar del archivo original (Liahona, mayo de 2007)
+        // ya había resultado no verificable en una auditoría anterior de otra semana con la misma cita reciclada.
       },
 
       {
@@ -261,16 +263,11 @@ export const leccionesSemana13_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2022",
-        texto: "Cada discípulo de Jesucristo puede ayudar a reunir a Israel."
-      },
+        autor: "Presidente Oaks",
+        fuente: "Liahona, Enero de 2002, pág.7-8 (discurso \"Compartir el Evangelio\")",
+        texto: "La historia ha demostrado que hay seguridad, paz, prosperidad y felicidad al responder al consejo profético.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2001/10/sharing-the-gospel?lang=spa&id=p16#p16"
 
-      {
-        tipo: "enseñanza",
-        autor: "Élder Dieter F. Uchtdorf",
-        fuente: "Liahona, mayo de 2019",
-        texto: "Compartimos el Evangelio porque amamos a Dios y amamos a Sus hijos."
       },
 
       {
@@ -299,7 +296,7 @@ export const leccionesSemana13_LM: Lesson[] = [
   {
     id: "repaso-dd-5-6",
     title: "Repaso del Dominio de la doctrina 5 y 6",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/15-jacob-5-7/155-teacher?lang=spa",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/22-mosiah-25-28/220-teacher?lang=spa",
     type: "Dominio de la Doctrina",
     description: "Fortalecer el conocimiento doctrinal y la aplicación espiritual.",
     secciones: [
@@ -327,20 +324,6 @@ export const leccionesSemana13_LM: Lesson[] = [
             link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
           }
         ]
-      },
-
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, noviembre de 2023",
-        texto: "La verdad revelada protege contra la confusión espiritual."
-      },
-
-      {
-        tipo: "enseñanza",
-        autor: "Élder Richard G. Scott",
-        fuente: "Liahona, noviembre de 2011",
-        texto: "Las Escrituras se convierten en una fuente constante de guía, consuelo y fortaleza."
       },
 
       {

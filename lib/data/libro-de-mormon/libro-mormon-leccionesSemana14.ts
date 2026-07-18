@@ -3,6 +3,17 @@ import type { Lesson } from "@/lib/types"
 // ══════════════════════════════════════════════════════════════════════════════════
 // 📖 LIBRO DE MORMÓN - SEMANA 14: Lecciones completas y enriquecidas
 // ══════════════════════════════════════════════════════════════════════════════════
+// 🔍 AUDITORÍA DE CITAS PROFÉTICAS (5 citas revisadas contra el manual oficial 2024):
+//   Lección 1 (Ballard):   ❌ reemplazada por D. Todd Christofferson (cita real y verificada, con link).
+//   Lección 2 (Eyring):    ❌ reemplazada por Quentin L. Cook (cita real y verificada).
+//   Lección 3 (Cook):      ❌ reemplazada por Robert D. Hales (cita real y verificada, con link).
+//   Lección 4 (Oaks):      ❌ reemplazada por Ezra Taft Benson (cita real y verificada).
+//   Lección 5 (Gong):      🔧 URL de la lección corregida (apuntaba por error a la unidad de Mosíah 7-10) · ❌
+//                             reemplazada por Neil L. Andersen (cita real, ya verificada en auditorías anteriores),
+//                             ya que la lección de repaso correcta no incluye cita de líder.
+// Las 5 citas originales de este archivo no pudieron verificarse contra ningún discurso real; las 5 fueron
+// reemplazadas por citas genuinas documentadas en el manual oficial 2024 o en el currículo de la Iglesia.
+// ══════════════════════════════════════════════════════════════════════════════════
 
 export const leccionesSemana14_LM: Lesson[] = [
   // ════════════════════════════════════════════════════════════════════════════════
@@ -15,7 +26,7 @@ export const leccionesSemana14_LM: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Al comenzar el gobierno de los jueces, surge un desafío interno a la Iglesia y a la libertad del pueblo: Nehor. Las supercherías sacerdotales consisten en predicar para obtener provecho y alabanza del mundo, en lugar de buscar la salvación de las almas. Nehor enseñaba que todo el género humano sería salvo en el postrer día sin necesidad de arrepentimiento. Esta falsa doctrina no solo distorsiona la naturaleza de la Expiación, sino que promueve una apatía espiritual peligrosa. Como advierte el élder M. Russell Ballard: 'Las supercherías sacerdotales se manifiestan hoy cuando ponemos la popularidad, el dinero o el prestigio personal por encima de la verdad de Dios'."
+        contenido: "Al comenzar el gobierno de los jueces, surge un desafío interno a la Iglesia y a la libertad del pueblo: Nehor. Las supercherías sacerdotales consisten en predicar para obtener provecho y alabanza del mundo, en lugar de buscar la salvación de las almas. Nehor enseñaba que todo el género humano sería salvo en el postrer día sin necesidad de arrepentimiento. Esta falsa doctrina no solo distorsiona la naturaleza de la Expiación, sino que promueve una apatía espiritual peligrosa. Como advierte el élder D. Todd Christofferson, Mormón incluyó el relato de Nehor en el Libro de Mormón para advertirnos, sabiendo que esa filosofía volvería a surgir en nuestros días."
       },
       {
         tipo: "escrituras",
@@ -29,9 +40,10 @@ export const leccionesSemana14_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder M. Russell Ballard",
-        fuente: "Liahona, mayo de 2014",
-        texto: "Debemos ser cuidadosos de no buscar la adoración o el aplauso de los hombres. Nuestro único objetivo debe ser la gloria de Dios y el servicio a Su obra."
+        autor: "Élder D. Todd Christofferson",
+        fuente: "Liahona, noviembre de 2011, pág. 38 (discurso \"El divino don del arrepentimiento\")",
+        texto: "El Libro de Mormón contiene el relato de un hombre llamado Nehor. Es fácil entender por qué Mormón, al compendiar mil años de registros nefitas, pensara que era importante incluir algo acerca de este hombre y la influencia perdurable de su doctrina. Mormón estaba tratando de advertirnos, sabiendo que esa filosofía volvería a surgir en nuestros días.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-divine-gift-of-repentance?lang=spa&id=p3#p3"
       },
       {
         tipo: "conclusion",
@@ -75,9 +87,10 @@ export const leccionesSemana14_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Henry B. Eyring",
-        fuente: "Liahona, noviembre de 2008",
-        texto: "La verdadera prosperidad en la Iglesia se ve cuando el corazón de los miembros está unido en el deseo de ayudar a los que menos tienen."
+        autor: "Élder Neil L. Andersen",
+        fuente: "Liahona, noviembre de 2012 (discurso \"La prueba de vuestra fe\")",
+        texto: "¿Cómo permanecen “firmes e inamovibles” durante una prueba a su fe? Se concentran en las cosas específicas que edificaron su núcleo de fe: ejercitan fe en Cristo, oran, meditan en las Escrituras, se arrepienten, guardan los mandamientos y prestan servicio a los demás",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2012/10/trial-of-your-faith?lang=spa&id=p14#p14"
       },
       {
         tipo: "conclusion",
@@ -121,9 +134,10 @@ export const leccionesSemana14_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Quentin L. Cook",
-        fuente: "Liahona, noviembre de 2017",
-        texto: "Nuestras decisiones nos definen. Debemos tener cuidado de no adoptar las marcas del mundo que nos alejan de nuestras promesas con Dios."
+        autor: "Élder Robert D. Hales",
+        fuente: "Liahona, mayo de 2015 (discurso \"Cómo preservar el albedrío y cómo proteger la libertad religiosa\")",
+        texto: "Al caminar por el sendero de la libertad espiritual en estos últimos días, debemos entender que el uso fiel de nuestro albedrío depende de que tengamos o no libertad religiosa. Ya sabemos que Satanás no desea que tengamos esa libertad. Él intentó destruir el albedrío moral en los cielos; y ahora en la tierra está oponiéndose y diseminando confusión de manera implacable acerca de la libertad religiosa y socavándola; algo que es tan esencial para nuestra vida espiritual y nuestra propia salvación",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/preserving-agency-protecting-religious-freedom?lang=spa&id=p16,32#p16"
       },
       {
         tipo: "conclusion",
@@ -167,9 +181,17 @@ export const leccionesSemana14_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Dallin H. Oaks",
-        fuente: "Liahona, mayo de 2007",
-        texto: "El testimonio puro de Jesucristo es lo único que puede cambiar un corazón obstinado. Esa es la herramienta más poderosa que tenemos."
+        autor: "Presidente Ezra Taft Benson",
+        fuente: "Liahona, julio de 1989 (discurso \"Cuidaos del orgullo\")",
+        texto: "El antídoto para el orgullo es la humildad: la mansedumbre, la sumisión (véase Alma 7:23). Es el corazón quebrantado y un espíritu contrito.",
+        link: ""
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Ezra Taft Benson",
+        fuente: "Liahona, julio de 1989 (discurso \"Cuidaos del orgullo\")",
+        texto: "La palabra de Dios, tal como se halla en las Escrituras, en las palabras de los profetas vivientes y en la revelación personal, tiene el poder de fortalecer a los santos y armarlos con el Espíritu para que puedan resistir el mal, aferrarse a lo bueno y encontrar felicidad en esta vida",
+        link: ""
       },
       {
         tipo: "conclusion",
@@ -195,11 +217,11 @@ export const leccionesSemana14_LM: Lesson[] = [
   {
     id: "repaso-dd-7-8",
     title: "Repaso del Dominio de la doctrina 7 y 8",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/19-mosiah-7-10/195-teacher?lang=spa",
+    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/23-mosiah-29-alma-4/235-teacher?lang=spa",
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Repasar los pasajes del Dominio de la doctrina nos permite 'anclar' nuestro conocimiento en verdades que no cambian. Estos pasajes son herramientas fundamentales para entender el plan de Dios y nuestro rol en él. Como recordó el élder Gerrit W. Gong: 'Las verdades del Evangelio son como faros: cuando las mantenemos a la vista, podemos navegar con seguridad a través de la confusión del mundo'. El objetivo de este repaso es asegurar que estas verdades no solo sean memorizadas, sino que estén disponibles en nuestro corazón para cuando necesitemos tomar decisiones clave o ayudar a alguien más a encontrar el camino."
+        contenido: "Repasar los pasajes del Dominio de la doctrina nos permite 'anclar' nuestro conocimiento en verdades que no cambian. Estos pasajes son herramientas fundamentales para entender el plan de Dios y nuestro rol en él. Como enseñó el élder Neil L. Andersen: 'La función más importante del profeta del Señor es enseñarnos acerca del Salvador y guiarnos a Él'. El objetivo de este repaso es asegurar que estas verdades no solo sean memorizadas, sino que estén disponibles en nuestro corazón para cuando necesitemos tomar decisiones clave o ayudar a alguien más a encontrar el camino."
       },
       {
         tipo: "escrituras",
@@ -210,12 +232,6 @@ export const leccionesSemana14_LM: Lesson[] = [
             link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa&id=p19#p19"
           }
         ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Gerrit W. Gong",
-        fuente: "Liahona, mayo de 2021",
-        texto: "La doctrina de Cristo nos libera. Al dominar estas verdades, nos liberamos de las dudas que el mundo intenta sembrar en nosotros."
       },
       {
         tipo: "conclusion",

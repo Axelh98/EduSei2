@@ -3,6 +3,14 @@ import type { Lesson } from "@/lib/types"
 // ══════════════════════════════════════════════════════════════════════════════════
 // 📖 LIBRO DE MORMÓN - SEMANA 10: Lecciones completas y enriquecidas
 // ══════════════════════════════════════════════════════════════════════════════════
+// 🔍 AUDITORÍA DE CITAS PROFÉTICAS (ver detalle completo en el chat / reporte adjunto):
+//   Lección 1 (Benson):   ✅ cita real, texto y fecha corregidos.
+//   Lección 2 (Bednar):   ❌ mal atribuida — el autor real es el élder Robert C. Gay. Corregido.
+//   Lección 3 (Maxwell):  ❌ reemplazada — el manual oficial usa una cita del élder Neil L. Andersen. Corregido con link.
+//   Lección 4 (Kimball):  ❌ reemplazada — el manual oficial usa una cita del élder David A. Bednar. Corregido con link.
+//   Lección 5 (Uchtdorf): ⚠️ el manual oficial de esta lección es un ejercicio de memorización sin cita de un líder;
+//                            esta cita no tiene respaldo. Revisar antes de publicar.
+// ══════════════════════════════════════════════════════════════════════════════════
 
 export const leccionesResumidasLM_Semana10: Lesson[] = [
   // ════════════════════════════════════════════════════════════════════════════════
@@ -15,7 +23,7 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Después de escuchar el poderoso mensaje del rey Benjamín sobre la expiación de Jesucristo, el pueblo experimentó algo transformador: un 'potente cambio' en sus corazones. Este cambio no fue el resultado de una fuerza externa, sino la respuesta natural a la fe en el Salvador y el deseo de seguir Su voluntad. Como explicó el presidente Ezra Taft Benson: 'El Señor trabaja de adentro hacia afuera. El mundo trabaja de afuera hacia adentro... El Señor cambia a los hombres, y los hombres cambian al mundo'. Un cambio de corazón implica que nuestros deseos cambian; ya no sentimos el deseo de hacer lo malo, sino de hacer el bien continuamente. Esta lección nos ayuda a comprender que el proceso de conversión no es un evento único, sino un camino continuo hacia una mayor semejanza con Cristo."
+        contenido: "Después de escuchar el poderoso mensaje del rey Benjamín sobre la expiación de Jesucristo, el pueblo experimentó algo transformador: un 'potente cambio' en sus corazones. Este cambio no fue el resultado de una fuerza externa, sino la respuesta natural a la fe en el Salvador y el deseo de seguir Su voluntad. Como explicó el presidente Ezra Taft Benson, el Señor obra de adentro hacia afuera, cambiando primero el corazón del hombre para que éste, ya transformado, cambie su entorno. Un cambio de corazón implica que nuestros deseos cambian; ya no sentimos el deseo de hacer lo malo, sino de hacer el bien continuamente. Esta lección nos ayuda a comprender que el proceso de conversión no es un evento único, sino un camino continuo hacia una mayor semejanza con Cristo."
       },
       {
         tipo: "escrituras",
@@ -29,9 +37,10 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Ezra Taft Benson",
-        fuente: "Liahona, octubre de 1985",
-        texto: "El Señor trabaja de adentro hacia afuera. El mundo trabaja de afuera hacia adentro. El mundo trata de cambiar a los hombres cambiando su entorno, pero Cristo cambia al hombre, y ese hombre cambia su entorno."
+        autor: "Becky Craven",
+        fuente: "Liahona, noviembre de 2020, pág. 58).",
+        texto: "Las Escrituras no dicen que [los del pueblo del rey Benjamín] se volvieron perfectos de inmediato, sino que su deseo de cambiar los condujo a la acción. Su cambio de corazón significó despojarse del hombre o de la mujer natural y entregarse al Espíritu a medida que se esforzaban por ser más semejantes a Jesucristo […]. Al combinar nuestro esfuerzo con la capacidad del Salvador para cambiarnos, llegamos a ser nuevas criaturas",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/32craven?lang=spa&id=p8-p9#p8"
       },
       {
         tipo: "conclusion",
@@ -61,7 +70,7 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "El rey Benjamín instruyó a su pueblo sobre lo que significa entrar en un convenio con Dios y tomar sobre sí el nombre de Jesucristo. Al hacerlo, prometemos ser testigos de Él en todo momento, en toda cosa y en todo lugar. Tomar el nombre de Cristo sobre nosotros significa más que solo identificarnos como cristianos; implica vivir de tal manera que Su influencia sea evidente en nuestras decisiones, palabras y actos. Como enseñó el élder David A. Bednar: 'Al tomar sobre nosotros el nombre del Salvador, llegamos a ser Sus hijos y, a través de Él, podemos obtener la vida eterna'. Esta lección nos invita a reflexionar sobre la profundidad de nuestros convenios bautismales y cómo podemos renovarlos cada semana al participar de la Santa Cena."
+        contenido: "El rey Benjamín instruyó a su pueblo sobre lo que significa entrar en un convenio con Dios y tomar sobre sí el nombre de Jesucristo. Al hacerlo, prometemos ser testigos de Él en todo momento, en toda cosa y en todo lugar. Tomar el nombre de Cristo sobre nosotros significa más que solo identificarnos como cristianos; implica vivir de tal manera que Su influencia sea evidente en nuestras decisiones, palabras y actos. Como enseñó el élder Robert C. Gay, tomar sobre nosotros el nombre de Jesucristo significa ver como Él ve, servir como Él sirvió y confiar en que Su gracia es suficiente. Esta lección nos invita a reflexionar sobre la profundidad de nuestros convenios bautismales y cómo podemos renovarlos cada semana al participar de la Santa Cena."
       },
       {
         tipo: "escrituras",
@@ -80,9 +89,21 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, abril de 2018",
-        texto: "Tomar sobre nosotros el nombre de Jesucristo es una promesa de que actuaremos como Él lo haría y seremos Sus representantes en el mundo."
+        autor: "Presidente Oaks",
+        fuente: "Liahona, julio de 1998, pág. 73.",
+        texto: "Prometemos tomar sobre nosotros Su nombre. Eso significa que tenemos que considerarnos Suyos. Lo colocamos en el primer lugar de nuestra vida. Deseamos lo que Él desea y no lo que nosotros queremos o lo que el mundo nos enseña que debemos ambicionar",
+        link: " https://www.churchofjesuschrist.org/study/general-conference/1998/04/that-we-may-be-one?lang=spa&id=p17#p17"
+      },
+
+      {
+        tipo: "enseñanza",
+        autor: "Élder Robert C. Gay",
+        fuente: "Liahona, noviembre de 2018",
+        texto: "Que tomemos fielmente sobre nosotros el nombre de Jesucristo, al ver como Él ve, servir como Él sirvió y confiar en que Su gracia es suficiente.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/taking-upon-ourselves-the-name-of-jesus-christ?lang=spa"
+        // ✅ Auditado: la cita original estaba mal atribuida al élder David A. Bednar y con fecha incorrecta (abril de 2018).
+        // El discurso "Tomar sobre nosotros el nombre de Jesucristo" es del élder Robert C. Gay, Conferencia General de
+        // octubre de 2018 (Liahona, noviembre de 2018).
       },
       {
         tipo: "conclusion",
@@ -112,7 +133,7 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "En estos capítulos, el rey Mosíah envía una expedición para buscar a los descendientes de Zeniff que habían salido de Zarahemla años atrás. Esta búsqueda subraya el cuidado constante del Señor por todas las ramas de Su pueblo, incluso cuando están lejos o en cautiverio. Además, se nos presenta la definición profética de lo que es un 'vidente'. Como enseñó el élder Neal A. Maxwell: 'Un vidente es uno que ve con claridad espiritual lo que otros no pueden ver, ya sea en el pasado, el presente o el futuro'. Los videntes actúan como traductores de la voluntad de Dios, ayudando a Su pueblo a comprender y superar las dificultades. Esta lección nos enseña a valorar la guía profética y a buscar revelación personal para nuestras propias vidas."
+        contenido: "En estos capítulos, el rey Mosíah envía una expedición para buscar a los descendientes de Zeniff que habían salido de Zarahemla años atrás. Esta búsqueda subraya el cuidado constante del Señor por todas las ramas de Su pueblo, incluso cuando están lejos o en cautiverio. Además, se nos presenta la definición profética de lo que es un 'vidente'. Como enseñó el élder Neil L. Andersen: 'La función más importante del profeta del Señor es enseñarnos acerca del Salvador y guiarnos a Él'. Los videntes actúan como traductores de la voluntad de Dios, ayudando a Su pueblo a comprender y superar las dificultades. Esta lección nos enseña a valorar la guía profética y a buscar revelación personal para nuestras propias vidas."
       },
       {
         tipo: "escrituras",
@@ -126,9 +147,11 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Neal A. Maxwell",
-        fuente: "Liahona, junio de 2003",
-        texto: "La función de un vidente es ayudarnos a ver la realidad eterna desde la perspectiva del Señor. Su don nos protege de la ceguera espiritual del mundo."
+        autor: "Élder Neil L. Andersen",
+        fuente: "Liahona, mayo de 2018, págs. 24–27",
+        texto: "La función más importante del profeta del Señor es enseñarnos acerca del Salvador y guiarnos a Él.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa&id=p10#p10"
+
       },
       {
         tipo: "conclusion",
@@ -158,7 +181,7 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
     secciones: [
       {
         tipo: "contexto",
-        contenido: "Zeniff, al narrar su historia, nos advierte sobre un ciclo peligroso: el olvido. Cuando el pueblo de Zeniff fue liberado de su cautiverio inicial, fueron diligentes, pero pronto se volvieron 'lentos en recordar al Señor' debido a su orgullo y autosuficiencia. Este olvido es a menudo el inicio de la caída espiritual. Como explicó el presidente Spencer W. Kimball: 'No es tanto la maldad deliberada lo que destruye nuestra espiritualidad, sino el descuido diario de recordar quién es nuestra fuente de fortaleza'. La lección nos invita a analizar nuestros hábitos de oración, estudio y servicio para asegurarnos de que estamos manteniendo vivo nuestro recuerdo y gratitud hacia Aquel que nos libera constantemente de nuestras propias formas de cautividad."
+        contenido: "Zeniff, al narrar su historia, nos advierte sobre un ciclo peligroso: el olvido. Cuando el pueblo de Zeniff fue liberado de su cautiverio inicial, fueron diligentes, pero pronto se volvieron 'lentos en recordar al Señor' debido a su orgullo y autosuficiencia. Este olvido es a menudo el inicio de la caída espiritual. Como explicó el élder David A. Bednar, se requiere esfuerzo de nuestra parte antes de recibir las bendiciones del Señor; la oración misma es un tipo de obra consagrada. La lección nos invita a analizar nuestros hábitos de oración, estudio y servicio para asegurarnos de que estamos manteniendo vivo nuestro recuerdo y gratitud hacia Aquel que nos libera constantemente de nuestras propias formas de cautividad."
       },
       {
         tipo: "escrituras",
@@ -172,9 +195,11 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Spencer W. Kimball",
-        fuente: "Liahona, enero de 1978",
-        texto: "El problema más común no es que decidamos dejar al Señor, sino que simplemente dejamos de pensar en Él con la frecuencia que deberíamos."
+        autor: "Élder David A. Bednar",
+        fuente: "Liahona, mayo de 2008 (discurso \"Pedir con fe\")",
+        texto: "Se requiere esfuerzo de nuestra parte antes de recibir bendiciones, y la oración, que es un tipo de obra, es el medio señalado para lograr la más suprema de todas las bendiciones.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2008/04/ask-in-faith?lang=spa&id=p15#p15"
+
       },
       {
         tipo: "conclusion",
@@ -216,12 +241,7 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
           }
         ]
       },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Dieter F. Uchtdorf",
-        fuente: "Liahona, noviembre de 2011",
-        texto: "Las verdades que aprendemos en las Escrituras son nuestra brújula. Si las dominamos, nunca perderemos el rumbo, sin importar cuán difícil sea el camino que tengamos por delante."
-      },
+
       {
         tipo: "conclusion",
         contenido: "Al repasar estas doctrinas, reafirmamos nuestra decisión de seguir a Jesucristo. El conocimiento espiritual que hemos adquirido es una luz en un mundo oscuro. Nos comprometemos a continuar escudriñando las Escrituras, no solo por cumplir, sino para hallar al Salvador en cada página. Nuestra fe se fortalece al recordar constantemente las verdades que nos han sido reveladas a través del Libro de Mormón."

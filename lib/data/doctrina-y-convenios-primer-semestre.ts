@@ -248,7 +248,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         questions: dc25_parte1Questions,
       },
       {
-        id: "40-dc-25-parte-2",
+        id: "39b-dc-25-parte-2",
         title: "Doctrina y Convenios 25, Parte 2",
         type: "Doctrina y Convenios - Ven Sigueme",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/123-doctrine-and-covenants-25-part-2?lang=spa",
@@ -257,7 +257,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         questions: dc25_parte2Questions,
       },
       {
-        id: "168-actuar-fe-encontrar-respuestas",
+        id: "166-actuar-fe-encontrar-respuestas",
         title: "Recurrir a las fuentes divinamente señaladas como ayuda para encontrar respuestas",
         type: "Dominio de la Doctrina",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/525-acquiring-spiritual-knowledge-part-4?lang=spa",
@@ -266,7 +266,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         questions: actuar_fe_encontrar_respuestasQuestions,
       },
       {
-        id: "175-fijar-metas",
+        id: "167-fijar-metas",
         title: "Fijar metas",
         type: "Dominio de la Doctrina",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/552-setting-goals?lang=spa",
@@ -313,7 +313,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         questions: dc28Questions,
       },
       {
-        id: "170-encontrar-verdades-evangelio",
+        id: "169-encontrar-verdades-evangelio",
         title: "Encontrar verdades del Evangelio en las Escrituras",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/532-finding-gospel-truths-in-the-scriptures?lang=spa",
@@ -322,7 +322,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         questions: encontrar_verdadesQuestions,
       },
       {
-        id: "169-enfocarse-jc-escrituras",
+        id: "168-enfocarse-jc-escrituras",
         title: "Centrarse en Jesucristo en las Escrituras",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/531-focusing-on-jesus-christ-in-the-scriptures?lang=spa",
@@ -370,7 +370,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         questions: dc29_36_50Questions,
       },
       {
-        id: "208-preparar-conferencia-general",
+        id: "170-preparar-conferencia-general",
         title: "Prepararse para la conferencia general",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/541-preparing-for-general-conference?lang=spa",
@@ -379,7 +379,7 @@ export const doctrinaYConveniosWeeks1semestre: Week[] = [
         questions: preparar_conferencia_generalQuestions,
       },
       {
-        id: "209-mensajes-siervos",
+        id: "171-mensajes-siervos",
         title: "Estudiar los mensajes de los siervos del Señor",
         type: "Preparación para la Vida",
         chapterUrl: "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/542-studying-the-messages-of-the-lords-servants?lang=spa",

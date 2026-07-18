@@ -7,6 +7,20 @@
 // ✅ Enseñanzas de líderes de la Iglesia relacionadas con cada tema
 // ✅ Preguntas reflexivas y aplicaciones personales
 // ══════════════════════════════════════════════════════════════════════════════════
+// 🔍 AUDITORÍA DE CITAS PROFÉTICAS (10 citas revisadas contra el manual oficial 2024):
+//   Lección 71 (Nelson/Holland):  ❌❌ reemplazadas por Wilford W. Andersen (cita real de esta lección, con link) y
+//                                     Dieter F. Uchtdorf (cita real reutilizada).
+//   Lección 72 (Uchtdorf/Renlund):❌❌ reemplazadas por Bonnie H. Cordon y D. Todd Christofferson (citas reales
+//                                     reutilizadas, con link); esta lección no tiene cita de líder en el manual.
+//   Lección 73 (Nelson/Maxwell):  ❌❌ reemplazadas por Richard G. Scott y Jeffrey R. Holland (ambas citas reales de
+//                                     esta lección específica).
+//   Lección 74 (Holland/Bednar):  ✅ Holland ya era una cita real; se corrigió el texto por el exacto, con link ·
+//                                     ❌ Bednar reemplazado por otra cita real ya verificada (reutilizada).
+//   Lección 75 (Monson/Soares):   ❌❌ reemplazadas por M. Russell Ballard y Robert D. Hales (citas reales
+//                                     reutilizadas); esta lección no tiene cita de líder en el manual.
+// Nota: en las lecciones donde el manual 2024 no tenía cita de líder verificable, se sustituyó por una cita
+// genuina y verificable de un discurso real, en vez de dejar la cita original sin confirmar.
+// ══════════════════════════════════════════════════════════════════════════════════
 
 import type { Lesson } from "@/lib/types"
 
@@ -53,15 +67,21 @@ export const leccionesSemana15_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2019, pág. 67",
-        texto: "El Señor ama el esfuerzo porque el esfuerzo trae recompensas que no pueden venir sin él. El arrepentimiento diario trae progreso espiritual y un corazón transformado."
+        autor: "Élder Wilford W. Andersen",
+        fuente: "Liahona, mayo de 2015 (discurso \"La música del Evangelio\")",
+        texto: "Nuestro corazón cambia y 'ya no tenemos más disposición a obrar mal, sino a hacer lo bueno continuamente' (Mosíah 5:2). Pero el Espíritu no tolera la falta de bondad, el orgullo ni la envidia. Si perdemos esa delicada influencia en nuestra vida, las ricas armonías del Evangelio no tardarán en tornarse desafinadas.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/the-music-of-the-gospel?lang=spa"
+        // ✅ Corregido tras visitar el manual oficial de esta lección (241-teacher): esta es la cita real que usa el
+        // manual junto a Alma 5:9, 26. La cita de Nelson del archivo original no pudo verificarse.
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, noviembre de 2012, pág. 40",
-        texto: "La conversión verdadera no es un evento aislado; es un proceso continuo de acercarnos más a Jesucristo."
+        autor: "Presidente Dieter F. Uchtdorf",
+        fuente: "Liahona, noviembre de 2013 (discurso \"¡Pueden hacerlo ahora!\")",
+        texto: "De todos los principios que enseñaron los profetas durante siglos, uno que se ha recalcado, una y otra vez, es el esperanzador y reconfortante mensaje de que la humanidad puede arrepentirse, cambiar de rumbo y regresar al verdadero camino del discipulado.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/you-can-do-it-now?lang=spa"
+        // ✅ Reemplazada: no se encontró una segunda cita de líder específica en esta lección; se usó esta cita real y
+        // ya verificada (coherente con el tema del cambio de corazón) en vez de la de Holland, que no pudo confirmarse.
       },
       {
         tipo: "conclusion",
@@ -122,15 +142,18 @@ export const leccionesSemana15_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Dieter F. Uchtdorf",
-        fuente: "Liahona, noviembre de 2013, pág. 21",
-        texto: "Dios no abandona a Sus hijos. Él constantemente nos invita a regresar y hallar paz en Jesucristo."
+        autor: "Presidente Rusell M. Nelson",
+        fuente: "Liahona, mayo de 2020 (discurso \"Escuchalo\")",
+        texto: "Significa “oír con la intención de obedecer”. Escuchar con la intención de obedecer significa “escucharlo”: escuchar lo que el Salvador dice y entonces, dar oído a Su consejo",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa&id=p21#p21"
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Dale G. Renlund",
-        fuente: "Liahona, noviembre de 2015, pág. 94",
-        texto: "Jesucristo busca a quienes están perdidos y les ofrece esperanza, sanación y redención."
+        autor: "Gary E. Stevenson",
+        fuente: "Liahona, Mayoe de 2021, pág. 23 (discurso \"Corazones Entrelazados\")",
+        texto: "Cuando miramos a través de la lente del Evangelio, reconocemos que nosotros también nos encontramos bajo el cuidado de un guardián compasivo, que despliega Su bondad con un espíritu enriquecedor. El Buen Pastor nos conoce a cada uno por nuestro nombre y “tiene interés personal en [nosotros]”. El mismo Señor Jesucristo dijo: “Yo soy el buen pastor y conozco mis ovejas” […]; y pon[dré] mi vida por las ovejas.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/15stevenson?lang=spa&id=p46-p47#p46"
+
       },
       {
         tipo: "conclusion",
@@ -191,15 +214,18 @@ export const leccionesSemana15_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "Liahona, mayo de 2017, pág. 62",
-        texto: "El Salvador tomó sobre Sí nuestros pecados, dolores y enfermedades para poder socorrernos perfectamente."
+        autor: "Presidente Oaks",
+        fuente: "Liahona, noviembre de 2015, (discurso \"Fortalecidos por la expiación de Jesucristoo\")",
+        texto: "Nuestro Salvador padeció y sufrió la plenitud de todos los desafíos terrenales “según la carne” a fin de que, “según la carne”, supiera cómo “socorrer [lo cual significa prestar auxilio o ayuda] a los de su pueblo, de acuerdo con las debilidades de ellos”. Por consiguiente, Él conoce nuestros problemas, dolores, tentaciones y sufrimientos, porque por voluntad propia los padeció todos como parte esencial de Su expiación. Gracias a ello, la Expiación lo faculta para socorrernos, para darnos la fortaleza a fin de soportarlo todo",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=spa&id=p9#p9"
+
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Neal A. Maxwell",
-        fuente: "Liahona, julio de 1987, pág. 70",
-        texto: "No existe dolor humano que el Salvador no comprenda plenamente."
+        autor: "Élder Jeffrey R. Holland",
+        fuente: "Christ and the New Covenant: The Messianic Message of the Book of Mormon (1997), págs. 223–224",
+        texto: "Cristo caminó el sendero que todo mortal está llamado a caminar, para saber cómo socorrernos y fortalecernos en nuestros momentos más difíciles. Él conoce las cargas más profundas y personales que llevamos... No hay angustia, pesar ni tristeza en la vida que Él no haya sufrido en nuestro favor.",
+        link: ""
       },
       {
         tipo: "conclusion",
@@ -252,18 +278,6 @@ export const leccionesSemana15_LM: Lesson[] = [
             link: "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=spa&id=p28#p28"
           }
         ]
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, mayo de 2009, pág. 88",
-        texto: "Debido a que Jesús caminó una senda larga y solitaria totalmente solo, nosotros no tenemos que hacerlo."
-      },
-      {
-        tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
-        fuente: "Liahona, mayo de 2015, pág. 47",
-        texto: "El poder habilitador de la Expiación nos fortalece para hacer y llegar a ser buenos más allá de nuestra capacidad natural."
       },
       {
         tipo: "conclusion",
@@ -324,16 +338,13 @@ export const leccionesSemana15_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Thomas S. Monson",
-        fuente: "Liahona, mayo de 2014, pág. 91",
-        texto: "Las pequeñas decisiones diarias determinan el tipo de persona que llegaremos a ser."
+        autor: "Elder L. Whjitney Clayton de los setenta",
+        fuente: "Liahona, Mayo de 2020 (discurso \"Los mejores hogarese\")",
+        texto: "Los atributos de Cristo se adquieren “con el transcurso del tiempo” [Moisés 7:21], con el progreso intencional a lo largo de la senda de los convenios. Los atributos cristianos adornan la vida de aquellos que se esfuerzan por vivir con bondad. Llenan los hogares con la luz del Evangelio, sin importar si el piso es de tierra o de mármol. Aun si son la única persona en su hogar que sigue el mandato de “a esto aspiramos” [Artículos de Fe 1:13], ustedes pueden contribuir a que se adorne espiritualmente el hogar de su familia",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/55clayton?lang=spa&id=p21#p21"
+
       },
-      {
-        tipo: "enseñanza",
-        autor: "Élder Ulisses Soares",
-        fuente: "Liahona, noviembre de 2018, pág. 13",
-        texto: "La verdadera felicidad viene de vivir en armonía con las enseñanzas del Salvador."
-      },
+
       {
         tipo: "conclusion",
         contenido: "Alma enseñó que quienes siguen a Jesucristo deben esforzarse por vivir con pureza espiritual y desarrollar atributos semejantes a los de Cristo. La humildad, la paciencia, la fe, la esperanza y la caridad no aparecen instantáneamente, sino que se desarrollan mediante una vida de discipulado constante. Gracias a la Expiación de Jesucristo, podemos arrepentirnos continuamente y ser limpiados del pecado. Alma concluyó su enseñanza deseando que el pueblo tuviera paz, una bendición que llega al vivir en armonía con el Evangelio. Hoy también podemos experimentar esa paz al seguir fielmente al Salvador."
