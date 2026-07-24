@@ -104,7 +104,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "\"Vencer al mundo y hallar descanso\", Liahona, noviembre de 2022, pág. 96",
         texto: "Debido a que el Salvador, por medio de Su expiación infinita, nos redimió a todos nosotros de la debilidad, los errores y el pecado, y experimentó cada dolor, preocupación y carga que ustedes hayan tenido alguna vez, entonces, conforme se arrepientan verdaderamente y busquen Su ayuda, podrán elevarse por encima de este mundo precario actual.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/47nelson?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/47nelson?lang=spa&id=p15#p15",
       },
       {
         tipo: "conclusion",
@@ -163,7 +163,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Élder Dale G. Renlund",
         fuente: "\"Considerad la bondad y la grandeza de Dios\", Liahona, mayo de 2020, pág. 41",
         texto: "Nuestro Padre Celestial quiere que recordemos Su bondad y la de Su Hijo Amado, no para Su propia gratificación, sino por la influencia que dicho recuerdo tiene en nosotros. Al reflexionar en la compasión que Ellos sienten, nos volvemos más humildes, firmes y dedicados a la oración.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=spa&id=p2#p2",
       },
       {
         tipo: "conclusion",
@@ -222,7 +222,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Élder Richard G. Scott",
         fuente: "\"El poder de las Escrituras\", Liahona, Noviembre de 2011",
         texto: "Se obtiene un gran poder al memorizar pasajes de Escrituras. El memorizar un pasaje es como crear una nueva amistad",
-        link: "hhttps://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa&id=p9#p9",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa&id=p9#p9",
       },
       {
         tipo: "conclusion",
@@ -949,7 +949,7 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
         autor: "Élder Taylor G. Godoy",
         fuente: "\"Un día más\", Liahona, mayo de 2018, pág. 34",
         texto: "Todos tenemos un \"hoy\" para vivir; y la clave para hacer que nuestro día sea exitoso es estar dispuesto a sacrificar.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/one-more-day?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/one-more-day?lang=spa&id=p7#7",
         // Cita ajustada a la redacción textual del discurso; link confirmado correcto.
       },
       {
@@ -1128,10 +1128,10 @@ export const leccionesResumidasAT_6_10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
+        autor: "Presidente Dallin H. Oaks",
         fuente: "\"Cosas pequeñas y sencillas\", Liahona, mayo de 2018",
         texto: "Consideren el estudio de las Escrituras que debemos incorporar en nuestra vida diaria, según se nos ha enseñado. O consideren las oraciones personales y las oraciones familiares de rodillas, que son prácticas habituales de los fieles Santos de los Últimos Días. Consideren la asistencia de los jóvenes a Seminario y de los jóvenes adultos a Instituto. Si bien cada una de estas actividades pueden parecer pequeñas y sencillas, con el tiempo producen un poderoso incremento y crecimiento espirituales. Esto ocurre debido a que cada una de estas cosas pequeñas y sencillas invitan a la compañía del Espíritu Santo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/small-and-simple-things?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/small-and-simple-things?lang=spa&id=p16#p16",
         // ⚠️ Error grave corregido: el archivo original citaba este discurso como si fuera de abril de 2022 y enlazaba a "16bednar" de esa conferencia, que en realidad es un discurso totalmente distinto de Bednar ("Pero no les hicimos caso"). El discurso "Cosas pequeñas y sencillas" es de abril de 2018.
       },
       {

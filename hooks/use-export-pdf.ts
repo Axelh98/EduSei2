@@ -12,6 +12,7 @@ export interface ExportOptions {
   categoryId:   string
   lessonId:     string
   studentName?: string
+  chapterUrl?:  string
 }
 
 // ─── Colores ──────────────────────────────────────────────────────────────────
@@ -35,7 +36,7 @@ export function useExportPDF() {
     setIsExporting(true)
     try {
       const { default: jsPDF } = await import("jspdf")
-      const { categoryName, lessonTitle, secciones, categoryId, lessonId, studentName } = options
+      const { categoryName, lessonTitle, secciones, categoryId, lessonId, studentName, chapterUrl } = options
 
       const savedNote = getLessonNote(categoryId, lessonId)
       const notes     = savedNote?.content?.trim() ?? ""
@@ -85,6 +86,13 @@ export function useExportPDF() {
         pdf.text(`Estudiante: ${studentName}`, W - M, 19, { align: "right" })
       }
 
+      if (chapterUrl) {
+        pdf.setFontSize(7)
+        pdf.setFont("helvetica", "normal")
+        pdf.setTextColor(186, 230, 253)
+        pdf.textWithLink("Ver manual oficial ↗", M, 25.5, { url: chapterUrl })
+      }
+
       pos.y = 40
 
       pdf.setTextColor(...C.dark)
@@ -117,31 +125,26 @@ export function useExportPDF() {
         if (seccion.tipo === "contexto" && seccion.contenido) {
           ensure(12)
           renderParrafo(pdf, seccion.contenido, M, C, CW, pos)
-          pos.y += 6
+          pos.y += 7
         }
 
         if (seccion.tipo === "conclusion" && seccion.contenido) {
-          ensure(14)
-          const antes = pos.y
-          renderParrafo(pdf, seccion.contenido, M + 6, C, CW - 6, pos, "italic")
-          pdf.setDrawColor(...C.primaryLight)
-          pdf.setLineWidth(1.5)
-          pdf.line(M + 1, antes - 1, M + 1, pos.y + 1)
-          pos.y += 6
+          drawConclusionBox(pdf, seccion.contenido, M, CW, C, pos, ensure)
         }
 
         if (seccion.tipo === "enseñanza") {
-          drawCitaBox(pdf, { texto: seccion.texto ?? "", autor: seccion.autor, fuente: seccion.fuente },
+          drawCitaBox(pdf, { texto: seccion.texto ?? "", autor: seccion.autor, fuente: seccion.fuente, link: seccion.link },
             M, CW, W, C, pos, ensure)
         }
 
         if (seccion.tipo === "escrituras" && seccion.citas?.length) {
-          ensure(10)
+          pos.y += 4
+          ensure(14)
           pdf.setTextColor(...C.muted)
           pdf.setFontSize(7.5)
           pdf.setFont("helvetica", "bold")
           pdf.text("ESCRITURAS CLAVE", M, pos.y)
-          pos.y += 6
+          pos.y += 7
           for (const cita of seccion.citas) {
             drawEscrituraBox(pdf, cita, M, CW, C, pos, ensure)
           }
@@ -210,17 +213,18 @@ function renderBloque(
     }
     case "escritura": {
       drawEscrituraBox(pdf,
-        { referencia: bloque.referencia, texto: bloque.texto, comentario: bloque.comentario },
+        { referencia: bloque.referencia, texto: bloque.texto, comentario: bloque.comentario, link: bloque.link },
         M, CW, C, pos, ensure)
       break
     }
     case "cita": {
       drawCitaBox(pdf,
-        { texto: bloque.texto, autor: bloque.autor, fuente: bloque.fuente },
+        { texto: bloque.texto, autor: bloque.autor, fuente: bloque.fuente, link: bloque.link },
         M, CW, W, C, pos, ensure)
       break
     }
     case "doctrinal": {
+      pos.y += 4
       ensure(14)
       pdf.setTextColor(...C.primary)
       pdf.setFontSize(7.5)
@@ -263,14 +267,14 @@ function renderParrafo(
   const lines = pdf.splitTextToSize(texto, maxW)
   lines.forEach((line: string) => {
     pdf.text(line, x, pos.y)
-    pos.y += 5
+    pos.y += 5.3
   })
 }
 
 // ── Caja de escritura ─────────────────────────────────────────────────────────
 function drawEscrituraBox(
   pdf: any,
-  cita: { referencia: string; texto: string; comentario?: string },
+  cita: { referencia: string; texto: string; comentario?: string; link?: string },
   M: number, CW: number, C: any,
   pos: { y: number }, ensure: (n: number) => void,
 ) {
@@ -294,7 +298,12 @@ function drawEscrituraBox(
   pdf.setTextColor(...C.primary)
   pdf.setFontSize(7.5)
   pdf.setFont("helvetica", "bold")
-  pdf.text(cita.referencia.toUpperCase(), M + 6, y + 5.5)
+  const refLabel = cita.link ? `${cita.referencia.toUpperCase()}  ↗` : cita.referencia.toUpperCase()
+  if (cita.link) {
+    pdf.textWithLink(refLabel, M + 6, y + 5.5, { url: cita.link })
+  } else {
+    pdf.text(refLabel, M + 6, y + 5.5)
+  }
 
   pdf.setTextColor(...C.dark)
   pdf.setFontSize(9.5)
@@ -320,13 +329,18 @@ function drawEscrituraBox(
     })
   }
 
-  pos.y = y + boxH + 4
+  // Zona clickeable sobre toda la caja (además del texto de la referencia)
+  if (cita.link) {
+    pdf.link(M, y, CW, boxH, { url: cita.link })
+  }
+
+  pos.y = y + boxH + 6
 }
 
 // ── Caja de cita profética ────────────────────────────────────────────────────
 function drawCitaBox(
   pdf: any,
-  cita: { texto: string; autor?: string; fuente?: string },
+  cita: { texto: string; autor?: string; fuente?: string; link?: string },
   M: number, CW: number, W: number, C: any,
   pos: { y: number }, ensure: (n: number) => void,
 ) {
@@ -371,11 +385,56 @@ function drawCitaBox(
       pdf.setTextColor(...C.muted)
       pdf.setFontSize(7.5)
       pdf.setFont("helvetica", "normal")
-      pdf.text(cita.fuente.toUpperCase(), W - M - 4, ty, { align: "right" })
+      const fuenteLabel = cita.link ? `${cita.fuente.toUpperCase()}  ↗` : cita.fuente.toUpperCase()
+      if (cita.link) {
+        pdf.textWithLink(fuenteLabel, W - M - 4, ty, { url: cita.link, align: "right" })
+      } else {
+        pdf.text(fuenteLabel, W - M - 4, ty, { align: "right" })
+      }
     }
   }
 
-  pos.y = y + boxH + 5
+  // Zona clickeable sobre toda la caja (además del texto de la fuente)
+  if (cita.link) {
+    pdf.link(M, y, CW, boxH, { url: cita.link })
+  }
+
+  pos.y = y + boxH + 7
+}
+
+// ── Caja de conclusión — fondo suave + acento, con más aire alrededor ─────────
+function drawConclusionBox(
+  pdf: any, texto: string,
+  M: number, CW: number, C: any,
+  pos: { y: number }, ensure: (n: number) => void,
+) {
+  pos.y += 6 // aire extra antes de un cierre de sección
+
+  pdf.setFontSize(10)
+  pdf.setFont("helvetica", "italic")
+  const innerW = CW - 16
+  const lines = pdf.splitTextToSize(texto, innerW)
+  const boxH = 10 + lines.length * 5.3
+
+  ensure(boxH + 10)
+  const y = pos.y
+
+  pdf.setFillColor(...C.pageBg)
+  pdf.roundedRect(M, y, CW, boxH, 3, 3, "F")
+
+  pdf.setFillColor(...C.primary)
+  pdf.roundedRect(M, y, 2.5, boxH, 1, 1, "F")
+
+  pdf.setTextColor(...C.body)
+  pdf.setFontSize(10)
+  pdf.setFont("helvetica", "italic")
+  let ty = y + 8
+  lines.forEach((line: string) => {
+    pdf.text(line, M + 9, ty)
+    ty += 5.3
+  })
+
+  pos.y = y + boxH + 10 // aire extra después, antes del próximo bloque
 }
 
 // ── Caja de reflexión — una tarjeta por pregunta ──────────────────────────────
@@ -384,6 +443,7 @@ function drawReflexionBox(
   M: number, CW: number, C: any,
   pos: { y: number }, ensure: (n: number) => void,
 ) {
+  pos.y += 4 // aire extra antes de un header de sección
   ensure(12)
   pdf.setTextColor(...C.primary)
   pdf.setFontSize(7.5)
