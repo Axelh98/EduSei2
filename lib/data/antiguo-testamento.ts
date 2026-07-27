@@ -662,7 +662,8 @@ export const antiguoTestamentoWeeks: Week[] = [
       },
       {
         id: "leccion-190",
-        title: "Lección 190: Superar los obstáculos para ampliar la formación académica",
+        title:
+          "Lección 190: Superar los obstáculos para ampliar la formación académica",
         description:
           "Aprende a utilizar los recursos disponibles y la fe en Jesucristo para alcanzar tus metas educativas.",
         type: "Preparación para la Vida",
@@ -743,7 +744,8 @@ export const antiguoTestamentoWeeks: Week[] = [
       },
       {
         id: "leccion-167",
-        title: "Lección 167: Encontrar verdades del Evangelio en las Escrituras",
+        title:
+          "Lección 167: Encontrar verdades del Evangelio en las Escrituras",
         description:
           "Desarrolla la habilidad de identificar doctrinas y principios eternos mientras estudias la palabra de Dios.",
         type: "Preparación para la Vida",
@@ -830,7 +832,8 @@ export const antiguoTestamentoWeeks: Week[] = [
       },
       {
         id: "leccion-178",
-        title: "Lección 178: ejercer la fe en Jesucristo para desarrollar autosuficiencia",
+        title:
+          "Lección 178: ejercer la fe en Jesucristo para desarrollar autosuficiencia",
         description: "El Señor se ocupa de los detalles de tu vida.",
         type: "Preparación para la Vida",
         chapterUrl:
@@ -849,7 +852,7 @@ export const antiguoTestamentoWeeks: Week[] = [
         questions: leccion179Questions,
         secciones: [],
       },
-            {
+      {
         id: "leccion-73",
         title: "Lección 73: 1 Samuel 16",
         description: "La obediencia total conduce al gozo.",
@@ -868,7 +871,8 @@ export const antiguoTestamentoWeeks: Week[] = [
     lessons: [
       {
         id: "leccion-180",
-        title: "Lección 180: Proveer para nosotros mismos y cuidar de los necesitados",
+        title:
+          "Lección 180: Proveer para nosotros mismos y cuidar de los necesitados",
         description: "La autosuficiencia nos permite ayudar como Cristo.",
         type: "Preparación para la Vida",
         chapterUrl:
@@ -878,7 +882,8 @@ export const antiguoTestamentoWeeks: Week[] = [
       },
       {
         id: "leccion-202",
-        title: "Lección 202: En el templo hacemos convenio de obedecer las leyes de obediencia y de sacrificio",
+        title:
+          "Lección 202: En el templo hacemos convenio de obedecer las leyes de obediencia y de sacrificio",
         description: "Los convenios del templo te acercan a Cristo.",
         type: "Especial",
         chapterUrl:
@@ -981,13 +986,35 @@ export const antiguoTestamentoWeeks: Week[] = [
         secciones: [],
       },
       {
+        id: "leccion-82",
+        title: "Lección 82: 1 Reyes 18",
+        type: "Antiguo Testamento - Ven Sigueme",
+        description: "",
+        chapterUrl:
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/26-1-kings-12-22/262-1-kings-18?lang=spa",
+        questions: [],
+        secciones: [],
+      },
+
+      {
         id: "leccion-204",
-        title: "Lección 204: Participar en la obra del templo y de historia familiar",
+        title:
+          "Lección 204: Participar en la obra del templo y de historia familiar",
         description: "Sé un salvador en el monte de Sion.",
         type: "Especial",
         chapterUrl:
           "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/694-participating-in-temple-and-family-history?lang=spa",
         questions: leccion204Questions,
+        secciones: [],
+      },
+      {
+        id: "leccion-168",
+        title: "Lección 168: Tomar nortas en las Escrituras",
+        type: "Preparación para la Vida",
+        description: "",
+        chapterUrl:
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/623-annotating-scriptures?lang=spa",
+        questions: [],
         secciones: [],
       },
     ],
@@ -999,7 +1026,8 @@ export const antiguoTestamentoWeeks: Week[] = [
     lessons: [
       {
         id: "leccion-169",
-        title: "Lección 169: Acciones que invitan al Espíritu Santo durante el estudio",
+        title:
+          "Lección 169: Acciones que invitan al Espíritu Santo durante el estudio",
         description: "El Espíritu Santo te enseñará verdades.",
         type: "Preparación para la Vida",
         chapterUrl:
@@ -1008,9 +1036,30 @@ export const antiguoTestamentoWeeks: Week[] = [
         secciones: [],
       },
       {
+        id: "leccion-170",
+        title: "Lección 170: Hacer Comparaciones",
+        type: "Preparación para la Vida",
+        description: "",
+        chapterUrl:
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/625-making-comparisons-to-identify-truths?lang=spa",
+        questions: [],
+        secciones: [],
+      },
+      {
+        id: "leccion-83",
+        title: "Lección 84: 2 Reyes 2-4",
+        type: "Antiguo Testamento - Ven Sigueme",
+        description: "",
+        chapterUrl:
+          "www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/271-2-kings-2-4?lang=spa",
+        questions: [],
+        secciones: [],
+      },
+      {
         id: "leccion-84",
         title: "Lección 84: 2 Reyes 5",
-        description: "Las cosas pequeñas y sencillas traen grandes bendiciones.",
+        description:
+          "Las cosas pequeñas y sencillas traen grandes bendiciones.",
         type: "Antiguo Testamento - Ven Sigueme",
         chapterUrl:
           "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/272-2-kings-5?lang=spa",
@@ -1046,6 +1095,16 @@ export const antiguoTestamentoWeeks: Week[] = [
         secciones: [],
       },
       {
+        id: "leccion-89",
+        title: "Lección 89: Practica 6 del Dominio de la Doctrina",
+        type: "Dominio de la Doctrina",
+        description: "",
+        chapterUrl:
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/284-doctrinal-mastery-6?lang=spa",
+        questions: [],
+        secciones: [],
+      },
+      {
         id: "leccion-87",
         title: "Lección 87: 2 Reyes 21–23 (Josías)",
         description: "Las Escrituras transforman vidas.",
@@ -1053,6 +1112,16 @@ export const antiguoTestamentoWeeks: Week[] = [
         chapterUrl:
           "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/282-2-kings-21-23?lang=spa",
         questions: leccion87Questions,
+        secciones: [],
+      },
+      {
+        id: "leccion-88",
+        title: "Lección 88: 2 Reyes 17; 24-25",
+        type: "Antiguo Testamento - Ven Sigueme",
+        description: "",
+        chapterUrl:
+          "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/283-2-kings-17-25?lang=spa",
+        questions: [],
         secciones: [],
       },
     ],
