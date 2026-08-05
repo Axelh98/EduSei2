@@ -64,14 +64,14 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, noviembre de 2017, pág. 62",
         texto: "Testifico que el Libro de Mormón es ciertamente la palabra de Dios; contiene las respuestas a los interrogantes más acuciantes de la vida.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&id=p35#p35"
       },
       {
         tipo: "enseñanza",
         autor: "Presidente M. Russell Ballard",
         fuente: "Liahona, julio de 1995, pág. 27",
         texto: "Si nos concentramos en los principios del plan del Padre Celestial para nuestra felicidad eterna y los vivimos, nos apartamos de las maldades del mundo. Si estamos afianzados en la comprensión correcta de quiénes somos, por qué estamos en este mundo y adónde iremos después de esta vida terrenal, Satanás no podrá poner en peligro nuestra felicidad por medio de ninguna clase de tentación.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/1995/04/answers-to-lifes-questions?lang=spa&id=p23,p24#p23"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1995/04/answers-to-lifes-questions?lang=spa&id=p27#p27"
       },
       {
         tipo: "conclusion",
