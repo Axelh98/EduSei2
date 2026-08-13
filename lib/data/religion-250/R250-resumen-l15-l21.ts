@@ -44,17 +44,19 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Jeffrey R. Holland (1940–2025)",
         fuente:
-          "«He aquí el Cordero de Dios», Liahona, mayo de 2019, pág. 46. churchofjesuschrist.org/study/liahona/2019/05/28holland",
+          "«He aquí el Cordero de Dios», Conferencia General, abril de 2019, Liahona, mayo de 2019.",
         texto:
-          "Nuestros servicios dominicales modificados son para dar prioridad a la Santa Cena del Señor como el centro de atención sagrado y reconocido de nuestra experiencia semanal de adoración. Alzando la vista desde la orilla, Juan el Bautista vio a Jesús y expresó la admiración que todavía nos conmueve dos mil años después: «He aquí el Cordero de Dios». Que cada semana, al sentarnos a participar de la Santa Cena, podamos decir en nuestro corazón esas mismas palabras.",
+          "Nuestros servicios dominicales modificados son para dar prioridad a la Santa Cena del Señor como el centro de atención sagrado y reconocido de nuestra experiencia semanal de adoración. […] Alzando la vista desde la orilla […], Juan, a quien llamaban el Bautista, vio en la distancia a su primo, Jesús de Nazaret […]. Con reverencia, pero lo suficientemente audible para los que estaban cerca, Juan expresó la admiración que todavía nos conmueve dos mil años después: «He aquí el Cordero de Dios».",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2019/05/28holland?lang=spa",
       },
       {
         tipo: "enseñanza",
         autor: "Élder David A. Bednar",
         fuente:
-          "«Para que siempre nos acordemos de Él», Liahona, junio de 2023. churchofjesuschrist.org/study/liahona/2023/06/04-that-we-may-always-remember-him",
+          "«Para que siempre nos acordemos de Él», Liahona, junio de 2023.",
         texto:
-          "Nuestra responsabilidad sagrada es desarrollar hábitos santos que inviten al Espíritu del Señor a estar con nosotros en todo momento: honrar los convenios, obedecer los mandamientos, arrepentirnos, perdonar, escudriñar las Escrituras, servir, y adorar en el hogar, en la Iglesia y en el templo. Es importante destacar que la compañía del Espíritu Santo nos ayuda a recordar siempre a Jesucristo: Su sacrificio, Su evangelio, Sus promesas para nosotros, Su amor por nosotros, y los convenios que nos atan en un yugo a Él y junto con Él.",
+          "Nuestra responsabilidad sagrada es desarrollar hábitos santos que inviten al Espíritu del Señor a estar con nosotros en todo momento, hábitos tales como honrar los convenios, obedecer los mandamientos, arrepentirnos, perdonar, escudriñar las Escrituras, servir, y adorar en el hogar, en la Iglesia y en el templo. Es importante destacar que la compañía del Espíritu Santo nos ayuda a recordar siempre a Jesucristo: Su sacrificio, Su evangelio, Sus promesas para nosotros, Su amor por nosotros, y los convenios que nos atan en un yugo a Él y junto con Él.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2023/06/04-that-we-may-always-remember-him?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -117,9 +119,10 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Jeffrey R. Holland (1940–2025)",
         fuente:
-          "«Nadie más puede hacer esto», Liahona, mayo de 2012, pág. 30. churchofjesuschrist.org/study/general-conference/2012/04/none-were-with-him",
+          "«Nadie estuvo con Él», Conferencia General, abril de 2009.",
         texto:
-          "Su Expiación fue infinita, que abarcó todos los mundos que Su Padre creó; que cubrió todos los pecados y todas las angustias de toda la humanidad, desde Adán hasta el fin de los tiempos. Fue eterna, por lo que sobrepasa la comprensión humana. Sin embargo, fue personal, porque Él nos conoce a cada uno de nosotros. Nadie más podría haber hecho esto. Ningún mortal, ningún ser creado con limitaciones mortales. Solo el Hijo Unigénito de Dios en la carne.",
+          "Para que Su expiación fuese infinita y eterna, Él tenía que sentir lo que era morir no sólo física sino espiritualmente, sentir lo que era el alejamiento del Espíritu divino, al dejar que la persona se sintiera total, vil y completamente sola. […] La verdad que se pregonó desde la cima del Calvario es que nunca estaremos solos ni sin ayuda, aunque a veces pensemos que lo estamos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2009/04/none-were-with-him?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -131,7 +134,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
         preguntas: [
           "Al leer DyC 19:18 — «temblar de dolor y sangrar de cada poro» — ¿qué sentís que el Salvador quiere que comprendas sobre el costo de lo que hizo por vos?",
           "Alma 7:11–12 dice que Cristo tomó sobre Sí no solo los pecados, sino también las «enfermedades» y «flaquezas» de Su pueblo. ¿Qué cambia en tu relación con el Salvador si sabés que comprendió perfectamente tus luchas antes de que vos las vivieras?",
-          "El élder Holland dice que la Expiación fue «infinita, eterna, pero también personal». ¿En qué momento de tu vida sentiste esa dimensión personal — que la Expiación era realmente para vos, no solo para «la humanidad» en abstracto?",
+          "El élder Holland enseñó que para que Su expiación fuese infinita y eterna, Cristo tuvo que sentir el alejamiento total del Espíritu divino. ¿En qué momento de tu vida sentiste esa dimensión personal — que la Expiación era realmente para vos, no solo para «la humanidad» en abstracto?",
           "¿Hay algún dolor, fracaso o vergüenza en tu vida que no hayas llevado al Salvador porque sentiste que era demasiado, demasiado pequeño, o demasiado difícil de explicar? ¿Qué dice Alma 7:12 sobre esa sensación?",
           "Valentina dice: «Entiendo que Cristo murió por los pecados, pero siento que mi depresión y mi ansiedad son cosas que tengo que manejar sola — no son cosas espirituales». Según Alma 7:11–12 y 2 Nefi 9:21, ¿qué le dirías?",
           "DyC 19:18 habla del sufrimiento de Cristo en primera persona. 2 Nefi 9:21 menciona que sufrió por «toda criatura viviente, tanto hombres como mujeres y niños». ¿Qué dice ese alcance universal sobre el valor que Dios le asigna a cada persona individual?",
@@ -182,17 +185,20 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
         tipo: "enseñanza",
         autor: "«El Cristo Viviente: El Testimonio de los Apóstoles»",
         fuente:
-          "Primera Presidencia y el Cuórum de los Doce Apóstoles, 1 de enero de 2000. churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles",
+          "Primera Presidencia y el Cuórum de los Doce Apóstoles, 1 de enero de 2000.",
         texto:
-          "Se levantó del sepulcro para ser las primicias de los que durmieron. Como el Salvador resucitado, invitó a Sus discípulos a que tocaran las marcas de los clavos en Sus manos y pies y vieran el lugar de la lanza en Su costado. Testificamos que llegará el día en que todos los hombres se levantarán de la muerte y comparecerán ante el tribunal de Dios.",
+          "Se levantó del sepulcro para ser las «primicias de los que durmieron» (1 Corintios 15:20). Como el Señor Resucitado, anduvo entre aquellos a los que había amado en vida. […] Testificamos que algún día Él regresará a la tierra. […] Todos nosotros compareceremos para ser juzgados por Él según nuestras obras y los deseos de nuestro corazón.",
+        link: "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa",
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
+        autor: "Élder D. Todd Christofferson",
         fuente:
-          "«La Resurrección del Señor Jesucristo», Liahona, mayo de 2021, pág. 98. churchofjesuschrist.org/study/general-conference/2021/04/47nelson",
+          "«La resurrección de Jesucristo», Conferencia General, abril de 2014, Liahona, mayo de 2014.",
         texto:
-          "La Resurrección de Jesucristo ofrece a cada uno de nosotros el mejor motivo para tener esperanza. Jesús vivió. Jesús murió. Jesús vive de nuevo. Y debido a que Él vive, nosotros también viviremos. Las palabras «¡Él ha resucitado!» son las palabras más alentadoras del mundo. Cada hora de dolor, cada momento de sufrimiento, cada gota de lágrima — todo pasará, porque el Salvador venció la muerte.",
+          "Consideren por un momento la importancia que tiene la Resurrección para aclarar de una vez por todas la verdadera identidad de Jesús de Nazaret. […] Si Jesús realmente resucitó de forma literal, entonces forzosamente se concluye que Él es un personaje divino. Ningún ser mortal tiene el poder en sí mismo para volver a la vida después de morir. Debido a que Él resucitó, Jesús tiene que haber sido un Dios, aun el Hijo Unigénito del Padre. Por tanto, lo que Él enseñó es verdad, ya que Dios no puede mentir.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/the-resurrection-of-jesus-christ?lang=spa",
+        // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 17 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 4), confirmada.
       },
       {
         tipo: "conclusion",
@@ -255,9 +261,10 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder David A. Bednar",
         fuente:
-          "«La Expiación y el trayecto de la vida terrenal», Liahona, abril de 2012, págs. 12–19. churchofjesuschrist.org/study/liahona/2012/04/the-atonement-and-the-journey-of-mortality",
+          "«La Expiación y el trayecto de la vida terrenal», Liahona, abril de 2012.",
         texto:
           "Sospecho que muchos miembros de la Iglesia están mucho más familiarizados con la naturaleza del poder redentor y purificador de la Expiación que con su poder fortalecedor y habilitador. La gracia salvadora nos limpia; la gracia habilitadora nos capacita para hacer y llegar a ser cosas que por sí solos no podríamos hacer ni llegar a ser. Verdaderamente, debemos llegar a confiar en «los méritos, y misericordia, y gracia del Santo Mesías».",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2012/04/the-atonement-and-the-journey-of-mortality?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -318,11 +325,13 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
+        autor: "Élder D. Todd Christofferson",
         fuente:
-          "«La bendición del trabajo del templo», Liahona, febrero de 2021. churchofjesuschrist.org/study/liahona/2021/02/04-blessings-of-the-temple",
+          "«La redención de los muertos y el testimonio de Jesús», Conferencia General, octubre de 2000, Liahona, enero de 2001.",
         texto:
-          "El templo es la casa del Señor. Es un lugar de instrucción, de convenios y de ordenanzas sagradas realizadas por los vivos y los muertos. Las ordenanzas del templo son esenciales para la exaltación. Sin ellas, el plan de redención estaría incompleto. Cada ordenanza que realizamos por un antepasado fallecido es un acto de amor puro — un don que solo podemos dar de nosotros a ellos.",
+          "Nuestro deber se extiende tan lejos y tan profundamente como el amor de Dios para abarcar a Sus hijos de toda época y de todo lugar. Nuestras labores en beneficio de los muertos dan elocuente testimonio de que Jesucristo es el divino Redentor de todo el género humano. Su gracia y Sus promesas llegan incluso a los que en vida no lo hallan.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2000/10/the-redemption-of-the-dead-and-the-testimony-of-jesus?lang=spa",
+        // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 19 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 5), confirmada.
       },
       {
         tipo: "conclusion",
@@ -383,11 +392,12 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Dallin H. Oaks",
+        autor: "Élder Dale G. Renlund",
         fuente:
-          "«El buen pastor y sus ovejas», Liahona, mayo de 2017, pág. 35. churchofjesuschrist.org/study/general-conference/2017/04/the-good-shepherd-and-his-lambs",
+          "«Nuestro Buen Pastor», Conferencia General, abril de 2017.",
         texto:
-          "El Salvador describió Su relación con Sus seguidores como la de un pastor con sus ovejas. Saben quién es Él. Lo escuchan. Lo siguen. El Buen Pastor no abandona a Sus ovejas. Tampoco permite que las que se alejan sean abandonadas sin un esfuerzo genuino por recuperarlas. Somos Sus instrumentos en esa búsqueda.",
+          "Testifico que Jesucristo es nuestro Buen Pastor, que nos ama y se preocupa por nosotros. Él nos conoce y dio Su vida por Sus ovejas. También vive para nosotros y quiere que lo conozcamos y ejerzamos fe en Él.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/our-good-shepherd?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -450,17 +460,21 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente:
-          "«Revelación para la Iglesia, revelación para nuestras vidas», Liahona, mayo de 2018, págs. 93–96. churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives",
+          "«Escúchalo», Conferencia General, abril de 2020, Liahona, mayo de 2020.",
         texto:
-          "En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo. Nada abre tanto los cielos como la combinación de mayor pureza, estricta obediencia, búsqueda diligente, el deleitarse a diario en las palabras de Cristo en el Libro de Mormón, y dedicar tiempo frecuente a la obra del templo y de historia familiar.",
+          "En esa palabra «Escúchalo», Dios nos da el patrón o modelo para tener éxito, felicidad y gozo en esta vida. Podemos acudir a las Escrituras […]. Al deleitarnos diariamente en las palabras de Cristo, las palabras de Cristo nos dirán cómo responder a dificultades que jamás pensamos que íbamos a enfrentar. También podemos escucharlo con mayor claridad si refinamos nuestra capacidad de reconocer los susurros del Espíritu Santo […]. Lo escuchamos a Él al dar oído a las palabras de los profetas, videntes y reveladores.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa",
+        // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 21 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 5), confirmada.
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Quentin L. Cook",
+        autor: "Hermana Michelle D. Craig",
         fuente:
-          "«La bendición de la revelación continua a los profetas y de la revelación personal para guiar nuestra vida», Liahona, mayo de 2020, pág. 95. churchofjesuschrist.org/study/general-conference/2020/04/45cook",
+          "«La capacidad espiritual», Conferencia General, octubre de 2019, Liahona, noviembre de 2019.",
         texto:
-          "Vivimos en una era de desinformación y confusión. La revelación continua a un profeta viviente es una de las más grandes bendiciones que Dios da a Sus hijos en la tierra. Junto a esa revelación institucional, cada persona puede recibir revelación personal para guiar su propia vida, su familia y sus responsabilidades. Estas dos fuentes de revelación no compiten — se complementan.",
+          "Tengan la intención de apartar tiempo y espacio para escuchar la voz de Dios. Conforme usen su albedrío para dedicar tiempo todos los días para acercarse a la voz de Dios, sobre todo en el Libro de Mormón, con el tiempo, Su voz les parecerá más clara y familiar. […] Actúen sin demora. Cuando reciben mensajes y luego actúan con propósito, el Señor puede valerse de ustedes. Cuanto más actúen, más familiar se vuelve la voz del Espíritu.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/10/15craig?lang=spa",
+        // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 21; el archivo original citaba a Quentin L. Cook, quien no aparece en este manual.
       },
       {
         tipo: "conclusion",
@@ -471,7 +485,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
         tipo: "cuestionario",
         preguntas: [
           "¿Cuándo reconociste con más claridad la voz del Espíritu Santo en tu vida? ¿Qué circunstancias rodearon esa experiencia — qué estabas haciendo, qué no estabas haciendo?",
-          "El presidente Nelson dice que en los días futuros no será posible «sobrevivir espiritualmente» sin el Espíritu Santo. ¿Qué señales ves en el mundo actual que hacen que esa advertencia sea urgente y no solo retórica?",
+          "El presidente Nelson enseñó que en la palabra «Escúchalo» Dios nos da el patrón para tener éxito, felicidad y gozo en esta vida. ¿Qué señales ves en el mundo actual que hacen que esa invitación sea urgente y no solo retórica?",
           "DyC 1:38 dice que la voz del profeta equivale a la voz del Señor. ¿Cómo priorizás en la práctica las palabras del profeta vivo — en tiempo, en atención, en disposición a actuar?",
           "DyC 8:2–3 describe la revelación como algo que llega a la «mente y al corazón». ¿Cuál de esos dos canales es más fácil para vos reconocer, y por qué crees que el Señor usa los dos?",
           "Luca siente que nunca recibe revelación personal — que ora pero no «escucha nada». Según las enseñanzas del presidente Nelson en esta lección, ¿qué condiciones específicas podría cultivar para estar más abierto a la guía del Espíritu?",

@@ -44,17 +44,21 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Jeffrey R. Holland (1940–2025)",
         fuente:
-          "Cristo y el Nuevo Convenio: El mensaje mesiánico del Libro de Mormón, Deseret Book, 1997, pág. 3.",
+          "Christ and the New Covenant: The Messianic Message of the Book of Mormon, Deseret Book, 1997, pág. 3.",
         texto:
           "El Libro de Mormón es la expresión sagrada del convenio pleno y final de Cristo con la humanidad. Es un nuevo convenio, un nuevo testamento del Nuevo Mundo para el mundo entero. Más que ningún otro libro me ha enseñado a amar al Señor Jesucristo y a contemplar toda la maravilla y grandeza, el poder eternamente resonante del sacrificio expiatorio que Él hizo por nosotros.",
+        link: "",
+        // link no verificado — fuente es un libro impreso (Deseret Book, 1997), no disponible en churchofjesuschrist.org. Título, autor y editorial confirmados; cita y número de página no verificables en línea.
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
+        autor: "Élder Gerrit W. Gong",
         fuente:
-          "«Revelación para la Iglesia, revelación para nuestras vidas», Liahona, mayo de 2018, pág. 93. churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives",
+          "«Hosanna y aleluya — Jesucristo viviente: La esencia de la Restauración y de la Pascua de Resurrección», Conferencia General, abril de 2020.",
         texto:
-          "Cuando estudio las Escrituras, a menudo me pregunto: «¿Esto podría ser un accidente? ¿Podría un ser mortal ordinario haber escrito estas palabras?» Cada vez que sinceramente hago esas preguntas, el Espíritu Santo confirma que no; que Dios inspiró estas palabras para guiarnos, fortalecernos y ayudarnos a volver a Él.",
+          "Él vive, no solo en aquel entonces, sino ahora; no solo para algunos, sino para todos. Él vino y sigue viniendo a sanar a los quebrantados de corazón, liberar a los cautivos, dar vista a los ciegos y poner en libertad a los quebrantados. Esos somos cada uno de nosotros. Sus promesas de redención se cumplen, independientemente de nuestro pasado, nuestro presente o lo que pensemos de nuestro futuro.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/31gong?lang=spa",
+        // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 8 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 2), confirmada.
       },
       {
         tipo: "conclusion",
@@ -117,9 +121,10 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
         tipo: "enseñanza",
         autor: "«El Cristo Viviente: El Testimonio de los Apóstoles»",
         fuente:
-          "Primera Presidencia y el Cuórum de los Doce Apóstoles, 1 de enero de 2000. churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles",
+          "Primera Presidencia y el Cuórum de los Doce Apóstoles, 1 de enero de 2000.",
         texto:
           "Testificamos solemnemente que Su vida, que es fundamental para toda la historia de la humanidad, no comenzó en Belén ni concluyó en el Calvario. Él fue el Primogénito del Padre, el Hijo Unigénito en la carne, el Redentor del mundo. Él llevó a cabo una expiación perfecta de los pecados de toda la humanidad, dando vida al principio de la resurrección.",
+        link: "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -182,9 +187,10 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Neal A. Maxwell (1926–2004)",
         fuente:
-          "«…Absorbida en la voluntad del Padre», Liahona, enero de 1996, pág. 25. churchofjesuschrist.org/study/general-conference/1995/10/swallowed-up-in-the-will-of-the-father",
+          "«…Absorbida en la voluntad del Padre», Conferencia General, octubre de 1995, Liahona, enero de 1996.",
         texto:
           "La sumisión de nuestra voluntad es la única cosa exclusivamente personal que tenemos para colocar sobre el altar de Dios; todo lo demás que le «damos» es, en realidad, lo que Él nos ha dado o prestado a nosotros. Pero cuando nos sometemos dejando que nuestra voluntad sea absorbida en la voluntad de Dios, entonces, verdaderamente le estamos dando algo. ¡Es la sola posesión exclusivamente nuestra que podemos dar!",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1995/10/swallowed-up-in-the-will-of-the-father?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -247,9 +253,10 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
         fuente:
-          "«El porqué de la Iglesia», Liahona, noviembre de 2015, pág. 108. churchofjesuschrist.org/study/general-conference/2015/10/why-the-church",
+          "«El porqué de la Iglesia», Conferencia General, octubre de 2015, Liahona, noviembre de 2015.",
         texto:
           "Es importante reconocer que el propósito primordial de Dios es nuestro progreso. Eso requiere más que simplemente ser amables o sentirse espirituales; requiere fe en Jesucristo, arrepentimiento, bautismo de agua y del Espíritu Santo, y perseverar con fe hasta el fin. No podemos lograr esto plenamente al estar aislados; de modo que una de las razones principales por las que el Señor ha creado una Iglesia es para crear una comunidad de santos que se apoyen uno al otro en el estrecho y angosto camino que conduce a la vida eterna.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/why-the-church?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -312,9 +319,10 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente:
-          "«Verdad pura, doctrina pura y revelación pura», Liahona, noviembre de 2021, pág. 6. churchofjesuschrist.org/study/general-conference/2021/10/38nelson",
+          "«Verdad pura, doctrina pura y revelación pura», Conferencia General, octubre de 2021.",
         texto:
-          "Nunca ha habido una época en la historia del mundo en la que el conocimiento de nuestro Salvador fuera más vital y relevante en lo personal para toda alma humana. Vivimos en un mundo saturado de información, pero escaso de verdad pura. Por consiguiente, la revelación continua del Señor mediante Sus profetas es más crucial que nunca.",
+          "Nunca ha habido una época en la historia del mundo en la que el conocimiento de nuestro Salvador fuera más vital y relevante en lo personal para toda alma humana. Imaginen lo rápido que se resolverían los devastadores conflictos de todo el mundo, y los de nuestra propia vida, si todos nosotros decidiéramos seguir a Jesucristo y prestar atención a Sus enseñanzas.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -327,7 +335,7 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
           "¿Cuál enseñanza del Sermón del Monte — no matar la ira, purificar el corazón, amar a los enemigos — te resulta más desafiante en tu vida actual?",
           "Jesús dijo «Yo soy la verdad», no «Yo enseño la verdad». ¿Qué diferencia práctica hace esa distinción para la manera en que buscás orientación espiritual?",
           "Juan 7:17 dice que la verdad de la doctrina se conoce al estar dispuesto a hacer la voluntad de Dios. ¿Qué dice eso sobre la relación entre obediencia y comprensión espiritual?",
-          "El presidente Nelson dice que vivimos en un mundo «saturado de información pero escaso de verdad pura». ¿Cuáles son las fuentes concretas en las que más confiás para discernir qué es verdad? ¿Son confiables?",
+          "El presidente Nelson dijo que nunca ha habido una época en la que el conocimiento del Salvador fuera más vital y personalmente relevante para toda alma humana. ¿Cuáles son las fuentes concretas en las que más confiás para discernir qué es verdad? ¿Son confiables?",
           "Mateo dice que elevó el estándar de la ley porque quería que actuáramos como Él, no solo que obedeciéramos reglas. ¿Cómo cambia tu manera de seguir los mandamientos si los entendés como parte de un proceso de transformación interna más que como lista de reglas externas?",
           "El Sermón del Monte eleva la ley de Moisés desde la conducta externa hacia la transformación interna. La Lección 6 mostró que toda la ley mosaica apuntaba hacia Cristo. ¿Qué dice ese arco completo sobre el objetivo final del Evangelio?",
         ],
@@ -377,9 +385,11 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Jeffrey R. Holland (1940–2025)",
         fuente:
-          "«¿No os lo dejé como ejemplo?», Liahona, noviembre de 2014, pág. 86. churchofjesuschrist.org/study/general-conference/2014/10/are-we-not-all-beggars",
+          "«Los amó hasta el fin», Liahona, septiembre de 2002.",
         texto:
-          "Somos demasiado ricos con bienes temporales para recordar que todos somos mendigos a los pies del Salvador. Que siempre estemos prontos para dar. Que siempre seamos bondadosos con quienes han perdido su camino. Que siempre veamos en los demás lo que el Salvador vio en Zaqueo: no lo que son, sino lo que pueden llegar a ser.",
+          "Durante la cena, y en medio de esos pensamientos, Cristo se levantó lentamente, se ciñó el manto como lo habría hecho un esclavo o un siervo, se puso de rodillas para lavar los pies de los Apóstoles. Ese pequeño grupo de creyentes en ese nuevo reino iba muy pronto a enfrentarse a una de las pruebas más difíciles, de modo que Él hizo a un lado Su creciente angustia para servir y fortalecer, una vez más, a Sus discípulos.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2002/09/he-loved-them-unto-the-end?lang=spa",
+        // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 13 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 3), confirmada.
       },
       {
         tipo: "conclusion",
@@ -413,7 +423,7 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
       {
         tipo: "contexto",
         contenido:
-          "En el primer siglo, un leproso era un paria. La ley exigía que gritara «¡Inmundo!» para avisar a los demás cuando se aproximaba. Nadie lo tocaba — ni por compasión, porque el contacto significaba contaminación ritual. Era, en todos los sentidos, una persona excluida de la comunidad humana. Cuando ese leproso se arrodilló ante Jesús y dijo «Si quieres, puedes limpiarme», hizo lo que nadie en su posición haría: se acercó. Y Jesús hizo lo que nadie haría: lo tocó. Antes de pronunciar una sola palabra de sanación, extendió la mano y lo tocó.\n\nEse detalle no es decorativo — es teológico. El Salvador sanaba con palabras, a distancia, con barro, con agua. Podría haber curado al leproso sin tocarlo. Eligió no hacerlo. El toque fue el mensaje: no eres inmundo para Mí. Pertenecés a la comunidad humana. Tu cuerpo importa. Tu dignidad importa.\n\nLos milagros de Cristo no eran solo demostraciones de poder divino. Eran actos de compasión profunda que revelaban Su carácter. Y el élder Bednar señala algo que tendemos a pasar por alto: el mismo poder que sanó cuerpos durante el ministerio terrenal del Salvador sigue activo hoy a través de la Expiación — no solo para limpiar pecados, sino para dar fortaleza en el sufrimiento, para sanar el corazón roto, para sostener a quienes cargan con dolores que no tienen cura médica. La Expiación es también un milagro de sanación continua, disponible ahora.",
+          "En el primer siglo, un leproso era un paria. La ley exigía que gritara «¡Inmundo!» para avisar a los demás cuando se aproximaba. Nadie lo tocaba — ni por compasión, porque el contacto significaba contaminación ritual. Era, en todos los sentidos, una persona excluida de la comunidad humana. Cuando ese leproso se arrodilló ante Jesús y dijo «Si quieres, puedes limpiarme», hizo lo que nadie en su posición haría: se acercó. Y Jesús hizo lo que nadie haría: lo tocó. Antes de pronunciar una sola palabra de sanación, extendió la mano y lo tocó.\n\nEse detalle no es decorativo — es teológico. El Salvador sanaba con palabras, a distancia, con barro, con agua. Podría haber curado al leproso sin tocarlo. Eligió no hacerlo. El toque fue el mensaje: no eres inmundo para Mí. Pertenecés a la comunidad humana. Tu cuerpo importa. Tu dignidad importa.\n\nLos milagros de Cristo no eran solo demostraciones de poder divino. Eran actos de compasión profunda que revelaban Su carácter. Y el élder Dallin H. Oaks señala algo que tendemos a pasar por alto: el mismo poder que sanó cuerpos durante el ministerio terrenal del Salvador sigue activo hoy a través de la Expiación — no solo para limpiar pecados, sino para dar fortaleza en el sufrimiento, para sanar el corazón roto, para sostener a quienes cargan con dolores que no tienen cura médica. La Expiación es también un milagro de sanación continua, disponible ahora.",
       },
       {
         tipo: "escrituras",
@@ -440,11 +450,12 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Élder David A. Bednar",
+        autor: "Élder Dallin H. Oaks",
         fuente:
-          "«Él sanó a los que están cargados», Liahona, noviembre de 2006, pág. 60. churchofjesuschrist.org/study/general-conference/2006/10/and-nothing-shall-offend-them",
+          "«Él sana a los que están cargados», Conferencia General, octubre de 2006, Liahona, noviembre de 2006.",
         texto:
           "La expiación de Jesucristo y el remedio que brinda hacen mucho más que proporcionarnos la oportunidad de arrepentirnos de nuestros pecados. La Expiación también nos da la fortaleza para soportar dolores, aflicciones y tentaciones de todas clases, ya que nuestro Salvador también tomó sobre sí los dolores y las enfermedades de su pueblo. Si su fe, sus oraciones y el poder del sacerdocio no los sanan de las aflicciones, el poder de la Expiación con seguridad les dará la fortaleza para sobrellevar la carga.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2006/10/he-heals-the-heavy-laden?lang=spa",
       },
       {
         tipo: "conclusion",
@@ -457,8 +468,8 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
           "¿Cuál milagro del Salvador te llega más profundo — curar al leproso, calmar la tormenta, resucitar a Lázaro? ¿Qué dice esa elección sobre lo que más necesitás de Él?",
           "Jesús tocó al leproso antes de pronunciar una sola palabra de sanación. ¿Qué mensaje comunica ese acto sobre cómo el Salvador trata a las personas que la sociedad excluye?",
           "Hechos 10:38 dice que Jesús «anduvo haciendo bienes». ¿Qué dice esa descripción sobre la naturaleza de Su ministerio diario? ¿Cómo podría ese patrón aplicarse a tu vida universitaria?",
-          "El élder Bednar enseña que la Expiación da fortaleza para soportar el sufrimiento, no solo para ser perdonados. ¿Cuándo has experimentado o visto ese poder habilitador en tu propia vida o en la de alguien cercano?",
-          "Mateo tiene una amiga que atraviesa una depresión severa y siente que Dios no la escucha. Dice: «Si Dios existiera y me amara, no permitiría que me sintiera así». Según Alma 7:11–12 y la enseñanza de Bednar, ¿qué le dirías?",
+          "El élder Oaks enseña que la Expiación da fortaleza para soportar el sufrimiento, no solo para ser perdonados. ¿Cuándo has experimentado o visto ese poder habilitador en tu propia vida o en la de alguien cercano?",
+          "Mateo tiene una amiga que atraviesa una depresión severa y siente que Dios no la escucha. Dice: «Si Dios existiera y me amara, no permitiría que me sintiera así». Según Alma 7:11–12 y la enseñanza del élder Oaks, ¿qué le dirías?",
           "Los milagros físicos del ministerio terrenal de Cristo (sanar enfermos, resucitar muertos) y el milagro espiritual de la Expiación descrito en Alma 7:11–12 comparten un mismo origen. ¿Cuál es el principio que los une, y qué dice eso sobre el carácter del Salvador?",
         ],
       },
