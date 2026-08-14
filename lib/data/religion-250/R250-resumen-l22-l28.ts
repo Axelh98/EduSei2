@@ -15,7 +15,7 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
       {
         tipo: "contexto",
         contenido:
-          "En octubre de 2018, durante una entrevista sobre su primer año como presidente de la Iglesia, le preguntaron al presidente Nelson qué podía esperar el mundo de la Iglesia en los años venideros. Sonrió y respondió: «Apenas están observando el principio. Hay mucho más por venir. Esperen al año que viene; y luego, al año siguiente. Tomen vitaminas. Descansen. Va a ser emocionante». Lo que siguió confirmó esas palabras: cambios en la estructura del sacerdocio, nuevo programa de ministración, estudio centrado en el hogar, construcción de templos a ritmo sin precedentes, y la «Proclamación de la Restauración» en el bicentenario de la Primera Visión.\n\nCuando pensamos en la Restauración, el instinto es ubicarla en el pasado: la Arboleda Sagrada, el Libro de Mormón, José Smith, 1830. Eso es cierto, pero incompleto. El Artículo de Fe 9 lo dice claramente: creemos «todo lo que Dios ha revelado, todo lo que actualmente revela» y los «muchos grandes e importantes asuntos que aún revelará». La Restauración no fue un evento cerrado — fue un comienzo. El presidente Uchtdorf lo describió con la imagen del cuento de Rip Van Winkle: un hombre que se duerme y cuando despierta, el mundo ya cambió sin él. La pregunta que lanzó fue directa: «¿Están durmiendo durante la Restauración?».\n\nEso tiene implicaciones personales muy concretas para un joven universitario de hoy. La profecía de Daniel 2:44 describe el reino de Dios como una piedra que «llenará toda la tierra» — y ese crecimiento está ocurriendo ahora, en tu generación. El presidente Nelson describió tres formas de participar activamente en esa obra: ser personas de convenios firmes, reunir a Israel de este lado del velo mediante la obra misional, y reunirlo del otro lado mediante la obra del templo. No son actividades de ancianos o de misioneros de tiempo completo: son la vocación de toda alma bautizada que entiende en qué momento histórico vive.",
+          "El 28 de octubre de 2018, tras la dedicación del Templo de Concepción, Chile, el presidente Nelson habló con periodistas sobre lo que podía esperar el mundo de la Iglesia en los años venideros. Dijo: «Somos testigos de un proceso de restauración. Si creen que la Iglesia ha sido completamente restaurada, sólo están viendo el comienzo. Queda mucho por venir. Esperen hasta el próximo año y luego el año que viene. Tomen sus vitaminas; descansen bien. Va a ser emocionante». Lo que siguió confirmó esas palabras: cambios en la estructura del sacerdocio, nuevo programa de ministración, estudio centrado en el hogar, construcción de templos a ritmo sin precedentes, y la «Proclamación de la Restauración» en el bicentenario de la Primera Visión.\n\nCuando pensamos en la Restauración, el instinto es ubicarla en el pasado: la Arboleda Sagrada, el Libro de Mormón, José Smith, 1830. Eso es cierto, pero incompleto. El Artículo de Fe 9 lo dice claramente: creemos «todo lo que Dios ha revelado, todo lo que actualmente revela» y los «muchos grandes e importantes asuntos que aún revelará». La Restauración no fue un evento cerrado — fue un comienzo. El presidente Uchtdorf lo describió con la imagen del cuento de Rip Van Winkle: un hombre que se duerme y cuando despierta, el mundo ya cambió sin él. La pregunta que lanzó fue directa: «¿Están durmiendo durante la Restauración?».\n\nEso tiene implicaciones personales muy concretas para un joven universitario de hoy. La profecía de Daniel 2:44 describe el reino de Dios como una piedra que «llenará toda la tierra» — y ese crecimiento está ocurriendo ahora, en tu generación. El presidente Nelson describió tres formas de participar activamente en esa obra: ser personas de convenios firmes, reunir a Israel de este lado del velo mediante la obra misional, y reunirlo del otro lado mediante la obra del templo. No son actividades de ancianos o de misioneros de tiempo completo: son la vocación de toda alma bautizada que entiende en qué momento histórico vive.",
       },
       {
         tipo: "escrituras",
@@ -44,17 +44,20 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Dieter F. Uchtdorf",
         fuente:
-          "«¿Están durmiendo durante la Restauración?», Liahona, mayo de 2014, pág. 58. churchofjesuschrist.org/study/liahona/2014/05/priesthood-session/are-you-sleeping-through-the-restoration",
+          "«¿Están durmiendo durante la Restauración?», conferencia general (sesión de sacerdocio), abril de 2014.",
         texto:
           "A veces consideramos la Restauración del Evangelio como algo que está completo, que ya dejamos atrás: José Smith tradujo el Libro de Mormón, recibió las llaves del sacerdocio, se organizó la Iglesia. En realidad, la Restauración es un proceso en pleno desarrollo; la estamos viviendo ahora mismo. Cuando nuestro tiempo en la vida terrenal se haya terminado, ¿qué experiencias podremos compartir sobre nuestra contribución a este período significativo? Hay demasiado en juego para hacer las cosas a medias en esta obra sagrada.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/are-you-sleeping-through-the-restoration?lang=spa&id=p9-9#p9",
+        // Esta cita combina fragmentos reales de los párrafos 9, 11 y 59 del discurso (con elipsis); el ancla apunta solo al primer fragmento (p9) porque un rango p9-59 resaltaría casi todo el discurso.
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente:
-          "«La Restauración de la plenitud del Evangelio de Jesucristo: Una proclamación para el mundo en el bicentenario», 5 de abril de 2020. churchofjesuschrist.org/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ",
+          "«La Restauración de la plenitud del Evangelio de Jesucristo: Una proclamación para el mundo en el bicentenario», 5 de abril de 2020.",
         texto:
-          "Somos testigos de un proceso de restauración. Si piensan que la Iglesia ha sido restaurada completamente, les digo que apenas están observando el principio. Hay mucho más por venir. Con alegría declaramos que la Restauración prometida avanza por medio de la revelación continua. La Restauración continua necesita revelación continua.",
+          "Han transcurrido doscientos años desde que Dios el Padre y Su Hijo Amado, Jesucristo, dieron inicio a esta Restauración. Millones de personas en todo el mundo han aceptado el conocimiento de estos acontecimientos que fueron predichos. Con alegría declaramos que la Restauración prometida avanza por medio de la revelación continua.",
+        link: "https://www.churchofjesuschrist.org/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ?lang=spa&id=p7-8#p7",
       },
       {
         tipo: "conclusion",
@@ -88,7 +91,7 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
       {
         tipo: "contexto",
         contenido:
-          "Si mencionás la Segunda Venida de Cristo en un grupo de jóvenes universitarios, las reacciones suelen ir en dos direcciones. La primera es la ansiedad — imágenes apocalípticas, guerras, calamidades, la sensación de que el mundo se está desmoronando. La segunda es la indiferencia — «eso está muy lejos, ya veremos». Ninguna de las dos es la respuesta del Evangelio.\n\n«El Cristo Viviente» cierra con una promesa que los Apóstoles firman: «Testificamos que algún día Él regresará a la tierra.» No es una amenaza — es la declaración de que todo lo que hemos esperado tiene un cumplimiento glorioso garantizado. DyC 101:36 lo dice con directriz explícita: «No temáis, porque el reino os pertenece.» El tiempo presente importa: el reino ya pertenece a quienes están en el camino del convenio. La Segunda Venida no inaugura ese reino — lo completa.\n\nEl desafío real no es calcular fechas ni acumular provisiones físicas — el Salvador mismo dijo que «nadie sabe el día ni la hora» (Mateo 24:36). El desafío es vivir de manera que cuando Él llegue, sea la continuación natural de la vida que ya estamos llevando. Lucas 12:40 dice «estad listos», no «estad aterrorizados». La preparación que el Señor pide es de carácter, de convenios y de servicio cotidiano — exactamente lo que el curso entero de Religión 250 ha enseñado. En ese sentido, esta lección es menos sobre el futuro que sobre el presente: ¿cómo vivo hoy a la luz de lo que sé que viene?",
+          "Si mencionás la Segunda Venida de Cristo en un grupo de jóvenes universitarios, las reacciones suelen ir en dos direcciones. La primera es la ansiedad — imágenes apocalípticas, guerras, calamidades, la sensación de que el mundo se está desmoronando. La segunda es la indiferencia — «eso está muy lejos, ya veremos». Ninguna de las dos es la respuesta del Evangelio.\n\n«El Cristo Viviente» incluye, hacia el final, una promesa que los Apóstoles firman: «Testificamos que algún día Él regresará a la tierra.» No es una amenaza — es la declaración de que todo lo que hemos esperado tiene un cumplimiento glorioso garantizado. DyC 101:36 lo dice con directriz explícita: «No temáis, porque el reino os pertenece.» El tiempo presente importa: el reino ya pertenece a quienes están en el camino del convenio. La Segunda Venida no inaugura ese reino — lo completa.\n\nEl desafío real no es calcular fechas ni acumular provisiones físicas — el Salvador mismo dijo que «nadie sabe el día ni la hora» (Mateo 24:36). El desafío es vivir de manera que cuando Él llegue, sea la continuación natural de la vida que ya estamos llevando. Lucas 12:40 dice «estad listos», no «estad aterrorizados». La preparación que el Señor pide es de carácter, de convenios y de servicio cotidiano — exactamente lo que el curso entero de Religión 250 ha enseñado. En ese sentido, esta lección es menos sobre el futuro que sobre el presente: ¿cómo vivo hoy a la luz de lo que sé que viene?",
       },
       {
         tipo: "escrituras",
@@ -117,17 +120,20 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente:
-          "«Las bendiciones del templo ayudan a preparar un pueblo para la Segunda Venida», conferencia general de octubre de 2024. noticias.laiglesiadejesucristo.org",
+          "«El Señor Jesucristo vendrá de nuevo», conferencia general, octubre de 2024.",
         texto:
-          "Las bendiciones del templo ayudan a recoger a Israel a ambos lados del velo. Esas bendiciones también ayudan a preparar a un pueblo que ayudará a preparar al mundo para la Segunda Venida del Señor. ¿Vemos lo que está sucediendo ante nuestros ojos? Ruego que no pasemos por alto la majestuosidad de este momento. El Señor ciertamente está apresurando Su obra.",
+          "Mis queridos hermanos y hermanas, ¿ven lo que está sucediendo ante nuestros ojos? ¡Ruego que no pasemos por alto la majestuosidad de este momento! El Señor ciertamente está apresurando Su obra. Las bendiciones del templo ayudan a recoger a Israel en ambos lados del velo. ¡Y esas bendiciones también ayudan a preparar a un pueblo que ayudará a preparar al mundo para la Segunda Venida del Señor!",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2024/10/57nelson?lang=spa&id=p_leSJJ-p_hbgf4#p_leSJJ",
+        // Este discurso (2024) usa un esquema de id de párrafo nuevo (hash alfanumérico, no numérico secuencial); el ancla de párrafo es un mejor esfuerzo y puede no resaltar el rango exacto, aunque el salto de scroll (#p_leSJJ) sí funciona.
       },
       {
         tipo: "enseñanza",
         autor: "«El Cristo Viviente: El Testimonio de los Apóstoles»",
         fuente:
-          "Primera Presidencia y el Cuórum de los Doce Apóstoles, 1 de enero de 2000. churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles",
+          "Primera Presidencia y el Cuórum de los Doce Apóstoles, 1 de enero de 2000.",
         texto:
-          "Testificamos solemnemente que Él volverá a reinar triunfalmente sobre la tierra como el Señor de señores y Rey de reyes, y que el reinado de paz y justicia será la herencia permanente de los fieles. Él es la luz, la vida y la esperanza del mundo. Su camino es el sendero que lleva a la felicidad en esta vida y a la vida eterna en el mundo venidero.",
+          "Testificamos que algún día Él regresará a la tierra... Él regirá como Rey de reyes y reinará como Señor de señores, y toda rodilla se doblará, y toda lengua hablará en adoración ante Él... Él es la luz, la vida y la esperanza del mundo. Su camino es el sendero que lleva a la felicidad en esta vida y a la vida eterna en el mundo venidero.",
+        link: "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa&id=p12-13#p12",
       },
       {
         tipo: "conclusion",
@@ -141,8 +147,8 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
           "DyC 101:36 dice «no temáis» y Lucas 12:40 dice «estad preparados». ¿Cómo se relacionan esas dos instrucciones? ¿Es posible estar preparado sin temer, y qué diferencia a los dos estados?",
           "El presidente Nelson dijo que los templos «ayudan a preparar un pueblo para la Segunda Venida». ¿Por qué la preparación para ese evento pasa por el templo y no por acumular conocimiento profético o provisiones físicas?",
           "Si alguien te dijera «me estresa pensar en la Segunda Venida porque siento que no estoy listo», ¿qué principio de esta lección — y del curso completo — le ofrecerías como respuesta?",
-          "«El Cristo Viviente» dice que Cristo «volverá a reinar triunfalmente» y que Su camino «lleva a la felicidad en esta vida». ¿Cómo conectan esas dos afirmaciones — el futuro eterno y la felicidad presente?",
-          "DyC 45:16 habla de «señales» antes de la venida. DyC 101:36 dice «no temáis». «El Cristo Viviente» dice que Él «volverá triunfalmente». ¿Cuál es el principio que une los tres pasajes y que define cómo un discípulo debe relacionarse con los eventos de los últimos días?",
+          "«El Cristo Viviente» testifica que Cristo «regirá como Rey de reyes y reinará como Señor de señores» y que Su camino «lleva a la felicidad en esta vida». ¿Cómo conectan esas dos afirmaciones — el futuro eterno y la felicidad presente?",
+          "DyC 45:16 habla de «señales» antes de la venida. DyC 101:36 dice «no temáis». «El Cristo Viviente» testifica que Él «regresará a la tierra». ¿Cuál es el principio que une los tres pasajes y que define cómo un discípulo debe relacionarse con los eventos de los últimos días?",
         ],
       },
     ],
@@ -190,9 +196,10 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Dallin H. Oaks",
         fuente:
-          "«El desafío de lo que debemos llegar a ser», Liahona, enero de 2001, pág. 40. churchofjesuschrist.org/study/general-conference/2000/10/the-challenge-to-become",
+          "«El desafío de lo que debemos llegar a ser», Liahona, enero de 2001, pág. 40.",
         texto:
           "El Juicio Final no es simplemente una evaluación de la suma total de las obras buenas y malas, o sea, lo que hemos hecho. Es un reconocimiento del efecto final que tienen nuestros hechos y pensamientos, o sea, lo que hemos llegado a ser. Los mandamientos, las ordenanzas y los convenios del Evangelio no son una lista de depósitos que tenemos que hacer en alguna cuenta celestial. El evangelio de Jesucristo es un plan que nos muestra cómo llegar a ser lo que nuestro Padre Celestial desea que lleguemos a ser.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2000/10/the-challenge-to-become?lang=spa&id=p6-6#p6",
       },
       {
         tipo: "conclusion",
@@ -255,9 +262,10 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Dieter F. Uchtdorf",
         fuente:
-          "«Los mejores tiempos y los peores tiempos», Liahona, noviembre de 2013, pág. 60. churchofjesuschrist.org/study/general-conference/2013/10/it-works-wonderfully",
+          "«¡Funciona de maravilla!», conferencia general, octubre de 2015.",
         texto:
-          "El discipulado no es una tarea que completamos sino un proceso continuo de llegar a ser. No se trata simplemente de hacer cosas buenas; se trata de convertirnos en personas buenas. El verdadero discipulado no es solo llevar el nombre de Cristo — es llegar a tener Su corazón, Sus manos, Sus pies. Eso no ocurre de golpe. Ocurre día a día, decisión a decisión, a lo largo de toda la vida.",
+          "Escuchar la palabra de Dios con verdadera intención nos lleva a creer en Dios y a confiar en Sus promesas. Debido a nuestro amor por Dios, deseamos seguirlo a Él y actuar en armonía con Su palabra... Dios los aceptará como son en este preciso momento y empezará a ayudarlos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/it-works-wonderfully?lang=spa&id=p37-48#p37",
       },
       {
         tipo: "conclusion",
@@ -270,7 +278,7 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
           "Lucas 9:23 dice «tome su cruz cada día». ¿Cuál es tu «cruz» específica en este momento de tu vida universitaria — aquello que el discipulado te pide que enfrentes todos los días?",
           "Pedro y Andrés «dejaron sus redes» — dejaron una identidad conocida para seguir a Cristo. ¿Hay alguna identidad, hábito o ambición que el discipulado te está pidiendo que dejes o reorienten en este momento?",
           "Juan 8:31 dice que el discipulado verdadero se prueba en «permanecer». ¿En qué aspectos de tu vida espiritual — oración, estudio, convenios, honestidad — te cuesta más permanecer cuando no hay presión social ni entusiasmo inmediato?",
-          "El presidente Uchtdorf dice que el discipulado es «llegar a tener Su corazón, Sus manos, Sus pies». ¿Cómo se diferencia eso de simplemente cumplir reglas o asistir a reuniones?",
+          "El presidente Uchtdorf dice que, debido a nuestro amor por Dios, «deseamos seguirlo a Él y actuar en armonía con Su palabra». ¿Cómo se diferencia eso de simplemente cumplir reglas o asistir a reuniones?",
           "Si alguien observara tu semana completa sin conocerte — tu universidad, tus conversaciones, tus decisiones cuando nadie te ve — ¿qué evidencia encontraría de que sos discípulo de Jesucristo? ¿Qué evidencia faltaría?",
           "Lucas 9:23 dice «niéguese, tome, sígame». Juan 8:31 dice «permanecereis». Marcos 1:18 dice «dejando sus redes, le siguieron». ¿Cuál es el patrón que une los tres pasajes sobre el costo y el proceso del discipulado?",
         ],
@@ -320,14 +328,15 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente:
-          "«Sigan al profeta», Liahona, mayo de 2019, pág. 100. churchofjesuschrist.org/study/general-conference/2019/04/46nelson",
+          "«Podemos actuar mejor y ser mejores», conferencia general (sesión de sacerdocio), abril de 2019.",
         texto:
-          "Nuestro Padre Celestial y Su Hijo Amado viven y nos aman. Su objetivo para cada uno de nosotros es que lleguemos a ser eternamente como Ellos. La meta no se logrará en un día, pero puede lograrse con el tiempo si elegimos dejar que Cristo nos cambie. Cada día puede ser mejor que el anterior. Cada semana puede estar más llena de los atributos de Cristo que la anterior.",
+          "Al escoger arrepentirnos, ¡escogemos cambiar! Permitimos que el Salvador nos transforme en la mejor versión de nosotros. Escogemos crecer espiritualmente y recibir gozo; el gozo de la redención en Él. Al escoger arrepentirnos, escogemos llegar a ser más semejantes a Jesucristo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/36nelson?lang=spa&id=p8-8#p8",
       },
       {
         tipo: "conclusion",
         contenido:
-          "3 Nefi 27:27 no es una exigencia que aplasta — es una invitación que orienta. La meta «sé como yo soy» no produce culpa en quien la entiende bien: produce dirección. Cada atributo de Cristo que practicás hoy — la paciencia en el tráfico, la honestidad en el examen, la compasión con el compañero difícil — es un avance real hacia ese destino. El presidente Nelson lo resumió con una imagen simple: cada día puede ser mejor que el anterior, cada semana más llena de atributos de Cristo. No perfección inmediata. Progreso intencional. Eso está al alcance de cualquiera.",
+          "3 Nefi 27:27 no es una exigencia que aplasta — es una invitación que orienta. La meta «sé como yo soy» no produce culpa en quien la entiende bien: produce dirección. Cada atributo de Cristo que practicás hoy — la paciencia en el tráfico, la honestidad en el examen, la compasión con el compañero difícil — es un avance real hacia ese destino. El presidente Nelson lo resumió con una idea simple: al escoger arrepentirnos, escogemos llegar a ser más semejantes a Jesucristo. No perfección inmediata. Progreso intencional, decisión a decisión. Eso está al alcance de cualquiera.",
       },
       {
         tipo: "cuestionario",
@@ -385,17 +394,20 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
         tipo: "enseñanza",
         autor: "«El Cristo Viviente: El Testimonio de los Apóstoles»",
         fuente:
-          "Primera Presidencia y el Cuórum de los Doce Apóstoles, 1 de enero de 2000. churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles",
+          "Primera Presidencia y el Cuórum de los Doce Apóstoles, 1 de enero de 2000.",
         texto:
-          "Él es la luz, la vida y la esperanza del mundo. Su camino es el sendero que lleva a la felicidad en esta vida y a la vida eterna en el mundo venidero. Sentimos el impulso de pararnos como testigos de Dios en todo tiempo y en todas cosas y en todos los lugares.",
+          "Él es el gran Rey Emanuel, que hoy está a la diestra de Su Padre. Él es la luz, la vida y la esperanza del mundo. Su camino es el sendero que lleva a la felicidad en esta vida y a la vida eterna en el mundo venidero.",
+        link: "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa&id=p13-13#p13",
       },
       {
         tipo: "enseñanza",
-        autor: "Élder Sharon Eubank",
+        autor: "Hermana Sharon Eubank",
         fuente:
-          "«Cristo: la luz que resplandece en las tinieblas», Liahona, mayo de 2019, pág. 73. churchofjesuschrist.org/study/general-conference/2019/04/12eubank",
+          "«Cristo: la luz que resplandece en las tinieblas», Liahona, mayo de 2019, pág. 73.",
         texto:
-          "La luz de Cristo no es algo separado de Cristo. Él ES la luz. Cuando la oscuridad parece ganar terreno en el mundo, recordad que la luz no fue diseñada para eliminar la oscuridad de manera instantánea — fue diseñada para ser suficiente para que veamos el siguiente paso. Y un paso es suficiente.",
+          "Él es la fuente de nuestro poder, la Luz y la Vida del mundo. Sin una fuerte conexión a Él, comenzamos a morir espiritualmente... Avancen unos pasos más en la senda de los convenios, aun cuando esté demasiado oscuro para ver muy lejos; las luces volverán a encenderse.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/42eubank?lang=spa&id=p3-3#p3",
+        // La cita también incluye una segunda oración real del párrafo 30 (cierre del discurso); el ancla apunta solo al primer fragmento (p3) porque el rango p3-30 abarcaría prácticamente todo el discurso.
       },
       {
         tipo: "conclusion",
@@ -407,7 +419,7 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
         preguntas: [
           "¿En qué área de tu vida sentís más oscuridad o confusión ahora mismo — relacional, académica, espiritual, existencial? Según Juan 8:12, ¿qué implicación concreta tiene la promesa «tendrá la luz de la vida» para esa área?",
           "DyC 88:11–13 dice que la luz que ilumina el sol es el mismo Cristo que ilumina los entendimientos. ¿Cómo cambia tu relación con el estudio y el conocimiento si los entendés como participación en la luz que Cristo sostiene?",
-          "La hermana Eubank dijo que la luz fue diseñada para ser «suficiente para el siguiente paso». ¿Cuándo experimentaste eso — no la solución completa sino suficiente luz para el paso inmediato? ¿Cómo llegó?",
+          "La hermana Eubank invitó a «avanzar unos pasos más en la senda de los convenios, aun cuando esté demasiado oscuro para ver muy lejos». ¿Cuándo experimentaste eso — no la solución completa sino la fe suficiente para dar el paso inmediato? ¿Cómo llegó?",
           "Moroni 10:32 dice «venid a Cristo y perfeccionaos en él». «El Cristo Viviente» dice «Él es la luz, la vida y la esperanza». ¿En qué se diferencia la esperanza basada en Cristo de otras formas de esperanza o positivismo que el mundo ofrece?",
           "¿Cómo podés ser esta semana un «reflector» de la luz de Cristo hacia alguien que estás viendo andar en oscuridad — no necesariamente con palabras religiosas, sino con presencia, atención y acción concreta?",
           "Juan 8:12 dice «el que me sigue tendrá la luz de la vida». DyC 88:11–13 dice que Cristo «ilumina vuestros entendimientos». Moroni 10:32 dice que Su gracia es suficiente. ¿Cuál es el principio doctrinal que une los tres pasajes sobre la relación entre Cristo y nuestra capacidad de ver con claridad?",
@@ -429,7 +441,7 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
       {
         tipo: "contexto",
         contenido:
-          "La última reunión del Salvador con Sus discípulos antes de Su ascensión al cielo fue, en cierto sentido, una comisión. Hechos 1:8 registra Sus palabras: «Recibiréis poder cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra.» Eso no era solo para los Doce. Es para cada persona que ha tomado el nombre de Cristo sobre sí mediante el bautismo y ha prometido, en las palabras de Mosíah 18:9, «pararse como testigo de Dios en todo tiempo y en todas cosas y en todos los lugares en que estuvieres, hasta la muerte».\n\nEl curso de Religión 250 comenzó con la invitación del Salvador: «Venid a mí y aprended de mí». Las 28 lecciones que siguieron construyeron un retrato del Salvador a través de toda Su existencia — preterrenal, terrenal, posterrenal. Ahora la invitación final no es recibir más información sino responder: ¿quién vas a ser vos a partir de lo que aprendiste?\n\nEl élder Christofferson lo describió con precisión: «Las demás personas deberían poder ver en nosotros algo de Jesucristo. Nuestra paciencia, nuestra bondad, nuestro servicio, nuestra honestidad, nuestra integridad — todo debería hablar de quién es nuestro Maestro.» Ser testigo no requiere condiciones perfectas ni elocuencia. Requiere autenticidad: la persona que vio algo real en su experiencia del Salvador y no puede no decirlo. María Magdalena no tenía ninguna credencial especial cuando corrió a decirle a los discípulos «He visto al Señor». Solo tenía la experiencia, y eso fue suficiente.",
+          "La última reunión del Salvador con Sus discípulos antes de Su ascensión al cielo fue, en cierto sentido, una comisión. Hechos 1:8 registra Sus palabras: «Recibiréis poder cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra.» Eso no era solo para los Doce. Es para cada persona que ha tomado el nombre de Cristo sobre sí mediante el bautismo y ha prometido, en las palabras de Mosíah 18:9, «pararse como testigo de Dios en todo tiempo y en todas cosas y en todos los lugares en que estuvieres, hasta la muerte».\n\nEl curso de Religión 250 comenzó con la invitación del Salvador: «Venid a mí y aprended de mí». Las 28 lecciones que siguieron construyeron un retrato del Salvador a través de toda Su existencia — preterrenal, terrenal, posterrenal. Ahora la invitación final no es recibir más información sino responder: ¿quién vas a ser vos a partir de lo que aprendiste?\n\nEl élder Christofferson lo describió con precisión: «Las demás personas deberían poder ver en nosotros algo de Jesucristo. La forma en que actuemos, hablemos, el aspecto que tengamos y hasta nuestros pensamientos serán un reflejo de Él y de Su manera de proceder.» Ser testigo no requiere condiciones perfectas ni elocuencia. Requiere autenticidad: la persona que vio algo real en su experiencia del Salvador y no puede no decirlo. María Magdalena no tenía ninguna credencial especial cuando corrió a decirle a los discípulos «He visto al Señor». Solo tenía la experiencia, y eso fue suficiente.",
       },
       {
         tipo: "escrituras",
@@ -458,17 +470,19 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
         fuente:
-          "«El porqué de la Iglesia», Liahona, noviembre de 2015, pág. 108. churchofjesuschrist.org/study/general-conference/2015/10/why-the-church",
+          "«Cómo llegar a ser testigo de Cristo», Liahona, marzo de 2008, pág. 58.",
         texto:
-          "Nuestra responsabilidad como discípulos es representar a Cristo ante el mundo. Las demás personas deberían poder ver en nosotros algo de Jesucristo. Nuestra paciencia, nuestra bondad, nuestro servicio, nuestra honestidad, nuestra integridad — todo debería hablar de quién es nuestro Maestro. El mejor sermón es una vida bien vivida.",
+          "Las demás personas deberían poder ver en nosotros algo de Jesucristo. La forma en que actuemos, hablemos, el aspecto que tengamos y hasta nuestros pensamientos serán un reflejo de Él y de Su manera de proceder... Y al imitar ese modelo, damos testimonio de Él.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2008/03/becoming-a-witness-of-christ?lang=spa&id=p10-10#p10",
       },
       {
         tipo: "enseñanza",
         autor: "Élder Neil L. Andersen",
         fuente:
-          "«Hablamos de Cristo», Liahona, noviembre de 2020, pág. 88. churchofjesuschrist.org/study/general-conference/2020/10/45andersen",
+          "«Hablamos de Cristo», Liahona, noviembre de 2020, pág. 88.",
         texto:
-          "A medida que el mundo hable menos de Jesucristo, hablemos nosotros más de Él. El testimonio de Cristo no es exclusivo de los líderes ni de los misioneros: es la responsabilidad de cada discípulo. Conforme compartamos la luz que hemos recibido de Él, Su luz brillará sobre quienes estén dispuestos a abrir su corazón.",
+          "A medida que el mundo hable menos de Jesucristo, hablemos nosotros más de Él. Conforme se manifieste nuestro verdadero carácter como discípulos Suyos, muchas personas a nuestro alrededor estarán preparadas para escuchar. Al compartir la luz que hemos recibido de Él, Su luz y Su trascendente poder salvador alumbrará a los que estén dispuestos a abrir el corazón.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/45andersen?lang=spa&id=p23-23#p23",
       },
       {
         tipo: "conclusion",
@@ -481,7 +495,7 @@ export const leccionesResumidasR250_22_28: Lesson[] = [
           "Al terminar este curso, ¿cómo ha cambiado o profundizado tu testimonio de Jesucristo respecto a cuando empezaste? ¿Qué lección o enseñanza te marcó más?",
           "Mosíah 18:9 dice que el convenio de testigo es «en todo tiempo, en todas cosas, en todos los lugares». ¿En qué contexto específico de tu vida — facultad, trabajo, familia, amigos — te resulta más difícil ser testigo de Cristo? ¿Por qué?",
           "María Magdalena no tenía credencial ni elocuencia especial — solo tenía la experiencia de haber visto al Señor resucitado y fue a decirlo. ¿Qué experiencia personal tuya del Salvador podrías compartir con alguien esta semana con esa misma autenticidad?",
-          "El élder Christofferson dice que «el mejor sermón es una vida bien vivida». ¿Qué atributo de Cristo — de los que estudiaste en este curso — querés priorizar cultivar en los próximos meses como forma de testimonio no verbal?",
+          "El élder Christofferson dice que «la forma en que actuemos, hablemos... y hasta nuestros pensamientos» reflejan a Cristo. ¿Qué atributo de Cristo — de los que estudiaste en este curso — querés priorizar cultivar en los próximos meses como forma de testimonio no verbal?",
           "El élder Andersen dice: «A medida que el mundo hable menos de Cristo, hablemos nosotros más de Él». ¿Cómo equilibrás ser un testigo auténtico con respetar la agencia de los demás y no volerte predicador invasivo?",
           "Hechos 1:8 dice que el poder de testificar viene del Espíritu Santo. Mosíah 18:9 describe la extensión del testimonio. Juan 20:18 muestra a María como primer testigo de la Resurrección. ¿Cuál es el principio que conecta los tres y que define qué hace posible y qué forma tiene el testimonio genuino?",
         ],

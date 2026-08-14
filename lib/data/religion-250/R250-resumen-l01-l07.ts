@@ -59,7 +59,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
           "«Aprended de Mí», discurso dirigido a los instructores de religión del SEI, 26 de enero de 2018, Tabernáculo de Salt Lake.",
         texto:
           "La invitación del Salvador, «aprende de mí», tiene dos significados relacionados que corresponden a la hermosa manera del Señor de aprender profundamente. El primer significado es: Aprende a conocerme. Conocerlo es nacer espiritualmente de Él, experimentar un cambio de corazón y llegar a ser Sus hijos e hijas. El segundo significado es: Aprende de mí. Al sumergirnos en las Escrituras, aprendemos de Su ejemplo perfecto. Él promete magnificar nuestra capacidad de actuar justamente y ayudarnos a llegar a ser más como Él.",
-        link: "https://www.churchofjesuschrist.org/study/broadcasts/an-evening-with-the-general-authorities/2018/01/learn-of-me?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/broadcasts/an-evening-with-the-general-authorities/2018/01/learn-of-me?lang=spa&id=p14-18#p14",
       },
       {
         tipo: "enseñanza",
@@ -68,7 +68,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
           "«Unidos al Salvador mediante convenios», Para la Fortaleza de la Juventud, febrero de 2022.",
         texto:
           "Un yugo es una viga de madera que generalmente se coloca entre un par de bueyes u otros animales, y que les permite tirar de una carga juntos. El yugo hace que los animales se coloquen lado a lado, a fin de que puedan moverse juntos para llevar a cabo una tarea. El concertar convenios sagrados y guardarlos nos hace llevar un yugo que nos une al Salvador. Eso significa que confiamos en Él, dependemos de Él y tiramos de nuestra carga con Él durante el trayecto de la vida.",
-        link: "https://www.churchofjesuschrist.org/study/ftsoy/2022/02/02-bound-to-the-savior-through-covenants?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/ftsoy/2022/02/02-bound-to-the-savior-through-covenants?lang=spa&id=p16-17#p16",
       },
       {
         tipo: "conclusion",
@@ -134,7 +134,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
           "«Cómo obtener el poder de Jesucristo en nuestra vida», Conferencia General, abril de 2017, Liahona, mayo de 2017, pág. 40.",
         texto:
           "Muchos miembros han memorizado las verdades que contiene «El Cristo Viviente»; otros apenas saben que existe. A medida que procuran aprender más acerca de Jesucristo, los insto a estudiar «El Cristo Viviente».",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&id=p16-16#p16",
       },
       {
         tipo: "enseñanza",
@@ -143,7 +143,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
           "«Hablamos de Cristo», Conferencia General, octubre de 2020, Liahona, noviembre de 2020, pág. 88.",
         texto:
           "A medida que el mundo hable menos de Jesucristo, hablemos nosotros más de Él. Conforme se manifieste nuestro verdadero carácter como discípulos Suyos, muchas personas a nuestro alrededor estarán preparadas para escuchar. Al compartir la luz que hemos recibido de Él, Su luz y Su trascendente poder salvador alumbrará a los que estén dispuestos a abrir el corazón.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/45andersen?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/45andersen?lang=spa&id=p23-23#p23",
       },
       {
         tipo: "conclusion",
@@ -209,7 +209,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
           "«¡Oh cuán grande es el plan de nuestro Dios!», Conferencia General, octubre de 2016, Liahona, noviembre de 2016.",
         texto:
           "Ustedes y yo participamos en el Gran Concilio donde nuestro amado Padre presentó Su plan para nosotros: que vendríamos a la tierra, recibiríamos cuerpos mortales, aprenderíamos a elegir entre el bien y el mal y progresaríamos en formas que de otra manera no sería posible. […] Por lo tanto, con fe en el sacrificio de Jesucristo, ustedes y yo aceptamos, por voluntad propia, el plan del Padre Celestial.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/o-how-great-the-plan-of-our-god?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/o-how-great-the-plan-of-our-god?lang=spa&id=p32-35#p32",
       },
       {
         tipo: "conclusion",
@@ -275,7 +275,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
           "«La Creación», Conferencia General, abril de 2000.",
         texto:
           "Testifico que la tierra y todo lo que vive en ella son de origen divino. La Creación no se hizo por casualidad, ni surgió de la nada. […] Dios nos hizo, y no nosotros a nosotros mismos. ¡Pueblo suyo somos! La Creación misma testifica de un Creador, y no podemos desairar el toque divino en la Creación, porque sin nuestra agradecida percepción de la mano de Dios en la Creación, estaríamos tan ajenos a nuestro proveedor como lo está un pez en una pecera.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2000/04/the-creation?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2000/04/the-creation?lang=spa&id=p22-22#p22",
       },
       {
         tipo: "conclusion",
@@ -341,7 +341,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
           "«El porqué de la senda de los convenios», Conferencia General, abril de 2021.",
         texto:
           "En el curso de la senda de los convenios (la cual, por cierto, se extiende más allá de la vida terrenal), recibimos todas las ordenanzas y convenios pertenecientes a la salvación y la exaltación. Nuestro compromiso integral por convenio es hacer la voluntad de Dios «y ser obedientes a sus mandamientos en todas las cosas que él nos mande».",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/54christofferson?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/54christofferson?lang=spa&id=p4-5#p4",
         // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 5 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 2), confirmada.
       },
       {
@@ -475,7 +475,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
           "«El amor de Dios», Conferencia General, octubre de 2021.",
         texto:
           "Nuestro Padre Celestial nos ama de una manera profunda y perfecta. […] Al igual que el Padre, Jesucristo también posee este mismo amor perfecto. […] Con la condición del arrepentimiento, el Señor puede extender misericordia sin robar a la justicia, y «Dios no cesa de ser Dios». […] Nuestra religión no es una religión de racionalización ni de perfeccionismo, sino una religión de redención, de redención por medio de Jesucristo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=spa&id=p1-11#p1",
         // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 7 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 2), confirmada.
       },
       {

@@ -57,7 +57,7 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
           "«Hosanna y aleluya — Jesucristo viviente: La esencia de la Restauración y de la Pascua de Resurrección», Conferencia General, abril de 2020.",
         texto:
           "Él vive, no solo en aquel entonces, sino ahora; no solo para algunos, sino para todos. Él vino y sigue viniendo a sanar a los quebrantados de corazón, liberar a los cautivos, dar vista a los ciegos y poner en libertad a los quebrantados. Esos somos cada uno de nosotros. Sus promesas de redención se cumplen, independientemente de nuestro pasado, nuestro presente o lo que pensemos de nuestro futuro.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/31gong?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/31gong?lang=spa&id=p4-4#p4",
         // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 8 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 2), confirmada.
       },
       {
@@ -123,8 +123,8 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
         fuente:
           "Primera Presidencia y el Cuórum de los Doce Apóstoles, 1 de enero de 2000.",
         texto:
-          "Testificamos solemnemente que Su vida, que es fundamental para toda la historia de la humanidad, no comenzó en Belén ni concluyó en el Calvario. Él fue el Primogénito del Padre, el Hijo Unigénito en la carne, el Redentor del mundo. Él llevó a cabo una expiación perfecta de los pecados de toda la humanidad, dando vida al principio de la resurrección.",
-        link: "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa",
+          "Testificamos solemnemente que Su vida, que es fundamental para toda la historia de la humanidad, no comenzó en Belén ni concluyó en el Calvario. Él fue el Primogénito del Padre, el Hijo Unigénito en la carne, el Redentor del mundo.",
+        link: "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa&id=p4-4#p4",
       },
       {
         tipo: "conclusion",
@@ -190,7 +190,7 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
           "«…Absorbida en la voluntad del Padre», Conferencia General, octubre de 1995, Liahona, enero de 1996.",
         texto:
           "La sumisión de nuestra voluntad es la única cosa exclusivamente personal que tenemos para colocar sobre el altar de Dios; todo lo demás que le «damos» es, en realidad, lo que Él nos ha dado o prestado a nosotros. Pero cuando nos sometemos dejando que nuestra voluntad sea absorbida en la voluntad de Dios, entonces, verdaderamente le estamos dando algo. ¡Es la sola posesión exclusivamente nuestra que podemos dar!",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/1995/10/swallowed-up-in-the-will-of-the-father?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1995/10/swallowed-up-in-the-will-of-the-father?lang=spa&id=p37-37#p37",
       },
       {
         tipo: "conclusion",
@@ -256,7 +256,7 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
           "«El porqué de la Iglesia», Conferencia General, octubre de 2015, Liahona, noviembre de 2015.",
         texto:
           "Es importante reconocer que el propósito primordial de Dios es nuestro progreso. Eso requiere más que simplemente ser amables o sentirse espirituales; requiere fe en Jesucristo, arrepentimiento, bautismo de agua y del Espíritu Santo, y perseverar con fe hasta el fin. No podemos lograr esto plenamente al estar aislados; de modo que una de las razones principales por las que el Señor ha creado una Iglesia es para crear una comunidad de santos que se apoyen uno al otro en el estrecho y angosto camino que conduce a la vida eterna.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/why-the-church?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/why-the-church?lang=spa&id=p7-7#p7",
       },
       {
         tipo: "conclusion",
@@ -322,7 +322,7 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
           "«Verdad pura, doctrina pura y revelación pura», Conferencia General, octubre de 2021.",
         texto:
           "Nunca ha habido una época en la historia del mundo en la que el conocimiento de nuestro Salvador fuera más vital y relevante en lo personal para toda alma humana. Imaginen lo rápido que se resolverían los devastadores conflictos de todo el mundo, y los de nuestra propia vida, si todos nosotros decidiéramos seguir a Jesucristo y prestar atención a Sus enseñanzas.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=spa&id=p5-5#p5",
       },
       {
         tipo: "conclusion",
@@ -388,7 +388,7 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
           "«Los amó hasta el fin», Liahona, septiembre de 2002.",
         texto:
           "Durante la cena, y en medio de esos pensamientos, Cristo se levantó lentamente, se ciñó el manto como lo habría hecho un esclavo o un siervo, se puso de rodillas para lavar los pies de los Apóstoles. Ese pequeño grupo de creyentes en ese nuevo reino iba muy pronto a enfrentarse a una de las pruebas más difíciles, de modo que Él hizo a un lado Su creciente angustia para servir y fortalecer, una vez más, a Sus discípulos.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2002/09/he-loved-them-unto-the-end?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2002/09/he-loved-them-unto-the-end?lang=spa&id=p6-6#p6",
         // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 13 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 3), confirmada.
       },
       {
@@ -455,7 +455,7 @@ export const leccionesResumidasR250_08_14: Lesson[] = [
           "«Él sana a los que están cargados», Conferencia General, octubre de 2006, Liahona, noviembre de 2006.",
         texto:
           "La expiación de Jesucristo y el remedio que brinda hacen mucho más que proporcionarnos la oportunidad de arrepentirnos de nuestros pecados. La Expiación también nos da la fortaleza para soportar dolores, aflicciones y tentaciones de todas clases, ya que nuestro Salvador también tomó sobre sí los dolores y las enfermedades de su pueblo. Si su fe, sus oraciones y el poder del sacerdocio no los sanan de las aflicciones, el poder de la Expiación con seguridad les dará la fortaleza para sobrellevar la carga.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2006/10/he-heals-the-heavy-laden?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2006/10/he-heals-the-heavy-laden?lang=spa&id=p42-42#p42",
       },
       {
         tipo: "conclusion",

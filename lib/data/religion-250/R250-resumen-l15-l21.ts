@@ -47,7 +47,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
           "«He aquí el Cordero de Dios», Conferencia General, abril de 2019, Liahona, mayo de 2019.",
         texto:
           "Nuestros servicios dominicales modificados son para dar prioridad a la Santa Cena del Señor como el centro de atención sagrado y reconocido de nuestra experiencia semanal de adoración. […] Alzando la vista desde la orilla […], Juan, a quien llamaban el Bautista, vio en la distancia a su primo, Jesús de Nazaret […]. Con reverencia, pero lo suficientemente audible para los que estaban cerca, Juan expresó la admiración que todavía nos conmueve dos mil años después: «He aquí el Cordero de Dios».",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2019/05/28holland?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2019/05/28holland?lang=spa&id=p12-20#p12",
       },
       {
         tipo: "enseñanza",
@@ -56,7 +56,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
           "«Para que siempre nos acordemos de Él», Liahona, junio de 2023.",
         texto:
           "Nuestra responsabilidad sagrada es desarrollar hábitos santos que inviten al Espíritu del Señor a estar con nosotros en todo momento, hábitos tales como honrar los convenios, obedecer los mandamientos, arrepentirnos, perdonar, escudriñar las Escrituras, servir, y adorar en el hogar, en la Iglesia y en el templo. Es importante destacar que la compañía del Espíritu Santo nos ayuda a recordar siempre a Jesucristo: Su sacrificio, Su evangelio, Sus promesas para nosotros, Su amor por nosotros, y los convenios que nos atan en un yugo a Él y junto con Él.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2023/06/04-that-we-may-always-remember-him?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2023/06/04-that-we-may-always-remember-him?lang=spa&id=p14-17#p14",
       },
       {
         tipo: "conclusion",
@@ -122,7 +122,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
           "«Nadie estuvo con Él», Conferencia General, abril de 2009.",
         texto:
           "Para que Su expiación fuese infinita y eterna, Él tenía que sentir lo que era morir no sólo física sino espiritualmente, sentir lo que era el alejamiento del Espíritu divino, al dejar que la persona se sintiera total, vil y completamente sola. […] La verdad que se pregonó desde la cima del Calvario es que nunca estaremos solos ni sin ayuda, aunque a veces pensemos que lo estamos.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2009/04/none-were-with-him?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2009/04/none-were-with-him?lang=spa&id=p15-17#p15",
       },
       {
         tipo: "conclusion",
@@ -188,7 +188,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
           "Primera Presidencia y el Cuórum de los Doce Apóstoles, 1 de enero de 2000.",
         texto:
           "Se levantó del sepulcro para ser las «primicias de los que durmieron» (1 Corintios 15:20). Como el Señor Resucitado, anduvo entre aquellos a los que había amado en vida. […] Testificamos que algún día Él regresará a la tierra. […] Todos nosotros compareceremos para ser juzgados por Él según nuestras obras y los deseos de nuestro corazón.",
-        link: "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa&id=p5-12#p5",
       },
       {
         tipo: "enseñanza",
@@ -197,7 +197,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
           "«La resurrección de Jesucristo», Conferencia General, abril de 2014, Liahona, mayo de 2014.",
         texto:
           "Consideren por un momento la importancia que tiene la Resurrección para aclarar de una vez por todas la verdadera identidad de Jesús de Nazaret. […] Si Jesús realmente resucitó de forma literal, entonces forzosamente se concluye que Él es un personaje divino. Ningún ser mortal tiene el poder en sí mismo para volver a la vida después de morir. Debido a que Él resucitó, Jesús tiene que haber sido un Dios, aun el Hijo Unigénito del Padre. Por tanto, lo que Él enseñó es verdad, ya que Dios no puede mentir.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/the-resurrection-of-jesus-christ?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/the-resurrection-of-jesus-christ?lang=spa&id=p29-30#p29",
         // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 17 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 4), confirmada.
       },
       {
@@ -264,7 +264,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
           "«La Expiación y el trayecto de la vida terrenal», Liahona, abril de 2012.",
         texto:
           "Sospecho que muchos miembros de la Iglesia están mucho más familiarizados con la naturaleza del poder redentor y purificador de la Expiación que con su poder fortalecedor y habilitador. La gracia salvadora nos limpia; la gracia habilitadora nos capacita para hacer y llegar a ser cosas que por sí solos no podríamos hacer ni llegar a ser. Verdaderamente, debemos llegar a confiar en «los méritos, y misericordia, y gracia del Santo Mesías».",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2012/04/the-atonement-and-the-journey-of-mortality?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2012/04/the-atonement-and-the-journey-of-mortality?lang=spa&id=p8-11#p8",
       },
       {
         tipo: "conclusion",
@@ -330,7 +330,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
           "«La redención de los muertos y el testimonio de Jesús», Conferencia General, octubre de 2000, Liahona, enero de 2001.",
         texto:
           "Nuestro deber se extiende tan lejos y tan profundamente como el amor de Dios para abarcar a Sus hijos de toda época y de todo lugar. Nuestras labores en beneficio de los muertos dan elocuente testimonio de que Jesucristo es el divino Redentor de todo el género humano. Su gracia y Sus promesas llegan incluso a los que en vida no lo hallan.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2000/10/the-redemption-of-the-dead-and-the-testimony-of-jesus?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2000/10/the-redemption-of-the-dead-and-the-testimony-of-jesus?lang=spa&id=p31-31#p31",
         // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 19 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 5), confirmada.
       },
       {
@@ -397,7 +397,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
           "«Nuestro Buen Pastor», Conferencia General, abril de 2017.",
         texto:
           "Testifico que Jesucristo es nuestro Buen Pastor, que nos ama y se preocupa por nosotros. Él nos conoce y dio Su vida por Sus ovejas. También vive para nosotros y quiere que lo conozcamos y ejerzamos fe en Él.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/our-good-shepherd?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/our-good-shepherd?lang=spa&id=p32-32#p32",
       },
       {
         tipo: "conclusion",
@@ -463,7 +463,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
           "«Escúchalo», Conferencia General, abril de 2020, Liahona, mayo de 2020.",
         texto:
           "En esa palabra «Escúchalo», Dios nos da el patrón o modelo para tener éxito, felicidad y gozo en esta vida. Podemos acudir a las Escrituras […]. Al deleitarnos diariamente en las palabras de Cristo, las palabras de Cristo nos dirán cómo responder a dificultades que jamás pensamos que íbamos a enfrentar. También podemos escucharlo con mayor claridad si refinamos nuestra capacidad de reconocer los susurros del Espíritu Santo […]. Lo escuchamos a Él al dar oído a las palabras de los profetas, videntes y reveladores.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa&id=p21-31#p21",
         // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 21 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 5), confirmada.
       },
       {
@@ -473,7 +473,7 @@ export const leccionesResumidasR250_15_21: Lesson[] = [
           "«La capacidad espiritual», Conferencia General, octubre de 2019, Liahona, noviembre de 2019.",
         texto:
           "Tengan la intención de apartar tiempo y espacio para escuchar la voz de Dios. Conforme usen su albedrío para dedicar tiempo todos los días para acercarse a la voz de Dios, sobre todo en el Libro de Mormón, con el tiempo, Su voz les parecerá más clara y familiar. […] Actúen sin demora. Cuando reciben mensajes y luego actúan con propósito, el Señor puede valerse de ustedes. Cuanto más actúen, más familiar se vuelve la voz del Espíritu.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/10/15craig?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/10/15craig?lang=spa&id=p4-9#p4",
         // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 21; el archivo original citaba a Quentin L. Cook, quien no aparece en este manual.
       },
       {
