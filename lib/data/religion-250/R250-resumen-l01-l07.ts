@@ -56,17 +56,19 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Kim B. Clark",
         fuente:
-          "«Aprended de Mí», Discurso dirigido a los instructores de religión del SEI, 26 de enero de 2018, Tabernáculo de Salt Lake. churchofjesuschrist.org/study/broadcasts/an-evening-with-the-general-authorities/2018/01/learn-of-me",
+          "«Aprended de Mí», discurso dirigido a los instructores de religión del SEI, 26 de enero de 2018, Tabernáculo de Salt Lake.",
         texto:
           "La invitación del Salvador, «aprende de mí», tiene dos significados relacionados que corresponden a la hermosa manera del Señor de aprender profundamente. El primer significado es: Aprende a conocerme. Conocerlo es nacer espiritualmente de Él, experimentar un cambio de corazón y llegar a ser Sus hijos e hijas. El segundo significado es: Aprende de mí. Al sumergirnos en las Escrituras, aprendemos de Su ejemplo perfecto. Él promete magnificar nuestra capacidad de actuar justamente y ayudarnos a llegar a ser más como Él.",
+        link: "https://www.churchofjesuschrist.org/study/broadcasts/an-evening-with-the-general-authorities/2018/01/learn-of-me?lang=spa&id=p14-18#p14",
       },
       {
         tipo: "enseñanza",
         autor: "Élder David A. Bednar",
         fuente:
-          "«Unidos al Salvador mediante convenios», Para la Fortaleza de la Juventud, febrero de 2022, págs. 2–5. churchofjesuschrist.org/study/ftsoy/2022/02/02-bound-to-the-savior-through-covenants",
+          "«Unidos al Salvador mediante convenios», Para la Fortaleza de la Juventud, febrero de 2022.",
         texto:
-          "El Salvador dijo: «Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar. Llevad mi yugo sobre vosotros y aprended de mí». Un yugo es una viga de madera que generalmente se coloca entre un par de animales para que puedan moverse juntos y llevar a cabo una tarea. El concertar convenios sagrados y guardarlos nos ha uncido al Salvador, lo que significa que tenemos acceso a Su fortaleza y poder redentor.",
+          "Un yugo es una viga de madera que generalmente se coloca entre un par de bueyes u otros animales, y que les permite tirar de una carga juntos. El yugo hace que los animales se coloquen lado a lado, a fin de que puedan moverse juntos para llevar a cabo una tarea. El concertar convenios sagrados y guardarlos nos hace llevar un yugo que nos une al Salvador. Eso significa que confiamos en Él, dependemos de Él y tiramos de nuestra carga con Él durante el trayecto de la vida.",
+        link: "https://www.churchofjesuschrist.org/study/ftsoy/2022/02/02-bound-to-the-savior-through-covenants?lang=spa&id=p16-17#p16",
       },
       {
         tipo: "conclusion",
@@ -129,17 +131,19 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente:
-          "«Cómo obtener el poder de Jesucristo en nuestra vida», Liahona, mayo de 2017, pág. 40. churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives",
+          "«Cómo obtener el poder de Jesucristo en nuestra vida», Conferencia General, abril de 2017, Liahona, mayo de 2017, pág. 40.",
         texto:
-          "Muchos miembros han memorizado las verdades que contiene «El Cristo Viviente»; otros apenas saben que existe. A medida que procuran aprender más acerca de Jesucristo, los insto a estudiar «El Cristo Viviente». Al mismo tiempo que estudiamos Sus atributos divinos, podemos empeñarnos en incorporarlos a nuestra vida.",
+          "Muchos miembros han memorizado las verdades que contiene «El Cristo Viviente»; otros apenas saben que existe. A medida que procuran aprender más acerca de Jesucristo, los insto a estudiar «El Cristo Viviente».",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&id=p16-16#p16",
       },
       {
         tipo: "enseñanza",
         autor: "Élder Neil L. Andersen",
         fuente:
-          "«Hablamos de Cristo», Liahona, noviembre de 2020, pág. 88. churchofjesuschrist.org/study/general-conference/2020/10/45andersen",
+          "«Hablamos de Cristo», Conferencia General, octubre de 2020, Liahona, noviembre de 2020, pág. 88.",
         texto:
-          "A medida que el mundo hable menos de Jesucristo, hablemos nosotros más de Él. Conforme se manifieste nuestro verdadero carácter como discípulos Suyos, muchas personas a nuestro alrededor estarán preparadas para escuchar. Conforme compartamos la luz que hemos recibido de Él, Su luz y Su trascendente poder salvador brillarán sobre quienes estén dispuestos a abrir su corazón.",
+          "A medida que el mundo hable menos de Jesucristo, hablemos nosotros más de Él. Conforme se manifieste nuestro verdadero carácter como discípulos Suyos, muchas personas a nuestro alrededor estarán preparadas para escuchar. Al compartir la luz que hemos recibido de Él, Su luz y Su trascendente poder salvador alumbrará a los que estén dispuestos a abrir el corazón.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/45andersen?lang=spa&id=p23-23#p23",
       },
       {
         tipo: "conclusion",
@@ -202,9 +206,10 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Dieter F. Uchtdorf",
         fuente:
-          "«¡Oh cuán grande es el plan de nuestro Dios!», Liahona, noviembre de 2016, pág. 20. churchofjesuschrist.org/study/general-conference/2016/10/o-how-great-the-plan-of-our-god",
+          "«¡Oh cuán grande es el plan de nuestro Dios!», Conferencia General, octubre de 2016, Liahona, noviembre de 2016.",
         texto:
-          "Hace mucho tiempo, antes de que la Tierra en la cual vivimos comenzara a existir, Dios nuestro Padre estableció un plan. Ese plan ofreció la manera perfecta para que todos los hijos de Dios recibieran la inmortalidad y obtuvieran la vida eterna. En el corazón de ese plan estaba la promesa de que el Hijo Amado del Padre vendría a la tierra, viviría una vida perfecta y ofrecería Su propia vida para expiar los pecados de todos los que vivieran en la tierra.",
+          "Ustedes y yo participamos en el Gran Concilio donde nuestro amado Padre presentó Su plan para nosotros: que vendríamos a la tierra, recibiríamos cuerpos mortales, aprenderíamos a elegir entre el bien y el mal y progresaríamos en formas que de otra manera no sería posible. […] Por lo tanto, con fe en el sacrificio de Jesucristo, ustedes y yo aceptamos, por voluntad propia, el plan del Padre Celestial.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/o-how-great-the-plan-of-our-god?lang=spa&id=p32-35#p32",
       },
       {
         tipo: "conclusion",
@@ -265,11 +270,12 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
+        autor: "Élder Russell M. Nelson",
         fuente:
-          "«La Creación», Liahona, julio de 2000, pág. 102. churchofjesuschrist.org/study/general-conference/2000/04/the-creation",
+          "«La Creación», Conferencia General, abril de 2000.",
         texto:
-          "Contemplar las maravillas de la Creación me llena de reverencia y gratitud. El cuerpo humano es una de ellas. Cuando llevo a cabo una operación cardíaca y observo el milagro viviente que es el corazón humano, nunca he podido hacerlo sin sentir respeto y asombro por el Gran Creador. A medida que obtenemos comprensión de la creación de Dios, podemos, con reverencia y gratitud, adorar a Dios a quien le debemos nuestra existencia.",
+          "Testifico que la tierra y todo lo que vive en ella son de origen divino. La Creación no se hizo por casualidad, ni surgió de la nada. […] Dios nos hizo, y no nosotros a nosotros mismos. ¡Pueblo suyo somos! La Creación misma testifica de un Creador, y no podemos desairar el toque divino en la Creación, porque sin nuestra agradecida percepción de la mano de Dios en la Creación, estaríamos tan ajenos a nuestro proveedor como lo está un pez en una pecera.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2000/04/the-creation?lang=spa&id=p22-22#p22",
       },
       {
         tipo: "conclusion",
@@ -283,7 +289,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
           "¿Cómo cambia tu relación con la carrera que estás estudiando saber que el conocimiento que buscás es, en algún sentido, conocimiento sobre la obra de Jesucristo?",
           "Moisés 1:39 dice que la gloria de Dios es «llevar a cabo la inmortalidad y la vida eterna del hombre». ¿Por qué entonces creó un mundo físico con montañas, océanos y colores, en vez de llevarnos directamente a la vida eterna?",
           "¿Alguna vez sentiste tensión entre lo que aprendés en la universidad (ciencias, filosofía, historia) y tu fe? ¿Cómo reconciliás esas dos cosas?",
-          "El presidente Nelson dijo que cuanto más aprendió del cuerpo humano, más profunda se volvió su fe. ¿Qué área del conocimiento que estás explorando ahora podría profundizar tu fe si la mirás como obra del Creador?",
+          "El presidente Nelson dijo que sin reconocer la mano de Dios en la Creación estaríamos tan ajenos a nuestro Creador «como lo está un pez en una pecera». ¿Qué área del conocimiento que estás explorando ahora podría profundizar tu fe si la mirás como obra del Creador?",
           "DyC 59:18–20 dice que la Creación fue hecha «para agradar al ojo y alegrar el corazón». Juan 1:3 dice que todo fue creado por Cristo. ¿Qué dice ese paralelo sobre el carácter del Creador?",
         ],
       },
@@ -330,11 +336,13 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
+        autor: "Élder D. Todd Christofferson",
         fuente:
-          "«La senda del convenio del Señor», Liahona, noviembre de 2021, pág. 90. churchofjesuschrist.org/study/general-conference/2021/10/47nelson",
+          "«El porqué de la senda de los convenios», Conferencia General, abril de 2021.",
         texto:
-          "Cuando usted hace un convenio con Dios, se vincula a Él y se hace partícipe de Su poder. Cuanto más firmes sean sus convenios y más santos los templos que frecuente, mayor será su comprensión de los exaltados propósitos de Dios para usted. Concertar una relación por convenio con Dios nos une a Él de una manera que hace que todo en la vida sea más fácil. No quiero decir que los convenios hagan que la vida sea fácil, sino que llevar el yugo con el Salvador significa que tienen acceso a Su fortaleza y poder redentor.",
+          "En el curso de la senda de los convenios (la cual, por cierto, se extiende más allá de la vida terrenal), recibimos todas las ordenanzas y convenios pertenecientes a la salvación y la exaltación. Nuestro compromiso integral por convenio es hacer la voluntad de Dios «y ser obedientes a sus mandamientos en todas las cosas que él nos mande».",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/54christofferson?lang=spa&id=p4-5#p4",
+        // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 5 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 2), confirmada.
       },
       {
         tipo: "conclusion",
@@ -346,7 +354,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
         preguntas: [
           "¿Qué convenios has hecho con el Señor hasta ahora? ¿Los recordás conscientemente en tu vida diaria, o los dás un poco por sentado?",
           "Gálatas 3:29 dice que al ser «de Cristo» sos «linaje de Abraham» y «heredero según la promesa». ¿Qué promesas específicas crees que eso incluye para tu vida?",
-          "El presidente Nelson dijo que los convenios no hacen la vida fácil, pero sí dan acceso a la fortaleza del Salvador. ¿En qué situación concreta de tu vida necesitás ahora mismo esa fortaleza?",
+          "El élder Christofferson enseñó que la senda de los convenios se extiende más allá de la vida terrenal, y que nuestro compromiso es hacer la voluntad de Dios en todo lo que Él nos mande. ¿En qué situación concreta de tu vida necesitás ahora mismo ese compromiso más firme?",
           "Moisés 7:18 describe a la Ciudad de Enoc como un pueblo de «un mismo corazón y una misma mente». ¿Qué tendría que cambiar en tu comunidad, en tu barrio o en tu familia de fe para acercarse a ese ideal?",
           "Si un amigo te preguntara «¿cuál es la diferencia entre ser buen cristiano en general y ser miembro de una Iglesia con convenios?», ¿qué le responderías específicamente sobre el valor de los convenios?",
           "DyC 84:33–38 vincula el sacerdocio a un «juramento y convenio», y Génesis 17:7 habla de un convenio «perpetuo» con Abraham. ¿Qué tiene en común la idea de «perpetuidad» en ambos pasajes, y qué dice eso sobre la naturaleza de los convenios de Dios?",
@@ -400,6 +408,8 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
           "The Promised Messiah: The First Coming of Christ, Deseret Book Company, 1978, pág. 28.",
         texto:
           "Todo el sistema de la ley mosaica estaba diseñado de tal manera que diera testimonio del Hijo de Dios y centrara la fe de los creyentes en Él y en la redención que Él fue preordenado a efectuar. En el tabernáculo y en el templo, en los sacerdotes y en los sacrificios, en las fiestas y en las ceremonias — en todo el aparato externo de la religión israelita — había tipos y sombras del ministerio y de la expiación del Mesías.",
+        link: "",
+        // link no verificado — fuente es un libro impreso (The Promised Messiah, Deseret Book, 1978), no disponible en churchofjesuschrist.org. Título, autor y editorial confirmados; cita y número de página no verificables en línea.
       },
       {
         tipo: "conclusion",
@@ -462,9 +472,11 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
         fuente:
-          "«La expiación de Jesucristo», Liahona, mayo de 2017, pág. 57. churchofjesuschrist.org/study/general-conference/2017/04/the-atonement-of-jesus-christ",
+          "«El amor de Dios», Conferencia General, octubre de 2021.",
         texto:
-          "La justicia es la ley moral del universo. Sin ella no habría responsabilidad, ni crecimiento, ni exaltación. La misericordia, habilitada por la Expiación, no viola la justicia — la satisface. Cristo no quitó las consecuencias; Él las pagó. Gracias a Él, nosotros podemos presentar «corazón quebrantado y espíritu contrito» y recibir ese pago en nuestro nombre, liberándonos de la carga de la transgresión.",
+          "Nuestro Padre Celestial nos ama de una manera profunda y perfecta. […] Al igual que el Padre, Jesucristo también posee este mismo amor perfecto. […] Con la condición del arrepentimiento, el Señor puede extender misericordia sin robar a la justicia, y «Dios no cesa de ser Dios». […] Nuestra religión no es una religión de racionalización ni de perfeccionismo, sino una religión de redención, de redención por medio de Jesucristo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=spa&id=p1-11#p1",
+        // Esta cita es la que efectivamente aparece en el manual oficial de la Lección 7 (Jesus Christ and His Everlasting Gospel Class Prep Material, unidad 2), confirmada.
       },
       {
         tipo: "conclusion",
@@ -476,7 +488,7 @@ export const leccionesResumidasR250_01_07: Lesson[] = [
         preguntas: [
           "¿Alguna vez sentiste el peso de la culpa y luego el alivio del arrepentimiento? Sin entrar en detalles, ¿qué aprendiste sobre la justicia y la misericordia de esa experiencia?",
           "Alma 42:13 dice que si no hubiera ley, tampoco habría justicia, ni misericordia, ni Dios. ¿Por qué la existencia de la justicia es un requisito previo para que la misericordia tenga sentido?",
-          "El élder Christofferson dice que «Cristo no quitó las consecuencias; Él las pagó». ¿Qué diferencia doctrinal y práctica hay entre esas dos ideas?",
+          "El élder Christofferson enseñó que, con la condición del arrepentimiento, el Señor puede extender misericordia sin robar a la justicia. ¿Qué diferencia hay entre pensar que Dios simplemente pasa por alto nuestros errores y entender que Su justicia y Su misericordia actúan juntas?",
           "2 Nefi 2:7 dice que los méritos de Cristo solo se aplican a «los de corazón quebrantado y espíritu contrito». ¿Qué crees que significa ese requisito en términos cotidianos — no teóricos, sino reales?",
           "Valentina cree que sus errores pasados son demasiado grandes para que la Expiación los cubra. Dice que «Dios me perdonará las cosas pequeñas, pero hay cosas que no tienen vuelta atrás». Según Alma 42 y 2 Nefi 2, ¿qué le dirías?",
           "Mosíah 15:9 dice que Cristo está a la diestra del Padre «reclamando misericordia» por los hijos de los hombres. Alma 42 dice que la misericordia «reclama al arrepentido». ¿Quién inicia la misericordia: el creyente que se arrepiente, o Cristo que intercede? ¿Qué dice eso sobre la relación entre tu esfuerzo y la gracia de Cristo?",

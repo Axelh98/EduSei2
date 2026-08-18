@@ -30,6 +30,7 @@ function findLessonData(categoryId: string, lessonId: string) {
         secciones:    lesson.secciones as Seccion[],
         categoryName: category.name,
         courseType:   category.courseType,
+        chapterUrl:   lesson.chapterUrl,
       }
     }
   }
@@ -52,6 +53,7 @@ function findLessonData(categoryId: string, lessonId: string) {
         secciones:    r.secciones as Seccion[],
         categoryName: category?.name ?? categoryId,
         courseType:   category?.courseType ?? "seminario",
+        chapterUrl:   r.chapterUrl,
       }
     }
   }
@@ -102,6 +104,7 @@ export default async function StudyPage({ params, searchParams }: StudyPageProps
       secciones={secciones}
       courseType={lessonData.courseType as "seminario" | "instituto"}
       recoveryData={recoveryData}
+      chapterUrl={lessonData.chapterUrl}
     />
   )
 }

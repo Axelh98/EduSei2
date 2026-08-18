@@ -360,8 +360,7 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         fuente: "\"Buscar conocimiento por la fe\", Liahona, septiembre de 2007, pág. 61–62",
         texto:
           "El apóstol Pablo definió la fe como \"la certeza de lo que se espera [y] la convicción de lo que no se ve\" (Hebreos 11:1). Alma declaró que la fe no es un conocimiento perfecto, sino una \"esperanza en cosas que no se ven, y que son verdaderas\" (Alma 32:21). Estas enseñanzas resaltan tres componentes básicos de la fe: (1) la fe es la certeza de cosas que se esperan y que son verdaderas, (2) es la convicción de lo que no se ve y (3) es el principio de acción en todos los seres inteligentes.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2007/09/seek-learning-by-faith?lang=spa",
-        // ⚠️ Título corregido ("Buscar el aprendizaje por la fe" → "Buscar conocimiento por la fe", título oficial). Link corregido: para el español la revista es "Liahona", no "Ensign" (Ensign es la edición en inglés). Cita ajustada a la redacción textual.
+        link: "https://www.churchofjesuschrist.org/study/liahona/2007/09/seek-learning-by-faith?lang=spa&id=p6#p6",
       },
       {
         tipo: "conclusion",
@@ -874,7 +873,7 @@ export const leccionesResumidasAT_11_15: Lesson[] = [
         fuente: "\"Redención\", Liahona, mayo de 2013, pág. 109",
         texto:
           "Entre los títulos descriptivos más significativos de Jesucristo está el de Redentor. ... La palabra redimir significa pagar una obligación o una deuda. Redimir también puede significar rescatar o poner en libertad.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/redemption?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/redemption?lang=spa&id=p4#p4",
       },
       {
         tipo: "conclusion",

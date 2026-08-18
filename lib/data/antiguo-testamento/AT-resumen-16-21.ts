@@ -529,85 +529,1093 @@ export const leccionesResumidasAT_16_21: Lesson[] = [
     },
   ],
 },
-  {
+   {
     id: "leccion-81",
     title: "Lección 81: 1 Reyes 17",
     type: "Antiguo Testamento - Ven Sigueme",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/26-1-kings-12-22/261-1-kings-17?lang=spa",
+    description:
+      "Elías el Profeta le pide a una viuda de Sarepta que confíe en la palabra del Señor con lo poco que le queda. Su historia invita a actuar con fe en el Padre Celestial y en Jesucristo al seguir las palabras de los profetas.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/26-1-kings-12-22/261-1-kings-17?lang=spa",
     questions: [],
-    secciones: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Israel atravesaba una sequía severa por la maldad del rey Acab. En medio de esa crisis, el Señor envió a Elías el Profeta a Sarepta, una ciudad fuera de Israel, con instrucciones sorprendentes: pedirle comida a una viuda que apenas tenía para ella y su hijo. Cuando Elías llegó, la mujer estaba juntando leña para preparar la última comida antes de morir de hambre. Aun así, Elías le pidió que primero le hiciera una torta a él, y le prometió que la harina y el aceite no se acabarían mientras durara la sequía. Ella podría haberse negado; no tenía garantías, solo la palabra de un profeta que apenas conocía. Pero \"fue e hizo como le dijo Elías\", y el milagro se cumplió día tras día. Más adelante, cuando su hijo murió, Elías volvió a intervenir, y el niño revivió por el poder de Dios. Esta viuda no tenía mucho que ofrecer, pero entregó lo que tenía sin reservas, y eso fue suficiente para que el Señor obrara. A los jóvenes de hoy también se les pide confiar antes de ver resultados: escuchar el consejo de un profeta viviente sobre las redes sociales, la pureza o el uso del tiempo, sin tener pruebas anticipadas de que va a funcionar. La fe de la viuda no fue ciega; fue una decisión de actuar primero y comprobar después. Esa es la misma fe que se necesita para seguir a los profetas de Dios hoy, incluso cuando el consejo parece pedir más de lo que uno cree tener para dar.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "1 Reyes 17:12",
+            texto:
+              "Y ella respondió: Vive Jehová, Dios tuyo, que no tengo pan cocido; solamente un puñado de harina tengo en la tinaja y un poco de aceite en una vasija; y he aquí que ahora recogía dos leños para entrar y prepararlo para mí y para mi hijo, para que lo comamos y nos muramos.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/17?lang=spa&id=p12#p12",
+          },
+          {
+            referencia: "1 Reyes 17:14–16",
+            texto:
+              "Porque así ha dicho Jehová, Dios de Israel: La harina de la tinaja no escaseará, ni el aceite de la vasija disminuirá, hasta el día en que Jehová mande lluvia sobre la faz de la tierra. Entonces ella fue e hizo como le dijo Elías; y comieron él, y ella y su casa durante muchos días. Y la harina de la tinaja no escaseó, ni el aceite de la vasija menguó, conforme a la palabra que Jehová había dicho por medio de Elías.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/17?lang=spa&id=p14-p16#p14",
+          },
+          {
+            referencia: "1 Reyes 17:21–22",
+            texto:
+              "Y se tendió sobre el niño tres veces, y clamó a Jehová y dijo: Oh Jehová, Dios mío, te ruego que hagas volver el alma a este niño. Y Jehová oyó la voz de Elías, y el alma volvió al niño y este revivió.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/17?lang=spa&id=p21-p22#p21",
+          },
+          {
+            referencia: "1 Reyes 17:24",
+            texto:
+              "Entonces la mujer dijo a Elías: Ahora en esto reconozco que tú eres varón de Dios y que la palabra de Jehová es verdad en tu boca.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/17?lang=spa&id=p24#p24",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Randall K. Bennett",
+        fuente: "Devocional de la Universidad Brigham Young, 19 de marzo de 2019",
+        texto:
+          "Les prometo que si actúan con fe en su Padre Celestial y Su plan —Su gran plan de felicidad— y si actúan con fe en Jesucristo y Su Expiación, y siguen a los profetas de Dios, recibirán poder para hacer lo que el Señor necesite que hagan y para convertirse en lo que Él necesite que se conviertan, a pesar de sus circunstancias.",
+        link: "https://speeches.byu.edu/talks/randall-k-bennett/prophetic-invitations-and-promised-blessings",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Devocional mundial para los jóvenes adultos, 10 de enero de 2016",
+        texto:
+          "Dios siempre ha pedido a Sus hijos del convenio que efectúen cosas difíciles. Puesto que ustedes son hijos e hijas de Dios que cumplen convenios y que viven en la postrera parte de los últimos días, el Señor les pedirá a ustedes que hagan cosas difíciles... Se les pedirá que acepten asignaciones difíciles y que lleguen a ser un instrumento en las manos del Señor; y Él los facultará a ustedes para lograr lo imposible.",
+        link: "https://www.churchofjesuschrist.org/study/broadcasts/article/worldwide-devotionals/2016/01/becoming-true-millennials?lang=spa&id=p26,p33#p26",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "La fe de la viuda de Sarepta no dependía de tener certezas antes de actuar. Ella entregó lo poco que le quedaba confiando en la palabra de un profeta, y el Señor cumplió lo que prometió, día tras día. Esa es la misma invitación que recibimos hoy: escuchar la voz del profeta viviente y actuar aunque el camino no esté completamente claro. No se trata de tener fe en el mensajero, sino en Aquel que habla por medio de él, Jesucristo. Cuando decidimos confiar y obedecer antes de ver el resultado completo, abrimos espacio para que Dios haga lo que solo Él puede hacer. Esta semana, elegí una invitación reciente del profeta y ponela en práctica, aunque no tengas todas las respuestas.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Con qué personaje de este relato te identificás más: con Elías, que debía confiar en que Dios proveería, o con la viuda, que debía confiar en la palabra de un profeta? ¿Por qué?",
+          "Si hubieras estado en el lugar de la viuda, con solo un puñado de harina y un poco de aceite, ¿qué habría sido lo más difícil de obedecer el pedido de Elías?",
+          "¿Alguna vez seguiste un consejo del profeta o de un líder de la Iglesia sin tener la certeza de que iba a funcionar? ¿Qué pasó?",
+          "¿Qué te ayuda a confiar en que las palabras del profeta actual vienen realmente del Señor?",
+          "¿Qué invitación reciente del profeta o de un Apóstol podrías poner en práctica esta semana, aunque te cueste?",
+          "¿A quién podrías contarle esta semana algo que hayas decidido hacer por seguir el consejo de un profeta?",
+        ],
+      },
+    ],
+  },
+  {
+    id: "leccion-82",
+    title: "Lección 82: 1 Reyes 18",
+    type: "Antiguo Testamento - Ven Sigueme",
+    description:
+      "Elías el Profeta desafía a los profetas de Baal en el monte Carmelo para probar si Baal o Jehová es el Dios verdadero. La lección invita a los alumnos a sentir un mayor deseo de seguir completamente al Señor.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/26-1-kings-12-22/262-1-kings-18?lang=spa",
+    questions: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Habían pasado unos tres años desde que Elías el Profeta detuvo la lluvia sobre Israel como señal contra la idolatría, pero el pueblo seguía dividido entre dos religiones a la vez. Elías decidió terminar con la ambigüedad de una vez: reunió a todo Israel en el monte Carmelo junto con los cuatrocientos cincuenta profetas de Baal y les propuso una prueba definitiva. Cada bando prepararía un sacrificio sin encender fuego, e invocaría a su dios; el que respondiera con fuego del cielo, ese sería el Dios verdadero. Antes de empezar, Elías hizo una pregunta que atravesaba todas las excusas: ¿hasta cuándo van a titubear entre dos opiniones? Los profetas de Baal clamaron toda la mañana sin respuesta. Cuando le tocó el turno a Elías, hizo empapar el altar con agua tres veces, para que no quedara duda de que lo que iba a pasar no tenía explicación humana. Entonces oró, y el fuego de Jehová cayó y consumió todo, hasta el agua de la zanja. El pueblo, que había estado en silencio toda la prueba, cayó sobre su rostro y gritó: ¡Jehová es Dios! El desafío de Elías no era realmente contra los sacerdotes de Baal; era contra la indecisión del pueblo, esa costumbre de querer un poco de las dos cosas sin comprometerse del todo con ninguna. Es fácil pensar que uno ya eligió a quién sigue, hasta que aparece una situación concreta —qué mirar, qué decir, a quién imitar— donde en realidad se está caminando con un pie en cada línea. La pregunta de Elías sigue siendo la misma hoy: no cuánto sabés sobre Dios, sino a quién estás dispuesto a seguir de verdad.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "1 Reyes 18:21",
+            texto:
+              "Y acercándose Elías a todo el pueblo, dijo: ¿Hasta cuándo claudicaréis vosotros entre dos opiniones? Si Jehová es Dios, seguidle; y si Baal, seguidle a él. Y el pueblo no respondió palabra.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/18?lang=spa&id=p21#p21",
+          },
+          {
+            referencia: "1 Reyes 18:24",
+            texto:
+              "Invocad luego vosotros el nombre de vuestros dioses, y yo invocaré el nombre de Jehová; y el Dios que responda por medio del fuego, ese es Dios. Y todo el pueblo respondió, diciendo: Bien dicho.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/18?lang=spa&id=p24#p24",
+          },
+          {
+            referencia: "1 Reyes 18:38–39",
+            texto:
+              "Entonces cayó fuego de Jehová, el cual consumió el sacrificio, y la leña, y las piedras, y el polvo, y aun lamió el agua que estaba en la zanja. Y viéndolo todo el pueblo, cayeron sobre sus rostros y dijeron: ¡Jehová es Dios! ¡Jehová es Dios!",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/18?lang=spa&id=p38-p39#p38",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "Liahona, noviembre de 2018",
+        texto:
+          "Hoy en día, Elías el Profeta podría decir: Nuestro Padre Celestial, o existe o no existe, pero si existe, adórenlo. Jesucristo, o es el Hijo de Dios y el Redentor resucitado de la humanidad o no lo es, pero si lo es, síganlo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/firm-and-steadfast-in-the-faith-of-christ?lang=spa&id=p9-p11#p9",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder David P. Homer",
+        fuente: "Liahona, mayo de 2019",
+        texto:
+          "Vivimos en un mundo en el que hay muchas voces que buscan nuestra atención... Lo popular no siempre es lo mejor. Quedarse indeciso entre dos opiniones no ofrece ninguna dirección. La conveniencia pocas veces nos conduce a las cosas que importan.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/27homer?lang=spa&id=p3-p4,p16#p3",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Elías no le pidió al pueblo que entendiera todo sobre Dios antes de seguirlo; le pidió que dejara de caminar con un pie en cada línea. La prueba en el monte Carmelo mostró con claridad quién era el Dios verdadero, pero el verdadero desafío seguía siendo el mismo de siempre: decidirse. Vos también tenés tus propias versiones del monte Carmelo, momentos donde queda claro a quién seguís de verdad: lo que mirás cuando nadie más ve, lo que defendés cuando cuesta, a quién imitás cuando tenés que elegir rápido. Esta semana, elegí una de esas situaciones y actuá como alguien que ya decidió, sin titubear entre dos opiniones.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Con qué parte del pueblo de Israel te identificás más: con los que dudaban entre Baal y Jehová, o con Elías que exigió una decisión clara?",
+          "Si tuvieras que explicar con tus propias palabras qué significa 'claudicar entre dos opiniones', ¿qué ejemplo darías de la vida de un adolescente hoy?",
+          "¿Alguna vez sentiste que estabas tratando de seguir dos caminos distintos al mismo tiempo? ¿Qué pasó?",
+          "¿Qué voces compiten hoy por tu atención y podrían alejarte de seguir al Padre Celestial y a Jesucristo?",
+          "¿En qué área concreta de tu vida vas a dejar de 'caminar por las dos líneas' esta semana?",
+          "¿A quién le podrías contar tu decisión de seguir completamente al Padre Celestial y a Jesucristo, para que te ayude a mantenerte firme?",
+        ],
+      },
+    ],
   },
   {
     id: "leccion-204",
     title: "Lección 204: Participar en la obra del templo y de historia familiar",
     type: "Especial",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/694-participating-in-temple-and-family-history?lang=spa",
+    description:
+      "A partir de la profecía de Abdías y del ejemplo de los rescatadores de las compañías de carros de mano, esta lección invita a fijarse una meta concreta de participar en la obra del templo y de historia familiar.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/69-temple-preparation/694-participating-in-temple-and-family-history?lang=spa",
     questions: [],
-    secciones: [],
+    // ⚠️ El campo `type` original ("Especial") no coincide con ninguna categoría estándar del manual;
+    // se aplicó el flujo estándar de 5 secciones con el tratamiento narrativo de "Ven Sígueme".
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "En 1856, miles de pioneros Santos de los Últimos Días cruzaban las llanuras hacia el valle del Lago Salado empujando carros de mano. Las compañías de Martin y Willie quedaron atrapadas por el invierno a cientos de kilómetros de su destino, sin comida ni fuerzas para seguir. Cuando parecía que todo estaba perdido, aparecieron los rescatadores enviados por Brigham Young, arriesgando su propia vida para traerlos a salvo. El profeta Abdías, siglos antes, había profetizado algo parecido sobre un pueblo distinto: dijo que \"subirán salvadores al monte Sion\", refiriéndose a una obra de rescate espiritual centrada en el templo. Nuestros antepasados fallecidos están en una situación parecida a la de esos pioneros varados: necesitan ordenanzas esenciales —el bautismo, el don del Espíritu Santo, la investidura— que ellos ya no pueden recibir por sí mismos. El Señor preparó una manera de rescatarlos: que nosotros efectuemos esas ordenanzas por ellos en el templo. No hace falta ser un experto en genealogía ni tener acceso constante a un templo para empezar. Para un joven de tu edad, esto puede comenzar con algo tan simple como abrir la aplicación de FamilySearch un rato y ver qué nombres aparecen ya conectados a tu familia, o preguntarle a un abuelo sobre su historia. Cada nombre encontrado, cada ordenanza reservada, es un paso hacia convertirte en \"salvador en el monte Sion\", tal como lo fueron aquellos rescatadores del invierno de 1856. Participar en esta obra nos acerca a Jesucristo, porque hacemos por otros algo que ellos no pueden hacer por sí mismos, del mismo modo en que Él lo hizo por nosotros.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Abdías 1:17",
+            texto:
+              "Mas en el monte Sion habrá salvamento, y será santo, y la casa de Jacob recuperará sus posesiones.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=spa&id=p17#p17",
+          },
+          {
+            referencia: "Abdías 1:21",
+            texto:
+              "Y subirán salvadores al monte Sion para juzgar al monte de Esaú; y el reino será de Jehová.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=spa&id=p21#p21",
+          },
+          {
+            referencia: "Doctrina y Convenios 128:15",
+            texto:
+              "Y ahora, mis muy queridos hermanos y hermanas, permítaseme aseguraros que estos son principios referentes a los muertos y a los vivos que no se pueden desatender, en lo que atañe a nuestra salvación. Porque su salvación es necesaria y esencial para la nuestra, como dice Pablo tocante a los padres: que ellos sin nosotros no pueden ser perfeccionados, ni tampoco podemos nosotros ser perfeccionados sin nuestros muertos.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128?lang=spa&id=p15#p15",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Gerrit W. Gong",
+        fuente: "Conferencia General, octubre de 2022",
+        texto:
+          "El Señor nos da la oportunidad divina de llegar a ser más como Él al actuar como representantes en las ordenanzas salvadoras del templo, que otras personas necesitan pero no pueden efectuar por sí mismas. Llegamos a ser más completos y perfeccionados al convertirnos en \"salvadores [en el] monte Sion\".",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/43gong?lang=spa&id=p24#p24",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, abril de 2018",
+        texto:
+          "Su adoración en el templo y el servicio que presten allí por sus antepasados los bendecirá con mayor revelación personal y paz, y los fortalecerá en su compromiso de mantenerse en la senda de los convenios.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2018/04/as-we-go-forward-together?lang=spa&id=p13#p13",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Así como los rescatadores de 1856 pusieron en riesgo su propia vida para traer a salvo a los pioneros varados, el Señor nos invita a nosotros a rescatar a quienes ya no pueden ayudarse a sí mismos. No se necesita ser un experto en genealogía; alcanza con un nombre, una historia familiar, un momento de disposición. Cada persona a la que ayudamos a recibir sus ordenanzas del templo se acerca un poco más al Padre Celestial, y nosotros también, porque llegamos a parecernos más a Jesucristo cada vez que actuamos como Sus representantes. Esta semana, dedicá aunque sea unos minutos a dar un paso concreto hacia esta obra.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Sabés el nombre de alguno de tus bisabuelos o tatarabuelos? ¿Qué sabés de su vida?",
+          "Si tuvieras que rescatar a alguien en peligro, como hicieron los rescatadores de las compañías de carros de mano, ¿qué estarías dispuesto a hacer?",
+          "¿Alguna vez sentiste una conexión especial con un antepasado, aunque nunca lo hayas conocido? ¿Qué pasó?",
+          "¿Por qué creés que el Señor quiere que participemos nosotros mismos en el rescate de nuestros antepasados, en lugar de hacerlo Él solo?",
+          "¿Qué paso concreto podrías dar esta semana para empezar a participar en la obra de historia familiar (por ejemplo, abrir FamilySearch o preguntarle a un familiar sobre su historia)?",
+          "¿A qué familiar le podrías pedir esta semana que te cuente algo sobre su vida o sobre un antepasado?",
+        ],
+      },
+    ],
+  },
+  {
+    id: "leccion-168",
+    title: "Lección 168: Tomar notas en las Escrituras",
+    type: "Preparación para la Vida",
+    description:
+      "Marcar, tomar notas y vincular versículos son técnicas que ayudan a los alumnos a interactuar más con las Escrituras y a sentirse más cerca del Padre Celestial y de Jesucristo.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/623-annotating-scriptures?lang=spa",
+    questions: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Un adolescente israelita del año 600 a. C. no tenía forma de tener su propio ejemplar de las Escrituras. Habría tenido que viajar a un lugar donde se guardaran los rollos, y depender de alguien que se los leyera en voz alta o los recitara de memoria. Vos, en cambio, tenés acceso instantáneo a toda la Biblia, el Libro de Mormón, Doctrina y Convenios y la Perla de Gran Precio, en tu idioma, en el teléfono o en un ejemplar físico propio. Esa facilidad puede hacer que se pierda algo importante: el valor de detenerse a interactuar con el texto, no solo leerlo. Tomar notas —marcar una frase, escribir al margen lo que pensaste, o vincular un versículo con otro que lo explica mejor— convierte la lectura pasiva en un diálogo real con las Escrituras. No se trata de tener un sistema perfecto de colores ni de marcar cada página; se trata de dejar un rastro visible de los momentos en que sentiste que un versículo te hablaba directamente a vos. Esa marca, esa nota al margen, se convierte con el tiempo en un mapa de tu propio crecimiento espiritual, algo que podés releer años después y recordar exactamente qué estabas viviendo cuando ese versículo cobró sentido.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Moisés 7:18",
+            texto:
+              "Y el Señor llamó Sion a su pueblo, porque eran uno en corazón y voluntad, y vivían en rectitud; y no había pobres entre ellos.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=spa&id=p18#p18",
+          },
+          {
+            referencia: "Doctrina y Convenios 97:21",
+            texto:
+              "Por tanto, de cierto, así dice el Señor: Regocíjese Sion, porque esta es Sion: los puros de corazón; por consiguiente, regocíjese Sion mientras se lamentan todos los inicuos.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa&id=p21#p21",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "Liahona, mayo de 2010",
+        texto:
+          "Consideren la magnitud de nuestra bendición de tener la Santa Biblia y unas 900 páginas adicionales de Escritura... Supongo que nunca en la historia se ha bendecido a un pueblo con tal cantidad de escritos sagrados, y no solo eso, sino que todo hombre, mujer y niño puede poseer y estudiar su propio ejemplar personal de estos textos sagrados, la mayoría en su propio idioma.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/04/the-blessing-of-scripture?lang=spa&id=p20#p20",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder David A. Bednar",
+        fuente: "Liahona, abril de 2006",
+        texto:
+          "El anotar lo que aprendamos, lo que pensemos y sintamos al estudiar las Escrituras es otra forma de meditar y una invitación poderosa que extendemos al Espíritu Santo para que continúe dándonos instrucción.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2006/04/because-we-have-them-before-our-eyes?lang=spa",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Tomar notas en las Escrituras no es una tarea escolar ni un sistema que hay que dominar a la perfección. Es una forma de decirle al Espíritu Santo que estás prestando atención, que ese pensamiento o esa impresión te importa lo suficiente como para dejarla escrita. Con el tiempo, esas marcas y esas notas se convierten en un registro personal de tu relación con el Padre Celestial y con Jesucristo, algo que ningún otro método de estudio te puede dar. Esta semana, elegí una sola técnica —marcar, escribir una nota, o vincular un versículo con otro— y probala en tu próximo momento de estudio personal.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Alguna vez marcaste un versículo que después, al releerlo, te hizo recordar exactamente lo que estabas viviendo ese día?",
+          "¿Cuál de las tres técnicas —marcar, tomar notas o vincular versículos— te resulta más natural, y cuál te cuesta más?",
+          "¿Qué diferencia notás entre leer un versículo rápido y detenerte a escribir algo sobre él?",
+          "¿Por qué creés que anotar tus pensamientos puede ser una forma de invitar al Espíritu Santo a tu estudio?",
+          "¿Qué técnica de anotación vas a probar en tu próximo estudio personal esta semana?",
+          "¿Con quién podrías compartir una nota o un versículo marcado que te haya ayudado a acercarte a Jesucristo?",
+        ],
+      },
+    ],
   },
   {
     id: "leccion-169",
     title: "Lección 169: Acciones que invitan al Espíritu Santo durante el estudio",
     type: "Preparación para la Vida",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/624-actions-that-invite-the-holy-ghost?lang=spa",
+    description:
+      "Los alumnos practican técnicas concretas —eliminar distracciones, orar y meditar— para invitar al Espíritu Santo a su estudio personal de las Escrituras.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/624-actions-that-invite-the-holy-ghost?lang=spa",
     questions: [],
-    secciones: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Todos tuvimos días en que abrimos las Escrituras casi por costumbre, sin prestar mucha atención, y otros días en que nos sentamos a estudiar con intención real. La diferencia entre esas dos experiencias no depende tanto de la suerte como de acciones concretas que podemos elegir. El manual de esta lección propone tres: eliminar las distracciones, orar antes de estudiar y detenerse a meditar lo que se lee. Ninguna de las tres es complicada. Eliminar distracciones puede ser tan simple como poner el teléfono en modo avión. Orar antes de estudiar puede ser una frase corta, pedirle al Padre Celestial que te ayude a entender lo que vas a leer. Meditar significa simplemente detenerte después de un versículo, en lugar de seguir leyendo automáticamente, y preguntarte qué significa y cómo se aplica a tu vida. El élder Gary E. Stevenson enseñó que los asuntos espirituales no se pueden forzar, pero sí se puede preparar el ambiente para que el Espíritu tenga lugar dónde enseñar. Es parecido a cultivar tierra para que una semilla crezca: no podés obligar a la semilla a germinar más rápido, pero sí podés regar la tierra, sacar las piedras y darle sol. El estudio de las Escrituras funciona de manera similar. No se trata de leer más rápido ni de leer más capítulos; se trata de crear las condiciones para que el Espíritu Santo pueda enseñarte algo mientras leés, aunque sea un solo versículo.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "2 Nefi 32:3",
+            texto:
+              "Los ángeles hablan por el poder del Espíritu Santo; por lo que declaran las palabras de Cristo. Por tanto, os dije: Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3",
+          },
+          {
+            referencia: "2 Nefi 32:5",
+            texto:
+              "Porque he aquí, os digo otra vez, que si entráis por la senda y recibís el Espíritu Santo, él os mostrará todas las cosas que debéis hacer.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p5#p5",
+          },
+          {
+            referencia: "Juan 14:26",
+            texto:
+              "Mas el Consolador, el Espíritu Santo, a quien el Padre enviará en mi nombre, él os enseñará todas las cosas, y os recordará todo lo que os he dicho.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa&id=p26#p26",
+          },
+          {
+            referencia: "Mateo 14:22–23",
+            texto:
+              "Y enseguida Jesús hizo a sus discípulos entrar en la barca e ir delante de él al otro lado del lago, entretanto que él despedía a la multitud. Y después de haber despedido a la multitud, subió al monte a orar aparte; y cuando llegó la noche, estaba allí solo.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/14?lang=spa&id=p22-p23#p22",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Gary E. Stevenson",
+        fuente: "Liahona, noviembre de 2023",
+        texto:
+          "Los asuntos espirituales no se pueden forzar. Ustedes pueden cultivar una actitud y un ambiente que inviten al Espíritu, y puede prepararse, pero no pueden dictar cómo ni cuándo llega la inspiración. Sean pacientes y confíen en que recibirán lo que necesite cuando llegue el momento adecuado.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/10/25stevenson?lang=spa&id=p26#p26",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "Liahona, mayo de 2004",
+        texto:
+          "A veces te imagino leyendo algunos versículos, deteniéndote a meditar en ellos, volviéndolos a leer con detenimiento y, al pensar en lo que significan, orando para recibir entendimiento, haciéndote preguntas en tu mente, esperando recibir impresiones espirituales y anotando las impresiones e ideas que recibas para recordarlas y aprender más. Al estudiar de este modo, tal vez no leas muchos capítulos o versículos en media hora, pero harás lugar en tu corazón a la palabra de Dios, y Él se dirigirá a ti.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2004/04/when-thou-art-converted?lang=spa&id=p8#p8",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Invitar al Espíritu Santo a tu estudio de las Escrituras no depende de leer más rápido ni de tener el ambiente perfecto todos los días; depende de decisiones pequeñas que sí están a tu alcance: apagar las notificaciones, decir una oración corta antes de empezar y detenerte a pensar en lo que leíste en lugar de pasar de largo. Ninguna de esas acciones garantiza sentir algo especial cada vez, pero juntas crean el espacio donde el Espíritu Santo puede enseñarte lo que necesitás en el momento en que lo necesitás. Esta semana, elegí una sola de estas acciones y probala de manera intencional en tu próximo estudio personal.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "En una escala del uno al diez, ¿qué tan fácil te resulta concentrarte cuando estudiás las Escrituras?",
+          "¿Qué distracciones concretas te cuesta más dejar de lado cuando te sentás a estudiar?",
+          "¿Alguna vez sentiste una diferencia clara entre un día que oraste antes de estudiar y un día que no lo hiciste? ¿Qué notaste?",
+          "¿Qué te pasa cuando te detenés a meditar en un versículo en lugar de solo leerlo rápido?",
+          "¿Qué acción concreta —modo avión, una oración específica, detenerte a meditar— vas a probar esta semana para invitar mejor al Espíritu Santo a tu estudio?",
+          "¿A qué hora y en qué lugar concreto vas a estudiar mañana para poner en práctica lo que aprendiste hoy?",
+        ],
+      },
+    ],
+  },
+  {
+    id: "leccion-170",
+    title: "Lección 170: Hacer Comparaciones",
+    type: "Preparación para la Vida",
+    description:
+      "Comparar relatos, ideas o personas de las Escrituras —como Jesucristo y Satanás en el concilio preterrenal— ayuda a los alumnos a reconocer verdades implícitas que una lectura rápida podría pasar por alto.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/62-scripture-study-skills/625-making-comparisons-to-identify-truths?lang=spa",
+    questions: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Comparar dos cosas parecidas, como la sal y el azúcar, ayuda a entender mejor cada una: por sí solas se ven casi iguales, pero puestas una al lado de la otra, la diferencia se vuelve obvia. Las Escrituras funcionan de un modo parecido. Un relato aislado puede parecer solo una historia más, pero cuando lo comparás con otro relato, otra persona o otra decisión, empiezan a aparecer verdades que de otro modo pasarían desapercibidas. El concilio en los cielos es un buen ejemplo: leído solo, el ofrecimiento de Satanás de salvar a todos podría sonar hasta generoso. Pero comparado con la respuesta de Jesucristo —\"hágase tu voluntad, y sea tuya la gloria\"—, la diferencia entre buscar el propio honor y someterse humildemente a Dios queda perfectamente clara. Hacer comparaciones no es buscar quién es \"mejor\" en una historia; es notar qué se repite, qué cambia, y qué te enseña esa diferencia. Podés comparar dos personajes que enfrentaron la misma prueba, dos decisiones del mismo rey en distintos momentos de su vida, o incluso dos versículos que dicen algo parecido con palabras distintas. Cuanto más practiques esta técnica, más vas a empezar a ver conexiones que antes se te escapaban, y esas conexiones suelen ser exactamente donde vive la verdad que necesitás en ese momento.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "Moisés 4:1–2",
+            texto:
+              "Y yo, Dios el Señor, le hablé a Moisés, diciendo: Ese Satanás... vino ante mí, diciendo: Heme aquí, envíame a mí. Seré tu hijo y redimiré a todo el género humano, de modo que no se perderá ni una sola alma, y de seguro lo haré; dame, pues, tu honra. Pero, he aquí, mi Hijo Amado, que fue mi Amado y mi Escogido desde el principio, me dijo: Padre, hágase tu voluntad, y sea tuya la gloria para siempre.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4?lang=spa&id=p1-p2#p1",
+          },
+          {
+            referencia: "Marcos 12:43–44",
+            texto:
+              "Entonces, llamando a sus discípulos, les dijo: De cierto os digo que esta viuda pobre echó más que todos los que han echado al arca, porque todos han echado de lo que les sobra; pero esta, de su pobreza echó todo lo que tenía, todo su sustento.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=spa&id=p43-p44#p43",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Richard G. Scott",
+        fuente: "Liahona, enero de 1994",
+        texto:
+          "Al procurar el conocimiento espiritual, busca los principios, separando el principio en sí de la explicación de este... Vale la pena que nos esforcemos por resumir las verdades que escuchemos en la sencilla declaración de un principio.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1993/10/acquiring-spiritual-knowledge?lang=spa&id=p9#p9",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder David A. Bednar",
+        fuente: "Liahona, abril de 2006",
+        texto:
+          "La combinación que abre la puerta de la caja fuerte que guarda los tesoros de las Escrituras incluye una gran cantidad de trabajo: trabajo simple, arduo y tradicional... Los tesoros de las Escrituras que buscamos en nuestra vida no se pueden tomar prestados ni tampoco se pueden adquirir de segunda mano.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2006/04/because-we-have-them-before-our-eyes?lang=spa",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Comparar la respuesta de Jesucristo con la de Satanás en el concilio preterrenal no cambia la historia, pero sí cambia lo que ves en ella: uno busca la gloria propia, el otro busca hacer la voluntad del Padre. Esa misma técnica sirve para cualquier parte de las Escrituras: poné dos relatos, dos personas o dos decisiones uno al lado del otro, y preguntate qué se repite y qué cambia. Ahí suele aparecer, casi sin esfuerzo, una verdad que una lectura rápida no te hubiera mostrado. Esta semana, elegí dos personajes o dos decisiones de tu estudio personal y compará qué te enseña esa diferencia.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Alguna vez comparaste dos personas de las Escrituras que enfrentaron la misma situación de forma distinta? ¿Qué aprendiste?",
+          "¿Qué diferencia te llama más la atención entre la respuesta de Satanás y la respuesta de Jesucristo en el concilio preterrenal?",
+          "¿Por qué creés que comparar dos relatos parecidos puede mostrar verdades que pasarías por alto leyendo cada uno por separado?",
+          "¿Qué dos personas, decisiones o relatos de las Escrituras te gustaría comparar en tu próximo estudio personal?",
+          "¿Qué principio vas a buscar la próxima vez que uses esta técnica de comparación en tu estudio de esta semana?",
+          "¿Con quién podrías compartir una comparación de las Escrituras que te haya ayudado a entender mejor una enseñanza de Jesucristo?",
+        ],
+      },
+    ],
+  },
+  {
+    id: "leccion-83",
+    title: "Lección 84: 2 Reyes 2-4",
+    type: "Antiguo Testamento - Ven Sigueme",
+    description:
+      "El Señor le da a Eliseo poder y autoridad después de llevarse a Elías el Profeta al cielo. Su relato ayuda a comprender que el Señor da autoridad a quienes Él llama y poder a quienes sirven con rectitud.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/271-2-kings-2-4?lang=spa",
+    questions: [],
+    // ⚠️ Nota: el título original dice "Lección 84", pero el id ("leccion-83") y el chapterUrl corresponden
+    // a 2 Reyes 2–4, que en el manual oficial es la Lección 83 (la Lección 84 es 2 Reyes 5). Se conservó el
+    // título tal como fue provisto por el usuario. También se corrigió el chapterUrl agregando "https://",
+    // ya que faltaba en el dato original.
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Eliseo sabía que el Señor pronto se llevaría a Elías el Profeta, y aun así eligió no separarse de él ni un solo día. Bet-el, Jericó, el río Jordán: en cada parada, Elías le insistía a Eliseo que se quedara, y en cada parada Eliseo respondía lo mismo: no te dejaré. Cuando finalmente llegaron al Jordán, Elías golpeó las aguas con su manto y ambos cruzaron por tierra seca. Del otro lado, Elías le hizo a Eliseo una última pregunta: pedí lo que quieras que haga por vos. Eliseo pidió una doble porción del espíritu de su maestro, un pedido enorme para alguien que se preparaba para asumir un llamamiento que no había elegido y que probablemente le daba miedo. Entonces un carro de fuego separó a los dos, y Elías fue llevado al cielo en un torbellino. Eliseo tomó el manto que había caído y golpeó las aguas del Jordán tal como lo había visto hacer a Elías. Las aguas se abrieron de nuevo, y los demás profetas que observaban desde la orilla reconocieron de inmediato: el espíritu de Elías reposa sobre Eliseo. El manto en sí no tenía ningún poder mágico; representaba la autoridad que Dios le había dado a Eliseo cuando lo llamó a servir. Lo mismo pasa hoy con cualquier llamamiento en la Iglesia: la autoridad viene de Dios en el momento en que alguien es apartado, pero el poder para cumplir ese llamamiento se recibe después, a medida que la persona se esfuerza por vivir con rectitud. Nadie está solo cuando acepta servir donde Dios lo llama, aunque al principio sienta que le falta preparación.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "2 Reyes 2:9–10",
+            texto:
+              "Y aconteció que cuando hubieron pasado, Elías dijo a Eliseo: Pide lo que quieras que haga por ti, antes que yo sea quitado de ti. Y dijo Eliseo: Te ruego que una doble porción de tu espíritu sea sobre mí. Y él le dijo: Cosa difícil has pedido. Si me ves cuando sea quitado de ti, te será concedido; pero si no, no.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/2?lang=spa&id=p9-p10#p9",
+          },
+          {
+            referencia: "2 Reyes 2:13–14",
+            texto:
+              "Alzó luego el manto de Elías que se le había caído, y regresó y se paró a la orilla del Jordán. Y tomó el manto de Elías que se le había caído, y golpeó las aguas y dijo: ¿Dónde está Jehová, el Dios de Elías? Y cuando también hubo golpeado las aguas, estas se apartaron a uno y a otro lado, y Eliseo pasó.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/2?lang=spa&id=p13-p14#p13",
+          },
+          {
+            referencia: "2 Reyes 2:15",
+            texto:
+              "Y cuando le vieron los hijos de los profetas que estaban al otro lado, en Jericó, dijeron: El espíritu de Elías reposa sobre Eliseo. Y fueron a recibirle y se postraron en tierra ante él.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/2?lang=spa&id=p15#p15",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Henry B. Eyring",
+        fuente: "Liahona, noviembre de 2002",
+        texto:
+          "El Señor magnificará lo que usted diga y haga a los ojos de la gente a la que preste servicio... Sus palabras y hechos portarán esperanza y brindarán dirección a la gente más allá de su capacidad natural y de su propio entendimiento. Ese milagro ha sido la marca distintiva de la Iglesia del Señor en cada dispensación.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2002/10/rise-to-your-call?lang=spa&id=p18#p18",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Dallin H. Oaks",
+        fuente: "Liahona, noviembre de 2023",
+        texto:
+          "La autoridad sobre la que ustedes preguntan es la autoridad que Jesús dio a Pedro, de que todo lo que hiciera en la tierra se honrara en el cielo. Y debido a que esa autoridad divina debe poder trazarse hasta los apóstoles, solo existe en La Iglesia de Jesucristo de los Santos de los Últimos Días.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2023/10/04-the-sure-witness-of-modern-prophets?lang=spa&id=p2-p5#p2",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Eliseo no recibió el manto de Elías porque se sintiera preparado; lo recibió porque decidió quedarse hasta el final, sin apartarse ni un solo paso del camino que Dios le había señalado. El poder para cumplir con un llamamiento casi nunca llega antes de aceptar el llamamiento; llega después, a medida que la persona se esfuerza por servir con fe. Si en algún momento sentís que no estás a la altura de una responsabilidad que Dios o Su Iglesia te pidieron asumir, la historia de Eliseo es una promesa: la autoridad ya te fue dada, y el poder viene mientras seguís caminando.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Con qué personaje te identificás más: con Elías, que debía dejar su llamamiento, o con Eliseo, que debía asumir uno nuevo?",
+          "Si supieras que en poco tiempo vas a recibir una responsabilidad importante, ¿qué harías para prepararte, como hizo Eliseo al no separarse de Elías?",
+          "¿Alguna vez aceptaste un llamamiento o una responsabilidad sintiendo que no estabas del todo preparado? ¿Qué pasó después?",
+          "¿Por qué creés que Eliseo pidió una 'doble porción' del espíritu de Elías en lugar de pedir otra cosa?",
+          "¿Qué llamamiento o responsabilidad actual sentís que podrías cumplir mejor si confiaras más en que Dios te va a dar el poder para hacerlo?",
+          "¿A quién de tu barrio o rama podrías animar esta semana en su propio llamamiento, recordándole que Dios respalda a quienes Él llama?",
+        ],
+      },
+    ],
   },
   {
     id: "leccion-84",
     title: "Lección 84: 2 Reyes 5",
     type: "Antiguo Testamento - Ven Sigueme",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/272-2-kings-5?lang=spa",
+    description:
+      "El relato de Naamán y su sanación en el río Jordán muestra que la obediencia a las cosas pequeñas y sencillas que el Señor pide trae grandes bendiciones.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/272-2-kings-5?lang=spa",
     questions: [],
-    secciones: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Naamán era un general del ejército sirio, valiente y respetado, pero tenía lepra. Una joven israelita cautiva, esclava de su esposa, le habló de un profeta en Samaria que podía sanarlo. Naamán viajó con oro, plata y una carta del rey, esperando un tratamiento a la altura de su rango. Cuando llegó a la casa de Eliseo, el profeta ni siquiera salió a recibirlo: le mandó un mensaje simple, lávate siete veces en el Jordán. Naamán se enojó. Esperaba un gesto dramático, no una instrucción tan ordinaria, y estuvo a punto de irse, hasta que sus propios criados le hicieron una pregunta sencilla: si el profeta te hubiera pedido algo grande, ¿no lo habrías hecho? ¿Por qué no esta cosa pequeña? Naamán cedió, se sumergió siete veces, y salió limpio, con la piel como la de un niño. Su sanación no llegó por un discurso elaborado, sino por la obediencia a una instrucción sencilla que casi rechazó por orgullo. Algo parecido nos pasa a nosotros: a veces esperamos que Dios nos pida algo grande y espectacular para demostrar nuestra fe, cuando en realidad Él suele pedirnos cosas pequeñas, como orar antes de dormir, leer un capítulo o ser honestos en un examen. Ninguna de esas cosas parece suficiente para cambiar una vida, igual que un baño en un río común no parecía suficiente para curar la lepra. Pero es exactamente en esa obediencia sencilla, sostenida día tras día, donde el Señor obra Sus milagros más grandes.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "2 Reyes 5:1",
+            texto:
+              "Naamán, general del ejército del rey de Siria, era un gran hombre delante de su señor y tenido en alta estima, porque por medio de él Jehová había librado a Siria. Este hombre era valeroso en extremo, pero leproso.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=spa&id=p1#p1",
+          },
+          {
+            referencia: "2 Reyes 5:10",
+            texto:
+              "Entonces Eliseo le envió un mensajero, diciendo: Ve y lávate siete veces en el Jordán, y tu carne se te restaurará y serás limpio.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=spa&id=p10#p10",
+          },
+          {
+            referencia: "2 Reyes 5:13–14",
+            texto:
+              "Pero sus criados se acercaron a él, y le hablaron, diciendo: Padre mío, si el profeta te mandara alguna gran cosa, ¿no la harías? ¡Cuánto más si solo te ha dicho: Lávate, y serás limpio! Él entonces descendió y se sumergió siete veces en el Jordán, conforme a la palabra del hombre de Dios; y su carne se volvió como la carne de un niño, y quedó limpio.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=spa&id=p13-p14#p13",
+          },
+          {
+            referencia: "2 Reyes 5:15",
+            texto:
+              "Y regresó al hombre de Dios, él y toda su compañía, y se puso delante de él y dijo: He aquí, ahora reconozco que no hay Dios en toda la tierra, sino en Israel.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=spa&id=p15#p15",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Dallin H. Oaks",
+        fuente: "Liahona, mayo de 2018",
+        texto:
+          "Consideren el estudio de las Escrituras que debemos incorporar en nuestra vida diaria, según se nos ha enseñado. O consideren las oraciones personales y las oraciones familiares de rodillas, que son prácticas habituales de los fieles Santos de los Últimos Días. Consideren la asistencia de los jóvenes a Seminario y de los jóvenes adultos a Instituto. Si bien cada una de estas actividades pueden parecer pequeñas y sencillas, con el tiempo producen un poderoso incremento y crecimiento espirituales.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/small-and-simple-things?lang=spa&id=p16#p16",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Dale G. Renlund",
+        fuente: "Liahona, noviembre de 2023",
+        texto:
+          "En el Antiguo Testamento se narra que cuando Naamán buscó la cura para su lepra, se indignó cuando le pidieron que se sumergiera siete veces en un río cercano común y corriente. Mas fue persuadido a seguir el consejo del profeta Eliseo en lugar de confiar en su idea preconcebida de cómo debía producirse el milagro y, como resultado, Naamán fue sanado. Al confiar en el profeta de Dios actual sobre la tierra y al actuar según sus palabras, hallaremos felicidad y también podremos ser sanados.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2023/10/57renlund?lang=spa&id=p19#p19",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Naamán casi pierde su sanación por orgullo: esperaba algo grande y recibió una instrucción sencilla que casi rechazó. El Señor no siempre pide cosas espectaculares; la mayoría de las veces pide constancia en lo pequeño, como orar, estudiar, ser honesto o ser amable. Cada una de esas acciones, repetida con fe, va sanando algo en nosotros aunque no lo notemos de inmediato. La pregunta no es si Dios te va a pedir algo enorme algún día, sino si estás dispuesto a obedecer lo pequeño que ya te está pidiendo hoy. Elegí una de esas cosas pequeñas esta semana y hacela, aunque no parezca suficiente.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Con qué personaje de este relato te identificás más: con Naamán, que casi rechaza una instrucción simple, o con sus criados, que lo convencen de obedecer? ¿Por qué?",
+          "Si un profeta te pidiera hacer algo que te pareciera demasiado simple para solucionar tu problema, ¿cómo reaccionarías al principio?",
+          "¿Alguna vez subestimaste una acción pequeña —orar, pedir perdón, estudiar un poco— pensando que no iba a cambiar nada? ¿Qué pasó después?",
+          "¿Por qué creés que Dios elige, tantas veces, pedirnos cosas pequeñas y sencillas en lugar de grandes gestos?",
+          "¿Qué cosa pequeña y sencilla sentís que el Señor te está pidiendo hacer mejor esta semana?",
+          "¿A quién le podrías contar, dentro de un mes, cómo te fue con esa cosa pequeña que decidiste mejorar?",
+        ],
+      },
+    ],
   },
   {
     id: "leccion-85",
     title: "Lección 85: 2 Reyes 6",
     type: "Antiguo Testamento - Ven Sigueme",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/273-2-kings-6?lang=spa",
+    description:
+      "Cuando el criado de Eliseo se ve rodeado por un ejército enemigo, aprende a reconocer una protección divina que ya estaba presente; la lección invita a confiar en el cuidado constante del Señor.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/27-2-kings-2-7/273-2-kings-6?lang=spa",
     questions: [],
-    secciones: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Durante una guerra entre Israel y Siria, el profeta Eliseo advertía al rey de Israel cada vez que los sirios planeaban un ataque, así que el rey sirio decidió capturarlo. Una noche, un ejército entero rodeó la ciudad de Dotán, donde estaba Eliseo. A la mañana siguiente, su criado salió, vio los caballos y carros por todos lados, y entró en pánico: \"¿Qué haremos?\". Eliseo, en cambio, estaba tranquilo. Le respondió algo que no tenía ningún sentido para los ojos del criado: no tengas miedo, porque son más los que están con nosotros que los que están con ellos. El criado solo veía un ejército enemigo. Entonces Eliseo oró para que Dios le abriera los ojos, y el joven vio el monte lleno de caballos y carros de fuego, un ejército celestial que había estado ahí todo el tiempo, invisible hasta ese momento. Nada había cambiado en la situación; lo único que cambió fue lo que el criado podía ver. Muchas veces sentimos que estamos solos frente a un problema —un examen difícil, una amistad que se rompe, la presión de encajar—, y esa sensación de estar rodeados y sin ayuda es real. Pero, igual que con el criado de Eliseo, la ayuda del Señor casi nunca desaparece; lo que a veces falta es la capacidad de reconocerla. Pedirle a Dios que nos abra los ojos no cambia el problema, pero sí cambia por completo cómo lo enfrentamos.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "2 Reyes 6:15–16",
+            texto:
+              "Y levantándose de mañana para salir el que servía al hombre de Dios, he aquí que el ejército tenía rodeada la ciudad con gente de a caballo y carros. Entonces su criado le dijo: ¡Ah, señor mío! ¿Qué haremos? Y él le dijo: No tengas miedo, porque son más los que están con nosotros que los que están con ellos.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/6?lang=spa&id=p15-p16#p15",
+          },
+          {
+            referencia: "2 Reyes 6:17",
+            texto:
+              "Y oró Eliseo y dijo: Te ruego, oh Jehová, que abras sus ojos para que vea. Entonces Jehová abrió los ojos del joven, y miró; y he aquí que el monte estaba lleno de gente de a caballo y de carros de fuego alrededor de Eliseo.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/6?lang=spa&id=p17#p17",
+          },
+          {
+            referencia: "Doctrina y Convenios 84:88",
+            texto:
+              "Y quienes os reciban, allí estaré yo también, porque iré delante de vuestra faz. Estaré a vuestra diestra y a vuestra siniestra, y mi Espíritu estará en vuestro corazón, y mis ángeles alrededor de vosotros, para sosteneros.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p88#p88",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Henry B. Eyring",
+        fuente: "Liahona, noviembre de 2008",
+        texto:
+          "Al igual que ese criado de Eliseo, hay más con ustedes que los que ven que se les oponen. Algunos que están con ustedes serán invisibles a sus ojos mortales. El Señor los sostendrá y en ocasiones lo hará llamando a otros para que estén a su lado.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2008/10/o-ye-that-embark?lang=spa&id=p21#p21",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Hermana Michelle D. Craig",
+        fuente: "Liahona, noviembre de 2020",
+        texto:
+          "Podría haber momentos en los que ustedes, como el criado, se encuentren luchando por ver cómo está actuando Dios en su vida, momentos en los que sientan que ustedes están siendo sitiados, cuando las pruebas de la vida terrenal los pongan de rodillas. Esperen y confíen en Dios y en Su tiempo, porque pueden confiar en Él con todo su corazón. Sin embargo, ustedes también pueden orar para que el Señor les abra los ojos y vean aquello que no verían normalmente.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/14craig?lang=spa&id=p3#p3",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "El criado de Eliseo no necesitaba un ejército más grande; necesitaba ver lo que ya estaba ahí. Lo mismo puede pasarnos cuando sentimos que enfrentamos solos un problema: la ayuda del Señor no siempre desaparece, a veces solo deja de ser visible para nosotros. Pedirle a Dios que nos abra los ojos es una oración simple, pero puede cambiar por completo cómo enfrentamos lo que nos rodea. Esta semana, cuando sientas que estás rodeado sin salida, probá orar pidiendo específicamente reconocer una forma en que el Señor ya te está ayudando.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Con qué personaje te identificás más en este relato: con el criado que solo veía el peligro, o con Eliseo que veía algo más?",
+          "Si te hubieras despertado rodeado por un ejército como le pasó al criado, ¿cuál habría sido tu primera reacción?",
+          "¿Alguna vez sentiste que estabas completamente solo frente a un problema, y después te diste cuenta de que no era así? ¿Qué pasó?",
+          "¿Qué cosas te hacen más difícil reconocer las bendiciones o la ayuda de Dios en tu vida diaria?",
+          "¿Qué podrías hacer esta semana para pedirle a Dios que te ayude a 'abrir los ojos' frente a alguna situación difícil que estés viviendo?",
+          "¿A quién podrías contarle esta semana una vez en que sentiste el cuidado de Dios, aunque no lo hayas reconocido en el momento?",
+        ],
+      },
+    ],
   },
   {
     id: "leccion-86",
     title: "Lección 86: 2 Reyes 18–19",
     type: "Antiguo Testamento - Ven Sigueme",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/281-2-kings-18-19?lang=spa",
+    description:
+      "Frente a la amenaza asiria, el rey Ezequías elige llevar sus temores directamente al Señor en oración; su ejemplo puede aumentar la confianza de los alumnos en que Dios los ayudará a afrontar sus propios desafíos.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/281-2-kings-18-19?lang=spa",
     questions: [],
-    secciones: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Después de que Asiria conquistó el reino del norte de Israel, puso la mira en Judá. El rey asirio Senaquerib tomó una a una las ciudades fortificadas de Judá y finalmente envió a un grupo de mensajeros hasta las murallas de Jerusalén para exigir la rendición. Frente al pueblo, el Rabsaces se burló abiertamente de la fe de Judá en el Señor, diciendo que ningún dios de ninguna nación había podido librar a su pueblo de Asiria, y que Jehová tampoco lo lograría. El rey Ezequías podría haber respondido con un ejército o con promesas vacías, pero hizo algo distinto: rasgó sus vestidos, entró al templo y llevó la carta de amenaza literalmente delante del Señor en oración. No pretendió tener todas las respuestas ni fingió no tener miedo; simplemente puso el problema en las manos de Dios. La respuesta llegó por medio del profeta Isaías: Jerusalén no caería. Esa misma noche, un ángel del Señor hirió al ejército asirio, y Senaquerib tuvo que retirarse humillado. Ezequías no ganó esa batalla con estrategia militar; la ganó con la decisión de confiar cuando todo parecía perdido. A los jóvenes también les llegan sus propios \"Rabsaces\": voces que se burlan de la fe, que dicen que confiar en Dios es ingenuo o que ya perdiste antes de empezar. La historia de Ezequías no promete que el ataque no vendrá, sino que muestra a dónde ir cuando llega: al Señor, en oración honesta, antes que a cualquier otra fuente de seguridad.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "2 Reyes 18:5–7",
+            texto:
+              "En Jehová Dios de Israel puso su esperanza; ni antes ni después de él hubo otro como él entre todos los reyes de Judá. Porque siguió a Jehová y no se apartó de él, sino que guardó los mandamientos que Jehová ordenó a Moisés. Y Jehová estaba con él, y en todas las cosas que él hacía, prosperaba.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/18?lang=spa&id=p5-p7#p5",
+          },
+          {
+            referencia: "2 Reyes 19:34",
+            texto: "Porque yo ampararé esta ciudad para salvarla, por causa de mí y por causa de David, mi siervo.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/19?lang=spa&id=p34#p34",
+          },
+          {
+            referencia: "2 Reyes 19:35",
+            texto:
+              "Y aconteció que esa misma noche salió el ángel de Jehová y mató en el campamento de los asirios a ciento ochenta y cinco mil; y cuando se levantaron por la mañana, he aquí, no había más que cuerpos de muertos.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/19?lang=spa&id=p35#p35",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Dieter F. Uchtdorf",
+        fuente: "Liahona, mayo de 2017",
+        texto:
+          "En vez de centrarnos en la inmensidad de nuestros desafíos, ¿no sería mejor enfocarnos en la grandeza infinita, bondad y poder absoluto de nuestro Dios, confiar en Él y prepararnos con un corazón alegre para el regreso de Jesús el Cristo? Como Su pueblo del convenio, no debemos dejar que el miedo nos paralice por causa de las cosas malas que puedan pasar. En su lugar, podemos avanzar con fe, valor, determinación y confianza en Dios.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/perfect-love-casteth-out-fear?lang=spa&id=p45-p46#p45",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Henry B. Eyring",
+        fuente: "Liahona, noviembre de 2010",
+        texto:
+          "Esa confianza viene de conocer a Dios. Más que ningún otro pueblo en la tierra, mediante los gloriosos acontecimientos de la restauración del Evangelio, nosotros hemos sentido la paz que el Señor ofreció a Su pueblo con las palabras: 'Quedaos tranquilos, y sabed que yo soy Dios'. Mi corazón está lleno de gratitud por lo que Dios ha revelado acerca de Sí mismo a fin de que podamos confiar en Él.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/10/trust-in-god-then-go-and-do?lang=spa&id=p25#p25",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Ezequías no tenía forma de vencer al ejército asirio por su cuenta, y no lo intentó solo. Lo primero que hizo fue llevar el problema, literalmente, delante del Señor. Esa decisión —orar antes de reaccionar— fue lo que marcó la diferencia entre el pánico y la liberación. Cuando aparece tu propio \"Rabsaces\", una voz que se burla de tu fe o te convence de que ya perdiste, el ejemplo de Ezequías no promete que el ataque no va a llegar, pero sí muestra a dónde ir primero: al Señor, en oración honesta, antes que a cualquier otra fuente de seguridad.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Con qué parte del relato te identificás más: con el pueblo que escuchaba las amenazas asirias, o con Ezequías que llevó el problema al templo?",
+          "Si alguien se burlara abiertamente de tu fe delante de otras personas, como hizo el Rabsaces con Judá, ¿qué sería lo más difícil para vos?",
+          "¿Alguna vez oraste sobre un problema específico en lugar de solo preocuparte por él? ¿Qué diferencia notaste?",
+          "¿Por qué creés que Ezequías decidió llevar la carta de amenaza literalmente al templo antes de responder al enemigo?",
+          "¿Qué desafío concreto que estás enfrentando ahora podrías 'llevar al templo' esta semana, es decir, entregárselo a Dios en oración específica?",
+          "¿A quién podrías pedirle que ore junto con vos por algo que te está costando enfrentar?",
+        ],
+      },
+    ],
+  },
+  {
+    id: "leccion-89",
+    title: "Lección 89: Practica 6 del Dominio de la Doctrina",
+    type: "Dominio de la Doctrina",
+    description:
+      "Los alumnos repasan pasajes del Dominio de la doctrina y ponen en práctica los principios de la adquisición de conocimiento espiritual, aplicándolos a una situación real de alguien que busca reconocer la revelación personal.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/284-doctrinal-mastery-6?lang=spa",
+    questions: [],
+    // ⚠️ Esta es una lección de práctica y repaso del Dominio de la Doctrina (no una lección con un relato o
+    // pasaje nuevo). El contexto sigue el tratamiento breve y enfocado (150–200 palabras) indicado para este
+    // tipo, y las preguntas del cuestionario enfatizan la aplicación en una conversación real, como pide la skill.
+    // No se encontró en el contenido del manual ninguna cita textual de un líder de la Iglesia con atribución
+    // verificable para esta lección específica (solo referencias al Documento de base sobre el Dominio de la
+    // Doctrina), por lo que se omitió la sección "enseñanza" en lugar de inventar una cita.
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Reconocer la revelación personal no siempre se siente como algo dramático. A veces esperamos una voz clara, una emoción fuerte o una señal inconfundible, y cuando eso no llega, es fácil pensar que Dios no nos está hablando. Elías el Profeta vivió algo parecido: después de un gran milagro en el monte Carmelo, huyó al desierto desanimado, y cuando finalmente el Señor se le apareció, no fue en el viento, ni en el terremoto, ni en el fuego, sino en una voz apacible y delicada. Esa es, la mayoría de las veces, la forma en que llega la revelación personal: silenciosa, fácil de pasar por alto si no se está prestando atención. Santiago enseñó que cualquiera que necesite sabiduría puede pedirla a Dios con fe, sin dudar. Y el Señor le prometió a Oliver Cowdery que le hablaría a su mente y a su corazón por medio del Espíritu Santo. Reconocer esa voz apacible es una habilidad que se aprende con la práctica, no un don que algunas personas tienen y otras no.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "1 Reyes 19:11–12",
+            texto:
+              "Y él le dijo: Sal fuera, y ponte en el monte delante de Jehová. Y he aquí que Jehová pasaba, y un grande y poderoso viento rompía los montes y quebraba las peñas delante de Jehová, pero Jehová no estaba en el viento. Y tras el viento, un terremoto, pero Jehová no estaba en el terremoto. Y tras el terremoto, un fuego, pero Jehová no estaba en el fuego. Y tras el fuego, una voz apacible y delicada.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/19?lang=spa&id=p11-p12#p11",
+          },
+          {
+            referencia: "Santiago 1:5–6",
+            texto:
+              "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, quien da a todos abundantemente y sin reproche, y le será dada. Pero pida con fe, no dudando nada, porque el que duda es semejante a la ola del mar, que es movida por el viento y echada de una parte a otra.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa&id=p5-p6#p5",
+          },
+          {
+            referencia: "Doctrina y Convenios 8:2–3",
+            texto:
+              "Sí, he aquí, hablaré a tu mente y a tu corazón por medio del Espíritu Santo que vendrá sobre ti y morará en tu corazón. Ahora, he aquí, este es el espíritu de revelación; he aquí, es el espíritu mediante el cual Moisés condujo a los hijos de Israel a través del mar Rojo sobre tierra seca.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=spa&id=p2-p3#p2",
+          },
+        ],
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Karla, como muchos jóvenes, sintió que la revelación personal les llegaba a otros y no a ella. Pero reconocer la voz del Espíritu Santo no depende de tener una experiencia espectacular; depende de aprender a identificar impresiones simples y sostenidas, como la voz apacible y delicada que escuchó Elías. Pedir con fe, sin dudar, es el primer paso; prestar atención después, con paciencia, es el segundo. La próxima vez que sientas que no estás recibiendo guía, revisá si en realidad la estás reconociendo. Esta semana, elegí una pregunta real que tengas y pedile al Padre Celestial una respuesta, prestando atención a pensamientos simples más que a señales dramáticas.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Alguna vez sentiste que otras personas recibían revelación personal más claramente que vos? ¿Qué pensás que puede estar pasando en esos casos?",
+          "Si tuvieras que explicarle a alguien que no es miembro de la Iglesia qué es la revelación personal, usando tus propias palabras, ¿qué le dirías?",
+          "¿Cómo le explicarías a Karla, usando 1 Reyes 19, por qué la revelación no siempre se siente dramática?",
+          "¿Qué le dirías a un amigo que dejó de pedir respuestas a Dios porque siente que 'nunca funciona'?",
+          "¿Qué pregunta real de tu vida vas a llevarle a Dios esta semana, aplicando Santiago 1:5–6?",
+          "¿A quién podrías ayudar esta semana a reconocer mejor la revelación personal en su propia vida?",
+        ],
+      },
+    ],
   },
   {
     id: "leccion-87",
     title: "Lección 87: 2 Reyes 21–23",
     type: "Antiguo Testamento - Ven Sigueme",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/282-2-kings-21-23?lang=spa",
+    description:
+      "El hallazgo del libro de la ley durante el reinado de Josías, y la forma en que el pueblo se vuelve a Dios al escucharlo, invita a los alumnos a volverse al Señor por medio del estudio personal de las Escrituras.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/282-2-kings-21-23?lang=spa",
     questions: [],
-    secciones: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Durante los reinados de Manasés y Amón, el pueblo de Judá se alejó tanto de Dios que las Escrituras terminaron perdidas dentro del propio templo, guardadas y olvidadas. Cuando Josías llegó a ser rey, a los ocho años, heredó una nación que prácticamente había dejado de conocer la palabra de Dios. Años más tarde, mientras se reparaba el templo, el sumo sacerdote Hilcías encontró un rollo antiguo: el libro de la ley. Cuando se lo leyeron a Josías, el rey rasgó sus vestidos, no por sorpresa vacía, sino porque comprendió cuánto se había alejado su pueblo de lo que Dios realmente había pedido. En lugar de guardar el hallazgo para sí mismo, Josías reunió a todo el pueblo, desde el más grande hasta el más pequeño, y leyó el libro completo en voz alta. Ese mismo día, el pueblo hizo convenio de volver al Señor con todo el corazón, y Josías comenzó a destruir sistemáticamente cada ídolo, cada altar falso, cada rastro de la idolatría que se había acumulado durante generaciones. Ningún otro rey, dice el texto, se volvió a Jehová con todo su corazón como lo hizo Josías. Lo notable es que el cambio no comenzó con una visión ni con un milagro espectacular: comenzó con la lectura de un texto que había estado ahí todo el tiempo, esperando ser abierto. Lo mismo puede pasar con tu propio ejemplar de las Escrituras: a veces la respuesta que necesitás no es nueva, es una que ya tenés, guardada, esperando que la busques con la misma seriedad que Josías.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "2 Reyes 22:8",
+            texto:
+              "Entonces dijo el sumo sacerdote Hilcías a Safán, el escriba: He hallado el libro de la ley en la casa de Jehová. E Hilcías dio el libro a Safán, y lo leyó.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/22?lang=spa&id=p8#p8",
+          },
+          {
+            referencia: "2 Reyes 23:3",
+            texto:
+              "Y el rey se puso de pie junto a la columna e hizo convenio delante de Jehová, de que irían en pos de Jehová y guardarían sus mandamientos, y sus testimonios y sus estatutos, con todo el corazón y con toda el alma, y que cumplirían las palabras del convenio que estaban escritas en aquel libro. Y todo el pueblo confirmó el pacto.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=spa&id=p3#p3",
+          },
+          {
+            referencia: "2 Reyes 23:25",
+            texto:
+              "No hubo otro rey antes de él que se convirtiese a Jehová con todo su corazón, y con toda su alma y con todas su fuerzas, conforme a toda la ley de Moisés, ni después de él se levantó otro igual.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=spa&id=p25#p25",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "Liahona, mayo de 2010",
+        texto:
+          "Los que no tienen la palabra registrada de Dios o que no hacen caso de ella, con el tiempo dejan de creer en Él y olvidan el propósito de su existencia.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/04/the-blessing-of-scripture?lang=spa&id=p11#p11",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, mayo de 2020",
+        texto:
+          "Al tratar de ser discípulos de Jesucristo, nuestros esfuerzos por escucharle a Él han de ser cada vez con mayor intención... Podemos acudir a las Escrituras. En ellas se nos enseña acerca de Jesucristo y Su Evangelio, de la magnitud de Su Expiación y del gran plan de felicidad y redención del Padre. Sumergirnos diariamente en la palabra de Dios es crucial para la supervivencia espiritual, especialmente en estos días de agitación mundial.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa&id=p22-p24#p22",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "El libro que cambió el reino de Josías no era un texto nuevo; era una escritura que había estado ahí todo el tiempo, esperando que alguien la abriera y la tomara en serio. El estudio de las Escrituras no siempre necesita una revelación espectacular para transformar una vida; a veces basta con leer con atención lo que ya tenés en las manos. La meta de estudio de las Escrituras que estás siguiendo esta semana no es un ejercicio más: es tu oportunidad de encontrar, como Josías, algo que te vuelva al Señor con todo el corazón.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Con qué personaje te identificás más: con Hilcías, que encontró el libro perdido, o con Josías, que reaccionó al escucharlo?",
+          "Si encontraras un ejemplar de las Escrituras que nadie hubiera abierto en años, ¿qué esperarías encontrar ahí?",
+          "¿Alguna vez un pasaje de las Escrituras te hizo dar cuenta de algo que necesitabas cambiar? ¿Qué pasaje fue?",
+          "¿Por qué creés que Josías decidió leer el libro completo delante de todo el pueblo, en lugar de guardarlo solo para él?",
+          "¿Qué vas a hacer esta semana para acercarte a tu meta personal de estudio de las Escrituras del Antiguo Testamento?",
+          "¿Con quién podrías compartir esta semana un pasaje de las Escrituras que te haya ayudado a volverte al Señor?",
+        ],
+      },
+    ],
+  },
+  {
+    id: "leccion-88",
+    title: "Lección 88: 2 Reyes 17; 24-25",
+    type: "Antiguo Testamento - Ven Sigueme",
+    description:
+      "Entender por qué Israel fue esparcido ayuda a los alumnos a reconocer atributos del Padre Celestial y de Jesucristo, incluso en la forma en que corrigen a Su pueblo del convenio.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/28-2-kings-16-25/283-2-kings-17-25?lang=spa",
+    questions: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Cuando un padre corrige a un hijo, no siempre es un castigo frío; muchas veces es la forma más clara de demostrarle que le importa. Algo parecido ocurrió con Israel a lo largo del Antiguo Testamento. El reino del norte, dividido de Judá desde la muerte de Salomón, se alejó tanto de Dios —adorando ídolos, rechazando a los profetas, quebrantando el convenio— que Asiria terminó conquistándolo y llevándose a la mayoría de sus habitantes cautivos. A esas tribus dispersas se las conoce como las tribus perdidas de Israel. Más adelante, Judá también se apartó del Señor, y Babilonia hizo lo mismo: destruyó Jerusalén y llevó a gran parte del pueblo al cautiverio. Pero en medio de ese esparcimiento, el Señor no abandonó a Su pueblo. Antes de que Babilonia atacara, guio a Lehi y a su familia lejos de Jerusalén, hacia América, donde su descendencia se convertiría en un pueblo entero de las Escrituras. Otros, como Daniel y sus amigos, terminaron en Babilonia y ahí mismo sirvieron a Dios con integridad, en medio de una cultura completamente distinta a la suya. Con el tiempo, algunos regresaron a reconstruir Jerusalén y el templo. Esparcido no significa perdido para Dios: el Señor usó la dispersión misma de Su pueblo para llevar bendiciones a naciones enteras que nunca hubieran conocido el Evangelio de otra forma. La disciplina de Dios hacia Israel nunca fue el final de la historia; fue el principio de un recogimiento que sigue ocurriendo hoy, persona por persona, sin importar cuán lejos alguien sienta que se ha alejado.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "2 Reyes 17:13–14",
+            texto:
+              "Jehová entonces testificó contra Israel y contra Judá, por medio de todos los profetas y de todos los videntes, diciendo: Volveos de vuestros malos caminos y guardad mis mandamientos y mis estatutos, conforme a todas las leyes que yo ordené a vuestros padres... Pero ellos no obedecieron, sino que endurecieron su cerviz, como la cerviz de sus padres, que no creyeron en Jehová su Dios.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/17?lang=spa&id=p13-p14#p13",
+          },
+          {
+            referencia: "Isaías 54:7–8",
+            texto:
+              "Por un breve momento te abandoné, pero te recogeré con grandes misericordias. Con un poco de ira escondí mi rostro de ti por un momento, mas con misericordia eterna tendré compasión de ti, dice tu Redentor, Jehová.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=spa&id=p7-p8#p7",
+          },
+          {
+            referencia: "Isaías 54:10",
+            texto:
+              "Porque los montes se moverán y los collados serán quitados, mas no se quitará de ti mi bondad, ni el convenio de mi paz se romperá, dice Jehová, el que tiene misericordia de ti.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=spa&id=p10#p10",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Quentin L. Cook",
+        fuente: "Liahona, noviembre de 2013",
+        texto:
+          "El cautiverio de los judíos y la dispersión de las tribus de Israel, que incluye las diez tribus, son factores doctrinales importantes en la restauración del Evangelio... También creemos que, como parte del convenio que el Señor hizo con Abraham, no solo el linaje de Abraham sería bendecido sino que también serían bendecidas todas las personas de la tierra.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/lamentations-of-jeremiah-beware-of-bondage?lang=spa&id=p16-p17#p16",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder James E. Talmage",
+        fuente: "The Articles of Faith, 12.ª edición, 1924",
+        texto:
+          "Aunque han sido heridos de los hombres y muchos de ellos han desaparecido del conocimiento del mundo, los de Israel no están perdidos para su Dios. Él sabe dónde los han llevado o echado; Su corazón aún se inclina hacia ellos con amor paternal.",
+        link: "",
+        // link no verificado — fuente: The Articles of Faith, James E. Talmage, 12.ª edición (1924), págs. 328–329, citado en el manual de Seminario sin URL en línea disponible.
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "El esparcimiento de Israel puede sonar como una historia lejana sobre reinos antiguos, pero en el fondo habla de algo muy actual: lo que se siente estar lejos de Dios, y la promesa de que ese alejamiento nunca es el final de la historia. El Señor usó incluso el exilio de Su pueblo para llevar bendiciones a naciones enteras, y guio a familias como la de Lehi hacia un propósito que ellos mismos no podían ver todavía. Si en algún momento sentís que te alejaste demasiado de tus convenios, la historia de Israel es una promesa concreta: Dios sabe exactamente dónde estás, y el recogimiento sigue abierto para vos.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Con qué grupo del relato te identificás más: con los que fueron llevados cautivos, o con los que, como Daniel, mantuvieron su fe estando lejos de casa?",
+          "Si tuvieras que explicar con tus propias palabras por qué Israel fue esparcido, ¿qué dirías?",
+          "¿Alguna vez sentiste que te habías alejado demasiado de tus convenios como para que Dios te 'recogiera' de nuevo? ¿Qué te ayudó a volver?",
+          "¿Qué atributos del Padre Celestial y de Jesucristo ves reflejados en la forma en que trataron a Israel, incluso durante su castigo?",
+          "¿Qué convenio personal sentís que necesitás cuidar mejor esta semana, para no alejarte como le pasó a Israel?",
+          "¿A quién conocés que podría sentirse 'esparcido' o alejado de la Iglesia, y cómo podrías ayudarlo esta semana a sentir que Dios no lo ha olvidado?",
+        ],
+      },
+    ],
   },
   {
     id: "leccion-90",
     title: "Lección 90: 2 Crónicas 14–16",
     type: "Antiguo Testamento - Ven Sigueme",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/29-2-kings-14-30/291-2-chronicles-14-16?lang=spa",
+    description:
+      "El rey Asa busca al Señor tanto en la guerra como en la paz, y su historia lleva a los alumnos a elaborar un plan concreto para buscar más a Dios en su propia vida.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/29-2-kings-14-30/291-2-chronicles-14-16?lang=spa",
     questions: [],
-    secciones: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Asa se convirtió en rey de Judá en un momento de relativa calma, y usó esos años de paz para quitar los ídolos, reparar los altares y pedirle a su pueblo que buscara al Señor. Cuando un ejército etíope de un millón de hombres avanzó contra Judá, Asa no confió en el tamaño de su propio ejército; oró: \"Ayúdanos, oh Jehová, Dios nuestro, porque en ti nos apoyamos\". El Señor derrotó a los etíopes esa misma batalla. Poco después, un profeta llamado Azarías salió a su encuentro con un mensaje que resume toda la historia de Asa: Jehová estará con vosotros si vosotros estáis con él; y si le buscáis, vosotros le hallaréis; pero si le dejáis, él también os dejará. Ese mensaje no era solo para tiempos de guerra. Asa buscó al Señor tanto en la batalla como en la paz, y esa constancia —no un solo acto heroico— fue lo que trajo \"reposo por todas partes\" a su reino. El texto también deja una advertencia: más adelante en su vida, Asa dejó de buscar a Dios de la misma manera, confiando en alianzas humanas en lugar de en el Señor. Buscar a Dios no es algo que se hace una sola vez y ya queda resuelto para siempre; es una decisión que se repite, en los días fáciles y en los difíciles. La pregunta que deja esta lección no es si alguna vez buscaste al Señor, sino si lo seguís buscando ahora, en esta etapa concreta de tu vida.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "2 Crónicas 14:7",
+            texto:
+              "Dijo, por tanto, a Judá: Edifiquemos estas ciudades y cerquémoslas de muros con torres, puertas y barras, ya que la tierra es nuestra, porque hemos buscado a Jehová nuestro Dios; le hemos buscado, y él nos ha dado reposo por todas partes. Edificaron, pues, y prosperaron.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/14?lang=spa&id=p7#p7",
+          },
+          {
+            referencia: "2 Crónicas 15:2",
+            texto:
+              "Oídme, Asa y todo Judá y Benjamín: Jehová estará con vosotros si vosotros estáis con él; y si le buscáis, vosotros le hallaréis; pero si le dejáis, él también os dejará.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/15?lang=spa&id=p2#p2",
+          },
+          {
+            referencia: "2 Crónicas 15:15",
+            texto:
+              "Y todos los de Judá se alegraron de este juramento, porque de todo su corazón lo juraban, y con toda su voluntad lo buscaban; y ellos le hallaron, y Jehová les dio reposo por todas partes.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/15?lang=spa&id=p15#p15",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, noviembre de 2022",
+        texto:
+          "A pesar de las distracciones y distorsiones que se arremolinan a nuestro alrededor, pueden hallar verdadero descanso —es decir, alivio y paz— incluso en medio de sus problemas más acuciantes.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/47nelson?lang=spa&id=p16#p16",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Ulisses Soares",
+        fuente: "Liahona, noviembre de 2020",
+        texto:
+          "Al conocer todo lo que necesitamos en esta vida, el Salvador nos invita a buscarlo en todo pensamiento y seguirlo con todo nuestro corazón. Esto nos da la promesa de que podemos andar en Su luz y que Su guía evita la influencia de la oscuridad en nuestra vida.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=spa&id=p2-p3#p2",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Asa buscó al Señor tanto en la guerra como en la paz, y por eso su reino tuvo reposo por todas partes. Pero el mismo relato advierte que buscar a Dios no es algo que se resuelve una sola vez: más adelante en su vida, Asa dejó de buscarlo con la misma fe. Eso significa que la pregunta importante no es si alguna vez confiaste en el Señor, sino si lo seguís buscando hoy, en lo que estás viviendo ahora. Elegí una manera concreta de buscar a Dios esta semana y hacela, aunque la situación en tu vida esté tranquila.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Con qué parte del relato de Asa te identificás más: con su fe durante la batalla, o con su falta de fe años después?",
+          "Si tuvieras que definir con tus propias palabras qué significa 'buscar al Señor', ¿qué dirías?",
+          "¿Alguna vez notaste que buscabas más a Dios en tiempos difíciles que en tiempos de paz? ¿Por qué creés que pasa eso?",
+          "¿Qué cosas de tu vida diaria podrían ser una forma de 'buscar al Señor' aunque no lo parezcan a simple vista?",
+          "¿Qué acción concreta vas a elegir esta semana para buscar más a Dios, incluso si en este momento tu vida está tranquila?",
+          "¿A quién le podrías preguntar esta semana cómo ha buscado al Señor en su propia vida?",
+        ],
+      },
+    ],
   },
   {
     id: "leccion-91",
     title: "Lección 91: 2 Crónicas 17–20",
     type: "Antiguo Testamento - Ven Sigueme",
-    description: "",
-    chapterUrl: "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/29-2-kings-14-30/292-2-chronicles-17-20?lang=spa",
+    description:
+      "A través del reinado de Josafat, los alumnos practican cómo reconocer principios del Evangelio dentro de un pasaje de las Escrituras.",
+    chapterUrl:
+      "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/29-2-kings-14-30/292-2-chronicles-17-20?lang=spa",
     questions: [],
-    secciones: [],
+    secciones: [
+      {
+        tipo: "contexto",
+        contenido:
+          "Josafat llegó al trono de Judá en medio de la apostasía y decidió hacer algo poco común entre los reyes de su tiempo: en lugar de dejar que el pueblo se las arreglara solo con su fe, envió sacerdotes y levitas a recorrer todas las ciudades de Judá enseñando directamente de las Escrituras. Años después, esa misma confianza en la palabra de Dios se puso a prueba cuando un ejército enorme de Moab, Amón y el monte de Seir avanzó contra Judá. Josafat, con miedo, reunió a todo el pueblo a ayunar y orar, y terminó su oración con una frase honesta: \"no sabemos lo que hemos de hacer, mas a ti volvemos nuestros ojos\". La respuesta llegó por medio de un profeta llamado Jahaziel: no es vuestra la batalla, sino de Dios; apostaos, y quedaos quietos y ved la salvación de Jehová. Al día siguiente, Josafat puso a los cantores al frente del ejército, alabando a Dios antes incluso de empezar a pelear. El Señor confundió a los ejércitos enemigos, que terminaron atacándose entre sí, y Judá ni siquiera tuvo que luchar. Lo que conecta ambos momentos de la vida de Josafat —el rey que envía maestros a enseñar y el rey que enfrenta un ejército imposible— es el mismo principio: reconocer una verdad en las Escrituras y aplicarla con confianza, incluso cuando la situación da miedo. Josafat no inventó una solución nueva cada vez que apareció un problema; volvió una y otra vez a lo que ya sabía que era verdadero.",
+      },
+      {
+        tipo: "escrituras",
+        citas: [
+          {
+            referencia: "2 Crónicas 17:6",
+            texto:
+              "Y se animó su corazón en los caminos de Jehová, y quitó de Judá los lugares altos y las imágenes de Asera.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/17?lang=spa&id=p6#p6",
+          },
+          {
+            referencia: "2 Crónicas 20:15",
+            texto:
+              "Oíd, todo Judá, y vosotros habitantes de Jerusalén, y tú, rey Josafat. Jehová os dice así: No temáis ni os amedrentéis delante de esta multitud tan grande porque no es vuestra la batalla, sino de Dios.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/20?lang=spa&id=p15#p15",
+          },
+          {
+            referencia: "2 Crónicas 20:17",
+            texto:
+              "No tendréis vosotros que pelear en esta ocasión; apostaos, y quedaos quietos y ved la salvación de Jehová con vosotros. Oh Judá y Jerusalén, no temáis ni desmayéis; salid mañana contra ellos, porque Jehová estará con vosotros.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/20?lang=spa&id=p17#p17",
+          },
+          {
+            referencia: "2 Crónicas 20:20",
+            texto:
+              "Y se levantaron temprano por la mañana y salieron al desierto de Tecoa. Y mientras ellos salían, Josafat se puso de pie y dijo: Oídme, Judá y moradores de Jerusalén. Creed en Jehová vuestro Dios y estaréis seguros; creed a sus profetas y seréis prosperados.",
+            link: "https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/20?lang=spa&id=p20#p20",
+          },
+        ],
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder Richard G. Scott",
+        fuente: "Liahona, julio de 1993",
+        texto:
+          "Nosotros podemos estar seguros de alcanzar dignos objetivos en la vida si comprendemos y seguimos con constancia los principios correctos que se basan en la verdad revelada. Los principios son anclas de seguridad, como el espigón o la clavija que utiliza el alpinista para conquistar lo que de otro modo serían riscos inalcanzables. Si tú los empleas te ayudarán a tener confianza en circunstancias que te resulten nuevas o diferentes y te proveerán protección en las tormentas de adversidad de la vida.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1993/04/the-power-of-correct-principles?lang=spa&id=p7-p8#p7",
+      },
+      {
+        tipo: "enseñanza",
+        autor: "Élder David A. Bednar",
+        fuente: "Liahona, mayo de 2021",
+        texto:
+          "Dicho de manera sucinta, un principio del Evangelio es una pauta basada en la doctrina para el justo ejercicio del albedrío moral. Los principios se derivan de verdades más amplias del Evangelio y nos brindan dirección y normas a medida que seguimos adelante por la senda de los convenios.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/56bednar?lang=spa&id=p5#p5",
+      },
+      {
+        tipo: "conclusion",
+        contenido:
+          "Josafat no inventó una respuesta nueva cada vez que apareció un problema: volvió, una y otra vez, a lo que ya sabía que era verdadero por medio de las Escrituras. Reconocer un principio no es un ejercicio académico; es aprender a ver la conexión entre lo que Dios pide y lo que Él promete, para poder aplicarla cuando más se necesita. Cuanto más practiques encontrar principios en tu estudio personal, más preparado vas a estar para reconocer la voz del Señor en medio de tus propias batallas, aunque en el momento sientas que no sabés qué hacer.",
+      },
+      {
+        tipo: "cuestionario",
+        preguntas: [
+          "¿Con qué momento de la vida de Josafat te identificás más: con enviar maestros a enseñar, o con enfrentar un ejército que parecía imposible de vencer?",
+          "Si tuvieras que explicarle a alguien qué es un 'principio del Evangelio' con tus propias palabras, ¿qué dirías?",
+          "¿Alguna vez identificaste un principio en tu estudio personal de las Escrituras que después te ayudó en una situación real? ¿Cuál fue?",
+          "¿Por qué creés que Josafat decidió responder con alabanza antes de saber cómo iba a terminar la batalla?",
+          "¿Qué principio de esta lección —o de tu estudio personal reciente— vas a intentar aplicar esta semana ante una situación concreta?",
+          "¿Con quién podrías compartir esta semana un principio que hayas aprendido en tu estudio personal o familiar de las Escrituras?",
+        ],
+      },
+    ],
   },
+
 ]

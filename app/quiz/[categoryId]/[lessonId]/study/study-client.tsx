@@ -50,7 +50,7 @@ export function StudyClient({
 
   // FIX: pasar categoryId y lessonId para que el hook lea las notas del storage
   const handleExport = () => {
-    exportToPDF({ categoryName, lessonTitle, secciones, categoryId, lessonId })
+    exportToPDF({ categoryName, lessonTitle, secciones, categoryId, lessonId, chapterUrl })
   }
 
   return (

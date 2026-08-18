@@ -101,7 +101,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         tipo: "enseñanza",
         autor: "Presidente Dieter F. Uchtdorf",
         fuente: "Liahona, mayo de 2013, págs. 126–127",
-        texto: "Regresamos a esa primera morada con la certeza absoluta de que Dios existía porque lo viste y lo escuchaste. Conocías a Jesucristo, quien se convertiría en el Cordero de Dios. Tenías fe en Él... Habías participado en los grandes concilios celestiales y sabías que tu Salvador y Redentor, Jesucristo, proveería un camino para que fueras limpiado del pecado y rescatado de la muerte física.",
+        texto: "No conocemos muchos de los detalles de la vida en aquella esfera premortal, pero sí conocemos algunos. Nuestro Padre Celestial nos ha revelado quién es Él, quiénes somos nosotros y quiénes podemos llegar a ser. En el primer estado, ustedes supieron con absoluta certeza que Dios existía porque lo vieron y lo oyeron; conocieron a Jesucristo, quien llegaría a ser el Cordero de Dios; ustedes tenían fe en Él y sabían que su destino no era permanecer en la seguridad de su hogar premortal.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/your-wonderful-journey-home?lang=spa&id=p21-p22,p29#p21",
       },
       {
@@ -233,7 +233,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder David A. Bednar",
         fuente: "Liahona, noviembre de 2022, pág. 94",
         texto: "Nuestra preocupación a corto plazo con 'las cosas de este mundo' y 'los honores de los hombres' puede llevarnos a perder nuestra primogenitura espiritual por mucho menos que un guisado de lentejas. Cada uno de nosotros debemos evaluar nuestras prioridades temporales y espirituales con sinceridad y con espíritu de oración.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/46bednar?lang=spa&id=p24#p24",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/10/46bednar?lang=spa&id=p30#p30",
       },
       {
         tipo: "enseñanza",
@@ -370,7 +370,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder David A. Bednar",
         fuente: "Liahona, mayo de 2013, pág. 42",
         texto: "Esas relaciones no son una mera curiosidad para explorar, un apetito que satisfacer, ni un tipo de recreación o entretenimiento que debe procurarse egoístamente. No son una conquista que lograr ni simplemente un acto que realizar. Más bien, en la vida mortal son una de las máximas expresiones de nuestro potencial y naturaleza divinos, y un medio para fortalecer los lazos emocionales y espirituales entre esposo y esposa.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/we-believe-in-being-chaste?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/we-believe-in-being-chaste?lang=spa&id=p12#p12",
       },
       {
         tipo: "enseñanza",
@@ -560,7 +560,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder Peter M. Johnson",
         fuente: "Liahona, noviembre de 2019, pág. 111",
         texto: "Seamos cuidadosos y no despreocupados en el uso que le demos a la tecnología. Busquemos continuamente maneras en que la tecnología nos pueda acercar más al Salvador y nos permita llevar a cabo Su obra a medida que nos preparemos para Su segunda venida.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/10/54johnson?lang=spa&id=p11#p11",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/10/54johnson?lang=spa&id=p15#p15",
         // ✅ Corregido: la cita estaba atribuida a Quentin L. Cook (2014), pero el manual oficial de esta lección la cita textualmente de Peter M. Johnson, "Poder para vencer al adversario" (2019). La segunda oración inventada ("Usémosla para edificar y bendecir...") se reemplazó por la real.
       },
       {
@@ -629,7 +629,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Presidente Boyd K. Packer",
         fuente: "Liahona, mayo de 2011, pág. 33",
         texto: "Esa actitud se parece a la del hombre que fue golpeado con un garrote. Ofendido, toma el garrote y se golpea a sí mismo en la cabeza todos los días de su vida. ¡Qué necio! ¡Qué triste! Ese tipo de venganza es autodestructiva. Si alguien los ha ofendido, perdonen, olviden, y déjenlo así.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/04/guided-by-the-holy-spirit?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/04/guided-by-the-holy-spirit?lang=spa&id=p45#p45",
         // ✅ Corregido el link: el manual de esta lección cita "Guiados por el Santo Espíritu" (abril de 2011), no "cleansing-the-inner-vessel" (un discurso distinto, de 2010).
       },
       {
@@ -788,7 +788,7 @@ Este año, la pregunta no es si el Antiguo Testamento tiene que ver con Cristo. 
         autor: "Élder D. Todd Christofferson",
         fuente: "Liahona, mayo de 2010",
         texto: "Al final, el propósito central de todas las Escrituras es llenar nuestras almas de fe en Dios el Padre y en Su Hijo Jesucristo; la fe en que existen; la fe en el plan del Padre para nuestra inmortalidad y vida eterna; la fe en la Expiación y la Resurrección de Jesucristo, lo cual da vida a este plan de felicidad; la fe para hacer del Evangelio de Jesucristo nuestro estilo de vida; y la fe para llegar a conocer al “único Dios verdadero, y a Jesucristo, a quien [Él ha] enviado”",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2010/05/saturday-afternoon-session/the-blessing-of-scripture?lang=spa",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2010/05/saturday-afternoon-session/the-blessing-of-scripture?lang=spa&id=p16#p16",
         // ✅ Corregido: la frase anterior ("Jesucristo es el tema central...") era una paráfrasis, no la cita textual. Se reemplazó por el texto real de "La bendición de las Escrituras" y se completó el link (antes apuntaba solo a la sesión completa).
       },
       {
