@@ -174,8 +174,8 @@ export const leccionesSemana4_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Henry B. Eyring",
         fuente: "Liahona, noviembre de 2015, págs. 104–105",
-        texto: "Vivimos en una época en que aun los más sabios tendrán dificultades para distinguir entre la verdad y el engaño ingenioso. El Espíritu Santo es quien confirma las verdades que indican el camino para volver a Dios.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/the-holy-ghost-as-your-companion?lang=spa&id=p10,12#p10"
+        texto: "Vivimos en una época en que aun los más sabios tendrán dificultades para distinguir entre la verdad y el engaño ingenioso. […] El Espíritu Santo es quien confirma las verdades que indican el camino para volver a Dios.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/the-holy-ghost-as-your-companion?lang=spa&id=p10,p12#p10"
         // ✅ Verificada: texto y fuente coinciden exactamente con la lección real.
       },
       {
@@ -299,14 +299,16 @@ export const leccionesSemana5_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidenta Bonnie H. Cordon",
         fuente: "\"Llegar a ser un pastor\", Liahona, noviembre de 2018, págs. 75-76",
-        texto: "Al esforzarnos por seguir el ejemplo del Salvador, primero tenemos que conocer y contar Sus ovejas. Sin embargo, contar en realidad no es una cuestión de números; es asegurarnos de que cada persona sienta el amor del Salvador por medio de alguien que sirve por Él."
+        texto: "Al esforzarnos por seguir el ejemplo del Salvador, primero tenemos que conocer y contar Sus ovejas. […] Sin embargo, contar en realidad no es una cuestión de números; es asegurarnos de que cada persona sienta el amor del Salvador por medio de alguien que sirve por Él.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/becoming-a-shepherd?lang=spa&id=p15#p15"
 
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Henry B. Eyring",
         fuente: "\"Bendecir en Su nombre\", Liahona, mayo de 2021, pág. 70",
-        texto: "Dependerá de nuestra diligencia para tratar de conocer la voluntad del Señor y de nuestro esfuerzo por oír Su voz a fin de que sepamos mejor lo que Él quiere para la persona a la que estamos sirviendo por Él. Esa magnificación llegará en pequeños pasos; quizás llegue lentamente, pero llegará."
+        texto: "Dependerá de nuestra diligencia para tratar de conocer la voluntad del Señor y de nuestro esfuerzo por oír Su voz a fin de que sepamos mejor lo que Él quiere para la persona a la que estamos sirviendo por Él. Esa magnificación llegará en pequeños pasos; quizás llegue lentamente, pero llegará.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/34eyring?lang=spa&id=p20#p20"
 
       },
       {
@@ -362,8 +364,10 @@ export const leccionesSemana5_LM: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Marion G. Romney",
-        fuente: "\"No procuréis aconsejar al Señor\", Liahona, febrero de 1986, pág. 5",
-        texto: "No creo que sean muchos los miembros de la Iglesia que conscientemente sigan las persuasiones del hombre o su propia opinión en lugar de escuchar al Señor. Sin embargo, cuando no nos esforzamos por saber cuál es el consejo del Señor, tendemos a sustituirlo con nuestra propia opinión."
+        fuente: "“Seek Not to Counsel the Lord”, Mensaje de la Primera Presidencia, Ensign, agosto de 1985; publicado en español en Liahona, febrero de 1986, pág. 5",
+        texto: "No creo que sean muchos los miembros de la Iglesia que conscientemente sigan las persuasiones del hombre o su propia opinión en lugar de escuchar al Señor. Sin embargo, cuando no nos esforzamos por saber cuál es el consejo del Señor, tendemos a sustituirlo con nuestra propia opinión.",
+        link: "https://www.churchofjesuschrist.org/study/ensign/1985/08/seek-not-to-counsel-the-lord?lang=eng&id=p41#p41"
+        // Traducción propia: el artículo solo está publicado en línea en inglés (párrafo p41). La reimpresión en español (Liahona, febrero de 1986) no está disponible en el sitio.
         // ❌ REEMPLAZADA: la cita original de Renlund no aparece en la lección real (145-teacher,
         // título real: "Jacob 4: 'Nuestra fe se vuelve inquebrantable'").
       },
@@ -371,7 +375,7 @@ export const leccionesSemana5_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Quentin L. Cook",
         fuente: "\"Valientes en el testimonio de Jesús\", Liahona, noviembre de 2016, pág. 43",
-        texto: "Algunos miembros elevan causas, muchas de las cuales son buenas, a un estado superior a la doctrina básica del Evangelio. Si elevamos cualquier cosa por encima de nuestra devoción al Salvador, entonces estamos traspasando lo señalado. ¡Jesucristo es lo señalado!",
+        texto: "[A]lgunos miembros elevan causas, muchas de las cuales son buenas, a un estado superior a la doctrina básica del Evangelio. […] Si elevamos cualquier cosa por encima de nuestra devoción al Salvador […], entonces estamos traspasando lo señalado. ¡Jesucristo es lo señalado!",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/valiant-in-the-testimony-of-jesus?lang=spa&id=p35#p35"
         // ❌ REEMPLAZADA: la cita original de Nelson no aparece en la lección real.
       },
@@ -429,7 +433,9 @@ export const leccionesSemana5_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
         fuente: "\"Moral Agency\", Ensign, junio de 2009, pág. 49",
-        texto: "Satanás promueve la conducta y las decisiones que limitan nuestra libertad de escoger al reemplazar la influencia del Espíritu Santo por su propio dominio. Ceder a sus tentaciones lleva a un rango de opciones cada vez más limitado, hasta que no queda ninguna, y a adicciones que nos quitan el poder de resistir."
+        texto: "Satanás promueve la conducta y las decisiones que limitan nuestra libertad de escoger al reemplazar la influencia del Espíritu Santo por su propio dominio. Ceder a sus tentaciones lleva a un rango de opciones cada vez más limitado, hasta que no queda ninguna, y a adicciones que nos quitan el poder de resistir.",
+        link: "https://www.churchofjesuschrist.org/study/ensign/2009/06/moral-agency?lang=eng&id=p17#p17"
+        // traducción propia: el artículo solo existe en inglés (Ensign, junio de 2009, p17)
         // ❌ REEMPLAZADA: la cita original de Bednar no aparece en la lección real (075-teacher).
       },
       {
@@ -554,8 +560,8 @@ export const leccionesSemana6_LM: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Dieter F. Uchtdorf",
-        fuente: "\"Vivir el Evangelio con gozo\", Liahona, noviembre de 2014, pág. 123",
-        texto: "Sí, Dios los ama este preciso día y siempre. Él no está esperando que superen sus debilidades y malos hábitos para quererlos; Él los ama hoy mismo, con pleno entendimiento de sus dificultades.",
+        fuente: "“Vivir el Evangelio con gozo”, Liahona, noviembre de 2014, pág. 123 (Reunión General de las Mujeres, octubre de 2014)",
+        texto: "Sí, Dios las ama este preciso día y siempre. Él no está esperando que superen sus debilidades y malos hábitos para quererlas; Él las ama hoy mismo, con pleno entendimiento de sus dificultades.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2014/10/living-the-gospel-joyful?lang=spa&id=p47-p48#p47"
         // ❌ REEMPLAZADA: la fuente citada (Holland, "Christ and the New Covenant", pág. 165) es real,
         // pero el TEXTO original de esa página habla de "volver, arrepentirse, reunirse... mediante la
@@ -565,7 +571,7 @@ export const leccionesSemana6_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Jeffrey R. Holland",
         fuente: "\"La grandiosidad de Dios\", Liahona, noviembre de 2003, pág. 72",
-        texto: "Después de cavar y abonar, de regar y de quitar la maleza, de podar, de trasplantar e injertar, el gran Señor de la viña deja de lado la pala y las podaderas y llora, implorando al que desee escucharlo: '¿Qué más pude haber hecho por mi viña?'",
+        texto: "Después de cavar y abonar, de regar y de quitar la maleza, de podar, de trasplantar e injertar, el gran Señor de la viña deja de lado la pala y las podaderas y llora, implorando al que desee escucharlo: “¿Qué más pude haber hecho por mi viña?”.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2003/10/the-grandeur-of-god?lang=spa&id=p14-p15#p14"
         // ❌ REEMPLAZADA: la cita original de Nelson no aparece en la lección real (151-teacher).
       },
@@ -624,7 +630,7 @@ export const leccionesSemana6_LM: Lesson[] = [
         autor: "Presidente Russell M. Nelson y Wendy W. Nelson",
         fuente: "\"Juventud de Israel\", devocional mundial para los jóvenes, 3 de junio de 2018, suplemento Liahona, septiembre de 2018, pág. 8",
         texto: "¡Piensen en ello! De todas las personas que han vivido en el planeta tierra, nosotros somos los que participaremos en este último y grandioso recogimiento.",
-        link: "https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa&id=p61,p63,p65-p66#p61"
+        link: "https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa&id=p65#p65"
         // ❌ REEMPLAZADA: la cita original de Nelson (sola) no aparece en la lección real (152-teacher).
       },
       {
@@ -687,17 +693,18 @@ export const leccionesSemana6_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
+        autor: "Élder Russell M. Nelson",
         fuente: "\"Afrontar el futuro con fe\", Liahona, mayo de 2011, págs. 35-36",
-        texto: "Vienen tiempos difíciles; pocas veces, en el futuro, será fácil o popular ser un Santo de los Últimos Días fiel. Cada uno de nosotros será probado."
+        texto: "…vienen tiempos difíciles; pocas veces, en el futuro, será fácil o popular ser un fiel Santo de los Últimos Días. Cada uno de nosotros será probado.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2011/04/face-the-future-with-faith?lang=spa&id=p21#p21"
         // ❌ REEMPLAZADA: la cita original de Hales no aparece en la lección real (153-teacher).
       },
       {
         tipo: "enseñanza",
         autor: "Élder Neil L. Andersen",
         fuente: "\"Recuerdos espiritualmente decisivos\", Liahona, mayo de 2020, págs. 19, 22",
-        texto: "Dios nos confirma a cada uno, de manera poderosa y muy personal, que nos conoce y nos ama. Atesoren sus recuerdos sagrados. Créanlos. Escríbanlos.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/15andersen?lang=spa&id=p36#p36"
+        texto: "Dios nos confirma a cada uno, de manera poderosa y muy personal, que nos conoce y nos ama. […] Atesoren sus recuerdos sagrados. Créanlos. Escríbanlos.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/15andersen?lang=spa&id=p4,p42#p4"
         // ❌ REEMPLAZADA: la cita original de Uchtdorf no aparece en la lección real.
       },
       {
@@ -745,14 +752,6 @@ export const leccionesSemana6_LM: Lesson[] = [
           }
         ]
       },
-      /*
-      {
-        tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
-        fuente: "discurso en la Convención Anual de la NAACP, Detroit, 21 de julio de 2019",
-        texto: "Todos estamos relacionados y tenemos una responsabilidad, dada por Dios, de ayudar a hacer que mejore la vida de quienes nos rodean. No necesitamos ser similares ni tener una apariencia similar para sentir amor los unos por los otros."
-        // ❌ REEMPLAZADA: la cita original de Renlund no aparece en la lección real (114-teacher).
-      },*/
       {
         tipo: "enseñanza",
         autor: "Élder Dale G. Renlund",
@@ -810,15 +809,16 @@ export const leccionesSemana6_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente: "\"Que Dios prevalezca\", Liahona, noviembre de 2020, pág. 94",
-        texto: "Cada uno de nosotros tiene un potencial divino porque cada uno es un hijo de Dios; cada uno es igual ante Su vista. Dios no ama a una raza más que a otra.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/46nelson?lang=spa&id=p20-p21#p20"
+        texto: "Cada uno de nosotros tiene un potencial divino porque cada uno es un hijo de Dios; cada uno es igual ante Su vista. […] Dios no ama a una raza más que a otra.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/46nelson?lang=spa&id=p20#p20"
         // ❌ REEMPLAZADA: la cita original de Oaks no aparece en la lección real (115-teacher).
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Dallin H. Oaks",
-        fuente: "discurso \"Sed uno — Celebración de la revelación sobre el sacerdocio\", 1 de junio de 2018",
-        texto: "Decidí ser leal a nuestros líderes proféticos y orar para que llegara el día en que todos disfrutaran de las bendiciones del sacerdocio y del templo."
+        fuente: "“Un motivo de celebración”, Liahona, diciembre de 2018 (mensaje del evento «Sed uno», 1 de junio de 2018)",
+        texto: "Decidí ser leal a nuestros líderes proféticos y orar —como se prometió desde el comienzo de esas restricciones— para que llegara el día en que todos disfrutaran de las bendiciones del sacerdocio y del templo.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2018/12/youth/be-one/a-cause-for-celebration?lang=spa&id=p5#p5"
         // ❌ REEMPLAZADA: la cita original de Stevenson no aparece en la lección real.
       },
       {
@@ -886,15 +886,15 @@ export const leccionesSemana7_LM: Lesson[] = [
         autor: "Élder Jeffrey R. Holland",
         fuente: "\"La expiación de Jesucristo\", Liahona, marzo de 2008, pág. 35",
         texto: "La Caída formaba parte esencial del plan divino del Padre Celestial; sin ella, Adán y Eva no hubieran dado nacimiento a ningún ser mortal, y no hubiera habido ninguna familia humana que experimentara la oposición y el progreso, el albedrío moral ni el gozo de la resurrección, la redención y la vida eterna.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2008/03/the-atonement-of-jesus-christ?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2008/03/the-atonement-of-jesus-christ?lang=spa&id=p12#p12"
         // ✅ Verificada: texto y fuente coinciden exactamente con la lección real (073-teacher).
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente: "\"El gozo y la supervivencia espiritual\", Liahona, noviembre de 2016, pág. 82",
-        texto: "Si centramos nuestra vida en el plan de salvación de Dios […], y en Jesucristo y Su evangelio, podemos sentir gozo independientemente de lo que esté sucediendo —o no esté sucediendo— en nuestra vida. El gozo proviene de Él, y gracias a Él. Él es la fuente de todo gozo. Lo sentimos en Navidad cuando cantamos “¡Regocijad! Jesús nació” [Himnos, nro. 123] y podemos sentirlo el resto del año. Para los Santos de los Últimos Días, ¡Jesucristo es gozo!.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&id=p14-p15#p14"
+        texto: "Si centramos nuestra vida en el Plan de Salvación de Dios […] y en Jesucristo y Su Evangelio, podemos sentir gozo independientemente de lo que esté sucediendo —o no esté sucediendo— en nuestra vida. El gozo proviene de Él, y gracias a Él. Él es la fuente de todo gozo. Lo sentimos en Navidad cuando cantamos “¡Regocijad! Jesús nació” [Himnos, nro. 123], y podemos sentirlo el resto del año. Para los Santos de los Últimos Días, ¡Jesucristo es gozo!",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&id=p15#p15"
         // ❌ REEMPLAZADA: aunque el discurso de Oaks citado es real ("El gran plan de salvación",
         // enero de 1994), el TEXTO real de esa página (85) habla de celebrar la decisión de Eva,
         // no de "la Caída como paso planificado" — misma fuente, texto distinto (fabricación).
@@ -1070,7 +1070,8 @@ export const leccionesSemana7_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder D. Todd Christofferson",
         fuente: "\"Reconocer la mano de Dios en nuestras bendiciones diarias\", Liahona, enero de 2012, pág. 27",
-        texto: "El hecho de que me vi obligado a buscar la ayuda de Dios casi a diario por un extenso período de años me enseñó la manera de orar verdaderamente y de recibir respuestas a esas oraciones."
+        texto: "El hecho de que me vi obligado a buscar la ayuda de Dios casi a diario por un extenso período de años me enseñó la manera de orar verdaderamente y de recibir respuestas a esas oraciones.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2012/01/recognizing-gods-hand-in-our-daily-blessings?lang=spa&id=p16#p16"
         // ❌ REEMPLAZADA: la cita original de Kimball no aparece en la lección real.
       },
       {
@@ -1176,9 +1177,9 @@ export const leccionesSemana8_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Hermana Joy D. Jones",
+        autor: "Presidenta Joy D. Jones",
         fuente: "\"Por Él\", Liahona, noviembre de 2018, pág. 50",
-        texto: "¿Recuerdan alguna ocasión en la que con amor tendieron una mano en un esfuerzo sincero para ayudar a alguien que lo necesitaba, y sintieron que sus esfuerzos pasaban desapercibidos? En aquel momento, pueden recordar las palabras del rey Benjamín: 'solo estáis al servicio de vuestro Dios'. En lugar de edificar resentimiento, a través del servicio podemos edificar una relación más perfecta con nuestro Padre Celestial.",
+        texto: "¿Recuerdan alguna ocasión en la que con amor tendieron una mano en un esfuerzo sincero para ayudar a alguien que lo necesitaba, y sintieron que sus esfuerzos pasaban desapercibidos o tal vez no eran valorados y ni siquiera deseados? […] Puede que las palabras del rey Benjamín reemplacen su duda y aun su dolor: “… solo estáis al servicio de vuestro Dios”. […] En lugar de edificar resentimiento, a través del servicio podemos edificar una relación más perfecta con nuestro Padre Celestial.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/for-him?lang=spa&id=p12-p13#p12"
         // ✅ Verificada: texto y fuente coinciden exactamente con la lección real (171-teacher).
       },
@@ -1285,7 +1286,7 @@ export const leccionesSemana8_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
+        autor: "Élder Russell M. Nelson",
         fuente: "Liahona, Mayo de 2014, pág. 30",
         texto: "No se puede ignorar la verdad espiritual, especialmente los mandamientos divinos. Observar los mandamientos divinos nos brinda bendiciones, ¡siempre! Quebrantar los mandamientos divinos supone una pérdida de bendiciones, ¡cada vez que los quebrantamos!",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/let-your-faith-show?lang=spa&id=p15#p15"
@@ -1394,7 +1395,8 @@ export const leccionesSemana8_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Neil L. Andersen",
         fuente: "\"Heridos\", Liahona, noviembre de 2018",
-        texto: "Nuestro Señor y Salvador, Jesucristo, mediante el incalculable don de Su expiación, no solo nos salva de la muerte y nos ofrece, por medio del arrepentimiento, el perdón de nuestros pecados, sino que también está listo para salvarnos de las penas y los dolores de nuestras almas heridas."
+        texto: "Nuestro Señor y Salvador, Jesucristo, mediante el incalculable don de Su expiación, no solo nos salva de la muerte y nos ofrece, por medio del arrepentimiento, el perdón de nuestros pecados, sino que también está listo para salvarnos de las penas y los dolores de nuestras almas heridas.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/wounded?lang=spa&id=p23#p23"
         // ❌ REEMPLAZADA: la cita de Wilcox era real, pero pertenecía a la lección "Mosíah 3:19"
         // (181-teacher), no a esta ("mosiah-3-1-17", 175-teacher) — estaba en la lección equivocada.
         // Esta cita de Andersen sí es de esta lección real.
@@ -1403,7 +1405,8 @@ export const leccionesSemana8_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Robert D. Hales",
         fuente: "\"La expiación del Salvador: El cimiento del verdadero cristianismo\", Liahona, abril de 2017",
-        texto: "Solo Jesucristo podía llevar a cabo el sacrificio expiatorio por haber nacido de una madre mortal, María, y haber recibido el poder de vida de Su Padre. Debido a ese poder de vida, Él venció la muerte, se hizo nulo el poder del sepulcro, y Él se convirtió en nuestro Salvador y Mediador."
+        texto: "Solo Jesucristo podía llevar a cabo el sacrificio expiatorio por haber nacido de una madre mortal, María, y haber recibido el poder de vida de Su Padre. Debido a ese poder de vida, Él venció la muerte, se hizo nulo el poder del sepulcro, y Él se convirtió en nuestro Salvador y Mediador.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2017/04/the-saviors-atonement-foundation-of-true-christianity?lang=spa&id=p33#p33"
         // ⚠️ CORREGIDA: el texto ya era prácticamente genuino, pero la fuente original decía
         // "noviembre de 2009, pág. 16" — la fuente real es "abril de 2017" (mismo autor, misma cita).
       },
@@ -1584,7 +1587,7 @@ export const leccionesSemana9_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente: "\"Ven, sígueme\", Liahona, mayo de 2019, pág. 90",
-        texto: "Si ni siquiera están seguros de si creen en Dios, comiencen con eso. Comprendan que cuando hay ausencia de experiencias con Dios, uno puede dudar de la existencia de Dios. Así que hagan lo necesario para empezar a tener experiencias con Él. Pídanle que les diga si realmente está allí, si realmente los conoce. Pregúntenle qué siente Él por ustedes y luego, escuchen.",
+        texto: "Si ni siquiera están seguros si creen en Dios, comiencen con eso. Comprendan que cuando hay ausencia de experiencias con Dios, uno puede dudar de la existencia de Dios. Así que, hagan lo necesario para empezar a tener experiencias con Él. Sean humildes. En oración pidan tener ojos para ver la mano de Dios en su vida y en el mundo que los rodea. Pídanle que les diga si realmente está allí, si realmente los conoce. Pregúntenle qué siente Él por ustedes y luego, escuchen.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/46nelson?lang=spa&id=p33#p33"
       },
       {

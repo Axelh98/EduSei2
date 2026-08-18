@@ -66,17 +66,45 @@ export const alma23Questions: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué efecto tuvo el sacrificio de los anti-nefi-lehitas en sus atacantes?",
+    question: "Bruno tomó una mala decisión hace tiempo y ahora sus amigos lo siguen molestando por eso, aunque él ya cambió. ¿Qué le enseña el ejemplo de los anti-nefi-lehitas sobre dejar el pasado atrás?",
     type: "multiple",
     options: [
-      "No tuvo ningún efecto sobre los atacantes",
-      "Muchos de los lamanitas atacantes se convirtieron al ver su fe",
-      "Todos los atacantes huyeron sin ningún cambio interno",
-      "Los atacantes se volvieron aún más violentos después",
+      "Que un cambio genuino puede ser tan real y firme como enterrar completamente las viejas armas de su vida pasada",
+      "Que debe seguir defendiéndose de las burlas de sus amigos con las mismas actitudes de antes",
+      "Que el pasado siempre define completamente el futuro de una persona",
+      "Que solo debe cambiar si sus amigos lo aceptan de nuevo",
+    ],
+    correctAnswer: 0,
+    reference: "Alma 24:15-19",
+    explanation: "El entierro de las armas muestra que un cambio genuino puede ser tan real y firme como dejar completamente atrás la vida pasada."
+  },
+  {
+    id: 6,
+    question: "Victoria ve que un compañero es agredido injustamente y siente ganas de defenderlo con violencia. ¿Qué principio de los anti-nefi-lehitas podría aplicar en su reacción?",
+    type: "multiple",
+    options: [
+      "Que la violencia siempre es la única forma efectiva de defender a otros",
+      "Que a veces la firmeza pacífica y el testimonio silencioso pueden influir más que la violencia",
+      "Que debe ignorar la situación por completo para evitar problemas",
+      "Que solo los adultos pueden intervenir en este tipo de situaciones",
     ],
     correctAnswer: 1,
+    reference: "Alma 24:21-27",
+    explanation: "El ejemplo de los anti-nefi-lehitas muestra que la firmeza pacífica y el testimonio silencioso pueden influir más que la violencia."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta el entierro de las armas con la conversión de muchos de sus atacantes lamanitas?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "La conversión de los atacantes ocurrió por completo al azar",
+      "El sacrificio pacífico de los anti-nefi-lehitas se convirtió en un testimonio que llevó a otros a la conversión",
+      "El entierro de las armas provocó más violencia por parte de los atacantes",
+    ],
+    correctAnswer: 2,
     reference: "Alma 24:25-27",
-    explanation: "Muchos de los lamanitas atacantes se convirtieron al presenciar la fe de los anti-nefi-lehitas."
+    explanation: "El sacrificio pacífico de los anti-nefi-lehitas se convirtió en un testimonio que llevó a muchos de sus atacantes a la conversión."
   },
 ];
 
@@ -142,17 +170,45 @@ export const alma26Questions: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué nos enseña Alma 26:27 sobre servir a Dios?",
+    question: "Gael ayudó a un amigo a acercarse más a Dios y ahora se siente muy feliz por eso, pero teme que sea orgullo. ¿Qué le aclara Alma 26 sobre el gozo de Ammón?",
     type: "multiple",
     options: [
-      "Que cuando estamos al servicio de Dios, Él nos sostiene en nuestras pruebas",
-      "Que servir a Dios es siempre una carga pesada de llevar",
-      "Que servir a Dios garantiza una vida siempre fácil",
-      "Que no vale realmente la pena dedicarse a Su servicio",
+      "Que sentir gozo por ayudar a otros siempre es una forma de orgullo",
+      "Que el gozo por ver a otros convertirse es apropiado cuando se atribuye el mérito a Dios, no a uno mismo",
+      "Que debe ocultar su alegría para parecer más humilde",
+      "Que solo los misioneros de tiempo completo pueden sentir ese tipo de gozo",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 26:11-16",
+    explanation: "El gozo por ver a otros convertirse es apropiado cuando reconocemos que el mérito es de Dios, no nuestro."
+  },
+  {
+    id: 6,
+    question: "Emilia recuerda cómo era su vida antes de acercarse más a su fe y a veces se siente avergonzada de ese pasado. ¿Qué actitud de Ammón hacia los lamanitas conversos le ayudaría?",
+    type: "multiple",
+    options: [
+      "Reconocer que el cambio es posible para cualquiera, sin importar cuán lejos haya estado del camino correcto",
+      "Evitar hablar de su pasado con cualquier persona",
+      "Sentir que su pasado la descalifica para servir a otros",
+      "Comparar su pasado con el de otras personas para sentirse mejor",
     ],
     correctAnswer: 0,
-    reference: "Alma 26:27",
-    explanation: "Cuando estamos al servicio de Dios, Él nos sostiene en nuestras pruebas y aflicciones."
+    reference: "Alma 26:23-25",
+    explanation: "Ammón reconoció que el cambio es posible para cualquiera, sin importar cuán lejos haya estado del camino correcto."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre el gozo de Ammón y el reconocimiento de que el éxito de su misión vino del poder de Dios?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "El verdadero gozo espiritual nace de reconocer que la obra fue posible gracias al poder de Dios, no al propio mérito",
+      "El gozo de Ammón era completamente independiente de su fe en Dios",
+      "Solo el reconocimiento del poder de Dios importa, sin relación con el gozo personal",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 26:12",
+    explanation: "El verdadero gozo espiritual de Ammón nació de reconocer que el éxito de su misión vino del poder de Dios."
   },
 ];
 
@@ -218,17 +274,45 @@ export const alma29Questions: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué nos enseña este capítulo sobre nuestros deseos?",
+    question: "Joaquín desearía tener el talento de otro compañero para servir mejor en la Iglesia, en lugar de aceptar sus propias capacidades. ¿Qué le enseña Alma 29 sobre esto?",
     type: "multiple",
     options: [
-      "Que nuestros deseos determinan nuestro destino eterno",
-      "Que nuestros deseos en realidad no importan demasiado",
-      "Que solo debemos aspirar a cosas de tipo material",
-      "Que Dios ignora por completo lo que deseamos",
+      "Que debe seguir deseando tener otros talentos hasta conseguirlos",
+      "Que solo las personas con talentos especiales pueden servir de verdad",
+      "Que debemos contentarnos con el llamamiento y los talentos que Dios nos ha dado, en lugar de desear ser otra persona",
+      "Que no vale la pena esforzarse si no tiene el talento de otros",
     ],
-    correctAnswer: 0,
-    reference: "Alma 29:4-5",
-    explanation: "Este capítulo enseña que nuestros deseos determinan nuestro destino eterno."
+    correctAnswer: 2,
+    reference: "Alma 29:3-6",
+    explanation: "Alma enseña a contentarnos con el llamamiento y los talentos que Dios nos ha dado."
+  },
+  {
+    id: 6,
+    question: "Martina siente que su forma de servir (con un talento más silencioso) no es tan valiosa como la de otros más visibles. ¿Qué principio de Alma 29:3 le ayudaría?",
+    type: "multiple",
+    options: [
+      "Que solo el servicio visible tiene verdadero valor ante Dios",
+      "Que Dios da a cada persona según lo que necesita para cumplir Su propósito, y todo servicio genuino tiene valor",
+      "Que debe cambiar su forma de servir para ser más notada",
+      "Que su forma de servir no tiene ningún valor real",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 29:3",
+    explanation: "Dios da a cada persona según lo que necesita para cumplir Su propósito, y todo servicio genuino tiene valor."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan el deseo de Alma de ser un ángel y su enseñanza sobre el albedrío y los deseos del corazón?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Su deseo de ser ángel contradice su enseñanza sobre el albedrío",
+      "Alma usa su propio deseo como ejemplo para enseñar que Dios concede a cada persona según lo que realmente desea",
+      "Solo la enseñanza sobre el albedrío tiene importancia doctrinal en este capítulo",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 29:1-5",
+    explanation: "Alma usa su propio deseo como ejemplo para enseñar que Dios concede a cada persona según lo que realmente desea."
   },
 ];
 
@@ -292,17 +376,44 @@ export const evaluacionAprendizaje5Questions: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué has aprendido sobre el poder de la palabra de Dios?",
+    question: "Benjamín siente que este semestre aprendió mucho pero no sabe cómo demostrarlo en su vida diaria. ¿Qué le sugerirías basándote en la autoevaluación?",
     type: "multiple",
     options: [
-      "Que es más poderosa que la espada para cambiar corazones",
-      "Que en realidad no tiene ningún poder real",
-      "Que solamente funciona en algunas ocasiones específicas",
-      "Que es menos importante que otras herramientas de enseñanza",
+      "Buscar aplicar en decisiones concretas los principios aprendidos, no solo recordarlos para un examen",
+      "Memorizar más datos para el próximo examen",
+      "Esperar a que otros noten su conocimiento sin hacer nada más",
+      "Comparar sus notas con las de sus compañeros",
     ],
     correctAnswer: 0,
-    reference: "Alma 31:5",
-    explanation: "Hemos aprendido que la palabra de Dios es más poderosa que la espada para cambiar corazones."
+    explanation: "Lo ideal es buscar aplicar en decisiones concretas los principios aprendidos, no solo recordarlos para un examen."
+  },
+  {
+    id: 6,
+    question: "Julieta admira el ejemplo de los hijos de Mosíah pero siente que su propia vida es muy distinta a la de ellos. ¿Cómo podría aplicar esa lección a su realidad?",
+    type: "multiple",
+    options: [
+      "Copiar exactamente los mismos métodos que ellos usaron",
+      "Buscar su propia forma de preparación espiritual y servicio humilde, adaptada a su situación actual",
+      "Esperar a tener una experiencia dramática como la de ellos antes de servir",
+      "Sentir que su situación no le permite aplicar ninguna de esas lecciones",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 17-26",
+    explanation: "Podemos buscar nuestra propia forma de preparación espiritual y servicio humilde, adaptada a nuestra situación actual."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta las lecciones sobre el poder de la palabra de Dios con el ejemplo de los anti-nefi-lehitas?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Solo la enseñanza sobre la palabra de Dios tiene relevancia práctica",
+      "Ambas muestran que la palabra de Dios y el testimonio vivido pueden transformar corazones de forma más poderosa que la fuerza",
+      "El ejemplo de los anti-nefi-lehitas contradice la enseñanza sobre el poder de la palabra",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 23-31",
+    explanation: "Ambas muestran que la palabra de Dios y el testimonio vivido pueden transformar corazones más poderosamente que la fuerza."
   },
 ];
 
@@ -372,17 +483,45 @@ export const alma30_1_29Questions: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué nos enseña la historia de Korihor sobre los anticristos modernos?",
+    question: "Thiago tiene un compañero que dice que la religión es solo una forma de controlar a las personas. ¿Qué le enseña la historia de Korihor sobre este tipo de argumentos?",
     type: "multiple",
     options: [
-      "Que los anticristos ya no existen en el mundo actual",
-      "Que todos los anticristos son evidentes y fáciles de reconocer",
-      "Que debemos estar alertas contra enseñanzas que niegan a Cristo y la expiación",
-      "Que este tipo de enseñanzas en realidad no son peligrosas",
+      "Que esos argumentos siempre son completamente ciertos",
+      "Que las enseñanzas que niegan a Cristo pueden sonar convincentes, pero conducen a las personas lejos de la verdad",
+      "Que debe evitar cualquier conversación sobre el tema con su compañero",
+      "Que la religión efectivamente no tiene ningún valor real",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 30:12-18",
+    explanation: "Las enseñanzas que niegan a Cristo, como las de Korihor, pueden sonar convincentes pero conducen a las personas lejos de la verdad."
+  },
+  {
+    id: 6,
+    question: "Renata se siente presionada a dudar de su fe porque alguien le dice que 'nadie puede probar que Dios existe'. ¿Qué principio de este relato le daría confianza?",
+    type: "multiple",
+    options: [
+      "Que debe abandonar su fe hasta tener una prueba física",
+      "Que nunca debe hablar de su fe con nadie que dude",
+      "Que la fe se fortalece con evidencias espirituales y el testimonio de otros, no solo con pruebas físicas",
+      "Que la existencia de Dios no tiene ninguna forma de evidenciarse",
     ],
     correctAnswer: 2,
-    reference: "Alma 30:6-12",
-    explanation: "Debemos estar alertas contra enseñanzas modernas que niegan a Cristo y la expiación."
+    reference: "Alma 30:39-44",
+    explanation: "La fe se fortalece con evidencias espirituales y el testimonio de otros, no solo con pruebas físicas."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre lo que enseñaba Korihor y la forma en que justificaba su derecho a enseñarlo?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Korihor usaba la idea de libertad individual para justificar una doctrina que en realidad alejaba a las personas de Dios",
+      "Su justificación sobre la libertad era completamente independiente de su doctrina",
+      "Korihor no tenía ninguna justificación para sus enseñanzas",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 30:12-24",
+    explanation: "Korihor usaba la idea de libertad individual para justificar una doctrina que en realidad alejaba a las personas de Dios."
   },
 ];
 
@@ -448,17 +587,45 @@ export const alma30_30_60Questions: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cuál fue el fin trágico de Korihor?",
+    question: "Bautista quiere pruebas contundentes antes de creer en algo relacionado con su fe. ¿Qué le enseña el pedido de señal de Korihor a Alma?",
     type: "multiple",
     options: [
-      "Murió pisoteado mientras mendigaba",
-      "Se hizo muy rico gracias a sus enseñanzas",
-      "Se arrepintió sinceramente y fue restaurado a la iglesia",
-      "Vivió el resto de su vida feliz y en paz",
+      "Que pedir señales de forma desafiante puede ser señal de perversidad, en lugar de un verdadero deseo de creer",
+      "Que pedir señales siempre es la mejor forma de fortalecer la fe",
+      "Que Dios está obligado a dar una señal a quien la pida",
+      "Que Korihor tenía razón al exigir una señal",
     ],
     correctAnswer: 0,
-    reference: "Alma 30:59",
-    explanation: "Korihor terminó siendo pisoteado hasta morir mientras mendigaba entre los zoramitas."
+    reference: "Alma 30:43-45",
+    explanation: "Pedir señales de forma desafiante puede ser señal de perversidad, en lugar de un verdadero deseo de creer."
+  },
+  {
+    id: 6,
+    question: "Delfina se pregunta qué evidencias reales sostienen la fe en Dios. ¿Qué ejemplos dio Alma a Korihor sobre esto?",
+    type: "multiple",
+    options: [
+      "Solamente su propia opinión personal",
+      "El testimonio de los profetas, las escrituras, la creación misma y el testimonio de otras personas",
+      "Ningún tipo de evidencia concreta",
+      "Únicamente argumentos filosóficos complejos",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 30:44",
+    explanation: "Alma citó el testimonio de los profetas, las escrituras, la creación misma y el testimonio de otras personas."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta la confesión final de Korihor con la advertencia de Alma sobre pedir señales de manera desafiante?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Korihor nunca reconoció haber conocido la verdad",
+      "Ambas muestran que Korihor conocía la verdad desde el principio, pero eligió rechazarla hasta sufrir las consecuencias",
+      "La advertencia de Alma no tuvo relación con lo que Korihor confesó después",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 30:42-53",
+    explanation: "Ambas muestran que Korihor conocía la verdad desde el principio, pero eligió rechazarla hasta sufrir las consecuencias."
   },
 ];
 
@@ -524,17 +691,45 @@ export const alma31_1_11Questions: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué motivó a Alma a ir a los zoramitas?",
+    question: "Franco ve que un grupo de compañeros se ha alejado de la fe y le preocupa profundamente. ¿Qué ejemplo de Alma podría seguir para ayudarlos?",
     type: "multiple",
     options: [
-      "Preocupación por sus almas y temor de que su iniquidad destruyera al pueblo",
-      "Simple curiosidad por conocer sus costumbres",
-      "Una obligación legal impuesta por el gobierno",
-      "El deseo de obtener beneficios económicos",
+      "Ir hacia ellos con amor genuino, llevando la palabra de Dios como su principal herramienta",
+      "Alejarse de ellos para no ser influenciado por sus decisiones",
+      "Exigirles que regresen a la fe sin ninguna explicación",
+      "Esperar a que ellos busquen ayuda por sí mismos sin intervenir",
     ],
     correctAnswer: 0,
-    reference: "Alma 31:2",
-    explanation: "Le motivó la preocupación por las almas de los zoramitas y el temor de que su iniquidad destruyera al pueblo."
+    reference: "Alma 31:1-6",
+    explanation: "Alma se acercó a los zoramitas con amor genuino, llevando la palabra de Dios como su principal herramienta."
+  },
+  {
+    id: 6,
+    question: "Milagros siente que debe llevar 'pruebas fuertes' para convencer a alguien de la verdad. ¿Qué le enseña la elección de Alma de llevar solo la palabra de Dios?",
+    type: "multiple",
+    options: [
+      "Que necesita argumentos más agresivos para convencer a otros",
+      "Que la palabra de Dios, compartida con sinceridad, puede ser más poderosa que cualquier otro argumento",
+      "Que debe evitar compartir su fe si no tiene pruebas contundentes",
+      "Que la palabra de Dios no es suficiente sin apoyo adicional",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 31:5",
+    explanation: "La palabra de Dios, compartida con sinceridad, puede ser más poderosa que cualquier otro argumento."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre la preocupación de Alma por los zoramitas y su elección de llevar la palabra de Dios como herramienta principal?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Alma prefería usar la fuerza en lugar de la palabra de Dios",
+      "Su elección de llevar la palabra de Dios no tuvo relación con su preocupación por ellos",
+      "Su amor genuino por las almas de los zoramitas lo llevó a confiar en el poder transformador de la palabra de Dios",
+    ],
+    correctAnswer: 3,
+    reference: "Alma 31:1-6",
+    explanation: "El amor genuino de Alma por las almas de los zoramitas lo llevó a confiar en el poder transformador de la palabra de Dios."
   },
 ];
 
@@ -600,16 +795,44 @@ export const alma31_12_38Questions: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué pidió Alma por sus compañeros en su oración?",
+    question: "Santino ve que algunos compañeros oran en público solo para que otros los admiren. ¿Qué corrige Alma 31 sobre este tipo de oración?",
     type: "multiple",
     options: [
-      "Riquezas materiales para asegurar su bienestar",
-      "Que huyeran de inmediato de los zoramitas",
-      "Fortaleza para soportar las aflicciones y éxito para llevar almas a Cristo",
-      "Venganza contra los zoramitas por su rechazo",
+      "Que ese tipo de oración es la forma correcta de mostrar devoción",
+      "Que la oración repetitiva y orgullosa, como la de los zoramitas, no refleja una relación sincera con Dios",
+      "Que orar en público siempre es señal de una fe fuerte",
+      "Que no importa la actitud con la que se ore, solo las palabras usadas",
     ],
-    correctAnswer: 2,
-    reference: "Alma 31:32-35",
-    explanation: "Alma pidió fortaleza para soportar las aflicciones y éxito para llevar almas a Cristo."
+    correctAnswer: 1,
+    reference: "Alma 31:15-18",
+    explanation: "La oración repetitiva y orgullosa de los zoramitas no reflejaba una relación sincera con Dios."
+  },
+  {
+    id: 6,
+    question: "Pilar quiere aprender a orar de manera más genuina por las personas que le preocupan. ¿Qué ejemplo de la oración de Alma podría seguir?",
+    type: "multiple",
+    options: [
+      "Orar con humildad y sinceridad, suplicando por las almas de quienes se han apartado de la verdad",
+      "Orar solo por sus propias necesidades personales",
+      "Repetir las mismas palabras que otros usan en sus oraciones",
+      "Evitar orar por personas que no comparten su fe",
+    ],
+    correctAnswer: 0,
+    reference: "Alma 31:31-35",
+    explanation: "Podemos orar con humildad y sinceridad, suplicando por las almas de quienes se han apartado de la verdad, como hizo Alma."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan el Rameúmptom de los zoramitas y la oración humilde de Alma por sus compañeros?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "El contraste muestra la diferencia entre una religiosidad orgullosa y una fe genuina centrada en el amor por los demás",
+      "Ambos representan exactamente el mismo tipo de devoción religiosa",
+      "El Rameúmptom era en realidad un ejemplo positivo de oración",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 31:12-35",
+    explanation: "El contraste entre el Rameúmptom y la oración de Alma muestra la diferencia entre una religiosidad orgullosa y una fe genuina."
   },
 ];

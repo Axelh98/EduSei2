@@ -30,7 +30,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Presidente Dallin H. Oaks",
         fuente: "Liahona, noviembre de 2019, pág. 26",
         texto: "Sabemos por las Escrituras que, después de que nuestro cuerpo muere, continuamos viviendo como espíritus en el mundo de los espíritus. Las Escrituras también enseñan que ese mundo de los espíritus está dividido entre quienes han sido 'rectos' o 'justos' durante la vida y quienes han sido inicuos.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2019/11/17oaks?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2019/11/17oaks?lang=spa&id=p5#p5"
         // Discurso "Confía en el Señor", Conferencia General de octubre de 2019 (entonces Primer Consejero de la Primera Presidencia).
         // Es exactamente la cita que usa el manual oficial 2024 (en español) para esta lección.
       },
@@ -76,7 +76,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Élder Marcus B. Nash",
         fuente: "Liahona, noviembre de 2006",
         texto: "Estar 'sin Dios en el mundo', o sea, negarse a vivir de acuerdo con Su Evangelio y por tanto carecer de la compañía del Espíritu, equivale a encontrarse en un estado contrario a la felicidad.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2006/11/the-great-plan-of-happiness?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2006/11/the-great-plan-of-happiness?lang=spa&id=p8#p8"
         // Discurso "El gran plan de felicidad", Conferencia General de octubre de 2006, comentando directamente Alma 41:10-11.
       },
       {
@@ -126,7 +126,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Élder D. Todd Christofferson",
         fuente: "Liahona, mayo de 2010, pág. 33",
         texto: "Las Escrituras ensanchan nuestra memoria al ayudarnos a recordar siempre al Señor y nuestra relación con Él y con el Padre. Nos recuerdan lo que sabíamos en nuestra vida premortal, y ensanchan nuestra memoria en otro sentido al enseñarnos acerca de épocas, personas y acontecimientos que no experimentamos personalmente.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2010/05/saturday-afternoon-session/the-blessing-of-scripture?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2010/05/saturday-afternoon-session/the-blessing-of-scripture?lang=spa&id=p10#p10"
         // Discurso "La bendición de las Escrituras", Conferencia General de abril de 2010.
       },
       {
@@ -171,7 +171,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Presidente Gordon B. Hinckley",
         fuente: "Enseñanzas de los Presidentes de la Iglesia: Gordon B. Hinckley, cap. 12",
         texto: "La felicidad se halla en guardar los mandamientos. Para un Santo de los Últimos Días, el transgredir dichos mandamientos solo puede ocasionar desdicha.",
-        link: "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-gordon-b-hinckley/chapter-12-obedience-simply-live-the-gospel?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-gordon-b-hinckley/chapter-12-obedience-simply-live-the-gospel?lang=spa&id=p21#p21"
       },
       {
         tipo: "escrituras",
@@ -220,7 +220,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Élder David A. Bednar",
         fuente: "Liahona, noviembre de 2013, pág. 20",
         texto: "El pago íntegro del diezmo es mucho más que un deber; es un paso importante en el proceso de santificación personal. [...] Les testifico que al obedecer esta ley del Señor, se abrirán las ventanas de los cielos para ustedes.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-windows-of-heaven?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-windows-of-heaven?lang=spa&id=p31-p32#p31"
         // Discurso "Las ventanas de los cielos", Conferencia General de octubre de 2013.
         // Es exactamente la cita que usa el manual oficial 2024 (en español) para esta lección.
       },
@@ -266,7 +266,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Élder D. Todd Christofferson",
         fuente: "Liahona, mayo de 2010, pág. 34",
         texto: "La verdadera felicidad no yace en negar la justicia de Dios o en tratar de evadir las consecuencias del pecado, sino en el arrepentimiento y el perdón mediante la gracia expiatoria del Hijo de Dios.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2010/05/saturday-afternoon-session/the-blessing-of-scripture?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2010/05/saturday-afternoon-session/the-blessing-of-scripture?lang=spa&id=p14#p14"
         // Discurso "La bendición de las Escrituras", Conferencia General de abril de 2010, comentando directamente Alma 42.
       },
       {
@@ -316,7 +316,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Élder Kevin S. Hamilton",
         fuente: "Liahona, mayo de 2022, pág. 52",
         texto: "El Salvador concibió Su expiación infinita y eterna para que nosotros en efecto pudiéramos cambiar, arrepentirnos y llegar a ser mejores. En verdad podemos nacer de nuevo. Podemos vencer hábitos, adicciones e incluso la 'disposición a obrar mal'.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/28hamilton?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/28hamilton?lang=spa&id=p23#p23"
         // Discurso "Entonces haré que las cosas débiles sean fuertes", Conferencia General de abril de 2022.
         // Es exactamente la cita que usa el manual oficial 2024 (en español) para esta lección.
       },
@@ -359,10 +359,10 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Dallin H. Oaks",
+        autor: "Élder Dallin H. Oaks",
         fuente: "Liahona, noviembre de 2009, págs. 26-27",
         texto: "El amor de Dios no sustituye Sus leyes ni Sus mandamientos, y el efecto de éstos no disminuye el propósito ni el efecto de Su amor. [...] La misericordia no puede robar a la justicia, y los que obtienen la misericordia son 'aquellos que han guardado el convenio y observado el mandamiento'.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2009/11/love-and-law?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2009/11/love-and-law?lang=spa&id=p11,p15#p11"
         // Discurso "El amor y la ley", Conferencia General de octubre de 2009.
       },
       {
@@ -411,8 +411,8 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Dale G. Renlund",
         fuente: "Liahona, mayo de 2022",
-        texto: "Un tropiezo no significa que el arrepentimiento fue inadecuado; simplemente podría reflejar debilidades humanas. Cuán reconfortante es saber que 'el Señor ve las debilidades de forma diferente a como ve la rebelión'. No debemos dudar de la capacidad del Salvador para ayudarnos con nuestras debilidades, porque cuando Él habla de debilidades, siempre lo hace con misericordia.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/36renlund?lang=spa"
+        texto: "Un tropiezo no significa que el arrepentimiento fue inadecuado, simplemente podría reflejar debilidades humanas. Cuán reconfortante es saber que “el Señor ve las debilidades de forma diferente a como ve la rebelión”. No debemos dudar de la capacidad del Salvador para ayudarnos con nuestras debilidades, porque “cuando [Él] habla de debilidades, siempre lo hace con misericordia”.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2022/04/36renlund?lang=spa&id=p18#p18"
         // Discurso "Su naturaleza divina y destino eterno", Conferencia General de abril de 2022.
       },
       {
@@ -460,8 +460,8 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, noviembre de 2020",
-        texto: "Incluso cuando las cosas iban bien, el capitán Moroni continuó preparando a su pueblo; nunca dejó de hacerlo; nunca se dormía en los laureles. El adversario nunca deja de atacar, así que nunca podemos dejar de prepararnos.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2020/11/37nelson?lang=spa"
+        texto: "Incluso cuando las cosas iban bien, el capitán Moroni continuó preparando a su pueblo; nunca dejó de hacerlo; nunca se dormía en los laureles. […] El adversario nunca deja de atacar, así que nunca podemos dejar de prepararnos.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2020/11/37nelson?lang=spa&id=p30-p31#p30"
         // Discurso "Acoger el futuro con fe", Conferencia General de octubre de 2020.
         // Es exactamente la cita que usa el manual oficial 2024 para esta lección.
       },
@@ -507,7 +507,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, noviembre de 2018, págs. 87-88",
         texto: "Cuando se trata de los apodos de la Iglesia, tales como 'la Iglesia SUD', 'la Iglesia mormona' o 'la Iglesia de los Santos de los Últimos Días', lo más importante en esos nombres es la ausencia del nombre del Salvador. Quitar el nombre del Señor de la Iglesia del Señor es una gran victoria de Satanás.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa&id=p15#p15"
         // Discurso "El nombre correcto de la Iglesia", Conferencia General de octubre de 2018.
         // Es exactamente la cita que usa el manual oficial 2024 para esta lección.
       },
@@ -558,7 +558,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Élder Neil L. Andersen",
         fuente: "Liahona, noviembre de 2020",
         texto: "Hay muchos en la tierra que saben muy poco de Jesucristo y, en algunas partes del mundo donde Su nombre se ha proclamado durante siglos, la fe en Jesucristo está disminuyendo.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2020/11/45andersen?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2020/11/45andersen?lang=spa&id=p4#p4"
         // Discurso "Hablamos de Cristo", Conferencia General de octubre de 2020.
         // Es una de las citas que usa el manual oficial 2024 para esta lección, junto al estandarte de la libertad.
       },
@@ -604,7 +604,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Élder Donald L. Hallstrom",
         fuente: "Liahona, mayo de 2014",
         texto: "La única respuesta cabal a la pregunta que hizo Jesucristo: '¿Qué clase de hombres habéis de ser?', es la que Él dio en forma concisa y con profundidad: 'Aun como yo soy' (3 Nefi 27:27). La invitación 'venid a Cristo, y perfeccionaos en él' (Moroni 10:32) requiere y supone que hagamos cambios.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/what-manner-of-men?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/what-manner-of-men?lang=spa&id=p17#p17"
         // Discurso "¿Qué clase de hombres?", Conferencia General de abril de 2014.
       },
       {
@@ -648,8 +648,8 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Ulisses Soares",
         fuente: "Liahona, noviembre de 2020, pág. 84",
-        texto: "Cuando resistimos las tentaciones pequeñas, las cuales a menudo vienen inesperadamente en nuestra vida, estamos mejor equipados para evitar las transgresiones más serias.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=spa"
+        texto: "Cuando resistimos las pequeñas tentaciones, las cuales a menudo vienen inesperadamente en nuestra vida, estamos mejor equipados para evitar las transgresiones más serias.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=spa&id=p12#p12"
         // Discurso "Buscar a Cristo en todo pensamiento", Conferencia General de octubre de 2020.
         // Es una de las citas que usa el manual oficial 2024 para esta lección, sobre ceder "un poco" a las tácticas de Amalickíah.
       },
@@ -695,7 +695,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Élder Gary E. Stevenson",
         fuente: "Liahona, mayo de 2017, págs. 117-120",
         texto: "El Espíritu Santo advierte, el Espíritu Santo consuela y el Espíritu Santo testifica.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2017/05/sunday-afternoon-session/how-does-the-holy-ghost-help-you?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2017/05/sunday-afternoon-session/how-does-the-holy-ghost-help-you?lang=spa&id=p35#p35"
         // Discurso "¿Cómo te ayuda el Espíritu Santo?", Conferencia General de abril de 2017, relevante para la santificación por el Espíritu Santo mencionada en 3 Nefi 27:20.
       },
       {
@@ -737,10 +737,10 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
+        autor: "Élder Russell M. Nelson",
         fuente: "Liahona, mayo de 2014",
         texto: "Aumenten su fe día a día mientras caminan hacia su destino eterno. ¡Proclamen su fe! ¡Manifiesten su fe!",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/let-your-faith-show?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/04/let-your-faith-show?lang=spa&id=p27#p27"
         // Discurso "Manifiesten su fe", Conferencia General de abril de 2014 (entonces era del Cuórum de los Doce Apóstoles).
       },
       {
@@ -785,7 +785,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Élder Marvin J. Ashton",
         fuente: "Liahona, julio de 1992, pág. 21",
         texto: "La caridad verdadera no es algo que se da; es algo que se adquiere y que llega a formar parte de nuestro ser; y cuando la virtud de la caridad se graba en nuestro corazón, nunca más volvemos a ser los mismos. [...] La caridad es aceptar las diferencias, debilidades y faltas de los demás; es tener paciencia con alguien que nos haya fallado.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/1992/04/the-tongue-can-be-a-sharp-sword?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1992/04/the-tongue-can-be-a-sharp-sword?lang=spa&id=p17-p18#p17"
         // Discurso "La lengua puede ser una espada aguda", Conferencia General de abril de 1992.
       },
       {
@@ -835,7 +835,7 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
         autor: "Presidente Boyd K. Packer",
         fuente: "Liahona, noviembre de 2013, págs. 26-28",
         texto: "Hagan de la lectura de las Escrituras una parte de su rutina habitual y las bendiciones vendrán. En las Escrituras hay una voz de advertencia, pero también mucho sustento.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-key-to-spiritual-protection?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-key-to-spiritual-protection?lang=spa&id=p30#p30"
         // Discurso "La clave para la protección espiritual", Conferencia General de octubre de 2013.
       },
       {
@@ -863,9 +863,9 @@ export const leccionesResumidasLM_Parte7: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Jeffrey R. Holland",
-        fuente: "Liahona, julio de 1999, pág. 34",
-        texto: "La verdadera caridad quedó demostrada en forma perfecta y pura en el inagotable y supremo amor expiatorio de Cristo por nosotros. Esa es la caridad —Su amor puro por nosotros— sin la cual no seríamos nada, no tendríamos esperanza y seríamos hombres y mujeres de lo más desahuciados.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/1999/04/true-followers?lang=spa"
+        fuente: "Jeffrey R. Holland, Christ and the New Covenant: The Messianic Message of the Book of Mormon, 1997, pág. 336; citado en el Manual del maestro de Seminario del Libro de Mormón (2024), Moroni 7:44–48",
+        texto: "La verdadera caridad se ha visto una sola vez. Se demuestra de forma perfecta y pura en el infalible y supremo amor expiatorio de Cristo por nosotros. […] Es en Cristo, como se demostró, que \"la caridad nunca deja de ser\". Esa es la caridad —Su amor puro por nosotros— sin la cual no seríamos nada, no tendríamos esperanza y seríamos los hombres y mujeres más desgraciados de todos.",
+        link: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/50-moroni-7-9/503-teacher?lang=spa&id=p50#p50"
         // Discurso "Verdaderos seguidores", Conferencia General de abril de 1999 (entonces era del Cuórum de los Doce Apóstoles).
       },
       {

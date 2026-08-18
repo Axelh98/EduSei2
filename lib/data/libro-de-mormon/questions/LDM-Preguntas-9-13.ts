@@ -66,17 +66,45 @@ export const mosiah3_19Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cómo podemos volvernos como un niño según este versículo?",
+    question: "Agustín se enoja fácilmente cuando algo no sale como él quiere, y luego se arrepiente. Según Mosíah 3:19, ¿qué debería buscar para cambiar esa tendencia?",
     type: "multiple",
     options: [
-      "Dependiendo completamente de otros para tomar tus decisiones",
-      "Actuando sin preocuparte por las consecuencias de tus actos",
-      "Siendo sumisos, mansos, humildes, pacientes y llenos de amor",
-      "Aprendiendo todo de nuevo como si no supieras nada",
+      "Reprimir sus emociones sin buscar ningún cambio interno real",
+      "Aceptar que así es su personalidad y que no puede cambiar",
+      "Evitar a las personas que lo hacen enojar en vez de cambiar él mismo",
+      "Someterse al Espíritu Santo para despojarse de esas reacciones del hombre natural",
+    ],
+    correctAnswer: 3,
+    reference: "Mosíah 3:19",
+    explanation: "Mosíah 3:19 enseña que debemos someternos al Espíritu Santo para despojarnos del hombre natural."
+  },
+  {
+    id: 6,
+    question: "Valentina siente que ser 'buena persona' ya es suficiente y no entiende por qué necesita cambiar más. ¿Qué le enseñaría este versículo?",
+    type: "multiple",
+    options: [
+      "Que incluso las buenas intenciones necesitan un cambio de corazón guiado por el Espíritu, no solo esfuerzo propio",
+      "Que ser buena persona ya cumple con todo lo que Dios espera",
+      "Que el cambio de corazón solo aplica a personas con grandes pecados",
+      "Que la bondad natural es más importante que la guía del Espíritu",
+    ],
+    correctAnswer: 0,
+    reference: "Mosíah 3:19",
+    explanation: "El cambio de corazón requiere someternos al Espíritu, no solo tener buenas intenciones."
+  },
+  {
+    id: 7,
+    question: "Tanto el 'hombre natural' como las cualidades de un niño se mencionan en Mosíah 3:19. ¿Cuál es el principio común que los conecta?",
+    type: "multiple",
+    options: [
+      "Que ambos conceptos describen la misma etapa de la vida sin ninguna diferencia",
+      "Que solo los niños pequeños pueden realmente cambiar su naturaleza",
+      "Que debemos abandonar activamente nuestra naturaleza egoísta para adoptar cualidades como la humildad y el amor",
+      "Que el hombre natural y el niño representan ideales opuestos que no se relacionan entre sí",
     ],
     correctAnswer: 2,
     reference: "Mosíah 3:19",
-    explanation: "Volvernos como niños significa desarrollar cualidades de humildad, mansedumbre y disposición a aprender."
+    explanation: "El versículo conecta ambos conceptos: debemos abandonar la naturaleza egoísta y adoptar activamente cualidades como la humildad y el amor."
   },
 ];
 
@@ -142,17 +170,45 @@ export const ddMosiah3_19Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cómo aplicamos este versículo en nuestra vida diaria?",
+    question: "Mateo memorizó el versículo pero dice que no sabe cómo aplicarlo cuando discute con su hermano. ¿Qué le sugerirías basándote en Mosíah 3:19?",
     type: "multiple",
     options: [
-      "Memorizando el versículo sin necesidad de cambiar nada",
-      "Eligiendo activamente seguir al Espíritu en lugar de nuestros deseos egoístas",
-      "Esperando que el cambio ocurra sin ninguna decisión personal",
-      "Evitando por completo situaciones donde podamos ser tentados",
+      "Que ignore a su hermano hasta que se calme por su cuenta",
+      "Que ceda al Espíritu en lugar de reaccionar con su primer impulso de enojo",
+      "Que le demuestre que tiene la razón antes de calmarse",
+      "Que evite hablar con él hasta sentirse mejor",
     ],
     correctAnswer: 1,
     reference: "Mosíah 3:19",
-    explanation: "Lo aplicamos al elegir conscientemente seguir al Espíritu en nuestras decisiones diarias."
+    explanation: "El versículo invita a ceder al Espíritu en lugar de actuar según el primer impulso natural."
+  },
+  {
+    id: 6,
+    question: "Camila siente que ya 'nació cristiana' y no necesita cambiar nada más. ¿Qué corrige Mosíah 3:19 sobre esa idea?",
+    type: "multiple",
+    options: [
+      "Que el cambio de corazón es un proceso activo y continuo, no algo automático",
+      "Que nacer en una familia creyente ya garantiza la salvación",
+      "Que el cambio de corazón ocurre una sola vez y luego ya no requiere esfuerzo",
+      "Que solo quienes cometen grandes pecados necesitan cambiar",
+    ],
+    correctAnswer: 0,
+    reference: "Mosíah 3:19",
+    explanation: "El cambio de corazón es un proceso activo y continuo que requiere someterse al Espíritu constantemente."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan la idea de ser 'enemigo de Dios' y la de convertirnos en 'santos por la expiación' dentro de este mismo versículo?",
+    type: "multiple",
+    options: [
+      "No tienen ninguna relación real entre sí",
+      "Muestran el contraste entre nuestro estado natural y lo que podemos llegar a ser mediante Cristo",
+      "Describen exactamente la misma condición espiritual",
+      "Solo aplican a personas que han cometido pecados graves",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 3:19",
+    explanation: "El versículo contrasta nuestro estado natural como enemigos de Dios con la posibilidad de volvernos santos por la expiación de Cristo."
   },
 ];
 
@@ -218,17 +274,45 @@ export const mosiah4_9_10Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cómo se relaciona la humildad con recibir salvación?",
+    question: "Joaquín tiene dudas porque no entiende cómo conciliar la ciencia con su fe. ¿Qué principio de Mosíah 4:9 podría ayudarlo?",
     type: "multiple",
     options: [
-      "La humildad nos permite reconocer nuestra necesidad de Cristo",
-      "La humildad por sí sola garantiza automáticamente la salvación",
-      "La salvación depende únicamente de nuestras buenas obras",
-      "La humildad y la salvación no tienen ninguna conexión real",
+      "Reconocer que el hombre no comprende todas las cosas y aun así confiar en Dios",
+      "Evitar por completo el estudio de la ciencia para no generar más dudas",
+      "Rechazar cualquier idea científica que no aparezca en las escrituras",
+      "Dejar de asistir a la iglesia hasta resolver todas sus dudas",
     ],
     correctAnswer: 0,
+    reference: "Mosíah 4:9",
+    explanation: "Mosíah 4:9 enseña a reconocer que no comprendemos todas las cosas y aun así confiar en la sabiduría de Dios."
+  },
+  {
+    id: 6,
+    question: "Martina siente que debe cargar sola con la culpa de un error que cometió. Según Mosíah 4:10, ¿qué le falta hacer?",
+    type: "multiple",
+    options: [
+      "Ocultar lo que hizo para que nadie más se entere",
+      "Arrepentirse, abandonar el pecado y humillarse ante Dios para recibir perdón",
+      "Esperar a sentirse mejor antes de intentar cambiar",
+      "Compararse con otros que han cometido errores peores",
+    ],
+    correctAnswer: 1,
     reference: "Mosíah 4:10",
-    explanation: "La humildad nos permite reconocer nuestra necesidad de Cristo y Su expiación."
+    explanation: "Mosíah 4:10 enseña a arrepentirnos, abandonar el pecado y humillarnos ante Dios para recibir Su perdón."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta la humildad ante Dios de la que habla Mosíah 4:9-10 con la promesa de perdón diario del versículo 11?",
+    type: "multiple",
+    options: [
+      "No están relacionadas, tratan temas completamente distintos",
+      "Que solo se puede pedir perdón una vez en la vida",
+      "Que la humildad genuina abre la puerta a recibir el perdón de Dios continuamente",
+      "Que la humildad reemplaza la necesidad de pedir perdón",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 4:9-11",
+    explanation: "La humildad genuina ante Dios es lo que nos permite recibir Su perdón de manera continua."
   },
 ];
 
@@ -294,17 +378,45 @@ export const ddMosiah4_9Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cómo nos ayuda este versículo cuando enfrentamos pruebas que no entendemos?",
+    question: "Benjamín se frustra porque no logra explicar su fe con argumentos científicos a un amigo. ¿Qué le enseña Mosíah 4:9?",
     type: "multiple",
     options: [
-      "Nos recuerda confiar en la sabiduría de Dios aunque no entendamos todo",
-      "Nos asegura que pronto tendremos todas las respuestas exactas",
-      "Nos enseña que las pruebas difíciles son siempre un castigo",
-      "Nos dice que debemos resolver todo únicamente con lógica humana",
+      "Que debe evitar cualquier conversación sobre el tema con su amigo",
+      "Que su amigo está equivocado y debe convencerlo con más datos",
+      "Que debe confiar en la sabiduría de Dios aun cuando no tenga todas las respuestas",
+      "Que la fe no necesita ningún tipo de respaldo racional",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 4:9",
+    explanation: "Podemos confiar en la sabiduría de Dios aun cuando no tengamos todas las respuestas para cada pregunta."
+  },
+  {
+    id: 6,
+    question: "Julieta se siente sola porque piensa que solo ella tiene problemas que no entiende. ¿Qué le ofrece Mosíah 4:9?",
+    type: "multiple",
+    options: [
+      "La certeza de que Dios tiene todo poder y sabiduría, incluso sobre lo que ella no comprende",
+      "La idea de que sus problemas son menos importantes que los de otras personas",
+      "La instrucción de resolver todo sola sin pedir ayuda",
+      "La promesa de que dejará de tener problemas de inmediato",
     ],
     correctAnswer: 0,
     reference: "Mosíah 4:9",
-    explanation: "Este versículo nos recuerda confiar en la sabiduría de Dios aunque no comprendamos todo."
+    explanation: "Mosíah 4:9 ofrece la certeza de que Dios tiene todo poder y sabiduría, incluso sobre lo que no comprendemos."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan creer en el poder de Dios y reconocer los límites de nuestro propio entendimiento, ambos mencionados en Mosíah 4:9?",
+    type: "multiple",
+    options: [
+      "Solo la segunda idea tiene valor práctico real",
+      "Son ideas contradictorias que no pueden coexistir",
+      "Ambos nos llevan a depender de Dios en lugar de depender solo de nosotros mismos",
+      "Reconocer nuestros límites hace innecesario creer en el poder de Dios",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 4:9",
+    explanation: "Ambas ideas nos llevan a depender de Dios en lugar de depender únicamente de nuestras propias capacidades."
   },
 ];
 
@@ -374,17 +486,45 @@ export const mosiah5_1_5Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cómo sabemos que hemos experimentado un cambio de corazón?",
+    question: "Thiago dice que no siente ningún cambio grande después de bautizarse y se pregunta si algo anda mal. ¿Qué le explicarías con Mosíah 5:2?",
     type: "multiple",
     options: [
-      "Por el deseo de hacer el bien continuamente y una nueva disposición hacia Dios",
-      "Por sentir una emoción intensa una sola vez en una reunión",
-      "Por alcanzar la perfección inmediata en todas nuestras acciones",
-      "Por recibir el reconocimiento público de otros miembros",
+      "Que definitivamente algo anda mal en su conversión",
+      "Que el cambio de corazón puede ser gradual y se nota en el deseo continuo de hacer el bien",
+      "Que debería bautizarse de nuevo para sentir el cambio",
+      "Que el bautismo no produce ningún cambio real en la persona",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 5:2",
+    explanation: "El cambio de corazón puede manifestarse gradualmente en un deseo continuo de hacer el bien."
+  },
+  {
+    id: 6,
+    question: "Renata prometió cambiar pero sigue cayendo en los mismos errores. ¿Qué le recuerda Mosíah 5:5 sobre el convenio?",
+    type: "multiple",
+    options: [
+      "Que el convenio es hacer la voluntad de Dios de manera constante, no una decisión de una sola vez",
+      "Que ya rompió el convenio para siempre y no puede repararlo",
+      "Que debe esperar a ser perfecta antes de intentar guardar el convenio",
+      "Que el convenio solo se aplica a decisiones grandes, no a las diarias",
     ],
     correctAnswer: 0,
-    reference: "Mosíah 5:2",
-    explanation: "El verdadero cambio de corazón se nota en el deseo continuo de hacer el bien."
+    reference: "Mosíah 5:5",
+    explanation: "El convenio implica hacer la voluntad de Dios de manera constante, con arrepentimiento continuo cuando fallamos."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre el 'cambio de corazón' del versículo 2 y 'el convenio de hacer la voluntad de Dios' del versículo 5?",
+    type: "multiple",
+    options: [
+      "El convenio ocurre antes que el cambio de corazón y lo provoca",
+      "No tienen ninguna relación entre sí",
+      "El cambio de corazón es lo que hace posible cumplir sinceramente el convenio",
+      "Solo uno de los dos conceptos es relevante para la salvación",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 5:2-5",
+    explanation: "El cambio de corazón es lo que hace posible cumplir sinceramente el convenio de hacer la voluntad de Dios."
   },
 ];
 
@@ -450,17 +590,45 @@ export const mosiah5_6_15Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Por qué es importante 'retener' el nombre de Cristo en nuestro corazón?",
+    question: "Bautista no entiende por qué 'tomar el nombre de Cristo' importa si ya es miembro de la Iglesia. ¿Qué le explica Mosíah 5:7-8?",
     type: "multiple",
     options: [
-      "Para ser contados entre los de Cristo y recibir salvación",
-      "Para tener un tema de conversación interesante con otros",
-      "Para cumplir con una tradición cultural de nuestra región",
-      "Para demostrar públicamente que somos mejores que otros",
+      "Que tomar el nombre de Cristo significa comprometerse a vivir como Sus hijos e hijas",
+      "Que el nombre de Cristo es solo un título ceremonial sin más significado",
+      "Que solo importa el nombre que aparece en los registros de la Iglesia",
+      "Que tomar Su nombre es opcional para quienes ya son miembros",
     ],
     correctAnswer: 0,
-    reference: "Mosíah 5:9-12",
-    explanation: "Retener el nombre de Cristo nos permite ser contados entre los Suyos y recibir salvación."
+    reference: "Mosíah 5:7-8",
+    explanation: "Tomar el nombre de Cristo significa comprometerse a vivir como Sus hijos e hijas, no solo un título formal."
+  },
+  {
+    id: 6,
+    question: "Delfina siente que su fe es solo una tradición familiar y no algo propio. ¿Qué le sugiere Mosíah 5:13?",
+    type: "multiple",
+    options: [
+      "Que necesita cambiar de familia para tener una fe genuina",
+      "Que la fe heredada de la familia ya es suficiente para toda la vida",
+      "Que debe retener el nombre de Cristo escrito en su propio corazón, no solo heredarlo",
+      "Que no es posible tener una fe verdaderamente propia",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 5:13",
+    explanation: "Debemos retener el nombre de Cristo escrito en nuestro propio corazón, haciendo la fe verdaderamente nuestra."
+  },
+  {
+    id: 7,
+    question: "¿Cómo conecta este pasaje la idea de 'ser hijos de Cristo' con la de 'retener Su nombre en el corazón'?",
+    type: "multiple",
+    options: [
+      "Ambas describen la misma identidad espiritual vivida de manera activa y personal",
+      "Son dos etapas separadas que nunca ocurren en la misma persona",
+      "Solo una de las dos ideas es necesaria para la salvación",
+      "No tienen relación alguna entre sí",
+    ],
+    correctAnswer: 0,
+    reference: "Mosíah 5:7-13",
+    explanation: "Ambas ideas describen la misma identidad espiritual: ser hijos de Cristo se vive reteniendo Su nombre en el corazón."
   },
 ];
 
@@ -526,17 +694,45 @@ export const mosiah7_8Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué consejo dio el rey Limhi a su pueblo para ser librados?",
+    question: "Franco quiere saber si Dios realmente conoce su futuro personal. ¿Qué le enseña Mosíah 8:17 sobre los videntes?",
     type: "multiple",
     options: [
-      "Volverse al Señor con pleno propósito de corazón y confiar en Él",
-      "Pelear con más fuerza y organizar un ejército más grande",
-      "Negociar en secreto con los lamanitas para pagar más tributo",
-      "Esperar sin hacer nada hasta que la situación mejorara sola",
+      "Que Dios puede revelar cosas pasadas, presentes y futuras a través de Sus siervos",
+      "Que nadie, ni siquiera Dios, puede conocer el futuro de una persona",
+      "Que solo los reyes pueden recibir ese tipo de revelación",
+      "Que el futuro de cada persona es completamente aleatorio",
     ],
     correctAnswer: 0,
+    reference: "Mosíah 8:17",
+    explanation: "Un vidente puede saber de cosas pasadas, presentes y futuras por el poder de Dios."
+  },
+  {
+    id: 6,
+    question: "Abril siente que su situación familiar difícil nunca va a mejorar. ¿Qué consejo de Limhi en Mosíah 7:33 le aplicarías?",
+    type: "multiple",
+    options: [
+      "Volverse al Señor con pleno propósito de corazón y confiar en que Él puede librarla",
+      "Resignarse porque su situación no puede cambiar",
+      "Alejarse de su familia para evitar el problema",
+      "Esperar a que otra persona resuelva la situación por ella",
+    ],
+    correctAnswer: 3,
     reference: "Mosíah 7:33",
-    explanation: "Limhi enseñó que debían volverse al Señor con pleno propósito de corazón para ser librados."
+    explanation: "Limhi enseñó a volverse al Señor con pleno propósito de corazón, confiando en que Él puede librarnos."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta el don de vidente con la instrucción de Limhi de volverse al Señor?",
+    type: "multiple",
+    options: [
+      "Ambos muestran que el conocimiento y la liberación vienen de la relación con Dios, no de nuestros propios recursos",
+      "No tienen ninguna relación entre sí",
+      "El don de vidente hace innecesario volverse al Señor",
+      "Solo uno de los dos conceptos tiene aplicación práctica",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 7-8",
+    explanation: "Ambos elementos muestran que el conocimiento y la liberación provienen de la relación con Dios."
   },
 ];
 
@@ -602,17 +798,45 @@ export const mosiah9_10Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué nos enseña esto sobre el peligro de las tradiciones falsas?",
+    question: "Santino siente que le está yendo muy bien en todo y ha dejado de orar porque 'no lo necesita'. ¿Qué patrón de Mosíah 9-10 describe esto?",
     type: "multiple",
     options: [
-      "Que las tradiciones falsas pueden pasarse de generación en generación causando conflicto",
-      "Que las tradiciones no tienen ningún poder real sobre nuestras decisiones",
-      "Que solo afectan a quienes ya tenían un corazón malvado",
-      "Que son fáciles de identificar y cambiar en poco tiempo",
+      "El patrón de recordar más a Dios cuanto mejor nos va",
+      "Un patrón que solo afecta a personas con poca fe desde el principio",
+      "El patrón de olvidar a Dios en la prosperidad, que suele traer aflicciones después",
+      "Un patrón que no tiene ninguna consecuencia real",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 9-10",
+    explanation: "El patrón que se repite es olvidar a Dios en la prosperidad, lo cual suele traer aflicciones después."
+  },
+  {
+    id: 6,
+    question: "Pilar heredó de su familia un resentimiento hacia otro grupo de personas sin saber bien por qué. ¿Qué le enseña la historia de los lamanitas y sus tradiciones falsas?",
+    type: "multiple",
+    options: [
+      "Que las tradiciones falsas pueden transmitirse sin fundamento real y es sano cuestionarlas",
+      "Que debe aceptar esas tradiciones porque vienen de su familia",
+      "Que el resentimiento heredado siempre tiene una base justificada",
+      "Que no vale la pena analizar de dónde vienen sus propias creencias",
     ],
     correctAnswer: 0,
     reference: "Mosíah 10:12-17",
-    explanation: "Las tradiciones falsas pueden transmitirse de generación en generación y causar conflicto duradero."
+    explanation: "Las tradiciones falsas pueden transmitirse sin fundamento real, y es sano examinarlas con honestidad."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan 'olvidar a Dios en la prosperidad' y 'las tradiciones falsas' como causas de conflicto en estos capítulos?",
+    type: "multiple",
+    options: [
+      "Solo la primera puede llevar a consecuencias graves",
+      "No tienen ninguna relación entre sí",
+      "Ambas son formas en que las personas se alejan de la verdad sin darse cuenta del proceso",
+      "Las tradiciones falsas siempre surgen de la prosperidad material",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 9-10",
+    explanation: "Ambas son formas en que las personas se alejan gradualmente de la verdad, muchas veces sin notarlo."
   },
 ];
 
@@ -673,16 +897,42 @@ export const repasoDominio2Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cómo pueden estos versículos ayudarnos a enseñar el evangelio?",
+    question: "Ian está por dar su primera clase y no sabe qué versículo de dominio usar para hablar de la fe. ¿Qué le recomendarías?",
     type: "multiple",
     options: [
-      "Nos permiten impresionar a otros con nuestro conocimiento",
-      "Nos dan fundamentos doctrinales claros para compartir",
-      "Solo sirven para conversaciones dentro de la propia congregación",
-      "Reemplazan la necesidad de sentir el Espíritu al enseñar",
+      "Elegir cualquier versículo al azar sin pensarlo demasiado",
+      "Elegir uno de los versículos de dominio y compartir también su propio testimonio de él",
+      "Leer directamente de un comentario sin usar las escrituras",
+      "Evitar usar versículos de dominio en una primera clase",
     ],
     correctAnswer: 1,
-    explanation: "Estos versículos nos dan fundamentos doctrinales claros para compartir con otros."
+    explanation: "Se recomienda elegir un versículo de dominio y compartir el testimonio personal sobre su verdad."
+  },
+  {
+    id: 6,
+    question: "Guadalupe siente que memorizar versículos es aburrido y sin sentido. ¿Qué le explicarías sobre el propósito real del dominio de las escrituras?",
+    type: "multiple",
+    options: [
+      "Que memorizar es un fin en sí mismo, sin necesidad de aplicación",
+      "Que solo sirve para aprobar evaluaciones de Seminario",
+      "Que el objetivo no es solo memorizar, sino tener esas verdades listas para aplicarlas en la vida",
+      "Que memorizar escrituras no tiene ningún valor real",
+    ],
+    correctAnswer: 2,
+    explanation: "El objetivo del dominio de las escrituras es tener esas verdades disponibles para aplicarlas en la vida diaria."
+  },
+  {
+    id: 7,
+    question: "¿Qué tienen en común los distintos pasajes de dominio que hemos estudiado hasta ahora?",
+    type: "multiple",
+    options: [
+      "Tratan temas completamente independientes sin ninguna conexión",
+      "Todos apuntan a fortalecer la fe en Cristo y guiar decisiones concretas de la vida diaria",
+      "Solo sirven como ejercicio de memoria sin propósito espiritual",
+      "Únicamente se relacionan con la historia del pueblo nefita",
+    ],
+    correctAnswer: 1,
+    explanation: "Todos los pasajes de dominio apuntan a fortalecer la fe en Cristo y guiar decisiones concretas de la vida diaria."
   },
 ];
 
@@ -751,17 +1001,45 @@ export const mosiah11_17Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Por qué Abinadí enfrentó tal persecución?",
+    question: "Tomás ve que un compañero hace trampa en un examen y todos lo aplauden por 'ser vivo'. ¿Qué le enseña el ejemplo de Abinadí sobre defender la verdad?",
     type: "multiple",
     options: [
-      "Porque llamó al pueblo al arrepentimiento y testificó de Cristo",
-      "Porque buscaba obtener poder político sobre el rey Noé",
-      "Porque provenía de una nación extranjera y hostil",
-      "Porque cuestionó las leyes de impuestos del reino",
+      "Que es mejor quedarse callado para no generar conflicto",
+      "Que hay que seguir a la mayoría para no destacar negativamente",
+      "Que vale la pena defender lo correcto aunque la mayoría piense diferente",
+      "Que solo los adultos deben preocuparse por este tipo de decisiones",
     ],
-    correctAnswer: 0,
-    reference: "Mosíah 11:20-29",
-    explanation: "Abinadí fue perseguido porque llamó al pueblo al arrepentimiento y testificó de Cristo."
+    correctAnswer: 2,
+    reference: "Mosíah 17",
+    explanation: "El ejemplo de Abinadí enseña que vale la pena defender lo correcto aunque la mayoría piense diferente."
+  },
+  {
+    id: 6,
+    question: "Catalina teme hablar de su fe porque sus amigos podrían burlarse de ella. ¿Qué la anima el ejemplo de Abinadí?",
+    type: "multiple",
+    options: [
+      "Que es mejor evitar cualquier conversación sobre su fe",
+      "Que testificar de la verdad tiene valor eterno, incluso si trae rechazo inmediato",
+      "Que debe esperar a tener más edad para hablar de su fe",
+      "Que solo debe hablar si está segura de convencer a todos",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 17:7-10",
+    explanation: "Testificar de la verdad tiene valor eterno, aunque en el momento traiga rechazo o burla."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan la maldad del rey Noé y el valor de Abinadí en este relato?",
+    type: "multiple",
+    options: [
+      "No tienen ninguna relación entre sí",
+      "Muestran que la maldad siempre logra silenciar a la verdad",
+      "El contraste muestra que la verdad puede sostenerse firme incluso frente a la corrupción del poder",
+      "Indican que Abinadí también era corrupto como el rey Noé",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 11-17",
+    explanation: "El contraste entre la maldad de Noé y el valor de Abinadí muestra que la verdad puede sostenerse firme frente a la corrupción."
   },
 ];
 
@@ -826,17 +1104,45 @@ export const mosiah12_13Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué nos enseña el ejemplo de Abinadí sobre el valor moral?",
+    question: "Nicolás dice que conoce los mandamientos de memoria pero no ve por qué cambiaría su forma de vivir. ¿Qué le señala Abinadí a los sacerdotes sobre esto?",
     type: "multiple",
     options: [
-      "Que es mejor quedarnos callados para evitar problemas",
-      "Que solo debemos hablar cuando estemos completamente seguros de ganar",
-      "Que no vale la pena testificar si nadie más nos apoya",
-      "Que debemos defender la verdad aunque enfrentemos oposición",
+      "Que conocer la ley no basta; hay que vivirla realmente en el corazón",
+      "Que memorizar los mandamientos ya es suficiente para agradar a Dios",
+      "Que los mandamientos son solo para quienes enseñan en la iglesia",
+      "Que no es necesario aplicar los mandamientos si se conocen bien",
     ],
     correctAnswer: 3,
-    reference: "Mosíah 13:1-9",
-    explanation: "El ejemplo de Abinadí nos enseña a defender la verdad aunque enfrentemos oposición."
+    reference: "Mosíah 12:27-29",
+    explanation: "Abinadí señaló que conocer la ley no basta; es necesario vivirla realmente en el corazón."
+  },
+  {
+    id: 6,
+    question: "Antonella cree que enseñar a sus hermanos menores los mandamientos es tarea solo de sus padres. ¿Qué enseña Mosíah 13:11 al respecto?",
+    type: "multiple",
+    options: [
+      "Que solo los padres tienen esa responsabilidad",
+      "Que todos tenemos la responsabilidad de enseñar los mandamientos a quienes están a nuestro cargo",
+      "Que los mandamientos solo se enseñan en la iglesia, nunca en casa",
+      "Que no es necesario enseñar los mandamientos a los más jóvenes",
+    ],
+    correctAnswer: 0,
+    reference: "Mosíah 13:11",
+    explanation: "Mosíah 13:11 enseña que debemos transmitir los mandamientos a las nuevas generaciones."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre citar los mandamientos y advertir sobre las consecuencias de no guardarlos, ambos hechos por Abinadí?",
+    type: "multiple",
+    options: [
+      "Conocer la ley sin vivirla trae las mismas consecuencias que ignorarla por completo",
+      "No tienen relación alguna entre sí",
+      "Solo la advertencia sobre consecuencias es relevante, no citar los mandamientos",
+      "Citar los mandamientos elimina automáticamente la necesidad de advertir consecuencias",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 12-13",
+    explanation: "Abinadí muestra que conocer la ley sin vivirla trae las mismas consecuencias que ignorarla por completo."
   },
 ];
 
@@ -901,17 +1207,45 @@ export const mosiah14_16Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué significa que 'por su llaga fuimos nosotros curados'?",
+    question: "Lautaro no entiende por qué Cristo tuvo que sufrir tanto si es Dios. ¿Qué le explica Mosíah 14 (Isaías 53) sobre esto?",
     type: "multiple",
     options: [
-      "Que Sus heridas físicas se transfirieron a nuestro cuerpo",
-      "Que la curación se refiere únicamente a enfermedades físicas",
-      "Por Sus sufrimientos podemos ser sanados espiritualmente del pecado",
-      "Que esta promesa aplica solo a las personas de Su época",
+      "Que Su sufrimiento fue un accidente inevitable",
+      "Que no existe ninguna razón clara para Su sufrimiento",
+      "Que Cristo tuvo que sufrir obligado por circunstancias externas",
+      "Que Cristo eligió sufrir voluntariamente por amor, para poder redimirnos",
     ],
-    correctAnswer: 2,
+    correctAnswer: 3,
+    reference: "Mosíah 14",
+    explanation: "Cristo eligió voluntariamente sufrir por amor, como parte de Su misión redentora."
+  },
+  {
+    id: 6,
+    question: "Milagros siente que nadie la entiende cuando pasa por algo difícil. ¿Qué le ofrece la enseñanza de que 'por su llaga fuimos curados'?",
+    type: "multiple",
+    options: [
+      "La certeza de que Cristo puede sanar y comprender su dolor personalmente",
+      "La idea de que su dolor no es tan importante comparado con el de Cristo",
+      "La instrucción de resolver su dolor completamente sola",
+      "La promesa de que su dolor desaparecerá de inmediato",
+    ],
+    correctAnswer: 0,
     reference: "Mosíah 14:5",
-    explanation: "Por los sufrimientos de Cristo podemos ser sanados espiritualmente del pecado."
+    explanation: "Por los sufrimientos de Cristo, Él puede comprender y ayudar a sanar nuestro dolor personal."
+  },
+  {
+    id: 7,
+    question: "¿Cómo conecta la profecía de Isaías 53 (Mosíah 14) con la enseñanza de que 'Dios mismo descenderá' (Mosíah 15)?",
+    type: "multiple",
+    options: [
+      "No tienen ninguna relación entre sí",
+      "Ambas revelan que el Redentor sería divino y a la vez sufriría como parte de Su misión",
+      "Solo una de las dos profecías se cumplió realmente",
+      "Muestran que Cristo no tendría un cuerpo físico real",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 14-15",
+    explanation: "Ambas profecías revelan que el Redentor sería divino y a la vez sufriría como parte de Su misión terrenal."
   },
 ];
 
@@ -973,16 +1307,43 @@ export const evaluacion4_repaso3Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cómo podemos aplicar las enseñanzas de estos capítulos hoy?",
+    question: "Bruno siente que no ha avanzado nada espiritualmente este año. ¿Qué le sugerirías basándote en el propósito de la autoevaluación?",
     type: "multiple",
     options: [
-      "Buscar un cambio de corazón, hacer y guardar convenios, y servir como Cristo",
-      "Memorizando los nombres de todos los reyes mencionados",
-      "Estudiándolas únicamente como relatos históricos interesantes",
-      "Aplicándolas solo si vivimos en una situación similar",
+      "Que deje de intentarlo porque claramente no está funcionando",
+      "Revisar con honestidad en qué áreas ha crecido y cuáles necesita seguir trabajando",
+      "Compararse con otros compañeros de su clase de Seminario",
+      "Ignorar el tema hasta el próximo año",
     ],
-    correctAnswer: 0,
-    explanation: "Podemos aplicarlas buscando un cambio de corazón, guardando convenios y sirviendo como Cristo."
+    correctAnswer: 1,
+    explanation: "La autoevaluación honesta ayuda a identificar tanto el crecimiento logrado como las áreas por mejorar."
+  },
+  {
+    id: 6,
+    question: "Victoria quiere compartir el evangelio pero no sabe por dónde empezar. ¿Qué lección de los hijos de Mosíah podría aplicar?",
+    type: "multiple",
+    options: [
+      "Esperar a sentirse completamente preparada antes de intentar cualquier cosa",
+      "Buscar convencer a otros usando solo argumentos lógicos",
+      "Prepararse espiritualmente primero y luego servir con humildad a quienes enseña",
+      "Copiar exactamente el método que usó Ammón sin adaptarlo",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 17-26",
+    explanation: "El ejemplo de los hijos de Mosíah muestra la importancia de prepararse espiritualmente y servir con humildad."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta el contraste entre el rey Benjamín y el rey Noé con la historia de conversión de los hijos de Mosíah?",
+    type: "multiple",
+    options: [
+      "No tienen ninguna relación entre sí",
+      "Ambos muestran que las decisiones y el corazón de una persona determinan el fruto de su influencia",
+      "Solo el ejemplo del rey Benjamín es relevante para la conversión",
+      "Muestran que el liderazgo político no tiene relación con lo espiritual",
+    ],
+    correctAnswer: 1,
+    explanation: "Ambos relatos muestran que las decisiones y el estado del corazón determinan el fruto de la influencia de una persona."
   },
 ];
 
@@ -1045,16 +1406,43 @@ export const repasoDominio4Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Por qué el dominio de la doctrina incluye versículos sobre el cambio de corazón?",
+    question: "Gael no logra recordar las referencias exactas de los versículos de dominio en un examen. ¿Qué le recomendarías para retenerlos mejor?",
     type: "multiple",
     options: [
-      "Porque son los versículos más cortos y fáciles de memorizar",
-      "Porque el programa de Seminario lo exige sin razón doctrinal",
-      "Porque el cambio de corazón es fundamental para la conversión verdadera",
-      "Solo por variedad temática en el plan de estudio",
+      "Memorizarlos solo la noche anterior al examen",
+      "Repasarlos regularmente y relacionarlos con situaciones reales de su vida",
+      "Copiarlos varias veces sin pensar en su significado",
+      "Aprender solo los versículos más cortos y fáciles",
+    ],
+    correctAnswer: 1,
+    explanation: "Repasar regularmente y relacionar los versículos con situaciones reales ayuda a retenerlos mejor."
+  },
+  {
+    id: 6,
+    question: "Emilia piensa que los versículos de Mosíah y los de Nefi no tienen nada que ver entre sí. ¿Qué le mostrarías sobre su relación?",
+    type: "multiple",
+    options: [
+      "Que efectivamente no tienen ninguna relación real",
+      "Que solo los versículos de Mosíah tienen valor doctrinal",
+      "Que todos apuntan al mismo tema central: acercarnos a Cristo y transformar nuestro corazón",
+      "Que la relación entre ellos es puramente cronológica",
     ],
     correctAnswer: 2,
-    explanation: "El cambio de corazón es fundamental para la conversión verdadera, por eso se incluye en el dominio de la doctrina."
+    explanation: "Todos los versículos de dominio apuntan al mismo tema central: acercarnos a Cristo y transformar nuestro corazón."
+  },
+  {
+    id: 7,
+    question: "¿Qué principio común comparten el versículo sobre el servicio (Mosíah 2:17) y el de la caída de Adán (2 Nefi 2:25)?",
+    type: "multiple",
+    options: [
+      "No comparten ningún principio en común",
+      "Ambos muestran que el propósito de nuestra existencia se cumple sirviendo y buscando el gozo en Dios",
+      "Solo uno de los dos tiene aplicación práctica real",
+      "Tratan temas completamente opuestos entre sí",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 2:17; 2 Nefi 2:25",
+    explanation: "Ambos versículos muestran que el propósito de nuestra existencia se cumple sirviendo a otros y buscando el gozo en Dios."
   },
 ];
 
@@ -1123,17 +1511,45 @@ export const mosiah19_20Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué nos enseña la historia de Noé sobre las consecuencias del pecado?",
+    question: "Joaquín ve que un amigo sigue tomando malas decisiones y parece no tener consecuencias todavía. ¿Qué le enseña la historia del rey Noé?",
     type: "multiple",
     options: [
-      "Que las consecuencias solo afectan a quienes son sorprendidos",
-      "Que podemos evitar cualquier consecuencia si somos cuidadosos",
-      "Que el pecado tiene consecuencias graves, tanto temporales como espirituales",
-      "Que las consecuencias del pecado son siempre inmediatas y visibles",
+      "Que las malas decisiones nunca tienen consecuencias reales",
+      "Que las consecuencias del pecado llegan, aunque a veces tarden en manifestarse",
+      "Que solo los reyes enfrentan consecuencias por sus decisiones",
+      "Que su amigo definitivamente nunca enfrentará consecuencias",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 19:20",
+    explanation: "La historia del rey Noé muestra que las consecuencias del pecado llegan, aunque a veces tarden en manifestarse."
+  },
+  {
+    id: 6,
+    question: "Sofía se pregunta si Dios sigue ayudando a alguien que fue parte de decisiones equivocadas de su familia. ¿Qué muestra la reacción del pueblo tras la muerte de Noé?",
+    type: "multiple",
+    options: [
+      "Que Dios abandona a quienes estuvieron cerca de la maldad de otros",
+      "Que el pueblo nunca pudo recuperarse de los errores de Noé",
+      "Que Dios permite nuevas oportunidades incluso después de las malas decisiones de otros",
+      "Que solo los descendientes directos de Noé sufrieron las consecuencias",
     ],
     correctAnswer: 2,
-    reference: "Mosíah 19:20",
-    explanation: "El pecado tiene consecuencias graves, tanto temporales como espirituales."
+    reference: "Mosíah 19-20",
+    explanation: "Dios permite nuevas oportunidades incluso después de las malas decisiones cometidas por otros."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan la muerte de Noé y el cautiverio posterior de su pueblo?",
+    type: "multiple",
+    options: [
+      "No tienen ninguna relación entre sí",
+      "Ambos muestran que las consecuencias de un mal liderazgo afectan a toda la comunidad, no solo al líder",
+      "Muestran que el cautiverio fue causado por los lamanitas sin relación con Noé",
+      "Indican que el pueblo era inocente de cualquier responsabilidad",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 19-20",
+    explanation: "Ambos eventos muestran que las consecuencias de un mal liderazgo afectan a toda la comunidad, no solo al líder."
   },
 ];
 
@@ -1199,17 +1615,45 @@ export const mosiah21_24_parte1Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué hizo finalmente el pueblo de Limhi para buscar liberación?",
+    question: "Mateo siente que su carga en la escuela y en casa es demasiado pesada para seguir adelante. ¿Qué le enseña Mosíah 24:14-15 sobre esto?",
     type: "multiple",
     options: [
-      "Pelearon con más fuerza organizando un ejército mayor",
-      "Se rindieron por completo sin buscar ninguna salida",
-      "Se humillaron y clamaron fervientemente a Dios",
-      "Buscaron alianzas políticas con otros pueblos cercanos",
+      "Que debe resolver todo completamente solo, sin ayuda de Dios",
+      "Que Dios puede aliviar nuestras cargas para que las llevemos con más facilidad, aunque no siempre las quite",
+      "Que sus cargas desaparecerán de inmediato si ora una sola vez",
+      "Que las cargas pesadas son señal de que algo anda mal en su fe",
     ],
-    correctAnswer: 2,
-    reference: "Mosíah 21:14",
-    explanation: "El pueblo de Limhi finalmente se humilló y clamó fervientemente a Dios."
+    correctAnswer: 1,
+    reference: "Mosíah 24:14-15",
+    explanation: "Dios puede aliviar nuestras cargas para que las llevemos con más facilidad, aunque no siempre las quite por completo."
+  },
+  {
+    id: 6,
+    question: "Valentina no entiende por qué Dios no soluciona sus problemas de inmediato aunque ora todos los días. ¿Qué principio de este capítulo le ayudaría?",
+    type: "multiple",
+    options: [
+      "Que Dios no escucha realmente sus oraciones",
+      "Que sus problemas no son lo suficientemente importantes para Dios",
+      "Que debe dejar de orar si no ve resultados inmediatos",
+      "Que Dios a veces fortalece en lugar de quitar la prueba, para que crezcamos en el proceso",
+    ],
+    correctAnswer: 3,
+    reference: "Mosíah 24:14",
+    explanation: "Dios a veces fortalece en lugar de quitar la prueba, para que crezcamos y confiemos más en Él."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre 'aliviar las cargas' y 'fortalecer para las pruebas', ambas formas en que Dios ayudó a Su pueblo?",
+    type: "multiple",
+    options: [
+      "No tienen relación alguna entre sí",
+      "Ambas muestran que la ayuda de Dios no siempre elimina la dificultad, sino que la hace llevadera",
+      "Solo aliviar las cargas es una forma real de ayuda de Dios",
+      "Fortalecer para las pruebas contradice la idea de aliviar cargas",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 24:14-15",
+    explanation: "Ambas formas de ayuda muestran que Dios no siempre elimina la dificultad, sino que la hace llevadera."
   },
 ];
 
@@ -1275,17 +1719,45 @@ export const mosiah21_24_parte2Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué aprendemos sobre el tiempo del Señor para liberarnos?",
+    question: "Luca está esperando una respuesta a una oración importante y siente que Dios se está tardando demasiado. ¿Qué le enseña la liberación del pueblo de Alma?",
     type: "multiple",
     options: [
-      "Que el Señor nos libra en Su tiempo, fortaleciendo nuestra fe en el proceso",
-      "Que Su tiempo siempre coincide exactamente con nuestras expectativas",
-      "Que nunca actúa hasta que perdemos toda esperanza",
-      "Que el tiempo de espera no tiene ningún valor espiritual",
+      "Que la ayuda de Dios llega en Su tiempo, a menudo de formas que no esperamos",
+      "Que Dios solo responde a las oraciones de personas especiales",
+      "Que debe dejar de orar si la respuesta tarda demasiado",
+      "Que la demora significa que Dios no escuchó su oración",
     ],
     correctAnswer: 0,
-    reference: "Mosíah 24:15-16",
-    explanation: "El Señor nos libra en Su tiempo, fortaleciendo nuestra fe en el proceso."
+    reference: "Mosíah 24:16-20",
+    explanation: "La liberación del pueblo de Alma muestra que la ayuda de Dios llega en Su tiempo, de formas que no siempre esperamos."
+  },
+  {
+    id: 6,
+    question: "Camila cree que debe resolver todo sola sin pedir ayuda a Dios. ¿Qué muestra este relato sobre la humildad y la paciencia?",
+    type: "multiple",
+    options: [
+      "Que pedir ayuda a Dios es señal de debilidad",
+      "Que someterse con paciencia a la voluntad de Dios es parte de recibir Su ayuda",
+      "Que la paciencia no tiene ningún valor espiritual real",
+      "Que resolver los problemas sola siempre es la mejor opción",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 24:15",
+    explanation: "Someterse con paciencia a la voluntad de Dios es parte de recibir Su ayuda en los momentos difíciles."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta el sueño que cayó sobre los lamanitas con la gratitud del pueblo de Alma al llegar a Zarahemla?",
+    type: "multiple",
+    options: [
+      "No tienen ninguna relación entre sí",
+      "Solo el sueño sobre los lamanitas es relevante para este relato",
+      "Ambos muestran que reconocer la mano de Dios en la liberación lleva naturalmente a la gratitud",
+      "La gratitud del pueblo no tuvo relación con su liberación",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 24:19-25",
+    explanation: "Ambos elementos muestran que reconocer la mano de Dios en la liberación lleva naturalmente a la gratitud."
   },
 ];
 
@@ -1351,17 +1823,45 @@ export const mosiah18Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué organizó Alma después de bautizar al pueblo?",
+    question: "Renata acaba de bautizarse y no está segura de qué significa realmente el convenio que hizo. ¿Qué le explicarías con Mosíah 18:8-10?",
     type: "multiple",
     options: [
-      "Solo reuniones sociales informales sin ninguna estructura",
-      "Un nuevo gobierno civil para reemplazar al del rey Noé",
-      "La iglesia de Cristo, con él mismo como su primer líder",
-      "Una empresa comercial para sostener económicamente al grupo",
+      "Que el convenio solo implica asistir a las reuniones dominicales",
+      "Que solo los líderes de la iglesia deben cumplir ese convenio",
+      "Que el convenio ya no tiene ninguna exigencia después del bautismo",
+      "Que se comprometió a llevar las cargas de otros, consolar a los que sufren y servir a Dios",
+    ],
+    correctAnswer: 3,
+    reference: "Mosíah 18:8-10",
+    explanation: "El convenio bautismal implica llevar las cargas de otros, consolar a los que sufren y servir a Dios."
+  },
+  {
+    id: 6,
+    question: "Bautista ve a un compañero pasando por un momento muy difícil y no sabe cómo ayudar. ¿Qué principio de este capítulo aplicaría?",
+    type: "multiple",
+    options: [
+      "Esperar a que su compañero le pida ayuda directamente",
+      "Estar dispuesto a llorar con los que lloran y consolar a quienes necesitan consuelo",
+      "Ignorar la situación porque no es asunto suyo",
+      "Aconsejarlo solo si es de su misma congregación",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 18:9",
+    explanation: "El convenio bautismal nos invita a llorar con los que lloran y consolar a quienes necesitan consuelo."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se conecta el bautismo de Alma en las aguas de Mormón con la organización de la iglesia que hizo después?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "La organización de la iglesia reemplazó la necesidad del bautismo",
+      "El bautismo estableció el convenio personal, y la iglesia le dio una comunidad para vivirlo juntos",
+      "Solo el bautismo tiene importancia duradera en este relato",
     ],
     correctAnswer: 2,
-    reference: "Mosíah 18:17",
-    explanation: "Alma organizó la iglesia de Cristo después de bautizar al pueblo."
+    reference: "Mosíah 18:8-17",
+    explanation: "El bautismo estableció el convenio personal, y la organización de la iglesia dio una comunidad para vivirlo juntos."
   },
 ];
 
@@ -1427,17 +1927,45 @@ export const ddMosiah18_8_10Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cómo podemos 'sobrellevar las cargas los unos de los otros'?",
+    question: "Delfina ve que una amiga está triste por un problema familiar y no sabe si acercarse. ¿Qué le sugiere el convenio bautismal de Mosíah 18:9?",
     type: "multiple",
     options: [
-      "Ayudando activamente a otros en sus pruebas físicas, emocionales y espirituales",
-      "Sintiendo lástima por su situación sin acercarnos a ellos",
-      "Ignorando sus problemas para no involucrarnos demasiado",
-      "Juzgando primero si merecen realmente nuestra ayuda",
+      "Esperar a que la amiga hable del tema primero",
+      "Llorar con los que lloran, acompañándola en su dolor en vez de evitar la situación",
+      "Aconsejarle que no piense tanto en el problema",
+      "Cambiar de tema para no incomodarla",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 18:9",
+    explanation: "El convenio bautismal nos invita a llorar con los que lloran, acompañando activamente a quien sufre."
+  },
+  {
+    id: 6,
+    question: "Franco piensa que servir a otros es opcional si él ya asiste a la iglesia regularmente. ¿Qué le corrige este pasaje?",
+    type: "multiple",
+    options: [
+      "Que el convenio bautismal incluye servir activamente, no solo asistir a las reuniones",
+      "Que asistir a la iglesia ya cumple con todo lo que el convenio exige",
+      "Que servir a otros es solo tarea de los líderes de la congregación",
+      "Que el servicio es opcional para quienes ya están bautizados",
     ],
     correctAnswer: 0,
-    reference: "Mosíah 18:8",
-    explanation: "Sobrellevamos las cargas de otros ayudándolos activamente en sus pruebas físicas, emocionales y espirituales."
+    reference: "Mosíah 18:8-9",
+    explanation: "El convenio bautismal incluye servir activamente a otros, más allá de asistir a las reuniones."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre 'llevar las cargas' de los demás y la promesa de la primera resurrección mencionada en este mismo pasaje?",
+    type: "multiple",
+    options: [
+      "No tienen relación alguna entre sí",
+      "Vivir el convenio de servicio es parte de lo que nos prepara para recibir esa promesa",
+      "La promesa se cumple sin importar si servimos a otros o no",
+      "Solo la primera parte del convenio tiene relación con las promesas eternas",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 18:8-9",
+    explanation: "Vivir el convenio de servicio es parte de lo que nos prepara para recibir la promesa de la primera resurrección."
   },
 ];
 
@@ -1506,17 +2034,45 @@ export const mosiah26Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué le prometió el Señor a Alma respecto a su carga como líder?",
+    question: "Abril cometió un error grave y siente que ya no merece el perdón de Dios. ¿Qué le enseña Mosíah 26:29-30 sobre el arrepentimiento?",
     type: "multiple",
     options: [
-      "Que Él lo bendeciría y fortalecería para juzgar con justicia",
-      "Que otra persona asumiría toda la responsabilidad en su lugar",
-      "Que ya no tendría que preocuparse por el pueblo",
-      "Que su carga desaparecería sin ningún esfuerzo de su parte",
+      "Que Dios perdona cuantas veces la persona se arrepienta con sinceridad",
+      "Que solo se puede pedir perdón una vez en la vida",
+      "Que algunos errores son demasiado graves para ser perdonados",
+      "Que debe esperar años antes de poder recibir el perdón",
     ],
     correctAnswer: 0,
-    reference: "Mosíah 26:8",
-    explanation: "El Señor prometió bendecir y fortalecer a Alma para juzgar al pueblo con justicia."
+    reference: "Mosíah 26:29-30",
+    explanation: "Dios perdona cuantas veces la persona se arrepienta con sinceridad."
+  },
+  {
+    id: 6,
+    question: "Santino no cree en lo que sus padres le enseñaron sobre la Iglesia y se siente presionado a fingir que sí. ¿Qué muestra el problema que enfrentó Alma con la nueva generación?",
+    type: "multiple",
+    options: [
+      "Que la nueva generación de Alma no tuvo ningún problema real de fe",
+      "Que los hijos deben aceptar sin cuestionar la fe de sus padres",
+      "Que fingir tener fe es aceptable mientras asista a la iglesia",
+      "Que la fe genuina no puede imponerse; cada persona necesita su propia conversión",
+    ],
+    correctAnswer: 3,
+    reference: "Mosíah 26:1-4",
+    explanation: "El relato muestra que la fe genuina no puede imponerse; cada persona necesita experimentar su propia conversión."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan la preocupación de Alma por los pecadores y la instrucción del Señor de perdonar cuantas veces se arrepientan?",
+    type: "multiple",
+    options: [
+      "No tienen relación entre sí",
+      "Ambas muestran que el objetivo no es castigar sino ayudar a las personas a volver al camino correcto",
+      "Muestran que Alma debía castigar sin dar oportunidad al arrepentimiento",
+      "Solo la instrucción del Señor tiene relevancia práctica",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 26",
+    explanation: "Ambas muestran que el objetivo del liderazgo espiritual es ayudar a las personas a volver al camino correcto, no solo castigar."
   },
 ];
 
@@ -1582,17 +2138,45 @@ export const mosiah27_1_24Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué le sucedió físicamente a Alma hijo después de la aparición del ángel?",
+    question: "Pilar tiene un hermano que se burla abiertamente de la Iglesia y ella ora por él sin ver cambios. ¿Qué le da esperanza la historia de Alma hijo?",
     type: "multiple",
     options: [
-      "Quedó ciego permanentemente por el resto de su vida",
-      "Sufrió una herida física visible en su cuerpo",
-      "No sintió ningún efecto físico, solo un cambio interno",
-      "Quedó mudo y sin fuerzas durante dos días y dos noches",
+      "Que su hermano nunca podrá cambiar de verdad",
+      "Que Dios puede responder a las oraciones sinceras de otros y transformar incluso a los más rebeldes",
+      "Que orar por otra persona no tiene ningún efecto real",
+      "Que solo debe orar por sí misma, no por su hermano",
+    ],
+    correctAnswer: 2,
+    reference: "Mosíah 27:14",
+    explanation: "La conversión de Alma hijo muestra que Dios puede responder a las oraciones sinceras de otros y transformar a los más rebeldes."
+  },
+  {
+    id: 6,
+    question: "Ian se pregunta si es posible cambiar completamente después de haber hecho mucho daño a otros. ¿Qué muestra la conversión de Alma hijo?",
+    type: "multiple",
+    options: [
+      "Que un cambio de corazón genuino es posible sin importar cuán lejos se haya estado del camino correcto",
+      "Que solo algunas personas pueden realmente cambiar",
+      "Que el daño causado a otros no se puede reparar nunca",
+      "Que es necesario primero reparar todo el daño antes de poder cambiar",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 27",
+    explanation: "La conversión de Alma hijo muestra que un cambio de corazón genuino es posible sin importar cuán lejos se haya estado del camino correcto."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta la aparición del ángel con lo que Alma hijo experimentó físicamente después (quedar mudo y sin fuerzas)?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Ambos elementos muestran el poder de Dios obrando de manera dramática para lograr un cambio real",
+      "Solo la aparición del ángel es relevante para su conversión",
+      "Lo que experimentó físicamente fue una coincidencia sin relación con el ángel",
     ],
     correctAnswer: 3,
-    reference: "Mosíah 27:19",
-    explanation: "Alma hijo quedó mudo y sin fuerzas durante dos días y dos noches."
+    reference: "Mosíah 27:11-19",
+    explanation: "Ambos elementos muestran el poder de Dios obrando de manera dramática para lograr un cambio real en Alma hijo."
   },
 ];
 
@@ -1658,17 +2242,45 @@ export const mosiah27_24_37Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué hizo Alma después de su conversión?",
+    question: "Guadalupe siente que su testimonio es 'heredado' de sus padres y no algo propio. ¿Qué le enseña Mosíah 27:25 sobre 'nacer de Dios'?",
     type: "multiple",
     options: [
-      "Se quedó en un solo lugar dirigiendo únicamente desde allí",
-      "Prefirió trabajar solo, sin compañeros de misión",
-      "Viajó junto a los hijos de Mosíah predicando la palabra por toda la tierra",
-      "Esperó a que otros vinieran a preguntarle sobre el evangelio",
+      "Que basta con la fe de la familia para tener un testimonio verdadero",
+      "Que cada persona necesita su propio cambio de corazón, no basta con la fe de la familia",
+      "Que 'nacer de Dios' es algo que ocurre automáticamente al crecer",
+      "Que su testimonio heredado ya es completamente válido",
+    ],
+    correctAnswer: 3,
+    reference: "Mosíah 27:25",
+    explanation: "Cada persona necesita experimentar su propio cambio de corazón; no basta con la fe heredada de la familia."
+  },
+  {
+    id: 6,
+    question: "Tomás ayudó a dañar la reputación de alguien y ahora quiere reparar el daño que causó. ¿Qué ejemplo de Alma después de su conversión le sirve?",
+    type: "multiple",
+    options: [
+      "Ignorar el daño causado y seguir adelante sin más",
+      "Dedicar su vida a hacer el bien y reparar activamente el daño causado, como hizo Alma",
+      "Esperar a que la otra persona lo perdone antes de actuar",
+      "Disculparse una sola vez y no volver a mencionar el tema",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 27:32-35",
+    explanation: "Alma dedicó su vida a hacer el bien y a reparar activamente el daño que había causado."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan 'nacer de Dios' y la decisión de Alma de predicar junto a los hijos de Mosíah?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Predicar era una obligación impuesta, sin relación con su conversión",
+      "El verdadero cambio de corazón lleva naturalmente al deseo de ayudar a otros a experimentarlo también",
+      "Solo la conversión personal de Alma importa en este relato",
     ],
     correctAnswer: 2,
-    reference: "Mosíah 27:32-37",
-    explanation: "Alma viajó junto a los hijos de Mosíah predicando la palabra de Dios por toda la tierra."
+    reference: "Mosíah 27:25-37",
+    explanation: "El verdadero cambio de corazón lleva naturalmente al deseo de ayudar a otros a experimentar la misma conversión."
   },
 ];
 
@@ -1734,17 +2346,45 @@ export const mosiah28Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué motivó su deseo de predicar a los lamanitas?",
+    question: "Catalina quiere compartir el evangelio con un grupo de compañeros que no comparten su fe, pero le da miedo el rechazo. ¿Qué la motiva el ejemplo de los hijos de Mosíah?",
     type: "multiple",
     options: [
-      "El amor por las almas y el deseo de que conocieran la verdad",
-      "Buscar gloria personal ante los ojos del pueblo nefita",
-      "Una obligación impuesta por su padre el rey Mosíah",
-      "El deseo de vivir una gran aventura lejos de casa",
+      "El amor genuino por las personas y el deseo de que conozcan la verdad, más que el temor al rechazo",
+      "La obligación de convencer a todos sus compañeros sin excepción",
+      "El deseo de sentirse superior espiritualmente a los demás",
+      "La necesidad de evitar cualquier tipo de rechazo social",
     ],
     correctAnswer: 0,
     reference: "Mosíah 28:3",
-    explanation: "Los motivó el amor por las almas y el deseo de que los lamanitas conocieran la verdad."
+    explanation: "A los hijos de Mosíah los motivó el amor genuino por las personas y el deseo de que conocieran la verdad."
+  },
+  {
+    id: 6,
+    question: "Nicolás siente que sus padres no confían en sus decisiones espirituales. ¿Qué muestra la reacción de Mosíah ante la petición de sus hijos?",
+    type: "multiple",
+    options: [
+      "Que Mosíah decidió negarse por miedo a perderlos",
+      "Que buscar la guía de Dios en vez de decidir solo por miedo o costumbre honra las decisiones de los hijos",
+      "Que Mosíah ignoró por completo la petición de sus hijos",
+      "Que las decisiones de los hijos no importan hasta cierta edad",
+    ],
+    correctAnswer: 1,
+    reference: "Mosíah 28:6-7",
+    explanation: "Mosíah buscó la guía de Dios en vez de decidir solo por miedo, mostrando respeto por la petición sincera de sus hijos."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta el deseo de los hijos de Mosíah de predicar con la consulta de Mosíah al Señor antes de darles permiso?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Solo la consulta de Mosíah tiene relevancia espiritual real",
+      "Muestran que Mosíah no confiaba en el deseo de sus hijos",
+      "Ambos muestran que las grandes decisiones familiares y misionales se toman mejor buscando la guía de Dios",
+    ],
+    correctAnswer: 3,
+    reference: "Mosíah 28:1-8",
+    explanation: "Ambos elementos muestran que las grandes decisiones familiares y misionales se toman mejor buscando la guía de Dios."
   },
 ];
 
@@ -1807,15 +2447,42 @@ export const repasoDominio5_6Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Por qué es importante revisar regularmente los versículos de dominio?",
+    question: "Antonella va a ayudar a enseñar en una clase de niños y no sabe qué versículo de dominio usar sobre los convenios bautismales. ¿Cuál le recomendarías?",
     type: "multiple",
     options: [
-      "Solo para tener éxito en el examen final de Seminario",
-      "Para mantener fresca en nuestra mente la doctrina fundamental",
-      "Para competir con otros estudiantes de la clase",
-      "No es realmente importante hacerlo con frecuencia",
+      "1 Nefi 3:7, porque habla de obediencia general",
+      "Mosíah 18:8-10, que describe claramente los convenios que hacemos al bautizarnos",
+      "2 Nefi 2:25, porque habla del gozo",
+      "Cualquier versículo, ya que todos tratan el mismo tema",
     ],
     correctAnswer: 1,
-    explanation: "El repaso regular mantiene estos principios fundamentales frescos y accesibles en nuestra mente."
+    reference: "Mosíah 18:8-10",
+    explanation: "Mosíah 18:8-10 describe claramente los convenios que hacemos al bautizarnos."
+  },
+  {
+    id: 6,
+    question: "Lautaro repasó los versículos de dominio pero olvida usarlos cuando realmente los necesita. ¿Qué le explicarías sobre el propósito de revisarlos regularmente?",
+    type: "multiple",
+    options: [
+      "Que revisarlos una sola vez ya es suficiente para toda la vida",
+      "Que solo sirven durante el año en que se estudian",
+      "Que el repaso constante ayuda a que el Espíritu los traiga a la memoria en el momento oportuno",
+      "Que memorizarlos no tiene ninguna utilidad real",
+    ],
+    correctAnswer: 2,
+    explanation: "El repaso constante ayuda a que el Espíritu traiga estos versículos a nuestra memoria cuando más los necesitamos."
+  },
+  {
+    id: 7,
+    question: "¿Qué tienen en común los distintos versículos de dominio que hemos repasado en estas semanas?",
+    type: "multiple",
+    options: [
+      "No tienen ningún tema en común entre sí",
+      "Todos refuerzan verdades fundamentales que fortalecen la fe y guían decisiones diarias",
+      "Solo sirven para ser memorizados sin ninguna aplicación real",
+      "Tratan exclusivamente temas históricos sin relevancia actual",
+    ],
+    correctAnswer: 1,
+    explanation: "Todos los versículos de dominio refuerzan verdades fundamentales que fortalecen la fe y guían decisiones diarias."
   },
 ];

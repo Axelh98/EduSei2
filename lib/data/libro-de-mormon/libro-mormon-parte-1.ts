@@ -64,14 +64,14 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, noviembre de 2017, pág. 62",
         texto: "Testifico que el Libro de Mormón es ciertamente la palabra de Dios; contiene las respuestas a los interrogantes más acuciantes de la vida.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&id=p35#p35"
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente M. Russell Ballard",
+        autor: "Élder M. Russell Ballard",
         fuente: "Liahona, julio de 1995, pág. 27",
         texto: "Si nos concentramos en los principios del plan del Padre Celestial para nuestra felicidad eterna y los vivimos, nos apartamos de las maldades del mundo. Si estamos afianzados en la comprensión correcta de quiénes somos, por qué estamos en este mundo y adónde iremos después de esta vida terrenal, Satanás no podrá poner en peligro nuestra felicidad por medio de ninguna clase de tentación.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/1995/04/answers-to-lifes-questions?lang=spa&id=p23,p24#p23"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1995/04/answers-to-lifes-questions?lang=spa&id=p27#p27"
       },
       {
         tipo: "conclusion",
@@ -215,7 +215,7 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "\"Revelación para la Iglesia, revelación para nuestras vidas\", Liahona, mayo de 2018, pág. 96",
         texto: "En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&id=p37#p37"
       },
       {
         tipo: "conclusion",
@@ -279,7 +279,7 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder David A. Bednar",
         fuente: "\"Buscar conocimiento por la fe\", Liahona, septiembre de 2007, págs. 19–20",
-        texto: "La fe verdadera se centra en el Señor Jesucristo y siempre conduce a la acción. Aprender por la fe requiere un esfuerzo espiritual, mental y físico, y no tan solo una recepción pasiva. Son la sinceridad y la constancia de nuestros actos inspirados en la fe lo que indica a nuestro Padre Celestial y a Su Hijo Jesucristo nuestra disposición a aprender y recibir instrucción del Espíritu Santo.",
+        texto: "La fe verdadera se centra en el Señor Jesucristo y siempre conduce a la acción. […] Aprender por la fe requiere un esfuerzo espiritual, mental y físico, y no tan sólo una recepción pasiva. Es la sinceridad y la constancia de nuestros actos inspirados en la fe que indica a nuestro Padre Celestial y a Su Hijo Jesucristo nuestra disposición para aprender y recibir instrucción del Espíritu Santo.",
         link: "https://www.churchofjesuschrist.org/study/liahona/2007/09/seek-learning-by-faith?lang=spa&id=p14,p25#p14"
       },
       {
@@ -431,7 +431,7 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson y Wendy W. Nelson",
         fuente: "\"Juventud de Israel\", devocional mundial para los jóvenes, 3 de junio de 2018, suplemento de la revista Liahona, pág. 13",
-        texto: "En el Libro de Mormón aprenderán la doctrina del recogimiento, las verdades acerca de Jesucristo, Su expiación y la plenitud de Su evangelio que no se encuentran en la Biblia. El Libro de Mormón es fundamental para el recogimiento de Israel. De hecho, si no existiera el Libro de Mormón, la promesa del recogimiento de Israel no ocurriría.",
+        texto: "A medida que sigan leyendo diariamente el Libro de Mormón, aprenderán la doctrina del recogimiento, las verdades acerca de Jesucristo, Su expiación y la plenitud de Su evangelio que no se encuentran en la Biblia. El Libro de Mormón es fundamental para el recogimiento de Israel. De hecho, si no hubiera Libro de Mormón, la promesa del recogimiento de Israel no ocurriría.",
         link: "https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa&id=p89#p89"
       },
       {
@@ -491,8 +491,8 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Ezra Taft Benson",
         fuente: "\"El Libro de Mormón: La piedra clave de nuestra religión\", Liahona, octubre de 2011, págs. 54–57",
-        texto: "El Libro de Mormón es la piedra clave de nuestro testimonio de Jesucristo, quien a la vez es la piedra angular de todo lo que hacemos. Con poder y claridad testifica de Su realidad. No es solo que el Libro de Mormón nos enseña la verdad; hay un poder en el libro que empezará a fluir en la vida de ustedes en el momento en que empiecen a estudiarlo seriamente. Encontrarán mayor poder para resistir la tentación.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2011/10/the-book-of-mormon-keystone-of-our-religion?lang=spa"
+        texto: "El Libro de Mormón es la piedra clave de nuestro testimonio de Jesucristo, quien a la vez es la piedra angular de todo lo que hacemos. Con poder y claridad testifica de Su realidad. […] No es sólo que el Libro de Mormón nos enseña la verdad, aunque en realidad así lo hace; no es sólo que el Libro de Mormón da testimonio de Cristo, aunque de hecho también lo hace; hay algo más que eso. Hay un poder en el libro que empezará a fluir en la vida de ustedes en el momento en que empiecen a estudiarlo seriamente. Encontrarán mayor poder para resistir la tentación…",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2011/10/the-book-of-mormon-keystone-of-our-religion?lang=spa&id=p16,p28#p16"
       },
       {
         tipo: "enseñanza",
@@ -565,7 +565,7 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
         tipo: "enseñanza",
         autor: "Emma Smith (esposa de José Smith)",
         fuente: "Ensayos sobre Temas del Evangelio, \"La traducción del Libro de Mormón\"",
-        texto: "Estaba sentado, con el rostro oculto en el sombrero, con la piedra en su interior, y dictando, hora tras hora, sin nada entre nosotros dos. Cuando retomábamos la labor tras las comidas o tras una interrupción, inmediatamente comenzaba donde lo había dejado, sin ni siquiera ver el manuscrito ni hacer que le leyese parte alguna de él.",
+        texto: "[José estaba] sentado, con el rostro oculto en el sombrero, con la piedra en su interior, y dictando, hora tras hora, sin nada entre nosotros dos. […] Cuando fui su escriba, tu padre me dictaba hora tras hora; y cuando retomábamos la labor tras las comidas o tras una interrupción, inmediatamente comenzaba donde lo había dejado, sin ni siquiera ver el manuscrito ni hacer que le leyese parte alguna de él.",
         link: "https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=spa&id=p16#p16"
 
       },
@@ -624,7 +624,7 @@ export const leccionesResumidasLM_Parte1: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Henry B. Eyring",
+        autor: "Élder Henry B. Eyring",
         fuente: "\"Un testimonio imperecedero de la misión del profeta José Smith\", Liahona, noviembre de 2003, pág. 90",
         texto: "Los Tres Testigos jamás negaron su testimonio del Libro de Mormón; no podían hacerlo porque sabían que era verdadero. Realizaron sacrificios y pasaron dificultades inimaginables para la mayoría de la gente. Oliver Cowdery dio el mismo testimonio del origen divino del Libro de Mormón en su lecho de muerte.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2003/10/an-enduring-testimony-of-the-mission-of-the-prophet-joseph?lang=spa&id=p13#p13"

@@ -42,14 +42,14 @@ export const leccionesSemana19y20_LM: Lesson[] = [
         autor: "Élder Patrick Kearon",
         fuente: "Conferencia General, octubre de 2010",
         texto:
-          "[S]olo hallaremos la sanación y el alivio cuando nos pongamos a los pies del Gran Médico, nuestro Salvador Jesucristo. Debemos abandonar nuestras armas de rebelión (y cada uno sabemos cuáles son). Debemos abandonar el pecado, la vanidad y el orgullo... Entonces nos podrá sanar. Entonces nos podrá limpiar del venenoso aguijón del pecado.",
+          "[S]ólo hallaremos la sanación y el alivio cuando nos pongamos a los pies del Gran Médico, nuestro Salvador Jesucristo. Debemos abandonar nuestras armas de rebelión (y cada uno sabemos cuáles son). Debemos abandonar el pecado, la vanidad y el orgullo. […] Entonces nos podrá sanar. Entonces nos podrá limpiar del venenoso aguijón del pecado.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2010/10/come-unto-me-with-full-purpose-of-heart-and-i-shall-heal-you?lang=spa&id=p16#p16",
       },
       {
         tipo: "enseñanza",
         autor: "Élder David A. Bednar",
         fuente: "Conferencia General, octubre de 2012",
-        texto: "Nuestras armas de rebelión podrían ser el egoísmo, el orgullo y la desobediencia.",
+        texto: "Para abandonar las preciadas \"armas de rebelión\" tales como el egoísmo, el orgullo y la desobediencia, se necesita más que el sólo creer y saber.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&id=p33#p33",
       },
       {
@@ -119,7 +119,7 @@ export const leccionesSemana19y20_LM: Lesson[] = [
         autor: "Presidenta Joy D. Jones",
         fuente: "Conferencia General, octubre de 2018",
         texto:
-          "El Señor aconsejó: 'Mirad hacia mí en todo pensamiento'... Podemos hacer que cada punto de nuestra lista de tareas se convierta en una manera de glorificarlo a Él.",
+          "El Señor aconsejó: “Mirad hacia mí en todo pensamiento”. […] Podemos hacer que cada punto de nuestra lista de tareas se convierta en una manera de glorificarlo a Él.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/for-him?lang=spa&id=p18-p19#p18",
       },
       {
@@ -178,7 +178,7 @@ export const leccionesSemana19y20_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Dallin H. Oaks",
+        autor: "Élder Dallin H. Oaks",
         fuente: "Conferencia General, abril de 2011",
         texto:
           "Los deseos dictan nuestras prioridades, las prioridades afectan nuestras decisiones y las decisiones determinan nuestras acciones. Los deseos sobre los que actuamos determinan las cosas que cambiamos, lo que logramos y lo que llegamos a ser.",
@@ -189,7 +189,7 @@ export const leccionesSemana19y20_LM: Lesson[] = [
         autor: "Élder Neal A. Maxwell",
         fuente: "Conferencia General, octubre de 1996",
         texto:
-          "[L]o que persistimos en desear es lo que, con el tiempo, llegaremos a ser y lo que recibiremos en la eternidad [...] Solamente si los educamos y capacitamos, nuestros deseos llegarán a ser nuestros aliados en vez de nuestros enemigos.",
+          "[L]o que persistimos en desear es lo que, con el tiempo, llegaremos a ser y lo que recibiremos en la eternidad […] Solamente si los educamos y capacitamos, nuestros deseos llegarán a ser nuestros aliados en vez de nuestros enemigos.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/1996/10/according-to-the-desire-of-our-hearts?lang=spa&id=p6,p24#p6",
       },
       {
@@ -384,7 +384,7 @@ export const leccionesSemana19y20_LM: Lesson[] = [
         autor: "Presidente Henry B. Eyring",
         fuente: "Conferencia General, octubre de 2007",
         texto:
-          "[M]editaba en esta pregunta: '¿Hoy he visto la mano de Dios bendecirnos a nosotros, a nuestros hijos o a nuestra familia?'... comprendía que el tratar de recordar había permitido que Dios me mostrara lo que Él había hecho.",
+          "[M]editaba en esta pregunta: “¿Hoy he visto la mano de Dios bendecirnos a nosotros, a nuestros hijos o a nuestra familia?”. […] Comprendí que el tratar de recordar había permitido que Dios me mostrara lo que Él había hecho.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2007/10/o-remember-remember?lang=spa&id=p7#p7",
       },
       {
@@ -451,10 +451,10 @@ export const leccionesSemana19y20_LM: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Ezra Taft Benson",
-        fuente: "Liahona, enero de 1987",
+        fuente: "\"El Libro de Mormón: La piedra clave de nuestra religión\", Liahona, octubre de 2011, págs. 54–57",
         texto:
-          "Hay un poder en el Libro de Mormón que empezará a fluir en la vida de ustedes en el momento en que empiecen a estudiarlo seriamente. Encontrarán mayor poder para resistir la tentación, encontrarán el poder para evitar el engaño; encontrarán el poder para mantenerse en el camino estrecho y angosto.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2011/10/the-book-of-mormon-keystone-of-our-religion?lang=spa",
+          "…hay un poder en el libro que empezará a fluir en la vida de ustedes en el momento en que empiecen a estudiarlo seriamente. Encontrarán mayor poder para resistir la tentación, encontrarán el poder para evitar el engaño; encontrarán el poder para mantenerse en el camino estrecho y angosto.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2011/10/the-book-of-mormon-keystone-of-our-religion?lang=spa&id=p28#p28",
       },
       {
         tipo: "conclusion",

@@ -68,8 +68,8 @@ export const leccionesSemana13_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Linda S. Reeves",
-        fuente: "Liahona, noviembre de 2016 (discurso \El gran plan de redención\")",
+        autor: "Hermana Linda S. Reeves",
+        fuente: "Liahona, noviembre de 2016 (discurso \"El gran plan de redención\")",
         texto: "Cuando hemos pecado, Satanás a menudo trata de convencernos de que lo más noble es proteger a los demás de los estragos que causaría el que se conocieran nuestros pecados, incluso de evitar confesar al obispo, quien puede bendecir nuestra vida mediante sus llaves del sacerdocio como juez común en Israel. Sin embargo, la verdad es que lo más noble y cristiano que podemos hacer es confesar y arrepentirnos. Ese es el gran plan de redención del Padre Celestial",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2016/10/the-great-plan-of-redemption?lang=spa&id=p5#p5"
 
@@ -263,10 +263,10 @@ export const leccionesSemana13_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente Oaks",
-        fuente: "Liahona, Enero de 2002, pág.7-8 (discurso \"Compartir el Evangelio\")",
-        texto: "La historia ha demostrado que hay seguridad, paz, prosperidad y felicidad al responder al consejo profético.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2001/10/sharing-the-gospel?lang=spa&id=p16#p16"
+        autor: "Élder Dallin H. Oaks",
+        fuente: "Liahona, enero de 2002 (discurso \"Compartir el Evangelio\")",
+        texto: "Gracias a nuestro testimonio de la verdad e importancia del Evangelio restaurado, comprendemos el valor de lo que se nos ha dado. Gracias a nuestro amor por Dios y por nuestros semejantes, adquirimos el deseo de compartir ese gran don con todos. La intensidad de nuestro deseo de compartir el Evangelio es un gran indicador del grado de nuestra conversión.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2001/10/sharing-the-gospel?lang=spa&id=p15#p15"
 
       },
 

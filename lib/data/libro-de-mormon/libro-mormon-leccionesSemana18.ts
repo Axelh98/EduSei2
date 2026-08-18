@@ -110,7 +110,8 @@ export const leccionesSemana18_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, mayo de 2017, pág. 41",
-        texto: "Cuando busquen el poder del Señor en su vida con la misma intensidad que tiene uno que se está ahogando y lucha por respirar, el poder proveniente de Jesucristo será de ustedes. Cuando el Salvador sepa que ustedes realmente desean acudir a Él... serán guiados por el Espíritu Santo para saber exactamente lo que deben hacer [9]."
+        texto: "Cuando procuren el poder del Señor en su vida con la misma intensidad que tiene uno que se está ahogando y lucha por respirar, el poder proveniente de Jesucristo será de ustedes. Cuando el Salvador sepa que ustedes realmente desean acudir a Él […], serán guiados por el Espíritu Santo para saber exactamente lo que deben hacer.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&id=p29#p29"
       },
       {
         tipo: "conclusion",
@@ -167,9 +168,10 @@ export const leccionesSemana18_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Henry B. Eyring",
-        fuente: "Liahona, febrero de 2004, págs. 17-18",
-        texto: "Jamás subestimen el valor espiritual de hacer cosas temporales para el beneficio de aquellos a quienes sirven... Sean sus siervos y llegarán a amarlos, y ellos sentirán su amor. Pero, lo que es aún más importante, sentirán el amor de Dios [21]."
+        autor: "Élder Henry B. Eyring",
+        fuente: "“El Libro de Mormón cambiará sus vidas”, Liahona, febrero de 2004, págs. 17, 18",
+        texto: "Jamás subestimen el valor espiritual de hacer cosas temporales para el beneficio de aquellos a quienes sirven. […] Sean sus siervos y llegarán a amarles; y ellos sentirán su amor. Pero, lo que es aún más importante, sentirán el amor de Dios.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2004/02/the-book-of-mormon-will-change-your-life?lang=spa&id=p57,p58#p57"
       },
       {
         tipo: "conclusion",
@@ -228,7 +230,8 @@ export const leccionesSemana18_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder David A. Bednar",
         fuente: "Liahona, noviembre de 2012, pág. 108",
-        texto: "Para muchos de nosotros, la conversión es un proceso constante y no un solo acontecimiento que resulta de una experiencia poderosa o dramática... La conversión al Señor requiere tanto perseverancia como paciencia [33]."
+        texto: "Para muchos de nosotros, la conversión es un proceso constante y no un solo acontecimiento que resulta de una experiencia poderosa o dramática. […] La conversión al Señor requiere tanto perseverancia como paciencia.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&id=p24#p24"
       },
       {
         tipo: "conclusion",

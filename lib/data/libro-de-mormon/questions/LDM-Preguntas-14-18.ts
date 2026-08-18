@@ -66,17 +66,45 @@ export const alma1_1_18Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué le sucedió a Nehór después de matar a Gedeón?",
+    question: "Bruno ve que un influencer popular dice que 'todos van al cielo sin importar cómo vivan' y muchos lo siguen. ¿Qué enseñanza de Nehor se parece a esto?",
     type: "multiple",
     options: [
-      "Escapó sin ninguna consecuencia legal",
-      "Confesó su error, pero aun así fue liberado sin castigo",
-      "Fue ejecutado según la ley",
-      "Huyó a otra tierra antes de ser capturado",
+      "Que todos serían salvos sin importar cómo vivieran, lo cual Alma corrigió como falso",
+      "Que debemos vivir con rectitud para ser salvos",
+      "Que solo los sacerdotes pueden ser salvos",
+      "Que la salvación depende de la riqueza de la persona",
+    ],
+    correctAnswer: 0,
+    reference: "Alma 1:4",
+    explanation: "Nehor enseñaba que todos serían salvos sin importar cómo vivieran, doctrina que Alma corrigió como falsa."
+  },
+  {
+    id: 6,
+    question: "Victoria conoce a alguien que predica solo para ganar dinero y fama. ¿Qué le ayudaría a identificar esto según Alma 1?",
+    type: "multiple",
+    options: [
+      "Que es una forma válida de servicio si logra convencer a otros",
+      "Reconocer las supercherías sacerdotales: predicar por dinero y popularidad en vez de amor a Dios",
+      "Que no hay ningún problema mientras la gente escuche el mensaje",
+      "Que solo es un problema si el predicador comete un delito",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 1:16",
+    explanation: "Las supercherías sacerdotales consisten en predicar por dinero y popularidad en lugar de amor a Dios."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta la falsa doctrina de Nehor sobre la salvación universal con su forma de ejercer el sacerdocio por dinero?",
+    type: "multiple",
+    options: [
+      "No tienen relación entre sí",
+      "Solo la doctrina sobre la salvación era realmente dañina",
+      "Ambas buscaban el beneficio personal de Nehor en lugar de la verdad y el bienestar del pueblo",
+      "Ambas eran enseñanzas verdaderas mal interpretadas por el pueblo",
     ],
     correctAnswer: 2,
-    reference: "Alma 1:15",
-    explanation: "Nehor confesó entre el cielo y la tierra que su enseñanza era falsa, pero de todos modos fue ejecutado según la ley."
+    reference: "Alma 1",
+    explanation: "Ambas enseñanzas de Nehor buscaban su beneficio personal en lugar de la verdad y el bienestar del pueblo."
   },
 ];
 
@@ -142,17 +170,45 @@ export const alma1_19_33Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué caracterizaba a los miembros que vivían el evangelio correctamente?",
+    question: "Gael ve que en su grupo de jóvenes algunos tienen más dinero que otros y eso genera distancia entre ellos. ¿Qué principio de Alma 1:30 aplicaría?",
     type: "multiple",
     options: [
-      "Impartían de sus bienes a los necesitados y no usaban ropa costosa",
-      "Buscaban acumular riquezas para mostrar el favor de Dios",
-      "Se distinguían del resto del pueblo por su forma de vestir",
-      "Se mantenían alejados de quienes no pertenecían a la iglesia",
+      "Que los más ricos deben liderar siempre el grupo",
+      "No hacer acepción de personas; tratar a todos como iguales sin importar su situación económica",
+      "Que es normal que se formen grupos según el nivel económico",
+      "Que solo los líderes deben preocuparse por la unidad del grupo",
     ],
-    correctAnswer: 0,
-    reference: "Alma 1:27-30",
-    explanation: "Los miembros fieles impartían de sus bienes y no se distinguían por ropa costosa."
+    correctAnswer: 1,
+    reference: "Alma 1:30",
+    explanation: "La iglesia no hacía acepción de personas; todos eran tratados como iguales sin importar su situación económica."
+  },
+  {
+    id: 6,
+    question: "Emilia tiene ropa y cosas que ya no usa mientras conoce a alguien que las necesita. ¿Qué le enseña el ejemplo de la iglesia primitiva?",
+    type: "multiple",
+    options: [
+      "Que debe guardar todo por si acaso lo necesita después",
+      "Que ayudar a otros es responsabilidad exclusiva de los líderes",
+      "Impartir de su sustancia a los necesitados, como hacían los primeros miembros de la iglesia",
+      "Que solo debe compartir si le sobra mucho",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 1:27",
+    explanation: "Los miembros de la iglesia primitiva impartían de su sustancia a los necesitados."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan la igualdad entre ricos y pobres y la paciencia frente a la persecución en este capítulo?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Ambas actitudes reflejan un corazón humilde que prioriza a Dios y a los demás por sobre el orgullo",
+      "Solo la igualdad económica tiene valor espiritual real",
+      "La paciencia ante la persecución contradice la idea de igualdad",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 1",
+    explanation: "Ambas actitudes reflejan un corazón humilde que prioriza a Dios y a los demás por sobre el orgullo."
   },
 ];
 
@@ -218,17 +274,45 @@ export const alma2_3Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué nos enseña Alma 3 sobre las consecuencias de nuestras elecciones?",
+    question: "Nicolás quiere ser el líder de su equipo a toda costa, incluso pasando por encima de otros. ¿Qué advertencia le daría el ejemplo de Amlici?",
     type: "multiple",
     options: [
-      "Que no existen consecuencias reales por nuestras decisiones",
-      "Que nos separamos a nosotros mismos de Dios por nuestras elecciones",
-      "Que Dios nos separa de Él de manera arbitraria",
-      "Que todas las personas reciben exactamente el mismo trato",
+      "Que el liderazgo siempre trae beneficios sin riesgos",
+      "Que está bien competir sin importar los métodos usados",
+      "Que buscar poder de forma egoísta puede llevar a consecuencias destructivas para uno mismo y para otros",
+      "Que Amlici tuvo éxito al final gracias a su ambición",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 2-3",
+    explanation: "El ejemplo de Amlici muestra que buscar poder de forma egoísta trae consecuencias destructivas."
+  },
+  {
+    id: 6,
+    question: "Antonella se pregunta si sus decisiones diarias realmente importan a largo plazo. ¿Qué le enseña Alma 3:26-27?",
+    type: "multiple",
+    options: [
+      "Que las decisiones pequeñas no tienen ningún impacto real",
+      "Que nuestras acciones y deseos determinan las recompensas que recibimos, buenas o malas",
+      "Que solo las grandes decisiones importan ante Dios",
+      "Que el resultado de nuestras decisiones depende solo de la suerte",
     ],
     correctAnswer: 1,
     reference: "Alma 3:26-27",
-    explanation: "Nos separamos a nosotros mismos de Dios por las elecciones que hacemos."
+    explanation: "Nuestras acciones y deseos determinan las recompensas que recibimos, buenas o malas."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre la marca que los amlicitas se pusieron ellos mismos y el principio de que nos separamos de Dios por nuestras propias elecciones?",
+    type: "multiple",
+    options: [
+      "No tienen relación alguna entre sí",
+      "La marca fue impuesta por Dios sin relación con sus decisiones",
+      "Ambas muestran que las consecuencias de nuestras decisiones muchas veces las provocamos nosotros mismos",
+      "Solo el principio de separación de Dios es relevante aquí",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 3",
+    explanation: "Ambas muestran que las consecuencias de nuestras decisiones muchas veces las provocamos nosotros mismos."
   },
 ];
 
@@ -294,17 +378,45 @@ export const alma4Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué decidió hacer Alma para ayudar a la iglesia?",
+    question: "Lautaro tiene un cargo de liderazgo en su clase de Seminario y siente que le quita tiempo para lo que más le importa espiritualmente. ¿Qué ejemplo de Alma 4 podría orientarlo?",
     type: "multiple",
     options: [
-      "Renunciar por completo a cualquier responsabilidad pública",
-      "Dedicarse al ministerio de la palabra, dejando el asiento judicial",
-      "Crear leyes más estrictas para castigar a los orgullosos",
-      "Ignorar los problemas y esperar que se resolvieran solos",
+      "Que debe renunciar a cualquier tipo de responsabilidad",
+      "Alma cedió el asiento judicial para dedicarse a predicar la palabra, priorizando lo espiritual",
+      "Que el liderazgo y la espiritualidad nunca pueden combinarse",
+      "Que debe mantener el cargo sin importar el costo espiritual",
     ],
     correctAnswer: 1,
     reference: "Alma 4:19",
-    explanation: "Alma decidió dedicarse al ministerio de la palabra, dejando el asiento judicial a Nefihah."
+    explanation: "Alma cedió el asiento judicial para dedicarse a predicar la palabra, priorizando lo espiritual sobre lo político."
+  },
+  {
+    id: 6,
+    question: "Milagros nota que algunos compañeros de su congregación se sienten superiores por tener más recursos. ¿Qué advierte Alma 4 sobre esto?",
+    type: "multiple",
+    options: [
+      "Que tener más recursos siempre es señal de bendición divina",
+      "Que no hay ningún problema en sentirse superior a otros",
+      "Que el orgullo por la prosperidad puede causar división y persecución dentro de la comunidad de fe",
+      "Que solo los líderes deben preocuparse por el orgullo del pueblo",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 4:6-12",
+    explanation: "El orgullo por la prosperidad puede causar división y persecución dentro de la comunidad de fe."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan la decisión de Alma de dejar el cargo político y el problema de orgullo que había en la iglesia?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Alma priorizó combatir el orgullo con la palabra de Dios, que consideró más poderosa que su autoridad política",
+      "El cargo político de Alma era la única forma de combatir el orgullo",
+      "El orgullo del pueblo no tuvo ninguna influencia en la decisión de Alma",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 4",
+    explanation: "Alma priorizó combatir el orgullo con la palabra de Dios, que consideró más poderosa que su autoridad política."
   },
 ];
 
@@ -366,16 +478,42 @@ export const repasoDominio7_8Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Por qué es valioso tener estos versículos en nuestra mente y corazón?",
+    question: "Bruno olvida los versículos de dominio justo cuando más los necesita, como en una conversación difícil. ¿Qué le ayudaría según lo que hemos aprendido sobre el repaso?",
     type: "multiple",
     options: [
-      "Solamente para lucirnos frente a otros miembros de la clase",
-      "No aportan ningún valor real a nuestra vida espiritual",
-      "Para que el Espíritu pueda traerlos a nuestra memoria cuando los necesitemos",
-      "Únicamente para aprobar los exámenes finales de Seminario",
+      "Dejar de intentar memorizarlos porque no funciona",
+      "Repasarlos constantemente para que el Espíritu pueda traerlos a su memoria en el momento oportuno",
+      "Memorizarlos solo antes de un examen",
+      "Escribirlos una sola vez y no volver a repasarlos",
     ],
-    correctAnswer: 2,
-    explanation: "Es valioso porque el Espíritu puede traerlos a nuestra memoria cuando más los necesitemos."
+    correctAnswer: 1,
+    explanation: "Repasar constantemente ayuda a que el Espíritu traiga estos versículos a la memoria en el momento oportuno."
+  },
+  {
+    id: 6,
+    question: "Victoria piensa que aprender doctrina es solo para la clase de Seminario, no para su vida diaria. ¿Qué le corregirías?",
+    type: "multiple",
+    options: [
+      "Que efectivamente la doctrina solo aplica dentro del salón de clases",
+      "Que solo los adultos necesitan aplicar la doctrina en su vida",
+      "Que la doctrina es interesante pero no tiene aplicación práctica",
+      "Que estos principios están diseñados para aplicarse en decisiones diarias fuera del salón de clases",
+    ],
+    correctAnswer: 3,
+    explanation: "Estos principios están diseñados para aplicarse en decisiones diarias, no solo dentro del salón de clases."
+  },
+  {
+    id: 7,
+    question: "¿Qué tienen en común los temas de obediencia, albedrío y cambio de corazón que hemos repasado?",
+    type: "multiple",
+    options: [
+      "No tienen ningún tema en común",
+      "Todos apuntan al mismo proceso de acercarnos más a Cristo mediante nuestras decisiones",
+      "Solo tratan sobre reglas que hay que seguir sin comprender",
+      "Son temas completamente independientes entre generaciones distintas",
+    ],
+    correctAnswer: 1,
+    explanation: "Todos estos temas apuntan al mismo proceso de acercarnos más a Cristo mediante nuestras decisiones."
   },
 ];
 
@@ -445,17 +583,45 @@ export const alma5_1_32Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué significa tener la imagen de Dios grabada en el rostro?",
+    question: "Emilia sabe todas las respuestas correctas en la clase de Seminario, pero no está segura de sentir un cambio real en su corazón. ¿Qué pregunta de Alma 5:14 le ayudaría a reflexionar?",
     type: "multiple",
     options: [
-      "Reflejar los atributos de Cristo en nuestra vida",
-      "Tener un parecido físico literal con una representación de Dios",
-      "Poseer una fotografía o pintura religiosa en el hogar",
-      "Ser una persona completamente libre de imperfecciones",
+      "Preguntarse cuántas respuestas correctas puede dar en clase",
+      "Preguntarse honestamente si ha experimentado un verdadero cambio de corazón, no solo conocimiento",
+      "Preguntarse si sus compañeros la consideran una buena estudiante",
+      "Preguntarse si conoce mejor la doctrina que el resto de la clase",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 5:14",
+    explanation: "Alma invita a preguntarnos honestamente si hemos experimentado un cambio de corazón, no solo adquirido conocimiento."
+  },
+  {
+    id: 6,
+    question: "Joaquín se compara constantemente con otros de su congregación para sentirse bien consigo mismo. ¿Qué le enseñan las preguntas de autoevaluación de Alma?",
+    type: "multiple",
+    options: [
+      "Que la autoevaluación debe ser honesta y personal, no una comparación con otras personas",
+      "Que compararse con otros es la mejor forma de medir el progreso espiritual",
+      "Que solo importa ser mejor que la mayoría de la congregación",
+      "Que Alma recomendaba evaluar primero a los demás",
     ],
     correctAnswer: 0,
-    reference: "Alma 5:19",
-    explanation: "Significa reflejar los atributos de Cristo en nuestra manera de vivir."
+    reference: "Alma 5:14-31",
+    explanation: "La autoevaluación que propone Alma debe ser honesta y personal, no una comparación con otras personas."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se conectan la pregunta sobre el cambio de corazón (v.14) y la de imaginar la voz del Señor invitando a venir (v.16)?",
+    type: "multiple",
+    options: [
+      "No tienen relación entre sí",
+      "Ambas invitan a examinar si nuestra relación con Dios es real y personal, no solo teórica",
+      "Solo la primera pregunta tiene valor espiritual real",
+      "La segunda pregunta reemplaza la necesidad de la primera",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 5:14-16",
+    explanation: "Ambas preguntas invitan a examinar si nuestra relación con Dios es real y personal."
   },
 ];
 
@@ -521,17 +687,45 @@ export const alma5_33_62Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué advierte Alma sobre el orgullo y la envidia?",
+    question: "Camila siente que se ha alejado tanto de la Iglesia que ya no podría volver. ¿Qué le ofrece la imagen del Buen Pastor en Alma 5?",
     type: "multiple",
     options: [
-      "Que no representan ningún problema espiritual real",
-      "Que son sentimientos que todas las personas deben aceptar",
-      "Que son en realidad virtudes que Dios aprueba",
-      "Que son obstáculos para entrar en el redil de Dios",
+      "La certeza de que ya es demasiado tarde para ella",
+      "La idea de que debe esperar a sentirse mejor antes de volver",
+      "La certeza de que el Señor la llama por su nombre y la invita a volver sin importar cuánto se haya alejado",
+      "La instrucción de resolver todo sola antes de acercarse a Dios",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 5:38,49",
+    explanation: "El Buen Pastor llama a Sus ovejas por su nombre y las invita a volver sin importar cuánto se hayan alejado."
+  },
+  {
+    id: 6,
+    question: "Franco tiene un amigo que muestra mucho orgullo y no acepta consejos de nadie. ¿Qué advierte Alma sobre el orgullo y la envidia?",
+    type: "multiple",
+    options: [
+      "Que son cualidades que ayudan a destacar entre los demás",
+      "Que son obstáculos que impiden entrar en el redil de Dios y deben ser abandonados",
+      "Que solo afectan a quienes ya tienen problemas espirituales graves",
+      "Que no tienen ninguna relación con la vida espiritual",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 5:53-54",
+    explanation: "Alma advierte que el orgullo y la envidia son obstáculos que impiden entrar en el redil de Dios."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre la imagen del Buen Pastor y la invitación a nacer de nuevo en este mismo pasaje?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "La imagen del Buen Pastor contradice la idea de nacer de nuevo",
+      "Solo la invitación a nacer de nuevo tiene importancia doctrinal",
+      "Ambas muestran que Dios busca activamente a las personas y ofrece un camino real de transformación",
     ],
     correctAnswer: 3,
-    reference: "Alma 5:53-54",
-    explanation: "Alma advierte que el orgullo y la envidia son obstáculos para entrar en el redil de Dios."
+    reference: "Alma 5:38-49",
+    explanation: "Ambas imágenes muestran que Dios busca activamente a las personas y ofrece un camino real de transformación."
   },
 ];
 
@@ -597,17 +791,45 @@ export const alma7_1_13Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cómo deberíamos responder al saber que Cristo comprende nuestras debilidades?",
+    question: "Renata siente que nadie entiende lo que está pasando en su vida, ni siquiera Dios. ¿Qué le enseña Alma 7:11-12?",
     type: "multiple",
     options: [
-      "Acudiendo a Él con confianza en nuestros momentos de necesidad",
-      "Sintiendo que ya no necesitamos hacer ningún esfuerzo propio",
-      "Evitando hablar de nuestras luchas por vergüenza",
-      "Esperando que Él resuelva todo sin nuestra participación",
+      "Que Dios no puede comprender completamente los problemas humanos",
+      "Que Cristo tomó sobre sí nuestros dolores y aflicciones para poder comprendernos y socorrernos",
+      "Que debe resolver sus problemas sin buscar ayuda espiritual",
+      "Que solo las personas mayores pueden entender su situación",
     ],
-    correctAnswer: 0,
+    correctAnswer: 1,
+    reference: "Alma 7:11-12",
+    explanation: "Cristo tomó sobre sí nuestros dolores y aflicciones para poder comprendernos y socorrernos."
+  },
+  {
+    id: 6,
+    question: "Bautista piensa que debe resolver solo sus problemas sin pedir ayuda a Dios. ¿Qué principio de este pasaje lo invita a cambiar de actitud?",
+    type: "multiple",
+    options: [
+      "Que pedir ayuda a Dios es señal de debilidad",
+      "Que Dios solo ayuda a quienes ya resolvieron parte del problema solos",
+      "Acudir a Cristo con confianza, ya que Él comprende nuestras debilidades y puede ayudarnos",
+      "Que es mejor no mencionar los problemas personales a nadie",
+    ],
+    correctAnswer: 2,
     reference: "Alma 7:12",
-    explanation: "Debemos acudir a Cristo con confianza, sabiendo que Él comprende nuestras debilidades."
+    explanation: "Podemos acudir a Cristo con confianza, ya que Él comprende nuestras debilidades y puede ayudarnos."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan que Cristo tomó nuestras aflicciones y la profecía de que nacería en Jerusalén?",
+    type: "multiple",
+    options: [
+      "No tienen relación entre sí",
+      "Ambas muestran que la misión de Cristo fue real y concreta, cumplida en un lugar y tiempo específicos por amor a nosotros",
+      "Solo la profecía sobre Jerusalén tiene importancia histórica",
+      "Tomar nuestras aflicciones no tuvo relación con Su nacimiento real",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 7:10-12",
+    explanation: "Ambas muestran que la misión de Cristo fue real y concreta, cumplida en un lugar y tiempo específicos por amor a nosotros."
   },
 ];
 
@@ -673,17 +895,45 @@ export const ddAlma7_11_13Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué condición se requiere para que la expiación sea efectiva en nuestra vida?",
+    question: "Delfina quiere ayudar a una amiga que está pasando por una situación muy dolorosa pero no sabe qué decirle. ¿Qué le sugiere Alma 7:11-13?",
     type: "multiple",
     options: [
-      "Solamente creer que Cristo existió en algún momento histórico",
-      "Alcanzar primero la perfección por nuestros propios medios",
-      "No se requiere ninguna condición de nuestra parte",
-      "Fe en Cristo y arrepentimiento",
+      "Decirle que su problema no es tan grave como parece",
+      "Compartir que Cristo experimentó ese mismo tipo de dolor y puede socorrerla realmente",
+      "Evitar el tema hasta que su amiga se sienta mejor sola",
+      "Decirle que ore más y no vuelva a mencionar el problema",
     ],
-    correctAnswer: 3,
+    correctAnswer: 1,
+    reference: "Alma 7:11-13",
+    explanation: "Podemos compartir que Cristo experimentó ese mismo tipo de dolor y puede socorrer verdaderamente a quien sufre."
+  },
+  {
+    id: 6,
+    question: "Santino cree que la fe en Cristo no tiene ningún efecto práctico en momentos difíciles. ¿Qué le corregirías con este pasaje?",
+    type: "multiple",
+    options: [
+      "Que la fe en Cristo y el arrepentimiento hacen que la expiación sea efectiva en nuestra vida diaria",
+      "Que la fe solo tiene efecto después de la muerte",
+      "Que la expiación no requiere ninguna acción de nuestra parte",
+      "Que solo los líderes de la Iglesia se benefician realmente de la expiación",
+    ],
+    correctAnswer: 0,
     reference: "Alma 7:13",
-    explanation: "Se requiere fe en Cristo y arrepentimiento para que la expiación sea efectiva en nuestra vida."
+    explanation: "La fe en Cristo y el arrepentimiento hacen que la expiación sea efectiva en nuestra vida diaria."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta el hecho de que Cristo tomó nuestra carne con Su capacidad de socorrernos?",
+    type: "multiple",
+    options: [
+      "No tienen relación entre sí",
+      "Al conocer la condición humana según la carne, Cristo puede socorrer a Su pueblo con comprensión perfecta",
+      "Tomar nuestra carne fue solo un requisito simbólico sin efecto real",
+      "Solo Su divinidad, no Su carne, le permite socorrernos",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 7:12-13",
+    explanation: "Al conocer la condición humana según la carne, Cristo puede socorrer a Su pueblo con comprensión perfecta."
   },
 ];
 
@@ -749,17 +999,45 @@ export const alma7_14_27Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué promesa hace Alma a quienes viven fielmente?",
+    question: "Pilar siente que nunca podrá ser lo suficientemente buena para Dios sin importar cuánto se esfuerce. ¿Qué le enseña Alma 7:14?",
     type: "multiple",
     options: [
-      "Que Dios los sostendrá en sus pruebas y los levantará en el último día",
-      "Que nunca más tendrán que enfrentar ninguna dificultad",
-      "Que serán reconocidos públicamente por su fidelidad",
-      "Que su vida será cómoda desde ese momento en adelante",
+      "Que debe esforzarse aún más hasta lograr la perfección por sí sola",
+      "Que podemos ser hallados sin mancha ante Dios por los méritos y la gracia de Cristo, no solo por esfuerzo propio",
+      "Que solo unas pocas personas selectas pueden agradar a Dios",
+      "Que Dios espera perfección inmediata de cada persona",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 7:14",
+    explanation: "Podemos ser hallados sin mancha ante Dios por los méritos y la gracia de Cristo, no solo por nuestro propio esfuerzo."
+  },
+  {
+    id: 6,
+    question: "Ian quiere crecer espiritualmente pero no sabe qué cualidades desarrollar primero. ¿Qué le recomendarías según Alma 7:23-24?",
+    type: "multiple",
+    options: [
+      "Desarrollar humildad, amor, fe, esperanza y caridad como base de su crecimiento espiritual",
+      "Enfocarse únicamente en memorizar más escrituras",
+      "Buscar reconocimiento público por sus logros espirituales",
+      "Esperar a sentirse motivado antes de intentar cambiar",
     ],
     correctAnswer: 0,
-    reference: "Alma 7:27",
-    explanation: "Alma promete que Dios los sostendrá en sus pruebas y los levantará en el último día."
+    reference: "Alma 7:23-24",
+    explanation: "Alma recomienda desarrollar humildad, amor, fe, esperanza y caridad como base del crecimiento espiritual."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan los méritos de Cristo y la promesa de que Dios sostiene a los fieles en sus pruebas?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Ambos muestran que la fortaleza espiritual viene de depender de Cristo, no únicamente de nuestras propias fuerzas",
+      "Solo los méritos de Cristo tienen relevancia en las pruebas",
+      "La promesa de sostén contradice la idea de los méritos de Cristo",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 7:14-27",
+    explanation: "Ambos muestran que la fortaleza espiritual viene de depender de Cristo, no únicamente de nuestras propias fuerzas."
   },
 ];
 
@@ -829,17 +1107,45 @@ export const alma9Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué oportunidad da Dios a los nefitas según Alma?",
+    question: "Guadalupe creció en la Iglesia y a veces da por sentado todo lo que ha aprendido. ¿Qué advertencia de Alma 9 le aplicarías?",
     type: "multiple",
     options: [
-      "Ninguna oportunidad real de cambiar su situación",
-      "Una oportunidad de arrepentirse antes del juicio",
-      "Solamente la opción de recibir castigo inmediato",
-      "Tiempo ilimitado sin ninguna consecuencia futura",
+      "Que mayor conocimiento implica mayor responsabilidad de vivir conforme a la verdad recibida",
+      "Que haber crecido en la Iglesia ya garantiza la salvación",
+      "Que el conocimiento recibido no tiene ninguna exigencia adicional",
+      "Que solo los conversos recientes tienen responsabilidad espiritual",
+    ],
+    correctAnswer: 0,
+    reference: "Alma 9:23",
+    explanation: "Mayor conocimiento implica mayor responsabilidad de vivir conforme a la verdad recibida."
+  },
+  {
+    id: 6,
+    question: "Tomás ve que sus amigos rechazan el evangelio a pesar de haberlo escuchado varias veces. ¿Qué le enseña la advertencia de Alma sobre el juicio?",
+    type: "multiple",
+    options: [
+      "Que no hay ninguna diferencia entre conocer y no conocer la verdad",
+      "Que rechazar la verdad conocida trae consecuencias más serias que nunca haberla escuchado",
+      "Que sus amigos ya no tienen ninguna oportunidad de arrepentirse",
+      "Que el rechazo de sus amigos no tiene importancia real",
     ],
     correctAnswer: 1,
-    reference: "Alma 9:25-26",
-    explanation: "Dios les da la oportunidad de arrepentirse antes de que llegue el juicio."
+    reference: "Alma 9:23",
+    explanation: "Rechazar la verdad conocida trae consecuencias más serias que nunca haberla escuchado."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre las bendiciones que había recibido el pueblo de Ammoníah y la advertencia sobre el juicio que les dio Alma?",
+    type: "multiple",
+    options: [
+      "No tienen relación entre sí",
+      "Solo la advertencia sobre el juicio tiene importancia real",
+      "Las bendiciones recibidas eliminan cualquier responsabilidad futura",
+      "Cuanto mayor es la bendición recibida, mayor es la responsabilidad de responder con fidelidad",
+    ],
+    correctAnswer: 3,
+    reference: "Alma 9:20-23",
+    explanation: "Cuanto mayor es la bendición recibida, mayor es la responsabilidad de responder con fidelidad."
   },
 ];
 
@@ -905,17 +1211,45 @@ export const alma10_11Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cuánto dinero ofreció Zeezrom a Amulek para que negara la existencia de Dios?",
+    question: "Catalina le ofrecen dinero a cambio de mentir sobre algo importante para ella. ¿Qué ejemplo de Amulek le da fuerza para resistir?",
     type: "multiple",
     options: [
-      "Seis onties de plata",
-      "Toda su fortuna personal sin ningún límite",
-      "Un terreno y una casa en la ciudad",
-      "Nada material, solo le pidió que lo hiciera por amistad",
+      "El ejemplo de Amulek, quien rechazó firmemente el soborno de Zeezrom y testificó de la verdad",
+      "El ejemplo de Zeezrom, quien logró convencer a Amulek",
+      "Ningún ejemplo de este relato aplica a su situación",
+      "El ejemplo de aceptar parte del dinero para evitar problemas",
     ],
     correctAnswer: 0,
-    reference: "Alma 11:22",
-    explanation: "Zeezrom le ofreció seis onties de plata a Amulek para que negara la existencia de Dios."
+    reference: "Alma 11:22-25",
+    explanation: "Amulek rechazó firmemente el soborno de Zeezrom y testificó con valentía de la verdad."
+  },
+  {
+    id: 6,
+    question: "Nicolás cree que antes de convertirse era 'demasiado bueno' para necesitar cambiar como Amulek. ¿Qué le muestra la historia de Amulek sobre esto?",
+    type: "multiple",
+    options: [
+      "Que solo las personas pobres necesitan conversión",
+      "Que incluso una persona próspera y respetada puede tener el corazón endurecido y necesitar conversión",
+      "Que la prosperidad siempre indica una buena relación con Dios",
+      "Que Amulek nunca necesitó realmente cambiar",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 10:4-6",
+    explanation: "Incluso una persona próspera y respetada como Amulek puede tener el corazón endurecido y necesitar conversión."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relaciona el intento de soborno de Zeezrom con el mensaje central que predicaban Alma y Amulek?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "El soborno confirmó que el mensaje de Alma y Amulek era incorrecto",
+      "El soborno mostró que Zeezrom valoraba más el dinero que la verdad, justo lo opuesto a lo que Alma y Amulek enseñaban",
+      "Zeezrom compartía completamente el mensaje de Alma y Amulek",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 10-11",
+    explanation: "El soborno mostró que Zeezrom valoraba más el dinero que la verdad, justo lo opuesto al mensaje de Alma y Amulek."
   },
 ];
 
@@ -978,16 +1312,42 @@ export const repasoDominio9_10Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Por qué estudiar estos versículos nos prepara mejor para compartir el evangelio?",
+    question: "Antonella quiere ayudar a un amigo que está pasando un momento difícil, usando lo que ha aprendido en dominio de la doctrina. ¿Qué le recomendarías?",
     type: "multiple",
     options: [
-      "No nos prepara de ninguna manera real para esa tarea",
-      "Solamente sirven para que los memoricemos sin más propósito",
-      "No son realmente útiles para compartir con otras personas",
-      "Porque nos da un fundamento doctrinal sólido que podemos explicar",
+      "Recitar el versículo sin ningún comentario adicional",
+      "Compartir el pasaje junto con su propio testimonio de cómo esa verdad la ha ayudado",
+      "Esperar a que su amigo pregunte directamente por un versículo",
+      "Evitar mencionar las escrituras para no parecer predicadora",
     ],
-    correctAnswer: 3,
-    explanation: "Estudiar estos versículos nos da un fundamento doctrinal sólido que podemos explicar a otros."
+    correctAnswer: 1,
+    explanation: "Podemos compartir el pasaje junto con nuestro propio testimonio de cómo esa verdad nos ha ayudado."
+  },
+  {
+    id: 6,
+    question: "Lautaro piensa que memorizar los versículos de dominio no le sirve para su vida real. ¿Qué le explicarías sobre dominar un pasaje?",
+    type: "multiple",
+    options: [
+      "Que dominar un pasaje incluye entenderlo, vivirlo y poder aplicarlo, no solo memorizarlo",
+      "Que memorizar ya es suficiente sin necesidad de comprensión",
+      "Que dominar un pasaje solo sirve para las evaluaciones de Seminario",
+      "Que no hay ninguna diferencia entre memorizar y dominar",
+    ],
+    correctAnswer: 0,
+    explanation: "Dominar un pasaje incluye entenderlo, vivirlo y poder aplicarlo, no solo memorizarlo."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre los versículos de dominio de Mosíah y los de Alma que hemos estudiado?",
+    type: "multiple",
+    options: [
+      "No tienen ninguna relación temática entre sí",
+      "Ambos grupos de versículos enseñan sobre el cambio de corazón y la expiación de Cristo como temas centrales",
+      "Solo los versículos de Alma tienen valor doctrinal real",
+      "Tratan temas completamente opuestos entre sí",
+    ],
+    correctAnswer: 1,
+    explanation: "Ambos grupos de versículos enseñan sobre el cambio de corazón y la expiación de Cristo como temas centrales."
   },
 ];
 
@@ -1057,17 +1417,45 @@ export const alma13Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cuál era el propósito principal de este sacerdocio, según Alma 13?",
+    question: "Camila se pregunta si Dios ya tenía un plan para ella antes de que naciera. ¿Qué le enseña Alma 13:3 sobre el llamamiento de los sumos sacerdotes?",
     type: "multiple",
     options: [
-      "Enseñar los mandamientos y preparar al pueblo para entrar en el reposo del Señor",
-      "Recaudar impuestos para sostener al gobierno nefita",
-      "Organizar los ejércitos en tiempos de guerra",
-      "Mantener registros genealógicos de cada familia",
+      "Que fueron llamados y preparados desde la fundación del mundo según su fe y buenas obras",
+      "Que los llamamientos se deciden únicamente al nacer, sin relación con las decisiones futuras",
+      "Que Dios no tiene ningún plan preparado con anticipación para nadie",
+      "Que solo algunas personas elegidas al azar reciben un propósito",
     ],
     correctAnswer: 0,
-    reference: "Alma 13:1-2,6",
-    explanation: "El propósito era enseñar los mandamientos y preparar al pueblo para entrar en el reposo del Señor."
+    reference: "Alma 13:3",
+    explanation: "Los sumos sacerdotes fueron llamados y preparados desde la fundación del mundo, según su fe y buenas obras."
+  },
+  {
+    id: 6,
+    question: "Franco piensa que solo los líderes de la Iglesia tienen un propósito espiritual importante. ¿Qué le corrige el ejemplo de Melquisedec?",
+    type: "multiple",
+    options: [
+      "Que Melquisedec no tuvo ninguna influencia real en su pueblo",
+      "Que solo los reyes pueden tener un propósito espiritual relevante",
+      "Que el propósito espiritual depende del cargo que se ocupe",
+      "Que cualquier persona que viva con fe y rectitud, como Melquisedec, puede cumplir un propósito significativo",
+    ],
+    correctAnswer: 3,
+    reference: "Alma 13:14-19",
+    explanation: "Cualquier persona que viva con fe y rectitud, como Melquisedec, puede cumplir un propósito significativo."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan la preparación desde la fundación del mundo y el propósito de enseñar los mandamientos para preparar al pueblo?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Ambos muestran que el sacerdocio existe para guiar a las personas hacia el reposo del Señor, con un propósito eterno",
+      "Solo la preparación desde la fundación del mundo tiene importancia doctrinal",
+      "Enseñar los mandamientos no tiene relación con el propósito eterno del sacerdocio",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 13",
+    explanation: "Ambos muestran que el sacerdocio existe para guiar a las personas hacia el reposo del Señor, con un propósito eterno."
   },
 ];
 
@@ -1133,17 +1521,45 @@ export const alma14Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué les sucedió a los captores malvados cuando cayeron las paredes de la prisión?",
+    question: "Bautista ve a alguien sufrir una injusticia y se pregunta por qué Dios no interviene de inmediato. ¿Qué le enseña la experiencia de Alma y Amulek en la prisión?",
     type: "multiple",
     options: [
-      "Murieron aplastados, incluyendo al juez principal",
-      "No sufrieron ningún daño y siguieron con su vida normal",
-      "Fueron encarcelados en el mismo lugar como castigo",
-      "Huyeron de la ciudad antes de que ocurriera algo más",
+      "Que Dios nunca interviene en situaciones de injusticia",
+      "Que Dios a veces permite el sufrimiento por un tiempo, pero finalmente actúa con justicia y poder",
+      "Que la injusticia siempre queda sin ninguna consecuencia",
+      "Que solo debemos esperar sin hacer nada ante la injusticia",
     ],
-    correctAnswer: 0,
+    correctAnswer: 1,
+    reference: "Alma 14:8-29",
+    explanation: "Dios a veces permite el sufrimiento por un tiempo, pero finalmente actúa con justicia y poder."
+  },
+  {
+    id: 6,
+    question: "Renata está enojada porque alguien que le hizo daño parece no tener ninguna consecuencia. ¿Qué le muestra el destino de los captores de Alma y Amulek?",
+    type: "multiple",
+    options: [
+      "Que la maldad nunca recibe ninguna consecuencia real",
+      "Que ella debe encargarse personalmente de hacer justicia",
+      "Que la justicia de Dios eventualmente alcanza a quienes actúan con maldad, aunque no sea inmediato",
+      "Que Dios ignora las injusticias cometidas contra otros",
+    ],
+    correctAnswer: 2,
     reference: "Alma 14:27-29",
-    explanation: "Los captores malvados, incluyendo al juez principal, murieron aplastados cuando cayeron las paredes."
+    explanation: "La justicia de Dios eventualmente alcanza a quienes actúan con maldad, aunque no sea inmediato."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta el sufrimiento de las mujeres y niños quemados con la liberación posterior de Alma y Amulek?",
+    type: "multiple",
+    options: [
+      "No tienen ninguna relación entre sí",
+      "Ambos hechos muestran que Dios permite pruebas difíciles, pero también actúa para traer justicia y liberación",
+      "Solo la liberación de Alma y Amulek tiene importancia en este relato",
+      "El sufrimiento de las mujeres y niños fue completamente evitable",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 14",
+    explanation: "Ambos hechos muestran que Dios permite pruebas difíciles, pero también actúa para traer justicia y liberación."
   },
 ];
 
@@ -1205,16 +1621,42 @@ export const repaso_evaluacion1Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué aprendimos sobre el poder transformador del evangelio?",
+    question: "Delfina siente que ha memorizado mucho pero no aplicado casi nada este año. ¿Qué le sugerirías para su autoevaluación?",
     type: "multiple",
     options: [
-      "Que puede cambiar corazones, como lo hizo con Alma hijo y los hijos de Mosíah",
-      "Que en realidad no tiene ningún poder de transformación",
-      "Que solo funciona en el caso de algunas personas selectas",
-      "Que es simplemente una teoría sin evidencia real",
+      "Que se conforme con lo que ya memorizó",
+      "Reflexionar honestamente sobre cómo ha vivido, no solo cuánto ha memorizado",
+      "Comparar cuánto memorizó frente a sus compañeros",
+      "Dejar de estudiar más versículos hasta el próximo año",
     ],
-    correctAnswer: 0,
-    explanation: "Aprendimos que el evangelio puede cambiar corazones, como lo hizo con Alma hijo y los hijos de Mosíah."
+    correctAnswer: 1,
+    explanation: "La autoevaluación debe incluir reflexionar honestamente sobre cómo hemos vivido, no solo cuánto hemos memorizado."
+  },
+  {
+    id: 6,
+    question: "Santino quiere fortalecer su testimonio pero no sabe cómo empezar. ¿Qué le recomienda este repaso?",
+    type: "multiple",
+    options: [
+      "Esperar a que el testimonio llegue sin ningún esfuerzo personal",
+      "Depender completamente del testimonio de sus padres",
+      "Memorizar más datos sin necesidad de vivirlos",
+      "Crecer mediante el estudio constante, la oración sincera y la aplicación de lo aprendido",
+    ],
+    correctAnswer: 3,
+    explanation: "El testimonio crece mediante el estudio constante, la oración sincera y la aplicación de lo aprendido."
+  },
+  {
+    id: 7,
+    question: "¿Qué principio conecta el poder transformador del evangelio en los hijos de Mosíah con el ejemplo de los anti-nefi-lehitas?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Ambos muestran que un cambio de corazón genuino puede transformar completamente la vida de una persona o un pueblo",
+      "Solo el ejemplo de los hijos de Mosíah es relevante para nuestra vida hoy",
+      "Los anti-nefi-lehitas no experimentaron ningún cambio real",
+    ],
+    correctAnswer: 1,
+    explanation: "Ambos ejemplos muestran que un cambio de corazón genuino puede transformar completamente la vida de una persona o un pueblo."
   },
 ];
 
@@ -1277,17 +1719,42 @@ export const adquirirConocimiento4Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Cómo sabemos cuándo hemos recibido una respuesta del Espíritu?",
+    question: "Pilar tiene una pregunta difícil sobre su fe y no encuentra una respuesta clara de inmediato. ¿Qué principio de adquisición de conocimiento espiritual le ayudaría?",
     type: "multiple",
     options: [
-      "Por paz, confirmación al corazón y mente, y claridad",
-      "Siempre es una experiencia dramática y visible",
-      "Nunca podemos realmente saberlo con seguridad",
-      "Únicamente a través de emociones intensas y pasajeras",
+      "Abandonar la pregunta si no obtiene respuesta inmediata",
+      "Actuar con fe, ser paciente y seguir buscando en fuentes confiables mientras confía en el Señor",
+      "Aceptar la primera opinión que encuentre sin analizarla",
+      "Dejar de estudiar el tema hasta sentirse menos confundida",
     ],
-    correctAnswer: 0,
-    reference: "D. y C. 8:2-3",
-    explanation: "Sabemos que hemos recibido una respuesta por la paz, la confirmación al corazón y mente, y la claridad."
+    correctAnswer: 1,
+    explanation: "Ante preguntas difíciles, debemos actuar con fe, ser pacientes y buscar en fuentes confiables."
+  },
+  {
+    id: 6,
+    question: "Ian encontró información contradictoria en internet sobre un tema de su fe y no sabe en quién confiar. ¿Qué le recomendarías?",
+    type: "multiple",
+    options: [
+      "Creer en la primera fuente que encuentre sin verificarla",
+      "Ignorar por completo el tema para evitar confusión",
+      "Buscar en fuentes confiables, orar y prestar atención a la guía del Espíritu Santo",
+      "Confiar únicamente en su propia opinión sin buscar más información",
+    ],
+    correctAnswer: 2,
+    explanation: "Debemos buscar en fuentes confiables, orar y prestar atención a la guía del Espíritu Santo."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan actuar con fe y buscar en fuentes confiables como principios para adquirir conocimiento espiritual?",
+    type: "multiple",
+    options: [
+      "No tienen relación entre sí",
+      "Ambos trabajan juntos: la fe nos sostiene mientras buscamos con diligencia respuestas verdaderas",
+      "Solo actuar con fe es realmente necesario",
+      "Buscar en fuentes confiables reemplaza la necesidad de tener fe",
+    ],
+    correctAnswer: 1,
+    explanation: "Ambos principios trabajan juntos: la fe nos sostiene mientras buscamos con diligencia respuestas verdaderas."
   },
 ];
 
@@ -1350,16 +1817,43 @@ export const repasoDominio11_12Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué debemos hacer además de memorizar estos versículos?",
+    question: "Guadalupe quiere ser mejor misionera pero siente que no sabe suficiente doctrina todavía. ¿Qué le mostrarías sobre el propósito de los pasajes de dominio?",
     type: "multiple",
     options: [
-      "Solamente recitarlos de memoria cuando se nos pida",
-      "Nada más allá de la memorización es necesario",
-      "Guardarlos en secreto sin compartirlos con nadie",
-      "Entenderlos, vivirlos y aplicarlos en nuestra vida",
+      "Que debe esperar a saber toda la doctrina antes de compartir algo",
+      "Que los pasajes de dominio no tienen relación con la labor misional",
+      "Que solo los misioneros de tiempo completo los necesitan",
+      "Que le dan un fundamento doctrinal sólido para enseñar y testificar con confianza",
     ],
     correctAnswer: 3,
-    explanation: "Además de memorizarlos, debemos entenderlos, vivirlos y aplicarlos en nuestra vida."
+    explanation: "Los pasajes de dominio dan un fundamento doctrinal sólido para enseñar y testificar con confianza."
+  },
+  {
+    id: 6,
+    question: "Tomás memorizó varios versículos pero no los ha compartido nunca con nadie. ¿Qué le recomendarías hacer con ese conocimiento?",
+    type: "multiple",
+    options: [
+      "Guardarlos solo para sí mismo",
+      "Compartir el pasaje junto con su propio testimonio de su verdad",
+      "Esperar a ser líder de la Iglesia para compartirlos",
+      "Recitarlos solo cuando se lo pidan en un examen",
+    ],
+    correctAnswer: 1,
+    reference: "D. y C. 100:5-6",
+    explanation: "Podemos compartir el pasaje junto con nuestro propio testimonio de su verdad."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre memorizar los versículos de dominio y aplicarlos realmente en la vida?",
+    type: "multiple",
+    options: [
+      "No tienen ninguna relación entre sí",
+      "Memorizarlos ya es suficiente sin necesidad de aplicarlos",
+      "Memorizarlos es solo el primer paso; entenderlos y vivirlos es lo que realmente transforma a la persona",
+      "Aplicarlos es innecesario si ya se memorizaron correctamente",
+    ],
+    correctAnswer: 2,
+    explanation: "Memorizar es solo el primer paso; entender y vivir los versículos es lo que realmente transforma a la persona."
   },
 ];
 
@@ -1429,17 +1923,45 @@ export const alma17Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué consejo dio el Señor a los hijos de Mosíah sobre su misión?",
+    question: "Catalina quiere prepararse espiritualmente antes de un gran desafío que se le viene. ¿Qué ejemplo de los hijos de Mosíah le serviría?",
     type: "multiple",
     options: [
-      "Que fueran pacientes en las aflicciones y mostraran buen ejemplo",
-      "Que la misión sería fácil y sin ninguna dificultad",
-      "Que se rindieran si el trabajo se volvía complicado",
-      "Que no intentaran predicar directamente a los lamanitas",
+      "Esperar a que el desafío pase sin hacer nada",
+      "Fortalecerse mediante la oración y el ayuno antes de enfrentar la situación difícil",
+      "Buscar únicamente el consejo de sus amigos",
+      "Enfrentar el desafío sin ninguna preparación previa",
     ],
-    correctAnswer: 0,
-    reference: "Alma 17:11",
-    explanation: "El Señor les aconsejó que fueran pacientes en las aflicciones y mostraran buen ejemplo."
+    correctAnswer: 1,
+    reference: "Alma 17:2-3",
+    explanation: "Los hijos de Mosíah se fortalecieron mediante la oración y el ayuno antes de enfrentar su misión."
+  },
+  {
+    id: 6,
+    question: "Nicolás fue asignado a servir en un lugar donde no conoce a nadie y se siente inseguro. ¿Qué actitud de Ammón podría imitar?",
+    type: "multiple",
+    options: [
+      "Exigir reconocimiento inmediato por su disposición a servir",
+      "Evitar el servicio hasta sentirse más cómodo en el lugar",
+      "Esperar a que otros le pidan ayuda antes de ofrecerla",
+      "Ofrecerse humildemente para servir, ganándose la confianza de otros con fidelidad",
+    ],
+    correctAnswer: 3,
+    reference: "Alma 17:25",
+    explanation: "Ammón se ofreció humildemente para servir, ganándose la confianza de otros con fidelidad."
+  },
+  {
+    id: 7,
+    question: "¿Qué conecta la preparación espiritual de los hijos de Mosíah con la disposición de Ammón a servir como pastor del rey Lamoni?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "Ambas muestran que la preparación espiritual lleva naturalmente a un servicio humilde y efectivo",
+      "Solo la preparación espiritual tiene valor en este relato",
+      "El servicio de Ammón no tuvo relación con su preparación previa",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 17",
+    explanation: "Ambas muestran que la preparación espiritual lleva naturalmente a un servicio humilde y efectivo."
   },
 ];
 
@@ -1505,17 +2027,45 @@ export const alma18Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué efecto tuvo la enseñanza de Ammón sobre el rey Lamoni?",
+    question: "Antonella quiere enseñar el evangelio a una amiga que tiene ideas muy distintas sobre Dios. ¿Qué método de Ammón le sería útil?",
     type: "multiple",
     options: [
-      "El rey creyó todas sus palabras y deseó saber más sobre Dios",
-      "El rey se mostró completamente indiferente al mensaje",
-      "El rey se enojó y ordenó que expulsaran a Ammón",
-      "El rey rechazó de inmediato todo lo que escuchó",
+      "Comenzar preguntando lo que su amiga ya cree, y desde ahí enseñar con paciencia sobre Dios",
+      "Corregir de inmediato cualquier idea equivocada que tenga su amiga",
+      "Evitar el tema para no generar ningún conflicto",
+      "Exigir que su amiga acepte su punto de vista sin explicación",
     ],
     correctAnswer: 0,
-    reference: "Alma 18:40",
-    explanation: "El rey Lamoni creyó todas las palabras de Ammón y deseó saber más sobre Dios."
+    reference: "Alma 18:24-28",
+    explanation: "Ammón comenzó preguntando lo que el rey ya creía, y desde ahí enseñó con paciencia sobre Dios."
+  },
+  {
+    id: 6,
+    question: "Lautaro sirvió fielmente a su familia por mucho tiempo sin que nadie lo notara. ¿Qué le muestra la reacción del rey Lamoni hacia el servicio de Ammón?",
+    type: "multiple",
+    options: [
+      "Que Lamoni ignoró por completo el servicio de Ammón",
+      "Que el servicio solo tiene valor si es reconocido públicamente",
+      "Que el servicio fiel y constante puede abrir la puerta a que otros escuchen el evangelio",
+      "Que el servicio de Ammón no tuvo ninguna consecuencia real",
+    ],
+    correctAnswer: 2,
+    reference: "Alma 18:9-10",
+    explanation: "El servicio fiel y constante de Ammón abrió la puerta para que Lamoni escuchara el evangelio."
+  },
+  {
+    id: 7,
+    question: "¿Cómo se relacionan el servicio de Ammón como pastor y su enseñanza posterior sobre el plan de redención?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "El servicio fiel ganó la confianza de Lamoni, lo cual preparó su corazón para recibir la enseñanza espiritual",
+      "Solo la enseñanza sobre el plan de redención fue relevante para la conversión de Lamoni",
+      "El servicio de Ammón retrasó la conversión del rey",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 18",
+    explanation: "El servicio fiel de Ammón ganó la confianza de Lamoni, lo cual preparó su corazón para recibir la enseñanza espiritual."
   },
 ];
 
@@ -1581,16 +2131,44 @@ export const alma19Additional: Question[] = [
   },
   {
     id: 5,
-    question: "¿Qué declaró el rey Lamoni cuando despertó?",
+    question: "Camila ve a alguien tener una experiencia espiritual muy fuerte y no sabe cómo interpretarlo. ¿Qué le enseña lo que le pasó al rey Lamoni?",
     type: "multiple",
     options: [
-      "Que todo lo ocurrido había sido solamente un sueño",
-      "Que sentía mucha hambre después de tanto tiempo",
-      "Que había nacido de Dios y visto al Redentor",
-      "Que no creía en nada de lo que había experimentado",
+      "Que ese tipo de experiencias nunca son reales",
+      "Que el poder del Espíritu puede manifestarse de formas intensas cuando alguien recibe la verdad",
+      "Que esas experiencias solo les ocurren a los líderes religiosos",
+      "Que debe desconfiar de cualquier experiencia espiritual intensa",
     ],
-    correctAnswer: 2,
-    reference: "Alma 19:13",
-    explanation: "El rey Lamoni declaró que había nacido de Dios y visto al Redentor."
+    correctAnswer: 1,
+    reference: "Alma 19:6,13",
+    explanation: "El poder del Espíritu puede manifestarse de formas intensas cuando una persona recibe la verdad con todo su corazón."
+  },
+  {
+    id: 6,
+    question: "Franco tiene miedo de que su familia reaccione mal si él cambia su forma de vivir por su fe. ¿Qué muestra la reacción de la reina y los siervos ante la conversión de Lamoni?",
+    type: "multiple",
+    options: [
+      "Que la conversión de una persona puede generar confusión al inicio, pero también inspirar a otros a creer",
+      "Que la familia siempre rechaza por completo cualquier cambio espiritual",
+      "Que es mejor ocultar los cambios de fe a la familia",
+      "Que la conversión de Lamoni no afectó a nadie más en su casa",
+    ],
+    correctAnswer: 0,
+    reference: "Alma 19:13-31",
+    explanation: "La conversión de Lamoni generó confusión al inicio, pero también inspiró a la reina y a muchos otros a creer."
+  },
+  {
+    id: 7,
+    question: "¿Qué relación hay entre lo que le sucedió a Lamoni y la conversión posterior de la reina y muchos lamanitas?",
+    type: "multiple",
+    options: [
+      "No tienen relación real entre sí",
+      "La experiencia de Lamoni abrió el camino para que otros también recibieran testimonio y se convirtieran",
+      "Solo la conversión de la reina tuvo importancia real",
+      "La experiencia de Lamoni impidió que otros se acercaran a la fe",
+    ],
+    correctAnswer: 1,
+    reference: "Alma 19",
+    explanation: "La experiencia de Lamoni abrió el camino para que otros también recibieran testimonio y se convirtieran."
   },
 ];

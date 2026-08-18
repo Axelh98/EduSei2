@@ -37,9 +37,9 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Becky Craven",
-        fuente: "Liahona, noviembre de 2020, pág. 58).",
-        texto: "Las Escrituras no dicen que [los del pueblo del rey Benjamín] se volvieron perfectos de inmediato, sino que su deseo de cambiar los condujo a la acción. Su cambio de corazón significó despojarse del hombre o de la mujer natural y entregarse al Espíritu a medida que se esforzaban por ser más semejantes a Jesucristo […]. Al combinar nuestro esfuerzo con la capacidad del Salvador para cambiarnos, llegamos a ser nuevas criaturas",
+        autor: "Hermana Becky Craven",
+        fuente: "Liahona, noviembre de 2020, pág. 58",
+        texto: "Las Escrituras no dicen que [los del pueblo del rey Benjamín] se volvieron perfectos de inmediato, sino que su deseo de cambiar los condujo a la acción. Su cambio de corazón significó despojarse del hombre o de la mujer natural y entregarse al Espíritu a medida que se esforzaban por ser más semejantes a Jesucristo […]. Al combinar nuestro esfuerzo con la capacidad del Salvador para cambiarnos, llegamos a ser nuevas criaturas.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/32craven?lang=spa&id=p8-p9#p8"
       },
       {
@@ -89,10 +89,10 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Oaks",
-        fuente: "Liahona, julio de 1998, pág. 73.",
-        texto: "Prometemos tomar sobre nosotros Su nombre. Eso significa que tenemos que considerarnos Suyos. Lo colocamos en el primer lugar de nuestra vida. Deseamos lo que Él desea y no lo que nosotros queremos o lo que el mundo nos enseña que debemos ambicionar",
-        link: " https://www.churchofjesuschrist.org/study/general-conference/1998/04/that-we-may-be-one?lang=spa&id=p17#p17"
+        autor: "Élder Dallin H. Oaks",
+        fuente: "Liahona, julio de 1998, pág. 73",
+        texto: "Prometemos tomar sobre nosotros Su nombre. Eso significa que tenemos que considerarnos como que le pertenecemos. Lo colocamos en el primer lugar de nuestra vida. Deseamos lo que Él desea y no lo que nosotros queremos o lo que el mundo nos enseña que debemos ambicionar",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1998/04/that-we-may-be-one?lang=spa&id=p16#p16"
       },
 
       {
@@ -100,7 +100,7 @@ export const leccionesResumidasLM_Semana10: Lesson[] = [
         autor: "Élder Robert C. Gay",
         fuente: "Liahona, noviembre de 2018",
         texto: "Que tomemos fielmente sobre nosotros el nombre de Jesucristo, al ver como Él ve, servir como Él sirvió y confiar en que Su gracia es suficiente.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/taking-upon-ourselves-the-name-of-jesus-christ?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/taking-upon-ourselves-the-name-of-jesus-christ?lang=spa&id=p25#p25"
         // ✅ Auditado: la cita original estaba mal atribuida al élder David A. Bednar y con fecha incorrecta (abril de 2018).
         // El discurso "Tomar sobre nosotros el nombre de Jesucristo" es del élder Robert C. Gay, Conferencia General de
         // octubre de 2018 (Liahona, noviembre de 2018).

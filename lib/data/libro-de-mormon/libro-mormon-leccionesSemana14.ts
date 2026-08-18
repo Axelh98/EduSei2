@@ -183,15 +183,15 @@ export const leccionesSemana14_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Ezra Taft Benson",
         fuente: "Liahona, julio de 1989 (discurso \"Cuidaos del orgullo\")",
-        texto: "El antídoto para el orgullo es la humildad: la mansedumbre, la sumisión (véase Alma 7:23). Es el corazón quebrantado y un espíritu contrito.",
-        link: ""
+        texto: "El antídoto contra el orgullo es la humildad: la mansedumbre, la sumisión (véase Alma 7:23). Es el corazón quebrantado y el espíritu contrito.",
+        link: "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-18-beware-of-pride?lang=spa&id=p49#p49"
       },
       {
         tipo: "enseñanza",
         autor: "Presidente Ezra Taft Benson",
-        fuente: "Liahona, julio de 1989 (discurso \"Cuidaos del orgullo\")",
-        texto: "La palabra de Dios, tal como se halla en las Escrituras, en las palabras de los profetas vivientes y en la revelación personal, tiene el poder de fortalecer a los santos y armarlos con el Espíritu para que puedan resistir el mal, aferrarse a lo bueno y encontrar felicidad en esta vida",
-        link: ""
+        fuente: "\"El poder de la palabra\", conferencia general de abril de 1986 (Liahona, julio de 1986); reproducido en Enseñanzas de los Presidentes de la Iglesia: Ezra Taft Benson, cap. 8",
+        texto: "La palabra de Dios, tal como se halla en las Escrituras, en las palabras de los profetas vivientes y en la revelación personal tiene el poder de fortalecer a los santos y armarlos con el Espíritu para que puedan resistir el mal, aferrarse a lo bueno y encontrar felicidad en la vida.",
+        link: "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-8-the-power-of-the-word?lang=spa&id=p13#p13"
       },
       {
         tipo: "conclusion",

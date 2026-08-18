@@ -86,8 +86,8 @@ export const leccionesResumidasLM_Semana16: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Neil L. Andersen",
         fuente: "Conferencia General, octubre de 2010 (discurso \"Nunca lo dejen a Él\"); Liahona, noviembre de 2010, pág. 41",
-        texto: "No podemos comparar nuestra situación con la de quienes todavía no han recibido estas verdades: tener un testimonio de Cristo, contar con el sacerdocio restaurado y con profetas vivientes. \"Al que mucho se le da, mucho se le requiere\" (Doctrina y Convenios 82:3).",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/10/never-leave-him?lang=spa"
+        texto: "[C]omo miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días, al tener un testimonio de Su realidad, no sólo proveniente de la Biblia sino también del Libro de Mormón; al saber que Su sacerdocio se ha restaurado sobre la tierra […], no podemos comparar lo que debemos ser con quienes aún no han recibido estas verdades. “Porque de aquel a quien mucho se da, mucho se requiere”.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2010/10/never-leave-him?lang=spa&id=p33#p33"
       },
       {
         tipo: "conclusion",

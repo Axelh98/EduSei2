@@ -10,60 +10,14 @@ import type { Lesson } from "@/lib/types"
 //                                       General, octubre de 2017 / Liahona, noviembre de 2017). Sin
 //                                       cambios respecto a la auditoría anterior.
 //
-//   Alma 14 (Eyring):               ✅ Re-confirmada. El manual (262-teacher) sí usa esta cita de
-//                                       "To Know and to Love God" (Evening with a General Authority,
-//                                       26 de febrero de 2010). Es un discurso de una transmisión de
-//                                       CES sin página propia en churchofjesuschrist.org/study, por
-//                                       lo que el `link` vacío con nota aclaratoria sigue siendo lo
-//                                       correcto (no hay una URL oficial verificable para enlazar).
-//
-//   Repaso evaluación 1:            ✅ Re-confirmado. Es una lección de repaso/evaluación
-//                                       (52-appendix/521-teacher) que no cita a ningún líder en el
-//                                       manual oficial. Sigue sin sección "enseñanza", como corresponde.
-//
-//   Adquirir conocimiento esp. 4:   🔧 CORRECCIÓN IMPORTANTE. La auditoría anterior había concluido
-//                                       que esta lección (27-alma-17-22/275-teacher) no citaba a ningún
-//                                       líder, y por eso se había omitido la sección "enseñanza". Al
-//                                       re-verificar contra el manual oficial en español, se encontró que
-//                                       SÍ incluye una cita real: el élder Lawrence E. Corbridge, sobre
-//                                       "preguntas principales" y "preguntas secundarias" (discurso
-//                                       "Stand Forever", devocional de BYU, 22 de enero de 2019). Se
-//                                       agregó la sección "enseñanza" con esta cita verificada.
-//
-//   Repaso DD 11-12 (Bednar):       ✅ Re-confirmado. La URL (26-alma-13-16/265-teacher, "Doctrinal
-//                                       Mastery Review 12") corresponde a un ejercicio de aplicación sin
-//                                       cita de líder en el manual oficial. Sigue sin sección "enseñanza".
-//                                       (El nombre "Bednar" en el comentario del archivo anterior era un
-//                                       error de rotulado: esa lección nunca tuvo una cita de Bednar ni
-//                                       de ningún otro líder.)
-//
-// 🔧 OTRAS CORRECCIONES DE FORMATO:
-//   - `contexto` se reescribió en las 5 lecciones para cumplir con el rango de palabras de la skill
-//     según el tipo de lección (260–320 para "Libro de Mormón - Ven Sigueme", 200–260 para
-//     "Preparación para la Vida", 150–200 para "Dominio de la Doctrina"), y para incluir una conexión
-//     explícita con la vida de un adolescente.
-//   - `conclusion` se reescribió en las 5 lecciones para cumplir con el rango de 80–130 palabras y
-//     terminar con una invitación a la acción, no con una reflexión abstracta.
-//   - `cuestionario` se expandió de 3 a exactamente 6 preguntas en las 5 lecciones, organizadas en los
-//     3 roles que pide la skill: abridoras (1–2), profundizadoras (3–4) y de compromiso (5–6).
-// ══════════════════════════════════════════════════════════════════════════════════
-
-// ══════════════════════════════════════════════════════════════════════════════════
-// 🔍 RE-AUDITORÍA DE CITAS PROFÉTICAS (visitado el manual oficial 2024, en español e inglés,
-//    para las 5 lecciones; esta semana ya había sido auditada antes, pero se repitió el proceso
-//    completo a pedido del usuario):
-//
-//   Alma 13 (Renlund):              ✅ Re-confirmada. El manual (261-teacher) sí usa esta cita de
-//                                       "El sacerdocio y el poder redentor del Salvador" (Conferencia
-//                                       General, octubre de 2017 / Liahona, noviembre de 2017). Sin
-//                                       cambios respecto a la auditoría anterior.
-//
-//   Alma 14 (Eyring):               ✅ Re-confirmada. El manual (262-teacher) sí usa esta cita de
-//                                       "To Know and to Love God" (Evening with a General Authority,
-//                                       26 de febrero de 2010). Es un discurso de una transmisión de
-//                                       CES sin página propia en churchofjesuschrist.org/study, por
-//                                       lo que el `link` vacío con nota aclaratoria sigue siendo lo
-//                                       correcto (no hay una URL oficial verificable para enlazar).
+//   Alma 14 (Renlund):              🔧 CORREGIDO (17 de agosto de 2026). Este comentario afirmaba que el
+//                                       manual (262-teacher) citaba a Henry B. Eyring; la verificación
+//                                       párrafo por párrafo lo desmiente: ese manual no cita a Eyring en
+//                                       ninguna parte y la frase que se le atribuía no aparece en el
+//                                       discurso indicado. Los únicos líderes citados en esa lección son
+//                                       Anthony D. Perkins, Quentin L. Cook y Dale G. Renlund. La cita se
+//                                       sustituyó por la de Renlund, "Las injusticias exasperantes"
+//                                       (Liahona, mayo de 2021), enlazada a su párrafo p10.
 //
 //   Repaso evaluación 1:            ✅ Re-confirmado. Es una lección de repaso/evaluación
 //                                       (52-appendix/521-teacher) que no cita a ningún líder en el
@@ -119,8 +73,9 @@ export const leccionesSemana17: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Dale G. Renlund",
-        fuente: "Conferencia General, abril 2017",
-        texto: "El sacerdocio es la autoridad delegada de Cristo para bendecir a Sus hijos."
+        fuente: "\"El sacerdocio y el poder redentor del Salvador\", Liahona, noviembre de 2017, pág. 64",
+        texto: "A causa de Su sacrificio expiatorio, Jesucristo tiene el poder y autoridad para redimir a la humanidad. Para que Su poder expiatorio esté al alcance de todos, Él ha delegado una porción de Su poder y autoridad a los hombres sobre la tierra. Ese poder y autoridad delegados se llama sacerdocio.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-priesthood-and-the-saviors-atoning-power?lang=spa&id=p5#p5"
       },
       {
         tipo: "conclusion",
@@ -161,13 +116,14 @@ export const leccionesSemana17: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Henry B. Eyring",
-        fuente: "Conferencia General, octubre 2001",
-        texto: "Solo por el Espíritu Santo podemos conocer y amar a Dios."
+        autor: "Élder Dale G. Renlund",
+        fuente: "\"Las injusticias exasperantes\", Liahona, mayo de 2021, págs. 42–43",
+        texto: "En situaciones injustas, una de nuestras tareas es confiar en que \"[t]odo lo que es injusto en la vida se puede remediar por medio de la expiación de Jesucristo\". Jesucristo venció al mundo y \"absorbió\" toda injusticia. Gracias a Él, podemos tener paz en este mundo y ser de buen ánimo.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/25renlund?lang=spa&id=p10#p10"
       },
       {
         tipo: "conclusion",
-        contenido: "La lección de Alma 14 no promete que la fe elimine el sufrimiento: promete que Dios está presente incluso cuando permite que continúe por un tiempo. Alma y Amulek eligen confiar en la voluntad del Señor en vez de exigir una salida inmediata, y esa confianza termina siendo la que los sostiene hasta que llega la liberación. El presidente Eyring recuerda que los alumnos —y en realidad todos nosotros— solo pueden aprender a amar y confiar en Dios cuando el Espíritu Santo se lo enseña, no solo con argumentos. Esta semana, si estás atravesando algo injusto o conocés a alguien que lo está, pedí en oración la misma clase de paciencia que pidió Alma."
+        contenido: "La lección de Alma 14 no promete que la fe elimine el sufrimiento: promete que Dios está presente incluso cuando permite que continúe por un tiempo. Alma y Amulek eligen confiar en la voluntad del Señor en vez de exigir una salida inmediata, y esa confianza termina siendo la que los sostiene hasta que llega la liberación. El élder Renlund recuerda que todo lo que es injusto en la vida se puede remediar por medio de la expiación de Jesucristo, y que gracias a Él podemos tener paz aun cuando la situación todavía no cambia. Esta semana, si estás atravesando algo injusto o conocés a alguien que lo está, pedí en oración la misma clase de paciencia que pidió Alma."
       },
       {
         tipo: "cuestionario",
@@ -242,13 +198,13 @@ export const leccionesSemana17: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Lawrence E. Corbridge",
-        fuente: "\"Stand Forever\", devocional en la Universidad Brigham Young, 22 de enero de 2019",
-        texto: "Las preguntas principales son las más importantes; todo lo demás está subordinado a ellas. Si respondés las preguntas principales, las preguntas secundarias también reciben respuesta.",
-        link: "https://speeches.byu.edu/talks/lawrence-corbridge_stand-for-ever"
+        fuente: "“Stand Forever”, devocional en la Universidad Brigham Young, 22 de enero de 2019, págs. 2–3; citado en el Manual del maestro de Seminario del Libro de Mormón (2024), Alma 17–22",
+        texto: "Las preguntas principales son las más importantes; todo lo demás está subordinado a ellas. […] Si responden las preguntas principales, las preguntas secundarias también recibirán respuesta.",
+        link: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/27-alma-17-22/275-teacher?lang=spa&id=p42,p48#p42"
         // 🔧 AGREGADA en esta re-auditoría: el manual oficial (275-teacher) sí incluye esta cita — la auditoría
-        // anterior había concluido erróneamente que esta lección no citaba a ningún líder. El discurso es un
-        // devocional de BYU sin traducción oficial en churchofjesuschrist.org/study, por lo que se enlaza a
-        // speeches.byu.edu, la misma fuente que cita el propio manual.
+        // anterior había concluido erróneamente que esta lección no citaba a ningún líder. El devocional de BYU
+        // no tiene traducción oficial en churchofjesuschrist.org/study, así que se enlaza al manual, que sí
+        // publica la traducción al español (párrafos p42 y p48) y remite a speeches.byu.edu como fuente.
       },
       {
         tipo: "conclusion",

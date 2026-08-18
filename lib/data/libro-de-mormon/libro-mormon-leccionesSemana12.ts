@@ -65,15 +65,15 @@ export const leccionesSemana12_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Presidente M. Russell Ballard",
+        autor: "Élder M. Russell Ballard",
         fuente: "Liahona, julio de 2001 (discurso \"recibireis su palabra\")",
-        texto: "La historia ha demostrado que hay seguridad, paz, prosperidad y felicidad al responder al consejo profético.",
+        texto: "La historia ha demostrado que hay seguridad, paz, prosperidad y felicidad cuando respondemos al consejo profético tal como lo hizo Nefi de la antigüedad: \"Iré y haré lo que el Señor ha mandado\" (1 Nefi 3:7).",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2001/04/his-word-ye-shall-receive?lang=spa&id=p10#p10"
       },
 
       {
         tipo: "enseñanza",
-        autor: "D. Todd Christofferson",
+        autor: "Élder D. Todd Christofferson",
         fuente: "Liahona, noviembre 2021, pág. 17",
         texto: "Hace mucho tiempo que me ha impresionado, y también he sentido, el anhelante amor de los profetas de Dios cuando nos advierten en contra del pecado. No los motiva el deseo de condenar. Su verdadero deseo refleja el amor de Dios; de hecho, es el amor de Dios. Aman a aquellos a quienes son enviados, quienesquiera que sean y como sean. Al igual que el Señor, Sus siervos no quieren que nadie padezca los dolores del pecado y las malas decisiones",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=spa&id=p12#p12"
@@ -138,7 +138,7 @@ export const leccionesSemana12_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Élder Henry B. Eyring",
+        autor: "Presidente Henry B. Eyring",
         fuente: "Liahona, noviembre de 2020 (discurso \"Ser probados, probarnos y ser pulidos\")",
         texto: "Ustedes podrán preguntarse razonablemente por qué un amoroso y todopoderoso Dios permite que nuestra prueba terrenal sea tan difícil. Esto se debe a que Él sabe que debemos crecer en pureza y estatura espirituales para poder tener la capacidad de vivir en Su presencia, en familias, para siempre. Para hacerlo posible, el Padre Celestial nos dio un Salvador y el poder de escoger por nosotros mismos, por la fe, que guardaríamos Sus mandamientos y nos arrepentiríamos, para así venir a Él",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/51eyring?lang=spa&id=p17,19#p17"
@@ -268,15 +268,16 @@ export const leccionesSemana12_LM: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Joseph B. Wirthlin",
-        fuente: "\"Alma the Elder: A Role Model for Today\", en Heroes from the Book of Mormon (1995), pág. 84",
-        texto: "He notado a lo largo de mi vida que, cuando las personas llegan a comprender plenamente las bendiciones y el poder de su convenio bautismal, ya sea como conversos recientes o como miembros de toda la vida, un gran gozo entra en su vida y afrontan sus deberes en el reino con entusiasmo contagioso."
+        fuente: "“Alma the Elder: A Role Model for Today”, en Heroes from the Book of Mormon, 1995, pág. 84; citado en el Manual del maestro de Seminario del Libro de Mormón (2024), Mosíah 18",
+        texto: "A lo largo de mi vida he observado que cuando las personas llegan a comprender plenamente las bendiciones y el poder de su convenio bautismal, ya sea como conversos nuevos o como miembros de la Iglesia de toda la vida, experimentan una gran dicha en su vida y encaran sus responsabilidades en el reino con un entusiasmo contagioso.",
+        link: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/21-mosiah-18-24/211-teacher?lang=spa&id=p29#p29"
       },
 
       {
         tipo: "enseñanza",
         autor: "Hermana Sharon Eubank",
         fuente: "Liahona, noviembre de 2021, pág. 55 (discurso \"Ruego que Él nos use\")",
-        texto: "Como miembros bautizados de la Iglesia, estamos bajo convenio de cuidar a los necesitados. Nuestros esfuerzos individuales no necesariamente requieren dinero ni lugares lejanos; sí requieren la guía del Espíritu Santo y un corazón dispuesto a decirle al Señor: 'Heme aquí, envíame a mí'.",
+        texto: "Como miembros bautizados de la Iglesia, estamos bajo convenio de cuidar a quienes están necesitados. Nuestros esfuerzos individuales no necesariamente requieren dinero o lugares muy lejanos; requieren la guía del Espíritu Santo y un corazón dispuesto a decirle al Señor: “Heme aquí, envíame a mí”.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2021/10/32eubank?lang=spa&id=p25#p25",
       },
 

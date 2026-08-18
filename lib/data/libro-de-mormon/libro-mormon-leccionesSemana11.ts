@@ -139,7 +139,7 @@ export const leccionesSemana11_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Bonnie L. Oscarson",
+        autor: "Presidenta Bonnie L. Oscarson",
         fuente: "Liahona, mayo de 2016, págs. 88–89",
         texto: "Para creer, ¡tenemos que llevar el Evangelio de nuestra mente a nuestro corazón! Es posible que simplemente actuemos mecánicamente al vivir el Evangelio porque se espera que lo hagamos, o porque es la cultura en la que nos hemos criado o porque es un hábito […]. Todos debemos procurar cambiar nuestro corazón y naturaleza misma para que ya no tengamos el deseo de seguir los caminos del mundo, sino de complacer a Dios",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2016/04/do-i-believe?lang=spa&id=p18-p19#p18"
@@ -209,9 +209,9 @@ export const leccionesSemana11_LM: Lesson[] = [
 
       {
         tipo: "enseñanza",
-        autor: "Elder D. Todd Christofferson",
-        fuente: "Liahona, mayo de 2013, pág. 109).",
-        texto: "Entre los títulos más significativos que describen a Jesucristo está el de Redentor […]; la palabra redimir significa saldar una obligación o una deuda. Redimir también puede querer decir rescatar o liberar, como cuando se paga un rescate. Cuando alguien comete un error y luego lo corrige o remedia, decimos que se ha redimido. Cada uno de estos significados sugieren diferentes aspectos de la gran Redención que realizó Jesucristo con Su expiación, la cual incluye, según el diccionario, “librar del pecado y sus castigos mediante un sacrificio que se realiza a favor del pecador",
+        autor: "Élder D. Todd Christofferson",
+        fuente: "Liahona, mayo de 2013, pág. 109",
+        texto: "Entre los títulos más significativos que describen a Jesucristo está el de Redentor. […] [L]a palabra redimir significa saldar una obligación o una deuda. Redimir también puede querer decir rescatar o liberar, como cuando se paga una fianza. Cuando alguien comete un error y luego lo corrige o remedia, decimos que se ha redimido. Cada uno de estos significados sugieren diferentes aspectos de la gran Redención que realizó Jesucristo con Su expiación, la cual incluye, según el diccionario, “librar del pecado y sus castigos mediante un sacrificio que se realiza a favor del pecador”.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/redemption?lang=spa&id=p4#p4"
       },
 
@@ -275,7 +275,7 @@ export const leccionesSemana11_LM: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Dale G. Renlund",
         fuente: "Liahona, mayo de 2015, pág. 57 (discurso \"Los Santos de los Últimos Días siguen intentándolo\")",
-        texto: "Mi invitación a todos nosotros es que evaluemos nuestra vida, nos arrepintamos y sigamos intentándolo […]. Conforme cambiemos, descubriremos que en verdad a Dios le importa más quiénes somos y en quiénes nos estamos convirtiendo, que quiénes fuimos alguna vez (véase Dale G. Renlund",
+        texto: "Mi invitación a todos nosotros es que evaluemos nuestra vida, nos arrepintamos y sigamos intentándolo. […] Conforme cambiemos, descubriremos que en verdad a Dios le importa más quiénes somos y en quienes nos estamos convirtiendo, que en quienes fuimos alguna vez.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/latter-day-saints-keep-on-trying?lang=spa&id=p20#p20"
 
       },

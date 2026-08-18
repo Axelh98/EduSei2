@@ -40,7 +40,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Élder Richard G. Scott",
         fuente: "Liahona, enero de 2002", // página exacta no verificable en la versión digital; se retira "pág. 103" al no poder confirmarse
         texto: "Un firme testimonio no se puede edificar sobre un cimiento débil; por eso, no pretendas creer en algo de lo cual no estés seguro. Busca recibir una confirmación ratificadora.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2002/01/the-power-of-a-strong-testimony?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2002/01/the-power-of-a-strong-testimony?lang=spa&id=p22#p22"
         // Discurso "El poder de un firme testimonio", Conferencia General de octubre de 2001, publicado en Liahona de enero de 2002.
         // Corrección: el original decía "no finjas creer"; el texto oficial dice "no pretendas creer".
         // El artículo de Liahona no tiene anclas de párrafo (id=p#) como las Escrituras, por lo que no es posible enlazar directo al párrafo.
@@ -96,8 +96,8 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         tipo: "enseñanza",
         autor: "Presidente Joseph Fielding Smith",
         fuente: "Enseñanzas de los Presidentes de la Iglesia: Joseph Fielding Smith, 2013, pág. 249",
-        texto: "El Sermón del Monte es el más grandioso [sermón] que se haya predicado jamás, hasta donde sabemos.",
-        link: "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-joseph-fielding-smith/chapter-18-living-by-every-word-that-proceeds-from-the-mouth-of-god?lang=spa"
+        texto: "…ese gran y magnífico discurso —el más grandioso que se haya predicado jamás, hasta donde sabemos— el cual llamamos el Sermón del Monte…",
+        link: "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-joseph-fielding-smith/chapter-18-living-by-every-word-that-proceeds-from-the-mouth-of-god?lang=spa&id=p29#p29"
         // Cita verificada textualmente contra el Capítulo 18 ("Vivir de toda palabra que sale de la boca de Dios"), sección 4.
         // Se corrigió "Enseñanzas de los Presidentes" -> "Enseñanzas de los Presidentes de la Iglesia" (título oficial completo).
         // El manual no usa anclas de párrafo, por lo que el link lleva al capítulo completo, no a un párrafo específico.
@@ -149,7 +149,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Presidente Henry B. Eyring",
         fuente: "Liahona, mayo de 2014, pág. 24",
         texto: "Nuestro amoroso Padre Celestial nos dio el don de Su Amado Hijo Jesucristo como nuestro Salvador. Ese gran don y bendición de la expiación de Jesucristo ofrece un legado universal: la promesa de la resurrección y la posibilidad de la vida eterna a todos los que nacen.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2014/05/saturday-morning-session/a-priceless-heritage-of-hope?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2014/05/saturday-morning-session/a-priceless-heritage-of-hope?lang=spa&id=p29#p29"
         // Cita verificada contra el discurso "Un incalculable legado de esperanza" (Conferencia General, abril de 2014).
         // Este mismo discurso está citado como fuente de referencia en el manual oficial (sección "Información de contexto" de Alma 33 en el manual del maestro 2024).
         // No hay anclas de párrafo disponibles en esta página; el link lleva al discurso completo.
@@ -201,7 +201,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Élder Jeffrey R. Holland",
         fuente: "Liahona, noviembre de 2017, pág. 42",
         texto: "Si perseveramos, en algún momento de la eternidad nuestro refinamiento habrá terminado y será completo.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2017/11/saturday-morning-session/be-ye-therefore-perfect-eventually?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2017/11/saturday-morning-session/be-ye-therefore-perfect-eventually?lang=spa&id=p20#p20"
         // Discurso "Sed, pues, vosotros perfectos... con el tiempo", Conferencia General de octubre de 2017.
         // Este mismo discurso es la fuente que el propio manual del maestro 2024 cita para esta lección.
         // No hay anclas de párrafo disponibles en esta página; el link lleva al discurso completo.
@@ -253,7 +253,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Presidente Russell M. Nelson",
         fuente: "Liahona, noviembre de 2017, pág. 62",
         texto: "El Libro de Mormón brinda el entendimiento más pleno y autorizado acerca de la Expiación de Jesucristo que se pueda encontrar; enseña el verdadero significado de nacer de nuevo.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&id=p36#p36"
         // Discurso "El Libro de Mormón: ¿Cómo sería su vida sin él?", Conferencia General de octubre de 2017.
         // Esta cita es la que usa el propio manual del maestro 2024 en la sección "Información de contexto" de esta lección.
         // No hay anclas de párrafo disponibles en esta página; el link lleva al discurso completo.
@@ -302,10 +302,10 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Russell M. Nelson",
+        autor: "Élder Russell M. Nelson",
         fuente: "Liahona, enero de 1996, pág. 102",
         texto: "No debemos desalentarnos si nuestros esfuerzos más sinceros en busca de la perfección nos parecen demasiado arduos e interminables. La perfección es inminente; llegará en su totalidad únicamente después de la resurrección y solo por medio del Señor.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/1995/10/perfection-pending?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1995/10/perfection-pending?lang=spa&id=p62#p62"
         // Discurso "La inminencia de la perfección", Conferencia General de octubre de 1995 (entonces era Élder, del Cuórum de los Doce Apóstoles).
         // Esta es exactamente la cita que usa el propio manual del maestro 2024 en la lección previa (3 Nefi 12:17-48) para explicar este mismo principio.
       },
@@ -356,7 +356,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Élder Gerrit W. Gong",
         fuente: "Liahona, noviembre de 2018, pág. 40",
         texto: "La expiación de nuestro Salvador es infinita y eterna. Cada uno de nosotros se aparta y se queda corto. Quizá, por un tiempo, nos perdamos. Dios amorosamente nos asegura que, sin importar dónde estemos o qué hayamos hecho, no hay punto del que no podamos volver. Él espera listo para abrazarnos.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/our-campfire-of-faith?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/our-campfire-of-faith?lang=spa&id=p25#p25"
         // Discurso "Nuestra fogata de fe", Conferencia General de octubre de 2018.
       },
       {
@@ -406,7 +406,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Presidente Thomas S. Monson",
         fuente: "Liahona, noviembre de 2006, pág. 67",
         texto: "Cuando oremos, comuniquémonos de verdad con nuestro Padre Celestial. Es fácil que nuestras oraciones se vuelvan repetitivas y que pronunciemos palabras sin pensar casi en lo que decimos. [...] Oremos con sinceridad y con sentido, oremos con acción de gracias y pidamos lo que necesitemos.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2006/10/how-firm-a-foundation?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2006/10/how-firm-a-foundation?lang=spa&id=p15#p15"
         // Discurso "Qué firmes cimientos", Conferencia General de octubre de 2006.
       },
       {
@@ -456,7 +456,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Élder Dieter F. Uchtdorf",
         fuente: "Liahona, mayo de 2007, pág. 99",
         texto: "El don de la expiación de Jesucristo nos proporciona, en todo momento y en todo lugar, las bendiciones del arrepentimiento y del perdón.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2007/04/point-of-safe-return?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2007/04/point-of-safe-return?lang=spa&id=p35#p35"
         // Discurso "El punto de retorno seguro", Conferencia General de abril de 2007 (entonces era Élder, del Cuórum de los Doce Apóstoles).
         // El discurso completo explica, con la analogía de un vuelo transoceánico, que el adversario quiere hacernos creer que hemos
         // pasado un "punto sin retorno" cuando pecamos -exactamente la falsa creencia contra la que advierte Amulek en este pasaje.
@@ -508,7 +508,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Élder Dale G. Renlund",
         fuente: "Liahona, mayo de 2017, pág. 30",
         texto: "Como el verdadero pastor que es, Él nos busca y nos encuentra para brindarnos alivio y esperanza. Comprender Su compasión y amor nos ayuda a ejercer fe en Él, arrepentirnos y ser sanados.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2017/05/saturday-morning-session/our-good-shepherd?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2017/05/saturday-morning-session/our-good-shepherd?lang=spa&id=p10#p10"
         // Discurso "Nuestro Buen Pastor", Conferencia General de abril de 2017.
         // Esta es exactamente la cita que usa el propio manual del maestro 2024 (versión en español) para esta lección.
       },
@@ -563,7 +563,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Presidente Boyd K. Packer",
         fuente: "Liahona, mayo de 1997",
         texto: "No tienen por qué saberlo todo para que el poder de la Expiación surta efecto en ustedes. Tengan fe en Cristo, ¡y empezará a surtir efecto el mismo día que lo pidan!",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/1997/04/washed-clean?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/1997/04/washed-clean?lang=spa&id=p28#p28"
         // Discurso "Lavados y purificados", Conferencia General de abril de 1997 (entonces era Élder, del Cuórum de los Doce Apóstoles).
         // Es la misma cita que usa el manual oficial 2024 para esta lección (Alma 36).
       },
@@ -613,8 +613,8 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Dallin H. Oaks",
         fuente: "Liahona, noviembre de 2006, págs. 6-9",
-        texto: "El poder sanador del Señor Jesucristo está a nuestro alcance para toda aflicción de la vida terrenal. [...] Su expiación es lo suficientemente poderosa no solo para abarcar y pagar el precio del pecado, sino también para sanar toda aflicción terrenal.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2006/11/he-heals-the-heavy-laden?lang=spa"
+        texto: "El poder sanador del Señor Jesucristo, ya sea que quite nuestras cargas o nos fortalezca a fin de perseverar y vivir con ellas como lo hizo el apóstol Pablo, está a nuestro alcance para toda aflicción de la vida terrenal. […] Su expiación es lo suficientemente poderosa no sólo para abarcar y pagar el precio del pecado, sino también para sanar toda aflicción terrenal.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2006/11/he-heals-the-heavy-laden?lang=spa&id=p14,p32#p32"
         // Discurso "Él sana a los que están cargados", Conferencia General de octubre de 2006.
       },
       {
@@ -663,8 +663,8 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Richard G. Scott",
         fuente: "Liahona, noviembre de 2014, pág. 93",
-        texto: "No cedas ante la mentira de Satanás de que no tienes tiempo de estudiar las Escrituras. Elige un momento para estudiarlas. Deleitarte en la palabra de Dios cada día es más importante que dormir, que los estudios, el trabajo, la televisión, los videojuegos y las redes sociales.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/10/make-the-exercise-of-faith-your-first-priority?lang=spa"
+        texto: "No cedas ante la mentira de Satanás de que no tienes tiempo de estudiar las Escrituras. Elige un momento para estudiarlas. Deleitarse en la palabra de Dios cada día es más importante que dormir, que los estudios, el trabajo, la televisión, los videojuegos y las redes sociales.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2014/10/make-the-exercise-of-faith-your-first-priority?lang=spa&id=p14#p14"
         // Discurso "Haz del ejercicio de tu fe tu mayor prioridad", Conferencia General de octubre de 2014 (el último discurso del élder Scott).
       },
       {
@@ -714,7 +714,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Élder D. Todd Christofferson",
         fuente: "Liahona, noviembre de 2017, pág. 36",
         texto: "Comer Su carne y beber Su sangre es una manera contundente de expresar cuán completamente debemos traer al Salvador a nuestra vida, a nuestro mismo ser.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-living-bread-which-came-down-from-heaven?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-living-bread-which-came-down-from-heaven?lang=spa&id=p16#p16"
         // Discurso "El pan vivo que ha descendido del cielo", Conferencia General de octubre de 2017.
       },
       {
@@ -764,7 +764,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Élder David A. Bednar",
         fuente: "Liahona, mayo de 2013, págs. 43-44",
         texto: "Dominar al hombre natural en nosotros hace que tengamos un amor por Dios y Sus hijos más abundante, más profundo y más duradero. El amor aumenta mediante la justa represión y disminuye por la impulsiva gratificación.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/we-believe-in-being-chaste?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/we-believe-in-being-chaste?lang=spa&id=p21#p21"
         // Discurso "Creemos en ser castos", Conferencia General de abril de 2013, comentando directamente Alma 38:12 ("refrena tus pasiones... lleno de amor").
       },
       {
@@ -814,7 +814,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Presidente M. Russell Ballard",
         fuente: "Liahona, noviembre de 2020, pág. 77",
         texto: "¡Cuán grandioso es el poder de la oración y cuán necesarias son hoy en día nuestras oraciones de fe en Dios y en Su Hijo Amado! Recordemos y agradezcamos el poder de la oración.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2020/11/41ballard?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/liahona/2020/11/41ballard?lang=spa&id=p43#p43"
         // Discurso "Velad, pues, orando en todo tiempo", Conferencia General de octubre de 2020 (entonces Presidente en Funciones del Cuórum de los Doce Apóstoles).
       },
       {
@@ -863,8 +863,8 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Ulisses Soares",
         fuente: "Liahona, noviembre de 2020, pág. 84",
-        texto: "Si ponemos nuestra confianza en la roca de la salvación, el Salvador de nuestras almas, [...] nuestra capacidad para controlar nuestros pensamientos aumentará significativamente. [...] Entonces las tentaciones del enemigo, poco a poco, irán perdiendo su poder sobre nosotros, dando como resultado una vida más feliz, pura y consagrada.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=spa"
+        texto: "Si ponemos nuestra confianza en la roca de la salvación, el Salvador de nuestras almas, […] nuestra capacidad para controlar nuestros pensamientos aumentará significativamente. […] Entonces las tentaciones del enemigo, poco a poco, irán perdiendo su poder sobre nosotros, dando como resultado una vida más feliz, pura y consagrada.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=spa&id=p10#p10"
         // Discurso "Buscar a Cristo en todo pensamiento", Conferencia General de octubre de 2020.
       },
       {
@@ -913,8 +913,8 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         tipo: "enseñanza",
         autor: "Élder Richard G. Scott",
         fuente: "Liahona, mayo de 2003, pág. 76",
-        texto: "Cada vez que pongas a prueba tu fe, o sea, que actúes con rectitud ante una impresión, recibirás la evidencia confirmadora del Espíritu. Esos sentimientos fortalecerán tu fe. A medida que repitas ese patrón, tu fe se fortalecerá.",
-        link: "https://www.churchofjesuschrist.org/study/liahona/2003/05/the-sustaining-power-of-faith-in-times-of-uncertainty-and-testing?lang=spa"
+        texto: "Cada vez que pongas a prueba tu fe, o sea, que actúes con rectitud ante una impresión, recibirás la evidencia afirmativa del Espíritu. Esos sentimientos serán fortificados por tu fe. A medida que repitas ese patrón, tu fe se fortalecerá.",
+        link: "https://www.churchofjesuschrist.org/study/liahona/2003/05/the-sustaining-power-of-faith-in-times-of-uncertainty-and-testing?lang=spa&id=p14#p14"
         // Discurso "El poder sustentador de la fe en tiempos de incertidumbre y de pruebas", Conferencia General de abril de 2003.
         // Es la misma cita que usa el manual oficial 2024 para esta lección, comentando directamente Éter 12:6.
       },
@@ -965,7 +965,7 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
         autor: "Presidente Dallin H. Oaks",
         fuente: "Liahona, abril de 2019",
         texto: "Para ser limpios mediante el arrepentimiento, debemos abandonar nuestros pecados y confesarlos al Señor y a Su juez terrenal, cuando se requiera.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/51oaks?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2019/04/51oaks?lang=spa&id=p8#p8"
         // Discurso "Limpios mediante el arrepentimiento", Conferencia General de abril de 2019 (entonces Primer Consejero de la Primera Presidencia).
       },
       {
@@ -1013,9 +1013,9 @@ export const leccionesResumidasLM_Parte6: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Presidente Ezra Taft Benson",
-        fuente: "Liahona, agosto de 1975, pág. 42",
-        texto: "Con el tiempo, toda persona se enfrenta al 'muro de la fe' y allí debe adoptar una posición; todos debemos decidir por nosotros mismos, con fe, creer y conocer la verdad.",
-        link: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/47-ether-6-11/475-teacher?lang=spa"
+        fuente: "\"El Libro de Mormón es la palabra de Dios\", Liahona, agosto de 1975, pág. 42; parafraseado en el Manual del maestro de Seminario del Libro de Mormón (2024), Éter 6–11",
+        texto: "El presidente Ezra Taft Benson enseñó que, con el tiempo, toda persona se enfrenta al muro de la fe y debe adoptar una posición. En otras palabras, todos debemos decidir por nosotros mismos, con fe, creer y conocer la verdad.",
+        link: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/47-ether-6-11/475-teacher?lang=spa&id=p6#p6"
         // Discurso "El Libro de Mormón es la palabra de Dios", Conferencia General de abril de 1975 (entonces Presidente del Cuórum de los Doce Apóstoles).
         // No se localizó una versión digital independiente en español del discurso original de 1975, así que el link lleva
         // a la página del manual oficial 2024 (en español) que reproduce esta misma cita para esta misma lección.

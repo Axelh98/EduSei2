@@ -70,7 +70,7 @@ export const leccionesSemana15_LM: Lesson[] = [
         autor: "Élder Wilford W. Andersen",
         fuente: "Liahona, mayo de 2015 (discurso \"La música del Evangelio\")",
         texto: "Nuestro corazón cambia y 'ya no tenemos más disposición a obrar mal, sino a hacer lo bueno continuamente' (Mosíah 5:2). Pero el Espíritu no tolera la falta de bondad, el orgullo ni la envidia. Si perdemos esa delicada influencia en nuestra vida, las ricas armonías del Evangelio no tardarán en tornarse desafinadas.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/the-music-of-the-gospel?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2015/04/the-music-of-the-gospel?lang=spa&id=p12#p12"
         // ✅ Corregido tras visitar el manual oficial de esta lección (241-teacher): esta es la cita real que usa el
         // manual junto a Alma 5:9, 26. La cita de Nelson del archivo original no pudo verificarse.
       },
@@ -79,7 +79,7 @@ export const leccionesSemana15_LM: Lesson[] = [
         autor: "Presidente Dieter F. Uchtdorf",
         fuente: "Liahona, noviembre de 2013 (discurso \"¡Pueden hacerlo ahora!\")",
         texto: "De todos los principios que enseñaron los profetas durante siglos, uno que se ha recalcado, una y otra vez, es el esperanzador y reconfortante mensaje de que la humanidad puede arrepentirse, cambiar de rumbo y regresar al verdadero camino del discipulado.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/you-can-do-it-now?lang=spa"
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2013/10/you-can-do-it-now?lang=spa&id=p18#p18"
         // ✅ Reemplazada: no se encontró una segunda cita de líder específica en esta lección; se usó esta cita real y
         // ya verificada (coherente con el tema del cambio de corazón) en vez de la de Holland, que no pudo confirmarse.
       },
@@ -142,17 +142,17 @@ export const leccionesSemana15_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Rusell M. Nelson",
-        fuente: "Liahona, mayo de 2020 (discurso \"Escuchalo\")",
+        autor: "Presidente Russell M. Nelson",
+        fuente: "Liahona, mayo de 2020 (discurso \"Escúchalo\")",
         texto: "Significa “oír con la intención de obedecer”. Escuchar con la intención de obedecer significa “escucharlo”: escuchar lo que el Salvador dice y entonces, dar oído a Su consejo",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa&id=p21#p21"
       },
       {
         tipo: "enseñanza",
-        autor: "Gary E. Stevenson",
-        fuente: "Liahona, Mayoe de 2021, pág. 23 (discurso \"Corazones Entrelazados\")",
-        texto: "Cuando miramos a través de la lente del Evangelio, reconocemos que nosotros también nos encontramos bajo el cuidado de un guardián compasivo, que despliega Su bondad con un espíritu enriquecedor. El Buen Pastor nos conoce a cada uno por nuestro nombre y “tiene interés personal en [nosotros]”. El mismo Señor Jesucristo dijo: “Yo soy el buen pastor y conozco mis ovejas” […]; y pon[dré] mi vida por las ovejas.",
-        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/15stevenson?lang=spa&id=p46-p47#p46"
+        autor: "Élder Gary E. Stevenson",
+        fuente: "Liahona, mayo de 2021, pág. 23 (discurso \"Corazones entrelazados\")",
+        texto: "Cuando miramos a través de la lente del Evangelio, reconocemos que nosotros también nos encontramos bajo el cuidado de un guardián compasivo, que despliega Su bondad con un espíritu enriquecedor. El Buen Pastor nos conoce a cada uno por nuestro nombre y “tiene interés personal en [nosotros]”. El mismo Señor Jesucristo dijo: “Yo soy el buen pastor y conozco mis ovejas […] y [pondré] mi vida por las ovejas”.",
+        link: "https://www.churchofjesuschrist.org/study/general-conference/2021/04/15stevenson?lang=spa&id=p46#p46"
 
       },
       {
@@ -214,8 +214,8 @@ export const leccionesSemana15_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Presidente Oaks",
-        fuente: "Liahona, noviembre de 2015, (discurso \"Fortalecidos por la expiación de Jesucristoo\")",
+        autor: "Élder Dallin H. Oaks",
+        fuente: "Liahona, noviembre de 2015 (discurso \"Fortalecidos por la expiación de Jesucristo\")",
         texto: "Nuestro Salvador padeció y sufrió la plenitud de todos los desafíos terrenales “según la carne” a fin de que, “según la carne”, supiera cómo “socorrer [lo cual significa prestar auxilio o ayuda] a los de su pueblo, de acuerdo con las debilidades de ellos”. Por consiguiente, Él conoce nuestros problemas, dolores, tentaciones y sufrimientos, porque por voluntad propia los padeció todos como parte esencial de Su expiación. Gracias a ello, la Expiación lo faculta para socorrernos, para darnos la fortaleza a fin de soportarlo todo",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=spa&id=p9#p9"
 
@@ -223,9 +223,9 @@ export const leccionesSemana15_LM: Lesson[] = [
       {
         tipo: "enseñanza",
         autor: "Élder Jeffrey R. Holland",
-        fuente: "Christ and the New Covenant: The Messianic Message of the Book of Mormon (1997), págs. 223–224",
-        texto: "Cristo caminó el sendero que todo mortal está llamado a caminar, para saber cómo socorrernos y fortalecernos en nuestros momentos más difíciles. Él conoce las cargas más profundas y personales que llevamos... No hay angustia, pesar ni tristeza en la vida que Él no haya sufrido en nuestro favor.",
-        link: ""
+        fuente: "Christ and the New Covenant: The Messianic Message of the Book of Mormon, 1997, págs. 223–224; citado en el Manual del maestro de Seminario del Libro de Mormón (2024), Alma 7",
+        texto: "Cristo caminó por la senda que todas las personas mortales tienen que recorrer, y lo hizo para saber cómo socorrernos y fortalecernos en nuestras épocas más difíciles. Él conoce las cargas más profundas y privadas que llevamos; conoce las penas más públicas y más agudas que pasamos. Él descendió por debajo de todo ese dolor a fin de poder elevarnos por encima de él. No existe angustia, pesar ni tristeza en la vida que Él no haya sufrido por nosotros y llevado sobre Sus valerosos y compasivos hombros.",
+        link: "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/24-alma-5-7/243-teacher?lang=spa&id=p32#p32"
       },
       {
         tipo: "conclusion",
@@ -338,9 +338,9 @@ export const leccionesSemana15_LM: Lesson[] = [
       },
       {
         tipo: "enseñanza",
-        autor: "Elder L. Whjitney Clayton de los setenta",
-        fuente: "Liahona, Mayo de 2020 (discurso \"Los mejores hogarese\")",
-        texto: "Los atributos de Cristo se adquieren “con el transcurso del tiempo” [Moisés 7:21], con el progreso intencional a lo largo de la senda de los convenios. Los atributos cristianos adornan la vida de aquellos que se esfuerzan por vivir con bondad. Llenan los hogares con la luz del Evangelio, sin importar si el piso es de tierra o de mármol. Aun si son la única persona en su hogar que sigue el mandato de “a esto aspiramos” [Artículos de Fe 1:13], ustedes pueden contribuir a que se adorne espiritualmente el hogar de su familia",
+        autor: "Élder L. Whitney Clayton",
+        fuente: "Liahona, mayo de 2020 (discurso \"Los mejores hogares\")",
+        texto: "Los atributos de Cristo se adquieren “con el transcurso del tiempo” [Moisés 7:21], con el progreso intencional a lo largo de la senda de los convenios. Los atributos cristianos adornan la vida de aquellos que se esfuerzan por vivir con bondad. Llenan los hogares con la luz del Evangelio, sin importar si el piso es de tierra o de mármol. Aun si son la única persona en su hogar que sigue el mandato de “a esto aspiramos” [Artículos de Fe 1:13], ustedes pueden contribuir a que se adorne espiritualmente el hogar de su familia.",
         link: "https://www.churchofjesuschrist.org/study/general-conference/2020/04/55clayton?lang=spa&id=p21#p21"
 
       },
