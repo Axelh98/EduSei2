@@ -1,0 +1,94 @@
+{
+  "id": "leccion-29-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Los incrédulos establecen un día en el cual matarán a todos los creyentes si la señal del nacimiento de Cristo no aparece. Nefi ora fervientemente por su pueblo. El Señor le asegura que esa misma noche nacerá. Al ponerse el sol, no hay oscuridad - se cumple la profecía de Samuel. Aparece una nueva estrella. Muchos se convierten al ver el cumplimiento de las profecías, aunque algunos intentan racionalizar las señales. Este capítulo muestra la fidelidad de los creyentes y el cumplimiento exacto de las profecías."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 1:13",
+          "texto": "Levanta la cabeza y ten buen ánimo; porque he aquí, ha llegado el tiempo; y esta noche se dará la señal.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/1?lang=spa&id=p13#p13"
+        },
+        {
+          "referencia": "3 Nefi 1:15",
+          "texto": "Y sucedió que las palabras que llegaron a Nefi se cumplieron, tal como se habían hablado; porque he aquí, al ponerse el sol no hubo obscuridad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/1?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "3 Nefi 1:21",
+          "texto": "Aparecieron una nueva estrella, de acuerdo con la palabra. Hubo grandes maravillas y señales del cielo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/1?lang=spa&id=p21#p21"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te enseña la fe de Nefi y los creyentes que esperaron la señal a pesar de las amenazas?",
+        "¿Cómo respondes cuando tus creencias son desafiadas o cuestionadas por otros?",
+        "¿Qué significado tiene el cumplimiento exacto de las profecías sobre Cristo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué dijo Samuel sobre los lamanitas conversos?",
+      "options": [
+        "Que eran débiles",
+        "Que eran firmes e inmutables en la fe",
+        "Que eran infieles",
+        "Que no importaban"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo intentaron matar a Samuel cuando estaba en el muro?",
+      "options": [
+        "Con espadas",
+        "Con piedras y flechas",
+        "Derribando el muro",
+        "Con veneno"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué no pudieron herir a Samuel?",
+      "options": [
+        "Porque era muy ágil",
+        "Porque el Espíritu del Señor lo protegía",
+        "Porque tenía armadura",
+        "Porque estaba muy lejos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué hicieron los que creyeron el mensaje de Samuel?",
+      "options": [
+        "Nada",
+        "Fueron a buscar a Nefi para ser bautizados",
+        "Atacaron a otros",
+        "Huyeron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué hicieron los que no creyeron después de que Samuel se fue?",
+      "options": [
+        "Se arrepintieron",
+        "Endurecieron más sus corazones",
+        "Cambiaron de opinión",
+        "Lo buscaron"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

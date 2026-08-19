@@ -1,0 +1,89 @@
+{
+  "id": "leccion-35-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mormón lidera a los ejércitos nefitas y logran algunas victorias. Sin embargo, en lugar de agradecer a Dios por liberarlos, los nefitas se jactan de su propia fuerza y juran vengarse de los lamanitas. Esta total falta de humildad y rebelión directa contra Dios entristece tanto a Mormón que, por un tiempo, rehúsa ser su líder. Él advierte a las generaciones futuras sobre las consecuencias del orgullo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 3:9",
+          "texto": "Y he aquí, empezaron a jactarse de su propia fuerza, y a jurar ante los cielos que vengarían la sangre de sus hermanos...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Mormón 3:11",
+          "texto": "Y fue por esta causa que rehusé desde ese momento en adelante ser el comandante y líder de este pueblo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa&id=p11#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué es peligroso atribuirse el éxito o la fuerza a uno mismo en lugar de a Dios?",
+        "¿Qué podemos aprender de la decisión de Mormón de no apoyar al pueblo en su deseo de venganza?",
+        "¿De qué manera puedes mostrar gratitud al Señor por los triunfos en tu vida?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué hizo Mormón cuando el pueblo no se arrepintió?",
+      "options": [
+        "Los abandonó completamente",
+        "Rehusó ser su líder por su iniquidad",
+        "Los apoyó incondicionalmente",
+        "Se fue del país"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué tipo de guerra describe Mormón?",
+      "options": [
+        "Guerras justas",
+        "Guerras terribles llenas de sangre y destrucción",
+        "Batallas menores",
+        "Conflictos pacíficos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué lamentó Mormón sobre su pueblo?",
+      "options": [
+        "Su pobreza",
+        "Su día de gracia había pasado por endurecer sus corazones",
+        "Su falta de educación",
+        "Sus derrotas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué continuó Mormón llevando los registros?",
+      "options": [
+        "Por dinero",
+        "Para preservarlos para generaciones futuras",
+        "Por fama",
+        "Por tradición solamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué advertencia dio sobre el pecado?",
+      "options": [
+        "Que no importa",
+        "Que el pecado trae destrucción y corta el Espíritu",
+        "Que es temporal",
+        "Que es natural"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

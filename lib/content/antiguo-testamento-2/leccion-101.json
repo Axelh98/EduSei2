@@ -1,0 +1,56 @@
+{
+  "id": "leccion-101",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué tipo de literatura son los Salmos dentro de las Escrituras?",
+      "options": [
+        "Leyes y mandamientos del Señor.",
+        "Poemas y canciones inspiradas que expresan las emociones y la fe del pueblo de Israel.",
+        "Profecías sobre el fin del mundo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué los Salmos son tan útiles para el estudio personal de las Escrituras?",
+      "options": [
+        "Porque son más cortos que otros libros.",
+        "Porque expresan una amplia variedad de emociones humanas y enseñan cómo acudir a Dios en todas las circunstancias.",
+        "Porque fueron escritos directamente por Jesucristo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué temas encuentras con frecuencia en los Salmos?",
+      "options": [
+        "Solo alabanza y acción de gracias.",
+        "Alabanza, clamor en la aflicción, confianza en Dios, arrepentimiento y esperanza mesiánica.",
+        "Solo historia de batallas militares."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué muchos Salmos son considerados proféticos sobre Jesucristo?",
+      "options": [
+        "Porque todos los Salmos fueron escritos después de la vida de Cristo.",
+        "Porque describen con detalle eventos de la vida, muerte y resurrección del Mesías antes de que ocurrieran.",
+        "Porque solo los escribieron los apóstoles."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué puedes hacer con los Salmos en tu estudio personal para profundizar tu relación con el Señor?",
+      "options": [
+        "Solo memorizarlos para recitarlos en clase.",
+        "Usar sus palabras como guía para expresar tus propias emociones y oraciones al Padre Celestial.",
+        "Leerlos únicamente en el templo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

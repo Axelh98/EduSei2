@@ -1,0 +1,83 @@
+{
+  "id": "doctrina-y-convenios-78",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué grupo organizó el Señor en 1832 para administrar propiedades y ayudar a los necesitados?",
+      "options": [
+        "La Firma Unida",
+        "El Quórum de los Doce",
+        "La Primera Presidencia",
+        "El Consejo de Kirtland"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál era uno de los propósitos principales de la Firma Unida según DyC 78:3–6?",
+      "options": [
+        "Acumular riquezas para los líderes",
+        "Administrar propiedades y recursos para adelantar la causa de Sion",
+        "Organizar viajes misioneros",
+        "Construir templos en todo el mundo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué promesa hizo el Señor en DyC 78:7–8, 14–15, 17–19 a quienes obedecieran Su mandato?",
+      "options": [
+        "Serán prosperados y recibirán paz y vida eterna",
+        "Nunca enfrentarán pruebas",
+        "Serán reconocidos por el mundo",
+        "No necesitarán trabajar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué se entiende por “almacén del Señor” en nuestros días?",
+      "options": [
+        "Un edificio físico en cada ciudad",
+        "Todos los recursos de la Iglesia para ayudar a los necesitados",
+        "Un depósito de alimentos únicamente",
+        "Un fondo secreto de la Iglesia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseñan Mosíah 2:17 y Mateo 25:34–40 sobre el servicio?",
+      "options": [
+        "Que servir a los demás es servir a Dios",
+        "Que el servicio no es necesario",
+        "Que solo los líderes deben servir",
+        "Que el servicio es opcional"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Qué bendiciones promete el Señor en Malaquías 3:8–11 a quienes pagan diezmos y ofrendas?",
+      "options": [
+        "Abrirá las ventanas de los cielos y derramará bendiciones",
+        "Serán reconocidos por los líderes",
+        "Recibirán fama y poder",
+        "No tendrán responsabilidades"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo puede la formación académica, según DyC 88 y 93, ayudar a ser más semejante al Salvador?",
+      "options": [
+        "Permite cuidar mejor de los necesitados",
+        "Hace que uno sea más rico",
+        "Evita cualquier debilidad",
+        "No tiene relación con el Evangelio"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

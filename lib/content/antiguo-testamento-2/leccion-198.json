@@ -1,0 +1,56 @@
+{
+  "id": "leccion-198",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué el presidente Nelson ha animado con urgencia a los jóvenes a prepararse para servir una misión?",
+      "options": [
+        "Porque la Iglesia necesita más edificios construidos.",
+        "Porque vivimos en tiempos críticos y el mundo necesita el Evangelio de Jesucristo más que nunca.",
+        "Porque es un requisito para casarse en el templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el propósito central del servicio misional?",
+      "options": [
+        "Aprender otro idioma y conocer nuevas culturas.",
+        "Invitar a las personas a venir a Cristo ayudándolas a recibir el Evangelio restaurado y Sus ordenanzas.",
+        "Cumplir con una tradición familiar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo transforma una misión la vida del misionero?",
+      "options": [
+        "Solo les da experiencia para conseguir trabajo después.",
+        "Profundiza el testimonio, desarrolla el carácter, fortalece la fe y prepara para toda la vida.",
+        "No tiene impacto duradero en la mayoría de los misioneros."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué preparación espiritual es fundamental para servir una misión efectiva?",
+      "options": [
+        "Aprender todos los idiomas posibles.",
+        "Desarrollar un testimonio personal, hábitos de oración y estudio de las Escrituras, y vivir dignamente.",
+        "Tener una personalidad muy extrovertida."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Si alguien no puede servir una misión de tiempo completo, ¿puede igualmente participar en la obra misional?",
+      "options": [
+        "No; solo los misioneros de tiempo completo pueden hacer trabajo misional real.",
+        "Sí; compartir el Evangelio con naturalidad, siendo un buen ejemplo y orando por las personas son formas de participar en la obra misional.",
+        "Solo si trabaja como voluntario en la oficina misional."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

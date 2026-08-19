@@ -1,0 +1,72 @@
+{
+  "id": "doctrina-y-convenios-107-21-100",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo compara Pablo a Jesucristo en Efesios 2:20?",
+      "options": [
+        "Con la principal piedra del ángulo",
+        "Con un profeta",
+        "Con un apóstol",
+        "Con un discípulo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué enseña DyC 107:23 sobre los Apóstoles?",
+      "options": [
+        "Que son testigos especiales del nombre de Cristo",
+        "Que solo dirigen reuniones",
+        "Que no tienen responsabilidades",
+        "Que son iguales a todos los miembros"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Según el élder David A. Bednar, ¿qué significa ser testigo especial del nombre de Cristo?",
+      "options": [
+        "Dar testimonio de Su misión, muerte, resurrección y doctrina",
+        "Solo hablar de Su nacimiento",
+        "Predicar sin autoridad",
+        "Evitar mencionar Su expiación"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué responsabilidad tiene el Profeta o Presidente de la Iglesia según DyC 107:91–92?",
+      "options": [
+        "Dirigir toda la Iglesia bajo la autoridad del sacerdocio",
+        "Solo enseñar en su barrio",
+        "No tiene función",
+        "Depende de los obispos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué función tienen los Setentas según DyC 107:25, 34, 38?",
+      "options": [
+        "Predicar el evangelio y ayudar a los Apóstoles",
+        "Solo administrar ordenanzas",
+        "No tienen función",
+        "Son jueces"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Qué responsabilidad tienen los Obispos según DyC 107:71–74?",
+      "options": [
+        "Presidir sobre los asuntos temporales y espirituales de su congregación",
+        "No tienen autoridad",
+        "Solo predicar",
+        "Dependen de los jóvenes"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

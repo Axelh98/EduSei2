@@ -110,10 +110,12 @@ function FlatLessonItem({
   onToggle: () => void
 }) {
   const accent    = getAccent(lesson)
-  const hasQuiz   = lesson.questions.length > 0
-  const hasStudy  = (lesson.secciones ?? []).length > 0
+  // questionCount / hasStudy vienen del manifiesto del curso: permiten
+  // saber si hay quiz y repaso sin cargar el contenido de la lección.
+  const numQuiz   = lesson.questionCount ?? lesson.questions.length
+  const hasQuiz   = numQuiz > 0
+  const hasStudy  = lesson.hasStudy ?? (lesson.secciones ?? []).length > 0
   const checkId   = `lesson-check-${lesson.id}`
-  const numQuiz   = lesson.questions.length
   const estMins   = numQuiz > 0 ? `~${Math.max(2, Math.round(numQuiz * 0.5))} min` : ""
 
   return (

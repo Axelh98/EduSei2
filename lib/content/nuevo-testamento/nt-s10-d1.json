@@ -1,0 +1,39 @@
+{
+  "id": "nt-s10-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué documento es central para entender la doctrina de la familia hoy?",
+      "options": [
+        "El diccionario bíblico.",
+        "La Familia: Una Proclamación para el Mundo.",
+        "El manual de historia de la Iglesia.",
+        "Un libro de leyes civiles."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Quién estableció la relación del matrimonio según Mateo 19?",
+      "options": [
+        "Los gobiernos humanos.",
+        "Dios, desde la creación del mundo.",
+        "Los filósofos antiguos.",
+        "Las tradiciones culturales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué enseñó el presidente Dallin H. Oaks sobre los problemas matrimoniales?",
+      "options": [
+        "Que el divorcio es la única solución rápida.",
+        "Que para la mayoría, el remedio no es el divorcio sino el arrepentimiento.",
+        "Que no tienen solución.",
+        "Que es mejor no casarse."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

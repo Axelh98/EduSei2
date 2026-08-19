@@ -21,7 +21,6 @@ import {
   getTotalQuestions,
   isFlatCategory,
   getSemesterSiblings,
-  getWeeksWithExtendedContent,
   getLessonById,
 } from "@/lib/quiz-data"
 import {
@@ -70,9 +69,12 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const activeSemester =
     !isFlatCategory(cat) && (cat as any)?.semester === 2 ? 2 : 1
 
-  const weeksWithExtraContent = useMemo(() => {
+  // WeekCard solo muestra títulos y checkboxes: no necesita las `secciones`,
+  // así que aquí no se fusiona el contenido de repaso. Ese contenido lo carga
+  // la página de estudio bajo demanda (lib/content/loader.ts).
+  const weeks = useMemo(() => {
     if (isFlatCategory(cat)) return []
-    return getWeeksWithExtendedContent(cat)
+    return cat.weeks
   }, [cat])
 
   const totalLessons   = getTotalLessons(cat)
@@ -327,7 +329,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                 />
               ) : (
                 <div className="flex flex-col gap-4">
-                  {weeksWithExtraContent.map((week, index) => (
+                  {weeks.map((week, index) => (
                     <WeekCard
                       key={week.id}
                       week={week}

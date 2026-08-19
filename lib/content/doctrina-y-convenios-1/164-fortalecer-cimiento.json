@@ -1,0 +1,117 @@
+{
+  "id": "164-fortalecer-cimiento",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "El Templo de Salt Lake fue renovado para reforzar sus cimientos contra terremotos. Desde afuera se veía igual. El cambio era invisible pero esencial. En las épocas tranquilas nadie nota si tu cimiento espiritual es sólido. Cuando llegan las pruebas —una pregunta difícil sobre la historia de la Iglesia, un amigo que desafía tu fe, un momento de duda severa— ahí se revela lo que hay debajo.",
+        "El Dominio de la Doctrina construye ese cimiento de forma sistemática: memorizar pasajes clave, comprender las doctrinas en profundidad, y aprender a aplicarlas y explicarlas en conversaciones reales. No es memorizar por memorizar; es tener los recursos espirituales listos antes de necesitarlos.",
+        "El presidente Nelson advirtió que en los días futuros no será posible sobrevivir espiritualmente sin la guía constante del Espíritu Santo. El Dominio te prepara para recibir esa guía: cuando conocés las Escrituras, el Espíritu puede traerlas a tu memoria exactamente cuando las necesitás —en una conversación, en un momento de duda, en una decisión difícil."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 5:12",
+          "texto": "Y ahora, hijos míos, recordad, recordad que en la roca de nuestro Redentor, que es Cristo, el Hijo de Dios, debéis edificar vuestro fundamento; para que cuando el diablo lanzare sus poderosos vientos, sí, sus dardos en el torbellino, sí, cuando toda su granizada y su furiosa tormenta os azoten, no tenga poder sobre vosotros para arrastraros a la sima de miseria y pesar eterno, a causa de la roca sobre la cual estáis edificados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        },
+        {
+          "referencia": "Doctrina y Convenios 11:21",
+          "texto": "No procures declarar mi palabra, sino que primero procura obtenerla y luego será soltada tu lengua; entonces, si quieres, tendrás mi Espíritu y mi palabra, sí, el poder de Dios para convencer a los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/11?lang=spa&id=p21#p21"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "\"El templo y el cimiento espiritual de ustedes\", Liahona, noviembre de 2021, págs. 93-94",
+      "texto": "El Señor ha declarado que, a pesar de los desafíos sin precedentes de hoy, aquellos que edifican sus cimientos en Jesucristo, y han aprendido a invocar Su poder, no tienen por qué sucumbir a las inquietudes singulares de esta época",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/47nelson?lang=spa&id=p9-p10,p13#p9"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Un cimiento espiritual fuerte se construye antes de la crisis, no durante. El Dominio de la Doctrina es esa construcción sistemática: pasaje por pasaje, principio por principio. Si edificás tu cimiento en Cristo como enseña Helamán 5:12, cuando lleguen las tormentas no podrán arrastrarte. Esta semana empezá con el primer pasaje del Dominio y tratalo como lo que es: material de construcción para tu alma."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué se invirtió tanto tiempo y dinero en renovar los cimientos del Templo de Salt Lake si desde afuera se veía igual? ¿Qué tiene en común eso con la fe?",
+        "¿Qué promesa específica da Helamán 5:12 a los que edifican su cimiento en Cristo?",
+        "¿Alguna vez tu fe fue 'probada' por algo difícil? ¿Qué te sostuvo en ese momento?",
+        "¿Qué desafíos concretos del mundo actual hacen necesario tener ese cimiento sólido ahora mismo?",
+        "¿Qué hábito espiritual concreto vas a comenzar o fortalecer esta semana para construir tu cimiento?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "El Templo de Salt Lake fue renovado para reforzar sus cimientos contra terremotos. Desde afuera se veía igual. ¿Qué tiene en común eso con la fe espiritual?",
+      "options": [
+        "Que lo más importante de la fe es lo que los demás pueden ver",
+        "Que el trabajo más importante ocurre en lo invisible, antes de que lleguen las tormentas",
+        "Que la fe solo importa en situaciones de peligro físico",
+        "Que los cimientos espirituales se construyen automáticamente con el tiempo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Helamán 5:12 promete que si edificás tu cimiento en Cristo, las tormentas 'no tendrán poder' sobre vos. ¿Qué tipo de tormentas enfrenta específicamente un joven de tu edad?",
+      "options": [
+        "Solo dificultades económicas o laborales",
+        "Dudas de fe, presión social, decisiones morales y preguntas difíciles sobre la Iglesia",
+        "Solo problemas de salud física",
+        "Solo conflictos con líderes de la Iglesia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Alguna vez tu fe fue probada por algo difícil — una pregunta sin respuesta, algo que aprendiste sobre la historia de la Iglesia, o la presión de un amigo? ¿Qué te sostuvo?",
+      "options": [
+        "Ignorar la pregunta hasta que desapareciera sola",
+        "Discutir con quien planteó la duda",
+        "Algo que ya sabía — un versículo, un testimonio, una experiencia espiritual previa",
+        "Cambiar de tema para no pensar más en eso"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "El presidente Nelson advirtió que sin el Espíritu Santo no será posible sobrevivir espiritualmente. ¿Cómo ayuda el Dominio de la Doctrina a recibir esa guía?",
+      "options": [
+        "Memorizando frases exactas para repetirlas automáticamente",
+        "Porque el Espíritu puede traer a la memoria versículos conocidos exactamente cuando los necesitamos",
+        "Porque memorizar es la única forma de recibir revelación personal",
+        "Porque el Dominio reemplaza la necesidad de orar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué hábito espiritual concreto vas a comenzar o fortalecer esta semana para construir tu cimiento? ¿Cuándo específicamente lo harás?",
+      "options": [
+        "Leer todas las Escrituras de tapa a tapa antes de fin de año",
+        "Esperar a sentir motivación antes de hacer algo",
+        "Un hábito pequeño y diario — un versículo, cinco minutos de oración, una anotación en el diario",
+        "Hablar con muchas personas sobre el tema antes de decidir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "D&C 11:21 dice: 'primero procura obtenerla [la palabra] y luego será soltada tu lengua.' ¿Qué relación tiene eso con el Dominio de la Doctrina?",
+      "options": [
+        "Que debemos guardar silencio hasta tener todas las respuestas",
+        "Que para poder compartir el evangelio con confianza, primero necesitamos conocerlo bien",
+        "Que solo los maestros necesitan estudiar las Escrituras en profundidad",
+        "Que el estudio de las Escrituras reemplaza la necesidad de orar antes de hablar"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

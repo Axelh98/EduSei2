@@ -1,0 +1,116 @@
+{
+  "id": "bloque-nt-4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo se presenta Jesús en Juan 10?",
+      "options": [
+        "Como el buen pastor",
+        "Como el rey de Israel",
+        "Como el juez del mundo",
+        "Como el maestro de la ley"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué milagro realiza Jesús en Juan 11?",
+      "options": [
+        "Multiplica los panes",
+        "Camina sobre el agua",
+        "Resucita a Lázaro",
+        "Sana a un ciego de nacimiento"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hizo María en Juan 12 para honrar a Jesús?",
+      "options": [
+        "Le dio pan y vino",
+        "Ungió sus pies con perfume",
+        "Le ofreció un sacrificio",
+        "Le lavó las manos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué acto realizó Jesús en Juan 13 como ejemplo de humildad?",
+      "options": [
+        "Ayunó cuarenta días",
+        "Se vistió de saco",
+        "Lavó los pies de sus discípulos",
+        "Oró en el templo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseñanza central da Jesús en Juan 14?",
+      "options": [
+        "Bienaventurados los mansos",
+        "El que quiera ser el primero sea siervo",
+        "Yo soy el camino, la verdad y la vida",
+        "Amarás a tu prójimo como a ti mismo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "¿Qué metáfora usa Jesús en Juan 15?",
+      "options": [
+        "Yo soy la roca firme",
+        "Yo soy la puerta del templo",
+        "Yo soy la vid verdadera",
+        "Yo soy el agua viva"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "¿Qué promete Jesús en Juan 16?",
+      "options": [
+        "La paz política en Israel",
+        "La llegada de un nuevo profeta",
+        "El envío del Consolador (Espíritu Santo)",
+        "La destrucción del templo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 8,
+      "question": "¿Qué oración hace Jesús en Juan 17?",
+      "options": [
+        "Ora por riquezas materiales",
+        "Ora por un nuevo templo",
+        "Ora por sus discípulos y por todos los creyentes",
+        "Ora por la destrucción de Roma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 9,
+      "question": "¿Qué ocurre en Juan 19?",
+      "options": [
+        "El bautismo de Jesús",
+        "La crucifixión de Jesús",
+        "La transfiguración de Jesús",
+        "La ascensión de Jesús"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 10,
+      "question": "¿Qué hace Jesús en Juan 21 después de resucitar?",
+      "options": [
+        "Se aparece en Nazaret",
+        "Se aparece en el templo de Jerusalén",
+        "Se aparece en el monte Sinaí",
+        "Se aparece a sus discípulos junto al mar y les da de comer"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

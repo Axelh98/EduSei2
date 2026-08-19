@@ -1,0 +1,83 @@
+{
+  "id": "bloque-at-7",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué decisión tomaron Daniel y sus amigos en el capítulo 1?",
+      "options": [
+        "No contaminarse con la comida del rey",
+        "Aprender la lengua de los caldeos",
+        "Servir como sacerdotes",
+        "Huir de Babilonia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué reveló Dios a Daniel en el capítulo 2?",
+      "options": [
+        "El sueño de Nabucodonosor y su interpretación",
+        "La caída de Babilonia",
+        "La visión de los cuatro animales",
+        "El regreso de Israel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué representaba la estatua en el sueño de Nabucodonosor en Daniel 2?",
+      "options": [
+        "Los reinos que surgirían en la tierra",
+        "Los profetas de Israel",
+        "Los ángeles del cielo",
+        "Los sacerdotes de Babilonia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué hicieron Sadrac, Mesac y Abed-nego en Daniel 3?",
+      "options": [
+        "Se negaron a adorar la estatua de oro",
+        "Construyeron un altar",
+        "Huyeron de Babilonia",
+        "Se convirtieron en sacerdotes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué sucedió cuando los tres jóvenes fueron lanzados al horno de fuego en Daniel 3?",
+      "options": [
+        "No sufrieron daño y apareció un cuarto ser con ellos",
+        "Fueron consumidos inmediatamente",
+        "El horno se apagó solo",
+        "El rey los liberó antes de tiempo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Por qué fue arrojado Daniel al foso de los leones en Daniel 6?",
+      "options": [
+        "Por orar a Dios a pesar del decreto del rey",
+        "Por interpretar sueños sin permiso",
+        "Por negarse a servir al rey",
+        "Por predicar contra Babilonia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Qué ocurrió con Daniel en el foso de los leones?",
+      "options": [
+        "Dios envió un ángel que cerró la boca de los leones",
+        "Fue devorado por los leones",
+        "El rey lo liberó antes de entrar",
+        "Los leones huyeron del foso"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

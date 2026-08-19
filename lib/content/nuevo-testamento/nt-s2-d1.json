@@ -1,0 +1,61 @@
+{
+  "id": "nt-s2-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué debemos hacer cuando surgen dudas según el élder Uchtdorf?",
+      "options": [
+        "Ignorarlas por completo.",
+        "Dudar de nuestras dudas antes que dudar de nuestra fe.",
+        "Dejar de asistir a la Iglesia.",
+        "Buscar respuestas en sitios anti-mormones."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué sucede con la \"semilla de la duda honesta\" si se maneja correctamente?",
+      "options": [
+        "Destruye el testimonio.",
+        "Madura hasta convertirse en un gran roble de entendimiento.",
+        "Nunca produce nada.",
+        "Debe ser motivo de vergüenza."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo aumenta nuestra fe según el presidente Nelson?",
+      "options": [
+        "Sin hacer nada.",
+        "Cada vez que ejercemos la fe siendo obedientes, aun ante críticas.",
+        "Leyendo solo libros de historia secular.",
+        "Evitando pensar en Jesucristo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué prometió el Señor si actuamos con fe ante nuestras inquietudes?",
+      "options": [
+        "Respuestas instantáneas a todo.",
+        "Paz y fortaleza mientras buscamos respuestas.",
+        "Que no tendremos más desafíos.",
+        "Éxito material garantizado."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es el primer paso vital para aprender la verdad?",
+      "options": [
+        "Aceptar lo que dice el mundo.",
+        "Hacer preguntas y buscar respuestas del Señor.",
+        "No cuestionar nada nunca.",
+        "Leer solo noticias en internet."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

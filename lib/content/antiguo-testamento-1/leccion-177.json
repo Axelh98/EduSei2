@@ -1,0 +1,108 @@
+{
+  "id": "leccion-177",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "La autosuficiencia no es un concepto inventado por el mundo moderno. Es un principio del Evangelio. El Señor lo dejó claro en D&C 104: 'Les he dado a los hijos de los hombres ser agentes de sí mismos' (v. 17). Ser agente significa tener la capacidad de actuar, de proveer, de no depender innecesariamente de otros para las necesidades básicas.",
+        "Esta lección enseña que la autosuficiencia tiene tres dimensiones: temporal (proveer para las necesidades materiales de uno mismo y la familia), educativa (desarrollar las habilidades y el conocimiento necesarios para ser productivo) y espiritual (depender del Señor para la guía, la fortaleza y la paz). Las tres son interdependientes.",
+        "Pero aquí está la paradoja del Evangelio: la autosuficiencia real no significa independencia de Dios. Significa depender de Él para las cosas espirituales y usar las capacidades que Él nos dio para las cosas temporales. 1 Timoteo 5:8 lo pone en términos simples: 'Si alguno no provee para los suyos... ha negado la fe.' Proveer para los propios es una expresión de fe, no de orgullo.",
+        "Pero la autosuficiencia también te libera para servir. Cuando no necesitás que otros te resuelvan lo básico, podés enfocar tu energía en ayudar a quienes sí lo necesitan. Esa es la visión completa: prepararte para ser una fuente de ayuda, no solo un receptor."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 104:15–17",
+          "texto": "Es mi propósito proveer para mis santos... mas ha de hacerse a mi manera... y les he dado a los hijos de los hombres ser agentes de sí mismos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/104?lang=spa&id=p15-p17#p15"
+        },
+        {
+          "referencia": "1 Timoteo 5:8",
+          "texto": "Porque si alguno no provee para los suyos, y mayormente para los de su casa, ha negado la fe, y es peor que un incrédulo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-tim/5?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "Doctrina y Convenios 29:34",
+          "texto": "No he dado ningún mandamiento temporal, porque todas mis cosas son espirituales.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=spa&id=p34#p34"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Obispo W. Christopher Waddell",
+      "fuente": "\"Había pan\", Liahona, noviembre de 2020, pág. 43",
+      "texto": "El Señor no espera que hagamos más de lo que podemos, pero sí espera que hagamos lo que podemos hacer, cuando podamos hacerlo. Estar preparados temporalmente y ser autosuficientes significa \"creer que por medio de la gracia, o el poder habilitador de Jesucristo, y nuestro propio esfuerzo, podemos obtener todos los elementos espirituales y temporales indispensables de la vida que requerimos para nosotros mismos y nuestra familia\".",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/25waddell?lang=spa&id=p16,p21#p16"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La autosuficiencia no es para hacerse rico ni para vivir independiente de todos. Es para estar en condiciones de servir. Cuando vos podés proveer para tus propias necesidades básicas, liberás recursos —tiempo, dinero, energía— para bendecir a otros. Esta semana, identificá una habilidad concreta que podrías empezar a desarrollar ahora que te hará más autosuficiente en el futuro, ya sea académica, laboral o espiritual."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué habilidades tenés ahora mismo que te hacen más autosuficiente? ¿Y cuáles querés desarrollar?",
+        "¿Cómo la autosuficiencia personal te permite servir mejor a los demás? ¿Podés dar un ejemplo concreto?",
+        "¿Qué diferencia hay entre depender del Señor espiritualmente y depender de otros innecesariamente de manera temporal?",
+        "¿Hay algún área de tu vida donde sabés que necesitás ser más responsable o preparado?",
+        "¿Qué paso pequeño pero concreto podés dar esta semana hacia una mayor autosuficiencia, ya sea temporal, educativa o espiritual?",
+        "¿Cómo el desarrollar autosuficiencia ahora, de adolescente, cambia la persona que serás en diez años?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el propósito de desarrollar autosuficiencia según el manual?",
+      "options": [
+        "Proveer para nosotros mismos y estar mejor preparados para bendecir a los demás.",
+        "Volvernos independientes de Dios.",
+        "Tener más dinero que los vecinos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué significa que \"el Señor se deleita con el esfuerzo\"?",
+      "options": [
+        "Que Él solo nos ama si logramos el éxito total.",
+        "Que Él valora nuestro trabajo diligente mientras buscamos Su ayuda.",
+        "Que no debemos pedir ayuda a nadie."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Según el manual, ¿qué áreas incluye la autosuficiencia?",
+      "options": [
+        "Solo el área financiera.",
+        "Elementos tanto espirituales como temporales.",
+        "Únicamente el éxito académico."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Al desarrollar autosuficiencia desde joven, ¿qué estás logrando?",
+      "options": [
+        "Prepararte para tener una mayor capacidad en la vida adulta.",
+        "Evitar todos los problemas de la vida.",
+        "No tener que volver a estudiar."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Por qué se usa el ejemplo de la \"máscara de oxígeno\" del avión en esta lección?",
+      "options": [
+        "Para ilustrar que debemos fortalecernos nosotros mismos para poder ayudar eficazmente a otros.",
+        "Para aprender sobre seguridad en viajes.",
+        "Porque es un requisito de supervivencia."
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

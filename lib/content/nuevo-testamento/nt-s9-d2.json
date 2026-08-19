@@ -1,0 +1,50 @@
+{
+  "id": "nt-s9-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué demoró Jesús Su viaje a Betania después de saber que Lázaro estaba enfermo?",
+      "options": [
+        "Porque estaba muy lejos.",
+        "Para que el milagro glorificara a Dios y los discípulos creyeran.",
+        "Porque se olvidó del mensaje.",
+        "Porque tenía miedo de morir."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuánto tiempo llevaba Lázaro en la tumba cuando Jesús llegó?",
+      "options": [
+        "Unas pocas horas.",
+        "Un día.",
+        "Cuatro días.",
+        "Una semana."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "¿Qué verdad enseñó Jesús a Marta en Juan 11:25?",
+      "options": [
+        "\"El hombre no debe morir\".",
+        "\"Yo soy la resurrección y la vida\".",
+        "\"Lázaro dormirá para siempre\".",
+        "\"Marta, no llores más\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué detalle muestra la profunda compasión del Salvador en este relato?",
+      "options": [
+        "Que llegó tarde.",
+        "Que Jesús lloró con María y Marta.",
+        "Que pidió quitar la piedra.",
+        "Que llamó a Lázaro en voz alta."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

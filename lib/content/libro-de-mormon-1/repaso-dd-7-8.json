@@ -1,0 +1,124 @@
+{
+  "id": "repaso-dd-7-8",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Repasar los pasajes del Dominio de la doctrina nos permite 'anclar' nuestro conocimiento en verdades que no cambian. Estos pasajes son herramientas fundamentales para entender el plan de Dios y nuestro rol en él. Como enseñó el élder Neil L. Andersen: 'La función más importante del profeta del Señor es enseñarnos acerca del Salvador y guiarnos a Él'. El objetivo de este repaso es asegurar que estas verdades no solo sean memorizadas, sino que estén disponibles en nuestro corazón para cuando necesitemos tomar decisiones clave o ayudar a alguien más a encontrar el camino."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 3:19",
+          "texto": "Porque el hombre natural es enemigo de Dios... a menos que se someta al influjo del Santo Espíritu, y se despoje del hombre natural y se haga santo por la expiación de Cristo...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa&id=p19#p19"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Al repasar, reafirmamos nuestra fe. Que la doctrina de Cristo sea la base sobre la cual construimos cada una de nuestras acciones. Al conocer y aplicar estos principios, nos convertimos en testigos más eficaces de la verdad, preparados para enfrentar cualquier desafío con la confianza que da el Espíritu Santo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo ha fortalecido tu testimonio el estudio recurrente de los pasajes de Dominio de la doctrina?",
+        "¿De qué manera puedes usar estas verdades para ayudar a un amigo que tiene dudas?",
+        "¿Cuál es tu compromiso personal para vivir de acuerdo con lo que has aprendido?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué debemos repasar constantemente los pasajes de dominio?",
+      "type": "multiple",
+      "options": [
+        "Solo para cumplir con un requisito del curso de Seminario",
+        "No es realmente necesario repasarlos con frecuencia",
+        "Para tener algo que recitar frente a la clase",
+        "Para mantenerlos frescos en nuestra memoria y listos para usar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Debemos repasarlos constantemente para mantenerlos frescos en nuestra memoria y listos para usar."
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es la diferencia entre saber un pasaje y dominarlo?",
+      "type": "multiple",
+      "options": [
+        "Dominar significa conocerlo, entenderlo y poder aplicarlo en la vida",
+        "No existe ninguna diferencia real entre ambos conceptos",
+        "Dominar un pasaje significa solamente memorizarlo palabra por palabra",
+        "Saber un pasaje ya es suficiente sin necesidad de más"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dominar un pasaje significa conocerlo, entenderlo y poder aplicarlo en la vida."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué temas principales cubren los versículos de dominio que hemos visto hasta ahora?",
+      "type": "multiple",
+      "options": [
+        "Únicamente relatos de batallas y conquistas militares",
+        "Solamente genealogías de los profetas del Libro de Mormón",
+        "Principalmente leyes civiles del gobierno nefita",
+        "Obediencia, albedrío, caída de Adán, servicio, cambio de corazón, convenios"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los versículos cubren temas como obediencia, albedrío, la caída de Adán, servicio, cambio de corazón y convenios."
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo nos ayudan estos versículos en conversaciones sobre el evangelio?",
+      "type": "multiple",
+      "options": [
+        "Nos dan fundamentos doctrinales claros que podemos compartir",
+        "No tienen ninguna utilidad fuera del salón de clases",
+        "Solo sirven para que el maestro evalúe nuestro progreso",
+        "Complican las conversaciones en lugar de facilitarlas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nos dan fundamentos doctrinales claros que podemos compartir en conversaciones sobre el evangelio."
+    },
+    {
+      "id": 5,
+      "question": "Bruno olvida los versículos de dominio justo cuando más los necesita, como en una conversación difícil. ¿Qué le ayudaría según lo que hemos aprendido sobre el repaso?",
+      "type": "multiple",
+      "options": [
+        "Dejar de intentar memorizarlos porque no funciona",
+        "Repasarlos constantemente para que el Espíritu pueda traerlos a su memoria en el momento oportuno",
+        "Memorizarlos solo antes de un examen",
+        "Escribirlos una sola vez y no volver a repasarlos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repasar constantemente ayuda a que el Espíritu traiga estos versículos a la memoria en el momento oportuno."
+    },
+    {
+      "id": 6,
+      "question": "Victoria piensa que aprender doctrina es solo para la clase de Seminario, no para su vida diaria. ¿Qué le corregirías?",
+      "type": "multiple",
+      "options": [
+        "Que efectivamente la doctrina solo aplica dentro del salón de clases",
+        "Que solo los adultos necesitan aplicar la doctrina en su vida",
+        "Que la doctrina es interesante pero no tiene aplicación práctica",
+        "Que estos principios están diseñados para aplicarse en decisiones diarias fuera del salón de clases"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Estos principios están diseñados para aplicarse en decisiones diarias, no solo dentro del salón de clases."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué tienen en común los temas de obediencia, albedrío y cambio de corazón que hemos repasado?",
+      "type": "multiple",
+      "options": [
+        "No tienen ningún tema en común",
+        "Todos apuntan al mismo proceso de acercarnos más a Cristo mediante nuestras decisiones",
+        "Solo tratan sobre reglas que hay que seguir sin comprender",
+        "Son temas completamente independientes entre generaciones distintas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Todos estos temas apuntan al mismo proceso de acercarnos más a Cristo mediante nuestras decisiones."
+    }
+  ]
+}

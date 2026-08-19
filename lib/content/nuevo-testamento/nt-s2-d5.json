@@ -1,0 +1,61 @@
+{
+  "id": "nt-s2-d5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la frase clave del pasaje Lucas 2:10–12?",
+      "options": [
+        "\"Amarás a tu prójimo\".",
+        "\"Os ha nacido hoy... un Salvador, que es CRISTO el Señor\".",
+        "\"Nacer de agua y del Espíritu\".",
+        "\"Venid a mí y descansad\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué el nacimiento del Salvador trae \"gran gozo\"?",
+      "options": [
+        "Por las fiestas mundanas.",
+        "Porque Él es el Hijo de Dios y Salvador del mundo.",
+        "Porque nació en un palacio.",
+        "Porque trajo regalos materiales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué principio de conocimiento espiritual nos invita a acudir a Dios primeramente?",
+      "options": [
+        "Perspectiva eterna.",
+        "Actuar con fe.",
+        "Fuentes divinas.",
+        "Razonamiento humano."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la función del Salvador en el Plan de Salvación según Lucas 2?",
+      "options": [
+        "Solo ser un buen ejemplo histórico.",
+        "Ser el Redentor y el centro del plan para nuestra salvación.",
+        "Juez sin misericordia.",
+        "No tiene función clara."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué significa actuar con fe ante una duda sobre la predicación misional?",
+      "options": [
+        "Dejar de hablar con los misioneros.",
+        "Confiar en Dios y en Su mandato de compartir el Evangelio.",
+        "Ignorar la pregunta.",
+        "Buscar solo opiniones negativas."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

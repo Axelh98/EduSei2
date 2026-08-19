@@ -1,0 +1,56 @@
+{
+  "id": "leccion-185",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Es la depresión una señal de falta de fe o de debilidad espiritual?",
+      "options": [
+        "Sí, quien tiene suficiente fe nunca debería sentirse deprimido.",
+        "No; la depresión es una condición real que puede afectar a cualquier persona, incluso a personas muy fieles.",
+        "Solo las personas sin testimonio experimentan depresión."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué profeta del Antiguo Testamento experimentó un profundo agotamiento y deseos de morir después de una gran victoria?",
+      "options": [
+        "Moisés, después de cruzar el Mar Rojo.",
+        "Elías, después de su confrontación con los profetas de Baal.",
+        "Daniel, después de interpretar el sueño del rey."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo respondió el Señor a Elías cuando estaba en su punto más bajo emocionalmente?",
+      "options": [
+        "Le dijo que debía ser más fuerte y seguir adelante.",
+        "Lo abandonó hasta que Elías se recuperara por su cuenta.",
+        "Envió un ángel para alimentarlo, dejarlo descansar y hablarle con voz apacible."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Cuándo es importante buscar ayuda profesional para la tristeza o la depresión?",
+      "options": [
+        "Solo cuando ya no puedas levantarte de la cama.",
+        "Cuando los sentimientos son persistentes, intensos o interfieren con tu vida diaria, buscar ayuda es sabio y valiente.",
+        "Nunca; los jóvenes deben resolver sus problemas solos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué pequeñas acciones pueden ayudar cuando alguien enfrenta tristeza o depresión?",
+      "options": [
+        "Aislarse completamente para no molestar a los demás.",
+        "Buscar luz del sol, mantener rutinas, hablar con alguien de confianza, orar y recordar que el Señor comprende tu dolor.",
+        "Ignorar los sentimientos y enfocarse solo en trabajar."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

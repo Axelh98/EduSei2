@@ -1,0 +1,61 @@
+{
+  "id": "nt-s4-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué noticia recibió Jesús justo antes de ir al lugar solitario?",
+      "options": [
+        "El nacimiento de un niño.",
+        "La decapitación de Juan el Bautista.",
+        "Que los romanos lo buscaban.",
+        "Una invitación a una fiesta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué atributo mostró Jesús al ver a la multitud a pesar de Su propio dolor?",
+      "options": [
+        "Indiferencia.",
+        "Compasión.",
+        "Enojo.",
+        "Curiosidad."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué ofreció el muchacho para alimentar a la multitud?",
+      "options": [
+        "Nada, él tenía hambre.",
+        "Cinco panes de cebada y dos pececillos.",
+        "Una bolsa de monedas.",
+        "Toda su herencia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué principio enseña la hermana Michelle D. Craig sobre nuestras ofrendas?",
+      "options": [
+        "Solo las ofrendas grandes cuentan.",
+        "Si damos lo que tenemos a Cristo, Él puede multiplicar nuestros esfuerzos.",
+        "No debemos dar si tenemos poco.",
+        "El Señor no necesita nuestra ayuda."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿A cuántos varones alimentó Jesús aproximadamente (sin contar mujeres y niños)?",
+      "options": [
+        "500.",
+        "5,000.",
+        "12.",
+        "100,000."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

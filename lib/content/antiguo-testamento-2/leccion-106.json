@@ -1,0 +1,56 @@
+{
+  "id": "leccion-106",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el objetivo principal de las prácticas del Dominio de la doctrina?",
+      "options": [
+        "Ganar premios en concursos de Escrituras.",
+        "Desarrollar la habilidad de usar las Escrituras y las palabras de los profetas para adquirir conocimiento espiritual y responder preguntas.",
+        "Memorizar pasajes para recitarlos sin entenderlos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Cuando alguien te presenta una pregunta difícil sobre el Evangelio, ¿cuál es el primer paso recomendado?",
+      "options": [
+        "Dar tu opinión personal inmediatamente.",
+        "Actuar con fe y buscar la respuesta en las fuentes divinamente señaladas.",
+        "Decirle a la persona que esa pregunta no tiene respuesta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué es importante analizar las preguntas difíciles con una perspectiva eterna?",
+      "options": [
+        "Porque así evitamos tener que estudiar mucho.",
+        "Porque ver los temas desde la perspectiva del plan de salvación nos ayuda a entender la voluntad del Señor.",
+        "Porque solo las personas mayores entienden la perspectiva eterna."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Al practicar el Dominio de la doctrina, ¿qué actitud debes tener hacia las personas con preguntas o dudas?",
+      "options": [
+        "Corregirlas con firmeza para que no sigan en el error.",
+        "Tratarlas con el mismo amor y respeto que el Padre Celestial y Jesucristo les tienen.",
+        "Evitar esas conversaciones para no confundirte tú mismo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué pasaje de los Salmos podría usarse para enseñar sobre confiar en el Señor en momentos de duda?",
+      "options": [
+        "El Salmo 51, sobre el arrepentimiento.",
+        "El Salmo 23, que declara que el Señor es nuestro pastor y nunca nos abandona.",
+        "El Salmo 119, sobre la ley de Dios."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

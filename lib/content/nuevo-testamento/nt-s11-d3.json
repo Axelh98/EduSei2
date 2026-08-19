@@ -1,0 +1,50 @@
+{
+  "id": "nt-s11-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la frase clave para el pasaje Mateo 22:36–39?",
+      "options": [
+        "\"Venid a mí y yo os haré descansar\".",
+        "\"Amarás al Señor tu Dios […]. Amarás a tu prójimo\".",
+        "\"Tú eres el Cristo\".",
+        "\"Nacer de agua y del Espíritu\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo demostramos que amamos a Dios sobre todas las cosas?",
+      "options": [
+        "Solo diciéndolo en voz alta.",
+        "Guardando Sus mandamientos y poniéndolo a Él primero.",
+        "Comparándonos con los demás.",
+        "Evitando cualquier contacto con el mundo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Quién es nuestro \"prójimo\" según las enseñanzas del Salvador?",
+      "options": [
+        "Solo nuestra familia inmediata.",
+        "Solo los miembros de nuestra Iglesia.",
+        "Todos los hijos de Dios, incluyendo extraños y enemigos.",
+        "Las personas que viven en nuestra misma calle."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Qué principio de conocimiento espiritual nos invita a actuar con fe para amar a alguien difícil?",
+      "options": [
+        "Analizar con perspectiva eterna.",
+        "Actuar con fe.",
+        "Fuentes divinamente señaladas.",
+        "Ignorar el problema."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

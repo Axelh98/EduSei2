@@ -1,0 +1,135 @@
+{
+  "id": "leccion-52",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En el desierto, sin recursos aparentes y con una nación entera en movimiento, el Señor mandó construir Su casa. El tabernáculo era completamente diferente a los templos egipcios construidos para impresionar: era portátil, diseñado para acompañar a un pueblo en movimiento. Y cada uno de sus elementos había sido diseñado personalmente por el Señor —no por arquitectos humanos.",
+        "El arca del convenio, cubierta con el propiciatorio, representaba la presencia de Dios. Era el lugar donde el sumo sacerdote aplicaba la sangre expiatoria una vez al año —un símbolo de la Expiación de Cristo. La mesa del pan de la proposición señalaba a Jesucristo como el pan de vida. El candelabro de siete brazos que ardía continuamente representaba a Cristo como la luz del mundo. El velo que separaba el lugar santo del santísimo señalaba que el acceso a la presencia de Dios requería expiación.",
+        "Y ese velo es quizás el detalle más revelador de todo el tabernáculo. En el momento exacto en que Jesús murió en la cruz, el velo del templo se rasgó de arriba abajo (Mateo 27:51). Lo que antes separaba al pueblo de la presencia de Dios fue eliminado por la Expiación. El acceso que antes era solo del sumo sacerdote, una vez al año, se volvió disponible para todos.",
+        "Éxodo 25:8 expresa el deseo más profundo de Dios: 'Habiten entre vosotros.' Ese deseo no ha cambiado en miles de años. Hoy se expresa en más de 300 templos alrededor del mundo, donde el Señor puede habitar entre Su pueblo."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Éxodo 25:8",
+          "texto": "Y me harán un santuario, y yo habitaré en medio de ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/25?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "Mateo 27:51",
+          "texto": "Y he aquí, el velo del templo se rasgó en dos, de arriba abajo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/27?lang=spa&id=p51#p51"
+        },
+        {
+          "referencia": "Doctrina y Convenios 110:7–8",
+          "texto": "He aceptado este templo y mi nombre estará aquí; y me manifestaré a mi pueblo con misericordia en este templo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=spa&id=p7-p8#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "\"El templo y el cimiento espiritual de ustedes\", Liahona, noviembre de 2021, pág. 95",
+      "texto": "Si todavía no les gusta ir al templo, vayan con más frecuencia, no menos. Permitan que el Señor, mediante Su Espíritu, les enseñe y los inspire allí. Les prometo que, con el tiempo, el templo se convertirá en un lugar de seguridad, consuelo y revelación.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/47nelson?lang=spa&id=p29#p29"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El velo del tabernáculo que se rasgó cuando Jesús murió es quizás el símbolo más elocuente de todo el Antiguo Testamento: lo que antes separaba al pueblo de la presencia de Dios fue eliminado por la Expiación. Hoy el templo no es un lugar donde nos acercamos a Dios a través de barreras —es el lugar donde, a través de los convenios de la Expiación, podemos morar en Su presencia. El deseo de Dios de habitar 'entre su pueblo' solo ha encontrado formas más completas de expresarse."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué elemento del tabernáculo —el arca, el candelabro, el velo— te llama más la atención? ¿Qué te enseña sobre la misión de Cristo?",
+        "El velo se rasgó en el momento de la muerte de Jesús. ¿Qué te dice ese detalle sobre lo que Su Expiación logró en términos de acceso a Dios?",
+        "¿Cómo te sentís cuando estás cerca de un templo o cuando lo visitás? ¿Qué pensás o sentís en ese momento?",
+        "Éxodo 25:8 dice que el propósito del santuario era que Dios habitara 'en medio de ellos'. ¿De qué maneras sentís la presencia de Dios en tu vida cotidiana?",
+        "El presidente Nelson promete que si vas al templo más seguido, Él te enseñará e inspirará allí. ¿Qué podés hacer esta semana para preparar tu corazón para esa experiencia?",
+        "¿Qué hábito o actitud podés cultivar esta semana que te acerque a la santidad que el templo representa?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "El tabernáculo era la primera estructura sagrada que el Señor mandó construir para habitar entre Su pueblo. ¿Qué lo diferenciaba fundamentalmente de los templos egipcios de la misma época?",
+      "options": [
+        "Que era más grande y ornamentado para demostrar la superioridad del Dios de Israel.",
+        "Que era portátil, diseñado para acompañar a un pueblo en movimiento, no para impresionar desde un lugar fijo.",
+        "Que estaba construido con materiales extraídos del Mar Rojo como símbolo de la liberación reciente.",
+        "Que solo podían entrar los levitas y el resto del pueblo lo contemplaba desde afuera a distancia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Éxodo 25:8 expresa el propósito central del tabernáculo en las propias palabras del Señor. ¿Cuál fue ese propósito?",
+      "options": [
+        "Que el pueblo tuviera un lugar central donde ofrecer sus diezmos y ofrendas de manera organizada.",
+        "Que los sacerdotes levitas tuvieran un espacio dedicado para administrar las leyes del sacrificio.",
+        "Que las tribus de Israel tuvieran un símbolo de unidad nacional visible durante los cuarenta años de viaje.",
+        "Que el Señor pudiera habitar en medio de Su pueblo, tener una morada entre ellos."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "El velo que separaba el lugar santo del lugar santísimo en el tabernáculo fue el mismo tipo de velo que se rasgó de arriba abajo en el momento de la muerte de Jesús (Mateo 27:51). ¿Qué cambio doctrinal señalaba ese desgarre?",
+      "options": [
+        "Que la Expiación de Cristo abrió el acceso directo a la presencia de Dios para todos, no solo para el sumo sacerdote una vez al año.",
+        "Que el sistema de sacrificios de animales había terminado y debía ser reemplazado por las ordenanzas del bautismo.",
+        "Que el templo físico ya no era necesario porque la Iglesia podía reunirse en cualquier lugar sagrado.",
+        "Que el sumo sacerdote judío perdió su autoridad y esa autoridad pasó directamente a los apóstoles de Cristo."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "Cada elemento del tabernáculo —el arca, el candelabro, la mesa del pan, el propiciatorio— fue diseñado personalmente por el Señor. ¿Qué enseña eso sobre cómo el Señor usó el tabernáculo para comunicar verdades sobre Jesucristo?",
+      "options": [
+        "Que el Señor prefería las enseñanzas visuales y simbólicas a las palabras escritas durante ese período de la historia.",
+        "Que los israelitas eran un pueblo visual que necesitaba objetos tangibles para creer en Dios efectivamente.",
+        "Que el tabernáculo era una lección doctrinal tridimensional: cada símbolo apuntaba a algún aspecto de la misión de Cristo que Israel estaba aprendiendo.",
+        "Que el diseño divino del tabernáculo garantizaba que cualquier persona que lo visitara recibiría revelación automáticamente."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Agustín visita el templo por primera vez y sale sintiéndose 'confundido porque no entendió todo lo que vio'. El presidente Nelson enseña que todo en el templo está centrado en Jesucristo. ¿Qué podría hacer Agustín para que su próxima visita sea diferente?",
+      "options": [
+        "Pedir a alguien que ya fue que le explique en detalle todo lo que va a ver antes de entrar.",
+        "Ir varias veces seguidas hasta que el contenido le resulte familiar y deje de confundirlo.",
+        "Prepararse buscando en cada símbolo y ordenanza la conexión con Jesucristo, en lugar de intentar entender todo como información nueva.",
+        "Esperar a ser mayor y tener más experiencia espiritual antes de intentar comprender el significado del templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Valentina dice que 'el templo queda lejos y no tiene mucho sentido ir si no lo entiende'. El principio de Éxodo 25:8 —que el Señor desea habitar entre Su pueblo— habla directamente a esa actitud. ¿Qué perspectiva le ofrece?",
+      "options": [
+        "Que la distancia física al templo es la principal razón por la que los jóvenes no lo visitan con frecuencia.",
+        "Que el templo no es principalmente un lugar de instrucción sino el lugar donde el Señor ha prometido encontrarse con Su pueblo; ir es responder a Su deseo de estar con ella.",
+        "Que debería esperar hasta haber estudiado toda la doctrina del templo antes de visitarlo para aprovecharlo mejor.",
+        "Que la Iglesia debería construir más templos en lugares accesibles para que los jóvenes puedan ir sin tanto esfuerzo."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "El tabernáculo en el desierto y los templos modernos comparten Éxodo 25:8 como su fundamento: 'habitaré en medio de ellos'. Milenios después, el Señor renovó esa promesa en D&C 110:7 cuando aceptó el templo de Kirtland. ¿Qué dice esa continuidad sobre la naturaleza del deseo de Dios hacia Sus hijos?",
+      "options": [
+        "Que el Señor necesita lugares físicos consagrados para poder manifestarse porque Su gloria es demasiado grande para los espacios ordinarios.",
+        "Que el número de templos es la señal más confiable del estado espiritual de la Iglesia en cada dispensación.",
+        "Que el deseo del Señor de habitar entre Su pueblo no ha cambiado a lo largo de milenios; el templo es Su manera de acercarse en cada época, no solo una institución religiosa.",
+        "Que los templos modernos son versiones mejoradas del tabernáculo porque la humanidad es ahora más capaz de recibir revelación que Israel en el desierto."
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

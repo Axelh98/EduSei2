@@ -1,0 +1,117 @@
+{
+  "id": "54-evalua-aprendizaje-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta instancia de evaluación cierra el tercer bloque del año. No es un examen de contenidos académicos — es una invitación a medir el crecimiento espiritual real. El Señor no evalúa cuánto sabemos sino en quién nos estamos convirtiendo. Las lecciones del tercer bloque cubrieron principios sobre el llamado al servicio (D&C 30–36), la congregación y la unidad (D&C 37–38), y la fidelidad a los convenios (D&C 39–40). La evaluación espiritual genuina pregunta: ¿Cómo cambié? ¿Qué principio aprendido estoy aplicando en mi vida? ¿Qué pasaje del Dominio de la Doctrina puedo usar en una conversación real?"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 38:30",
+          "texto": "Si estáis preparados, no temeréis.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/38?lang=spa&id=p30#p30"
+        },
+        {
+          "referencia": "Doctrina y Convenios 33:8",
+          "texto": "Abrid vuestra boca y no la cerréis, y no os avergoncéis de mí ni de mi evangelio.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/33?lang=spa&id=p8#p8"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La mejor evaluación espiritual no mide lo que sabés sino lo que hacés con lo que sabés. Si las lecciones del tercer bloque te desafiaron a algo concreto — ser más valiente para testificar, más unido con alguien, más fiel a una promesa — esa es la medida real del aprendizaje. Establecé una meta para el próximo bloque que sea específica, alcanzable y tuya."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál fue la lección de este bloque que más impacto tuvo en tu vida personal, y por qué?",
+        "¿Qué principio aprendido en estas semanas estás aplicando activamente fuera del aula de Seminario?",
+        "¿Qué pasaje del Dominio de la Doctrina dominás mejor ahora que hace un mes, y cómo lo usaste?",
+        "¿En qué área de tu vida ves crecimiento espiritual real desde que comenzó el año?",
+        "¿Qué meta espiritual concreta te ponés para el próximo bloque de estudio?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "De los principios estudiados en las semanas 6–8, ¿cuál de los siguientes pertenece específicamente a D&C 38:27?",
+      "options": [
+        "'Si no sois uno, no sois míos'.",
+        "'Si estáis preparados, no temeréis'.",
+        "'Abrid vuestra boca y no la cerréis'.",
+        "'El campo ya está listo para la siega'."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Según D&C 40:2, ¿qué dos razones específicas explican por qué James Covill no cumplió su promesa al Señor?",
+      "options": [
+        "Falta de fe en el profeta y dudas sobre la autoridad del sacerdocio.",
+        "Temor a la persecución y tener el corazón puesto en las cosas del mundo.",
+        "Influencia de su familia y falta de apoyo de su congregación anterior.",
+        "No entender la doctrina del bautismo y sentirse indigno de recibirlo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "'El Cristo Viviente' declara que Él vive. ¿Por qué esa declaración importa más que simplemente saber que existió históricamente?",
+      "options": [
+        "Porque los datos históricos son suficientes para establecer la base de la fe cristiana.",
+        "Porque si Cristo vive, intercede por nosotros ahora mismo y Su poder está disponible hoy — no es solo un recuerdo.",
+        "Porque la declaración la firman doce personas y eso la hace más confiable que los registros históricos.",
+        "Porque la existencia histórica de Cristo es cuestionada por muchos historiadores modernos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "D&C 38:30 y la Pascua de Resurrección comparten una base doctrinal común. ¿Cuál es?",
+      "options": [
+        "Que ambos tratan del regreso físico de Cristo a la tierra en los últimos días.",
+        "Que el miedo y la Resurrección solo se relacionan en el contexto de los mártires.",
+        "Que la preparación espiritual y la victoria de Cristo sobre la muerte eliminan las razones últimas del miedo más profundo.",
+        "Que la preparación material para las tribulaciones y la fe en la resurrección son equivalentes."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Joaquín estudió las semanas 6–8 pero no puede recordar ningún principio que haya aplicado fuera del Seminario. ¿Qué dice eso sobre la diferencia entre aprender y crecer?",
+      "options": [
+        "Que el Seminario falló en hacer el contenido relevante para su vida.",
+        "Que Joaquín tiene mala memoria y necesita técnicas de memorización más efectivas.",
+        "Que recibió información pero no la convirtió en cambio — el aprendizaje real siempre deja una huella en cómo vivimos.",
+        "Que eso es normal y no hay problema porque la siembra tarda en dar fruto."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Sofía identificó que el principio de D&C 30 ('temer a los hombres') describe exactamente algo que ella hace. ¿Qué haría la Sofía más fiel con ese reconocimiento esta semana?",
+      "options": [
+        "Compartirlo con sus amigos del Seminario para que también se examinen a sí mismos.",
+        "Escribirlo en su diario y seguir con su vida normal hasta que se sienta lista para cambiar.",
+        "Identificar una situación concreta esta semana donde puede elegir temer al Señor en lugar de temer a las personas.",
+        "Pedirle al maestro que dé una lección especial sobre ese tema para toda la clase."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Las semanas 6–8 cubrieron el llamado a predicar (D&C 30–36), la unidad y preparación (D&C 37–38) y la fidelidad a los convenios (D&C 39–40). ¿Qué tema común une esos tres bloques?",
+      "options": [
+        "Que la Iglesia necesitaba más organización antes de poder avanzar la obra del Señor.",
+        "Que la geografía física del traslado a Ohio fue el evento más importante de ese período.",
+        "Que los primeros miembros de la Iglesia eran menos fieles que los miembros actuales.",
+        "Que el miedo — a los hombres, a los sacrificios, a los costos — es el principal obstáculo que el Señor pide superar para ser Su discípulo."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "48-dc-30-36-parte-2",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "La segunda parte de este bloque cubre D&C 31–32 y 36, revelaciones dadas a Thomas B. Marsh, Parley P. Pratt y Oliver Cowdery, y a Edward Partridge. A Thomas B. Marsh (D&C 31), el Señor le ofrece orientación personal extraordinariamente detallada: le habla de su familia, de sus debilidades y de cómo el Espíritu lo guiará si confía plenamente en el Señor. A Parley P. Pratt y a Oliver Cowdery (D&C 32), el Señor les encomienda la primera misión a los lamanitas, un mandato histórico para llevar el evangelio a los pueblos nativos de América. A Edward Partridge (D&C 36), el Señor declara directamente el perdón de sus pecados y lo llama a dedicar su tiempo y esfuerzo a la obra. Estas revelaciones enseñan que el Señor conoce a cada persona con una profundidad que ningún ser humano puede igualar: sus circunstancias familiares, sus miedos, su potencial. Eso no es un concepto abstracto — es una relación personal activa."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 31:3–4",
+          "texto": "Levanta el corazón y regocíjate, porque en mí están el honor de tu paternidad, que se te ha prometido, y el honor de la nación; porque en mí, el Padre, tienen preparado todo lo que es bueno para ti.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/31?lang=spa&id=p3-p4#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 36:1–2",
+          "texto": "Así dice el Señor Dios, el Poderoso: Escucha la voz de Jesucristo, tu Señor, tu Dios y tu Redentor, cuya palabra es viva y poderosa. Porque he aquí, os digo que tus pecados te son perdonados; y eres llamado a predicar mi evangelio como si tuvieras una trompeta de parte del Altísimo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/36?lang=spa&id=p1-p2#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 32:1",
+          "texto": "Y al poderoso Parley P. Pratt; y asimismo a Ziba Peterson: He aquí, yo digo que deben ir juntos a los lamanitas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/32?lang=spa&id=p1#p1"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dieter F. Uchtdorf",
+      "fuente": "\"La obra misional: comparte lo que hay en tu corazón\", Conferencia General, abril de 2019 (Liahona, mayo de 2019, pág. 17)",
+      "texto": "Entiende que no es tu trabajo convertir a las personas. Ese es el papel del Espíritu Santo. Tu papel es compartir lo que hay en tu corazón y vivir de acuerdo con tus creencias. Así que no te desanimes si alguien no acepta el mensaje del Evangelio de inmediato. No es un fracaso personal. Eso es un asunto entre esa persona y el Padre Celestial. Lo tuyo es amar a Dios y amar a tu prójimo, Sus hijos. Cree, ama, actúa.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/14uchtdorf?lang=spa&id=p39-p44#p39"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "D&C 31–32 y 36 revelan un Dios que no da revelaciones genéricas: las da personalizadas, adaptadas a la situación específica de cada persona. Que el Señor hablara directamente de la familia de Thomas Marsh, o que declarara el perdón personal de Edward Partridge antes de llamarlo, muestra que el evangelio no es un sistema de reglas impersonales sino una relación viva. Si el Señor conocía así a estos primeros santos, te conoce a vos de la misma manera: con esa profundidad, con ese detalle, con esa atención."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te llama la atención de cómo el Señor habló con Thomas Marsh en D&C 31?",
+        "¿Qué significa para vos que el Señor le dijera a Edward Partridge 'tus pecados te son perdonados' antes de llamarlo?",
+        "¿Alguna vez sentiste que el Señor te conocía de manera personal? ¿Cuándo?",
+        "¿Cómo cambia tu manera de orar saber que el Señor conoce tus circunstancias familiares y personales en detalle?",
+        "¿Hay algo que le pedirías al Señor esta semana si supieras con certeza que Él ya sabe todo lo que estás viviendo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según D&C 33:3, ¿en qué estado se encontraba el campo del Señor cuando llamó a Ezra Thayre y Northrop Sweet a predicar?",
+      "options": [
+        "Listo para la siega — blanco para ser cosechado de inmediato.",
+        "Todavía no estaba listo y necesitaban esperar la señal del profeta.",
+        "Parcialmente preparado en el este, pero no en el oeste del país.",
+        "En estado de barbecho, esperando las lluvias del arrepentimiento primero."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "En D&C 36, el Señor le dice a Edward Partridge que sus pecados le son perdonados antes de asignarle un llamado. ¿Qué orden tiene esa secuencia?",
+      "options": [
+        "Primero el llamado, luego el perdón como recompensa por aceptarlo.",
+        "Primero el perdón, luego el llamado — la misericordia precede a la responsabilidad.",
+        "El perdón y el llamado se dan simultáneamente como un solo acto divino.",
+        "Primero años de servicio, y el perdón se confirma al final de la vida."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "D&C 31 le da a Thomas B. Marsh instrucciones detalladas sobre su familia, sus viajes y sus debilidades personales. ¿Qué revela eso sobre la naturaleza de la revelación personal del Señor?",
+      "options": [
+        "Que el Señor solo da revelaciones generales aplicables a todos por igual.",
+        "Que el Señor conoce las circunstancias específicas de cada persona y adapta Su guía a ellas.",
+        "Que Thomas Marsh era el único en recibir revelaciones tan detalladas por su cargo especial.",
+        "Que las revelaciones personales solo tratan de asuntos espirituales, no de familia o viajes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "D&C 36:1–2 describe a Jesucristo como el Señor que habló y 'el mundo fue hecho'. ¿Por qué comenzar una revelación de llamado misional con esa declaración de identidad?",
+      "options": [
+        "Es una fórmula de saludo oficial sin implicaciones doctrinales específicas.",
+        "Porque todo llamado al servicio nace del amor de quien creó el mundo — entender quién llama cambia cómo respondemos.",
+        "Para recordarle a Edward que el mundo le pertenece al Señor y no a él.",
+        "Porque era necesario establecer la autoridad legal antes de dar cualquier instrucción."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Sofía recibió un llamado en la Iglesia que siente que no merece porque cometió errores hace unos meses. Según el patrón de D&C 36 con Edward Partridge, ¿qué le diría el Señor primero?",
+      "options": [
+        "Que espere hasta sentirse más digna antes de aceptar un llamado de responsabilidad.",
+        "Que sus pecados pasados la descalifican temporalmente hasta completar el proceso de arrepentimiento.",
+        "Que sus pecados le son perdonados — la misericordia precede al llamado, no lo sigue.",
+        "Que el llamado es una prueba para ver si puede cumplirlo a pesar de su historial."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Lucas dice que la viña del Señor es el campo misional y que él no tiene nada que hacer allí hasta ser misionero de tiempo completo. Según D&C 33:3, ¿qué le respondería el Señor?",
+      "options": [
+        "Que tiene razón y debe prepararse durante los próximos años antes de actuar.",
+        "Que la viña está lista ahora mismo, y su familia, amigos y escuela son parte de ella hoy.",
+        "Que puede esperar hasta los 18 años sin perder oportunidades importantes.",
+        "Que el trabajo en la viña requiere siempre una asignación formal previa."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "D&C 31 habla del conocimiento personal que el Señor tiene de Thomas Marsh. D&C 36 declara el perdón de Edward Partridge antes de llamarlo. ¿Qué principio común sobre el Señor revelan estas dos revelaciones juntas?",
+      "options": [
+        "Que el Señor trata diferente a los líderes de la Iglesia que a los miembros comunes.",
+        "Que el conocimiento personal del Señor y Su perdón son independientes y no tienen relación.",
+        "Que el Señor solo habla de manera personal cuando hay un llamado importante que asignar.",
+        "Que el Señor adapta Su guía y Su misericordia a la persona específica — conoce a cada uno y responde a lo que ese individuo necesita."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

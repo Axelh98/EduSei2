@@ -1,0 +1,56 @@
+{
+  "id": "leccion-97",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo describe el libro de Job el carácter de Job al inicio del relato?",
+      "options": [
+        "Como un hombre rico pero orgulloso.",
+        "Como un hombre íntegro, recto, temeroso de Dios y apartado del mal.",
+        "Como un profeta que nunca enfrentó pruebas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál fue la acusación de Satanás contra Job ante el Señor?",
+      "options": [
+        "Que Job era secretamente un idólatra.",
+        "Que Job solo seguía a Dios porque le iba bien, y que si sufría lo abandonaría.",
+        "Que Job no oraba lo suficiente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Después de perder sus hijos, sus bienes y su salud, ¿qué hizo Job?",
+      "options": [
+        "Maldijo a Dios y se alejó de la fe.",
+        "Adoró al Señor y declaró: 'Jehová dio, y Jehová quitó; sea el nombre de Jehová bendito.'",
+        "Culpó a sus amigos por sus desgracias."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué actitud equivocada mostraban los amigos de Job al intentar explicar su sufrimiento?",
+      "options": [
+        "Le ofrecían demasiado consuelo sin decirle la verdad.",
+        "Insistían en que Job debía estar sufriendo por algún pecado grave que había cometido.",
+        "Le pedían que dejara de hablar con Dios."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué verdad aprendemos de Job sobre el sufrimiento de las personas buenas?",
+      "options": [
+        "Que el sufrimiento siempre es consecuencia directa de algún pecado.",
+        "Que el sufrimiento puede tener propósitos que van más allá de lo que podemos ver, y Dios no lo ha olvidado.",
+        "Que las personas buenas nunca sufren si tienen suficiente fe."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

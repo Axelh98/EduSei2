@@ -1,0 +1,123 @@
+{
+  "id": "leccion-23-6",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Alma explica el plan de redención a Coriantón. Después de la caída de Adán, la humanidad quedó sujeta a la muerte física y espiritual. La justicia de Dios requiere que el pecado sea castigado, pero Su misericordia desea salvar. La expiación de Jesucristo resuelve esta aparente contradicción: Cristo satisfizo las demandas de la justicia al pagar el precio del pecado, permitiendo que la misericordia alcance a quienes se arrepientan. El capítulo explica cómo funcionan juntas la justicia y la misericordia."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "Liahona, mayo de 2010, pág. 34",
+      "texto": "La verdadera felicidad no yace en negar la justicia de Dios o en tratar de evadir las consecuencias del pecado, sino en el arrepentimiento y el perdón mediante la gracia expiatoria del Hijo de Dios.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2010/05/saturday-afternoon-session/the-blessing-of-scripture?lang=spa&id=p14#p14"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 42:15",
+          "texto": "Así es como la misericordia puede satisfacer las demandas de la justicia, y ciñe a los hombres con brazos de seguridad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "Alma 42:8",
+          "texto": "La misericordia no puede privar a la justicia, pues entonces Dios dejaría de ser Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "Alma 42:13",
+          "texto": "El plan de redención no podía efectuarse sino con las condiciones del arrepentimiento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa&id=p13#p13"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo describirías la relación entre la justicia y la misericordia según Alma 42?",
+        "¿De qué manera la expiación de Cristo satisface tanto la justicia como la misericordia?",
+        "¿Cómo te ayuda comprender este principio en tus experiencias con el arrepentimiento?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué gran plan explica Alma a Coriantón en este capítulo?",
+      "options": [
+        "El plan de salvación",
+        "Un plan de defensa militar",
+        "Un plan de gobierno civil",
+        "Un plan económico para Zarahemla"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué habría ocurrido si Adán hubiera comido del árbol de la vida inmediatamente después de la Caída?",
+      "options": [
+        "Habría regresado automáticamente al Jardín",
+        "No habría cambiado nada en el plan de Dios",
+        "Habría sido más feliz de inmediato",
+        "Habría vivido para siempre en su estado caído, sin oportunidad de arrepentirse"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué era necesario que Adán y Eva fueran expulsados del Jardín del Edén antes de poder comer del árbol de la vida?",
+      "options": [
+        "Para castigarlos de forma permanente por su desobediencia",
+        "Para que no vivieran para siempre en un estado de pecado sin posibilidad de arrepentirse; la mortalidad se convirtió en el tiempo señalado para progresar",
+        "Porque el Jardín del Edén ya no tenía ningún propósito",
+        "Porque Dios cambió de opinión sobre el plan original"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué requiere la ley de la justicia, según la explicación de Alma en este capítulo?",
+      "options": [
+        "Que solo los pecados más graves tengan consecuencias",
+        "Que no exista ninguna consecuencia real por las obras de las personas",
+        "Que exista una consecuencia —castigo o felicidad— fijada en oposición a cada tipo de obra, de manera que ninguna ley quede sin efecto",
+        "Que el perdón sea automático para todos, sin condiciones"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Valentina piensa que la Caída de Adán y Eva fue solo 'un error' que arruinó el plan original de Dios. Según Alma 42, ¿qué matiz le agregarías?",
+      "options": [
+        "Que tiene razón: la Caída fue un accidente que Dios tuvo que corregir después",
+        "Que la Caída, lejos de arruinar el plan, fue una parte necesaria de él: hizo posible la mortalidad, la agencia y la oportunidad de progresar",
+        "Que la Caída no tiene ninguna relación con el plan de salvación",
+        "Que Dios habría preferido que Adán y Eva nunca comieran del fruto prohibido"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Un amigo le dice a Mateo que 'ya que Dios es tan bueno, seguramente perdona cualquier cosa sin ninguna consecuencia'. Usando la explicación de Alma sobre la ley de la justicia, ¿qué le respondería Mateo?",
+      "options": [
+        "Que Dios cambia sus leyes según cada situación particular",
+        "Que Dios es bueno, pero también es perfectamente justo; si simplemente pasara por alto el pecado sin ninguna consecuencia, dejaría de ser Dios, porque violaría su propia justicia",
+        "Que su amigo tiene toda la razón, y que la justicia no es un atributo real de Dios",
+        "Que la ley de la justicia solo aplica a los inicuos más graves"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la necesidad de la Caída como la existencia de la ley de la justicia forman parte de un mismo diseño divino. ¿Cuál es el principio que los une?",
+      "options": [
+        "Que el plan de Dios está construido con leyes y condiciones consistentes, que hacen posible la agencia real y el progreso eterno, no arbitrariedades",
+        "Que ambos elementos son contradicciones dentro del plan de Dios",
+        "Que la Caída y la justicia son temas completamente independientes entre sí",
+        "Que Dios improvisa Sus leyes según las circunstancias de cada generación"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

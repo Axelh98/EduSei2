@@ -1,0 +1,89 @@
+{
+  "id": "leccion-36-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mormón escribe sus últimas palabras dirigidas a los descendientes de los lamanitas y a nosotros. Su objetivo es invitarnos a creer en Jesucristo, arrepentirnos y entender nuestro lugar en la Casa de Israel. Enseña que el Libro de Mormón se escribió con el propósito expreso de convencernos de creer en los anales bíblicos y en el Salvador."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 7:5",
+          "texto": "Sabed que tenéis que llegar al conocimiento de vuestros padres, y arrepentiros de todos vuestros pecados... y creer en Jesucristo, que él es el Hijo de Dios...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Mormón 7:9",
+          "texto": "Porque he aquí, se escriben estos [el Libro de Mormón] con el fin de que creáis en aquellos [la Biblia]; y si creéis en aquellos, también creeréis en estos...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=spa&id=p9#p9"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué es importante estudiar tanto el Libro de Mormón como la Biblia?",
+        "¿Qué aprendes del enfoque de Mormón en testificar de Cristo, incluso después de ver la destrucción de todo su pueblo?",
+        "¿Cómo puedes fortalecer tu propio testimonio en el Salvador leyendo el Libro de Mormón?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A quiénes escribe Mormón en el capítulo 7?",
+      "options": [
+        "A los nefitas",
+        "A los lamanitas del futuro",
+        "A los gentiles",
+        "A nadie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué invita Mormón a los lamanitas a hacer?",
+      "options": [
+        "Hacer guerra",
+        "Creer en Cristo y arrepentirse",
+        "Buscar riquezas",
+        "Ignorar el evangelio"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué testifica Mormón sobre Jesús?",
+      "options": [
+        "Que no existe",
+        "Que es el Cristo, el Hijo del Dios viviente",
+        "Que es solo un hombre",
+        "Que es un mito"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué esperanza ofrece Mormón a los descendientes de Lehi?",
+      "options": [
+        "Ninguna",
+        "Que pueden venir a Cristo y ser salvos",
+        "Solo castigo",
+        "Destrucción"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué evidencia del amor de Mormón vemos?",
+      "options": [
+        "Odio",
+        "Su preocupación por las generaciones futuras",
+        "Indiferencia",
+        "Venganza"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

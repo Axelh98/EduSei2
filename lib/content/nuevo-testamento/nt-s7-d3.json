@@ -1,0 +1,50 @@
+{
+  "id": "nt-s7-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuántas veces preguntó Pedro que debía perdonar a su hermano?",
+      "options": [
+        "Una vez.",
+        "Tres veces.",
+        "Hasta siete veces.",
+        "Setenta veces."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál fue la respuesta de Jesús a la pregunta de Pedro sobre el perdón?",
+      "options": [
+        "\"Siete veces basta\".",
+        "\"No te digo hasta siete, sino aun hasta setenta veces siete\".",
+        "\"Solo si se arrepiente una vez\".",
+        "\"No perdones nunca\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hizo el rey cuando el siervo le rogó paciencia?",
+      "options": [
+        "Lo metió a la cárcel.",
+        "Movido a compasión, le perdonó la deuda.",
+        "Le pidió que trabajara 100 años.",
+        "Vendió a su familia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál fue el pecado del siervo perdonado?",
+      "options": [
+        "Volver a pedir dinero.",
+        "No perdonar a su consiervo que le debía una cantidad pequeña (100 denarios).",
+        "Escapar de la ciudad.",
+        "Hablar mal del rey."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

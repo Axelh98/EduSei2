@@ -1,0 +1,56 @@
+{
+  "id": "leccion-99",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Desde dónde respondió el Señor a Job cuando finalmente le habló?",
+      "options": [
+        "Desde el templo de Jerusalén.",
+        "Desde un torbellino.",
+        "A través de un ángel mensajero."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué tipo de preguntas le hizo el Señor a Job en los capítulos 38–40?",
+      "options": [
+        "Preguntas sobre sus pecados pasados.",
+        "Preguntas sobre la Creación que demostraban la inmensidad del poder y la sabiduría de Dios.",
+        "Preguntas sobre el comportamiento de sus amigos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo reaccionó Job después de que el Señor le habló?",
+      "options": [
+        "Se enojó porque Dios no respondió sus preguntas directamente.",
+        "Se humilló y reconoció que había hablado de cosas que no entendía.",
+        "Exigió una explicación más detallada."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué hizo el Señor al final del libro a favor de Job?",
+      "options": [
+        "Le explicó por qué había permitido su sufrimiento.",
+        "Restauró el doble de todo lo que Job había perdido y lo bendijo abundantemente.",
+        "Le dio un nuevo llamamiento como profeta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué verdad sobre la confianza en Dios aprendemos del final del libro de Job?",
+      "options": [
+        "Que Dios siempre nos explica el porqué de cada prueba.",
+        "Que podemos confiar en Dios aunque no comprendamos Sus caminos, porque Él siempre actúa en nuestro bien.",
+        "Que la única manera de ser bendecido es no cuestionar nada."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

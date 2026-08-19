@@ -1,0 +1,123 @@
+{
+  "id": "leccion-22-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Alma encarga a su hijo Helamán la custodia de los registros sagrados, explicando su importancia para preservar el conocimiento y traer almas al arrepentimiento. Luego utiliza la Liahona, la brújula que guió a Lehi en el desierto, como símbolo: así como la Liahona funcionaba mediante la fe y diligencia, las palabras de Cristo guían a quienes las siguen con fe. Alma también aconseja sobre la importancia de aprender en la juventud y de mantener en secreto las cosas sagradas."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Richard G. Scott",
+      "fuente": "Liahona, noviembre de 2014, pág. 93",
+      "texto": "No cedas ante la mentira de Satanás de que no tienes tiempo de estudiar las Escrituras. Elige un momento para estudiarlas. Deleitarse en la palabra de Dios cada día es más importante que dormir, que los estudios, el trabajo, la televisión, los videojuegos y las redes sociales.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/10/make-the-exercise-of-faith-your-first-priority?lang=spa&id=p14#p14"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 37:6-7",
+          "texto": "Por medio de cosas pequeñas y sencillas se realizan grandes cosas; y en muchos casos, los medios pequeños confunden a los sabios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa&id=p6-p7#p6"
+        },
+        {
+          "referencia": "Alma 37:44",
+          "texto": "Así como esta brújula dirigió a nuestros padres, así también las palabras de Cristo os llevarán a una tierra de promisión.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa&id=p44#p44"
+        },
+        {
+          "referencia": "Alma 37:35",
+          "texto": "Aprende en tu juventud a guardar los mandamientos de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa&id=p35#p35"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué 'cosas pequeñas y sencillas' has observado que producen resultados significativos en tu vida?",
+        "¿De qué manera las palabras de Cristo te están guiando actualmente según la analogía de la Liahona?",
+        "¿Qué registros personales (diarios, experiencias espirituales) consideras importante mantener?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué le encarga Alma a Helamán que preserve con sumo cuidado en este capítulo?",
+      "options": [
+        "Los registros sagrados: las planchas de bronce y las planchas de Nefi",
+        "Las armaduras de guerra",
+        "La casa familiar en Zarahemla",
+        "El oro y la plata de la familia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué objeto usado por los antepasados de Helamán menciona Alma como símbolo de guía divina?",
+      "options": [
+        "El arca del convenio",
+        "Una vasija de oro",
+        "El bastón de Moisés",
+        "La Liahona"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "Alma explica que la Liahona funcionaba 'según la fe' de quienes la usaban, y dejaba de funcionar cuando eran negligentes (Alma 37:40–41). ¿Con qué la compara directamente en el versículo 44?",
+      "options": [
+        "Con un mapa dibujado por Nefi",
+        "Con las palabras de Cristo, que igual que la Liahona señalan un curso claro hacia la vida eterna si se les presta atención",
+        "Con las armas de guerra de los nefitas",
+        "Con las leyes civiles del rey Mosíah"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Alma enseña que 'por medios pequeños y sencillos el Señor lleva a cabo grandes cosas' (Alma 37:6–7), usando como ejemplo el llamado de Moisés a liberar a Israel con solo una vara. ¿Qué principio general enseña esta idea?",
+      "options": [
+        "Que Moisés fue el único profeta que usó medios sencillos",
+        "Que las acciones cotidianas y aparentemente pequeñas —como orar, leer u obedecer— pueden producir resultados eternos importantes",
+        "Que Dios solo actúa a través de milagros espectaculares y visibles",
+        "Que los medios pequeños nunca tienen consecuencias reales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Camila siente que leer un capítulo corto de Escrituras cada noche 'no cambia nada' comparado con hacer algo más grande por su fe. Según el principio de los medios pequeños y sencillos (Alma 37:6–7), ¿qué le dirías?",
+      "options": [
+        "Que precisamente esos hábitos pequeños y constantes son el medio que Dios usa para producir grandes cambios espirituales con el tiempo",
+        "Que leer poco cada noche es peor que no leer nada",
+        "Que solo los adultos necesitan ese tipo de hábitos diarios",
+        "Que tiene razón, y que debería buscar algo más llamativo para fortalecer su fe"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Luca dejó de leer las Escrituras 'por un tiempo' y siente que perdió el rumbo en su vida, algo parecido a lo que le pasó a la familia de Lehi con la Liahona (Alma 37:40–41). ¿Qué le ayudaría a entender este capítulo?",
+      "options": [
+        "Que la Liahona funcionaba de forma automática, sin importar la actitud de quienes la usaban",
+        "Que la Liahona dejó de funcionar por un desperfecto técnico, sin relación con la fe de la familia",
+        "Que así como la Liahona dejaba de funcionar cuando eran negligentes, prestar atención a las palabras de Cristo requiere fe y diligencia constantes, no ocasionales",
+        "Que una vez perdido el rumbo espiritual, ya no se puede recuperar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la Liahona como los 'medios pequeños y sencillos' enseñan algo común sobre la forma en que actúa Dios. ¿Cuál es ese principio?",
+      "options": [
+        "Que Dios usa medios sencillos y accesibles —una brújula, un hábito diario— para guiar y producir resultados grandes en la vida de quienes ejercen fe",
+        "Que Dios prefiere no intervenir en los asuntos cotidianos de las personas",
+        "Que solo los objetos sagrados antiguos tienen poder real",
+        "Que la fe y la diligencia no influyen en los resultados que Dios produce"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

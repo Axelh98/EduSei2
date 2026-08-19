@@ -1,0 +1,118 @@
+{
+  "id": "leccion-24-7",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta lección proporciona una oportunidad para reflexionar sobre el aprendizaje de las semanas recientes. El propósito es examinar cómo las enseñanzas del Libro de Mormón han influido en tu comprensión y en tus acciones. La evaluación no se enfoca solo en el conocimiento intelectual, sino en cómo las enseñanzas han afectado tu corazón y tu vida diaria. Es un momento para identificar áreas de progreso y áreas que necesitan más atención."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Russell M. Nelson",
+      "fuente": "Liahona, mayo de 2014",
+      "texto": "Aumenten su fe día a día mientras caminan hacia su destino eterno. ¡Proclamen su fe! ¡Manifiesten su fe!",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/04/let-your-faith-show?lang=spa&id=p27#p27"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "2 Nefi 32:3",
+          "texto": "Las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Juan 6:68",
+          "texto": "Señor, ¿a quién iremos? Tú tienes palabras de vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/6?lang=spa&id=p68#p68"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué principio o enseñanza de las últimas semanas ha tenido mayor impacto en tu comprensión?",
+        "¿En qué áreas observas crecimiento espiritual? ¿Qué áreas necesitan más atención?",
+        "¿Cómo has aplicado las enseñanzas del Libro de Mormón en situaciones específicas de tu vida?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué valores defendía el estandarte de la libertad, según sus palabras exactas en Alma 46:12?",
+      "options": [
+        "Únicamente la libertad política",
+        "Nuestro Dios, nuestra religión, y libertad, y nuestra paz, nuestras esposas y nuestros hijos",
+        "Únicamente la riqueza del pueblo",
+        "Únicamente el poder militar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué llevó a Moroni a crear el estandarte de la libertad, según el contexto de Alma 46?",
+      "options": [
+        "Un mandato directo y explícito del rey",
+        "Una tradición nefita que se repetía cada año",
+        "Una victoria militar que quería celebrar",
+        "La indignación al ver que Amalickíah buscaba destruir la libertad y la fe de su pueblo mediante disensiones"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "El estandarte dice 'En memoria de nuestro Dios, nuestra religión, y libertad, y nuestra paz, nuestras esposas y nuestros hijos' (Alma 46:12). ¿Por qué Moroni elige justamente esa combinación de palabras, y no solo 'libertad' o solo 'religión'?",
+      "options": [
+        "Porque esas palabras no tenían ninguna relación entre sí en la cultura nefita",
+        "Porque quería una lista larga sin ningún propósito particular",
+        "Porque mostraba que la fe, la libertad y la familia están profundamente conectadas, y que defender una implica defender las demás",
+        "Porque solo buscaba impresionar a sus enemigos con palabras solemnes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "El pueblo respondió 'viniendo corriendo' y rasgando sus propias vestiduras como convenio (Alma 46:21). ¿Qué revela la forma en que respondieron —corriendo, no caminando— sobre su actitud hacia el compromiso?",
+      "options": [
+        "Que solo un pequeño grupo decidió sumarse al convenio",
+        "Que respondieron con indiferencia y lentitud",
+        "Que respondieron con urgencia, entusiasmo genuino y determinación inmediata",
+        "Que fueron obligados por la fuerza a participar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Sofía admira el ejemplo de los nefitas que 'vinieron corriendo' a comprometerse con el estandarte de la libertad, pero siente que ella responde a las cosas importantes de su vida con desgano. ¿Qué le podrías compartir sobre este pasaje?",
+      "options": [
+        "Que el convenio del pueblo enseña que un compromiso genuino se refleja en la urgencia y el entusiasmo con que se actúa, no solo en las palabras",
+        "Que sentir desgano al comprometerse no tiene ninguna importancia real",
+        "Que solo los adultos pueden comprometerse con ese nivel de entusiasmo",
+        "Que correr literalmente es lo único que importa del relato"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Un compañero le dice a Luca que defender la fe, la familia y la libertad son temas 'separados', sin relación entre sí. Según lo que enseña el estandarte de la libertad, ¿qué le respondería?",
+      "options": [
+        "Que solo la libertad política importaba realmente para Moroni",
+        "Que la familia no tiene ninguna relación con la libertad o la religión",
+        "Que su compañero tiene razón: son temas completamente independientes",
+        "Que el estandarte muestra justamente lo contrario: Dios, la religión, la libertad, la paz y la familia están unidos, y proteger uno de esos valores fortalece a los demás"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Tanto las palabras escritas en el estandarte como la manera en que el pueblo respondió a él enseñan un mismo principio sobre el compromiso. ¿Cuál es?",
+      "options": [
+        "Que los valores mencionados en el estandarte ya no tienen relevancia hoy",
+        "Que los valores más importantes de la vida requieren una defensa activa, unida y decidida, no una actitud pasiva o indiferente",
+        "Que basta con estar de acuerdo internamente, sin ninguna acción visible",
+        "Que el compromiso público nunca tiene relación con la convicción personal"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

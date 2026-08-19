@@ -1,0 +1,113 @@
+{
+  "id": "ensenanza-profeta-actual",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Señor reveló en D&C 21:4–5 que las palabras del profeta deben recibirse con paciencia y fe, como si vinieran directamente de Él. Pero recibir las palabras del profeta no es solo escucharlas — requiere un proceso activo: buscarlas, estudiarlas con el Espíritu, identificar las verdades que contienen, y decidir qué cambiar en la propia vida como respuesta. Esta lección enseña herramientas concretas para estudiar los discursos del presidente de la Iglesia y de los Apóstoles: cómo identificar el principio central de un discurso, cómo encontrar las promesas y condiciones que contiene, y cómo escribir una acción concreta que surge del estudio. Para un joven de hoy que consume información constantemente pero raramente la aplica, estas habilidades son especialmente valiosas."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 21:4–5",
+          "texto": "Por lo tanto, pon atención a todas sus palabras y mandamientos que él te dé, así como recibes sus palabras de mi boca, con toda paciencia y fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=spa&id=p4-p5#p4"
+        },
+        {
+          "referencia": "Amós 3:7",
+          "texto": "Porque no hará el Señor Dios cosa alguna, sin que revele su secreto a sus siervos los profetas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=spa&id=p7#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Recordás algún mensaje de la Conferencia General reciente que te haya impactado? ¿Cuál fue?",
+        "¿Cuál es la diferencia entre escuchar al profeta y seguir al profeta?",
+        "¿Alguna vez aplicaste en tu vida algo que enseñó el presidente de la Iglesia? ¿Qué pasó?",
+        "Esta semana, elegí un discurso de la última Conferencia General. ¿Qué principio central enseñó? ¿Qué acción concreta podrías tomar vos?",
+        "¿Cómo podrías hacer que estudiar las enseñanzas del profeta sea parte de tu rutina semanal?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 21:4–5 describe cómo deben recibirse las palabras del profeta. ¿Qué dos condiciones menciona ese versículo?",
+      "options": [
+        "Con paciencia y fe — como si vinieran de la propia boca del Señor.",
+        "Con duda crítica y comparación con opiniones de otros expertos religiosos.",
+        "Con análisis histórico y contextualización académica antes de aplicarlas.",
+        "Con entusiasmo público pero sin compromisos personales concretos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál de las siguientes herramientas de Gospel Library te permite encontrar los discursos del profeta organizados por Conferencia General?",
+      "options": [
+        "La sección de Escrituras, buscando por nombre del profeta.",
+        "La sección de Revistas, filtrando por año y número de Liahona.",
+        "La sección de Conferencia General, ordenada por fecha y orador.",
+        "La sección de Estudio, buscando por temas doctrinales generales."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "El presidente Benson enseñó que el 'profeta viviente es más vital para nosotros que el profeta muerto'. ¿Qué significa eso en la práctica — no que los profetas antiguos no importan, sino algo diferente?",
+      "options": [
+        "Que los discursos actuales del profeta reemplazan y anulan las Escrituras canónicas.",
+        "Que los profetas del pasado se equivocaban más frecuentemente que el profeta actual.",
+        "Que el profeta viviente aplica las verdades eternas a los desafíos específicos del tiempo en que vivimos — eso es lo que nadie del pasado puede hacer.",
+        "Que solo las declaraciones oficiales del profeta tienen valor, no los discursos de los apóstoles."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Qué diferencia hay entre escuchar un discurso del profeta durante la Conferencia General y estudiarlo activamente después con herramientas de Gospel Library?",
+      "options": [
+        "Ninguna diferencia real si uno presta atención durante la transmisión en vivo.",
+        "Estudiar activamente significa identificar el principio central, las Escrituras usadas, las promesas y la acción concreta que el profeta invita a tomar.",
+        "La diferencia es solo de tiempo — estudiar toma más horas pero produce los mismos resultados.",
+        "El estudio posterior solo lo hacen los maestros de Seminario para preparar lecciones."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Tomás escuchó la Conferencia General completa pero a las dos semanas no recuerda ningún mensaje específico ni tomó ninguna acción. Según la plantilla de estudio de esta lección, ¿qué paso omitió?",
+      "options": [
+        "No tomó suficientes notas durante la transmisión en vivo.",
+        "No compartió los discursos en sus redes sociales inmediatamente.",
+        "No volvió a los discursos después, no identificó el principio central y no decidió una acción concreta.",
+        "No leyó los discursos en inglés para entenderlos con más precisión."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Renata dice que los consejos del profeta 'son muy generales y no aplican a mi vida específica'. Según D&C 21:4–5, ¿cuál es el problema real en esa actitud?",
+      "options": [
+        "Que los consejos del profeta realmente son demasiado generales para situaciones individuales.",
+        "Que Renata recibe las palabras del profeta con filtro personal en lugar de con paciencia y fe — y eso impide que el Espíritu le muestre la aplicación personal.",
+        "Que el profeta debería dar consejería individual para que sus mensajes sean más útiles.",
+        "Que Renata tiene razón y debería buscar orientación de fuentes más específicas a su situación."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Amós 3:7 dice que el Señor no hace nada sin revelar Sus secretos a Sus profetas. D&C 21:4–5 pide recibir esas palabras con fe. ¿Qué principio completo forman esos dos versículos juntos sobre la relación entre el Señor, el profeta y el discípulo?",
+      "options": [
+        "Que el profeta tiene acceso a información privilegiada y el discípulo solo necesita obedecerlo sin entender por qué.",
+        "Que D&C 21 y Amós 3 describen épocas diferentes y no deben leerse juntos.",
+        "Que los secretos del Señor son solo para el profeta y los miembros comunes no tienen acceso a ellos.",
+        "Que el Señor diseñó un canal de comunicación: habla al profeta para hablar a Sus hijos — y el discípulo que recibe con fe cierra ese circuito de revelación."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

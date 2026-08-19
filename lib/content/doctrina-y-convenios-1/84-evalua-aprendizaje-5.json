@@ -1,0 +1,117 @@
+{
+  "id": "84-evalua-aprendizaje-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta evaluación cierra el quinto bloque del año y es la penúltima del semestre. Las lecciones de este bloque cubrieron el perdón incondicional (D&C 64:9–10), no cansarse de hacer el bien (D&C 64:33–34), el origen divino de las revelaciones (D&C 67), la responsabilidad de los padres de enseñar el evangelio (D&C 68:25–31), y el mandato de proclamar la verdad frente a la crítica (D&C 71). La evaluación espiritual genuina pregunta no cuánto sabés sino qué cambió en vos. Esta es también la última oportunidad antes de la evaluación final del semestre para consolidar los pasajes del Dominio de la Doctrina y establecer una meta espiritual para cerrar el año."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 64:33",
+          "texto": "No os canséis de hacer el bien, porque ponéis los cimientos de una gran obra. Y de pequeñas cosas proceden las grandes.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p33#p33"
+        },
+        {
+          "referencia": "Doctrina y Convenios 71:7",
+          "texto": "Por lo tanto, confundid a vuestros enemigos; llamad a vuestros enemigos al arrepentimiento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=spa&id=p7#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Estamos llegando al cierre del primer semestre. Las verdades estudiadas en este bloque — sobre el perdón, la constancia, el origen de la revelación, la responsabilidad familiar y la proclamación de la verdad — son principios que duran toda la vida. La mejor manera de cerrar este bloque es identificar cuál de estas verdades está cambiando algo concreto en tu manera de vivir, y comprometerse a llevar eso al próximo semestre."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál fue la enseñanza de este bloque que más impacto tuvo en tu vida personal, y qué cambió en vos?",
+        "¿Qué principio de D&C 64 o D&C 71 estás aplicando activamente fuera del aula?",
+        "¿Qué pasaje del Dominio de la Doctrina del semestre podés usar con más confianza ahora que al principio del año?",
+        "¿En qué área de tu carácter o de tu vida espiritual ves más crecimiento desde que comenzó el año?",
+        "¿Qué meta espiritual concreta te ponés para cerrar el primer semestre con fuerza?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Las semanas 16–18 cubrieron varios principios. ¿A cuál lección pertenece el principio 'de pequeñas cosas proceden las grandes'?",
+      "options": [
+        "A D&C 64:20–43 — no cansarse de hacer el bien.",
+        "A D&C 65 — el reino de Dios en la tierra.",
+        "A D&C 67 — el origen divino de las revelaciones.",
+        "A D&C 71 — proclamar el evangelio frente a las críticas."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 65 describe una piedra que 'rodará hasta llenar la tierra'. ¿De qué profecía del Antiguo Testamento toma esa imagen?",
+      "options": [
+        "De Daniel 2 — la piedra cortada sin manos que destruye las estatuas de los reinos del mundo.",
+        "De Isaías 28 — la piedra angular del fundamento de Sion.",
+        "De Ezequiel 37 — los huesos secos que vuelven a la vida.",
+        "De Jeremías 31 — el nuevo convenio escrito en el corazón del pueblo."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Las semanas 16–18 incluyeron D&C 64 (perdón), D&C 65 (reino), D&C 67 (origen de revelaciones) y D&C 71 (respuesta a críticos). ¿Qué tema de fondo une a todas esas secciones?",
+      "options": [
+        "Que el Señor organizó la Iglesia en Ohio y Misuri con instrucciones muy específicas.",
+        "Que el discípulo fiel enfrenta oposición — interna (falta de perdón, cansancio) y externa (críticas, dudas) — y el Señor provee principios concretos para cada tipo.",
+        "Que el sacerdocio es la fuente principal de todas las bendiciones de ese período.",
+        "Que el traslado a Misuri fue el evento doctrinal más importante de esa época."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "D&C 64:9 dice que perdonar a todos es requerido. ¿Cuál es la diferencia entre perdonar 'porque el Señor lo manda' y perdonar 'porque entiendo que el resentimiento me destruye a mí'?",
+      "options": [
+        "No hay diferencia — el resultado espiritual es idéntico independientemente de la motivación.",
+        "El primero es obediencia externa; el segundo es sabiduría interior. Idealmente ambas coinciden — el discípulo maduro obedece y entiende por qué esa obediencia lo libera.",
+        "El segundo es más valioso porque no requiere referencia al mandamiento.",
+        "El primero es más valioso porque demuestra sujeción a la autoridad divina."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Camila siente que las últimas semanas del Seminario le enseñaron mucho pero no sabe cómo medir su crecimiento real. ¿Cuál es la mejor medida del aprendizaje espiritual genuino?",
+      "options": [
+        "La cantidad de preguntas que respondió correctamente en los quizzes del bloque.",
+        "Cuántos versículos del Dominio de la Doctrina memorizó durante el período.",
+        "Si algo cambió en cómo actúa, cómo trata a otros, o cómo entiende su relación con el Señor — el aprendizaje real siempre produce cambio concreto.",
+        "La cantidad de veces que asistió al Seminario sin faltar durante el bloque."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Joaquín identificó que el principio de D&C 71 (proclamar en lugar de debatir) describe exactamente lo que necesita en su vida con un compañero crítico. ¿Qué haría la versión más fiel de Joaquín con ese reconocimiento?",
+      "options": [
+        "Compartirlo con el maestro de Seminario para que le dé consejos más específicos.",
+        "Esperar a que su compañero crítico cambie antes de intentar proclamar nada.",
+        "Identificar una oportunidad concreta esta semana para compartir lo que el evangelio significa en su vida — no argumentar sino testificar.",
+        "Escribir un ensayo sobre el principio de D&C 71 para consolidar su entendimiento."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Esta evaluación cierra el quinto bloque del año. ¿Cuál es la pregunta más importante que define si el aprendizaje del Seminario fue genuino este año?",
+      "options": [
+        "'¿Cuántos capítulos de D&C estudié en total?'",
+        "'¿Aprobé todos los exámenes del Dominio de la Doctrina?'",
+        "'¿Hay algo en mí que cambió — en cómo veo al Señor, cómo trato a otros, cómo enfrento las dificultades — que no estaba antes de comenzar el año?'",
+        "'¿Asistí al Seminario con más regularidad que el año anterior?'"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

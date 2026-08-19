@@ -1,0 +1,104 @@
+{
+  "id": "alma-30-30-60",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué evidencias dio Alma de la existencia de Dios?",
+      "type": "multiple",
+      "options": [
+        "No presentó ninguna evidencia concreta a Korihor",
+        "Únicamente compartió su propia opinión personal",
+        "El testimonio de los profetas, las escrituras, todas las cosas y el testimonio de los demás",
+        "Se basó solamente en argumentos filosóficos complejos"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 30:44",
+      "explanation": "Alma citó el testimonio de los profetas, las escrituras, todas las cosas y el testimonio de los demás."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué señal dio Dios a Korihor?",
+      "type": "multiple",
+      "options": [
+        "Le concedió grandes riquezas como recompensa",
+        "Fue herido con mudez para que no pudiera hablar",
+        "No le dio absolutamente ninguna señal",
+        "Le otorgó poder adicional para predicar"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 30:49-50",
+      "explanation": "Dios hirió a Korihor con mudez para que no pudiera seguir hablando."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué confesó Korihor después de ser herido?",
+      "type": "multiple",
+      "options": [
+        "Que en realidad no confesó absolutamente nada",
+        "Que consideraba que tenía razón desde el principio",
+        "Que siempre supo que había un Dios pero fue engañado por el diablo",
+        "Que la situación en realidad no le importaba"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 30:52-53",
+      "explanation": "Korihor confesó que siempre supo que había un Dios, pero fue engañado por el diablo."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué dijo Alma sobre pedir señales?",
+      "type": "multiple",
+      "options": [
+        "Que siempre es bueno pedir muchas señales a Dios",
+        "Que constantemente debemos exigir señales de Dios",
+        "Que Dios nunca concede señales a nadie",
+        "Que pedir señales es señal de perversidad"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 30:43-44",
+      "explanation": "Alma enseñó que pedir señales es señal de perversidad."
+    },
+    {
+      "id": 5,
+      "question": "Bautista quiere pruebas contundentes antes de creer en algo relacionado con su fe. ¿Qué le enseña el pedido de señal de Korihor a Alma?",
+      "type": "multiple",
+      "options": [
+        "Que pedir señales de forma desafiante puede ser señal de perversidad, en lugar de un verdadero deseo de creer",
+        "Que pedir señales siempre es la mejor forma de fortalecer la fe",
+        "Que Dios está obligado a dar una señal a quien la pida",
+        "Que Korihor tenía razón al exigir una señal"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 30:43-45",
+      "explanation": "Pedir señales de forma desafiante puede ser señal de perversidad, en lugar de un verdadero deseo de creer."
+    },
+    {
+      "id": 6,
+      "question": "Delfina se pregunta qué evidencias reales sostienen la fe en Dios. ¿Qué ejemplos dio Alma a Korihor sobre esto?",
+      "type": "multiple",
+      "options": [
+        "Solamente su propia opinión personal",
+        "El testimonio de los profetas, las escrituras, la creación misma y el testimonio de otras personas",
+        "Ningún tipo de evidencia concreta",
+        "Únicamente argumentos filosóficos complejos"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 30:44",
+      "explanation": "Alma citó el testimonio de los profetas, las escrituras, la creación misma y el testimonio de otras personas."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué conecta la confesión final de Korihor con la advertencia de Alma sobre pedir señales de manera desafiante?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "Korihor nunca reconoció haber conocido la verdad",
+        "Ambas muestran que Korihor conocía la verdad desde el principio, pero eligió rechazarla hasta sufrir las consecuencias",
+        "La advertencia de Alma no tuvo relación con lo que Korihor confesó después"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 30:42-53",
+      "explanation": "Ambas muestran que Korihor conocía la verdad desde el principio, pero eligió rechazarla hasta sufrir las consecuencias."
+    }
+  ]
+}

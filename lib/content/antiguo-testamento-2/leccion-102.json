@@ -1,0 +1,56 @@
+{
+  "id": "leccion-102",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué imagen usa David para describir su relación con el Señor en el Salmo 23?",
+      "options": [
+        "La de un rey y su siervo.",
+        "La de un pastor y sus ovejas.",
+        "La de un padre y su hijo pequeño."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué significa la frase 'aunque ande en valle de sombra de muerte, no temeré mal alguno'?",
+      "options": [
+        "Que David nunca tuvo miedo en su vida.",
+        "Que incluso en las situaciones más oscuras y peligrosas, la presencia del Señor da valor y paz.",
+        "Que las personas justas no mueren."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué función tiene el 'báculo y el cayado' mencionados en el Salmo 23?",
+      "options": [
+        "Son armas para pelear contra los enemigos.",
+        "Representan el apoyo, la guía y la corrección amorosa del Señor en nuestra vida.",
+        "Son herramientas para construir el templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo se aplica el Salmo 23 a tu relación personal con Jesucristo hoy?",
+      "options": [
+        "Solo aplica para quienes viven en zonas rurales o con ovejas.",
+        "Jesucristo, como el Buen Pastor, te guía, te protege y te provee lo que necesitas espiritualmente.",
+        "El Salmo 23 ya no tiene relevancia en la vida moderna."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promesa final hace David en el Salmo 23?",
+      "options": [
+        "Que nunca más tendrá enemigos.",
+        "'El bien y la misericordia me seguirán todos los días de mi vida, y en la casa de Jehová moraré por largos días.'",
+        "Que construirá el templo más grande del mundo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

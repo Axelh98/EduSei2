@@ -1,0 +1,61 @@
+{
+  "id": "doctrina-y-convenios-121-123",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿En qué circunstancias recibió José Smith la revelación registrada en DyC 121?",
+      "options": [
+        "Mientras estaba encarcelado en Liberty, Misuri",
+        "Durante la dedicación de un templo",
+        "En una conferencia general",
+        "En Kirtland, Ohio"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué pregunta expresa José Smith al inicio de DyC 121?",
+      "options": [
+        "¿Hasta cuándo, oh Señor, sufriremos estas aflicciones?",
+        "¿Cuándo se edificará Sion?",
+        "¿Quién debe ser llamado como apóstol?",
+        "¿Dónde se hallan las tribus perdidas?"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Según DyC 121:36–37, ¿qué sucede cuando se ejerce el sacerdocio con injusticia?",
+      "options": [
+        "Los cielos se retiran y el Espíritu del Señor se entristece",
+        "El poder aumenta",
+        "La autoridad se fortalece",
+        "No hay consecuencias"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué atributos deben caracterizar el ejercicio correcto del sacerdocio según DyC 121?",
+      "options": [
+        "Persuasión, longanimidad y amor sincero",
+        "Control estricto y castigo",
+        "Autoridad absoluta",
+        "Reconocimiento público"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio eterno enseña DyC 121 sobre el liderazgo?",
+      "options": [
+        "El poder verdadero se ejerce mediante rectitud y humildad",
+        "La autoridad se impone",
+        "El liderazgo elimina la oposición",
+        "El poder no tiene límites"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

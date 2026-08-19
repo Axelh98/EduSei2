@@ -1,0 +1,124 @@
+{
+  "id": "191-importancia-educacion",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Señor fue claro en D&C 88:118 y D&C 130:18–19: buscar conocimiento de los mejores libros y con la fe es un mandamiento, y la inteligencia que adquirimos en esta vida nos acompaña en la resurrección. Esto significa que estudiar — en la escuela, en el Seminario, en casa — no es solo una obligación social o económica sino una responsabilidad espiritual. Para los jóvenes que están en la secundaria y que a veces sienten que el estudio es una carga sin propósito, esta lección propone un cambio de perspectiva: la educación es mayordomía. El Señor te dio una mente, y Él espera que la desarrolles con la misma dedicación con que desarrollás el carácter. Esta lección también aborda la tensión real entre las demandas del colegio y las de la Iglesia, y ofrece principios para integrarlas en lugar de verlas como rivales."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:118",
+          "texto": "Buscad diligentemente y enseñaos mutuamente palabras de sabiduría; sí, buscad conocimiento de los mejores libros; buscad conocimiento, sí, con el estudio y también con la fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
+        },
+        {
+          "referencia": "Doctrina y Convenios 130:18–19",
+          "texto": "Todo cuanto adquiramos de inteligencia en esta vida, se levantará con nosotros en la resurrección. Y si una persona adquiere más conocimiento e inteligencia en esta vida... tendrá muy grande ventaja en el mundo venidero.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=spa&id=p18-p19#p18"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Learning to Love Learning», Ensign, febrero de 2010, pág. 27 (artículo publicado solo en inglés)",
+      "texto": "Ustedes y yo estamos aquí en la tierra para prepararnos para la eternidad, para aprender a aprender, para aprender cosas que son temporalmente importantes y eternamente esenciales, y para ayudar a otros a aprender sabiduría y verdad (véase D. y C. 97:1). Comprender quiénes somos, de dónde venimos y por qué estamos en la tierra impone a cada uno de nosotros una gran responsabilidad, tanto de aprender a aprender como de aprender a amar el aprendizaje.",
+      "link": "https://www.churchofjesuschrist.org/study/ensign/2010/02/learning-to-love-learning?lang=eng"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Ver la educación como mayordomía espiritual lo cambia todo: ya no estudiás solo para conseguir trabajo o para aprobar — estudiás porque el Señor te dio una mente y espera que la desarrolles para Su obra y para el bienestar de tu familia y tu comunidad. D&C 130:18–19 promete que el conocimiento adquirido con fidelidad no se pierde — trasciende esta vida. Esa es una motivación que ningún otro sistema de valores puede ofrecer."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo cambiaría tu actitud hacia el colegio si lo vieras como una responsabilidad espiritual en lugar de una obligación social?",
+        "¿Qué materia o habilidad estás aprendiendo ahora que podría ser útil para el servicio en la Iglesia o en tu familia?",
+        "¿Cómo integrás actualmente el estudio del evangelio con el estudio académico? ¿Se refuerzan o compiten?",
+        "¿Qué hábito de estudio concreto podrías mejorar esta semana, tanto en la escuela como en las Escrituras?",
+        "Si la inteligencia que adquirís en esta vida te acompaña en la resurrección, ¿qué querés llevarte?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 130:18–19 dice que la inteligencia adquirida en esta vida 'se levantará con nosotros en la resurrección'. ¿Qué condición adicional menciona ese versículo para recibir ventaja en el mundo venidero?",
+      "options": [
+        "Adquirir conocimiento mediante diligencia y obediencia — ambas condiciones juntas.",
+        "Haber obtenido un título universitario formal antes de los 30 años.",
+        "Solo la obediencia — el estudio por sí solo no produce ventaja espiritual.",
+        "Solo la diligencia — la obediencia aplica a las ordenanzas, no al estudio académico."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 88:118 manda buscar conocimiento 'de los mejores libros' y también 'con la fe'. ¿Qué ocurre cuando se separan esas dos cosas — cuando alguien estudia mucho pero sin fe, o tiene fe pero sin estudiar?",
+      "options": [
+        "Nada problemático — ambas formas producen crecimiento espiritual aunque de manera diferente.",
+        "El estudio sin fe puede volverse arrogante; la fe sin estudio puede volverse superficial — cada una sola es incompleta.",
+        "El estudio sin fe es más peligroso que la fe sin estudio.",
+        "La fe sin estudio es más valorada por el Señor porque demuestra mayor humildad."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Si la inteligencia adquirida 'se levanta con nosotros en la resurrección', ¿qué implicación tiene eso para la actitud de un estudiante hacia materias que no le gustan?",
+      "options": [
+        "Que solo vale la pena aprender las materias que disfruta porque esas son las que desarrollan dones genuinos.",
+        "Que el aprendizaje de cualquier materia con diligencia es una inversión eterna — no termina al graduarse.",
+        "Que las materias seculares no tienen valor en la resurrección porque pertenecen a esta vida.",
+        "Que el Señor nivelará el aprendizaje de todos en la resurrección sin importar el esfuerzo individual."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "El presidente Nelson es médico y músico — dos campos muy diferentes. ¿Qué habilidad dijo él haber aprendido que es más valiosa que el contenido específico de cualquier materia?",
+      "options": [
+        "La capacidad de memorizar grandes cantidades de información con precisión.",
+        "La habilidad de aprender a aprender — abordar cualquier tema nuevo con método, curiosidad y perseverancia.",
+        "La disciplina de estudiar más horas que los demás sin cansarse.",
+        "La capacidad de enseñar lo que sabe a otras personas de manera efectiva."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Tomás odia matemáticas y dice que no las necesitará nunca. Según D&C 130:18–19, ¿qué argumento del evangelio le daría más perspectiva sobre ese razonamiento?",
+      "options": [
+        "Que el Señor le dará matemáticas en la resurrección si las necesita para Su obra.",
+        "Que la inteligencia adquirida con diligencia y obediencia se lleva a la otra vida — incluso lo que hoy parece inútil puede tener valor eterno que todavía no ve.",
+        "Que las matemáticas son necesarias para administrar el dinero en la vida adulta.",
+        "Que si el presidente Nelson estudió medicina siendo músico, Tomás también puede aprender lo que no le gusta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Camila estudia mucho para los exámenes pero nunca ora antes de estudiar ni pide al Señor que ilumine su comprensión. Según D&C 88:118, ¿qué dimensión del estudio está omitiendo?",
+      "options": [
+        "La dimensión social — no estudia en grupo y eso limita su aprendizaje.",
+        "La dimensión formal — necesita un llamamiento de la Iglesia para que su estudio tenga valor espiritual.",
+        "La dimensión de la fe — está estudiando 'con el estudio' pero sin 'la fe' que el Señor pone junto al estudio como condición.",
+        "La dimensión doctrinal — necesita leer las Escrituras además de sus materias para que el estudio sea completo."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "D&C 88:118 (estudiar con estudio Y fe) y D&C 130:18–19 (la inteligencia se va con nosotros) juntos forman una visión completa de la educación. ¿Cuál es el principio unificador de esas dos enseñanzas?",
+      "options": [
+        "Que la educación académica es más importante que la educación espiritual en esta etapa de la vida.",
+        "Que el Señor recompensa el estudio académico con bendiciones económicas en esta vida.",
+        "Que la educación formal y la fe espiritual son dos caminos paralelos que nunca se cruzan.",
+        "Que el aprendizaje es una responsabilidad eterna y espiritual — no termina en la escuela ni en esta vida — y la fe lo transforma de obligación en mayordomía."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

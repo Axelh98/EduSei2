@@ -1,0 +1,122 @@
+{
+  "id": "35-dc-20-1-36",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Un amigo te pregunta: '¿Para qué necesitás ir a la iglesia? ¿No podés tener una relación con Dios sin organismos ni rituales?' Es una pregunta honesta que mucha gente hace hoy.",
+        "El 6 de abril de 1830, once días después de publicarse el Libro de Mormón, La Iglesia de Jesucristo de los Santos de los Últimos Días fue organizada en la casa de Peter y Mary Whitmer en Fayette, Nueva York. Ese día el Señor reveló D&C 20, conocida como los 'Artículos y Convenios de la Iglesia'. Esta revelación no fue obra de hombres; fue la constitución divina de la Iglesia restaurada.",
+        "Los versículos 1–36 establecen verdades fundamentales: la naturaleza de Dios, la realidad de la Caída, la necesidad de la Expiación, y el papel del Espíritu Santo. No son reglas inventadas por José Smith; son doctrinas reveladas el mismo día que se organizó la Iglesia. Estudiar estos versículos te da las palabras para responder a la pregunta de tu amigo con convicción real y con fundamento doctrinal."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 20:1–4",
+          "texto": "El alzamiento de la Iglesia de Cristo en estos últimos días, siendo el año mil ochocientos treinta, después del nacimiento de nuestro Señor y Salvador Jesucristo, en el sexto día de abril...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa&id=p1-p4#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 20:17–19",
+          "texto": "Por cuanto él mismo es Dios y existe desde toda la eternidad hasta toda la eternidad: el Gran Yo Soy, que todo lo abarca, que todo lo sabe; y en quien habita todo el poder, toda la gloria y toda la misericordia; lleno de compasión, justicia y verdad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa&id=p17-p19#p17"
+        },
+        {
+          "referencia": "Doctrina y Convenios 20:25–27",
+          "texto": "Que por el motivo de que la transgresión vino sobre el hombre; por tanto, Cristo murió por todos, para que los hombres que crean en su nombre puedan ser rescatados mediante su sangre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa&id=p25-p27#p25"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dallin H. Oaks",
+      "fuente": "\"La necesidad de una Iglesia\", Conferencia General, octubre de 2021",
+      "texto": "A pesar de las buenas obras que se pueden realizar sin una iglesia, la plenitud de la doctrina y sus ordenanzas salvadoras y exaltadoras están disponibles únicamente en la Iglesia Restaurada.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/18oaks?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "D&C 20:1–36 establece que la Iglesia fue fundada por revelación divina, no por iniciativa humana. Sus doctrinas centrales son la base sobre la que todo lo demás descansa. La próxima vez que alguien te pregunte para qué sirve pertenecer a una iglesia, tenés la respuesta aquí: la Iglesia es la organización que el Señor estableció para administrar Su evangelio, conferir Sus ordenanzas, y reunir a Su pueblo. No es opcional en el plan de salvación; es parte esencial de él."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Si un amigo te preguntara por qué necesitás pertenecer a una iglesia organizada para tener una relación con Dios, ¿qué le dirías?",
+        "¿Qué verdades sobre Dios identificás en D&C 20:17–19? ¿Cuál te resulta más significativa?",
+        "¿Alguna vez dudaste de la necesidad de la Iglesia en tu vida? ¿Qué te ayudó en ese momento?",
+        "¿Por qué fue importante que el Señor revelara estas doctrinas el mismo día que organizó la Iglesia?",
+        "¿Qué aspecto de la Iglesia valorás más ahora mismo? ¿Cómo podés participar más activamente en él esta semana?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Un amigo te pregunta: '¿Para qué necesitás pertenecer a una iglesia organizada? ¿No podés tener una relación con Dios vos solo?' ¿Qué respuesta te daría D&C 20?",
+      "options": [
+        "Que la Iglesia es opcional pero útil para mantenerse motivado",
+        "Que la Iglesia fue fundada por revelación divina para administrar el evangelio y sus ordenanzas",
+        "Que la Iglesia es un requisito solo para los que quieren llegar al reino celestial",
+        "Que sin la Iglesia no es posible creer en Dios correctamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué verdad sobre Dios enseña D&C 20:17–19 que es fundamental para todo lo demás?",
+      "options": [
+        "Que Dios existe desde toda la eternidad, lo sabe todo, y está lleno de misericordia, justicia y verdad",
+        "Que Dios es un ser abstracto sin forma ni personalidad definida",
+        "Que Dios creó el mundo y luego se alejó para observar sin intervenir",
+        "Que Dios solo habla a través de los textos del Antiguo Testamento"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Alguna vez dudaste de si realmente necesitás pertenecer a la Iglesia para vivir el evangelio? ¿Qué te hizo reconsiderar esa idea o qué todavía te genera preguntas?",
+      "options": [
+        "Ver que personas fuera de la Iglesia también son buenas personas",
+        "La dificultad de asistir a las reuniones cuando hay otras cosas más interesantes",
+        "Entender que las ordenanzas y los convenios requieren una organización con autoridad",
+        "Que nadie en la Iglesia me explica bien por qué es necesaria"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "D&C 20:25–27 dice que 'Cristo murió por todos, para que los hombres que crean en su nombre puedan ser rescatados'. ¿Por qué fue necesaria esa muerte según la lógica doctrinal de esta sección?",
+      "options": [
+        "Para cumplir una profecía del Antiguo Testamento que de otro modo quedaría incompleta",
+        "Porque la transgresión de Adán trajo consecuencias que requerían un rescate externo",
+        "Para demostrar que Dios tenía más poder que las autoridades romanas",
+        "Porque los hombres eran demasiado débiles para hacer el bien sin ese ejemplo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué aspecto concreto de la Iglesia valorás más en este momento de tu vida? ¿Cómo podrías participar más activamente en él esta semana?",
+      "options": [
+        "Las actividades sociales porque me ayudan a hacer amigos",
+        "La Santa Cena, los llamamientos o el Seminario — y hacer algo concreto con eso esta semana",
+        "Los discursos de la Conferencia General aunque no los aplique a mi vida",
+        "Asistir sin involucrarme demasiado para mantener mi independencia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "D&C 20 fue revelada el mismo día que se organizó la Iglesia. ¿Por qué es significativo que el Señor estableciera las doctrinas antes de organizar la estructura?",
+      "options": [
+        "Para que nadie pudiera cambiar las reglas después de la organización",
+        "Porque demuestra que la Iglesia está fundada en doctrinas reveladas, no en opiniones humanas",
+        "Para que José Smith tuviera respaldo legal ante las autoridades del gobierno",
+        "Porque las doctrinas son más fáciles de revelar que la estructura organizacional"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

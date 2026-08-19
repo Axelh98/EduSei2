@@ -1,0 +1,50 @@
+{
+  "id": "nt-s2-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué es peligroso buscar respuestas espirituales en internet según el élder Andersen?",
+      "options": [
+        "Porque internet no funciona.",
+        "Porque la información no pasa por un \"filtro de verdad\".",
+        "Porque es mejor no usar tecnología.",
+        "Porque solo hay mentiras."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué son las \"fuentes divinamente señaladas\"?",
+      "options": [
+        "Cualquier libro de la biblioteca.",
+        "Fuentes que Dios ha proporcionado, como Escrituras y profetas.",
+        "Comentarios en redes sociales.",
+        "Opiniones de famosos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué advirtió el élder Maxwell sobre entrevistar a quienes abandonaron la Iglesia?",
+      "options": [
+        "Que es la mejor forma de saber la verdad.",
+        "Que es como entrevistar a Judas para comprender a Jesús.",
+        "Que son fuentes neutrales.",
+        "Que tienen la visión más clara."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué debemos hacer si no recibimos una respuesta inmediata?",
+      "options": [
+        "Abandonar la fe.",
+        "Procurar seguridad y valor para seguir adelante con lo que ya sabemos.",
+        "Dejar de estudiar.",
+        "Buscar en fuentes oscuras."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

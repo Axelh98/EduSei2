@@ -1,0 +1,258 @@
+{
+  "categoryId": "religion-225",
+  "layoutType": "flat",
+  "lessons": [
+    {
+      "id": "r225-l01",
+      "title": "El preludio de la Restauración",
+      "description": "El contexto histórico y espiritual que preparó el mundo para la Restauración del Evangelio.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-1-class-preparation-material-prelude-to-the-restoration?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r225-l02",
+      "title": "La Primera Visión",
+      "description": "La visita del Padre Celestial y Jesucristo al joven José Smith en la arboleda sagrada.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-2-class-preparation-material-the-first-vision?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r225-l03",
+      "title": "Cómo adquirir conocimiento espiritual",
+      "description": "Principios y procesos para obtener conocimiento por medio del Espíritu Santo.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-3-class-preparation-material-acquiring-spiritual-knowledge?lang=spa",
+      "questionCount": 4,
+      "hasStudy": true
+    },
+    {
+      "id": "r225-l04",
+      "title": "La doctrina de la revelación",
+      "description": "Cómo Dios comunica Su voluntad a Sus hijos mediante la revelación personal y profética.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-4-class-preparation-material-the-doctrine-of-revelation?lang=spa",
+      "questionCount": 4,
+      "hasStudy": true
+    },
+    {
+      "id": "r225-l05",
+      "title": "La salida a luz del Libro de Mormón",
+      "description": "La traducción y publicación del Libro de Mormón mediante el don y el poder de Dios.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-5-class-preparation-material-the-coming-forth-of-the-book-of-mormon?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r225-l06",
+      "title": "El Libro de Mormón — La piedra clave de nuestra religión",
+      "description": "El papel central del Libro de Mormón como testimonio de Jesucristo y fundamento de la fe restaurada.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-6-class-preparation-material-the-book-of-mormon-the-keystone-of-our-religion?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l07",
+      "title": "La restauración del sacerdocio",
+      "description": "El restablecimiento del sacerdocio de Aarón y de Melquisedec mediante mensajeros celestiales.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-7-class-preparation-material-restoration-of-the-priesthood?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l08",
+      "title": "La organización de la Iglesia de Jesucristo",
+      "description": "El establecimiento formal de la Iglesia restaurada el 6 de abril de 1830.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-8-class-preparation-material-the-organization-of-the-church-of-jesus-christ?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l09",
+      "title": "Jesucristo, nuestro divino Redentor",
+      "description": "La naturaleza divina de Jesucristo y Su papel central como Redentor de la humanidad.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-9-class-preparation-material-jesus-christ-our-divine-redeemer?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l10",
+      "title": "Seguir a los profetas vivientes del Señor",
+      "description": "La importancia de escuchar y obedecer la voz de los profetas y apóstoles vivientes.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-10-class-preparation-material-following-the-lords-living-prophets?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l11",
+      "title": "El recogimiento de Israel",
+      "description": "El cumplimiento de las profecías sobre el recogimiento de Israel en los últimos días.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-11-class-preparation-material-the-gathering-of-israel?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l12",
+      "title": "El establecimiento de la causa de Sion",
+      "description": "El mandamiento de edificar Sion y crear comunidades consagradas centradas en Cristo.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-12-class-preparation-material-establishing-the-cause-of-zion?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l13",
+      "title": "Las leyes de Dios",
+      "description": "Los principios y mandamientos que Dios ha dado a Su pueblo para guiar su vida.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-13-class-preparation-material-the-laws-of-god?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l14",
+      "title": "El Señor revela Escrituras adicionales",
+      "description": "Las revelaciones modernas que ampliaron el canon de las Escrituras en la Restauración.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-14-class-preparation-material-the-lord-reveals-additional-scripture?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l15",
+      "title": "El plan del Padre Celestial y nuestro potencial divino",
+      "description": "El plan de salvación y la doctrina de la exaltación y el potencial divino del ser humano.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-15-class-preparation-material-heavenly-fathers-plan-and-our-divine-potential?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l16",
+      "title": "El Templo de Kirtland y las llaves del sacerdocio",
+      "description": "La dedicación del Templo de Kirtland y la restauración de llaves del sacerdocio por Moisés, Elías y Elías.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-16-class-preparation-material-the-kirtland-temple-and-priesthood-keys?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l17",
+      "title": "Permanecer fieles en medio de la oposición y la aflicción",
+      "description": "Lecciones de los primeros santos que mantuvieron su fe a pesar de persecuciones y dificultades.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-17-class-preparation-material-remaining-faithful-amid-opposition-and-affliction?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l18",
+      "title": "Las mujeres Santos de los Últimos Días y la Sociedad de Socorro",
+      "description": "El papel de las mujeres en la Iglesia y la fundación y misión de la Sociedad de Socorro.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-18-class-preparation-material-latter-day-saint-women-and-the-relief-society?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l19",
+      "title": "La redención de los muertos",
+      "description": "La doctrina del trabajo vicario por los muertos y la salvación de las generaciones pasadas.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-19-class-preparation-material-redemption-of-the-dead?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l20",
+      "title": "Las ordenanzas y la adoración en el templo",
+      "description": "Las ordenanzas sagradas del templo y su significado en el plan de salvación.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-20-class-preparation-material-temple-ordinances-and-worship?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l21",
+      "title": "La doctrina del matrimonio eterno y la familia",
+      "description": "El sellamiento eterno y el rol central de la familia en el plan del Padre Celestial.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-21-class-preparation-material-the-doctrine-of-eternal-marriage-and-family?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l22",
+      "title": "El matrimonio plural",
+      "description": "El contexto histórico y doctrinal del matrimonio plural practicado en la Iglesia primitiva restaurada.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-22-class-preparation-material-plural-marriage?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l23",
+      "title": "La misión profética y el martirio de José Smith",
+      "description": "Los logros del profeta José Smith y su muerte como mártir en Carthage, Illinois.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-23-class-preparation-material-the-prophetic-mission-and-the-martyrdom-of-joseph-smith?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l24",
+      "title": "El profeta José Smith, un vidente escogido",
+      "description": "El llamamiento y la misión única de José Smith como profeta, vidente y revelador de los últimos días.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-24-class-preparation-material-the-prophet-joseph-smith-a-choice-seer?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l25",
+      "title": "La sucesión en la Presidencia y el éxodo hacia el oeste",
+      "description": "La transición del liderazgo a Brigham Young y la migración de los santos al Valle del Lago Salado.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-25-class-preparation-material-succession-in-the-presidency-and-the-trek-west?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l26",
+      "title": "La Iglesia en el oeste",
+      "description": "El establecimiento y crecimiento de la Iglesia en Utah y su expansión internacional.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-26-class-preparation-material-the-church-in-the-west?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l27",
+      "title": "La revelación sobre el sacerdocio",
+      "description": "La revelación de 1978 que extendió las bendiciones del sacerdocio a todos los miembros dignos.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-27-class-preparation-material-the-revelation-on-the-priesthood?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    },
+    {
+      "id": "r225-l28",
+      "title": "El Señor está apresurando Su obra",
+      "description": "El crecimiento global de la Iglesia y el papel de cada miembro en llevar adelante la obra del Señor.",
+      "type": "Religión 225",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-28-class-preparation-material-the-lord-is-hastening-his-work?lang=spa",
+      "questionCount": 0,
+      "hasStudy": false
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "195_hacer_senor_aprendizaje",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El evangelio no vive separado del estudio académico — son parte de la misma mayordomía. El Señor prometió en D&C 9:7–8 que si el proceso correcto de estudio se combina con la consulta a Él, Él confirmará la verdad en el corazón. Este principio aplica a los exámenes, los proyectos difíciles, las decisiones académicas y la búsqueda de carrera. Esta lección enseña a los jóvenes a incorporar la oración en el estudio, a buscar inspiración antes de una evaluación importante, y a reconocer al Señor como fuente de toda sabiduría. No es magia ni un reemplazo del esfuerzo — es la integración de la fe y la diligencia que el Señor describió en D&C 88:118: buscar conocimiento 'con el estudio y también con la fe'."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 9:7–8",
+          "texto": "He aquí, te digo que debes estudiar esto en tu mente; luego debes preguntarme si es correcto, y si es correcto, yo haré que tu pecho arda dentro de ti; por lo tanto, lo sentirás que es correcto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=spa&id=p7-p8#p7"
+        },
+        {
+          "referencia": "Santiago 1:5",
+          "texto": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa&id=p5#p5"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "«The Will to Prepare», devocional de BYU–Pathway Worldwide, 12 de noviembre de 2019",
+      "texto": "Tienes que recordar siempre que no estás solo en esto. Hay personas que te aman y oran por ti. Tal vez haya algunos escépticos que te digan que no puedes hacerlo o que, por alguna razón, no quieren que tengas éxito. Pero no pueden detenerte, y hay más personas que te apoyan. Lo más importante es que tu Padre Celestial y tu Salvador te conocen, pueden brindarte ayuda celestial, y lo harán. Haz que Dios sea tu compañero.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/591-involving-the-lord-in-your-learning?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Integrar al Señor en el aprendizaje académico no es dejar todo en Sus manos sino invitarlo a participar activamente en algo que vos también hacés con diligencia. El patrón de D&C 9:7–8 es claro: estudiá primero, luego preguntale. El esfuerzo va primero, la fe lo acompaña. Cuando hacés eso con consistencia, tu aprendizaje tiene una dimensión espiritual que el estudio sin fe nunca puede alcanzar."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez oraste antes de estudiar para un examen o proyecto difícil? ¿Qué pasó?",
+        "¿Cuál es la diferencia entre pedirle a Dios que haga el trabajo por vos y pedirle que amplíe tu capacidad de aprender?",
+        "¿Cómo podrías incorporar una oración breve y específica antes de cada sesión de estudio esta semana?",
+        "¿En qué materia o desafío académico actual necesitás más ayuda del Señor? ¿Se la pediste?",
+        "¿Qué cambiaría en tu rendimiento académico si vivieras D&C 88:118 — buscar conocimiento 'con el estudio y también con la fe' — de manera consistente?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 9:7–8 describe el proceso de recibir confirmación del Señor sobre algo. ¿Qué paso debe preceder obligatoriamente a preguntar al Señor, según esos versículos?",
+      "options": [
+        "Estudiar el asunto en la mente primero — el Señor confirma el esfuerzo previo, no lo reemplaza.",
+        "Ayunar durante al menos un día antes de hacer la pregunta.",
+        "Consultar con el obispo antes de llevar la pregunta directamente al Señor.",
+        "Memorizar los versículos relevantes del Dominio de la Doctrina sobre el tema."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Santiago 1:5 promete que Dios dará sabiduría a quien la pida. ¿Qué dos características del Señor describe ese versículo al dar esa sabiduría?",
+      "options": [
+        "Con condiciones estrictas y con registro de la petición.",
+        "Con abundancia y sin reproche.",
+        "Con lentitud y con consideración de méritos previos.",
+        "Con suficiencia y con plazo determinado."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "D&C 88:118 pide buscar conocimiento 'con el estudio y también con la fe'. ¿Qué función específica cumple la oración dentro de ese proceso combinado — no reemplaza al estudio, sino que hace algo diferente?",
+      "options": [
+        "Garantiza que el alumno recuerde perfectamente lo que estudió.",
+        "Pide que el Señor realice el trabajo de entendimiento en lugar del alumno.",
+        "Abre la mente para recibir comprensión que el esfuerzo humano solo no puede generar — amplifica la capacidad, no la reemplaza.",
+        "Es una señal formal de gratitud que da validez espiritual al estudio académico."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "El élder Bednar enseñó que el Señor 'amplifica nuestra capacidad cuando lo reconocemos como fuente de toda sabiduría'. ¿Por qué amplificar es diferente a reemplazar el esfuerzo?",
+      "options": [
+        "No hay diferencia real — cualquier ayuda del Señor termina reemplazando el trabajo humano.",
+        "Amplificar significa que el esfuerzo propio sigue siendo necesario y el Señor lo multiplica; reemplazar significaría que el esfuerzo no importa.",
+        "Amplificar aplica al estudio académico; reemplazar aplica al estudio espiritual.",
+        "La diferencia es solo semántica — el resultado final es el mismo en ambos casos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Tomás reza antes de cada examen pidiendo que le 'vaya bien' pero estudia muy poco durante la semana. Según D&C 9:7–8, ¿qué parte del proceso está invirtiendo Tomás?",
+      "options": [
+        "Está haciendo exactamente lo correcto — primero la fe, después el estudio.",
+        "Está pidiendo sin haber estudiado primero — el Señor confirma el esfuerzo previo, no lo suple cuando se omite.",
+        "No hay problema con su proceso siempre que ore con suficiente fe.",
+        "Debería orar después del examen para agradecer en lugar de pedir antes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Lucía estudia mucho pero nunca ora antes de comenzar una sesión de estudio. Tiene buenas notas pero siente que el aprendizaje se le olvida rápido. Según Santiago 1:5, ¿qué podría cambiar si incorporara ese paso?",
+      "options": [
+        "Sus calificaciones subirían automáticamente porque el Señor intervendría en los exámenes.",
+        "Recibiría sabiduría — no solo información que se memoriza — que le ayudaría a integrar lo aprendido de manera más duradera.",
+        "Nada cambiaría porque la oración no tiene efecto en procesos académicos.",
+        "El Señor le mostraría qué temas estudiar para que no tenga que revisar todo el material."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "D&C 9:7–8 (estudiar, luego preguntar) y Santiago 1:5 (pedir sabiduría sin reproche) juntos describen un proceso. ¿Cuál es el principio completo sobre cómo trabajan juntos el esfuerzo humano y el Señor en el aprendizaje?",
+      "options": [
+        "Que el Señor hace el trabajo real y el esfuerzo humano es solo una señal de buena voluntad.",
+        "Que la fe elimina la necesidad de esfuerzo sostenido cuando la petición es sincera.",
+        "Que el Señor solo ayuda cuando el alumno llega al límite de sus capacidades, no antes.",
+        "Que el esfuerzo va primero y el Señor lo confirma y amplifica — no es esfuerzo sin fe ni fe sin esfuerzo, sino los dos en secuencia."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

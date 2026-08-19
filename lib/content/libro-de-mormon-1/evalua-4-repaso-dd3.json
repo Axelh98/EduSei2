@@ -1,0 +1,151 @@
+{
+  "id": "evalua-4-repaso-dd3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Padre Celestial desea que reflexionemos regularmente sobre nuestro crecimiento espiritual. Evaluar nuestro aprendizaje nos ayuda a reconocer cómo el Evangelio está influyendo en nuestros pensamientos, sentimientos y acciones. Esta lección invita a los alumnos a repasar doctrinas y principios aprendidos recientemente en el Libro de Mormón y en los pasajes de Dominio de la doctrina. El objetivo no es solamente recordar información, sino fortalecer la conversión a Jesucristo. Cuando meditamos en lo que hemos aprendido y en cómo estamos cambiando, permitimos que el Espíritu Santo nos enseñe más profundamente. El repaso doctrinal también fortalece nuestra capacidad para explicar el Evangelio y defender la verdad. Esta lección ayuda a los estudiantes a reconocer evidencia del amor de Dios y del crecimiento espiritual en sus vidas."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 5:14",
+          "texto": "¿Habéis experimentado este potente cambio en vuestros corazones?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p14#p14"
+        },
+        {
+          "referencia": "2 Nefi 32:3",
+          "texto": "Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Helamán 5:12",
+          "texto": "Debéis edificar vuestro fundamento sobre la roca de nuestro Redentor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dale G. Renlund",
+      "fuente": "Liahona, mayo de 2015, pág. 57 (discurso \"Los Santos de los Últimos Días siguen intentándolo\")",
+      "texto": "Mi invitación a todos nosotros es que evaluemos nuestra vida, nos arrepintamos y sigamos intentándolo. […] Conforme cambiemos, descubriremos que en verdad a Dios le importa más quiénes somos y en quienes nos estamos convirtiendo, que en quienes fuimos alguna vez.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/04/latter-day-saints-keep-on-trying?lang=spa&id=p20#p20"
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidenta Bonnie H. Cordon",
+      "fuente": "Liahona, noviembre de 2021, pág. 11 (discurso \"Venir a Cristo y no venir solos\")",
+      "texto": "Nuestro propósito eterno es venir a Cristo y unirnos activamente a Él en Su gran obra.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/13cordon?lang=spa&id=p35#p35"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Evaluar nuestro aprendizaje espiritual nos ayuda a reconocer cómo el Señor está obrando en nuestra vida. El Evangelio de Jesucristo no fue dado solamente para aumentar nuestro conocimiento, sino para transformar nuestro corazón. Al repasar doctrinas y principios, fortalecemos nuestra fe y recordamos las verdades que el Espíritu nos ha confirmado. También aprendemos que el crecimiento espiritual ocurre gradualmente mediante la obediencia constante y la reflexión sincera. Jesucristo desea que continuemos aprendiendo, arrepintiéndonos y acercándonos a Él cada día."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué doctrina reciente ha fortalecido más tu fe en Jesucristo?",
+        "¿Cómo has visto crecimiento espiritual en tu vida recientemente?",
+        "¿Por qué es importante evaluar nuestro progreso espiritual?",
+        "¿Qué principio del Evangelio necesitas aplicar más plenamente?",
+        "¿Cómo puede el repaso doctrinal ayudarte en momentos de dificultad?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué es importante la autoevaluación espiritual?",
+      "type": "multiple",
+      "options": [
+        "Para compararnos favorablemente con otros miembros de la clase",
+        "Para sentirnos satisfechos con lo que ya hemos logrado",
+        "Para cumplir un requisito formal del programa de Seminario",
+        "Para identificar con honestidad las áreas donde necesitamos mejorar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La autoevaluación nos ayuda a identificar con honestidad las áreas donde necesitamos mejorar."
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el valor de repasar constantemente los pasajes de dominio?",
+      "type": "multiple",
+      "options": [
+        "Para tenerlos disponibles cuando el Espíritu los traiga a nuestra memoria",
+        "Para memorizarlos solo antes de un examen importante",
+        "Para impresionar a otros con nuestra capacidad de memoria",
+        "Para tener algo que decir cuando alguien nos pregunte"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Repasarlos constantemente nos permite tenerlos disponibles cuando el Espíritu los traiga a la memoria."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué temas principales hemos visto en Mosíah hasta ahora?",
+      "type": "multiple",
+      "options": [
+        "Solamente relatos de guerras y conquistas militares",
+        "El cambio de corazón, convenios, servicio y profecías de Cristo",
+        "Únicamente genealogías y listas de descendientes",
+        "Principalmente leyes civiles y sistemas de gobierno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hemos visto el cambio de corazón, los convenios, el servicio y las profecías de Cristo."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué aprendemos del contraste entre el rey Benjamín y el rey Noé?",
+      "type": "multiple",
+      "options": [
+        "Que ambos reyes gobernaron de manera prácticamente idéntica",
+        "Que el poder político siempre corrompe a cualquier líder",
+        "Que la riqueza material determina la calidad de un gobernante",
+        "Que el liderazgo justo bendice al pueblo mientras que el liderazgo inicuo lo destruye"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El contraste muestra que el liderazgo justo bendice al pueblo, mientras que el inicuo lo destruye."
+    },
+    {
+      "id": 5,
+      "question": "Bruno siente que no ha avanzado nada espiritualmente este año. ¿Qué le sugerirías basándote en el propósito de la autoevaluación?",
+      "type": "multiple",
+      "options": [
+        "Que deje de intentarlo porque claramente no está funcionando",
+        "Revisar con honestidad en qué áreas ha crecido y cuáles necesita seguir trabajando",
+        "Compararse con otros compañeros de su clase de Seminario",
+        "Ignorar el tema hasta el próximo año"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La autoevaluación honesta ayuda a identificar tanto el crecimiento logrado como las áreas por mejorar."
+    },
+    {
+      "id": 6,
+      "question": "Victoria quiere compartir el evangelio pero no sabe por dónde empezar. ¿Qué lección de los hijos de Mosíah podría aplicar?",
+      "type": "multiple",
+      "options": [
+        "Esperar a sentirse completamente preparada antes de intentar cualquier cosa",
+        "Buscar convencer a otros usando solo argumentos lógicos",
+        "Prepararse espiritualmente primero y luego servir con humildad a quienes enseña",
+        "Copiar exactamente el método que usó Ammón sin adaptarlo"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 17-26",
+      "explanation": "El ejemplo de los hijos de Mosíah muestra la importancia de prepararse espiritualmente y servir con humildad."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué conecta el contraste entre el rey Benjamín y el rey Noé con la historia de conversión de los hijos de Mosíah?",
+      "type": "multiple",
+      "options": [
+        "No tienen ninguna relación entre sí",
+        "Ambos muestran que las decisiones y el corazón de una persona determinan el fruto de su influencia",
+        "Solo el ejemplo del rey Benjamín es relevante para la conversión",
+        "Muestran que el liderazgo político no tiene relación con lo espiritual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ambos relatos muestran que las decisiones y el estado del corazón determinan el fruto de la influencia de una persona."
+    }
+  ]
+}

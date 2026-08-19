@@ -1,0 +1,124 @@
+{
+  "id": "210-plantilla-lideres",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta lección proporciona herramientas concretas para estudiar los discursos de los líderes de la Iglesia de manera profunda y sistemática. A diferencia de escuchar o leer pasivamente, el estudio activo de un discurso implica identificar el principio central que enseña, las promesas y condiciones que contiene, las Escrituras en que se apoya, y la acción personal que sugiere. Esta plantilla de estudio convierte cualquier discurso de Conferencia General o de un líder de la Iglesia en una fuente de revelación personal activa. Para los jóvenes que consumen mucho contenido pero rara vez lo procesan en profundidad, estas herramientas son especialmente valiosas — tanto para el estudio espiritual como para el pensamiento crítico en general."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 21:4–5",
+          "texto": "Por lo tanto, presta atención a todas sus palabras y mandamientos que él te dará, y así como recibes sus palabras, recíbelas como si vinieran de mi propia boca, en toda paciencia y fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=spa&id=p4-p5#p4"
+        },
+        {
+          "referencia": "Doctrina y Convenios 1:38",
+          "texto": "Lo que yo el Señor he hablado, lo he hablado, y no me disculpo; y aunque los cielos y la tierra pasen, mi palabra no pasará, sino que todos serán cumplidos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=spa&id=p38#p38"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "«El profeta de Dios», Liahona, mayo de 2018, pág. 26",
+      "texto": "Un profeta no se interpone entre ustedes y el Salvador. Más bien, permanece a su lado y señala el camino hacia el Salvador.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Tener una plantilla de estudio para los discursos de los líderes transforma la Conferencia General de un evento semestral en una fuente continua de revelación personal. El principio, las promesas, las condiciones, la acción personal: estas cuatro categorías convierten cualquier discurso en un plan de vida. Esta semana, elegí un discurso reciente y aplicá la plantilla — las cuatro preguntas. Lo que encontrés puede sorprenderte."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál es la diferencia entre escuchar un discurso de la Conferencia General y estudiarlo con una plantilla?",
+        "Elegí un discurso de la última Conferencia General. ¿Cuál es su principio central? ¿Qué promesa contiene? ¿Qué acción personal sugiere para vos?",
+        "¿Qué discurso de un líder de la Iglesia recordás de los últimos años que haya cambiado algo en vos? ¿Por qué ese?",
+        "¿Cómo podrías incorporar el estudio de discursos de líderes en tu rutina semanal de estudio del evangelio?",
+        "¿Por qué dice el Señor en D&C 21:4–5 que las palabras del profeta deben recibirse 'como si vinieran de su propia boca'?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 21:4–5 describe cómo deben recibirse las palabras del profeta. ¿Cuál es la comparación exacta que usa el Señor?",
+      "options": [
+        "Como si vinieran de la propia boca del Señor, con toda paciencia y fe.",
+        "Como instrucciones de un maestro sabio cuya experiencia merece respeto.",
+        "Como sugerencias inspiradas que cada miembro puede aplicar según su criterio.",
+        "Como revelación secundaria de menor autoridad que las Escrituras canónicas."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Al estudiar un discurso de la Conferencia General con la plantilla de la lección, ¿cuáles son las cuatro categorías que se deben identificar?",
+      "options": [
+        "El principio central, las Escrituras usadas, las promesas y condiciones, y la acción personal concreta.",
+        "El tema general, la historia personal del líder, las estadísticas de la Iglesia, y la aplicación global.",
+        "El título del discurso, el nombre del orador, la duración, y el idioma original.",
+        "La doctrina teórica, la historia eclesiástica, la profecía futura, y el consejo práctico."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "El presidente Benson enseñó que 'el profeta viviente es más vital que el profeta muerto'. ¿Qué significa eso en la práctica — no que los profetas del pasado no importan, sino algo diferente?",
+      "options": [
+        "Que los discursos actuales reemplazan y anulan las Escrituras canónicas.",
+        "Que los profetas del pasado se equivocaban con más frecuencia que el profeta actual.",
+        "Que el profeta viviente aplica las verdades eternas a los desafíos específicos del tiempo en que vivimos — lo que ningún profeta del pasado puede hacer por nosotros hoy.",
+        "Que solo las declaraciones oficiales del profeta tienen valor, no los discursos de los apóstoles."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la diferencia entre escuchar un discurso de la Conferencia General y estudiarlo activamente con la plantilla de la lección?",
+      "options": [
+        "No hay diferencia real si uno presta atención durante la transmisión en vivo.",
+        "El estudio activo transforma el discurso de un mensaje recibido pasivamente a una fuente de revelación personal — identificar principio, promesas, condiciones y acción produce aplicación concreta.",
+        "La diferencia es solo de tiempo — el estudio posterior toma más horas pero produce los mismos resultados.",
+        "El estudio activo solo lo hacen los maestros; los alumnos solo necesitan escuchar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Lucía escuchó la última Conferencia General completa pero dos semanas después no recuerda ningún mensaje específico ni tomó ninguna acción. Según la plantilla de la lección, ¿qué paso omitió?",
+      "options": [
+        "No tomó suficientes notas durante la transmisión en vivo.",
+        "No compartió los discursos en sus redes sociales inmediatamente después.",
+        "No volvió a los discursos después, no identificó el principio central ni decidió una acción concreta.",
+        "No leyó los discursos en inglés para entenderlos con más precisión doctrinal."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Agustín dice que los consejos del profeta 'son muy generales y no aplican a mi vida específica'. Según D&C 21:4–5, ¿cuál es el problema real en esa actitud?",
+      "options": [
+        "Que el profeta debería dar consejería individual para que sus mensajes sean más útiles.",
+        "Que tiene razón y debería buscar orientación en fuentes más específicas a su situación.",
+        "Que Agustín recibe las palabras del profeta con filtro personal en lugar de con paciencia y fe — y eso impide que el Espíritu le muestre la aplicación personal.",
+        "Que los discursos de la Conferencia General son demasiado formales y deberían ser más conversacionales."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Amós 3:7 ('el Señor no hace nada sin revelar sus secretos a sus profetas') y D&C 21:4–5 ('recibid sus palabras como de mi boca') forman juntos un principio. ¿Cuál es?",
+      "options": [
+        "Que el profeta es infalible en todas sus declaraciones públicas y privadas.",
+        "Que el Señor diseñó un canal de comunicación activo: habla al profeta para hablar a Sus hijos — y el discípulo que recibe con fe cierra ese circuito de revelación continua.",
+        "Que solo los secretos doctrinales se revelan a través del profeta; los asuntos personales llegan directamente.",
+        "Que D&C 21 y Amós 3 describen épocas diferentes y no deben leerse juntos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

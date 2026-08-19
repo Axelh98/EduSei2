@@ -1,0 +1,83 @@
+{
+  "id": "bloque-at-5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué profecía se encuentra en Isaías 29?",
+      "options": [
+        "Un libro sellado que no se puede leer",
+        "La caída de Babilonia",
+        "El regreso de Israel de Egipto",
+        "La destrucción del templo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué promesa hace Jehová en Isaías 49?",
+      "options": [
+        "Nunca olvidará a su pueblo",
+        "Destruirá a todas las naciones",
+        "Construirá un nuevo templo",
+        "Nombrará un nuevo rey"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo describe Isaías al Siervo sufriente en Isaías 53?",
+      "options": [
+        "Despreciado y desechado entre los hombres",
+        "Un rey glorioso",
+        "Un guerrero poderoso",
+        "Un sacerdote rico"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué llevó sobre sí el Siervo sufriente según Isaías 53?",
+      "options": [
+        "Nuestras enfermedades y pecados",
+        "Las riquezas de las naciones",
+        "El poder del mundo",
+        "La gloria de Israel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseña Isaías 58 sobre el ayuno verdadero?",
+      "options": [
+        "Compartir el pan con el hambriento",
+        "Guardar silencio todo el día",
+        "Encender incienso en el templo",
+        "Vestirse de saco y ceniza"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Qué bendición promete Jehová en Isaías 58 a los que ayunan correctamente?",
+      "options": [
+        "Su luz nacerá como el alba",
+        "Recibirán riquezas abundantes",
+        "Serán reyes sobre las naciones",
+        "No tendrán enemigos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Qué anuncia Isaías 61?",
+      "options": [
+        "Buenas nuevas a los pobres",
+        "La caída de Jerusalén",
+        "La destrucción de Egipto",
+        "El regreso de Babilonia"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

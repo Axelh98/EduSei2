@@ -1,0 +1,61 @@
+{
+  "id": "doctrina-y-convenios-111",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Con qué propósito José Smith y otros líderes viajaron a Salem, Massachusetts?",
+      "options": [
+        "Buscar recursos para pagar deudas de la Iglesia",
+        "Predicar el evangelio a los gentiles",
+        "Organizar una nueva estaca",
+        "Traducir escrituras antiguas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Según DyC 111:1–2, ¿qué asegura el Señor acerca de Sus designios?",
+      "options": [
+        "Que Sus propósitos no pueden frustrarse",
+        "Que todo será fácil",
+        "Que no habrá errores humanos",
+        "Que no habrá oposición"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué enseñanza se desprende del resultado del viaje a Salem?",
+      "options": [
+        "El Señor puede cumplir Sus propósitos aun cuando nuestros planes no se cumplan",
+        "Las revelaciones siempre evitan dificultades",
+        "Los profetas nunca enfrentan fracasos",
+        "El esfuerzo humano es innecesario"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué promesa hace el Señor en DyC 111:4–6 respecto a Salem?",
+      "options": [
+        "Que hay personas preparadas para recibir el evangelio",
+        "Que todos se convertirán inmediatamente",
+        "Que la ciudad sería destruida",
+        "Que no habría oposición"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio enseña DyC 111 sobre la fe y la confianza en el Señor?",
+      "options": [
+        "Confiar en el Señor aun cuando no entendamos plenamente Sus caminos",
+        "Actuar solo cuando tengamos certeza absoluta",
+        "Evitar toda incertidumbre",
+        "La fe elimina toda dificultad"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

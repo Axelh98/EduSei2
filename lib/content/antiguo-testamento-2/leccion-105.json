@@ -1,0 +1,56 @@
+{
+  "id": "leccion-105",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué imagen usa el salmista en el Salmo 61 para describir su refugio en el Señor?",
+      "options": [
+        "Una fortaleza inexpugnable en el desierto.",
+        "Una roca más alta que él, donde puede refugiarse.",
+        "Un jardín lleno de agua fresca."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "En el Salmo 73, el salmista casi pierde la fe al ver que los malvados prosperaban. ¿Qué lo hizo recuperar la perspectiva correcta?",
+      "options": [
+        "Ver que los malvados finalmente sufrían desgracias.",
+        "Entrar en el santuario de Dios y entender el fin de los impíos.",
+        "Hablar con el profeta Isaías."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el tema central del Salmo 84?",
+      "options": [
+        "El deseo profundo de estar en la Casa del Señor y la bienaventuranza de quienes la habitan.",
+        "La venganza sobre los enemigos de Israel.",
+        "Las instrucciones para construir el templo."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué verdad sobre Dios se repite en muchos de estos Salmos?",
+      "options": [
+        "Que Dios solo ayuda a los que nunca pecan.",
+        "Que Dios es un refugio, una fortaleza y una fuente de esperanza para quienes confían en Él.",
+        "Que Dios favorece solo a la nación de Israel."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo pueden estos Salmos ayudarte en tu vida personal?",
+      "options": [
+        "Solo son útiles para los músicos que los cantan en el coro.",
+        "Sus palabras expresan emociones universales y nos enseñan cómo llevar al Señor tanto nuestra alegría como nuestro dolor.",
+        "Solo son útiles si los memorizas completamente."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

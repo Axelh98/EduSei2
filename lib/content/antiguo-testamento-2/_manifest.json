@@ -1,0 +1,714 @@
+{
+  "categoryId": "antiguo-testamento-2",
+  "layoutType": "weekly",
+  "weeks": [
+    {
+      "id": 22,
+      "title": "Semana 22",
+      "dateRange": "27 de julio al 1 de agosto",
+      "lessons": [
+        {
+          "id": "leccion-92",
+          "title": "Lección 92: Esdras",
+          "description": "El Señor puede restaurar lo que fue destruido cuando Su pueblo se vuelve a Él con fe y arrepentimiento.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/30-2-kings-ezra-nehemiah/301-ezra?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-93",
+          "title": "Lección 93: Nehemías",
+          "description": "La fe en el Señor y la acción decidida pueden superar la oposición y restaurar lo que fue destruido.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/30-2-kings-ezra-nehemiah/302-nehemiah?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-173",
+          "title": "Lección 173: Nuestra identidad y nuestro propósito divinos",
+          "description": "Comprender quién eres como hijo o hija de Dios cambia la manera en que enfrentas los desafíos y tomas decisiones.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/63-for-the-strength-of-youth/633-divine-identity?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-175",
+          "title": "Lección 175: Las bendiciones patriarcales",
+          "description": "Una bendición patriarcal es una revelación personal inspirada que te orienta, te consuela y te recuerda tu potencial eterno.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/63-for-the-strength-of-youth/635-patriarchal-blessings?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-176",
+          "title": "Lección 176: Aceptar llamamientos y cumplir con ellos",
+          "description": "Aceptar y cumplir fielmente un llamamiento en la Iglesia te acerca al Salvador y te prepara para servir a lo largo de toda tu vida.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/63-for-the-strength-of-youth/636-accepting-and-fulfilling-callings?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Semana 23",
+      "dateRange": "3 al 8 de agosto",
+      "lessons": [
+        {
+          "id": "leccion-94",
+          "title": "Lección 94: Ester, Parte 1",
+          "description": "El Señor coloca a Sus hijos en el lugar correcto en el momento correcto para cumplir Sus propósitos.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/31-esther/311-esther-1?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-95",
+          "title": "Lección 95: Ester, Parte 2",
+          "description": "El valor de defender lo correcto, aunque implique riesgo personal, es una señal de fe genuina en el Señor.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/31-esther/312-esther-2?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-96",
+          "title": "Lección 96: Evalúa tu aprendizaje 6",
+          "description": "Reflexiona sobre tu crecimiento espiritual y evalúa cuánto has avanzado en tu comprensión del Evangelio y tu relación con el Salvador.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/31-esther/313-assess-your-learning-6?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-181",
+          "title": "Lección 181: Desarrollar fortaleza emocional en el Señor",
+          "description": "Jesucristo es la fuente de fortaleza emocional duradera; acudir a Él en las dificultades transforma la manera en que las enfrentamos.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/65-physical-and-emotional-health/651-building-emotional-strength?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Semana 24",
+      "dateRange": "10 al 15 de agosto",
+      "lessons": [
+        {
+          "id": "leccion-97",
+          "title": "Lección 97: Job 1–3; 12–13",
+          "description": "Job nos enseña que se puede mantener la fe y la integridad incluso en medio del sufrimiento más intenso.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/32-job/321-job-1-13?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-98",
+          "title": "Lección 98: Job 14; 19",
+          "description": "Incluso en su mayor oscuridad, Job testificó de la Resurrección y de que el Redentor vive: una esperanza que también es tuya.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/32-job/322-job-14-19?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-99",
+          "title": "Lección 99: Job 21–24; 38–40; 42",
+          "description": "Cuando el Señor respondió a Job desde el torbellino, le recordó que Sus caminos están por encima de nuestra comprensión, y eso fue suficiente.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/32-job/323-job-21-42?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-182",
+          "title": "Lección 182: Cuidar el cuerpo",
+          "description": "Tu cuerpo es un templo sagrado y cuidarlo bien es una forma de honrar el don que Dios te ha dado.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/65-physical-and-emotional-health/652-caring-for-our-physical-body?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-183",
+          "title": "Lección 183: Desarrollar modelos de pensamiento saludables",
+          "description": "La manera en que piensas moldea cómo te sientes y actúas; con la ayuda del Señor puedes transformar patrones de pensamiento negativos.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/65-physical-and-emotional-health/653-developing-healthy-thinking?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Semana 25",
+      "dateRange": "17 al 22 de agosto",
+      "lessons": [
+        {
+          "id": "leccion-101",
+          "title": "Lección 101: Introducción a Salmos, Parte 2",
+          "description": "Los Salmos son poemas y canciones inspirados que expresan el corazón humano ante Dios y que apuntan a Jesucristo.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/33-psalms-1-46/332-intro-to-pslams-2?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-102",
+          "title": "Lección 102: Salmo 23",
+          "description": "El Salmo 23 es una declaración de confianza absoluta en el Señor como el Pastor que guía, protege y restaura a Su pueblo.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/33-psalms-1-46/333-psalm-23?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-103",
+          "title": "Lección 103: Salmo 24",
+          "description": "El Salmo 24 nos invita a reflexionar sobre quién es digno de presentarse ante el Señor y nos señala a Jesucristo como el Rey de gloria.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/33-psalms-1-46/334-psalm-24?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-184",
+          "title": "Lección 184: Manejar el estrés y la ansiedad",
+          "description": "El estrés y la ansiedad son parte de la vida, pero el Señor ofrece herramientas reales para manejarlos con fe y sabiduría.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/65-physical-and-emotional-health/654-managing-stress-and-anxiety?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Semana 26",
+      "dateRange": "24 al 29 de agosto",
+      "lessons": [
+        {
+          "id": "leccion-104",
+          "title": "Lección 104: Salmo 51",
+          "description": "El Salmo 51 es la oración de arrepentimiento más profunda de las Escrituras y nos enseña que Dios puede crear en nosotros un corazón limpio.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/33-psalms-1-46/335-psalm-51?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-105",
+          "title": "Lección 105: Salmos 61–86",
+          "description": "Este grupo de Salmos expresa la experiencia humana completa ante Dios: desde el clamor en la angustia hasta la alabanza más jubilosa.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/34-psalms-49-86/342-psalm-61-86?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-106",
+          "title": "Lección 106: Práctica 7 del Dominio de la doctrina",
+          "description": "Aprende a utilizar las fuentes divinamente señaladas para responder preguntas difíciles con conocimiento espiritual sólido.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/34-psalms-49-86/343-doctrinal-mastery-practice-7?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-185",
+          "title": "Lección 185: Sobrellevar la tristeza y la depresión",
+          "description": "La tristeza y la depresión son experiencias reales que el Señor comprende; hay esperanza y ayuda disponibles para quienes las enfrentan.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/65-physical-and-emotional-health/655-coping-with-anger-and-depression?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-186",
+          "title": "Lección 186: Resolver los sentimientos de ira",
+          "description": "La ira mal manejada puede dañar relaciones y aleja del Espíritu, pero el Señor puede enseñarte a responder con sabiduría y control.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/65-physical-and-emotional-health/656-resolving-feelings-of-anger?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Semana 27",
+      "dateRange": "31 de agosto al 5 de septiembre",
+      "lessons": [
+        {
+          "id": "leccion-107",
+          "title": "Lección 107: Salmo 119",
+          "description": "El Salmo 119 es el más largo de la Biblia y es un himno de amor profundo a la ley del Señor y a Sus mandamientos.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/35-psalms-102-150/351-psalm-119?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-108",
+          "title": "Lección 108: Salmo 136",
+          "description": "El Salmo 136 es un canto de gratitud que recorre la historia de Israel recordando que la misericordia del Señor es eterna.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/35-psalms-102-150/352-psalm-136?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-187",
+          "title": "Lección 187: Desarrollar hábitos saludables",
+          "description": "Los hábitos que construyes hoy formarán la persona que serás mañana; el Señor puede ayudarte a desarrollar hábitos que honren tu cuerpo y espíritu.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/65-physical-and-emotional-health/657-developing-healthy-habits?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-198",
+          "title": "Lección 198: Escoger servir en una misión",
+          "description": "Servir una misión es una decisión de fe que transforma vidas, incluyendo la tuya, y contribuye a la obra del Señor en el mundo.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/68-missionary-preparation/683-choosing-to-serve-a-mission?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-199",
+          "title": "Lección 199: La función del Espíritu Santo en la obra misional",
+          "description": "El Espíritu Santo es el verdadero maestro en la obra misional; los misioneros son instrumentos en Sus manos.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/68-missionary-preparation/684-role-of-the-holy-ghost?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Semana 28",
+      "dateRange": "7 al 12 de septiembre",
+      "lessons": [
+        {
+          "id": "leccion-109",
+          "title": "Lección 109: Introducción a Proverbios",
+          "description": "Proverbios nos invita a buscar la sabiduría divina que viene del Señor, más valiosa que la plata o el oro.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/36-proverbs-ecclesiastes/361-intro-proverbs?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-110",
+          "title": "Lección 110: Proverbios 3",
+          "description": "Proverbios 3 contiene algunas de las instrucciones más hermosas de las Escrituras sobre confiar en el Señor con todo el corazón.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/36-proverbs-ecclesiastes/362-proverbs-3?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-111",
+          "title": "Lección 111: Eclesiastés",
+          "description": "Eclesiastés nos recuerda que solo lo eterno tiene valor verdadero; buscar la felicidad sin Dios es como perseguir el viento.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/36-proverbs-ecclesiastes/363-ecclesiastes?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-112",
+          "title": "Lección 112: Evalúa tu aprendizaje 7",
+          "description": "Reflexiona sobre las verdades eternas aprendidas en los Salmos, Proverbios y Eclesiastés y cómo están cambiando tu vida.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/36-proverbs-ecclesiastes/364-assess-your-learning-7?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-200",
+          "title": "Lección 200: La importancia de la obediencia para traer a otras personas a Cristo",
+          "description": "Tu obediencia personal es una de las herramientas más poderosas para acercar a otras personas a Jesucristo.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/68-missionary-preparation/685-importance-of-obedience?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Semana 29",
+      "dateRange": "14 al 19 de septiembre",
+      "lessons": [
+        {
+          "id": "leccion-113",
+          "title": "Lección 113: Introducción a Isaías",
+          "description": "Isaías es el profeta más citado en todas las Escrituras y sus palabras apuntan directamente a Jesucristo y a los últimos días.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/37-isaiah-1-12/371-intro-to-isaiah?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-114",
+          "title": "Lección 114: Isaías 1",
+          "description": "Isaías 1 presenta el llamado del Señor a un pueblo que se alejó de Él y la promesa de que aunque sus pecados sean rojos como la grana, pueden ser blancos como la nieve.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/37-isaiah-1-12/372-isaiah-1?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-115",
+          "title": "Lección 115: Isaías 5",
+          "description": "A través de la parábola de la viña, Isaías describe el amor del Señor por Su pueblo y el dolor de ver que no da el fruto esperado.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/37-isaiah-1-12/373-isaiah-5?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-116",
+          "title": "Lección 116: Isaías 11–12",
+          "description": "Isaías 11–12 son profecías luminosas sobre el reinado milenial de Jesucristo y el canto de gratitud que entonará el pueblo redimido.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/37-isaiah-1-12/374-isaiah-11-12?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Semana 30",
+      "dateRange": "21 al 26 de septiembre",
+      "lessons": [
+        {
+          "id": "leccion-117",
+          "title": "Lección 117: Isaías 25",
+          "description": "Isaías 25 es un canto de alabanza que mira hacia el futuro glorioso cuando el Señor destruirá la muerte para siempre y enjugará toda lágrima.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/38-isaiah-13-35/381-isaiah-25?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-118",
+          "title": "Lección 118: Isaías 29",
+          "description": "Isaías 29 profetiza tanto la apostasía como la Restauración, incluyendo referencias sorprendentes a un libro sellado que saldría de la tierra.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/38-isaiah-13-35/382-isaiah-29?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-207",
+          "title": "Lección 207: Plantilla para enseñar los mensajes de los líderes de la Iglesia",
+          "description": "Aprender a enseñar los mensajes de los líderes de la Iglesia te ayuda a compartir verdades eternas con claridad, poder y por el Espíritu.",
+          "type": "Especial",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/70-teachings-of-church-leaders/703-template-teachings-of-church-leaders?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-208",
+          "title": "Lección 208: \"Juventud de Israel\"",
+          "description": "Como joven de la Iglesia en los últimos días, eres parte de una generación escogida con un papel único en la obra del Señor.",
+          "type": "Especial",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/70-teachings-of-church-leaders/704-hope-of-israel?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Semana 31",
+      "dateRange": "28 de septiembre al 3 de octubre",
+      "lessons": [
+        {
+          "id": "leccion-119",
+          "title": "Lección 119: Isaías 40–43",
+          "description": "Isaías 40–43 contienen algunas de las promesas más reconfortantes de toda la Biblia sobre el poder y el amor del Señor por Su pueblo.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/39-isaiah-40-49/391-isaiah-40-43?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-120",
+          "title": "Lección 120: Isaías 44–47",
+          "description": "Isaías proclama que el Señor es el único Dios verdadero, el primero y el último, y que los ídolos no pueden salvar a nadie.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/39-isaiah-40-49/392-isaiah-44-47?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-121",
+          "title": "Lección 121: Isaías 49",
+          "description": "Isaías 49 contiene una de las promesas más tiernas de las Escrituras: aunque una madre olvide a su hijo, el Señor nunca te olvidará.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/39-isaiah-40-49/393-isaiah-49?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-122",
+          "title": "Lección 122: Práctica 8 del Dominio de la doctrina",
+          "description": "Practica cómo usar las Escrituras de Isaías para responder preguntas sobre la naturaleza de Dios, la apostasía y la Restauración.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/39-isaiah-40-49/394-doctrinal-mastery-practice-8?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-196",
+          "title": "Lección 196: Nuestra responsabilidad por convenio de compartir el Evangelio",
+          "description": "Al hacer convenios con el Señor, también te comprometes a compartir las bendiciones del Evangelio con quienes te rodean.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/68-missionary-preparation/681-covenant-responsibility-to-share-the-gospel?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Semana 32",
+      "dateRange": "5 al 10 de octubre",
+      "lessons": [
+        {
+          "id": "leccion-123",
+          "title": "Lección 123: Isaías 51–52",
+          "description": "Isaías 51–52 son un llamado urgente a despertar, a recordar las promesas del Señor y a vestirse de Su poder en los últimos días.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/40-isaiah-50-57/401-isaiah-51-52?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-124",
+          "title": "Lección 124: Isaías 53",
+          "description": "Isaías 53 es la profecía mesiánica más detallada del Antiguo Testamento y describe con precisión asombrosa la misión expiatoria de Jesucristo.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/40-isaiah-50-57/402-isaiah-53?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-125",
+          "title": "Lección 125: Isaías 54",
+          "description": "Isaías 54 proclama que el Señor es el Esposo fiel de Su pueblo y que Sus misericordias no se apartarán jamás.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/40-isaiah-50-57/403-isaiah-54?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-189",
+          "title": "Lección 189: Educación para el alma entera",
+          "description": "El Señor nos invita a buscar aprendizaje tanto por el estudio como por la fe, desarrollando el alma completa: mente, corazón y espíritu.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/66-future-education-and-employment/662-education-for-the-whole-soul?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Semana 33",
+      "dateRange": "12 al 17 de octubre",
+      "lessons": [
+        {
+          "id": "leccion-127",
+          "title": "Lección 127: Isaías 58:13–14",
+          "description": "Honrar el día de reposo no es una carga sino una delicia que el Señor promete convertir en una fuente de gozo y fortaleza.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/41-isaiah-58-66/412-isaiah-58-13-14?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-128",
+          "title": "Lección 128: Isaías 61",
+          "description": "Isaías 61 describe la misión del Mesías de sanar a los quebrantados de corazón, proclamar libertad y consolar a los que lloran.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/41-isaiah-58-66/413-isaiah-61?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-129",
+          "title": "Lección 129: Isaías 60–66",
+          "description": "Los capítulos finales de Isaías pintan una visión gloriosa de Sion en los últimos días: una ciudad de luz, paz y la presencia eterna del Señor.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/41-isaiah-58-66/414-isaiah-60-66?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-191",
+          "title": "Lección 191: Buscar un mentor",
+          "description": "Tener un mentor sabio puede acelerar tu crecimiento personal y espiritual; el Señor puede guiarte a encontrar las personas correctas.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/66-future-education-and-employment/664-seeking-a-mentor?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Semana 34",
+      "dateRange": "19 al 24 de octubre",
+      "lessons": [
+        {
+          "id": "leccion-130",
+          "title": "Lección 130: Jeremías 1",
+          "description": "El llamamiento de Jeremías nos recuerda que el Señor nos conoce antes de que naciéramos y que tiene un propósito para cada uno de nosotros.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/42-jeremiah-1-20/421-jeremiah-1?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-131",
+          "title": "Lección 131: Jeremías 2–3",
+          "description": "Jeremías 2–3 describe el dolor del Señor al ver que Su pueblo lo abandonó por ídolos que no podían ayudar, y Su tierno llamado a volver a Él.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/42-jeremiah-1-20/422-jeremiah-2-3?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-132",
+          "title": "Lección 132: Jeremías 16",
+          "description": "Jeremías 16 incluye una notable profecía sobre misioneros que en los últimos días llevarían a Israel de regreso desde todos los rincones de la tierra.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/42-jeremiah-1-20/423-jeremiah-16?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-197",
+          "title": "Lección 197: Compartir el Evangelio con naturalidad",
+          "description": "Compartir el Evangelio no tiene que ser difícil ni forzado; puede fluir naturalmente de una vida auténtica centrada en Cristo.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/68-missionary-preparation/682-sharing-the-gospel-in-natural-ways?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-133",
+          "title": "Lección 133: Evalúa tu aprendizaje 8",
+          "description": "Reflexiona sobre las verdades de Isaías y Jeremías que has estudiado y considera cómo están transformando tu forma de ver el mundo y tu papel en él.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/42-jeremiah-1-20/424-assess-your-learning-8?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Semana 35",
+      "dateRange": "26 al 31 de octubre",
+      "lessons": [
+        {
+          "id": "leccion-134",
+          "title": "Lección 134: Jeremías 31",
+          "description": "Jeremías 31 contiene la promesa del nuevo convenio que el Señor escribirá en los corazones de Su pueblo, cumplida plenamente a través de Jesucristo.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/43-jeremiah-lamentations/431-jeremiah-31?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-135",
+          "title": "Lección 135: Jeremías 36",
+          "description": "Jeremías 36 nos enseña que la palabra del Señor no puede ser destruida y que resistir los mensajes de los profetas tiene consecuencias graves.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/43-jeremiah-lamentations/432-jeremiah-36?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-136",
+          "title": "Lección 136: Lamentaciones 1; 3",
+          "description": "En medio de la mayor destrucción, Jeremías encontró esperanza al recordar las misericordias del Señor que se renuevan cada mañana.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/43-jeremiah-lamentations/433-lamentations?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-137",
+          "title": "Lección 137: Práctica 9 del Dominio de la doctrina",
+          "description": "Practica cómo usar los pasajes de Jeremías y Lamentaciones para responder con fe y perspectiva eterna a preguntas sobre el sufrimiento y los convenios.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/43-jeremiah-lamentations/434-doctrinal-mastery-practice-9?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Semana 36",
+      "dateRange": "2 al 7 de noviembre",
+      "lessons": [
+        {
+          "id": "leccion-138",
+          "title": "Lección 138: Ezequiel 1–3; 33",
+          "description": "Ezequiel recibió una visión gloriosa del trono de Dios y fue llamado como atalaya para advertir al pueblo; su llamamiento también nos habla de nuestra responsabilidad personal.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/44-ezekiel/441-ezekiel-1-3-33?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-139",
+          "title": "Lección 139: Ezequiel 34",
+          "description": "Ezequiel 34 reprende a los pastores infieles de Israel y proclama que el Señor mismo vendría a buscar a Sus ovejas perdidas, una imagen directa de Jesucristo.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/44-ezekiel/442-ezekiel-34?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-140",
+          "title": "Lección 140: Ezequiel 37",
+          "description": "La visión del valle de los huesos secos es una de las más poderosas de toda la Biblia y testifica que el Señor puede restaurar y resucitar lo que parece completamente muerto.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/44-ezekiel/443-ezekiel-37?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "leccion-141",
+          "title": "Lección 141: Ezequiel 47",
+          "description": "El río que fluye del templo en la visión de Ezequiel 47 es una imagen poderosa de cómo el Evangelio de Jesucristo trae vida y sanación a todo lo que toca.",
+          "type": "Antiguo Testamento - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/44-ezekiel/444-ezekiel-47?lang=spa",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    }
+  ]
+}

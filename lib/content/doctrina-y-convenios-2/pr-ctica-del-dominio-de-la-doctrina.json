@@ -1,0 +1,39 @@
+{
+  "id": "pr-ctica-del-dominio-de-la-doctrina",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué enseña DyC 88:118 sobre adquirir conocimiento espiritual?",
+      "options": [
+        "Buscad conocimiento, tanto por el estudio como por la fe",
+        "Depender solo del estudio",
+        "Depender solo de la fe",
+        "Evitar el aprendizaje"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué principio ayuda a responder preguntas difíciles según el Documento de base?",
+      "options": [
+        "Actuar con fe, tener perspectiva eterna y acudir a fuentes divinas",
+        "Depender solo de lógica",
+        "Ignorar las dudas",
+        "Evitar preguntas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué recomendó el élder Richard G. Scott sobre las Escrituras?",
+      "options": [
+        "Que sean nuestros amigos de confianza",
+        "Que son irrelevantes",
+        "Que solo sirven para historia",
+        "Que no deben memorizarse"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

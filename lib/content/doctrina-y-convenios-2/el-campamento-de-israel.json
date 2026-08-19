@@ -1,0 +1,61 @@
+{
+  "id": "el-campamento-de-israel",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué dificultades enfrentaron los miembros del Campamento de Israel durante su viaje?",
+      "options": [
+        "Ampollas y pies doloridos, escasez de provisiones",
+        "Viaje cómodo y sin problemas",
+        "Abundancia de alimentos y descanso",
+        "Ninguna dificultad"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo reaccionó el profeta José Smith ante las dificultades del viaje?",
+      "options": [
+        "Con paciencia y sin quejas",
+        "Con murmuraciones",
+        "Abandonando el campamento",
+        "Ignorando a los demás"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué experiencia relató Nathan Baldwin sobre la falta de agua?",
+      "options": [
+        "Beber rocío recogido del césped",
+        "Encontrar ríos abundantes",
+        "Recibir agua milagrosamente",
+        "No sufrir sed"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué declaró Heber C. Kimball sobre la protección divina en el campamento?",
+      "options": [
+        "Que los ángeles iban delante de ellos",
+        "Que estaban solos",
+        "Que no recibieron ayuda",
+        "Que no tuvieron fe"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué verdad enseña la experiencia del Campamento de Israel sobre seguir a Cristo?",
+      "options": [
+        "Que Dios ayuda en las dificultades",
+        "Que nunca habrá pruebas",
+        "Que el camino siempre es fácil",
+        "Que no hay bendiciones"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

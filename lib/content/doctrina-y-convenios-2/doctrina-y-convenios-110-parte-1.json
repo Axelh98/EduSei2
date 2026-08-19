@@ -1,0 +1,61 @@
+{
+  "id": "doctrina-y-convenios-110-parte-1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué ocurrió el 3 de abril de 1836 en el Templo de Kirtland?",
+      "options": [
+        "Jesucristo se apareció a José Smith y Oliver Cowdery",
+        "Se canceló la reunión",
+        "No hubo manifestaciones",
+        "Solo se cantaron himnos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué promesa cumplió el Señor en DyC 110:7?",
+      "options": [
+        "Manifestarse a Su pueblo en Su casa",
+        "Enviar ángeles a todos los hogares",
+        "Construir templos en todo el mundo",
+        "Evitar sacrificios"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo describieron José Smith y Oliver Cowdery al Salvador en DyC 110:1–4?",
+      "options": [
+        "Glorioso y majestuoso",
+        "Común y corriente",
+        "Sin poder",
+        "Invisible"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseñanza se relaciona con las apariciones del Salvador en 3 Nefi 11, Isaías 6 y Éter 3?",
+      "options": [
+        "El Señor se manifiesta en templos o lugares sagrados",
+        "El Señor nunca se aparece",
+        "Las visiones no son reales",
+        "Solo los profetas antiguos lo vieron"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué verdad enseña DyC 110:5–10 sobre la dignidad para entrar al templo?",
+      "options": [
+        "La dignidad nos prepara para acercarnos al Señor",
+        "Solo los perfectos pueden entrar",
+        "Nunca seremos dignos",
+        "No importa la dignidad"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

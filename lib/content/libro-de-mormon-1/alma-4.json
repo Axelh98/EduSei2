@@ -1,0 +1,145 @@
+{
+  "id": "alma-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Al ver la iniquidad y el orgullo que se extendían por la Iglesia, Alma tomó una decisión radical: renunciar a su puesto como juez superior para dedicar todo su tiempo al ministerio. Comprendió que la única forma de purificar al pueblo no era mediante leyes civiles, sino mediante el poder de la palabra de Dios. Esta lección nos enseña sobre prioridades y la importancia de la 'predicación pura'. A veces, para cumplir con nuestra misión, debemos estar dispuestos a dejar de lado posiciones de poder o comodidad mundana si eso nos permite servir mejor al Maestro."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 4:19",
+          "texto": "Y Alma salió a fin de predicar la palabra de Dios a todo el pueblo... para despertar su memoria respecto a sus deberes...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/4?lang=spa&id=p19#p19"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Ezra Taft Benson",
+      "fuente": "Liahona, julio de 1989 (discurso \"Cuidaos del orgullo\")",
+      "texto": "El antídoto contra el orgullo es la humildad: la mansedumbre, la sumisión (véase Alma 7:23). Es el corazón quebrantado y el espíritu contrito.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-18-beware-of-pride?lang=spa&id=p49#p49"
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Ezra Taft Benson",
+      "fuente": "\"El poder de la palabra\", conferencia general de abril de 1986 (Liahona, julio de 1986); reproducido en Enseñanzas de los Presidentes de la Iglesia: Ezra Taft Benson, cap. 8",
+      "texto": "La palabra de Dios, tal como se halla en las Escrituras, en las palabras de los profetas vivientes y en la revelación personal tiene el poder de fortalecer a los santos y armarlos con el Espíritu para que puedan resistir el mal, aferrarse a lo bueno y encontrar felicidad en la vida.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-8-the-power-of-the-word?lang=spa&id=p13#p13"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El ejemplo de Alma es una invitación a evaluar nuestras propias prioridades. ¿Estamos gastando nuestra energía en las cosas que son 'de gran valor' (Alma 4:19)? La palabra de Dios tiene un 'efecto poderoso' en la mente de las personas. Al compartir nuestro testimonio, podemos ser instrumentos en las manos del Señor para despertar la memoria de los demás sobre sus deberes ante Dios."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué significa 'despertar nuestra memoria' respecto a nuestros deberes ante el Señor?",
+        "¿En qué actividades estás invirtiendo la mayor parte de tu tiempo y energía?",
+        "¿Cómo puedes invitar a otros a sentir el poder de la palabra de Dios en sus vidas?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué Alma cedió el asiento judicial?",
+      "type": "multiple",
+      "options": [
+        "Porque estaba física y emocionalmente agotado del cargo",
+        "Porque el pueblo lo obligó a renunciar a su puesto",
+        "Porque buscaba una posición con mayor remuneración",
+        "Para dedicarse a predicar la palabra de Dios"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 4:19",
+      "explanation": "Alma cedió el asiento judicial para dedicarse por completo a predicar la palabra de Dios."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué había causado la iniquidad en el pueblo?",
+      "type": "multiple",
+      "options": [
+        "La pobreza extrema que afectaba a toda la nación",
+        "Orgullo, riquezas y persecución entre los miembros",
+        "La ausencia total de líderes religiosos capacitados",
+        "Las guerras constantes contra los lamanitas"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 4:6-12",
+      "explanation": "El orgullo, las riquezas y la persecución entre los miembros causaron la iniquidad en el pueblo."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué poder tiene la palabra de Dios según Alma?",
+      "type": "multiple",
+      "options": [
+        "Ningún poder real más allá de lo simbólico",
+        "Solamente un poder limitado al ámbito temporal",
+        "Menor poder de convencimiento que la fuerza militar",
+        "Efecto más potente en la mente que la espada o cualquier cosa"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 31:5",
+      "explanation": "La palabra de Dios tiene un efecto más potente en la mente que la espada o cualquier otra cosa."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué consecuencia tuvo el orgullo dentro de la iglesia según Alma 4?",
+      "type": "multiple",
+      "options": [
+        "Se crearon divisiones, con miembros que se creían mejores que otros",
+        "La membresía de la iglesia creció sin ningún problema",
+        "El pueblo se volvió más unido y generoso que antes",
+        "Los jueces del pueblo ganaron más autoridad espiritual"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 4:8-9",
+      "explanation": "El orgullo creó divisiones, con miembros que se creían mejores que otros."
+    },
+    {
+      "id": 5,
+      "question": "Lautaro tiene un cargo de liderazgo en su clase de Seminario y siente que le quita tiempo para lo que más le importa espiritualmente. ¿Qué ejemplo de Alma 4 podría orientarlo?",
+      "type": "multiple",
+      "options": [
+        "Que debe renunciar a cualquier tipo de responsabilidad",
+        "Alma cedió el asiento judicial para dedicarse a predicar la palabra, priorizando lo espiritual",
+        "Que el liderazgo y la espiritualidad nunca pueden combinarse",
+        "Que debe mantener el cargo sin importar el costo espiritual"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 4:19",
+      "explanation": "Alma cedió el asiento judicial para dedicarse a predicar la palabra, priorizando lo espiritual sobre lo político."
+    },
+    {
+      "id": 6,
+      "question": "Milagros nota que algunos compañeros de su congregación se sienten superiores por tener más recursos. ¿Qué advierte Alma 4 sobre esto?",
+      "type": "multiple",
+      "options": [
+        "Que tener más recursos siempre es señal de bendición divina",
+        "Que no hay ningún problema en sentirse superior a otros",
+        "Que el orgullo por la prosperidad puede causar división y persecución dentro de la comunidad de fe",
+        "Que solo los líderes deben preocuparse por el orgullo del pueblo"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 4:6-12",
+      "explanation": "El orgullo por la prosperidad puede causar división y persecución dentro de la comunidad de fe."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan la decisión de Alma de dejar el cargo político y el problema de orgullo que había en la iglesia?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "Alma priorizó combatir el orgullo con la palabra de Dios, que consideró más poderosa que su autoridad política",
+        "El cargo político de Alma era la única forma de combatir el orgullo",
+        "El orgullo del pueblo no tuvo ninguna influencia en la decisión de Alma"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 4",
+      "explanation": "Alma priorizó combatir el orgullo con la palabra de Dios, que consideró más poderosa que su autoridad política."
+    }
+  ]
+}

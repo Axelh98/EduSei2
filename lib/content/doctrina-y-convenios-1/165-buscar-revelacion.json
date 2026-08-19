@@ -1,0 +1,117 @@
+{
+  "id": "165-buscar-revelacion",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Vivimos bombardeados de información. Redes sociales, podcasts, noticias: todo compite por decirnos qué creer. En ese ruido, ¿cómo sabés qué es verdad? ¿Cómo encontrás respuestas a las preguntas que realmente importan?",
+        "El primer principio para adquirir conocimiento espiritual es ir directamente a la fuente: podés pedirle a Dios. El Padre Celestial prometió revelar la verdad a la mente y al corazón por medio del Espíritu Santo (D&C 8:2). No es una promesa solo para profetas del pasado; es tu derecho y privilegio como hijo o hija de Dios.",
+        "Pero la revelación no cae del cielo de forma automática. Hay condiciones: humildad, fe genuina, disposición a actuar según lo que Dios responda, y fidelidad a los convenios. El presidente Nelson enseñó que necesitamos aumentar activamente nuestra capacidad de recibir revelación. No esperarla pasivamente, sino cultivarla con esfuerzo intencional."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 8:2–3",
+          "texto": "Sí, te revelaré cosas que nunca hombre ha conocido; hablaré a tu mente y a tu corazón por el Espíritu Santo, que vendrá sobre ti y que morará en tu corazón. Ahora bien, he aquí, esto es el espíritu de revelación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=spa&id=p2-p3#p2"
+        },
+        {
+          "referencia": "Moroni 10:5",
+          "texto": "Y por el poder del Espíritu Santo podréis conocer la verdad de todas las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p5#p5"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "\"Revelación para la Iglesia, revelación para nuestras vidas\", Conferencia General, abril de 2018 (Liahona, mayo de 2018, pág. 96)",
+      "texto": "Mis amados hermanos y hermanas, les suplico que aumenten su capacidad espiritual para recibir revelación. En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&id=p36-p38#p36"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Recibir revelación personal es el derecho de cada miembro fiel. Dios quiere comunicarse con vos —a tu mente y a tu corazón— exactamente en tus circunstancias actuales. Para recibir esa comunicación necesitás humildad, fe, obediencia, y disposición de actuar. Esta semana, elegí una pregunta concreta que tengas y llevala a Dios con fe genuina, dispuesto a recibir y a actuar según lo que recibas."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuáles son tres fuentes de información que compiten por decirte qué creer? ¿Cuál de ellas es la más confiable y por qué?",
+        "Según D&C 8:2–3, ¿de qué dos maneras habla el Espíritu Santo? ¿Qué diferencia hace eso en cómo reconocés una revelación?",
+        "¿Alguna vez sentiste que recibiste una respuesta de Dios a algo concreto? ¿Cómo llegó esa respuesta?",
+        "¿Qué condiciones necesitás cultivar en tu vida para recibir más revelación personal?",
+        "¿Qué pregunta concreta llevarás a Dios esta semana? ¿Cuándo y cómo lo harás?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuáles son tres fuentes que compiten por decirte qué creer en tu vida cotidiana?",
+      "options": [
+        "Las Escrituras, la oración y los líderes de la Iglesia",
+        "Las redes sociales, las opiniones de amigos y los podcasts populares",
+        "Los libros de texto, los maestros de la escuela y los padres",
+        "Las noticias, la ciencia y la filosofía académica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "D&C 8:2–3 dice que el Espíritu Santo hablará 'a tu mente y a tu corazón'. ¿Qué significa que sean los dos a la vez?",
+      "options": [
+        "Que la revelación siempre produce emociones fuertes y visiones",
+        "Que hay una iluminación del entendimiento acompañada de paz interior, no solo una de las dos",
+        "Que primero viene la emoción y después el pensamiento, siempre en ese orden",
+        "Que mente y corazón son la misma cosa en el lenguaje de las Escrituras"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Alguna vez sentiste que recibiste una respuesta de Dios a algo concreto de tu vida? ¿Cómo llegó esa respuesta — como pensamiento, como paz, como algo que leíste?",
+      "options": [
+        "Como una voz audible que me habló directamente",
+        "Como un pensamiento claro o una sensación de paz que no podía explicar del todo",
+        "Como un sueño detallado con instrucciones exactas",
+        "Nunca recibí ningún tipo de respuesta de Dios"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "El presidente Nelson pidió que 'aumentemos nuestra capacidad de recibir revelación'. ¿Qué condición personal es más importante cultivar para eso?",
+      "options": [
+        "Leer las Escrituras en idiomas originales como el hebreo o el griego",
+        "Tener un cargo de responsabilidad en la Iglesia",
+        "Humildad, fe genuina, y disposición de actuar según lo que Dios responda",
+        "Haber asistido a Seminario sin faltas durante varios años"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "¿Qué pregunta concreta de tu vida llevarás a Dios esta semana? ¿Cuándo y cómo lo harás?",
+      "options": [
+        "Esperar a tener una pregunta más importante antes de orar",
+        "Elegir una pregunta real que tengo ahora y presentarla a Dios en oración esta noche",
+        "Pedir al obispo que ore en mi lugar para recibir la respuesta más rápido",
+        "Escribir la pregunta pero no orar hasta tener más certeza"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Moroni 10:5 promete que 'por el poder del Espíritu Santo podréis conocer la verdad de todas las cosas'. ¿Qué hace esa promesa especialmente relevante para vivir en 2025?",
+      "options": [
+        "Que ya no necesitamos estudiar nada porque el Espíritu lo revela todo automáticamente",
+        "Que en un mundo lleno de información contradictoria, tenemos acceso directo al árbitro definitivo de la verdad",
+        "Que las generaciones actuales tienen más acceso al Espíritu que las anteriores",
+        "Que la promesa solo aplica a los líderes de la Iglesia que deben enseñar doctrinas"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

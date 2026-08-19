@@ -1,0 +1,28 @@
+{
+  "id": "nt-s6-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál fue el testimonio de Pedro en Mateo 16:16?",
+      "options": [
+        "\"Tú eres un gran profeta\".",
+        "\"Tú eres el Cristo, el Hijo del Dios viviente\".",
+        "\"Tú eres Elías\".",
+        "\"Tú eres un maestro de Dios\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Sobre qué \"roca\" dijo Jesús que edificaría Su Iglesia?",
+      "options": [
+        "Sobre la persona física de Pedro.",
+        "Sobre el lecho de roca de la revelación.",
+        "Sobre los muros de Jerusalén.",
+        "Sobre la sabiduría de los escribas."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

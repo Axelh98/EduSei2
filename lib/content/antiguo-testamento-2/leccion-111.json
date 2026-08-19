@@ -1,0 +1,56 @@
+{
+  "id": "leccion-111",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el tema principal que el Predicador explora en el libro de Eclesiastés?",
+      "options": [
+        "Las guerras y victorias de Israel.",
+        "La búsqueda de sentido y felicidad en las cosas de este mundo y su conclusión de que son vanidad.",
+        "Las instrucciones para el culto en el templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué cosas intentó el Predicador para encontrar felicidad, sin lograrlo?",
+      "options": [
+        "La oración y el estudio de las Escrituras.",
+        "La sabiduría humana, el placer, las obras grandes, las riquezas y el trabajo.",
+        "Únicamente las riquezas materiales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué significa la palabra 'vanidad' tal como la usa el Predicador en Eclesiastés?",
+      "options": [
+        "Orgullo excesivo en la apariencia física.",
+        "Algo vacío, sin sentido permanente o transitorio cuando se busca fuera de Dios.",
+        "Una virtud que debemos cultivar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la conclusión final del Predicador al final del libro de Eclesiastés?",
+      "options": [
+        "Que debemos disfrutar la vida sin pensar en Dios.",
+        "Teme a Dios y guarda Sus mandamientos, porque esto es el todo del hombre.",
+        "Que la vida no tiene ningún sentido."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué lección práctica para los jóvenes se encuentra en Eclesiastés 12:1?",
+      "options": [
+        "Que no importa qué tan joven seas, ya es tarde para cambiar.",
+        "'Acuérdate de tu Creador en los días de tu juventud', antes de que vengan los años difíciles.",
+        "Que los jóvenes deben trabajar sin descanso."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

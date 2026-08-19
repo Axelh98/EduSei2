@@ -1,0 +1,137 @@
+{
+  "id": "repaso-evaluacion-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta lección es un repaso de los primeros doce pasajes de Dominio de la Doctrina, desde 1 Nefi 3:7 hasta Mosíah 18:8-10, antes de la evaluación de mitad de año. No se trata solo de memorizar referencias: la meta es que puedas explicar cada verdad con tus propias palabras y reconocer en qué situación real de tu vida se aplica. Cada uno de estos pasajes responde a una pregunta distinta —qué hacer cuando Dios te pide algo difícil, por qué existe la Caída, qué significa servir a los demás, qué implica el convenio del bautismo— y juntos forman una base doctrinal que te va a servir mucho más allá del Seminario. Es normal saberte de memoria unos pasajes mejor que otros; lo importante en este repaso es identificar cuáles todavía te cuestan y dedicarles un poco más de tiempo. Repasarlos con calma, en vez de memorizarlos de apuro la noche anterior, es lo que realmente los convierte en herramientas que podés usar cuando alguien te haga una pregunta difícil sobre tu fe."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "1 Nefi 3:7",
+          "texto": "Iré y haré...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "2 Nefi 2:25",
+          "texto": "Adán cayó para que los hombres existiesen...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=spa&id=p25#p25"
+        },
+        {
+          "referencia": "Mosíah 2:17",
+          "texto": "Cuando os halláis al servicio de vuestros semejantes...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=spa&id=p17#p17"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Repasar estos doce pasajes no es un trámite antes de un examen: es una oportunidad de convertir versículos memorizados en convicciones propias. Cuando podés explicar con tus palabras por qué Adán cayó, o qué significa creer en Dios, esas verdades dejan de ser información ajena y empiezan a ser parte de cómo pensás y decidís. Esta semana, elegí uno de los doce pasajes que más te cueste recordar y practicá explicárselo a alguien —un hermano, un amigo, o incluso en voz alta para vos mismo— como si esa persona nunca lo hubiera escuchado."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "De los doce pasajes de este repaso, ¿cuál te sabés de memoria sin dudar?",
+        "¿Cuál de estos pasajes te costó más recordar hasta ahora?",
+        "Elegí un pasaje y contá una situación real, tuya o de alguien que conocés, donde esa verdad se aplicaría.",
+        "¿Qué diferencia hay entre memorizar una referencia y realmente entender lo que enseña?",
+        "¿Qué técnica vas a usar esta semana para repasar los pasajes que todavía no te sabés bien?",
+        "Elegí un pasaje y practicá explicárselo a otra persona esta semana. ¿A quién se lo vas a explicar?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el propósito de las evaluaciones de dominio?",
+      "type": "multiple",
+      "options": [
+        "Ayudarte a identificar lo que sabes bien y lo que necesitas repasar",
+        "Calificar y comparar a los estudiantes entre sí",
+        "Castigar a quienes no dedicaron suficiente tiempo a estudiar",
+        "Generar competencia entre los miembros de la clase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El propósito es ayudarte a identificar lo que sabes bien y lo que necesitas repasar."
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo debes prepararte para la evaluación?",
+      "type": "multiple",
+      "options": [
+        "Estudiando únicamente la noche anterior a la evaluación",
+        "Memorizando palabras sin buscar comprender su significado",
+        "Repasar constantemente y vivir los principios",
+        "No es necesario ningún tipo de preparación previa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Debes prepararte repasando constantemente y viviendo los principios que has aprendido."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué temas doctrinales principales hemos visto desde el inicio del año?",
+      "type": "multiple",
+      "options": [
+        "Obediencia, albedrío, expiación, cambio de corazón, convenios y fe",
+        "Únicamente relatos de guerras entre naciones",
+        "Solamente listas de nombres y genealogías",
+        "Ningún tema doctrinal relevante en particular"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hemos visto obediencia, albedrío, expiación, cambio de corazón, convenios y fe."
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo podemos aplicar las lecciones de Nefi en nuestra vida hoy?",
+      "type": "multiple",
+      "options": [
+        "No es posible aplicarlas a nuestra realidad actual",
+        "Solamente leyéndolas sin buscar ninguna aplicación práctica",
+        "Considerándolas simplemente relatos históricos sin relevancia",
+        "Obedecer con fe, buscar revelación personal y confiar en el Señor"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Podemos aplicarlas obedeciendo con fe, buscando revelación personal y confiando en el Señor."
+    },
+    {
+      "id": 5,
+      "question": "Delfina siente que ha memorizado mucho pero no aplicado casi nada este año. ¿Qué le sugerirías para su autoevaluación?",
+      "type": "multiple",
+      "options": [
+        "Que se conforme con lo que ya memorizó",
+        "Reflexionar honestamente sobre cómo ha vivido, no solo cuánto ha memorizado",
+        "Comparar cuánto memorizó frente a sus compañeros",
+        "Dejar de estudiar más versículos hasta el próximo año"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La autoevaluación debe incluir reflexionar honestamente sobre cómo hemos vivido, no solo cuánto hemos memorizado."
+    },
+    {
+      "id": 6,
+      "question": "Santino quiere fortalecer su testimonio pero no sabe cómo empezar. ¿Qué le recomienda este repaso?",
+      "type": "multiple",
+      "options": [
+        "Esperar a que el testimonio llegue sin ningún esfuerzo personal",
+        "Depender completamente del testimonio de sus padres",
+        "Memorizar más datos sin necesidad de vivirlos",
+        "Crecer mediante el estudio constante, la oración sincera y la aplicación de lo aprendido"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El testimonio crece mediante el estudio constante, la oración sincera y la aplicación de lo aprendido."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué principio conecta el poder transformador del evangelio en los hijos de Mosíah con el ejemplo de los anti-nefi-lehitas?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "Ambos muestran que un cambio de corazón genuino puede transformar completamente la vida de una persona o un pueblo",
+        "Solo el ejemplo de los hijos de Mosíah es relevante para nuestra vida hoy",
+        "Los anti-nefi-lehitas no experimentaron ningún cambio real"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ambos ejemplos muestran que un cambio de corazón genuino puede transformar completamente la vida de una persona o un pueblo."
+    }
+  ]
+}

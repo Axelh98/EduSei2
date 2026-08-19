@@ -1,0 +1,50 @@
+{
+  "id": "nt-s13-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué representa el pan en la Santa Cena?",
+      "options": [
+        "Solo una comida común.",
+        "El cuerpo del Salvador.",
+        "El maná del desierto.",
+        "La tierra de Israel."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué representa el vino (o agua) en la Santa Cena?",
+      "options": [
+        "Un símbolo de alegría.",
+        "La sangre de Cristo, que es derramada por muchos para remisión de pecados.",
+        "El agua del bautismo solamente.",
+        "La lluvia del cielo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Con qué propósito mandó Jesús participar de la Santa Cena?",
+      "options": [
+        "Para no tener hambre física.",
+        "En memoria de Él (Su sacrificio y vida).",
+        "Como una tradición sin significado.",
+        "Solo para los Apóstoles antiguos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué convenio renovamos al participar de la Santa Cena?",
+      "options": [
+        "El convenio de ser ricos.",
+        "Nuestros convenios bautismales.",
+        "Un convenio de silencio.",
+        "Un contrato laboral."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

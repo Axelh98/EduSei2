@@ -1,0 +1,61 @@
+{
+  "id": "el-establecimiento-de-nauvoo",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué mandato principal da el Señor a los santos en DyC 124?",
+      "options": [
+        "Edificar una casa al nombre del Señor en Nauvoo",
+        "Abandonar la región inmediatamente",
+        "Predicar solo a los judíos",
+        "Suspender las ordenanzas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué era tan importante la construcción del templo según DyC 124?",
+      "options": [
+        "Para restaurar ordenanzas que no podían administrarse sin él",
+        "Solo como símbolo de fe",
+        "Para reuniones sociales",
+        "Para protección física"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué promesa hace el Señor si los santos edifican el templo?",
+      "options": [
+        "Se manifestará a Su pueblo en Su casa",
+        "Evitarán toda oposición",
+        "No enfrentarán sacrificios",
+        "Recibirán prosperidad inmediata"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseñanza da DyC 124 sobre la obediencia colectiva?",
+      "options": [
+        "Las bendiciones dependen de la obediencia del pueblo como cuerpo",
+        "La obediencia es solo individual",
+        "El templo no requiere sacrificio",
+        "La obra avanza sin esfuerzo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio eterno se destaca en DyC 124 respecto a los templos?",
+      "options": [
+        "El Señor revela y restaura ordenanzas mediante Sus templos",
+        "Los templos son opcionales",
+        "Las ordenanzas pueden cambiarse",
+        "El templo es solo simbólico"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

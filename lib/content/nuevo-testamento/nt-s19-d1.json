@@ -1,0 +1,61 @@
+{
+  "id": "nt-s19-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál era la función de los siete varones elegidos, entre ellos Esteban?",
+      "options": [
+        "Ser los nuevos Apóstoles.",
+        "Ayudar en el servicio diario a las viudas y necesitados.",
+        "Escribir libros de historia.",
+        "Dirigir los ejércitos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿De qué acusaron falsamente a Esteban ante el concilio?",
+      "options": [
+        "De robar oro.",
+        "De hablar palabras blasfemas contra Moisés y Dios.",
+        "De querer ser rey.",
+        "De no saber leer."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué vio Esteban cuando miró fijamente al cielo mientras lo juzgaban?",
+      "options": [
+        "Un gran ángel con espada.",
+        "La gloria de Dios y a Jesús a la diestra de Dios.",
+        "Una paloma blanca.",
+        "Nubes oscuras."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo murió Esteban, convirtiéndose en el primer mártir cristiano?",
+      "options": [
+        "Decapitado.",
+        "Apedreado.",
+        "Crucificado.",
+        "En la cárcel por enfermedad."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué pidió Esteban al Señor por sus verdugos antes de morir?",
+      "options": [
+        "Que los destruyera.",
+        "\"Señor, no les tomes en cuenta este pecado\".",
+        "Que no lloviera sobre ellos.",
+        "Que sus familias sufrieran."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

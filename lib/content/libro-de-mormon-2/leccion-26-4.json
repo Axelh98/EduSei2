@@ -1,0 +1,33 @@
+{
+  "id": "leccion-26-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Moroni asume la responsabilidad de completar los registros después de la muerte de su padre Mormón. Describe la batalla final en Cumorah donde los nefitas fueron destruidos completamente. Moroni queda solo, sin saber cuánto tiempo vivirá. Explica que está escribiendo para las generaciones futuras y que el Libro de Mormón saldrá a luz en los últimos días. El capítulo muestra la soledad de Moroni y su dedicación a preservar los registros para bendecir a generaciones futuras."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 8:3",
+          "texto": "He aquí, mi padre ha sido muerto en batalla, y todos mis parientes, y no tengo amigos ni a dónde ir.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Mormón 8:14",
+          "texto": "Escribo unas pocas palabras más, contrarias a lo que había supuesto; porque había supuesto no escribir más.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa&id=p14#p14"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te enseña la dedicación de Moroni sobre la importancia de los registros sagrados?",
+        "¿Cómo describirías la soledad y el sacrificio de Moroni al preservar estos registros?",
+        "¿Qué significa para ti que Moroni escribió específicamente para esta generación?"
+      ]
+    }
+  ],
+  "questions": []
+}

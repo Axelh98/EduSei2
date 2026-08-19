@@ -1,0 +1,56 @@
+{
+  "id": "leccion-116",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A quién se refiere el 'renuevo de las raíces de Isaí' que Isaías profetiza en el capítulo 11?",
+      "options": [
+        "Al rey Ezequías.",
+        "A Jesucristo, quien descendería del linaje de Isaí, padre de David.",
+        "Al profeta Isaías mismo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué dones del Espíritu se describen en Isaías 11:2 como reposando sobre el Mesías?",
+      "options": [
+        "Sabiduría, inteligencia, consejo, fortaleza, conocimiento y temor del Señor.",
+        "Riqueza, fuerza física, popularidad y liderazgo político.",
+        "Solo el don de la profecía."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué imagen de paz usa Isaías para describir el Milenio en el capítulo 11?",
+      "options": [
+        "Que todos los ejércitos del mundo se rendirán.",
+        "Que el lobo morará con el cordero y el leopardo con el cabrito; los animales feroces vivirán en paz.",
+        "Que habrá una sola nación en toda la tierra."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué gran obra de recolección del Israel disperso profetiza Isaías 11?",
+      "options": [
+        "Que Israel regresaría solo a la tierra de Palestina.",
+        "Que el Señor levantaría una bandera y reuniría a los dispersos de Israel de los cuatro rincones de la tierra.",
+        "Que Moisés regresaría para guiar al pueblo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es el tema del canto de alabanza de Isaías 12?",
+      "options": [
+        "Una queja por los sufrimientos de Israel.",
+        "Gratitud al Señor por Su salvación, con la invitación a proclamar Sus obras a todas las naciones.",
+        "Instrucciones para construir el templo milenial."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

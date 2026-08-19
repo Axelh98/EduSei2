@@ -64,6 +64,14 @@ export interface Lesson {
   questions: Question[]
   unitTitle?: string
   unitNumber?: number
+  /**
+   * Cuántas preguntas tiene la lección, y si tiene material de repaso.
+   * Los pone el catálogo (lib/content/registry.ts) a partir del manifiesto
+   * del curso, para que la UI decida qué botones mostrar sin tener que
+   * cargar el contenido completo.
+   */
+  questionCount?: number
+  hasStudy?: boolean
 }
 
 export interface Week {

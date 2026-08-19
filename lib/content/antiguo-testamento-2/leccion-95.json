@@ -1,0 +1,56 @@
+{
+  "id": "leccion-95",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué arriesgaba Ester al presentarse ante el rey sin ser llamada?",
+      "options": [
+        "Perder su título de reina.",
+        "Su propia vida, ya que la ley ordenaba matar a quien se acercara al rey sin invitación.",
+        "Ser desterrada del reino."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué pidió Ester a Mardoqueo y a los judíos antes de presentarse ante el rey?",
+      "options": [
+        "Que le prepararan un plan de escape.",
+        "Que ayunaran tres días por ella.",
+        "Que enviaran mensajes al rey explicando la situación."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué frase de Mardoqueo a Ester sugiere que ella fue puesta en su posición con un propósito divino?",
+      "options": [
+        "'El rey te ama y nunca te hará daño.'",
+        "'¿Y quién sabe si para esta hora has llegado al reino?'",
+        "'Tu pueblo sobrevivirá sin tu ayuda.'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo terminó el plan de Amán contra los judíos?",
+      "options": [
+        "El rey lo aprobó y los judíos fueron expulsados.",
+        "Amán fue colgado en la misma horca que había preparado para Mardoqueo.",
+        "Ester negoció un acuerdo de paz para ambos lados."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio de vida aprendemos del valor de Ester?",
+      "options": [
+        "Que debemos evitar los riesgos a toda costa.",
+        "Que cuando actuamos con valentía y fe para ayudar a otros, el Señor puede abrirles el camino.",
+        "Que la inteligencia es más importante que la fe."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

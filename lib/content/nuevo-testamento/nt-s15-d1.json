@@ -1,0 +1,61 @@
+{
+  "id": "nt-s15-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué le advirtió Jesús a Pedro que sucedería antes de que el gallo cantara?",
+      "options": [
+        "Que Pedro huiría a Galilea.",
+        "Que Pedro lo negaría tres veces.",
+        "Que Pedro sería arrestado.",
+        "Que Pedro se quedaría dormido."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hizo Pedro inmediatamente después de negar al Salvador por tercera vez y que el gallo cantara?",
+      "options": [
+        "Se fue a pescar al mar.",
+        "Salió fuera y lloró amargamente.",
+        "Fue a pedir perdón a los sacerdotes.",
+        "Se escondió en el jardín."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál fue la misión que Jesús le dio a Pedro después de que este se \"convirtiera\" (Lucas 22:32)?",
+      "options": [
+        "Construir un templo.",
+        "Fortalecer a sus hermanos.",
+        "Escribir un libro.",
+        "Viajar a Roma de inmediato."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Dónde se encontraba Pedro cuando negó al Salvador?",
+      "options": [
+        "En el patio del sumo sacerdote.",
+        "En el monte de los Olivos.",
+        "En el templo de Jerusalén.",
+        "En la barca en el mar."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué atributo mostró Jesús al orar por Pedro para que su fe no faltara?",
+      "options": [
+        "Indiferencia.",
+        "Amor y preocupación individual por Sus discípulos.",
+        "Enojo por la futura traición.",
+        "Miedo a quedarse solo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

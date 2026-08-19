@@ -1,0 +1,101 @@
+{
+  "id": "evalua-tu-aprendizaje-5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué tan bien has aplicado lo aprendido este semestre?",
+      "type": "multiple",
+      "options": [
+        "He hecho esfuerzos sinceros por vivir los principios aprendidos",
+        "Considero que no he aplicado nada de lo aprendido",
+        "Solamente memoricé la información sin aplicarla",
+        "No logro recordar bien lo que hemos estudiado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lo ideal es haber hecho esfuerzos sinceros por vivir los principios aprendidos."
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo ha crecido tu testimonio este año?",
+      "type": "multiple",
+      "options": [
+        "Considero que no ha cambiado en absoluto",
+        "Siento que se ha debilitado durante este tiempo",
+        "Ha crecido mediante el estudio, la oración y la aplicación",
+        "Reconozco que todavía no tengo un testimonio propio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El testimonio crece mediante el estudio, la oración y la aplicación constante."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué lecciones importantes aprendimos de los hijos de Mosíah?",
+      "type": "multiple",
+      "options": [
+        "Que la misión no vale realmente la pena el esfuerzo",
+        "Que la preparación espiritual y el servicio humilde pueden transformar vidas",
+        "Que convertir a otras personas es siempre algo fácil",
+        "Que solamente algunas personas están capacitadas para servir"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 17-26",
+      "explanation": "Aprendimos que la preparación espiritual y el servicio humilde pueden transformar vidas."
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo podemos aplicar el ejemplo de los anti-nefi-lehitas?",
+      "type": "multiple",
+      "options": [
+        "Considerando que no es posible aplicar su ejemplo hoy",
+        "Solamente en situaciones de extremo peligro físico",
+        "Reconociendo que su ejemplo no es relevante actualmente",
+        "Siendo fieles a nuestros convenios sin importar el costo"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 23-24",
+      "explanation": "Podemos aplicar su ejemplo siendo fieles a nuestros convenios sin importar el costo."
+    },
+    {
+      "id": 5,
+      "question": "Benjamín siente que este semestre aprendió mucho pero no sabe cómo demostrarlo en su vida diaria. ¿Qué le sugerirías basándote en la autoevaluación?",
+      "type": "multiple",
+      "options": [
+        "Buscar aplicar en decisiones concretas los principios aprendidos, no solo recordarlos para un examen",
+        "Memorizar más datos para el próximo examen",
+        "Esperar a que otros noten su conocimiento sin hacer nada más",
+        "Comparar sus notas con las de sus compañeros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lo ideal es buscar aplicar en decisiones concretas los principios aprendidos, no solo recordarlos para un examen."
+    },
+    {
+      "id": 6,
+      "question": "Julieta admira el ejemplo de los hijos de Mosíah pero siente que su propia vida es muy distinta a la de ellos. ¿Cómo podría aplicar esa lección a su realidad?",
+      "type": "multiple",
+      "options": [
+        "Copiar exactamente los mismos métodos que ellos usaron",
+        "Buscar su propia forma de preparación espiritual y servicio humilde, adaptada a su situación actual",
+        "Esperar a tener una experiencia dramática como la de ellos antes de servir",
+        "Sentir que su situación no le permite aplicar ninguna de esas lecciones"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 17-26",
+      "explanation": "Podemos buscar nuestra propia forma de preparación espiritual y servicio humilde, adaptada a nuestra situación actual."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué conecta las lecciones sobre el poder de la palabra de Dios con el ejemplo de los anti-nefi-lehitas?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "Solo la enseñanza sobre la palabra de Dios tiene relevancia práctica",
+        "Ambas muestran que la palabra de Dios y el testimonio vivido pueden transformar corazones de forma más poderosa que la fuerza",
+        "El ejemplo de los anti-nefi-lehitas contradice la enseñanza sobre el poder de la palabra"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 23-31",
+      "explanation": "Ambas muestran que la palabra de Dios y el testimonio vivido pueden transformar corazones más poderosamente que la fuerza."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "leccion-46",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Tres días después de cruzar el Mar Rojo —quizás el milagro más espectacular de toda la historia israelita— Israel llegó a Mara. El agua era amarga e imposible de beber. Y el pueblo murmuró.",
+        "Tres días. Eso fue lo que tardó la gratitud en convertirse en queja después de presenciar uno de los milagros más grandes de la historia. Esta reacción parece incomprensible hasta que la reconocemos en nosotros mismos: recibimos algo extraordinario del Señor, pero ante la siguiente dificultad olvidamos lo que acabamos de recibir.",
+        "En Mara, el Señor le mostró a Moisés un árbol que, al ser echado en el agua, la hizo dulce. Y luego vino la promesa más profunda de este episodio: 'Yo soy Jehová tu sanador' (Éxodo 15:26). En hebreo, Jehová Raphah. Este nombre revela que la sanación —física y espiritual— es uno de los atributos esenciales de Dios.",
+        "Después, en Refidim, no había agua en absoluto. El pueblo volvió a murmurar, esta vez más intensamente. El Señor instruyó a Moisés que golpeara la roca del Horeb. Brotó agua. Siglos después, Pablo identificó esa roca como un tipo de Jesucristo: 'La roca era Cristo' (1 Corintios 10:4). El mismo Salvador que sana las amarguras también es la fuente de agua que no se agota.",
+        "Ambas historias enseñan lo mismo: el problema no era el agua. El problema era hacia dónde miraba el pueblo cuando tenía sed. Moisés fue directo al Señor. Israel murmuró entre sí. Esa diferencia lo cambió todo."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Éxodo 15:26",
+          "texto": "Si oyeres atentamente la voz de Jehová tu Dios... yo soy Jehová tu sanador.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/15?lang=spa&id=p26#p26"
+        },
+        {
+          "referencia": "1 Corintios 10:4",
+          "texto": "Porque bebían de la roca espiritual que los seguía, y la roca era Cristo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/10?lang=spa&id=p4#p4"
+        },
+        {
+          "referencia": "Juan 4:14",
+          "texto": "Mas el agua que yo le daré será en él una fuente de agua que salte para vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/4?lang=spa&id=p14#p14"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "\"Los principios de mi evangelio\", Liahona, mayo de 2021, pág. 126",
+      "texto": "Los principios del Evangelio son para mí y para ti lo que el timón es para un barco. Los principios correctos nos permiten encontrar nuestro camino y mantenernos firmes, constantes e inamovibles, de modo que no perdamos el equilibrio y caigamos en las tempestuosas tormentas de oscuridad y confusión de los últimos días.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/56bednar?lang=spa&id=p30#p30"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Israel murmuró pocos días después de presenciar uno de los milagros más grandes de la historia. Eso no los hace hipócritas: los hace humanos. La fe genuina requiere renovación constante porque la memoria espiritual se debilita sin alimentación diaria. 'Jehová tu sanador' sigue siendo el nombre de Dios hoy. Él puede endulzar las aguas amargas de la desilusión, el dolor y el miedo —si llevás esas amarguras a Él en lugar de murmurar con los demás."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Israel murmuró solo tres días después del Mar Rojo. ¿Cuándo fue la última vez que te sorprendiste murmurando poco después de recibir una bendición?",
+        "¿Cuál es la diferencia entre llevar una dificultad al Señor en oración —como Moisés— y murmurar en tu corazón?",
+        "El nombre 'Jehová tu sanador' revela algo esencial sobre Dios. ¿Hay alguna amargura en tu vida que puedas llevarle hoy para que Él la sane?",
+        "Pablo dice que la roca del desierto era Cristo. ¿Cómo ves a Jesucristo como fuente de 'agua viva' en tu vida cotidiana concretamente?",
+        "¿Qué hábito de gratitud podrías crear esta semana para no olvidar las bendiciones que ya recibiste?",
+        "¿Hay alguna situación de tu vida donde el Señor te pide que lo busques a Él directamente, en lugar de murmurar sobre el problema?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "En Mara, el agua era amarga e imposible de beber. ¿Cuántos días habían pasado desde el cruce del Mar Rojo cuando Israel llegó a ese lugar?",
+      "options": [
+        "Cuarenta días, lo mismo que Moisés pasaría luego en el monte Sinaí.",
+        "Tres días, lo cual hace que la rapidez de la murmuración resulte significativa.",
+        "Siete días, el tiempo simbólico de una semana completa en el calendario hebreo.",
+        "Un día, porque el desierto era mucho más pequeño de lo que los relatos sugieren."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Pablo identifica en 1 Corintios 10:4 la roca de Refidim de la cual brotó agua como un símbolo de Jesucristo. ¿Qué instrucción específica recibió Moisés para que el agua brotara?",
+      "options": [
+        "Orar sobre la roca durante toda una noche hasta que el agua emergiera por la fe del pueblo.",
+        "Tocar la roca con la mano de manera suave para que la acción fuera completamente de Dios.",
+        "Pedirle al pueblo que cavara alrededor de la roca para que el agua subterránea pudiera salir.",
+        "Golpear la roca con su vara, el mismo instrumento que había extendido sobre el Mar Rojo."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "En la batalla contra Amalec, cuando Moisés mantenía las manos en alto, Israel prevalecía; cuando las bajaba, Amalec prevalecía. Aarón y Hur lo sostuvieron sentado en una piedra con los brazos levantados. ¿Qué enseña ese episodio sobre el papel del sostenimiento en la obra del Señor?",
+      "options": [
+        "Que el éxito de la obra del Señor puede depender de si Su pueblo sostiene activamente a quienes El llama para dirigirla.",
+        "Que los líderes nunca deben mostrar señales de debilidad física frente a los enemigos del pueblo.",
+        "Que la oración con los brazos levantados es la forma más efectiva de petición en el Antiguo Testamento.",
+        "Que Aarón y Hur eran más fieles que el resto del pueblo y por eso fueron elegidos para ayudar a Moisés."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "El Señor reveló Su nombre como 'Jehová Raphah' —Jehová tu sanador— en el episodio de Mara. ¿Qué dimensión de la sanación divina apunta más allá de la sanación física del agua amarga?",
+      "options": [
+        "Que el Señor tiene poder sobre los elementos naturales del mundo, incluyendo el agua, la tierra y el fuego.",
+        "Que la sanación del agua prefiguraba los milagros de sanación física que Jesús realizaría en Su ministerio.",
+        "Que el Señor puede sanar las amarguras espirituales —el dolor, la desilusión, el resentimiento— de la misma manera que sanó el agua de Mara.",
+        "Que la sanación del Señor siempre requiere que la persona afectada lleve al Señor algo físico como ofrenda."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Emilia guarda rencor hacia una amiga que la traicionó hace meses. Lo describe como 'un sabor amargo que no se va'. Usando el símbolo de las aguas de Mara, ¿qué le diría esta lección?",
+      "options": [
+        "Que debería confrontar a su amiga directamente para resolver el conflicto antes de pedirle ayuda al Señor.",
+        "Que el tiempo sana sola esa clase de amargura; la única acción necesaria es esperar con paciencia.",
+        "Que el mismo 'árbol' —la Expiación de Jesucristo— que hizo dulces las aguas de Mara puede sanar la amargura emocional si ella se lo lleva al Señor.",
+        "Que debería alejarse de su amiga definitivamente porque las relaciones que generan amargura no son saludables."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Tomás tiene un obispo nuevo al que no conoce bien y dice que 'no le ve el punto' a asistir a las reuniones porque el anterior le parecía mucho mejor. Según el principio del sostenimiento en la batalla de Amalec, ¿qué perspectiva ofrece la lección?",
+      "options": [
+        "Que debería hablar con el obispo anterior para que lo ayude a relacionarse mejor con el nuevo líder.",
+        "Que sostener a los líderes llamados por el Señor —incluso cuando no los conocemos bien— es parte de cómo la obra del Señor prospera, no una preferencia personal.",
+        "Que tiene razón en ser selectivo sobre a cuáles reuniones asistir mientras evalúa el estilo del nuevo obispo.",
+        "Que el Señor entiende sus preferencias y eventualmente llamará a alguien que se adapte mejor a su estilo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Mara (agua amarga), Refidim (sin agua) y la batalla contra Amalec son tres pruebas distintas que Israel enfrentó en el mismo período. ¿Qué patrón emerge sobre cómo el Señor responde a las necesidades de Su pueblo en esas tres situaciones?",
+      "options": [
+        "Que el Señor elimina siempre el problema de raíz para que no vuelva a ocurrir la misma prueba en el futuro.",
+        "Que el Señor responde cuando el pueblo clama, pero la forma de respuesta varía: a veces sana directamente, a veces instruye a actuar, a veces requiere el esfuerzo sostenido del pueblo.",
+        "Que el Señor solo responde a las necesidades físicas en el desierto; las espirituales requieren un contexto diferente.",
+        "Que las tres pruebas muestran que el pueblo no aprendía de sus experiencias previas y el Señor tuvo que repetir la misma lección de maneras distintas."
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

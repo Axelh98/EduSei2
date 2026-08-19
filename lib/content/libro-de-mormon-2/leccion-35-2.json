@@ -1,0 +1,89 @@
+{
+  "id": "leccion-35-2",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Moroni escribe sus últimas palabras, sellando el registro con una promesa divina para todos los futuros lectores. Él exhorta a quien lea estos anales a recordar la misericordia del Señor y a meditar sobre ella en su corazón. Enseña que podemos conocer la verdad de todas las cosas por el poder del Espíritu Santo, si oramos con verdadera intención y teniendo fe en Cristo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Moroni 10:3",
+          "texto": "He aquí, quisiera exhortaros a que, cuando leáis estas cosas... recordéis cuán misericordioso ha sido el Señor con los hijos de los hombres... y que lo meditéis en vuestros corazones.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Moroni 10:5",
+          "texto": "Y por el poder del Espíritu Santo podréis conocer la verdad de todas las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p5#p5"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué es necesario recordar y meditar en la misericordia de Dios antes de preguntar si el libro es verdadero?",
+        "¿Qué significa orar 'con verdadera intención'?",
+        "¿Cómo ha manifestado el Espíritu Santo verdades a tu corazón y mente en el pasado?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A quiénes se dirige Moroni en Moroni 10?",
+      "options": [
+        "A los nefitas",
+        "A los gentiles del futuro",
+        "A los lamanitas de su tiempo",
+        "A nadie específico"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué dones del Espíritu menciona Moroni?",
+      "options": [
+        "Ninguno",
+        "Fe, esperanza, caridad, sanidades, milagros, profecía",
+        "Solo riquezas",
+        "Poder terrenal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el propósito de los dones espirituales?",
+      "options": [
+        "Para jactarnos",
+        "Para beneficio de los hijos de Dios",
+        "Para poder personal",
+        "Para impresionar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo podemos saber que el Libro de Mormón es verdadero?",
+      "options": [
+        "Por la ciencia",
+        "Preguntando a Dios con fe sincera",
+        "Por opinión popular",
+        "No podemos saberlo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promete Moroni 10:4-5?",
+      "options": [
+        "Riquezas",
+        "Conocer la verdad por el poder del Espíritu Santo",
+        "Fama",
+        "Poder"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

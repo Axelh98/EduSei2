@@ -1,0 +1,33 @@
+{
+  "id": "leccion-32-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Moroni, comentando sobre los escritos de Éter, se enfoca en el poder y los milagros producidos por la fe en Jesucristo. Él enseña que la fe es la esperanza de cosas que no se ven, pero que son verdaderas. Relata numerosos ejemplos a lo largo de las Escrituras —desde Alma y Amulek hasta el hermano de Jared— donde individuos fieles lograron cosas extraordinarias, como prisiones derrumbadas y montañas removidas, todo después de ejercer su fe."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Éter 12:12",
+          "texto": "Porque si no hay fe entre los hijos de los hombres, Dios no puede hacer ningún milagro entre ellos; por tanto, no se mostró sino hasta después de su fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p12#p12"
+        },
+        {
+          "referencia": "Éter 12:19",
+          "texto": "Y hubo muchos cuya fe fue tan sumamente fuerte, aun antes que Cristo viniese, que no se les pudo impedir que penetraran el velo...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p19#p19"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué los milagros suelen ocurrir después de que mostramos fe, y no antes?",
+        "¿Qué milagros pequeños o grandes has visto en tu vida gracias a tu fe?",
+        "De los ejemplos de fe mencionados por Moroni, ¿cuál te inspira más y por qué?"
+      ]
+    }
+  ],
+  "questions": []
+}

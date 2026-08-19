@@ -1,0 +1,150 @@
+{
+  "id": "mosiah-26",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Después del establecimiento de la Iglesia entre los nefitas, Alma enfrentó el desafío de ayudar a una nueva generación que no había experimentado personalmente la conversión de sus padres. Muchos jóvenes comenzaron a apartarse de la Iglesia y a influir negativamente en otros. Alma buscó guía del Señor acerca de cómo ayudar a quienes habían pecado y rechazaban arrepentirse. El Señor enseñó a Alma importantes principios sobre el arrepentimiento, el perdón y la disciplina espiritual. También declaró una verdad poderosa: el Señor perdona a quienes se arrepienten sinceramente y confiesan sus pecados delante de Él. Esta lección enseña que Jesucristo tiene poder para perdonar completamente y transformar corazones. También aprendemos la importancia de cuidar espiritualmente a los demás con amor y paciencia."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 26:29",
+          "texto": "Sí, y cuantas veces mi pueblo se arrepienta, les perdonaré sus transgresiones contra mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=spa&id=p29#p29"
+        },
+        {
+          "referencia": "Mosíah 26:30",
+          "texto": "Aun yo soy el que borra tus transgresiones por amor de mí mismo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=spa&id=p30#p30"
+        },
+        {
+          "referencia": "Isaías 1:18",
+          "texto": "Aunque vuestros pecados sean como la grana, como la nieve serán emblanquecidos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=spa&id=p18#p18"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Hermana Linda S. Reeves",
+      "fuente": "Liahona, noviembre de 2016 (discurso \"El gran plan de redención\")",
+      "texto": "Cuando hemos pecado, Satanás a menudo trata de convencernos de que lo más noble es proteger a los demás de los estragos que causaría el que se conocieran nuestros pecados, incluso de evitar confesar al obispo, quien puede bendecir nuestra vida mediante sus llaves del sacerdocio como juez común en Israel. Sin embargo, la verdad es que lo más noble y cristiano que podemos hacer es confesar y arrepentirnos. Ese es el gran plan de redención del Padre Celestial",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2016/10/the-great-plan-of-redemption?lang=spa&id=p5#p5"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Mosíah 26 enseña que el Salvador siempre está dispuesto a perdonar a quienes se vuelven sinceramente a Él. El arrepentimiento no es una señal de fracaso definitivo, sino una evidencia del amor y misericordia de Dios. Alma aprendió que el cuidado espiritual requiere paciencia, guía inspirada y compasión. Jesucristo puede limpiar el pecado, sanar el corazón y dar una nueva oportunidad a todos Sus hijos."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué aprendes sobre el perdón en Mosíah 26?",
+        "¿Por qué es importante arrepentirse sinceramente?",
+        "¿Cómo demuestra esta lección el amor de Jesucristo?",
+        "¿Qué significa para ti recibir una nueva oportunidad espiritual?",
+        "¿Cómo puedes ayudar a otros con más paciencia y compasión?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué problema enfrentó Alma con la nueva generación?",
+      "type": "multiple",
+      "options": [
+        "Eran demasiado estrictos en guardar cada mandamiento",
+        "Se negaban a participar en cualquier actividad social",
+        "Pedían más responsabilidades de las que se les daban",
+        "No creían en la tradición de sus padres y pecaban"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 26:1-4",
+      "explanation": "La nueva generación no creía en la tradición de sus padres y caía en el pecado."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué instrucción dio el Señor a Alma sobre perdonar?",
+      "type": "multiple",
+      "options": [
+        "Perdonar solamente la primera vez que alguien peque",
+        "Perdonar cuantas veces la persona se arrepienta sinceramente",
+        "Esperar una señal pública antes de conceder el perdón",
+        "Dejar que el perdón dependa del tamaño del pecado"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 26:30",
+      "explanation": "El Señor instruyó a Alma a perdonar cuantas veces la persona se arrepienta."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué condición se requiere para ser perdonado según este capítulo?",
+      "type": "multiple",
+      "options": [
+        "Un arrepentimiento sincero acompañado de confesión",
+        "Simplemente decir que lo sentimos sin ningún cambio real",
+        "Ninguna condición especial más allá del bautismo",
+        "Realizar una ofrenda material como compensación"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 26:29",
+      "explanation": "Se requiere un arrepentimiento sincero acompañado de confesión."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué le preocupaba a Alma sobre algunos miembros de la iglesia?",
+      "type": "multiple",
+      "options": [
+        "Que no asistían con suficiente frecuencia a las reuniones",
+        "Que no contribuían lo suficiente a las necesidades del templo",
+        "Que cometían pecados y causaban que otros se descarriaran",
+        "Que cuestionaban públicamente algunas de sus enseñanzas"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 26:6",
+      "explanation": "A Alma le preocupaba que algunos miembros cometían pecados y hacían que otros se descarriaran."
+    },
+    {
+      "id": 5,
+      "question": "Abril cometió un error grave y siente que ya no merece el perdón de Dios. ¿Qué le enseña Mosíah 26:29-30 sobre el arrepentimiento?",
+      "type": "multiple",
+      "options": [
+        "Que Dios perdona cuantas veces la persona se arrepienta con sinceridad",
+        "Que solo se puede pedir perdón una vez en la vida",
+        "Que algunos errores son demasiado graves para ser perdonados",
+        "Que debe esperar años antes de poder recibir el perdón"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 26:29-30",
+      "explanation": "Dios perdona cuantas veces la persona se arrepienta con sinceridad."
+    },
+    {
+      "id": 6,
+      "question": "Santino no cree en lo que sus padres le enseñaron sobre la Iglesia y se siente presionado a fingir que sí. ¿Qué muestra el problema que enfrentó Alma con la nueva generación?",
+      "type": "multiple",
+      "options": [
+        "Que la nueva generación de Alma no tuvo ningún problema real de fe",
+        "Que los hijos deben aceptar sin cuestionar la fe de sus padres",
+        "Que fingir tener fe es aceptable mientras asista a la iglesia",
+        "Que la fe genuina no puede imponerse; cada persona necesita su propia conversión"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 26:1-4",
+      "explanation": "El relato muestra que la fe genuina no puede imponerse; cada persona necesita experimentar su propia conversión."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan la preocupación de Alma por los pecadores y la instrucción del Señor de perdonar cuantas veces se arrepientan?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación entre sí",
+        "Ambas muestran que el objetivo no es castigar sino ayudar a las personas a volver al camino correcto",
+        "Muestran que Alma debía castigar sin dar oportunidad al arrepentimiento",
+        "Solo la instrucción del Señor tiene relevancia práctica"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 26",
+      "explanation": "Ambas muestran que el objetivo del liderazgo espiritual es ayudar a las personas a volver al camino correcto, no solo castigar."
+    }
+  ]
+}

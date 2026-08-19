@@ -1,0 +1,61 @@
+{
+  "id": "leccion-32-7",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué mandó Cristo que fuéramos según 3 Nefi 12:48?",
+      "options": [
+        "Buenos",
+        "Perfectos como Él y el Padre",
+        "Normales",
+        "Ordinarios"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Es posible llegar a ser perfectos?",
+      "options": [
+        "No",
+        "Sí, mediante Cristo y con el tiempo",
+        "Solo para algunos",
+        "Es imposible"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué significa 'perfecto' en este contexto?",
+      "options": [
+        "Sin errores inmediatamente",
+        "Completo, íntegro, llegar a ser como Cristo eventualmente",
+        "Ser robot",
+        "No tener debilidades"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuándo alcanzamos la perfección?",
+      "options": [
+        "En esta vida siempre",
+        "Es un proceso que continúa mediante la expiación",
+        "Nunca",
+        "Al nacer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué necesitamos para llegar a ser perfectos?",
+      "options": [
+        "Solo esfuerzo personal",
+        "La gracia y expiación de Cristo",
+        "Suerte",
+        "Dinero"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

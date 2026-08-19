@@ -1,0 +1,50 @@
+{
+  "id": "nt-s11-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué hizo Jesús al entrar al templo en Jerusalén (Mateo 21:12)?",
+      "options": [
+        "Se sentó a descansar.",
+        "Echó fuera a todos los que vendían y compraban allí.",
+        "Pidió una ofrenda de oro.",
+        "Organizó una fiesta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el \"grande y el primer mandamiento\" según la respuesta de Jesús a los fariseos?",
+      "options": [
+        "No matarás.",
+        "Amarás al Señor tu Dios con todo tu corazón, alma y mente.",
+        "Guardarás el día de reposo.",
+        "Pagarás tus diezmos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el segundo mandamiento, que es \"semejante\" al primero?",
+      "options": [
+        "Honrarás a tu padre.",
+        "No dirás falso testimonio.",
+        "Amarás a tu prójimo como a ti mismo.",
+        "Irás al templo regularmente."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Qué dijo Jesús que depende de estos dos grandes mandamientos?",
+      "options": [
+        "Solo la salvación de los judíos.",
+        "Toda la ley y los profetas.",
+        "El éxito material de la nación.",
+        "La construcción del nuevo templo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

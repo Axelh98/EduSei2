@@ -1,0 +1,89 @@
+{
+  "id": "leccion-33-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Jesucristo aprueba y manda escudriñar los escritos de Isaías y las palabras de los profetas. Al revisar los registros nefitas, el Salvador nota que las profecías de Samuel el Lamanita sobre la resurrección de los santos no habían sido escritas. Él reprende amablemente a Nefi y ordena que se incluyan. Este capítulo destaca la importancia que el Señor da al mantenimiento de registros precisos y al estudio diligente de las Escrituras."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 23:1",
+          "texto": "Y ahora bien, he aquí, os digo que debéis escudriñar estas cosas. Sí, un mandamiento os doy de que escudriñéis estas cosas diligentemente; porque grandes son las palabras de Isaías.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "3 Nefi 23:11",
+          "texto": "Y Jesús le dijo: ¿Cómo es que no habéis escrito esta cosa, que muchos santos se levantaron y se aparecieron a muchos, y les ministraron?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=spa&id=p11#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué crees que el Salvador dio el mandamiento de 'escudriñar' y no solo 'leer' las escrituras?",
+        "¿Qué nos enseña la corrección de Cristo a Nefi sobre la importancia de llevar un registro de nuestra vida espiritual?",
+        "¿Cómo puedes mejorar tu estudio personal de las Escrituras para que sea más profundo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué cumplió Cristo con Su venida?",
+      "options": [
+        "Nada",
+        "La ley de Moisés",
+        "Solo profecías menores",
+        "Tradiciones humanas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué ovejas mencionó Cristo que no eran de este redil?",
+      "options": [
+        "Animales",
+        "Las tribus perdidas de Israel",
+        "Los gentiles solamente",
+        "Nadie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué ordenanza instituyó Cristo entre los nefitas?",
+      "options": [
+        "El matrimonio",
+        "La Santa Cena (sacramento)",
+        "Solo el bautismo",
+        "Ninguna"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseñó sobre orar?",
+      "options": [
+        "No orar",
+        "Orar siempre y velar",
+        "Orar solo los domingos",
+        "Orar una vez al año"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué registros mandó que se escribieran?",
+      "options": [
+        "Ninguno",
+        "Las palabras de Samuel el Lamanita que faltaban",
+        "Solo genealogías",
+        "Leyes políticas"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

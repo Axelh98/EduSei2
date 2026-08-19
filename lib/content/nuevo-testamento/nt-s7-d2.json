@@ -1,0 +1,50 @@
+{
+  "id": "nt-s7-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la frase clave de Lucas 2:10–12?",
+      "options": [
+        "\"Yo soy el camino\".",
+        "\"[Q]ue os ha nacido hoy... un Salvador, que es CRISTO el Señor\".",
+        "\"Nacer de agua y Espíritu\".",
+        "\"Venid a mí\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué frase clave pertenece a Juan 3:5?",
+      "options": [
+        "\"Dios amó al mundo\".",
+        "\"... [E]l que no naciere de agua y del Espíritu no puede entrar en el reino de Dios\".",
+        "\"Venid a mí\".",
+        "\"Amarás al Señor\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el propósito del Dominio de la doctrina?",
+      "options": [
+        "Ganar competencias.",
+        "Comprender las enseñanzas del Salvador y explicarlas con palabras propias.",
+        "Aprender griego antiguo.",
+        "Criticar otras doctrinas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué actividad sugiere el manual para profundizar la comprensión de un pasaje?",
+      "options": [
+        "Leerlo rápido 100 veces.",
+        "Utilizar la estrategia \"Línea por línea\" definiendo palabras clave.",
+        "No pensar en el significado.",
+        "Solo marcar el versículo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

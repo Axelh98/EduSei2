@@ -1,0 +1,56 @@
+{
+  "id": "leccion-104",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿En qué circunstancia escribió David el Salmo 51?",
+      "options": [
+        "Después de una gran victoria militar.",
+        "Después de que el profeta Natán lo confrontó por su pecado con Betsabé.",
+        "Mientras estaba escondido de Saúl en el desierto."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué le pide David al Señor en los primeros versículos del Salmo 51?",
+      "options": [
+        "Que castigue a sus enemigos.",
+        "Que tenga misericordia de él, borre sus transgresiones y lo limpie de su pecado.",
+        "Que le dé más riquezas para compensar lo que perdió."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué frase del Salmo 51 se convirtió en un pasaje clave sobre el arrepentimiento?",
+      "options": [
+        "'Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí.'",
+        "'Mis enemigos serán destruidos ante Tu presencia.'",
+        "'Construiré un templo en Tu honor.'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué nos enseña el Salmo 51 sobre la actitud correcta para arrepentirse?",
+      "options": [
+        "Que basta con sentir vergüenza y no volver a pensar en el pecado.",
+        "Que el arrepentimiento genuino incluye humildad, honestidad ante Dios y el deseo profundo de ser cambiado por Su poder.",
+        "Que solo los profetas pueden experimentar el verdadero arrepentimiento."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué tipo de sacrificio le agrada al Señor según el versículo 17 del Salmo 51?",
+      "options": [
+        "Grandes ofrendas de animales en el templo.",
+        "Un corazón quebrantado y contrito, al cual Dios no desprecia.",
+        "Ayunar cuarenta días seguidos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

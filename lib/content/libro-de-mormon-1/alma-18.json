@@ -1,0 +1,151 @@
+{
+  "id": "alma-18",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Después de que Ammón defiende los rebaños de Lamoni, el rey queda profundamente impactado por lo que vio. Al principio, cree que Ammón podría ser el \"Gran Espíritu\" del que hablaban sus antepasados, y esa idea lo llena de temor y asombro a la vez. Ammón, guiado por el Espíritu, percibe los pensamientos del rey y aprovecha ese momento para enseñarle. En vez de corregir de entrada las creencias de Lamoni, parte de ellas: le explica que el Gran Espíritu que él ya reconoce es, en realidad, Dios, el Creador de todas las cosas. A partir de ahí, le relata la historia de la Creación, la Caída de Adán y el plan de redención por medio de Jesucristo. La enseñanza de Ammón es tan clara y tan cargada de Espíritu que Lamoni reconoce su propia necesidad de un Salvador y clama por misericordia. Todo esto ocurre después de que Ammón pasó horas cuidando caballos y preparando carros en el establo, un trabajo humilde que nadie esperaría de alguien llamado a enseñar doctrinas de salvación. Esa mezcla de servicio silencioso y enseñanza valiente es el corazón de la lección: el amor genuino ablanda corazones que ningún argumento lograría convencer. A veces pensamos que primero hay que \"ganarse el derecho\" a hablar de Dios con una explicación perfecta, cuando en realidad ese derecho se gana sirviendo primero, con humildad, incluso en tareas que a nadie más le importan. Pensá en alguien que conocés y que parece lejos de la fe: tal vez lo que necesita de vos no es un sermón, sino que le ayudes con algo pequeño, sin esperar nada a cambio."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 18:24-28",
+          "texto": "... ¿Crees tú que hay un Dios? Y él respondió y le dijo: No sé lo que eso significa. Entonces Ammón dijo: ¿Crees tú que hay un Gran Espíritu? Y él contestó: Sí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=spa&id=p24-p28#p24"
+        },
+        {
+          "referencia": "Alma 18:32",
+          "texto": "Ammón le dijo: Él es el mismo Dios que creó los cielos y la tierra, y todas las cosas que en ellos hay.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=spa&id=p32#p32"
+        },
+        {
+          "referencia": "Alma 18:36-39",
+          "texto": "... le repitió la historia de la creación de Adán... y le explicó detalladamente el plan de redención...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=spa&id=p36-p39#p36"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Henry B. Eyring",
+      "fuente": "“El Libro de Mormón cambiará sus vidas”, Liahona, febrero de 2004, págs. 17, 18",
+      "texto": "Jamás subestimen el valor espiritual de hacer cosas temporales para el beneficio de aquellos a quienes sirven. […] Sean sus siervos y llegarán a amarles; y ellos sentirán su amor. Pero, lo que es aún más importante, sentirán el amor de Dios.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2004/02/the-book-of-mormon-will-change-your-life?lang=spa&id=p57,p58#p57"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Ammón demuestra que la enseñanza más eficaz casi siempre empieza con servicio humilde y con el respeto por lo que la otra persona ya cree. Al explicar la Creación, la Caída y la Expiación a partir de las propias ideas de Lamoni, le da el contexto que necesitaba para reconocer su necesidad de un Salvador. Servir a alguien no es una técnica para ganarlo al Evangelio: es una forma de amarlo de verdad, y ese amor es justamente lo que prepara el terreno para que el Espíritu actúe. Esta semana, buscá una oportunidad concreta de servir a alguien sin decirle una sola palabra sobre religión, y fijate qué puertas se empiezan a abrir solas."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué palabra usarías para describir la reacción de Lamoni al ver la fuerza de Ammón: miedo, asombro, curiosidad? ¿Por qué esa palabra?",
+        "¿Qué te parece la estrategia de Ammón de empezar preguntando en qué creía Lamoni, en vez de corregirlo de entrada?",
+        "¿Viviste alguna vez una situación en la que alguien te ayudó a entender algo espiritual partiendo de lo que vos ya creías?",
+        "¿Qué conexión ves entre \"servir primero\" y \"ganarse el derecho\" de hablar de las cosas de Dios?",
+        "Pensá en una persona a la que te gustaría hablarle de tu fe. ¿Qué podrías hacer por ella esta semana, sin mencionar todavía el Evangelio?",
+        "¿Qué parte de la Creación, la Caída o la Expiación te gustaría entender mejor esta semana, y con quién podrías conversar sobre eso?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué pensó el rey Lamoni sobre Ammón al principio?",
+      "type": "multiple",
+      "options": [
+        "Que era más que un hombre, posiblemente el Gran Espíritu",
+        "Que era un hombre común, sin nada especial",
+        "Que era una persona débil y sin ninguna capacidad",
+        "Que era un ladrón que buscaba robar sus rebaños"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 18:2-3",
+      "explanation": "El rey Lamoni pensó que Ammón era más que un hombre, posiblemente el Gran Espíritu."
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo supo Ammón los pensamientos del rey?",
+      "type": "multiple",
+      "options": [
+        "Simplemente adivinó basándose en su expresión facial",
+        "El propio rey se los contó directamente",
+        "Por el Espíritu de Dios que le revelaba los pensamientos del rey",
+        "Escuchó una conversación privada a escondidas"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 18:16",
+      "explanation": "Ammón supo los pensamientos del rey por el Espíritu de Dios."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué enseñó Ammón al rey Lamoni?",
+      "type": "multiple",
+      "options": [
+        "Únicamente relatos e historias sin ninguna doctrina",
+        "Filosofías humanas populares de otras naciones",
+        "Nada de real importancia espiritual",
+        "Sobre Dios, la Creación, Adán y el Plan de Redención"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 18:26-39",
+      "explanation": "Ammón enseñó al rey sobre Dios, la Creación, Adán y el Plan de Redención."
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo sirvió Ammón al rey Lamoni?",
+      "type": "multiple",
+      "options": [
+        "Únicamente predicando sin realizar ningún trabajo físico",
+        "Sirviendo como pastor y protegiendo sus rebaños",
+        "Exigiendo respeto y un trato especial de la corte",
+        "Solicitando privilegios adicionales por su servicio"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 18:9-10",
+      "explanation": "Ammón sirvió como pastor, protegiendo los rebaños del rey."
+    },
+    {
+      "id": 5,
+      "question": "Antonella quiere enseñar el evangelio a una amiga que tiene ideas muy distintas sobre Dios. ¿Qué método de Ammón le sería útil?",
+      "type": "multiple",
+      "options": [
+        "Comenzar preguntando lo que su amiga ya cree, y desde ahí enseñar con paciencia sobre Dios",
+        "Corregir de inmediato cualquier idea equivocada que tenga su amiga",
+        "Evitar el tema para no generar ningún conflicto",
+        "Exigir que su amiga acepte su punto de vista sin explicación"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 18:24-28",
+      "explanation": "Ammón comenzó preguntando lo que el rey ya creía, y desde ahí enseñó con paciencia sobre Dios."
+    },
+    {
+      "id": 6,
+      "question": "Lautaro sirvió fielmente a su familia por mucho tiempo sin que nadie lo notara. ¿Qué le muestra la reacción del rey Lamoni hacia el servicio de Ammón?",
+      "type": "multiple",
+      "options": [
+        "Que Lamoni ignoró por completo el servicio de Ammón",
+        "Que el servicio solo tiene valor si es reconocido públicamente",
+        "Que el servicio fiel y constante puede abrir la puerta a que otros escuchen el evangelio",
+        "Que el servicio de Ammón no tuvo ninguna consecuencia real"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 18:9-10",
+      "explanation": "El servicio fiel y constante de Ammón abrió la puerta para que Lamoni escuchara el evangelio."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan el servicio de Ammón como pastor y su enseñanza posterior sobre el plan de redención?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "El servicio fiel ganó la confianza de Lamoni, lo cual preparó su corazón para recibir la enseñanza espiritual",
+        "Solo la enseñanza sobre el plan de redención fue relevante para la conversión de Lamoni",
+        "El servicio de Ammón retrasó la conversión del rey"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 18",
+      "explanation": "El servicio fiel de Ammón ganó la confianza de Lamoni, lo cual preparó su corazón para recibir la enseñanza espiritual."
+    }
+  ]
+}

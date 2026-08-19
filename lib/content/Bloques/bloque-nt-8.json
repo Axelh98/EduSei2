@@ -1,0 +1,39 @@
+{
+  "id": "bloque-nt-8",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo define Pablo la fe en Hebreos 11:1?",
+      "options": [
+        "La obediencia a la ley de Moisés",
+        "La certeza de lo que se espera y la convicción de lo que no se ve",
+        "La esperanza en las riquezas terrenales",
+        "La confianza en los sacrificios del templo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hizo Abel por la fe según Hebreos 11:4?",
+      "options": [
+        "Construyó un altar en Jerusalén",
+        "Ofreció a Dios un sacrificio más excelente que Caín",
+        "Predicó a las naciones",
+        "Escribió un libro de leyes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué logró Moisés por la fe según Hebreos 11:29?",
+      "options": [
+        "Recibió las tablas de la ley",
+        "Construyó el tabernáculo",
+        "Cruzó el Mar Rojo con los israelitas",
+        "Derrotó a los egipcios en batalla"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

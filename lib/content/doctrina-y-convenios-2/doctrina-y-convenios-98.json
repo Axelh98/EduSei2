@@ -1,0 +1,61 @@
+{
+  "id": "doctrina-y-convenios-98",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué enseña DyC 98:1–3 sobre la paciencia en la aflicción?",
+      "options": [
+        "Todas las cosas obrarán juntamente para nuestro bien",
+        "El sufrimiento no tiene propósito",
+        "La paciencia no es necesaria",
+        "El Señor no interviene"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué consejo da DyC 98:11–12 sobre la justicia?",
+      "options": [
+        "Obrar con rectitud y obedecer las leyes justas",
+        "Ignorar las leyes",
+        "Buscar venganza",
+        "Evitar compromisos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué principio enseña DyC 98:23–32 sobre la persecución?",
+      "options": [
+        "Responder con mansedumbre y seguir la ley del Salvador",
+        "Vengarse inmediatamente",
+        "Ignorar las ofensas",
+        "Usar violencia siempre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseña DyC 98:33–38 sobre la guerra?",
+      "options": [
+        "Debe ser declarada por revelación y bajo dirección divina",
+        "Siempre es aceptable",
+        "Nunca es necesaria",
+        "Es decisión personal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseña DyC 98:39–48 sobre el perdón?",
+      "options": [
+        "Perdonar a los enemigos y dejar la justicia en manos de Dios",
+        "Nunca perdonar",
+        "Buscar venganza",
+        "Evitar toda reconciliación"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

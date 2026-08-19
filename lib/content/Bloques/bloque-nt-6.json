@@ -1,0 +1,28 @@
+{
+  "id": "bloque-nt-6",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué afirma Pablo al inicio de Romanos 8?",
+      "options": [
+        "Que la circuncisión es necesaria",
+        "Que no hay condenación para los que están en Cristo Jesús",
+        "Que el templo debe ser reconstruido",
+        "Que la ley de Moisés salva"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué asegura Pablo en Romanos 8:38-39?",
+      "options": [
+        "Que nada podrá separarnos del amor de Dios en Cristo Jesús",
+        "Que la ley traerá salvación eterna",
+        "Que los ángeles traerán nuevas revelaciones",
+        "Que Israel dominará sobre las naciones"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "leccion-184",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la diferencia entre el estrés normal y la ansiedad que necesita atención?",
+      "options": [
+        "No hay diferencia; ambos son igualmente peligrosos.",
+        "El estrés normal es temporal y manejable, mientras que la ansiedad persistente puede interferir significativamente con la vida diaria.",
+        "El estrés es físico y la ansiedad es solo espiritual."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué consejo da el Señor en Mateo 11:28–30 para quienes están agobiados?",
+      "options": [
+        "Que trabajen más duro para superar sus problemas.",
+        "Que vengan a Él, porque Él les dará descanso y Su yugo es fácil.",
+        "Que hablen con un psicólogo antes de acudir a Dios."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuáles son algunas herramientas prácticas para manejar el estrés según esta lección?",
+      "options": [
+        "Ignorar el problema y esperar a que pase.",
+        "Orar, hacer ejercicio, descansar bien, hablar con alguien de confianza y meditar en las Escrituras.",
+        "Consumir alimentos dulces para sentirse mejor."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuándo es importante buscar ayuda profesional para la ansiedad?",
+      "options": [
+        "Solo cuando ya no puedas hacer nada por ti mismo.",
+        "Cuando la ansiedad es persistente, intensa y afecta tu funcionamiento diario, ya que buscar ayuda es una señal de fortaleza.",
+        "Nunca; la fe en Dios es suficiente para todo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promesa del Señor en Filipenses 4:6–7 ayuda a enfrentar la ansiedad?",
+      "options": [
+        "Que nunca tendremos problemas si somos fieles.",
+        "Que si llevamos nuestras preocupaciones a Dios en oración, Su paz que sobrepasa todo entendimiento guardará nuestros corazones.",
+        "Que los jóvenes no deberían tener ansiedad."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

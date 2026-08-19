@@ -1,0 +1,61 @@
+{
+  "id": "nt-s14-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A quién se dirigió Jesús en Su gran oración de Juan 17?",
+      "options": [
+        "A los Apóstoles.",
+        "A Su Padre Celestial.",
+        "A la multitud.",
+        "A los ángeles."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué pidió Jesús específicamente para Sus discípulos en cuanto a su unidad?",
+      "options": [
+        "Que vivan en la misma casa.",
+        "Que sean uno, así como el Padre y el Hijo son uno.",
+        "Que piensen exactamente igual en todo.",
+        "Que no hablen con extraños."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué ruego hizo Jesús al Padre respecto a los discípulos y el mundo?",
+      "options": [
+        "Que los quite del mundo.",
+        "Que los guarde del mal (del maligno).",
+        "Que el mundo los ame.",
+        "Que el mundo les de premios."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué medio pidió Jesús que Sus discípulos fueran santificados?",
+      "options": [
+        "Por el agua.",
+        "Por la verdad (la palabra de Dios).",
+        "Por el sacrificio de animales.",
+        "Por el dinero."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Por quiénes más oró Jesús además de por los Apóstoles presentes?",
+      "options": [
+        "Solo por Sus familiares.",
+        "Por los que habrían de creer en Él por la palabra de ellos (nosotros).",
+        "Por los romanos.",
+        "Por los enemigos de la Iglesia."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "leccion-128",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué texto de Isaías 61 leyó Jesús en la sinagoga de Nazaret para declarar el inicio de Su ministerio?",
+      "options": [
+        "'El espíritu del Señor está sobre mí, porque me ha ungido para dar buenas nuevas a los pobres.'",
+        "'Venid a mí todos los que estáis trabajados y cargados.'",
+        "'El que cree en mí, aunque esté muerto, vivirá.'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿A quiénes específicamente vino a sanar y liberar el Mesías según Isaías 61:1–2?",
+      "options": [
+        "Solo a los ricos y poderosos de Israel.",
+        "A los pobres, a los quebrantados de corazón, a los cautivos, a los ciegos y a los que lloran.",
+        "Solo a los sacerdotes y levitas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué imagen de transformación usa Isaías 61:3 para los que están de luto?",
+      "options": [
+        "Que recibirán espadas en lugar de heridas.",
+        "Que recibirán 'corona de belleza en lugar de ceniza, aceite de gozo en lugar de luto y manto de alegría en lugar de espíritu angustiado'.",
+        "Que serán convertidos en guerreros poderosos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo puedes ser tú un instrumento para cumplir la misión de Isaías 61 en la vida de quienes te rodean?",
+      "options": [
+        "Solo los líderes con autoridad del sacerdocio pueden hacerlo.",
+        "Siendo empático, sirviendo con amor, compartiendo el Evangelio y siendo una fuente de consuelo para quienes sufren.",
+        "Predicando públicamente en las calles."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promete el Señor en Isaías 61:7 para los que sufrieron vergüenza y deshonra?",
+      "options": [
+        "Que serán vengados de sus enemigos.",
+        "Que recibirán el doble en lugar de su vergüenza y que tendrán gozo eterno.",
+        "Que serán trasladados a un lugar donde nadie los conozca."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

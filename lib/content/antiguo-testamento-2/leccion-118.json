@@ -1,0 +1,56 @@
+{
+  "id": "leccion-118",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué profetizó Isaías 29:4 sobre algo que saldría de la tierra y susurraría desde el polvo?",
+      "options": [
+        "Una nación antigua que sería descubierta por arqueólogos.",
+        "La voz de un pueblo destruido que hablaría desde el polvo, lo cual los Santos identifican con el Libro de Mormón.",
+        "Los terremotos que destruirían Jerusalén."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo describe Isaías 29:11–12 el libro sellado y quiénes intentarían leerlo?",
+      "options": [
+        "Que un hombre sabio lo leería fácilmente.",
+        "Que se daría a un hombre letrado que diría 'está sellado', y a uno sin letras que diría 'no sé leer', prefigurando la historia de José Smith.",
+        "Que solo los sacerdotes del templo podrían abrirlo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué condición espiritual describe Isaías 29:13 que el Señor critica?",
+      "options": [
+        "Que el pueblo oraba demasiado sin trabajar.",
+        "Que el pueblo se acercaba con la boca y lo honraba con los labios, pero su corazón estaba lejos de Él.",
+        "Que el pueblo había dejado de asistir al templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué 'obra maravillosa' promete el Señor en Isaías 29:14 que llevaría a cabo?",
+      "options": [
+        "Destruir a todos los enemigos de Israel de una sola vez.",
+        "Una obra maravillosa y un prodigio que haría que la sabiduría de los sabios pereciera, interpretada como la Restauración del Evangelio.",
+        "Construir un templo más grande que el de Salomón."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es el mensaje de esperanza al final de Isaías 29 para el pueblo que ha estado en oscuridad espiritual?",
+      "options": [
+        "Que serán destruidos junto con los malvados.",
+        "Que los humildes y pobres se alegrarán, los sordos oirán las palabras del libro y los ciegos verán.",
+        "Que deberán esperar indefinidamente antes de recibir ayuda."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "leccion-25-9",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mormón continúa narrando las guerras finales entre nefitas y lamanitas. A pesar de su maldad, Mormón siente compasión por su pueblo y vuelve a liderarlos. Las guerras se intensifican hasta culminar en la batalla final en el cerro de Cumorah, donde los nefitas son casi completamente destruidos. Mormón lamenta profundamente la caída de su pueblo. Estos capítulos muestran las consecuencias finales del rechazo persistente a Dios y sirven como advertencia sobre los resultados de la apostasía."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 6:17",
+          "texto": "¡Oh hermoso pueblo, cómo pudisteis haber partido de las sendas del Señor!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Mormón 6:20",
+          "texto": "Mi alma se aflige con tristeza sempiterna por su caída, porque eran una vez un pueblo delectable.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=spa&id=p20#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te enseña el lamento de Mormón sobre las consecuencias de apartarse de Dios?",
+        "¿Qué paralelos observas entre la caída de los nefitas y los desafíos modernos?",
+        "¿Cómo puedes evitar los errores que llevaron a la destrucción de los nefitas?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué problema surgió después de la muerte de Pahóran?",
+      "options": [
+        "Paz total",
+        "Contienda sobre quién sería el nuevo juez superior",
+        "Una guerra externa",
+        "Prosperidad inmediata"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Quién fue elegido como juez superior?",
+      "options": [
+        "Pahóran hijo",
+        "Paanqui",
+        "Pacumeni",
+        "Moroni"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hizo Kishkumen?",
+      "options": [
+        "Apoyó al juez",
+        "Asesinó al juez superior Pahóran",
+        "Huyó del país",
+        "Se arrepintió"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Quién formó una banda secreta en Helamán 2?",
+      "options": [
+        "Moroni",
+        "Helamán",
+        "Gadiántón",
+        "Nefi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "¿Qué nos enseñan estos capítulos sobre las combinaciones secretas?",
+      "options": [
+        "Son beneficiosas",
+        "Son peligrosas y destruyen naciones",
+        "Son inofensivas",
+        "Son necesarias"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

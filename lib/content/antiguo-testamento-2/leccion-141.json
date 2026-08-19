@@ -1,0 +1,56 @@
+{
+  "id": "leccion-141",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿De dónde fluía el río que vio Ezequiel en el capítulo 47?",
+      "options": [
+        "De las montañas del norte de Israel.",
+        "Del umbral del templo hacia el oriente, corriendo bajo el lado derecho del altar.",
+        "Del Mar Mediterráneo hacia el desierto."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué característica notable tenía el río mientras más avanzaba desde el templo?",
+      "options": [
+        "Se hacía cada vez más pequeño hasta desaparecer.",
+        "Se hacía cada vez más profundo: de los tobillos a las rodillas, a los lomos, hasta ser un río que no se podía pasar.",
+        "Cambiaba de color según la estación del año."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué efecto producía el río en todo lugar por donde pasaba?",
+      "options": [
+        "Destruía las ciudades que no eran santas.",
+        "Sanaba las aguas; todo ser viviente que se movía por donde entraba el río vivía, y los árboles en sus orillas daban fruto para alimento y sus hojas para medicina.",
+        "Solo beneficiaba a quienes vivían cerca del templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué representa el río del templo en el contexto del Evangelio de Jesucristo?",
+      "options": [
+        "El río Jordán donde fue bautizado Jesús.",
+        "El poder sanador y vivificante del Evangelio que fluye del Salvador y Sus ordenanzas, dando vida espiritual a todos los que lo reciben.",
+        "Los ríos físicos que rodearán el templo milenial."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo puedes experimentar el efecto sanador del 'río' del Evangelio en tu propia vida?",
+      "options": [
+        "Solo visitando el templo físicamente.",
+        "Sumergiéndote más profundamente en las ordenanzas, las Escrituras, la oración y los convenios, dejando que el poder del Salvador fluya y sane todas las áreas de tu vida.",
+        "Esperando a que el Milenio llegue para experimentar esa sanación."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

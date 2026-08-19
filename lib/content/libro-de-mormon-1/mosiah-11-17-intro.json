@@ -1,0 +1,155 @@
+{
+  "id": "mosiah-11-17-intro",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Señor siempre advierte a Sus hijos antes de que lleguen las consecuencias del pecado. En los días del rey Noé, el pueblo nefita había caído en la idolatría, la inmoralidad y el orgullo. El rey Noé y sus sacerdotes engañaban al pueblo y vivían en pecado mientras imponían cargas pesadas sobre la gente. En medio de esa corrupción, el Señor llamó al profeta Abinadí para invitar al pueblo al arrepentimiento. Abinadí enseñó con valentía que si el pueblo no se arrepentía sufriría esclavitud, destrucción y dolor. Aunque el pueblo rechazó sus palabras y procuró quitarle la vida, Abinadí permaneció firme en su testimonio de Jesucristo. Su ejemplo demuestra que los verdaderos profetas hablan con valentía aun cuando su mensaje no es popular. También aprendemos que el Señor envía profetas porque nos ama y desea protegernos del sufrimiento espiritual."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 11:20",
+          "texto": "Así dice el Señor: ¡Ay de este pueblo, porque he visto sus abominaciones, y su maldad, y sus fornicaciones!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "Mosíah 11:23-25",
+          "texto": "Y sucederá que si este pueblo no se arrepiente y se vuelve al Señor su Dios, será puesto en servidumbre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=spa&id=p23-p25#p23"
+        },
+        {
+          "referencia": "Mosíah 12:33",
+          "texto": "¿Enseñáis vosotros a este pueblo que deben guardar la ley de Moisés?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/12?lang=spa&id=p33#p33"
+        },
+        {
+          "referencia": "Mosíah 17:9-10",
+          "texto": "No retractaré las palabras que te he hablado concernientes a este pueblo, porque son verdaderas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/17?lang=spa&id=p9-p10#p9"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "Liahona, noviembre de 2021, pág. 17 (discurso \"El amor de Dios\")",
+      "texto": "Hace mucho tiempo que me ha impresionado, y también he sentido, el anhelante amor de los profetas de Dios cuando nos advierten en contra del pecado. No los motiva el deseo de condenar. Su verdadero deseo refleja el amor de Dios; de hecho, es el amor de Dios.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=spa&id=p12#p12"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La historia de Abinadí demuestra que el Señor nunca abandona a Sus hijos sin advertencia. Aunque el pueblo de Noé rechazó al profeta, el Señor siguió extendiendo misericordia e invitaciones al arrepentimiento. Abinadí enseñó con valentía aun sabiendo que sería perseguido. Su fidelidad nos recuerda que seguir al Señor requiere firmeza espiritual y disposición para defender la verdad. También aprendemos que las invitaciones de los profetas modernos son evidencia del amor de Dios. Cuando escuchamos y seguimos a los profetas, evitamos sufrimiento innecesario y fortalecemos nuestra relación con Jesucristo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué crees que el Señor envía profetas para advertirnos?",
+        "¿Qué similitudes ves entre la época de Abinadí y el mundo actual?",
+        "¿Cómo reaccionas normalmente cuando un profeta invita al arrepentimiento?",
+        "¿Qué te impresiona del valor de Abinadí?",
+        "¿Qué invitación profética necesitas aplicar más plenamente en tu vida?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué profetizó Abinadí sobre el rey Noé?",
+      "type": "multiple",
+      "options": [
+        "Que reinaría en paz durante muchos años más",
+        "Que se arrepentiría fácilmente al escuchar su mensaje",
+        "Que sería perdonado si cambiaba sus leyes de inmediato",
+        "Que su vida sería valuada como una ropa en un horno ardiente"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 12:3",
+      "explanation": "Abinadí profetizó que la vida del rey Noé sería valuada como una ropa en un horno ardiente."
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo selló Abinadí su testimonio?",
+      "type": "multiple",
+      "options": [
+        "Con su propia muerte, siendo quemado vivo en la hoguera",
+        "Huyendo de la ciudad antes de que lo capturaran",
+        "Negociando su liberación a cambio de silencio",
+        "Escribiendo un libro que se conservó por generaciones"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 17:20",
+      "explanation": "Abinadí selló su testimonio con su propia muerte, siendo quemado por el rey Noé."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué muestra el ejemplo de Abinadí sobre el valor moral?",
+      "type": "multiple",
+      "options": [
+        "Que es mejor evitar el conflicto siempre que sea posible",
+        "Que debemos ceder ante la autoridad si insiste lo suficiente",
+        "Que debemos defender la verdad sin importar las consecuencias",
+        "Que la verdad solo importa si es aceptada por la mayoría"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 13:9",
+      "explanation": "Abinadí enseña que debemos defender la verdad sin importar las consecuencias."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué caracterizó el reinado del rey Noé?",
+      "type": "multiple",
+      "options": [
+        "Justicia estricta y decisiones sabias para el pueblo",
+        "Iniquidad, idolatría e indulgencia excesiva en los placeres",
+        "Paz espiritual y un fuerte compromiso con Dios",
+        "Humildad constante frente a los profetas del Señor"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 11:1-15",
+      "explanation": "El reinado del rey Noé se caracterizó por la iniquidad, la idolatría y la indulgencia."
+    },
+    {
+      "id": 5,
+      "question": "Tomás ve que un compañero hace trampa en un examen y todos lo aplauden por 'ser vivo'. ¿Qué le enseña el ejemplo de Abinadí sobre defender la verdad?",
+      "type": "multiple",
+      "options": [
+        "Que es mejor quedarse callado para no generar conflicto",
+        "Que hay que seguir a la mayoría para no destacar negativamente",
+        "Que vale la pena defender lo correcto aunque la mayoría piense diferente",
+        "Que solo los adultos deben preocuparse por este tipo de decisiones"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 17",
+      "explanation": "El ejemplo de Abinadí enseña que vale la pena defender lo correcto aunque la mayoría piense diferente."
+    },
+    {
+      "id": 6,
+      "question": "Catalina teme hablar de su fe porque sus amigos podrían burlarse de ella. ¿Qué la anima el ejemplo de Abinadí?",
+      "type": "multiple",
+      "options": [
+        "Que es mejor evitar cualquier conversación sobre su fe",
+        "Que testificar de la verdad tiene valor eterno, incluso si trae rechazo inmediato",
+        "Que debe esperar a tener más edad para hablar de su fe",
+        "Que solo debe hablar si está segura de convencer a todos"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 17:7-10",
+      "explanation": "Testificar de la verdad tiene valor eterno, aunque en el momento traiga rechazo o burla."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan la maldad del rey Noé y el valor de Abinadí en este relato?",
+      "type": "multiple",
+      "options": [
+        "No tienen ninguna relación entre sí",
+        "Muestran que la maldad siempre logra silenciar a la verdad",
+        "El contraste muestra que la verdad puede sostenerse firme incluso frente a la corrupción del poder",
+        "Indican que Abinadí también era corrupto como el rey Noé"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 11-17",
+      "explanation": "El contraste entre la maldad de Noé y el valor de Abinadí muestra que la verdad puede sostenerse firme frente a la corrupción."
+    }
+  ]
+}

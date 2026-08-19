@@ -1,0 +1,111 @@
+{
+  "id": "leccion-25-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mormón es llamado a guardar los registros sagrados cuando tiene solo diez años. A medida que crece, observa la iniquidad creciente de su pueblo. Describe cómo los nefitas se endurecen en la incredulidad y rechazan al Señor. A pesar del llamado de Mormón a predicar, el pueblo no se arrepiente. El Señor retira a Sus discípulos y deja de manifestarse entre el pueblo debido a su maldad. Estos capítulos muestran las consecuencias de rechazar las advertencias proféticas."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 1:15-16",
+          "texto": "Procuré predicar a este pueblo, mas mi boca fue cerrada, y se me prohibió predicarles; porque he aquí, habían endurecido sus corazones.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=spa&id=p15-p16#p15"
+        },
+        {
+          "referencia": "Mormón 2:12-13",
+          "texto": "Su tristeza no era para arrepentimiento, a causa de la bondad de Dios, sino que fue más bien la tristeza de los condenados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=spa&id=p12-p13#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué diferencia observas entre la tristeza genuina que lleva al arrepentimiento y la 'tristeza de los condenados'?",
+        "¿Cómo describes las consecuencias de endurecer el corazón contra las enseñanzas espirituales?",
+        "¿Qué puedes aprender del ejemplo de Mormón al mantenerse fiel en medio de un pueblo inicuo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quiénes fueron los 2,000 jóvenes guerreros que se unieron a la causa de Helamán?",
+      "options": [
+        "Hijos del pueblo de Ammón, lamanitas conversos que habían convenido no volver a tomar las armas",
+        "Jóvenes nefitas regulares sin ninguna característica especial",
+        "Mercenarios contratados para la guerra",
+        "Soldados profesionales del ejército del Capitán Moroni"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué los padres de estos jóvenes guerreros no participaban en la batalla?",
+      "options": [
+        "Porque el tema no les importaba en absoluto",
+        "Porque eran considerados cobardes por su pueblo",
+        "Porque habían hecho un convenio solemne de nunca volver a tomar las armas",
+        "Porque eran demasiado ancianos para pelear"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "Los 2,000 jóvenes no habían hecho el mismo convenio que sus padres de no tomar las armas, y decidieron voluntariamente ir a defender a su pueblo (Alma 53:16–17). ¿Qué principio enseña esta diferencia entre generaciones?",
+      "options": [
+        "Que los hijos siempre deben repetir exactamente las mismas decisiones que sus padres, sin excepción",
+        "Que cada generación puede tomar decisiones propias de fe y valentía, inspiradas en el ejemplo de sus padres, sin estar atada a exactamente las mismas circunstancias",
+        "Que los jóvenes actuaron en contra de la voluntad de sus padres",
+        "Que el convenio de sus padres ya no tenía ningún valor una vez que sus hijos crecieron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Mormón describe a estos jóvenes como personas 'de verdad', 'sobrios' y de 'entendimiento firme', que guardaban los mandamientos de Dios (Alma 53:20–21). ¿Qué relación establece el texto entre su carácter espiritual y su valentía en la batalla?",
+      "options": [
+        "Que su fuerza provenía principalmente de ser mayores que los demás soldados",
+        "Que su valentía dependía únicamente de su preparación física, sin relación con su fe",
+        "Que la fortaleza espiritual —su fe, obediencia e integridad— fue la base de su valentía y firmeza en el campo de batalla",
+        "Que Mormón describe su carácter espiritual sin ninguna relación con la guerra"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Sofía descubrió un video que pone en duda la historia de la Iglesia y no sabe si su fe personal es lo bastante fuerte como para sostenerla en un momento difícil. Según el ejemplo de los 2,000 guerreros —jóvenes con una fe propia, enseñada pero no impuesta—, ¿qué le podrías compartir?",
+      "options": [
+        "Que su fe depende completamente de lo que sus padres decidan por ella",
+        "Que dudar significa que su fe nunca fue verdadera",
+        "Que solo quienes nunca tienen dudas pueden ser fieles",
+        "Que, como ellos, puede construir una fe genuinamente suya a partir de lo que le enseñaron, y que esa fe personal puede sostenerla incluso en los momentos de mayor duda"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Mateo tiene ganas de faltar al Seminario porque se quedó dormido, y piensa que un día no importa demasiado. Según la firmeza y la disciplina que mostraron los jóvenes guerreros incluso en circunstancias difíciles, ¿qué le dirías?",
+      "options": [
+        "Que solo las decisiones tomadas en situaciones extremas, como una guerra, realmente importan",
+        "Que la disciplina de los jóvenes guerreros era exclusivamente física, sin relación con hábitos cotidianos",
+        "Que la firmeza de estos jóvenes se construyó con decisiones constantes, y que sostener pequeños compromisos diarios —como no faltar al Seminario— también forma ese mismo tipo de carácter",
+        "Que faltar una vez no tiene ninguna relación con este relato"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto el convenio de los padres de no tomar armas como la decisión voluntaria de los hijos de ir a defender a su pueblo enseñan algo en común sobre la fe transmitida entre generaciones. ¿Cuál es?",
+      "options": [
+        "Que la fe genuina de los padres puede inspirar decisiones valientes en los hijos, aunque cada generación la exprese de manera distinta según su propia situación",
+        "Que los hijos deben repetir literalmente las mismas decisiones que tomaron sus padres",
+        "Que la fe de una generación no tiene ninguna influencia sobre la siguiente",
+        "Que los convenios familiares pierden su valor con el paso del tiempo"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

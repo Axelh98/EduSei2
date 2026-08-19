@@ -1,0 +1,50 @@
+{
+  "id": "nt-s11-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué significa la palabra hebrea \"Hosanna\" que la multitud exclamaba?",
+      "options": [
+        "Rey de reyes.",
+        "Sálvanos (usada en alabanza y súplica).",
+        "Bendito sea el Señor.",
+        "El Mesías ha llegado."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué profecía del Antiguo Testamento se cumplió cuando Jesús entró montado en un pollino?",
+      "options": [
+        "Isaías 53:3.",
+        "Zacarías 9:9.",
+        "Salmos 22:1.",
+        "Malaquías 3:1."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál dijo Jesús que era el propósito completo de Su venida a la tierra según Juan 12:23–33?",
+      "options": [
+        "Organizar un ejército contra Roma.",
+        "Llevar a cabo Su sacrificio expiatorio y atraer a todos hacia Él.",
+        "Establecer un gobierno político en Jerusalén.",
+        "Viajar a otras naciones para predicar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué simbolizan tradicionalmente las ramas de palmera usadas por la multitud?",
+      "options": [
+        "Pobreza y humildad.",
+        "Victoria, triunfo y gozo en el Señor.",
+        "Una ofrenda de comida.",
+        "El inicio de la cosecha."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

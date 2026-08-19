@@ -1,0 +1,61 @@
+{
+  "id": "nt-s4-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quién era Nicodemo?",
+      "options": [
+        "Un pescador del mar de Galilea.",
+        "Un fariseo y principal entre los judíos.",
+        "Un soldado romano.",
+        "El hermano de Lázaro."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué fue Nicodemo a ver a Jesús de noche?",
+      "options": [
+        "Porque no tenía luz en su casa.",
+        "Probablemente para evitar críticas de otros líderes judíos.",
+        "Porque Jesús solo enseñaba de noche.",
+        "Porque quería ver las estrellas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué significa \"nacer de nuevo\" según el élder Bednar?",
+      "options": [
+        "Cambiar de nombre.",
+        "Un nacimiento espiritual y un cambio fundamental en lo que sentimos y somos.",
+        "Volver a entrar en el vientre materno.",
+        "Aprender un nuevo idioma."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué dos elementos son necesarios para entrar en el Reino de Dios según Juan 3:5?",
+      "options": [
+        "Oro y plata.",
+        "Agua y Espíritu (Bautismo y Confirmación).",
+        "Fe y caridad solamente.",
+        "Arrepentimiento y buena conducta sin ordenanzas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo describe Jesús el proceso de nacer de nuevo en relación con el viento?",
+      "options": [
+        "Es destructivo como un huracán.",
+        "Podemos ver sus efectos, aunque no siempre entendemos cuándo comienza o de dónde viene.",
+        "Siempre es ruidoso y visible.",
+        "Es algo que ocurre solo una vez en la vida."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

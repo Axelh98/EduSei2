@@ -1,0 +1,123 @@
+{
+  "id": "r225-l01",
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "La Restauración del Evangelio en 1820 no ocurrió en un vacío histórico. Durante siglos, el Señor había estado preparando el mundo para el retorno de la plenitud de Su Evangelio. Desde la invención de la imprenta hasta las luchas por la libertad religiosa, desde la traducción de la Biblia a idiomas vernáculos hasta el surgimiento de naciones con libertades constitucionales — todo fue parte de un plan divino para preparar el escenario de la Restauración."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Amós 8:11–12",
+          "texto": "He aquí vienen días, dice Jehová el Señor, en los cuales enviaré hambre a la tierra, no hambre de pan, ni sed de agua, sino de oír la palabra de Jehová. E irán errantes de mar a mar; desde el norte hasta el oriente discurrirán buscando palabra de Jehová, y no la hallarán.",
+          "comentario": "El profeta Amós predijo una hambruna espiritual — no física sino de oír la palabra del Señor. Esta profecía se cumplió durante la Gran Apostasía, cuando la autoridad del sacerdocio y muchas verdades claras y preciosas se perdieron de la tierra. El mundo quedó en oscuridad espiritual, preparando la necesidad de una restauración."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "1 Nefi 13:34–35",
+          "texto": "Y aconteció que vi al ángel del Señor que habló, y me dijo: Estos últimos anales que has visto entre los gentiles testificarán de las cosas que hay escritas en el primero, que son de los doce apóstoles del Cordero; y testificarán de la veracidad de las primeras, las cuales son del Cordero de Dios; y después que proceden por mano de los doce apóstoles del Cordero de los judíos a los gentiles, verás el fundamento de una grande y abominable iglesia.",
+          "comentario": "Nefi vio en visión que en los últimos días el Señor sacaría a luz registros adicionales (el Libro de Mormón) que restaurarían verdades perdidas y testificarían de la Biblia. La Restauración no fue solo el regreso de la organización de la Iglesia — fue la restauración de verdad."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Durante la Edad Media, la Biblia estaba bajo el control de la iglesia institucional y solo existía en latín, un idioma que el pueblo común no leía. Reformadores valientes como John Wycliffe, William Tyndale, Martin Lutero y otros arriesgaron sus vidas para traducir las Escrituras a idiomas que la gente pudiera entender. Muchos fueron martirizados por su esfuerzo. Estos reformadores abrieron las puertas para que millones pudieran leer la palabra de Dios por sí mismos."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder M. Russell Ballard",
+          "fuente": "«La verdad restaurada», Conferencia General, octubre de 1994 (Liahona, enero de 1995, págs. 75–76)",
+          "texto": "El Nuevo Testamento indica que los antiguos Apóstoles se esforzaron mucho por preservar la iglesia que Jesucristo había dejado a su cuidado, pero sabían que al final todos sus esfuerzos serían en vano. Pablo escribió a los santos tesalonicenses, que esperaban con ansia la segunda venida de Cristo, que «no vendrá sin que antes venga la apostasía».",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/1994/10/restored-truth?lang=spa"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El establecimiento de los Estados Unidos de América con su Constitución que garantizaba la libertad religiosa fue un evento crucial. José Smith enseñó que la Constitución fue establecida «por la mano de hombres sabios» que el Señor levantó precisamente para este propósito (DyC 101:80). Sin la libertad religiosa garantizada en América, la Restauración habría enfrentado la misma persecución que sofocó intentos anteriores de reforma."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "La Gran Apostasía fue profetizada por profetas antiguos y resultó en la pérdida de la autoridad del sacerdocio y de muchas verdades claras (Amós 8:11–12).",
+            "Durante siglos, el Señor preparó el mundo para la Restauración mediante reformadores, la traducción de la Biblia, la invención de la imprenta y el establecimiento de naciones con libertad religiosa.",
+            "La Constitución de los Estados Unidos fue establecida por la mano de Dios para proveer el marco legal necesario para la Restauración (DyC 101:80).",
+            "La Restauración no fue simplemente la reorganización de una iglesia — fue el retorno de la autoridad divina y la revelación de verdades perdidas.",
+            "Los reformadores, aunque inspirados, no tenían la autoridad del sacerdocio para restaurar plenamente la Iglesia de Cristo."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Por qué crees que el Señor permitió la Gran Apostasía en lugar de preservar continuamente Su Iglesia en la tierra?",
+            "¿Qué papel jugaron los reformadores religiosos en preparar el camino para la Restauración, aunque ellos mismos no la completaron?",
+            "¿Cómo ves la mano del Señor guiando eventos históricos (la imprenta, la Reforma, la fundación de América) hacia el propósito de la Restauración?",
+            "¿Qué paralelos ves entre el hambre espiritual descrita en Amós 8:11 y las condiciones del mundo actual?"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "Según Amós 8:11–12, ¿qué tipo de hambre profetizó el Señor que vendría sobre la tierra?",
+      "options": [
+        "Hambre de pan y sed de agua debido a sequías severas",
+        "Hambre de oír la palabra de Jehová — una hambruna espiritual",
+        "Hambre de justicia social y reformas políticas",
+        "Hambre física que llevaría a las naciones a la guerra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Amós profetizó: «enviaré hambre a la tierra, no hambre de pan, ni sed de agua, sino de oír la palabra de Jehová.» Esta hambruna espiritual fue el resultado de la Gran Apostasía."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "¿Cuál fue uno de los eventos clave que preparó el mundo para la Restauración permitiendo que la gente común leyera las Escrituras?",
+      "options": [
+        "La conquista romana que unificó el idioma del imperio",
+        "La traducción de la Biblia a idiomas vernáculos por reformadores como Tyndale y Lutero",
+        "El establecimiento de escuelas públicas en toda Europa",
+        "La invención del telescopio que reveló la vastedad del universo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reformadores como Wycliffe, Tyndale y Lutero arriesgaron sus vidas para traducir la Biblia del latín a idiomas que el pueblo pudiera leer, abriendo el acceso a las Escrituras."
+    },
+    {
+      "id": 3,
+      "type": "truefalse",
+      "question": "Verdadero o Falso: José Smith enseñó que la Constitución de los Estados Unidos fue establecida por hombres sabios levantados por Dios para ese propósito.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Verdadero. DyC 101:80 enseña que la Constitución fue establecida «por la mano de hombres sabios» que el Señor levantó. La libertad religiosa fue esencial para la Restauración."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Qué perdió la tierra durante la Gran Apostasía?",
+      "options": [
+        "Solo algunos rituales y prácticas secundarias de la Iglesia primitiva",
+        "La autoridad del sacerdocio y muchas verdades claras y preciosas",
+        "El conocimiento de que Dios existe y ama a Sus hijos",
+        "La capacidad de los seres humanos de orar directamente a Dios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Durante la Gran Apostasía se perdieron la autoridad del sacerdocio y muchas verdades claras y preciosas del Evangelio. Esto creó la necesidad de una restauración completa."
+    },
+    {
+      "id": 5,
+      "type": "truefalse",
+      "question": "Verdadero o Falso: Los reformadores religiosos como Lutero y Calvino tenían la autoridad del sacerdocio para restaurar plenamente la Iglesia de Cristo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Falso. Aunque fueron inspirados y prepararon el camino, los reformadores no poseían la autoridad del sacerdocio. Se requirió una restauración divina mediante mensajeros celestiales."
+    }
+  ]
+}

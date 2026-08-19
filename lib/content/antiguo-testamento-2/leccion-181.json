@@ -1,0 +1,56 @@
+{
+  "id": "leccion-181",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué significa desarrollar 'fortaleza emocional en el Señor'?",
+      "options": [
+        "Aprender a no sentir emociones difíciles.",
+        "Aprender a apoyarte en el poder y el amor del Salvador para enfrentar los desafíos emocionales.",
+        "Ignorar tus sentimientos y enfocarte solo en el trabajo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es una acción concreta que puedes tomar cuando te sientes emocionalmente agotado?",
+      "options": [
+        "Aislarte de todos hasta sentirte mejor.",
+        "Acudir al Señor en oración y buscar el consuelo del Espíritu Santo.",
+        "Buscar distracciones para no pensar en el problema."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué papel juega el agradecimiento en la fortaleza emocional?",
+      "options": [
+        "Ninguno; el agradecimiento es solo una cortesía social.",
+        "Reconocer las bendiciones de Dios puede cambiar nuestra perspectiva y fortalecer nuestra esperanza.",
+        "Solo funciona si estás completamente feliz."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué pedir ayuda a un adulto de confianza cuando enfrentas dificultades emocionales es una señal de madurez?",
+      "options": [
+        "Porque significa que no puedes manejarlo solo.",
+        "Porque buscar apoyo sabio es parte de cómo el Señor nos ayuda a través de otras personas.",
+        "Porque los líderes tienen la obligación de resolver tus problemas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promesa ofrece el Señor a quienes acuden a Él en tiempos de dificultad emocional?",
+      "options": [
+        "Que todos los problemas desaparecerán inmediatamente.",
+        "Que sentirán paz, consuelo y la fortaleza del Espíritu Santo para soportar la prueba.",
+        "Que nunca más tendrán que enfrentar emociones difíciles."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

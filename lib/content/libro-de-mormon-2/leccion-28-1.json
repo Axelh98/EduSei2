@@ -1,0 +1,94 @@
+{
+  "id": "leccion-28-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Samuel el Lamanita es enviado por el Señor a profetizar a los nefitas. Cuando no lo dejan entrar en la ciudad, sube al muro y profetiza desde allí. Anuncia las señales del nacimiento de Cristo: una noche sin oscuridad, una nueva estrella, y muchas señales en el cielo. También profetiza las señales de Su muerte: tres días de oscuridad, tempestades, y destrucciones. Algunos creen su mensaje, pero otros intentan matarlo. El Espíritu lo protege. Estos capítulos preservan profecías cruciales sobre Cristo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 14:2-3",
+          "texto": "He aquí, os doy una señal: Dentro de cinco años vendrá el Hijo de Dios. Habrá grandes luces en el cielo, de modo que no habrá obscuridad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=spa&id=p2-p3#p2"
+        },
+        {
+          "referencia": "Helamán 14:20",
+          "texto": "Habrá truenos y relámpagos por el espacio de muchas horas, y se estremecerá y temblará la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "Helamán 16:2",
+          "texto": "Creyeron todos aquellos que fueron al encuentro de Nefi, y se bautizaron en el nombre de Jesús.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/16?lang=spa&id=p2#p2"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te enseña la valentía de Samuel al profetizar desde el muro?",
+        "¿Cómo describirías la importancia de las señales proféticas del nacimiento de Cristo?",
+        "¿Qué evidencia observas de la protección divina en la vida de Samuel?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quién fue Samuel el Lamanita?",
+      "options": [
+        "Un rey nefita",
+        "Un profeta lamanita enviado a los nefitas",
+        "Un guerrero",
+        "Un comerciante"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Desde dónde predicó Samuel?",
+      "options": [
+        "El templo",
+        "Sobre el muro de la ciudad",
+        "Una sinagoga",
+        "El mercado"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué profetizó Samuel sobre los tesoros nefitas?",
+      "options": [
+        "Que aumentarían",
+        "Que serían malditos y resbaladizos",
+        "Que serían seguros",
+        "Que se multiplicarían"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué serían malditos los tesoros?",
+      "options": [
+        "Por adorar al oro más que a Dios",
+        "Por ser de mala calidad",
+        "Por estar escondidos",
+        "Sin razón"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué advirtió Samuel que vendría pronto?",
+      "options": [
+        "Paz permanente",
+        "Destrucción si no se arrepentían",
+        "Prosperidad",
+        "Nada especial"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

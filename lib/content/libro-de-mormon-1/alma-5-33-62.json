@@ -1,0 +1,162 @@
+{
+  "id": "alma-5-33-62",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Después de invitar al pueblo a examinar sus almas, Alma enseñó acerca del amor y la misericordia de Jesucristo. Explicó que el Salvador extiende una invitación a todos sin excepción: venir a Él y participar de las bendiciones de la redención. Alma utilizó la imagen del Buen Pastor para enseñar que Jesucristo conoce y cuida personalmente a Sus ovejas. También advirtió acerca de endurecer el corazón y posponer el arrepentimiento. Alma declaró con valentía que él sabía estas verdades por medio del Espíritu Santo y del ayuno y la oración. Su testimonio muestra que el conocimiento espiritual se obtiene mediante revelación personal. La invitación del Salvador sigue abierta hoy para todos los que estén dispuestos a arrepentirse y seguirle."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 5:33-34",
+          "texto": "He aquí, él os envía una invitación para venir a él y participar de la bondad de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p33-p34#p33"
+        },
+        {
+          "referencia": "Alma 5:38",
+          "texto": "He aquí, os digo que el buen pastor os llama; sí, y en su propio nombre os llama.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p38#p38"
+        },
+        {
+          "referencia": "Alma 5:45-46",
+          "texto": "He aquí, os digo que yo sé por mí mismo que estas cosas son verdaderas... por el Espíritu Santo de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p45-p46#p45"
+        },
+        {
+          "referencia": "Alma 5:57",
+          "texto": "Salid de entre los inicuos, y apartaos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p57#p57"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Liahona, mayo de 2020 (discurso \"Escúchalo\")",
+      "texto": "Significa “oír con la intención de obedecer”. Escuchar con la intención de obedecer significa “escucharlo”: escuchar lo que el Salvador dice y entonces, dar oído a Su consejo",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa&id=p21#p21"
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Gary E. Stevenson",
+      "fuente": "Liahona, mayo de 2021, pág. 23 (discurso \"Corazones entrelazados\")",
+      "texto": "Cuando miramos a través de la lente del Evangelio, reconocemos que nosotros también nos encontramos bajo el cuidado de un guardián compasivo, que despliega Su bondad con un espíritu enriquecedor. El Buen Pastor nos conoce a cada uno por nuestro nombre y “tiene interés personal en [nosotros]”. El mismo Señor Jesucristo dijo: “Yo soy el buen pastor y conozco mis ovejas […] y [pondré] mi vida por las ovejas”.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/15stevenson?lang=spa&id=p46#p46"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Jesucristo es el Buen Pastor que llama personalmente a cada uno de Sus hijos a venir a Él. Su invitación no está limitada por errores pasados, debilidades o circunstancias. Alma enseñó que todos pueden participar de la bondad de Dios si responden con fe y arrepentimiento. También aprendemos que el testimonio espiritual viene por revelación divina. Alma no basó su conocimiento únicamente en tradiciones o razonamientos humanos, sino en la manifestación del Espíritu Santo. Hoy también podemos obtener un testimonio personal mediante la oración sincera, el estudio de las Escrituras y la obediencia fiel. El Salvador continúa llamándonos por nuestro nombre y ofreciéndonos descanso espiritual, perdón y vida eterna."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué significa para ti que el Buen Pastor te llame personalmente?",
+        "¿Cómo has sentido la invitación de Jesucristo en tu vida?",
+        "¿Qué aprendemos del ejemplo de Alma acerca de obtener un testimonio?",
+        "¿Por qué es peligroso endurecer el corazón?",
+        "¿Qué puedes hacer para responder mejor a la invitación del Salvador?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo describe Alma al Buen Pastor?",
+      "type": "multiple",
+      "options": [
+        "Como alguien que abandona a las ovejas en tiempos difíciles",
+        "Como una figura distante que no se involucra directamente",
+        "Como uno que llama a Sus ovejas por su nombre",
+        "Como un pastor que solo cuida a las ovejas más fuertes"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 5:38",
+      "explanation": "Alma describe al Buen Pastor como uno que llama a Sus ovejas por su nombre."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué invitación hace Alma en nombre del Señor?",
+      "type": "multiple",
+      "options": [
+        "A competir entre los miembros para ver quién es más fiel",
+        "A venir y no temer, a nacer de nuevo",
+        "A juzgar con severidad a quienes aún no se han convertido",
+        "A acumular riquezas como señal de bendición divina"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 5:49",
+      "explanation": "Alma invita, en nombre del Señor, a venir sin temor y a nacer de nuevo."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué significa ser parte del rebaño del Buen Pastor?",
+      "type": "multiple",
+      "options": [
+        "Escuchar Su voz, seguirle y experimentar un cambio de corazón",
+        "Simplemente asistir a las reuniones de la congregación",
+        "Alcanzar la perfección inmediata sin ningún proceso",
+        "Vivir sin enfrentar ninguna prueba ni dificultad"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 5:37-41",
+      "explanation": "Ser parte del rebaño significa escuchar Su voz, seguirle y experimentar un cambio de corazón."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué invitación hace Alma a quienes aún no han nacido de nuevo?",
+      "type": "multiple",
+      "options": [
+        "Que esperen mucho más tiempo antes de tomar cualquier decisión",
+        "Que vengan y sean bautizados para arrepentimiento",
+        "Que se rindan porque el cambio ya no es posible para ellos",
+        "Que busquen una congregación distinta que les resulte más cómoda"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 5:49",
+      "explanation": "Alma invita a quienes aún no han nacido de nuevo a venir y ser bautizados para arrepentimiento."
+    },
+    {
+      "id": 5,
+      "question": "Camila siente que se ha alejado tanto de la Iglesia que ya no podría volver. ¿Qué le ofrece la imagen del Buen Pastor en Alma 5?",
+      "type": "multiple",
+      "options": [
+        "La certeza de que ya es demasiado tarde para ella",
+        "La idea de que debe esperar a sentirse mejor antes de volver",
+        "La certeza de que el Señor la llama por su nombre y la invita a volver sin importar cuánto se haya alejado",
+        "La instrucción de resolver todo sola antes de acercarse a Dios"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 5:38,49",
+      "explanation": "El Buen Pastor llama a Sus ovejas por su nombre y las invita a volver sin importar cuánto se hayan alejado."
+    },
+    {
+      "id": 6,
+      "question": "Franco tiene un amigo que muestra mucho orgullo y no acepta consejos de nadie. ¿Qué advierte Alma sobre el orgullo y la envidia?",
+      "type": "multiple",
+      "options": [
+        "Que son cualidades que ayudan a destacar entre los demás",
+        "Que son obstáculos que impiden entrar en el redil de Dios y deben ser abandonados",
+        "Que solo afectan a quienes ya tienen problemas espirituales graves",
+        "Que no tienen ninguna relación con la vida espiritual"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 5:53-54",
+      "explanation": "Alma advierte que el orgullo y la envidia son obstáculos que impiden entrar en el redil de Dios."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué relación hay entre la imagen del Buen Pastor y la invitación a nacer de nuevo en este mismo pasaje?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "La imagen del Buen Pastor contradice la idea de nacer de nuevo",
+        "Solo la invitación a nacer de nuevo tiene importancia doctrinal",
+        "Ambas muestran que Dios busca activamente a las personas y ofrece un camino real de transformación"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 5:38-49",
+      "explanation": "Ambas imágenes muestran que Dios busca activamente a las personas y ofrece un camino real de transformación."
+    }
+  ]
+}

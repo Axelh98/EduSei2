@@ -1,0 +1,94 @@
+{
+  "id": "leccion-28-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Samuel continúa profetizando, enfocándose especialmente en el problema del materialismo. Explica que el pueblo ha puesto su corazón en las riquezas en lugar de en Dios. Por esta razón, sus tesoros se les volverán 'resbaladizos' - los perderán de maneras inesperadas. Enseña que las riquezas deben usarse para hacer el bien, no para acumular vanamente. También habla sobre rechazar a los profetas mientras honran a los profetas muertos. Este patrón muestra la hipocresía espiritual."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 13:20-21",
+          "texto": "Habéis procurado la felicidad cometiendo iniquidad, lo que es contrario a la naturaleza de esa justicia que está en nuestro gran y Eterno Jefe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=spa&id=p20-p21#p20"
+        },
+        {
+          "referencia": "Helamán 13:31",
+          "texto": "Vuestros tesoros os serán resbaladizos, y no podréis conservarlos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=spa&id=p31#p31"
+        },
+        {
+          "referencia": "Helamán 13:38",
+          "texto": "Habéis rechazado a todos los profetas; sí, habéis echado fuera y habéis apedreado y habéis dado muerte a todos los que os anunciaban la venida del Mesías.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=spa&id=p38#p38"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo describirías el problema del materialismo según las enseñanzas de Samuel?",
+        "¿Qué significa que los tesoros se vuelvan 'resbaladizos' cuando el corazón está en ellos?",
+        "¿En qué maneras modernas se manifiesta el rechazo a los profetas vivientes mientras se honra a los muertos?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué señal profetizó Samuel del nacimiento de Cristo?",
+      "options": [
+        "Un terremoto",
+        "Un día, una noche y un día sin obscuridad",
+        "Una inundación",
+        "Una guerra"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué otra señal celestial profetizó Samuel?",
+      "options": [
+        "Un cometa",
+        "Una nueva estrella",
+        "La luna desaparecería",
+        "El sol se apagaría"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuánto tiempo después del nacimiento vendría la muerte de Cristo?",
+      "options": [
+        "400 años",
+        "5 años",
+        "600 años",
+        "Aproximadamente 33-34 años"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "¿Qué señales profetizó de la muerte de Cristo?",
+      "options": [
+        "Nada especial",
+        "Tres días de tinieblas, truenos, relámpagos y terremotos",
+        "Solo un eclipse",
+        "Lluvia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Por qué vendrían estas señales?",
+      "options": [
+        "Sin razón",
+        "Para que todos supieran que Cristo había nacido y moriría",
+        "Para asustar",
+        "Por eventos naturales"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

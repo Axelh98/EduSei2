@@ -1,0 +1,39 @@
+{
+  "id": "bloque-at-8",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué mandamiento da Jehová en Malaquías 3 respecto a los diezmos?",
+      "options": [
+        "Traer todos los diezmos al alfolí",
+        "Ofrecer sacrificios diarios",
+        "Guardar silencio en el templo",
+        "Dar limosna a los pobres"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué promesa hace Jehová si Israel obedece con los diezmos?",
+      "options": [
+        "Les enviará un nuevo profeta",
+        "Abrirá las ventanas de los cielos y derramará bendición",
+        "Les concederá riquezas materiales inmediatas",
+        "Les dará dominio sobre las naciones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué se escribe delante de Jehová según Malaquías 3:16?",
+      "options": [
+        "Un registro de las ofrendas",
+        "Un decreto contra las naciones",
+        "Un libro de memorias para los que temen a Jehová",
+        "Un pacto nuevo con Israel"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

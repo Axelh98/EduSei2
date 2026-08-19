@@ -1,0 +1,110 @@
+{
+  "id": "41-dc-27-1-14",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "¿Qué tan significativa es la Santa Cena en tu vida? ¿La recibís de forma rutinaria, o te detiene a pensar realmente en lo que significa?",
+        "En agosto de 1830, José Smith fue a buscar vino para celebrar la Santa Cena con un grupo de amigos, entre ellos Newel y Sally Knight. Lo detuvo un mensajero celestial que le reveló D&C 27. La revelación aclaró algo fundamental: lo que importa en la Santa Cena no es el tipo de vino ni la calidad del pan. Lo que importa es la intención del corazón —participar 'con la mira puesta únicamente en la gloria de Dios'.",
+        "Los versículos 5–14 de D&C 27 revelan algo asombroso: en la futura Santa Cena del Milenio, el Salvador participará junto con Sus discípulos, junto con Moroni, Elías, Juan el Bautista, Elías el Profeta, Abraham, Isaac, Jacob, José, Pedro, Santiago y Juan. La Santa Cena no es solo un ritual memorial; es una anticipación de la gran reunión futura de todos los que pertenecen al convenio de Dios."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 27:2",
+          "texto": "Mas he aquí, os digo que no importa qué coméis ni qué bebéis, cuando participáis de la Santa Cena, si es así que lo hacéis con miras puestas únicamente en mi gloria.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=spa&id=p2#p2"
+        },
+        {
+          "referencia": "Doctrina y Convenios 27:5",
+          "texto": "He aquí, esto es sabiduría mía; por tanto, se os manda que no compréis vino ni bebidas fermentadas de vuestros enemigos; por tanto, no participaréis de ninguno, excepto lo que sea hecho nuevamente entre vosotros; sí, en este reino con mi padre hasta aquel día cuando beba con vosotros en el reino de mi padre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=spa&id=p5#p5"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "D&C 27 revela que la Santa Cena no es solo un rito memorial; es una anticipación de la gran reunión futura del convenio. Lo que el Señor pide es participar 'con la mira puesta únicamente en Su gloria', no en la forma ni en los elementos. Esa intención del corazón transforma la experiencia. Este domingo, antes de recibir la Santa Cena, tomá un momento para deliberadamente dirigir tu mente y corazón al Salvador."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Tu amigo te dice que la Santa Cena 'no le parece gran cosa'. ¿Qué le mostrarías de D&C 27 para ayudarlo a ver su significado?",
+        "¿Qué enseña D&C 27:2 sobre lo que realmente importa al participar de la Santa Cena?",
+        "¿Qué te dice sobre el carácter del Señor saber que Él participará en la gran Santa Cena del Milenio junto a Sus discípulos?",
+        "¿Tus experiencias recientes al participar de la Santa Cena fueron significativas? ¿Qué las hizo así, o qué las impidió?",
+        "¿Qué harás diferente este domingo para participar de la Santa Cena 'con la mira puesta únicamente en la gloria de Dios'?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tu amigo te dice: 'La Santa Cena no me parece gran cosa, es solo pan y agua.' ¿Qué le mostrarías de D&C 27 para ayudarlo a ver su significado real?",
+      "options": [
+        "Que el pan y el agua son símbolos obligatorios sin los cuales el convenio no es válido",
+        "Que lo que importa no son los elementos sino participar 'con la mira puesta únicamente en la gloria de Dios'",
+        "Que la Santa Cena es un ritual necesario para mantener la membresía activa",
+        "Que el pan representa el cuerpo físico de Cristo que fue enterrado"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "D&C 27:2 dice que lo que importa al participar de la Santa Cena es hacerlo 'con miras puestas únicamente en mi gloria'. ¿Qué otras cosas podrían competir con esa intención?",
+      "options": [
+        "El tipo de pan o la calidad del agua usados en la ordenanza",
+        "Pensar en lo que haremos después del bloque, estar distraídos, o participar por costumbre social",
+        "No recordar de memoria las palabras exactas de las oraciones",
+        "No haber asistido a la clase de Evangelio Mié antes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Tus experiencias recientes al participar de la Santa Cena fueron significativas? ¿Qué hizo la diferencia — o qué la impidió?",
+      "options": [
+        "La calidad de la música del coro durante el servicio sacramental",
+        "Si me preparé durante la semana para ese momento, o si llegué distante",
+        "Si el sacerdote leyó la oración claramente o con pausas",
+        "Si el discurso de la reunión fue interesante o aburrido"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Los versículos 5–14 de D&C 27 revelan que en la Santa Cena del Milenio participarán Moroni, Elías, Juan el Bautista, Abraham, Isaac, Jacob y otros. ¿Qué agrega eso al significado de esta ordenanza?",
+      "options": [
+        "Que la Santa Cena del futuro será más válida que la actual porque incluirá a más personas importantes",
+        "Que la Santa Cena no es solo un ritual memorial sino una anticipación de la gran reunión eterna del convenio",
+        "Que debemos esperar a que lleguen esos personajes antes de participar de la Santa Cena con seriedad",
+        "Que la Santa Cena del Milenio reemplazará a la Santa Cena actual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué harías diferente este domingo para participar de la Santa Cena 'con la mira puesta únicamente en la gloria de Dios'?",
+      "options": [
+        "Llegar temprano para sentarme en el banco de adelante y evitar distracciones",
+        "Tomar un momento antes del servicio para dirigir deliberadamente mi mente y corazón al Salvador",
+        "Llevar un diario y escribir durante la Santa Cena para aprovechar mejor el tiempo",
+        "Cerrar los ojos durante toda la distribución para concentrarme mejor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "El contexto histórico de D&C 27 es que José fue a buscar vino para la Santa Cena y un ángel lo detuvo. ¿Qué dice ese episodio sobre la autoridad detrás de esta revelación?",
+      "options": [
+        "Que los ángeles supervisan todos los detalles administrativos de la Iglesia",
+        "Que las doctrinas de la Santa Cena no fueron inventadas por José sino reveladas por un mensajero celestial",
+        "Que el vino estaba prohibido para los santos desde el principio de la Restauración",
+        "Que José no tenía buen criterio sobre los preparativos de las ordenanzas"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

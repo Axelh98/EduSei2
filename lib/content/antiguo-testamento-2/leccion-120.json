@@ -1,0 +1,56 @@
+{
+  "id": "leccion-120",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo describe Isaías 44 la ridiculez de adorar ídolos?",
+      "options": [
+        "Dice que los ídolos tienen algo de poder si se cree en ellos.",
+        "Describe a alguien que usa la mitad de la madera para calentarse y la otra mitad para fabricar un ídolo al que luego adora.",
+        "Dice que los ídolos son peligrosos porque provienen del diablo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué declaración hace el Señor sobre Sí mismo en Isaías 44:6?",
+      "options": [
+        "'Yo soy el más grande entre todos los dioses.'",
+        "'Yo soy el primero y yo soy el postrero, y fuera de mí no hay Dios.'",
+        "'Yo soy el Dios de Abraham solamente.'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué promesa de perdón hace el Señor en Isaías 44:22?",
+      "options": [
+        "Que perdonará solo a quienes nunca hayan pecado gravemente.",
+        "'Deshice como una nube tus rebeliones, y como niebla tus pecados; vuélvete a mí, porque yo te redimí.'",
+        "Que el perdón solo llegará después del juicio final."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué 'ídolos modernos' podrían aplicarse hoy según la lección de Isaías 44–47?",
+      "options": [
+        "Solo las estatuas religiosas de otras religiones.",
+        "Cualquier cosa que ocupe el lugar del Señor en nuestra vida: dinero, fama, tecnología o aprobación social.",
+        "Solo los objetos físicos que se usan en rituales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué lección aprende Babilonia en Isaías 47 sobre confiar en el poder humano en lugar de en el Señor?",
+      "options": [
+        "Que el poder humano puede sustituir al poder de Dios si es suficientemente grande.",
+        "Que la soberbia y la confianza en el poder propio llevan a la caída, pues solo el Señor tiene poder eterno.",
+        "Que Babilonia fue destruida por no construir suficientes templos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

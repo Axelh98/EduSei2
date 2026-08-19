@@ -1,0 +1,56 @@
+{
+  "id": "leccion-131",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué imagen usa el Señor en Jeremías 2:13 para describir el pecado de Israel de abandonarle?",
+      "options": [
+        "Como un árbol que se alejó de sus raíces.",
+        "Israel dejó al Señor, fuente de agua viva, para labrar cisternas rotas que no retienen agua.",
+        "Como un hijo que abandonó el hogar familiar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué pregunta retórica hace el Señor en Jeremías 2:5 para expresar Su dolor?",
+      "options": [
+        "'¿Por qué no me consultan antes de tomar decisiones?'",
+        "'¿Qué maldad hallaron en mí vuestros padres, que se alejaron de mí y se fueron tras la vanidad?'",
+        "'¿Acaso no les di la tierra que prometí?'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Con qué imagen tierna describe el Señor en Jeremías 3 Su disposición a perdonar a Israel si regresa?",
+      "options": [
+        "Como un juez severo que acepta la apelación.",
+        "Como un padre que llama a un hijo pródigo: 'Convertíos, hijos rebeldes, y sanaré vuestras rebeliones.'",
+        "Como un rey que concede amnistía general."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué 'cisternas rotas' modernas podrían representar las fuentes vacías de satisfacción a las que los jóvenes de hoy acuden en lugar de al Señor?",
+      "options": [
+        "El estudio académico y el trabajo.",
+        "La aprobación en redes sociales, el entretenimiento vacío, las relaciones que comprometen los estándares.",
+        "El servicio a los demás y la oración."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es la condición que pone el Señor en Jeremías 3:13 para restaurar la relación con Su pueblo?",
+      "options": [
+        "Que construyan un nuevo templo en Jerusalén.",
+        "Que reconozcan su iniquidad, que se rebelaron contra el Señor y que no escucharon Su voz.",
+        "Que derroten a todos sus enemigos militares."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

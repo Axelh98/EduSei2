@@ -1,0 +1,61 @@
+{
+  "id": "la-expulsi-n-de-misuri",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué llamamiento importante se extiende en DyC 118?",
+      "options": [
+        "El llamado de los Doce Apóstoles",
+        "La organización de la Sociedad de Socorro",
+        "La llamada de setentas",
+        "La dedicación de un templo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué requisito espiritual se enfatiza para los que serían llamados como apóstoles?",
+      "options": [
+        "Humildad y disposición a servir",
+        "Riqueza y educación",
+        "Influencia política",
+        "Experiencia militar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué acontecimiento se describe en DyC 119?",
+      "options": [
+        "La revelación de la ley del diezmo",
+        "La ley de consagración",
+        "La organización del sacerdocio",
+        "La dedicación de Sion"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué principio enseña DyC 120 respecto al uso de los fondos sagrados?",
+      "options": [
+        "Deben administrarse por consejo y autoridad",
+        "Pueden usarse libremente",
+        "No requieren supervisión",
+        "Son responsabilidad individual"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseñanza general transmiten DyC 118–120?",
+      "options": [
+        "El Señor organiza Su Iglesia con orden, llamamientos y leyes sagradas",
+        "La Iglesia avanza sin estructura",
+        "Las leyes temporales no importan",
+        "La autoridad no es necesaria"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

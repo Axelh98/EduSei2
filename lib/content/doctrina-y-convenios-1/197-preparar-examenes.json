@@ -1,0 +1,124 @@
+{
+  "id": "197-preparar-examenes",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Los períodos de exámenes y los proyectos grandes son momentos donde muchos jóvenes sienten que su fe y su vida espiritual quedan en segundo plano. Esta lección propone lo opuesto: los principios del evangelio son exactamente las herramientas que hacen más efectivo el estudio intenso. Planificar con anticipación (D&C 88:119 habla de orden), pedir ayuda al Señor antes de estudiar (Santiago 1:5), descansar adecuadamente como responsabilidad con el cuerpo que Dios nos dio, y manejar la ansiedad con fe activa son principios que ningún manual de técnicas de estudio puede ofrecer. Esta lección no busca reemplazar el esfuerzo sino integrarlo con la fe para que el rendimiento académico sea una expresión completa de mayordomía espiritual y temporal."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 9:7–8",
+          "texto": "He aquí, te digo que debes estudiar esto en tu mente; luego debes preguntarme si es correcto, y si es correcto, yo haré que tu pecho arda dentro de ti; por lo tanto, lo sentirás que es correcto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=spa&id=p7-p8#p7"
+        },
+        {
+          "referencia": "Santiago 1:5",
+          "texto": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa&id=p5#p5"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Con esto los probaremos», Liahona, noviembre de 2020, págs. 8–9",
+      "texto": "Las pruebas periódicas son absolutamente esenciales para el aprendizaje.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/593-preparing-for-tests-and-challenging-projects?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Prepararse para un examen con el Señor como socio no es una estrategia mágica sino una integración real de la fe y la diligencia. El patrón de D&C 9:7–8 — estudiar primero, luego preguntar al Señor — aplica a cualquier desafío intelectual. La fe amplía la capacidad; el esfuerzo la activa. Esta semana de exámenes o proyectos difíciles es una oportunidad concreta de practicar esa integración."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué hábitos de estudio tenés actualmente? ¿Cuál es el que más te cuesta mantener?",
+        "¿Alguna vez pediste ayuda al Señor específicamente antes de un examen o proyecto difícil? ¿Qué pasó?",
+        "¿Cómo cambia tu nivel de ansiedad frente a un examen cuando te preparás con tiempo vs. cuando lo dejás para el último momento?",
+        "Esta semana, ¿qué examen o proyecto difícil tenés por delante? ¿Cómo podrías incorporar la oración y la planificación con fe en tu preparación?",
+        "¿Qué le dirías a un amigo que siente que la fe y el rendimiento académico son cosas separadas?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 9:7–8 describe el proceso de recibir confirmación del Señor. ¿Qué paso es obligatorio antes de preguntar al Señor, según esos versículos?",
+      "options": [
+        "Estudiar el asunto en la mente primero — el Señor confirma el esfuerzo previo, no lo reemplaza.",
+        "Ayunar un día completo antes de cada pregunta importante.",
+        "Consultar con el obispo antes de llevar cualquier inquietud directamente al Señor.",
+        "Memorizar los versículos del Dominio de la Doctrina relevantes al tema."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Santiago 1:5 promete que Dios dará sabiduría al que la pida. ¿Qué dos características del Señor describe ese versículo al dar esa sabiduría?",
+      "options": [
+        "Con condiciones estrictas y registro previo de méritos.",
+        "Con abundancia y sin reproche.",
+        "Con lentitud y con consideración del historial de la persona.",
+        "Con suficiencia pero solo después de múltiples intentos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "D&C 88:118 manda buscar conocimiento 'con el estudio y también con la fe'. ¿Por qué el Señor combina esas dos cosas en lugar de pedir solo una?",
+      "options": [
+        "Porque quiere que trabajemos el doble en todo lo que hacemos.",
+        "Porque la fe reemplaza al estudio cuando uno tiene mucha confianza en el Señor.",
+        "Porque el estudio sin fe puede volverse arrogante, y la fe sin estudio puede volverse superficial — cada uno solo es incompleto.",
+        "Porque la combinación es una norma académica sin implicaciones espirituales específicas."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "El élder Bednar enseñó que el Señor 'amplifica nuestra capacidad' cuando lo reconocemos. ¿Por qué amplificar es diferente a reemplazar el esfuerzo?",
+      "options": [
+        "Amplificar significa que el esfuerzo propio sigue siendo necesario y el Señor lo multiplica; reemplazar significaría que el esfuerzo no importa.",
+        "No hay diferencia real — cualquier ayuda del Señor termina haciendo el trabajo por nosotros.",
+        "Amplificar aplica al estudio académico; reemplazar aplica solo al estudio espiritual.",
+        "La diferencia es solo semántica y el resultado final es el mismo en ambos casos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Tomás reza antes de cada examen pidiendo que le 'vaya bien' pero estudia muy poco durante la semana. Según D&C 9:7–8, ¿qué parte del proceso está invirtiendo Tomás?",
+      "options": [
+        "Está haciendo exactamente lo correcto — primero la fe, después el esfuerzo.",
+        "Está pidiendo sin haber estudiado primero — el Señor confirma el esfuerzo previo, no lo suple cuando se omite.",
+        "No hay problema con su proceso siempre que ore con suficiente fe y convicción.",
+        "Debería orar solo después del examen para agradecer, no antes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Lucía estudia con disciplina pero nunca ora antes de comenzar. Tiene buenas notas pero siente que olvida el material rápido. Según Santiago 1:5, ¿qué podría cambiar si incorporara la oración?",
+      "options": [
+        "Sus calificaciones subirían automáticamente porque el Señor intervendría en los exámenes.",
+        "No cambiaría nada — la oración no tiene efecto en procesos académicos.",
+        "Recibiría sabiduría — no solo información memorizable — que le ayudaría a integrar lo aprendido de manera más duradera.",
+        "El Señor le mostraría qué temas estudiar para que no tenga que revisar todo el material."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "D&C 9:7–8 (estudiar primero, luego preguntar) y Santiago 1:5 (pedir sabiduría sin reproche) juntos describen un proceso completo. ¿Cuál es el principio unificador de esas dos enseñanzas?",
+      "options": [
+        "Que el Señor hace el trabajo real y el esfuerzo humano es solo una señal de buena intención.",
+        "Que la fe elimina la necesidad de esfuerzo sostenido cuando la petición es sincera.",
+        "Que el Señor solo ayuda cuando el alumno llega al límite total de sus capacidades.",
+        "Que el esfuerzo va primero y el Señor lo confirma y amplifica — no es esfuerzo sin fe ni fe sin esfuerzo, sino los dos en secuencia."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

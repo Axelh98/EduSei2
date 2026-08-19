@@ -1,0 +1,124 @@
+{
+  "id": "184-cuidar-cuerpo",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El evangelio restaurado tiene una visión del cuerpo humano radicalmente diferente a la de muchas tradiciones religiosas: el cuerpo no es una prisión del alma ni un obstáculo espiritual — es un don eterno del Padre Celestial y una parte esencial de la identidad eterna de la persona. D&C 88:15 declara que el espíritu y el cuerpo juntos constituyen el alma del hombre. Eso significa que cuidar el cuerpo es una responsabilidad espiritual, no solo una preocupación de salud personal. La Palabra de Sabiduría (D&C 89), el sueño adecuado, el ejercicio, la alimentación sana y evitar sustancias dañinas no son reglas arbitrarias — son el cuidado de algo que el Señor considera sagrado y eterno. Para los jóvenes que viven bajo presión de imagen corporal, consumo de sustancias, sedentarismo y privación de sueño, esta lección ofrece una perspectiva que ninguna influencia cultural puede dar."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:15",
+          "texto": "Y el espíritu y el cuerpo son el alma del hombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "1 Corintios 6:19–20",
+          "texto": "¿O ignoráis que vuestro cuerpo es templo del Espíritu Santo, el cual está en vosotros, el cual tenéis de Dios, y que no sois vuestros? Porque habéis sido comprados por precio; glorificad, pues, a Dios en vuestro cuerpo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/6?lang=spa&id=p19-p20#p19"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Russell M. Nelson",
+      "fuente": "«Decisiones para la eternidad», Liahona, noviembre de 2013, pág. 107",
+      "texto": "Cada vez que se miren en el espejo, vean su cuerpo como un templo. Esa verdad —renovada con gratitud cada día— puede influir en forma positiva en sus decisiones sobre la forma en que cuidarán su cuerpo y la manera en que lo utilizarán; y esas decisiones determinarán su destino.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/10/decisions-for-eternity?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cuidar el cuerpo no es vanidad ni obsesión física — es reconocer que el Señor lo creó con dignidad eterna y que el Espíritu Santo necesita un templo limpio donde habitar. Los hábitos de sueño, alimentación, ejercicio y evitar sustancias dañinas que desarrollás en la adolescencia son el fundamento de la salud física y espiritual de toda tu vida adulta. Esta semana, elegí un hábito de cuidado del cuerpo que querés fortalecer — no por imagen sino porque el Señor habita en ese templo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo cambia tu perspectiva del cuidado del cuerpo saber que el cuerpo y el espíritu juntos forman el alma, según D&C 88:15?",
+        "¿Qué hábito de cuidado del cuerpo — sueño, alimentación, ejercicio, evitar sustancias — querés fortalecer? ¿Qué te impide hacerlo?",
+        "¿Cómo se conecta el cuidado del cuerpo con tu capacidad de recibir la guía del Espíritu Santo?",
+        "¿Qué presiones de tu entorno dificultan cuidar bien el cuerpo? ¿Cómo respondés a ellas desde el evangelio?",
+        "¿Qué decisión concreta sobre el cuidado de tu cuerpo podrías tomar esta semana como expresión de respeto por el templo que el Señor te dio?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 88:15 define el alma humana. ¿Cuál es esa definición?",
+      "options": [
+        "El espíritu y el cuerpo son el alma del hombre.",
+        "El alma es el espíritu eterno que habita temporalmente en el cuerpo mortal.",
+        "El alma es la identidad personal que persiste después de la muerte.",
+        "El alma es la suma de las experiencias vividas en la mortalidad."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "1 Corintios 6:19–20 presenta el cuerpo como templo del Espíritu Santo. ¿Cuál es la consecuencia que el apóstol Pablo saca de esa verdad?",
+      "options": [
+        "Glorificar a Dios en el cuerpo — cuidarlo es una expresión de adoración a quien lo creó.",
+        "Evitar toda actividad física que cause dolor o cansancio al templo.",
+        "Ayunar regularmente para mantener el cuerpo libre de impurezas.",
+        "Vestir de manera específica para honrar la dignidad del templo físico."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "El élder Bednar enseñó que 'el cuerpo no es simplemente un vehículo temporal del espíritu — es parte integrante de la identidad eterna'. ¿Qué implica eso sobre la Resurrección y el cuerpo?",
+      "options": [
+        "Que la Resurrección es solo espiritual y el cuerpo físico no resucita.",
+        "Que el cuerpo resucitado será completamente diferente al cuerpo mortal sin continuidad.",
+        "Que el cuerpo es parte permanente de quien somos — la Resurrección lo confirma al restaurar y glorificar el cuerpo, no al liberarnos de él.",
+        "Que el cuerpo solo importa durante la mortalidad y después se vuelve irrelevante."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué cuidar el cuerpo — dormir bien, ejercitarse, evitar sustancias dañinas — es una responsabilidad espiritual además de una cuestión de salud personal?",
+      "options": [
+        "Porque el Señor quiere que los santos sean físicamente atractivos.",
+        "Porque el Espíritu Santo necesita un templo limpio y capaz para manifestarse con plenitud — el descuido del cuerpo puede disminuir la capacidad de recibir inspiración espiritual.",
+        "Porque la salud física garantiza automáticamente la salud espiritual.",
+        "Porque el descuido del cuerpo es señal de falta de disciplina que afecta solo el comportamiento externo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Renata duerme pocas horas por pasar tiempo en el celular y llega al Seminario sin concentración. Según D&C 88:15 y el principio de la lección, ¿qué está afectando realmente con ese hábito?",
+      "options": [
+        "Solo su rendimiento académico en la escuela.",
+        "Solo su salud física sin consecuencias espirituales.",
+        "La integridad de su alma completa — el cuerpo y el espíritu son el alma, y descuidar el cuerpo afecta la capacidad del espíritu de funcionar con claridad y recibir guía del Señor.",
+        "Solo su sociabilidad porque llega cansada y menos dispuesta a relacionarse."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Mateo dice que 'el cuerpo es solo temporal así que no importa tanto lo que le haga'. 1 Corintios 6:19–20 y D&C 88:15 le responden directamente. ¿Cuál es esa respuesta?",
+      "options": [
+        "Que tiene razón — el cuerpo es temporal y el espíritu es lo eterno que importa.",
+        "Que el cuerpo es parte del alma, es templo del Espíritu Santo, y fue comprado por precio — tratarlo con descuido es contradecir esas tres verdades simultáneamente.",
+        "Que el cuerpo solo importa después de la resurrección, no durante la mortalidad.",
+        "Que el Señor entiende que los jóvenes no pueden cuidar perfectamente su cuerpo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "D&C 88:15 (el cuerpo y el espíritu son el alma) y 1 Corintios 6:19–20 (el cuerpo es templo) forman una visión integral. ¿Qué cambio práctico debería producir esa visión en la vida de un joven?",
+      "options": [
+        "Que debería obsesionarse con la imagen corporal y el ejercicio como señal de piedad.",
+        "Que el cuidado del cuerpo pasa de ser una preocupación estética o de rendimiento a ser un acto de mayordomía espiritual — no cuidarlo bien ni cuidarlo en exceso, sino tratarlo como el templo que es.",
+        "Que debería seguir todas las tendencias de salud populares como expresión de fe.",
+        "Que la Palabra de Sabiduría es la única guía necesaria y no hay más principios de cuidado del cuerpo en el evangelio."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

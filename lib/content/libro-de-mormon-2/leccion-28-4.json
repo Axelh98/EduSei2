@@ -1,0 +1,38 @@
+{
+  "id": "leccion-28-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Samuel profetiza las señales específicas del nacimiento de Cristo: una noche sin oscuridad, una nueva estrella, y otras señales celestiales. También profetiza las señales de Su muerte: tres días de oscuridad, destrucciones en la tierra, y cambios geológicos. Enseña sobre el libre albedrío y la redención, explicando que Cristo vino para redimir a todos los que crean en Su nombre. Enfatiza que las personas son libres de escoger entre la libertad eterna o la cautividad y muerte."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 14:5",
+          "texto": "Vendrá a redimir a los que crean en su nombre. Dará poder de llegar a ser hijos de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Helamán 14:30-31",
+          "texto": "Sois libres; se os permite obrar por vosotros mismos, porque he aquí, Dios os ha dado el conocimiento y os ha hecho libres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=spa&id=p30-p31#p30"
+        },
+        {
+          "referencia": "Helamán 14:13",
+          "texto": "Se aparecerá a los que crean en él. Harán señales y maravillas en su nombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=spa&id=p13#p13"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué importancia tienen las señales proféticas sobre el nacimiento y muerte de Cristo?",
+        "¿Cómo describirías la enseñanza de Samuel sobre el libre albedrío?",
+        "¿De qué manera ejerces tu libre albedrío para escoger la libertad eterna?"
+      ]
+    }
+  ],
+  "questions": []
+}

@@ -49,8 +49,12 @@ function estimateMinutes(questionCount: number): string {
 export function LessonCard({ lesson, categoryId }: LessonCardProps) {
   const accent    = TYPE_ACCENT[lesson.type ?? "default"] ?? TYPE_ACCENT.default
   const shortType = TYPE_SHORT[lesson.type ?? ""] ?? lesson.type ?? ""
-  const numQuiz   = lesson.questions?.length ?? 0
-  const hasStudy  = (lesson.secciones?.length ?? 0) > 0
+  // questionCount / hasStudy vienen del manifiesto del curso: permiten saber
+  // si hay quiz y repaso sin cargar el contenido de la leccion (que ya no
+  // viaja al cliente). Los campos `questions` / `secciones` quedan como
+  // fallback para datos que todavia lleguen con el contenido embebido.
+  const numQuiz   = lesson.questionCount ?? lesson.questions?.length ?? 0
+  const hasStudy  = lesson.hasStudy ?? (lesson.secciones?.length ?? 0) > 0
   const estTime   = estimateMinutes(numQuiz)
 
   // Estado de completado desde localStorage

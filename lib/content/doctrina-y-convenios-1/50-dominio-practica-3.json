@@ -1,0 +1,124 @@
+{
+  "id": "50-dominio-practica-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta sesión de práctica consolida los pasajes del Dominio de la Doctrina trabajados hasta ahora. El foco no está en recitar versículos de memoria sino en poder usarlos: explicarlos con palabras propias, ubicarlos en contexto y aplicarlos cuando alguien hace una pregunta real sobre el evangelio. Los pasajes en repaso incluyen D&C 1:37–38, D&C 8:2–3, D&C 19:16–19 y otros de las semanas anteriores. El dominio real de un versículo se prueba no en el aula sino en una conversación cotidiana."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 1:37–38",
+          "texto": "Buscad diligentemente, obedeced mis mandamientos y seréis libres. He aquí, yo soy Dios; dad atención a mi palabra, que es viva y poderosa.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=spa&id=p37-p38#p37"
+        },
+        {
+          "referencia": "Doctrina y Convenios 19:16–19",
+          "texto": "Porque he aquí, yo, Dios, he sufrido estas cosas por todos, para que no sufran ellos si se arrepienten; mas si no se arrepienten, forzosamente sufrirán aun como yo; lo cual sufrimiento me causó a mí, aun a Dios, el mayor de todos, temblar de dolor y sangrar de cada poro.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=spa&id=p16-p19#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Richard G. Scott",
+      "fuente": "Conferencia General, octubre de 2011 (Liahona, noviembre de 2011, pág. 6)",
+      "texto": "Se obtiene un gran poder al memorizar pasajes de Escrituras. El memorizar un pasaje es como crear una nueva amistad. Es como descubrir a una persona nueva que puede ayudarnos en tiempos de necesidad, darnos inspiración y consuelo, y ser la fuente de motivación para lograr un cambio necesario.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa&id=p9#p9"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El Dominio de la Doctrina no es un ejercicio escolar — es equipamiento para la vida. Cada pasaje memorizado y comprendido es una herramienta disponible en cualquier momento. El objetivo de esta práctica es salir del aula con versículos que ya no necesitás buscar, sino que están listos para cuando los necesités."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué pasaje del Dominio de la Doctrina podés citar con más confianza ahora mismo?",
+        "Si alguien te preguntara '¿por qué sufrió Cristo si Dios es omnipotente?', ¿qué versículo usarías para responder?",
+        "¿Cuándo fue la última vez que usaste un versículo memorizado fuera del aula de Seminario?",
+        "¿Qué método de memorización te funcionó mejor estas semanas, y por qué?",
+        "Elegí un pasaje que todavía no dominás bien. ¿Qué harás esta semana para aprenderlo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 19:16–19 describe el sufrimiento de Cristo en la Expiación. Según esos versículos, ¿cuál fue la alternativa que el Señor ofreció para que los seres humanos no sufrieran como Él?",
+      "options": [
+        "Arrepentirse — los que se arrepienten no necesitarán sufrir como Él sufrió.",
+        "Vivir perfectamente sin cometer errores desde el nacimiento.",
+        "Recibir el bautismo antes de cumplir los ocho años.",
+        "Memorizar y cumplir todos los mandamientos del evangelio sin excepción."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 8:2–3 describe el proceso de recibir revelación. ¿A qué dos partes de la persona habla el Espíritu Santo según esos versículos?",
+      "options": [
+        "Al cuerpo y al espíritu como una unidad indivisible.",
+        "A la mente y al corazón — ambos reciben la comunicación del Espíritu.",
+        "Solo a la mente para garantizar que el mensaje sea racional y verificable.",
+        "Solo al corazón porque el Señor prefiere las emociones a los argumentos intelectuales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "D&C 1:37–38 dice que las palabras del Señor 'se cumplirán todas'. ¿Qué diferencia práctica hace ese principio cuando alguien estudia las profecías del Señor sobre los últimos días?",
+      "options": [
+        "Que las profecías son garantías de resultados futuros que no dependen de nuestras elecciones.",
+        "Que las profecías son más bien sugerencias que pueden o no cumplirse según las circunstancias.",
+        "Que cada señal cumplida es evidencia de que el plan del Señor avanza exactamente como lo declaró — y eso fortalece la confianza.",
+        "Que el cumplimiento de las profecías es responsabilidad de los profetas actuales, no del Señor."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Si alguien te pregunta '¿por qué seguís al profeta?', D&C 1:37–38 es la respuesta más directa. ¿Qué afirma ese pasaje sobre las palabras de los siervos del Señor?",
+      "options": [
+        "Que las palabras del profeta son inspiradas pero pueden contener errores humanos importantes.",
+        "Que las palabras de los siervos del Señor son equivalentes a Sus propias palabras — el Señor las respalda.",
+        "Que las palabras del profeta solo son válidas cuando van acompañadas de un milagro visible.",
+        "Que D&C 1:37–38 habla de los profetas del Antiguo Testamento, no de los líderes actuales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Nicolás acaba de estudiar D&C 19:16–19 y tiene un amigo que dice 'no me arrepiento de nada porque me parece que Dios no existe'. Según el principio de esos versículos, ¿qué consecuencia describe el Señor para quien no se arrepiente?",
+      "options": [
+        "Que recibirá una segunda oportunidad en la vida espiritual sin consecuencias mayores.",
+        "Que el Señor simplemente no lo conocerá en el juicio y eso será consecuencia suficiente.",
+        "Que sufrirá como el Señor sufrió en la Expiación — el arrepentimiento existe precisamente para evitar eso.",
+        "Que perderá sus bendiciones temporales pero no tendrá consecuencias eternas."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Lucía memorizó D&C 6:36 ('no temas, pequeño rebaño; haced el bien') pero no sabe cuándo usarlo. Esta semana su hermana está muy ansiosa por una decisión difícil. ¿En qué situación encaja exactamente ese versículo?",
+      "options": [
+        "No encaja — ese versículo es solo para misioneros que enfrentan persecución real.",
+        "Encaja porque su hermana necesita un argumento doctrinal para no tomar la decisión equivocada.",
+        "Encaja perfectamente — el miedo y la ansiedad ante decisiones difíciles son exactamente el contexto de ese versículo.",
+        "Encaja solo si la hermana ya es miembro activa de la Iglesia, de lo contrario el versículo no aplica."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "D&C 8:2–3 (revelación habla a mente y corazón) y D&C 9:7–8 (estudiar en la mente y luego preguntar) juntos describen un proceso. ¿Cuál es el principio completo que esos dos versículos enseñan sobre cómo obtener revelación?",
+      "options": [
+        "Que la revelación llega sin esfuerzo cuando uno tiene suficiente fe acumulada.",
+        "Que solo las personas con dones especiales de revelación pueden recibir ambas partes del proceso.",
+        "Que la mente y el corazón reciben mensajes diferentes que a veces se contradicen entre sí.",
+        "Que el Espíritu habla a mente y corazón, pero primero el buscador debe estudiar y trabajar — la revelación responde al esfuerzo, no lo reemplaza."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

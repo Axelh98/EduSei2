@@ -1,0 +1,118 @@
+{
+  "id": "leccion-24-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mormón narra las guerras entre nefitas y lamanitas, destacando especialmente al capitán Moroni. Moroni prepara a su pueblo con armaduras para protegerse mejor que sus enemigos. Mormón testifica que si todos los hombres fueran como Moroni, el poder del infierno se estremecería para siempre. Moroni representa un ejemplo de cómo la preparación física y la fe espiritual trabajan juntas. El pasaje ilustra principios de liderazgo, preparación y confianza en Dios durante tiempos difíciles."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Liahona, noviembre de 2020",
+      "texto": "Incluso cuando las cosas iban bien, el capitán Moroni continuó preparando a su pueblo; nunca dejó de hacerlo; nunca se dormía en los laureles. […] El adversario nunca deja de atacar, así que nunca podemos dejar de prepararnos.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2020/11/37nelson?lang=spa&id=p30-p31#p30"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 48:11-13",
+          "texto": "Moroni era un hombre fuerte y poderoso; era un hombre de un entendimiento perfecto. Si todos los hombres fuesen como Moroni, el mismo poder del infierno se habría estremecido para siempre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=spa&id=p11-p13#p11"
+        },
+        {
+          "referencia": "Alma 43:45-47",
+          "texto": "Se acordaron de lo que el Señor su Dios había hecho por ellos. Clamaron al Señor su Dios para que los librara.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/43?lang=spa&id=p45-p47#p45"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿En qué áreas de tu vida necesitas 'prepararte con armaduras' espirituales?",
+        "¿Qué cualidades del capitán Moroni podrías aplicar en tus propios desafíos?",
+        "¿Cómo equilibras la preparación personal con la confianza en Dios?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quién es el líder militar nefita que destaca en estos capítulos?",
+      "options": [
+        "Nefi",
+        "Alma",
+        "El Capitán Moroni",
+        "Helamán"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "¿Qué preparó el Capitán Moroni para proteger a su pueblo?",
+      "options": [
+        "Armaduras, fortificaciones y preparación espiritual",
+        "Solamente oración, sin ninguna preparación física",
+        "Acuerdos diplomáticos con los lamanitas",
+        "Únicamente muros altos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Según Alma 43, ¿por qué peleaban los nefitas?",
+      "options": [
+        "En defensa de sus familias, su libertad y su religión",
+        "Por obtener riquezas",
+        "Por conquista de nuevas tierras",
+        "Por venganza contra los lamanitas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "Mormón describe que 'si todos los hombres hubiesen sido... como era Moroni, los mismísimos poderes del infierno habrían sido conmovidos para siempre' (Alma 48:17). ¿Qué cualidad específica de Moroni se destaca justo antes, en el versículo 11?",
+      "options": [
+        "Que buscaba el poder y la fama para sí mismo",
+        "Que no se deleitaba en derramar sangre, sino que se alegraba de cualquier oportunidad de hacer bien a su pueblo",
+        "Que prefería la ambición personal antes que el bienestar de su pueblo",
+        "Que disfrutaba especialmente de la guerra por encima de la paz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Un compañero le dice a Mateo que 'ser fuerte' significa buscar pelea y no dejarse pisotear por nadie. Según el carácter del Capitán Moroni descrito en Alma 48, ¿qué le dirías?",
+      "options": [
+        "Que evitar cualquier tipo de confrontación es siempre la única opción correcta",
+        "Que su compañero tiene razón, y que Moroni actuaba de esa misma manera",
+        "Que la verdadera fortaleza de Moroni no estaba en buscar el conflicto, sino en defender con firmeza lo que era correcto sin deleitarse en la violencia",
+        "Que la fortaleza espiritual y la firmeza no tienen relación con este relato"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Sofía siente que, para defender lo que cree, tiene que atacar primero a quienes piensan distinto. Según la actitud de los nefitas de pelear solo defensivamente y buscar la paz, ¿qué principio le ayudaría?",
+      "options": [
+        "Que los nefitas buscaban la guerra activamente para expandir su territorio",
+        "Que se puede defender con firmeza las propias convicciones sin necesidad de atacar u ofender a los demás; los nefitas peleaban solo para proteger, no para imponerse",
+        "Que atacar primero siempre es la estrategia más sabia, como hacían los nefitas",
+        "Que defender las propias creencias requiere necesariamente confrontar a los demás"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la preparación física (armaduras y fortificaciones) como la preparación espiritual de Moroni y su pueblo comparten un mismo principio sobre cómo enfrentar los desafíos. ¿Cuál es?",
+      "options": [
+        "Que la preparación espiritual reemplaza por completo la necesidad de prepararse físicamente",
+        "Que la preparación física es más importante que la fe para enfrentar cualquier desafío",
+        "Que ambos tipos de preparación son innecesarios si se confía plenamente en Dios",
+        "Que defender lo que es correcto requiere preparación integral: acción práctica junto con fortaleza espiritual y fe en Dios"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

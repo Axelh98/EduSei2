@@ -1,0 +1,146 @@
+{
+  "id": "repaso-dd-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Dominio de la doctrina ayuda a los discípulos de Jesucristo a comprender y aplicar las verdades eternas del Evangelio. Repasar regularmente los pasajes doctrinales fortalece la memoria espiritual y aumenta nuestra capacidad para recurrir a las Escrituras en momentos de necesidad. Esta lección anima a los alumnos a recordar referencias, frases clave y doctrinas fundamentales enseñadas en el Libro de Mormón. También ayuda a practicar cómo aplicar los principios para adquirir conocimiento espiritual: actuar con fe, analizar conceptos con una perspectiva eterna y procurar entendimiento mediante fuentes divinamente señaladas. En un mundo lleno de confusión y opiniones cambiantes, las doctrinas de Jesucristo proporcionan estabilidad y dirección. El estudio constante de las Escrituras fortalece el testimonio y nos ayuda a permanecer firmes en la verdad."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:118",
+          "texto": "Buscad conocimiento, tanto por el estudio como por la fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
+        },
+        {
+          "referencia": "2 Timoteo 3:15",
+          "texto": "Las Sagradas Escrituras te pueden hacer sabio para la salvación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "Jacob 4:6",
+          "texto": "Por el poder del Espíritu Santo podéis conocer la verdad de todas las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/4?lang=spa&id=p6#p6"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Liahona, mayo 2020, pág 90",
+      "texto": "Podemos acudir a las Escrituras. En ellas se nos enseña acerca de Jesucristo y Su evangelio, de la magnitud de Su expiación y del gran plan de felicidad y redención del Padre. Sumergirnos diariamente en la palabra de Dios es crucial para la supervivencia espiritual, especialmente en estos días de agitación mundial. Al deleitarnos diariamente en las palabras de Cristo, las palabras de Cristo nos dirán cómo responder a dificultades que jamás pensamos que íbamos a enfrentar.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa&id=p24#p24"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El repaso constante de las doctrinas del Evangelio fortalece nuestro fundamento espiritual. Las Escrituras y las enseñanzas proféticas nos ayudan a reconocer la verdad y a resistir las influencias engañosas del mundo. El Dominio de la doctrina no tiene como objetivo solamente memorizar referencias, sino ayudarnos a desarrollar una relación más profunda con Jesucristo. Cuando estudiamos, meditamos y aplicamos las Escrituras, el Espíritu Santo confirma la verdad a nuestro corazón. El Señor desea que Su palabra esté siempre presente en nuestra mente y corazón para guiarnos en cada decisión importante."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo te ha ayudado el Dominio de la doctrina a fortalecer tu testimonio?",
+        "¿Qué pasaje doctrinal recuerdas con más frecuencia y por qué?",
+        "¿Cómo pueden las Escrituras ayudarte en momentos de duda o dificultad?",
+        "¿Por qué es importante analizar preguntas con una perspectiva eterna?",
+        "¿Qué hábito de estudio podrías mejorar para fortalecer tu conocimiento espiritual?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué pasajes de dominio hemos estudiado sobre el servicio?",
+      "type": "multiple",
+      "options": [
+        "1 Nefi 3:7",
+        "2 Nefi 2:25",
+        "Mosíah 2:17",
+        "Doctrina y Convenios 4:2"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 2:17",
+      "explanation": "Mosíah 2:17 es el pasaje de dominio que hemos estudiado sobre el servicio."
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo podemos usar los pasajes de dominio en nuestra vida?",
+      "type": "multiple",
+      "options": [
+        "Aplicándolos en decisiones diarias y compartiendo con otros",
+        "Recitándolos de memoria sin buscar aplicarlos",
+        "Guardándolos en privado sin compartirlos nunca",
+        "Estudiándolos solo durante la clase de Seminario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Podemos aplicarlos en nuestras decisiones diarias y compartirlos con otros."
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo se relacionan los versículos de Mosíah entre sí?",
+      "type": "multiple",
+      "options": [
+        "No tienen ninguna relación temática entre ellos",
+        "Todos enseñan sobre cambiar nuestra naturaleza y acercarnos a Cristo",
+        "Se relacionan solo por pertenecer al mismo libro",
+        "Cada uno trata un tema completamente distinto sin conexión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Todos los versículos de Mosíah enseñan sobre cambiar nuestra naturaleza y acercarnos a Cristo."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué principio enseña 2 Nefi 2:25, otro pasaje de dominio que hemos repasado?",
+      "type": "multiple",
+      "options": [
+        "Que Adán cayó para que los hombres existiesen, y existen para tener gozo",
+        "Que el gozo depende únicamente de las circunstancias externas",
+        "Que la caída de Adán fue un error que Dios no anticipó",
+        "Que los hombres existen solo para ser probados y castigados"
+      ],
+      "correctAnswer": 0,
+      "reference": "2 Nefi 2:25",
+      "explanation": "2 Nefi 2:25 enseña que Adán cayó para que los hombres existiesen, y existen para tener gozo."
+    },
+    {
+      "id": 5,
+      "question": "Gael no logra recordar las referencias exactas de los versículos de dominio en un examen. ¿Qué le recomendarías para retenerlos mejor?",
+      "type": "multiple",
+      "options": [
+        "Memorizarlos solo la noche anterior al examen",
+        "Repasarlos regularmente y relacionarlos con situaciones reales de su vida",
+        "Copiarlos varias veces sin pensar en su significado",
+        "Aprender solo los versículos más cortos y fáciles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repasar regularmente y relacionar los versículos con situaciones reales ayuda a retenerlos mejor."
+    },
+    {
+      "id": 6,
+      "question": "Emilia piensa que los versículos de Mosíah y los de Nefi no tienen nada que ver entre sí. ¿Qué le mostrarías sobre su relación?",
+      "type": "multiple",
+      "options": [
+        "Que efectivamente no tienen ninguna relación real",
+        "Que solo los versículos de Mosíah tienen valor doctrinal",
+        "Que todos apuntan al mismo tema central: acercarnos a Cristo y transformar nuestro corazón",
+        "Que la relación entre ellos es puramente cronológica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Todos los versículos de dominio apuntan al mismo tema central: acercarnos a Cristo y transformar nuestro corazón."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué principio común comparten el versículo sobre el servicio (Mosíah 2:17) y el de la caída de Adán (2 Nefi 2:25)?",
+      "type": "multiple",
+      "options": [
+        "No comparten ningún principio en común",
+        "Ambos muestran que el propósito de nuestra existencia se cumple sirviendo y buscando el gozo en Dios",
+        "Solo uno de los dos tiene aplicación práctica real",
+        "Tratan temas completamente opuestos entre sí"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 2:17; 2 Nefi 2:25",
+      "explanation": "Ambos versículos muestran que el propósito de nuestra existencia se cumple sirviendo a otros y buscando el gozo en Dios."
+    }
+  ]
+}

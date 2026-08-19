@@ -1,0 +1,89 @@
+{
+  "id": "leccion-26-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Estos capítulos describen un ciclo de orgullo, disensiones, guerras, y destrucción entre los nefitas. Los ladrones de Gadiantón comienzan a infiltrarse en el gobierno, buscando poder mediante combinaciones secretas. Cuando el pueblo se humilla, prospera espiritualmente; cuando se enorgullece, cae en la iniquidad. El patrón se repite varias veces. Los capítulos ilustran el ciclo del orgullo y sus consecuencias, así como el peligro de las combinaciones secretas que buscan derrocar gobiernos justos."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 3:35",
+          "texto": "Se humillaron a causa de su gran tribulación, y se santificaron, y entraron en el descanso del Señor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/3?lang=spa&id=p35#p35"
+        },
+        {
+          "referencia": "Helamán 4:12",
+          "texto": "Era a causa del orgullo de sus corazones, a causa de sus inmensas riquezas; sí, era por causa de su opresión a los pobres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/4?lang=spa&id=p12#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué patrones observas en el ciclo de orgullo y humildad descrito en estos capítulos?",
+        "¿Cómo se manifiesta el orgullo en la sociedad actual de maneras similares a las descritas aquí?",
+        "¿Qué puedes hacer para evitar caer en el ciclo del orgullo en tu propia vida?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué patrón se describe en Helamán 3-4?",
+      "options": [
+        "Constante paz",
+        "El ciclo del orgullo: humildad, prosperidad, orgullo, destrucción",
+        "Crecimiento continuo",
+        "Decadencia constante"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué causó la división entre los nefitas?",
+      "options": [
+        "Guerras externas",
+        "El orgullo y las diferencias de clases",
+        "Falta de alimentos",
+        "Terremotos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué perdieron los nefitas debido a su iniquidad?",
+      "options": [
+        "Solo dinero",
+        "Muchas de sus tierras a los lamanitas",
+        "Nada importante",
+        "Solo algunas batallas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué comenzó a recordar el pueblo cuando enfrentó dificultades?",
+      "options": [
+        "Sus riquezas",
+        "Las palabras de Helamán y sus hermanos",
+        "Sus victorias pasadas",
+        "Sus enemigos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué peligro representaban los ladrones de Gadiántón?",
+      "options": [
+        "Ninguno",
+        "Estaban destruyendo el gobierno desde adentro",
+        "Solo robaban cosas pequeñas",
+        "Eran inofensivos"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

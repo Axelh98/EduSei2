@@ -1,0 +1,56 @@
+{
+  "id": "leccion-208",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué título le da el presidente Nelson a los jóvenes de la Iglesia en los últimos días?",
+      "options": [
+        "Los guerreros del futuro.",
+        "La esperanza de Israel.",
+        "Los embajadores del Evangelio."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según el presidente Nelson, ¿para qué fuiste reservado para venir a la tierra en este tiempo?",
+      "options": [
+        "Para disfrutar de las comodidades modernas.",
+        "Para ayudar a reunir a Israel de ambos lados del velo, que es la obra más importante de la historia.",
+        "Para construir más templos alrededor del mundo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué necesita el presidente Nelson de los jóvenes para llevar adelante la obra del Señor?",
+      "options": [
+        "Solo que asistan a la Iglesia cada domingo.",
+        "Que sean valientes, que estudien el Evangelio, que sirvan y que lideren en rectitud.",
+        "Que esperen hasta ser adultos para participar activamente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué tiene de especial la generación de jóvenes de hoy según las enseñanzas de los profetas?",
+      "options": [
+        "Que son más inteligentes que las generaciones anteriores.",
+        "Que fueron reservados para este tiempo porque el Padre Celestial confiaba en su fortaleza y capacidad para enfrentar los desafíos de los últimos días.",
+        "Que tendrán menos pruebas que las generaciones anteriores."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué invitación personal hace el presidente Nelson a cada joven al final de su mensaje?",
+      "options": [
+        "Que se enfoquen en sus estudios académicos ante todo.",
+        "Que sean parte de la causa de Israel, que quiten las cadenas del pecado y lideren la obra de reunir a Israel.",
+        "Que esperen a recibir una revelación personal antes de actuar."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "196-integridad-educacion",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Copiar en un examen, presentar trabajo de otro como propio, mentirle a un profesor sobre por qué no entregaste una tarea — estas son situaciones que los jóvenes enfrentan con frecuencia, especialmente cuando la presión del rendimiento académico es alta. Esta lección aborda directamente la integridad académica como expresión del carácter del discípulo de Cristo. El Señor enseñó en D&C 42:21 'no mentirás' — y ese principio no tiene excepción para los exámenes difíciles ni para los deadlines imposibles. Pero más que el mandamiento, esta lección enseña el porqué: la integridad académica forma el carácter de quien un día tomará decisiones que afecten a otras personas. El hábito de hacer trampa en pequeñas cosas es el entrenamiento para hacer trampa en las grandes. Y al revés: el hábito de ser honesto cuando es costoso es el entrenamiento para la integridad cuando más importa."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 42:21",
+          "texto": "No mentirás; el que miente tratará de engañar y el que engaña a quien lo recibe no tendrá el Espíritu.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=spa&id=p21#p21"
+        },
+        {
+          "referencia": "Lucas 16:10",
+          "texto": "El que es fiel en lo muy poco, también en lo más es fiel; y el que en lo muy poco es injusto, también en lo más es injusto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/16?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Joseph B. Wirthlin",
+      "fuente": "\"Personal Integrity\", Ensign, mayo de 1990, págs. 30, 32",
+      "texto": "La integridad significa hacer siempre lo correcto y lo bueno, sin importar las consecuencias inmediatas. Significa ser recto desde lo más profundo de nuestra alma, no solo en nuestras acciones sino, más importante aún, en nuestros pensamientos y en nuestro corazón. La integridad personal implica tal grado de confiabilidad e incorruptibilidad que somos incapaces de faltar a una confianza o a un convenio. […] El mundo necesita desesperadamente hombres y mujeres íntegros.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/1990/04/personal-integrity?lang=spa&id=p4,p31#p4"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La integridad académica no es solo una regla del colegio — es una práctica de carácter. Cada vez que elegís ser honesto cuando sería fácil no serlo, estás entrenando el tipo de persona que vas a ser en todos los contextos de tu vida: como empleado, como cónyuge, como padre, como líder. Lucas 16:10 lo resume perfectamente: el que es fiel en lo poco, también lo es en lo más. Los exámenes son lo poco. Lo más viene después."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿En qué situaciones académicas sentís más presión para ser deshonesto? ¿Qué hace difícil mantener la integridad en esos momentos?",
+        "¿Cómo se conecta hacer trampa en un examen con el tipo de persona en que te estás convirtiendo?",
+        "¿Alguna vez elegiste ser honesto en algo académico cuando era costoso? ¿Qué pasó y cómo te sentiste?",
+        "¿Qué harías esta semana si te encontraras en una situación donde sería fácil ser deshonesto en el colegio?",
+        "¿Cómo podría tu integridad académica ser un testimonio de tu fe para tus compañeros de clase?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 42:21 dice 'no mentirás'. ¿Qué consecuencia espiritual específica menciona ese versículo para quien miente y engaña?",
+      "options": [
+        "Que no tendrá el Espíritu Santo.",
+        "Que perderá su membresía en la Iglesia automáticamente.",
+        "Que sus oraciones no serán escuchadas por el Señor.",
+        "Que su testimonio se debilitará gradualmente hasta desaparecer."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Lucas 16:10 dice 'el que es fiel en lo muy poco, también en lo más es fiel'. ¿Qué implica ese principio sobre la relación entre la honestidad en los exámenes y la integridad en situaciones más importantes?",
+      "options": [
+        "Que los exámenes son tan importantes como cualquier otra responsabilidad de la vida.",
+        "Que los hábitos formados en las cosas pequeñas determinan la persona que uno será en las grandes — copiar en un examen entrena el carácter para hacer trampa cuando más importa.",
+        "Que la fidelidad en los exámenes garantiza automáticamente fidelidad en el matrimonio y el trabajo.",
+        "Que las cosas pequeñas no importan tanto como las grandes y se pueden flexibilizar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "El presidente Hinckley dijo que si se pierde la integridad, 'cuesta toda una vida reconstruirla'. ¿Por qué es tan difícil recuperar la integridad una vez que se pierde?",
+      "options": [
+        "Porque el Señor no perdona los pecados relacionados con el engaño.",
+        "Porque la confianza de otros se daña lentamente y la reputación de honestidad se construye con años de consistencia, no con una sola disculpa.",
+        "Porque el cerebro se acostumbra a mentir y es imposible cambiar ese patrón neurológico.",
+        "Porque la sociedad nunca perdona a quienes estuvieron involucrados en deshonestidad."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué la integridad académica no es solo una regla del colegio sino una cuestión de carácter según los principios del evangelio?",
+      "options": [
+        "Porque el colegio fue diseñado por personas inspiradas y sus reglas tienen origen divino.",
+        "Porque el carácter no distingue entre contextos — la persona que hace trampa en un examen está practicando ser alguien que hace trampa cuando importa más.",
+        "Porque las reglas académicas son equivalentes a los mandamientos del evangelio en importancia.",
+        "Porque los maestros del colegio tienen autoridad equivalente a la de los líderes de la Iglesia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Joaquín está a punto de copiar en un examen importante porque 'todos lo hacen' y 'una vez no importa'. Según D&C 42:21 y Lucas 16:10, ¿qué está apostando Joaquín con esa decisión?",
+      "options": [
+        "Solo su calificación, que puede recuperar con el próximo examen.",
+        "La presencia del Espíritu Santo en su vida y el patrón de carácter que está construyendo para decisiones más grandes.",
+        "La amistad de los compañeros que sí estudian y que pueden juzgarlo.",
+        "La opinión de sus padres si se enteran de lo que hizo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Sofía fue honesta en un trabajo cuando todos los demás copiaron y su calificación fue más baja. Se siente tonta. Según Lucas 16:10 y el principio del evangelio, ¿qué ganó Sofía que sus compañeros no obtuvieron?",
+      "options": [
+        "Nada tangible — fue una decisión correcta pero sin beneficio real.",
+        "Una calificación más alta en el largo plazo porque el maestro valorará su honestidad.",
+        "Un paso en la formación del carácter de alguien que puede ser confiable cuando más importa — eso no tiene precio académico pero tiene peso eterno.",
+        "La aprobación del Señor que compensará económicamente en el futuro."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "D&C 42:21 (no mentirás — quien engaña no tiene el Espíritu) y Lucas 16:10 (fiel en lo poco, fiel en lo más) juntos construyen un argumento sobre la integridad. ¿Cuál es ese argumento completo?",
+      "options": [
+        "Que la deshonestidad académica es el pecado más grave para un estudiante de Seminario.",
+        "Que la integridad académica es una condición para recibir llamados importantes en la Iglesia.",
+        "Que el Señor vigila los exámenes y califica la honestidad junto con el conocimiento académico.",
+        "Que la honestidad en cosas pequeñas preserva el Espíritu y forma el carácter — y ese carácter construido hoy es la persona que será en todas las situaciones futuras donde la integridad cueste algo."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

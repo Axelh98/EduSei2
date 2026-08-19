@@ -1,0 +1,144 @@
+{
+  "id": "alma-10-11",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Después de que Alma es rechazado y expulsado de Ammoníah, un hombre llamado Amulek lo recibe en su casa: un ángel se le había aparecido antes para avisarle que esto iba a pasar. Amulek se presenta ante el pueblo contando su propia historia —una familia respetada, riquezas, una vida cómoda— y confiesa que, a pesar de haber sido \"llamado muchas veces\", no había querido escuchar hasta ahora. Juntos, Alma y Amulek empiezan a predicar con un poder inusual, y pronto se enfrentan a Zeezrom, un abogado hábil que intenta atraparlos con preguntas capciosas sobre si hay un Dios y si el Hijo de Dios salvará a Su pueblo en sus pecados. Amulek no se deja enredar: responde con claridad, enseña que Cristo no puede salvar a nadie que se aferre al pecado, y que en la resurrección todos, justos e injustos, serán llevados ante Dios para ser juzgados, sin que se pierda ni un solo pelo de la cabeza de nadie. Zeezrom, que había intentado sobornar a Amulek al principio de la conversación, empieza a temblar de convicción ante la claridad de esas respuestas. Es un buen recordatorio de que la verdad, dicha con sencillez y sin necesidad de impresionar a nadie, suele ser más poderosa que cualquier discurso elaborado. Tal vez conozcas a alguien —un compañero, un profesor, alguien en redes sociales— que hace preguntas sobre tu fe con la intención de hacerte quedar mal, no de aprender de verdad. Esta lección muestra que no hace falta tener una respuesta perfecta para cada pregunta: alcanza con responder con honestidad, sin miedo, confiando en que el Espíritu puede hacer el resto."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 10:11",
+          "texto": "Porque he aquí, he sido llamado por Dios... y él ha bendecido mi casa, y me ha bendecido a mí, y a mis mujeres, y a mis hijos, y a mi padre, y a mis parientes...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/10?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Alma 10:22–23",
+          "texto": "Si no fuera por las oraciones de los justos que actualmente hay en la tierra, ahora mismo seríais visitados con una destrucción completa... mas es por las oraciones de los justos que sois preservados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/10?lang=spa&id=p22-p23#p22"
+        },
+        {
+          "referencia": "Alma 11:44",
+          "texto": "Esta restauración vendrá sobre todos, tanto viejos como jóvenes, esclavos así como libres, varones así como mujeres, malvados así como justos; y no se perderá ni un solo pelo de su cabeza...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=spa&id=p44#p44"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La confrontación entre Amulek y Zeezrom demuestra que la verdad simple, dicha con convicción, tiene más peso que cualquier trampa retórica. Amulek no necesitó un argumento sofisticado: necesitó claridad, honestidad y la disposición de hablar aunque lo estuvieran probando. El Señor sigue preparando a Sus siervos —incluido vos— para los momentos en que la fe se pone a prueba en público, muchas veces sin previo aviso. Esta semana, pensá en una pregunta difícil que te hayan hecho sobre tu fe y practicá, aunque sea en voz baja para vos mismo, cómo responderías hoy con sencillez y honestidad."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Con quién te identificás más en este relato: con Amulek, que dudó antes de escuchar el llamado, o con Zeezrom, que hacía preguntas con mala intención?",
+        "¿Qué te parece que Amulek haya sido \"llamado muchas veces\" antes de decidirse a escuchar?",
+        "¿Alguna vez alguien te hizo una pregunta sobre tu fe con la intención de hacerte quedar mal? ¿Cómo reaccionaste?",
+        "¿Por qué creés que la respuesta simple y honesta de Amulek tuvo tanto efecto en Zeezrom?",
+        "Pensá en una pregunta difícil que te hayan hecho sobre tu fe. ¿Cómo la responderías hoy, con tus propias palabras?",
+        "¿Qué podés hacer esta semana para sentirte más preparado la próxima vez que alguien ponga a prueba tu fe?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quién era Amulek antes de su conversión?",
+      "type": "multiple",
+      "options": [
+        "Un hombre próspero que había endurecido su corazón",
+        "Un profeta reconocido públicamente por el pueblo",
+        "Un líder establecido dentro de la organización de la iglesia",
+        "Un lamanita recién llegado a la ciudad de Ammoníah"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 10:4-6",
+      "explanation": "Amulek era un hombre próspero que había endurecido su corazón antes de su conversión."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué intentó hacer Zeezrom con Amulek?",
+      "type": "multiple",
+      "options": [
+        "Ayudarlo a preparar su siguiente sermón",
+        "Tentarlo con dinero para que negara a Dios",
+        "Convencerlo de unirse formalmente a su familia",
+        "Ofrecerle una posición de liderazgo en la ciudad"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 11:22",
+      "explanation": "Zeezrom intentó tentar a Amulek con dinero para que negara la existencia de Dios."
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo respondió Amulek a la tentación de Zeezrom?",
+      "type": "multiple",
+      "options": [
+        "Aceptó parte del dinero antes de arrepentirse",
+        "Guardó silencio para no comprometerse con nadie",
+        "Rechazó firmemente y testificó de Dios",
+        "Huyó de la ciudad para evitar el conflicto"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 11:23-25",
+      "explanation": "Amulek rechazó firmemente la tentación y testificó con valentía de Dios."
+    },
+    {
+      "id": 4,
+      "question": "¿Quién acompañó a Alma en su predicación en Ammoníah?",
+      "type": "multiple",
+      "options": [
+        "Nefi",
+        "Mosíah",
+        "Helamán",
+        "Amulek"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 10:7",
+      "explanation": "Amulek acompañó a Alma en su predicación en la ciudad de Ammoníah."
+    },
+    {
+      "id": 5,
+      "question": "Catalina le ofrecen dinero a cambio de mentir sobre algo importante para ella. ¿Qué ejemplo de Amulek le da fuerza para resistir?",
+      "type": "multiple",
+      "options": [
+        "El ejemplo de Amulek, quien rechazó firmemente el soborno de Zeezrom y testificó de la verdad",
+        "El ejemplo de Zeezrom, quien logró convencer a Amulek",
+        "Ningún ejemplo de este relato aplica a su situación",
+        "El ejemplo de aceptar parte del dinero para evitar problemas"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 11:22-25",
+      "explanation": "Amulek rechazó firmemente el soborno de Zeezrom y testificó con valentía de la verdad."
+    },
+    {
+      "id": 6,
+      "question": "Nicolás cree que antes de convertirse era 'demasiado bueno' para necesitar cambiar como Amulek. ¿Qué le muestra la historia de Amulek sobre esto?",
+      "type": "multiple",
+      "options": [
+        "Que solo las personas pobres necesitan conversión",
+        "Que incluso una persona próspera y respetada puede tener el corazón endurecido y necesitar conversión",
+        "Que la prosperidad siempre indica una buena relación con Dios",
+        "Que Amulek nunca necesitó realmente cambiar"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 10:4-6",
+      "explanation": "Incluso una persona próspera y respetada como Amulek puede tener el corazón endurecido y necesitar conversión."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relaciona el intento de soborno de Zeezrom con el mensaje central que predicaban Alma y Amulek?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "El soborno confirmó que el mensaje de Alma y Amulek era incorrecto",
+        "El soborno mostró que Zeezrom valoraba más el dinero que la verdad, justo lo opuesto a lo que Alma y Amulek enseñaban",
+        "Zeezrom compartía completamente el mensaje de Alma y Amulek"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 10-11",
+      "explanation": "El soborno mostró que Zeezrom valoraba más el dinero que la verdad, justo lo opuesto al mensaje de Alma y Amulek."
+    }
+  ]
+}

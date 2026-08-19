@@ -1,0 +1,61 @@
+{
+  "id": "doctrina-y-convenios-127-128-parte-1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué doctrina central se explica en DyC 127?",
+      "options": [
+        "El bautismo por los muertos",
+        "La ley del diezmo",
+        "La consagración",
+        "La Segunda Venida"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué escribe José Smith la epístola registrada en DyC 127?",
+      "options": [
+        "Para instruir a los santos mientras estaba escondido",
+        "Para corregir una apostasía",
+        "Para anunciar su partida",
+        "Para organizar un nuevo quórum"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué instrucción específica se da respecto a los bautismos por los muertos?",
+      "options": [
+        "Deben registrarse adecuadamente",
+        "Pueden realizarse sin testigos",
+        "No requieren autoridad",
+        "Son solo simbólicos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué relación establece DyC 127 entre ordenanzas y registros?",
+      "options": [
+        "Las ordenanzas deben ser registradas para ser válidas ante Dios",
+        "Los registros no importan",
+        "Las ordenanzas cambian con el tiempo",
+        "El registro es solo administrativo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio doctrinal enseña DyC 127?",
+      "options": [
+        "El cielo y la tierra están conectados mediante ordenanzas y registros",
+        "Las ordenanzas solo afectan a los vivos",
+        "El pasado no importa",
+        "La obra vicaria es innecesaria"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nt-s3-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la frase clave de Mateo 5:14–16?",
+      "options": [
+        "\"Yo soy el pan de vida\".",
+        "\"Así alumbre vuestra luz delante de los hombres\".",
+        "\"Tú eres el Cristo\".",
+        "\"Pedid y recibiréis\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué recomendación se da para actuar con fe en una situación de acoso escolar?",
+      "options": [
+        "Unirse a las burlas para encajar.",
+        "Defender lo que es correcto y actuar según los valores del Evangelio.",
+        "No hacer nada y alejarse.",
+        "Burlarse de quien agrede."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo impacta ver a los demás como el Señor los ve en nuestra respuesta al prójimo?",
+      "options": [
+        "Nos hace sentir superiores.",
+        "Nos ayuda a tratarlos con respeto y evitar chistes de mal gusto.",
+        "No cambia nada.",
+        "Nos hace ser más críticos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué el Salvador comparó a Sus discípulos con una ciudad sobre un monte?",
+      "options": [
+        "Porque es un lugar difícil de vivir.",
+        "Porque el seguimiento a Cristo es difícil de esconder y debe ser un refugio.",
+        "Porque solo los ricos vivían allí.",
+        "Porque está lejos de la gente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué debemos hacer con la luz que Dios nos da?",
+      "options": [
+        "Esconderla bajo un almud.",
+        "Ponerla en el candelero para que alumbre a todos.",
+        "Apagarla para que nadie nos vea.",
+        "Guardarla solo para nosotros."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

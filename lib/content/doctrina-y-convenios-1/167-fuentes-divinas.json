@@ -1,0 +1,117 @@
+{
+  "id": "167-fuentes-divinas",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Imaginá que tenés una pregunta difícil sobre la historia de la Iglesia o una doctrina que no entendés bien. ¿Dónde la buscás primero? ¿Google? ¿Reddit? ¿Un video de YouTube crítico?",
+        "No beberías agua de una fuente contaminada aunque tuvieras sed. El mismo principio aplica a la verdad espiritual. El tercer principio para adquirir conocimiento espiritual es buscar comprensión a través de las fuentes que el Padre Celestial mismo señaló: las Escrituras, las palabras de los profetas en la Conferencia General, la Biblioteca del Evangelio, los Temas del Evangelio, Para la Fortaleza de la Juventud, líderes de la Iglesia de confianza, padres y familiares fieles, y sobre todo el Espíritu Santo mediante la oración.",
+        "Estas fuentes no son arbitrarias: son el amor de Dios traducido en medios concretos para guiarte. El presidente Nelson enseñó que muy pocas personas en nuestra época saben adónde ir en busca de la verdad. Vos sí lo sabés. Usalas."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:118",
+          "texto": "Y como no todos tienen fe, buscad con diligencia y enseñaos mutuamente palabras de sabiduría; sí, buscad conocimiento de los mejores libros; buscad la sabiduría en el estudio y también con la fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
+        },
+        {
+          "referencia": "2 Nefi 28:30",
+          "texto": "Porque he aquí, así dice el Señor Dios: Daré a los hijos de los hombres línea por línea, precepto por precepto, un poco aquí y un poco allí; y benditos son aquellos que escuchan mis preceptos y prestan atención a mis consejos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=spa&id=p30#p30"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "\"El ojo de la fe\", Liahona, mayo de 2019, pág. 35)",
+      "texto": "Contemplen ahora esta obra artística de Michael Murphy. Desde esta perspectiva, difícilmente creerán que se trate de una representación artística del ojo humano. Sin embargo, si observan los puntos desde una perspectiva diferente, apreciarán la belleza de la creación del artista. De igual modo, nosotros vemos las verdades espirituales de Dios desde la perspectiva del ojo de la fe",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/25andersen?lang=spa&id=p14-p15#p14"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Las fuentes que usás para buscar verdad espiritual determinan qué tan cerca de Dios llegás. D&C 88:118 te dice buscarlas con diligencia 'en el estudio y también con la fe'. Esta semana, cuando tengas una pregunta espiritual, antes de googlearla, intentá primero con las fuentes que el Señor señaló: la Escritura, los Temas del Evangelio, la oración. Verás la diferencia."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿A dónde vas normalmente cuando tenés una pregunta sobre el evangelio o la Iglesia? ¿Esas fuentes son confiables?",
+        "¿Cuáles son al menos cinco fuentes divinamente señaladas para buscar verdad espiritual?",
+        "¿Alguna vez encontraste información confusa o perturbadora sobre la Iglesia en internet? ¿Cómo lo manejaste?",
+        "¿Cómo demuestran las fuentes divinamente señaladas el amor que el Padre Celestial tiene por vos?",
+        "¿Cuál de las fuentes divinamente señaladas usás menos? ¿Cómo podrías usarla más esta semana?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A dónde vas normalmente cuando tenés una pregunta difícil sobre el evangelio o la Iglesia? ¿Por qué elegís esa fuente?",
+      "options": [
+        "A Google o YouTube porque responden rápido y son fáciles de acceder",
+        "A las Escrituras y la Biblioteca del Evangelio porque son las fuentes que el Señor señaló",
+        "A personas conocidas porque su opinión me genera más confianza",
+        "A ningún lugar, prefiero ignorar las preguntas difíciles"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuáles son al menos cinco fuentes divinamente señaladas que el Padre Celestial estableció para encontrar verdad espiritual?",
+      "options": [
+        "Google, YouTube, Wikipedia, foros de debate y libros de filosofía",
+        "Las Escrituras, las palabras de los profetas, la Biblioteca del Evangelio, los Temas del Evangelio y el Espíritu Santo",
+        "El obispo, el presidente de misión, el patriarca, el consejero del sacerdocio y el líder de la Primaria",
+        "La Biblia únicamente, sin otras fuentes adicionales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Alguna vez encontraste información confusa o perturbadora sobre la Iglesia en internet? ¿Cómo lo manejaste?",
+      "options": [
+        "Decidí ignorar el tema y no volver a pensar en ello",
+        "Lo llevé a fuentes confiables — las Escrituras, los Temas del Evangelio, o un líder de confianza",
+        "Compartí el contenido con amigos para ver si ellos lo podían resolver",
+        "Decidí que si había algo negativo era porque la Iglesia no era verdadera"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "El presidente Nelson dijo: 'muy pocas personas saben adónde acudir en busca de la verdad'. ¿Por qué eso es un problema especialmente grave para alguien de tu edad?",
+      "options": [
+        "Porque los jóvenes tienen menos tiempo para buscar respuestas que los adultos",
+        "Porque estás en una etapa en la que formas tus creencias más profundas y las fuentes equivocadas pueden distorsionar eso",
+        "Porque las preguntas difíciles solo aparecen durante la adolescencia",
+        "Porque los algoritmos de las redes sociales están diseñados para atacar la fe de los jóvenes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál de las fuentes divinamente señaladas usás menos? ¿Cómo podrías usarla más esta semana?",
+      "options": [
+        "La oración, porque me parece que mis preguntas no son suficientemente importantes para molestar a Dios",
+        "Los Temas del Evangelio o la Biblioteca del Evangelio, porque no sé bien cómo encontrar lo que necesito",
+        "Las Escrituras, porque me parecen difíciles de entender sin ayuda",
+        "Todas las uso con igual frecuencia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "D&C 88:118 dice 'buscad conocimiento de los mejores libros; buscad la sabiduría en el estudio y también con la fe'. ¿Por qué necesita las dos cosas — estudio Y fe?",
+      "options": [
+        "Porque la fe es el sustituto del estudio para quienes no pueden leer bien",
+        "Porque el estudio sin fe puede llevar a conclusiones frías, y la fe sin estudio puede ser ingenua",
+        "Porque Dios solo responde a quienes han estudiado suficiente antes de orar",
+        "Porque la fe y el estudio son incompatibles y deben balancearse con cuidado"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

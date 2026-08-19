@@ -1,0 +1,117 @@
+{
+  "id": "166-examinar-perspectiva",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Cuando ocurre algo difícil —una enfermedad, una injusticia, una pérdida— la pregunta natural es '¿por qué a mí?' Vista desde una perspectiva temporal y limitada, la vida puede parecer arbitraria e injusta. Vista desde una perspectiva eterna, todo cambia.",
+        "El segundo principio para adquirir conocimiento espiritual es analizar las preguntas del evangelio en el contexto del Plan de Salvación. Dios es tu Padre. Él te conoce perfectamente. Esta vida mortal es solo una pequeña parte de tu existencia eterna. Cuando D&C 122:7–8 le dice a José Smith en medio de sus sufrimientos extremos que 'todas estas cosas te darán experiencia y serán para tu bien', no es un cliché: es una perspectiva eterna aplicada a una situación concreta.",
+        "La perspectiva eterna no hace que las preguntas difíciles desaparezcan de inmediato. Pero las coloca en el contexto correcto. Y en ese contexto, es posible encontrar paz donde antes solo había confusión."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 122:7–8",
+          "texto": "Y si se abrieran los cielos contra ti, y los que estuvieran en los infiernos se volvieran contra ti, y todos los elementos se conjugaran para barrer tu existencia... sabe tú, hijo mío, que todas estas cosas te darán experiencia, y serán para tu bien. El Hijo del Hombre ha descendido abajo de todo esto. ¿Eres tú mayor que él?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/122?lang=spa&id=p7-p8#p7"
+        },
+        {
+          "referencia": "2 Nefi 2:11",
+          "texto": "Porque es indispensable que haya oposición en todas las cosas. Si no fuera así, oh mi primogénito en el desierto, no podría haber rectitud ni maldad, ni santidad ni miseria, ni bien ni mal.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=spa&id=p11#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dieter F. Uchtdorf",
+      "fuente": "«El reflejo en el agua», devocional del Sistema Educativo de la Iglesia, 1 de noviembre de 2009",
+      "texto": "Mis queridos jóvenes amigos, somos personas que hacemos preguntas, porque sabemos que el preguntar conduce a la verdad. Fue así como comenzó la Iglesia, por un joven que tenía preguntas. De hecho, no estoy seguro de cómo se puede descubrir la verdad si no se hacen preguntas. La indagación es la cuna del testimonio […]. El hacer preguntas no es señal de debilidad; es el acto precursor del crecimiento.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/523-acquiring-spiritual-knowledge-part-2?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Examinar las preguntas difíciles con perspectiva eterna no las elimina instantáneamente, pero las transforma. Cuando recordás que sos hijo o hija de un Padre que te conoce perfectamente, que esta vida es parte de un plan más grande, y que el Salvador ya descendió más abajo que cualquier cosa que enfrentarás, podés vivir con fe en lugar de con miedo. Esta semana, tomá una situación difícil de tu vida y aplícale deliberadamente la perspectiva del Plan de Salvación."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál es la diferencia entre ver una situación difícil con perspectiva temporal y verla con perspectiva eterna? Dame un ejemplo concreto de tu vida.",
+        "¿Qué promesa le hace el Señor a José Smith en D&C 122:7–8 sobre sus sufrimientos?",
+        "¿Hay algo en tu vida ahora mismo que te parece injusto o confuso? ¿Cómo lo verías en el contexto del Plan de Salvación?",
+        "¿Qué verdades del Plan de Salvación te dan más esperanza cuando enfrentás situaciones difíciles?",
+        "¿Cómo podés recordarte mantener una perspectiva eterna cuando el día a día te absorbe?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la diferencia más importante entre ver una situación difícil con perspectiva temporal y verla con perspectiva eterna?",
+      "options": [
+        "La perspectiva temporal es más honesta porque no ignora el dolor real",
+        "La perspectiva eterna coloca la situación en el contexto del plan de Dios, lo que cambia su significado",
+        "La perspectiva eterna hace que los problemas parezcan menos reales de lo que son",
+        "La perspectiva temporal es mejor para tomar decisiones prácticas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "El Señor le dijo a José Smith en D&C 122:7–8, en medio de sus sufrimientos más extremos: 'todas estas cosas te darán experiencia y serán para tu bien'. ¿Qué tipo de perspectiva requiere creer eso?",
+      "options": [
+        "Una perspectiva que niega el dolor para mantener una actitud positiva",
+        "Una perspectiva eterna que confía en que Dios puede usar incluso el sufrimiento con un propósito",
+        "Una perspectiva filosófica que racionaliza el mal como algo necesariamente bueno",
+        "Una perspectiva que ignora el cuerpo y sus necesidades para enfocarse solo en lo espiritual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Hay algo en tu vida ahora mismo que te parece injusto o confuso? ¿Cómo lo verías si lo colocaras en el contexto del Plan de Salvación?",
+      "options": [
+        "Como algo que Dios me mandó porque me tiene bronca",
+        "Como una parte de una historia más grande donde Él tiene propósitos que todavía no veo completamente",
+        "Como evidencia de que el Plan de Salvación no siempre funciona",
+        "Como algo que debo ignorar para no perder la fe"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "2 Nefi 2:11 dice que 'es indispensable que haya oposición en todas las cosas'. ¿Qué agrega eso a la perspectiva eterna sobre el sufrimiento?",
+      "options": [
+        "Que Dios creó el mal con igual intención que el bien",
+        "Que sin contraste no existe el crecimiento, la elección ni el significado real",
+        "Que todo sufrimiento es inevitable y no tiene sentido resistirlo",
+        "Que debemos buscar activamente las situaciones difíciles para crecer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo podés recordarte a vos mismo mantener una perspectiva eterna cuando el día a día te absorbe completamente?",
+      "options": [
+        "Aislarte de las actividades cotidianas para pensar solo en lo espiritual",
+        "Crear un recordatorio concreto — un versículo, una oración corta, una pregunta — que uses en los momentos difíciles",
+        "Esperar a que llegue una crisis para acordarte de la perspectiva eterna",
+        "Leer la Biblia completa una vez al año para mantener el contexto"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "El Señor dice en D&C 122:8: '¿Eres tú mayor que él?' — refiriéndose al Salvador que descendió más abajo que todo. ¿Qué efecto tiene esa pregunta en alguien que está sufriendo?",
+      "options": [
+        "Lo hace sentir inferior e indigno de quejarse",
+        "Le recuerda que Cristo conoce su sufrimiento desde adentro y puede ayudarlo con autoridad real",
+        "Le indica que debe suprimir sus emociones para parecerse más al Salvador",
+        "Lo invita a comparar su sufrimiento con el de otras personas para ganar perspectiva"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

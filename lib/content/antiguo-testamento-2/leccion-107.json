@@ -1,0 +1,56 @@
+{
+  "id": "leccion-107",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el tema central del Salmo 119?",
+      "options": [
+        "Las victorias militares de Israel.",
+        "El amor profundo del salmista por la ley, los mandamientos y la palabra del Señor.",
+        "Las bendiciones materiales que Dios da a los fieles."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según el Salmo 119:105, ¿qué función cumple la palabra del Señor en nuestra vida?",
+      "options": [
+        "'Tu palabra es lámpara a mis pies y lumbrera a mi camino.'",
+        "'Tu palabra es espada en mi mano derecha.'",
+        "'Tu palabra es oro que atesoro en el cofre.'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué beneficio espiritual describe el salmista al meditar en los mandamientos del Señor?",
+      "options": [
+        "Que nunca más tendrá tentaciones.",
+        "Que adquiere más entendimiento que sus enemigos y más sabiduría que los ancianos.",
+        "Que se vuelve rico y famoso."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué actitud hacia los mandamientos del Señor expresa el salmista a lo largo del Salmo 119?",
+      "options": [
+        "Los ve como una carga difícil pero necesaria.",
+        "Los ama, los busca y los guarda porque ve en ellos la bondad y la sabiduría de Dios.",
+        "Los sigue solo por miedo al castigo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo puedes aplicar el espíritu del Salmo 119 en tu estudio personal de las Escrituras?",
+      "options": [
+        "Leyendo las Escrituras solo cuando te sientas obligado.",
+        "Buscando amar y atesorar las palabras del Señor, no solo cumplir con una tarea.",
+        "Memorizando todos los versículos del Salmo 119."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nt-s3-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué representan las semillas que cayeron junto al camino?",
+      "options": [
+        "Personas que no saben leer.",
+        "Enseñanzas que caen en un corazón endurecido o sin preparación.",
+        "Semillas de mala calidad.",
+        "El éxito temporal."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué situación describe al \"terreno pedregoso\" según el presidente Oaks?",
+      "options": [
+        "Alguien que olvida sus llaves.",
+        "Alguien que usa su teléfono o juega videojuegos durante la Santa Cena.",
+        "Alguien que vive en una montaña.",
+        "Una persona que no tiene dinero."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué representan los \"espinos\" que ahogan la palabra?",
+      "options": [
+        "Plantas venenosas de Israel.",
+        "Los afanes, las riquezas y los placeres de esta vida.",
+        "Críticas de personas extrañas.",
+        "La falta de agua."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué se necesita para ser \"buena tierra\" según el manual?",
+      "options": [
+        "Nacer en una familia rica.",
+        "Establecer prioridades y estar firmemente arraigados en el Evangelio.",
+        "Leer las Escrituras una vez al mes.",
+        "Ser perfecto desde el nacimiento."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promesa se da a los que reciben la palabra en buena tierra?",
+      "options": [
+        "Que nunca sufrirán.",
+        "Que darán fruto y tendrán una cosecha abundante.",
+        "Que serán famosos.",
+        "Que no tendrán que trabajar más."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

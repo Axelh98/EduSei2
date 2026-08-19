@@ -1,0 +1,83 @@
+{
+  "id": "bloque-at-1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Dónde fue arrebatado Moisés cuando vio a Dios?",
+      "options": [
+        "A un valle profundo",
+        "Al Jardín de Edén",
+        "A una montaña extremadamente alta",
+        "Al Desierto de Sinaí"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "¿Qué aprendió Moisés después de ver la gloria de Dios?",
+      "options": [
+        "Que el hombre es poderoso",
+        "Que el hombre no es nada",
+        "Que Satanás tiene gloria",
+        "Que la tierra es infinita"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué le pidió Satanás a Moisés?",
+      "options": [
+        "Que lo adorara",
+        "Que ofreciera sacrificios",
+        "Que escribiera un libro",
+        "Que lo siguiera al desierto"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo logró Moisés vencer la tentación de Satanás?",
+      "options": [
+        "Guardando silencio",
+        "Invocando a Dios en el nombre del Unigénito",
+        "Con su propia fuerza",
+        "Huyendo de la montaña"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es la obra y la gloria de Dios según Moisés 1:39?",
+      "options": [
+        "Multiplicar las generaciones",
+        "Destruir a Satanás",
+        "Crear mundos sin número",
+        "Llevar a cabo la inmortalidad y la vida eterna del hombre"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "¿Qué creó Dios en el primer día según Moisés 2?",
+      "options": [
+        "La tierra seca",
+        "Los animales",
+        "La luz",
+        "El firmamento"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "¿Quién engañó a Eva en Moisés 4?",
+      "options": [
+        "Un ángel caído",
+        "Un querubín",
+        "Satanás",
+        "El dragón"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

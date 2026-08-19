@@ -1,0 +1,89 @@
+{
+  "id": "leccion-25-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Moroni se dirige a los lectores futuros del Libro de Mormón, exhortándolos a recordar las misericordias de Dios. Invita a recibir estos registros con un corazón sincero y fe verdadera. Luego habla sobre los dones del Espíritu, explicando que Dios da diferentes dones a diferentes personas según Sus propósitos. Enseña que estos dones vienen por el Espíritu de Cristo. El pasaje enfatiza la importancia de buscar los dones espirituales para beneficiar a otros."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Moroni 10:3",
+          "texto": "Quisiera exhortaros a que recordaseis cuán misericordioso ha sido el Señor con los hijos de los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Moroni 10:7",
+          "texto": "Los dones vienen por el Espíritu de Cristo; y vienen a todo hombre, a fin de que todos sean beneficiados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p7#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué dones del Espíritu has observado en tu vida o en la vida de otros?",
+        "¿Cómo puedes buscar dones espirituales para beneficiar a quienes te rodean?",
+        "¿De qué manera recordar las misericordias de Dios fortalece tu fe?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué estrategia usó Moroni para liberar prisioneros nefitas?",
+      "options": [
+        "Atacó directamente",
+        "Usó el engaño ingenioso con vino para los guardias lamanitas",
+        "Pagó rescate",
+        "Esperó pasivamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué carta escribió Moroni a Ammóron?",
+      "options": [
+        "Una carta de rendición",
+        "Una propuesta de intercambio de prisioneros",
+        "Una carta de amistad",
+        "Una amenaza sin sentido"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo demostraron los jóvenes guerreros su fe en la batalla?",
+      "options": [
+        "Huyeron del peligro",
+        "Pelearon con valentía confiando en Dios",
+        "Se rindieron",
+        "Abandonaron a Helamán"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué milagro ocurrió con los 2,000 jóvenes en la batalla?",
+      "options": [
+        "Todos murieron",
+        "Muchos fueron heridos pero ninguno murió",
+        "Huyeron del campo de batalla",
+        "Se rindieron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué atribuyó Helamán a la protección de los jóvenes?",
+      "options": [
+        "Su fuerza física",
+        "Su astucia militar",
+        "Su extraordinaria fe en Dios",
+        "Su suerte"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

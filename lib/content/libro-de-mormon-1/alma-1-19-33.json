@@ -1,0 +1,138 @@
+{
+  "id": "alma-1-19-33",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Tras el conflicto con Nehor, el Libro de Mormón nos ofrece un hermoso contraste: cómo deben comportarse los miembros fieles de la Iglesia cuando enfrentan la prosperidad y la persecución. Los miembros humildes compartían sus bienes con los necesitados, no permitían que el orgullo se infiltrara y eran 'firmes, inamovibles e inquebrantables' en la observancia de los mandamientos. Esta lección destaca que la verdadera prosperidad espiritual no se mide por las riquezas materiales, sino por la calidad de nuestras relaciones con Dios y con nuestro prójimo. La unidad y el amor caritativo son las señales de una Iglesia que ha 'cedido su corazón a Dios'."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 1:27",
+          "texto": "Y así, en sus circunstancias prósperas, no enviaban a nadie que estuviera desnudo, ni hambriento, ni sediento, ni enfermo, ni que no hubiera sido nutrido...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=spa&id=p27#p27"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "Liahona, noviembre de 2012 (discurso \"La prueba de vuestra fe\")",
+      "texto": "¿Cómo permanecen “firmes e inamovibles” durante una prueba a su fe? Se concentran en las cosas específicas que edificaron su núcleo de fe: ejercitan fe en Cristo, oran, meditan en las Escrituras, se arrepienten, guardan los mandamientos y prestan servicio a los demás",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2012/10/trial-of-your-faith?lang=spa&id=p14#p14"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La fidelidad bajo presión es una prueba de nuestra conversión. Cuando permanecemos fieles a pesar de las críticas del mundo y somos generosos en nuestra prosperidad, demostramos que nuestro tesoro no está en la tierra, sino en el cielo. La caridad, que es el amor puro de Cristo, debe ser la marca distintiva de nuestra vida diaria."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué significa para ti ser 'inquebrantable' en la observancia de los mandamientos?",
+        "¿Cómo podemos practicar la caridad cuando tenemos poco y cuando tenemos mucho?",
+        "¿De qué manera nuestra generosidad hacia otros es un reflejo de nuestra fe?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo trataba la iglesia a los ricos y a los pobres?",
+      "type": "multiple",
+      "options": [
+        "Preferían atender primero las necesidades de los ricos",
+        "No hacían acepción de personas; todos eran iguales",
+        "Solo permitían la membresía a personas de recursos limitados",
+        "Rechazaban a cualquiera que tuviera riquezas materiales"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 1:30",
+      "explanation": "La iglesia no hacía acepción de personas; todos eran considerados iguales."
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo compartían los miembros de la iglesia sus bienes?",
+      "type": "multiple",
+      "options": [
+        "Prestaban sus bienes únicamente a cambio de interés",
+        "Guardaban todo lo que tenían solo para sus propias familias",
+        "Esperaban que el gobierno se encargara de repartir los bienes",
+        "Impartían de su sustancia a los necesitados"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 1:27",
+      "explanation": "Los miembros impartían de su sustancia a los necesitados, cada uno según lo que tenía."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué efecto tuvo la prosperidad en algunos miembros?",
+      "type": "multiple",
+      "options": [
+        "Todos se mantuvieron humildes sin ninguna excepción",
+        "Algunos empezaron a enorgullecerse y perseguir a otros",
+        "La prosperidad no tuvo ningún efecto sobre nadie",
+        "Todos decidieron compartir aún más de lo habitual"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 4:6-8",
+      "explanation": "Algunos miembros empezaron a enorgullecerse por su prosperidad y a perseguir a otros."
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo respondieron los miembros fieles de la iglesia ante la persecución?",
+      "type": "multiple",
+      "options": [
+        "Respondiendo con la misma hostilidad de sus perseguidores",
+        "Abandonando la congregación para evitar más conflictos",
+        "Exigiendo protección especial de las autoridades del gobierno",
+        "Con paciencia, soportando las aflicciones con fe"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 1:25",
+      "explanation": "Los miembros fieles soportaron la persecución con paciencia y fe."
+    },
+    {
+      "id": 5,
+      "question": "Gael ve que en su grupo de jóvenes algunos tienen más dinero que otros y eso genera distancia entre ellos. ¿Qué principio de Alma 1:30 aplicaría?",
+      "type": "multiple",
+      "options": [
+        "Que los más ricos deben liderar siempre el grupo",
+        "No hacer acepción de personas; tratar a todos como iguales sin importar su situación económica",
+        "Que es normal que se formen grupos según el nivel económico",
+        "Que solo los líderes deben preocuparse por la unidad del grupo"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 1:30",
+      "explanation": "La iglesia no hacía acepción de personas; todos eran tratados como iguales sin importar su situación económica."
+    },
+    {
+      "id": 6,
+      "question": "Emilia tiene ropa y cosas que ya no usa mientras conoce a alguien que las necesita. ¿Qué le enseña el ejemplo de la iglesia primitiva?",
+      "type": "multiple",
+      "options": [
+        "Que debe guardar todo por si acaso lo necesita después",
+        "Que ayudar a otros es responsabilidad exclusiva de los líderes",
+        "Impartir de su sustancia a los necesitados, como hacían los primeros miembros de la iglesia",
+        "Que solo debe compartir si le sobra mucho"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 1:27",
+      "explanation": "Los miembros de la iglesia primitiva impartían de su sustancia a los necesitados."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan la igualdad entre ricos y pobres y la paciencia frente a la persecución en este capítulo?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "Ambas actitudes reflejan un corazón humilde que prioriza a Dios y a los demás por sobre el orgullo",
+        "Solo la igualdad económica tiene valor espiritual real",
+        "La paciencia ante la persecución contradice la idea de igualdad"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 1",
+      "explanation": "Ambas actitudes reflejan un corazón humilde que prioriza a Dios y a los demás por sobre el orgullo."
+    }
+  ]
+}

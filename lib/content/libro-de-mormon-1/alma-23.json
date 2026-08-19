@@ -1,0 +1,104 @@
+{
+  "id": "alma-23",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué hicieron los lamanitas convertidos con sus armas?",
+      "type": "multiple",
+      "options": [
+        "Las guardaron cuidadosamente por si las necesitaban después",
+        "Las vendieron a otras naciones para obtener ganancias",
+        "Se las entregaron a sus antiguos enemigos como regalo",
+        "Las enterraron profundamente como testimonio contra la guerra y el derramamiento de sangre"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 24:15-19",
+      "explanation": "Los lamanitas convertidos enterraron sus armas como testimonio contra la guerra y el derramamiento de sangre."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué nombre se dieron a sí mismos los lamanitas convertidos?",
+      "type": "multiple",
+      "options": [
+        "Los guerreros de la fe",
+        "Anti-nefi-lehitas, el pueblo de Dios",
+        "Los conquistadores del norte",
+        "Los nuevos nefitas"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 23:17",
+      "explanation": "Se dieron a sí mismos el nombre de anti-nefi-lehitas, el pueblo de Dios."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué caracterizó a estos convertidos?",
+      "type": "multiple",
+      "options": [
+        "Firmeza en la fe, nunca cayeron",
+        "Una debilidad constante frente a las pruebas",
+        "Inconstancia en sus convicciones religiosas",
+        "Duda permanente sobre lo que habían aprendido"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 23:6",
+      "explanation": "Estos convertidos se caracterizaron por su firmeza en la fe; nunca cayeron."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué hicieron los lamanitas convertidos cuando fueron atacados?",
+      "type": "multiple",
+      "options": [
+        "Pelearon con furia para defender a sus familias",
+        "Huyeron de inmediato hacia las montañas cercanas",
+        "Negociaron una tregua con sus antiguos enemigos",
+        "Se postraron y no opusieron resistencia, prefiriendo morir antes que pecar"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 24:21-22",
+      "explanation": "Se postraron y no opusieron resistencia, prefiriendo morir antes que volver a pecar."
+    },
+    {
+      "id": 5,
+      "question": "Bruno tomó una mala decisión hace tiempo y ahora sus amigos lo siguen molestando por eso, aunque él ya cambió. ¿Qué le enseña el ejemplo de los anti-nefi-lehitas sobre dejar el pasado atrás?",
+      "type": "multiple",
+      "options": [
+        "Que un cambio genuino puede ser tan real y firme como enterrar completamente las viejas armas de su vida pasada",
+        "Que debe seguir defendiéndose de las burlas de sus amigos con las mismas actitudes de antes",
+        "Que el pasado siempre define completamente el futuro de una persona",
+        "Que solo debe cambiar si sus amigos lo aceptan de nuevo"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 24:15-19",
+      "explanation": "El entierro de las armas muestra que un cambio genuino puede ser tan real y firme como dejar completamente atrás la vida pasada."
+    },
+    {
+      "id": 6,
+      "question": "Victoria ve que un compañero es agredido injustamente y siente ganas de defenderlo con violencia. ¿Qué principio de los anti-nefi-lehitas podría aplicar en su reacción?",
+      "type": "multiple",
+      "options": [
+        "Que la violencia siempre es la única forma efectiva de defender a otros",
+        "Que a veces la firmeza pacífica y el testimonio silencioso pueden influir más que la violencia",
+        "Que debe ignorar la situación por completo para evitar problemas",
+        "Que solo los adultos pueden intervenir en este tipo de situaciones"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 24:21-27",
+      "explanation": "El ejemplo de los anti-nefi-lehitas muestra que la firmeza pacífica y el testimonio silencioso pueden influir más que la violencia."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué conecta el entierro de las armas con la conversión de muchos de sus atacantes lamanitas?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "La conversión de los atacantes ocurrió por completo al azar",
+        "El sacrificio pacífico de los anti-nefi-lehitas se convirtió en un testimonio que llevó a otros a la conversión",
+        "El entierro de las armas provocó más violencia por parte de los atacantes"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 24:25-27",
+      "explanation": "El sacrificio pacífico de los anti-nefi-lehitas se convirtió en un testimonio que llevó a muchos de sus atacantes a la conversión."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "leccion-188",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Capaz estás cansado de la escuela. Tal vez sentís que estudiar no tiene sentido, que preferirías empezar a trabajar ya, o que la educación es solo un trámite antes de la \"vida real\". Es una sensación común entre los adolescentes, y es normal sentirla de vez en cuando.",
+        "Pero el Padre Celestial ve la educación de otra manera. Para Él no es solamente un medio para ganar dinero. Es parte de tu progreso eterno. Cada vez que aprendés algo nuevo, con esfuerzo y disciplina, te estás pareciendo un poco más a Él. La inteligencia que ganás en esta vida no se pierde: te acompaña para siempre.",
+        "Pensá en la educación como un embudo. Al principio, estudiar parece la abertura angosta: exige esfuerzo, sacrificio y disciplina. Pero esa angostura se abre después en más libertad, más oportunidades y más capacidad para servir a los demás. En cambio, elegir no esforzarte hoy parece más liviano, pero con el tiempo termina cerrando puertas.",
+        "No hace falta que ames cada materia del colegio. Lo que sí necesitás es una razón más grande que la nota del boletín: aprender es parte de llegar a ser como tu Padre Celestial, y de tener más herramientas para bendecir a otros el día de mañana."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Proverbios 3:13–18",
+          "texto": "Bienaventurado el hombre que halla la sabiduría y que adquiere entendimiento, porque su ganancia es mejor que la ganancia de la plata, y sus beneficios más que el oro fino. Más preciosa es que las piedras preciosas, y todo lo que puedas desear no se puede comparar con ella. Largura de días hay en su mano derecha; en su izquierda, riquezas y honra. Sus caminos son caminos deleitosos, y todas sus veredas, paz. Ella es árbol de vida a los que de ella echan mano, y bienaventurados son los que la retienen.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=spa&id=p13-p18#p13"
+        },
+        {
+          "referencia": "Doctrina y Convenios 130:18–19",
+          "texto": "Cualquier principio de inteligencia que logremos en esta vida se levantará con nosotros en la resurrección; y si en esta vida una persona adquiere más conocimiento e inteligencia que otra, por medio de su diligencia y obediencia, hasta ese grado le llevará la ventaja en el mundo venidero.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=spa&id=p18-p19#p18"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:118",
+          "texto": "Y por cuanto no todos tienen fe, buscad diligentemente y enseñaos el uno al otro palabras de sabiduría; sí, buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "\"Education—A Religious Responsibility\" (devocional de BYU-Idaho, 26 de enero de 2010)",
+      "texto": "Nuestro Creador espera que Sus hijos en todas partes adquieran una educación.",
+      "link": "https://www.byui.edu/speeches/russell-m-nelson/education-a-religious-responsibility"
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Gordon B. Hinckley",
+      "fuente": "\"Words of the Prophet: Seek Learning\", New Era, septiembre de 2007, págs. 3–4",
+      "texto": "Obtengan toda la educación académica posible.",
+      "link": "https://www.churchofjesuschrist.org/study/new-era/2007/09/words-of-the-prophet-seek-learning?lang=eng"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La educación no es un obstáculo entre vos y la vida que querés vivir; es parte del camino. El Padre Celestial no espera que ames cada examen o cada tarea, pero sí espera que sigas aprendiendo, con esfuerzo y con fe, porque cada cosa que aprendés te acerca un poco más a ser como Él. Esta semana vas a tomar decisiones pequeñas: estudiar un poco más, pedir ayuda cuando algo no entendés, no abandonar una materia difícil. Ninguna de esas decisiones parece gran cosa por sí sola, pero son las que van abriendo la puerta más grande. Elegí el esfuerzo de hoy, aunque no veas todavía la recompensa completa."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué materia o tema te gusta aprender más, y cómo descubriste ese interés?",
+        "¿Alguna vez sentiste que estudiar era una pérdida de tiempo? ¿Qué te ayudó a cambiar esa forma de verlo, si es que cambió?",
+        "¿Por qué creés que el Padre Celestial quiere que Sus hijos sigan aprendiendo toda la vida, y no solo mientras están en la escuela?",
+        "¿Qué diferencia hay entre estudiar solo para aprobar una materia y estudiar para llegar a ser más semejante al Padre Celestial?",
+        "¿Qué materia o hábito de estudio te está costando más esta semana? ¿Qué paso concreto podés dar para no abandonarlo?",
+        "¿A quién podrías pedirle ayuda esta semana si algo en la escuela te resulta difícil?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué la educación se considera un mandamiento y no solo una sugerencia para los Santos de los Últimos Días?",
+      "options": [
+        "Porque es necesario para ser populares.",
+        "Porque el Señor desea que desarrollemos nuestros talentos y nos preparemos para servir.",
+        "Porque es la única forma de entrar al templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué tipo de bendiciones espirituales aporta la educación?",
+      "options": [
+        "Nos permite ganar debates religiosos.",
+        "Aumenta nuestra capacidad de comprender la verdad y de recibir revelación personal.",
+        "Nos asegura que nunca tendremos problemas en la vida."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es una bendición temporal clave de obtener formación académica?",
+      "options": [
+        "Tener una casa más grande que la de los vecinos.",
+        "Poder trabajar menos horas que los demás.",
+        "Estar mejor capacitados para proveer para nuestras necesidades y las de nuestra futura familia."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Según las enseñanzas de los profetas, ¿cuándo termina nuestro proceso de aprendizaje?",
+      "options": [
+        "Cuando nos graduamos de la escuela secundaria.",
+        "Es un proceso eterno que continúa incluso después de esta vida.",
+        "Cuando conseguimos nuestro primer empleo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo ayuda la formación académica a nuestro servicio en el Reino de Dios?",
+      "options": [
+        "Nos da habilidades y conocimientos para ser instrumentos más eficaces en Sus manos.",
+        "Hace que nuestras oraciones sean escuchadas más rápido.",
+        "Nos permite evitar los llamamientos que no nos gustan."
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

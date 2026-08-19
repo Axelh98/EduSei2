@@ -1,0 +1,83 @@
+{
+  "id": "doctrina-y-convenios-71",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué instrucción dio el Salvador a José Smith y Sidney Rigdon en Doctrina y Convenios 71?",
+      "options": [
+        "Castigar a quienes difundían rumores",
+        "Escribir nuevas revelaciones para defenderse",
+        "Viajar por la región corrigiendo las falsedades",
+        "Ignorar las críticas y mantenerse en silencio"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "¿Quién fue uno de los primeros santos que abandonó la Iglesia y comenzó a publicar cartas críticas?",
+      "options": [
+        "Sidney Rigdon",
+        "Oliver Cowdery",
+        "Symonds Ryder",
+        "Ezra Booth"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "Según el élder Neil L. Andersen, ¿qué simbolizan los \"dardos de fuego\" en las Escrituras?",
+      "options": [
+        "Las tentaciones del mundo",
+        "Las pruebas físicas de los santos",
+        "Las críticas y ataques contra nuestras creencias",
+        "Los pecados personales"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Qué nos da la fortaleza interior para apagar los dardos encendidos del adversario?",
+      "options": [
+        "La obediencia estricta a los líderes",
+        "El conocimiento intelectual de las Escrituras",
+        "La fe en Jesucristo y en Sus palabras",
+        "La capacidad de debatir con firmeza"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseñó el presidente Russell M. Nelson sobre responder en redes sociales?",
+      "options": [
+        "Publicar más mensajes para contrarrestar las críticas",
+        "Responder con firmeza y dureza",
+        "Edificar puentes de entendimiento en lugar de replicar con ira",
+        "Ignorar siempre los comentarios negativos"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "¿Qué actitud pidió el presidente Nelson al tratar con los demás en casa, la capilla y en línea?",
+      "options": [
+        "Ser más estrictos y críticos",
+        "Defender siempre nuestras opiniones con firmeza",
+        "Interactuar de manera más elevada y santa",
+        "Evitar cualquier tipo de conversación"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "¿Qué ejemplo de Jesucristo muestra cómo responder ante críticas?",
+      "options": [
+        "Lucas 23:8–10, cuando fue interrogado por Herodes",
+        "Doctrina y Convenios 121:41–46, sobre el poder del sacerdocio",
+        "Mateo 4:3–11, cuando resistió las tentaciones de Satanás",
+        "Todas las anteriores"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

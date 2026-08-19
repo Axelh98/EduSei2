@@ -1,0 +1,39 @@
+{
+  "id": "doctrina-y-convenios-94-96",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué enseña DyC 95:1–3 sobre la disciplina del Señor?",
+      "options": [
+        "Que disciplina con amor para corregir y bendecir",
+        "Que castiga sin propósito",
+        "Que ignora a Su pueblo",
+        "Que no interviene"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué bendición prometió el Señor en DyC 95:8–9 al edificar Su casa?",
+      "options": [
+        "Ser investidos con poder desde lo alto",
+        "Recibir riquezas materiales",
+        "Evitar todo sacrificio",
+        "No enfrentar pruebas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué motivó a los santos según DyC 95:11–14?",
+      "options": [
+        "El Señor les prometió poder para construirla",
+        "El deseo de fama",
+        "La presión social",
+        "El temor a perder tierras"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

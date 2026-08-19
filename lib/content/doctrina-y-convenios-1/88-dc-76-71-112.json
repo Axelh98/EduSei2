@@ -1,0 +1,124 @@
+{
+  "id": "88-dc-76-71-112",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "D&C 76:71–112 completa la visión de las tres glorias describiendo los Reinos Terrestre y Telestial. El Reino Terrestre es para quienes fueron honorables en la tierra pero rechazaron el evangelio completo — algunos porque no lo recibieron en vida, otros porque lo recibieron pero no fueron suficientemente valientes en su testimonio. El Reino Telestial es para quienes vivieron en la maldad y no aceptaron el evangelio. Incluso ese reino, el más bajo, tiene una gloria que 'sobrepuja todo entendimiento.' Esta visión fue tan radical para los contemporáneos de José Smith que muchos de ellos la rechazaron — la idea de que casi nadie iría al infierno eterno era contraria a las enseñanzas religiosas de su tiempo. La revelación muestra un Padre cuya misericordia es mucho más amplia de lo que la mayoría de las tradiciones religiosas imaginaba, y a la vez establece que las elecciones que hacemos en esta vida tienen consecuencias eternas reales."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 76:71–72",
+          "texto": "Y otra vez os digo: vi y oí a los que no recibieron el evangelio de Cristo ni el testimonio de Jesús, sino que sí recibieron el espíritu de ellos, el espíritu del Señor honorable de la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p71-p72#p71"
+        },
+        {
+          "referencia": "Doctrina y Convenios 76:89",
+          "texto": "Y así vimos, en la visión celestial, la gloria del reino telestial, que sobrepasa todo entendimiento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p89#p89"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Quentin L. Cook",
+      "fuente": "«Valientes en el testimonio de Jesús», Liahona, noviembre de 2016, pág. 43",
+      "texto": "Para ser valientes debemos centrarnos en el poder de Jesucristo y Su sacrificio expiatorio para superar la muerte y, mediante el arrepentimiento, limpiarnos del pecado.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/274-doctrine-and-covenants-76-71-112?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "D&C 76 completa una de las revelaciones más impactantes de la historia religiosa: la visión de las tres glorias. La conclusión más importante no es teológica sino personal: el Padre diseñó un plan de misericordia extraordinaria, pero dentro de ese plan las elecciones tienen consecuencias eternas reales. Vivir con los convenios del evangelio en el centro no es solo prudente — es alinearse con el camino que conduce a la máxima gloria que el Padre puede ofrecer."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué diferencia al Reino Terrestre del Celestial, según D&C 76:71–72?",
+        "¿Qué te sorprende de que incluso el Reino Telestial tenga una gloria que 'sobrepasa todo entendimiento'?",
+        "¿Cómo describe esta visión el carácter del Padre: como juez severo o como Padre misericordioso que diseñó el máximo bien posible para Sus hijos?",
+        "¿Qué elecciones de tu vida actual determinan hacia qué gloria estás orientando tu trayectoria eterna?",
+        "¿Cómo explicarías la doctrina de los tres grados de gloria a alguien que nunca escuchó sobre ella, de manera que sea atractiva y no amenazante?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 76:71–72 describe a quienes heredan el Reino Terrestre. ¿Cuál es la característica que los distingue de los herederos del Celestial?",
+      "options": [
+        "Gente honorable de la tierra que no recibió el evangelio completo o no fue valiente en el testimonio de Jesús.",
+        "Personas que cometieron pecados graves y no se arrepintieron completamente.",
+        "Miembros inactivos de la Iglesia que dejaron de asistir a las reuniones.",
+        "Personas que vivieron en épocas sin el evangelio disponible y por eso no pudieron recibirlo."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 76:89 describe el Reino Telestial con una afirmación sorprendente. ¿Cuál es?",
+      "options": [
+        "Que su gloria sobrepasa todo entendimiento — incluso el reino más bajo tiene una gloria inconcebible.",
+        "Que es el único reino donde no hay presencia del Espíritu Santo.",
+        "Que sus habitantes sufrirán durante el milenio antes de recibir su gloria.",
+        "Que nadie que haya conocido el evangelio puede heredar ese reino."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "D&C 76:96–98 usa la metáfora del sol, la luna y las estrellas para describir las tres glorias. ¿Qué principio sobre la justicia divina ilustra esa metáfora?",
+      "options": [
+        "Que el Señor trata igual a todos independientemente de sus elecciones.",
+        "Que la justicia divina no produce un resultado único para todos sino una respuesta perfectamente calibrada a lo que cada persona eligió ser — cada gloria tiene su propia magnificencia.",
+        "Que las tres glorias son etapas progresivas que todos atravesarán eventualmente.",
+        "Que la metáfora es solo poética y no describe diferencias doctrinales reales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "El élder Holland enseñó que las tres glorias revelan tanto la 'justicia perfecta' como el 'amor infinito' del Padre. ¿Cómo equilibra D&C 76 esas dos dimensiones que parecen tensas?",
+      "options": [
+        "Priorizando el amor sobre la justicia — todos eventualmente heredan el reino celestial.",
+        "Priorizando la justicia sobre el amor — las elecciones tienen consecuencias irreversibles.",
+        "Mostrando que el Padre diseñó el máximo de gloria posible para cada persona según sus elecciones — hay justicia en la diferencia y misericordia en que incluso el menor supera toda comprensión.",
+        "Eliminando la tensión al declarar que la justicia y el amor son lo mismo."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Renata dice que 'si al final todos van a algún lugar bueno, da igual lo que haga ahora'. D&C 76:71–112 le responde con un principio. ¿Cuál es?",
+      "options": [
+        "Que los reinos son todos tan distintos que la diferencia no importa para la vida mortal.",
+        "Que las glorias difieren radicalmente en naturaleza y en quién puede estar en cada una — las elecciones de hoy determinan en qué tipo de persona uno se convierte y con quién puede morar eternamente.",
+        "Que tiene razón — el Padre es tan misericordioso que compensará cualquier falta.",
+        "Que la preocupación por el destino eterno es propia de adultos, no de jóvenes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Agustín siente que la doctrina de los tres reinos es confusa y prefiere no pensar en ella. ¿Cómo podría entender esa doctrina de manera que le dé motivación práctica esta semana?",
+      "options": [
+        "Leyendo toda la sección 76 de principio a fin para tener el cuadro completo.",
+        "Preguntándole al obispo qué reino cree que Agustín heredará según cómo lo conoce.",
+        "Viendo la doctrina no como un sistema de premios y castigos sino como una descripción de en qué tipo de persona se está convirtiendo — cada decisión de hoy lo acerca o aleja del tipo de gloria que el Padre diseñó para él.",
+        "Esperando a ser adulto para pensar en decisiones con peso eterno."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "D&C 76:50–70 (reino celestial) y D&C 76:71–112 (reinos terrestre y telestial) juntos completan la visión de las glorias. ¿Cuál es el mensaje central que esa visión completa transmite sobre el carácter del Padre?",
+      "options": [
+        "Que el Padre es principalmente un juez severo que separa a los buenos de los malos.",
+        "Que el Padre diseñó el máximo bien posible para cada uno de Sus hijos según lo que eligieron ser — no hay un infierno eterno para casi todos, sino reinos de gloria calibrados con perfecta misericordia y justicia.",
+        "Que todas las personas recibirán eventualmente el reino celestial con suficiente tiempo.",
+        "Que el Padre solo se preocupa por quienes activamente buscaron el evangelio en esta vida."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "mosiah-7-8",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "En estos capítulos, el rey Mosíah envía una expedición para buscar a los descendientes de Zeniff que habían salido de Zarahemla años atrás. Esta búsqueda subraya el cuidado constante del Señor por todas las ramas de Su pueblo, incluso cuando están lejos o en cautiverio. Además, se nos presenta la definición profética de lo que es un 'vidente'. Como enseñó el élder Neil L. Andersen: 'La función más importante del profeta del Señor es enseñarnos acerca del Salvador y guiarnos a Él'. Los videntes actúan como traductores de la voluntad de Dios, ayudando a Su pueblo a comprender y superar las dificultades. Esta lección nos enseña a valorar la guía profética y a buscar revelación personal para nuestras propias vidas."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 8:16-17",
+          "texto": "Un vidente puede saber de cosas que han pasado y también de cosas que han de venir... y serán instrumentos grandes en manos de Dios para traer a la salvación a muchos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=spa&id=p16-p17#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "Liahona, mayo de 2018, págs. 24–27",
+      "texto": "La función más importante del profeta del Señor es enseñarnos acerca del Salvador y guiarnos a Él.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa&id=p10#p10"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La historia de la búsqueda de Limhi y su pueblo nos recuerda que nunca estamos solos; el Señor siempre tiene un plan para nuestro rescate. El papel de los profetas y videntes es vital para nuestra navegación en un mundo lleno de confusión. Al confiar en las palabras de aquellos que Dios ha llamado como videntes, obtenemos una visión más clara de nuestro propósito y podemos encontrar el camino de regreso al Padre."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué es importante para nosotros contar con profetas y videntes hoy en día?",
+        "¿Cómo puedes desarrollar tu propia visión espiritual para reconocer la guía del Señor?",
+        "¿En qué situaciones has sentido que la guía de los profetas te ha ayudado a ver con más claridad?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué puede hacer un vidente según Mosíah 8:17?",
+      "type": "multiple",
+      "options": [
+        "Ver únicamente acontecimientos que ya sucedieron en el pasado",
+        "Interpretar sueños de cualquier persona que se lo pida",
+        "Saber con certeza de cosas pasadas, presentes y futuras",
+        "Curar enfermedades físicas mediante el poder de la vista"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 8:17",
+      "explanation": "Un vidente puede saber de cosas pasadas, presentes y futuras por medio de instrumentos preparados por Dios."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué es un vidente según Mosíah 8:16?",
+      "type": "multiple",
+      "options": [
+        "Un revelador y profeta también; mayor no puede haber",
+        "Un líder político elegido por el pueblo para gobernar",
+        "Un maestro común que solo enseña las Escrituras conocidas",
+        "Un sacerdote encargado únicamente de los sacrificios rituales"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 8:16",
+      "explanation": "Un vidente es un revelador y un profeta también; mayor don no puede haber."
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué es valioso un vidente para el pueblo?",
+      "type": "multiple",
+      "options": [
+        "Porque garantiza riquezas materiales a quienes lo siguen",
+        "Porque su posición social le da autoridad automática",
+        "Porque su popularidad atrae a más gente a la ciudad",
+        "Porque puede revelar cosas ocultas y traer conocimiento de Dios"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 8:16-17",
+      "explanation": "El vidente es valioso porque puede revelar cosas ocultas y traer conocimiento de Dios al pueblo."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué le había sucedido al pueblo de Limhi?",
+      "type": "multiple",
+      "options": [
+        "Prosperaban sin ninguna dificultad ni amenaza externa",
+        "Estaban en cautiverio bajo el dominio de los lamanitas",
+        "Habían conquistado nuevas tierras fértiles recientemente",
+        "Vivían en paz total gracias a alianzas con otros pueblos"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 7:15",
+      "explanation": "El pueblo de Limhi estaba en cautiverio, pagando tributo a los lamanitas."
+    },
+    {
+      "id": 5,
+      "question": "Franco quiere saber si Dios realmente conoce su futuro personal. ¿Qué le enseña Mosíah 8:17 sobre los videntes?",
+      "type": "multiple",
+      "options": [
+        "Que Dios puede revelar cosas pasadas, presentes y futuras a través de Sus siervos",
+        "Que nadie, ni siquiera Dios, puede conocer el futuro de una persona",
+        "Que solo los reyes pueden recibir ese tipo de revelación",
+        "Que el futuro de cada persona es completamente aleatorio"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 8:17",
+      "explanation": "Un vidente puede saber de cosas pasadas, presentes y futuras por el poder de Dios."
+    },
+    {
+      "id": 6,
+      "question": "Abril siente que su situación familiar difícil nunca va a mejorar. ¿Qué consejo de Limhi en Mosíah 7:33 le aplicarías?",
+      "type": "multiple",
+      "options": [
+        "Volverse al Señor con pleno propósito de corazón y confiar en que Él puede librarla",
+        "Resignarse porque su situación no puede cambiar",
+        "Alejarse de su familia para evitar el problema",
+        "Esperar a que otra persona resuelva la situación por ella"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 7:33",
+      "explanation": "Limhi enseñó a volverse al Señor con pleno propósito de corazón, confiando en que Él puede librarnos."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué conecta el don de vidente con la instrucción de Limhi de volverse al Señor?",
+      "type": "multiple",
+      "options": [
+        "Ambos muestran que el conocimiento y la liberación vienen de la relación con Dios, no de nuestros propios recursos",
+        "No tienen ninguna relación entre sí",
+        "El don de vidente hace innecesario volverse al Señor",
+        "Solo uno de los dos conceptos tiene aplicación práctica"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 7-8",
+      "explanation": "Ambos elementos muestran que el conocimiento y la liberación provienen de la relación con Dios."
+    }
+  ]
+}

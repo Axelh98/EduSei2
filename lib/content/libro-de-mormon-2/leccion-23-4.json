@@ -1,0 +1,123 @@
+{
+  "id": "leccion-23-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta declaración de Alma es una de las más directas sobre la fuente de la felicidad verdadera. Responde a una creencia común de que la felicidad puede encontrarse al margen de los mandamientos de Dios. Alma testifica que esta búsqueda siempre resulta vacía. La declaración 'la maldad nunca fue felicidad' establece un principio inmutable: solo al vivir de acuerdo con las leyes divinas se puede experimentar paz y gozo duraderos. Este principio ayuda a comprender la naturaleza de las elecciones morales."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Gordon B. Hinckley",
+      "fuente": "Enseñanzas de los Presidentes de la Iglesia: Gordon B. Hinckley, cap. 12",
+      "texto": "La felicidad se halla en guardar los mandamientos. Para un Santo de los Últimos Días, el transgredir dichos mandamientos solo puede ocasionar desdicha.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-gordon-b-hinckley/chapter-12-obedience-simply-live-the-gospel?lang=spa&id=p21#p21"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 41:10",
+          "texto": "La maldad nunca fue felicidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "2 Nefi 2:25",
+          "texto": "Adán cayó para que los hombres existiesen, y los hombres son para que tengan gozo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=spa&id=p25#p25"
+        },
+        {
+          "referencia": "Mosíah 2:41",
+          "texto": "Considerad el estado bendito y feliz de aquellos que guardan los mandamientos de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=spa&id=p41#p41"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué evidencia has observado de que la maldad no conduce a la felicidad duradera?",
+        "¿Cómo te ayuda este principio al tomar decisiones difíciles?",
+        "¿De qué maneras has experimentado que guardar los mandamientos trae paz?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según la frase clave de Alma 41:10, ¿qué es lo que 'nunca fue felicidad'?",
+      "options": [
+        "La maldad",
+        "El estudio de las Escrituras",
+        "La pobreza",
+        "El trabajo arduo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Alma dice que la iniquidad de los inicuos es 'como si fuese amontonada sobre sus propias cabezas' (Alma 41:10). ¿Qué representa esa imagen?",
+      "options": [
+        "Que Dios impone castigos arbitrarios sin relación con las obras de la persona",
+        "Que las consecuencias del pecado surgen de las propias decisiones de la persona, no de un castigo externo impuesto sin razón",
+        "Que el pecado no tiene ningún efecto real sobre quien lo comete",
+        "Que solo los líderes religiosos cargan con la responsabilidad del pecado ajeno"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Según el contexto de Alma 41, ¿qué trae la felicidad verdadera y duradera?",
+      "options": [
+        "La fama y el reconocimiento social",
+        "Vivir en armonía con las leyes que Dios ha establecido",
+        "El placer inmediato, sin importar sus consecuencias",
+        "El dinero y las posesiones materiales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Según el contexto de Alma 41, ¿por qué el mal no puede producir felicidad genuina, aunque a veces parezca placentero por un tiempo?",
+      "options": [
+        "Porque nadie ha intentado nunca vivir de esa manera",
+        "Porque simplemente es una opción poco popular",
+        "Porque va en contra del orden y las leyes bajo las cuales Dios estableció la felicidad verdadera",
+        "Porque es ilegal en toda sociedad conocida"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Mateo dice que 'copiar en un trabajo grupal le dio buenos resultados' y que eso demuestra que el mal a veces sí conviene. Según Alma 41:10, ¿qué le dirías?",
+      "options": [
+        "Que las consecuencias del pecado nunca alcanzan a nadie realmente",
+        "Que el fin siempre justifica los medios utilizados",
+        "Que un resultado favorable a corto plazo no es lo mismo que la felicidad genuina y duradera que enseña Alma",
+        "Que Alma estaría de acuerdo con que el mal a veces sí conviene"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Camila ve en redes sociales a personas que parecen muy felices llevando un estilo de vida que va en contra de lo que ella cree correcto, y empieza a dudar del principio de Alma 41:10. ¿Qué le ayudaría a responder esa duda?",
+      "options": [
+        "Que debería copiar ese estilo de vida sin cuestionarlo más",
+        "Que la apariencia externa de felicidad en redes sociales no siempre refleja la paz interior duradera de la que habla Alma",
+        "Que Alma se equivocó en este punto de su enseñanza",
+        "Que la felicidad real no importa, solo importa la apariencia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la imagen de la iniquidad 'amontonada sobre la propia cabeza' como la frase 'la maldad nunca fue felicidad' comparten un mismo principio. ¿Cuál es?",
+      "options": [
+        "Que el pecado no guarda ninguna relación con la felicidad de una persona",
+        "Que solo Dios sufre las consecuencias del pecado ajeno",
+        "Que la felicidad depende completamente de la suerte de cada persona",
+        "Que las consecuencias del pecado nacen de las propias decisiones y no producen la felicidad genuina que a veces se busca en ellas"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

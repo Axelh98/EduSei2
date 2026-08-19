@@ -1,0 +1,104 @@
+{
+  "id": "alma-31-1-11",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué problema tenían los zoramitas?",
+      "type": "multiple",
+      "options": [
+        "Se habían descarriado y pervertido el camino del Señor",
+        "Eran un pueblo completamente perfecto sin ningún defecto",
+        "Mostraban una humildad ejemplar en todas sus acciones",
+        "En realidad no tenían ningún problema espiritual"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 31:8-11",
+      "explanation": "Los zoramitas se habían descarriado y pervertido el camino del Señor."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué llevó Alma consigo para su misión?",
+      "type": "multiple",
+      "options": [
+        "Un ejército numeroso para protegerse",
+        "Una gran cantidad de dinero",
+        "La palabra de Dios como su única arma",
+        "Armas para defenderse en el camino"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 31:5",
+      "explanation": "Alma llevó consigo la palabra de Dios como su única arma para la misión."
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué es la palabra de Dios más poderosa que la espada?",
+      "type": "multiple",
+      "options": [
+        "En realidad no es más poderosa que la espada",
+        "Porque resulta más fácil de transportar en los viajes",
+        "Porque es una opción considerablemente más económica",
+        "Porque tiene efecto más potente en la mente para llevar a hacer lo justo"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 31:5",
+      "explanation": "La palabra de Dios tiene un efecto más potente en la mente para llevar a las personas a hacer lo justo."
+    },
+    {
+      "id": 4,
+      "question": "¿Quiénes acompañaron a Alma en esta misión?",
+      "type": "multiple",
+      "options": [
+        "Nadie, viajó completamente solo",
+        "Ammón, Aarón y otros hermanos fieles",
+        "Un grupo de completos desconocidos",
+        "Un pequeño ejército armado"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 31:6-7",
+      "explanation": "A Alma lo acompañaron Ammón, Aarón y otros hermanos fieles."
+    },
+    {
+      "id": 5,
+      "question": "Franco ve que un grupo de compañeros se ha alejado de la fe y le preocupa profundamente. ¿Qué ejemplo de Alma podría seguir para ayudarlos?",
+      "type": "multiple",
+      "options": [
+        "Ir hacia ellos con amor genuino, llevando la palabra de Dios como su principal herramienta",
+        "Alejarse de ellos para no ser influenciado por sus decisiones",
+        "Exigirles que regresen a la fe sin ninguna explicación",
+        "Esperar a que ellos busquen ayuda por sí mismos sin intervenir"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 31:1-6",
+      "explanation": "Alma se acercó a los zoramitas con amor genuino, llevando la palabra de Dios como su principal herramienta."
+    },
+    {
+      "id": 6,
+      "question": "Milagros siente que debe llevar 'pruebas fuertes' para convencer a alguien de la verdad. ¿Qué le enseña la elección de Alma de llevar solo la palabra de Dios?",
+      "type": "multiple",
+      "options": [
+        "Que necesita argumentos más agresivos para convencer a otros",
+        "Que la palabra de Dios, compartida con sinceridad, puede ser más poderosa que cualquier otro argumento",
+        "Que debe evitar compartir su fe si no tiene pruebas contundentes",
+        "Que la palabra de Dios no es suficiente sin apoyo adicional"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 31:5",
+      "explanation": "La palabra de Dios, compartida con sinceridad, puede ser más poderosa que cualquier otro argumento."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué relación hay entre la preocupación de Alma por los zoramitas y su elección de llevar la palabra de Dios como herramienta principal?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "Alma prefería usar la fuerza en lugar de la palabra de Dios",
+        "Su elección de llevar la palabra de Dios no tuvo relación con su preocupación por ellos",
+        "Su amor genuino por las almas de los zoramitas lo llevó a confiar en el poder transformador de la palabra de Dios"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 31:1-6",
+      "explanation": "El amor genuino de Alma por las almas de los zoramitas lo llevó a confiar en el poder transformador de la palabra de Dios."
+    }
+  ]
+}

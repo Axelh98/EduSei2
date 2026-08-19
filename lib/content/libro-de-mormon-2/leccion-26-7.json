@@ -1,0 +1,89 @@
+{
+  "id": "leccion-26-7",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Este versículo presenta una metáfora poderosa sobre edificar la vida sobre el fundamento de Cristo. Explica que cuando edificamos sobre Cristo, las tormentas de la vida (tentaciones, dificultades, adversidad) no tienen el poder de destruirnos. La 'roca' representa a Cristo y Sus enseñanzas. El pasaje enseña que solo Cristo proporciona un fundamento lo suficientemente firme para resistir todas las pruebas de la vida mortal y llevarnos a la vida eterna."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 5:12",
+          "texto": "Es sobre la roca de nuestro Redentor, el cual es Cristo, que debéis establecer vuestro fundamento, para que cuando el diablo lance sus recios vientos, no tenga poder para arrastraros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        },
+        {
+          "referencia": "Mateo 7:24-25",
+          "texto": "El que oye estas palabras mías y las hace, le compararé a un hombre prudente que edificó su casa sobre la roca.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=spa&id=p24-p25#p24"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo describes en términos prácticos lo que significa edificar sobre Cristo?",
+        "¿Qué 'vientos recios' o desafíos has enfrentado que ponen a prueba tu fundamento?",
+        "¿En qué áreas de tu vida necesitas fortalecer tu fundamento en Cristo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué cambio sorprendente ocurrió entre nefitas y lamanitas?",
+      "options": [
+        "Continuó el odio",
+        "Los lamanitas se volvieron más justos que los nefitas",
+        "Los nefitas conquistaron",
+        "No hubo cambios"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hicieron los lamanitas conversos con los ladrones de Gadiántón?",
+      "options": [
+        "Los aceptaron",
+        "Los predicaron y destruyeron completamente",
+        "Los ignoraron",
+        "Se unieron a ellos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué pasó con los nefitas y los ladrones de Gadiántón?",
+      "options": [
+        "Los rechazaron",
+        "Los ladrones se infiltraron en el gobierno nefita",
+        "Los destruyeron",
+        "Los ignoraron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál fue la causa principal de la caída de los nefitas?",
+      "options": [
+        "Falta de recursos",
+        "El orgullo y las combinaciones secretas",
+        "Guerra externa",
+        "Terremotos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué lección aprendemos sobre el orgullo?",
+      "options": [
+        "Es bueno",
+        "Puede destruir incluso a pueblos bendecidos",
+        "No tiene consecuencias",
+        "Es inevitable"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

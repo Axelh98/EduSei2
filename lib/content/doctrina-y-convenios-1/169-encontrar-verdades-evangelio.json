@@ -1,0 +1,110 @@
+{
+  "id": "169-encontrar-verdades-evangelio",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Leer la Escritura y encontrar verdades del evangelio en la Escritura son dos cosas distintas. Podés terminar un capítulo entero y no llevarte nada que cambie tu vida. O podés leer tres versículos y encontrar un principio que transforma cómo tomás una decisión esa semana.",
+        "Esta lección enseña el proceso de identificar, formular y aplicar verdades doctrinales del texto bíblico. Una 'verdad del evangelio' bien formulada tiene dos partes: un principio ('cuando hacemos X') y una consecuencia promisoria ('el Señor hace Y'). No es solo una observación histórica ('los israelitas cruzaron el mar Rojo') sino un principio transferible ('cuando actuamos con fe en las palabras del profeta, el Señor abre el camino').",
+        "El dominio de esta habilidad transforma el estudio de las Escrituras de una actividad religiosa pasiva a una fuente activa de guía personal. Cada vez que encontrás una verdad del evangelio y la aplicás a tu situación, las Escrituras se convierten en lo que el Señor prometió: una lámpara a tus pies."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Salmos 119:105",
+          "texto": "Lámpara es a mis pies tu palabra, y lumbrera a mi camino.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=spa&id=p105#p105"
+        },
+        {
+          "referencia": "2 Timoteo 3:16–17",
+          "texto": "Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=spa&id=p16-p17#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Encontrar verdades del evangelio en las Escrituras es una habilidad que se desarrolla con práctica. El proceso: leer el texto, identificar el principio doctrinal, formularlo en palabras propias ('cuando... entonces...'), y aplicarlo a una situación concreta de tu vida. Cuando hacés esto regularmente, las Escrituras dejan de ser un libro antiguo de historias y se convierten en la guía práctica que el Señor prometió. Esta semana, elegí un pasaje de tu estudio diario y practicá formular la verdad del evangelio que contiene."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál es la diferencia entre observar un hecho histórico en la Escritura y encontrar una verdad del evangelio aplicable a tu vida?",
+        "¿Podés tomar D&C 27:2 y formularlo como una verdad del evangelio con estructura 'cuando... entonces...'?",
+        "¿Alguna vez encontraste en las Escrituras algo que te ayudó a tomar una decisión concreta? ¿Qué fue?",
+        "¿Qué hace que las Escrituras sean 'útiles para enseñar, redargüir, corregir e instruir', como dice 2 Timoteo 3:16?",
+        "¿En qué situación concreta de tu vida esta semana podés aplicar una verdad del evangelio que encontraste en tus lecturas?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la diferencia entre observar que 'los israelitas cruzaron el mar Rojo' y encontrar una verdad del evangelio en ese evento?",
+      "options": [
+        "No hay diferencia, ambas son formas válidas de leer las Escrituras",
+        "La verdad del evangelio es un principio transferible: 'cuando actuamos con fe en las palabras del profeta, el Señor abre el camino'",
+        "La verdad del evangelio solo existe en los versículos del Nuevo Testamento",
+        "Encontrar verdades del evangelio requiere estudiar teología avanzada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "El Salmo 119:105 dice 'lámpara es a mis pies tu palabra'. ¿Cuándo sentiste más concretamente que las Escrituras iluminaron una decisión o situación de tu vida?",
+      "options": [
+        "Cuando leí una historia bíblica sin aplicarla a mi situación específica",
+        "Cuando encontré un principio en el texto que respondía exactamente a lo que estaba enfrentando",
+        "Cuando memoricé suficientes versículos para impresionar a los demás",
+        "Las Escrituras todavía no me han iluminado ninguna decisión concreta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Tomá D&C 27:2: 'no importa qué coméis ni qué bebéis cuando participáis de la Santa Cena, si es así que lo hacéis con miras puestas únicamente en mi gloria.' ¿Cómo formularías la verdad del evangelio de ese versículo con la estructura 'cuando… entonces…'?",
+      "options": [
+        "Cuando participamos de la Santa Cena, entonces debemos usar pan de trigo sin levadura",
+        "Cuando participamos de la Santa Cena con la intención centrada en glorificar a Dios, entonces la ordenanza tiene poder real más allá del ritual",
+        "Cuando tenemos hambre, entonces la Santa Cena nos alimenta físicamente",
+        "Cuando asistimos a la reunión sacramental, entonces Dios nos perdona automáticamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "2 Timoteo 3:16 dice que las Escrituras son 'útiles para enseñar, redargüir, corregir, instruir en justicia'. ¿Cuál de esas cuatro funciones encontrás más difícil de aceptar?",
+      "options": [
+        "Enseñar, porque prefiero aprender de personas y no de textos",
+        "Redargüir o corregir, porque prefiero que las Escrituras me confirmen lo que ya creo en lugar de desafiarme",
+        "Instruir en justicia, porque no sé bien qué significa eso en la práctica",
+        "Todas son igualmente fáciles de aceptar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿En qué situación concreta de tu vida esta semana podrías aplicar una verdad del evangelio que encontraste en tus lecturas recientes?",
+      "options": [
+        "Solo en situaciones de crisis espiritual, no en decisiones cotidianas",
+        "En cualquier decisión, relación o actitud donde el principio aprendido sea relevante",
+        "Solo en las conversaciones sobre religión con amigos o familiares",
+        "Las verdades del evangelio se aplican en las reuniones de la Iglesia, no en la vida diaria"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "¿Qué hábito concreto adoptarías en tu estudio diario de las Escrituras para pasar de leer pasivamente a encontrar verdades del evangelio aplicables?",
+      "options": [
+        "Leer más capítulos por día para cubrir más texto",
+        "Después de leer, escribir en pocas palabras un principio del pasaje y cómo lo aplicarías esta semana",
+        "Subrayar todos los versículos que no entendás para preguntarle al maestro después",
+        "Leer en voz alta para retener mejor la información"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nt-s14-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué consuelo dio Jesús a Sus discípulos ante Su partida en Juan 14:1?",
+      "options": [
+        "\"No estéis tristes\".",
+        "\"No se turbe vuestro corazón; creéis en Dios, creed también en mí\".",
+        "\"Volveré mañana\".",
+        "\"Id a vuestras casas\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Quién dijo Jesús que es el único camino para llegar al Padre?",
+      "options": [
+        "Moisés.",
+        "Él mismo (Jesucristo).",
+        "Pedro.",
+        "Juan el Bautista."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿A qué comparó Jesús Su relación con los discípulos en Juan 15?",
+      "options": [
+        "A un pastor y ovejas.",
+        "A la vid y los pámpanos (ramas).",
+        "A una red y peces.",
+        "A un sembrador y semillas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué sucede con el pámpano que no permanece en la vid?",
+      "options": [
+        "Crece más fuerte.",
+        "No puede llevar fruto por sí mismo.",
+        "Se convierte en vid.",
+        "Da frutos amargos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué prometió Jesús si Sus palabras permanecen en nosotros?",
+      "options": [
+        "Riquezas terrenales.",
+        "Que pediremos lo que queramos y nos será hecho.",
+        "Que no tendremos pruebas.",
+        "Que seremos reyes."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

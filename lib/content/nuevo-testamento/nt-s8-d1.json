@@ -1,0 +1,50 @@
+{
+  "id": "nt-s8-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué Jesús asistió inicialmente en secreto a la Fiesta de los Tabernáculos en Jerusalén?",
+      "options": [
+        "Porque no tenía dinero para el viaje.",
+        "Porque muchos en Jerusalén querían matarlo.",
+        "Porque quería sorprender a Sus Apóstoles.",
+        "Porque no le gustaban las fiestas públicas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué enseñó Jesús en Juan 7:17 sobre cómo saber si Su doctrina es de Dios?",
+      "options": [
+        "Estudiando historia antigua.",
+        "Haciendo la voluntad del Padre Celestial.",
+        "Esperando una señal del cielo sin actuar.",
+        "Debatiendo con los fariseos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué impacto tuvo la enseñanza de Jesús en los guardias enviados a arrestarlo?",
+      "options": [
+        "Se burlaron de Él.",
+        "Lo arrestaron inmediatamente.",
+        "Dijeron: “¡Jamás hombre alguno ha hablado como este hombre!”.",
+        "Se quedaron dormidos durante el discurso."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Qué recordaba el pueblo de Israel durante la Fiesta de los Tabernáculos?",
+      "options": [
+        "La creación del mundo.",
+        "Que Dios bendijo a Su pueblo durante 40 años en el desierto.",
+        "El nacimiento de Moisés.",
+        "La construcción del Templo de Salomón."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

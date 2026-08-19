@@ -1,0 +1,39 @@
+{
+  "id": "nt-s6-d5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué no pudieron los discípulos sanar al hijo del hombre?",
+      "options": [
+        "Porque no tenían medicina.",
+        "Por su falta de fe.",
+        "Porque el niño no quería.",
+        "Porque Jesús no estaba cerca."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál fue la respuesta del padre ante la pregunta de Jesús sobre si creía?",
+      "options": [
+        "\"No estoy seguro\".",
+        "\"Creo; ayuda mi incredulidad\".",
+        "\"Tengo mucha fe\".",
+        "\"Mis amigos creen por mí\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué enseñó Jesús sobre el género de espíritus que no salía fácilmente?",
+      "options": [
+        "Que requería más fuerza física.",
+        "Que con nada puede salir sino con oración y ayuno.",
+        "Que debían esperar un año.",
+        "Que era imposible sanarlos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "182-administracion-recursos",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El evangelio tiene mucho que decir sobre el dinero — no porque el dinero sea malo, sino porque la relación de una persona con el dinero revela mucho sobre la condición de su corazón. El Señor enseñó en D&C 104:78 a salir de deudas, pagar lo que se debe, y vivir dentro de los propios medios. Estos principios son contracorriente en una cultura que promueve el consumo inmediato, el crédito fácil y el estatus a través de las posesiones. Para los jóvenes que están comenzando a manejar dinero propio, esta lección introduce principios que pueden marcar la diferencia entre una vida financiera sana y una llena de estrés y deuda. El diezmo, el ahorro, el evitar deudas innecesarias y la generosidad son principios del evangelio que protegen tanto el bienestar temporal como el espiritual."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 104:78",
+          "texto": "Y nuevamente, en verdad os digo que es mi voluntad que vosotros saldéis todas vuestras deudas, en la medida en que hayáis incurrido en ellas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/104?lang=spa&id=p78#p78"
+        },
+        {
+          "referencia": "Malaquías 3:10",
+          "texto": "Traed todos los diezmos al alfolí y haya alimento en mi casa; y probadme ahora en esto, dice el Señor de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Joseph B. Wirthlin",
+      "fuente": "«Deudas terrenales y deudas celestiales», Liahona, mayo de 2004, pág. 40",
+      "texto": "Segundo, gasten menos de lo que ganan. Este consejo, aunque sencillo, constituye un poderoso secreto para lograr la dicha financiera. Las personas que viven con lo que sus ingresos les permiten saben cuánto dinero reciben cada mes y, aunque les sea difícil, se disciplinan para gastar menos de lo que cobran.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2004/04/earthly-debts-heavenly-debts?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Los principios de administración financiera del evangelio — pagar el diezmo en primer lugar, gastar menos de lo que ganás, ahorrar para emergencias, evitar deudas innecesarias — no son restricciones que limitan la vida sino fundamentos que la liberan. Quien vive dentro de sus medios puede dar con generosidad, servir sin distracción y enfrentar imprevistos con paz. Los hábitos que desarrollás ahora, con el dinero que tenés de joven, son el entrenamiento para los que necesitarás cuando la responsabilidad sea mayor."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo administrás actualmente el dinero que tenés? ¿Qué principio de esta lección te desafía más?",
+        "¿Pagás diezmo regularmente? Si sí, ¿qué diferencia hace en tu actitud hacia el dinero? Si no, ¿qué te impide hacerlo?",
+        "¿Hay alguna decisión financiera reciente tuya que, mirándola ahora, cambiarías? ¿Qué principio hubieras aplicado?",
+        "¿Qué hábito financiero concreto querés desarrollar esta semana — ya sea ahorrar, gastar con más intención, o dar con más generosidad?",
+        "¿Cómo podría una buena administración de tus recursos económicos ahora prepararte mejor para una misión, el matrimonio o la universidad?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 104:78 da una instrucción económica específica al pueblo del Señor. ¿Cuál es?",
+      "options": [
+        "Saldar todas las deudas en la medida en que se hayan incurrido en ellas.",
+        "Ahorrar el diez por ciento de todos los ingresos antes del diezmo.",
+        "Invertir en propiedades para no depender del trabajo asalariado.",
+        "Dar el cien por ciento de los excedentes al fondo de bienestar de la Iglesia."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Malaquías 3:10 desafía al pueblo a probar al Señor en el diezmo. ¿Qué promete el Señor a quienes lo hagan?",
+      "options": [
+        "Abrir las ventanas de los cielos y derramar una bendición hasta que sobreabunde.",
+        "Proteger sus bienes de todo robo y pérdida económica.",
+        "Darles propiedades en Independence, Misuri para el Milenio.",
+        "Eliminar todas sus deudas en el transcurso de un año."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "El élder Wirthlin enseñó que 'el principio de gastar menos de lo que ganamos parece trivial pero pocas cosas impactan más la calidad de vida familiar'. ¿Por qué ese principio tan simple tiene ese impacto tan profundo?",
+      "options": [
+        "Porque el ahorro produce interés compuesto que multiplica la riqueza automáticamente.",
+        "Porque vivir dentro de los medios elimina la fuente principal de estrés financiero — y ese estrés destruye la paz familiar y la capacidad de servir con libertad.",
+        "Porque los que ahorran más reciben mayores bendiciones económicas del Señor.",
+        "Porque el impacto es solo económico, no espiritual ni relacional."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué el diezmo es descrito en el evangelio como un principio de fe y no solo como una obligación económica?",
+      "options": [
+        "Porque el Señor necesita ese dinero para financiar Sus operaciones.",
+        "Porque pagar el diezmo cuando es ajustado económicamente demuestra que el Señor está primero — y el Señor prometió en Malaquías 3:10 responder a esa prioridad con bendiciones.",
+        "Porque el diezmo es la única forma de saber si alguien tiene fe genuina.",
+        "Porque el diezmo reemplaza al ayuno como la principal demostración de fe en el evangelio."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Tomás recibe dinero de su trabajo de medio tiempo y lo gasta todo en la semana en entretenimiento. Según D&C 104:78 y el principio de administración del evangelio, ¿qué hábito concreto debería desarrollar?",
+      "options": [
+        "Dejar de trabajar hasta que tenga suficiente disciplina para administrar bien el dinero.",
+        "Guardar todo el dinero sin gastar nada hasta tener una cantidad significativa.",
+        "Separar el diezmo primero, después establecer un porcentaje para ahorro, y administrar el resto — vivir dentro de lo que tiene, no dentro de lo que desea tener.",
+        "Consultar con el obispo para que le diga exactamente cómo gastar cada peso."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Valentina dice que 'cuando tenga más dinero empezaré a pagar el diezmo'. Según Malaquías 3:10, ¿qué problema tiene ese razonamiento?",
+      "options": [
+        "Ningún problema — el Señor entiende que primero hay que alcanzar estabilidad económica.",
+        "Que el Señor dijo 'probadme' precisamente cuando parece difícil — la fe se demuestra pagando el diezmo cuando el dinero es ajustado, no cuando sobra.",
+        "Que el diezmo es opcional hasta que los ingresos superen cierto umbral.",
+        "Que debería esperar a consultar con el obispo antes de tomar esa decisión."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "D&C 104:78 (saldar deudas) y Malaquías 3:10 (probar al Señor en el diezmo) juntos describen dos dimensiones de la administración fiel. ¿Cuál es el principio integrador?",
+      "options": [
+        "Que el Señor solo bendice económicamente a quienes no tienen deudas.",
+        "Que pagar el diezmo y saldar deudas son obligaciones independientes sin relación doctrinal.",
+        "Que el principio económico del evangelio es idéntico a los principios de finanzas personales seculares.",
+        "Que la administración fiel pone al Señor primero (diezmo) y elimina la dependencia del mundo (deudas) — ambas juntas construyen la libertad económica y espiritual que el evangelio promueve."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

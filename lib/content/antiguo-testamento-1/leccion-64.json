@@ -1,0 +1,83 @@
+{
+  "id": "leccion-64",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Esta cuarta práctica de Dominio de la Doctrina incluye un principio sobre buscar mayor comprensión mediante fuentes divinamente señaladas. ¿Cuáles son esas fuentes según la lección?",
+      "options": [
+        "Las Escrituras, los discursos de la conferencia general, el Espíritu Santo y los líderes locales autorizados.",
+        "Cualquier fuente que confirme la verdad que ya conocemos, porque el Señor puede hablar por cualquier medio.",
+        "Solo las Escrituras canónicas, porque son las únicas que tienen garantía completa de exactitud doctrinal.",
+        "Las obras de los apóstoles del siglo XIX, que fundaron la doctrina moderna de la Iglesia restaurada."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "El principio de actuar con fe mientras se buscan respuestas incluye una actitud específica ante la espera. ¿Cuál es esa actitud según la lección?",
+      "options": [
+        "Detener toda actividad religiosa hasta recibir una respuesta clara para no comprometerse con algo todavía incierto.",
+        "Buscar la respuesta con urgencia extrema porque la duda sin resolver debilita la fe de manera proporcional al tiempo transcurrido.",
+        "Seguir confiando en Dios y en la verdad que ya se ha recibido, manteniendo la fidelidad mientras la comprensión crece.",
+        "Compartir las dudas con otros miembros para que el problema sea resuelto por la comunidad antes de que dañe la fe individual."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "Esta práctica enseña a analizar preguntas difíciles con perspectiva eterna. ¿Cuál es la diferencia entre analizar una pregunta difícil 'con perspectiva eterna' y simplemente 'buscar más información'?",
+      "options": [
+        "Que la perspectiva eterna incluye el Plan de Salvación como marco interpretativo, lo que cambia el tipo de preguntas que se hacen y el tipo de respuestas que se aceptan.",
+        "Que buscar más información es un proceso intelectual mientras que la perspectiva eterna es un proceso espiritual; ambos son necesarios pero distintos.",
+        "Que la perspectiva eterna elimina la necesidad de buscar información porque todo puede entenderse desde el marco doctrinal ya conocido.",
+        "No hay diferencia real; la perspectiva eterna es simplemente buscar información en fuentes que el Señor ha señalado."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "La lección señala que el objetivo del Dominio de la Doctrina no es ganar debates sino ayudar a personas con preguntas sinceras. ¿Por qué esa distinción de propósito importa en la práctica?",
+      "options": [
+        "Porque ganar debates destruye relaciones y el Señor valora más las relaciones que el conocimiento correcto.",
+        "Porque cuando el objetivo es ganar, el tono y las estrategias cambian; cuando el objetivo es ayudar, la actitud, las preguntas y el rol del Espíritu Santo en la conversación son distintos.",
+        "Porque los debates sobre doctrina siempre generan más preguntas que respuestas, mientras que las conversaciones de ayuda crean certeza.",
+        "Porque el conocimiento doctrinal sin amor es hueco según 1 Corintios 13, y los debates tienden a eliminar el componente de amor."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Un compañero de Sofía le pregunta: 'Si hay un Dios bueno, ¿por qué permite las guerras y el sufrimiento?' Sofía quiere responder bien. Según esta práctica, ¿cuál sería el primer paso más apropiado?",
+      "options": [
+        "Escuchar con genuino interés y preguntar si hay algo específico detrás de esa pregunta antes de ofrecer cualquier explicación doctrinal.",
+        "Citar D&C 58:26 para explicar que el sufrimiento existe porque las personas no usan bien su agencia.",
+        "Reconocer que es una pregunta difícil y sugerirle que hable con el obispo, quien está mejor equipado para responderla.",
+        "Explicar el Plan de Salvación completo desde el principio para que tenga el contexto necesario para entender la respuesta."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Nicolás tiene una pregunta sobre la historia de la Iglesia que lo perturba y no sabe cómo abordarla. La práctica sugiere un proceso de cuatro pasos. ¿Cuál es el orden correcto de esos pasos?",
+      "options": [
+        "Buscar información externa → compartir con otros miembros → llevar al Señor en oración → aceptar si no hay respuesta.",
+        "Estudiar en las fuentes divinamente señaladas → orar pidiendo guía del Espíritu → actuar con fe mientras la comprensión crece → adoptar perspectiva eterna.",
+        "Preguntar al obispo → estudiar las Escrituras → orar por confirmación → dejar de pensar en el tema si no llega respuesta.",
+        "Ignorar la pregunta si genera ansiedad → recuperar la estabilidad → estudiar cuando esté más tranquilo → compartir con alguien de confianza."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Esta lección integra cuatro principios: actuar con fe, perspectiva eterna, fuentes divinamente señaladas y tratar con amor a quien pregunta. ¿Cuál es el modelo de discipulado que esa combinación propone para nuestra época?",
+      "options": [
+        "Que el discípulo de Cristo en nuestra época debe ser tanto un buscador serio de verdad como un testigo compasivo; no puede separar el saber del cómo relacionarse con quien pregunta.",
+        "Que los cuatro principios son etapas secuenciales: primero la fe, luego la perspectiva, luego las fuentes, luego el amor.",
+        "Que el amor a quien pregunta es el elemento más importante; los otros tres principios son herramientas al servicio de esa actitud central.",
+        "Que el modelo propone que los alumnos de Seminario se conviertan en apologistas capaces de defender la Iglesia en cualquier conversación difícil."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

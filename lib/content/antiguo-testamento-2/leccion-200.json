@@ -1,0 +1,56 @@
+{
+  "id": "leccion-200",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué la obediencia del misionero influye directamente en su eficacia para traer almas a Cristo?",
+      "options": [
+        "Porque las reglas existen para mantener el orden, no por razones espirituales.",
+        "Porque vivir obedientemente permite que el Espíritu Santo esté con el misionero, quien es el verdadero maestro.",
+        "Porque los líderes misioneros evalúan la obediencia para dar privilegios."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo afecta la falta de obediencia a la capacidad del Espíritu Santo de obrar a través de una persona?",
+      "options": [
+        "No afecta en absoluto; el Espíritu actúa independientemente de nuestras acciones.",
+        "Aleja el Espíritu y reduce la influencia espiritual de esa persona en quienes la rodean.",
+        "Solo afecta si el pecado es muy grave."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿En qué sentido es tu vida un ejemplo misionero incluso antes de servir una misión formal?",
+      "options": [
+        "Solo puedes ser ejemplo misional después de haber recibido una misión oficial.",
+        "Tu manera de vivir el Evangelio cada día puede despertar curiosidad e interés en las personas que te rodean.",
+        "Solo importa lo que dices, no cómo vives."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la relación entre obedecer la Palabra de Sabiduría y la obra misional?",
+      "options": [
+        "No hay relación entre ambas.",
+        "Guardar la Palabra de Sabiduría te mantiene saludable y con el Espíritu, lo que aumenta tu capacidad de servir y ser un buen ejemplo.",
+        "Solo importa si eres misionero de tiempo completo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promesa hace el Señor en Doctrina y Convenios 4 sobre quienes sirven con todo el corazón, alma, mente y fuerza?",
+      "options": [
+        "Que nunca tendrán dificultades en su misión.",
+        "Que están calificados para la obra y que el campo está blanco y listo para la cosecha.",
+        "Que recibirán una revelación directa en su primer día de misión."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

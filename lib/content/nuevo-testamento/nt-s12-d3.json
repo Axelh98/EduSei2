@@ -1,0 +1,50 @@
+{
+  "id": "nt-s12-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué representan las lámparas en la parábola según el manual?",
+      "options": [
+        "Nuestra ropa.",
+        "Nuestros testimonios y la preparación espiritual.",
+        "Objetos de decoración.",
+        "La riqueza material."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué a cinco de las vírgenes se les llamó \"insensatas\"?",
+      "options": [
+        "Porque no tenían lámparas.",
+        "Porque no tomaron aceite consigo en sus vasijas.",
+        "Porque se quedaron dormidas.",
+        "Porque no querían ir a la fiesta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué representa el \"aceite\" para nuestras lámparas espirituales?",
+      "options": [
+        "Solo la lectura de libros seculares.",
+        "Las gotas de discipulado y obediencia acumuladas día a día.",
+        "Dinero para la Iglesia.",
+        "La fe de nuestros padres."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué las vírgenes prudentes no pudieron compartir su aceite?",
+      "options": [
+        "Porque eran egoístas.",
+        "Porque la preparación espiritual no se puede compartir en el último momento.",
+        "Porque el aceite se evaporó.",
+        "Porque no les gustaban las otras vírgenes."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

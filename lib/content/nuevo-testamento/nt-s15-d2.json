@@ -1,0 +1,61 @@
+{
+  "id": "nt-s15-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué significa el nombre \"Getsemaní\"?",
+      "options": [
+        "Lugar de descanso.",
+        "Prensa de aceite.",
+        "Monte de oración.",
+        "Jardín de flores."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué pidió Jesús al Padre mientras oraba en el jardín?",
+      "options": [
+        "Que destruyera a Sus enemigos.",
+        "\"Padre mío, si es posible, pase de mí esta copa; pero no sea como yo quiero, sino como tú\".",
+        "Que los ángeles lo rescataran.",
+        "Que Sus discípulos fueran castigados."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué detalle físico único del sufrimiento de Jesús registra Lucas (Lucas 22:44)?",
+      "options": [
+        "Que no podía caminar.",
+        "Que Su sudor era como grandes gotas de sangre que caían hasta la tierra.",
+        "Que perdió la voz.",
+        "Que se quedó dormido por el cansancio."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué fue necesario el sufrimiento de Jesús en Getsemaní según el Plan de Salvación?",
+      "options": [
+        "Para demostrar que era muy fuerte.",
+        "Para tomar sobre Sí los pecados, dolores y aflicciones de toda la humanidad.",
+        "Para que los discípulos tuvieran qué escribir.",
+        "Para evitar la crucifixión."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Quién apareció del cielo para fortalecer al Salvador durante Su agonía?",
+      "options": [
+        "Moisés y Elías.",
+        "Un ángel.",
+        "Juan el Bautista.",
+        "Sus padres terrenales."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "nt-s13-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué evento se celebraba en Jerusalén cuando los principales sacerdotes conspiraron para matar a Jesús?",
+      "options": [
+        "La Fiesta de los Tabernáculos.",
+        "La Pascua.",
+        "El Pentecostés.",
+        "La Dedicación."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Quién fue la persona que ungió a Jesús con un perfume muy costoso en Betania?",
+      "options": [
+        "María Magdalena.",
+        "Una mujer (identificada en otros evangelios como María de Betania).",
+        "Marta.",
+        "Una mujer samaritana."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál fue la reacción de Judas Iscariote ante el gasto del perfume?",
+      "options": [
+        "Se alegró por el honor a Jesús.",
+        "Se indignó, sugiriendo que el dinero debió darse a los pobres.",
+        "No dijo nada.",
+        "Pidió un poco del perfume."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por cuántas piezas de plata aceptó Judas entregar al Salvador?",
+      "options": [
+        "10.",
+        "50.",
+        "30.",
+        "100."
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "bloque-nt-2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Dónde nació Jesús según Lucas 2?",
+      "options": [
+        "En Nazaret",
+        "En Jerusalén",
+        "En Belén",
+        "En Galilea"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "¿Qué señal dio el ángel a los pastores para reconocer al Salvador?",
+      "options": [
+        "Un niño envuelto en pañales y acostado en un pesebre",
+        "Una estrella brillante en el cielo",
+        "Un cordero junto al templo",
+        "Un ángel con espada de fuego"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué himno de alabanza pronunció Simeón al ver al niño Jesús en el templo?",
+      "options": [
+        "Magníficat",
+        "Nunc dimittis",
+        "Gloria in excelsis Deo",
+        "Aleluya"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué profetisa también dio testimonio de Jesús en el templo?",
+      "options": [
+        "Débora",
+        "Ana",
+        "Rut",
+        "Abigaíl"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué hacía Jesús a los doce años en el templo según Lucas 2?",
+      "options": [
+        "Oraba en silencio",
+        "Discutía con los doctores de la ley",
+        "Ofrecía sacrificios",
+        "Cantaba salmos"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

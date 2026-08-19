@@ -1,0 +1,18 @@
+{
+  "id": "leccion-26-10",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta evaluación final mide la comprensión de los principios, doctrinas, y relatos estudiados durante el semestre. El propósito no es solo medir conocimiento intelectual, sino evaluar cómo las enseñanzas del Libro de Mormón han influido en la comprensión del evangelio y en el testimonio de Jesucristo. La evaluación puede incluir preguntas sobre pasajes de dominio de la doctrina, principios clave, y aplicación personal de las enseñanzas."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo ha fortalecido tu testimonio el estudio del Libro de Mormón este semestre?",
+        "¿Qué cambios específicos has hecho en tu vida como resultado de este estudio?",
+        "¿Qué metas tienes para continuar estudiando las escrituras después de este semestre?"
+      ]
+    }
+  ],
+  "questions": []
+}

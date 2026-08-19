@@ -1,0 +1,74 @@
+{
+  "id": "leccion-27-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta lección proporciona un repaso de pasajes específicos de dominio de la doctrina. El propósito es fortalecer la memorización de las referencias escriturales y las frases clave, así como profundizar la comprensión de las doctrinas enseñadas. El repaso regular ayuda a retener el conocimiento y facilita el recuerdo de estos pasajes cuando se necesitan. También ofrece oportunidad para reflexionar sobre cómo estas doctrinas se han aplicado en la vida diaria."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuáles de los pasajes repasados puedes citar de memoria?",
+        "¿En qué situaciones recientes has recordado o aplicado alguno de estos pasajes?",
+        "¿Qué estrategias de memorización te han funcionado mejor?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué cualidad de Nefi destacó el Señor en Helamán 10:4?",
+      "options": [
+        "Su riqueza",
+        "Su incansable diligencia en buscar el bien del pueblo",
+        "Su fuerza",
+        "Su popularidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué poder se le dio a Nefi?",
+      "options": [
+        "Poder militar",
+        "Poder de sellar en la tierra y en el cielo",
+        "Poder económico",
+        "Poder político"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué el Señor confiaba en que Nefi usaría bien este poder?",
+      "options": [
+        "Por su experiencia",
+        "Porque siempre haría lo que el Señor mandara",
+        "Por su educación",
+        "Por su edad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué nos enseña sobre alinear nuestra voluntad con Dios?",
+      "options": [
+        "Que no es necesario",
+        "Que cuando nuestra voluntad está alineada con Dios, Él puede bendecirnos plenamente",
+        "Que es imposible",
+        "Que no importa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué tipo de persona puede recibir grandes bendiciones de Dios?",
+      "options": [
+        "Los ricos",
+        "Los famosos",
+        "Los que incansablemente buscan hacer Su voluntad",
+        "Los poderosos"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "leccion-173",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la verdad más importante sobre tu identidad que enseña esta lección?",
+      "options": [
+        "Que tu identidad la determina lo que los demás piensan de ti.",
+        "Que eres literalmente un hijo o hija de Dios con un propósito divino.",
+        "Que tu identidad cambia según tus circunstancias."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo influye conocer tu identidad divina en las decisiones que tomas diariamente?",
+      "options": [
+        "No influye, ya que las decisiones dependen de lo que sientes en el momento.",
+        "Te ayuda a tomar decisiones que reflejan quién realmente eres como hijo o hija de Dios.",
+        "Te hace sentir superior a los demás."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué Satanás intenta que olvidemos o confundamos nuestra identidad divina?",
+      "options": [
+        "Porque le molesta que seamos felices.",
+        "Porque si olvidamos quiénes somos, somos más vulnerables a sus engaños.",
+        "Porque Satanás no tiene poder sobre los que van a la Iglesia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Según la guía Para la Fortaleza de la Juventud, ¿qué te ayuda a recordar y vivir de acuerdo con tu identidad divina?",
+      "options": [
+        "Ser popular y tener muchos seguidores en redes sociales.",
+        "Buscar a Dios en oración, estudiar las Escrituras y vivir el Evangelio.",
+        "Evitar completamente relacionarte con personas que no son de la Iglesia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es el propósito divino que tienes como hijo o hija de Dios en esta vida?",
+      "options": [
+        "Solo cumplir reglas religiosas hasta regresar al cielo.",
+        "Crecer, aprender, servir a los demás y llegar a ser más semejante al Padre Celestial.",
+        "Demostrar que eres mejor que los que no creen en Dios."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

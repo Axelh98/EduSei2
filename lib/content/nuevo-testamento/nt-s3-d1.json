@@ -1,0 +1,61 @@
+{
+  "id": "nt-s3-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A qué comparó el Salvador a Sus discípulos en Mateo 5:13?",
+      "options": [
+        "A la arena del mar.",
+        "A la sal de la tierra.",
+        "A las nubes del cielo.",
+        "A las piedras del camino."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué sucede cuando la sal se mezcla con otros elementos y pierde su sabor?",
+      "options": [
+        "Se vuelve más valiosa.",
+        "Se vuelve inservible o no sirve para nada.",
+        "Se puede purificar sola.",
+        "Sigue siendo útil para cocinar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué luz deben sostener en alto los discípulos según 3 Nefi 18:24?",
+      "options": [
+        "Su propia inteligencia.",
+        "La luz de Jesucristo (Su ejemplo y enseñanzas).",
+        "Una antorcha de fuego.",
+        "El éxito personal."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué efecto tiene nuestro ejemplo recto en los demás según Mateo 5:16?",
+      "options": [
+        "Que nos tengan envidia.",
+        "Que glorifiquen a nuestro Padre Celestial.",
+        "Que nos den premios.",
+        "Que se olviden de Dios."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué sucede cada vez que decidimos vivir más como el Salvador según el presidente Eyring?",
+      "options": [
+        "Nos volvemos más populares.",
+        "Nuestro testimonio se fortalecerá y sentiremos crecer Su luz.",
+        "No notaremos ningún cambio.",
+        "Se acaban todas nuestras deudas."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

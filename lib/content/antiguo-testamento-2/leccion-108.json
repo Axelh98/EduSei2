@@ -1,0 +1,56 @@
+{
+  "id": "leccion-108",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué frase se repite en cada versículo del Salmo 136?",
+      "options": [
+        "'Porque Su poder no tiene fin.'",
+        "'Porque para siempre es Su misericordia.'",
+        "'Porque Su nombre es santo.'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué eventos de la historia de Israel se mencionan en el Salmo 136 como evidencias de la misericordia del Señor?",
+      "options": [
+        "Solo la construcción del templo de Salomón.",
+        "La Creación, el éxodo de Egipto, el cruce del Mar Rojo y la entrada a la tierra prometida.",
+        "Solo las victorias del rey David."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué el formato repetitivo del Salmo 136 era útil en el culto antiguo de Israel?",
+      "options": [
+        "Porque facilitaba que el pueblo respondiera en coro, participando activamente en la alabanza.",
+        "Porque era más fácil de memorizar para los niños.",
+        "Porque fue escrito para personas con poca memoria."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué verdad sobre el carácter de Dios confirma el Salmo 136 al repetir 'para siempre es Su misericordia'?",
+      "options": [
+        "Que la misericordia de Dios depende de nuestro comportamiento.",
+        "Que la misericordia de Dios es constante, inagotable e independiente de las circunstancias.",
+        "Que Dios es misericordioso solo con Israel y no con otras naciones."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo te invita el Salmo 136 a recordar la misericordia del Señor en tu propia vida?",
+      "options": [
+        "A memorizar la historia de Israel.",
+        "A reflexionar en cómo el Señor ha actuado en tu vida y expresar gratitud por Su misericordia continua.",
+        "A cantar el Salmo en voz alta cada día."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

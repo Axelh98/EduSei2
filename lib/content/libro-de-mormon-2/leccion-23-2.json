@@ -1,0 +1,123 @@
+{
+  "id": "leccion-23-2",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Alma explica la ley de la restauración: en la resurrección, las personas reciben de acuerdo con lo que han sembrado en la vida mortal. Si han hecho el bien, recibirán el bien; si han hecho el mal, recibirán el mal. Alma enfatiza una enseñanza fundamental: la maldad nunca fue felicidad. Esta es una respuesta a quienes buscan felicidad en caminos contrarios a los mandamientos. El capítulo ilustra cómo las elecciones mortales tienen consecuencias eternas."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Marcus B. Nash",
+      "fuente": "Liahona, noviembre de 2006",
+      "texto": "Estar 'sin Dios en el mundo', o sea, negarse a vivir de acuerdo con Su Evangelio y por tanto carecer de la compañía del Espíritu, equivale a encontrarse en un estado contrario a la felicidad.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2006/11/the-great-plan-of-happiness?lang=spa&id=p8#p8"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 41:10",
+          "texto": "La maldad nunca fue felicidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Alma 41:13-14",
+          "texto": "Los que hacen lo bueno recibirán lo que es bueno; y los que hacen lo malo recibirán lo que es malo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p13-p14#p13"
+        },
+        {
+          "referencia": "Alma 41:3",
+          "texto": "Todas las cosas serán restablecidas a su propia y perfecta forma.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p3#p3"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué evidencia has observado de que la maldad no conduce a la felicidad verdadera?",
+        "¿Cómo se relaciona la ley de la restauración con las decisiones que tomas diariamente?",
+        "¿De qué manera este principio te ayuda a comprender las consecuencias de tus acciones?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según Alma 41, ¿qué significa la palabra 'restauración' en el contexto de la doctrina que enseña Alma?",
+      "options": [
+        "Que todos reciben exactamente el mismo resultado, sin importar sus obras",
+        "Volver exactamente al estado del Jardín del Edén",
+        "Cambiar por completo la naturaleza de cada persona",
+        "El bien es restaurado al que hace el bien, y el mal es restaurado al que hace el mal"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 2,
+      "question": "¿Qué frase, ya bien conocida, usa Alma para describir la relación entre la maldad y la felicidad?",
+      "options": [
+        "'La maldad es solo temporal'",
+        "'La maldad es divertida por un tiempo'",
+        "'La maldad nunca fue felicidad'",
+        "'La maldad no tiene consecuencias'"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "¿Qué se restaura específicamente en la resurrección, según la explicación de Alma en este capítulo?",
+      "options": [
+        "Todo será restaurado a su propia y perfecta forma",
+        "Nada cambia respecto al estado mortal",
+        "Únicamente el cuerpo físico",
+        "Únicamente el espíritu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "Si una persona desea hacer el mal durante esta vida sin arrepentirse, ¿qué enseña Alma 41 que sucederá con ese deseo?",
+      "options": [
+        "Tendrá ese mismo deseo en la vida venidera",
+        "Se olvidará por completo",
+        "No tendrá ninguna consecuencia futura",
+        "Cambiará automáticamente al morir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Luca piensa que puede 'vivir cualquier cosa ahora' y cambiar sus deseos fácilmente más adelante, sin ningún costo. Según la doctrina de la restauración (Alma 41), ¿qué le dirías?",
+      "options": [
+        "Que tiene razón, cambiar de rumbo espiritual no cuesta ningún esfuerzo",
+        "Que los deseos que cultivamos ahora tienden a continuar y fortalecerse; cambiar de rumbo es posible mediante el arrepentimiento, pero no ocurre de forma automática ni sin esfuerzo",
+        "Que una vez que se cultiva un mal deseo, ya no hay forma de cambiarlo",
+        "Que los deseos no tienen ninguna relación con la doctrina de la restauración"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Valentina cree que hacer trampa en un examen 'no tiene nada que ver' con su vida espiritual, porque 'es solo la escuela'. Según el principio de que 'el bien es restaurado al que hace el bien' (Alma 41:13–14), ¿qué matiz agregarías?",
+      "options": [
+        "Que Alma se refería únicamente a decisiones tomadas en la edad adulta",
+        "Que cada decisión, incluso las pequeñas, va formando el tipo de persona en la que nos convertimos, y ese carácter es justamente lo que se 'restaura'",
+        "Que solo las decisiones religiosas explícitas cuentan para la doctrina de la restauración",
+        "Que las decisiones escolares nunca afectan el carácter espiritual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la doctrina de la restauración como la frase 'la maldad nunca fue felicidad' comparten un mismo principio sobre las consecuencias de nuestras decisiones. ¿Cuál es?",
+      "options": [
+        "Que solo Dios decide arbitrariamente el destino de cada persona",
+        "Que la felicidad y la maldad son en realidad lo mismo, solo con distinto nombre",
+        "Que nuestras acciones y deseos actuales determinan directamente nuestro estado futuro; no hay separación entre lo que elegimos ser ahora y lo que llegaremos a ser",
+        "Que las decisiones de esta vida no tienen relación con la vida futura"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pr-ctica-del-dominio-de-la-doctrina-5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿De qué manera memorizar información puede bendecir tu vida?",
+      "options": [
+        "Te ayuda a ganar debates rápidamente",
+        "Te permite recordar datos sin necesidad de reflexión espiritual",
+        "Te prepara para aplicar principios del Evangelio en momentos difíciles",
+        "Solo sirve para aprobar exámenes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "¿En qué situaciones sería útil tener memorizadas referencias de las Escrituras?",
+      "options": [
+        "Al compartir tu testimonio o responder preguntas sobre tu fe",
+        "Solo en clases de historia",
+        "Únicamente en reuniones familiares",
+        "Nunca es necesario memorizar Escrituras"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Según la lección, cuáles son los principios de adquirir conocimiento espiritual?",
+      "options": [
+        "Actuar con fe, mantener una perspectiva eterna, procurar comprensión mediante fuentes divinamente señaladas",
+        "Leer mucho, escribir apuntes, repetir frases",
+        "Escuchar música, orar, asistir a la Iglesia",
+        "Debatir con otros, buscar en internet, confiar en uno mismo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué hizo la hermana Kristin M. Yee para actuar con fe en su experiencia personal?",
+      "options": [
+        "Ignoró el problema y se distanció de su padre",
+        "Confió en Cristo para sanar su corazón y perdonar",
+        "Buscó ayuda únicamente en libros de autoayuda",
+        "Guardó resentimiento por más tiempo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué fuentes divinamente señaladas pueden ayudarnos a adquirir conocimiento espiritual?",
+      "options": [
+        "Las Escrituras, la oración y las palabras de los profetas",
+        "Noticias, redes sociales y opiniones populares",
+        "Experiencias personales sin guía espiritual",
+        "Únicamente la lógica y la razón humana"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Qué pasajes del Dominio de la doctrina podrían ayudar a alguien en una situación de perdón y sanación?",
+      "options": [
+        "Referencias que enseñan sobre Jesucristo y Su expiación",
+        "Pasajes de historia universal",
+        "Textos de filosofía griega",
+        "Ninguno, porque no aplican a la vida diaria"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Qué perspectiva eterna ayuda a comprender mejor las pruebas personales?",
+      "options": [
+        "Verlas dentro del Plan de Salvación y las enseñanzas de Cristo",
+        "Considerarlas como injusticias sin propósito",
+        "Pensar que son castigos inevitables",
+        "Creer que no tienen relación con la fe"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nt-s18-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué señal física acompañó la venida del Espíritu Santo en Pentecostés?",
+      "options": [
+        "Un terremoto violento.",
+        "Un estruendo como de viento y lenguas de fuego.",
+        "Una lluvia torrencial.",
+        "Oscuridad total."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué milagro permitió que personas de diversas naciones entendieran a los Apóstoles?",
+      "options": [
+        "Hablaron en un idioma inventado.",
+        "Hablaron en otras lenguas según el Espíritu les daba.",
+        "Usaron traductores romanos.",
+        "Les dieron copias escritas de los discursos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Quién dio el primer gran discurso testificando de la resurrección de Cristo?",
+      "options": [
+        "Juan.",
+        "Santiago.",
+        "Pedro.",
+        "Lucas."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál fue la respuesta de Pedro cuando el pueblo preguntó: \"¿Qué haremos?\"?",
+      "options": [
+        "\"Vuelvan a sus casas\".",
+        "\"Arrepentíos, y bautícese cada uno... y recibiréis el don del Espíritu Santo\".",
+        "\"Pagad vuestros impuestos\".",
+        "\"Estudiad las leyes antiguas\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuántas personas aproximadamente se bautizaron ese día?",
+      "options": [
+        "12.",
+        "100.",
+        "500.",
+        "3,000."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

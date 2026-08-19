@@ -1,0 +1,56 @@
+{
+  "id": "leccion-112",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué tema común une los Salmos, Proverbios y Eclesiastés?",
+      "options": [
+        "Todos describen batallas históricas de Israel.",
+        "Todos nos invitan a buscar al Señor como la fuente verdadera de sabiduría, paz y sentido.",
+        "Todos fueron escritos por el mismo autor."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Si tuvieras que elegir un versículo de estos libros para memorizar, ¿cuál de los siguientes sería más aplicable a la vida diaria?",
+      "options": [
+        "Salmo 136:1 — 'Alabad a Jehová, porque Él es bueno.'",
+        "Proverbios 3:5–6 — 'Confía en el Señor con todo tu corazón y no te apoyes en tu propia prudencia.'",
+        "Eclesiastés 1:2 — 'Vanidad de vanidades, todo es vanidad.'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué patrón de crecimiento espiritual has podido notar en tu propio estudio durante estas semanas?",
+      "options": [
+        "Solo importa cuántas lecciones completaste.",
+        "Lo importante es reflexionar honestamente en si tu fe, tu amor al Señor y tu deseo de seguirlo han crecido.",
+        "El crecimiento solo se mide por cuántos versículos memorizaste."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Según lo aprendido en Eclesiastés, ¿qué consecuencia tiene buscar la felicidad solo en las cosas del mundo?",
+      "options": [
+        "Conduce a una vida plena y satisfecha.",
+        "Resulta en una sensación de vacío, porque solo Dios puede llenar la necesidad más profunda del alma.",
+        "Es perfectamente aceptable si también vas a la Iglesia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué pequeño cambio en tu rutina diaria podrías hacer para aplicar las enseñanzas de estos libros?",
+      "options": [
+        "Leer todos los Salmos en una sola semana.",
+        "Comenzar el día con una oración y un versículo de los Proverbios o Salmos para orientar tus pensamientos hacia el Señor.",
+        "Solo leer las Escrituras los domingos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

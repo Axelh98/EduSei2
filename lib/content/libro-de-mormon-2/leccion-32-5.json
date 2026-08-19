@@ -1,0 +1,84 @@
+{
+  "id": "leccion-32-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Este pasaje clave nos ayuda a entender que no recibiremos un testimonio de Dios basándonos primero en evidencias visuales o pruebas. Moroni enseña que debemos ejercer la fe primero; luego viene la 'prueba de vuestra fe'. Esta prueba puede referirse a desafíos, paciencia o simplemente actuar de acuerdo con lo que creemos antes de que Dios envíe la confirmación espiritual mediante el Espíritu Santo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Éter 12:6",
+          "texto": "Y ahora yo, Moroni, quisiera hablar un poco concerniente a estas cosas. Quisiera mostrar al mundo que la fe es las cosas que se esperan y no se ven; por tanto, no disputéis porque no veis, porque no recibís ningún testimonio sino hasta después de la prueba de vuestra fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p6#p6"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué significa para ti 'la prueba de vuestra fe'?",
+        "¿En qué ocasión recibiste un testimonio de un mandamiento o doctrina solo después de haberlo vivido y practicado?",
+        "¿Cómo puedes alentar a alguien que está dudando porque aún 'no ve' el resultado de sus esfuerzos?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué enseñanzas compartió Cristo en estos capítulos?",
+      "options": [
+        "Solo leyes",
+        "Las Bienaventuranzas y el Sermón del Monte",
+        "Historia",
+        "Genealogías"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿A quiénes llamó Cristo 'la sal de la tierra'?",
+      "options": [
+        "A los ricos",
+        "A Sus discípulos",
+        "A los reyes",
+        "A los guerreros"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué enseñó sobre los enemigos?",
+      "options": [
+        "Odiarlos",
+        "Amar a nuestros enemigos y orar por ellos",
+        "Vengarnos",
+        "Ignorarlos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué oración enseñó Cristo?",
+      "options": [
+        "Ninguna",
+        "El Padre Nuestro (Oración del Señor)",
+        "Solo improvisaciones",
+        "Oraciones largas públicas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseñó sobre acumular tesoros?",
+      "options": [
+        "Acumular en la tierra",
+        "Acumular tesoros en el cielo, no en la tierra",
+        "No tener nada",
+        "Solo buscar riquezas"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

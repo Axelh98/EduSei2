@@ -1,0 +1,50 @@
+{
+  "id": "nt-s17-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quiénes fueron las primeras personas en descubrir la tumba vacía?",
+      "options": [
+        "Pedro y Juan.",
+        "Ciertas mujeres (incluida María Magdalena).",
+        "Los soldados romanos.",
+        "Pilato y su esposa."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo reaccionaron inicialmente los Apóstoles ante el informe de las mujeres?",
+      "options": [
+        "Creyeron de inmediato.",
+        "Les parecieron locura las palabras de ellas, y no las creyeron.",
+        "Fueron a celebrar.",
+        "Se escondieron en el templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué comió Jesús ante Sus discípulos para demostrar que tenía un cuerpo físico?",
+      "options": [
+        "Pan y vino.",
+        "Parte de un pez asado y un panal de miel.",
+        "Frutas de la región.",
+        "Nada, Él no necesitaba comer."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál fue el mandamiento de Jesús a Sus discípulos tras Su resurrección?",
+      "options": [
+        "Que se quedaran en Jerusalén para siempre.",
+        "Que se predicase en Su nombre el arrepentimiento y la remisión de pecados en todas las naciones.",
+        "Que no hablaran con nadie del milagro.",
+        "Que buscaran a Judas."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "doctrina-y-convenios-107-1-20",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué enseña Juan 15:5 sobre la relación entre la vid y las ramas?",
+      "options": [
+        "Si la rama se separa, muere",
+        "La rama puede vivir sola",
+        "La vid no es necesaria",
+        "La rama se fortalece sin la vid"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué nombre recibe el sacerdocio según DyC 107:3?",
+      "options": [
+        "Sacerdocio de Melquisedec",
+        "Sacerdocio Aarónico",
+        "Sacerdocio Levítico",
+        "Sacerdocio Patriarcal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué poder tiene el Sacerdocio de Melquisedec según DyC 107:8?",
+      "options": [
+        "Administrar en las cosas espirituales",
+        "Solo en asuntos temporales",
+        "No tiene poder",
+        "Depende de la voluntad humana"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué verdad enseña DyC 107:5 sobre las autoridades y oficios de la Iglesia?",
+      "options": [
+        "Son dependencias del Sacerdocio de Melquisedec",
+        "Son independientes",
+        "No tienen relación con el sacerdocio",
+        "Son creadas por tradición"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseña DyC 107:20 sobre el Sacerdocio Aarónico?",
+      "options": [
+        "Tiene autoridad para administrar ordenanzas exteriores como el bautismo y la Santa Cena",
+        "No tiene función",
+        "Es superior al de Melquisedec",
+        "Solo sirve para dirigir reuniones"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "doctrina-y-convenios-103",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué mandamiento recibió José Smith en DyC 103 respecto a los santos de Misuri?",
+      "options": [
+        "Organizar un grupo de voluntarios para ayudar",
+        "Ignorar la situación",
+        "Esperar sin actuar",
+        "Enviar cartas de consuelo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Cuántos hombres pidió el Señor para el Campamento de Israel según DyC 103:22, 29–34?",
+      "options": [
+        "500",
+        "200",
+        "50",
+        "1000"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Cuántos respondieron realmente al llamado de formar el Campamento de Israel?",
+      "options": [
+        "Poco más de 200",
+        "Exactamente 500",
+        "Menos de 50",
+        "Más de 1000"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseñanza del presidente Russell M. Nelson se relaciona con DyC 103?",
+      "options": [
+        "Meditar en las promesas del Señor y verlas cumplirse",
+        "Ignorar las promesas",
+        "Evitar compromisos",
+        "No esperar bendiciones"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio enseñan DyC 103:27–28 y los evangelios sobre el discipulado?",
+      "options": [
+        "Negarse a sí mismo y seguir a Cristo",
+        "Buscar comodidad",
+        "Evitar sacrificios",
+        "Seguir solo cuando es fácil"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "leccion-183",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué es importante prestar atención a los pensamientos que tienes habitualmente?",
+      "options": [
+        "Porque los pensamientos no afectan realmente nuestras acciones.",
+        "Porque los pensamientos influyen directamente en nuestros sentimientos y en nuestro comportamiento.",
+        "Solo importa lo que haces, no lo que piensas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué consejo da el apóstol Pablo en Filipenses 4:8 sobre el pensamiento?",
+      "options": [
+        "Que debemos pensar solo en cosas religiosas.",
+        "Que debemos ocupar nuestra mente en cosas verdaderas, honestas, justas, puras y de buen nombre.",
+        "Que debemos evitar pensar en los problemas de la vida."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué es un 'pensamiento distorsionado' según esta lección?",
+      "options": [
+        "Un pensamiento que viene del diablo directamente.",
+        "Un patrón de pensar que no refleja la realidad, como creer que todo siempre sale mal.",
+        "Un pensamiento que solo tienen las personas con enfermedades mentales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo puede el Espíritu Santo ayudarte a cambiar patrones de pensamiento negativos?",
+      "options": [
+        "Eliminando automáticamente todos tus pensamientos malos.",
+        "Guiándote hacia la verdad y recordándote el amor de Dios cuando el pensamiento negativo aparece.",
+        "Solo actúa si primero te bautizas de nuevo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué diferencia hay entre un pensamiento negativo ocasional y un patrón de pensamiento dañino?",
+      "options": [
+        "No hay diferencia; ambos son igualmente peligrosos.",
+        "Un patrón dañino es un hábito repetitivo que distorsiona la realidad y erosiona la confianza en Dios y en uno mismo.",
+        "Los pensamientos negativos solo son dañinos si los dices en voz alta."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

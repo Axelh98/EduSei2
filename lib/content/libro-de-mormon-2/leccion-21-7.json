@@ -1,0 +1,123 @@
+{
+  "id": "leccion-21-7",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "La doctrina de la expiación infinita y eterna es fundamental en el evangelio restaurado. Amulek explica que ningún ser humano puede expiar los pecados de otro debido a la naturaleza imperfecta de toda la humanidad. La justicia divina requiere un sacrificio perfecto, y solo Jesucristo, siendo el Hijo de Dios sin pecado, cumple este requisito. El término 'infinita' indica que la expiación cubre a todas las personas en todas las épocas, mientras que 'eterna' señala que sus efectos se extienden por toda la eternidad."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Gerrit W. Gong",
+      "fuente": "Liahona, noviembre de 2018, pág. 40",
+      "texto": "La expiación de nuestro Salvador es infinita y eterna. Cada uno de nosotros se aparta y se queda corto. Quizá, por un tiempo, nos perdamos. Dios amorosamente nos asegura que, sin importar dónde estemos o qué hayamos hecho, no hay punto del que no podamos volver. Él espera listo para abrazarnos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/our-campfire-of-faith?lang=spa&id=p25#p25"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 34:9",
+          "texto": "Ningún hombre puede sacrificar su propia sangre para expiar los pecados de otro.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Alma 34:10",
+          "texto": "Es necesario que se realice una expiación infinita y eterna, pues a menos que fuese infinita, esta corrupción no podría vestirse de incorrupción.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "2 Nefi 9:7",
+          "texto": "Es necesario que haya una expiación infinita, pues de no ser así, esta corrupción no podría vestirse de incorrupción.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=spa&id=p7#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Según Alma 34, ¿qué cualidades específicas hacían que solo Cristo pudiera realizar la expiación?",
+        "¿Cómo influye el conocimiento de que la expiación es 'infinita y eterna' en tu perspectiva diaria?",
+        "¿De qué formas podrías aplicar los principios de la expiación en tus desafíos actuales?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según Alma 34:9, ¿qué es lo que un ser humano no puede hacer por otro, sin importar cuánto lo intente?",
+      "options": [
+        "Enseñarle el Evangelio",
+        "Expiar por sus pecados",
+        "Orar en su nombre",
+        "Ayudarlo económicamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué característica del sacrificio necesario se enfatiza en Alma 34:10 para explicar por qué debía ser el Hijo de Dios quien lo ofreciera?",
+      "options": [
+        "Que fuera doloroso",
+        "Que fuera público, para que todos lo vieran",
+        "Que fuera infinito y eterno",
+        "Que ocurriera exactamente en Jerusalén"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "Amulek explica que se requiere 'un gran sacrificio' porque, de otra manera, la ley de la justicia quedaría sin satisfacer. ¿Qué relación establece este versículo entre justicia y expiación?",
+      "options": [
+        "Que la expiación es lo único capaz de satisfacer las exigencias de la justicia sin destruir al pecador",
+        "Que la justicia y la expiación son enseñanzas contradictorias",
+        "Que la justicia deja de existir después de la expiación",
+        "Que la expiación anula por completo la ley de la justicia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "Si el sacrificio requerido tuviera que ser mayor que cualquier ofrenda de sangre animal o humana (Alma 34:10–12), ¿qué nos dice eso sobre la magnitud del pecado ante la justicia de Dios?",
+      "options": [
+        "Que la deuda que genera el pecado es tan grande, que solo un ser infinito puede pagarla",
+        "Que Dios exagera la gravedad del pecado",
+        "Que el pecado solo afecta a quien lo comete, sin consecuencias mayores",
+        "Que el pecado es un asunto menor que no requiere mucho esfuerzo para resolverse"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Un amigo de Zeezrom —personaje presente en estos capítulos— le pregunta a Amulek por qué Cristo, y no otra persona buena, tenía que ser quien hiciera el sacrificio. Usando Alma 34:9–10, ¿cómo respondería Amulek?",
+      "options": [
+        "Que en realidad no era necesario ningún sacrificio",
+        "Que los ángeles podrían haber cumplido esa función",
+        "Que cualquier persona muy justa podría haberlo hecho igual de bien",
+        "Que ningún hombre, por más justo que sea, puede ofrecer un sacrificio infinito; solo el Hijo de Dios podía satisfacer esa exigencia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Mateo le dice a un compañero de curso que 'total, Dios perdona cualquier cosa fácilmente'. Usando el principio de Alma 34:9–10, ¿qué matiz le agregarías a esa idea?",
+      "options": [
+        "Que solo los profetas pueden recibir perdón",
+        "Que el perdón depende exclusivamente de cuántas buenas obras se hagan",
+        "Que el perdón de Dios existe, pero fue posible únicamente gracias a un sacrificio infinito, no porque el pecado 'no importe'",
+        "Que en realidad Dios no perdona con facilidad"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Alma 34:9 (lo que ningún hombre puede hacer) y Alma 34:10 (lo que sí puede hacer el Hijo de Dios) forman una sola idea central del pasaje de dominio de la doctrina. ¿Cuál es esa idea?",
+      "options": [
+        "Que la expiación fue un evento simbólico sin efecto real",
+        "Que la salvación depende completamente de nuestro propio esfuerzo",
+        "Que nadie necesita realmente ser salvo",
+        "Que dependemos por completo de Jesucristo para la salvación, porque solo Él pudo ofrecer el sacrificio infinito que la justicia exige"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

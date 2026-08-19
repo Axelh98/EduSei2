@@ -1,0 +1,33 @@
+{
+  "id": "leccion-29-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta lección ofrece una oportunidad para reflexionar sobre el aprendizaje de las semanas recientes. El propósito es evaluar no solo el conocimiento intelectual sino también cómo las enseñanzas han influido en la comprensión del evangelio y en las acciones diarias. Es un momento para identificar áreas de crecimiento espiritual y áreas que necesitan mayor atención. La evaluación ayuda a consolidar el aprendizaje y prepararse para aplicar estos principios continuamente."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "2 Nefi 32:3",
+          "texto": "Las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "DyC 84:85",
+          "texto": "Ni la mente ha concebido las grandes cosas que el Señor tiene reservadas para los que lo aman.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p85#p85"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué principio o doctrina de las últimas semanas ha impactado más tu comprensión del evangelio?",
+        "¿En qué áreas específicas has aplicado las enseñanzas estudiadas?",
+        "¿Qué metas tienes para continuar creciendo espiritualmente?"
+      ]
+    }
+  ],
+  "questions": []
+}

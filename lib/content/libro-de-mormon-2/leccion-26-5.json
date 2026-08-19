@@ -1,0 +1,89 @@
+{
+  "id": "leccion-26-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Nefi y Lehi, hijos de Helamán, renuncian a sus posiciones de jueces para dedicarse a predicar. Su padre les había enseñado sobre Cristo desde su juventud, recordándoles los nombres que les dio en memoria de Lehi y Nefi, sus antepasados. Armados con las enseñanzas de sus padres, predican con poder y miles se convierten. El capítulo ilustra la influencia de la enseñanza familiar y la importancia de recordar el legado espiritual."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 5:6-7",
+          "texto": "Os he dado los nombres de nuestros primeros padres. Haced como ellos hicieron; recordad cuán grande cosa el Señor ha hecho por ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p6-p7#p6"
+        },
+        {
+          "referencia": "Helamán 5:12",
+          "texto": "Es sobre la roca de nuestro Redentor, el cual es Cristo, que debéis establecer vuestro fundamento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te enseña este pasaje sobre la influencia de las enseñanzas familiares?",
+        "¿Cómo puedes edificar tu vida sobre el fundamento de Cristo?",
+        "¿Qué legado espiritual estás creando para las generaciones futuras?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según Helamán 5:12, ¿sobre qué debemos edificar?",
+      "options": [
+        "Nuestra propia sabiduría",
+        "La roca de nuestro Redentor, Cristo",
+        "La arena",
+        "Las riquezas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué promete este versículo si edificamos sobre Cristo?",
+      "options": [
+        "Vida fácil",
+        "Que el diablo no tendrá poder para hundirnos",
+        "Riquezas",
+        "Fama"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué representa la 'roca' en este pasaje?",
+      "options": [
+        "Una piedra literal",
+        "Jesucristo y Su expiación",
+        "La iglesia",
+        "Los profetas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué son los 'fuertes vientos' y 'torbellinos' mencionados?",
+      "options": [
+        "Clima malo",
+        "Las tentaciones y ataques de Satanás",
+        "Tormentas literales",
+        "Problemas menores"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo edificamos sobre la roca de Cristo?",
+      "options": [
+        "Solo yendo a la iglesia",
+        "Fe en Él, arrepentimiento, obediencia a Sus mandamientos",
+        "Siendo buenos con otros solamente",
+        "Leyendo escrituras ocasionalmente"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

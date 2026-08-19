@@ -1,0 +1,61 @@
+{
+  "id": "pr-ctica-del-dominio-de-la-doctrina-8",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué principio enseña Éter 12:6 sobre la fe?",
+      "options": [
+        "La fe se prueba antes de recibir el testimonio",
+        "La fe no es necesaria",
+        "La fe siempre trae resultados inmediatos",
+        "La fe es inútil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué recurso enseñó el presidente Russell M. Nelson en “Tesoros espirituales” sobre las mujeres?",
+      "options": [
+        "Que poseen tesoros espirituales al guardar convenios",
+        "Que no tienen acceso a bendiciones",
+        "Que no progresan",
+        "Que no participan en la obra"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué principio puede ayudar a Víctor a encontrar la verdad en medio de opiniones diversas?",
+      "options": [
+        "Actuar con fe y acudir a fuentes divinas",
+        "Seguir cualquier opinión",
+        "Evitar estudiar",
+        "No buscar respuestas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseña DyC 107:8 sobre el sacerdocio?",
+      "options": [
+        "Que tiene poder y autoridad para administrar en las cosas espirituales",
+        "Que no aplica a las mujeres",
+        "Que solo sirve para asuntos temporales",
+        "Que no tiene relevancia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio de adquirir conocimiento espiritual puede aplicarse en situaciones difíciles?",
+      "options": [
+        "Reformular preguntas desde una perspectiva eterna",
+        "Ignorar las dudas",
+        "Evitar estudiar",
+        "Depender solo de opiniones humanas"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

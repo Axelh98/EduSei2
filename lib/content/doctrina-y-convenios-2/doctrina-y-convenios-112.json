@@ -1,0 +1,61 @@
+{
+  "id": "doctrina-y-convenios-112",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A quién fue dirigida principalmente la revelación en DyC 112?",
+      "options": [
+        "Thomas B. Marsh",
+        "Brigham Young",
+        "Heber C. Kimball",
+        "Joseph Smith"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué advertencia da el Señor en DyC 112:10 respecto al orgullo?",
+      "options": [
+        "El orgullo precede a la caída",
+        "El orgullo fortalece el liderazgo",
+        "El orgullo no tiene consecuencias",
+        "El orgullo es una señal de éxito"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Según DyC 112:15, ¿qué se requiere de los que poseen llaves del sacerdocio?",
+      "options": [
+        "Ser fieles y humildes ante el Señor",
+        "Actuar según su propio criterio",
+        "Buscar reconocimiento",
+        "Evitar la corrección"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseñanza clave da DyC 112 sobre la autoridad del sacerdocio?",
+      "options": [
+        "Debe ejercerse con rectitud y sumisión a la voluntad del Señor",
+        "Otorga poder absoluto",
+        "Elimina la necesidad de revelación",
+        "Garantiza éxito inmediato"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio podemos aplicar hoy a partir de DyC 112?",
+      "options": [
+        "La humildad es esencial para recibir y conservar la guía del Señor",
+        "La posición garantiza inspiración",
+        "La experiencia reemplaza la obediencia",
+        "La corrección no es necesaria"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

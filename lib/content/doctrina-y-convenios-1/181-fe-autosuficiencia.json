@@ -1,0 +1,124 @@
+{
+  "id": "181-fe-autosuficiencia",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "La autosuficiencia en el evangelio no es independencia de Dios — es la combinación de esfuerzo personal fiel con la confianza en que el Señor bendece ese esfuerzo. Hay una diferencia fundamental entre la autosuficiencia del mundo — que se basa en la confianza en uno mismo únicamente — y la autosuficiencia del evangelio — que se basa en la fe en que el Señor multiplica el esfuerzo fiel. Esta lección conecta la fe en Jesucristo con el desarrollo de la capacidad de proveer para uno mismo y para la familia. Cuando confiamos en el Señor mientras trabajamos diligentemente, Él puede abrir puertas que el esfuerzo humano solo no puede abrir. Para un joven que enfrenta decisiones sobre educación, carrera y futuro, la lección propone una base que ningún plan humano puede dar: la fe en que el Señor está activamente involucrado en su desarrollo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 78:13–14",
+          "texto": "Mas si no sois iguales en los bienes terrenales, no podéis ser iguales en la obtención de cosas celestiales... para que mi pueblo no sea dependiente de los reinos del mundo ni de sus poderes.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p13-p14#p13"
+        },
+        {
+          "referencia": "Proverbios 3:5–6",
+          "texto": "Confía en el Señor con todo tu corazón, y no te apoyes en tu propio entendimiento. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=spa&id=p5-p6#p5"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Cristo ha resucitado; la fe en Él moverá montes», Liahona, mayo de 2021, págs. 102–103",
+      "texto": "Mediante su fe, Jesucristo aumentará la capacidad de ustedes para mover los montes.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/562-faith-in-jesus-christ-to-build-self-reliance?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Fe en Jesucristo para desarrollar la autosuficiencia significa que no trabajás solo — trabajás con Él. Eso no reduce el esfuerzo requerido; lo amplifica con un poder que vos solo no tenés. Para los jóvenes que se preguntan si podrán sostenerse solos en el futuro, si podrán proveer para una familia, si podrán cumplir una misión: la respuesta del evangelio es sí, si confían en el Señor mientras trabajan con diligencia."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál es la diferencia entre la autosuficiencia del mundo y la autosuficiencia del evangelio?",
+        "¿Alguna vez el Señor bendijo tu esfuerzo de una manera que vos solo no hubieras podido lograr? ¿Cuándo?",
+        "¿Hay alguna área de tu desarrollo futuro — educación, carrera, misión — donde necesitás más fe en que el Señor te respaldará?",
+        "¿Qué harías diferente esta semana si vivieras Proverbios 3:5–6 en tus decisiones académicas y personales?",
+        "¿Cómo podrías fortalecer tu fe en el Señor específicamente en el área de tu desarrollo personal y futuro?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Proverbios 3:5–6 da un mandato sobre cómo tomar decisiones. ¿Cuál es?",
+      "options": [
+        "Confiar en el Señor con todo el corazón y reconocerlo en todos los caminos.",
+        "Consultar primero con los padres y después con los líderes de la Iglesia.",
+        "Estudiar todas las opciones antes de involucrar al Señor en la decisión.",
+        "Actuar con determinación propia para demostrar madurez espiritual."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 78:13–14 conecta la igualdad temporal con un propósito espiritual. ¿Cuál es ese propósito según el versículo 14?",
+      "options": [
+        "Para que el pueblo del Señor no sea dependiente de los reinos del mundo ni de sus poderes.",
+        "Para que la Iglesia pueda construir más templos sin deuda externa.",
+        "Para que los líderes de la Iglesia puedan ser elegidos con base en el mérito, no en la riqueza.",
+        "Para que los santos puedan vivir en comunidades separadas del mundo sin necesitar contacto."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "El élder Hales enseñó que la autosuficiencia verdadera combina diligencia con fe. ¿Cuál es la diferencia entre trabajar solo con diligencia y trabajar con diligencia más fe?",
+      "options": [
+        "No hay diferencia práctica — el esfuerzo produce los mismos resultados con o sin fe.",
+        "La fe sin diligencia produce milagros sin esfuerzo; la diligencia sin fe produce resultados mediocres.",
+        "La fe multiplica el esfuerzo con bendiciones que la diligencia sola no puede producir — el Señor amplifica lo que uno construye con Su ayuda.",
+        "La diligencia es más importante que la fe en asuntos prácticos y económicos."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué la autosuficiencia en el evangelio no es lo mismo que la independencia orgullosa?",
+      "options": [
+        "Porque la autosuficiencia del evangelio requiere vivir el diezmo, que la independencia orgullosa no hace.",
+        "Porque la autosuficiencia del evangelio se desarrolla con el Señor como socio activo y para poder servir a otros — no es autonomía de Dios sino colaboración con Él.",
+        "Porque la independencia orgullosa produce más riqueza y eso es equivalente a más bendiciones.",
+        "No son diferentes — la Iglesia simplemente llama 'autosuficiencia' a lo que el mundo llama 'independencia'."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Renata enfrenta una decisión importante sobre su educación futura y está muy ansiosa. Según Proverbios 3:5–6, ¿cuál es el primer paso que debería dar?",
+      "options": [
+        "Hacer una lista de pros y contras de cada opción antes de involucrar al Señor.",
+        "Confiar en el Señor con todo su corazón y reconocerlo en esa decisión — orar pidiendo guía específica antes de decidir.",
+        "Consultar con sus padres y maestros para tener suficiente información primero.",
+        "Esperar una señal clara antes de tomar cualquier decisión sobre su futuro."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Nicolás dice que 'si oro suficiente, el Señor me dará un buen trabajo sin que yo me esfuerce demasiado'. ¿Cómo corrige ese razonamiento el principio de la autosuficiencia del evangelio?",
+      "options": [
+        "Que tiene razón — la oración suficiente siempre produce los resultados temporales deseados.",
+        "Que la fe amplifica el esfuerzo pero no lo reemplaza — el Señor bendice la diligencia, no la pasividad; la oración sin trabajo no produce los mismos resultados que la oración con trabajo.",
+        "Que la oración nunca tiene efecto en los resultados económicos o laborales.",
+        "Que debería orar más para ver si funciona antes de juzgar el principio."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Proverbios 3:5–6 (confiar en el Señor) y D&C 78:14 (no depender de los reinos del mundo) juntos describen una posición espiritual. ¿Cuál es?",
+      "options": [
+        "Depender totalmente del Señor para todo sin desarrollar capacidades propias.",
+        "Ser independiente tanto del mundo como del Señor para tomar las mejores decisiones.",
+        "Ignorar el mundo completamente y vivir solo de lo que la Iglesia provee.",
+        "Una autosuficiencia paradójica: dependiente del Señor e independiente del mundo — la fe en Cristo es el fundamento de la libertad temporal, no dos cosas separadas."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

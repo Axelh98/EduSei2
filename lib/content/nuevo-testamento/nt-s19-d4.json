@@ -1,0 +1,61 @@
+{
+  "id": "nt-s19-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo escapó Saulo de Damasco cuando los judíos conspiraron para matarlo?",
+      "options": [
+        "Se disfrazó de soldado.",
+        "Los discípulos lo bajaron por el muro en una canasta por la noche.",
+        "Nadó por el río.",
+        "Peleó contra los guardias."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Quién presentó a Saulo a los Apóstoles cuando todos le tenían miedo?",
+      "options": [
+        "Juan.",
+        "Bernabé.",
+        "Matías.",
+        "María."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué milagro realizó Pedro en la ciudad de Lida con un hombre llamado Eneas?",
+      "options": [
+        "Le dio vista.",
+        "Lo sanó de una parálisis de ocho años.",
+        "Lo resucitó.",
+        "Multiplicó su comida."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Quién era Tabita (Dorcas) y por qué era tan amada en Jope?",
+      "options": [
+        "Era una reina.",
+        "Una discípula conocida por sus buenas obras y limosnas (hacer túnicas).",
+        "Una vendedora de oro.",
+        "La esposa de un centurión."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué hizo Pedro cuando llegó a la casa de Tabita tras su muerte?",
+      "options": [
+        "Lloró con los demás y se fue.",
+        "Oró, y dijo: \"Tabita, levántate\", y ella abrió los ojos y vivió.",
+        "Pidió que la enterraran rápido.",
+        "Dio un sermón sobre la muerte."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

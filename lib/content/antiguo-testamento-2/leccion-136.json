@@ -1,0 +1,56 @@
+{
+  "id": "leccion-136",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué evento histórico lamenta el libro de Lamentaciones?",
+      "options": [
+        "La derrota de Israel ante los filisteos.",
+        "La destrucción de Jerusalén y del templo por los babilonios, y el cautiverio del pueblo.",
+        "La muerte del rey Josías en la batalla."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué reconoce Jeremías en Lamentaciones 1:18 sobre la causa de los sufrimientos de Judá?",
+      "options": [
+        "Que el Señor fue injusto con Su pueblo.",
+        "Que el Señor es justo; fue Israel quien se rebeló contra Su mandamiento.",
+        "Que los babilonios actuaron solos sin ninguna intervención divina."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el versículo más famoso de Lamentaciones 3 y qué afirma?",
+      "options": [
+        "'Las misericordias del Señor nunca decaen; son nuevas cada mañana; grande es Tu fidelidad.'",
+        "'El Señor es justo en todos Sus caminos y misericordioso en todas Sus obras.'",
+        "'Crea en mí, oh Señor, un corazón limpio.'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo logró Jeremías encontrar esperanza en medio de la destrucción total según Lamentaciones 3:21–24?",
+      "options": [
+        "Convenciéndose de que todo mejoraría pronto por causas naturales.",
+        "Recordando activamente las misericordias y la fidelidad del Señor, lo cual le dio razón para esperar.",
+        "Ignorando la realidad de la destrucción a su alrededor."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo puedes aplicar Lamentaciones 3:22–23 en un momento oscuro de tu propia vida?",
+      "options": [
+        "Solo es útil si sufres una tragedia nacional grande.",
+        "Recordar deliberadamente que las misericordias del Señor se renuevan cada mañana puede darte esperanza y fortaleza para seguir adelante aunque las circunstancias no cambien de inmediato.",
+        "Solo aplica si ya te has arrepentido completamente de todos tus errores."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "r225-l03",
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Vivimos en una era de información sin precedentes. Con unos pocos clics podemos acceder a más datos de los que nuestros ancestros conocieron en toda su vida. Sin embargo, información no es lo mismo que conocimiento, y conocimiento no es lo mismo que sabiduría. El Evangelio restaurado enseña que existe un tipo especial de conocimiento — conocimiento espiritual — que solo puede adquirirse mediante el Espíritu Santo y que es más valioso que todo el conocimiento secular del mundo."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 8:2–3",
+          "texto": "Sí, he aquí, yo te diré en tu mente y en tu corazón, por medio del Espíritu Santo que vendrá sobre ti y que morará en tu corazón. Ahora, he aquí, este es el espíritu de revelación; he aquí, este es el espíritu mediante el cual Moisés condujo a los hijos de Israel por el Mar Rojo sobre tierra seca.",
+          "comentario": "El Señor enseña que la revelación viene tanto a la mente como al corazón. No es solo un sentimiento ni solo un pensamiento — es una combinación de entendimiento intelectual e impresión espiritual. El mismo poder que dividió el Mar Rojo está disponible para guiarnos hoy."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "1 Corintios 2:11, 14",
+          "texto": "Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoció las cosas de Dios, sino el Espíritu de Dios... Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las puede entender, porque se han de discernir espiritualmente.",
+          "comentario": "Pablo establece una verdad fundamental: las cosas espirituales solo pueden discernirse espiritualmente. El método científico, por útil que sea, tiene límites inherentes. No puede medir el amor, probar la existencia de Dios ni evaluar la autenticidad de una escritura. Se requiere un método diferente."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Dallin H. Oaks",
+          "fuente": "«La verdad y el plan», Conferencia General, octubre de 2018 (Liahona, noviembre de 2018, pág. 25)",
+          "texto": "Debemos ser prudentes al buscar la verdad y elegir fuentes […]. Debemos tener cuidado con las razones de aquel que proporciona la información […]. Nuestras decisiones personales deben basarse en información de fuentes que reúnan los requisitos con respecto al tema, y estén libres de motivaciones egoístas.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/truth-and-the-plan?lang=spa"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El proceso para adquirir conocimiento espiritual incluye tres elementos esenciales: (1) Actuar con fe — hacer preguntas sinceras, estudiar diligentemente y obedecer lo que ya sabemos; (2) Examinar conceptos e ideas con una perspectiva eterna — no solo con lógica humana sino considerando las verdades del Evangelio; (3) Buscar mayor comprensión mediante la revelación — orar, meditar, ayunar y estar dispuesto a recibir respuestas del Espíritu. Este patrón fue el que siguió José Smith cuando leyó Santiago 1:5 y decidió preguntarle a Dios."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "El conocimiento espiritual solo puede adquirirse mediante el Espíritu Santo (1 Corintios 2:14).",
+            "La revelación viene tanto a la mente (entendimiento) como al corazón (sentimientos espirituales) (DyC 8:2–3).",
+            "El proceso para adquirir conocimiento espiritual incluye: actuar con fe, examinar conceptos con perspectiva eterna y buscar revelación mediante oración y estudio.",
+            "El Espíritu Santo testifica de la verdad, no solo de hechos — puede confirmar realidades espirituales que la ciencia no puede medir.",
+            "Cada persona puede recibir revelación personal para guiar su propia vida; no necesitamos depender solo de expertos humanos."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Cuándo has sentido que recibiste conocimiento espiritual que no podrías haber obtenido mediante el estudio o la lógica sola?",
+            "¿Qué diferencia hay entre «saber» que algo es verdad mediante evidencia y «saber» mediante el Espíritu Santo?",
+            "DyC 8:2 dice que la revelación viene a la mente y al corazón. ¿Cómo reconoces cuando ambos están alineados en una impresión espiritual?",
+            "¿Qué pregunta espiritual tienes ahora mismo para la cual necesitas buscar conocimiento mediante el Espíritu?"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "Según DyC 8:2, ¿cómo viene la revelación del Espíritu Santo?",
+      "options": [
+        "Solo como un sentimiento de paz en el corazón",
+        "Exclusivamente como pensamientos claros en la mente",
+        "En la mente y en el corazón — ambos juntos",
+        "Principalmente a través de sueños durante la noche"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Señor declaró: «yo te diré en tu mente y en tu corazón, por medio del Espíritu Santo.» La revelación verdadera incluye tanto entendimiento mental como impresión espiritual en el corazón."
+    },
+    {
+      "id": 2,
+      "type": "truefalse",
+      "question": "Verdadero o Falso: Según 1 Corintios 2:14, el hombre natural puede entender las cosas del Espíritu de Dios mediante el intelecto y la lógica sola.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Falso. Pablo enseña que «el hombre natural no percibe las cosas que son del Espíritu de Dios... se han de discernir espiritualmente.» El método secular tiene límites inherentes para conocer verdades espirituales."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "Según el Élder Oaks, ¿cómo se logra el conocimiento espiritual?",
+      "options": [
+        "Mediante el estudio académico riguroso de las Escrituras",
+        "Combinando el intelecto con experiencia humana extensa",
+        "Únicamente mediante el Espíritu Santo",
+        "A través de la tradición transmitida de generación en generación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Élder Oaks declaró que «el conocimiento espiritual se logra únicamente mediante el Espíritu Santo», no mediante el intelecto solo ni la experiencia humana."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Cuál es el patrón correcto para adquirir conocimiento espiritual?",
+      "options": [
+        "Esperar pasivamente hasta que Dios nos revele todo lo que necesitamos",
+        "Actuar con fe, examinar conceptos con perspectiva eterna y buscar revelación",
+        "Confiar solo en el razonamiento lógico y la evidencia empírica",
+        "Aceptar sin cuestionar todo lo que dicen las autoridades religiosas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proceso incluye: (1) Actuar con fe, (2) Examinar conceptos con perspectiva eterna, y (3) Buscar revelación mediante oración y estudio. Requiere esfuerzo activo, no pasividad."
+    }
+  ]
+}

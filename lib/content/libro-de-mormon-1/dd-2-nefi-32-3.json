@@ -1,0 +1,83 @@
+{
+  "id": "dd-2-nefi-32-3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Completa el versículo: '___; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.'",
+      "options": [
+        "Leed las palabras de Cristo con diligencia",
+        "Deleitaos en las palabras de Cristo",
+        "Escuchad las palabras de Cristo con atención",
+        "Guardaréis las palabras de Cristo en vuestro corazón"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es la referencia exacta de este pasaje de Dominio de la doctrina?",
+      "options": [
+        "1 Nefi 15:24",
+        "2 Nefi 31:20",
+        "2 Nefi 32:3",
+        "Moroni 10:4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "El versículo promete que las palabras de Cristo nos dirán 'todas las cosas que debemos hacer'. ¿Esto significa que encontraremos respuestas explícitas a cada situación específica de nuestra vida en las Escrituras?",
+      "options": [
+        "Sí, la Biblia y el Libro de Mormón contienen instrucciones explícitas para cada decisión posible",
+        "No exactamente; las Escrituras enseñan principios que, junto con el Espíritu Santo, nos guían en situaciones específicas que el texto nunca menciona",
+        "Solo si leemos el texto en el idioma original en que fue escrito",
+        "Solo para decisiones espirituales, no para decisiones prácticas cotidianas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "El manual sugiere explicar este versículo a alguien que no es miembro de la Iglesia. ¿Cuál sería el elemento más sorprendente de la promesa para esa persona?",
+      "options": [
+        "Que existe un libro llamado Libro de Mormón además de la Biblia",
+        "Que Dios se comunica directamente con las personas ordinarias a través de Sus palabras, no solo a través de intermediarios religiosos",
+        "Que la Iglesia tiene reuniones donde se estudian las Escrituras",
+        "Que hay versículos que deben memorizarse en el programa de Seminario"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Camila está en una situación en la que no sabe si decir la verdad o no decir nada para no herir a una amiga. No encuentra un versículo exacto sobre esa situación. Según el principio de 2 Nefi 32:3, ¿qué proceso podría usar?",
+      "options": [
+        "Buscar en internet qué dice la Iglesia sobre casos similares",
+        "Leer pasajes sobre honestidad, veracidad y amor en las Escrituras, meditar en los principios que emergen, y pedir guía del Espíritu para su situación específica",
+        "Ignorar las Escrituras porque no hablan directamente de su caso",
+        "Preguntarle al obispo antes de tomar cualquier decisión personal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Tomás tiene que elegir entre dos actividades: ir al partido de fútbol de sus amigos o asistir a una actividad de la Iglesia. ¿Cómo podría usar 2 Nefi 32:3 en esta semana para que le ayude en ese tipo de decisiones?",
+      "options": [
+        "Leer el versículo una vez para sentir que cumplió con su estudio y luego decidir por intuición",
+        "Estudiar las Escrituras deliberadamente esta semana para cultivar el contacto con las palabras de Cristo, que formarán su criterio cuando lleguen decisiones como esa",
+        "Buscar en las Escrituras un versículo que diga explícitamente qué hacer en esa situación",
+        "Delegar la decisión a sus padres porque no es su responsabilidad aún"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "2 Nefi 32:3 dice que las palabras de Cristo nos dirán 'todas las cosas'. 2 Nefi 32:5 dice que el Espíritu nos enseñará 'todo'. ¿Son dos promesas redundantes o tienen roles distintos?",
+      "options": [
+        "Son completamente redundantes; cualquiera de las dos sola es suficiente",
+        "Las palabras de Cristo forman el fundamento de principios y el Espíritu los aplica personalmente a cada situación; ambas fuentes son necesarias y se complementan",
+        "Las palabras de Cristo son superiores al Espíritu y bastan solas para guiarnos",
+        "El Espíritu es superior a las palabras escritas y hace innecesario el estudio constante de las Escrituras"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

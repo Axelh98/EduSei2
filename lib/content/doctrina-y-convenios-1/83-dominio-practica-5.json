@@ -1,0 +1,124 @@
+{
+  "id": "83-dominio-practica-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta práctica consolida los pasajes del Dominio de la Doctrina trabajados en el quinto bloque. A esta altura del año, los alumnos deben poder usar con fluidez los pasajes de D&C 58:26–27, D&C 64:9–10, D&C 64:33–34 y otros del semestre. El foco no es la memorización mecánica sino la capacidad de usar esos versículos en conversaciones reales: explicar la doctrina que contienen, conectarla con una situación de vida y aplicarla a alguien que necesite escucharla. Es también un momento de repaso de todos los pasajes del año para llegar a la evaluación final con confianza."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 64:9–10",
+          "texto": "Es requerido que yo, el Señor, perdone a quien se arrepiente; mas vosotros sois requeridos a perdonar a todos los hombres. Y de aquel que no perdona a su hermano sus transgresiones, quedará condenado ante el Señor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p9-p10#p9"
+        },
+        {
+          "referencia": "Doctrina y Convenios 64:33",
+          "texto": "No os canséis de hacer el bien, porque ponéis los cimientos de una gran obra. Y de pequeñas cosas proceden las grandes.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p33#p33"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Richard G. Scott",
+      "fuente": "«El poder de las Escrituras», Conferencia General, octubre de 2011 (Liahona, noviembre de 2011)",
+      "texto": "Se obtiene un gran poder al memorizar pasajes de Escrituras. El memorizar un pasaje es como crear una nueva amistad. Es como descubrir a una persona nueva que puede ayudarnos en tiempos de necesidad, darnos inspiración y consuelo, y ser la fuente de motivación para lograr un cambio necesario.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El Dominio de la Doctrina tiene un único propósito final: que cuando el Señor o alguien que necesita el evangelio necesite que abras la boca, tengas las palabras. No en el aula — en la vida. Esta práctica es el penúltimo repaso del semestre. Llegá a la evaluación final con los versículos en el corazón, no solo en la cabeza."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué pasajes del Dominio de la Doctrina podés citar y explicar con más confianza a esta altura del año?",
+        "Si alguien te dijera 'me cuesta perdonar a alguien que me hizo daño', ¿qué versículo usarías y cómo lo explicarías?",
+        "¿Cuándo fue la última vez que usaste un versículo del Dominio de la Doctrina fuera del aula? ¿En qué contexto?",
+        "¿Qué pasaje todavía no dominás bien? ¿Cuál es tu plan concreto para aprenderlo antes de la evaluación final?",
+        "¿Cómo explicarías D&C 64:33 a alguien que está a punto de renunciar a algo bueno porque no ve resultados?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 64:9–10 es uno de los pasajes del Dominio de la Doctrina de este bloque. ¿Cuál es su declaración central que lo hace único frente a otras enseñanzas sobre el perdón?",
+      "options": [
+        "Que el Señor es requerido a perdonar a quien se arrepiente, pero nosotros somos requeridos a perdonar a todos — sin condición previa de arrepentimiento del otro.",
+        "Que el perdón es una elección personal sin implicaciones espirituales obligatorias.",
+        "Que el Señor no perdona a quien no se arrepiente, y nosotros tampoco estamos obligados.",
+        "Que el perdón de Dios y el perdón humano funcionan exactamente de la misma manera."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 64:33 dice que 'de pequeñas cosas proceden las grandes'. Si alguien te pregunta cómo ese principio aplica a la construcción del testimonio, ¿qué responderías usando ese versículo?",
+      "options": [
+        "Que el testimonio crece solo en los grandes momentos de revelación y crisis.",
+        "Que así como las grandes obras se construyen con actos pequeños y fieles, el testimonio se construye con oraciones diarias, estudios breves y decisiones cotidianas — no con un momento único.",
+        "Que el versículo solo aplica a obras físicas como templos y edificios de la Iglesia.",
+        "Que el principio es solo motivacional y no tiene aplicación doctrinal concreta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hace que un pasaje del Dominio esté realmente dominado, más allá de poder recitarlo?",
+      "options": [
+        "Haber estudiado todos los versículos de la sección completa que lo contiene.",
+        "Poder explicar su principio con las propias palabras, ubicarlo en su contexto y usarlo naturalmente en una conversación sin necesitar buscarlo.",
+        "Haberlo escrito a mano al menos diez veces como ejercicio de memorización.",
+        "Haberlo citado en al menos tres discursos o lecciones formales de la Iglesia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "El Dominio de la Doctrina cubre versículos de D&C 58:42–43 sobre el arrepentimiento y D&C 64:9–10 sobre el perdón. ¿Cómo se complementan doctrinalmente esos dos pasajes?",
+      "options": [
+        "No se complementan — tratan temas completamente separados sin relación.",
+        "D&C 58:42–43 describe lo que el Señor hace cuando uno se arrepiente; D&C 64:9–10 describe lo que nosotros debemos hacer independientemente del arrepentimiento del otro — ambos revelan la misericordia como principio central del evangelio.",
+        "Ambos dicen lo mismo con palabras diferentes y uno de los dos es redundante.",
+        "D&C 58 aplica a pecados graves y D&C 64 aplica solo a ofensas menores interpersonales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Agustín tiene memorizados todos los pasajes del Dominio pero nunca los usó fuera del aula. Esta semana su hermana le dice que 'Dios no puede olvidar lo que hizo'. ¿Qué versículo usaría y cómo?",
+      "options": [
+        "D&C 6:36 — 'No temas, pequeño rebaño' — porque su hermana necesita calma.",
+        "D&C 58:42 — 'Yo, el Señor, no los recuerdo más' — porque ese versículo responde directamente a la angustia de su hermana sobre si el perdón es completo.",
+        "D&C 1:37–38 — las palabras del Señor se cumplirán — para mostrarle que las promesas son fiables.",
+        "D&C 19:16–19 — la Expiación — para explicarle por qué el Salvador sufrió."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Renata quiere usar D&C 64:33 esta semana pero no sabe cuándo. ¿Cuál de las siguientes situaciones sería el momento más natural para ese versículo?",
+      "options": [
+        "Cuando alguien le pide que memorice más versículos para el examen del Dominio.",
+        "Cuando un amigo que lleva meses intentando cambiar sin ver resultados está a punto de rendirse.",
+        "Cuando alguien le pregunta sobre la historia de la Iglesia y los errores del pasado.",
+        "Cuando necesita justificar por qué no hizo algo importante que le pidieron."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "El Dominio de la Doctrina como programa tiene un objetivo final: que los versículos estén 'vivos' en el discípulo. ¿Cuál es la diferencia entre un versículo 'aprendido' y uno 'vivo'?",
+      "options": [
+        "El versículo aprendido se puede recitar; el versículo vivo surge naturalmente cuando la situación lo requiere, como parte del pensamiento y el lenguaje cotidiano del discípulo.",
+        "La diferencia es solo de repetición — un versículo vivo fue revisado más veces.",
+        "Un versículo vivo es uno que el discípulo puede recitar incluso bajo presión extrema.",
+        "No hay diferencia práctica — todos los versículos memorizados están igualmente disponibles."
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

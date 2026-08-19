@@ -1,0 +1,117 @@
+{
+  "id": "170-preparar-conferencia-general",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Dos veces al año, el Salvador habla a toda Su Iglesia a través de Sus profetas y apóstoles en la Conferencia General. Eso no es una metáfora; es la promesa de D&C 1:38: las palabras del Señor 'pronunciadas por la voz de mis siervos... es como si fuera el mío propio'.",
+        "Pero hay una diferencia enorme entre sentarse en un asiento y recibir un mensaje del Señor. La diferencia es la preparación. Los mejores estudiantes del evangelio llegan a la Conferencia General con preguntas específicas, con un corazón preparado por la oración, con una disposición genuina de actuar según lo que reciban. No llegan a ver un espectáculo; llegan a escuchar a su Padre a través de Sus siervos.",
+        "Esta lección enseña cómo prepararse para la próxima Conferencia General de forma concreta: estudiar mensajes anteriores de los líderes, identificar preguntas del alma que querés llevar, orar con anticipación para estar receptivo, y comprometerte de antemano a actuar según lo que recibas."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 1:38",
+          "texto": "Lo que yo el Señor he hablado, lo he hablado, y no me excuso; y aunque los cielos y la tierra pasen, mi palabra no pasará, sino que toda será cumplida, ya sea por mi voz o por la voz de mis siervos, es lo mismo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=spa&id=p38#p38"
+        },
+        {
+          "referencia": "Doctrina y Convenios 21:5",
+          "texto": "Porque así lo hará el Señor tu Dios, para que el oscurecimiento y la confusión sean apartados de delante de ti; si seguís sus palabras, las puertas del infierno no prevalecerán contra vosotros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=spa&id=p5#p5"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Verdad pura, doctrina pura y revelación pura - Liahona, noviembre de 2021, pág. 6",
+      "texto": "Las Autoridades Generales y los Oficiales Generales de la Iglesia que discursen centrarán sus mensajes en nuestro Salvador Jesucristo, Su misericordia y Su infinito poder redentor. Nunca ha habido una época en la historia del mundo en la que el conocimiento de nuestro Salvador fuera más vital y relevante en lo personal para toda alma humana. Imaginen lo rápido que se resolverían los devastadores conflictos de todo el mundo, y los de nuestra propia vida, si todos nosotros decidiéramos seguir a Jesucristo y prestar atención a Sus enseñanzas",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=spa&id=p5#p5"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La Conferencia General es una de las ocasiones más sagradas del año para los santos: el Señor habla a toda Su Iglesia a través de Sus siervos. La calidad de esa experiencia depende directamente de la preparación de quien escucha. Estudiantes que llegan con preguntas específicas, con corazón preparado y disposición de actuar, reciben revelación personal. Los que llegan sin preparación escuchan palabras. Esta semana, identificá dos o tres preguntas concretas que llevarás a la próxima Conferencia General."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál fue el último mensaje de la Conferencia General que realmente te impactó? ¿Qué lo hizo significativo para vos?",
+        "¿Qué diferencia hace ir a la Conferencia General con preguntas específicas versus ir sin preparación?",
+        "Según D&C 1:38, ¿cómo equivalen las palabras de los siervos del Señor a las palabras del Señor mismo?",
+        "¿Qué preguntas concretas de tu vida querés llevar a la próxima Conferencia General?",
+        "¿Qué harás esta semana para prepararte espiritualmente antes de la próxima Conferencia General?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál fue el último mensaje de la Conferencia General que realmente te impactó? ¿Qué hizo que ese mensaje llegara a vos de manera diferente?",
+      "options": [
+        "Que el orador tenía una voz especialmente agradable o emotiva",
+        "Que llegué con una pregunta o necesidad específica que ese mensaje respondía directamente",
+        "Que era el mensaje más largo y detallado de toda la Conferencia",
+        "Que lo repetían mucho en las redes sociales de la Iglesia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "D&C 1:38 dice que las palabras de los siervos del Señor son 'como si fueran' Sus propias palabras. ¿Qué diferencia debería hacer eso en cómo te preparás para escuchar la Conferencia General?",
+      "options": [
+        "Que debería memorizar cada palabra para poder citarla exactamente",
+        "Que debería llegar con la disposición de un alumno frente a su Maestro, no de un espectador ante un programa",
+        "Que debería grabar todo para escucharlo más tarde en lugar de prestar atención ahora",
+        "Que debería tomar notas detalladas de todos los datos y cifras mencionados"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué preguntas concretas de tu vida querés llevar a la próxima Conferencia General? ¿Son preguntas que podés formular en una oración específica antes de la Conferencia?",
+      "options": [
+        "No tengo preguntas específicas, prefiero escuchar con la mente abierta sin expectativas",
+        "Sí, tengo dos o tres preguntas reales sobre decisiones, fe o situaciones que estoy viviendo",
+        "Mis preguntas son demasiado personales para llevarlas a algo tan general como la Conferencia",
+        "La Conferencia General es para temas generales, no para preguntas personales específicas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué diferencia hay entre alguien que llega a la Conferencia General preparado con oración y preguntas versus alguien que llega sin preparación?",
+      "options": [
+        "El primero escucha un programa espiritual interesante; el segundo también pero con menos atención",
+        "El primero puede recibir revelación personal específica; el segundo solo escucha palabras generales",
+        "No hay diferencia real en la experiencia espiritual que se puede tener",
+        "El primero se beneficia más de los discursos académicamente; el segundo más emocionalmente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué harás esta semana para prepararte espiritualmente antes de la próxima Conferencia General? ¿Cuándo específicamente lo harás?",
+      "options": [
+        "Leer resúmenes de las conferencias anteriores para no llegar sin contexto",
+        "Orar por una o dos preguntas específicas y estudiar un discurso reciente del profeta antes de la Conferencia",
+        "Esperar a que llegue la Conferencia y prepararse en ese momento",
+        "Preparar bocadillos y hacer la Conferencia una actividad social con la familia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "D&C 21:5 promete que si seguimos las palabras del profeta 'las puertas del infierno no prevalecerán'. ¿Qué tipo de 'puertas del infierno' podrían estar intentando prevalecer en tu vida ahora mismo?",
+      "options": [
+        "Solo amenazas físicas y peligros visibles",
+        "Dudas no resueltas, hábitos que me alejan del Espíritu, o situaciones donde cedo ante la presión",
+        "Desafíos solo relacionados con la economía o la salud",
+        "El 'infierno' es solo una metáfora que no tiene aplicación práctica"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "leccion-123",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A quiénes se dirige el llamado 'escuchadme' repetido en Isaías 51?",
+      "options": [
+        "A los reyes de las naciones paganas.",
+        "A quienes buscan la justicia y al Señor, animándolos a recordar Sus promesas y a confiar en Él.",
+        "Solo a los sacerdotes del templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué promete el Señor en Isaías 51:3 sobre la condición futura de Sion?",
+      "options": [
+        "Que Sion será abandonada por sus habitantes.",
+        "Que el Señor consolará a Sion, convertirá su desierto en Edén y su soledad en jardín del Señor.",
+        "Que Sion será conquistada por sus enemigos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el significado del llamado '¡Despierta, despierta!' de Isaías 52?",
+      "options": [
+        "Una instrucción para levantarse temprano a orar.",
+        "Un llamado a Sion y a sus habitantes a levantarse de la condición de apostasía y cautividad espiritual, y a vestirse de fortaleza.",
+        "Una advertencia de que el juicio final es inminente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la 'buena nueva' que los mensajeros proclaman en Isaías 52:7?",
+      "options": [
+        "Que Israel ha ganado una batalla militar.",
+        "'¡Tu Dios reina!': la proclamación de la paz, del bien y de la salvación del Señor.",
+        "Que el templo de Jerusalén será reconstruido pronto."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo conectan los Santos de los Últimos Días Isaías 52 con la Restauración y la obra misional?",
+      "options": [
+        "No tienen ninguna conexión.",
+        "Los 'mensajeros de pies hermosos' que proclaman la buena nueva representan a los misioneros que llevan el Evangelio restaurado al mundo.",
+        "Solo hace referencia a los apóstoles del Nuevo Testamento."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

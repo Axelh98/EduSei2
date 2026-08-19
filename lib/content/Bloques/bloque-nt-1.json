@@ -1,0 +1,83 @@
+{
+  "id": "bloque-nt-1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo comienza Jesús el Sermón del Monte en Mateo 5?",
+      "options": [
+        "Con las Bienaventuranzas",
+        "Con la parábola del sembrador",
+        "Con la oración del Padre Nuestro",
+        "Con la parábola del buen samaritano"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué dijo Jesús acerca de ser la sal de la tierra en Mateo 5?",
+      "options": [
+        "Que la sal sin sabor no sirve para nada",
+        "Que la sal debe guardarse en el templo",
+        "Que la sal representa la riqueza",
+        "Que la sal se usa solo en sacrificios"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué instrucción da Jesús sobre la oración en Mateo 6?",
+      "options": [
+        "Orar en público para ser vistos",
+        "Orar en secreto al Padre",
+        "Orar solo en el templo",
+        "Orar tres veces al día"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué oración enseña Jesús en Mateo 6?",
+      "options": [
+        "El Padre Nuestro",
+        "El Ave María",
+        "El Credo",
+        "El Shemá"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué dijo Jesús sobre acumular tesoros en Mateo 6?",
+      "options": [
+        "No acumular tesoros en la tierra, sino en el cielo",
+        "Acumular riquezas para compartir",
+        "Guardar oro en el templo",
+        "Invertir en tierras y ganado"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Qué regla enseña Jesús en Mateo 7:12?",
+      "options": [
+        "La regla de oro: hacer a los demás lo que queremos que nos hagan",
+        "La regla de guardar el sábado",
+        "La regla de diezmar",
+        "La regla de ayunar cada semana"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Qué comparación hace Jesús sobre los dos fundamentos en Mateo 7?",
+      "options": [
+        "El hombre prudente construye sobre la roca y el insensato sobre la arena",
+        "El sabio planta un árbol y el necio lo corta",
+        "El justo guarda la ley y el impío la rechaza",
+        "El rico da limosna y el pobre la recibe"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

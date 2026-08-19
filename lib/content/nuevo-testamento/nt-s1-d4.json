@@ -1,0 +1,61 @@
+{
+  "id": "nt-s1-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué tipo de esfuerzo requiere aprender por la fe según el élder Bednar?",
+      "options": [
+        "Solo intelectual.",
+        "Espiritual, mental y físico (no es solo recepción pasiva).",
+        "Exclusivamente físico.",
+        "Solo emocional."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué demuestran los alumnos al Espíritu cuando levantan la mano para participar?",
+      "options": [
+        "Que saben más que los demás.",
+        "Su deseo de aprender y el ejercicio de su albedrío moral.",
+        "Que quieren terminar rápido la clase.",
+        "Que tienen mucha confianza propia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es la responsabilidad individual de cada miembro según el élder Bednar?",
+      "options": [
+        "Esperar a que la Iglesia le diga todo qué hacer.",
+        "Aprender y vivir las enseñanzas del Señor por sí mismos.",
+        "Solo asistir a las reuniones los domingos.",
+        "Criticar las enseñanzas que no le gustan."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué permite que el Espíritu comunique un mensaje personalizado al alumno?",
+      "options": [
+        "Guardar silencio absoluto.",
+        "La decisión del alumno de participar activamente.",
+        "Leer solo el manual del maestro.",
+        "No hacer preguntas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es un resultado de graduarse de Seminarios según el presidente Nelson?",
+      "options": [
+        "Un certificado sin valor.",
+        "Mayor capacidad para sobresalir en las cosas más importantes de la vida.",
+        "No tener que estudiar más el Evangelio.",
+        "Recibir un cargo automático en la Iglesia."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

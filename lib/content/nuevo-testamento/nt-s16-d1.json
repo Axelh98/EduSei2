@@ -1,0 +1,50 @@
+{
+  "id": "nt-s16-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué se alegró Herodes Antipas al ver a Jesús?",
+      "options": [
+        "Porque quería ser Su discípulo.",
+        "Porque esperaba verle hacer algún milagro.",
+        "Porque quería perdonarlo.",
+        "Porque eran parientes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál fue la reacción de Jesús ante las muchas preguntas de Herodes?",
+      "options": [
+        "Le enseñó el Evangelio.",
+        "No le respondió nada.",
+        "Se burló de él.",
+        "Pidió que lo liberara."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué prisionero eligió liberar la multitud en lugar de a Jesús?",
+      "options": [
+        "Judas.",
+        "Barrabás (un ladrón y asesino).",
+        "Lázaro.",
+        "Un soldado romano."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué declaró Pilato sobre Jesús después de interrogarlo?",
+      "options": [
+        "\"Es culpable de muerte\".",
+        "\"Ningún delito hallo en este hombre\".",
+        "\"Debe ser enviado a Roma\".",
+        "\"Es un gran profeta\"."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

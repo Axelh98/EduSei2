@@ -1,0 +1,89 @@
+{
+  "id": "leccion-27-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Nefi regresa de su misión y encuentra que los ladrones de Gadiantón han tomado control del gobierno. Sube a su torre de jardín y ora con voz alta, lamentando la iniquidad del pueblo. Una multitud se reúne y Nefi aprovecha para predicar el arrepentimiento. Los jueces corruptos intentan incitarlo por sedición, pero el pueblo lo defiende. Nefi profetiza sobre el asesinato del juez superior, lo cual se cumple. Estos capítulos ilustran el valor profético de denunciar la corrupción y llamar al arrepentimiento."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 7:6-7",
+          "texto": "Lamento la dureza de vuestros corazones. ¿Por qué habéis buscado la felicidad cometiendo iniquidad?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/7?lang=spa&id=p6-p7#p6"
+        },
+        {
+          "referencia": "Helamán 10:4-5",
+          "texto": "Bendito eres tú, Nefi, por las cosas que has hecho. Te doy poder para que todo cuanto sellares en la tierra, será sellado en el cielo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa&id=p4-p5#p4"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te enseña el ejemplo de Nefi sobre denunciar la injusticia de manera apropiada?",
+        "¿Cómo describirías el poder de sellamiento que el Señor dio a Nefi?",
+        "¿En qué situaciones necesitas tener el valor de defender la verdad como lo hizo Nefi?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Dónde oró Nefi cuando vio la iniquidad del pueblo?",
+      "options": [
+        "En el templo",
+        "En su jardín sobre una torre",
+        "En el bosque",
+        "En la sinagoga"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué lamentó Nefi en su oración?",
+      "options": [
+        "Su propia situación",
+        "La iniquidad y dureza de corazón del pueblo",
+        "La falta de riquezas",
+        "El clima"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué profetizó Nefi sobre el juez superior?",
+      "options": [
+        "Sería reelecto",
+        "Había sido asesinado por su hermano",
+        "Renunciaría",
+        "Tendría éxito"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué pasó cuando fueron a verificar la profecía de Nefi?",
+      "options": [
+        "No encontraron nada",
+        "Encontraron al juez asesinado exactamente como Nefi dijo",
+        "El juez estaba vivo",
+        "Era mentira"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo probó Nefi que era profeta?",
+      "options": [
+        "Con milagros físicos",
+        "Reveló detalles que solo un profeta podría saber",
+        "Con fuerza",
+        "Con dinero"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

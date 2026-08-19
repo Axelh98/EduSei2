@@ -1,0 +1,130 @@
+{
+  "id": "palabras-mormon-mosiah-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Palabras de Mormón es uno de los textos más cortos del Libro de Mormón. Pero contiene una de las evidencias más poderosas de que este libro fue dirigido por revelación divina. Mormón estaba compilando los registros siglos después de los hechos. Cuando encontró las planchas menores de Nefi —las que contienen 1 y 2 Nefi— las incluye en su compendio sin saber exactamente por qué. Solo escribe: 'el Señor sabe todas las cosas'. Siglos después entendemos el porqué: cuando José Smith tradujo y Martin Harris perdió las 116 páginas, esas planchas menores fueron el reemplazo providencial. Dios lo había preparado siglos antes. El rey Benjamín, en Mosíah 1, enseña a sus hijos algo similar sobre los registros: sin las planchas de bronce, sus padres habrían olvidado el idioma, la historia, la doctrina. Los registros sagrados son la memoria de un pueblo. Sin memoria espiritual, sin acceso a la palabra de Dios, las generaciones degeneran en incredulidad. Eso no es solo historia antigua. Es lo que pasa cuando dejamos de estudiar las Escrituras hoy."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Palabras de Mormón 1:6–7",
+          "texto": "Mas no sé todas las cosas que el Señor dispone; pero le alabo. Y espero que se preserven para mis hermanos... sé que serán preservadas; pues hay grandes cosas escritas sobre ellas, de las cuales mi pueblo y sus hermanos se beneficiarán.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/w-of-m/1?lang=spa&id=p6-p7#p6"
+        },
+        {
+          "referencia": "Mosíah 1:3–5",
+          "texto": "Y les enseñó también concerniente a los anales que estaban grabados sobre las planchas de bronce... de no haber sido por estas planchas... aun nuestros padres habrían degenerado en la incredulidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=spa&id=p3-p5#p3"
+        },
+        {
+          "referencia": "Mosíah 1:6–7",
+          "texto": "Oh hijos míos, quisiera que recordaseis que estas palabras son verdaderas, y también que estos anales son verdaderos... quisiera que los escudriñaseis diligentemente, para que saquéis provecho de ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=spa&id=p6-p7#p6"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "\"La bendición de las Escrituras\", Liahona, mayo de 2010, pág. 35",
+      "texto": "La fe viene por el testimonio del Espíritu Santo a nuestra alma, de Espíritu a espíritu, al escuchar o leer la palabra de Dios. Y la fe madura al seguir deleitándonos en la palabra.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2010/04/the-blessing-of-scripture?lang=spa&id=p17-p19#p17"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El hecho de que Mormón incluyera las planchas menores sin entender completamente por qué —confiando en que el Señor sabe todas las cosas— es uno de los testimonios más silenciosos y poderosos de que el Libro de Mormón fue guiado divinamente. Y el rey Benjamín nos recuerda por qué los registros sagrados importan: sin ellos, la memoria espiritual de un pueblo se pierde. Las Escrituras son la memoria colectiva de la relación de Dios con Sus hijos. Estudiarlas no es una obligación religiosa: es mantener viva esa memoria en tu propia vida."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te dice sobre el carácter del Señor el hecho de que preparó siglos antes el reemplazo de las 116 páginas perdidas?",
+        "El rey Benjamín dijo que sin los registros 'habrían degenerado en la incredulidad'. ¿Qué pasa con la fe de alguien que no estudia las Escrituras regularmente?",
+        "¿Hubo algún versículo o pasaje de las Escrituras que te haya ayudado en un momento difícil? ¿Cómo lo encontraste?",
+        "¿Qué diferencia hay entre leer las Escrituras como tarea y escudriñarlas 'diligentemente para sacar provecho de ellas'?",
+        "¿Qué cambio concreto podrías hacer en tu rutina esta semana para estudiar las Escrituras de una forma más intencional?",
+        "Si tuvieras que explicar a alguien por qué el origen milagroso del Libro de Mormón importa, ¿cómo usarías el ejemplo de las planchas menores de Nefi?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según Palabras de Mormón 1:6–7, ¿por qué Mormón incluyó las planchas menores de Nefi en su compilación, aunque no sabía exactamente por qué?",
+      "options": [
+        "Porque eran las planchas más antiguas y quería preservar la historia más temprana del pueblo",
+        "Porque el Espíritu lo guió a hacerlo y confió en que el Señor sabía las razones, aunque él no las conociera en ese momento",
+        "Porque las planchas menores contenían más profecías que las planchas mayores",
+        "Porque el rey Mosíah le ordenó incluirlas en el registro oficial"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según Mosíah 1:3–4, ¿qué habría ocurrido con el pueblo nefita si no hubiera tenido las planchas de bronce?",
+      "options": [
+        "Habrían mantenido su historia mediante la tradición oral durante generaciones",
+        "Habrían degenerado en la incredulidad, como los lamanitas, sin conocer los misterios de Dios",
+        "Habrían podido recibir revelaciones directas que reemplazaran el contenido de las planchas",
+        "Habrían necesitado enviar mensajeros a Jerusalén para recuperar el conocimiento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Mormón incluyó las planchas menores sin saber por qué; siglos después esas planchas reemplazaron las 116 páginas perdidas. ¿Qué nos enseña ese episodio sobre la providencia divina?",
+      "options": [
+        "Que Dios confió en que las personas no cometerían errores como perder el manuscrito",
+        "Que Dios planifica con anticipación millenniaria para proteger Su obra, incluso antes de que los problemas ocurran",
+        "Que fue solo una coincidencia afortunada que resultó bien para la Iglesia",
+        "Que los profetas siempre saben las razones divinas de sus instrucciones aunque no las declaren"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "El rey Benjamín enseñó a sus hijos la importancia de las planchas de bronce en Mosíah 1:6–7. ¿Qué paralelo existe entre ese acto del rey y la importancia del estudio de las Escrituras para los jóvenes hoy?",
+      "options": [
+        "Ninguno; las circunstancias eran tan diferentes que no hay paralelo útil",
+        "Así como el rey Benjamín sabía que sin las Escrituras sus hijos degenerarían espiritualmente, el acceso y el uso de las Escrituras hoy es igualmente esencial para no perder el conocimiento de Dios",
+        "El paralelo existe solo para familias de líderes de la Iglesia, no para todos",
+        "El rey Benjamín enseñó las planchas por necesidad histórica; hoy ese papel lo cumplen las tecnologías modernas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Sofía no entiende por qué debe estudiar las Escrituras cuando puede buscar respuestas en internet sobre temas religiosos. Según el principio de Mosíah 1:3–5, ¿qué le explicarías?",
+      "options": [
+        "Que internet es una versión moderna de las planchas de bronce y cumple el mismo propósito",
+        "Que sin el contacto directo y regular con la palabra de Dios en las Escrituras, existe el riesgo de perder el conocimiento de Dios y la guía del Espíritu que solo ellas proveen de manera única",
+        "Que internet puede complementar las Escrituras pero nunca reemplazarlas porque tiene menos páginas",
+        "Que las Escrituras son importantes solo para personas que no tienen acceso a otros recursos religiosos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Mateo tuvo la impresión de hacer algo concreto durante el estudio personal de las Escrituras pero no entendía por qué. Según el ejemplo de Mormón, ¿qué actitud sería coherente con el principio de esta lección?",
+      "options": [
+        "Esperar a entender completamente el propósito antes de actuar",
+        "Actuar según la impresión confiando en que el Señor sabe las razones aunque él no las vea todavía, como hizo Mormón con las planchas menores",
+        "Buscar confirmación de otras personas antes de actuar sobre una impresión personal",
+        "Ignorar la impresión porque los jóvenes no están en posición de recibir instrucciones específicas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Mormón incluyó planchas sin saber por qué; el rey Benjamín enseñó a sus hijos las planchas de bronce. Ambos conectan con el élder Christofferson: 'Las Escrituras son señales en la senda que nos conducen a Cristo'. ¿Cuál es el principio que une las tres perspectivas?",
+      "options": [
+        "Que la preservación de documentos históricos es la principal responsabilidad de los profetas",
+        "Que los registros sagrados son instrumentos esenciales en la providencia de Dios: Él los preserva, los profetas los transmiten, y en cada generación sirven como la guía que nos mantiene conectados con Cristo",
+        "Que las Escrituras tienen valor principalmente como documentos culturales de civilizaciones antiguas",
+        "Que el papel de las Escrituras está siendo reemplazado gradualmente por la revelación directa a cada individuo"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

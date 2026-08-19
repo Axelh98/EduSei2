@@ -1,0 +1,50 @@
+{
+  "id": "nt-s6-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿De qué acusaban los fariseos a los discípulos de Jesús?",
+      "options": [
+        "De robar comida.",
+        "De quebrantar la tradición de los ancianos (lavado de manos).",
+        "De no pagar impuestos.",
+        "De hablar con samaritanos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué mandamiento usó Jesús para mostrar cómo las tradiciones invalidaban la palabra de Dios?",
+      "options": [
+        "No matarás.",
+        "Honrar a tu padre y a tu madre.",
+        "No dirás falso testimonio.",
+        "Acuérdate del día de reposo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hacían algunas personas para evitar ayudar económicamente a sus padres?",
+      "options": [
+        "Decían que eran pobres.",
+        "Declaraban sus recursos como \"Corbán\" (ofrenda a Dios).",
+        "Se mudaban a otra ciudad.",
+        "Negaban conocer a sus padres."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué verdad enseñó Jesús sobre las tradiciones y los mandamientos?",
+      "options": [
+        "Las tradiciones son más importantes.",
+        "Debemos poner los mandamientos de Dios por sobre cualquier tradición mundana.",
+        "Todas las tradiciones son malas.",
+        "No debemos tener ninguna práctica cultural."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

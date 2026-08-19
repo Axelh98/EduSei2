@@ -1,0 +1,61 @@
+{
+  "id": "nt-s2-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál fue el primer título usado por el ángel para anunciar a Jesús?",
+      "options": [
+        "Gran Maestro.",
+        "Salvador.",
+        "Rey de los Judíos.",
+        "Hijo de José."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué significados adicionales tiene la palabra \"Salvador\" en griego?",
+      "options": [
+        "Juez o Guerrero.",
+        "Libertador o preservador.",
+        "Líder o Guía.",
+        "Creador o Formador."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué necesitamos a Jesucristo según el élder Christofferson?",
+      "options": [
+        "Para ser los más ricos.",
+        "Para ser sanos y para ser santos.",
+        "Para no tener problemas legales.",
+        "Para ser famosos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿De qué nos salva Jesucristo si nos arrepentimos?",
+      "options": [
+        "Solo de errores pequeños.",
+        "De nuestros pecados y de la muerte física.",
+        "De tener que estudiar.",
+        "De cualquier consecuencia legal."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Aproximadamente cuánto duraba el viaje de Nazaret a Belén a pie?",
+      "options": [
+        "Una hora.",
+        "Por lo menos cuatro o cinco días.",
+        "Un mes.",
+        "Dos semanas."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

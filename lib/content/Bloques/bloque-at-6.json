@@ -1,0 +1,28 @@
+{
+  "id": "bloque-at-6",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo describe el salmista al Señor en el Salmo 23?",
+      "options": [
+        "Como un rey poderoso",
+        "Como un pastor que guía y cuida",
+        "Como un juez severo",
+        "Como un guerrero invencible"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según el Salmo 24, ¿quién podrá subir al monte de Jehová?",
+      "options": [
+        "El que tiene manos limpias y corazón puro",
+        "El que es fuerte en batalla",
+        "El que ofrece sacrificios diarios",
+        "El que guarda silencio en el templo"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "37-dc-21",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "El 6 de abril de 1830, el mismo día que se organizó la Iglesia, el Señor reveló D&C 21. José Smith tenía 24 años, sin educación formal. Era razonable que algunos dudaran de su autoridad. El Señor no ignoró esa tensión; la abordó directamente.",
+        "La instrucción del Señor fue clara y exigente: recibir las palabras del profeta 'como si las recibieras de mi boca, en toda paciencia y fe' (v. 5). Esta equivalencia —las palabras del profeta = las palabras del Señor— no requiere que el profeta sea perfecto. Requiere que haya sido llamado por Dios y guiado por el Espíritu. Esa distinción importa: no seguimos al profeta por su carácter personal, sino por la autoridad que le fue conferida.",
+        "Este principio sigue siendo desafiante hoy. El profeta puede pedir cosas que no entendamos completamente o que vayan contra la corriente cultural. La promesa de D&C 21 es bidireccional: si seguimos las palabras del profeta con paciencia y fe, el Señor apartará los obstáculos de nuestro camino. La obediencia informada y voluntaria al profeta es una de las formas más concretas de demostrar fe en el Señor."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 21:4–6",
+          "texto": "Por tanto, se le dará mucha atención a todas sus palabras y mandamientos que os dé, procediendo de él, así como los recibís de mi boca, en toda paciencia y fe; porque así lo hará el Señor tu Dios, para que el oscurecimiento y la confusión sean apartados de delante de ti.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=spa&id=p4-p6#p4"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "«El profeta de Dios», Liahona, mayo de 2018, pág. 26",
+      "texto": "No se sorprendan si en ocasiones sus perspectivas personales no están inicialmente en armonía total con las enseñanzas del profeta del Señor. Estos son momentos de aprendizaje, de humildad, en los que nos arrodillamos en oración. Caminamos hacia delante con fe, sabiendo que con el tiempo recibiremos más claridad espiritual de nuestro Padre Celestial.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Seguir al profeta no es seguir a un hombre; es seguir al Señor que habla a través de ese hombre. D&C 21:4–6 hace la equivalencia explícita. Cuando el consejo del profeta es difícil, la clave está en las palabras 'en toda paciencia y fe'. Esta semana, identificá un consejo reciente del profeta que todavía no estás aplicando del todo y da un paso concreto hacia eso."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece más desafiante de recibir las palabras del profeta 'como si vinieran del propio Señor'?",
+        "¿Qué promesa específica da D&C 21:4–6 a quienes siguen al profeta con paciencia y fe?",
+        "¿Alguna vez seguiste un consejo del profeta aunque no lo entendieras completamente? ¿Qué pasó?",
+        "¿En qué se diferencia seguir al profeta por costumbre de seguirlo con fe genuina? ¿Cómo se ve esa diferencia en la práctica?",
+        "¿Qué consejo del profeta actual necesitas aplicar con más diligencia esta semana? ¿Cuál es el primer paso?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "El 6 de abril de 1830, el Señor instruyó a los miembros a recibir las palabras de José Smith 'como si vinieran de Su propia boca'. José tenía 24 años y sin educación formal. ¿Por qué eso era desafiante?",
+      "options": [
+        "Porque José Smith hablaba con un dialecto difícil de entender",
+        "Porque era difícil confiar en alguien joven y sin credenciales académicas o religiosas establecidas",
+        "Porque las palabras de José eran difíciles de encontrar en aquella época",
+        "Porque los miembros preferían seguir al rey en lugar de al profeta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "D&C 21:4–6 dice que si seguimos al profeta 'en toda paciencia y fe', el Señor apartará los obstáculos de nuestro camino. ¿Qué significan las palabras 'paciencia y fe' en ese contexto?",
+      "options": [
+        "Que debemos esperar años antes de actuar según el consejo del profeta",
+        "Que podemos seguir al profeta aunque no entendamos completamente el por qué, confiando en el Señor",
+        "Que la paciencia reemplaza la necesidad de hacer algo concreto",
+        "Que solo debemos seguir al profeta cuando su consejo nos parece razonable"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Alguna vez seguiste un consejo del profeta aunque no lo entendieras completamente en ese momento? ¿Qué pasó después?",
+      "options": [
+        "Que seguir sin entender fue una señal de que me faltaba madurez",
+        "Que con el tiempo vi el sentido de ese consejo o recibí paz por haberlo seguido",
+        "Que seguir sin entender siempre resulta en problemas mayores",
+        "Que el consejo del profeta siempre tiene que tener sentido antes de seguirlo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿En qué se diferencia seguir al profeta por costumbre familiar de seguirlo con fe genuina? ¿Cómo se ve esa diferencia en la práctica?",
+      "options": [
+        "No hay diferencia real, lo importante es el resultado externo",
+        "La costumbre sigue sin pensar; la fe genuina involucra elegirlo conscientemente aunque cueste algo",
+        "La costumbre es más confiable porque es más estable que la fe",
+        "La fe genuina siempre produce emociones fuertes mientras que la costumbre no"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué consejo reciente del profeta actual sentís que necesitás aplicar con más diligencia en tu vida? ¿Cuál es el primer paso concreto que darías esta semana?",
+      "options": [
+        "Esperar a que el consejo se vuelva obligatorio antes de actuar",
+        "Identificar el consejo, decidir una acción pequeña concreta, y hacerla antes del domingo",
+        "Hablar del consejo con otras personas para ver si ellos también lo aplican primero",
+        "Pedir permiso al obispo antes de aplicar cualquier consejo general del profeta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "El presidente Ezra Taft Benson enseñó que el profeta viviente es 'más vital que el profeta muerto'. ¿Por qué?",
+      "options": [
+        "Porque las palabras de los profetas del pasado ya no tienen validez para hoy",
+        "Porque el profeta viviente tiene revelación específica para los desafíos de nuestra época y tiempo",
+        "Porque los profetas del pasado eran menos confiables que los actuales",
+        "Porque el profeta viviente tiene más seguidores en redes sociales"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

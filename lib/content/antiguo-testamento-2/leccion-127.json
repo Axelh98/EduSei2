@@ -1,0 +1,56 @@
+{
+  "id": "leccion-127",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo describe Isaías 58:13 la actitud correcta hacia el día de reposo?",
+      "options": [
+        "Como un día de descanso absoluto donde no se hace nada.",
+        "Llamándolo 'delicia' y 'santo del Señor', apartando el propio placer para honrar al Señor.",
+        "Como un día de obligaciones religiosas pesadas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué promesa hace el Señor en Isaías 58:14 a quienes honran el día de reposo?",
+      "options": [
+        "Que recibirán riquezas materiales inmediatas.",
+        "Que se deleitarán en el Señor y Él los hará cabalgar sobre las alturas de la tierra.",
+        "Que nunca más tendrán que trabajar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es la diferencia entre observar el día de reposo por obligación y hacerlo como una 'delicia'?",
+      "options": [
+        "No hay diferencia real si al final se hace lo mismo.",
+        "Observarlo por obligación es cumplir una regla; hacerlo como delicia es elegir voluntariamente dedicar ese día a fortalecer la relación con el Señor.",
+        "La diferencia solo importa para los líderes de la Iglesia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo pueden los jóvenes hacer del día de reposo una experiencia más significativa?",
+      "options": [
+        "Evitando todas las actividades que no sean religiosas formales.",
+        "Planificando actividades que fortalezcan la familia, el estudio del Evangelio y el servicio, centradas en Jesucristo.",
+        "Durmiendo todo el día para estar descansados para la semana."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué conexión tiene guardar el día de reposo con el convenio entre el Señor y Su pueblo?",
+      "options": [
+        "Ninguna; es solo una costumbre cultural antigua.",
+        "El día de reposo es una señal del convenio entre el Señor y Su pueblo; guardarlo es una forma de demostrar fidelidad a ese convenio.",
+        "Solo es relevante para el pueblo de Israel en el Antiguo Testamento."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

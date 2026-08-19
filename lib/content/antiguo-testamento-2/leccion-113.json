@@ -1,0 +1,56 @@
+{
+  "id": "leccion-113",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué el libro de Isaías es considerado especialmente importante en las Escrituras?",
+      "options": [
+        "Porque es el libro más largo del Antiguo Testamento.",
+        "Porque Isaías es el profeta más citado en el Nuevo Testamento, el Libro de Mormón y Doctrina y Convenios.",
+        "Porque Isaías fue el rey más importante de Israel."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿En qué época histórica profetizó Isaías?",
+      "options": [
+        "Durante el éxodo de Egipto.",
+        "Durante el reinado de varios reyes de Judá, aproximadamente 700 años antes de Cristo.",
+        "Durante la construcción del templo de Salomón."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es una de las razones por las que leer a Isaías puede parecer difícil?",
+      "options": [
+        "Porque está escrito en un idioma muy moderno.",
+        "Porque usa un lenguaje poético y simbólico, y se refiere a eventos históricos que requieren contexto para entenderlos.",
+        "Porque no fue traducido correctamente al español."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué tipos de temas principales encontrarás en el libro de Isaías?",
+      "options": [
+        "Solo advertencias de destrucción para los malvados.",
+        "La misión de Jesucristo, la apostasía, la Restauración, los últimos días y la redención de Israel.",
+        "Solo historia política de los reinos de Israel y Judá."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué consejo práctico se da para entender mejor las profecías de Isaías?",
+      "options": [
+        "Leerlas sin buscar ningún contexto histórico.",
+        "Pedir la guía del Espíritu Santo, buscar el contexto histórico y comparar con otras Escrituras que citan a Isaías.",
+        "Saltarse los capítulos difíciles y leer solo los que tienen versículos conocidos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

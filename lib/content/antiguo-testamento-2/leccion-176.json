@@ -1,0 +1,56 @@
+{
+  "id": "leccion-176",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo sabemos que un llamamiento en la Iglesia viene de Dios y no solo de los líderes?",
+      "options": [
+        "Porque los líderes siempre tienen razón.",
+        "Porque los llamamientos son extendidos por líderes que han buscado la guía del Señor en oración.",
+        "Solo si viene acompañado de un sueño o visión."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es la actitud correcta cuando recibes un llamamiento que parece difícil o que sientes que no puedes cumplir?",
+      "options": [
+        "Declinar educadamente si no tienes experiencia.",
+        "Aceptarlo con fe, sabiendo que el Señor ayuda a quienes Él llama.",
+        "Esperar a que alguien más lo acepte primero."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué bendición personal trae cumplir fielmente un llamamiento?",
+      "options": [
+        "Reconocimiento público dentro de la Iglesia.",
+        "Crecimiento espiritual, desarrollo de dones y mayor semejanza a Jesucristo.",
+        "Garantía de no tener más problemas en la vida."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué cumplir fielmente un llamamiento beneficia también a los demás?",
+      "options": [
+        "Porque hace que la Iglesia se vea bien ante la comunidad.",
+        "Porque el servicio fiel edifica al individuo, a la familia y a toda la congregación.",
+        "Porque así te aseguras de recibir mejores llamamientos en el futuro."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué ejemplo del Antiguo Testamento ilustra bien la actitud de aceptar y cumplir un llamamiento difícil?",
+      "options": [
+        "Jonás, quien huyó de su llamamiento inicial pero finalmente obedeció.",
+        "Saúl, quien eligió qué partes del llamamiento cumplir.",
+        "Faraón, quien delegó sus responsabilidades a José."
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

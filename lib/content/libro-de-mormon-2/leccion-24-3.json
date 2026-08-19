@@ -1,0 +1,118 @@
+{
+  "id": "leccion-24-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Cuando disidentes intentan destruir la libertad del pueblo nefita, el capitán Moroni rasga su túnica y escribe en ella un recordatorio: 'En memoria de nuestro Dios, nuestra religión, y libertad, y nuestra paz, nuestras esposas y nuestros hijos.' Este 'estandarte de la libertad' se convierte en un símbolo de los valores que merecen ser defendidos. Moroni llama al pueblo a hacer convenio de defender estas cosas. El pasaje ilustra la importancia de defender principios justos y mantener la libertad religiosa."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "Liahona, noviembre de 2020",
+      "texto": "Hay muchos en la tierra que saben muy poco de Jesucristo y, en algunas partes del mundo donde Su nombre se ha proclamado durante siglos, la fe en Jesucristo está disminuyendo.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2020/11/45andersen?lang=spa&id=p4#p4"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 46:12-13",
+          "texto": "En memoria de nuestro Dios, nuestra religión, y libertad, y nuestra paz, nuestras esposas y nuestros hijos. Venid y preservemos nuestros derechos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=spa&id=p12-p13#p12"
+        },
+        {
+          "referencia": "Alma 46:20-21",
+          "texto": "Quienquiera que guardase esta causa verdadera, el Señor no permitiría que cayeran.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=spa&id=p20-p21#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué principios o valores consideras más importantes defender en tu vida?",
+        "¿De qué manera puedes defender tus creencias de forma respetuosa?",
+        "¿Qué convenios has hecho con Dios que requieren ser recordados regularmente?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué hizo Moroni cuando supo de las disensiones causadas por Amalickíah en el gobierno?",
+      "options": [
+        "Rasgó su túnica e hizo el estandarte de la libertad",
+        "Abandonó el país con su ejército",
+        "Renunció a su cargo militar",
+        "Se escondió a esperar que la situación mejorara"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué palabras exactas escribió Moroni en el estandarte de la libertad, según Alma 46:12?",
+      "options": [
+        "'Victoria o muerte'",
+        "'En memoria de nuestro Dios, nuestra religión, y libertad, y nuestra paz, nuestras esposas y nuestros hijos'",
+        "'Solo la paz importa'",
+        "'Guerra justa contra los lamanitas'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Quién es el principal disidente que buscaba destruir la libertad de los nefitas y hacerse rey, motivando la creación del estandarte de la libertad?",
+      "options": [
+        "Nehor",
+        "Zeezrom",
+        "Amalickíah",
+        "Korihor"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "El pueblo respondió al estandarte 'viniendo corriendo' con sus armaduras, y muchos rasgaron sus propias vestiduras como señal (Alma 46:21–22). ¿Qué representaba ese acto?",
+      "options": [
+        "Una tradición cultural sin ninguna conexión con la religión",
+        "Un simple gesto sin ningún significado real",
+        "Un convenio público y voluntario de defender su fe, su libertad y sus familias, incluso al costo de sus vidas",
+        "Una orden militar obligatoria sin relación con la fe"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Luca murmuró con sus amigos sobre un líder de la Iglesia, dejándose llevar por comentarios negativos sin verificar si eran ciertos. Amalickíah ganó seguidores usando 'palabras lisonjeras' y engaño (Alma 46:10). ¿Qué advertencia de ese relato se aplicaría aquí?",
+      "options": [
+        "Que murmurar sobre un líder nunca tiene ninguna consecuencia real",
+        "Que Amalickíah y los murmuradores actuales no tienen nada en común",
+        "Que las palabras persuasivas siempre reflejan la verdad",
+        "Que hay que tener cuidado con seguir opiniones persuasivas sin examinar primero si están basadas en la verdad"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Valentina siente que su fe es 'heredada' y no propia, y duda si realmente la defendería si tuviera que elegir públicamente, como hizo el pueblo con el estandarte de la libertad. ¿Qué principio de este relato le ayudaría?",
+      "options": [
+        "Que dudar de la propia fe significa que nunca podrá ser realmente suya",
+        "Que el convenio del pueblo fue una decisión personal y voluntaria; cada persona puede, como ellos, elegir activamente comprometerse con su fe en lugar de solo heredarla pasivamente",
+        "Que solo quienes nacieron en familias de fe pueden comprometerse genuinamente",
+        "Que el estandarte de la libertad no tiene ninguna aplicación para la fe personal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la partida misteriosa de Alma como la creación del estandarte de la libertad por parte de Moroni muestran un mismo principio sobre el liderazgo en momentos de crisis. ¿Cuál es?",
+      "options": [
+        "Que solo los profetas pueden actuar con determinación en momentos de crisis",
+        "Que ambos relatos muestran que es mejor evitar cualquier tipo de acción decisiva",
+        "Que Dios levanta líderes dispuestos a actuar con fe y determinación —ya sea guiando espiritualmente o defendiendo la libertad— cuando su pueblo enfrenta peligro",
+        "Que el liderazgo espiritual y el liderazgo cívico son temas completamente separados"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "alma-30-1-29",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué enseñaba Korihor?",
+      "type": "multiple",
+      "options": [
+        "La verdad del evangelio tal como la enseñaban los profetas",
+        "La importancia de seguir fielmente a los profetas",
+        "La necesidad urgente de un arrepentimiento sincero",
+        "Que no habría Cristo, ni expiación, ni vida después de la muerte"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 30:12-18",
+      "explanation": "Korihor enseñaba que no habría Cristo, ni expiación, ni vida después de la muerte."
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo describe el libro de Mormón a Korihor?",
+      "type": "multiple",
+      "options": [
+        "Como un anticristo que negaba las profecías de Cristo",
+        "Como un profeta enviado a corregir errores",
+        "Como un líder justo y respetado por todos",
+        "Como un amigo cercano de los sacerdotes"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 30:6",
+      "explanation": "El libro de Mormón describe a Korihor como un anticristo que negaba las profecías de Cristo."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué efecto tuvieron las enseñanzas de Korihor?",
+      "type": "multiple",
+      "options": [
+        "No tuvieron ningún efecto sobre la población",
+        "Alejaron a muchas personas de la fe",
+        "Fortalecieron la fe de quienes las escucharon",
+        "No lograron influir en absolutamente nadie"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 30:18",
+      "explanation": "Las enseñanzas de Korihor alejaron a muchas personas de la fe."
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo justificaba Korihor su derecho a enseñar sus falsas doctrinas?",
+      "type": "multiple",
+      "options": [
+        "Apelaba a su libertad y decía que no había ley contra las creencias",
+        "Explicaba que no necesitaba justificarse ante nadie",
+        "Afirmaba tener permiso explícito de los profetas",
+        "Se basaba únicamente en su popularidad entre el pueblo"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 30:24",
+      "explanation": "Korihor apelaba a su libertad, argumentando que no había ley contra las creencias."
+    },
+    {
+      "id": 5,
+      "question": "Thiago tiene un compañero que dice que la religión es solo una forma de controlar a las personas. ¿Qué le enseña la historia de Korihor sobre este tipo de argumentos?",
+      "type": "multiple",
+      "options": [
+        "Que esos argumentos siempre son completamente ciertos",
+        "Que las enseñanzas que niegan a Cristo pueden sonar convincentes, pero conducen a las personas lejos de la verdad",
+        "Que debe evitar cualquier conversación sobre el tema con su compañero",
+        "Que la religión efectivamente no tiene ningún valor real"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 30:12-18",
+      "explanation": "Las enseñanzas que niegan a Cristo, como las de Korihor, pueden sonar convincentes pero conducen a las personas lejos de la verdad."
+    },
+    {
+      "id": 6,
+      "question": "Renata se siente presionada a dudar de su fe porque alguien le dice que 'nadie puede probar que Dios existe'. ¿Qué principio de este relato le daría confianza?",
+      "type": "multiple",
+      "options": [
+        "Que debe abandonar su fe hasta tener una prueba física",
+        "Que nunca debe hablar de su fe con nadie que dude",
+        "Que la fe se fortalece con evidencias espirituales y el testimonio de otros, no solo con pruebas físicas",
+        "Que la existencia de Dios no tiene ninguna forma de evidenciarse"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 30:39-44",
+      "explanation": "La fe se fortalece con evidencias espirituales y el testimonio de otros, no solo con pruebas físicas."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué relación hay entre lo que enseñaba Korihor y la forma en que justificaba su derecho a enseñarlo?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "Korihor usaba la idea de libertad individual para justificar una doctrina que en realidad alejaba a las personas de Dios",
+        "Su justificación sobre la libertad era completamente independiente de su doctrina",
+        "Korihor no tenía ninguna justificación para sus enseñanzas"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 30:12-24",
+      "explanation": "Korihor usaba la idea de libertad individual para justificar una doctrina que en realidad alejaba a las personas de Dios."
+    }
+  ]
+}

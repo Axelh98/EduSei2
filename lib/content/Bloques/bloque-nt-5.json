@@ -1,0 +1,116 @@
+{
+  "id": "bloque-nt-5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué ocurrió en Hechos 1 antes de Pentecostés?",
+      "options": [
+        "La elección de Esteban",
+        "La conversión de Saulo",
+        "La visión de Pedro",
+        "La ascensión de Jesús"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 2,
+      "question": "¿Qué milagro sucedió en Hechos 2 el día de Pentecostés?",
+      "options": [
+        "Pedro caminó sobre el agua",
+        "Los discípulos hablaron en otras lenguas",
+        "Juan sanó a un paralítico",
+        "Felipe bautizó al eunuco"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué sanó Pedro en Hechos 3?",
+      "options": [
+        "A un endemoniado",
+        "A un paralítico en la puerta del templo",
+        "A un leproso",
+        "A un ciego de nacimiento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué hicieron los creyentes en Hechos 4?",
+      "options": [
+        "Nombraron diáconos",
+        "Compartían todas las cosas en común",
+        "Construyeron un templo nuevo",
+        "Se dispersaron por Judea"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué ocurrió con Ananías y Safira en Hechos 5?",
+      "options": [
+        "Se convirtieron en diáconos",
+        "Murieron por mentir al Espíritu Santo",
+        "Fueron enviados a Samaria",
+        "Fueron encarcelados por predicar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "¿Qué función tuvieron los siete varones elegidos en Hechos 6?",
+      "options": [
+        "Predicar en el templo",
+        "Servir a las mesas y ayudar en la distribución",
+        "Escribir cartas a las iglesias",
+        "Dirigir la alabanza"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "¿Qué visión tuvo Esteban en Hechos 7 antes de morir?",
+      "options": [
+        "Vio un río de fuego",
+        "Vio a Jesús de pie a la diestra de Dios",
+        "Vio un ángel con espada",
+        "Vio el templo lleno de gloria"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 8,
+      "question": "¿Qué ocurrió con Saulo en Hechos 9?",
+      "options": [
+        "Fue nombrado diácono",
+        "Se convirtió tras ver a Jesús camino a Damasco",
+        "Predicó en Roma",
+        "Fue encarcelado en Jerusalén"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 9,
+      "question": "¿Qué visión tuvo Pedro en Hechos 10?",
+      "options": [
+        "Un río de agua viva",
+        "Un templo reconstruido",
+        "Un lienzo con animales impuros que descendía del cielo",
+        "Un ángel con un libro"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 10,
+      "question": "¿Qué milagro ocurrió en Hechos 12?",
+      "options": [
+        "Felipe bautizó a Cornelio",
+        "Esteban resucitó a un muerto",
+        "Pedro fue liberado de la cárcel por un ángel",
+        "Juan sanó a un paralítico"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

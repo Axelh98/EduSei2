@@ -1,0 +1,103 @@
+{
+  "id": "leccion-180",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "¿Conocés a alguien que sea realmente autosuficiente? José de Egipto lo fue. Aprendió a trabajar, a confiar en el Señor y a tomar decisiones difíciles incluso cuando nadie lo estaba mirando. Por eso, cuando llegó el momento, el Señor pudo usarlo para salvar a toda su familia de morir de hambre. Su autosuficiencia no fue solo para él: terminó siendo una bendición para muchas otras personas. Lo mismo pasó con Amulek. Era un hombre que sabía manejar su propia vida y sus propios recursos. Por eso, cuando el profeta Alma llegó a su puerta, hambriento y sin nada, Amulek pudo recibirlo en su casa y cuidarlo. Si Amulek hubiera dependido de otros para todo, no habría tenido nada para compartir. Acá está el principio central: cuidar de nosotros mismos no es egoísmo. Es lo que nos prepara para poder cuidar a otros. Pensalo así: si nunca aprendiste a cocinar, no podés cocinarle a un amigo que la está pasando mal. Si nunca aprendiste a manejar tu plata, no vas a tener nada guardado para ayudar a alguien en una emergencia. La autosuficiencia y el servicio no son caminos separados; el primero hace posible el segundo."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Hugo E. Martínez",
+      "fuente": "Conferencia General, abril de 2022 (\"Enseñar la autosuficiencia a los niños y los jóvenes\", Liahona, mayo de 2022, pág. 95)",
+      "texto": "La autosuficiencia es una doctrina del evangelio de Jesucristo, no un programa. Es un proceso de toda la vida, no un hecho puntual.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/46martinez?lang=spa&id=p3#p3"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 4:26",
+          "texto": "...quisiera que de vuestros bienes dieseis al pobre, cada cual según lo que tuviere, tal como alimentar al hambriento, vestir al desnudo, visitar al enfermo, y ministrar para su alivio, tanto espiritual como temporalmente, según sus necesidades.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p26#p26"
+        },
+        {
+          "referencia": "Mateo 25:40",
+          "texto": "En cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=spa&id=p40#p40"
+        },
+        {
+          "referencia": "Alma 15:18",
+          "texto": "Y aconteció que después de que hubieron sanado de sus heridas... establecieron una iglesia en aquella tierra...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=spa&id=p18#p18"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Trabajar en tu propia autosuficiencia —ya sea estudiando, ahorrando, aprendiendo una habilidad o haciéndote cargo de tus responsabilidades en casa— no te aleja de servir a otros. Te prepara para hacerlo de verdad. Esta semana, identificá un área donde podrías depender menos de otros para algo que sí podés aprender a hacer vos mismo. Esa es la base desde la cual vas a poder ayudar a alguien que lo necesite."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Quién te parece que es un buen ejemplo de autosuficiencia en tu vida? ¿Qué hace esa persona que te llama la atención?",
+        "¿Alguna vez pudiste ayudar a alguien justamente porque vos ya tenías algo resuelto en tu propia vida?",
+        "¿En qué área de tu vida sentís que dependés demasiado de otros para algo que podrías aprender a hacer vos mismo?",
+        "¿Qué relación ves entre la historia de José en Egipto y la idea de que la autosuficiencia te prepara para servir?",
+        "¿A quién podrías ayudar esta semana, aunque sea con algo pequeño, usando algo que ya sabés hacer bien?",
+        "¿Qué paso concreto podrías dar esta semana para ser un poco más autosuficiente en algo específico?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué verdad central aprendemos sobre el desarrollo de nuestra autosuficiencia?",
+      "options": [
+        "Que sirve para ser independientes de Dios.",
+        "Que nos permite ayudar a los demás tal como lo haría Jesucristo.",
+        "Que es solo para ganar más dinero."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué personaje del Antiguo Testamento es un gran ejemplo de autosuficiencia y de ayudar a los necesitados durante una hambruna?",
+      "options": [
+        "Saúl.",
+        "José de Egipto.",
+        "Nabal."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Para ayudar a alguien, ¿necesitas ser perfectamente autosuficiente primero?",
+      "options": [
+        "Sí, de lo contrario no puedes dar nada.",
+        "No; puedes ayudar a otros mientras te esfuerzas por mejorar tú mismo.",
+        "Solo si se trata de ayuda económica."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseña el manual sobre compartir nuestros recursos con los necesitados?",
+      "options": [
+        "Que solo debemos dar cuando nos sobre mucho.",
+        "Que debemos ser generosos y compartir según nuestras posibilidades.",
+        "Que no es nuestra responsabilidad."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo se relaciona la autosuficiencia con seguir el ejemplo de Cristo?",
+      "options": [
+        "No tiene ninguna relación.",
+        "Al ser autosuficientes podemos servir mejor y bendecir a otros como Él lo hizo.",
+        "Cristo nunca habló de autosuficiencia."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

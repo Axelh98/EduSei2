@@ -1,0 +1,83 @@
+{
+  "id": "eval-a-tu-aprendizaje-5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué papel cumple el Espíritu Santo en la evaluación de nuestro progreso espiritual?",
+      "options": [
+        "Nos recuerda únicamente los errores cometidos",
+        "Nos ayuda a reflexionar en oración y ver cómo hemos crecido espiritualmente",
+        "Nos obliga a seguir reglas estrictas sin reflexión",
+        "No tiene relación con la evaluación espiritual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué propósito tienen los mandamientos según el presidente Russell M. Nelson?",
+      "options": [
+        "Son reglas arbitrarias para probar nuestra obediencia",
+        "Son leyes que nos guían y protegen porque Dios nos ama",
+        "Son tradiciones culturales sin relevancia espiritual",
+        "Son normas que cambian según la sociedad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué enseña Doctrina y Convenios 58:42–43 sobre el arrepentimiento?",
+      "options": [
+        "Que el arrepentimiento no es necesario",
+        "Que quien se arrepiente y abandona el pecado será perdonado",
+        "Que solo los líderes pueden arrepentirse",
+        "Que el perdón depende de obras externas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué significa entregar el corazón y la mente al Señor según Doctrina y Convenios 64:20–34?",
+      "options": [
+        "Dedicar tiempo únicamente a actividades religiosas",
+        "Estar dispuesto a consagrar pensamientos y deseos al Salvador",
+        "Evitar cualquier responsabilidad temporal",
+        "Guardar silencio en las reuniones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué cambios pueden notarse al entregar más del corazón y la mente al Salvador?",
+      "options": [
+        "Mayor resentimiento hacia los demás",
+        "Alejamiento de la comunidad",
+        "Mejor relación con Jesucristo y con otras personas",
+        "Pérdida de motivación espiritual"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "¿Por qué es importante santificar el día de reposo según Doctrina y Convenios 59?",
+      "options": [
+        "Porque es una tradición cultural",
+        "Porque nos acerca más al Padre Celestial y al Salvador",
+        "Porque evita críticas sociales",
+        "Porque es un requisito administrativo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "¿Qué prácticas ayudan a santificar el día de reposo?",
+      "options": [
+        "Participar en actividades espirituales en casa y en la Iglesia",
+        "Dedicar el día únicamente al descanso físico",
+        "Evitar cualquier tipo de actividad",
+        "Usar el tiempo para entretenimiento sin límites"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

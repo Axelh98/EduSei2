@@ -1,0 +1,89 @@
+{
+  "id": "leccion-31-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Salvador percibe que algunos se preguntan sobre la ley de Moisés, y aclara que en Él se ha cumplido la ley, porque Él es la ley y la luz. Les explica que los nefitas son parte de las 'otras ovejas' de las que habló en Jerusalén. Además, profetiza sobre los gentiles en los últimos días y sobre el recogimiento de la casa de Israel, asegurando que Dios cumplirá Sus convenios."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 15:9",
+          "texto": "He aquí, yo soy la ley y la luz. Mirad hacia mí, y perseverad hasta el fin, y viviréis...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/15?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "3 Nefi 16:3",
+          "texto": "Mas he recibido mandamiento del Padre que vaya a ellos, para que oigan mi voz y sean contados entre mis ovejas, a fin de que haya un rebaño y un pastor...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/16?lang=spa&id=p3#p3"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué nos enseña el hecho de que Cristo haya visitado a Sus 'otras ovejas' sobre Su carácter?",
+        "¿Cómo te ayuda saber que Jesucristo es 'la ley y la luz'?",
+        "¿Qué papel juegas tú en el recogimiento de Israel hoy en día?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según 3 Nefi 9:20, ¿qué ofrenda requiere ahora Cristo?",
+      "options": [
+        "Animales",
+        "Un corazón quebrantado y un espíritu contrito",
+        "Oro",
+        "Cosechas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué promete Cristo a los que vienen a Él con esta ofrenda?",
+      "options": [
+        "Riquezas",
+        "Que los bautizará con fuego y el Espíritu Santo",
+        "Poder",
+        "Fama"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué significa tener un 'corazón quebrantado'?",
+      "options": [
+        "Estar triste",
+        "Ser humilde y dispuesto a seguir a Cristo",
+        "Estar deprimido",
+        "Estar débil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué cambió el tipo de sacrificio requerido?",
+      "options": [
+        "No hubo cambio",
+        "Cristo cumplió la ley de Moisés con Su sacrificio",
+        "Dios cambió de opinión",
+        "Era más fácil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué actitud del corazón busca el Señor ahora?",
+      "options": [
+        "Orgullo",
+        "Humildad y disposición a someterse a Su voluntad",
+        "Independencia total",
+        "Indiferencia"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

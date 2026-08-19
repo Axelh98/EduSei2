@@ -1,0 +1,89 @@
+{
+  "id": "leccion-35-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mormón relata su juventud y cómo fue instruido desde los 10 años sobre los anales sagrados. A los 15 años, el Señor lo visita. Poco después, en medio de guerras constantes, se convierte en el líder militar de los nefitas a los 16 años. Él testifica de la iniquidad generalizada y el dolor de ver a su pueblo rechazar a Cristo. Intenta guiarlos al arrepentimiento, pero sus pesares y llantos son 'pesares de los condenados', porque no se arrepienten con un corazón sincero."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 1:15",
+          "texto": "Y yo, teniendo quince años de edad, y siendo de un carácter algo serio, fui visitado por el Señor, y probé y conocí la bondad de Jesús.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "Mormón 2:13",
+          "texto": "Mas he aquí, este mi gozo fue vano, porque su aflicción no era para arrepentimiento, por motivo de la bondad de Dios; sino que era más bien el pesar de los condenados...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=spa&id=p13#p13"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo pudo Mormón mantener su fe en medio de un pueblo tan inicuo?",
+        "¿Cuál es la diferencia entre el arrepentimiento sincero y 'el pesar de los condenados'?",
+        "¿Qué nos enseña la juventud de Mormón acerca de que el Señor confía en los jóvenes?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quién es el autor principal del libro de Mormón?",
+      "options": [
+        "Nefi",
+        "Mormón",
+        "Moroni",
+        "Alma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿A qué edad fue Mormón llamado a llevar los registros?",
+      "options": [
+        "5 años",
+        "10 años",
+        "20 años",
+        "30 años"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué condición espiritual describe Mormón de su pueblo?",
+      "options": [
+        "Muy fieles",
+        "Extremadamente inicuos y sin arrepentimiento",
+        "Buenos",
+        "Mejorando"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué le fue prohibido hacer a Mormón?",
+      "options": [
+        "Escribir",
+        "Predicar porque el pueblo había rechazado al Espíritu",
+        "Leer",
+        "Orar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo describe Mormón el estado de los nefitas?",
+      "options": [
+        "Prósperos",
+        "Sin civilización, llenos de todo tipo de iniquidad",
+        "Felices",
+        "En paz"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

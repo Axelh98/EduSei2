@@ -1,0 +1,89 @@
+{
+  "id": "leccion-36-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Moroni habla directamente a la gente de nuestros días, declarando que Jesucristo se los ha mostrado a él. Él reprende a quienes aman el dinero y las iglesias falsas más que a los pobres, y a aquellos que niegan las revelaciones. Llama al arrepentimiento y advierte severamente sobre el juicio venidero, recordándonos que Dios es un Dios de milagros."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 8:35",
+          "texto": "He aquí, os hablo como si os hallaseis presentes, y sin embargo, no lo estáis. Pero he aquí, Jesucristo me os ha mostrado, y conozco vuestras obras.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa&id=p35#p35"
+        },
+        {
+          "referencia": "Mormón 9:9",
+          "texto": "¿Acaso leemos que Dios no es el mismo ayer, hoy y para siempre, y que en él hay variación o sombra de cambio?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=spa&id=p9#p9"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo te hace sentir el saber que los profetas antiguos vieron nuestros días y conocían nuestras debilidades y fuerzas?",
+        "¿Por qué crees que muchas personas hoy niegan que Dios sea un Dios de milagros?",
+        "¿Qué puedes hacer para no caer en el orgullo materialista que Moroni observó en nosotros?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué profetizó Moroni sobre los últimos días?",
+      "options": [
+        "Paz perfecta",
+        "Guerras, contaminación y combinaciones secretas",
+        "Nada especial",
+        "Prosperidad para todos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Contra qué advirtió Moroni específicamente?",
+      "options": [
+        "La pobreza",
+        "El orgullo y negar el poder de Dios",
+        "La educación",
+        "El trabajo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué testificó Moroni sobre los milagros?",
+      "options": [
+        "Que no existen",
+        "Que Dios es un Dios de milagros",
+        "Que cesaron",
+        "Que son raros"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué cesan los milagros según Moroni?",
+      "options": [
+        "Porque Dios cambia",
+        "Por la incredulidad de los hijos de los hombres",
+        "Porque ya no son necesarios",
+        "Sin razón"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué invitó Moroni a los lectores a hacer?",
+      "options": [
+        "Dudar",
+        "Venir a Cristo y ser perfeccionados en Él",
+        "Ignorar el evangelio",
+        "Buscar señales"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "nt-s13-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la frase clave de Lucas 22:19–20?",
+      "options": [
+        "\"Amarás a tu prójimo\".",
+        "Jesucristo mandó participar de la Santa Cena “en memoria de [Él]”.",
+        "\"Nacer de agua y del Espíritu\".",
+        "\"Tú eres el Cristo\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué sucede si participamos de la Santa Cena con un corazón sincero?",
+      "options": [
+        "Nos volvemos perfectos al instante.",
+        "Invitamos el poder de la Expiación para limpiarnos y fortalecernos.",
+        "No necesitamos volver a orar.",
+        "Se eliminan todas nuestras pruebas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo podemos prepararnos para la Santa Cena durante la semana?",
+      "options": [
+        "Ignorando nuestros errores.",
+        "Arrepintiéndonos y buscando formas de recordar al Salvador.",
+        "Comprando ropa nueva cada vez.",
+        "Solo pensando en ella el domingo por la mañana."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es el beneficio de tener el Espíritu siempre con nosotros?",
+      "options": [
+        "Seremos mejores deportistas.",
+        "Recibiremos guía, consuelo y protección espiritual.",
+        "No cometeremos ningún error nunca más.",
+        "Sabremos los números de la lotería."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

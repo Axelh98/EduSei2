@@ -1,0 +1,61 @@
+{
+  "id": "nt-s10-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué pregunta le hizo el joven rico al Salvador?",
+      "options": [
+        "\"¿Cómo puedo ser más rico?\".",
+        "\"¿Qué bien haré para tener la vida eterna?\".",
+        "\"¿Quién es el más grande?\".",
+        "\"¿Dónde vives?\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué pregunta debemos hacernos todos según el presidente Harold B. Lee?",
+      "options": [
+        "\"¿Por qué me pasa esto?\".",
+        "\"¿Qué más me falta?\".",
+        "\"¿Cuándo terminará la clase?\".",
+        "\"¿Soy mejor que mi prójimo?\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál fue la reacción de Jesús al mirar al joven rico según Marcos 10:21?",
+      "options": [
+        "Lo juzgó severamente.",
+        "Mirándole, le amó.",
+        "Lo ignoró.",
+        "Se rió de sus riquezas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué invitó el Salvador al joven a hacer para ser perfecto?",
+      "options": [
+        "Comprar más tierras.",
+        "Vender lo que tenía, darlo a los pobres y seguirle.",
+        "Estudiar con los fariseos.",
+        "Irse a vivir al desierto."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Por qué se fue triste el joven?",
+      "options": [
+        "Porque no entendió la respuesta.",
+        "Porque tenía muchas posesiones (y no quiso dejarlas).",
+        "Porque Jesús no lo saludó.",
+        "Porque el camino era largo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

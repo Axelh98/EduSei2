@@ -1,0 +1,33 @@
+{
+  "id": "leccion-26-6",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Moroni profetiza sobre los últimos días, advirtiendo contra el orgullo, la incredulidad, y el amor al dinero. También defiende la posibilidad de los milagros, explicando que Dios no cambia y que sigue obrando milagros entre quienes tienen fe. Enseña sobre la resurrección y el juicio final. Estos pasajes muestran la preocupación de Moroni por las generaciones futuras y su deseo de que eviten los errores que destruyeron a los nefitas."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 8:35-36",
+          "texto": "¿Por qué os habéis adornado con lo que no tiene vida, y permitís que los hambrientos y necesitados pasen de largo, sin reparar en ellos?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa&id=p35-p36#p35"
+        },
+        {
+          "referencia": "Mormón 9:20",
+          "texto": "No ha cesado de ser un Dios de milagros. No es Dios quien cambia, sino que son los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=spa&id=p20#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué advertencias de Moroni sobre los últimos días observas en la sociedad actual?",
+        "¿Cómo respondes a la enseñanza de que Dios sigue siendo un Dios de milagros?",
+        "¿De qué manera puedes evitar las trampas del materialismo que Moroni describe?"
+      ]
+    }
+  ],
+  "questions": []
+}

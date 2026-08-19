@@ -1,0 +1,124 @@
+{
+  "id": "57-dc-42-29-39",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Un grupo de santos en la granja de Isaac Morley había estado intentando practicar una forma de vida comunitaria antes de conocer la Iglesia, motivados por un deseo genuino de vivir el evangelio. Cuando se unieron, el Señor les reveló en D&C 42:29–39 la ley de la consagración: el principio de que todo lo que tenemos es en realidad del Señor, y que somos mayordomos — no dueños — de esos bienes. La ley pedía a los santos consagrar sus bienes al obispo, quien los redistribuiría según las necesidades de cada familia. El excedente quedaba en la tesorería para los pobres. Esta no es una ley política ni económica abstracta: es la expresión concreta del mandamiento de amar al prójimo como a uno mismo. Para los jóvenes de hoy, que viven en una cultura de consumo donde la definición de 'suficiente' siempre se desplaza hacia más, esta ley propone una pregunta perturbadora y liberadora a la vez: ¿qué sería diferente si vivieras como mayordomo en lugar de dueño?"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 42:30–31",
+          "texto": "Y si obtienes más de lo que necesitas para tu sustento y el de tu familia, lo darás al obispo de mi Iglesia, y lo conservará en una tesorería para que se administre a los que no tienen.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=spa&id=p30-p31#p30"
+        },
+        {
+          "referencia": "Doctrina y Convenios 42:38",
+          "texto": "En esto se sabrá que sois mis discípulos, si os amáis los unos a los otros; porque si no os amáis los unos a los otros, no sois míos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=spa&id=p38#p38"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dieter F. Uchtdorf",
+      "fuente": "\"Ustedes son Mis manos\", Conferencia General, abril de 2010 (Liahona, mayo de 2010, pág. 68)",
+      "texto": "Se cuenta que durante el bombardeo de una ciudad en la Segunda Guerra Mundial, una gran estatua de Jesucristo quedó severamente dañada. Cuando los habitantes del pueblo encontraron la estatua entre los escombros, se lamentaron porque había sido un símbolo amado de su fe y de la presencia de Dios en su vida. Los expertos pudieron reparar la mayor parte de la estatua, pero sus manos habían quedado tan dañadas que no pudieron restaurarse. […] Finalmente, la estatua permaneció sin manos. Sin embargo, la gente de la ciudad agregó en la base de la estatua de Jesucristo un letrero con estas palabras: 'Ustedes son Mis manos'.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2010/04/you-are-my-hands?lang=spa&id=p3-p4#p3"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La ley de la consagración no fue retirada porque sea obsoleta — fue suspendida porque los santos no estaban preparados para vivirla plenamente. Hoy la vivimos parcialmente a través del ayuno y las ofrendas, las contribuciones humanitarias y el servicio. Pero el principio de fondo es eterno: somos mayordomos de los bienes del Señor, y cómo los usamos con los que tienen necesidad es una medida directa de cuánto amamos al Salvador en la persona de Sus hijos."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál es la diferencia entre ser dueño de algo y ser mayordomo de algo? ¿Cómo cambia esa diferencia tu relación con lo que tenés?",
+        "¿De qué maneras concretas vivís la ley de la consagración hoy como miembro de la Iglesia?",
+        "¿Hay alguna necesidad cerca tuya — en tu familia, barrio o quórum — que podrías atender con algo que vos tenés en exceso?",
+        "¿Qué te hace más difícil dar: el dinero, el tiempo, la atención, o la energía? ¿Por qué?",
+        "Esta semana, ¿qué acto concreto de generosidad podrías hacer como expresión de amor al Salvador en la persona de alguien que necesita ayuda?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 42:30–31 instruye a los santos sobre qué hacer si obtienen 'más de lo necesario para su sustento'. ¿A quién debían entregar ese excedente y para qué propósito?",
+      "options": [
+        "Al obispo, para administrarlo en una tesorería destinada a los que no tienen.",
+        "Al profeta, para financiar la traducción de la Biblia.",
+        "A sus vecinos más pobres directamente, sin intermediarios eclesiásticos.",
+        "A una cuenta de ahorro personal para futuros períodos de escasez."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 42:38 dice 'en dar a los pobres hacéis para mí'. ¿A qué enseñanza de Jesús en el Nuevo Testamento se conecta directamente ese principio?",
+      "options": [
+        "A la parábola del sembrador, donde la semilla cae en tierra buena.",
+        "Al Sermón del Monte, donde se promete que los misericordiosos alcanzarán misericordia.",
+        "A Mateo 25:40: 'en cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis'.",
+        "A Juan 3:16, donde el amor de Dios se expresa en el don de Su Hijo."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "La ley de consagración de D&C 42 nunca fue implementada plenamente por los santos de 1831. ¿Qué principio detrás de esa ley sí puede aplicarse hoy sin una sociedad de consagración formal?",
+      "options": [
+        "Ninguno — la ley era exclusiva para esa época y no tiene aplicación en el mundo moderno.",
+        "El principio de mayordomía: lo que tenemos — tiempo, dinero, talento — son bienes del Señor que administramos con responsabilidad hacia quienes tienen necesidad.",
+        "El principio de que toda la propiedad privada debe cederse voluntariamente a la Iglesia.",
+        "El principio de que el Señor proveerá milagrosamente a quienes donen todo sin guardar reservas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "D&C 42:42 advierte contra la 'ociosidad'. ¿Qué diferencia hay entre el descanso legítimo y la ociosidad que el Señor condena?",
+      "options": [
+        "No hay diferencia — ambas implican no estar trabajando activamente.",
+        "Solo la ociosidad visible frente a otros es problemática; el descanso en privado siempre está bien.",
+        "El descanso renueva la capacidad de servir mejor; la ociosidad es una actitud de indiferencia hacia la responsabilidad y hacia las necesidades de los demás.",
+        "La ociosidad solo es un pecado cuando se trata de trabajo económico, no de actividades espirituales."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Joaquín tiene mucho tiempo libre en vacaciones pero lo pasa completamente en entretenimiento. Según D&C 42:38 y el principio de mayordomía, ¿qué pregunta debería hacerse sobre ese tiempo?",
+      "options": [
+        "Si está descansando lo suficiente para no agotarse cuando vuelva la rutina.",
+        "Si sus padres aprueban la cantidad de tiempo que dedica al entretenimiento.",
+        "Si hay alguien cerca que podría beneficiarse de ese tiempo que él está administrando como si fuera solo suyo.",
+        "Si el contenido que consume durante el entretenimiento es apropiado según los estándares de la Iglesia."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Sofía quiere contribuir más al bienestar de otros pero dice 'no tengo dinero para dar'. Según el principio de consagración de D&C 42, ¿qué le diría el Señor sobre esa limitación?",
+      "options": [
+        "Que debería esperar a tener ingresos propios antes de pensar en contribuir.",
+        "Que la consagración incluye tiempo, atención y habilidades — recursos que Sofía sí tiene aunque no tenga dinero.",
+        "Que el diezmo es suficiente hasta que tenga recursos económicos propios.",
+        "Que la contribución económica es la única forma válida de vivir el principio de consagración."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "D&C 42:38 ('dar a los pobres es dar al Señor') y la ley de consagración juntos apuntan al mismo principio. ¿Cuál es?",
+      "options": [
+        "Que el Señor necesita recursos económicos de Sus discípulos para financiar Su obra en la tierra.",
+        "Que la ley de consagración es la más importante de todas las leyes reveladas en D&C 42.",
+        "Que dar a los pobres garantiza bendiciones económicas proporcionales en esta vida.",
+        "Que la relación entre el discípulo y el Salvador se mide concretamente en cómo trata a las personas que tienen menos — el amor al Señor y el amor al prójimo son la misma acción."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

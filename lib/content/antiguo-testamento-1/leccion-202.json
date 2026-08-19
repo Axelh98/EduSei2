@@ -1,0 +1,91 @@
+{
+  "id": "leccion-202",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Padre Celestial ama a todos sus hijos. Una de las formas en que demuestra ese amor es invitándolos a hacer convenios con Él en el templo. Entre esos convenios están la ley de obediencia y la ley de sacrificio. La ley de obediencia significa esforzarse por guardar los mandamientos del Padre Celestial. No se trata de obedecer por miedo, sino de confiar en que Sus mandamientos existen para protegernos y ayudarnos a llegar a ser como Él. La ley de sacrificio significa entregar tiempo, talentos y todo lo que el Señor nos ha dado para edificar Su Iglesia, y también acercarnos a Él con un corazón quebrantado cuando nos arrepentimos. Estas dos leyes no son una carga extra que se suma a tu vida espiritual: son una invitación a vivir con un propósito más claro. Pensá en Abraham: en una visión, aprendió que el Padre Celestial probaría a Sus hijos para ver si harían todo lo que Él les pidiera. Esa prueba no es un examen para hacernos fallar; es una oportunidad para crecer en fe y en confianza. Antes de hacer estos convenios en el templo, vale la pena entender qué significan y por qué importan, así no llegás a ese momento sintiendo que es algo desconocido, sino algo que ya empezaste a vivir."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Abraham 3:25",
+          "texto": "Y los probaremos con esto, para ver si harán todas las cosas que el Señor su Dios les mandare.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=spa&id=p25#p25"
+        },
+        {
+          "referencia": "Doctrina y Convenios 97:8",
+          "texto": "Pues yo, el Señor, exijo el corazón y una mente dispuesta...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa&id=p8#p8"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Los convenios de obediencia y sacrificio no buscan quitarte algo, sino ayudarte a llegar a ser más como el Padre Celestial y el Salvador. Cada vez que elegís obedecer un mandamiento aunque sea difícil, o cuando entregás tu tiempo o tus recursos para servir en la Iglesia, ya estás viviendo el espíritu de estos convenios antes de hacerlos formalmente en el templo. Esta semana, identificá una manera concreta de practicar uno de estos dos principios, aunque sea en algo pequeño."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué mandamiento te resulta más fácil de obedecer y cuál te cuesta más?",
+        "¿Alguna vez sacrificaste algo tuyo —tiempo, plata, comodidad— para servir a alguien o a la Iglesia? ¿Cómo te sentiste después?",
+        "¿Qué diferencia hay, para vos, entre obedecer por miedo y obedecer por amor a Dios?",
+        "¿De qué manera ya estás practicando el principio del sacrificio en tu vida diaria, aunque no lo hayas hecho como convenio formal todavía?",
+        "¿Qué decisión pequeña pero concreta podrías tomar esta semana para practicar la ley de obediencia?",
+        "¿Hay algo —tiempo, talento, comodidad— que podrías ofrecer esta semana para servir a otra persona o a tu congregación?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué leyes prometemos vivir como parte del convenio de la investidura en el templo?",
+      "options": [
+        "Solo la ley del diezmo.",
+        "Las leyes de obediencia y de sacrificio.",
+        "Únicamente reglas de vestimenta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué el Señor nos pide hacer estos convenios en Su santa casa?",
+      "options": [
+        "Para ayudarnos a llegar a ser más semejantes a Él y a Su Hijo.",
+        "Porque quiere restringir nuestra libertad.",
+        "Para que podamos presumir de ser miembros del templo."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es la relación entre el sacrificio y nuestro amor por el Salvador?",
+      "options": [
+        "Nuestra disposición a sacrificar muestra nuestra devoción y amor por Él.",
+        "El sacrificio es un castigo por nuestros pecados.",
+        "No hay relación entre ambos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué significa obedecer la ley de obediencia?",
+      "options": [
+        "Hacer solo lo que nos gusta.",
+        "Comprometernos a obedecer los mandamientos de Dios y seguir el consejo de los líderes de la Iglesia.",
+        "Obedecer solo cuando es conveniente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo nos preparan estos convenios para la vida eterna?",
+      "options": [
+        "No tienen relación con la vida eterna.",
+        "Nos ayudan a desarrollar atributos divinos y nos acercan al Padre Celestial y Jesucristo.",
+        "Solo sirven para esta vida terrenal."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nt-s18-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué arrestaron los líderes judíos a Pedro y a Juan?",
+      "options": [
+        "Por robar en el templo.",
+        "Por enseñar en el nombre de Jesús y la resurrección.",
+        "Por no pagar impuestos.",
+        "Por pelear con los guardias."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál fue la respuesta valiente de Pedro ante el concilio que les prohibía enseñar?",
+      "options": [
+        "\"Prometemos no volver a hacerlo\".",
+        "\"Es necesario obedecer a Dios antes que a los hombres\".",
+        "\"Pidan permiso a Roma\".",
+        "Guardó silencio absoluto."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué pecado cometieron Ananías y Safira según Hechos 5?",
+      "options": [
+        "Robaron el templo.",
+        "Mintieron al Espíritu Santo sobre el precio de una propiedad.",
+        "No quisieron bautizarse.",
+        "Hablaron mal de los Apóstoles."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo fueron liberados los Apóstoles de la cárcel común?",
+      "options": [
+        "Pedro rompió las cadenas.",
+        "Un ángel del Señor abrió las puertas por la noche.",
+        "Los seguidores pagaron el rescate.",
+        "Los guardias se quedaron dormidos por accidente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué consejo dio Gamaliel al concilio respecto a los discípulos?",
+      "options": [
+        "Que debían matarlos a todos.",
+        "Que si la obra es de Dios, no podrán destruirla.",
+        "Que los enviaran a otra ciudad.",
+        "Que los ignoraran para siempre."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "leccion-31-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Jesucristo continúa Su ministerio entre los nefitas enseñándoles las Bienaventuranzas, de manera similar a Su Sermón del Monte en el Nuevo Testamento. Él explica cómo aquellos que vienen a Él y desarrollan atributos cristianos serán bendecidos. Llama a Sus discípulos a ser 'la sal de la tierra' y 'la luz del pueblo', invitándolos a ser ejemplos justos que guíen a otros hacia el Padre Celestial."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 12:3",
+          "texto": "Sí, bienaventurados son los pobres en espíritu que vienen a mí, porque de ellos es el reino de los cielos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "3 Nefi 12:16",
+          "texto": "Por lo tanto, así alumbre vuestra luz delante de este pueblo, para que vean vuestras buenas obras y glorifiquen a vuestro Padre que está en los cielos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p16#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué atributo de las Bienaventuranzas sientes que necesitas desarrollar más en tu vida?",
+        "¿Cómo puedes ser una mejor luz para las personas que te rodean?",
+        "¿Qué significa venir a Cristo siendo 'pobre en espíritu'?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué pasó con el gobierno de los jueces?",
+      "options": [
+        "Se fortaleció",
+        "El pueblo se dividió en tribus y el gobierno colapsó",
+        "Se expandió",
+        "Continuó sin cambios"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué causó la caída del gobierno?",
+      "options": [
+        "Guerra externa",
+        "Orgullo, desigualdad y combinaciones secretas",
+        "Pobreza",
+        "Terremotos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hizo Nefi cuando vio la división?",
+      "options": [
+        "Se escondió",
+        "Predicó arrepentimiento con gran poder",
+        "Se fue del país",
+        "Renunció"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué señales y milagros hizo Nefi?",
+      "options": [
+        "Ninguno",
+        "Resucitó muertos y sanó enfermos",
+        "Solo predicó",
+        "Hizo trucos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál era el mensaje principal de Nefi?",
+      "options": [
+        "Buscar riquezas",
+        "Arrepentirse porque Cristo vendría pronto",
+        "Hacer guerra",
+        "Abandonar la tierra"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

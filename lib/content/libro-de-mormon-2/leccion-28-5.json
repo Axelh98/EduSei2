@@ -1,0 +1,74 @@
+{
+  "id": "leccion-28-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta lección repasa pasajes adicionales de dominio de la doctrina estudiados previamente. El objetivo es consolidar la memorización y la comprensión de estas doctrinas importantes. El repaso regular no solo ayuda a retener el conocimiento, sino que también permite reflexionar sobre cómo estos pasajes se han aplicado en la vida personal. Es una oportunidad para compartir experiencias sobre cómo el conocimiento de estas escrituras ha influido en decisiones y acciones."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuáles de los pasajes repasados te han sido más útiles recientemente?",
+        "¿Cómo has compartido alguno de estos pasajes con otros?",
+        "¿Qué conexiones observas entre los diferentes pasajes de dominio de la doctrina?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según Helamán 14:30, ¿qué nos hace libres?",
+      "options": [
+        "El dinero",
+        "Ser dejados para actuar por nosotros mismos según el albedrío",
+        "El poder",
+        "La fama"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Entre qué podemos escoger según este pasaje?",
+      "options": [
+        "Solo opciones buenas",
+        "Libertad eterna y vida, o cautividad y muerte",
+        "Solo opciones malas",
+        "No hay opciones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué don de Dios se enfatiza en estos versículos?",
+      "options": [
+        "La vida eterna automática",
+        "El albedrío o libre albedrío",
+        "La riqueza",
+        "El poder"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Somos responsables de nuestras elecciones?",
+      "options": [
+        "No",
+        "Sí, somos agentes para actuar por nosotros mismos",
+        "Solo a veces",
+        "Depende"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué viene con el don del albedrío?",
+      "options": [
+        "Falta de consecuencias",
+        "Responsabilidad por nuestras elecciones",
+        "Libertad sin límites",
+        "Ninguna obligación"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

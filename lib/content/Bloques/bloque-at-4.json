@@ -1,0 +1,83 @@
+{
+  "id": "bloque-at-4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué denuncia Isaías en el capítulo 1?",
+      "options": [
+        "La idolatría y corrupción del pueblo",
+        "La falta de templos",
+        "La escasez de alimentos",
+        "La ausencia de líderes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué visión presenta Isaías en el capítulo 2?",
+      "options": [
+        "El monte de la casa de Jehová exaltado",
+        "La destrucción de Babilonia",
+        "El regreso del pueblo de Egipto",
+        "La caída de Jerusalén"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué vio Isaías en su llamado profético en el capítulo 6?",
+      "options": [
+        "Al Señor sentado en un trono alto y sublime",
+        "Un ejército celestial",
+        "Un río de fuego",
+        "Un ángel con espada"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué símbolo profético aparece en Isaías 9?",
+      "options": [
+        "Un niño que nacería",
+        "Un cordero sacrificado",
+        "Un templo reconstruido",
+        "Un rey destronado"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo se llama el niño profetizado en Isaías 9:6?",
+      "options": [
+        "Príncipe de Paz",
+        "Hijo de David",
+        "Salvador del mundo",
+        "Rey de reyes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Qué describe Isaías en el capítulo 11?",
+      "options": [
+        "Un retoño del tronco de Isaí",
+        "La caída de Asiria",
+        "El regreso de los exiliados",
+        "La destrucción del templo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Qué expresa Isaías en el capítulo 12?",
+      "options": [
+        "Un cántico de alabanza a Jehová",
+        "Una lamentación por Jerusalén",
+        "Un juicio contra las naciones",
+        "Una profecía sobre Egipto"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

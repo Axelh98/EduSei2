@@ -1,0 +1,162 @@
+{
+  "id": "alma-7-1-13",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Cuando Alma visitó al pueblo de Gedeón, encontró personas más humildes y receptivas que las de Zarahemla. Por eso pudo enseñarles con mayor profundidad acerca de Jesucristo y Su expiación. Alma profetizó sobre el nacimiento del Salvador y explicó que Cristo tomaría sobre Sí dolores, enfermedades, tentaciones y pecados. Enseñó que el Salvador experimentó todas estas cosas para saber perfectamente cómo ayudarnos. Esta enseñanza revela que la Expiación no solo nos limpia del pecado, sino que también nos fortalece en nuestras debilidades y sufrimientos. Jesucristo comprende perfectamente cada prueba humana porque Él mismo las experimentó. Alma enseñó que debemos arrepentirnos y prepararnos espiritualmente para el reino de Dios."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 7:11",
+          "texto": "Y él saldrá, sufriendo dolores, aflicciones y tentaciones de todas clases.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Alma 7:12",
+          "texto": "Y tomará sobre sí la muerte, para soltar las ligaduras de la muerte que sujetan a su pueblo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p12#p12"
+        },
+        {
+          "referencia": "Alma 7:13",
+          "texto": "Y saldrá, sufriendo dolores y aflicciones y tentaciones de todas clases... para que sepa según la carne cómo socorrer a los de su pueblo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p13#p13"
+        },
+        {
+          "referencia": "Isaías 53:4-5",
+          "texto": "Ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=spa&id=p4-p5#p4"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dallin H. Oaks",
+      "fuente": "Liahona, noviembre de 2015 (discurso \"Fortalecidos por la expiación de Jesucristo\")",
+      "texto": "Nuestro Salvador padeció y sufrió la plenitud de todos los desafíos terrenales “según la carne” a fin de que, “según la carne”, supiera cómo “socorrer [lo cual significa prestar auxilio o ayuda] a los de su pueblo, de acuerdo con las debilidades de ellos”. Por consiguiente, Él conoce nuestros problemas, dolores, tentaciones y sufrimientos, porque por voluntad propia los padeció todos como parte esencial de Su expiación. Gracias a ello, la Expiación lo faculta para socorrernos, para darnos la fortaleza a fin de soportarlo todo",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=spa&id=p9#p9"
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Jeffrey R. Holland",
+      "fuente": "Christ and the New Covenant: The Messianic Message of the Book of Mormon, 1997, págs. 223–224; citado en el Manual del maestro de Seminario del Libro de Mormón (2024), Alma 7",
+      "texto": "Cristo caminó por la senda que todas las personas mortales tienen que recorrer, y lo hizo para saber cómo socorrernos y fortalecernos en nuestras épocas más difíciles. Él conoce las cargas más profundas y privadas que llevamos; conoce las penas más públicas y más agudas que pasamos. Él descendió por debajo de todo ese dolor a fin de poder elevarnos por encima de él. No existe angustia, pesar ni tristeza en la vida que Él no haya sufrido por nosotros y llevado sobre Sus valerosos y compasivos hombros.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/24-alma-5-7/243-teacher?lang=spa&id=p32#p32"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La Expiación de Jesucristo es infinita y personal. El Salvador no solo sufrió por los pecados de la humanidad, sino también por nuestras aflicciones, debilidades, enfermedades y dolores emocionales. Debido a ello, Él puede comprendernos perfectamente y socorrernos en cada circunstancia de la vida. Alma enseñó que Jesucristo venció tanto el pecado como la muerte para abrir el camino hacia la vida eterna. Esta verdad nos llena de esperanza porque nunca enfrentamos nuestras pruebas solos. Cuando acudimos al Salvador con fe y arrepentimiento, recibimos fortaleza, consuelo y sanación espiritual. La Expiación demuestra el amor perfecto que Jesucristo siente por cada uno de nosotros."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo te ayuda saber que Jesucristo comprende perfectamente tus dificultades?",
+        "¿Qué significa para ti que Cristo pueda socorrerte?",
+        "¿Cómo fortalece tu fe el estudio de la Expiación?",
+        "¿Qué aspecto de la Expiación aprecias más personalmente?",
+        "¿Cómo puedes acudir más plenamente al Salvador en tus pruebas?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué tomó Cristo sobre sí según Alma 7:11?",
+      "type": "multiple",
+      "options": [
+        "Únicamente nuestros pecados, sin ningún otro tipo de carga",
+        "Nada relacionado con nuestras luchas personales",
+        "Nuestros dolores, aflicciones, enfermedades, tentaciones y pecados",
+        "Solamente nuestras enfermedades físicas y nada más"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 7:11-12",
+      "explanation": "Cristo tomó sobre sí nuestros dolores, aflicciones, enfermedades, tentaciones y pecados."
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué experimentó Cristo todas estas cosas?",
+      "type": "multiple",
+      "options": [
+        "Sin ningún propósito específico mencionado en el texto",
+        "Para saber cómo socorrernos según nuestras enfermedades",
+        "Para demostrar que Él era superior a la humanidad",
+        "Porque estaba obligado a hacerlo sin poder elegir"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 7:12",
+      "explanation": "Cristo experimentó estas cosas para saber cómo socorrernos según nuestras enfermedades."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué nos invita a hacer Alma basándose en la Expiación?",
+      "type": "multiple",
+      "options": [
+        "A permanecer exactamente igual sin necesidad de cambiar",
+        "A juzgar con severidad las decisiones de otras personas",
+        "A despojarnos de la envidia, el orgullo y la mentira",
+        "A alcanzar la perfección únicamente por nuestro propio esfuerzo"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 7:22-23",
+      "explanation": "Alma nos invita a despojarnos de la envidia, el orgullo y la mentira gracias a la Expiación."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué profetiza Alma sobre el nacimiento de Cristo?",
+      "type": "multiple",
+      "options": [
+        "Que nacería en la ciudad de Roma, capital del imperio",
+        "Que Su nacimiento permanecería completamente en secreto",
+        "Que nacería muchos siglos después de lo profetizado",
+        "Que nacería en Jerusalén (significando la región)"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 7:10",
+      "explanation": "Alma profetiza que Cristo nacería en Jerusalén, refiriéndose a la región de Judea."
+    },
+    {
+      "id": 5,
+      "question": "Renata siente que nadie entiende lo que está pasando en su vida, ni siquiera Dios. ¿Qué le enseña Alma 7:11-12?",
+      "type": "multiple",
+      "options": [
+        "Que Dios no puede comprender completamente los problemas humanos",
+        "Que Cristo tomó sobre sí nuestros dolores y aflicciones para poder comprendernos y socorrernos",
+        "Que debe resolver sus problemas sin buscar ayuda espiritual",
+        "Que solo las personas mayores pueden entender su situación"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 7:11-12",
+      "explanation": "Cristo tomó sobre sí nuestros dolores y aflicciones para poder comprendernos y socorrernos."
+    },
+    {
+      "id": 6,
+      "question": "Bautista piensa que debe resolver solo sus problemas sin pedir ayuda a Dios. ¿Qué principio de este pasaje lo invita a cambiar de actitud?",
+      "type": "multiple",
+      "options": [
+        "Que pedir ayuda a Dios es señal de debilidad",
+        "Que Dios solo ayuda a quienes ya resolvieron parte del problema solos",
+        "Acudir a Cristo con confianza, ya que Él comprende nuestras debilidades y puede ayudarnos",
+        "Que es mejor no mencionar los problemas personales a nadie"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 7:12",
+      "explanation": "Podemos acudir a Cristo con confianza, ya que Él comprende nuestras debilidades y puede ayudarnos."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan que Cristo tomó nuestras aflicciones y la profecía de que nacería en Jerusalén?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación entre sí",
+        "Ambas muestran que la misión de Cristo fue real y concreta, cumplida en un lugar y tiempo específicos por amor a nosotros",
+        "Solo la profecía sobre Jerusalén tiene importancia histórica",
+        "Tomar nuestras aflicciones no tuvo relación con Su nacimiento real"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 7:10-12",
+      "explanation": "Ambas muestran que la misión de Cristo fue real y concreta, cumplida en un lugar y tiempo específicos por amor a nosotros."
+    }
+  ]
+}

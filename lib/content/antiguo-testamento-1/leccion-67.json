@@ -1,0 +1,129 @@
+{
+  "id": "leccion-67",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Esta cuarta evaluación es una pausa para mirar hacia atrás. Las últimas semanas cubrieron algunos de los relatos más poderosos del Antiguo Testamento: Josué cruzando el Jordán, la elección de servir a Jehová, el ciclo de Jueces, Gedeón con sus 300 hombres. No son solo historias de hace tres mil años. Son patrones de cómo Dios trabaja con Sus hijos.",
+        "El objetivo de una evaluación no es solo verificar qué recordás. Es preguntarse qué cambió. Alma 5 formula exactamente esa pregunta: '¿Podéis sentir eso ahora?' No '¿supiste sentirlo antes?'. Ahora.",
+        "Esta es una oportunidad para hacer esa pregunta con honestidad. ¿Qué relato de las últimas semanas resonó más profundamente en tu propia situación? ¿Hay algo que el Señor te ha estado diciendo a través de estas lecciones que todavía no terminaste de escuchar?"
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Josué 24:15",
+          "texto": "Escogeos hoy a quién habéis de servir... pero yo y mi casa serviremos a Jehová.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "Alma 5:26",
+          "texto": "Y ahora os digo, hermanos míos, si habéis experimentado un cambio de corazón... ¿podéis sentir eso ahora?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p26#p26"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Larry R. Lawrence",
+      "fuente": "\"¿Qué más me falta?\", Liahona, noviembre de 2015",
+      "texto": "Nuestro Padre Celestial conoce nuestro potencial divino. Él se regocija cada vez que avanzamos un paso. Para Él, la dirección en la que vamos es mucho más importante que nuestra velocidad. Hermanos y hermanas, sean constantes, pero nunca se desanimen.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/10/what-lack-i-yet?lang=spa&id=p31-p32#p31"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El crecimiento espiritual no se mide en cuántos capítulos leíste. Se mide en si algo cambió en la forma en que ves a Dios, te ves a vos mismo, y tratas a las personas que te rodean. Esta evaluación no tiene respuestas incorrectas. Tiene solo una pregunta real: ¿qué vas a hacer diferente a partir de hoy?"
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál fue la enseñanza de las últimas semanas que más impactó tu relación personal con el Señor?",
+        "¿Qué personaje de los relatos de Josué o Jueces te resultó más cercano a tu propia experiencia y por qué?",
+        "¿Hubo algo que aprendiste que te resultó difícil de aceptar o que cuestionó algo que ya pensabas?",
+        "¿Qué compromisos tomaste al comienzo del año en Seminario y cómo los has cumplido hasta ahora?",
+        "¿Hay alguna decisión que sepas que el Señor te invita a tomar pero que has estado postergando?",
+        "¿Qué acción concreta —algo que podás hacer antes de tu próxima clase de Seminario— tomarías como resultado de este período de estudio?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "En la lección de evaluación, se usó una imagen específica para reflexionar sobre el amor al Señor. ¿Qué imagen fue esa?",
+      "options": [
+        "Un escudo de guerrero que se va grabando con cada mandamiento guardado.",
+        "Una montaña que hay que escalar con pasos de fe.",
+        "Un corazón que se va rellenando según nuestros actos de devoción.",
+        "Un árbol cuyas raíces crecen con el estudio diario de las Escrituras."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "La lección repasó la serpiente de bronce de Números 21 como símbolo del Salvador. ¿Qué debían hacer los israelitas para ser sanados del veneno de las serpientes?",
+      "options": [
+        "Confesar sus pecados en voz alta ante Moisés y hacer una ofrenda en el tabernáculo.",
+        "Mirar la serpiente de bronce levantada en el asta, un acto sencillo de fe.",
+        "Tocar físicamente la serpiente de bronce con la mano derecha.",
+        "Ayunar por tres días y luego presentarse ante el sacerdote para ser declarados limpios."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "La lección enseña que la 'dirección en la que te dirigís es más importante que la velocidad'. ¿Qué implica este principio para alguien que siente que progresa lentamente en el Evangelio?",
+      "options": [
+        "Que debería esforzarse más para alcanzar el ritmo de sus compañeros de Seminario.",
+        "Que el crecimiento espiritual lento no vale la pena si no va acompañado de resultados visibles.",
+        "Que lo que importa es estar orientado hacia el Señor y seguir avanzando, aunque el paso sea pequeño.",
+        "Que la velocidad del progreso espiritual es irrelevante mientras se mantenga la membresía activa."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Reflexionar sobre los tipos y símbolos de Jesucristo en el Antiguo Testamento tiene un propósito específico según esta lección. ¿Cuál es?",
+      "options": [
+        "Demostrar que el Antiguo Testamento es literalmente igual al Nuevo Testamento en contenido.",
+        "Dirigir nuestros pensamientos hacia la misión y el poder del Salvador para sanarnos y liberarnos.",
+        "Aprender sobre la cultura hebrea antigua para entender mejor los rituales del templo moderno.",
+        "Confirmar que los profetas del Antiguo Testamento eran más fieles que los del Nuevo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Valentina siente que su fe es solo 'heredada' de sus padres y no realmente suya. Al evaluar su corazón usando la imagen de esta lección, ¿qué pregunta concreta le ayudaría más a avanzar?",
+      "options": [
+        "¿Mis padres guardan suficientemente bien los mandamientos como para que yo confíe en su ejemplo?",
+        "¿Qué actos concretos de devoción personal podría hacer esta semana para que ese corazón se llene con mis propias experiencias?",
+        "¿Estoy progresando más rápido que otros jóvenes de mi barrio en el Evangelio?",
+        "¿Debería dejar de asistir a Seminario hasta que decida creer por mi propia cuenta?"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Tomás dice que no tiene sentido evaluar su progreso espiritual porque 'no ha hecho nada malo'. Según el propósito de esta lección de evaluación, ¿qué le falta considerar?",
+      "options": [
+        "Que la evaluación espiritual solo sirve cuando uno ha cometido pecados graves que necesita confesar.",
+        "Que la evaluación no es solo sobre evitar el mal, sino también sobre reconocer bendiciones, crecimiento y ajustar el rumbo para acercarse más a Dios.",
+        "Que si no ha hecho nada malo, ya alcanzó el nivel espiritual que el Señor espera de un joven.",
+        "Que la evaluación espiritual es tarea exclusiva del obispo, no del individuo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "La serpiente de bronce (mirar con fe para ser sanado) y la evaluación del corazón (medir el progreso) son dos actividades muy distintas. Sin embargo, ambas apuntan al mismo centro. ¿Cuál es el principio que las une?",
+      "options": [
+        "Que los rituales externos son suficientes para mantener una relación activa con el Señor.",
+        "Que tanto la sanación como el crecimiento espiritual requieren una acción deliberada orientada hacia Jesucristo.",
+        "Que el Antiguo Testamento y el Nuevo Testamento enseñan principios completamente independientes.",
+        "Que la evaluación periódica reemplaza la necesidad de oración y estudio diario."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

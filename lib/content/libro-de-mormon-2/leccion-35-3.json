@@ -1,0 +1,84 @@
+{
+  "id": "leccion-35-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta es quizás la promesa más conocida del Libro de Mormón. Al estudiarla a fondo, aprendemos que Dios nos ofrece una manera personal y directa de conocer la veracidad del Evangelio y de las escrituras. El proceso consta de cuatro pasos esenciales: leer, recordar, meditar y orar. Si seguimos este patrón con fe y sinceridad, el Espíritu Santo nos dará un testimonio irrefutable."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Moroni 10:4",
+          "texto": "Y cuando recibáis estas cosas, quisiera exhortaros a que preguntéis a Dios el Eterno Padre, en el nombre de Cristo, si no son verdaderas estas cosas; y si pedís con un corazón sincero, con verdadera intención, teniendo fe en Cristo, él os manifestará la verdad de ellas por el poder del Espíritu Santo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p4#p4"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo describirías la diferencia entre hacer una pregunta casual y orar 'con un corazón sincero'?",
+        "¿Cómo mantienes tu testimonio fuerte después de haber recibido una respuesta inicial del Espíritu?",
+        "¿A quién podrías invitar a poner a prueba esta promesa de Moroni?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según Moroni 10:4, ¿qué debemos preguntar a Dios?",
+      "options": [
+        "Por riquezas",
+        "Si estas cosas no son verdaderas",
+        "Por poder",
+        "Por fama"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Con qué actitud debemos preguntar?",
+      "options": [
+        "Con duda",
+        "Con corazón sincero, con verdadera intención y fe en Cristo",
+        "Con orgullo",
+        "Con indiferencia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo manifestará Dios la verdad?",
+      "options": [
+        "Por señales",
+        "Por el poder del Espíritu Santo",
+        "Por milagros físicos",
+        "Por otras personas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué se puede conocer por el Espíritu Santo?",
+      "options": [
+        "Solo algunas cosas",
+        "La verdad de todas las cosas",
+        "Nada",
+        "Solo lo físico"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promesa es esta para los lectores del Libro de Mormón?",
+      "options": [
+        "No hay promesa",
+        "Que pueden saber por sí mismos que es verdadero",
+        "Solo para algunos",
+        "Que es imposible saberlo"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

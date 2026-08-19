@@ -1,0 +1,39 @@
+{
+  "id": "nt-s4-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué causó que Pedro comenzara a hundirse?",
+      "options": [
+        "Que no sabía nadar.",
+        "Que sintió miedo al ver la fuerza del viento.",
+        "Que Jesús lo empujó.",
+        "Que la barca se rompió."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué oración corta hizo Pedro al hundirse?",
+      "options": [
+        "\"Perdón por mis pecados\".",
+        "\"¡Señor, sálvame!\".",
+        "\"Ayúdame a nadar\".",
+        "\"No vuelvo a salir de la barca\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el resultado de centrar nuestra vista en Jesucristo según el presidente Howard W. Hunter?",
+      "options": [
+        "Que nunca tendremos problemas.",
+        "Seremos capaces de caminar triunfantes sobre olas de incredulidad.",
+        "Que seremos más ricos que Pedro.",
+        "Que no necesitaremos barcas."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

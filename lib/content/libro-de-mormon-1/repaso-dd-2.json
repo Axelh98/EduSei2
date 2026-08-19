@@ -1,0 +1,124 @@
+{
+  "id": "repaso-dd-2",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El propósito de este repaso es consolidar nuestra comprensión de las verdades fundamentales aprendidas hasta ahora en el Libro de Mormón. Dominar la doctrina no se trata solo de memorizar citas, sino de permitir que estas verdades se conviertan en parte de nuestro carácter. Al estudiar los pasajes clave, estamos construyendo un cimiento espiritual sobre la roca de nuestro Redentor, Jesucristo. Como enseñó el élder Dieter F. Uchtdorf: 'El estudio del Evangelio nos prepara para las tormentas de la vida, no solo al darnos conocimiento, sino al fortalecer nuestra capacidad de actuar con fe'. Este repaso nos invita a evaluar cuánto han influido estas doctrinas en nuestras decisiones recientes y cómo podemos compartirlas con mayor confianza."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 5:12",
+          "texto": "Y ahora bien, recordad, hijos míos, recordad que es sobre la roca de nuestro Redentor, el cual es Cristo, el Hijo de Dios, donde debéis establecer vuestro fundamento...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Al repasar estas doctrinas, reafirmamos nuestra decisión de seguir a Jesucristo. El conocimiento espiritual que hemos adquirido es una luz en un mundo oscuro. Nos comprometemos a continuar escudriñando las Escrituras, no solo por cumplir, sino para hallar al Salvador en cada página. Nuestra fe se fortalece al recordar constantemente las verdades que nos han sido reveladas a través del Libro de Mormón."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál de las doctrinas aprendidas hasta ahora ha sido la más importante para ti?",
+        "¿Cómo ha cambiado tu forma de reaccionar ante los problemas al recordar estas verdades?",
+        "¿Qué meta te propones para seguir profundizando en tu comprensión del Dominio de la doctrina?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el propósito del dominio de las escrituras?",
+      "type": "multiple",
+      "options": [
+        "Ganar premios y reconocimientos dentro de la clase de Seminario",
+        "Cumplir con un requisito necesario para graduarse del programa",
+        "Memorizar palabras exactas sin necesidad de comprenderlas",
+        "Internalizar verdades fundamentales para usarlas en la vida diaria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El propósito es internalizar verdades fundamentales para usarlas en la vida diaria."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué pasajes de Mosíah hemos estudiado hasta ahora?",
+      "type": "multiple",
+      "options": [
+        "Mosíah 1:1, 5:5, 6:3, 7:10",
+        "Mosíah 2:17, 2:41, 3:19, 4:9",
+        "Solo Mosíah 3:19 y nada más",
+        "Todos los capítulos de Mosíah por igual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hemos estudiado Mosíah 2:17, 2:41, 3:19 y 4:9 como pasajes fundamentales."
+    },
+    {
+      "id": 3,
+      "question": "¿Cuáles son los versículos de dominio de la doctrina que hemos visto hasta ahora?",
+      "type": "multiple",
+      "options": [
+        "Solo los versículos que se encuentran en el libro de Alma",
+        "Únicamente los versículos escritos originalmente en Doctrina y Convenios",
+        "Solamente uno o dos versículos cortos de Mosíah",
+        "1 Nefi 3:7, 2 Nefi 2:27, 2 Nefi 2:25, Mosíah 2:17, Mosíah 3:19, Mosíah 4:9"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hemos estudiado varios pasajes fundamentales, incluyendo los de 1 y 2 Nefi y de Mosíah."
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué es valioso memorizar estos versículos?",
+      "type": "multiple",
+      "options": [
+        "Para tener verdades fundamentales disponibles en momentos de necesidad",
+        "Para poder repetirlos rápidamente durante un examen escrito",
+        "Para demostrarle al maestro que estudiamos lo suficiente",
+        "Para completar una lista de requisitos del curso de Seminario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Memorizarlos nos da verdades fundamentales disponibles cuando más las necesitamos."
+    },
+    {
+      "id": 5,
+      "question": "Ian está por dar su primera clase y no sabe qué versículo de dominio usar para hablar de la fe. ¿Qué le recomendarías?",
+      "type": "multiple",
+      "options": [
+        "Elegir cualquier versículo al azar sin pensarlo demasiado",
+        "Elegir uno de los versículos de dominio y compartir también su propio testimonio de él",
+        "Leer directamente de un comentario sin usar las escrituras",
+        "Evitar usar versículos de dominio en una primera clase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se recomienda elegir un versículo de dominio y compartir el testimonio personal sobre su verdad."
+    },
+    {
+      "id": 6,
+      "question": "Guadalupe siente que memorizar versículos es aburrido y sin sentido. ¿Qué le explicarías sobre el propósito real del dominio de las escrituras?",
+      "type": "multiple",
+      "options": [
+        "Que memorizar es un fin en sí mismo, sin necesidad de aplicación",
+        "Que solo sirve para aprobar evaluaciones de Seminario",
+        "Que el objetivo no es solo memorizar, sino tener esas verdades listas para aplicarlas en la vida",
+        "Que memorizar escrituras no tiene ningún valor real"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo del dominio de las escrituras es tener esas verdades disponibles para aplicarlas en la vida diaria."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué tienen en común los distintos pasajes de dominio que hemos estudiado hasta ahora?",
+      "type": "multiple",
+      "options": [
+        "Tratan temas completamente independientes sin ninguna conexión",
+        "Todos apuntan a fortalecer la fe en Cristo y guiar decisiones concretas de la vida diaria",
+        "Solo sirven como ejercicio de memoria sin propósito espiritual",
+        "Únicamente se relacionan con la historia del pueblo nefita"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Todos los pasajes de dominio apuntan a fortalecer la fe en Cristo y guiar decisiones concretas de la vida diaria."
+    }
+  ]
+}

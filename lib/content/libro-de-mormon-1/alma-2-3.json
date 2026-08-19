@@ -1,0 +1,138 @@
+{
+  "id": "alma-2-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Amlici, al igual que Nehor, buscó convertirse en rey para destruir la libertad de los nefitas y la Iglesia. Su rebelión ilustra cómo las decisiones individuales de alejarse de la verdad pueden rápidamente escalar hacia conflictos colectivos y violencia. Los amlicitas se marcaron a sí mismos con rojo en la frente para distinguirse, cumpliendo así con profecías anteriores sobre las consecuencias de la rebelión. La lección nos enseña a vigilar nuestras propias 'marcas' —nuestras decisiones, amistades y actitudes— y a considerar si nos están alejando o acercando al convenio del Señor."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 3:18",
+          "texto": "Pues ellos mismos se pusieron la marca; y la marca era una marca de incredulidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=spa&id=p18#p18"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Robert D. Hales",
+      "fuente": "Liahona, mayo de 2015 (discurso \"Cómo preservar el albedrío y cómo proteger la libertad religiosa\")",
+      "texto": "Al caminar por el sendero de la libertad espiritual en estos últimos días, debemos entender que el uso fiel de nuestro albedrío depende de que tengamos o no libertad religiosa. Ya sabemos que Satanás no desea que tengamos esa libertad. Él intentó destruir el albedrío moral en los cielos; y ahora en la tierra está oponiéndose y diseminando confusión de manera implacable acerca de la libertad religiosa y socavándola; algo que es tan esencial para nuestra vida espiritual y nuestra propia salvación",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/04/preserving-agency-protecting-religious-freedom?lang=spa&id=p16,32#p16"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Nuestra verdadera marca es el nombre de Jesucristo escrito en nuestros corazones (Alma 5:14). Aunque el mundo intente marcarnos con sus propios valores o presiones, nosotros debemos decidir, día a día, pertenecer exclusivamente al Señor. La vigilancia espiritual y la lealtad a los principios de libertad y verdad son fundamentales para evitar el camino de Amlici."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo pueden nuestras decisiones cotidianas convertirse en una 'marca' de nuestra fe o falta de ella?",
+        "¿Por qué es importante elegir con quién nos asociamos y qué valores seguimos?",
+        "¿Cómo podemos fortalecer nuestro compromiso de ser fieles a pesar de las presiones de quienes nos rodean?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué quería Amlici?",
+      "type": "multiple",
+      "options": [
+        "Servir humildemente como consejero del pueblo",
+        "Ayudar a los pobres a mejorar su condición",
+        "Ser rey sobre el pueblo",
+        "Predicar el evangelio por toda la tierra"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 2:2",
+      "explanation": "Amlici quería ser rey sobre el pueblo."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué marca pusieron los amlicitas sobre sí mismos?",
+      "type": "multiple",
+      "options": [
+        "Una marca roja en la frente",
+        "Ninguna marca visible",
+        "Tatuajes en ambos brazos",
+        "Ropa de un color especial"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 3:4",
+      "explanation": "Los amlicitas se pusieron una marca roja en la frente para distinguirse."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué principio enseña Alma 3:26-27 sobre nuestras acciones?",
+      "type": "multiple",
+      "options": [
+        "Las acciones no tienen ninguna consecuencia eterna",
+        "Nuestras acciones y deseos nos traen recompensas buenas o malas",
+        "Solo la suerte determina lo que nos sucede en la vida",
+        "Otras personas son responsables de nuestras decisiones"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 3:26-27",
+      "explanation": "Nuestras acciones y deseos nos traen recompensas buenas o malas, según lo que elegimos."
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo intentó Amlici alcanzar su objetivo de gobernar?",
+      "type": "multiple",
+      "options": [
+        "Reuniendo un ejército para tomar el poder por la fuerza",
+        "Ganando una elección organizada por el pueblo",
+        "Convenciendo pacíficamente al pueblo de elegirlo juez",
+        "Pidiendo apoyo directo al rey de los lamanitas"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 2:2-9",
+      "explanation": "Al perder la votación del pueblo, Amlici reunió un ejército para tomar el poder por la fuerza."
+    },
+    {
+      "id": 5,
+      "question": "Nicolás quiere ser el líder de su equipo a toda costa, incluso pasando por encima de otros. ¿Qué advertencia le daría el ejemplo de Amlici?",
+      "type": "multiple",
+      "options": [
+        "Que el liderazgo siempre trae beneficios sin riesgos",
+        "Que está bien competir sin importar los métodos usados",
+        "Que buscar poder de forma egoísta puede llevar a consecuencias destructivas para uno mismo y para otros",
+        "Que Amlici tuvo éxito al final gracias a su ambición"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 2-3",
+      "explanation": "El ejemplo de Amlici muestra que buscar poder de forma egoísta trae consecuencias destructivas."
+    },
+    {
+      "id": 6,
+      "question": "Antonella se pregunta si sus decisiones diarias realmente importan a largo plazo. ¿Qué le enseña Alma 3:26-27?",
+      "type": "multiple",
+      "options": [
+        "Que las decisiones pequeñas no tienen ningún impacto real",
+        "Que nuestras acciones y deseos determinan las recompensas que recibimos, buenas o malas",
+        "Que solo las grandes decisiones importan ante Dios",
+        "Que el resultado de nuestras decisiones depende solo de la suerte"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 3:26-27",
+      "explanation": "Nuestras acciones y deseos determinan las recompensas que recibimos, buenas o malas."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué relación hay entre la marca que los amlicitas se pusieron ellos mismos y el principio de que nos separamos de Dios por nuestras propias elecciones?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación alguna entre sí",
+        "La marca fue impuesta por Dios sin relación con sus decisiones",
+        "Ambas muestran que las consecuencias de nuestras decisiones muchas veces las provocamos nosotros mismos",
+        "Solo el principio de separación de Dios es relevante aquí"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 3",
+      "explanation": "Ambas muestran que las consecuencias de nuestras decisiones muchas veces las provocamos nosotros mismos."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "nt-s11-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué significa el término \"hipócrita\" en el contexto de las enseñanzas de Jesús?",
+      "options": [
+        "Una persona que no sabe leer.",
+        "Alguien que finge ser algo que no es, especialmente en lo religioso.",
+        "Un soldado romano.",
+        "Un pecador que no quiere cambiar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué reprendió Jesús a los escribas y fariseos en Mateo 23?",
+      "options": [
+        "Por ser demasiado pobres.",
+        "Por hacer sus obras para ser vistos por los hombres.",
+        "Por no saberse las leyes.",
+        "Por viajar demasiado."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué metáfora usó Jesús para describir a los hipócritas que parecían limpios por fuera?",
+      "options": [
+        "Un árbol sin frutos.",
+        "Sepulcros blanqueados (hermosos por fuera, pero llenos de huesos por dentro).",
+        "Una red de pesca rota.",
+        "Una lámpara sin aceite."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la advertencia de Jesús para los que se ensalzan a sí mismos?",
+      "options": [
+        "Que serán reyes.",
+        "Que serán humillados.",
+        "Que no pasará nada.",
+        "Que recibirán más dinero."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

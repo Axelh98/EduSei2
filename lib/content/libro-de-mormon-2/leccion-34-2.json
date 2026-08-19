@@ -1,0 +1,89 @@
+{
+  "id": "leccion-34-2",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Como parte de Su Evangelio, Cristo detalla los requisitos para nuestra salvación: fe, arrepentimiento, bautismo y la recepción del Espíritu Santo. Enseña que ningún individuo inmundo puede entrar en el reino de Dios y enfatiza que debemos esforzarnos por ser las clases de personas que Él es. Finalmente, invita a Sus discípulos y a nosotros a ser representantes puros y perfectos de Su obra."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 27:19-20",
+          "texto": "Y ninguna cosa inmunda puede entrar en su reino... Y este es el mandamiento: Arrepentíos, todos vosotros, extremos de la tierra, y venid a mí y sed bautizados en mi nombre...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p19-p20#p19"
+        },
+        {
+          "referencia": "3 Nefi 27:27",
+          "texto": "...Por lo tanto, ¿qué clase de hombres habéis de ser? En verdad os digo, aun como yo soy.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p27#p27"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué atributo o característica de Jesucristo te gustaría incorporar más plenamente en tu vida ahora mismo?",
+        "¿Cómo te da esperanza el saber que el bautismo y el Espíritu Santo pueden purificarnos de 'cosa inmunda'?",
+        "¿Qué puedes hacer esta semana para acercarte más a ser como Él es?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué ejemplo deben seguir los discípulos?",
+      "options": [
+        "El del mundo",
+        "El ejemplo de Cristo",
+        "El de los reyes",
+        "El de los ricos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué clase de hombres deberíamos ser?",
+      "options": [
+        "Normales",
+        "Como Cristo",
+        "Promedio",
+        "Ordinarios"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo juzgará Cristo a los hombres?",
+      "options": [
+        "Por su riqueza",
+        "Según sus obras",
+        "Por su apariencia",
+        "Por su familia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué les pasará a los que hacen obras de justicia?",
+      "options": [
+        "Serán castigados",
+        "Recibirán vida eterna",
+        "Serán ignorados",
+        "Nada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué mandó Cristo escribir?",
+      "options": [
+        "Nada",
+        "Estas enseñanzas",
+        "Solo historia",
+        "Leyes políticas"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

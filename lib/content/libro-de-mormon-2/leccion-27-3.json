@@ -1,0 +1,94 @@
+{
+  "id": "leccion-27-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mientras Nefi camina hacia su casa después de predicar, el Señor le habla. Lo bendice por su fidelidad y le da un poder extraordinario: todo lo que selle en la tierra será sellado en el cielo. El Señor confía en Nefi porque sabe que no pedirá nada contrario a Su voluntad. Nefi recibe el poder del sacerdocio para sellar y desatar, similar al que el Salvador prometió a Pedro. Este capítulo ilustra las bendiciones que vienen por la fidelidad inquebrantable."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 10:4-5",
+          "texto": "Bendito eres tú, Nefi, porque no has procurado tu propia vida, sino que has procurado constantemente mi voluntad y guardar mis mandamientos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa&id=p4-p5#p4"
+        },
+        {
+          "referencia": "Helamán 10:7",
+          "texto": "Todo cuanto sellares en la tierra, será sellado en el cielo; y todo cuanto desatares en la tierra, será desatado en el cielo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "Helamán 10:10",
+          "texto": "He aquí, te doy poder para que declares ayunos a este pueblo; y te oirán.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué cualidades de Nefi hicieron que el Señor confiara en él con tal poder?",
+        "¿Cómo interpretas el poder de sellar en la tierra y el cielo?",
+        "¿Qué significa 'no procurar tu propia vida' sino la voluntad de Dios?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué bendición especial recibió Nefi del Señor?",
+      "options": [
+        "Riquezas",
+        "El poder de sellar en la tierra y en el cielo",
+        "Fama",
+        "Un cargo político"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué el Señor dio este poder a Nefi?",
+      "options": [
+        "Por su riqueza",
+        "Porque buscó diligentemente el bien del pueblo",
+        "Por su familia",
+        "Por su edad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué le prometió el Señor a Nefi sobre sus peticiones?",
+      "options": [
+        "Que serían ignoradas",
+        "Que serían concedidas porque no pediría nada contrario a Su voluntad",
+        "Que algunas serían negadas",
+        "Nada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué calamidad pidió Nefi para detener las guerras?",
+      "options": [
+        "Terremotos",
+        "Una hambruna",
+        "Inundaciones",
+        "Plagas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué nos enseña este capítulo sobre la revelación?",
+      "options": [
+        "Que no existe",
+        "Que Dios habla a Sus siervos fieles",
+        "Que es para todos",
+        "Que no importa"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

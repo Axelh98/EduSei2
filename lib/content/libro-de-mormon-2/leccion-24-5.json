@@ -1,0 +1,118 @@
+{
+  "id": "leccion-24-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mormón presenta un contraste entre dos líderes: Amalickíah y el capitán Moroni. Amalickíah usa el engaño y el asesinato para obtener el trono lamanita, motivado por el poder y la ambición. Moroni, en contraste, se prepara diligentemente para defender a su pueblo, motivado por el amor a Dios, familia y libertad. Este contraste ilustra que los motivos importan tanto como las acciones. El pasaje muestra cómo las habilidades pueden usarse para propósitos opuestos según las motivaciones."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Ulisses Soares",
+      "fuente": "Liahona, noviembre de 2020, pág. 84",
+      "texto": "Cuando resistimos las pequeñas tentaciones, las cuales a menudo vienen inesperadamente en nuestra vida, estamos mejor equipados para evitar las transgresiones más serias.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=spa&id=p12#p12"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 48:17",
+          "texto": "Moroni era un hombre que se deleitaba en salvar a su pueblo de la destrucción; no se deleitaba en derramar sangre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Alma 48:23",
+          "texto": "Dios preparó a este pueblo para su destrucción, a menos que se arrepintieran.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=spa&id=p23#p23"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué motiva principalmente tus decisiones: el servicio a otros o el beneficio personal?",
+        "¿Qué características distinguen a un líder justo de uno que busca su propio beneficio?",
+        "¿Cómo puedes reconocer y evitar las estrategias engañosas en tu vida?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo obtuvo Amalickíah el poder entre los lamanitas?",
+      "options": [
+        "Por engaño, traición y asesinato",
+        "Por herencia familiar directa",
+        "Gracias a sus méritos militares reconocidos por todos",
+        "Mediante una elección honesta"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿A quiénes hizo asesinar Amalickíah, de manera directa o indirecta, para obtener el poder?",
+      "options": [
+        "Al Capitán Moroni",
+        "A Alma el Joven",
+        "A sus propios amigos cercanos",
+        "Al líder rival Lehonti y luego al rey lamanita"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "Amalickíah elimina a Lehonti administrándole veneno 'poco a poco' para no levantar sospechas (Alma 47:18), y después hace asesinar al rey lamanita. ¿Qué patrón revela esta forma de actuar?",
+      "options": [
+        "Que prefería resolver los conflictos mediante una diplomacia genuina",
+        "Que sus seguidores lo abandonaron apenas notaron su ambición",
+        "Que actuaba siempre de manera abierta y honesta con sus rivales",
+        "Que usaba la paciencia y el engaño gradual, en lugar de la fuerza directa, para lograr sus ambiciones sin ser descubierto"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "¿Qué contraste establece este bloque de capítulos entre Amalickíah y el Capitán Moroni?",
+      "options": [
+        "Que uno busca el poder de forma egoísta mediante el engaño, mientras que el otro sirve a Dios y a su pueblo con integridad",
+        "Que ambos actuaban exclusivamente por ambición personal",
+        "Que no existe ningún contraste relevante entre ellos",
+        "Que ambos son prácticamente iguales en su forma de actuar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Un compañero de Camila logra ser elegido delegado de curso hablando mal de otros candidatos en secreto, en lugar de mostrar sus propias cualidades. ¿Qué advertencia del relato de Amalickíah se aplicaría a esta situación?",
+      "options": [
+        "Que el relato de Amalickíah no tiene ninguna aplicación en situaciones escolares",
+        "Que hablar mal de otros en secreto es una forma válida de destacar",
+        "Que buscar posiciones de poder o reconocimiento mediante el engaño o dañando a otros trae consecuencias destructivas, aunque a corto plazo parezca funcionar",
+        "Que ese tipo de estrategia es aceptable siempre que dé resultado"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Mateo siente mucha ambición por destacar en el equipo de fútbol, al punto de sentir celos y hablar mal de un compañero mejor que él. Según lo que enseña la historia de Amalickíah sobre la ambición desmedida, ¿qué le dirías?",
+      "options": [
+        "Que sentir ambición ya es, por sí mismo, un pecado grave",
+        "Que hablar mal de un compañero no tiene relación con la ambición",
+        "Que Amalickíah es un buen ejemplo a seguir para lograr sus metas",
+        "Que la ambición en sí no es mala, pero cuando se persigue por medios inicuos —como el engaño o dañar a otros— termina destruyendo a la persona y a quienes la rodean"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Tanto el ascenso de Amalickíah por engaño como el liderazgo justo de Moroni en los capítulos anteriores enseñan algo en común sobre el poder. ¿Cuál es?",
+      "options": [
+        "Que el carácter de una persona no tiene relación con la forma en que ejerce el poder",
+        "Que la forma en que alguien busca y usa el poder revela su verdadero carácter, ya sea para servir a otros o para servirse a sí mismo",
+        "Que el poder siempre corrompe a cualquier persona que lo obtiene",
+        "Que buscar el poder es incorrecto en cualquier circunstancia"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

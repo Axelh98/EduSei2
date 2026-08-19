@@ -1,0 +1,56 @@
+{
+  "id": "leccion-92",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué movió el corazón del rey Ciro para que permitiera a los israelitas regresar a Jerusalén?",
+      "options": [
+        "El poder militar de Israel.",
+        "El Señor despertó su espíritu para cumplir la profecía.",
+        "Una negociación económica favorable."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál fue una de las primeras acciones del pueblo al regresar a Jerusalén?",
+      "options": [
+        "Construir casas para los sacerdotes.",
+        "Restaurar el altar y reanudar los sacrificios al Señor.",
+        "Establecer un nuevo rey en la ciudad."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué lloraron algunos de los ancianos cuando vieron los cimientos del nuevo templo?",
+      "options": [
+        "Porque no les gustaba el diseño.",
+        "Porque recordaban la gloria del templo anterior y sentían nostalgia.",
+        "Porque pensaban que la obra sería imposible de terminar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué ejemplo nos da Esdras sobre cómo prepararse para cumplir el llamamiento del Señor?",
+      "options": [
+        "Esdras había preparado su corazón para buscar la ley del Señor y cumplirla.",
+        "Esdras esperó a que Dios le diera señales antes de actuar.",
+        "Esdras pidió ayuda al rey antes de acudir al Señor."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué verdad central aprendemos del libro de Esdras sobre el poder del Señor?",
+      "options": [
+        "Que el Señor solo actúa mediante reyes poderosos.",
+        "Que el Señor puede abrir puertas y mover corazones para restaurar a Su pueblo.",
+        "Que la restauración espiritual depende únicamente del esfuerzo humano."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

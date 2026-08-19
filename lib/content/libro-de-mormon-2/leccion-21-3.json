@@ -1,0 +1,123 @@
+{
+  "id": "leccion-21-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Los zoramitas pobres preguntan cómo deben ejercitar su fe sin tener un lugar de adoración. Alma responde citando a profetas antiguos como Zenós y Zenoc, quienes enseñaron que la adoración no se limita a un edificio específico. Según estos profetas, se puede orar en cualquier lugar: campos, casas, lugares privados o el desierto. Alma enfatiza que el enfoque central de la adoración debe ser Jesucristo y Su futura expiación."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Henry B. Eyring",
+      "fuente": "Liahona, mayo de 2014, pág. 24",
+      "texto": "Nuestro amoroso Padre Celestial nos dio el don de Su Amado Hijo Jesucristo como nuestro Salvador. Ese gran don y bendición de la expiación de Jesucristo ofrece un legado universal: la promesa de la resurrección y la posibilidad de la vida eterna a todos los que nacen.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2014/05/saturday-morning-session/a-priceless-heritage-of-hope?lang=spa&id=p29#p29"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 33:3-4",
+          "texto": "Zenós testificó que puedes adorar a Dios en tus campos, en tu casa, en tus aposentos secretos y en el desierto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/33?lang=spa&id=p3-p4#p3"
+        },
+        {
+          "referencia": "Alma 33:11",
+          "texto": "Si te vuelves al Hijo con todo tu corazón, y ejercitas tu fe en mí, entonces se te concederá misericordia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/33?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Alma 33:22-23",
+          "texto": "Plantad esta palabra en vuestros corazones. Comience a ejercitar vuestra fe en el Hijo de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/33?lang=spa&id=p22-p23#p22"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿En qué momentos adicionales del día podrías incorporar la oración personal?",
+        "¿Cómo interpretas el consejo de Alma sobre centrar la adoración en Jesucristo?",
+        "¿Qué aprendes de los testimonios de profetas antiguos como Zenós sobre la oración?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué pregunta específica le habían hecho a Alma los zoramitas más humildes, respecto a dónde se debe orar?",
+      "options": [
+        "Si estaba permitido creer sin pertenecer a ninguna sinagoga",
+        "Si tenían que adorar solo una vez por semana en la sinagoga, o si podían hacerlo en cualquier lugar",
+        "Si el bautismo era necesario antes de poder orar",
+        "Si los pobres podían entrar al templo de Zarahemla"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Alma cita el testimonio de dos profetas del Antiguo Testamento —no incluidos en la Biblia actual— para enseñar sobre la oración y el Hijo de Dios. ¿Quiénes son?",
+      "options": [
+        "Zenós y Zenoc",
+        "Malaquías y Nefi",
+        "Isaías y Jeremías",
+        "Moisés y Elías"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Zenós ora en el campo, en el desierto, en las congregaciones, y hasta cuando sus enemigos lo expulsan y lo desprecian, y Dios sigue escuchándolo (Alma 33:4–11). ¿Qué les enseña esto a los zoramitas sobre el lugar de la oración?",
+      "options": [
+        "Que hay que orar únicamente en el desierto, como hizo Zenós",
+        "Que la oración pública siempre vale más que la privada",
+        "Que Dios solo escucha oraciones hechas en lugares apartados y silenciosos",
+        "Que la ubicación física no determina si Dios escucha; lo que importa es la sinceridad del corazón"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "Alma compara mirar la serpiente de bronce con creer en el Hijo de Dios (Alma 33:19–22). ¿Por qué muchos israelitas no fueron sanados, a pesar de que la señal era tan sencilla?",
+      "options": [
+        "Porque Moisés no la había levantado en el lugar correcto",
+        "Porque solo los sacerdotes tenían permiso para mirarla",
+        "Porque la serpiente de bronce no tenía ningún poder real",
+        "Porque no creían que algo tan simple pudiera sanarlos, y por esa incredulidad no miraban"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Luca dice que no puede sentir la presencia de Dios porque en su casa 'no hay un buen ambiente' para orar. Según lo que Alma enseña sobre Zenós, ¿qué le dirías?",
+      "options": [
+        "Que Dios escuchó a Zenós en el campo, en el desierto y hasta cuando lo despreciaban; el lugar no es la limitación",
+        "Que solo se puede orar dentro de un templo o capilla",
+        "Que tiene razón: sin un lugar perfecto es imposible orar de verdad",
+        "Que debería esperar a tener su propio cuarto antes de intentar orar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Sofía cree que mejorar su vida espiritual 'no puede ser tan simple' como orar y leer las Escrituras todos los días; siente que necesita algo más dramático. Según el ejemplo de la serpiente de bronce, ¿qué le ayudaría a entender?",
+      "options": [
+        "Que solo los líderes de la Iglesia pueden tener experiencias espirituales fuertes",
+        "Que efectivamente necesita una experiencia más espectacular para que valga la pena",
+        "Que la simplicidad de un hábito espiritual no lo hace menos poderoso; muchos israelitas se perdieron justamente por menospreciar algo tan sencillo",
+        "Que las cosas simples nunca producen cambios reales"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la oración de Zenós en cualquier lugar como el simple acto de mirar la serpiente de bronce enseñan algo parecido sobre acercarse a Dios. ¿Cuál es el principio común que los une?",
+      "options": [
+        "Que solo los profetas pueden acercarse verdaderamente a Dios",
+        "Que la fe genuina no depende del lugar ni de la complejidad de la acción, sino de la disposición sincera del corazón",
+        "Que se necesitan señales espectaculares para poder creer",
+        "Que acercarse a Dios exige condiciones externas perfectas"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nt-s6-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la frase clave de Mateo 16:15–19?",
+      "options": [
+        "\"Tú eres el Cristo\".",
+        "\"Jesús dijo: '... a ti te daré las llaves del reino'\".",
+        "\"Nacer de agua y del Espíritu\".",
+        "\"Venid a mí\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué son las llaves del sacerdocio según el manual?",
+      "options": [
+        "Llaves físicas de los edificios.",
+        "La autoridad para dirigir el uso del sacerdocio a favor de los hijos de Dios.",
+        "Un código secreto de las Escrituras.",
+        "Títulos honoríficos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Quién posee todas las llaves del sacerdocio en la tierra hoy?",
+      "options": [
+        "Cada miembro de la Iglesia.",
+        "El Presidente de la Iglesia.",
+        "Únicamente los maestros de Seminario.",
+        "Los historiadores bíblicos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué principio de conocimiento espiritual nos invita a actuar con fe a pesar de la incertidumbre?",
+      "options": [
+        "Perspectiva eterna.",
+        "Actuar con fe.",
+        "Fuentes seculares.",
+        "Lógica humana."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Por qué son vitales las llaves del sacerdocio según el élder Stevenson?",
+      "options": [
+        "Para ser famosos.",
+        "Para acceder al vehículo necesario que nos lleva de regreso a Dios (ordenanzas).",
+        "Para tener más reuniones.",
+        "Para aprender idiomas antiguos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

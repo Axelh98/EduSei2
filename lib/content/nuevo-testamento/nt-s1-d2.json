@@ -1,0 +1,50 @@
+{
+  "id": "nt-s1-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué prometió el presidente Nelson a quienes se sumergen diariamente en la palabra de Dios?",
+      "options": [
+        "Éxito económico inmediato.",
+        "Poder adicional para lidiar con la tentación y la debilidad.",
+        "Que nunca volverán a tener problemas.",
+        "Conocimiento de todas las lenguas antiguas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué herramienta en las Escrituras aclara verdades perdidas o agrega claridad?",
+      "options": [
+        "El diccionario bíblico.",
+        "La Traducción de José Smith.",
+        "Los mapas bíblicos.",
+        "La concordancia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué significa la abreviatura \"GR\" en las notas al pie de página?",
+      "options": [
+        "Gran Revelación.",
+        "Griego (idioma original de la mayoría de los manuscritos).",
+        "Guía Rápida.",
+        "Glosario de Referencia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué sugiere el élder Christofferson sobre la calidad del estudio?",
+      "options": [
+        "Leer la mayor cantidad de páginas posible.",
+        "Prestar más atención al tiempo pasado en ellas que a la cantidad de texto leído.",
+        "No detenerse a meditar.",
+        "Estudiar sin orar."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

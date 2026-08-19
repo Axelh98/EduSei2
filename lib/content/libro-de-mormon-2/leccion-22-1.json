@@ -1,0 +1,123 @@
+{
+  "id": "leccion-22-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Alma relata a su hijo Helamán su experiencia de conversión. Describe cómo perseguía a la iglesia de Dios hasta que fue visitado por un ángel. Durante tres días experimentó un tormento intenso al recordar sus pecados, hasta que invocó el nombre de Jesucristo y recibió el perdón. El capítulo está estructurado como un quiasmo literario, con el momento de invocar a Cristo en el centro del relato, enfatizando este punto culminante de su conversión."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Boyd K. Packer",
+      "fuente": "Liahona, mayo de 1997",
+      "texto": "No tienen por qué saberlo todo para que el poder de la Expiación surta efecto en ustedes. Tengan fe en Cristo, ¡y empezará a surtir efecto el mismo día que lo pidan!",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/1997/04/washed-clean?lang=spa&id=p28#p28"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 36:3",
+          "texto": "Porque sé que el que deposite su confianza en Dios será sostenido en sus tribulaciones.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Alma 36:17-18",
+          "texto": "Recordé haber oído a mi padre profetizar concerniente a la venida de un Jesucristo. Clamé: ¡Oh Jesús, Hijo de Dios, ten misericordia de mí!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=spa&id=p17-p18#p17"
+        },
+        {
+          "referencia": "Alma 36:20-21",
+          "texto": "Mi alma anhelaba estar en la presencia de Dios. Nada tan intenso ni dulce como fue mi gozo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=spa&id=p20-p21#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿En qué ocasiones has experimentado cambios personales a través del arrepentimiento?",
+        "¿Qué te enseña la experiencia de Alma sobre invocar el nombre de Cristo en momentos difíciles?",
+        "¿Cómo podrías compartir tus propias experiencias de conversión con tu familia?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A quién le confía Alma la historia de su propia conversión al comienzo de este capítulo?",
+      "options": [
+        "A Coriantón",
+        "A Helamán",
+        "A Shiblón",
+        "A Ammón"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según el relato de Alma, ¿cuánto tiempo estuvo sin poder abrir la boca ni mover las manos tras la aparición del ángel?",
+      "options": [
+        "Una semana completa",
+        "Tres días y tres noches",
+        "Un mes",
+        "Unas horas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Alma describe su dolor como un 'tormento tan exquisito y tan agudo' al recordar sus pecados (Alma 36:12–14), y luego un gozo 'tan extremo como había sido mi dolor' (36:20) después de clamar a Cristo. ¿Qué enseña este contraste sobre el arrepentimiento?",
+      "options": [
+        "Que solo Alma, por ser un futuro profeta, podía sentir ese tipo de gozo",
+        "Que el dolor y el gozo espirituales no tienen ninguna relación entre sí",
+        "Que el dolor por el pecado desaparece solo con el paso del tiempo, sin intervención de Cristo",
+        "Que el gozo que trae el arrepentimiento verdadero, a través de Cristo, puede llegar a ser tan intenso como fue el dolor por el pecado"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "Alma recuerda a Helamán la liberación de sus antepasados de la esclavitud en Egipto y la compara con su propia liberación espiritual (Alma 36:28–29). ¿Qué principio conecta ambos eventos?",
+      "options": [
+        "Que Dios libera tanto de la esclavitud física como de la esclavitud espiritual del pecado, cuando confiamos en Él",
+        "Que Dios solo interviene en liberaciones físicas y masivas, no en luchas personales",
+        "Que la historia de Egipto no guarda ninguna relación con el arrepentimiento personal",
+        "Que Alma inventó la comparación sin base en las Escrituras que ya conocía"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Sofía descubrió un video que pone en duda la historia de la Iglesia y siente que su fe empieza a tambalearse. Recordando cómo Alma buscó alivio en medio de su angustia (Alma 36:18–19), ¿qué principio del capítulo le podrías compartir?",
+      "options": [
+        "Que solo la visita de un ángel puede resolver ese tipo de dudas",
+        "Que debe ignorar sus dudas y no hablar de ellas con nadie",
+        "Que la duda es señal de que su fe nunca fue real",
+        "Que, como Alma, puede clamar directamente a Jesucristo en medio de la angustia y buscar honestamente respuestas"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Un compañero le dice a Luca que 'una vez que hiciste algo tan grave, ya no hay vuelta atrás'. Usando el testimonio de Alma sobre su propio cambio radical, ¿qué le respondería Luca?",
+      "options": [
+        "Que cambiar es posible, pero únicamente sin ninguna ayuda de Dios",
+        "Que su compañero tiene razón, y que no vale la pena intentar cambiar",
+        "Que el ejemplo de Alma muestra que ningún pasado, por grave que sea, está fuera del alcance del cambio que ofrece Cristo",
+        "Que solo las personas jóvenes pueden cambiar de verdad"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la liberación de Israel de la esclavitud en Egipto como la propia conversión de Alma comparten un mismo principio sobre el poder de Dios. ¿Cuál es?",
+      "options": [
+        "Que Dios libera a su pueblo —física o espiritualmente— cuando este clama a Él con fe sincera",
+        "Que la liberación siempre ocurre sin que la persona haga absolutamente nada",
+        "Que ambos relatos son coincidencias históricas sin relación doctrinal",
+        "Que este tipo de liberación solo está disponible para los líderes religiosos"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

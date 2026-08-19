@@ -1,0 +1,61 @@
+{
+  "id": "nt-s8-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la frase clave del pasaje Juan 7:17?",
+      "options": [
+        "\"Yo soy el pan de vida\".",
+        "\"El que quiera hacer la voluntad de él conocerá si la doctrina es de Dios\".",
+        "\"Nacer de agua y del Espíritu\".",
+        "\"Venid a mí y yo os haré descansar\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué enseñó el presidente Dallin H. Oaks sobre el proceso de adquirir un testimonio?",
+      "options": [
+        "Que es un evento pasivo y automático.",
+        "Que no es algo pasivo, sino un proceso en el que se espera que hagamos algo.",
+        "Que solo los adultos pueden tenerlo.",
+        "Que se recibe únicamente al nacer."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué principio ayuda a un alumno frustrado que siente que aún no tiene un testimonio?",
+      "options": [
+        "Dejar de intentar.",
+        "Seguir viviendo las enseñanzas aunque el testimonio no llegue de inmediato.",
+        "Buscar respuestas en redes sociales.",
+        "Criticar la doctrina."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es un obstáculo común para obtener un testimonio según el manual?",
+      "options": [
+        "Hacer demasiadas preguntas.",
+        "La falta de disposición para actuar con fe en los mandamientos.",
+        "Leer el Libro de Mormón.",
+        "Orar con sinceridad."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué prometió el presidente Uchtdorf sobre el testimonio personal del Evangelio?",
+      "options": [
+        "Que es opcional.",
+        "Que es más importante que cualquier cosa que se pueda obtener en esta vida.",
+        "Que no requiere ningún esfuerzo.",
+        "Que se pierde si uno tiene dudas."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

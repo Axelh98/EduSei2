@@ -1,0 +1,61 @@
+{
+  "id": "nt-s13-d5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué principio de la Santa Cena ayuda a renovar nuestros convenios?",
+      "options": [
+        "El ayuno previo.",
+        "Participar en memoria del cuerpo y la sangre del Salvador.",
+        "Escuchar el coro.",
+        "La limpieza del edificio."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es un resultado de \"velar\" espiritualmente según la parábola de las diez vírgenes?",
+      "options": [
+        "No tener sueño físico.",
+        "Estar preparados para la Segunda Venida del Señor.",
+        "Saber la fecha exacta del fin del mundo.",
+        "Ser mejores que los demás."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo demostramos amor al Salvador según Sus enseñanzas en la Última Cena?",
+      "options": [
+        "Solo con palabras.",
+        "Guardando Sus mandamientos.",
+        "Con sacrificios de animales.",
+        "Viajando a Jerusalén."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué tipo de liderazgo enseñó Jesús al lavar los pies de Sus Apóstoles?",
+      "options": [
+        "Liderazgo autoritario.",
+        "Liderazgo de servicio.",
+        "Liderazgo político.",
+        "Liderazgo militar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué invita el Señor a hacer a quienes han fallado en sus metas espirituales?",
+      "options": [
+        "Rendirse.",
+        "Arrepentirse y seguir intentándolo.",
+        "Esperar al próximo año.",
+        "Sentirse culpables para siempre."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

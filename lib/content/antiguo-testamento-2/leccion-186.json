@@ -1,0 +1,56 @@
+{
+  "id": "leccion-186",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Es la ira siempre un sentimiento incorrecto o pecaminoso?",
+      "options": [
+        "Sí, toda forma de ira es un pecado.",
+        "No; sentir ira es normal, pero el problema surge cuando no la manejamos de manera saludable.",
+        "Solo es pecado si la expresas verbalmente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué consecuencias tiene la ira no resuelta en nuestras relaciones?",
+      "options": [
+        "Ninguna, si la guardamos para nosotros mismos.",
+        "Puede dañar relaciones, crear resentimientos y alejar el Espíritu Santo de nuestra vida.",
+        "Solo afecta a la persona que siente la ira, no a los demás."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué consejo da el Señor en las Escrituras sobre la ira, según Proverbios 15:1?",
+      "options": [
+        "'La ira del hombre obra la justicia de Dios.'",
+        "'La respuesta suave aplaca la ira, pero la palabra áspera hace subir el furor.'",
+        "'No expreses tu ira nunca, ni siquiera a Dios.'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es una estrategia efectiva para manejar la ira antes de reaccionar?",
+      "options": [
+        "Expresar inmediatamente todo lo que sientes para no guardarlo.",
+        "Hacer una pausa, respirar profundo y pedir al Espíritu Santo que te ayude a responder con calma.",
+        "Alejarte de las situaciones que te producen ira permanentemente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo puede el Evangelio de Jesucristo ayudarte a resolver la ira hacia alguien que te lastimó?",
+      "options": [
+        "El Evangelio enseña que debes ignorar lo que te hicieron.",
+        "A través del perdón que el Salvador hace posible, puedes soltar el resentimiento y encontrar paz.",
+        "El Evangelio solo aplica a situaciones espirituales, no a conflictos personales."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nt-s15-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Con qué señal entregó Judas Iscariote al Salvador a la multitud armada?",
+      "options": [
+        "Señalándole con la mano.",
+        "Con un beso.",
+        "Diciendo Su nombre en voz alta.",
+        "Entregándole una bolsa de plata."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué milagro realizó Jesús en el momento de Su arresto (Lucas 22:50–51)?",
+      "options": [
+        "Hizo caer fuego del cielo.",
+        "Sanó la oreja del siervo del sumo sacerdote.",
+        "Se volvió invisible.",
+        "Hizo que los guardias se durmieran."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál fue la respuesta de Jesús cuando el sumo sacerdote le preguntó si era el Cristo?",
+      "options": [
+        "\"No lo sé\".",
+        "\"Tú lo has dicho\" o \"Yo soy\".",
+        "\"Pregúntale a mis discípulos\".",
+        "Guardó silencio absoluto."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿De qué delito acusaron inicialmente los líderes judíos a Jesús ante el Sanedrín?",
+      "options": [
+        "De robo.",
+        "De blasfemia.",
+        "De traición a Roma.",
+        "De no pagar impuestos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo reaccionó Jesús ante las burlas y los golpes de los guardias?",
+      "options": [
+        "Los maldijo.",
+        "Soportó con paciencia y dignidad divinas.",
+        "Pidió ayuda a Pedro.",
+        "Trató de escapar."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

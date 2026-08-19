@@ -1,0 +1,61 @@
+{
+  "id": "nt-s6-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué prometió Jesús dar a Pedro en Mateo 16:19?",
+      "options": [
+        "Oro y plata.",
+        "Las llaves del reino de los cielos.",
+        "Un palacio en Jerusalén.",
+        "Victoria sobre los romanos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué poder otorgan las llaves del reino según el versículo 19?",
+      "options": [
+        "Poder para gobernar ejércitos.",
+        "Poder para atar y desatar en la tierra y en los cielos.",
+        "Poder para leer mentes.",
+        "Poder para viajar por el mundo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Quiénes aparecieron en el Monte de la Transfiguración con Jesús?",
+      "options": [
+        "Adán y Eva.",
+        "Moisés y Elías.",
+        "Abraham e Isaac.",
+        "Juan el Bautista y José."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué sucedió en el Monte de la Transfiguración según la Guía para el Estudio de las Escrituras?",
+      "options": [
+        "Jesús fue bautizado de nuevo.",
+        "Los profetas entregaron las llaves del sacerdocio a Pedro, Santiago y Juan.",
+        "Se organizó el primer quórum.",
+        "Jesús fue coronado rey físico."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué se requiere para llevar a cabo ordenanzas de salvación según el élder Stevenson?",
+      "options": [
+        "Solo buena voluntad.",
+        "La administración apropiada por medio de las llaves del sacerdocio.",
+        "Ser mayor de edad.",
+        "Leer libros de historia."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

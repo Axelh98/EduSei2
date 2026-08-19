@@ -1,0 +1,155 @@
+{
+  "id": "mosiah-14-16",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mientras enfrentaba el juicio y la oposición, Abinadí enseñó una de las doctrinas más profundas del Libro de Mormón acerca de Jesucristo. Citó las profecías de Isaías sobre el Mesías sufriente y explicó que solamente Jesucristo podía redimir a la humanidad del pecado y de la muerte. Abinadí enseñó que Cristo sufriría voluntariamente, sería rechazado y finalmente vencería la muerte mediante la resurrección. También explicó que aquellos que escuchan a los profetas y siguen a Cristo llegan a ser parte de Su familia espiritual. La enseñanza de Abinadí apuntaba completamente al Salvador y Su sacrificio expiatorio. En medio del rechazo y el odio, Abinadí dio testimonio del amor infinito de Jesucristo. Esta lección nos ayuda a comprender mejor por qué Cristo es el único camino hacia la salvación."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 14:3",
+          "texto": "Despreciado y desechado entre los hombres, varón de dolores, experimentado en quebranto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Mosíah 14:5",
+          "texto": "Mas él herido fue por nuestras transgresiones, molido por nuestras iniquidades.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Mosíah 15:9",
+          "texto": "Habiendo ascendido al cielo, teniendo las entrañas llenas de compasión hacia los hijos de los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Mosíah 16:9",
+          "texto": "Él es la luz y la vida del mundo; sí, una luz que es interminable.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/16?lang=spa&id=p9#p9"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "Liahona, mayo de 2013, pág. 109",
+      "texto": "Entre los títulos más significativos que describen a Jesucristo está el de Redentor. […] [L]a palabra redimir significa saldar una obligación o una deuda. Redimir también puede querer decir rescatar o liberar, como cuando se paga una fianza. Cuando alguien comete un error y luego lo corrige o remedia, decimos que se ha redimido. Cada uno de estos significados sugieren diferentes aspectos de la gran Redención que realizó Jesucristo con Su expiación, la cual incluye, según el diccionario, “librar del pecado y sus castigos mediante un sacrificio que se realiza a favor del pecador”.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/04/redemption?lang=spa&id=p4#p4"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Abinadí enseñó con claridad que Jesucristo es el centro del plan de salvación. Solo mediante Su sufrimiento, muerte y resurrección podemos vencer el pecado y la muerte. El Salvador sufrió voluntariamente por cada uno de nosotros porque nos ama perfectamente. Él comprende nuestras pruebas, dolores y debilidades porque las experimentó en la Expiación. Gracias a Jesucristo existe esperanza, perdón y vida eterna. El testimonio de Abinadí sigue invitándonos a confiar plenamente en el Redentor."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué aprendes sobre Jesucristo en Mosíah 14?",
+        "¿Por qué era necesario que Cristo sufriera por nosotros?",
+        "¿Cómo te ayuda saber que el Salvador comprende tus dolores?",
+        "¿Qué significa para ti que Cristo sea la luz y la vida del mundo?",
+        "¿Cómo puedes acercarte más al Salvador esta semana?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿De quién profetizó Isaías 53 (citado en Mosíah 14)?",
+      "type": "multiple",
+      "options": [
+        "De un rey terrenal que gobernaría con gran poder",
+        "De Moisés y su liderazgo sobre el pueblo de Israel",
+        "De Abraham y el sacrificio que se le pidió realizar",
+        "Del sufrimiento y la misión redentora de Jesucristo"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 14:4-5",
+      "explanation": "Isaías 53, citado en Mosíah 14, profetiza del sufrimiento y la misión redentora de Jesucristo."
+    },
+    {
+      "id": 2,
+      "question": "Según Mosíah 14:5, ¿por qué fue herido Cristo?",
+      "type": "multiple",
+      "options": [
+        "Por sus propios errores durante su vida terrenal",
+        "Por nuestras rebeliones y por nuestros pecados",
+        "Por un accidente que ocurrió durante su ministerio",
+        "Sin ninguna razón específica mencionada en el texto"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 14:5",
+      "explanation": "Cristo fue herido por nuestras rebeliones y por nuestros pecados."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué enseñó Abinadí sobre la naturaleza de Cristo según Mosíah 15:1-5?",
+      "type": "multiple",
+      "options": [
+        "Que Dios mismo descenderá y será el Padre y el Hijo",
+        "Que sería solamente un profeta más entre muchos otros",
+        "Que su naturaleza sería únicamente espiritual, sin cuerpo físico",
+        "Que no vendría a la tierra en esta dispensación"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 15:1",
+      "explanation": "Abinadí enseñó que Dios mismo descenderá entre los hijos de los hombres y será el Padre y el Hijo."
+    },
+    {
+      "id": 4,
+      "question": "Según Mosíah 14, ¿cómo sería recibido Cristo por los hombres?",
+      "type": "multiple",
+      "options": [
+        "Sería recibido con honores reales desde su nacimiento",
+        "Sería despreciado y desechado, sin que lo estimaran",
+        "Sería aclamado inmediatamente como el Mesías por todos",
+        "Viviría una vida cómoda, libre de sufrimiento"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 14:3",
+      "explanation": "Isaías profetizó que Cristo sería despreciado y desechado entre los hombres."
+    },
+    {
+      "id": 5,
+      "question": "Lautaro no entiende por qué Cristo tuvo que sufrir tanto si es Dios. ¿Qué le explica Mosíah 14 (Isaías 53) sobre esto?",
+      "type": "multiple",
+      "options": [
+        "Que Su sufrimiento fue un accidente inevitable",
+        "Que no existe ninguna razón clara para Su sufrimiento",
+        "Que Cristo tuvo que sufrir obligado por circunstancias externas",
+        "Que Cristo eligió sufrir voluntariamente por amor, para poder redimirnos"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 14",
+      "explanation": "Cristo eligió voluntariamente sufrir por amor, como parte de Su misión redentora."
+    },
+    {
+      "id": 6,
+      "question": "Milagros siente que nadie la entiende cuando pasa por algo difícil. ¿Qué le ofrece la enseñanza de que 'por su llaga fuimos curados'?",
+      "type": "multiple",
+      "options": [
+        "La certeza de que Cristo puede sanar y comprender su dolor personalmente",
+        "La idea de que su dolor no es tan importante comparado con el de Cristo",
+        "La instrucción de resolver su dolor completamente sola",
+        "La promesa de que su dolor desaparecerá de inmediato"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 14:5",
+      "explanation": "Por los sufrimientos de Cristo, Él puede comprender y ayudar a sanar nuestro dolor personal."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo conecta la profecía de Isaías 53 (Mosíah 14) con la enseñanza de que 'Dios mismo descenderá' (Mosíah 15)?",
+      "type": "multiple",
+      "options": [
+        "No tienen ninguna relación entre sí",
+        "Ambas revelan que el Redentor sería divino y a la vez sufriría como parte de Su misión",
+        "Solo una de las dos profecías se cumplió realmente",
+        "Muestran que Cristo no tendría un cuerpo físico real"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 14-15",
+      "explanation": "Ambas profecías revelan que el Redentor sería divino y a la vez sufriría como parte de Su misión terrenal."
+    }
+  ]
+}

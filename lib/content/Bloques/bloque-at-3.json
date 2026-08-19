@@ -1,0 +1,83 @@
+{
+  "id": "bloque-at-3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué regalo especial recibió José de su padre Jacob en Génesis 37?",
+      "options": [
+        "Un anillo de oro",
+        "Una túnica de muchos colores",
+        "Un bastón de mando",
+        "Un libro sagrado"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hicieron los hermanos de José por envidia en Génesis 37?",
+      "options": [
+        "Lo vendieron como esclavo",
+        "Lo nombraron líder",
+        "Lo enviaron a Egipto como mensajero",
+        "Lo coronaron rey"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hizo la esposa de Potifar en Génesis 39?",
+      "options": [
+        "Acusó falsamente a José",
+        "Lo liberó de prisión",
+        "Le dio un nuevo cargo",
+        "Lo protegió de sus enemigos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué resultado tuvo la falsa acusación contra José en Génesis 39?",
+      "options": [
+        "Fue encarcelado",
+        "Fue expulsado de Egipto",
+        "Fue condenado a muerte",
+        "Fue vendido nuevamente"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué interpretó José en Génesis 41?",
+      "options": [
+        "El sueño del faraón",
+        "El sueño de sus hermanos",
+        "El sueño de Potifar",
+        "El sueño de Jacob"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Qué significaban las vacas gordas y flacas en el sueño del faraón en Génesis 41?",
+      "options": [
+        "Años de guerra y paz",
+        "Años de abundancia y hambre",
+        "Años de esclavitud y libertad",
+        "Años de lluvia y sequía"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "¿Qué cargo recibió José después de interpretar el sueño del faraón en Génesis 41?",
+      "options": [
+        "Gobernador de Egipto",
+        "Sumo sacerdote",
+        "Capitán del ejército",
+        "Consejero real"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

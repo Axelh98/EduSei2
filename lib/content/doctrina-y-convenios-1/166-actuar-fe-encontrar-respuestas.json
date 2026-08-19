@@ -1,0 +1,117 @@
+{
+  "id": "166-actuar-fe-encontrar-respuestas",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En el mundo actual, abundan las preguntas difíciles sobre el evangelio. Historias complicadas, doctrinas que confunden, experiencias que no cuadran con lo que uno espera. ¿Qué hacés cuando tenés una pregunta para la que no encontrás respuesta fácil?",
+        "El cuarto y último principio para adquirir conocimiento espiritual es actuar con fe mientras se espera la respuesta. Esto significa: hacer lo que ya sabes que es correcto aunque no entiendas todo. Vivir según los principios del evangelio mientras buscás comprensión. No esperar certeza total para obedecer.",
+        "José Smith no tenía todas las respuestas cuando fue al bosque a orar. Actuó con fe primero. La respuesta vino después. Ese patrón se repite en toda la Escritura y en la vida de los santos fieles: actuar, luego recibir más luz. D&C 9:8 lo resume perfectamente: estudia el asunto en tu mente, luego pide confirmación. La fe activa precede a la confirmación espiritual."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 9:8",
+          "texto": "Pero he aquí, te digo que debes estudiar esto en tu mente; luego debes pedirme si es correcto, y si es correcto yo haré que tu seno arda dentro de ti; por tanto, sentirás que está bien.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "Juan 7:17",
+          "texto": "El que quiera hacer la voluntad de Dios, conocerá si la doctrina es de Dios, o si yo hablo por mi propia cuenta.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/7?lang=spa&id=p17#p17"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Jeffrey R. Holland",
+      "fuente": "\"Creo\", Conferencia General, abril de 2013 (Liahona, mayo de 2013, pág. 94)",
+      "texto": "Cuando lleguen esos momentos y surjan los problemas, y la resolución de esos problemas no sea inmediata, aférrense al conocimiento que ya tienen y manténganse firmes hasta que reciban más conocimiento.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/04/lord-i-believe?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Actuar con fe no significa ignorar las dudas; significa no dejar que las dudas paralicen la acción. Juan 7:17 promete que quien quiera hacer la voluntad de Dios llegará a conocer la doctrina. El conocimiento espiritual sigue a la obediencia fiel, no solo a la investigación intelectual. Esta semana, identificá una verdad del evangelio que dudás y actuá según ella de todas formas. Observá qué pasa."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué diferencia hay entre tener dudas y dejar que las dudas te paralicen? ¿Alguna vez viviste esa diferencia?",
+        "¿Qué pasos describe D&C 9:8 para recibir confirmación espiritual? ¿Cuál de esos pasos te resulta más difícil?",
+        "¿Podés recordar una vez que actuaste con fe antes de tener todas las respuestas? ¿Qué pasó?",
+        "¿Qué promete Juan 7:17 a quien quiere hacer la voluntad de Dios? ¿Cómo se relaciona eso con tus dudas actuales?",
+        "¿Qué verdad del evangelio sobre la que tenés preguntas podés actuar esta semana, aunque no tengas todas las respuestas todavía?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la diferencia entre tener dudas y dejar que las dudas te paralicen?",
+      "options": [
+        "No hay diferencia; cualquier duda es una señal de fe débil",
+        "Las dudas son preguntas naturales; paralizarse es no actuar según lo que ya sé mientras busco respuestas",
+        "Las dudas siempre desaparecen si uno ora suficiente",
+        "La parálisis solo ocurre cuando las dudas vienen de afuera, no de adentro"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "D&C 9:8 dice: 'estudia esto en tu mente; luego pídeme si es correcto'. ¿Cuál de estos pasos se omite más frecuentemente?",
+      "options": [
+        "El paso de orar, porque muchos oran pero sin haber estudiado el asunto primero",
+        "El paso de estudiar, porque muchos esperan que el Espíritu responda sin haber pensado antes",
+        "El paso de pedir confirmación, porque la gente ya está segura antes de preguntar",
+        "Ambos pasos se omiten por igual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Podés recordar una vez que actuaste con fe antes de tener todas las respuestas? ¿Qué pasó con tu testimonio después de dar ese paso?",
+      "options": [
+        "Actuar sin certeza siempre me generó arrepentimiento",
+        "Al actuar, llegaron confirmaciones espirituales que no habrían llegado si me quedaba quieto",
+        "Actuar con fe sin certeza es irresponsable y debo evitarlo",
+        "Las respuestas llegaron antes de que actuara, no después"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Juan 7:17 dice: 'el que quiera hacer la voluntad de Dios, conocerá si la doctrina es de Dios'. ¿Qué condición previa establece esa promesa?",
+      "options": [
+        "Haber estudiado teología avanzada antes de evaluar la doctrina",
+        "La disposición de hacer la voluntad de Dios, que precede al conocimiento espiritual",
+        "Haber recibido primero una manifestación sobrenatural del Espíritu",
+        "Tener el sacerdocio conferido antes de poder discernir la verdad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué verdad del evangelio sobre la que tenés preguntas podés actuar esta semana, aunque no tengas todas las respuestas todavía?",
+      "options": [
+        "No debo actuar en nada que no entienda completamente primero",
+        "Puedo elegir vivir un principio concreto y observar las consecuencias espirituales de ese experimento",
+        "Solo puedo actuar en las verdades que entiendo perfectamente",
+        "El Señor espera que tenga certeza completa antes de pedirme que actúe"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "José Smith fue al bosque a orar sin tener certeza de cuál iglesia era verdadera. ¿Qué principio demuestra su ejemplo para quien tiene dudas hoy?",
+      "options": [
+        "Que la respuesta siempre llega instantáneamente si la pregunta es sincera",
+        "Que actuar con fe — ir a preguntar, vivir el principio — es la condición que abre la puerta a la revelación",
+        "Que las dudas solo se resuelven estando completamente solos sin influencias externas",
+        "Que necesitamos una experiencia sobrenatural visible para confirmar cualquier verdad"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

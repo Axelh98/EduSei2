@@ -1,0 +1,104 @@
+{
+  "id": "alma-26",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué dice Ammón sobre el gozo que siente?",
+      "type": "multiple",
+      "options": [
+        "Afirma no sentir ningún tipo de gozo real",
+        "Se describe a sí mismo como una persona triste",
+        "Su gozo es pleno por los frutos de su labor",
+        "Muestra completa indiferencia ante los resultados"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 26:11",
+      "explanation": "Ammón declara que su gozo es pleno por los frutos de su labor misionera."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué habían sido los lamanitas antes de su conversión?",
+      "type": "multiple",
+      "options": [
+        "Personas rectas que ya seguían los mandamientos",
+        "Una nación completamente pacífica desde siempre",
+        "Misioneros dedicados a predicar el evangelio",
+        "Un pueblo feroz y sanguinario que se deleitaba en matar"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 26:23-25",
+      "explanation": "Los lamanitas habían sido un pueblo feroz y sanguinario que se deleitaba en matar."
+    },
+    {
+      "id": 3,
+      "question": "¿A quién atribuye Ammón el éxito de su misión?",
+      "type": "multiple",
+      "options": [
+        "A su propia fuerza y capacidad personal",
+        "Al poder y misericordia de Dios",
+        "A la buena suerte que tuvo durante el viaje",
+        "A su inteligencia y habilidad para convencer"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 26:12",
+      "explanation": "Ammón atribuye el éxito de su misión al poder y misericordia de Dios."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué reproche le hizo Aarón a Ammón sobre su gozo?",
+      "type": "multiple",
+      "options": [
+        "Que no debía sentir ningún tipo de gozo",
+        "Que estaba mintiendo sobre los resultados de la misión",
+        "Que no había trabajado lo suficiente durante la misión",
+        "Que se estaba jactando (pero Ammón clarificó que se gloriaba en el Señor)"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 26:10-16",
+      "explanation": "Aarón le reprochó que se estaba jactando, pero Ammón clarificó que se gloriaba en el Señor, no en sí mismo."
+    },
+    {
+      "id": 5,
+      "question": "Gael ayudó a un amigo a acercarse más a Dios y ahora se siente muy feliz por eso, pero teme que sea orgullo. ¿Qué le aclara Alma 26 sobre el gozo de Ammón?",
+      "type": "multiple",
+      "options": [
+        "Que sentir gozo por ayudar a otros siempre es una forma de orgullo",
+        "Que el gozo por ver a otros convertirse es apropiado cuando se atribuye el mérito a Dios, no a uno mismo",
+        "Que debe ocultar su alegría para parecer más humilde",
+        "Que solo los misioneros de tiempo completo pueden sentir ese tipo de gozo"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 26:11-16",
+      "explanation": "El gozo por ver a otros convertirse es apropiado cuando reconocemos que el mérito es de Dios, no nuestro."
+    },
+    {
+      "id": 6,
+      "question": "Emilia recuerda cómo era su vida antes de acercarse más a su fe y a veces se siente avergonzada de ese pasado. ¿Qué actitud de Ammón hacia los lamanitas conversos le ayudaría?",
+      "type": "multiple",
+      "options": [
+        "Reconocer que el cambio es posible para cualquiera, sin importar cuán lejos haya estado del camino correcto",
+        "Evitar hablar de su pasado con cualquier persona",
+        "Sentir que su pasado la descalifica para servir a otros",
+        "Comparar su pasado con el de otras personas para sentirse mejor"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 26:23-25",
+      "explanation": "Ammón reconoció que el cambio es posible para cualquiera, sin importar cuán lejos haya estado del camino correcto."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué relación hay entre el gozo de Ammón y el reconocimiento de que el éxito de su misión vino del poder de Dios?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "El verdadero gozo espiritual nace de reconocer que la obra fue posible gracias al poder de Dios, no al propio mérito",
+        "El gozo de Ammón era completamente independiente de su fe en Dios",
+        "Solo el reconocimiento del poder de Dios importa, sin relación con el gozo personal"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 26:12",
+      "explanation": "El verdadero gozo espiritual de Ammón nació de reconocer que el éxito de su misión vino del poder de Dios."
+    }
+  ]
+}

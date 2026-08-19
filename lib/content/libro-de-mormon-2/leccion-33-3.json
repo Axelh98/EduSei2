@@ -1,0 +1,89 @@
+{
+  "id": "leccion-33-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Moroni expresa su preocupación de que, debido a su propia debilidad en la escritura y la imperfección de los gentiles del futuro, las personas se burlen de las palabras del Libro de Mormón. El Señor lo reconforta enseñándole un principio fundamental del Evangelio: Dios nos da debilidades para que seamos humildes. Cuando venimos a Cristo y confiamos en Su gracia, Él hace que esas cosas débiles se vuelvan fuertes."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Éter 12:26",
+          "texto": "Y cuando hube dicho esto, el Señor me habló, diciendo: Los insensatos hacen burla, mas se lamentarán; y mi gracia es suficiente para los mansos...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p26#p26"
+        },
+        {
+          "referencia": "Éter 12:27",
+          "texto": "Y si los hombres vienen a mí, les mostraré su debilidad. Doy a los hombres debilidad para que sean humildes; y mi gracia es suficiente para todos los hombres que se humillan ante mí...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p27#p27"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál es la diferencia entre que el Señor 'nos dé debilidad' a que tengamos 'pecado'?",
+        "¿Por qué es necesaria la humildad antes de que Cristo pueda convertir una debilidad en una fortaleza?",
+        "¿De qué manera la 'gracia' de Cristo ha sido suficiente para ti en momentos de insuficiencia?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué preocupación expresó Moroni sobre las escrituras?",
+      "options": [
+        "Que eran perfectas",
+        "Que los gentiles se burlarían de su debilidad al escribir",
+        "Que eran muy largas",
+        "Ninguna preocupación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué respondió el Señor sobre las debilidades?",
+      "options": [
+        "Que son malas",
+        "Que da debilidades para que sean humildes",
+        "Que no existen",
+        "Que son castigos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué promete el Señor a los humildes?",
+      "options": [
+        "Riquezas",
+        "Que Su gracia es suficiente y las debilidades se harán fuertes",
+        "Poder terrenal",
+        "Fama"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué permite Dios que tengamos debilidades?",
+      "options": [
+        "Para castigarnos",
+        "Para que seamos humildes y acudamos a Él",
+        "Sin razón",
+        "Para avergonzarnos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuándo se convierten las debilidades en fortalezas?",
+      "options": [
+        "Automáticamente",
+        "Cuando nos humillamos y confiamos en Cristo",
+        "Nunca",
+        "Por suerte"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

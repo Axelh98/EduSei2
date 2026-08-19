@@ -1,0 +1,28 @@
+{
+  "id": "bloque-nt-9",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué describe Pablo como características de los últimos días en 2 Timoteo 3:1-2?",
+      "options": [
+        "La fe y la paciencia",
+        "La impiedad y la desconfianza",
+        "La justicia y la humildad",
+        "La obediencia y el amor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué dice Pablo sobre las Escrituras en 2 Timoteo 3:16-17?",
+      "options": [
+        "Que son útiles para enseñar, para reprender, para corregir y para instruir en justicia",
+        "Que son útiles solo para la fe",
+        "Que son útiles solo para la obediencia",
+        "Que son útiles solo para la justicia"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

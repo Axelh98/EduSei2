@@ -1,0 +1,231 @@
+{
+  "categoryId": "religion-301",
+  "layoutType": "flat",
+  "lessons": [
+    {
+      "id": "r301-l01",
+      "title": "Lección 1: Las visiones sagradas de Moisés y Abraham",
+      "description": "Moisés 1; Abraham 3. Las visiones recibidas por los profetas sobre la grandeza de Dios y el propósito de la creación.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/01-moses-1-abraham-3?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l02",
+      "title": "Lección 2: Jesucristo creó la tierra bajo la dirección del Padre Celestial",
+      "description": "Génesis 1–2; Moisés 2–3; Abraham 4–5. La creación bajo la dirección del Padre Celestial.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/02-genesis-1-2-moses-2-3-abraham-4-5?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l03",
+      "title": "Lección 3: La Caída fue una parte fundamental del plan de Dios",
+      "description": "Génesis 3–4; Moisés 4–5. La importancia de la Caída y la redención por medio de Jesucristo.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/03-genesis-3-4-moses-4-5?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l04",
+      "title": "Lección 4: Enoc fue llamado y facultado por Dios para predicar el Evangelio",
+      "description": "Génesis 5; Moisés 6. El llamado de Enoc y su ministerio profético.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/04-genesis-5-moses-6?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l05",
+      "title": "Lección 5: Enoc y el pueblo de Sion",
+      "description": "Moisés 7. Enoc y su ciudad se convirtieron en el pueblo de Sion del Señor y fueron llevados al cielo.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/05-moses-7?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l06",
+      "title": "Lección 6: El Diluvio y la Torre de Babel",
+      "description": "Génesis 6–11; Moisés 8. El diluvio en tiempos de Noé y la dispersión de las naciones.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/06-genesis-6-11-moses-8?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l07",
+      "title": "Lección 7: Los tratos de Dios con Abraham y su familia",
+      "description": "Génesis 12–17; Abraham 1–2. El convenio abrahámico y su importancia eterna.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/07-genesis-12-17-abraham-1-2?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l08",
+      "title": "Lección 8: La obediencia de Abraham",
+      "description": "Génesis 18–23. La familia de Lot huye de Sodoma. Abraham obedece al Señor.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/08-genesis-18-23?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l09",
+      "title": "Lección 9: Isaac, Jacob y Rebeca",
+      "description": "Génesis 24–33. Relatos de la vida de Isaac y Rebeca, y de sus hijos Jacob y Esaú.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/09-genesis-24-33?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l10",
+      "title": "Lección 10: José en Egipto",
+      "description": "Génesis 37–41. José fue vendido como esclavo en Egipto. El Señor estuvo con José durante sus pruebas.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/10-genesis-37-41?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l11",
+      "title": "Lección 11: José guía a Egipto y salva a su familia",
+      "description": "Génesis 42–50. José guía a Egipto durante una hambruna y salva a su familia.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/11-genesis-42-50?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l12",
+      "title": "Lección 12: Moisés y el Éxodo",
+      "description": "Éxodo 1–6. Dios llama a Moisés para sacar a los israelitas de Egipto.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/12-exodus-1-6?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l13",
+      "title": "Lección 13: La Pascua y las plagas de Egipto",
+      "description": "Éxodo 7–13. Dios envía diez plagas a Egipto e instituye la Pascua para librar a los israelitas.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/13-exodus-7-13?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l14",
+      "title": "Lección 14: La división del mar Rojo y el maná en el desierto",
+      "description": "Éxodo 14–18. La liberación milagrosa del pueblo de Israel y su sustento en el desierto.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/14-exodus-14-18?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l15",
+      "title": "Lección 15: El desierto y la ley del Sinaí",
+      "description": "Éxodo 19–20; 24; 31–34. El Señor hace convenio con Israel y revela los Diez Mandamientos.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/15-exodus-19-20-24-31-34?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l16",
+      "title": "Lección 16: El tabernáculo y la adoración",
+      "description": "Éxodo 35–40; Levítico 1; 4; 16; 19. El Señor mandó construir un tabernáculo y ofrecer sacrificios.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/16-exodus-35-40-leviticus-1-4-16-19?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l17",
+      "title": "Lección 17: Generaciones en el desierto",
+      "description": "Números 11–14; 20–24; 27. Moisés envía espías a la tierra prometida y levanta la serpiente de bronce.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/17-numbers-11-14-20-24-27?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l18",
+      "title": "Lección 18: El consejo final de Moisés",
+      "description": "Deuteronomio 6–8; 15; 18; 29–30; 34. El consejo final de Moisés a los hijos de Israel antes de entrar en la tierra prometida.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/18-deuteronomy-6-8-15-18-29-30-34?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l19",
+      "title": "Lección 19: Los hijos de Israel entran a la tierra prometida",
+      "description": "Josué 1–8; 23–24. Los hijos de Israel entran a la tierra prometida bajo el liderazgo de Josué.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/19-joshua-1-8-23-24?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l20",
+      "title": "Lección 20: El ciclo de los Jueces",
+      "description": "Jueces 2–4; 6–8; 13–16. Israel cae repetidamente en el pecado, pero Dios levanta jueces para librarlos cuando se arrepienten.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/20-judges-2-4-6-8-13-16?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l21",
+      "title": "Lección 21: Rut demuestra su fidelidad. Jehová habla a Samuel",
+      "description": "Rut; 1 Samuel 1–7. La fidelidad de Rut, la oración de Ana y el llamamiento del joven Samuel.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/21-ruth-1-samuel-1-7?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l22",
+      "title": "Lección 22: El ascenso y la caída del rey Saúl, y la unción de David",
+      "description": "1 Samuel 8–10; 13; 15–16. El ascenso y la caída del rey Saúl, y la unción de David como el siguiente rey.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/22-1-samuel-8-10-13-15-16?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l23",
+      "title": "Lección 23: David: fe frente a Goliat, integridad ante Saúl y el convenio davídico",
+      "description": "1 Samuel 17–18; 24–26; 2 Samuel 5–7. La fe de David ante Goliat, su integridad al perdonar a Saúl y las promesas del convenio davídico.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/23-1-samuel-17-18-24-26-2-samuel-5-7?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l24",
+      "title": "Lección 24: La caída del rey David, y el ascenso y la caída del rey Salomón",
+      "description": "2 Samuel 11–12; 1 Reyes 3; 6–9; 11. La caída de David, la sabiduría de Salomón y su eventual apostasía.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/24-2-samuel-11-12-1-kings-3-6-9-11?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    },
+    {
+      "id": "r301-l25",
+      "title": "Lección 25: Elías el Profeta: fe, milagros y la voz apacible y delicada",
+      "description": "1 Reyes 12–13; 17–22. Elías bendice a una viuda, hace descender fuego del cielo y oye al Señor en una voz apacible y delicada.",
+      "type": "Religión 301",
+      "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/old-testament-institute-teacher-manual-2026/25-1-kings-12-13-17-22?lang=spa",
+      "questionCount": 5,
+      "hasStudy": true
+    }
+  ]
+}

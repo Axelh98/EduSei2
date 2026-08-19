@@ -1,0 +1,83 @@
+{
+  "id": "doctrina-y-convenios-76-1-19",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué estaban estudiando José Smith y Sidney Rigdon cuando recibieron la visión registrada en Doctrina y Convenios 76?",
+      "options": [
+        "Apocalipsis 21",
+        "Juan 5:29",
+        "Mateo 24",
+        "Isaías 53"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Dónde ocurrió la visión de Doctrina y Convenios 76?",
+      "options": [
+        "En la casa de John y Elsa Johnson en Hiram, Ohio",
+        "En la imprenta de Kirtland",
+        "En la granja de los Whitmer",
+        "En Nauvoo, Illinois"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Según Doctrina y Convenios 76:11–19, qué hicieron José y Sidney para prepararse para recibir la visión?",
+      "options": [
+        "Ayunaron por varios días",
+        "Meditaron en las Escrituras y buscaron al Señor en oración",
+        "Consultaron a los líderes locales",
+        "Guardaron silencio sin estudiar nada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Qué verdad podemos aprender de la experiencia de José y Sidney al recibir la visión?",
+      "options": [
+        "Que las visiones solo ocurren en el pasado",
+        "Que meditar en las Escrituras conduce a la revelación",
+        "Que la revelación depende únicamente de líderes de la Iglesia",
+        "Que no es necesario estudiar para recibir revelación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Qué significa “temer a Dios” según Doctrina y Convenios 76:5?",
+      "options": [
+        "Tener miedo constante de Él",
+        "Adorarlo, amarlo y tenerle reverencia",
+        "Evitar hablar de Él",
+        "Guardar silencio en las reuniones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Qué enseñó el élder D. Todd Christofferson sobre estudiar y meditar en las Escrituras?",
+      "options": [
+        "Que debemos leer sin detenernos",
+        "Que la meditación en las Escrituras puede conducir a la revelación por medio del Espíritu Santo",
+        "Que solo los profetas reciben revelación al estudiar",
+        "Que la revelación no depende de las Escrituras"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Qué pasajes de las Escrituras se sugieren para practicar la meditación y recibir revelación?",
+      "options": [
+        "Enós 1, Mosíah 3, Alma 36, Moisés 1",
+        "Génesis 1, Éxodo 20, Levítico 11, Números 12",
+        "Mateo 5, Marcos 10, Lucas 15, Juan 3",
+        "Apocalipsis 12, Daniel 7, Isaías 6, Jeremías 1"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

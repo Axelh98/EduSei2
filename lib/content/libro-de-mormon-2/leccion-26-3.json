@@ -1,0 +1,89 @@
+{
+  "id": "leccion-26-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Estos capítulos describen periodos de conversión masiva y prosperidad espiritual entre los nefitas y lamanitas. Miles se unen a la iglesia, se bautizan, y experimentan gran gozo. El éxito se atribuye a la humildad del pueblo y a la predicación poderosa. Sin embargo, también describe cómo el orgullo eventualmente regresa cuando el pueblo prospera. El patrón ilustra que la humildad trae bendiciones espirituales, mientras que el orgullo lleva a la apostasía."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 3:33-34",
+          "texto": "El Señor derramó su Espíritu. Se humillaron, y fueron santificados por la recepción del Espíritu Santo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/3?lang=spa&id=p33-p34#p33"
+        },
+        {
+          "referencia": "Helamán 6:36",
+          "texto": "Y así vemos que el Señor empezó a derramar su Espíritu sobre los lamanitas, por motivo de su facilidad para creer en sus palabras.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=spa&id=p36#p36"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué relación observas entre la humildad y la prosperidad espiritual en estos capítulos?",
+        "¿Cómo se manifiesta la 'facilidad para creer' en la vida de alguien?",
+        "¿Qué puedes hacer para mantener la humildad durante tiempos de prosperidad?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué hicieron Nefi y Lehi cuando vieron la iniquidad del pueblo?",
+      "options": [
+        "Se rindieron",
+        "Renunciaron a sus posiciones políticas para predicar",
+        "Se escondieron",
+        "Huyeron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué les recordó su padre Helamán sobre sus nombres?",
+      "options": [
+        "Que eran comunes",
+        "Que recordaran el ejemplo de Lehi y Nefi ancestros",
+        "Que no importaban",
+        "Que los cambiaran"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Sobre qué fundamento deben edificar según Helamán 5:12?",
+      "options": [
+        "La arena",
+        "La roca de Cristo",
+        "Sus propias fuerzas",
+        "La popularidad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué milagro ocurrió cuando Nefi y Lehi fueron encarcelados?",
+      "options": [
+        "Escaparon",
+        "Fueron rodeados de fuego y protegidos por Dios",
+        "Murieron",
+        "Nada especial"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuántos lamanitas se convirtieron después del milagro?",
+      "options": [
+        "Ninguno",
+        "Pocos",
+        "Unos 300, incluyendo guardias",
+        "Todos los lamanitas"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

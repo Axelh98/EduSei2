@@ -1,0 +1,965 @@
+{
+  "categoryId": "libro-de-mormon-1",
+  "layoutType": "weekly",
+  "weeks": [
+    {
+      "id": 1,
+      "title": "Semana 1",
+      "dateRange": "4 al 08 marzo",
+      "lessons": [
+        {
+          "id": "plan-de-salvacion",
+          "title": "El Plan de Salvación",
+          "description": "Comprender el propósito de nuestra vida y el papel del Salvador.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/01-introductory-materials/011-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "estudio-escrituras",
+          "title": "El estudio de las Escrituras",
+          "description": "Desarrollar habilidades para un estudio eficaz de la palabra de Dios.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/01-introductory-materials/012-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "aprender-espiritu",
+          "title": "Aprender por el Espíritu",
+          "description": "Principios para recibir revelación personal a través del Espíritu Santo.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/01-introductory-materials/013-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "aprender-por-fe",
+          "title": "Aprender mediante la fe en Jesucristo",
+          "description": "Cómo la fe en Cristo puede fortalecer nuestro aprendizaje y crecimiento espiritual.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/01-introductory-materials/014-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "conocimiento-espiritual-1",
+          "title": "Adquirir conocimiento espiritual: Parte 1",
+          "description": "Principios para resolver dudas y fortalecer el testimonio.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/01-introductory-materials/015-teacher?lang=spa",
+          "questionCount": 0,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Semana 2",
+      "dateRange": "10 al 15 marzo",
+      "lessons": [
+        {
+          "id": "portada-libro-mormon",
+          "title": "Portada",
+          "description": "Estudio del propósito declarado del Libro de Mormón.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/02-introductory-pages/021-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "introduccion-libro-mormon",
+          "title": "Introducción al Libro de Mormón",
+          "description": "Origen y propósito del libro fundamental de nuestra religión.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/02-introductory-pages/022-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "testimonio-jose-smith",
+          "title": "El testimonio de José Smith del Libro de Mormón",
+          "description": "Relato de la salida a luz de las planchas de oro.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/02-introductory-pages/023-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "testigos-libro-mormon",
+          "title": "El Testimonio de Tres Testigos y de Ocho Testigos",
+          "description": "La importancia de los testigos en la veracidad del libro.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/02-introductory-pages/024-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "conocimiento-espiritual-2",
+          "title": "Adquirir conocimiento espiritual: Parte 2",
+          "description": "Continuación de los principios para obtener luz espiritual.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/02-introductory-pages/025-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Semana 3",
+      "dateRange": "18 al 22 marzo",
+      "lessons": [
+        {
+          "id": "2-nefi-31-14-21",
+          "title": "2 Nefi 31:14–21",
+          "description": "La senda estrecha y angosta y el fin de la fe.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/13-2-nephi-31-33/132-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "2-nefi-32-1-7",
+          "title": "2 Nefi 32:1–7",
+          "description": "Deleitaos en las palabras de Cristo.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/13-2-nephi-31-33/133-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "dd-2-nefi-32-3",
+          "title": "Dominio de la doctrina: 2 Nefi 32:3",
+          "description": "Dominar la enseñanza de que las palabras de Cristo nos dirán todas las cosas.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/13-2-nephi-31-33/134-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "2-nefi-32-8-9",
+          "title": "2 Nefi 32:8–9",
+          "description": "La importancia de orar siempre.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/13-2-nephi-31-33/135-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "dd-2-nefi-32-8-9",
+          "title": "Dominio de la doctrina: 2 Nefi 32:8–9",
+          "description": "Dominar la verdad de que el Espíritu enseña a orar.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/14-jacob-1-4/141-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Semana 4",
+      "dateRange": "25 al 29 marzo",
+      "lessons": [
+        {
+          "id": "1-nefi-3",
+          "title": "1 Nefi 3",
+          "description": "La obediencia de Nefi al ir por las planchas.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/03-1-nephi-1-5/033-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-1-nefi-3-7",
+          "title": "Dominio de la doctrina: 1 Nefi 3:7",
+          "description": "Dominar el compromiso de ir y hacer lo que el Señor manda.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/03-1-nephi-1-5/034-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "adquirir-conocimiento-3",
+          "title": "Adquirir conocimiento espiritual: Parte 3",
+          "description": "Aplicación de principios en situaciones reales.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/04-1-nephi-6-10/042-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "repaso-dd-1",
+          "title": "Repaso del Dominio de la doctrina 1",
+          "description": "Repaso de las primeras verdades fundamentales de dominio.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/05-1-nephi-11-15/055-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Semana 5",
+      "dateRange": "01 al 05 abril",
+      "lessons": [
+        {
+          "id": "jacob-1",
+          "title": "Jacob 1",
+          "description": "Magnificar los llamamientos en el Señor.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/14-jacob-1-4/142-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "jacob-4",
+          "title": "Jacob 4",
+          "description": "Mirar más allá del objetivo y la fe en Cristo.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/14-jacob-1-4/145-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "2-nefi-2-26-30",
+          "title": "2 Nefi 2:26–30",
+          "description": "Libertad para escoger la vida o la cautividad.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/07-2-nephi-1-2/075-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-2-nefi-2-27",
+          "title": "Dominio de la doctrina: 2 Nefi 2:27",
+          "description": "Dominar la verdad de nuestro albedrío moral.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/08-2-nephi-3-5/081-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Semana 6",
+      "dateRange": "08 al 12 abril",
+      "lessons": [
+        {
+          "id": "jacob-5-1-53",
+          "title": "Jacob 5:1–53",
+          "description": "La alegoría del olivo cultivado y del silvestre.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/15-jacob-5-7/151-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "jacob-5-54-77-6-1-13",
+          "title": "Jacob 5:54–77; 6:1–13",
+          "description": "La labor en la viña y el amor del Señor.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/15-jacob-5-7/152-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "jacob-7",
+          "title": "Jacob 7",
+          "description": "Superar la oposición a nuestra fe: Jacob y Sherem.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/15-jacob-5-7/153-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "2-nefi-26",
+          "title": "2 Nefi 26",
+          "description": "Invitaciones del Señor a venir a Él.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/11-2-nephi-20-25/114-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-2-nefi-26-33",
+          "title": "Dominio de la doctrina: 2 Nefi 26:33",
+          "description": "Dominar la verdad de que todos son iguales ante Dios.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/11-2-nephi-20-25/115-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Semana 7",
+      "dateRange": "15 al 19 abril",
+      "lessons": [
+        {
+          "id": "2-nefi-2-17-26",
+          "title": "2 Nefi 2:17–26",
+          "description": "La Caída de Adán y el Plan de Redención.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/07-2-nephi-1-2/073-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-2-nefi-2-25",
+          "title": "Dominio de la doctrina: 2 Nefi 2:25",
+          "description": "Dominar el propósito de la Caída y el gozo humano.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/07-2-nephi-1-2/074-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "palabras-mormon-mosiah-1",
+          "title": "Palabras de Mormón 1:12–18; Mosíah 1",
+          "description": "El servicio y la enseñanza de los registros sagrados.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/16-enos-words-of-mormon/163-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "2-nefi-28-27-32",
+          "title": "2 Nefi 28:27–32",
+          "description": "Recibir más luz línea por línea.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/12-2-nephi-26-30/123-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-2-nefi-28-30",
+          "title": "Dominio de la doctrina: 2 Nefi 28:30",
+          "description": "Dominar la enseñanza de cómo Dios da revelación.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/12-2-nephi-26-30/124-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Semana 8",
+      "dateRange": "22 al 26 abril",
+      "lessons": [
+        {
+          "id": "mosiah-2-1-18",
+          "title": "Mosíah 2:1–18",
+          "description": "El servicio a nuestros semejantes como servicio a Dios.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/17-mosiah-1-3/171-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-mosiah-2-17",
+          "title": "Dominio de la doctrina: Mosíah 2:17",
+          "description": "Dominar el concepto del servicio desinteresado.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/17-mosiah-1-3/172-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-2-19-41",
+          "title": "Mosíah 2:19–41",
+          "description": "La felicidad de los que guardan los mandamientos.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/17-mosiah-1-3/173-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-mosiah-2-41",
+          "title": "Dominio de la doctrina: Mosíah 2:41",
+          "description": "Dominar la promesa de felicidad para los fieles.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/17-mosiah-1-3/174-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-3-1-17",
+          "title": "Mosíah 3:1–17",
+          "description": "El ministerio del Salvador y Su Expiación.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/17-mosiah-1-3/175-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Semana 9",
+      "dateRange": "29 de abril al 03 mayo",
+      "lessons": [
+        {
+          "id": "mosiah-3-19",
+          "title": "Mosíah 3:19",
+          "description": "Despojarse del hombre natural y ser como un niño.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/18-mosiah-4-6/181-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-mosiah-3-19",
+          "title": "Dominio de la doctrina: Mosíah 3:19",
+          "description": "Dominar el proceso de volverse un santo.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/18-mosiah-4-6/182-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-4-9-10",
+          "title": "Mosíah 4:9–10",
+          "description": "Creer en Dios y arrepentirse.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/18-mosiah-4-6/184-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-mosiah-4-9",
+          "title": "Dominio de la doctrina: Mosíah 4:9",
+          "description": "Dominar la verdad de que Dios tiene toda sabiduría.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/18-mosiah-4-6/185-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Semana 10",
+      "dateRange": "06 al 10 mayo",
+      "lessons": [
+        {
+          "id": "mosiah-5-1-5",
+          "title": "Mosíah 5:1–5",
+          "description": "Experimentar un potente cambio de corazón.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/19-mosiah-7-10/191-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-5-6-15",
+          "title": "Mosíah 5:6–15",
+          "description": "Tomar sobre nosotros el nombre de Jesucristo.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/19-mosiah-7-10/192-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-7-8",
+          "title": "Mosíah 7–8",
+          "description": "La búsqueda de los habitantes de Zeniff y el papel de un vidente.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/19-mosiah-7-10/193-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-9-10",
+          "title": "Mosíah 9–10",
+          "description": "El peligro de ser lentos en recordar al Señor.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/19-mosiah-7-10/194-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "repaso-dd-2",
+          "title": "Repaso del Dominio de la doctrina 2",
+          "description": "Reforzar pasajes de dominio de Mosíah.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/06-1-nephi-16-22/065-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Semana 11",
+      "dateRange": "13 al 17 mayo",
+      "lessons": [
+        {
+          "id": "mosiah-11-17-intro",
+          "title": "Mosíah 11–17",
+          "description": "El valor de Abinadí ante el Rey Noé.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/20-mosiah-11-17/201-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-12-13",
+          "title": "Mosíah 12–13",
+          "description": "Guardar los mandamientos en el corazón.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/20-mosiah-11-17/202-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-14-16",
+          "title": "Mosíah 14–16",
+          "description": "El mensaje de Abinadí sobre el Mesías.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/20-mosiah-11-17/203-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "evalua-4-repaso-dd3",
+          "title": "Evalúa tu aprendizaje 4 y Repaso Dominio 3",
+          "description": "Evaluación del progreso y repaso de dominio.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/20-mosiah-11-17/204-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "repaso-dd-4",
+          "title": "Repaso del Dominio de la doctrina 4",
+          "description": "Repaso integral de los pasajes de dominio.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/10-2-nephi-11-19/105-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Semana 12",
+      "dateRange": "20 al 24 mayo",
+      "lessons": [
+        {
+          "id": "mosiah-19-20",
+          "title": "Mosíah 19–20",
+          "description": "Consecuencias de la iniquidad y el arrepentimiento.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/21-mosiah-18-24/213-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-21-24-p1",
+          "title": "Mosíah 21–24, Parte 1",
+          "description": "El Señor fortalece a Su pueblo en sus aflicciones.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/21-mosiah-18-24/214-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-21-24-p2",
+          "title": "Mosíah 21–24, Parte 2",
+          "description": "La liberación del pueblo por el poder de Dios.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/mosiah-18-24/mos-23b-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-18",
+          "title": "Mosíah 18",
+          "description": "El convenio del bautismo en las Aguas de Mormón.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/21-mosiah-18-24/211-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-mosiah-18-8-10",
+          "title": "Dominio de la doctrina: Mosíah 18:8–10",
+          "description": "Dominar las responsabilidades del convenio bautismal.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/21-mosiah-18-24/212-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Semana 13",
+      "dateRange": "27 al 31 mayo",
+      "lessons": [
+        {
+          "id": "mosiah-26",
+          "title": "Mosíah 26",
+          "description": "Guiar a la nueva generación y el perdón.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/22-mosiah-25-28/221-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-27-1-24",
+          "title": "Mosíah 27:1–24",
+          "description": "La conversión de Alma, hijo, y los hijos de Mosíah.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/22-mosiah-25-28/222-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-27-24-37",
+          "title": "Mosíah 27:24–37",
+          "description": "Nacer de Dios y los efectos de la conversión.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/22-mosiah-25-28/223-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "mosiah-28",
+          "title": "Mosíah 28",
+          "description": "El deseo de compartir el Evangelio con todos.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/22-mosiah-25-28/224-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "repaso-dd-5-6",
+          "title": "Repaso del Dominio de la doctrina 5 y 6",
+          "description": "Fortalecer el conocimiento de los pasajes de dominio.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/15-jacob-5-7/155-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Semana 14",
+      "dateRange": "03 al 07 junio",
+      "lessons": [
+        {
+          "id": "alma-1-1-18",
+          "title": "Alma 1:1–18",
+          "description": "El peligro de las supercherías sacerdotales: Nehor.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/23-mosiah-29-alma-4/231-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "alma-1-19-33",
+          "title": "Alma 1:19–33",
+          "description": "La humildad y la prosperidad en la Iglesia.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/23-mosiah-29-alma-4/232-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "alma-2-3",
+          "title": "Alma 2–3",
+          "description": "La rebelión de Amlici y la marca de los amlicitas.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/23-mosiah-29-alma-4/233-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "alma-4",
+          "title": "Alma 4",
+          "description": "Alma cede el asiento judicial para predicar el Evangelio.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/23-mosiah-29-alma-4/234-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "repaso-dd-7-8",
+          "title": "Repaso del Dominio de la doctrina 7 y 8",
+          "description": "Repaso de pasajes de dominio de Mosíah y Alma.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/19-mosiah-7-10/195-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Semana 15",
+      "dateRange": "10 al 14 junio",
+      "lessons": [
+        {
+          "id": "alma-5-1-32",
+          "title": "Alma 5:1–32",
+          "description": "Preguntas para el examen del alma.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/24-alma-5-7/241-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "alma-5-33-62",
+          "title": "Alma 5:33–62",
+          "description": "La invitación del Buen Pastor.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/24-alma-5-7/242-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "alma-7-1-13",
+          "title": "Alma 7:1–13",
+          "description": "La Expiación del Salvador y Su poder para socorrernos.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/24-alma-5-7/243-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "dd-alma-7-11-13",
+          "title": "Dominio de la doctrina: Alma 7:11–13",
+          "description": "Dominar la verdad de que Cristo tomó sobre sí nuestros dolores.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/24-alma-5-7/244-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "alma-7-14-27",
+          "title": "Alma 7:14–27",
+          "description": "Vivir de modo que seamos hallados sin mancha.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/24-alma-5-7/245-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Semana 16",
+      "dateRange": "17 al 21 junio",
+      "lessons": [
+        {
+          "id": "alma-9",
+          "title": "Alma 9",
+          "description": "El mensaje de Alma a los de Ammoníah sobre el arrepentimiento.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/25-alma-8-12/252-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "alma-10-11",
+          "title": "Alma 10–11",
+          "description": "Amulek y Alma testifican ante Zeezrom.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/25-alma-8-12/253-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "repaso-dd-9-10",
+          "title": "Repaso del Dominio de la doctrina 9 y 10",
+          "description": "Ejercitar el conocimiento de pasajes clave.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/22-mosiah-25-28/225-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Semana 17",
+      "dateRange": "24 al 28 junio",
+      "lessons": [
+        {
+          "id": "alma-13",
+          "title": "Alma 13",
+          "description": "El sacerdocio y la preordenación de los siervos de Dios.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/26-alma-13-16/261-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "alma-14",
+          "title": "Alma 14",
+          "description": "Fidelidad en medio de la persecución y el sufrimiento.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/26-alma-13-16/262-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "repaso-evaluacion-1",
+          "title": "Repaso evaluación 1",
+          "description": "Preparación para la evaluación del primer semestre.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/52-appendix/521-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "adquirir-conocimiento-4",
+          "title": "Adquirir conocimiento espiritual, Parte 4",
+          "description": "Fortalecer la capacidad de hallar respuestas espirituales.",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/27-alma-17-22/275-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "repaso-dd-11-12",
+          "title": "Repaso del Dominio de la doctrina 11 y 12",
+          "description": "Consolidación de las verdades de dominio aprendidas.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/25-alma-8-12/255-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Semana 18",
+      "dateRange": "01 al 05 julio",
+      "lessons": [
+        {
+          "id": "alma-17",
+          "title": "Alma 17",
+          "description": "Ammón sirve al Rey Lamoni.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/27-alma-17-22/271-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "alma-18",
+          "title": "Alma 18",
+          "description": "El poder de Dios manifestado a través de Ammón.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/27-alma-17-22/272-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "alma-19",
+          "title": "Alma 19",
+          "description": "La conversión del Rey Lamoni y su casa.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/27-alma-17-22/273-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Semana 19",
+      "dateRange": "08 al 12 julio",
+      "lessons": [
+        {
+          "id": "alma-23",
+          "title": "Alma 23",
+          "description": "La conversión de los anti-nefi-lehitas.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/28-alma-23-29/281-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "alma-26",
+          "title": "Alma 26",
+          "description": "Gozarse en el Señor por los frutos de la misión.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/28-alma-23-29/283-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "alma-29",
+          "title": "Alma 29",
+          "description": "El deseo de Alma de ser un ángel para predicar.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/28-alma-23-29/284-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "evalua-tu-aprendizaje-5",
+          "title": "Evalúa tu aprendizaje 5",
+          "description": "Reflexión sobre el crecimiento espiritual personal.",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/26-alma-13-16/264-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Semana 20",
+      "dateRange": "15 al 19 julio",
+      "lessons": [
+        {
+          "id": "alma-30-1-29",
+          "title": "Alma 30:1–29",
+          "description": "Las falsas enseñanzas de Korihor, el anticristo.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/29-alma-30-31/291-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "alma-30-30-60",
+          "title": "Alma 30:30–60",
+          "description": "El testimonio de Alma y el fin de Korihor.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/29-alma-30-31/292-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "alma-31-1-11",
+          "title": "Alma 31:1–11",
+          "description": "La misión de Alma para rescatar a los zoramitas.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/29-alma-30-31/293-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "alma-31-12-38",
+          "title": "Alma 31:12–38",
+          "description": "La oración de los zoramitas y la oración de fe de Alma.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/29-alma-30-31/294-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        }
+      ]
+    }
+  ]
+}

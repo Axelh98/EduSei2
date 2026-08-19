@@ -1,0 +1,50 @@
+{
+  "id": "nt-s3-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué es una parábola según el manual?",
+      "options": [
+        "Una historia de ficción sin significado.",
+        "Una historia sencilla que compara objetos o acontecimientos comunes con verdades espirituales.",
+        "Un mandato legal estricto.",
+        "Una profecía sobre el fin del mundo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué enseñaba Jesús en parábolas?",
+      "options": [
+        "Para confundir a Sus enemigos.",
+        "Para revelar misterios a los espirituales y esconder la verdad de quienes no buscan con fe.",
+        "Porque no sabía hablar de otra manera.",
+        "Para entretener a las multitudes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el primer paso del modelo de cuatro pasos para estudiar parábolas?",
+      "options": [
+        "Hacer un dibujo.",
+        "Buscar detalles importantes (personas, lugares, objetos).",
+        "Preguntar al maestro.",
+        "Comparar con noticias actuales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué representa el \"tesoro\" en la parábola de Mateo 13:44?",
+      "options": [
+        "Oro enterrado.",
+        "El Reino de los Cielos (La Iglesia de Jesucristo).",
+        "El éxito financiero.",
+        "La inteligencia humana."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

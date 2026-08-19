@@ -1,0 +1,61 @@
+{
+  "id": "bloque-nt-3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué fiesta se acercaba según Lucas 22:1?",
+      "options": [
+        "La Pascua",
+        "El Pentecostés",
+        "La Fiesta de los Tabernáculos",
+        "El Día de Expiación"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Quién conspiró con los principales sacerdotes para entregar a Jesús?",
+      "options": [
+        "Pedro",
+        "Judas Iscariote",
+        "Andrés",
+        "Tomás"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué instrucción dio Jesús a Pedro y Juan para preparar la Pascua?",
+      "options": [
+        "Seguir a un hombre que llevaba un cántaro de agua",
+        "Buscar un cordero en el mercado",
+        "Reunir a todos los discípulos en el templo",
+        "Encender lámparas en la casa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué dijo Jesús sobre el pan durante la última cena?",
+      "options": [
+        "Esto es mi cuerpo, que por vosotros es dado",
+        "Este pan representa la ley de Moisés",
+        "Este pan es símbolo de la Pascua",
+        "Este pan es para recordar a Abraham"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué dijo Jesús sobre la copa en la última cena?",
+      "options": [
+        "Esta copa es el nuevo pacto en mi sangre",
+        "Esta copa representa la abundancia de la tierra",
+        "Esta copa es símbolo de la fiesta de los tabernáculos",
+        "Esta copa recuerda la salida de Egipto"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

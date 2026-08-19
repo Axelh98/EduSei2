@@ -1,0 +1,104 @@
+{
+  "id": "alma-29",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué desearía Alma si pudiera?",
+      "type": "multiple",
+      "options": [
+        "Ser un ángel para declarar la palabra de Dios a toda la tierra",
+        "Tener grandes riquezas para ayudar a su pueblo",
+        "Ser rey y gobernar con justicia sobre la nación",
+        "Retirarse de toda responsabilidad pública"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 29:1",
+      "explanation": "Alma desearía ser un ángel para declarar la palabra de Dios a toda la tierra."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué reconoce Alma sobre su deseo?",
+      "type": "multiple",
+      "options": [
+        "Que su deseo era completamente correcto y sin ningún problema",
+        "Que debía abandonar por completo su llamamiento actual",
+        "Que ese deseo en realidad no tenía ninguna importancia",
+        "Que peca al desear más de lo que debe; debe contentarse con lo que Dios le ha dado"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 29:3",
+      "explanation": "Alma reconoce que peca al desear más de lo que debe, y que debe contentarse con lo que Dios le ha dado."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué principio enseña Alma sobre el albedrío?",
+      "type": "multiple",
+      "options": [
+        "Que el albedrío en realidad no existe de verdad",
+        "Que no importa realmente lo que cada persona desee",
+        "Que Dios concede a los hombres según lo que deseen, sea para vida o muerte",
+        "Que todas las personas reciben exactamente el mismo resultado"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 29:4-5",
+      "explanation": "Alma enseña que Dios concede a los hombres según lo que deseen, sea para vida o para muerte."
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué se contenta Alma con su llamamiento actual?",
+      "type": "multiple",
+      "options": [
+        "Porque considera que su llamamiento actual es fácil",
+        "Porque Dios sabe lo que es mejor y a cada quien se da según sus deseos",
+        "Porque en realidad no tiene otra opción disponible",
+        "Porque prefiere no esforzarse en su servicio"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 29:3-6",
+      "explanation": "Alma se contenta porque Dios sabe lo que es mejor y a cada quien se da según sus deseos."
+    },
+    {
+      "id": 5,
+      "question": "Joaquín desearía tener el talento de otro compañero para servir mejor en la Iglesia, en lugar de aceptar sus propias capacidades. ¿Qué le enseña Alma 29 sobre esto?",
+      "type": "multiple",
+      "options": [
+        "Que debe seguir deseando tener otros talentos hasta conseguirlos",
+        "Que solo las personas con talentos especiales pueden servir de verdad",
+        "Que debemos contentarnos con el llamamiento y los talentos que Dios nos ha dado, en lugar de desear ser otra persona",
+        "Que no vale la pena esforzarse si no tiene el talento de otros"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 29:3-6",
+      "explanation": "Alma enseña a contentarnos con el llamamiento y los talentos que Dios nos ha dado."
+    },
+    {
+      "id": 6,
+      "question": "Martina siente que su forma de servir (con un talento más silencioso) no es tan valiosa como la de otros más visibles. ¿Qué principio de Alma 29:3 le ayudaría?",
+      "type": "multiple",
+      "options": [
+        "Que solo el servicio visible tiene verdadero valor ante Dios",
+        "Que Dios da a cada persona según lo que necesita para cumplir Su propósito, y todo servicio genuino tiene valor",
+        "Que debe cambiar su forma de servir para ser más notada",
+        "Que su forma de servir no tiene ningún valor real"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 29:3",
+      "explanation": "Dios da a cada persona según lo que necesita para cumplir Su propósito, y todo servicio genuino tiene valor."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan el deseo de Alma de ser un ángel y su enseñanza sobre el albedrío y los deseos del corazón?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "Su deseo de ser ángel contradice su enseñanza sobre el albedrío",
+        "Alma usa su propio deseo como ejemplo para enseñar que Dios concede a cada persona según lo que realmente desea",
+        "Solo la enseñanza sobre el albedrío tiene importancia doctrinal en este capítulo"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 29:1-5",
+      "explanation": "Alma usa su propio deseo como ejemplo para enseñar que Dios concede a cada persona según lo que realmente desea."
+    }
+  ]
+}

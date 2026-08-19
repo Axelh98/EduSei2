@@ -3,6 +3,7 @@ import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
 import { QuizClient } from "@/components/quiz-client"
 import { getLessonById } from "@/lib/quiz-data"
+import { getLessonContent } from "@/lib/content/loader"
 import type { Metadata } from "next"
 
 interface LessonPageProps {
@@ -29,11 +30,16 @@ export default async function LessonQuizPage({ params }: LessonPageProps) {
 
   const { lesson, category } = result
 
+  // El catálogo solo trae metadatos; las preguntas se cargan acá, ya en el
+  // servidor, para que no viajen al navegador las de los demás cursos.
+  const content = await getLessonContent(categoryId, lessonId)
+  const questions = content?.questions ?? lesson.questions
+
   return (
     <div className="flex min-h-screen flex-col bg-background">
       <main className="flex-1 px-4 py-8 md:px-6 md:py-12">
         <QuizClient
-          questions={lesson.questions}
+          questions={questions}
           categoryName={category.name}
           categoryId={category.id}
           lessonId={lessonId}

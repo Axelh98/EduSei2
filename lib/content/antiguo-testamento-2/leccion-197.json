@@ -1,0 +1,56 @@
+{
+  "id": "leccion-197",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué muchos jóvenes sienten que compartir el Evangelio es incómodo o forzado?",
+      "options": [
+        "Porque el Evangelio no es relevante para la vida moderna.",
+        "Porque piensan que deben dar un sermón formal en lugar de simplemente compartir lo que les importa de manera auténtica.",
+        "Porque no tienen suficiente conocimiento de las Escrituras."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es la manera más poderosa de preparar el corazón de alguien para recibir el Evangelio?",
+      "options": [
+        "Darle un libro de mormón antes de hablar con ellos.",
+        "Construir una amistad genuina basada en el amor real hacia esa persona.",
+        "Invitarlos directamente a la Iglesia la primera vez que los conoces."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué ejemplo del Antiguo Testamento muestra cómo compartir el Evangelio de forma natural?",
+      "options": [
+        "Moisés, quien se presentó directamente ante Faraón con señales.",
+        "La sierva israelita de Naamán, quien simplemente compartió su fe de manera natural, llevando a Naamán a buscar la curación.",
+        "Elías, quien desafió públicamente a los profetas de Baal."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuáles son algunas formas concretas y naturales de compartir el Evangelio en la vida cotidiana?",
+      "options": [
+        "Publicar versículos de las Escrituras en redes sociales sin ninguna explicación.",
+        "Hablar de lo que el Evangelio significa para ti, invitar a amigos a actividades de la Iglesia, compartir bendiciones que has recibido.",
+        "Argumentar en debates sobre religión para demostrar que la Iglesia tiene razón."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es el papel del Espíritu Santo cuando compartimos el Evangelio naturalmente?",
+      "options": [
+        "El Espíritu solo actúa en contextos formales de enseñanza misionera.",
+        "El Espíritu puede tocar el corazón de las personas en cualquier momento, incluso en conversaciones simples y cotidianas.",
+        "Nuestra tarea es convencer; el Espíritu solo confirma después del bautismo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

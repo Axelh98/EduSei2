@@ -1,0 +1,50 @@
+{
+  "id": "nt-s8-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué los escribas trajeron a la mujer ante Jesús de forma pública?",
+      "options": [
+        "Para pedirle consejo sincero.",
+        "Para poner a Jesús en una situación difícil y acusarlo.",
+        "Porque querían que ella fuera sanada.",
+        "Para celebrar una fiesta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué atributo demostró Jesús al no condenar inmediatamente a la mujer?",
+      "options": [
+        "Indiferencia hacia el pecado.",
+        "Misericordia y paciencia divina.",
+        "Miedo a los fariseos.",
+        "Desconocimiento de la ley."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál fue la invitación final de Jesús a la mujer en Juan 8:11?",
+      "options": [
+        "\"Eres perfecta tal como eres\".",
+        "\"Vete, y no peques más\".",
+        "\"Vuelve con tus acusadores\".",
+        "\"Olvida lo que pasó\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué significa \"misericordia\" según el manual?",
+      "options": [
+        "Justicia estricta.",
+        "Trato compasivo más allá de lo que una persona merece.",
+        "Ignorar las consecuencias de los actos.",
+        "Castigar a los demás."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

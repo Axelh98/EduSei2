@@ -1,0 +1,123 @@
+{
+  "id": "leccion-23-8",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Alma concluye su explicación del plan de redención enfatizando que el arrepentimiento es la clave que activa la misericordia de Dios. Sin arrepentimiento, solo se puede esperar el castigo que la justicia demanda. Cuando las personas se arrepienten sinceramente, la misericordia puede tomar efecto porque Cristo ya pagó el precio. Alma aconseja a Coriantón que no permita que estas doctrinas lo perturben, sino que lo motiven al arrepentimiento. El capítulo presenta el equilibrio entre la justicia y la misericordia."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dallin H. Oaks",
+      "fuente": "Liahona, noviembre de 2009, págs. 26-27",
+      "texto": "El amor de Dios no sustituye Sus leyes ni Sus mandamientos, y el efecto de éstos no disminuye el propósito ni el efecto de Su amor. [...] La misericordia no puede robar a la justicia, y los que obtienen la misericordia son 'aquellos que han guardado el convenio y observado el mandamiento'.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2009/11/love-and-law?lang=spa&id=p11,p15#p11"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 42:23-24",
+          "texto": "La misericordia reclama al arrepentido; y la misericordia viene por medio de la expiación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa&id=p23-p24#p23"
+        },
+        {
+          "referencia": "Alma 42:30",
+          "texto": "No dejes que te perturben estas cosas; solo deja que te perturben tus pecados, con esa perturbación que te llevará al arrepentimiento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa&id=p30#p30"
+        },
+        {
+          "referencia": "Alma 42:31",
+          "texto": "No procures excusarte en lo más mínimo por causa de tus pecados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa&id=p31#p31"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Hay algo en tu vida que necesites cambiar para 'reclamar' la misericordia mediante el arrepentimiento?",
+        "¿Cómo equilibras el sentido de urgencia del arrepentimiento con la paciencia hacia ti mismo?",
+        "¿De qué manera el plan de redención te proporciona esperanza en situaciones difíciles?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo trabajan juntas la justicia y la misericordia, según la explicación de Alma?",
+      "options": [
+        "No tienen ninguna relación entre sí",
+        "Están en conflicto permanente y nunca pueden coexistir",
+        "La expiación satisface las demandas de la justicia, lo cual permite que la misericordia pueda ofrecerse",
+        "Son exactamente lo mismo, solo con nombres distintos"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "Según Alma 42, ¿qué se requiere de parte de la persona para recibir la misericordia de Dios?",
+      "options": [
+        "Fe, arrepentimiento y obediencia",
+        "Ser perfecto antes de poder recibirla",
+        "Nada en absoluto",
+        "Solamente creer, sin ninguna otra acción"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Alma explica que 'la misericordia no puede robarle a la justicia' (Alma 42:25). ¿Qué significa esta frase?",
+      "options": [
+        "Que la misericordia es más poderosa que la justicia y siempre la anula",
+        "Que la justicia y la misericordia compiten literalmente por 'robarse' almas",
+        "Que ninguna de las dos leyes tiene efecto real en el plan de salvación",
+        "Que el perdón no puede simplemente cancelar las consecuencias del pecado sin ningún fundamento; solo puede ofrecerse mediante la expiación, que sí satisface esas exigencias"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "Alma le aconseja a Coriantón que deje de intentar excusarse a sí mismo y, en cambio, permita que ciertas cualidades de Dios obren en su corazón hasta llevarlo a la humildad (Alma 42:29–30). ¿Cuáles son esas cualidades?",
+      "options": [
+        "La justicia, la misericordia y la paciencia de Dios",
+        "La opinión pública sobre su situación",
+        "Ninguna: Alma le pide que resuelva todo por sí mismo, sin ayuda",
+        "Únicamente su propio juicio sobre lo que está bien"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Sofía siente que debe 'defenderse' o justificar sus errores frente a Dios en oración, en lugar de simplemente reconocerlos. Según el consejo final de Alma a Coriantón, ¿qué le dirías?",
+      "options": [
+        "Que justificarse es la única forma válida de acercarse a Dios en oración",
+        "Que hacer eso es correcto, porque Dios espera una buena defensa de nuestros errores",
+        "Que, como a Coriantón, se le invita a dejar de excusarse y en cambio permitir con humildad que la justicia y la misericordia de Dios actúen, reconociendo el error con sinceridad",
+        "Que no debería orar hasta sentirse completamente digna"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Luca piensa que si Dios es misericordioso, entonces no hace falta preocuparse mucho por cumplir la ley de la justicia. Según Alma 42, ¿qué matiz le agregarías?",
+      "options": [
+        "Que la justicia y la misericordia son ideas incompatibles que Alma nunca resolvió",
+        "Que solo los pecados pequeños quedan cubiertos por la misericordia",
+        "Que la misericordia solo está disponible a través de la expiación y bajo la condición del arrepentimiento; no reemplaza ni ignora la justicia, sino que la satisface",
+        "Que tiene razón: la justicia deja de existir gracias a la misericordia de Dios"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la explicación sobre justicia y misericordia como el consejo final a Coriantón (dejar de excusarse y permitir que la sabiduría de Dios obre) comparten un mismo principio. ¿Cuál es?",
+      "options": [
+        "Que la justicia y la misericordia son enseñanzas sin ninguna aplicación práctica",
+        "Que la salvación depende de reconocer con humildad nuestra necesidad de la expiación, y no de intentar justificarnos por nuestra propia cuenta",
+        "Que la salvación se obtiene únicamente mediante el esfuerzo propio, sin necesidad de la expiación",
+        "Que justificarse ante Dios es un paso necesario antes del arrepentimiento"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

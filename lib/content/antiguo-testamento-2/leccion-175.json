@@ -1,0 +1,56 @@
+{
+  "id": "leccion-175",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué es una bendición patriarcal?",
+      "options": [
+        "Una bendición que dan los padres a sus hijos cada año.",
+        "Una revelación personal inspirada, dada por un patriarca ordenado, que declara tu linaje y contiene promesas del Señor para tu vida.",
+        "Una ordenanza del templo que se recibe a los 18 años."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué la bendición patriarcal declara tu linaje de Israel?",
+      "options": [
+        "Para saber cuántos idiomas puedes aprender.",
+        "Porque como miembro de la Iglesia formas parte del convenio de Abraham y tienes responsabilidades y privilegios de esa herencia.",
+        "Para determinar si puedes servir una misión."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuándo es el mejor momento para recibir tu bendición patriarcal?",
+      "options": [
+        "Solo después de casarte en el templo.",
+        "Cuando tengas madurez suficiente para comprender y apreciar su significado, generalmente en la adolescencia.",
+        "Cuando hayas servido una misión."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo debes tratar el contenido de tu bendición patriarcal?",
+      "options": [
+        "Compartirla con todos para que puedan aprender de las promesas del Señor.",
+        "Guardarla como algo sagrado y personal, estudiándola con frecuencia.",
+        "Leerla solo en momentos de crisis grave."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué sucede si las promesas de tu bendición patriarcal aún no se han cumplido?",
+      "options": [
+        "Significa que el patriarca se equivocó al dártela.",
+        "Las promesas se cumplen según tu fidelidad y en el tiempo del Señor, incluso más allá de esta vida si es necesario.",
+        "Debes pedir una nueva bendición para reemplazarla."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "171-mensajes-siervos",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Escuchar un discurso de la Conferencia General y estudiar un discurso de la Conferencia General son dos experiencias completamente diferentes. Escuchar lo pasás una vez. Estudiarlo lo integrás a tu vida.",
+        "Esta lección enseña técnicas concretas para convertir los mensajes de los líderes en guía personal aplicable: identificar el principio central del discurso, encontrar las Escrituras que el orador usa como fundamento, subrayar la invitación a la acción que hace el Señor a través de ese mensaje, y escribir cómo vas a actuar específicamente.",
+        "Hay una razón por la que los mensajes de la Conferencia General están disponibles en la Biblioteca del Evangelio con texto completo, audio, video y referencias: el Señor quiere que los estudies, no solo que los escuches. Cada discurso de la Conferencia General es una oportunidad de revelación personal cuando lo tratas como una fuente divinamente señalada y lo estudias con la misma reverencia y atención que darías a una sección de D&C."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 68:4",
+          "texto": "Y cualquier cosa que hablen por el Espíritu Santo será palabra de Escritura, será la voluntad del Señor, será la mente del Señor, será la palabra del Señor, será la voz del Señor y el poder de Dios unto la salvación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa&id=p4#p4"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Verdad pura, doctrina pura y revelación pura - Liahona, noviembre de 2021, pág. 6",
+      "texto": "Las Autoridades Generales y los Oficiales Generales de la Iglesia que discursen centrarán sus mensajes en nuestro Salvador Jesucristo, Su misericordia y Su infinito poder redentor. Nunca ha habido una época en la historia del mundo en la que el conocimiento de nuestro Salvador fuera más vital y relevante en lo personal para toda alma humana. Imaginen lo rápido que se resolverían los devastadores conflictos de todo el mundo, y los de nuestra propia vida, si todos nosotros decidiéramos seguir a Jesucristo y prestar atención a Sus enseñanzas",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=spa&id=p5#p5"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Los mensajes de la Conferencia General son 'la voluntad del Señor, la mente del Señor, la palabra del Señor' (D&C 68:4) cuando son dados por el Espíritu. Estudiarlos con técnicas concretas —identificar el principio central, las Escrituras de fundamento, y la invitación a la acción— transforma esos mensajes en guía personal específica para tu vida. Esta semana, elegí un discurso reciente de la Conferencia General y estudíalo con ese proceso. Escribí qué vas a hacer diferente como resultado."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál es la diferencia entre escuchar un discurso de la Conferencia General y estudiarlo? ¿Cuál de las dos hacés más?",
+        "Según D&C 68:4, ¿qué condición hace que las palabras de los siervos del Señor sean equivalentes a Su Palabra?",
+        "¿Qué herramientas concretas podrías usar para estudiar un discurso de la Conferencia General de forma más profunda?",
+        "¿Qué discurso reciente de la Conferencia General más te habló? ¿Cuál fue la invitación a la acción que encontraste en él?",
+        "¿Qué mensaje de la Conferencia General vas a estudiar esta semana? ¿Cuándo y cómo lo harás?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la diferencia más concreta entre escuchar un discurso de la Conferencia General y estudiarlo?",
+      "options": [
+        "Escuchar es más rápido; estudiar toma más tiempo pero produce los mismos resultados",
+        "Escuchar lo pasa; estudiar lo integra — encontrás el principio central, las Escrituras de base y la acción concreta que te pide",
+        "Estudiar solo aplica a estudiantes de Seminario, no a todos los miembros",
+        "No hay diferencia real si prestás atención mientras escuchás"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "D&C 68:4 dice que cuando los siervos del Señor hablan por el Espíritu, sus palabras son 'la voluntad del Señor, la mente del Señor, la palabra del Señor'. ¿Qué condición incluye esa promesa?",
+      "options": [
+        "Que el orador tenga un cargo específico como apóstol o profeta",
+        "Que hablen 'por el Espíritu Santo' — lo que implica que la autoridad viene del Espíritu, no solo del cargo",
+        "Que los miembros estén de acuerdo con lo que se dice antes de que sea válido",
+        "Que el discurso sea publicado oficialmente por la Iglesia después"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué discurso reciente de la Conferencia General más te habló? ¿Cuál fue la invitación a la acción que encontraste en él?",
+      "options": [
+        "El discurso más emotivo porque fue el que más me movió sentimentalmente",
+        "El discurso que contenía un principio o invitación directamente aplicable a algo que estoy viviendo",
+        "El discurso más largo porque probablemente tenía más información importante",
+        "Todavía no encontré ningún discurso de la Conferencia que me hable directamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué herramientas concretas de la Biblioteca del Evangelio podrías usar para estudiar un discurso de la Conferencia General de manera más profunda?",
+      "options": [
+        "Solo la función de búsqueda para encontrar discursos sobre un tema específico",
+        "Las referencias de Escrituras vinculadas al texto, la opción de agregar notas, y los estudios relacionados",
+        "La opción de compartir en redes sociales para llegar a más personas",
+        "Solo el audio del discurso porque el texto no aporta nada adicional"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué discurso de la Conferencia General vas a estudiar esta semana? ¿Cuándo específicamente lo harás y qué proceso usarás?",
+      "options": [
+        "El que aparezca primero en la aplicación cuando la abra",
+        "Uno que elija deliberadamente relacionado con una pregunta o área de crecimiento que tengo, con un tiempo definido",
+        "Esperar a que el maestro de Seminario asigne uno para no duplicar esfuerzos",
+        "Solo si tengo tiempo libre después de todas las otras obligaciones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "El presidente Hinckley dijo que tenemos acceso a 'la palabra del Señor revelada en esta dispensación'. ¿Por qué esa abundancia de revelación debería generar más responsabilidad, no solo más información?",
+      "options": [
+        "Porque más información significa que seremos juzgados más estrictamente",
+        "Porque a quienes más se les da, más se les requerirá — y tener acceso a esa guía e ignorarla es una elección activa",
+        "Porque el acceso a revelación nos hace superiores espiritualmente a otras personas",
+        "Porque la responsabilidad solo aplica a los que estudian teología formalmente"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

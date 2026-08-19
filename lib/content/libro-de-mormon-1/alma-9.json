@@ -1,0 +1,151 @@
+{
+  "id": "alma-9",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El pueblo de Ammoníah se había endurecido tanto contra el Evangelio que hasta un ángel tuvo que intervenir: le ordenó a Alma volver a esa ciudad, a pesar de que ya lo habían rechazado una vez, y darle un mensaje urgente de arrepentimiento. Alma empieza recordándoles algo que suena casi como una acusación: ustedes son descendientes de un pueblo al que Dios ha bendecido de manera extraordinaria, con Escrituras, profetas y liberaciones milagrosas, y sin embargo se comportan peor que quienes nunca recibieron esa luz. Les advierte que, si rechazan esas bendiciones, su caída será más grave que la de cualquier otro pueblo, precisamente porque sabían más. Al mismo tiempo, promete algo enorme: el Hijo de Dios vendrá pronto, y redimirá a todo el que se arrepienta, se bautice y tenga fe en Su nombre. Es un mensaje de dos filos: una advertencia seria sobre las consecuencias de dar la espalda a lo que ya conocemos, y una invitación abierta a cualquiera, sin importar cuán lejos se sienta. La lección invita a hacer un ejercicio incómodo pero honesto: hacer una lista de las bendiciones espirituales que ya tenés —una familia que te enseñó de Cristo, la posibilidad de leer las Escrituras, líderes en quienes confiar— y preguntarte con sinceridad si tu vida refleja el peso de esas bendiciones. Es fácil dar por sentado lo que siempre estuvo ahí, como el wifi de tu casa o el hecho de tener seminario disponible cada mañana, hasta que un día no está. Alma no está tratando de hacer sentir culpable a nadie: está recordando que reconocer lo que se te dio es el primer paso para vivir a la altura de ello, y que el arrepentimiento sigue siendo, en cualquier momento, una puerta abierta."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 9:23–24",
+          "texto": "He aquí, os digo que si este pueblo, que ha recibido tantas bendiciones de la mano del Señor, transgrediere contra la luz y conocimiento que tiene... será mucho más tolerable para los lamanitas que para ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=spa&id=p23-p24#p23"
+        },
+        {
+          "referencia": "Alma 9:26",
+          "texto": "Y él vendrá al mundo para redimir a su pueblo; y tomará sobre sí las transgresiones de aquellos que crean en su nombre; y estos son los que tendrán vida eterna, y a nadie más le vendrá la salvación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=spa&id=p26#p26"
+        },
+        {
+          "referencia": "Doctrina y Convenios 82:3",
+          "texto": "Porque de aquel a quien mucho se da, mucho se requiere; y el que peque contra mayor luz, mayor condenación recibirá.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p3#p3"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "Conferencia General, octubre de 2010 (discurso \"Nunca lo dejen a Él\"); Liahona, noviembre de 2010, pág. 41",
+      "texto": "[C]omo miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días, al tener un testimonio de Su realidad, no sólo proveniente de la Biblia sino también del Libro de Mormón; al saber que Su sacerdocio se ha restaurado sobre la tierra […], no podemos comparar lo que debemos ser con quienes aún no han recibido estas verdades. “Porque de aquel a quien mucho se da, mucho se requiere”.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2010/10/never-leave-him?lang=spa&id=p33#p33"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Alma no le habla al pueblo de Ammoníah desde la superioridad, sino desde la urgencia de alguien que conoce el valor de lo que están a punto de perder. El élder Andersen enseña que quienes hemos recibido tanto —un testimonio de Cristo, el sacerdocio restaurado, profetas vivientes— no podemos compararnos con quienes todavía no han recibido esas verdades; se nos exige más, precisamente porque se nos ha dado más. Reconocer una bendición no es un ejercicio de culpa, sino el primer paso para vivir a la altura de ella. Esta semana, anotá tres bendiciones espirituales concretas que sueles dar por sentadas, y elegí una acción pequeña para vivir mejor a la altura de una de ellas."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Si tuvieras que hacer una lista rápida de tres bendiciones espirituales en tu vida, ¿cuáles pondrías primero?",
+        "¿Qué parte de la advertencia de Alma al pueblo de Ammoníah te pareció más dura?",
+        "¿Alguna vez diste por sentada una bendición espiritual hasta que, por algún motivo, dejaste de tenerla cerca?",
+        "¿Por qué creés que Dios espera más de quienes han recibido más luz y conocimiento?",
+        "Elegí una bendición espiritual que sueles dar por sentada. ¿Qué acción concreta podés hacer esta semana para vivir más a la altura de ella?",
+        "¿A quién podrías contarle esta semana sobre una bendición espiritual que hayas notado en tu vida últimamente?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué bendiciones había recibido el pueblo de Ammoníah según Alma 9:20?",
+      "type": "multiple",
+      "options": [
+        "Habían sido altamente favorecidos, visitados por el Espíritu de Dios",
+        "No habían recibido ninguna bendición especial de Dios",
+        "Solamente habían prosperado en riquezas materiales",
+        "Habían obtenido poder político sobre otras ciudades"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 9:20",
+      "explanation": "El pueblo de Ammoníah había sido altamente favorecido, visitado por el Espíritu de Dios."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué advertencia dio Alma sobre rechazar el conocimiento?",
+      "type": "multiple",
+      "options": [
+        "No habrá ninguna consecuencia por rechazar la verdad",
+        "Será más tolerable para los lamanitas que para ellos en el día del juicio",
+        "Solamente perderán algunas bendiciones temporales menores",
+        "Todos recibirán exactamente el mismo juicio sin diferencias"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 9:23",
+      "explanation": "Alma advirtió que sería más tolerable para los lamanitas que para ellos en el día del juicio."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué les urgió Alma a hacer?",
+      "type": "multiple",
+      "options": [
+        "Arrepentirse y no endurecer más sus corazones",
+        "Acumular más riquezas para asegurar su futuro",
+        "Mudarse a otra ciudad más segura",
+        "Construir más edificios públicos en la ciudad"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 9:12",
+      "explanation": "Alma les urgió a arrepentirse y no endurecer más sus corazones."
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué mayor conocimiento implica mayor responsabilidad, según la enseñanza de Alma?",
+      "type": "multiple",
+      "options": [
+        "Porque Dios exige más a quienes tienen más riquezas materiales",
+        "Porque el conocimiento no tiene relación con la responsabilidad moral",
+        "Porque solo los líderes de la iglesia tienen esa responsabilidad",
+        "Porque quienes conocen la verdad y la rechazan pecan con mayor conciencia"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 9:23",
+      "explanation": "Quienes conocen la verdad y la rechazan pecan con mayor conciencia, por eso tienen mayor responsabilidad."
+    },
+    {
+      "id": 5,
+      "question": "Guadalupe creció en la Iglesia y a veces da por sentado todo lo que ha aprendido. ¿Qué advertencia de Alma 9 le aplicarías?",
+      "type": "multiple",
+      "options": [
+        "Que mayor conocimiento implica mayor responsabilidad de vivir conforme a la verdad recibida",
+        "Que haber crecido en la Iglesia ya garantiza la salvación",
+        "Que el conocimiento recibido no tiene ninguna exigencia adicional",
+        "Que solo los conversos recientes tienen responsabilidad espiritual"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 9:23",
+      "explanation": "Mayor conocimiento implica mayor responsabilidad de vivir conforme a la verdad recibida."
+    },
+    {
+      "id": 6,
+      "question": "Tomás ve que sus amigos rechazan el evangelio a pesar de haberlo escuchado varias veces. ¿Qué le enseña la advertencia de Alma sobre el juicio?",
+      "type": "multiple",
+      "options": [
+        "Que no hay ninguna diferencia entre conocer y no conocer la verdad",
+        "Que rechazar la verdad conocida trae consecuencias más serias que nunca haberla escuchado",
+        "Que sus amigos ya no tienen ninguna oportunidad de arrepentirse",
+        "Que el rechazo de sus amigos no tiene importancia real"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 9:23",
+      "explanation": "Rechazar la verdad conocida trae consecuencias más serias que nunca haberla escuchado."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué relación hay entre las bendiciones que había recibido el pueblo de Ammoníah y la advertencia sobre el juicio que les dio Alma?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación entre sí",
+        "Solo la advertencia sobre el juicio tiene importancia real",
+        "Las bendiciones recibidas eliminan cualquier responsabilidad futura",
+        "Cuanto mayor es la bendición recibida, mayor es la responsabilidad de responder con fidelidad"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 9:20-23",
+      "explanation": "Cuanto mayor es la bendición recibida, mayor es la responsabilidad de responder con fidelidad."
+    }
+  ]
+}

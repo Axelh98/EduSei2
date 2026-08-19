@@ -1,0 +1,129 @@
+{
+  "id": "pascua-resurreccion",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "La Resurrección de Jesucristo es el hecho más importante de la historia humana. Sin la Resurrección, la Expiación no tendría consecuencias eternas — solo sería un sacrificio hermoso pero sin poder sobre la muerte. La Resurrección es la declaración del Padre de que el sacrificio del Hijo fue aceptado y que Su poder sobre la muerte y el pecado es real y eterno. El libro de Doctrina y Convenios está profundamente ligado a la Resurrección: cada vez que el Salvador se reveló a José Smith lo hizo como un Ser resucitado, glorificado, con cuerpo de partes y pasiones (D&C 130:22). La Pascua no es solo un feriado religioso — es la prueba de que lo que el evangelio promete es verdad: que hay vida después de la muerte, que las familias pueden estar unidas para siempre, y que el pecado no tiene la última palabra."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 76:22–23",
+          "texto": "Y ahora, después de muchos testimonios que han sido dados de él, este es el testimonio, el postrero de todos, que damos de él: que vive. Porque le vimos, aun a la diestra de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p22-p23#p22"
+        },
+        {
+          "referencia": "1 Corintios 15:20–22",
+          "texto": "Mas ahora Cristo ha resucitado de los muertos; primicias de los que durmieron es hecho. Porque por cuanto la muerte entró por un hombre, también por un hombre la resurrección de los muertos. Porque así como en Adán todos mueren, también en Cristo todos serán vivificados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=spa&id=p20-p22#p20"
+        },
+        {
+          "referencia": "Alma 11:43",
+          "texto": "El espíritu y el cuerpo serán reunidos de nuevo en su forma perfecta; tanto las coyunturas como los miembros serán restaurados a su propio cuerpo; sí, ni un cabello de la cabeza se perderá.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=spa&id=p43#p43"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Richard G. Scott",
+      "fuente": "\"El poder de las Escrituras\", Conferencia General, octubre de 2011 (Liahona, noviembre de 2011, pág. 6",
+      "texto": "Se obtiene un gran poder al memorizar pasajes de Escrituras. El memorizar un pasaje es como crear una nueva amistad. Es como descubrir a una persona nueva que puede ayudarnos en tiempos de necesidad, darnos inspiración y consuelo, y ser la fuente de motivación para lograr un cambio necesario.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa&id=p9#p9"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La Pascua de Resurrección es el momento del año donde el evangelio se concentra en su verdad más fundamental: Cristo vive. No como un recuerdo, no como un símbolo, sino como una Persona resucitada que conoce tu nombre, que intercede por vos ante el Padre, y que ha preparado el camino para que también vos vivas para siempre. Esta semana, más que cualquier otra, es el momento de preguntarte qué significa para vos personalmente que el Salvador vive."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Si la Resurrección no hubiera ocurrido, ¿qué cambiaría en las promesas del evangelio?",
+        "¿Qué persona querida tuya ha fallecido? ¿Qué significa para vos la promesa de la Resurrección en relación con esa persona?",
+        "¿Alguna vez sentiste la realidad del Salvador vivo en tu vida, no como doctrina sino como experiencia? ¿Cuándo?",
+        "¿Qué harías diferente esta semana si vivieras con la conciencia constante de que el Salvador está vivo y te conoce?",
+        "¿Cómo podrías celebrar la Pascua esta semana de una manera que tenga significado espiritual real para vos?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según Lucas 24:36–43, cuando Cristo se apareció a Sus discípulos después de resucitar, ¿qué hizo para demostrar que no era un espíritu?",
+      "options": [
+        "Les mostró sus heridas, les pidió que lo tocaran y comió pescado en su presencia.",
+        "Habló con una voz diferente y más poderosa que la que tenía en vida.",
+        "Desapareció y reapareció en diferentes lugares del cuarto simultáneamente.",
+        "Realizó un milagro sanando a uno de los discípulos que estaba enfermo."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "1 Corintios 15:22 dice 'en Cristo todos serán vivificados'. ¿A quiénes incluye ese 'todos'?",
+      "options": [
+        "Solo a los miembros de la Iglesia que guardaron sus convenios fielmente.",
+        "A todos los seres humanos que vivieron en la tierra — la resurrección es universal.",
+        "A quienes creyeron en Cristo durante su vida mortal.",
+        "Solo a los que murieron jóvenes o de manera inocente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "La resurrección de Lázaro (Juan 11) y la resurrección de Cristo son dos eventos diferentes. ¿En qué se diferencian doctrinalmente?",
+      "options": [
+        "No hay diferencia — ambas son resurrecciones permanentes con cuerpos glorificados.",
+        "Lázaro volvió a una vida mortal que terminaría en muerte; Cristo resucitó con un cuerpo glorificado e inmortal que no volverá a morir jamás.",
+        "Solo difieren en que Cristo resucitó primero y eso le dio autoridad sobre la muerte.",
+        "La diferencia es solo de cronología — Lázaro resucitará definitivamente junto con todos en la resurrección final."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "D&C 88:15 dice que 'el espíritu y el cuerpo son el alma del hombre'. ¿Qué implica eso sobre el significado de la resurrección para la identidad personal?",
+      "options": [
+        "Que el espíritu solo alcanza su plenitud cuando se libera permanentemente del cuerpo.",
+        "Que sin cuerpo el alma está incompleta — la resurrección restaura la plenitud de quiénes somos, no solo continúa el espíritu.",
+        "Que el cuerpo es solo un contenedor temporal sin parte en la identidad eterna.",
+        "Que la resurrección es principalmente una promesa para el cuerpo físico, no para el espíritu."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "La abuela de Renata falleció el año pasado. Renata dice que 'extrañarla toda la vida es demasiado duro'. Según 1 Corintios 15:22, ¿qué esperanza concreta y real puede ofrecer el evangelio a Renata?",
+      "options": [
+        "Que el dolor de la pérdida no es real porque las almas nunca mueren realmente.",
+        "Que la separación es temporal — la resurrección de Cristo garantiza que ella volverá a ver a su abuela.",
+        "Que su abuela está en un lugar mejor y eso debería ser suficiente para que Renata no llore.",
+        "Que la fe fuerte elimina el dolor del luto y Renata debería confiar más."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Agustín va a celebrar la Pascua este domingo pero siente que es 'solo ir a la Iglesia como siempre'. Según los detalles físicos de Lucas 24 (comer, tocar, hablar), ¿qué actitud diferente podría llevar Agustín a la reunión?",
+      "options": [
+        "Intentar sentir una emoción intensa durante la Santa Cena para que la Pascua sea especial.",
+        "Ir con la disposición de rendir homenaje a un evento histórico importante del pasado.",
+        "Renovar conscientemente su conexión con un Salvador que resucitó corporalmente y vive ahora — no recordar un mito sino celebrar una realidad presente.",
+        "No hay manera de hacer la Pascua más significativa si no se sienten emociones fuertes naturalmente."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "La Resurrección de Cristo y la doctrina de D&C 88:15 (espíritu + cuerpo = alma) juntas forman un argumento. ¿Cuál es el principio completo que esas dos enseñanzas construyen sobre la persona humana?",
+      "options": [
+        "Que el cuerpo es un obstáculo espiritual del que el alma necesita liberarse definitivamente.",
+        "Que solo el espíritu tiene valor eterno y el cuerpo resucita como beneficio secundario.",
+        "Que el cuerpo resucitado es completamente diferente al cuerpo mortal y no tiene continuidad con él.",
+        "Que la persona humana es una unidad de espíritu y cuerpo, y que la Resurrección de Cristo garantiza que esa unidad será restaurada para todos — lo que somos no se pierde."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

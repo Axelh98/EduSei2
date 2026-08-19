@@ -1,0 +1,61 @@
+{
+  "id": "leccion-28-7",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué haría la muerte de Cristo según Samuel?",
+      "options": [
+        "Nada",
+        "Traería a efecto la resurrección",
+        "Solo sería un ejemplo",
+        "Terminaría todo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Quiénes resucitarían según esta profecía?",
+      "options": [
+        "Solo los justos",
+        "Todos: justos e injustos",
+        "Solo los nefitas",
+        "Nadie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué condición traería la expiación?",
+      "options": [
+        "Salvación automática",
+        "La oportunidad de arrepentimiento y redención",
+        "Nada",
+        "Condenación para todos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué invitó Samuel al pueblo a hacer?",
+      "options": [
+        "Esperar pasivamente",
+        "Arrepentirse y prepararse para la venida de Cristo",
+        "Ignorar las señales",
+        "Rebelarse"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo respondió parte del pueblo al mensaje de Samuel?",
+      "options": [
+        "Todos creyeron",
+        "Algunos creyeron, otros intentaron matarlo",
+        "Todos lo rechazaron",
+        "Fueron indiferentes"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

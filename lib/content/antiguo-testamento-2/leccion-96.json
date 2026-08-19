@@ -1,0 +1,56 @@
+{
+  "id": "leccion-96",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el propósito principal de hacer una pausa para evaluar tu aprendizaje?",
+      "options": [
+        "Obtener una calificación para el Seminario.",
+        "Reconocer tu progreso espiritual y ajustar el rumbo hacia una mayor semejanza con Cristo.",
+        "Comparar tu avance con el de tus compañeros."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "De los relatos estudiados (Esdras, Nehemías, Ester), ¿qué tema común puedes identificar?",
+      "options": [
+        "Que la riqueza lleva al éxito espiritual.",
+        "Que el Señor restaura, protege y guía a Su pueblo cuando le es fiel.",
+        "Que los profetas siempre evitan el peligro."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué significa progresar 'en la dirección correcta' aunque sea lentamente?",
+      "options": [
+        "Que importa más la velocidad de tu aprendizaje que la calidad.",
+        "Que cada pequeño paso hacia el Salvador cuenta y es valioso ante los ojos de Dios.",
+        "Que no tienes que esforzarte si ya vas en la dirección correcta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué hábito espiritual habrías podido fortalecer en estas semanas de estudio?",
+      "options": [
+        "Solo asistir a Seminario sin estudiar en casa.",
+        "Orar, estudiar las Escrituras y aplicar las enseñanzas a tu vida diaria.",
+        "Memorizar todos los nombres de personajes del Antiguo Testamento."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo puedes utilizar los ejemplos de Ester, Nehemías y Esdras en tu propia vida?",
+      "options": [
+        "Imitando exactamente sus acciones históricas.",
+        "Aplicando los principios que demostraron: fe, valentía, arrepentimiento y confianza en el Señor.",
+        "Solo estudiándolos para aprender historia."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

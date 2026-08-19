@@ -1,0 +1,89 @@
+{
+  "id": "leccion-36-2",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Moroni asume el cuidado de los registros tras la muerte de su padre, Mormón. Está solo; los lamanitas han destruido a todos los nefitas. A pesar de su soledad y peligro de muerte, Moroni se enfoca en preservar el registro para nosotros. Escribe sobre las condiciones en que el Libro de Mormón saldría a la luz en los últimos días: tiempos de iniquidad, incredulidad y negación de milagros."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 8:3",
+          "texto": "Y mi padre también fue muerto por ellos, y yo quedo solo para escribir el triste relato de la destrucción de mi pueblo...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Mormón 8:16",
+          "texto": "Y bendito sea aquel que saque esto a luz; porque será sacado de las tinieblas a la luz... y será hecho por el poder de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa&id=p16#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te impresiona más sobre la dedicación de Moroni al continuar escribiendo estando completamente solo?",
+        "¿De qué manera las profecías de Moroni sobre nuestros días se cumplen hoy?",
+        "¿Cómo aumenta tu gratitud por el Libro de Mormón al saber lo que costó protegerlo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quién terminó el registro después de la muerte de Mormón?",
+      "options": [
+        "Nefi",
+        "Moroni",
+        "Alma",
+        "Helamán"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué describe Moroni sobre la destrucción?",
+      "options": [
+        "Fue menor",
+        "Fue total; todos los nefitas fueron destruidos",
+        "Solo algunas ciudades",
+        "No hubo destrucción"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué quedó solo Moroni?",
+      "options": [
+        "Se escondió",
+        "Los lamanitas mataron a todos los que no los negaban",
+        "Escapó primero",
+        "Era el más fuerte"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué profetizó Moroni sobre el libro?",
+      "options": [
+        "Que se perdería",
+        "Que saldría a luz en los últimos días",
+        "Que sería destruido",
+        "Que no importaría"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál era la esperanza de Moroni al escribir?",
+      "options": [
+        "Fama personal",
+        "Que el registro ayudaría a generaciones futuras",
+        "Venganza",
+        "Ninguna"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

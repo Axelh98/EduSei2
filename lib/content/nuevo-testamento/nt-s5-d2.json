@@ -1,0 +1,39 @@
+{
+  "id": "nt-s5-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A qué acontecimiento del Antiguo Testamento comparó Jesús Su crucifixión?",
+      "options": [
+        "Al arca de Noé.",
+        "A Moisés levantando la serpiente en el desierto.",
+        "A la entrega de las tablas de la ley.",
+        "Al sacrificio de Isaac."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es la promesa para quienes creen en Jesucristo según Juan 3:16?",
+      "options": [
+        "Riquezas temporales.",
+        "Que no se pierdan, mas tengan vida eterna.",
+        "Que nunca serán perseguidos.",
+        "Éxito social inmediato."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Para qué NO envió Dios a Su Hijo al mundo según Juan 3:17?",
+      "options": [
+        "Para salvarlo.",
+        "Para condenar al mundo.",
+        "Para enseñar la verdad.",
+        "Para sanar enfermos únicamente."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

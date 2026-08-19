@@ -1,0 +1,61 @@
+{
+  "id": "nt-s1-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la verdad más importante que el Espíritu Santo puede testificar?",
+      "options": [
+        "La ubicación del Jardín de Edén.",
+        "Que Jesús es el Cristo, el Hijo del Dios viviente.",
+        "La fecha de la Segunda Venida.",
+        "La genealogía de los profetas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo describe el presidente Ballard el efecto de los dispositivos inteligentes en la espiritualidad?",
+      "options": [
+        "Son herramientas esenciales para el Espíritu.",
+        "Pueden bloquear la voz suave y apacible del Espíritu.",
+        "No tienen ningún impacto.",
+        "Ayudan a escuchar mejor la revelación."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué requiere el proceso de recibir el Espíritu Santo según el élder Bednar?",
+      "options": [
+        "Ningún esfuerzo personal.",
+        "Un sincero y constante deseo de tener Su compañía.",
+        "Solo asistir a las reuniones.",
+        "Ser perfecto en todo momento."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué prometió el élder Soares si ponemos el Evangelio en el centro de nuestra vida?",
+      "options": [
+        "Que seremos los más inteligentes.",
+        "Que la influencia del Espíritu transmitirá la verdad a nuestro corazón.",
+        "Que no tendremos más pruebas.",
+        "Que recibiremos todas las bendiciones materiales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseñó José Smith sobre el \"espíritu de revelación\"?",
+      "options": [
+        "Que es algo que asusta.",
+        "Que se percibe como una repentina corriente de ideas.",
+        "Que solo los profetas lo reciben.",
+        "Que nunca se puede explicar."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

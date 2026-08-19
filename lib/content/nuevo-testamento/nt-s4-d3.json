@@ -1,0 +1,61 @@
+{
+  "id": "nt-s4-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué buscaban a Jesús muchas personas al día siguiente del milagro de los panes?",
+      "options": [
+        "Para escuchar Su doctrina.",
+        "Porque habían comido el pan y se habían saciado (por razones físicas).",
+        "Para arrestarlo.",
+        "Porque no tenían casa."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué prometió Jesús a quien venga a Él como el Pan de Vida?",
+      "options": [
+        "Que tendrá mucho dinero.",
+        "Que nunca tendrá hambre ni sed (espiritual).",
+        "Que será el líder de su nación.",
+        "Que no tendrá que volver a cocinar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué significa \"comer la carne y beber la sangre de Cristo\" según el élder Christofferson?",
+      "options": [
+        "Un acto literal de canibalismo.",
+        "Traer al Salvador a nuestra vida y recibir el poder de Su expiación.",
+        "Leer la Biblia una vez al año.",
+        "Ir al templo solo una vez."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la \"labor de servicio más sublime\" de la Iglesia según el élder Amado?",
+      "options": [
+        "Dar comida en desastres naturales.",
+        "Bendecir a los hombres enseñándoles la doctrina de Cristo y las ordenanzas de salvación.",
+        "Construir centros deportivos.",
+        "Organizar fiestas para los jóvenes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué significa procurar la \"santidad\" en el contexto de Juan 6?",
+      "options": [
+        "Apartarse del mundo físico por completo.",
+        "Adoptar las cualidades y el carácter de Cristo.",
+        "No hablar con nadie que no sea religioso.",
+        "Ser perfecto inmediatamente."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

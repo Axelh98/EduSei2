@@ -1,0 +1,61 @@
+{
+  "id": "nt-s14-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué prometió enviar el Salvador si Sus discípulos guardaban Sus mandamientos?",
+      "options": [
+        "Un ejército ángel.",
+        "Otro Consolador (el Espíritu Santo).",
+        "Muchos tesoros.",
+        "Un nuevo profeta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo llamó Jesús a Sus discípulos si hacían lo que Él les mandaba?",
+      "options": [
+        "Siervos útiles.",
+        "Amigos.",
+        "Alumnos.",
+        "Seguidores."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué clase de paz ofrece Cristo a diferencia de la paz del mundo?",
+      "options": [
+        "Una paz sin conflictos.",
+        "Su paz propia que sobrepasa el entendimiento y calma el corazón.",
+        "Una paz temporal.",
+        "Paz política."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es el mandamiento de Jesús en Juan 15:12?",
+      "options": [
+        "Que ayunen mucho.",
+        "Que se amen unos a otros como Él los ha amado.",
+        "Que lean la ley.",
+        "Que bauticen a todos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué prometió Jesús que haría el Espíritu Santo por los discípulos?",
+      "options": [
+        "Les daría dinero.",
+        "Les enseñaría todas las cosas y les recordaría Sus palabras.",
+        "Les haría inmortales en ese momento.",
+        "Les diría el futuro político."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

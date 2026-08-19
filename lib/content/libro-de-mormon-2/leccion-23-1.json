@@ -1,0 +1,118 @@
+{
+  "id": "leccion-23-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Alma responde a las preguntas de Coriantón sobre qué sucede después de la muerte. Explica que existe un estado intermedio entre la muerte y la resurrección donde los espíritus continúan conscientes. Los justos van al paraíso, un estado de descanso y paz, mientras que los inicuos van a un estado de oscuridad donde experimentan remordimiento. Esta separación temporal termina con la resurrección, cuando todos los espíritus se reunirán con sus cuerpos. El capítulo proporciona información doctrinal sobre el mundo de los espíritus."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dallin H. Oaks",
+      "fuente": "Liahona, noviembre de 2019, pág. 26",
+      "texto": "Sabemos por las Escrituras que, después de que nuestro cuerpo muere, continuamos viviendo como espíritus en el mundo de los espíritus. Las Escrituras también enseñan que ese mundo de los espíritus está dividido entre quienes han sido 'rectos' o 'justos' durante la vida y quienes han sido inicuos.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2019/11/17oaks?lang=spa&id=p5#p5"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 40:11-14",
+          "texto": "Los espíritus de todos los hombres, tan pronto como parten de este cuerpo mortal, son llevados a Dios. Los espíritus de los justos son recibidos en un estado de felicidad llamado paraíso.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=spa&id=p11-p14#p11"
+        },
+        {
+          "referencia": "Alma 40:23",
+          "texto": "El alma será restaurada al cuerpo, y el cuerpo al alma; todo miembro y coyuntura serán restablecidos a su propio cuerpo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=spa&id=p23#p23"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo afecta la enseñanza sobre el mundo de los espíritus tu perspectiva sobre la muerte?",
+        "¿Qué puedes hacer en la vida mortal para prepararte para el mundo de los espíritus?",
+        "¿Cómo te ayuda la doctrina de la resurrección a comprender el plan de salvación?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Sobre qué tema enseña Alma a Coriantón en este capítulo?",
+      "options": [
+        "El significado del bautismo",
+        "La creación del mundo",
+        "El estado del alma entre la muerte y la resurrección",
+        "La Segunda Venida de Cristo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "Según Alma 40:11, ¿qué sucede con el espíritu cuando el cuerpo muere?",
+      "options": [
+        "Regresa a Dios, quien le dio la vida",
+        "Se pierde en un estado de olvido",
+        "Duerme sin conciencia hasta el juicio final",
+        "Deja de existir por completo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Alma describe tanto el paraíso como la prisión espiritual como estados del alma, no simplemente lugares físicos al azar. ¿Qué principio enseña esta distinción?",
+      "options": [
+        "Que todos van al mismo lugar sin importar cómo hayan vivido",
+        "Que solo los profetas pueden saber qué les espera después de morir",
+        "Que el destino de cada persona después de la muerte es aleatorio",
+        "Que el estado del alma tras la muerte refleja directamente cómo vivió esa persona y las obras que hizo en la mortalidad"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "Alma enseña que todos, justos e inicuos, serán resucitados (Alma 40:16–21). ¿Qué nos dice esto sobre la resurrección en comparación con el estado del alma inmediatamente después de la muerte?",
+      "options": [
+        "Que la resurrección es un don universal que alcanza a todos por igual, mientras que el estado del alma antes de ella sí depende de las obras de cada persona",
+        "Que solo los justos serán resucitados",
+        "Que la resurrección depende completamente del arrepentimiento de cada persona",
+        "Que la resurrección y el juicio ocurren exactamente en el mismo instante que la muerte"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "A Sofía le preocupa mucho pensar en qué sucede después de la muerte y no sabe bien qué creer. Según Alma 40, ¿qué le podrías compartir?",
+      "options": [
+        "Que nadie puede saber nada acerca de lo que sucede después de morir",
+        "Que el espíritu regresa a Dios y entra en un estado de descanso si vivió con fe, y que finalmente cuerpo y espíritu se reunirán en la resurrección",
+        "Que la muerte significa el fin completo de la existencia de la persona",
+        "Que solo los líderes de la Iglesia tienen derecho a un estado de descanso"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Mateo piensa que como todos van a resucitar de todas formas, 'da lo mismo' cómo se viva ahora. Según Alma 40, ¿qué matiz le agregarías?",
+      "options": [
+        "Que tiene razón: la forma de vivir no cambia nada del resultado final",
+        "Que aunque la resurrección alcanza a todos, el estado del alma tras la muerte —paraíso o prisión espiritual— sí depende de las obras y el arrepentimiento durante esta vida",
+        "Que solo la resurrección importa, y el estado intermedio del alma no tiene ninguna relevancia",
+        "Que Alma nunca habló sobre las consecuencias de las decisiones personales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto el estado de paraíso como el de prisión espiritual muestran algo en común sobre el plan de Dios después de la muerte. ¿Cuál es?",
+      "options": [
+        "Que la vida después de la muerte no es un estado indiferenciado; refleja de manera directa la relación que cada persona tuvo con la rectitud durante su vida mortal",
+        "Que ambos estados son idénticos y solo cambian de nombre",
+        "Que ninguno de los dos estados tiene relación con las decisiones tomadas en esta vida",
+        "Que solo existe un estado posible después de la muerte, sin distinción alguna"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

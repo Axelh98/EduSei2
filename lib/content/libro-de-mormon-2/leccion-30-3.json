@@ -1,0 +1,94 @@
+{
+  "id": "leccion-30-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Estos versículos contienen el testimonio directo de Jesucristo sobre Sí mismo. Se identifica como el Jesucristo de quien los profetas testificaron. Declara que ha cumplido la voluntad del Padre y ha glorificado Su nombre. Testifica que ha bebido la copa amarga de la expiación. Esta declaración es fundamental porque viene directamente de Cristo, confirmando Su identidad y misión. Es el testimonio más claro y directo del Salvador sobre Su propia obra expiatoria."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 11:10",
+          "texto": "He aquí, yo soy Jesucristo, de quien los profetas testificaron que vendría al mundo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "3 Nefi 11:11",
+          "texto": "He aquí, yo soy la luz y la vida del mundo; y he bebido de aquella copa amarga que el Padre me ha dado, y he glorificado al Padre, tomando sobre mí los pecados del mundo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Juan 4:25-26",
+          "texto": "La mujer le dijo: Sé que ha de venir el Mesías. Jesús le dijo: Yo soy, el que habla contigo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/4?lang=spa&id=p25-p26#p25"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué importancia tiene que Cristo declare personalmente Su identidad y misión?",
+        "¿Cómo describirías lo que significa que Cristo haya 'bebido la copa amarga'?",
+        "¿De qué manera este testimonio de Cristo fortalece tu propio testimonio de Él?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué le dijo la voz del Señor a Nefi en 3 Nefi 1:13?",
+      "options": [
+        "Que esperara más",
+        "Que se regocijara porque vendría esa noche",
+        "Que huyera",
+        "Que descansara"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué anunció el Señor que sucedería esa noche?",
+      "options": [
+        "Un terremoto",
+        "Que daría una señal de Su nacimiento",
+        "Una guerra",
+        "Una inundación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo describe el Señor Su venida en estos versículos?",
+      "options": [
+        "Como un conquistador",
+        "Como alguien que viene 'al mundo'",
+        "Como un juez",
+        "Como un rey terrenal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué demuestra este pasaje sobre las promesas de Dios?",
+      "options": [
+        "Que son inciertas",
+        "Que siempre se cumplen en Su tiempo",
+        "Que no importan",
+        "Que son condicionales sin cumplirse"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué podemos aprender de la paciencia de Nefi?",
+      "options": [
+        "Que debemos dudar",
+        "Que debemos confiar en el tiempo del Señor",
+        "Que debemos rendirnos",
+        "Que no debemos orar"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

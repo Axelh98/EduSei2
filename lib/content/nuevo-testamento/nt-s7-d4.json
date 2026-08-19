@@ -1,0 +1,39 @@
+{
+  "id": "nt-s7-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quiénes pasaron de largo al ver al hombre herido en el camino a Jericó?",
+      "options": [
+        "Dos samaritanos.",
+        "Un sacerdote y un levita.",
+        "Dos soldados romanos.",
+        "Sus propios hermanos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hizo el samaritano al ver al herido?",
+      "options": [
+        "Lo ignoró.",
+        "Fue movido a misericordia, vendó sus heridas y lo llevó al mesón.",
+        "Llamó a la guardia.",
+        "Le robó lo poco que le quedaba."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿A quién representa simbólicamente el Buen Samaritano según el élder Andersen?",
+      "options": [
+        "A Pedro.",
+        "A Jesucristo, enviado a sanar a los quebrantados de corazón.",
+        "A un buen vecino.",
+        "Al intérprete de la ley."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

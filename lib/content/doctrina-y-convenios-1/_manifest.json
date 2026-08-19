@@ -1,0 +1,965 @@
+{
+  "categoryId": "doctrina-y-convenios-1",
+  "layoutType": "weekly",
+  "weeks": [
+    {
+      "id": 1,
+      "title": "Semana 1",
+      "dateRange": "3 al 9 de Marzo",
+      "lessons": [
+        {
+          "id": "31-dc-19-1-24-parte-1",
+          "title": "Doctrina y Convenios 19:1-24, Parte 1",
+          "description": "Jesucristo se sometió a la voluntad del Padre Celestial",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/101-doctrine-and-covenants-19-1-24-part-1?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "32-dc-19-1-24-parte-2",
+          "title": "Doctrina y Convenios 19:1-24, Parte 2",
+          "description": "\"Yo, Jesucristo, he padecido estas cosas por todos\"",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/102-doctrine-and-covenants-19-1-24-part-2?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "33-dc-19-25-41",
+          "title": "Doctrina y Convenios 19:25-41",
+          "description": "Ver los sacrificios con una perspectiva eterna",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/103-doctrine-and-covenants-19-25-41?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "164-fortalecer-cimiento",
+          "title": "Fortalecer tu cimiento espiritual",
+          "description": "Introducción al Dominio de la Doctrina",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/521-introduction-to-doctrinal-mastery?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "165-buscar-revelacion",
+          "title": "Buscar revelación personal para mis preguntas",
+          "description": "Principios para adquirir conocimiento espiritual - Parte 1",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/522-acquiring-spiritual-knowledge-part-1?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Semana 2",
+      "dateRange": "10 al 16 de Marzo",
+      "lessons": [
+        {
+          "id": "35-dc-20-1-36",
+          "title": "Doctrina y Convenios 20:1-36",
+          "description": "La organización de la Iglesia de Jesucristo",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/111-doctrine-and-covenants-20-1-36?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "36-dc-20-37-68-79",
+          "title": "Doctrina y Convenios 20:37, 68-79",
+          "description": "El bautismo y la Santa Cena: cumplir las expectativas del Señor",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/112-doctrine-and-covenants-20-37?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "37-dc-21",
+          "title": "Doctrina y Convenios 21",
+          "description": "Recibir las palabras del profeta",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/113-doctrine-and-covenants-21?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "166-examinar-perspectiva",
+          "title": "Actuar con fe para encontrar respuestas",
+          "description": "Principios para adquirir conocimiento espiritual - Parte 2",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/523-acquiring-spiritual-knowledge-part-2?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "167-fuentes-divinas",
+          "title": "Analizar temas y preguntas del Evangelio con una perspectiva eterna",
+          "description": "Principios para adquirir conocimiento espiritual - Parte 3",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/524-acquiring-spiritual-knowledge-part-3?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Semana 3",
+      "dateRange": "17 al 23 de Marzo",
+      "lessons": [
+        {
+          "id": "38-dc-23-24",
+          "title": "Doctrina y Convenios 23–24",
+          "description": "\"Te hablo a ti\" — El Padre Celestial y Jesucristo te conocen",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/121-doctrine-and-covenants-23-24?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "39-dc-25-parte-1",
+          "title": "Doctrina y Convenios 25, Parte 1",
+          "description": "Emma Smith, mi hija — Cómo llegar a ser como el Salvador",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/122-doctrine-and-covenants-25-part-1?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "39b-dc-25-parte-2",
+          "title": "Doctrina y Convenios 25, Parte 2",
+          "description": "Buscar las cosas de un mundo mejor",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/123-doctrine-and-covenants-25-part-2?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "166-actuar-fe-encontrar-respuestas",
+          "title": "Recurrir a las fuentes divinamente señaladas como ayuda para encontrar respuestas",
+          "description": "Principios para adquirir conocimiento espiritual - Parte 4",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/525-acquiring-spiritual-knowledge-part-4?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "167-fijar-metas",
+          "title": "Fijar metas",
+          "description": "Cómo establecer y alcanzar metas espirituales",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/552-setting-goals?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Semana 4",
+      "dateRange": "24 al 30 de Marzo",
+      "lessons": [
+        {
+          "id": "41-dc-27-1-14",
+          "title": "Doctrina y Convenios 27:1–14",
+          "description": "\"Con la mira puesta únicamente en mi gloria\"",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/131-doctrine-and-covenants-27-1-14?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "42-dc-27-15-18",
+          "title": "Doctrina y Convenios 27:15–18",
+          "description": "\"Tomad sobre vosotros toda mi armadura\"",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/132-doctrine-and-covenants-27-15-18?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "43-dc-28",
+          "title": "Doctrina y Convenios 28",
+          "description": "El orden de la revelación en la Iglesia",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/133-doctrine-and-covenants-28?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "169-encontrar-verdades-evangelio",
+          "title": "Encontrar verdades del Evangelio en las Escrituras",
+          "description": "Identificar y aplicar principios del Evangelio al estudiar",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/532-finding-gospel-truths-in-the-scriptures?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "168-enfocarse-jc-escrituras",
+          "title": "Centrarse en Jesucristo en las Escrituras",
+          "description": "Técnicas para encontrar a Cristo en el estudio de las Escrituras",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/531-focusing-on-jesus-christ-in-the-scriptures?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Semana 5",
+      "dateRange": "31 de Marzo al 6 de Abril",
+      "lessons": [
+        {
+          "id": "44-dc-29-1-8",
+          "title": "Doctrina y Convenios 29:1–8",
+          "description": "Escucha a tu Redentor",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/141-doctrine-and-covenants-29-1-8?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "45-dc-29-9-29",
+          "title": "Doctrina y Convenios 29:9–29",
+          "description": "Sentir gozo por la Segunda Venida de Jesucristo",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/142-doctrine-and-covenants-29-9-29?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "46-dc-29-36-50",
+          "title": "Doctrina y Convenios 29:36–50",
+          "description": "El albedrío y la redención de los niños pequeños",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/143-doctrine-and-covenants-29-36-50?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "170-preparar-conferencia-general",
+          "title": "Prepararse para la conferencia general",
+          "description": "Cómo prepararse espiritualmente para recibir los mensajes del profeta",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/541-preparing-for-general-conference?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        },
+        {
+          "id": "171-mensajes-siervos",
+          "title": "Estudiar los mensajes de los siervos del Señor",
+          "description": "Herramientas para estudiar y aplicar la Conferencia General",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/542-studying-the-messages-of-the-lords-servants?lang=spa",
+          "questionCount": 6,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Semana 6",
+      "dateRange": "7 al 13 de Abril",
+      "lessons": [
+        {
+          "id": "47-dc-30-36-parte-1",
+          "title": "Doctrina y Convenios 30–36, Parte 1",
+          "description": "Llamados a predicar el Evangelio",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/151-doctrine-and-covenants-30-36-part-1?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "48-dc-30-36-parte-2",
+          "title": "Doctrina y Convenios 30–36, Parte 2",
+          "description": "Llamados a proclamar el Evangelio de Jesucristo",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/152-doctrine-and-covenants-30-36-part-2?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "49-dc-35",
+          "title": "Doctrina y Convenios 35",
+          "description": "El llamado de Sidney Rigdon",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/153-doctrine-and-covenants-35?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "50-dominio-practica-3",
+          "title": "Práctica del Dominio de la doctrina 3",
+          "description": "Repaso y aplicación práctica de pasajes clave",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/154-doctrinal-mastery-practice-3?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "ensenanza-profeta-actual",
+          "title": "Enseñanza del profeta actual",
+          "description": "Cómo estudiar y aplicar las enseñanzas de los líderes de la Iglesia",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/543-template-teachings-of-church-leaders?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Semana 7",
+      "dateRange": "14 al 20 de Abril",
+      "lessons": [
+        {
+          "id": "162-el-cristo-viviente-parte-1",
+          "title": "El Cristo Viviente, Parte 1",
+          "description": "Estudio y memorización del testimonio del Cristo Viviente",
+          "type": "Especial",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/511-the-living-christ-part-1?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "163-el-cristo-viviente-parte-2",
+          "title": "El Cristo Viviente, Parte 2",
+          "description": "Aplicación del testimonio del Cristo Viviente a la vida personal",
+          "type": "Especial",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/512-the-living-christ-part-2?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "pascua-resurreccion",
+          "title": "Lección Pascua de Resurrección con \"Ven, Sígueme\"",
+          "description": "Celebración de la Resurrección de Jesucristo",
+          "type": "Especial",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/16-doctrine-and-covenants-easter?lang=spa&id=title3-p6",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Semana 8",
+      "dateRange": "21 al 27 de Abril",
+      "lessons": [
+        {
+          "id": "51-dc-37-38-parte-1",
+          "title": "Doctrina y Convenios 37; 38:1–9, 28–33",
+          "description": "El mandamiento de congregarse y el amor de Cristo por los santos",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/161-doctrine-and-covenants-37-38?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "52-dc-38-parte-2",
+          "title": "Doctrina y Convenios 38:15–27, 34–42",
+          "description": "Principios de unidad, igualdad y preparación en Sion",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/162-doctrine-and-covenants-38-15-27-34-42?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "53-dc-39-40",
+          "title": "Doctrina y Convenios 39–40",
+          "description": "El peligro de postergar el arrepentimiento y las promesas a James Covill",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/163-doctrine-and-covenants-39-40?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "54-evalua-aprendizaje-3",
+          "title": "Evalúa tu aprendizaje 3",
+          "description": "Revisión del aprendizaje del tercer bloque",
+          "type": "Especial",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/164-assess-your-learning-3?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "171-tomar-notas-escrituras",
+          "title": "Tomar notas en las Escrituras",
+          "description": "Técnicas para marcar y anotar las Escrituras de forma efectiva",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/533-annotating-scriptures?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Semana 9",
+      "dateRange": "28 de Abril al 4 de Mayo",
+      "lessons": [
+        {
+          "id": "55-dc-41",
+          "title": "Doctrina y Convenios 41",
+          "description": "El Señor llama al primer obispo de la Iglesia",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/171-doctrine-and-covenants-41?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "56-dc-42-parte-1",
+          "title": "Doctrina y Convenios 42, Parte 1",
+          "description": "Las leyes y mandamientos para guiar a la Iglesia",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/172-doctrine-and-covenants-42?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "191-importancia-educacion",
+          "title": "La importancia de la formación académica",
+          "description": "Preparación académica como mayordomía del talento",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/581-the-importance-of-education?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "57-dc-42-29-39",
+          "title": "Doctrina y Convenios 42:29–39",
+          "description": "La ley de consagración y el cuidado de los pobres",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/173-doctrine-and-covenants-42-29-39?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Semana 10",
+      "dateRange": "5 al 11 de Mayo",
+      "lessons": [
+        {
+          "id": "58-dc-45-1-8",
+          "title": "Doctrina y Convenios 45:1-8",
+          "description": "Cristo intercede ante el Padre por nosotros",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/181-doctrine-and-covenants-45-1-8?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "59-dc-45-9-75-parte-1",
+          "title": "Doctrina y Convenios 45:9-75, Parte 1",
+          "description": "Las señales de los tiempos y la Segunda Venida",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/182-doctrine-and-covenants-45-9-75-part-1?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "60-dc-45-9-75-parte-2",
+          "title": "Doctrina y Convenios 45:9-75, Parte 2",
+          "description": "La Nueva Jerusalén y los preparativos para la venida del Señor",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/183-doctrine-and-covenants-45-9-75-part-2?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "195_hacer_senor_aprendizaje",
+          "title": "Hacer que el Señor forme parte del aprendizaje",
+          "description": "Integrar la fe y la oración en la formación académica",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/591-involving-the-lord-in-your-learning?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "196-integridad-educacion",
+          "title": "La integridad en nuestra formación académica",
+          "description": "Ser honesto en el estudio y las evaluaciones académicas",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/592-integrity-in-our-education?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Semana 11",
+      "dateRange": "12 al 18 de Mayo",
+      "lessons": [
+        {
+          "id": "197-preparar-examenes",
+          "title": "Cómo prepararse para los exámenes y los proyectos difíciles",
+          "description": "Estrategias de estudio con principios del Evangelio",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/593-preparing-for-tests-and-challenging-projects?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "61-dc-46-1-6",
+          "title": "Doctrina y Convenios 46:1-6",
+          "description": "Las reuniones de la Iglesia y la dirección del Espíritu",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/191-doctrine-and-covenants-46-1-6?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "62-dc-46-7-33-parte-1",
+          "title": "Doctrina y Convenios 46:7-33, Parte 1",
+          "description": "Los dones del Espíritu y su propósito",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/192-doctrine-and-covenants-46-7-33-part-1?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "63-dc-46-7-33-parte-2",
+          "title": "Doctrina y Convenios 46:7-33, Parte 2",
+          "description": "Buscar y desarrollar los dones espirituales",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/193-doctrine-and-covenants-46-7-33-part-2?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Semana 12",
+      "dateRange": "19 al 25 de Mayo",
+      "lessons": [
+        {
+          "id": "64-dc-49",
+          "title": "Doctrina y Convenios 49",
+          "description": "Revelación sobre los Shakers y los principios del Evangelio restaurado",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/201-doctrine-and-covenants-49?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "65-dc-50-parte-1",
+          "title": "Doctrina y Convenios 50, Parte 1",
+          "description": "Discernir espíritus engañosos mediante el Espíritu Santo",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/202-doctrine-and-covenants-50-part-1?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "66-dc-50-parte-2",
+          "title": "Doctrina y Convenios 50, Parte 2",
+          "description": "Enseñar y recibir por el Espíritu",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/203-doctrine-and-covenants-50-part-2?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "67-evalua-aprendizaje-4",
+          "title": "Evalúa tu aprendizaje 4",
+          "description": "Revisión del aprendizaje del cuarto bloque",
+          "type": "Especial",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/204-assess-your-learning-4?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Semana 13",
+      "dateRange": "26 de Mayo al 1 de Junio",
+      "lessons": [
+        {
+          "id": "68-dc-51",
+          "title": "Doctrina y Convenios 51",
+          "description": "La organización temporal de los santos en Ohio",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/211-doctrine-and-covenants-51?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "69-dc-57",
+          "title": "Doctrina y Convenios 57",
+          "description": "Independence, Misuri: el lugar central de Sion",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/212-doctrine-and-covenants-57?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "70-dominio-practica-4",
+          "title": "Práctica del Dominio de la doctrina 4",
+          "description": "Repaso y aplicación práctica de pasajes clave",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/213-doctrinal-mastery-practice-4?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "198-mentalidad-crecimiento",
+          "title": "Mentalidad de crecimiento",
+          "description": "Desarrollar una mentalidad de crecimiento con el Evangelio",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/594-growth-mindset?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "180-autosuficiencia-senor",
+          "title": "Desarrollar autosuficiencia a la manera del Señor",
+          "description": "Principios de autosuficiencia según la perspectiva del Evangelio",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/561-building-the-self-reliance-in-the-lords-way?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Semana 14",
+      "dateRange": "2 al 8 de Junio",
+      "lessons": [
+        {
+          "id": "71-dc-58-26-29",
+          "title": "Doctrina y Convenios 58:26-29",
+          "description": "No es mandado en todo — la agencia y la iniciativa en el Evangelio",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/221-doctrine-and-covenants-58-26-29?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "72-dc-58-38-60",
+          "title": "Doctrina y Convenios 58:38-60",
+          "description": "El arrepentimiento y el perdón: el Señor recuerda los pecados no más",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/222-doctrine-and-covenants-58-38-60?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "73-dc-59",
+          "title": "Doctrina y Convenios 59",
+          "description": "El día de reposo y la gratitud como forma de vida",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/223-doctrine-and-covenants-59?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "193-descubre-fortalezas",
+          "title": "Descubre tus fortalezas y habilidades",
+          "description": "Identificar los talentos y dones que el Señor ha dado a cada persona",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/583-discovering-your-strengths-and-abilities?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "194-desarrollar-habilidades",
+          "title": "Desarrollar habilidades y destrezas",
+          "description": "Cómo desarrollar y perfeccionar las habilidades con diligencia",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/584-developing-skills-and-abilities?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Semana 15",
+      "dateRange": "9 al 15 de Junio",
+      "lessons": [
+        {
+          "id": "181-fe-autosuficiencia",
+          "title": "Fe en Jesucristo para desarrollar la autosuficiencia",
+          "description": "La fe en Cristo como fundamento de la autosuficiencia personal",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/562-faith-in-jesus-christ-to-build-self-reliance?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "182-administracion-recursos",
+          "title": "La administración prudente de los recursos económicos",
+          "description": "Principios del Evangelio aplicados a las finanzas personales",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/563-managing-financial-resources-wisely?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "74-dc-60-62",
+          "title": "Doctrina y Convenios 60–62",
+          "description": "El viaje de regreso a Ohio y las instrucciones del Señor en el camino",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/231-doctrine-and-covenants-60-62?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "75-dc-63-1-23",
+          "title": "Doctrina y Convenios 63:1-23",
+          "description": "Las señales siguen a la fe, no la preceden",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/232-doctrine-and-covenants-63-1-23?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "76-dc-63-57-64",
+          "title": "Doctrina y Convenios 63:57-64",
+          "description": "La importancia de usar los nombres sagrados con reverencia",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/233-doctrine-and-covenants-63-57-64?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Semana 16",
+      "dateRange": "16 al 22 de Junio",
+      "lessons": [
+        {
+          "id": "183-autosuficiencia-cuidar-otros",
+          "title": "La autosuficiencia nos permite cuidar mejor de los demás",
+          "description": "Cómo la autosuficiencia personal nos habilita para servir a otros",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/564-self-reliance-enables-us-to-better-care-for-others?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "77-dc-64-1-17",
+          "title": "Doctrina y Convenios 64:1-17",
+          "description": "El mandamiento de perdonar a todos los hombres",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/241-doctrine-and-covenants-64-1-17?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "78-dc-64-20-43",
+          "title": "Doctrina y Convenios 64:20-43",
+          "description": "No cansarse de hacer el bien y los preparativos de Sion",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/242-doctrine-and-covenants-64-20-43?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "79-dc-65",
+          "title": "Doctrina y Convenios 65",
+          "description": "La oración y el crecimiento del Reino de Dios en la tierra",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/243-doctrine-and-covenants-65?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Semana 17",
+      "dateRange": "23 al 29 de Junio",
+      "lessons": [
+        {
+          "id": "80-dc-67",
+          "title": "Doctrina y Convenios 67",
+          "description": "El desafío a los hombres sabios sobre el lenguaje de las revelaciones",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/251-doctrine-and-covenants-67?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "81-dc-68-25-31",
+          "title": "Doctrina y Convenios 68:25-31",
+          "description": "La responsabilidad de los padres de enseñar el Evangelio a sus hijos",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/252-doctrine-and-covenants-68-25-31?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "210-plantilla-lideres",
+          "title": "Plantilla: Enseñanzas de los líderes de la Iglesia",
+          "description": "Cómo estudiar y presentar enseñanzas de líderes de la Iglesia",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/543-template-teachings-of-church-leaders?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "211-decisiones-eternidad",
+          "title": "\"Decisiones para la eternidad\"",
+          "description": "Tomar decisiones con perspectiva eterna",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/544-choices-for-eternity?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "172-herramientas-escrituras",
+          "title": "Herramientas para el estudio de las Escrituras",
+          "description": "Recursos digitales y físicos para profundizar el estudio de las Escrituras",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/534-scripture-study-tools?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Semana 18",
+      "dateRange": "30 de Junio al 6 de Julio",
+      "lessons": [
+        {
+          "id": "82-dc-71",
+          "title": "Doctrina y Convenios 71",
+          "description": "El mandato de refutar los errores con las Escrituras",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/261-doctrine-and-covenants-71?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "83-dominio-practica-5",
+          "title": "Práctica del Dominio de la doctrina 5",
+          "description": "Repaso y aplicación práctica de pasajes clave",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/262-doctrinal-mastery-practice-5?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "84-evalua-aprendizaje-5",
+          "title": "Evalúa tu aprendizaje 5",
+          "description": "Revisión del aprendizaje del quinto bloque",
+          "type": "Especial",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/263-assess-your-learning-5?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "173-contexto-escrituras",
+          "title": "Comprender el contexto de las Escrituras",
+          "description": "La importancia del contexto histórico y literario en el estudio de las Escrituras",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/535-understanding-the-context-of-scriptures?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "184-cuidar-cuerpo",
+          "title": "Cómo cuidar nuestro cuerpo",
+          "description": "El cuerpo como templo y la responsabilidad de cuidarlo",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/571-caring-for-our-physical-bodies?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Semana 19",
+      "dateRange": "7 al 13 de Julio",
+      "lessons": [
+        {
+          "id": "85-dc-76-1-19",
+          "title": "Doctrina y Convenios 76:1-19",
+          "description": "El testimonio de Joseph Smith y Sidney Rigdon sobre la realidad de Jesucristo",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/271-doctrine-and-covenants-76-1-19?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "86-dc-76-19-24",
+          "title": "Doctrina y Convenios 76:19-24",
+          "description": "La visión del Padre y del Hijo — un testimonio viviente",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/272-doctrine-and-covenants-76-19-24?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "87-dc-76-50-70",
+          "title": "Doctrina y Convenios 76:50-70",
+          "description": "Los hijos de perdición y los requisitos del Reino Celestial",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/273-doctrine-and-covenants-76-50-70?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "88-dc-76-71-112",
+          "title": "Doctrina y Convenios 76:71-112",
+          "description": "Los Reinos Terrestre y Telestial en la visión de las glorias",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/274-doctrine-and-covenants-76-71-112?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "185-fortaleza-emocional",
+          "title": "Desarrollar fortaleza emocional en el Señor",
+          "description": "Principios del Evangelio para fortalecer la salud emocional",
+          "type": "Preparación para la Vida",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/572-building-emotional-strength-in-the-lord?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Semana 20",
+      "dateRange": "14 al 20 de Julio",
+      "lessons": [
+        {
+          "id": "89-dc-78",
+          "title": "Doctrina y Convenios 78",
+          "description": "La organización de los asuntos temporales de la Iglesia para los pobres",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/281-doctrine-and-covenants-78?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "90-dc-79-80",
+          "title": "Doctrina y Convenios 79-80",
+          "description": "Llamamientos misionales a Jared Carter, Stephen Burnett y Eden Smith",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/282-doctrine-and-covenants-79-80?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        }
+      ]
+    }
+  ]
+}

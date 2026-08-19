@@ -1,0 +1,56 @@
+{
+  "id": "leccion-207",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué es importante aprender a enseñar los mensajes de los líderes de la Iglesia?",
+      "options": [
+        "Para impresionar a los demás con tu conocimiento.",
+        "Porque los discursos de los líderes contienen guía inspirada del Señor que puede bendecir las vidas de quienes los escuchan.",
+        "Solo es importante si tienes un llamamiento de maestro."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el primer paso recomendado en la plantilla para preparar una enseñanza?",
+      "options": [
+        "Buscar muchas citas de diferentes fuentes.",
+        "Leer y estudiar el mensaje con oración para identificar la verdad central y sentir el Espíritu.",
+        "Preparar diapositivas o presentaciones visuales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué papel juega el Espíritu Santo en la enseñanza de los mensajes del Evangelio?",
+      "options": [
+        "Es solo un apoyo adicional, no es esencial.",
+        "Es el verdadero maestro; nuestra labor es prepararnos para que Él pueda enseñar a través de nosotros.",
+        "Solo actúa cuando el maestro es un líder con autoridad del sacerdocio."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo puedes hacer que un mensaje de conferencia sea relevante para quienes lo enseñas?",
+      "options": [
+        "Leyendo el discurso palabra por palabra durante la clase.",
+        "Conectando las verdades del mensaje con las experiencias y necesidades reales de las personas a quienes enseñas.",
+        "Buscando que el mensaje sea lo más corto posible."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué debes hacer después de preparar la lección para asegurarte de que está lista?",
+      "options": [
+        "Mostrarla a un amigo para que la apruebe.",
+        "Orar para que el Espíritu esté presente y te guíe durante la enseñanza.",
+        "Memorizarla completamente para no necesitar notas."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

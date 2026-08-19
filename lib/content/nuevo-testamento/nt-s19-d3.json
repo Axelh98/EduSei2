@@ -1,0 +1,61 @@
+{
+  "id": "nt-s19-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál era el propósito de Saulo al viajar a Damasco?",
+      "options": [
+        "Visitar a sus amigos.",
+        "Arrestar a los seguidores de Jesús.",
+        "Comprar seda.",
+        "Estudiar con los escribas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué luz rodeó a Saulo en el camino y qué voz escuchó?",
+      "options": [
+        "Una luz de antorchas y la voz de un soldado.",
+        "Una luz del cielo y la voz de Jesús preguntando: \"¿Por qué me persigues?\".",
+        "La luz de la luna y el canto de los pájaros.",
+        "Una luz de fuego y la voz de Moisés."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué condición física tuvo Saulo durante tres días tras la visión?",
+      "options": [
+        "Quedó mudo.",
+        "Quedó ciego y no comió ni bebió.",
+        "No podía caminar.",
+        "Perdió la memoria."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿A quién envió el Señor para sanar a Saulo y bautizarlo?",
+      "options": [
+        "A Pedro.",
+        "A Ananías.",
+        "A Felipe.",
+        "A Bernabé."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué comenzó a hacer Saulo inmediatamente después de ser sanado y bautizado?",
+      "options": [
+        "Volver a perseguir cristianos.",
+        "Predicar en las sinagogas que Jesús es el Hijo de Dios.",
+        "Huir a Roma.",
+        "Trabajar como carpintero."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

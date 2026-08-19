@@ -1,0 +1,89 @@
+{
+  "id": "leccion-32-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Al ver que la gente está cansada, el Salvador decide irse, pero nota sus lágrimas y su deseo de que se quede. Lleno de compasión, Cristo se queda, sana a sus enfermos y bendice a sus niños uno por uno. Ángeles descienden del cielo y ministran a los niños envueltos en fuego. Este es uno de los capítulos más tiernos que muestra la profunda compasión y amor personal de Jesucristo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 17:6-7",
+          "texto": "Y les dijo: He aquí, mis entrañas rebosan de compasión por vosotros. ¿Tenéis enfermos entre vosotros? Traedlos aquí...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=spa&id=p6-p7#p6"
+        },
+        {
+          "referencia": "3 Nefi 17:21",
+          "texto": "Y cuando hubo dicho estas palabras, lloró, y la multitud dio testimonio de ello; y tomó a sus niños pequeños, uno por uno, y los bendijo, y rogó al Padre por ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=spa&id=p21#p21"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué nos enseña este relato sobre los sentimientos que Jesucristo tiene hacia nosotros personalmente?",
+        "¿Cómo has sentido la compasión del Salvador en un momento de necesidad?",
+        "¿Por qué crees que bendijo a los niños 'uno por uno'?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué enseñó Cristo sobre el bautismo?",
+      "options": [
+        "Que no es necesario",
+        "La manera correcta de bautizar por inmersión",
+        "Que puede hacerse de cualquier forma",
+        "Que es opcional"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué doctrina clara enseñó Cristo en 3 Nefi 11?",
+      "options": [
+        "Su doctrina de fe, arrepentimiento, bautismo y el don del Espíritu Santo",
+        "Solo reglas",
+        "Leyes complejas",
+        "Tradiciones"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué advirtió Cristo sobre las contenciones?",
+      "options": [
+        "Que son buenas",
+        "Que el espíritu de contención no es de Él sino del diablo",
+        "Que no importan",
+        "Que son necesarias"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿A quiénes llamó Cristo para ministrar?",
+      "options": [
+        "A los ricos",
+        "A doce discípulos nefitas",
+        "A los reyes",
+        "A los guerreros"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué oró Cristo por el pueblo?",
+      "options": [
+        "Por sus riquezas",
+        "Por su unidad y firmeza en la fe",
+        "Por su poder",
+        "Por su fama"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "194-desarrollar-habilidades",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Identificar los propios dones y fortalezas es el primer paso — el segundo es desarrollarlos con diligencia. El Señor no espera que sus discípulos se queden con lo que les fue dado; espera que lo multipliquen. La parábola de los talentos (Mateo 25:14–30) es el modelo: el siervo fiel no solo custodia lo que recibió sino que lo hace crecer. Esta lección aplica ese principio al desarrollo de habilidades prácticas en la vida adolescente: habilidades académicas, sociales, espirituales y laborales. El desarrollo de habilidades requiere tres cosas que la cultura del entretenimiento dificulta: constancia, paciencia con el progreso lento, y disposición a hacer cosas que al principio se hacen mal. Para un joven acostumbrado a resultados inmediatos, esta lección propone que la inversión en el desarrollo lento y consistente de habilidades es una de las formas más fieles de honrar los dones que el Señor te dio."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mateo 25:21",
+          "texto": "Y su señor le dijo: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=spa&id=p21#p21"
+        },
+        {
+          "referencia": "Doctrina y Convenios 58:27",
+          "texto": "En verdad os digo, los hombres deberían ser ansiosamente dedicados a toda buena causa, y hacer muchas cosas por su propia voluntad, y llevar a cabo mucha rectitud.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p27#p27"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Clark G. Gilbert",
+      "fuente": "«Llegar a ser más en Cristo: La parábola de la pendiente», Liahona, noviembre de 2021, págs. 19–20",
+      "texto": "Todos tenemos diferentes intersecciones en la vida: empezamos en distintos lugares, dotados de diversos entornos vitales… Nuestro futuro estará determinado mucho más por nuestra pendiente que por nuestro origen. […] Si bien el mundo centra su atención en nuestra intersección, Dios lo hace en nuestra pendiente.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/16gilbert?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Desarrollar habilidades con diligencia es una forma concreta de honrar los dones que el Señor te dio y de prepararte para servirle mejor en el futuro. La parábola de los talentos promete que quienes son fieles en lo poco recibirán responsabilidad sobre lo mucho. La pregunta no es si tenés suficiente para comenzar — es si estás dispuesto a comenzar con lo que tenés."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué habilidad estás desarrollando actualmente que requiere esfuerzo constante y paciencia?",
+        "¿Cuál es la habilidad que más querés desarrollar en los próximos dos años? ¿Qué harías esta semana para empezar?",
+        "¿Cómo se relaciona la parábola de los talentos con la manera en que usás los dones y habilidades que tenés ahora?",
+        "¿Hay alguna habilidad que abandonaste porque los resultados no llegaron rápido? ¿Vale la pena retomarlo?",
+        "¿Cómo podría el desarrollo consistente de una habilidad tuya beneficiar a tu familia o a tu comunidad en el futuro?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Mateo 25:21 cierra la parábola de los talentos con las palabras del señor al siervo fiel. ¿Qué le dijo?",
+      "options": [
+        "'Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor.'",
+        "'Bien hecho; tu esfuerzo fue suficiente aunque no multiplicaste los talentos.'",
+        "'Bien; ve y descansa ahora que cumpliste con lo que te di.'",
+        "'Buen trabajo; tus talentos serán distribuidos entre quienes tienen menos.'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 58:27 dice que los hombres deben ser 'ansiosamente dedicados a toda buena causa'. ¿Qué implica la palabra 'ansiosamente' sobre la actitud que el Señor espera?",
+      "options": [
+        "Que el Señor quiere que Sus discípulos estén siempre ansiosos y estresados.",
+        "Que la dedicación al bien debe ser activa, entusiasta y proactiva — no tibia ni pasiva.",
+        "Que solo las causas urgentes merecen dedicación ansiosamente activa.",
+        "Que la ansiedad es una virtud espiritual que produce mejores resultados."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "El presidente Uchtdorf enseñó que los grandes logros son el resultado de 'cientos de horas de práctica cuando nadie está mirando'. ¿Qué dice eso sobre dónde ocurre realmente el desarrollo de habilidades?",
+      "options": [
+        "Que el desarrollo ocurre principalmente en los eventos públicos donde hay retroalimentación.",
+        "Que ocurre en la constancia cotidiana invisible — en las horas de práctica que nadie ve pero que construyen la competencia real.",
+        "Que ocurre más rápido con un buen maestro que con horas de práctica individual.",
+        "Que ocurre solo cuando hay presión externa de exámenes o evaluaciones."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué la parábola de los talentos (Mateo 25) es doctrinalmente diferente a simplemente decir 'trabaja duro'?",
+      "options": [
+        "No es diferente — la parábola solo es un ejemplo ilustrativo del principio de trabajar duro.",
+        "Porque la parábola enmarca el desarrollo de habilidades como una responsabilidad ante el Señor — los talentos son Suyos y Él espera que los multipliquemos, no solo que los conservemos.",
+        "Porque la parábola aplica solo a talentos económicos, no a habilidades personales.",
+        "Porque la parábola es solo para líderes que administran recursos de la Iglesia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Camila empezó a aprender guitarra pero lo dejó después de dos semanas porque 'no sonaba bien todavía'. Según la parábola de los talentos y el principio de D&C 58:27, ¿qué perspectiva le falta a Camila?",
+      "options": [
+        "Que la guitarra no es un talento dado por el Señor y puede dejarlo sin consecuencias.",
+        "Que el desarrollo real requiere la constancia invisible de horas de práctica cuando todavía no sale bien — rendirse en dos semanas es enterrar el talento, no multiplicarlo.",
+        "Que primero debe tener instrucción formal antes de practicar por su cuenta.",
+        "Que no vale la pena desarrollar habilidades artísticas porque no tienen valor eterno."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Agustín tiene facilidad para hablar en público pero nunca la practica porque 'ya nació así'. Según el principio de la lección, ¿qué está perdiendo con esa actitud?",
+      "options": [
+        "Nada — si el don es natural, no necesita desarrollo adicional.",
+        "Está enterrando parte del talento — los dones naturales que no se desarrollan se atrofian; multiplicarlos require práctica intencional igual que cualquier otro talento.",
+        "Solo tiempo — el don estará disponible cuando lo necesite sin práctica previa.",
+        "La popularidad — si no practica, la gente dejará de admirar su facilidad."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "La lección sobre descubrir fortalezas y esta sobre desarrollar habilidades son dos pasos de un mismo proceso. ¿Cuál es el principio completo que forman juntas?",
+      "options": [
+        "Primero el Señor te da los dones y luego tú los disfrutas — el proceso es receptivo, no activo.",
+        "Descubrir es suficiente — identificar el talento ya cumple con la responsabilidad ante el Señor.",
+        "El desarrollo de habilidades es responsabilidad del maestro, no del alumno.",
+        "Descubrir el don es solo el principio — el Señor espera que lo multipliques con trabajo constante; el talento identificado pero no desarrollado queda enterrado como en la parábola."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

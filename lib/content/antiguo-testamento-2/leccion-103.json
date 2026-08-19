@@ -1,0 +1,56 @@
+{
+  "id": "leccion-103",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué verdad sobre el Señor declara el Salmo 24 al inicio?",
+      "options": [
+        "Que el Señor habita solo en los cielos.",
+        "Que de Jehová es la tierra y su plenitud; el mundo y los que en él habitan.",
+        "Que el Señor ha abandonado la tierra a los hombres."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según el Salmo 24, ¿quién puede subir al monte del Señor y estar en Su lugar santo?",
+      "options": [
+        "Solo los sacerdotes del templo.",
+        "El de manos limpias y corazón puro, que no ha elevado su alma a la vanidad.",
+        "Solo los que han sido bautizados."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿A quién se refiere el título 'Rey de gloria' en el Salmo 24?",
+      "options": [
+        "Al rey David, por sus victorias militares.",
+        "A Jehová, que es fuerte y poderoso; una descripción de Jesucristo.",
+        "Al ángel que guardaba el templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo te ayuda reflexionar en el Salmo 24 a prepararte para entrar en el templo?",
+      "options": [
+        "Te da una lista exacta de requisitos físicos.",
+        "Te invita a examinar tu corazón y tu vida para ser digno de estar en la presencia del Señor.",
+        "Solo aplica a los sacerdotes del Antiguo Testamento."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué conexión tiene el Salmo 24 con la Segunda Venida de Jesucristo?",
+      "options": [
+        "Ninguna; es solo un salmo de alabanza sin significado profético.",
+        "La imagen del 'Rey de gloria' que entra por las puertas puede verse como una prefiguración del triunfo de Cristo al regresar.",
+        "El Salmo 24 predice exactamente la fecha de la Segunda Venida."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

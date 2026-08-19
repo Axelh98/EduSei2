@@ -1,0 +1,118 @@
+{
+  "id": "leccion-80",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Una semilla no crece si nadie la revisa. Un atleta no mejora si nunca mira cómo está rindiendo. Esta lección tiene un propósito diferente a las otras: no es para aprender contenido nuevo, sino para detenerse y mirar hacia atrás. Desde Rut hasta 1 Reyes 11, estudiaste el fiel regreso de Rut, el llamado de Samuel, la valentía de David, la sabiduría de Salomón y el templo como Casa del Señor. Pero lo más importante no es si recordás los datos. Lo importante es si algo de todo eso cambió la forma en que pensás, orás o tomás decisiones. El manual propone tres preguntas para evaluar ese progreso: ¿Podés explicar alguno de los títulos de Jesucristo que estudiaste? ¿Creció tu deseo de ir al templo? ¿Mejoraste tu capacidad para recibir revelación personal? Ninguna de esas preguntas tiene una respuesta correcta o incorrecta. Son una invitación a que seas honesto con vos mismo sobre cómo vas en tu camino espiritual. Así como una semilla necesita ser revisada para saber si necesita más agua, más sol o menos tierra, vos también necesitás este momento para ajustar lo que haga falta."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "1 Samuel 3:9",
+          "texto": "Y Elí dijo a Samuel: Ve y acuéstate; y si te llamare, dirás: Habla, Jehová, porque tu siervo oye.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Moroni 10:5",
+          "texto": "Y por el poder del Espíritu Santo podéis conocer la verdad de todas las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p5#p5"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Evaluar tu aprendizaje espiritual no es un examen donde podés reprobar. Es un momento honesto con vos mismo y con el Señor. ¿Dónde estabas cuando empezaste este bloque del Antiguo Testamento? ¿Dónde estás ahora? Aunque el cambio sea pequeño, el Señor lo ve y lo valora. Un paso hacia Él siempre vale. Esta semana, elegí una cosa concreta que quieras mejorar basándote en lo que evaluaste hoy, y comprometete a darle seguimiento."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "De todos los títulos o funciones de Jesucristo que estudiaste (Redentor, Libertador, Creador, Legislador, Rey de Sion), ¿cuál te resonó más personalmente y por qué?",
+        "¿Qué pasaje de las Escrituras o relato del Antiguo Testamento de este bloque marcaste porque te impactó? ¿Qué te dijo ese versículo en ese momento?",
+        "¿Notaste algún cambio en tus sentimientos hacia el templo durante este año de Seminario? ¿A qué crees que se debe ese cambio (o la falta de él)?",
+        "Pensando en el relato de Samuel ('Habla, Señor, que tu siervo escucha'), ¿qué diferencia hay entre rezar para hablar con el Señor y rezar para escuchar al Señor?",
+        "Sofía siente que no progresó espiritualmente este año porque no cumplió todas las metas que se fijó al principio. Según la metáfora de la semilla que usa esta lección, ¿qué le dirías?",
+        "¿Qué ajuste específico querés hacer en las próximas semanas para seguir creciendo espiritualmente? Nombra algo concreto y alcanzable."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "El manual propone tres áreas para evaluar el aprendizaje de este bloque. ¿Cuál de las siguientes corresponde a una de esas áreas de evaluación?",
+      "options": [
+        "Memorizar las fechas exactas de los reinados de Saúl, David y Salomón en orden cronológico.",
+        "Evaluar si creció el deseo de ir al templo, si mejoró la capacidad de recibir revelación y si se puede explicar algún título de Jesucristo.",
+        "Completar un mapa geográfico de todos los lugares mencionados desde Rut hasta 1 Reyes 11.",
+        "Recitar de memoria al menos cinco versículos de dominio de la doctrina estudiados en el bloque."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Samuel respondió al llamado del Señor con las palabras 'Habla, Jehová, porque tu siervo oye' (1 Samuel 3:9). ¿Quién lo instruyó a responder de esa manera?",
+      "options": [
+        "Su madre Ana, quien le había enseñado esa oración específica desde pequeño.",
+        "Una visión en la que el Señor mismo le indicó las palabras exactas antes del llamamiento.",
+        "El sacerdote Elí, después de que Samuel lo despertara por tercera vez pensando que era él quien llamaba.",
+        "El profeta que ungió a Elí y que visitó el tabernáculo antes del llamamiento de Samuel."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "El presidente Nelson advirtió que 'quienes no hayan aprendido a obtener revelación personal caerán'. ¿Qué diferencia hay entre rezar para hablar al Señor y rezar para escuchar al Señor?",
+      "options": [
+        "No hay diferencia esencial; lo importante es que la oración sea frecuente y sincera, independiente de la dirección.",
+        "Hablar al Señor es suficiente para la vida diaria, pero escucharlo es necesario solo en momentos de crisis.",
+        "Escuchar al Señor implica un estado de atención activa y disposición para recibir dirección; hablar sin escuchar convierte la oración en monólogo.",
+        "La revelación personal solo llega cuando uno permanece en silencio absoluto durante períodos prolongados de ayuno."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Evaluar el aprendizaje espiritual es diferente a un examen académico porque no tiene respuestas absolutamente correctas o incorrectas. ¿Por qué el manual propone igualmente hacer esta evaluación?",
+      "options": [
+        "Porque sin detenerse a revisar adónde fue, una persona no puede decidir conscientemente adónde quiere ir espiritualmente.",
+        "Para que el maestro de seminario pueda calificar el progreso de cada alumno durante el año lectivo.",
+        "Porque el Señor requiere que Sus seguidores rindan cuentas formales al final de cada bloque de estudio.",
+        "Para que cada alumno pueda comparar su progreso con el del resto del grupo y motivarse a mejorar."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Andrés siente que 'no aprendió nada' en este bloque porque no recuerda los nombres de todos los reyes ni las fechas de las batallas. Según el enfoque de esta lección, ¿qué le falta considerar?",
+      "options": [
+        "Que debería repasar todos los capítulos del Antiguo Testamento antes de hacer cualquier evaluación válida.",
+        "Que memorizar los datos históricos es efectivamente la parte más importante del año de seminario.",
+        "Que debería hablar con su maestro para que le explique de nuevo todo el contenido del bloque estudiado.",
+        "Que el aprendizaje espiritual se mide por cambios en el corazón, los deseos y las decisiones, no solo por datos memorizados."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Camila terminó este bloque sintiendo que su fe creció pero no sabe cómo sostenerla durante las vacaciones sin las clases de Seminario. Según Moroni 10:5 y el principio de esta lección, ¿qué podría hacer concretamente?",
+      "options": [
+        "Elegir un hábito espiritual diario específico —estudio, oración enfocada en escuchar, o servicio— y comprometerse a mantenerlo durante las vacaciones.",
+        "Esperar a que empiece el nuevo año de Seminario para retomar el crecimiento espiritual en un ambiente estructurado.",
+        "Pedirle a su maestro de Seminario que le envíe material por correo durante el receso para no perder el ritmo.",
+        "Leer el Antiguo Testamento completo durante las vacaciones para no quedarse atrás en el programa anual."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Tanto Samuel ('Habla, Señor, que tu siervo escucha') como Salomón ('Dame un corazón entendido') se detuvieron a recibir dirección divina antes de actuar. ¿Qué principio común une sus actitudes con el propósito de esta lección de evaluación?",
+      "options": [
+        "Que los líderes bíblicos tenían acceso directo a Dios que los miembros ordinarios de hoy no pueden esperar tener.",
+        "Que el crecimiento espiritual requiere principalmente conocer las Escrituras del Antiguo Testamento en profundidad.",
+        "Que detener la actividad para escuchar y evaluar es esencial para recibir guía divina, tanto en la vida bíblica como al revisar nuestro crecimiento personal.",
+        "Que la evaluación espiritual solo es válida cuando la realiza un líder de la Iglesia, no el propio individuo."
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

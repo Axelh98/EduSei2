@@ -1,0 +1,83 @@
+{
+  "id": "eval-a-tu-aprendizaje-6",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué muestran los tres grados de gloria según DyC 76:40–43?",
+      "options": [
+        "El amor y la misericordia del Padre Celestial y Jesucristo",
+        "Que solo hay cielo e infierno",
+        "Que la salvación depende únicamente de obras",
+        "Que los grados son simbólicos sin significado real"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué enseña DyC 76:69–70 sobre heredar un reino de gloria?",
+      "options": [
+        "Es posible solo por medio de Jesucristo",
+        "Depende únicamente de la perfección personal",
+        "Es automático para todos",
+        "Se logra sin necesidad de Cristo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hacían José Smith y Sidney Rigdon antes de recibir la visión de los tres grados de gloria (DyC 76:15–19)?",
+      "options": [
+        "Meditaban y estudiaban las Escrituras con espíritu de oración",
+        "Dormían sin preparación",
+        "Discutían entre ellos",
+        "Ignoraban las Escrituras"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué verdad aprendemos de la experiencia de José y Sidney al estudiar las Escrituras?",
+      "options": [
+        "Que el estudio y la meditación con oración preparan para recibir revelación",
+        "Que la revelación llega sin esfuerzo",
+        "Que solo los profetas pueden recibir revelación",
+        "Que no es necesario estudiar las Escrituras"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué pasajes ayudan a aumentar nuestro amor y reverencia por el Padre Celestial y Jesucristo?",
+      "options": [
+        "DyC 63:58–64 y DyC 76:19–24",
+        "Éxodo 20 y Levítico 11",
+        "Mateo 5 y Marcos 10",
+        "Apocalipsis 12 y Isaías 6"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Qué comparación se hace entre prepararse para un viaje y el crecimiento espiritual?",
+      "options": [
+        "Ambos requieren preparación y esfuerzo para disfrutar el camino",
+        "No tienen relación",
+        "El viaje es más importante que el crecimiento espiritual",
+        "El crecimiento espiritual no requiere preparación"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Qué prácticas pueden mejorar el estudio de las Escrituras según la lección?",
+      "options": [
+        "Fijar un horario regular, preparar un lugar tranquilo, comenzar con oración, estudiar con deseo de aprender, reflexionar",
+        "Leer sin atención",
+        "Evitar la oración",
+        "Estudiar solo en reuniones"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

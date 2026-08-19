@@ -1,0 +1,61 @@
+{
+  "id": "leccion-27-7",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué efecto tuvo la hambruna pedida por Nefi?",
+      "options": [
+        "Ninguno",
+        "El pueblo se humilló y se arrepintió",
+        "Más rebelión",
+        "Guerra civil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuánto tiempo duró la hambruna?",
+      "options": [
+        "Un mes",
+        "Varios años hasta que el pueblo se arrepintió",
+        "Una semana",
+        "Nunca terminó"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hizo Nefi cuando el pueblo se arrepintió?",
+      "options": [
+        "Los castigó más",
+        "Pidió al Señor que terminara la hambruna",
+        "Los ignoró",
+        "Pidió más castigos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Según Helamán 12, ¿qué es lo que caracteriza a la humanidad?",
+      "options": [
+        "Constante fidelidad",
+        "La tendencia a olvidar a Dios en la prosperidad",
+        "Perfección",
+        "Bondad innata"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué lección sobre el ciclo del orgullo aprendemos?",
+      "options": [
+        "Que no existe",
+        "Que la prosperidad a menudo lleva al orgullo y olvidar a Dios",
+        "Que siempre somos fieles",
+        "Que no hay patrón"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

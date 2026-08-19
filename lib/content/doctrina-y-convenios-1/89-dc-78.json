@@ -1,0 +1,124 @@
+{
+  "id": "89-dc-78",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "En marzo de 1832, el Señor instruyó a los líderes de la Iglesia a organizarse en un sistema económico cooperativo para administrar los recursos temporales de manera que ningún miembro de la Iglesia sufriera necesidad. D&C 78 establece el principio de que el bienestar temporal y el bienestar espiritual están conectados — el Señor diseñó un sistema donde los que tienen más apoyan a los que tienen menos, para que todos puedan crecer hacia la igualdad que caracteriza a Sion. Pero la razón que el Señor da no es solo humanitaria: D&C 78:14 declara que este sistema existe para que 'mi pueblo no sea dependiente de los reinos del mundo ni de sus poderes.' La independencia de las estructuras del mundo — tanto espiritual como temporal — es una condición para que la Iglesia pueda cumplir su misión. Esta lección invita a los jóvenes a ver el sistema de bienestar de la Iglesia no como asistencia social sino como expresión del amor del Señor por Sus hijos."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 78:5–6",
+          "texto": "Para que vuestra organización sea perfecta... para el bien de la Iglesia y para el bien de los pobres y los necesitados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p5-p6#p5"
+        },
+        {
+          "referencia": "Doctrina y Convenios 78:14",
+          "texto": "Para que mi pueblo no sea dependiente de los reinos del mundo ni de sus poderes.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p14#p14"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Henry B. Eyring",
+      "fuente": "«Oportunidades para hacer el bien», Liahona, mayo de 2011, págs. 22–23",
+      "texto": "Ha invitado a Sus hijos a que consagren su tiempo, sus medios y a sí mismos a unirse a Él para servir a los demás.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/281-doctrine-and-covenants-78?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "D&C 78 establece que la independencia temporal de los miembros de la Iglesia es parte del plan del Señor — no como un valor cultural sino como una condición espiritual. Quienes son autosuficientes pueden servir con libertad; quienes cuidan a los pobres reflejan el carácter del Salvador. Para el joven que está construyendo su vida, esta lección propone una pregunta que vale la pena hacerse ahora: ¿estoy construyendo el tipo de independencia temporal que me permitirá cuidar genuinamente a otros en el futuro?"
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué el Señor dice en D&C 78:14 que es importante que Su pueblo no dependa 'de los reinos del mundo'?",
+        "¿De qué manera el sistema de bienestar de la Iglesia refleja el principio de D&C 78:5–6 sobre cuidar a los pobres?",
+        "¿Cómo participás vos en el sistema de bienestar de la Iglesia — a través del ayuno y las ofrendas, el servicio, u otras maneras?",
+        "¿Qué conexión ves entre la autosuficiencia personal que has estudiado en el semestre y el principio de D&C 78?",
+        "¿Qué tipo de independencia temporal — económica, académica, de habilidades — querés construir en los próximos años para estar en posición de dar más?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 78:5–6 establece el principio de igualdad temporal con un propósito espiritual. ¿Cuál es ese propósito según el versículo?",
+      "options": [
+        "Para que seamos iguales en el logro de las cosas celestiales — la igualdad temporal prepara para la igualdad celestial.",
+        "Para que la Iglesia pueda financiar sus operaciones sin depender de los gobiernos.",
+        "Para que los santos no sean tentados por las riquezas durante los últimos días.",
+        "Para que el obispo pueda administrar los recursos con mayor eficiencia."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 78:14 declara un objetivo de independencia para el pueblo del Señor. ¿De qué quiere el Señor que no dependan Sus santos?",
+      "options": [
+        "De los reinos del mundo ni de sus poderes.",
+        "De los líderes de la Iglesia para tomar decisiones espirituales.",
+        "De los servicios sociales y económicos de los gobiernos locales.",
+        "De los recursos naturales del mundo que tienen dueños privados."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "D&C 78:17–18 contiene una de las expresiones más tiernas del Señor en toda la sección: 'Sois niños pequeños y todavía no habéis comprendido cuán grandes bendiciones el Padre tiene'. ¿Qué actitud del Señor revela ese lenguaje?",
+      "options": [
+        "Frustración con la lentitud espiritual de los santos.",
+        "Un amor paciente que ve el potencial eterno de Sus hijos incluso cuando ellos no lo ven — no los reprueba por no entender sino que les da perspectiva.",
+        "Condescendencia hacia los santos que no tienen suficiente educación doctrinal.",
+        "Una advertencia de que deben madurar rápidamente o perder las bendiciones prometidas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "D&C 78:19 promete que 'el que reciba todas las cosas con gratitud será glorificado'. ¿Por qué la gratitud es una condición de gloria y no solo una virtud agradable?",
+      "options": [
+        "Porque la gratitud es la emoción que el Señor más disfruta en Sus hijos.",
+        "Porque la gratitud reconoce que todo bien viene de Dios — quien vive en gratitud vive en una relación correcta con el Dador, y esa relación es el fundamento de la gloria.",
+        "Porque la gratitud genera más bendiciones materiales que producen más glorificación.",
+        "Porque la ingratitud es el único pecado que el Señor no puede perdonar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Sofía participa en el programa de bienestar de su barrio pero lo ve como una actividad social, no espiritual. D&C 78:5–6 le ofrece una perspectiva diferente. ¿Cuál es?",
+      "options": [
+        "Que el bienestar es principalmente una señal de que la Iglesia es generosa con sus miembros.",
+        "Que cuidar la igualdad temporal de quienes nos rodean es parte de preparar a las personas para las cosas celestiales — tiene peso eterno, no solo social.",
+        "Que debería hacerlo solo cuando el obispo se lo pide formalmente.",
+        "Que el bienestar es un programa administrativo sin conexión con el desarrollo espiritual personal."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Mateo se queja frecuentemente de lo que no tiene. D&C 78:19 le habla directamente. ¿Qué cambio en perspectiva produciría aplicar ese versículo?",
+      "options": [
+        "Que debería fingir estar contento con todo aunque realmente no lo esté.",
+        "Que al practicar gratitud deliberada por lo que sí tiene, abriría su corazón a recibir más — y más importante, se colocaría en una relación de reconocimiento con el Dador que es el fundamento de la glorificación.",
+        "Que el Señor le enviará más bendiciones automáticamente cuando deje de quejarse.",
+        "Que la gratitud es solo para los momentos en que las cosas van bien, no en las dificultades."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "D&C 78:5–6 (igualdad temporal para cosas celestiales), D&C 78:14 (independencia del mundo) y D&C 78:19 (gratitud lleva a glorificación) juntos describen el carácter del pueblo celestial. ¿Cuál es ese retrato?",
+      "options": [
+        "Un pueblo rico y autosuficiente que no necesita a nadie más.",
+        "Un pueblo que cuida a sus miembros con equidad, vive libre de dependencias mundanas y recibe todo con gratitud — las tres cualidades apuntan al mismo corazón: uno que reconoce a Dios como fuente de todo.",
+        "Un pueblo que acumula recursos suficientes para no necesitar el sistema de bienestar de la Iglesia.",
+        "Un pueblo perfectamente organizado administrativamente cuya eficiencia produce las bendiciones."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "eval-a-tu-aprendizaje-7",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué invitación hace DyC 19:23 sobre Jesucristo?",
+      "options": [
+        "Aprender de Él y escuchar Sus palabras",
+        "Ignorar Sus enseñanzas",
+        "Seguir solo tradiciones",
+        "Depender de opiniones humanas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué enseña DyC 88:63 sobre acercarse a Cristo?",
+      "options": [
+        "Allegaos a mí y yo me allegaré a vosotros",
+        "Alejaos de mí",
+        "Ignorad mis palabras",
+        "No busquéis mi presencia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Según Thomas S. Monson, ¿qué ocurre al medir el rendimiento espiritual?",
+      "options": [
+        "Mejora y, si se informa, mejora más rápido",
+        "No cambia",
+        "Se vuelve irrelevante",
+        "Debe evitarse"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué invitación de DyC 88:118 resume el aprendizaje espiritual?",
+      "options": [
+        "Buscad conocimiento, tanto por el estudio como por la fe",
+        "Evitar el estudio",
+        "Depender solo de opiniones",
+        "Ignorar las Escrituras"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué meta propone DyC 93:19–20 respecto a la luz y la verdad?",
+      "options": [
+        "Recibir más luz y verdad hasta conocer a Dios",
+        "Acumular datos sin propósito",
+        "Evitar cambios",
+        "Buscar fama espiritual"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

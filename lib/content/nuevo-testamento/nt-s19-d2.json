@@ -1,0 +1,61 @@
+{
+  "id": "nt-s19-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quién consentía en la muerte de Esteban y perseguía a la Iglesia al inicio?",
+      "options": [
+        "Pedro.",
+        "Saulo.",
+        "Pilato.",
+        "Herodes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿A qué región fue Felipe a predicar tras la persecución en Jerusalén?",
+      "options": [
+        "Roma.",
+        "Samaria.",
+        "Egipto.",
+        "Atenas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué intentó hacer Simón el mago al ver que los Apóstoles daban el Espíritu Santo?",
+      "options": [
+        "Bautizarse de nuevo.",
+        "Comprar el don de Dios con dinero.",
+        "Huir de la ciudad.",
+        "Retar a Pedro a un duelo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿A quién encontró Felipe en el camino de Jerusalén a Gaza?",
+      "options": [
+        "A un centurión romano.",
+        "A un oficial etíope (un eunuco).",
+        "A Saulo de Tarso.",
+        "A su propia familia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué estaba leyendo el etíope cuando Felipe se le acercó?",
+      "options": [
+        "El Génesis.",
+        "El libro del profeta Isaías.",
+        "Los Salmos.",
+        "El Evangelio de Mateo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

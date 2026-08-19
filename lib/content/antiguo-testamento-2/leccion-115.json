@@ -1,0 +1,56 @@
+{
+  "id": "leccion-115",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A quién representa la viña en la parábola de Isaías 5?",
+      "options": [
+        "Al rey de Asiria.",
+        "A la casa de Israel y a los hombres de Judá, el pueblo amado del Señor.",
+        "Al templo de Jerusalén."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hizo el dueño de la viña para prepararla y cuidarla?",
+      "options": [
+        "No hizo nada especial; solo esperó que creciera.",
+        "La cavó, quitó las piedras, plantó vides escogidas, construyó una torre y preparó un lagar.",
+        "Solo la regó una vez al año."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué fruto produjo la viña en lugar de uvas buenas?",
+      "options": [
+        "Uvas pequeñas pero comestibles.",
+        "Uvas silvestres o agrias, representando las obras malas del pueblo.",
+        "Ningún fruto en absoluto."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué 'ayes' pronuncia Isaías en el capítulo 5 contra el pueblo?",
+      "options": [
+        "Contra los que madrugaban para estudiar.",
+        "Contra los que acumulaban tierras, se embriagaban, llamaban lo malo bueno y eran sabios en su propia opinión.",
+        "Contra los que construían nuevos templos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué nos enseña esta parábola sobre la relación entre el Señor y Su pueblo?",
+      "options": [
+        "Que el Señor no se preocupa por lo que hagamos.",
+        "Que el Señor cuida a Su pueblo con amor y tiene expectativas de que demos frutos de rectitud.",
+        "Que el Señor destruye a quienes no son perfectos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

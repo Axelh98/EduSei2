@@ -1,0 +1,56 @@
+{
+  "id": "leccion-119",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el mensaje central de consuelo que abre Isaías 40?",
+      "options": [
+        "Que Israel debe prepararse para una gran guerra.",
+        "'Consolaos, consolaos, pueblo mío'; el Señor llega con poder pero también con ternura a guiar a Su pueblo.",
+        "Que el tiempo del juicio ha llegado sin remedio."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué imagen usa Isaías 40:31 para describir a quienes esperan en el Señor?",
+      "options": [
+        "Que serán como leones fuertes en la batalla.",
+        "Que levantarán alas como las águilas, correrán y no se cansarán, caminarán y no se fatigarán.",
+        "Que serán como montañas que nunca se mueven."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "En Isaías 41:10, ¿qué promete el Señor a quienes sienten miedo?",
+      "options": [
+        "'No temas, porque yo te destruiré con fuego.'",
+        "'No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo.'",
+        "'No temas, porque tus enemigos ya no existen.'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo describe Isaías la incomparabilidad del Señor frente a los ídolos en estos capítulos?",
+      "options": [
+        "Los ídolos son peligrosos y el Señor teme su poder.",
+        "Los ídolos son obras de manos humanas, sin vida ni poder, mientras que el Señor es el Creador de los extremos de la tierra.",
+        "Los ídolos y el Señor tienen el mismo poder."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "En Isaías 43:1–2, ¿qué promete el Señor a Su pueblo al pasar por aguas y fuego?",
+      "options": [
+        "Que nunca tendrán que pasar por pruebas difíciles.",
+        "Que estará con ellos; que cuando pasen por las aguas no los anegarán, y cuando pasen por el fuego no se quemarán.",
+        "Que les enviará un ángel para que pase por ellos en su lugar."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

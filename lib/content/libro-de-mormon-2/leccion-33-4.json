@@ -1,0 +1,84 @@
+{
+  "id": "leccion-33-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El estudio profundo de este pasaje revela cómo la Expiación de Jesucristo tiene poder transformador. Reconocer nuestras debilidades no debería deprimirnos, sino llevarnos al Salvador. La gracia, que es el poder capacitador y la ayuda divina que proviene de Jesucristo, actúa en nosotros cuando somos humildes, cambiando literalmente nuestras limitaciones en herramientas poderosas para el bien."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Éter 12:27",
+          "texto": "...porque si se humillan ante mí, y tienen fe en mí, entonces haré que las cosas débiles sean fuertes para ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p27#p27"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Podrías compartir alguna experiencia personal donde sentiste que una de tus debilidades se volvió una fortaleza con la ayuda de Dios?",
+        "¿Cómo mantienes la esperanza cuando sientes que tu progreso para vencer debilidades es lento?",
+        "¿Qué papel juega la fe en Jesucristo dentro del proceso de transformación personal?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según Éter 12:27, ¿por qué da Dios debilidades a los hombres?",
+      "options": [
+        "Para castigarlos",
+        "Para que sean humildes",
+        "Sin propósito",
+        "Para hacerlos sufrir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué es suficiente para los mansos?",
+      "options": [
+        "Su propia fuerza",
+        "La gracia de Cristo",
+        "El dinero",
+        "El conocimiento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo se vuelven fuertes las cosas débiles?",
+      "options": [
+        "Por esfuerzo solo",
+        "Por la gracia de Cristo cuando somos humildes",
+        "Por suerte",
+        "Por el tiempo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué actitud debemos tener hacia nuestras debilidades?",
+      "options": [
+        "Ignorarlas",
+        "Humildad y fe en que Cristo puede hacerlas fortalezas",
+        "Orgullo",
+        "Desesperación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué nos enseña sobre la perfección?",
+      "options": [
+        "Que es inmediata",
+        "Que viene mediante Cristo convirtiendo debilidades en fortalezas",
+        "Que es imposible",
+        "Que no importa"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

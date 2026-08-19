@@ -1,0 +1,103 @@
+{
+  "id": "leccion-24-9",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta lección repasa los pasajes de dominio de la doctrina estudiados previamente. El propósito es fortalecer la memorización de las referencias y las frases clave, así como profundizar la comprensión de las doctrinas enseñadas. El repaso ayuda a consolidar el conocimiento y facilita el recuerdo de estos pasajes importantes. También proporciona una oportunidad para reflexionar sobre cómo estas doctrinas se aplican a la vida diaria."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Boyd K. Packer",
+      "fuente": "Liahona, noviembre de 2013, págs. 26-28",
+      "texto": "Hagan de la lectura de las Escrituras una parte de su rutina habitual y las bendiciones vendrán. En las Escrituras hay una voz de advertencia, pero también mucho sustento.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-key-to-spiritual-protection?lang=spa&id=p30#p30"
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuáles de los pasajes de dominio de la doctrina has memorizado completamente?",
+        "¿Cómo te ha ayudado conocer estos pasajes en situaciones específicas?",
+        "¿Qué método de estudio te ha funcionado mejor para memorizar las escrituras?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué problema interno enfrentaron los nefitas justo cuando los lamanitas comenzaban a atacar (Alma 51)?",
+      "options": [
+        "Falta de armas para defenderse",
+        "Terremotos que destruyeron sus fortificaciones",
+        "Falta de alimentos en las ciudades",
+        "Divisiones políticas entre los realistas (que querían un rey) y los hombres libres"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 2,
+      "question": "¿Qué general nefita mató a Amalickíah al entrar sigilosamente en su tienda durante la noche?",
+      "options": [
+        "Teáncum",
+        "Pahorán",
+        "El Capitán Moroni",
+        "Helamán"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "La división entre realistas y hombres libres surge justo cuando los lamanitas están atacando. ¿Qué principio enseña el momento exacto en que ocurre esta crisis interna?",
+      "options": [
+        "Que la política y la guerra son temas completamente separados en este relato",
+        "Que las divisiones internas suelen manifestarse justamente en los momentos de mayor presión externa, aprovechando la vulnerabilidad del grupo",
+        "Que las divisiones internas nunca coinciden con amenazas externas",
+        "Que los lamanitas causaron directamente la división política nefita"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Frente a la invasión lamanita, Moroni exigió que los realistas juraran apoyar la causa de la libertad; quienes se negaron enfrentaron consecuencias severas. ¿Qué muestra esta decisión sobre el momento en que ocurrió?",
+      "options": [
+        "Que los realistas tenían toda la razón en negarse",
+        "Que esta decisión no tuvo relación alguna con la guerra en curso",
+        "Que la neutralidad, en ese momento crítico de guerra, representaba una amenaza real a la seguridad de todo el pueblo",
+        "Que Moroni actuó sin ninguna razón justificada"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Valentina nota que un grupo de compañeros se pelea por cosas menores justo antes de un examen importante, distrayendo a todo el curso. ¿Qué principio de Alma 51–52 se aplicaría a esa situación?",
+      "options": [
+        "Que los conflictos personales son totalmente independientes de los objetivos comunes",
+        "Que solo los conflictos grandes merecen atención",
+        "Que las divisiones y los conflictos internos, incluso por temas menores, pueden debilitar a un grupo justo cuando más necesita estar unido para enfrentar un desafío común",
+        "Que las peleas internas nunca afectan el desempeño de un grupo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Sofía ve que nadie en su grupo se anima a defender a un compañero que está siendo tratado injustamente, por miedo a las consecuencias. Según el ejemplo valiente de Teáncum al enfrentar directamente la amenaza de Amalickíah, ¿qué principio le ayudaría?",
+      "options": [
+        "Que actuar con decisión siempre implica actuar de forma violenta",
+        "Que a veces proteger a otros requiere valentía para actuar de manera decidida, incluso cuando implica cierto riesgo personal",
+        "Que es mejor no involucrarse nunca en los problemas de otros",
+        "Que la valentía de Teáncum no tiene ninguna aplicación fuera del contexto militar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la crisis de los realistas contra los hombres libres como la valentía de Teáncum al enfrentar a Amalickíah enseñan algo en común sobre proteger lo que importa. ¿Cuál es?",
+      "options": [
+        "Que defender la libertad y la fe de un pueblo requiere tanto unidad interna como acción valiente frente a las amenazas externas",
+        "Que la unidad interna no tiene relación alguna con la capacidad de enfrentar amenazas externas",
+        "Que solo los líderes militares tienen la responsabilidad de proteger al pueblo",
+        "Que evitar el conflicto es siempre la mejor estrategia, sin excepción"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

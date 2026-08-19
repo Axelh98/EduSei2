@@ -1,0 +1,61 @@
+{
+  "id": "nt-s18-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Dónde se encontraba el hombre que Pedro y Juan sanaron?",
+      "options": [
+        "En el mercado.",
+        "A la puerta del templo llamada la Hermosa.",
+        "En la barca de Pedro.",
+        "En casa de Pilato."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué frase famosa le dijo Pedro al hombre que pedía limosna?",
+      "options": [
+        "\"Tengo mucho oro para ti\".",
+        "\"No tengo plata ni oro, pero lo que tengo te doy... levántate y anda\".",
+        "\"Pide ayuda a los sacerdotes\".",
+        "\"Vuelve mañana por comida\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿A quién dio Pedro la gloria por el milagro de sanidad?",
+      "options": [
+        "A su propia inteligencia.",
+        "Al nombre y al poder de Jesucristo.",
+        "A las leyes de la medicina.",
+        "A los líderes del templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué hizo el hombre después de ser sanado?",
+      "options": [
+        "Se fue a dormir.",
+        "Salió corriendo de la ciudad.",
+        "Entró al templo andando, saltando y alabando a Dios.",
+        "Volvió a pedir limosna."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "¿Qué invitó Pedro a hacer al pueblo que estaba asombrado por el milagro?",
+      "options": [
+        "Hacer una estatua de Pedro.",
+        "Arrepentirse y convertirse para que sus pecados fueran borrados.",
+        "Recolectar dinero para el hombre.",
+        "Irse antes de que vinieran los guardias."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

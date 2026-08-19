@@ -1,0 +1,155 @@
+{
+  "id": "mosiah-12-13",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Los sacerdotes del rey Noé afirmaban enseñar la ley de Moisés, pero no la vivían. Abinadí les enseñó que los mandamientos de Dios no debían ser solo palabras repetidas, sino principios grabados en el corazón. El profeta recitó los Diez Mandamientos y enseñó que la obediencia verdadera nace de una relación sincera con Dios. Muchas personas conocen los mandamientos intelectualmente, pero el Señor desea que estos transformen el corazón y el carácter. Como enseñó el élder Dallin H. Oaks, ni siquiera nuestra obediencia y buenas obras bastan para salvarnos de los efectos del pecado sin la gracia que se extiende por medio de la Expiación de Jesucristo. Abinadí confrontó la hipocresía de los sacerdotes y mostró que la religión vacía no puede salvar. Jesucristo desea discípulos convertidos, no solo personas religiosas externamente. Esta lección invita a reflexionar si los mandamientos realmente gobiernan nuestras decisiones diarias."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 12:34",
+          "texto": "¿Enseñáis vosotros esta ley y no la guardáis?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/12?lang=spa&id=p34#p34"
+        },
+        {
+          "referencia": "Mosíah 13:12",
+          "texto": "Honra a tu padre y a tu madre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/13?lang=spa&id=p12#p12"
+        },
+        {
+          "referencia": "Mosíah 13:24",
+          "texto": "La salvación no viene solamente por la ley.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/13?lang=spa&id=p24#p24"
+        },
+        {
+          "referencia": "Jeremías 31:33",
+          "texto": "Pondré mi ley en su mente, y la escribiré en su corazón.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=spa&id=p33#p33"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidenta Bonnie L. Oscarson",
+      "fuente": "Liahona, mayo de 2016, págs. 88–89",
+      "texto": "Para creer, ¡tenemos que llevar el Evangelio de nuestra mente a nuestro corazón! Es posible que simplemente actuemos mecánicamente al vivir el Evangelio porque se espera que lo hagamos, o porque es la cultura en la que nos hemos criado o porque es un hábito […]. Todos debemos procurar cambiar nuestro corazón y naturaleza misma para que ya no tengamos el deseo de seguir los caminos del mundo, sino de complacer a Dios",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2016/04/do-i-believe?lang=spa&id=p18-p19#p18"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Abinadí enseñó que el Evangelio no debe vivirse superficialmente. Los mandamientos de Dios tienen el propósito de transformar el corazón humano. La obediencia verdadera no consiste únicamente en reglas externas, sino en permitir que Jesucristo cambie nuestros deseos, motivaciones y prioridades. Cuando los mandamientos se escriben en el corazón, dejamos de obedecer por obligación y comenzamos a obedecer por amor. Esta transformación espiritual produce mayor paz, fortaleza y cercanía con Dios."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué significa para ti tener los mandamientos escritos en el corazón?",
+        "¿Cuál es la diferencia entre conocer un mandamiento y vivirlo?",
+        "¿Cómo cambia la obediencia cuando nace del amor a Dios?",
+        "¿Qué mandamiento sientes que necesitas internalizar más profundamente?",
+        "¿Cómo puede Jesucristo ayudarte a cambiar tu corazón?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué recitó Abinadí a los sacerdotes malvados?",
+      "type": "multiple",
+      "options": [
+        "Una serie de profecías escritas por él mismo",
+        "Los cánticos tradicionales del templo de Nefi",
+        "Los Diez Mandamientos que Dios dio a Moisés",
+        "Una lista de acusaciones personales contra el rey"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 13:11-24",
+      "explanation": "Abinadí recitó los Diez Mandamientos que Dios dio a Moisés."
+    },
+    {
+      "id": 2,
+      "question": "Según Mosíah 13:11, ¿qué debemos hacer con los mandamientos?",
+      "type": "multiple",
+      "options": [
+        "Enseñarlos a nuestros hijos para que aprendan a guardarlos",
+        "Guardarlos en privado sin compartirlos con nadie más",
+        "Adaptarlos según las circunstancias de cada persona",
+        "Memorizarlos exactamente sin necesidad de vivirlos"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 13:11",
+      "explanation": "Debemos enseñar los mandamientos a nuestros hijos para que aprendan a guardarlos."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué reprochó Abinadí a los sacerdotes sobre su conocimiento de la ley?",
+      "type": "multiple",
+      "options": [
+        "Que la conocían perfectamente y también la vivían con exactitud",
+        "Que nunca habían estudiado ni un solo mandamiento",
+        "Que la interpretaban de forma distinta a Moisés sin mala intención",
+        "Que fingían guardarla pero no la aplicaban en sus corazones"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 12:27-29",
+      "explanation": "Abinadí les reprochó que fingían guardar la ley pero no la aplicaban en sus corazones."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué advirtió Abinadí que ocurriría si el pueblo no se arrepentía?",
+      "type": "multiple",
+      "options": [
+        "Que recibirían prosperidad inmediata sin ningún cambio",
+        "Que serían entregados en manos de sus enemigos y sufrirían aflicción",
+        "Que el rey Noé sería coronado con más honores",
+        "Que nada cambiaría en su situación actual"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 12:1-8",
+      "explanation": "Abinadí advirtió que serían entregados en manos de sus enemigos si no se arrepentían."
+    },
+    {
+      "id": 5,
+      "question": "Nicolás dice que conoce los mandamientos de memoria pero no ve por qué cambiaría su forma de vivir. ¿Qué le señala Abinadí a los sacerdotes sobre esto?",
+      "type": "multiple",
+      "options": [
+        "Que conocer la ley no basta; hay que vivirla realmente en el corazón",
+        "Que memorizar los mandamientos ya es suficiente para agradar a Dios",
+        "Que los mandamientos son solo para quienes enseñan en la iglesia",
+        "Que no es necesario aplicar los mandamientos si se conocen bien"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 12:27-29",
+      "explanation": "Abinadí señaló que conocer la ley no basta; es necesario vivirla realmente en el corazón."
+    },
+    {
+      "id": 6,
+      "question": "Antonella cree que enseñar a sus hermanos menores los mandamientos es tarea solo de sus padres. ¿Qué enseña Mosíah 13:11 al respecto?",
+      "type": "multiple",
+      "options": [
+        "Que solo los padres tienen esa responsabilidad",
+        "Que todos tenemos la responsabilidad de enseñar los mandamientos a quienes están a nuestro cargo",
+        "Que los mandamientos solo se enseñan en la iglesia, nunca en casa",
+        "Que no es necesario enseñar los mandamientos a los más jóvenes"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 13:11",
+      "explanation": "Mosíah 13:11 enseña que debemos transmitir los mandamientos a las nuevas generaciones."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué relación hay entre citar los mandamientos y advertir sobre las consecuencias de no guardarlos, ambos hechos por Abinadí?",
+      "type": "multiple",
+      "options": [
+        "Conocer la ley sin vivirla trae las mismas consecuencias que ignorarla por completo",
+        "No tienen relación alguna entre sí",
+        "Solo la advertencia sobre consecuencias es relevante, no citar los mandamientos",
+        "Citar los mandamientos elimina automáticamente la necesidad de advertir consecuencias"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 12-13",
+      "explanation": "Abinadí muestra que conocer la ley sin vivirla trae las mismas consecuencias que ignorarla por completo."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nt-s14-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué dijo Jesús que era conveniente que Él se fuera?",
+      "options": [
+        "Porque estaba cansado.",
+        "Porque si no se iba, el Consolador (Espíritu Santo) no vendría a ellos.",
+        "Porque tenía que visitar otros mundos.",
+        "Porque quería que ellos trabajaran solos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿De qué convencerá el Espíritu Santo al mundo cuando venga?",
+      "options": [
+        "De historia.",
+        "De pecado, de justicia y de juicio.",
+        "De geografía sagrada.",
+        "De política romana."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es la función del \"Espíritu de Verdad\" mencionada en Juan 16:13?",
+      "options": [
+        "Castigar a los incrédulos.",
+        "Guiar a los discípulos a toda la verdad.",
+        "Escribir libros.",
+        "Construir templos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿A quién glorificará el Espíritu Santo según las palabras de Jesús?",
+      "options": [
+        "A Sí mismo.",
+        "A Jesucristo.",
+        "A los Apóstoles.",
+        "A los líderes locales."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué prometió Jesús sobre la tristeza de los discípulos tras Su partida?",
+      "options": [
+        "Que duraría para siempre.",
+        "Que su tristeza se convertiría en gozo.",
+        "Que no sentirían tristeza.",
+        "Que la tristeza es pecado."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

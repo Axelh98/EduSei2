@@ -1,0 +1,83 @@
+{
+  "id": "bloque-at-2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué intentaron hacer los sacerdotes idólatras con Abraham en Abraham 1?",
+      "options": [
+        "Ofrecerlo en sacrificio",
+        "Expulsarlo de Egipto",
+        "Nombrarlo sumo sacerdote",
+        "Convertirlo en rey"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué recibió Abraham de Dios en Abraham 1?",
+      "options": [
+        "El sacerdocio",
+        "Una tierra prometida",
+        "Un nuevo nombre",
+        "Un libro de leyes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué promesa hizo Dios a Abraham en Abraham 2?",
+      "options": [
+        "Que sería padre de muchas naciones",
+        "Que gobernaría Egipto",
+        "Que destruiría a sus enemigos",
+        "Que tendría riquezas abundantes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué mandamiento recibió Abraham en Abraham 2?",
+      "options": [
+        "Salir de su tierra y viajar a Canaán",
+        "Construir un altar en Egipto",
+        "Guardar el día de reposo",
+        "Ofrecer sacrificios diarios"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué vio Abraham en su visión de Abraham 3?",
+      "options": [
+        "El orden de las estrellas y planetas",
+        "El diluvio venidero",
+        "La torre de Babel",
+        "La destrucción de Sodoma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Qué estrella fue llamada la mayor en Abraham 3?",
+      "options": [
+        "Kolob",
+        "Orion",
+        "Pleiades",
+        "Sirius"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Qué aprendió Abraham acerca de los espíritus en Abraham 3?",
+      "options": [
+        "Que algunos eran más inteligentes que otros",
+        "Que todos eran iguales en inteligencia",
+        "Que no existían antes de la vida terrenal",
+        "Que fueron creados al mismo tiempo que la tierra"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

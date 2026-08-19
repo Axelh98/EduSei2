@@ -1,0 +1,108 @@
+{
+  "id": "leccion-179",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Puede parecer que las finanzas son un tema demasiado práctico para el Seminario. Pero el Señor se preocupa por los detalles de la vida de Sus hijos, incluyendo lo que hacen con su dinero. Hay más parábolas de Jesucristo sobre mayordomía financiera que sobre casi cualquier otro tema.",
+        "La Iglesia enseña un conjunto simple pero poderoso de principios económicos: gastá menos de lo que ganás, evitá las deudas innecesarias, ahorrá para el futuro, y pagá el diezmo primero. Estos principios funcionan no porque sean estrategias financieras sofisticadas, sino porque reflejan una relación de confianza con el Señor como proveedor.",
+        "El diezmo merece atención especial. Malaquías 3:10 contiene una de las pocas invitaciones directas de Dios a 'probar' Sus promesas: 'Si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde.' El diezmo no es un impuesto. Es una declaración de que el Señor es el proveedor real y que vos sos el mayordomo de lo que Él te ha dado.",
+        "Proverbios 21:20 lo dice de una manera que cualquier adolescente puede entender: 'Tesoro precioso y aceite hay en la casa del sabio; mas el hombre insensato todo lo disipa.' Gastar todo lo que tenés en el momento en que lo tenés no es libertad. Es falta de visión. Los hábitos financieros que desarrolles ahora —aunque el dinero sea poco— son exactamente los mismos que usarás cuando el dinero sea más."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Malaquías 3:10",
+          "texto": "Traed todos los diezmos al alfolí... y probadme ahora en esto, dice Jehová de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Proverbios 21:20",
+          "texto": "Tesoro precioso y aceite hay en la casa del sabio; mas el hombre insensato todo lo disipa.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/21?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "Doctrina y Convenios 119:4",
+          "texto": "Y después que el hombre haya ofrecido un diezmo de todo lo que posee, entonces recibirá el mandamiento de pagar el diezmo de su interés anualmente.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=spa&id=p4#p4"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "\"¡Piensen de manera celestial!\", Liahona, noviembre de 2023",
+      "texto": "Cuando era un joven interno, mi ingreso era de $15 al mes. Una noche, mi esposa Dantzel me preguntó si estaba pagando diezmo sobre ese estipendio tan modesto. No lo estaba haciendo. Me arrepentí rápidamente y comencé a pagar el $1,50 adicional de diezmo mensual. ¿Fue la Iglesia diferente porque aumentamos nuestro diezmo? Por supuesto que no. Sin embargo, convertirme en un pagador de diezmo completo me cambió a mí. Fue entonces cuando aprendí que pagar el diezmo tiene que ver con la fe, no con el dinero. Al convertirme en un pagador de diezmo completo, las ventanas del cielo comenzaron a abrirse para mí.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/51nelson?lang=spa&id=p24-p26#p24"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La manera en que manejás el dinero ahora, aunque sea poco, es un espejo de la persona que serás cuando tengas más responsabilidades. El hábito de gastar menos de lo que ganás, de pagar el diezmo primero, de ahorrar aunque sea un poco, no se desarrolla de golpe cuando uno es adulto. Se construye de a poco, desde ahora. Esta semana, si tenés algún ingreso —trabajo, mesada, regalo— practicá pagar el diezmo primero y guardar un pequeño porcentaje antes de gastar el resto."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué hábito financiero tenés ahora mismo que creés que es sabio? ¿Y cuál creés que deberías cambiar?",
+        "¿Pagás diezmo? Si lo hacés, ¿notaste alguna diferencia en cómo sentís el dinero que te queda?",
+        "¿Qué significa para vos la idea de que el diezmo es una señal de confianza en el Señor como proveedor?",
+        "¿Cómo podría afectarte en diez años el hábito de gastar todo lo que tenés sin ahorrar nada?",
+        "¿Qué haría tu yo del futuro diferente con el dinero que tenés ahora, si pudiera darte un consejo?",
+        "¿Qué paso pequeño pero concreto podés dar esta semana hacia una mejor administración de los recursos que tenés?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué enseñó el élder Ronald A. Rasband sobre la participación del Señor en nuestra vida?",
+      "options": [
+        "Que Él solo se ocupa de los grandes milagros.",
+        "Que el Señor se ocupa de los pequeños detalles, incluyendo nuestras decisiones financieras.",
+        "Que el dinero es un tema que no le interesa a Dios."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál de estos principios financieros se enseña en las Escrituras (como en Génesis 41)?",
+      "options": [
+        "Ahorrar recursos para prepararse para los tiempos difíciles.",
+        "Gastar todo el dinero para disfrutar el presente.",
+        "No preocuparse por las deudas."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál debe ser nuestra prioridad suprema al administrar nuestro dinero?",
+      "options": [
+        "Comprar el teléfono más moderno.",
+        "Pagar los diezmos y ofrendas y buscar el Reino de Dios.",
+        "Ser la persona más rica de la comunidad."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué es importante orar por nuestros asuntos temporales (como las finanzas)?",
+      "options": [
+        "Porque debemos hacer partícipe al Señor en todas las partes de nuestra vida.",
+        "Para que Dios nos dé los números de la lotería.",
+        "No es importante orar por eso; Dios ya lo sabe."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio nos ayuda a evitar la codicia según el manual?",
+      "options": [
+        "Agradecer sinceramente las bendiciones que Dios ya nos ha dado.",
+        "Trabajar 24 horas al día.",
+        "No mirar lo que tienen los demás."
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

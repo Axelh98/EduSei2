@@ -1,0 +1,89 @@
+{
+  "id": "leccion-34-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Los discípulos de Jesús están orando y ayunando intensamente para saber cómo llamar a la Iglesia. Jesucristo se les aparece nuevamente y les aclara que la Iglesia debe llevar Su nombre, porque es Su Iglesia y está edificada sobre Su evangelio. Luego, define en términos claros qué es Su Evangelio: Él vino a hacer la voluntad del Padre, y mediante Su crucifixión y expiación, todos los hombres serán llevados ante Él para ser juzgados."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 27:8",
+          "texto": "¿Y cómo puede ser mi iglesia salva que lleve mi nombre? Porque si una iglesia lleva el nombre de Moisés, entonces es la iglesia de Moisés...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "3 Nefi 27:13",
+          "texto": "He aquí, os he dado mi evangelio, y este es el evangelio que os he dado: que vine al mundo a cumplir la voluntad de mi Padre...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p13#p13"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué es fundamental que la Iglesia lleve el nombre de Jesucristo?",
+        "¿Cómo resumirías 'el Evangelio' en base a lo que Jesucristo enseña en este capítulo?",
+        "¿De qué forma puedes honrar y representar el nombre de Cristo que has tomado sobre ti?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué preguntaron los discípulos sobre la iglesia?",
+      "options": [
+        "Cómo organizarla",
+        "Qué nombre debería llevar",
+        "Dónde construir",
+        "Cuándo reunirse"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué nombre dijo Cristo que debía llevar Su iglesia?",
+      "options": [
+        "Cualquier nombre",
+        "El nombre de Cristo",
+        "El nombre de Moisés",
+        "El nombre de los apóstoles"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo definió Cristo Su evangelio?",
+      "options": [
+        "Solo reglas",
+        "Que vino para hacer la voluntad del Padre y ser levantado en la cruz",
+        "Tradiciones",
+        "Leyes antiguas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué se requiere para entrar en el reino según Cristo?",
+      "options": [
+        "Solo bautismo",
+        "Fe, arrepentimiento, bautismo y perseverar hasta el fin",
+        "Solo buenas obras",
+        "Riquezas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué deben hacer los discípulos?",
+      "options": [
+        "Esconderse",
+        "Levantar Su iglesia y proclamar Su evangelio",
+        "Buscar riquezas",
+        "Gobernar políticamente"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

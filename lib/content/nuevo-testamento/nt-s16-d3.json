@@ -1,0 +1,61 @@
+{
+  "id": "nt-s16-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué pidió Jesús por aquellos que lo estaban crucificando?",
+      "options": [
+        "Que fueran castigados.",
+        "\"Padre, perdónalos, porque no saben lo que hacen\".",
+        "Que se arrepintieran pronto.",
+        "Que fueran bendecidos con riquezas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué promesa le hizo Jesús al malhechor arrepentido que estaba a Su lado?",
+      "options": [
+        "\"Te bajaré de la cruz\".",
+        "\"De cierto te digo que hoy estarás conmigo en el paraíso\".",
+        "\"Tus pecados son muchos\".",
+        "\"No hay esperanza para ti\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿A quién encomendó Jesús el cuidado de Su madre María?",
+      "options": [
+        "A Pedro.",
+        "Al discípulo amado (Juan).",
+        "A Santiago.",
+        "A María Magdalena."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál fue la última frase que Jesús pronunció antes de morir según Juan 19:30?",
+      "options": [
+        "\"Tengo sed\".",
+        "\"Consumado es\" (o \"Todo se ha cumplido\").",
+        "\"Padre, recíbeme\".",
+        "\"Volveré en tres días\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿A quién encomendó Jesús Su espíritu en Sus momentos finales?",
+      "options": [
+        "A los ángeles.",
+        "A Su Padre.",
+        "A la posteridad.",
+        "A los profetas antiguos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nt-s16-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué nombre recibía el lugar donde crucificaron a Jesús?",
+      "options": [
+        "Getsemaní.",
+        "Gólgota (que significa Lugar de la Calavera).",
+        "Belén.",
+        "Monte de los Olivos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué inscripción puso Pilato en la cruz de Jesús?",
+      "options": [
+        "\"El profeta de Galilea\".",
+        "\"JESÚS NAZARENO, REY DE LOS JUDÍOS\".",
+        "\"Blasfemo de Israel\".",
+        "\"Hijo de José\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué suceso natural ocurrió durante las tres horas finales de la crucifixión?",
+      "options": [
+        "Un gran arcoíris.",
+        "Hubo tinieblas sobre toda la tierra.",
+        "Una lluvia torrencial.",
+        "Un eclipse de luna."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué sucedió en el templo de Jerusalén en el momento en que Jesús murió?",
+      "options": [
+        "Se derrumbaron los muros.",
+        "El velo del templo se rasgó en dos, de arriba abajo.",
+        "Se apagaron las luces.",
+        "Los sacerdotes huyeron."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Quién reconoció la divinidad de Jesús al ver cómo murió y el terremoto?",
+      "options": [
+        "Los fariseos.",
+        "El centurión romano y los que estaban con él.",
+        "Pilato desde su palacio.",
+        "Herodes."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "193-descubre-fortalezas",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Cada persona viene a esta vida con fortalezas únicas que el Señor preparó con un propósito. El problema es que los jóvenes frecuentemente no las reconocen — o las minimizan porque no son las que la cultura valora más. Esta lección ayuda a identificar fortalezas reales: no solo las habilidades académicas o artísticas obvias, sino también dones de carácter como la empatía, la constancia, el humor que une a las personas, la capacidad de escuchar, o la habilidad de ver el bien en los demás. El proceso de descubrir las propias fortalezas tiene fundamento doctrinal en D&C 46:11 — a todos se les dan dones — y en la enseñanza de que somos hijos e hijas de un Padre Celestial que nos creó con propósito y no al azar. Conocer tus fortalezas no es arrogancia: es mayordomía responsable de lo que el Señor te dio."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Éter 12:27",
+          "texto": "Y si los hombres vienen a mí, les mostraré su debilidad. Les doy debilidad para que sean humildes; y mi gracia es suficiente para todos los hombres que se humillan ante mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "Doctrina y Convenios 46:11",
+          "texto": "A todos se les dan dones por el Espíritu de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p11#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Ronald A. Rasband",
+      "fuente": "«Parábolas de Jesús: La parábola de los talentos», Liahona, agosto de 2003, pág. 36",
+      "texto": "Los talentos que Dios nos ha dado se manifiestan primero en los intereses que perseguimos. Si usted tiene dudas sobre sus talentos, haga una lista de las cosas que le gusta hacer.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/583-discovering-your-strengths-and-abilities?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Descubrir tus fortalezas no es un ejercicio de autoestima superficial — es el comienzo de entender para qué te puso el Señor en la tierra. Éter 12:27 también promete que el Señor puede convertir las debilidades en fortalezas para quien se humilla. Eso significa que ni siquiera tus limitaciones actuales son permanentes. Con el Señor, tu punto de partida no define tu destino."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuáles son tres fortalezas tuyas que reconocés claramente? ¿Cómo las estás usando?",
+        "¿Hay alguna fortaleza tuya que otras personas ven en vos pero que vos no valorás tanto? ¿Por qué creés que eso pasa?",
+        "¿Qué te dice Éter 12:27 sobre tus debilidades actuales? ¿Cómo cambia eso tu perspectiva de ellas?",
+        "¿Qué fortaleza tuya podrías usar esta semana para servir a alguien en tu familia, quórum o clase?",
+        "¿Cómo podría conocer mejor tus propias fortalezas ayudarte a decidir cómo servir en la Iglesia o qué carrera seguir?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Éter 12:27 promete que el Señor puede convertir las debilidades en fortalezas. ¿A qué condición está ligada esa promesa?",
+      "options": [
+        "A que la persona se humille ante el Señor.",
+        "A que la persona tenga al menos cinco años de membresía activa.",
+        "A que la debilidad sea de carácter y no de habilidades prácticas.",
+        "A que la persona ya haya recibido el sacerdocio o las ordenanzas del templo."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 46:11–12 establece que a todos se les dan dones. ¿Qué implica eso directamente sobre la persona que dice 'no tengo ningún don especial'?",
+      "options": [
+        "Que probablemente tiene razón y sus dones son tan pequeños que no cuentan.",
+        "Que el versículo le responde directamente: a todos — sin excepción — se les da un don; el problema es que todavía no lo identificó.",
+        "Que debe orar más intensamente para recibir dones que todavía no le fueron dados.",
+        "Que sus dones se revelarán solo después de cumplir ciertos requisitos de membresía."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "El élder Ashton mencionó dones como 'escuchar con compasión' o 'ver el bien en los demás'. ¿Por qué identificar esos dones silenciosos es tan importante como identificar los más visibles?",
+      "options": [
+        "Porque los dones silenciosos son más valiosos que los dramáticos según el evangelio.",
+        "Porque si solo valoramos los dones visibles, ignoramos la mayoría de los dones reales que el Señor distribuyó — y dejamos de usarlos para el beneficio de quienes nos rodean.",
+        "Porque los dones silenciosos son los únicos que el Señor realmente otorga a los jóvenes.",
+        "Porque identificarlos permite presumir de humildad ante los demás."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué conocer las propias fortalezas no es arrogancia sino 'mayordomía responsable', según el principio de la lección?",
+      "options": [
+        "Porque la mayordomía implica administrar lo de otros, no lo propio.",
+        "Porque el Señor nos dio esas fortalezas con un propósito — conocerlas es el primer paso para ponerlas al servicio de ese propósito, no para enorgullecerse de ellas.",
+        "Porque la arrogancia solo existe cuando se exhiben las fortalezas en público.",
+        "Porque la mayordomía responsable consiste en esconder las fortalezas para no generar envidia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Sofía es muy buena conectando a personas que se sienten solas con grupos de amigos. Nunca pensó en eso como un don espiritual. Según D&C 46 y el principio de la lección, ¿qué debería entender Sofía sobre esa habilidad?",
+      "options": [
+        "Que es solo una habilidad social sin dimensión espiritual.",
+        "Que es un don dado para el beneficio de todos — una capacidad que el Señor le dio con el propósito específico de que otros sean beneficiados por ella.",
+        "Que debe esperar a ser llamada oficialmente para usar ese don en la Iglesia.",
+        "Que primero debe desarrollarlo más antes de considerarlo un don genuino."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Tomás tiene una debilidad: se rinde fácilmente cuando algo se pone difícil. Según Éter 12:27, ¿qué podría ocurrir con esa debilidad si Tomás se humilla ante el Señor?",
+      "options": [
+        "Que la debilidad desaparecerá automáticamente con el tiempo sin esfuerzo adicional.",
+        "Que el Señor puede convertir esa tendencia a rendirse en una fortaleza — quizás en empatía profunda por los que luchan, o en una fe más arraigada que nace de haber aprendido a perseverar.",
+        "Que la debilidad seguirá siendo una limitación que él debe simplemente aceptar.",
+        "Que la conversión de la debilidad ocurrirá solo en la siguiente vida, no en esta."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "D&C 46:11 ('a todos se les da un don') y Éter 12:27 ('el Señor convierte debilidades en fortalezas') juntos presentan una visión completa del potencial personal. ¿Cuál es esa visión?",
+      "options": [
+        "Que cada persona nace con fortalezas fijas y debilidades permanentes que no se pueden cambiar.",
+        "Que solo quienes no tienen debilidades visibles pueden descubrir y usar sus dones plenamente.",
+        "Que los dones son más importantes que trabajar en las debilidades.",
+        "Que somos seres con dones reales que debemos descubrir y usar, y con debilidades que el Señor puede transformar — ningún punto de partida define el destino cuando hay humildad y el Señor de por medio."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

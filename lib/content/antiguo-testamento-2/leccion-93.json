@@ -1,0 +1,56 @@
+{
+  "id": "leccion-93",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo reaccionó Nehemías cuando supo que los muros de Jerusalén estaban destruidos?",
+      "options": [
+        "Se enojó con los líderes de la ciudad.",
+        "Lloró, ayunó y oró al Señor durante días.",
+        "Organizó de inmediato un ejército para proteger la ciudad."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Cuando los enemigos se burlaron y amenazaron a los constructores, ¿qué hicieron Nehemías y el pueblo?",
+      "options": [
+        "Se detuvieron hasta recibir permiso del rey.",
+        "Oraron al Señor y continuaron trabajando con herramientas en una mano y armas en la otra.",
+        "Enviaron mensajeros para negociar con sus enemigos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿En cuánto tiempo terminaron la reconstrucción del muro de Jerusalén?",
+      "options": [
+        "Tres años.",
+        "Cincuenta y dos días.",
+        "Un año y medio."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué principio espiritual ilustra la conocida frase de Nehemías: 'El Dios del cielo nos prosperará'?",
+      "options": [
+        "Que el éxito depende solo del esfuerzo físico.",
+        "Que podemos confiar en la ayuda del Señor cuando hacemos nuestra parte con fe.",
+        "Que los líderes políticos deben aprobar toda obra religiosa."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué evento espiritual importante ocurrió después de que el muro fue terminado?",
+      "options": [
+        "El pueblo celebró con grandes fiestas sin ningún significado religioso.",
+        "Esdras leyó la ley de Moisés al pueblo, quienes lloraron y se arrepintieron.",
+        "El rey Artajerjes visitó Jerusalén para consagrar el templo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

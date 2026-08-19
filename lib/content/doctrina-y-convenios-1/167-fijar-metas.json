@@ -1,0 +1,117 @@
+{
+  "id": "167-fijar-metas",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "¿Cuántas veces pusiste una meta de Año Nuevo que desapareció antes del 15 de enero? Las metas vagas mueren rápido. 'Ser más espiritual' no es una meta; es un deseo. 'Leer las Escrituras 10 minutos cada mañana antes de desayunar' es una meta.",
+        "Esta lección enseña el proceso de fijar metas alineadas con los valores del evangelio. El propósito no es solo ser más organizado; es que las metas espirituales reflejen quiénes queremos llegar a ser como discípulos de Cristo. El proceso tiene pasos concretos: identificar el área de crecimiento, definir una acción específica, determinar cuándo y cómo, y crear rendición de cuentas.",
+        "En el contexto del Dominio de la Doctrina, fijar metas concretas para memorizar pasajes de las Escrituras y aplicarlos es la diferencia entre tener conocimiento teórico y tener un cimiento espiritual real. El Señor prometió en D&C 82:10 que 'cuando yo os mando hacer una cosa y lo hacéis, entonces os mando hacer otra'. Las metas espirituales cumplidas abren la puerta a más revelación y crecimiento."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 82:10",
+          "texto": "Yo el Señor, estoy ligado cuando hacéis lo que yo digo; pero cuando no hacéis lo que yo digo, no tenéis promesa.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Alma 37:6",
+          "texto": "Ahora bien, no menospreciéis las pequeñas cosas, pues de instrumentos pequeños lleva el Señor a cabo lo que es grande.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa&id=p6#p6"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder M. Russell Ballard",
+      "fuente": "\"Volver y Recibir\", Liahona, mayo de 2017, pág. 62).",
+      "texto": "Cuando una persona sabe adónde se dirige y cómo espera llegar a su destino, le proporciona significado, propósito y logro a su vida. Algunos tienen dificultad para diferenciar entre una meta y un plan hasta que aprenden que una meta es un destino o un fin, mientras que un plan es la ruta por la que llegamos a ese destino",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/04/return-and-receive?lang=spa&id=p4-p5#p4"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Las metas espirituales pequeñas y concretas son más poderosas que las grandes y vagas. 'Seré más espiritual' no cambia nada. 'Voy a orar diez minutos cada mañana, de rodillas, antes de salir de casa' sí puede cambiar todo. El Señor prometió en D&C 82:10 que está ligado cuando hacemos lo que Él dice. Las metas alineadas con el evangelio activan esas promesas. Esta semana, establecé una meta espiritual específica, medible, y con fecha. Escribila."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál fue la última meta espiritual que te propusiste? ¿La cumpliste? ¿Por qué sí o por qué no?",
+        "¿Cuál es la diferencia entre una meta vaga ('ser mejor') y una meta concreta ('leer cinco versículos cada mañana')? ¿Por qué importa esa diferencia?",
+        "¿Cómo se conecta D&C 82:10 con el tema de fijar metas espirituales?",
+        "¿Qué área de tu vida espiritual necesita más crecimiento en este momento?",
+        "¿Cuál es una meta espiritual concreta que vas a fijar esta semana? Sé específico: ¿qué, cuándo, cómo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál fue la última meta espiritual que te propusiste? ¿La cumpliste? Si no, ¿cuál fue la razón principal por la que no lo hiciste?",
+      "options": [
+        "Era demasiado vaga — decía 'ser mejor' pero sin definir qué significaba eso",
+        "Era demasiado grande para empezar, así que nunca di el primer paso",
+        "Nadie me recordó que la había hecho y la olvidé",
+        "Cualquiera de las anteriores puede ser la razón"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es la diferencia entre 'ser más espiritual' y 'orar diez minutos cada mañana antes de salir de casa'? ¿Por qué importa esa diferencia?",
+      "options": [
+        "No hay diferencia real, ambas expresan el mismo deseo",
+        "La segunda es específica y medible, lo que hace posible cumplirla y saber si la cumpliste",
+        "La primera es más honesta porque no restringe la espiritualidad a una sola práctica",
+        "La segunda es más rígida y por eso genera más culpa cuando falla"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué área de tu vida espiritual necesita más crecimiento en este momento — la oración, el estudio de las Escrituras, la asistencia a las reuniones, o el servicio?",
+      "options": [
+        "La oración, porque es mecánica y no siento que realmente me comunico con Dios",
+        "El estudio de las Escrituras, porque lo hago esporádicamente sin consistencia",
+        "El servicio, porque tiende a quedar siempre para otro momento",
+        "Depende de la semana, pero hay un área que sé que está más descuidada"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "D&C 82:10 dice: 'Yo el Señor, estoy ligado cuando hacéis lo que yo digo'. ¿Qué conexión tiene eso con fijar metas espirituales?",
+      "options": [
+        "Que el Señor cumplirá Sus promesas cuando nosotros cumplamos las nuestras",
+        "Que el Señor nos obligará a cumplir las metas si las escribimos formalmente",
+        "Que debemos esperar que el Señor actúe antes de comprometernos con nada",
+        "Que las promesas del Señor solo aplican a los líderes de la Iglesia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es una meta espiritual concreta que vas a fijar esta semana? ¿Qué específicamente harás, cuándo y cómo lo medirás?",
+      "options": [
+        "Ser más dedicado a la Iglesia en general durante el año",
+        "Una acción específica, en un momento concreto, durante un tiempo definido — por ejemplo cinco minutos de Escrituras cada noche antes de dormir",
+        "Esperar a que llegue la motivación antes de comprometerse con algo concreto",
+        "Hablar con el obispo para que él me diga qué meta debería tener"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Alma 37:6 dice: 'de instrumentos pequeños lleva el Señor a cabo lo que es grande'. ¿Cómo aplica eso a las metas espirituales pequeñas y consistentes?",
+      "options": [
+        "Que las metas pequeñas son suficientes y no necesitamos aspirar a más",
+        "Que los cambios pequeños y consistentes acumulan un impacto espiritual que supera lo que podemos imaginar",
+        "Que el Señor solo actúa a través de gestos grandes y visibles",
+        "Que las metas espirituales son siempre pequeñas comparadas con las metas del mundo"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

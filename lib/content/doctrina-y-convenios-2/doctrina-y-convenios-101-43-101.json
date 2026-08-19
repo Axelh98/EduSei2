@@ -1,0 +1,61 @@
+{
+  "id": "doctrina-y-convenios-101-43-101",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué representa el noble en la parábola de DyC 101:43–62?",
+      "options": [
+        "Jesucristo",
+        "Los líderes políticos",
+        "Los siervos",
+        "El pueblo de Israel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué podrían simbolizar la viña y la torre en DyC 101:43–62?",
+      "options": [
+        "La Iglesia y la preparación espiritual",
+        "Un campo literal",
+        "Una ciudad antigua",
+        "Un castillo medieval"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué enseñan las acciones de los siervos en DyC 101:46–50?",
+      "options": [
+        "Que descuidaron la obra y no construyeron la torre",
+        "Que fueron fieles",
+        "Que obedecieron al noble",
+        "Que defendieron la viña"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseña la reacción del noble en DyC 101:52–54?",
+      "options": [
+        "Que se enojó por la desobediencia",
+        "Que ignoró a los siervos",
+        "Que los recompensó",
+        "Que no intervino"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseñan DyC 101:63–67 sobre el trigo y la cizaña?",
+      "options": [
+        "El trigo representa a los justos y la cizaña a los inicuos",
+        "Ambos son iguales",
+        "No tienen significado",
+        "Son solo metáforas agrícolas"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

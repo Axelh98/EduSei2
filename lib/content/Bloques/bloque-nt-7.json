@@ -1,0 +1,28 @@
+{
+  "id": "bloque-nt-7",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué afirma Pablo sobre el amor en 1 Corintios 13:2?",
+      "options": [
+        "Que sin amor nada soy",
+        "Que el amor trae riquezas",
+        "Que el amor reemplaza la fe",
+        "Que el amor es solo un sentimiento"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es la mayor de las tres virtudes mencionadas en 1 Corintios 13:13?",
+      "options": [
+        "La esperanza",
+        "La fe",
+        "El amor",
+        "La paciencia"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

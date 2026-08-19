@@ -1,0 +1,56 @@
+{
+  "id": "leccion-187",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué son tan poderosos los hábitos en la formación del carácter?",
+      "options": [
+        "Porque los hábitos reemplazan la necesidad de tomar decisiones conscientes.",
+        "Porque los hábitos repetidos moldean quiénes somos y cómo respondemos automáticamente a los desafíos.",
+        "Los hábitos no tienen gran impacto en la persona que somos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo se relaciona el desarrollo de hábitos saludables con la Palabra de Sabiduría?",
+      "options": [
+        "La Palabra de Sabiduría cubre todos los hábitos posibles sin dejar nada sin mencionar.",
+        "La Palabra de Sabiduría es un ejemplo de cómo el Señor nos da principios para guiar nuestros hábitos físicos y espirituales.",
+        "Solo aplica para adultos mayores de 30 años."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es una estrategia útil para establecer un nuevo hábito positivo?",
+      "options": [
+        "Intentar cambiar todos tus hábitos al mismo tiempo.",
+        "Empezar con un pequeño cambio concreto y repetirlo consistentemente hasta que se vuelva natural.",
+        "Esperar a sentirte motivado antes de empezar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo puede involucrar al Señor en el proceso de cambiar hábitos negativos?",
+      "options": [
+        "Pidiéndole que Él lo cambie sin que tú hagas ningún esfuerzo.",
+        "Orando pidiendo Su ayuda y fortaleza mientras haces tu parte con consistencia.",
+        "Solo asistiendo a la Iglesia más seguido."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué beneficio espiritual tiene desarrollar hábitos de estudio de las Escrituras y oración?",
+      "options": [
+        "Que te garantizan no tener problemas en la vida.",
+        "Que fortalecen tu relación con el Señor y te mantienen conectado a la fuente de fortaleza que necesitas cada día.",
+        "Que te hacen más inteligente que los demás estudiantes."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

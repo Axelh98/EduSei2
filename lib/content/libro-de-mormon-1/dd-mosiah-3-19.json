@@ -1,0 +1,144 @@
+{
+  "id": "dd-mosiah-3-19",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mosíah 3:19 es un versículo largo. Pero cada parte tiene peso. 'El hombre natural es enemigo de Dios': diagnóstico. 'A menos que se someta al influjo del Santo Espíritu': la condición. 'Y se despoje del hombre natural': el proceso activo. 'Y se haga santo por la expiación de Cristo': la fuente del poder. 'Y se vuelva como un niño': el resultado. Dominar este versículo no es solo memorizarlo. Es poder explicar cada parte. ¿Qué es el hombre natural? ¿Qué significa someterse al Espíritu? ¿Cómo la Expiación hace posible el cambio? ¿Por qué un niño y no un adulto es el modelo? Cuando podés responder esas preguntas, tenés en tus manos uno de los mejores mapas del crecimiento espiritual que existen en las Escrituras. Y cuando lo vivís, empezás a notar el cambio: no de golpe, sino gradualmente, en tus reacciones, tus actitudes, tus elecciones. Eso es lo que significa haberlo dominado."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 3:19",
+          "texto": "Porque el hombre natural es enemigo de Dios, y lo ha sido desde la caída de Adán, y lo será para siempre jamás, a menos que se someta al influjo del Santo Espíritu, y se despoje del hombre natural, y se haga santo por la expiación de Cristo el Señor, y se vuelva como un niño: sumiso, manso, humilde, paciente, lleno de amor y dispuesto a someterse a cuanto el Señor juzgue conveniente infligir sobre él.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa&id=p19#p19"
+        },
+        {
+          "referencia": "Efesios 4:22–24",
+          "texto": "En cuanto a la pasada manera de vivir, despojaos del viejo hombre, que está corrompido por los deseos engañosos, y renovaos en el espíritu de vuestra mente, y vestíos del nuevo hombre, creado según Dios en la justicia y santidad de la verdad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=spa&id=p22-p24#p22"
+        },
+        {
+          "referencia": "3 Nefi 9:20",
+          "texto": "Y me ofreceréis como sacrificio un corazón quebrantado y un espíritu contrito. Y al que venga a mí con un corazón quebrantado y un espíritu contrito, lo bautizaré con fuego y con el Espíritu Santo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=spa&id=p20#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Dominar Mosíah 3:19 es dominar el mapa del cambio espiritual. El diagnóstico (el hombre natural es enemigo de Dios), la condición (someterse al Espíritu), el proceso (despojarse), la fuente del poder (la Expiación de Cristo), y el resultado (volverse como un niño). Cuando podés explicar eso con tus propias palabras y cuando empezás a vivirlo, ya lo dominaste. No porque puedas recitarlo, sino porque está cambiando algo en vos."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo explicarías con tus propias palabras qué es el 'hombre natural'? ¿Qué ejemplos de tu vida cotidiana usarías?",
+        "¿Cuál de las cinco partes de Mosíah 3:19 —diagnóstico, condición, proceso, fuente, resultado— te resulta más difícil de entender o aplicar?",
+        "¿Por qué la Expiación de Cristo es necesaria para despojarse del hombre natural? ¿No basta con fuerza de voluntad?",
+        "¿Cómo usarías este versículo para explicarle a alguien que el Evangelio no solo perdona sino que transforma?",
+        "¿Qué evidencia ves en tu propia vida de que estás avanzando —aunque sea poco— en este proceso de despojarte del hombre natural?",
+        "¿Cómo se conecta Mosíah 3:19 con lo que aprendiste sobre la Caída en 2 Nefi 2? ¿Son dos lados del mismo problema?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Completa: 'El hombre natural es ___ de Dios'",
+      "type": "multiple",
+      "options": [
+        "amigo",
+        "hijo automático",
+        "servidor",
+        "enemigo"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 3:19",
+      "explanation": "El hombre natural es enemigo de Dios desde la caída de Adán."
+    },
+    {
+      "id": 2,
+      "question": "¿En qué nos convertimos al despojarnos del hombre natural?",
+      "type": "multiple",
+      "options": [
+        "Santos por medio de la expiación de Cristo el Señor",
+        "Personas completamente libres de toda tentación futura",
+        "Miembros más respetados dentro de nuestra congregación",
+        "Seres que ya no necesitan seguir esforzándose espiritualmente"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 3:19",
+      "explanation": "Nos hacemos santos por la expiación de Cristo el Señor al someternos al Espíritu Santo."
+    },
+    {
+      "id": 3,
+      "question": "Según este versículo, ¿el hombre natural es enemigo de quién?",
+      "type": "multiple",
+      "options": [
+        "De sí mismo",
+        "De la sociedad",
+        "De Dios",
+        "De la naturaleza"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 3:19",
+      "explanation": "El hombre natural es enemigo de Dios y lo ha sido desde la caída de Adán."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué papel juega la expiación en despojarnos del hombre natural?",
+      "type": "multiple",
+      "options": [
+        "Nos exime de tener que cambiar nuestro comportamiento",
+        "Nos otorga automáticamente la perfección sin esfuerzo",
+        "Solamente cubre errores pasados sin afectar el futuro",
+        "Nos permite ceder al Espíritu Santo y ser transformados"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 3:19",
+      "explanation": "Por medio de la expiación podemos ceder al Espíritu Santo y ser santificados."
+    },
+    {
+      "id": 5,
+      "question": "Mateo memorizó el versículo pero dice que no sabe cómo aplicarlo cuando discute con su hermano. ¿Qué le sugerirías basándote en Mosíah 3:19?",
+      "type": "multiple",
+      "options": [
+        "Que ignore a su hermano hasta que se calme por su cuenta",
+        "Que ceda al Espíritu en lugar de reaccionar con su primer impulso de enojo",
+        "Que le demuestre que tiene la razón antes de calmarse",
+        "Que evite hablar con él hasta sentirse mejor"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 3:19",
+      "explanation": "El versículo invita a ceder al Espíritu en lugar de actuar según el primer impulso natural."
+    },
+    {
+      "id": 6,
+      "question": "Camila siente que ya 'nació cristiana' y no necesita cambiar nada más. ¿Qué corrige Mosíah 3:19 sobre esa idea?",
+      "type": "multiple",
+      "options": [
+        "Que el cambio de corazón es un proceso activo y continuo, no algo automático",
+        "Que nacer en una familia creyente ya garantiza la salvación",
+        "Que el cambio de corazón ocurre una sola vez y luego ya no requiere esfuerzo",
+        "Que solo quienes cometen grandes pecados necesitan cambiar"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 3:19",
+      "explanation": "El cambio de corazón es un proceso activo y continuo que requiere someterse al Espíritu constantemente."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan la idea de ser 'enemigo de Dios' y la de convertirnos en 'santos por la expiación' dentro de este mismo versículo?",
+      "type": "multiple",
+      "options": [
+        "No tienen ninguna relación real entre sí",
+        "Muestran el contraste entre nuestro estado natural y lo que podemos llegar a ser mediante Cristo",
+        "Describen exactamente la misma condición espiritual",
+        "Solo aplican a personas que han cometido pecados graves"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 3:19",
+      "explanation": "El versículo contrasta nuestro estado natural como enemigos de Dios con la posibilidad de volvernos santos por la expiación de Cristo."
+    }
+  ]
+}

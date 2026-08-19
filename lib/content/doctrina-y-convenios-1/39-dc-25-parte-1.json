@@ -1,0 +1,110 @@
+{
+  "id": "39-dc-25-parte-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "D&C 25 es la única revelación en toda la sección canónica dirigida específicamente a una mujer: Emma Smith. El Señor no la llama por su relación con el profeta; la llama 'dama elegida' y le habla directamente de su misión divina.",
+        "Esta lección tiene un enfoque específico en el manual: los consejos del Salvador a Emma no fueron solo una lista de tareas. Fueron una guía de cómo llegar a ser más como Él. El Señor le pidió que consolara a su esposo, que estudiara las Escrituras, que exhortara a la Iglesia, y que recopilara himnos. Cada una de esas asignaciones era una forma de ministrar a otros, de servir, de dedicarse a lo que importa eternamente.",
+        "D&C 25 también demuestra que las mujeres tienen llamados divinos específicos con importancia igual a cualquier otro llamado en la Iglesia. El llamado de Emma de recopilar los himnos fue cumplido en 1835. Su contribución sigue presente en cada sacramental de hoy. El v. 16 amplía el mensaje: 'esta es mi voz para todos', no solo para Emma."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 25:3–5",
+          "texto": "He aquí, tus pecados te son perdonados, y eres una dama elegida, a quien he llamado. Mucho comfort has recibido de mi mano. Y no temas, pues tu marido te comunicará las cosas del reino.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=spa&id=p3-p5#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 25:11–12",
+          "texto": "Y también, en la Iglesia se harán himnos conforme a las que te sean dadas; pues mi alma se deleita en el canto del corazón; sí, el canto de los justos es una oración para mí, y les será recompensado con una bendición.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=spa&id=p11-p12#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "D&C 25 demuestra que el Señor tiene llamados divinos específicos para las mujeres, de igual importancia que cualquier otro llamado. Los consejos que le dio a Emma —consolar, estudiar, exhortar, crear— son también formas de llegar a ser más como el Salvador. El v. 16 lo extiende a todos: estas instrucciones son la voz del Señor para cada uno de nosotros. ¿Cuál de estas formas de ministerio podés practicar más activamente esta semana?"
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te sorprende o impresiona del hecho de que esta revelación esté dirigida directamente a Emma Smith?",
+        "¿Cuáles son las asignaciones específicas que el Señor le dio a Emma en D&C 25? ¿Cuál de ellas crees que fue más significativa para ella?",
+        "¿Alguna vez los himnos te ayudaron en un momento difícil o de duda? ¿Qué pasó?",
+        "Si el v. 16 dice que esta revelación es 'la voz del Señor para todos', ¿cuál de los consejos a Emma aplica más directamente a tu vida ahora?",
+        "¿Cuál de las formas de ministerio que el Señor le pidió a Emma podrías practicar más activamente esta semana?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 25 es la única revelación dirigida específicamente a una mujer en la sección canónica. El Señor llama a Emma 'dama elegida'. ¿Qué dice eso sobre cómo Dios ve a las mujeres?",
+      "options": [
+        "Que las mujeres tienen un papel secundario pero honorable en la Iglesia",
+        "Que las mujeres reciben llamamientos divinos específicos con igual importancia que los demás",
+        "Que el Señor solo habló a Emma porque era la esposa del profeta",
+        "Que las mujeres en la Iglesia primitiva tenían más autoridad que las de hoy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Las asignaciones que el Señor dio a Emma — consolar, estudiar, exhortar, recopilar himnos — son también maneras de llegar a ser más como el Salvador. ¿Qué tienen en común esas asignaciones?",
+      "options": [
+        "Que todas requieren un llamamiento formal de parte del obispo",
+        "Que todas son formas de ministrar a otros y dedicarse a lo eterno por encima de lo temporal",
+        "Que todas están relacionadas con la música y las artes",
+        "Que todas son exclusivas para las mujeres en la Iglesia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Alguna vez un himno te ayudó en un momento difícil o de duda? ¿Cuál fue y qué cambió en vos después de cantarlo o escucharlo?",
+      "options": [
+        "Nunca presté atención a la letra de los himnos porque los canto mecánicamente",
+        "Sí, la letra de un himno me recordó una verdad que necesitaba exactamente en ese momento",
+        "Solo me ayudan los himnos modernos con música más atractiva",
+        "Los himnos me parecen irrelevantes para mi vida cotidiana"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "D&C 25:12 dice 'el canto de los justos es una oración para mí'. ¿Qué cambia en tu manera de cantar los himnos si los tratas como una oración?",
+      "options": [
+        "Cantarlos se vuelve una obligación espiritual que genera culpa si no los cantás bien",
+        "La atención se desplaza de la melodía a la letra, y la letra se convierte en una conversación con Dios",
+        "Solo importa el volumen y el entusiasmo, no las palabras específicas",
+        "Los himnos solo funcionan como oración si los cantás en grupo, no individualmente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "D&C 25:16 dice 'esta es mi voz para todos'. ¿Cuál de los consejos dados a Emma aplicás más directamente a tu vida esta semana?",
+      "options": [
+        "Consolar a alguien que está atravesando algo difícil",
+        "Estudiar las Escrituras con más disciplina y continuidad",
+        "Exhortar a alguien que se está alejando con honestidad y amor",
+        "Cualquiera de las anteriores según lo que el Señor me esté pidiendo esta semana"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "El Señor le prometió a Emma una 'corona de rectitud' si guardaba Sus mandamientos. ¿Qué motivación es más poderosa: la promesa de una recompensa futura o el amor al Salvador? ¿Por qué?",
+      "options": [
+        "La recompensa futura, porque da algo concreto y tangible por qué esforzarse",
+        "El amor al Salvador, porque genera obediencia voluntaria que no necesita control externo",
+        "Ambas son iguales en efectividad, solo depende de la personalidad de cada persona",
+        "Ninguna de las dos: lo que realmente motiva es la presión social de la comunidad"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

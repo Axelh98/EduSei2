@@ -1,0 +1,94 @@
+{
+  "id": "leccion-32-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Cristo instruye a la multitud y a Sus discípulos sobre la importancia vital de la oración constante para no caer en tentación. Él enseña a orar al Padre en Su nombre y a incluir a la familia en las oraciones. Al día siguiente, los doce discípulos enseñan a la multitud, oran por el Espíritu Santo y son bautizados. Cristo entonces ora al Padre agradeciendo la fe de ellos, y los discípulos son transfigurados por el poder del Espíritu."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 18:15",
+          "texto": "De cierto, de cierto os digo que debéis velar y orar siempre, no sea que el diablo os tiente, y seáis llevados cautivos por él.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "3 Nefi 18:21",
+          "texto": "Orad al Padre en vuestras familias, siempre en mi nombre, para que sean bendecidos vuestras esposas y vuestros hijos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p21#p21"
+        },
+        {
+          "referencia": "3 Nefi 19:24",
+          "texto": "...y no multiplicaron muchas palabras, porque les era dado lo que habían de pedir, y estaban llenos de deseo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=spa&id=p24#p24"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué es importante 'velar y orar siempre'?",
+        "¿Qué impacto tiene la oración familiar en tu hogar?",
+        "¿Cómo puedes prepararte para que el Espíritu te guíe en tus propias oraciones?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según 3 Nefi 11:29, ¿de quién es el espíritu de contención?",
+      "options": [
+        "De Dios",
+        "Del diablo",
+        "Neutral",
+        "De los profetas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué incita el diablo en los corazones según este versículo?",
+      "options": [
+        "Paz",
+        "A contender con ira unos con otros",
+        "Amor",
+        "Paciencia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es la doctrina de Cristo sobre disputas?",
+      "options": [
+        "Que son buenas",
+        "Que no debe haber disputas sobre Su doctrina",
+        "Que son necesarias",
+        "Que no importan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo debemos resolver diferencias según este principio?",
+      "options": [
+        "Con ira",
+        "Con el espíritu de mansedumbre y amor",
+        "Ignorándolas",
+        "Con violencia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué nos enseña sobre la unidad en la Iglesia?",
+      "options": [
+        "Que no es importante",
+        "Que debemos estar unidos sin contenciones",
+        "Que siempre habrá peleas",
+        "Que la unidad es imposible"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

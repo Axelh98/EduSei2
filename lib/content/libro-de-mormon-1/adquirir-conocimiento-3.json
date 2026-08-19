@@ -1,0 +1,137 @@
+{
+  "id": "adquirir-conocimiento-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "No beberías agua de una fuente contaminada aunque tuvieras mucha sed. La fuente importa. Lo mismo pasa con la información espiritual. Hay fuentes que te van a dar respuestas verdaderas, y hay fuentes que pueden estar diseñadas exactamente para generar duda, confusión o alejarte del Padre Celestial. En un mundo donde podés acceder a millones de opiniones sobre la Iglesia en segundos, saber elegir la fuente correcta es una habilidad que puede proteger tu testimonio. El tercer principio para adquirir conocimiento espiritual es procurar una mayor comprensión mediante las fuentes divinamente señaladas. ¿Cuáles son esas fuentes? Las Escrituras, las palabras de los profetas vivos, la guía del Espíritu Santo, líderes confiables, y familiares fieles. No son fuentes perfectas en el sentido humano, pero son las que el Padre Celestial designó para guiarte. Cuando Jacob enfrentó a Sherem —un hombre inteligente, elocuente y con argumentos pulidos para destruir la fe— no respondió con más inteligencia humana. Respondió desde su experiencia con las Escrituras, las revelaciones, y el Espíritu Santo. Esa es la diferencia entre buscar en fuentes confiables y buscar en fuentes que simplemente suenan convincentes."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Jacob 7:10–12",
+          "texto": "Y yo le dije: ¿Niegas acaso el Cristo que ha de venir? Y él dijo: Si hubiera un Cristo, no negaría; pero sé que no hay Cristo, ni ha habido ni habrá... Y yo le dije: Estás mintiendo... porque yo sé que hay un Cristo, y que él es el Santo de Israel.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/7?lang=spa&id=p10-p12#p10"
+        },
+        {
+          "referencia": "2 Nefi 28:30",
+          "texto": "Daré a los hijos de los hombres línea por línea, precepto por precepto, un poco aquí y un poco allí; y benditos son aquellos que escuchan mis preceptos y prestan atención a mis consejos, porque aprenderán sabiduría.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=spa&id=p30#p30"
+        },
+        {
+          "referencia": "Moroni 10:4–5",
+          "texto": "Y cuando recibáis estas cosas, quisiera exhortaros a que preguntéis a Dios... si no son verdaderas estas cosas; y si pedís con un corazón sincero, con verdadera intención, teniendo fe en Cristo, él os manifestará la verdad de ellas por el poder del Espíritu Santo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p4-p5#p4"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Henry B. Eyring",
+      "fuente": "Liahona, noviembre de 2015, págs. 104–105",
+      "texto": "Vivimos en una época en que aun los más sabios tendrán dificultades para distinguir entre la verdad y el engaño ingenioso. […] El Espíritu Santo es quien confirma las verdades que indican el camino para volver a Dios.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/10/the-holy-ghost-as-your-companion?lang=spa&id=p10,p12#p10"
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Liahona, noviembre de 2021, págs. 6–7",
+      "texto": "Una de las plagas de nuestra época es que muy pocas personas saben adónde acudir en busca de la verdad. La doctrina pura de Cristo es poderosa; cambia la vida de todo aquel que la entiende y procura implementarla en su vida.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=spa&id=p6-p7#p6"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Las fuentes que elegís para buscar respuestas espirituales marcan la diferencia entre fortalecer tu fe y debilitarla. El Padre Celestial no te dejó sin guía: te dio Escrituras, profetas, el Espíritu Santo, y personas confiables a tu alrededor. Buscar en esas fuentes no es ingenuidad. Es sabiduría. La próxima vez que tengas una pregunta difícil sobre el Evangelio, antes de buscar en cualquier lugar de internet, preguntate: ¿estoy yendo a una fuente que me quiere acercar a Cristo, o a una que puede estar diseñada para alejarme de Él?"
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿A qué fuentes recurrís normalmente cuando tenés preguntas sobre el Evangelio o la Iglesia? ¿Por qué?",
+        "¿Qué diferencia notás entre buscar en fuentes divinamente señaladas y buscar en cualquier fuente de internet?",
+        "Jacob respondió a Sherem desde su experiencia con las Escrituras y el Espíritu, no desde argumentos humanos. ¿Cómo aplicarías eso si alguien te desafiara tu fe?",
+        "¿Hubo alguna vez en que una fuente confiable —un líder, las Escrituras, el Espíritu— te dio una respuesta que no esperabas pero que fue justo lo que necesitabas?",
+        "¿Qué harías esta semana si encontraras algo en internet que pusiera en duda algo de lo que creés?",
+        "¿Cómo explicarías a alguien que no es miembro por qué elegís ciertas fuentes por encima de otras para buscar respuestas espirituales?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "La lección compara buscar verdad espiritual con beber agua. ¿Qué principio ilustra esa comparación sobre las fuentes de conocimiento espiritual?",
+      "options": [
+        "Que cualquier fuente de información religiosa es igual de válida, como el agua es agua en cualquier recipiente",
+        "Que la fuente importa, porque algunas fuentes pueden estar contaminadas y dañar en lugar de nutrir",
+        "Que las fuentes espirituales son tan accesibles como el agua y no requieren esfuerzo para encontrarlas",
+        "Que las preguntas espirituales se responden solos con el tiempo, como el agua encuentra su camino"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según el presidente Eyring, ¿qué tipo de verdades solo pueden confirmarse mediante revelación de Dios?",
+      "options": [
+        "Las verdades sobre historia y ciencias naturales que la razón no puede alcanzar",
+        "Las verdades más importantes, especialmente las que indican el camino para volver a Dios",
+        "Solo las verdades sobre el Plan de Salvación y la vida después de la muerte",
+        "Únicamente las verdades contenidas en las Escrituras canónicas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Jacob enfrentó a Sherem usando las Escrituras, las revelaciones y el Espíritu Santo. ¿Por qué ese conjunto de fuentes fue más efectivo que simplemente responder con argumentos intelectuales?",
+      "options": [
+        "Porque Jacob era más inteligente que Sherem y sabía más argumentos lógicos",
+        "Porque las fuentes divinamente señaladas acceden a una verdad que trasciende el debate intelectual y puede ser confirmada por el Espíritu al que escucha",
+        "Porque Sherem era deshonesto y los argumentos intelectuales nunca convencen a personas deshonestas",
+        "Porque las fuentes divinamente señaladas dan al hablante más credibilidad social"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "El presidente Nelson dijo que 'muy pocas personas saben adónde acudir en busca de la verdad'. ¿Por qué eso es especialmente problemático en la época actual con acceso a tanta información?",
+      "options": [
+        "Porque hay más información pero no necesariamente más sabiduría para evaluar qué fuentes son confiables",
+        "Porque la abundancia de información garantiza que alguien siempre diga la verdad",
+        "Porque el acceso a información hace innecesario buscar la guía del Espíritu",
+        "Porque más información significa más dudas y la Iglesia debería limitar el acceso a internet"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Sofía encontró un video de YouTube que critica la Iglesia y lo compartió con sus amigos diciendo 'aquí hay evidencia'. Según el principio de las fuentes divinamente señaladas, ¿qué reflexión le faltó antes de compartirlo?",
+      "options": [
+        "Verificar que el video estuviera en español antes de compartirlo",
+        "Preguntar si la fuente tiene el propósito de acercar a Cristo o de sembrar dudas, y contrastar con fuentes confiables antes de sacar conclusiones",
+        "Consultar con el obispo para saber si es apropiado compartir ese tipo de contenido",
+        "Esperar que alguien con más experiencia viera el video primero"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Tomás tiene una pregunta sobre la Iglesia que lo está perturbando. Según el tercer principio para adquirir conocimiento espiritual, ¿cuál sería el proceso correcto para buscar respuesta?",
+      "options": [
+        "Publicar la pregunta en redes sociales para ver qué responden los demás",
+        "Buscar la respuesta en las Escrituras, consultar con líderes confiables, orar al respecto, y evaluar las respuestas con el Espíritu Santo",
+        "Esperar a que la pregunta se resuelva sola con el tiempo",
+        "Decidir que si no encuentra la respuesta fácilmente, la pregunta no tiene respuesta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Los tres principios para adquirir conocimiento espiritual son: actuar con fe (Parte 1), analizar con perspectiva eterna (Parte 2), y buscar en fuentes divinamente señaladas (Parte 3). ¿Por qué los tres son necesarios y ninguno es suficiente por sí solo?",
+      "options": [
+        "Son redundantes y cualquiera de los tres por separado lleva al mismo resultado",
+        "Actuar con fe sin perspectiva eterna puede ser impulsivo; la perspectiva eterna sin fuentes confiables puede desviarse; las fuentes sin fe activa pueden volverse solo académicas. Juntos forman un sistema completo",
+        "El tercero reemplaza a los dos primeros porque las fuentes correctas lo resuelven todo",
+        "El primero es el más importante y los otros dos son solo complementarios opcionales"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

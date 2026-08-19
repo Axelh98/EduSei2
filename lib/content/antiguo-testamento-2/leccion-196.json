@@ -1,0 +1,56 @@
+{
+  "id": "leccion-196",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué compartir el Evangelio se considera una responsabilidad de convenio?",
+      "options": [
+        "Porque es un requisito para mantener la membresía activa.",
+        "Porque al ser bautizados y recibir ordenanzas, entramos en convenios que incluyen el compromiso de ser testigos de Cristo y compartir Sus bendiciones.",
+        "Solo aplica a quienes son llamados formalmente como misioneros."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es la relación entre el convenio de Abraham y compartir el Evangelio?",
+      "options": [
+        "No hay ninguna relación.",
+        "Como herederos del convenio de Abraham, tenemos la responsabilidad de llevar las bendiciones del Evangelio a todas las familias de la tierra.",
+        "Solo aplica a los descendientes biológicos de Abraham."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es la forma más natural y efectiva de compartir el Evangelio según esta lección?",
+      "options": [
+        "Dejar folletos en lugares públicos.",
+        "Vivir el Evangelio auténticamente y compartir con sinceridad lo que el Señor ha hecho en tu vida.",
+        "Hablar del Evangelio con todos en cada conversación."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué impide a muchos jóvenes compartir el Evangelio con sus amigos?",
+      "options": [
+        "No saber suficiente teología.",
+        "El miedo al rechazo o a lo que los demás pensarán de ellos.",
+        "La falta de autoridad del sacerdocio."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promete el Señor a quienes abren la boca para compartir el Evangelio con fe?",
+      "options": [
+        "Que todos a quienes les hablen se bautizarán.",
+        "Que les llenará la boca y les dará las palabras que deben decir, guiados por el Espíritu.",
+        "Que nunca más tendrán vergüenza en ninguna situación."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

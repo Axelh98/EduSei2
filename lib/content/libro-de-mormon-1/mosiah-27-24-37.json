@@ -1,0 +1,150 @@
+{
+  "id": "mosiah-27-24-37",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Después de su experiencia con el ángel, Alma pasó por un profundo proceso de arrepentimiento y transformación espiritual. Finalmente declaró que había nacido de Dios. Esta expresión describe el cambio espiritual que ocurre cuando una persona se arrepiente sinceramente y recibe el poder purificador de Jesucristo. Alma pasó de destruir la Iglesia a dedicar su vida a edificar el reino de Dios. Su experiencia demuestra que el Evangelio no solo cambia conductas externas, sino también deseos y prioridades internas. El nuevo nacimiento espiritual trae gozo, paz y un deseo de hacer el bien. Jesucristo puede transformar completamente la vida de quienes confían en Él."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 27:25",
+          "texto": "Debéis nacer otra vez; sí, nacer de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=spa&id=p25#p25"
+        },
+        {
+          "referencia": "Mosíah 27:29",
+          "texto": "Mi alma ha sido rescatada de la hiel de amargura.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=spa&id=p29#p29"
+        },
+        {
+          "referencia": "2 Corintios 5:17",
+          "texto": "Si alguno está en Cristo, nueva criatura es.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/5?lang=spa&id=p17#p17"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Jeffrey R. Holland",
+      "fuente": "Liahona, mayo de 2017 (discurso \"Las canciones que se cantan y las que no se cantan\")",
+      "texto": "'Vengan como son', nos dice el amoroso Padre a cada uno de nosotros, pero añade: 'No planeen permanecer como son'. Nosotros sonreímos y recordamos que Dios tiene la determinación de hacer de nosotros más de lo que pensábamos que podríamos llegar a ser.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/04/songs-sung-and-unsung?lang=spa&id=p16#p16"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Nacer de Dios significa experimentar un cambio profundo mediante el poder de Jesucristo. Alma pasó de la rebelión al discipulado fiel porque permitió que el Salvador transformara su corazón. El Evangelio puede cambiar nuestros deseos, pensamientos y acciones. Cuando nos arrepentimos sinceramente y seguimos a Cristo, recibimos paz, esperanza y una nueva vida espiritual."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué significa para ti nacer de Dios?",
+        "¿Cómo cambia Jesucristo el corazón humano?",
+        "¿Qué diferencias hubo entre Alma antes y después de su conversión?",
+        "¿Por qué el arrepentimiento trae gozo?",
+        "¿Qué cambios espirituales has visto en tu propia vida?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué significa 'nacer de Dios' según Mosíah 27:25?",
+      "type": "multiple",
+      "options": [
+        "Experimentar un cambio de corazón y ser redimidos de un estado carnal a espiritual",
+        "Nacer nuevamente de manera física en otra familia",
+        "Cumplir con el ritual del bautismo sin ningún cambio interno",
+        "Alcanzar un estatus social más alto dentro de la iglesia"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 27:25",
+      "explanation": "Nacer de Dios es experimentar un cambio de corazón y pasar de un estado carnal a uno espiritual."
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo cambió Alma después de su conversión?",
+      "type": "multiple",
+      "options": [
+        "Se volvió más orgulloso al sentirse especialmente elegido",
+        "Permaneció exactamente igual, sin ningún cambio visible",
+        "Se retiró completamente de la vida pública para siempre",
+        "Dedicó su vida a predicar el evangelio y reparar el daño que había causado"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 27:32-35",
+      "explanation": "Alma dedicó su vida a predicar el evangelio y reparar el daño que había causado."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué dice Alma sobre todos los que desean ser salvos?",
+      "type": "multiple",
+      "options": [
+        "Que deben ser perfectos antes de poder arrepentirse",
+        "Que deben nacer otra vez y experimentar un cambio de corazón",
+        "Que es imposible para cualquier persona lograrlo",
+        "Que basta con pertenecer a la familia correcta"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 27:25-26",
+      "explanation": "Alma enseña que todos los que deseen ser salvos deben nacer otra vez y experimentar un cambio de corazón."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué declaró Alma hijo sobre su conversión?",
+      "type": "multiple",
+      "options": [
+        "Que su alma había sido redimida del hiel de amargura y de las cadenas del infierno",
+        "Que todo había sido simplemente un sueño sin mayor importancia",
+        "Que el cambio solo fue temporal y luego se desvaneció",
+        "Que prefería no hablar del tema con su familia"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 27:29",
+      "explanation": "Alma declaró que su alma había sido redimida del hiel de amargura y de las cadenas del infierno."
+    },
+    {
+      "id": 5,
+      "question": "Guadalupe siente que su testimonio es 'heredado' de sus padres y no algo propio. ¿Qué le enseña Mosíah 27:25 sobre 'nacer de Dios'?",
+      "type": "multiple",
+      "options": [
+        "Que basta con la fe de la familia para tener un testimonio verdadero",
+        "Que cada persona necesita su propio cambio de corazón, no basta con la fe de la familia",
+        "Que 'nacer de Dios' es algo que ocurre automáticamente al crecer",
+        "Que su testimonio heredado ya es completamente válido"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 27:25",
+      "explanation": "Cada persona necesita experimentar su propio cambio de corazón; no basta con la fe heredada de la familia."
+    },
+    {
+      "id": 6,
+      "question": "Tomás ayudó a dañar la reputación de alguien y ahora quiere reparar el daño que causó. ¿Qué ejemplo de Alma después de su conversión le sirve?",
+      "type": "multiple",
+      "options": [
+        "Ignorar el daño causado y seguir adelante sin más",
+        "Dedicar su vida a hacer el bien y reparar activamente el daño causado, como hizo Alma",
+        "Esperar a que la otra persona lo perdone antes de actuar",
+        "Disculparse una sola vez y no volver a mencionar el tema"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 27:32-35",
+      "explanation": "Alma dedicó su vida a hacer el bien y a reparar activamente el daño que había causado."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan 'nacer de Dios' y la decisión de Alma de predicar junto a los hijos de Mosíah?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "Predicar era una obligación impuesta, sin relación con su conversión",
+        "El verdadero cambio de corazón lleva naturalmente al deseo de ayudar a otros a experimentarlo también",
+        "Solo la conversión personal de Alma importa en este relato"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 27:25-37",
+      "explanation": "El verdadero cambio de corazón lleva naturalmente al deseo de ayudar a otros a experimentar la misma conversión."
+    }
+  ]
+}

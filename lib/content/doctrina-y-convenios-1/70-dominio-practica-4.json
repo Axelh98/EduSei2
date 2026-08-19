@@ -1,0 +1,124 @@
+{
+  "id": "70-dominio-practica-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "En esta sesión de práctica se consolidan los pasajes del Dominio de la Doctrina de las últimas semanas. El foco es la capacidad de uso en situaciones reales: no solo recitar versículos sino explicar la doctrina que contienen, conectarla con la vida del alumno y aplicarla a preguntas o situaciones concretas. Los pasajes en repaso incluyen D&C 45:3–5 sobre el Salvador como Intercesor, D&C 46:11–12 sobre los dones del Espíritu, y D&C 50:24 sobre la luz que crece. El dominio real se prueba cuando el versículo surge naturalmente en la conversación, no cuando se recita de memoria bajo presión."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 46:11–12",
+          "texto": "A todos se les dan dones por el Espíritu de Dios. A algunos se les da uno, y a otros se les da otro, para que todos sean beneficiados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p11-p12#p11"
+        },
+        {
+          "referencia": "Doctrina y Convenios 50:24",
+          "texto": "El que recibe la Palabra de Dios recibe luz; y el que recibe luz y continúa en Dios recibe más luz; y esa luz crece más y más hasta el día perfecto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p24#p24"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Richard G. Scott",
+      "fuente": "«El poder de las Escrituras», Conferencia General, octubre de 2011 (Liahona, noviembre de 2011)",
+      "texto": "Una escritura memorizada pasa a ser una amistad duradera que no se debilita con el paso del tiempo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El Dominio de la Doctrina es equipamiento espiritual permanente. Cada pasaje que realmente entendés y podés usar es una herramienta disponible para toda la vida. Esta sesión de práctica no es un repaso escolar — es una verificación de qué tan listos están esos versículos para ser usados cuando más se necesiten."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué pasajes del Dominio de la Doctrina podés citar y explicar con más confianza hoy?",
+        "Si alguien te dijera 'no sé si tengo dones espirituales', ¿qué versículo usarías y cómo lo explicarías?",
+        "¿Cuándo fue la última vez que usaste un pasaje memorizado fuera del aula de Seminario?",
+        "¿Qué versículo todavía no tenés bien dominado? ¿Cuál es tu plan para aprenderlo esta semana?",
+        "¿Cómo explicarías D&C 50:24 a alguien que siente que su fe no está creciendo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 46:11–12 es un pasaje del Dominio de la Doctrina. ¿Cuál es su declaración central?",
+      "options": [
+        "A todos se les dan dones por el Espíritu de Dios, para que todos sean beneficiados.",
+        "El Señor está obligado cuando hacemos lo que Él dice.",
+        "La luz de Cristo da luz a todo hombre que viene al mundo.",
+        "Si no sois uno, no sois míos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Si alguien te pregunta '¿por qué confías en que el Señor cumplirá Sus promesas?', ¿cuál de los pasajes del Dominio de la Doctrina responde eso más directamente?",
+      "options": [
+        "D&C 6:36 — 'No temas, pequeño rebaño.'",
+        "D&C 8:2–3 — habla a la mente y al corazón.",
+        "D&C 82:10 — 'Yo, el Señor, estoy obligado cuando hacéis lo que os digo.'",
+        "D&C 18:10–11 — el valor de las almas."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "D&C 50:23 ('lo que no edifica no viene de Dios') se estudió en este bloque. ¿Cómo usarías ese versículo si un amigo te comparte algo espiritual que te genera confusión?",
+      "options": [
+        "Rechazándolo de inmediato sin considerarlo porque la confusión ya es señal suficiente.",
+        "Aceptándolo porque cualquier cosa espiritual tiene valor aunque genere confusión.",
+        "Aplicando el criterio del versículo: si no edifica — si no te acerca al Señor, no fortalece tu fe ni te inspira a ser mejor — no viene de Dios.",
+        "Consultando primero las redes sociales para ver qué opina la mayoría."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Qué hace que un versículo del Dominio esté 'dominado' de verdad, más allá de poder recitarlo de memoria?",
+      "options": [
+        "Haberlo copiado a mano tres veces como técnica de memorización.",
+        "Poder explicar su principio central con tus propias palabras, ubicarlo en su contexto y aplicarlo a una situación real sin necesitar buscarlo.",
+        "Saber cuántos versículos tiene la sección en la que aparece.",
+        "Haber escuchado tres sermones diferentes sobre ese versículo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Nicolás memorizó D&C 46:11–12 pero nunca lo usó fuera del Seminario. Esta semana su hermana menor le dice que siente que no tiene ningún don especial. ¿Cómo podría Nicolás usar ese versículo?",
+      "options": [
+        "Recitándoselo en voz alta para que ella lo memorice también.",
+        "Diciéndole que el versículo dice que a todos se les da un don — y ayudándola a identificar cuál podría ser el suyo.",
+        "Guardándolo para una situación más importante porque el problema de su hermana es menor.",
+        "Enviándole el versículo por mensaje de texto sin explicación para que ella lo interprete."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Renata quiere usar un versículo del Dominio de la Doctrina en su próxima lección de Seminario. ¿Cuál es la señal de que lo usó bien, no solo que lo citó?",
+      "options": [
+        "Que la clase aplaudió después de la cita.",
+        "Que recitó el versículo sin errores y dio la referencia completa.",
+        "Que el versículo iluminó el principio de la lección y los alumnos pudieron conectarlo con su propia vida.",
+        "Que usó el versículo más largo disponible para impresionar al maestro."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "El Dominio de la Doctrina no es solo memorizar — es equiparse para la vida. ¿Cuál es la diferencia entre un versículo que 'aprendiste' y uno que realmente 'dominas'?",
+      "options": [
+        "No hay diferencia práctica — ambos producen el mismo resultado espiritual.",
+        "El versículo aprendido fue revisado una vez; el dominado fue revisado más de diez veces.",
+        "El versículo aprendido está en el corazón; el dominado solo está en la mente.",
+        "El versículo aprendido puede recitarse; el dominado puede usarse — aparece naturalmente en conversaciones, decisiones y momentos de necesidad, sin tener que buscarlo."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "leccion-34-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Este pasaje condensa el plan de salvación y el evangelio de Cristo. Destaca que la santificación, el proceso de volverse limpio y santo, se logra mediante la recepción del Espíritu Santo después del bautismo y el arrepentimiento. Estar santificados por el Espíritu Santo nos permite finalmente comparecer sin mancha ante Dios en el último día."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 27:20",
+          "texto": "Y este es el mandamiento: Arrepentíos, todos vosotros, extremos de la tierra, y venid a mí y sed bautizados en mi nombre, para que seáis santificados por la recepción del Espíritu Santo, a fin de que en el postrer día os presentéis ante mí sin mancha.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p20#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué significa ser 'santificado por la recepción del Espíritu Santo'?",
+        "¿Cómo te sientes al saber que puedes presentarte ante Cristo 'sin mancha'?",
+        "¿Cómo el arrepentimiento constante facilita la presencia del Espíritu Santo en tu vida?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según 3 Nefi 27:20, ¿qué debemos hacer para entrar en el reino?",
+      "options": [
+        "Solo creer",
+        "Arrepentirnos, bautizarnos y ser limpiados por la sangre de Cristo",
+        "Solo asistir a la iglesia",
+        "Ser buenos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué nos limpia del pecado?",
+      "options": [
+        "Nuestras obras",
+        "La sangre de Cristo",
+        "El tiempo",
+        "Nuestro esfuerzo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué se requiere después del bautismo?",
+      "options": [
+        "Nada más",
+        "Permanecer firmes hasta el fin",
+        "Solo ir a la iglesia",
+        "Esperar pasivamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué papel juega la expiación en nuestra salvación?",
+      "options": [
+        "Ninguno",
+        "Es esencial; nos limpia mediante Su sangre",
+        "Es opcional",
+        "Solo ayuda un poco"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué significa 'permanecer firmes'?",
+      "options": [
+        "Solo un día",
+        "Continuar fiel y obediente hasta el fin de nuestra vida",
+        "Un año",
+        "Cuando sea conveniente"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "nt-s9-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál fue la reacción de los principales sacerdotes al saber del milagro?",
+      "options": [
+        "Se convirtieron todos.",
+        "Conspiraron para matar a Jesús y también a Lázaro.",
+        "Hicieron una fiesta en honor a Lázaro.",
+        "Ignoraron la noticia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué invitación hizo el Salvador a Lázaro para que saliera de la tumba?",
+      "options": [
+        "\"¡Levántate, mi amigo!\".",
+        "\"¡Lázaro, ven fuera!\".",
+        "\"Camina hacia la luz\".",
+        "\"Despierta de tu sueño\"."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

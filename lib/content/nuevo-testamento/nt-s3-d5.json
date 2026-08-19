@@ -1,0 +1,50 @@
+{
+  "id": "nt-s3-d5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el propósito de las lecciones \"Evalúa tu aprendizaje\"?",
+      "options": [
+        "Poner una calificación numérica.",
+        "Reflexionar sobre las metas, el crecimiento personal y lo aprendido.",
+        "Comparar el progreso de un alumno con otro.",
+        "Terminar el manual más rápido."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué habilidad de estudio ayuda a comprender mejor el lenguaje de las Escrituras?",
+      "options": [
+        "Leer solo los encabezados.",
+        "Definir palabras difíciles y reconocer principios.",
+        "Memorizar números de página.",
+        "Leer sin detenerse."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué el Salvador llama Apóstoles según Mateo 10?",
+      "options": [
+        "Para tener amigos cerca.",
+        "Como parte del proceso de establecer Su Iglesia y dirigir Su obra.",
+        "Para que escriban libros de historia.",
+        "Para recolectar impuestos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué indica que una técnica de estudio ha sido efectiva?",
+      "options": [
+        "Que el alumno terminó rápido.",
+        "Que ha ayudado al alumno a conocer mejor a Jesucristo.",
+        "Que el diario de estudio tiene muchos colores.",
+        "Que el maestro está contento."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

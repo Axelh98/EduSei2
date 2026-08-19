@@ -1,0 +1,39 @@
+{
+  "id": "nt-s8-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué hace el Buen Pastor por Sus ovejas según Juan 10:11?",
+      "options": [
+        "Las abandona cuando viene el lobo.",
+        "Su vida da por las ovejas.",
+        "Les cobra por cuidarlas.",
+        "Solo cuida a las ovejas más fuertes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo reacciona el \"asalariado\" cuando ve venir al lobo?",
+      "options": [
+        "Defiende a las ovejas con valor.",
+        "Huye y deja a las ovejas porque no son suyas.",
+        "Llama al dueño del rebaño.",
+        "Se esconde con las ovejas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué significa la frase de Jesús: \"Yo soy la puerta de las ovejas\"?",
+      "options": [
+        "Que Él es un edificio físico.",
+        "Que Él es el único camino para entrar al Reino de los Cielos.",
+        "Que no permite que nadie pase.",
+        "Que la puerta está cerrada para los pecadores."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

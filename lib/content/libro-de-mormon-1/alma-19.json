@@ -1,0 +1,151 @@
+{
+  "id": "alma-19",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Después de que el rey Lamoni cae bajo el poder del Espíritu, su esposa la reina muestra una fe poco común: confía en el testimonio de Ammón, incluso cuando todos a su alrededor piensan que el rey ha muerto. Cuando Lamoni despierta, testifica haber visto a su Redentor, y esa experiencia provoca una manifestación espiritual que se extiende a toda su casa. Abish, una sierva que se había convertido años antes gracias a una visión de su padre, entiende lo que está pasando y corre de casa en casa para reunir al pueblo y que sea testigo del milagro. La multitud llega confundida y hasta discute entre sí, pero el testimonio de quienes fueron transformados termina imponiéndose sobre la contienda. Muchos lamanitas experimentan un cambio de corazón tan real que Mormón dice que ya no tenían deseos de hacer lo malo. Al cerrar el relato, Mormón enseña algo que va más allá de esta familia real: el brazo del Señor se extiende a todo el que se arrepienta y crea, sin importar de dónde venga ni cuán lejos de Dios parezca estar. Es tentador mirar a ciertas personas, tal vez a alguien de tu curso o de tu familia, y pensar que jamás van a cambiar. Esta lección invita a soltar esa idea. La conversión casi nunca se ve tan dramática como la de la casa de Lamoni: para la mayoría de nosotros es un proceso lento, hecho de decisiones pequeñas y constantes, más parecido a subir una escalera que a cruzar una puerta de golpe."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 19:16-17",
+          "texto": "Y aconteció que corrió de casa en casa, haciéndolo saber al pueblo... por haber sido convertida al Señor muchos años antes por causa de una notable visión de su padre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/19?lang=spa&id=p16-p17#p16"
+        },
+        {
+          "referencia": "Alma 19:33",
+          "texto": "... sus corazones se habían mudado; que ya no tenían más deseos de hacer lo malo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/19?lang=spa&id=p33#p33"
+        },
+        {
+          "referencia": "Alma 19:36",
+          "texto": "... y así vemos que su brazo se extiende a todo pueblo que se arrepienta y crea en su nombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/19?lang=spa&id=p36#p36"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "Liahona, noviembre de 2012, pág. 108",
+      "texto": "Para muchos de nosotros, la conversión es un proceso constante y no un solo acontecimiento que resulta de una experiencia poderosa o dramática. […] La conversión al Señor requiere tanto perseverancia como paciencia.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&id=p24#p24"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La conversión de la casa de Lamoni muestra que nadie está fuera del alcance de la misericordia de Dios, ni siquiera quienes parecen más lejanos o más confundidos. El papel de Abish recuerda que a veces alcanza con animarse a actuar cuando el Espíritu lo pide, incluso en medio de la contención o la incertidumbre de los demás. El Señor sigue preparando corazones hoy, tal como preparó el de Lamoni y su pueblo, y espera que nosotros también estemos dispuestos a ver a los demás con esperanza en vez de con resignación. Esta semana, elegí a una persona que \"diste por perdida\" para el Evangelio y tratala, aunque sea en un detalle pequeño, como alguien que todavía puede sorprenderte."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué personaje de este relato te llamó más la atención: la reina, Abish o el propio Lamoni? ¿Por qué?",
+        "¿Qué fue lo que hizo Abish apenas se dio cuenta de lo que estaba pasando en la casa del rey?",
+        "¿Alguna vez tuviste que mantenerte firme en lo que creías mientras otros a tu alrededor estaban confundidos o discutían?",
+        "El élder Bednar dice que la conversión es \"un proceso constante\". ¿Tu propia experiencia de fe se parece más a un cambio repentino o a un proceso lento?",
+        "¿Hay alguien en tu vida a quien hayas \"descartado\" como poco probable para el Evangelio? ¿Qué podrías hacer esta semana para verlo con más esperanza?",
+        "¿Qué pequeño paso podés dar esta semana para seguir \"convirtiéndote al Señor\", línea por línea?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué le sucedió al rey Lamoni después de escuchar a Ammón?",
+      "type": "multiple",
+      "options": [
+        "Cayó como si estuviera muerto, siendo vencido por el Espíritu",
+        "Se enojó profundamente y rechazó el mensaje",
+        "No le sucedió nada fuera de lo común",
+        "Se fue a dormir sin ningún efecto especial"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 19:6,12-13",
+      "explanation": "El rey Lamoni cayó como si estuviera muerto, siendo vencido por el Espíritu de Dios."
+    },
+    {
+      "id": 2,
+      "question": "¿Quién más experimentó una conversión poderosa?",
+      "type": "multiple",
+      "options": [
+        "Nadie más además del propio rey Lamoni",
+        "Únicamente el rey, sin que nadie más se convirtiera",
+        "Solamente Ammón, sin ningún otro lamanita",
+        "La reina, Ammón, siervos y muchos lamanitas"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 19:13,16,29-31",
+      "explanation": "La reina, Ammón, los siervos y muchos lamanitas también experimentaron una conversión poderosa."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hizo la reina cuando se levantó?",
+      "type": "multiple",
+      "options": [
+        "Se quejó amargamente de lo ocurrido con su esposo",
+        "Testificó de Jesucristo y de la misericordia de Dios",
+        "Se marchó del lugar sin decir ninguna palabra",
+        "Permaneció completamente en silencio ante todos"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 19:29",
+      "explanation": "La reina testificó de Jesucristo y de la misericordia de Dios."
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué uno de los siervos intentó matar a Ammón mientras yacía junto a Lamoni?",
+      "type": "multiple",
+      "options": [
+        "Porque su hermano había muerto por la espada de Ammón en las aguas de Sebús",
+        "Porque pensaba que Ammón había robado las pertenencias del rey",
+        "Porque el propio Lamoni se lo había ordenado antes de caer",
+        "Porque temía que Ammón intentara tomar el trono"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 19:21-22",
+      "explanation": "Uno de los hombres que había estado en las aguas de Sebús intentó matar a Ammón por venganza, ya que su hermano había muerto por la espada de Ammón al defender los rebaños."
+    },
+    {
+      "id": 5,
+      "question": "Camila ve a alguien tener una experiencia espiritual muy fuerte y no sabe cómo interpretarlo. ¿Qué le enseña lo que le pasó al rey Lamoni?",
+      "type": "multiple",
+      "options": [
+        "Que ese tipo de experiencias nunca son reales",
+        "Que el poder del Espíritu puede manifestarse de formas intensas cuando alguien recibe la verdad",
+        "Que esas experiencias solo les ocurren a los líderes religiosos",
+        "Que debe desconfiar de cualquier experiencia espiritual intensa"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 19:6,13",
+      "explanation": "El poder del Espíritu puede manifestarse de formas intensas cuando una persona recibe la verdad con todo su corazón."
+    },
+    {
+      "id": 6,
+      "question": "Franco tiene miedo de que su familia reaccione mal si él cambia su forma de vivir por su fe. ¿Qué muestra la reacción de la reina y los siervos ante la conversión de Lamoni?",
+      "type": "multiple",
+      "options": [
+        "Que la conversión de una persona puede generar confusión al inicio, pero también inspirar a otros a creer",
+        "Que la familia siempre rechaza por completo cualquier cambio espiritual",
+        "Que es mejor ocultar los cambios de fe a la familia",
+        "Que la conversión de Lamoni no afectó a nadie más en su casa"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 19:13-31",
+      "explanation": "La conversión de Lamoni generó confusión al inicio, pero también inspiró a la reina y a muchos otros a creer."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué relación hay entre lo que le sucedió a Lamoni y la conversión posterior de la reina y muchos lamanitas?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación real entre sí",
+        "La experiencia de Lamoni abrió el camino para que otros también recibieran testimonio y se convirtieran",
+        "Solo la conversión de la reina tuvo importancia real",
+        "La experiencia de Lamoni impidió que otros se acercaran a la fe"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 19",
+      "explanation": "La experiencia de Lamoni abrió el camino para que otros también recibieran testimonio y se convirtieran."
+    }
+  ]
+}

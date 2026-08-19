@@ -4,10 +4,6 @@
 import { useState, useEffect, useMemo } from "react"
 import { BookOpen, ChevronDown } from "lucide-react"
 import { getLessonById, isFlatCategory, getCategoryById } from "@/lib/quiz-data"
-import { leccionesResumidasAT } from "@/lib/data/antiguo-testamento-primer-semestre"
-import { leccionesResumidasLM } from "@/lib/data/libro-de-mormon-primer-semestre"
-import { leccionesResumidasLM2 } from "@/lib/data/libro-de-mormon-2-semestre"
-import { religion301Lecciones } from "@/lib/data/religion-301/indexlecciones"
 import { generateWhatsAppReport } from "@/lib/utils"
 import { useShareWithName } from "@/hooks/use-share-with-name"
 import { StudentNameModal } from "@/components/student-name-modal"
@@ -38,12 +34,10 @@ function parseLessons(rawData: string): RecoveryLesson[] {
     const result   = getLessonById(categoryId, lessonId)
     if (!result) return []
 
-    const tieneResumen = isFlat
-      ? (result.lesson.secciones ?? []).length > 0
-      : leccionesResumidasAT.some((r) => r.id === lessonId) ||
-        leccionesResumidasLM.some((r) => r.id === lessonId) ||
-        leccionesResumidasLM2.some((r) => r.id === lessonId) ||
-        religion301Lecciones.some((r) => r.id === lessonId)
+    // hasStudy sale del manifiesto del curso, así que vale para todos los
+    // cursos por igual. Antes se consultaba a mano una lista de archivos de
+    // datos que dejaba afuera a DyC, Religión 250 y Religión 200.
+    const tieneResumen = result.lesson.hasStudy ?? (result.lesson.secciones ?? []).length > 0
 
     return [{
       categoryId,

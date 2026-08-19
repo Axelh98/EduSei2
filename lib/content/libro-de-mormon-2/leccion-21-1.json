@@ -1,0 +1,128 @@
+{
+  "id": "leccion-21-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Después de que los zoramitas pobres son expulsados de sus lugares de adoración, Alma les enseña sobre el desarrollo de la fe. Utiliza la analogía de plantar una semilla para explicar cómo puede crecer un testimonio. Según Alma, no se requiere conocimiento perfecto para comenzar; basta tener el deseo de creer y estar dispuesto a experimentar con las enseñanzas. El capítulo describe paso a paso cómo una semilla de fe puede crecer hasta convertirse en un árbol que produce fruto."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Richard G. Scott",
+      "fuente": "Liahona, enero de 2002",
+      "texto": "Un firme testimonio no se puede edificar sobre un cimiento débil; por eso, no pretendas creer en algo de lo cual no estés seguro. Busca recibir una confirmación ratificadora.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2002/01/the-power-of-a-strong-testimony?lang=spa&id=p22#p22"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 32:21",
+          "texto": "La fe no es tener un conocimiento perfecto de las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=spa&id=p21#p21"
+        },
+        {
+          "referencia": "Alma 32:27",
+          "texto": "Despertad y ejercitad vuestras facultades hasta experimentar con mis palabras.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "Alma 32:28",
+          "texto": "Si dais cabida para que se plante una semilla en vuestro corazón, si es una semilla verdadera, comenzará a hincharse en vuestro pecho.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=spa&id=p28#p28"
+        },
+        {
+          "referencia": "Alma 32:41",
+          "texto": "Si cultiváis la palabra, llegará a ser un árbol que brotará para vida sempiterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=spa&id=p41#p41"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué experiencias has tenido al 'experimentar' con principios del evangelio según describe Alma 32?",
+        "¿Qué prácticas has encontrado útiles para nutrir tu testimonio de manera constante?",
+        "Según la analogía de Alma, ¿en qué etapa de crecimiento se encuentra tu testimonio de algún principio específico?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A quién le predican principalmente Alma y Amulek en este capítulo, y por qué estaban en una condición particular para escuchar?",
+      "options": [
+        "A los lamanitas recién convertidos",
+        "A los jueces de la tierra de Zarahemla",
+        "A los sacerdotes zoramitas orgullosos",
+        "A los pobres del pueblo, que habían sido expulsados de las sinagogas por su condición humilde"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 2,
+      "question": "Según Alma 32:28, ¿qué señal indica que la semilla —la palabra— es buena y está comenzando a obrar en nosotros?",
+      "options": [
+        "Que comienza a hincharse el pecho, a ensancharse el alma y a iluminarse el entendimiento",
+        "Un sueño profético que confirma la verdad",
+        "La aparición visible de un ángel",
+        "Una voz audible que se escucha desde el cielo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Alma explica que la fe 'no es tener un conocimiento perfecto' (Alma 32:21). ¿Por qué es clave esa distinción para entender el propósito de esta vida?",
+      "options": [
+        "Porque Alma quería confundir a los zoramitas con una definición difícil",
+        "Porque si tuviéramos un conocimiento perfecto de todo, ya no habría espacio para ejercer agencia y confiar en Dios",
+        "Porque significa que nunca podremos saber si el Evangelio es verdadero",
+        "Porque la fe es solo para las personas que no pueden razonar bien"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Alma les dice a los pobres que están 'en buena disposición' para experimentar con la palabra justamente porque han sido 'compelidos a ser humildes' (Alma 32:13–16). ¿Qué principio enseña esto?",
+      "options": [
+        "Que solo las personas pobres pueden tener fe verdadera",
+        "Que la humildad, aunque venga de circunstancias difíciles, puede abrir el corazón a la fe igual que la humildad elegida por decisión propia",
+        "Que Dios prefiere a los pobres por sobre los ricos",
+        "Que las dificultades siempre alejan a las personas de Dios"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Mateo empezó a leer el Libro de Mormón hace dos semanas, pero como todavía no 'siente' nada especial, está por dejarlo. Según el proceso que describe Alma 32, ¿qué le dirías?",
+      "options": [
+        "Que dos semanas ya es tiempo más que suficiente para tener un testimonio completo",
+        "Que si no sintió nada en dos semanas, probablemente la semilla no era buena",
+        "Que debería esperar una señal milagrosa antes de seguir leyendo",
+        "Que la fe funciona como la semilla: necesita ser nutrida con paciencia y diligencia antes de dar fruto visible"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Valentina siente que su fe siempre fue algo que 'heredó' de sus papás, y no está segura de que sea realmente suya. Según Alma 32:27, ¿qué podría hacer para comprobarlo por sí misma?",
+      "options": [
+        "Hacer el 'experimento' de Alma: dar lugar a la palabra en su corazón, con un deseo de creer, y observar si comienza a crecer en ella",
+        "Copiar exactamente las prácticas de sus papás sin cuestionar nada",
+        "Dejar de orar y de leer las Escrituras hasta sentir algo distinto",
+        "Pedirle a otra persona que le diga si su fe es genuina"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Alma describe tanto el crecimiento gradual de la semilla como el fruto final 'precioso sobre todo lo que es precioso' (Alma 32:42). ¿Qué principio común conecta ambas imágenes?",
+      "options": [
+        "Que solo algunas personas están destinadas a tener fe",
+        "Que una vez que se tiene fe, ya no hace falta seguir cultivándola",
+        "Que el conocimiento espiritual crece de manera gradual, mediante la nutrición constante y la paciencia, no de un momento a otro",
+        "Que un testimonio fuerte llega siempre de forma instantánea, sin proceso"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "leccion-34-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Este enfoque doctrinal nos ayuda a ver la caridad no solo como buenas obras, sino como la naturaleza misma del Salvador. Al entender que es el amor de Cristo, reconocemos que ser llenos de caridad es en realidad llegar a ser como Él y estar preparados para vivir con Él. Es una dádiva espiritual que transforma nuestras interacciones, nos ayuda a perdonar, tener paciencia y ver a los demás como Dios los ve."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Moroni 7:45",
+          "texto": "Y la caridad es sufrida y es benigna, y no tiene envidia, ni se envanece, no busca lo suyo, no se irrita fácilmente, no piensa el mal...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa&id=p45#p45"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Si aplicaras 'la caridad es sufrida y benigna' en tus relaciones diarias, ¿qué cambiaría?",
+        "¿Por qué es esencial ser 'discípulos verdaderos' de Jesucristo para recibir el don de la caridad?",
+        "¿Cómo puede este amor ayudarnos en el postrer día cuando veamos a Cristo 'tal como es'?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según Moroni 7:45, ¿cómo es la caridad?",
+      "options": [
+        "Impaciente y egoísta",
+        "Sufrida, benigna, no envidiosa ni jactanciosa",
+        "Orgullosa",
+        "Interesada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué NO busca la caridad?",
+      "options": [
+        "El bien",
+        "Lo suyo propio",
+        "Ayudar",
+        "Servir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hace la caridad con todas las cosas?",
+      "options": [
+        "Las ignora",
+        "Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta",
+        "Las critica",
+        "Las rechaza"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo podemos ser llenos de este amor?",
+      "options": [
+        "Por nuestro propio esfuerzo",
+        "Orando al Padre con toda energía del corazón",
+        "Esperando pasivamente",
+        "Por suerte"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promete el versículo 48 a los que tienen caridad?",
+      "options": [
+        "Riquezas",
+        "Estar bien en el día del juicio",
+        "Fama",
+        "Poder"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

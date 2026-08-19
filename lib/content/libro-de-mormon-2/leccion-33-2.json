@@ -1,0 +1,89 @@
+{
+  "id": "leccion-33-2",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Salvador les da a los nefitas las profecías de Malaquías. Enseña que antes de la Segunda Venida, Cristo refinará a Su pueblo. Introduce la importante ley del diezmo y las ofrendas, explicando que retenerlos es 'robar a Dios'. Sin embargo, Él promete que quienes paguen sus diezmos fieles verán que se abrirán las ventanas de los cielos y recibirán bendiciones abundantes."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 24:8-9",
+          "texto": "¿Robará el hombre a Dios? Mas vosotros me habéis robado. Y decís: ¿En qué te hemos robado? En los diezmos y en las ofrendas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa&id=p8-p9#p8"
+        },
+        {
+          "referencia": "3 Nefi 24:10",
+          "texto": "Traed todos los diezmos al alfolí... y probadme ahora en esto... si no os abriré las ventanas de los cielos, y derramaré sobre vosotros una bendición tal que no haya donde caber.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué crees que significa la expresión 'abrir las ventanas de los cielos'?",
+        "¿Has sentido alguna vez que pagar el diezmo requiere fe? ¿Cómo te ha bendecido el Señor al obedecer?",
+        "¿De qué manera el pago de los diezmos nos 'refina' o purifica espiritualmente?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué mandó Cristo sobre orar en familia?",
+      "options": [
+        "Que no era necesario",
+        "Que oraran en sus familias siempre",
+        "Que oraran solo en público",
+        "Que no oraran"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué enseñó sobre velar en oración?",
+      "options": [
+        "Que no es importante",
+        "Que siempre velaran y oraran para no caer en tentación",
+        "Solo velar sin orar",
+        "Velar solo de día"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Quiénes NO deberían tomar la Santa Cena según Cristo?",
+      "options": [
+        "Los jóvenes",
+        "Los que no son dignos sin arrepentirse",
+        "Los pobres",
+        "Los enfermos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo debemos tratar a los que no son dignos de participar?",
+      "options": [
+        "Expulsarlos inmediatamente",
+        "No echarlos fuera, sino invitarlos a arrepentirse",
+        "Ignorarlos",
+        "Avergonzarlos públicamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promesa hizo sobre congregarse?",
+      "options": [
+        "No es necesario",
+        "Donde dos o tres se reúnan en Su nombre, Él estará",
+        "Solo reunirse en templos",
+        "Nunca reunirse"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

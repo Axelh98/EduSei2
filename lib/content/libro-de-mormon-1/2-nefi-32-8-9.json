@@ -1,0 +1,83 @@
+{
+  "id": "2-nefi-32-8-9",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Según 2 Nefi 32:8, ¿qué hace el diablo para alejarnos de la oración?",
+      "options": [
+        "Nos da demasiadas cosas buenas para que no necesitemos pedir ayuda",
+        "Nos enseña que no debemos orar, sino actuar por nuestra propia cuenta",
+        "Nos tienta a creer que no debemos orar, endureciendo nuestro corazón contra el Padre",
+        "Nos convence de que somos indignos de hablar con el Padre Celestial"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "Según 2 Nefi 32:9, ¿qué efecto tiene la oración sobre las acciones que realizamos?",
+      "options": [
+        "Garantiza que todas nuestras decisiones serán correctas sin importar nuestra intención",
+        "El Padre consagrará nuestras acciones para el bienestar de nuestras almas",
+        "Nos hace invulnerables a las tentaciones durante ese día",
+        "Elimina las consecuencias de los errores que cometamos después de orar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Nefi pregunta retóricamente por qué no hablan la palabra de Cristo. ¿Cómo se conecta esa pregunta con la exhortación de 'orar siempre' en el versículo 9?",
+      "options": [
+        "No se conectan; son enseñanzas independientes sobre temas distintos",
+        "Tanto hablar la palabra de Cristo como orar son formas de mantener una comunicación viva y constante con el Padre, no solo en momentos formales",
+        "La oración constante reemplaza la necesidad de hablar las palabras de Cristo",
+        "Hablar la palabra de Cristo es una forma de oración que hace innecesaria la oración formal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "La lección enseña que el Espíritu Santo nos muestra lo que debemos orar. ¿Qué implica eso sobre la naturaleza de la oración sincera?",
+      "options": [
+        "Que nuestras propias palabras no tienen valor en la oración si no están inspiradas",
+        "Que la oración más efectiva no es solo un monólogo preparado, sino una comunicación receptiva donde el Espíritu ayuda a articular lo que realmente necesitamos",
+        "Que deberíamos usar solo fórmulas de oración prescritas para asegurar su efectividad",
+        "Que las oraciones improvisadas son superiores a las preparadas de antemano"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Sofía tiene el hábito de rezar brevemente cada noche antes de dormir pero nunca siente que sus oraciones sean reales o útiles. Según los principios de 2 Nefi 32:8–9, ¿qué podría cambiar en su práctica?",
+      "options": [
+        "Aumentar la duración de sus oraciones a al menos 30 minutos por noche",
+        "Orar en momentos del día cuando está más alerta, pedir guía del Espíritu sobre qué decir, y buscar que sus acciones diarias estén consagradas al bien de su alma",
+        "Usar un libro de oraciones escritas para que sus palabras sean más perfectas",
+        "Dejar de orar formalmente y solo hablar con Dios de manera mental durante el día"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Mateo tuvo un día muy ocupado y cuando llega a casa se da cuenta de que nunca oró. Su amigo le dice: 'No importa, Dios sabe lo que necesitas aunque no le pidas'. ¿Cómo responde el principio de 2 Nefi 32:8–9 a esa perspectiva?",
+      "options": [
+        "Que el amigo tiene razón, y que Dios da las bendiciones de igual manera con o sin oración",
+        "Que el diablo enseña exactamente eso para endurecernos el corazón; la oración no es solo transmitir información a Dios sino mantener la conexión activa que consagra nuestras acciones",
+        "Que Dios solo ayuda a quienes oran formalmente al menos dos veces al día",
+        "Que la oración es opcional para personas que ya tienen un testimonio fuerte"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Las tres lecciones de la semana 3 cubren seguir adelante (2 Nefi 31), deleitarse en las palabras de Cristo (2 Nefi 32:3), y orar siempre (2 Nefi 32:8–9). ¿Cuál es el principio que une las tres enseñanzas?",
+      "options": [
+        "Que el camino espiritual depende de un conjunto de rituales religiosos externos",
+        "Que la perseverancia en el camino del Evangelio requiere una relación activa y continua con Cristo: a través de Sus palabras, a través de la oración, y con claridad de esperanza y amor",
+        "Que las tres son enseñanzas independientes que deben aplicarse en diferentes etapas de la vida",
+        "Que solo una de las tres es verdaderamente esencial y las otras son complementarias"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

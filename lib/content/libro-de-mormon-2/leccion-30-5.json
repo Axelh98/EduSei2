@@ -1,0 +1,94 @@
+{
+  "id": "leccion-30-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Cristo enseña sobre Su doctrina: arrepentirse, bautizarse, recibir el Espíritu Santo, y perseverar hasta el fin. Advierte enfáticamente contra las contenciones, explicando que no son de Él sino del adversario. Enseña que quienes tienen espíritu de contención no están edificados sobre Su roca sino sobre fundamento arenoso. Define claramente Su evangelio y la importancia de edificar sobre Su fundamento. Este pasaje establece los principios fundamentales del evangelio de Jesucristo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 11:29",
+          "texto": "El que tiene el espíritu de contención no es mío, sino es del diablo, que es el padre de la contención.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p29#p29"
+        },
+        {
+          "referencia": "3 Nefi 11:32-33",
+          "texto": "Y esta es mi doctrina: que el Padre manda a todos los hombres, en todo lugar, que se arrepientan y crean en mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p32-p33#p32"
+        },
+        {
+          "referencia": "3 Nefi 11:39",
+          "texto": "Los que declaren más o menos que esto, y lo establezcan por doctrina mía, vienen del mal.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p39#p39"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo describirías la diferencia entre discusión constructiva y contención según este pasaje?",
+        "¿Qué significa edificar sobre la roca de Cristo en términos prácticos?",
+        "¿En qué situaciones te has visto tentado a tener espíritu de contención? ¿Cómo lo evitas?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué comenzó a suceder pocos años después de la señal?",
+      "options": [
+        "Paz permanente",
+        "La gente comenzó a olvidar las señales y a endurecer sus corazones",
+        "Todos se volvieron justos",
+        "Prosperidad para todos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué amenaza enfrentaron los justos?",
+      "options": [
+        "Terremotos",
+        "Los ladrones de Gadiántón intentaron destruirlos",
+        "Hambruna",
+        "Enfermedades"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué estrategia usaron los nefitas y lamanitas convertidos?",
+      "options": [
+        "Atacar primero",
+        "Se reunieron en un solo lugar con provisiones",
+        "Huyeron",
+        "Se rindieron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué pasó con los ladrones de Gadiántón?",
+      "options": [
+        "Ganaron",
+        "Fueron derrotados porque se quedaron sin alimentos",
+        "Se unieron a los nefitas",
+        "Escaparon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué hicieron los nefitas después de la victoria?",
+      "options": [
+        "Celebraron por años",
+        "Cayeron en el orgullo nuevamente",
+        "Se mantuvieron humildes para siempre",
+        "Abandonaron la tierra"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

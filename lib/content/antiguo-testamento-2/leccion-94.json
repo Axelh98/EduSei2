@@ -1,0 +1,56 @@
+{
+  "id": "leccion-94",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quién era Mardoqueo y qué relación tenía con Ester?",
+      "options": [
+        "Era el rey de Persia que la eligió como reina.",
+        "Era su primo, quien la había criado después de que sus padres murieron.",
+        "Era el consejero principal del rey Asuero."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué Mardoqueo no se inclinaba ante Amán, el favorito del rey?",
+      "options": [
+        "Porque tenía una enfermedad en las rodillas.",
+        "Porque era judío y su fe no le permitía dar esa reverencia a un hombre.",
+        "Porque no lo conocía personalmente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué decidió hacer Amán cuando se enteró de que Mardoqueo no se inclinaba ante él?",
+      "options": [
+        "Ignorarlo completamente.",
+        "Hacer encarcelar solo a Mardoqueo.",
+        "Destruir a todos los judíos del reino de Asuero."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál fue la reacción de Mardoqueo y los judíos cuando se enteraron del decreto de exterminio?",
+      "options": [
+        "Organizaron un ejército para resistir.",
+        "Huyeron hacia otras tierras.",
+        "Ayunaron, lloraron y oraron a Dios."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "¿Qué podemos aprender de la historia de Ester hasta este punto sobre la providencia divina?",
+      "options": [
+        "Que el éxito en la vida depende de la belleza física.",
+        "Que el Señor puede colocarnos en posiciones de influencia para ayudar a Su pueblo en momentos críticos.",
+        "Que los planes de los enemigos siempre fracasan sin que nosotros hagamos nada."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

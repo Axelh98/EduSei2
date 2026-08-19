@@ -1,0 +1,61 @@
+{
+  "id": "nt-s14-d5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la frase clave del pasaje Juan 17:3?",
+      "options": [
+        "\"Yo soy el camino\".",
+        "\"Y esta es la vida eterna: que te conozcan a ti […] y a Jesucristo\".",
+        "\"Nacer de agua y del Espíritu\".",
+        "\"Tú eres el Cristo\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo define este pasaje la \"vida eterna\"?",
+      "options": [
+        "Vivir para siempre sin hacer nada.",
+        "Conocer al único Dios verdadero y a Jesucristo.",
+        "No morir físicamente nunca.",
+        "Tener muchas posesiones en el cielo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué tipo de \"conocimiento\" implica conocer a Dios según este contexto?",
+      "options": [
+        "Solo saber datos biográficos.",
+        "Tener una relación personal y ser como Él.",
+        "Memorizar diccionarios.",
+        "Saber historia antigua."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué es vital conocer a Jesucristo para obtener la vida eterna?",
+      "options": [
+        "Porque es un requisito académico.",
+        "Porque Él es quien envió el Padre para salvarnos y darnos el ejemplo.",
+        "Porque no hay otros libros que leer.",
+        "Porque es una tradición social."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio de conocimiento espiritual nos ayuda a buscar este conocimiento?",
+      "options": [
+        "Ignorar las dudas.",
+        "Actuar con fe y buscar en fuentes divinamente señaladas.",
+        "Esperar a que alguien nos lo diga.",
+        "Consultar solo redes sociales."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

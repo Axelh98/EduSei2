@@ -1,0 +1,124 @@
+{
+  "id": "185-fortaleza-emocional",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "La salud emocional es uno de los temas más relevantes para los jóvenes de hoy, y el evangelio tiene mucho que decir sobre ella. Esta lección no propone que la fe reemplaza la atención profesional cuando es necesaria — propone que los principios del evangelio son recursos poderosos para construir la fortaleza emocional que permite atravesar las dificultades de la vida sin quebrarse. Los principios que se estudian incluyen: la identidad como hijo o hija del Padre Celestial como base de la autoestima real, la Expiación del Salvador como fuente de sanación emocional, la oración y el estudio de las Escrituras como herramientas de regulación emocional, el servicio a otros como antídoto a la depresión, y la comunidad de la Iglesia como red de sostén. Para los jóvenes que lidian con ansiedad, comparación, soledad o incertidumbre sobre el futuro, esta lección ofrece una perspectiva que ninguna influencia secular puede dar: la fortaleza emocional tiene una fuente espiritual."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 121:7–8",
+          "texto": "Mi hijo, paz sea a tu alma; tu adversidad y tus aflicciones no serán sino un pequeño momento; y entonces, si soportas bien, Dios te exaltará en lo alto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=spa&id=p7-p8#p7"
+        },
+        {
+          "referencia": "Filipenses 4:7",
+          "texto": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/philip/4?lang=spa&id=p7#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Jeffrey R. Holland",
+      "fuente": "«Como una vasija quebrada», Liahona, noviembre de 2013, págs. 40–42",
+      "texto": "Si tuvieran apendicitis, Dios esperaría que pidieran una bendición del sacerdocio y que obtuvieran la mejor atención médica disponible; lo mismo se aplica a los trastornos emocionales. […] Las mentes quebradas se pueden curar de la misma manera que se curan los huesos y los corazones rotos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/10/like-a-broken-vessel?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La fortaleza emocional en el evangelio no es la ausencia de dolor — es la capacidad de atravesarlo con el Señor. D&C 121:7–8 fue escrito por José Smith desde la Cárcel de Liberty, en una de las noches más oscuras de su vida: 'paz sea a tu alma.' Esa paz no vino de que las circunstancias cambiaron — vino de que el Señor estaba presente en ellas. Esa misma presencia está disponible para vos, en cualquier circunstancia que estés viviendo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué principios del evangelio te ayudan más cuando atravesás momentos emocionalmente difíciles?",
+        "¿Alguna vez sentiste la 'paz de Dios que sobrepasa todo entendimiento' de Filipenses 4:7 en un momento difícil? ¿Cómo llegó?",
+        "¿Hay algo que estás cargando emocionalmente ahora mismo que podrías llevarle al Señor en oración esta semana?",
+        "¿Cómo podrías ser vos un recurso de apoyo emocional para alguien en tu entorno que está luchando?",
+        "¿Qué hábito espiritual — oración, Escrituras, servicio, comunidad — quieres fortalecer esta semana para construir más fortaleza emocional en el Señor?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 121:7–8 fue escrito por José Smith desde la Cárcel de Liberty. ¿Cuál es la promesa específica que el Señor le da en esos versículos?",
+      "options": [
+        "Paz sea a tu alma — tu adversidad y aflicciones no serán sino un pequeño momento, y si soportas bien, Dios te exaltará en lo alto.",
+        "Que sería liberado de la cárcel en pocas semanas.",
+        "Que sus perseguidores recibirían castigo inmediato del Señor.",
+        "Que la Iglesia prosperaría incluso sin su presencia."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Filipenses 4:7 describe un tipo específico de paz. ¿Cuál es la característica que Pablo le atribuye?",
+      "options": [
+        "Que sobrepasa todo entendimiento y guarda los corazones y pensamientos en Cristo Jesús.",
+        "Que llega después de resolver todos los problemas y circunstancias difíciles.",
+        "Que solo está disponible para quienes tienen una fe perfecta sin dudas.",
+        "Que es una emoción producida por la meditación y la práctica espiritual disciplinada."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "El élder Holland enseñó que el Salvador sufrió 'no solo nuestros pecados sino también nuestros dolores, enfermedades y tristezas'. ¿Qué implica eso sobre la capacidad del Salvador de ayudar en la salud emocional?",
+      "options": [
+        "Que el Salvador solo comprende el sufrimiento espiritual causado por el pecado.",
+        "Que el Salvador conoce desde dentro cada tipo de sufrimiento emocional — no ofrece comprensión teórica sino comprensión experiencial completa de lo que el discípulo vive.",
+        "Que el sufrimiento emocional es menos importante que el sufrimiento espiritual para el Señor.",
+        "Que el Salvador interviene directamente para eliminar el sufrimiento emocional de quienes oran."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué los principios del evangelio — identidad como hijo de Dios, Expiación, oración, servicio, comunidad — son recursos de salud emocional y no solo espiritual?",
+      "options": [
+        "Porque la salud espiritual y emocional son mundos separados que no se influyen.",
+        "Porque el evangelio trata a la persona como una unidad — D&C 88:15 dice que el espíritu y el cuerpo son el alma — y lo que fortalece el espíritu tiene efectos reales en el estado emocional.",
+        "Porque el evangelio es superior a la psicología y la reemplaza completamente.",
+        "Porque los principios del evangelio solo tienen efecto emocional en personas con suficiente fe."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Camila lleva semanas sintiéndose ansiosa y vacía sin saber bien por qué. Según la lección, ¿cuál sería el primer principio del evangelio que podría anclar su identidad en ese estado?",
+      "options": [
+        "Que debería ayunar más frecuentemente para recibir paz espiritual.",
+        "Que es hija de un Padre Celestial que la conoce por nombre y tiene un plan específico para ella — esa identidad no cambia con el estado emocional que está experimentando.",
+        "Que debería leer más versículos del Dominio de la Doctrina para fortalecer su mente.",
+        "Que necesita encontrar un llamamiento en la Iglesia que le dé propósito."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Nicolás está atravesando una semana muy difícil emocionalmente y no quiere orar porque 'no tiene fuerzas ni palabras'. D&C 121:7–8 le habla desde el ejemplo de José Smith. ¿Qué le diría?",
+      "options": [
+        "Que orar sin fuerzas ni palabras no tiene valor espiritual real.",
+        "Que debería esperar a sentirse mejor antes de retomar los hábitos espirituales.",
+        "Que José Smith oró desde la Cárcel de Liberty en una de sus noches más oscuras — precisamente cuando no hay fuerzas es cuando el Señor dice 'paz sea a tu alma', y esa oración imperfecta puede recibir esa respuesta.",
+        "Que el Señor entiende que no siempre se puede orar y que el silencio también es válido."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "D&C 121:7–8 (paz en la adversidad) y Filipenses 4:7 (paz que sobrepasa el entendimiento) juntos describen la paz del Señor. ¿En qué se diferencia esa paz de la simple ausencia de problemas?",
+      "options": [
+        "No se diferencia — la paz del Señor elimina los problemas y por eso no hay diferencia.",
+        "La paz del Señor es una presencia en medio del problema, no la ausencia del problema — José tenía paz en la cárcel sin que la cárcel desapareciera, y Filipenses describe una paz que guarda el corazón incluso cuando las circunstancias no cambian.",
+        "La paz del Señor solo llega después de que los problemas se resuelven.",
+        "Solo los santos más avanzados pueden experimentar esa paz mientras los problemas continúan."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

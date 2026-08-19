@@ -1,0 +1,61 @@
+{
+  "id": "eval-a-tu-aprendizaje-8",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué tema principal aborda Doctrina y Convenios 113?",
+      "options": [
+        "La interpretación de profecías de Isaías",
+        "La organización del sacerdocio",
+        "La dedicación de templos",
+        "Las leyes de consagración"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Según DyC 113, ¿a quién se refieren algunas profecías de Isaías?",
+      "options": [
+        "A Jesucristo y a Sus siervos en los últimos días",
+        "Solo a reyes antiguos",
+        "Exclusivamente a Israel antiguo",
+        "A eventos sin cumplimiento"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué acontecimiento se anuncia en DyC 114?",
+      "options": [
+        "La muerte inminente de David W. Patten",
+        "La Segunda Venida inmediata",
+        "La apostasía total",
+        "El fin de la Iglesia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseñanza se destaca en DyC 114 respecto al llamamiento en el sacerdocio?",
+      "options": [
+        "La obra del Señor continúa aun cuando Sus siervos fallecen",
+        "Los llamamientos son permanentes",
+        "La obra depende de una sola persona",
+        "La muerte detiene la obra"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué principio general enseñan DyC 113–114 juntos?",
+      "options": [
+        "El Señor cumple Sus profecías y dirige Su obra a lo largo del tiempo",
+        "Las profecías no tienen aplicación actual",
+        "La obra del Señor es frágil",
+        "Los líderes son irreemplazables"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

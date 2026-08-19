@@ -1,0 +1,33 @@
+{
+  "id": "leccion-27-2",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Nefi testifica de Jesucristo y recuerda a los profetas antiguos que también testificaron de Él. Menciona a Moisés, quien levantó la serpiente de bronce como símbolo de Cristo. Enseña que todos los profetas desde el principio han hablado de la venida del Mesías. Los jueces inicuos y algunos del pueblo rechazan su mensaje, pero otros creen y comienzan a arrepentirse. El capítulo muestra cómo el testimonio de Cristo ha sido consistente a través de todas las dispensaciones."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 8:13-14",
+          "texto": "Moisés dio testimonio de la venida del Hijo de Dios; y levantó una serpiente de bronce en el desierto, a fin de que todo el que quisiera mirar, viviera.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/8?lang=spa&id=p13-p14#p13"
+        },
+        {
+          "referencia": "Helamán 8:16-17",
+          "texto": "Todos los santos profetas han testificado de estas cosas. ¿Creéis que las Escrituras son verdaderas?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/8?lang=spa&id=p16-p17#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué importancia tiene el hecho de que todos los profetas han testificado de Cristo?",
+        "¿Cómo describirías el simbolismo de la serpiente de bronce levantada por Moisés?",
+        "¿De qué manera puedes testificar de Cristo en tu vida diaria?"
+      ]
+    }
+  ],
+  "questions": []
+}

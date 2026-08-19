@@ -1,0 +1,56 @@
+{
+  "id": "leccion-109",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el propósito principal del libro de Proverbios según su introducción?",
+      "options": [
+        "Narrar la historia del rey Salomón.",
+        "Enseñar sabiduría, disciplina y discernimiento para vivir conforme a los caminos del Señor.",
+        "Dar instrucciones para construir el templo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el principio fundamental que Proverbios establece como el inicio de toda sabiduría?",
+      "options": [
+        "La riqueza y la prosperidad material.",
+        "El temor de Jehová es el principio de la sabiduría.",
+        "La habilidad para hacer buenos negocios."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿A quién se atribuye principalmente la escritura del libro de Proverbios?",
+      "options": [
+        "Al profeta Isaías.",
+        "Al rey David.",
+        "Al rey Salomón, a quien el Señor dio una sabiduría extraordinaria."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "¿Qué tipo de consejo práctico ofrece Proverbios?",
+      "options": [
+        "Solo consejos sobre rituales religiosos del templo.",
+        "Orientación sobre relaciones, palabras, trabajo, honestidad, familia y el uso del tiempo.",
+        "Solo consejos para reyes y gobernantes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo es diferente la sabiduría que enseña Proverbios de la simple inteligencia humana?",
+      "options": [
+        "No hay diferencia; la sabiduría es solo inteligencia muy desarrollada.",
+        "La sabiduría divina viene del Señor e incluye discernimiento moral y espiritual que la inteligencia sola no puede dar.",
+        "La sabiduría solo la pueden tener los ancianos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

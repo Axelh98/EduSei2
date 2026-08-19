@@ -1,0 +1,138 @@
+{
+  "id": "mosiah-9-10",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Zeniff, al narrar su historia, nos advierte sobre un ciclo peligroso: el olvido. Cuando el pueblo de Zeniff fue liberado de su cautiverio inicial, fueron diligentes, pero pronto se volvieron 'lentos en recordar al Señor' debido a su orgullo y autosuficiencia. Este olvido es a menudo el inicio de la caída espiritual. Como explicó el élder David A. Bednar, se requiere esfuerzo de nuestra parte antes de recibir las bendiciones del Señor; la oración misma es un tipo de obra consagrada. La lección nos invita a analizar nuestros hábitos de oración, estudio y servicio para asegurarnos de que estamos manteniendo vivo nuestro recuerdo y gratitud hacia Aquel que nos libera constantemente de nuestras propias formas de cautividad."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 10:20",
+          "texto": "Y al ser lentos en recordar al Señor su Dios, se vieron en las manos de sus enemigos; y su corazón se endureció y se olvidaron de las liberaciones que habían recibido.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/10?lang=spa&id=p20#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "Liahona, mayo de 2008 (discurso \"Pedir con fe\")",
+      "texto": "Se requiere esfuerzo de nuestra parte antes de recibir bendiciones, y la oración, que es un tipo de obra, es el medio señalado para lograr la más suprema de todas las bendiciones.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2008/04/ask-in-faith?lang=spa&id=p15#p15"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Recordar al Señor es un acto activo de voluntad. Agradecerle por Sus liberaciones pasadas —ya sean pequeñas o grandes— nos prepara para confiar en Él cuando surgen nuevas pruebas. Debemos luchar contra la tendencia natural a pensar que nuestros éxitos son solo obra de nuestra mano. Al mantener un corazón agradecido y una mente consciente de la mano de Dios, preservamos nuestra libertad espiritual y evitamos la dureza de corazón."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué prácticas te ayudan a recordar al Señor durante los días en que todo parece ir bien?",
+        "¿Por qué crees que el olvido espiritual suele preceder a una caída moral?",
+        "¿De qué manera puedes aumentar tu gratitud por las liberaciones que el Señor te ha dado?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué defecto tenía Zeniff según Mosíah 9:3?",
+      "type": "multiple",
+      "options": [
+        "Era demasiado joven e inexperto para liderar a su pueblo",
+        "Era demasiado terco en los deseos de su corazón",
+        "Era muy generoso y regalaba todo lo que tenía",
+        "Era muy débil físicamente para las batallas"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 9:3",
+      "explanation": "Zeniff mismo reconoce que era demasiado terco en los deseos de su corazón."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué patrón se repite en estos capítulos?",
+      "type": "multiple",
+      "options": [
+        "Prosperidad constante sin ninguna dificultad posterior",
+        "Obediencia perfecta seguida de más bendiciones sin pruebas",
+        "Guerra continua sin ningún periodo de paz o crecimiento",
+        "Olvidar a Dios en la prosperidad, luego aflicciones que los llevan a recordarlo"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 9-10",
+      "explanation": "El patrón que se repite es olvidar a Dios en la prosperidad, y luego recordarlo en la aflicción."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué lección aprendemos sobre recordar al Señor?",
+      "type": "multiple",
+      "options": [
+        "Debemos recordarlo siempre, especialmente en la prosperidad",
+        "Solo debemos recordarlo cuando enfrentamos problemas graves",
+        "Es responsabilidad exclusiva de los líderes recordarlo por todos",
+        "Basta con recordarlo una vez al año en una fecha especial"
+      ],
+      "correctAnswer": 0,
+      "reference": "Helamán 12:2-3",
+      "explanation": "Debemos recordar al Señor siempre, especialmente cuando todo va bien."
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué los lamanitas tenían tanto odio hacia los nefitas?",
+      "type": "multiple",
+      "options": [
+        "Por disputas recientes sobre el control de tierras fértiles",
+        "Por tradiciones falsas transmitidas por sus padres",
+        "Por diferencias religiosas que surgieron esa misma generación",
+        "Por la envidia hacia la riqueza material de los nefitas"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 10:12-17",
+      "explanation": "El odio venía de tradiciones falsas transmitidas de generación en generación."
+    },
+    {
+      "id": 5,
+      "question": "Santino siente que le está yendo muy bien en todo y ha dejado de orar porque 'no lo necesita'. ¿Qué patrón de Mosíah 9-10 describe esto?",
+      "type": "multiple",
+      "options": [
+        "El patrón de recordar más a Dios cuanto mejor nos va",
+        "Un patrón que solo afecta a personas con poca fe desde el principio",
+        "El patrón de olvidar a Dios en la prosperidad, que suele traer aflicciones después",
+        "Un patrón que no tiene ninguna consecuencia real"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 9-10",
+      "explanation": "El patrón que se repite es olvidar a Dios en la prosperidad, lo cual suele traer aflicciones después."
+    },
+    {
+      "id": 6,
+      "question": "Pilar heredó de su familia un resentimiento hacia otro grupo de personas sin saber bien por qué. ¿Qué le enseña la historia de los lamanitas y sus tradiciones falsas?",
+      "type": "multiple",
+      "options": [
+        "Que las tradiciones falsas pueden transmitirse sin fundamento real y es sano cuestionarlas",
+        "Que debe aceptar esas tradiciones porque vienen de su familia",
+        "Que el resentimiento heredado siempre tiene una base justificada",
+        "Que no vale la pena analizar de dónde vienen sus propias creencias"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 10:12-17",
+      "explanation": "Las tradiciones falsas pueden transmitirse sin fundamento real, y es sano examinarlas con honestidad."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan 'olvidar a Dios en la prosperidad' y 'las tradiciones falsas' como causas de conflicto en estos capítulos?",
+      "type": "multiple",
+      "options": [
+        "Solo la primera puede llevar a consecuencias graves",
+        "No tienen ninguna relación entre sí",
+        "Ambas son formas en que las personas se alejan de la verdad sin darse cuenta del proceso",
+        "Las tradiciones falsas siempre surgen de la prosperidad material"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 9-10",
+      "explanation": "Ambas son formas en que las personas se alejan gradualmente de la verdad, muchas veces sin notarlo."
+    }
+  ]
+}

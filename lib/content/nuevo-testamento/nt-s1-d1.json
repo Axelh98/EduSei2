@@ -1,0 +1,50 @@
+{
+  "id": "nt-s1-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el objetivo principal de Seminarios e Institutos de Religión?",
+      "options": [
+        "Aprender historia antigua.",
+        "Ayudar a los jóvenes a entender y confiar en Jesucristo y Su expiación.",
+        "Memorizar todos los libros de la Biblia.",
+        "Estudiar los idiomas originales de las Escrituras."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo se les llama a los primeros cuatro libros del Nuevo Testamento?",
+      "options": [
+        "Epístolas.",
+        "Libros de la Ley.",
+        "Los Evangelios.",
+        "Revelaciones."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "¿Qué significa la palabra griega \"evangelio\"?",
+      "options": [
+        "Mensaje antiguo.",
+        "Buenas nuevas.",
+        "Testimonio escrito.",
+        "Ley de Dios."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué invitación ofrece el Salvador en Mateo 11:28 para recibir Su ayuda?",
+      "options": [
+        "\"Leed las Escrituras\".",
+        "\"Guardad los mandamientos\".",
+        "\"Venid a mí\".",
+        "\"Id por todo el mundo\"."
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

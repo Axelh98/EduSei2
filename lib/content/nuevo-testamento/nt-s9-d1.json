@@ -1,0 +1,28 @@
+{
+  "id": "nt-s9-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué murmuraban los fariseos contra Jesús en Lucas 15?",
+      "options": [
+        "Porque Jesús no pagaba impuestos.",
+        "Porque Jesús recibía a los pecadores y comía con ellos.",
+        "Porque Jesús no quería hablar con ellos.",
+        "Porque Jesús estaba cansado."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo reacciona el Padre Celestial cuando un pecador se arrepiente?",
+      "options": [
+        "Con indiferencia.",
+        "Hay gran gozo en el cielo.",
+        "Pide una compensación económica.",
+        "Recuerda el pecado para siempre."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

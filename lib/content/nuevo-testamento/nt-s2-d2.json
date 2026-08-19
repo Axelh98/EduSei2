@@ -1,0 +1,61 @@
+{
+  "id": "nt-s2-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué significa la palabra \"miopía\" en un contexto espiritual?",
+      "options": [
+        "Tener visión de rayos X.",
+        "Ser corto de vista o carecer de visión de futuro (eterna).",
+        "Ver perfectamente el plan de Dios.",
+        "No necesitar lentes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el primer paso para analizar preguntas con una perspectiva eterna?",
+      "options": [
+        "Buscar la respuesta en un buscador web.",
+        "Reconocer suposiciones que puedan dar lugar a malentendidos sobre Dios.",
+        "Cambiar de religión.",
+        "No pensar en el Plan de Salvación."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué ayuda a Jill a sanar y encontrar paz tras la muerte de su padre?",
+      "options": [
+        "Olvidar lo sucedido.",
+        "Ampliar su perspectiva y buscar lo eterno.",
+        "Criticar a los líderes.",
+        "Dejar de orar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo ve el presidente Oaks la vida mortal?",
+      "options": [
+        "Como una obra de un solo acto.",
+        "Como el segundo acto de una obra de tres actos.",
+        "Como el principio y el fin de todo.",
+        "Como un evento al azar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué sucede si comenzamos con suposiciones mundanas?",
+      "options": [
+        "Llegaremos a la verdad eterna.",
+        "Llegaremos a conclusiones mundanas.",
+        "No importa la premisa.",
+        "El Espíritu nos corregirá sin esfuerzo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "categoryId": "doctrina-y-convenios-2",
+  "layoutType": "weekly",
+  "weeks": [
+    {
+      "id": 21,
+      "title": "Semana 21",
+      "dateRange": "30 junio – 6 julio",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-71",
+          "title": "Lección: Doctrina y Convenios 71",
+          "description": "Cómo responder a las críticas con fe y fortaleza interior",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "pr-ctica-del-dominio-de-la-doctrina-5",
+          "title": "Lección: Práctica del Dominio de la doctrina 5",
+          "description": "Cómo memorizar información para fortalecer el testimonio y la fe",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/112-doctrine-mastery-practice-5?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "eval-a-tu-aprendizaje-5",
+          "title": "Lección: Evalúa tu aprendizaje 5",
+          "description": "Cómo evaluar el progreso espiritual y la aplicación de los principios del Evangelio en la vida diaria",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual/113-evaluate-your-learning-5?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Semana 22",
+      "dateRange": "7 – 13 julio",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-76-1-19",
+          "title": "Lección: Doctrina y Convenios 76:1–19",
+          "description": "La visión de José y Sidney",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-76-19-24",
+          "title": "Lección: Doctrina y Convenios 76:19–24",
+          "description": "El testimonio de que Jesucristo vive",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-76-50-70",
+          "title": "Lección: Doctrina y Convenios 76:50–70",
+          "description": "El Reino Celestial y los diferentes grados de gloria",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa",
+          "questionCount": 13,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Semana 23",
+      "dateRange": "14 – 20 julio",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-78",
+          "title": "Lección: Doctrina y Convenios 78",
+          "description": "La Firma Unida y su propósito en la administración de propiedades para ayudar a los necesitados",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-79-80",
+          "title": "Lección: Doctrina y Convenios 79–80",
+          "description": "La visión de José y Sidney sobre compartir el Evangelio y el llamado a servir en misiones",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/79?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Semana 24",
+      "dateRange": "21 – 27 julio",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-82-1-7",
+          "title": "Lección: Doctrina y Convenios 82:1–7",
+          "description": "El principio de que quienes reciben muchas bendiciones tienen mayores obligaciones",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-82-8-24",
+          "title": "Lección: Doctrina y Convenios 82:8–24",
+          "description": "La relación entre obediencia y bendiciones, y el propósito de los convenios en la vida de los santos",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "eval-a-tu-aprendizaje-6",
+          "title": "Lección: Evalúa tu aprendizaje 6",
+          "description": "La visión de los tres grados de gloria y su significado para nuestra vida",
+          "type": "Dominio de la Doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Semana 25",
+      "dateRange": "28 julio – 3 agosto",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-84-1-32",
+          "title": "Lección: Doctrina y Convenios 84:1–32",
+          "description": "La importancia de las ordenanzas del sacerdocio en la vida de los santos",
+          "type": "Doctrina y Convenios - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "pr-ctica-del-dominio-de-la-doctrina-6",
+          "title": "Lección: Práctica del Dominio de la doctrina 6",
+          "description": "",
+          "questionCount": 7,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Semana 26",
+      "dateRange": "4 – 10 agosto",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-87",
+          "title": "Lección: Doctrina y Convenios 87",
+          "description": "",
+          "questionCount": 14,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-86",
+          "title": "Lección: Doctrina y Convenios 86",
+          "description": "",
+          "questionCount": 7,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Semana 27",
+      "dateRange": "11 – 17 agosto",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-88-1-13-41-50",
+          "title": "Lección: Doctrina y Convenios 88:1–13, 41–50",
+          "description": "",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-88-14-41",
+          "title": "Lección: Doctrina y Convenios 88:14–41",
+          "description": "",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-88-51-95",
+          "title": "Lección: Doctrina y Convenios 88:51–95",
+          "description": "",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-88-76-80-117-126",
+          "title": "Lección: Doctrina y Convenios 88:76–80, 117–126",
+          "description": "",
+          "questionCount": 7,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Semana 28",
+      "dateRange": "18 – 24 agosto",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-89-1-17",
+          "title": "Lección: Doctrina y Convenios 89:1–17",
+          "description": "",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-89-18-21",
+          "title": "Lección: Doctrina y Convenios 89:18–21",
+          "description": "",
+          "questionCount": 7,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-90",
+          "title": "Lección: Doctrina y Convenios 90",
+          "description": "",
+          "questionCount": 7,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Semana 29",
+      "dateRange": "25 – 31 agosto",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-93-19-53",
+          "title": "Lección: Doctrina y Convenios 93:19–53",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-93-1-22",
+          "title": "Lección: Doctrina y Convenios 93:1–22",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "eval-a-tu-aprendizaje-7",
+          "title": "Lección: Evalúa tu aprendizaje 7",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Semana 30",
+      "dateRange": "1 – 7 septiembre",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-94-96",
+          "title": "Lección: Doctrina y Convenios 94–96",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-97",
+          "title": "Lección: Doctrina y Convenios 97",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        },
+        {
+          "id": "pr-ctica-del-dominio-de-la-doctrina",
+          "title": "Lección: Práctica del Dominio de la doctrina",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Semana 31",
+      "dateRange": "8 – 14 septiembre",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-98",
+          "title": "Lección: Doctrina y Convenios 98",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-101-1-42",
+          "title": "Lección: Doctrina y Convenios 101:1–42",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-101-43-101",
+          "title": "Lección: Doctrina y Convenios 101:43–101",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Semana 32",
+      "dateRange": "15 – 21 septiembre",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-103",
+          "title": "Lección: Doctrina y Convenios 103",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "el-campamento-de-israel",
+          "title": "Lección: El Campamento de Israel",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-105",
+          "title": "Lección: Doctrina y Convenios 105",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Semana 33",
+      "dateRange": "22 – 28 septiembre",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-107-1-20",
+          "title": "Lección: Doctrina y Convenios 107:1–20",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-107-21-100",
+          "title": "Lección: Doctrina y Convenios 107:21–100",
+          "description": "",
+          "questionCount": 6,
+          "hasStudy": false
+        },
+        {
+          "id": "pr-ctica-del-dominio-de-la-doctrina-8",
+          "title": "Lección: Práctica del Dominio de la doctrina 8",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Semana 34",
+      "dateRange": "29 septiembre – 5 octubre",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-109",
+          "title": "Lección: Doctrina y Convenios 109",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-110-parte-1",
+          "title": "Lección: Doctrina y Convenios 110, Parte 1",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-110-parte-2",
+          "title": "Lección: Doctrina y Convenios 110, Parte 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Semana 35",
+      "dateRange": "6 – 12 octubre",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-111",
+          "title": "Lección: Doctrina y Convenios 111",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-112",
+          "title": "Lección: Doctrina y Convenios 112",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "eval-a-tu-aprendizaje-8",
+          "title": "Lección: Evalúa tu aprendizaje 8",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Semana 36",
+      "dateRange": "13 – 19 octubre",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-115",
+          "title": "Lección: Doctrina y Convenios 115",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-119-120",
+          "title": "Lección: Doctrina y Convenios 119–120",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "la-expulsi-n-de-misuri",
+          "title": "Lección: La expulsión de Misuri",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Semana 37",
+      "dateRange": "20 – 26 octubre",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-121-123",
+          "title": "Lección: Doctrina y Convenios 121–123",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-121-34-46",
+          "title": "Lección: Doctrina y Convenios 121:34–46",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-122",
+          "title": "Lección: Doctrina y Convenios 122",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Semana 38",
+      "dateRange": "27 octubre – 2 noviembre",
+      "lessons": [
+        {
+          "id": "el-establecimiento-de-nauvoo",
+          "title": "Lección: El establecimiento de Nauvoo",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-124",
+          "title": "Lección: Doctrina y Convenios 124",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Semana 39",
+      "dateRange": "3 – 9 noviembre",
+      "lessons": [
+        {
+          "id": "doctrina-y-convenios-126",
+          "title": "Lección: Doctrina y Convenios 126",
+          "description": "",
+          "questionCount": 10,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-127-128-parte-1",
+          "title": "Lección: Doctrina y Convenios 127–128, Parte 1",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "doctrina-y-convenios-127-128-parte-2",
+          "title": "Lección: Doctrina y Convenios 127–128, Parte 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    }
+  ]
+}

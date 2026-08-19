@@ -1,0 +1,89 @@
+{
+  "id": "leccion-34-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mormón pronuncia un sermón sublime sobre la fe, la esperanza y la caridad. Declara que sin caridad —el amor puro de Cristo— todas las demás obras y dones no sirven para nuestra salvación. Explica cómo la caridad es paciente, benigna y nunca deja de ser. Anima encarecidamente a su pueblo (y a nosotros) a orar al Padre con toda la energía de nuestros corazones para ser llenos de este amor."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Moroni 7:47",
+          "texto": "Pero la caridad es el amor puro de Cristo, y permanece para siempre; y a quien la posea en el postrer día, le irá bien.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa&id=p47#p47"
+        },
+        {
+          "referencia": "Moroni 7:48",
+          "texto": "Por consiguiente, amados hermanos míos, pedid al Padre con toda la energía de vuestros corazones, que seáis llenos de este amor que él ha otorgado a todos los que son discípulos verdaderos de su Hijo...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa&id=p48#p48"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué crees que debemos 'pedir' la caridad en oración en lugar de solo intentar crearla nosotros mismos?",
+        "¿Qué características de la caridad te parecen más difíciles de vivir?",
+        "¿A quién conoces que sea un buen ejemplo del amor puro de Cristo? ¿Qué hacen ellos que demuestra esta caridad?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué es la caridad según Moroni 7?",
+      "options": [
+        "Dar dinero",
+        "El amor puro de Cristo",
+        "Ser amable a veces",
+        "Ayudar cuando es fácil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuándo deja de ser la caridad?",
+      "options": [
+        "Cuando es difícil",
+        "Nunca; la caridad nunca deja de ser",
+        "Cuando nos cansamos",
+        "Siempre termina"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué debemos hacer para obtener la caridad?",
+      "options": [
+        "Comprarlo",
+        "Orar al Padre con toda la energía de nuestros corazones",
+        "Esperarlo pasivamente",
+        "Merecerlo solos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué pasa si no tenemos caridad en el día final?",
+      "options": [
+        "No importa",
+        "No podemos morar con Dios",
+        "Seremos salvos igual",
+        "Nada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo se describe a quien tiene caridad?",
+      "options": [
+        "Egoísta",
+        "Lleno del amor puro de Cristo",
+        "Normal",
+        "Promedio"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

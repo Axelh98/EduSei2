@@ -1,0 +1,50 @@
+{
+  "id": "nt-s4-d5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la frase clave de Juan 3:5?",
+      "options": [
+        "\"Porque de tal manera amó Dios al mundo\".",
+        "\"El que no naciere de agua y del Espíritu no puede entrar en el reino de Dios\".",
+        "\"Yo soy el camino\".",
+        "\"Pedid y se os dará\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué papel cumple el Salvador en el proceso de nacer de nuevo según Alma 7:14?",
+      "options": [
+        "Solo nos observa.",
+        "Él nos ayuda a nacer de nuevo mediante Su poder.",
+        "Es una tarea que debemos hacer solos.",
+        "No tiene relación con el bautismo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué principio de conocimiento espiritual nos invita a analizar el bautismo en el contexto del Plan de Salvación?",
+      "options": [
+        "Actuar con fe.",
+        "Perspectiva eterna.",
+        "Fuentes divinas.",
+        "Razonamiento lógico."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué prometió el élder Christofferson sobre el proceso de nacer de nuevo?",
+      "options": [
+        "Que es instantáneo.",
+        "Que es más un proceso que un acontecimiento y dura toda la vida mortal.",
+        "Que solo los Apóstoles pueden lograrlo.",
+        "Que no requiere esfuerzo personal."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

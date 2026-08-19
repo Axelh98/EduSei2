@@ -1,0 +1,33 @@
+{
+  "id": "leccion-26-2",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mormón se dirige directamente a los descendientes de los lamanitas que vivirán en los últimos días. Los invita a creer en Jesucristo, arrepentirse, y ser bautizados. Testifica del poder del evangelio para transformar vidas. También habla sobre la importancia del Libro de Mormón como otro testamento de Jesucristo. Este capítulo muestra el amor de Mormón por todos los descendientes de Lehi y su deseo de que encuentren la salvación en Cristo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 7:5",
+          "texto": "Sabed que debéis venir al conocimiento de vuestros padres, y arrepentiros de todos vuestros pecados e iniquidades, y creer en Jesucristo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Mormón 7:8-9",
+          "texto": "Estas cosas son escritas para el remanente de la casa de Jacob. Arrepentíos y venid a él, y sed salvos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=spa&id=p8-p9#p8"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te enseña este capítulo sobre el propósito del Libro de Mormón?",
+        "¿Cómo describirías el amor de Mormón por las generaciones futuras?",
+        "¿De qué manera puedes compartir el mensaje del Libro de Mormón con otros?"
+      ]
+    }
+  ],
+  "questions": []
+}

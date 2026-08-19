@@ -1,0 +1,50 @@
+{
+  "id": "nt-s7-d5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿En qué casa entró Jesús al llegar a una aldea (Betania)?",
+      "options": [
+        "En la de Pedro.",
+        "En la de una mujer llamada Marta.",
+        "En la de Zaqueo.",
+        "En la de Judas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hacía María mientras Jesús enseñaba?",
+      "options": [
+        "Ayudaba con la limpieza.",
+        "Sentada a los pies de Jesús, oía Su palabra.",
+        "Dormía en otra habitación.",
+        "Buscaba comida."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿De qué se quejó Marta ante el Señor?",
+      "options": [
+        "De que Jesús hablaba mucho.",
+        "De que su hermana la dejaba servir sola.",
+        "De que no había suficiente comida.",
+        "De que los discípulos eran ruidosos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál fue la respuesta de Jesús a Marta?",
+      "options": [
+        "\"Ayuda a Marta, María\".",
+        "\"Marta... turbada estás con muchas cosas... pero una sola cosa es necesaria\".",
+        "\"No cocines más\".",
+        "\"Idos de mi vista\"."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "leccion-25-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Moroni extiende una invitación a todos los que lean el Libro de Mormón: meditar sobre las cosas escritas, recordar las misericordias de Dios, y preguntar a Dios con corazón sincero y fe verdadera si estas cosas son verdaderas. Promete que Dios manifestará la verdad por el poder del Espíritu Santo. Esta promesa, conocida como la promesa de Moroni, se ha convertido en el método principal para obtener un testimonio del Libro de Mormón. El pasaje enfatiza la importancia de la sinceridad y la fe al buscar la verdad."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Moroni 10:4",
+          "texto": "Cuando recibáis estas cosas, quisiera exhortaros a que preguntéis a Dios si no son verdaderas estas cosas; y si pedís con un corazón sincero, él os manifestará la verdad de ellas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p4#p4"
+        },
+        {
+          "referencia": "Moroni 10:5",
+          "texto": "Y por el poder del Espíritu Santo podréis conocer la verdad de todas las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Santiago 1:5",
+          "texto": "Si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa&id=p5#p5"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué significa preguntar con 'corazón sincero' y 'fe verdadera' según este pasaje?",
+        "¿Cómo has aplicado la promesa de Moroni en tu búsqueda de la verdad?",
+        "¿De qué manera el Espíritu Santo puede manifestar la verdad de todas las cosas?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué enseñaron las madres a los jóvenes guerreros según Alma 56:47?",
+      "options": [
+        "Solo técnicas de guerra",
+        "Que si no dudaban, Dios los libraría",
+        "A ser autosuficientes",
+        "A confiar en su propia fuerza"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué caracterizaba la fe de estos jóvenes?",
+      "options": [
+        "Era débil",
+        "No dudaban de que Dios los libraría",
+        "Dudaban constantemente",
+        "Era superficial"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué papel jugó la enseñanza de sus madres en su protección?",
+      "options": [
+        "Ninguno",
+        "Les dio fe inquebrantable que resultó en protección divina",
+        "Solo les dio confianza psicológica",
+        "No importó"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué nos enseña este pasaje sobre la influencia de los padres?",
+      "options": [
+        "No es importante",
+        "Las enseñanzas fieles pueden fortalecer generaciones futuras",
+        "Solo importa la escuela",
+        "Los padres no tienen influencia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué tipo de fe NO tenían estos jóvenes según el versículo?",
+      "options": [
+        "Fe perfecta",
+        "Fe dudosa",
+        "Fe absoluta",
+        "Fe fuerte"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

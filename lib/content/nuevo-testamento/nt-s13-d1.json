@@ -1,0 +1,50 @@
+{
+  "id": "nt-s13-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué lección de liderazgo dio Jesús al lavar los pies de Sus discípulos?",
+      "options": [
+        "Que los líderes deben ser servidos.",
+        "Que el que es el mayor debe ser el servidor de todos.",
+        "Que no deben usar zapatos.",
+        "Que la higiene es lo más importante."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál fue la reacción inicial de Pedro cuando Jesús intentó lavarle los pies?",
+      "options": [
+        "Se alegró mucho.",
+        "Se negó diciendo: \"No me lavarás los pies jamás\".",
+        "Empezó a llorar.",
+        "Salió corriendo de la habitación."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué \"mandamiento nuevo\" dio Jesús a Sus Apóstoles esa noche?",
+      "options": [
+        "Que debían ayunar más.",
+        "Que se amaran unos a otros como Él los ha amado.",
+        "Que debían viajar a Roma.",
+        "Que no debían hablar con extraños."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo sabrán todos que somos discípulos de Cristo según Juan 13:35?",
+      "options": [
+        "Por nuestra ropa especial.",
+        "Si tenemos amor los unos por los otros.",
+        "Por cuánto sabemos de las Escrituras.",
+        "Por los cargos que tenemos en la Iglesia."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

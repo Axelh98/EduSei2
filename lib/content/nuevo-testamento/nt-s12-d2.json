@@ -1,0 +1,50 @@
+{
+  "id": "nt-s12-d2",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué prometió Pablo que guardaría nuestros corazones y pensamientos?",
+      "options": [
+        "El dinero ahorrado.",
+        "La paz de Dios, que sobrepasa todo entendimiento.",
+        "El conocimiento de idiomas.",
+        "La fuerza física."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el secreto de Pablo para estar contento en cualquier situación?",
+      "options": [
+        "Tener mucha comida siempre.",
+        "Todo lo puedo en Cristo que me fortalece.",
+        "No tener ningún desafío.",
+        "Ignorar sus problemas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué tipo de cosas nos invitó Pablo a pensar en Filipenses 4:8?",
+      "options": [
+        "Solo cosas negativas para estar prevenidos.",
+        "Todo lo que es verdadero, honesto, justo, puro y virtuoso.",
+        "En los errores de los vecinos.",
+        "En el éxito mundano."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo debemos presentar nuestras peticiones delante de Dios según Pablo?",
+      "options": [
+        "Con enojo.",
+        "Mediante oración y ruego, con acción de gracias.",
+        "Solo una vez al año.",
+        "Sin esperanza."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

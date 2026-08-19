@@ -1,0 +1,157 @@
+{
+  "id": "mosiah-19-20",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Las decisiones pecaminosas siempre producen consecuencias espirituales y temporales. Después de rechazar las advertencias del profeta Abinadí, el pueblo del rey Noé comenzó a experimentar sufrimiento, división y destrucción. Los lamanitas atacaron la tierra y muchos nefitas fueron llevados a la esclavitud. El rey Noé intentó salvarse abandonando a su propio pueblo, lo que finalmente llevó a su muerte. A pesar de estas tragedias, algunos comenzaron a humillarse y reconocer la necesidad de arrepentirse. Esta historia muestra cómo el pecado endurece el corazón y aleja de Dios, pero también enseña que el arrepentimiento sincero abre la puerta a la misericordia divina. El Señor desea salvarnos de las consecuencias eternas del pecado y guiarnos nuevamente hacia la paz."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mosíah 19:20",
+          "texto": "El pueblo comenzó a arrepentirse de la iniquidad que había cometido.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/19?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "Mosíah 20:21",
+          "texto": "El Señor consideró apropiado castigar a su pueblo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=spa&id=p21#p21"
+        },
+        {
+          "referencia": "Alma 41:10",
+          "texto": "La iniquidad nunca fue felicidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder M. Russell Ballard",
+      "fuente": "Liahona, julio de 2001 (discurso \"recibireis su palabra\")",
+      "texto": "La historia ha demostrado que hay seguridad, paz, prosperidad y felicidad cuando respondemos al consejo profético tal como lo hizo Nefi de la antigüedad: \"Iré y haré lo que el Señor ha mandado\" (1 Nefi 3:7).",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2001/04/his-word-ye-shall-receive?lang=spa&id=p10#p10"
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "Liahona, noviembre 2021, pág. 17",
+      "texto": "Hace mucho tiempo que me ha impresionado, y también he sentido, el anhelante amor de los profetas de Dios cuando nos advierten en contra del pecado. No los motiva el deseo de condenar. Su verdadero deseo refleja el amor de Dios; de hecho, es el amor de Dios. Aman a aquellos a quienes son enviados, quienesquiera que sean y como sean. Al igual que el Señor, Sus siervos no quieren que nadie padezca los dolores del pecado y las malas decisiones",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=spa&id=p12#p12"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Mosíah 19–20 enseña que el pecado trae sufrimiento, confusión y pérdida espiritual. El orgullo del rey Noé y su rechazo al profeta condujeron a consecuencias devastadoras para su pueblo. Sin embargo, aun en medio de la aflicción, el Señor continuó ofreciendo oportunidades de arrepentimiento. El Evangelio de Jesucristo nos permite cambiar, ser perdonados y hallar esperanza. Dios no desea castigarnos eternamente, sino ayudarnos a regresar a Él mediante el arrepentimiento sincero."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué consecuencias produjo el pecado en el pueblo del rey Noé?",
+        "¿Por qué el arrepentimiento trae paz y esperanza?",
+        "¿Cómo demuestra esta historia la justicia y misericordia de Dios?",
+        "¿Qué advertencias proféticas necesitas tomar más seriamente?",
+        "¿Qué cambios puedes hacer para acercarte más al Señor?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo murió el rey Noé?",
+      "type": "multiple",
+      "options": [
+        "De vejez, después de un reinado largo y tranquilo",
+        "Quemado, cumpliendo la profecía de Abinadí",
+        "En batalla, defendiendo a su pueblo con valentía",
+        "De una enfermedad repentina antes de ser capturado"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 19:20",
+      "explanation": "El rey Noé murió quemado, cumpliéndose la profecía de Abinadí."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué patrón vemos en la vida del rey Noé y su pueblo?",
+      "type": "multiple",
+      "options": [
+        "Las consecuencias inevitables del pecado y la desobediencia",
+        "Una obediencia constante que nunca fue puesta a prueba",
+        "Una prosperidad que continuó sin ninguna interrupción",
+        "Decisiones que no tuvieron ningún efecto duradero"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 11-19",
+      "explanation": "Vemos las consecuencias inevitables del pecado y la desobediencia."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué sucedió con el pueblo después de la muerte de Noé?",
+      "type": "multiple",
+      "options": [
+        "Continuaron en la misma iniquidad sin ningún cambio",
+        "Prosperaron de inmediato bajo un nuevo liderazgo justo",
+        "Regresaron pacíficamente a la tierra de Zarahemla",
+        "Entraron en cautiverio bajo el dominio de los lamanitas"
+      ],
+      "correctAnswer": 3,
+      "reference": "Mosíah 19:15,28",
+      "explanation": "El pueblo entró en cautiverio bajo el dominio de los lamanitas."
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué el propio pueblo se volvió contra el rey Noé?",
+      "type": "multiple",
+      "options": [
+        "Porque temían morir a manos de los lamanitas por causa de él",
+        "Porque preferían un impuesto más alto para el templo",
+        "Porque querían que gobernara por más tiempo",
+        "Porque estaban celosos de su riqueza personal"
+      ],
+      "correctAnswer": 0,
+      "reference": "Mosíah 19:9-11",
+      "explanation": "El pueblo se volvió contra Noé porque temían morir a manos de los lamanitas por causa de él."
+    },
+    {
+      "id": 5,
+      "question": "Joaquín ve que un amigo sigue tomando malas decisiones y parece no tener consecuencias todavía. ¿Qué le enseña la historia del rey Noé?",
+      "type": "multiple",
+      "options": [
+        "Que las malas decisiones nunca tienen consecuencias reales",
+        "Que las consecuencias del pecado llegan, aunque a veces tarden en manifestarse",
+        "Que solo los reyes enfrentan consecuencias por sus decisiones",
+        "Que su amigo definitivamente nunca enfrentará consecuencias"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 19:20",
+      "explanation": "La historia del rey Noé muestra que las consecuencias del pecado llegan, aunque a veces tarden en manifestarse."
+    },
+    {
+      "id": 6,
+      "question": "Sofía se pregunta si Dios sigue ayudando a alguien que fue parte de decisiones equivocadas de su familia. ¿Qué muestra la reacción del pueblo tras la muerte de Noé?",
+      "type": "multiple",
+      "options": [
+        "Que Dios abandona a quienes estuvieron cerca de la maldad de otros",
+        "Que el pueblo nunca pudo recuperarse de los errores de Noé",
+        "Que Dios permite nuevas oportunidades incluso después de las malas decisiones de otros",
+        "Que solo los descendientes directos de Noé sufrieron las consecuencias"
+      ],
+      "correctAnswer": 2,
+      "reference": "Mosíah 19-20",
+      "explanation": "Dios permite nuevas oportunidades incluso después de las malas decisiones cometidas por otros."
+    },
+    {
+      "id": 7,
+      "question": "¿Cómo se relacionan la muerte de Noé y el cautiverio posterior de su pueblo?",
+      "type": "multiple",
+      "options": [
+        "No tienen ninguna relación entre sí",
+        "Ambos muestran que las consecuencias de un mal liderazgo afectan a toda la comunidad, no solo al líder",
+        "Muestran que el cautiverio fue causado por los lamanitas sin relación con Noé",
+        "Indican que el pueblo era inocente de cualquier responsabilidad"
+      ],
+      "correctAnswer": 1,
+      "reference": "Mosíah 19-20",
+      "explanation": "Ambos eventos muestran que las consecuencias de un mal liderazgo afectan a toda la comunidad, no solo al líder."
+    }
+  ]
+}

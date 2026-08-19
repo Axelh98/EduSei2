@@ -1,0 +1,685 @@
+{
+  "categoryId": "nuevo-testamento",
+  "layoutType": "weekly",
+  "weeks": [
+    {
+      "id": 1,
+      "title": "Semana 1: Introducción al Nuevo Testamento",
+      "dateRange": "6-10 de marzo",
+      "lessons": [
+        {
+          "id": "nt-s1-d1",
+          "title": "Introducción al Nuevo Testamento",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s1-d2",
+          "title": "El estudio de las Escrituras",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s1-d3",
+          "title": "Aprender por el Espíritu",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s1-d4",
+          "title": "Aprender mediante la fe en Jesucristo",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s1-d5",
+          "title": "Introducción al Dominio de la doctrina",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Semana 2: Adquirir conocimiento espiritual",
+      "dateRange": "13-17 de marzo",
+      "lessons": [
+        {
+          "id": "nt-s2-d1",
+          "title": "Adquirir conocimiento espiritual, Parte 1",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s2-d2",
+          "title": "Adquirir conocimiento espiritual, Parte 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s2-d3",
+          "title": "Adquirir conocimiento espiritual, Parte 3",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s2-d4",
+          "title": "Lucas 2:1–14 — ",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s2-d5",
+          "title": "Dominio de la doctrina: Lucas 2:10–12",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Semana 3: Enseñanzas iniciales del ministerio del Salvador",
+      "dateRange": "20-24 de marzo",
+      "lessons": [
+        {
+          "id": "nt-s3-d1",
+          "title": "Mateo 5:13–16 — \"Vosotros sois la luz del mundo\"",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s3-d2",
+          "title": "Dominio de la doctrina: Mateo 5:14–16",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s3-d3",
+          "title": "Mateo 13 — Jesucristo enseñó con parábolas",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s3-d4",
+          "title": "Mateo 13:3–8, 18–23 — La parábola del sembrador",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s3-d5",
+          "title": "Evalúa tu aprendizaje 3",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Semana 4: Milagros y enseñanzas del Salvador",
+      "dateRange": "27-31 de marzo",
+      "lessons": [
+        {
+          "id": "nt-s4-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s4-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s4-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s4-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s4-d5",
+          "title": "Lección 5",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Semana 5: La fe y la Pascua de Resurrección",
+      "dateRange": "3-7 de abril",
+      "lessons": [
+        {
+          "id": "nt-s5-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s5-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s5-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Semana 6: Autoridad y fe en Jesucristo",
+      "dateRange": "10-14 de abril",
+      "lessons": [
+        {
+          "id": "nt-s6-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s6-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 2,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s6-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s6-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s6-d5",
+          "title": "Lección 5",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Semana 7: Compasión y servicio cristiano",
+      "dateRange": "13-19 de abril",
+      "lessons": [
+        {
+          "id": "nt-s7-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s7-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s7-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s7-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s7-d5",
+          "title": "Lección 5",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Semana 8: La luz del mundo y el Buen Pastor",
+      "dateRange": "20-26 de abril",
+      "lessons": [
+        {
+          "id": "nt-s8-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s8-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s8-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s8-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Semana 9: Parábolas de misericordia y poder sobre la muerte",
+      "dateRange": "27 de abril-3 de mayo",
+      "lessons": [
+        {
+          "id": "nt-s9-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 2,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s9-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s9-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 2,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Semana 10: Discipulado y sacrificio",
+      "dateRange": "4-10 de mayo",
+      "lessons": [
+        {
+          "id": "nt-s10-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s10-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s10-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 1,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Semana 11: La última semana del ministerio público",
+      "dateRange": "11-17 de mayo",
+      "lessons": [
+        {
+          "id": "nt-s11-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s11-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s11-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s11-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Semana 12: Parábolas del reino y exhortaciones apostólicas",
+      "dateRange": "18-24 de mayo",
+      "lessons": [
+        {
+          "id": "nt-s12-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s12-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s12-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s12-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 3,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Semana 13: La Pascua y la institución de la Santa Cena",
+      "dateRange": "25-31 de mayo",
+      "lessons": [
+        {
+          "id": "nt-s13-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s13-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s13-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s13-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s13-d5",
+          "title": "Lección 5",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Semana 14: Las enseñanzas finales del Salvador",
+      "dateRange": "5-9 de junio",
+      "lessons": [
+        {
+          "id": "nt-s14-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s14-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s14-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s14-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s14-d5",
+          "title": "Lección 5",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Semana 15: Getsemaní y el arresto del Salvador",
+      "dateRange": "12-16 de junio",
+      "lessons": [
+        {
+          "id": "nt-s15-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s15-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s15-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s15-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Semana 16: La Crucifixión y el sepultamiento",
+      "dateRange": "19-23 de junio",
+      "lessons": [
+        {
+          "id": "nt-s16-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s16-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s16-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Semana 17: La Resurrección",
+      "dateRange": "26-30 de junio",
+      "lessons": [
+        {
+          "id": "nt-s17-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 4,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s17-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Semana 18: El ministerio apostólico en Hechos",
+      "dateRange": "3-7 de julio",
+      "lessons": [
+        {
+          "id": "nt-s18-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s18-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s18-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s18-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Semana 19: La expansión inicial de la Iglesia",
+      "dateRange": "10-14 de julio",
+      "lessons": [
+        {
+          "id": "nt-s19-d1",
+          "title": "Lección 1",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s19-d2",
+          "title": "Lección 2",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s19-d3",
+          "title": "Lección 3",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        },
+        {
+          "id": "nt-s19-d4",
+          "title": "Lección 4",
+          "description": "",
+          "questionCount": 5,
+          "hasStudy": false
+        }
+      ]
+    }
+  ]
+}

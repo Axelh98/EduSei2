@@ -1,0 +1,122 @@
+{
+  "id": "49-dc-35",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Sidney Rigdon era uno de los predicadores más elocuentes e inteligentes de su región. Había liderado durante años una congregación numerosa en Kirtland, Ohio, y cuando Parley P. Pratt —su ex feligrés— le presentó el evangelio restaurado, Rigdon lo estudió con una seriedad que lo distinguió. A diferencia de muchos que rechazaban el mensaje sin considerarlo, Rigdon pasó días estudiando el Libro de Mormón y oró con sinceridad. Se bautizó, y cuando llegó a Nueva York para conocer al profeta José Smith, el Señor reveló D&C 35: el llamado específico de Sidney como escribano y colaborador en la Traducción de José Smith de la Biblia. El Señor usó una imagen poderosa: Sidney sería como Juan el Bautista, preparando el camino para una obra mayor que él mismo. Esta lección muestra que el Señor puede usar el trasfondo, la educación y los dones de cada persona para Su obra — incluso si esos dones fueron desarrollados fuera de la Iglesia. Lo que importa es poner lo que tenés al servicio del Señor."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 35:3–4",
+          "texto": "He aquí, soy Jesucristo, el Hijo de Dios, que fui crucificado para la remisión de los pecados del mundo, para que todos los que crean en mi nombre puedan tener vida eterna. He aquí, vuestra misión es proclamar estas cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/35?lang=spa&id=p3-p4#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 35:13–14",
+          "texto": "Y los débiles confundirán a los sabios, y los pequeños confundirán a los grandes. Porque de esta manera el Señor Dios obrará para traer estas cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/35?lang=spa&id=p13-p14#p13"
+        },
+        {
+          "referencia": "Doctrina y Convenios 35:20",
+          "texto": "Y un mandamiento te doy: ve a Ohio; y allí se te darán mis leyes; y serás dotado con poder de lo alto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/35?lang=spa&id=p20#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "D&C 35 enseña que el Señor prepara instrumentos con anticipación y que nadie llega al evangelio por accidente. El principio de que 'los débiles confundirán a los sabios' no descarta la habilidad de los preparados como Sidney Rigdon — los incluye, siempre que se sometan al Señor. Si tenés talentos, dones, habilidades o experiencias que todavía no pusiste al servicio del evangelio, esta lección es una invitación directa: el Señor puede hacer con eso algo que vos no te imaginás."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué fue lo que hizo Sidney Rigdon diferente a otros que rechazaron el evangelio cuando Parley P. Pratt se los presentó?",
+        "¿Qué dones o habilidades tenés que podrían usarse para servir al Señor o a tu familia en la Iglesia?",
+        "¿Qué significa para vos la promesa 'los débiles confundirán a los sabios'?",
+        "¿Qué tendrías que cambiar esta semana para poner un talento tuyo más al servicio del Señor o de tu quórum/clase?",
+        "¿Hay algo de tu vida antes de la Iglesia o fuera de ella que el Señor podría estar usando o preparando para Su obra?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál fue el rol específico que el Señor le asignó a Sidney Rigdon en D&C 35, además de predicar el evangelio?",
+      "options": [
+        "Ser escribano de José Smith para ayudar en la Traducción de José Smith de la Biblia.",
+        "Organizar las finanzas de la Iglesia en Ohio como primer administrador.",
+        "Presidir la Iglesia en Ohio mientras José Smith viajaba a Misuri.",
+        "Traducir el Libro de Mormón al idioma de los lamanitas."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 35:3 declara que el Señor 'fue crucificado por los pecados del mundo'. ¿Por qué esa declaración abre toda la revelación dirigida a Sidney?",
+      "options": [
+        "Porque es la fórmula de saludo obligatoria en todas las revelaciones de D&C.",
+        "Para establecer la autoridad legal de Cristo antes de dar instrucciones formales.",
+        "Porque todo llamado al servicio nace del amor del que murió por nosotros — entender quién llama cambia cómo uno responde.",
+        "Porque Sidney dudaba de la divinidad de Cristo y necesitaba ser corregido primero."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "D&C 35:13 dice que el Señor usa 'las cosas débiles del mundo para quebrantar a los poderosos'. ¿Qué implica ese principio sobre de dónde viene el poder real en la obra del Señor?",
+      "options": [
+        "Que los más débiles son los únicos que pueden servir efectivamente al Señor.",
+        "Que el poder para la obra viene del Señor, no de las capacidades humanas — lo que uno tiene no es el factor decisivo.",
+        "Que el Señor prefiere a personas débiles porque son más fáciles de dirigir.",
+        "Que la debilidad personal es una condición necesaria para recibir un llamado importante."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Sidney Rigdon era predicador elocuente y educado antes de unirse a la Iglesia. ¿Qué dice el hecho de que el Señor usara específicamente esos dones para Su obra?",
+      "options": [
+        "Que el Señor solo llama a personas con talentos fuera de lo común para hacer Su obra.",
+        "Que los dones desarrollados fuera de la Iglesia no tienen valor en el reino del Señor.",
+        "Que el Señor puede consagrar lo que somos — incluyendo lo que aprendimos antes de conocerlo — para Su propósito.",
+        "Que Sidney habría sido más útil si hubiera llegado sin dones previos para no depender de ellos."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Camila toca la guitarra, dibuja bien y tiene facilidad para explicar cosas. Nunca lo relacionó con el evangelio. Según el principio de D&C 35 y el ejemplo de Sidney Rigdon, ¿qué le diría el Señor sobre esos dones?",
+      "options": [
+        "Que esos talentos son útiles en el mundo pero no tienen aplicación espiritual.",
+        "Que primero debe obtener un llamamiento formal antes de usar esos dones para la Iglesia.",
+        "Que esos dones pueden ser consagrados al Señor — y que Él los necesita más de lo que ella imagina.",
+        "Que debería desarrollar primero dones específicamente religiosos antes de ofrecer los suyos."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Agustín siente que no está listo para enseñar una lección en la clase porque no sabe suficiente. D&C 35:20 le prometió a Sidney que en Ohio recibiría 'poder de lo alto'. ¿Qué principio aplica aquí para Agustín?",
+      "options": [
+        "Que debería esperar a sentirse listo antes de aceptar la responsabilidad de enseñar.",
+        "Que los llamamientos para enseñar son para personas con más conocimiento que Agustín.",
+        "Que el poder viene cuando uno obedece y actúa — no cuando uno ya se siente suficientemente preparado.",
+        "Que pedir al maestro que lo reemplace es la respuesta más humilde y correcta."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto Sidney Rigdon (D&C 35) como Orson Pratt (D&C 34) fueron llamados en condiciones muy diferentes: uno con mucha experiencia religiosa, el otro recién bautizado. ¿Qué principio común sobre los llamados del Señor ilustran esos dos casos juntos?",
+      "options": [
+        "Que el Señor prefiere a personas recién convertidas porque son más entusiastas.",
+        "Que tener mucha experiencia previa es una desventaja porque genera hábitos difíciles de cambiar.",
+        "Que los llamados tempranos son más importantes que los tardíos en la historia de la Iglesia.",
+        "Que el Señor adapta el llamado a la persona específica y usa lo que ella ya es — experiencia o frescura, según la necesidad de la obra."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

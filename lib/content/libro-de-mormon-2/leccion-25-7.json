@@ -1,0 +1,89 @@
+{
+  "id": "leccion-25-7",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mormón continúa describiendo las guerras entre nefitas y lamanitas. Inicialmente lidera al ejército nefita, pero cuando ve que su pueblo busca venganza en lugar de defenderse justamente, rehúsa seguir siendo su líder. Los nefitas continúan en su maldad, endurecer sus corazones, y blasfemar contra Dios. Mormón lamenta la condición espiritual de su pueblo pero continúa llevando los registros. El capítulo ilustra las terribles consecuencias de rechazar a Dios y buscar venganza en lugar de justicia."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 3:11",
+          "texto": "Vi que se acercaba el día de la gracia para ellos, tanto temporalmente como espiritualmente; porque vi que los visitaría en Su ira.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Mormón 3:12-14",
+          "texto": "Es por la maldad por la que los destruyen. Fueron reprendidos una y otra vez. Habían rechazado todas las palabras de los profetas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa&id=p12-p14#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué diferencia observas entre defenderse justamente y buscar venganza según este capítulo?",
+        "¿Cómo describirías las consecuencias de endurecer el corazón contra las advertencias proféticas?",
+        "¿Qué puedes aprender del ejemplo de Mormón al mantenerse fiel a pesar de la maldad circundante?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué problema enfrentó Moroni con el gobierno?",
+      "options": [
+        "Le daban demasiado apoyo",
+        "No recibía suficiente apoyo para sus ejércitos",
+        "Querían que renunciara",
+        "No había problemas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué carta escribió Moroni a Pahóran?",
+      "options": [
+        "Una carta de agradecimiento",
+        "Una carta de acusación por negligencia",
+        "Una carta casual",
+        "Una carta de rendición"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál era la verdadera situación de Pahóran?",
+      "options": [
+        "Era negligente",
+        "Había sido expulsado por rebeldes realistas",
+        "No le importaba",
+        "Estaba de vacaciones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo respondió Pahóran a las acusaciones de Moroni?",
+      "options": [
+        "Con enojo",
+        "Con comprensión y sin ofenderse",
+        "Con venganza",
+        "Con indiferencia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué lección aprendemos de la respuesta de Pahóran?",
+      "options": [
+        "Debemos enojarnos cuando nos acusan",
+        "No ofendernos cuando malinterpretan nuestras intenciones",
+        "Debemos vengarnos",
+        "Debemos ignorar todo"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

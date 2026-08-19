@@ -1,0 +1,83 @@
+{
+  "id": "doctrina-y-convenios-79-80",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quién fue llamado a servir en una misión según DyC 80:3?",
+      "options": [
+        "Stephen Burnett",
+        "Jared Carter",
+        "Eden Smith",
+        "Oliver Cowdery"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué mensaje pidió el Señor a Jared Carter que compartiera según DyC 79:1?",
+      "options": [
+        "El Evangelio eterno con poder y autoridad",
+        "Noticias políticas de su tiempo",
+        "Instrucciones sobre agricultura",
+        "Un mensaje secreto solo para líderes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué enseñó el élder Dieter F. Uchtdorf sobre compartir el Evangelio?",
+      "options": [
+        "Que solo los misioneros deben hacerlo",
+        "Que hay suficientes oportunidades de compartir el Evangelio con quienes nos rodean",
+        "Que debemos esperar a ser llamados formalmente",
+        "Que no es necesario compartirlo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué analogía utilizó el élder Robert C. Oaks para explicar cómo compartir el Evangelio?",
+      "options": [
+        "El jugo de naranja",
+        "El pan de cada día",
+        "La luz del sol",
+        "El agua viva"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué simbolizan las gavillas mencionadas en DyC 79:3?",
+      "options": [
+        "Las personas que aceptan el Evangelio",
+        "Los líderes de la Iglesia",
+        "Los templos construidos",
+        "Los profetas antiguos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿Por qué el Señor proporciona compañeros a los misioneros según DyC 80:2?",
+      "options": [
+        "Para darles apoyo y fortaleza",
+        "Para que compitan entre sí",
+        "Para que viajen más rápido",
+        "Para que dependan menos del Señor"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Qué verdad clave se enseña en DyC 80:5 sobre compartir el Evangelio?",
+      "options": [
+        "Que el Salvador nos ha llamado personalmente a compartir el Evangelio",
+        "Que solo los líderes deben predicar",
+        "Que no es necesario compartir el Evangelio",
+        "Que el Evangelio es solo para los miembros actuales"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

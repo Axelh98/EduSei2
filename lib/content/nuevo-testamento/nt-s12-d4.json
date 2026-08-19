@@ -1,0 +1,39 @@
+{
+  "id": "nt-s12-d4",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué le dijo el señor al siervo fiel que duplicó su talento?",
+      "options": [
+        "\"¿Por qué no ganaste más?\".",
+        "\"Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré\".",
+        "\"Vuelve a trabajar\".",
+        "\"Dame todo el dinero ahora\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué fue reprendido el siervo que recibió un solo talento?",
+      "options": [
+        "Por perder el dinero.",
+        "Porque por miedo lo escondió en la tierra y no hizo nada con él.",
+        "Porque era pobre.",
+        "Porque no sabía contar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo separará el Rey a las personas en el juicio final (Mateo 25:31–33)?",
+      "options": [
+        "Por su nacionalidad.",
+        "Como el pastor separa las ovejas de los cabritos.",
+        "Por su inteligencia académica.",
+        "Por la cantidad de libros leídos."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

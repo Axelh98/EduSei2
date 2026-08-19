@@ -1,0 +1,108 @@
+{
+  "id": "r225-l04",
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Una de las doctrinas más distintivas de La Iglesia de Jesucristo de los Santos de los Últimos Días es la creencia en la revelación continua. No creemos en un Dios que habló en el pasado y luego guardó silencio. Creemos en un Padre Celestial que todavía habla — tanto a profetas vivientes para guiar a Su Iglesia como a cada individuo para guiar su vida personal. La revelación no es una reliquia del pasado bíblico; es una realidad presente y accesible."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Artículos de Fe 1:9",
+          "texto": "Creemos todo lo que Dios ha revelado, todo lo que actualmente revela, y creemos que aún revelará muchos grandes e importantes asuntos pertenecientes al reino de Dios.",
+          "comentario": "Esta declaración resume la doctrina de la revelación continua: pasado («ha revelado»), presente («actualmente revela») y futuro («aún revelará»). Dios no ha terminado de hablar a Sus hijos."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 121:26, 33",
+          "texto": "Dios dará a conocer a los hijos de los hombres conocimiento concerniente a los tiempos y las épocas, en el debido tiempo del Señor... ¿Cuántas veces he llamado a vosotros por la boca de mis siervos, y por el ministerio de ángeles, y por mi propia voz, y por la voz de truenos?",
+          "comentario": "El Señor tiene múltiples formas de comunicarse: mediante profetas, ángeles, Su propia voz y el Espíritu Santo. No está limitado a un solo canal ni a una sola época. La comunicación divina es constante para quienes tienen oídos para oír."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Russell M. Nelson",
+          "fuente": "«Revelación para la Iglesia, revelación para nuestras vidas», Conferencia General, abril de 2018 (Liahona, mayo de 2018, pág. 96)",
+          "texto": "En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo […]; les suplico que aumenten su capacidad espiritual para recibir revelación.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Hay dos tipos de revelación: profética (para guiar a la Iglesia) y personal (para guiar a los individuos). El profeta y presidente de la Iglesia es el único que recibe revelación para toda la Iglesia, pero cada miembro puede recibir revelación para su propia vida, su familia y sus responsabilidades. Padres, madres, maestros, líderes — todos pueden recibir revelación dentro de su esfera de responsabilidad. Un obispo puede recibir revelación para su barrio, pero no para otro barrio. Una madre puede recibir revelación para sus hijos, pero no para los hijos de otra familia."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "Dios continúa revelando Su voluntad hoy — la revelación no terminó con la Biblia (Artículos de Fe 1:9).",
+            "Hay revelación profética (para la Iglesia entera) y revelación personal (para individuos y familias).",
+            "El profeta y presidente de la Iglesia es el único que recibe revelación para toda la Iglesia.",
+            "Cada miembro puede recibir revelación personal dentro de su esfera de responsabilidad — para su vida, familia y llamamientos.",
+            "El Señor se comunica de múltiples formas: mediante profetas, ángeles, Su propia voz y el Espíritu Santo (DyC 121:26)."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Cuándo has recibido revelación personal que te guió en una decisión importante de tu vida?",
+            "¿Por qué es importante entender los límites de la revelación personal — que no podemos recibir revelación fuera de nuestra esfera de responsabilidad?",
+            "El presidente Nelson enseñó que la revelación personal es «absolutamente esencial» en nuestros días. ¿Por qué crees que esto es más urgente ahora que nunca?",
+            "¿Qué estás haciendo para aumentar tu capacidad de recibir y reconocer revelación personal?"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "Según los Artículos de Fe 1:9, ¿cuál es la posición de la Iglesia sobre la revelación?",
+      "options": [
+        "Que Dios solo reveló verdades en los tiempos bíblicos",
+        "Que Dios ha revelado, actualmente revela y aún revelará muchos grandes asuntos",
+        "Que la revelación terminó con la muerte de los apóstoles originales",
+        "Que solo el profeta puede recibir revelación, no los miembros individuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Artículos de Fe 1:9 declara: «Creemos todo lo que Dios ha revelado, todo lo que actualmente revela, y creemos que aún revelará muchos grandes e importantes asuntos.» Es revelación continua: pasado, presente y futuro."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "¿Quién es el único que puede recibir revelación para toda la Iglesia?",
+      "options": [
+        "Cualquier apóstol ordenado",
+        "El Quórum de los Doce actuando en conjunto",
+        "El profeta y presidente de la Iglesia",
+        "Cualquier poseedor del Sacerdocio de Melquisedec"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Solo el profeta y presidente de la Iglesia puede recibir revelación para toda la Iglesia. Otros líderes reciben revelación dentro de sus responsabilidades, pero no para la Iglesia entera."
+    },
+    {
+      "id": 3,
+      "type": "truefalse",
+      "question": "Verdadero o Falso: Según DyC 121:26, el Señor ha llamado a Sus hijos mediante profetas, ángeles y Su propia voz — no solo de una forma.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Verdadero. El Señor pregunta: «¿Cuántas veces he llamado a vosotros por la boca de mis siervos, y por el ministerio de ángeles, y por mi propia voz...?» Dios usa múltiples canales de comunicación."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Cuál es el ámbito correcto de la revelación personal?",
+      "options": [
+        "Cualquier tema sobre el cual una persona desee recibir guía",
+        "Solo asuntos relacionados con la Iglesia y llamamientos",
+        "Dentro de la esfera de responsabilidad de la persona — su vida, familia y llamamientos",
+        "Únicamente para tomar decisiones de importancia eterna"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cada persona puede recibir revelación para su propia vida, familia y llamamientos — su esfera de responsabilidad. No podemos recibir revelación para áreas fuera de nuestra responsabilidad."
+    }
+  ]
+}

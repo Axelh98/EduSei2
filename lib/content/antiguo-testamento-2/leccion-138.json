@@ -1,0 +1,56 @@
+{
+  "id": "leccion-138",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué vio Ezequiel en su visión inicial junto al río Quebar?",
+      "options": [
+        "Una batalla entre ángeles y demonios.",
+        "Una nube grande con fuego envolvente, cuatro seres vivientes y ruedas que se movían con ellos, representando la gloria y la omnisciencia de Dios.",
+        "El templo celestial tal como sería construido en Jerusalén."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo preparó el Señor a Ezequiel para su llamamiento como profeta?",
+      "options": [
+        "Le dio años de educación formal en el templo.",
+        "Le mandó comer un rollo que representaba las palabras del Señor, simbolizando que debía interiorizar el mensaje antes de proclamarlo.",
+        "Le envió a vivir con otros profetas para aprender de ellos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es la responsabilidad del 'atalaya' que el Señor describe en Ezequiel 3 y 33?",
+      "options": [
+        "Proteger físicamente la ciudad de los enemigos.",
+        "Advertir al pueblo cuando ve venir el peligro espiritual; si el atalaya no advierte y el pueblo perece, la sangre cae sobre el atalaya.",
+        "Registrar los eventos históricos de la nación."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué verdad sobre la responsabilidad individual enseña Ezequiel 33:8–9?",
+      "options": [
+        "Que todos somos responsables de las decisiones de los demás.",
+        "Que si advertimos al malvado y él no escucha, nosotros habremos librado nuestra alma; cada persona es responsable de sus propias elecciones.",
+        "Que el Señor castiga a las familias enteras por los pecados de uno."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo aplica el rol del 'atalaya' a los jóvenes de la Iglesia hoy?",
+      "options": [
+        "Solo aplica a los líderes con cargos formales.",
+        "Todos somos responsables de compartir la verdad que conocemos con quienes nos rodean, siendo un buen ejemplo y abriendo la boca con amor.",
+        "Solo aplica a los misioneros de tiempo completo."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

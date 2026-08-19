@@ -1,0 +1,89 @@
+{
+  "id": "leccion-31-3",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Este pasaje de dominio de la doctrina resume la meta final de todos los discípulos de Cristo: llegar a ser como nuestro Padre Celestial y Jesucristo. El Salvador invita a los nefitas, y a nosotros hoy, a buscar la perfección. Entendemos que esta perfección es un proceso que se logra únicamente a través de la gracia y la Expiación de Jesucristo a lo largo del tiempo, no de inmediato."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 12:48",
+          "texto": "Por tanto, quisiera que fueseis perfectos así como yo, o como vuestro Padre que está en los cielos es perfecto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p48#p48"
+        },
+        {
+          "referencia": "Moroni 10:32",
+          "texto": "Sí, venid a Cristo, y perfeccionaos en él, y absteneos de toda impiedad...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p32#p32"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué significa para ti que la perfección sea un proceso y no un evento inmediato?",
+        "¿Cómo te ayuda el Salvador en tu esfuerzo por ser perfecto?",
+        "¿Qué pequeño paso puedes dar hoy para acercarte más al ejemplo de Cristo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué señales ocurrieron cuando Cristo murió?",
+      "options": [
+        "Nada especial",
+        "Terremotos, tormentas y tres días de tinieblas",
+        "Solo un eclipse",
+        "Lluvia ligera"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué ciudades fueron destruidas?",
+      "options": [
+        "Ninguna",
+        "Zarahemla, Moroni y otras ciudades inicuas",
+        "Solo una",
+        "Todas las ciudades"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué escucharon durante las tinieblas?",
+      "options": [
+        "Silencio total",
+        "La voz de Cristo lamentando su iniquidad",
+        "Música",
+        "Gritos de guerra"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué invitó Cristo a los que quedaron?",
+      "options": [
+        "A huir",
+        "A venir a Él y ser sanados",
+        "A esconderse",
+        "A pelear"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué sacrificio dijo Cristo que ya no se requería?",
+      "options": [
+        "Ninguno",
+        "El derramamiento de sangre; ahora requiere un corazón quebrantado",
+        "Sacrificios de cosechas",
+        "Todos los sacrificios"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

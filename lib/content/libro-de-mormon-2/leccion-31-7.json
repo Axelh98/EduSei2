@@ -1,0 +1,61 @@
+{
+  "id": "leccion-31-7",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuánto tiempo pasaron en tinieblas?",
+      "options": [
+        "Un día",
+        "Tres días",
+        "Una semana",
+        "Un mes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hicieron los que sobrevivieron después de las destrucciones?",
+      "options": [
+        "Se endurecieron más",
+        "Se reunieron en Abundancia lamentando",
+        "Huyeron",
+        "Pelearon entre sí"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué vieron descender del cielo?",
+      "options": [
+        "Ángeles",
+        "A Cristo mismo",
+        "Fuego",
+        "Lluvia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo se presentó Cristo?",
+      "options": [
+        "Como un guerrero",
+        "Como Jesucristo, a quien los profetas testificaron",
+        "Como un rey terrenal",
+        "Como un ángel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué invitó Cristo al pueblo a hacer?",
+      "options": [
+        "Huir",
+        "Palpar las marcas en Sus manos y pies",
+        "Adorar a otros",
+        "Irse a casa"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

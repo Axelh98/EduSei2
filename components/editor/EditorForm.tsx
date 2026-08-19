@@ -14,7 +14,7 @@ import { useEditorState }  from "./useEditorState"
 import { useDraft }        from "./useDraft"
 import { validateLesson }  from "./validateLesson"
 import { createOverride, updateOverride } from "@/actions/overrides"
-import { getFullLesson, getLessonById, isFlatCategory } from "@/lib/quiz-data"
+import { loadLessonForEditor } from "@/actions/lesson-content"
 import type { LessonOverride } from "@/actions/overrides"
 import type { Seccion, Question } from "@/lib/types"
 
@@ -96,30 +96,27 @@ export function EditorForm({ existing }: Props) {
   }, [isDirty])
 
   // ── Cargar contenido original cuando cambia la lección ────
+  // El contenido lo trae una server action: así el corpus de lecciones
+  // no viaja al navegador solo para abrir el editor.
   useEffect(() => {
     if (!state.categoryId || !state.lessonId) {
       setOriginalLesson(null)
       return
     }
 
-    const result = getLessonById(state.categoryId, state.lessonId)
-    if (!result) { setOriginalLesson(null); return }
+    let cancelled = false
+    const { categoryId, lessonId } = state
 
-    const { lesson, category } = result
-    const questions: Question[] = lesson.questions ?? []
+    loadLessonForEditor(categoryId, lessonId)
+      .then((lesson) => {
+        if (cancelled) return
+        setOriginalLesson(lesson)
+      })
+      .catch(() => {
+        if (!cancelled) setOriginalLesson(null)
+      })
 
-    // Instituto (FlatCategory): secciones directamente en la lección.
-    // Seminario: getFullLesson fusiona con EXTENDED_CONTENT_MAP.
-    let secciones: Seccion[] = (lesson.secciones ?? []) as Seccion[]
-
-    if (!isFlatCategory(category)) {
-      const fullLesson = getFullLesson(state.categoryId, state.lessonId)
-      if (fullLesson?.secciones?.length) {
-        secciones = fullLesson.secciones as Seccion[]
-      }
-    }
-
-    setOriginalLesson({ title: lesson.title, secciones, questions })
+    return () => { cancelled = true }
   }, [state.categoryId, state.lessonId])
 
   // ── Auto-carga del original (lo que promete la guía) ──────

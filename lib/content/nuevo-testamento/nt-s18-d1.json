@@ -1,0 +1,61 @@
+{
+  "id": "nt-s18-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué promesa recibieron los Apóstoles antes de la ascensión de Jesús?",
+      "options": [
+        "Que serían reyes de Israel inmediatamente.",
+        "Que recibirían el poder del Espíritu Santo.",
+        "Que no volverían a sufrir persecución.",
+        "Que viajarían por todo el mundo en un día."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Quién fue elegido para ocupar el lugar de Judas Iscariote en el Quórum de los Doce?",
+      "options": [
+        "Pablo.",
+        "Bernabé.",
+        "Matías.",
+        "Esteban."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál fue el método para elegir al nuevo Apóstol después de orar?",
+      "options": [
+        "Una votación popular.",
+        "Echaron suertes (buscando la voluntad del Señor).",
+        "Un examen escrito.",
+        "Lo decidió el soldado romano."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Hacia dónde ascendió Jesús después de dar Sus últimas instrucciones?",
+      "options": [
+        "Al Templo.",
+        "A los cielos.",
+        "A Galilea.",
+        "Al desierto."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué dijeron los ángeles a los Apóstoles tras la ascensión de Jesús?",
+      "options": [
+        "Que Jesús no volvería.",
+        "Que Jesús vendrá de la misma manera que lo vieron ir al cielo.",
+        "Que debían esconderse.",
+        "Que el mundo se acabaría ese día."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

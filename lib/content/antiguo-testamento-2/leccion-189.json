@@ -1,0 +1,56 @@
+{
+  "id": "leccion-189",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué significa en Doctrina y Convenios 88:118 buscar conocimiento 'por el estudio y también por la fe'?",
+      "options": [
+        "Que solo necesitas fe si no puedes estudiar.",
+        "Que el aprendizaje más completo combina el esfuerzo intelectual con la revelación espiritual del Espíritu Santo.",
+        "Que la fe reemplaza la necesidad de esforzarse en los estudios."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Por qué el Señor desea que desarrollemos tanto la mente como el espíritu?",
+      "options": [
+        "Para que seamos más útiles económicamente a la sociedad.",
+        "Porque la gloria de Dios es la inteligencia, y crecer en conocimiento y sabiduría nos hace más semejantes a Él.",
+        "Solo para que podamos servir mejor en llamamientos de la Iglesia."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo puedes incluir al Señor en tu proceso de aprendizaje académico?",
+      "options": [
+        "Orando para no tener que estudiar tanto.",
+        "Pidiendo guía al estudiar, siendo honesto en tus trabajos y conectando lo que aprendes con los principios del Evangelio.",
+        "Solo estudiando materias religiosas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué beneficio espiritual tiene el esforzarse por aprender cosas buenas?",
+      "options": [
+        "Ninguno; el aprendizaje secular no tiene valor espiritual.",
+        "Amplía nuestra capacidad de entender la creación de Dios, sirve a los demás y prepara el alma para la eternidad.",
+        "Solo beneficia a quienes estudian en universidades religiosas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué actitud hacia el aprendizaje refleja mejor el principio de 'educación para el alma entera'?",
+      "options": [
+        "Estudiar solo lo necesario para pasar los exámenes.",
+        "Acercarse al aprendizaje con curiosidad, humildad y gratitud, viendo cada conocimiento nuevo como un don de Dios.",
+        "Enfocarse exclusivamente en las materias que llevan a ganar más dinero."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

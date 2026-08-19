@@ -1,0 +1,141 @@
+{
+  "id": "leccion-42",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "La noche más importante de la historia israelita empezó con instrucciones muy precisas. No era suficiente con creer que Dios salvaría a Su pueblo. Había que hacer algo específico: elegir un cordero sin defecto, cuidarlo cuatro días, sacrificarlo al atardecer, tomar su sangre y pintarla en los dos postes y el dintel de la puerta. Y luego, quedarse adentro.",
+        "Cada detalle importaba. El cordero debía ser sin mancha ni enfermedad —sin defecto de ningún tipo. El momento del sacrificio era preciso —al atardecer, 'entre las dos tardes'. La sangre en la puerta era la señal: cuando el ángel destructor la viera, 'pasaría' (en hebreo, pesach) sobre esa casa. De ahí el nombre Pascua.",
+        "Siglos después, Juan el Bautista señaló a Jesús a orillas del Jordán y dijo algo que cualquier judío que conociera la Pascua habría entendido inmediatamente: 'He aquí el Cordero de Dios, que quita el pecado del mundo' (Juan 1:29). El cordero de la Pascua no era solo comida ritual. Era una enseñanza anticipada sobre quién vendría.",
+        "El paralelo es detallado. Jesucristo fue sin pecado —el Cordero sin defecto. Fue elegido desde antes de la fundación del mundo —el Cordero reservado. Su sangre aplicada a través del arrepentimiento y los convenios protege de la muerte espiritual —igual que la sangre en el dintel protegió de la muerte física. Y la familia debía quedarse dentro: la salvación requiere permanecer dentro de los convenios del Señor, no solo haberlos hecho una vez.",
+        "Pablo lo resumió en una sola frase: 'Nuestra pascua, que es Cristo, ya fue sacrificada por nosotros' (1 Corintios 5:7)."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Éxodo 12:5, 7, 13",
+          "texto": "El animal será sin defecto... tomarán de la sangre, y la pondrán en los dos postes y en el dintel... y veré la sangre y pasaré de vosotros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/12?lang=spa&id=p5,p7,p13#p5"
+        },
+        {
+          "referencia": "Juan 1:29",
+          "texto": "He aquí el Cordero de Dios, que quita el pecado del mundo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/1?lang=spa&id=p29#p29"
+        },
+        {
+          "referencia": "1 Corintios 5:7",
+          "texto": "Limpiaos, pues, de la vieja levadura... porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/5?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "2 Nefi 9:6–7",
+          "texto": "Pues como la muerte ha pasado sobre todos los hombres... era necesario que hubiese una expiación infinita.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=spa&id=p6-p7#p6"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "\"Vencer al mundo y hallar descanso\", Liahona, noviembre de 2022, pág. 96",
+      "texto": "Debido a que el Salvador, por medio de Su expiación infinita, nos redimió a todos nosotros de la debilidad, los errores y el pecado, y experimentó cada dolor, preocupación y carga que ustedes hayan tenido alguna vez, entonces, conforme se arrepientan verdaderamente y busquen Su ayuda, podrán elevarse por encima de este mundo precario actual.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/47nelson?lang=spa&id=p15#p15"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La Pascua no fue un evento aislado. Fue la lección visual más poderosa que Dios diseñó para preparar a Israel —y a toda la humanidad— para lo que el Salvador haría. Cada elemento era una enseñanza anticipada: el cordero sin defecto, la sangre en los dinteles, la instrucción de quedarse adentro. Hoy, ese cordero ya fue sacrificado. La pregunta que la Pascua nos hace es directa: ¿has aplicado su sangre en tu vida, a través del arrepentimiento y los convenios?"
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué característica del cordero pascual —sin defecto, elegido con cuidado, sacrificado a una hora exacta— te parece más significativa como símbolo de Jesucristo?",
+        "¿Qué sentirías si tuvieras que sacrificar un animal que cuidaste durante cuatro días? ¿Cómo te ayuda eso a entender el costo de la Expiación?",
+        "La instrucción era quedarse dentro de la casa. ¿Qué significa para vos permanecer dentro de los convenios del Señor en tu vida cotidiana?",
+        "El presidente Nelson dice que Cristo 'experimentó cada dolor, preocupación y carga'. ¿Cómo cambia eso tu disposición a acudir a Él con tus propias cargas?",
+        "¿Cómo cambia tu experiencia al participar de la Santa Cena cuando la ves conectada con este relato de la Pascua?",
+        "¿Hay algún área de tu vida donde necesitás 'aplicar la sangre del cordero' con más constancia —es decir, recurrir más activamente al arrepentimiento y los convenios?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Las instrucciones del Señor para la Pascua hebrea especificaban características precisas del cordero. ¿Cuáles eran esas características según Éxodo 12?",
+      "options": [
+        "Debía ser el animal más grande del rebaño, de al menos dos años, para que su sacrificio fuera significativo.",
+        "Debía ser elegido por el sacerdote, no por la familia, para asegurar que no hubiera favoritismos en la selección.",
+        "Podía ser cualquier animal doméstico disponible, con tal de que fuera sacrificado al atardecer según el horario establecido.",
+        "Debía ser un macho sin defecto de un año, escogido y guardado cuatro días antes de ser sacrificado."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 2,
+      "question": "La sangre del cordero debía aplicarse en un lugar específico de cada casa israelita. ¿Dónde?",
+      "options": [
+        "En el umbral del suelo de la entrada, para que todos los que entraran la pisaran como señal de fe.",
+        "En los dos postes y el dintel de la puerta, de manera que la entrada de la casa quedara marcada.",
+        "En la puerta trasera de la casa, que era por donde el ángel pasaría según las instrucciones divinas.",
+        "En el centro de la puerta principal, en forma de una señal visible para los vecinos que pasaran."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "El cordero pascual debía ser sin defecto, escogido con cuidado y guardado cuatro días. ¿Qué aspectos específicos de la misión de Jesucristo prefigura esa descripción?",
+      "options": [
+        "Cristo fue sin pecado, fue designado desde antes de la fundación del mundo, y Su misión fue preparada cuidadosamente a lo largo de siglos de historia sagrada.",
+        "Cristo fue el más humilde de todos, vivió exactamente cuatro años de ministerio público antes de Su sacrificio.",
+        "Cristo fue elegido por los apóstoles como su líder antes de que comenzara Su ministerio público en Galilea.",
+        "Cristo fue separado del mundo durante cuarenta días en el desierto antes de iniciar Su misión entre el pueblo."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "La familia debía permanecer dentro de la casa con la sangre en el dintel durante la noche de la plaga. ¿Qué principio sobre la salvación ilustra esa instrucción de quedarse dentro?",
+      "options": [
+        "Que la salvación requiere aislarse del mundo completamente para no ser contaminado por su influencia negativa.",
+        "Que el Señor protege a quienes obedecen Sus instrucciones específicas, aunque parezcan arbitrarias o difíciles de entender.",
+        "Que la salvación se recibe permaneciendo dentro de los convenios del Señor, no solo haciéndolos una vez y luego alejándose.",
+        "Que la fe verdadera siempre incluye un componente de sacrificio visible que otros puedan reconocer desde afuera."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Diego fue bautizado hace tres años pero ya no participa activamente de la Iglesia. Le dice a un amigo: 'Ya hice el convenio; eso es lo que importa'. La lección sobre quedarse dentro de la casa habla directamente a esa actitud. ¿Qué le diría?",
+      "options": [
+        "Que la participación activa es un requisito de la Iglesia, no una parte esencial del convenio bautismal.",
+        "Que el bautismo solo es válido si se renueva regularmente mediante la ordenanza de la confirmación.",
+        "Que los convenios se viven, no solo se hacen; quedarse dentro significa seguir renovando el convenio de la Santa Cena y mantenerse activo en la fe.",
+        "Que debería hablar con sus líderes locales para determinar si su bautismo necesita ser revalidado formalmente."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Camila tiene una semana muy difícil y decide saltarse la reunión sacramental porque 'no tiene ganas y total el Señor la entiende'. Usando el símbolo de la sangre en el dintel, ¿qué perspectiva ofrece la lección?",
+      "options": [
+        "Que participar de la Santa Cena cuando no tenemos ganas es exactamente cuando más la necesitamos: es renovar la señal del convenio en el umbral de nuestra vida.",
+        "Que el Señor efectivamente entiende y la Santa Cena tiene el mismo valor espiritual independientemente de si asistimos físicamente o no.",
+        "Que saltarse una sola semana no tiene consecuencias espirituales significativas si el patrón general de su vida es fiel.",
+        "Que debería orar en casa en lugar de asistir, porque la sinceridad de la oración supera el valor de la asistencia rutinaria."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "El cordero pascual es descrito por Pablo en 1 Corintios 5:7 como 'nuestra pascua, que es Cristo'. ¿Qué cambio doctrinal fundamental señala esa identificación entre el cordero físico y Jesucristo?",
+      "options": [
+        "Que la Ley de Moisés fue anulada por completo con la llegada de Cristo y ya no tiene ningún valor doctrinal para los creyentes.",
+        "Que los símbolos del Antiguo Testamento no apuntaban a Cristo sino que eran leyes independientes con propósito propio.",
+        "Que el sacrificio físico de animales cumplió su propósito de preparar la comprensión del pueblo; la Expiación de Cristo es el cumplimiento real de todo lo que esos sacrificios prometían.",
+        "Que Pablo interpretó la Pascua de manera alegórica, no histórica, para hacer el Evangelio más accesible a la cultura griega."
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

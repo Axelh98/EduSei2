@@ -1,0 +1,61 @@
+{
+  "id": "nt-s15-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué estaban haciendo Pedro, Santiago y Juan mientras Jesús sufría en el jardín?",
+      "options": [
+        "Orando fervientemente con Él.",
+        "Durmiendo a causa de la tristeza.",
+        "Preparando la huida.",
+        "Discutiendo con los guardias."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué invitación hizo Jesús a Sus discípulos al encontrarlos dormidos?",
+      "options": [
+        "\"Idos a vuestras casas\".",
+        "\"Velad y orad, para que no entréis en tentación\".",
+        "\"Haced una fogata\".",
+        "\"Buscad a Judas\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo describió Jesús la condición de Sus discípulos esa noche?",
+      "options": [
+        "\"Sois malos seguidores\".",
+        "\"El espíritu a la verdad está dispuesto, pero la carne es débil\".",
+        "\"Estáis llenos de fe\".",
+        "\"Tenéis miedo de la oscuridad\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuántas veces se apartó Jesús para orar la misma petición en el jardín?",
+      "options": [
+        "Una vez.",
+        "Tres veces.",
+        "Siete veces.",
+        "Diez veces."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué actitud demostró el Salvador al someterse a la voluntad del Padre?",
+      "options": [
+        "Resistencia.",
+        "Obediencia perfecta y amor infinito.",
+        "Tristeza sin esperanza.",
+        "Confusión."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

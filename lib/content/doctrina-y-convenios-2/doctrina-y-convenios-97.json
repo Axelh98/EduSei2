@@ -1,0 +1,39 @@
+{
+  "id": "doctrina-y-convenios-97",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cómo describe el Señor a Sion en DyC 97:21?",
+      "options": [
+        "Los puros de corazón",
+        "Los ricos",
+        "Los poderosos",
+        "Los sabios del mundo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué bendición promete DyC 97:16 a los puros de corazón?",
+      "options": [
+        "Verán a Dios en Su templo",
+        "Nunca morirán físicamente",
+        "Serán famosos",
+        "Recibirán riquezas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué enseñó Russell M. Nelson sobre la pureza?",
+      "options": [
+        "El arrepentimiento diario es la senda a la pureza",
+        "La pureza es imposible",
+        "La pureza depende solo de rituales",
+        "La pureza no tiene poder"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

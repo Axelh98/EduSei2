@@ -1,0 +1,94 @@
+{
+  "id": "leccion-30-1",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "En el momento de la crucifixión de Cristo en Jerusalén, grandes destrucciones ocurren en la tierra de los nefitas. Tempestades, terremotos, fuegos, y torbellinos destruyen ciudades enteras. La tierra se cubre de una oscuridad tan densa que no puede encenderse ninguna luz. Durante tres días, los sobrevivientes escuchan lamentos por los muertos. Luego la voz de Cristo habla desde el cielo, llamando a los sobrevivientes al arrepentimiento. Estos capítulos muestran el cumplimiento de las profecías sobre la muerte de Cristo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 8:23",
+          "texto": "Hubo densa obscuridad sobre toda la faz de la tierra, de modo que los habitantes que no habían caído pudieron sentir el vapor de tinieblas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=spa&id=p23#p23"
+        },
+        {
+          "referencia": "3 Nefi 9:13-14",
+          "texto": "¡Oh vosotros, todos los que habéis sido preservados, porque fuisteis más justos que ellos, no vendréis a mí para que tengáis vida eterna?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=spa&id=p13-p14#p13"
+        },
+        {
+          "referencia": "3 Nefi 10:10",
+          "texto": "Ahora bien, todos los que no fueron muertos por las armas de guerra, después de haber sepultado a los que habían muerto, se volvieron al Señor su Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/10?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te enseñan estas destrucciones sobre la seriedad del rechazo a Cristo?",
+        "¿Cómo describirías el tono de la voz de Cristo al llamar a los sobrevivientes?",
+        "¿En qué momentos de tu vida has experimentado 'oscuridad' espiritual y cómo encontraste la luz?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué amenazaron hacer los incrédulos si no se cumplía la profecía?",
+      "options": [
+        "Irse del país",
+        "Matar a todos los que creían",
+        "Construir un templo",
+        "Hacer una fiesta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hizo Nefi cuando vio el peligro del pueblo?",
+      "options": [
+        "Huyó",
+        "Clamó al Señor todo el día",
+        "Se escondió",
+        "Renunció"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué señal se cumplió del nacimiento de Cristo?",
+      "options": [
+        "Un terremoto",
+        "No hubo obscuridad por una noche entera",
+        "Una inundación",
+        "Un eclipse"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo reaccionaron los incrédulos cuando vieron la señal?",
+      "options": [
+        "Se arrepintieron",
+        "Cayeron al suelo aterrorizados",
+        "Huyeron",
+        "La ignoraron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué hicieron algunos después de ver la señal?",
+      "options": [
+        "Todos permanecieron fieles",
+        "Algunos comenzaron a endurecer sus corazones nuevamente",
+        "Todos se bautizaron",
+        "Construyeron un templo"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

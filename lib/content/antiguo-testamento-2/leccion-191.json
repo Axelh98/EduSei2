@@ -1,0 +1,56 @@
+{
+  "id": "leccion-191",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué es un mentor y por qué es valioso tener uno?",
+      "options": [
+        "Es solo un amigo mayor que da consejos ocasionales.",
+        "Es una persona con experiencia y sabiduría que te guía, apoya y ayuda a desarrollar tu potencial de maneras que sería difícil lograr solo.",
+        "Es un tutor académico pagado."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué ejemplo de mentoría encontramos en el Antiguo Testamento?",
+      "options": [
+        "Abraham y Lot.",
+        "Moisés y Josué, donde Moisés preparó a Josué durante años para que eventualmente liderara a Israel.",
+        "Saúl y David."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Dónde puedes encontrar mentores potenciales en tu vida?",
+      "options": [
+        "Solo entre los famosos y exitosos de la sociedad.",
+        "En tu familia, en líderes de la Iglesia, en maestros, en personas de la comunidad que admires por su rectitud y experiencia.",
+        "Solo entre los miembros de tu misma generación."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué actitud debes tener para aprovechar al máximo la relación con un mentor?",
+      "options": [
+        "Escuchar solo los consejos que te parezcan convenientes.",
+        "Humildad, disposición a aprender, ser proactivo en buscar guía y aplicar los consejos recibidos.",
+        "Esperar a que el mentor te busque a ti primero."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es el mayor mentor que tienes disponible siempre según las Escrituras?",
+      "options": [
+        "El profeta vivo de la Iglesia.",
+        "El Espíritu Santo, que puede guiarte, enseñarte y recordarte todas las cosas en cualquier momento.",
+        "Tus padres, quienes siempre saben qué es mejor."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

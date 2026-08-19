@@ -1,0 +1,121 @@
+{
+  "id": "r225-l05",
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "En septiembre de 1823, tres años después de la Primera Visión, un mensajero celestial llamado Moroni apareció a José Smith y le habló de un registro antiguo escrito en planchas de oro. Estas planchas contenían la historia de pueblos antiguos de las Américas y, lo más importante, la plenitud del Evangelio sempiterno de Jesucristo. Pasarían cuatro años de preparación antes de que José recibiera las planchas, y casi dos años más antes de que se completara la traducción mediante el don y el poder de Dios."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "José Smith—Historia 1:33–34",
+          "texto": "También me dijo que cuando yo recibiese las planchas de que él había hablado —porque aún no había llegado el tiempo de obtenerlas— no se las debía mostrar a ninguna persona; ni el peto y el Urim y Tumim, sino solamente a aquellos a quienes se me mandara mostrárselos; y que si lo hacía, sería destruido. Mientras hablaba conmigo acerca de las planchas, se manifestó a mi mente la visión de tal modo que pude ver el lugar donde estaban depositadas.",
+          "comentario": "Moroni estableció las condiciones claramente: las planchas eran sagradas y solo debían mostrarse según instrucción divina. José recibió una visión del lugar donde estaban escondidas — el cerro Cumorah — pero tendría que esperar cuatro años antes de poder llevarlas consigo."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 10:4",
+          "texto": "No corras más aprisa ni trabajes más de lo que tus fuerzas y medios te permitan, y de lo que la casa de mi Padre requiera; y sé diligente hasta el fin.",
+          "comentario": "Durante el proceso de traducción, José aprendió lecciones de paciencia y confianza en el tiempo del Señor. El Señor tenía un propósito en cada demora y cada dificultad. La traducción no era solo un proyecto intelectual — era una experiencia de formación espiritual."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder Russell M. Nelson",
+          "fuente": "«Un testimonio del Libro de Mormón», Conferencia General, octubre de 1999 (Liahona, enero de 2000)",
+          "texto": "En comparación, José Smith tradujo el Libro de Mormón a razón de diez páginas al día, y terminó el trabajo ¡en 85 días!",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/1999/10/a-testimony-of-the-book-of-mormon?lang=spa"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "José tradujo usando instrumentos sagrados llamados «intérpretes» o Urim y Tumim, y también usando una piedra vidente. El proceso exacto no está completamente documentado, pero sabemos que no fue una traducción académica palabra por palabra. José miraba los instrumentos y recibía el texto en inglés mediante revelación. Oliver Cowdery sirvió como escriba principal, escribiendo mientras José dictaba. Oliver testificó que las palabras fluían tan rápidamente que apenas podía escribir con suficiente velocidad."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "El ángel Moroni apareció a José Smith en septiembre de 1823 y le habló de las planchas de oro (JS—H 1:30–33).",
+            "José recibió las planchas cuatro años después, en 1827, después de preparación y pruebas.",
+            "La traducción se realizó mediante el don y el poder de Dios usando el Urim y Tumim y una piedra vidente — no fue una traducción académica.",
+            "Oliver Cowdery sirvió como escriba principal durante la mayor parte de la traducción.",
+            "El Libro de Mormón se publicó en marzo de 1830 — la primera edición de 5,000 ejemplares."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Por qué crees que el Señor hizo que José esperara cuatro años entre la visita de Moroni y la recepción de las planchas?",
+            "¿Qué lecciones de paciencia y confianza en el tiempo del Señor puedes aprender del proceso de traducción del Libro de Mormón?",
+            "José tradujo el libro mediante revelación, no mediante conocimiento lingüístico. ¿Qué te enseña eso sobre cómo Dios obra mediante personas imperfectas y limitadas?",
+            "Si alguien te preguntara cómo José Smith pudo traducir registros antiguos sin conocer el idioma, ¿cómo explicarías el proceso de traducción?"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "¿Cuándo apareció por primera vez el ángel Moroni a José Smith?",
+      "options": [
+        "En la primavera de 1820, inmediatamente después de la Primera Visión",
+        "En septiembre de 1823, tres años después de la Primera Visión",
+        "En 1827, cuando José recibió las planchas",
+        "En 1830, cuando se publicó el Libro de Mormón"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ángel Moroni apareció por primera vez a José Smith en septiembre de 1823, tres años después de la Primera Visión, para hablarle de las planchas de oro."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "¿Cuánto tiempo pasó entre la visita de Moroni y la recepción de las planchas por parte de José?",
+      "options": [
+        "Un año",
+        "Dos años",
+        "Cuatro años",
+        "Siete años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "José tuvo que esperar cuatro años (de 1823 a 1827) entre la primera visita de Moroni y el momento en que finalmente recibió las planchas. Este fue un período de preparación y prueba."
+    },
+    {
+      "id": 3,
+      "type": "truefalse",
+      "question": "Verdadero o Falso: José Smith tradujo el Libro de Mormón usando su conocimiento académico de idiomas antiguos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Falso. José tradujo mediante el don y el poder de Dios usando instrumentos sagrados (Urim y Tumim y piedra vidente), no mediante conocimiento lingüístico académico. Fue un proceso de revelación."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Quién sirvió como escriba principal durante la traducción del Libro de Mormón?",
+      "options": [
+        "Martin Harris",
+        "Hyrum Smith",
+        "Oliver Cowdery",
+        "Emma Smith"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Oliver Cowdery sirvió como escriba principal durante la mayor parte de la traducción, escribiendo mientras José dictaba el texto que recibía por revelación."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "¿Cuándo se publicó la primera edición del Libro de Mormón?",
+      "options": [
+        "1820",
+        "1823",
+        "1827",
+        "1830"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Libro de Mormón se publicó en marzo de 1830. La primera edición constó de 5,000 ejemplares y marcó un hito importante en la Restauración."
+    }
+  ]
+}

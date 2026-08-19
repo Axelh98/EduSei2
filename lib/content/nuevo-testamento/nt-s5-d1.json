@@ -1,0 +1,39 @@
+{
+  "id": "nt-s5-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál fue la reacción de muchos discípulos ante la enseñanza del Pan de Vida?",
+      "options": [
+        "Se bautizaron de inmediato.",
+        "Dijeron: \"Dura es esta palabra\" y ya no andaban con Él.",
+        "Le pidieron más pan físico.",
+        "Invitaron a sus familias a escucharlo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál fue la respuesta de Pedro a la pregunta de Jesús?",
+      "options": [
+        "\"Iremos a los fariseos\".",
+        "\"Nos quedaremos por la comida\".",
+        "\"Señor, ¿a quién iremos? Tú tienes palabras de vida eterna\".",
+        "\"Tenemos miedo de los romanos\"."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "¿Qué testificó Pedro sobre la identidad de Jesús en Juan 6:69?",
+      "options": [
+        "Que era un buen maestro.",
+        "Que Él es el Santo de Dios (el Cristo, el Hijo del Dios viviente).",
+        "Que la Iglesia era perfecta.",
+        "Que nunca tendrían problemas."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

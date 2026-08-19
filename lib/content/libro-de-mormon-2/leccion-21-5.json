@@ -1,0 +1,123 @@
+{
+  "id": "leccion-21-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Amulek complementa las enseñanzas de Alma con su testimonio sobre la expiación de Jesucristo. Explica por qué la expiación debe ser 'infinita y eterna': ningún ser humano puede expiar los pecados de otro porque todos somos imperfectos. Solo Jesucristo, siendo el Hijo de Dios sin pecado, puede ofrecer un sacrificio que satisfaga las demandas de la justicia divina. Amulek también enfatiza la importancia de la oración constante en todas las circunstancias de la vida."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Liahona, noviembre de 2017, pág. 62",
+      "texto": "El Libro de Mormón brinda el entendimiento más pleno y autorizado acerca de la Expiación de Jesucristo que se pueda encontrar; enseña el verdadero significado de nacer de nuevo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&id=p36#p36"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 34:9-10",
+          "texto": "Es necesario que se realice una expiación infinita y eterna, pues a menos que fuese infinita, esta corrupción no podría vestirse de incorrupción.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p9-p10#p9"
+        },
+        {
+          "referencia": "Alma 34:14",
+          "texto": "Todo ápice de la ley señala hacia ese gran y postrer sacrificio; y ese gran y postrer sacrificio será el Hijo de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p14#p14"
+        },
+        {
+          "referencia": "Alma 34:15",
+          "texto": "Traerá la salvación a todos los que crean en su nombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p15#p15"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Según Amulek, ¿por qué era necesario que la expiación fuera 'infinita y eterna'?",
+        "¿Cómo te ayuda el testimonio de Amulek a comprender mejor el sacrificio expiatorio?",
+        "¿De qué formas específicas podrías expresar gratitud por la expiación en tu vida diaria?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Después de que Alma enseña sobre la fe como una semilla, ¿qué compañero misionero toma la palabra en el capítulo 34 para explicar por qué es necesaria la expiación?",
+      "options": [
+        "Corianton",
+        "Ammón",
+        "Amulek",
+        "Helamán"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "Según Alma 34:10, ¿qué característica específica del sacrificio que se requiere hace que ningún ser humano pueda ofrecerlo por otro?",
+      "options": [
+        "Que debe repetirse cada año",
+        "Que tiene que hacerse en el templo",
+        "Que debe ser un sacrificio infinito y eterno",
+        "Que solo un profeta puede ofrecerlo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "Amulek enseña que un hombre no puede expiar por su propia sangre ni por la de otro (Alma 34:9–11), aunque fuera un sacrificio 'no contaminado'. ¿Por qué esto muestra la necesidad de que sea el Hijo de Dios quien lo haga?",
+      "options": [
+        "Porque un sacrificio humano, por más puro que fuera, sigue siendo finito, y la justicia exige algo mayor que toda la creación",
+        "Porque los sacerdotes de esa época no estaban capacitados",
+        "Porque la ley de Moisés prohibía cualquier sacrificio humano",
+        "Porque solo Dios cuenta con la riqueza necesaria para pagar la deuda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "Amulek enumera varios momentos y motivos para orar: por las cosechas, los rebaños, la casa, contra el poder del enemigo, e incluso por quienes nos persiguen (Alma 34:17–27). ¿Qué enseña esta lista sobre la oración?",
+      "options": [
+        "Que solo se debe orar en ocasiones formales y programadas",
+        "Que la oración debe abarcar todos los aspectos de la vida diaria, no solo los momentos de crisis",
+        "Que orar por los enemigos es innecesario",
+        "Que las oraciones largas son más efectivas que las cortas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Mateo solo ora cuando tiene un problema grande, como un examen difícil o una pelea con un amigo. Según el patrón de oración que enseña Amulek en Alma 34, ¿qué le sugerirías?",
+      "options": [
+        "Que deje de orar por cosas pequeñas porque le quita tiempo a Dios",
+        "Que solo ore los domingos como parte del culto",
+        "Que está bien, porque para eso sirve la oración",
+        "Que amplíe su oración a lo cotidiano: agradecer, pedir por su familia, por sus decisiones diarias, no solo por emergencias"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Camila piensa que como Cristo ya pagó por todos los pecados, ella puede seguir pecando sin preocuparse demasiado. Según lo que enseña Amulek sobre el sacrificio infinito, ¿por qué esa idea no refleja el principio de la lección?",
+      "options": [
+        "Porque solo los adultos pueden acceder a la expiación",
+        "Porque Amulek nunca habló sobre el perdón de los pecados",
+        "Porque el sacrificio infinito hace posible el arrepentimiento genuino, pero no elimina la responsabilidad personal de buscarlo con sinceridad",
+        "Porque en realidad el sacrificio de Cristo fue limitado y no cubre todos los pecados"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la enseñanza sobre el sacrificio infinito como el llamado a orar en todo momento apuntan a una misma verdad sobre la relación entre Dios y las personas. ¿Cuál es esa verdad común?",
+      "options": [
+        "Que dependemos por completo de Dios: tanto para nuestra salvación eterna como para lo cotidiano de cada día",
+        "Que la oración y la expiación son temas sin relación entre sí",
+        "Que solo los sacerdotes pueden acercarse verdaderamente a Dios",
+        "Que Dios está distante y solo interviene en ocasiones extraordinarias"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

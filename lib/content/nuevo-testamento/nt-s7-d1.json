@@ -1,0 +1,39 @@
+{
+  "id": "nt-s7-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el deseo misericordioso del Salvador según Mateo 18:11?",
+      "options": [
+        "Juzgar a los pecadores.",
+        "Salvar lo que se había perdido.",
+        "Castigar a los injustos.",
+        "Ser el rey de los romanos."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo se siente el Padre Celestial si uno de estos pequeños se pierde?",
+      "options": [
+        "Indiferente.",
+        "No es Su voluntad que se pierda ni uno solo.",
+        "Enojado.",
+        "Satisfecho."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué representa la oveja descarriada según Isaías y el manual?",
+      "options": [
+        "Solo a las personas malas.",
+        "A cada uno de nosotros.",
+        "Únicamente a los fariseos.",
+        "A los niños pequeños."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

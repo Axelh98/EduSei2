@@ -1,0 +1,56 @@
+{
+  "id": "leccion-182",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué el cuerpo físico es considerado sagrado según las Escrituras?",
+      "options": [
+        "Porque es el cuerpo más inteligente de la Creación.",
+        "Porque es el templo del Espíritu Santo y fue creado a imagen de Dios.",
+        "Porque sin él no podríamos ganar dinero."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué relación tiene la Palabra de Sabiduría con cuidar el cuerpo?",
+      "options": [
+        "Es solo una lista de alimentos prohibidos.",
+        "Es una ley de salud revelada por el Señor para proteger y fortalecer nuestro cuerpo y mente.",
+        "Solo aplica a los adultos mayores."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué incluye cuidar bien el cuerpo según esta lección?",
+      "options": [
+        "Solo evitar el alcohol y el tabaco.",
+        "Dormir lo suficiente, comer saludablemente, hacer ejercicio y evitar sustancias dañinas.",
+        "Solo hacer ejercicio físico intenso."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cómo influye el estado físico de tu cuerpo en tu capacidad espiritual?",
+      "options": [
+        "No tiene ninguna influencia; lo espiritual es completamente independiente.",
+        "Un cuerpo bien cuidado puede estar más receptivo a las impresiones del Espíritu Santo.",
+        "Solo importa si eres misionero."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué promesas hace el Señor a quienes guardan la Palabra de Sabiduría?",
+      "options": [
+        "Que nunca enfermarán.",
+        "Que recibirán salud en el ombligo y médula en los huesos, sabiduría y grandes tesoros de conocimiento.",
+        "Que vivirán exactamente 100 años."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

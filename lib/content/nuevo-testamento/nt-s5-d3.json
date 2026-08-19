@@ -1,0 +1,39 @@
+{
+  "id": "nt-s5-d3",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la frase clave de Juan 3:16?",
+      "options": [
+        "\"Yo soy la luz del mundo\".",
+        "\"Porque de tal manera amó Dios al mundo que ha dado a su Hijo Unigénito\".",
+        "\"Nacer de agua y del Espíritu\".",
+        "\"Venid a mí\"."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué principio de conocimiento espiritual nos invita a considerar conceptos en el contexto del Plan de Salvación?",
+      "options": [
+        "Actuar con fe.",
+        "Analizar conceptos con una perspectiva eterna.",
+        "Fuentes seculares.",
+        "Sabiduría humana."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo ayuda el \"actuar con fe\" a Sarai en su situación difícil?",
+      "options": [
+        "Haciéndola olvidar sus errores.",
+        "Invitándola a confiar en Dios y hablar con sus padres a pesar del miedo.",
+        "Dándole respuestas automáticas sin esfuerzo.",
+        "Evitando cualquier consecuencia legal."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "39b-dc-25-parte-2",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Imaginá una caja que representa tu vida. Traés objetos que representan tus intereses: una pelota de fútbol, el cuaderno de la escuela, el celular, las Escrituras, la familia. Hay más objetos que espacio. ¿Qué elegís poner adentro? ¿Qué dejás afuera?",
+        "Esa imagen es el núcleo de D&C 25 Parte 2. El Señor le dijo a Emma: 'procura las cosas de un mundo mejor' (v. 10). No le dijo que eliminara todo lo temporal; le pidió que ordenara bien sus prioridades. Lo que el mundo ofrece no es malo en sí; el problema es cuando desplaza a lo eterno.",
+        "Está revelación aplica a cualquier adolescente que tiene más demandas que tiempo y energía: escuela, amistades, redes sociales, familia, iglesia, deportes. Todos compiten. El Señor no pide que abandones tus intereses; pide que no 'codicies' lo temporal hasta el punto de dejar afuera lo que realmente importa. Matthew 6:19–21 y 2 Nefi 9:51 dicen exactamente lo mismo que el Señor le dijo a Emma."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 25:10",
+          "texto": "Y deja a un lado las cosas de este mundo y busca las cosas de un mundo mejor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Doctrina y Convenios 25:15",
+          "texto": "Ten paciencia hasta que vengas a mí, y obtendrás una corona de rectitud. Y el bien que hagas en mi nombre será contado para ti y para tu posteridad después de ti.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "Mateo 6:19–21",
+          "texto": "No os hagáis tesoros en la tierra, donde la polilla y el orín corrompen, y donde ladrones minan y hurtan; sino haceos tesoros en el cielo, donde ni la polilla ni el orín corrompen, y donde ladrones no minan ni hurtan. Porque donde esté vuestro tesoro, allí estará también vuestro corazón.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/6?lang=spa&id=p19-p21#p19"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El Señor invita a Emma —y a todos— a dejar de lado las cosas de este mundo y buscar las de un mundo mejor. Eso no significa renunciar a todo lo temporal; significa no aferrarse a lo temporal al punto de perder lo eterno. La promesa de D&C 25:15 es hermosa: el bien que hagamos será contado para nosotros y para nuestra posteridad. Esta semana, revisá tus prioridades reales. ¿Hay algo que necesitás dejar a un lado para dar más espacio a lo que realmente importa?"
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Si tu vida fuera esa caja y tuvieras que elegir qué poner adentro, ¿qué dejarías afuera? ¿Eso refleja tus prioridades reales?",
+        "¿Qué crees que significa 'dejar a un lado las cosas de este mundo'? ¿Es posible sin volverse extremista?",
+        "¿Hay algo en tu vida ahora mismo que está ocupando un lugar que debería tener otra cosa más importante?",
+        "¿Cómo se conecta el consejo del Señor a Emma en D&C 25:10 con lo que Jesús enseña en Mateo 6:19–21?",
+        "¿Qué cambio concreto en tus prioridades podrías hacer esta semana para buscar más 'las cosas de un mundo mejor'?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "D&C 25:10 dice 'deja a un lado las cosas de este mundo y busca las cosas de un mundo mejor'. ¿Qué cosas del mundo de un adolescente de hoy podrían estar ocupando espacio que debería tener algo más importante?",
+      "options": [
+        "Los libros de texto y los deberes escolares",
+        "El tiempo en redes sociales, los videojuegos, o el entretenimiento que desplaza lo espiritual",
+        "Las relaciones con los padres y hermanos",
+        "Las actividades deportivas y los pasatiempos sanos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "El Señor no le dijo a Emma que abandonara todo lo temporal, sino que no 'codiciara' esas cosas. ¿Qué diferencia hay entre disfrutar algo temporal y codiciarlo?",
+      "options": [
+        "No hay diferencia real, todo uso de bienes temporales es codicia en algún grado",
+        "Codiciar es cuando lo temporal desplaza lo eterno como prioridad central de la vida",
+        "Codiciar solo aplica al dinero y no a otras cosas como el tiempo o la atención",
+        "La diferencia la determina cuánto dinero vale el objeto o la actividad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Hay algo en tu vida ahora mismo que está ocupando un lugar que debería tener algo más importante? ¿Cómo te das cuenta de eso?",
+      "options": [
+        "Cuando los demás me lo señalan directamente",
+        "Cuando noto que invierto más tiempo y energía en eso que en lo que realmente importa",
+        "Cuando el obispo me habla sobre el tema en una entrevista",
+        "Cuando siento culpa después de la Santa Cena"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Mateo 6:19–21 dice 'donde esté vuestro tesoro, allí estará también vuestro corazón'. ¿Qué dice eso sobre la relación entre lo que elegimos priorizar y quiénes llegamos a ser?",
+      "options": [
+        "Que el corazón sigue automáticamente al dinero sin importar lo que hagamos",
+        "Que nuestras prioridades forman nuestro carácter, y lo que elegimos valorar define quiénes somos",
+        "Que solo las personas ricas tienen el corazón en el lugar equivocado",
+        "Que el corazón y el tesoro son metáforas sin aplicación práctica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué cambio concreto en tus prioridades podrías hacer esta semana para buscar más las 'cosas de un mundo mejor'?",
+      "options": [
+        "Eliminar completamente cualquier actividad de entretenimiento",
+        "Reducir el tiempo en una actividad que desplaza lo espiritual y usarlo en algo que edifique",
+        "Esperar a tener más fuerza de voluntad antes de cambiar hábitos",
+        "Pedir al obispo que me dé una lista de cosas permitidas y no permitidas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "D&C 25:15 dice que el bien que hagamos 'será contado para nosotros y para nuestra posteridad'. ¿Qué perspectiva agrega eso a las decisiones pequeñas que tomamos hoy?",
+      "options": [
+        "Que debemos preocuparnos principalmente por el bienestar de nuestros hijos futuros",
+        "Que incluso las decisiones pequeñas de hoy tienen un impacto que va más allá de lo que podemos ver",
+        "Que solo las decisiones grandes importan en el registro eterno",
+        "Que no importa equivocarse porque Dios lo borrará del registro de todas formas"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

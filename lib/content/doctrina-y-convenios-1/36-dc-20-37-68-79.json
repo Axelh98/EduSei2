@@ -1,0 +1,122 @@
+{
+  "id": "36-dc-20-37-68-79",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "¿Cuándo fue la última vez que escuchaste las palabras de la oración de la Santa Cena con atención real? ¿Sabés de memoria qué prometés cada semana al tomarla?",
+        "En D&C 20, el Señor no solo organizó la Iglesia; definió con precisión las condiciones del bautismo y dictó las palabras exactas de las oraciones de la Santa Cena. Esas oraciones no son fórmulas ceremoniales vacías: son convenios concretos que cada miembro renueva cada domingo.",
+        "El versículo 37 establece lo que se requiere para ser bautizado: humildad, arrepentimiento, corazón quebrantado, testimonio ante la Iglesia, y voluntad de servir hasta el fin. Las oraciones de los versículos 77 y 79 repiten exactamente esos mismos compromisos. El diseño es deliberado: el bautismo no se repite, pero los convenios del bautismo sí —cada semana, en la Santa Cena. Cuando un alumno entiende esto, el servicio sacramental deja de ser rutina y se convierte en el momento espiritual más importante de la semana."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 20:37",
+          "texto": "Y nuevamente, por la gracia del Señor se bautizará: y esto a todos los que se humillen ante Dios y deseen ser bautizados, y que vengan con corazones quebrantados y espíritus contrites, y que ante la Iglesia den testimonio de que verdaderamente se han arrepentido de todos sus pecados, y están dispuestos a tomar sobre sí el nombre de Jesucristo, habiendo resuelto servirle hasta el fin.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa&id=p37#p37"
+        },
+        {
+          "referencia": "Doctrina y Convenios 20:77",
+          "texto": "Oh Dios, Padre Eterno, te pedimos en el nombre de tu Hijo, Jesucristo, que bendigas y santifiques este pan para las almas de todos los que participen de él; para que lo coman en recuerdo del cuerpo de tu Hijo, y sean testigos ante ti, oh Dios, Padre Eterno, que están dispuestos a tomar sobre sí el nombre de tu Hijo, y que siempre se acuerden de él, y guarden sus mandamientos que les ha dado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa&id=p77#p77"
+        },
+        {
+          "referencia": "Doctrina y Convenios 20:79",
+          "texto": "Oh Dios, Padre Eterno, te pedimos en el nombre de tu Hijo Jesucristo, que bendigas y santifiques esta agua para las almas de todos los que beban de ella; para que lo hagan en recuerdo de la sangre de tu Hijo, la cual fue derramada por ellos; para que sean testigos ante ti, oh Dios, Padre Eterno, que siempre se acuerden de él, a fin de que puedan tener su Espíritu consigo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa&id=p79#p79"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "Cuando te hayas convertido — Conferencia General, abril de 2004",
+      "texto": "Al buscar la bendición de la conversión, puedes brindar al Señor la ofrenda de tu corazón quebrantado o arrepentido y tu espíritu contrito u obediente. En realidad, es la ofrenda de ti mismo, de lo que eres y de lo que estás llegando a ser",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2004/04/when-thou-art-converted?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Las oraciones de la Santa Cena contienen los convenios exactos del bautismo. Cada domingo, la Santa Cena da la oportunidad de renovar esa relación con Cristo y recibir la promesa de Su Espíritu. Cuando participamos conscientemente —no de forma mecánica— esa renovación es real. Este domingo, escuchá las palabras de la oración con atención y decidí si estás cumpliendo lo que te comprometiste a hacer."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez escuchaste las palabras de la oración de la Santa Cena con atención real? ¿Qué notaste al releerlas hoy?",
+        "¿Cuáles son los tres compromisos que hacemos al participar de la Santa Cena, según D&C 20:77 y 79?",
+        "¿Qué diferencia habría en tu experiencia del servicio sacramental si entraras con la intención consciente de renovar tus convenios?",
+        "¿Cómo podés prepararte mejor durante la semana para participar de la Santa Cena de forma más significativa?",
+        "Elegí uno de los tres compromisos de la Santa Cena y decidí cómo lo vivirás de forma más concreta esta semana."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuándo fue la última vez que escuchaste las palabras de la oración de la Santa Cena con atención real? ¿Qué notaste al releerlas hoy en D&C 20:77 y 79?",
+      "options": [
+        "Que son palabras genéricas sin un significado específico para cada persona",
+        "Que contienen tres compromisos muy concretos que hacemos ante Dios cada semana",
+        "Que son oraciones de agradecimiento principalmente",
+        "Que solo aplican a los que acaban de bautizarse"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según D&C 20:37, ¿cuáles son los requisitos del corazón para ser bautizado?",
+      "options": [
+        "Tener la edad suficiente y haber tomado las lecciones misionales completas",
+        "Humillarse ante Dios, arrepentirse, venir con corazón quebrantado y espíritu contrito",
+        "Conocer de memoria los artículos de fe y la historia de la Iglesia",
+        "Tener padres miembros activos que respalden la decisión"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué diferencia habría en tu experiencia del servicio sacramental si entraras con la intención consciente de renovar tus convenios en lugar de solo esperar que termine?",
+      "options": [
+        "El servicio duraría más tiempo y sería más aburrido",
+        "Experimentaría el momento como un encuentro real con Cristo en lugar de un ritual rutinario",
+        "Necesitaría preparar un discurso antes de participar",
+        "Habría más presión para comportarme bien durante la reunión"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Las oraciones de la Santa Cena repiten los mismos compromisos del bautismo. ¿Qué dice eso sobre el propósito del diseño del Señor para esta ordenanza?",
+      "options": [
+        "Que el bautismo no fue suficiente como convenio permanente",
+        "Que el Señor quiso que renováramos voluntariamente nuestros convenios cada semana",
+        "Que la Santa Cena reemplaza al bautismo para quienes pecan gravemente",
+        "Que la memoria humana es tan corta que necesitamos recordatorios frecuentes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "De los tres compromisos de la Santa Cena (tomar el nombre de Cristo, siempre recordarle, guardar Sus mandamientos), ¿cuál es el que más te cuesta cumplir durante la semana?",
+      "options": [
+        "Tomar Su nombre, porque no sé exactamente qué significa en la práctica",
+        "Siempre recordarle, porque el día a día me absorbe y lo dejo en un segundo plano",
+        "Guardar Sus mandamientos, porque algunos me parecen difíciles o poco relevantes",
+        "Los tres me resultan igual de fáciles de cumplir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "La promesa de D&C 20:79 es que tendremos 'Su Espíritu consigo' si cumplimos los compromisos de la Santa Cena. ¿Cómo se vería eso de forma concreta en tu semana?",
+      "options": [
+        "Tener más suerte en los exámenes de la escuela",
+        "Sentir más paz en las decisiones, más discernimiento ante las tentaciones y más claridad espiritual",
+        "No sentir ninguna emoción negativa durante siete días",
+        "Ver señales y milagros visibles como confirmación"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

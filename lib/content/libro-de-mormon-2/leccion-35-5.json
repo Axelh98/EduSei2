@@ -1,0 +1,89 @@
+{
+  "id": "leccion-35-5",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Los nefitas se dirigen a una destrucción segura. Mormón, sintiendo compasión a pesar de su iniquidad, vuelve a liderarlos, pero sabe que es en vano porque no se arrepienten. La gran batalla final se libra en Cumorah, donde cientos de miles de nefitas son masacrados. Mormón lamenta la caída de su 'pueblo hermoso' por haber rechazado a Jesucristo con el corazón abierto."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mormón 6:17",
+          "texto": "¡Oh pueblo hermoso, cómo pudisteis apartaros de las vías del Señor! ¡Oh pueblo hermoso, cómo pudisteis rechazar a ese Jesús que esperaba con los brazos abiertos para recibiros!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Mormón 6:22",
+          "texto": "Porque he aquí, habéis partido, y el Padre sabe que no sois; sí, con él os ha ido de acuerdo con su justicia...",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=spa&id=p22#p22"
+        }
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué nos enseñan los lamentos de Mormón sobre el dolor que sienten Dios y Sus profetas cuando pecamos?",
+        "¿Cómo te sientes al saber que Jesús siempre espera 'con los brazos abiertos'?",
+        "¿Qué acciones puedes tomar para nunca 'apartarte de las vías del Señor'?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Dónde fue la batalla final de los nefitas?",
+      "options": [
+        "Zarahemla",
+        "Cumorah",
+        "Abundancia",
+        "Jerusalén"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuántos nefitas murieron en la batalla final?",
+      "options": [
+        "Cientos",
+        "Decenas de miles, casi toda la nación",
+        "Pocos",
+        "Ninguno"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué hizo Mormón con los registros?",
+      "options": [
+        "Los destruyó",
+        "Los escondió en el cerro Cumorah",
+        "Los quemó",
+        "Los vendió"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Quién sobrevivió para terminar el registro?",
+      "options": [
+        "Mormón",
+        "Moroni",
+        "Nefi",
+        "Helamán"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué causó la destrucción final de los nefitas?",
+      "options": [
+        "Guerra externa",
+        "Su extrema iniquidad y rechazo de Dios",
+        "Terremotos",
+        "Enfermedades"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

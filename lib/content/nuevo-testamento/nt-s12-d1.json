@@ -1,0 +1,61 @@
+{
+  "id": "nt-s12-d1",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿A qué comparó Pablo su vida pasada y sus logros mundanos frente a conocer a Cristo?",
+      "options": [
+        "A un gran tesoro.",
+        "A pérdida y a basura.",
+        "A una corona de oro.",
+        "A un camino fácil."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál era el objetivo principal de Pablo según Filipenses 3:10?",
+      "options": [
+        "Volverse el hombre más rico.",
+        "Conocer a Cristo y el poder de Su resurrección.",
+        "Ser el líder de los fariseos.",
+        "Viajar a Roma por diversión."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué actitud recomendó Pablo hacia los errores o el pasado?",
+      "options": [
+        "Recordarlos siempre con amargura.",
+        "Olvidar lo que queda atrás y extenderse a lo que está delante.",
+        "Dejar de esforzarse.",
+        "Culpar a los demás."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es el \"premio\" que Pablo buscaba alcanzar?",
+      "options": [
+        "Una medalla de plata.",
+        "El supremo llamamiento de Dios en Cristo Jesús.",
+        "La aprobación de los romanos.",
+        "Una vida larga en la tierra."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Dónde dijo Pablo que está nuestra verdadera \"ciudadanía\"?",
+      "options": [
+        "En Jerusalén.",
+        "En Roma.",
+        "En los cielos.",
+        "En cada nación del mundo."
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

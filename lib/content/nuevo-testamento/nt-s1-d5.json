@@ -1,0 +1,61 @@
+{
+  "id": "nt-s1-d5",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es uno de los dos fines principales del Dominio de la doctrina?",
+      "options": [
+        "Memorizar fechas históricas.",
+        "Ayudar a los alumnos a edificar su fundamento sobre Jesucristo.",
+        "Ganar concursos de conocimiento.",
+        "Aprender a debatir con otras religiones."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué significa \"dominar\" la doctrina en este programa?",
+      "options": [
+        "Solo saber el número de página del versículo.",
+        "Conocer, explicar y poner en práctica la doctrina en la vida diaria.",
+        "Leer el pasaje una vez al mes.",
+        "Repetirlo sin entender el significado."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿A qué comparó el élder Scott el memorizar un pasaje de las Escrituras?",
+      "options": [
+        "A hacer una tarea aburrida.",
+        "A crear una nueva amistad.",
+        "A llenar un recipiente de agua.",
+        "A aprender una fórmula matemática."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué principio NO forma parte de adquirir conocimiento espiritual?",
+      "options": [
+        "Actuar con fe.",
+        "Consultar fuentes solo en redes sociales.",
+        "Analizar conceptos con perspectiva eterna.",
+        "Procurar comprensión mediante fuentes divinas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué advirtió el élder Andersen sobre los \"torbellinos espirituales\"?",
+      "options": [
+        "Que son fenómenos meteorológicos.",
+        "Que pueden desarraigar a las personas de sus cimientos espirituales.",
+        "Que no afectan a los jóvenes de hoy.",
+        "Que solo ocurren en ciertos países."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

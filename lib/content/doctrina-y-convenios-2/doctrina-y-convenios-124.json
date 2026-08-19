@@ -1,0 +1,61 @@
+{
+  "id": "doctrina-y-convenios-124",
+  "secciones": [],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué tipos de llamamientos se confirman o asignan en DyC 124?",
+      "options": [
+        "Llamamientos en el sacerdocio y oficios de liderazgo",
+        "Solo llamamientos misionales",
+        "Solo llamamientos temporales",
+        "Ningún llamamiento"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué enseña DyC 124 acerca de la importancia de las ordenanzas del templo?",
+      "options": [
+        "Son necesarias para la exaltación",
+        "Son solo tradiciones culturales",
+        "No afectan la salvación",
+        "Pueden posponerse indefinidamente"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "¿Qué advertencia da el Señor respecto a quienes rechazan Su obra?",
+      "options": [
+        "Perderán bendiciones si persisten en la desobediencia",
+        "Serán inmediatamente castigados",
+        "No habrá consecuencias",
+        "Serán reemplazados sin efecto"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué relación establece DyC 124 entre sacrificio y bendición?",
+      "options": [
+        "Las bendiciones del templo requieren sacrificio y obediencia",
+        "Las bendiciones se reciben sin esfuerzo",
+        "El sacrificio no es necesario",
+        "El sacrificio es opcional"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "¿Qué enseñanza general transmite DyC 124 en su totalidad?",
+      "options": [
+        "El Señor organiza Su Iglesia y revela ordenanzas mediante el templo",
+        "La obra del Señor depende del poder político",
+        "La obediencia no es esencial",
+        "Las ordenanzas cambian con el tiempo"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

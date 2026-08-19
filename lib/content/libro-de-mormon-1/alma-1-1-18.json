@@ -1,0 +1,138 @@
+{
+  "id": "alma-1-1-18",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Al comenzar el gobierno de los jueces, surge un desafío interno a la Iglesia y a la libertad del pueblo: Nehor. Las supercherías sacerdotales consisten en predicar para obtener provecho y alabanza del mundo, en lugar de buscar la salvación de las almas. Nehor enseñaba que todo el género humano sería salvo en el postrer día sin necesidad de arrepentimiento. Esta falsa doctrina no solo distorsiona la naturaleza de la Expiación, sino que promueve una apatía espiritual peligrosa. Como advierte el élder D. Todd Christofferson, Mormón incluyó el relato de Nehor en el Libro de Mormón para advertirnos, sabiendo que esa filosofía volvería a surgir en nuestros días."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 1:12",
+          "texto": "Y [Alma] le dijo: He aquí, esta es la primera vez que se han introducido las supercherías sacerdotales entre este pueblo. Y he aquí, no solo sois culpables de supercherías sacerdotales, sino que habéis tratado de hacerlas cumplir mediante la espada.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=spa&id=p12#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "Liahona, noviembre de 2011, pág. 38 (discurso \"El divino don del arrepentimiento\")",
+      "texto": "El Libro de Mormón contiene el relato de un hombre llamado Nehor. Es fácil entender por qué Mormón, al compendiar mil años de registros nefitas, pensara que era importante incluir algo acerca de este hombre y la influencia perdurable de su doctrina. Mormón estaba tratando de advertirnos, sabiendo que esa filosofía volvería a surgir en nuestros días.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-divine-gift-of-repentance?lang=spa&id=p3#p3"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La lección de Nehor nos advierte sobre la sutileza del orgullo. La verdadera enseñanza del Evangelio siempre nos invita al arrepentimiento y a la humildad ante Dios. Cuando identificamos que estamos buscando nuestro propio beneficio o prestigio en lugar de la edificación del reino, es momento de corregir el rumbo y volver a centrar nuestro corazón en Cristo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo podemos distinguir entre la predicación inspirada y las enseñanzas que solo buscan 'popularidad'?",
+        "¿Por qué es tan peligroso enseñar que podemos ser salvos sin arrepentimiento?",
+        "¿De qué manera la humildad nos protege contra la trampa de las supercherías sacerdotales?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué enseñaba Nehor que era falso?",
+      "type": "multiple",
+      "options": [
+        "Que los sacerdotes debían trabajar con sus propias manos como el resto del pueblo",
+        "Que solo debía haber un sacerdote para toda la nación",
+        "Que todos los sacerdotes debían hacerse populares y vivir del sustento del pueblo",
+        "Que los sacerdotes debían renunciar a cualquier tipo de reconocimiento público"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 1:3",
+      "explanation": "Nehor enseñaba que todos los sacerdotes debían hacerse populares y vivir del sustento del pueblo, sin trabajar."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué son las 'supercherías sacerdotales'?",
+      "type": "multiple",
+      "options": [
+        "Enseñar la verdad de las Escrituras sin recibir ningún pago",
+        "Servir desinteresadamente a la congregación sin buscar reconocimiento",
+        "Orar en público para que otros vean nuestra devoción",
+        "Predicar por dinero y popularidad en vez de por amor a Dios"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 1:16",
+      "explanation": "Las supercherías sacerdotales son predicar por dinero y popularidad en vez de por amor a Dios."
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo se enfrentó Alma a las enseñanzas de Nehor?",
+      "type": "multiple",
+      "options": [
+        "Prefirió ignorar el problema para evitar conflictos",
+        "Defendió la verdad y estableció la ley contra las supercherías",
+        "Decidió unirse temporalmente a las ideas de Nehor",
+        "Huyó de la ciudad para no tener que enfrentarlo"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 1:12",
+      "explanation": "Alma defendió la verdad y estableció una ley contra las supercherías sacerdotales."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué enseñaba Nehór que era contrario a la doctrina de Cristo?",
+      "type": "multiple",
+      "options": [
+        "Que todos debían pagar impuestos adicionales para el templo",
+        "Que no existía ningún tipo de vida después de la muerte",
+        "Que las Escrituras debían reescribirse cada generación",
+        "Que todos serían salvos sin importar cómo vivieran"
+      ],
+      "correctAnswer": 3,
+      "reference": "Alma 1:4",
+      "explanation": "Nehor enseñaba que todos serían salvos sin importar cómo vivieran, contrario a la doctrina de Cristo."
+    },
+    {
+      "id": 5,
+      "question": "Bruno ve que un influencer popular dice que 'todos van al cielo sin importar cómo vivan' y muchos lo siguen. ¿Qué enseñanza de Nehor se parece a esto?",
+      "type": "multiple",
+      "options": [
+        "Que todos serían salvos sin importar cómo vivieran, lo cual Alma corrigió como falso",
+        "Que debemos vivir con rectitud para ser salvos",
+        "Que solo los sacerdotes pueden ser salvos",
+        "Que la salvación depende de la riqueza de la persona"
+      ],
+      "correctAnswer": 0,
+      "reference": "Alma 1:4",
+      "explanation": "Nehor enseñaba que todos serían salvos sin importar cómo vivieran, doctrina que Alma corrigió como falsa."
+    },
+    {
+      "id": 6,
+      "question": "Victoria conoce a alguien que predica solo para ganar dinero y fama. ¿Qué le ayudaría a identificar esto según Alma 1?",
+      "type": "multiple",
+      "options": [
+        "Que es una forma válida de servicio si logra convencer a otros",
+        "Reconocer las supercherías sacerdotales: predicar por dinero y popularidad en vez de amor a Dios",
+        "Que no hay ningún problema mientras la gente escuche el mensaje",
+        "Que solo es un problema si el predicador comete un delito"
+      ],
+      "correctAnswer": 1,
+      "reference": "Alma 1:16",
+      "explanation": "Las supercherías sacerdotales consisten en predicar por dinero y popularidad en lugar de amor a Dios."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué conecta la falsa doctrina de Nehor sobre la salvación universal con su forma de ejercer el sacerdocio por dinero?",
+      "type": "multiple",
+      "options": [
+        "No tienen relación entre sí",
+        "Solo la doctrina sobre la salvación era realmente dañina",
+        "Ambas buscaban el beneficio personal de Nehor en lugar de la verdad y el bienestar del pueblo",
+        "Ambas eran enseñanzas verdaderas mal interpretadas por el pueblo"
+      ],
+      "correctAnswer": 2,
+      "reference": "Alma 1",
+      "explanation": "Ambas enseñanzas de Nehor buscaban su beneficio personal en lugar de la verdad y el bienestar del pueblo."
+    }
+  ]
+}

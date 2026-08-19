@@ -1,0 +1,117 @@
+{
+  "id": "67-evalua-aprendizaje-4",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta instancia cierra el cuarto bloque del año, que cubrió D&C 41–50: los principios fundamentales de la ley de la Iglesia (D&C 42), la consagración y el cuidado de los pobres, la intercesión del Salvador por nosotros (D&C 45), las señales de los tiempos y la preparación espiritual, y los dones del Espíritu (D&C 46 y 50). La evaluación espiritual genuina no mide cuántos versículos memorizaste sino cuánto de lo que aprendiste está cambiando quién sos. Esta es también una oportunidad para revisar los pasajes del Dominio de la Doctrina del bloque y establecer metas espirituales concretas para el siguiente."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 45:57",
+          "texto": "Porque aquellas que son sabias y han recibido la verdad, y han tomado al Espíritu Santo por su guía... sobrevivirán.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=spa&id=p57#p57"
+        },
+        {
+          "referencia": "Doctrina y Convenios 50:24",
+          "texto": "El que recibe la Palabra de Dios recibe luz; y el que recibe luz y continúa en Dios recibe más luz.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p24#p24"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El cuarto bloque presentó al Salvador como Intercesor (D&C 45:3–5), las señales de los tiempos como confirmación de la fe y no como fuente de miedo, y los dones del Espíritu como herramientas de servicio mutuo. Si algo de esto cambió algo en vos — en cómo ves al Salvador, en cómo te preparás, en cómo usás tus dones — ese es el aprendizaje real. Establecé una meta espiritual concreta para el próximo bloque que sea tuya."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál fue la enseñanza de este bloque que más te impactó personalmente, y cómo cambió algo en vos?",
+        "De los principios estudiados — intercesión del Salvador, señales de los tiempos, dones del Espíritu, discernimiento — ¿cuál aplicás más en tu vida diaria?",
+        "¿Qué pasaje del Dominio de la Doctrina de este bloque podés usar con más confianza en una conversación real?",
+        "¿En qué área de tu vida espiritual ves luz creciendo, como describe D&C 50:24?",
+        "¿Qué meta espiritual específica y alcanzable te ponés para el próximo bloque de estudio?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "De las semanas 11–12, ¿a cuál de estos principios pertenece la frase 'todo lo que no edifica no viene de Dios'?",
+      "options": [
+        "Al criterio de D&C 50:23 para discernir si una manifestación o enseñanza viene del Espíritu.",
+        "Al principio sobre la importancia de la asistencia a las reuniones.",
+        "Al principio sobre cómo buscar los dones con diligencia en D&C 46.",
+        "Al principio del examen de preparación de D&C 9."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "D&C 50:24 describe la luz del Señor creciendo 'hasta el día perfecto'. ¿Qué condición activa ese crecimiento según el versículo?",
+      "options": [
+        "Recibir la Palabra de Dios — y continuar en Dios después de recibirla.",
+        "Ayunar semanalmente y asistir a todas las reuniones sin faltar.",
+        "Memorizar los versículos del Dominio de la Doctrina del semestre.",
+        "Tener un llamamiento activo en la Iglesia que requiera servicio regular."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "D&C 46 y D&C 49 tratan temas aparentemente distintos — dones espirituales y corrección doctrinal. ¿Qué preocupación común del Señor revela el hecho de que ambas revelaciones se dieran en el mismo período?",
+      "options": [
+        "Que el Señor quería establecer todas las leyes de la Iglesia antes de moverse a Misuri.",
+        "Que la Iglesia en Ohio enfrentaba simultáneamente confusión espiritual interna y error doctrinal externo — y el Señor respondió ambos con revelación directa.",
+        "Que D&C 46 y 49 son repeticiones del mismo principio expresadas de manera diferente.",
+        "Que el Señor prefería dar revelaciones largas para cubrir múltiples problemas a la vez."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la diferencia entre buscar los 'mejores dones' (D&C 46:8) y simplemente esperar que el Señor los asigne sin buscarlos?",
+      "options": [
+        "No hay diferencia — el Señor los asigna independientemente de si los buscamos.",
+        "Buscar activamente implica orar, identificar la necesidad de quienes nos rodean y actuar con los dones que ya tenemos mientras pedimos los que necesitamos.",
+        "Solo los líderes deben buscar dones; los miembros comunes deben esperar la asignación.",
+        "Buscar los dones es una señal de ambición espiritual que el Señor desaprueba."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Valentina siente que las semanas 11–12 del Seminario le enseñaron mucho sobre discernimiento y dones, pero no sabe cómo aplicarlo esta semana. ¿Cuál sería la aplicación más directa y concreta?",
+      "options": [
+        "Escribir un ensayo sobre D&C 46 y 50 para el maestro de Seminario.",
+        "Identificar un don que tiene, buscar a alguien que lo necesite, y usar el criterio de 'edificar' para evaluar una influencia espiritual en su vida esta semana.",
+        "Hablar con el obispo sobre sus dones espirituales para que los registre formalmente.",
+        "Esperar a la siguiente evaluación para decidir cómo aplicar lo aprendido."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Nicolás tiene miedo de que su fe 'no sea suficiente' porque no ha tenido experiencias espirituales dramáticas. ¿Qué le dice D&C 50:24 directamente a esa angustia?",
+      "options": [
+        "Que tiene razón en preocuparse — las experiencias dramáticas son evidencia necesaria de la fe.",
+        "Que la luz crece gradualmente — el problema no es la ausencia de experiencias dramáticas sino si cada día está eligiendo recibir la Palabra y continuar en el Señor.",
+        "Que debería buscar experiencias más intensas para confirmar su fe.",
+        "Que la fe sin experiencias visibles no es válida para la vida eterna."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Las semanas 11–12 cubrieron dones espirituales (D&C 46), discernimiento (D&C 50) y corrección doctrinal (D&C 49). ¿Cuál es el principio unificador de esas tres secciones?",
+      "options": [
+        "Que el Señor estableció en ese período todas las reglas de conducta necesarias para la Iglesia.",
+        "Que la organización formal de la Iglesia es más importante que las manifestaciones espirituales individuales.",
+        "Que las revelaciones de ese período aplican solo al contexto histórico de Ohio en 1831.",
+        "Que el Espíritu Santo es el árbitro de lo que es genuino — en los dones, en la enseñanza y en la doctrina — y el discípulo fiel aprende a reconocer Su presencia por los frutos que produce."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}
