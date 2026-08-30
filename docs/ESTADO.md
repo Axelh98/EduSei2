@@ -9,6 +9,11 @@ Documento de traspaso entre sesiones. Cubre dos trabajos:
 > commit que cubre la reestructuración y la auditoría de citas.
 > El plan original está en `~/.claude/plans/bubbly-pondering-puzzle.md`.
 
+> 🗺️ Desde agosto de 2026 también hay auditoría de **referencias de Escritura** y de
+> **completitud de contenido** (contexto/cuestionario/conclusión/quiz), además de la de citas de
+> líder que cubre este documento. El estado de las tres, curso por curso, está consolidado en
+> [`auditorias/PLAN-DE-AUDITORIA.md`](auditorias/PLAN-DE-AUDITORIA.md) — abrí ese archivo primero.
+
 ---
 
 # 1. Reestructuración del almacenamiento — TERMINADA
@@ -275,16 +280,32 @@ agosto de 2026 al discutir cómo dejar que un auditor externo revise el sitio:
 
 | Elemento | Cantidad | Verificable contra | Estado |
 |---|---:|---|---|
-| Referencias de Escritura | **1207** (80 sin `link`) | Las Escrituras | **nunca auditado** |
+| Referencias de Escritura | **1207** (80 sin `link`) | Las Escrituras | **196 auditadas (16 %)** — ver abajo |
 | Preguntas de quiz | 3770 | La lección | nunca auditado |
 | Citas de líderes | 470 | churchofjesuschrist.org | 76 % |
 | Bloques de `contexto` | 425 | Criterio doctrinal | nunca auditado |
 | Cuestionarios de reflexión | 425 | Criterio pedagógico | nunca auditado |
 | `conclusion` | 316 | Criterio doctrinal | nunca auditado |
 
-**Las 1207 referencias de Escritura son el próximo bloque obvio**: es el grupo más
-grande, el más fácil de verificar (texto del versículo contra la edición oficial) y
-tiene 80 casos sin `link` que se pueden listar en un comando.
+### Referencias de Escritura — arrancado en Doctrina y Convenios 1 (agosto de 2026)
+
+Detalle completo en `docs/auditorias/AUDITORIA-escrituras-DyC1.md`. Las 196 citas de
+`doctrina-y-convenios-1` quedaron verificadas (✅ cerrado); `doctrina-y-convenios-2` no
+tiene todavía material de repaso, así que no hay nada que auditar ahí. A diferencia de
+las citas de líder, acá el `link` casi siempre existe de entrada — el trabajo es
+comparar el `texto` contra el versículo real, no buscar la fuente. El resultado fue
+sorprendente: **174 de las 196 citas (89 %) tenían el texto alterado** respecto del
+original — la inmensa mayoría paráfrasis no marcada del versículo correcto, y un grupo
+menor con la `referencia`/ancla apuntando a un versículo distinto del citado (p. ej.
+D&C 78:13–14 en el archivo resultó ser en realidad D&C 78:6 y 14). Un puñado de casos
+tenía contenido que no aparece en ningún lugar del capítulo citado (D&C 64:23 hablaba
+de diezmo, no de ayuno, como decía el archivo). Ninguna cita resultó ser de un libro o
+capítulo equivocado — el error dominante fue de fidelidad textual, no de fabricación.
+
+**Quedan sin auditar ~1011 de las 1207 referencias de Escritura**: Libro de Mormón,
+Antiguo/Nuevo Testamento y Religión 200/225/250/301. El método de DyC-1 (descargar el
+capítulo, comparar por contención de segmentos y por recall de palabras, buscar en todo
+el capítulo antes de concluir que el texto no existe) es reutilizable tal cual.
 
 ### Si hay que darle el contenido a un auditor externo
 

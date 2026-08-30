@@ -3,29 +3,29 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Los sacerdotes del rey Noé afirmaban enseñar la ley de Moisés, pero no la vivían. Abinadí les enseñó que los mandamientos de Dios no debían ser solo palabras repetidas, sino principios grabados en el corazón. El profeta recitó los Diez Mandamientos y enseñó que la obediencia verdadera nace de una relación sincera con Dios. Muchas personas conocen los mandamientos intelectualmente, pero el Señor desea que estos transformen el corazón y el carácter. Como enseñó el élder Dallin H. Oaks, ni siquiera nuestra obediencia y buenas obras bastan para salvarnos de los efectos del pecado sin la gracia que se extiende por medio de la Expiación de Jesucristo. Abinadí confrontó la hipocresía de los sacerdotes y mostró que la religión vacía no puede salvar. Jesucristo desea discípulos convertidos, no solo personas religiosas externamente. Esta lección invita a reflexionar si los mandamientos realmente gobiernan nuestras decisiones diarias."
+      "contenido": "Los sacerdotes del rey Noé se consideraban expertos en la ley de Moisés, pero Abinadí, ya capturado y a punto de ser juzgado, les demostró con una sola pregunta que conocían la letra de la ley sin vivir su espíritu: '¿Por qué entregáis vuestros corazones a las riquezas? ¿Por qué cometéis fornicaciones...?'. Ellos podían recitar los mandamientos de memoria, pero su vida diaria los contradecía punto por punto. Para dejarlo en claro, Abinadí recitó los Diez Mandamientos completos y explicó que Dios no los entregó para que fueran solo palabras aprendidas, sino principios grabados en el corazón, tal como el profeta Jeremías había anunciado siglos antes: una ley escrita no en tablas de piedra, sino en la mente y el corazón del pueblo. La obediencia verdadera, enseñó Abinadí, nace de una relación sincera con Dios, no de la repetición mecánica de reglas aprendidas de memoria. Como explicó la presidenta Bonnie L. Oscarson, es posible vivir el Evangelio 'mecánicamente' solo porque es la cultura en la que uno se crio, sin que realmente llegue al corazón. Esa es exactamente la diferencia entre un joven que va al Seminario porque sus padres lo llevan y uno que decide ir porque él mismo quiere aprender más de Cristo: ambos pueden estar en la misma sala, escuchando las mismas palabras, pero solo uno de los dos las está dejando entrar al corazón."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
           "referencia": "Mosíah 12:34",
-          "texto": "¿Enseñáis vosotros esta ley y no la guardáis?",
+          "texto": "Yo soy el Señor tu Dios, que te he sacado de la tierra de Egipto, de la casa de servidumbre.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/12?lang=spa&id=p34#p34"
         },
         {
           "referencia": "Mosíah 13:12",
-          "texto": "Honra a tu padre y a tu madre.",
+          "texto": "Ahora bien, recordaréis que os dije: No te harás ninguna imagen tallada, ni ninguna semejanza de cosas que estén arriba en el cielo, o que estén abajo en la tierra, o en las aguas debajo de la tierra.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/13?lang=spa&id=p12#p12"
         },
         {
           "referencia": "Mosíah 13:24",
-          "texto": "La salvación no viene solamente por la ley.",
+          "texto": "No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su criado, ni su criada, ni su buey, ni su asno, ni cosa alguna que sea de tu prójimo.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/13?lang=spa&id=p24#p24"
         },
         {
           "referencia": "Jeremías 31:33",
-          "texto": "Pondré mi ley en su mente, y la escribiré en su corazón.",
+          "texto": "Mas este es el convenio que haré con la casa de Israel después de aquellos días, dice Jehová: Pondré mi ley en su mente y la escribiré en sus corazones; y yo seré su Dios, y ellos serán mi pueblo.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=spa&id=p33#p33"
         }
       ]
@@ -44,11 +44,12 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué significa para ti tener los mandamientos escritos en el corazón?",
-        "¿Cuál es la diferencia entre conocer un mandamiento y vivirlo?",
-        "¿Cómo cambia la obediencia cuando nace del amor a Dios?",
-        "¿Qué mandamiento sientes que necesitas internalizar más profundamente?",
-        "¿Cómo puede Jesucristo ayudarte a cambiar tu corazón?"
+        "¿Cuál es la diferencia entre conocer un mandamiento y vivirlo realmente, en tus propias palabras?",
+        "De los Diez Mandamientos, ¿cuál te parece que más fácilmente se guarda por fuera sin llegar a vivirse con el corazón?",
+        "¿Alguna vez sentiste que estabas 'cumpliendo' algo por fuera sin que realmente te importara por dentro?",
+        "¿Qué mandamiento sentís que necesitás internalizar más profundamente, no solo cumplir?",
+        "¿Qué podrías hacer esta semana para que ese mandamiento pase de ser una regla a algo que realmente querés vivir?",
+        "¿Cómo puede ayudarte Jesucristo esta semana a cambiar tu corazón respecto a ese mandamiento en concreto?"
       ]
     }
   ],

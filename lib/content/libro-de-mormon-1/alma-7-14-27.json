@@ -3,19 +3,19 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Después de enseñar acerca de la Expiación de Jesucristo, Alma invitó al pueblo de Gedeón a arrepentirse y vivir rectamente. Les enseñó la importancia del bautismo, la humildad, la paciencia y la fe. Alma describió atributos cristianos que deben caracterizar a los discípulos de Jesucristo, incluyendo bondad, mansedumbre y amor. También expresó gozo porque el pueblo estaba esforzándose por vivir fielmente. Alma enseñó que debemos prepararnos espiritualmente para comparecer ante Dios siendo hallados sin mancha en el último día. Esta preparación ocurre diariamente mediante el arrepentimiento y la obediencia constante."
+      "contenido": "Después de enseñar acerca de la Expiación de Jesucristo, Alma invitó al pueblo de Gedeón a arrepentirse y a nacer de nuevo, siendo bautizados para arrepentimiento como muestra visible de un cambio real de vida. Les explicó que nada impuro puede heredar el reino de Dios, así que debían despojarse de todo lo que los mantenía atados al pecado. A diferencia de lo que había encontrado en Zarahemla, Alma sintió gran gozo al ver que el pueblo de Gedeón ya andaba por el camino de la rectitud, humilde y dispuesto a escuchar. Por eso pudo enseñarles, con más detalle, los atributos que deben caracterizar a un discípulo de Jesucristo: ser sumisos, dóciles, fáciles de tratar, pacientes, moderados en todo, diligentes en guardar los mandamientos, y siempre agradecidos con Dios por lo que reciben. Añadió que debían tener fe, esperanza y caridad, para poder abundar siempre en buenas obras. Alma enseñó que quienes viven así no sufrirán ninguna herida en el alma, salvo la que provenga de su propio pecado, y por eso podrán levantar la cabeza con confianza en el día del juicio. Terminó su discurso pronunciando sobre ellos una bendición de paz, para sus familias, sus tierras y sus rebaños, según su fe y sus buenas obras. Esta preparación espiritual no ocurre de un día para el otro: se construye diariamente, con decisiones pequeñas de arrepentimiento y obediencia, como elegir la honestidad en un examen o pedir perdón después de una pelea con un hermano."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
           "referencia": "Alma 7:14",
-          "texto": "Venid y no temáis, y desechad todo pecado que fácilmente os envuelve.",
+          "texto": "Ahora os digo que debéis arrepentiros y nacer de nuevo; pues el Espíritu dice que si no nacéis otra vez, no podéis heredar el reino de los cielos. Venid, pues, y sed bautizados para arrepentimiento, a fin de que seáis lavados de vuestros pecados, para que tengáis fe en el Cordero de Dios, que quita los pecados del mundo, que es poderoso para salvar y para limpiar de toda iniquidad.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p14#p14"
         },
         {
           "referencia": "Alma 7:23",
-          "texto": "Y ahora quisiera que fueseis humildes y sumisos, gentiles; fáciles de persuadir, llenos de paciencia y longanimidad.",
+          "texto": "Y ahora quisiera que fueseis humildes, que fueseis sumisos y dóciles; fáciles de ser tratables; llenos de paciencia y longanimidad; siendo moderados en todas las cosas; siendo diligentes en guardar los mandamientos de Dios en todo momento; pidiendo las cosas que necesitéis, tanto espirituales como temporales; siempre dando gracias a Dios por las cosas que recibís.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p23#p23"
         },
         {
@@ -25,7 +25,7 @@
         },
         {
           "referencia": "Alma 7:27",
-          "texto": "Y que tengáis paz, hijos míos.",
+          "texto": "Y ahora bien, repose sobre vosotros la paz de Dios, y sobre vuestras casas y tierras, y sobre vuestros rebaños y manadas y todo cuanto poseáis, sobre vuestras mujeres y vuestros hijos, según vuestra fe y buenas obras, desde ahora en adelante y para siempre. Y así he dicho. Amén.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p27#p27"
         }
       ]
@@ -44,11 +44,12 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué atributo cristiano deseas desarrollar más actualmente?",
-        "¿Cómo te ayuda la Expiación a permanecer espiritualmente limpio?",
-        "¿Qué significa para ti vivir sin mancha delante de Dios?",
-        "¿Cómo puedes aumentar tu fe, esperanza y caridad?",
-        "¿Qué decisiones diarias te ayudan a acercarte más a Jesucristo?"
+        "¿Cuál de los atributos que menciona Alma —humildad, paciencia, fe, esperanza o caridad— sentís que ya tenés más desarrollado?",
+        "En una sola frase, ¿qué significa 'ser hallado sin mancha' ante Dios?",
+        "¿Alguna vez sentiste que no ibas a ser 'suficientemente bueno' para Dios sin importar cuánto te esforzaras?",
+        "¿Notaste algún cambio real en vos cuando decidiste practicar la paciencia o la humildad en una situación difícil?",
+        "Esta semana, ¿qué atributo concreto —paciencia, humildad, gratitud— vas a practicar de manera intencional, y en qué situación?",
+        "¿A quién podrías agradecerle esta semana, siguiendo el ejemplo de Alma 7:23 de 'siempre dar gracias a Dios'?"
       ]
     }
   ],

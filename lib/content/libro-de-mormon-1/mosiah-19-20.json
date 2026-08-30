@@ -3,24 +3,24 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Las decisiones pecaminosas siempre producen consecuencias espirituales y temporales. Después de rechazar las advertencias del profeta Abinadí, el pueblo del rey Noé comenzó a experimentar sufrimiento, división y destrucción. Los lamanitas atacaron la tierra y muchos nefitas fueron llevados a la esclavitud. El rey Noé intentó salvarse abandonando a su propio pueblo, lo que finalmente llevó a su muerte. A pesar de estas tragedias, algunos comenzaron a humillarse y reconocer la necesidad de arrepentirse. Esta historia muestra cómo el pecado endurece el corazón y aleja de Dios, pero también enseña que el arrepentimiento sincero abre la puerta a la misericordia divina. El Señor desea salvarnos de las consecuencias eternas del pecado y guiarnos nuevamente hacia la paz."
+      "contenido": "Cuando el profeta Abinadí anunció que el rey Noé moriría como muere la paja en el fuego, pocos imaginaron que la profecía se cumpliría tan pronto. En Mosíah 19, los lamanitas invadieron la tierra y Noé, lleno de miedo, ordenó a su pueblo huir al desierto. Cuando los hombres no lograron llevar a sus familias con la rapidez que él exigía, el rey les mandó que abandonaran a sus esposas e hijos para salvarse ellos mismos. Los hombres se negaron y, furiosos con Noé por haberlos puesto en tanto peligro, terminaron dándole muerte por fuego, cumpliéndose así la profecía de Abinadí. Con Noé muerto, su hijo Limhi tomó el trono y aceptó pagar tributo a los lamanitas para tener paz, aunque esa paz resultó frágil. En Mosíah 20 se cuenta un episodio anterior: unos sacerdotes de Noé, escondidos en el desierto, secuestraron a un grupo de doncellas lamanitas para tener esposas. Cuando el rey lamanita descubrió a sus hijas desaparecidas, culpó al pueblo de Limhi y estuvo a punto de destruirlo, hasta que la verdad salió a la luz y evitó una guerra mayor. Toda esta historia muestra cómo el pecado de un líder termina afectando a personas que ni siquiera participaron de esa decisión. A vos también te puede pasar: una mentira de un amigo, una mala decisión de alguien del grupo, y de repente todos cargan con las consecuencias. Por eso Dios insiste tanto en elegir bien a quiénes seguís y en no callar cuando ves que algo anda mal."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
           "referencia": "Mosíah 19:20",
-          "texto": "El pueblo comenzó a arrepentirse de la iniquidad que había cometido.",
+          "texto": "Y el rey les mandó que no volvieran; y se enojaron con el rey, e hicieron que padeciera, aun hasta la muerte por fuego.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/19?lang=spa&id=p20#p20"
         },
         {
           "referencia": "Mosíah 20:21",
-          "texto": "El Señor consideró apropiado castigar a su pueblo.",
+          "texto": "¿Pues no se han cumplido las palabras de Abinadí que él profetizó contra nosotros? Y todo esto porque no quisimos oír las palabras del Señor, ni abandonar nuestras iniquidades.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=spa&id=p21#p21"
         },
         {
           "referencia": "Alma 41:10",
-          "texto": "La iniquidad nunca fue felicidad.",
+          "texto": "No vayas a suponer, porque se ha hablado concerniente a la restauración, que serás restaurado del pecado a la felicidad. He aquí, te digo que la maldad nunca fue felicidad.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p10#p10"
         }
       ]
@@ -46,11 +46,12 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué consecuencias produjo el pecado en el pueblo del rey Noé?",
-        "¿Por qué el arrepentimiento trae paz y esperanza?",
-        "¿Cómo demuestra esta historia la justicia y misericordia de Dios?",
-        "¿Qué advertencias proféticas necesitas tomar más seriamente?",
-        "¿Qué cambios puedes hacer para acercarte más al Señor?"
+        "¿Con qué personaje de esta historia te identificás más: con los hombres que se cansaron de soportar a un mal líder, con Limhi, o con el pueblo que tuvo que pagar por errores que no cometió?",
+        "¿Qué palabra usarías para describir lo que sintió el pueblo del rey Noé cuando por fin quedó libre de su liderazgo?",
+        "¿Alguna vez terminaste cargando las consecuencias de una decisión que tomó otra persona, aunque vos no tuvieras la culpa?",
+        "¿Hubo algún momento en que ver sufrir a otros por seguir a un mal líder o a una mala influencia te hizo abrir los ojos sobre tu propia vida?",
+        "Pensando en las voces que seguís cada día (amigos, redes, series, líderes de la Iglesia), ¿a cuál de ellas vas a prestarle menos atención esta semana?",
+        "¿Qué decisión pequeña podés tomar esta semana para no repetir un error que ya viste que le costó caro a otra persona?"
       ]
     }
   ],

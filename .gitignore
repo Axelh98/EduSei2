@@ -14,8 +14,14 @@ coverage/
 *.log
 *.tsbuildinfo
 *.lock
+# Caché de auditorías (páginas descargadas y reportes, se regeneran)
+.cache/
+
 # env local
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Videos pesados (no deben subirse a git)
+*.mp4

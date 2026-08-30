@@ -3,24 +3,24 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Después de creer las enseñanzas de Abinadí, Alma huyó y comenzó a enseñar el Evangelio en secreto. Muchas personas escucharon sus palabras y fueron a las Aguas de Mormón para ser bautizadas. Allí Alma enseñó acerca del convenio bautismal y explicó que quienes desean seguir a Jesucristo deben estar dispuestos a llevar las cargas unos de otros, llorar con los que lloran y consolar a quienes necesitan consuelo. El bautismo representa mucho más que una ordenanza; es un convenio sagrado de discipulado con Dios. Quienes hacen este convenio prometen seguir a Jesucristo y servir a los demás. A cambio, el Señor promete derramar Su Espíritu sobre ellos y prepararlos para la vida eterna."
+      "contenido": "Alma había sido uno de los sacerdotes del rey Noé, pero cuando escuchó a Abinadí testificar sobre Jesucristo, creyó cada palabra y comenzó a escribirlas en secreto. Cuando el rey ordenó matarlo por defender a Abinadí, Alma tuvo que huir y esconderse cerca de un lugar llamado Mormón, un bosque con un manantial de agua pura, lo suficientemente apartado como para enseñar sin ser descubierto. Allí, de a poco, cientos de personas empezaron a llegar a escucharlo, atraídas por lo que había escrito de las palabras de Abinadí. Cuando ya eran muchos los que creían, Alma los invitó a bautizarse en las aguas de Mormón como señal de un convenio: llevar las cargas de otros para que fueran más livianas, llorar con los que lloran, consolar a los que sufren, y ser testigos de Dios en todo lugar y en todo tiempo. Después del bautismo organizó la Iglesia de Cristo, escogió un sacerdote por cada cincuenta personas, y les pidió que enseñaran solo lo que el Señor les revelara y que trabajaran para sostenerse a sí mismos, sin vivir a costa del pueblo. Toda esta comunidad tuvo que reunirse y actuar en secreto, bajo el riesgo de que el rey los descubriera, y aun así eligieron seguir adelante. Eso se parece a lo que capaz te pasa cuando tu fe no es la más popular en tu grupo de amigos o en tu colegio: no hace falta que todos piensen igual que vos para que valga la pena vivir el convenio que hiciste al bautizarte."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
           "referencia": "Mosíah 18:8",
-          "texto": "Estáis dispuestos a llevar las cargas los unos de los otros.",
+          "texto": "He aquí las aguas de Mormón (porque así se llamaban); y ya que deseáis entrar en el redil de Dios y ser llamados su pueblo, y estáis dispuestos a llevar las cargas los unos de los otros para que sean ligeras;",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=spa&id=p8#p8"
         },
         {
           "referencia": "Mosíah 18:9",
-          "texto": "Llorar con los que lloran; sí, y consolar a los que necesitan de consuelo.",
+          "texto": "sí, y estáis dispuestos a llorar con los que lloran; sí, y a consolar a los que necesitan de consuelo, y ser testigos de Dios en todo tiempo, y en todas las cosas y en todo lugar en que estuvieseis, aun hasta la muerte, para que seáis redimidos por Dios, y seáis contados con los de la primera resurrección, para que tengáis vida eterna;",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=spa&id=p9#p9"
         },
         {
           "referencia": "Mosíah 18:10",
-          "texto": "¿Qué tenéis contra el bautismo?",
+          "texto": "os digo ahora, si este es el deseo de vuestros corazones, ¿qué os impide ser bautizados en el nombre del Señor, como testimonio ante él de que habéis concertado un convenio con él de que lo serviréis y guardaréis sus mandamientos, para que él derrame su Espíritu más abundantemente sobre vosotros?",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=spa&id=p10#p10"
         }
       ]
@@ -46,11 +46,12 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué significa llevar las cargas de otras personas?",
-        "¿Cómo puedes cumplir mejor tus convenios bautismales?",
-        "¿Qué bendiciones has recibido por seguir a Jesucristo?",
-        "¿Por qué el servicio es parte esencial del bautismo?",
-        "¿Cómo puedes consolar a alguien esta semana?"
+        "Si hubieras estado entre la gente que escuchó a Alma junto a las aguas de Mormón, ¿qué parte del convenio te hubiera costado más aceptar: llevar cargas ajenas, llorar con los que lloran, o ser testigo de Dios en todo lugar?",
+        "¿Con qué palabras describirías vos, en una sola frase, lo que promete el convenio bautismal?",
+        "¿Alguna vez alguien te ayudó a llevar una carga sin que se lo pidieras, y te hizo sentir menos solo?",
+        "¿Hubo alguna vez que te costó ser testigo de Dios delante de tus compañeros, aunque fuera con algo pequeño?",
+        "¿A quién de tu grupo, familia o clase podrías ayudar a llevar una carga esta semana, aunque sea escuchándolo?",
+        "¿Qué momento concreto de esta semana (una reunión, un recreo, una conversación) vas a aprovechar para ser un testigo de Dios sin esconderlo?"
       ]
     }
   ],

@@ -3,24 +3,24 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "El Padre Celestial desea que reflexionemos regularmente sobre nuestro crecimiento espiritual. Evaluar nuestro aprendizaje nos ayuda a reconocer cómo el Evangelio está influyendo en nuestros pensamientos, sentimientos y acciones. Esta lección invita a los alumnos a repasar doctrinas y principios aprendidos recientemente en el Libro de Mormón y en los pasajes de Dominio de la doctrina. El objetivo no es solamente recordar información, sino fortalecer la conversión a Jesucristo. Cuando meditamos en lo que hemos aprendido y en cómo estamos cambiando, permitimos que el Espíritu Santo nos enseñe más profundamente. El repaso doctrinal también fortalece nuestra capacidad para explicar el Evangelio y defender la verdad. Esta lección ayuda a los estudiantes a reconocer evidencia del amor de Dios y del crecimiento espiritual en sus vidas."
+      "contenido": "Esta lección de repaso llega en un punto natural del curso para detenerse y evaluar con honestidad cómo ha cambiado la relación de cada alumno con Jesucristo desde que empezó el año. No se trata de compararse con los demás compañeros de la clase, sino de responder, en privado, la misma pregunta que Alma hizo a su pueblo: '¿Habéis experimentado este potente cambio en vuestros corazones?'. El repaso incluye también los pasajes de Dominio de la doctrina vistos hasta ahora, como 2 Nefi 32:3, sobre deleitarse en las palabras de Cristo, y Helamán 5:12, sobre edificar el fundamento espiritual sobre la roca del Redentor. Como enseñó el élder Dale G. Renlund, la invitación es a evaluar la vida, arrepentirse y seguir intentándolo, porque a Dios le importa más en quién nos estamos convirtiendo que en quién fuimos alguna vez. Para un joven que siente que este año no cambió mucho, o que incluso retrocedió en algunas áreas, esta lección es una oportunidad para mirar con calma los últimos meses, identificar un avance real por pequeño que sea, y decidir con qué actitud va a encarar lo que sigue del curso."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
           "referencia": "Alma 5:14",
-          "texto": "¿Habéis experimentado este potente cambio en vuestros corazones?",
+          "texto": "Y ahora os pregunto, hermanos míos de la iglesia: ¿Habéis nacido espiritualmente de Dios? ¿Habéis recibido su imagen en vuestros rostros? ¿Habéis experimentado este potente cambio en vuestros corazones?",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p14#p14"
         },
         {
           "referencia": "2 Nefi 32:3",
-          "texto": "Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+          "texto": "Los ángeles hablan por el poder del Espíritu Santo; por lo que declaran las palabras de Cristo. Por tanto, os dije: Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
         },
         {
           "referencia": "Helamán 5:12",
-          "texto": "Debéis edificar vuestro fundamento sobre la roca de nuestro Redentor.",
+          "texto": "Y ahora bien, recordad, hijos míos, recordad que es sobre la roca de nuestro Redentor, el cual es Cristo, el Hijo de Dios, donde debéis establecer vuestro fundamento, para que cuando el diablo lance sus impetuosos vientos, sí, sus dardos en el torbellino, sí, cuando todo su granizo y furiosa tormenta os azoten, esto no tenga poder para arrastraros al abismo de miseria y angustia sin fin, a causa de la roca sobre la cual estáis edificados, que es un fundamento seguro, un fundamento sobre el cual, si los hombres edifican, no caerán.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
         }
       ]
@@ -46,11 +46,12 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué doctrina reciente ha fortalecido más tu fe en Jesucristo?",
-        "¿Cómo has visto crecimiento espiritual en tu vida recientemente?",
-        "¿Por qué es importante evaluar nuestro progreso espiritual?",
-        "¿Qué principio del Evangelio necesitas aplicar más plenamente?",
-        "¿Cómo puede el repaso doctrinal ayudarte en momentos de dificultad?"
+        "Si tuvieras que ponerte una nota del 1 al 10 sobre tu año espiritual, sin pensarlo mucho, ¿qué número dirías?",
+        "¿Qué doctrina reciente te resultó más fácil de recordar este año?",
+        "¿Cómo has visto crecimiento espiritual en tu vida recientemente, aunque sea en algo pequeño?",
+        "¿Cómo te ayudó el repaso doctrinal en algún momento de dificultad real que hayas tenido?",
+        "¿Qué principio del Evangelio necesitás aplicar más plenamente esta semana, en una situación concreta?",
+        "¿Con quién podrías compartir esta semana en qué sentís que has crecido espiritualmente este año?"
       ]
     }
   ],

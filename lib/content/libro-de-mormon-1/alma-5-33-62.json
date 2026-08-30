@@ -3,29 +3,29 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Después de invitar al pueblo a examinar sus almas, Alma enseñó acerca del amor y la misericordia de Jesucristo. Explicó que el Salvador extiende una invitación a todos sin excepción: venir a Él y participar de las bendiciones de la redención. Alma utilizó la imagen del Buen Pastor para enseñar que Jesucristo conoce y cuida personalmente a Sus ovejas. También advirtió acerca de endurecer el corazón y posponer el arrepentimiento. Alma declaró con valentía que él sabía estas verdades por medio del Espíritu Santo y del ayuno y la oración. Su testimonio muestra que el conocimiento espiritual se obtiene mediante revelación personal. La invitación del Salvador sigue abierta hoy para todos los que estén dispuestos a arrepentirse y seguirle."
+      "contenido": "Después de invitar al pueblo de Zarahemla a examinar sus propias almas, Alma cambió el tono de su sermón y enseñó acerca del amor y la misericordia de Jesucristo. Explicó que el Salvador extiende Sus brazos de misericordia a todos, sin excepción, y que Su invitación es simple: arrepentíos, y os recibiré; venid a mí, y participaréis del fruto del árbol de la vida, y comeréis y beberéis libremente del pan y de las aguas de la vida. Alma utilizó la imagen del Buen Pastor para enseñar que Jesucristo conoce a cada una de Sus ovejas por su propio nombre y las llama personalmente a seguirlo; quien no responde a esa voz, advirtió, no pertenece a Su rebaño. También alertó sobre los peligros del orgullo, la envidia, la burla hacia los demás y la mentira, actitudes que impiden entrar en el redil de Dios. Con gran valentía, Alma declaró que él mismo sabía que estas cosas eran verdaderas, no por tradición ni por lo que otros le habían enseñado, sino porque el Espíritu Santo se lo había revelado después de muchos días de ayuno y oración. Su testimonio muestra que el conocimiento espiritual más firme se obtiene mediante la revelación personal, no solamente escuchando a otros. Alma terminó pidiendo al pueblo que saliera de entre los inicuos y se mantuviera aparte, consciente de que quizás esa fuera la última vez que les hablaría. La invitación del Buen Pastor sigue abierta hoy para todos los que estén dispuestos a escuchar Su voz y seguirlo, incluso cuando eso signifique alejarse de un grupo o de una costumbre que no está bien."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
           "referencia": "Alma 5:33-34",
-          "texto": "He aquí, él os envía una invitación para venir a él y participar de la bondad de Dios.",
+          "texto": "He aquí, él invita a todos los hombres, pues a todos ellos se extienden los brazos de misericordia, y él dice: Arrepentíos, y os recibiré. Sí, dice él: Venid a mí, y participaréis del fruto del árbol de la vida; sí, comeréis y beberéis libremente del pan y de las aguas de la vida;",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p33-p34#p33"
         },
         {
           "referencia": "Alma 5:38",
-          "texto": "He aquí, os digo que el buen pastor os llama; sí, y en su propio nombre os llama.",
+          "texto": "He aquí, os digo que el buen pastor os llama; sí, y os llama en su propio nombre, el cual es el nombre de Cristo; y si no queréis dar oídos a la voz del buen pastor, al nombre por el cual sois llamados, he aquí, no sois las ovejas del buen pastor.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p38#p38"
         },
         {
           "referencia": "Alma 5:45-46",
-          "texto": "He aquí, os digo que yo sé por mí mismo que estas cosas son verdaderas... por el Espíritu Santo de Dios.",
+          "texto": "¿No suponéis que sé de estas cosas yo mismo? He aquí, os testifico que yo sé que estas cosas de que he hablado son verdaderas. Y, ¿cómo suponéis que yo sé de su certeza? He aquí, os digo que el Santo Espíritu de Dios me las hace saber. He aquí, he ayunado y orado muchos días para poder saber estas cosas por mí mismo. Y ahora sé por mí mismo que son verdaderas; porque el Señor Dios me las ha manifestado por su Santo Espíritu; y este es el espíritu de revelación que está en mí.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p45-p46#p45"
         },
         {
           "referencia": "Alma 5:57",
-          "texto": "Salid de entre los inicuos, y apartaos.",
+          "texto": "Y a todos vosotros que deseáis seguir la voz del buen pastor, ahora os digo: Salid de entre los inicuos, y conservaos aparte, y no toquéis sus cosas inmundas; pues he aquí, sus nombres serán borrados, a fin de que los nombres de los inicuos no sean contados entre los nombres de los justos, para que se cumpla la palabra de Dios, que dice: Los nombres de los inicuos no serán mezclados con los nombres de los de mi pueblo;",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p57#p57"
         }
       ]
@@ -51,11 +51,12 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué significa para ti que el Buen Pastor te llame personalmente?",
-        "¿Cómo has sentido la invitación de Jesucristo en tu vida?",
-        "¿Qué aprendemos del ejemplo de Alma acerca de obtener un testimonio?",
-        "¿Por qué es peligroso endurecer el corazón?",
-        "¿Qué puedes hacer para responder mejor a la invitación del Salvador?"
+        "¿Con qué imagen te quedás más de este pasaje: el árbol de la vida, el Buen Pastor, o el llamado por tu nombre?",
+        "En una sola frase, ¿qué significa que Jesucristo sea el 'Buen Pastor'?",
+        "¿Alguna vez sentiste que Dios te llamaba a volver, aunque te hubieras alejado un poco de la Iglesia o de un hábito espiritual?",
+        "¿Notaste alguna vez que el orgullo o la burla hacia otro te alejaban a vos mismo de sentir el Espíritu?",
+        "Esta semana, ¿de qué forma concreta podrías 'salir de entre los inicuos' sin dejar de tratar bien a nadie?",
+        "¿Qué decisión podrías tomar esta semana para escuchar más de cerca la voz del Buen Pastor, como leer un capítulo o hacer una oración más sincera?"
       ]
     }
   ],
