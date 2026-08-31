@@ -3,72 +3,128 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Esta lección proporciona un repaso de pasajes específicos de dominio de la doctrina. El propósito es fortalecer la memorización de las referencias escriturales y las frases clave, así como profundizar la comprensión de las doctrinas enseñadas. El repaso regular ayuda a retener el conocimiento y facilita el recuerdo de estos pasajes cuando se necesitan. También ofrece oportunidad para reflexionar sobre cómo estas doctrinas se han aplicado en la vida diaria."
+      "contenido": "Mientras Nefi camina hacia su casa después de predicar, el Señor le habla. Lo bendice por su fidelidad y le da un poder extraordinario: todo lo que selle en la tierra será sellado en el cielo. El Señor confía en Nefi porque sabe que no pedirá nada contrario a Su voluntad. Nefi recibe el poder del sacerdocio para sellar y desatar, similar al que el Salvador prometió a Pedro. Este capítulo ilustra las bendiciones que vienen por la fidelidad inquebrantable."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Helamán 10:4",
+          "texto": "Bienaventurado eres tú, Nefi, por las cosas que has hecho; porque he visto que has declarado infatigablemente a este pueblo la palabra que te he dado. Y no les has tenido miedo, ni te has afanado por tu propia vida, antes bien, has procurado mi voluntad y el cumplimiento de mis mandamientos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa&id=p4#p4"
+        },
+        {
+          "referencia": "Helamán 10:7–8",
+          "texto": "He aquí, te doy poder, de que cuanto sellares en la tierra, sea sellado en los cielos; y cuanto desatares en la tierra, sea desatado en los cielos; y así tendrás poder entre este pueblo. De manera que si dijeres a este templo que se parta por la mitad, será hecho.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa&id=p7-p8#p7"
+        },
+        {
+          "referencia": "Helamán 10:11–16",
+          "texto": "He aquí, te doy poder para que declares ayunos a este pueblo; y te oirán.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa&id=p11-p16#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dale G. Renlund",
+      "fuente": "Conferencia General, abril de 2020",
+      "texto": "No buscamos cambiar Su voluntad, sino alinear nuestra voluntad con la Suya.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/26renlund?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El Señor le dio a Nefi un poder extraordinario —sellar en la tierra lo que sería sellado en el cielo— por una razón muy concreta: Nefi había alineado tanto su voluntad con la de Dios que no pediría nada contrario a Su voluntad. No era que Dios le concediera caprichos; era que los deseos de Nefi y los de Dios ya eran prácticamente los mismos. El élder Dale G. Renlund enseñó algo parecido: no buscamos cambiar la voluntad de Dios, sino alinear la nuestra con la Suya. Cuanto más conocés a Dios —Su carácter, Sus prioridades, Su amor— más se parecen tus propios deseos a los de Él. Esta semana, en lugar de pedirle a Dios que cambie tus circunstancias, preguntale qué es lo que Él querría que hicieras vos."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Cuáles de los pasajes repasados puedes citar de memoria?",
-        "¿En qué situaciones recientes has recordado o aplicado alguno de estos pasajes?",
-        "¿Qué estrategias de memorización te han funcionado mejor?"
+        "¿Qué fue lo que más te sorprendió del poder que el Señor le dio a Nefi en este capítulo?",
+        "Si tuvieras ese mismo poder de sellar, ¿en qué lo usarías primero?",
+        "¿Alguna vez sentiste que tus propios deseos estaban realmente alineados con lo que Dios querría para vos?",
+        "¿Qué te parece la enseñanza del élder Renlund de que no buscamos cambiar la voluntad de Dios, sino alinear la nuestra con la Suya?",
+        "¿Qué podés hacer esta semana para conocer mejor lo que Dios espera de vos, en lugar de solo pedirle lo que vos querés?",
+        "Pensando en la diligencia infatigable de Nefi, ¿qué compromiso espiritual concreto podés sostener esta semana sin dejarlo a medias?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué cualidad de Nefi destacó el Señor en Helamán 10:4?",
+      "question": "¿Qué bendición extraordinaria recibió Nefi del Señor en Helamán 10?",
       "options": [
-        "Su riqueza",
-        "Su incansable diligencia en buscar el bien del pueblo",
-        "Su fuerza",
-        "Su popularidad"
+        "El poder de sellar en la tierra, de modo que fuera sellado en el cielo",
+        "Riquezas materiales para él y su familia",
+        "Un cargo político de gran autoridad",
+        "Fama y reconocimiento inmediato entre su pueblo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué poder se le dio a Nefi?",
+      "question": "Según Helamán 10:4–5, ¿por qué decidió el Señor entregarle este poder a Nefi específicamente?",
       "options": [
-        "Poder militar",
-        "Poder de sellar en la tierra y en el cielo",
-        "Poder económico",
-        "Poder político"
+        "Porque pertenecía a una familia con mucha riqueza",
+        "Porque era el más anciano de su generación",
+        "Porque había declarado la palabra de Dios infatigablemente, sin miedo y sin buscar su propia vida",
+        "Porque tenía más experiencia militar que otros líderes"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Por qué el Señor confiaba en que Nefi usaría bien este poder?",
+      "question": "El Señor le dice a Nefi que 'todas las cosas te serán hechas según tu palabra... porque tú no pedirás lo que sea contrario a mi voluntad' (Helamán 10:5). ¿Qué principio doctrinal explica por qué Dios podía confiarle ese poder a Nefi?",
       "options": [
-        "Por su experiencia",
-        "Porque siempre haría lo que el Señor mandara",
-        "Por su educación",
-        "Por su edad"
+        "Que Dios entrega ese tipo de poder a cualquier persona que lo pida con suficiente insistencia",
+        "Que Nefi había memorizado fórmulas específicas para obtener lo que deseaba",
+        "Que el poder de sellar no tiene ninguna relación con el carácter espiritual de la persona que lo recibe",
+        "Que la voluntad de Nefi estaba tan alineada con la de Dios que sus peticiones ya reflejaban lo que Dios mismo quería"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué nos enseña sobre alinear nuestra voluntad con Dios?",
+      "question": "Nefi usó parte de este poder para declarar una hambruna que detuviera las guerras entre los nefitas (Helamán 11). ¿Qué revela esta decisión sobre cómo Nefi entendía el propósito del poder que había recibido?",
       "options": [
-        "Que no es necesario",
-        "Que cuando nuestra voluntad está alineada con Dios, Él puede bendecirnos plenamente",
-        "Que es imposible",
-        "Que no importa"
+        "Que buscaba usar el poder para beneficio personal antes que para el bienestar del pueblo",
+        "Que entendía que el poder recibido debía usarse para guiar al pueblo hacia el arrepentimiento y el bienestar colectivo, no para su propio beneficio",
+        "Que quería demostrar públicamente cuánto poder tenía",
+        "Que actuó sin ninguna reflexión sobre las consecuencias de sus decisiones"
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué tipo de persona puede recibir grandes bendiciones de Dios?",
+      "question": "Sofía ora todas las noches pidiéndole a Dios cosas que ella quiere, pero rara vez se detiene a preguntarle qué es lo que Él querría de ella. Según el ejemplo de Nefi y la enseñanza del élder Renlund, ¿qué podría cambiar en su manera de orar?",
       "options": [
-        "Los ricos",
-        "Los famosos",
-        "Los que incansablemente buscan hacer Su voluntad",
-        "Los poderosos"
+        "Dejar de orar hasta sentir que sus oraciones son escuchadas",
+        "Pedir cosas más grandes para asegurarse de que Dios las escuche",
+        "Buscar activamente conocer y alinear su voluntad con la de Dios, en lugar de solo pedir lo que ella quiere",
+        "Aceptar que la oración no tiene ninguna relación con la voluntad de Dios"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Luca dejó de orar con constancia porque siente que 'total, Dios ya sabe lo que necesito'. Según la diligencia infatigable de Nefi al declarar la palabra de Dios, ¿qué principio le ayudaría a reconsiderar su actitud?",
+      "options": [
+        "Que la constancia y la diligencia personal, como las de Nefi, son parte de cómo se construye una relación real con Dios, más allá de que Dios ya conozca sus necesidades",
+        "Que efectivamente ya no necesita orar si Dios conoce sus necesidades",
+        "Que la oración es solamente un formalismo sin ningún efecto real",
+        "Que Nefi oraba únicamente cuando tenía un problema urgente que resolver"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Tanto el poder de sellamiento que recibió Nefi como la enseñanza del élder Renlund sobre alinear nuestra voluntad con la de Dios comparten un mismo principio central. ¿Cuál es?",
+      "options": [
+        "Que el poder espiritual se entrega automáticamente a cualquier persona sin importar su carácter",
+        "Que cuanto más se alinea la voluntad de una persona con la de Dios, más se puede confiar en que sus decisiones y peticiones reflejen lo que Dios mismo desea",
+        "Que la voluntad de Dios y la voluntad humana son necesariamente siempre opuestas",
+        "Que alinear la propia voluntad con la de Dios elimina la necesidad de la oración personal"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

@@ -21,69 +21,105 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Merrill J. Bateman",
+      "fuente": "Conferencia General, octubre de 1992",
+      "texto": "Tener de vez en cuando un contacto ocasional con las Escrituras generalmente no abrirá las puertas a la inspiración del Espíritu.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/1992/10/coming-unto-christ-by-searching-the-scriptures?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cristo no le pide a Nefi que 'lea' las palabras de Isaías, le manda que las 'escudriñe diligentemente' — y cuando revisa los registros nefitas, corrige algo específico: faltaba escribir que muchos santos resucitaron y ministraron al pueblo después de la resurrección de Cristo. Ni el detalle más pequeño de un registro sagrado le resultaba indiferente. El élder Merrill J. Bateman enseñó que un contacto ocasional con las Escrituras generalmente no abre las puertas a la inspiración del Espíritu. Hay una diferencia real entre pasar la vista por un capítulo y realmente escudriñarlo, buscando algo que aplique a tu vida. Esta semana, elegí un solo versículo y escudriñalo de verdad: leelo más de una vez, preguntate qué te está diciendo a vos específicamente, y no solo qué dice en general."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Por qué crees que el Salvador dio el mandamiento de 'escudriñar' y no solo 'leer' las escrituras?",
+        "¿Por qué creés que el Salvador dio el mandamiento de 'escudriñar' y no solo 'leer' las escrituras?",
+        "Si tuvieras que describir tu propio estudio de las Escrituras en una palabra, ¿cuál sería: ocasional, constante, o en proceso?",
         "¿Qué nos enseña la corrección de Cristo a Nefi sobre la importancia de llevar un registro de nuestra vida espiritual?",
-        "¿Cómo puedes mejorar tu estudio personal de las Escrituras para que sea más profundo?"
+        "¿Alguna vez 'escudriñaste' un versículo y encontraste algo que no habías notado en lecturas anteriores?",
+        "Elegí un versículo esta semana para escudriñarlo de verdad, en lugar de solo leerlo. ¿Cuál elegís y cuándo lo vas a hacer?",
+        "¿Qué diferencia concreta notás entre los días en que 'leés' las Escrituras rápido y los días en que realmente las 'escudriñás'?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué cumplió Cristo con Su venida?",
+      "question": "Cuando Cristo revisa los registros nefitas, ¿qué descubre que faltaba escribir?",
       "options": [
-        "Nada",
-        "La ley de Moisés",
-        "Solo profecías menores",
-        "Tradiciones humanas"
+        "Una lista completa de las leyes civiles del pueblo",
+        "Las palabras de Samuel el Lamanita sobre los santos que resucitaron y ministraron al pueblo",
+        "El nombre de todos los reyes nefitas anteriores",
+        "Un mapa detallado de las tierras nefitas"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué ovejas mencionó Cristo que no eran de este redil?",
+      "question": "Según 3 Nefi 23:1, ¿qué palabra usa Cristo para describir cómo deben estudiarse los escritos de Isaías?",
       "options": [
-        "Animales",
-        "Las tribus perdidas de Israel",
-        "Los gentiles solamente",
-        "Nadie"
+        "Que basta con leerlos una sola vez, superficialmente",
+        "Que deben escudriñarse diligentemente",
+        "Que son opcionales para quienes ya conocen la doctrina",
+        "Que solo los eruditos deben estudiarlos"
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué ordenanza instituyó Cristo entre los nefitas?",
+      "question": "Cristo corrige a Nefi por una omisión específica en el registro, en lugar de dejarlo pasar por ser un detalle menor. ¿Qué principio revela esa corrección sobre la forma en que Dios ve los registros sagrados?",
       "options": [
-        "El matrimonio",
-        "La Santa Cena (sacramento)",
-        "Solo el bautismo",
-        "Ninguna"
+        "Que los detalles no importan mientras la idea general esté presente",
+        "Que cada parte de un registro sagrado importa, incluso lo que podría parecer un detalle secundario",
+        "Que Cristo estaba buscando un motivo para reprender a Nefi sin razón real",
+        "Que los registros nefitas no tenían ningún valor espiritual real"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué enseñó sobre orar?",
+      "question": "El élder Merrill J. Bateman enseñó que un contacto ocasional con las Escrituras generalmente no abre las puertas a la inspiración del Espíritu. ¿Qué distingue ese 'contacto ocasional' de 'escudriñar diligentemente'?",
       "options": [
-        "No orar",
-        "Orar siempre y velar",
-        "Orar solo los domingos",
-        "Orar una vez al año"
+        "No hay ninguna diferencia real entre ambas formas de acercarse a las Escrituras",
+        "La profundidad, la repetición y la intención de encontrar aplicación personal, no solo la cantidad de páginas leídas",
+        "Escudriñar diligentemente significa únicamente leer más rápido",
+        "El contacto ocasional es igual de efectivo si se hace todos los días"
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué registros mandó que se escribieran?",
+      "question": "Mateo lee un capítulo de las Escrituras cada noche, pero admite que casi nunca recuerda de qué trataba al día siguiente. Según la enseñanza de este pasaje sobre escudriñar diligentemente, ¿qué le convendría probar?",
       "options": [
-        "Ninguno",
-        "Las palabras de Samuel el Lamanita que faltaban",
-        "Solo genealogías",
-        "Leyes políticas"
+        "Dejar de leer, ya que claramente no le sirve de nada",
+        "Detenerse en un versículo puntual, releerlo y preguntarse qué le dice específicamente a él, en lugar de solo avanzar página tras página",
+        "Leer todavía más rápido para cubrir más capítulos por noche",
+        "Memorizar los capítulos de memoria sin pensar en su significado"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Valentina siente que escribir en su diario personal 'no tiene sentido' porque nadie más lo va a leer. Según el valor que Cristo le dio al registro nefita —incluso a un detalle que parecía menor—, ¿qué le podrías compartir?",
+      "options": [
+        "Que tiene razón, y que llevar un registro personal no tiene ningún valor real",
+        "Que un registro, aunque parezca pequeño o privado, puede tener un valor espiritual que ella todavía no alcanza a ver",
+        "Que solo los profetas deben llevar registros",
+        "Que un diario solo sirve si otras personas lo van a leer algún día"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto el mandamiento de escudriñar diligentemente las palabras de Isaías como la corrección de Cristo sobre el registro incompleto de Samuel enseñan algo en común sobre la relación de Dios con Su palabra escrita. ¿Cuál es?",
+      "options": [
+        "Que Dios espera un compromiso cuidadoso y atento, tanto al leer como al registrar Su palabra",
+        "Que los detalles de los registros sagrados no tienen relación con el estudio personal de las Escrituras",
+        "Que solo importa la cantidad de escrituras leídas, no la atención puesta en ellas",
+        "Que Cristo prioriza los registros históricos por sobre la aplicación personal de las Escrituras"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

@@ -6,13 +6,6 @@
       "contenido": "Después de que los zoramitas pobres son expulsados de sus lugares de adoración, Alma les enseña sobre el desarrollo de la fe. Utiliza la analogía de plantar una semilla para explicar cómo puede crecer un testimonio. Según Alma, no se requiere conocimiento perfecto para comenzar; basta tener el deseo de creer y estar dispuesto a experimentar con las enseñanzas. El capítulo describe paso a paso cómo una semilla de fe puede crecer hasta convertirse en un árbol que produce fruto."
     },
     {
-      "tipo": "enseñanza",
-      "autor": "Élder Richard G. Scott",
-      "fuente": "Liahona, enero de 2002",
-      "texto": "Un firme testimonio no se puede edificar sobre un cimiento débil; por eso, no pretendas creer en algo de lo cual no estés seguro. Busca recibir una confirmación ratificadora.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2002/01/the-power-of-a-strong-testimony?lang=spa&id=p22#p22"
-    },
-    {
       "tipo": "escrituras",
       "citas": [
         {
@@ -38,11 +31,25 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Richard G. Scott",
+      "fuente": "Liahona, enero de 2002",
+      "texto": "Un firme testimonio no se puede edificar sobre un cimiento débil; por eso, no pretendas creer en algo de lo cual no estés seguro. Busca recibir una confirmación ratificadora.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2002/01/the-power-of-a-strong-testimony?lang=spa&id=p22#p22"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Alma compara la fe con una semilla: no necesitás tener todas las respuestas para empezar, solo un deseo de creer. Si le das lugar en tu corazón a la palabra de Dios —la oración, las Escrituras, un mandamiento que te cuesta cumplir— y la nutrís con paciencia, vas a sentir cómo empieza a crecer: tu entendimiento se ilumina, tu alma se ensancha. La fe no es un golpe de suerte espiritual, es un proceso que vos podés empezar hoy mismo. Elegí un principio del evangelio que todavía no sentís como propio y hacé el experimento de Alma esta semana: dale lugar, cuidalo, y observá qué pasa."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué experiencias has tenido al 'experimentar' con principios del evangelio según describe Alma 32?",
-        "¿Qué prácticas has encontrado útiles para nutrir tu testimonio de manera constante?",
-        "Según la analogía de Alma, ¿en qué etapa de crecimiento se encuentra tu testimonio de algún principio específico?"
+        "Si tuvieras que explicarle a alguien qué es la fe usando la comparación de la semilla que hace Alma, ¿qué le dirías en una sola frase?",
+        "¿Qué fue lo que más te llamó la atención de la comparación entre la fe y una semilla?",
+        "¿Qué experiencias has tenido al 'experimentar' con algún principio del evangelio, como orar con sinceridad o leer las Escrituras por un tiempo?",
+        "Según la analogía de Alma, ¿en qué etapa de crecimiento dirías que está tu testimonio de algún principio específico ahora mismo?",
+        "¿Qué principio del evangelio elegís 'experimentar' esta semana, tal como sugiere Alma, y qué acción concreta vas a hacer para nutrirlo?",
+        "¿Hay alguna práctica espiritual que dejaste de 'nutrir' y que podrías retomar esta semana? ¿Cuál, y qué día la harías?"
       ]
     }
   ],

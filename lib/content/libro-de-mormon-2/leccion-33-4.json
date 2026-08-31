@@ -6,77 +6,118 @@
       "contenido": "El estudio profundo de este pasaje revela cómo la Expiación de Jesucristo tiene poder transformador. Reconocer nuestras debilidades no debería deprimirnos, sino llevarnos al Salvador. La gracia, que es el poder capacitador y la ayuda divina que proviene de Jesucristo, actúa en nosotros cuando somos humildes, cambiando literalmente nuestras limitaciones en herramientas poderosas para el bien."
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Dale G. Renlund",
+      "fuente": "Liahona, mayo de 2022",
+      "texto": "Un tropiezo no significa que el arrepentimiento fue inadecuado, simplemente podría reflejar debilidades humanas. Cuán reconfortante es saber que 'el Señor ve las debilidades de forma diferente a como ve la rebelión'. No debemos dudar de la capacidad del Salvador para ayudarnos con nuestras debilidades, porque 'cuando [Él] habla de debilidades, siempre lo hace con misericordia'.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/36renlund?lang=spa&id=p18#p18"
+    },
+    {
       "tipo": "escrituras",
       "citas": [
         {
           "referencia": "Éter 12:27",
-          "texto": "...porque si se humillan ante mí, y tienen fe en mí, entonces haré que las cosas débiles sean fuertes para ellos.",
+          "texto": "Doy a los hombres debilidad para que sean humildes; y mi gracia es suficiente para todos los hombres que se humillan ante mí; porque si se humillan ante mí, y tienen fe en mí, entonces haré que las cosas débiles sean fuertes para ellos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "2 Corintios 12:9",
+          "texto": "Y me ha dicho: Te basta mi gracia; porque mi poder se perfecciona en la debilidad. Por tanto, de buena gana me gloriaré más bien en mis debilidades, para que repose sobre mí el poder de Cristo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/12?lang=spa&id=p9#p9"
         }
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "Memorizar Éter 12:27 es tener a mano la respuesta exacta para el momento en que una debilidad propia te haga sentir que no valés lo suficiente. El versículo no promete que la debilidad va a desaparecer sola; promete que, si la llevás a Cristo con humildad y fe, Él la va a transformar. Pablo enseñó algo muy parecido siglos antes en 2 Corintios 12:9: el poder de Cristo se perfecciona precisamente en la debilidad, no en la ausencia de ella. Practicá esta semana decir de memoria Éter 12:27, y usalo la próxima vez que sientas vergüenza por algo que no te sale bien."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
+        "¿Ya tenías memorizado, aunque sea en parte, Éter 12:27 antes de esta lección?",
         "¿Podrías compartir alguna experiencia personal donde sentiste que una de tus debilidades se volvió una fortaleza con la ayuda de Dios?",
-        "¿Cómo mantienes la esperanza cuando sientes que tu progreso para vencer debilidades es lento?",
-        "¿Qué papel juega la fe en Jesucristo dentro del proceso de transformación personal?"
+        "¿Cómo mantenés la esperanza cuando sentís que tu progreso para vencer una debilidad es lento?",
+        "¿Qué papel juega la fe en Jesucristo dentro de ese proceso de transformación personal?",
+        "Elegí memorizar Éter 12:27 esta semana. ¿Qué método vas a usar: repetirlo en voz alta, escribirlo, ponerlo de fondo de pantalla?",
+        "¿A quién le podrías explicar esta semana, con tus propias palabras, que Dios ve las debilidades distinto de la rebelión?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "Según Éter 12:27, ¿por qué da Dios debilidades a los hombres?",
+      "question": "¿Cuál es la frase clave del pasaje de dominio de la doctrina de Éter 12:27?",
       "options": [
-        "Para castigarlos",
-        "Para que sean humildes",
-        "Sin propósito",
-        "Para hacerlos sufrir"
+        "'La maldad nunca fue felicidad'",
+        "Doy a los hombres debilidad para que sean humildes... haré que las cosas débiles sean fuertes para ellos",
+        "'Escogeos hoy a quién sirváis'",
+        "'Un sacrificio infinito y eterno'"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué es suficiente para los mansos?",
+      "question": "Según 2 Corintios 12:9, citado como apoyo de este dominio de la doctrina, ¿dónde se perfecciona el poder de Cristo?",
       "options": [
-        "Su propia fuerza",
-        "La gracia de Cristo",
-        "El dinero",
-        "El conocimiento"
+        "En la riqueza material",
+        "En la debilidad",
+        "Únicamente en los milagros públicos",
+        "En el conocimiento académico"
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Cómo se vuelven fuertes las cosas débiles?",
+      "question": "Éter 12:27 condiciona la promesa de fortalecer las debilidades a dos actitudes específicas: humillarse y tener fe. ¿Qué enseña esa condición sobre cómo funciona la gracia de Cristo en este proceso?",
       "options": [
-        "Por esfuerzo solo",
-        "Por la gracia de Cristo cuando somos humildes",
-        "Por suerte",
-        "Por el tiempo"
+        "Que la gracia actúa sin importar la actitud de la persona",
+        "Que la gracia de Cristo requiere una respuesta activa de humildad y fe, no solo esperar pasivamente el cambio",
+        "Que solo la fe es necesaria, sin ninguna relación con la humildad",
+        "Que la promesa se cumple automáticamente para todas las personas, sin ninguna condición"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué actitud debemos tener hacia nuestras debilidades?",
+      "question": "El élder Renlund enseñó que 'el Señor ve las debilidades de forma diferente a como ve la rebelión'. ¿Qué distinción hace esa enseñanza que ayuda a entender mejor Éter 12:27?",
       "options": [
-        "Ignorarlas",
-        "Humildad y fe en que Cristo puede hacerlas fortalezas",
-        "Orgullo",
-        "Desesperación"
+        "Que no existe ninguna diferencia entre una debilidad humana y un acto de rebeldía deliberada",
+        "Que Dios trata con más severidad las debilidades que la rebelión",
+        "Que una debilidad humana, a diferencia de la rebelión deliberada, es tratada por Dios con misericordia y como oportunidad de crecimiento",
+        "Que esta enseñanza no tiene ninguna relación con el tema de las debilidades"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Camila siente que su ansiedad para hablar en público es una debilidad vergonzosa que debe ocultar. Según Éter 12:27, ¿qué le ayudaría a repensar su actitud?",
+      "options": [
+        "Que ocultarla es la única opción razonable frente a una debilidad",
+        "Que reconocerla con humildad ante Dios, con fe en Su ayuda, es el camino que el propio versículo describe para que se convierta en fortaleza",
+        "Que esa debilidad nunca podrá cambiar, sin importar lo que haga",
+        "Que las debilidades emocionales no están incluidas en esta promesa"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué nos enseña sobre la perfección?",
+      "id": 6,
+      "question": "Luca siente que 'fallar feo' en algo significa que Dios está decepcionado de él para siempre. Según la cita del élder Renlund y 2 Corintios 12:9, ¿qué le ayudaría a ver la situación distinto?",
       "options": [
-        "Que es inmediata",
-        "Que viene mediante Cristo convirtiendo debilidades en fortalezas",
-        "Que es imposible",
-        "Que no importa"
+        "Que Dios efectivamente pierde la confianza en quienes muestran debilidades humanas",
+        "Que un tropiezo por debilidad humana no equivale a rebeldía, y que el poder de Cristo se perfecciona precisamente en medio de esa debilidad",
+        "Que debería dejar de intentarlo para no volver a fallar",
+        "Que la debilidad y el fracaso son exactamente lo mismo que el pecado deliberado"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto Éter 12:27 como 2 Corintios 12:9 enseñan algo en común sobre la relación entre la debilidad humana y el poder de Dios. ¿Cuál es el principio que comparten?",
+      "options": [
+        "Que la debilidad humana impide por completo que el poder de Dios actúe en una persona",
+        "Que precisamente en la debilidad reconocida con humildad y fe es donde el poder y la gracia de Dios se manifiestan con mayor fuerza",
+        "Que solo las personas sin ninguna debilidad pueden experimentar el poder de Dios",
+        "Que estos dos pasajes no tienen ninguna relación entre sí"
       ],
       "correctAnswer": 1
     }

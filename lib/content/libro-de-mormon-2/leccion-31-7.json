@@ -1,59 +1,128 @@
 {
   "id": "leccion-31-7",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Cristo continúa Su sermón abordando diversos aspectos de la vida espiritual: la oración sincera, el ayuno apropiado, la acumulación de tesoros celestiales versus terrenales, evitar la hipocresía, juzgar con rectitud, y confiar en la providencia divina. Enfatiza que las prácticas espirituales deben estar motivadas por el amor a Dios en lugar del reconocimiento humano. Enseña que el Padre Celestial, que ve en lo secreto, recompensa a quienes lo buscan con sinceridad."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Thomas S. Monson",
+      "fuente": "Liahona, noviembre de 2006, pág. 67",
+      "texto": "Cuando oremos, comuniquémonos de verdad con nuestro Padre Celestial. Es fácil que nuestras oraciones se vuelvan repetitivas y que pronunciemos palabras sin pensar casi en lo que decimos. [...] Oremos con sinceridad y con sentido, oremos con acción de gracias y pidamos lo que necesitemos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2006/10/how-firm-a-foundation?lang=spa&id=p15#p15"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 13:6",
+          "texto": "Entra en tu aposento, y cuando hayas cerrado la puerta, ora a tu Padre que está en secreto; y tu Padre, que ve en secreto, te recompensará en público.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=spa&id=p6#p6"
+        },
+        {
+          "referencia": "3 Nefi 13:19–21",
+          "texto": "No os acumuléis tesoros sobre la tierra, donde la polilla y el moho corrompen, y los ladrones minan y roban; sino acumulaos tesoros en los cielos, donde ni la polilla ni el moho corrompen, y donde los ladrones no minan ni roban. Porque donde esté vuestro tesoro, allí estará también vuestro corazón.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=spa&id=p19-p21#p19"
+        },
+        {
+          "referencia": "3 Nefi 14:7-8",
+          "texto": "Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=spa&id=p7-p8#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cristo conecta tres cosas que a primera vista parecen distintas —la oración, el dinero y la confianza en Dios— con una sola idea: dónde ponés tu corazón se nota en cómo vivís. Orar en secreto, sin buscar que te vean, y guardar 'tesoros en el cielo' en vez de acumular solo lo material, son formas distintas de la misma decisión: elegir a Dios primero. Esta semana, elegí un momento del día para orar a solas, sin nadie mirando, y prestá atención a si cambia algo en la sinceridad de esa oración."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Sueles orar más en público, en privado, o casi por igual en ambos?",
+        "¿Dónde identificarías que están tus 'tesoros' actualmente según la enseñanza de Cristo?",
+        "¿Cómo podrías asegurarte de que tus prácticas espirituales sean sinceras y no solo para que otros las vean?",
+        "¿Alguna vez pediste algo con fe y sentiste que la respuesta tardó más de lo que esperabas?",
+        "¿Qué significaría 'buscar primero el reino de Dios' en tu situación concreta esta semana?",
+        "Elegí un momento fijo de esta semana para orar a solas, en tu 'aposento'. ¿Cuál va a ser?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuánto tiempo pasaron en tinieblas?",
+      "question": "Según 3 Nefi 13:6, ¿dónde enseña Cristo que se debe orar para que el Padre 'recompense en público'?",
       "options": [
-        "Un día",
-        "Tres días",
-        "Una semana",
-        "Un mes"
+        "En una plaza pública, frente a mucha gente",
+        "En el aposento propio, con la puerta cerrada",
+        "Únicamente dentro del templo",
+        "Solo cuando otra persona esté presente para escuchar"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué hicieron los que sobrevivieron después de las destrucciones?",
+      "question": "Según 3 Nefi 13:19-21, ¿por qué Cristo enseña a acumular tesoros en el cielo en vez de solo en la tierra?",
       "options": [
-        "Se endurecieron más",
-        "Se reunieron en Abundancia lamentando",
-        "Huyeron",
-        "Pelearon entre sí"
+        "Porque en la tierra no existen la polilla, el moho ni los ladrones",
+        "Porque los tesoros terrenales se corrompen o se pueden robar, mientras que los del cielo permanecen",
+        "Porque acumular riqueza terrenal está completamente prohibido",
+        "Porque el dinero no tiene ninguna relación con el corazón de una persona"
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué vieron descender del cielo?",
+      "question": "Cristo dice: 'porque donde esté vuestro tesoro, allí estará también vuestro corazón' (3 Nefi 13:21). ¿Qué principio enseña esa frase sobre la relación entre las prioridades y el corazón de una persona?",
       "options": [
-        "Ángeles",
-        "A Cristo mismo",
-        "Fuego",
-        "Lluvia"
+        "Que el corazón y las prioridades de una persona no tienen relación entre sí",
+        "Que aquello en lo que una persona invierte su tiempo y esfuerzo revela, y a la vez moldea, lo que realmente le importa",
+        "Que solo el dinero determina el estado espiritual de alguien",
+        "Que las prioridades materiales siempre son incompatibles con la fe"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Cómo se presentó Cristo?",
+      "question": "Cristo enseña a orar en secreto y también a 'pedir, buscar y llamar' con fe (3 Nefi 14:7-8). ¿Qué tienen en común ambas enseñanzas sobre la naturaleza de la oración?",
       "options": [
-        "Como un guerrero",
-        "Como Jesucristo, a quien los profetas testificaron",
-        "Como un rey terrenal",
-        "Como un ángel"
+        "Que ambas enseñan que la oración debe hacerse siempre en público para que valga",
+        "Que la oración sincera y persistente, hecha con el corazón puesto en Dios y no en la opinión ajena, es la que realmente conecta con el Padre",
+        "Que pedir con fe garantiza una respuesta inmediata y sin ningún tipo de espera",
+        "Que ambas enseñanzas no tienen relación entre sí"
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué invitó Cristo al pueblo a hacer?",
+      "question": "Luca reza en voz alta frente a sus amigos principalmente para que noten que es una persona religiosa. Según 3 Nefi 13:6, ¿qué le ayudaría a reconsiderar?",
       "options": [
-        "Huir",
-        "Palpar las marcas en Sus manos y pies",
-        "Adorar a otros",
-        "Irse a casa"
+        "Que esa forma de orar es exactamente la que Cristo recomienda para todos los casos",
+        "Que Cristo enseña que la oración sincera se dirige al Padre en secreto, no busca principalmente la aprobación de otras personas",
+        "Que orar frente a otros siempre es incorrecto, sin excepción",
+        "Que la sinceridad de una oración no tiene relación con la intención con la que se hace"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Sofía dedica casi todo su tiempo libre a acumular seguidores y likes en redes sociales, y siente que eso ocupa el lugar central de sus pensamientos. Según 3 Nefi 13:21, ¿qué le ayudaría a reflexionar?",
+      "options": [
+        "Que las redes sociales no tienen ninguna relación con el principio de 'dónde está el tesoro, ahí está el corazón'",
+        "Que aquello en lo que invierte más tiempo y atención tiende a convertirse en lo que ocupa su corazón, y vale la pena revisar si es lo que realmente quiere priorizar",
+        "Que buscar reconocimiento en redes sociales es igual de válido que acumular tesoros en el cielo",
+        "Que preocuparse por ese tema no tiene ninguna importancia espiritual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la enseñanza sobre orar en secreto como la del tesoro que revela el corazón apuntan a un mismo principio central de este bloque de capítulos. ¿Cuál es?",
+      "options": [
+        "Que las prácticas espirituales solo cuentan si otras personas las presencian",
+        "Que la sinceridad interior —a quién realmente se busca agradar y en qué se invierte el corazón— es más importante que la apariencia externa de la vida espiritual",
+        "Que el dinero y la oración son temas completamente separados en la enseñanza de Cristo",
+        "Que la recompensa del Padre depende únicamente de cuánto se ora en público"
       ],
       "correctAnswer": 1
     }

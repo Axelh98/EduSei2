@@ -1,0 +1,135 @@
+{
+  "id": "leccion-27-9",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta lección repasa los cuatro pasajes de Dominio de la Doctrina estudiados hasta ahora en el curso —Alma 34:9–10, Alma 39:9, Alma 41:10 y Helamán 5:12— pero con un enfoque distinto al repaso de la semana 25: esta vez el objetivo es memorizar con precisión las referencias exactas y las frases clave de cada pasaje, no solo entender su significado. El manual de Seminario propone técnicas concretas para lograrlo: crear tarjetas de memorización (con la referencia de un lado y la frase clave del otro), autoevaluarse repitiendo cada pasaje de memoria, y emparejar referencias con frases clave contra el reloj. El élder Richard G. Scott enseñó que memorizar un pasaje de Escritura es como crear una nueva amistad: alguien a quien podés recurrir en un momento de necesidad, exactamente cuando más lo necesitás y sin tiempo para buscarlo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 34:10",
+          "texto": "Porque es preciso que haya un gran y postrer sacrificio; sí, no un sacrificio de hombre, ni de bestia, ni de ningún género de ave; pues no será un sacrificio humano, sino debe ser un sacrificio infinito y eterno.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Alma 39:9",
+          "texto": "Hijo mío, quisiera que te arrepintieses y abandonases tus pecados, y no te dejases llevar más por las concupiscencias de tus ojos, sino que te refrenaras de todas estas cosas; porque a menos que hagas esto, de ningún modo podrás heredar el reino de Dios. ¡Oh recuerda, y comprométete, y abstente de estas cosas!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Alma 41:10",
+          "texto": "La maldad nunca fue felicidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Helamán 5:12",
+          "texto": "Es sobre la roca de nuestro Redentor, el cual es Cristo, que debéis establecer vuestro fundamento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Richard G. Scott",
+      "fuente": "Conferencia General, octubre de 2011, «El poder de las Escrituras»",
+      "texto": "Se obtiene un gran poder al memorizar pasajes de Escrituras. El memorizar un pasaje es como crear una nueva amistad. Es como descubrir a una persona nueva que puede ayudarnos en tiempos de necesidad, darnos inspiración y consuelo, y ser la fuente de motivación para lograr un cambio necesario.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El élder Richard G. Scott comparó memorizar un pasaje de Escritura con crear una nueva amistad: alguien a quien podés recurrir exactamente cuando lo necesitás. De los cuatro pasajes repasados esta semana, cada uno responde a una necesidad distinta: Alma 34:9–10 explica por qué necesitamos a Cristo, Alma 39:9 te ayuda a dejar de excusarte y arrepentirte de verdad, Alma 41:10 te recuerda que la maldad nunca fue felicidad, y Helamán 5:12 te da el fundamento sobre el cual edificar cuando lleguen las tormentas. No alcanza con haberlos entendido una vez: memorizarlos con precisión —la referencia exacta, la frase clave exacta— es lo que te permite tenerlos disponibles en el momento en que de verdad los vas a necesitar. Esta semana, elegí el pasaje que menos te sabés de memoria y practicalo todos los días hasta poder decirlo sin dudar."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "De los cuatro pasajes repasados, ¿cuál te sabés mejor de memoria, y cuál peor?",
+        "El élder Scott compara memorizar un versículo con 'crear una nueva amistad'. ¿Qué te parece esa comparación?",
+        "Si tuvieras que armar una tarjeta de memorización para uno de estos cuatro pasajes, ¿cuál elegirías primero?",
+        "¿En qué situación real de tu vida podrías haber usado uno de estos cuatro versículos si lo hubieras tenido más presente?",
+        "Elegí un método de memorización esta semana (tarjetas, repetición en voz alta, escribirlo) para el pasaje que menos te sabés. ¿Cuál elegís?",
+        "¿A quién le podrías proponer memorizar juntos uno de estos pasajes esta semana?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuáles son los cuatro pasajes de Dominio de la Doctrina que se repasan en esta lección?",
+      "options": [
+        "Alma 7:11–13, Alma 32:21, Alma 34:9–10 y Alma 39:9",
+        "Alma 34:9–10, Alma 39:9, Alma 41:10 y Helamán 5:12",
+        "Helamán 5:12, 3 Nefi 11:10–11, 3 Nefi 12:48 y 3 Nefi 27:20",
+        "Éter 12:6, Éter 12:27, Moroni 7:45–48 y Moroni 10:4–5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según el élder Richard G. Scott, ¿a qué se parece memorizar un pasaje de Escritura?",
+      "options": [
+        "A memorizar un número de teléfono sin ningún significado especial",
+        "A crear una nueva amistad, alguien a quien podés recurrir en un momento de necesidad",
+        "A una tarea escolar obligatoria sin ningún beneficio real",
+        "A un ejercicio físico sin relación con la vida espiritual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué técnica de memorización propone el manual de Seminario para este repaso, además de la repetición en voz alta?",
+      "options": [
+        "Memorizar únicamente escuchando música de fondo",
+        "Crear tarjetas de memorización y emparejar referencias con frases clave contra el reloj",
+        "Copiar cada versículo cien veces sin ninguna otra actividad",
+        "Memorizar solamente la primera palabra de cada versículo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué diferencia principal hay entre este repaso (17 y 18) y el repaso de la semana 25 (15 y 16)?",
+      "options": [
+        "No hay ninguna diferencia real entre ambos repasos",
+        "Este repaso se enfoca en memorizar con precisión referencias y frases clave, mientras que el anterior se enfocaba en aplicar los pasajes a situaciones reales",
+        "Este repaso solo incluye un pasaje, mientras que el anterior incluía diez",
+        "Este repaso no incluye ninguna cita de líder de la Iglesia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Sofía se sabe el significado de estos cuatro pasajes, pero cuando intenta citarlos de memoria se traba y no recuerda las palabras exactas. Según la enseñanza del élder Scott, ¿qué le podrías compartir?",
+      "options": [
+        "Que entender el significado ya es suficiente, no hace falta memorizar las palabras exactas",
+        "Que memorizar la referencia y la frase clave exacta, no solo el significado general, es lo que le permite tener el pasaje disponible en el momento exacto en que lo necesite",
+        "Que memorizar Escrituras no tiene ningún valor real",
+        "Que solo los líderes de la Iglesia necesitan memorizar pasajes con exactitud"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Luca quiere ayudar a un amigo que está pasando por una tentación fuerte, y piensa en cuál de los cuatro pasajes repasados podría compartirle. Si el amigo necesita dejar de excusarse y comprometerse a cambiar, ¿cuál de los cuatro pasajes sería más directo para esa situación?",
+      "options": [
+        "Alma 34:9–10, porque habla del sacrificio infinito y eterno",
+        "Alma 39:9, porque enseña específicamente a 'recordar, comprometerse y abstenerse'",
+        "Alma 41:10, porque habla de la felicidad en términos generales",
+        "Helamán 5:12, porque habla del fundamento sobre la roca"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la comparación del élder Scott de memorizar Escrituras con 'crear una nueva amistad' como el propósito de este repaso comparten un mismo principio. ¿Cuál es?",
+      "options": [
+        "Que memorizar Escrituras es un ejercicio mecánico sin ningún propósito espiritual real",
+        "Que tener pasajes de Escritura memorizados con precisión los vuelve una herramienta disponible y confiable en el momento exacto en que se necesitan, no solo un conocimiento teórico",
+        "Que solo vale la pena memorizar Escrituras una vez en la vida",
+        "Que memorizar y comprender un pasaje son exactamente la misma cosa, sin ninguna diferencia"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

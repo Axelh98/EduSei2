@@ -3,31 +3,123 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Nefi y Lehi son encarcelados por predicar entre los lamanitas. Milagrosamente, son rodeados por fuego pero no se queman. Cuando los guardias intentan matarlos, la tierra tiembla y una nube de oscuridad los cubre. Una voz habla desde el cielo llamándolos al arrepentimiento. Los guardias y prisioneros experimentan una conversión poderosa al ver el poder de Dios. Este relato ilustra cómo Dios puede usar eventos extraordinarios para convertir corazones."
+      "contenido": "Nefi y Lehi son encarcelados por predicar entre los lamanitas. Milagrosamente, son rodeados por fuego pero no se queman. Cuando los guardias intentan matarlos, la tierra tiembla y una nube de oscuridad los cubre — una oscuridad tan densa que ni siquiera pueden verse las manos. Una voz habla desde el cielo llamándolos al arrepentimiento, y un lamanita converso llamado Aminadab les explica a los demás que, para que se disipe la nube, deben orar con fe hasta que se les quite la duda del corazón. Cuando finalmente lo hacen, la oscuridad se retira y todos —guardias y prisioneros por igual— quedan rodeados de una luz y un fuego que tampoco los queman, mientras el Espíritu Santo desciende sobre ellos. Este relato ilustra, de manera casi literal, algo que se repite en la vida espiritual de cualquier persona: la oscuridad —la duda, el miedo, la culpa— no siempre se disipa con una sola oración apurada; a veces exige orar 'hasta que' la fe reemplace por completo a la duda."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
           "referencia": "Helamán 5:24–33",
-          "texto": "Vieron que estaban circundados, cual si fuera por fuego; y no les quemaba.",
+          "texto": "Vieron que estaban circundados, cual si fuera por fuego; y no les quemaba. Y sucedió que los cubrió una nube de obscuridad, y se apoderó de ellos un espantoso e imponente temor.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p24-p33#p24"
         },
         {
           "referencia": "Helamán 5:28–29",
-          "texto": "Y sucedió que los cubrió una nube de obscuridad , y se apoderó de ellos un espantoso e imponente temor. Y aconteció que llegó una voz como si hubiera provenido de encima de la nube de obscuridad, diciendo: Arrepentíos, arrepentíos, y no intentéis más destruir a mis siervos, a quienes os he enviado para declarar buenas nuevas.",
+          "texto": "Y sucedió que los cubrió una nube de obscuridad, y se apoderó de ellos un espantoso e imponente temor. Y aconteció que llegó una voz como si hubiera provenido de encima de la nube de obscuridad, diciendo: Arrepentíos, arrepentíos, y no intentéis más destruir a mis siervos, a quienes os he enviado para declarar buenas nuevas.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p28-p29#p28"
         }
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Robert D. Hales",
+      "fuente": "Conferencia General, abril de 2002, «De la oscuridad a Su luz maravillosa»",
+      "texto": "Deben aprender a generar esa luz, cada día, al creer en Jesucristo y seguir Sus mandamientos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2002/04/out-of-darkness-into-his-marvelous-light?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La nube de oscuridad que rodeó a los guardias y prisioneros en la cárcel no se disipó con la primera oración: Aminadab les explicó que debían seguir orando 'hasta que' la fe echara fuera la duda de su corazón. Recién entonces la oscuridad se retiró y todos quedaron rodeados de luz. El élder Robert D. Hales enseñó que esa luz no aparece una sola vez y para siempre: hay que aprender a generarla cada día, creyendo en Jesucristo y guardando Sus mandamientos. Si estás atravesando tu propia 'nube de oscuridad' —duda, miedo, culpa— este relato no promete que se va a disipar con una sola oración apurada. Esta semana, si sentís esa oscuridad, seguí orando con fe 'hasta que' la duda ceda, en vez de rendirte después del primer intento."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te enseña este relato sobre el poder de Dios para proteger a Sus siervos?",
-        "¿Cómo describirías el proceso de conversión que experimentaron los lamanitas?",
-        "¿En qué situaciones has visto o experimentado el poder de Dios de manera similar?"
+        "¿Cómo describirías el proceso de conversión que experimentaron los lamanitas y los guardias esa noche?",
+        "Aminadab dijo que debían orar 'hasta que' la fe reemplazara la duda, no solo una vez. ¿Qué te parece esa idea de la oración sostenida?",
+        "¿En qué situaciones has experimentado algo parecido a esa 'nube de oscuridad' —duda, miedo, culpa— en tu propia vida?",
+        "El élder Hales enseñó que hay que generar luz espiritual 'cada día'. ¿Qué hábito diario concreto te ayudaría a generar esa luz?",
+        "Si estuvieras rodeado de esa nube de oscuridad ahora mismo, ¿qué versículo o enseñanza de esta lección usarías para salir de ella?"
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Por qué fueron encarcelados Nefi y Lehi según Helamán 5?",
+      "options": [
+        "Por robar en territorio lamanita",
+        "Por predicar la palabra de Dios entre los lamanitas",
+        "Por negarse a pagar impuestos",
+        "Por espiar al ejército lamanita"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué le dijo Aminadab a la multitud que debían hacer para que se disipara la nube de oscuridad que los rodeaba?",
+      "options": [
+        "Que atacaran a los guardias de la prisión",
+        "Que huyeran del lugar de inmediato",
+        "Que oraran con fe hasta que la duda fuera reemplazada por la fe en su corazón",
+        "Que esperaran en silencio sin hacer nada"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "Según el relato, la nube de oscuridad no se disipó con la primera oración, sino que la multitud tuvo que seguir orando 'hasta que' la duda cediera. ¿Qué principio sobre la oración ilustra ese detalle?",
+      "options": [
+        "Que la oración solo tiene valor si se responde de manera inmediata",
+        "Que a veces la fe se construye de manera sostenida, y la oración persistente —no un solo intento— es lo que permite que la duda ceda",
+        "Que orar más de una vez demuestra falta de fe",
+        "Que este detalle no tiene ninguna relación con la oración personal hoy en día"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué ocurrió con los guardias y prisioneros después de que se disipó la nube de oscuridad (Helamán 5:43–45)?",
+      "options": [
+        "Huyeron aterrorizados sin ningún cambio de corazón",
+        "Fueron rodeados de un fuego y una luz que tampoco los quemaba, mientras el Espíritu Santo descendía sobre ellos",
+        "No ocurrió ningún cambio visible en ellos",
+        "Fueron castigados por las autoridades lamanitas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Sofía siente una 'nube de oscuridad' espiritual —dudas sobre su fe— y oró una sola vez pidiendo que se le quitaran, pero como siguió sintiendo lo mismo, piensa que la oración no funcionó. Según el ejemplo de Helamán 5, ¿qué le podrías compartir?",
+      "options": [
+        "Que tiene razón, y que debería dejar de orar sobre el tema",
+        "Que, como la multitud en la prisión, a veces la duda se disipa orando con fe de manera sostenida, no necesariamente con un solo intento",
+        "Que sus dudas significan que nunca tuvo fe real",
+        "Que este relato no tiene ninguna aplicación a la duda espiritual actual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Luca quiere sentir la guía del Espíritu de manera más constante en su vida, no solo en momentos puntuales. Según la enseñanza del élder Hales de que hay que 'generar esa luz, cada día', ¿qué principio le ayudaría?",
+      "options": [
+        "Que la luz espiritual, una vez recibida, no requiere ningún esfuerzo adicional para mantenerse",
+        "Que generar luz espiritual es un proceso diario y constante, sostenido en creer en Jesucristo y guardar Sus mandamientos, no un evento único",
+        "Que solo eventos milagrosos como el de Nefi y Lehi pueden traer luz espiritual",
+        "Que la luz espiritual depende exclusivamente de las circunstancias externas, sin relación con las decisiones personales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la instrucción de Aminadab de orar 'hasta que' la duda ceda como la enseñanza del élder Hales de generar luz 'cada día' comparten un mismo principio. ¿Cuál es?",
+      "options": [
+        "Que la fe y la luz espiritual se construyen con constancia sostenida, no con un solo esfuerzo puntual",
+        "Que basta un único acto de fe para resolver cualquier duda de manera permanente",
+        "Que la oscuridad espiritual, una vez que aparece, ya no se puede disipar",
+        "Que solo los líderes religiosos pueden generar luz espiritual para otros"
+      ],
+      "correctAnswer": 0
+    }
+  ]
 }

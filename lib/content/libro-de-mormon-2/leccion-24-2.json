@@ -3,43 +3,123 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Los discípulos discuten sobre qué nombre debería llevar la iglesia. Cristo aparece y responde: la iglesia debe llamarse por Su nombre porque es Su iglesia. Luego define claramente Su evangelio: arrepentirse, bautizarse, y ser santificado por el Espíritu Santo. Explica que si se edifica sobre este fundamento, las puertas del infierno no prevalecerán. El capítulo proporciona una definición clara y concisa del evangelio de Jesucristo y sus componentes esenciales."
-    },
-    {
-      "tipo": "enseñanza",
-      "autor": "Presidente Russell M. Nelson",
-      "fuente": "Liahona, noviembre de 2018, págs. 87-88",
-      "texto": "Cuando se trata de los apodos de la Iglesia, tales como 'la Iglesia SUD', 'la Iglesia mormona' o 'la Iglesia de los Santos de los Últimos Días', lo más importante en esos nombres es la ausencia del nombre del Salvador. Quitar el nombre del Señor de la Iglesia del Señor es una gran victoria de Satanás.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa&id=p15#p15"
+      "contenido": "Esta lección proporciona una oportunidad para reflexionar sobre el aprendizaje de las semanas recientes. El propósito es examinar cómo las enseñanzas del Libro de Mormón han influido en tu comprensión y en tus acciones. La evaluación no se enfoca solo en el conocimiento intelectual, sino en cómo las enseñanzas han afectado tu corazón y tu vida diaria. Es un momento para identificar áreas de progreso y áreas que necesitan más atención."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "3 Nefi 27:5-7",
-          "texto": "¿No habéis leído las Escrituras que dicen que debéis tomar sobre vosotros el nombre de Cristo? Por tanto, cualquier cosa que hagáis, la haréis en mi nombre.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p5-p7#p5"
+          "referencia": "2 Nefi 32:3",
+          "texto": "Las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
         },
         {
-          "referencia": "3 Nefi 27:13-14",
-          "texto": "He aquí, yo he dado a los hombres mi evangelio, y este es el evangelio que os he dado: que vine al mundo a hacer la voluntad de mi Padre.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p13-p14#p13"
-        },
-        {
-          "referencia": "3 Nefi 27:21",
-          "texto": "Edificados sobre mi evangelio, las puertas del infierno no prevalecerán contra vosotros.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p21#p21"
+          "referencia": "Juan 6:68",
+          "texto": "Señor, ¿a quién iremos? Tú tienes palabras de vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/6?lang=spa&id=p68#p68"
         }
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Russell M. Nelson",
+      "fuente": "Liahona, mayo de 2014",
+      "texto": "Aumenten su fe día a día mientras caminan hacia su destino eterno. ¡Proclamen su fe! ¡Manifiesten su fe!",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/04/let-your-faith-show?lang=spa&id=p27#p27"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El estandarte de la libertad resume en pocas palabras lo que de verdad importa: Dios, la fe, la libertad, la paz y la familia. Moroni no se conformó con sentir esos valores en privado; los escribió, los levantó y llamó a su pueblo a comprometerse públicamente con ellos. Memorizar Alma 46:12–13 no es solo un ejercicio de memoria: es tener a mano las palabras exactas para explicar, en el momento en que haga falta, por qué tu fe merece ser defendida. Practicá decir este pasaje de memoria esta semana, y buscá al menos una conversación donde puedas usarlo para explicar lo que realmente te importa."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué significa para ti tomar sobre ti el nombre de Cristo?",
-        "¿Cómo describirías el evangelio de Jesucristo basándote en 3 Nefi 27?",
-        "¿De qué maneras estás edificando sobre el fundamento de Cristo en tu vida?"
+        "¿Ya tenías memorizada, aunque sea en parte, la frase del estandarte de la libertad de Alma 46:12? ¿Qué palabra se te hace más difícil de recordar?",
+        "Si tuvieras que resumir en una sola palabra lo que defiende el estandarte de la libertad, ¿cuál elegirías: Dios, familia, libertad o paz?",
+        "¿Cuál de esos valores —Dios, religión, libertad, paz, familia— sentís que hoy necesitás defender con más firmeza en tu vida?",
+        "¿Alguna vez tuviste que explicarle a alguien que no es de la Iglesia por qué tu fe es importante para vos? ¿Cómo te fue?",
+        "Elegí memorizar Alma 46:12 esta semana. ¿Qué método vas a usar: repetirlo en voz alta, escribirlo, ponerlo de fondo de pantalla?",
+        "Pensá en una conversación real que podrías tener esta semana donde te sirva citar este pasaje. ¿Con quién sería?"
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué valores defendía el estandarte de la libertad, según sus palabras exactas en Alma 46:12?",
+      "options": [
+        "Únicamente la libertad política",
+        "Nuestro Dios, nuestra religión, y libertad, y nuestra paz, nuestras esposas y nuestros hijos",
+        "Únicamente la riqueza del pueblo",
+        "Únicamente el poder militar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué llevó a Moroni a crear el estandarte de la libertad, según el contexto de Alma 46?",
+      "options": [
+        "Un mandato directo y explícito del rey",
+        "Una tradición nefita que se repetía cada año",
+        "Una victoria militar que quería celebrar",
+        "La indignación al ver que Amalickíah buscaba destruir la libertad y la fe de su pueblo mediante disensiones"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "El estandarte dice 'En memoria de nuestro Dios, nuestra religión, y libertad, y nuestra paz, nuestras esposas y nuestros hijos' (Alma 46:12). ¿Por qué Moroni elige justamente esa combinación de palabras, y no solo 'libertad' o solo 'religión'?",
+      "options": [
+        "Porque esas palabras no tenían ninguna relación entre sí en la cultura nefita",
+        "Porque quería una lista larga sin ningún propósito particular",
+        "Porque mostraba que la fe, la libertad y la familia están profundamente conectadas, y que defender una implica defender las demás",
+        "Porque solo buscaba impresionar a sus enemigos con palabras solemnes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "El pueblo respondió 'viniendo corriendo' y rasgando sus propias vestiduras como convenio (Alma 46:21). ¿Qué revela la forma en que respondieron —corriendo, no caminando— sobre su actitud hacia el compromiso?",
+      "options": [
+        "Que solo un pequeño grupo decidió sumarse al convenio",
+        "Que respondieron con indiferencia y lentitud",
+        "Que respondieron con urgencia, entusiasmo genuino y determinación inmediata",
+        "Que fueron obligados por la fuerza a participar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Sofía admira el ejemplo de los nefitas que 'vinieron corriendo' a comprometerse con el estandarte de la libertad, pero siente que ella responde a las cosas importantes de su vida con desgano. ¿Qué le podrías compartir sobre este pasaje?",
+      "options": [
+        "Que el convenio del pueblo enseña que un compromiso genuino se refleja en la urgencia y el entusiasmo con que se actúa, no solo en las palabras",
+        "Que sentir desgano al comprometerse no tiene ninguna importancia real",
+        "Que solo los adultos pueden comprometerse con ese nivel de entusiasmo",
+        "Que correr literalmente es lo único que importa del relato"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Un compañero le dice a Luca que defender la fe, la familia y la libertad son temas 'separados', sin relación entre sí. Según lo que enseña el estandarte de la libertad, ¿qué le respondería?",
+      "options": [
+        "Que solo la libertad política importaba realmente para Moroni",
+        "Que la familia no tiene ninguna relación con la libertad o la religión",
+        "Que su compañero tiene razón: son temas completamente independientes",
+        "Que el estandarte muestra justamente lo contrario: Dios, la religión, la libertad, la paz y la familia están unidos, y proteger uno de esos valores fortalece a los demás"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Tanto las palabras escritas en el estandarte como la manera en que el pueblo respondió a él enseñan un mismo principio sobre el compromiso. ¿Cuál es?",
+      "options": [
+        "Que los valores mencionados en el estandarte ya no tienen relevancia hoy",
+        "Que los valores más importantes de la vida requieren una defensa activa, unida y decidida, no una actitud pasiva o indiferente",
+        "Que basta con estar de acuerdo internamente, sin ninguna acción visible",
+        "Que el compromiso público nunca tiene relación con la convicción personal"
+      ],
+      "correctAnswer": 1
+    }
+  ]
 }

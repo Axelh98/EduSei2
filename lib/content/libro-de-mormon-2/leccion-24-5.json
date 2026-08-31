@@ -3,14 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Mormón presenta un contraste entre dos líderes: Amalickíah y el capitán Moroni. Amalickíah usa el engaño y el asesinato para obtener el trono lamanita, motivado por el poder y la ambición. Moroni, en contraste, se prepara diligentemente para defender a su pueblo, motivado por el amor a Dios, familia y libertad. Este contraste ilustra que los motivos importan tanto como las acciones. El pasaje muestra cómo las habilidades pueden usarse para propósitos opuestos según las motivaciones."
-    },
-    {
-      "tipo": "enseñanza",
-      "autor": "Élder Ulisses Soares",
-      "fuente": "Liahona, noviembre de 2020, pág. 84",
-      "texto": "Cuando resistimos las pequeñas tentaciones, las cuales a menudo vienen inesperadamente en nuestra vida, estamos mejor equipados para evitar las transgresiones más serias.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=spa&id=p12#p12"
+      "contenido": "Mormón presenta un contraste entre dos líderes que enfrentan la misma oportunidad de poder. En Alma 47, Amalickíah usa el engaño, el envenenamiento lento de Lehonti y finalmente el asesinato para hacerse rey de los lamanitas. Consigue exactamente lo que quería, pero traicionando a todos los que confiaron en él. En Alma 48, Mormón cambia el enfoque hacia el capitán Moroni y se detiene a describir su carácter con un detalle poco común: un hombre que no se deleitaba en derramar sangre, agradecido a Dios, que trabajaba en gran manera por el bienestar de su pueblo. Mormón llega a declarar que si todos los hombres hubieran sido como Moroni, 'los poderes mismos del infierno se habrían sacudido para siempre' (Alma 48:17). Los dos hombres tenían capacidades parecidas —inteligencia, determinación, influencia sobre otros— pero las usaron para fines opuestos. Ese contraste no es solo historia militar antigua: cualquier persona con algo de liderazgo, en un equipo, un grupo de amigos o una familia, enfrenta la misma pregunta que enfrentaron Amalickíah y Moroni: ¿para qué vas a usar la influencia que tenés?"
     },
     {
       "tipo": "escrituras",
@@ -24,15 +17,34 @@
           "referencia": "Alma 48:23",
           "texto": "Dios preparó a este pueblo para su destrucción, a menos que se arrepintieran.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=spa&id=p23#p23"
+        },
+        {
+          "referencia": "Alma 48:17",
+          "texto": "Sí, en verdad, en verdad os digo que si todos los hombres hubieran sido, y fueran y pudieran siempre ser como Moroni, he aquí, los poderes mismos del infierno se habrían sacudido para siempre; sí, el diablo jamás tendría poder sobre el corazón de los hijos de los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=spa&id=p17#p17"
         }
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Ulisses Soares",
+      "fuente": "Liahona, noviembre de 2020, pág. 84",
+      "texto": "Cuando resistimos las pequeñas tentaciones, las cuales a menudo vienen inesperadamente en nuestra vida, estamos mejor equipados para evitar las transgresiones más serias.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/43soares?lang=spa&id=p12#p12"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Amalickíah y Moroni tenían habilidades parecidas —ambición, inteligencia, capacidad de liderar— pero las usaron para fines completamente opuestos. Uno buscó el poder mediante el engaño y la traición; el otro sirvió a su pueblo con integridad, sin deleitarse en la violencia. Mormón deja clara la diferencia: no es lo que podés hacer, sino para qué lo hacés. Vos también tenés talentos, influencia entre tus amigos, capacidad de liderar un grupo o un proyecto. La pregunta de esta lección es para qué los vas a usar. Elegí esta semana una situación concreta —en el equipo, en el curso, en tu familia— donde puedas usar tu influencia para servir, en lugar de para destacar a costa de otro."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué motiva principalmente tus decisiones: el servicio a otros o el beneficio personal?",
-        "¿Qué características distinguen a un líder justo de uno que busca su propio beneficio?",
-        "¿Cómo puedes reconocer y evitar las estrategias engañosas en tu vida?"
+        "¿Con cuál de los dos personajes de este capítulo —Amalickíah o Moroni— te resultó más fácil identificar sus verdaderas intenciones, y por qué?",
+        "¿Qué palabra usarías para describir la forma en que Amalickíah conseguía lo que quería?",
+        "¿Qué motiva principalmente tus decisiones del día a día: el servicio a otros o el beneficio personal?",
+        "¿Qué características distinguen a un líder justo de uno que busca solamente su propio beneficio?",
+        "¿Hay alguna 'estrategia engañosa' —como manipular una situación a tu favor— de la que necesites alejarte esta semana?",
+        "Pensando en Moroni, que 'trabajaba en gran manera por el bienestar de su pueblo', ¿qué podés hacer esta semana para servir a alguien sin buscar nada a cambio?"
       ]
     }
   ],

@@ -3,87 +3,123 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "El Salvador les da a los nefitas las profecías de Malaquías. Enseña que antes de la Segunda Venida, Cristo refinará a Su pueblo. Introduce la importante ley del diezmo y las ofrendas, explicando que retenerlos es 'robar a Dios'. Sin embargo, Él promete que quienes paguen sus diezmos fieles verán que se abrirán las ventanas de los cielos y recibirán bendiciones abundantes."
+      "contenido": "Cristo cita las profecías de Malaquías sobre diezmos y ofrendas. Enseña que retener los diezmos equivale a robar a Dios, pero que honrarle con los diezmos trae bendiciones abundantes. El diezmo representa un principio de fe: confiar en que Dios proveerá al dar el diez por ciento de los ingresos. El pasaje promete que Dios abrirá las ventanas de los cielos para bendecir a quienes son fieles en esta ley. También menciona que los que temen al Señor serán Sus joyas especiales."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "Liahona, noviembre de 2013, pág. 20",
+      "texto": "El pago íntegro del diezmo es mucho más que un deber; es un paso importante en el proceso de santificación personal. [...] Les testifico que al obedecer esta ley del Señor, se abrirán las ventanas de los cielos para ustedes.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-windows-of-heaven?lang=spa&id=p31-p32#p31"
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "3 Nefi 24:8-9",
-          "texto": "¿Robará el hombre a Dios? Mas vosotros me habéis robado. Y decís: ¿En qué te hemos robado? En los diezmos y en las ofrendas.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa&id=p8-p9#p8"
+          "referencia": "3 Nefi 24:8-10",
+          "texto": "¿Robará el hombre a Dios? Traed todos los diezmos al alfolí, y probadme ahora en esto, si no os abriré las ventanas de los cielos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa&id=p8-p10#p8"
         },
         {
-          "referencia": "3 Nefi 24:10",
-          "texto": "Traed todos los diezmos al alfolí... y probadme ahora en esto... si no os abriré las ventanas de los cielos, y derramaré sobre vosotros una bendición tal que no haya donde caber.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa&id=p10#p10"
+          "referencia": "3 Nefi 24:16-17",
+          "texto": "Entonces los que temían al Señor hablaron a menudo, cada uno a su compañero; y el Señor escuchó y oyó; y fue escrito un libro de memorias delante de él para aquellos que temían al Señor y pensaban en su nombre. Y serán míos, dice el Señor de los Ejércitos, el día en que yo integre mis joyas; y los perdonaré como el hombre que perdona a su hijo que le sirve.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa&id=p16-p17#p16"
         }
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "Cristo elige las palabras de Malaquías, entre todo lo que podría haber citado a los nefitas, para hablar de algo muy concreto: el dinero y la confianza. 'Traed todos los diezmos... y probadme ahora en esto' no es una amenaza, es una invitación a comprobarlo por experiencia propia. El diezmo no es solo una regla administrativa de la Iglesia; es una forma de practicar, mes a mes, que Dios va primero. Esta semana, si ya pagás diezmo, prestá atención especial a qué sentís al hacerlo; si todavía no te tocó hacerlo, hablá con tus padres o tu líder sobre por qué esta ley importa antes de que se vuelva solo un trámite."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué crees que significa la expresión 'abrir las ventanas de los cielos'?",
-        "¿Has sentido alguna vez que pagar el diezmo requiere fe? ¿Cómo te ha bendecido el Señor al obedecer?",
-        "¿De qué manera el pago de los diezmos nos 'refina' o purifica espiritualmente?"
+        "¿Sabías que Cristo mismo citó las palabras de Malaquías sobre el diezmo a los nefitas?",
+        "¿Cómo describirías tu experiencia con el pago de diezmos y ofrendas, o la de tu familia?",
+        "¿Qué bendiciones has observado, en tu vida o en la de otros, al ser fiel en esta ley?",
+        "¿De qué manera el pago del diezmo representa un acto de fe en la providencia divina?",
+        "¿Alguna vez tuviste que elegir entre gastar en algo que querías o ser fiel con el diezmo?",
+        "¿Con quién podrías hablar esta semana sobre lo que significa para vos la ley del diezmo?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué mandó Cristo sobre orar en familia?",
+      "question": "Según 3 Nefi 24:8-10, ¿qué invita Dios a hacer a quienes dudan de los beneficios de pagar diezmos?",
       "options": [
-        "Que no era necesario",
-        "Que oraran en sus familias siempre",
-        "Que oraran solo en público",
-        "Que no oraran"
+        "Que esperen hasta ser adultos para empezar",
+        "Que lo prueben, trayendo todos los diezmos al alfolí",
+        "Que consulten primero a un contador",
+        "Que paguen solo si les sobra dinero"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué enseñó sobre velar en oración?",
+      "question": "Según 3 Nefi 24:16-17, ¿qué se escribió sobre quienes temían al Señor y hablaban de Él?",
       "options": [
-        "Que no es importante",
-        "Que siempre velaran y oraran para no caer en tentación",
-        "Solo velar sin orar",
-        "Velar solo de día"
+        "Un libro de memorias delante de Dios",
+        "Una lista pública de contribuciones económicas",
+        "Un registro exclusivamente militar",
+        "Nada, esa acción no tuvo ninguna consecuencia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Quiénes NO deberían tomar la Santa Cena según Cristo?",
+      "question": "Dios pregunta '¿robará el hombre a Dios?' antes de hablar del diezmo (3 Nefi 24:8). ¿Qué idea busca transmitir esa pregunta directa?",
       "options": [
-        "Los jóvenes",
-        "Los que no son dignos sin arrepentirse",
-        "Los pobres",
-        "Los enfermos"
+        "Que retener lo que corresponde a Dios equivale, en esencia, a un acto de deshonestidad",
+        "Que el diezmo es una sugerencia sin ninguna importancia real",
+        "Que solo los ricos deben preocuparse por el diezmo",
+        "Que la pregunta no tiene relación con el tema del diezmo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Cómo debemos tratar a los que no son dignos de participar?",
+      "question": "La promesa de 'abrir las ventanas de los cielos' (3 Nefi 24:10) se presenta como resultado de probar a Dios con el diezmo. ¿Qué papel juega la fe en esa dinámica?",
       "options": [
-        "Expulsarlos inmediatamente",
-        "No echarlos fuera, sino invitarlos a arrepentirse",
-        "Ignorarlos",
-        "Avergonzarlos públicamente"
+        "Ninguno: la promesa se cumple sin relación con la actitud de la persona",
+        "La fe consiste en dar primero, confiando en la promesa, en vez de esperar la bendición antes de obedecer",
+        "La fe solo importa después de recibir la bendición, no antes",
+        "La promesa elimina la necesidad de cualquier tipo de confianza personal"
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué promesa hizo sobre congregarse?",
+      "question": "Bruno empieza a ganar su primer dinero propio y no está seguro de si vale la pena pagar diezmo sobre montos pequeños. Según 3 Nefi 24:10, ¿qué principio le ayudaría a decidir?",
       "options": [
-        "No es necesario",
-        "Donde dos o tres se reúnan en Su nombre, Él estará",
-        "Solo reunirse en templos",
-        "Nunca reunirse"
+        "Que la invitación de Dios a 'probarlo' aplica también a cantidades pequeñas, no solo a grandes ingresos",
+        "Que el diezmo solo tiene sentido para adultos con trabajo estable",
+        "Que debería esperar a tener mucho dinero para empezar a pagar diezmo",
+        "Que las cantidades pequeñas quedan automáticamente exentas de esta ley"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Sofía siente que pagar diezmo la deja con 'menos plata' para lo que quiere comprarse, y por eso a veces lo posterga. Según la invitación de Cristo a 'probarme en esto', ¿qué le ayudaría a repensar su actitud?",
+      "options": [
+        "Que su percepción es correcta y no vale la pena seguir pagando diezmo",
+        "Que la invitación de Dios es justamente a experimentar, con fe, que priorizar el diezmo no la deja con menos, sino que abre bendiciones que no siempre son solo económicas",
+        "Que el diezmo únicamente beneficia a la organización de la Iglesia",
+        "Que postergar el diezmo no tiene ninguna relación con la fe"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la promesa de 'abrir las ventanas de los cielos' como la imagen del 'libro de memorias' para quienes temen al Señor comparten un mismo principio de este capítulo. ¿Cuál es?",
+      "options": [
+        "Que Dios nota y recuerda la fidelidad de Sus hijos, y responde a ella con bendiciones concretas",
+        "Que solo las acciones públicas y visibles tienen valor ante Dios",
+        "Que estas dos promesas no tienen relación entre sí",
+        "Que las bendiciones prometidas dependen únicamente de la suerte"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

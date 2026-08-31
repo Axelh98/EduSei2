@@ -3,85 +3,126 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Jesucristo continúa Su ministerio entre los nefitas enseñándoles las Bienaventuranzas, de manera similar a Su Sermón del Monte en el Nuevo Testamento. Él explica cómo aquellos que vienen a Él y desarrollan atributos cristianos serán bendecidos. Llama a Sus discípulos a ser 'la sal de la tierra' y 'la luz del pueblo', invitándolos a ser ejemplos justos que guíen a otros hacia el Padre Celestial."
+      "contenido": "Tras aparecer a los nefitas y llamar a doce discípulos, Cristo les enseña las Bienaventuranzas. Estas enseñanzas son similares al Sermón del Monte en Jerusalén, con algunas variaciones adaptadas al contexto nefita. Las Bienaventuranzas describen estados del corazón que conducen a bendiciones espirituales específicas. El pasaje también incluye la enseñanza sobre ser 'la luz del mundo' y permitir que las buenas obras sean visibles para glorificar al Padre Celestial."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Joseph Fielding Smith",
+      "fuente": "Enseñanzas de los Presidentes de la Iglesia: Joseph Fielding Smith, 2013, pág. 249",
+      "texto": "…ese gran y magnífico discurso —el más grandioso que se haya predicado jamás, hasta donde sabemos— el cual llamamos el Sermón del Monte…",
+      "link": "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-joseph-fielding-smith/chapter-18-living-by-every-word-that-proceeds-from-the-mouth-of-god?lang=spa&id=p29#p29"
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
           "referencia": "3 Nefi 12:3",
-          "texto": "Sí, bienaventurados son los pobres en espíritu que vienen a mí, porque de ellos es el reino de los cielos.",
+          "texto": "Bienaventurados los pobres en espíritu que vienen a mí, porque de ellos es el reino de los cielos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p3#p3"
         },
         {
-          "referencia": "3 Nefi 12:16",
-          "texto": "Por lo tanto, así alumbre vuestra luz delante de este pueblo, para que vean vuestras buenas obras y glorifiquen a vuestro Padre que está en los cielos.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p16#p16"
+          "referencia": "3 Nefi 12:6",
+          "texto": "Y bienaventurados son todos los que padecen hambre y sed de rectitud, porque ellos serán llenos del Espíritu Santo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p6#p6"
+        },
+        {
+          "referencia": "3 Nefi 12:14–16",
+          "texto": "En verdad, en verdad os digo que os doy a vosotros ser la luz de este pueblo. Una ciudad que se asienta sobre una colina no se puede ocultar. He aquí, ¿encienden los hombres una vela y la ponen debajo de un almud? No, sino en un candelero; y da luz a todos los que están en la casa; por lo tanto, así alumbre vuestra luz delante de este pueblo, de modo que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p14-p16#p14"
         }
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "Las Bienaventuranzas no describen un ideal lejano, sino el tipo de corazón que cualquiera puede empezar a cultivar hoy: humilde, hambriento de hacer lo correcto, dispuesto a mostrar sus buenas obras sin esconderlas. Cristo no dice 'sean perfectos primero y después brillen'; dice que la luz ya puede alumbrar mientras el proceso sigue en marcha. Vos también tenés una 'colina' donde te ven: tu curso, tu familia, tu equipo. Esta semana, elegí una sola acción concreta —no un buen propósito general— que muestre esa luz donde estás parado ahora mismo."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué atributo de las Bienaventuranzas sientes que necesitas desarrollar más en tu vida?",
-        "¿Cómo puedes ser una mejor luz para las personas que te rodean?",
-        "¿Qué significa venir a Cristo siendo 'pobre en espíritu'?"
+        "¿Cuál de las Bienaventuranzas te parece más fácil de entender a primera vista?",
+        "¿Cuál de las Bienaventuranzas te parece más relevante para tu situación actual? ¿Por qué?",
+        "¿Cómo describirías el concepto de ser 'pobre en espíritu' según el contexto de 3 Nefi 12?",
+        "¿Alguna vez sentiste que tu fe fue puesta a prueba y aun así elegiste seguir confiando en Dios?",
+        "¿De qué forma específica podrías 'ser luz' en tu entorno esta semana?",
+        "Pensá en una persona concreta que podría necesitar ver 'tu luz' esta semana. ¿Qué gesto puntual harías?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué pasó con el gobierno de los jueces?",
+      "question": "Según 3 Nefi 12:3, ¿a quiénes pertenece el reino de los cielos?",
       "options": [
-        "Se fortaleció",
-        "El pueblo se dividió en tribus y el gobierno colapsó",
-        "Se expandió",
-        "Continuó sin cambios"
+        "A los pobres en espíritu que vienen a Cristo",
+        "Únicamente a los líderes religiosos",
+        "A quienes tienen más riqueza material",
+        "Solo a quienes nunca cometieron ningún error"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué causó la caída del gobierno?",
+      "question": "¿Con qué se llena, según 3 Nefi 12:6, a quienes 'padecen hambre y sed de rectitud'?",
       "options": [
-        "Guerra externa",
-        "Orgullo, desigualdad y combinaciones secretas",
-        "Pobreza",
-        "Terremotos"
+        "Con riquezas materiales",
+        "Con el Espíritu Santo",
+        "Con reconocimiento público",
+        "Con conocimiento académico"
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué hizo Nefi cuando vio la división?",
+      "question": "Cristo compara a Sus discípulos con una ciudad asentada sobre una colina y con una vela puesta en un candelero, no debajo de un almud. ¿Qué enseña esa doble imagen sobre vivir el evangelio?",
       "options": [
-        "Se escondió",
-        "Predicó arrepentimiento con gran poder",
-        "Se fue del país",
-        "Renunció"
+        "Que la vida cristiana debe vivirse en secreto, sin que nadie la note",
+        "Que las buenas obras, vividas con sinceridad, naturalmente se vuelven visibles para otros y glorifican al Padre",
+        "Que solo los líderes de la Iglesia deben ser ejemplo público",
+        "Que mostrar las buenas obras siempre es una forma de orgullo"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué señales y milagros hizo Nefi?",
+      "question": "Las Bienaventuranzas describen estados del corazón —humildad, mansedumbre, hambre de rectitud— antes de hablar de acciones concretas. ¿Qué relación establece esto entre el carácter interior y el comportamiento visible?",
       "options": [
-        "Ninguno",
-        "Resucitó muertos y sanó enfermos",
-        "Solo predicó",
-        "Hizo trucos"
+        "Que el comportamiento externo no tiene relación con el estado del corazón",
+        "Que basta con actuar bien externamente, sin que el corazón cambie",
+        "Que el cambio de carácter interior es la base de la que después nace el comportamiento visible como 'luz'",
+        "Que las Bienaventuranzas solo aplican a la vida después de la muerte"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Valentina siente que hacer lo correcto en su curso no sirve de nada porque 'nadie lo nota'. Según la enseñanza de la luz en el candelero, ¿qué le ayudaría a entender?",
+      "options": [
+        "Que tiene razón, y que por eso no vale la pena seguir esforzándose",
+        "Que las buenas obras sinceras, aunque parezcan pequeñas, con el tiempo se hacen notar como una luz que no se puede ocultar",
+        "Que solo las acciones grandes y públicas cuentan como 'luz'",
+        "Que mostrar el propio ejemplo siempre busca aplausos"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cuál era el mensaje principal de Nefi?",
+      "id": 6,
+      "question": "Mateo dice que sentirse 'pobre en espíritu' —es decir, reconocer que necesita ayuda de Dios— lo hace sentir débil frente a sus amigos. Según 3 Nefi 12:3, ¿qué le dirías?",
       "options": [
-        "Buscar riquezas",
-        "Arrepentirse porque Cristo vendría pronto",
-        "Hacer guerra",
-        "Abandonar la tierra"
+        "Que reconocer la propia necesidad de Dios no es debilidad, sino justamente la actitud a la que Cristo promete el reino de los cielos",
+        "Que debería ocultar esa sensación y aparentar seguridad total",
+        "Que ser 'pobre en espíritu' es un defecto que hay que superar cuanto antes",
+        "Que esa bienaventuranza no tiene ninguna aplicación práctica hoy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Tanto la bienaventuranza de los que 'padecen hambre y sed de rectitud' como la imagen de la luz en el candelero comparten una misma idea sobre el discipulado. ¿Cuál es?",
+      "options": [
+        "Que el discipulado es un estado pasivo que no requiere ninguna acción",
+        "Que buscar la rectitud con sinceridad naturalmente se traduce en una vida cuyas buenas obras se hacen visibles para otros",
+        "Que las obras externas son más importantes que el deseo interior de rectitud",
+        "Que ninguna de las dos enseñanzas tiene relación entre sí"
       ],
       "correctAnswer": 1
     }

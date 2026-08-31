@@ -3,85 +3,126 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Este pasaje de dominio de la doctrina resume la meta final de todos los discípulos de Cristo: llegar a ser como nuestro Padre Celestial y Jesucristo. El Salvador invita a los nefitas, y a nosotros hoy, a buscar la perfección. Entendemos que esta perfección es un proceso que se logra únicamente a través de la gracia y la Expiación de Jesucristo a lo largo del tiempo, no de inmediato."
+      "contenido": "Cristo explica que vino a cumplir la ley de Moisés, no a destruirla. Luego presenta una ley superior que examina no solo las acciones externas sino también las intenciones del corazón. Esta enseñanza incluye: controlar el enojo además de no matar, evitar pensamientos lujuriosos además del adulterio, amar a los enemigos además de a los amigos. El pasaje concluye con la invitación a ser perfectos como el Padre Celestial es perfecto."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Jeffrey R. Holland",
+      "fuente": "Liahona, noviembre de 2017, pág. 42",
+      "texto": "Si perseveramos, en algún momento de la eternidad nuestro refinamiento habrá terminado y será completo.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2017/11/saturday-morning-session/be-ye-therefore-perfect-eventually?lang=spa&id=p20#p20"
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "3 Nefi 12:48",
-          "texto": "Por tanto, quisiera que fueseis perfectos así como yo, o como vuestro Padre que está en los cielos es perfecto.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p48#p48"
+          "referencia": "Mateo 5:19",
+          "texto": "De manera que cualquiera que quebrante uno de estos mandamientos muy pequeños, y así enseñe a los hombres, muy pequeño será llamado en el reino de los cielos. Pero cualquiera que los cumpla y los enseñe, este será llamado grande en el reino de los cielos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=spa&id=p19#p19"
         },
         {
-          "referencia": "Moroni 10:32",
-          "texto": "Sí, venid a Cristo, y perfeccionaos en él, y absteneos de toda impiedad...",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p32#p32"
+          "referencia": "3 Nefi 12:29-30",
+          "texto": "Si tu ojo derecho te es ocasión de caer, sácalo y échalo de ti; porque más te vale que se pierda uno de tus miembros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p29-p30#p29"
+        },
+        {
+          "referencia": "3 Nefi 12:48",
+          "texto": "Quisiera, pues, que fueseis perfectos así como yo, o como vuestro Padre que está en los cielos es perfecto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p48#p48"
         }
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "La ley superior que enseña Cristo no agrega más reglas para cumplir por fuera; cambia el lugar donde mira. No alcanza con no matar si el corazón sigue lleno de enojo; no alcanza con no cometer adulterio si la mente elige alimentar pensamientos que van en esa dirección. Ser 'perfecto' en este pasaje no significa nunca fallar, sino avanzar en la misma dirección que el Padre: de adentro hacia afuera. Esta semana, elegí un área donde venís cumpliendo 'la letra' de un mandamiento, y preguntate con honestidad qué pasa realmente en tu corazón respecto a eso."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué significa para ti que la perfección sea un proceso y no un evento inmediato?",
-        "¿Cómo te ayuda el Salvador en tu esfuerzo por ser perfecto?",
-        "¿Qué pequeño paso puedes dar hoy para acercarte más al ejemplo de Cristo?"
+        "¿Ya conocías la diferencia entre la ley de Moisés y la 'ley superior' que enseña Cristo en este capítulo?",
+        "¿Qué diferencia notás entre enfocarse solo en las acciones externas y trabajar en las intenciones del corazón?",
+        "¿Cómo interpretás el mandamiento de ser 'perfecto' en el contexto de este capítulo?",
+        "¿Te costó alguna vez más controlar un pensamiento o una actitud que una acción concreta?",
+        "¿En qué área específica de tu vida sentís que la 'ley superior' podría aplicarse esta semana?",
+        "Pensando en un mandamiento que ya cumplís 'por fuera', ¿qué podrías trabajar esta semana en el 'por dentro'?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué señales ocurrieron cuando Cristo murió?",
+      "question": "Según 3 Nefi 12:48, ¿a qué invita Cristo a Sus seguidores respecto al Padre Celestial?",
       "options": [
-        "Nada especial",
-        "Terremotos, tormentas y tres días de tinieblas",
-        "Solo un eclipse",
-        "Lluvia ligera"
+        "A ser perfectos así como Él y el Padre son perfectos",
+        "A cumplir únicamente la ley de Moisés sin cambios",
+        "A evitar cualquier tipo de crecimiento espiritual",
+        "A juzgar con severidad a quienes cometen errores"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué ciudades fueron destruidas?",
+      "question": "Según el contexto de este capítulo, ¿qué relación tiene Cristo con la ley de Moisés?",
       "options": [
-        "Ninguna",
-        "Zarahemla, Moroni y otras ciudades inicuas",
-        "Solo una",
-        "Todas las ciudades"
+        "Vino a destruirla por completo, sin dejar ningún principio vigente",
+        "Vino a cumplirla, y a partir de ella enseña una ley superior centrada en el corazón",
+        "Nunca hizo mención alguna a la ley de Moisés",
+        "Enseñó que la ley de Moisés ya no tenía ningún valor histórico"
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué escucharon durante las tinieblas?",
+      "question": "Cristo enseña que no basta con no matar, sino que también hay que controlar el enojo; no basta con no cometer adulterio, sino evitar los pensamientos lujuriosos. ¿Qué principio general revela ese patrón?",
       "options": [
-        "Silencio total",
-        "La voz de Cristo lamentando su iniquidad",
-        "Música",
-        "Gritos de guerra"
+        "Que las leyes antiguas ya no tienen ninguna importancia",
+        "Que la ley superior de Cristo examina las intenciones del corazón, no solo el comportamiento externo",
+        "Que solo importan las acciones visibles, nunca los pensamientos",
+        "Que Cristo elimina cualquier estándar de conducta previo"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué invitó Cristo a los que quedaron?",
+      "question": "El versículo 48 concluye la 'ley superior' con la invitación a ser perfectos 'así como' el Padre. ¿Por qué Cristo elige ese punto exacto para hacer esa invitación, después de hablar del corazón y no solo de las acciones?",
       "options": [
-        "A huir",
-        "A venir a Él y ser sanados",
-        "A esconderse",
-        "A pelear"
+        "Porque la perfección de la que habla Cristo nace primero de un cambio interior sincero, no solo de cumplir reglas externas",
+        "Porque quería cerrar el sermón con una frase impactante sin relación con lo anterior",
+        "Porque la perfección solo depende de cuántos mandamientos externos se cumplen",
+        "Porque ese versículo no tiene ninguna conexión con el resto del capítulo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Bruno nunca le pegaría a nadie, pero guarda mucho resentimiento hacia un compañero y no hace nada por soltarlo. Según la ley superior de 3 Nefi 12, ¿qué le ayudaría a entender?",
+      "options": [
+        "Que como nunca actuó con violencia física, no tiene nada que trabajar en ese tema",
+        "Que Cristo enseña que el enojo guardado en el corazón también necesita atención, no solo evitar la violencia física",
+        "Que el resentimiento no tiene ninguna relación con este pasaje",
+        "Que sentir resentimiento es igual de grave que cometer un delito"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué sacrificio dijo Cristo que ya no se requería?",
+      "id": 6,
+      "question": "Sofía piensa que 'ser perfecta' significa no volver a equivocarse nunca a partir de hoy, y eso la desanima porque le parece imposible. Según la cita del élder Holland sobre 'un refinamiento que se completará' y el contexto de 3 Nefi 12:48, ¿qué le ayudaría?",
       "options": [
-        "Ninguno",
-        "El derramamiento de sangre; ahora requiere un corazón quebrantado",
-        "Sacrificios de cosechas",
-        "Todos los sacrificios"
+        "Que tiene razón en desanimarse, porque la perfección se exige de forma inmediata",
+        "Que la perfección que enseña Cristo es un proceso de refinamiento continuo, que se completará plenamente solo a través de Él, y no una exigencia de no fallar nunca desde ya",
+        "Que mejor abandone el esfuerzo, ya que de todos modos es imposible",
+        "Que la perfección no tiene relación con el proceso de crecimiento espiritual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto el mandamiento de controlar el enojo en lugar de solo evitar matar, como la invitación final a ser 'perfectos así como el Padre', comparten un mismo principio central de este capítulo. ¿Cuál es?",
+      "options": [
+        "Que las acciones externas son lo único que Dios evalúa realmente",
+        "Que la verdadera obediencia nace de transformar el corazón, y ese proceso de transformación apunta hacia llegar a ser como el Padre",
+        "Que la ley de Moisés y la ley superior de Cristo son exactamente lo mismo",
+        "Que el enojo y la perfección son temas sin ninguna relación entre sí"
       ],
       "correctAnswer": 1
     }

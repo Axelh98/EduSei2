@@ -21,67 +21,103 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Devocional en BYU, 17 de septiembre de 2019",
+      "texto": "Los profetas rara vez son populares, ¡pero siempre enseñaremos la verdad!",
+      "link": "https://speeches.byu.edu/spa/talks/russell-m-nelson/el-amor-y-las-leyes-de-dios/"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cuando Nefi vio que los ladrones de Gadiantón habían tomado el gobierno, no se quedó callado: subió a una torre en su jardín y oró en voz alta, lamentando la corrupción de su pueblo. Lo acusaron de sedición, pero Dios respaldó sus palabras con una profecía exacta sobre el asesinato del juez superior, y poco después le dio el poder de sellar en la tierra y en el cielo. El presidente Nelson enseñó que los profetas rara vez son populares, pero siempre enseñan la verdad. Decir lo correcto no siempre te va a hacer 'ganar popularidad', y a veces te va a traer rechazo, como le pasó a Nefi. Esta semana, si tenés la oportunidad de decir una verdad incómoda pero necesaria, elegí la valentía de Nefi en lugar del silencio cómodo."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué te enseña el ejemplo de Nefi sobre denunciar la injusticia de manera apropiada?",
-        "¿Cómo describirías el poder de sellamiento que el Señor dio a Nefi?",
-        "¿En qué situaciones necesitas tener el valor de defender la verdad como lo hizo Nefi?"
+        "¿Qué te pareció la forma en que Nefi eligió orar en voz alta desde una torre, sabiendo que la gente lo escucharía?",
+        "Si tuvieras que resumir en una palabra el carácter de Nefi en este capítulo, ¿cuál sería: valentía, fidelidad, o firmeza?",
+        "¿Alguna vez tuviste que decir algo verdadero pero incómodo, sabiendo que podía generarte rechazo?",
+        "¿Qué te parece la enseñanza del presidente Nelson de que 'los profetas rara vez son populares, pero siempre enseñan la verdad'?",
+        "¿Hay alguna verdad incómoda que necesitás decir esta semana, a pesar del posible rechazo?",
+        "Pensando en la fidelidad de Nefi, ¿qué acción concreta podés hacer esta semana para ser fiel aunque no sea lo más popular?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Dónde oró Nefi cuando vio la iniquidad del pueblo?",
+      "question": "¿Desde dónde oró Nefi cuando volvió y encontró que el pueblo se había corrompido bajo el gobierno de los ladrones de Gadiantón?",
       "options": [
-        "En el templo",
-        "En su jardín sobre una torre",
-        "En el bosque",
-        "En la sinagoga"
+        "Desde el altar del templo, en una ceremonia pública",
+        "Desde una torre construida en el jardín cercano a su casa",
+        "Desde la cima de un monte alejado de la ciudad",
+        "Desde la plaza central de Zarahemla"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué lamentó Nefi en su oración?",
+      "question": "¿Qué lamentó específicamente Nefi en su oración desde la torre?",
       "options": [
-        "Su propia situación",
-        "La iniquidad y dureza de corazón del pueblo",
-        "La falta de riquezas",
-        "El clima"
+        "La falta de riquezas materiales entre su pueblo",
+        "Las malas condiciones climáticas de esa temporada",
+        "La iniquidad y la dureza de corazón del pueblo, que buscaba la felicidad cometiendo maldad",
+        "La ausencia de un ejército fuerte para defenderse"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué profetizó Nefi sobre el juez superior?",
+      "question": "Cuando el pueblo se reunió a escuchar la oración de Nefi, algunos lo acusaron de sedición por denunciar la corrupción de los jueces (Helamán 8:1–6). ¿Qué revela esta reacción sobre el costo de hablar la verdad?",
       "options": [
-        "Sería reelecto",
-        "Había sido asesinado por su hermano",
-        "Renunciaría",
-        "Tendría éxito"
+        "Que decir la verdad con valentía puede generar rechazo o acusaciones, incluso cuando la denuncia es justa",
+        "Que Nefi se equivocó al hablar públicamente sobre el tema",
+        "Que el pueblo entero apoyó a Nefi desde el primer momento sin ninguna oposición",
+        "Que denunciar la corrupción nunca genera ningún tipo de conflicto"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué pasó cuando fueron a verificar la profecía de Nefi?",
+      "question": "Nefi profetizó con exactitud que el juez superior había sido asesinado por su propio hermano, y esa profecía se cumplió al pie de la letra (Helamán 9). ¿Qué relación establece este hecho entre el cumplimiento profético y la autoridad de un profeta?",
       "options": [
-        "No encontraron nada",
-        "Encontraron al juez asesinado exactamente como Nefi dijo",
-        "El juez estaba vivo",
-        "Era mentira"
+        "Que cualquier persona puede inventar profecías siempre que suenen convincentes",
+        "Que las profecías nunca tienen ninguna relación con eventos reales y verificables",
+        "Que Nefi ya sabía del asesinato por medios comunes, sin necesidad de revelación",
+        "Que el cumplimiento exacto de una profecía puede servir como evidencia de que quien la dio realmente habla en nombre de Dios"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Cómo probó Nefi que era profeta?",
+      "question": "Mateo se anima a decirle a un amigo que algo que está haciendo no está bien, y el amigo se enoja y lo acusa de 'juzgar'. Según el ejemplo de Nefi, que fue acusado de sedición por señalar la corrupción con la verdad, ¿qué principio le ayudaría?",
       "options": [
-        "Con milagros físicos",
-        "Reveló detalles que solo un profeta podría saber",
-        "Con fuerza",
-        "Con dinero"
+        "Que decir la verdad con amor, aunque genere una reacción negativa inicial, puede ser lo correcto, tal como lo fue para Nefi",
+        "Que nunca debería haber dicho nada, para evitar cualquier conflicto",
+        "Que su amigo tiene toda la razón en enojarse, porque señalar un error siempre está mal",
+        "Que solo los profetas tienen permiso para señalar los errores de otras personas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Valentina fue la única de su grupo que se negó a participar de algo que sabía que estaba mal, y por eso sus amigas la dejaron de lado por un tiempo. Según el ejemplo de Nefi, que fue rechazado por señalar la verdad, ¿qué le podrías decir?",
+      "options": [
+        "Que debió haberse sumado al grupo para evitar el rechazo",
+        "Que el rechazo que sintió no tiene ninguna relación con la valentía de Nefi",
+        "Que sostener lo correcto a veces trae un costo social, como le pasó a Nefi, pero eso no significa que haya actuado mal",
+        "Que nunca más debería expresar sus convicciones frente a un grupo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la valentía de Nefi al denunciar la corrupción desde su torre como el poder de sellamiento que después recibió de Dios (Helamán 10) muestran algo en común sobre la relación entre la fidelidad y la confianza que Dios deposita en una persona. ¿Cuál es?",
+      "options": [
+        "Que el poder de sellamiento se entrega al azar, sin relación con el carácter de la persona",
+        "Que Dios entrega gran responsabilidad y poder a quienes han demostrado fidelidad constante, incluso en medio de la oposición",
+        "Que la valentía de denunciar la corrupción no tiene ninguna relación con recibir bendiciones espirituales",
+        "Que solo quienes evitan cualquier conflicto pueden recibir poder de Dios"
       ],
       "correctAnswer": 1
     }

@@ -3,85 +3,126 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Al ver que la gente está cansada, el Salvador decide irse, pero nota sus lágrimas y su deseo de que se quede. Lleno de compasión, Cristo se queda, sana a sus enfermos y bendice a sus niños uno por uno. Ángeles descienden del cielo y ministran a los niños envueltos en fuego. Este es uno de los capítulos más tiernos que muestra la profunda compasión y amor personal de Jesucristo."
+      "contenido": "Después de enseñar a los nefitas, Jesucristo percibe que están abrumados por Sus enseñanzas y que necesitan tiempo para reflexionar. En lugar de partir inmediatamente, permanece con ellos. Sana a todos los enfermos individualmente. Luego pide que traigan a los niños, los bendice uno por uno, y ora al Padre por ellos. Durante este momento sagrado, los ángeles descienden del cielo y rodean a los niños con fuego. El capítulo muestra la compasión y el amor individual de Cristo."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dallin H. Oaks",
+      "fuente": "Liahona, noviembre de 2006, págs. 6-9",
+      "texto": "El poder sanador del Señor Jesucristo, ya sea que quite nuestras cargas o nos fortalezca a fin de perseverar y vivir con ellas como lo hizo el apóstol Pablo, está a nuestro alcance para toda aflicción de la vida terrenal. […] Su expiación es lo suficientemente poderosa no sólo para abarcar y pagar el precio del pecado, sino también para sanar toda aflicción terrenal.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2006/11/he-heals-the-heavy-laden?lang=spa&id=p14,p32#p32"
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "3 Nefi 17:6-7",
-          "texto": "Y les dijo: He aquí, mis entrañas rebosan de compasión por vosotros. ¿Tenéis enfermos entre vosotros? Traedlos aquí...",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=spa&id=p6-p7#p6"
+          "referencia": "3 Nefi 17:7–17",
+          "texto": "¿Hay entre vosotros alguno que esté enfermo? Traedlos aquí. Y los sanó a todos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=spa&id=p7-p17#p7"
         },
         {
           "referencia": "3 Nefi 17:21",
-          "texto": "Y cuando hubo dicho estas palabras, lloró, y la multitud dio testimonio de ello; y tomó a sus niños pequeños, uno por uno, y los bendijo, y rogó al Padre por ellos.",
+          "texto": "Tomó a sus niños pequeños, uno por uno, y los bendijo, y rogó al Padre por ellos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=spa&id=p21#p21"
+        },
+        {
+          "referencia": "3 Nefi 17:17",
+          "texto": "y no hay lengua que pueda hablar, ni hombre alguno que pueda escribir, ni corazón de hombre que pueda concebir tan grandes y maravillosas cosas como las que vimos y oímos a Jesús hablar; y nadie puede conceptuar el gozo que llenó nuestras almas cuando lo oímos rogar por nosotros al Padre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=spa&id=p17#p17"
         }
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "Cristo tenía todo el derecho de irse: ya había enseñado, ya había hecho lo que vino a hacer. Pero notó que Su gente estaba cansada y necesitaba más, y se quedó. Sanó a cada persona, una por una, no como grupo. Bendijo a cada niño, uno por uno, no con una sola oración general. Ese detalle importa: el amor de Cristo no es solo para 'la gente' en abstracto, es para vos en particular. Esta semana, elegí tratar a alguien cercano con esa misma atención individual —no un gesto genérico, sino algo pensado específicamente para esa persona."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué nos enseña este relato sobre los sentimientos que Jesucristo tiene hacia nosotros personalmente?",
-        "¿Cómo has sentido la compasión del Salvador en un momento de necesidad?",
-        "¿Por qué crees que bendijo a los niños 'uno por uno'?"
+        "¿Sabías que Cristo se quedó un tiempo extra con los nefitas en vez de partir enseguida?",
+        "¿Qué te enseña este capítulo sobre el amor de Cristo por cada persona en particular?",
+        "¿En qué momentos de tu vida sentiste que Cristo 'se quedó' con vos cuando lo necesitabas?",
+        "¿Alguna vez alguien te prestó atención de forma individual, en vez de tratarte como parte de un grupo, y qué diferencia hizo eso?",
+        "¿Cómo podrías mostrar una compasión similar hacia alguien de tu entorno esta semana?",
+        "Pensá en una persona concreta a la que podrías prestarle atención individual, no genérica, esta semana. ¿Quién es?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseñó Cristo sobre el bautismo?",
+      "question": "Según 3 Nefi 17:7-17, ¿qué hizo Cristo al notar que había personas enfermas entre los nefitas?",
       "options": [
-        "Que no es necesario",
-        "La manera correcta de bautizar por inmersión",
-        "Que puede hacerse de cualquier forma",
-        "Que es opcional"
+        "Les pidió que oraran solos por su propia sanidad",
+        "Los sanó a todos, atendiéndolos personalmente",
+        "Les dijo que regresaran al día siguiente",
+        "Envió a Sus discípulos a sanarlos en Su lugar"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué doctrina clara enseñó Cristo en 3 Nefi 11?",
+      "question": "¿Cómo bendijo Cristo a los niños que le trajeron, según 3 Nefi 17:21?",
       "options": [
-        "Su doctrina de fe, arrepentimiento, bautismo y el don del Espíritu Santo",
-        "Solo reglas",
-        "Leyes complejas",
-        "Tradiciones"
+        "Con una sola oración general para todo el grupo",
+        "Uno por uno, orando al Padre por cada uno individualmente",
+        "Solo bendijo a los niños mayores",
+        "Pidió a los padres que los bendijeran ellos mismos"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué advirtió Cristo sobre las contenciones?",
+      "question": "Cristo decide quedarse más tiempo con los nefitas al notar que estaban abrumados, en vez de continuar Su camino de inmediato. ¿Qué revela esa decisión sobre la forma en que Cristo atiende a las personas?",
       "options": [
-        "Que son buenas",
-        "Que el espíritu de contención no es de Él sino del diablo",
-        "Que no importan",
-        "Que son necesarias"
+        "Que prioriza cumplir un itinerario por encima de las necesidades reales de la gente",
+        "Que presta atención genuina a lo que las personas necesitan en el momento, más allá de lo planeado",
+        "Que solo actúa según lo que ya tenía decidido de antemano, sin importar las circunstancias",
+        "Que la fatiga de la gente no tiene ninguna relevancia para Él"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿A quiénes llamó Cristo para ministrar?",
+      "question": "El versículo 17 describe que ningún hombre puede escribir ni concebir el gozo que sintieron al oír a Cristo orar por ellos. ¿Qué sugiere esa descripción sobre la naturaleza de esa experiencia?",
       "options": [
-        "A los ricos",
-        "A doce discípulos nefitas",
-        "A los reyes",
-        "A los guerreros"
+        "Que fue una experiencia común y fácil de explicar con palabras",
+        "Que fue una experiencia espiritual tan profunda que superaba la capacidad del lenguaje humano para describirla",
+        "Que los discípulos exageraron la importancia del momento",
+        "Que la oración de Cristo no tuvo ningún efecto real en los presentes"
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué oró Cristo por el pueblo?",
+      "question": "Bruno atiende a un grupo grande de compañeros en un proyecto, pero siente que 'tratar a todos por igual' significa no prestarle atención especial a nadie en particular. Según el ejemplo de Cristo sanando y bendiciendo uno por uno, ¿qué le ayudaría a reconsiderar?",
       "options": [
-        "Por sus riquezas",
-        "Por su unidad y firmeza en la fe",
-        "Por su poder",
-        "Por su fama"
+        "Que atender a las personas de forma genérica siempre es más efectivo que hacerlo de forma individual",
+        "Que el ejemplo de Cristo muestra que la atención personalizada, uno por uno, puede tener un valor especial que un trato solo grupal no logra",
+        "Que Cristo nunca se preocupó por las necesidades individuales de las personas",
+        "Que ese pasaje no tiene ninguna aplicación a situaciones de grupo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Sofía siente que, al ser parte de un grupo de jóvenes numeroso, 'se pierde entre la multitud' y que a Dios no podría importarle su situación particular. Según 3 Nefi 17, ¿qué le ayudaría a pensar distinto?",
+      "options": [
+        "Que tiene razón: Dios solo se ocupa de las necesidades grupales, no de las individuales",
+        "Que el ejemplo de Cristo bendiciendo a los niños 'uno por uno' muestra que el amor de Dios alcanza a cada persona de forma individual, sin importar el tamaño del grupo",
+        "Que solo las personas con roles de liderazgo reciben atención individual de Dios",
+        "Que ese relato no tiene relación con sentirse parte de un grupo grande"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la decisión de Cristo de quedarse más tiempo como el hecho de sanar y bendecir a las personas una por una enseñan un mismo principio sobre Su forma de amar. ¿Cuál es?",
+      "options": [
+        "Que Cristo prioriza cumplir con un itinerario general por encima de las personas",
+        "Que el amor de Cristo se expresa en atención genuina e individual, no solo en gestos generales hacia la multitud",
+        "Que solo los grupos grandes reciben la atención de Cristo",
+        "Que estos dos hechos no tienen ninguna relación entre sí"
       ],
       "correctAnswer": 1
     }

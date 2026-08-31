@@ -3,101 +3,123 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Esta lección repasa los pasajes de dominio de la doctrina estudiados previamente. El propósito es fortalecer la memorización de las referencias y las frases clave, así como profundizar la comprensión de las doctrinas enseñadas. El repaso ayuda a consolidar el conocimiento y facilita el recuerdo de estos pasajes importantes. También proporciona una oportunidad para reflexionar sobre cómo estas doctrinas se aplican a la vida diaria."
+      "contenido": "Esta lección repasa dos pasajes de dominio de la doctrina ya estudiados: Alma 39:9, donde Alma le pide a su hijo Coriantón que deje de excusarse y se arrepienta de verdad, y Alma 41:10, donde Alma le enseña a Coriantón que 'la maldad nunca fue felicidad'. Los dos versículos vienen del mismo consejo de un padre a un hijo, pero apuntan a dos preguntas distintas: qué hacer con un error ya cometido, y por qué vale la pena no repetirlo. Repasar no es solo memorizar de nuevo las palabras exactas; es preguntarte si podrías explicarle estos dos versículos a alguien que nunca los escuchó, usando tus propias palabras y un ejemplo real de tu vida."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 39:9",
+          "texto": "Hijo mío, quisiera que te arrepintieses y abandonases tus pecados, y no te dejases llevar más por las concupiscencias de tus ojos, sino que te refrenaras de todas estas cosas; porque a menos que hagas esto, de ningún modo podrás heredar el reino de Dios. ¡Oh recuerda, y comprométete, y abstente de estas cosas!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Alma 41:10",
+          "texto": "La maldad nunca fue felicidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p10#p10"
+        }
+      ]
     },
     {
       "tipo": "enseñanza",
-      "autor": "Presidente Boyd K. Packer",
-      "fuente": "Liahona, noviembre de 2013, págs. 26-28",
-      "texto": "Hagan de la lectura de las Escrituras una parte de su rutina habitual y las bendiciones vendrán. En las Escrituras hay una voz de advertencia, pero también mucho sustento.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-key-to-spiritual-protection?lang=spa&id=p30#p30"
+      "autor": "Presidente Dallin H. Oaks",
+      "fuente": "Liahona, abril de 2019",
+      "texto": "Para ser limpios mediante el arrepentimiento, debemos abandonar nuestros pecados y confesarlos al Señor y a Su juez terrenal, cuando se requiera.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/51oaks?lang=spa&id=p8#p8"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Alma 39:9 y Alma 41:10 son, en el fondo, dos caras de la misma moneda: uno te muestra qué hacer cuando ya te equivocaste, el otro te recuerda por qué conviene no seguir por ese camino. Memorizarlos de nuevo esta semana no es repetir un ejercicio viejo, sino tener ambas herramientas listas para el momento exacto en que las necesites: cuando quieras excusarte en lugar de asumir un error, o cuando alguien te diga que 'total, no pasa nada'. Elegí uno de los dos versículos y practicalo en voz alta todos los días de esta semana hasta decirlo de memoria sin dudar."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Cuáles de los pasajes de dominio de la doctrina has memorizado completamente?",
-        "¿Cómo te ha ayudado conocer estos pasajes en situaciones específicas?",
-        "¿Qué método de estudio te ha funcionado mejor para memorizar las escrituras?"
+        "De estos dos versículos, ¿cuál tenías más fresco en la memoria antes de este repaso?",
+        "¿Qué palabra de cada versículo te parece la más directa: 'comprométete' en Alma 39:9, o 'nunca' en Alma 41:10?",
+        "¿Alguna vez te costó reconocer un error en lugar de buscar una excusa?",
+        "¿Viste alguna vez a alguien parecer feliz haciendo algo que sabías que no estaba bien? ¿Qué pensaste en ese momento?",
+        "Elegí uno de los dos versículos para memorizar esta semana. ¿Cuál elegís y por qué?",
+        "¿A quién le podrías compartir uno de estos versículos esta semana, y en qué situación te parece que le serviría?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué problema interno enfrentaron los nefitas justo cuando los lamanitas comenzaban a atacar (Alma 51)?",
+      "question": "¿Qué le pide Alma a su hijo Coriantón que haga, además de arrepentirse, según la frase clave de Alma 39:9?",
       "options": [
-        "Falta de armas para defenderse",
-        "Terremotos que destruyeron sus fortificaciones",
-        "Falta de alimentos en las ciudades",
-        "Divisiones políticas entre los realistas (que querían un rey) y los hombres libres"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 2,
-      "question": "¿Qué general nefita mató a Amalickíah al entrar sigilosamente en su tienda durante la noche?",
-      "options": [
-        "Teáncum",
-        "Pahorán",
-        "El Capitán Moroni",
-        "Helamán"
+        "Que se abstenga de dejarse llevar por las concupiscencias de sus ojos",
+        "Que se aleje definitivamente de su familia",
+        "Que renuncie a cualquier cargo de liderazgo",
+        "Que espere a ser mayor para arrepentirse"
       ],
       "correctAnswer": 0
     },
     {
-      "id": 3,
-      "question": "La división entre realistas y hombres libres surge justo cuando los lamanitas están atacando. ¿Qué principio enseña el momento exacto en que ocurre esta crisis interna?",
+      "id": 2,
+      "question": "Según la frase clave de Alma 41:10, ¿qué es lo que 'nunca fue felicidad'?",
       "options": [
-        "Que la política y la guerra son temas completamente separados en este relato",
-        "Que las divisiones internas suelen manifestarse justamente en los momentos de mayor presión externa, aprovechando la vulnerabilidad del grupo",
-        "Que las divisiones internas nunca coinciden con amenazas externas",
-        "Que los lamanitas causaron directamente la división política nefita"
+        "El estudio de las Escrituras",
+        "La maldad",
+        "El trabajo arduo",
+        "La pobreza"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Alma 39:9 dice 'recuerda, y comprométete, y abstente de estas cosas'. ¿Qué enseña esa secuencia de tres verbos sobre el proceso de dejar atrás un pecado?",
+      "options": [
+        "Que basta con sentir remordimiento, sin necesidad de ninguna acción concreta",
+        "Que el arrepentimiento requiere recordar el error, decidir un cambio real y después sostenerlo con acciones concretas",
+        "Que alcanza con recordar el error, sin que haga falta ningún compromiso posterior",
+        "Que el orden de esos tres pasos no tiene ninguna importancia"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "Frente a la invasión lamanita, Moroni exigió que los realistas juraran apoyar la causa de la libertad; quienes se negaron enfrentaron consecuencias severas. ¿Qué muestra esta decisión sobre el momento en que ocurrió?",
+      "question": "Alma 41:10 también dice que la iniquidad queda 'amontonada' sobre la propia cabeza del que la comete. ¿Qué idea comparte esa imagen con el consejo de Alma 39:9 de no 'excusarse' por los pecados?",
       "options": [
-        "Que los realistas tenían toda la razón en negarse",
-        "Que esta decisión no tuvo relación alguna con la guerra en curso",
-        "Que la neutralidad, en ese momento crítico de guerra, representaba una amenaza real a la seguridad de todo el pueblo",
-        "Que Moroni actuó sin ninguna razón justificada"
+        "Que ambos versículos enseñan que las consecuencias vienen de las propias decisiones, no de una excusa externa ni de un castigo arbitrario",
+        "Que ninguno de los dos versículos tiene relación con la responsabilidad personal",
+        "Que solo Alma 39:9 habla de consecuencias, mientras que Alma 41:10 habla únicamente de reglas sociales",
+        "Que los dos versículos contradicen la idea de que las decisiones tienen consecuencias"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "Valentina nota que un grupo de compañeros se pelea por cosas menores justo antes de un examen importante, distrayendo a todo el curso. ¿Qué principio de Alma 51–52 se aplicaría a esa situación?",
+      "question": "Mateo hizo trampa en un examen y ahora piensa 'ya está hecho, no tiene sentido decir nada'. Según Alma 39:9, ¿qué le ayudaría a entender?",
       "options": [
-        "Que los conflictos personales son totalmente independientes de los objetivos comunes",
-        "Que solo los conflictos grandes merecen atención",
-        "Que las divisiones y los conflictos internos, incluso por temas menores, pueden debilitar a un grupo justo cuando más necesita estar unido para enfrentar un desafío común",
-        "Que las peleas internas nunca afectan el desempeño de un grupo"
+        "Que efectivamente ya no hay nada que hacer una vez cometido el error",
+        "Que Alma invita justamente a lo contrario: recordar el error, comprometerse a cambiar y abstenerse de repetirlo, en cualquier momento",
+        "Que solo vale la pena arrepentirse de errores muy graves",
+        "Que basta con sentirse mal un rato para que el asunto quede resuelto"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
-      "question": "Sofía ve que nadie en su grupo se anima a defender a un compañero que está siendo tratado injustamente, por miedo a las consecuencias. Según el ejemplo valiente de Teáncum al enfrentar directamente la amenaza de Amalickíah, ¿qué principio le ayudaría?",
+      "question": "Camila ve en redes sociales a alguien que parece muy feliz llevando un estilo de vida que ella sabe que no está bien, y empieza a dudar de si vale la pena seguir sus propios estándares. Según Alma 41:10, ¿qué le ayudaría a responder esa duda?",
       "options": [
-        "Que actuar con decisión siempre implica actuar de forma violenta",
-        "Que a veces proteger a otros requiere valentía para actuar de manera decidida, incluso cuando implica cierto riesgo personal",
-        "Que es mejor no involucrarse nunca en los problemas de otros",
-        "Que la valentía de Teáncum no tiene ninguna aplicación fuera del contexto militar"
+        "Que debería copiar ese estilo de vida sin cuestionarlo",
+        "Que la apariencia externa de felicidad en redes sociales no siempre refleja la paz interior duradera de la que habla Alma",
+        "Que Alma se equivocó en este punto de su enseñanza",
+        "Que la felicidad genuina no tiene relación con las decisiones que uno toma"
       ],
       "correctAnswer": 1
     },
     {
       "id": 7,
-      "question": "Tanto la crisis de los realistas contra los hombres libres como la valentía de Teáncum al enfrentar a Amalickíah enseñan algo en común sobre proteger lo que importa. ¿Cuál es?",
+      "question": "Alma 39:9 y Alma 41:10 vienen del mismo consejo de un padre a su hijo. ¿Cuál es el principio común que une a ambos versículos?",
       "options": [
-        "Que defender la libertad y la fe de un pueblo requiere tanto unidad interna como acción valiente frente a las amenazas externas",
-        "Que la unidad interna no tiene relación alguna con la capacidad de enfrentar amenazas externas",
-        "Que solo los líderes militares tienen la responsabilidad de proteger al pueblo",
-        "Que evitar el conflicto es siempre la mejor estrategia, sin excepción"
+        "Que el pasado no se puede cambiar, así que no vale la pena esforzarse",
+        "Que enfrentar el pecado con honestidad y abandonarlo de verdad es el único camino hacia la felicidad duradera",
+        "Que la felicidad y el arrepentimiento son dos temas completamente sin relación entre sí",
+        "Que solo los líderes religiosos necesitan aplicar estos principios"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

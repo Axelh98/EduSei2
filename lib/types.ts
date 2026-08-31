@@ -52,6 +52,8 @@ export interface Lesson {
     | "Bloque de Escrituras - Ven Sigueme"
     | "Preparación para la Vida"
     | "Dominio de la Doctrina"
+    | "Evalúa tu aprendizaje"
+    | "Repaso del Dominio de la doctrina"
     | "Para la Fortaleza de la Juventud"
     | "Especial"
     | "Religión 250"

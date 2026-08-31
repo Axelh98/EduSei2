@@ -26,69 +26,105 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Dallin H. Oaks",
+      "fuente": "Liahona, mayo de 2004",
+      "texto": "¿Qué tal si el día de Su venida fuese mañana? Si supiéramos que mañana nos encontraríamos con el Señor... ¿qué haríamos hoy?",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2004/05/preparation-for-the-second-coming?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Samuel el Lamanita profetizó con una precisión asombrosa: cinco años exactos antes de que naciera Cristo, anunció que habría una noche sin oscuridad y una nueva estrella en el cielo. Cuando esas señales se cumplieron tal como las había descrito, quedó claro que Dios cumple Sus promesas en el momento exacto que Él decide. El élder Dallin H. Oaks preguntó: '¿Qué tal si el día de Su venida fuese mañana? ¿Qué haríamos hoy?' Las señales del nacimiento de Cristo no eran solo un espectáculo en el cielo; eran una invitación a prepararse con anticipación, no de último momento. Esta semana, elegí una preparación espiritual concreta —oración, Escrituras, un mandamiento pendiente— como si supieras que el Salvador viene mañana."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Cómo describirías el problema del materialismo según las enseñanzas de Samuel?",
-        "¿Qué significa que los tesoros se vuelvan 'resbaladizos' cuando el corazón está en ellos?",
-        "¿En qué maneras modernas se manifiesta el rechazo a los profetas vivientes mientras se honra a los muertos?"
+        "¿Qué señal de las que profetizó Samuel te parece más impresionante: la noche sin oscuridad, o la nueva estrella?",
+        "Si tuvieras que esperar cinco años exactos para que se cumpliera una promesa de Dios, ¿cómo creés que te sentirías con el paso del tiempo?",
+        "¿Alguna vez tuviste que esperar mucho tiempo para ver cumplida una promesa o una respuesta a una oración?",
+        "¿Qué te parece la pregunta del élder Oaks: '¿Qué tal si el día de Su venida fuese mañana? ¿Qué harías hoy?'",
+        "Si el Salvador viniera mañana, ¿qué cambiarías hoy mismo en tu vida espiritual?",
+        "Pensando en la precisión de las señales de Samuel, ¿qué acción concreta podés tomar esta semana para prepararte espiritualmente, en lugar de dejarlo para después?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué señal profetizó Samuel del nacimiento de Cristo?",
+      "question": "¿Qué señal profetizó Samuel para el nacimiento de Cristo, referida a la ausencia de oscuridad?",
       "options": [
-        "Un terremoto",
-        "Un día, una noche y un día sin obscuridad",
-        "Una inundación",
-        "Una guerra"
+        "Un terremoto que sacudiría toda la tierra",
+        "Un día, una noche y un día sin oscuridad, como si todo fuera un solo día",
+        "Una inundación que cubriría las ciudades bajas",
+        "Una guerra que uniría a nefitas y lamanitas"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué otra señal celestial profetizó Samuel?",
+      "question": "Además de la noche sin oscuridad, ¿qué otra señal celestial profetizó Samuel para anunciar el nacimiento de Cristo?",
       "options": [
-        "Un cometa",
-        "Una nueva estrella",
-        "La luna desaparecería",
-        "El sol se apagaría"
+        "El paso de un cometa visible desde toda la tierra",
+        "La desaparición temporal de la luna",
+        "La aparición de una nueva estrella en el cielo",
+        "Un eclipse total de sol"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Cuánto tiempo después del nacimiento vendría la muerte de Cristo?",
+      "question": "Samuel profetizó estas señales cinco años antes de que se cumplieran (Helamán 14:2). ¿Qué principio ilustra el hecho de que la profecía se cumpliera exactamente como fue anunciada, después de tanto tiempo?",
       "options": [
-        "400 años",
-        "5 años",
-        "600 años",
-        "Aproximadamente 33-34 años"
+        "Que Dios cumple Sus promesas en el tiempo que Él determina, aunque eso implique una larga espera para quienes creen",
+        "Que las profecías del Libro de Mormón normalmente no se cumplen con exactitud",
+        "Que el paso del tiempo hace que las profecías pierdan su validez",
+        "Que Samuel modificó su profecía original para que coincidiera con los hechos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Qué relación establece el capítulo entre las señales del nacimiento y las señales de la muerte de Cristo que también profetizó Samuel?",
+      "options": [
+        "Que ambas señales estaban destinadas a demostrar el mismo evento repetido dos veces",
+        "Que las señales del nacimiento eran más importantes que las de la muerte",
+        "Que no existe ninguna relación entre ambos conjuntos de señales",
+        "Que ambos conjuntos de señales servían como testimonio inconfundible de que Jesucristo es real, tanto en Su nacimiento como en Su muerte y resurrección"
       ],
       "correctAnswer": 3
     },
     {
-      "id": 4,
-      "question": "¿Qué señales profetizó de la muerte de Cristo?",
+      "id": 5,
+      "question": "Sofía siente que le pidió a Dios una respuesta hace mucho tiempo y todavía no la recibió, y está por dejar de tener fe en que llegará. Según la espera de cinco años antes del cumplimiento de la profecía de Samuel, ¿qué principio le ayudaría?",
       "options": [
-        "Nada especial",
-        "Tres días de tinieblas, truenos, relámpagos y terremotos",
-        "Solo un eclipse",
-        "Lluvia"
+        "Que si una respuesta tarda, definitivamente significa que Dios no va a responder",
+        "Que las promesas de Dios pueden cumplirse en Su propio tiempo, no necesariamente en el que nosotros esperamos, y que eso no significa que no vayan a cumplirse",
+        "Que dejar de tener fe es la respuesta más razonable ante la espera",
+        "Que solo los profetas antiguos recibían promesas que realmente se cumplían"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Por qué vendrían estas señales?",
+      "id": 6,
+      "question": "Luca escuchó la pregunta '¿qué tal si el día de Su venida fuese mañana?' y se dio cuenta de que viene posponiendo arreglar las cosas con un amigo desde hace meses. Según esa enseñanza del élder Oaks, ¿qué sería lo más coherente que podría hacer?",
       "options": [
-        "Sin razón",
-        "Para que todos supieran que Cristo había nacido y moriría",
-        "Para asustar",
-        "Por eventos naturales"
+        "Seguir posponiendo la conversación indefinidamente, ya que no hay una fecha exacta para la Segunda Venida",
+        "Esperar una señal clara en el cielo antes de tomar cualquier decisión",
+        "Actuar ahora para resolver lo pendiente, en lugar de dejarlo para 'algún día', tomando en serio la idea de vivir preparado",
+        "Ignorar la pregunta porque no tiene relación con sus relaciones personales"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto el cumplimiento exacto de las señales anunciadas por Samuel como la pregunta del élder Oaks sobre estar listos para la venida del Señor comparten un mismo principio. ¿Cuál es?",
+      "options": [
+        "Que la preparación espiritual constante importa más que predecir el momento exacto de los eventos futuros de Dios",
+        "Que solo quienes pueden predecir fechas exactas están realmente preparados espiritualmente",
+        "Que las señales celestiales reemplazan la necesidad de vivir con fe día a día",
+        "Que la preparación espiritual solo es relevante cerca de eventos proféticos importantes"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

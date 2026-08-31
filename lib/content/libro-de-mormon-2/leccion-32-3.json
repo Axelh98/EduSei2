@@ -3,90 +3,121 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Cristo instruye a la multitud y a Sus discípulos sobre la importancia vital de la oración constante para no caer en tentación. Él enseña a orar al Padre en Su nombre y a incluir a la familia en las oraciones. Al día siguiente, los doce discípulos enseñan a la multitud, oran por el Espíritu Santo y son bautizados. Cristo entonces ora al Padre agradeciendo la fe de ellos, y los discípulos son transfigurados por el poder del Espíritu."
+      "contenido": "Cristo instituye la Santa Cena entre los nefitas. Bendice el pan y el vino, los da a Sus discípulos, y manda que ellos hagan lo mismo con la multitud. Explica el simbolismo: el pan representa Su cuerpo, el vino representa Su sangre derramada para la remisión de pecados. Instruye sobre participar dignamente del sacramento y sobre la importancia de renovar continuamente los convenios de recordarle siempre. Esta ordenanza se establece como parte central de la adoración."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "Liahona, noviembre de 2017, pág. 36",
+      "texto": "Comer Su carne y beber Su sangre es una manera contundente de expresar cuán completamente debemos traer al Salvador a nuestra vida, a nuestro mismo ser.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-living-bread-which-came-down-from-heaven?lang=spa&id=p16#p16"
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "3 Nefi 18:15",
-          "texto": "De cierto, de cierto os digo que debéis velar y orar siempre, no sea que el diablo os tiente, y seáis llevados cautivos por él.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p15#p15"
+          "referencia": "3 Nefi 18:7",
+          "texto": "Y haréis esto siempre en memoria de mi cuerpo. Y será un testimonio al Padre de que siempre os acordáis de mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p7#p7"
         },
         {
-          "referencia": "3 Nefi 18:21",
-          "texto": "Orad al Padre en vuestras familias, siempre en mi nombre, para que sean bendecidos vuestras esposas y vuestros hijos.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p21#p21"
-        },
-        {
-          "referencia": "3 Nefi 19:22–24",
-          "texto": "Padre, les has dado el Espíritu Santo porque creen en mí; y ves que creen en mí, porque los oyes, y oran a mí; y oran a mí porque estoy con ellos. Y ahora, Padre, te ruego por ellos, y también por todos aquellos que han de creer en sus palabras, para que crean en mí, para que yo sea en ellos como tú, Padre, eres en mí, para que seamos uno . Y aconteció que cuando Jesús hubo orado así al Padre, volvió a sus discípulos, y he aquí, continuaban orando a él sin cesar; y no multiplicaban muchas palabras, porque les era manifestado lo que debían suplicar , y estaban llenos de anhelo.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=spa&id=p22-p24#p22"
+          "referencia": "3 Nefi 18:11",
+          "texto": "Y haréis esto en memoria de mi sangre, para que testifiquéis al Padre que siempre os acordáis de mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p11#p11"
         }
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "La Santa Cena no es un ritual que 'hay que hacer' cada semana; es la forma que Cristo mismo eligió para que Sus seguidores no lo olviden. 'Haréis esto en memoria de mí' aparece dos veces en pocos versículos, una por el pan y otra por el agua, como si Cristo quisiera asegurarse de que quede claro: recordar no es opcional, es el corazón del convenio. Esta semana, cuando participes de la Santa Cena, elegí pensar en un momento concreto de tu vida donde necesitaste Su ayuda, en vez de dejar que esos minutos pasen en piloto automático."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Por qué es importante 'velar y orar siempre'?",
-        "¿Qué impacto tiene la oración familiar en tu hogar?",
-        "¿Cómo puedes prepararte para que el Espíritu te guíe en tus propias oraciones?"
+        "¿Con qué frecuencia sentís que tu mente realmente está presente durante la Santa Cena?",
+        "¿Qué haces durante la semana para prepararte para esa ordenanza?",
+        "¿De qué maneras específicas te 'acordás' del Salvador durante ese momento?",
+        "¿Cómo has notado que se cumple la promesa de tener Su Espíritu al recordarlo?",
+        "Pensá en una distracción común que te aleja durante la Santa Cena. ¿Qué podrías hacer distinto esta semana?",
+        "¿Qué momento concreto de tu vida te gustaría traer a la mente la próxima vez que participes de la Santa Cena?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "Según 3 Nefi 11:29, ¿de quién es el espíritu de contención?",
+      "question": "Según 3 Nefi 18:7, ¿qué representa el pan de la Santa Cena?",
       "options": [
-        "De Dios",
-        "Del diablo",
-        "Neutral",
-        "De los profetas"
+        "El cuerpo de Cristo",
+        "La ley de Moisés",
+        "El pueblo nefita en su totalidad",
+        "Los doce discípulos escogidos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué incita el diablo en los corazones según este versículo?",
+      "question": "Según 3 Nefi 18:11, ¿de qué es testimonio al Padre el emblema del vino o agua?",
       "options": [
-        "Paz",
-        "A contender con ira unos con otros",
-        "Amor",
-        "Paciencia"
+        "De que el pueblo cumplió la ley de Moisés",
+        "De que siempre se acuerdan de Cristo",
+        "De que los discípulos fueron doce en número",
+        "De que la ciudad fue reconstruida"
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Cuál es la doctrina de Cristo sobre disputas?",
+      "question": "Cristo repite la frase 'en memoria de mí' tanto al instituir el pan como el vino. ¿Qué revela esa repetición sobre el propósito central de esta ordenanza?",
       "options": [
-        "Que son buenas",
-        "Que no debe haber disputas sobre Su doctrina",
-        "Que son necesarias",
-        "Que no importan"
+        "Que el propósito principal es simplemente compartir una comida en comunidad",
+        "Que recordar a Cristo de manera continua es el corazón mismo de esta ordenanza y del convenio que representa",
+        "Que la repetición no tiene ningún significado especial",
+        "Que el pan y el vino representan dos convenios completamente distintos sin relación entre sí"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Cómo debemos resolver diferencias según este principio?",
+      "question": "La cita del élder Christofferson dice que participar de estos emblemas es una forma de 'traer al Salvador a nuestra vida, a nuestro mismo ser'. ¿Cómo conecta esa idea con la instrucción de 'acordarse siempre' de 3 Nefi 18:7?",
       "options": [
-        "Con ira",
-        "Con el espíritu de mansedumbre y amor",
-        "Ignorándolas",
-        "Con violencia"
+        "Ambas enseñan que la Santa Cena es solo un símbolo sin ninguna conexión personal real",
+        "Ambas apuntan a que recordar a Cristo debe traducirse en integrarlo de forma real y continua en la propia vida, no solo en un recuerdo pasajero",
+        "Ninguna de las dos tiene relación con la vida diaria del participante",
+        "Ambas se refieren únicamente a un acto ceremonial sin ninguna aplicación personal"
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué nos enseña sobre la unidad en la Iglesia?",
+      "question": "Mateo participa de la Santa Cena todas las semanas, pero reconoce que su mente suele estar en otra cosa durante esos minutos. Según el énfasis de 3 Nefi 18 en 'acordarse siempre', ¿qué le ayudaría a cambiar?",
       "options": [
-        "Que no es importante",
-        "Que debemos estar unidos sin contenciones",
-        "Que siempre habrá peleas",
-        "Que la unidad es imposible"
+        "Que no hay ningún problema en que su mente esté distraída, ya que el ritual funciona igual",
+        "Que la ordenanza invita justamente a una atención consciente y renovada, así que podría elegir de antemano un pensamiento concreto en qué enfocarse",
+        "Que solo los adultos necesitan concentrarse realmente durante la Santa Cena",
+        "Que 'acordarse de Cristo' no tiene relación con estar presente mentalmente en ese momento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Camila siente que después de cometer un error durante la semana, 'no tiene sentido' participar plenamente de la Santa Cena ese domingo. Según el propósito de esta ordenanza, ¿qué le ayudaría a repensarlo?",
+      "options": [
+        "Que tiene razón, y que debería evitar participar hasta sentirse completamente digna por sus propios méritos",
+        "Que la Santa Cena existe precisamente para renovar el convenio y recordar la Expiación de Cristo, lo cual incluye la oportunidad de arrepentirse y volver a comprometerse",
+        "Que la Santa Cena no tiene ninguna relación con el arrepentimiento personal",
+        "Que solo quienes nunca cometen errores deberían participar del sacramento"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto el simbolismo del pan y el vino como la instrucción repetida de 'acordarse siempre' comparten un mismo propósito central en este capítulo. ¿Cuál es?",
+      "options": [
+        "Que la Santa Cena es principalmente un evento social sin mayor trasfondo espiritual",
+        "Que la ordenanza fue diseñada para mantener viva, de forma constante y personal, la memoria del sacrificio de Cristo y el convenio con Él",
+        "Que el pan y el vino no tienen relación entre sí en cuanto a su simbolismo",
+        "Que solo importa la forma externa del ritual, no su significado interior"
       ],
       "correctAnswer": 1
     }

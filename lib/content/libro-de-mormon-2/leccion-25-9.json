@@ -3,87 +3,123 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Mormón continúa narrando las guerras finales entre nefitas y lamanitas. A pesar de su maldad, Mormón siente compasión por su pueblo y vuelve a liderarlos. Las guerras se intensifican hasta culminar en la batalla final en el cerro de Cumorah, donde los nefitas son casi completamente destruidos. Mormón lamenta profundamente la caída de su pueblo. Estos capítulos muestran las consecuencias finales del rechazo persistente a Dios y sirven como advertencia sobre los resultados de la apostasía."
+      "contenido": "Apenas muere Pahorán, sus hijos se disputan el asiento judicial y dividen al pueblo nefita en tres facciones. En medio de ese caos político, entra en escena un hombre llamado Kishkumen, dispuesto a asesinar al nuevo juez superior con tal de quedarse con el poder. Un desconocido llamado Gadiantón, experto en manipular con palabras y organizar 'obras secretas', se une a Kishkumen y termina liderando la banda. Cuando un siervo de Helamán descubre el plan de asesinato, avisa a tiempo y logra detenerlo — pero Gadiantón escapa con su gente hacia el desierto, y desde ahí sigue reclutando seguidores con juramentos secretos. Lo que empezó como una simple pelea por un cargo político se convirtió en una organización criminal que, capítulo tras capítulo, va a reaparecer una y otra vez en el resto del libro, infiltrándose en gobiernos y corrompiendo naciones enteras. La lección no es solo sobre un grupo de conspiradores de la antigüedad: muestra cómo la ambición sin control y la contención por poder o prestigio —incluso en cosas que parecen pequeñas— pueden abrir la puerta a algo mucho más destructivo de lo que cualquiera imaginó al principio."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Mormón 6:17–19",
-          "texto": "¡Oh bello pueblo, cómo pudisteis apartaros de las vías del Señor! ¡Oh bello pueblo, cómo pudisteis rechazar a ese Jesús que esperaba con los brazos abiertos para recibiros! He aquí, si no hubieseis hecho esto, no habríais caído. Mas he aquí, habéis caído, y lloro vuestra pérdida. ¡Oh bellos hijos e hijas, vosotros, padres y madres, vosotros, esposos y esposas, pueblo bello, cómo pudisteis haber caído!",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=spa&id=p17-p19#p17"
+          "referencia": "Helamán 1:4",
+          "texto": "Ahora bien, estos no eran todos los hijos de Pahorán, porque tenía muchos, sino que eran los que se disputaban el asiento judicial; por tanto, ocasionaron tres divisiones entre el pueblo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/1?lang=spa&id=p4#p4"
         },
         {
-          "referencia": "Mormón 6:20",
-          "texto": "Mi alma se aflige con tristeza sempiterna por su caída, porque eran una vez un pueblo delectable.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=spa&id=p20#p20"
+          "referencia": "Helamán 2:4",
+          "texto": "Porque había un tal Gadiantón, el cual era sumamente experto en muchas palabras, y también en su sutileza para llevar a cabo la obra secreta de asesinato y robo; por tanto, llegó a ser jefe de la banda de Kishkumen.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/2?lang=spa&id=p4#p4"
         }
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Dale G. Renlund",
+      "fuente": "Conferencia General, octubre de 2021",
+      "texto": "La contención debilita nuestro testimonio colectivo al mundo sobre Jesucristo y la redención que se recibe por medio de Sus méritos, misericordia y gracia.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/43renlund?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Apenas murió Pahorán, la contienda por el asiento judicial dividió a los nefitas en facciones, y en medio de esa división Kishkumen asesinó al juez superior con la ayuda de una banda secreta liderada por Gadiantón. Lo que empezó como ambición política terminó en una organización criminal que se infiltró en el gobierno y sembró destrucción por generaciones. El élder Dale G. Renlund enseñó que la contención debilita nuestro testimonio colectivo de Cristo. Las peleas por poder, las rivalidades y los rencores que parecen pequeños al principio pueden crecer hasta dañar a toda una comunidad. Esta semana, identificá una contienda o rivalidad en la que estés participando —en tu familia, tu curso, tu grupo de jóvenes— y hacé algo concreto para bajarle la intensidad en lugar de alimentarla."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué te enseña el lamento de Mormón sobre las consecuencias de apartarse de Dios?",
-        "¿Qué paralelos observas entre la caída de los nefitas y los desafíos modernos?",
-        "¿Cómo puedes evitar los errores que llevaron a la destrucción de los nefitas?"
+        "¿Qué fue lo que más te sorprendió de cómo empezó la banda secreta de Gadiantón?",
+        "Si tuvieras que resumir en una palabra el problema principal de Helamán 1–2, ¿cuál sería: ambición, contienda, o secreto?",
+        "¿Viste alguna vez cómo una pelea o rivalidad que empezó siendo 'pequeña' terminó afectando a mucha más gente de la esperada?",
+        "¿Qué te parece la enseñanza de que 'la contención debilita nuestro testimonio colectivo' de Cristo?",
+        "¿Hay alguna contienda o rivalidad —con un hermano, un compañero, un amigo— que podrías empezar a resolver esta semana en lugar de alimentar?",
+        "¿Qué palabra o actitud concreta vas a evitar esta semana para no sumar contienda en algún grupo del que formás parte?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué problema surgió después de la muerte de Pahóran?",
+      "question": "¿Qué problema surgió inmediatamente después de la muerte del juez superior Pahorán?",
       "options": [
-        "Paz total",
-        "Contienda sobre quién sería el nuevo juez superior",
-        "Una guerra externa",
-        "Prosperidad inmediata"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 2,
-      "question": "¿Quién fue elegido como juez superior?",
-      "options": [
-        "Pahóran hijo",
-        "Paanqui",
-        "Pacumeni",
-        "Moroni"
+        "Una contienda entre sus tres hijos y sus seguidores por ocupar el asiento judicial",
+        "Una alianza pacífica entre todos los candidatos al puesto",
+        "Una guerra externa inmediata contra los lamanitas",
+        "Un período de prosperidad y unidad total entre los nefitas"
       ],
       "correctAnswer": 0
     },
     {
-      "id": 3,
-      "question": "¿Qué hizo Kishkumen?",
+      "id": 2,
+      "question": "¿Quién fue finalmente elegido como juez superior tras la contienda que siguió a la muerte de Pahorán?",
       "options": [
-        "Apoyó al juez",
-        "Asesinó al juez superior Pahóran",
-        "Huyó del país",
-        "Se arrepintió"
+        "Paanquí",
+        "Pahorán hijo",
+        "Gadiantón",
+        "Kishkumen"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 4,
-      "question": "¿Quién formó una banda secreta en Helamán 2?",
+      "id": 3,
+      "question": "Kishkumen asesinó al juez superior Pahorán con la ayuda de una banda secreta y luego intentó ocultar el crimen (Helamán 1:9–12). ¿Qué revela este episodio sobre cómo comienzan las combinaciones secretas?",
       "options": [
-        "Moroni",
-        "Helamán",
-        "Gadiántón",
-        "Nefi"
+        "Que solo se forman como reacción a ataques militares externos",
+        "Que no tienen ninguna relación con la ambición política",
+        "Que suelen empezar con un juramento secreto entre unas pocas personas dispuestas a usar cualquier medio para obtener poder",
+        "Que aparecen únicamente entre personas ya reconocidas públicamente como criminales"
       ],
       "correctAnswer": 2
     },
     {
-      "id": 5,
-      "question": "¿Qué nos enseñan estos capítulos sobre las combinaciones secretas?",
+      "id": 4,
+      "question": "¿Qué papel jugó Gadiantón en la banda secreta que se formó tras el asesinato de Pahorán?",
       "options": [
-        "Son beneficiosas",
-        "Son peligrosas y destruyen naciones",
-        "Son inofensivas",
-        "Son necesarias"
+        "Fue quien delató a Kishkumen ante las autoridades",
+        "Fue quien encabezó y organizó la banda, dándole el nombre por el cual sería conocida",
+        "Fue el juez superior legítimamente elegido",
+        "Fue quien convenció al pueblo de rechazar cualquier tipo de gobierno secreto"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Luca ve que en su curso se está formando un grupo cerrado que excluye a otros compañeros y toma decisiones 'a escondidas' para quedar bien con el profesor. Según lo que enseña el surgimiento de la banda de Gadiantón sobre las combinaciones secretas, ¿qué actitud sería más sabia?",
+      "options": [
+        "Sumarse al grupo cerrado, ya que ese tipo de estrategias siempre funciona a largo plazo",
+        "Ignorar la situación porque no tiene ninguna relación con este relato",
+        "Denunciar públicamente sin buscar primero entender la situación",
+        "Mantenerse alejado de dinámicas basadas en el secreto y la exclusión, incluso cuando prometen algún beneficio inmediato"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Sofía nota que un grupo de compañeros empezó a excluir y hablar mal de otro estudiante para 'ganar' más popularidad, algo parecido a cómo la ambición por poder llevó a la contienda tras la muerte de Pahorán. ¿Qué principio de este relato podría compartir con ellos?",
+      "options": [
+        "Que la popularidad conseguida de esa forma no tiene ninguna consecuencia negativa",
+        "Que excluir a alguien es aceptable si el grupo está de acuerdo",
+        "Que buscar poder o estatus a costa de dañar a otros, como pasó en Helamán 1–2, casi siempre termina generando más daño del que parece al principio",
+        "Que este relato solo se aplica a conflictos políticos, no a situaciones escolares"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la contienda política por el asiento judicial como el surgimiento de la banda secreta de Gadiantón muestran algo en común sobre cómo se debilita una sociedad. ¿Cuál es el principio que los conecta?",
+      "options": [
+        "Que la política y el crimen organizado no tienen ninguna relación entre sí",
+        "Que solo los líderes corruptos son responsables de este tipo de problemas",
+        "Que estas situaciones solo podían ocurrir en la sociedad nefita antigua",
+        "Que las divisiones internas y la búsqueda egoísta de poder, aunque parezcan asuntos separados, se alimentan mutuamente y debilitan a todo un pueblo"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

@@ -3,85 +3,126 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "El Salvador percibe que algunos se preguntan sobre la ley de Moisés, y aclara que en Él se ha cumplido la ley, porque Él es la ley y la luz. Les explica que los nefitas son parte de las 'otras ovejas' de las que habló en Jerusalén. Además, profetiza sobre los gentiles en los últimos días y sobre el recogimiento de la casa de Israel, asegurando que Dios cumplirá Sus convenios."
+      "contenido": "El mandamiento de ser perfectos puede resultar desafiante de comprender. El término griego 'teleios' (traducido como 'perfecto') también significa 'completo' o 'maduro', lo que sugiere un proceso de desarrollo continuo en lugar de una perfección instantánea. La enseñanza de Cristo sobre la perfección se relaciona con el proceso de crecimiento espiritual que ocurre a lo largo de la vida y más allá, facilitado por la expiación."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Russell M. Nelson",
+      "fuente": "Liahona, enero de 1996, pág. 102",
+      "texto": "No debemos desalentarnos si nuestros esfuerzos más sinceros en busca de la perfección nos parecen demasiado arduos e interminables. La perfección es inminente; llegará en su totalidad únicamente después de la resurrección y solo por medio del Señor.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/1995/10/perfection-pending?lang=spa&id=p62#p62"
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "3 Nefi 15:9",
-          "texto": "He aquí, yo soy la ley y la luz. Mirad hacia mí, y perseverad hasta el fin, y viviréis...",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/15?lang=spa&id=p9#p9"
+          "referencia": "3 Nefi 12:48",
+          "texto": "Quisiera, pues, que fueseis perfectos así como yo, o como vuestro Padre que está en los cielos es perfecto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p48#p48"
         },
         {
-          "referencia": "3 Nefi 16:3",
-          "texto": "Mas he recibido mandamiento del Padre que vaya a ellos, para que oigan mi voz y sean contados entre mis ovejas, a fin de que haya un rebaño y un pastor...",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/16?lang=spa&id=p3#p3"
+          "referencia": "Moroni 10:32",
+          "texto": "Si os abstenéis de toda impiedad, y amáis a Dios con todo vuestro poder, mente y fuerza, entonces su gracia os es suficiente.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p32#p32"
+        },
+        {
+          "referencia": "Mateo 5:48",
+          "texto": "Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=spa&id=p48#p48"
         }
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "Memorizar 3 Nefi 12:48 no es memorizar una meta imposible, sino una invitación a un camino. La palabra 'perfecto' en el idioma original apunta más a 'completo' o 'maduro' que a 'sin ningún error jamás'. Eso cambia todo: no se trata de llegar de golpe, sino de seguir avanzando, apoyado en la gracia de Cristo cuando el esfuerzo propio no alcanza. Practicá esta semana decir de memoria este versículo, y elegí una sola área concreta donde vas a seguir 'avanzando', sin la presión de tener que llegar ya."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué nos enseña el hecho de que Cristo haya visitado a Sus 'otras ovejas' sobre Su carácter?",
-        "¿Cómo te ayuda saber que Jesucristo es 'la ley y la luz'?",
-        "¿Qué papel juegas tú en el recogimiento de Israel hoy en día?"
+        "¿Ya tenías memorizado, aunque sea en parte, 3 Nefi 12:48 antes de esta lección?",
+        "¿Cómo cambia tu perspectiva pensar la perfección como un proceso en lugar de un destino inmediato?",
+        "¿Qué papel te parece que juega la gracia de Cristo en ese proceso de desarrollo espiritual?",
+        "¿En qué área específica de tu vida notás algo de progreso, aunque sea pequeño?",
+        "Elegí memorizar 3 Nefi 12:48 esta semana. ¿Qué método vas a usar: repetirlo en voz alta, escribirlo, ponerlo de fondo de pantalla?",
+        "¿A quién le podrías explicar esta semana, con tus propias palabras, que 'ser perfecto' no significa no fallar nunca?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "Según 3 Nefi 9:20, ¿qué ofrenda requiere ahora Cristo?",
+      "question": "¿Cuál es la frase clave del pasaje de dominio de la doctrina de 3 Nefi 12:48?",
       "options": [
-        "Animales",
-        "Un corazón quebrantado y un espíritu contrito",
-        "Oro",
-        "Cosechas"
+        "'La maldad nunca fue felicidad'",
+        "'Quisiera, pues, que fueseis perfectos así como yo, o como vuestro Padre que está en los cielos es perfecto'",
+        "'Escogeos hoy a quién sirváis'",
+        "'Un sacrificio infinito y eterno'"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué promete Cristo a los que vienen a Él con esta ofrenda?",
+      "question": "Según el contexto de la lección, ¿qué otro significado tiene el término griego 'teleios', traducido como 'perfecto'?",
       "options": [
-        "Riquezas",
-        "Que los bautizará con fuego y el Espíritu Santo",
-        "Poder",
-        "Fama"
+        "Rico o poderoso",
+        "Completo o maduro",
+        "Popular o reconocido",
+        "Invencible o infalible"
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué significa tener un 'corazón quebrantado'?",
+      "question": "Si 'perfecto' también puede entenderse como 'completo' o 'maduro', y no como 'sin ningún error', ¿qué cambia en la forma de entender este mandamiento?",
       "options": [
-        "Estar triste",
-        "Ser humilde y dispuesto a seguir a Cristo",
-        "Estar deprimido",
-        "Estar débil"
+        "Que el mandamiento deja de tener cualquier valor práctico",
+        "Que se entiende como una invitación a un proceso continuo de crecimiento, no a una exigencia de perfección inmediata",
+        "Que ya no hace falta ningún esfuerzo personal",
+        "Que solo los adultos pueden aspirar a ese mandamiento"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Por qué cambió el tipo de sacrificio requerido?",
+      "question": "El élder Nelson enseñó que 'la perfección es inminente; llegará en su totalidad únicamente después de la resurrección y solo por medio del Señor'. ¿Qué papel le da esa enseñanza a la gracia de Cristo en este proceso?",
       "options": [
-        "No hubo cambio",
-        "Cristo cumplió la ley de Moisés con Su sacrificio",
-        "Dios cambió de opinión",
-        "Era más fácil"
+        "Que la gracia de Cristo no tiene ninguna relación con llegar a ser perfecto",
+        "Que la perfección completa depende del propio esfuerzo, sin ayuda de nadie más",
+        "Que la gracia de Cristo es indispensable para que ese proceso de perfeccionamiento llegue a completarse plenamente",
+        "Que la perfección ya se alcanza por completo en esta vida sin necesidad de la resurrección"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Camila siente que nunca va a lograr 'ser perfecta' y por eso a veces piensa en dejar de esforzarse. Según lo que enseña este pasaje de dominio de la doctrina, ¿qué le ayudaría?",
+      "options": [
+        "Que tiene razón, y que dejar de esforzarse es la respuesta lógica",
+        "Que la perfección es un proceso gradual que se completa por medio de Cristo, así que cada paso de progreso cuenta, aunque el camino sea largo",
+        "Que solo las personas sin ningún error pueden aspirar a la perfección",
+        "Que ese mandamiento no se aplica a los jóvenes todavía"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué actitud del corazón busca el Señor ahora?",
+      "id": 6,
+      "question": "Mateo le dice a un amigo que no cree en Dios que 'ser cristiano significa no equivocarse nunca, y por eso es imposible'. Usando lo que aprendiste sobre 3 Nefi 12:48, ¿qué le podrías explicar?",
       "options": [
-        "Orgullo",
-        "Humildad y disposición a someterse a Su voluntad",
-        "Independencia total",
-        "Indiferencia"
+        "Que su amigo tiene razón y que por eso el cristianismo es una meta inalcanzable",
+        "Que 'perfecto' en este contexto apunta más a un proceso de crecimiento continuo, sostenido por la gracia de Cristo, que a nunca cometer un error",
+        "Que solo unos pocos elegidos pueden aspirar a ser cristianos",
+        "Que el mandamiento de ser perfecto no tiene relación con la gracia de Cristo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto el significado más amplio de la palabra 'perfecto' como la enseñanza del élder Nelson sobre 'la perfección inminente' comparten una misma idea. ¿Cuál es?",
+      "options": [
+        "Que alcanzar la perfección completa en esta vida es un requisito indispensable",
+        "Que la perfección enseñada por Cristo es un proceso de crecimiento sostenido por Su gracia, que se completará plenamente más allá de esta vida",
+        "Que el esfuerzo personal no tiene ninguna relación con este proceso",
+        "Que la palabra 'perfecto' no tiene relación con el crecimiento espiritual"
       ],
       "correctAnswer": 1
     }

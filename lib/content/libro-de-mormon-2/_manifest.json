@@ -183,8 +183,8 @@
         },
         {
           "id": "leccion-24-5",
-          "title": "Alma 47",
-          "description": "Amalickíah obtiene poder entre los lamanitas mediante engaños. Se convierte en rey por traición.",
+          "title": "Alma 47–48",
+          "description": "Amalickíah se hace rey de los lamanitas mediante engaño y traición. Mormón describe el carácter íntegro del capitán Moroni.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/33-alma-43-52/333-teacher?lang=spa",
           "questionCount": 7,
@@ -192,18 +192,18 @@
         },
         {
           "id": "leccion-24-7",
-          "title": "Dominio de la doctrina: Alma 46:12–13",
-          "description": "Estudio sobre el estandarte de la libertad. Defensa de la religión, libertad y paz.",
-          "type": "Dominio de la Doctrina",
+          "title": "Evalúa tu aprendizaje 6",
+          "description": "Pausa para evaluar el aprendizaje personal del bloque Alma 17–52. Una oportunidad de reflexionar sobre el propio crecimiento espiritual.",
+          "type": "Evalúa tu aprendizaje",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/33-alma-43-52/334-teacher?lang=spa",
           "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-24-9",
-          "title": "Alma 51–52",
-          "description": "Divisiones internas debilitan a los nefitas. Moroni defiende la libertad contra enemigos externos e internos.",
-          "type": "Libro de Mormón - Ven Sigueme",
+          "title": "Repaso del Dominio de la doctrina 13 y 14",
+          "description": "Repaso de los pasajes de dominio de la doctrina Alma 39:9 y Alma 41:10. Refuerza la memorización y la aplicación de ambos principios.",
+          "type": "Repaso del Dominio de la doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/33-alma-43-52/335-teacher?lang=spa",
           "questionCount": 7,
           "hasStudy": true
@@ -217,47 +217,38 @@
       "lessons": [
         {
           "id": "leccion-25-1",
-          "title": "Alma 53–54",
-          "description": "Los 2,000 jóvenes guerreros se unen al ejército de Helamán. Muestran gran fe y valentía.",
-          "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/34-alma-53-63/341-teacher?lang=spa",
+          "title": "Repaso del Dominio de la doctrina 15 y 16",
+          "description": "Repaso de los pasajes de dominio de la doctrina Alma 34:9–10, Alma 39:9 y Alma 41:10, aplicándolos a situaciones reales.",
+          "type": "Repaso del Dominio de la doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/34-alma-53-63/345-teacher?lang=spa",
           "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-25-3",
-          "title": "Alma 55–58",
-          "description": "Helamán relata las batallas con los jóvenes guerreros. Ninguno murió gracias a su fe.",
+          "title": "Alma 56",
+          "description": "Los 2,000 jóvenes guerreros del pueblo de Ammón pelean su primera batalla. Ninguno muere gracias a su fe.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/34-alma-53-63/342-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-25-5",
-          "title": "Dominio de la doctrina: Alma 56:47–48",
-          "description": "Las madres enseñaron a sus hijos que si no dudaban, Dios los libraría. Estudio sobre la fe.",
-          "type": "Dominio de la Doctrina",
+          "title": "Alma 57",
+          "description": "Los jóvenes guerreros obedecen con exactitud en una segunda batalla. Su confianza continua en Dios los preserva.",
+          "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/34-alma-53-63/343-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-25-7",
-          "title": "Alma 59–63",
-          "description": "Moroni escribe a Pahóran. La respuesta de Pahóran muestra mansedumbre ante acusaciones injustas.",
+          "title": "Alma 59–61",
+          "description": "Moroni escribe a Pahorán. La respuesta de Pahorán muestra mansedumbre ante acusaciones injustas.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/34-alma-53-63/344-teacher?lang=spa",
-          "questionCount": 5,
-          "hasStudy": true
-        },
-        {
-          "id": "leccion-25-9",
-          "title": "Helamán 1–2",
-          "description": "Contenciones por el asiento judicial. Surgen los ladrones de Gadiántón y las combinaciones secretas.",
-          "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/35-helaman-1-6/351-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         }
       ]
@@ -268,21 +259,30 @@
       "dateRange": "26 al 30 de agosto",
       "lessons": [
         {
+          "id": "leccion-26-7",
+          "title": "Helamán 1–4; 6",
+          "description": "Hubo mucha contención entre los nefitas: asesinato del asiento judicial, orgullo y combinaciones secretas.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/35-helaman-1-6/351-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
           "id": "leccion-26-1",
-          "title": "Helamán 3–4",
-          "description": "El ciclo del orgullo se manifiesta. Los nefitas pierden tierras por su iniquidad.",
+          "title": "Helamán 3; 6",
+          "description": "\"Así vemos\": Mormón señala la misericordia de Dios y cómo el Espíritu se retira o se derrama según el corazón.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/35-helaman-1-6/352-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-26-3",
-          "title": "Helamán 5",
-          "description": "Nefi y Lehi predican con poder. Son protegidos milagrosamente en la prisión.",
+          "title": "Helamán 5:1–13",
+          "description": "Nefi renuncia al asiento judicial para predicar. Helamán enseña a sus hijos a edificar sobre la roca de Cristo.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/35-helaman-1-6/353-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -291,16 +291,16 @@
           "description": "Edificar sobre la roca de Cristo. Es un fundamento seguro contra los ataques del adversario.",
           "type": "Dominio de la Doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/35-helaman-1-6/354-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
-          "id": "leccion-26-7",
-          "title": "Helamán 6",
-          "description": "Los lamanitas se vuelven más justos que los nefitas. Los ladrones de Gadiántón aumentan.",
+          "id": "leccion-26-9",
+          "title": "Helamán 5:14–52",
+          "description": "Nefi y Lehi predican con poder y son protegidos milagrosamente en la prisión, rodeados de fuego y luz.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/35-helaman-1-6/355-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         }
       ]
@@ -316,25 +316,25 @@
           "description": "Nefi ora en su torre del jardín. Profetiza el asesinato del juez superior.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/36-helaman-7-12/361-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-27-3",
-          "title": "Helamán 10",
-          "description": "Nefi recibe el poder de sellar en la tierra y el cielo. Pide una hambruna para detener las guerras.",
+          "title": "Helamán 8",
+          "description": "Nefi testifica de Cristo citando a los profetas antiguos, incluida la serpiente de bronce de Moisés.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/36-helaman-7-12/362-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-27-5",
-          "title": "Dominio de la doctrina: Helamán 10:4–5",
-          "description": "Estudio sobre la diligencia de Nefi. Dios le da gran poder por su fidelidad.",
-          "type": "Dominio de la Doctrina",
+          "title": "Helamán 10",
+          "description": "El Señor bendice a Nefi con el poder de sellar en la tierra y el cielo por su fidelidad infatigable.",
+          "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/36-helaman-7-12/363-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -343,8 +343,17 @@
           "description": "La hambruna lleva al pueblo al arrepentimiento. Mormón reflexiona sobre la naturaleza humana.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/36-helaman-7-12/364-teacher?lang=spa",
-          "questionCount": 5,
-          "hasStudy": false
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "leccion-27-9",
+          "title": "Repaso del Dominio de la doctrina 17 y 18",
+          "description": "Repaso para memorizar con precisión las referencias y frases clave de los pasajes de dominio de la doctrina ya estudiados.",
+          "type": "Repaso del Dominio de la doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/36-helaman-7-12/365-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
         }
       ]
     },
@@ -359,7 +368,7 @@
           "description": "Samuel el Lamanita profetiza sobre el muro. Advierte sobre el amor al oro y las riquezas.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/371-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -368,7 +377,7 @@
           "description": "Samuel profetiza las señales del nacimiento de Cristo. Habrá un día, noche y día sin obscuridad.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/372-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -377,7 +386,7 @@
           "description": "Estudio sobre el albedrío. Somos libres para escoger libertad y vida o cautividad y muerte.",
           "type": "Dominio de la Doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/373-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -386,7 +395,7 @@
           "description": "Samuel profetiza las señales de la muerte de Cristo. Tres días de tinieblas y destrucción.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/374-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": false
         }
       ]
@@ -402,7 +411,7 @@
           "description": "Samuel es protegido milagrosamente. Los creyentes buscan a Nefi para bautizarse.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/375-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         }
       ]
@@ -418,7 +427,7 @@
           "description": "Nefi clama al Señor. Se cumple la señal del nacimiento de Cristo con un día sin obscuridad.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/381-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -427,7 +436,7 @@
           "description": "La voz del Señor anuncia Su venida. Las promesas de Dios siempre se cumplen.",
           "type": "Dominio de la Doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/382-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -436,7 +445,7 @@
           "description": "El pueblo comienza a olvidar las señales. Los ladrones de Gadiántón son derrotados.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/383-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         }
       ]
@@ -448,39 +457,48 @@
       "lessons": [
         {
           "id": "leccion-31-1",
-          "title": "3 Nefi 5–7",
-          "description": "El gobierno de jueces termina. Nefi predica con poder y hace milagros.",
+          "title": "3 Nefi 12:1–16",
+          "description": "Cristo enseña las Bienaventuranzas a los nefitas y los llama a ser la luz de este pueblo.",
           "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/384-teacher?lang=spa",
-          "questionCount": 5,
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/40-3-nephi-12-16/401-teacher?lang=spa",
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-31-3",
-          "title": "3 Nefi 8–9",
-          "description": "Terremotos y destrucción marcan la muerte de Cristo. La voz de Cristo se escucha.",
+          "title": "3 Nefi 12:17–48",
+          "description": "Cristo enseña la ley superior del corazón e invita a Sus discípulos a ser perfectos.",
           "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/39-3-nephi-8-11/391-teacher?lang=spa",
-          "questionCount": 5,
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/40-3-nephi-12-16/402-teacher?lang=spa",
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-31-5",
-          "title": "Dominio de la doctrina: 3 Nefi 9:19–20",
-          "description": "Cristo requiere un corazón quebrantado y espíritu contrito. Promete bautizar con fuego.",
+          "title": "Dominio de la doctrina: 3 Nefi 12:48",
+          "description": "Estudio sobre el mandamiento de ser perfectos como el Padre. La perfección como proceso continuo.",
           "type": "Dominio de la Doctrina",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/39-3-nephi-8-11/392-teacher?lang=spa",
-          "questionCount": 5,
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/40-3-nephi-12-16/402-teacher?lang=spa",
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-31-7",
-          "title": "3 Nefi 10–11",
-          "description": "Cristo desciende del cielo. El pueblo palpa las marcas en Sus manos y pies.",
+          "title": "3 Nefi 13–14",
+          "description": "Cristo enseña sobre la oración sincera y acumular tesoros en el cielo, no en la tierra.",
           "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/39-3-nephi-8-11/393-teacher?lang=spa",
-          "questionCount": 5,
-          "hasStudy": false
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/40-3-nephi-12-16/404-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "leccion-31-9",
+          "title": "3 Nefi 15–16",
+          "description": "Cristo revela que los nefitas son las \"otras ovejas\". Promete reunir a Israel disperso.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/40-3-nephi-12-16/405-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
         }
       ]
     },
@@ -491,39 +509,48 @@
       "lessons": [
         {
           "id": "leccion-32-1",
-          "title": "3 Nefi 11–17",
-          "description": "Cristo enseña Su doctrina. Llama a doce discípulos y enseña sobre el bautismo.",
+          "title": "3 Nefi 17",
+          "description": "Cristo se queda con los nefitas, sana a los enfermos y bendice a los niños uno por uno.",
           "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/40-3-nephi-11-17/401-teacher?lang=spa",
-          "questionCount": 5,
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/41-3-nephi-17-19/411-teacher?lang=spa",
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-32-3",
-          "title": "Dominio de la doctrina: 3 Nefi 11:29",
-          "description": "El espíritu de contención no es de Cristo sino del diablo. Estudio sobre la unidad.",
-          "type": "Dominio de la Doctrina",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/40-3-nephi-11-17/402-teacher?lang=spa",
-          "questionCount": 5,
+          "title": "3 Nefi 18:1–14",
+          "description": "Cristo instituye la Santa Cena entre los nefitas como memorial de Su cuerpo y sangre.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/41-3-nephi-17-19/412-teacher?lang=spa",
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-32-5",
-          "title": "3 Nefi 12–14",
-          "description": "Cristo enseña las Bienaventuranzas y el Sermón del Monte a los nefitas.",
+          "title": "3 Nefi 18:15–39; 19:19–29",
+          "description": "Cristo enseña a orar siempre, en familia y en privado. Los discípulos son rodeados de fuego.",
           "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/40-3-nephi-11-17/403-teacher?lang=spa",
-          "questionCount": 5,
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/41-3-nephi-17-19/413-teacher?lang=spa",
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-32-7",
-          "title": "Dominio de la doctrina: 3 Nefi 12:48",
-          "description": "Cristo manda ser perfectos como Él y el Padre. Estudio sobre llegar a ser como Cristo.",
+          "title": "Éter 12:1–22",
+          "description": "Moroni enseña que la fe precede al milagro y que el testimonio llega tras la prueba de la fe.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/48-ether-12-15/480-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "leccion-32-9",
+          "title": "Dominio de la doctrina: Éter 12:6",
+          "description": "Estudio sobre recibir un testimonio después de probar la fe, no antes.",
           "type": "Dominio de la Doctrina",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/40-3-nephi-11-17/404-teacher?lang=spa",
-          "questionCount": 5,
-          "hasStudy": false
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/48-ether-12-15/480-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
         }
       ]
     },
@@ -534,29 +561,29 @@
       "lessons": [
         {
           "id": "leccion-33-1",
-          "title": "3 Nefi 15–23",
-          "description": "Cristo cumple la ley de Moisés. Instituye la Santa Cena entre los nefitas.",
+          "title": "3 Nefi 23",
+          "description": "Cristo manda escudriñar diligentemente las palabras de Isaías y corrige un registro incompleto de Samuel el Lamanita.",
           "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/41-3-nephi-18-23/411-teacher?lang=spa",
-          "questionCount": 5,
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/42-3-nephi-20-26/422-teacher?lang=spa",
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-33-2",
-          "title": "3 Nefi 18:15–25",
-          "description": "Cristo enseña sobre orar en familia. Instruye sobre cómo administrar la Santa Cena.",
-          "type": "Bloque de Escrituras - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/41-3-nephi-18-23/412-teacher?lang=spa",
-          "questionCount": 5,
+          "title": "3 Nefi 24",
+          "description": "Cristo cita a Malaquías sobre el diezmo y promete abrir las ventanas de los cielos a quienes son fieles.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/42-3-nephi-20-26/423-teacher?lang=spa",
+          "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-33-3",
           "title": "Éter 12:23–27",
           "description": "El Señor muestra que las debilidades pueden convertirse en fortalezas. La gracia de Dios es suficiente.",
-          "type": "Bloque de Escrituras - Ven Sigueme",
+          "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/48-ether-12-15/481-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -565,7 +592,7 @@
           "description": "Estudio sobre cómo las debilidades se convierten en fortalezas mediante Cristo. La humildad es esencial.",
           "type": "Dominio de la Doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/48-ether-12-15/482-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         }
       ]

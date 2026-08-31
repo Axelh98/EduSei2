@@ -3,80 +3,126 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Este pasaje clave nos ayuda a entender que no recibiremos un testimonio de Dios basándonos primero en evidencias visuales o pruebas. Moroni enseña que debemos ejercer la fe primero; luego viene la 'prueba de vuestra fe'. Esta prueba puede referirse a desafíos, paciencia o simplemente actuar de acuerdo con lo que creemos antes de que Dios envíe la confirmación espiritual mediante el Espíritu Santo."
+      "contenido": "Cristo continúa enseñando sobre la oración, enfatizando orar en familia y en privado. Instruye sobre el bautismo y advierte sobre permitir que personas indignas participen del sacramento sin arrepentimiento. Los discípulos oran con fe y son llenos del Espíritu Santo, siendo rodeados de fuego. Cristo mismo ora al Padre por ellos con palabras tan significativas que no pueden ser escritas completamente. Este pasaje muestra el poder de la oración sincera."
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente M. Russell Ballard",
+      "fuente": "Liahona, noviembre de 2020, pág. 77",
+      "texto": "¡Cuán grandioso es el poder de la oración y cuán necesarias son hoy en día nuestras oraciones de fe en Dios y en Su Hijo Amado! Recordemos y agradezcamos el poder de la oración.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2020/11/41ballard?lang=spa&id=p43#p43"
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Éter 12:6",
-          "texto": "Y ahora yo, Moroni, quisiera hablar un poco concerniente a estas cosas. Quisiera mostrar al mundo que la fe es las cosas que se esperan y no se ven; por tanto, no disputéis porque no veis, porque no recibís ningún testimonio sino hasta después de la prueba de vuestra fe.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p6#p6"
+          "referencia": "3 Nefi 18:18",
+          "texto": "He aquí, en verdad, en verdad os digo que debéis velar y orar siempre, no sea que entréis en tentación; porque Satanás desea poseeros para zarandearos como a trigo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p18#p18"
+        },
+        {
+          "referencia": "3 Nefi 18:21",
+          "texto": "Orad en vuestras familias al Padre, siempre en mi nombre, para que sean bendecidas vuestras esposas y vuestros hijos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p21#p21"
+        },
+        {
+          "referencia": "3 Nefi 19:24–28",
+          "texto": "Padre, te doy gracias porque has purificado a los que he escogido, a causa de su fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=spa&id=p24-p28#p24"
         }
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "Cristo compara la falta de oración con quedar 'a merced' de que Satanás pueda zarandear como a trigo: no es una imagen menor. 'Orar siempre' no significa estar de rodillas todo el día, sino mantener una conexión constante con el Padre que no se corta apenas termina la oración formal. Los discípulos nefitas oraron con tanta fe que fueron rodeados de fuego, y Cristo mismo oró por ellos con palabras que ni Mormón pudo transcribir completas. Esta semana, agregá un momento de oración que hoy no tenés —al levantarte, antes de un examen, antes de una decisión difícil— y prestá atención a qué cambia."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué significa para ti 'la prueba de vuestra fe'?",
-        "¿En qué ocasión recibiste un testimonio de un mandamiento o doctrina solo después de haberlo vivido y practicado?",
-        "¿Cómo puedes alentar a alguien que está dudando porque aún 'no ve' el resultado de sus esfuerzos?"
+        "¿Cómo es tu práctica actual de oración familiar? ¿Qué podrías mejorar?",
+        "¿Qué te enseña la oración de Cristo al Padre sobre Su interés en Sus discípulos?",
+        "¿De qué manera la oración constante te ayuda a evitar tentaciones según este pasaje?",
+        "¿Hubo alguna vez que orar justo antes de una situación difícil te ayudó a enfrentarla mejor?",
+        "¿En qué momento del día se te hace más difícil recordar orar?",
+        "Elegí un momento concreto de esta semana donde vas a agregar una oración que hoy no hacés. ¿Cuál va a ser?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseñanzas compartió Cristo en estos capítulos?",
+      "question": "Según 3 Nefi 18:18, ¿qué advierte Cristo que puede pasar si Sus seguidores no velan y oran siempre?",
       "options": [
-        "Solo leyes",
-        "Las Bienaventuranzas y el Sermón del Monte",
-        "Historia",
-        "Genealogías"
+        "Que Satanás desea poseerlos para zarandearlos como a trigo",
+        "Que perderán automáticamente todas sus bendiciones materiales",
+        "Que no podrán participar nunca más de la Santa Cena",
+        "Que dejarán de ser miembros de la Iglesia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿A quiénes llamó Cristo 'la sal de la tierra'?",
+      "question": "Según 3 Nefi 18:21, ¿a quiénes específicamente pide Cristo que se ore en familia?",
       "options": [
-        "A los ricos",
-        "A Sus discípulos",
-        "A los reyes",
-        "A los guerreros"
+        "Únicamente a los líderes de la comunidad",
+        "Por las esposas y los hijos, para que sean bendecidos",
+        "Solamente por los ancianos del pueblo",
+        "Por los enemigos del pueblo nefita exclusivamente"
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué enseñó sobre los enemigos?",
+      "question": "Cristo usa la imagen de ser 'zarandeados como a trigo' para describir lo que Satanás desea hacer sin la protección de la oración constante. ¿Qué representa esa imagen sobre el efecto de dejar de orar regularmente?",
       "options": [
-        "Odiarlos",
-        "Amar a nuestros enemigos y orar por ellos",
-        "Vengarnos",
-        "Ignorarlos"
+        "Que dejar de orar no tiene ninguna consecuencia real",
+        "Que sin una conexión constante con Dios, la persona queda más expuesta a la tentación y la inestabilidad espiritual",
+        "Que la imagen se refiere únicamente a la cosecha agrícola de los nefitas",
+        "Que solo los líderes espirituales necesitan preocuparse por esta advertencia"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué oración enseñó Cristo?",
+      "question": "El relato describe que los discípulos oraron con tanta fe que fueron rodeados de fuego, y que Cristo oró por ellos con palabras que ni siquiera pudieron transcribirse. ¿Qué enseña ese nivel de poder espiritual sobre la relación entre la fe y la oración?",
       "options": [
-        "Ninguna",
-        "El Padre Nuestro (Oración del Señor)",
-        "Solo improvisaciones",
-        "Oraciones largas públicas"
+        "Que la oración con fe genuina puede abrir experiencias espirituales que superan lo que las palabras humanas pueden expresar",
+        "Que ese tipo de experiencia solo era posible en la época de Cristo, sin relación con el presente",
+        "Que la oración solo tiene valor si produce manifestaciones visibles como el fuego",
+        "Que la fe y la oración son conceptos sin ninguna relación entre sí en este relato"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Valentina reconoce que ora casi únicamente antes de dormir, de forma muy breve y casi automática. Según el llamado de Cristo a 'orar siempre', ¿qué le ayudaría a replantearse su práctica?",
+      "options": [
+        "Que orar solo una vez al día, de cualquier forma, ya cumple completamente con esta enseñanza",
+        "Que 'orar siempre' invita a mantener una comunicación más constante y sincera con Dios a lo largo del día, no solo un hábito breve y automático",
+        "Que la frecuencia de la oración no tiene ninguna relación con su sinceridad",
+        "Que este pasaje no tiene ninguna aplicación práctica para la vida diaria"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué enseñó sobre acumular tesoros?",
+      "id": 6,
+      "question": "Luca siente que orar en familia es 'incómodo' y prefiere que cada uno ore solo en su cuarto. Según 3 Nefi 18:21, ¿qué le ayudaría a entender el valor de la oración familiar?",
       "options": [
-        "Acumular en la tierra",
-        "Acumular tesoros en el cielo, no en la tierra",
-        "No tener nada",
-        "Solo buscar riquezas"
+        "Que Cristo nunca mencionó la oración familiar como algo importante",
+        "Que Cristo pide explícitamente orar en familia para que sean bendecidos los integrantes del hogar, mostrando un valor específico en ese tipo de oración",
+        "Que la oración familiar es exactamente igual a la oración personal, sin ninguna diferencia",
+        "Que la incomodidad inicial significa que no vale la pena intentarlo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la advertencia de ser 'zarandeados como a trigo' sin oración constante, como el ejemplo de los discípulos rodeados de fuego al orar con fe, enseñan un mismo principio central sobre la oración. ¿Cuál es?",
+      "options": [
+        "Que la oración es opcional y solo cambia algo en circunstancias extraordinarias",
+        "Que la oración sincera y constante protege espiritualmente y puede abrir experiencias poderosas con Dios",
+        "Que solo la oración pública tiene algún valor real",
+        "Que estos dos ejemplos no tienen relación entre sí"
       ],
       "correctAnswer": 1
     }

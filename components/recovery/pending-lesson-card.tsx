@@ -13,6 +13,8 @@ const TYPE_ACCENT: Record<string, string> = {
   "Bloque de Escrituras - Ven Sigueme": "#888780",
   "Preparación para la Vida":           "#ef4444",
   "Dominio de la Doctrina":             "#f97316",
+  "Evalúa tu aprendizaje":              "#14B8A6",
+  "Repaso del Dominio de la doctrina":  "#EAB308",
   "Especial":                           "#38bdf8",
   "Religión 250":                       "#BA7517",
   "Religión 225":                       "#D4537E",

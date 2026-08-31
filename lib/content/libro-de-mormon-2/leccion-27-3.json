@@ -3,92 +3,123 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Mientras Nefi camina hacia su casa después de predicar, el Señor le habla. Lo bendice por su fidelidad y le da un poder extraordinario: todo lo que selle en la tierra será sellado en el cielo. El Señor confía en Nefi porque sabe que no pedirá nada contrario a Su voluntad. Nefi recibe el poder del sacerdocio para sellar y desatar, similar al que el Salvador prometió a Pedro. Este capítulo ilustra las bendiciones que vienen por la fidelidad inquebrantable."
+      "contenido": "Después de que Nefi profetiza el asesinato del juez superior desde su torre, los jueces corruptos lo acusan de estar confabulado con el asesino —o de ser el asesino mismo— para desacreditarlo. Nefi responde con un argumento que va más allá de defenderse a sí mismo: les recuerda que todos los profetas, desde el principio, han testificado de la venida de Cristo. Menciona específicamente a Moisés, quien levantó una serpiente de bronce en el desierto para que el pueblo, con solo mirarla con fe, se sanara de las mordeduras venenosas — un símbolo directo de que Cristo sería 'levantado' para sanar a quienes miraran a Él con fe. Cuando finalmente se descubre que Seantum, el hermano del juez asesinado, es el verdadero culpable —exactamente como Nefi lo había profetizado—, muchos del pueblo empiezan a creer en él como profeta. El capítulo muestra que el testimonio de Cristo no es una invención reciente: es la misma verdad que todos los profetas, en todas las épocas, han sostenido."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Helamán 10:4",
-          "texto": "Bienaventurado eres tú, Nefi, por las cosas que has hecho; porque he visto que has declarado infatigablemente a este pueblo la palabra que te he dado. Y no les has tenido miedo, ni te has afanado por tu propia vida , antes bien, has procurado mi voluntad y el cumplimiento de mis mandamientos.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa&id=p4#p4"
+          "referencia": "Helamán 8:13–15",
+          "texto": "Mas he aquí, no solamente negáis mis palabras, sino también negáis todas las palabras que nuestros padres han declarado, y también las palabras que habló este hombre, Moisés, a quien le fue dado tanto poder, sí, las palabras que él ha hablado concernientes a la venida del Mesías. Sí, ¿no testificó él que vendría el Hijo de Dios? Y así como él levantó la serpiente de bronce en el desierto, así será levantado aquel que ha de venir. Y así como todos los que miraban a aquella serpiente vivían, así todos los que miraren al Hijo de Dios con fe, teniendo un espíritu contrito, podrán vivir, sí, esa vida que es eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/8?lang=spa&id=p13-p15#p13"
         },
         {
-          "referencia": "Helamán 10:7–8",
-          "texto": "He aquí, te doy poder, de que cuanto sellares en la tierra, sea sellado en los cielos; y cuanto desatares en la tierra, sea desatado en los cielos; y así tendrás poder entre este pueblo. De manera que si dijeres a este templo que se parta por la mitad, será hecho.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa&id=p7-p8#p7"
-        },
-        {
-          "referencia": "Helamán 10:11–16",
-          "texto": "He aquí, te doy poder para que declares ayunos a este pueblo; y te oirán.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa&id=p11-p16#p11"
+          "referencia": "Helamán 8:24",
+          "texto": "Y ahora bien, ¿no diréis que yo sé estas cosas de mí mismo? He aquí, testifico que sé que estas cosas de que he hablado son verdaderas. ¿Y cómo pensáis que las sé, si no es porque son verdaderas, y he sido llamado a declarároslas?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/8?lang=spa&id=p24#p24"
         }
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "Conferencia General, abril de 2018, «El profeta de Dios»",
+      "texto": "Un profeta no se interpone entre ustedes y el Salvador. Más bien, permanece a su lado y señala el camino hacia el Salvador.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cuando lo acusan de sedición, Nefi no se defiende apelando a su propia autoridad: apela a que TODOS los profetas, desde Moisés en adelante, testificaron de Cristo — y que él está diciendo exactamente lo mismo que ellos. La serpiente de bronce que Moisés levantó era un símbolo directo de Cristo: quien la miraba con fe, vivía. Nefi sabía que sus palabras eran verdaderas porque había sido llamado a declararlas, no porque las hubiera inventado. El élder Neil L. Andersen enseñó que un profeta no se interpone entre nosotros y el Salvador, sino que permanece a nuestro lado y señala el camino hacia Él — exactamente lo que Nefi hacía al señalar a la serpiente de bronce como figura de Cristo. Esta semana, pensá en una verdad que sabés que es cierta, aunque no puedas explicar cada detalle, y encontrá un momento para testificar de ella con la misma confianza de Nefi."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué cualidades de Nefi hicieron que el Señor confiara en él con tal poder?",
-        "¿Cómo interpretas el poder de sellar en la tierra y el cielo?",
-        "¿Qué significa 'no procurar tu propia vida' sino la voluntad de Dios?"
+        "¿Qué te pareció la forma en que Nefi respondió a la acusación de sedición, apelando al testimonio de todos los profetas antiguos?",
+        "¿Qué simbolismo ves en la serpiente de bronce que Moisés levantó, como figura de Cristo?",
+        "El élder Holland enseñó que el testimonio no requiere conocimiento perfecto. ¿Hay algo que sabés que es verdad, aunque no puedas explicarlo del todo?",
+        "¿Alguna vez tuviste que testificar de algo en lo que creías, sin tener todas las respuestas?",
+        "¿De qué manera podés testificar de Cristo esta semana, con tus propias palabras, aunque sea con alguien cercano?",
+        "¿Qué te genera saber que el mismo testimonio de Cristo que Nefi predicaba ya lo habían predicado los profetas siglos antes?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué bendición especial recibió Nefi del Señor?",
+      "question": "¿De qué acusaron los jueces corruptos a Nefi después del asesinato del juez superior?",
       "options": [
-        "Riquezas",
-        "El poder de sellar en la tierra y en el cielo",
-        "Fama",
-        "Un cargo político"
+        "De haber robado del tesoro público",
+        "De estar confabulado con el asesino, o de ser el asesino mismo, para desacreditar su profecía",
+        "De haber huido de la ciudad por cobardía",
+        "De haberse aliado con los lamanitas"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Por qué el Señor dio este poder a Nefi?",
+      "question": "Según Helamán 8:14–15, ¿qué simbolizaba la serpiente de bronce que Moisés levantó en el desierto?",
       "options": [
-        "Por su riqueza",
-        "Porque buscó diligentemente el bien del pueblo",
-        "Por su familia",
-        "Por su edad"
+        "Un símbolo de protección militar para el pueblo",
+        "Una advertencia sobre el peligro de la desobediencia únicamente",
+        "Una figura de Cristo: así como los que la miraban con fe vivían, quienes miren a Cristo con fe pueden tener vida eterna",
+        "Un símbolo sin ningún significado espiritual relevante"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué le prometió el Señor a Nefi sobre sus peticiones?",
+      "question": "Nefi les dice a sus acusadores: 'no solamente negáis mis palabras, sino también negáis todas las palabras que nuestros padres han declarado' (Helamán 8:13). ¿Qué estrategia usa Nefi al defender su testimonio de esta manera?",
       "options": [
-        "Que serían ignoradas",
-        "Que serían concedidas porque no pediría nada contrario a Su voluntad",
-        "Que algunas serían negadas",
-        "Nada"
+        "Apela únicamente a su propia autoridad personal, sin mencionar a nadie más",
+        "Muestra que su testimonio de Cristo no es una idea nueva o aislada, sino la misma verdad que todos los profetas, desde Moisés, han sostenido",
+        "Evita por completo hablar de Cristo para no generar más conflicto",
+        "Acusa a sus opositores de inventar toda la historia de los profetas antiguos"
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué calamidad pidió Nefi para detener las guerras?",
+      "question": "Según Helamán 8:24, ¿en qué basa Nefi su certeza de que lo que enseña es verdadero?",
       "options": [
-        "Terremotos",
-        "Una hambruna",
-        "Inundaciones",
-        "Plagas"
+        "En que fue elegido democráticamente para ese cargo",
+        "En que sabe que las cosas que declara son verdaderas porque ha sido llamado por Dios para declararlas",
+        "En que nadie más podría cuestionar su palabra",
+        "En que había estudiado extensamente sin ninguna revelación personal"
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué nos enseña este capítulo sobre la revelación?",
+      "question": "Mateo siente que no puede compartir su testimonio de Cristo porque no tiene respuesta para todas las preguntas difíciles que le hacen sus compañeros. Según la enseñanza del élder Holland, ¿qué le podrías decir?",
       "options": [
-        "Que no existe",
-        "Que Dios habla a Sus siervos fieles",
-        "Que es para todos",
-        "Que no importa"
+        "Que no debería compartir su testimonio hasta tener todas las respuestas",
+        "Que el testimonio no requiere un conocimiento perfecto, sino confiar y actuar según lo que sí sabe que es verdad, aunque el conocimiento sea imperfecto",
+        "Que solo los líderes de la Iglesia pueden testificar con autoridad",
+        "Que las preguntas difíciles anulan cualquier testimonio genuino"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Sofía le cuenta a una amiga que cree en Cristo, y la amiga le responde que 'esas son solo ideas de tu religión, cada una tiene la suya'. Según el argumento de Nefi de que todos los profetas —a través de la historia— han testificado de Cristo, ¿qué le podría responder?",
+      "options": [
+        "Que su fe no tiene ninguna base histórica real",
+        "Que el testimonio de Cristo no es una idea aislada de una sola persona o época, sino algo que profetas de distintos tiempos, como Moisés, ya habían testificado con anterioridad",
+        "Que debería dejar de hablar del tema para evitar el conflicto",
+        "Que solo los nefitas podían tener ese tipo de testimonio"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto el símbolo de la serpiente de bronce como la defensa de Nefi ante sus acusadores comparten un mismo principio central sobre el testimonio de Cristo. ¿Cuál es?",
+      "options": [
+        "Que el testimonio de Cristo ha sido consistente a través de todas las épocas, y que mirar a Él con fe —no la perfección del conocimiento— es lo que trae vida",
+        "Que solo los profetas antiguos podían tener un testimonio válido de Cristo",
+        "Que los símbolos del Antiguo Testamento no tienen ninguna relación con el Libro de Mormón",
+        "Que el testimonio de Nefi era completamente distinto al de los profetas anteriores"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

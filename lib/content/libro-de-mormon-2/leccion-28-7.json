@@ -4,56 +4,78 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué haría la muerte de Cristo según Samuel?",
+      "question": "Según la profecía de Samuel, ¿qué lograría la muerte y resurrección de Cristo para toda la humanidad?",
       "options": [
-        "Nada",
-        "Traería a efecto la resurrección",
-        "Solo sería un ejemplo",
-        "Terminaría todo"
+        "No tendría ningún efecto sobre la condición del ser humano",
+        "Traería a efecto la resurrección de los muertos",
+        "Serviría únicamente como un ejemplo moral, sin poder real",
+        "Pondría fin a la existencia después de la muerte"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Quiénes resucitarían según esta profecía?",
+      "question": "Según esta profecía, ¿quiénes resucitarían gracias a la expiación y resurrección de Cristo?",
       "options": [
-        "Solo los justos",
-        "Todos: justos e injustos",
-        "Solo los nefitas",
-        "Nadie"
+        "Únicamente los nefitas que habían creído en Samuel",
+        "Solamente las personas consideradas justas en vida",
+        "Todos: tanto los justos como los injustos",
+        "Nadie, porque la resurrección era solo simbólica"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué condición traería la expiación?",
+      "question": "Samuel enseña que la expiación de Cristo hace posible tanto la resurrección universal como la oportunidad de arrepentimiento (Helamán 14:15–18). ¿Qué relación establece esto entre la justicia y la misericordia de Dios?",
       "options": [
-        "Salvación automática",
-        "La oportunidad de arrepentimiento y redención",
-        "Nada",
-        "Condenación para todos"
+        "Que la expiación permite que la misericordia opere sin eliminar la responsabilidad de cada persona por sus propias decisiones",
+        "Que la justicia de Dios queda anulada por completo gracias a la expiación",
+        "Que la misericordia de Dios no tiene ninguna relación con la expiación de Cristo",
+        "Que solo la justicia de Dios importa, sin espacio para la misericordia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué invitó Samuel al pueblo a hacer?",
+      "question": "¿Por qué anunciar señales específicas de la muerte de Cristo —tres días de tinieblas, terremotos, tempestades— tenía un propósito además de asombrar al pueblo?",
       "options": [
-        "Esperar pasivamente",
-        "Arrepentirse y prepararse para la venida de Cristo",
-        "Ignorar las señales",
-        "Rebelarse"
+        "No tenía ningún propósito más allá de generar temor en la gente",
+        "Era simplemente un recurso narrativo sin ninguna función doctrinal",
+        "Buscaba únicamente demostrar el poder político de Samuel",
+        "Servía como advertencia y evidencia verificable que respaldaría la palabra del profeta cuando esas señales se cumplieran"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Cómo respondió parte del pueblo al mensaje de Samuel?",
+      "question": "Sofía escuchó que alguien en su clase de Seminario dice que 'la resurrección es solo un símbolo, no algo real'. Según la enseñanza de Samuel sobre la resurrección universal, ¿qué le podría responder?",
       "options": [
-        "Todos creyeron",
-        "Algunos creyeron, otros intentaron matarlo",
-        "Todos lo rechazaron",
-        "Fueron indiferentes"
+        "Que tiene razón, la resurrección es solo una imagen poética",
+        "Que solo los nefitas antiguos creían en la resurrección literal",
+        "Que la resurrección de Cristo, y la de toda la humanidad que Su expiación hizo posible, es una realidad literal enseñada consistentemente en las Escrituras, no solo un símbolo",
+        "Que ese tema no tiene ninguna importancia real para la fe"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Mateo cometió un error grave y siente que ya no hay forma de arreglar las cosas con Dios. Según la enseñanza de Samuel de que la expiación trae 'la oportunidad de arrepentimiento y redención', ¿qué le dirías?",
+      "options": [
+        "Que la expiación de Cristo hace posible el arrepentimiento genuino y la redención, sin importar la gravedad del error, si él está dispuesto a cambiar",
+        "Que algunos errores son demasiado graves como para que el arrepentimiento tenga algún efecto",
+        "Que debería resignarse a vivir con la culpa para siempre",
+        "Que el arrepentimiento solo funciona para errores pequeños"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Tanto la resurrección universal como la oportunidad de arrepentimiento que anunció Samuel dependen de un mismo acontecimiento central. ¿Cuál es?",
+      "options": [
+        "Las señales celestiales que acompañaron el nacimiento de Cristo, sin relación con Su muerte",
+        "La expiación y resurrección de Jesucristo, que hacen posible tanto vencer la muerte física como recibir el perdón de los pecados",
+        "La obediencia estricta a la ley de Moisés practicada por los nefitas",
+        "El poder político y militar del pueblo nefita en esa época"
       ],
       "correctAnswer": 1
     }
