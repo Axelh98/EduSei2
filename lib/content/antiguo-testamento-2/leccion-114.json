@@ -1,6 +1,53 @@
 {
   "id": "leccion-114",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Isaías 1 abre con una escena dura: el Señor describe a Israel como hijos que se rebelaron contra su propio Padre, tan alejados que «el buey conoce a su dueño, y el asno el pesebre de su señor; Israel no conoce» (Isaías 1:2–3). No es un pueblo que nunca conoció a Dios. Es un pueblo que lo conoció y decidió alejarse.\n\nPero en medio de esa dura descripción, el Señor no cierra la puerta. Al contrario, invita directamente: «Lavaos, limpiaos... dejad de hacer lo malo. Aprended a hacer el bien» (Isaías 1:16–17). Y después llega uno de los versículos más consoladores de todo el Antiguo Testamento: «aunque vuestros pecados sean como la grana, como la nieve serán emblanquecidos; aunque sean rojos como el carmesí, vendrán a ser como blanca lana» (Isaías 1:18).\n\nEn la época de Isaías, la tela teñida de escarlata era conocida precisamente por no perder su color, sin importar cuántas veces se lavara. Es una imagen fuerte a propósito: hay errores que se sienten así, permanentes, imposibles de borrar. Isaías dice exactamente lo contrario. Ni siquiera esa mancha, la más resistente que existía, está fuera del alcance del poder de Dios.\n\nEse poder tiene un costo real, que Doctrina y Convenios describe sin suavizarlo: Cristo mismo «tembló a causa del dolor y sangró por cada poro» (D&C 19:18) para hacer posible ese cambio de color, de escarlata a blanco. No fue automático ni gratuito. Fue Su sufrimiento el que lo hizo posible.\n\nEs fácil pensar que hay errores «demasiado grandes» como para ser perdonados. Isaías 1 responde directamente a ese miedo: no hay mancha, por más profunda o repetida que sea, que esté fuera del alcance de la Expiación de Cristo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 1:18",
+          "texto": "Venid ahora, dice Jehová, y razonemos juntos: aunque vuestros pecados sean como la grana, como la nieve serán emblanquecidos; aunque sean rojos como el carmesí, vendrán a ser como blanca lana.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=spa&id=p18#p18"
+        },
+        {
+          "referencia": "Isaías 1:16–17",
+          "texto": "Lavaos, limpiaos; quitad la iniquidad de vuestras obras de delante de mis ojos; dejad de hacer lo malo. Aprended a hacer el bien; buscad el juicio, socorred al oprimido; haced justicia al huérfano, abogad por la viuda.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=spa&id=p16-p17#p16"
+        },
+        {
+          "referencia": "Doctrina y Convenios 19:16–19",
+          "texto": "Porque he aquí, yo, Dios, he padecido estas cosas por todos, para que no padezcan, si se arrepienten; mas si no se arrepienten, tendrán que padecer así como yo; padecimiento que hizo que yo, Dios, el mayor de todos, temblara a causa del dolor y sangrara por cada poro y padeciera, tanto en el cuerpo como en el espíritu, y deseara no tener que beber la amarga copa y desmayar. Sin embargo, gloria sea al Padre, bebí, y acabé mis preparativos para con los hijos de los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=spa&id=p16-p19#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Hermana Sharon Eubank",
+      "fuente": "«Cristo: la luz que resplandece en las tinieblas», Liahona, mayo de 2019",
+      "texto": "El tinte escarlata del Antiguo Testamento no solo era de un color muy vivo sino además inalterable... Satanás usa ese razonamiento para derrotarnos: la lana blanca teñida de escarlata nunca puede volver a ser blanca, pero Jesucristo declara: 'mis caminos [son] más altos que vuestros caminos', y el milagro de Su gracia es que, cuando nos arrepentimos de nuestros pecados, Su sangre escarlata nos devuelve la pureza.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2019/05/42eubank?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La mancha escarlata que describe Isaías era, en su época, literalmente imposible de quitar con agua y jabón. Y aun así, el Señor promete que puede volverla blanca como la nieve. La hermana Eubank enseñó que Satanás usa precisamente esa lógica de 'ya no tiene arreglo' para desanimarnos, cuando la realidad es que la gracia de Cristo funciona exactamente en esos casos que parecen imposibles. Si hay algo en tu vida que sentís como una mancha permanente, esta semana llevaselo a Dios en oración, con la promesa de Isaías 1:18 como punto de partida."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te genera leer que Dios describe a Israel como hijos que 'se rebelaron' contra su propio Padre, en vez de simplemente 'pecadores'?",
+        "¿Alguna vez sentiste que un error tuyo era como una mancha 'imposible de quitar', tan permanente como el tinte escarlata?",
+        "¿Qué te parece que Cristo haya tenido que 'sangrar por cada poro' para que esa promesa de Isaías 1:18 fuera posible?",
+        "¿Qué significa para vos la invitación 'aprended a hacer el bien', no solo dejar de hacer lo malo?",
+        "¿Hay algo que sentís como una mancha permanente en tu vida que esta semana podrías empezar a llevarle a Dios?",
+        "¿A quién conocés que podría necesitar escuchar esta semana que ningún error es 'demasiado grande' para la Expiación de Cristo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

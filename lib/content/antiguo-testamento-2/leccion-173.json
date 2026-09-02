@@ -1,6 +1,58 @@
 {
   "id": "leccion-173",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Antes de nacer en la tierra, ya existías. Eras un espíritu, hijo o hija de Padres Celestiales que te conocían y te amaban. Génesis lo dice de forma directa: fuiste creado «a imagen de Dios» (Génesis 1:26–27), no como una idea poética, sino como una verdad literal sobre tu naturaleza. El profeta Jeremías escuchó algo todavía más personal de parte del Señor: «Antes que te formase en el vientre, te conocí» (Jeremías 1:5). Esa promesa no fue solo para un profeta del Antiguo Testamento: el Libro de Mormón enseña que todos —«negros o blancos, esclavos o libres, varones o mujeres»— son iguales ante Dios (2 Nefi 26:33), y el salmista se atrevió a llamar a los seres humanos «dioses» e «hijos del Altísimo» (Salmo 82:6), en el sentido de nuestro potencial eterno.\n\nHoy es fácil que tu identidad se construya con otros materiales: el número de seguidores, el equipo al que pertenecés, lo que otros opinan de vos en el grupo del colegio. Ninguna de esas cosas es mala en sí misma, pero ninguna es la base real de quién sos. Cuando sabés con certeza que sos hijo o hija de Dios, con un propósito eterno, las comparaciones en redes sociales pesan menos y las decisiones difíciles se vuelven más claras. No se trata de sentirte superior a nadie, sino de dejar de necesitar la aprobación de todos para sentir que valés algo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Génesis 1:26–27",
+          "texto": "Y dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y tenga dominio sobre los peces del mar, y sobre las aves de los cielos, y sobre las bestias, y sobre toda la tierra y sobre todo animal que se arrastra sobre la tierra. Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=spa&id=p26-p27#p26"
+        },
+        {
+          "referencia": "Jeremías 1:5",
+          "texto": "Antes que te formase en el vientre, te conocí; y antes que nacieses, te santifiqué; te di por profeta a las naciones.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "2 Nefi 26:33",
+          "texto": "Porque ninguna de estas iniquidades viene del Señor, porque él hace lo que es bueno entre los hijos de los hombres; y nada hace que no sea claro para los hijos de los hombres; y él invita a todos ellos a que vengan a él y participen de su bondad; y a nadie de los que a él vienen desecha, sean negros o blancos, esclavos o libres, varones o mujeres; y se acuerda de los paganos; y todos son iguales ante Dios, tanto los judíos como los gentiles.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=spa&id=p33#p33"
+        },
+        {
+          "referencia": "Salmos 82:6",
+          "texto": "Yo dije: Vosotros sois dioses, y todos vosotros hijos del Altísimo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/82?lang=spa&id=p6#p6"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Gary E. Stevenson",
+      "fuente": "«Las impresiones del Espíritu», Conferencia General, octubre de 2023",
+      "texto": "¡Vaya, qué bien me veo! ¡Soy impresionante! ¡Soy hijo de Dios! ¡Él me conoce! ¡Él me ama!",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/25stevenson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Tu valor no depende de una foto que subiste, de una nota en el colegio ni de cuántas personas te siguen. Depende de algo que nadie puede quitarte: sos literalmente hijo o hija de Dios, con un propósito que Él conocía antes de que nacieras. El élder Stevenson invitó a los jóvenes a algo tan simple como mirarse al espejo y recordarlo en voz alta. Esa práctica pequeña puede cambiar cómo enfrentás un mal día, una comparación injusta o una decisión difícil. Probá esta semana empezar cada mañana frente al espejo diciendo en voz alta quién sos realmente."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué palabra usarías para describir cómo te ves a vos mismo la mayoría de los días?",
+        "¿De dónde sacás normalmente la idea de cuánto valés: de tus notas, tus amigos, redes sociales, tu familia?",
+        "¿Alguna vez sentiste que tu valor bajaba o subía según lo que otras personas opinaban de vos?",
+        "Si de verdad creyeras todos los días que sos hijo o hija de Dios, ¿qué cambiaría en cómo tratás a los demás?",
+        "¿Qué podrías decirte a vos mismo frente al espejo esta semana, como sugirió el élder Stevenson?",
+        "¿A quién podrías ayudar esta semana a recordar su propio valor como hijo o hija de Dios?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

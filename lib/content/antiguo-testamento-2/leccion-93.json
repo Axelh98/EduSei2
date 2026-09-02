@@ -1,6 +1,53 @@
 {
   "id": "leccion-93",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Casi un siglo después de que Ciro permitiera el regreso a Jerusalén, el templo ya estaba reconstruido, pero la ciudad seguía indefensa: sus murallas continuaban en ruinas, quemadas desde la invasión babilónica. Nehemías, un judío que servía como copero del rey persa Artajerjes —un puesto de mucha confianza—, se enteró de la situación y quedó tan afectado que lloró, ayunó y oró durante días. Después pidió permiso al rey para viajar a Jerusalén y reconstruir el muro. Cuando llegó, reunió al pueblo y le dijo: «Venid, y reedifiquemos el muro de Jerusalén, y no seamos más un oprobio» (Nehemías 2:17). La respuesta fue inmediata: «Levantémonos y edifiquemos» (Nehemías 2:18).\n\nPero apenas empezaron, aparecieron los enemigos. Se burlaron del proyecto, amenazaron con atacar y trataron de sembrar miedo y desánimo entre los constructores. Nehemías respondió organizando al pueblo para que trabajara con una herramienta en una mano y con vigilancia constante, sin dejar nunca de orar (Nehemías 4:9). Cuando el peligro creció, no se escondió: reunió a la gente y le recordó en quién debía confiar: «No temáis delante de ellos; acordaos del Señor» (Nehemías 4:14). El muro se terminó en solo cincuenta y dos días, un tiempo tan corto que hasta los enemigos reconocieron que «esta obra había sido hecha por nuestro Dios» (Nehemías 6:16).\n\nLo que hizo posible ese logro no fue solo la habilidad de Nehemías, sino su negativa a distraerse. Cada vez que sus enemigos intentaron convencerlo de dejar la obra para reunirse con ellos, él respondió siempre lo mismo: «Yo hago una gran obra, y no puedo ir». Vos también vas a tener «enemigos» que traten de sacarte del camino: la pereza, la burla de alguien, una serie que te desvela hasta tarde. La pregunta de Nehemías sigue siendo válida hoy: ¿qué obra importante estás construyendo, y qué tan dispuesto estás a no dejarla por cualquier distracción?"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Nehemías 2:17–18",
+          "texto": "Entonces les dije: Vosotros veis la aflicción en que estamos, que Jerusalén está desolada y sus puertas consumidas por el fuego; venid, y reedifiquemos el muro de Jerusalén, y no seamos más un oprobio. Entonces les dije cómo la mano de mi Dios había sido bondadosa conmigo, y asimismo las palabras que el rey me había dicho. Y dijeron: Levantémonos y edifiquemos. Así esforzaron sus manos para bien.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/neh/2?lang=spa&id=p17-p18#p17"
+        },
+        {
+          "referencia": "Nehemías 4:14",
+          "texto": "Después miré, y me levanté y dije a los nobles, y a los oficiales y al resto del pueblo: No temáis delante de ellos; acordaos del Señor, grande y temible, y pelead por vuestros hermanos, por vuestros hijos y por vuestras hijas, por vuestras esposas y por vuestras casas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/neh/4?lang=spa&id=p14#p14"
+        },
+        {
+          "referencia": "Nehemías 6:15–16",
+          "texto": "Se terminó, pues, el muro el veinticinco del mes de Elul, en cincuenta y dos días. Y aconteció que cuando lo oyeron todos nuestros enemigos, temieron todas las naciones que estaban en nuestros alrededores, y se abatieron mucho y reconocieron que esta obra había sido hecha por nuestro Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/neh/6?lang=spa&id=p15-p16#p15"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Richard G. Scott",
+      "fuente": "«Primero lo más importante», Conferencia General, abril de 2001",
+      "texto": "Satanás tiene un arma poderosa que usa contra la gente buena: la distracción. Él trata que la gente buena llene su vida de 'cosas buenas' para que no haya lugar para las importantes.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2001/04/first-things-first?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Nehemías no tenía un ejército ni recursos ilimitados; tenía una obra clara y la determinación de no abandonarla por nada ni por nadie. Cada burla, cada amenaza, cada invitación a 'bajar' del muro fue una oportunidad de distraerse, y cada vez eligió seguir. El élder Scott advirtió que la distracción es una de las armas más efectivas contra la gente buena, precisamente porque no se parece al pecado: se disfraza de cosas aceptables que simplemente ocupan el lugar de lo esencial. Identificá cuál es tu muro esta semana —esa tarea importante que seguís posponiendo— y dale al menos una hora de trabajo real antes de que termine el domingo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Con qué parte de la historia de Nehemías te identificás más: con su tristeza inicial, con su plan de acción, o con su firmeza ante los enemigos?",
+        "Si estuvieras en el lugar de los constructores del muro, ¿qué crees que hubiera sido lo más difícil de sostener: el trabajo físico o el miedo constante a un ataque?",
+        "¿Alguna vez alguien trató de convencerte de dejar algo importante para hacer otra cosa, como le pasó a Nehemías con sus enemigos?",
+        "¿Qué 'distracciones' —no necesariamente cosas malas— suelen sacarte del camino de lo que de verdad importa?",
+        "¿Cuál es tu 'gran obra' en este momento de tu vida, y qué podrías responder esta semana cuando algo trate de distraerte de ella?",
+        "¿A quién le podrías contar tu plan de esta semana para que te ayude a sostenerlo, como Nehemías reunió a otros para construir juntos?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

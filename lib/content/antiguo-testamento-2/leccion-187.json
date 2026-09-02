@@ -1,6 +1,53 @@
 {
   "id": "leccion-187",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Cambiar un hábito rara vez funciona solo con fuerza de voluntad. El profeta Ezequiel describió lo que realmente se necesita con una imagen radical: «os daré un corazón nuevo... quitaré de vuestra carne el corazón de piedra y os daré un corazón de carne» (Ezequiel 36:26). No es un ajuste pequeño. Es una transformación desde adentro, algo que solo Dios puede hacer, y que vos podés pedir e invitar.\n\nEl rey Benjamín usó un lenguaje parecido cuando describió al «hombre natural»: esa parte de cada persona inclinada a la comodidad, a la pereza, a los hábitos que sabemos que nos hacen mal. La única forma de cambiar eso, dijo, es «someterse al influjo del Santo Espíritu» y dejar que la Expiación de Cristo haga lo que la fuerza de voluntad sola no puede (Mosíah 3:19).\n\nEso no significa que no tengas ningún rol en el proceso. Significa que no estás solo en él. El Señor le prometió a Moroni: «basta mi gracia a todos los hombres que se humillan ante mí... entonces haré que las cosas débiles sean fuertes para ellos» (Éter 12:27). Tu debilidad —ese hábito que llevás meses o años intentando cambiar sin éxito— no es motivo de vergüenza. Es exactamente el lugar donde Cristo promete encontrarte con fuerza."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Ezequiel 36:26–27",
+          "texto": "Y os daré un corazón nuevo y pondré un espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra y os daré un corazón de carne. Y pondré dentro de vosotros mi espíritu, y haré que andéis en mis estatutos y que guardéis mis juicios y los pongáis por obra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/36?lang=spa&id=p26-p27#p26"
+        },
+        {
+          "referencia": "Mosíah 3:19",
+          "texto": "Porque el hombre natural es enemigo de Dios, y lo ha sido desde la caída de Adán, y lo será para siempre jamás, a menos que se someta al influjo del Santo Espíritu, y se despoje del hombre natural, y se haga santo por la expiación de Cristo el Señor, y se vuelva como un niño: sumiso, manso, humilde, paciente, lleno de amor y dispuesto a someterse a cuanto el Señor juzgue conveniente infligir sobre él, tal como un niño se somete a su padre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa&id=p19#p19"
+        },
+        {
+          "referencia": "Éter 12:27",
+          "texto": "Y si los hombres vienen a mí, les mostraré su debilidad. Doy a los hombres debilidad para que sean humildes; y basta mi gracia a todos los hombres que se humillan ante mí; porque si se humillan ante mí, y tienen fe en mí, entonces haré que las cosas débiles sean fuertes para ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p27#p27"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Para que siempre nos acordemos de Él», Liahona, junio de 2023",
+      "texto": "Nuestra responsabilidad sagrada es desarrollar hábitos santos que inviten al Espíritu del Señor a estar con nosotros en todo momento, hábitos tales como honrar los convenios, obedecer los mandamientos, arrepentirnos, perdonar, escudriñar las Escrituras, servir, y adorar en el hogar, en la Iglesia y en el templo.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2023/06/04-that-we-may-always-remember-him?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Ningún hábito difícil se cambia solo con voluntad: se cambia con un corazón nuevo, algo que Ezequiel dice que solo Dios puede dar. El élder Bednar enseñó que desarrollar hábitos santos —pequeños, constantes, sostenidos en el tiempo— es una responsabilidad sagrada que invita al Espíritu a acompañarte. Tu debilidad actual no te descalifica; es, según la promesa a Moroni, exactamente donde la gracia de Cristo puede volverte fuerte. Elegí esta semana un solo hábito que querés cambiar, y pedile específicamente a Dios ayuda con ese, en vez de intentarlo completamente solo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué hábito llevás tiempo intentando cambiar sin mucho éxito?",
+        "¿Alguna vez sentiste que un cambio de hábito te resultó imposible solo con fuerza de voluntad, y necesitaste algo más?",
+        "¿Qué te parece la idea de pedirle a Dios un 'corazón nuevo' en vez de solo pedirle fuerza de voluntad?",
+        "¿Qué significa para vos que Cristo prometa volver fuertes las cosas débiles, en vez de simplemente eliminarlas?",
+        "¿Qué un solo hábito santo —oración, Escrituras, servicio— podrías empezar a practicar de forma más constante esta semana?",
+        "¿A quién podrías pedirle que te ayude a sostener ese cambio de hábito esta semana?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

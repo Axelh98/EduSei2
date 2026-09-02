@@ -90,7 +90,7 @@
     },
     {
       "id": 5,
-      "question": "Mateo tiene la oportunidad de conseguir más popularidad si deja de lado algunos de sus estándares, y no sabe si vale la pena renunciar a esa comodidad. Según el ejemplo de Nefi, que renunció a un cargo de poder por sus convicciones, ¿qué le podrías compartir?",
+      "question": "Franco tiene la oportunidad de conseguir más popularidad si deja de lado algunos de sus estándares, y no sabe si vale la pena renunciar a esa comodidad. Según el ejemplo de Nefi, que renunció a un cargo de poder por sus convicciones, ¿qué le podrías compartir?",
       "options": [
         "Que la popularidad siempre debe priorizarse sobre las convicciones personales",
         "Que, como Nefi, a veces sostener las propias convicciones implica renunciar a algo cómodo o valioso, y que ese tipo de decisión tiene valor eterno",
@@ -105,7 +105,7 @@
       "options": [
         "Que el fundamento en Cristo solo sirve una vez que ya pasó la dificultad",
         "Que un fundamento firme en Cristo, construido de manera constante, es precisamente lo que sostiene a una persona cuando llegan las dificultades, no algo que se logra durante la crisis misma",
-        "Que su fe no tiene ninguna relación con lo que le está pasando",
+        "Que sentir que 'todo le sale mal' significa que su fundamento en Cristo nunca fue real",
         "Que solo quienes nunca tienen problemas tienen un fundamento firme"
       ],
       "correctAnswer": 1
@@ -117,7 +117,7 @@
         "Que las decisiones espirituales importantes se toman de antemano, con convicción, antes de que llegue el momento de la prueba",
         "Que solo los líderes políticos pueden tomar decisiones espirituales relevantes",
         "Que renunciar a un cargo es siempre la única forma válida de mostrar fe",
-        "Que el fundamento espiritual no tiene ninguna relación con las decisiones cotidianas"
+        "Que el fundamento espiritual solo se construye durante una crisis, no en la vida diaria"
       ],
       "correctAnswer": 0
     }

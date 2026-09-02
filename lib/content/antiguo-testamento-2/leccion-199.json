@@ -1,6 +1,53 @@
 {
   "id": "leccion-199",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Nefi hizo una confesión honesta sobre sus propias limitaciones como escritor: «no soy tan poderoso para escribir como para hablar; porque cuando un hombre habla por el poder del Santo Espíritu, el poder del Espíritu Santo lo lleva al corazón de los hijos de los hombres» (2 Nefi 33:1). No dijo que sus propias palabras fueran especialmente convincentes. Dijo que el Espíritu Santo era quien realmente hacía el trabajo de llevar la verdad al corazón de otra persona.\n\nEso es exactamente lo que el Señor le confirmó a los primeros misioneros de esta dispensación: «se os dará el Espíritu por la oración de fe; y si no recibís el Espíritu, no enseñaréis» (D&C 42:14). No dice 'no enseñarán bien'; dice directamente que sin el Espíritu, no hay enseñanza real, sin importar cuán preparado esté el discurso. Y Jesús mismo había prometido ese mismo Espíritu como maestro permanente: «el Consolador, el Espíritu Santo... él os enseñará todas las cosas, y os recordará todo lo que os he dicho» (Juan 14:26).\n\nNo necesitás tener todas las respuestas para compartir el Evangelio con alguien. Necesitás estar dispuesto, prepararte lo mejor que puedas, y confiar en que el Espíritu Santo hace la parte del trabajo que vos no podés hacer: llegar al corazón de la otra persona. Esa es una de las mejores noticias de toda la obra misional: no depende solo de tu elocuencia."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "2 Nefi 33:1",
+          "texto": "Y ahora bien, yo, Nefi, no puedo escribir todas las cosas que se enseñaron entre mi pueblo; ni soy tan poderoso para escribir como para hablar; porque cuando un hombre habla por el poder del Santo Espíritu, el poder del Espíritu Santo lo lleva al corazón de los hijos de los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/33?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 42:14",
+          "texto": "Y se os dará el Espíritu por la oración de fe; y si no recibís el Espíritu, no enseñaréis.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=spa&id=p14#p14"
+        },
+        {
+          "referencia": "Juan 14:26",
+          "texto": "Mas el Consolador, el Espíritu Santo, a quien el Padre enviará en mi nombre, él os enseñará todas las cosas, y os recordará todo lo que os he dicho.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa&id=p26#p26"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Quentin L. Cook",
+      "fuente": "«La bendición de la revelación continua a los profetas y de la revelación personal para guiar nuestra vida», Conferencia General, abril de 2020",
+      "texto": "El Espíritu Santo también nos brindará revelación en nuestros llamamientos y asignaciones. Según mi experiencia, la mayoría de las veces la guía espiritual significativa llega cuando estamos tratando de bendecir a los demás al cumplir con nuestras responsabilidades.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/52cook?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Nefi reconoció que no era su elocuencia la que cambiaba corazones, sino el poder del Espíritu Santo obrando a través de sus palabras. El élder Cook enseñó que la guía espiritual más significativa suele llegar precisamente cuando estamos intentando bendecir a otros, no antes. Eso significa que no necesitás sentirte un experto en las Escrituras para compartir el Evangelio: necesitás estar dispuesto a intentarlo y confiar en que el Espíritu hará su parte. Esta semana, buscá una oportunidad pequeña y concreta de hablar de tu fe con alguien, aunque te sientas poco preparado."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez sentiste que el Espíritu Santo te ayudó a decir algo específico en una conversación sobre tu fe?",
+        "¿Qué te da más miedo a la hora de compartir el Evangelio con alguien: no saber qué decir, o cómo reaccione la otra persona?",
+        "¿Qué diferencia hace saber que 'sin el Espíritu, no enseñaréis', es decir, que no depende solo de tus propias palabras?",
+        "¿Qué significa para vos que el Espíritu Santo sea descrito como un 'Consolador' que enseña y recuerda?",
+        "¿A quién podrías hablarle esta semana de tu fe, aunque sea de manera pequeña y sin sentirte un experto?",
+        "¿Qué podrías hacer esta semana para prepararte espiritualmente antes de esa conversación, como orar u orientarte con una Escritura?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

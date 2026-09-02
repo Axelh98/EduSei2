@@ -16,11 +16,18 @@
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "Moroni 7:45 no describe la caridad con una sola palabra, sino con una lista concreta: es sufrida, es benigna, no tiene envidia, no se envanece, no busca lo suyo, no se irrita fácilmente. Cada una de esas frases es, en el fondo, una prueba práctica: podés preguntarte, frase por frase, si eso describe cómo tratás a las personas que más te cuestan. Memorizar este versículo te da una lista concreta contra la cual medir tus propias relaciones, no solo una idea vaga de 'ser bueno'. Esta semana, memorizá Moroni 7:45 y elegí una sola frase de la lista —'no se irrita fácilmente', por ejemplo— para practicarla de manera consciente."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
+        "¿Ya te sabías de memoria, aunque sea en parte, Moroni 7:45? ¿Qué frase se te queda más grabada?",
+        "De toda la lista de características de la caridad en este versículo, ¿cuál te parece la más difícil de vivir?",
         "Si aplicaras 'la caridad es sufrida y benigna' en tus relaciones diarias, ¿qué cambiaría?",
         "¿Por qué es esencial ser 'discípulos verdaderos' de Jesucristo para recibir el don de la caridad?",
-        "¿Cómo puede este amor ayudarnos en el postrer día cuando veamos a Cristo 'tal como es'?"
+        "Elegí memorizar Moroni 7:45 esta semana. ¿Qué método vas a usar: repetirlo en voz alta, escribirlo, otro?",
+        "De la lista de este versículo, elegí una sola frase para practicar de manera consciente esta semana. ¿Cuál elegís y con quién?"
       ]
     }
   ],
@@ -38,7 +45,7 @@
     },
     {
       "id": 2,
-      "question": "¿Qué NO busca la caridad?",
+      "question": "Según Moroni 7:45, ¿qué NO busca la caridad?",
       "options": [
         "El bien",
         "Lo suyo propio",
@@ -49,34 +56,56 @@
     },
     {
       "id": 3,
-      "question": "¿Qué hace la caridad con todas las cosas?",
+      "question": "El versículo describe la caridad con una lista extensa de características concretas —sufrida, benigna, sin envidia, sin irritarse fácilmente— en lugar de una sola definición general. ¿Qué propósito cumple describirla con tanto detalle?",
       "options": [
-        "Las ignora",
-        "Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta",
-        "Las critica",
-        "Las rechaza"
+        "Permite reconocer la caridad, o su ausencia, en situaciones específicas y cotidianas, no solo como un concepto abstracto",
+        "No cumple ningún propósito adicional respecto de una definición general",
+        "Busca hacer la caridad más difícil de entender intencionalmente",
+        "Solo aplica a un tipo específico de relación, no a la vida diaria en general"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Cómo podemos ser llenos de este amor?",
+      "question": "¿Por qué es significativo que 'no se irrita fácilmente' y 'no busca lo suyo propio' aparezcan juntas en la misma descripción de la caridad?",
       "options": [
-        "Por nuestro propio esfuerzo",
-        "Orando al Padre con toda energía del corazón",
-        "Esperando pasivamente",
-        "Por suerte"
+        "Porque ambas apuntan a lo mismo: la caridad requiere anteponer el bienestar y la comprensión hacia el otro por encima de la propia comodidad o el propio orgullo",
+        "Porque una de las dos características es mucho más importante que la otra para definir la caridad",
+        "Porque ambas describen la misma idea repetida con distintas palabras, sin agregar nada nuevo",
+        "Porque describen únicamente comportamientos poco importantes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Martina siente que 'tiene razón' en casi todas las discusiones con su hermana y por eso no cede nunca. Según la frase de Moroni 7:45 de que la caridad 'no busca lo suyo propio', ¿qué principio le ayudaría?",
+      "options": [
+        "Que tener razón siempre justifica no ceder en una discusión",
+        "Que la caridad invita a priorizar la relación y el bienestar del otro por encima de necesitar siempre tener la razón",
+        "Que ese versículo no tiene ninguna aplicación en relaciones familiares",
+        "Que debería dejar de expresar su opinión por completo"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué promete el versículo 48 a los que tienen caridad?",
+      "id": 6,
+      "question": "Nicolás se irrita con facilidad cuando las cosas no salen como él planeó, incluso en situaciones pequeñas. Según la frase de Moroni 7:45 'no se irrita fácilmente', ¿qué le ayudaría a aplicar este principio?",
       "options": [
-        "Riquezas",
-        "Estar bien en el día del juicio",
-        "Fama",
-        "Poder"
+        "Que irritarse es aceptable siempre que la persona se disculpe después",
+        "Que practicar conscientemente la paciencia en esas situaciones pequeñas es una forma concreta de vivir la caridad que describe este versículo",
+        "Que solo debería preocuparse por no irritarse en situaciones muy graves",
+        "Que la irritación es inevitable y no se puede trabajar en ella"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la lista detallada de características de la caridad en Moroni 7:45 como el hecho de que ninguna persona pueda desarrollarla solo por esfuerzo propio (Moroni 7:48) comparten un mismo principio. ¿Cuál es?",
+      "options": [
+        "Que la caridad es un ideal abstracto sin ninguna aplicación práctica concreta en la vida diaria",
+        "Que vivir la caridad requiere tanto un esfuerzo consciente en situaciones concretas como la ayuda de Dios, buscada activamente en oración",
+        "Que la caridad se logra únicamente mediante el esfuerzo personal, sin ninguna ayuda espiritual",
+        "Que solo algunas personas están destinadas a desarrollar caridad genuina"
       ],
       "correctAnswer": 1
     }

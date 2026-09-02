@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Después de que los zoramitas pobres son expulsados de sus lugares de adoración, Alma les enseña sobre el desarrollo de la fe. Utiliza la analogía de plantar una semilla para explicar cómo puede crecer un testimonio. Según Alma, no se requiere conocimiento perfecto para comenzar; basta tener el deseo de creer y estar dispuesto a experimentar con las enseñanzas. El capítulo describe paso a paso cómo una semilla de fe puede crecer hasta convertirse en un árbol que produce fruto."
+      "contenido": "Tras ver a los zoramitas pobres expulsados de sus lugares de adoración, Alma aprovecha el momento para enseñarles sobre el desarrollo de la fe. Utiliza la analogía de plantar una semilla para explicar cómo puede crecer un testimonio. Según Alma, no se requiere conocimiento perfecto para comenzar; basta tener el deseo de creer y estar dispuesto a experimentar con las enseñanzas. El capítulo describe paso a paso cómo una semilla de fe puede crecer hasta convertirse en un árbol que produce fruto."
     },
     {
       "tipo": "escrituras",
@@ -100,7 +100,7 @@
     },
     {
       "id": 5,
-      "question": "Mateo empezó a leer el Libro de Mormón hace dos semanas, pero como todavía no 'siente' nada especial, está por dejarlo. Según el proceso que describe Alma 32, ¿qué le dirías?",
+      "question": "Tomás empezó a leer el Libro de Mormón hace dos semanas, pero como todavía no 'siente' nada especial, está por dejarlo. Según el proceso que describe Alma 32, ¿qué le dirías?",
       "options": [
         "Que dos semanas ya es tiempo más que suficiente para tener un testimonio completo",
         "Que si no sintió nada en dos semanas, probablemente la semilla no era buena",
@@ -111,7 +111,7 @@
     },
     {
       "id": 6,
-      "question": "Valentina siente que su fe siempre fue algo que 'heredó' de sus papás, y no está segura de que sea realmente suya. Según Alma 32:27, ¿qué podría hacer para comprobarlo por sí misma?",
+      "question": "Agustina siente que su fe siempre fue algo que 'heredó' de sus papás, y no está segura de que sea realmente suya. Según Alma 32:27, ¿qué podría hacer para comprobarlo por sí misma?",
       "options": [
         "Hacer el 'experimento' de Alma: dar lugar a la palabra en su corazón, con un deseo de creer, y observar si comienza a crecer en ella",
         "Copiar exactamente las prácticas de sus papás sin cuestionar nada",

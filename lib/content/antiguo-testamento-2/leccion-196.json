@@ -1,6 +1,53 @@
 {
   "id": "leccion-196",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Dios le prometió a Abraham algo que iba mucho más allá de bendecir solamente a su propia familia: «te bendeciré sobremanera... y serás una bendición para tu descendencia después de ti» (Abraham 2:9). Esa promesa, dice el mismo pasaje, incluía que «en tu descendencia... serán benditas todas las familias de la tierra» (Abraham 2:11). Como miembro bautizado de la Iglesia, sos parte de esa descendencia, y por lo tanto, parte de esa misma promesa y esa misma responsabilidad.\n\nEl Libro de Mormón explica cómo se cumpliría esa promesa en los últimos días: a través de una «obra maravillosa entre los gentiles, que será de gran valor» tanto para ellos como «para dar a conocer los convenios del Padre... con Abraham» a toda la casa de Israel (1 Nefi 22:8–9). No es una tarea reservada solo para misioneros de tiempo completo. Es parte del convenio que ya hiciste en tu bautismo.\n\nEso no significa que tengas que dar sermones improvisados en cada conversación. El apóstol Pedro lo resumió con un consejo mucho más simple: «estad siempre preparados para responder con mansedumbre y reverencia a cada uno que os demande razón de la esperanza que hay en vosotros» (1 Pedro 3:15). No se trata de buscar oportunidades forzadas. Se trata de estar listo para cuando la conversación ya se abrió sola."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Abraham 2:9–11",
+          "texto": "Y haré de ti una nación grande y te bendeciré sobremanera, y engrandeceré tu nombre entre todas las naciones, y serás una bendición para tu descendencia después de ti, para que en sus manos lleven este ministerio y sacerdocio a todas las naciones... en tu descendencia después de ti serán benditas todas las familias de la tierra, sí, con las bendiciones del evangelio, que son las bendiciones de salvación, sí, de vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=spa&id=p9-p11#p9"
+        },
+        {
+          "referencia": "1 Nefi 22:8–9",
+          "texto": "Y después que nuestra posteridad haya sido dispersada, el Señor Dios procederá a efectuar una obra maravillosa entre los gentiles, que será de gran valor para nuestra posteridad... y también será de valor a los gentiles; y no solamente a los gentiles, sino a toda la casa de Israel, para dar a conocer los convenios del Padre de los cielos con Abraham.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/22?lang=spa&id=p8-p9#p8"
+        },
+        {
+          "referencia": "1 Pedro 3:15",
+          "texto": "Sino santificad a Dios el Señor en vuestros corazones, y estad siempre preparados para responder con mansedumbre y reverencia a cada uno que os demande razón de la esperanza que hay en vosotros;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-pet/3?lang=spa&id=p15#p15"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Llegar a ser misioneros», Liahona, noviembre de 2005",
+      "texto": "La obra misional es una manifestación de nuestra identidad y de nuestro patrimonio espirituales. Fuimos preordenados en la existencia preterrenal y nacimos para cumplir el convenio y la promesa que Dios le hizo a Abraham.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2005/11/becoming-a-missionary?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Compartir el Evangelio no es una tarea extra que se suma a tu membresía en la Iglesia: es parte del convenio mismo que hiciste al bautizarte, heredado de la promesa que Dios le hizo a Abraham hace miles de años. El élder Bednar enseñó que la obra misional es una manifestación de tu identidad espiritual, no una obligación externa. El apóstol Pedro simplificó lo que eso significa en la práctica: estar siempre listo para responder con mansedumbre cuando alguien te pregunte por tu fe. Esta semana, preparate para esa conversación que capaz ya está por llegar, sin necesidad de forzarla."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Sabías que el convenio abrahámico incluye la responsabilidad de bendecir a otras familias de la tierra, no solo a la tuya?",
+        "¿Alguna vez alguien te preguntó directamente sobre tu fe, y cómo respondiste?",
+        "¿Qué te da más miedo de hablar de tu fe con alguien: no saber qué decir, o su reacción?",
+        "¿Qué diferencia hace pensar en compartir el Evangelio como parte de tu identidad, y no como una tarea impuesta desde afuera?",
+        "¿Qué podrías hacer esta semana para estar 'siempre preparado' para responder si alguien te pregunta sobre tu fe?",
+        "¿A quién le podrías compartir, de manera natural y sin forzarlo, algo de tu fe esta semana?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

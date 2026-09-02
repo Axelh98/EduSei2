@@ -21,11 +21,25 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Conferencia General, octubre de 2018, «El nombre correcto de la Iglesia»",
+      "texto": "Quitar el nombre del Señor de la Iglesia del Señor es una gran victoria de Satanás.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cristo no dejó dudas sobre por qué Su Iglesia debe llevar Su nombre: es Su Iglesia, edificada sobre Su evangelio, y llamarla de otra manera sería como atribuirle Su obra a otra persona. El presidente Russell M. Nelson enseñó que 'quitar el nombre del Señor de la Iglesia del Señor es una gran victoria de Satanás' — no es un detalle menor de organización, es parte de la identidad misma de la fe. Cada vez que decís 'La Iglesia de Jesucristo de los Santos de los Últimos Días' completo, en lugar de un apodo, estás afirmando algo real sobre a quién pertenece esta obra. Esta semana, practicá usar el nombre completo de la Iglesia al hablar de ella con otros, y notá si eso cambia algo en cómo pensás sobre tu propia fe."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Por qué es fundamental que la Iglesia lleve el nombre de Jesucristo?",
-        "¿Cómo resumirías 'el Evangelio' en base a lo que Jesucristo enseña en este capítulo?",
-        "¿De qué forma puedes honrar y representar el nombre de Cristo que has tomado sobre ti?"
+        "¿Sabías, antes de esta lección, por qué la Iglesia insiste tanto en usar su nombre completo?",
+        "Si tuvieras que explicarle a alguien en una frase por qué la Iglesia lleva el nombre de Cristo, ¿qué dirías?",
+        "¿Alguna vez usaste un apodo para referirte a la Iglesia sin pensar en lo que eso implicaba?",
+        "¿Qué te parece la enseñanza del presidente Nelson de que quitar el nombre del Señor es 'una gran victoria de Satanás'?",
+        "¿Qué podés hacer esta semana para usar con más intención el nombre completo de la Iglesia?",
+        "Pensando en que el evangelio de Cristo es 'hacer la voluntad del Padre', ¿qué decisión concreta esta semana refleja esa misma disposición en vos?"
       ]
     }
   ],
@@ -65,25 +79,47 @@
     },
     {
       "id": 4,
-      "question": "¿Qué se requiere para entrar en el reino según Cristo?",
+      "question": "Cristo explica que si Su Iglesia llevara el nombre de otra persona, sería la iglesia de esa persona y no la Suya (3 Nefi 27:8). ¿Qué principio doctrinal ilustra esa comparación?",
       "options": [
-        "Solo bautismo",
-        "Fe, arrepentimiento, bautismo y perseverar hasta el fin",
-        "Solo buenas obras",
-        "Riquezas"
+        "Que el nombre de una iglesia identifica a quién pertenece realmente esa obra y a quién debe honrar",
+        "Que el nombre de una iglesia es un detalle sin ninguna importancia doctrinal",
+        "Que cualquier nombre es igual de válido mientras la gente sea buena",
+        "Que solo importa el nombre en la época de Cristo, no en la actualidad"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Sofía tiene un amigo que se refiere a la Iglesia siempre con un apodo informal, sin pensarlo dos veces. Según la enseñanza de Cristo en 3 Nefi 27 y la del presidente Nelson, ¿qué le podría compartir con respeto?",
+      "options": [
+        "Que el nombre no tiene ninguna importancia real",
+        "Que usar el nombre completo es una forma concreta de honrar a quién pertenece realmente la Iglesia, tal como Cristo mismo lo explicó",
+        "Que debería enojarse cada vez que alguien use un apodo",
+        "Que ese tema es solo una preferencia de estilo, sin relación con cómo Cristo definió a Su Iglesia"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué deben hacer los discípulos?",
+      "id": 6,
+      "question": "Franco se pregunta si usar el nombre completo de la Iglesia realmente cambia algo en la práctica. Según la enseñanza del presidente Nelson de que omitirlo es 'una gran victoria de Satanás', ¿qué le ayudaría a entender la importancia del asunto?",
       "options": [
-        "Esconderse",
-        "Levantar Su iglesia y proclamar Su evangelio",
-        "Buscar riquezas",
-        "Gobernar políticamente"
+        "Que es solo una preferencia estilística sin ningún peso espiritual",
+        "Que el nombre de la Iglesia comunica activamente a quién pertenece la obra, y quitarlo tiene consecuencias reales en cómo el mundo entiende esa relación con Cristo",
+        "Que el nombre solo importa en documentos oficiales, no en el habla cotidiana",
+        "Que esto solo le interesa a los líderes de la Iglesia, no a los miembros comunes"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la explicación de Cristo sobre por qué Su Iglesia lleva Su nombre como la enseñanza del presidente Nelson comparten un mismo principio central. ¿Cuál es?",
+      "options": [
+        "Que el nombre de la Iglesia no es un detalle administrativo, sino una declaración pública de a quién pertenece la obra y el evangelio que enseña",
+        "Que el nombre de una iglesia nunca tiene relación con su doctrina",
+        "Que Satanás no tiene ningún interés real en cómo se llama la Iglesia",
+        "Que el nombre completo solo es necesario en contextos formales"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

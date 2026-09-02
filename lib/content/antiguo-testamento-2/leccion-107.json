@@ -1,6 +1,53 @@
 {
   "id": "leccion-107",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Salmo 119 es el capítulo más largo de toda la Biblia: 176 versículos, organizados en veintidós secciones, una por cada letra del alfabeto hebreo. No es un salmo de queja ni de súplica desesperada. Es, de principio a fin, una declaración de amor a la palabra de Dios, escrita por alguien que encontró en las Escrituras mucho más que reglas que cumplir.\n\nLa imagen central del salmo es sencilla y poderosa: «Lámpara es a mis pies tu palabra, y luz a mi camino» (Salmo 119:105). No una luz que ilumina todo el paisaje de una vez, sino una lámpara pequeña que alumbra el siguiente paso. Eso es exactamente lo que necesitás casi siempre: no un mapa completo de toda tu vida, sino suficiente luz para saber qué hacer hoy, en esta decisión concreta.\n\nEl salmista también responde una pregunta muy directa: «¿Con qué limpiará el joven su camino? Con guardar tu palabra» (Salmo 119:9). No dice 'con evitar todo lo divertido' ni 'con seguir reglas sin sentido'. Dice que guardar la palabra de Dios en el corazón —no solo leerla una vez, sino guardarla, atesorarla— es lo que mantiene limpio el camino de alguien joven, en cualquier época.\n\nEl Libro de Mormón agrega algo que el salmista todavía no podía saber: que las palabras de Cristo específicamente, no cualquier palabra religiosa, son las que realmente dirigen: «Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer» (2 Nefi 32:3).\n\nEl estudio de las Escrituras no es una obligación más en tu lista de tareas religiosas. Es, según el salmista, la diferencia entre caminar a oscuras y caminar con una luz que te muestra el siguiente paso, aunque no veas todo el camino."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Salmos 119:105",
+          "texto": "Lámpara es a mis pies tu palabra, y luz a mi camino.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=spa&id=p105#p105"
+        },
+        {
+          "referencia": "Salmos 119:9–11",
+          "texto": "¿Con qué limpiará el joven su camino? Con guardar tu palabra. Con todo mi corazón te he buscado; no dejes que me desvíe de tus mandamientos. En mi corazón he guardado tus palabras para no pecar contra ti.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=spa&id=p9-p11#p9"
+        },
+        {
+          "referencia": "2 Nefi 32:3",
+          "texto": "Los ángeles hablan por el poder del Espíritu Santo; por lo que declaran las palabras de Cristo. Por tanto, os dije: Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Escúchalo», Liahona, mayo de 2020",
+      "texto": "Yo les prometo que serán bendecidos con poder adicional para lidiar con la tentación, las pruebas y la debilidad. Les prometo milagros en sus matrimonios, sus relaciones familiares y sus trabajos diarios. Y les prometo que se incrementará su capacidad para sentir gozo, aun si aumentan las turbulencias en sus vidas.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2020/05/45nelson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El salmista no describió las Escrituras como un manual de reglas, sino como una lámpara: algo que alumbra el siguiente paso cuando todo lo demás está oscuro. El presidente Nelson prometió bendiciones concretas —poder ante la tentación, milagros familiares, mayor capacidad de gozo— a quienes hacen del estudio diario un hábito real, no ocasional. Esta semana, en vez de leer un capítulo por obligación, elegí un solo versículo y preguntate qué luz específica te da para el paso que tenés que dar hoy."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué tan seguido leés las Escrituras por tu cuenta, más allá de lo que se pide en Seminario?",
+        "¿Qué te parece la imagen de la palabra de Dios como una 'lámpara a tus pies' en vez de una luz que ilumina todo el camino de una vez?",
+        "¿Alguna vez un versículo específico te ayudó a tomar una decisión concreta en un momento difícil?",
+        "¿Qué significa para vos 'guardar' la palabra de Dios en el corazón, y no solo leerla una vez?",
+        "¿Qué un solo versículo podrías elegir esta semana para memorizar o repasar varias veces?",
+        "¿A qué hora del día te sería más fácil sumar unos minutos de estudio personal de las Escrituras esta semana?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

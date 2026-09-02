@@ -1,6 +1,53 @@
 {
   "id": "leccion-109",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Proverbios no es un libro de historias como Génesis o Éxodo. Es una colección de dichos breves, memorables, escritos para que se queden grabados en la mente de quien los lee, muchos de ellos atribuidos al rey Salomón, conocido por su sabiduría. El libro empieza declarando exactamente para qué sirve: «para entender proverbios y declaraciones, las palabras de los sabios» (Proverbios 1:6), y después entrega la clave que abre todo lo demás: «El principio de la sabiduría es el temor de Jehová» (Proverbios 1:7).\n\n'Temor de Jehová' no significa tenerle miedo a Dios como a algo peligroso. Significa reconocer que Dios sabe cosas que vos todavía no sabés, y estar dispuesto a escuchar antes de decidir por tu cuenta. Proverbios lo dice sin rodeos: «Jehová da la sabiduría, y de su boca vienen el conocimiento y el entendimiento» (Proverbios 2:6). La sabiduría, según este libro, no es algo que se logra solo estudiando mucho o siendo naturalmente inteligente. Es algo que se pide, se busca, y sobre todo, se recibe de una fuente externa a vos mismo.\n\nEl rey Benjamín, en el Libro de Mormón, agrega una pieza clave: «creed que él tiene toda sabiduría y todo poder... creed que el hombre no comprende todas las cosas que el Señor puede comprender» (Mosíah 4:9). Esa es una postura incómoda para cualquier adolescente que está aprendiendo a confiar en su propio criterio: aceptar que hay cosas que simplemente no entendés todavía, y que eso está bien.\n\nVivimos rodeados de consejos: de amigos, de redes sociales, de influencers que hablan con total seguridad sobre cómo vivir. Proverbios ofrece un filtro simple para toda esa información: ¿este consejo te acerca a Dios o te aleja de Él? Esa pregunta, más que cualquier otra, es el verdadero comienzo de la sabiduría."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Proverbios 1:5–7",
+          "texto": "Oirá el sabio y aumentará su saber; y el entendido adquirirá consejo para entender proverbios y declaraciones, las palabras de los sabios y sus enigmas. El principio de la sabiduría es el temor de Jehová; los insensatos desprecian la sabiduría y la disciplina.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/1?lang=spa&id=p5-p7#p5"
+        },
+        {
+          "referencia": "Proverbios 2:6",
+          "texto": "Porque Jehová da la sabiduría, y de su boca vienen el conocimiento y el entendimiento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/2?lang=spa&id=p6#p6"
+        },
+        {
+          "referencia": "Mosíah 4:9",
+          "texto": "Creed en Dios; creed que él existe, y que creó todas las cosas, tanto en el cielo como en la tierra; creed que él tiene toda sabiduría y todo poder, tanto en el cielo como en la tierra; creed que el hombre no comprende todas las cosas que el Señor puede comprender.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p9#p9"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Los principios de Mi evangelio», Conferencia General, abril de 2021",
+      "texto": "Sé que la doctrina y los principios del evangelio de Jesucristo son las fuentes primordiales de dirección para nuestra vida y de un gozo perdurable tanto en la vida terrenal como en la eternidad.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/56bednar?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Proverbios no promete que la sabiduría llega instantáneamente ni sin esfuerzo: promete que Dios es la fuente, y que Él la da a quien la busca con humildad. El élder Bednar enseñó que la doctrina y los principios del evangelio son la fuente primordial de dirección para tu vida, no una opción más entre muchas. La próxima vez que tengas que tomar una decisión importante, antes de buscar consejo en redes sociales o solo en tu propio criterio, probá primero preguntarle a Dios en oración."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿A quién sueles pedirle consejo cuando tenés que tomar una decisión difícil?",
+        "¿Qué te parece la idea de que 'el principio de la sabiduría es el temor de Jehová', es decir, reconocer que Dios sabe más que vos?",
+        "¿Alguna vez seguiste un consejo de una red social o un influencer que después resultó no ser tan bueno?",
+        "¿Qué significa para vos que Mosíah 4:9 diga que 'el hombre no comprende todas las cosas que el Señor puede comprender'?",
+        "¿Qué decisión concreta tenés por delante esta semana en la que podrías buscar primero la guía de Dios antes de decidir solo?",
+        "¿A quién de fe podrías pedirle consejo esta semana, además de orar por tu cuenta?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

@@ -1,6 +1,53 @@
 {
   "id": "leccion-134",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Jeremías describe el amor de Dios con una frase que no necesita explicación: «con amor eterno te he amado; por tanto, te he atraído con misericordia» (Jeremías 31:3). No es un amor condicionado a que Israel se porte bien primero. Es un amor que existía antes de cualquier condición, y que atrae, no empuja.\n\nLa promesa central del capítulo es todavía más específica sobre cómo funcionaría ese amor en la práctica: «Pondré mi ley en su mente y la escribiré en sus corazones» (Jeremías 31:33). Hay una diferencia enorme entre conocer una regla y tenerla escrita en el corazón. Conocer una regla significa que podés recitarla si te preguntan. Tenerla escrita en el corazón significa que ya forma parte de cómo reaccionás automáticamente, sin necesidad de pensarlo dos veces.\n\nSiglos después, el apóstol Pablo retomó esa misma imagen para describir a los primeros cristianos: «carta de Cristo... escrita no con tinta, sino con el Espíritu del Dios vivo; no en tablas de piedra, sino en tablas de carne del corazón» (2 Corintios 3:3). Una carta escrita en piedra es rígida, externa, algo que consultás de vez en cuando. Una carta escrita en el corazón te acompaña a todos lados, incluso cuando no tenés las Escrituras físicamente en la mano.\n\nEs fácil, en Seminario o en la Iglesia en general, acumular mucho conocimiento sobre el Evangelio sin que ese conocimiento realmente cambie tus decisiones diarias. Sabés que la honestidad importa, pero eso no siempre te detiene cuando mentir sería más fácil. La pregunta que deja Jeremías 31 no es cuánto sabés del Evangelio, sino cuánto de eso ya está escrito, de verdad, en tu corazón."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Jeremías 31:3",
+          "texto": "Jehová se manifestó a mí hace ya mucho tiempo, diciendo: Sí, con amor eterno te he amado; por tanto, te he atraído con misericordia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Jeremías 31:33",
+          "texto": "Mas este es el convenio que haré con la casa de Israel después de aquellos días, dice Jehová: Pondré mi ley en su mente y la escribiré en sus corazones; y yo seré su Dios, y ellos serán mi pueblo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=spa&id=p33#p33"
+        },
+        {
+          "referencia": "2 Corintios 3:3",
+          "texto": "Siendo manifiesto que sois carta de Cristo expedida por nosotros, escrita no con tinta, sino con el Espíritu del Dios vivo; no en tablas de piedra, sino en tablas de carne del corazón.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/3?lang=spa&id=p3#p3"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Kelly R. Johnson",
+      "fuente": "«Poder duradero», Conferencia General, octubre de 2020",
+      "texto": "He aprendido que el tener la palabra de Dios en lo profundo del alma, junto con la fe en el Señor Jesucristo y Su expiación, me permiten recurrir al poder de Dios para vencer al adversario y a cualquier cosa que podría lanzarme.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/56johnson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Jeremías no promete solo que vas a conocer la ley de Dios; promete que puede estar escrita en tu corazón, tan integrada que se vuelva parte de cómo reaccionás. El élder Johnson enseñó que tener la palabra de Dios en lo profundo del alma, junto con fe en Cristo, te da acceso al poder de Dios frente a cualquier dificultad. Esta semana, elegí un principio del Evangelio que conocés bien de memoria pero que todavía no se refleja del todo en tus decisiones, y trabajá conscientemente en acortar esa distancia."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué diferencia notás entre 'saber' una regla del Evangelio y tenerla realmente 'escrita en el corazón'?",
+        "¿Qué te genera que el amor de Dios se describa como 'amor eterno', sin condiciones previas?",
+        "¿Hay algo del Evangelio que conocés muy bien de memoria pero que todavía no cambia tus decisiones diarias?",
+        "¿Qué te parece la imagen de Pablo de una 'carta escrita en el corazón' en vez de en piedra?",
+        "¿Qué principio concreto del Evangelio podrías trabajar esta semana para que pase de ser 'conocimiento' a ser algo escrito en tu corazón?",
+        "¿Cómo se nota, en la práctica, cuando alguien tiene un principio realmente 'escrito en el corazón' y no solo memorizado?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

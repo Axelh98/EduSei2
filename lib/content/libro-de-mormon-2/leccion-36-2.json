@@ -21,11 +21,25 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Profeta José Smith",
+      "fuente": "Introducción del Libro de Mormón",
+      "texto": "El Libro de Mormón era el libro más correcto de cuantos hay sobre la tierra, y la piedra clave de nuestra religión, y que un hombre se acercaría más a Dios si se guiara por sus preceptos, que si se guiara por los de cualquier otro libro.",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/introduction?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Moroni quedó completamente solo —su padre y todo su pueblo habían muerto— y aun así siguió escribiendo, protegiendo un registro que sabía que llegaría a manos de gente que ni siquiera había nacido todavía. El profeta José Smith enseñó que el Libro de Mormón es 'el libro más correcto de cuantos hay sobre la tierra, y la piedra clave de nuestra religión', y que acercarse a sus preceptos acerca más a una persona a Dios que cualquier otro libro. Lo que hoy podés sostener en tus manos o leer en una aplicación le costó a Moroni la soledad de sus últimos años de vida. Elegí leer, esta semana, un pasaje del Libro de Mormón con la conciencia de lo que costó que llegara hasta vos."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te impresiona más sobre la dedicación de Moroni al continuar escribiendo estando completamente solo?",
         "¿De qué manera las profecías de Moroni sobre nuestros días se cumplen hoy?",
-        "¿Cómo aumenta tu gratitud por el Libro de Mormón al saber lo que costó protegerlo?"
+        "¿Cómo aumenta tu gratitud por el Libro de Mormón al saber lo que costó protegerlo?",
+        "¿Qué te parece la enseñanza de José Smith de que este es 'el libro más correcto... y la piedra clave de nuestra religión'?",
+        "Si tuvieras que explicarle a alguien por qué el Libro de Mormón es un 'tesoro', usando la historia de Moroni, ¿qué le dirías?",
+        "¿Qué día concreto de esta semana vas a apartar para leer el Libro de Mormón con esa misma gratitud?"
       ]
     }
   ],
@@ -84,6 +98,28 @@
         "Ninguna"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Tomás tiene el Libro de Mormón en una aplicación del teléfono y a veces lo abre sin prestarle mucha atención, como una tarea más. Según la historia de Moroni escribiendo completamente solo para preservar este registro, ¿qué le ayudaría a cambiar su actitud?",
+      "options": [
+        "Que el formato digital hace que el contenido sea menos importante que antes",
+        "Recordar el costo real —la soledad, el peligro, los años— que implicó preservar este registro, para leerlo con la gratitud e intención que merece",
+        "Que leer el libro en una aplicación del teléfono es, en sí mismo, una falta de respeto hacia el texto",
+        "Que solo las copias físicas del libro merecen atención genuina"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la dedicación de Moroni a preservar el registro en soledad como la enseñanza de José Smith sobre que este es 'el libro más correcto... y la piedra clave de nuestra religión' comparten un mismo principio. ¿Cuál es?",
+      "options": [
+        "Que el valor real del Libro de Mormón está tanto en el sacrificio que costó preservarlo como en el acercamiento a Dios que ofrece a quien lo estudia y vive",
+        "Que el valor del libro depende únicamente de su antigüedad histórica",
+        "Que el valor del libro depende únicamente de cuánto sufrimiento costó preservarlo, sin relación con su doctrina",
+        "Que el libro es valioso solo como objeto histórico, sin relación con acercarse a Dios"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

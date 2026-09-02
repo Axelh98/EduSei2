@@ -16,11 +16,18 @@
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "Moroni 10:4 pone tres condiciones concretas para recibir esta respuesta: preguntar con un corazón sincero, con verdadera intención, y teniendo fe en Cristo. No es una fórmula mágica ni una pregunta retórica: es una invitación seria, con requisitos reales. Memorizar este versículo te da, palabra por palabra, la promesa exacta que podés ofrecerle a cualquier persona que se pregunte si el Libro de Mormón es verdadero — incluyéndote a vos mismo, si todavía no pusiste a prueba esta promesa con toda sinceridad. Esta semana, memorizá Moroni 10:4 y, si nunca lo hiciste con las tres condiciones completas, hacé el intento real."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
+        "¿Ya te sabías de memoria, aunque sea en parte, Moroni 10:4? ¿Qué frase se te queda más grabada?",
         "¿Cómo describirías la diferencia entre hacer una pregunta casual y orar 'con un corazón sincero'?",
-        "¿Cómo mantienes tu testimonio fuerte después de haber recibido una respuesta inicial del Espíritu?",
-        "¿A quién podrías invitar a poner a prueba esta promesa de Moroni?"
+        "¿Cómo mantenés tu testimonio fuerte después de haber recibido una respuesta inicial del Espíritu?",
+        "¿A quién podrías invitar a poner a prueba esta promesa de Moroni?",
+        "Elegí memorizar Moroni 10:4 esta semana. ¿Qué método vas a usar: repetirlo en voz alta, escribirlo, otro?",
+        "De las tres condiciones del versículo —corazón sincero, verdadera intención, fe en Cristo— ¿cuál sentís que más necesitás fortalecer?"
       ]
     }
   ],
@@ -38,7 +45,7 @@
     },
     {
       "id": 2,
-      "question": "¿Con qué actitud debemos preguntar?",
+      "question": "¿Con qué actitud debemos preguntar, según este versículo?",
       "options": [
         "Con duda",
         "Con corazón sincero, con verdadera intención y fe en Cristo",
@@ -49,36 +56,58 @@
     },
     {
       "id": 3,
-      "question": "¿Cómo manifestará Dios la verdad?",
+      "question": "El versículo pone tres condiciones específicas —corazón sincero, verdadera intención, fe en Cristo— antes de prometer una respuesta. ¿Qué principio ilustra que la promesa no sea incondicional?",
       "options": [
-        "Por señales",
-        "Por el poder del Espíritu Santo",
-        "Por milagros físicos",
-        "Por otras personas"
+        "Que recibir revelación personal requiere una disposición genuina de parte de quien pregunta, no solo formular la pregunta de cualquier manera",
+        "Que Dios responde exactamente igual sin importar la actitud de quien pregunta",
+        "Que basta con cumplir la condición de la fe en Cristo, sin necesidad de las otras dos",
+        "Que basta con cumplir una sola de las tres condiciones para obtener la misma respuesta"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué se puede conocer por el Espíritu Santo?",
+      "question": "¿Por qué es significativo que la promesa incluya 'la verdad de todas las cosas' y no solo la verdad del Libro de Mormón específicamente?",
       "options": [
-        "Solo algunas cosas",
-        "La verdad de todas las cosas",
-        "Nada",
-        "Solo lo físico"
+        "Porque sugiere que el principio de recibir revelación personal por el Espíritu Santo tiene una aplicación más amplia que solo este libro en particular",
+        "Porque implica que la promesa solo aplica a preguntas sobre historia antigua, no sobre decisiones actuales",
+        "Porque significa que cualquier pregunta, sin importar su naturaleza, recibe automáticamente una respuesta",
+        "Porque esa frase es simplemente una exageración retórica sin ningún significado doctrinal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Camila le preguntó a Dios si el Libro de Mormón era verdadero, pero lo hizo casi por curiosidad, sin pensarlo mucho ni con fe real. Según las tres condiciones de Moroni 10:4, ¿qué le ayudaría a entender por qué tal vez no sintió una respuesta clara?",
+      "options": [
+        "Que la promesa de Moroni requiere condiciones específicas —sinceridad, intención real, fe en Cristo— que quizás no estuvieron presentes de la forma en que ella preguntó",
+        "Que la promesa de Moroni 10:4 no funciona en absoluto para nadie",
+        "Que solo las personas que ya son miembros de la Iglesia pueden recibir esta respuesta",
+        "Que preguntar por curiosidad es exactamente lo mismo que preguntar con corazón sincero"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Joaquín quiere ayudar a un amigo a entender qué significa preguntar 'con verdadera intención'. Según el contexto de Moroni 10:4, ¿cuál sería la mejor explicación?",
+      "options": [
+        "Que significa preguntar solo para poder decir que ya lo intentó, sin importar el resultado",
+        "Que significa estar genuinamente dispuesto a actuar según la respuesta que reciba, no solo hacer la pregunta como formalidad",
+        "Que 'verdadera intención' no tiene ningún significado específico en este contexto",
+        "Que solo se aplica a preguntas sobre el Libro de Mormón, no a otras decisiones de fe"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué promesa es esta para los lectores del Libro de Mormón?",
+      "id": 7,
+      "question": "Tanto las tres condiciones para preguntar como la promesa de conocer 'la verdad de todas las cosas' forman una sola idea central de este pasaje de dominio de la doctrina. ¿Cuál es?",
       "options": [
-        "No hay promesa",
-        "Que pueden saber por sí mismos que es verdadero",
-        "Solo para algunos",
-        "Que es imposible saberlo"
+        "Que Dios ofrece un camino real y accesible para recibir un testimonio personal, siempre que la persona se acerque con sinceridad genuina, no solo con la pregunta formulada",
+        "Que solo un grupo selecto de personas puede recibir revelación personal",
+        "Que basta con tener un corazón sincero, sin necesidad de fe en Cristo, para recibir esta promesa",
+        "Que este pasaje se limita únicamente a confirmar hechos históricos, sin ninguna dimensión espiritual"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

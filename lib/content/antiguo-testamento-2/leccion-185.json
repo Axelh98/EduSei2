@@ -1,6 +1,53 @@
 {
   "id": "leccion-185",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Setecientos años antes de que naciera, Isaías ya describía con precisión asombrosa lo que Jesucristo experimentaría: «varón de dolores y experimentado en quebranto» (Isaías 53:3). No un Dios distante que observa el sufrimiento desde lejos, sino Alguien que lo conoce de primera mano: «ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores» (Isaías 53:4).\n\nEso significa que cuando estás triste, desanimado o atravesando algo que se siente como depresión, no estás llevando esa carga frente a un Dios que no entiende. El propio Jesús invitó directamente a quienes cargan peso: «Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar» (Mateo 11:28). Y el salmista, mucho antes, ya había notado algo que la ciencia confirma hoy: «Cercano está Jehová a los quebrantados de corazón» (Salmo 34:18). Dios no se aleja cuando estás mal. Se acerca más.\n\nLa tristeza y la depresión no son debilidad ni falta de fe. Son parte de vivir en un cuerpo y una mente reales, afectados por la biología, las circunstancias y la genética, tanto como por lo espiritual. Pedir ayuda —a un padre, un líder de la Iglesia, o un profesional de la salud mental— no contradice tu fe. Es, muchas veces, la forma concreta en la que Dios responde a tu oración pidiendo ayuda."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 53:3–5",
+          "texto": "Despreciado y desechado entre los hombres, varón de dolores y experimentado en quebranto; y como que escondimos de él el rostro, fue menospreciado y no lo estimamos. Ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores, y nosotros le tuvimos por azotado, herido por Dios y afligido. Mas él herido fue por nuestras transgresiones, molido por nuestras iniquidades; el castigo de nuestra paz fue sobre él, y por sus heridas fuimos nosotros sanados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=spa&id=p3-p5#p3"
+        },
+        {
+          "referencia": "Mateo 11:28–30",
+          "texto": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar. Llevad mi yugo sobre vosotros y aprended de mí, que soy manso y humilde de corazón, y hallaréis descanso para vuestras almas. Porque mi yugo es fácil y ligera mi carga.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=spa&id=p28-p30#p28"
+        },
+        {
+          "referencia": "Salmos 34:18",
+          "texto": "Cercano está Jehová a los quebrantados de corazón, y salva a los contritos de espíritu.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/34?lang=spa&id=p18#p18"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«La respuesta siempre es Jesucristo», Conferencia General, abril de 2023",
+      "texto": "¡Les ruego que vengan a Él para que Él pueda sanarlos a ustedes! Él los sanará del pecado, conforme se arrepientan; los sanará de la tristeza y del miedo; los sanará de las heridas de este mundo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/58nelson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cristo no observa tu tristeza desde afuera: la conoce de adentro, porque la cargó literalmente durante la Expiación. El presidente Nelson prometió que Él puede sanarte no solo del pecado, sino también de la tristeza y del miedo. Eso no significa que el dolor va a desaparecer de un día para el otro, ni que pedir ayuda profesional sea una falta de fe. Si estás cargando algo pesado ahora mismo, esta semana dale un paso concreto: hablalo con alguien de confianza, en vez de guardártelo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te genera saber que Jesucristo experimentó personalmente el dolor y la tristeza, y no solo los observó desde lejos?",
+        "¿Alguna vez atravesaste, o conocés a alguien que atravesó, un momento de tristeza profunda o depresión?",
+        "¿Qué te detiene, si es que algo te detiene, a la hora de pedir ayuda cuando te sentís mal emocionalmente?",
+        "¿Qué significa para vos que 'Dios está cercano a los quebrantados de corazón', en vez de alejarse de ellos?",
+        "¿A quién de confianza podrías contarle esta semana cómo te sentís realmente, si estás cargando algo pesado?",
+        "¿Qué paso concreto —hablar con alguien, orar, buscar ayuda profesional— podrías dar esta semana si vos o alguien que conocés está luchando con la tristeza?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

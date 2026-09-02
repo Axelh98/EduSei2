@@ -21,11 +21,25 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Conferencia General, abril de 2017, «Cómo obtener el poder de Jesucristo en nuestra vida»",
+      "texto": "Los discípulos verdaderos de Jesucristo están dispuestos a destacarse, defender sus principios y ser diferentes a la gente del mundo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Mormón fue visitado por el Señor a los 15 años y, poco después, se convirtió en líder de un pueblo que rechazaba activamente a Cristo — no porque fuera fácil, sino porque era quien Dios necesitaba ahí. El presidente Russell M. Nelson enseñó que 'los discípulos verdaderos de Jesucristo están dispuestos a destacarse, defender sus principios y ser diferentes a la gente del mundo.' Mormón lloró por su pueblo, pero sus lágrimas no cambiaron su fidelidad: siguió siendo fiel aunque estuviera completamente rodeado de iniquidad. Esta semana, identificá una situación donde 'destacarte' por seguir a Cristo te resulta incómodo, y elegí hacerlo de todas formas."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cómo pudo Mormón mantener su fe en medio de un pueblo tan inicuo?",
         "¿Cuál es la diferencia entre el arrepentimiento sincero y 'el pesar de los condenados'?",
-        "¿Qué nos enseña la juventud de Mormón acerca de que el Señor confía en los jóvenes?"
+        "¿Qué nos enseña la juventud de Mormón acerca de que el Señor confía en los jóvenes?",
+        "¿Qué te parece la enseñanza del presidente Nelson de que los discípulos verdaderos 'están dispuestos a destacarse... y ser diferentes a la gente del mundo'?",
+        "¿Alguna vez te sentiste 'diferente' por seguir un principio del Evangelio en un ambiente donde nadie más lo hacía?",
+        "¿Qué situación concreta de esta semana te va a pedir 'destacarte' como discípulo, y qué vas a hacer al respecto?"
       ]
     }
   ],
@@ -65,25 +79,47 @@
     },
     {
       "id": 4,
-      "question": "¿Qué le fue prohibido hacer a Mormón?",
+      "question": "Mormón describe el 'gozo' de su pueblo por ser librados de sus enemigos como 'pesares de los condenados', no arrepentimiento real (Mormón 2:13). ¿Qué diferencia establece esa frase entre el remordimiento y el arrepentimiento genuino?",
       "options": [
-        "Escribir",
-        "Predicar porque el pueblo había rechazado al Espíritu",
-        "Leer",
-        "Orar"
+        "Que lamentar las consecuencias de un error no es lo mismo que un cambio de corazón sincero motivado por el amor a Dios",
+        "Que ambos conceptos significan exactamente lo mismo en este contexto",
+        "Que el pueblo de Mormón sí se arrepintió genuinamente, según ese versículo",
+        "Que Mormón no hace ninguna distinción entre esos dos tipos de dolor"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Cómo describe Mormón el estado de los nefitas?",
+      "question": "Sofía siente que sería 'raro' ser la única de su grupo de amigas que decide no participar en algo que sabe que está mal. Según la enseñanza del presidente Nelson sobre estar 'dispuestos a destacarse... y ser diferentes', ¿qué principio le ayudaría?",
       "options": [
-        "Prósperos",
-        "Sin civilización, llenos de todo tipo de iniquidad",
-        "Felices",
-        "En paz"
+        "Que ser diferente por seguir un principio correcto es parte de lo que significa ser un discípulo verdadero, tal como fue para Mormón en medio de un pueblo inicuo",
+        "Que debería seguir a sus amigas para no sentirse raro",
+        "Que ese principio solo aplicaba a profetas, no a jóvenes comunes",
+        "Que destacarse nunca tiene ningún valor espiritual real"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Mateo se pregunta cómo Mormón pudo seguir siendo fiel durante toda su vida, rodeado de un pueblo que rechazaba a Dios activamente. Según el ejemplo de Mormón, ¿qué principio le ayudaría a entenderlo?",
+      "options": [
+        "Que Mormón vivió en un ambiente fácil, sin ninguna presión real para abandonar su fe",
+        "Que la fidelidad de Mormón dependía completamente de que su entorno también fuera fiel",
+        "Que es posible mantener la fidelidad personal incluso cuando el entorno entero se mueve en la dirección opuesta, como decidió hacerlo Mormón",
+        "Que Mormón terminó cediendo a la presión de su entorno, según el texto"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la fidelidad de Mormón en medio de la iniquidad de su pueblo como la enseñanza del presidente Nelson sobre estar dispuestos a 'ser diferentes' comparten un mismo principio central sobre el discipulado. ¿Cuál es?",
+      "options": [
+        "Que ser un discípulo verdadero a veces implica mantenerse fiel incluso cuando eso significa destacarse o ir en contra de la mayoría",
+        "Que el discipulado solo es posible en ambientes donde la mayoría también es fiel",
+        "Que la fidelidad de Mormón fue posible solo porque él ya era profeta, algo que no aplica a cualquier persona",
+        "Que destacarse por la fe siempre trae consecuencias negativas, sin ningún beneficio real"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

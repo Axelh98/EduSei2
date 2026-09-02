@@ -1,6 +1,53 @@
 {
   "id": "leccion-110",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Proverbios 3:5–6 es probablemente uno de los versículos más citados de todo el Antiguo Testamento, y por una buena razón: resume en dos líneas algo que a cualquier persona, joven o adulta, le cuesta toda la vida aprender. «Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas» (Proverbios 3:5–6).\n\nLa parte difícil no es confiar en Dios en general. Es la segunda mitad: «no te apoyes en tu propia prudencia». Eso significa estar dispuesto a elegir el camino de Dios incluso cuando tu propio criterio, tu propia lógica, te dice otra cosa. El profeta Isaías explica por qué eso tiene sentido: «mis pensamientos no son vuestros pensamientos, ni vuestros caminos mis caminos... como son más altos los cielos que la tierra, así son mis caminos más altos que vuestros caminos» (Isaías 55:8–9). No es que tu criterio no valga nada. Es que el de Dios ve cosas que el tuyo todavía no puede ver.\n\nEl profeta Lehi, ya cerca del final de su vida, resumió su propia experiencia con esa misma confianza: «no pondré mi confianza en el brazo de la carne; porque sé que maldito es aquel que confía en el brazo de la carne» (2 Nefi 4:34). 'Brazo de la carne' es una forma antigua de decir 'solo mi propia fuerza y criterio, sin apoyarme en Dios'.\n\nConfiar en Dios no significa dejar de pensar o de esforzarte. Significa que, cuando tu criterio y la dirección de Dios no coinciden, elegís seguir a Dios, aunque en el momento no entiendas completamente por qué."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Proverbios 3:5–6",
+          "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=spa&id=p5-p6#p5"
+        },
+        {
+          "referencia": "Isaías 55:8–9",
+          "texto": "Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos mis caminos, dice Jehová. Como son más altos los cielos que la tierra, así son mis caminos más altos que vuestros caminos, y mis pensamientos más que vuestros pensamientos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=spa&id=p8-p9#p8"
+        },
+        {
+          "referencia": "2 Nefi 4:34–35",
+          "texto": "¡Oh Señor, en ti he puesto mi confianza, y en ti confiaré para siempre! No pondré mi confianza en el brazo de la carne; porque sé que maldito es aquel que confía en el brazo de la carne. Sí, sé que Dios dará liberalmente a quien pida.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/4?lang=spa&id=p34-p35#p34"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Richard G. Scott",
+      "fuente": "«La confianza en el Señor», Conferencia General, octubre de 1995",
+      "texto": "Confiar quiere decir obedecer voluntariamente desde el principio sin saber el fin. Para producir fruto, tu confianza en el Señor debe ser más fuerte y duradera que la que tengas en tus propias ideas y experiencia.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/1995/10/trust-in-the-lord?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Confiar en Dios 'con todo tu corazón' no es un sentimiento vago: es una decisión concreta de seguir Su dirección incluso cuando tu propia lógica sugiere otra cosa. El élder Scott enseñó que confiar significa obedecer voluntariamente desde el principio, sin saber todavía el final. Lehi aprendió, después de toda una vida, que apoyarse solo en su propia fuerza no era suficiente. Esta semana, en una decisión concreta que estés enfrentando, probá 'reconocer a Dios' en ella —orando antes de decidir— en vez de resolverla completamente solo con tu propio criterio."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿En qué área de tu vida te resulta más difícil confiar en Dios en vez de en tu propio criterio?",
+        "¿Qué significa para vos 'no apoyarte en tu propia prudencia'? ¿Te parece razonable o incómodo?",
+        "¿Alguna vez seguiste la dirección de Dios aunque tu propia lógica te decía otra cosa, y después entendiste por qué?",
+        "¿Qué te parece la idea de que los pensamientos y caminos de Dios son 'más altos' que los tuyos, sin que eso signifique que los tuyos no valen nada?",
+        "¿Qué decisión concreta de esta semana podrías 'reconocer a Dios' primero, antes de decidir solo con tu propio criterio?",
+        "¿Qué te ayudaría a confiar más en Dios en un área específica donde hoy confiás principalmente en vos mismo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

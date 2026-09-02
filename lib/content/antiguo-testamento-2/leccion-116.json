@@ -1,6 +1,53 @@
 {
   "id": "leccion-116",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Isaías profetizó que de la «raíz de Isaí» —la línea familiar del rey David— surgiría alguien «puesto como estandarte a los pueblos», alguien que las naciones «buscarían» (Isaías 11:10). En la antigüedad, un estandarte era una bandera o enseña alrededor de la cual la gente se reunía para un propósito común, especialmente en medio de una batalla, cuando era fácil perderse o desorientarse en el caos.\n\nEsa profecía tiene un cumplimiento específico que quizás no esperarías: Doctrina y Convenios identifica a ese «descendiente de Isaí» con alguien a quien «pertenecen el sacerdocio y las llaves del reino, y será por estandarte y para el recogimiento de mi pueblo en los postreros días» (D&C 113:6), una referencia directa a José Smith y a la Restauración del Evangelio a través de él. La Iglesia restaurada, literalmente, cumple el papel del estandarte que Isaías vio hace casi tres mil años: un punto de reunión visible en medio de la confusión del mundo.\n\nIsaías 12 responde a esa promesa de reunión con un canto de puro alivio: «Dios es mi salvación; confiaré y no temeré... sacaréis aguas con gozo de las fuentes de la salvación» (Isaías 12:2–3). No es un canto de triunfo militar. Es la alegría simple de alguien que finalmente encontró el punto de reunión que estaba buscando, después de sentirse disperso o perdido.\n\nCada vez que invitás a alguien a una actividad de la Iglesia, a leer el Libro de Mormón, o simplemente le contás sobre tu fe, estás participando literalmente en ese «levantar estandarte a las naciones» (Isaías 11:12) que Isaías profetizó siglos antes de que existiera la Iglesia que hoy cumple ese papel."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 11:10–12",
+          "texto": "Y acontecerá en aquel día que la raíz de Isaí, la cual estará puesta como estandarte a los pueblos, será buscada por las naciones; y el lugar de su descanso será glorioso. Asimismo, acontecerá en aquel día que el Señor pondrá otra vez su mano para recobrar el remanente de su pueblo... Y levantará estandarte a las naciones, y juntará a los desterrados de Israel y reunirá a los esparcidos de Judá de los cuatro confines de la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11?lang=spa&id=p10-p12#p10"
+        },
+        {
+          "referencia": "Isaías 12:2–3",
+          "texto": "He aquí, Dios es mi salvación; confiaré y no temeré, porque mi fortaleza y mi canción es Jah, Jehová, quien ha sido salvación para mí. Por tanto, sacaréis aguas con gozo de las fuentes de la salvación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/12?lang=spa&id=p2-p3#p2"
+        },
+        {
+          "referencia": "Doctrina y Convenios 113:6",
+          "texto": "He aquí, así dice el Señor: Es un descendiente de Isaí, así como de José, a quien por derecho pertenecen el sacerdocio y las llaves del reino, y será por estandarte y para el recogimiento de mi pueblo en los postreros días.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/113?lang=spa&id=p6#p6"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Benjamín De Hoyos",
+      "fuente": "«Que nuestra luz sea un estandarte a las naciones», Conferencia General, abril de 2017",
+      "texto": "Un estandarte [era] una enseña alrededor de la cual los del pueblo se reunían por un mismo fin... el estandarte servía como un punto de reunión para los soldados en la batalla.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/04/that-our-light-may-be-a-standard-for-the-nations?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías vio, casi tres mil años antes de que sucediera, que Dios levantaría un estandarte visible en los últimos días para reunir a Su pueblo disperso. El élder De Hoyos explicó que un estandarte era históricamente un punto de reunión en medio de la batalla, cuando era fácil perderse. La Iglesia restaurada cumple exactamente esa función hoy, y vos sos parte de cómo se levanta ese estandarte cada vez que compartís tu fe. Esta semana, invitá a alguien —a una actividad, a leer un pasaje, a una conversación sincera— a acercarse un poco más a ese punto de reunión."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué imagen te resulta más clara: un estandarte como punto de reunión en batalla, o el canto de alivio de Isaías 12 al fin encontrar salvación?",
+        "¿Alguna vez te sentiste 'disperso' o perdido antes de encontrar un punto de reunión claro, sea la Iglesia u otra comunidad?",
+        "¿Qué te parece saber que la profecía de Isaías sobre el estandarte se cumplió específicamente a través de José Smith y la Restauración?",
+        "¿De qué manera concreta sentís que la Iglesia funciona hoy como un 'punto de reunión' para vos?",
+        "¿A quién podrías invitar esta semana —a una actividad, a una conversación sobre tu fe— para ayudar a 'levantar el estandarte'?",
+        "¿Qué te impide a veces compartir tu fe con más naturalidad, y qué podrías hacer distinto esta semana?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

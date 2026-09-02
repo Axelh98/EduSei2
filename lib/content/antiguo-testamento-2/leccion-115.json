@@ -1,6 +1,53 @@
 {
   "id": "leccion-115",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Isaías 5 empieza con una parábola sencilla: un hombre planta una viña en tierra fértil, la cerca, quita las piedras, construye una torre de vigilancia y espera con razón que produzca buenas uvas. En cambio, la viña da «uvas silvestres», fruto amargo e inútil (Isaías 5:2). La viña es Israel, y el dueño es el Señor: alguien que hizo todo lo necesario para que Su pueblo prosperara espiritualmente, y aun así vio que las decisiones de ese pueblo producían el fruto equivocado.\n\nDespués de la parábola, Isaías pasa a una serie de advertencias directas, introducidas todas con la palabra «ay». La más filosa de todas dice: «¡Ay de los que a lo malo llaman bueno, y a lo bueno, malo; que hacen de la luz tinieblas y de las tinieblas luz!» (Isaías 5:20). No está hablando de gente que comete errores por debilidad. Está hablando de algo más peligroso: gente que redefine las palabras, que le cambia el nombre a las cosas hasta que lo dañino empieza a sonar aceptable, y lo bueno empieza a sonar aburrido o anticuado.\n\nEsa confusión no es exclusiva de la época de Isaías. Es exactamente lo que puede pasar hoy cuando algo dañino se presenta como 'autenticidad' o 'libertad', y algo bueno se presenta como 'represión' o 'anticuado'. El Libro de Mormón ofrece una herramienta concreta para no caer en esa confusión: «a todo hombre se da el Espíritu de Cristo para que sepa discernir el bien del mal» (Moroni 7:16). No necesitás ser un experto en debates para reconocer la diferencia. Necesitás prestarle atención a esa brújula interna que Dios ya te dio."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 5:20",
+          "texto": "¡Ay de los que a lo malo llaman bueno, y a lo bueno, malo; que hacen de la luz tinieblas y de las tinieblas luz; que ponen lo amargo por dulce y lo dulce por amargo!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "Isaías 5:21",
+          "texto": "¡Ay de los sabios ante sus propios ojos, y de los que son prudentes delante de sí mismos!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=spa&id=p21#p21"
+        },
+        {
+          "referencia": "Moroni 7:16–17",
+          "texto": "Pues he aquí, a todo hombre se da el Espíritu de Cristo para que sepa discernir el bien del mal; por tanto, os muestro la manera de juzgar; porque toda cosa que invita a hacer lo bueno, y persuade a creer en Cristo, es enviada por el poder y el don de Cristo. Pero cualquier cosa que persuade a los hombres a hacer lo malo, y a no creer en Cristo, y a negarlo, y a no servir a Dios, entonces sabréis, con un conocimiento perfecto, que es del diablo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa&id=p16-p17#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Continuamente prontos para orar», Conferencia General, octubre de 2019",
+      "texto": "Las ideas y acciones espiritualmente peligrosas a menudo pueden parecer atractivas, deseables o placenteras. Por lo tanto, en nuestro mundo actual, cada uno de nosotros debe ser consciente del mal engañoso que pretende ser bueno.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/10/22bednar?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías no advirtió sobre gente obviamente mala; advirtió sobre gente que aprendió a llamarle 'bueno' a lo malo hasta que dejó de notar la diferencia. El élder Bednar enseñó que las ideas espiritualmente peligrosas casi nunca se presentan como peligrosas: se presentan como atractivas o deseables. La buena noticia es que ya tenés una herramienta interna para discernir, el Espíritu de Cristo, que te muestra con claridad qué invita a hacer el bien y qué te aleja de Él. Esta semana, prestá atención a un mensaje que consumís habitualmente —una serie, una cuenta, una conversación— y preguntate honestamente hacia dónde te está llevando."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez notaste que algo dañino se presentaba como 'auténtico' o 'liberador' en vez de simplemente admitir que era dañino?",
+        "¿Qué te parece la imagen de la viña que da 'uvas silvestres' a pesar de todo el cuidado que recibió?",
+        "¿Cómo describirías esa sensación interna —el Espíritu de Cristo— que te avisa cuando algo no está bien, aunque parezca atractivo?",
+        "¿Qué contenido, cuenta o mensaje consumís habitualmente que valdría la pena evaluar con honestidad esta semana?",
+        "¿Qué podrías hacer la próxima vez que sientas esa alerta interna de que algo 'bueno' en apariencia en realidad no lo es?",
+        "¿A quién podrías ayudar esta semana a notar la diferencia entre algo que parece bueno y algo que realmente lo es?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

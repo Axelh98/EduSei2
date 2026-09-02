@@ -1,6 +1,48 @@
 {
   "id": "leccion-124",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Isaías 53 fue escrito unos 700 años antes de que Jesús naciera, y aun así describe Su misión con un detalle que sorprende a cualquiera que lo lea sabiendo cómo termina la historia: «despreciado y desechado entre los hombres, varón de dolores y experimentado en quebranto» (Isaías 53:3). No es la descripción de un rey glorioso y triunfante. Es la descripción de alguien rechazado, alguien cuyo sufrimiento pasó desapercibido para la mayoría de sus contemporáneos.\n\nEl corazón del capítulo está en un solo versículo: «ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores... mas él herido fue por nuestras transgresiones... y por sus heridas fuimos nosotros sanados» (Isaías 53:4–5). Cristo no solo pagó por tus pecados en un sentido legal o simbólico. Según el Libro de Mormón, lo hizo de una manera mucho más literal y personal: «tomará sobre sí los dolores y las enfermedades de su pueblo... y sus debilidades tomará él sobre sí, para que sus entrañas sean llenas de misericordia» (Alma 7:11–12).\n\nEso significa que cuando Cristo te ofrece consuelo, no es un consuelo teórico de alguien que nunca sufrió. Es el consuelo de alguien que ya conoce, de primera mano, exactamente lo que estás sintiendo: tu ansiedad específica, tu dolor específico, tu soledad específica. «Sus entrañas sean llenas de misericordia... a fin de que... sepa cómo socorrer a los de su pueblo, de acuerdo con las debilidades de ellos» (Alma 7:12).\n\nNo hay ninguna experiencia tuya, por más única o incomprendida que se sienta, que Cristo no haya experimentado primero, precisamente para poder entenderte mejor que nadie más en el mundo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 53:3–5",
+          "texto": "Despreciado y desechado entre los hombres, varón de dolores y experimentado en quebranto; y como que escondimos de él el rostro, fue menospreciado y no lo estimamos. Ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores, y nosotros le tuvimos por azotado, herido por Dios y afligido. Mas él herido fue por nuestras transgresiones, molido por nuestras iniquidades; el castigo de nuestra paz fue sobre él, y por sus heridas fuimos nosotros sanados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=spa&id=p3-p5#p3"
+        },
+        {
+          "referencia": "Alma 7:11–13",
+          "texto": "Y él saldrá, sufriendo dolores, aflicciones y tentaciones de todas clases; y esto para que se cumpla la palabra que dice: Tomará sobre sí los dolores y las enfermedades de su pueblo. Y tomará sobre sí la muerte, para soltar las ligaduras de la muerte que sujetan a su pueblo; y sus debilidades tomará él sobre sí, para que sus entrañas sean llenas de misericordia, según la carne, a fin de que según la carne sepa cómo socorrer a los de su pueblo, de acuerdo con las debilidades de ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p11-p13#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Soportar sus cargas con facilidad», Conferencia General, abril de 2014",
+      "texto": "No hay dolor físico, no hay herida espiritual, no hay angustia de alma, pena, enfermedad ni debilidad que ustedes y yo afrontemos en la vida terrenal que el Salvador no haya experimentado primero.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/04/bear-up-their-burdens-with-ease?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías profetizó, siglos antes de que sucediera, un sufrimiento tan específico y tan personal que solo puede describir a Jesucristo. El élder Bednar enseñó que no hay dolor físico ni herida espiritual que vos o yo enfrentemos que el Salvador no haya experimentado primero. Eso significa que cuando le llevás tu dolor específico en oración, no le estás explicando algo desconocido: le estás hablando a Alguien que ya lo entiende desde adentro. Esta semana, en vez de intentar procesar solo lo que te está pesando, llevaselo directamente a Cristo, con la confianza de que Él ya sabe exactamente cómo se siente."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te genera saber que Isaías describió el sufrimiento de Cristo con tanto detalle, 700 años antes de que naciera?",
+        "¿Qué diferencia hace para vos que Cristo haya experimentado personalmente tu tipo específico de dolor o dificultad?",
+        "¿Alguna vez sentiste que nadie podía entender realmente lo que estabas atravesando?",
+        "¿Qué significa para vos que las 'entrañas' de Cristo estén 'llenas de misericordia' precisamente porque sufrió como vos?",
+        "¿Qué dolor o dificultad específica podrías llevarle a Cristo en oración esta semana, con la confianza de que Él ya la entiende?",
+        "¿A quién que esté sufriendo podrías recordarle esta semana que Cristo conoce exactamente lo que está sintiendo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

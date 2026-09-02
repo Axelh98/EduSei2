@@ -1,6 +1,48 @@
 {
   "id": "leccion-189",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Una revelación temprana de esta dispensación le dio a la Iglesia una instrucción que todavía sorprende por lo amplia que es: «buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe» (D&C 88:118). No dice 'busquen conocimiento espiritual y listo'. Dice específicamente que hay que buscarlo de dos maneras a la vez: estudiando con disciplina y confiando en la fe, sin que una reemplace a la otra.\n\nEl mismo capítulo va todavía más lejos sobre qué vale la pena aprender: «instruíos más perfectamente... en todas las cosas que pertenecen al reino de Dios... cosas tanto en el cielo como en la tierra... las guerras y perplejidades de las naciones... el conocimiento de los países y de los reinos» (D&C 88:78–79). Es una lista casi ridículamente amplia: historia, geografía, política internacional, además de doctrina. El Señor no separa el conocimiento 'secular' del 'espiritual' con una línea tan clara como a veces suponemos.\n\nDecidir qué vas a estudiar después del colegio —una carrera, un oficio, una capacitación técnica— es una de las decisiones más grandes que vas a tomar en los próximos años, y puede generar mucha presión. La instrucción de D&C 88 sugiere un enfoque distinto al de solo 'elegir la carrera que más dinero dé': buscar aprendizaje que desarrolle tu alma completa, no solo tu currículum."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:118",
+          "texto": "Buscad diligentemente y enseñaos el uno al otro palabras de sabiduría; sí, buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:77–79",
+          "texto": "Y os mando que os enseñéis el uno al otro la doctrina del reino. Enseñaos diligentemente, y mi gracia os acompañará, para que seáis más perfectamente instruidos en teoría, en principio, en doctrina, en la ley del evangelio, en todas las cosas que pertenecen al reino de Dios, que os conviene comprender; de cosas tanto en el cielo como en la tierra, y debajo de la tierra; cosas que han sido, que son y que pronto han de acontecer... y también el conocimiento de los países y de los reinos,",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p77-p79#p77"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Henry B. Eyring",
+      "fuente": "«Educación para la vida real», Charla fogonera del Sistema Educativo de la Iglesia para jóvenes adultos, 6 de mayo de 2001, pág. 3, citado en El Evangelio y la vida productiva: Manual del alumno, capítulo 10",
+      "texto": "Queda claro que poner el conocimiento espiritual primero no nos libera de la responsabilidad de obtener conocimiento secular. Por lo contrario, le da propósito a nuestro conocimiento secular y nos motiva a esmerarnos más.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/the-gospel-and-the-productive-life-student-manual/chapter-10?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El Señor no le pidió a Su Iglesia que priorizara lo espiritual y descuidara lo secular, ni al revés: pidió las dos cosas juntas, 'tanto por el estudio como por la fe'. El élder Eyring enseñó que poner el conocimiento espiritual primero no te libera de estudiar; le da propósito a lo que estudiás. La próxima vez que sientas presión por elegir 'la carrera correcta', recordá que la pregunta de fondo no es solo cuánto vas a ganar, sino qué tipo de persona —de alma completa— te vas a convertir en el camino."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué estás pensando estudiar o hacer después del colegio, y qué te generó esa decisión hasta ahora?",
+        "¿Sentís que separás demasiado tu educación 'secular' de tu vida espiritual, como si fueran cosas distintas?",
+        "¿Qué te parece la instrucción de 'buscar conocimiento tanto por el estudio como por la fe' aplicada a elegir una carrera?",
+        "¿Qué presión sentís —de tu familia, de vos mismo— sobre qué vas a estudiar o a qué te vas a dedicar?",
+        "¿Qué podrías hacer esta semana para combinar mejor tu preparación académica con tu preparación espiritual, por ejemplo con Seminario o Instituto?",
+        "¿A quién de confianza podrías consultarle esta semana sobre tus planes de educación futura?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

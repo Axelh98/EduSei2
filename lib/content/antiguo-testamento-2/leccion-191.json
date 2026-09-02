@@ -1,6 +1,53 @@
 {
   "id": "leccion-191",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Josué no se convirtió en el líder que sacó a Israel hacia la Tierra Prometida de la nada. Durante años, sirvió junto a Moisés, observando de cerca cómo un profeta enfrentaba decisiones imposibles. Antes de morir, Moisés recibió instrucciones específicas del Señor: «manda a Josué, y anímalo y fortalécelo, porque él ha de pasar delante de este pueblo» (Deuteronomio 3:28). Josué no heredó el liderazgo por casualidad. Lo heredó después de años de mentoría cercana.\n\nSamuel tuvo una experiencia parecida, aunque distinta: de niño, escuchó una voz que lo llamaba de noche y no supo qué hacer con ella. Fue Elí, un sacerdote mayor con más experiencia, quien reconoció lo que estaba pasando y le enseñó exactamente qué responder: «Habla, Jehová, que tu siervo escucha» (1 Samuel 3:9). Sin ese mentor, Samuel probablemente ni siquiera hubiera reconocido la voz de Dios como tal.\n\nEstos patrones no son casualidad: reflejan cómo el propio Padre Celestial se describe a Sí mismo, «Varón de Consejo» (Moisés 7:35), Alguien cuyo rol incluye aconsejar y guiar. Un buen mentor humano —un maestro, un líder de la Iglesia, un profesional en el área que te interesa— refleja, a menor escala, ese mismo patrón divino de guía.\n\nBuscar un mentor no es señal de debilidad ni de no saber lo que hacés. Es, según estos ejemplos, exactamente lo que hicieron algunos de los líderes más importantes de las Escrituras antes de convertirse en quienes fueron."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Deuteronomio 3:28",
+          "texto": "Y manda a Josué, y anímalo y fortalécelo, porque él ha de pasar delante de este pueblo, y él les hará heredar la tierra que verás.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/deut/3?lang=spa&id=p28#p28"
+        },
+        {
+          "referencia": "1 Samuel 3:9–10",
+          "texto": "Ve y acuéstate; y si te llama, dirás: Habla, Jehová, que tu siervo escucha. Y vino Jehová, y se puso delante de él y llamó como las otras veces: ¡Samuel, Samuel! Entonces Samuel dijo: Habla, que tu siervo escucha.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p9-p10#p9"
+        },
+        {
+          "referencia": "Moisés 7:35",
+          "texto": "He aquí, yo soy Dios; Hombre de Santidad es mi nombre; Varón de Consejo me llamo; y Sin Fin y Eterno es también mi nombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=spa&id=p35#p35"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Robert D. Hales",
+      "fuente": "«Cómo enfrentar los desafíos del mundo actual», Conferencia General, octubre de 2015",
+      "texto": "Busquen el consejo de consejeros que se interesen sinceramente en su bienestar espiritual; tengan cuidado de buscar consejos de sus amigos; si quieren más de lo que tienen ahora, búsquenlo en alguien que esté en un nivel superior, ¡no a su misma altura!",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/10/meeting-the-challenges-of-todays-world?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Josué tuvo a Moisés, Samuel tuvo a Elí: ninguno de los grandes líderes de las Escrituras llegó a serlo completamente solo. El élder Hales aconsejó orar específicamente para elegir consejeros que se interesen en tu bienestar espiritual, y buscar guía en alguien con más experiencia, no solo en compañeros de tu misma edad. Pensá en un área de tu vida —académica, profesional, espiritual— donde te vendría bien un mentor así. Esta semana, identificá a una persona concreta y dale el primer paso: pedirle, aunque sea informalmente, un poco de su tiempo y consejo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Tenés actualmente algún mentor —un maestro, un líder de la Iglesia, un adulto de confianza— que te guíe en algún área de tu vida?",
+        "¿Qué te parece la idea de que ni Josué ni Samuel llegaron a ser quienes fueron completamente solos?",
+        "¿Qué te detiene, si es que algo te detiene, a la hora de pedirle consejo a alguien con más experiencia?",
+        "¿En qué área de tu vida —estudios, futuro profesional, fe— sentís que más necesitás un mentor ahora mismo?",
+        "¿A qué persona concreta podrías acercarte esta semana para empezar a construir una relación de mentoría?",
+        "¿Qué le pedirías específicamente a esa persona si tuvieras la oportunidad de hablar con ella esta semana?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

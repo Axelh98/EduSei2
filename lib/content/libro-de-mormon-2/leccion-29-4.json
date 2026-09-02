@@ -3,31 +3,121 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Esta lección ofrece una oportunidad para reflexionar sobre el aprendizaje de las semanas recientes. El propósito es evaluar no solo el conocimiento intelectual sino también cómo las enseñanzas han influido en la comprensión del evangelio y en las acciones diarias. Es un momento para identificar áreas de crecimiento espiritual y áreas que necesitan mayor atención. La evaluación ayuda a consolidar el aprendizaje y prepararse para aplicar estos principios continuamente."
+      "contenido": "Esta lección hace una pausa para mirar hacia atrás, desde Alma 53 hasta 3 Nefi 7: varias semanas de guerra, profecías, señales celestiales y también fracasos humanos. El objetivo no es memorizar más datos, sino recordar lo que ya aprendiste y evaluar qué hiciste realmente con eso. Helamán le pidió a sus hijos que recordaran el ejemplo de sus antepasados; ese mismo 'recordar' es lo que hoy te toca hacer con las últimas semanas. Pensá en Nefi, hijo de Helamán, que dejó su cargo de juez para predicar de tiempo completo. Pensá en Samuel, que arriesgó su vida sobre un muro por decir una verdad incómoda. Pensá también en el ciclo que se repite una y otra vez en estos capítulos: humildad, prosperidad, orgullo, caída — y otra vez humildad. Ese patrón no es solo historia nefita: es un espejo de cómo funciona tu propia vida espiritual si no le prestás atención. Evaluar tu aprendizaje no significa aprobar un examen. Significa preguntarte con honestidad si el fundamento que estás construyendo sobre Cristo (Helamán 5:12) es más firme hoy que hace siete semanas, o si se quedó solo en la teoría."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "2 Nefi 32:3",
-          "texto": "Las palabras de Cristo os dirán todas las cosas que debéis hacer.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
+          "referencia": "Helamán 5:12",
+          "texto": "Es sobre la roca de nuestro Redentor, el cual es Cristo, que debéis establecer vuestro fundamento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
         },
         {
-          "referencia": "DyC 84:85",
-          "texto": "Ni la mente ha concebido las grandes cosas que el Señor tiene reservadas para los que lo aman.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p85#p85"
+          "referencia": "Helamán 5:6–7",
+          "texto": "Os he dado los nombres de nuestros primeros padres. Y esto lo hago para que, cuando veáis sus nombres, os acordéis de ellos; y cuando os acordéis de ellos, os acordéis de sus obras; y cuando os acordéis de sus obras, sepáis que se dijo, y también se escribió, que fueron buenas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p6-p7#p6"
+        },
+        {
+          "referencia": "3 Nefi 5:3",
+          "texto": "Se arrepintieron de todos sus pecados, y obraron justicia ante el Señor; y fueron prosperados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/5?lang=spa&id=p3#p3"
         }
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "Siete semanas de historia nefita muestran el mismo patrón repetido varias veces: humildad que trae prosperidad, prosperidad que trae orgullo, orgullo que trae caída. Helamán le enseñó a sus hijos a recordar el ejemplo de sus antepasados precisamente para no repetir esa parte del ciclo que termina mal. Evaluar tu aprendizaje no es completar un formulario mental de 'ya lo sé'; es preguntarte con honestidad si estás edificando de verdad sobre la roca de Cristo, o si dejaste esas lecciones solo como información que escuchaste y no como decisiones que tomaste. Un desafío concreto para esta semana: elegí una sola enseñanza de las últimas semanas —de Nefi, de Samuel, del ciclo del orgullo— y convertila en un cambio concreto, no solo en un buen recuerdo."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué principio o doctrina de las últimas semanas ha impactado más tu comprensión del evangelio?",
-        "¿En qué áreas específicas has aplicado las enseñanzas estudiadas?",
-        "¿Qué metas tienes para continuar creciendo espiritualmente?"
+        "De todo lo que estudiaste en estas últimas semanas, ¿qué historia o versículo se te quedó más grabado?",
+        "¿Notás en tu propia vida algo parecido al 'ciclo del orgullo' que se repite en estos capítulos: momentos buenos que después te relajan espiritualmente?",
+        "¿Qué diferencia notás entre haber entendido una lección y haber cambiado realmente algo por ella?",
+        "Pensando en Helamán 5:12, ¿sentís que tu fundamento en Cristo está más firme ahora que hace siete semanas? ¿Por qué?",
+        "Elegí una sola enseñanza de estas últimas semanas y escribí una acción concreta y realista para aplicarla esta semana.",
+        "¿A quién le podrías contar, esta semana, algo específico que aprendiste en este tramo del curso?"
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué rango de capítulos abarca este repaso de 'Evalúa tu aprendizaje 7'?",
+      "options": [
+        "Desde Alma 53 hasta 3 Nefi 7",
+        "Desde Mosíah 1 hasta Alma 30",
+        "Desde 3 Nefi 8 hasta Moroni 10",
+        "Desde Helamán 1 hasta Helamán 6 únicamente"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Según Helamán 5:6-7, ¿para qué le dio Helamán a sus hijos los nombres de Nefi y Lehi, sus antepasados?",
+      "options": [
+        "Únicamente para que tuvieran nombres distintivos dentro de la familia",
+        "Para que, al recordar esos nombres, recordaran también las buenas obras de esos antepasados",
+        "Para que compitieran entre ellos por destacarse más que sus antepasados",
+        "El texto no explica ninguna razón específica para esa decisión"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "A lo largo de estos capítulos aparece un patrón que se repite: humildad, prosperidad, orgullo y caída. ¿Qué advertencia práctica ofrece reconocer ese ciclo para la propia vida espiritual?",
+      "options": [
+        "Que los buenos momentos espirituales, sin atención constante, pueden volverse la puerta de entrada al orgullo y al descuido",
+        "Que la prosperidad siempre es mala y debería evitarse por completo",
+        "Que ese ciclo solo aplicaba a la sociedad nefita antigua, sin relación con la vida actual",
+        "Que una vez alcanzada la humildad, ya no existe riesgo real de volver a caer en el orgullo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué 'evaluar el aprendizaje' es distinto de simplemente recordar información que se estudió?",
+      "options": [
+        "No hay ninguna diferencia real entre ambas cosas",
+        "Evaluar implica preguntarse honestamente qué cambió en las propias decisiones y acciones, no solo qué se recuerda intelectualmente",
+        "Evaluar el aprendizaje solo tiene sentido al final de todo un curso, nunca a mitad de camino",
+        "Recordar información siempre es más valioso que evaluar cómo se aplicó"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Agustina dice que 'ya escuchó todas estas lecciones' y no ve el punto de repasarlas de nuevo. Según el propósito de esta lección de evaluación, ¿qué le ayudaría a ver su valor?",
+      "options": [
+        "Que repasar sin cambiar nada en la práctica no tiene ningún propósito real",
+        "Que el valor de este repaso no está en escuchar contenido nuevo, sino en detenerse a evaluar si esas lecciones ya escuchadas produjeron cambios reales en su vida",
+        "Que estas lecciones ya no tienen ninguna relevancia una vez terminada la semana en que se enseñaron",
+        "Que solo vale la pena evaluar el aprendizaje al final del semestre completo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Joaquín reconoce que, después de una buena racha espiritual, empezó a relajarse en su oración diaria sin darse cuenta. Según el patrón del 'ciclo del orgullo' estudiado en estas semanas, ¿qué le ayudaría a responder?",
+      "options": [
+        "Que relajarse después de un buen momento espiritual es completamente normal y no requiere ninguna atención especial",
+        "Que reconocer ese patrón a tiempo, como advierten estos capítulos, le permite corregir el rumbo antes de alejarse más de su fundamento en Cristo",
+        "Que ya arruinó por completo su progreso espiritual y debería empezar de cero",
+        "Que ese patrón solo se aplica a sociedades enteras, no a la vida espiritual de una persona"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto el consejo de Helamán de 'recordar' el ejemplo de los antepasados como el propósito de esta lección de 'evaluar el aprendizaje' comparten un mismo principio. ¿Cuál es?",
+      "options": [
+        "Que recordar y evaluar activamente el propio camino espiritual ayuda a convertir el conocimiento en decisiones reales, en lugar de dejarlo como información pasada",
+        "Que ambos conceptos se refieren únicamente a memorizar datos históricos sin ninguna aplicación personal",
+        "Que solo los líderes religiosos necesitan practicar este tipo de evaluación",
+        "Que recordar el pasado espiritual reemplaza la necesidad de seguir tomando decisiones en el presente"
+      ],
+      "correctAnswer": 0
+    }
+  ]
 }

@@ -21,11 +21,25 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Conferencia General, octubre de 2020, «Que Dios prevalezca»",
+      "texto": "Aprendí que uno de los significados hebreos de la palabra Israel es 'que Dios prevalezca'.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/46nelson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Mormón escribe sus últimas palabras dirigidas específicamente a los descendientes de los lamanitas, invitándolos a reconocer que forman parte de la casa de Israel y a creer en Cristo por medio de estos anales. El presidente Russell M. Nelson enseñó que uno de los significados hebreos de la palabra 'Israel' es 'que Dios prevalezca'. Ser parte de la casa de Israel, entonces, no es solo un dato de linaje: es una invitación a dejar que Dios prevalezca por encima de cualquier otra influencia en tu vida. Esta semana, identificá un área donde otra voz —la presión social, tus propios miedos— está prevaleciendo por encima de la de Dios, y elegí revertir eso."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Por qué es importante estudiar tanto el Libro de Mormón como la Biblia?",
-        "¿Qué aprendes del enfoque de Mormón en testificar de Cristo, incluso después de ver la destrucción de todo su pueblo?",
-        "¿Cómo puedes fortalecer tu propio testimonio en el Salvador leyendo el Libro de Mormón?"
+        "¿Qué aprendés del enfoque de Mormón en testificar de Cristo, incluso después de ver la destrucción de todo su pueblo?",
+        "¿Cómo podés fortalecer tu propio testimonio en el Salvador leyendo el Libro de Mormón?",
+        "¿Qué te parece la enseñanza del presidente Nelson de que 'Israel' significa 'que Dios prevalezca'?",
+        "¿Hay alguna influencia en tu vida —presión social, miedo, comodidad— que está 'prevaleciendo' por encima de la voz de Dios ahora mismo?",
+        "¿Qué decisión concreta esta semana refleja que estás dejando que Dios prevalezca en tu vida?"
       ]
     }
   ],
@@ -84,6 +98,28 @@
         "Venganza"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Ana tiene un familiar que dejó de creer en Dios después de vivir situaciones muy difíciles, similar a cómo el pueblo de Mormón vivió destrucción y sufrimiento extremos. Según el ejemplo de Mormón de seguir testificando de Cristo pese a haber presenciado la destrucción total de su pueblo, ¿qué actitud podría inspirarla?",
+      "options": [
+        "Que ya no tiene sentido intentar compartir testimonio con alguien que sufrió tanto",
+        "Que, como Mormón, es posible seguir sosteniendo y compartiendo la fe en Cristo incluso después de presenciar sufrimiento y pérdida profundos",
+        "Que solo las personas que nunca sufrieron pueden tener un testimonio genuino",
+        "Que debería evitar el tema por completo para no incomodar a su familiar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la invitación de Mormón a los descendientes de Lehi a reconocerse parte de la casa de Israel como la enseñanza del presidente Nelson sobre 'dejar que Dios prevalezca' comparten un mismo principio central. ¿Cuál es?",
+      "options": [
+        "Que la identidad como pueblo de Dios implica una decisión activa de dar prioridad a Su voz e influencia por encima de cualquier otra en la propia vida",
+        "Que pertenecer a la casa de Israel es únicamente un dato genealógico sin ninguna implicación práctica",
+        "Que pertenecer a la casa de Israel garantiza automáticamente que Dios prevalezca en la vida de esa persona",
+        "Que 'dejar que Dios prevalezca' solo aplica a los descendientes literales de Lehi, no a otras personas"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

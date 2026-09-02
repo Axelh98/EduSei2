@@ -95,18 +95,18 @@
     },
     {
       "id": 5,
-      "question": "Luca piensa que puede 'vivir cualquier cosa ahora' y cambiar sus deseos fácilmente más adelante, sin ningún costo. Según la doctrina de la restauración (Alma 41), ¿qué le dirías?",
+      "question": "Tomás piensa que puede 'vivir cualquier cosa ahora' y cambiar sus deseos fácilmente más adelante, sin ningún costo. Según la doctrina de la restauración (Alma 41), ¿qué le dirías?",
       "options": [
         "Que tiene razón, cambiar de rumbo espiritual no cuesta ningún esfuerzo",
         "Que los deseos que cultivamos ahora tienden a continuar y fortalecerse; cambiar de rumbo es posible mediante el arrepentimiento, pero no ocurre de forma automática ni sin esfuerzo",
         "Que una vez que se cultiva un mal deseo, ya no hay forma de cambiarlo",
-        "Que los deseos no tienen ninguna relación con la doctrina de la restauración"
+        "Que los deseos que cultivamos ahora desaparecen solos apenas cambia la situación externa"
       ],
       "correctAnswer": 1
     },
     {
       "id": 6,
-      "question": "Valentina cree que hacer trampa en un examen 'no tiene nada que ver' con su vida espiritual, porque 'es solo la escuela'. Según el principio de que 'el bien es restaurado al que hace el bien' (Alma 41:13–14), ¿qué matiz agregarías?",
+      "question": "Martina cree que hacer trampa en un examen 'no tiene nada que ver' con su vida espiritual, porque 'es solo la escuela'. Según el principio de que 'el bien es restaurado al que hace el bien' (Alma 41:13–14), ¿qué matiz agregarías?",
       "options": [
         "Que Alma se refería únicamente a decisiones tomadas en la edad adulta",
         "Que cada decisión, incluso las pequeñas, va formando el tipo de persona en la que nos convertimos, y ese carácter es justamente lo que se 'restaura'",
@@ -122,7 +122,7 @@
         "Que solo Dios decide arbitrariamente el destino de cada persona",
         "Que la felicidad y la maldad son en realidad lo mismo, solo con distinto nombre",
         "Que nuestras acciones y deseos actuales determinan directamente nuestro estado futuro; no hay separación entre lo que elegimos ser ahora y lo que llegaremos a ser",
-        "Que las decisiones de esta vida no tienen relación con la vida futura"
+        "Que solo las decisiones más importantes de la vida tienen efecto en el estado futuro de una persona"
       ],
       "correctAnswer": 2
     }

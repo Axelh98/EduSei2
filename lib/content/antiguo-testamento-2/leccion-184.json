@@ -1,6 +1,53 @@
 {
   "id": "leccion-184",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Moisés estaba agotado. Todos los días, desde la mañana hasta la noche, se sentaba solo a resolver cada disputa y cada pregunta de todo un pueblo, mientras la fila de gente esperando no dejaba de crecer. Su suegro Jetro lo vio y le dijo algo directo: «Lo que haces no está bien... desfallecerás del todo, tú, y también este pueblo... porque la tarea es demasiado pesada para ti; no podrás hacerlo tú solo» (Éxodo 18:17–18).\n\nJetro no le dijo a Moisés que dejara de servir. Le dio un plan concreto: elegir personas de confianza, delegar los asuntos pequeños, y guardar para sí mismo solo lo que realmente necesitaba su atención directa (Éxodo 18:21–22). El propio Moisés, líder elegido por Dios, necesitó ayuda externa para reconocer que estaba cargando más de lo que podía sostener solo.\n\nSiglos después, el rey Benjamín enseñó un principio parecido con otras palabras: «no se exige que un hombre corra más aprisa de lo que sus fuerzas le permiten... todas las cosas deben hacerse en orden» (Mosíah 4:27). Dios no espera que resuelvas todo, que estés bien todo el tiempo, ni que lo hagas todo solo. El estrés y la ansiedad muchas veces no son señal de que estás fallando: son una alarma real, como la que sonó para Moisés, de que necesitás ayuda, orden o descanso."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Éxodo 18:17–18",
+          "texto": "Entonces el suegro de Moisés le dijo: Lo que haces no está bien. Desfallecerás del todo, tú, y también este pueblo que está contigo, porque la tarea es demasiado pesada para ti; no podrás hacerlo tú solo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/18?lang=spa&id=p17-p18#p17"
+        },
+        {
+          "referencia": "Éxodo 18:21–23",
+          "texto": "Además, busca tú de entre todo el pueblo hombres de virtud, temerosos de Dios, hombres verídicos que aborrezcan la avaricia; y ponlos sobre el pueblo como jefes de millares, jefes de centenas, jefes de cincuenta y jefes de diez. Ellos juzgarán al pueblo en todo tiempo; y será que todo asunto grave lo traerán a ti y ellos juzgarán todo asunto pequeño; alivia así la carga de sobre ti, y la llevarán ellos contigo. Si esto hicieres, y Dios te lo mandare, tú podrás aguantar, y todo este pueblo se irá también en paz a su lugar.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/18?lang=spa&id=p21-p23#p21"
+        },
+        {
+          "referencia": "Mosíah 4:27",
+          "texto": "Y mirad que se hagan todas estas cosas con prudencia y orden; porque no se exige que un hombre corra más aprisa de lo que sus fuerzas le permiten. Y además, conviene que sea diligente, para que así gane el galardón; por tanto, todas las cosas deben hacerse en orden.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p27#p27"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Terence M. Vinson",
+      "fuente": "«Acercarse más a Dios», Conferencia General, octubre de 2013",
+      "texto": "En vez de resolver el problema Él mismo, el Señor quiere que desarrollemos la fe que nos ayudará a depender de Él para resolver nuestros problemas y confiar en Él.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/10/drawing-closer-to-god?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Ni siquiera Moisés pudo con todo solo, y eso no lo hizo menos profeta: lo hizo humano. El estrés que sentís cuando tenés demasiado encima no es un fracaso personal; es una señal real de que algo necesita cambiar, sea pedir ayuda, reordenar prioridades, o simplemente descansar. El élder Vinson enseñó que el Señor no siempre resuelve el problema por nosotros, sino que nos ayuda a desarrollar la fe para depender de Él en el proceso. Esta semana, identificá una sola cosa que estés cargando de más, y hablá con alguien de confianza sobre cómo aliviarla."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué situaciones de tu semana normal te generan más estrés o presión?",
+        "¿Alguna vez sentiste, como Moisés, que estabas tratando de cargar demasiado vos solo?",
+        "¿A quién en tu vida podrías 'delegarle' o pedirle ayuda con algo que estás cargando, como hizo Moisés con los jefes que eligió?",
+        "¿Qué significa para vos que Mosíah 4:27 diga que 'no se exige que un hombre corra más aprisa de lo que sus fuerzas le permiten'?",
+        "¿Qué una cosa concreta podrías soltar, delegar o reordenar esta semana para aliviar tu carga?",
+        "¿Con quién podrías hablar esta semana si sentís que la ansiedad o el estrés te están superando?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

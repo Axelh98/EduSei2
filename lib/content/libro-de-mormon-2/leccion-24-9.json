@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Esta lección repasa dos pasajes de dominio de la doctrina ya estudiados: Alma 39:9, donde Alma le pide a su hijo Coriantón que deje de excusarse y se arrepienta de verdad, y Alma 41:10, donde Alma le enseña a Coriantón que 'la maldad nunca fue felicidad'. Los dos versículos vienen del mismo consejo de un padre a un hijo, pero apuntan a dos preguntas distintas: qué hacer con un error ya cometido, y por qué vale la pena no repetirlo. Repasar no es solo memorizar de nuevo las palabras exactas; es preguntarte si podrías explicarle estos dos versículos a alguien que nunca los escuchó, usando tus propias palabras y un ejemplo real de tu vida."
+      "contenido": "Este repaso vuelve sobre dos pasajes de dominio de la doctrina ya estudiados: Alma 39:9, donde Alma le pide a su hijo Coriantón que deje de excusarse y se arrepienta de verdad, y Alma 41:10, donde Alma le enseña a Coriantón que 'la maldad nunca fue felicidad'. Los dos versículos vienen del mismo consejo de un padre a un hijo, pero apuntan a dos preguntas distintas: qué hacer con un error ya cometido, y por qué vale la pena no repetirlo. Repasar no es solo memorizar de nuevo las palabras exactas; es preguntarte si podrías explicarle estos dos versículos a alguien que nunca los escuchó, usando tus propias palabras y un ejemplo real de tu vida."
     },
     {
       "tipo": "escrituras",
@@ -90,7 +90,7 @@
     },
     {
       "id": 5,
-      "question": "Mateo hizo trampa en un examen y ahora piensa 'ya está hecho, no tiene sentido decir nada'. Según Alma 39:9, ¿qué le ayudaría a entender?",
+      "question": "Joaquín hizo trampa en un examen y ahora piensa 'ya está hecho, no tiene sentido decir nada'. Según Alma 39:9, ¿qué le ayudaría a entender?",
       "options": [
         "Que efectivamente ya no hay nada que hacer una vez cometido el error",
         "Que Alma invita justamente a lo contrario: recordar el error, comprometerse a cambiar y abstenerse de repetirlo, en cualquier momento",
@@ -106,7 +106,7 @@
         "Que debería copiar ese estilo de vida sin cuestionarlo",
         "Que la apariencia externa de felicidad en redes sociales no siempre refleja la paz interior duradera de la que habla Alma",
         "Que Alma se equivocó en este punto de su enseñanza",
-        "Que la felicidad genuina no tiene relación con las decisiones que uno toma"
+        "Que lo que se ve en redes sociales siempre refleja con precisión la felicidad real de una persona"
       ],
       "correctAnswer": 1
     },

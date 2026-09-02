@@ -1,6 +1,46 @@
 {
   "id": "leccion-122",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Ya estudiaste varios pasajes de dominio de la doctrina en distintos momentos de este curso: Proverbios 3:5–6 sobre confiar en el Señor, 2 Nefi 32:3 sobre deleitarse en las palabras de Cristo, y ahora se suma uno nuevo: Josué 24:15, donde Josué desafía a todo Israel a decidir a quién van a servir, y responde por su propia cuenta: «yo y mi casa serviremos a Jehová».\n\nEsta práctica no te pide memorizar un pasaje más sin conexión con los demás. Te pide notar cómo estos versículos, juntos, responden preguntas reales: ¿en quién confío cuando no entiendo lo que está pasando? (Proverbios 3:5–6). ¿Dónde busco dirección concreta para mi vida? (2 Nefi 32:3). ¿Qué elijo hacer yo, específicamente, hoy, sin esperar a que otros decidan primero? (Josué 24:15). Cada pasaje de dominio de la doctrina existe para un momento real de tu vida, no solo para un examen."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Proverbios 3:5–6",
+          "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=spa&id=p5-p6#p5"
+        },
+        {
+          "referencia": "2 Nefi 32:3",
+          "texto": "Los ángeles hablan por el poder del Espíritu Santo; por lo que declaran las palabras de Cristo. Por tanto, os dije: Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Josué 24:15",
+          "texto": "Y si mal os parece servir a Jehová, escogeos hoy a quién sirváis; si a los dioses a quienes sirvieron vuestros padres, cuando estuvieron al otro lado del río, o a los dioses de los amorreos en cuya tierra habitáis; pero yo y mi casa serviremos a Jehová.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=spa&id=p15#p15"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Josué no esperó a que el resto de Israel decidiera antes de comprometerse él mismo: «yo y mi casa serviremos a Jehová», dijo, sin condicionarlo a lo que eligieran los demás. Ese mismo espíritu de decisión personal, y no solo de conocimiento memorizado, es lo que estos pasajes de dominio de la doctrina buscan desarrollar en vos. Esta semana, elegí uno de los tres versículos de esta práctica y decidí conscientemente vivirlo en una situación concreta, en vez de solo poder citarlo de memoria."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál de estos tres pasajes de dominio de la doctrina —Proverbios 3:5-6, 2 Nefi 32:3, Josué 24:15— recordás con más facilidad?",
+        "¿Qué significa para vos decir, como Josué, 'yo y mi casa serviremos a Jehová', sin esperar a que otros decidan primero?",
+        "¿Alguna vez tuviste que tomar una decisión de fe sin que nadie más a tu alrededor la tomara contigo?",
+        "¿Cómo usarías uno de estos tres versículos para ayudar a un amigo que está dudando de su fe?",
+        "¿Qué decisión personal, como la de Josué, podrías tomar esta semana sin esperar a que nadie más la tome primero?",
+        "¿A quién podrías compartirle uno de estos versículos esta semana, y por qué elegirías ese en particular?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

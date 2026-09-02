@@ -3,16 +3,128 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Este repaso final de pasajes de dominio de la doctrina del semestre consolida el conocimiento de las escrituras más importantes estudiadas. El propósito es fortalecer la memorización y profundizar la comprensión de las doctrinas fundamentales. El repaso también permite reflexionar sobre cómo estos pasajes se han aplicado en situaciones específicas de la vida. Es una preparación para retener y usar este conocimiento en el futuro."
+      "contenido": "Una vez más aparecen los cuatro pasajes de Dominio de la Doctrina estudiados en el curso —Alma 34:9–10, Alma 39:9, Alma 41:10 y Helamán 5:12—, ahora con un objetivo distinto al de la semana pasada. Ya no se trata solo de comprenderlos ni de memorizarlos: se trata de aplicarlos a situaciones reales de tu vida. El manual de Seminario compara este proceso con andar en bicicleta: hay pasajes que te ayudan a mantener el avance diario, otros que te ayudan a superar un obstáculo puntual, y otros que te conectan directamente con el poder del Salvador cuando más lo necesitás. De nada sirve memorizar Alma 39:9 si nunca lo usás el día que de verdad necesitás dejar de excusarte. De nada sirve saberte Helamán 5:12 de memoria si no lo recordás justo cuando llega la tormenta. Aplicar un pasaje de Escritura significa tenerlo tan presente que aparece solo, en el momento exacto en que una decisión real está en juego —no en un examen, sino en una conversación difícil, en una tentación concreta, en una duda que te ataja a mitad de semana."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 39:9",
+          "texto": "Hijo mío, quisiera que te arrepintieses y abandonases tus pecados, y no te dejases llevar más por las concupiscencias de tus ojos, sino que te refrenaras de todas estas cosas; porque a menos que hagas esto, de ningún modo podrás heredar el reino de Dios. ¡Oh recuerda, y comprométete, y abstente de estas cosas!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Alma 41:10",
+          "texto": "La maldad nunca fue felicidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Helamán 5:12",
+          "texto": "Es sobre la roca de nuestro Redentor, el cual es Cristo, que debéis establecer vuestro fundamento; un fundamento tal que, si los hombres edifican sobre él, no podrán caer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Gordon B. Hinckley",
+      "fuente": "Enseñanzas de los Presidentes de la Iglesia: Gordon B. Hinckley, cap. 12",
+      "texto": "La felicidad se halla en guardar los mandamientos. Para un Santo de los Últimos Días, el transgredir dichos mandamientos solo puede ocasionar desdicha.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-gordon-b-hinckley/chapter-12-obedience-simply-live-the-gospel?lang=spa&id=p21#p21"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El presidente Gordon B. Hinckley enseñó que 'la felicidad se halla en guardar los mandamientos', y que transgredirlos 'solo puede ocasionar desdicha' — exactamente lo que ya decía Alma 41:10 con otras palabras: 'la maldad nunca fue felicidad'. Ese es el punto de aplicar, y no solo memorizar: un pasaje que solo vive en tu cabeza no te sirve de nada en el momento real. Uno que tenés listo para usar —para explicarle algo a un amigo, para sostenerte en una tentación, para recordar tu fundamento quien sos en Cristo— sí cambia algo. Animate esta semana a elegir uno de estos cuatro pasajes y proponete usarlo activamente: compartilo con alguien, aplicalo a una decisión concreta, o recurrí a él en el momento exacto en que lo necesites."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Cuáles de los pasajes de dominio de la doctrina puedes recitar completamente de memoria?",
-        "¿Cómo has usado alguno de estos pasajes para ayudar a otros o fortalecer tu propio testimonio?",
-        "¿Qué plan tienes para continuar repasando estos pasajes después del semestre?"
+        "De los cuatro pasajes repasados, ¿cuál sentís que ya usaste alguna vez en una situación real de tu vida?",
+        "Si tuvieras que elegir uno de estos pasajes para 'llevarlo en el bolsillo' toda la semana, ¿cuál sería y por qué?",
+        "¿Notás alguna diferencia entre memorizar un versículo y recordarlo justo en el momento en que lo necesitás?",
+        "¿Qué te parece la enseñanza del presidente Hinckley de que 'la felicidad se halla en guardar los mandamientos'?",
+        "Elegí uno de los cuatro pasajes y pensá en una situación concreta de esta semana donde podrías aplicarlo.",
+        "¿A quién le podrías compartir esta semana uno de estos pasajes, y en qué situación específica se lo dirías?"
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuáles son los cuatro pasajes de Dominio de la Doctrina que se repasan en esta lección?",
+      "options": [
+        "Alma 7:11–13, Alma 32:21, Alma 34:9–10 y Alma 39:9",
+        "Alma 34:9–10, Alma 39:9, Alma 41:10 y Helamán 5:12",
+        "Helamán 5:12, 3 Nefi 11:10–11, 3 Nefi 12:48 y 3 Nefi 27:20",
+        "Éter 12:6, Éter 12:27, Moroni 7:45–48 y Moroni 10:4–5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según el presidente Gordon B. Hinckley, ¿dónde se encuentra la felicidad, y qué ocasiona transgredir los mandamientos?",
+      "options": [
+        "La felicidad se halla en guardar los mandamientos; transgredirlos solo ocasiona desdicha",
+        "La felicidad depende principalmente de las circunstancias externas de cada persona",
+        "Que basta con memorizar los pasajes de Dominio de la Doctrina para ser feliz, sin necesidad de vivirlos",
+        "Transgredir los mandamientos trae felicidad temporal sin ninguna consecuencia real"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Esta lección compara aplicar un pasaje de Escritura con andar en bicicleta: hay pasajes para mantener el avance diario, superar obstáculos, o conectarse con el poder del Salvador. ¿Qué diferencia establece esta comparación entre memorizar y aplicar?",
+      "options": [
+        "Que memorizar y aplicar son exactamente lo mismo, sin ninguna diferencia real",
+        "Que aplicar implica tener el pasaje disponible para usarlo en el momento exacto de una decisión real, no solo poder recitarlo de memoria",
+        "Que aplicar un pasaje es más fácil que memorizarlo",
+        "Que solo los pasajes largos pueden aplicarse a situaciones reales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué comparten un mismo principio la enseñanza del presidente Hinckley sobre la felicidad y el versículo de Alma 41:10 ('la maldad nunca fue felicidad')?",
+      "options": [
+        "Porque ambos enseñan, con distintas palabras, que la felicidad genuina y duradera solo existe dentro del orden que Dios estableció",
+        "Porque no comparten ninguna relación real entre sí",
+        "Porque ambos se refieren únicamente a la felicidad material, no espiritual",
+        "Porque uno contradice directamente al otro"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Martina se sabe Alma 39:9 de memoria, pero cuando enfrenta una tentación real no se acuerda de usarlo en ese momento. Según el enfoque de esta lección sobre 'aplicar' en lugar de solo memorizar, ¿qué le ayudaría?",
+      "options": [
+        "Que memorizar el versículo ya es suficiente, no hace falta ningún paso adicional",
+        "Practicar activamente a traer ese versículo a la mente en situaciones cotidianas de menor intensidad, para que esté disponible también en el momento de mayor tentación",
+        "Que debería memorizar un pasaje distinto, ya que ese no le sirve",
+        "Que memorizar un pasaje distinto sería más útil que seguir practicando el mismo versículo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Nicolás quiere ayudar a un amigo que está pasando por una tormenta familiar difícil y no sabe qué decirle. De los cuatro pasajes repasados, ¿cuál sería el más directo para esa situación específica?",
+      "options": [
+        "Alma 39:9, porque se refiere específicamente a dejar de excusarse ante el pecado",
+        "Alma 34:9–10, porque habla del sacrificio infinito y eterno de Cristo",
+        "Helamán 5:12, porque enseña que edificar el fundamento sobre la roca de Cristo sostiene a la persona cuando llegan las tormentas de la vida",
+        "Alma 41:10, porque se limita a hablar de la felicidad en términos generales"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la comparación de aplicar Escrituras con 'andar en bicicleta' como la enseñanza del presidente Hinckley sobre la felicidad comparten un mismo principio central de esta lección. ¿Cuál es?",
+      "options": [
+        "Que conocer una doctrina de memoria y vivirla activamente en las decisiones diarias son dos cosas distintas, y solo la segunda produce un cambio real",
+        "Que memorizar Escrituras es innecesario si ya se comprende su significado general",
+        "Que la felicidad y la aplicación de la doctrina son temas completamente independientes",
+        "Que solo se puede aplicar un pasaje de Escritura una vez en la vida"
+      ],
+      "correctAnswer": 0
+    }
+  ]
 }

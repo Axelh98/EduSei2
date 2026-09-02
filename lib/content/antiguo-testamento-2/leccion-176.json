@@ -1,6 +1,53 @@
 {
   "id": "leccion-176",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Un llamamiento en la Iglesia casi nunca llega en el momento que elegirías vos: justo cuando estás ocupado, cuando te sentís poco preparado, o cuando en el fondo esperabas que te llamaran a otra cosa. Es normal sentir dudas cuando el obispo te pide enseñar una clase, servir en un cuórum o ayudar en una actividad. Pero el Libro de Mormón enseña un principio que cambia esa manera de ver las cosas: «por medio de cosas pequeñas y sencillas se realizan grandes cosas» (Alma 37:6). Un llamamiento casi nunca parece grande el primer día. Parece una tarea pequeña, incluso incómoda. Pero es exactamente ahí donde el Señor obra.\n\nAceptar un llamamiento no es simplemente cumplir una tarea de la Iglesia: es un espacio real para practicar cómo amar y servir de la manera en que lo hizo el Salvador. Cuando enseñás, cuando ayudás, cuando estás disponible para alguien que lo necesita, estás haciendo lo mismo que hicieron los primeros discípulos: «hablamos de Cristo... para que nuestros hijos sepan a qué fuente han de acudir» (2 Nefi 25:26). No necesitás sentirte experto ni tener todas las respuestas. Necesitás estar dispuesto. El resto —la capacidad, la confianza, las palabras correctas en el momento correcto— generalmente llega mientras servís, no antes."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 37:6",
+          "texto": "Ahora bien, tal vez pienses que esto es locura de mi parte; mas he aquí, te digo que por medio de cosas pequeñas y sencillas se realizan grandes cosas; y en muchos casos, los pequeños medios confunden a los sabios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa&id=p6#p6"
+        },
+        {
+          "referencia": "2 Nefi 25:26",
+          "texto": "Y hablamos de Cristo, nos regocijamos en Cristo, predicamos de Cristo, profetizamos de Cristo y escribimos según nuestras profecías, para que nuestros hijos sepan a qué fuente han de acudir para la remisión de sus pecados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=spa&id=p26#p26"
+        },
+        {
+          "referencia": "Doctrina y Convenios 4:2–3",
+          "texto": "Por tanto, oh vosotros que os embarcáis en el servicio de Dios, mirad que le sirváis con todo vuestro corazón, alma, mente y fuerza, que aparezcáis sin culpa ante Dios en el último día. De modo que, si tenéis deseos de servir a Dios, sois llamados a la obra;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=spa&id=p2-p3#p2"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dieter F. Uchtdorf",
+      "fuente": "«Creer, amar, hacer», Conferencia General, octubre de 2018",
+      "texto": "En la obra del Salvador, a menudo es por medio de cosas pequeñas y sencillas que se realizan grandes cosas. La organización que nuestro Salvador creó en la tierra —La Iglesia de Jesucristo de los Santos de los Últimos Días— nos ayuda a hacer exactamente eso. Nos ofrece el sitio para practicar cómo vivir del modo que Él enseñó y para bendecir a los demás como Él lo hizo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/believe-love-do?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Ningún llamamiento es demasiado pequeño para importar, porque no se trata solo de la tarea: se trata de la persona en la que te vas convirtiendo mientras la cumplís. Cada vez que aceptás servir, aunque te sientas poco preparado, estás siguiendo el mismo patrón que usó el Salvador con Sus discípulos: llamarlos primero, y prepararlos después, en el camino. La próxima vez que te ofrezcan una responsabilidad en la Iglesia, aunque te genere nervios, animate a decir que sí antes de pensar en todas las razones para decir que no."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué llamamiento o responsabilidad tenés ahora mismo en la Iglesia, o cuál te gustaría tener?",
+        "¿Alguna vez un llamamiento o tarea te pareció demasiado grande al principio y después resultó ser manejable?",
+        "¿Qué es lo que más te asusta o te hace dudar cuando te ofrecen una responsabilidad nueva?",
+        "¿Cómo cambiaría tu manera de ver un llamamiento si pensaras en él como una oportunidad de practicar el amor de Cristo, y no como una obligación?",
+        "¿Hay algo que estás postergando aceptar por miedo a no estar preparado? ¿Qué podrías hacer esta semana al respecto?",
+        "¿A quién podrías ofrecerle ayuda esta semana, aunque nadie te lo haya pedido oficialmente?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

@@ -1,6 +1,53 @@
 {
   "id": "leccion-197",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Jesús no dijo que escondieras tu fe hasta encontrar el momento perfecto: «Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras y glorifiquen a vuestro Padre» (Mateo 5:16). No pide un sermón preparado ni una presentación formal. Pide una luz visible, algo que se nota simplemente porque está ahí, sin necesidad de anunciarla con un cartel.\n\nEl Señor le recordó a los primeros misioneros de esta dispensación algo que suena casi como una obligación entre vecinos: «conviene que todo hombre que ha sido amonestado, amoneste a su prójimo» (D&C 88:81). No es una tarea reservada para expertos en teología. Es algo tan simple como compartir con otro lo que a vos ya te ayudó.\n\nEsa misma responsabilidad tiene raíces todavía más antiguas: fuiste bendecido, como heredero del convenio de Abraham, precisamente para «ser una bendición» para otros, de modo que en tu descendencia «serán benditas todas las familias de la tierra» (Abraham 2:11).\n\nEso es exactamente lo que hace que compartir la fe se sienta natural en vez de forzado: no se trata de convencer a nadie con argumentos perfectos, sino de contar tu propia experiencia, como contarías cualquier otra cosa buena que te pasó. Si viste una película que te encantó, se la recomendás a un amigo sin pensarlo dos veces. Compartir el Evangelio puede funcionar igual: no como una tarea incómoda que hay que forzar, sino como una consecuencia natural de que algo bueno te está pasando y querés que otros también lo conozcan."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Mateo 5:16",
+          "texto": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras y glorifiquen a vuestro Padre que está en los cielos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=spa&id=p16#p16"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:81",
+          "texto": "He aquí, os envié para testificar y amonestar al pueblo, y conviene que todo hombre que ha sido amonestado, amoneste a su prójimo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p81#p81"
+        },
+        {
+          "referencia": "Abraham 2:11",
+          "texto": "Y en tu descendencia después de ti serán benditas todas las familias de la tierra, sí, con las bendiciones del evangelio, que son las bendiciones de salvación, sí, de vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=spa&id=p11#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dieter F. Uchtdorf",
+      "fuente": "«La obra misional: Compartir lo que guardan en el corazón», Conferencia General, abril de 2019",
+      "texto": "Lo que les pido es que siempre busquen la oportunidad de sacar a la luz sus creencias en formas normales y naturales con las personas, ya sea en persona o en línea.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/14uchtdorf?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Compartir tu fe no tiene que sentirse como un examen que hay que aprobar ni como un guion que hay que memorizar. Jesús pidió simplemente que tu luz sea visible, no que la anuncies a los gritos. El élder Uchtdorf pidió algo parecido: buscar oportunidades de compartir tus creencias de formas normales y naturales, como hablarías de cualquier otra cosa que te importa. Esta semana, en vez de esperar la conversación 'perfecta', aprovechá una charla común y corriente para mencionar, con naturalidad, algo que el Evangelio significa para vos."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te genera más incomodidad al pensar en compartir tu fe: no saber qué decir, o cómo reaccione la otra persona?",
+        "¿Alguna vez recomendaste algo —una serie, una canción, un lugar— con total naturalidad? ¿Por qué compartir tu fe se siente distinto?",
+        "¿Qué significa para vos que Jesús pida que tu luz 'alumbre', en vez de pedir un discurso preparado?",
+        "¿Qué conversación reciente tuviste donde podrías haber mencionado tu fe con naturalidad, sin que se sintiera forzado?",
+        "¿Qué podrías hacer esta semana para 'dejar brillar tu luz' de manera simple, sin necesidad de una conversación formal sobre religión?",
+        "¿Con quién tenés una relación de confianza donde compartir tu fe se sentiría natural y no forzado?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

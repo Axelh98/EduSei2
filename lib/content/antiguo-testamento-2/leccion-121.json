@@ -1,6 +1,53 @@
 {
   "id": "leccion-121",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Sion, es decir, el pueblo de Dios, se queja en este capítulo con una honestidad brutal: «Jehová me ha desamparado, y mi Señor se ha olvidado de mí» (Isaías 49:14). No es una queja filosófica abstracta. Es la sensación cruda de sentirse invisible para Dios, algo que probablemente ya conociste alguna vez: la sensación de que tus oraciones se pierden en el silencio, de que a nadie —ni siquiera a Dios— le importa realmente lo que te está pasando.\n\nLa respuesta del Señor a esa queja usa la imagen más íntima que existe: «¿Acaso se olvidará la mujer de su niño de pecho...? Pues, aunque se olviden ellas, yo no me olvidaré de ti» (Isaías 49:15). No compara Su amor con el de un rey o un general. Lo compara con el vínculo más fuerte que existe en la experiencia humana, y después dice que el Suyo es todavía más firme.\n\nY agrega algo todavía más concreto: «en las palmas de mis manos te tengo grabada» (Isaías 49:16). No es un recuerdo pasajero que Dios podría llegar a perder. Es algo grabado, permanente, imposible de borrar accidentalmente. El mismo Dios que promete esto es el que dice, un capítulo antes: «Yo, yo soy el que borro tus rebeliones... y no me acordaré de tus pecados» (Isaías 43:25). Lo único que Dios elige olvidar es justamente lo que vos quisieras que Él olvidara.\n\nSentirte olvidado es una de las experiencias más comunes en la adolescencia: sentir que tus papás están demasiado ocupados, que tus amigos siguieron adelante sin vos, que nadie nota realmente cuando estás pasando un mal momento. Isaías 49 no te dice que esa sensación sea falsa o exagerada. Te dice que, aunque cada persona humana que conocés pudiera llegar a olvidarte, hay Alguien cuya memoria de vos es literalmente permanente."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 49:13",
+          "texto": "Cantad alabanzas, oh cielos, y regocíjate, oh tierra; y prorrumpid en cantos de alabanzas, oh montes, porque Jehová ha consolado a su pueblo y de sus pobres tendrá misericordia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=spa&id=p13#p13"
+        },
+        {
+          "referencia": "Isaías 49:14–16",
+          "texto": "Pero Sion dijo: Jehová me ha desamparado, y mi Señor se ha olvidado de mí. ¿Acaso se olvidará la mujer de su niño de pecho y dejará de compadecerse del hijo de su vientre? Pues, aunque se olviden ellas, yo no me olvidaré de ti. He aquí que en las palmas de mis manos te tengo grabada; delante de mí están siempre tus muros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=spa&id=p14-p16#p14"
+        },
+        {
+          "referencia": "Isaías 43:25",
+          "texto": "Yo, yo soy el que borro tus rebeliones por mi causa, y no me acordaré de tus pecados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=spa&id=p25#p25"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dieter F. Uchtdorf",
+      "fuente": "«No me olvides», Conferencia General, octubre de 2011",
+      "texto": "Años más tarde, recuerdo a ese muchacho con ternura y compasión. Ahora lo sé, nunca quedé en el olvido. Y sé algo más como apóstol de nuestro Maestro Jesucristo: proclamo con toda la certeza y la convicción de mi corazón, ¡que ustedes tampoco!",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/forget-me-not?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Sion dijo que se sentía olvidada por Dios, y la respuesta no fue una corrección ni un regaño: fue la imagen más tierna posible, una madre que jamás podría olvidar a su hijo de pecho. El presidente Uchtdorf, hablando desde su propia experiencia, testificó como apóstol que ninguno de nosotros ha quedado en el olvido. Si esta semana sentís que nadie nota realmente lo que te pasa, recordá la imagen de Isaías: tu nombre está grabado en las palmas de las manos de Dios, no escrito en una lista que se puede perder."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez sentiste, como Sion, que Dios se había olvidado de vos o que tus oraciones no llegaban a ningún lado?",
+        "¿Qué te parece la imagen de una madre que jamás podría olvidar a su hijo de pecho, usada para describir el amor de Dios?",
+        "¿Qué significa para vos que estés 'grabado en las palmas de las manos' de Dios, y no solo 'recordado'?",
+        "¿Alguna vez te sentiste invisible o ignorado por las personas de tu alrededor, aunque no fuera cierto?",
+        "¿Qué podrías hacer esta semana para recordarte a vos mismo que Dios no te olvidó, incluso en un mal día?",
+        "¿A quién de tu entorno podrías ayudar esta semana a sentirse menos 'olvidado', prestándole más atención?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

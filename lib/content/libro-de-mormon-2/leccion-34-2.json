@@ -21,18 +21,32 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Henry B. Eyring",
+      "fuente": "Conferencia General, octubre de 2023, «Nuestro compañero constante»",
+      "texto": "Si hoy han sentido la influencia del Espíritu Santo, pueden considerarla como una tierna evidencia de que la Expiación está obrando en su vida.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/47eyring?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cristo no pide que seamos perfectos de un día para el otro; pide que nos esforcemos por ser 'como Él es', un proceso que avanza mediante el bautismo y la recepción constante del Espíritu Santo. El presidente Henry B. Eyring enseñó que sentir la influencia del Espíritu Santo es 'una tierna evidencia de que la Expiación está obrando' en tu vida, aquí y ahora, no solo al final del camino. Eso cambia la forma de ver los momentos en que sentís paz, claridad, o el impulso de hacer algo bueno: no son casualidad, son evidencia de un proceso real de santificación en marcha. Esta semana, prestá atención consciente a un momento en que sientas esa influencia, y reconocela como la evidencia que es."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué atributo o característica de Jesucristo te gustaría incorporar más plenamente en tu vida ahora mismo?",
         "¿Cómo te da esperanza el saber que el bautismo y el Espíritu Santo pueden purificarnos de 'cosa inmunda'?",
-        "¿Qué puedes hacer esta semana para acercarte más a ser como Él es?"
+        "¿Alguna vez identificaste un momento de paz o claridad como una señal concreta del Espíritu Santo obrando en vos?",
+        "¿Qué te parece la enseñanza del presidente Eyring de que sentir el Espíritu es 'evidencia de que la Expiación está obrando' en tu vida?",
+        "¿Qué puedes hacer esta semana para acercarte más a ser como Él es?",
+        "Pensando en un momento reciente donde sentiste una influencia buena y tranquila, ¿cómo podés cultivar más momentos así esta semana?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué ejemplo deben seguir los discípulos?",
+      "question": "¿Qué ejemplo deben seguir los discípulos, según 3 Nefi 27:27?",
       "options": [
         "El del mundo",
         "El ejemplo de Cristo",
@@ -43,47 +57,69 @@
     },
     {
       "id": 2,
-      "question": "¿Qué clase de hombres deberíamos ser?",
+      "question": "Según 3 Nefi 27:19-20, ¿qué se necesita para que una persona sea santificada?",
       "options": [
-        "Normales",
-        "Como Cristo",
-        "Promedio",
-        "Ordinarios"
+        "Solo buenas intenciones",
+        "Arrepentimiento, bautismo, y la recepción del Espíritu Santo",
+        "Riquezas y posición social",
+        "Nacer en una familia de la Iglesia"
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Cómo juzgará Cristo a los hombres?",
+      "question": "Cristo pregunta '¿qué clase de hombres habéis de ser?' y responde Él mismo: 'aun como yo soy' (3 Nefi 27:27). ¿Qué relación establece esa pregunta y respuesta entre el propósito de la vida y el ejemplo de Cristo?",
       "options": [
-        "Por su riqueza",
-        "Según sus obras",
-        "Por su apariencia",
-        "Por su familia"
+        "Que el objetivo final del discipulado es llegar a ser semejantes a Cristo, no solo seguir un conjunto de reglas externas",
+        "Que la pregunta no tiene ninguna respuesta clara en el texto",
+        "Que solo los apóstoles originales podían aspirar a ser como Cristo",
+        "Que 'ser como Cristo' se refiere únicamente a Su apariencia física"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué les pasará a los que hacen obras de justicia?",
+      "question": "¿Por qué la santificación por el Espíritu Santo es un paso necesario después del bautismo, y no algo que ocurre automáticamente por el bautismo solo?",
       "options": [
-        "Serán castigados",
-        "Recibirán vida eterna",
-        "Serán ignorados",
-        "Nada"
+        "Porque el bautismo perdona los pecados pasados, pero la santificación continua mediante el Espíritu es el proceso por el cual la persona se vuelve verdaderamente limpia y semejante a Cristo con el tiempo",
+        "Porque el bautismo, por sí solo, ya completa todo el proceso de santificación de una persona",
+        "Porque el Espíritu Santo solo actúa una vez en la vida de una persona",
+        "Porque la santificación ocurre exclusivamente por el propio esfuerzo, sin ninguna ayuda espiritual"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Valentina fue bautizada hace tiempo, pero siente que 'no cambió mucho' desde entonces y se pregunta si eso significa que algo salió mal. Según 3 Nefi 27:19-20 y la enseñanza del presidente Eyring, ¿qué le ayudaría a entender su situación?",
+      "options": [
+        "Que la santificación es un proceso continuo mediante el Espíritu Santo, no un cambio instantáneo que ocurre solo en el momento del bautismo",
+        "Que si no sintió un cambio radical inmediato, su bautismo no fue válido",
+        "Que debería bautizarse nuevamente para que funcione esta vez",
+        "Que la santificación depende únicamente de la fecha exacta en que alguien fue bautizado"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Nicolás sintió una paz inusual después de resolver un conflicto con un amigo perdonándolo, pero no sabía cómo interpretar esa sensación. Según la enseñanza del presidente Eyring, ¿qué le ayudaría a reconocer lo que sintió?",
+      "options": [
+        "Que fue una simple coincidencia sin ningún significado espiritual",
+        "Que esa paz puede considerarse una tierna evidencia de que la Expiación de Cristo está obrando activamente en su vida en ese mismo momento",
+        "Que solo los líderes de la Iglesia pueden sentir ese tipo de influencia espiritual",
+        "Que esa paz solo cuenta como señal espiritual si ocurre durante una oración formal"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué mandó Cristo escribir?",
+      "id": 7,
+      "question": "Tanto la pregunta de Cristo '¿qué clase de hombres habéis de ser?' como la enseñanza del presidente Eyring sobre sentir el Espíritu como evidencia de la Expiación comparten un mismo principio. ¿Cuál es?",
       "options": [
-        "Nada",
-        "Estas enseñanzas",
-        "Solo historia",
-        "Leyes políticas"
+        "Que llegar a ser como Cristo es un proceso activo y continuo, sostenido por el Espíritu Santo, no un estado que se alcanza de una sola vez",
+        "Que ser como Cristo depende exclusivamente del esfuerzo personal sin ninguna ayuda espiritual",
+        "Que el Espíritu Santo actúa una sola vez, en el momento del bautismo, y no de forma continua después",
+        "Que solo unos pocos elegidos pueden aspirar a ser como Cristo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

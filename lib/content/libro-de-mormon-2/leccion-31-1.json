@@ -34,7 +34,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Las Bienaventuranzas no describen un ideal lejano, sino el tipo de corazón que cualquiera puede empezar a cultivar hoy: humilde, hambriento de hacer lo correcto, dispuesto a mostrar sus buenas obras sin esconderlas. Cristo no dice 'sean perfectos primero y después brillen'; dice que la luz ya puede alumbrar mientras el proceso sigue en marcha. Vos también tenés una 'colina' donde te ven: tu curso, tu familia, tu equipo. Esta semana, elegí una sola acción concreta —no un buen propósito general— que muestre esa luz donde estás parado ahora mismo."
+      "contenido": "Las Bienaventuranzas no describen un ideal lejano, sino el tipo de corazón que cualquiera puede empezar a cultivar hoy: humilde, hambriento de hacer lo correcto, dispuesto a mostrar sus buenas obras sin esconderlas. Cristo no dice 'sean perfectos primero y después brillen'; dice que la luz ya puede alumbrar mientras el proceso sigue en marcha. Vos también tenés una 'colina' donde te ven: tu curso, tu familia, tu equipo. Elegí, esta semana, una sola acción concreta —no un buen propósito general— que muestre esa luz donde estás parado ahora mismo."
     },
     {
       "tipo": "cuestionario",
@@ -86,7 +86,7 @@
       "id": 4,
       "question": "Las Bienaventuranzas describen estados del corazón —humildad, mansedumbre, hambre de rectitud— antes de hablar de acciones concretas. ¿Qué relación establece esto entre el carácter interior y el comportamiento visible?",
       "options": [
-        "Que el comportamiento externo no tiene relación con el estado del corazón",
+        "Que basta con demostrar humildad y mansedumbre por fuera, sin que eso refleje un cambio real por dentro",
         "Que basta con actuar bien externamente, sin que el corazón cambie",
         "Que el cambio de carácter interior es la base de la que después nace el comportamiento visible como 'luz'",
         "Que las Bienaventuranzas solo aplican a la vida después de la muerte"
@@ -95,7 +95,7 @@
     },
     {
       "id": 5,
-      "question": "Valentina siente que hacer lo correcto en su curso no sirve de nada porque 'nadie lo nota'. Según la enseñanza de la luz en el candelero, ¿qué le ayudaría a entender?",
+      "question": "Lucía siente que hacer lo correcto en su curso no sirve de nada porque 'nadie lo nota'. Según la enseñanza de la luz en el candelero, ¿qué le ayudaría a entender?",
       "options": [
         "Que tiene razón, y que por eso no vale la pena seguir esforzándose",
         "Que las buenas obras sinceras, aunque parezcan pequeñas, con el tiempo se hacen notar como una luz que no se puede ocultar",
@@ -106,7 +106,7 @@
     },
     {
       "id": 6,
-      "question": "Mateo dice que sentirse 'pobre en espíritu' —es decir, reconocer que necesita ayuda de Dios— lo hace sentir débil frente a sus amigos. Según 3 Nefi 12:3, ¿qué le dirías?",
+      "question": "Franco dice que sentirse 'pobre en espíritu' —es decir, reconocer que necesita ayuda de Dios— lo hace sentir débil frente a sus amigos. Según 3 Nefi 12:3, ¿qué le dirías?",
       "options": [
         "Que reconocer la propia necesidad de Dios no es debilidad, sino justamente la actitud a la que Cristo promete el reino de los cielos",
         "Que debería ocultar esa sensación y aparentar seguridad total",

@@ -1,6 +1,53 @@
 {
   "id": "leccion-127",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Isaías no describe el día de reposo con el lenguaje de una regla estricta ni de una lista de prohibiciones. Usa una palabra sorprendente: «delicia». «Si retraes del día de reposo tu pie... y lo llamas delicia... entonces te deleitarás en Jehová» (Isaías 58:13–14). La condición para recibir esa delicia no es simplemente 'no trabajar'. Es dejar de 'andar en tus propios caminos' y 'buscar tu propia voluntad' durante ese día específico: una pausa deliberada de vos mismo para enfocarte en Dios.\n\nSiglos después, cuando los líderes religiosos de Su época habían convertido el día de reposo en una lista rígida de restricciones, Jesús aclaró cuál era el propósito original: «El día de reposo fue hecho por causa del hombre, y no el hombre por causa del día de reposo» (Marcos 2:27). El día de reposo no existe para complicarte la vida. Existe como un regalo, un espacio semanal diseñado específicamente para tu beneficio.\n\nEso cambia completamente la pregunta que probablemente te hacés sobre el domingo: en vez de '¿qué actividades tengo prohibidas?', la pregunta de Isaías es '¿qué elijo hacer para deleitarme en Dios esta semana?'. Puede ser tiempo con la familia, servicio a otra persona, estudio personal de las Escrituras, o simplemente descanso real, sin pantallas ni tareas pendientes.\n\nGuardar el día de reposo probablemente no se sienta como una 'delicia' automática desde el primer domingo que lo intentás en serio. Como cualquier hábito nuevo, toma práctica notar la diferencia entre un domingo que pasó igual que cualquier otro día, y un domingo que realmente descansó tu cuerpo y renovó tu espíritu."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 58:13–14",
+          "texto": "Si retraes del día de reposo tu pie, de hacer tu voluntad en mi día santo, y lo llamas delicia, santo, glorioso de Jehová, y lo veneras, no andando en tus propios caminos, ni buscando tu propia voluntad ni hablando tus propias palabras, entonces te deleitarás en Jehová; y yo te haré cabalgar sobre las alturas de la tierra y te daré a comer la heredad de Jacob, tu padre, porque la boca de Jehová lo ha hablado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=spa&id=p13-p14#p13"
+        },
+        {
+          "referencia": "Marcos 2:27",
+          "texto": "El día de reposo fue hecho por causa del hombre, y no el hombre por causa del día de reposo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/mark/2?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "Éxodo 20:8–10",
+          "texto": "Acuérdate del día del reposo para santificarlo. Seis días trabajarás y harás toda tu obra, mas el séptimo día es reposo para Jehová tu Dios; no harás en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni el extranjero que está dentro de tus puertas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=spa&id=p8-p10#p8"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Russell M. Nelson",
+      "fuente": "«El día de reposo es una delicia», Conferencia General, abril de 2015",
+      "texto": "El día de reposo supone una oportunidad maravillosa para fortalecer los lazos familiares.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías no pide un domingo aburrido lleno de restricciones; pide un domingo que realmente se sienta como una delicia, distinto al resto de la semana. Jesús aclaró que el día de reposo existe por vos, no al revés. El élder Nelson enseñó que ese día es una oportunidad maravillosa para fortalecer los lazos familiares, algo que fácilmente se pierde en una semana ocupada. Este domingo, en vez de preguntarte qué no podés hacer, elegí conscientemente una actividad —tiempo con tu familia, servicio, estudio personal— que realmente te deleite en Dios."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Sentís que el domingo actualmente es una 'delicia' para vos, o se parece más a cualquier otro día?",
+        "¿Qué actividad específica —familia, servicio, estudio— te ayuda más a sentir que descansaste de verdad un domingo?",
+        "¿Qué te parece que Jesús haya aclarado que 'el día de reposo fue hecho por causa del hombre', y no al revés?",
+        "¿Qué te cuesta más del día de reposo: dejar de hacer ciertas cosas, o elegir activamente hacer otras que sí valen la pena?",
+        "¿Qué podrías cambiar este domingo específico para que se sienta más como una 'delicia' que como una obligación?",
+        "¿Con quién de tu familia podrías fortalecer un lazo este domingo, siguiendo el consejo del élder Nelson?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

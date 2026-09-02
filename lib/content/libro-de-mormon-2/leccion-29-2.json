@@ -3,15 +3,15 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Después del cumplimiento de las señales, algunos se convierten pero otros endurecen sus corazones. Los ladrones de Gadiantón se vuelven tan numerosos y violentos que los creyentes y no creyentes deben unirse para defenderse. Organizan sus ejércitos bajo el liderazgo de Gidgidoni y logran derrotar a los ladrones. El pueblo experimenta paz temporal. Sin embargo, el orgullo comienza a surgir nuevamente entre ellos. Estos capítulos muestran cómo la unidad puede vencer amenazas externas, pero el orgullo interno sigue siendo un peligro."
+      "contenido": "Los ladrones de Gadiantón crecen tanto en número que se convierten en una amenaza real para la sobrevivencia del pueblo nefita. Su líder, Giddiani, le escribe una carta al gobernador Lacóneo exigiéndole que se rinda, con la promesa de perdonarles la vida a cambio de entregar todo lo que tienen. Lacóneo no responde con pánico ni con orgullo: reúne a su pueblo, lo prepara tanto espiritual como temporalmente, y confía en que el Señor va a fortalecerlos si ellos hacen su parte. Reúnen a toda la gente y sus provisiones en un solo lugar central, construyen fortificaciones, se arman, y —lo más importante— se arrepienten y claman a Dios pidiendo protección. El resultado es una victoria decisiva: los ladrones son vencidos, y el pueblo vive un tiempo de paz y prosperidad como pocas veces antes. Esta historia no trata solo de una guerra antigua. Trata de algo que también te toca a vos: cuando ves venir un problema real —en la escuela, en tu casa, en tu propia fe— tenés dos caminos: entrar en pánico o hacer tu parte con calma mientras confiás en que Dios va a fortalecer tu esfuerzo. Lacóneo no esperó que Dios hiciera todo solo. Se preparó, y entonces Dios lo fortaleció."
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "3 Nefi 3:2–7",
-          "texto": "Te escribo para elogiarte por tu firmeza en mantener lo que supones ser tu derecho. Te invito a que tú y tu pueblo os unáis con nosotros.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/3?lang=spa&id=p2-p7#p2"
+          "referencia": "3 Nefi 3:12–13",
+          "texto": "Y aconteció que Lacóneo, el gobernador de la tierra, envió una proclamación entre todo el pueblo, deseando que se reunieran… y que también reunieran sus ganados y todas sus posesiones… con objeto de defenderse de sus enemigos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/3?lang=spa&id=p12-p13#p12"
         },
         {
           "referencia": "3 Nefi 4:8–12",
@@ -26,13 +26,105 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Liahona, noviembre de 2020, «Acoger el futuro con fe»",
+      "texto": "Si estáis preparados, no temeréis.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2020/11/37nelson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cuando la amenaza de los ladrones de Gadiantón se volvió real, Lacóneo no se quedó paralizado ni se lanzó a pelear sin prepararse: reunió al pueblo, hizo fortificaciones, y sobre todo, se arrepintió y clamó a Dios antes de que llegara la batalla. El presidente Russell M. Nelson enseñó una promesa sencilla y directa: 'Si estáis preparados, no temeréis.' La preparación de Lacóneo no reemplazó la fe; la acompañó. Se preparó como si todo dependiera de él, y confió en Dios como si todo dependiera de Dios. Esa combinación es la que trajo la victoria y, después, un tiempo real de paz. Esta semana, identificá un desafío que ves venir —en tu fe, en tu familia, en tus estudios— y empezá a prepararte en concreto para enfrentarlo, en vez de esperar a que llegue de golpe."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué te enseña la unidad entre creyentes y no creyentes para enfrentar una amenaza común?",
-        "¿Cómo describirías el ciclo de humildad y orgullo que se repite en estos capítulos?",
-        "¿En qué áreas de tu vida necesitas buscar unidad con otros para enfrentar desafíos?"
+        "¿Qué te pareció la forma en que Lacóneo respondió a la amenaza de Giddiani: con pánico, con orgullo, o con preparación calmada?",
+        "Si tuvieras que resumir en una palabra la estrategia de Lacóneo, ¿cuál sería: unidad, preparación, o fe?",
+        "¿Alguna vez viste venir un problema con tiempo, y tuviste que decidir si prepararte o ignorarlo?",
+        "¿Qué te parece la promesa del presidente Nelson: 'Si estáis preparados, no temeréis'?",
+        "¿Hay algún desafío que ves venir esta semana —en la escuela, en tu fe, en tu casa— para el cual todavía no te preparaste?",
+        "¿Qué paso concreto, espiritual o práctico, podés dar esta semana para prepararte mejor ante ese desafío?"
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué exigía Giddiani, líder de los ladrones de Gadiantón, en la carta que le envió a Lacóneo?",
+      "options": [
+        "Que compartieran territorio en partes iguales",
+        "Que se rindieran y entregaran todas sus posesiones, a cambio de perdonarles la vida",
+        "Que formaran una alianza militar conjunta",
+        "Que le entregaran únicamente al gobernador Lacóneo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Además de las fortificaciones y las armas, ¿qué otra preparación clave hizo el pueblo antes de la batalla contra los ladrones de Gadiantón?",
+      "options": [
+        "Ninguna preparación espiritual, solo medidas militares",
+        "Se arrepintieron de sus pecados y clamaron a Dios pidiendo protección",
+        "Enviaron mensajeros a negociar en secreto con Giddiani",
+        "Abandonaron la tierra por completo para evitar el conflicto"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Lacóneo reunió a todo el pueblo y sus posesiones en un solo lugar antes del ataque (3 Nefi 3:12-13). ¿Qué principio de preparación ilustra esta decisión?",
+      "options": [
+        "Que la preparación efectiva a veces requiere unidad y organización colectiva, no solo esfuerzo individual",
+        "Que reunir a la gente en un solo lugar no tenía ninguna ventaja estratégica real",
+        "Que Lacóneo actuó por desconfianza hacia su propio pueblo",
+        "Que esta medida solo tenía un propósito económico, sin relación con la defensa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "Después de la victoria, el pueblo 'se arrepintió de todos sus pecados… y fue prosperado' (3 Nefi 5:3). ¿Qué relación establece este versículo entre la preparación espiritual previa y lo que vino después de la batalla?",
+      "options": [
+        "Que la prosperidad posterior no tuvo ninguna relación con las decisiones espirituales tomadas antes de la guerra",
+        "Que el arrepentimiento que motivó la preparación se mantuvo y se profundizó después de la victoria, dando paso a un tiempo real de paz",
+        "Que el pueblo abandonó rápidamente sus buenas decisiones apenas terminó el peligro",
+        "Que la prosperidad se debió únicamente a la fortaleza militar, sin ningún factor espiritual"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Nicolás sabe que se viene un examen difícil dentro de unas semanas, pero prefiere no pensar en eso todavía. Según el ejemplo de la preparación de Lacóneo ante una amenaza que veía venir, ¿qué principio le ayudaría?",
+      "options": [
+        "Que postergar la preparación hasta último momento no tiene ninguna consecuencia real",
+        "Que empezar a prepararse con anticipación, como hizo Lacóneo, reduce el miedo y aumenta las probabilidades de un buen resultado",
+        "Que la preparación solo tiene sentido en situaciones de peligro físico, no en la vida escolar",
+        "Que confiar en Dios significa no hacer ningún esfuerzo personal de preparación"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Valentina siente que 'ya hizo todo lo que podía' preparándose para un desafío familiar difícil, pero sigue sintiendo miedo. Según la promesa del presidente Nelson y el ejemplo de Lacóneo, ¿qué elemento de la preparación nefita le faltaría revisar?",
+      "options": [
+        "Que la preparación temporal siempre es suficiente por sí sola, sin necesidad de nada más",
+        "Que además de la preparación práctica, el pueblo nefita se arrepintió y clamó a Dios; sumar esa preparación espiritual podría fortalecerla también a ella",
+        "Que el miedo que siente demuestra que no se preparó lo suficiente en lo práctico",
+        "Que debería esperar a sentirse completamente segura antes de actuar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la reunión del pueblo en un solo lugar como el arrepentimiento y la oración antes de la batalla comparten un mismo principio central sobre cómo Dios fortalece a Su pueblo. ¿Cuál es?",
+      "options": [
+        "Que Dios fortalece el esfuerzo humano cuando la persona hace su parte —organizarse, prepararse, arrepentirse— en lugar de esperar pasivamente que Él resuelva todo sin ningún esfuerzo propio",
+        "Que la preparación humana por sí sola garantiza la victoria, sin necesidad de la ayuda de Dios",
+        "Que solo la preparación espiritual importa, sin necesidad de ninguna medida práctica",
+        "Que Dios solo ayuda a quienes ya tienen asegurada la victoria por sus propios medios"
+      ],
+      "correctAnswer": 0
+    }
+  ]
 }

@@ -1,6 +1,53 @@
 {
   "id": "leccion-175",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Mucho antes de que existieran las bendiciones patriarcales como las conocés hoy, Jacob recibió una promesa extraordinaria de parte de Dios en un sueño: una escalera que llegaba al cielo, y la seguridad de que el Señor estaría con él «por dondequiera que fueres» (Génesis 28:15). Años después, ya anciano, Jacob puso sus manos sobre sus nietos y les dio una bendición personal, específica para cada uno (Génesis 48:8–9). Esa misma promesa venía de más atrás: Dios le había dicho a Abraham que su descendencia llevaría el sacerdocio «a todas las naciones» y que en ella «serán benditas todas las familias de la tierra» (Abraham 2:9–11).\n\nUna bendición patriarcal funciona de manera parecida hoy: un patriarca ordenado, guiado por el Espíritu, declara tu linaje en la casa de Israel y te da consejo personal e inspirado sobre tu vida. No es una predicción exacta de cada evento futuro, ni un horóscopo espiritual; es más bien un mapa general con promesas condicionadas a tu fidelidad, para que la vuelvas a leer en distintos momentos de tu vida y encuentres dirección.\n\nRecibirla no es automático ni obligatorio a cierta edad: requiere preparación, oración personal y, generalmente, conversación con tus padres y tu obispo. Muchos jóvenes la posponen por nervios o porque «todavía no se sienten listos». Pero, como con cualquier revelación personal, la preparación espiritual —no la edad— es lo que realmente importa."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Génesis 28:12–15",
+          "texto": "Y soñó, y he aquí una escalera que estaba apoyada en tierra, cuyo extremo tocaba en el cielo; y he aquí ángeles de Dios que subían y descendían por ella. Y he aquí, Jehová estaba en lo alto de ella, y dijo: Yo soy Jehová, el Dios de Abraham, tu padre, y el Dios de Isaac; la tierra en que estás acostado te la daré a ti y a tu descendencia. Y será tu descendencia como el polvo de la tierra, y te extenderás al occidente, y al oriente, y al norte y al sur; y todas las familias de la tierra serán benditas en ti y en tu descendencia. Y he aquí, yo estoy contigo, y te guardaré por dondequiera que fueres y volveré a traerte a esta tierra; porque no te dejaré hasta que haya hecho lo que te he dicho.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/28?lang=spa&id=p12-p15#p12"
+        },
+        {
+          "referencia": "Génesis 48:8–9",
+          "texto": "Y vio Israel a los hijos de José y dijo: ¿Quiénes son estos? Y respondió José a su padre: Son mis hijos, que Dios me ha dado aquí. Y él dijo: Acércalos ahora a mí, y los bendeciré.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=spa&id=p8-p9#p8"
+        },
+        {
+          "referencia": "Abraham 2:9–11",
+          "texto": "Y haré de ti una nación grande y te bendeciré sobremanera, y engrandeceré tu nombre entre todas las naciones, y serás una bendición para tu descendencia después de ti, para que en sus manos lleven este ministerio y sacerdocio a todas las naciones. Y las bendeciré mediante tu nombre; pues cuantos reciban este evangelio serán llamados por tu nombre; y serán considerados tu descendencia, y se levantarán y te bendecirán como padre de ellos; y bendeciré a los que te bendijeren, y maldeciré a los que te maldijeren; y en ti (es decir, en tu sacerdocio) y en tu descendencia (es decir, tu sacerdocio), pues te prometo que en ti continuará este derecho, y en tu descendencia después de ti (es decir, la descendencia literal, o sea, la descendencia corporal) serán bendecidas todas las familias de la tierra, sí, con las bendiciones del evangelio, que son las bendiciones de salvación, sí, de vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=spa&id=p9-p11#p9"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Gerrit W. Gong",
+      "fuente": "«Pertenecer al convenio», Liahona, noviembre de 2019",
+      "texto": "Cuando el patriarca les pone las manos sobre la cabeza, él siente y expresa el amor que Dios tiene por ustedes. Les pronuncia el linaje en la casa de Israel y menciona bendiciones del Señor.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2019/11/41gong?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Desde Jacob bendiciendo a sus nietos hasta el patriarca de tu estaca poniendo las manos sobre tu cabeza, la promesa es la misma: Dios conoce tu nombre, tu linaje y tu potencial, y quiere decírtelo directamente a vos. Una bendición patriarcal no reemplaza tu propia relación con el Señor ni tus decisiones diarias; las acompaña, dándote un punto de referencia al que podés volver cuando dudes de tu rumbo. Si todavía no la recibiste, conversá esta semana con tus padres o tu obispo sobre cómo empezar a prepararte."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Ya recibiste tu bendición patriarcal? Si es así, ¿qué recordás de ese día?",
+        "¿Qué esperás sentir o descubrir cuando la recibas (o cuando la vuelvas a leer)?",
+        "¿Alguna vez sentiste que necesitabas dirección clara sobre una decisión importante de tu vida?",
+        "¿Qué significa para vos saber que Dios conoce tu linaje específico dentro de la casa de Israel?",
+        "¿Qué paso concreto podrías dar esta semana para empezar a prepararte para recibir tu bendición patriarcal (u orar para entender mejor la que ya tenés)?",
+        "¿Con quién podrías hablar esta semana —tus padres, tu obispo— sobre este tema?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

@@ -1,6 +1,53 @@
 {
   "id": "leccion-208",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El 3 de junio de 2018, el presidente Russell M. Nelson se dirigió específicamente a los jóvenes de la Iglesia en un devocional mundial, con un mensaje que no dejaba espacio para la ambigüedad: «ustedes fueron enviados a la tierra en este preciso momento, el momento más crucial en la historia del mundo, para ayudar a recoger a Israel». No lo dijo como una frase motivacional genérica. Lo dijo como una declaración doctrinal: tu momento de nacer no fue casualidad.\n\nEsa misma idea de reunión aparece en las Escrituras mucho antes de este devocional. Cuando Jesús resucitado visitó a los nefitas, prometió una señal específica: «recogeré a mi pueblo de su larga dispersión, oh casa de Israel, y estableceré otra vez entre ellos mi Sion» (3 Nefi 21:1). Y en una revelación temprana de esta dispensación, el Señor definió exactamente cuál sería el vehículo de esa reunión: «Predicarás la plenitud de mi evangelio... el convenio que he enviado para recobrar a los de mi pueblo, que son de la casa de Israel» (D&C 39:11).\n\nEl presidente Nelson agregó algo que sorprende por su simpleza: cada vez que hacés algo que ayuda a cualquier persona, a ambos lados del velo, a dar un paso hacia hacer convenios con Dios y recibir Sus ordenanzas esenciales, estás ayudando a recoger a Israel. Así de sencillo. No hace falta un llamamiento oficial ni un cargo especial. Reunir a Israel es algo que ya podés empezar a hacer hoy, con las herramientas que ya tenés."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 21:1–2",
+          "texto": "Y de cierto os digo, os doy una señal para que sepáis la época en que estarán a punto de acontecer estas cosas —que recogeré a mi pueblo de su larga dispersión, oh casa de Israel, y estableceré otra vez entre ellos mi Sion.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/21?lang=spa&id=p1-p2#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 39:11",
+          "texto": "Predicarás la plenitud de mi evangelio que he enviado en estos últimos días, el convenio que he enviado para recobrar a los de mi pueblo, que son de la casa de Israel.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/39?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Isaías 11:12",
+          "texto": "Y levantará estandarte a las naciones, y juntará a los desterrados de Israel y reunirá a los esparcidos de Judá de los cuatro confines de la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11?lang=spa&id=p12#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Juventud de Israel», Devocional Mundial para Jóvenes Adultos, 3 de junio de 2018",
+      "texto": "Mis queridos jóvenes extraordinarios, ustedes fueron enviados a la tierra en este preciso momento, el momento más crucial en la historia del mundo, para ayudar a recoger a Israel. No hay nada que esté ocurriendo en esta tierra ahora que sea más importante que eso. No hay nada que sea de mayor consecuencia. Absolutamente nada.",
+      "link": "https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El presidente Nelson no le habló a una generación cualquiera: te habló específicamente a vos, en este momento exacto de la historia, sobre un trabajo que considera el más importante que existe hoy en la tierra. Reunir a Israel no requiere una misión formal ni un llamamiento especial: sucede cada vez que ayudás a alguien a acercarse a Cristo y a hacer convenios con Dios. La invitación del presidente Nelson fue directa: alistarte en 'el batallón de jóvenes del Señor'. Esta semana, elegí una acción concreta y pequeña que ayude a alguien a dar un paso hacia Cristo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué sentiste al leer que el presidente Nelson dice que fuiste enviado a la tierra específicamente 'en este preciso momento'?",
+        "¿Qué entendías antes por 'reunir a Israel', y cambió algo después de esta lección?",
+        "¿Alguna vez ayudaste a alguien, sin ser una misión formal, a acercarse un poco más a Cristo o a la Iglesia?",
+        "¿Qué te parece la idea de que 'así de sencillo' puede ser reunir a Israel: cualquier cosa que ayude a alguien a acercarse a Dios?",
+        "¿Qué acción pequeña y concreta podrías hacer esta semana que cuente como parte de esta 'obra de recogimiento'?",
+        "¿Te gustaría 'alistarte en el batallón de jóvenes del Señor', como invitó el presidente Nelson? ¿Qué significaría eso para vos en la práctica?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

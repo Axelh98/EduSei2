@@ -1,6 +1,53 @@
 {
   "id": "leccion-104",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "David había cometido uno de los pecados más graves de toda su vida: tomó a Betsabé, la esposa de uno de sus soldados más leales, y después ordenó que ese soldado muriera en batalla para ocultar lo que había hecho. Durante meses, David no dijo nada. Hasta que el profeta Natán se presentó ante él y, con una parábola breve, lo obligó a enfrentar la verdad sobre sí mismo.\n\nEl Salmo 51 es la respuesta de David a ese momento: una de las oraciones de arrepentimiento más honestas de toda la Biblia. No hay excusas, ni justificaciones, ni intentos de minimizar lo que hizo. Solo esto: «Ten piedad de mí, oh Dios, conforme a tu compasión... Lávame por completo de mi maldad y límpiame de mi pecado» (Salmo 51:1–2). David no le pide a Dios una segunda oportunidad para demostrar que puede hacerlo mejor por su cuenta. Le pide que lo transforme: «Crea en mí, oh Dios, un corazón limpio» (Salmo 51:10). No dice «ayúdame a limpiar mi corazón», sino «crea en mí uno nuevo», como si supiera que necesitaba algo que él mismo no podía fabricar.\n\nLo más sorprendente del salmo es lo que David entiende sobre qué es lo que realmente le importa a Dios: no rituales externos ni sacrificios grandiosos, sino honestidad interior. «Los sacrificios de Dios son el espíritu quebrantado; al corazón quebrantado y contrito no despreciarás tú, oh Dios» (Salmo 51:17).\n\nQuizás nunca cometas un pecado tan grave como el de David, pero seguro conocés la sensación de haber hecho algo de lo que te avergonzás, algo que preferirías que nadie supiera. El Salmo 51 muestra que ese no es el final de la historia con Dios. Es, muchas veces, el comienzo de la parte más honesta de tu relación con Él."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Salmos 51:1–3",
+          "texto": "Ten piedad de mí, oh Dios, conforme a tu compasión; conforme a la multitud de tus tiernas misericordias, borra mis transgresiones. Lávame por completo de mi maldad y límpiame de mi pecado. Porque yo reconozco mis transgresiones, y mi pecado está siempre delante de mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=spa&id=p1-p3#p1"
+        },
+        {
+          "referencia": "Salmos 51:10",
+          "texto": "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Salmos 51:17",
+          "texto": "Los sacrificios de Dios son el espíritu quebrantado; al corazón quebrantado y contrito no despreciarás tú, oh Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=spa&id=p17#p17"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Podemos actuar mejor y ser mejores», Conferencia General, abril de 2019",
+      "texto": "El arrepentimiento no es un suceso; es un proceso; es la clave de la felicidad y la paz interior; cuando lo acompaña la fe, el arrepentimiento despeja el acceso al poder de la expiación de Jesucristo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/36nelson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "David no minimizó lo que hizo ni buscó excusas: simplemente le pidió a Dios que creara en él algo nuevo, porque sabía que no podía arreglar su propio corazón por sus propias fuerzas. El presidente Nelson enseñó que el arrepentimiento no es un evento único, sino un proceso constante que abre el acceso al poder de la Expiación. Si hay algo que estás cargando en secreto, algo de lo que te avergonzás, el Salmo 51 te muestra el primer paso: dejar de esconderlo y llevárselo directamente a Dios."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te llamó la atención de la sinceridad con la que David le habla a Dios en este salmo?",
+        "¿Por qué crees que David pide que Dios 'cree' en él un corazón limpio, en vez de solo pedir ayuda para limpiarlo él mismo?",
+        "¿Alguna vez sentiste que algo que hiciste era demasiado grave como para hablarlo con Dios en oración?",
+        "¿Qué significa para vos que 'los sacrificios de Dios son el espíritu quebrantado', es decir, que a Dios le importa más tu honestidad que una actuación perfecta?",
+        "¿Hay algo que estés cargando en secreto y que esta semana podrías empezar a llevarle a Dios en oración?",
+        "¿A quién de confianza —un padre, un líder de la Iglesia— podrías acudir esta semana si necesitás ayuda para dar ese primer paso?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

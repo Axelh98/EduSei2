@@ -1,6 +1,53 @@
 {
   "id": "leccion-131",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Dios describe la infidelidad de Israel con una imagen muy concreta: «dos males ha hecho mi pueblo: me abandonaron a mí, fuente de aguas vivas, y cavaron para sí cisternas, cisternas rotas que no retienen el agua» (Jeremías 2:13). Una fuente de agua viva no se agota nunca; fluye sola, constantemente. Una cisterna, en cambio, hay que cavarla, mantenerla, y si tiene una grieta, se vacía sin que nadie lo note hasta que ya es tarde. Israel cambió algo que nunca fallaba por algo que, tarde o temprano, siempre falla.\n\nLo sorprendente es lo que sigue después de esa acusación tan dura: no viene un castigo inmediato, sino una invitación. «Vuélvete, oh rebelde Israel... no haré caer mi ira sobre ti, porque misericordioso soy yo» (Jeremías 3:12). Y unos versículos después, la invitación se vuelve todavía más directa: «Volveos, hijos rebeldes; sanaré vuestras rebeliones» (Jeremías 3:22). Dios no espera que Israel se limpie primero por su cuenta y después vuelva. La sanidad viene después de volver, no antes.\n\nEs fácil pensar que hay que 'estar bien' o 'haberse arreglado' antes de acercarte de nuevo a Dios, sea después de una etapa de menos oración, de decisiones que sabés que no fueron las correctas, o simplemente de haberte alejado por comodidad. Jeremías 3 dice exactamente lo contrario: el volver es lo que hace posible la sanidad, no una condición previa a ella.\n\nLas 'cisternas rotas' que fabricás vos mismo —lo que sea que hayas usado para llenar un vacío que solo Dios puede llenar— siempre se van a vaciar. La fuente de agua viva, en cambio, sigue ahí, disponible, esperando que vuelvas a ella."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Jeremías 2:13",
+          "texto": "Porque dos males ha hecho mi pueblo: me abandonaron a mí, fuente de aguas vivas, y cavaron para sí cisternas, cisternas rotas que no retienen el agua.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/2?lang=spa&id=p13#p13"
+        },
+        {
+          "referencia": "Jeremías 3:12–13",
+          "texto": "Vuélvete, oh rebelde Israel, dice Jehová; no haré caer mi ira sobre ti, porque misericordioso soy yo, dice Jehová; no guardaré para siempre el enojo. Reconoce, pues, tu maldad, porque contra Jehová tu Dios te has rebelado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/3?lang=spa&id=p12-p13#p12"
+        },
+        {
+          "referencia": "Jeremías 3:22",
+          "texto": "Volveos, hijos rebeldes; sanaré vuestras rebeliones. He aquí, nosotros venimos a ti, porque tú eres Jehová nuestro Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/3?lang=spa&id=p22#p22"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dieter F. Uchtdorf",
+      "fuente": "«El hijo pródigo y el camino que conduce a casa», Conferencia General, octubre de 2023",
+      "texto": "Nuestro Padre Celestial correrá hacia nosotros, con Su corazón rebosante de amor y compasión. Él nos abrazará; nos pondrá ropa sobre los hombros, un anillo en el dedo, sandalias en los pies, y proclamará: '¡Hoy celebramos! ¡Porque mi hijo, que había muerto, ha vuelto a la vida!'",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/45uchtdorf?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Dios no le pidió a Israel que se arreglara antes de volver: le pidió simplemente que volviera, con la promesa de que la sanidad llegaría después. El élder Uchtdorf describió esa misma bienvenida con la imagen del padre que corre hacia su hijo pródigo, con el corazón lleno de amor. Si hay una 'cisterna rota' en tu vida —algo que usaste para llenar un vacío que en realidad solo Dios puede llenar—, esta semana no esperes a sentirte listo para volver. Volvé primero, y dejá que la sanidad llegue en el camino."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué 'cisterna rota' —algo que prometía llenar un vacío pero terminó fallando— reconocés en tu propia vida?",
+        "¿Qué te genera que Dios invite a Israel a volver antes de exigirle que se 'arregle' primero?",
+        "¿Alguna vez sentiste que tenías que 'estar mejor' antes de poder orar o acercarte a Dios de nuevo?",
+        "¿Qué te parece la imagen del Padre Celestial corriendo hacia Su hijo con el corazón lleno de amor, en vez de esperarlo con los brazos cruzados?",
+        "¿Qué paso concreto podrías dar esta semana para 'volver' en un área donde sentís que te alejaste, sin esperar a sentirte completamente listo?",
+        "¿A quién conocés que necesite escuchar esta semana que puede volver a Dios ahora mismo, sin condiciones previas?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

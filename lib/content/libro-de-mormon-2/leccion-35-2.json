@@ -21,11 +21,25 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "Conferencia General, octubre de 2017, «El Libro de Mormón: ¿Cómo sería su vida sin él?»",
+      "texto": "Las verdades del Libro de Mormón tienen el poder para sanar, reconfortar, restaurar, socorrer, fortalecer, consolar y animar nuestra alma. Si cada día se sumergen en el Libro de Mormón, estarán vacunados contra los males de esta época.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Moroni no cierra el Libro de Mormón con una advertencia, sino con una invitación: recordar la misericordia de Dios, meditarla, y preguntar con un corazón sincero si estas cosas son verdaderas. El presidente Russell M. Nelson enseñó que las verdades de este libro 'tienen el poder para sanar, reconfortar, restaurar, socorrer, fortalecer, consolar y animar nuestra alma', y prometió que sumergirse en él diariamente nos 'vacuna contra los males de esta época'. La promesa de Moroni no es un truco retórico: es una invitación real a poner a prueba el libro con oración sincera. Esta semana, si nunca pusiste a prueba esta promesa con toda intención, hacelo; y si ya lo hiciste, volvé a leer un capítulo con la misma sinceridad que la primera vez."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Por qué es necesario recordar y meditar en la misericordia de Dios antes de preguntar si el libro es verdadero?",
         "¿Qué significa orar 'con verdadera intención'?",
-        "¿Cómo ha manifestado el Espíritu Santo verdades a tu corazón y mente en el pasado?"
+        "¿Cómo ha manifestado el Espíritu Santo verdades a tu corazón y mente en el pasado?",
+        "¿Qué te parece la promesa del presidente Nelson de que el Libro de Mormón nos 'vacuna contra los males de esta época'?",
+        "¿Ya pusiste a prueba la promesa de Moroni 10:4 alguna vez con toda sinceridad? ¿Qué pasó?",
+        "¿Qué día concreto de esta semana vas a apartar para leer el Libro de Mormón con verdadera intención?"
       ]
     }
   ],
@@ -54,36 +68,58 @@
     },
     {
       "id": 3,
-      "question": "¿Cuál es el propósito de los dones espirituales?",
+      "question": "Moroni pide primero 'recordar' y 'meditar' la misericordia de Dios, y recién después invita a preguntar si el libro es verdadero (Moroni 10:3-4). ¿Qué principio revela ese orden sobre cómo se recibe un testimonio genuino?",
       "options": [
-        "Para jactarnos",
-        "Para beneficio de los hijos de Dios",
-        "Para poder personal",
-        "Para impresionar"
+        "Que la disposición del corazón —agradecida y reflexiva— prepara el terreno para reconocer la respuesta del Espíritu, en lugar de hacer la pregunta con indiferencia",
+        "Que el orden de los pasos no tiene ninguna importancia real en el proceso",
+        "Que recordar la misericordia de Dios reemplaza por completo la necesidad de orar",
+        "Que solo las personas que ya tienen un testimonio pueden seguir este proceso"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Cómo podemos saber que el Libro de Mormón es verdadero?",
+      "question": "¿Por qué el presidente Nelson compara sumergirse en el Libro de Mormón con estar 'vacunado' contra los males de esta época?",
       "options": [
-        "Por la ciencia",
-        "Preguntando a Dios con fe sincera",
-        "Por opinión popular",
-        "No podemos saberlo"
+        "Porque sugiere que el estudio constante del libro fortalece espiritualmente a la persona de manera protectora y preventiva, no solo como respuesta a una crisis puntual",
+        "Porque implica que leer el libro una sola vez es suficiente para toda la vida",
+        "Porque implica que basta con poseer un ejemplar del libro, sin necesidad de leerlo con regularidad",
+        "Porque se refiere únicamente a la protección física contra enfermedades"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Valentina leyó el Libro de Mormón una vez, rápido, solo para terminarlo, y siente que 'no pasó nada'. Según Moroni 10:4 y la enseñanza del presidente Nelson, ¿qué le ayudaría a repensar su experiencia?",
+      "options": [
+        "Que leer rápido sin buscar sinceramente la respuesta no es lo mismo que preguntar 'con un corazón sincero, con verdadera intención', que es la condición real de la promesa",
+        "Que la promesa de Moroni no es real y nunca funciona",
+        "Que solo las personas especialmente espirituales pueden recibir esa respuesta",
+        "Que leer el libro una vez, de cualquier manera, ya cumple con todo lo que pide el versículo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Joaquín quiere invitar a un amigo que no es miembro a leer el Libro de Mormón, pero no sabe cómo explicarle qué esperar. Usando Moroni 10:4-5, ¿qué le podría explicar?",
+      "options": [
+        "Que el libro no ofrece ninguna forma real de verificar si es verdadero",
+        "Que Dios promete manifestar la verdad del libro por el poder del Espíritu Santo a quien lo pida con un corazón sincero, verdadera intención, y fe en Cristo",
+        "Que solo los miembros de la Iglesia pueden recibir una respuesta a esa pregunta",
+        "Que la única forma de saber si es verdadero es a través del análisis histórico"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué promete Moroni 10:4-5?",
+      "id": 7,
+      "question": "Tanto la invitación de Moroni a recordar la misericordia de Dios antes de preguntar, como la enseñanza del presidente Nelson sobre 'vacunarse' mediante el estudio diario, comparten un mismo principio. ¿Cuál es?",
       "options": [
-        "Riquezas",
-        "Conocer la verdad por el poder del Espíritu Santo",
-        "Fama",
-        "Poder"
+        "Que un testimonio genuino y duradero del Libro de Mormón se construye con un corazón preparado y un estudio sostenido, no con una lectura única e indiferente",
+        "Que basta con leer el libro una sola vez, de cualquier forma, para obtener todos sus beneficios",
+        "Que basta con haber sentido una vez la confirmación del Espíritu, sin necesidad de mantener el estudio después",
+        "Que solo los líderes de la Iglesia necesitan un testimonio sólido de este libro"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

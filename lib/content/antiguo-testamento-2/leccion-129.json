@@ -1,6 +1,53 @@
 {
   "id": "leccion-129",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Los últimos capítulos de Isaías describen algo que ningún ser humano ha visto todavía: un mundo completamente transformado por la presencia física de Jesucristo. «Yo crearé nuevos cielos y nueva tierra; y de lo primero no habrá memoria» (Isaías 65:17). No es una mejora gradual del mundo actual. Es una renovación tan completa que el dolor anterior ni siquiera se recordará.\n\nLa imagen que sigue es todavía más sorprendente: «El lobo y el cordero pacerán juntos, y el león comerá paja como el buey... No harán mal ni dañarán en todo mi santo monte» (Isaías 65:25). Depredador y presa, conviviendo en paz. Es una imagen tan extrema que solo funciona como metáfora de algo real: un mundo donde la violencia, en cualquiera de sus formas, simplemente deja de tener lugar.\n\nLos Artículos de Fe resumen esta visión con lenguaje más directo: «Cristo reinará personalmente sobre la tierra, y la tierra será renovada y recibirá su gloria paradisíaca» (Artículos de Fe 1:10). Y Apocalipsis agrega un detalle que probablemente te sorprenda: durante ese período, un ángel atará a Satanás por mil años, «para que no engañase más a las naciones» (Apocalipsis 20:1–3).\n\nEs fácil, viviendo en un mundo con tanto conflicto, sentir que la paz completa es una fantasía imposible. Isaías, escribiendo hace casi tres mil años, ya veía más allá de su propio tiempo violento hacia algo que todavía no había llegado, y sabía que iba a llegar. Esa misma esperanza —que el mundo actual no es la versión final de las cosas— es parte de lo que sostiene la fe de cualquier persona que espera la Segunda Venida, incluido vos."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 65:17",
+          "texto": "Porque he aquí que yo crearé nuevos cielos y nueva tierra; y de lo primero no habrá memoria, ni vendrá más al pensamiento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/65?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Isaías 65:25",
+          "texto": "El lobo y el cordero pacerán juntos, y el león comerá paja como el buey; y el polvo será el alimento de la serpiente. No harán mal ni dañarán en todo mi santo monte, ha dicho Jehová.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/65?lang=spa&id=p25#p25"
+        },
+        {
+          "referencia": "Artículos de Fe 1:10",
+          "texto": "Creemos en la congregación literal del pueblo de Israel y en la restauración de las Diez Tribus; que Sion (la Nueva Jerusalén) será edificada sobre el continente americano; que Cristo reinará personalmente sobre la tierra, y que la tierra será renovada y recibirá su gloria paradisíaca.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "«Venga Tu reino», Conferencia General, abril de 2015",
+      "texto": "El solo pensar en Su venida me llena de emoción. ¡Será algo grandioso! El alcance y la grandeza, la inmensidad y la magnificencia, superarán todo lo que los ojos humanos hayan visto o experimentado.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2015/05/sunday-afternoon-session/thy-kingdom-come?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías vio, casi tres mil años antes de que sucediera, un mundo tan transformado que hasta los depredadores y sus presas convivirían en paz. El élder Andersen enseñó que solo pensar en la venida de Cristo lo llena de emoción, porque su alcance y grandeza superarán todo lo que los ojos humanos hayan visto. Esa esperanza no es una fantasía para distraerte del presente: es una razón concreta para seguir viviendo con fe hoy. Esta semana, elegí una sola acción —de bondad, de paz, de servicio— que ayude a que el mundo se parezca un poco más a esa visión de Isaías."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué imagen de estos capítulos finales de Isaías te resulta más difícil de imaginar: el lobo y el cordero en paz, o un mundo sin memoria del dolor anterior?",
+        "¿Qué sentís cuando pensás en la Segunda Venida: emoción, indiferencia, algo de miedo?",
+        "¿Alguna vez sentiste que la paz completa en el mundo era imposible de imaginar, dado todo el conflicto actual?",
+        "¿Qué te parece que Satanás esté completamente atado durante el Milenio, sin poder tentar a nadie?",
+        "¿Qué acción pequeña y concreta podrías hacer esta semana que ayude a que el mundo se parezca un poco más a la visión de paz de Isaías?",
+        "¿Cómo cambiaría tu manera de vivir el día a día si realmente vivieras con la expectativa activa de la Segunda Venida?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

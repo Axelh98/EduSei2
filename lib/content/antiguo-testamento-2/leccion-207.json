@@ -1,6 +1,53 @@
 {
   "id": "leccion-207",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Cada seis meses, millones de personas alrededor del mundo se detienen a escuchar la conferencia general. No es una tradición cultural ni un evento más: la Iglesia enseña que las palabras de los profetas y apóstoles vivientes son Escritura, con el mismo peso que un pasaje de la Biblia o el Libro de Mormón. El Señor lo dijo de manera directa: «mi palabra... sea por mi propia voz o por la voz de mis siervos, es lo mismo» (D&C 1:38).\n\nEso no es una idea nueva. El profeta Amós ya lo había señalado siglos antes: «no hará nada Jehová el Señor sin que revele su secreto a sus siervos los profetas» (Amós 3:7). Y el Señor le pidió a la Iglesia primitiva de esta dispensación algo específico: recibir las palabras de Sus siervos «con toda fe y paciencia, como si viniera de mi propia boca» (D&C 21:5).\n\nAprender a estudiar en profundidad un discurso de un líder de la Iglesia —no solo escucharlo una vez y olvidarlo— es una habilidad que te va a servir toda la vida: en tu propio estudio personal, enseñando en una clase, o simplemente ayudando a un amigo a entender mejor un mensaje que escuchó. Esta lección te da una estructura simple para hacerlo: cómo empezar, cómo estudiar el mensaje a fondo, cómo profundizar la comprensión, y cómo ponerlo en práctica."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 1:38",
+          "texto": "Lo que yo, el Señor, he dicho, yo lo he dicho, y no me disculpo; y aunque pasaren los cielos y la tierra, mi palabra no pasará, sino que toda será cumplida, sea por mi propia voz o por la voz de mis siervos, es lo mismo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=spa&id=p38#p38"
+        },
+        {
+          "referencia": "Amós 3:7",
+          "texto": "Porque no hará nada Jehová el Señor sin que revele su secreto a sus siervos los profetas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "Doctrina y Convenios 21:4–6",
+          "texto": "Por tanto, vosotros, es decir, la iglesia, daréis oído a todas sus palabras y mandamientos que os dará según los reciba, andando delante de mí con toda santidad; porque recibiréis su palabra con toda fe y paciencia como si viniera de mi propia boca. Porque si hacéis estas cosas, las puertas del infierno no prevalecerán contra vosotros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=spa&id=p4-p6#p4"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Wilford Woodruff",
+      "fuente": "Enseñanzas de los presidentes de la Iglesia: Wilford Woodruff, 2005, pág. 207, citado en Principios del Evangelio, capítulo 9",
+      "texto": "El Señor jamás permitirá que yo ni ningún otro hombre que sea Presidente de esta Iglesia los desvíe. No es parte del programa. No es la intención de Dios. Si yo intentara tal cosa, el Señor me quitaría de mi lugar.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-9-prophets-of-god?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Las palabras de un profeta o apóstol viviente no son un comentario más entre muchos: el Señor las considera equivalentes a Su propia voz. El presidente Woodruff enseñó que el Señor nunca permitiría que un presidente de la Iglesia guiara a Su pueblo por mal camino. Esa promesa es justamente lo que hace valioso aprender a estudiar sus mensajes con profundidad, no solo escucharlos una vez. Elegí esta semana un discurso reciente de la conferencia general y aplicá los cuatro pasos de esta lección: empezar con una pregunta, estudiarlo a fondo, profundizar, y ponerlo en práctica."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Sueles ver o escuchar la conferencia general completa, o solo te enterás de fragmentos después?",
+        "¿Qué diferencia haría escuchar un discurso con una pregunta personal en mente, en vez de solo escuchar en general?",
+        "¿Alguna vez un mensaje de un líder de la Iglesia respondió algo que estabas necesitando justo en ese momento?",
+        "¿Qué te parece la promesa de que el Señor nunca permitiría que un profeta guíe a la Iglesia por mal camino?",
+        "¿Qué discurso reciente de la conferencia general te gustaría volver a estudiar en profundidad esta semana?",
+        "¿Con quién podrías compartir o enseñar ese mensaje esta semana, usando lo que aprendiste sobre cómo estudiarlo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

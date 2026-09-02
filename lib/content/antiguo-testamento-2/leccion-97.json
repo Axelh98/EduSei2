@@ -1,6 +1,53 @@
 {
   "id": "leccion-97",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Job era, según el propio relato, «un varón perfecto y recto» que temía a Dios y se apartaba del mal (Job 1:1). No hizo nada para merecer lo que le pasó después. En un mismo día perdió su ganado, sus siervos y a sus diez hijos, todos en distintas tragedias que llegaron una detrás de otra. Su reacción, en medio de ese dolor imposible de imaginar, fue postrarse y decir: «Jehová dio y Jehová quitó: ¡Bendito sea el nombre de Jehová!» (Job 1:21).\n\nPero la prueba de Job no terminó ahí. Poco después, su propio cuerpo se llenó de llagas dolorosas de pies a cabeza. Su esposa, viéndolo sufrir así, le dijo que maldijera a Dios y se dejara morir. Job respondió con una pregunta que revela el fondo de su fe: «¿Recibiremos de Dios el bien, y el mal no lo recibiremos?» (Job 2:10). Ni siquiera en ese punto, dice el texto, «pecó Job con sus labios».\n\nDespués llegaron sus amigos, que al principio simplemente se sentaron junto a él en silencio durante siete días, compartiendo su dolor sin hablar. Pero cuando empezaron a hablar, insistieron en que Job debía haber pecado gravemente para merecer tanto sufrimiento. Job se negó a aceptar esa explicación fácil, y aun sin entender por qué le pasaba lo que le pasaba, se aferró a lo único que tenía certeza: «Aunque él me matare, en él confiaré» (Job 13:15).\n\nJob no tenía todas las respuestas. No sabía por qué sufría, y el libro nunca se las da del todo. Lo que sí tenía era una relación con Dios lo suficientemente sólida como para sostenerse sin explicaciones. Vos probablemente ya atravesaste, o vas a atravesar, un dolor que no tiene una razón clara: una pérdida, una enfermedad, una injusticia. La historia de Job no promete respuestas fáciles. Promete que se puede seguir confiando en Dios incluso sin ellas."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Job 1:20–22",
+          "texto": "Entonces Job se levantó, y rasgó su manto, y se rapó la cabeza, y se postró en tierra y adoró, y dijo: Desnudo salí del vientre de mi madre y desnudo volveré allá. Jehová dio y Jehová quitó: ¡Bendito sea el nombre de Jehová! En todo esto no pecó Job ni atribuyó a Dios despropósito alguno.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/1?lang=spa&id=p20-p22#p20"
+        },
+        {
+          "referencia": "Job 2:9–10",
+          "texto": "Entonces le dijo su esposa: ¿Aún retienes tu integridad? Maldice a Dios, y muérete. Pero él le dijo: Has hablado como suele hablar cualquiera de las mujeres fatuas. ¿Pues qué? ¿Recibiremos de Dios el bien, y el mal no lo recibiremos? En todo esto no pecó Job con sus labios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/2?lang=spa&id=p9-p10#p9"
+        },
+        {
+          "referencia": "Job 13:15",
+          "texto": "He aquí, aunque él me matare, en él confiaré; pero defenderé delante de él mis caminos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/13?lang=spa&id=p15#p15"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dale G. Renlund",
+      "fuente": "«Confiar en Dios y dejar que Él prevalezca», Liahona, agosto de 2022",
+      "texto": "A Jesucristo le encanta restaurar lo que no podemos restaurar, sanar heridas que no podemos sanar, reparar lo que se ha quebrado y no tiene arreglo, y compensar cualquier injusticia que hayamos sobrellevado.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2022/08/03_trust-god-and-let-him-prevail?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Job perdió casi todo lo que tenía, y aun así se negó a soltar lo único que realmente importaba: su confianza en Dios. No porque entendiera su sufrimiento, sino porque conocía a Aquel a quien se lo confiaba. El élder Renlund enseñó que a Cristo le encanta restaurar lo que nosotros no podemos restaurar por nuestra cuenta. Eso no elimina el dolor mientras lo estás atravesando, pero sí cambia hacia dónde mirás mientras esperás. La próxima vez que enfrentes algo que no tiene explicación, elegí, como Job, seguir confiando aunque no tengas todas las respuestas."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué parte de la historia de Job te resultó más difícil de leer: la pérdida de sus hijos, su enfermedad, o la actitud de su esposa?",
+        "¿Cómo reaccionarías vos si perdieras en un solo día casi todo lo que tenés?",
+        "¿Alguna vez atravesaste un dolor o una pérdida para la que no tenías ninguna explicación clara?",
+        "¿Qué te parece la respuesta de Job a su esposa: '¿Recibiremos de Dios el bien, y el mal no lo recibiremos?'?",
+        "¿Hay algo en tu vida ahora mismo que estés atravesando sin entender del todo el porqué? ¿Qué podrías hacer esta semana para seguir confiando en medio de eso?",
+        "¿A quién conocés que esté atravesando un momento difícil, y cómo podrías acompañarlo esta semana en silencio, como hicieron al principio los amigos de Job?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

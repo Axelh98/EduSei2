@@ -1,6 +1,53 @@
 {
   "id": "leccion-117",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Isaías 25 no describe una batalla ni una advertencia: es un canto puro de alabanza, escrito como si el narrador ya estuviera viviendo el futuro que describe. En medio de ese canto aparece una de las promesas más consoladoras de todas las Escrituras: «Destruirá a la muerte para siempre, y enjugará Jehová el Señor toda lágrima de todos los rostros» (Isaías 25:8). No promete simplemente aliviar el dolor. Promete eliminar por completo su causa final: la muerte misma.\n\nPero antes de llegar a ese canto de victoria, hay un verbo que se repite y que fácilmente pasa desapercibido: «esperar». «He aquí, este es nuestro Dios, le hemos esperado, y nos salvará» (Isaías 25:9). Ese 'hemos esperado' no describe una espera pasiva, de brazos cruzados. En las Escrituras, esperar en el Señor significa sostener la esperanza activamente, seguir confiando y obedeciendo mientras la respuesta todavía no llega.\n\nEsperar es probablemente una de las cosas más difíciles que se te va a pedir hacer: esperar una respuesta a una oración que sentís urgente, esperar que una situación familiar mejore, esperar entender por qué las cosas no salen como pediste. El profeta Isaías lo repite en otro capítulo: «los que esperan en Jehová tendrán nuevas fuerzas; levantarán las alas como águilas» (Isaías 40:31). No dice que la espera sea fácil. Dice que, mientras esperás, Dios fortalece tu corazón, no solo tu paciencia.\n\nIsaías 25 no le pone fecha a la promesa. Pero sí garantiza que la espera tiene un final real, no eterno: un día, toda lágrima será enjugada. Mientras tanto, la invitación no es resignarte, sino esperar activamente, confiando en que Dios ya prometió Su parte."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 25:8–9",
+          "texto": "Destruirá a la muerte para siempre, y enjugará Jehová el Señor toda lágrima de todos los rostros; y quitará la afrenta de su pueblo de toda la tierra, porque Jehová lo ha dicho. Y se dirá en aquel día: He aquí, este es nuestro Dios, le hemos esperado, y nos salvará; este es Jehová; le hemos esperado, nos gozaremos y nos alegraremos en su salvación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=spa&id=p8-p9#p8"
+        },
+        {
+          "referencia": "Salmos 27:14",
+          "texto": "Espera en Jehová; esfuérzate, y él alentará tu corazón. Sí, espera en Jehová.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/27?lang=spa&id=p14#p14"
+        },
+        {
+          "referencia": "Isaías 40:31",
+          "texto": "Pero los que esperan en Jehová tendrán nuevas fuerzas; levantarán las alas como águilas; correrán y no se cansarán; caminarán y no se fatigarán.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=spa&id=p31#p31"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Robert D. Hales",
+      "fuente": "«Esperamos en el Señor: Hágase tu voluntad», Conferencia General, octubre de 2011",
+      "texto": "En las Escrituras, la palabra esperar significa tener esperanza, aguardar y confiar. Tener esperanza y confianza en el Señor requiere fe, paciencia, humildad, mansedumbre, conformidad, guardar los mandamientos y perseverar hasta el fin.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/waiting-upon-the-lord-thy-will-be-done?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías promete un futuro sin lágrimas ni muerte, pero no esconde que llegar ahí requiere esperar, a veces durante mucho tiempo. El élder Hales enseñó que 'esperar' en las Escrituras no es quedarse quieto, sino sostener esperanza, fe y obediencia mientras la respuesta todavía no llega. Si estás esperando algo ahora mismo —una respuesta, un cambio, una sanación—, la invitación de Isaías 25 no es que dejes de esperar, sino que esperes activamente, con la certeza de que Dios ya prometió Su parte."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué estás esperando ahora mismo en tu vida —una respuesta, un cambio, algo que todavía no llega?",
+        "¿Qué diferencia hay entre 'esperar' de brazos cruzados y 'esperar' activamente, con fe y obediencia?",
+        "¿Alguna vez una espera larga terminó fortaleciendo tu fe más de lo que una respuesta inmediata lo hubiera hecho?",
+        "¿Qué te genera la promesa de que un día Dios 'enjugará toda lágrima'?",
+        "¿Qué podrías hacer esta semana para 'esperar activamente' en algo que estás pidiendo en oración, en vez de solo esperar pasivamente?",
+        "¿A quién que esté atravesando una espera difícil podrías acompañar esta semana?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

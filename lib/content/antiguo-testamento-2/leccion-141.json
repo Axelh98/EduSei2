@@ -1,6 +1,53 @@
 {
   "id": "leccion-141",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "En su visión final, Ezequiel ve algo inesperado brotando del templo: agua que sale «de debajo del umbral de la casa», al principio apenas un hilo, pero que crece hasta convertirse en un río imposible de cruzar a pie (Ezequiel 47:1–5). No es agua de un río cercano desviada hacia el templo. Nace directamente del templo mismo, como si la fuente original de toda esa vida fuera el lugar más sagrado de todos.\n\nEl efecto de esa agua es literalmente transformador: «toda alma viviente que nade por dondequiera que entren estos dos ríos, vivirá... pues serán sanadas; y vivirá todo lo que entre en este río» (Ezequiel 47:9). Un agua que da vida a todo lo que toca, incluso en lugares que antes no podían sostener vida.\n\nJesús usó una imagen casi idéntica siglos después, hablando con una mujer samaritana junto a un pozo: «el que bebiere del agua que yo le daré no tendrá sed jamás, sino que el agua que yo le daré será en él una fuente de agua que brote para vida eterna» (Juan 4:14). El templo de Ezequiel y las palabras de Cristo apuntan a la misma verdad: hay una fuente de vida espiritual que no se agota, y que transforma todo lo que alcanza.\n\nEl templo actual funciona de manera parecida en tu propia vida. No es solo un edificio hermoso al que vas ocasionalmente. Es una fuente real de fortaleza espiritual que, cuando la dejás entrar, empieza como algo pequeño —una impresión, una paz momentánea— y va creciendo hasta volverse algo que sostiene toda tu vida, de la misma manera en que ese pequeño hilo de agua se convirtió en un río imposible de cruzar."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Ezequiel 47:1",
+          "texto": "Después, me hizo volver a la entrada de la casa; y he aquí aguas brotaban de debajo del umbral de la casa hacia el oriente, porque la fachada de la casa daba al oriente; y las aguas descendían desde debajo del lado derecho de la casa, por el costado sur del altar.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "Ezequiel 47:9",
+          "texto": "Y acontecerá que toda alma viviente que nade por dondequiera que entren estos dos ríos, vivirá; y habrá muchísimos peces por haber entrado allá estas aguas, pues serán sanadas; y vivirá todo lo que entre en este río.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Juan 4:14",
+          "texto": "Mas el que bebiere del agua que yo le daré no tendrá sed jamás, sino que el agua que yo le daré será en él una fuente de agua que brote para vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/4?lang=spa&id=p14#p14"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Russell M. Nelson",
+      "fuente": "«La preparación personal para las bendiciones del templo», Conferencia General, abril de 2001",
+      "texto": "El templo es la Casa del Señor. La base de toda ordenanza y convenio del templo —el corazón del Plan de Salvación— es la Expiación de Jesucristo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2001/04/personal-preparation-for-temple-blessings?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El agua de la visión de Ezequiel no viene de ningún lugar más que del templo mismo, y crece hasta dar vida a todo lo que toca. El élder Nelson enseñó que la base de toda ordenanza y convenio del templo es la Expiación de Jesucristo: la verdadera fuente de esa agua viva. Si todavía no experimentaste esa transformación de manera plena, empezá como empezó el río de Ezequiel: pequeño, con un solo paso, como aprender más sobre las ordenanzas del templo o hablar con tus padres o tu obispo sobre cómo prepararte."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué imagen te parece más poderosa: el pequeño hilo de agua que se convierte en un río imposible de cruzar, o la promesa de sanidad para todo lo que el agua toca?",
+        "¿Qué sentís cuando pensás en el templo: curiosidad, distancia, expectativa?",
+        "¿Alguna vez una impresión espiritual pequeña —como ese primer hilo de agua— creció hasta convertirse en algo que sostuvo una parte importante de tu vida?",
+        "¿Qué significa para vos que la Expiación de Jesucristo sea 'el corazón' de toda ordenanza del templo?",
+        "¿Qué paso pequeño y concreto podrías dar esta semana para prepararte mejor para las bendiciones del templo?",
+        "¿Con quién podrías hablar esta semana —tus padres, tu obispo— sobre tus propias metas relacionadas con el templo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

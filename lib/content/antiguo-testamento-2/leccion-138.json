@@ -1,6 +1,53 @@
 {
   "id": "leccion-138",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Señor le dio a Ezequiel un título específico para describir su papel como profeta: «Hijo de hombre, yo te he puesto por atalaya a la casa de Israel; oirás, pues, tú la palabra de mi boca y los amonestarás de mi parte» (Ezequiel 3:17). Un atalaya era el vigía que se paraba en lo más alto de la muralla de una ciudad, con la única tarea de detectar peligro antes de que llegara y avisar a tiempo para que la gente pudiera reaccionar.\n\nEsa responsabilidad venía con un peso real: «si tú no hablas para advertir al malvado de su camino, ese malvado morirá por su iniquidad, pero su sangre yo la demandaré de tu mano» (Ezequiel 33:8). No era opcional para Ezequiel avisar. Si veía el peligro y se quedaba callado, la responsabilidad de esa consecuencia recaía también sobre él.\n\nPero en medio de esa advertencia tan seria, Dios aclara algo fundamental sobre Su propio carácter: «no me complazco en la muerte del malvado, sino en que se vuelva el malvado de su camino y viva. ¡Volveos, volveos de vuestros malos caminos!» (Ezequiel 33:11). El propósito de la advertencia nunca fue castigar. Fue, siempre, dar la oportunidad de cambiar de rumbo a tiempo.\n\nLos profetas actuales cumplen exactamente ese mismo papel de atalaya: ven peligros espirituales —algunos obvios, otros todavía difíciles de reconocer para el resto— y advierten con anticipación, no porque disfruten señalar errores, sino porque genuinamente quieren que vivas y prosperes. La próxima vez que un consejo profético te resulte incómodo o hasta anticuado, valdría la pena preguntarte: ¿y si el atalaya está viendo algo que yo todavía no puedo ver desde donde estoy parado?"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Ezequiel 3:17",
+          "texto": "Hijo de hombre, yo te he puesto por atalaya a la casa de Israel; oirás, pues, tú la palabra de mi boca y los amonestarás de mi parte.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/3?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Ezequiel 33:7–9",
+          "texto": "A ti, pues, oh hijo de hombre, te he puesto como atalaya de la casa de Israel, y oirás la palabra de mi boca y les advertirás de mi parte. Cuando yo diga al malvado: Oh malvado, ciertamente morirás; si tú no hablas para advertir al malvado de su camino, ese malvado morirá por su iniquidad, pero su sangre yo la demandaré de tu mano. Pero si tú adviertes al malvado de su camino para que se aparte de él, y él no se aparta de su camino, él morirá por su iniquidad, y tú habrás librado tu vida.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/33?lang=spa&id=p7-p9#p7"
+        },
+        {
+          "referencia": "Ezequiel 33:11",
+          "texto": "Vivo yo, dice Jehová el Señor, que no me complazco en la muerte del malvado, sino en que se vuelva el malvado de su camino y viva. ¡Volveos, volveos de vuestros malos caminos!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/33?lang=spa&id=p11#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "«El profeta de Dios», Liahona, mayo de 2018",
+      "texto": "Un profeta no se interpone entre ustedes y el Salvador; más bien, permanece a su lado y señala el camino hacia el Salvador.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2018/05/saturday-morning-session/the-prophet-of-god?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Ezequiel no eligió ser atalaya porque disfrutara advertir a la gente sobre sus errores; lo hizo porque Dios mismo no se complace en el sufrimiento de nadie, sino en que la gente tenga la oportunidad de cambiar a tiempo. El élder Andersen enseñó que un profeta no se interpone entre vos y el Salvador, sino que se para a Su lado y señala el camino. La próxima vez que un profeta viviente advierta sobre algo, en vez de descartarlo por incómodo, preguntate qué peligro específico podría estar viendo desde su lugar de atalaya que vos todavía no alcanzás a ver."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece la imagen de un profeta como 'atalaya', alguien que ve peligros antes de que lleguen?",
+        "¿Alguna vez un consejo de un líder de la Iglesia te resultó incómodo al principio y después entendiste por qué era importante?",
+        "¿Qué te genera saber que Dios 'no se complace en la muerte del malvado', sino que genuinamente quiere que cambies de rumbo?",
+        "¿Qué diferencia hace pensar en las advertencias de los profetas como un acto de amor, y no de control?",
+        "¿Hay algún consejo profético actual que te está costando aceptar por completo? ¿Qué podrías hacer esta semana al respecto?",
+        "¿A quién podrías 'advertir' esta semana, con amor, sobre algo que ves que podría lastimarlo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

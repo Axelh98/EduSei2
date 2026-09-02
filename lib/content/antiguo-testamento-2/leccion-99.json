@@ -1,6 +1,53 @@
 {
   "id": "leccion-99",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Durante capítulos enteros, Job y sus tres amigos discutieron sobre por qué sufría. Sus amigos insistían en una fórmula simple: la gente buena prospera, la gente mala sufre, así que si Job estaba sufriendo tanto, algo debía haber hecho mal. Job se negó a aceptarlo, y con razón: él sabía que era inocente. Pero en el proceso, empezó a exigirle explicaciones a Dios, casi como si tuviera derecho a un juicio donde pudiera presentar su caso.\n\nEntonces, después de tantos capítulos de debate humano, Dios finalmente habla, y no da ninguna explicación sobre el sufrimiento de Job. En cambio, le hace una serie de preguntas imposibles de responder: «¿Dónde estabas tú cuando yo fundaba la tierra?... ¿Quién dispuso sus medidas?» (Job 38:4–5). Pregunta tras pregunta sobre el océano, las estrellas, los animales salvajes: cosas que Job nunca podría explicar ni controlar.\n\nLa respuesta de Job después de este torbellino de preguntas es la clave de todo el libro: «De oídas había oído de ti, mas ahora mis ojos te ven» (Job 42:5). No recibió una explicación de por qué sufrió. Recibió algo distinto: una visión más grande de quién es Dios, y eso, sorprendentemente, fue suficiente para traerle paz.\n\nA veces esperamos que Dios nos explique cada «por qué» de nuestra vida: por qué se enfermó esa persona, por qué se separaron tus papás, por qué no salió lo que tanto pediste en oración. La historia de Job sugiere algo distinto: quizás la paz no viene de tener todas las respuestas, sino de conocer mejor a Quien las tiene. Eso no hace que el dolor desaparezca, pero cambia el lugar desde donde lo enfrentás."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Job 38:4–7",
+          "texto": "¿Dónde estabas tú cuando yo fundaba la tierra? Házmelo saber, si tienes entendimiento. ¿Quién dispuso sus medidas, si lo sabes? ¿O quién extendió sobre ella cordel? ¿Sobre qué están fundadas sus bases? ¿O quién puso su piedra angular, cuando alababan todas las estrellas del alba, y se regocijaban todos los hijos de Dios?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/38?lang=spa&id=p4-p7#p4"
+        },
+        {
+          "referencia": "Job 42:5–6",
+          "texto": "De oídas había oído de ti, mas ahora mis ojos te ven. Por tanto, me aborrezco y me arrepiento en polvo y ceniza.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/42?lang=spa&id=p5-p6#p5"
+        },
+        {
+          "referencia": "Job 42:10",
+          "texto": "Y quitó Jehová la aflicción de Job, cuando este hubo orado por sus amigos, y aumentó al doble todas las cosas que habían sido de Job.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/42?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dallin H. Oaks",
+      "fuente": "«Sed de buen ánimo», Conferencia General, octubre de 2020",
+      "texto": "La tribulación y los desafíos son las experiencias comunes de la vida terrenal. La oposición es una parte esencial del plan divino para ayudarnos a crecer y, en medio de ese proceso, Dios nos asegura que, desde la larga perspectiva de la eternidad, no se permitirá que la oposición nos venza.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/36oaks?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Dios nunca le explicó a Job por qué sufrió. En cambio, le mostró la inmensidad de todo lo que Él sostiene y gobierna: el océano, las estrellas, los animales del desierto. Job no salió de esa experiencia con respuestas, sino con una relación más profunda con Dios: «ahora mis ojos te ven». El presidente Oaks enseñó que, desde la perspectiva eterna, la oposición no tiene el poder de vencernos. La próxima vez que le pidas a Dios un «por qué» y no llegue la respuesta, pedile en cambio que te muestre más de quién es Él."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te llamó más la atención de las preguntas que Dios le hizo a Job desde el torbellino?",
+        "¿Por qué crees que Dios respondió con preguntas sobre la creación en vez de explicarle a Job por qué sufría?",
+        "¿Alguna vez le pediste a Dios una explicación sobre algo difícil y no la recibiste?",
+        "¿Qué diferencia hay entre 'conocer de oídas' a Dios y 'verlo con tus propios ojos', como dice Job?",
+        "¿Qué podrías hacer esta semana para conocer mejor a Dios, en vez de solo buscar explicaciones a tus problemas?",
+        "¿A quién le podrías recordar esta semana que, aunque no tenga todas las respuestas, puede seguir confiando en Dios?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

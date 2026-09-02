@@ -1,6 +1,53 @@
 {
   "id": "leccion-120",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Isaías describe, con un tono casi irónico, cómo se fabricaba un ídolo en la antigüedad: alguien tomaba un árbol, usaba una parte para hacer fuego y cocinar su comida, y con el resto tallaba un dios al que después se inclinaba a adorar (Isaías 44:14–17). El mismo pedazo de madera servía para calentarse y para 'salvar'. Isaías no necesita explicar por qué eso es absurdo; simplemente lo describe, y el absurdo queda expuesto solo.\n\nFrente a esa clase de dioses fabricados, el Señor se presenta con una claridad total: «Yo soy el primero y yo soy el postrero, y fuera de mí no hay Dios» (Isaías 44:6). Y lo repite más adelante, casi con insistencia: «yo soy Dios, y no hay ningún otro; yo soy Dios, y nada hay semejante a mí» (Isaías 46:9).\n\nHoy nadie talla un ídolo de madera para adorarlo, pero la lógica de fondo sigue siendo exactamente la misma: cualquier cosa a la que le dediques la mayor parte de tu tiempo, tu identidad y tu confianza —un logro, una relación, una pantalla, una imagen que querés proyectar— puede convertirse en un ídolo moderno, aunque nunca lo llames así. La invitación de Isaías no cambia con el tiempo: «Volveos a mí y sed salvos, todos los confines de la tierra, porque yo soy Dios, y no hay ninguno más» (Isaías 45:22).\n\nLa pregunta que Isaías deja flotando no es si tenés un ídolo obvio como los de madera. Es más incómoda: ¿qué es lo primero a lo que recurrís cuando algo te preocupa, antes de recurrir a Dios?"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 44:6",
+          "texto": "Así dice Jehová, Rey de Israel y su Redentor, Jehová de los ejércitos: Yo soy el primero y yo soy el postrero, y fuera de mí no hay Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/44?lang=spa&id=p6#p6"
+        },
+        {
+          "referencia": "Isaías 46:9",
+          "texto": "Acordaos de las cosas pasadas desde los tiempos antiguos, porque yo soy Dios, y no hay ningún otro; yo soy Dios, y nada hay semejante a mí,",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/46?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Isaías 45:22",
+          "texto": "Volveos a mí y sed salvos, todos los confines de la tierra, porque yo soy Dios, y no hay ninguno más.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/45?lang=spa&id=p22#p22"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson (citando al presidente Ezra Taft Benson)",
+      "fuente": "«Vencer al mundo y hallar descanso», Conferencia General, octubre de 2022",
+      "texto": "Los hombres y las mujeres que entreguen su vida a Dios descubrirán que Él puede hacer mucho más con sus vidas que lo que ellos mismos pueden hacer.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/47nelson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El ídolo de madera de Isaías parece ridículo desde la distancia, pero el patrón detrás de él —confiar más en algo que fabricaste vos mismo que en Dios— sigue funcionando igual hoy. El presidente Nelson enseñó, citando al presidente Benson, que quienes entregan su vida a Dios descubren que Él puede hacer mucho más con ella de lo que ellos mismos podrían lograr solos. Esta semana, identificá una sola cosa —un logro, una relación, una pantalla— que ocupa más espacio del que debería en tu confianza diaria, y elegí conscientemente ponerla en segundo lugar."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece absurda o exagerada la imagen del ídolo de madera que Isaías describe con tanto detalle?",
+        "¿Qué es lo primero a lo que recurrís cuando algo te preocupa: una pantalla, una persona, una actividad, o Dios?",
+        "¿Alguna vez notaste que algo bueno en sí mismo —un logro, una relación— se había convertido en lo más importante de tu vida, desplazando a Dios?",
+        "¿Qué te parece la promesa de que Dios puede hacer más con tu vida de lo que vos podrías hacer solo?",
+        "¿Qué 'ídolo moderno' —no necesariamente algo malo en sí mismo— podrías poner esta semana en un segundo lugar, detrás de Dios?",
+        "¿Qué cambiaría en tu semana si de verdad pusieras a Dios primero antes de cualquier otra cosa?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

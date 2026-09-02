@@ -364,8 +364,8 @@
       "lessons": [
         {
           "id": "leccion-28-1",
-          "title": "Helamán 13–15",
-          "description": "Samuel el Lamanita profetiza sobre el muro. Advierte sobre el amor al oro y las riquezas.",
+          "title": "Helamán 13–16",
+          "description": "Samuel el Lamanita sube al muro de Zarahemla para predicar. Advierte sobre el juicio de Dios y promete misericordia a quien se arrepienta.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/371-teacher?lang=spa",
           "questionCount": 7,
@@ -373,8 +373,8 @@
         },
         {
           "id": "leccion-28-3",
-          "title": "Helamán 14, Parte 1",
-          "description": "Samuel profetiza las señales del nacimiento de Cristo. Habrá un día, noche y día sin obscuridad.",
+          "title": "Helamán 13, Parte 1",
+          "description": "Samuel advierte sobre la destrucción que espera al pueblo por su iniquidad, pero promete que el arrepentimiento revierte esa condena.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/372-teacher?lang=spa",
           "questionCount": 7,
@@ -382,21 +382,30 @@
         },
         {
           "id": "leccion-28-5",
-          "title": "Dominio de la doctrina: Helamán 14:29–31",
-          "description": "Estudio sobre el albedrío. Somos libres para escoger libertad y vida o cautividad y muerte.",
-          "type": "Dominio de la Doctrina",
+          "title": "Helamán 13, Parte 2",
+          "description": "Samuel advierte sobre las riquezas resbaladizas y el rechazo a los profetas vivos mientras se honra a los del pasado.",
+          "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/373-teacher?lang=spa",
           "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-28-7",
-          "title": "Helamán 14, Parte 2",
-          "description": "Samuel profetiza las señales de la muerte de Cristo. Tres días de tinieblas y destrucción.",
+          "title": "Helamán 14",
+          "description": "Samuel profetiza las señales del nacimiento y de la muerte de Cristo, y enseña sobre el albedrío para creer en ellas.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/374-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
+        },
+        {
+          "id": "leccion-28-9",
+          "title": "Repaso del Dominio de la doctrina 19 y 20",
+          "description": "Repaso de los pasajes de Dominio de la Doctrina estudiados hasta ahora, conectados entre sí para comprenderlos en conjunto.",
+          "type": "Repaso del Dominio de la doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/375-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
         }
       ]
     },
@@ -407,10 +416,46 @@
       "lessons": [
         {
           "id": "leccion-29-1",
-          "title": "Helamán 15–16",
-          "description": "Samuel es protegido milagrosamente. Los creyentes buscan a Nefi para bautizarse.",
+          "title": "3 Nefi 1",
+          "description": "Los creyentes esperan con fe el cumplimiento de la profecía de Samuel sobre el nacimiento de Cristo, mientras los incrédulos fijan un día para matarlos.",
           "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/37-helaman-13-16/375-teacher?lang=spa",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/381-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "leccion-29-2",
+          "title": "3 Nefi 2–5",
+          "description": "El pueblo se prepara espiritual y temporalmente ante la amenaza de los ladrones de Gadiantón, y el Señor los fortalece para vencer.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/382-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "leccion-29-3",
+          "title": "3 Nefi 6–7",
+          "description": "El orgullo surge después de la victoria y la paz, lleva a la división en clases sociales, y termina destruyendo el gobierno nefita.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/383-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "leccion-29-4",
+          "title": "Evalúa tu aprendizaje 7",
+          "description": "Repaso de Alma 53 a 3 Nefi 7: recordar las enseñanzas de los profetas Nefi y Samuel, y evaluar el fundamento espiritual construido hasta ahora.",
+          "type": "Evalúa tu aprendizaje",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/384-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "leccion-29-5",
+          "title": "Repaso del Dominio de la doctrina 21 y 22",
+          "description": "Repaso de los pasajes de Dominio de la Doctrina estudiados hasta ahora, con énfasis en aplicarlos a situaciones reales.",
+          "type": "Repaso del Dominio de la doctrina",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/385-teacher?lang=spa",
           "questionCount": 7,
           "hasStudy": true
         }
@@ -423,28 +468,46 @@
       "lessons": [
         {
           "id": "leccion-30-1",
-          "title": "3 Nefi 1",
-          "description": "Nefi clama al Señor. Se cumple la señal del nacimiento de Cristo con un día sin obscuridad.",
+          "title": "3 Nefi 8–10",
+          "description": "Se cumplen las señales de la muerte de Cristo: destrucción, tres días de oscuridad, y la voz del Salvador que lamenta e invita al arrepentimiento.",
           "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/381-teacher?lang=spa",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/39-3-nephi-8-11/391-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "leccion-30-2",
+          "title": "3 Nefi 11:1–11",
+          "description": "La multitud escucha la voz del Padre presentando a Su Hijo, y Cristo desciende y se identifica: \"Yo soy Jesucristo\".",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/39-3-nephi-8-11/392-teacher?lang=spa",
           "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-30-3",
-          "title": "Dominio de la doctrina: 3 Nefi 1:13–14",
-          "description": "La voz del Señor anuncia Su venida. Las promesas de Dios siempre se cumplen.",
+          "title": "Dominio de la doctrina: 3 Nefi 11:10–11",
+          "description": "Cristo respalda Su identidad con Su sometimiento total a la voluntad del Padre \"en todas las cosas desde el principio\".",
           "type": "Dominio de la Doctrina",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/382-teacher?lang=spa",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/39-3-nephi-8-11/393-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
+          "id": "leccion-30-4",
+          "title": "3 Nefi 11:12–17",
+          "description": "Cristo invita a la multitud, uno por uno, a palpar las marcas de los clavos en Sus manos y pies.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/39-3-nephi-8-11/394-teacher?lang=spa",
           "questionCount": 7,
           "hasStudy": true
         },
         {
           "id": "leccion-30-5",
-          "title": "3 Nefi 2–4",
-          "description": "El pueblo comienza a olvidar las señales. Los ladrones de Gadiántón son derrotados.",
+          "title": "3 Nefi 11:18–41",
+          "description": "Cristo da autoridad para bautizar y declara Su doctrina: fe, arrepentimiento, bautismo y el Espíritu Santo, sin lugar para disputas.",
           "type": "Libro de Mormón - Ven Sigueme",
-          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/38-3-nephi-1-7/383-teacher?lang=spa",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/39-3-nephi-8-11/395-teacher?lang=spa",
           "questionCount": 7,
           "hasStudy": true
         }
@@ -608,7 +671,7 @@
           "description": "Cristo define Su evangelio y enseña sobre el bautismo. Explica el arrepentimiento y la salvación.",
           "type": "Bloque de Escrituras - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/43-3-nephi-27-4-nephi/431-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -617,7 +680,7 @@
           "description": "Cristo enseña sobre el juicio final y ser como Él. Los discípulos deben seguir Su ejemplo.",
           "type": "Bloque de Escrituras - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/43-3-nephi-27-4-nephi/432-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -626,7 +689,7 @@
           "description": "Estudio sobre permanecer firmes y ser limpiados por la sangre de Cristo. El bautismo y el arrepentimiento son esenciales.",
           "type": "Dominio de la Doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/43-3-nephi-27-4-nephi/433-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -635,7 +698,7 @@
           "description": "Mormón enseña sobre la caridad, el amor puro de Cristo. La caridad nunca deja de ser.",
           "type": "Bloque de Escrituras - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/50-moroni-7-9/503-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -644,7 +707,7 @@
           "description": "Estudio profundo sobre la caridad como atributo divino. Se aprende a desarrollar amor puro.",
           "type": "Dominio de la Doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/50-moroni-7-9/504-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         }
       ]
@@ -660,7 +723,7 @@
           "description": "Mormón es llamado a llevar los registros sagrados. Describe la iniquidad creciente de su pueblo.",
           "type": "Bloque de Escrituras - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/44-mormon-1-6/441-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -669,7 +732,7 @@
           "description": "Moroni exhorta a buscar los dones del Espíritu. Invita a venir a Cristo.",
           "type": "Bloque de Escrituras - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/51-moroni-10/511-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -678,7 +741,7 @@
           "description": "Estudio sobre la promesa del Libro de Mormón. Se puede conocer la verdad por el poder del Espíritu Santo.",
           "type": "Dominio de la Doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/51-moroni-10/512-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -687,7 +750,7 @@
           "description": "Mormón rehúsa liderar al pueblo inicuo. Describe las terribles guerras y destrucción.",
           "type": "Bloque de Escrituras - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/44-mormon-1-6/442-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -696,7 +759,7 @@
           "description": "Continúa el relato de las guerras finales de los nefitas. Mormón lamenta la caída de su pueblo.",
           "type": "Bloque de Escrituras - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/44-mormon-1-6/443-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         }
       ]
@@ -712,7 +775,7 @@
           "description": "Mormón escribe a los lamanitas del futuro. Los invita a creer en Cristo y arrepentirse.",
           "type": "Bloque de Escrituras - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/45-mormon-7-9/451-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -721,7 +784,7 @@
           "description": "Moroni termina el registro de su padre. Describe la destrucción total de los nefitas.",
           "type": "Bloque de Escrituras - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/45-mormon-7-9/452-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -730,7 +793,7 @@
           "description": "Moroni profetiza sobre los últimos días. Advierte contra el orgullo y la incredulidad.",
           "type": "Bloque de Escrituras - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/45-mormon-7-9/453-teacher?lang=spa",
-          "questionCount": 5,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -739,7 +802,7 @@
           "description": "Repaso para prepararse para la evaluación. Consolida el aprendizaje del semestre.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/52-appendix/523-teacher?lang=spa",
-          "questionCount": 0,
+          "questionCount": 7,
           "hasStudy": true
         },
         {
@@ -748,7 +811,7 @@
           "description": "Evaluación final del semestre. Mide el entendimiento de los principios del Libro de Mormón.",
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/52-appendix/524-teacher?lang=spa",
-          "questionCount": 0,
+          "questionCount": 7,
           "hasStudy": true
         }
       ]

@@ -1,6 +1,46 @@
 {
   "id": "leccion-106",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Ya estudiaste varios pasajes de dominio de la doctrina en este curso: el Salmo 24:3–4 sobre manos limpias y corazón puro, Génesis 1:26–27 sobre ser creado a imagen de Dios, e Isaías 1:18 e Isaías 53:3–5 sobre el poder sanador y perdonador de Jesucristo. Esta práctica no agrega un pasaje nuevo; te da la oportunidad de usar los que ya conocés para responder preguntas reales.\n\nPor ejemplo: ¿qué le dirías a alguien que siente que no es lo suficientemente bueno para ir al templo? Isaías 1:18 responde eso directamente: «aunque vuestros pecados sean como la grana... como la nieve serán emblanquecidos». ¿Y a alguien que duda de que a Dios realmente le importe su dolor? Isaías 53:4 lo dice sin rodeos: «ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores». Dominar estos pasajes no significa solo memorizarlos: significa poder usarlos en el momento exacto en que alguien —quizás vos mismo— los necesite."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Salmos 24:3–4",
+          "texto": "¿Quién subirá al monte de Jehová? ¿Y quién estará en su lugar santo? El limpio de manos y puro de corazón, el que no ha elevado su alma a la vanidad ni jurado con engaño.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=spa&id=p3-p4#p3"
+        },
+        {
+          "referencia": "Isaías 1:18",
+          "texto": "Venid ahora, dice Jehová, y razonemos juntos: aunque vuestros pecados sean como la grana, como la nieve serán emblanquecidos; aunque sean rojos como el carmesí, vendrán a ser como blanca lana.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=spa&id=p18#p18"
+        },
+        {
+          "referencia": "Isaías 53:4–5",
+          "texto": "Ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores, y nosotros le tuvimos por azotado, herido por Dios y afligido. Mas él herido fue por nuestras transgresiones, molido por nuestras iniquidades; el castigo de nuestra paz fue sobre él, y por sus heridas fuimos nosotros sanados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=spa&id=p4-p5#p4"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Memorizar un pasaje de dominio de la doctrina no es el objetivo final: el objetivo es que esté disponible en tu mente y en tu corazón exactamente cuando lo necesites, sea para responder una pregunta difícil de un amigo o para recordarte a vos mismo una verdad en un momento de duda. Isaías 1:18 e Isaías 53:4–5 hablan del mismo Cristo que puede limpiar y sanar. Esta semana, elegí uno de los pasajes que ya estudiaste y practicá decirlo de memoria, pensando en una situación real donde podrías necesitarlo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál de los pasajes de dominio de la doctrina que estudiaste hasta ahora recordás con más facilidad?",
+        "¿Alguna vez usaste una Escritura para responder una pregunta difícil que te hizo un amigo?",
+        "¿Qué le dirías, usando Isaías 1:18, a alguien que siente que sus errores son demasiado grandes como para ser perdonados?",
+        "¿Qué le dirías, usando Isaías 53:4-5, a alguien que siente que a Dios no le importa su dolor?",
+        "¿Qué pasaje de dominio de la doctrina te gustaría practicar más esta semana, y con quién podrías practicarlo?",
+        "¿En qué situación de tu propia vida podrías necesitar recordar uno de estos versículos pronto?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

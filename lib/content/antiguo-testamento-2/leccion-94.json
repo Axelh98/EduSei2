@@ -1,6 +1,53 @@
 {
   "id": "leccion-94",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Ester era huérfana. Su primo Mardoqueo la había criado como su propia hija después de que sus padres murieran, en medio de una comunidad judía que vivía en el exilio persa, lejos de Jerusalén (Ester 2:5–7). Nada en su historia sugería que terminaría siendo reina de todo un imperio. Pero cuando el rey Asuero destituyó a la reina Vasti y ordenó buscar una nueva, Ester —sin planearlo, sin buscarlo— terminó siendo elegida.\n\nAños después, el primer ministro del rey, Amán, urdió un plan para exterminar a todos los judíos del imperio, sin saber que la propia reina era judía. Mardoqueo le pidió a Ester que intercediera ante el rey, algo que podía costarle la vida: nadie podía presentarse ante Asuero sin ser llamado, bajo pena de muerte. Ester dudó. Entonces Mardoqueo le envió un mensaje que se convirtió en una de las preguntas más poderosas de toda la Biblia: «¿Y quién sabe si para esta hora tú has llegado al reino?» (Ester 4:14).\n\nEsa pregunta cambia por completo la manera de leer toda la historia de Ester. Lo que parecía una serie de casualidades —quedar huérfana, ser elegida reina, estar en el lugar exacto en el momento exacto— empieza a verse como algo diseñado. Nada de lo que le pasó a Ester fue al azar.\n\nEs probable que tu vida no incluya salvar a una nación, pero sí incluye decisiones diarias sobre dónde estudiás, con quién te juntás, a qué actividades vas. La historia de Ester invita a hacerte la misma pregunta que le hizo Mardoqueo, aplicada a tu propia vida: ¿y si las circunstancias en las que estás ahora mismo —tu escuela, tu barrio, tu grupo de amigos— no son casualidad, sino el lugar exacto donde Dios necesita que estés?"
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Ester 2:5–7",
+          "texto": "Había un hombre judío en la ciudadela de Susa, cuyo nombre era Mardoqueo hijo de Jair, hijo de Simei, hijo de Cis, del linaje de Benjamín, que había sido llevado cautivo de Jerusalén con los cautivos que fueron llevados con Jeconías, rey de Judá, a quien Nabucodonosor, rey de Babilonia, llevó cautivo. Y había criado a Hadasa, es decir, Ester, hija de su tío, porque ella no tenía padre ni madre; y la joven era de hermosa figura y de buen parecer; y cuando su padre y su madre murieron, Mardoqueo la tomó como hija suya.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/esth/2?lang=spa&id=p5-p7#p5"
+        },
+        {
+          "referencia": "Ester 4:13–14",
+          "texto": "Entonces dijo Mardoqueo que respondiesen a Ester: No pienses en tu alma que, estando en la casa del rey, solo tú escaparás entre todos los judíos. Porque si permaneces callada en este tiempo, el alivio y la liberación de los judíos surgirán de otra parte; pero tú y la casa de tu padre pereceréis. ¿Y quién sabe si para esta hora tú has llegado al reino?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/esth/4?lang=spa&id=p13-p14#p13"
+        },
+        {
+          "referencia": "Ester 4:16",
+          "texto": "Ve y reúne a todos los judíos que se hallan en Susa, y ayunad por mí y no comáis ni bebáis en tres días, ni de noche ni de día. Yo también ayunaré con mis doncellas igualmente, y así entraré a ver al rey, aunque no sea conforme a la ley; y si perezco, que perezca.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/esth/4?lang=spa&id=p16#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Ronald A. Rasband",
+      "fuente": "«Por designio divino», Conferencia General, octubre de 2017",
+      "texto": "Nuestra vida es como un tablero de ajedrez y el Señor nos mueve de un lugar a otro, si es que somos receptivos a las impresiones del Espíritu.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/by-divine-design?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Ester no eligió ser huérfana, ni ser llevada al palacio, ni terminar coronada reina. Pero sí eligió qué hacer con la posición en la que Dios la había puesto, cuando llegó el momento de actuar. El élder Rasband comparó la vida con un tablero de ajedrez donde el Señor nos mueve según estemos dispuestos a escuchar Su Espíritu. Vos también estás en un lugar específico, con personas específicas, por una razón. Esta semana, prestá atención a una situación en la que quizás estés «para esta hora» exacta, y actuá en consecuencia."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué parte de la historia de Ester te sorprendió más: que fuera huérfana, que llegara a ser reina, o el mensaje de Mardoqueo?",
+        "Si estuvieras en el lugar de Ester, ¿qué hubieras sentido al recibir el mensaje de Mardoqueo pidiéndote que arriesgaras tu vida?",
+        "¿Alguna vez miraste hacia atrás y viste que una situación que no elegiste terminó siendo importante para ayudar a alguien?",
+        "¿Qué significa para vos la pregunta '¿y quién sabe si para esta hora tú has llegado a este lugar?' aplicada a tu propia vida ahora mismo?",
+        "¿En qué lugar concreto de tu vida —tu escuela, tu familia, tu grupo de amigos— podrías estar 'para esta hora', y qué podrías hacer ahí esta semana?",
+        "¿A quién podrías ayudar esta semana precisamente porque estás en el lugar correcto para hacerlo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

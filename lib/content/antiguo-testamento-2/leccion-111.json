@@ -1,6 +1,53 @@
 {
   "id": "leccion-111",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El autor de Eclesiastés —tradicionalmente identificado como Salomón, el rey más rico y sabio de Israel— tuvo acceso a todo lo que el mundo antiguo podía ofrecer: riquezas, proyectos grandiosos, placer, conocimiento, poder. Lo probó todo, sistemáticamente, como un experimento. Y al final de ese experimento, su conclusión es sorprendentemente honesta: «vanidad de vanidades... todo es vanidad» (Eclesiastés 1:2), es decir, todo eso, sin Dios en el centro, terminaba siendo tan difícil de retener como intentar agarrar el viento con las manos.\n\nNo es un libro cínico ni deprimente, aunque a veces suena así. Es el testimonio de alguien que probó cada camino que promete llenar el vacío interior —éxito, placer, posesiones— y descubrió que ninguno, por sí solo, alcanza. La conclusión final del libro, después de tantos capítulos de búsqueda, es directa: «Teme a Dios y guarda sus mandamientos, porque esto es el todo del hombre. Porque Dios traerá toda obra a juicio» (Eclesiastés 12:13–14).\n\nEl Libro de Mormón enseña algo muy parecido, con otras palabras: «esta vida es cuando el hombre debe prepararse para comparecer ante Dios; sí, el día de esta vida es el día en que el hombre debe ejecutar su obra» (Alma 34:32). Ambos textos apuntan a la misma idea: las decisiones que tomás ahora, hoy, en cosas que a veces parecen pequeñas, importan de una manera que trasciende el momento presente.\n\nEs fácil, sobre todo siendo joven, pensar que la felicidad está en la próxima cosa que vas a lograr o conseguir: el próximo logro, la próxima relación, el próximo objeto. Eclesiastés, escrito por alguien que ya tuvo todo eso, advierte que ese camino termina siempre en el mismo lugar vacío, a menos que Dios esté en el centro de la búsqueda."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Eclesiastés 1:2",
+          "texto": "Vanidad de vanidades, dice el Predicador; vanidad de vanidades, todo es vanidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/eccl/1?lang=spa&id=p2#p2"
+        },
+        {
+          "referencia": "Eclesiastés 12:13–14",
+          "texto": "El fin de todo este asunto que has oído es este: Teme a Dios y guarda sus mandamientos, porque esto es el todo del hombre. Porque Dios traerá toda obra a juicio, junto con toda cosa oculta, buena o mala.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/eccl/12?lang=spa&id=p13-p14#p13"
+        },
+        {
+          "referencia": "Alma 34:32",
+          "texto": "Porque he aquí, esta vida es cuando el hombre debe prepararse para comparecer ante Dios; sí, el día de esta vida es el día en que el hombre debe ejecutar su obra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p32#p32"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«¡Piensen de manera celestial!», Conferencia General, octubre de 2023",
+      "texto": "Esto significa hacer del Reino Celestial su meta eterna y luego pensar detenidamente a dónde los llevará en el mundo venidero cada una de las decisiones que tomen mientras estén aquí en la tierra.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/51nelson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Salomón tuvo acceso a todo lo que el mundo antiguo podía ofrecer, y su conclusión final no fue 'consigan más', sino 'teme a Dios y guarda sus mandamientos'. El presidente Nelson enseñó algo parecido con otras palabras: pensar con el fin en mente, haciendo del Reino Celestial la meta y evaluando cada decisión terrenal según hacia dónde te lleva en la eternidad. La próxima vez que sientas que 'con una cosa más' por fin vas a estar completo, recordá la conclusión de Eclesiastés: esa sensación no se llena con más cosas, se llena con Dios."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué cosa material o logro pensás a veces que te haría 'por fin' feliz si lo consiguieras?",
+        "¿Por qué crees que alguien que tuvo acceso a todo lo que quiso, como Salomón, terminó concluyendo que todo era 'vanidad'?",
+        "¿Alguna vez conseguiste algo que esperabas mucho y, al lograrlo, sentiste que no llenaba lo que pensabas que iba a llenar?",
+        "¿Qué significa para vos 'pensar con el fin en mente', evaluando tus decisiones de hoy según hacia dónde te llevan en la eternidad?",
+        "¿Qué decisión de esta semana podrías tomar pensando más en el largo plazo eterno, y no solo en lo que se siente bien ahora?",
+        "¿Qué es algo verdaderamente eterno —no una cosa material— en lo que podrías invertir más tiempo esta semana?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

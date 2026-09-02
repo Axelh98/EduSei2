@@ -1,6 +1,53 @@
 {
   "id": "leccion-92",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Setenta años antes, los babilonios habían arrasado Jerusalén y destruido el templo de Salomón. Miles de israelitas fueron llevados cautivos a una tierra extraña, sin templo, sin rey, y con la sensación de que Dios los había abandonado. Pero en el primer año del rey persa Ciro, algo inesperado ocurrió: el Señor despertó el espíritu de un rey pagano para cumplir una profecía escrita décadas antes por Jeremías. Ciro emitió un decreto sorprendente: cualquier judío que quisiera podía regresar a Jerusalén y reconstruir la casa de Jehová (Esdras 1:1–3). No fue un ejército el que liberó a Israel, sino la palabra de Dios cumpliéndose en el corazón de un extranjero.\n\nMiles de personas eligieron volver. El viaje era largo, la ciudad estaba en ruinas y la tarea, enorme. Reconstruir el templo tomó años, enfrentó oposición constante y más de una vez el trabajo se detuvo por completo. Pero cuando finalmente terminaron la casa de Dios, el relato dice que israelitas, sacerdotes y levitas «celebraron con gozo la dedicación de esta casa de Dios» (Esdras 6:16). Después de siete décadas de exilio, de creer que todo estaba perdido, volvieron a tener un lugar sagrado donde adorar.\n\nLa historia de Esdras es la historia de una restauración: no solo de un edificio, sino de la fe de un pueblo entero. Es fácil pensar que ese tipo de restauración solo pasa en la Biblia. Pero probablemente conocés esa sensación de que algo se rompió —una relación, una amistad, tu propia confianza en vos mismo— y sentís que ya no se puede arreglar. La historia de Esdras enseña algo distinto: el Señor puede levantar de las ruinas lo que parecía perdido para siempre, si Su pueblo elige, como esos primeros exiliados, volver y empezar a reconstruir."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Esdras 1:1–3",
+          "texto": "Y en el primer año de Ciro, rey de Persia, para que se cumpliese la palabra de Jehová por boca de Jeremías, Jehová despertó el espíritu de Ciro, rey de Persia, el cual hizo una proclamación por todo su reino y también lo hizo por escrito, diciendo: Así ha dicho Ciro, rey de Persia: Jehová, Dios de los cielos, me ha dado todos los reinos de la tierra, y él me ha encargado que le edifique una casa en Jerusalén, que está en Judá. Quien haya entre vosotros de todo su pueblo, sea Dios con él, y suba a Jerusalén que está en Judá, y edifique la casa de Jehová Dios de Israel (él es el Dios), la cual está en Jerusalén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezra/1?lang=spa&id=p1-p3#p1"
+        },
+        {
+          "referencia": "Esdras 6:15–16",
+          "texto": "Y esta casa fue terminada el tercer día del mes de Adar, que era el sexto año del reinado del rey Darío. Y los hijos de Israel, los sacerdotes, y los levitas y los demás que habían regresado de la cautividad celebraron con gozo la dedicación de esta casa de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezra/6?lang=spa&id=p15-p16#p15"
+        },
+        {
+          "referencia": "Esdras 6:22",
+          "texto": "Y celebraron con regocijo la fiesta de los panes sin levadura durante siete días, por cuanto Jehová los había alegrado y había vuelto el corazón del rey de Asiria hacia ellos, para fortalecer sus manos en la obra de la casa de Dios, el Dios de Israel.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezra/6?lang=spa&id=p22#p22"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Palabras de clausura», Conferencia General, octubre de 2019",
+      "texto": "En cierto modo, es más fácil edificar un templo que edificar a un pueblo que esté preparado para el templo. La dignidad personal exige una conversión total de la mente y el corazón para ser más como el Señor, ser un ciudadano honrado, un mejor ejemplo y una persona más santa.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/10/57nelson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Israel pasó setenta años lejos de su templo, pero nunca estuvo lejos de la memoria de Dios. El decreto de Ciro, la reconstrucción entre oposición y la alegría final en la dedicación muestran un patrón que se repite en la vida de cualquier persona: Dios puede restaurar lo que parece irremediablemente roto, pero primero necesita gente dispuesta a volver y a trabajar, aunque el proceso sea lento y difícil. El presidente Nelson enseñó que edificar un templo es más fácil que edificar a un pueblo preparado para él —y lo mismo aplica a reconstruir tu propia vida espiritual. Elegí hoy un área de tu vida que sentís en ruinas y dale el primer paso de reconstrucción."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué parte de la historia de Esdras te llamó más la atención: el decreto de Ciro, el viaje de regreso o la celebración final? ¿Por qué?",
+        "Si hubieras sido uno de los judíos en Babilonia, ¿te hubieras animado a dejar todo y volver a reconstruir Jerusalén? ¿Qué te hubiera hecho dudar?",
+        "¿Alguna vez sentiste que algo en tu vida —una relación, un hábito, tu fe— estaba tan roto que no valía la pena intentar reconstruirlo?",
+        "El presidente Nelson dijo que es más difícil edificar a un pueblo preparado que edificar un templo. ¿Qué significa 'prepararte' vos mismo para algo sagrado?",
+        "¿Qué 'ruina' concreta de tu vida podrías empezar a reconstruir esta semana, aunque sea con un paso pequeño?",
+        "¿A quién podrías pedirle ayuda esta semana para reconstruir algo que sentís roto, así como Israel no reconstruyó el templo solo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

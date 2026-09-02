@@ -1,6 +1,53 @@
 {
   "id": "leccion-136",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Lamentaciones se escribió después de que Jerusalén fue completamente destruida, la peor tragedia que el pueblo de Judá había vivido. El libro no esconde ese dolor con palabras suaves: «Por esta causa lloro; mis ojos, mis ojos destilan lágrimas, porque se ha alejado de mí el consolador que da reposo a mi alma» (Lamentaciones 1:16). Es un llanto real, sin filtro, de alguien que perdió absolutamente todo.\n\nY sin embargo, en medio de ese mismo libro, aparece uno de los versículos más citados de toda la Biblia sobre la esperanza: «Por la misericordia de Jehová no hemos sido consumidos, porque nunca terminan sus misericordias. Nuevas son cada mañana; grande es tu fidelidad» (Lamentaciones 3:22–23). No es una negación del dolor del capítulo 1. Es una verdad que convive con ese dolor: las misericordias de Dios no se agotaron junto con la ciudad destruida. Se renuevan todos los días, sin excepción.\n\nEl mismo capítulo aclara algo importante sobre el carácter de Dios: «el Señor no desechará para siempre... él no aflige ni entristece voluntariamente a los hijos de los hombres» (Lamentaciones 3:31,33). Dios no disfruta tu sufrimiento ni busca prolongarlo. Cuando permite aflicción, lo hace con un propósito, y siempre acompañado de compasión.\n\nVos probablemente todavía no atravesaste algo tan extremo como la destrucción de una ciudad entera, pero seguro conocés días donde sentís que perdiste algo importante: una amistad, una oportunidad, la confianza en vos mismo. Lamentaciones no te pide fingir que no duele. Te ofrece algo más honesto: que en medio del llanto real, todavía podés recordar que las misericordias de Dios llegan de nuevo, cada mañana, sin falta."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Lamentaciones 1:16",
+          "texto": "Por esta causa lloro; mis ojos, mis ojos destilan lágrimas, porque se ha alejado de mí el consolador que da reposo a mi alma. Mis hijos están desolados, porque el enemigo ha prevalecido.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=spa&id=p16#p16"
+        },
+        {
+          "referencia": "Lamentaciones 3:22–23",
+          "texto": "Por la misericordia de Jehová no hemos sido consumidos, porque nunca terminan sus misericordias. Nuevas son cada mañana; grande es tu fidelidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/lam/3?lang=spa&id=p22-p23#p22"
+        },
+        {
+          "referencia": "Lamentaciones 3:31–33",
+          "texto": "Porque el Señor no desechará para siempre; antes bien, si aflige, también se compadecerá según la multitud de sus misericordias. Porque él no aflige ni entristece voluntariamente a los hijos de los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/lam/3?lang=spa&id=p31-p33#p31"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Dale G. Renlund",
+      "fuente": "«El arrepentimiento: Una gozosa elección», Conferencia General, octubre de 2016",
+      "texto": "Jesucristo puede perdonar porque Él pagó el precio por nuestros pecados... Nuestro Salvador desea perdonar porque ese es uno de Sus atributos divinos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2016/10/repentance-a-joyful-choice?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Lamentaciones no le pide a nadie que finja estar bien: describe el llanto real de un pueblo que lo perdió todo, y aun así encuentra, en medio de ese mismo dolor, la certeza de que las misericordias de Dios se renuevan cada mañana. El élder Renlund enseñó que Cristo no solo puede perdonar, sino que desea perdonar, porque eso es parte de quién Él es. Si estás cargando dolor o culpa esta semana, no necesitás resolverlo todo de una vez. Solo necesitás recordar que mañana, las misericordias de Dios van a llegar otra vez, nuevas."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece que Lamentaciones no esconda el dolor real, sino que lo describa sin filtros?",
+        "¿Alguna vez sentiste, en medio de un momento difícil, que las misericordias de Dios 'se renovaban' de alguna manera concreta?",
+        "¿Qué significa para vos que Dios 'no aflige ni entristece voluntariamente', es decir, que no disfruta tu sufrimiento?",
+        "¿Qué diferencia hace saber que Cristo no solo puede perdonar, sino que desea hacerlo?",
+        "¿Qué dolor o pérdida estás cargando ahora mismo que podrías entregarle a Dios esta semana, confiando en Sus misericordias renovadas?",
+        "¿A quién que esté atravesando un duelo o una pérdida podrías recordarle esta semana esta misma esperanza?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

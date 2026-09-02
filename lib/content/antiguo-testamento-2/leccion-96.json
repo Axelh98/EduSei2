@@ -1,6 +1,46 @@
 {
   "id": "leccion-96",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Ya recorriste un buen tramo del curso: desde Elías desafiando a los profetas de Baal, pasando por Eliseo y su siervo rodeados por un ejército invisible de ángeles, hasta Ester arriesgando su vida por su pueblo. Cada una de esas historias mostró una misma verdad repetida de distintas formas: el Señor está presente incluso cuando parece que la situación no tiene salida. David le dijo a Goliat: «Tú vienes a mí con espada y lanza... mas yo vengo a ti en el nombre de Jehová» (1 Samuel 17:45). El siervo de Eliseo escuchó: «No tengas miedo, porque son más los que están con nosotros» (2 Reyes 6:16). Y Ester decidió actuar con fe, «aunque no sea conforme a la ley» (Ester 4:16).\n\nUna lección de evaluación no es un examen para aprobar o reprobar: es una pausa para mirar hacia atrás y notar qué verdad de todas estas historias realmente se te quedó grabada, y cuál todavía necesitás dejar que cambie algo en tu vida."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "1 Samuel 17:45",
+          "texto": "Tú vienes a mí con espada y lanza y jabalina; mas yo vengo a ti en el nombre de Jehová de los ejércitos, el Dios de los escuadrones de Israel, a quien tú has provocado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/17?lang=spa&id=p45#p45"
+        },
+        {
+          "referencia": "2 Reyes 6:16",
+          "texto": "Y él le dijo: No tengas miedo, porque son más los que están con nosotros que los que están con ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/6?lang=spa&id=p16#p16"
+        },
+        {
+          "referencia": "Ester 4:16",
+          "texto": "Ve y reúne a todos los judíos que se hallan en Susa, y ayunad por mí y no comáis ni bebáis en tres días, ni de noche ni de día. Yo también ayunaré con mis doncellas igualmente, y así entraré a ver al rey, aunque no sea conforme a la ley; y si perezco, que perezca.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/esth/4?lang=spa&id=p16#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El valor de estas lecciones no está en poder repetir de memoria los nombres o los versículos, sino en si esas historias cambiaron algo en cómo enfrentás tus propios desafíos. David confió antes de tener la victoria asegurada. El siervo de Eliseo aprendió a ver lo que no se veía. Ester actuó con miedo pero con fe. Tomate un momento hoy para identificar cuál de esas tres actitudes más necesitás practicar esta semana."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "De todas las historias que estudiaste en esta unidad —Elías, Eliseo, Ezequías, Ester—, ¿cuál recordás con más claridad?",
+        "¿Qué historia te costó más entender o te generó más preguntas?",
+        "¿Hubo algún momento, en estas últimas semanas, en que sentiste que el Señor 'peleaba tus batallas' como le pasó a David o al siervo de Eliseo?",
+        "¿Qué verdad de esta unidad crees que todavía no aplicaste realmente en tu vida?",
+        "¿Qué meta pequeña y concreta podrías ponerte esta semana a partir de algo que aprendiste en estas lecciones?",
+        "¿A quién podrías contarle una de estas historias esta semana, y por qué elegirías esa en particular?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

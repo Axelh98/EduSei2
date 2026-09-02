@@ -34,7 +34,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La ley superior que enseña Cristo no agrega más reglas para cumplir por fuera; cambia el lugar donde mira. No alcanza con no matar si el corazón sigue lleno de enojo; no alcanza con no cometer adulterio si la mente elige alimentar pensamientos que van en esa dirección. Ser 'perfecto' en este pasaje no significa nunca fallar, sino avanzar en la misma dirección que el Padre: de adentro hacia afuera. Esta semana, elegí un área donde venís cumpliendo 'la letra' de un mandamiento, y preguntate con honestidad qué pasa realmente en tu corazón respecto a eso."
+      "contenido": "La ley superior que enseña Cristo no agrega más reglas para cumplir por fuera; cambia el lugar donde mira. No alcanza con no matar si el corazón sigue lleno de enojo; no alcanza con no cometer adulterio si la mente elige alimentar pensamientos que van en esa dirección. Ser 'perfecto' en este pasaje no significa nunca fallar, sino avanzar en la misma dirección que el Padre: de adentro hacia afuera. El desafío para esta semana: elegí un área donde venís cumpliendo 'la letra' de un mandamiento, y preguntate con honestidad qué pasa realmente en tu corazón respecto a eso."
     },
     {
       "tipo": "cuestionario",
@@ -99,19 +99,19 @@
       "options": [
         "Que como nunca actuó con violencia física, no tiene nada que trabajar en ese tema",
         "Que Cristo enseña que el enojo guardado en el corazón también necesita atención, no solo evitar la violencia física",
-        "Que el resentimiento no tiene ninguna relación con este pasaje",
+        "Que el resentimiento solo es un problema si finalmente termina en un acto de violencia",
         "Que sentir resentimiento es igual de grave que cometer un delito"
       ],
       "correctAnswer": 1
     },
     {
       "id": 6,
-      "question": "Sofía piensa que 'ser perfecta' significa no volver a equivocarse nunca a partir de hoy, y eso la desanima porque le parece imposible. Según la cita del élder Holland sobre 'un refinamiento que se completará' y el contexto de 3 Nefi 12:48, ¿qué le ayudaría?",
+      "question": "Ana piensa que 'ser perfecta' significa no volver a equivocarse nunca a partir de hoy, y eso la desanima porque le parece imposible. Según la cita del élder Holland sobre 'un refinamiento que se completará' y el contexto de 3 Nefi 12:48, ¿qué le ayudaría?",
       "options": [
         "Que tiene razón en desanimarse, porque la perfección se exige de forma inmediata",
         "Que la perfección que enseña Cristo es un proceso de refinamiento continuo, que se completará plenamente solo a través de Él, y no una exigencia de no fallar nunca desde ya",
         "Que mejor abandone el esfuerzo, ya que de todos modos es imposible",
-        "Que la perfección no tiene relación con el proceso de crecimiento espiritual"
+        "Que alcanzar la perfección depende únicamente de cuánto tiempo lleve una persona siendo miembro de la Iglesia"
       ],
       "correctAnswer": 1
     },
@@ -122,7 +122,7 @@
         "Que las acciones externas son lo único que Dios evalúa realmente",
         "Que la verdadera obediencia nace de transformar el corazón, y ese proceso de transformación apunta hacia llegar a ser como el Padre",
         "Que la ley de Moisés y la ley superior de Cristo son exactamente lo mismo",
-        "Que el enojo y la perfección son temas sin ninguna relación entre sí"
+        "Que controlar el enojo es un mandamiento aparte, sin conexión con el llamado a ser perfectos"
       ],
       "correctAnswer": 1
     }

@@ -1,6 +1,53 @@
 {
   "id": "leccion-183",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Dios conoce cada uno de tus pensamientos, incluso antes de que los termines de formar: «Tú has conocido mi sentar y mi levantar; desde lejos has entendido mis pensamientos» (Salmo 139:2). Esa idea puede sonar incómoda si estás acostumbrado a pensamientos duros sobre vos mismo —que no sos suficiente, que siempre arruinás todo, que nadie te entiende—, pero en realidad es una buena noticia: significa que no estás solo ni siquiera dentro de tu propia cabeza.\n\nEl profeta Isaías prometió algo específico para quien elige dónde poner su mente: «Tú guardarás en completa paz a aquel cuyo pensamiento en ti se apoya» (Isaías 26:3). No promete eliminar los pensamientos difíciles, sino ofrece un lugar concreto adonde llevarlos. El Señor mismo lo dijo de manera todavía más directa en una revelación moderna: «Mirad hacia mí en todo pensamiento; no dudéis; no temáis» (D&C 6:36).\n\nLos pensamientos negativos repetidos —esa voz interna que te dice que fallaste, que no valés, que todo va a salir mal— no son simplemente «cosas de la mente» sin importancia. Con el tiempo moldean cómo te sentís y cómo actuás. La buena noticia es que esos patrones se pueden entrenar, igual que un músculo, y el Evangelio ofrece herramientas concretas —oración, Escrituras, música sagrada— para redirigir la mente hacia algo más verdadero que el pensamiento negativo del momento."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Salmos 139:1–3",
+          "texto": "Oh Jehová, tú me has escudriñado y conocido. Tú has conocido mi sentar y mi levantar; desde lejos has entendido mis pensamientos. Has escudriñado mi andar y mi reposo, y todos mis caminos te son conocidos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/139?lang=spa&id=p1-p3#p1"
+        },
+        {
+          "referencia": "Isaías 26:3–4",
+          "texto": "Tú guardarás en completa paz a aquel cuyo pensamiento en ti se apoya, porque en ti ha confiado. Confiad en Jehová para siempre, porque en Jehová el Señor está la fortaleza sempiterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/26?lang=spa&id=p3-p4#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 6:36–37",
+          "texto": "Mirad hacia mí en todo pensamiento; no dudéis; no temáis. Mirad las heridas que traspasaron mi costado, y también las marcas de los clavos en mis manos y pies; sed fieles; guardad mis mandamientos y heredaréis el reino de los cielos. Amén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=spa&id=p36-p37#p36"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "«Al concentrarse mi mente en pensar en Jesucristo», Conferencia General, abril de 2023",
+      "texto": "Ocupar la mente con el poder de Jesucristo no significa que Él sea el único pensamiento que tengamos, sino que significa que todos nuestros pensamientos estén circunscritos a Su amor, Su vida, Sus enseñanzas, Su sacrificio expiatorio y Su gloriosa resurrección... Son bien recibidos en la mente imágenes divinas, pasajes sagrados de las Escrituras e himnos inspirados que suavizan con ternura el sinfín de pensamientos diarios que se precipitan en nuestra vida ajetreada.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/45andersen?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "No podés controlar cada pensamiento que aparece en tu mente, pero sí podés elegir qué hacer con él y hacia dónde redirigirlo. El élder Andersen enseñó que ocupar la mente con Cristo no significa pensar solo en Él todo el tiempo, sino dejar que Su amor y Sus enseñanzas suavicen los pensamientos difíciles cuando aparecen. Dios ya conoce cada uno de tus pensamientos y aun así te ofrece paz. La próxima vez que una idea negativa sobre vos mismo se repita en tu cabeza, probá reemplazarla, aunque sea por unos segundos, con una Escritura, un himno o una oración corta."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué tipo de pensamientos sobre vos mismo se te repiten más seguido, buenos o negativos?",
+        "¿Alguna vez notaste que un pensamiento negativo cambió cómo actuaste ese día?",
+        "¿Qué herramientas —música, oración, Escrituras— te han ayudado antes a cambiar un mal momento mental?",
+        "¿Qué te genera saber que Dios conoce cada uno de tus pensamientos, incluso los difíciles?",
+        "¿Qué podrías hacer esta semana la próxima vez que aparezca un pensamiento negativo repetido, según lo que enseña el élder Andersen?",
+        "¿A quién podrías contarle esta semana si notás que tus pensamientos se están volviendo demasiado negativos?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

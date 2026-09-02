@@ -1,6 +1,53 @@
 {
   "id": "leccion-181",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Justo antes de que Josué tuviera que asumir el liderazgo de todo Israel —una tarea que Moisés había cargado durante cuarenta años—, el Señor le dio una instrucción que se repite tres veces en el mismo capítulo: «Esfuérzate y sé valiente» (Josué 1:6–9). No era un simple ánimo motivacional. Era una promesa concreta: «Jehová tu Dios estará contigo por dondequiera que vayas» (Josué 1:9). Josué no recibió la garantía de que todo sería fácil; recibió la garantía de que no estaría solo.\n\nSiglos después, el profeta Isaías usó una imagen que cualquier persona cansada puede entender: «los que esperan en Jehová tendrán nuevas fuerzas; levantarán las alas como águilas» (Isaías 40:31). Y Jesús mismo, la noche antes de Su crucifixión, les dejó a Sus discípulos algo que ninguna otra fuente puede ofrecer de la misma manera: «La paz os dejo, mi paz os doy... No se turbe vuestro corazón ni tenga miedo» (Juan 14:27).\n\nLa ansiedad, el estrés y los días en que todo se siente demasiado pesado no son señal de que algo esté mal con tu fe. Son parte de vivir en un mundo real, con presión escolar, cambios en tu cuerpo, conflictos familiares y la sensación constante de que tenés que tenerlo todo resuelto. La diferencia no está en eliminar esas emociones, sino en saber a quién recurrir cuando aparecen."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 40:29–31",
+          "texto": "Él da fuerzas al cansado y multiplica las fuerzas del que no tiene vigor. Los muchachos se fatigan y se cansan; los jóvenes ciertamente caen; pero los que esperan en Jehová tendrán nuevas fuerzas; levantarán las alas como águilas; correrán y no se cansarán; caminarán y no se fatigarán.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=spa&id=p29-p31#p29"
+        },
+        {
+          "referencia": "Juan 14:27",
+          "texto": "La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón ni tenga miedo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "Isaías 43:1–2",
+          "texto": "Y ahora, así dice Jehová, Creador tuyo, oh Jacob, y Formador tuyo, oh Israel: No temas, porque yo te he redimido; te puse nombre; mío eres tú. Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás ni la llama arderá en ti.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=spa&id=p1-p2#p1"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "«Torbellinos espirituales», Conferencia General, abril de 2014",
+      "texto": "Ustedes son infinitamente más preciados para Dios que un árbol; son Su hijo o Su hija. Él creó su espíritu fuerte y capaz de ser resistente ante los torbellinos de la vida.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/04/spiritual-whirlwinds?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Tu fortaleza emocional no depende de nunca sentirte abrumado, sino de saber dónde apoyarte cuando eso pase. El élder Andersen comparó a los jóvenes con árboles diseñados para resistir tormentas, no para no atravesarlas nunca. Isaías promete fuerzas nuevas a quienes esperan en el Señor, y Cristo mismo ofrece una paz que el mundo no puede dar. La próxima vez que sientas que todo pesa demasiado, en vez de intentar resolverlo solo, llevale esa carga concreta al Señor en oración antes de hacer cualquier otra cosa."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué situaciones sueles enfrentar en tu semana que te generan más estrés o ansiedad?",
+        "¿Qué sueles hacer normalmente cuando te sentís emocionalmente agotado?",
+        "¿Alguna vez sentiste que orar o leer las Escrituras te cambió el estado de ánimo en un momento difícil?",
+        "¿Qué significa para vos la promesa de que 'los que esperan en Jehová tendrán nuevas fuerzas'?",
+        "¿Qué podrías hacer esta semana, concretamente, cuando sientas que una emoción te está superando?",
+        "¿A quién de confianza podrías contarle cómo te sentís esta semana, en vez de guardártelo todo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

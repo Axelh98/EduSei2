@@ -1,6 +1,53 @@
 {
   "id": "leccion-139",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Ezequiel 34 empieza con una acusación dura contra los líderes de Israel, descriptos como pastores que se alimentaron a sí mismos en vez de cuidar el rebaño: comieron la grosura, se vistieron con la lana, pero no fortalecieron a las ovejas débiles ni buscaron a las perdidas (Ezequiel 34:2–4). El resultado fue un rebaño disperso, sin nadie que realmente lo cuidara.\n\nLa respuesta de Dios frente a ese fracaso es directa: si los pastores humanos fallaron, Él mismo tomaría el rol. «Yo, yo mismo buscaré a mis ovejas y las reconoceré... y las libraré de todos los lugares en que fueron dispersadas un día nublado y oscuro» (Ezequiel 34:11–12). Y después detalla exactamente cómo sería ese cuidado: «Yo buscaré a la oveja perdida, y haré volver a la descarriada, y vendaré a la perniquebrada y fortaleceré a la débil» (Ezequiel 34:16). No es un cuidado general y distante. Es específico para cada tipo de necesidad: la que está perdida necesita ser buscada, la que está herida necesita ser vendada, la que está débil necesita ser fortalecida.\n\nSiglos después, Jesús retomó exactamente esta misma profecía para describirse a Sí mismo: «Yo soy el buen pastor» (Juan 10:11). No fue una metáfora nueva que Él inventó. Fue el cumplimiento literal de lo que Ezequiel ya había anunciado.\n\nEs fácil, cuando ves a alguien de tu alrededor pasándola mal —perdido en decisiones que sabés que no le hacen bien, herido por algo que le pasó, simplemente débil y cansado—, no saber cómo ayudar. Ezequiel 34 ofrece un modelo concreto: buscar activamente al que está perdido, en vez de esperar a que vuelva solo; vendar heridas específicas, no ignorarlas; fortalecer con paciencia a quien está débil, no exigirle que se las arregle solo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Ezequiel 34:11–12",
+          "texto": "Porque así ha dicho Jehová el Señor: He aquí, yo, yo mismo buscaré a mis ovejas y las reconoceré. Como reconoce a su rebaño el pastor el día en que está en medio de sus ovejas dispersadas, así reconoceré a mis ovejas y las libraré de todos los lugares en que fueron dispersadas un día nublado y oscuro.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=spa&id=p11-p12#p11"
+        },
+        {
+          "referencia": "Ezequiel 34:15–16",
+          "texto": "Yo apacentaré a mis ovejas y yo las haré recostar, dice Jehová el Señor. Yo buscaré a la oveja perdida, y haré volver a la descarriada, y vendaré a la perniquebrada y fortaleceré a la débil... Yo las apacentaré con justicia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=spa&id=p15-p16#p15"
+        },
+        {
+          "referencia": "Juan 10:11",
+          "texto": "Yo soy el buen pastor; el buen pastor da su vida por las ovejas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/10?lang=spa&id=p11#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Hermana Bonnie H. Cordon",
+      "fuente": "«Llegar a ser un pastor», Conferencia General, octubre de 2018",
+      "texto": "Es posible que nuestra oveja esté herida, perdida, incluso intencionadamente extraviada; como sus pastores, podemos estar entre los primeros que ven sus necesidades. Podemos escuchar y amar sin juzgarla, y ofrecer esperanza y ayuda con la guía prudente del Espíritu Santo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/becoming-a-shepherd?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cuando los pastores humanos de Israel fallaron, Dios mismo prometió tomar Su lugar, buscando específicamente a cada oveja perdida, herida o débil. Jesús cumplió esa profecía llamándose a Sí mismo el Buen Pastor. La hermana Cordon enseñó que vos también podés ser un pastor para alguien: estar entre los primeros en notar sus necesidades, escuchar y amar sin juzgar. Esta semana, identificá a alguien de tu entorno que esté 'perdido', 'herido' o simplemente 'débil' en este momento, y dale un paso concreto de cuidado, como lo haría el Buen Pastor."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué tipo de 'pastor' sentís que sos naturalmente con las personas de tu alrededor: el que busca, el que venda heridas, o el que fortalece a los débiles?",
+        "¿Alguna vez alguien te 'buscó' activamente en un momento en que te sentías perdido o alejado?",
+        "¿Qué te parece que Dios distinga entre distintos tipos de cuidado —buscar, vendar, fortalecer— según la necesidad específica de cada oveja?",
+        "¿Qué te impide a veces acercarte a alguien que ves herido o perdido, en vez de esperar a que se acerque solo?",
+        "¿A quién de tu entorno —familia, amigos, compañeros— podrías 'pastorear' esta semana con un gesto concreto de cuidado?",
+        "¿Qué necesitás vos mismo ahora mismo: ser buscado, que venden una herida, o que te fortalezcan?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

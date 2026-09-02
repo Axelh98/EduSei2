@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Los sobrevivientes se reúnen en el templo de la tierra de Abundancia, conversando sobre Cristo. Escuchan una voz del cielo pero no la entienden las primeras dos veces. La tercera vez entienden: es la voz del Padre presentando a Su Hijo. Jesucristo desciende del cielo vestido de blanco. Se presenta como Jesucristo, a quien los profetas testificaron que vendría. Invita a la multitud a venir y palpar las marcas de los clavos en Sus manos y pies. Este es uno de los momentos más sagrados registrados en las escrituras."
+      "contenido": "Poco después de la oscuridad y la destrucción, una gran multitud de nefitas y lamanitas sobrevivientes se reúne alrededor del templo en la tierra de Abundancia, conversando entre ellos sobre los grandes cambios que acaban de vivir. En medio de esa conversación escuchan una voz que viene del cielo, pero no logran entenderla; parece un ruido, no palabras claras. La escuchan una segunda vez, y tampoco la entienden, aunque esta vez atrae toda su atención hacia el cielo. Recién la tercera vez abren sus oídos y comprenden lo que dice: es la voz del Padre, presentando a Su Hijo Amado y pidiéndole al pueblo que lo escuche. Mientras miran hacia el cielo, ven descender a un Hombre vestido de blanco. Baja hasta pararse en medio de ellos, y toda la multitud, como un solo cuerpo, cae al suelo, porque piensan que se trata de un ángel enviado a anunciar algo. Entonces Él extiende Su mano y dice, con Sus propias palabras, algo que ningún ángel podría decir: 'Yo soy Jesucristo, de quien los profetas testificaron que vendría al mundo.' No es una aparición simbólica ni una visión lejana. Es Cristo mismo, resucitado, presentándose ante Su pueblo en el continente americano, exactamente como había prometido que haría."
     },
     {
       "tipo": "escrituras",
@@ -14,25 +14,112 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p7#p7"
         },
         {
-          "referencia": "3 Nefi 11:10-11",
-          "texto": "Yo soy Jesucristo, de quien los profetas testificaron que vendría al mundo. He bebido de aquella copa amarga que el Padre me ha dado.",
+          "referencia": "3 Nefi 11:10–11",
+          "texto": "Yo soy Jesucristo, de quien los profetas testificaron que vendría al mundo... He bebido de aquella copa amarga que el Padre me ha dado, y he glorificado al Padre tomando sobre mí los pecados del mundo, sometiéndome con paciencia a la voluntad del Padre en todas las cosas desde el principio.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p10-p11#p10"
-        },
-        {
-          "referencia": "3 Nefi 11:14-15",
-          "texto": "Levantaos y venid a mí, para que metáis vuestras manos en mi costado, y para que palpéis las marcas de los clavos en mis manos y en mis pies.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p14-p15#p14"
         }
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Ulisses Soares",
+      "fuente": "Conferencia General, abril de 2021, «El Cuidador de nuestra alma»",
+      "texto": "Él fue escogido y preordenado en el Gran Concilio de los cielos, aun antes de que se formara el mundo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/41soares?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El pueblo tuvo que escuchar la voz del cielo tres veces antes de poder entenderla — no porque Dios hablara poco claro, sino porque hacía falta preparar el oído y el corazón para recibir un mensaje así de grande. Recién a la tercera vez comprendieron: era el Padre, presentando a Su Hijo. El élder Ulisses Soares enseñó que Cristo 'fue escogido y preordenado en el Gran Concilio de los cielos, aun antes de que se formara el mundo' — este momento en Abundancia no fue improvisado, era el cumplimiento de un plan que empezó antes de la creación misma. Cuando Cristo dice 'yo soy Jesucristo', no está pidiendo que le crean por fe ciega: está presentándose como Aquel de quien todos los profetas, incluido Samuel el Lamanita años antes, ya habían testificado. Hacelo concreto esta semana: elegí un momento para 'escuchar' con más atención algo espiritual que quizás te costó entender la primera vez."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué significado tiene que el Padre presente personalmente a Su Hijo?",
-        "¿Cómo describirías la importancia de que Cristo invitara a tocar Sus heridas?",
-        "¿Qué impacto tendría en ti presenciar este momento?"
+        "¿Qué te pareció que la multitud necesitara escuchar la voz tres veces antes de entenderla?",
+        "Si hubieras estado ahí esa tarde en Abundancia, ¿qué creés que habrías sentido al ver descender a Cristo?",
+        "¿Alguna vez tuviste que 'escuchar' algo espiritual más de una vez antes de entenderlo de verdad?",
+        "¿Qué te parece la enseñanza del élder Soares de que Cristo fue 'escogido y preordenado... aun antes de que se formara el mundo'?",
+        "¿Hay algo espiritual que sentís que todavía no terminaste de entender, y que te gustaría volver a escuchar con más atención esta semana?",
+        "Pensando en que la multitud cayó al suelo al ver a Cristo, ¿qué gesto concreto de reverencia podrías practicar vos esta semana hacia Él?"
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuántas veces tuvo que escuchar la multitud la voz del cielo antes de poder entender lo que decía?",
+      "options": [
+        "Una sola vez",
+        "Tres veces",
+        "Cinco veces",
+        "Nunca llegaron a entenderla"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Quién era la voz que se escuchó las tres veces, y qué anunciaba?",
+      "options": [
+        "Un ángel anunciando la destrucción de las ciudades",
+        "El Padre, presentando a Su Hijo Amado y pidiendo que lo escucharan",
+        "Samuel el Lamanita repitiendo su antigua profecía",
+        "El profeta Nefi hablando en nombre de Dios"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Cuando Cristo descendió, la multitud 'cayó al suelo' pensando que era un ángel (3 Nefi 11:8). ¿Qué revela Su primera declaración —'Yo soy Jesucristo, de quien los profetas testificaron'— sobre cómo se identificó ante ellos?",
+      "options": [
+        "Se presentó exactamente como los profetas, incluido Samuel el Lamanita, habían anunciado que Él vendría, confirmando el cumplimiento literal de esas profecías",
+        "Evitó identificarse claramente para generar más misterio",
+        "Se presentó como un ángel enviado por Cristo, no como Cristo mismo",
+        "No hizo ninguna referencia a las profecías anteriores sobre Su venida"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "En 3 Nefi 11:11, Cristo dice que se sometió 'con paciencia a la voluntad del Padre en todas las cosas desde el principio'. ¿Qué relación establece esa frase entre Su sufrimiento y Su identidad como Salvador?",
+      "options": [
+        "Que Su disposición constante a someterse a la voluntad del Padre, incluso en el sufrimiento, es parte central de quién es Él como Salvador",
+        "Que Cristo se sometió a la voluntad del Padre solamente en el momento final de Su vida",
+        "Que la paciencia de Cristo fue una cualidad personal, separada de Su misión de salvar a la humanidad",
+        "Que Cristo actuó completamente por Su propia voluntad, sin relación con la del Padre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Lucía escuchó una lección importante en el Seminario, pero salió sintiendo que 'no terminó de entenderla del todo'. Según el ejemplo de la multitud que necesitó escuchar la voz tres veces, ¿qué principio le ayudaría?",
+      "options": [
+        "Que si no entendió a la primera, seguramente ese mensaje no era para ella",
+        "Que no tiene sentido volver a repasar algo que ya escuchó una vez",
+        "Que no entender algo espiritual de inmediato es normal, y volver a prestarle atención con calma puede ayudarla a comprenderlo mejor, como le pasó a esa multitud",
+        "Que solo los profetas pueden entender mensajes espirituales complejos"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Mateo se pregunta por qué Cristo, en lugar de aparecer de inmediato, hizo que la multitud escuchara primero la voz del Padre tres veces. Según el propósito de esa secuencia, ¿qué le ayudaría a entender?",
+      "options": [
+        "Que fue un error en el relato sin ningún propósito real",
+        "Que esa secuencia preparó el corazón y la atención del pueblo para recibir un mensaje de una magnitud verdaderamente extraordinaria",
+        "Que la voz del Padre no tenía ninguna relación con la aparición de Cristo que vino después",
+        "Que Dios prefiere que la gente no entienda los mensajes espirituales rápidamente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la preparación de escuchar la voz tres veces como la enseñanza del élder Soares sobre que Cristo fue 'preordenado... aun antes de que se formara el mundo' comparten un mismo principio sobre este momento. ¿Cuál es?",
+      "options": [
+        "Que la aparición de Cristo en Abundancia fue un evento improvisado, sin ninguna preparación previa",
+        "Que este momento fue el cumplimiento cuidadosamente preparado de un plan que Dios trazó desde mucho antes, tanto en la eternidad como en la preparación inmediata del pueblo",
+        "Que la preordenación de Cristo solo se aplicaba a Su nacimiento en Jerusalén, no a Su ministerio posterior",
+        "Que solo los ángeles participaron en la planificación de este evento"
+      ],
+      "correctAnswer": 1
+    }
+  ]
 }

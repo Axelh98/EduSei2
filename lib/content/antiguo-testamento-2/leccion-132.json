@@ -1,6 +1,53 @@
 {
   "id": "leccion-132",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Jeremías profetizó algo que en su época debía sonar casi imposible: un día, la manera en que Israel recordaría a Dios ya no sería solo por el éxodo de Egipto, sino por algo todavía más grande: «Vive Jehová, que hizo subir a los hijos de Israel de la tierra del norte y de todas las tierras adonde los había arrojado» (Jeremías 16:15). El evento que definió toda la identidad de Israel —la salida de Egipto— sería superado por un recogimiento todavía más amplio, desde todos los rincones del mundo.\n\nY después llega una imagen curiosa para describir cómo sucedería ese recogimiento: «yo envío muchos pescadores... y después enviaré muchos cazadores» (Jeremías 16:16). Los pescadores atraen a los peces hacia ellos, con paciencia, usando el lugar correcto y el momento correcto. Los cazadores buscan activamente, van a encontrar. Ambas imágenes juntas describen cómo funciona hoy la obra de reunir a Israel: a veces alguien llega por su cuenta, atraído por algo que vio o sintió; otras veces, alguien tiene que salir específicamente a buscarlo.\n\nVos sos, en cierto sentido, uno de esos 'pescadores' y 'cazadores' que Jeremías profetizó. No en un sentido literal ni con un llamamiento formal necesariamente: cada vez que vivís tu fe de una manera que atrae la curiosidad de alguien más, estás pescando. Cada vez que buscás activamente una oportunidad de invitar o compartir, estás cazando.\n\nEs una profecía escrita hace 2.600 años que se sigue cumpliendo hoy, con gente real, en conversaciones reales, muchas veces sin que la persona que está siendo 'recogida' ni siquiera sepa que Jeremías ya había anunciado ese momento."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Jeremías 16:14–15",
+          "texto": "Por tanto, he aquí, vienen días, dice Jehová, en que no se dirá más: ¡Vive Jehová, que hizo subir a los hijos de Israel de la tierra de Egipto! sino: ¡Vive Jehová, que hizo subir a los hijos de Israel de la tierra del norte y de todas las tierras adonde los había arrojado! Porque los haré volver a su tierra, la cual di a sus padres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=spa&id=p14-p15#p14"
+        },
+        {
+          "referencia": "Jeremías 16:16",
+          "texto": "He aquí que yo envío muchos pescadores, dice Jehová, y los pescarán; y después enviaré muchos cazadores, y los cazarán por todo monte, y por todo collado y por las cavernas de los peñascos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=spa&id=p16#p16"
+        },
+        {
+          "referencia": "Doctrina y Convenios 18:10",
+          "texto": "Recordad que el valor de las almas es grande a la vista de Dios;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Ronald A. Rasband",
+      "fuente": "«Cuán grande será su gozo», Conferencia General, octubre de 2023",
+      "texto": "El recogimiento es el reconocimiento supremo de que 'el valor de las almas es grande a la vista de Dios'. Es así de sencillo. Estamos recogiendo a los hijos de Dios en estos últimos días...",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/28rasband?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Jeremías profetizó, hace 2.600 años, que el Señor enviaría 'pescadores' y 'cazadores' para reunir a Su pueblo disperso: una imagen que sigue cumpliéndose hoy, con gente real. El élder Rasband enseñó que todo ese recogimiento se reduce a un solo principio: el valor de las almas es grande a la vista de Dios. No necesitás un título oficial para ser parte de esa profecía. Esta semana, sé un 'pescador' —viví tu fe de manera que despierte curiosidad genuina en alguien— o un 'cazador', buscando activamente una oportunidad concreta de invitar a alguien a acercarse más a Cristo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué imagen te resulta más fácil de aplicar a vos mismo: la del 'pescador' que atrae con el ejemplo, o la del 'cazador' que busca activamente?",
+        "¿Alguna vez alguien se acercó a la Iglesia o a tu fe solo por observar cómo vivías, sin que se lo pidieras?",
+        "¿Qué te genera saber que esta profecía de hace 2.600 años se sigue cumpliendo hoy, con personas reales que conocés?",
+        "¿Qué significa para vos que 'el valor de las almas es grande a la vista de Dios'?",
+        "¿Sos más 'pescador' o más 'cazador' en tu forma natural de compartir tu fe? ¿Por qué?",
+        "¿A quién concreto podrías 'pescar' o 'cazar' esta semana, sea con tu ejemplo o con una invitación directa?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

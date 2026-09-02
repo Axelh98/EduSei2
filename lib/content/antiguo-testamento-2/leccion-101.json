@@ -1,6 +1,53 @@
 {
   "id": "leccion-101",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Los Salmos no fueron escritos para leerse en silencio y una sola vez: fueron escritos para cantarse, recitarse en el templo y repetirse en comunidad, generación tras generación. Son, en esencia, la forma en que Israel le puso palabras a lo que sentía frente a Dios: gratitud, temor, confusión, alabanza. David escribió: «Te amo, oh Jehová, fortaleza mía» (Salmo 18:1), una declaración tan directa como cualquier cosa que dirías hoy en una oración personal.\n\nOtros salmos giran hacia el asombro. Al mirar el cielo nocturno, el salmista se pregunta: «¿Qué es el hombre para que tengas de él memoria?» (Salmo 8:4). Es la misma pregunta que probablemente te hiciste alguna vez mirando las estrellas: en un universo tan inmenso, ¿realmente le importo a Dios? Los Salmos responden que sí, una y otra vez, de mil maneras distintas.\n\nY cuando la vida se pone difícil, los Salmos también tienen palabras para eso: «Dios es nuestro refugio y fortaleza, nuestro pronto auxilio en las tribulaciones» (Salmo 46:1). El mismo salmo, unos versículos después, incluye una de las frases más citadas de toda la Biblia: «Quedaos tranquilos, y sabed que yo soy Dios» (Salmo 46:10). No es una orden para dejar de actuar, sino una invitación a confiar en medio del ruido.\n\nAdorar no es solamente asistir a una reunión de la Iglesia: es un acto activo de acercarte a Dios con todo lo que sentís, no solo con lo que 'deberías' sentir. Podés hacerlo escribiendo, cantando un himno con intención, o simplemente hablándole a Dios con tus propias palabras, como hizo David. Los Salmos son, en el fondo, una invitación a que también vos le pongas palabras a lo que llevás adentro."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Salmos 18:1–3",
+          "texto": "Te amo, oh Jehová, fortaleza mía. Jehová, roca mía y baluarte mío, y mi libertador; Dios mío, fortaleza mía, en quien me refugio; escudo mío y el poder de mi salvación, mi alto refugio. Invocaré a Jehová, quien es digno de ser alabado, y seré salvo de mis enemigos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/18?lang=spa&id=p1-p3#p1"
+        },
+        {
+          "referencia": "Salmos 8:3–4",
+          "texto": "Cuando contemplo tus cielos, obra de tus dedos, la luna y las estrellas que tú formaste, digo: ¿Qué es el hombre para que tengas de él memoria, y el hijo del hombre para que lo visites?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/8?lang=spa&id=p3-p4#p3"
+        },
+        {
+          "referencia": "Salmos 46:1, 10",
+          "texto": "Dios es nuestro refugio y fortaleza, nuestro pronto auxilio en las tribulaciones... Quedaos tranquilos, y sabed que yo soy Dios; seré exaltado entre las naciones; exaltado seré en la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/46?lang=spa&id=p1#p1"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Obispo Dean M. Davies",
+      "fuente": "«Las bendiciones de la adoración», Conferencia General, noviembre de 2016",
+      "texto": "Nos acercamos a Él con amor, humildad y veneración reverentes; lo reconocemos y lo aceptamos como nuestro Rey soberano, el Creador del universo, nuestro amado e infinitamente amoroso Padre.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2016/11/sunday-morning-session/the-blessings-of-worship?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Los Salmos muestran que no hay una sola manera correcta de dirigirte a Dios: podés hacerlo con asombro, con gratitud, o incluso con confusión, como hicieron David y tantos otros salmistas. El obispo Davies enseñó que adorar es acercarte a Dios con amor y veneración reverente, reconociéndolo como tu Padre. Esta semana, en vez de limitar tu adoración a la reunión sacramental, probá escribir o decir en voz alta tu propio 'salmo': una oración honesta que ponga en palabras lo que realmente sentís ahora mismo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué Salmo o versículo de esta lección te generó más conexión personal?",
+        "¿Alguna vez sentiste algo parecido a lo que expresa el Salmo 8: asombro por lo inmenso del universo y la pregunta de si de verdad le importás a Dios?",
+        "¿Cómo sueles expresar tú lo que sentís hacia Dios: orando, escribiendo, cantando, de otra forma?",
+        "¿Qué significa para vos la frase 'quedaos tranquilos, y sabed que yo soy Dios' en un momento de mucho ruido o estrés?",
+        "¿Qué podrías escribir o decir esta semana como tu propio 'salmo' personal, poniendo en palabras lo que sentís hacia Dios ahora mismo?",
+        "¿Qué canción, himno o forma de expresión te ayuda a sentirte más cerca de Dios, y por qué no la usás más seguido?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

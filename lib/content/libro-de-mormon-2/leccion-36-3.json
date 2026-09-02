@@ -21,11 +21,25 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Ezra Taft Benson",
+      "fuente": "Liahona, «El Libro de Mormón: La clave de nuestra religión»",
+      "texto": "Si ellos vieron nuestros días, y eligieron aquellas cosas que serían de máximo valor para nosotros, ¿no es pensando en ello que deberíamos estudiar el Libro de Mormón?",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2011/10/the-book-of-mormon-keystone-of-our-religion?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Moroni escribe como si estuviera hablando directamente con nosotros: 'Jesucristo me os ha mostrado, y conozco vuestras obras.' No es una coincidencia que sus advertencias sobre el amor al dinero, las combinaciones secretas y la incredulidad en los milagros suenen tan actuales. El presidente Ezra Taft Benson enseñó: 'si ellos vieron nuestros días, y eligieron aquellas cosas que serían de máximo valor para nosotros, ¿no es pensando en ello que deberíamos estudiar el Libro de Mormón?' Cada advertencia de Moroni fue elegida a propósito, sabiendo que ibas a leerla vos. Cerrá la semana eligiendo una de las advertencias de Mormón 8-9 que más te interpeló, y tomá una acción concreta al respecto."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Cómo te hace sentir el saber que los profetas antiguos vieron nuestros días y conocían nuestras debilidades y fuerzas?",
-        "¿Por qué crees que muchas personas hoy niegan que Dios sea un Dios de milagros?",
-        "¿Qué puedes hacer para no caer en el orgullo materialista que Moroni observó en nosotros?"
+        "¿Cómo te hace sentir saber que los profetas antiguos vieron nuestros días y conocían nuestras debilidades y fortalezas?",
+        "¿Por qué creés que muchas personas hoy niegan que Dios sea un Dios de milagros?",
+        "¿Qué podés hacer para no caer en el orgullo materialista que Moroni observó en nosotros?",
+        "¿Qué te parece la enseñanza del presidente Benson de que los profetas 'eligieron aquellas cosas que serían de máximo valor para nosotros'?",
+        "De las advertencias que Moroni hace en estos capítulos, ¿cuál sentís que te habla más directamente a vos?",
+        "¿Qué acción concreta podés tomar esta semana en respuesta a esa advertencia específica?"
       ]
     }
   ],
@@ -84,6 +98,28 @@
         "Buscar señales"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Luca escucha a un compañero decir que 'los milagros ya no existen en esta época moderna'. Según lo que Moroni enseña sobre por qué cesan los milagros —por la incredulidad, no porque Dios haya cambiado—, ¿qué le podría responder?",
+      "options": [
+        "Que tiene razón, los milagros pertenecían solo a épocas antiguas",
+        "Que, según Moroni, Dios sigue siendo un Dios de milagros; lo que cambia es la disposición de las personas a creer, no la naturaleza de Dios",
+        "Que los milagros solo ocurren en el Libro de Mormón, no en la vida real",
+        "Que los milagros dejaron de existir apenas terminó la época del Libro de Mormón"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto la declaración de Moroni de que Cristo le mostró nuestros días como la enseñanza del presidente Benson sobre que los profetas 'eligieron lo de máximo valor para nosotros' comparten un mismo principio central. ¿Cuál es?",
+      "options": [
+        "Que el Libro de Mormón no fue escrito de manera genérica, sino con un conocimiento específico y anticipado de los desafíos particulares que enfrentaríamos hoy",
+        "Que las advertencias de Moroni eran generales y no tenían ninguna relación específica con nuestra época",
+        "Que Moroni escribió sin ningún conocimiento real de los lectores futuros",
+        "Que el valor del Libro de Mormón fue mayor para los primeros lectores que para los de hoy"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

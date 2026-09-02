@@ -1,6 +1,53 @@
 {
   "id": "leccion-186",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "La Biblia no dice que sentir ira sea pecado. El apóstol Pablo escribió: «Airaos, pero no pequéis; no se ponga el sol sobre vuestro enojo» (Efesios 4:26), reconociendo que la ira en sí misma es una emoción humana normal. El problema nunca es sentirla. El problema es qué hacés con ella, y cuánto tiempo la dejás crecer sin resolverla.\n\nProverbios ofrece una medida clara de madurez: «Mejor es el que tarda en airarse que el poderoso, y el que se enseñorea de su espíritu que el que toma una ciudad» (Proverbios 16:32). Controlar tu propia reacción, dice el texto, es una hazaña más grande que conquistar un ejército. Y el propio Dios se describe a sí mismo con esa misma cualidad: «Misericordioso y clemente es Jehová, lento para la ira y grande en misericordia» (Salmo 103:8).\n\n'Lento para la ira' no significa 'nunca se enoja'. Significa que no reacciona de inmediato, que se toma un momento antes de responder. Esa es exactamente la habilidad que se puede entrenar: la pausa entre sentir la ira y decidir qué hacer con ella. Un mensaje que casi enviás enojado, una respuesta cortante que casi le decís a un hermano o hermana, un portazo que casi diste: en cada uno de esos momentos hay una pausa posible, por más pequeña que sea, donde podés elegir una respuesta distinta."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Efesios 4:26",
+          "texto": "Airaos, pero no pequéis; no se ponga el sol sobre vuestro enojo,",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=spa&id=p26#p26"
+        },
+        {
+          "referencia": "Proverbios 16:32",
+          "texto": "Mejor es el que tarda en airarse que el poderoso, y el que se enseñorea de su espíritu que el que toma una ciudad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=spa&id=p32#p32"
+        },
+        {
+          "referencia": "Salmos 103:8",
+          "texto": "Misericordioso y clemente es Jehová, lento para la ira y grande en misericordia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/103?lang=spa&id=p8#p8"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Thomas S. Monson",
+      "fuente": "«Sé prudente... a tu alma gobernad», Conferencia General, octubre de 2009",
+      "texto": "Enojarse es ceder a la influencia de Satanás. Nadie puede hacernos enojar; es nuestra decisión.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2009/10/school-thy-feelings-o-my-brother?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Sentir ira no te aleja de Dios; lo que hacés con ella, sí. Proverbios compara controlar tu espíritu con conquistar una ciudad: es una de las victorias más difíciles y más valiosas que existen. El presidente Monson enseñó algo directo pero difícil de aceptar: nadie puede hacernos enojar, es nuestra decisión. Eso no significa que las situaciones injustas no duelan, sino que la respuesta final siempre queda en tus manos. La próxima vez que sientas que la ira empieza a subir, buscá esa pausa de un segundo antes de hablar o actuar."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué situaciones sueles enfrentar que más rápido te generan enojo o ira?",
+        "¿Cómo reaccionás normalmente cuando te enojás: hablás de más, te quedás callado, o algo distinto?",
+        "¿Alguna vez dijiste o hiciste algo enojado que después lamentaste, y cómo lo resolviste?",
+        "¿Qué te parece la idea de que 'nadie puede hacernos enojar, es nuestra decisión'? ¿Estás de acuerdo?",
+        "¿Qué pausa concreta —contar hasta diez, salir a caminar, respirar— podrías usar esta semana la próxima vez que sientas que la ira sube?",
+        "¿Con quién tenés una relación tensa ahora mismo por algo relacionado con el enojo, y qué paso pequeño podrías dar esta semana para mejorarla?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

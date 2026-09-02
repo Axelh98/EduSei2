@@ -86,7 +86,7 @@
       "id": 4,
       "question": "El élder Nelson enseñó que 'la perfección es inminente; llegará en su totalidad únicamente después de la resurrección y solo por medio del Señor'. ¿Qué papel le da esa enseñanza a la gracia de Cristo en este proceso?",
       "options": [
-        "Que la gracia de Cristo no tiene ninguna relación con llegar a ser perfecto",
+        "Que la gracia de Cristo solo se necesita para quienes fallan gravemente, no para el esfuerzo diario de mejorar",
         "Que la perfección completa depende del propio esfuerzo, sin ayuda de nadie más",
         "Que la gracia de Cristo es indispensable para que ese proceso de perfeccionamiento llegue a completarse plenamente",
         "Que la perfección ya se alcanza por completo en esta vida sin necesidad de la resurrección"
@@ -106,12 +106,12 @@
     },
     {
       "id": 6,
-      "question": "Mateo le dice a un amigo que no cree en Dios que 'ser cristiano significa no equivocarse nunca, y por eso es imposible'. Usando lo que aprendiste sobre 3 Nefi 12:48, ¿qué le podrías explicar?",
+      "question": "Benjamín le dice a un amigo que no cree en Dios que 'ser cristiano significa no equivocarse nunca, y por eso es imposible'. Usando lo que aprendiste sobre 3 Nefi 12:48, ¿qué le podrías explicar?",
       "options": [
         "Que su amigo tiene razón y que por eso el cristianismo es una meta inalcanzable",
         "Que 'perfecto' en este contexto apunta más a un proceso de crecimiento continuo, sostenido por la gracia de Cristo, que a nunca cometer un error",
         "Que solo unos pocos elegidos pueden aspirar a ser cristianos",
-        "Que el mandamiento de ser perfecto no tiene relación con la gracia de Cristo"
+        "Que ser perfecto significa cumplir todos los mandamientos sin ayuda de nadie más"
       ],
       "correctAnswer": 1
     },
@@ -121,8 +121,8 @@
       "options": [
         "Que alcanzar la perfección completa en esta vida es un requisito indispensable",
         "Que la perfección enseñada por Cristo es un proceso de crecimiento sostenido por Su gracia, que se completará plenamente más allá de esta vida",
-        "Que el esfuerzo personal no tiene ninguna relación con este proceso",
-        "Que la palabra 'perfecto' no tiene relación con el crecimiento espiritual"
+        "Que basta con el esfuerzo personal, sin necesidad de la gracia de Cristo, para completar ese proceso",
+        "Que la palabra 'perfecto' exige no cometer ningún error desde el mismo momento en que se escucha el mandamiento"
       ],
       "correctAnswer": 1
     }

@@ -21,11 +21,25 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "Conferencia General, octubre de 2018, «Heridos»",
+      "texto": "No habrá injusticia, persecución, prueba, tristeza, quebranto, sufrimiento ni herida —no importa cuán profunda, cuán extensa o cuán dolorosa— que quede excluida del consuelo, de la paz y la esperanza perdurable de Aquel cuyos brazos abiertos y manos heridas nos recibirán de regreso a Su presencia.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/wounded?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Mormón lideró a un pueblo que sabía que iba camino a la destrucción, y aun así siguió intentando salvarlos hasta el final, llorando por ellos como 'pueblo hermoso' que rechazó los brazos abiertos de Cristo. El élder Neil L. Andersen enseñó que no hay herida —'no importa cuán profunda, cuán extensa o cuán dolorosa'— que quede fuera del alcance de Aquel 'cuyos brazos abiertos y manos heridas nos recibirán de regreso a Su presencia'. Los nefitas de Cumorah ya no pudieron volver; vos todavía podés. Esta semana, si sentís que te alejaste demasiado como para volver, recordá que esos brazos siguen abiertos, y dá un paso concreto hacia ellos."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué nos enseñan los lamentos de Mormón sobre el dolor que sienten Dios y Sus profetas cuando pecamos?",
-        "¿Cómo te sientes al saber que Jesús siempre espera 'con los brazos abiertos'?",
-        "¿Qué acciones puedes tomar para nunca 'apartarte de las vías del Señor'?"
+        "¿Cómo te sentís al saber que Jesús siempre espera 'con los brazos abiertos'?",
+        "¿Qué acciones podés tomar para nunca 'apartarte de las vías del Señor'?",
+        "¿Qué te parece la enseñanza del élder Andersen de que ninguna herida, 'no importa cuán profunda', queda fuera del alcance de Cristo?",
+        "¿Hay algo en tu vida que sentís que te alejó de Dios y todavía no supiste cómo acercarte de nuevo?",
+        "Pensando en el lamento de Mormón por su 'pueblo hermoso', ¿qué paso concreto podés dar esta semana para acercarte más a Cristo en lugar de alejarte?"
       ]
     }
   ],
@@ -84,6 +98,28 @@
         "Enfermedades"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Mormón vuelve a liderar a su pueblo por compasión, aunque ya sabía que la destrucción era inevitable porque no se arrepentían (Mormón 6:1-6). ¿Qué revela esa decisión sobre el carácter de Mormón como líder y como discípulo de Cristo?",
+      "options": [
+        "Que siguió amando y sirviendo a su pueblo hasta el final, incluso sabiendo que el resultado sería doloroso, reflejando el mismo amor persistente de Cristo",
+        "Que Mormón actuó de manera contradictoria, sin ninguna razón real para volver a liderarlos",
+        "Que Mormón esperaba obtener algún beneficio personal al volver a liderar al pueblo",
+        "Que Mormón actuó movido principalmente por el deber militar, no por amor genuino a su pueblo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Tanto el lamento de Mormón por su 'pueblo hermoso' como la enseñanza del élder Andersen sobre que ninguna herida queda fuera del alcance de Cristo comparten un mismo principio central. ¿Cuál es?",
+      "options": [
+        "Que el amor y la disposición de Cristo a recibir de vuelta a Su pueblo persisten incluso frente al rechazo más profundo, aunque las consecuencias de ese rechazo sean reales y dolorosas",
+        "Que una vez que una persona se aleja demasiado, ya no existe ninguna posibilidad real de regresar",
+        "Que el lamento de Mormón demuestra que, para él, ya no había ninguna esperanza real para su pueblo",
+        "Que solo las personas que nunca cometieron errores graves pueden acercarse a Cristo"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

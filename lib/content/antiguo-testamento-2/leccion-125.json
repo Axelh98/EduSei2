@@ -1,6 +1,53 @@
 {
   "id": "leccion-125",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Isaías 54 usa una imagen que aparece varias veces en las Escrituras para describir la relación entre Dios y Su pueblo: la de un matrimonio. No es una metáfora casual. Un matrimonio implica un compromiso, no solo un sentimiento pasajero, y eso es exactamente lo que Isaías quiere transmitir sobre la fidelidad de Dios: «tu marido es tu Hacedor; Jehová de los ejércitos es su nombre; y tu Redentor, el Santo de Israel» (Isaías 54:5).\n\nEl Señor reconoce, sin esconderlo, que hubo un momento de distancia real: «Por un breve momento te abandoné, pero te recogeré con grandes misericordias» (Isaías 54:7). No niega que Israel sintió ese abandono. Lo confirma, y después promete algo todavía más fuerte que la distancia: el regreso, «con grandes misericordias».\n\nLa comparación que sigue es una de las más contundentes de todo el libro: «los montes se moverán y los collados serán quitados, mas no se quitará de ti mi bondad, ni el convenio de mi paz se romperá» (Isaías 54:10). Los montes son, en la experiencia humana, el símbolo mismo de lo permanente, de lo que nunca cambia. Isaías dice que hasta eso es menos estable que la fidelidad de Dios hacia vos.\n\nEs fácil, cuando pasás por un momento de distancia espiritual —una etapa de dudas, una racha de oraciones que se sienten vacías, una temporada donde la Iglesia se siente lejana—, pensar que esa distancia significa que Dios se alejó primero, o que se cansó de vos. Isaías 54 responde exactamente a ese miedo: cualquier distancia que sientas es 'por un breve momento'. La promesa de fondo, la que no se mueve ni siquiera cuando los montes lo hacen, sigue intacta."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 54:5",
+          "texto": "Porque tu marido es tu Hacedor; Jehová de los ejércitos es su nombre; y tu Redentor, el Santo de Israel; Dios de toda la tierra será llamado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Isaías 54:7–8",
+          "texto": "Por un breve momento te abandoné, pero te recogeré con grandes misericordias. Con un poco de ira escondí mi rostro de ti por un momento, mas con misericordia eterna tendré compasión de ti, dice tu Redentor, Jehová.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=spa&id=p7-p8#p7"
+        },
+        {
+          "referencia": "Isaías 54:10",
+          "texto": "Porque los montes se moverán y los collados serán quitados, mas no se quitará de ti mi bondad, ni el convenio de mi paz se romperá, dice Jehová, el que tiene misericordia de ti.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "«La doctrina de pertenencia», Conferencia General, octubre de 2022",
+      "texto": "Jesucristo murió por mí; Él me consideró digno de Su sangre.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/28christofferson?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías compara la fidelidad de Dios con un matrimonio precisamente porque quiere que entiendas que no es un sentimiento pasajero, sino un compromiso que sostiene incluso los momentos de distancia real. El élder Christofferson lo resumió en una frase breve y personal: Jesucristo murió por mí; Él me consideró digno de Su sangre. Si sentís que estás atravesando 'un breve momento' de distancia espiritual, la promesa de Isaías 54 sigue siendo válida: los montes se moverán antes de que la bondad de Dios hacia vos se termine."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece la imagen de un matrimonio para describir la relación entre Dios y Su pueblo?",
+        "¿Alguna vez atravesaste una etapa de distancia espiritual —dudas, oraciones vacías— y sentiste que Dios se había alejado primero?",
+        "¿Qué te genera que Dios compare Su fidelidad con algo más estable que las montañas?",
+        "¿Qué significa para vos la frase del élder Christofferson: 'Jesucristo murió por mí; Él me consideró digno de Su sangre'?",
+        "¿Qué podrías hacer esta semana si estás atravesando un momento de distancia espiritual, sabiendo que es solo 'por un breve momento'?",
+        "¿A quién conocés que esté atravesando una etapa de duda o distancia de la fe, y cómo podrías recordarle esta promesa?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

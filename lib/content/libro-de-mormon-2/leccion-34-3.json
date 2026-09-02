@@ -16,69 +16,98 @@
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "3 Nefi 27:20 resume en una sola frase el camino completo hacia la santificación: arrepentirse, venir a Cristo, ser bautizado, y ser santificado por la recepción del Espíritu Santo. No es una lista de trámites religiosos; es la secuencia por la cual una persona pasa de estar manchada por el pecado a poder presentarse 'sin mancha' ante Cristo. Memorizar este versículo te da, en pocas palabras, el mapa completo de cómo funciona la salvación según Cristo mismo lo explicó. Esta semana, memorizá 3 Nefi 27:20 y identificá en qué paso de esa secuencia —arrepentimiento, bautismo/convenios, o recepción del Espíritu— necesitás poner más atención."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué significa ser 'santificado por la recepción del Espíritu Santo'?",
-        "¿Cómo te sientes al saber que puedes presentarte ante Cristo 'sin mancha'?",
-        "¿Cómo el arrepentimiento constante facilita la presencia del Espíritu Santo en tu vida?"
+        "¿Ya te sabías de memoria, aunque sea en parte, 3 Nefi 27:20? ¿Qué frase se te queda más grabada?",
+        "Si tuvieras que resumir en una palabra este versículo, ¿cuál sería: arrepentimiento, santificación, o mandamiento?",
+        "¿Qué significa para vos ser 'santificado por la recepción del Espíritu Santo'?",
+        "¿Cómo te sentís al saber que podés presentarte ante Cristo 'sin mancha' si seguís este proceso?",
+        "Elegí memorizar 3 Nefi 27:20 esta semana. ¿Qué método vas a usar: repetirlo en voz alta, escribirlo, otro?",
+        "De los pasos que menciona este versículo —arrepentimiento, bautismo, Espíritu Santo— ¿cuál sentís que necesitás fortalecer más esta semana?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "Según 3 Nefi 27:20, ¿qué debemos hacer para entrar en el reino?",
+      "question": "Según 3 Nefi 27:20, ¿qué mandamiento da Cristo a 'todos los extremos de la tierra'?",
       "options": [
-        "Solo creer",
-        "Arrepentirnos, bautizarnos y ser limpiados por la sangre de Cristo",
-        "Solo asistir a la iglesia",
-        "Ser buenos"
+        "Que construyan templos",
+        "Que se arrepientan, vengan a Él y sean bautizados en Su nombre",
+        "Que memoricen la ley de Moisés",
+        "Que paguen diezmos únicamente"
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué nos limpia del pecado?",
+      "question": "Según este versículo, ¿mediante qué se logra la santificación después del bautismo?",
       "options": [
-        "Nuestras obras",
-        "La sangre de Cristo",
-        "El tiempo",
-        "Nuestro esfuerzo"
+        "Mediante la recepción del Espíritu Santo",
+        "Únicamente mediante buenas obras",
+        "Mediante el paso del tiempo sin ninguna acción adicional",
+        "Mediante el reconocimiento público de la comunidad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué se requiere después del bautismo?",
+      "question": "El versículo describe una secuencia: arrepentimiento, venir a Cristo, bautismo, santificación por el Espíritu. ¿Qué principio ilustra que estos pasos aparezcan en un orden específico?",
       "options": [
-        "Nada más",
-        "Permanecer firmes hasta el fin",
-        "Solo ir a la iglesia",
-        "Esperar pasivamente"
+        "Que la salvación sigue un proceso progresivo, en el cual cada paso prepara para el siguiente, y no son elementos intercambiables o aislados",
+        "Que el orden de los pasos no tiene ninguna importancia real",
+        "Que basta con cumplir solo el último paso para obtener los mismos resultados",
+        "Que estos pasos ocurren automáticamente sin ninguna decisión personal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué papel juega la expiación en nuestra salvación?",
+      "question": "¿Por qué es significativo que la meta final de este versículo sea presentarse ante Cristo 'sin mancha' en el postrer día, y no simplemente 'ser perdonado'?",
       "options": [
-        "Ninguno",
-        "Es esencial; nos limpia mediante Su sangre",
-        "Es opcional",
-        "Solo ayuda un poco"
+        "Porque describe un objetivo completo y permanente de pureza, resultado de un proceso sostenido, no solo un evento aislado de perdón",
+        "Porque 'sin mancha' se refiere únicamente a la apariencia física de la persona",
+        "Porque esa frase se refiere únicamente a un estado emocional de paz, sin relación con la pureza real",
+        "Porque implica que el perdón y la santificación son conceptos idénticos sin ninguna diferencia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Agustina se arrepintió de un error y sintió alivio, pero después no hizo nada más al respecto, pensando que 'ya estaba todo resuelto'. Según la secuencia completa de 3 Nefi 27:20, ¿qué le ayudaría a entender su proceso?",
+      "options": [
+        "Que el arrepentimiento es un paso importante, pero la santificación continúa mediante mantener los convenios y buscar activamente la compañía del Espíritu Santo",
+        "Que una vez que siente alivio, ya no necesita hacer nada más nunca",
+        "Que el arrepentimiento y la santificación son exactamente lo mismo",
+        "Que sentir alivio significa que el proceso completo ya terminó"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Benjamín quiere explicarle a un amigo, en pocas palabras, qué significa 'seguir a Cristo' según el Libro de Mormón. Usando 3 Nefi 27:20, ¿qué resumen sería más fiel al texto?",
+      "options": [
+        "Que consiste únicamente en creer intelectualmente sin ninguna acción adicional",
+        "Que consiste en arrepentirse, acercarse a Cristo, bautizarse en Su nombre, y buscar la santificación continua mediante el Espíritu Santo",
+        "Que consiste en seguir tradiciones familiares sin ningún paso personal",
+        "Que este versículo no ofrece ningún resumen claro del proceso"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué significa 'permanecer firmes'?",
+      "id": 7,
+      "question": "Tanto el mandamiento de arrepentirse y bautizarse como la meta de presentarse 'sin mancha' forman una sola idea central de este pasaje de dominio de la doctrina. ¿Cuál es?",
       "options": [
-        "Solo un día",
-        "Continuar fiel y obediente hasta el fin de nuestra vida",
-        "Un año",
-        "Cuando sea conveniente"
+        "Que la salvación es un proceso completo y progresivo —no un solo evento— que lleva de la iniquidad a la pureza mediante pasos concretos y sostenidos",
+        "Que la salvación depende únicamente de un solo acto puntual, sin ningún proceso posterior",
+        "Que el bautismo por sí solo garantiza automáticamente la pureza final sin ningún paso adicional",
+        "Que este pasaje no tiene ninguna aplicación práctica para la vida diaria"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

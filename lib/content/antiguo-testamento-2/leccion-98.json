@@ -1,6 +1,53 @@
 {
   "id": "leccion-98",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "En medio de su sufrimiento, Job se hizo una de las preguntas más antiguas de la humanidad: «Si el hombre muriere, ¿volverá a vivir?» (Job 14:14). No era una pregunta filosófica abstracta para él. Había perdido a sus diez hijos, y con ellos, cualquier certeza fácil sobre el sentido de la vida. Un árbol talado, dice Job un poco antes, todavía puede retoñar si siente agua (Job 14:7–9). Pero un ser humano que muere, ¿qué esperanza le queda?\n\nY entonces, en medio de esa misma desesperación, Job dice algo sorprendente, algo que ningún otro personaje del Antiguo Testamento expresa con tanta claridad: «Yo sé que mi Redentor vive, y que al final se levantará sobre el polvo... después de deshecha esta mi piel, aún he de ver en mi carne a Dios» (Job 19:25–26). En el momento de mayor oscuridad de todo el libro, Job no encuentra una respuesta filosófica a su dolor. Encuentra una certeza personal: hay un Redentor, y ese Redentor vive.\n\nJob no tenía el evangelio completo que vos tenés hoy. No conocía el nombre de Jesucristo ni había leído sobre Su resurrección literal. Aun así, algo dentro de él sabía que la muerte no podía ser el final de la historia, y esa certeza sostuvo el resto de su fe. Vos sí conocés el resto de la historia: sabés que Jesucristo efectivamente resucitó, y que por eso cada persona que amás y que ya no está —o que algún día ya no vas a tener cerca— va a volver a vivir. La pregunta de Job ya tiene respuesta. La invitación es dejar que esa respuesta cambie cómo enfrentás tus propias pérdidas."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Job 14:14",
+          "texto": "Si el hombre muriere, ¿volverá a vivir? Todos los días de mi servicio esperaré, hasta que llegue mi relevo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/14?lang=spa&id=p14#p14"
+        },
+        {
+          "referencia": "Job 19:25–27",
+          "texto": "Yo sé que mi Redentor vive, y que al final se levantará sobre el polvo. Y después de deshecha esta mi piel, aún he de ver en mi carne a Dios, a quien yo veré por mí mismo; y mis ojos lo verán, y no otro, aunque mi corazón se consume dentro de mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/19?lang=spa&id=p25-p27#p25"
+        },
+        {
+          "referencia": "Alma 40:11–12",
+          "texto": "Ahora bien, respecto al estado del alma entre la muerte y la resurrección, he aquí, un ángel me ha hecho saber que los espíritus de todos los hombres, en cuanto se separan de este cuerpo mortal, sí, los espíritus de todos los hombres, sean buenos o malos, son llevados de regreso a ese Dios que les dio la vida. Y sucederá que los espíritus de los que son justos serán recibidos en un estado de felicidad que se llama paraíso: un estado de descanso, un estado de paz, donde descansarán de todas sus aflicciones, y de todo cuidado y pena.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=spa&id=p11-p12#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Jeffrey R. Holland",
+      "fuente": "«Como una vasija quebrada», Liahona, noviembre de 2013",
+      "texto": "Nuestros seres queridos que sufrían discapacidades en la vida terrenal se presentarán ante nosotros glorificados y grandiosos, asombrosamente perfectos en cuerpo y mente.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2013/11/saturday-afternoon-session/like-a-broken-vessel?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Job hizo la pregunta antes de tener la respuesta completa, y aun así llegó a una certeza que sostuvo toda su fe: su Redentor vive. Hoy esa certeza tiene nombre y tiene evidencia: Jesucristo resucitó, y por eso la muerte no es el punto final para nadie. El élder Holland enseñó que quienes sufrieron limitaciones en esta vida se levantarán perfectos en cuerpo y mente. Si estás cargando el dolor de una pérdida, dejá que esta semana esa certeza —no una explicación completa, sino una certeza— sea suficiente para sostenerte."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué sentiste al leer que Job, en medio de tanto dolor, dijo con tanta seguridad 'yo sé que mi Redentor vive'?",
+        "¿Conocés a alguien que haya perdido a un ser querido y haya encontrado consuelo en la certeza de la Resurrección?",
+        "¿Alguna vez pensaste en cómo sería reencontrarte con alguien que ya no está, gracias a la Resurrección?",
+        "¿Qué diferencia hace en tu vida diaria saber, y no solo creer, que Jesucristo resucitó?",
+        "¿A quién podrías consolar esta semana recordándole la certeza de la Resurrección, si está atravesando una pérdida?",
+        "¿Qué podrías hacer esta semana para que la esperanza de la Resurrección deje de ser solo una idea y se vuelva algo que sostiene tu día a día?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

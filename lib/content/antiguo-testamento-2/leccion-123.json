@@ -1,6 +1,53 @@
 {
   "id": "leccion-123",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Isaías 51 se dirige a un pueblo cansado, exiliado, que probablemente sentía que Dios lo había abandonado. La respuesta del Señor no es una reprimenda: es una promesa concreta de restauración. «Ciertamente consolará Jehová a Sion; consolará todas sus soledades, y convertirá su desierto en Edén» (Isaías 51:3). El desierto —esa imagen de aridez, de falta absoluta de vida— se convierte literalmente en jardín. No es una mejora parcial. Es una transformación completa.\n\nY después llega algo todavía más personal: «Yo, yo soy vuestro consolador» (Isaías 51:12), repetido dos veces seguidas, como quien insiste en que le crean. El Señor sigue esa declaración con una pregunta directa: «¿Quién eres tú para que tengas temor del hombre, que es mortal?». No está minimizando el miedo. Está poniendo las cosas en perspectiva: la opinión de otra persona, por más que pese en el momento, es pasajera; la promesa de Dios, no.\n\nEl capítulo 52 cambia de tono por completo, hacia algo casi eufórico: «¡Cuán hermosos son sobre los montes los pies del que trae buenas nuevas, del que publica la paz... del que dice a Sion: Tu Dios reina!» (Isaías 52:7). En la antigüedad, un mensajero corriendo desde lo alto de una montaña significaba que la guerra había terminado y llegaban buenas noticias. Isaías usa esa misma imagen para describir el mensaje del Evangelio: alguien que corre a contarte que ya no tenés que seguir esperando.\n\nVos también podés ser esos 'pies hermosos' para alguien que necesita escuchar buenas noticias esta semana: un mensaje de aliento, una invitación, simplemente contarle a alguien que no está solo. Isaías no solo describe el mensaje. Describe a quien lo lleva."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 51:3",
+          "texto": "Ciertamente consolará Jehová a Sion; consolará todas sus soledades, y convertirá su desierto en Edén y su soledad en huerto de Jehová; se hallarán en ella alegría y gozo, alabanza y voz de cántico.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Isaías 51:12",
+          "texto": "Yo, yo soy vuestro consolador. ¿Quién eres tú para que tengas temor del hombre, que es mortal, y del hijo de hombre, que será como el heno?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=spa&id=p12#p12"
+        },
+        {
+          "referencia": "Isaías 52:7",
+          "texto": "¡Cuán hermosos son sobre los montes los pies del que trae buenas nuevas, del que publica la paz, del que trae nuevas del bien, del que publica salvación, del que dice a Sion: Tu Dios reina!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/52?lang=spa&id=p7#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Ulisses Soares",
+      "fuente": "«Jesucristo: El Cuidador de nuestra alma», Conferencia General, abril de 2021",
+      "texto": "Puedo asegurarles que Cristo está constantemente al tanto de las adversidades que experimentamos en la vida mortal. Él entiende plenamente la amargura, la agonía y el dolor físico, así como las dificultades emocionales y espirituales que afrontamos. Las entrañas del Salvador rebosan de misericordia y Él siempre está listo para socorrernos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/41soares?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías promete que el desierto más árido de tu vida puede convertirse en jardín, y que Dios mismo, repitiéndolo dos veces, se declara tu consolador. El élder Soares enseñó que Cristo está constantemente al tanto de tus adversidades y que Sus misericordias siempre están listas para socorrerte. Esta semana, en vez de esperar a que alguien más te consuele primero, probá ser vos los 'pies hermosos' de Isaías 52 para alguien que necesita escuchar una buena noticia."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué parte de tu vida sentís ahora mismo como un 'desierto' que necesita convertirse en jardín?",
+        "¿Qué te genera que Dios repita 'yo, yo soy vuestro consolador' dos veces seguidas, como insistiendo en que le creas?",
+        "¿Alguna vez el miedo a la opinión de otra persona te pesó más de lo que debería haberlo hecho?",
+        "¿Qué te parece la imagen de 'pies hermosos' para describir a alguien que trae buenas noticias?",
+        "¿A quién podrías llevarle esta semana una 'buena noticia' —un mensaje de aliento, una invitación— como los 'pies hermosos' de Isaías 52?",
+        "¿Qué necesitás escuchar vos mismo esta semana de parte de Dios, según lo que aprendiste en Isaías 51?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

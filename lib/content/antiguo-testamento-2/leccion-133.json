@@ -1,6 +1,46 @@
 {
   "id": "leccion-133",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Desde la introducción a Isaías hasta el llamado de Jeremías, recorriste algunas de las profecías más citadas de todo el Antiguo Testamento sobre quién es Jesucristo: «se llamará su nombre Admirable, Consejero, Dios fuerte» (Isaías 9:6), «aunque vuestros pecados sean como la grana, como la nieve serán emblanquecidos» (Isaías 1:18), y «ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores» (Isaías 53:4). Cada uno de estos pasajes describe una faceta distinta de Cristo: Su identidad, Su poder para perdonar, Su capacidad de entender tu sufrimiento.\n\nEsta lección no agrega contenido nuevo: te invita a notar cuál de estas verdades sobre Cristo todavía no dejaste que cambiara algo concreto en tu vida diaria. Conocer estos títulos y promesas de memoria es un primer paso; dejar que realmente definan cómo enfrentás esta semana es el segundo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 9:6",
+          "texto": "Porque un niño nos es nacido, hijo nos es dado; y el principado estará sobre su hombro; y se llamará su nombre Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9?lang=spa&id=p6#p6"
+        },
+        {
+          "referencia": "Isaías 1:18",
+          "texto": "Venid ahora, dice Jehová, y razonemos juntos: aunque vuestros pecados sean como la grana, como la nieve serán emblanquecidos; aunque sean rojos como el carmesí, vendrán a ser como blanca lana.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=spa&id=p18#p18"
+        },
+        {
+          "referencia": "Isaías 53:3–5",
+          "texto": "Despreciado y desechado entre los hombres, varón de dolores y experimentado en quebranto... Ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores... y por sus heridas fuimos nosotros sanados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=spa&id=p3-p5#p3"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías y Jeremías, cada uno a su manera, apuntaron hacia el mismo Cristo: Consejero, sanador de pecados, cargador de dolores ajenos. Ya conocés estas verdades; la pregunta que deja esta unidad es si las dejaste actuar en vos. Elegí hoy uno de los tres pasajes de esta lección —Isaías 9:6, Isaías 1:18, o Isaías 53:3-5— y escribí una frase concreta sobre cómo ese título o promesa específica de Cristo va a cambiar algo en tu semana."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál de los tres títulos o promesas de Cristo repasados en esta lección sentís que más necesitás ahora mismo?",
+        "¿Qué verdad de Isaías o Jeremías te costó más entender en estas semanas de estudio?",
+        "¿Hubo algún momento reciente donde sentiste que uno de estos versículos realmente te ayudó, y no solo lo leíste?",
+        "¿Qué crees que todavía te falta aplicar de lo que aprendiste en esta unidad?",
+        "¿Qué meta pequeña y concreta podrías ponerte esta semana a partir de uno de estos tres pasajes?",
+        "¿A quién podrías compartirle esta semana uno de estos versículos, y por qué elegirías justamente ese?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

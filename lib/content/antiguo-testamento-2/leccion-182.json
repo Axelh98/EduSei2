@@ -1,6 +1,53 @@
 {
   "id": "leccion-182",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Tu cuerpo no es solo un vehículo que carga tu mente de un lado a otro: es una parte esencial de quién sos. Doctrina y Convenios lo dice de manera directa: «el espíritu y el cuerpo son el alma del hombre» (D&C 88:15). No sos un espíritu atrapado en un cuerpo, ni un cuerpo con un espíritu adentro; sos las dos cosas juntas, y lo que hacés con una afecta directamente a la otra.\n\nEso significa que cuánto dormís, qué comés, cuánto te movés y cómo tratás tu cuerpo no son temas solamente físicos: son también temas espirituales. Cuando no dormís lo suficiente, es más difícil sentir al Espíritu. Cuando comés de forma descuidada durante semanas, tu energía y tu ánimo bajan. El apóstol Pablo animaba a los primeros cristianos a «perfeccionar la santidad» limpiándose «de toda inmundicia de carne y de espíritu» (2 Corintios 7:1), como si ambas cosas fueran parte del mismo proceso.\n\nNadie espera que cambies todos tus hábitos de una vez. El patrón que el Señor usa para el crecimiento espiritual —«línea por línea, precepto por precepto, un poco aquí y un poco allí» (2 Nefi 28:30)— también aplica al cuidado del cuerpo. No se trata de una dieta perfecta ni de una rutina de ejercicio extrema. Se trata de elegir, de a poco, hábitos que respeten el don que tenés."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:15",
+          "texto": "Y el espíritu y el cuerpo son el alma del hombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "2 Corintios 7:1",
+          "texto": "Así que, amados, ya que tenemos estas promesas, limpiémonos de toda inmundicia de carne y de espíritu, perfeccionando la santidad en el temor de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/7?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "2 Nefi 28:30",
+          "texto": "Pues he aquí, así dice el Señor Dios: Daré a los hijos de los hombres línea por línea, precepto por precepto, un poco aquí y un poco allí; y benditos son aquellos que escuchan mis preceptos y prestan atención a mis consejos, porque aprenderán sabiduría; pues a quien reciba, le daré más; y a los que digan: Tenemos bastante, les será quitado aun lo que tuvieren.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=spa&id=p30#p30"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Limpios de manos y puros de corazón», Liahona, noviembre de 2007",
+      "texto": "Las mejoras espirituales pequeñas, constantes y progresivas, son los pasos que el Señor quiere que tomemos.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2007/11/clean-hands-and-a-pure-heart?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cuidar tu cuerpo no es una obligación aparte de tu vida espiritual: es parte de ella. Cada decisión sobre cómo dormís, comés y te movés es también una decisión sobre cómo tratás el don que Dios te dio. El élder Bednar enseñó que las mejoras pequeñas y constantes son exactamente los pasos que el Señor espera de vos, no los cambios drásticos e imposibles de sostener. Elegí esta semana un solo hábito —dormir una hora más, tomar más agua, moverte un poco cada día— y sostenelo, en vez de intentar cambiarlo todo de una vez."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué hábito de cuidado personal —dormir, comer, moverte— sentís que más estás descuidando ahora mismo?",
+        "¿Notaste alguna vez cómo tu estado de ánimo o tu conexión espiritual cambia según cómo cuidaste tu cuerpo esa semana?",
+        "¿Alguna vez intentaste cambiar demasiadas cosas de golpe y terminaste abandonando todo?",
+        "¿Qué significa para vos que 'el espíritu y el cuerpo son el alma del hombre'?",
+        "¿Qué un solo hábito pequeño podrías empezar a sostener esta semana en cuanto al cuidado de tu cuerpo?",
+        "¿A quién podrías pedirle que te acompañe esta semana en ese cambio pequeño, para no hacerlo solo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

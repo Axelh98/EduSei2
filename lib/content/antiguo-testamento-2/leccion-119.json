@@ -1,6 +1,53 @@
 {
   "id": "leccion-119",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Después de treinta y nueve capítulos llenos de advertencias y juicios, Isaías cambia por completo de tono. El capítulo 40 abre con una de las frases más tiernas de todo el libro: «Consolad, consolad a mi pueblo, dice vuestro Dios... hablad al corazón de Jerusalén» (Isaías 40:1–2). No es un Dios que castiga sin fin. Es un Dios que, después de la corrección, elige consolar.\n\nEse consuelo se vuelve todavía más concreto un capítulo después: «No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te fortalezco; siempre te ayudaré» (Isaías 41:10). Fijate en los verbos: no dice 'tal vez te ayude' ni 'voy a intentarlo'. Dice 'siempre te ayudaré', tres veces seguidas con distintas palabras, como si quisiera dejar cualquier duda completamente descartada.\n\nIsaías también describe la manera en que el Señor cumple esa promesa: «te sostendré de la mano... te pondré como convenio para el pueblo, como luz para las naciones, para que abras los ojos de los ciegos» (Isaías 42:6–7). El consuelo de Dios casi nunca llega de forma pasiva. Llega tomándote de la mano y después usándote a vos mismo como parte de la respuesta para otra persona que también tiene miedo.\n\nEl miedo no es un problema exclusivo de la época de Isaías ni de tu propia generación: es una experiencia humana constante, sea miedo a comprometerte, miedo al futuro, miedo a no ser suficiente. Lo que cambia, según estos capítulos, no es que el miedo desaparezca por completo, sino a quién se lo llevás. Isaías no promete una vida sin miedo. Promete un Dios que sostiene la mano de quien tiene miedo, y que después, muchas veces, usa esa misma mano para sostener a alguien más."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 41:10",
+          "texto": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te fortalezco; siempre te ayudaré; siempre te sustentaré con la diestra de mi justicia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/41?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Isaías 40:1–2",
+          "texto": "Consolad, consolad a mi pueblo, dice vuestro Dios. Hablad al corazón de Jerusalén y decidle a voces que su lucha ha terminado, que su iniquidad es perdonada, que ya ha recibido de la mano de Jehová el doble por todos sus pecados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=spa&id=p1-p2#p1"
+        },
+        {
+          "referencia": "Isaías 42:6–7",
+          "texto": "Yo, Jehová, te he llamado en justicia, y te sostendré de la mano, y te guardaré y te pondré como convenio para el pueblo, como luz para las naciones, para que abras los ojos de los ciegos, para que saques de la cárcel a los presos y de casas de prisión a los que moran en tinieblas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/42?lang=spa&id=p6-p7#p6"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "«Allegarnos más al Salvador», Conferencia General, octubre de 2022",
+      "texto": "Incluso ante las crecientes influencias mundanas que nos rodean, no tenemos por qué temer; el Señor nunca abandonará a Su pueblo del convenio... esta bendición adicional de poder espiritual no recae sobre nosotros simplemente porque formemos parte de esta generación; llega cuando fortalecemos nuestra fe en el Señor Jesucristo y guardamos Sus mandamientos, cuando llegamos a conocerlo y a amarlo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/35andersen?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías no le habla a un pueblo sin miedo; le habla a un pueblo real, con miedos reales, y le repite una y otra vez que no está solo. El élder Andersen enseñó que el Señor nunca abandona a Su pueblo del convenio, pero que ese poder adicional llega específicamente cuando fortalecemos nuestra fe y guardamos Sus mandamientos. El miedo probablemente no va a desaparecer de tu vida por completo. Lo que podés cambiar esta semana es a quién se lo llevás primero: en vez de cargarlo solo, decíselo a Dios en oración antes que a nadie más."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué miedo específico —al futuro, a comprometerte con algo, a no ser suficiente— reconocés en vos mismo ahora mismo?",
+        "¿Qué te genera que Dios repita 'siempre te ayudaré' tres veces con distintas palabras en un mismo versículo?",
+        "¿Alguna vez sentiste que Dios te 'sostuvo de la mano' en un momento de miedo concreto?",
+        "¿Qué significa para vos que el consuelo de Dios muchas veces te use a vos mismo para ayudar a otra persona con miedo?",
+        "¿A quién de tu alrededor podrías ayudar esta semana a sentirse menos solo con su miedo?",
+        "¿Qué miedo concreto podrías llevarle a Dios en oración esta semana, antes de intentar resolverlo completamente solo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

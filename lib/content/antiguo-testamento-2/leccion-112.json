@@ -1,6 +1,46 @@
 {
   "id": "leccion-112",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Desde Job hasta Eclesiastés recorriste un tramo del Antiguo Testamento centrado en preguntas grandes: ¿por qué sufrimos?, ¿hay vida después de la muerte?, ¿de dónde viene la verdadera sabiduría?, ¿qué es lo que realmente vale la pena buscar en esta vida? Job preguntó: «Si el hombre muriere, ¿volverá a vivir?» (Job 14:14), y encontró una respuesta parcial en su propia certeza de que su Redentor vive. El salmista describió la palabra de Dios como una lámpara que ilumina el siguiente paso, no todo el camino de una vez (Salmo 119:105). Y Eclesiastés, después de probar todo lo que el mundo podía ofrecer, concluyó que solo temer a Dios y guardar Sus mandamientos le daba sentido real a todo lo demás (Eclesiastés 12:13).\n\nEsta lección no agrega contenido nuevo: te invita a detenerte y notar cuál de estas tres verdades —la esperanza de la Resurrección, la palabra de Dios como guía diaria, o la perspectiva eterna sobre lo que realmente importa— necesitás dejar que cambie algo concreto en tu vida esta semana."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Job 14:14",
+          "texto": "Si el hombre muriere, ¿volverá a vivir? Todos los días de mi servicio esperaré, hasta que llegue mi relevo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/14?lang=spa&id=p14#p14"
+        },
+        {
+          "referencia": "Salmos 119:105",
+          "texto": "Lámpara es a mis pies tu palabra, y luz a mi camino.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=spa&id=p105#p105"
+        },
+        {
+          "referencia": "Eclesiastés 12:13–14",
+          "texto": "El fin de todo este asunto que has oído es este: Teme a Dios y guarda sus mandamientos, porque esto es el todo del hombre. Porque Dios traerá toda obra a juicio, junto con toda cosa oculta, buena o mala.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/eccl/12?lang=spa&id=p13-p14#p13"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Job, el salmista y Salomón llegaron, cada uno por su propio camino de sufrimiento o búsqueda, a la misma certeza final: hay un Dios real, presente, que merece confianza incluso cuando no se entiende todo. No hace falta pasar por todo lo que ellos pasaron para aprender lo mismo. Elegí hoy una sola de las tres verdades de esta unidad —la Resurrección, la guía diaria de las Escrituras, o la perspectiva eterna— y escribí una frase concreta sobre cómo la vas a aplicar esta semana."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "De las lecciones de Job, los Salmos, Proverbios y Eclesiastés, ¿cuál te dejó pensando más?",
+        "¿Qué pregunta grande de esta unidad —sobre el sufrimiento, la muerte, la sabiduría, el propósito de la vida— es la que más te interesa a vos personalmente?",
+        "¿Hubo algún versículo de estas semanas que sentiste que te hablaba directamente a vos?",
+        "¿Qué verdad de esta unidad crees que todavía no aplicaste realmente en tu vida diaria?",
+        "¿Qué meta pequeña y concreta podrías ponerte esta semana a partir de algo que aprendiste en estas lecciones?",
+        "¿A quién podrías compartirle algo que aprendiste en esta unidad, y por qué elegirías contarle justo a esa persona?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

@@ -1,6 +1,53 @@
 {
   "id": "leccion-118",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Isaías describió con dureza un problema espiritual que se repite en cualquier época: «este pueblo se me acerca con su boca y con sus labios me honra, pero ha alejado su corazón de mí» (Isaías 29:13). Es posible cumplir con todas las formas externas de la religión —asistir, repetir palabras, seguir el ritual— y aun así tener el corazón completamente ausente. Isaías llama a eso una contradicción que Dios mismo nota y corrige.\n\nLa respuesta a esa apostasía del corazón es sorprendente: «nuevamente haré una obra maravillosa entre este pueblo, una obra maravillosa y un prodigio» (Isaías 29:14). El propio Libro de Mormón cita esta misma profecía casi palabra por palabra, refiriéndose a sí mismo: «procederé yo... a ejecutar una obra maravillosa entre este pueblo; sí, una obra maravillosa y un prodigio» (2 Nefi 27:26). Los primeros líderes de la Restauración entendieron esa profecía como una referencia directa a lo que estaba por venir: la salida a la luz del Libro de Mormón.\n\nEl ángel Moroni, entregándole las planchas a José Smith, le advirtió sobre la responsabilidad que eso implicaba: sería «desarraigado» si permitía que se perdieran por descuido, pero serían protegidas si se esforzaba «con todo empeño» por preservarlas (José Smith—Historia 1:59).\n\nLo que Isaías vio como una «obra maravillosa y un prodigio» no fue un evento aislado del pasado, sino el inicio de algo que todavía está en marcha. La Restauración no terminó con la publicación del Libro de Mormón en 1830; sigue sucediendo, con revelación continua a través de profetas vivientes. Es fácil pensar en la Restauración como historia antigua, algo que 'ya pasó'. Isaías, en cambio, la describió como algo tan asombroso que sigue sorprendiendo a quien realmente le presta atención, incluso hoy."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Isaías 29:13–14",
+          "texto": "Dice, pues, el Señor: Porque este pueblo se me acerca con su boca y con sus labios me honra, pero ha alejado su corazón de mí... por tanto, he aquí que nuevamente haré una obra maravillosa entre este pueblo, una obra maravillosa y un prodigio; porque perecerá la sabiduría de sus sabios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=spa&id=p13-p14#p13"
+        },
+        {
+          "referencia": "2 Nefi 27:26",
+          "texto": "Procederé yo, por tanto, a ejecutar una obra maravillosa entre este pueblo; sí, una obra maravillosa y un prodigio; porque la sabiduría de sus sabios e instruidos perecerá, y el entendimiento de sus prudentes será escondido.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=spa&id=p26#p26"
+        },
+        {
+          "referencia": "José Smith—Historia 1:59",
+          "texto": "El mismo mensajero celestial me los entregó con esta advertencia: que yo sería responsable de ellos; que si permitía que se extraviaran por algún descuido o negligencia mía, sería desarraigado; pero que si me esforzaba con todo mi empeño por preservarlos hasta que él viniera por ellos, entonces serían protegidos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=spa&id=p59#p59"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dieter F. Uchtdorf",
+      "fuente": "«¿Están durmiendo durante la Restauración?», Conferencia General, abril de 2014",
+      "texto": "A veces consideramos la restauración del Evangelio como algo que está completo, que ya dejamos atrás... En realidad, la Restauración es un proceso en pleno desarrollo; la estamos viviendo ahora mismo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/04/are-you-sleeping-through-the-restoration?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías profetizó una 'obra maravillosa y un prodigio' que parecía imposible en su época: un libro sellado, entregado por un ángel, que restauraría la plenitud del Evangelio perdido. El presidente Uchtdorf enseñó que esa obra no terminó en 1830: la Restauración sigue en marcha, ahora mismo, mientras vos leés esto. La pregunta no es si la Restauración ya pasó, sino si estás despierto y participando activamente en ella. Esta semana, elegí una manera concreta de involucrarte más —leer el Libro de Mormón, escuchar a los profetas actuales— en esta obra que sigue sucediendo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez pensaste en la Restauración como algo que 'ya pasó' en vez de algo que sigue sucediendo ahora?",
+        "¿Qué te parece que Isaías haya profetizado sobre el Libro de Mormón casi 2700 años antes de que existiera?",
+        "¿Alguna vez sentiste que te acercabas a Dios 'con la boca' pero no realmente con el corazón, como describe Isaías 29:13?",
+        "¿Qué responsabilidad sentís que tenés, como José Smith con las planchas, de cuidar y compartir lo que ya conocés del Evangelio restaurado?",
+        "¿Qué podrías hacer esta semana para 'despertar' más activamente a la Restauración continua, en vez de darla por sentada?",
+        "¿A quién podrías compartirle esta semana algo sobre el Libro de Mormón o la Restauración?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

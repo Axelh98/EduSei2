@@ -1,0 +1,130 @@
+{
+  "id": "leccion-28-9",
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Los cuatro pasajes de Dominio de la Doctrina estudiados hasta ahora en el curso —Alma 34:9–10, Alma 39:9, Alma 41:10 y Helamán 5:12— vuelven a aparecer, esta vez con un enfoque distinto al de los repasos anteriores: el objetivo ahora es comprenderlos en conjunto, no por separado. El manual de Seminario propone conectar dos o tres pasajes a la vez para descubrir un mismo hilo doctrinal que los atraviesa a todos. Tomados uno por uno, parecen hablar de cosas distintas: el sacrificio infinito de Cristo, dejar de excusarse ante el pecado, la felicidad que la maldad nunca puede dar, y el fundamento sobre la roca. Pero mirados juntos, los cuatro señalan exactamente al mismo lugar. Solo el sacrificio infinito de Cristo puede pagar lo que nosotros no podemos (Alma 34). Por eso tiene sentido dejar de excusarnos y de verdad arrepentirnos (Alma 39). Por eso el pecado nunca puede darnos la felicidad real que solo Cristo ofrece (Alma 41). Y por eso el único fundamento que resiste cualquier tormenta es Él mismo (Helamán 5). Comprender un pasaje de Escritura por separado ya es valioso. Comprender cómo varios pasajes se sostienen entre sí, apuntando todos a Cristo, es lo que transforma versículos memorizados en una comprensión real del Evangelio."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 34:10",
+          "texto": "Porque es preciso que haya un gran y postrer sacrificio; sí, no un sacrificio de hombre, ni de bestia, ni de ningún género de ave; pues no será un sacrificio humano, sino debe ser un sacrificio infinito y eterno.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Alma 41:10",
+          "texto": "La maldad nunca fue felicidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Helamán 5:12",
+          "texto": "Es sobre la roca de nuestro Redentor, el cual es Cristo, que debéis establecer vuestro fundamento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Gerrit W. Gong",
+      "fuente": "Liahona, noviembre de 2018, pág. 40",
+      "texto": "La expiación de nuestro Salvador es infinita y eterna. Cada uno de nosotros se aparta y se queda corto. Quizá, por un tiempo, nos perdamos. Dios amorosamente nos asegura que, sin importar dónde estemos o qué hayamos hecho, no hay punto del que no podamos volver. Él espera listo para abrazarnos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/our-campfire-of-faith?lang=spa&id=p25#p25"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Cuatro pasajes distintos, estudiados en cuatro semanas distintas, y sin embargo todos terminan señalando lo mismo: a Cristo. El élder Gerrit W. Gong enseñó que la expiación de nuestro Salvador es infinita y eterna, y que no importa dónde estemos ni qué hayamos hecho, 'no hay punto del que no podamos volver'. Ese es exactamente el hilo que conecta el sacrificio infinito de Alma 34, el llamado a dejar de excusarnos de Alma 39, la promesa de que la maldad nunca fue felicidad de Alma 41, y el fundamento sobre la roca de Helamán 5. Memorizar cada pasaje por separado es un buen comienzo. Verlos conectados, todos apuntando a la misma Persona, es lo que realmente los vuelve doctrina comprendida, no solo palabras repetidas. Elegí dos de estos cuatro pasajes esta semana, y escribí, en tus propias palabras, cómo se conectan entre sí."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "De los cuatro pasajes repasados, ¿cuál te resultó más fácil de entender la primera vez, y cuál más difícil?",
+        "Si tuvieras que unir dos de estos cuatro pasajes en una sola idea, ¿cuáles elegirías y por qué?",
+        "¿Notás alguna vez que estudiás un tema de la Iglesia por separado, sin ver cómo se conecta con otras cosas que ya sabías?",
+        "¿Qué te parece la enseñanza del élder Gong de que 'no hay punto del que no podamos volver'?",
+        "Elegí dos de los cuatro pasajes de esta semana y escribí una frase que explique cómo se conectan entre sí.",
+        "¿A quién le podrías explicar esta semana cómo estos cuatro pasajes, aunque parecen hablar de cosas distintas, apuntan todos a Cristo?"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuáles son los cuatro pasajes de Dominio de la Doctrina que se repasan en esta lección?",
+      "options": [
+        "Alma 7:11–13, Alma 32:21, Alma 34:9–10 y Alma 39:9",
+        "Alma 34:9–10, Alma 39:9, Alma 41:10 y Helamán 5:12",
+        "Helamán 5:12, 3 Nefi 11:10–11, 3 Nefi 12:48 y 3 Nefi 27:20",
+        "Éter 12:6, Éter 12:27, Moroni 7:45–48 y Moroni 10:4–5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según el élder Gerrit W. Gong, ¿qué asegura Dios amorosamente a quienes se apartan o se pierden por un tiempo?",
+      "options": [
+        "Que deben esperar a la siguiente vida para poder ser perdonados",
+        "Que no hay punto del que no puedan volver, porque la expiación de Cristo es infinita y eterna",
+        "Que solo algunos pecados específicos pueden ser perdonados",
+        "Que el perdón depende exclusivamente de cuántas veces asistan a la Iglesia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Esta lección propone conectar varios pasajes de Dominio de la Doctrina entre sí, en lugar de estudiarlos solo por separado. ¿Qué gana un estudiante al ver esas conexiones?",
+      "options": [
+        "Ninguna diferencia real; estudiar los pasajes juntos o por separado da exactamente el mismo resultado",
+        "Una comprensión más profunda de cómo distintas doctrinas del Evangelio se sostienen entre sí y apuntan a un mismo centro",
+        "Que ya no hace falta memorizar cada pasaje individualmente",
+        "Que los pasajes pierden su significado específico al conectarlos con otros"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Qué tienen en común el sacrificio infinito de Alma 34:10 y el fundamento sobre la roca de Helamán 5:12, aunque parezcan tratar temas distintos?",
+      "options": [
+        "Ninguna relación real; son doctrinas completamente independientes entre sí",
+        "Ambos dependen exclusivamente de una interpretación simbólica sin base doctrinal",
+        "Ambos señalan a Jesucristo como el único capaz de sostener y salvar, ya sea mediante Su sacrificio o como fundamento firme ante las tormentas de la vida",
+        "Ambos se refieren únicamente a acontecimientos históricos del pueblo nefita, sin aplicación personal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Lucía siente que aprendió estos cuatro pasajes 'para el examen' pero no ve ninguna relación real entre ellos. Según el enfoque de esta lección, ¿qué le ayudaría a comprenderlos mejor?",
+      "options": [
+        "Memorizarlos con más repeticiones, sin cambiar nada más en su método de estudio",
+        "Buscar activamente cómo cada pasaje se conecta con los otros, en lugar de estudiar cada uno de forma aislada",
+        "Elegir memorizar solo los pasajes más cortos, ya que los más largos no valen el mismo esfuerzo",
+        "Concentrarse solamente en el pasaje que le resulte más fácil de recordar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Mateo quiere ayudar a un amigo que siente que ya hizo algo 'demasiado grave' como para volver a Dios. De los cuatro pasajes repasados, ¿cuál sería el más directo para esa situación específica, junto con la enseñanza del élder Gong?",
+      "options": [
+        "Helamán 5:12, porque habla únicamente del fundamento sobre la roca sin relación con el perdón",
+        "Alma 41:10, porque solo describe la felicidad en términos generales",
+        "Alma 34:9–10, porque enseña que el sacrificio infinito y eterno de Cristo alcanza para cualquier pecado, sin importar cuán grave parezca",
+        "Alma 39:9, porque se limita exclusivamente al tema de la castidad sin ninguna aplicación más amplia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la enseñanza del élder Gong sobre la expiación infinita como el propósito de conectar estos cuatro pasajes entre sí comparten un mismo principio central. ¿Cuál es?",
+      "options": [
+        "Que cada pasaje de Dominio de la Doctrina debe entenderse únicamente de forma aislada, sin relación con los demás",
+        "Que la comprensión profunda del Evangelio surge de ver cómo distintas doctrinas, estudiadas en momentos distintos, en realidad se sostienen todas sobre Cristo",
+        "Que solo algunos pasajes de Dominio de la Doctrina tienen relación real con Jesucristo",
+        "Que memorizar la referencia exacta es más importante que comprender su significado"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

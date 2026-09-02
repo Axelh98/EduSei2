@@ -1,6 +1,53 @@
 {
   "id": "leccion-135",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Dios le dio a Jeremías una instrucción específica: «Toma un rollo en blanco y escribe en él todas las palabras que te he hablado» (Jeremías 36:2). El propósito no era simplemente dejar un registro histórico. Era una última oportunidad para el pueblo: «Quizá oiga la casa de Judá todo el mal que yo pienso hacerles, y se vuelva cada uno de su mal camino, para que yo perdone su iniquidad» (Jeremías 36:3). La palabra escrita existía para invitar al arrepentimiento antes de que fuera demasiado tarde.\n\nCuando el rey Joacim escuchó que le leían el rollo, su reacción fue asombrosamente literal: «el rey cortó el rollo con un cuchillo de escriba y lo echó en el fuego... hasta que todo el rollo se consumió» (Jeremías 36:23). No discutió el mensaje. Simplemente lo destruyó, pedazo por pedazo, esperando que desapareciera junto con el papel.\n\nPero la palabra de Dios no depende de un objeto físico para seguir existiendo. Jeremías, con la ayuda de su escriba, volvió a escribir todo el mensaje —y agregó más—, después de que el rey quemó la primera copia. Quemar el rollo no cambió absolutamente nada de lo que Dios ya había dicho.\n\nEs una tentación humana muy antigua: cuando un mensaje incomoda, es más fácil deshacerse del mensaje que cambiar de rumbo. Podés 'quemar' un mensaje incómodo hoy simplemente ignorándolo, dejando de leer las Escrituras cuando dicen algo que no querés escuchar, o evitando una conversación que sabés que te va a confrontar. Pero, igual que con Jeremías, ignorar el mensaje no cambia la verdad que contiene. Solo retrasa el momento en que vas a tener que enfrentarla."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Jeremías 36:2–3",
+          "texto": "Toma un rollo en blanco y escribe en él todas las palabras que te he hablado contra Israel, y contra Judá y contra todas las naciones, desde el día en que comencé a hablarte, desde los días de Josías hasta el día de hoy. Quizá oiga la casa de Judá todo el mal que yo pienso hacerles, y se vuelva cada uno de su mal camino, para que yo perdone su iniquidad y su pecado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/36?lang=spa&id=p2-p3#p2"
+        },
+        {
+          "referencia": "Jeremías 36:23",
+          "texto": "Y sucedió que cuando Jehudí hubo leído tres o cuatro columnas, el rey cortó el rollo con un cuchillo de escriba y lo echó en el fuego que había en el brasero, hasta que todo el rollo se consumió en el fuego que había en el brasero.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/36?lang=spa&id=p23#p23"
+        },
+        {
+          "referencia": "2 Timoteo 3:16",
+          "texto": "Toda Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir, para instruir en justicia",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=spa&id=p16#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«El Libro de Mormón: ¿Cómo sería su vida sin él?», Conferencia General, octubre de 2017",
+      "texto": "Les prometo que si cada día estudian el Libro de Mormón con espíritu de oración, cada día tomarán mejores decisiones.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El rey Joacim pensó que quemando el rollo podía deshacerse del mensaje de Dios, pero Jeremías simplemente lo volvió a escribir. La palabra de Dios no depende de que vos la aceptes para seguir siendo verdadera. El presidente Nelson prometió que el estudio diario del Libro de Mormón con espíritu de oración produce mejores decisiones, cada día. Esta semana, en vez de 'quemar' —ignorar, posponer, evitar— un mensaje de las Escrituras que te incomoda, animate a leerlo de nuevo y preguntarte honestamente qué cambio concreto te está pidiendo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez ignoraste o evitaste un mensaje de las Escrituras porque te resultaba incómodo?",
+        "¿Qué te parece la reacción del rey Joacim de literalmente quemar el rollo en vez de considerar el mensaje?",
+        "¿Qué significa para vos que la palabra de Dios 'siga siendo verdadera' aunque alguien decida ignorarla?",
+        "¿Qué tan seguido leés las Escrituras 'con espíritu de oración', y no solo por cumplir una tarea?",
+        "¿Qué mensaje de las Escrituras sentís que estuviste evitando enfrentar, y que podrías retomar esta semana?",
+        "¿Qué decisión concreta podrías tomar mejor esta semana si aplicás el consejo de estudiar diariamente con espíritu de oración?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

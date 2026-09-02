@@ -1,6 +1,53 @@
 {
   "id": "leccion-108",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Salmo 136 tiene una estructura poco común: cada uno de sus veintiséis versículos termina exactamente con la misma frase, «porque para siempre es su misericordia». Es probable que se cantara en el templo como un canto responsorial: un líder recitaba la primera parte de cada versículo, recordando un evento de la historia de Israel —la Creación, la liberación de Egipto, el cruce del mar—, y el pueblo entero respondía en voz alta con ese mismo estribillo, una y otra vez.\n\nEsa repetición no es un descuido poético. Es el punto central del salmo: sin importar de qué evento se trate —una victoria, una liberación, un milagro cotidiano como el sol y la luna—, la respuesta siempre es la misma gratitud, el mismo reconocimiento de que la misericordia de Dios «para siempre» sostiene cada cosa buena que sucede.\n\nEn una revelación mucho más reciente, el Señor pidió algo parecido a Sus santos: «regocijaos para siempre, y en todas las cosas dad gracias» (D&C 98:1). Y agregó una promesa todavía más sorprendente: incluso las cosas difíciles «obrarán juntamente para vuestro bien» (D&C 98:3). No se trata de fingir alegría cuando algo duele, sino de confiar en que Dios puede usar hasta lo difícil para tu bien final.\n\nEs fácil dar gracias cuando todo sale bien. El desafío real —el que practicaban una y otra vez quienes cantaban este salmo— es repetir esa gratitud incluso en las semanas comunes, sin milagros visibles, cuando lo único que tenés para agradecer es lo de siempre: un techo, una familia, otro día. El Salmo 136 sugiere que precisamente ahí, en la repetición constante, está el verdadero entrenamiento de la gratitud."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Salmos 136:1–3",
+          "texto": "Alabad a Jehová, porque él es bueno, porque para siempre es su misericordia. Alabad al Dios de los dioses, porque para siempre es su misericordia. Alabad al Señor de señores, porque para siempre es su misericordia;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/136?lang=spa&id=p1-p3#p1"
+        },
+        {
+          "referencia": "Salmos 136:26",
+          "texto": "Alabad al Dios de los cielos, porque para siempre es su misericordia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/136?lang=spa&id=p26#p26"
+        },
+        {
+          "referencia": "Doctrina y Convenios 98:1–3",
+          "texto": "De cierto os digo, mis amigos, no temáis , consuélense vuestros corazones; sí, regocijaos para siempre, y en todas las cosas dad gracias ; esperando pacientemente en el Señor, porque vuestras oraciones han entrado en los oídos del Señor de Sabaot, y están inscritas con este sello y testimonio: El Señor ha jurado y decretado que serán otorgadas. Por lo tanto, él os concede esta promesa, con un convenio inmutable de que serán cumplidas; y todas las cosas con que habéis sido afligidos obrarán juntamente para vuestro bien y para la gloria de mi nombre, dice el Señor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=spa&id=p1-p3#p1"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Henry B. Eyring",
+      "fuente": "«Nuestro compañero constante», Conferencia General, octubre de 2023",
+      "texto": "Intento recordar el sacrificio del Salvador y Su amor por mí. Luego, cuando oro al Padre Celestial para darle las gracias, siento amor y la certeza de que mis oraciones son escuchadas y de que recibiré lo que sea mejor para mí y para mis seres queridos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/47eyring?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El Salmo 136 no agradece solo por los grandes milagros; agradece por todo, con la misma frase repetida veintiséis veces. El presidente Eyring describió algo similar: cuando ora dando gracias, recordando el sacrificio del Salvador, siente amor y la certeza de que sus oraciones son escuchadas. La gratitud no es solo una reacción a algo bueno que pasó; es una práctica que podés repetir incluso en una semana común. Esta noche, antes de dormir, nombrá en voz alta o por escrito tres cosas específicas por las que estás agradecido hoy."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué cosa cotidiana —no un gran milagro— das por sentada y casi nunca agradecés?",
+        "¿Por qué crees que el Salmo 136 repite la misma frase veintiséis veces seguidas?",
+        "¿Alguna vez sentiste que agradecer algo difícil, en vez de solo quejarte, te cambió la perspectiva sobre esa situación?",
+        "¿Qué significa para vos que D&C 98 diga que hasta las cosas difíciles pueden 'obrar juntamente para tu bien'?",
+        "¿Qué tres cosas concretas podrías agradecer hoy mismo, aunque sea una semana común y sin nada extraordinario?",
+        "¿A quién podrías expresarle gratitud esta semana, en vez de solo sentirla por dentro?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

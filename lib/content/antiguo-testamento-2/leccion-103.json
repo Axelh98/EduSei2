@@ -1,6 +1,53 @@
 {
   "id": "leccion-103",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "El Salmo 24 se cantaba probablemente mientras el arca del convenio subía al monte del templo en Jerusalén, en una procesión llena de música y expectativa. En ese momento de máxima solemnidad, el salmista se detiene y hace la pregunta que atraviesa todo el salmo: «¿Quién subirá al monte de Jehová? ¿Y quién estará en su lugar santo?» (Salmo 24:3).\n\nLa respuesta no tiene que ver con riqueza, títulos ni linaje: «El limpio de manos y puro de corazón, el que no ha elevado su alma a la vanidad ni jurado con engaño» (Salmo 24:4). Dos condiciones, una externa y otra interna: lo que hacés con tus manos —tus acciones— y lo que hay en tu corazón —tus verdaderas intenciones. Ambas cosas importan. No alcanza con parecer correcto por fuera si por dentro el corazón está en otro lugar.\n\nDespués el salmo cambia de tono por completo. Ya no pregunta quién puede subir; anuncia que Alguien mucho más grande está por entrar: «Alzad, oh puertas, vuestras cabezas... y entrará el Rey de gloria» (Salmo 24:7). ¿Quién es ese Rey? «Jehová el fuerte y valiente, Jehová el poderoso en batalla» (Salmo 24:8). El mismo salmo que empieza preguntando quién puede acercarse a Dios termina anunciando que Dios mismo viene a Su pueblo.\n\nEl profeta Isaías vio un cumplimiento futuro de esta misma escena: «vendrán muchos pueblos... Venid, y subamos al monte de Jehová» (Isaías 2:2–3), una imagen de todas las naciones acudiendo al templo del Señor en los últimos días. El Salmo 24 conecta directamente con el templo actual: cada vez que te preparás para entrar en él, estás respondiendo la misma pregunta que hizo el salmista hace tres mil años."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Salmos 24:3–4",
+          "texto": "¿Quién subirá al monte de Jehová? ¿Y quién estará en su lugar santo? El limpio de manos y puro de corazón, el que no ha elevado su alma a la vanidad ni jurado con engaño.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=spa&id=p3-p4#p3"
+        },
+        {
+          "referencia": "Salmos 24:7–10",
+          "texto": "¡Alzad, oh puertas, vuestras cabezas! Y alzaos vosotras, puertas eternas, y entrará el Rey de gloria. ¿Quién es este Rey de gloria? ¡Jehová el fuerte y valiente! ¡Jehová el poderoso en batalla! ¡Alzad, oh puertas, vuestras cabezas! Y alzaos vosotras, puertas eternas, y entrará el Rey de gloria. ¿Quién es este Rey de gloria? ¡Jehová de los ejércitos! ¡Él es el Rey de gloria!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=spa&id=p7-p10#p7"
+        },
+        {
+          "referencia": "Isaías 2:2–3",
+          "texto": "Y acontecerá en los postreros días que será establecido el monte de la casa de Jehová como cabeza de los montes, y será exaltado sobre los collados, y correrán a él todas las naciones. Y vendrán muchos pueblos y dirán: Venid, y subamos al monte de Jehová, a la casa del Dios de Jacob; y nos enseñará acerca de sus caminos, y caminaremos por sus sendas. Porque de Sion saldrá la ley, y de Jerusalén la palabra de Jehová.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/2?lang=spa&id=p2-p3#p2"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Limpios de manos y puros de corazón», Liahona, noviembre de 2007",
+      "texto": "Las manos se limpian mediante el proceso de despojarnos del hombre natural y de vencer el pecado y las malas influencias de nuestra vida por medio de la expiación del Salvador. El corazón se purifica al recibir Su poder fortalecedor para hacer el bien y llegar a ser mejores.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2007/11/clean-hands-and-a-pure-heart?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El Salmo 24 responde una pregunta que todavía importa hoy: ¿quién puede presentarse ante Dios? No los perfectos, sino los que tienen manos limpias y corazón puro, es decir, quienes dejan que la Expiación de Cristo transforme tanto sus acciones como sus intenciones. El élder Bednar explicó que ambas cosas —manos y corazón— vienen del mismo proceso: apoyarte en el Salvador. Cada vez que te preparás para entrar al templo, o simplemente para orar con sinceridad, estás respondiendo la misma pregunta que hizo el salmista. Esta semana, examiná no solo tus acciones, sino también qué hay realmente en tu corazón."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece más difícil de lograr: tener 'manos limpias' (tus acciones) o 'corazón puro' (tus intenciones)?",
+        "¿Por qué crees que el salmo menciona las dos cosas, y no alcanza con una sola?",
+        "¿Alguna vez actuaste correctamente por fuera pero sabías que tu corazón no estaba realmente ahí?",
+        "¿Qué relación ves entre este salmo y cómo te preparás (o te preparás) para entrar al templo?",
+        "¿Qué podrías hacer esta semana para acercar más tu corazón a tus acciones, para que ambos reflejen lo mismo?",
+        "¿En qué área de tu vida sentís que necesitás más la ayuda de la Expiación de Cristo para tener 'manos limpias y corazón puro'?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

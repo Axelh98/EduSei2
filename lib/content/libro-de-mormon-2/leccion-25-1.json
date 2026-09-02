@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Esta lección repasa los pasajes de Dominio de la Doctrina estudiados hasta ahora en el curso —Alma 34:9–10, Alma 39:9 y Alma 41:10— pero no solo para volver a memorizarlos, sino para practicar algo más difícil: aplicarlos a una situación real. El manual de Seminario propone tres escenarios distintos —un joven que busca un testimonio más firme, una joven que lucha contra malos hábitos, y un joven que duda del amor de Dios por su baja autoestima— y pide elegir un pasaje de Dominio de la Doctrina que le sirva a esa persona, explicar qué verdad concreta le ofrece, y cómo podría aplicarla. Saber un versículo de memoria es solo el primer paso; poder usarlo para ayudar a alguien —o a vos mismo— en un momento real es lo que realmente demuestra que lo entendiste."
+      "contenido": "Llegó el momento de repasar los pasajes de Dominio de la Doctrina estudiados hasta ahora en el curso —Alma 34:9–10, Alma 39:9 y Alma 41:10—, no solo para volver a memorizarlos, sino para practicar algo más difícil: aplicarlos a una situación real. El manual de Seminario propone tres escenarios distintos —un joven que busca un testimonio más firme, una joven que lucha contra malos hábitos, y un joven que duda del amor de Dios por su baja autoestima— y pide elegir un pasaje de Dominio de la Doctrina que le sirva a esa persona, explicar qué verdad concreta le ofrece, y cómo podría aplicarla. Saber un versículo de memoria es solo el primer paso; poder usarlo para ayudar a alguien —o a vos mismo— en un momento real es lo que realmente demuestra que lo entendiste."
     },
     {
       "tipo": "escrituras",
@@ -34,7 +34,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Saber de memoria un versículo no es lo mismo que saber usarlo. Esta lección repasa tres pasajes de Dominio de la Doctrina —Alma 34:9–10 sobre la expiación infinita, Alma 39:9 sobre dejar de excusarse, y Alma 41:10 sobre que la maldad nunca fue felicidad— pero el desafío real es aplicarlos: ¿a quién le servirían estas palabras hoy, y en qué situación concreta? La presidenta Bonnie H. Cordon enseñó que las Escrituras 'iluminan la mente, nutren el espíritu, dan respuesta a nuestras preguntas'. Esta semana, elegí uno de estos tres versículos y compartilo con alguien que esté atravesando exactamente la situación para la que ese versículo fue escrito."
+      "contenido": "Saber de memoria un versículo no es lo mismo que saber usarlo. Esta lección repasa tres pasajes de Dominio de la Doctrina —Alma 34:9–10 sobre la expiación infinita, Alma 39:9 sobre dejar de excusarse, y Alma 41:10 sobre que la maldad nunca fue felicidad— pero el desafío real es aplicarlos: ¿a quién le servirían estas palabras hoy, y en qué situación concreta? La presidenta Bonnie H. Cordon enseñó que las Escrituras 'iluminan la mente, nutren el espíritu, dan respuesta a nuestras preguntas'. Ponelo en práctica esta semana: elegí uno de estos tres versículos y compartilo con alguien que esté atravesando exactamente la situación para la que ese versículo fue escrito."
     },
     {
       "tipo": "cuestionario",
@@ -95,7 +95,7 @@
     },
     {
       "id": 5,
-      "question": "Sofía siente que ya cometió un error grave y piensa que 'ya no tiene sentido intentar cambiar'. Según el enfoque de esta lección de aplicar los pasajes de Dominio de la Doctrina a situaciones reales, ¿cuál de los tres le serviría mejor, y por qué?",
+      "question": "Ana siente que ya cometió un error grave y piensa que 'ya no tiene sentido intentar cambiar'. Según el enfoque de esta lección de aplicar los pasajes de Dominio de la Doctrina a situaciones reales, ¿cuál de los tres le serviría mejor, y por qué?",
       "options": [
         "Alma 41:10, porque enseña que la felicidad depende de la suerte, no de las decisiones",
         "Alma 39:9, porque enseña que siempre es posible 'recordar, comprometerse y abstenerse', sin importar el error ya cometido",
@@ -106,7 +106,7 @@
     },
     {
       "id": 6,
-      "question": "Luca no entiende por qué Cristo, y no cualquier otra persona muy buena, tenía que ser quien pagara por los pecados de la humanidad. ¿Cuál de los tres pasajes de Dominio de la Doctrina responde directamente esa pregunta?",
+      "question": "Benjamín no entiende por qué Cristo, y no cualquier otra persona muy buena, tenía que ser quien pagara por los pecados de la humanidad. ¿Cuál de los tres pasajes de Dominio de la Doctrina responde directamente esa pregunta?",
       "options": [
         "Alma 41:10",
         "Alma 39:9",
@@ -122,7 +122,7 @@
         "Que todos hablan exclusivamente de estrategias militares",
         "Que los tres, de diferentes maneras, explican por qué depender de Jesucristo y de Sus mandamientos —y no de nuestras propias excusas o de una falsa idea de felicidad— es el único camino verdadero hacia la paz y la salvación",
         "Que ninguno de los tres tiene relación real con la vida cotidiana",
-        "Que los tres pasajes fueron escritos por autores distintos sin ninguna relación entre sí"
+        "Que cada uno de los tres pasajes se aplica a una etapa distinta de la vida, sin ninguna conexión entre ellos"
       ],
       "correctAnswer": 1
     }

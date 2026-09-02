@@ -3,16 +3,97 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Al acercarse el fin del curso de estudio, esta evaluación permite al estudiante reflexionar profundamente sobre su relación con Jesucristo y el progreso espiritual alcanzado mediante el Libro de Mormón. No es solo un examen de conocimiento, sino una invitación a evaluar la conversión personal y establecer metas futuras de discipulado."
+      "contenido": "Esta evaluación cierra el semestre poniendo a prueba los doce pasajes de Dominio de la Doctrina de Alma a Moroni, pero también invita a algo más importante que una nota: reflexionar sobre tu propia conversión durante este tramo del curso. No es solo recordar referencias y frases clave; es preguntarte con honestidad qué cambió realmente en vos desde Alma 32 hasta Moroni 10. Aprendiste sobre el sacrificio infinito de Cristo, sobre dejar de excusarte y arrepentirte de verdad, sobre el fundamento en la roca del Redentor, sobre la caridad como Su amor puro, y sobre la promesa de que podés conocer la verdad de todas las cosas por el poder del Espíritu Santo. Cada uno de esos pasajes estuvo disponible para vos esta semana, la anterior, y todas las anteriores. La pregunta final del semestre no es cuánto memorizaste, sino qué hiciste con lo que aprendiste."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿De qué manera ha aumentado tu fe en Jesucristo desde que comenzaste este curso?",
-        "¿Qué doctrina o relato del Libro de Mormón ha cambiado permanentemente tu forma de vivir?",
-        "¿Qué compromiso quieres hacer de ahora en adelante respecto a tu estudio diario de las Escrituras?"
+        "¿De qué manera aumentó tu fe en Jesucristo desde que empezaste este tramo del curso?",
+        "¿Qué doctrina o relato de estas últimas semanas cambió permanentemente tu forma de vivir?",
+        "De los doce pasajes de Dominio de la Doctrina del semestre, ¿cuál sentís que realmente hiciste tuyo, más allá de memorizarlo?",
+        "¿Hubo algún momento concreto en el que usaste alguno de estos pasajes para ayudarte a vos mismo o a otra persona?",
+        "¿Qué compromiso concreto querés hacer de ahora en adelante respecto a tu estudio diario de las Escrituras?",
+        "Pensando en todo lo que estudiaste este semestre, ¿qué le dirías a la versión de vos que empezó el curso hace meses?"
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál de estos pasajes enseña la doctrina de la caridad como 'el amor puro de Cristo'?",
+      "options": [
+        "3 Nefi 11:10–11",
+        "Moroni 7:45–48",
+        "Helamán 5:12",
+        "Alma 39:9"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál de estos pasajes es la promesa de que se puede conocer 'la verdad de todas las cosas' por el poder del Espíritu Santo?",
+      "options": [
+        "Éter 12:27",
+        "Alma 7:11–13",
+        "Moroni 10:4–5",
+        "3 Nefi 27:20"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "A lo largo del semestre, pasajes como Alma 34:9-10, Helamán 5:12 y 3 Nefi 27:20 aparecieron en momentos distintos del curso, pero todos regresan a un mismo fundamento doctrinal. ¿Cuál es?",
+      "options": [
+        "Que la salvación y el fundamento de una vida firme dependen de Jesucristo y de Su expiación, sin importar en qué capítulo del Libro de Mormón se enseñe",
+        "Que cada pasaje trata un tema completamente independiente, sin ninguna conexión doctrinal con los demás",
+        "Que solo los pasajes de Dominio de la Doctrina tienen relación con Cristo, el resto del curso no",
+        "Que la doctrina central del semestre cambia según el libro específico que se esté estudiando"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "¿Por qué esta evaluación final pregunta explícitamente sobre la propia conversión personal, y no solo sobre el contenido memorizado?",
+      "options": [
+        "Porque el objetivo real del estudio de las Escrituras es la transformación personal, no únicamente la acumulación de conocimiento",
+        "Porque esa pregunta busca principalmente evaluar cuánto esfuerzo puso el alumno, no su crecimiento real",
+        "Porque esa pregunta es solo un formalismo sin ningún propósito real",
+        "Porque memorizar y convertirse son exactamente lo mismo, sin ninguna diferencia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Sofía siente que se sabe de memoria los doce pasajes del semestre, pero que 'no cambió nada' en su vida diaria desde que empezó el curso. Según el propósito real de esta evaluación final, ¿qué le ayudaría a repensar su experiencia?",
+      "options": [
+        "Que memorizar es suficiente por sí solo, no hace falta ningún cambio adicional",
+        "Que el verdadero objetivo del curso es que esas doctrinas se traduzcan en decisiones y cambios concretos en su vida diaria, no solo en memorización precisa",
+        "Que si no sintió ningún cambio, memorizar los pasajes no tuvo ningún valor",
+        "Que la memorización y la conversión personal son procesos completamente independientes entre sí"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Mateo quiere hacer un compromiso real para seguir creciendo espiritualmente después de esta evaluación, pero no sabe por dónde empezar. Según el enfoque de esta lección final, ¿qué le ayudaría a definir ese compromiso?",
+      "options": [
+        "Elegir uno de los pasajes o principios de este semestre que más lo interpeló, y convertirlo en una acción concreta y sostenida, en lugar de un propósito vago",
+        "Esperar a que el próximo curso le indique automáticamente qué hacer",
+        "Que cualquier compromiso, sin importar si es específico o vago, produce exactamente el mismo resultado",
+        "Que no es necesario ningún compromiso adicional después de terminar la evaluación"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Tanto la evaluación de los doce pasajes de Dominio de la Doctrina como la pregunta sobre la conversión personal comparten un mismo principio central de cierre de este semestre. ¿Cuál es?",
+      "options": [
+        "Que el conocimiento doctrinal y la transformación personal van de la mano: memorizar sin vivir es incompleto, y vivir sin comprender carece de fundamento sólido",
+        "Que solo importa la memorización exacta de las referencias, sin ninguna aplicación personal",
+        "Que el cambio personal, una vez logrado, ya no necesita ningún sustento doctrinal para mantenerse",
+        "Que la evaluación final no tiene ningún propósito relacionado con el crecimiento espiritual real del estudiante"
+      ],
+      "correctAnswer": 0
+    }
+  ]
 }

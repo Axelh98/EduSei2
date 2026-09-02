@@ -21,11 +21,25 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Dallin H. Oaks",
+      "fuente": "Conferencia General, octubre de 2000, «El reto de llegar a ser»",
+      "texto": "No es simplemente una evaluación de la suma total de las obras buenas y malas... Es un reconocimiento del efecto final que tienen nuestros hechos y pensamientos, o sea, lo que hemos llegado a ser.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2000/10/the-challenge-to-become?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Los nefitas se jactaron de su propia fuerza después de una victoria, en lugar de agradecer a Dios, y juraron vengarse — una reacción tan grave que Mormón se negó por un tiempo a seguir siendo su líder. El élder Dallin H. Oaks enseñó que el juicio final 'no es simplemente una evaluación de la suma total de las obras buenas y malas... es un reconocimiento... de lo que hemos llegado a ser.' No se trata de sumar puntos; se trata de en qué clase de persona te convertís con cada decisión repetida. Elegí, como ejercicio de esta semana, una actitud —orgullo, gratitud, venganza, perdón— que se está volviendo un patrón en vos, y preguntate en qué te está convirtiendo."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Por qué es peligroso atribuirse el éxito o la fuerza a uno mismo en lugar de a Dios?",
         "¿Qué podemos aprender de la decisión de Mormón de no apoyar al pueblo en su deseo de venganza?",
-        "¿De qué manera puedes mostrar gratitud al Señor por los triunfos en tu vida?"
+        "¿De qué manera puedes mostrar gratitud al Señor por los triunfos en tu vida?",
+        "¿Qué te parece la enseñanza del élder Oaks de que el juicio final es un reconocimiento de 'lo que hemos llegado a ser', no solo una suma de obras?",
+        "¿Hay algún patrón de actitud —orgullo, gratitud, resentimiento— que notás repitiéndose en vos últimamente?",
+        "Pensando en 'lo que estás llegando a ser' con tus decisiones repetidas, ¿qué cambio concreto podés empezar esta semana?"
       ]
     }
   ],
@@ -84,6 +98,28 @@
         "Que es natural"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Lucía sacó una nota excelente en un examen difícil y, en lugar de agradecer la ayuda de su familia y de Dios, empieza a sentir que 'lo logró sola' y a mirar con desprecio a quienes sacaron notas más bajas. Según el patrón de los nefitas en Mormón 3:9-11, ¿qué advertencia se aplicaría a su situación?",
+      "options": [
+        "Que atribuirse el éxito completamente a uno mismo, sin reconocer la ayuda recibida, es exactamente el patrón que llevó a los nefitas al orgullo y al rechazo de Mormón como líder",
+        "Que está bien sentirse superior después de un logro real",
+        "Que este pasaje se aplica únicamente a logros militares como los de los nefitas, no a la vida escolar",
+        "Que la gratitud solo es necesaria en contextos religiosos, no en la vida escolar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Tanto el juramento de venganza de los nefitas como la enseñanza del élder Oaks sobre que el juicio final refleja 'lo que hemos llegado a ser' comparten un mismo principio central. ¿Cuál es?",
+      "options": [
+        "Que las decisiones repetidas —como jurar venganza en lugar de perdonar— no son hechos aislados, sino que moldean el carácter final de una persona, que es precisamente lo que Dios reconoce en el juicio",
+        "Que un solo juramento de venganza ya determina por completo el destino final de una persona",
+        "Que el juicio final se basa únicamente en contar la cantidad de buenas y malas acciones",
+        "Que Dios solo toma en cuenta la última decisión de una persona, sin considerar el patrón de toda su vida"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

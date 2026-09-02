@@ -1,6 +1,46 @@
 {
   "id": "leccion-137",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta práctica te invita a repasar y memorizar pasajes de dominio de la doctrina que ya estudiaste en este curso, como Éxodo 20:8 sobre el día de reposo e Isaías 58:13–14 sobre guardarlo como una delicia. El Libro de Mormón agrega otra promesa poderosa: «bendito y feliz estado de aquellos que guardan los mandamientos de Dios... son bendecidos en todas las cosas, tanto temporales como espirituales» (Mosíah 2:41).\n\nMemorizar estos pasajes no es un ejercicio académico aislado. Es prepararte para el momento en que un amigo te pregunte por qué guardás el día de reposo, o por qué te importa obedecer los mandamientos cuando parece que eso te limita. Tener la referencia y las palabras exactas listas en tu mente te permite responder desde un lugar de convicción tranquila, no de improvisación nerviosa."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Éxodo 20:8–10",
+          "texto": "Acuérdate del día del reposo para santificarlo. Seis días trabajarás y harás toda tu obra, mas el séptimo día es reposo para Jehová tu Dios; no harás en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni el extranjero que está dentro de tus puertas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=spa&id=p8-p10#p8"
+        },
+        {
+          "referencia": "Isaías 58:13–14",
+          "texto": "Si retraes del día de reposo tu pie... y lo llamas delicia, santo, glorioso de Jehová... entonces te deleitarás en Jehová; y yo te haré cabalgar sobre las alturas de la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=spa&id=p13-p14#p13"
+        },
+        {
+          "referencia": "Mosíah 2:41",
+          "texto": "Y además, quisiera que consideraseis el bendito y feliz estado de aquellos que guardan los mandamientos de Dios. Porque he aquí, ellos son bendecidos en todas las cosas, tanto temporales como espirituales; y si continúan fieles hasta el fin, son recibidos en el cielo, para que así moren con Dios en un estado de interminable felicidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=spa&id=p41#p41"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "El rey Benjamín prometió que guardar los mandamientos de Dios trae bendiciones tanto temporales como espirituales, un 'bendito y feliz estado' que vale la pena poder explicar con claridad cuando alguien te pregunte por qué te importa. Estos pasajes de dominio de la doctrina no son solo para recitar de memoria: son herramientas para sostener tu propia fe y para ayudar a otros a entender la tuya. Esta semana, practicá decir de memoria uno de estos tres pasajes, y pensá en una situación real donde podrías necesitar usarlo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál de estos tres pasajes de dominio de la doctrina —el día de reposo, Isaías 58, o Mosíah 2:41— recordás con más facilidad?",
+        "¿Alguna vez alguien te preguntó por qué guardás el día de reposo o por qué obedecés ciertos mandamientos?",
+        "¿Qué le dirías a un amigo que piensa que los mandamientos de Dios solo restringen y no traen ninguna bendición real?",
+        "¿Qué significa para vos el 'bendito y feliz estado' que promete Mosíah 2:41 a quienes guardan los mandamientos?",
+        "¿Con quién podrías practicar esta semana decir de memoria uno de estos pasajes?",
+        "¿En qué situación real de tu vida podrías necesitar usar uno de estos versículos pronto?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

@@ -1,6 +1,53 @@
 {
   "id": "leccion-105",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Hay momentos en la vida donde las palabras no alcanzan, y otros donde sobran. Los Salmos 61 al 86 muestran ambos extremos. Algunos son gritos crudos de auxilio: «Oye, oh Dios, mi clamor... desde el extremo de la tierra clamaré a ti cuando mi corazón desmaye» (Salmo 61:1–2). No hay formalidad ahí, no hay un lenguaje cuidadosamente elegido. Es alguien que se siente al límite, pidiendo ayuda sin filtros.\n\nSiglos después, cuando los discípulos le pidieron a Jesús que les enseñara a orar, Él no les dio una fórmula complicada. Les enseñó algo breve, directo y honesto, hoy conocido como el Padrenuestro: «Padre nuestro que estás en los cielos, santificado sea tu nombre... Danos hoy el pan nuestro de cada día» (Mateo 6:9,11). La oración no tiene que sonar elegante para ser real. Tiene que ser sincera.\n\nLo que estos salmos enseñan, en conjunto, es que a Dios se le puede hablar de cualquier forma en que realmente te sentís: agotado, agradecido, confundido, desbordado de alegría. No hace falta esperar a sentirte 'espiritual' para orar, ni fingir una calma que no tenés. El salmista no editaba sus emociones antes de dirigirse a Dios, y tampoco tenés que hacerlo vos.\n\nMuchos jóvenes sienten que la oración tiene que seguir un formato fijo: agradecer, pedir, cerrar en el nombre de Jesucristo, y listo. Ese formato está bien, pero no es lo único que importa. Lo que estos salmos agregan es la sinceridad: hablarle a Dios con las mismas palabras, el mismo tono y la misma urgencia con la que le hablarías a alguien que de verdad confiás que te está escuchando."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Salmos 61:1–2",
+          "texto": "Oye, oh Dios, mi clamor; atiende a mi oración. Desde el extremo de la tierra clamaré a ti cuando mi corazón desmaye. Condúceme a la peña que es más alta que yo,",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/61?lang=spa&id=p1-p2#p1"
+        },
+        {
+          "referencia": "Mateo 6:9–13",
+          "texto": "Vosotros, pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre. Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra. Danos hoy el pan nuestro de cada día. Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores. Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder y la gloria, por todos los siglos. Amén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/6?lang=spa&id=p9-p13#p9"
+        },
+        {
+          "referencia": "Alma 37:36–37",
+          "texto": "Consulta al Señor en todos tus hechos, y él te dirigirá para bien; sí, cuando te acuestes por la noche, acuéstate en el Señor, para que él te cuide en tu sueño; y cuando te levantes por la mañana, rebose tu corazón de gratitud a Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa&id=p36-p37#p36"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Ora siempre», Liahona, noviembre de 2008",
+      "texto": "El suplicar al Padre Celestial las bendiciones que deseamos en nuestra vida es algo bueno y apropiado; sin embargo, el orar de todo corazón por los demás, tanto por los que amamos como por los que nos ultrajan, es también un elemento importante de la oración ferviente.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2008/11/pray-always?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Ya sea un grito de auxilio como el del Salmo 61 o una oración tan simple como el Padrenuestro, lo que estos pasajes tienen en común es la honestidad. El élder Bednar enseñó que una oración fervorosa incluye no solo pedir por vos mismo, sino también orar sinceramente por otros, incluso por quienes te lastimaron. La oración no necesita sonar perfecta para ser escuchada. Esta semana, en vez de repetir una oración automática, tomate un momento para decirle a Dios exactamente cómo te sentís, sin editarlo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Sentís que tus oraciones suelen ser sinceras y personales, o más bien automáticas y repetitivas?",
+        "¿Qué te parece la idea de clamar a Dios 'desde el extremo de la tierra' cuando tu corazón desmaya, como dice el Salmo 61?",
+        "¿Alguna vez oraste por alguien que te había lastimado, como enseña el élder Bednar?",
+        "¿Qué parte del Padrenuestro te parece más importante o más difícil de vivir en tu vida diaria?",
+        "¿Qué podrías cambiar esta semana en cómo orás, para que sea más honesto y menos automático?",
+        "¿Por quién más, además de vos mismo, podrías orar esta semana con todo el corazón?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

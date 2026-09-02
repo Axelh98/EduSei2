@@ -1,6 +1,53 @@
 {
   "id": "leccion-200",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Daniel vivía en Babilonia, sirviendo a un rey que no compartía su fe, rodeado de funcionarios que buscaban activamente una excusa para acusarlo. No encontraron ninguna falta en su trabajo, así que decidieron atacar directamente su fe: convencieron al rey de firmar un decreto que prohibía orar a cualquier dios que no fuera el rey mismo, durante treinta días. Daniel lo supo. Y aun así, «se hincaba de rodillas tres veces al día, y oraba... como lo solía hacer antes» (Daniel 6:10). No cambió nada de su rutina para esconderse ni para complacer a nadie.\n\nLo arrojaron al foso de los leones por eso. Y cuando el rey, angustiado, fue a ver qué había pasado, Daniel respondió: «Mi Dios envió a su ángel, el cual cerró la boca de los leones... porque ante él fui hallado inocente» (Daniel 6:22). La obediencia constante de Daniel —la misma antes, durante y después del peligro— fue precisamente lo que dejó una marca tan fuerte en un rey pagano que nunca había considerado adorar al Dios de Israel.\n\nJesús resumió el mismo principio de manera más simple: «Si me amáis, guardad mis mandamientos» (Juan 14:15). Tu obediencia diaria —ser honesto cuando nadie mira, mantener tus estándares en una fiesta, tratar bien a alguien que otros ignoran— no es solo una cuestión personal entre vos y Dios. Es, muchas veces, el argumento más convincente que alguien más va a ver sobre si vale la pena seguir a Cristo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Daniel 6:10",
+          "texto": "Y Daniel, cuando supo que el documento había sido firmado, entró en su casa, y abiertas las ventanas de su aposento que daban hacia Jerusalén, se hincaba de rodillas tres veces al día, y oraba y daba gracias delante de su Dios, como lo solía hacer antes.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Daniel 6:22",
+          "texto": "Mi Dios envió a su ángel, el cual cerró la boca de los leones, para que no me hiciesen daño, porque ante él fui hallado inocente; y aun delante de ti, oh rey, yo no he hecho nada malo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=spa&id=p22#p22"
+        },
+        {
+          "referencia": "Juan 14:15",
+          "texto": "Si me amáis, guardad mis mandamientos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa&id=p15#p15"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Para que siempre podamos tener Su Espíritu con nosotros», Conferencia General, abril de 2006",
+      "texto": "Debemos esforzarnos por percibir cuándo nos separamos del Espíritu del Señor... si algo que pensemos, veamos, escuchemos o hagamos nos separa del Espíritu Santo, entonces debemos dejar de pensar, ver, escuchar o hacer eso.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2006/04/that-we-may-always-have-his-spirit-to-be-with-us?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Daniel no cambió su comportamiento cuando se volvió peligroso ser obediente; siguió siendo exactamente quien ya era. Esa consistencia fue lo que impresionó a un rey que no compartía su fe. El élder Bednar enseñó que hay que estar atentos a qué decisiones nos separan del Espíritu, y dejar de hacer justamente eso. Tu obediencia diaria, aunque nadie la note, es una de las formas más reales en que otras personas ven el Evangelio funcionando en una vida real. Esta semana, mantené un estándar concreto sin excepción, aunque en el momento parezca que nadie se está fijando."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece más difícil: ser obediente cuando alguien te está mirando, o cuando nadie lo sabría nunca?",
+        "¿Alguna vez tu comportamiento consistente influyó en cómo alguien más veía a la Iglesia o al Evangelio?",
+        "¿Qué situación de tu vida diaria pone a prueba con más frecuencia tu decisión de ser obediente?",
+        "¿Qué te parece la reacción de Daniel de no cambiar en nada su rutina de oración, aunque sabía que era peligroso?",
+        "¿Qué estándar concreto podrías mantener esta semana sin excepción, aunque nadie más lo note?",
+        "¿A quién le podrías estar mostrando el Evangelio con tu ejemplo esta semana, aunque no te lo hayas propuesto conscientemente?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

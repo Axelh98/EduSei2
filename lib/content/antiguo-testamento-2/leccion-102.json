@@ -1,6 +1,53 @@
 {
   "id": "leccion-102",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "David había sido pastor de ovejas antes de ser rey. Conocía de primera mano lo que significaba cuidar animales indefensos en terreno peligroso: guiarlos a pastos seguros, protegerlos de depredadores, cargarlos cuando se lastimaban. Por eso, cuando quiso describir su relación con Dios, no encontró una imagen más precisa que esa: «Jehová es mi pastor; nada me faltará» (Salmo 23:1).\n\nEl resto del salmo desarrolla esa imagen con un detalle asombroso. El Pastor no solo guía; hace descansar en «pastos delicados» y junto a «aguas de reposo» (Salmo 23:2). No solo protege; camina junto a Sus ovejas incluso en el «valle de sombra de muerte», donde el miedo desaparece porque «tú estarás conmigo» (Salmo 23:4). Y no solo cuida en lo básico; prepara una mesa abundante «en presencia de mis angustiadores» —es decir, provee paz incluso en medio del conflicto, no solo después de que termine.\n\nSiglos después, Jesús retomó exactamente esta imagen para describirse a sí mismo: «Yo soy el buen pastor; el buen pastor da su vida por las ovejas» (Juan 10:11). Y el profeta Ezequiel había anticipado ese momento: «Yo, yo mismo buscaré a mis ovejas y las reconoceré» (Ezequiel 34:11). El Salmo 23 no es solo poesía antigua: es una profecía sobre cómo Cristo se relacionaría con cada uno de nosotros.\n\nQuizás no enfrentes leones ni valles literales, pero seguro conocés la sensación de sentirte perdido, ansioso, o de caminar por una etapa que se siente como sombra de muerte: una enfermedad en la familia, una amistad rota, la presión de no saber qué vas a hacer con tu futuro. El Salmo 23 no promete que esas cosas no van a pasar. Promete que no las vas a atravesar solo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Salmos 23:1–6",
+          "texto": "Jehová es mi pastor; nada me faltará. En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará. Confortará mi alma; me guiará por sendas de justicia por amor de su nombre. Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento. Aderezas mesa delante de mí en presencia de mis angustiadores; unges mi cabeza con aceite; mi copa está rebosando. Ciertamente el bien y la misericordia me seguirán todos los días de mi vida, y en la casa de Jehová moraré por largos días.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/23?lang=spa&id=p1-p6#p1"
+        },
+        {
+          "referencia": "Juan 10:11",
+          "texto": "Yo soy el buen pastor; el buen pastor da su vida por las ovejas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/10?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Ezequiel 34:11–12",
+          "texto": "Porque así ha dicho Jehová el Señor: He aquí, yo, yo mismo buscaré a mis ovejas y las reconoceré. Como reconoce a su rebaño el pastor el día en que está en medio de sus ovejas dispersadas, así reconoceré a mis ovejas y las libraré de todos los lugares en que fueron dispersadas un día nublado y oscuro.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=spa&id=p11-p12#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Gerrit W. Gong",
+      "fuente": "«Buen Pastor, Cordero de Dios», Liahona, mayo de 2019",
+      "texto": "Nuestro Buen Pastor nos llama con Su voz y en Su nombre. Él busca, recoge y viene a Su pueblo. Mediante Su profeta viviente y cada uno de nosotros, Él invita a todos a encontrar paz, propósito, sanación y gozo en la plenitud de Su evangelio restaurado y en Su senda de los convenios.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2019/05/53gong?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "David describió a Dios como un pastor porque sabía, de primera mano, cuánto cuidado requiere una oveja indefensa. Siglos después, Cristo tomó esa misma imagen para sí mismo: un pastor dispuesto a dar la vida por Sus ovejas. El élder Gong enseñó que el Buen Pastor nos llama con Su voz y busca activamente a cada uno de nosotros. La próxima vez que sientas que estás caminando por un 'valle de sombra de muerte' —un momento de miedo, ansiedad o pérdida—, recordá que el Salmo 23 no promete evitarlo, sino que no vas a estar solo mientras lo atravesás."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué imagen del Salmo 23 te resulta más fácil de imaginar: los pastos verdes, el valle de sombra de muerte, o la mesa preparada?",
+        "¿Por qué creés que David eligió la imagen de un pastor, y no otra, para describir su relación con Dios?",
+        "¿Alguna vez sentiste que atravesabas un 'valle de sombra de muerte' —un momento de mucho miedo o incertidumbre— y sentiste que no estabas solo?",
+        "¿Qué significa para vos que Cristo prepare 'mesa' —es decir, dé paz— incluso en medio de un conflicto, y no solo después de que termine?",
+        "¿En qué área de tu vida necesitás confiar esta semana en que el Pastor te está guiando, aunque no veas todo el camino?",
+        "¿A quién podrías ayudar esta semana a sentir que no está solo en su propio 'valle', siguiendo el ejemplo del Buen Pastor?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

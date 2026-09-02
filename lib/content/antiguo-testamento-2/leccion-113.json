@@ -1,6 +1,53 @@
 {
   "id": "leccion-113",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Cuando Jesús resucitado se apareció a los nefitas en el continente americano, les dio una instrucción concreta sobre qué leer: «un mandamiento os doy de que escudriñéis estas cosas diligentemente, porque grandes son las palabras de Isaías» (3 Nefi 23:1). No fue una sugerencia opcional. El propio Salvador consideró que las palabras de este profeta merecían un mandamiento explícito.\n\nIsaías escribió hace unos 2.700 años, en un lenguaje poético y a veces difícil de seguir, lleno de imágenes y símbolos. Eso hace que muchas personas —incluidos jóvenes en Seminario— eviten sus capítulos por parecer complicados. Pero Nefi ya había anticipado ese desafío con una clave importante: leyó las palabras de Isaías a sus hermanos específicamente «para convencerlos más plenamente de que creyeran en el Señor su Redentor» (1 Nefi 19:23). Es decir, el propósito de Isaías nunca fue confundir. Fue, siempre, señalar a Cristo.\n\nIsaías usa muchos títulos distintos para describir al Mesías que vendría: «se llamará su nombre Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz» (Isaías 9:6). Cada uno de esos títulos describe una función específica que Cristo cumple en tu propia vida: Consejero cuando no sabés qué decisión tomar, Príncipe de paz cuando todo se siente caótico, Dios fuerte cuando te falta fuerza propia.\n\nLa clave para entender Isaías no es descifrar cada símbolo poético con precisión académica. Es hacerte una pregunta más simple cada vez que leas un pasaje difícil: ¿qué me está diciendo esto sobre Jesucristo, y qué necesito yo de Él en este momento de mi vida? Con esa pregunta como guía, un libro que parecía intimidante empieza a abrirse."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "3 Nefi 23:1",
+          "texto": "Y he aquí, ahora os digo que debéis escudriñar estas cosas. Sí, un mandamiento os doy de que escudriñéis estas cosas diligentemente, porque grandes son las palabras de Isaías.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "1 Nefi 19:23",
+          "texto": "Y les leí muchas cosas que estaban escritas en los libros de Moisés; pero a fin de convencerlos más plenamente de que creyeran en el Señor su Redentor, les leí lo que escribió el profeta Isaías; porque comparé todas las Escrituras a nosotros mismos para nuestro provecho e instrucción.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/19?lang=spa&id=p23#p23"
+        },
+        {
+          "referencia": "Isaías 9:6",
+          "texto": "Porque un niño nos es nacido, hijo nos es dado; y el principado estará sobre su hombro; y se llamará su nombre Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/9?lang=spa&id=p6#p6"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Jeffrey R. Holland",
+      "fuente": "«La grandiosidad de Dios», Conferencia General, octubre de 2003",
+      "texto": "La gran verdad es que en todo lo que Jesús vino a hacer y a decir, incluso Su sufrimiento y sacrificio expiatorio, y en eso especialmente, Él nos estaba enseñando quién es y cómo es Dios nuestro Padre Eterno, cuán intensamente se dedica a Sus hijos en toda época y en toda nación.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2003/10/the-grandeur-of-god?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Isaías escribió siglos antes de que Cristo naciera, y aun así cada título que usó —Consejero, Príncipe de paz, Dios fuerte— sigue describiendo exactamente lo que necesitás de Él hoy. El élder Holland enseñó que todo lo que Jesús vino a hacer, incluido Su sufrimiento, nos enseñaba quién es realmente nuestro Padre Celestial. La próxima vez que un capítulo de Isaías te parezca difícil de entender, en vez de saltarlo, preguntate simplemente: ¿qué título de Cristo aparece acá, y por qué lo necesito esta semana?"
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué título de Cristo mencionado en Isaías 9:6 —Consejero, Príncipe de paz, Dios fuerte— sentís que necesitás más en este momento de tu vida?",
+        "¿Por qué crees que el propio Jesús resucitado dio un mandamiento específico de estudiar las palabras de Isaías?",
+        "¿Te habías animado antes a leer capítulos de Isaías por tu cuenta, o te parecían demasiado difíciles?",
+        "¿Qué diferencia hace saber que el propósito de Isaías siempre fue señalar a Cristo, y no confundir al lector?",
+        "¿Qué capítulo de Isaías te gustaría leer esta semana, usando la pregunta '¿qué me dice esto sobre Jesucristo?' como guía?",
+        "¿A quién le podrías compartir esta semana algo que aprendiste sobre Isaías, para ayudarlo a perderle el miedo a ese libro?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

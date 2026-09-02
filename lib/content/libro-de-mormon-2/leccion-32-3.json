@@ -90,22 +90,22 @@
     },
     {
       "id": 5,
-      "question": "Mateo participa de la Santa Cena todas las semanas, pero reconoce que su mente suele estar en otra cosa durante esos minutos. Según el énfasis de 3 Nefi 18 en 'acordarse siempre', ¿qué le ayudaría a cambiar?",
+      "question": "Nicolás participa de la Santa Cena todas las semanas, pero reconoce que su mente suele estar en otra cosa durante esos minutos. Según el énfasis de 3 Nefi 18 en 'acordarse siempre', ¿qué le ayudaría a cambiar?",
       "options": [
         "Que no hay ningún problema en que su mente esté distraída, ya que el ritual funciona igual",
         "Que la ordenanza invita justamente a una atención consciente y renovada, así que podría elegir de antemano un pensamiento concreto en qué enfocarse",
         "Que solo los adultos necesitan concentrarse realmente durante la Santa Cena",
-        "Que 'acordarse de Cristo' no tiene relación con estar presente mentalmente en ese momento"
+        "Que basta con estar físicamente presente en la Santa Cena, sin importar en qué esté pensando la mente"
       ],
       "correctAnswer": 1
     },
     {
       "id": 6,
-      "question": "Camila siente que después de cometer un error durante la semana, 'no tiene sentido' participar plenamente de la Santa Cena ese domingo. Según el propósito de esta ordenanza, ¿qué le ayudaría a repensarlo?",
+      "question": "Ana siente que después de cometer un error durante la semana, 'no tiene sentido' participar plenamente de la Santa Cena ese domingo. Según el propósito de esta ordenanza, ¿qué le ayudaría a repensarlo?",
       "options": [
         "Que tiene razón, y que debería evitar participar hasta sentirse completamente digna por sus propios méritos",
         "Que la Santa Cena existe precisamente para renovar el convenio y recordar la Expiación de Cristo, lo cual incluye la oportunidad de arrepentirse y volver a comprometerse",
-        "Que la Santa Cena no tiene ninguna relación con el arrepentimiento personal",
+        "Que la Santa Cena está reservada únicamente para quienes no cometieron ningún error esa semana",
         "Que solo quienes nunca cometen errores deberían participar del sacramento"
       ],
       "correctAnswer": 1
@@ -116,7 +116,7 @@
       "options": [
         "Que la Santa Cena es principalmente un evento social sin mayor trasfondo espiritual",
         "Que la ordenanza fue diseñada para mantener viva, de forma constante y personal, la memoria del sacrificio de Cristo y el convenio con Él",
-        "Que el pan y el vino no tienen relación entre sí en cuanto a su simbolismo",
+        "Que el pan y el vino representan exactamente lo mismo, sin ningún matiz distinto entre ellos",
         "Que solo importa la forma externa del ritual, no su significado interior"
       ],
       "correctAnswer": 1

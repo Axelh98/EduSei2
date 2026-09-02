@@ -1,6 +1,53 @@
 {
   "id": "leccion-95",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Ester tenía todo para perder. Presentarse ante el rey sin haber sido llamada podía costarle la vida —así de estricta era la ley persa—, y aun así decidió actuar después del mensaje de Mardoqueo. Antes de acercarse al rey, pidió algo específico: «Ayunad por mí... y así entraré a ver al rey, aunque no sea conforme a la ley; y si perezco, que perezca» (Ester 4:16). No fue una decisión impulsiva. Fue una decisión tomada con ayuno, con apoyo de su comunidad, y con la disposición a aceptar el peor resultado posible con tal de hacer lo correcto.\n\nCuando finalmente se presentó ante el rey, ocurrió algo que ella no podía garantizar de antemano: «ella halló gracia ante sus ojos» (Ester 5:2). El rey extendió su cetro, señal de que aceptaba su presencia, y le preguntó qué deseaba. En vez de exponer todo de inmediato, Ester actuó con paciencia y sabiduría, preparando el momento correcto para revelar el plan de exterminio de Amán contra su pueblo. Cuando llegó ese momento, habló con total claridad: «mi petición es que se me conceda la vida, y mi deseo, la vida de mi pueblo» (Ester 7:3).\n\nEl valor de Ester no consistió en no sentir miedo, sino en actuar a pesar de sentirlo. Vos probablemente nunca vas a enfrentar una decisión de vida o muerte como la suya, pero seguro vas a enfrentar momentos donde defender lo correcto —corregir un chisme, frenar una broma que lastima a alguien, decir que no a algo que sabés que está mal— te va a costar algo: la aprobación de un grupo, la comodidad de quedarte callado. Ester muestra que el valor real no espera a que desaparezca el miedo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Ester 4:16",
+          "texto": "Ve y reúne a todos los judíos que se hallan en Susa, y ayunad por mí y no comáis ni bebáis en tres días, ni de noche ni de día. Yo también ayunaré con mis doncellas igualmente, y así entraré a ver al rey, aunque no sea conforme a la ley; y si perezco, que perezca.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/esth/4?lang=spa&id=p16#p16"
+        },
+        {
+          "referencia": "Ester 5:1–3",
+          "texto": "Y aconteció que al tercer día se vistió Ester con su vestidura real y entró en el patio interior del palacio del rey, frente a los aposentos del rey; y estaba el rey sentado en su trono real en la sala real, frente a la entrada del palacio. Y sucedió que, cuando vio a la reina Ester que estaba en el patio, ella halló gracia ante sus ojos; y el rey extendió hacia Ester el cetro de oro que tenía en la mano. Entonces se acercó Ester y tocó la punta del cetro. Y dijo el rey: ¿Qué deseas, reina Ester? ¿Y cuál es tu petición? Hasta la mitad del reino se te dará.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/esth/5?lang=spa&id=p1-p3#p1"
+        },
+        {
+          "referencia": "Ester 7:3–4",
+          "texto": "Entonces la reina Ester respondió y dijo: Oh rey, si he hallado gracia ante tus ojos, y si le place al rey, mi petición es que se me conceda la vida, y mi deseo, la vida de mi pueblo. Porque hemos sido vendidos, yo y mi pueblo, para ser destruidos, para ser muertos y exterminados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/esth/7?lang=spa&id=p3-p4#p3"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Thomas S. Monson",
+      "fuente": "«Esfuércense y sean valientes», Conferencia General, abril de 2014",
+      "texto": "Todos sentiremos temor, seremos ridiculizados y afrontaremos oposición. Tengamos todos nosotros el valor de desafiar la opinión popular, la valentía de defender nuestros principios.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/04/be-strong-and-of-a-good-courage?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Ester no eliminó su miedo antes de actuar; actuó con miedo y con fe al mismo tiempo. Ayunó, se preparó, y cuando llegó el momento habló con claridad total, sin dar rodeos ni pedir disculpas por defender a su pueblo. El presidente Monson enseñó que todos vamos a sentir temor y oposición al defender lo correcto, y que el valor consiste precisamente en sostenerse ahí. La próxima vez que algo te pida elegir entre la comodidad y lo correcto, recordá que el valor no es la ausencia de miedo, sino la decisión de actuar de todos modos."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué parte del plan de Ester te parece más valiente: pedir el ayuno, presentarse sin ser llamada, o hablar frente al rey?",
+        "¿Por qué crees que Ester esperó y no reveló todo de inmediato al presentarse ante el rey?",
+        "¿Alguna vez tuviste que decir algo difícil o incómodo aunque sabías que podía costarte algo, como la aprobación de un grupo?",
+        "¿Qué relación ves entre el ayuno y la oración de Ester antes de actuar, y la manera en que vos te preparás antes de una decisión difícil?",
+        "¿Hay algo que sabés que deberías decir o hacer esta semana, aunque te dé miedo o vergüenza?",
+        "¿A quién podrías pedirle que te apoye esta semana mientras te animás a hacer algo correcto pero difícil?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

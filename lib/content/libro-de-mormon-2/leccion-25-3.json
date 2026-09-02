@@ -90,12 +90,12 @@
     },
     {
       "id": 5,
-      "question": "Sofía tiene que tomar una decisión importante sobre su futuro y no sabe cómo va a salir todo, pero siente que orar y confiar en Dios es el camino correcto. Según el ejemplo de los jóvenes guerreros, que actuaron con fe sin saber cómo terminaría la batalla, ¿qué le dirías?",
+      "question": "Agustina tiene que tomar una decisión importante sobre su futuro y no sabe cómo va a salir todo, pero siente que orar y confiar en Dios es el camino correcto. Según el ejemplo de los jóvenes guerreros, que actuaron con fe sin saber cómo terminaría la batalla, ¿qué le dirías?",
       "options": [
         "Que debería esperar hasta tener la certeza absoluta antes de tomar cualquier decisión",
         "Que confiar en Dios solo tiene sentido en situaciones de vida o muerte, como una guerra",
         "Que la fe, como la de estos jóvenes, muchas veces significa actuar con confianza en Dios incluso sin conocer el resultado final",
-        "Que la fe no tiene ninguna relación con tomar decisiones difíciles"
+        "Que la fe solo cuenta como tal si se siente una emoción fuerte en el momento de decidir"
       ],
       "correctAnswer": 2
     },

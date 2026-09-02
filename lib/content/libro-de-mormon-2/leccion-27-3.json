@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Después de que Nefi profetiza el asesinato del juez superior desde su torre, los jueces corruptos lo acusan de estar confabulado con el asesino —o de ser el asesino mismo— para desacreditarlo. Nefi responde con un argumento que va más allá de defenderse a sí mismo: les recuerda que todos los profetas, desde el principio, han testificado de la venida de Cristo. Menciona específicamente a Moisés, quien levantó una serpiente de bronce en el desierto para que el pueblo, con solo mirarla con fe, se sanara de las mordeduras venenosas — un símbolo directo de que Cristo sería 'levantado' para sanar a quienes miraran a Él con fe. Cuando finalmente se descubre que Seantum, el hermano del juez asesinado, es el verdadero culpable —exactamente como Nefi lo había profetizado—, muchos del pueblo empiezan a creer en él como profeta. El capítulo muestra que el testimonio de Cristo no es una invención reciente: es la misma verdad que todos los profetas, en todas las épocas, han sostenido."
+      "contenido": "Nefi profetiza, desde su torre, el asesinato del juez superior, y los jueces corruptos responden acusándolo de estar confabulado con el asesino —o de ser el asesino mismo— para desacreditarlo. Nefi responde con un argumento que va más allá de defenderse a sí mismo: les recuerda que todos los profetas, desde el principio, han testificado de la venida de Cristo. Menciona específicamente a Moisés, quien levantó una serpiente de bronce en el desierto para que el pueblo, con solo mirarla con fe, se sanara de las mordeduras venenosas — un símbolo directo de que Cristo sería 'levantado' para sanar a quienes miraran a Él con fe. Cuando finalmente se descubre que Seantum, el hermano del juez asesinado, es el verdadero culpable —exactamente como Nefi lo había profetizado—, muchos del pueblo empiezan a creer en él como profeta. El capítulo muestra que el testimonio de Cristo no es una invención reciente: es la misma verdad que todos los profetas, en todas las épocas, han sostenido."
     },
     {
       "tipo": "escrituras",
@@ -36,7 +36,7 @@
       "preguntas": [
         "¿Qué te pareció la forma en que Nefi respondió a la acusación de sedición, apelando al testimonio de todos los profetas antiguos?",
         "¿Qué simbolismo ves en la serpiente de bronce que Moisés levantó, como figura de Cristo?",
-        "El élder Holland enseñó que el testimonio no requiere conocimiento perfecto. ¿Hay algo que sabés que es verdad, aunque no puedas explicarlo del todo?",
+        "Nefi dice en Helamán 8:24 que sabe que sus palabras son verdaderas porque fue llamado a declararlas, no porque tenga todas las respuestas. ¿Alguna vez sentiste una certeza personal así, aunque no pudieras explicarla del todo?",
         "¿Alguna vez tuviste que testificar de algo en lo que creías, sin tener todas las respuestas?",
         "¿De qué manera podés testificar de Cristo esta semana, con tus propias palabras, aunque sea con alguien cercano?",
         "¿Qué te genera saber que el mismo testimonio de Cristo que Nefi predicaba ya lo habían predicado los profetas siglos antes?"
@@ -90,10 +90,10 @@
     },
     {
       "id": 5,
-      "question": "Mateo siente que no puede compartir su testimonio de Cristo porque no tiene respuesta para todas las preguntas difíciles que le hacen sus compañeros. Según la enseñanza del élder Holland, ¿qué le podrías decir?",
+      "question": "Nicolás siente que no puede compartir su testimonio de Cristo porque no tiene respuesta para todas las preguntas difíciles que le hacen sus compañeros. Según el argumento que da Nefi en Helamán 8:24 sobre por qué sabe que sus palabras son verdaderas, ¿qué le podrías decir?",
       "options": [
         "Que no debería compartir su testimonio hasta tener todas las respuestas",
-        "Que el testimonio no requiere un conocimiento perfecto, sino confiar y actuar según lo que sí sabe que es verdad, aunque el conocimiento sea imperfecto",
+        "Que, como Nefi, puede saber que algo es verdadero por el testimonio que ha recibido, sin necesidad de tener resueltas todas las preguntas difíciles antes de compartirlo",
         "Que solo los líderes de la Iglesia pueden testificar con autoridad",
         "Que las preguntas difíciles anulan cualquier testimonio genuino"
       ],
@@ -101,7 +101,7 @@
     },
     {
       "id": 6,
-      "question": "Sofía le cuenta a una amiga que cree en Cristo, y la amiga le responde que 'esas son solo ideas de tu religión, cada una tiene la suya'. Según el argumento de Nefi de que todos los profetas —a través de la historia— han testificado de Cristo, ¿qué le podría responder?",
+      "question": "Ana le cuenta a una amiga que cree en Cristo, y la amiga le responde que 'esas son solo ideas de tu religión, cada una tiene la suya'. Según el argumento de Nefi de que todos los profetas —a través de la historia— han testificado de Cristo, ¿qué le podría responder?",
       "options": [
         "Que su fe no tiene ninguna base histórica real",
         "Que el testimonio de Cristo no es una idea aislada de una sola persona o época, sino algo que profetas de distintos tiempos, como Moisés, ya habían testificado con anterioridad",
@@ -116,7 +116,7 @@
       "options": [
         "Que el testimonio de Cristo ha sido consistente a través de todas las épocas, y que mirar a Él con fe —no la perfección del conocimiento— es lo que trae vida",
         "Que solo los profetas antiguos podían tener un testimonio válido de Cristo",
-        "Que los símbolos del Antiguo Testamento no tienen ninguna relación con el Libro de Mormón",
+        "Que la serpiente de bronce y la defensa de Nefi apuntan a mensajes distintos, sin ningún punto en común",
         "Que el testimonio de Nefi era completamente distinto al de los profetas anteriores"
       ],
       "correctAnswer": 0
