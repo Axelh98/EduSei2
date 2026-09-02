@@ -37,7 +37,8 @@
         "¿Por qué D&C 19:16–19 es tan significativo como testimonio de la Expiación? ¿Qué lo hace único?",
         "¿Alguna vez evitaste arrepentirte porque parecía demasiado difícil o vergonzoso? ¿Qué te frenó?",
         "¿Cómo cambia tu relación con Dios cuando entendés el arrepentimiento como un don de amor y no como un castigo?",
-        "¿Hay algo de lo que necesites arrepentirte esta semana? ¿Cuál sería el primer paso concreto?"
+        "¿Hay algo de lo que necesites arrepentirte esta semana? ¿Cuál sería el primer paso concreto?",
+        "¿A quién conocés que esté cargando una culpa vieja y podría necesitar escuchar que el arrepentimiento es un don? ¿Qué le dirías?"
       ]
     }
   ],
@@ -57,45 +58,45 @@
       "id": 2,
       "question": "D&C 19:16–19 es el único lugar en las Escrituras donde el propio Salvador describe Su sufrimiento en primera persona. ¿Por qué eso lo hace especialmente significativo?",
       "options": [
+        "Porque ese versículo fue escrito en el idioma original de Adán",
         "Porque demuestra que el Salvador tiene mejor memoria que los profetas",
         "Porque las palabras de un testigo presencial tienen más peso que las de alguien que lo oyó contar",
-        "Porque así lo confirmó la Primera Presidencia en una conferencia general",
-        "Porque ese versículo fue escrito en el idioma original de Adán"
+        "Porque así lo confirmó la Primera Presidencia en una conferencia general"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Alguna vez evitaste arrepentirte de algo porque te parecía demasiado vergonzoso o difícil? ¿Qué es lo que más frena a un adolescente para arrepentirse?",
+      "question": "Martina evita hablar con el obispo de algo que hizo hace meses porque le da vergüenza y siente que sería «peor». Según lo que el Salvador declara en Doctrina y Convenios 19:16–19, ¿qué está entendiendo al revés?",
       "options": [
-        "No conocer los pasos exactos del proceso",
-        "El miedo al juicio de los demás o la vergüenza de admitir el error",
-        "No tener acceso a las Escrituras en ese momento",
-        "No entender bien las diferencias doctrinales del arrepentimiento"
+        "Que la vergüenza es una señal confiable de la gravedad real de lo que hizo.",
+        "Que conviene esperar a sentirse con más fuerzas antes de empezar el proceso.",
+        "Que resolver el asunto en privado con Dios alcanza en todos los casos.",
+        "Que el arrepentimiento es la salida del sufrimiento, no su entrada: Cristo sufrió para que ella no tenga que hacerlo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "El Salvador 'quiso no beber la copa amarga y retroceder' pero la bebió de todas formas. ¿Qué nos dice eso sobre el arrepentimiento como don?",
       "options": [
-        "Que el arrepentimiento es fácil porque Cristo ya hizo todo el trabajo",
         "Que el arrepentimiento nos costó algo inmenso al Salvador, lo que lo hace valioso y no trivial",
         "Que el arrepentimiento es imposible sin experimentar sufrimiento igual al de Cristo",
-        "Que el arrepentimiento solo es válido si lloramos durante el proceso"
+        "Que el arrepentimiento solo es válido si lloramos durante el proceso",
+        "Que el arrepentimiento es fácil porque Cristo ya hizo todo el trabajo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Hay algo de lo que necesites arrepentirte esta semana? ¿Cuál sería el primer paso concreto más pequeño que podrías dar?",
+      "question": "El presidente Nelson enseñó que «demasiadas personas consideran el arrepentimiento como un castigo» y que es Satanás quien genera ese sentimiento. Según esa enseñanza, ¿de dónde viene la resistencia a arrepentirse?",
       "options": [
-        "Esperar a que pase más tiempo y el problema se resuelva solo",
-        "Hablar con alguien que no tenga nada que ver con la situación",
-        "Reconocer el error ante el Padre Celestial en oración y decidir no repetirlo",
-        "Hacer algo bueno para compensar sin mencionar el error"
+        "De una evaluación realista del esfuerzo que el proceso exige.",
+        "De una idea sobre el arrepentimiento que el adversario alimenta, no de la naturaleza del arrepentimiento mismo.",
+        "De la falta de instrucción doctrinal sobre cómo hacerlo.",
+        "De la severidad con que la Iglesia trata las faltas graves."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -107,6 +108,17 @@
         "Que no hayamos cometido el mismo error más de tres veces"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 19:16 dice que Cristo sufrió por todos «para que no sufran ellos si se arrepienten», y el presidente Nelson enseñó que ver el arrepentimiento como castigo viene del adversario. ¿Qué principio común sostienen las dos ideas?",
+      "options": [
+        "Que la gravedad de la falta determina cuánta misericordia está disponible.",
+        "Que el sufrimiento del Salvador reemplaza toda consecuencia de las decisiones humanas.",
+        "Que el arrepentimiento es sobre todo un acto de disciplina personal.",
+        "Que el arrepentimiento existe para liberar del sufrimiento, y quien lo vive como condena está leyendo mal su propósito."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

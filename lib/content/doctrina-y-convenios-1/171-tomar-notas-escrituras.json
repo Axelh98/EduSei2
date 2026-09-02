@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Anotar las Escrituras es mucho más que subrayar versículos al azar. Es un sistema personal para convertir el texto sagrado en un diálogo vivo entre el Señor y vos. Cuando anotás qué te reveló un versículo, qué pregunta te generó, o cómo lo conectás con algo de tu vida, las Escrituras dejan de ser un libro de lectura y se convierten en un registro personal de tu relación con el Señor. Esta lección enseña herramientas concretas: sistemas de marcado con colores o símbolos, cómo escribir notas al margen con conexiones personales, cómo registrar referencias cruzadas, y cómo usar el diario de estudio como complemento. Para los jóvenes acostumbrados a tomar notas en la escuela, estas habilidades son transferibles — y hacen que el tiempo de estudio sea mucho más productivo."
+      "contenido": [
+        "Anotar las Escrituras es mucho más que subrayar versículos al azar. Es un sistema personal para convertir el texto sagrado en un diálogo vivo entre el Señor y vos. Cuando anotás qué te reveló un versículo, qué pregunta te generó o cómo lo conectás con algo de tu vida, las Escrituras dejan de ser un libro de lectura y se convierten en un registro personal de tu relación con el Señor.",
+        "Esta lección enseña herramientas concretas: sistemas de marcado con colores o símbolos, cómo escribir notas al margen con conexiones personales, cómo registrar referencias cruzadas y cómo usar el diario de estudio como complemento. Para los jóvenes acostumbrados a tomar apuntes en la escuela, son habilidades transferibles. Hay una diferencia importante, eso sí: en el colegio uno anota para acordarse en el examen, y acá uno anota para acordarse dentro de cinco años, cuando vuelva a pasar por algo parecido y necesite recordar qué le dijo el Señor la vez anterior."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -29,16 +32,19 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Las Escrituras anotadas con honestidad y con el Espíritu se convierten en uno de los registros espirituales más valiosos de tu vida. Con el tiempo, leer tus propias notas es leer la historia de cómo el Señor te habló en cada etapa. Esta semana, elegí un sistema de anotación — aunque sea simple — y comenzá a aplicarlo. No hace falta ser perfecto desde el principio; hace falta comenzar."
+      "contenido": [
+        "Las Escrituras anotadas con honestidad y con el Espíritu se convierten en uno de los registros espirituales más valiosos de una vida. Con el tiempo, leer las propias notas es leer la historia de cómo el Señor te habló en cada etapa. Empezá hoy con un sistema simple —un color, un símbolo, una frase al margen— y aplicalo en el próximo capítulo que leas. No hace falta que sea perfecto desde el principio; hace falta que empiece."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cómo anotás actualmente las Escrituras, si es que lo hacés? ¿Qué te funciona y qué no?",
         "¿Cuál es la diferencia entre subrayar un versículo y escribir por qué ese versículo importa para vos hoy?",
-        "¿Qué le diría Néfi de 2 Nefi 4 sobre anotar las Escrituras a un joven que piensa que es demasiado trabajo?",
+        "Nefi escribió sobre las planchas «las cosas de mi alma» (2 Nefi 4:15). ¿Qué le respondería a un joven que dice que anotar es demasiado trabajo?",
         "Elegí un versículo de las lecciones de esta semana y escribí una nota personal al margen: ¿qué te dijo ese versículo a vos, en tu situación actual?",
-        "¿Cómo vas a organizar tu estudio de las Escrituras esta semana para incluir anotaciones personales?"
+        "¿Cómo vas a organizar tu estudio de las Escrituras esta semana para incluir anotaciones personales?",
+        "Dentro de un año vas a releer lo que anotes este mes. ¿Qué te gustaría encontrar escrito ahí?"
       ]
     }
   ],
@@ -47,32 +53,32 @@
       "id": 1,
       "question": "Según la lección, Néfi escribió en las planchas 'las cosas de su alma' (2 Nefi 4:15). ¿Cuál es la diferencia entre ese tipo de registro y simplemente copiar versículos?",
       "options": [
-        "Registrar 'las cosas del alma' implica conectar el texto con la experiencia personal — lo que el versículo significa para quien lo vive, no solo lo que dice.",
         "No hay diferencia práctica — ambos métodos producen el mismo crecimiento espiritual.",
         "Copiar versículos es más valioso porque preserva el texto exacto sin riesgo de error.",
-        "Copiar versículos es el primer paso antes de poder registrar reflexiones personales."
+        "Copiar versículos es el primer paso antes de poder registrar reflexiones personales.",
+        "Registrar 'las cosas del alma' implica conectar el texto con la experiencia personal — lo que el versículo significa para quien lo vive, no solo lo que dice."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "D&C 88:118 dice 'buscad conocimiento con el estudio y también con la fe'. ¿Qué papel juega anotar las Escrituras en ese principio combinado?",
+      "question": "Doctrina y Convenios 88:118 pide buscar conocimiento «por el estudio y también por la fe». ¿Qué papel cumple anotar las Escrituras dentro de ese principio combinado?",
       "options": [
-        "Anotar es la parte del 'estudio' — el componente activo que hace que la lectura sea más que pasiva.",
-        "Anotar pertenece solo a la parte de 'fe' porque es una práctica espiritual, no académica.",
-        "Anotar no tiene relación directa con ese versículo, que habla del estudio de ciencias y no de las Escrituras.",
-        "Anotar es un método opcional que algunos estudiantes prefieren por su estilo de aprendizaje personal."
+        "Es la parte del estudio: el componente activo que convierte la lectura en algo más que una pasada de ojos.",
+        "Pertenece solo a la parte de la fe, porque se trata de una práctica devocional y no de un trabajo intelectual.",
+        "Corresponde a una etapa posterior, cuando ya se conoce bien el texto y se puede comentar con criterio.",
+        "Es un método optativo que conviene a quienes aprenden mejor escribiendo que escuchando."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "El élder Scott enseñó que si no se registran las impresiones del Espíritu cuando llegan, se pierden. ¿Qué implica eso sobre el momento de anotar durante el estudio?",
+      "question": "El élder Bednar enseñó que anotar lo que aprendemos y sentimos al estudiar «es otra forma de meditar y una invitación poderosa que extendemos al Espíritu Santo para que continúe dándonos instrucción». ¿Qué implica eso sobre el momento de anotar?",
       "options": [
-        "Que es mejor anotar todo después de terminar la sesión de estudio para no interrumpir el flujo.",
-        "Que las impresiones del Espíritu deben registrarse en el momento — la dilación las debilita o las borra.",
-        "Que solo las impresiones muy fuertes vale la pena anotar; las pequeñas no tienen importancia.",
-        "Que el momento de anotar no importa mientras se haga en algún punto del día."
+        "Conviene anotar todo al terminar la sesión, para no interrumpir el ritmo de lectura.",
+        "Anotar durante el estudio forma parte del acto de meditar, y es lo que invita a que la instrucción continúe.",
+        "Solo vale la pena registrar las impresiones muy intensas; las pequeñas se pueden dejar pasar.",
+        "El momento de anotar es indistinto mientras se haga en algún punto del día."
       ],
       "correctAnswer": 1
     },
@@ -80,45 +86,45 @@
       "id": 4,
       "question": "¿Por qué un sistema de marcas simple y personal es más valioso que un sistema muy detallado tomado de un libro de métodos de estudio?",
       "options": [
+        "Porque los libros de métodos de estudio nunca consideran el estudio de las Escrituras en sus diseños.",
         "Porque los sistemas complejos son señal de orgullo intelectual incompatible con la humildad espiritual.",
         "Porque un sistema que uno diseña y entiende se aplica consistentemente — un sistema ajeno se abandona cuando se vuelve complicado.",
-        "Porque los sistemas complejos están diseñados para adultos y no funcionan para jóvenes.",
-        "Porque los libros de métodos de estudio nunca consideran el estudio de las Escrituras en sus diseños."
+        "Porque los sistemas complejos están diseñados para adultos y no funcionan para jóvenes."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Camila tiene sus Escrituras sin ninguna marca ni nota después de dos años de Seminario. Quiere empezar esta semana pero le parece abrumador. ¿Cuál es el primer paso más pequeño y más concreto que podría dar?",
       "options": [
+        "Pedirle al maestro que le diga cuáles versículos vale la pena marcar para no equivocarse.",
         "Comprar Escrituras nuevas con más margen para que sea más fácil escribir.",
         "Leer primero toda la sección de D&C que está estudiando sin marcar nada para entenderla completamente antes.",
-        "Elegir un solo versículo de la lección de hoy y escribir en el margen una frase sobre por qué le importa ahora mismo.",
-        "Pedirle al maestro que le diga cuáles versículos vale la pena marcar para no equivocarse."
+        "Elegir un solo versículo de la lección de hoy y escribir en el margen una frase sobre por qué le importa ahora mismo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Mateo dice que prefiere leer las Escrituras en el celular porque 'en papel no puedo marcar sin arruinarlo'. Según el principio de la lección, ¿qué herramienta de Gospel Library resuelve exactamente ese problema?",
       "options": [
-        "No hay solución — las Escrituras digitales no permiten anotaciones.",
-        "Debe leer en papel porque las anotaciones digitales no tienen el mismo valor espiritual.",
         "La función de notas y subrayado de Gospel Library permite anotar versículos en digital con el mismo principio que en papel.",
-        "Debe alternar entre papel y digital según el día para desarrollar ambos hábitos."
+        "Debe alternar entre papel y digital según el día para desarrollar ambos hábitos.",
+        "No hay solución — las Escrituras digitales no permiten anotaciones.",
+        "Debe leer en papel porque las anotaciones digitales no tienen el mismo valor espiritual."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 7,
-      "question": "Néfi escribía 'las cosas de su alma' y el élder Scott decía que anotar preserva revelación personal. ¿Qué principio común sobre el estudio de las Escrituras forman esas dos enseñanzas juntas?",
+      "question": "Nefi escribía «las cosas de mi alma» sobre las planchas, y el élder Bednar describe el anotar como una invitación al Espíritu para seguir instruyendo. ¿Qué principio común sobre el estudio de las Escrituras forman las dos enseñanzas juntas?",
       "options": [
-        "Que el estudio más valioso es el que produce más texto escrito al final.",
-        "Que las Escrituras son más útiles cuando se estudian en grupo que individualmente.",
-        "Que las anotaciones de otros pueden reemplazar el estudio propio si son lo suficientemente profundas.",
-        "Que el estudio de las Escrituras no es solo un acto de lectura sino un acto de diálogo — uno lleva su vida al texto y registra lo que el texto responde."
+        "Que las anotaciones de otra persona pueden sustituir el estudio propio si son suficientemente profundas.",
+        "Que estudiar no es solo leer: es un diálogo en el que uno lleva su vida al texto y registra lo que recibe.",
+        "Que el estudio más valioso es el que produce mayor cantidad de texto escrito.",
+        "Que las Escrituras rinden más cuando se estudian en grupo que a solas."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ]
 }

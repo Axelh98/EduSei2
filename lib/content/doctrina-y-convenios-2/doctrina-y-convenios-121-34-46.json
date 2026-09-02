@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-121-34-46",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Desde la cárcel de Liberty, José Smith escribió el pasaje que más ha moldeado la forma en que la Iglesia entiende la autoridad. Empieza con una pregunta incómoda: «muchos son los llamados, y pocos los escogidos. ¿Y por qué no son escogidos?». Y la responde: porque ponen su corazón en las cosas del mundo y aspiran a los honores de los hombres.",
+        "Después viene la parte más citada. Los derechos del sacerdocio están unidos a los poderes del cielo, y «no pueden ser gobernados ni manejados sino conforme a los principios de la rectitud». Y si alguien intenta encubrir sus pecados, satisfacer su orgullo o «ejercer mando, dominio o compulsión sobre las almas de los hijos de los hombres, en cualquier grado de injusticia», el resultado es inmediato: los cielos se retiran y «se acabó el sacerdocio o autoridad de tal hombre».",
+        "El versículo 41 dice entonces cómo sí funciona: «ningún poder o influencia se puede ni se debe mantener en virtud del sacerdocio, sino por persuasión, por longanimidad, benignidad, mansedumbre y por amor sincero». Esa lista no es solo para quien tiene un cargo: describe cómo se ejerce cualquier influencia legítima sobre otra persona, incluida la de un amigo sobre otro."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 121:34–35",
+          "texto": "He aquí, muchos son los llamados, y pocos los escogidos. ¿Y por qué no son escogidos? Porque a tal grado han puesto su corazón en las cosas de este mundo, y aspiran tanto a los honores de los hombres, que no aprenden esta lección única.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=spa&id=p34-p35#p34"
+        },
+        {
+          "referencia": "Doctrina y Convenios 121:36–37",
+          "texto": "Que los derechos del sacerdocio están inseparablemente unidos a los poderes del cielo, y que estos no pueden ser gobernados ni manejados sino conforme a los principios de la rectitud. Es cierto que se nos pueden conferir; pero cuando intentamos encubrir nuestros pecados, o satisfacer nuestro orgullo, nuestra vana ambición, o ejercer mando, dominio o compulsión sobre las almas de los hijos de los hombres, en cualquier grado de injusticia, he aquí, los cielos se retiran.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=spa&id=p36-p37#p36"
+        },
+        {
+          "referencia": "Doctrina y Convenios 121:41–42",
+          "texto": "Ningún poder o influencia se puede ni se debe mantener en virtud del sacerdocio, sino por persuasión, por longanimidad, benignidad, mansedumbre y por amor sincero; por bondad y por conocimiento puro, lo cual engrandecerá en gran manera el alma sin hipocresía y sin malicia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=spa&id=p41-p42#p41"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Podemos actuar mejor y ser mejores», Conferencia General, abril de 2019 (Liahona, mayo de 2019, pág. 68)",
+      "texto": "Sabemos lo que nos dará mayor acceso a los poderes del cielo; también sabemos lo que obstaculizará nuestro progreso; y lo que tenemos que dejar de hacer para aumentar nuestro acceso a los poderes del cielo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/36nelson?lang=spa&id=p12#p12"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La lista del versículo 41 —persuasión, longanimidad, benignidad, mansedumbre, amor sincero— es la descripción de cómo se ejerce influencia legítima sobre otra persona. Cualquiera que intente conseguir algo de otro por presión, culpa o imposición está usando el método que el pasaje descarta, tenga o no un cargo. Revisá cómo conseguís que los demás hagan lo que querés —en tu casa, con tus amigos— y elegí una relación donde vas a cambiar el método esta semana."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "«Muchos son los llamados, y pocos los escogidos». Según el versículo 35, ¿cuál es la razón?",
+        "El versículo 37 dice que en ciertos casos «se acabó el sacerdocio o autoridad de tal hombre». ¿Qué te parece que significa eso en la práctica?",
+        "Leé la lista del versículo 41. ¿Cuál de esas cualidades te falta más a vos?",
+        "¿Cómo conseguís habitualmente que los demás hagan lo que querés? Sé honesto.",
+        "El presidente Nelson dice que sabemos qué tenemos que dejar de hacer para acceder a los poderes del cielo. ¿Qué sabés vos que tendrías que dejar?",
+        "Elegí una relación donde vas a cambiar el método esta semana. ¿Cuál es y qué vas a hacer distinto?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué mensaje principal comunica el Señor en DyC 122?",
+      "question": "Según Doctrina y Convenios 121:35, ¿por qué muchos de los llamados no son escogidos?",
       "options": [
-        "Las pruebas forman parte del crecimiento eterno",
-        "El sufrimiento es señal de abandono",
-        "La fe evita toda dificultad",
-        "Las pruebas carecen de propósito"
+        "Porque no reciben las ordenanzas necesarias a tiempo.",
+        "Porque ponen su corazón en las cosas del mundo y aspiran a los honores de los hombres.",
+        "Porque carecen del conocimiento doctrinal suficiente.",
+        "Porque no fueron ordenados por quien poseía las llaves."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "Según DyC 122, ¿qué efecto pueden tener las aflicciones en la vida de una persona fiel?",
+      "question": "Según Doctrina y Convenios 121:36, ¿de qué manera pueden gobernarse los derechos del sacerdocio?",
       "options": [
-        "Le darán experiencia y serán para su bien",
-        "La destruirán espiritualmente",
-        "No tienen valor alguno",
-        "La alejarán del Señor"
+        "De acuerdo con las instrucciones de quien preside.",
+        "En proporción a la experiencia de quien lo ejerce.",
+        "Únicamente conforme a los principios de la rectitud.",
+        "Según la autoridad del oficio que se ostente."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué comparación utiliza el Señor para consolar a José Smith en DyC 122?",
+      "question": "¿Qué ocurre, según Doctrina y Convenios 121:37, cuando alguien intenta ejercer «mando, dominio o compulsión» sobre las almas de otros?",
       "options": [
-        "Que el Hijo del Hombre ha descendido debajo de todas las cosas",
-        "Que los profetas no sufren",
-        "Que las pruebas son temporales",
-        "Que la muerte no existe"
+        "Su autoridad queda suspendida hasta que se arrepienta.",
+        "Su influencia disminuye de manera gradual con el tiempo.",
+        "Recibe una advertencia antes de perder su autoridad.",
+        "Los cielos se retiran, el Espíritu se ofende y se acaba el sacerdocio o autoridad de tal hombre."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué enseñanza ofrece DyC 122 acerca de Jesucristo?",
+      "question": "El presidente Nelson enseñó que sabemos «lo que tenemos que dejar de hacer para aumentar nuestro acceso a los poderes del cielo». ¿Qué supone esa afirmación?",
       "options": [
-        "Él comprende plenamente nuestro sufrimiento",
-        "Él está distante del dolor humano",
-        "Él no experimentó pruebas",
-        "Él evita el sufrimiento"
+        "Que el obstáculo suele ser conocido por la persona, y el problema no es de información sino de decisión.",
+        "Que hace falta revelación para identificar qué está obstaculizando el progreso.",
+        "Que los obstáculos son distintos para cada persona y difíciles de reconocer.",
+        "Que el acceso a los poderes del cielo depende sobre todo de la constancia."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué principio de fe podemos aplicar hoy a partir de DyC 122?",
+      "question": "Franco consigue que su hermano menor lo ayude haciéndolo sentir culpable cada vez. Según Doctrina y Convenios 121:41–42, ¿qué problema tiene ese método?",
       "options": [
-        "Confiar en el Señor aun en medio de pruebas intensas",
-        "Evitar toda dificultad",
-        "Esperar solo bendiciones inmediatas",
-        "Medir la fe por la comodidad"
+        "Que no es sostenible a largo plazo entre hermanos.",
+        "Que la influencia legítima se sostiene por persuasión y amor sincero, no por presión.",
+        "Que su hermano podría negarse a colaborar en el futuro.",
+        "Que corresponde a los padres asignar ese tipo de tareas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Camila es presidenta de su clase y siente que para que las cosas funcionen tiene que imponerse. Según el modelo del versículo 41, ¿qué le conviene revisar?",
+      "options": [
+        "Que la eficacia justifica el método mientras el objetivo sea bueno.",
+        "Que la autoridad de su llamamiento respalda las decisiones que tome.",
+        "Que el pasaje descarta la imposición y describe otro método: persuasión, paciencia, bondad y amor sincero.",
+        "Que conviene delegar las decisiones difíciles en su consejera."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 121:37 describe lo que hace perder la autoridad y 121:41 describe cómo sí se ejerce. ¿Qué principio común forman los dos versículos?",
+      "options": [
+        "Que la autoridad se pierde solo por faltas graves y públicas.",
+        "Que quienes ocupan cargos tienen más margen que el resto de los miembros.",
+        "Que la persuasión es un recurso alternativo cuando falla la imposición.",
+        "Que la autoridad real depende del carácter de quien la ejerce, y no del cargo que ocupe."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

@@ -1,83 +1,136 @@
 {
   "id": "doctrina-y-convenios-86",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En diciembre de 1832, mientras revisaba la traducción de la Biblia, José Smith llegó a la parábola del trigo y la cizaña de Mateo 13. El Señor le reveló entonces Doctrina y Convenios 86, que la explica aplicada a los últimos días.",
+        "La parábola original decía que el trigo y la cizaña crecerían juntos hasta la cosecha. La revelación agrega el detalle que cambia todo: en los últimos días la hierba «está brotando y todavía está tierna» (versículo 4), y por eso el Señor manda esperar. La cosecha se demora, no por descuido, sino para proteger al trigo que aún no maduró.",
+        "El élder Neil L. Andersen aplicó esa imagen directamente a los jóvenes: quizás a veces uno no se sienta como una espiga fuerte y madura, y ahí conviene tener paciencia con uno mismo, porque el Señor dijo que el trigo incluye tiernas hierbas que brotan. Ese es el punto de la lección. No se trata de saber si sos trigo o cizaña, sino de entender que el trigo también empieza siendo frágil, y que el Señor cuenta con eso."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 86:4",
+          "texto": "Mas he aquí, en los postreros días, aun ahora mientras el Señor comienza a sacar a luz la palabra, y la hierba está brotando y todavía está tierna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/86?lang=spa&id=p4#p4"
+        },
+        {
+          "referencia": "Doctrina y Convenios 86:7",
+          "texto": "Dejad, pues, que crezcan juntos el trigo y la cizaña hasta que la cosecha esté enteramente madura; entonces primero recogeréis el trigo de entre la cizaña, y después de recoger el trigo, he aquí, la cizaña será atada en haces, y el campo quedará para ser quemado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/86?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "Doctrina y Convenios 86:11",
+          "texto": "Así que, benditos sois si perseveráis en mi bondad, siendo una luz a los gentiles, y por medio de este sacerdocio, un salvador para mi pueblo Israel. El Señor lo ha dicho. Amén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/86?lang=spa&id=p11#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "«Allegarnos más al Salvador», Conferencia General, octubre de 2022 (Liahona, noviembre de 2022, pág. 73)",
+      "texto": "Quizás a veces no se sientan como una espiga de trigo fuerte y madura. Sean pacientes con ustedes mismos. El Señor dijo que el trigo incluirá tiernas hierbas que brotan.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/35andersen?lang=spa&id=p10#p10"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La parte de la parábola que suele pasarse por alto es la razón de la espera: el Señor demora la cosecha porque el trigo todavía está tierno. Eso significa que la fragilidad de ahora no es una prueba de estar del lado equivocado; es la condición normal de algo que recién está creciendo. Si esta semana te sentís lejos de ser quien querés ser, no leas eso como un veredicto. Elegí una sola cosa en la que puedas crecer un poco, y dale el tiempo que le lleva a una planta crecer."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece que quiso decir el Señor al describir el trigo de los últimos días como «tierno» y recién brotado?",
+        "Según Doctrina y Convenios 86:7, ¿por qué se deja que el trigo y la cizaña crezcan juntos?",
+        "El élder Andersen pide «sean pacientes con ustedes mismos». ¿En qué área de tu vida te falta esa paciencia?",
+        "¿Alguna vez sentiste que no estabas a la altura de lo que se espera de vos en la Iglesia? ¿Qué hiciste con eso?",
+        "El versículo 11 habla de perseverar y ser «una luz a los gentiles». ¿Dónde estás siendo esa luz hoy, aunque sea poco?",
+        "Elegí una sola cosa en la que querés crecer este mes. ¿Cuál es, y qué paso chico vas a dar esta semana?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué simbolizan el trigo y la cizaña en la parábola según Mateo 13:38 y DyC 86?",
+      "question": "¿Qué parábola explica Doctrina y Convenios 86 aplicada a los últimos días?",
       "options": [
-        "El trigo son los hijos del reino y la cizaña los hijos del maligno",
-        "El trigo son los líderes y la cizaña los seguidores",
-        "El trigo representa riquezas y la cizaña pobreza",
-        "El trigo es la Iglesia y la cizaña el mundo"
+        "La parábola del trigo y la cizaña.",
+        "La parábola del sembrador.",
+        "La parábola de los talentos.",
+        "La parábola de las diez vírgenes."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué verdad enseña DyC 86:1–7 sobre el recogimiento de Israel?",
+      "question": "Según Doctrina y Convenios 86:4, ¿en qué estado se encuentra la hierba en los postreros días, mientras el Señor comienza a sacar a luz Su palabra?",
       "options": [
-        "El Señor está recogiendo a Israel antes de Su Segunda Venida",
-        "El recogimiento no ocurrirá",
-        "El recogimiento depende solo de líderes",
-        "El recogimiento es simbólico"
+        "Ya madura y lista para la cosecha.",
+        "Brotando y todavía tierna.",
+        "Ahogada por la cizaña que la rodea.",
+        "Dispersa por el campo sin haber germinado."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué enseña DyC 86:11 sobre nuestro papel en el recogimiento de Israel?",
+      "question": "¿Por qué se manda en Doctrina y Convenios 86:7 dejar que el trigo y la cizaña crezcan juntos hasta que la cosecha esté madura?",
       "options": [
-        "Ser una luz a los gentiles",
-        "Evitar compartir el Evangelio",
-        "Predicar solo a los miembros",
-        "Ignorar a los que no son de la Iglesia"
+        "Porque la cizaña se convierte en trigo si se le da tiempo suficiente.",
+        "Porque los ángeles encargados de segar todavía no han sido llamados.",
+        "Porque el trigo aún no está maduro y una cosecha anticipada lo dañaría.",
+        "Porque resulta imposible distinguir el trigo de la cizaña antes del final."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué enseñan Mateo 5:14–16 y 3 Nefi 18:24 sobre ser luz?",
+      "question": "El élder Andersen invitó a ser «pacientes con ustedes mismos» recordando que el trigo incluye «tiernas hierbas que brotan». ¿Qué corrige esa enseñanza?",
       "options": [
-        "Que debemos compartir la luz de Cristo con los demás",
-        "Que debemos ocultar nuestra fe",
-        "Que la luz es solo simbólica",
-        "Que la luz es exclusiva para líderes"
+        "La idea de que el crecimiento espiritual requiere esfuerzo constante.",
+        "La idea de que la Iglesia espera perfección de sus miembros jóvenes.",
+        "La idea de que la paciencia con uno mismo justifica no cambiar.",
+        "La idea de que sentirse débil o inmaduro indica estar del lado equivocado."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Qué nos enseña DyC 86:5–6 sobre el Salvador?",
+      "question": "Camila mira a otros jóvenes de su barrio que parecen mucho más firmes que ella y concluye que a ella le falta fe de verdad. Según Doctrina y Convenios 86:4 y la enseñanza del élder Andersen, ¿qué está pasando por alto?",
       "options": [
-        "Que muestra paciencia y misericordia al permitir que el trigo y la cizaña crezcan juntos",
-        "Que destruye inmediatamente la cizaña",
-        "Que ignora las dificultades",
-        "Que no interviene en el mundo"
+        "Que el trigo de los últimos días es descrito como tierno y en crecimiento, no como ya maduro.",
+        "Que la firmeza de los demás suele ser aparente y no real.",
+        "Que la fe se recibe completa o no se recibe.",
+        "Que la comparación con otros es la mejor manera de medir el propio progreso."
       ],
       "correctAnswer": 0
     },
     {
       "id": 6,
-      "question": "¿Qué invitación dio el presidente Russell M. Nelson para recoger a Israel?",
+      "question": "Joaquín piensa que hay que apartarse de todo compañero que no comparta sus valores para no contaminarse. Según Doctrina y Convenios 86:7, ¿qué le muestra la parábola?",
       "options": [
-        "Orar diariamente, mantenerse en la senda de los convenios, hacer sacrificios de tiempo, renunciar a redes sociales, destacarse del mundo",
-        "Evitar compromisos",
-        "Ignorar las enseñanzas",
-        "Depender solo de uno mismo"
+        "Que la separación total es la instrucción explícita del Señor para los últimos días.",
+        "Que el Señor dispuso que ambos crezcan juntos hasta la cosecha, y no encargó a nadie hacer esa separación antes de tiempo.",
+        "Que conviene apartarse solo de quienes se oponen abiertamente a la Iglesia.",
+        "Que la convivencia con la cizaña garantiza que el trigo se fortalezca."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 7,
-      "question": "¿Cómo podemos ver a los demás como Dios los ve según DyC 86:5–6?",
+      "question": "Doctrina y Convenios 86:4 describe al trigo como tierno, y 86:11 llama benditos a quienes «perseveran» en la bondad del Señor siendo luz a los gentiles. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Con amor, paciencia y misericordia",
-        "Con indiferencia",
-        "Con crítica constante",
-        "Con rechazo"
+        "Que la perseverancia es lo único que distingue al trigo de la cizaña.",
+        "Que el crecimiento espiritual concluye antes de que empiece el servicio.",
+        "Que la fragilidad presente y la utilidad para los demás no se excluyen: se puede ser luz mientras se está creciendo.",
+        "Que solo quienes ya maduraron pueden servir de luz a otras personas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

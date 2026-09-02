@@ -25,8 +25,17 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "\"Los principios de Mi evangelio\", Conferencia General, abril de 2021 (Liahona, mayo de 2021, págs. 123, 125–126)",
+      "texto": "Al aprender, comprender y vivir los principios del Evangelio, se fortalece nuestra fe en el Salvador, se ahonda nuestra devoción a Él y se invita a nuestra vida a una multitud de bendiciones y dones espirituales. Los principios correctos nos permiten encontrar el camino y permanecer firmes, constantes e inmutables.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/56bednar?lang=spa&id=p11#p11"
+    },
+    {
       "tipo": "conclusion",
-      "contenido": "Encontrar verdades del evangelio en las Escrituras es una habilidad que se desarrolla con práctica. El proceso: leer el texto, identificar el principio doctrinal, formularlo en palabras propias ('cuando... entonces...'), y aplicarlo a una situación concreta de tu vida. Cuando hacés esto regularmente, las Escrituras dejan de ser un libro antiguo de historias y se convierten en la guía práctica que el Señor prometió. Esta semana, elegí un pasaje de tu estudio diario y practicá formular la verdad del evangelio que contiene."
+      "contenido": [
+        "Encontrar verdades del evangelio en las Escrituras es una habilidad que se desarrolla con práctica. El proceso: leer el texto, identificar el principio doctrinal, formularlo en palabras propias («cuando… entonces…») y aplicarlo a una situación concreta de tu vida. Cuando lo hacés con regularidad, las Escrituras dejan de ser un libro antiguo de historias y se convierten en la guía práctica que el Señor prometió. Practicalo hoy mismo con el primer pasaje que leas: escribí la verdad en una sola oración, con sus dos partes, y guardala."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -35,7 +44,8 @@
         "¿Podés tomar D&C 27:2 y formularlo como una verdad del evangelio con estructura 'cuando... entonces...'?",
         "¿Alguna vez encontraste en las Escrituras algo que te ayudó a tomar una decisión concreta? ¿Qué fue?",
         "¿Qué hace que las Escrituras sean 'útiles para enseñar, redargüir, corregir e instruir', como dice 2 Timoteo 3:16?",
-        "¿En qué situación concreta de tu vida esta semana podés aplicar una verdad del evangelio que encontraste en tus lecturas?"
+        "¿En qué situación concreta de tu vida esta semana podés aplicar una verdad del evangelio que encontraste en tus lecturas?",
+        "¿Qué situación concreta de los próximos siete días vas a usar como banco de pruebas para la verdad que formulaste?"
       ]
     }
   ],
@@ -53,58 +63,69 @@
     },
     {
       "id": 2,
-      "question": "El Salmo 119:105 dice 'lámpara es a mis pies tu palabra'. ¿Cuándo sentiste más concretamente que las Escrituras iluminaron una decisión o situación de tu vida?",
+      "question": "El Salmo 119:105 dice: «Lámpara es a mis pies tu palabra, y luz a mi camino». ¿Qué imagen del funcionamiento de la Escritura transmite esa metáfora?",
       "options": [
-        "Cuando leí una historia bíblica sin aplicarla a mi situación específica",
-        "Cuando encontré un principio en el texto que respondía exactamente a lo que estaba enfrentando",
-        "Cuando memoricé suficientes versículos para impresionar a los demás",
-        "Las Escrituras todavía no me han iluminado ninguna decisión concreta"
+        "Que reemplaza la necesidad de recibir revelación personal en las decisiones cotidianas.",
+        "Que la palabra ilumina todo el trayecto de una vez, de modo que se puede planificar hasta el final.",
+        "Que alumbra el paso siguiente, lo suficiente para avanzar sin ver todavía el recorrido completo.",
+        "Que solo sirve de guía en los momentos de crisis, cuando el camino se vuelve oscuro."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Tomá D&C 27:2: 'no importa qué coméis ni qué bebéis cuando participáis de la Santa Cena, si es así que lo hacéis con miras puestas únicamente en mi gloria.' ¿Cómo formularías la verdad del evangelio de ese versículo con la estructura 'cuando… entonces…'?",
       "options": [
-        "Cuando participamos de la Santa Cena, entonces debemos usar pan de trigo sin levadura",
-        "Cuando participamos de la Santa Cena con la intención centrada en glorificar a Dios, entonces la ordenanza tiene poder real más allá del ritual",
         "Cuando tenemos hambre, entonces la Santa Cena nos alimenta físicamente",
-        "Cuando asistimos a la reunión sacramental, entonces Dios nos perdona automáticamente"
+        "Cuando asistimos a la reunión sacramental, entonces Dios nos perdona automáticamente",
+        "Cuando participamos de la Santa Cena, entonces debemos usar pan de trigo sin levadura",
+        "Cuando participamos de la Santa Cena con la intención centrada en glorificar a Dios, entonces la ordenanza tiene poder real más allá del ritual"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "2 Timoteo 3:16 dice que las Escrituras son 'útiles para enseñar, redargüir, corregir, instruir en justicia'. ¿Cuál de esas cuatro funciones encontrás más difícil de aceptar?",
       "options": [
-        "Enseñar, porque prefiero aprender de personas y no de textos",
         "Redargüir o corregir, porque prefiero que las Escrituras me confirmen lo que ya creo en lugar de desafiarme",
         "Instruir en justicia, porque no sé bien qué significa eso en la práctica",
-        "Todas son igualmente fáciles de aceptar"
+        "Todas son igualmente fáciles de aceptar",
+        "Enseñar, porque prefiero aprender de personas y no de textos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿En qué situación concreta de tu vida esta semana podrías aplicar una verdad del evangelio que encontraste en tus lecturas recientes?",
+      "question": "Valentina lee que los israelitas cruzaron el mar Rojo y anota: «Israel cruzó el mar Rojo huyendo de Egipto». Su maestra le dice que eso todavía no es una verdad del evangelio. ¿Qué le falta a su anotación?",
       "options": [
-        "Solo en situaciones de crisis espiritual, no en decisiones cotidianas",
-        "En cualquier decisión, relación o actitud donde el principio aprendido sea relevante",
-        "Solo en las conversaciones sobre religión con amigos o familiares",
-        "Las verdades del evangelio se aplican en las reuniones de la Iglesia, no en la vida diaria"
+        "Precisar mejor los datos históricos del episodio y su fecha aproximada.",
+        "Un principio transferible con su consecuencia: cuando actuamos con fe en la palabra del profeta, el Señor abre camino.",
+        "Incluir una referencia cruzada con otro pasaje que narre el mismo hecho.",
+        "Escribirla en primera persona para que resulte más cercana."
       ],
       "correctAnswer": 1
     },
     {
       "id": 6,
-      "question": "¿Qué hábito concreto adoptarías en tu estudio diario de las Escrituras para pasar de leer pasivamente a encontrar verdades del evangelio aplicables?",
+      "question": "Según el proceso que enseña esta lección, ¿cuál es el orden correcto para trabajar un pasaje de Escritura?",
       "options": [
-        "Leer más capítulos por día para cubrir más texto",
-        "Después de leer, escribir en pocas palabras un principio del pasaje y cómo lo aplicarías esta semana",
-        "Subrayar todos los versículos que no entendás para preguntarle al maestro después",
-        "Leer en voz alta para retener mejor la información"
+        "Memorizar el versículo y confiar en que su sentido se aclare con el tiempo.",
+        "Aplicar el pasaje a la propia vida, después formularlo y por último leerlo con atención.",
+        "Leer el texto, identificar el principio, formularlo con la estructura «cuando… entonces…» y aplicarlo a una situación concreta.",
+        "Buscar primero un comentario que explique el pasaje y luego leerlo con esa interpretación."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "2 Timoteo 3:16 dice que toda Escritura es útil «para enseñar, para reprender, para corregir, para instruir en justicia», y el élder Bednar enseñó que vivir los principios del Evangelio fortalece la fe en el Salvador. ¿Qué tienen en común las dos ideas?",
+      "options": [
+        "Que el estudio doctrinal riguroso es suficiente por sí mismo para fortalecer la fe.",
+        "Que las funciones incómodas de la Escritura —reprender, corregir— corresponden solo a los líderes.",
+        "Que la instrucción en justicia es la única de las cuatro funciones que sigue vigente hoy.",
+        "Que la Escritura cumple su función cuando produce un cambio en quien la estudia, no solo cuando se la comprende."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

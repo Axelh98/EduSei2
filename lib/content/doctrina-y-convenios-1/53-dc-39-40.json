@@ -24,7 +24,7 @@
       "tipo": "enseñanza",
       "autor": "Presidente Russell M. Nelson",
       "fuente": "\"Convenios\", Conferencia General, octubre de 2011 (Liahona, noviembre de 2011, pág. 86)",
-      "texto": "Un convenio es […] una promesa sagrada con Dios. Él fija los términos. Cada persona puede optar por aceptar esos términos. Si alguien acepta los términos del convenio y obedece la ley de Dios, recibe las bendiciones asociadas con el convenio.",
+      "texto": "En el contexto religioso, un convenio es mucho más significativo. Es una promesa sagrada hecha con Dios. Él establece los términos. Cada persona puede escoger aceptar o no esos términos. Si una persona acepta los términos del convenio y obedece la ley de Dios, él o ella recibe las bendiciones asociadas con ese convenio.",
       "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/covenants?lang=spa&id=p5#p5"
     },
     {
@@ -38,7 +38,8 @@
         "¿Alguna vez hiciste una promesa al Señor y después la abandonaste por miedo a lo que dirían otros? ¿Cómo te sentiste?",
         "¿Qué significa que el corazón de James 'estaba puesto en las cosas del mundo' (D&C 40:2)?",
         "¿Hay alguna promesa al Señor que hiciste y que estás postergando cumplir? ¿Qué impide que lo hagas esta semana?",
-        "¿Cómo podrías fortalecer tu decisión de guardar los convenios cuando la presión social se hace sentir?"
+        "¿Cómo podrías fortalecer tu decisión de guardar los convenios cuando la presión social se hace sentir?",
+        "Elegí una de esas promesas postergadas y ponele fecha: ¿qué día de esta semana la vas a cumplir, y quién te va a preguntar si lo hiciste?"
       ]
     }
   ],
@@ -47,34 +48,34 @@
       "id": 1,
       "question": "D&C 39:10 describe la secuencia del llamado de James Covill. ¿Qué debía ocurrir primero — el bautismo o la recepción del Espíritu Santo?",
       "options": [
-        "El bautismo primero; luego se le daría el Espíritu Santo — la obediencia a la ordenanza precede al don.",
-        "Ambos simultáneamente como un solo acto de la misericordia del Señor.",
         "El Espíritu Santo primero, para motivarle a bautizarse con más convicción.",
-        "Ninguno — James ya tenía el Espíritu y el bautismo era solo una formalidad."
+        "Ninguno — James ya tenía el Espíritu y el bautismo era solo una formalidad.",
+        "El bautismo primero; luego se le daría el Espíritu Santo — la obediencia a la ordenanza precede al don.",
+        "Ambos simultáneamente como un solo acto de la misericordia del Señor."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "D&C 40:2 revela por qué James Covill no cumplió su promesa. ¿Cuál fue la causa exacta que el Señor identificó?",
       "options": [
+        "Recibió una revelación contraria que lo hizo cambiar de opinión sinceramente.",
         "No entendió bien la doctrina del bautismo por autoridad del sacerdocio.",
         "Su esposa se opuso a que dejara su congregación y él le dio prioridad.",
-        "Temió la persecución y tenía el corazón puesto en las cosas del mundo.",
-        "Recibió una revelación contraria que lo hizo cambiar de opinión sinceramente."
+        "Temió la persecución y tenía el corazón puesto en las cosas del mundo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "James Covill había servido cuarenta años como ministro y bautizado a miles. Aun así, el Señor le pedía bautizarse nuevamente. ¿Qué diferencia doctrinal justifica ese pedido?",
       "options": [
-        "Que los bautismos anteriores de James eran inválidos por sus pecados personales.",
         "Que el bautismo con autoridad restaurada del sacerdocio es doctrinalmente diferente a los bautismos sin esa autoridad.",
         "Que el bautismo repetido es simplemente una señal de humildad sin diferencia real.",
-        "Que James necesitaba demostrar públicamente que renunciaba a su cargo previo."
+        "Que James necesitaba demostrar públicamente que renunciaba a su cargo previo.",
+        "Que los bautismos anteriores de James eran inválidos por sus pecados personales."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -102,23 +103,23 @@
       "id": 6,
       "question": "Lucía recibió un consejo claro del obispo sobre algo que necesita cambiar en su vida. Lo recibió con gozo en la reunión, pero dos semanas después no tomó ninguna acción. Según D&C 39:9, ¿qué advierte el Señor sobre ese patrón?",
       "options": [
-        "Que el Señor tiene paciencia ilimitada y Lucía puede tomar el tiempo que necesite.",
-        "Que el Espíritu no siempre contenderá con la persona — el momento de receptividad espiritual no siempre regresa.",
         "Que basta con haber recibido bien el consejo aunque no se actúe, porque la intención cuenta.",
-        "Que el obispo debería repetir el consejo hasta que Lucía sienta la motivación suficiente."
+        "Que el obispo debería repetir el consejo hasta que Lucía sienta la motivación suficiente.",
+        "Que el Señor tiene paciencia ilimitada y Lucía puede tomar el tiempo que necesite.",
+        "Que el Espíritu no siempre contenderá con la persona — el momento de receptividad espiritual no siempre regresa."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "D&C 39 ofrece a James promesas extraordinarias. D&C 40 revela que las rechazó por miedo y apego al mundo. ¿Qué principio sobre la naturaleza del arrepentimiento y la conversión ilustran esas dos revelaciones juntas?",
       "options": [
+        "Que el gozo inicial y la promesa sincera no garantizan la conversión — esta requiere que el corazón cambie su jerarquía de valores, no solo que la mente acepte la doctrina.",
         "Que las promesas del Señor pierden valor cuando la persona no las acepta.",
         "Que la conversión siempre ocurre de forma gradual y James simplemente necesitaba más tiempo.",
-        "Que el Señor es injusto al ofrecer promesas a alguien que sabe que no las aceptará.",
-        "Que el gozo inicial y la promesa sincera no garantizan la conversión — esta requiere que el corazón cambie su jerarquía de valores, no solo que la mente acepte la doctrina."
+        "Que el Señor es injusto al ofrecer promesas a alguien que sabe que no las aceptará."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     }
   ]
 }

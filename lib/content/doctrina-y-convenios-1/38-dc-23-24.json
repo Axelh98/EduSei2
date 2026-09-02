@@ -5,8 +5,8 @@
       "tipo": "contexto",
       "contenido": [
         "¿Quién te conoce mejor? Puede ser un padre, un amigo cercano, un maestro que te vio crecer. Pensá en lo que esa persona sabe de vos. Ahora preguntate: ¿qué no sabe?",
-        "Después de que la Iglesia se organizó en abril de 1830, varios miembros querían saber la voluntad de Dios para sus vidas personales. José Smith inquirió al Señor y recibió revelaciones individuales para Oliver Cowdery, Hyrum Smith, Samuel Smith, Hyrum Smith padre y José Smith padre. Cada revelación fue hecha a medida: reconocía las fortalezas específicas de cada persona, sus debilidades particulares, y sus responsabilidades únicas. En D&C 24, el Señor habló directamente a José sobre cómo manejar la persecución y en quién confiar para las necesidades temporales.",
-        "El principio doctrinal de estas lecciones es poderoso y personal: el Padre Celestial y Jesucristo te conocen a vos. No como miembro genérico; como persona específica con tu historia, tus luchas y tu potencial. Si buscás Su guía con fe genuina, recibirás respuestas a medida —no genéricas— para tu situación."
+        "Después de que la Iglesia se organizó en abril de 1830, varios miembros querían saber la voluntad de Dios para sus vidas personales. José Smith inquirió al Señor y recibió revelaciones individuales para Oliver Cowdery, Hyrum Smith, Samuel H. Smith, José Smith padre y Joseph Knight. Cada revelación fue hecha a medida: reconocía las fortalezas específicas de cada persona, sus debilidades particulares y sus responsabilidades únicas. En Doctrina y Convenios 24, el Señor habló directamente a José sobre cómo sobrellevar la persecución y en quién confiar para las necesidades temporales.",
+        "El principio doctrinal de estas lecciones es poderoso y personal: el Padre Celestial y Jesucristo te conocen a vos. No como miembro genérico, sino como persona específica con tu historia, tus luchas y tu potencial. Si buscás Su guía con fe genuina, recibirás respuestas a medida —no genéricas— para tu situación."
       ]
     },
     {
@@ -42,7 +42,8 @@
         "¿Qué te enseña el hecho de que el Señor diera instrucciones individualizadas a cada persona en D&C 23?",
         "¿Alguna vez sentiste que el Señor te conocía específicamente a vos, no solo como miembro genérico? Contá brevemente.",
         "¿Qué consejo de D&C 24 sentís que está más directamente dirigido a tu situación actual?",
-        "¿Cuándo fue la última vez que buscaste la guía del Señor para algo específico de tu vida? ¿Lo harás esta semana?"
+        "¿Cuándo fue la última vez que buscaste la guía del Señor para algo específico de tu vida? ¿Lo harás esta semana?",
+        "¿Qué pregunta concreta —no general— vas a llevar a la oración esta semana, y en qué momento del día la vas a hacer?"
       ]
     }
   ],
@@ -51,67 +52,78 @@
       "id": 1,
       "question": "En D&C 23, el Señor dio instrucciones personalizadas a cinco personas distintas — Oliver, Hyrum, Samuel, Hyrum padre y José padre. ¿Qué te dice eso sobre cómo Dios ve a las personas?",
       "options": [
+        "Que Dios da las mismas instrucciones a todos pero en momentos diferentes",
         "Que Dios trata a todos exactamente igual sin considerar las diferencias individuales",
         "Que Dios conoce a cada persona individualmente, sus fortalezas, debilidades y situación específica",
-        "Que Dios solo habla a las personas cuando tienen un cargo de responsabilidad",
-        "Que Dios da las mismas instrucciones a todos pero en momentos diferentes"
+        "Que Dios solo habla a las personas cuando tienen un cargo de responsabilidad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "D&C 24:8 le dice a José Smith: 'Ten paciencia en tus aflicciones, pues no siempre tendrás que sufrir.' ¿Qué es lo más consolador de esa promesa?",
       "options": [
-        "Que el sufrimiento terminará exactamente cuando lo elijamos nosotros",
-        "Que el Señor sabe que estamos sufriendo, tiene un límite en mente, y no nos abandona en el proceso",
         "Que las aflicciones son una señal de que Dios nos está probando especialmente a nosotros",
-        "Que los santos nunca deberían sufrir tanto como los no miembros"
+        "Que los santos nunca deberían sufrir tanto como los no miembros",
+        "Que el sufrimiento terminará exactamente cuando lo elijamos nosotros",
+        "Que el Señor sabe que estamos sufriendo, tiene un límite en mente, y no nos abandona en el proceso"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Alguna vez sentiste que el Señor te conocía específicamente a vos, no solo como miembro genérico de la Iglesia? ¿Qué fue lo que te hizo sentir eso?",
+      "question": "En Doctrina y Convenios 23 el Señor dio revelaciones distintas a Oliver Cowdery, Hyrum Smith, Samuel Smith, José Smith padre y Joseph Knight, reconociendo en cada una fortalezas y debilidades particulares. ¿Qué principio doctrinal se desprende de esa forma de responder?",
       "options": [
-        "Un discurso de la Conferencia General que parecía escrito exactamente para mí",
-        "Una respuesta a una oración muy específica que nadie más sabía que había hecho",
-        "Un versículo de las Escrituras que describía exactamente lo que estaba viviendo",
-        "Cualquiera de las anteriores puede ser una señal de que el Señor me conoce personalmente"
+        "Que Él conoce a cada persona en su situación concreta, y su guía se ajusta a esa historia particular.",
+        "Que las revelaciones personales solo se conceden a quienes tienen un llamamiento.",
+        "Que la guía divina se adapta al grado de fe que cada persona demuestra previamente.",
+        "Que el Señor prefiere dirigirse a las personas de a una y no a la Iglesia como cuerpo."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué consejo de D&C 24 sentís que está más directamente dirigido a tu situación actual — la paciencia en las aflicciones, la dedicación al ministerio, o confiar en que Dios proveerá?",
+      "question": "Doctrina y Convenios 24:8 dice a José Smith: «sé paciente en las aflicciones, porque muchas tendrás; mas súfrelas, porque he aquí, yo estoy contigo». ¿Qué ofrece esa promesa y qué no ofrece?",
       "options": [
-        "La paciencia en las aflicciones, porque estoy atravesando algo difícil que no termina",
-        "La dedicación al ministerio, porque siento que evito mis responsabilidades en la Iglesia",
-        "Confiar en que Dios proveerá, porque me preocupa el futuro",
-        "Depende de la semana y la situación que esté viviendo"
+        "Ofrece la eliminación de las dificultades a cambio de paciencia.",
+        "Ofrece compañía dentro de la aflicción, no la ausencia de aflicción.",
+        "Ofrece un plazo determinado después del cual el sufrimiento termina.",
+        "Ofrece protección contra la persecución de quienes se oponen a la obra."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Joaquín ora todas las noches, pero siempre con las mismas frases generales: «bendice a mi familia, ayúdame a ser mejor». Según el patrón de Doctrina y Convenios 23–24, ¿qué le falta a esa oración?",
+      "options": [
+        "Compañía: las oraciones familiares tienen más eficacia que las personales.",
+        "Mayor frecuencia: convendría orar también por la mañana.",
+        "Especificidad: el Señor respondió a preguntas concretas de personas concretas, no a peticiones genéricas.",
+        "Formalidad: las oraciones deberían usar un lenguaje más reverente."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "La hermana Cristina B. Franco enseñó que el Padre Celestial «sabe dónde estás y quién eres y lo que necesitas», y que por muy solo que uno se sienta, nunca está solo. ¿Cómo cambia esa verdad la manera de acercarse a Él en oración?",
+      "options": [
+        "Vuelve innecesaria la oración, ya que Él conoce de antemano cada necesidad.",
+        "Obliga a mostrarse bien delante de Él aunque uno no lo esté.",
+        "Genera la sensación incómoda de estar observado en todo momento.",
+        "Permite acercarse sin tener que explicarlo todo, porque Él ya conoce la situación que uno atraviesa."
       ],
       "correctAnswer": 3
     },
     {
-      "id": 5,
-      "question": "¿Cuándo fue la última vez que buscaste la guía del Señor para algo específico de tu vida — no una petición general sino una pregunta concreta? ¿Lo harías esta semana?",
+      "id": 7,
+      "question": "En Doctrina y Convenios 23–24 el Señor responde a personas por su nombre, y la hermana Franco enseñó que el Padre Celestial «sabe dónde estás y quién eres y lo que necesitas». ¿Qué principio común sostienen las dos cosas?",
       "options": [
-        "Hace mucho tiempo, generalmente oro pero sin preguntas específicas",
-        "Lo hago frecuentemente y tengo experiencias concretas de recibir guía",
-        "Nunca lo he hecho porque no sé cómo formular la pregunta correctamente",
-        "Me da miedo hacerlo porque no sé si recibiré una respuesta que me guste"
+        "Que la relación de Dios con Sus hijos es individual, y por eso Su guía llega ajustada a cada situación.",
+        "Que quien conoce mejor la doctrina recibe respuestas más precisas.",
+        "Que las respuestas de Dios llegan siempre por medio de otra persona.",
+        "Que la revelación personal es un privilegio reservado a los primeros santos."
       ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 6,
-      "question": "El élder Neil L. Andersen enseñó que el Salvador sabe 'cuándo tienes ganas de llorar' y 'cuándo te sentís solo'. ¿Cómo cambia eso la forma en que te acercás a Él?",
-      "options": [
-        "Hace que me sienta observado permanentemente de forma incómoda",
-        "Me permite acercarme sin necesidad de explicar todo, porque ya sabe lo que estoy viviendo",
-        "Me hace pensar que no necesito orar porque Él ya sabe todo",
-        "Me genera presión para mostrar que estoy bien aunque no lo esté"
-      ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

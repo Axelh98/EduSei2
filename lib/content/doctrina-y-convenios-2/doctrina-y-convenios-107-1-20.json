@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-107-1-20",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Doctrina y Convenios 107 es la revelación que ordena el sacerdocio: explica que hay dos, el de Melquisedec y el Aarónico, y por qué se llaman así. El nombre original del mayor era «el Santo Sacerdocio según el Orden del Hijo de Dios»; se lo cambió, dice el versículo 4, por respeto al nombre del Ser Supremo, para evitar la repetición demasiado frecuente de Su nombre.",
+        "La diferencia entre los dos está en los versículos 18 al 20. El de Melquisedec tiene «las llaves de todas las bendiciones espirituales de la iglesia»: recibir los misterios del reino, ver abiertos los cielos, gozar de la comunión con el Padre y con Jesucristo. El Aarónico posee «las llaves del ministerio de ángeles» y administra las ordenanzas exteriores, entre ellas el bautismo y la Santa Cena.",
+        "El presidente Dallin H. Oaks aclaró algo que suele confundirse: todas las llaves del sacerdocio las posee el Señor Jesucristo, y Él determina cuáles se delegan a los mortales y cómo se usan. Eso significa que quien actúa bajo esas llaves —un diácono repartiendo la Santa Cena, una hermana apartada para enseñar— está ejerciendo autoridad que no es propia, sino prestada, y eso cambia la manera de ejercerla."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 107:3",
+          "texto": "Antes de su época se llamaba el Santo Sacerdocio según el Orden del Hijo de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 107:18–19",
+          "texto": "El poder y la autoridad del sacerdocio mayor, o sea, el de Melquisedec, consiste en tener las llaves de todas las bendiciones espirituales de la iglesia: tener el privilegio de recibir los misterios del reino de los cielos, ver abiertos los cielos, comunicarse con la asamblea general e iglesia del Primogénito, y gozar de la comunión y presencia de Dios el Padre y de Jesús, el mediador del nuevo convenio.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=spa&id=p18-p19#p18"
+        },
+        {
+          "referencia": "Doctrina y Convenios 107:20",
+          "texto": "El poder y la autoridad del sacerdocio menor, o sea, el de Aarón, consiste en poseer las llaves del ministerio de ángeles y en administrar las ordenanzas exteriores, la letra del evangelio, el bautismo de arrepentimiento para la remisión de pecados, de acuerdo con los convenios y los mandamientos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=spa&id=p20#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dallin H. Oaks",
+      "fuente": "«Las llaves y la autoridad del sacerdocio», Conferencia General, abril de 2014 (Liahona, mayo de 2014, pág. 50)",
+      "texto": "Al final, todas las llaves del sacerdocio las posee el Señor Jesucristo, de quien es este sacerdocio. Él es quien determina qué llaves se delegan a los mortales y la forma en que habrán de utilizarse.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=spa&id=p9#p9"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "El nombre original del sacerdocio mayor dice de quién es: «según el Orden del Hijo de Dios». Toda autoridad que alguien ejerce en la Iglesia es prestada, y el que la presta es Él. Eso cambia dos cosas a la vez: nadie puede tratarla como propiedad personal, y nadie que la ejerce actúa solo. Si tenés hoy una asignación —repartir la Santa Cena, enseñar, ministrar—, hacela esta semana recordando de quién es la autoridad con la que estás actuando."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué te parece que se cambió el nombre del sacerdocio mayor, «según el Orden del Hijo de Dios», por el de Melquisedec?",
+        "Comparando los versículos 18–19 con el 20, ¿qué diferencia ves entre lo que administra cada sacerdocio?",
+        "El Sacerdocio Aarónico posee «las llaves del ministerio de ángeles». ¿Qué te parece que significa eso?",
+        "El presidente Oaks dice que todas las llaves las posee el Salvador y Él decide cómo se usan. ¿Qué cambia eso sobre quien ejerce una asignación?",
+        "¿Qué asignación tenés hoy, por chica que sea, en la Iglesia o en tu casa?",
+        "¿Cómo la vas a hacer esta semana distinto, recordando de quién es la autoridad? Sé concreto."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseña Juan 15:5 sobre la relación entre la vid y las ramas?",
+      "question": "Según Doctrina y Convenios 107:3, ¿cuál era el nombre original del sacerdocio mayor?",
       "options": [
-        "Si la rama se separa, muere",
-        "La rama puede vivir sola",
-        "La vid no es necesaria",
-        "La rama se fortalece sin la vid"
+        "El Sacerdocio Patriarcal.",
+        "El Sacerdocio del Nuevo Convenio.",
+        "El Sacerdocio de Melquisedec.",
+        "El Santo Sacerdocio según el Orden del Hijo de Dios."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué nombre recibe el sacerdocio según DyC 107:3?",
+      "question": "Según Doctrina y Convenios 107:18–19, ¿qué llaves posee el Sacerdocio de Melquisedec?",
       "options": [
-        "Sacerdocio de Melquisedec",
-        "Sacerdocio Aarónico",
-        "Sacerdocio Levítico",
-        "Sacerdocio Patriarcal"
+        "Las llaves de todas las bendiciones espirituales de la iglesia.",
+        "Las llaves de la administración temporal de la Iglesia.",
+        "Las llaves del recogimiento de Israel.",
+        "Las llaves del ministerio de ángeles y de las ordenanzas exteriores."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué poder tiene el Sacerdocio de Melquisedec según DyC 107:8?",
+      "question": "¿Qué administra el Sacerdocio Aarónico según Doctrina y Convenios 107:20?",
       "options": [
-        "Administrar en las cosas espirituales",
-        "Solo en asuntos temporales",
-        "No tiene poder",
-        "Depende de la voluntad humana"
+        "Las bendiciones patriarcales y las ordenanzas del templo.",
+        "Las ordenanzas exteriores, la letra del evangelio y el bautismo de arrepentimiento.",
+        "La instrucción doctrinal de los miembros de la Iglesia.",
+        "Las decisiones sobre la organización de los cuórums."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué verdad enseña DyC 107:5 sobre las autoridades y oficios de la Iglesia?",
+      "question": "El presidente Oaks enseñó que «todas las llaves del sacerdocio las posee el Señor Jesucristo» y que Él determina cuáles se delegan y cómo se usan. ¿Qué implica eso para quien tiene una asignación en la Iglesia?",
       "options": [
-        "Son dependencias del Sacerdocio de Melquisedec",
-        "Son independientes",
-        "No tienen relación con el sacerdocio",
-        "Son creadas por tradición"
+        "Que las asignaciones menores no requieren autorización previa.",
+        "Que la autoridad aumenta con los años de servicio.",
+        "Que la autoridad con la que actúa es prestada, y por eso no puede ejercerse como propiedad personal.",
+        "Que solo quienes poseen llaves pueden actuar con autoridad."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Franco reparte la Santa Cena cada domingo y lo hace de manera automática, sin pensar demasiado. Según Doctrina y Convenios 107:20 y la enseñanza del presidente Oaks, ¿qué está pasando por alto?",
+      "options": [
+        "Que debería solicitar una asignación de mayor responsabilidad.",
+        "Que su cuórum evalúa la manera en que cumple su deber.",
+        "Que la ordenanza pierde validez si no se realiza con atención.",
+        "Que está administrando una ordenanza bajo llaves que pertenecen al Salvador."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Ana fue apartada para enseñar en su clase y se pregunta con qué autoridad lo hace, ya que no posee un oficio del sacerdocio. Según lo que enseña esta lección, ¿cuál es la respuesta?",
+      "options": [
+        "Enseña con la autorización de quien posee las llaves, y por eso ejerce autoridad del sacerdocio en su llamamiento.",
+        "Enseña por delegación del maestro anterior, sin autoridad formal.",
+        "Su autoridad proviene de su preparación personal en el evangelio.",
+        "No ejerce autoridad, sino que colabora con quienes sí la tienen."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué enseña DyC 107:20 sobre el Sacerdocio Aarónico?",
+      "id": 7,
+      "question": "Doctrina y Convenios 107:3 da al sacerdocio el nombre del Hijo de Dios, y el presidente Oaks enseña que todas las llaves le pertenecen a Él. ¿Qué principio común forman las dos ideas?",
       "options": [
-        "Tiene autoridad para administrar ordenanzas exteriores como el bautismo y la Santa Cena",
-        "No tiene función",
-        "Es superior al de Melquisedec",
-        "Solo sirve para dirigir reuniones"
+        "Que las llaves se distribuyen por igual entre todos los miembros de la Iglesia.",
+        "Que el sacerdocio es de Cristo, y quienes actúan en él lo hacen en Su nombre y no en el propio.",
+        "Que el cambio de nombre fue una decisión administrativa sin contenido doctrinal.",
+        "Que la autoridad del sacerdocio se transfiere de forma permanente a quien la recibe."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

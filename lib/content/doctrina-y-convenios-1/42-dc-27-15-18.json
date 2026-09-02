@@ -37,7 +37,8 @@
         "¿Cuáles son las piezas de la armadura de D&C 27:15–18? ¿Cuál de ellas crees que necesitás reforzar más?",
         "¿Cómo se 'pone' en la práctica cada pieza de la armadura? ¿Qué hábitos espirituales corresponden a cada una?",
         "¿Alguna vez sentiste que la fe, la oración o las Escrituras te protegieron de una tentación o un ataque espiritual?",
-        "¿Qué pieza de la armadura de Dios vas a 'ponerte' de forma más deliberada esta semana? ¿Cómo lo harás?"
+        "¿Qué pieza de la armadura de Dios vas a 'ponerte' de forma más deliberada esta semana? ¿Cómo lo harás?",
+        "¿Cuál de las piezas de la armadura vas a trabajar esta semana, y qué hábito concreto la representa en tu caso?"
       ]
     }
   ],
@@ -46,65 +47,76 @@
       "id": 1,
       "question": "D&C 27:15 dice 'tomad sobre vosotros toda mi armadura'. ¿Qué implica la palabra 'toda' en ese mandato?",
       "options": [
-        "Que basta con usar algunas piezas de la armadura si las elegimos bien",
-        "Que cada pieza cumple una función específica y ninguna puede faltar sin dejar vulnerabilidades",
         "Que la armadura completa solo la necesitan los que tienen cargos de responsabilidad",
-        "Que debemos llevar armadura física como símbolo de nuestra disposición"
+        "Que debemos llevar armadura física como símbolo de nuestra disposición",
+        "Que basta con usar algunas piezas de la armadura si las elegimos bien",
+        "Que cada pieza cumple una función específica y ninguna puede faltar sin dejar vulnerabilidades"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿De qué maneras concretas intenta el adversario atacar a un joven de tu edad hoy — no con espadas sino con las armas de nuestro tiempo?",
+      "question": "La armadura de Doctrina y Convenios 27:15–18 fue descrita para una época sin redes sociales. ¿Cómo se traduce hoy la advertencia sobre los «dardos de fuego del maligno»?",
       "options": [
-        "Con persecución física y amenazas directas",
-        "Con tentaciones, contenido que normaliza el pecado, dudas sembradas en redes sociales, y desánimo gradual",
-        "Con problemas económicos y dificultades de salud principalmente",
-        "Con ataques solo durante momentos de debilidad obvia"
+        "Las armas cambiaron de forma —contenidos que normalizan el pecado, presión del grupo, desánimo sostenido— pero el ataque y la protección siguen siendo los mismos.",
+        "La metáfora corresponde a la guerra antigua y hoy conserva un valor solo simbólico.",
+        "La protección espiritual se volvió innecesaria porque el acceso a la doctrina es mayor que antes.",
+        "El adversario dejó de atacar directamente y hoy opera solo por medio de la persecución abierta."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Alguna vez sentiste que la fe, la oración o las Escrituras te protegieron de una tentación o ataque espiritual concreto? ¿Qué pasó?",
+      "question": "Doctrina y Convenios 27:16 describe los lomos ceñidos «con la verdad». ¿Por qué el cinturón es una imagen adecuada para la verdad dentro del conjunto de la armadura?",
       "options": [
-        "Que la fe me ayudó a ignorar completamente la tentación sin esfuerzo",
-        "Que tener un versículo o un principio en mente me dio la claridad para tomar la decisión correcta en ese momento",
-        "Que la protección espiritual siempre llega después de caer, no antes",
-        "Que las herramientas espirituales nunca me ayudaron en tentaciones reales"
+        "Porque es la pieza más resistente de toda la armadura del soldado.",
+        "Porque es la que sostiene el resto en su lugar: sin ella, las demás piezas se descuelgan.",
+        "Porque es la primera que un soldado se quita al terminar el combate.",
+        "Porque protege la parte del cuerpo más expuesta durante la batalla."
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "El 'escudo de la fe' en D&C 27:17 apaga los 'dardos de fuego del maligno'. ¿Qué tipo de 'dardos' podría estar lanzando el adversario en tu vida específicamente ahora mismo?",
+      "question": "Nicolás dice que se siente espiritualmente protegido porque asiste a la Iglesia cada domingo, aunque no ora ni estudia durante la semana. Según Doctrina y Convenios 27:15, que manda tomar «toda mi armadura», ¿qué está pasando por alto?",
       "options": [
-        "Principalmente tentaciones de sustancias o conductas inmorales",
-        "Dudas sobre la Iglesia, pensamientos de que no soy suficiente, o presión para abandonar mis estándares",
-        "Solo ataques físicos visibles que puedo identificar claramente",
-        "El adversario no me ataca a mí porque soy demasiado joven para ser amenaza"
+        "Que la protección espiritual llega automáticamente a los miembros bautizados.",
+        "Que la asistencia dominical es la pieza más importante y las demás son complementarias.",
+        "Que la protección se describe como un conjunto, y las piezas que no se toman dejan zonas descubiertas.",
+        "Que la armadura protege igual aunque falte alguna de sus partes."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "¿Cuál pieza de la armadura de D&C 27:15–18 sentís que necesitás reforzar más esta semana — la verdad, la justicia, la fe, la salvación, o la Palabra de Dios?",
+      "question": "Doctrina y Convenios 27:18 llama a la palabra de Dios «la espada de mi Espíritu». ¿Qué distingue a esa pieza de las demás?",
       "options": [
-        "La verdad, porque a veces cedo ante medias verdades para evitar conflictos",
-        "La fe, porque en los últimos tiempos he dudado más de lo habitual",
-        "La Palabra de Dios, porque casi no estudio las Escrituras últimamente",
-        "Depende del área en la que me sienta más vulnerable ahora"
+        "Es la más pesada y por eso la más difícil de sostener.",
+        "Es la única que puede reemplazar a cualquiera de las otras piezas.",
+        "Es la única que exige entrenamiento previo para poder usarse.",
+        "Es la única pieza ofensiva: las otras protegen, y esta permite responder."
       ],
       "correctAnswer": 3
     },
     {
       "id": 6,
-      "question": "El presidente Nelson enseñó que 'no hay término medio' en los últimos días y que necesitamos 'toda la armadura de Dios'. ¿Qué hábito concreto te ayudaría a 'ponerte' esa pieza que más te falta?",
+      "question": "El élder Cornish enseñó que en la oración podemos «iniciar el proceso protector de ponernos toda la armadura de Dios», anticipando el día y pidiendo ayuda para lo que vendrá. ¿Qué hábito concreto se desprende de esa enseñanza?",
       "options": [
-        "Leer sobre la armadura de Dios en las Escrituras cada vez que me siento atacado",
-        "Establecer un hábito diario específico que corresponde a esa pieza — oración, estudio, servicio, honestidad",
-        "Esperar a que el adversario ataque antes de ponerme la armadura",
-        "Pedir al obispo que imponga las manos para que la armadura llegue sin esfuerzo mío"
+        "Orar al comenzar el día pensando en las situaciones concretas que se van a enfrentar y pidiendo ayuda para ellas.",
+        "Esperar a que llegue la tentación para recién entonces recurrir a la oración.",
+        "Pedir a un poseedor del sacerdocio una bendición que reemplace el esfuerzo propio.",
+        "Leer sobre la armadura de Dios cada vez que uno se siente atacado."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 27:15 manda tomar «toda» la armadura, y el élder Cornish enseñó que la oración de la mañana inicia «el proceso protector de ponerse toda la armadura de Dios». ¿Qué principio común enseñan las dos cosas sobre la protección espiritual?",
+      "options": [
+        "Que la protección es automática para quien pertenece a la Iglesia.",
+        "Que hay que ponérsela deliberadamente y antes del ataque, no durante.",
+        "Que la oración reemplaza a las demás piezas cuando el tiempo es escaso.",
+        "Que la protección aumenta en proporción a la gravedad de la tentación enfrentada."
       ],
       "correctAnswer": 1
     }

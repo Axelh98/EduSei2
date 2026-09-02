@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-122",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Doctrina y Convenios 122 es la respuesta del Señor a un hombre encerrado en un sótano mientras su pueblo era expulsado de un estado. No le explica por qué está pasando. Enumera, una tras otra, las peores cosas que podrían ocurrirle —ser echado al foso, condenado a muerte, arrojado al abismo, que se abran las puertas del infierno para tragarlo— y después dice: «entiende, hijo mío, que todas estas cosas te servirán de experiencia, y serán para tu bien».",
+        "Y agrega la frase que cambia la escala de todo: «El Hijo del Hombre ha descendido debajo de todo ello. ¿Eres tú mayor que él?». No es una reprensión. Es un recordatorio de que quien le habla no es alguien que mira el sufrimiento desde afuera.",
+        "José escribió después una imagen de sí mismo que ayuda a entender cómo procesó todo eso: «Soy como una enorme piedra áspera que viene rodando desde lo alto de la montaña; y la única manera en que puedo pulirme es cuando alguna aspereza de la piedra se alisa al frotarse con otra cosa, golpeándose fuertemente». No le gustaba el proceso; entendía para qué servía."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 122:7",
+          "texto": "Si eres echado en el foso o en manos de homicidas, y eres condenado a muerte; si eres arrojado al abismo; si las bravas olas conspiran contra ti; si el viento huracanado se hace tu enemigo; si los cielos se ennegrecen y todos los elementos se combinan para obstruir la vía; y sobre todo, si las puertas mismas del infierno se abren de par en par para tragarte, entiende, hijo mío, que todas estas cosas te servirán de experiencia, y serán para tu bien.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/122?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "Doctrina y Convenios 122:8",
+          "texto": "El Hijo del Hombre ha descendido debajo de todo ello. ¿Eres tú mayor que él?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/122?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "Doctrina y Convenios 122:9",
+          "texto": "Por tanto, persevera en tu camino, y el sacerdocio quedará contigo; porque los límites de ellos están señalados, y no los pueden traspasar. Tus días son conocidos y tus años no serán acortados; no temas, pues, lo que pueda hacer el hombre, porque Dios estará contigo para siempre jamás.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/122?lang=spa&id=p9#p9"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Henry B. Eyring",
+      "fuente": "«Ser probados, probarnos y ser pulidos», Conferencia General, octubre de 2020 (Liahona, noviembre de 2020, pág. 97)",
+      "texto": "Cuando se pregunten cuánto dolor podrán soportar bien, piensen en Él. Él sufrió lo que ustedes sufren para que pudiera saber cómo elevarlos a ustedes. Puede que Él no retire las cargas, pero les dará fortaleza, consuelo y esperanza.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/51eyring?lang=spa&id=p19#p19"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "«¿Eres tú mayor que él?» no es una pregunta para hacer sentir culpable a nadie por sufrir. Es la afirmación de que Aquel que responde ya estuvo más abajo que donde vos estás, y por eso sabe cómo levantarte. El presidente Eyring lo dice sin adornos: puede que Él no retire la carga, pero da fortaleza, consuelo y esperanza. Si estás cargando algo pesado, pedile específicamente eso —fortaleza para sostenerlo— en vez de pedirle solamente que lo saque."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "El versículo 7 enumera las peores cosas que podrían pasarle a alguien y termina diciendo que servirán de experiencia. ¿Cómo recibís esa afirmación?",
+        "«¿Eres tú mayor que él?». ¿Qué efecto te produce esa pregunta?",
+        "José se comparó con una piedra áspera que se pule al golpearse. ¿Qué te parece de esa imagen?",
+        "El presidente Eyring dice que quizá el Señor no retire la carga. ¿Qué te genera esa posibilidad?",
+        "¿Qué estás cargando ahora mismo que preferirías que desapareciera?",
+        "Probá esta semana pedir fortaleza para sostenerlo en vez de pedir que se lo lleven. ¿Cuándo vas a hacer esa oración?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué instrucción práctica da el Señor en DyC 123 a los santos?",
+      "question": "¿Cómo concluye la enumeración de aflicciones de Doctrina y Convenios 122:7?",
       "options": [
-        "Recopilar un registro fiel de las injusticias sufridas",
-        "Abandonar Misuri",
-        "Responder con violencia",
-        "Guardar silencio"
+        "Con la promesa de que esas cosas no llegarán a ocurrir.",
+        "Con la afirmación de que todas esas cosas servirán de experiencia y serán para bien.",
+        "Con la advertencia de que solo los fieles las soportarán.",
+        "Con el anuncio del castigo de los perseguidores."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Con qué propósito se debían documentar las persecuciones según DyC 123?",
+      "question": "¿Qué afirma Doctrina y Convenios 122:8 antes de preguntar «¿Eres tú mayor que él?»?",
       "options": [
-        "Para presentarlas ante autoridades y generaciones futuras",
-        "Para fomentar resentimiento",
-        "Para justificar venganza",
-        "Para olvidar lo ocurrido"
+        "Que los enemigos serán confundidos en el debido tiempo.",
+        "Que ningún hombre puede acortar los días señalados.",
+        "Que el Hijo del Hombre ha descendido debajo de todo ello.",
+        "Que las aflicciones duran solo un breve momento."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué frase resume la actitud que el Señor espera de los santos en DyC 123:17?",
+      "question": "¿Qué promete Doctrina y Convenios 122:9 a quien persevera en su camino?",
       "options": [
-        "Obrar con diligencia y dejar los resultados en manos de Dios",
-        "Esperar pasivamente",
-        "Actuar con desesperación",
-        "Rendirse ante la oposición"
+        "Que sus aflicciones terminarán en un plazo breve.",
+        "Que recibirá una compensación por lo que ha perdido.",
+        "Que sus enemigos no volverán a molestarlo.",
+        "Que el sacerdocio quedará con él, que sus días son conocidos y que Dios estará con él para siempre."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué equilibrio enseña DyC 123 entre acción humana y confianza en Dios?",
+      "question": "El presidente Eyring enseñó que «puede que Él no retire las cargas, pero les dará fortaleza, consuelo y esperanza». ¿Qué expectativa corrige esa frase?",
       "options": [
-        "Hacer todo lo que esté a nuestro alcance y confiar en Dios",
-        "Depender solo del esfuerzo humano",
-        "Esperar sin actuar",
-        "Actuar sin fe"
+        "La de que la ayuda divina consiste siempre en eliminar la dificultad.",
+        "La de que las cargas son consecuencia de faltas personales.",
+        "La de que el consuelo llega solo después de superada la prueba.",
+        "La de que la fortaleza se obtiene por esfuerzo propio."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué enseñanza general transmiten DyC 121–123 en conjunto?",
+      "question": "José Smith se describió como «una enorme piedra áspera» que se pule al frotarse y golpearse. ¿Qué muestra esa imagen sobre cómo entendía sus dificultades?",
       "options": [
-        "El Señor sostiene a Sus siervos en la aflicción y guía Su obra",
-        "Las pruebas indican fracaso",
-        "La obra del Señor se detiene con la oposición",
-        "El sufrimiento carece de propósito"
+        "Que las atribuía por completo a la maldad de otros.",
+        "Que las aceptaba como parte de un proceso, sin dejar de reconocer que eran duras.",
+        "Que consideraba que sus pruebas eran merecidas.",
+        "Que había perdido la esperanza de que terminaran."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Lucía le pide a Dios desde hace meses que le quite una situación difícil y nada cambia. Según lo que enseña esta lección, ¿qué otra petición podría hacer?",
+      "options": [
+        "Pedir que la carga se traslade a otra persona más preparada.",
+        "Pedir una explicación de por qué está ocurriendo.",
+        "Pedir fortaleza, consuelo y esperanza para sostenerla, que es lo que la enseñanza señala como respuesta habitual.",
+        "Dejar de pedir hasta que la situación se resuelva por sí sola."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 122:8 recuerda que el Salvador descendió debajo de todo, y el presidente Eyring dice que Él sufrió lo que nosotros sufrimos «para que pudiera saber cómo elevarlos». ¿Qué principio común forman las dos ideas?",
+      "options": [
+        "Que el sufrimiento propio pierde importancia al compararlo con el Suyo.",
+        "Que quienes sufren más reciben mayor consuelo.",
+        "Que el Salvador soportó las pruebas para que nosotros no tuviéramos que hacerlo.",
+        "Que el consuelo que Cristo ofrece se apoya en que conoce el sufrimiento desde adentro, no desde afuera."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

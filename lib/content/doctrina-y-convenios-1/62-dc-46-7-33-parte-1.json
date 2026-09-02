@@ -43,7 +43,8 @@
         "¿Alguna vez pensaste que no tenés dones espirituales? ¿Qué te dice D&C 46:11–12 sobre eso?",
         "¿Qué don espiritual creés que el Señor te dio a vos? ¿Cómo lo estás usando?",
         "¿Cómo usarías un don tuyo esta semana para beneficiar a alguien en tu familia, quórum o clase?",
-        "¿Qué don en otra persona admirás y agradecés, aunque sea diferente al tuyo?"
+        "¿Qué don en otra persona admirás y agradecés, aunque sea diferente al tuyo?",
+        "¿A quién le vas a decir esta semana qué don reconocés en él o ella? Muchas personas no saben que lo tienen hasta que alguien se lo nombra."
       ]
     }
   ],
@@ -52,67 +53,67 @@
       "id": 1,
       "question": "Según D&C 46:11–12, ¿a cuántas personas se les dan dones por el Espíritu de Dios?",
       "options": [
+        "Solo a quienes los buscan mediante ayuno y oración prolongada.",
         "A todos — a cada persona se le da un don para que todos sean beneficiados.",
         "Solo a los que tienen el Sacerdocio Melquisedec activo.",
-        "A los que han estado en la Iglesia por más de cinco años.",
-        "Solo a quienes los buscan mediante ayuno y oración prolongada."
+        "A los que han estado en la Iglesia por más de cinco años."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "D&C 46:13–26 lista varios dones del Espíritu. ¿Cuáles de los siguientes aparecen explícitamente en esa lista?",
       "options": [
+        "Memorización de Escrituras, elocuencia, popularidad y liderazgo natural.",
         "Fe, sabiduría, salud perfecta y riqueza material.",
         "Fe para sanar, fe para ser sanado, hacer milagros, profecía, discernimiento de espíritus, lenguas e interpretación.",
-        "Obediencia, humildad, paciencia y gratitud.",
-        "Memorización de Escrituras, elocuencia, popularidad y liderazgo natural."
+        "Obediencia, humildad, paciencia y gratitud."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "D&C 46:12 dice que los dones son dados 'para que todos sean beneficiados'. ¿Qué implica eso sobre para qué NO son los dones espirituales?",
       "options": [
-        "Los dones no son para el estudio personal de las Escrituras.",
-        "Los dones no son para el lucimiento o la exhibición personal — su propósito es el servicio mutuo, no la autopromoción.",
         "Los dones no aplican fuera del contexto formal de las reuniones de la Iglesia.",
-        "Los dones no pueden usarse si no se tiene un llamamiento específico que los requiera."
+        "Los dones no pueden usarse si no se tiene un llamamiento específico que los requiera.",
+        "Los dones no son para el estudio personal de las Escrituras.",
+        "Los dones no son para el lucimiento o la exhibición personal — su propósito es el servicio mutuo, no la autopromoción."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "El élder Ashton enseñó que los dones del Espíritu incluyen 'escuchar con compasión' y 'ver el bien en los demás'. ¿Qué amplía esa enseñanza sobre la lista de D&C 46?",
       "options": [
-        "Que la lista de D&C 46 está incompleta y necesita ser actualizada.",
-        "Que los dones más dramáticos como milagros y lenguas son los únicos que realmente importan.",
         "Que los dones del Espíritu incluyen capacidades cotidianas de carácter, no solo manifestaciones sobrenaturales visibles.",
-        "Que el élder Ashton contradice a D&C 46 y sus enseñanzas no deben tomarse en cuenta."
+        "Que el élder Ashton contradice a D&C 46 y sus enseñanzas no deben tomarse en cuenta.",
+        "Que la lista de D&C 46 está incompleta y necesita ser actualizada.",
+        "Que los dones más dramáticos como milagros y lenguas son los únicos que realmente importan."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Renata dice que no tiene dones espirituales porque nunca sanó a nadie ni habló en lenguas. Según D&C 46:11–12, ¿qué le respondería el Señor directamente?",
       "options": [
-        "Que tiene razón y debe orar con más intensidad para recibir un don visible.",
         "Que espere — los dones espirituales solo llegan después de años de membresía activa.",
         "Que a todos se les da un don — el problema no es que no tenga sino que todavía no lo identificó.",
-        "Que los dones solo se manifiestan en momentos de crisis extrema."
+        "Que los dones solo se manifiestan en momentos de crisis extrema.",
+        "Que tiene razón y debe orar con más intensidad para recibir un don visible."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "Nicolás tiene el don de escuchar y hacer sentir a las personas valoradas. Nunca lo consideró espiritual. ¿Cómo lo usaría esta semana si entendiera que es un don dado para 'beneficio de todos'?",
       "options": [
+        "Esperando que alguien le pida explícitamente que los escuche antes de usar ese don.",
         "Registrándolo en un formulario de llamamientos para que el obispo lo use oficialmente.",
         "Buscando activamente a alguien en su entorno que necesite ser escuchado y ofreciéndole ese don.",
-        "Guardándolo para cuando tenga un llamamiento que lo requiera formalmente.",
-        "Esperando que alguien le pida explícitamente que los escuche antes de usar ese don."
+        "Guardándolo para cuando tenga un llamamiento que lo requiera formalmente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,

@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La segunda parte de la lección sobre los dones espirituales se enfoca en el proceso de buscarlos, discernirlos y desarrollarlos activamente. El Señor no solo declara que cada persona tiene un don — también instruye que deben buscarse con diligencia (D&C 46:8) y que el criterio para discernir si un don es genuino es si glorifica a Dios y beneficia a los demás. Esta parte de la lección también aborda el peligro de los falsos dones: manifestaciones que parecen espirituales pero que generan confusión, orgullo o división. El discernimiento es en sí mismo un don del Espíritu. Para los jóvenes que viven en una cultura saturada de experiencias emocionales intensas — música, redes sociales, entretenimiento — aprender a distinguir entre emoción y el Espíritu Santo es una habilidad espiritual crucial y urgente."
+      "contenido": [
+        "La segunda parte de la lección sobre los dones espirituales se enfoca en el proceso de buscarlos, discernirlos y desarrollarlos. El Señor no solo declara que cada persona tiene un don: también instruye que se busquen con diligencia (Doctrina y Convenios 46:8) y establece que el criterio para discernir si un don es genuino es si glorifica a Dios y beneficia a los demás.",
+        "Esta parte de la lección aborda además el peligro de los falsos dones: manifestaciones que parecen espirituales pero generan confusión, orgullo o división. El discernimiento es, en sí mismo, un don del Espíritu. Para los jóvenes que viven en una cultura saturada de experiencias emocionales intensas —música, redes sociales, entretenimiento— aprender a distinguir entre una emoción fuerte y el Espíritu Santo es una habilidad urgente. La emoción sube rápido y baja igual de rápido; el Espíritu deja algo distinto atrás: claridad sobre qué hacer, y ganas de hacerlo."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -43,7 +46,8 @@
         "¿Alguna vez viviste algo que parecía espiritual pero que después te generó confusión o te alejó del Señor? ¿Cómo lo identificaste?",
         "¿Cómo podés aplicar el criterio de D&C 50:23 — '¿edifica?' — a las influencias culturales que te rodean esta semana?",
         "¿Qué harías para buscar más activamente el don espiritual que el Señor te dio?",
-        "¿Hay algún don espiritual que te gustaría desarrollar? ¿Qué pasos concretos podrías dar para buscarlo con diligencia?"
+        "¿Hay algún don espiritual que te gustaría desarrollar? ¿Qué pasos concretos podrías dar para buscarlo con diligencia?",
+        "La próxima vez que algo te emocione mucho en un contexto espiritual, ¿qué pregunta te vas a hacer al día siguiente para saber si el Espíritu estuvo ahí?"
       ]
     }
   ],
@@ -52,12 +56,12 @@
       "id": 1,
       "question": "D&C 46:8 instruye a buscar los dones 'con diligencia'. ¿Qué actitud contraria a la diligencia condena el Señor en ese mismo versículo?",
       "options": [
+        "Que los dones solo se obtienen mediante el ayuno semanal.",
         "Que debemos alejarnos de todo lo que no es bueno y no pedir más de lo que creemos que podemos recibir.",
         "Que debemos buscar solo los dones que aparecen primero en la lista.",
-        "Que debemos esperar a que el obispo asigne los dones antes de buscarlos.",
-        "Que los dones solo se obtienen mediante el ayuno semanal."
+        "Que debemos esperar a que el obispo asigne los dones antes de buscarlos."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
@@ -72,25 +76,25 @@
     },
     {
       "id": 3,
-      "question": "El élder Bednar enseñó que el Espíritu actúa de manera 'suave, tranquila, edificante y clara'. ¿Por qué ese patrón es importante para discernir entre un don espiritual genuino y una manifestación falsa?",
+      "question": "El hermano Tad R. Callister enseñó que «debido a la Expiación de Cristo, podemos recibir el don del Espíritu Santo junto con Sus dones espirituales correspondientes». ¿Qué relación establece esa enseñanza entre la Expiación y los dones del Espíritu?",
       "options": [
-        "Porque las emociones fuertes siempre indican la presencia del Espíritu.",
-        "Porque lo que genera confusión, orgullo o división no tiene las marcas del Espíritu — el carácter de la manifestación revela su origen.",
-        "Porque los dones genuinos siempre producen llanto y quietud en la sala.",
-        "Porque el Espíritu nunca actúa con fuerza, solo con suavidad extrema."
+        "Los dones se conceden en proporción al esfuerzo que cada persona invierte en obtenerlos.",
+        "Los dones espirituales pertenecen a una etapa anterior de la Iglesia y hoy funcionan de otro modo.",
+        "Los dones espirituales son una capacidad natural que la Expiación simplemente reconoce.",
+        "Los dones llegan por medio del Espíritu Santo, cuyo don es posible gracias a la Expiación: no son un logro personal."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "D&C 46:26 menciona el 'discernimiento de espíritus' como un don. ¿Por qué ese don es especialmente valioso para jóvenes que consumen mucho contenido digital y espiritual de diversas fuentes?",
       "options": [
-        "Porque permite bloquear automáticamente el contenido dañino en los dispositivos.",
         "Porque en un mundo saturado de mensajes espirituales contradictorios, poder evaluar si algo edifica o destruye es una habilidad de supervivencia espiritual.",
         "Porque es el don más fácil de obtener y por eso es el más común entre los jóvenes.",
-        "Porque solo aplica al contenido de la Iglesia, no al contenido secular."
+        "Porque solo aplica al contenido de la Iglesia, no al contenido secular.",
+        "Porque permite bloquear automáticamente el contenido dañino en los dispositivos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -107,12 +111,12 @@
       "id": 6,
       "question": "Mateo tiene el don de la fe — cree con profundidad y eso anima a los demás cuando atraviesan dudas. Pero nunca lo consideró un 'don espiritual' porque no es dramático. ¿Qué debería hacer con ese don esta semana?",
       "options": [
+        "Reservarlo para cuando sea llamado como maestro o líder con responsabilidad formal.",
         "Esperar a que alguien le pida explícitamente que comparta su fe antes de usarlo.",
         "Buscar activamente a alguien que esté dudando y ser un ancla de fe para esa persona — eso es exactamente para lo que ese don fue dado.",
-        "Inscribirse en un curso de apologética para complementar ese don con argumentos.",
-        "Reservarlo para cuando sea llamado como maestro o líder con responsabilidad formal."
+        "Inscribirse en un curso de apologética para complementar ese don con argumentos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,

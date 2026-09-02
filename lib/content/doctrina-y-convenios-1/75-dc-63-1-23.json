@@ -38,7 +38,8 @@
         "¿Alguna vez esperaste una señal o confirmación antes de actuar con fe? ¿Qué pasó?",
         "¿Cómo explica D&C 63:16 la relación entre la pureza moral y la capacidad de recibir guía espiritual?",
         "¿Qué influencias en tu entorno — contenido digital, conversaciones, entretenimiento — podrían estar afectando tu capacidad de recibir la guía del Espíritu?",
-        "¿Qué decisión concreta tomarías esta semana para proteger tu pureza espiritual y tu acceso a la luz del Señor?"
+        "¿Qué decisión concreta tomarías esta semana para proteger tu pureza espiritual y tu acceso a la luz del Señor?",
+        "De las influencias que nombraste, ¿cuál vas a limitar esta semana de manera medible —una app menos, un horario tope, una cuenta que dejás de seguir—?"
       ]
     }
   ],
@@ -58,45 +59,45 @@
       "id": 2,
       "question": "D&C 63:16 advierte sobre una consecuencia espiritual específica. ¿Cuál es?",
       "options": [
+        "Que quien no asiste a las reuniones pierde el derecho a las bendiciones del sacerdocio.",
         "Que quien mira a alguien para codiciar pierde la luz y la gracia de Dios.",
         "Que quien busca señales sin fe perderá su membresía en la Iglesia.",
-        "Que quien no paga el diezmo regularmente no puede recibir el Espíritu.",
-        "Que quien no asiste a las reuniones pierde el derecho a las bendiciones del sacerdocio."
+        "Que quien no paga el diezmo regularmente no puede recibir el Espíritu."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
       "question": "¿Por qué buscar señales antes de creer no produce fe duradera, según el principio de D&C 63:9–10?",
       "options": [
+        "Porque buscar señales es una señal de deshonestidad espiritual que el Señor no recompensa.",
         "Porque las señales siempre son falsas y engañosas por naturaleza.",
         "Porque la fe basada en señales externas depende de que las señales continúen — cuando dejan de venir, la fe colapsa; la fe basada en el Espíritu es independiente de las circunstancias.",
-        "Porque las señales solo se dan una vez y después ya no están disponibles.",
-        "Porque buscar señales es una señal de deshonestidad espiritual que el Señor no recompensa."
+        "Porque las señales solo se dan una vez y después ya no están disponibles."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "D&C 63:16 conecta la impureza mental con la pérdida del Espíritu. ¿Qué implica eso sobre la relación entre la pureza moral y la capacidad de recibir guía espiritual?",
       "options": [
-        "Que la impureza moral solo afecta las relaciones humanas, no la relación con el Espíritu.",
-        "Que el Espíritu Santo necesita un templo limpio para habitar — la impureza mental cierra el canal de comunicación espiritual más importante que el discípulo tiene.",
         "Que la impureza mental es un pecado menor que el Señor comprende dada la cultura actual.",
-        "Que solo la impureza en actos físicos afecta la presencia del Espíritu, no los pensamientos."
+        "Que solo la impureza en actos físicos afecta la presencia del Espíritu, no los pensamientos.",
+        "Que la impureza moral solo afecta las relaciones humanas, no la relación con el Espíritu.",
+        "Que el Espíritu Santo necesita un templo limpio para habitar — la impureza mental cierra el canal de comunicación espiritual más importante que el discípulo tiene."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Agustín dice que no puede creer en el evangelio hasta que tenga una experiencia sobrenatural que lo convenza. Según D&C 63:9–10, ¿qué está haciendo Agustín sin darse cuenta?",
       "options": [
-        "Siendo razonable — la evidencia espiritual es una demanda legítima antes de creer.",
         "Buscando señales antes de tener fe — y el Señor dice que las señales siguen a los que creen, no a los que primero quieren ver para después creer.",
         "Aplicando el principio de D&C 9:7–8 correctamente — estudiar primero, luego preguntar.",
-        "Teniendo exactamente la actitud de humildad que el Señor valora antes de dar señales."
+        "Teniendo exactamente la actitud de humildad que el Señor valora antes de dar señales.",
+        "Siendo razonable — la evidencia espiritual es una demanda legítima antes de creer."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -113,12 +114,12 @@
       "id": 7,
       "question": "D&C 63:9–10 (fe antes que señales) y D&C 63:16 (pureza mental preserva la luz) son principios del mismo capítulo. ¿Cuál es la condición espiritual que ambos protegen?",
       "options": [
-        "La posición social del discípulo dentro de la comunidad de la Iglesia.",
         "La confianza de los líderes locales en el discípulo como miembro confiable.",
         "La preparación para recibir el sacerdocio o las ordenanzas del templo.",
-        "La capacidad de recibir y mantener el Espíritu Santo — tanto la mentalidad de señales como la impureza mental cierran esa capacidad; ambos principios protegen el acceso al Espíritu."
+        "La capacidad de recibir y mantener el Espíritu Santo — tanto la mentalidad de señales como la impureza mental cierran esa capacidad; ambos principios protegen el acceso al Espíritu.",
+        "La posición social del discípulo dentro de la comunidad de la Iglesia."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

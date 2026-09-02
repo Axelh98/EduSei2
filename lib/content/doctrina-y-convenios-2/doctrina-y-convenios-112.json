@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-112",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Doctrina y Convenios 112 fue dada a Thomas B. Marsh, entonces Presidente del Cuórum de los Doce, en un momento difícil: varios apóstoles habían caído en apostasía y él mismo tenía tensiones con sus compañeros. El Señor le dio una instrucción de tres palabras que ordena todo el capítulo: «sé humilde».",
+        "La promesa que sigue es concreta: «y el Señor tu Dios te llevará de la mano y dará respuesta a tus oraciones» (versículo 10). El élder Ulisses Soares explicó por qué la humildad y las respuestas van juntas: solo los humildes son enseñables, reconocen cuánto dependen de Dios y están dispuestos a someterse a Su voluntad. Alguien que ya decidió cuál es la respuesta correcta difícilmente escuche otra.",
+        "El versículo 11 agrega algo incómodo para quien dirige: «no seas parcial para con ellos, amándolos más que a muchos otros». Marsh tenía que amar a sus hermanos, pero sin favoritismos que dejaran a otros afuera. Es un consejo muy aplicable a cualquier grupo de amigos, clase o cuórum donde siempre son los mismos los que quedan al margen."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 112:10",
+          "texto": "Sé humilde; y el Señor tu Dios te llevará de la mano y dará respuesta a tus oraciones.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/112?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Doctrina y Convenios 112:11",
+          "texto": "Conozco tu corazón y he oído tus oraciones concernientes a tus hermanos. No seas parcial para con ellos, amándolos más que a muchos otros, antes sea tu amor por ellos como por ti mismo; y abunde tu amor por todos los hombres y por todos los que aman mi nombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/112?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Doctrina y Convenios 112:13",
+          "texto": "Y después de sus tentaciones y de mucha tribulación, he aquí, yo, el Señor, los buscaré; y si no se obstina su corazón ni se endurece su cerviz en contra de mí, serán convertidos y yo los sanaré.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/112?lang=spa&id=p13#p13"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Ulisses Soares",
+      "fuente": "«Sean mansos y humildes de corazón», Conferencia General, octubre de 2013 (Liahona, noviembre de 2013, pág. 10)",
+      "texto": "Creo que solo aquellos que son humildes son capaces de reconocer y entender las respuestas del Señor a sus oraciones. Los humildes son enseñables, reconocen cuánto dependen de Dios y están deseosos de someterse a Su voluntad.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/10/be-meek-and-lowly-of-heart?lang=spa&id=p23#p23"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "«Sé humilde; y el Señor tu Dios te llevará de la mano y dará respuesta a tus oraciones». Las dos partes están unidas: la humildad no es un requisito moral arbitrario, es la condición que permite escuchar una respuesta distinta de la que uno ya tenía decidida. Pensá en la pregunta que le venís haciendo a Dios y preguntate con honestidad si estás dispuesto a cualquier respuesta o solo a una. Si es solo a una, empezá por ahí esta semana."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "«Sé humilde» fue lo primero que el Señor le dijo a Thomas B. Marsh en un momento difícil. ¿Por qué te parece que empezó por ahí?",
+        "El élder Soares dice que solo los humildes pueden reconocer las respuestas del Señor. ¿Cómo explicarías esa conexión?",
+        "El versículo 11 advierte contra amar a unos «más que a muchos otros». ¿Dónde ves ese problema en tu entorno?",
+        "¿Quién queda siempre al margen en tu clase, tu grupo o tu cuórum?",
+        "¿Hay alguna pregunta que le venís haciendo a Dios estando dispuesto a una sola respuesta?",
+        "¿Qué vas a hacer esta semana por esa persona que queda al margen? Algo concreto."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿A quién fue dirigida principalmente la revelación en DyC 112?",
+      "question": "¿Qué instrucción y qué promesa da Doctrina y Convenios 112:10?",
       "options": [
-        "Thomas B. Marsh",
-        "Brigham Young",
-        "Heber C. Kimball",
-        "Joseph Smith"
+        "Sé humilde, y el Señor te llevará de la mano y dará respuesta a tus oraciones.",
+        "Sé diligente, y el Señor multiplicará tus esfuerzos.",
+        "Sé paciente, y el Señor apartará tus aflicciones.",
+        "Sé fiel, y el Señor te dará poder sobre tus enemigos."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué advertencia da el Señor en DyC 112:10 respecto al orgullo?",
+      "question": "¿Contra qué advierte el Señor a Thomas B. Marsh en Doctrina y Convenios 112:11?",
       "options": [
-        "El orgullo precede a la caída",
-        "El orgullo fortalece el liderazgo",
-        "El orgullo no tiene consecuencias",
-        "El orgullo es una señal de éxito"
+        "Contra confiar demasiado en su propio juicio.",
+        "Contra ser parcial, amando a unos más que a muchos otros.",
+        "Contra descuidar sus responsabilidades familiares.",
+        "Contra buscar el reconocimiento de los demás apóstoles."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "Según DyC 112:15, ¿qué se requiere de los que poseen llaves del sacerdocio?",
+      "question": "Según Doctrina y Convenios 112:13, ¿qué promete el Señor respecto de quienes atraviesan tentaciones y mucha tribulación?",
       "options": [
-        "Ser fieles y humildes ante el Señor",
-        "Actuar según su propio criterio",
-        "Buscar reconocimiento",
-        "Evitar la corrección"
+        "Que recibirán una explicación de la causa de sus pruebas.",
+        "Que les evitará las pruebas si permanecen fieles.",
+        "Que los buscará, y si no se obstina su corazón, serán convertidos y Él los sanará.",
+        "Que su recompensa será proporcional a lo que hayan sufrido."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué enseñanza clave da DyC 112 sobre la autoridad del sacerdocio?",
+      "question": "El élder Soares enseñó que «solo aquellos que son humildes son capaces de reconocer y entender las respuestas del Señor». ¿Por qué la humildad sería una condición para reconocer una respuesta?",
       "options": [
-        "Debe ejercerse con rectitud y sumisión a la voluntad del Señor",
-        "Otorga poder absoluto",
-        "Elimina la necesidad de revelación",
-        "Garantiza éxito inmediato"
+        "Porque la humildad hace que el Señor conteste más rápido.",
+        "Porque las respuestas se conceden como recompensa a esa virtud.",
+        "Porque quien es humilde reza con mayor frecuencia.",
+        "Porque quien ya decidió cuál es la respuesta correcta difícilmente reconozca una distinta."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Joaquín viene pidiendo dirección sobre una decisión, pero en el fondo solo aceptaría una de las opciones posibles. Según Doctrina y Convenios 112:10, ¿qué le falta?",
+      "options": [
+        "La humildad, que es la condición para poder reconocer una respuesta distinta de la esperada.",
+        "Consultar la decisión con un líder antes de orar.",
+        "Esperar un tiempo prudencial antes de volver a preguntar.",
+        "Insistir con mayor frecuencia en su petición."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué principio podemos aplicar hoy a partir de DyC 112?",
+      "id": 6,
+      "question": "Camila nota que en su clase siempre son los mismos los que quedan afuera de todo. Según Doctrina y Convenios 112:11, ¿qué principio se está incumpliendo?",
       "options": [
-        "La humildad es esencial para recibir y conservar la guía del Señor",
-        "La posición garantiza inspiración",
-        "La experiencia reemplaza la obediencia",
-        "La corrección no es necesaria"
+        "El de evitar la contención en las reuniones.",
+        "El de no ser parcial, amando a unos más que a muchos otros.",
+        "El de sostener a quienes dirigen la clase.",
+        "El de respetar las diferencias entre los miembros."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 112:10 une la humildad con recibir respuestas, y 112:11 pide que el amor abunde «por todos los hombres». ¿Qué principio común forman los dos versículos?",
+      "options": [
+        "Que la humildad se demuestra principalmente en el trato con los demás.",
+        "Que amar a todos por igual es más importante que la oración personal.",
+        "Que la relación con Dios y la relación con los demás se sostienen sobre la misma disposición del corazón.",
+        "Que las respuestas a la oración se conceden a quienes sirven a otros."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

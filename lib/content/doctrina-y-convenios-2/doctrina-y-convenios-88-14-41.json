@@ -1,83 +1,136 @@
 {
   "id": "doctrina-y-convenios-88-14-41",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Esta parte de la sección 88 responde una pregunta que casi todos se hacen alguna vez: ¿qué pasa después de morir, y por qué unos heredan un reino y otros otro? La respuesta del Señor no apela al castigo, sino a la capacidad.",
+        "El versículo 22 lo dice sin rodeos: «el que no es capaz de obedecer la ley de un reino celestial, no puede soportar una gloria celestial». No dice que no se lo permitan; dice que no podría soportarla. Es la diferencia entre una puerta cerrada con llave y una habitación para la que uno todavía no está preparado. Y el versículo 32 agrega que cada uno gozará de aquello que esté dispuesto a recibir.",
+        "Antes de eso, los versículos 15 al 17 dan la definición que ordena todo el pasaje: «el espíritu y el cuerpo son el alma del hombre», y «la resurrección de los muertos es la redención del alma». El cuerpo no es un envase temporal del que uno se libera: es la mitad de lo que uno es, y por eso la Resurrección no es un consuelo poético, es la reparación de algo real."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:15–16",
+          "texto": "Y el espíritu y el cuerpo son el alma del hombre. Y la resurrección de los muertos es la redención del alma.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p15-p16#p15"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:22",
+          "texto": "Porque el que no es capaz de obedecer la ley de un reino celestial, no puede soportar una gloria celestial.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p22#p22"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:28",
+          "texto": "Aquellos que son de un espíritu celestial recibirán el mismo cuerpo que fue el cuerpo natural; sí, vosotros recibiréis vuestros cuerpos, y vuestra gloria será aquella por medio de la cual vuestro cuerpo sea vivificado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p28#p28"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "«A Sion venid», Conferencia General, octubre de 2008 (Liahona, noviembre de 2008, pág. 38)",
+      "texto": "La ley del reino celestial es, por supuesto, la ley y los convenios del Evangelio, que incluyen el tener constantemente presente al Salvador y nuestro compromiso de obediencia, sacrificio, consagración y fidelidad.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2008/10/come-to-zion?lang=spa&id=p20#p20"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La sección 88 no describe el juicio como una sentencia arbitraria sino como un ajuste: cada persona recibe la gloria que puede soportar y que estuvo dispuesta a recibir. Eso corre el foco de «¿alcanzo el puntaje?» a «¿en qué me estoy convirtiendo?», y la segunda pregunta sí se puede responder hoy. Elegí una de las cuatro cosas que menciona el élder Christofferson —obediencia, sacrificio, consagración, fidelidad— y practicala esta semana en algo chico y verificable."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece más justo: que el juicio sea una nota que se saca o que sea la gloria que uno es capaz de soportar? ¿Por qué?",
+        "Doctrina y Convenios 88:15 dice que «el espíritu y el cuerpo son el alma del hombre». ¿Qué cambia esa definición sobre cómo tratás tu propio cuerpo?",
+        "¿Qué significa, en la práctica, que alguien «no pueda soportar» una gloria en vez de que se le prohíba entrar?",
+        "El élder Christofferson menciona obediencia, sacrificio, consagración y fidelidad. ¿Cuál de las cuatro te resulta hoy más lejana?",
+        "¿Hay algo que estés postergando porque pensás que hay tiempo de sobra para prepararte?",
+        "Elegí una de esas cuatro y practicala esta semana en algo concreto. ¿Cuál elegís y qué vas a hacer?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "Según DyC 88:21–24, ¿qué determina la gloria que recibiremos después del Juicio Final?",
+      "question": "Según Doctrina y Convenios 88:15, ¿qué es el alma del hombre?",
       "options": [
-        "La ley que estamos dispuestos a obedecer",
-        "El lugar donde nacimos",
-        "El conocimiento académico",
-        "La riqueza temporal"
+        "El espíritu y el cuerpo juntos.",
+        "La parte inmortal que sobrevive a la muerte.",
+        "La conciencia moral que distingue el bien del mal.",
+        "El espíritu, que habita temporalmente en un cuerpo."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué enseña DyC 88:14–17 sobre la resurrección?",
+      "question": "¿Cómo describe Doctrina y Convenios 88:16 la resurrección de los muertos?",
       "options": [
-        "El cuerpo y el espíritu serán reunidos y vivificados por el poder de Cristo",
-        "El cuerpo nunca resucitará",
-        "La resurrección es solo simbólica",
-        "Solo los profetas resucitarán"
+        "Como la recompensa reservada a los justos.",
+        "Como la redención del alma.",
+        "Como el juicio final de todos los seres humanos.",
+        "Como la separación definitiva del cuerpo y el espíritu."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué verdad se enseña en DyC 88:34–36 acerca de la ley celestial?",
+      "question": "Doctrina y Convenios 88:22 dice que quien no es capaz de obedecer la ley de un reino celestial «no puede soportar una gloria celestial». ¿Qué matiz introduce el verbo «soportar»?",
       "options": [
-        "Cada reino está gobernado por una ley, y quienes no la obedecen no pueden heredar su gloria",
-        "La ley celestial es opcional",
-        "La ley celestial es solo para líderes",
-        "La ley celestial no tiene relación con la salvación"
+        "Que la ley celestial exige un nivel de perfección inalcanzable en esta vida.",
+        "Que el acceso a esa gloria depende de una decisión externa que se comunica en el juicio.",
+        "Que se trata de una cuestión de capacidad desarrollada, y no de un permiso que se concede o se niega.",
+        "Que la gloria celestial resulta incómoda incluso para quienes la heredan."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué enseñó el élder D. Todd Christofferson sobre la ley del Reino Celestial?",
+      "question": "El élder Christofferson definió la ley del reino celestial como «la ley y los convenios del Evangelio», incluidos la obediencia, el sacrificio, la consagración y la fidelidad. ¿Qué aporta esa definición al versículo 22?",
       "options": [
-        "Incluye obediencia, sacrificio, consagración y fidelidad",
-        "Es solo un símbolo",
-        "No requiere compromiso",
-        "Es exclusiva para los profetas"
+        "Establece que esos cuatro elementos se exigen únicamente en el templo.",
+        "Indica que la ley celestial cambia según la época en que vive cada persona.",
+        "Señala que el cumplimiento debe ser perfecto para que tenga algún valor.",
+        "Aclara que la ley celestial es un conjunto de compromisos concretos que se pueden empezar a vivir ahora."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Qué enseña 3 Nefi 27:19–20 sobre entrar en el Reino Celestial?",
+      "question": "Benjamín cuida poco su descanso y su alimentación porque piensa que «lo importante es el espíritu». Según Doctrina y Convenios 88:15, ¿qué está separando indebidamente?",
       "options": [
-        "Debemos ser lavados en la sangre de Cristo mediante el arrepentimiento y la obediencia",
-        "Es automático para todos",
-        "Depende solo de obras temporales",
-        "No requiere arrepentimiento"
+        "El cuerpo y el espíritu, que según el versículo forman juntos el alma.",
+        "La vida presente y la vida futura, que son etapas distintas.",
+        "La salud física y el rendimiento académico, que se afectan mutuamente.",
+        "La responsabilidad personal y la ayuda que ofrece el Señor."
       ],
       "correctAnswer": 0
     },
     {
       "id": 6,
-      "question": "¿Qué ayuda ofrece Jesucristo para alcanzar la gloria celestial?",
+      "question": "Camila cree que le alcanza con «ser buena persona» y que preocuparse por convenios y ordenanzas es un detalle secundario. Según Doctrina y Convenios 88:22 y la enseñanza del élder Christofferson, ¿qué le falta considerar?",
       "options": [
-        "Nos fortalece mediante Su Expiación y nos ayuda a arrepentirnos",
-        "Nos deja solos en el esfuerzo",
-        "No interviene en nuestra vida",
-        "Solo ayuda a los líderes"
+        "Que la bondad natural basta si se sostiene durante toda la vida.",
+        "Que la ley celestial incluye compromisos concretos, y la capacidad de vivir en esa gloria se desarrolla viviéndolos.",
+        "Que ser buena persona no tiene ningún valor ante el Señor.",
+        "Que los convenios son requisitos formales sin efecto sobre el carácter."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 7,
-      "question": "¿Qué principio central enseña DyC 88:38–39 sobre las leyes divinas?",
+      "question": "Doctrina y Convenios 88:16 llama a la resurrección «la redención del alma», y 88:28 promete que los de espíritu celestial recibirán el mismo cuerpo que fue natural. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Cada reino tiene una ley, y quienes la obedecen reciben la gloria correspondiente",
-        "Las leyes son irrelevantes",
-        "Las leyes son iguales para todos",
-        "Las leyes son solo simbólicas"
+        "Que la redención alcanza al espíritu y deja el cuerpo fuera del plan.",
+        "Que la resurrección se concede únicamente a quienes heredan la gloria celestial.",
+        "Que el plan de Dios restaura a la persona entera, cuerpo incluido, y no solo una parte de ella.",
+        "Que el cuerpo resucitado será distinto del cuerpo mortal en todos sus aspectos."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

@@ -33,7 +33,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Examinar las preguntas difíciles con perspectiva eterna no las elimina instantáneamente, pero las transforma. Cuando recordás que sos hijo o hija de un Padre que te conoce perfectamente, que esta vida es parte de un plan más grande, y que el Salvador ya descendió más abajo que cualquier cosa que enfrentarás, podés vivir con fe en lugar de con miedo. Esta semana, tomá una situación difícil de tu vida y aplícale deliberadamente la perspectiva del Plan de Salvación."
+      "contenido": [
+        "Examinar las preguntas difíciles con perspectiva eterna no las elimina instantáneamente, pero las transforma. Cuando recordás que sos hijo o hija de un Padre que te conoce perfectamente, que esta vida es parte de un plan más grande, y que el Salvador ya descendió más abajo que cualquier cosa que enfrentarás, podés vivir con fe en lugar de con miedo. Tomá la situación que hoy te parece más injusta, escribila en una hoja y anotá al lado qué cambia si la mirás desde el Plan de Salvación en vez de desde esta semana."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -42,7 +44,8 @@
         "¿Qué promesa le hace el Señor a José Smith en D&C 122:7–8 sobre sus sufrimientos?",
         "¿Hay algo en tu vida ahora mismo que te parece injusto o confuso? ¿Cómo lo verías en el contexto del Plan de Salvación?",
         "¿Qué verdades del Plan de Salvación te dan más esperanza cuando enfrentás situaciones difíciles?",
-        "¿Cómo podés recordarte mantener una perspectiva eterna cuando el día a día te absorbe?"
+        "¿Cómo podés recordarte mantener una perspectiva eterna cuando el día a día te absorbe?",
+        "¿Con qué persona de confianza podrías hablar de esa situación antes del fin de semana, para no quedarte solo con tu propia lectura de los hechos?"
       ]
     }
   ],
@@ -51,34 +54,34 @@
       "id": 1,
       "question": "¿Cuál es la diferencia más importante entre ver una situación difícil con perspectiva temporal y verla con perspectiva eterna?",
       "options": [
+        "La perspectiva temporal es mejor para tomar decisiones prácticas",
         "La perspectiva temporal es más honesta porque no ignora el dolor real",
         "La perspectiva eterna coloca la situación en el contexto del plan de Dios, lo que cambia su significado",
-        "La perspectiva eterna hace que los problemas parezcan menos reales de lo que son",
-        "La perspectiva temporal es mejor para tomar decisiones prácticas"
+        "La perspectiva eterna hace que los problemas parezcan menos reales de lo que son"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "El Señor le dijo a José Smith en D&C 122:7–8, en medio de sus sufrimientos más extremos: 'todas estas cosas te darán experiencia y serán para tu bien'. ¿Qué tipo de perspectiva requiere creer eso?",
       "options": [
-        "Una perspectiva que niega el dolor para mantener una actitud positiva",
-        "Una perspectiva eterna que confía en que Dios puede usar incluso el sufrimiento con un propósito",
         "Una perspectiva filosófica que racionaliza el mal como algo necesariamente bueno",
-        "Una perspectiva que ignora el cuerpo y sus necesidades para enfocarse solo en lo espiritual"
+        "Una perspectiva que ignora el cuerpo y sus necesidades para enfocarse solo en lo espiritual",
+        "Una perspectiva que niega el dolor para mantener una actitud positiva",
+        "Una perspectiva eterna que confía en que Dios puede usar incluso el sufrimiento con un propósito"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Hay algo en tu vida ahora mismo que te parece injusto o confuso? ¿Cómo lo verías si lo colocaras en el contexto del Plan de Salvación?",
+      "question": "A Nicolás le diagnostican una enfermedad crónica en pleno año escolar y no entiende por qué le tocó a él. Según el segundo principio para adquirir conocimiento espiritual, ¿cuál es el primer movimiento que le propone esta lección?",
       "options": [
-        "Como algo que Dios me mandó porque me tiene bronca",
-        "Como una parte de una historia más grande donde Él tiene propósitos que todavía no veo completamente",
-        "Como evidencia de que el Plan de Salvación no siempre funciona",
-        "Como algo que debo ignorar para no perder la fe"
+        "Colocar la pregunta dentro del Plan de Salvación, donde esta vida es una parte de una existencia mucho más larga.",
+        "Dejar la pregunta de lado hasta que la enfermedad esté resuelta y pueda pensar con más calma.",
+        "Aceptar que algunas cosas de la vida son arbitrarias y que la fe no tiene nada que decir al respecto.",
+        "Concluir que la enfermedad es una consecuencia de algo que hizo mal y buscar qué corregir."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -93,25 +96,36 @@
     },
     {
       "id": 5,
-      "question": "¿Cómo podés recordarte a vos mismo mantener una perspectiva eterna cuando el día a día te absorbe completamente?",
+      "question": "Camila dice que en teoría cree en la perspectiva eterna, pero que entre el colegio, el trabajo y las redes se olvida por completo de ella durante semanas. ¿Qué solución es más coherente con lo que enseña esta lección?",
       "options": [
-        "Aislarte de las actividades cotidianas para pensar solo en lo espiritual",
-        "Crear un recordatorio concreto — un versículo, una oración corta, una pregunta — que uses en los momentos difíciles",
-        "Esperar a que llegue una crisis para acordarte de la perspectiva eterna",
-        "Leer la Biblia completa una vez al año para mantener el contexto"
+        "Aceptar que la perspectiva eterna es propia de la adultez y que a su edad es normal no sostenerla.",
+        "Esperar a la próxima prueba difícil, porque es ahí cuando la perspectiva eterna aparece sola.",
+        "Construir un recordatorio deliberado y repetido —un pasaje a la vista, una pregunta fija en la oración— que la traiga de vuelta.",
+        "Reducir sus actividades hasta tener tiempo suficiente para pensar en cosas eternas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "El Señor dice en D&C 122:8: '¿Eres tú mayor que él?' — refiriéndose al Salvador que descendió más abajo que todo. ¿Qué efecto tiene esa pregunta en alguien que está sufriendo?",
       "options": [
-        "Lo hace sentir inferior e indigno de quejarse",
-        "Le recuerda que Cristo conoce su sufrimiento desde adentro y puede ayudarlo con autoridad real",
         "Le indica que debe suprimir sus emociones para parecerse más al Salvador",
-        "Lo invita a comparar su sufrimiento con el de otras personas para ganar perspectiva"
+        "Lo invita a comparar su sufrimiento con el de otras personas para ganar perspectiva",
+        "Lo hace sentir inferior e indigno de quejarse",
+        "Le recuerda que Cristo conoce su sufrimiento desde adentro y puede ayudarlo con autoridad real"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 122:7–8 promete que las aflicciones «darán experiencia» y serán «para tu bien», y 2 Nefi 2:11 enseña que es preciso que haya oposición en todas las cosas. ¿Qué idea común sostienen los dos pasajes?",
+      "options": [
+        "Que la oposición cumple una función dentro del plan de Dios y no es una falla del plan.",
+        "Que quienes son fieles reciben menos oposición que el resto de las personas.",
+        "Que el dolor pierde importancia cuando se lo compara con las bendiciones futuras.",
+        "Que el sufrimiento es una señal de que la persona se apartó del camino y debe corregirse."
+      ],
+      "correctAnswer": 0
     }
   ]
 }

@@ -43,7 +43,8 @@
         "¿Hay algún líder de la Iglesia en tu vida del que podría decirse lo mismo? ¿Qué tiene ese líder que admirás?",
         "¿Qué diferencia hay entre recibir las leyes del Señor y guardarlas, según D&C 41:5?",
         "¿Hay algo en tu carácter que querés fortalecer para que el Señor pueda describir tu corazón como 'sin engaño'?",
-        "¿Qué pequeño acto de integridad — aunque nadie lo vea — podrías practicar esta semana?"
+        "¿Qué pequeño acto de integridad — aunque nadie lo vea — podrías practicar esta semana?",
+        "¿En qué situación concreta de los próximos días vas a tener la oportunidad de decir la verdad cuando mentir sería más cómodo?"
       ]
     }
   ],
@@ -63,45 +64,45 @@
       "id": 2,
       "question": "D&C 41:5 establece una distinción entre dos tipos de personas. ¿Cuál es esa distinción?",
       "options": [
-        "El que tiene fe y el que no la tiene.",
         "El que fue bautizado antes de 1831 y el que fue bautizado después.",
         "El que recibe la ley del Señor y la hace versus el que dice recibirla pero no la hace.",
-        "El que tiene un llamamiento formal y el que sirve sin un cargo asignado."
+        "El que tiene un llamamiento formal y el que sirve sin un cargo asignado.",
+        "El que tiene fe y el que no la tiene."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 3,
       "question": "El Señor describe a Partridge como alguien 'en quien no hay engaño'. ¿Por qué esa cualidad de integridad es más importante que la experiencia o el talento para un cargo de responsabilidad?",
       "options": [
+        "Porque la integridad es un don espiritual que no puede aprenderse, a diferencia de la experiencia.",
         "Porque la integridad es la cualidad más fácil de desarrollar y todos la pueden tener rápidamente.",
         "Porque quien tiene experiencia pero no integridad puede usar esa experiencia para su propio beneficio en lugar del bien de los demás.",
-        "Porque el Señor prefiere a personas sin experiencia para que no dependan de sus propias capacidades.",
-        "Porque la integridad es un don espiritual que no puede aprenderse, a diferencia de la experiencia."
+        "Porque el Señor prefiere a personas sin experiencia para que no dependan de sus propias capacidades."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "D&C 41:5 dice que el verdadero discípulo no solo recibe la ley sino que la hace. ¿Qué diferencia doctrinal hay entre esas dos acciones — recibir y hacer?",
       "options": [
-        "No hay diferencia real — quien recibe la ley genuinamente la hará automáticamente.",
-        "Recibir es intelectual — conocer y aceptar la doctrina; hacer es vital — convertir ese conocimiento en acción y en carácter.",
         "Hacer es más importante en los primeros años de membresía; recibir lo es en la vejez.",
-        "Recibir aplica a las doctrinas y hacer aplica solo a los mandamientos formales como el diezmo."
+        "Recibir aplica a las doctrinas y hacer aplica solo a los mandamientos formales como el diezmo.",
+        "No hay diferencia real — quien recibe la ley genuinamente la hará automáticamente.",
+        "Recibir es intelectual — conocer y aceptar la doctrina; hacer es vital — convertir ese conocimiento en acción y en carácter."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Agustín se comporta diferente cuando está con sus amigos de la Iglesia que cuando está en la escuela — más paciente con unos, más agresivo con otros. Según el estándar de Edward Partridge en D&C 41:11, ¿cómo describiría el Señor esa situación?",
       "options": [
-        "Como una adaptación social normal que no tiene implicaciones espirituales.",
         "Como una forma de engaño — ser diferente según quién mira es exactamente lo opuesto de ser 'alguien sin engaño'.",
         "Como una señal de madurez — saber adaptar el comportamiento al contexto social.",
-        "Como algo que solo importa en los líderes de la Iglesia, no en los miembros comunes."
+        "Como algo que solo importa en los líderes de la Iglesia, no en los miembros comunes.",
+        "Como una adaptación social normal que no tiene implicaciones espirituales."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -118,12 +119,12 @@
       "id": 7,
       "question": "El llamado de Edward Partridge (D&C 41) y el de Sidney Rigdon (D&C 35) comparten una característica. ¿Cuál es el principio común que ilustran ambos llamados?",
       "options": [
-        "Que el Señor siempre llama a personas con experiencia religiosa previa para los cargos más importantes.",
         "Que los cargos del sacerdocio requieren aprobación de la congregación antes de ser válidos.",
         "Que los primeros llamamientos de la Iglesia restaurada fueron todos excepcionales y no sirven de patrón hoy.",
-        "Que el Señor llama según la condición del corazón — en Partridge la integridad, en Rigdon los dones consagrados — y esa es la cualidad que importa más."
+        "Que el Señor llama según la condición del corazón — en Partridge la integridad, en Rigdon los dones consagrados — y esa es la cualidad que importa más.",
+        "Que el Señor siempre llama a personas con experiencia religiosa previa para los cargos más importantes."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

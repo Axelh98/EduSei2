@@ -29,8 +29,8 @@
       "tipo": "enseñanza",
       "autor": "Élder Dieter F. Uchtdorf",
       "fuente": "\"La obra misional: comparte lo que hay en tu corazón\", Conferencia General, abril de 2019 (Liahona, mayo de 2019, pág. 17)",
-      "texto": "Entiende que no es tu trabajo convertir a las personas. Ese es el papel del Espíritu Santo. Tu papel es compartir lo que hay en tu corazón y vivir de acuerdo con tus creencias. Así que no te desanimes si alguien no acepta el mensaje del Evangelio de inmediato. No es un fracaso personal. Eso es un asunto entre esa persona y el Padre Celestial. Lo tuyo es amar a Dios y amar a tu prójimo, Sus hijos. Cree, ama, actúa.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/14uchtdorf?lang=spa&id=p39-p44#p39"
+      "texto": "Comprendan que no es su trabajo convertir a las personas; esa es la función del Espíritu Santo. Su función es compartir lo que guardan en el corazón y vivir de forma consecuente con sus creencias. De modo que no se desanimen si alguien no acepta el mensaje del Evangelio de inmediato. No es un fracaso personal. Eso queda entre la persona y el Padre Celestial. Su función es amar a Dios y amar a su prójimo, es decir: Sus hijos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/14uchtdorf?lang=spa&id=p39#p39"
     },
     {
       "tipo": "conclusion",
@@ -43,7 +43,8 @@
         "¿Qué significa para vos que el Señor le dijera a Edward Partridge 'tus pecados te son perdonados' antes de llamarlo?",
         "¿Alguna vez sentiste que el Señor te conocía de manera personal? ¿Cuándo?",
         "¿Cómo cambia tu manera de orar saber que el Señor conoce tus circunstancias familiares y personales en detalle?",
-        "¿Hay algo que le pedirías al Señor esta semana si supieras con certeza que Él ya sabe todo lo que estás viviendo?"
+        "¿Hay algo que le pedirías al Señor esta semana si supieras con certeza que Él ya sabe todo lo que estás viviendo?",
+        "¿Qué detalle de tu situación —de tu familia, de tu salud, de tu semana— nunca le contaste al Señor en voz alta porque diste por sentado que ya lo sabe?"
       ]
     }
   ],
@@ -52,34 +53,34 @@
       "id": 1,
       "question": "Según D&C 33:3, ¿en qué estado se encontraba el campo del Señor cuando llamó a Ezra Thayre y Northrop Sweet a predicar?",
       "options": [
-        "Listo para la siega — blanco para ser cosechado de inmediato.",
-        "Todavía no estaba listo y necesitaban esperar la señal del profeta.",
         "Parcialmente preparado en el este, pero no en el oeste del país.",
-        "En estado de barbecho, esperando las lluvias del arrepentimiento primero."
+        "En estado de barbecho, esperando las lluvias del arrepentimiento primero.",
+        "Listo para la siega — blanco para ser cosechado de inmediato.",
+        "Todavía no estaba listo y necesitaban esperar la señal del profeta."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "En D&C 36, el Señor le dice a Edward Partridge que sus pecados le son perdonados antes de asignarle un llamado. ¿Qué orden tiene esa secuencia?",
       "options": [
-        "Primero el llamado, luego el perdón como recompensa por aceptarlo.",
-        "Primero el perdón, luego el llamado — la misericordia precede a la responsabilidad.",
         "El perdón y el llamado se dan simultáneamente como un solo acto divino.",
-        "Primero años de servicio, y el perdón se confirma al final de la vida."
+        "Primero años de servicio, y el perdón se confirma al final de la vida.",
+        "Primero el llamado, luego el perdón como recompensa por aceptarlo.",
+        "Primero el perdón, luego el llamado — la misericordia precede a la responsabilidad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "D&C 31 le da a Thomas B. Marsh instrucciones detalladas sobre su familia, sus viajes y sus debilidades personales. ¿Qué revela eso sobre la naturaleza de la revelación personal del Señor?",
       "options": [
-        "Que el Señor solo da revelaciones generales aplicables a todos por igual.",
         "Que el Señor conoce las circunstancias específicas de cada persona y adapta Su guía a ellas.",
         "Que Thomas Marsh era el único en recibir revelaciones tan detalladas por su cargo especial.",
-        "Que las revelaciones personales solo tratan de asuntos espirituales, no de familia o viajes."
+        "Que las revelaciones personales solo tratan de asuntos espirituales, no de familia o viajes.",
+        "Que el Señor solo da revelaciones generales aplicables a todos por igual."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -107,23 +108,23 @@
       "id": 6,
       "question": "Lucas dice que la viña del Señor es el campo misional y que él no tiene nada que hacer allí hasta ser misionero de tiempo completo. Según D&C 33:3, ¿qué le respondería el Señor?",
       "options": [
-        "Que tiene razón y debe prepararse durante los próximos años antes de actuar.",
-        "Que la viña está lista ahora mismo, y su familia, amigos y escuela son parte de ella hoy.",
         "Que puede esperar hasta los 18 años sin perder oportunidades importantes.",
-        "Que el trabajo en la viña requiere siempre una asignación formal previa."
+        "Que el trabajo en la viña requiere siempre una asignación formal previa.",
+        "Que tiene razón y debe prepararse durante los próximos años antes de actuar.",
+        "Que la viña está lista ahora mismo, y su familia, amigos y escuela son parte de ella hoy."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "D&C 31 habla del conocimiento personal que el Señor tiene de Thomas Marsh. D&C 36 declara el perdón de Edward Partridge antes de llamarlo. ¿Qué principio común sobre el Señor revelan estas dos revelaciones juntas?",
       "options": [
+        "Que el Señor adapta Su guía y Su misericordia a la persona específica — conoce a cada uno y responde a lo que ese individuo necesita.",
         "Que el Señor trata diferente a los líderes de la Iglesia que a los miembros comunes.",
         "Que el conocimiento personal del Señor y Su perdón son independientes y no tienen relación.",
-        "Que el Señor solo habla de manera personal cuando hay un llamado importante que asignar.",
-        "Que el Señor adapta Su guía y Su misericordia a la persona específica — conoce a cada uno y responde a lo que ese individuo necesita."
+        "Que el Señor solo habla de manera personal cuando hay un llamado importante que asignar."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     }
   ]
 }

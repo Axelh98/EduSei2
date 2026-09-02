@@ -42,7 +42,8 @@
         "¿Qué doctrina sobre los niños pequeños enseña D&C 29:46–48? ¿Por qué eso es consolador?",
         "Si un amigo te preguntara 'si Dios es bueno, ¿por qué permite el mal?', ¿qué respuesta te daría D&C 29?",
         "¿Cómo refleja la doctrina sobre los niños pequeños la misericordia perfecta del Padre Celestial?",
-        "¿Qué parte del Plan de Salvación te da más esperanza ahora mismo? ¿Por qué?"
+        "¿Qué parte del Plan de Salvación te da más esperanza ahora mismo? ¿Por qué?",
+        "¿A quién de tu entorno le podría servir escuchar la doctrina sobre los niños pequeños, y cómo se la contarías con tus palabras?"
       ]
     }
   ],
@@ -51,12 +52,12 @@
       "id": 1,
       "question": "Si un amigo te pregunta '¿por qué Dios permite que exista el mal si es bueno?', ¿qué respuesta te daría D&C 29:35–39?",
       "options": [
-        "Que Dios no tiene control sobre el mal y por eso lo permite",
         "Que la agencia — la libertad de elegir — es el corazón del plan, y sin posibilidad de elegir el mal, el bien no tendría significado",
         "Que el mal es una ilusión y en realidad todo es parte de la voluntad de Dios",
-        "Que el mal existe porque Dios está castigando a la humanidad por los pecados de Adán"
+        "Que el mal existe porque Dios está castigando a la humanidad por los pecados de Adán",
+        "Que Dios no tiene control sobre el mal y por eso lo permite"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -71,45 +72,56 @@
     },
     {
       "id": 3,
-      "question": "D&C 29:46–48 dice que los niños pequeños son 'santos y redimidos' por la sangre de Cristo. ¿A quién en tu vida o entorno podría consolar esa doctrina?",
+      "question": "Doctrina y Convenios 29:46–47 declara que los niños pequeños «son redimidos desde la fundación del mundo» y no pueden pecar porque no les es dado tentar a Satanás. ¿Qué doctrina establece ese pasaje?",
       "options": [
-        "A alguien que perdió un hijo pequeño o conoce a una familia en esa situación",
-        "A alguien que duda de si el bautismo de bebés es necesario",
-        "A alguien que piensa que Dios no tiene misericordia con los inocentes",
-        "A cualquiera de las situaciones anteriores según el contexto"
+        "Que la responsabilidad de sus actos recae por completo sobre sus padres.",
+        "Que los niños quedan exentos del bautismo hasta que ellos mismos lo pidan.",
+        "Que la redención de los niños pequeños está asegurada por la Expiación, sin necesidad de bautismo antes de la edad de responsabilidad.",
+        "Que los niños pequeños son incapaces de recibir influencia espiritual de ningún tipo."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Doctrina y Convenios 29:39 explica que era necesario que el diablo tentara a los hombres, «porque si nunca tuviesen lo amargo, no podrían conocer lo dulce». ¿Qué función asigna ese versículo a la oposición?",
+      "options": [
+        "Indica que el mal fue creado por Dios como parte del plan original.",
+        "Sostiene que la oposición desaparecerá cuando la persona alcance suficiente fe.",
+        "Justifica el sufrimiento como un castigo proporcional a las faltas cometidas.",
+        "La vuelve condición del discernimiento moral: sin contraste, la elección entre el bien y el mal carecería de sentido."
       ],
       "correctAnswer": 3
     },
     {
-      "id": 4,
-      "question": "¿Qué dice la doctrina de los niños pequeños sobre el carácter de Dios y el diseño de Su plan?",
-      "options": [
-        "Que Dios premia la inocencia sin considerar las elecciones",
-        "Que el plan de salvación no tiene brechas — la misericordia de Dios alcanza a los más indefensos",
-        "Que los niños pequeños no necesitan la Expiación porque son naturalmente puros",
-        "Que Dios hace excepciones en las reglas cuando la situación lo amerita"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": 5,
-      "question": "¿Qué parte del Plan de Salvación te da más esperanza ahora mismo — la preexistencia, la Expiación, la resurrección, o los reinos de gloria? ¿Por qué?",
+      "question": "Valentina se entera de que una prima suya murió a los dos años y sus padres no son miembros de la Iglesia. Según Doctrina y Convenios 29:46–48, ¿qué puede decirles con seguridad doctrinal?",
       "options": [
-        "La preexistencia, porque me recuerda que existí antes y tuve una relación con el Padre",
-        "La Expiación, porque cubre mis errores y los de las personas que amo",
-        "La resurrección, porque significa que la muerte no es el final",
-        "Los reinos de gloria, porque nadie queda sin oportunidad de salvación"
+        "Que los niños pequeños están redimidos por medio de la Expiación, sin condiciones pendientes.",
+        "Que la situación se resolverá en el juicio final según la fe de la familia.",
+        "Que la doctrina no se pronuncia con claridad sobre los niños de padres no miembros.",
+        "Que el destino de la niña depende de que se realicen ordenanzas por ella en el templo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
-      "question": "La doctrina de D&C 29 sobre la agencia y la redención ¿genera en vos más gratitud, más responsabilidad, o ambas cosas? ¿Por qué?",
+      "question": "Tomás sostiene que si Dios fuera realmente bueno impediría el mal en el mundo. Según Doctrina y Convenios 29:36–39, ¿cuál es la respuesta doctrinal más completa?",
       "options": [
-        "Solo gratitud, porque saber que Cristo pagó todo reduce mi responsabilidad",
-        "Solo responsabilidad, porque la agencia significa que todo depende de mis elecciones",
-        "Ambas: gratitud porque Cristo pagó lo que yo no podía, y responsabilidad porque tengo la libertad de elegir usar ese don",
-        "Ninguna de las dos, porque son conceptos abstractos sin impacto en la vida cotidiana"
+        "Que Dios impide el mal cuando la persona afectada tiene fe suficiente.",
+        "Que el albedrío es tan central en el plan que el diablo fue expulsado por querer destruirlo: sin posibilidad de elegir mal, no habría elección real.",
+        "Que el mal existe únicamente como consecuencia de las decisiones de otras personas.",
+        "Que el sufrimiento presente carece de importancia frente a las bendiciones futuras."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 29:36–39 explica el albedrío y 29:46–48 declara redimidos a los niños pequeños. ¿Qué muestran las dos doctrinas juntas sobre el Plan de Salvación?",
+      "options": [
+        "Que el albedrío pierde vigencia en los casos en que la persona no puede comprenderlo.",
+        "Que la salvación de los niños depende de la fidelidad con que sus padres guarden los convenios.",
+        "Que el plan combina justicia y misericordia sin dejar a nadie fuera: exige elección a quien puede elegir y cubre a quien todavía no puede.",
+        "Que la justicia divina se aplica a los adultos y la misericordia a los niños."
       ],
       "correctAnswer": 2
     }

@@ -38,7 +38,8 @@
         "¿Qué significa para vos 'de pequeñas cosas proceden las grandes' en relación con algo que estás haciendo ahora?",
         "¿Qué 'pequeña fidelidad' cotidiana tuya podría estar construyendo algo más grande de lo que imaginás?",
         "¿Qué le dirías a un amigo que está por dejar de hacer algo bueno porque siente que no sirve de nada?",
-        "¿Qué acto pequeño pero constante podés comprometerte a hacer esta semana, sabiendo que estás poniendo un cimiento aunque no lo veás crecer?"
+        "¿Qué acto pequeño pero constante podés comprometerte a hacer esta semana, sabiendo que estás poniendo un cimiento aunque no lo veás crecer?",
+        "¿Cómo vas a registrar que lo hiciste —una marca en el calendario, una nota, un mensaje a alguien— para que a fin de mes puedas ver la constancia y no solo recordarla?"
       ]
     }
   ],
@@ -47,78 +48,78 @@
       "id": 1,
       "question": "D&C 64:33–34 contiene una promesa y un estándar. ¿Qué es lo que el Señor 'requiere' específicamente, según el versículo 34?",
       "options": [
+        "Que los santos abandonen sus bienes materiales para construir Sion.",
         "El corazón y una mente dispuesta — no resultados perfectos ni grandes hazañas.",
         "Que los santos edifiquen templos antes del fin del año.",
-        "Que cada miembro sirva una misión de tiempo completo.",
-        "Que los santos abandonen sus bienes materiales para construir Sion."
+        "Que cada miembro sirva una misión de tiempo completo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "D&C 64:33 dice que quienes hacen el bien 'ponen los cimientos de una gran obra'. ¿Qué metáfora usa el versículo para describir la relación entre los actos pequeños y la obra grande?",
       "options": [
+        "El río comienza como una gota pero llena el océano.",
         "De pequeñas cosas proceden las grandes.",
         "La semilla pequeña produce el árbol más alto.",
-        "Los ladrillos humildes sostienen las catedrales más altas.",
-        "El río comienza como una gota pero llena el océano."
+        "Los ladrillos humildes sostienen las catedrales más altas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "El presidente Uchtdorf enseñó que las personas grandes rara vez hacen un solo acto extraordinario — hacen 'miles de actos ordinarios realizados fielmente'. ¿Qué implica eso sobre cómo evaluar el propio progreso espiritual?",
+      "question": "El élder Klebingat aconsejó «hacer lo correcto por las razones correctas», recordando que el Señor «discierne los pensamientos y las intenciones del corazón». ¿Qué implica eso al evaluar el propio progreso espiritual?",
       "options": [
-        "Que el progreso espiritual real solo se mide en los momentos de crisis importantes.",
-        "Que la fidelidad cotidiana invisible es el verdadero material de la grandeza espiritual — los días ordinarios son donde se construye el carácter, no los eventos dramáticos.",
-        "Que las grandes experiencias espirituales son más valiosas que la fidelidad cotidiana.",
-        "Que el progreso espiritual es principalmente visible y verificable por los demás."
+        "Que las experiencias espirituales intensas valen más que la constancia diaria.",
+        "Que el progreso espiritual debería poder ser verificado por los demás.",
+        "Que el progreso solo se mide en los momentos de crisis importantes.",
+        "Que lo que cuenta no es únicamente la conducta visible, sino el motivo que la sostiene cuando nadie mira."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "D&C 64:33 instruyó a los santos que estaban agotados por la persecución y las demandas de la obra. ¿Por qué ese contexto hace que el mensaje 'no os canséis de hacer el bien' sea especialmente significativo?",
       "options": [
-        "Porque el mandamiento es más fácil de cumplir cuando uno está descansado y con recursos.",
         "Porque el Señor lo dijo precisamente cuando era más difícil de cumplir — el mandamiento reconoce el cansancio real y pide perseverar a pesar de él, no en ausencia de él.",
         "Porque los santos de Ohio eran especialmente débiles espiritualmente y necesitaban ese recordatorio.",
-        "Porque el mandamiento solo aplica en contextos de persecución activa, no en tiempos normales."
+        "Porque el mandamiento solo aplica en contextos de persecución activa, no en tiempos normales.",
+        "Porque el mandamiento es más fácil de cumplir cuando uno está descansado y con recursos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Camila lleva meses haciendo el bien silenciosamente — ayudando en casa, siendo amable con compañeros difíciles — sin ver resultados visibles. Está pensando en dejar de intentarlo. D&C 64:33–34 le dice algo directo. ¿Qué?",
       "options": [
-        "Que debería buscar actividades de mayor impacto visible para no desperdiciar su esfuerzo.",
         "Que debería comentar sus actos de servicio en sus redes para recibir retroalimentación.",
         "Que no se canse de hacer el bien — con cada acto está poniendo cimientos de algo grande aunque ahora no lo vea, y el Señor solo requiere su corazón dispuesto, no resultados inmediatos.",
-        "Que espere a recibir una señal del Señor antes de continuar para confirmar que va por buen camino."
+        "Que espere a recibir una señal del Señor antes de continuar para confirmar que va por buen camino.",
+        "Que debería buscar actividades de mayor impacto visible para no desperdiciar su esfuerzo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "Nicolás siente que su contribución al Seminario, a su familia y a la Iglesia es tan pequeña que 'no hace ninguna diferencia'. Según D&C 64:33, ¿qué perspectiva cambia ese sentimiento?",
       "options": [
+        "Que el Señor valora solo las contribuciones que otros pueden ver y agradecer.",
         "Que debería ampliar sus contribuciones hasta que sean lo suficientemente grandes para notarse.",
         "Que las cosas pequeñas son la fuente de las cosas grandes — cada acción fiel suya es un cimiento, aunque la obra completa todavía no sea visible.",
-        "Que tiene razón y debería esperar a tener más capacidades antes de contribuir.",
-        "Que el Señor valora solo las contribuciones que otros pueden ver y agradecer."
+        "Que tiene razón y debería esperar a tener más capacidades antes de contribuir."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "D&C 64:33 ('no os canséis') y D&C 64:34 ('el Señor requiere el corazón y una mente dispuesta') son dos principios complementarios. ¿Cuál es la tensión que resuelven juntos?",
       "options": [
-        "La tensión entre la obediencia externa y la motivación interna — ambas son necesarias.",
-        "La tensión entre el cansancio real que uno siente y la perfección de resultados que imagina que el Señor exige — el mandamiento reconoce el cansancio pero lo que pide es disposición, no perfección.",
         "La tensión entre el trabajo en la Iglesia y el trabajo en el hogar.",
-        "La tensión entre las pequeñas obras y las grandes obras en el reino de Dios."
+        "La tensión entre las pequeñas obras y las grandes obras en el reino de Dios.",
+        "La tensión entre la obediencia externa y la motivación interna — ambas son necesarias.",
+        "La tensión entre el cansancio real que uno siente y la perfección de resultados que imagina que el Señor exige — el mandamiento reconoce el cansancio pero lo que pide es disposición, no perfección."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

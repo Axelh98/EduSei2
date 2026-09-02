@@ -29,7 +29,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 50:24 describe uno de los principios más hermosos del crecimiento espiritual: la luz se acumula. Cada vez que recibes la Palabra de Dios con sinceridad, esa luz aumenta. No hay una experiencia única que lo cambie todo de golpe — hay un proceso de elecciones fieles que van construyendo, una a la vez, hasta el día perfecto. Esta semana, cada momento en que elegís la luz — en el estudio, en la oración, en el servicio — es un paso hacia ese día."
+      "contenido": [
+        "Doctrina y Convenios 50:24 describe uno de los principios más hermosos del crecimiento espiritual: la luz se acumula. Cada vez que recibís la palabra de Dios con sinceridad, esa luz aumenta. No hay una experiencia única que lo cambie todo de golpe; hay un proceso de elecciones fieles que van construyendo, una a la vez, hasta el día perfecto. Mirá tu semana como una sucesión de esos momentos chicos y elegí bien en el primero que aparezca, porque cada uno de ellos suma luz o la resta."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -38,7 +40,8 @@
         "¿Qué diferencia hace en la clase de Seminario que tanto el maestro como los alumnos vengan dispuestos a enseñar y recibir por el Espíritu?",
         "¿Hay algún área de tu vida espiritual donde la luz ha estado creciendo en los últimos meses? ¿Cómo lo notás?",
         "¿Qué podrías hacer esta semana para 'recibir más luz' en tu estudio del evangelio?",
-        "¿Cómo podés contribuir vos a que la clase de Seminario sea una experiencia donde todos son edificados juntos?"
+        "¿Cómo podés contribuir vos a que la clase de Seminario sea una experiencia donde todos son edificados juntos?",
+        "¿Qué vas a hacer distinto en la próxima clase de Seminario para llegar dispuesto a recibir, y no solo a estar presente?"
       ]
     }
   ],
@@ -67,36 +70,36 @@
     },
     {
       "id": 3,
-      "question": "El presidente Eyring enseñó que la luz 'crece una chispa a la vez, una revelación a la vez, una elección fiel a la vez'. ¿Qué implica eso sobre cómo funciona la conversión?",
+      "question": "El élder Bednar comparó la revelación con «el aumento gradual de la luz que irradia el sol naciente», que llega «línea por línea, precepto por precepto». ¿Qué implica esa imagen sobre cómo funciona la conversión?",
       "options": [
-        "Que la conversión es un evento único e instantáneo que no requiere mantenimiento.",
-        "Que la conversión es un proceso acumulativo — no hay un momento mágico único, sino una construcción gradual de elecciones que van añadiendo luz.",
-        "Que solo las personas con dones especiales pueden experimentar una conversión genuina.",
-        "Que la conversión depende principalmente de las emociones intensas en momentos de crisis."
+        "Que la conversión depende sobre todo de emociones intensas en momentos de crisis.",
+        "Que la conversión es un acontecimiento único e instantáneo que después no requiere sostenimiento.",
+        "Que es un proceso acumulativo: la luz aumenta de a poco, por elecciones fieles sostenidas en el tiempo.",
+        "Que solo quienes tienen dones espirituales especiales llegan a convertirse de verdad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Cuál es la diferencia doctrinal entre 'predicar por el Espíritu' y simplemente dar una buena charla bien preparada, según D&C 50?",
       "options": [
-        "No hay diferencia — una buena preparación siempre produce una charla espiritual.",
-        "La charla bien preparada transmite información; la predicación por el Espíritu transmite convicción, edifica al oyente y deja la luz del Señor en él.",
         "Solo los apóstoles pueden predicar verdaderamente por el Espíritu.",
-        "La diferencia es solo de estilo — la charla más informal siempre es más espiritual."
+        "La diferencia es solo de estilo — la charla más informal siempre es más espiritual.",
+        "No hay diferencia — una buena preparación siempre produce una charla espiritual.",
+        "La charla bien preparada transmite información; la predicación por el Espíritu transmite convicción, edifica al oyente y deja la luz del Señor en él."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Camila lleva meses estudiando el evangelio activamente y nota que la fe le resulta cada vez más natural y las dudas le afectan menos. Según D&C 50:24, ¿qué está experimentando?",
       "options": [
-        "Que se está volviendo demasiado confiada en su fe y debería tener más dudas.",
         "El principio de la luz que crece — cada elección de recibir la Palabra añade más luz, y ese proceso acumulativo se manifiesta como mayor firmeza y paz.",
         "Que sus dudas son menos importantes, no que su fe esté creciendo realmente.",
-        "Un fenómeno psicológico de acostumbramiento que no tiene dimensión espiritual."
+        "Un fenómeno psicológico de acostumbramiento que no tiene dimensión espiritual.",
+        "Que se está volviendo demasiado confiada en su fe y debería tener más dudas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -113,12 +116,12 @@
       "id": 7,
       "question": "D&C 50 (parte 1 y 2) enseña tanto sobre el discernimiento espiritual como sobre la enseñanza y recepción por el Espíritu. ¿Cuál es el principio unificador de toda esta sección?",
       "options": [
-        "Que las reuniones de la Iglesia tienen reglas estrictas que deben seguirse o serán inválidas.",
         "Que el Espíritu Santo actúa solo en contextos de asamblea formal, no en la vida personal.",
         "Que solo los líderes con llamamientos formales pueden participar en experiencias espirituales genuinas.",
-        "Que la autenticidad espiritual — en el maestro, en el oyente y en las manifestaciones — depende del Espíritu, y el criterio práctico de esa autenticidad es si edifica o no."
+        "Que la autenticidad espiritual — en el maestro, en el oyente y en las manifestaciones — depende del Espíritu, y el criterio práctico de esa autenticidad es si edifica o no.",
+        "Que las reuniones de la Iglesia tienen reglas estrictas que deben seguirse o serán inválidas."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

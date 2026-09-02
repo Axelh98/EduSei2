@@ -1,61 +1,136 @@
 {
   "id": "el-establecimiento-de-nauvoo",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Los santos llegaron a Illinois en 1839 sin nada, y se establecieron en un terreno pantanoso a orillas del Misisipi que compraron barato porque nadie más lo quería. Lo llamaron Nauvoo. Drenaron los pantanos, y en pocos años levantaron una de las ciudades más grandes del estado.",
+        "El primer verano fue brutal: la malaria se extendió por el campamento y casi todos cayeron enfermos. El 22 de julio de 1839, José Smith recorrió las tiendas bendiciendo a los enfermos. Llegó hasta Elijah Fordham, que estaba agonizando y ya no reconocía a nadie. Le tomó la mano y le preguntó si tenía fe para ser sanado. «Me temo que sea demasiado tarde», respondió. «¿No cree usted que Jesús es el Cristo?». «Sí creo, hermano José». Entonces el Profeta declaró: «¡En el nombre de Jesús de Nazaret te mando que te levantes y sanes!». Fordham se levantó, se vistió, pidió comida y salió con José a ministrar a los demás.",
+        "En Nauvoo también se organizó la Sociedad de Socorro. Cuando un grupo de hermanas le llevó a José los estatutos que habían redactado para una sociedad de costura, él dijo que eran los mejores de su tipo, «pero esto no es lo que ustedes desean […]. Organizaré a las mujeres bajo la dirección del sacerdocio y de acuerdo con el modelo de este»."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 124:15",
+          "texto": "Y además, de cierto te digo, bendito es mi siervo Hyrum Smith, porque yo, el Señor, lo amo a causa de la integridad de su corazón, y porque él ama lo que es justo ante mí, dice el Señor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "Doctrina y Convenios 124:55",
+          "texto": "Además, de cierto os digo, de nuevo os mando construir una casa a mi nombre en este lugar, para que probéis ante mí que sois fieles en todas las cosas que os mando, para que yo os bendiga y os corone con honra, inmortalidad y vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=spa&id=p55#p55"
+        },
+        {
+          "referencia": "Doctrina y Convenios 123:17",
+          "texto": "Por tanto, muy queridos hermanos, hagamos con buen ánimo cuanta cosa esté a nuestro alcance; y entonces podremos permanecer tranquilos, con la más completa seguridad, para ver la salvación de Dios y que se revele su brazo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/123?lang=spa&id=p17#p17"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Henry B. Eyring",
+      "fuente": "«Él va delante de nosotros», Conferencia General, abril de 2020 (Liahona, mayo de 2020, pág. 68)",
+      "texto": "El Señor había inspirado a José y a esos fieles misioneros que fueron a trabajar a lograr una cosecha que debió parecerles, en aquel entonces, más allá de su capacidad. Sin embargo, el Señor, con Su perfecta previsión y preparación, lo hizo posible.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/35eyring?lang=spa&id=p27#p27"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Los santos llegaron a un pantano sin dinero, enfermos de malaria, después de que un estado entero los expulsara. Cinco años más tarde tenían una ciudad y un templo. No fue porque las condiciones mejoraran: fue porque hicieron con buen ánimo lo que estaba a su alcance, un día a la vez. Si estás en una situación que parece imposible de remontar, no busques la solución completa. Buscá lo único que sí podés hacer hoy y hacelo."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Los santos compraron un pantano porque era lo único que podían pagar. ¿Qué te dice ese punto de partida?",
+        "En el relato de Elijah Fordham, José le pregunta primero si cree que Jesús es el Cristo. ¿Por qué te parece que empezó por ahí?",
+        "José les dijo a las hermanas que el Señor «tiene para ellas algo mejor» que lo que habían planeado. ¿Alguna vez te pasó algo así?",
+        "El presidente Eyring habla de una cosecha que parecía «más allá de su capacidad». ¿Qué te parece hoy más allá de la tuya?",
+        "¿Qué es lo único que sí podés hacer hoy respecto de esa situación?",
+        "Hacelo esta semana. ¿Qué día y a qué hora?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué mandato principal da el Señor a los santos en DyC 124?",
+      "question": "¿Por qué los santos pudieron comprar el terreno donde fundaron Nauvoo?",
       "options": [
-        "Edificar una casa al nombre del Señor en Nauvoo",
-        "Abandonar la región inmediatamente",
-        "Predicar solo a los judíos",
-        "Suspender las ordenanzas"
+        "Porque un miembro adinerado lo adquirió para la Iglesia.",
+        "Porque lo obtuvieron a cambio de las propiedades perdidas en Misuri.",
+        "Porque el gobierno de Illinois se los cedió como compensación.",
+        "Porque era un terreno pantanoso que nadie más quería y estaba barato."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Por qué era tan importante la construcción del templo según DyC 124?",
+      "question": "En el relato de la sanación de Elijah Fordham, ¿qué le preguntó José Smith después de que Fordham dijera que temía que fuera demasiado tarde?",
       "options": [
-        "Para restaurar ordenanzas que no podían administrarse sin él",
-        "Solo como símbolo de fe",
-        "Para reuniones sociales",
-        "Para protección física"
+        "Si creía que Jesús es el Cristo.",
+        "Si su familia estaba presente para acompañarlo.",
+        "Si deseaba que se llamara a un médico.",
+        "Si había recibido las ordenanzas del templo."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué promesa hace el Señor si los santos edifican el templo?",
+      "question": "Cuando las hermanas llevaron a José Smith los estatutos de su sociedad de costura, ¿qué respondió?",
       "options": [
-        "Se manifestará a Su pueblo en Su casa",
-        "Evitarán toda oposición",
-        "No enfrentarán sacrificios",
-        "Recibirán prosperidad inmediata"
+        "Que convenía ampliar la sociedad a más ciudades antes de organizarla.",
+        "Que eran los mejores de su tipo, pero que el Señor tenía algo mejor para ellas.",
+        "Que debían presentarlos ante el obispo para su aprobación.",
+        "Que la organización debía esperar a que el templo estuviera terminado."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué enseñanza da DyC 124 sobre la obediencia colectiva?",
+      "question": "Según Doctrina y Convenios 124:15, ¿por qué es bendito Hyrum Smith?",
       "options": [
-        "Las bendiciones dependen de la obediencia del pueblo como cuerpo",
-        "La obediencia es solo individual",
-        "El templo no requiere sacrificio",
-        "La obra avanza sin esfuerzo"
+        "Por haber sostenido a la Iglesia con sus bienes.",
+        "Por su lealtad hacia su hermano José durante la persecución.",
+        "Porque el Señor lo ama a causa de la integridad de su corazón y porque ama lo que es justo.",
+        "Por su servicio como Patriarca de la Iglesia."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "El presidente Eyring señaló que el Señor inspiró a lograr «una cosecha que debió parecerles, en aquel entonces, más allá de su capacidad». ¿Qué principio ilustra esa observación?",
+      "options": [
+        "Que las metas deben ajustarse a la capacidad real de quienes las asumen.",
+        "Que el éxito de la obra misional depende del número de misioneros.",
+        "Que las dificultades se superan con esfuerzo suficiente.",
+        "Que el Señor prepara de antemano lo que las personas todavía no ven posible."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Ana está en una situación familiar que no ve cómo mejorar y siente que cualquier cosa que haga es insuficiente. Según lo que muestra el establecimiento de Nauvoo y Doctrina y Convenios 123:17, ¿qué le conviene hacer?",
+      "options": [
+        "Hacer con buen ánimo lo único que sí está a su alcance hoy, sin pretender resolverlo todo.",
+        "Buscar ayuda profesional antes de intentar cualquier cosa por su cuenta.",
+        "Aceptar que algunas situaciones no admiten mejora.",
+        "Esperar a que las circunstancias cambien antes de intentar algo."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué principio eterno se destaca en DyC 124 respecto a los templos?",
+      "id": 7,
+      "question": "Los santos llegaron a un pantano y construyeron una ciudad, y Doctrina y Convenios 124:55 pide edificar una casa al Señor «para que probéis ante mí que sois fieles». ¿Qué principio común forman esos dos hechos?",
       "options": [
-        "El Señor revela y restaura ordenanzas mediante Sus templos",
-        "Los templos son opcionales",
-        "Las ordenanzas pueden cambiarse",
-        "El templo es solo simbólico"
+        "Que las pruebas de fidelidad se reservan a los momentos de crisis.",
+        "Que la fidelidad se demuestra construyendo con lo que hay, y no esperando condiciones mejores.",
+        "Que el Señor recompensa el esfuerzo con circunstancias más favorables.",
+        "Que la construcción del templo era la única prueba de fidelidad aceptable."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

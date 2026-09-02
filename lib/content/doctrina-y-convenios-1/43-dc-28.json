@@ -25,6 +25,13 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder Dale G. Renlund",
+      "fuente": "\"El marco de la revelación personal\", Conferencia General, octubre de 2022 (Liahona, noviembre de 2022, pág. 16)",
+      "texto": "De manera similar, recibimos la revelación personal dentro de un marco específico. Cuando nos ajustamos a dicho marco, el Espíritu Santo puede derramar conocimiento, dirección y consuelo sorprendentes. Fuera de ese marco, sin importar nuestra genialidad o talento, podemos ser engañados y estrellarnos e incendiarnos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/14renlund?lang=spa&id=p3#p3"
+    },
+    {
       "tipo": "conclusion",
       "contenido": "D&C 28 establece un principio protector esencial: la revelación para toda la Iglesia viene a través del profeta. Esto no impide la revelación personal; la protege. El caso de Hiram Page nos recuerda que la sinceridad no garantiza la veracidad. El orden establecido por el Señor es una expresión de Su cuidado por Su pueblo, no una restricción de la comunicación divina. Cuando participamos de ese orden, elegimos la protección que Dios ofrece."
     },
@@ -35,7 +42,8 @@
         "¿Por qué la sinceridad de Hiram Page no era suficiente para validar las revelaciones que afirmaba recibir?",
         "¿Cómo podés distinguir entre la revelación personal para tu vida y lo que sería revelación para la Iglesia?",
         "¿Cómo te protege saber que la revelación para la Iglesia viene a través del profeta?",
-        "¿Hubo alguna vez que alguien te dijo algo que parecía espiritual pero que iba en contra de las enseñanzas de la Iglesia? ¿Cómo lo discerniste?"
+        "¿Hubo alguna vez que alguien te dijo algo que parecía espiritual pero que iba en contra de las enseñanzas de la Iglesia? ¿Cómo lo discerniste?",
+        "Si mañana alguien de tu edad te dice que recibió una revelación para tu clase o tu quórum, ¿qué le vas a preguntar y a quién vas a consultar?"
       ]
     }
   ],
@@ -44,12 +52,12 @@
       "id": 1,
       "question": "Hiram Page era un miembro fiel con buenas intenciones que afirmaba recibir revelaciones para toda la Iglesia. ¿Por qué eso era un problema aunque fuera sincero?",
       "options": [
-        "Porque las revelaciones nunca pueden venir a través de objetos físicos",
         "Porque la sinceridad no garantiza la veracidad, y la Iglesia necesita un canal ordenado de revelación",
         "Porque Hiram no tenía el nivel educativo necesario para recibir revelaciones",
-        "Porque Oliver Cowdery era más digno que él en ese momento"
+        "Porque Oliver Cowdery era más digno que él en ese momento",
+        "Porque las revelaciones nunca pueden venir a través de objetos físicos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -66,34 +74,34 @@
       "id": 3,
       "question": "¿Alguna vez viste o escuchaste a alguien que afirmaba tener revelaciones especiales para un grupo, familia o comunidad fuera de la estructura de la Iglesia? ¿Qué señales te dieron desconfianza?",
       "options": [
+        "Que usaba un lenguaje espiritual poco común o poco familiar",
         "Que la persona hablaba demasiado fuerte o con mucha emoción",
         "Que el mensaje iba en contra de las enseñanzas del profeta o pedía seguirlo a él en lugar de a los líderes establecidos",
-        "Que no era miembro de la Iglesia o no tenía un cargo formal",
-        "Que usaba un lenguaje espiritual poco común o poco familiar"
+        "Que no era miembro de la Iglesia o no tenía un cargo formal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Cómo distinguís entre la revelación personal para tu vida y lo que sería revelación para toda la Iglesia o para otros?",
       "options": [
-        "La revelación personal se siente más fuerte que la revelación para otros",
-        "La revelación personal me guía en mi vida, mis decisiones y mi llamamiento; no incluye instrucciones para otros fuera de mi responsabilidad",
         "Solo los líderes con cargos pueden discernir entre los dos tipos",
-        "No hay diferencia práctica entre los dos tipos de revelación"
+        "No hay diferencia práctica entre los dos tipos de revelación",
+        "La revelación personal se siente más fuerte que la revelación para otros",
+        "La revelación personal me guía en mi vida, mis decisiones y mi llamamiento; no incluye instrucciones para otros fuera de mi responsabilidad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "¿Cómo podés participar más activamente en el 'común acuerdo' en tu barrio o rama — más allá de levantar la mano mecánicamente en las reuniones?",
       "options": [
-        "Votando en contra de los llamamientos cuando no estás de acuerdo con el líder elegido",
         "Orando por los líderes antes de la reunión y llegando informado para dar un voto con convicción",
         "No participando si no conocés bien a la persona que se llama",
-        "Pidiéndole al obispo que te explique cada decisión antes de votar"
+        "Pidiéndole al obispo que te explique cada decisión antes de votar",
+        "Votando en contra de los llamamientos cuando no estás de acuerdo con el líder elegido"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -105,6 +113,17 @@
         "'¿Cuántas personas ya lo creen y lo siguen?'"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 28:2 establece que solo el profeta recibe mandamientos y revelaciones para toda la Iglesia, y el élder Renlund comparó la revelación personal con volar dentro de un marco establecido. ¿Qué principio común enseñan?",
+      "options": [
+        "Que las revelaciones deben confirmarse siempre con un líder antes de actuar.",
+        "Que la revelación personal es menos confiable que la que recibe el profeta.",
+        "Que la revelación auténtica opera dentro de límites establecidos, y fuera de ellos la sinceridad no basta para validarla.",
+        "Que solo quienes tienen autoridad pueden recibir respuestas de Dios."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

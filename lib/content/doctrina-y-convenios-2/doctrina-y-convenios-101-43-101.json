@@ -1,61 +1,143 @@
 {
   "id": "doctrina-y-convenios-101-43-101",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "La segunda parte de la sección 101 es una parábola. Un noble planta doce olivos en un terreno escogido y manda a sus siervos construir una torre para vigilar la viña. Los siervos discuten entre ellos, se vuelven perezosos y no construyen la torre. Cuando llega el enemigo, no hay nadie mirando, y la viña es destruida.",
+        "La parábola explicaba a los santos por qué habían perdido el condado de Jackson: no fue solo la violencia del populacho, fue también que no habían hecho lo que se les mandó cuando había tiempo. El élder David A. Bednar señaló algo importante sobre cómo funcionan las parábolas: el significado no se declara de forma explícita, y cada persona recibe la verdad «en proporción a su fe en Dios, su preparación espiritual personal y su voluntad de aprender».",
+        "Y ahí está la parte incómoda de esta parábola en particular. La torre no era un lujo ni una tarea urgente el día que se mandó construirla; era una defensa para un ataque que todavía no había llegado. Lo que los siervos hicieron mal fue postergar algo que no parecía apremiante, hasta que fue tarde. Es exactamente lo que pasa con los hábitos espirituales."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 101:43–44",
+          "texto": "Y ahora os manifestaré una parábola para que sepáis mi voluntad en cuanto a la redención de Sion. Cierto noble tenía un terreno muy escogido; y dijo a sus siervos: Id a mi viña, sí, a ese terreno tan escogido, y plantad doce olivos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=spa&id=p43-p44#p43"
+        },
+        {
+          "referencia": "Doctrina y Convenios 101:50",
+          "texto": "Y mientras discordaban entre sí, se volvieron muy perezosos y no hicieron caso de los mandamientos de su señor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=spa&id=p50#p50"
+        },
+        {
+          "referencia": "Doctrina y Convenios 101:16",
+          "texto": "Consuélense, pues, vuestros corazones en lo concerniente a Sion, porque toda carne está en mis manos; quedaos tranquilos y sabed que yo soy Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=spa&id=p16#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Vístete de tu poder, oh Sion», Conferencia General, octubre de 2022 (Liahona, noviembre de 2022, pág. 92)",
+      "texto": "El significado o mensaje de la parábola generalmente no se expresa de manera explícita. En lugar de ello, la historia solamente transmite la verdad divina a sus receptores en proporción a su fe en Dios, su preparación espiritual personal y su voluntad de aprender.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/46bednar?lang=spa&id=p2#p2"
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Hermana Jean B. Bingham",
+      "fuente": "«Los convenios con Dios nos fortalecen, nos protegen y nos preparan para la gloria eterna», Conferencia General, abril de 2022 (Liahona, mayo de 2022, pág. 67)",
+      "texto": "He tenido la seguridad continua de que guardar los convenios que hacemos con Dios nos permite recurrir al poder del Salvador, lo que nos fortalece en nuestras inevitables pruebas, nos proporciona protección contra la influencia del adversario y nos prepara para la gloria eterna.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/35bingham?lang=spa&id=p5#p5"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Los siervos de la parábola no destruyeron la viña: simplemente no construyeron la torre cuando había tiempo y nada parecía urgente. Esa es la forma habitual en que se pierden las cosas importantes, y no tiene nada de dramática. Mirá qué torre estás dejando de construir —el estudio diario, la oración, una conversación pendiente— y poné el primer ladrillo esta semana, mientras todavía no hace falta."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "En la parábola, ¿qué fue exactamente lo que hicieron mal los siervos?",
+        "La torre servía para vigilar antes del ataque. ¿Qué «torres» tenés vos que no parecen urgentes hoy?",
+        "El élder Bednar dice que cada persona recibe de una parábola «en proporción a su voluntad de aprender». ¿Qué te dice a vos esta parábola?",
+        "Los siervos discutieron entre ellos y se volvieron perezosos. ¿Qué relación ves entre las dos cosas?",
+        "La hermana Bingham habla de protección «contra la influencia del adversario» por guardar los convenios. ¿En qué se parece eso a la torre?",
+        "¿Qué torre vas a empezar a construir esta semana? Nombrala y decí cuál es el primer ladrillo."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué representa el noble en la parábola de DyC 101:43–62?",
+      "question": "En la parábola de Doctrina y Convenios 101, ¿qué mandó el noble a sus siervos además de plantar los olivos?",
       "options": [
-        "Jesucristo",
-        "Los líderes políticos",
-        "Los siervos",
-        "El pueblo de Israel"
+        "Cavar un pozo para regar los árboles.",
+        "Repartirse la viña en partes iguales.",
+        "Cercar el terreno con un muro de piedra.",
+        "Construir una torre para vigilar la viña."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué podrían simbolizar la viña y la torre en DyC 101:43–62?",
+      "question": "Según Doctrina y Convenios 101:50, ¿qué ocurrió mientras los siervos discordaban entre sí?",
       "options": [
-        "La Iglesia y la preparación espiritual",
-        "Un campo literal",
-        "Una ciudad antigua",
-        "Un castillo medieval"
+        "Se volvieron muy perezosos y no hicieron caso de los mandamientos de su señor.",
+        "Abandonaron la viña y regresaron a sus casas.",
+        "Construyeron la torre pero en el lugar equivocado.",
+        "Pidieron al señor instrucciones más detalladas."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué enseñan las acciones de los siervos en DyC 101:46–50?",
+      "question": "¿Qué explicaba esta parábola a los santos que habían sido expulsados del condado de Jackson?",
       "options": [
-        "Que descuidaron la obra y no construyeron la torre",
-        "Que fueron fieles",
-        "Que obedecieron al noble",
-        "Que defendieron la viña"
+        "Que la persecución había sido enteramente responsabilidad de sus enemigos.",
+        "Que la pérdida se relacionaba también con no haber hecho lo mandado cuando había tiempo.",
+        "Que debían abandonar definitivamente el proyecto de Sion.",
+        "Que el Señor había retirado Su protección de manera permanente."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué enseña la reacción del noble en DyC 101:52–54?",
+      "question": "El élder Bednar enseñó que una parábola transmite la verdad «en proporción a su fe en Dios, su preparación espiritual personal y su voluntad de aprender». ¿Qué implica eso sobre la forma de enseñar del Salvador?",
       "options": [
-        "Que se enojó por la desobediencia",
-        "Que ignoró a los siervos",
-        "Que los recompensó",
-        "Que no intervino"
+        "Que su significado se fija de antemano y admite una sola lectura.",
+        "Que reserva las verdades más profundas para quienes tienen un llamamiento.",
+        "Que la comprensión depende de la disposición del que escucha, y no solo de la claridad del mensaje.",
+        "Que las parábolas fueron pensadas para ocultar la doctrina a la mayoría."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Camila sabe que debería retomar su estudio personal, pero como «ahora está todo tranquilo» lo posterga para cuando lo necesite. Según la parábola de los siervos y la torre, ¿qué está pasando por alto?",
+      "options": [
+        "Que el estudio personal es menos importante que otros hábitos espirituales.",
+        "Que conviene esperar a tener una motivación clara para retomarlo.",
+        "Que el Señor avisa antes de que lleguen las dificultades.",
+        "Que la torre se construye antes del ataque, no durante."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Joaquín observa que en su clase se discute mucho y se hace poco. Según Doctrina y Convenios 101:50, ¿qué riesgo señala ese patrón?",
+      "options": [
+        "Que la discordia y la pereza aparecen juntas, y terminan en desobediencia a lo mandado.",
+        "Que las discusiones son necesarias para llegar a buenas decisiones.",
+        "Que la falta de acuerdo indica que las instrucciones no eran claras.",
+        "Que el problema se resuelve cuando alguien asume el liderazgo."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué enseñan DyC 101:63–67 sobre el trigo y la cizaña?",
+      "id": 7,
+      "question": "La parábola muestra una torre que debía construirse antes del peligro, y la hermana Bingham enseña que guardar los convenios da protección contra el adversario. ¿Qué principio común forman las dos ideas?",
       "options": [
-        "El trigo representa a los justos y la cizaña a los inicuos",
-        "Ambos son iguales",
-        "No tienen significado",
-        "Son solo metáforas agrícolas"
+        "Que quienes guardan los convenios no enfrentan pruebas.",
+        "Que la protección espiritual se construye de antemano, cuando todavía no hace falta.",
+        "Que la protección divina llega en el momento exacto en que se la necesita.",
+        "Que los convenios sustituyen la necesidad de hábitos espirituales diarios."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

@@ -1,61 +1,136 @@
 {
   "id": "la-expulsi-n-de-misuri",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "El 27 de octubre de 1838, el gobernador Lilburn W. Boggs firmó una orden que decía que los mormones debían ser tratados como enemigos y «exterminados o expulsados del estado». Tres días después, un grupo armado atacó el asentamiento de Hawn's Mill y asesinó a diecisiete personas, entre ellas un niño de diez años.",
+        "Durante el invierno, unos ocho mil santos cruzaron el estado hacia Illinois. Muchos iban a pie, con lo puesto. José Smith estaba preso en la cárcel de Liberty y no pudo ayudarlos; fue Brigham Young quien organizó la evacuación y logró que casi ninguno quedara atrás.",
+        "Del otro lado del río, los habitantes de Quincy, Illinois, hicieron algo notable: aprobaron una resolución pública pidiendo a sus vecinos que trataran a los recién llegados «con toda la amabilidad que sean capaces de otorgar» y que evitaran cualquier comentario que pudiera herirlos. Gente que no compartía su religión les abrió las casas. En medio del peor episodio de persecución de la historia de la Iglesia, esa fue la respuesta que recibieron de desconocidos."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 121:7–8",
+          "texto": "Hijo mío, paz a tu alma; tu adversidad y tus aflicciones no serán más que por un breve momento; y entonces, si lo sobrellevas bien, Dios te exaltará; triunfarás sobre todos tus enemigos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=spa&id=p7-p8#p7"
+        },
+        {
+          "referencia": "Doctrina y Convenios 122:7",
+          "texto": "Si eres echado en el foso o en manos de homicidas, y eres condenado a muerte; si eres arrojado al abismo; si las bravas olas conspiran contra ti; si el viento huracanado se hace tu enemigo; si los cielos se ennegrecen y todos los elementos se combinan para obstruir la vía; y sobre todo, si las puertas mismas del infierno se abren de par en par para tragarte, entiende, hijo mío, que todas estas cosas te servirán de experiencia, y serán para tu bien.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/122?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "Doctrina y Convenios 123:17",
+          "texto": "Por tanto, muy queridos hermanos, hagamos con buen ánimo cuanta cosa esté a nuestro alcance; y entonces podremos permanecer tranquilos, con la más completa seguridad, para ver la salvación de Dios y que se revele su brazo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/123?lang=spa&id=p17#p17"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Henry B. Eyring",
+      "fuente": "«Firmes en las tormentas», Conferencia General, abril de 2022 (Liahona, mayo de 2022, pág. 29)",
+      "texto": "Cuando las tormentas de la vida lleguen, ustedes pueden permanecer firmes porque se encuentran sobre la roca de su fe en Jesucristo. Esa fe los conducirá al arrepentimiento diario y a guardar los convenios constantemente.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/18eyring?lang=spa&id=p22#p22"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Los santos perdieron sus casas dos veces en cinco años y cruzaron un estado en pleno invierno. Y del otro lado del río, gente que no creía lo que ellos creían les abrió la puerta. Las dos cosas son parte del mismo relato: la crueldad y la bondad estuvieron igual de cerca. Doctrina y Convenios 123:17 dice qué hacer mientras tanto: «hagamos con buen ánimo cuanta cosa esté a nuestro alcance». Buscá esta semana a alguien que esté pasándola mal y hacé la parte que sí está a tu alcance."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te genera saber que existió una orden oficial de exterminio contra un grupo religioso?",
+        "Los habitantes de Quincy no compartían la fe de los santos y los recibieron igual. ¿Qué te dice eso?",
+        "Doctrina y Convenios 122:7 dice que todas esas cosas «te servirán de experiencia». ¿Cómo se recibe una frase así en medio del sufrimiento?",
+        "El presidente Eyring habla de permanecer firmes «sobre la roca de su fe». ¿Qué es esa roca en tu caso concreto?",
+        "¿Conocés a alguien que esté pasándola mal ahora mismo?",
+        "«Hagamos con buen ánimo cuanta cosa esté a nuestro alcance». ¿Qué está a tu alcance con esa persona esta semana?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué llamamiento importante se extiende en DyC 118?",
+      "question": "¿Qué ordenó el gobernador Lilburn W. Boggs el 27 de octubre de 1838?",
       "options": [
-        "El llamado de los Doce Apóstoles",
-        "La organización de la Sociedad de Socorro",
-        "La llamada de setentas",
-        "La dedicación de un templo"
+        "Que se prohibiera la práctica pública de su religión en Misuri.",
+        "Que José Smith y otros líderes fueran arrestados.",
+        "Que los santos entregaran sus armas a las autoridades del estado.",
+        "Que los mormones fueran tratados como enemigos y exterminados o expulsados del estado."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué requisito espiritual se enfatiza para los que serían llamados como apóstoles?",
+      "question": "¿Quién organizó la evacuación de unos ocho mil santos hacia Illinois durante el invierno de 1838–1839?",
       "options": [
-        "Humildad y disposición a servir",
-        "Riqueza y educación",
-        "Influencia política",
-        "Experiencia militar"
+        "Brigham Young, mientras José Smith estaba preso en la cárcel de Liberty.",
+        "José Smith, desde la cárcel de Liberty, por medio de cartas.",
+        "Sidney Rigdon, como consejero de la Primera Presidencia.",
+        "El Obispado Presidente de la Iglesia."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué acontecimiento se describe en DyC 119?",
+      "question": "¿Qué hicieron los habitantes de Quincy, Illinois, al llegar los santos expulsados?",
       "options": [
-        "La revelación de la ley del diezmo",
-        "La ley de consagración",
-        "La organización del sacerdocio",
-        "La dedicación de Sion"
+        "Les exigieron garantías antes de permitirles establecerse.",
+        "Aprobaron una resolución pública pidiendo que los trataran con amabilidad y sin herir sus sentimientos.",
+        "Los enviaron a un asentamiento apartado de la ciudad.",
+        "Les ofrecieron trabajo a cambio de que renunciaran a predicar."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué principio enseña DyC 120 respecto al uso de los fondos sagrados?",
+      "question": "Doctrina y Convenios 122:7 enumera situaciones extremas y concluye que «todas estas cosas te servirán de experiencia, y serán para tu bien». ¿Qué agrega el versículo 8 a esa promesa?",
       "options": [
-        "Deben administrarse por consejo y autoridad",
-        "Pueden usarse libremente",
-        "No requieren supervisión",
-        "Son responsabilidad individual"
+        "Que quienes las sufren recibirán una recompensa material.",
+        "Que la experiencia se transmite a las generaciones siguientes.",
+        "Que el Hijo del Hombre ha descendido debajo de todo ello.",
+        "Que las aflicciones terminarán en un plazo determinado."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "El presidente Eyring enseñó que se puede permanecer firme «porque se encuentran sobre la roca de su fe en Jesucristo», y que esa fe conduce al arrepentimiento diario y a guardar los convenios. ¿Qué relación establece?",
+      "options": [
+        "Que la fe elimina las tormentas de la vida.",
+        "Que el arrepentimiento diario reemplaza la necesidad de convenios.",
+        "Que quienes tienen fe suficiente no sienten el impacto de las pruebas.",
+        "Que la firmeza no es una cualidad del carácter, sino el resultado de prácticas concretas sostenidas."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Nicolás se entera de que un compañero está atravesando una situación familiar difícil y no hace nada porque cree que no puede resolverle el problema. Según Doctrina y Convenios 123:17, ¿qué le falta considerar?",
+      "options": [
+        "Que el mandato es hacer con buen ánimo lo que esté a nuestro alcance, no resolverlo todo.",
+        "Que conviene esperar a que su compañero pida ayuda de manera explícita.",
+        "Que estos asuntos corresponden a los líderes de la Iglesia.",
+        "Que ofrecer ayuda sin poder resolver el problema puede resultar ofensivo."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué enseñanza general transmiten DyC 118–120?",
+      "id": 7,
+      "question": "Doctrina y Convenios 122:7 promete que las aflicciones darán experiencia, y 123:17 manda hacer con buen ánimo lo que esté al alcance. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "El Señor organiza Su Iglesia con orden, llamamientos y leyes sagradas",
-        "La Iglesia avanza sin estructura",
-        "Las leyes temporales no importan",
-        "La autoridad no es necesaria"
+        "Que la experiencia adquirida compensa por completo el dolor sufrido.",
+        "Que ante lo que no se puede controlar queda igual algo por hacer, y eso es lo que se pide.",
+        "Que las aflicciones cesan cuando la persona actúa con buen ánimo.",
+        "Que el sufrimiento debe aceptarse sin intentar modificar las circunstancias."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

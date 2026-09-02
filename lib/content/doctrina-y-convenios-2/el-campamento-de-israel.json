@@ -1,61 +1,136 @@
 {
   "id": "el-campamento-de-israel",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En mayo de 1834, poco más de doscientos hombres salieron de Kirtland hacia Misuri. Caminaron cerca de mil quinientos kilómetros en pleno verano, entre cuarenta y sesenta kilómetros por día. José Smith caminó casi todo el trayecto a pie, con los pies llenos de ampollas y sangrando, y según los registros nunca se quejó, mientras que la mayoría del grupo iba a él a quejarse del pan, de la mantequilla rancia y del calor.",
+        "Uno de los participantes, Nathan Baldwin, escribió que en las praderas sufrían tanta sed que bebían el rocío del pasto pasando un plato por la hierba, y que en los pantanos aprendió a «colar gusanos con los dientes». Heber C. Kimball dejó otro registro: «no tuvimos temor ni vacilamos en seguir la marcha porque Dios estaba con nosotros».",
+        "El Campamento de Israel nunca peleó. Llegaron, y el Señor les dijo que volvieran. Vistos desde afuera, caminaron mil quinientos kilómetros para nada. Pero de ese grupo salieron después nueve de los doce primeros apóstoles de esta dispensación, y todos los miembros del primer Cuórum de los Setenta. Lo que parecía una expedición fracasada fue en realidad el proceso donde se formaron los líderes de la Iglesia."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 105:19",
+          "texto": "He oído sus oraciones y aceptaré su ofrenda; y me es menester traerlos hasta este punto para poner a prueba su fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/105?lang=spa&id=p19#p19"
+        },
+        {
+          "referencia": "Doctrina y Convenios 103:27",
+          "texto": "Ningún hombre tema dar su vida por mi causa; porque quien dé su vida por mi causa, la hallará de nuevo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/103?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "Doctrina y Convenios 103:36",
+          "texto": "Toda victoria y toda gloria os es realizada mediante vuestra diligencia, fidelidad y oraciones de fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/103?lang=spa&id=p36#p36"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Jeffrey R. Holland",
+      "fuente": "«Esperar en el Señor», Conferencia General, octubre de 2020 (Liahona, noviembre de 2020, pág. 117)",
+      "texto": "Mis queridos hermanos y hermanas, el cristianismo es reconfortante, pero a menudo no es cómodo. La senda a la santidad y a la felicidad aquí y en el más allá es larga y, a veces, escabrosa. Para recorrerla, se requiere tiempo y persistencia.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/57holland?lang=spa&id=p11#p11"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Los del Campamento de Israel volvieron a casa sin haber hecho lo que fueron a hacer, y en el camino se convirtieron en los hombres que después dirigirían la Iglesia. El versículo 19 lo explica: el Señor necesitaba traerlos hasta ese punto para probar su fe. Cuando algo que hiciste con esfuerzo parezca no haber servido para nada, la pregunta útil no es qué lograste, sino en quién te convertiste haciéndolo. Anotá esta semana una cosa que aprendiste de algo que salió mal."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "José Smith caminó todo el trayecto con los pies sangrando y no se quejó, mientras la mayoría se quejaba del pan y del calor. ¿Qué te dice ese contraste?",
+        "Doctrina y Convenios 105:19 dice que el Señor los llevó hasta ahí «para poner a prueba su fe». ¿Qué se prueba exactamente en una marcha así?",
+        "El Campamento nunca peleó y volvió sin cumplir su objetivo. ¿Por qué te parece que valió la pena igual?",
+        "El élder Holland dice que el cristianismo «es reconfortante, pero a menudo no es cómodo». ¿En qué notás vos esa diferencia?",
+        "¿Hiciste alguna vez algo con mucho esfuerzo que pareció no servir para nada? ¿Qué te quedó de eso?",
+        "¿Qué aprendiste de algo que te salió mal este año? Escribilo, aunque todavía duela."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué dificultades enfrentaron los miembros del Campamento de Israel durante su viaje?",
+      "question": "¿Qué distancia aproximada recorrió el Campamento de Israel desde Kirtland hasta Misuri?",
       "options": [
-        "Ampollas y pies doloridos, escasez de provisiones",
-        "Viaje cómodo y sin problemas",
-        "Abundancia de alimentos y descanso",
-        "Ninguna dificultad"
+        "Cerca de mil quinientos kilómetros.",
+        "Alrededor de tres mil kilómetros.",
+        "Unos doscientos kilómetros.",
+        "Unos quinientos kilómetros."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Cómo reaccionó el profeta José Smith ante las dificultades del viaje?",
+      "question": "Según Doctrina y Convenios 105:19, ¿con qué propósito llevó el Señor a los miembros del Campamento hasta ese punto?",
       "options": [
-        "Con paciencia y sin quejas",
-        "Con murmuraciones",
-        "Abandonando el campamento",
-        "Ignorando a los demás"
+        "Para que reclamaran las tierras perdidas en el condado de Jackson.",
+        "Para poner a prueba su fe, después de haber oído sus oraciones y aceptado su ofrenda.",
+        "Para que aprendieran a organizarse militarmente.",
+        "Para que conocieran las condiciones de vida en Misuri."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué experiencia relató Nathan Baldwin sobre la falta de agua?",
+      "question": "¿Qué salió del grupo del Campamento de Israel, años después de aquella marcha?",
       "options": [
-        "Beber rocío recogido del césped",
-        "Encontrar ríos abundantes",
-        "Recibir agua milagrosamente",
-        "No sufrir sed"
+        "La decisión de trasladar la Iglesia hacia el oeste.",
+        "La organización de las primeras estacas de la Iglesia.",
+        "Nueve de los doce primeros apóstoles de esta dispensación y todo el primer Cuórum de los Setenta.",
+        "El proyecto de construir el templo de Kirtland."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué declaró Heber C. Kimball sobre la protección divina en el campamento?",
+      "question": "El élder Holland enseñó que «el cristianismo es reconfortante, pero a menudo no es cómodo». ¿Qué distinción establece esa frase?",
       "options": [
-        "Que los ángeles iban delante de ellos",
-        "Que estaban solos",
-        "Que no recibieron ayuda",
-        "Que no tuvieron fe"
+        "Entre los miembros que enfrentan pruebas y los que no.",
+        "Entre las enseñanzas antiguas y las actuales de la Iglesia.",
+        "Entre la fe personal y la práctica religiosa comunitaria.",
+        "Entre el consuelo que da el evangelio y la facilidad que no promete."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Agustina se esforzó todo el año en un proyecto de servicio que finalmente no se concretó, y siente que perdió el tiempo. Según lo que muestra el Campamento de Israel, ¿qué pregunta le sirve más?",
+      "options": [
+        "En quién se convirtió mientras lo hacía, más allá del resultado.",
+        "Si el proyecto estaba bien planificado desde el comienzo.",
+        "Si otras personas valoraron su esfuerzo.",
+        "Qué resultado concreto obtuvo al final del proceso."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué verdad enseña la experiencia del Campamento de Israel sobre seguir a Cristo?",
+      "id": 6,
+      "question": "Los registros muestran a José Smith caminando con los pies ampollados sin quejarse, mientras la mayoría se quejaba de las comodidades. ¿Qué principio ilustra ese contraste?",
       "options": [
-        "Que Dios ayuda en las dificultades",
-        "Que nunca habrá pruebas",
-        "Que el camino siempre es fácil",
-        "Que no hay bendiciones"
+        "Que las dificultades del viaje fueron menores de lo que se recuerda.",
+        "Que el liderazgo se ejerce sobre todo con el ejemplo en las condiciones difíciles.",
+        "Que las quejas de los demás eran injustificadas dado el clima.",
+        "Que el Profeta poseía una resistencia física superior."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 105:19 dice que la prueba era necesaria, y el élder Holland enseña que la senda «es larga y, a veces, escabrosa» y requiere persistencia. ¿Qué principio común forman las dos ideas?",
+      "options": [
+        "Que el Señor prueba únicamente a quienes tienen responsabilidades de liderazgo.",
+        "Que el objetivo de una prueba es siempre visible mientras se la atraviesa.",
+        "Que la dificultad del camino no es una desviación del plan: es parte de cómo se forma la persona.",
+        "Que las pruebas se acortan para quienes muestran mayor fe."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-115",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En abril de 1838, en Far West, Misuri, donde miles de santos se habían reunido después de escapar de la persecución del condado de Jackson, el Señor declaró algo que hasta entonces no estaba fijado: «así se llamará mi iglesia en los postreros días, a saber, La Iglesia de Jesucristo de los Santos de los Últimos Días» (versículo 4).",
+        "El nombre no es una etiqueta administrativa. Contiene dos cosas: de quién es la Iglesia —de Jesucristo, no de José Smith ni de sus miembros— y quiénes la componen: santos de los últimos días, es decir, discípulos que viven en esta dispensación. Por eso el presidente Russell M. Nelson insistió tanto en usarlo completo: quitarle el nombre del Salvador a Su Iglesia le quita, precisamente, lo que la define.",
+        "El versículo 5 agrega la instrucción que sigue al nombre: «Levantaos y brillad, para que vuestra luz sea un estandarte a las naciones». Un estandarte es algo que se ve desde lejos y que sirve de punto de reunión. No alcanza con llevar el nombre correcto; hay que ser algo que otros puedan ver y hacia lo cual puedan venir."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 115:4",
+          "texto": "Porque así se llamará mi iglesia en los postreros días, a saber, La Iglesia de Jesucristo de los Santos de los Últimos Días.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=spa&id=p4#p4"
+        },
+        {
+          "referencia": "Doctrina y Convenios 115:5",
+          "texto": "De cierto os digo a todos: Levantaos y brillad, para que vuestra luz sea un estandarte a las naciones.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Doctrina y Convenios 115:6",
+          "texto": "A fin de que el recogimiento en la tierra de Sion y sus estacas sea para defensa y para refugio contra la tempestad y contra la ira, cuando sea derramada sin mezcla sobre toda la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=spa&id=p6#p6"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«El nombre correcto de la Iglesia», Conferencia General, octubre de 2018 (Liahona, noviembre de 2018, pág. 87)",
+      "texto": "Quitar el nombre del Señor de la Iglesia del Señor es una gran victoria de Satanás. Cuando desechamos el nombre del Salvador, desdeñamos sutilmente todo lo que Jesucristo hizo por nosotros, incluso Su expiación.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa&id=p15#p15"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "El nombre de la Iglesia dice de quién es y quiénes la forman, y por eso no es negociable ni abreviable. Pero el versículo 5 aclara que llevar el nombre no alcanza: hay que levantarse y brillar, ser un estandarte que otros puedan ver desde lejos. Fijate esta semana cómo nombrás a la Iglesia cuando hablás con alguien de afuera, y fijate también si lo que ven de vos se parece a lo que ese nombre promete."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo nombrás vos a la Iglesia cuando hablás con alguien que no es miembro? ¿Por qué de esa manera?",
+        "El nombre completo dice de quién es la Iglesia y quiénes la forman. ¿Qué se pierde cuando se lo abrevia?",
+        "El presidente Nelson dice que pasar por alto el nombre del Salvador es pasar por alto lo que Él hizo. ¿Estás de acuerdo? ¿Por qué?",
+        "«Levantaos y brillad, para que vuestra luz sea un estandarte». ¿Qué es un estandarte y para qué sirve?",
+        "¿Qué ven de vos las personas que no son miembros? ¿Se parece a lo que el nombre de la Iglesia promete?",
+        "¿Qué vas a hacer esta semana para usar el nombre completo y para que lo que hacés lo respalde?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cómo llama el Señor a la Iglesia en DyC 115:4?",
+      "question": "¿Qué declaró el Señor en Doctrina y Convenios 115:4?",
       "options": [
-        "La Iglesia de Jesucristo de los Santos de los Últimos Días",
-        "La Iglesia restaurada",
-        "La Iglesia del nuevo convenio",
-        "La Iglesia del Señor"
+        "Que Far West sería el nuevo lugar central de Sion.",
+        "Que Su iglesia se llamaría La Iglesia de Jesucristo de los Santos de los Últimos Días.",
+        "Que se debía construir un templo en Far West.",
+        "Que los santos debían dejar de usar el nombre de mormones."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué instrucción da el Señor respecto a la Casa del Señor en DyC 115?",
+      "question": "Según Doctrina y Convenios 115:5, ¿qué debía ser la luz de los santos?",
       "options": [
-        "Que se edifique una casa para el Señor",
-        "Que se postergue su construcción",
-        "Que no se construyan templos",
-        "Que se use solo para reuniones sociales"
+        "Una defensa contra sus enemigos.",
+        "Un refugio para los perseguidos.",
+        "Un estandarte a las naciones.",
+        "Una señal del fin de los tiempos."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué promesa hace el Señor a quienes obedecen Sus mandamientos en DyC 115?",
+      "question": "El nombre completo de la Iglesia contiene dos elementos. ¿Cuáles son, según lo que enseña esta lección?",
       "options": [
-        "Serán prosperados espiritualmente",
-        "Nunca enfrentarán pruebas",
-        "No cometerán errores",
-        "Evitarán toda oposición"
+        "Su origen histórico y su ubicación geográfica.",
+        "Su autoridad y su organización.",
+        "Su doctrina y sus ordenanzas.",
+        "De quién es la Iglesia y quiénes la componen."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué enseña DyC 115 sobre la relación entre obediencia y edificación de Sion?",
+      "question": "El presidente Nelson enseñó que «quitar el nombre del Señor de la Iglesia del Señor es una gran victoria de Satanás». ¿Con qué razón fundamenta esa afirmación?",
       "options": [
-        "La obediencia permite que Sion sea establecida",
-        "Sion se edifica sin esfuerzo",
-        "La obediencia no es necesaria",
-        "Sion es solo simbólica"
+        "Con que al desechar el nombre del Salvador se desdeña todo lo que Él hizo, incluida Su expiación.",
+        "Con que el nombre fue dado por revelación y no puede modificarse.",
+        "Con que los apodos generan confusión entre quienes investigan la Iglesia.",
+        "Con que el nombre completo distingue a la Iglesia de otras denominaciones."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué principio podemos aplicar hoy a partir de DyC 115?",
+      "question": "Ana usa siempre una abreviatura al hablar de la Iglesia porque el nombre completo le resulta largo. Según lo que enseña esta lección, ¿qué conviene que considere?",
       "options": [
-        "El Señor dirige Su Iglesia por nombre y por revelación",
-        "La organización no es importante",
-        "Las revelaciones ya no son necesarias",
-        "La obra depende solo del liderazgo humano"
+        "Que lo importante es la intención con que se lo diga.",
+        "Que el nombre completo comunica de quién es la Iglesia, y esa es la parte que la abreviatura pierde.",
+        "Que el uso de abreviaturas está permitido en conversaciones informales.",
+        "Que la longitud del nombre es un obstáculo reconocido por los líderes."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Tomás usa siempre el nombre completo de la Iglesia, pero su manera de tratar a sus compañeros no se distingue en nada del resto. Según Doctrina y Convenios 115:5, ¿qué le falta?",
+      "options": [
+        "Estudiar más a fondo la doctrina antes de dar testimonio.",
+        "Explicar a sus compañeros el significado del nombre completo.",
+        "Levantarse y brillar, de modo que su luz sea visible como un estandarte.",
+        "Invitar a sus compañeros a las actividades de la Iglesia."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 115:4 fija el nombre de la Iglesia y 115:5 manda ser un estandarte a las naciones. ¿Qué principio común forman los dos versículos?",
+      "options": [
+        "Que el nombre correcto basta para identificar a la Iglesia verdadera.",
+        "Que el estandarte se refiere a la organización de las estacas.",
+        "Que la visibilidad de la Iglesia depende de su tamaño.",
+        "Que llevar el nombre de Cristo implica también parecerse a Él de manera visible."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

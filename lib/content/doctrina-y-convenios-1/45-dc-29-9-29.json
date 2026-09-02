@@ -25,8 +25,17 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "\"Prepararse para el regreso del Señor\", Conferencia General, abril de 2019 (Liahona, mayo de 2019, pág. 81)",
+      "texto": "Cuando Él venga, la opresión y la injusticia no solo disminuirán, sino que cesarán. La pobreza y el sufrimiento no solo disminuirán, sino que desaparecerán. Incluso el dolor y la angustia de la muerte serán erradicados.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/44christofferson?lang=spa&id=p4#p4"
+    },
+    {
       "tipo": "conclusion",
-      "contenido": "Las señales de los últimos días son exactamente eso: señales de que el Salvador viene. Para quienes tienen su vida edificada sobre Cristo, son motivo de expectativa y gozo, no de terror. La pregunta correcta no es '¿cuándo será?' sino '¿estoy preparado?' La preparación concreta —convenios activos, hábitos espirituales diarios, servicio— es la respuesta que el Señor pide. Esta semana, ¿qué cambio concreto harías en tu vida si supieras que la Segunda Venida está más cerca de lo que pensás?"
+      "contenido": [
+        "Las señales de los últimos días son exactamente eso: señales de que el Salvador viene. Para quienes tienen su vida edificada sobre Cristo son motivo de expectativa y gozo, no de terror. La pregunta correcta no es «¿cuándo será?» sino «¿estoy preparado?». La preparación concreta —convenios activos, hábitos espirituales diarios, servicio— es la respuesta que el Señor pide. Elegí uno de esos cuatro y llevalo de «lo hago cuando me acuerdo» a «lo hago siempre a esta hora», empezando mañana."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -35,32 +44,33 @@
         "¿Por qué el Señor revela anticipadamente los eventos del fin de los tiempos en lugar de simplemente dejarlos ocurrir?",
         "¿Qué diferencia hay entre la reacción al conocer las señales del fin de los tiempos de alguien con cimiento espiritual sólido versus alguien sin él?",
         "¿Qué tipo de preparación espiritual crees que es más importante para estar listo para la Segunda Venida?",
-        "¿Qué cambio concreto harías en tu vida esta semana para estar más preparado espiritualmente?"
+        "¿Qué cambio concreto harías en tu vida esta semana para estar más preparado espiritualmente?",
+        "De las cuatro formas de preparación que menciona la lección, ¿cuál es la que hoy tenés más floja y por qué te cuesta esa en particular?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cómo te hace sentir leer sobre las señales de los últimos días en D&C 29:14–22 — miedo, indiferencia, esperanza, o algo distinto?",
+      "question": "Doctrina y Convenios 29:14–21 describe plagas, terremotos y tribulaciones anteriores a la Segunda Venida. Según lo que enseña esta lección, ¿con qué propósito revela el Señor esas señales?",
       "options": [
-        "Miedo, porque esas señales suenan aterradoras e inevitables",
-        "Indiferencia, porque me parece algo muy lejano que no afecta mi vida ahora",
-        "Esperanza, porque son señales de que el Salvador viene pronto",
-        "Confusión, porque no sé bien cómo interpretar los eventos descritos"
+        "Para señalar una fecha aproximada que permita organizarse.",
+        "Para distinguir de antemano a quienes serán preservados de quienes no.",
+        "Para que el temor mueva a las personas a arrepentirse antes de que sea tarde.",
+        "Para que quienes creen puedan prepararse con información y esperar con esperanza, no con terror."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Por qué el Señor revela anticipadamente los eventos del fin de los tiempos en lugar de simplemente dejarlos ocurrir?",
+      "question": "Doctrina y Convenios 29:8 manda a los escogidos ser «congregados en un lugar», y el pasaje siguiente anuncia lo que vendrá. ¿Por qué el Señor revela de antemano los acontecimientos del fin de los tiempos en lugar de dejar que simplemente ocurran?",
       "options": [
-        "Para que los santos puedan predecir con exactitud cuándo será la Segunda Venida",
-        "Para que la preparación espiritual sea posible antes de que lleguen los eventos",
-        "Para generar miedo que motive la obediencia por temor al castigo",
-        "Para que los historiadores tengan evidencia profética que estudiar"
+        "Para que quienes creen puedan prepararse y reconocer las señales cuando aparezcan, en vez de ser sorprendidos.",
+        "Para demostrar que la profecía es verdadera cuando los hechos se cumplan.",
+        "Para que las tribulaciones resulten menos severas para los que están advertidos.",
+        "Para que sus siervos puedan anunciar la fecha con precisión suficiente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -75,34 +85,45 @@
     },
     {
       "id": 4,
-      "question": "D&C 29:9–11 describe que los santos fieles 'verán al Salvador cara a cara' en el Milenio. ¿Qué tipo de preparación espiritual concreta acerca a alguien a ese momento?",
+      "question": "Doctrina y Convenios 29:22–23 anuncia que, al final de los mil años, la tierra «será renovada y recibirá su gloria paradisíaca». ¿Qué muestra ese anuncio sobre el alcance del plan del Señor?",
       "options": [
-        "Acumular bienes materiales para sobrevivir las tribulaciones físicas que vienen",
-        "Mantener convenios activos, desarrollar hábitos espirituales diarios, y servir con fidelidad",
-        "Memorizar todos los pasajes de las Escrituras sobre la Segunda Venida",
-        "Solo orar por esa fecha sin cambiar nada en la vida cotidiana"
+        "Que el Milenio es la etapa final y no habrá acontecimientos posteriores.",
+        "Que la renovación de la tierra depende de la fidelidad de quienes vivan entonces.",
+        "Que el plan alcanza también a la creación misma, y no solo a las personas.",
+        "Que la tierra actual será destruida sin ninguna continuidad con la nueva."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "Si supieras que la Segunda Venida está más cerca de lo que pensás, ¿qué cambio concreto harías en tu vida esta semana?",
+      "question": "Doctrina y Convenios 29:9 promete que los justos serán preservados y «los inicuos serán consumidos». ¿Qué determina, según el pasaje, de qué lado queda cada persona?",
       "options": [
-        "Dejaría de planificar el futuro porque ya no tendría sentido",
-        "Haría algo que vengo postergando — una llamada, una disculpa, un paso de fe",
-        "Solo rezaría más sin cambiar ningún hábito",
-        "Intentaría convencer a todos mis conocidos de que se bautizen urgentemente"
+        "La cantidad de señales que haya sabido reconocer a tiempo.",
+        "El lugar geográfico donde le toque vivir esos acontecimientos.",
+        "El grado de conocimiento doctrinal que haya alcanzado.",
+        "La condición de su vida ante el Señor: si está edificada sobre Cristo o no."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
-      "question": "D&C 45:35 dice que 'veréis estas señales y sabréis que la hora está cerca'. ¿Qué actitud hacia las señales de los últimos días es más consistente con el evangelio?",
+      "question": "El élder Christofferson enseñó que cuando el Salvador venga «la opresión y la injusticia no solo disminuirán, sino que cesarán» y que «incluso el dolor y la angustia de la muerte serán erradicados». ¿Qué actitud ante las señales de los últimos días se desprende de esa enseñanza?",
       "options": [
-        "Ignorarlas para no generar ansiedad innecesaria",
-        "Observarlas como confirmación de la fidelidad de Dios a Sus promesas, sin paralizarse por el miedo",
-        "Estudiarlas obsesivamente para predecir la fecha exacta",
-        "Preocuparse por ellas como señal de fe activa"
+        "Expectativa: lo que viene después de las señales es la eliminación definitiva del sufrimiento.",
+        "Indiferencia, ya que el desenlace no depende de las acciones humanas.",
+        "Resignación ante un período de tribulación que no se puede evitar.",
+        "Alerta ansiosa, para no ser sorprendido por los acontecimientos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 29:9–11 anuncia que los santos «verán al Salvador cara a cara», y los versículos 14–21 describen las tribulaciones previas. ¿Qué principio común sostienen las dos partes del pasaje?",
+      "options": [
+        "Que las tribulaciones son el castigo que precede necesariamente a toda bendición.",
+        "Que las señales difíciles y la promesa gozosa forman una sola revelación: se anuncian juntas para que la primera se lea a la luz de la segunda.",
+        "Que solo quienes atraviesen las tribulaciones verán al Salvador.",
+        "Que el orden de los acontecimientos permite calcular cuándo ocurrirá el regreso."
       ],
       "correctAnswer": 1
     }

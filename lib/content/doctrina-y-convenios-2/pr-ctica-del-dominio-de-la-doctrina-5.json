@@ -1,83 +1,135 @@
 {
   "id": "pr-ctica-del-dominio-de-la-doctrina-5",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Memorizar tiene mala fama: suena a examen y a repetir sin entender. Pero pensá en las cosas que sí sabés de memoria —una letra de canción, un número de teléfono, la dirección de tu casa— y en el momento exacto en que te sirvieron. Esta práctica del Dominio de la Doctrina trabaja las referencias y las frases clave de los pasajes estudiados hasta acá, y algo más importante: cómo usarlas cuando hacen falta.",
+        "Los pasajes en repaso cubren desde José Smith—Historia 1:15–20 hasta Doctrina y Convenios 64:9–11. La segunda parte de la lección los pone a prueba en una situación real: la que relató la hermana Kristin M. Yee, que durante años guardó resentimiento hacia su padre y encontró en el perdón un camino de sanación. Es el escenario más difícil posible para el tema, y por eso es el que sirve: perdonar es fácil de explicar en el aula y muy difícil el martes a la tarde, cuando la persona que te lastimó sigue actuando igual."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 64:9–10",
+          "texto": "Por tanto, os digo que debéis perdonaros los unos a los otros; pues el que no perdona las ofensas de su hermano, queda condenado ante el Señor, porque en él permanece el mayor pecado. Yo, el Señor, perdonaré a quien sea mi voluntad perdonar, mas a vosotros os es requerido perdonar a todos los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p9-p10#p9"
+        },
+        {
+          "referencia": "Doctrina y Convenios 58:42–43",
+          "texto": "He aquí, quien se ha arrepentido de sus pecados es perdonado; y yo, el Señor, no los recuerdo más. Por esto podréis saber si un hombre se arrepiente de sus pecados: He aquí, los confesará y los abandonará.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p42-p43#p42"
+        },
+        {
+          "referencia": "Doctrina y Convenios 19:16–17",
+          "texto": "Porque he aquí, yo, Dios, he padecido estas cosas por todos, para que no padezcan, si se arrepienten ; mas si no se arrepienten, tendrán que padecer así como yo;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=spa&id=p16-p17#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Hermana Kristin M. Yee",
+      "fuente": "«Gloria en lugar de ceniza: El camino sanador del perdón», Conferencia General, octubre de 2022 (Liahona, noviembre de 2022, págs. 37–38)",
+      "texto": "El Señor ha dicho: «Yo, el Señor, perdonaré a quien sea mi voluntad perdonar, mas a vosotros os es requerido perdonar a todos los hombres». El Señor nos requiere perdonar por nuestro propio bien, pero Él no nos pide que lo hagamos sin Su ayuda, Su amor y Su comprensión.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/23yee?lang=spa&id=p20#p20"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Un pasaje del Dominio de la Doctrina no sirve por estar memorizado, sino por estar disponible. La diferencia se nota en el momento en que alguien —o vos mismo— necesita saber que el arrepentimiento libera, que el perdón es un mandamiento que se cumple con ayuda del Salvador, o que Él ya no recuerda lo que uno confesó y abandonó. Elegí un pasaje de los que repasaste hoy, aprendelo de memoria esta semana con su referencia, y anotá al lado la situación concreta en la que lo usarías."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué cosas sabés de memoria sin habértelo propuesto? ¿Qué las hizo quedarse?",
+        "¿En qué situación concreta te habría servido tener a mano un pasaje de las Escrituras y no lo tuviste?",
+        "Doctrina y Convenios 64:10 dice que a nosotros «nos es requerido perdonar a todos los hombres». ¿Por qué te parece que el Señor pone la exigencia del lado de quien fue ofendido?",
+        "La hermana Yee dice que el Señor no nos pide perdonar sin Su ayuda. ¿Qué diferencia hace eso frente a la idea de perdonar por pura fuerza de voluntad?",
+        "¿Hay alguien a quien te cueste perdonar? No hace falta que digas quién: ¿qué es lo que más te cuesta de hacerlo?",
+        "¿Qué pasaje vas a memorizar esta semana, y en qué momento fijo del día lo vas a repasar?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿De qué manera memorizar información puede bendecir tu vida?",
+      "question": "¿Qué declara el Señor en Doctrina y Convenios 58:42 sobre los pecados de quien se ha arrepentido?",
       "options": [
-        "Te ayuda a ganar debates rápidamente",
-        "Te permite recordar datos sin necesidad de reflexión espiritual",
-        "Te prepara para aplicar principios del Evangelio en momentos difíciles",
-        "Solo sirve para aprobar exámenes"
+        "Que Él ya no los recuerda más.",
+        "Que su gravedad se reduce en proporción al esfuerzo del arrepentimiento.",
+        "Que se perdonan una vez que la persona repara todo el daño causado.",
+        "Que quedan registrados hasta el día del juicio, aunque perdonados."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿En qué situaciones sería útil tener memorizadas referencias de las Escrituras?",
+      "question": "Según Doctrina y Convenios 58:43, ¿cómo se reconoce que una persona se ha arrepentido de verdad?",
       "options": [
-        "Al compartir tu testimonio o responder preguntas sobre tu fe",
-        "Solo en clases de historia",
-        "Únicamente en reuniones familiares",
-        "Nunca es necesario memorizar Escrituras"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 3,
-      "question": "Según la lección, cuáles son los principios de adquirir conocimiento espiritual?",
-      "options": [
-        "Actuar con fe, mantener una perspectiva eterna, procurar comprensión mediante fuentes divinamente señaladas",
-        "Leer mucho, escribir apuntes, repetir frases",
-        "Escuchar música, orar, asistir a la Iglesia",
-        "Debatir con otros, buscar en internet, confiar en uno mismo"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 4,
-      "question": "¿Qué hizo la hermana Kristin M. Yee para actuar con fe en su experiencia personal?",
-      "options": [
-        "Ignoró el problema y se distanció de su padre",
-        "Confió en Cristo para sanar su corazón y perdonar",
-        "Buscó ayuda únicamente en libros de autoayuda",
-        "Guardó resentimiento por más tiempo"
+        "Porque siente un remordimiento profundo y sostenido por lo que hizo.",
+        "Porque confiesa sus pecados y los abandona.",
+        "Porque acepta las consecuencias sin quejarse.",
+        "Porque evita a las personas que la llevaron a cometer la falta."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué fuentes divinamente señaladas pueden ayudarnos a adquirir conocimiento espiritual?",
+      "id": 3,
+      "question": "Doctrina y Convenios 64:9 dice que quien no perdona «queda condenado ante el Señor, porque en él permanece el mayor pecado». ¿Qué está señalando esa declaración?",
       "options": [
-        "Las Escrituras, la oración y las palabras de los profetas",
-        "Noticias, redes sociales y opiniones populares",
-        "Experiencias personales sin guía espiritual",
-        "Únicamente la lógica y la razón humana"
+        "Que la falta de perdón se juzga solamente en casos de ofensas graves.",
+        "Que el perdón se exige únicamente entre miembros de la Iglesia.",
+        "Que no perdonar es una falta más grave que la ofensa original recibida.",
+        "Que el ofensor queda liberado de responsabilidad si el ofendido no perdona."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "La hermana Yee enseñó que el Señor «no nos pide que lo hagamos sin Su ayuda, Su amor y Su comprensión». ¿Qué corrige esa enseñanza sobre el mandamiento de perdonar?",
+      "options": [
+        "Que conviene esperar a que el ofensor pida perdón antes de intentarlo.",
+        "Que el perdón se completa cuando la relación vuelve a ser como antes.",
+        "Que el perdón es opcional cuando la herida fue demasiado profunda.",
+        "Que perdonar no depende de la fuerza de voluntad propia: es una capacidad que el Salvador concede."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Agustina lleva meses evitando a una compañera que la humilló delante de todo el curso. Sabe que debería perdonarla, pero cada vez que lo intenta vuelve el enojo. Según el mensaje de esta lección, ¿cuál es el paso más fiel a la doctrina?",
+      "options": [
+        "Pedir al Señor la capacidad de perdonar, entendiendo que es algo que Él concede y no solo un esfuerzo propio.",
+        "Enfrentar a la compañera y exigirle que reconozca lo que hizo.",
+        "Considerar que el perdón ya está hecho porque no busca vengarse.",
+        "Esperar a sentir que el enojo desapareció y recién entonces intentar perdonar."
       ],
       "correctAnswer": 0
     },
     {
       "id": 6,
-      "question": "¿Qué pasajes del Dominio de la doctrina podrían ayudar a alguien en una situación de perdón y sanación?",
+      "question": "Franco quiere memorizar pasajes del Dominio de la Doctrina pero abandona a los pocos días porque le parece un ejercicio escolar sin sentido. Según el propósito que plantea esta lección, ¿qué le falta a su forma de encararlo?",
       "options": [
-        "Referencias que enseñan sobre Jesucristo y Su expiación",
-        "Pasajes de historia universal",
-        "Textos de filosofía griega",
-        "Ninguno, porque no aplican a la vida diaria"
+        "Memorizar más pasajes a la vez para que el esfuerzo rinda más rápido.",
+        "Asociar cada pasaje con una situación concreta en la que lo usaría.",
+        "Repetirlos en voz alta hasta que salgan sin equivocarse.",
+        "Empezar por los pasajes más cortos y dejar los largos para el final."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 7,
-      "question": "¿Qué perspectiva eterna ayuda a comprender mejor las pruebas personales?",
+      "question": "Doctrina y Convenios 58:42 promete que el Señor no recuerda más los pecados perdonados, y 64:10 requiere perdonar a todos los hombres. ¿Qué principio común forman los dos pasajes?",
       "options": [
-        "Verlas dentro del Plan de Salvación y las enseñanzas de Cristo",
-        "Considerarlas como injusticias sin propósito",
-        "Pensar que son castigos inevitables",
-        "Creer que no tienen relación con la fe"
+        "Que los pecados propios se olvidan más fácilmente que las ofensas ajenas.",
+        "Que perdonar es una obligación externa que no tiene relación con el arrepentimiento personal.",
+        "Que el perdón que recibimos y el que damos son parte de un mismo movimiento, y no se pueden separar.",
+        "Que el perdón divino depende de la cantidad de personas a las que uno haya perdonado."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

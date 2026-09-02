@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-109",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "El 27 de marzo de 1836, después de años de sacrificio, los santos dedicaron el templo de Kirtland. La oración dedicatoria no la improvisó José Smith: le fue dada por revelación, y quedó registrada como Doctrina y Convenios 109. Es la primera oración dedicatoria de un templo en esta dispensación, y las que se han pronunciado desde entonces siguen su modelo.",
+        "La oración pide cosas muy concretas. Que los que entren allí crezcan y reciban «la plenitud del Espíritu Santo» (versículo 15). Que los siervos salgan de esa casa «armados con tu poder», rodeados de la gloria del Señor y guardados por Sus ángeles (versículo 22). Que se establezca un pueblo que honre esa casa «por todas las generaciones y por la eternidad» (versículo 24).",
+        "Los santos de Kirtland eran pobres. Las mujeres molieron su vajilla de porcelana para mezclarla con el estuco de las paredes, y así el templo brillaba al sol. Habían dado lo que tenían. Y lo que recibieron a cambio, durante esa semana de dedicación, fue una serie de manifestaciones espirituales que los sostuvo durante los años de persecución que vinieron después."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 109:8",
+          "texto": "Organizaos; preparad todo lo que fuere necesario; y estableced una casa, sí, una casa de oración, una casa de ayuno, una casa de fe, una casa de instrucción, una casa de gloria, una casa de orden, una casa de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "Doctrina y Convenios 109:15",
+          "texto": "Y que crezcan en ti y reciban la plenitud del Espíritu Santo; y se organicen de acuerdo con tus leyes y se preparen para recibir cuanto fuere necesario.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "Doctrina y Convenios 109:22",
+          "texto": "Te rogamos, Padre Santo, que tus siervos salgan de esta casa armados con tu poder, y que tu nombre esté sobre ellos, y los rodee tu gloria, y tus ángeles los guarden.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=spa&id=p22#p22"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Céntrense en el templo», Conferencia General, octubre de 2022 (Liahona, noviembre de 2022, pág. 121)",
+      "texto": "No perdamos nunca de vista lo que el Señor está haciendo por nosotros ahora: está propiciando que Sus templos estén más al alcance de todos, está acelerando el ritmo al que construimos templos, está aumentando nuestra capacidad de ayudar a recoger a Israel. Les prometo que aumentar el tiempo que pasan en el templo bendecirá su vida como nada más puede hacerlo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/58nelson?lang=spa&id=p3#p3"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La oración dedicatoria del templo de Kirtland pide que quienes salgan de esa casa vayan «armados con tu poder». No pide que se queden adentro: pide que salgan distintos. Los santos que dieron su porcelana para las paredes recibieron lo que necesitaban para atravesar los años que venían, y todavía no sabían cuánto iban a necesitarlo. Si podés ir al templo, andá esta semana o poné la fecha en que vas a ir. Si todavía no, empezá por prepararte para el día en que puedas."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Las mujeres de Kirtland molieron su porcelana para mezclarla con el estuco del templo. ¿Qué te dice ese detalle sobre lo que estaban dispuestas a dar?",
+        "El versículo 8 enumera siete cosas que debía ser esa casa. ¿Cuál te llama más la atención?",
+        "La oración pide que los siervos «salgan de esta casa armados». ¿Qué diferencia hay entre entrar al templo y salir distinto de él?",
+        "El presidente Nelson promete que aumentar el tiempo en el templo bendice la vida «como nada más puede hacerlo». ¿Qué te genera esa promesa?",
+        "¿Qué te está frenando hoy de ir al templo o de prepararte para ir?",
+        "Poné una fecha concreta: ¿cuándo vas al templo, o cuándo hablás con tu obispo sobre prepararte?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuánto tiempo trabajaron los santos para edificar el Templo de Kirtland?",
+      "question": "¿Qué es Doctrina y Convenios 109?",
       "options": [
-        "Casi tres años",
-        "Un año",
-        "Cinco años",
-        "Seis meses"
+        "La oración dedicatoria del templo de Kirtland, recibida por revelación.",
+        "Las instrucciones sobre las ordenanzas que se realizarían en el templo.",
+        "El relato de las manifestaciones espirituales durante la dedicación.",
+        "La revelación que ordenó construir el templo de Kirtland."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Cuánto costó aproximadamente la construcción del Templo de Kirtland?",
+      "question": "Según Doctrina y Convenios 109:8, ¿qué siete cosas debía ser la casa del Señor?",
       "options": [
-        "60,000 dólares",
-        "10,000 dólares",
-        "100,000 dólares",
-        "500 dólares"
+        "Casa de revelación, de ordenanzas, de sellamientos, de bautismos, de enseñanza, de consejo y de adoración.",
+        "Casa de oración, de ayuno, de fe, de instrucción, de gloria, de orden y de Dios.",
+        "Casa de paz, de refugio, de convenios, de luz, de verdad, de justicia y de misericordia.",
+        "Casa de estudio, de trabajo, de servicio, de unidad, de sacrificio, de gozo y de esperanza."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué ocurrió en la dedicación del Templo de Kirtland en 1836?",
+      "question": "¿Qué pide Doctrina y Convenios 109:22 para los siervos del Señor que salgan de esa casa?",
       "options": [
-        "Manifestaciones espirituales como hablar en lenguas y visiones",
-        "No pasó nada especial",
-        "Se canceló la dedicación",
-        "Solo se cantaron himnos"
+        "Que salgan libres de toda oposición durante su servicio.",
+        "Que salgan con el conocimiento necesario para enseñar a otros.",
+        "Que salgan armados con Su poder, con Su nombre sobre ellos, rodeados de Su gloria y guardados por Sus ángeles.",
+        "Que salgan con instrucciones claras sobre su misión."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué modelo estableció DyC 109 respecto a las dedicaciones de templos?",
+      "question": "El presidente Nelson prometió que «aumentar el tiempo que pasan en el templo bendecirá su vida como nada más puede hacerlo». ¿Qué tipo de afirmación es esa?",
       "options": [
-        "Lectura de una oración dedicatoria inspirada",
-        "Oraciones improvisadas",
-        "No se requiere oración",
-        "Solo discursos"
+        "Una descripción general de los beneficios de la actividad religiosa.",
+        "Una invitación dirigida a quienes ya asisten con regularidad.",
+        "Una recomendación aplicable solo a los miembros adultos.",
+        "Una promesa condicionada a una acción concreta y medible por quien la recibe."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Las mujeres de Kirtland molieron su vajilla de porcelana para mezclarla con el estuco de las paredes del templo. ¿Qué ilustra ese gesto sobre los santos de esa época?",
+      "options": [
+        "Que dieron lo que tenían, aunque fuera poco y valioso para ellas.",
+        "Que la construcción exigía materiales que no podían comprarse.",
+        "Que buscaban que el templo destacara frente a otros edificios.",
+        "Que la porcelana era el material más resistente disponible."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "Según DyC 109:13 y 22, ¿qué bendiciones promete el Señor en el templo?",
+      "id": 6,
+      "question": "Agustina cumple los requisitos para asistir al templo pero siempre encuentra algo que se lo impide. Según Doctrina y Convenios 109:22 y la promesa del presidente Nelson, ¿qué está postergando?",
       "options": [
-        "Armar con poder, protección y ayuda",
-        "Evitar sacrificios",
-        "No recibir bendiciones",
-        "Solo prosperidad material"
+        "Una obligación formal que su barrio espera que cumpla.",
+        "Salir de allí «armada con Su poder», que es lo que la oración dedicatoria pide para quienes entran.",
+        "Un requisito necesario para recibir un llamamiento.",
+        "Una experiencia que podrá tener de todos modos más adelante sin costo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 109:15 pide que quienes entren reciban la plenitud del Espíritu Santo, y 109:22 que salgan armados con el poder del Señor. ¿Qué principio común forman los dos versículos?",
+      "options": [
+        "Que la plenitud del Espíritu Santo se concede únicamente en el templo.",
+        "Que quienes asisten al templo quedan protegidos de toda dificultad.",
+        "Que el templo no es un destino sino un lugar de preparación para lo que ocurre afuera.",
+        "Que las bendiciones del templo se reciben solo mientras se permanece dentro."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

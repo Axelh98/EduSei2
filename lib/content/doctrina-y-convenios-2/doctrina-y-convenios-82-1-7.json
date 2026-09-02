@@ -1,83 +1,136 @@
 {
   "id": "doctrina-y-convenios-82-1-7",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En abril de 1832, José Smith viajó a Misuri para una conferencia con los líderes de Sion. Había tensiones reales entre los santos de Ohio y los de Misuri, y varios llegaban con quejas y con ofensas acumuladas. Lo primero que hizo el Señor en Doctrina y Convenios 82 fue mandar que se perdonaran unos a otros, y recién después les habló de responsabilidad.",
+        "El versículo 3 contiene una de las frases más exigentes de la Restauración: «de aquel a quien mucho se da, mucho se requiere». No es una amenaza; es una descripción de cómo funciona la justicia de Dios. Quien recibió más luz responde por más luz. Y para un joven que creció en la Iglesia —con Escrituras, con Seminario, con padres o líderes que le enseñaron— eso significa algo concreto: no puede medirse con la vara de quien nunca escuchó nada de esto.",
+        "El versículo 7 agrega la otra mitad, la que suele olvidarse: al que se arrepiente le son perdonados sus pecados. La exigencia y la misericordia vienen en la misma revelación, y en ese orden."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 82:3",
+          "texto": "Porque de aquel a quien mucho se da, mucho se requiere; y el que peque contra mayor luz, mayor condenación recibirá.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 82:1",
+          "texto": "De cierto, de cierto os digo, mis siervos, que por cuanto os habéis perdonado el uno al otro vuestras transgresiones, así también yo, el Señor, os perdono.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 82:7",
+          "texto": "Y ahora, yo, el Señor, en verdad os digo que no os imputaré ningún pecado; id y no pequéis más; pero los pecados anteriores volverán al alma que peque, dice el Señor vuestro Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p7#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "«Yo reprendo y disciplino a todos los que amo», Conferencia General, abril de 2011 (Liahona, mayo de 2011, págs. 97, 99)",
+      "texto": "Nuestro Padre Celestial es un Dios de altas expectativas […]. Si tenemos un deseo sincero y nos esforzamos por estar a la altura de las expectativas de nuestro Padre Celestial, Él se asegurará de que recibamos toda la ayuda que necesitemos, ya sea de consuelo, de fortaleza o de disciplina.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/04/as-many-as-i-love-i-rebuke-and-chasten?lang=spa&id=p3#p3"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "«De aquel a quien mucho se da, mucho se requiere» suena a carga hasta que se lee junto al versículo 1, donde el Señor perdona en la misma medida en que nosotros perdonamos. La exigencia y la misericordia llegan juntas, y esa es la parte que cambia el tono de todo el capítulo. Hacé el ejercicio incómodo esta semana: escribí qué te fue dado —Escrituras, familia, Seminario, un líder que te escuchó— y preguntate honestamente qué estás haciendo con eso."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué cosas te fueron dadas en materia espiritual que otras personas de tu edad no tuvieron?",
+        "Doctrina y Convenios 82:1 dice que el Señor nos perdona «así como os perdonáis unos a otros». ¿Qué te parece que implica esa condición?",
+        "«De aquel a quien mucho se da, mucho se requiere» (v. 3). ¿Te suena a exigencia justa o a presión injusta? ¿Por qué?",
+        "El élder Christofferson dice que Dios se asegura de que recibamos la ayuda que necesitemos, incluida la disciplina. ¿Alguna vez una corrección te ayudó de verdad?",
+        "¿En qué área sentís que estás rindiendo por debajo de lo que ya sabés que es correcto?",
+        "Elegí una sola cosa de esa área y corregila esta semana. ¿Cuál es y qué vas a hacer exactamente?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué principio enseña DyC 82:3 respecto a las bendiciones recibidas?",
+      "question": "¿Con qué condición perdona el Señor los pecados en Doctrina y Convenios 82:1?",
       "options": [
-        "Quien recibe mucho no tiene obligaciones",
-        "De aquel a quien mucho se da, mucho se requiere",
-        "Las bendiciones son independientes de la obediencia",
-        "Solo los líderes tienen mayores requisitos"
+        "Con la condición de que se repare todo el daño causado.",
+        "Con la condición de que se confiesen ante un líder de la Iglesia.",
+        "Así como los miembros se perdonan unos a otros sus ofensas.",
+        "Con la condición de que no vuelvan a repetirse jamás."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "Según el contexto histórico de DyC 82:1–7, ¿por qué el Señor estableció altas expectativas para los santos?",
+      "question": "Según Doctrina y Convenios 82:3, ¿qué principio establece el Señor sobre la luz recibida?",
       "options": [
-        "Porque no habían recibido ninguna guía",
-        "Porque habían recibido grandes bendiciones como la Restauración y el Libro de Mormón",
-        "Porque vivían sin dificultades",
-        "Porque eran perfectos en obediencia"
+        "Que la luz se concede en proporción a la fe demostrada.",
+        "Que quien recibe poca luz queda exento de responsabilidad.",
+        "Que quien recibe más luz debe compartirla antes de recibir más.",
+        "Que de aquel a quien mucho se da, mucho se requiere."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Qué advierte el Señor en DyC 82:7 sobre repetir pecados después de recibir luz?",
+      "question": "Doctrina y Convenios 82 empieza mandando perdonarse unos a otros y recién después habla de responsabilidad. ¿Qué sugiere ese orden?",
       "options": [
-        "Que no tiene consecuencias",
-        "Que el pecado se recuerda y las consecuencias permanecen",
-        "Que siempre será ignorado",
-        "Que es imposible arrepentirse"
+        "Que la relación restaurada entre las personas es la base sobre la que se puede exigir más.",
+        "Que el perdón es un requisito previo para asistir a las conferencias de la Iglesia.",
+        "Que la responsabilidad solo alcanza a quienes ya perdonaron todas las ofensas.",
+        "Que las ofensas entre miembros son un asunto menor frente a la responsabilidad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué esperaba el Señor de los santos a causa de las bendiciones recibidas (DyC 82:4–6)?",
+      "question": "El élder Christofferson enseñó que Dios «es un Dios de altas expectativas» y que quien se esfuerza recibirá «consuelo, fortaleza o disciplina». ¿Qué revela esa lista sobre la forma en que Dios ayuda?",
       "options": [
-        "Indiferencia ante los mandamientos",
-        "Obediencia y fidelidad a los convenios",
-        "Crítica constante a los líderes",
-        "Evitar cualquier sacrificio"
+        "Que la ayuda llega en el orden en que la persona la solicita.",
+        "Que la ayuda divina se adapta a lo que la persona necesita, aunque no siempre sea lo que quisiera recibir.",
+        "Que la disciplina se reserva para quienes han cometido faltas graves.",
+        "Que el consuelo y la fortaleza son formas de ayuda superiores a la corrección."
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué dificultad enfrentaban los santos en Misuri mencionada en la lección y vinculada a DyC 82?",
+      "question": "Agustina creció en la Iglesia, fue a Seminario cuatro años y conoce bien la doctrina. Su amiga acaba de conocer el evangelio. Según Doctrina y Convenios 82:3, ¿cómo se comparan sus responsabilidades?",
       "options": [
-        "Exceso de recursos temporales",
-        "Falta total de revelación",
-        "Críticas y disputas entre líderes y miembros",
-        "Ausencia de escrituras"
+        "La comparación no aplica: la responsabilidad depende de la edad de cada una.",
+        "Son idénticas, porque el Señor mide a todos con la misma vara.",
+        "La responsabilidad de Agustina es mayor porque recibió más luz, no porque valga más.",
+        "La responsabilidad de su amiga es mayor porque debe demostrar su conversión."
       ],
       "correctAnswer": 2
     },
     {
       "id": 6,
-      "question": "Según el élder D. Todd Christofferson, ¿por qué Dios tiene altas expectativas?",
+      "question": "Franco sostiene que haber crecido en la Iglesia le da una ventaja y que por eso puede permitirse ser menos estricto que otros. ¿Qué corrige Doctrina y Convenios 82:3 en ese razonamiento?",
       "options": [
-        "Para demostrar poder sobre Sus hijos",
-        "Para que experimentemos gozo supremo y lleguemos a ser como Él, recibiendo ayuda necesaria",
-        "Para que compitamos entre nosotros",
-        "Para que dependamos de normas humanas"
+        "Que quienes crecieron en la Iglesia efectivamente tienen menos margen de error.",
+        "Que la luz recibida en la infancia no cuenta para la responsabilidad adulta.",
+        "Que la comparación con otros es lo único que determina la responsabilidad.",
+        "Que la ventaja de haber recibido más luz viene acompañada de una exigencia mayor, no menor."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
-      "question": "Aplicación personal: ¿Cómo deberíamos responder a las bendiciones que hemos recibido según DyC 82:1–7?",
+      "question": "Doctrina y Convenios 82:1 condiciona el perdón divino al perdón entre las personas, y 82:3 vincula la luz recibida con la responsabilidad. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Guardarlas solo para beneficio propio",
-        "Usarlas para bendecir a otros y vivir los mandamientos",
-        "Negarlas por humildad",
-        "Evitar compromisos espirituales"
+        "Que lo que recibimos de Dios y lo que Él espera de nosotros están siempre relacionados.",
+        "Que el perdón divino es más fácil de obtener que el perdón humano.",
+        "Que la responsabilidad espiritual se mide únicamente por la conducta hacia los demás.",
+        "Que las exigencias de Dios aumentan con la edad de la persona."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

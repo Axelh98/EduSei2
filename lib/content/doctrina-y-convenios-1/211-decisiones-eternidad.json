@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La adolescencia es la etapa de la vida donde se toman algunas de las decisiones más importantes — sobre educación, amistades, valores, fe, comportamiento — que formarán el carácter y la trayectoria de toda una vida. Esta lección ayuda a los jóvenes a incorporar la perspectiva eterna como herramienta de toma de decisiones. La pregunta clave no es '¿qué quiero ahora?' sino '¿quién quiero ser en diez, veinte, cincuenta años? ¿Qué decisión de hoy me acerca a esa persona?' El evangelio ofrece la perspectiva más larga posible para tomar decisiones: la eternidad. Decisiones que parecen pequeñas hoy — con quién pasar el tiempo, qué ver, qué guardar del sábado, cómo tratar al cuerpo — son en realidad la formación diaria del carácter que vos serás para siempre."
+      "contenido": [
+        "La adolescencia es la etapa en que se toman algunas de las decisiones más importantes —sobre educación, amistades, valores, fe, conducta— que forman el carácter y la trayectoria de toda una vida. Esta lección ayuda a incorporar la perspectiva eterna como herramienta para decidir. La pregunta clave deja de ser «¿qué quiero ahora?» y pasa a ser «¿quién quiero ser en diez, veinte, cincuenta años, y qué decisión de hoy me acerca a esa persona?».",
+        "El evangelio ofrece la perspectiva más larga posible para tomar decisiones: la eternidad. Las decisiones que hoy parecen chicas —con quién pasar el tiempo, qué mirar, qué hacer del día de reposo, cómo tratar el propio cuerpo— son en realidad la formación diaria del carácter que uno será para siempre. Eso no significa vivir con miedo a equivocarse: significa reconocer que casi nadie cambia de rumbo por una decisión grande, sino por la acumulación silenciosa de muchas decisiones que en su momento parecían no importar."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "Pensá en una decisión que tomaste en el pasado que hoy agradecés. ¿Qué principio te guió en ese momento?",
         "¿Cómo cambia una decisión difícil cuando te preguntás '¿quién quiero ser en veinte años?' en lugar de '¿qué quiero ahora?'",
         "¿Qué decisión concreta podés tomar esta semana que sea una inversión en tu yo eterno?",
-        "¿Cómo podría compartir con un amigo la herramienta de la 'perspectiva eterna' para ayudarlo a tomar una decisión difícil?"
+        "¿Cómo podría compartir con un amigo la herramienta de la 'perspectiva eterna' para ayudarlo a tomar una decisión difícil?",
+        "De acá a un año, ¿qué te gustaría poder decir que empezaste esta semana? Escribilo en una oración y ponele fecha de revisión."
       ]
     }
   ],
@@ -47,34 +51,34 @@
       "id": 1,
       "question": "D&C 130:20–21 establece el principio de leyes y bendiciones. ¿Cuál es la declaración exacta sobre las bendiciones?",
       "options": [
-        "Hay una ley irrevocablemente decretada en el cielo sobre la cual se basan todas las bendiciones — se obtienen por obediencia a esa ley.",
-        "Las bendiciones se otorgan según la fe del receptor y no dependen de leyes fijas.",
         "Las bendiciones son dadas libremente por el Padre sin condición de obediencia.",
-        "Las leyes del cielo se aplican solo a los que tienen el sacerdocio activo."
+        "Las leyes del cielo se aplican solo a los que tienen el sacerdocio activo.",
+        "Hay una ley irrevocablemente decretada en el cielo sobre la cual se basan todas las bendiciones — se obtienen por obediencia a esa ley.",
+        "Las bendiciones se otorgan según la fe del receptor y no dependen de leyes fijas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Helamán 5:12 describe el tipo de fundamento que protege al discípulo cuando 'el diablo envía sus vientos y sus granizos'. ¿Cuál es ese fundamento?",
       "options": [
-        "La roca del Redentor, que es Cristo, el Hijo de Dios.",
         "La comunidad de los santos que rodea al discípulo.",
         "La obediencia perfecta a todos los mandamientos sin excepción.",
-        "La fortaleza del carácter personal desarrollado por el discípulo."
+        "La fortaleza del carácter personal desarrollado por el discípulo.",
+        "La roca del Redentor, que es Cristo, el Hijo de Dios."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "El presidente Nelson enseñó que 'las decisiones que toman ahora determinarán quiénes serán en la eternidad'. ¿Por qué las decisiones adolescentes tienen peso eterno, no solo temporal?",
       "options": [
-        "Porque las decisiones de la adolescencia son las únicas que el Señor evalúa en el juicio final.",
         "Porque las decisiones forman hábitos, los hábitos forman carácter, y el carácter se lleva a la eternidad — cada decisión de hoy construye o debilita el yo eterno.",
         "Porque la adolescencia es la única etapa donde las decisiones son completamente libres.",
-        "Porque las decisiones adolescentes tienen consecuencias sociales más visibles que las de otras etapas."
+        "Porque las decisiones adolescentes tienen consecuencias sociales más visibles que las de otras etapas.",
+        "Porque las decisiones de la adolescencia son las únicas que el Señor evalúa en el juicio final."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -102,23 +106,23 @@
       "id": 6,
       "question": "Joaquín dice que 'una decisión pequeña no define quién soy'. Según D&C 130:20–21 y el principio de la lección, ¿qué le respondería el Señor?",
       "options": [
-        "Que tiene razón — el Señor solo evalúa las decisiones grandes y dramáticas.",
-        "Que las leyes irrevocables no distinguen entre decisiones pequeñas y grandes — cada elección de obediencia o desobediencia activa la ley correspondiente y construye o debilita el carácter poco a poco.",
         "Que las decisiones pequeñas son perdonadas automáticamente sin necesidad de arrepentimiento.",
-        "Que debería preocuparse solo por las decisiones que otros pueden ver."
+        "Que debería preocuparse solo por las decisiones que otros pueden ver.",
+        "Que tiene razón — el Señor solo evalúa las decisiones grandes y dramáticas.",
+        "Que las leyes irrevocables no distinguen entre decisiones pequeñas y grandes — cada elección de obediencia o desobediencia activa la ley correspondiente y construye o debilita el carácter poco a poco."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "D&C 130:20–21 (las bendiciones siguen a las leyes) y Helamán 5:12 (construir sobre la roca) forman juntos un modelo de vida. ¿Cuál es ese modelo completo?",
       "options": [
-        "Que basta con evitar los pecados grandes para garantizar las bendiciones eternas.",
         "Que quien construye sus decisiones sobre Cristo y las leyes del evangelio recibe las bendiciones prometidas — y cuando lleguen las tormentas (y llegarán), ese fundamento no se mueve.",
         "Que las bendiciones son garantizadas para los que asisten regularmente a la Iglesia.",
-        "Que el modelo es solo espiritual y no tiene implicaciones en decisiones prácticas cotidianas."
+        "Que el modelo es solo espiritual y no tiene implicaciones en decisiones prácticas cotidianas.",
+        "Que basta con evitar los pecados grandes para garantizar las bendiciones eternas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

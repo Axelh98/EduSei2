@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-98",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Doctrina y Convenios 98 llegó a Kirtland en agosto de 1833, mientras en Misuri los santos estaban siendo atacados y expulsados. José Smith todavía no sabía lo que estaba ocurriendo allá. Y la revelación empieza así: «no temáis, consuélense vuestros corazones; sí, regocijaos para siempre, y en todas las cosas dad gracias».",
+        "Es una instrucción difícil de leer sin incomodarse. El versículo 3 explica por qué: «todas las cosas con que habéis sido afligidos obrarán juntamente para vuestro bien y para la gloria de mi nombre». No dice que las aflicciones sean buenas; dice que van a obrar juntamente para bien, que es otra cosa.",
+        "El resto de la sección da la ley del Señor sobre cómo responder a la persecución: perdonar, soportar, y solo después de tres ofensas presentar el caso. Y en el versículo 16, una instrucción que suena moderna: «renunciad a la guerra y proclamad la paz». Para un joven que vive rodeado de conflictos chicos —discusiones familiares, grupos que se pelean, comentarios que buscan herir— la pregunta no es teórica: ¿cuántas veces perdonás antes de devolver el golpe?"
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 98:1",
+          "texto": "De cierto os digo, mis amigos, no temáis, consuélense vuestros corazones; sí, regocijaos para siempre, y en todas las cosas dad gracias.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 98:3",
+          "texto": "Por lo tanto, él os concede esta promesa, con un convenio inmutable de que serán cumplidas; y todas las cosas con que habéis sido afligidos obrarán juntamente para vuestro bien y para la gloria de mi nombre, dice el Señor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 98:16",
+          "texto": "Por tanto, renunciad a la guerra y proclamad la paz, y procurad diligentemente hacer volver el corazón de los hijos a sus padres, y el corazón de los padres a los hijos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=spa&id=p16#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente M. Russell Ballard",
+      "fuente": "«Esperanza en Cristo», Conferencia General, abril de 2021 (Liahona, mayo de 2021, pág. 55)",
+      "texto": "Esperar en el Señor significa obediencia continua y progreso espiritual hacia Él. Esperar en el Señor no significa aguardar el momento oportuno. Nunca deben sentirse como si estuvieran en una sala de espera. Esperar en el Señor significa actuar.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/28ballard?lang=spa&id=p26#p26"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "«Todas las cosas con que habéis sido afligidos obrarán juntamente para vuestro bien» no promete que lo malo se vuelva bueno, sino que el Señor va a trabajar con eso. Mientras tanto, la instrucción es la más difícil de todas: renunciar a la guerra y proclamar la paz, empezando por los conflictos que uno tiene a mano. Pensá en la pelea chica que venís sosteniendo —con un hermano, con alguien del curso— y hacé esta semana el gesto que la desactive, aunque no te toque a vos hacerlo."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "El Señor pide «en todas las cosas dad gracias» a gente que estaba siendo perseguida. ¿Qué te genera esa instrucción?",
+        "El versículo 3 dice que las aflicciones «obrarán juntamente para vuestro bien». ¿En qué se diferencia eso de decir que las aflicciones son buenas?",
+        "¿Cuántas veces perdonás antes de devolver el golpe? Sé honesto.",
+        "El presidente Ballard dice que esperar en el Señor «significa actuar». ¿Qué estabas esperando pasivamente?",
+        "«Renunciad a la guerra y proclamad la paz». ¿Cuál es tu guerra chica de estos días?",
+        "¿Qué gesto concreto la desactivaría? ¿Estás dispuesto a hacerlo esta semana aunque no te corresponda a vos?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseña DyC 98:1–3 sobre la paciencia en la aflicción?",
+      "question": "¿Con qué palabras comienza Doctrina y Convenios 98, dirigida a santos que estaban siendo perseguidos?",
       "options": [
-        "Todas las cosas obrarán juntamente para nuestro bien",
-        "El sufrimiento no tiene propósito",
-        "La paciencia no es necesaria",
-        "El Señor no interviene"
+        "Con el mandato de abandonar Misuri de inmediato.",
+        "Con la promesa de que la persecución terminaría pronto.",
+        "Con un anuncio de juicio sobre sus perseguidores.",
+        "Con la instrucción de no temer, consolarse, regocijarse y dar gracias en todas las cosas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué consejo da DyC 98:11–12 sobre la justicia?",
+      "question": "Según Doctrina y Convenios 98:3, ¿qué promete el Señor respecto de las aflicciones de Su pueblo?",
       "options": [
-        "Obrar con rectitud y obedecer las leyes justas",
-        "Ignorar las leyes",
-        "Buscar venganza",
-        "Evitar compromisos"
+        "Que obrarán juntamente para su bien y para la gloria de Su nombre.",
+        "Que se reducirán en proporción a su obediencia.",
+        "Que serán compensadas en la vida venidera.",
+        "Que serán retiradas si permanecen fieles."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué principio enseña DyC 98:23–32 sobre la persecución?",
+      "question": "¿Qué manda Doctrina y Convenios 98:16 junto con «renunciad a la guerra y proclamad la paz»?",
       "options": [
-        "Responder con mansedumbre y seguir la ley del Salvador",
-        "Vengarse inmediatamente",
-        "Ignorar las ofensas",
-        "Usar violencia siempre"
+        "Presentar los agravios ante las autoridades civiles.",
+        "Procurar hacer volver el corazón de los hijos a sus padres y el de los padres a los hijos.",
+        "Perdonar setenta veces siete a quien ofenda.",
+        "Abandonar los lugares donde haya contención."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué enseña DyC 98:33–38 sobre la guerra?",
+      "question": "El presidente Ballard enseñó que «esperar en el Señor significa actuar» y que nadie debería sentirse «como si estuviera en una sala de espera». ¿Qué corrige esa enseñanza?",
       "options": [
-        "Debe ser declarada por revelación y bajo dirección divina",
-        "Siempre es aceptable",
-        "Nunca es necesaria",
-        "Es decisión personal"
+        "La idea de que la paciencia es una virtud secundaria.",
+        "La idea de que hay que actuar sin consultar al Señor.",
+        "La idea de que esperar una respuesta implica suspender la acción mientras tanto.",
+        "La idea de que las respuestas del Señor tardan más de lo necesario."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Ana viene arrastrando una pelea con su hermana desde hace semanas y sostiene que le toca a la otra dar el primer paso. Según Doctrina y Convenios 98:16, ¿qué le propone la revelación?",
+      "options": [
+        "Presentar el caso ante sus padres para que decidan.",
+        "Evitar el contacto hasta que la tensión disminuya sola.",
+        "Esperar a que su hermana reconozca su parte antes de acercarse.",
+        "Renunciar a la guerra y proclamar la paz, sin condicionarlo a quién empezó."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Luca reza pidiendo dirección sobre su futuro y mientras tanto no hace nada, porque siente que sería adelantarse a la respuesta. Según la enseñanza del presidente Ballard, ¿qué le falta entender?",
+      "options": [
+        "Que esperar en el Señor incluye seguir avanzando en lo que ya sabe que debe hacer.",
+        "Que las respuestas llegan más rápido cuando se insiste en la petición.",
+        "Que conviene tomar cualquier decisión y confiar en que será corregida.",
+        "Que la dirección divina se recibe solo en asuntos de gran importancia."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué enseña DyC 98:39–48 sobre el perdón?",
+      "id": 7,
+      "question": "Doctrina y Convenios 98:1 manda dar gracias en todas las cosas y 98:3 promete que las aflicciones obrarán para bien. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Perdonar a los enemigos y dejar la justicia en manos de Dios",
-        "Nunca perdonar",
-        "Buscar venganza",
-        "Evitar toda reconciliación"
+        "Que quienes agradecen reciben menos aflicciones que los demás.",
+        "Que la gratitud en medio de la dificultad se apoya en una promesa concreta, no en negar el dolor.",
+        "Que las aflicciones deben recibirse con alegría porque son bendiciones disfrazadas.",
+        "Que la gratitud acelera el fin de las pruebas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

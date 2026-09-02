@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-105",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Cuando el Campamento de Israel llegó cerca de Misuri, el Señor les dijo que no pelearan y que volvieran a casa. Doctrina y Convenios 105 explica por qué, y la explicación es incómoda: «no han aprendido a ser obedientes en las cosas que requerí de sus manos […] y no dan de sus bienes a los pobres ni a los afligidos entre ellos, como corresponde a los santos» (versículos 2–3).",
+        "La redención de Sion se posponía, entonces, no por la fuerza de los enemigos sino por la condición del propio pueblo. El versículo 10 dice para qué serviría la espera: «para que ellos mismos se preparen, y mi pueblo sea instruido con mayor perfección, y adquiera experiencia».",
+        "Y el versículo 11 nombra lo que faltaba: «esto no puede llevarse a cabo sino hasta que mis élderes sean investidos con poder de lo alto». Dos años después, en el templo de Kirtland, recibieron esa investidura. La demora no era un castigo: era el tiempo que hacía falta para construir lo que todavía no estaba."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 105:3",
+          "texto": "Pero he aquí, no han aprendido a ser obedientes en las cosas que requerí de sus manos, sino que están llenos de toda clase de iniquidad, y no dan de sus bienes a los pobres ni a los afligidos entre ellos, como corresponde a los santos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/105?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 105:10",
+          "texto": "Para que ellos mismos se preparen, y mi pueblo sea instruido con mayor perfección, y adquiera experiencia, y sepa más cabalmente lo concerniente a su deber y a las cosas que de sus manos requiero.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/105?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Doctrina y Convenios 105:11–12",
+          "texto": "Y esto no puede llevarse a cabo sino hasta que mis élderes sean investidos con poder de lo alto. Pues he aquí, he preparado una magna investidura y bendición que derramaré sobre ellos, si son fieles y siguen siendo humildes delante de mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/105?lang=spa&id=p11-p12#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "«A Sion venid», Conferencia General, octubre de 2008 (Liahona, noviembre de 2008, pág. 38)",
+      "texto": "Gran parte de la obra de establecer Sion consiste en nuestros esfuerzos individuales por llegar a ser «los puros de corazón».",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2008/10/come-to-zion?lang=spa&id=p20#p20"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La redención de Sion no se demoró por falta de valentía: se demoró porque el pueblo todavía no había aprendido a obedecer ni a cuidar de sus pobres. Es un diagnóstico duro y muy útil, porque señala lo que sí estaba en sus manos. Cuando algo importante no avanza en tu vida, vale la pena hacerse la misma pregunta antes que buscar culpables afuera: ¿qué es lo que a mí me falta aprender para esto? Elegí una respuesta honesta y empezá por ahí."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "El Señor dice que la demora se debió a las transgresiones del pueblo «en lo que a la iglesia respecta, y no a individuos». ¿Qué te parece que significa esa distinción?",
+        "Una de las faltas señaladas es no dar «de sus bienes a los pobres ni a los afligidos entre ellos». ¿Por qué te parece que el Señor menciona justamente esa?",
+        "Según el versículo 10, ¿para qué servía la espera?",
+        "El élder Christofferson dice que establecer Sion consiste en los esfuerzos individuales por ser puros de corazón. ¿Cómo se traduce eso en una semana normal?",
+        "¿Hay algo importante que no avanza en tu vida? ¿Qué parte de eso está en tus manos?",
+        "¿Qué necesitás aprender para que avance? Nombralo y decí cómo vas a empezar."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué instrucción dio el Señor en DyC 105:9, 13 a los santos?",
+      "question": "Según Doctrina y Convenios 105:3, ¿cuáles fueron dos faltas que el Señor señaló en Su pueblo?",
       "options": [
-        "Esperar un corto tiempo para la redención de Sion",
-        "Atacar inmediatamente",
-        "Abandonar la fe",
-        "Ignorar las promesas"
+        "No haber aprendido a ser obedientes y no dar de sus bienes a los pobres y afligidos.",
+        "Haber discutido entre ellos y haber desobedecido a José Smith.",
+        "No haber construido el templo en el tiempo señalado.",
+        "No haber defendido sus tierras y haber huido de Misuri."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué enseñanza se relaciona con la experiencia de la hermana González?",
+      "question": "¿Con qué propósito, según Doctrina y Convenios 105:10, debían esperar los élderes un tiempo antes de la redención de Sion?",
       "options": [
-        "Que la prueba de la fe trae bendiciones",
-        "Que el esfuerzo nunca vale la pena",
-        "Que Dios no responde",
-        "Que los resultados siempre son inmediatos"
+        "Para reunir los recursos necesarios para el viaje.",
+        "Para prepararse, ser instruidos con mayor perfección y adquirir experiencia.",
+        "Para que la oposición en Misuri disminuyera.",
+        "Para permitir que más miembros se unieran al grupo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué preparación necesitaban los santos antes de redimir Sion según DyC 105:12–13, 18–19?",
+      "question": "¿Qué faltaba, según Doctrina y Convenios 105:11, antes de que la redención de Sion pudiera llevarse a cabo?",
       "options": [
-        "Ser investidos con poder de lo alto",
-        "Tener más soldados",
-        "Esperar ayuda política",
-        "Construir casas nuevas"
+        "Que los santos recuperaran sus propiedades por vía legal.",
+        "Que se completara la traducción de la Biblia.",
+        "Que los élderes fueran investidos con poder de lo alto.",
+        "Que se organizara formalmente el Cuórum de los Doce."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué principio enseña Éter 12:6 sobre la fe?",
+      "question": "El élder Christofferson enseñó que «gran parte de la obra de establecer Sion consiste en nuestros esfuerzos individuales por llegar a ser los puros de corazón». ¿Qué desplaza esa afirmación?",
       "options": [
-        "La fe se prueba antes de recibir el testimonio",
-        "La fe no es necesaria",
-        "La fe siempre trae resultados inmediatos",
-        "La fe es inútil"
+        "La responsabilidad de los líderes hacia los miembros comunes.",
+        "La importancia del lugar geográfico donde se establece Sion.",
+        "La necesidad de que los santos se congreguen en un mismo sitio.",
+        "El foco de una obra colectiva y externa hacia el trabajo personal de cada miembro."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Nicolás lleva meses estancado en un objetivo espiritual y culpa a las circunstancias y a la falta de apoyo. Según el diagnóstico de Doctrina y Convenios 105:3, ¿qué pregunta le resulta más útil?",
+      "options": [
+        "Qué es lo que a él le falta aprender para que eso avance.",
+        "Cuánto tiempo más debería esperar antes de abandonar.",
+        "Si el objetivo era realista desde el principio.",
+        "Quién es el responsable de que las circunstancias no cambien."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué beneficio mencionó Brigham Young tras participar en el Campamento de Israel?",
+      "id": 6,
+      "question": "Doctrina y Convenios 105:9–12 presenta una demora que después dio lugar a la investidura del templo de Kirtland. ¿Qué muestra esa secuencia sobre las demoras del Señor?",
       "options": [
-        "Recibió conocimiento y experiencia espiritual",
-        "No obtuvo nada",
-        "Perdió tiempo",
-        "Se desanimó"
+        "Que se anuncian de antemano para que nadie se desanime.",
+        "Que pueden ser el tiempo necesario para construir lo que todavía falta.",
+        "Que siempre indican una falta que debe ser corregida.",
+        "Que su duración depende del nivel de fe del pueblo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 105:3 señala la falta de cuidado hacia los pobres, y el élder Christofferson define la obra de Sion como llegar a ser puros de corazón. ¿Qué principio común forman las dos ideas?",
+      "options": [
+        "Que la pureza de corazón se demuestra principalmente en la obediencia formal.",
+        "Que las faltas colectivas no comprometen a los individuos fieles.",
+        "Que la condición para Sion no es lo que el pueblo logra, sino en qué clase de pueblo se convierte.",
+        "Que la ayuda a los pobres es el único requisito para establecer Sion."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

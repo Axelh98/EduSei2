@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-101-1-42",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En diciembre de 1833, los santos habían sido expulsados del condado de Jackson. Habían perdido casas, cosechas y la tierra que creían que era Sion. En ese contexto llega la sección 101, y el Señor empieza explicando algo difícil de escuchar: permitió la tribulación «por motivo de sus transgresiones» (versículo 2), pero enseguida agrega que era preciso que fueran disciplinados y probados «así como Abraham, a quien se le mandó ofrecer a su único hijo».",
+        "Es una combinación incómoda: hay una parte de responsabilidad propia y hay una parte que es prueba, sin culpa. La revelación no separa las dos con precisión, y probablemente por eso resulta tan aplicable. Casi ninguna dificultad real viene con la etiqueta de cuál de las dos es.",
+        "Lo que sí queda claro es qué hacer mientras tanto. El versículo 16 dice: «quedaos tranquilos y sabed que yo soy Dios». Y los versículos 36 al 38 dan la instrucción completa: no temer ni aun a la muerte, no afanarse por el cuerpo sino por el alma, y buscar siempre la faz del Señor. Para gente que acababa de perder todo lo material, esa era una manera muy concreta de decirles dónde poner el peso."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 101:16",
+          "texto": "Consuélense, pues, vuestros corazones en lo concerniente a Sion, porque toda carne está en mis manos; quedaos tranquilos y sabed que yo soy Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=spa&id=p16#p16"
+        },
+        {
+          "referencia": "Doctrina y Convenios 101:4",
+          "texto": "Por tanto, es preciso que sean disciplinados y probados, así como Abraham, a quien se le mandó ofrecer a su único hijo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=spa&id=p4#p4"
+        },
+        {
+          "referencia": "Doctrina y Convenios 101:36–38",
+          "texto": "Por tanto, no temáis ni aun a la muerte; porque en este mundo vuestro gozo no es completo, pero en mí vuestro gozo es cumplido. De manera que no os afanéis por el cuerpo, ni por la vida del cuerpo; mas afanaos por el alma y por la vida del alma. Y buscad siempre la faz del Señor, para que con paciencia retengáis vuestras almas, y tendréis vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=spa&id=p36-p38#p36"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Ulisses Soares",
+      "fuente": "«La perdurable compasión del Salvador», Conferencia General, octubre de 2021 (Liahona, noviembre de 2021, pág. 15)",
+      "texto": "A diferencia de ustedes y de mí, Cristo es capaz de ver claramente todas las facetas de una situación determinada. Aunque Él conoce todas nuestras debilidades, el Salvador no nos condena precipitadamente, sino que continúa trabajando con nosotros con compasión a lo largo del tiempo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/14soares?lang=spa&id=p13#p13"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "A gente que acababa de perder su casa, el Señor le dijo «quedaos tranquilos y sabed que yo soy Dios». No es una frase para poner en un cuadro: es una instrucción para el momento en que uno no entiende nada de lo que está pasando. Y viene con una precisión útil: afanaos por el alma, no por el cuerpo. Cuando esta semana algo se te salga de control, probá esa secuencia antes que la reacción automática: quedarte quieto, reconocer quién sostiene todo, y recién después decidir."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "El Señor menciona dos causas de la tribulación: las transgresiones del pueblo y la necesidad de ser probados. ¿Por qué te parece que no las separa con más precisión?",
+        "¿Qué te genera la comparación con Abraham, «a quien se le mandó ofrecer a su único hijo»?",
+        "«Quedaos tranquilos y sabed que yo soy Dios». ¿Cuál es tu reacción habitual cuando algo se sale de control?",
+        "El élder Soares dice que el Salvador «no nos condena precipitadamente». ¿En qué se diferencia eso de cómo nos juzgamos a nosotros mismos?",
+        "El versículo 37 pide afanarse por el alma y no por el cuerpo. ¿En cuál de los dos gastás más energía en una semana normal?",
+        "¿Qué situación tenés hoy sin resolver? Probá esta semana quedarte quieto antes de reaccionar. ¿Cuándo lo vas a intentar?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Por qué permitió el Señor que los santos sufrieran según DyC 101:1–2, 6–8?",
+      "question": "¿Qué instrucción da el Señor en Doctrina y Convenios 101:16 a los santos expulsados de sus casas?",
       "options": [
-        "Por sus transgresiones y para probar su fe",
-        "Porque no los amaba",
-        "Porque no tenía poder",
-        "Por causas ajenas a ellos"
+        "Que regresen a reclamar sus tierras sin demora.",
+        "Que se consuelen, porque toda carne está en Sus manos: «quedaos tranquilos y sabed que yo soy Dios».",
+        "Que identifiquen a los responsables y presenten cargos.",
+        "Que abandonen definitivamente la idea de establecer Sion en Misuri."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué enseña DyC 101:9, 12–16 sobre el carácter de Cristo?",
+      "question": "Doctrina y Convenios 101:4 compara la prueba de los santos con una experiencia del Antiguo Testamento. ¿Con cuál?",
       "options": [
-        "Que tiene compasión y misericordia por los que han pecado",
-        "Que condena sin misericordia",
-        "Que ignora a los débiles",
-        "Que solo ayuda a los perfectos"
+        "Con la prueba de Job y la pérdida de sus bienes.",
+        "Con el cautiverio de Israel en Egipto.",
+        "Con el mandato a Abraham de ofrecer a su único hijo.",
+        "Con la travesía de Israel por el desierto."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué verdad enseña Hebreos 4:14–16 sobre Jesucristo?",
+      "question": "Según Doctrina y Convenios 101:36–38, ¿en qué deben ocuparse los santos en lugar de afanarse por el cuerpo?",
       "options": [
-        "Que es nuestro Sumo Sacerdote compasivo",
-        "Que no entiende nuestras debilidades",
-        "Que no intercede por nosotros",
-        "Que no tiene poder"
+        "En documentar las injusticias sufridas para reclamarlas después.",
+        "En prepararse para las tribulaciones que aún estaban por venir.",
+        "En reconstruir lo que perdieron con la mayor rapidez posible.",
+        "En el alma y en la vida del alma, buscando siempre la faz del Señor."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué perspectiva eterna ofrece DyC 101:16–19?",
+      "question": "El élder Soares enseñó que el Salvador «no nos condena precipitadamente, sino que continúa trabajando con nosotros con compasión a lo largo del tiempo». ¿Qué corrige esa enseñanza?",
       "options": [
-        "El recogimiento de Israel traerá esperanza",
-        "No habrá futuro",
-        "El sufrimiento nunca terminará",
-        "El mundo seguirá igual"
+        "La idea de que el juicio del Salvador es inmediato y basado en lo aparente.",
+        "La idea de que el Salvador desconoce nuestras debilidades.",
+        "La idea de que la compasión divina excluye toda corrección.",
+        "La idea de que el arrepentimiento debe completarse con rapidez."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué enseña DyC 101:27–38 sobre el Milenio?",
+      "question": "Franco perdió algo importante y no logra saber si fue consecuencia de sus decisiones o simplemente una prueba. Según Doctrina y Convenios 101:2 y 4, ¿qué le muestra la revelación?",
       "options": [
-        "Que la Segunda Venida traerá paz y justicia",
-        "Que nada cambiará",
-        "Que será un tiempo de caos",
-        "Que no habrá consuelo"
+        "Que conviene esperar a que pase el tiempo para poder juzgarlo con claridad.",
+        "Que la distinción entre ambas cosas suele no ser nítida, y que la instrucción para el momento es la misma.",
+        "Que toda tribulación tiene su origen en una transgresión que hay que identificar.",
+        "Que las pruebas se distinguen porque no producen sufrimiento real."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Ana reacciona a cada problema tratando de resolverlo de inmediato y termina más agotada que antes. Según Doctrina y Convenios 101:16, ¿qué paso le falta?",
+      "options": [
+        "Aceptar que algunos problemas no tienen solución posible.",
+        "Pedir ayuda a alguien con más experiencia antes de actuar.",
+        "Detenerse y reconocer que la situación está en manos de Dios, antes de decidir qué hacer.",
+        "Postergar la decisión hasta tener toda la información disponible."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 101:4 presenta la prueba como algo preciso, y el élder Soares describe a un Salvador que trabaja con nosotros con compasión a lo largo del tiempo. ¿Qué principio común forman las dos ideas?",
+      "options": [
+        "Que las pruebas cesan cuando la persona demuestra suficiente fe.",
+        "Que la compasión divina se manifiesta sobre todo después de la prueba.",
+        "Que la disciplina del Señor se aplica únicamente a quienes transgreden.",
+        "Que la prueba y la compasión no se oponen: forman parte del mismo trato de Dios con Sus hijos."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

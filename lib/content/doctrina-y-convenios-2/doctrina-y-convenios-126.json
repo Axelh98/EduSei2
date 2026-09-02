@@ -1,116 +1,136 @@
 {
   "id": "doctrina-y-convenios-126",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Doctrina y Convenios 126 tiene tres versículos y está dirigida a una sola persona. En julio de 1841, el Señor le dijo a Brigham Young: «ya no te es requerido separarte de tu familia como en lo pasado, pues tu ofrenda me es aceptable».",
+        "Para entender el peso de esa frase hay que saber qué había hecho. Brigham había salido a servir una misión a Inglaterra estando tan enfermo que no podía caminar solo hasta el carro. Era viudo, con dos hijas pequeñas a cargo. Escribió después que si había entre los santos alguien más pobre que él, era porque no tenía nada: no tenía zapatos —solo un par de botas prestadas— ni ropa de invierno más que un saco casero usado durante años. Dijo: «Yo estaba dispuesto a irme a Inglaterra o morir al intentarlo».",
+        "Esa misión produjo entre siete y ocho mil bautismos y sentó las bases de la obra misional en Europa. Y cuando volvió, el Señor no le pidió más: le dijo que velara «especialmente por tu familia, desde ahora en adelante y para siempre». El mismo Dios que le pidió el sacrificio le puso el límite."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 126:1",
+          "texto": "Querido y muy amado hermano Brigham Young, de cierto, así te dice el Señor: Brigham, mi siervo, ya no te es requerido separarte de tu familia como en lo pasado, pues tu ofrenda me es aceptable.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/126?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 126:2",
+          "texto": "He visto tu obra y tu afán en tus viajes por mi nombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/126?lang=spa&id=p2#p2"
+        },
+        {
+          "referencia": "Doctrina y Convenios 126:3",
+          "texto": "Por tanto, te mando enviar mi palabra a todas partes y velar especialmente por tu familia, desde ahora en adelante y para siempre. Amén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/126?lang=spa&id=p3#p3"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Cómo ser Santos de los Últimos Días ejemplares», Conferencia General, octubre de 2018 (Liahona, noviembre de 2018, pág. 113)",
+      "texto": "Consideren la gran misericordia y bondad de Dios, quien, antes de la fundación del mundo, proveyó una manera para dar las bendiciones del templo a aquellos que murieron sin un conocimiento del Evangelio.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/becoming-exemplary-latter-day-saints?lang=spa&id=p7#p7"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Tres versículos para decirle a un hombre que ya había dado suficiente. «He visto tu obra y tu afán»: el Señor lleva la cuenta de lo que nadie más ve. Y después le manda algo que suena menos heroico que una misión en Inglaterra pero que Él pone al mismo nivel: velar especialmente por su familia. Preguntate esta semana si estás descuidando lo cercano por ocuparte de lo que se nota más, y corregí una sola cosa en tu casa."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Brigham Young salió a su misión enfermo, viudo y sin zapatos. ¿Qué te genera ese dato?",
+        "«He visto tu obra y tu afán». ¿Qué te parece que el Señor lleve esa cuenta aunque nadie más la lleve?",
+        "El Señor le mandó velar «especialmente por tu familia». ¿Por qué te parece que lo puso como mandamiento y no como permiso?",
+        "¿Hay algo cercano que estés descuidando por ocuparte de lo que se nota más?",
+        "¿Alguna vez sentiste que ya diste suficiente en algo? ¿Cómo lo supiste?",
+        "Elegí una cosa concreta que vas a corregir en tu casa esta semana. ¿Cuál es?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué instrucción recibe Brigham Young en DyC 125?",
+      "question": "¿A quién está dirigida la revelación de Doctrina y Convenios 126?",
       "options": [
-        "Establecer y presidir una estaca en Iowa",
-        "Regresar inmediatamente a Nauvoo",
-        "Servir una misión en el extranjero",
-        "Organizar la Sociedad de Socorro"
+        "A Hyrum Smith.",
+        "A Brigham Young.",
+        "A Heber C. Kimball.",
+        "A Wilford Woodruff."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué principio enseña DyC 125 sobre la organización de la Iglesia?",
+      "question": "¿Qué le dice el Señor en Doctrina y Convenios 126:1?",
       "options": [
-        "El Señor establece Sion mediante orden y liderazgo",
-        "La Iglesia crece sin estructura",
-        "La organización es innecesaria",
-        "La autoridad es opcional"
+        "Que debía trasladarse a Nauvoo con su familia.",
+        "Que debía preparar una nueva misión a las Islas Británicas.",
+        "Que ya no le era requerido separarse de su familia como en lo pasado, porque su ofrenda era aceptable.",
+        "Que sería llamado a presidir el Cuórum de los Doce."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué consejo da el Señor a José Smith en DyC 126?",
+      "question": "¿Qué dos cosas manda el Señor a Brigham Young en Doctrina y Convenios 126:3?",
       "options": [
-        "Que sus sacrificios son aceptados y no se le pedirá más por un tiempo",
-        "Que debe continuar viajando constantemente",
-        "Que debe abandonar Nauvoo",
-        "Que su obra ha concluido"
+        "Presidir la construcción del templo y organizar a los santos.",
+        "Registrar la historia de la Iglesia y enseñar a los élderes.",
+        "Recaudar los diezmos y administrar los bienes de la Iglesia.",
+        "Enviar Su palabra a todas partes y velar especialmente por su familia."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué enseñanza transmite DyC 126 sobre el conocimiento del Señor?",
+      "question": "Brigham Young salió a su misión enfermo, viudo, con dos hijas y sin zapatos propios. ¿Qué revela el contexto sobre el sentido de «tu ofrenda me es aceptable»?",
       "options": [
-        "El Señor conoce el corazón y los sacrificios de Sus siervos",
-        "El Señor solo ve las obras externas",
-        "El sacrificio no es reconocido",
-        "El esfuerzo humano pasa desapercibido"
+        "Que el Señor reconoce el costo real de lo que cada persona entrega, no solo el resultado obtenido.",
+        "Que las misiones de esa época exigían un sacrificio mayor que las actuales.",
+        "Que la aceptación de la ofrenda dependía del número de bautismos logrados.",
+        "Que el Señor esperaba que otros asumieran la misión en su lugar."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué principio práctico podemos aplicar hoy de DyC 125–126?",
+      "question": "El Señor le manda a Brigham Young «velar especialmente por tu familia» después de años de servicio. ¿Qué muestra esa instrucción?",
       "options": [
-        "Confiar en que el Señor dirige Su obra y reconoce nuestro esfuerzo",
-        "Buscar reconocimiento humano",
-        "Medir el servicio por resultados visibles",
-        "Evitar responsabilidades"
+        "Que su familia había presentado una queja ante los líderes.",
+        "Que el cuidado de la familia forma parte del mandato divino y no compite con él.",
+        "Que su servicio anterior había sido excesivo y debía compensarlo.",
+        "Que las responsabilidades familiares reemplazan a las de la Iglesia con la edad."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,
-      "question": "¿Qué instrucción recibe Brigham Young en DyC 125?",
+      "question": "Camila dedica todo su tiempo a las actividades de la Iglesia y casi no está en su casa. Según Doctrina y Convenios 126:3, ¿qué le conviene revisar?",
       "options": [
-        "Establecer y presidir una estaca en Iowa",
-        "Regresar inmediatamente a Nauvoo",
-        "Servir una misión en el extranjero",
-        "Organizar la Sociedad de Socorro"
+        "Que el servicio en la Iglesia tiene prioridad sobre lo familiar.",
+        "Que conviene alternar semanas de servicio y semanas en casa.",
+        "Que velar por la familia es parte del mandato del Señor, no una alternativa a servirle.",
+        "Que debería reducir su participación hasta que su familia lo pida."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 7,
-      "question": "¿Qué principio enseña DyC 125 sobre la organización de la Iglesia?",
+      "question": "Doctrina y Convenios 126:2 dice «he visto tu obra y tu afán», y 126:3 manda velar por la familia. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "El Señor establece Sion mediante orden y liderazgo",
-        "La Iglesia crece sin estructura",
-        "La organización es innecesaria",
-        "La autoridad es opcional"
+        "Que el servicio prolongado exime de responsabilidades futuras.",
+        "Que las revelaciones personales se conceden solo a los líderes.",
+        "Que la familia y la obra del Señor compiten por el mismo tiempo.",
+        "Que el Señor conoce el esfuerzo real de cada persona y adapta lo que le pide a su situación."
       ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 8,
-      "question": "¿Qué consejo da el Señor a José Smith en DyC 126?",
-      "options": [
-        "Que sus sacrificios son aceptados y no se le pedirá más por un tiempo",
-        "Que debe continuar viajando constantemente",
-        "Que debe abandonar Nauvoo",
-        "Que su obra ha concluido"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 9,
-      "question": "¿Qué enseñanza transmite DyC 126 sobre el conocimiento del Señor?",
-      "options": [
-        "El Señor conoce el corazón y los sacrificios de Sus siervos",
-        "El Señor solo ve las obras externas",
-        "El sacrificio no es reconocido",
-        "El esfuerzo humano pasa desapercibido"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 10,
-      "question": "¿Qué principio práctico podemos aplicar hoy de DyC 125–126?",
-      "options": [
-        "Confiar en que el Señor dirige Su obra y reconoce nuestro esfuerzo",
-        "Buscar reconocimiento humano",
-        "Medir el servicio por resultados visibles",
-        "Evitar responsabilidades"
-      ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }

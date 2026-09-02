@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "D&C 68:25–31 contiene uno de los mandamientos más directos a los padres en toda la Escritura restaurada: enseñar a sus hijos el evangelio, la doctrina del arrepentimiento, la fe en Cristo, el bautismo y el don del Espíritu Santo antes de que cumplan ocho años. El Señor agrega algo significativo: si los padres no enseñan estas cosas, el pecado recae sobre ellos. Esta responsabilidad no puede delegarse completamente a la Iglesia ni al Seminario. Para los jóvenes en el aula, esta lección tiene una aplicación doble: mirar hacia atrás con gratitud si sus padres sí les enseñaron el evangelio, y mirar hacia adelante con la perspectiva de que algún día ellos serán los padres responsables de transmitir la fe. También abre una reflexión sobre cómo los jóvenes que no tienen padres miembros pueden ser los primeros en crear esa tradición familiar."
+      "contenido": [
+        "Doctrina y Convenios 68:25–31 contiene uno de los mandamientos más directos a los padres en toda la Escritura restaurada: enseñar a sus hijos el evangelio, la doctrina del arrepentimiento, la fe en Cristo, el bautismo y el don del Espíritu Santo antes de que cumplan ocho años. El Señor agrega algo significativo: si los padres no lo enseñan, el pecado recae sobre ellos. Esa responsabilidad no se puede delegar por completo a la Iglesia ni al Seminario.",
+        "Para los jóvenes en el aula, la lección tiene una aplicación doble: mirar hacia atrás con gratitud si sus padres sí les enseñaron el evangelio, y mirar hacia adelante sabiendo que algún día serán ellos los responsables de transmitir la fe. También abre una reflexión importante para quienes no tienen padres miembros: pueden ser los primeros de su familia en crear esa tradición, y lo que hoy aprenden en Seminario es, literalmente, el material con el que van a enseñar a sus propios hijos."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿Qué te dice D&C 68:25 sobre la responsabilidad de los padres que no enseñan el evangelio a sus hijos?",
         "Si algún día tenés hijos, ¿qué principio del evangelio es el primero que querés enseñarles? ¿Por qué ese?",
         "¿Hay algo del evangelio que vos aprendiste en el Seminario que querés asegurarte de transmitir a tu familia futura?",
-        "¿Cómo podés empezar a prepararte hoy para ser el tipo de padre o madre que D&C 68:28 describe?"
+        "¿Cómo podés empezar a prepararte hoy para ser el tipo de padre o madre que D&C 68:28 describe?",
+        "¿Qué es lo que hoy sabés del evangelio y no querés que se pierda en tu familia? Escribilo como se lo explicarías a un chico de siete años."
       ]
     }
   ],
@@ -47,12 +51,12 @@
       "id": 1,
       "question": "D&C 68:25 establece un deber específico de los padres en Sion. ¿Cuáles son los tres elementos doctrinales que deben enseñar a sus hijos antes de los ocho años?",
       "options": [
-        "El arrepentimiento, la fe en Cristo y el bautismo por inmersión.",
         "La oración, el diezmo y la asistencia a la Iglesia.",
         "La historia de la Iglesia, el Libro de Mormón y los mandamientos básicos.",
-        "La creación, la caída y la Expiación como etapas del plan de salvación."
+        "La creación, la caída y la Expiación como etapas del plan de salvación.",
+        "El arrepentimiento, la fe en Cristo y el bautismo por inmersión."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
@@ -80,34 +84,34 @@
       "id": 4,
       "question": "D&C 68:25 dice que si los padres no enseñan esas cosas a sus hijos, el pecado recae sobre ellos. ¿Qué nivel de responsabilidad establece eso para los padres — y para los futuros padres que hoy son jóvenes?",
       "options": [
+        "Que el pecado sobre los padres es solo una expresión metafórica sin consecuencias doctrinales concretas.",
         "Que la responsabilidad es compartida equitativamente entre los padres y la Iglesia.",
         "Que la enseñanza espiritual del hogar es una responsabilidad sagrada con consecuencias espirituales reales — no es delegable, y empezar a prepararla ahora mientras se es joven tiene sentido.",
-        "Que la responsabilidad aplica solo en zonas geográficas llamadas 'Sion'.",
-        "Que el pecado sobre los padres es solo una expresión metafórica sin consecuencias doctrinales concretas."
+        "Que la responsabilidad aplica solo en zonas geográficas llamadas 'Sion'."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Valentina tiene hermanos pequeños y sus padres trabajan mucho. Según D&C 68:28 y el principio de la lección, ¿qué puede hacer ella ahora, antes de ser madre?",
       "options": [
-        "Nada — la responsabilidad de D&C 68 es solo de los padres, no de los hermanos mayores.",
-        "Puede ser un instrumento en el hogar para enseñar a orar y andar rectamente, y al mismo tiempo ir construyendo el tipo de hogar espiritual que ella quiere tener algún día.",
         "Debería esperar a tener su propia familia antes de aplicar estos principios.",
-        "Puede hablar con el obispo para que asigne a alguien de la Iglesia que ayude a sus hermanos."
+        "Puede hablar con el obispo para que asigne a alguien de la Iglesia que ayude a sus hermanos.",
+        "Nada — la responsabilidad de D&C 68 es solo de los padres, no de los hermanos mayores.",
+        "Puede ser un instrumento en el hogar para enseñar a orar y andar rectamente, y al mismo tiempo ir construyendo el tipo de hogar espiritual que ella quiere tener algún día."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Nicolás dice que 'el Seminario y los maestros de la Iglesia son suficientes para enseñarle el evangelio a sus hijos futuros'. D&C 68:25 le responde directamente. ¿Cómo?",
       "options": [
-        "Que tiene razón — la Iglesia está bien equipada para asumir toda la responsabilidad espiritual.",
         "Que el mandamiento de enseñar recae sobre los padres, no sobre la Iglesia — delegar completamente esa responsabilidad es exactamente lo que D&C 68 previene.",
         "Que debería estudiar más en el Seminario para estar mejor preparado como futuro padre.",
-        "Que la responsabilidad de D&C 68 aplica solo en circunstancias donde no hay Iglesia organizada."
+        "Que la responsabilidad de D&C 68 aplica solo en circunstancias donde no hay Iglesia organizada.",
+        "Que tiene razón — la Iglesia está bien equipada para asumir toda la responsabilidad espiritual."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

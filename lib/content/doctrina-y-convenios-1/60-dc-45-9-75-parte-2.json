@@ -38,7 +38,8 @@
         "¿Por qué las vírgenes sabias no podían prestarle el aceite a las insensatas? ¿Qué nos enseña eso sobre la preparación espiritual?",
         "Si midieras el aceite en tu lámpara hoy, ¿cómo lo describirías: lleno, a la mitad, casi vacío? ¿Qué hábito diario lo está llenando o vaciando?",
         "¿Qué hábito espiritual concreto querés fortalecer esta semana para llenar tu lámpara un poco más?",
-        "¿Qué significa para vos que la Nueva Jerusalén sea 'un lugar de seguridad para los santos'? ¿Cómo te preparás para ser parte de ese pueblo?"
+        "¿Qué significa para vos que la Nueva Jerusalén sea 'un lugar de seguridad para los santos'? ¿Cómo te preparás para ser parte de ese pueblo?",
+        "¿A qué hora exacta de tu día vas a poner ese hábito que llena la lámpara, para que no dependa de que sobre tiempo?"
       ]
     }
   ],
@@ -47,45 +48,45 @@
       "id": 1,
       "question": "D&C 45:56–57 aplica la parábola de las Diez Vírgenes a los últimos días. Según esos versículos, ¿qué caracteriza a las vírgenes sabias — no el aceite en sí, sino la cualidad que las distingue?",
       "options": [
+        "Que tenían lámparas más grandes que las insensatas.",
         "Que recibieron la verdad y tomaron al Espíritu Santo por su guía, y no fueron engañadas.",
         "Que nacieron en familias con tradición religiosa fuerte.",
-        "Que fueron las primeras en prepararse y llegaron con tiempo de sobra.",
-        "Que tenían lámparas más grandes que las insensatas."
+        "Que fueron las primeras en prepararse y llegaron con tiempo de sobra."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "D&C 45:66–67 describe la Nueva Jerusalén con tres denominaciones específicas. ¿Cuáles son?",
       "options": [
+        "Nueva Sion, ciudad del Templo y tierra prometida de los últimos días.",
         "Ciudad del Salvador, refugio de Israel y tierra de los convenios.",
         "Tierra de paz, ciudad de refugio y lugar de seguridad para los santos.",
-        "Capital de Sion, ciudad del Milenio y morada eterna del pueblo del Señor.",
-        "Nueva Sion, ciudad del Templo y tierra prometida de los últimos días."
+        "Capital de Sion, ciudad del Milenio y morada eterna del pueblo del Señor."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Las cinco vírgenes insensatas no pudieron obtener aceite prestado de las sabias. ¿Por qué ese detalle es tan importante doctrinalmente?",
       "options": [
+        "Porque en la parábola el tiempo se acabó antes de que pudieran compartir.",
         "Porque demuestra que las vírgenes sabias eran egoístas y no querían compartir.",
         "Porque el aceite era un recurso escaso que no había suficiente para todas.",
-        "Porque la preparación espiritual acumulada con el tiempo no puede transferirse — es el resultado de decisiones propias que nadie puede dar ni recibir de otra persona.",
-        "Porque en la parábola el tiempo se acabó antes de que pudieran compartir."
+        "Porque la preparación espiritual acumulada con el tiempo no puede transferirse — es el resultado de decisiones propias que nadie puede dar ni recibir de otra persona."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Qué representa concretamente el 'aceite' en la parábola según el principio de D&C 45:56–57?",
       "options": [
-        "Los recursos materiales acumulados para los tiempos difíciles.",
-        "El conocimiento teológico acumulado mediante el estudio de las Escrituras.",
         "La preparación espiritual construida con el tiempo mediante convenios activos, oración, estudio y servicio fiel.",
-        "La membresía en la Iglesia y la asistencia regular a las reuniones del domingo."
+        "La membresía en la Iglesia y la asistencia regular a las reuniones del domingo.",
+        "Los recursos materiales acumulados para los tiempos difíciles.",
+        "El conocimiento teológico acumulado mediante el estudio de las Escrituras."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -102,12 +103,12 @@
       "id": 6,
       "question": "Camila tiene buenos hábitos espirituales pero depende mucho del ambiente de su familia y de la Iglesia para mantenerlos. Cuando está de viaje o en situaciones donde nadie la anima, los abandona. Según D&C 45:56–57, ¿qué señal da eso sobre su aceite?",
       "options": [
+        "Que la dependencia del ambiente es normal y el Señor la compensará cuando la situación mejore.",
         "Que tiene suficiente aceite porque sus hábitos son buenos cuando las condiciones lo permiten.",
         "Que su aceite depende del ambiente externo — lo que necesita es que su preparación espiritual sea interior y autónoma, no condicionada a circunstancias favorables.",
-        "Que debería pedir a su familia que la acompañe en cada situación para mantener sus hábitos.",
-        "Que la dependencia del ambiente es normal y el Señor la compensará cuando la situación mejore."
+        "Que debería pedir a su familia que la acompañe en cada situación para mantener sus hábitos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,

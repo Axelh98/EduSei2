@@ -38,7 +38,8 @@
         "¿Por qué creés que el Señor instruyó a los santos a comprar terrenos y organizarse de manera práctica para construir Sion?",
         "¿Qué tiene que ver Sion con tu vida hoy, si es una ciudad que todavía no existe?",
         "¿Qué características de un 'pueblo de corazón puro' querés desarrollar vos esta semana?",
-        "¿Qué cosa pequeña pero real podrías hacer en tu hogar o barrio para contribuir a construir Sion desde adentro?"
+        "¿Qué cosa pequeña pero real podrías hacer en tu hogar o barrio para contribuir a construir Sion desde adentro?",
+        "Sion empieza por la convivencia diaria. ¿Con quién de tu casa necesitás arreglar algo esta semana para que ese lugar se parezca un poco más a un pueblo de un solo corazón?"
       ]
     }
   ],
@@ -58,45 +59,45 @@
       "id": 2,
       "question": "D&C 57:5 instruye a Sidney Gilbert sobre cómo establecerse en Independence. ¿Qué debía obtener y para qué propósito?",
       "options": [
-        "Una licencia para establecer una imprenta y distribuir el evangelio.",
         "Permiso del gobierno local para predicar en las calles de la ciudad.",
         "Una licencia para establecer un almacén y que los santos pudieran comprar la tierra en paz.",
-        "Un contrato de arrendamiento para construir el primer templo de Sion."
+        "Un contrato de arrendamiento para construir el primer templo de Sion.",
+        "Una licencia para establecer una imprenta y distribuir el evangelio."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "El presidente Nelson enseñó que 'Sion no es solo un lugar geográfico sino un pueblo'. ¿Qué implica eso sobre lo que los santos debían construir en Independence?",
+      "question": "El profeta José Smith enseñó que «nuestro objetivo principal debe ser la edificación de Sion». ¿Qué revela ese enunciado sobre lo que los santos debían construir en Independence?",
       "options": [
-        "Que la ciudad era lo único importante y el carácter personal era secundario.",
-        "Que la ciudad física era el símbolo — lo que realmente había que edificar era un pueblo de corazón puro que eligiera al Señor sobre todo.",
-        "Que la ubicación geográfica no tenía ninguna importancia real en el plan del Señor.",
-        "Que cualquier ciudad podía ser Sion con suficiente financiamiento y organización."
+        "Que cualquier ciudad podía llegar a ser Sion con suficiente organización y recursos.",
+        "Que la ciudad física era lo decisivo y el carácter de la gente, algo secundario.",
+        "Que la ciudad era el marco visible de una obra mayor: formar un pueblo dispuesto a poner al Señor por encima de todo.",
+        "Que el lugar geográfico no tenía ninguna importancia dentro del plan del Señor."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "El mandato de comprar terrenos y organizarse de manera práctica en D&C 57 enseña algo sobre cómo el Señor avanza Su obra. ¿Qué principio ilustra eso?",
       "options": [
-        "Que el Señor hace todo milagrosamente sin que Sus discípulos deban trabajar.",
-        "Que la visión del reino de Dios requiere trabajo práctico, organización y fe en acción — las visiones gloriosas se edifican con esfuerzo ordinario y fiel.",
         "Que el trabajo temporal es una carga que el Señor impone a los santos como prueba.",
-        "Que la Iglesia debe ser autosuficiente económicamente antes de poder avanzar su misión."
+        "Que la Iglesia debe ser autosuficiente económicamente antes de poder avanzar su misión.",
+        "Que el Señor hace todo milagrosamente sin que Sus discípulos deban trabajar.",
+        "Que la visión del reino de Dios requiere trabajo práctico, organización y fe en acción — las visiones gloriosas se edifican con esfuerzo ordinario y fiel."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "Agustín piensa que 'Sion es algo del futuro que no tiene que ver con mi vida hoy'. Según el principio del presidente Nelson, ¿qué le respondería el Señor?",
+      "question": "Agustina piensa que «Sion es algo del futuro que no tiene que ver con mi vida hoy». Según la enseñanza de José Smith sobre la edificación de Sion, ¿qué le falta ver?",
       "options": [
-        "Que tiene razón y debe esperar las instrucciones del profeta antes de hacer nada.",
-        "Que Sion empieza hoy, en el hogar de Agustín y en su barrio — ser de 'corazón puro' es algo que puede elegir ahora mismo, no cuando venga una ciudad futura.",
-        "Que la construcción de Sion es responsabilidad de los líderes, no de los jóvenes.",
-        "Que primero debe terminar su educación antes de preocuparse por contribuir a Sion."
+        "Que edificar Sion empieza en el hogar y en el barrio de hoy, con decisiones que ya están a su alcance.",
+        "Que la construcción de Sion corresponde a los líderes y no a los jóvenes de la Iglesia.",
+        "Que primero debe terminar sus estudios y recién después ocuparse de contribuir a Sion.",
+        "Que conviene esperar instrucciones concretas del profeta antes de hacer nada al respecto."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -113,12 +114,12 @@
       "id": 7,
       "question": "D&C 51 organiza la comunidad temporal en Ohio y D&C 57 establece el lugar de Sion en Misuri. ¿Qué patrón del Señor revelan esas dos revelaciones juntas sobre cómo Él edifica Su reino?",
       "options": [
-        "Que el Señor siempre revela primero los lugares y después organiza a las personas.",
         "Que la organización eclesiástica es más importante que el carácter personal en la construcción del reino.",
         "Que Ohio y Misuri son igualmente importantes en el plan del Señor para los últimos días.",
-        "Que el reino de Dios se edifica con orden concreto y práctico — tanto en las personas (D&C 51) como en los lugares (D&C 57) — la visión gloriosa requiere organización fiel en los detalles pequeños."
+        "Que el reino de Dios se edifica con orden concreto y práctico — tanto en las personas (D&C 51) como en los lugares (D&C 57) — la visión gloriosa requiere organización fiel en los detalles pequeños.",
+        "Que el Señor siempre revela primero los lugares y después organiza a las personas."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

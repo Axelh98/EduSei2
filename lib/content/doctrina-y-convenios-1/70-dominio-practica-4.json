@@ -3,7 +3,11 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "En esta sesión de práctica se consolidan los pasajes del Dominio de la Doctrina de las últimas semanas. El foco es la capacidad de uso en situaciones reales: no solo recitar versículos sino explicar la doctrina que contienen, conectarla con la vida del alumno y aplicarla a preguntas o situaciones concretas. Los pasajes en repaso incluyen D&C 45:3–5 sobre el Salvador como Intercesor, D&C 46:11–12 sobre los dones del Espíritu, y D&C 50:24 sobre la luz que crece. El dominio real se prueba cuando el versículo surge naturalmente en la conversación, no cuando se recita de memoria bajo presión."
+      "contenido": [
+        "En esta sesión de práctica se consolidan los pasajes del Dominio de la Doctrina de las últimas semanas. El foco está en la capacidad de uso en situaciones reales: no solo recitar versículos, sino explicar la doctrina que contienen, conectarla con la vida propia y aplicarla a preguntas concretas.",
+        "Los pasajes en repaso incluyen Doctrina y Convenios 45:3–5 sobre el Salvador como intercesor, 46:11–12 sobre los dones del Espíritu y 50:24 sobre la luz que crece. El dominio real se prueba cuando el versículo aparece con naturalidad en una conversación, no cuando se recita bajo presión en el aula.",
+        "Por eso conviene practicar en voz alta y con alguien delante: explicar un pasaje a otra persona revela en segundos si uno lo entendió o si solo memorizó las palabras, y esa diferencia no se nota leyendo en silencio. Si al explicarlo tenés que volver al texto para no perderte, todavía estás en la etapa de memorizar; si podés cambiar el ejemplo según con quién estés hablando, entonces el pasaje ya es tuyo."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -29,7 +33,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El Dominio de la Doctrina es equipamiento espiritual permanente. Cada pasaje que realmente entendés y podés usar es una herramienta disponible para toda la vida. Esta sesión de práctica no es un repaso escolar — es una verificación de qué tan listos están esos versículos para ser usados cuando más se necesiten."
+      "contenido": [
+        "El Dominio de la Doctrina es equipamiento espiritual permanente. Cada pasaje que entendés de verdad y podés usar queda disponible para toda la vida, y sobre todo para los momentos que nadie planifica: una pregunta incómoda en el colegio, una noche difícil, un amigo que se está alejando. Esta sesión de práctica no es un repaso escolar, es una verificación de qué tan listos están esos versículos para cuando hagan falta. Antes de irte del aula, elegí el pasaje que peor te salió hoy y decidí a quién se lo vas a explicar en voz alta esta semana."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -38,7 +44,8 @@
         "Si alguien te dijera 'no sé si tengo dones espirituales', ¿qué versículo usarías y cómo lo explicarías?",
         "¿Cuándo fue la última vez que usaste un pasaje memorizado fuera del aula de Seminario?",
         "¿Qué versículo todavía no tenés bien dominado? ¿Cuál es tu plan para aprenderlo esta semana?",
-        "¿Cómo explicarías D&C 50:24 a alguien que siente que su fe no está creciendo?"
+        "¿Cómo explicarías D&C 50:24 a alguien que siente que su fe no está creciendo?",
+        "Elegí uno de los tres pasajes y explicáselo hoy a alguien de tu casa, en menos de un minuto y sin leerlo. ¿Cuál elegís y a quién?"
       ]
     }
   ],
@@ -58,12 +65,12 @@
       "id": 2,
       "question": "Si alguien te pregunta '¿por qué confías en que el Señor cumplirá Sus promesas?', ¿cuál de los pasajes del Dominio de la Doctrina responde eso más directamente?",
       "options": [
-        "D&C 6:36 — 'No temas, pequeño rebaño.'",
         "D&C 8:2–3 — habla a la mente y al corazón.",
         "D&C 82:10 — 'Yo, el Señor, estoy obligado cuando hacéis lo que os digo.'",
-        "D&C 18:10–11 — el valor de las almas."
+        "D&C 18:10–11 — el valor de las almas.",
+        "D&C 6:36 — 'No temas, pequeño rebaño.'"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 3,
@@ -80,45 +87,45 @@
       "id": 4,
       "question": "¿Qué hace que un versículo del Dominio esté 'dominado' de verdad, más allá de poder recitarlo de memoria?",
       "options": [
-        "Haberlo copiado a mano tres veces como técnica de memorización.",
-        "Poder explicar su principio central con tus propias palabras, ubicarlo en su contexto y aplicarlo a una situación real sin necesitar buscarlo.",
         "Saber cuántos versículos tiene la sección en la que aparece.",
-        "Haber escuchado tres sermones diferentes sobre ese versículo."
+        "Haber escuchado tres sermones diferentes sobre ese versículo.",
+        "Haberlo copiado a mano tres veces como técnica de memorización.",
+        "Poder explicar su principio central con tus propias palabras, ubicarlo en su contexto y aplicarlo a una situación real sin necesitar buscarlo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Nicolás memorizó D&C 46:11–12 pero nunca lo usó fuera del Seminario. Esta semana su hermana menor le dice que siente que no tiene ningún don especial. ¿Cómo podría Nicolás usar ese versículo?",
       "options": [
-        "Recitándoselo en voz alta para que ella lo memorice también.",
         "Diciéndole que el versículo dice que a todos se les da un don — y ayudándola a identificar cuál podría ser el suyo.",
         "Guardándolo para una situación más importante porque el problema de su hermana es menor.",
-        "Enviándole el versículo por mensaje de texto sin explicación para que ella lo interprete."
+        "Enviándole el versículo por mensaje de texto sin explicación para que ella lo interprete.",
+        "Recitándoselo en voz alta para que ella lo memorice también."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Renata quiere usar un versículo del Dominio de la Doctrina en su próxima lección de Seminario. ¿Cuál es la señal de que lo usó bien, no solo que lo citó?",
       "options": [
-        "Que la clase aplaudió después de la cita.",
         "Que recitó el versículo sin errores y dio la referencia completa.",
         "Que el versículo iluminó el principio de la lección y los alumnos pudieron conectarlo con su propia vida.",
-        "Que usó el versículo más largo disponible para impresionar al maestro."
+        "Que usó el versículo más largo disponible para impresionar al maestro.",
+        "Que la clase aplaudió después de la cita."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "El Dominio de la Doctrina no es solo memorizar — es equiparse para la vida. ¿Cuál es la diferencia entre un versículo que 'aprendiste' y uno que realmente 'dominas'?",
       "options": [
-        "No hay diferencia práctica — ambos producen el mismo resultado espiritual.",
         "El versículo aprendido fue revisado una vez; el dominado fue revisado más de diez veces.",
         "El versículo aprendido está en el corazón; el dominado solo está en la mente.",
-        "El versículo aprendido puede recitarse; el dominado puede usarse — aparece naturalmente en conversaciones, decisiones y momentos de necesidad, sin tener que buscarlo."
+        "El versículo aprendido puede recitarse; el dominado puede usarse — aparece naturalmente en conversaciones, decisiones y momentos de necesidad, sin tener que buscarlo.",
+        "No hay diferencia práctica — ambos producen el mismo resultado espiritual."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

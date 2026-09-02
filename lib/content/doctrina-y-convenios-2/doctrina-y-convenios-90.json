@@ -1,83 +1,136 @@
 {
   "id": "doctrina-y-convenios-90",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En marzo de 1833, el Señor organizó la Primera Presidencia y confirió a José Smith las llaves del reino, con una instrucción que cambiaba el modo de gobernar la Iglesia: las llaves «nunca serán quitadas de ti mientras vivas» y las decisiones debían tomarse en consejo, no en solitario.",
+        "Ese es el sistema que sigue funcionando hoy. El élder Christofferson explicó que, en la autoridad de esas llaves, los siervos del Señor «preservan la pureza de la doctrina del Salvador y la integridad de Sus ordenanzas de salvación». No es un organigrama administrativo: es el mecanismo que impide que la doctrina se disuelva con el paso de las generaciones o con las modas de cada época.",
+        "La sección incluye también un detalle humano que suele pasarse por alto. En el versículo 28, el Señor manda no olvidar a Vienna Jaques, una mujer que había donado sus ahorros para sostener la obra. José Smith escribió después que estaba «en deuda con [su] Dios por la ofrenda de [su] hermana Vienna». La misma revelación que organiza la Presidencia de la Iglesia se detiene a nombrar a una persona concreta y a pedir que se la recuerde."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 90:24",
+          "texto": "Escudriñad diligentemente, orad siempre, sed creyentes, y todas las cosas obrarán juntamente para vuestro bien, si andáis en la rectitud y recordáis el convenio que habéis hecho el uno con el otro.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/90?lang=spa&id=p24#p24"
+        },
+        {
+          "referencia": "Doctrina y Convenios 90:11",
+          "texto": "Porque acontecerá que en aquel día todo hombre oirá la plenitud del evangelio en su propia lengua y en su propio idioma, por conducto de los que son ordenados a este poder, mediante la administración del Consolador, derramado sobre ellos para revelar a Jesucristo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/90?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Doctrina y Convenios 90:5",
+          "texto": "Y quienes reciban los oráculos de Dios, tengan cuidado de cómo los estiman, no sea que los menosprecien, y con ello incurran en la condenación, y tropiecen y caigan cuando desciendan las tempestades y soplen los vientos y vengan las lluvias, y den con ímpetu contra su casa.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/90?lang=spa&id=p5#p5"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "«El porqué de la Iglesia», Conferencia General, octubre de 2015 (Liahona, noviembre de 2015, pág. 110)",
+      "texto": "En la autoridad de esas llaves, los oficiales del sacerdocio de la Iglesia preservan la pureza de la doctrina del Salvador y la integridad de Sus ordenanzas de salvación, ayudan a preparar a aquellos que desean recibirlas, consideran su dignidad y luego efectúan dichas ordenanzas.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/10/why-the-church?lang=spa&id=p23#p23"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "El versículo 24 resume en cuatro instrucciones lo que se espera de cualquier miembro, sin importar su cargo: escudriñar, orar, creer y andar en rectitud. La promesa que sigue —que todas las cosas obrarán juntamente para bien— está condicionada a esas cuatro, no a que la vida salga como uno espera. Elegí la que hoy tenés más floja de las cuatro y trabajala esta semana; la promesa se sostiene sobre el conjunto, no sobre las tres que ya te salen."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "El Señor manda en el versículo 5 «tener cuidado de cómo» estimamos los oráculos que recibimos. ¿Qué sería menospreciarlos, en la práctica?",
+        "¿Qué significa para vos que las decisiones de la Iglesia se tomen en consejo y no por una sola persona?",
+        "El élder Christofferson dice que las llaves preservan «la pureza de la doctrina». ¿Por qué haría falta preservarla?",
+        "La misma revelación que organiza la Primera Presidencia se detiene a nombrar a Vienna Jaques y pedir que no se la olvide. ¿Qué te dice eso?",
+        "De las cuatro instrucciones del versículo 24 —escudriñar, orar, creer, andar en rectitud—, ¿cuál tenés más floja?",
+        "¿Qué vas a hacer esta semana con esa que elegiste? Sé concreto."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué responsabilidad confió el Señor a José Smith, Sidney Rigdon y Frederick G. Williams en DyC 90:1–3, 6?",
+      "question": "¿Qué cuatro cosas manda hacer Doctrina y Convenios 90:24 antes de la promesa de que todas las cosas obrarán juntamente para bien?",
       "options": [
-        "Presidir la Iglesia y recibir revelación como Primera Presidencia",
-        "Dirigir solo asuntos temporales",
-        "Predicar únicamente en Kirtland",
-        "Evitar responsabilidades espirituales"
+        "Estudiar, ayunar, servir y testificar.",
+        "Obedecer, sacrificar, consagrar y perseverar.",
+        "Arrepentirse, bautizarse, recibir el Espíritu y perseverar hasta el fin.",
+        "Escudriñar diligentemente, orar siempre, ser creyentes y andar en rectitud."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué son las llaves del sacerdocio según el Manual General de la Iglesia?",
+      "question": "Según Doctrina y Convenios 90:5, ¿qué riesgo corre quien menosprecia los oráculos de Dios que ha recibido?",
       "options": [
-        "La autoridad para dirigir el uso del sacerdocio a favor de los hijos de Dios",
-        "Un símbolo cultural",
-        "Un título honorífico",
-        "Un poder exclusivo de los ángeles"
+        "Tropezar y caer cuando desciendan las tempestades y den con ímpetu contra su casa.",
+        "Ser removido de su llamamiento en la Iglesia.",
+        "Quedar sin la compañía del Espíritu Santo de manera permanente.",
+        "Perder el derecho a recibir nuevas revelaciones."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué enseñó el élder D. Todd Christofferson sobre el uso de las llaves del sacerdocio?",
+      "question": "El élder Christofferson enseñó que, con la autoridad de las llaves, los oficiales de la Iglesia «preservan la pureza de la doctrina del Salvador». ¿Qué problema resuelve ese sistema?",
       "options": [
-        "Preservan la pureza de la doctrina y la integridad de las ordenanzas",
-        "Son irrelevantes",
-        "Son solo simbólicas",
-        "Se usan únicamente para reuniones"
+        "La dificultad de coordinar una Iglesia con presencia en muchos países.",
+        "La deriva de la doctrina con el paso del tiempo y el cambio de las modas culturales.",
+        "La necesidad de que alguien administre los recursos temporales de la Iglesia.",
+        "La falta de instrucción religiosa formal en la mayoría de los miembros."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué se entiende por “los oráculos de Dios” en DyC 90:4–5?",
+      "question": "Doctrina y Convenios 90 organiza la Primera Presidencia y, en el mismo texto, manda no olvidar a Vienna Jaques por su ofrenda. ¿Qué muestra esa combinación?",
       "options": [
-        "Las revelaciones dadas por medio de la Primera Presidencia",
-        "Los escritos antiguos",
-        "Las opiniones humanas",
-        "Los discursos culturales"
+        "Que Vienna Jaques ocupaba un cargo dentro de la organización de la Iglesia.",
+        "Que las revelaciones administrativas incluían asuntos económicos por necesidad práctica.",
+        "Que en la misma revelación conviven el gobierno de la Iglesia y la atención a una persona concreta.",
+        "Que las donaciones importantes recibían reconocimiento público en esa época."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "¿Qué enseña DyC 90:9 sobre la relación entre la Primera Presidencia y los élderes de la Iglesia?",
+      "question": "Camila escucha un consejo de la conferencia general, le parece interesante y sigue con su vida sin hacer nada al respecto. Según Doctrina y Convenios 90:5, ¿qué está haciendo?",
       "options": [
-        "Que la Primera Presidencia dirige y los élderes actúan bajo su dirección",
-        "Que los élderes actúan independientemente",
-        "Que no hay relación",
-        "Que los élderes tienen más autoridad"
+        "Ejerciendo su albedrío de manera legítima, ya que el consejo no era un mandamiento.",
+        "Postergando una decisión que puede tomar más adelante sin consecuencias.",
+        "Actuando con prudencia hasta recibir confirmación personal.",
+        "Menospreciando los oráculos recibidos, que es exactamente contra lo que advierte el versículo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 6,
-      "question": "¿Qué estructura actual tiene la Primera Presidencia según LaIglesiaDeJesucristo.org?",
+      "question": "Joaquín cumple con escudriñar, orar y andar en rectitud, pero admite que en el fondo no cree que las promesas del Señor se apliquen a él. Según Doctrina y Convenios 90:24, ¿qué le falta?",
       "options": [
-        "Un profeta como Presidente y dos apóstoles como consejeros",
-        "Tres obispos",
-        "Un consejo de doce",
-        "Un grupo de setenta"
+        "Ser creyente, que es una de las cuatro condiciones y no un agregado optativo.",
+        "Esperar a que las promesas se cumplan para poder creer en ellas.",
+        "Consultar su situación con un líder de la Iglesia.",
+        "Aumentar la constancia en las tres cosas que ya hace."
       ],
       "correctAnswer": 0
     },
     {
       "id": 7,
-      "question": "¿Qué principio central enseña DyC 90 sobre la Primera Presidencia?",
+      "question": "Doctrina y Convenios 90:24 condiciona la promesa a cuatro acciones, y 90:5 advierte contra menospreciar lo recibido. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Que Jesucristo dirige Su Iglesia por medio de revelación a Su profeta y consejeros",
-        "Que la Iglesia se gobierna solo por tradición",
-        "Que no hay necesidad de liderazgo",
-        "Que las revelaciones son opcionales"
+        "Que la duda invalida cualquier promesa recibida anteriormente.",
+        "Que lo que Dios revela exige una respuesta activa de quien lo recibe, y no basta con conocerlo.",
+        "Que las promesas del Señor se cumplen con independencia de la conducta humana.",
+        "Que las revelaciones se dirigen principalmente a los líderes de la Iglesia."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

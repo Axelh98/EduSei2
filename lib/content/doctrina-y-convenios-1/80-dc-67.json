@@ -38,7 +38,8 @@
         "¿Qué evidencias — más allá de que te lo enseñaron — tenés vos del origen divino de las Escrituras?",
         "¿Alguna vez dudaste de la veracidad de las Escrituras o de las revelaciones del profeta? ¿Cómo manejaste esa duda?",
         "¿Qué pasaría si estudiaras una sección de D&C o un capítulo del Libro de Mormón esta semana específicamente buscando evidencias de su origen divino?",
-        "¿Cómo explicarías a alguien escéptico por qué creés que las revelaciones son de Dios y no de hombres?"
+        "¿Cómo explicarías a alguien escéptico por qué creés que las revelaciones son de Dios y no de hombres?",
+        "¿Qué sección o capítulo vas a estudiar esta semana con esa mirada, y qué vas a anotar al terminar para no perder lo que encontraste?"
       ]
     }
   ],
@@ -47,12 +48,12 @@
       "id": 1,
       "question": "D&C 67:5–7 desafía a los más sabios a escribir la revelación más sencilla del libro con el mismo poder. ¿Quién intentó ese desafío y qué ocurrió?",
       "options": [
-        "Sidney Rigdon lo intentó y produjo algo comparable pero inferior.",
         "William McLellin lo intentó y fracasó — no pudo igualarlo.",
         "Oliver Cowdery lo intentó y el resultado fue destruido por el Señor.",
-        "Nadie se atrevió a intentarlo porque sabían que fracasarían."
+        "Nadie se atrevió a intentarlo porque sabían que fracasarían.",
+        "Sidney Rigdon lo intentó y produjo algo comparable pero inferior."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -78,25 +79,25 @@
     },
     {
       "id": 4,
-      "question": "El élder Callister enseñó que la profundidad doctrinal de las revelaciones restauradas 'no podía ser inventada por un joven de 25 años sin educación formal'. ¿Cómo complementa eso el principio de D&C 67?",
+      "question": "El presidente Uchtdorf enseñó que el Padre Celestial «está constantemente derramando bendiciones sobre nosotros» y que son «nuestros temores, dudas y pecados los que impiden que esas bendiciones lleguen». ¿Cómo se relaciona eso con el desafío que el Señor plantea en Doctrina y Convenios 67?",
       "options": [
-        "Que la evidencia histórica de la educación de José Smith es más convincente que el desafío de D&C 67.",
-        "Que tanto el desafío directo (D&C 67) como el análisis intelectual del contenido señalan al mismo origen divino — la evidencia es redundante y convergente.",
-        "Que el argumento del élder Callister contradice D&C 67 porque enfatiza el intelecto.",
-        "Que la evidencia solo es convincente para personas con educación teológica."
+        "La enseñanza se refiere a lo espiritual y la sección 67 solo a lo intelectual.",
+        "La sección 67 se dirigía a los élderes de 1831 y hoy no tiene aplicación personal.",
+        "Son ideas contrarias: la sección 67 apela al razonamiento y la enseñanza apela al sentimiento.",
+        "Las dos ubican el obstáculo del lado del receptor: la revelación y las bendiciones están disponibles, y lo que falta es la disposición para recibirlas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Sofía tiene un amigo que dice que 'las revelaciones de José Smith son solo sus propias ideas religiosas'. ¿Cómo usaría el principio de D&C 67 en esa conversación?",
       "options": [
-        "Citando todas las revelaciones que José recibió para demostrar su volumen.",
         "Señalando que el Señor mismo desafió a los más instruidos a imitar una sola — y fracasaron. Si fueran solo ideas humanas, ese intento habría tenido más éxito.",
         "Mostrándo la falta de educación formal de José como evidencia principal.",
-        "Evitando el tema porque no hay manera de probar el origen de las revelaciones."
+        "Evitando el tema porque no hay manera de probar el origen de las revelaciones.",
+        "Citando todas las revelaciones que José recibió para demostrar su volumen."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -113,12 +114,12 @@
       "id": 7,
       "question": "D&C 67 defiende el origen divino de las revelaciones a través de un desafío práctico. ¿Qué tipo de evidencia es ese — y por qué es más contundente que solo afirmar que son verdaderas?",
       "options": [
+        "Es evidencia teológica — muestra que el contenido doctrinal es más profundo que cualquier texto humano.",
         "Es evidencia emocional — genera un sentimiento que convence más que los argumentos.",
         "Es evidencia empírica — invita a intentar la prueba y el fracaso en hacerlo habla por sí solo, sin necesidad de argumentos adicionales.",
-        "Es evidencia histórica — demuestra que nadie en la historia pudo escribir algo similar.",
-        "Es evidencia teológica — muestra que el contenido doctrinal es más profundo que cualquier texto humano."
+        "Es evidencia histórica — demuestra que nadie en la historia pudo escribir algo similar."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

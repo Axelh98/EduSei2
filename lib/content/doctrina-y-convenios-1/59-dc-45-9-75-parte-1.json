@@ -38,7 +38,8 @@
         "¿Las noticias sobre conflictos o desastres te generan más ansiedad o más confianza en el plan del Señor? ¿Por qué?",
         "¿Qué significa 'estar en lugares santos y no ser conmovido' para vos en tu vida diaria?",
         "¿Cómo puede el conocimiento del plan del Señor convertir las noticias difíciles en confirmación de la fe en lugar de fuente de miedo?",
-        "¿Cuáles son los 'lugares santos' en tu vida donde encontrás estabilidad espiritual cuando el mundo se siente incierto?"
+        "¿Cuáles son los 'lugares santos' en tu vida donde encontrás estabilidad espiritual cuando el mundo se siente incierto?",
+        "¿Qué vas a hacer distinto la próxima vez que una noticia te genere miedo: a quién vas a acudir y qué pasaje vas a releer?"
       ]
     }
   ],
@@ -58,12 +59,12 @@
       "id": 2,
       "question": "D&C 45:26–27 describe que en los últimos días los corazones de los hombres 'desfallecerán'. ¿Cuál es la razón que el versículo da para ese estado emocional generalizado?",
       "options": [
-        "La escasez económica global que devastará las principales economías del mundo.",
         "La incapacidad de los gobiernos para mantener el orden y la paz entre las naciones.",
         "Guerras y rumores de guerras, conmoción en toda la tierra y la sensación de que Cristo tarda en venir.",
-        "La apostasía masiva de las iglesias que dejará a la gente sin guía espiritual."
+        "La apostasía masiva de las iglesias que dejará a la gente sin guía espiritual.",
+        "La escasez económica global que devastará las principales economías del mundo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 3,
@@ -80,45 +81,45 @@
       "id": 4,
       "question": "¿Qué significa concretamente 'estar en lugares santos' según D&C 45:32 — no solo en sentido geográfico?",
       "options": [
+        "Mudarse a Utah o a una ciudad con alto porcentaje de miembros de la Iglesia.",
         "Vivir físicamente dentro del perímetro de un templo o edificio de la Iglesia.",
         "Tener membresía activa en la Iglesia y asistir a todas las reuniones obligatorias.",
-        "Tener convenios activos, hábitos espirituales firmes y un corazón preparado — los lugares santos incluyen el hogar fiel y el corazón comprometido.",
-        "Mudarse a Utah o a una ciudad con alto porcentaje de miembros de la Iglesia."
+        "Tener convenios activos, hábitos espirituales firmes y un corazón preparado — los lugares santos incluyen el hogar fiel y el corazón comprometido."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Agustín ve noticias de guerras y desastres y se llena de ansiedad. Según el principio de D&C 45:26–32, ¿qué actitud diferente podría tener el discípulo preparado frente a esas mismas noticias?",
       "options": [
-        "Ignorarlas completamente porque el Señor no quiere que Sus discípulos se informen del mundo.",
         "Verlas como evidencia de que el Plan del Señor avanza — confirmación de profecía, no fuente de miedo.",
         "Usarlas para convencer a sus amigos de que el fin del mundo es inminente.",
-        "Prepararse materialmente con urgencia para el desastre más cercano que vea en las noticias."
+        "Prepararse materialmente con urgencia para el desastre más cercano que vea en las noticias.",
+        "Ignorarlas completamente porque el Señor no quiere que Sus discípulos se informen del mundo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Renata vive su espiritualidad solo en momentos de crisis — cuando algo malo ocurre, ora más y estudia las Escrituras; cuando todo está bien, abandona esos hábitos. Según D&C 45:32, ¿qué problema genera ese patrón para cuando lleguen los eventos de los últimos días?",
       "options": [
-        "Ningún problema — el Señor entiende que las personas se vuelven a Él en tiempos difíciles.",
         "Solo un problema de constancia personal sin implicaciones espirituales mayores.",
         "Que no estará 'en pie en lugares santos' cuando más lo necesite — la preparación no se construye en momentos de crisis sino en los días ordinarios.",
-        "Que perderá el hábito de orar durante los períodos buenos y tendrá que volver a aprenderlo."
+        "Que perderá el hábito de orar durante los períodos buenos y tendrá que volver a aprenderlo.",
+        "Ningún problema — el Señor entiende que las personas se vuelven a Él en tiempos difíciles."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "D&C 45:26–27 (corazones que desfallecen) y D&C 45:32 (el discípulo que está en pie) describen dos respuestas opuestas a los mismos eventos. ¿Cuál es el factor que explica esa diferencia?",
       "options": [
-        "La ubicación geográfica — los que viven cerca de un templo están mejor protegidos.",
         "La cantidad de bienes materiales — los que están preparados temporalmente no temen.",
         "La fe heredada de los padres — los que vienen de familias fieles tienen ventaja innata.",
-        "La preparación espiritual acumulada en los días ordinarios — los convenios activos y los hábitos sólidos producen la firmeza que los eventos no pueden sacudir."
+        "La preparación espiritual acumulada en los días ordinarios — los convenios activos y los hábitos sólidos producen la firmeza que los eventos no pueden sacudir.",
+        "La ubicación geográfica — los que viven cerca de un templo están mejor protegidos."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

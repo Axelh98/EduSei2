@@ -1,83 +1,136 @@
 {
   "id": "doctrina-y-convenios-88-1-13-41-50",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Doctrina y Convenios 88 fue llamada por José Smith «la hoja de olivo […] arrancada del árbol del paraíso», un mensaje de paz después de meses difíciles. Los versículos 6 al 13 explican qué es la luz de Cristo, y son de los pasajes más amplios de toda la Escritura.",
+        "El texto dice que esa luz «existe en todas las cosas», que «da vida a todas las cosas» y que es «la ley por la cual se gobiernan todas las cosas». No es una metáfora de bondad: es lo que sostiene el universo, y al mismo tiempo lo que «vivifica vuestro entendimiento» (versículo 11). La misma luz que hace funcionar al sol es la que te permite reconocer que algo está bien o mal antes de que nadie te lo explique.",
+        "Eso tiene una consecuencia práctica que suele pasarse por alto: toda persona la tiene. El compañero que no cree en nada, el vecino de otra religión, la persona con la que discutiste ayer. La hermana Sharon Eubank lo dijo así: no importa cuánto se esfuerce, la oscuridad no puede apagar esa luz, jamás. Eso cambia cómo se mira a la gente y cómo se mira uno a sí mismo en las semanas malas."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:7",
+          "texto": "La cual verdad brilla. Esta es la luz de Cristo. Como también él está en el sol, y es la luz del sol, y el poder por el cual fue hecho.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:11–13",
+          "texto": "Y la luz que brilla, que os alumbra, viene por medio de aquel que ilumina vuestros ojos, y es la misma luz que vivifica vuestro entendimiento, la cual procede de la presencia de Dios para llenar la inmensidad del espacio, la luz que existe en todas las cosas, que da vida a todas las cosas, que es la ley por la cual se gobiernan todas las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p11-p13#p11"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:49",
+          "texto": "La luz en las tinieblas resplandece, y las tinieblas no la comprenden; no obstante, el día vendrá en que comprenderéis aun a Dios, siendo vivificados en él y por él.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p49#p49"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Hermana Sharon Eubank",
+      "fuente": "«Cristo: La luz que resplandece en las tinieblas», Conferencia General, abril de 2019 (Liahona, mayo de 2019, págs. 73–75)",
+      "texto": "Una de las necesidades fundamentales que tenemos a fin de progresar es mantenernos conectados a nuestra fuente de luz: Jesucristo. Él es la fuente de nuestro poder, la Luz y la Vida del mundo. Sin una fuerte conexión a Él, comenzamos a morir espiritualmente.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/42eubank?lang=spa&id=p3#p3"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La luz de Cristo está en todas las cosas y en todas las personas, incluida la que hoy te cae mal y vos mismo en tu peor semana. Eso no es una idea reconfortante y vaga: según el versículo 13, es la ley por la que se gobierna todo lo que existe. Probá esta semana a mirar dos veces a alguien que solés descartar rápido, buscando qué hay de esa luz en esa persona. Y cuando te toque a vos sentirte apagado, acordate de que el texto dice que las tinieblas no la comprenden, no que la apagan."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué imagen te viene a la cabeza cuando escuchás «la luz de Cristo»? ¿Coincide con lo que dicen los versículos 11 al 13?",
+        "Doctrina y Convenios 88:13 dice que esa luz «da vida a todas las cosas» y es «la ley por la cual se gobiernan todas las cosas». ¿Qué te sorprende de esa descripción?",
+        "Si toda persona tiene esa luz, ¿cómo cambia eso la forma de mirar a alguien que piensa muy distinto de vos?",
+        "La hermana Eubank dice que sin una conexión fuerte con Cristo «comenzamos a morir espiritualmente». ¿Cómo se nota eso, según tu experiencia?",
+        "¿Qué cosa concreta te mantiene conectado a esa fuente cuando la semana viene difícil?",
+        "Elegí una persona a la que sueles descartar rápido. ¿Qué vas a hacer esta semana para mirarla de otra manera?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseña DyC 88:6–13 sobre la luz de Cristo?",
+      "question": "Según Doctrina y Convenios 88:7, ¿qué relación tiene la luz de Cristo con el sol?",
       "options": [
-        "Es la energía y poder divinos que dan vida y luz a todas las cosas",
-        "Es solo una metáfora",
-        "Es exclusiva para los miembros de la Iglesia",
-        "Es un concepto cultural sin aplicación espiritual"
+        "Que el sol fue creado como símbolo de esa luz.",
+        "Que Cristo está en el sol, es la luz del sol y el poder por el cual fue hecho.",
+        "Que la luz del sol es la manifestación más débil de la luz de Cristo.",
+        "Que ambas luces provienen de fuentes distintas pero cumplen la misma función."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué función cumple la luz de Cristo en relación con el Evangelio?",
+      "question": "¿Qué tres cosas dice Doctrina y Convenios 88:13 sobre la luz que procede de la presencia de Dios?",
       "options": [
-        "Ayuda a comprender las verdades del Evangelio y guía hacia la salvación",
-        "No tiene relación con el Evangelio",
-        "Es solo un símbolo literario",
-        "Es exclusiva para los profetas"
+        "Que alcanza a los justos, guía a los que buscan y aparta a los rebeldes.",
+        "Que fue creada al principio, sostiene el presente y permanecerá para siempre.",
+        "Que existe en todas las cosas, da vida a todas las cosas y es la ley por la cual se gobiernan todas las cosas.",
+        "Que ilumina, purifica y santifica a quienes la reciben."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué enseña Moroni 7:16 sobre la conciencia?",
+      "question": "Doctrina y Convenios 88:11 dice que esa luz «vivifica vuestro entendimiento». ¿Qué implica esa afirmación sobre la capacidad humana de distinguir el bien del mal?",
       "options": [
-        "Es el sentido interior del bien y del mal que proviene de la luz de Cristo",
-        "Es un instinto animal",
-        "Es una construcción social",
-        "Es irrelevante para la vida espiritual"
+        "Que solo los miembros de la Iglesia poseen esa capacidad de manera confiable.",
+        "Que el entendimiento humano es independiente de cualquier influencia divina.",
+        "Que esa capacidad se adquiere solamente mediante la instrucción religiosa.",
+        "Que proviene de una luz que Dios da a toda persona, y no de una construcción puramente cultural."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué enseña DyC 84:45–46 sobre la luz de Cristo en las personas?",
+      "question": "La hermana Eubank enseñó que «sin una fuerte conexión a Él, comenzamos a morir espiritualmente». ¿Qué imagen del progreso espiritual propone esa frase?",
       "options": [
-        "Ilumina a todo hombre que viene al mundo",
-        "Es exclusiva para los líderes",
-        "Solo se recibe en el bautismo",
-        "No tiene efecto real"
+        "Que la vida espiritual requiere una conexión sostenida, y su ausencia produce un deterioro gradual.",
+        "Que la conexión con Cristo se restablece automáticamente con el tiempo.",
+        "Que el deterioro espiritual es siempre resultado de una decisión consciente.",
+        "Que el estado espiritual es estable mientras no se cometan faltas graves."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué enseñó el presidente Boyd K. Packer sobre la luz de Cristo?",
+      "question": "Franco evita a un compañero de curso porque «no cree en nada y se burla de todo». Según Doctrina y Convenios 88:11–13, ¿qué está pasando por alto?",
       "options": [
-        "Es tan universal como la luz del sol y está en toda persona",
-        "Es limitada a quienes creen",
-        "Es solo un símbolo cultural",
-        "Es exclusiva para los miembros de la Iglesia"
+        "Que la burla indica que la persona ya rechazó la luz de manera definitiva.",
+        "Que ese compañero también tiene la luz de Cristo, que está en todas las cosas y en toda persona.",
+        "Que evitar a quienes se burlan es lo que la Escritura recomienda.",
+        "Que su compañero cambiará de actitud si recibe suficiente atención."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,
-      "question": "¿Qué enseñan DyC 88:7–10 sobre la luz de Cristo en el universo?",
+      "question": "Agustina atraviesa una semana en la que siente que su fe está «apagada» y concluye que perdió lo que tenía. Según Doctrina y Convenios 88:49, ¿qué le muestra el texto?",
       "options": [
-        "Gobierna todas las cosas en el cielo y en la tierra",
-        "Es solo una metáfora poética",
-        "No tiene relación con la creación",
-        "Es exclusiva para la tierra"
+        "Que conviene esperar a que el sentimiento vuelva antes de retomar sus hábitos.",
+        "Que la oscuridad espiritual es una etapa que solo atraviesan algunas personas.",
+        "Que las tinieblas no comprenden la luz, pero no la apagan: sentirse apagado no equivale a haberla perdido.",
+        "Que la fe se pierde efectivamente cuando deja de sentirse."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 7,
-      "question": "¿Qué efecto puede tener reconocer la luz de Cristo en nuestra vida diaria?",
+      "question": "Doctrina y Convenios 88:13 dice que la luz de Cristo da vida a todas las cosas, y la hermana Eubank enseña que sin conexión con Él empezamos a morir espiritualmente. ¿Qué principio común forman las dos ideas?",
       "options": [
-        "Inspirar decisiones correctas y fortalecer la relación con Dios",
-        "No tiene efecto",
-        "Genera confusión",
-        "Aleja de la espiritualidad"
+        "Que la luz de Cristo actúa con independencia de lo que cada persona haga.",
+        "Que la conexión espiritual es una metáfora sin correlato en la realidad física.",
+        "Que quienes tienen más luz reciben mayores responsabilidades.",
+        "Que la vida —física y espiritual— depende de una fuente que está fuera de nosotros y hay que mantener cerca."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }

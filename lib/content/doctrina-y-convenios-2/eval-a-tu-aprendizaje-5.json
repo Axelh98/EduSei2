@@ -1,81 +1,134 @@
 {
   "id": "eval-a-tu-aprendizaje-5",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Si te gusta correr, medís los minutos. Si entrenás un deporte, mirás la marca. Nadie mejora en algo sin alguna forma de saber si está mejorando, y sin embargo con el crecimiento espiritual solemos confiar en una impresión vaga: «creo que estoy más o menos igual».",
+        "Esta lección propone medir con una herramienta distinta. El Espíritu Santo ayuda a ver el progreso propio cuando uno se detiene a repasar lo aprendido y a preguntarse qué hizo con eso. El repaso cubre Doctrina y Convenios 51–75: la mayordomía y el cuidado de los pobres, la intercesión del Salvador, los dones del Espíritu, el día de reposo, el arrepentimiento que el Señor ya no recuerda, el mandato de perdonar.",
+        "La evaluación no es un examen ni una nota. Es leer las propias notas de las últimas semanas y contestar dos preguntas incómodas: qué de todo eso pusiste en práctica, y en qué notaste la ayuda del Padre y del Salvador al hacerlo. Conviene escribir las respuestas, porque dentro de unos meses la memoria va a ser mucho menos exacta que el papel."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 58:42–43",
+          "texto": "He aquí, quien se ha arrepentido de sus pecados es perdonado; y yo, el Señor, no los recuerdo más. Por esto podréis saber si un hombre se arrepiente de sus pecados: He aquí, los confesará y los abandonará.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p42-p43#p42"
+        },
+        {
+          "referencia": "Doctrina y Convenios 64:9–11",
+          "texto": "Por tanto, os digo que debéis perdonaros los unos a los otros; pues el que no perdona las ofensas de su hermano, queda condenado ante el Señor, porque en él permanece el mayor pecado. Yo, el Señor, perdonaré a quien sea mi voluntad perdonar, mas a vosotros os es requerido perdonar a todos los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p9-p11#p9"
+        },
+        {
+          "referencia": "Doctrina y Convenios 59:9–10",
+          "texto": "Y para que más íntegramente te conserves sin mancha del mundo, irás a la casa de oración y ofrecerás tus sacramentos en mi día santo; porque, en verdad, este es un día que se te ha señalado para descansar de tus obras y rendir tus devociones al Altísimo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=spa&id=p9-p10#p9"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«The Love and Laws of God», devocional de la Universidad Brigham Young, 17 de septiembre de 2019 (citado en «Ver los mandamientos como bendiciones», Liahona, abril de 2022)",
+      "texto": "Debido a que el Padre y el Hijo nos aman con un amor infinito y perfecto, y a causa de que saben que no podemos ver todo lo que Ellos ven, nos han dado leyes que nos guiarán y protegerán.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2022/04/digital-only/seeing-commandments-as-blessings?lang=spa&id=p4#p4"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Medir el crecimiento espiritual no sirve para ponerse una nota, sino para saber dónde seguir. Las semanas de Doctrina y Convenios 51–75 dejaron principios muy concretos: el arrepentimiento que el Señor no recuerda más, el perdón que Él da la capacidad de dar, el día de reposo que protege. Repasá tus notas de estas semanas y elegí un solo principio que sepas que entendiste pero no estás viviendo. Escribilo con una acción y una fecha, y guardá el papel para la próxima evaluación."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo sabés si estás mejorando en algo que te importa —un deporte, una materia, un instrumento—? ¿Qué usás para medirlo?",
+        "De todo lo que estudiaste en estas semanas, ¿qué es lo primero que te viene a la mente sin mirar las notas? ¿Por qué te parece que quedó eso y no otra cosa?",
+        "El presidente Nelson dice que las leyes de Dios se dan porque «no podemos ver todo lo que Ellos ven». ¿Qué mandamiento te costó más entender antes de vivirlo?",
+        "¿En qué momento de estas semanas notaste ayuda concreta del Padre o del Salvador al poner algo en práctica?",
+        "¿Qué principio de Doctrina y Convenios 51–75 entendiste bien pero todavía no estás viviendo?",
+        "Escribí ese principio como una acción con fecha. ¿Cuál es, y cuándo vas a revisar si lo cumpliste?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué papel cumple el Espíritu Santo en la evaluación de nuestro progreso espiritual?",
+      "question": "Según lo que enseña esta lección, ¿qué ayuda a una persona a medir su propio progreso espiritual?",
       "options": [
-        "Nos recuerda únicamente los errores cometidos",
-        "Nos ayuda a reflexionar en oración y ver cómo hemos crecido espiritualmente",
-        "Nos obliga a seguir reglas estrictas sin reflexión",
-        "No tiene relación con la evaluación espiritual"
+        "La regularidad con que asistió a las reuniones de la Iglesia.",
+        "La comparación con el progreso de otros miembros de la clase.",
+        "El Espíritu Santo, al reflexionar en oración sobre lo aprendido y lo aplicado.",
+        "La cantidad de versículos que logró memorizar durante el período."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿Qué propósito tienen los mandamientos según el presidente Russell M. Nelson?",
+      "question": "El presidente Nelson enseñó que el Padre y el Hijo dieron leyes porque nos aman «y a causa de que saben que no podemos ver todo lo que Ellos ven». ¿Qué explica esa frase sobre los mandamientos?",
       "options": [
-        "Son reglas arbitrarias para probar nuestra obediencia",
-        "Son leyes que nos guían y protegen porque Dios nos ama",
-        "Son tradiciones culturales sin relevancia espiritual",
-        "Son normas que cambian según la sociedad"
+        "Que fueron dados para una época y se adaptan con el tiempo.",
+        "Que solo se comprenden después de haberlos quebrantado.",
+        "Que su cumplimiento se exige en proporción al conocimiento de cada persona.",
+        "Que responden a una diferencia de perspectiva, no a un deseo de restringir."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Qué enseña Doctrina y Convenios 58:42–43 sobre el arrepentimiento?",
+      "question": "Doctrina y Convenios 59:9–10 describe el día de reposo como un día señalado «para descansar de tus labores y para rendir tus devociones al Altísimo». ¿Qué dos elementos combina esa descripción?",
       "options": [
-        "Que el arrepentimiento no es necesario",
-        "Que quien se arrepiente y abandona el pecado será perdonado",
-        "Que solo los líderes pueden arrepentirse",
-        "Que el perdón depende de obras externas"
+        "El descanso físico y la adoración, presentados como partes del mismo día.",
+        "El descanso obligatorio y la asistencia a la reunión sacramental como requisito.",
+        "La suspensión de toda actividad y el estudio personal de las Escrituras.",
+        "El servicio a los demás y la reunión con la familia extendida."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué significa entregar el corazón y la mente al Señor según Doctrina y Convenios 64:20–34?",
+      "question": "Nicolás dice que no sabe si creció espiritualmente este año porque «no siente nada distinto». Según el método que propone esta lección, ¿qué le conviene hacer?",
       "options": [
-        "Dedicar tiempo únicamente a actividades religiosas",
-        "Estar dispuesto a consagrar pensamientos y deseos al Salvador",
-        "Evitar cualquier responsabilidad temporal",
-        "Guardar silencio en las reuniones"
+        "Esperar a tener una experiencia espiritual fuerte que confirme el crecimiento.",
+        "Releer sus notas y sus metas de las últimas semanas y revisar qué puso en práctica.",
+        "Comparar su situación con la de sus compañeros de clase.",
+        "Aumentar la cantidad de tiempo de estudio hasta que el sentimiento aparezca."
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué cambios pueden notarse al entregar más del corazón y la mente al Salvador?",
+      "question": "Lucía anotó hace dos meses la meta de guardar mejor el día de reposo y nunca volvió a mirar esa nota. ¿Qué muestra esta lección sobre el valor de haberla escrito?",
       "options": [
-        "Mayor resentimiento hacia los demás",
-        "Alejamiento de la comunidad",
-        "Mejor relación con Jesucristo y con otras personas",
-        "Pérdida de motivación espiritual"
+        "Que el registro escrito solo es útil si se comparte con el maestro.",
+        "Que escribir metas sirve sobre todo para ordenar las ideas del momento.",
+        "Que la nota permite comparar contra algo concreto en vez de confiar en el recuerdo.",
+        "Que una meta no cumplida conviene descartarla y reemplazarla por otra."
       ],
       "correctAnswer": 2
     },
     {
       "id": 6,
-      "question": "¿Por qué es importante santificar el día de reposo según Doctrina y Convenios 59?",
+      "question": "Doctrina y Convenios 58:42 promete que el Señor no recuerda más los pecados perdonados. Al evaluar el propio crecimiento, ¿cómo debería influir esa promesa?",
       "options": [
-        "Porque es una tradición cultural",
-        "Porque nos acerca más al Padre Celestial y al Salvador",
-        "Porque evita críticas sociales",
-        "Porque es un requisito administrativo"
+        "Indica que no hace falta revisar la conducta anterior en ninguna evaluación.",
+        "Sugiere que las faltas graves quedan fuera del alcance de este tipo de repaso.",
+        "Implica que el progreso espiritual se mide únicamente por los pecados evitados.",
+        "Permite mirar el pasado sin quedarse atrapado en lo ya arrepentido y corregido."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
-      "question": "¿Qué prácticas ayudan a santificar el día de reposo?",
+      "question": "La lección propone medir el crecimiento espiritual con la ayuda del Espíritu, y el presidente Nelson enseña que los mandamientos vienen de un amor que ve más que nosotros. ¿Qué principio común forman las dos ideas?",
       "options": [
-        "Participar en actividades espirituales en casa y en la Iglesia",
-        "Dedicar el día únicamente al descanso físico",
-        "Evitar cualquier tipo de actividad",
-        "Usar el tiempo para entretenimiento sin límites"
+        "Que la vida espiritual avanza cuando se acepta una perspectiva más amplia que la propia, tanto para obedecer como para evaluarse.",
+        "Que la evaluación personal solo es confiable si la realiza un líder de la Iglesia.",
+        "Que el crecimiento espiritual se mide por la cantidad de mandamientos cumplidos.",
+        "Que la guía divina reemplaza la necesidad de un esfuerzo consciente de revisión."
       ],
       "correctAnswer": 0
     }

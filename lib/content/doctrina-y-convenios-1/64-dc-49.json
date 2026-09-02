@@ -38,7 +38,8 @@
         "¿Cómo distinguís entre una doctrina revelada por el Señor y una idea religiosa sincera pero no inspirada?",
         "¿Hay tendencias culturales hoy que contradicen doctrinas del evangelio? ¿Cómo respondés cuando te enfrentás a ellas?",
         "¿Qué herramientas usás para saber si algo que escuchás es doctrina verdadera o una interpretación humana?",
-        "¿Cómo podría el conocimiento de esta lección ayudarte a responder a alguien que propone ideas religiosas atractivas pero contrarias al evangelio?"
+        "¿Cómo podría el conocimiento de esta lección ayudarte a responder a alguien que propone ideas religiosas atractivas pero contrarias al evangelio?",
+        "La próxima vez que escuches una idea religiosa que suene bien pero no te cierre, ¿cuál va a ser tu primer paso concreto para verificarla antes de aceptarla o descartarla?"
       ]
     }
   ],
@@ -47,34 +48,34 @@
       "id": 1,
       "question": "D&C 49 corrige doctrinas específicas de los Shakers. ¿Cuáles eran dos de esas doctrinas erróneas que el Señor corrigió directamente?",
       "options": [
-        "Que el matrimonio era pecaminoso y que abstenerse de carne era señal de santidad.",
-        "Que debían bautizarse repetidamente y que no existían los profetas.",
         "Que la Segunda Venida ya había ocurrido y que no se debía pagar diezmo.",
-        "Que las mujeres no podían predicar y que la Biblia era inútil."
+        "Que las mujeres no podían predicar y que la Biblia era inútil.",
+        "Que el matrimonio era pecaminoso y que abstenerse de carne era señal de santidad.",
+        "Que debían bautizarse repetidamente y que no existían los profetas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Según D&C 49:15–16, ¿qué declara el Señor sobre el matrimonio entre hombre y mujer?",
       "options": [
-        "Que es una institución temporal que termina con la muerte.",
-        "Que es lícito y ordenado por Dios — cualquier enseñanza contraria viene del adversario.",
         "Que es una tradición cultural sin base doctrinal específica.",
-        "Que aplica solo a los miembros de la Iglesia con convenios del templo."
+        "Que aplica solo a los miembros de la Iglesia con convenios del templo.",
+        "Que es una institución temporal que termina con la muerte.",
+        "Que es lícito y ordenado por Dios — cualquier enseñanza contraria viene del adversario."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Los Shakers eran personas sinceras que creían que sus doctrinas venían de Dios. ¿Qué nos enseña D&C 49 sobre la relación entre la sinceridad y la verdad?",
       "options": [
-        "Que la sinceridad siempre garantiza que las creencias son verdaderas.",
-        "Que la sinceridad es suficiente — Dios acepta cualquier creencia mientras sea genuina.",
         "Que se puede ser completamente sincero y estar completamente equivocado — la verdad no depende de la intensidad de la creencia.",
-        "Que los Shakers no eran sinceros, solo pretendían creer."
+        "Que los Shakers no eran sinceros, solo pretendían creer.",
+        "Que la sinceridad siempre garantiza que las creencias son verdaderas.",
+        "Que la sinceridad es suficiente — Dios acepta cualquier creencia mientras sea genuina."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -102,23 +103,23 @@
       "id": 6,
       "question": "Camila tiene un amigo que dice 'no necesito la Iglesia para ser espiritual — soy sincero en mis creencias y eso basta'. Según el principio de D&C 49, ¿cuál es el problema de ese argumento?",
       "options": [
-        "Que la espiritualidad sin la Iglesia no existe en ninguna forma.",
-        "Que la sinceridad no garantiza la verdad — los Shakers eran sinceros y doctrinalmente erróneos. La fuente de autoridad importa, no solo la intensidad de la creencia.",
         "Que su amigo está en lo correcto y la Iglesia no debería ser necesaria.",
-        "Que debe mostrarle a su amigo estadísticas sobre cuántos miembros son más felices que los no miembros."
+        "Que debe mostrarle a su amigo estadísticas sobre cuántos miembros son más felices que los no miembros.",
+        "Que la espiritualidad sin la Iglesia no existe en ninguna forma.",
+        "Que la sinceridad no garantiza la verdad — los Shakers eran sinceros y doctrinalmente erróneos. La fuente de autoridad importa, no solo la intensidad de la creencia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "D&C 49 corrige doctrinas sobre el matrimonio y la alimentación, y D&C 67 (que veremos después) desafía a los hombres a imitar las revelaciones. Ambas revelaciones defienden lo mismo. ¿Cuál es ese principio?",
       "options": [
+        "Que las revelaciones del Señor no pueden ser imitadas ni reemplazadas por la inteligencia humana — tienen origen y autoridad que ninguna tradición o argumento humano puede duplicar.",
         "Que las revelaciones de la Restauración son superiores en extensión a las de otras religiones.",
         "Que los apóstoles tienen autoridad sobre los profetas en asuntos doctrinales.",
-        "Que toda doctrina debe ser verificada científicamente antes de ser enseñada en la Iglesia.",
-        "Que las revelaciones del Señor no pueden ser imitadas ni reemplazadas por la inteligencia humana — tienen origen y autoridad que ninguna tradición o argumento humano puede duplicar."
+        "Que toda doctrina debe ser verificada científicamente antes de ser enseñada en la Iglesia."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     }
   ]
 }

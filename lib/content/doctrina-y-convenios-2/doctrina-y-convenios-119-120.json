@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-119-120",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En julio de 1838, en Far West, el Señor reveló la ley del diezmo tal como la conocemos hoy: «todos aquellos que hayan entregado este diezmo pagarán la décima parte de todo su interés anualmente; y esta les será por ley fija para siempre» (Doctrina y Convenios 119:4). Antes de eso, la Iglesia había intentado sostenerse con la consagración, y no había funcionado.",
+        "La sección 120 agrega algo que casi nadie conoce: quién decide en qué se usa ese dinero. Un consejo formado por la Primera Presidencia, el Obispado Presidente y el Cuórum de los Doce, «así como por mi propia voz dirigida a ellos». Ese consejo sigue funcionando igual hoy, y ninguna decisión se toma sin unanimidad.",
+        "La ley del diezmo es de las pocas donde el Señor invita explícitamente a comprobar la promesa. El élder Stanley G. Ellis lo planteó como una pregunta directa: ¿tenemos la fe para confiar en que con el noventa por ciento del ingreso más la ayuda del Señor estamos en mejores condiciones que con el cien por ciento por nuestra cuenta? Para alguien que recién empieza a manejar dinero propio, esa es una pregunta muy concreta."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 119:4",
+          "texto": "Y después de esto, todos aquellos que hayan entregado este diezmo pagarán la décima parte de todo su interés anualmente; y esta les será por ley fija para siempre, para mi santo sacerdocio, dice el Señor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=spa&id=p4#p4"
+        },
+        {
+          "referencia": "Doctrina y Convenios 120:1",
+          "texto": "De cierto, así dice el Señor, ha llegado el tiempo de que disponga de ellos un consejo integrado por la Primera Presidencia de mi iglesia, por el obispo y su consejo, y por mi sumo consejo, así como por mi propia voz dirigida a ellos, dice el Señor. Así sea. Amén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/120?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 119:3",
+          "texto": "Y esto será el principio del diezmo de mi pueblo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=spa&id=p3#p3"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Stanley G. Ellis",
+      "fuente": "«¿Confiamos en Él? Lo difícil es bueno», Conferencia General, octubre de 2017 (Liahona, noviembre de 2017, pág. 114)",
+      "texto": "¿Tenemos la fe para confiar en Sus promesas en cuanto al diezmo, de que con el 90 por ciento de nuestro ingreso más la ayuda del Señor, estamos en mejores condiciones que con el 100 por ciento de nuestro ingreso anual por nosotros mismos?",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/do-we-trust-him-hard-is-good?lang=spa&id=p26#p26"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "El diezmo es una ley donde la promesa se puede comprobar, y por eso la pregunta del élder Ellis es tan incómoda: no es si creés en la doctrina, es si confiás lo suficiente como para probarla con tu propio dinero. Si trabajás o recibís dinero de tus padres, empezá este mes: apartá la décima parte apenas lo recibas, antes de gastar nada, y llevalo a tu obispo. Si todavía no manejás dinero, decidí ahora qué vas a hacer el día que lo hagas."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece que cambia entre pagar el diezmo de lo que sobra y apartarlo apenas recibís el dinero?",
+        "Doctrina y Convenios 120:1 dice quiénes deciden el uso de los diezmos. ¿Qué te aporta saber cómo funciona ese consejo?",
+        "El élder Ellis pregunta si confiás en que el 90 % con ayuda del Señor es mejor que el 100 % solo. ¿Cuál es tu respuesta honesta?",
+        "¿Pagás diezmo hoy? Si sí, ¿qué notaste? Si no, ¿qué te frena?",
+        "El versículo 4 dice que es «ley fija para siempre». ¿Qué implica que no sea una contribución voluntaria?",
+        "¿Qué vas a hacer este mes con la décima parte de lo que recibas? Definilo ahora."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseñanza principal se destaca en DyC 116?",
+      "question": "Según Doctrina y Convenios 119:4, ¿en qué consiste la ley del diezmo?",
       "options": [
-        "El Señor posee un conocimiento perfecto de Su plan",
-        "El conocimiento humano es suficiente",
-        "Las revelaciones ya no continúan",
-        "El futuro es incierto para Dios"
+        "En contribuir según las necesidades de cada congregación.",
+        "En donar una parte proporcional a los ingresos de cada familia.",
+        "En entregar todos los bienes al obispo para su administración.",
+        "En pagar la décima parte de todo el interés anualmente, como ley fija para siempre."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué revela DyC 117 sobre el apego a las riquezas?",
+      "question": "¿Quiénes integran, según Doctrina y Convenios 120:1, el consejo que dispone de los diezmos?",
       "options": [
-        "Puede impedir que sigamos plenamente al Señor",
-        "Es una señal de bendición espiritual",
-        "Garantiza seguridad eterna",
-        "No afecta la fe"
+        "La Primera Presidencia, el obispo y su consejo, y el sumo consejo, con la voz del Señor dirigida a ellos.",
+        "Los Setenta y los presidentes de estaca.",
+        "Un comité designado por la Primera Presidencia para cada período.",
+        "El obispo de cada barrio y su consejo local."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué advertencia da el Señor en DyC 117 a los líderes de la Iglesia?",
+      "question": "Doctrina y Convenios 119 fue revelada después de que la Iglesia intentara sostenerse con la consagración. ¿Qué muestra ese contexto?",
       "options": [
-        "Que no pongan su corazón en las cosas del mundo",
-        "Que busquen reconocimiento",
-        "Que eviten responsabilidades",
-        "Que actúen con temor"
+        "Que la ley del diezmo reemplazó definitivamente el principio de consagración.",
+        "Que el Señor dio una ley adaptada a lo que Su pueblo podía vivir en ese momento.",
+        "Que la consagración había sido una instrucción provisional desde el principio.",
+        "Que las leyes económicas de la Iglesia cambian según la situación financiera."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué promesa se da a quienes son fieles a pesar de las pruebas?",
+      "question": "El élder Ellis preguntó si tenemos fe para confiar en que «con el 90 por ciento de nuestro ingreso más la ayuda del Señor» estamos mejor que con el cien por ciento solos. ¿Qué tipo de pregunta plantea?",
       "options": [
-        "Recibirán coronas de gloria",
-        "Evitarán toda dificultad",
-        "Nunca perderán bienes materiales",
-        "No necesitarán sacrificio"
+        "Una pregunta dirigida a quienes tienen ingresos elevados.",
+        "Una pregunta sobre administración financiera y planificación de gastos.",
+        "Una pregunta sobre confianza, que solo se responde poniéndola a prueba.",
+        "Una pregunta retórica sin respuesta verificable."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Martina paga el diezmo con lo que le queda a fin de mes, y algunos meses no le queda nada. Según el principio que enseña esta lección, ¿qué le conviene cambiar?",
+      "options": [
+        "Pagar el diezmo cada dos meses para acumular el monto.",
+        "Consultar con el obispo si su situación la exime temporalmente.",
+        "Reducir sus gastos hasta que el diezmo entre en el presupuesto.",
+        "Apartar la décima parte apenas recibe el dinero, antes de gastar nada."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Luca todavía no maneja dinero propio y cree que el diezmo no lo involucra. Según lo que enseña esta lección, ¿qué le conviene hacer?",
+      "options": [
+        "Decidir de antemano qué hará cuando reciba dinero, porque la decisión se vuelve más difícil después.",
+        "Pedir a sus padres que paguen el diezmo en su nombre.",
+        "Considerar que el mandamiento se aplica solo a los adultos.",
+        "Esperar a tener ingresos para recién entonces estudiar el principio."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué principio doctrinal enseñan DyC 116–117 juntos?",
+      "id": 7,
+      "question": "Doctrina y Convenios 119:4 establece el diezmo como ley fija, y 120:1 detalla quiénes deciden su uso con la voz del Señor. ¿Qué principio común forman las dos secciones?",
       "options": [
-        "El Señor valora la fidelidad por encima de las posesiones",
-        "La prosperidad material es el objetivo",
-        "El sacrificio no es necesario",
-        "La obediencia es opcional"
+        "Que la responsabilidad de quien paga termina en el momento de entregarlo.",
+        "Que el diezmo es una ley del Señor administrada bajo Su dirección, y no una recaudación de la organización.",
+        "Que la cantidad y el destino del diezmo se ajustan según las necesidades.",
+        "Que el consejo puede modificar la ley del diezmo si lo considera necesario."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

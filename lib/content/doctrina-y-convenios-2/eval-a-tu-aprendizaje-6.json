@@ -1,83 +1,136 @@
 {
   "id": "eval-a-tu-aprendizaje-6",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Cualquiera que haya hecho una caminata larga sabe que la mitad del trayecto es el peor momento: ya estás cansado y todavía falta. Nadie mide su avance mirando la cima; se mide mirando hacia atrás, hacia dónde arrancó.",
+        "Esta evaluación cierra el estudio de Doctrina y Convenios 76–83, un bloque que incluye la visión de los tres grados de gloria, el mandato de socorrer a los débiles, la promesa de que el Señor está obligado cuando obedecemos y la instrucción de recibir todas las cosas con gratitud. Son ideas grandes, y por eso mismo es fácil terminarlas sin notar si cambiaron algo.",
+        "La lección propone tres preguntas concretas: ¿podés explicar con tus palabras lo que estudiaste?, ¿qué pasó con las metas que te fijaste?, ¿cambió algo en lo que querés y en lo que sos capaz de hacer? La tercera es la más difícil de contestar honestamente, porque el crecimiento espiritual casi nunca se siente mientras ocurre. Por eso conviene escribir las respuestas: dentro de seis meses, el papel va a ser mucho más confiable que el recuerdo."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 81:5",
+          "texto": "De manera que, sé fiel; ocupa el oficio al que te he nombrado; socorre a los débiles, levanta las manos caídas y fortalece las rodillas debilitadas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/81?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Doctrina y Convenios 78:19",
+          "texto": "Y el que reciba todas las cosas con gratitud será glorificado; y le serán añadidas las cosas de esta tierra, hasta cien tantos, sí, y más.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p19#p19"
+        },
+        {
+          "referencia": "Doctrina y Convenios 82:10",
+          "texto": "Yo, el Señor, estoy obligado cuando hacéis lo que os digo; mas cuando no hacéis lo que os digo, ninguna promesa tenéis.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p10#p10"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Vencer al mundo y hallar descanso», Conferencia General, octubre de 2022 (Liahona, noviembre de 2022, pág. 97)",
+      "texto": "Cada vez que procuran las impresiones del Espíritu y las siguen, cada vez que hacen algo bueno, cosas que «el hombre natural» no haría, están venciendo al mundo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/47nelson?lang=spa&id=p23#p23"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "El presidente Nelson define vencer al mundo de una manera que sorprende: no es un logro que se alcanza al final, es lo que ocurre cada vez que alguien sigue una impresión del Espíritu o hace algo bueno que le costaba. Medido así, el progreso se vuelve visible: son decisiones contables, no sensaciones. Releé tus notas de estas semanas, elegí las tres decisiones concretas que tomaste por lo que aprendiste y escribilas. Esa lista es tu evaluación, y vale más que cualquier impresión que tengas hoy sobre vos mismo."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez hiciste algo largo y exigente —una caminata, un entrenamiento, un proyecto—? ¿Cómo sabías que estabas avanzando?",
+        "De todo lo que estudiaste en Doctrina y Convenios 76–83, ¿qué podrías explicarle a alguien con tus propias palabras ahora mismo?",
+        "¿Qué metas te fijaste en estas semanas? ¿Qué pasó con ellas?",
+        "El presidente Nelson dice que cada acción buena que «el hombre natural no haría» es vencer al mundo. ¿Cuál fue la última tuya?",
+        "Doctrina y Convenios 81:5 manda socorrer a los débiles y levantar las manos caídas. ¿A quién levantaste vos en estas semanas?",
+        "Escribí las tres decisiones concretas que tomaste por lo que aprendiste. ¿Cuáles son, y dónde vas a guardar esa lista?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué muestran los tres grados de gloria según DyC 76:40–43?",
+      "question": "Según Doctrina y Convenios 81:5, ¿qué se le manda hacer a quien es fiel en su oficio?",
       "options": [
-        "El amor y la misericordia del Padre Celestial y Jesucristo",
-        "Que solo hay cielo e infierno",
-        "Que la salvación depende únicamente de obras",
-        "Que los grados son simbólicos sin significado real"
+        "Predicar el evangelio a toda criatura sin demora.",
+        "Socorrer a los débiles, levantar las manos caídas y fortalecer las rodillas debilitadas.",
+        "Reunir a los santos en el lugar señalado para Sion.",
+        "Guardar en secreto las revelaciones recibidas hasta el momento indicado."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué enseña DyC 76:69–70 sobre heredar un reino de gloria?",
+      "question": "¿Qué promete Doctrina y Convenios 78:19 a quien recibe todas las cosas con gratitud?",
       "options": [
-        "Es posible solo por medio de Jesucristo",
-        "Depende únicamente de la perfección personal",
-        "Es automático para todos",
-        "Se logra sin necesidad de Cristo"
+        "Que recibirá revelación sobre los misterios del reino.",
+        "Que sus oraciones serán contestadas de inmediato.",
+        "Que será glorificado y le serán añadidas las cosas de esta tierra hasta cien tantos.",
+        "Que quedará libre de las tribulaciones de los últimos días."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué hacían José Smith y Sidney Rigdon antes de recibir la visión de los tres grados de gloria (DyC 76:15–19)?",
+      "question": "El presidente Nelson enseñó que vencer al mundo ocurre «cada vez que hacen algo bueno, cosas que el hombre natural no haría». ¿Qué cambia esa definición respecto de la idea habitual de vencer al mundo?",
       "options": [
-        "Meditaban y estudiaban las Escrituras con espíritu de oración",
-        "Dormían sin preparación",
-        "Discutían entre ellos",
-        "Ignoraban las Escrituras"
+        "Lo limita a quienes ya recibieron las ordenanzas del templo.",
+        "Lo reduce a evitar los pecados más graves.",
+        "Lo convierte en un logro final que se alcanza tras años de fidelidad.",
+        "Lo convierte en una serie de decisiones concretas y repetidas, no en un estado que se conquista de una vez."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué verdad aprendemos de la experiencia de José y Sidney al estudiar las Escrituras?",
+      "question": "Martina siente que este semestre «no cambió en nada» y por eso no quiere hacer la evaluación. Según lo que propone esta lección, ¿qué le conviene hacer?",
       "options": [
-        "Que el estudio y la meditación con oración preparan para recibir revelación",
-        "Que la revelación llega sin esfuerzo",
-        "Que solo los profetas pueden recibir revelación",
-        "Que no es necesario estudiar las Escrituras"
+        "Revisar sus notas y sus metas escritas, porque el crecimiento rara vez se siente mientras ocurre.",
+        "Comparar su progreso con el de sus compañeros de clase.",
+        "Fijarse metas más ambiciosas para el próximo bloque.",
+        "Esperar a sentir un cambio claro antes de intentar evaluarse."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué pasajes ayudan a aumentar nuestro amor y reverencia por el Padre Celestial y Jesucristo?",
+      "question": "Luca cumple con sus tareas de la Iglesia pero nunca se le ocurre ayudar a alguien si no se lo piden. Según Doctrina y Convenios 81:5, ¿qué le falta a su forma de ser fiel?",
       "options": [
-        "DyC 63:58–64 y DyC 76:19–24",
-        "Éxodo 20 y Levítico 11",
-        "Mateo 5 y Marcos 10",
-        "Apocalipsis 12 y Isaías 6"
+        "Aceptar un llamamiento formal que le dé una responsabilidad concreta.",
+        "La iniciativa de socorrer y levantar a quien lo necesita, que es parte del mandato y no un agregado opcional.",
+        "Mayor conocimiento doctrinal antes de intentar ayudar a otros.",
+        "Esperar a que un líder le asigne a quién debe ayudar."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,
-      "question": "¿Qué comparación se hace entre prepararse para un viaje y el crecimiento espiritual?",
+      "question": "Doctrina y Convenios 78:19 vincula la gratitud con la glorificación. ¿Qué supone ese vínculo sobre la gratitud?",
       "options": [
-        "Ambos requieren preparación y esfuerzo para disfrutar el camino",
-        "No tienen relación",
-        "El viaje es más importante que el crecimiento espiritual",
-        "El crecimiento espiritual no requiere preparación"
+        "Que agradecer sustituye la necesidad de obedecer los mandamientos.",
+        "Que la glorificación depende del número de bendiciones recibidas.",
+        "Que es una actitud que Dios recompensa además de valorar, y no solo una cortesía.",
+        "Que la gratitud se debe expresar únicamente por las bendiciones materiales."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 7,
-      "question": "¿Qué prácticas pueden mejorar el estudio de las Escrituras según la lección?",
+      "question": "Doctrina y Convenios 82:10 dice que el Señor está obligado cuando obedecemos, y el presidente Nelson define vencer al mundo como seguir las impresiones del Espíritu una y otra vez. ¿Qué principio común forman las dos ideas al evaluar el propio progreso?",
       "options": [
-        "Fijar un horario regular, preparar un lugar tranquilo, comenzar con oración, estudiar con deseo de aprender, reflexionar",
-        "Leer sin atención",
-        "Evitar la oración",
-        "Estudiar solo en reuniones"
+        "Que las promesas divinas se cumplen con independencia de lo que la persona haga.",
+        "Que la evaluación personal debe centrarse en los sentimientos más que en los actos.",
+        "Que vencer al mundo es un requisito previo para reclamar cualquier promesa.",
+        "Que el avance espiritual se mide por acciones concretas y repetidas, que son las que activan las promesas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }

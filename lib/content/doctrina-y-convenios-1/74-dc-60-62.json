@@ -38,7 +38,8 @@
         "¿Te identificás con alguien que a veces 'oculta el talento' por miedo, vergüenza o simplemente por no pensar en hacerlo?",
         "¿Qué significa para vos que tu testimonio, aunque parezca pequeño, sea registrado en el cielo según D&C 62:3?",
         "¿Hubo alguna oportunidad reciente donde podrías haber testificado y no lo hiciste? ¿Qué te detuvo?",
-        "¿Qué pequeño acto de testimonio o servicio podrías hacer esta semana, sabiendo que el Señor lo registra aunque nadie más lo vea?"
+        "¿Qué pequeño acto de testimonio o servicio podrías hacer esta semana, sabiendo que el Señor lo registra aunque nadie más lo vea?",
+        "¿A quién le debés una conversación en la que podrías decir simplemente lo que creés? ¿Cuándo la vas a tener?"
       ]
     }
   ],
@@ -47,45 +48,45 @@
       "id": 1,
       "question": "D&C 60:2–3 contiene una reprensión del Señor a algunos de los santos que viajaban de regreso a Ohio. ¿Cuál fue el motivo de esa reprensión?",
       "options": [
+        "Gastaron más dinero del que el Señor consideraba apropiado en el viaje.",
         "No abrieron sus bocas para testificar durante el viaje — ocultaron el talento que el Señor les dio.",
         "Viajaron por una ruta diferente a la que el Señor indicó.",
-        "No cuidaron bien a los enfermos del grupo durante el trayecto.",
-        "Gastaron más dinero del que el Señor consideraba apropiado en el viaje."
+        "No cuidaron bien a los enfermos del grupo durante el trayecto."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "D&C 62:3 contiene una promesa de aliento del Señor a los santos que viajaban desde el este. ¿Cuál es esa promesa?",
       "options": [
+        "Que serían llamados a cargos de liderazgo cuando llegaran a Misuri.",
         "Que su viaje estaría libre de peligros y enfermedades.",
         "Que sus testimonios habían sido registrados en el cielo y los ángeles se habían regocijado.",
-        "Que recibirían tierra en Sion sin costo alguno.",
-        "Que serían llamados a cargos de liderazgo cuando llegaran a Misuri."
+        "Que recibirían tierra en Sion sin costo alguno."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "D&C 61 reveló que el río Misuri tenía poderes destructivos que hacían peligroso viajar por él más de lo necesario. ¿Qué nos enseña eso sobre el nivel de detalle con que el Señor guía a Sus discípulos?",
       "options": [
-        "Que el Señor solo interviene en decisiones grandes y espirituales, no en detalles de logística.",
-        "Que el Señor está presente en los detalles prácticos del camino — Su guía cubre tanto lo espiritual como las decisiones concretas de la vida cotidiana.",
         "Que los santos debían consultar a expertos locales antes de confiar en la revelación.",
-        "Que la revelación de D&C 61 fue una excepción única y no establece un patrón."
+        "Que la revelación de D&C 61 fue una excepción única y no establece un patrón.",
+        "Que el Señor solo interviene en decisiones grandes y espirituales, no en detalles de logística.",
+        "Que el Señor está presente en los detalles prácticos del camino — Su guía cubre tanto lo espiritual como las decisiones concretas de la vida cotidiana."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "El élder Holland enseñó que 'no existe el testimonio pequeño o sin importancia — cada vez que lo das, es registrado en el cielo'. ¿Qué implicación práctica tiene eso para un joven que siente que su testimonio no vale la pena compartir?",
+      "question": "El élder Stevenson enseñó que damos testimonio «cuando compartimos sentimientos espirituales con otras personas», tanto en reuniones formales como de maneras menos formales. ¿Qué implicación tiene eso para alguien que cree que su testimonio no vale la pena compartirlo?",
       "options": [
-        "Ninguna — si el testimonio no es elocuente, es mejor no compartirlo.",
-        "Que el Señor registra y valora cada testimonio dado, independientemente de su tamaño o elocuencia — ningún testimonio es invisible ante el Señor.",
-        "Que debe esperar a tener un testimonio más desarrollado antes de compartirlo.",
-        "Que solo cuenta el testimonio dado en contextos formales de la Iglesia."
+        "Que dar testimonio no exige un escenario ni un discurso: compartir un sentimiento espiritual con alguien ya lo es.",
+        "Que conviene esperar a tener un testimonio más maduro antes de expresarlo.",
+        "Que solo cuenta el testimonio expresado en contextos formales de la Iglesia.",
+        "Que si el testimonio no resulta elocuente, es preferible guardárselo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -102,12 +103,12 @@
       "id": 6,
       "question": "Lucía dice que 'de nada sirve mi testimonio porque nadie lo escucha de todos modos'. D&C 62:3 le responde directamente. ¿Qué le diría el Señor?",
       "options": [
+        "Que el testimonio solo tiene valor cuando produce conversiones verificables.",
         "Que tiene razón y debe esperar hasta tener más impacto antes de testificar.",
         "Que los testimonios dados en fe son registrados en el cielo y los ángeles se regocijan — el impacto visible en otros no es el único ni el más importante criterio.",
-        "Que debe buscar un foro más grande para que su testimonio tenga más alcance.",
-        "Que el testimonio solo tiene valor cuando produce conversiones verificables."
+        "Que debe buscar un foro más grande para que su testimonio tenga más alcance."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,

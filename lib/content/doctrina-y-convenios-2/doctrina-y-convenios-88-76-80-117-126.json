@@ -1,83 +1,136 @@
 {
   "id": "doctrina-y-convenios-88-76-80-117-126",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "La última parte de la sección 88 contiene las instrucciones para la Escuela de los Profetas, la primera escuela de la Iglesia restaurada. Y ahí aparece uno de los pasajes más conocidos de toda la Escritura sobre cómo se aprende: «buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe» (versículo 118).",
+        "Las dos vías no son alternativas. El estudio sin fe acumula datos; la fe sin estudio se queda en buenas intenciones. El élder David A. Bednar explicó que buscar conocimiento por la fe es algo activo: cada vez que uno actúa conforme a lo que cree —obedecer aunque la opinión popular se burle, resistirse a un entretenimiento que celebra romper convenios— la fe aumenta, y con ella la capacidad de aprender.",
+        "El pasaje incluye además un consejo práctico que sorprende por lo concreto: «cesad de dormir más de lo necesario; acostaos temprano para que no os fatiguéis; levantaos temprano para que vuestros cuerpos y vuestras mentes sean vigorizados» (versículo 124). El Señor sabía que la capacidad de aprender depende también de cosas tan poco espirituales como a qué hora uno se acuesta."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:118",
+          "texto": "Y por cuanto no todos tienen fe, buscad diligentemente y enseñaos el uno al otro palabras de sabiduría; sí, buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:77–78",
+          "texto": "Y os mando que os enseñéis el uno al otro la doctrina del reino. Enseñaos diligentemente, y mi gracia os acompañará, para que seáis más perfectamente instruidos en teoría, en principio, en doctrina, en la ley del evangelio, en todas las cosas que pertenecen al reino de Dios, que os conviene comprender.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p77-p78#p77"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:124",
+          "texto": "Cesad de ser ociosos; cesad de ser impuros; cesad de criticaros el uno al otro; cesad de dormir más de lo necesario; acostaos temprano para que no os fatiguéis; levantaos temprano para que vuestros cuerpos y vuestras mentes sean vigorizados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p124#p124"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Buscar conocimiento por la fe», Liahona, septiembre de 2007, pág. 17",
+      "texto": "Al vislumbrar el futuro y prever el mundo cada vez más confuso y atribulado en el que nos tocará vivir, creo que resultará esencial que todos aumentemos nuestra capacidad de buscar conocimiento por la fe.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2007/09/seek-learning-by-faith?lang=spa&id=p4#p4"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "El Señor pidió buscar conocimiento «tanto por el estudio como por la fe», y en el mismo pasaje habló de a qué hora acostarse. Esa mezcla de lo elevado y lo doméstico no es casual: aprender de verdad depende de las dos cosas. Revisá cuál de las dos te está fallando ahora —el estudio o la fe, o el horario— y corregí esa. Suele ser la más aburrida de las tres."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué pasa cuando alguien estudia mucho pero sin fe? ¿Y cuando tiene fe pero no estudia?",
+        "Doctrina y Convenios 88:118 manda buscar «de los mejores libros». ¿Cómo decidís vos si una fuente es de las mejores?",
+        "El élder Bednar dice que la fe aumenta cada vez que uno actúa conforme a ella. ¿Cuándo fue la última vez que te pasó?",
+        "El versículo 124 habla de acostarse y levantarse temprano. ¿Qué relación ves entre eso y tu capacidad de aprender?",
+        "De las cosas que el versículo 124 manda dejar —ociosidad, impureza, crítica, dormir de más—, ¿cuál te toca más de cerca?",
+        "¿Qué vas a corregir esta semana: el estudio, la fe o el horario? Elegí una y decí cómo."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué mandó el Señor estudiar en DyC 88:77–80 a los miembros de la Escuela de los Profetas?",
+      "question": "Según Doctrina y Convenios 88:118, ¿de qué dos maneras se manda buscar conocimiento?",
       "options": [
-        "El Evangelio, las leyes de Dios y las cosas de la tierra y el cielo",
-        "Solo temas religiosos",
-        "Únicamente ciencias naturales",
-        "Nada en particular"
+        "Por la oración y por la enseñanza mutua.",
+        "Por la experiencia y por el consejo de los líderes.",
+        "Por la meditación y por el servicio a los demás.",
+        "Por el estudio y por la fe."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué principio clave enseña DyC 88:118 sobre adquirir conocimiento?",
+      "question": "¿Qué manda Doctrina y Convenios 88:77–78 hacer entre los miembros de la Escuela de los Profetas?",
       "options": [
-        "Buscad conocimiento, tanto por el estudio como por la fe",
-        "Depender solo del estudio",
-        "Depender solo de la fe",
-        "Evitar el aprendizaje"
+        "Enseñarse diligentemente unos a otros la doctrina del reino.",
+        "Elegir un maestro que instruya al resto del grupo.",
+        "Dedicar la mayor parte del tiempo al estudio individual.",
+        "Guardar en secreto la doctrina hasta estar plenamente instruidos."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué verdad aprendemos de DyC 88:119–126 sobre la organización y el aprendizaje?",
+      "question": "Doctrina y Convenios 88:124 incluye instrucciones tan concretas como acostarse y levantarse temprano en medio de un pasaje sobre el aprendizaje espiritual. ¿Qué sugiere esa combinación?",
       "options": [
-        "Que debemos organizar nuestras casas y corazones con oración, fe y orden",
-        "Que no es necesario organizarse",
-        "Que el aprendizaje es irrelevante",
-        "Que solo los líderes deben estudiar"
+        "Que las cuestiones prácticas debían resolverse antes de comenzar el estudio.",
+        "Que las condiciones físicas influyen sobre la capacidad de aprender y de recibir revelación.",
+        "Que el descanso adecuado es un mandamiento independiente del contexto de la lección.",
+        "Que la Escuela de los Profetas tenía un horario estricto que había que cumplir."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué enseñó el presidente Russell M. Nelson sobre el futuro y la fe?",
+      "question": "El élder Bednar enseñó que resultará esencial «aumentar nuestra capacidad de buscar conocimiento por la fe» en un mundo cada vez más confuso. ¿Qué implica que hable de una capacidad que aumenta?",
       "options": [
-        "Que debemos acoger el futuro con fe en Jesucristo",
-        "Que el futuro es incierto sin esperanza",
-        "Que no debemos preocuparnos por el futuro",
-        "Que la fe no influye en el futuro"
+        "Que solo quienes ya tienen un testimonio firme pueden aprender de esa manera.",
+        "Que la confusión del mundo hará innecesario el conocimiento académico.",
+        "Que se trata de una habilidad que se desarrolla con la práctica, y no de un don fijo.",
+        "Que la fe reemplazará al estudio en las circunstancias difíciles."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "¿Qué beneficios trae aprender tanto por el estudio como por la fe?",
+      "question": "Tomás estudia muchas horas para el Seminario y saca buenas notas, pero dice que nunca sintió nada al leer las Escrituras. Según Doctrina y Convenios 88:118, ¿qué componente le falta?",
       "options": [
-        "Fortalece la fe en Jesucristo y prepara para servir mejor",
-        "No tiene beneficios",
-        "Genera confusión",
-        "Aleja de la espiritualidad"
+        "Cambiar de material de estudio por uno más accesible.",
+        "Estudiar acompañado en lugar de hacerlo solo.",
+        "Dedicar más tiempo a la lectura para que el hábito se consolide.",
+        "La fe, que es la otra mitad del método que el versículo prescribe."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 6,
-      "question": "¿Qué ejemplo histórico se menciona en la lección sobre la Escuela de los Profetas?",
+      "question": "Ana se acuesta muy tarde todas las noches y después no puede concentrarse en su estudio personal por la mañana. Según Doctrina y Convenios 88:124, ¿qué le muestra el texto?",
       "options": [
-        "Se organizó en Kirtland, Ohio, en 1833 bajo la dirección de José Smith",
-        "Se fundó en Salt Lake City en 1900",
-        "Fue creada en Europa",
-        "No existió realmente"
+        "Que el Señor incluyó el horario de descanso entre las condiciones del aprendizaje.",
+        "Que conviene trasladar el estudio a la noche, cuando está más despierta.",
+        "Que la concentración depende del interés y no del cansancio.",
+        "Que su dificultad es espiritual y no tiene relación con el descanso."
       ],
       "correctAnswer": 0
     },
     {
       "id": 7,
-      "question": "¿Qué principio central enseña DyC 88:76–80, 117–126 sobre el aprendizaje?",
+      "question": "Doctrina y Convenios 88:118 manda buscar conocimiento por el estudio y por la fe, y 88:78 promete que la gracia del Señor acompañará a quienes se enseñen diligentemente. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Que el conocimiento espiritual y temporal se adquiere por el estudio y por la fe",
-        "Que solo el conocimiento espiritual importa",
-        "Que solo el conocimiento temporal importa",
-        "Que el aprendizaje no es necesario"
+        "Que el conocimiento espiritual se recibe completo cuando se cumplen las condiciones.",
+        "Que el aprendizaje del evangelio combina esfuerzo humano y ayuda divina, y ninguno de los dos sobra.",
+        "Que la gracia del Señor sustituye la necesidad de estudiar con disciplina.",
+        "Que la enseñanza mutua es superior al estudio personal."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

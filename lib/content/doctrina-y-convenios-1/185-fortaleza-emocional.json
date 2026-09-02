@@ -38,7 +38,8 @@
         "¿Alguna vez sentiste la 'paz de Dios que sobrepasa todo entendimiento' de Filipenses 4:7 en un momento difícil? ¿Cómo llegó?",
         "¿Hay algo que estás cargando emocionalmente ahora mismo que podrías llevarle al Señor en oración esta semana?",
         "¿Cómo podrías ser vos un recurso de apoyo emocional para alguien en tu entorno que está luchando?",
-        "¿Qué hábito espiritual — oración, Escrituras, servicio, comunidad — quieres fortalecer esta semana para construir más fortaleza emocional en el Señor?"
+        "¿Qué hábito espiritual — oración, Escrituras, servicio, comunidad — quieres fortalecer esta semana para construir más fortaleza emocional en el Señor?",
+        "Si esta semana la carga se pone más pesada de lo que podés sola o solo, ¿a qué adulto de confianza vas a recurrir? Nombralo ahora, antes de necesitarlo."
       ]
     }
   ],
@@ -47,45 +48,45 @@
       "id": 1,
       "question": "D&C 121:7–8 fue escrito por José Smith desde la Cárcel de Liberty. ¿Cuál es la promesa específica que el Señor le da en esos versículos?",
       "options": [
+        "Que la Iglesia prosperaría incluso sin su presencia.",
         "Paz sea a tu alma — tu adversidad y aflicciones no serán sino un pequeño momento, y si soportas bien, Dios te exaltará en lo alto.",
         "Que sería liberado de la cárcel en pocas semanas.",
-        "Que sus perseguidores recibirían castigo inmediato del Señor.",
-        "Que la Iglesia prosperaría incluso sin su presencia."
+        "Que sus perseguidores recibirían castigo inmediato del Señor."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "Filipenses 4:7 describe un tipo específico de paz. ¿Cuál es la característica que Pablo le atribuye?",
       "options": [
-        "Que sobrepasa todo entendimiento y guarda los corazones y pensamientos en Cristo Jesús.",
-        "Que llega después de resolver todos los problemas y circunstancias difíciles.",
         "Que solo está disponible para quienes tienen una fe perfecta sin dudas.",
-        "Que es una emoción producida por la meditación y la práctica espiritual disciplinada."
+        "Que es una emoción producida por la meditación y la práctica espiritual disciplinada.",
+        "Que sobrepasa todo entendimiento y guarda los corazones y pensamientos en Cristo Jesús.",
+        "Que llega después de resolver todos los problemas y circunstancias difíciles."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "El élder Holland enseñó que el Salvador sufrió 'no solo nuestros pecados sino también nuestros dolores, enfermedades y tristezas'. ¿Qué implica eso sobre la capacidad del Salvador de ayudar en la salud emocional?",
       "options": [
-        "Que el Salvador solo comprende el sufrimiento espiritual causado por el pecado.",
-        "Que el Salvador conoce desde dentro cada tipo de sufrimiento emocional — no ofrece comprensión teórica sino comprensión experiencial completa de lo que el discípulo vive.",
         "Que el sufrimiento emocional es menos importante que el sufrimiento espiritual para el Señor.",
-        "Que el Salvador interviene directamente para eliminar el sufrimiento emocional de quienes oran."
+        "Que el Salvador interviene directamente para eliminar el sufrimiento emocional de quienes oran.",
+        "Que el Salvador solo comprende el sufrimiento espiritual causado por el pecado.",
+        "Que el Salvador conoce desde dentro cada tipo de sufrimiento emocional — no ofrece comprensión teórica sino comprensión experiencial completa de lo que el discípulo vive."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Por qué los principios del evangelio — identidad como hijo de Dios, Expiación, oración, servicio, comunidad — son recursos de salud emocional y no solo espiritual?",
       "options": [
-        "Porque la salud espiritual y emocional son mundos separados que no se influyen.",
         "Porque el evangelio trata a la persona como una unidad — D&C 88:15 dice que el espíritu y el cuerpo son el alma — y lo que fortalece el espíritu tiene efectos reales en el estado emocional.",
         "Porque el evangelio es superior a la psicología y la reemplaza completamente.",
-        "Porque los principios del evangelio solo tienen efecto emocional en personas con suficiente fe."
+        "Porque los principios del evangelio solo tienen efecto emocional en personas con suficiente fe.",
+        "Porque la salud espiritual y emocional son mundos separados que no se influyen."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -113,12 +114,12 @@
       "id": 7,
       "question": "D&C 121:7–8 (paz en la adversidad) y Filipenses 4:7 (paz que sobrepasa el entendimiento) juntos describen la paz del Señor. ¿En qué se diferencia esa paz de la simple ausencia de problemas?",
       "options": [
-        "No se diferencia — la paz del Señor elimina los problemas y por eso no hay diferencia.",
-        "La paz del Señor es una presencia en medio del problema, no la ausencia del problema — José tenía paz en la cárcel sin que la cárcel desapareciera, y Filipenses describe una paz que guarda el corazón incluso cuando las circunstancias no cambian.",
         "La paz del Señor solo llega después de que los problemas se resuelven.",
-        "Solo los santos más avanzados pueden experimentar esa paz mientras los problemas continúan."
+        "Solo los santos más avanzados pueden experimentar esa paz mientras los problemas continúan.",
+        "No se diferencia — la paz del Señor elimina los problemas y por eso no hay diferencia.",
+        "La paz del Señor es una presencia en medio del problema, no la ausencia del problema — José tenía paz en la cárcel sin que la cárcel desapareciera, y Filipenses describe una paz que guarda el corazón incluso cuando las circunstancias no cambian."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

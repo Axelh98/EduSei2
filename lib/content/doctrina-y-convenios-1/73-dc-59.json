@@ -38,7 +38,8 @@
         "¿Qué actividades del domingo te ayudan a renovar tu conexión con el Señor? ¿Cuáles te alejan de eso?",
         "¿Qué diferencia hace en tu semana entera el hecho de haber guardado bien el día de reposo?",
         "¿Qué cambio concreto y alcanzable harías en tu domingo para que sea más como lo describe D&C 59?",
-        "¿Cómo explicarías a alguien que no es miembro por qué guardás el día de reposo, de una manera que suene a libertad y no a restricción?"
+        "¿Cómo explicarías a alguien que no es miembro por qué guardás el día de reposo, de una manera que suene a libertad y no a restricción?",
+        "Elegí una sola cosa que vas a sacar de tu domingo y una sola que vas a poner. ¿Cuáles son, y cómo vas a acordarte el sábado a la noche?"
       ]
     }
   ],
@@ -47,45 +48,45 @@
       "id": 1,
       "question": "D&C 59 fue revelada el mismo día en que falleció Polly Knight, la primera persona miembro en morir en Misuri. ¿Sobre qué dos temas centrales trata esa revelación?",
       "options": [
+        "Las señales de los tiempos y la preparación para la Segunda Venida.",
         "El día de reposo y la gratitud por las creaciones de Dios.",
         "El arrepentimiento y el cuidado de los pobres en Sion.",
-        "La organización del sacerdocio y el llamado a la misión.",
-        "Las señales de los tiempos y la preparación para la Segunda Venida."
+        "La organización del sacerdocio y el llamado a la misión."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "D&C 59:9–10 describe cómo debe guardarse el día de reposo. ¿Cuál de las siguientes actividades menciona explícitamente ese versículo?",
       "options": [
-        "Ir a la casa de oración y ofrecer oblaciones al Altísimo.",
-        "Descansar todo el día evitando cualquier actividad física.",
         "Leer el Libro de Mormón durante al menos tres horas.",
-        "Hacer el almuerzo más elaborado de la semana para honrar el día."
+        "Hacer el almuerzo más elaborado de la semana para honrar el día.",
+        "Ir a la casa de oración y ofrecer oblaciones al Altísimo.",
+        "Descansar todo el día evitando cualquier actividad física."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "El presidente Nelson enseñó que cuando hacemos del domingo un 'deleite', 'la actitud lo cambia todo'. ¿Qué diferencia práctica hace esa actitud entre guardar el día de reposo por obligación versus por amor?",
       "options": [
-        "No hay diferencia — el resultado externo es el mismo independientemente de la motivación.",
-        "Guardar el domingo por obligación es una carga que se cumple; guardarlo por amor es una fuente de renovación que uno busca — la motivación transforma la experiencia.",
         "La obligación produce más frutos espirituales porque implica más sacrificio.",
-        "Solo los adultos pueden sentir el deleite del domingo; los jóvenes deben guardar por obligación primero."
+        "Solo los adultos pueden sentir el deleite del domingo; los jóvenes deben guardar por obligación primero.",
+        "No hay diferencia — el resultado externo es el mismo independientemente de la motivación.",
+        "Guardar el domingo por obligación es una carga que se cumple; guardarlo por amor es una fuente de renovación que uno busca — la motivación transforma la experiencia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "D&C 59:15–16 promete que los santos que guardan los mandamientos recibirán 'la plenitud de la tierra'. ¿Qué tipo de bendición describe ese lenguaje — material, espiritual o ambas?",
       "options": [
-        "Solo material — el Señor promete prosperidad económica a los obedientes.",
-        "Solo espiritual — es una metáfora de paz interior sin implicaciones temporales.",
         "Ambas — las bendiciones del Señor a quienes guardan Sus mandamientos incluyen tanto dimensiones temporales como espirituales, y con gratitud como condición central.",
-        "Solo aplica a los santos que vivieron en Misuri en el siglo XIX."
+        "Solo aplica a los santos que vivieron en Misuri en el siglo XIX.",
+        "Solo material — el Señor promete prosperidad económica a los obedientes.",
+        "Solo espiritual — es una metáfora de paz interior sin implicaciones temporales."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -102,12 +103,12 @@
       "id": 6,
       "question": "Nicolás dice que preferiría hacer otra cosa los domingos pero que 'no queda otra'. Si aplicara la perspectiva del presidente Nelson de que el domingo debe ser un 'deleite', ¿qué cambiaría?",
       "options": [
+        "Que el deleite llegaría automáticamente si simplemente cambia su actitud sin cambiar sus hábitos.",
         "Que ya no tendría que asistir a la Iglesia porque la asistencia obligatoria contradice el deleite.",
         "Que en lugar de preguntarse '¿qué no puedo hacer hoy?', se preguntaría '¿qué puedo hacer hoy que renueve mi conexión con el Señor y con mi familia?'",
-        "Que buscaría actividades más entretenidas dentro del marco del día de reposo.",
-        "Que el deleite llegaría automáticamente si simplemente cambia su actitud sin cambiar sus hábitos."
+        "Que buscaría actividades más entretenidas dentro del marco del día de reposo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,

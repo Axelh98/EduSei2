@@ -1,83 +1,136 @@
 {
   "id": "doctrina-y-convenios-71",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En el invierno de 1831 la persecución contra los santos de Kirtland creció con fuerza. Algunos miembros abandonaron la Iglesia; entre ellos, Ezra Booth, que empezó a publicar cartas en los periódicos atacando a José Smith y tratando de destruir la obra. Las cartas circulaban, y muchos santos no sabían qué hacer con ellas: ¿responder?, ¿ignorarlas?, ¿discutir con cada persona que las repetía?",
+        "José pidió consejo al Señor y recibió Doctrina y Convenios 71. La respuesta no fue callarse ni entrar en la pelea con las mismas armas. El Señor los mandó salir a proclamar el evangelio «explicando sus misterios por medio de las Escrituras, de acuerdo con la porción del Espíritu» (versículo 1). Es decir: responder con verdad y con el Espíritu, no con enojo.",
+        "Hoy las cartas de Ezra Booth son videos, comentarios y publicaciones que aparecen en el teléfono de cualquier joven de la Iglesia. La instrucción sigue siendo la misma, y sigue siendo difícil: cuando alguien critica lo que creés, la reacción natural es defenderse o esconderse, y el Señor propone una tercera cosa."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 71:1",
+          "texto": "He aquí, así os dice el Señor a vosotros, mis siervos José Smith, hijo, y Sidney Rigdon: Ciertamente ha llegado el tiempo en que es necesario y oportuno que abráis vuestra boca para proclamar mi evangelio, las cosas del reino, explicando sus misterios por medio de las Escrituras, de acuerdo con la porción del Espíritu y del poder que se os dará según mi voluntad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 71:7",
+          "texto": "Confundid, pues, a vuestros enemigos; invitadlos a discutir con vosotros en público y en privado; y si sois fieles, será manifestada su vergüenza.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "Doctrina y Convenios 71:9–10",
+          "texto": "De cierto, así os dice el Señor, no hay arma forjada en contra de vosotros que haya de prosperar; y si hombre alguno alza su voz en contra de vosotros, será confundido en mi propio y debido tiempo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/71?lang=spa&id=p9-p10#p9"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "«Seguir a Jesús: ser pacificadores», Conferencia General, abril de 2022 (Liahona, mayo de 2022, págs. 17–18)",
+      "texto": "¿De qué manera los pacificadores calman y aplacan los dardos ardientes? Ciertamente, no lo hacemos al enmudecer ante quienes nos denigran. Por el contrario, nos mantenemos confiados en nuestra fe y compartimos nuestras creencias con convicción, pero siempre sin ira ni malicia. […] Los pacificadores no son pasivos; son persuasivos a la manera del Salvador.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/15andersen?lang=spa&id=p9#p9"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "El Señor no pidió a José y a Sidney que se quedaran callados, y tampoco que se pelearan. Les pidió algo más exigente: hablar con convicción, apoyados en las Escrituras y en el Espíritu, sin ira. Esa es la diferencia entre defender la fe y discutir por deporte, y se nota enseguida en quién queda escuchando. La próxima vez que veas una crítica a la Iglesia en una pantalla, frená antes de responder y preguntate qué verdad podrías compartir en lugar del contraataque que ya tenías escrito."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué es lo primero que sentís cuando alguien critica algo que vos creés? ¿Ganas de responder, de irte, de esconderte?",
+        "Según Doctrina y Convenios 71:1, ¿con qué dos recursos debían responder José y Sidney a las falsedades que circulaban?",
+        "El élder Andersen dice que ser pacificador no es enmudecer. ¿Dónde está, entonces, la diferencia entre responder con convicción y responder con enojo?",
+        "¿Alguna vez respondiste a una crítica de una manera de la que después te arrepentiste? ¿Qué habrías hecho distinto?",
+        "¿Qué verdad del evangelio podrías compartir con confianza si alguien de tu curso cuestionara la Iglesia esta semana?",
+        "¿Qué vas a hacer la próxima vez, antes de escribir una respuesta en un comentario o un chat? Definí el paso concreto."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué instrucción dio el Salvador a José Smith y Sidney Rigdon en Doctrina y Convenios 71?",
+      "question": "En el invierno de 1831, ¿qué hizo Ezra Booth después de abandonar la Iglesia, y que motivó la revelación de Doctrina y Convenios 71?",
       "options": [
-        "Castigar a quienes difundían rumores",
-        "Escribir nuevas revelaciones para defenderse",
-        "Viajar por la región corrigiendo las falsedades",
-        "Ignorar las críticas y mantenerse en silencio"
+        "Publicó cartas en los periódicos atacando a José Smith y a la obra del Señor.",
+        "Presentó cargos legales contra los líderes de la Iglesia ante las autoridades locales.",
+        "Fundó una congregación paralela con miembros descontentos de Kirtland.",
+        "Organizó a un grupo de vecinos para expulsar a los santos de Kirtland."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Quién fue uno de los primeros santos que abandonó la Iglesia y comenzó a publicar cartas críticas?",
+      "question": "Según Doctrina y Convenios 71:1, ¿con qué debían José Smith y Sidney Rigdon explicar los misterios del reino al salir a responder?",
       "options": [
-        "Sidney Rigdon",
-        "Oliver Cowdery",
-        "Symonds Ryder",
-        "Ezra Booth"
+        "Con el testimonio escrito de quienes habían presenciado las revelaciones.",
+        "Con las Escrituras y con la porción del Espíritu que les fuera dada.",
+        "Con los documentos históricos que probaban la falsedad de las acusaciones.",
+        "Con el respaldo público de los líderes civiles de la región de Kirtland."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "Según el élder Neil L. Andersen, ¿qué simbolizan los \"dardos de fuego\" en las Escrituras?",
+      "question": "Doctrina y Convenios 71:9–10 promete que «no hay arma forjada en contra de vosotros que haya de prosperar» y que quien alce su voz «será confundido en mi propio y debido tiempo». ¿Qué matiz agrega esa última frase a la promesa?",
       "options": [
-        "Las tentaciones del mundo",
-        "Las pruebas físicas de los santos",
-        "Las críticas y ataques contra nuestras creencias",
-        "Los pecados personales"
+        "Que la protección depende de la habilidad con que uno responda a las críticas.",
+        "Que la promesa se cumple de inmediato para quienes son fieles.",
+        "Que la promesa se cumple, pero en los tiempos del Señor y no necesariamente en los nuestros.",
+        "Que la promesa alcanza solo a quienes ocupan un llamamiento en la Iglesia."
       ],
       "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué nos da la fortaleza interior para apagar los dardos encendidos del adversario?",
+      "question": "El élder Andersen enseñó que los pacificadores «no son pasivos; son persuasivos a la manera del Salvador». ¿Qué corrige esa frase sobre la idea común de ser pacificador?",
       "options": [
-        "La obediencia estricta a los líderes",
-        "El conocimiento intelectual de las Escrituras",
-        "La fe en Jesucristo y en Sus palabras",
-        "La capacidad de debatir con firmeza"
+        "Que la persuasión requiere argumentos mejores que los del que critica.",
+        "Que el pacificador evita el conflicto quedándose callado ante la crítica.",
+        "Que ser pacificador consiste en ceder para no incomodar a nadie.",
+        "Que el pacificador habla con convicción, y lo que deja afuera es la ira, no el mensaje."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Qué enseñó el presidente Russell M. Nelson sobre responder en redes sociales?",
+      "question": "A Martina le comparten en un grupo del colegio un video que ridiculiza una creencia de la Iglesia, y varios compañeros empiezan a comentar. Según Doctrina y Convenios 71 y la enseñanza del élder Andersen, ¿cuál sería la respuesta más coherente?",
       "options": [
-        "Publicar más mensajes para contrarrestar las críticas",
-        "Responder con firmeza y dureza",
-        "Edificar puentes de entendimiento en lugar de replicar con ira",
-        "Ignorar siempre los comentarios negativos"
+        "Decir con calma lo que ella cree y por qué, sin entrar en la discusión sobre el video.",
+        "Esperar a que un adulto de la Iglesia responda por ella en el grupo.",
+        "Salir del grupo para evitar el conflicto y no exponerse a más comentarios.",
+        "Responder con la misma ironía para que quede claro que no se deja intimidar."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
-      "question": "¿Qué actitud pidió el presidente Nelson al tratar con los demás en casa, la capilla y en línea?",
+      "question": "Benjamín siente que cada vez que discute sobre la Iglesia termina enojado y con la sensación de haber empeorado las cosas. ¿Qué elemento del consejo de Doctrina y Convenios 71:1 le está faltando?",
       "options": [
-        "Ser más estrictos y críticos",
-        "Defender siempre nuestras opiniones con firmeza",
-        "Interactuar de manera más elevada y santa",
-        "Evitar cualquier tipo de conversación"
+        "Preparar de antemano una lista de argumentos que refuten las objeciones más comunes.",
+        "Apoyarse en las Escrituras y en el Espíritu, que es lo que cambia el tono además del contenido.",
+        "Elegir mejor con quién discutir, evitando a quienes ya tienen una postura tomada.",
+        "Dejar el tema por completo hasta tener más conocimiento doctrinal."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
-      "question": "¿Qué ejemplo de Jesucristo muestra cómo responder ante críticas?",
+      "question": "Doctrina y Convenios 71:7 manda invitar a los críticos a discutir «en público y en privado», y el élder Andersen enseña a compartir las creencias «sin ira ni malicia». ¿Qué principio común forman las dos enseñanzas?",
       "options": [
-        "Lucas 23:8–10, cuando fue interrogado por Herodes",
-        "Doctrina y Convenios 121:41–46, sobre el poder del sacerdocio",
-        "Mateo 4:3–11, cuando resistió las tentaciones de Satanás",
-        "Todas las anteriores"
+        "Que las conversaciones sobre la fe deben darse siempre en privado para evitar conflictos.",
+        "Que la firmeza en la fe se demuestra por la cantidad de discusiones que uno gana.",
+        "Que la verdad no necesita esconderse, pero tampoco necesita agredir para sostenerse.",
+        "Que conviene enfrentar públicamente a quien critique para que su error quede expuesto."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

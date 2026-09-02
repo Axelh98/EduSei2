@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Los versículos 19–24 de D&C 76 describen el corazón de la visión: el cielo se abrió y José Smith y Sidney Rigdon vieron al Padre y al Hijo. El Salvador estaba a la diestra del Padre, y una voz dio testimonio de que era el Unigénito. Esta visión es doctrinalmente revolucionaria: confirma que el Padre y el Hijo son seres separados, corporales y distintos — no una trinidad abstracta. Confirma que Jesucristo tiene un cuerpo resucitado glorificado. Y establece que el propósito de la Expiación y de todo el plan de salvación se resume en que los seres humanos puedan llegar a la presencia del Padre y del Hijo. Para los jóvenes que a veces sienten que Dios es distante o abstracto, esta visión es la respuesta más directa posible: el Padre y el Hijo son reales, concretos, y la meta del evangelio es llegar a conocerlos personalmente."
+      "contenido": [
+        "Los versículos 19–24 de Doctrina y Convenios 76 describen el corazón de la visión: el cielo se abrió y José Smith y Sidney Rigdon vieron al Padre y al Hijo. El Salvador estaba a la diestra del Padre, y una voz dio testimonio de que era el Unigénito.",
+        "Esa visión es doctrinalmente decisiva. Confirma que el Padre y el Hijo son seres separados, corporales y distintos, y no una trinidad abstracta; confirma que Jesucristo tiene un cuerpo resucitado y glorificado; y establece que el propósito de la Expiación y de todo el plan de salvación se resume en que los seres humanos puedan llegar a la presencia del Padre y del Hijo. Para los jóvenes que a veces sienten que Dios es distante o abstracto, esta visión responde de la manera más directa posible: el Padre y el Hijo son reales y concretos, y la meta del evangelio no es cumplir una lista de requisitos, sino llegar a conocerlos."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿Cómo describe Juan 17:3 el propósito de la vida eterna? ¿Qué significa 'conocerlos' versus 'saber sobre ellos'?",
         "¿Cómo cambiaría tu motivación para guardar los convenios saber que cada uno te acerca más a conocer al Padre y al Hijo personalmente?",
         "¿Qué aspectos del carácter del Padre y del Hijo querés conocer mejor? ¿Cómo podrías buscar ese conocimiento esta semana?",
-        "¿Cómo explicarías a alguien que no es miembro de la Iglesia por qué los Santos de los Últimos Días creen que el Padre y el Hijo son seres separados?"
+        "¿Cómo explicarías a alguien que no es miembro de la Iglesia por qué los Santos de los Últimos Días creen que el Padre y el Hijo son seres separados?",
+        "Si conocer al Padre y al Hijo es la meta, ¿qué estás haciendo esta semana que efectivamente te acerca a eso, y qué estás haciendo solo por costumbre?"
       ]
     }
   ],
@@ -47,43 +51,43 @@
       "id": 1,
       "question": "D&C 76:22–23 es el testimonio central de la visión. ¿Cuál es la declaración exacta de José y Sidney sobre lo que vieron?",
       "options": [
-        "'Que vive. Porque le vimos, aun a la diestra de Dios; y oímos la voz que daba testimonio de que Él es el Unigénito del Padre.'",
-        "'Que Cristo resucitó y que Su Padre celestial lo recibió en gloria eterna.'",
         "'Que el Padre y el Hijo son uno en propósito aunque distintos en persona.'",
-        "'Que el Salvador intercede continuamente por Sus discípulos ante el trono de Dios.'"
+        "'Que el Salvador intercede continuamente por Sus discípulos ante el trono de Dios.'",
+        "'Que vive. Porque le vimos, aun a la diestra de Dios; y oímos la voz que daba testimonio de que Él es el Unigénito del Padre.'",
+        "'Que Cristo resucitó y que Su Padre celestial lo recibió en gloria eterna.'"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "D&C 76:19–20 describe el momento en que el cielo se abrió. ¿Qué 'tocó' el Señor para que pudieran ver la visión?",
       "options": [
-        "Los ojos del entendimiento de José y Sidney — no fue una experiencia física sino espiritual.",
         "Los ojos físicos de José y Sidney con una luz especial.",
         "Los corazones de José y Sidney para prepararlos emocionalmente.",
-        "La mente de José Smith solamente, quien luego describió la visión a Sidney."
+        "La mente de José Smith solamente, quien luego describió la visión a Sidney.",
+        "Los ojos del entendimiento de José y Sidney — no fue una experiencia física sino espiritual."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "D&C 76:22–23 establece que el Padre y el Hijo son seres separados — José vio al Hijo 'a la diestra de Dios'. ¿Qué doctrina sobre la naturaleza de Dios confirma directamente ese testimonio?",
       "options": [
-        "Que el Padre y el Hijo son la misma persona en diferentes manifestaciones.",
         "Que el Padre y el Hijo son seres distintos y separados — la Trinidad como tres personas en una es doctrinalmente incorrecta según esta visión.",
         "Que el Hijo es menor que el Padre porque está ubicado 'a su diestra' y no en el centro.",
-        "Que el Espíritu Santo también fue visto en la visión aunque el texto no lo mencione."
+        "Que el Espíritu Santo también fue visto en la visión aunque el texto no lo mencione.",
+        "Que el Padre y el Hijo son la misma persona en diferentes manifestaciones."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "El presidente Hinckley enseñó que el testimonio de que 'Jesús de Nazaret es el Cristo, el Hijo del Dios Viviente' es el más importante que cualquier ser humano puede dar o recibir. ¿Por qué D&C 76:22–23 es la expresión más directa de ese testimonio en la Restauración?",
+      "question": "El élder Maxwell enseñó que, bajo la dirección del Padre, «Cristo era el Señor del universo, que creó incontables mundos, de los cuales el nuestro es solo uno». ¿Qué agrega Doctrina y Convenios 76:22–24 a esa afirmación?",
       "options": [
-        "Porque fue dado por dos testigos que lo vieron con sus propios ojos — no es una creencia sino un testimonio de testigos presenciales.",
-        "Porque es la sección más citada de D&C y por eso tiene más autoridad.",
-        "Porque fue dado por el profeta José Smith, cuya autoridad supera la de cualquier otro testigo.",
-        "Porque es el único testimonio en toda la Escritura que incluye tanto el Padre como el Hijo."
+        "Que es el único pasaje de toda la Escritura donde se nombra al Padre y al Hijo juntos.",
+        "Que la declaración proviene de dos testigos que lo vieron, y que por medio de Él los mundos fueron creados y sus habitantes son engendrados hijos de Dios.",
+        "Que es la sección más citada de Doctrina y Convenios, y de ahí proviene su autoridad.",
+        "Que el testimonio vale por la posición de José Smith, superior a la de cualquier otro testigo."
       ],
       "correctAnswer": 1
     },
@@ -102,23 +106,23 @@
       "id": 6,
       "question": "Tomás tiene dudas sobre si el Salvador es real o solo una figura histórica y cultural. D&C 76:22 le ofrece un tipo diferente de evidencia. ¿Cuál es?",
       "options": [
-        "Evidencia arqueológica que confirma los hechos históricos del Nuevo Testamento.",
-        "El testimonio personal de dos hombres que lo vieron — no como creencia sino como experiencia directa. Si Tomás busca con fe, el mismo Espíritu que confirmó la visión puede confirmarle a él.",
         "Evidencia estadística sobre el número de personas que han testificado de Cristo.",
-        "Los argumentos filosóficos del diseño inteligente que apuntan a un Creador."
+        "Los argumentos filosóficos del diseño inteligente que apuntan a un Creador.",
+        "Evidencia arqueológica que confirma los hechos históricos del Nuevo Testamento.",
+        "El testimonio personal de dos hombres que lo vieron — no como creencia sino como experiencia directa. Si Tomás busca con fe, el mismo Espíritu que confirmó la visión puede confirmarle a él."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "D&C 76:22–23 (testimonio de que 'vive') y 'El Cristo Viviente' (estudiado en la semana 7) comparten la misma declaración central separados por casi dos siglos. ¿Qué dice ese eco a través del tiempo sobre la naturaleza del testimonio del Salvador?",
       "options": [
-        "Que el testimonio de Cristo pierde fuerza con el tiempo y debe actualizarse cada generación.",
         "Que el testimonio verdadero del Salvador trasciende el tiempo — distintas personas en distintas épocas llegan a la misma certeza a través del mismo Espíritu, y esa convergencia es en sí misma una evidencia.",
         "Que los testimonios del siglo XIX son más válidos que los modernos porque están más cerca de Cristo.",
-        "Que 'El Cristo Viviente' es solo una repetición formal de D&C 76 sin valor doctrinal adicional."
+        "Que 'El Cristo Viviente' es solo una repetición formal de D&C 76 sin valor doctrinal adicional.",
+        "Que el testimonio de Cristo pierde fuerza con el tiempo y debe actualizarse cada generación."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

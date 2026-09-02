@@ -38,7 +38,8 @@
         "¿Por qué creés que el Señor instruyó a no excluir a quienes buscan sinceramente el reino?",
         "¿Alguna vez tuviste una experiencia espiritual real en una reunión de la Iglesia? ¿Qué la hizo posible?",
         "¿Qué podrías cambiar en tu preparación antes de ir a la Iglesia para que la experiencia sea más espiritual?",
-        "¿Hay alguien en tu entorno que esté buscando sinceramente al Señor a quien podrías invitar a una reunión esta semana?"
+        "¿Hay alguien en tu entorno que esté buscando sinceramente al Señor a quien podrías invitar a una reunión esta semana?",
+        "Este domingo, ¿a quién de tu clase o de tu barrio te vas a acercar para que no quede solo, aunque no sea de tu grupo habitual?"
       ]
     }
   ],
@@ -47,23 +48,23 @@
       "id": 1,
       "question": "D&C 46:2 establece una instrucción sobre a quiénes se permite asistir a las reuniones de la Iglesia. ¿Cuál es esa instrucción?",
       "options": [
-        "No expulsar de los lugares de adoración a quien sinceramente busca el reino.",
         "Permitir la entrada solo a los miembros bautizados con membresía activa.",
         "Invitar únicamente a personas ya comprometidas a bautizarse.",
-        "Reservar las reuniones sagradas para quienes han recibido el Espíritu Santo."
+        "Reservar las reuniones sagradas para quienes han recibido el Espíritu Santo.",
+        "No expulsar de los lugares de adoración a quien sinceramente busca el reino."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Cuál fue el problema concreto en las reuniones de Ohio que motivó la revelación de D&C 46?",
       "options": [
-        "Los miembros se quedaban dormidos durante las reuniones.",
         "Algunos excluían visitantes y no miembros de las reuniones.",
         "Las reuniones se extendían demasiado y los miembros se quejaban.",
-        "Faltaban líderes para dirigir las reuniones correctamente."
+        "Faltaban líderes para dirigir las reuniones correctamente.",
+        "Los miembros se quedaban dormidos durante las reuniones."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -80,45 +81,45 @@
       "id": 4,
       "question": "La instrucción de D&C 46:2 de no excluir a quienes buscan sinceramente ¿qué nos dice sobre la actitud que debemos tener al ir nosotros mismos a la Iglesia?",
       "options": [
+        "Que solo importa la actitud de los líderes, no de los miembros.",
         "Que ir a la Iglesia es suficiente con solo estar físicamente presente.",
         "Que debemos ir con la disposición de dar y recibir por el Espíritu, no solo de cumplir una obligación.",
-        "Que la actitud personal no importa mientras se asista regularmente.",
-        "Que solo importa la actitud de los líderes, no de los miembros."
+        "Que la actitud personal no importa mientras se asista regularmente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Agustín va a la Iglesia cada semana pero mentalmente ya está en otra cosa desde que empieza la reunión. Según D&C 46:2 y 7, ¿qué cambio concreto podría hacer Agustín?",
       "options": [
+        "No hay mucho que pueda hacer — la experiencia espiritual depende principalmente del maestro.",
         "Sentarse más cerca del frente para distraerse menos con los demás.",
         "Pedir al maestro que haga las clases más entretenidas.",
-        "Llegar con la intención real de buscar el Espíritu y abrirse a recibir algo específico del Señor ese día.",
-        "No hay mucho que pueda hacer — la experiencia espiritual depende principalmente del maestro."
+        "Llegar con la intención real de buscar el Espíritu y abrirse a recibir algo específico del Señor ese día."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Sofía está pensando en no invitar a su amiga no miembro a la actividad de la Iglesia porque 'no va a entender nada'. Según D&C 46:2, ¿qué le respondería el Señor?",
       "options": [
-        "Que tiene razón y es mejor esperar a que su amiga exprese interés primero.",
         "Que no se debe expulsar a quien sinceramente busca — y Sofía ni siquiera le está dando la oportunidad de hacerlo.",
         "Que primero debe preparar a su amiga estudiando con ella antes de invitarla.",
-        "Que las actividades sociales están bien para no miembros pero no las reuniones espirituales."
+        "Que las actividades sociales están bien para no miembros pero no las reuniones espirituales.",
+        "Que tiene razón y es mejor esperar a que su amiga exprese interés primero."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "D&C 46:2 (no excluir a quien busca) y D&C 46:7 (buscar los mejores dones para el beneficio de todos) pertenecen a la misma revelación. ¿Cuál es el principio común que las une?",
       "options": [
-        "Que las reuniones de la Iglesia deben ser accesibles económicamente para todos.",
-        "Que el Señor pone reglas de conducta para proteger a los miembros de influencias externas.",
         "Que los dones espirituales y la asistencia a reuniones son temas completamente separados.",
-        "Que la Iglesia funciona como comunidad orientada hacia afuera — tanto la apertura a los que buscan como el uso de dones para beneficio mutuo reflejan un pueblo que sirve en lugar de excluir."
+        "Que la Iglesia funciona como comunidad orientada hacia afuera — tanto la apertura a los que buscan como el uso de dones para beneficio mutuo reflejan un pueblo que sirve en lugar de excluir.",
+        "Que las reuniones de la Iglesia deben ser accesibles económicamente para todos.",
+        "Que el Señor pone reglas de conducta para proteger a los miembros de influencias externas."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ]
 }

@@ -1,61 +1,136 @@
 {
   "id": "eval-a-tu-aprendizaje-7",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Esta evaluación cierra el estudio de Doctrina y Convenios 84 a 93, un bloque denso: el poder de la divinidad en las ordenanzas, el juramento y el convenio del sacerdocio, la parábola del trigo y la cizaña, la Palabra de Sabiduría con sus promesas, la luz de Cristo que está en todas las cosas, y la revelación de que el Salvador mismo creció «de gracia en gracia».",
+        "Son ideas que cuesta medir. Por eso la evaluación no pregunta cuánto sabés, sino qué cambió: si podés explicar esas verdades con tus palabras, qué pasó con las metas que te fijaste, y en qué se nota hoy algo que hace dos meses no estaba.",
+        "El presidente Eyring dijo que sintió el gozo de acercarse al Salvador «mediante sencillos actos de obediencia a los mandamientos». Esa frase da la vara correcta para esta evaluación. No hay que buscar un cambio espectacular: hay que buscar los actos sencillos y ver si se sostuvieron. Ahí es donde el progreso ocurre y donde, además, se puede verificar."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:63",
+          "texto": "Allegaos a mí, y yo me allegaré a vosotros; buscadme diligentemente, y me hallaréis; pedid, y recibiréis; llamad, y se os abrirá.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p63#p63"
+        },
+        {
+          "referencia": "Doctrina y Convenios 93:20",
+          "texto": "Porque si guardáis mis mandamientos, recibiréis de su plenitud y seréis glorificados en mí como yo lo soy en el Padre; por lo tanto, os digo, recibiréis gracia sobre gracia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "Doctrina y Convenios 89:19",
+          "texto": "Y hallarán sabiduría y grandes tesoros de conocimiento, sí, tesoros escondidos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=spa&id=p19#p19"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Henry B. Eyring",
+      "fuente": "«Venid a mí», Conferencia General, abril de 2013 (Liahona, mayo de 2013, pág. 22)",
+      "texto": "Yo he sentido ese gozo de acercarme más al Salvador y de que Él se acerque a mí mediante sencillos actos de obediencia a los mandamientos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/04/come-unto-me?lang=spa&id=p5#p5"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La vara que propone el presidente Eyring para medir el progreso son los «sencillos actos de obediencia»: no las decisiones heroicas, sino las repetidas. Revisá estas semanas buscando esos actos, no los momentos emocionantes. Escribí tres que hayas sostenido y uno que abandonaste, y para el que abandonaste anotá qué lo hizo caer. Esa última anotación es la más útil de todas para el bloque que viene."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "De todo lo que estudiaste en Doctrina y Convenios 84–93, ¿qué idea te resultó más difícil de aceptar? ¿Por qué?",
+        "¿Cuál de esas verdades podrías explicarle hoy a alguien sin mirar los apuntes?",
+        "El presidente Eyring habla de «sencillos actos de obediencia». ¿Cuáles sostuviste vos en estas semanas?",
+        "¿Cuál abandonaste? ¿Qué lo hizo caer: el cansancio, la falta de tiempo, el olvido?",
+        "Doctrina y Convenios 93:20 promete «gracia sobre gracia». ¿En qué notás que recibiste una porción más que antes?",
+        "¿Qué meta concreta te ponés para el próximo bloque, y cómo vas a evitar que caiga por lo mismo que la anterior?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué invitación hace DyC 19:23 sobre Jesucristo?",
+      "question": "Según Doctrina y Convenios 88:63, ¿qué acción precede a la promesa «yo me allegaré a vosotros»?",
       "options": [
-        "Aprender de Él y escuchar Sus palabras",
-        "Ignorar Sus enseñanzas",
-        "Seguir solo tradiciones",
-        "Depender de opiniones humanas"
+        "Allegarse al Señor, es decir, dar el primer paso hacia Él.",
+        "Recibir las ordenanzas del templo.",
+        "Esperar con paciencia el momento señalado.",
+        "Guardar todos los mandamientos sin excepción."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué enseña DyC 88:63 sobre acercarse a Cristo?",
+      "question": "Doctrina y Convenios 93:20 promete «gracia sobre gracia» a quienes guardan los mandamientos. ¿Qué imagen del progreso espiritual transmite esa expresión?",
       "options": [
-        "Allegaos a mí y yo me allegaré a vosotros",
-        "Alejaos de mí",
-        "Ignorad mis palabras",
-        "No busquéis mi presencia"
+        "Un cambio único y definitivo tras una decisión importante.",
+        "Una acumulación por etapas, en la que cada porción prepara la siguiente.",
+        "Un progreso que depende de la intensidad de las experiencias espirituales.",
+        "Un avance garantizado con independencia de la conducta."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "Según Thomas S. Monson, ¿qué ocurre al medir el rendimiento espiritual?",
+      "question": "El presidente Eyring dijo haber sentido el gozo de acercarse al Salvador «mediante sencillos actos de obediencia a los mandamientos». ¿Qué vara para evaluar el progreso propone esa frase?",
       "options": [
-        "Mejora y, si se informa, mejora más rápido",
-        "No cambia",
-        "Se vuelve irrelevante",
-        "Debe evitarse"
+        "La comparación con el progreso de otros miembros.",
+        "La intensidad de las experiencias espirituales vividas en el período.",
+        "La constancia de acciones sencillas y repetidas, más que los momentos extraordinarios.",
+        "La cantidad de conocimiento doctrinal adquirido."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué invitación de DyC 88:118 resume el aprendizaje espiritual?",
+      "question": "Doctrina y Convenios 89:19 promete «grandes tesoros de conocimiento, sí, tesoros escondidos» a quienes guardan la Palabra de Sabiduría. ¿Por qué se los llama escondidos?",
       "options": [
-        "Buscad conocimiento, tanto por el estudio como por la fe",
-        "Evitar el estudio",
-        "Depender solo de opiniones",
-        "Ignorar las Escrituras"
+        "Porque se refieren a doctrinas que aún no han sido reveladas.",
+        "Porque solo se comprenden después de esta vida.",
+        "Porque están reservados a quienes reciben un llamamiento especial.",
+        "Porque no son evidentes de antemano: aparecen para quien vive el principio."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Agustina sostuvo su estudio diario durante tres semanas y lo abandonó en la cuarta, y concluye que no sirvió de nada. Según lo que propone esta evaluación, ¿qué le conviene hacer con ese dato?",
+      "options": [
+        "Anotar qué hizo caer el hábito, porque esa información es la que le sirve para el próximo intento.",
+        "Reducir la meta hasta un punto en que sea imposible fallar.",
+        "Aceptar que no todos los hábitos espirituales son para todas las personas.",
+        "Descartar el intento y empezar de cero con una meta más ambiciosa."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué meta propone DyC 93:19–20 respecto a la luz y la verdad?",
+      "id": 6,
+      "question": "Luca busca en estas semanas alguna experiencia espiritual intensa que confirme su progreso y no encuentra ninguna. Según la enseñanza del presidente Eyring, ¿dónde debería mirar?",
       "options": [
-        "Recibir más luz y verdad hasta conocer a Dios",
-        "Acumular datos sin propósito",
-        "Evitar cambios",
-        "Buscar fama espiritual"
+        "En la comparación con su estado espiritual del año anterior.",
+        "En los actos sencillos de obediencia que sostuvo, aunque no hayan venido acompañados de emoción.",
+        "En el conocimiento nuevo que adquirió durante el bloque.",
+        "En la opinión de sus líderes sobre su desempeño."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 88:63 pone una acción antes de cada promesa, y el presidente Eyring atribuye su acercamiento al Salvador a actos sencillos de obediencia. ¿Qué principio común forman las dos ideas?",
+      "options": [
+        "Que la cercanía con Dios depende principalmente de los sentimientos.",
+        "Que los actos sencillos valen únicamente cuando se repiten durante años.",
+        "Que el acercamiento a Dios se construye con acciones al alcance de cualquiera, no con condiciones extraordinarias.",
+        "Que las promesas del Señor exigen un nivel de compromiso que pocos alcanzan."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

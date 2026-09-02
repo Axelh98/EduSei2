@@ -29,8 +29,8 @@
       "tipo": "enseñanza",
       "autor": "Presidente Henry B. Eyring",
       "fuente": "\"Nuestros corazones tejidos como uno solo\", Conferencia General, octubre de 2008 (Liahona, noviembre de 2008, pág. 69)",
-      "texto": "Sabemos por experiencia que el gozo viene cuando somos bendecidos con unidad. […] El deseo de nuestro Padre Celestial es concedernos ese sagrado anhelo de unidad por Su amor hacia nosotros. Él no puede concedérnoslo como individuos. El gozo de la unidad que Él tanto desea darnos no es algo solitario. Debemos buscarlo y calificar para recibirlo junto con otros. Por eso Dios nos insta a reunirnos, para poder bendecirnos.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2008/10/our-hearts-knit-as-one?lang=spa&id=p9-p10#p9"
+      "texto": "Sabemos por experiencia que tenemos gozo cuando se nos bendice con unidad. […] Por Su amor hacia nosotros, Él desea concedernos ese sagrado deseo de la unidad. Él no puede concedernos ese deseo a cada uno de manera individual. El gozo de la unidad que tanto desea concedernos no va solo; debemos buscarlo y ser dignos de él junto con las demás personas. Por lo tanto, no es de sorprender que Dios nos inste a reunirnos para bendecirnos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2008/10/our-hearts-knit-as-one?lang=spa&id=p9#p9"
     },
     {
       "tipo": "conclusion",
@@ -43,7 +43,8 @@
         "¿Alguna vez el Señor te respondió una angustia revelándote quién es Él, más que dándote una solución inmediata?",
         "¿Qué significa para vos 'si no sois uno, no sois míos' en el contexto de tu familia, tu quórum o tu clase?",
         "¿Hay algo de lo que tenés miedo ahora mismo? ¿Cómo aplica D&C 38:30 a esa situación?",
-        "¿Qué podrías hacer esta semana para fortalecer la unidad en tu familia o en tu grupo de la Iglesia?"
+        "¿Qué podrías hacer esta semana para fortalecer la unidad en tu familia o en tu grupo de la Iglesia?",
+        "Doctrina y Convenios 38:27 dice «si no sois uno, no sois míos». ¿Qué relación tuya —en tu casa, en tu clase, en tu quórum— está más lejos de esa unidad, y qué paso podrías dar vos primero?"
       ]
     }
   ],
@@ -74,56 +75,56 @@
       "id": 3,
       "question": "D&C 38:30 dice 'si estáis preparados, no temeréis'. ¿Qué tipo de preparación tiene en mente el Señor — no la temporal sino la espiritual?",
       "options": [
+        "Acumular bienes materiales para no depender de nadie durante las tribulaciones.",
         "Memorizar todas las doctrinas del evangelio para poder responder cualquier pregunta.",
         "Tener convenios activos, hábitos de oración y estudio, y una fe que no depende de las circunstancias externas.",
-        "Rodearse de muchos miembros activos de la Iglesia para no estar solo en momentos difíciles.",
-        "Acumular bienes materiales para no depender de nadie durante las tribulaciones."
+        "Rodearse de muchos miembros activos de la Iglesia para no estar solo en momentos difíciles."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "El mandato de congregarse en Ohio implicó que familias enteras dejaran granjas, hogares y trabajos. ¿Qué principio sobre la obediencia ilustra esa respuesta de los santos?",
       "options": [
-        "Que obedecer al Señor siempre resulta en ausencia de sacrificio o pérdida personal.",
-        "Que la obediencia genuina a veces tiene un costo real y visible — y ese costo es parte del principio, no un error.",
         "Que la obediencia es más valiosa cuando no cuesta nada, porque entonces viene del corazón.",
-        "Que el Señor compensa económicamente a quienes sacrifican bienes materiales por obedecerle."
+        "Que el Señor compensa económicamente a quienes sacrifican bienes materiales por obedecerle.",
+        "Que obedecer al Señor siempre resulta en ausencia de sacrificio o pérdida personal.",
+        "Que la obediencia genuina a veces tiene un costo real y visible — y ese costo es parte del principio, no un error."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Nicolás está muy ansioso por un examen importante la próxima semana y siente que el miedo lo paraliza. Según D&C 38:30, ¿qué pregunta debería hacerse primero?",
       "options": [
-        "¿Cuántas horas más necesito estudiar para estar absolutamente seguro de aprobar?",
         "¿Estoy preparado espiritualmente — orando, estudiando las Escrituras, confiando en el Señor — además de académicamente?",
         "¿Por qué el Señor me permite sentir este miedo si soy un miembro fiel?",
-        "¿Debería pedir al obispo una bendición para garantizar que todo salga bien?"
+        "¿Debería pedir al obispo una bendición para garantizar que todo salga bien?",
+        "¿Cuántas horas más necesito estudiar para estar absolutamente seguro de aprobar?"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Camila recibió un consejo de su líder que no entiende completamente pero que implica un cambio real en su vida. Según el patrón de los santos que obedecieron el mandato de mudarse a Ohio, ¿qué haría la Camila más fiel?",
       "options": [
-        "Esperar hasta entender completamente el porqué antes de tomar cualquier acción.",
         "Preguntar al líder hasta que le dé una explicación satisfactoria antes de obedecer.",
         "Dar el paso de fe aunque no entienda todo, confiando en que el sentido se revelará en el proceso.",
-        "Obedecer solo la parte que entiende y esperar para el resto."
+        "Obedecer solo la parte que entiende y esperar para el resto.",
+        "Esperar hasta entender completamente el porqué antes de tomar cualquier acción."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "D&C 38:7 muestra a Cristo diciendo que conoce todas las cosas. D&C 38:30 promete que la preparación elimina el miedo. ¿Qué principio completo forman esas dos enseñanzas juntas para alguien que enfrenta incertidumbre?",
       "options": [
-        "Que Dios tiene el control y por eso nosotros no necesitamos hacer nada para prepararnos.",
         "Que el conocimiento de que Dios ve todo debería eliminarnos el miedo automáticamente sin esfuerzo propio.",
         "Que la preparación material es más urgente que la espiritual porque el Señor ya se encarga de lo espiritual.",
-        "Que sabemos que Él conoce el camino completo — eso da base para confiar; y prepararse espiritualmente es la respuesta práctica a esa confianza."
+        "Que sabemos que Él conoce el camino completo — eso da base para confiar; y prepararse espiritualmente es la respuesta práctica a esa confianza.",
+        "Que Dios tiene el control y por eso nosotros no necesitamos hacer nada para prepararnos."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

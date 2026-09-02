@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La mentalidad de crecimiento — la convicción de que las habilidades y el carácter pueden desarrollarse con esfuerzo — tiene un fundamento profundo en el evangelio de Jesucristo. El Señor no nos ve como productos terminados sino como seres eternos en proceso de llegar a ser. D&C 93:13 describe cómo incluso el Salvador 'no recibió de la plenitud al principio, sino que continuó de gracia en gracia' hasta recibirla toda. Si el Salvador creció, nosotros también podemos. Para un joven que siente que no es inteligente, que no tiene dones, que ya fracasó demasiadas veces en algo, esta doctrina es liberadora: vos no sos el resultado de lo que hiciste ayer sino el potencial de lo que podés elegir hacer mañana. La mentalidad de crecimiento con el evangelio no es solo psicología positiva — es doctrina sobre la naturaleza del alma humana."
+      "contenido": [
+        "La mentalidad de crecimiento —la convicción de que las habilidades y el carácter pueden desarrollarse con esfuerzo— tiene un fundamento profundo en el evangelio de Jesucristo. El Señor no nos ve como productos terminados, sino como seres eternos en proceso de llegar a ser. Doctrina y Convenios 93:12–13 describe cómo incluso el Salvador «no recibió de la plenitud al principio, sino que continuó de gracia en gracia» hasta recibirla toda. Si el Salvador creció, nosotros también podemos.",
+        "Para un joven que siente que no es inteligente, que no tiene dones o que ya fracasó demasiadas veces en algo, esta doctrina es liberadora: no sos el resultado de lo que hiciste ayer, sino el potencial de lo que podés elegir hacer mañana. La mentalidad de crecimiento con el evangelio no es solo psicología positiva: es doctrina sobre la naturaleza del alma humana. Y tiene una consecuencia incómoda además de una consoladora: si podés crecer, entonces lo que hoy no sabés hacer deja de ser una excusa permanente y pasa a ser una tarea pendiente."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿En qué área de tu vida ves más crecimiento en los últimos seis meses? ¿Qué lo hizo posible?",
         "¿Cómo cambia saber que incluso el Salvador creció 'de gracia en gracia' tu perspectiva de tus propios errores y limitaciones?",
         "¿Qué habilidad o área de carácter querés desarrollar este año? ¿Qué primer paso concreto darías esta semana?",
-        "¿Cómo alentarías a un amigo que siente que fracasó demasiadas veces para mejorar, usando lo que aprendiste en esta lección?"
+        "¿Cómo alentarías a un amigo que siente que fracasó demasiadas veces para mejorar, usando lo que aprendiste en esta lección?",
+        "Escribí la frase «yo no soy bueno para…» que más repetís sobre vos mismo. ¿Qué evidencia real tenés de que sea permanente, y qué harías esta semana para ponerla a prueba?"
       ]
     }
   ],
@@ -47,12 +51,12 @@
       "id": 1,
       "question": "D&C 93:12–13 describe que el Salvador 'no recibió de la plenitud al principio, sino que continuó de gracia en gracia'. ¿Qué principio doctrinal sobre el crecimiento establece eso?",
       "options": [
-        "Que incluso el Salvador creció gradualmente — el crecimiento progresivo es el patrón eterno, no la perfección instantánea.",
         "Que el Salvador era imperfecto y necesitó corrección divina.",
         "Que la gracia es un don pasivo que no requiere ningún esfuerzo de nuestra parte.",
-        "Que solo el Salvador podía crecer de esa manera; los mortales no tienen esa capacidad."
+        "Que solo el Salvador podía crecer de esa manera; los mortales no tienen esa capacidad.",
+        "Que incluso el Salvador creció gradualmente — el crecimiento progresivo es el patrón eterno, no la perfección instantánea."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
@@ -80,45 +84,45 @@
       "id": 4,
       "question": "Éter 12:27 promete que el Señor puede convertir las debilidades en fortalezas. ¿Qué condición exige ese versículo para que eso ocurra?",
       "options": [
+        "Que la persona haya guardado todos los mandamientos por al menos un año.",
         "Que la persona sea perfecta en todos los demás aspectos primero.",
         "Que la persona se humille ante el Señor — la humildad abre la puerta para la transformación.",
-        "Que la debilidad sea de origen genético y no de decisiones personales.",
-        "Que la persona haya guardado todos los mandamientos por al menos un año."
+        "Que la debilidad sea de origen genético y no de decisiones personales."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Mateo reprobó matemáticas y ahora dice 'soy malo para los números y no tiene caso intentarlo'. Según D&C 93:12–13 y el principio de mentalidad de crecimiento, ¿qué perspectiva más fiel podría tener?",
       "options": [
-        "Que tiene razón — no todos tienen capacidad para las matemáticas y es mejor aceptarlo.",
-        "Que si el Salvador creció de gracia en gracia, Mateo también puede mejorar en matemáticas con esfuerzo — su situación actual no define su capacidad futura.",
         "Que debería cambiar de carrera para evitar las matemáticas completamente.",
-        "Que la mentalidad de crecimiento aplica a lo espiritual pero no a las materias académicas."
+        "Que la mentalidad de crecimiento aplica a lo espiritual pero no a las materias académicas.",
+        "Que tiene razón — no todos tienen capacidad para las matemáticas y es mejor aceptarlo.",
+        "Que si el Salvador creció de gracia en gracia, Mateo también puede mejorar en matemáticas con esfuerzo — su situación actual no define su capacidad futura."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Camila tiene una debilidad en su carácter — se irrita fácilmente y lastima a su familia. Siente que 'así es ella' y no puede cambiar. ¿Qué le diría Éter 12:27 directamente?",
       "options": [
-        "Que tiene razón y que el Señor acepta su carácter tal cual es sin esperar cambio.",
         "Que si se humilla ante el Señor, Él puede convertir esa debilidad específica en una fortaleza — la irritabilidad no es un destino, es un punto de partida.",
         "Que primero debe resolver todas sus otras debilidades antes de trabajar en esa.",
-        "Que la transformación del carácter solo ocurre después de la muerte y la resurrección."
+        "Que la transformación del carácter solo ocurre después de la muerte y la resurrección.",
+        "Que tiene razón y que el Señor acepta su carácter tal cual es sin esperar cambio."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "D&C 93:12–13 (el Salvador creció de gracia en gracia) y Éter 12:27 (el Señor convierte debilidades en fortalezas) juntos construyen la base doctrinal de la mentalidad de crecimiento. ¿Cuál es el principio completo que forman?",
       "options": [
-        "Que el crecimiento es automático para quien tiene fe sin necesidad de esfuerzo personal.",
-        "Que la mentalidad de crecimiento es solo un principio psicológico moderno sin base doctrinal real.",
         "Que el crecimiento espiritual es más importante que el intelectual o emocional.",
-        "Que el Señor tanto modela el crecimiento con Su ejemplo como lo hace posible con Su poder — no estamos solos en el proceso de llegar a ser, y ninguna debilidad ni fracaso es permanente."
+        "Que el Señor tanto modela el crecimiento con Su ejemplo como lo hace posible con Su poder — no estamos solos en el proceso de llegar a ser, y ninguna debilidad ni fracaso es permanente.",
+        "Que el crecimiento es automático para quien tiene fe sin necesidad de esfuerzo personal.",
+        "Que la mentalidad de crecimiento es solo un principio psicológico moderno sin base doctrinal real."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ]
 }

@@ -1,59 +1,134 @@
 {
   "id": "doctrina-y-convenios-93-19-53",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "La segunda mitad de la sección 93 da una definición que vale para toda la vida: «la verdad es el conocimiento de las cosas como son, como eran y como han de ser» (versículo 24). No es lo que uno siente, ni lo que la mayoría acepta: es cómo son las cosas realmente. Y unos versículos después, el Señor dice que «la gloria de Dios es la inteligencia, o en otras palabras, luz y verdad».",
+        "El élder Timothy J. Dyches contó que bajó con sus hijos a una caverna y los guías apagaron las luces. La oscuridad era tan absoluta que no se veían las manos frente a la cara, y uno de sus hijos gritó: «Papá, ¿estás ahí?». Cuando la luz volvió, la oscuridad se rindió de inmediato, como se rinde siempre ante la luz más tenue.",
+        "La parte incómoda del capítulo viene después. El Señor reprende por su nombre a cuatro líderes de la Iglesia —José Smith incluido— por no haber enseñado a sus hijos «la luz y la verdad» y por no haber puesto orden en su propia casa. La revelación más luminosa sobre la verdad termina con una corrección familiar, muy concreta, dirigida a los hombres más fieles de la Iglesia de ese momento."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 93:24",
+          "texto": "Y la verdad es el conocimiento de las cosas como son, como eran y como han de ser.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p24#p24"
+        },
+        {
+          "referencia": "Doctrina y Convenios 93:36–37",
+          "texto": "La gloria de Dios es la inteligencia, o en otras palabras, luz y verdad. La luz y la verdad desechan a aquel inicuo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p36-p37#p36"
+        },
+        {
+          "referencia": "Doctrina y Convenios 93:40",
+          "texto": "Pero yo os he mandado criar a vuestros hijos en la luz y la verdad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p40#p40"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dieter F. Uchtdorf",
+      "fuente": "«Portadores de luz celestial», Conferencia General, octubre de 2017 (Liahona, noviembre de 2017, pág. 80)",
+      "texto": "Cada vez que vuelven su corazón ante Dios en humilde oración, experimentan Su luz. Cada vez que procuran conocer Su palabra y Su voluntad en las Escrituras, la luz aumenta su brillo. Cada vez que perciben la necesidad de alguien y sacrifican su comodidad para tenderle una mano con amor, la luz se expande y crece.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/bearers-of-heavenly-light?lang=spa&id=p53#p53"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "«La verdad es el conocimiento de las cosas como son» deja fuera de juego la idea de que cada uno tiene su propia verdad. Y el versículo 37 agrega que la luz y la verdad «desechan a aquel inicuo»: no hace falta pelear contra la oscuridad, hace falta encender algo. El presidente Uchtdorf enumera cómo se enciende: una oración, un rato de Escrituras, un acto de servicio que cuesta comodidad. Elegí uno de los tres y hacelo hoy, sin esperar a sentirte inspirado."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "«La verdad es el conocimiento de las cosas como son, como eran y como han de ser». ¿En qué se diferencia esa definición de «mi verdad»?",
+        "¿Dónde ves hoy la idea de que cada persona tiene su propia verdad? ¿Qué problema le encontrás?",
+        "El versículo 37 dice que la luz y la verdad «desechan a aquel inicuo». ¿Qué estrategia sugiere eso frente a la oscuridad?",
+        "El presidente Uchtdorf nombra tres cosas que aumentan la luz: oración, Escrituras y servicio que cuesta. ¿Cuál te resulta más fácil y cuál más difícil?",
+        "El Señor reprendió a José Smith por no haber puesto orden en su propia casa. ¿Qué te dice que la corrección fuera para él?",
+        "Elegí una de las tres cosas que enciende luz y hacela hoy. ¿Cuál es y a qué hora?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué declara DyC 93:24–28 acerca de la verdad?",
+      "question": "¿Cómo define Doctrina y Convenios 93:24 la verdad?",
       "options": [
-        "La verdad nos hace libres",
-        "La verdad es irrelevante",
-        "La verdad depende de opiniones",
-        "La verdad no existe"
+        "Como aquello que se puede demostrar con evidencia.",
+        "Como aquello que cada persona reconoce sinceramente en su corazón.",
+        "Como el conocimiento de las cosas como son, como eran y como han de ser.",
+        "Como lo que enseñan las Escrituras y los profetas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿Qué enseña DyC 93:36 sobre la luz y la verdad?",
+      "question": "Según Doctrina y Convenios 93:36, ¿qué es la gloria de Dios?",
       "options": [
-        "La luz y la verdad son de Dios",
-        "La luz es solo física",
-        "La verdad es relativa",
-        "No existe la luz espiritual"
+        "La obra de llevar a cabo la inmortalidad y la vida eterna del hombre.",
+        "La adoración que le rinden Sus hijos.",
+        "Su poder sobre todas las cosas creadas.",
+        "La inteligencia, o en otras palabras, luz y verdad."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Qué principio enseña DyC 50:24 sobre la luz?",
+      "question": "Doctrina y Convenios 93:37 dice que «la luz y la verdad desechan a aquel inicuo». ¿Qué estrategia frente al mal sugiere esa afirmación?",
       "options": [
-        "La luz aumenta al vivir rectamente",
-        "La luz desaparece siempre",
-        "La luz es solo simbólica",
-        "La luz no influye en la vida"
+        "Aumentar la luz, porque la oscuridad no resiste su presencia.",
+        "Aislarse de los ambientes donde la oscuridad predomina.",
+        "Esperar a que la influencia del mal disminuya por sí sola.",
+        "Combatir directamente cada influencia negativa que aparezca."
       ],
       "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "Según DyC 93:20, 28, 39, ¿qué acciones afectan nuestra luz?",
+      "question": "El presidente Uchtdorf enumeró acciones que aumentan la luz: orar, buscar la palabra de Dios y sacrificar la comodidad para ayudar a alguien. ¿Qué tienen en común esas tres?",
       "options": [
-        "Obedecer aumenta la luz; pecar y negar al Espíritu la disminuye",
-        "Nada afecta la luz",
-        "Solo el conocimiento intelectual afecta",
-        "La luz depende del entorno"
+        "Dependen de las circunstancias en que se encuentre la persona.",
+        "Son actos concretos y voluntarios, al alcance de cualquiera en cualquier día.",
+        "Requieren una preparación espiritual previa considerable.",
+        "Producen un resultado inmediato y perceptible."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Cómo define DyC 93:23–25 la “verdad”?",
+      "question": "Nicolás sostiene que «cada uno tiene su verdad» y que discutir sobre eso no tiene sentido. Según Doctrina y Convenios 93:24, ¿qué le falta considerar?",
       "options": [
-        "Conocimiento de las cosas como son, como eran y como han de ser",
-        "Opinión colectiva",
-        "Tradición cultural",
-        "Percepción subjetiva"
+        "Que la verdad solo puede conocerse por revelación directa.",
+        "Que discutir sobre la verdad es siempre contraproducente.",
+        "Que la verdad se define por cómo son efectivamente las cosas, y no por lo que cada uno acepte.",
+        "Que las opiniones personales carecen por completo de valor."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Doctrina y Convenios 93:40 manda criar a los hijos «en la luz y la verdad», y la reprensión de los versículos siguientes se dirige a líderes fieles de la Iglesia. ¿Qué muestra ese detalle?",
+      "options": [
+        "Que los líderes reciben correcciones más severas que el resto de los miembros.",
+        "Que las responsabilidades familiares deben anteponerse a los llamamientos.",
+        "Que esa instrucción se aplicaba solo a la situación particular de aquellos hombres.",
+        "Que el servicio en la Iglesia no exime a nadie de sus responsabilidades en el hogar."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 93:36 identifica la gloria de Dios con la luz y la verdad, y el presidente Uchtdorf describe acciones cotidianas que aumentan esa luz. ¿Qué principio común forman las dos ideas?",
+      "options": [
+        "Que participar de la gloria de Dios no es algo lejano: crece por acciones concretas y repetidas.",
+        "Que la gloria de Dios es un atributo que no puede compartirse con Sus hijos.",
+        "Que la luz aumenta principalmente por medio del estudio doctrinal.",
+        "Que la verdad y la luz se reciben de manera pasiva."
       ],
       "correctAnswer": 0
     }

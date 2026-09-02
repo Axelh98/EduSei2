@@ -1,39 +1,136 @@
 {
   "id": "doctrina-y-convenios-97",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En agosto de 1833, mientras los santos de Misuri eran perseguidos y expulsados de sus casas, el Señor reveló Doctrina y Convenios 97. En medio de esa situación dio una definición que cambia el sentido de toda la palabra: «esta es Sion: los puros de corazón» (versículo 21).",
+        "Hasta ese momento, Sion se pensaba sobre todo como un lugar: Independence, Misuri, la tierra que habían comprado y de la que ahora los estaban echando. La revelación desplaza el foco del terreno a las personas. Sion no era lo que estaban perdiendo, era lo que podían seguir siendo.",
+        "La sección también describe quiénes son aceptados por el Señor: los que saben que su corazón «es sincero y está quebrantado», su espíritu es contrito, y están dispuestos a cumplir sus convenios con sacrificio (versículo 8). Y sobre el templo que debían edificar, promete algo enorme y muy concreto: «todos los de corazón puro que allí entren verán a Dios». La pureza no es un requisito burocrático de entrada; es la condición de lo que se puede ver adentro."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 97:21",
+          "texto": "Por tanto, de cierto, así dice el Señor: Regocíjese Sion, porque esta es Sion: los puros de corazón; por consiguiente, regocíjese Sion mientras se lamentan todos los inicuos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa&id=p21#p21"
+        },
+        {
+          "referencia": "Doctrina y Convenios 97:8",
+          "texto": "De cierto os digo, que todos los que de entre ellos saben que su corazón es sincero y está quebrantado, y su espíritu es contrito, y están dispuestos a cumplir sus convenios con sacrificio, sí, cualquier sacrificio que yo, el Señor, mandare, estos son aceptados por mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "Doctrina y Convenios 97:15–16",
+          "texto": "Y si mi pueblo me edifica una casa en el nombre del Señor, y no permite que entre en ella ninguna cosa inmunda para profanarla, mi gloria descansará sobre ella. Sí, y mi presencia estará allí, porque vendré a ella; y todos los de corazón puro que allí entren verán a Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa&id=p15-p16#p15"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Henry B. Eyring",
+      "fuente": "«Me encanta ver el templo», Conferencia General, abril de 2021 (Liahona, mayo de 2021, pág. 30)",
+      "texto": "Si ustedes o yo fuéramos al templo sin ser lo suficientemente puros, no podríamos entender, por el poder del Espíritu Santo, la enseñanza espiritual sobre el Salvador que podemos recibir allí.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/17eyring?lang=spa&id=p18#p18"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Que Sion sean «los puros de corazón» y no un terreno significa que nadie te la puede quitar. A los santos de Misuri les quitaron la tierra; lo que eran no se los pudieron sacar. Y la promesa del versículo 16 sigue en pie: la pureza no es una condición para entrar al templo, es la condición para entender lo que ahí se enseña. Elegí una cosa concreta que hoy te esté enturbiando el corazón y trabajala esta semana, no para cumplir un requisito, sino para poder ver."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "«Esta es Sion: los puros de corazón». ¿Qué cambia en la idea de Sion si no es un lugar sino un tipo de persona?",
+        "A los santos les estaban quitando la tierra cuando recibieron esta revelación. ¿Por qué te parece que el Señor eligió ese momento para definir Sion así?",
+        "El versículo 8 dice que son aceptados los que tienen el corazón «sincero y quebrantado». ¿Qué te parece que significa un corazón quebrantado?",
+        "El presidente Eyring dice que sin pureza no se puede entender lo que el templo enseña. ¿Qué relación ves entre pureza y comprensión?",
+        "¿Qué está enturbiando hoy tu corazón? No hace falta que lo digas en voz alta.",
+        "¿Qué vas a hacer esta semana al respecto? Un paso concreto, no una intención general."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cómo describe el Señor a Sion en DyC 97:21?",
+      "question": "¿Cómo define Doctrina y Convenios 97:21 a Sion?",
       "options": [
-        "Los puros de corazón",
-        "Los ricos",
-        "Los poderosos",
-        "Los sabios del mundo"
+        "Los puros de corazón.",
+        "La congregación de los santos que guardan los convenios.",
+        "La ciudad que será edificada antes de la Segunda Venida.",
+        "El lugar central designado en Independence, Misuri."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué bendición promete DyC 97:16 a los puros de corazón?",
+      "question": "Según Doctrina y Convenios 97:8, ¿quiénes son aceptados por el Señor?",
       "options": [
-        "Verán a Dios en Su templo",
-        "Nunca morirán físicamente",
-        "Serán famosos",
-        "Recibirán riquezas"
+        "Quienes han recibido todas las ordenanzas del templo.",
+        "Quienes tienen el corazón sincero y quebrantado, espíritu contrito, y están dispuestos a cumplir sus convenios con sacrificio.",
+        "Quienes permanecieron en Sion durante la persecución.",
+        "Quienes contribuyeron a la edificación de la casa del Señor."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "¿Qué promete Doctrina y Convenios 97:16 a los de corazón puro que entren en la casa del Señor?",
+      "options": [
+        "Que sus nombres quedarán escritos en el cielo.",
+        "Que recibirán respuesta a todas sus preguntas.",
+        "Que verán a Dios.",
+        "Que serán preservados de la persecución."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "El presidente Eyring enseñó que sin la pureza suficiente no se podría entender «la enseñanza espiritual sobre el Salvador» que se recibe en el templo. ¿Qué papel asigna esa frase a la dignidad personal?",
+      "options": [
+        "El de una meta que se alcanza después de asistir varias veces.",
+        "El de una exigencia que corresponde solo a quienes ofician allí.",
+        "El de un requisito administrativo que se verifica antes de entrar.",
+        "El de una condición para comprender, no solo para acceder."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "A Tomás le expulsaron a su familia de la ciudad donde vivían y siente que perdió todo lo que lo conectaba con la Iglesia. Según Doctrina y Convenios 97:21, ¿qué no perdió?",
+      "options": [
+        "Sion misma, si conserva la pureza de corazón, porque Sion no es un lugar.",
+        "La posibilidad de encontrar otra congregación equivalente.",
+        "Los registros de sus ordenanzas, que se conservan en la Iglesia.",
+        "El derecho a regresar cuando las circunstancias cambien."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 3,
-      "question": "¿Qué enseñó Russell M. Nelson sobre la pureza?",
+      "id": 6,
+      "question": "Lucía cumple con los requisitos para tener una recomendación pero admite que va al templo «por cumplir». Según la enseñanza del presidente Eyring, ¿qué se está perdiendo?",
       "options": [
-        "El arrepentimiento diario es la senda a la pureza",
-        "La pureza es imposible",
-        "La pureza depende solo de rituales",
-        "La pureza no tiene poder"
+        "Nada relevante: la asistencia produce sus efectos de todos modos.",
+        "La comprensión de lo que allí se enseña sobre el Salvador, que depende de la condición del corazón.",
+        "El reconocimiento de sus líderes por su asistencia regular.",
+        "La oportunidad de realizar ordenanzas por sus antepasados."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 97:8 describe el corazón que el Señor acepta, y 97:16 promete que los de corazón puro verán a Dios en Su casa. ¿Qué principio común forman los dos versículos?",
+      "options": [
+        "Que ver a Dios es una promesa reservada a los líderes de la Iglesia.",
+        "Que la pureza de corazón se alcanza únicamente asistiendo al templo.",
+        "Que lo que Dios mira y lo que Dios concede dependen ambos de la condición interior de la persona.",
+        "Que la aceptación divina se obtiene mediante el sacrificio de bienes materiales."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

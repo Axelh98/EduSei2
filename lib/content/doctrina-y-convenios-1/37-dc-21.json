@@ -28,7 +28,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Seguir al profeta no es seguir a un hombre; es seguir al Señor que habla a través de ese hombre. D&C 21:4–6 hace la equivalencia explícita. Cuando el consejo del profeta es difícil, la clave está en las palabras 'en toda paciencia y fe'. Esta semana, identificá un consejo reciente del profeta que todavía no estás aplicando del todo y da un paso concreto hacia eso."
+      "contenido": [
+        "Seguir al profeta no es seguir a un hombre; es seguir al Señor que habla por medio de ese hombre. Doctrina y Convenios 21:4–6 hace la equivalencia explícita. Cuando el consejo del profeta cuesta, la clave está en las palabras «en toda paciencia y fe». Pensá en el consejo profético que hoy estás cumpliendo a medias, y decidí una acción chica y verificable que lo lleve un paso más cerca de cumplirse del todo antes del próximo domingo."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -37,7 +39,8 @@
         "¿Qué promesa específica da D&C 21:4–6 a quienes siguen al profeta con paciencia y fe?",
         "¿Alguna vez seguiste un consejo del profeta aunque no lo entendieras completamente? ¿Qué pasó?",
         "¿En qué se diferencia seguir al profeta por costumbre de seguirlo con fe genuina? ¿Cómo se ve esa diferencia en la práctica?",
-        "¿Qué consejo del profeta actual necesitas aplicar con más diligencia esta semana? ¿Cuál es el primer paso?"
+        "¿Qué consejo del profeta actual necesitas aplicar con más diligencia esta semana? ¿Cuál es el primer paso?",
+        "¿Qué señal concreta te va a decir, dentro de un mes, si ese consejo pasó de ser algo que admirás a algo que vivís?"
       ]
     }
   ],
@@ -46,67 +49,78 @@
       "id": 1,
       "question": "El 6 de abril de 1830, el Señor instruyó a los miembros a recibir las palabras de José Smith 'como si vinieran de Su propia boca'. José tenía 24 años y sin educación formal. ¿Por qué eso era desafiante?",
       "options": [
+        "Porque los miembros preferían seguir al rey en lugar de al profeta",
         "Porque José Smith hablaba con un dialecto difícil de entender",
         "Porque era difícil confiar en alguien joven y sin credenciales académicas o religiosas establecidas",
-        "Porque las palabras de José eran difíciles de encontrar en aquella época",
-        "Porque los miembros preferían seguir al rey en lugar de al profeta"
+        "Porque las palabras de José eran difíciles de encontrar en aquella época"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "D&C 21:4–6 dice que si seguimos al profeta 'en toda paciencia y fe', el Señor apartará los obstáculos de nuestro camino. ¿Qué significan las palabras 'paciencia y fe' en ese contexto?",
       "options": [
-        "Que debemos esperar años antes de actuar según el consejo del profeta",
-        "Que podemos seguir al profeta aunque no entendamos completamente el por qué, confiando en el Señor",
         "Que la paciencia reemplaza la necesidad de hacer algo concreto",
-        "Que solo debemos seguir al profeta cuando su consejo nos parece razonable"
+        "Que solo debemos seguir al profeta cuando su consejo nos parece razonable",
+        "Que debemos esperar años antes de actuar según el consejo del profeta",
+        "Que podemos seguir al profeta aunque no entendamos completamente el por qué, confiando en el Señor"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Alguna vez seguiste un consejo del profeta aunque no lo entendieras completamente en ese momento? ¿Qué pasó después?",
+      "question": "Doctrina y Convenios 21:5 pide recibir la palabra del profeta «en toda paciencia y fe». ¿Qué agrega la palabra «paciencia» a la instrucción?",
       "options": [
-        "Que seguir sin entender fue una señal de que me faltaba madurez",
-        "Que con el tiempo vi el sentido de ese consejo o recibí paz por haberlo seguido",
-        "Que seguir sin entender siempre resulta en problemas mayores",
-        "Que el consejo del profeta siempre tiene que tener sentido antes de seguirlo"
+        "Que la comprensión puede llegar después de la obediencia, y hay que sostenerla mientras tanto.",
+        "Que el Señor tolera que la obediencia se postergue cuando el consejo es difícil.",
+        "Que la instrucción se dirigía a los primeros santos, que necesitaban tiempo para aceptar a un profeta joven.",
+        "Que conviene esperar una confirmación personal antes de obedecer cualquier consejo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿En qué se diferencia seguir al profeta por costumbre familiar de seguirlo con fe genuina? ¿Cómo se ve esa diferencia en la práctica?",
+      "question": "En 1830 varios dudaban de la autoridad de José Smith: tenía veinticuatro años y ninguna educación formal. Según lo que enseña esta lección, ¿en qué se apoya realmente la autoridad de un profeta?",
       "options": [
-        "No hay diferencia real, lo importante es el resultado externo",
-        "La costumbre sigue sin pensar; la fe genuina involucra elegirlo conscientemente aunque cueste algo",
-        "La costumbre es más confiable porque es más estable que la fe",
-        "La fe genuina siempre produce emociones fuertes mientras que la costumbre no"
+        "En la preparación académica y la experiencia de vida que respaldan su consejo.",
+        "En el llamamiento que Dios le confirió y en la guía del Espíritu, no en sus cualidades personales.",
+        "En el consenso de los miembros que lo sostienen en su cargo.",
+        "En la coherencia entre su mensaje y las expectativas de la cultura de su tiempo."
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué consejo reciente del profeta actual sentís que necesitás aplicar con más diligencia en tu vida? ¿Cuál es el primer paso concreto que darías esta semana?",
+      "question": "Ana sigue las enseñanzas del profeta en lo que le resulta cómodo y deja de lado lo que choca con su entorno. Según Doctrina y Convenios 21:4–6, ¿qué le falta a esa forma de seguir al profeta?",
       "options": [
-        "Esperar a que el consejo se vuelva obligatorio antes de actuar",
-        "Identificar el consejo, decidir una acción pequeña concreta, y hacerla antes del domingo",
-        "Hablar del consejo con otras personas para ver si ellos también lo aplican primero",
-        "Pedir permiso al obispo antes de aplicar cualquier consejo general del profeta"
+        "Buscar un líder local que le confirme cada consejo antes de aplicarlo.",
+        "Nada sustancial: la obediencia parcial también cuenta como fe.",
+        "Recibir la palabra como si viniera del Señor mismo, lo cual excluye elegir qué parte aceptar.",
+        "Estudiar más antes de decidir qué consejos le corresponden."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
-      "question": "El presidente Ezra Taft Benson enseñó que el profeta viviente es 'más vital que el profeta muerto'. ¿Por qué?",
+      "question": "El élder Andersen advirtió que no nos sorprendamos si a veces nuestras perspectivas personales no están «en armonía total» con las enseñanzas del profeta, y llamó a esos momentos de aprendizaje y humildad. ¿Qué respuesta propone esa enseñanza ante un consejo profético que cuesta aceptar?",
       "options": [
-        "Porque las palabras de los profetas del pasado ya no tienen validez para hoy",
-        "Porque el profeta viviente tiene revelación específica para los desafíos de nuestra época y tiempo",
-        "Porque los profetas del pasado eran menos confiables que los actuales",
-        "Porque el profeta viviente tiene más seguidores en redes sociales"
+        "Concluir que el consejo se dirige a otras personas en otras circunstancias.",
+        "Buscar la opinión de otros miembros hasta encontrar una que confirme la propia.",
+        "Suspender la obediencia hasta que el consejo resulte razonable para uno mismo.",
+        "Llevar la diferencia a la oración y seguir caminando con fe mientras llega la comprensión."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 21:4–6 promete que, si se recibe la palabra del profeta con paciencia y fe, el Señor «apartará los obstáculos» del camino; el élder Andersen llamó «momentos de aprendizaje y humildad» a aquellos en que el consejo no coincide con la propia perspectiva. ¿Qué comparten las dos enseñanzas?",
+      "options": [
+        "Que la distancia entre el consejo profético y la propia opinión es parte esperada del proceso, no una señal de que algo está mal.",
+        "Que quien sigue al profeta queda libre de dificultades en su vida.",
+        "Que las perspectivas personales deben suprimirse por completo.",
+        "Que el desacuerdo con un consejo indica falta de conversión."
+      ],
+      "correctAnswer": 0
     }
   ]
 }

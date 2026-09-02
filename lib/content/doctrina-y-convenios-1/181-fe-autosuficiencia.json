@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La autosuficiencia en el evangelio no es independencia de Dios — es la combinación de esfuerzo personal fiel con la confianza en que el Señor bendece ese esfuerzo. Hay una diferencia fundamental entre la autosuficiencia del mundo — que se basa en la confianza en uno mismo únicamente — y la autosuficiencia del evangelio — que se basa en la fe en que el Señor multiplica el esfuerzo fiel. Esta lección conecta la fe en Jesucristo con el desarrollo de la capacidad de proveer para uno mismo y para la familia. Cuando confiamos en el Señor mientras trabajamos diligentemente, Él puede abrir puertas que el esfuerzo humano solo no puede abrir. Para un joven que enfrenta decisiones sobre educación, carrera y futuro, la lección propone una base que ningún plan humano puede dar: la fe en que el Señor está activamente involucrado en su desarrollo."
+      "contenido": [
+        "La autosuficiencia en el evangelio no es independencia de Dios: es la combinación de esfuerzo personal fiel con la confianza en que el Señor bendice ese esfuerzo. Hay una diferencia de fondo entre la autosuficiencia del mundo —que se apoya únicamente en la confianza en uno mismo— y la del evangelio, que se apoya en la fe de que el Señor multiplica el esfuerzo fiel.",
+        "Esta lección conecta la fe en Jesucristo con el desarrollo de la capacidad de proveer para uno mismo y para la familia. Cuando confiamos en el Señor mientras trabajamos con diligencia, Él puede abrir puertas que el esfuerzo humano solo no abre. Para un joven que enfrenta decisiones sobre educación, carrera y futuro, la lección propone una base que ningún plan humano puede dar: la fe en que el Señor está activamente involucrado en su desarrollo. Eso no reemplaza estudiar para el examen ni buscar el trabajo; cambia con qué ánimo se hacen esas dos cosas, y qué pasa cuando el resultado no llega en el plazo esperado."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿Alguna vez el Señor bendijo tu esfuerzo de una manera que vos solo no hubieras podido lograr? ¿Cuándo?",
         "¿Hay alguna área de tu desarrollo futuro — educación, carrera, misión — donde necesitás más fe en que el Señor te respaldará?",
         "¿Qué harías diferente esta semana si vivieras Proverbios 3:5–6 en tus decisiones académicas y personales?",
-        "¿Cómo podrías fortalecer tu fe en el Señor específicamente en el área de tu desarrollo personal y futuro?"
+        "¿Cómo podrías fortalecer tu fe en el Señor específicamente en el área de tu desarrollo personal y futuro?",
+        "¿Qué decisión sobre tu futuro te está costando por miedo a equivocarte? ¿Qué necesitarías para dar el primer paso igual, esta semana?"
       ]
     }
   ],
@@ -47,45 +51,45 @@
       "id": 1,
       "question": "Proverbios 3:5–6 da un mandato sobre cómo tomar decisiones. ¿Cuál es?",
       "options": [
+        "Actuar con determinación propia para demostrar madurez espiritual.",
         "Confiar en el Señor con todo el corazón y reconocerlo en todos los caminos.",
         "Consultar primero con los padres y después con los líderes de la Iglesia.",
-        "Estudiar todas las opciones antes de involucrar al Señor en la decisión.",
-        "Actuar con determinación propia para demostrar madurez espiritual."
+        "Estudiar todas las opciones antes de involucrar al Señor en la decisión."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "D&C 78:13–14 conecta la igualdad temporal con un propósito espiritual. ¿Cuál es ese propósito según el versículo 14?",
       "options": [
+        "Para que los santos puedan vivir en comunidades separadas del mundo sin necesitar contacto.",
         "Para que el pueblo del Señor no sea dependiente de los reinos del mundo ni de sus poderes.",
         "Para que la Iglesia pueda construir más templos sin deuda externa.",
-        "Para que los líderes de la Iglesia puedan ser elegidos con base en el mérito, no en la riqueza.",
-        "Para que los santos puedan vivir en comunidades separadas del mundo sin necesitar contacto."
+        "Para que los líderes de la Iglesia puedan ser elegidos con base en el mérito, no en la riqueza."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "El élder Hales enseñó que la autosuficiencia verdadera combina diligencia con fe. ¿Cuál es la diferencia entre trabajar solo con diligencia y trabajar con diligencia más fe?",
+      "question": "El presidente Nelson enseñó que «mediante su fe, Jesucristo aumentará la capacidad de ustedes para mover los montes». Según esa enseñanza, ¿cuál es la diferencia entre trabajar solo con diligencia y trabajar con diligencia más fe?",
       "options": [
-        "No hay diferencia práctica — el esfuerzo produce los mismos resultados con o sin fe.",
-        "La fe sin diligencia produce milagros sin esfuerzo; la diligencia sin fe produce resultados mediocres.",
-        "La fe multiplica el esfuerzo con bendiciones que la diligencia sola no puede producir — el Señor amplifica lo que uno construye con Su ayuda.",
-        "La diligencia es más importante que la fe en asuntos prácticos y económicos."
+        "La diligencia pesa más que la fe cuando se trata de asuntos prácticos y económicos.",
+        "No hay diferencia práctica: el esfuerzo produce los mismos resultados con o sin fe.",
+        "La fe reemplaza al esfuerzo, de modo que quien cree no necesita trabajar tanto.",
+        "La fe aumenta la capacidad de quien se esfuerza; el Señor amplía lo que la persona construye con Su ayuda."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Por qué la autosuficiencia en el evangelio no es lo mismo que la independencia orgullosa?",
       "options": [
-        "Porque la autosuficiencia del evangelio requiere vivir el diezmo, que la independencia orgullosa no hace.",
         "Porque la autosuficiencia del evangelio se desarrolla con el Señor como socio activo y para poder servir a otros — no es autonomía de Dios sino colaboración con Él.",
         "Porque la independencia orgullosa produce más riqueza y eso es equivalente a más bendiciones.",
-        "No son diferentes — la Iglesia simplemente llama 'autosuficiencia' a lo que el mundo llama 'independencia'."
+        "No son diferentes — la Iglesia simplemente llama 'autosuficiencia' a lo que el mundo llama 'independencia'.",
+        "Porque la autosuficiencia del evangelio requiere vivir el diezmo, que la independencia orgullosa no hace."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -102,12 +106,12 @@
       "id": 6,
       "question": "Nicolás dice que 'si oro suficiente, el Señor me dará un buen trabajo sin que yo me esfuerce demasiado'. ¿Cómo corrige ese razonamiento el principio de la autosuficiencia del evangelio?",
       "options": [
+        "Que debería orar más para ver si funciona antes de juzgar el principio.",
         "Que tiene razón — la oración suficiente siempre produce los resultados temporales deseados.",
         "Que la fe amplifica el esfuerzo pero no lo reemplaza — el Señor bendice la diligencia, no la pasividad; la oración sin trabajo no produce los mismos resultados que la oración con trabajo.",
-        "Que la oración nunca tiene efecto en los resultados económicos o laborales.",
-        "Que debería orar más para ver si funciona antes de juzgar el principio."
+        "Que la oración nunca tiene efecto en los resultados económicos o laborales."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,

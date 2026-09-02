@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-111",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En agosto de 1836, la Iglesia estaba endeudada. La construcción del templo de Kirtland había costado mucho más de lo previsto, y algunos hermanos escucharon que en Salem, Massachusetts, había un tesoro escondido en el sótano de una casa. José Smith y otros líderes viajaron hasta allí con la esperanza de encontrarlo y saldar las deudas.",
+        "No encontraron ningún tesoro. Lo que recibieron fue Doctrina y Convenios 111, donde el Señor no los reprende con dureza pero corrige el rumbo: «no os preocupéis por vuestras deudas, porque os daré el poder de pagarlas» (versículo 5). Y les revela que en esa ciudad había otra cosa: personas preparadas para recibir el evangelio.",
+        "La sección incluye además un consejo que suena muy práctico: «sed prudentes como la serpiente, y al mismo tiempo sin pecado; y yo dispondré todas las cosas para vuestro bienestar» (versículo 11). El presidente Dallin H. Oaks observó que los errores son inevitables en el crecimiento, y que «evitar toda posibilidad de cometer un error significa evitar toda posibilidad de crecer». El viaje a Salem fue un error de cálculo, y el Señor lo usó igual."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 111:5",
+          "texto": "No os preocupéis por vuestras deudas, porque os daré el poder de pagarlas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/111?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Doctrina y Convenios 111:8",
+          "texto": "Y el sitio donde es mi voluntad que principalmente os detengáis, os será manifestado por la paz y el poder de mi Espíritu que fluirá hacia vosotros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/111?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "Doctrina y Convenios 111:11",
+          "texto": "Por tanto, sed prudentes como la serpiente, y al mismo tiempo sin pecado; y yo dispondré todas las cosas para vuestro bienestar, en cuanto podáis recibirlas. Amén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/111?lang=spa&id=p11#p11"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dallin H. Oaks",
+      "fuente": "«Sins and Mistakes», Ensign, octubre de 1996, pág. 67 (artículo publicado solo en inglés; citado en el Manual del maestro de Seminario de Doctrina y Convenios, 2025, lección 131)",
+      "texto": "Los errores son inevitables en el proceso de crecimiento en la vida mortal. Evitar toda posibilidad de cometer un error significa evitar toda posibilidad de crecer. […] Si estamos dispuestos a que se nos corrija por nuestros errores, los errores inocentes pueden constituir una fuente de crecimiento y progreso.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/401-doctrine-and-covenants-111?lang=spa"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "José Smith viajó cientos de kilómetros buscando un tesoro que no existía, y el Señor no lo humilló por eso: le corrigió el rumbo y le mostró lo que sí había en esa ciudad. El presidente Oaks señala por qué eso importa: quien intenta no equivocarse nunca termina no haciendo nada. Si te equivocaste en algo estas semanas, no lo escondas ni te quedes ahí: contá qué aprendiste y seguí. Esa disposición a ser corregido es lo que convierte un error en crecimiento."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "José Smith viajó a Salem buscando un tesoro que no existía. ¿Qué te sorprende de cómo respondió el Señor?",
+        "«No os preocupéis por vuestras deudas, porque os daré el poder de pagarlas». ¿Qué diferencia hay entre eso y prometer pagarlas Él?",
+        "El versículo 8 dice que la voluntad del Señor se manifiesta «por la paz y el poder de mi Espíritu». ¿Cómo reconocés vos esa paz?",
+        "El presidente Oaks dice que evitar todo error es evitar todo crecimiento. ¿Estás de acuerdo? ¿Por qué?",
+        "¿En qué te equivocaste últimamente? ¿Qué aprendiste de eso?",
+        "¿Hay algo que no estás intentando por miedo a equivocarte? ¿Qué primer paso podrías dar igual esta semana?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Con qué propósito José Smith y otros líderes viajaron a Salem, Massachusetts?",
+      "question": "¿Qué llevó a José Smith y a otros líderes a viajar a Salem, Massachusetts, en 1836?",
       "options": [
-        "Buscar recursos para pagar deudas de la Iglesia",
-        "Predicar el evangelio a los gentiles",
-        "Organizar una nueva estaca",
-        "Traducir escrituras antiguas"
+        "Una asignación misional para predicar en la costa este.",
+        "La noticia de un tesoro escondido con el que esperaban saldar las deudas de la Iglesia.",
+        "La necesidad de comprar materiales para el templo de Kirtland.",
+        "Una invitación de miembros que vivían en esa ciudad."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "Según DyC 111:1–2, ¿qué asegura el Señor acerca de Sus designios?",
+      "question": "¿Qué promete el Señor en Doctrina y Convenios 111:5 respecto de las deudas?",
       "options": [
-        "Que Sus propósitos no pueden frustrarse",
-        "Que todo será fácil",
-        "Que no habrá errores humanos",
-        "Que no habrá oposición"
+        "Que no debían haber contraído deudas en primer lugar.",
+        "Que las saldará Él mismo si los santos son fieles.",
+        "Que no se preocupen, porque les dará el poder de pagarlas.",
+        "Que las deudas se cancelarán con el tiempo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué enseñanza se desprende del resultado del viaje a Salem?",
+      "question": "Según Doctrina y Convenios 111:8, ¿cómo se manifestaría la voluntad del Señor sobre dónde debían detenerse?",
       "options": [
-        "El Señor puede cumplir Sus propósitos aun cuando nuestros planes no se cumplan",
-        "Las revelaciones siempre evitan dificultades",
-        "Los profetas nunca enfrentan fracasos",
-        "El esfuerzo humano es innecesario"
+        "Mediante una señal visible en el lugar señalado.",
+        "A través del consejo de los líderes locales.",
+        "Por medio de un mensajero enviado a instruirlos.",
+        "Por la paz y el poder de Su Espíritu fluyendo hacia ellos."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué promesa hace el Señor en DyC 111:4–6 respecto a Salem?",
+      "question": "El presidente Oaks enseñó que «evitar toda posibilidad de cometer un error significa evitar toda posibilidad de crecer». ¿Qué condición agrega para que un error produzca crecimiento?",
       "options": [
-        "Que hay personas preparadas para recibir el evangelio",
-        "Que todos se convertirán inmediatamente",
-        "Que la ciudad sería destruida",
-        "Que no habría oposición"
+        "Que la persona esté dispuesta a que se la corrija.",
+        "Que el error haya sido cometido de buena fe.",
+        "Que se repare la consecuencia antes de seguir adelante.",
+        "Que el error no haya causado daño a otras personas."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué principio enseña DyC 111 sobre la fe y la confianza en el Señor?",
+      "question": "Martina no se anima a aceptar una asignación en su clase porque tiene miedo de hacerlo mal. Según la enseñanza del presidente Oaks, ¿qué está eligiendo sin darse cuenta?",
       "options": [
-        "Confiar en el Señor aun cuando no entendamos plenamente Sus caminos",
-        "Actuar solo cuando tengamos certeza absoluta",
-        "Evitar toda incertidumbre",
-        "La fe elimina toda dificultad"
+        "Proteger a su clase de una experiencia deficiente.",
+        "Evitar el crecimiento junto con el riesgo de equivocarse.",
+        "Una forma prudente de esperar hasta estar preparada.",
+        "Dar lugar a que otra persona más capacitada lo haga."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "El viaje a Salem fue un error de cálculo, y el Señor lo usó para revelar otra cosa. ¿Qué muestra ese episodio sobre cómo trata Dios nuestras equivocaciones?",
+      "options": [
+        "Que los errores de los líderes tienen consecuencias menores.",
+        "Que conviene actuar solo cuando se tiene certeza completa.",
+        "Que puede reorientar el rumbo sin humillar a quien se equivocó.",
+        "Que las equivocaciones se corrigen mediante una reprensión severa."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 111:11 manda ser «prudentes como la serpiente, y al mismo tiempo sin pecado», y el presidente Oaks enseña que los errores son parte del crecimiento. ¿Qué principio común forman las dos ideas?",
+      "options": [
+        "Que la prudencia consiste en no arriesgarse nunca.",
+        "Que los errores son aceptables mientras no se repitan.",
+        "Que la inocencia excusa la falta de preparación.",
+        "Que se espera criterio y prudencia, pero no una perfección que paralice la acción."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

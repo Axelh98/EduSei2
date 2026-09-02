@@ -38,7 +38,8 @@
         "¿Cuál es la diferencia entre igualdad y equidad en cómo el Señor distribuye Sus bendiciones?",
         "¿Alguna vez comparaste lo que tenés con lo que tiene otra persona y eso te generó resentimiento? ¿Qué cambiaría si vieras tus circunstancias como adaptadas a lo que vos necesitás?",
         "¿Cómo podrías usar tus recursos — tiempo, dinero, habilidades — de manera más equitativa con quienes tienen necesidad real cerca tuyo?",
-        "¿Qué significa para vos que el Señor le dé a cada persona exactamente lo que necesita para crecer?"
+        "¿Qué significa para vos que el Señor le dé a cada persona exactamente lo que necesita para crecer?",
+        "Pensá en una persona cercana que hoy tiene menos de algo que a vos te sobra. ¿Qué le vas a acercar esta semana, y cómo lo vas a hacer sin que quede como una limosna?"
       ]
     }
   ],
@@ -47,23 +48,23 @@
       "id": 1,
       "question": "D&C 51 fue revelada para organizar la distribución de recursos entre los santos que llegaban a Ohio. ¿A quién le dio el Señor instrucciones específicas sobre esa administración?",
       "options": [
-        "A Edward Partridge, el primer obispo de la Iglesia.",
         "Al profeta José Smith como presidente de la Iglesia.",
         "A Sidney Rigdon como escribano y consejero del profeta.",
-        "A un comité de líderes locales elegidos por los santos."
+        "A un comité de líderes locales elegidos por los santos.",
+        "A Edward Partridge, el primer obispo de la Iglesia."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "D&C 51:3 establece el principio de distribución según las 'necesidades y deseos' de cada familia. ¿Qué distingue ese principio de dar exactamente lo mismo a todos?",
       "options": [
-        "Que dar lo mismo a todos siempre produce mejores resultados que atender necesidades individuales.",
         "Que la equidad según necesidades reales es diferente a la igualdad de cantidades — el Señor diseñó un sistema que responde a lo que cada familia necesita, no un reparto uniforme.",
         "Que el sistema era puramente económico y no tenía principios espirituales detrás.",
-        "Que el obispo tenía autoridad ilimitada para decidir qué merecía cada familia."
+        "Que el obispo tenía autoridad ilimitada para decidir qué merecía cada familia.",
+        "Que dar lo mismo a todos siempre produce mejores resultados que atender necesidades individuales."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -78,47 +79,47 @@
     },
     {
       "id": 4,
-      "question": "El presidente Uchtdorf enseñó que el Señor no da lo mismo a todos sino lo perfectamente adaptado a cada uno. ¿Cómo conecta eso con el principio de D&C 51:3?",
+      "question": "El obispo Caussé definió la mayordomía como «una responsabilidad sagrada, espiritual o temporal, de cuidar algo que pertenece a Dios». ¿Cómo se conecta esa definición con la instrucción de Doctrina y Convenios 51:3 de repartir a cada uno «según sus necesidades»?",
       "options": [
-        "Son principios contradictorios — D&C 51 pide igualdad estricta, no adaptación.",
-        "Ambos enseñan que la equidad divina no es uniformidad sino una respuesta perfecta a la necesidad específica de cada persona.",
-        "El principio del presidente Uchtdorf aplica a lo espiritual y D&C 51 solo a lo temporal.",
-        "No hay conexión — D&C 51 es una instrucción administrativa, no un principio doctrinal."
+        "No hay relación: la sección 51 es una disposición administrativa sin contenido doctrinal.",
+        "Son principios opuestos: la sección 51 exige repartos idénticos, sin atender a las diferencias.",
+        "Los dos parten de que los bienes son de Dios, y por eso el reparto se mide por la necesidad de cada uno y no por la igualdad aritmética.",
+        "La mayordomía se refiere a lo espiritual y la sección 51 únicamente a lo material."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Tomás siente resentimiento porque su amigo recibió más ayuda de la Iglesia que él cuando ambos tenían problemas. Según el principio de D&C 51:3, ¿qué perspectiva podría aliviar ese resentimiento?",
       "options": [
-        "Que tiene razón — el sistema de bienestar debería dar lo mismo a todos para ser justo.",
-        "Que la distribución responde a necesidades diferentes, no a favoritismos — su amigo y él tienen situaciones distintas que requieren respuestas distintas.",
         "Que debería quejarse con el obispo para recibir la misma cantidad que su amigo.",
-        "Que las necesidades de los demás nunca deberían influir en la cantidad que cada uno recibe."
+        "Que las necesidades de los demás nunca deberían influir en la cantidad que cada uno recibe.",
+        "Que tiene razón — el sistema de bienestar debería dar lo mismo a todos para ser justo.",
+        "Que la distribución responde a necesidades diferentes, no a favoritismos — su amigo y él tienen situaciones distintas que requieren respuestas distintas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Valentina compara constantemente sus circunstancias con las de sus amigos y siempre siente que otros tienen más. Según D&C 51 y el principio de mayordomía del Señor, ¿qué cambiaría en su perspectiva si lo aplicara?",
       "options": [
-        "Que la comparación es inevitable y el Señor la comprende.",
         "Que el Señor adapta Sus bendiciones a lo que cada persona necesita para crecer — lo que tiene Valentina es exactamente lo que el Señor consideró que ella necesita ahora.",
         "Que debería pedir más hasta igualar lo que tienen los demás.",
-        "Que la comparación solo es problema cuando genera envidia visible, no cuando es solo interna."
+        "Que la comparación solo es problema cuando genera envidia visible, no cuando es solo interna.",
+        "Que la comparación es inevitable y el Señor la comprende."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "D&C 51 y D&C 42:29–39 (lección anterior) tratan ambos sobre la administración de bienes en la Iglesia. ¿Cuál es el principio doctrinal común que los une?",
       "options": [
-        "Que la Iglesia debe acumular recursos para ser independiente del mundo.",
-        "Que la igualdad perfecta de bienes es el único estándar aceptable para los santos.",
         "Que los principios económicos del Señor son incompatibles con las sociedades modernas.",
-        "Que somos mayordomos — no dueños — de lo que Dios nos da, y la administración fiel de esos recursos para el beneficio de quienes tienen necesidad es una expresión del amor al Salvador."
+        "Que somos mayordomos — no dueños — de lo que Dios nos da, y la administración fiel de esos recursos para el beneficio de quienes tienen necesidad es una expresión del amor al Salvador.",
+        "Que la Iglesia debe acumular recursos para ser independiente del mundo.",
+        "Que la igualdad perfecta de bienes es el único estándar aceptable para los santos."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ]
 }

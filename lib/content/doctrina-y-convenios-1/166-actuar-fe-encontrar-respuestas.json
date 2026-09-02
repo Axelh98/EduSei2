@@ -4,9 +4,8 @@
     {
       "tipo": "contexto",
       "contenido": [
-        "En el mundo actual, abundan las preguntas difíciles sobre el evangelio. Historias complicadas, doctrinas que confunden, experiencias que no cuadran con lo que uno espera. ¿Qué hacés cuando tenés una pregunta para la que no encontrás respuesta fácil?",
-        "El cuarto y último principio para adquirir conocimiento espiritual es actuar con fe mientras se espera la respuesta. Esto significa: hacer lo que ya sabes que es correcto aunque no entiendas todo. Vivir según los principios del evangelio mientras buscás comprensión. No esperar certeza total para obedecer.",
-        "José Smith no tenía todas las respuestas cuando fue al bosque a orar. Actuó con fe primero. La respuesta vino después. Ese patrón se repite en toda la Escritura y en la vida de los santos fieles: actuar, luego recibir más luz. D&C 9:8 lo resume perfectamente: estudia el asunto en tu mente, luego pide confirmación. La fe activa precede a la confirmación espiritual."
+        "En el mundo actual abundan las preguntas difíciles sobre el evangelio. Historias complicadas, doctrinas que confunden, experiencias que no cuadran con lo que uno espera. ¿Qué hacés cuando tenés una pregunta para la que no encontrás respuesta fácil? El cuarto principio para adquirir conocimiento espiritual es actuar con fe mientras se espera la respuesta. Significa hacer lo que ya sabés que es correcto aunque no entiendas todo, y vivir según los principios del evangelio mientras buscás comprensión.",
+        "José Smith no tenía todas las respuestas cuando fue al bosque a orar. Actuó con fe primero; la respuesta vino después. Ese patrón se repite en toda la Escritura y en la vida de los santos fieles: actuar, luego recibir más luz. Doctrina y Convenios 9:8 lo resume: estudiá el asunto en tu mente, después pedí confirmación. La fe activa precede a la confirmación espiritual, no al revés. Esto importa a los quince años tanto como a los cincuenta: casi ninguna decisión que valga la pena se toma con toda la información sobre la mesa."
       ]
     },
     {
@@ -33,7 +32,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Actuar con fe no significa ignorar las dudas; significa no dejar que las dudas paralicen la acción. Juan 7:17 promete que quien quiera hacer la voluntad de Dios llegará a conocer la doctrina. El conocimiento espiritual sigue a la obediencia fiel, no solo a la investigación intelectual. Esta semana, identificá una verdad del evangelio que dudás y actuá según ella de todas formas. Observá qué pasa."
+      "contenido": [
+        "Actuar con fe no significa ignorar las dudas; significa no dejar que las dudas paralicen la acción. Juan 7:17 promete que quien quiera hacer la voluntad de Dios llegará a conocer la doctrina. El conocimiento espiritual sigue a la obediencia fiel, no solo a la investigación intelectual. Elegí un principio que hoy te genere preguntas —el diezmo, el día de reposo, la oración diaria— y vivilo íntegramente durante siete días antes de sacar conclusiones. Después mirá qué cambió, no en la doctrina, sino en vos."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -42,7 +43,8 @@
         "¿Qué pasos describe D&C 9:8 para recibir confirmación espiritual? ¿Cuál de esos pasos te resulta más difícil?",
         "¿Podés recordar una vez que actuaste con fe antes de tener todas las respuestas? ¿Qué pasó?",
         "¿Qué promete Juan 7:17 a quien quiere hacer la voluntad de Dios? ¿Cómo se relaciona eso con tus dudas actuales?",
-        "¿Qué verdad del evangelio sobre la que tenés preguntas podés actuar esta semana, aunque no tengas todas las respuestas todavía?"
+        "¿Qué verdad del evangelio sobre la que tenés preguntas podés actuar esta semana, aunque no tengas todas las respuestas todavía?",
+        "¿A quién le vas a contar cómo te fue con ese experimento de siete días, para que no quede solo en una intención tuya?"
       ]
     }
   ],
@@ -62,43 +64,43 @@
       "id": 2,
       "question": "D&C 9:8 dice: 'estudia esto en tu mente; luego pídeme si es correcto'. ¿Cuál de estos pasos se omite más frecuentemente?",
       "options": [
+        "Ambos pasos se omiten por igual",
         "El paso de orar, porque muchos oran pero sin haber estudiado el asunto primero",
         "El paso de estudiar, porque muchos esperan que el Espíritu responda sin haber pensado antes",
-        "El paso de pedir confirmación, porque la gente ya está segura antes de preguntar",
-        "Ambos pasos se omiten por igual"
+        "El paso de pedir confirmación, porque la gente ya está segura antes de preguntar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Podés recordar una vez que actuaste con fe antes de tener todas las respuestas? ¿Qué pasó con tu testimonio después de dar ese paso?",
+      "question": "Ana tiene dudas sobre si vale la pena pagar el diezmo con lo poco que gana en su trabajo de fin de semana. Decide pagarlo durante tres meses mientras sigue buscando respuestas. Según el patrón que enseña esta lección, ¿qué es lo más probable que ocurra?",
       "options": [
-        "Actuar sin certeza siempre me generó arrepentimiento",
-        "Al actuar, llegaron confirmaciones espirituales que no habrían llegado si me quedaba quieto",
-        "Actuar con fe sin certeza es irresponsable y debo evitarlo",
-        "Las respuestas llegaron antes de que actuara, no después"
+        "Que la duda desaparezca de golpe apenas haga el primer pago, sin ningún esfuerzo adicional.",
+        "Que actuar sin tener certeza previa la lleve a arrepentirse de una decisión apresurada.",
+        "Que la respuesta le habría llegado igual sin necesidad de haber hecho nada distinto.",
+        "Que las confirmaciones espirituales lleguen precisamente a partir de haber actuado, no antes."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "Juan 7:17 dice: 'el que quiera hacer la voluntad de Dios, conocerá si la doctrina es de Dios'. ¿Qué condición previa establece esa promesa?",
       "options": [
-        "Haber estudiado teología avanzada antes de evaluar la doctrina",
         "La disposición de hacer la voluntad de Dios, que precede al conocimiento espiritual",
         "Haber recibido primero una manifestación sobrenatural del Espíritu",
-        "Tener el sacerdocio conferido antes de poder discernir la verdad"
+        "Tener el sacerdocio conferido antes de poder discernir la verdad",
+        "Haber estudiado teología avanzada antes de evaluar la doctrina"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué verdad del evangelio sobre la que tenés preguntas podés actuar esta semana, aunque no tengas todas las respuestas todavía?",
+      "question": "Lucía dice que no quiere comprometerse con ningún mandamiento hasta entenderlo del todo, porque le parece deshonesto vivir algo de lo que no está convencida. Según Doctrina y Convenios 9:8 y Juan 7:17, ¿cómo se responde mejor a ese planteo?",
       "options": [
-        "No debo actuar en nada que no entienda completamente primero",
-        "Puedo elegir vivir un principio concreto y observar las consecuencias espirituales de ese experimento",
-        "Solo puedo actuar en las verdades que entiendo perfectamente",
-        "El Señor espera que tenga certeza completa antes de pedirme que actúe"
+        "Tiene razón: obedecer sin comprensión completa es una forma de hipocresía que conviene evitar.",
+        "La comprensión llega, en parte, por el camino de vivir el principio; la disposición a hacer la voluntad de Dios es lo que abre el conocimiento.",
+        "Debería dejar de lado los mandamientos que no entiende y concentrarse solo en los que ya acepta.",
+        "La honestidad exige esperar una certeza total, aunque eso lleve años de estudio previo."
       ],
       "correctAnswer": 1
     },
@@ -106,12 +108,23 @@
       "id": 6,
       "question": "José Smith fue al bosque a orar sin tener certeza de cuál iglesia era verdadera. ¿Qué principio demuestra su ejemplo para quien tiene dudas hoy?",
       "options": [
+        "Que necesitamos una experiencia sobrenatural visible para confirmar cualquier verdad",
         "Que la respuesta siempre llega instantáneamente si la pregunta es sincera",
         "Que actuar con fe — ir a preguntar, vivir el principio — es la condición que abre la puerta a la revelación",
-        "Que las dudas solo se resuelven estando completamente solos sin influencias externas",
-        "Que necesitamos una experiencia sobrenatural visible para confirmar cualquier verdad"
+        "Que las dudas solo se resuelven estando completamente solos sin influencias externas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 9:8 pide estudiar primero en la mente y después pedir confirmación; Juan 7:17 promete conocimiento a quien «quiera hacer la voluntad» de Dios. ¿Qué principio común sobre el conocimiento espiritual enseñan los dos pasajes juntos?",
+      "options": [
+        "Que las dudas son un obstáculo que hay que eliminar antes de poder empezar a aprender.",
+        "Que el conocimiento espiritual llega antes del compromiso, para que nadie actúe a ciegas.",
+        "Que el estudio intelectual por sí solo basta para resolver cualquier pregunta doctrinal.",
+        "Que el conocimiento espiritual exige poner algo propio en juego —esfuerzo o disposición— antes de recibirse."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

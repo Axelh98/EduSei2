@@ -1,83 +1,143 @@
 {
   "id": "doctrina-y-convenios-89-18-21",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Los últimos cuatro versículos de la Palabra de Sabiduría son las promesas, y son más grandes de lo que suele recordarse. Salud en el ombligo y médula en los huesos; sabiduría y grandes tesoros de conocimiento, «sí, tesoros escondidos»; correr sin fatigarse y andar sin desmayar; y que el ángel destructor pase de largo.",
+        "Es fácil leer eso como una promesa de rendimiento físico, y ahí empiezan los problemas: cualquiera conoce a alguien que no guarda la Palabra de Sabiduría y corre más rápido. El presidente Uchtdorf contó justamente esa experiencia: de joven, en el ejército, algunos compañeros que no la guardaban lo superaban en el entrenamiento físico. Su conclusión no fue que la promesa fallara, sino que «las promesas de Dios no siempre se cumplen con la velocidad o de la forma que nos gustaría».",
+        "Y hay una promesa que se pasa por alto porque no es física. El presidente Packer enseñó que el propósito de fondo de la Palabra de Sabiduría está ligado a la revelación: una mente afectada por esas sustancias difícilmente perciba los susurros del Espíritu. Vista así, la ley de salud es sobre todo una ley de recepción."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 89:18–19",
+          "texto": "Y todos los santos que se acuerden de guardar y hacer estas cosas, rindiendo obediencia a los mandamientos, recibirán salud en el ombligo y médula en los huesos; y hallarán sabiduría y grandes tesoros de conocimiento, sí, tesoros escondidos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=spa&id=p18-p19#p18"
+        },
+        {
+          "referencia": "Doctrina y Convenios 89:20",
+          "texto": "Y correrán sin fatigarse, y andarán sin desmayar.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "Doctrina y Convenios 89:21",
+          "texto": "Y yo, el Señor, les prometo que el ángel destructor pasará de ellos, como de los hijos de Israel, y no los matará. Amén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=spa&id=p21#p21"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dieter F. Uchtdorf",
+      "fuente": "«Continuemos con paciencia», Conferencia General, abril de 2010 (Liahona, mayo de 2010, pág. 58)",
+      "texto": "Con el tiempo descubrí que las promesas de Dios no siempre se cumplen con la velocidad o de la forma que nos gustaría, sino en el momento y a la manera de Él. […] Sé con certeza que las promesas del Señor, si bien no siempre son rápidas, siempre son seguras.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2010/04/continue-in-patience?lang=spa&id=p31#p31"
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Boyd K. Packer",
+      "fuente": "«La Palabra de Sabiduría: El principio y las promesas», Conferencia General, abril de 1996 (Liahona, julio de 1996, pág. 20)",
+      "texto": "No es de la muerte física que nos veremos librados si somos obedientes a estos mandamientos, pues en su debido momento a todos nos tocará morir. Es la muerte espiritual la que no es necesario padecer.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/1996/04/the-word-of-wisdom-the-principle-and-the-promises?lang=spa&id=p43#p43"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Las promesas del versículo 18 al 21 no son un contrato de rendimiento físico con resultados inmediatos. Son promesas de sabiduría, de conocimiento y de protección, cumplidas «en el momento y a la manera» del Señor. La más discreta de todas es la más importante: una mente clara puede escuchar lo que una mente nublada no. Si esta semana te cuesta reconocer una respuesta, revisá primero qué está compitiendo por tu atención y tu descanso, antes de concluir que el Señor no está hablando."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "De las cuatro promesas de los versículos 18 al 21, ¿cuál te parece la más sorprendente?",
+        "El presidente Uchtdorf vio que algunos que no guardaban la Palabra de Sabiduría lo superaban físicamente. ¿Cómo entendés vos la promesa del versículo 20 a la luz de eso?",
+        "«Tesoros escondidos» de conocimiento no suena a promesa de salud. ¿Qué te parece que significa?",
+        "El presidente Packer relacionó la Palabra de Sabiduría con la capacidad de percibir el Espíritu. ¿Notaste alguna vez esa relación en tu propia vida?",
+        "¿Qué está compitiendo hoy por tu atención al punto de dificultarte escuchar?",
+        "¿Qué vas a ajustar esta semana para tener la cabeza más despejada? Definí una sola cosa."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "Según DyC 89:18, ¿qué bendición promete el Señor a quienes guardan la Palabra de Sabiduría?",
+      "question": "¿Qué promete Doctrina y Convenios 89:19 a quienes guardan la Palabra de Sabiduría?",
       "options": [
-        "Salud y vigor físico",
-        "Riquezas materiales",
-        "Fama y reconocimiento",
-        "Evitar toda dificultad"
+        "Protección frente a toda enfermedad grave.",
+        "Sabiduría y grandes tesoros de conocimiento, incluso tesoros escondidos.",
+        "Larga vida y prosperidad material.",
+        "Fortaleza para resistir cualquier tentación."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué bendición espiritual se menciona en DyC 89:19?",
+      "question": "Según Doctrina y Convenios 89:21, ¿qué promesa se hace con una referencia a los hijos de Israel?",
       "options": [
-        "Sabiduría y conocimiento",
-        "Éxito económico",
-        "Popularidad social",
-        "Evitar responsabilidades"
+        "Que sus enemigos serán confundidos.",
+        "Que serán guiados a una tierra prometida.",
+        "Que el ángel destructor pasará de ellos y no los matará.",
+        "Que recibirán maná en tiempos de escasez."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué protección promete el Señor en DyC 89:21?",
+      "question": "El presidente Uchtdorf notó que algunos compañeros que no guardaban la Palabra de Sabiduría lo superaban en el entrenamiento físico. ¿Qué conclusión sacó?",
       "options": [
-        "Que el ángel destructor pasará de largo",
-        "Que nunca moriremos físicamente",
-        "Que no enfrentaremos pruebas",
-        "Que seremos reconocidos por el mundo"
+        "Que las promesas dependen del esfuerzo físico que cada persona invierta.",
+        "Que el cumplimiento de la promesa exige guardar además todos los demás mandamientos.",
+        "Que la promesa del versículo 20 se refiere solo a la salud espiritual.",
+        "Que las promesas de Dios se cumplen en Su momento y a Su manera, aunque no siempre con rapidez."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué enseñó el presidente Dieter F. Uchtdorf sobre las promesas de Dios?",
+      "question": "El presidente Packer enseñó que el propósito de fondo de la Palabra de Sabiduría está ligado a la revelación, y preguntó cómo alguien afectado por esas sustancias podría percibir los susurros del Espíritu. ¿Qué reencuadre propone esa idea?",
       "options": [
-        "Que no siempre llegan rápido, pero siempre son seguras",
-        "Que nunca se cumplen",
-        "Que dependen solo de nosotros",
-        "Que son simbólicas"
+        "Que su valor mayor está en mantener la capacidad de recibir revelación.",
+        "Que sus prohibiciones se justifican por razones culturales de la época.",
+        "Que el cuerpo y el espíritu funcionan de manera independiente.",
+        "Que la Palabra de Sabiduría es sobre todo una ley de salud física con efectos secundarios espirituales."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué ejemplo bíblico muestra las bendiciones de obedecer leyes de salud del Señor?",
+      "question": "Franco guarda la Palabra de Sabiduría desde siempre pero se enferma con frecuencia, y concluye que la promesa del versículo 18 no se cumple en su caso. ¿Qué le muestra la enseñanza del presidente Uchtdorf?",
       "options": [
-        "Daniel y sus amigos al rechazar la comida del rey",
-        "Jonás en Nínive",
-        "Moisés en el desierto",
-        "Pedro en Jerusalén"
+        "Que la promesa se aplica únicamente a quienes tuvieron que vencer una adicción.",
+        "Que las promesas se cumplen en el momento y de la manera del Señor, y no como una garantía inmediata de salud.",
+        "Que probablemente esté incumpliendo la Palabra de Sabiduría sin darse cuenta.",
+        "Que las promesas físicas fueron reemplazadas por promesas espirituales."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,
-      "question": "¿Qué enseñó el presidente Boyd K. Packer sobre la protección prometida en DyC 89:21?",
+      "question": "Lucía duerme poco, vive con el teléfono encendido y dice que ya no distingue si una impresión viene del Espíritu o de su propia cabeza. Según lo que enseña esta lección, ¿por dónde le conviene empezar?",
       "options": [
-        "Que no es de la muerte física, sino de la muerte espiritual",
-        "Que nunca moriremos físicamente",
-        "Que no habrá pruebas",
-        "Que la protección es solo simbólica"
+        "Por aumentar el tiempo de oración hasta que la diferencia se vuelva evidente.",
+        "Por esperar una manifestación más clara que no deje lugar a dudas.",
+        "Por revisar las condiciones concretas —descanso, atención— que afectan su capacidad de percibir.",
+        "Por consultar cada impresión con un líder antes de actuar."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 7,
-      "question": "¿Qué principio central enseña DyC 89:18–21?",
+      "question": "Doctrina y Convenios 89:19 promete conocimiento y sabiduría, y el presidente Packer vincula la Palabra de Sabiduría con la capacidad de recibir revelación. ¿Qué principio común forman las dos ideas?",
       "options": [
-        "Que el Señor promete salud, sabiduría y protección a quienes guardan la Palabra de Sabiduría",
-        "Que las bendiciones son automáticas para todos",
-        "Que la Palabra de Sabiduría es opcional",
-        "Que las promesas son solo para líderes"
+        "Que el conocimiento prometido se refiere exclusivamente al estudio académico.",
+        "Que la revelación se concede en proporción a la salud física de la persona.",
+        "Que las promesas espirituales son independientes de la conducta física.",
+        "Que cuidar el cuerpo protege la capacidad de la mente y del espíritu para recibir lo que Dios quiere dar."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }

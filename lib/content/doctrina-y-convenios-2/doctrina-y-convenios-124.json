@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-124",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En enero de 1841, con los santos apenas instalados en Nauvoo, el Señor mandó construir otro templo. Habían perdido el de Kirtland al huir de Ohio, y el mandato llegaba cuando todavía estaban levantando sus propias casas en un terreno pantanoso.",
+        "El versículo 40 explica para qué: «edifíquese esta casa a mi nombre, para que en ella pueda yo revelar mis ordenanzas a mi pueblo». Y el 41 agrega algo más: «me propongo revelar a mi iglesia cosas que han estado escondidas desde antes de la fundación del mundo». En el templo de Nauvoo se revelaron las ordenanzas de la investidura y del sellamiento tal como se conocen hoy.",
+        "La sección incluye además una promesa que consuela a cualquiera que se haya esforzado sin lograr el resultado. El versículo 49 dice que cuando alguien procura hacer una obra mandada «con todas sus fuerzas y con todo lo que tienen» y sus enemigos se lo impiden, al Señor «le conviene no exigirla más […] sino aceptar sus ofrendas». Lo que se mide es el esfuerzo, no el resultado."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 124:40–41",
+          "texto": "Y de cierto os digo, edifíquese esta casa a mi nombre, para que en ella pueda yo revelar mis ordenanzas a mi pueblo; porque me propongo revelar a mi iglesia cosas que han estado escondidas desde antes de la fundación del mundo, cosas que pertenecen a la dispensación del cumplimiento de los tiempos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=spa&id=p40-p41#p40"
+        },
+        {
+          "referencia": "Doctrina y Convenios 124:49",
+          "texto": "De cierto, de cierto os digo, que cuando doy un mandamiento a cualquiera de los hijos de los hombres de hacer una obra en mi nombre, y estos, con todas sus fuerzas y con todo lo que tienen, procuran hacer dicha obra, sin que cese su diligencia, y sus enemigos vienen sobre ellos y les impiden la ejecución de ella, he aquí, me conviene no exigirla más a esos hijos de los hombres, sino aceptar sus ofrendas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=spa&id=p49#p49"
+        },
+        {
+          "referencia": "Doctrina y Convenios 124:15",
+          "texto": "Y además, de cierto te digo, bendito es mi siervo Hyrum Smith, porque yo, el Señor, lo amo a causa de la integridad de su corazón, y porque él ama lo que es justo ante mí, dice el Señor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=spa&id=p15#p15"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Edifíquese esta casa a mi nombre», Conferencia General, abril de 2020 (Liahona, mayo de 2020, pág. 85)",
+      "texto": "No edificamos los santos templos ni entramos en ellos solo para tener una experiencia personal o familiar memorable. Más bien, los convenios que se reciben y las ordenanzas que se efectúan en los templos son esenciales para la santificación de nuestro corazón y para la exaltación final de los hijos y las hijas de Dios.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/44bednar?lang=spa&id=p14#p14"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "El versículo 49 es una de las promesas más consoladoras de la Escritura: cuando alguien da todo lo que tiene y aun así los enemigos impiden la obra, el Señor acepta la ofrenda. Eso significa que lo que Él pesa es el esfuerzo sostenido, no el resultado visible. Si estás poniendo todo en algo que no está saliendo, no confundas «no lo logré» con «no sirvió». Escribí qué es lo que sí pusiste, y presentalo como lo que es: una ofrenda."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Los santos recibieron el mandato de construir otro templo cuando todavía no tenían casas propias. ¿Qué te parece de ese orden de prioridades?",
+        "El versículo 41 habla de «cosas que han estado escondidas desde antes de la fundación del mundo». ¿Qué te genera esa frase?",
+        "El élder Bednar dice que el templo no es para tener «una experiencia memorable». ¿Cuál es entonces su propósito?",
+        "El versículo 49 promete que el Señor acepta la ofrenda cuando el esfuerzo fue completo aunque el resultado no llegue. ¿Cómo te cae esa promesa?",
+        "¿Hay algo en lo que estés poniendo todo y no esté saliendo?",
+        "Escribí qué es lo que sí pusiste en eso. ¿Cuándo lo vas a hacer, y a quién se lo vas a contar?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué tipos de llamamientos se confirman o asignan en DyC 124?",
+      "question": "Según Doctrina y Convenios 124:40, ¿con qué propósito mandó el Señor edificar el templo de Nauvoo?",
       "options": [
-        "Llamamientos en el sacerdocio y oficios de liderazgo",
-        "Solo llamamientos misionales",
-        "Solo llamamientos temporales",
-        "Ningún llamamiento"
+        "Para reemplazar el templo perdido en Kirtland.",
+        "Para demostrar la fidelidad de los santos ante sus vecinos.",
+        "Para que sirviera de refugio a los santos perseguidos.",
+        "Para poder revelar en él Sus ordenanzas a Su pueblo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué enseña DyC 124 acerca de la importancia de las ordenanzas del templo?",
+      "question": "¿Qué promete el Señor revelar en Doctrina y Convenios 124:41?",
       "options": [
-        "Son necesarias para la exaltación",
-        "Son solo tradiciones culturales",
-        "No afectan la salvación",
-        "Pueden posponerse indefinidamente"
+        "Cosas que han estado escondidas desde antes de la fundación del mundo.",
+        "La ubicación definitiva de la ciudad de Sion.",
+        "Los nombres de quienes heredarán la gloria celestial.",
+        "El momento exacto de Su segunda venida."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué advertencia da el Señor respecto a quienes rechazan Su obra?",
+      "question": "Según Doctrina y Convenios 124:49, ¿qué ocurre cuando alguien procura cumplir un mandamiento con todas sus fuerzas y sus enemigos se lo impiden?",
       "options": [
-        "Perderán bendiciones si persisten en la desobediencia",
-        "Serán inmediatamente castigados",
-        "No habrá consecuencias",
-        "Serán reemplazados sin efecto"
+        "El Señor le concede más tiempo para completarlo.",
+        "Al Señor le conviene no exigirlo más y aceptar sus ofrendas.",
+        "La responsabilidad se transfiere a otras personas.",
+        "La obra queda pendiente hasta que las circunstancias cambien."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué relación establece DyC 124 entre sacrificio y bendición?",
+      "question": "El élder Bednar enseñó que no edificamos templos «solo para tener una experiencia personal o familiar memorable». ¿Qué propósito señala en cambio?",
       "options": [
-        "Las bendiciones del templo requieren sacrificio y obediencia",
-        "Las bendiciones se reciben sin esfuerzo",
-        "El sacrificio no es necesario",
-        "El sacrificio es opcional"
+        "Que las experiencias memorables son un beneficio secundario del templo.",
+        "Que la construcción de templos une a los miembros en un esfuerzo común.",
+        "Que los convenios y ordenanzas son esenciales para la santificación del corazón y la exaltación.",
+        "Que los templos sirven como señal visible de la presencia de la Iglesia."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Benjamín se esforzó todo el año por ayudar a un amigo a volver a la Iglesia y su amigo se alejó igual. Según Doctrina y Convenios 124:49, ¿cómo se evalúa ese esfuerzo?",
+      "options": [
+        "Como una tarea que debería haber delegado en alguien con más experiencia.",
+        "Como una obra que quedará pendiente hasta que su amigo cambie de actitud.",
+        "Como un fracaso que conviene analizar para no repetir los errores.",
+        "Como una ofrenda que el Señor acepta, porque lo que se mide es el esfuerzo sostenido."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Martina piensa que ir al templo es sobre todo una experiencia emotiva que la deja tranquila. Según la enseñanza del élder Bednar, ¿qué le falta considerar?",
+      "options": [
+        "Que los convenios y ordenanzas que recibe allí son esenciales para su santificación, más allá de lo que sienta.",
+        "Que la emoción es un indicador confiable de la calidad de la visita.",
+        "Que conviene asistir con menos frecuencia para valorarlo más.",
+        "Que las experiencias del templo varían según la preparación previa."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué enseñanza general transmite DyC 124 en su totalidad?",
+      "id": 7,
+      "question": "Doctrina y Convenios 124:40 manda edificar la casa para revelar ordenanzas, y 124:49 promete que el Señor acepta la ofrenda de quien se esfuerza aunque no logre terminar. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "El Señor organiza Su Iglesia y revela ordenanzas mediante el templo",
-        "La obra del Señor depende del poder político",
-        "La obediencia no es esencial",
-        "Las ordenanzas cambian con el tiempo"
+        "Que la obra del templo se completa solo cuando cesan las persecuciones.",
+        "Que el Señor pide una obra concreta y valora la entrega con que se la emprende, más allá del resultado.",
+        "Que las ordenanzas del templo son opcionales para quienes se esfuerzan en otras áreas.",
+        "Que los mandamientos se ajustan a la capacidad de cada generación."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

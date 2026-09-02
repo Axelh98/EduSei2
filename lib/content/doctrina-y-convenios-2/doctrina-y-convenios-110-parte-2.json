@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-110-parte-2",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Después de que el Salvador aceptó el templo, los cielos volvieron a abrirse tres veces más. Moisés entregó «las llaves del recogimiento de Israel de las cuatro partes de la tierra». Elías —Elías el Profeta, en el registro en español— apareció y dijo que había llegado el tiempo del que habló Malaquías, y entregó las llaves para «hacer volver el corazón de los padres a los hijos, y el de los hijos a los padres».",
+        "Esas llaves no son un dato histórico: son la razón por la que hoy existen la obra misional, la historia familiar y las ordenanzas del templo. El élder Gary E. Stevenson lo resumió así: las llaves para sellar restauradas por Elías «permiten que se realicen ordenanzas en los santos templos», y esas ordenanzas «permiten a las personas y las familias regresar a la presencia de nuestros padres celestiales».",
+        "El versículo 16 cierra con una frase que ubica todo lo demás: «se entregan en vuestras manos las llaves de esta dispensación; y por esto sabréis que el día grande y terrible del Señor está cerca, sí, a las puertas». Lo que empezó en una sala del templo de Kirtland es lo que hace que un joven de hoy pueda buscar el nombre de un bisabuelo y llevarlo al templo."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 110:11",
+          "texto": "Después de cerrarse esta visión, los cielos nuevamente nos fueron abiertos; y se apareció Moisés ante nosotros y nos entregó las llaves del recogimiento de Israel de las cuatro partes de la tierra, y de la conducción de las diez tribus desde el país del norte.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Doctrina y Convenios 110:14–15",
+          "texto": "He aquí, ha llegado plenamente el tiempo del cual se habló por boca de Malaquías, testificando que él [Elías el Profeta] sería enviado antes que viniera el día grande y terrible del Señor, para hacer volver el corazón de los padres a los hijos, y el de los hijos a los padres, para que el mundo entero no fuera herido con una maldición.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=spa&id=p14-p15#p14"
+        },
+        {
+          "referencia": "Doctrina y Convenios 110:16",
+          "texto": "Por tanto, se entregan en vuestras manos las llaves de esta dispensación; y por esto sabréis que el día grande y terrible del Señor está cerca, sí, a las puertas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=spa&id=p16#p16"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Gary E. Stevenson",
+      "fuente": "«¿Dónde están las llaves y la autoridad del sacerdocio?», Conferencia General, abril de 2016 (Liahona, mayo de 2016, pág. 31)",
+      "texto": "Las llaves para sellar, restauradas por el profeta Elías, del Antiguo Testamento, permiten que se realicen ordenanzas en los santos templos. Las ordenanzas efectuadas allí permiten a las personas y las familias regresar a la presencia de nuestros padres celestiales.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2016/04/where-are-the-keys-and-authority-of-the-priesthood?lang=spa&id=p14#p14"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Lo que ocurrió en esa sala del templo de Kirtland explica por qué hoy alguien puede buscar el nombre de una bisabuela, encontrarlo y llevarlo al templo. Las llaves que Elías restauró son las que hacen que ese trabajo tenga efecto de los dos lados del velo. Entrá esta semana a FamilySearch y buscá un nombre de tu familia que no conozcas. Es el primer eslabón concreto de una cadena que empezó en 1836."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Tres mensajeros aparecieron después del Salvador. ¿Qué entregó cada uno?",
+        "El versículo 15 habla de «hacer volver el corazón de los padres a los hijos, y el de los hijos a los padres». ¿Qué significa eso en tu familia concreta?",
+        "El élder Stevenson dice que esas llaves permiten que las familias regresen a la presencia de Dios. ¿Qué te genera esa idea?",
+        "¿Cuánto sabés de tus bisabuelos? ¿Quién en tu familia sabe más?",
+        "¿Por qué te parece que el Señor eligió el templo para restaurar esas llaves y no otro lugar?",
+        "Entrá a FamilySearch esta semana y buscá un nombre que no conozcas. ¿Qué día lo vas a hacer?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Quién se apareció en DyC 110:11 y qué restauró?",
+      "question": "¿Qué llaves entregó Moisés en la visión de Doctrina y Convenios 110:11?",
       "options": [
-        "Moisés, las llaves del recogimiento de Israel",
-        "Elías, las llaves del sacerdocio aarónico",
-        "Pedro, las llaves del bautismo",
-        "Juan, las llaves del sacerdocio levítico"
+        "Las llaves del recogimiento de Israel de las cuatro partes de la tierra.",
+        "Las llaves de la administración del sacerdocio.",
+        "Las llaves de la traducción de los registros antiguos.",
+        "Las llaves del sellamiento de las familias."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué llaves restauró Elías en DyC 110:12?",
+      "question": "Según Doctrina y Convenios 110:14–15, ¿qué había profetizado Malaquías respecto de Elías el Profeta?",
       "options": [
-        "La dispensación del evangelio de Abraham",
-        "Las llaves del bautismo",
-        "Las llaves del sacerdocio levítico",
-        "Las llaves de la confirmación"
+        "Que reuniría a las diez tribus perdidas de Israel.",
+        "Que sería enviado antes del día grande y terrible del Señor, para hacer volver el corazón de los padres a los hijos y el de los hijos a los padres.",
+        "Que restauraría el sacerdocio de Melquisedec sobre la tierra.",
+        "Que anunciaría la Segunda Venida del Salvador."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué llaves restauró Elías el Profeta en DyC 110:13–16?",
+      "question": "¿Qué indica Doctrina y Convenios 110:16 sobre la entrega de las llaves de esta dispensación?",
       "options": [
-        "Las llaves para sellar a las familias",
-        "Las llaves del sacerdocio aarónico",
-        "Las llaves de predicar el evangelio",
-        "Las llaves de administrar la Santa Cena"
+        "Que las llaves debían mantenerse en secreto hasta el momento indicado.",
+        "Que el trabajo del templo quedaba restringido a los apóstoles.",
+        "Que por eso se sabría que el día grande y terrible del Señor está cerca, a las puertas.",
+        "Que las llaves anteriores dejaban de tener efecto."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué bendiciones permiten las llaves de sellar restauradas por Elías el Profeta?",
+      "question": "El élder Stevenson explicó que las llaves restauradas por Elías «permiten que se realicen ordenanzas en los santos templos». ¿Qué conexión establece esa afirmación?",
       "options": [
-        "Regresar a la presencia de Dios mediante ordenanzas del templo",
-        "Evitar sacrificios",
-        "No recibir bendiciones",
-        "Solo prosperidad material"
+        "Entre la historia familiar y el estudio de las Escrituras.",
+        "Entre las llaves del sacerdocio y la organización administrativa de la Iglesia.",
+        "Entre la profecía de Malaquías y la construcción del templo de Kirtland.",
+        "Entre un acontecimiento de 1836 y el trabajo que se hace hoy en cada templo."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Franco piensa que la historia familiar es una actividad para personas mayores con tiempo libre. Según Doctrina y Convenios 110:14–15, ¿qué está pasando por alto?",
+      "options": [
+        "Que es el cumplimiento de una profecía y una de las razones por las que se restauraron las llaves.",
+        "Que existen herramientas digitales que facilitan esa tarea.",
+        "Que los jóvenes pueden realizar bautismos por los muertos.",
+        "Que se trata de una actividad recomendada pero no esencial."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué relación tienen las llaves restauradas en DyC 110 con la Segunda Venida?",
+      "id": 6,
+      "question": "Ana quiere participar de la obra del templo pero no sabe por dónde empezar. Según lo que enseña esta lección, ¿cuál es un primer paso concreto?",
       "options": [
-        "Preparan al pueblo para la venida del Señor",
-        "No tienen relación",
-        "Son irrelevantes",
-        "Solo aplican a los profetas antiguos"
+        "Esperar a recibir un llamamiento relacionado con la historia familiar.",
+        "Buscar el nombre de un familiar que no conozca y empezar por ahí.",
+        "Estudiar primero la doctrina del sellamiento en profundidad.",
+        "Consultar con el obispo qué tarea le corresponde."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 110:11 habla del recogimiento de Israel y 110:15 de volver el corazón de padres a hijos. ¿Qué principio común forman las dos entregas de llaves?",
+      "options": [
+        "Que las llaves de Moisés y las de Elías cumplen funciones sin relación entre sí.",
+        "Que la historia familiar precede necesariamente a la obra misional.",
+        "Que la obra de la Restauración busca reunir a la familia humana, en ambos lados del velo.",
+        "Que el recogimiento de Israel se limita a la obra misional entre los vivos."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

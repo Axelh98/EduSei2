@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Esta lección proporciona herramientas concretas para estudiar los discursos de los líderes de la Iglesia de manera profunda y sistemática. A diferencia de escuchar o leer pasivamente, el estudio activo de un discurso implica identificar el principio central que enseña, las promesas y condiciones que contiene, las Escrituras en que se apoya, y la acción personal que sugiere. Esta plantilla de estudio convierte cualquier discurso de Conferencia General o de un líder de la Iglesia en una fuente de revelación personal activa. Para los jóvenes que consumen mucho contenido pero rara vez lo procesan en profundidad, estas herramientas son especialmente valiosas — tanto para el estudio espiritual como para el pensamiento crítico en general."
+      "contenido": [
+        "Esta lección ofrece herramientas concretas para estudiar los discursos de los líderes de la Iglesia de manera profunda y sistemática. A diferencia de escuchar o leer de forma pasiva, el estudio activo de un discurso implica identificar el principio central que enseña, las promesas y condiciones que contiene, las Escrituras en que se apoya y la acción personal que sugiere.",
+        "Esta plantilla convierte cualquier discurso de la conferencia general en una fuente de revelación personal. Para los jóvenes que consumen mucho contenido pero rara vez lo procesan en profundidad, la herramienta vale doble: sirve para el estudio espiritual y también entrena el pensamiento crítico en general. Vale la pena notar el contraste: nadie recuerda el noventa por ciento de lo que miró la semana pasada, y sin embargo un solo discurso trabajado con lápiz y papel puede seguir dando vueltas años después. La diferencia no está en el contenido, sino en qué hizo la persona con él."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -29,7 +32,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Tener una plantilla de estudio para los discursos de los líderes transforma la Conferencia General de un evento semestral en una fuente continua de revelación personal. El principio, las promesas, las condiciones, la acción personal: estas cuatro categorías convierten cualquier discurso en un plan de vida. Esta semana, elegí un discurso reciente y aplicá la plantilla — las cuatro preguntas. Lo que encontrés puede sorprenderte."
+      "contenido": [
+        "Los discursos de los líderes de la Iglesia son una fuente de revelación personal cuando se los estudia, no solo cuando se los escucha. La plantilla de cuatro preguntas —principio central, promesas, condiciones y acción— convierte cualquier mensaje en algo aplicable a tu vida concreta. Elegí un discurso reciente y trabajalo con esas cuatro preguntas antes de que termine la semana; lo que encuentres cuando lo mirés así puede sorprenderte, sobre todo si es uno que creías haber escuchado ya."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -38,7 +43,8 @@
         "Elegí un discurso de la última Conferencia General. ¿Cuál es su principio central? ¿Qué promesa contiene? ¿Qué acción personal sugiere para vos?",
         "¿Qué discurso de un líder de la Iglesia recordás de los últimos años que haya cambiado algo en vos? ¿Por qué ese?",
         "¿Cómo podrías incorporar el estudio de discursos de líderes en tu rutina semanal de estudio del evangelio?",
-        "¿Por qué dice el Señor en D&C 21:4–5 que las palabras del profeta deben recibirse 'como si vinieran de su propia boca'?"
+        "¿Por qué dice el Señor en D&C 21:4–5 que las palabras del profeta deben recibirse 'como si vinieran de su propia boca'?",
+        "¿Qué día de esta semana vas a sentarte a trabajar un discurso con esta plantilla, y dónde vas a guardar lo que escribas para poder releerlo?"
       ]
     }
   ],
@@ -47,34 +53,34 @@
       "id": 1,
       "question": "D&C 21:4–5 describe cómo deben recibirse las palabras del profeta. ¿Cuál es la comparación exacta que usa el Señor?",
       "options": [
-        "Como si vinieran de la propia boca del Señor, con toda paciencia y fe.",
-        "Como instrucciones de un maestro sabio cuya experiencia merece respeto.",
         "Como sugerencias inspiradas que cada miembro puede aplicar según su criterio.",
-        "Como revelación secundaria de menor autoridad que las Escrituras canónicas."
+        "Como revelación secundaria de menor autoridad que las Escrituras canónicas.",
+        "Como si vinieran de la propia boca del Señor, con toda paciencia y fe.",
+        "Como instrucciones de un maestro sabio cuya experiencia merece respeto."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Al estudiar un discurso de la Conferencia General con la plantilla de la lección, ¿cuáles son las cuatro categorías que se deben identificar?",
       "options": [
-        "El principio central, las Escrituras usadas, las promesas y condiciones, y la acción personal concreta.",
-        "El tema general, la historia personal del líder, las estadísticas de la Iglesia, y la aplicación global.",
         "El título del discurso, el nombre del orador, la duración, y el idioma original.",
-        "La doctrina teórica, la historia eclesiástica, la profecía futura, y el consejo práctico."
+        "La doctrina teórica, la historia eclesiástica, la profecía futura, y el consejo práctico.",
+        "El principio central, las Escrituras usadas, las promesas y condiciones, y la acción personal concreta.",
+        "El tema general, la historia personal del líder, las estadísticas de la Iglesia, y la aplicación global."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "El presidente Benson enseñó que 'el profeta viviente es más vital que el profeta muerto'. ¿Qué significa eso en la práctica — no que los profetas del pasado no importan, sino algo diferente?",
+      "question": "El élder Andersen enseñó que «un profeta no se interpone entre ustedes y el Salvador; más bien, permanece a su lado y señala el camino hacia el Salvador». ¿Qué corrige esa imagen sobre la función del profeta?",
       "options": [
-        "Que los discursos actuales reemplazan y anulan las Escrituras canónicas.",
-        "Que los profetas del pasado se equivocaban con más frecuencia que el profeta actual.",
-        "Que el profeta viviente aplica las verdades eternas a los desafíos específicos del tiempo en que vivimos — lo que ningún profeta del pasado puede hacer por nosotros hoy.",
-        "Que solo las declaraciones oficiales del profeta tienen valor, no los discursos de los apóstoles."
+        "Que la función del profeta es orientar hacia el Salvador, no ocupar Su lugar ni el de la revelación personal.",
+        "Que las palabras del profeta valen más que las Escrituras cuando ambas hablan del mismo tema.",
+        "Que solo las declaraciones oficiales del profeta tienen autoridad, y no sus discursos.",
+        "Que el profeta reemplaza la necesidad de que cada persona busque su propia relación con Cristo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -102,23 +108,23 @@
       "id": 6,
       "question": "Agustín dice que los consejos del profeta 'son muy generales y no aplican a mi vida específica'. Según D&C 21:4–5, ¿cuál es el problema real en esa actitud?",
       "options": [
+        "Que los discursos de la Conferencia General son demasiado formales y deberían ser más conversacionales.",
         "Que el profeta debería dar consejería individual para que sus mensajes sean más útiles.",
         "Que tiene razón y debería buscar orientación en fuentes más específicas a su situación.",
-        "Que Agustín recibe las palabras del profeta con filtro personal en lugar de con paciencia y fe — y eso impide que el Espíritu le muestre la aplicación personal.",
-        "Que los discursos de la Conferencia General son demasiado formales y deberían ser más conversacionales."
+        "Que Agustín recibe las palabras del profeta con filtro personal en lugar de con paciencia y fe — y eso impide que el Espíritu le muestre la aplicación personal."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Amós 3:7 ('el Señor no hace nada sin revelar sus secretos a sus profetas') y D&C 21:4–5 ('recibid sus palabras como de mi boca') forman juntos un principio. ¿Cuál es?",
       "options": [
-        "Que el profeta es infalible en todas sus declaraciones públicas y privadas.",
         "Que el Señor diseñó un canal de comunicación activo: habla al profeta para hablar a Sus hijos — y el discípulo que recibe con fe cierra ese circuito de revelación continua.",
         "Que solo los secretos doctrinales se revelan a través del profeta; los asuntos personales llegan directamente.",
-        "Que D&C 21 y Amós 3 describen épocas diferentes y no deben leerse juntos."
+        "Que D&C 21 y Amós 3 describen épocas diferentes y no deben leerse juntos.",
+        "Que el profeta es infalible en todas sus declaraciones públicas y privadas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

@@ -38,7 +38,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La perspectiva eterna no elimina el costo de los sacrificios; los coloca en el contexto correcto. Martín Harris perdió temporalmente una granja y ganó participación en una de las obras más importantes de la historia. Cuando el Señor te pida algo difícil, la pregunta no es '¿cuánto me cuesta?' sino '¿cómo se ve esto desde la eternidad?' Esa perspectiva es la que transforma el sacrificio en inversión. Esta semana, identificá un sacrificio que el Señor te está pidiendo y aplícale esa mirada eterna."
+      "contenido": [
+        "La perspectiva eterna no elimina el costo de los sacrificios; los coloca en el contexto correcto. Martin Harris perdió temporalmente una granja y ganó participación en una de las obras más importantes de la historia. Cuando el Señor te pida algo difícil, la pregunta no es «¿cuánto me cuesta?» sino «¿cómo se ve esto desde la eternidad?». Poné por escrito el sacrificio que hoy estás postergando y calculá su precio con las dos varas, la de este mes y la de la eternidad; después decidí con cuál de las dos vas a vivir."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -47,74 +49,86 @@
         "¿Qué diferencia hace ver un sacrificio con perspectiva temporal versus con perspectiva eterna? ¿Podés dar un ejemplo concreto?",
         "¿Alguna vez hiciste algo costoso por el evangelio y después viste que valió la pena? Contá brevemente.",
         "¿Qué verdad de D&C 19:34–35 cambia la forma de ver los bienes temporales?",
-        "¿Qué sacrificio concreto te está pidiendo el Señor esta semana que todavía no has hecho? ¿Cuál es el primer paso?"
+        "¿Qué sacrificio concreto te está pidiendo el Señor esta semana que todavía no has hecho? ¿Cuál es el primer paso?",
+        "¿Qué te ayudaría a sostener esa decisión cuando el costo se sienta de verdad, dentro de dos o tres semanas?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "Martín Harris tenía que decidir entre su granja y la impresión del Libro de Mormón. Si fueras su amigo en 1829, ¿qué consejo le darías?",
+      "question": "En 1829 Martin Harris debía hipotecar una granja de noventa y siete hectáreas para financiar la impresión del Libro de Mormón, sin garantía de recuperar el dinero. ¿Qué le ofreció el Señor en Doctrina y Convenios 19:25–41 frente a ese dilema?",
       "options": [
-        "Que esperara hasta tener más certeza sobre el éxito del libro",
-        "Que arriesgara solo la mitad de su granja para no perder todo",
-        "Que confiara en la promesa del Señor y diera el paso con fe",
-        "Que buscara a otro financista para no arriesgar lo suyo"
+        "La instrucción de consultar la decisión con su esposa antes de comprometerse.",
+        "La garantía de que el libro se vendería lo suficiente para cubrir el préstamo.",
+        "La promesa de que no perdería la granja si actuaba con suficiente fe.",
+        "Una perspectiva distinta: «con el Espíritu del Señor posees todas las cosas», que reordena el valor de lo temporal."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Qué diferencia hace mirar un sacrificio con perspectiva temporal versus con perspectiva eterna, según D&C 19:34–35?",
       "options": [
-        "La perspectiva eterna hace que el costo desaparezca completamente",
-        "La perspectiva temporal es más honesta porque ve las consecuencias reales",
         "La perspectiva eterna nos recuerda que con el Espíritu poseemos cosas mayores que cualquier bien temporal",
-        "No hay diferencia práctica entre las dos perspectivas"
+        "No hay diferencia práctica entre las dos perspectivas",
+        "La perspectiva eterna hace que el costo desaparezca completamente",
+        "La perspectiva temporal es más honesta porque ve las consecuencias reales"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Alguna vez hiciste algo costoso por el evangelio — tiempo, comodidad, dinero, reputación — y después viste que valió la pena? ¿Qué cambió tu perspectiva?",
+      "question": "Franco decide no trabajar los domingos aunque eso le cuesta el mejor turno de su empleo de fin de semana. Según el principio de perspectiva eterna que enseña esta lección, ¿cómo se evalúa mejor esa decisión?",
       "options": [
-        "Ver que otras personas también habían hecho ese sacrificio",
-        "Que el costo resultó ser menor de lo que pensaba",
-        "Ver con el tiempo las bendiciones concretas que llegaron después",
-        "Leer sobre el sacrificio de Martín Harris en la historia de la Iglesia"
+        "Como una pérdida real que conviene reconsiderar si el costo se sostiene en el tiempo.",
+        "Como un sacrificio que se vuelve inversión cuando se lo mide con la vara de la eternidad y no solo con la del mes.",
+        "Como una decisión neutra, porque el día de reposo admite excepciones laborales.",
+        "Como una prueba de que su fe todavía depende de resultados visibles."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "D&C 19:26 dice: 'no codicies tus bienes, sino que los impartas libremente'. ¿A qué tipo de bienes aplica eso para un adolescente hoy?",
       "options": [
+        "Solo a lo que se puede donar en una colecta",
         "Solo al dinero y las posesiones físicas",
         "Al tiempo, la atención, las habilidades y los recursos económicos",
-        "Solo a los objetos de valor sentimental",
-        "Solo a lo que se puede donar en una colecta"
+        "Solo a los objetos de valor sentimental"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "¿Qué sacrificio concreto sientes que el Señor te está pidiendo ahora mismo que todavía no has hecho? ¿Cuál sería el primer paso?",
+      "question": "Doctrina y Convenios 19:34–35 dice a Martin Harris: «con el Espíritu del Señor posees todas las cosas». ¿Qué le estaba enseñando el Señor con esa afirmación?",
       "options": [
-        "Pagar más diezmo del que corresponde para compensar tiempos pasados",
-        "Dar el paso aunque sea pequeño e imperfecto, confiando en que Él proveerá",
-        "Esperar a tener más fe antes de sacrificar nada",
-        "Preguntarle al obispo qué sacrificio específico debería hacer"
+        "Que los bienes temporales carecen por completo de valor para el Señor.",
+        "Que su deber era repartir todo lo que tenía antes de imprimir el libro.",
+        "Que recuperaría sus bienes materiales multiplicados si obedecía la instrucción.",
+        "Que la posesión que verdaderamente importa no es la que se pierde con una hipoteca."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Martín Harris perdió su granja temporalmente pero participó en publicar el Libro de Mormón. ¿Qué dice eso sobre la relación entre los sacrificios temporales y las obras eternas?",
       "options": [
-        "Que Dios siempre devolverá el doble de lo que sacrificamos en bienes materiales",
         "Que los sacrificios temporales pueden tener un impacto eterno que supera con creces el costo",
         "Que lo mejor es no sacrificar nada para no arriesgarse a perder",
-        "Que los sacrificios solo valen si los hacemos públicamente"
+        "Que los sacrificios solo valen si los hacemos públicamente",
+        "Que Dios siempre devolverá el doble de lo que sacrificamos en bienes materiales"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 19:26 manda no codiciar los propios bienes sino impartirlos libremente, y 19:34–35 promete que con el Espíritu del Señor se poseen todas las cosas. ¿Qué principio común forman los dos versículos?",
+      "options": [
+        "Que los bienes materiales deben administrarse con la mayor prudencia posible.",
+        "Que la generosidad se sostiene sobre una idea distinta de qué es poseer de verdad.",
+        "Que quien da con generosidad recibe compensación material en esta vida.",
+        "Que la pobreza voluntaria es la condición para recibir el Espíritu."
       ],
       "correctAnswer": 1
     }

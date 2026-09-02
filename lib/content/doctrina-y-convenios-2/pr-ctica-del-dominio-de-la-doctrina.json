@@ -1,39 +1,136 @@
 {
   "id": "pr-ctica-del-dominio-de-la-doctrina",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "El élder B. H. Roberts prestó servicio como capellán del ejército estadounidense durante la Primera Guerra Mundial. Al firmarse el tratado de paz se organizó un servicio de Acción de Gracias, y lo llamaron de improviso a leer «el salmo de Acción de Gracias». Nunca había oído hablar de ese salmo. Igual se levantó y caminó hacia el estrado, y mientras caminaba escuchó una voz que decía: «El Salmo 100». Leyó el Salmo 100 y volvió a su asiento. Los otros capellanes no lo miraban: habían intentado avergonzarlo a él y a la Iglesia.",
+        "Esa historia ilustra el primer principio para adquirir conocimiento espiritual: actuar con fe. No significa fingir seguridad ni tener todas las respuestas de antemano; significa dar el paso siguiente con lo que uno sí sabe, confiando en que la ayuda llega en el camino y no antes.",
+        "Esta práctica combina ese principio con el repaso de los pasajes del Dominio de la Doctrina. El presidente Nelson enseñó que escuchar al Salvador exige «un esfuerzo consciente y constante»; no es algo que ocurra por accidente en medio del ruido. La práctica de hoy es justamente ese esfuerzo: tener los pasajes listos y la disposición de actuar antes de tener certeza completa."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 98:11–12",
+          "texto": "Y os doy un mandamiento, que vosotros desechéis todo lo malo y os alleguéis a todo lo bueno, y que viváis de acuerdo con toda palabra que sale de la boca de Dios. Porque él dará a los fieles línea sobre línea, precepto tras precepto; y en esto os pondré a prueba y os probaré.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=spa&id=p11-p12#p11"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:63",
+          "texto": "Allegaos a mí, y yo me allegaré a vosotros; buscadme diligentemente, y me hallaréis; pedid, y recibiréis; llamad, y se os abrirá.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p63#p63"
+        },
+        {
+          "referencia": "Doctrina y Convenios 93:1",
+          "texto": "De cierto, así dice el Señor: Acontecerá que toda alma que deseche sus pecados y venga a mí, invoque mi nombre, obedezca mi voz y guarde mis mandamientos, verá mi faz y sabrá que yo soy.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p1#p1"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Escúchalo», Conferencia General, abril de 2020 (Liahona, mayo de 2020, pág. 89)",
+      "texto": "Al tratar de ser discípulos de Jesucristo, nuestros esfuerzos por escucharle a Él han de ser cada vez con mayor intención. Se requiere un esfuerzo consciente y constante para llenar nuestra vida diaria con Sus palabras, Sus enseñanzas y Sus verdades.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/04/45nelson?lang=spa&id=p22#p22"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "B. H. Roberts caminó hacia el estrado sin saber qué iba a leer, y la respuesta llegó mientras caminaba. Ese es el orden que enseña el principio de actuar con fe, y es el que más cuesta aceptar: primero el paso, después la luz. Pensá en la decisión que estás postergando hasta estar seguro, y preguntate cuál sería el primer paso que sí podés dar con lo que ya sabés. Después dalo, esta semana."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué habrías hecho vos en el lugar de B. H. Roberts cuando lo llamaron a leer un salmo que no conocía?",
+        "«Actuar con fe» no es fingir seguridad. ¿Cómo lo explicarías vos con tus palabras?",
+        "Doctrina y Convenios 98:12 dice que el Señor da «línea sobre línea» y que en eso nos prueba. ¿Qué es lo que se prueba ahí?",
+        "El presidente Nelson habla de un «esfuerzo consciente y constante» para escuchar. ¿Qué compite hoy contra ese esfuerzo en tu día?",
+        "¿Qué decisión estás postergando hasta estar completamente seguro?",
+        "¿Cuál es el primer paso que sí podés dar con lo que ya sabés? Definilo y ponele fecha."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseña DyC 88:118 sobre adquirir conocimiento espiritual?",
+      "question": "En la experiencia del élder B. H. Roberts, ¿cuándo recibió la ayuda que necesitaba?",
       "options": [
-        "Buscad conocimiento, tanto por el estudio como por la fe",
-        "Depender solo del estudio",
-        "Depender solo de la fe",
-        "Evitar el aprendizaje"
+        "Mientras caminaba hacia el estrado, después de haber actuado.",
+        "Después de haber leído el salmo, como confirmación.",
+        "La noche anterior, al prepararse para el servicio.",
+        "Antes de ponerse de pie, mientras decidía si aceptar."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué principio ayuda a responder preguntas difíciles según el Documento de base?",
+      "question": "Según Doctrina y Convenios 98:12, ¿cómo da el Señor Su palabra a los fieles?",
       "options": [
-        "Actuar con fe, tener perspectiva eterna y acudir a fuentes divinas",
-        "Depender solo de lógica",
-        "Ignorar las dudas",
-        "Evitar preguntas"
+        "De una sola vez, a quienes están preparados para recibirla.",
+        "Línea sobre línea, precepto tras precepto, y en eso los prueba.",
+        "Por medio de Sus siervos autorizados exclusivamente.",
+        "En proporción al conocimiento que ya poseen."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "El principio de actuar con fe, tal como lo ilustra esta lección, ¿en qué se diferencia de fingir seguridad?",
+      "options": [
+        "En que se delega la decisión en alguien con más experiencia.",
+        "En que exige tener resueltas las dudas antes de dar el paso.",
+        "En que se avanza con lo que sí se sabe, admitiendo que falta información.",
+        "En que se actúa solo cuando el resultado está garantizado."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "El presidente Nelson enseñó que escuchar al Salvador «requiere un esfuerzo consciente y constante». ¿Qué implica esa afirmación sobre la revelación personal?",
+      "options": [
+        "Que depende de la cantidad de tiempo dedicado a la oración.",
+        "Que solo ocurre en momentos de crisis o necesidad urgente.",
+        "Que llega de manera espontánea a quienes tienen suficiente fe.",
+        "Que exige crear deliberadamente las condiciones para escuchar, en medio del ruido."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Nicolás quiere decidir si servir una misión, pero dice que va a esperar hasta estar completamente seguro. Según el principio de actuar con fe, ¿qué le conviene hacer?",
+      "options": [
+        "Dar el paso siguiente que sí puede dar con lo que ya sabe, y esperar que la luz llegue en el camino.",
+        "Consultar la decisión con la mayor cantidad de personas posible.",
+        "Postergar la decisión hasta que las circunstancias sean más claras.",
+        "Esperar la certeza, porque una decisión así no admite dudas."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 3,
-      "question": "¿Qué recomendó el élder Richard G. Scott sobre las Escrituras?",
+      "id": 6,
+      "question": "Martina memorizó varios pasajes del Dominio de la Doctrina pero nunca los usó fuera del aula. Según lo que enseña esta práctica, ¿qué le falta?",
       "options": [
-        "Que sean nuestros amigos de confianza",
-        "Que son irrelevantes",
-        "Que solo sirven para historia",
-        "Que no deben memorizarse"
+        "Memorizar una cantidad mayor para tener más recursos disponibles.",
+        "Disponerse a usarlos en situaciones reales, que es donde el pasaje se vuelve útil.",
+        "Repasarlos con mayor frecuencia durante la semana.",
+        "Estudiar el contexto histórico de cada pasaje antes de aplicarlo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 88:63 pone una acción antes de cada promesa, y 98:12 dice que el Señor da línea sobre línea y en eso prueba a los fieles. ¿Qué principio común forman los dos versículos?",
+      "options": [
+        "Que la prueba consiste en esperar sin actuar hasta recibir instrucciones.",
+        "Que quienes reciben más luz enfrentan pruebas más difíciles.",
+        "Que el conocimiento espiritual avanza por pasos que la persona da antes de tener la certeza completa.",
+        "Que las promesas del Señor se cumplen en el momento en que se las solicita."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

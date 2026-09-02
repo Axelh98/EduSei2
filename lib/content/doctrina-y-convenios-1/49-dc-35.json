@@ -26,6 +26,13 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Élder M. Russell Ballard",
+      "fuente": "\"El milagro de la Santa Biblia\", Conferencia General, abril de 2007 (Liahona, mayo de 2007, págs. 80–82)",
+      "texto": "No es casualidad ni coincidencia que tengamos la Biblia en la actualidad. El Espíritu indujo a hombres rectos a registrar tanto las cosas sagradas que vieron como las inspiradas palabras que hablaron y oyeron. Otras personas devotas estuvieron prestas a proteger y a preservar esos registros; hombres como John Wycliffe, el valiente William Tyndale y Johannes Gutenberg fueron inducidos, contra mucha oposición, a traducir la Biblia en un lenguaje que la gente pudiera entender, y publicarla en libros que la gente pudiera leer. Creo que hasta los eruditos de la época del rey Santiago tuvieron impresiones del Espíritu durante sus labores de traducción.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2007/04/the-miracle-of-the-holy-bible?lang=spa&id=p8#p8"
+    },
+    {
       "tipo": "conclusion",
       "contenido": "D&C 35 enseña que el Señor prepara instrumentos con anticipación y que nadie llega al evangelio por accidente. El principio de que 'los débiles confundirán a los sabios' no descarta la habilidad de los preparados como Sidney Rigdon — los incluye, siempre que se sometan al Señor. Si tenés talentos, dones, habilidades o experiencias que todavía no pusiste al servicio del evangelio, esta lección es una invitación directa: el Señor puede hacer con eso algo que vos no te imaginás."
     },
@@ -36,7 +43,8 @@
         "¿Qué dones o habilidades tenés que podrían usarse para servir al Señor o a tu familia en la Iglesia?",
         "¿Qué significa para vos la promesa 'los débiles confundirán a los sabios'?",
         "¿Qué tendrías que cambiar esta semana para poner un talento tuyo más al servicio del Señor o de tu quórum/clase?",
-        "¿Hay algo de tu vida antes de la Iglesia o fuera de ella que el Señor podría estar usando o preparando para Su obra?"
+        "¿Hay algo de tu vida antes de la Iglesia o fuera de ella que el Señor podría estar usando o preparando para Su obra?",
+        "¿A quién le vas a ofrecer ese talento concretamente —el líder de tu quórum, tu maestro, un familiar— y cuándo se lo vas a decir?"
       ]
     }
   ],
@@ -45,45 +53,45 @@
       "id": 1,
       "question": "¿Cuál fue el rol específico que el Señor le asignó a Sidney Rigdon en D&C 35, además de predicar el evangelio?",
       "options": [
-        "Ser escribano de José Smith para ayudar en la Traducción de José Smith de la Biblia.",
-        "Organizar las finanzas de la Iglesia en Ohio como primer administrador.",
         "Presidir la Iglesia en Ohio mientras José Smith viajaba a Misuri.",
-        "Traducir el Libro de Mormón al idioma de los lamanitas."
+        "Traducir el Libro de Mormón al idioma de los lamanitas.",
+        "Ser escribano de José Smith para ayudar en la Traducción de José Smith de la Biblia.",
+        "Organizar las finanzas de la Iglesia en Ohio como primer administrador."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "D&C 35:3 declara que el Señor 'fue crucificado por los pecados del mundo'. ¿Por qué esa declaración abre toda la revelación dirigida a Sidney?",
       "options": [
+        "Porque Sidney dudaba de la divinidad de Cristo y necesitaba ser corregido primero.",
         "Porque es la fórmula de saludo obligatoria en todas las revelaciones de D&C.",
         "Para establecer la autoridad legal de Cristo antes de dar instrucciones formales.",
-        "Porque todo llamado al servicio nace del amor del que murió por nosotros — entender quién llama cambia cómo uno responde.",
-        "Porque Sidney dudaba de la divinidad de Cristo y necesitaba ser corregido primero."
+        "Porque todo llamado al servicio nace del amor del que murió por nosotros — entender quién llama cambia cómo uno responde."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "D&C 35:13 dice que el Señor usa 'las cosas débiles del mundo para quebrantar a los poderosos'. ¿Qué implica ese principio sobre de dónde viene el poder real en la obra del Señor?",
       "options": [
-        "Que los más débiles son los únicos que pueden servir efectivamente al Señor.",
         "Que el poder para la obra viene del Señor, no de las capacidades humanas — lo que uno tiene no es el factor decisivo.",
         "Que el Señor prefiere a personas débiles porque son más fáciles de dirigir.",
-        "Que la debilidad personal es una condición necesaria para recibir un llamado importante."
+        "Que la debilidad personal es una condición necesaria para recibir un llamado importante.",
+        "Que los más débiles son los únicos que pueden servir efectivamente al Señor."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "Sidney Rigdon era predicador elocuente y educado antes de unirse a la Iglesia. ¿Qué dice el hecho de que el Señor usara específicamente esos dones para Su obra?",
       "options": [
-        "Que el Señor solo llama a personas con talentos fuera de lo común para hacer Su obra.",
         "Que los dones desarrollados fuera de la Iglesia no tienen valor en el reino del Señor.",
         "Que el Señor puede consagrar lo que somos — incluyendo lo que aprendimos antes de conocerlo — para Su propósito.",
-        "Que Sidney habría sido más útil si hubiera llegado sin dones previos para no depender de ellos."
+        "Que Sidney habría sido más útil si hubiera llegado sin dones previos para no depender de ellos.",
+        "Que el Señor solo llama a personas con talentos fuera de lo común para hacer Su obra."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
@@ -100,23 +108,23 @@
       "id": 6,
       "question": "Agustín siente que no está listo para enseñar una lección en la clase porque no sabe suficiente. D&C 35:20 le prometió a Sidney que en Ohio recibiría 'poder de lo alto'. ¿Qué principio aplica aquí para Agustín?",
       "options": [
+        "Que pedir al maestro que lo reemplace es la respuesta más humilde y correcta.",
         "Que debería esperar a sentirse listo antes de aceptar la responsabilidad de enseñar.",
         "Que los llamamientos para enseñar son para personas con más conocimiento que Agustín.",
-        "Que el poder viene cuando uno obedece y actúa — no cuando uno ya se siente suficientemente preparado.",
-        "Que pedir al maestro que lo reemplace es la respuesta más humilde y correcta."
+        "Que el poder viene cuando uno obedece y actúa — no cuando uno ya se siente suficientemente preparado."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto Sidney Rigdon (D&C 35) como Orson Pratt (D&C 34) fueron llamados en condiciones muy diferentes: uno con mucha experiencia religiosa, el otro recién bautizado. ¿Qué principio común sobre los llamados del Señor ilustran esos dos casos juntos?",
       "options": [
+        "Que el Señor adapta el llamado a la persona específica y usa lo que ella ya es — experiencia o frescura, según la necesidad de la obra.",
         "Que el Señor prefiere a personas recién convertidas porque son más entusiastas.",
         "Que tener mucha experiencia previa es una desventaja porque genera hábitos difíciles de cambiar.",
-        "Que los llamados tempranos son más importantes que los tardíos en la historia de la Iglesia.",
-        "Que el Señor adapta el llamado a la persona específica y usa lo que ella ya es — experiencia o frescura, según la necesidad de la obra."
+        "Que los llamados tempranos son más importantes que los tardíos en la historia de la Iglesia."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     }
   ]
 }

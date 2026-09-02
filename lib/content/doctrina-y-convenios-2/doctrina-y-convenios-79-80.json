@@ -6,12 +6,12 @@
       "id": 1,
       "question": "¿Quién fue llamado a servir en una misión según DyC 80:3?",
       "options": [
-        "Stephen Burnett",
         "Jared Carter",
         "Eden Smith",
-        "Oliver Cowdery"
+        "Oliver Cowdery",
+        "Stephen Burnett"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
@@ -39,23 +39,23 @@
       "id": 4,
       "question": "¿Qué analogía utilizó el élder Robert C. Oaks para explicar cómo compartir el Evangelio?",
       "options": [
-        "El jugo de naranja",
-        "El pan de cada día",
         "La luz del sol",
-        "El agua viva"
+        "El agua viva",
+        "El jugo de naranja",
+        "El pan de cada día"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "¿Qué simbolizan las gavillas mencionadas en DyC 79:3?",
       "options": [
-        "Las personas que aceptan el Evangelio",
         "Los líderes de la Iglesia",
         "Los templos construidos",
-        "Los profetas antiguos"
+        "Los profetas antiguos",
+        "Las personas que aceptan el Evangelio"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 6,
@@ -72,12 +72,12 @@
       "id": 7,
       "question": "¿Qué verdad clave se enseña en DyC 80:5 sobre compartir el Evangelio?",
       "options": [
+        "Que el Evangelio es solo para los miembros actuales",
         "Que el Salvador nos ha llamado personalmente a compartir el Evangelio",
         "Que solo los líderes deben predicar",
-        "Que no es necesario compartir el Evangelio",
-        "Que el Evangelio es solo para los miembros actuales"
+        "Que no es necesario compartir el Evangelio"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

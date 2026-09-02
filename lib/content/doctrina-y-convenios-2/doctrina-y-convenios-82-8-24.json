@@ -1,83 +1,136 @@
 {
   "id": "doctrina-y-convenios-82-8-24",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Doctrina y Convenios 82:10 es uno de los versículos más citados de toda la Restauración, y también uno de los peor entendidos: «Yo, el Señor, estoy obligado cuando hacéis lo que os digo; mas cuando no hacéis lo que os digo, ninguna promesa tenéis».",
+        "Leído rápido, suena a trato comercial: yo cumplo, Dios paga. Leído despacio, dice otra cosa. El Señor se declara obligado, es decir, se ata voluntariamente a Su palabra. No es que la obediencia lo fuerce, es que Él eligió comprometerse. Y la segunda mitad del versículo no dice que Dios castigue al desobediente: dice que sin cumplir la condición, simplemente no hay promesa que reclamar.",
+        "El resto del capítulo describe cómo se veía eso en la práctica para los santos de 1832: la orden de fortalecer Sion, de buscar «cada cual el bienestar de su prójimo» y de hacer todo «con la mira puesta únicamente en la gloria de Dios» (versículo 19). Los convenios no se cumplen en abstracto; se cumplen en cómo tratás a la persona que tenés al lado."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 82:10",
+          "texto": "Yo, el Señor, estoy obligado cuando hacéis lo que os digo; mas cuando no hacéis lo que os digo, ninguna promesa tenéis.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Doctrina y Convenios 82:19",
+          "texto": "Buscando cada cual el bienestar de su prójimo, y haciendo todas las cosas con la mira puesta únicamente en la gloria de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p19#p19"
+        },
+        {
+          "referencia": "Doctrina y Convenios 82:14",
+          "texto": "Porque Sion debe aumentar en belleza y santidad; sus fronteras se han de ensanchar; deben fortalecerse sus estacas; sí, de cierto os digo, Sion se ha de levantar y vestirse con sus ropas hermosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p14#p14"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«El convenio sempiterno», Liahona, octubre de 2022",
+      "texto": "Cuando hacemos un convenio con Dios, abandonamos el terreno neutral para siempre. Dios no abandonará Su relación con aquellos que han forjado tal vínculo con Él. […] Debido a nuestro convenio con Dios, Él jamás cejará en Sus esfuerzos por ayudarnos, y nunca agotaremos Su misericordiosa paciencia para con nosotros.",
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa&id=p9#p9"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "«Estoy obligado cuando hacéis lo que os digo» no describe un intercambio comercial, sino un compromiso que Dios asumió por Su cuenta y que no piensa romper. La parte que queda de nuestro lado es chica en comparación, y aun así es la que decide si hay promesa que reclamar. Mirá el convenio que hiciste en el bautismo y elegí una de sus partes —recordarlo siempre, guardar Sus mandamientos, tomar sobre vos Su nombre— para cumplirla de manera visible esta semana."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece que significa que el Señor se declare «obligado» por Su propia palabra?",
+        "¿Por qué te parece que el versículo 10 dice «ninguna promesa tenéis» en vez de anunciar un castigo?",
+        "El presidente Nelson dice que al hacer un convenio «abandonamos el terreno neutral». ¿Qué se pierde y qué se gana con eso?",
+        "Doctrina y Convenios 82:19 habla de buscar «el bienestar de su prójimo». ¿Quién es hoy ese prójimo concreto para vos?",
+        "¿Hay alguna bendición que estés esperando sin haber cumplido la condición que la acompaña?",
+        "¿Qué parte de tu convenio bautismal vas a cumplir de manera visible esta semana, y cómo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseña DyC 82:10 sobre la relación entre obediencia y bendiciones?",
+      "question": "¿Qué declara el Señor sobre Sí mismo en Doctrina y Convenios 82:10?",
       "options": [
-        "Que el Señor está obligado cuando hacemos lo que Él manda",
-        "Que las bendiciones llegan sin obediencia",
-        "Que los mandamientos son opcionales",
-        "Que solo los líderes reciben bendiciones"
+        "Que está obligado cuando hacemos lo que Él dice.",
+        "Que Sus promesas se cumplen con independencia de la obediencia.",
+        "Que las bendiciones se conceden en el momento en que se piden.",
+        "Que recompensa a cada persona según la intensidad de su fe."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué significa la frase “a fin de que se torne para vuestra salvación” en DyC 82:9?",
+      "question": "Según Doctrina y Convenios 82:19, ¿con qué dos cosas debían hacerse todas las cosas en Sion?",
       "options": [
-        "Que la obediencia conduce a la salvación",
-        "Que las bendiciones son temporales",
-        "Que la salvación es automática",
-        "Que no hay relación entre obediencia y salvación"
+        "Con fe en las promesas y con paciencia ante la persecución.",
+        "Buscando el bienestar del prójimo y con la mira puesta únicamente en la gloria de Dios.",
+        "Con obediencia estricta y con sacrificio de los bienes propios.",
+        "Con unidad entre los líderes y con orden en los asuntos temporales."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué consejo dio el Señor a los líderes de la Firma Unida en DyC 82:11?",
+      "question": "La segunda parte de Doctrina y Convenios 82:10 dice «ninguna promesa tenéis» en lugar de anunciar un castigo. ¿Qué matiz doctrinal introduce esa formulación?",
       "options": [
-        "Que estuvieran unidos por medio de un vínculo y convenio",
-        "Que actuaran cada uno por separado",
-        "Que evitaran compromisos",
-        "Que no se preocuparan por los asuntos temporales"
+        "Que las promesas divinas son independientes de la conducta humana.",
+        "Que el castigo se aplica solo tras una advertencia previa.",
+        "Que la desobediencia deja sin efecto la promesa, en vez de activar una pena adicional.",
+        "Que el Señor perdona la desobediencia siempre que no sea deliberada."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué responsabilidades por convenio se mencionan en DyC 82:12–19, 24?",
+      "question": "El presidente Nelson enseñó que al hacer un convenio «abandonamos el terreno neutral para siempre». ¿Qué implica esa afirmación?",
       "options": [
-        "Administrar los asuntos temporales de la Iglesia y cuidar de los necesitados",
-        "Evitar cualquier responsabilidad",
-        "Buscar solo beneficios personales",
-        "Ignorar las necesidades de los demás"
+        "Que quien hace convenios pierde la libertad de elegir su propio camino.",
+        "Que la neutralidad religiosa es una postura legítima antes del bautismo.",
+        "Que después del convenio ya no es posible equivocarse sin consecuencias graves.",
+        "Que la relación con Dios cambia de naturaleza: deja de ser indiferente y pasa a ser vinculante en ambas direcciones."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Qué enseñan Mosíah 18:8–10 y DyC 20:77 sobre nuestros convenios hoy?",
+      "question": "Benjamín pagó el diezmo durante seis meses y no ve ninguna mejora en su situación económica. Concluye que la promesa de Doctrina y Convenios 82:10 no funciona. ¿Qué está pasando por alto?",
       "options": [
-        "Que debemos servir, testificar de Cristo y guardar Sus mandamientos",
-        "Que no hay compromisos",
-        "Que los convenios son solo simbólicos",
-        "Que los convenios son exclusivos para líderes"
+        "Que el versículo compromete al Señor a cumplir Sus promesas, no a hacerlo en la forma y el plazo que uno espera.",
+        "Que la promesa se aplica únicamente a bendiciones espirituales y no temporales.",
+        "Que seis meses es un período demasiado corto para cualquier promesa divina.",
+        "Que la promesa exige además haber cumplido todos los demás mandamientos."
       ],
       "correctAnswer": 0
     },
     {
       "id": 6,
-      "question": "¿Qué bendiciones trae el guardar convenios según el presidente Russell M. Nelson?",
+      "question": "Ana quiere fortalecer su relación con el Señor y busca una experiencia espiritual que la acerque. Según Doctrina y Convenios 82:19, ¿por dónde le conviene empezar?",
       "options": [
-        "Acceso a un tipo especial de amor y misericordia de Dios",
-        "Riquezas materiales garantizadas",
-        "Evitar toda dificultad",
-        "Reconocimiento social"
+        "Por asistir con más frecuencia a las actividades de la Iglesia.",
+        "Por buscar el bienestar de alguien concreto que tiene cerca, ya que ese es el terreno donde el convenio se vive.",
+        "Por aumentar el tiempo de estudio personal hasta que la experiencia llegue.",
+        "Por esperar una manifestación que confirme que va por buen camino."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 7,
-      "question": "¿Cómo ayuda el guardar convenios a establecer Sion según Moisés 7:18 y DyC 82:12–19?",
+      "question": "Doctrina y Convenios 82:10 dice que el Señor está obligado cuando obedecemos, y el presidente Nelson enseña que Él «jamás cejará en Sus esfuerzos por ayudarnos». ¿Qué principio común forman las dos enseñanzas?",
       "options": [
-        "Nos une en un corazón y una mente, cuidando de los necesitados",
-        "Nos separa de los demás",
-        "Nos hace evitar responsabilidades",
-        "Nos lleva a competir entre nosotros"
+        "Que la ayuda de Dios llega en proporción exacta al esfuerzo invertido.",
+        "Que la relación de convenio se sostiene principalmente por el esfuerzo humano.",
+        "Que el compromiso de Dios con quienes hacen convenios es firme y no depende del ánimo del momento.",
+        "Que las promesas divinas se renuevan cada vez que la persona vuelve a obedecer."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

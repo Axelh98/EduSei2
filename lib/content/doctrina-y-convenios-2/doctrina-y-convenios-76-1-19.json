@@ -1,83 +1,136 @@
 {
   "id": "doctrina-y-convenios-76-1-19",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "El 16 de febrero de 1832, José Smith y Sidney Rigdon trabajaban en la traducción de la Biblia cuando llegaron a Juan 5:29, el versículo sobre la resurrección de los justos y de los injustos. La pregunta que les quedó dando vueltas abrió una de las revelaciones más extensas de la Restauración.",
+        "Lo que ocurrió después quedó registrado por testigos que estaban en la sala. José preguntaba «¿qué es lo que veo?», describía la escena, y Sidney respondía «yo veo lo mismo»; después Sidney describía y José confirmaba. Estuvieron así alrededor de una hora. Al terminar, Sidney estaba pálido y agotado, y José comentó sonriendo que su compañero no estaba tan acostumbrado como él a ese tipo de experiencia. Brigham Young llamó a lo que recibieron «la visión más grandiosa que yo sepa que jamás se haya dado a los hijos de los hombres».",
+        "Los primeros diecinueve versículos son la puerta de entrada: describen cómo llega la revelación y a quiénes. Doctrina y Convenios 76:7 promete que a quienes sirven al Señor en rectitud Él les revelará «todos los misterios» de Su reino. Esa promesa no era solo para dos hombres en una sala de Hiram, Ohio; el patrón que la produjo —leer, detenerse, preguntar, esperar respuesta— es exactamente el que tenés disponible."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 76:5",
+          "texto": "Porque así dice el Señor: Yo, el Señor, soy misericordioso y benigno para con los que me temen, y me deleito en honrar a los que me sirven en rectitud y en verdad hasta el fin.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Doctrina y Convenios 76:7",
+          "texto": "Y a ellos les revelaré todos los misterios, sí, todos los misterios ocultos de mi reino desde los días antiguos, y por siglos futuros, les haré saber la buena disposición de mi voluntad tocante a todas las cosas pertenecientes a mi reino.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "Doctrina y Convenios 76:1",
+          "texto": "¡Oíd, oh cielos, escucha, oh tierra, y regocijaos, vosotros los habitantes de ellos, porque el Señor es Dios, y aparte de él no hay Salvador!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p1#p1"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Robert D. Hales",
+      "fuente": "«Las Santas Escrituras: El poder de Dios para nuestra salvación», Conferencia General, octubre de 2006 (Liahona, noviembre de 2006, pág. 27)",
+      "texto": "Si deseamos hablar con Dios, oramos; y si deseamos que Él nos hable, escudriñamos las Escrituras, porque por medio de Sus profetas recibimos Sus palabras. De modo que Él nos enseñará a medida que prestemos atención a la inspiración del Espíritu Santo.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2006/10/holy-scriptures-the-power-of-god-unto-our-salvation?lang=spa&id=p24#p24"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La visión de la sección 76 no empezó con una aparición inesperada: empezó con dos hombres leyendo un versículo y deteniéndose a preguntar qué significaba. El versículo 7 promete que el Señor revela Sus misterios a quienes le sirven en rectitud, y ese sigue siendo el orden de las cosas. La próxima vez que un versículo te deje una pregunta, no la pases por alto para terminar el capítulo: anotala, quedate ahí y preguntá. Es exactamente lo que hicieron José y Sidney el día que se abrió el cielo."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te llama más la atención del relato de José y Sidney describiéndose el uno al otro lo que veían?",
+        "Según Doctrina y Convenios 76:5–7, ¿a quiénes promete el Señor revelar los misterios de Su reino?",
+        "El élder Hales distingue entre hablarle a Dios y dejar que Él nos hable. ¿Cuál de las dos hacés más, y por qué te parece que es así?",
+        "¿Alguna vez un versículo te dejó una pregunta que no seguiste? ¿Qué pasó con esa pregunta?",
+        "¿Qué cambiaría en tu estudio si leyeras menos versículos por vez y te detuvieras más en cada uno?",
+        "Elegí un versículo esta semana y quedate en él: leelo, anotá la pregunta que te genere y pedí respuesta. ¿Cuál elegís y cuándo lo hacés?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué estaban estudiando José Smith y Sidney Rigdon cuando recibieron la visión registrada en Doctrina y Convenios 76?",
+      "question": "¿Qué estaban haciendo José Smith y Sidney Rigdon cuando recibieron la visión registrada en Doctrina y Convenios 76?",
       "options": [
-        "Apocalipsis 21",
-        "Juan 5:29",
-        "Mateo 24",
-        "Isaías 53"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 2,
-      "question": "¿Dónde ocurrió la visión de Doctrina y Convenios 76?",
-      "options": [
-        "En la casa de John y Elsa Johnson en Hiram, Ohio",
-        "En la imprenta de Kirtland",
-        "En la granja de los Whitmer",
-        "En Nauvoo, Illinois"
+        "Trabajando en la traducción de la Biblia, al llegar a un versículo sobre la resurrección.",
+        "Presidiendo una conferencia de la Iglesia en Kirtland.",
+        "Preparando una respuesta a las cartas que atacaban a la Iglesia.",
+        "Orando en el bosque para saber qué iglesia era la verdadera."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 3,
-      "question": "Según Doctrina y Convenios 76:11–19, qué hicieron José y Sidney para prepararse para recibir la visión?",
+      "id": 2,
+      "question": "Según Doctrina y Convenios 76:5, ¿en qué dice el Señor que se deleita?",
       "options": [
-        "Ayunaron por varios días",
-        "Meditaron en las Escrituras y buscaron al Señor en oración",
-        "Consultaron a los líderes locales",
-        "Guardaron silencio sin estudiar nada"
+        "En bendecir por igual a todos los habitantes de la tierra.",
+        "En honrar a quienes le sirven en rectitud y en verdad hasta el fin.",
+        "En revelar el futuro a quienes se lo piden con insistencia.",
+        "En perdonar a quienes reconocen sus faltas con prontitud."
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "El relato de la visión muestra a José y a Sidney describiéndose mutuamente lo que veían y confirmando cada uno lo del otro. ¿Qué aporta ese detalle al valor de la sección 76?",
+      "options": [
+        "Sugiere que la visión duró más de lo que se registró por escrito.",
+        "Demuestra que la revelación se recibe mejor en compañía que a solas.",
+        "Establece que hubo dos testigos simultáneos de lo mismo, y no una experiencia de una sola persona.",
+        "Indica que Sidney tenía una capacidad espiritual mayor que la de José."
+      ],
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "Qué verdad podemos aprender de la experiencia de José y Sidney al recibir la visión?",
+      "question": "El élder Hales enseñó: «Si deseamos hablar con Dios, oramos; y si deseamos que Él nos hable, escudriñamos las Escrituras». ¿Qué relación establece esa frase entre la oración y el estudio?",
       "options": [
-        "Que las visiones solo ocurren en el pasado",
-        "Que meditar en las Escrituras conduce a la revelación",
-        "Que la revelación depende únicamente de líderes de la Iglesia",
-        "Que no es necesario estudiar para recibir revelación"
+        "Que el estudio reemplaza a la oración cuando las respuestas tardan en llegar.",
+        "Que ambas prácticas producen el mismo resultado espiritual.",
+        "Que la oración es superior al estudio porque es una comunicación directa.",
+        "Que son las dos direcciones de una misma conversación, y dejar una fuera la vuelve un monólogo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "Qué significa “temer a Dios” según Doctrina y Convenios 76:5?",
+      "question": "Luca lee tres capítulos cada noche para cumplir con su meta, pero termina sin recordar nada de lo que leyó. Según lo que muestra el origen de la sección 76, ¿qué le convendría cambiar?",
       "options": [
-        "Tener miedo constante de Él",
-        "Adorarlo, amarlo y tenerle reverencia",
-        "Evitar hablar de Él",
-        "Guardar silencio en las reuniones"
+        "Detenerse en menos versículos, preguntar qué significan y esperar respuesta.",
+        "Cambiar el horario de lectura a la mañana, cuando la mente está más despejada.",
+        "Leer acompañado para poder comentar lo leído con otra persona.",
+        "Aumentar la cantidad de capítulos para que el hábito se afiance más rápido."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
-      "question": "Qué enseñó el élder D. Todd Christofferson sobre estudiar y meditar en las Escrituras?",
+      "question": "Ana dice que las revelaciones grandes eran para los profetas de la Restauración y que ella no puede esperar nada parecido. Según Doctrina y Convenios 76:5–7, ¿qué le falta considerar?",
       "options": [
-        "Que debemos leer sin detenernos",
-        "Que la meditación en las Escrituras puede conducir a la revelación por medio del Espíritu Santo",
-        "Que solo los profetas reciben revelación al estudiar",
-        "Que la revelación no depende de las Escrituras"
+        "Que la revelación personal se limita a asuntos de la vida cotidiana.",
+        "Que la promesa de recibir los misterios del reino se dirige a quienes sirven al Señor en rectitud, sin limitarse a un cargo.",
+        "Que las revelaciones de esa magnitud se dieron una sola vez en la historia.",
+        "Que ese tipo de manifestación exige un llamamiento formal en la Iglesia."
       ],
       "correctAnswer": 1
     },
     {
       "id": 7,
-      "question": "Qué pasajes de las Escrituras se sugieren para practicar la meditación y recibir revelación?",
+      "question": "Doctrina y Convenios 76:7 promete revelación a quienes sirven al Señor, y el élder Hales enseña que Él nos habla cuando escudriñamos las Escrituras. ¿Qué principio común forman las dos enseñanzas?",
       "options": [
-        "Enós 1, Mosíah 3, Alma 36, Moisés 1",
-        "Génesis 1, Éxodo 20, Levítico 11, Números 12",
-        "Mateo 5, Marcos 10, Lucas 15, Juan 3",
-        "Apocalipsis 12, Daniel 7, Isaías 6, Jeremías 1"
+        "Que el servicio en la Iglesia es la única condición para recibir revelación.",
+        "Que la revelación se concede en proporción al tiempo dedicado al estudio.",
+        "Que la revelación llega por un canal que uno abre con su propia conducta y su estudio, no por azar.",
+        "Que las Escrituras contienen ya todas las respuestas posibles a las preguntas personales."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

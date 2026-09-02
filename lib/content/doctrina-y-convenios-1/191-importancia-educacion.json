@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "El Señor fue claro en D&C 88:118 y D&C 130:18–19: buscar conocimiento de los mejores libros y con la fe es un mandamiento, y la inteligencia que adquirimos en esta vida nos acompaña en la resurrección. Esto significa que estudiar — en la escuela, en el Seminario, en casa — no es solo una obligación social o económica sino una responsabilidad espiritual. Para los jóvenes que están en la secundaria y que a veces sienten que el estudio es una carga sin propósito, esta lección propone un cambio de perspectiva: la educación es mayordomía. El Señor te dio una mente, y Él espera que la desarrolles con la misma dedicación con que desarrollás el carácter. Esta lección también aborda la tensión real entre las demandas del colegio y las de la Iglesia, y ofrece principios para integrarlas en lugar de verlas como rivales."
+      "contenido": [
+        "El Señor fue claro en Doctrina y Convenios 88:118 y 130:18–19: buscar conocimiento de los mejores libros y con la fe es un mandamiento, y la inteligencia que adquirimos en esta vida nos acompaña en la resurrección. Estudiar —en la escuela, en el Seminario, en casa— no es solo una obligación social o económica, sino una responsabilidad espiritual.",
+        "Para los jóvenes de secundaria que a veces sienten que el estudio es una carga sin propósito, esta lección propone un cambio de perspectiva: la educación es mayordomía. El Señor te dio una mente y espera que la desarrolles con la misma dedicación con que desarrollás el carácter. La lección también aborda la tensión real entre las demandas del colegio y las de la Iglesia, y ofrece principios para integrarlas en lugar de verlas como rivales. Esa tensión es concreta —el examen del lunes contra la actividad del sábado, la beca contra la misión— y negarla no ayuda a nadie: lo que ayuda es tener un criterio para decidir cuando las dos cosas no entran en la misma semana."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿Qué materia o habilidad estás aprendiendo ahora que podría ser útil para el servicio en la Iglesia o en tu familia?",
         "¿Cómo integrás actualmente el estudio del evangelio con el estudio académico? ¿Se refuerzan o compiten?",
         "¿Qué hábito de estudio concreto podrías mejorar esta semana, tanto en la escuela como en las Escrituras?",
-        "Si la inteligencia que adquirís en esta vida te acompaña en la resurrección, ¿qué querés llevarte?"
+        "Si la inteligencia que adquirís en esta vida te acompaña en la resurrección, ¿qué querés llevarte?",
+        "¿Qué materia estás dejando caer ahora mismo, y qué cambio concreto de tu rutina de estudio la levantaría antes de que termine el trimestre?"
       ]
     }
   ],
@@ -47,54 +51,54 @@
       "id": 1,
       "question": "D&C 130:18–19 dice que la inteligencia adquirida en esta vida 'se levantará con nosotros en la resurrección'. ¿Qué condición adicional menciona ese versículo para recibir ventaja en el mundo venidero?",
       "options": [
+        "Solo la diligencia — la obediencia aplica a las ordenanzas, no al estudio académico.",
         "Adquirir conocimiento mediante diligencia y obediencia — ambas condiciones juntas.",
         "Haber obtenido un título universitario formal antes de los 30 años.",
-        "Solo la obediencia — el estudio por sí solo no produce ventaja espiritual.",
-        "Solo la diligencia — la obediencia aplica a las ordenanzas, no al estudio académico."
+        "Solo la obediencia — el estudio por sí solo no produce ventaja espiritual."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "D&C 88:118 manda buscar conocimiento 'de los mejores libros' y también 'con la fe'. ¿Qué ocurre cuando se separan esas dos cosas — cuando alguien estudia mucho pero sin fe, o tiene fe pero sin estudiar?",
       "options": [
+        "La fe sin estudio es más valorada por el Señor porque demuestra mayor humildad.",
         "Nada problemático — ambas formas producen crecimiento espiritual aunque de manera diferente.",
         "El estudio sin fe puede volverse arrogante; la fe sin estudio puede volverse superficial — cada una sola es incompleta.",
-        "El estudio sin fe es más peligroso que la fe sin estudio.",
-        "La fe sin estudio es más valorada por el Señor porque demuestra mayor humildad."
+        "El estudio sin fe es más peligroso que la fe sin estudio."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Si la inteligencia adquirida 'se levanta con nosotros en la resurrección', ¿qué implicación tiene eso para la actitud de un estudiante hacia materias que no le gustan?",
       "options": [
-        "Que solo vale la pena aprender las materias que disfruta porque esas son las que desarrollan dones genuinos.",
-        "Que el aprendizaje de cualquier materia con diligencia es una inversión eterna — no termina al graduarse.",
         "Que las materias seculares no tienen valor en la resurrección porque pertenecen a esta vida.",
-        "Que el Señor nivelará el aprendizaje de todos en la resurrección sin importar el esfuerzo individual."
+        "Que el Señor nivelará el aprendizaje de todos en la resurrección sin importar el esfuerzo individual.",
+        "Que solo vale la pena aprender las materias que disfruta porque esas son las que desarrollan dones genuinos.",
+        "Que el aprendizaje de cualquier materia con diligencia es una inversión eterna — no termina al graduarse."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "El presidente Nelson es médico y músico — dos campos muy diferentes. ¿Qué habilidad dijo él haber aprendido que es más valiosa que el contenido específico de cualquier materia?",
+      "question": "El élder Bednar enseñó que estamos en la tierra «para aprender a aprender» y para llegar a amar el aprendizaje. Según esa idea, ¿qué es más valioso que el contenido específico de cualquier materia?",
       "options": [
-        "La capacidad de memorizar grandes cantidades de información con precisión.",
-        "La habilidad de aprender a aprender — abordar cualquier tema nuevo con método, curiosidad y perseverancia.",
+        "La habilidad de abordar cualquier tema nuevo con método, curiosidad y perseverancia.",
         "La disciplina de estudiar más horas que los demás sin cansarse.",
-        "La capacidad de enseñar lo que sabe a otras personas de manera efectiva."
+        "La facilidad para explicar a otros lo que uno ya domina.",
+        "La capacidad de memorizar grandes cantidades de información con precisión."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "Tomás odia matemáticas y dice que no las necesitará nunca. Según D&C 130:18–19, ¿qué argumento del evangelio le daría más perspectiva sobre ese razonamiento?",
+      "question": "Tomás detesta matemáticas y dice que no las va a necesitar nunca. Según Doctrina y Convenios 130:18–19, ¿qué argumento del evangelio le da más perspectiva sobre ese razonamiento?",
       "options": [
-        "Que el Señor le dará matemáticas en la resurrección si las necesita para Su obra.",
-        "Que la inteligencia adquirida con diligencia y obediencia se lleva a la otra vida — incluso lo que hoy parece inútil puede tener valor eterno que todavía no ve.",
-        "Que las matemáticas son necesarias para administrar el dinero en la vida adulta.",
-        "Que si el presidente Nelson estudió medicina siendo músico, Tomás también puede aprender lo que no le gusta."
+        "Que el Señor le dará ese conocimiento en la resurrección si llega a necesitarlo para Su obra.",
+        "Que la inteligencia adquirida con diligencia y obediencia se lleva a la otra vida, incluso la que hoy parece inútil.",
+        "Que las matemáticas son imprescindibles para administrar el dinero en la vida adulta.",
+        "Que conviene estudiar lo que no gusta porque desarrolla el carácter frente a la dificultad."
       ],
       "correctAnswer": 1
     },

@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "D&C 76:50–70 describe los requisitos y las glorias del Reino Celestial — el grado de gloria más alto en el plan eterno del Padre. Lo primero que llama la atención es a quiénes describe el Señor como herederos de ese reino: personas que recibieron el testimonio de Jesús, creyeron en Su nombre, fueron bautizadas y recibieron el don del Espíritu Santo, guardaron los mandamientos y fueron selladas por el Espíritu Santo de promesa. El versículo 51 es especialmente revelador: 'son ellos los que recibieron el testimonio de Jesús.' El testimonio personal del Salvador no es un adorno espiritual — es una condición del Reino Celestial. Esta sección también introduce brevemente a los 'hijos de perdición' — aquellos que habiendo tenido un pleno conocimiento del poder de Dios eligieron negarlo voluntariamente — para establecer el contraste más extremo posible con quienes heredan el máximo del plan del Padre."
+      "contenido": [
+        "Doctrina y Convenios 76:50–70 describe los requisitos y las glorias del reino celestial, el grado de gloria más alto del plan eterno del Padre. Lo primero que llama la atención es a quiénes describe el Señor como herederos: personas que recibieron el testimonio de Jesús, creyeron en Su nombre, fueron bautizadas, recibieron el don del Espíritu Santo, guardaron los mandamientos y fueron selladas por el Santo Espíritu de la promesa.",
+        "El versículo 51 es especialmente revelador: «son los que recibieron el testimonio de Jesús». El testimonio personal del Salvador no es un adorno espiritual, es una condición del reino celestial. La sección introduce además, brevemente, a los «hijos de perdición» —quienes, habiendo tenido pleno conocimiento del poder de Dios, eligieron negarlo— para establecer el contraste más extremo posible con quienes heredan el máximo del plan del Padre. Puesto así, la lista de requisitos deja de leerse como una barrera de entrada y pasa a leerse como una descripción: no de lo que hay que hacer para entrar, sino de en quién uno se convierte en el camino."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿Qué significa 'recibir el testimonio de Jesús' como condición del Reino Celestial — cómo va más allá de simplemente creer en Él?",
         "¿Cómo cambia tu motivación para guardar los convenios saber que son condiciones para el máximo grado de gloria que el Padre diseñó?",
         "¿Qué aspecto de los requisitos del Reino Celestial te desafía más en tu vida actual?",
-        "¿Qué decisión de esta semana te acerca al tipo de persona que hereda el Reino Celestial?"
+        "¿Qué decisión de esta semana te acerca al tipo de persona que hereda el Reino Celestial?",
+        "De los requisitos que describe el pasaje, ¿cuál sentís que ya es parte de vos y cuál todavía te queda como tarea? Sé honesto en las dos partes."
       ]
     }
   ],
@@ -47,12 +51,12 @@
       "id": 1,
       "question": "D&C 76:51–53 lista los requisitos para heredar el Reino Celestial. ¿Cuáles son los elementos específicos mencionados en esos versículos?",
       "options": [
+        "Tener una familia eterna, servir en llamamientos de la Iglesia y leer las Escrituras diariamente.",
         "Recibir el testimonio de Jesús, creer en Su nombre, bautizarse, recibir el Espíritu Santo y ser sellados por el Espíritu Santo de promesa.",
         "Servir una misión de tiempo completo, pagar el diezmo fielmente y asistir al templo regularmente.",
-        "Nacer en el convenio, guardar los mandamientos y tener un hogar activo en la Iglesia.",
-        "Tener una familia eterna, servir en llamamientos de la Iglesia y leer las Escrituras diariamente."
+        "Nacer en el convenio, guardar los mandamientos y tener un hogar activo en la Iglesia."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
@@ -67,25 +71,25 @@
     },
     {
       "id": 3,
-      "question": "El presidente Oaks enseñó que el plan de salvación 'no diseñó un destino mediocre para Sus hijos'. ¿Qué implica eso sobre la motivación para guardar los convenios del evangelio?",
+      "question": "El élder Renlund enseñó que «a Dios le importa mucho más quiénes somos y en quiénes nos estamos convirtiendo». ¿Qué implica eso sobre la motivación para guardar los convenios?",
       "options": [
-        "Que guardar los convenios es una obligación de gratitud sin beneficio personal real.",
-        "Que el camino de los convenios conduce al máximo de lo que el Padre puede ofrecer — no a sobrevivir sino a heredar todo. Eso convierte la obediencia de carga en inversión.",
-        "Que todos heredarán el reino celestial eventualmente con suficiente tiempo.",
-        "Que la motivación principal debe ser el miedo a los reinos inferiores, no el amor al Padre."
+        "Que todos heredarán el reino celestial con el tiempo suficiente.",
+        "Que la motivación principal debe ser el temor a los reinos inferiores.",
+        "Que guardarlos es una obligación de gratitud, sin efecto real sobre la propia vida.",
+        "Que el camino de los convenios apunta a una transformación de la persona, y no solo a un registro de conductas cumplidas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "D&C 76:51 menciona ser 'valiente en el testimonio de Jesús' como característica de los herederos del reino celestial. ¿Por qué la valentía —y no solo la creencia— es un requisito?",
       "options": [
-        "Porque el Señor evalúa principalmente el coraje físico de Sus discípulos.",
         "Porque la valentía en el testimonio distingue una fe activa y comprometida de una pasiva que evita el costo social del discipulado.",
         "Porque la valentía es una virtud superior a la fe y la esperanza en el evangelio.",
-        "Porque el mundo moderno no persigue a los creyentes y por eso la valentía ya no es necesaria."
+        "Porque el mundo moderno no persigue a los creyentes y por eso la valentía ya no es necesaria.",
+        "Porque el Señor evalúa principalmente el coraje físico de Sus discípulos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -113,12 +117,12 @@
       "id": 7,
       "question": "D&C 76:51–53 (requisitos del reino celestial) y D&C 76:69 (hechos perfectos mediante Jesús) juntos presentan la visión completa del camino celestial. ¿Cuál es ese mensaje completo?",
       "options": [
-        "Que el reino celestial es para los perfectos, no para los que están en proceso.",
-        "Que hay requisitos reales que el discípulo debe cumplir activamente, y hay un Salvador que hace posible lo que esos requisitos exigen — el camino celestial combina responsabilidad humana y gracia divina.",
         "Que la gracia de Cristo reemplaza todos los requisitos para los que tienen suficiente fe.",
-        "Que los convenios son solo señales externas sin peso doctrinal en el acceso al reino celestial."
+        "Que los convenios son solo señales externas sin peso doctrinal en el acceso al reino celestial.",
+        "Que el reino celestial es para los perfectos, no para los que están en proceso.",
+        "Que hay requisitos reales que el discípulo debe cumplir activamente, y hay un Salvador que hace posible lo que esos requisitos exigen — el camino celestial combina responsabilidad humana y gracia divina."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

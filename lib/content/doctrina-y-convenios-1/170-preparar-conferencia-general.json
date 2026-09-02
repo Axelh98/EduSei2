@@ -33,7 +33,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La Conferencia General es una de las ocasiones más sagradas del año para los santos: el Señor habla a toda Su Iglesia a través de Sus siervos. La calidad de esa experiencia depende directamente de la preparación de quien escucha. Estudiantes que llegan con preguntas específicas, con corazón preparado y disposición de actuar, reciben revelación personal. Los que llegan sin preparación escuchan palabras. Esta semana, identificá dos o tres preguntas concretas que llevarás a la próxima Conferencia General."
+      "contenido": [
+        "La Conferencia General es una de las ocasiones más sagradas del año para los santos: el Señor habla a toda Su Iglesia por medio de Sus siervos. La calidad de esa experiencia depende directamente de la preparación de quien escucha. Quien llega con preguntas específicas, con el corazón preparado y con la decisión previa de obedecer, recibe revelación personal; quien llega sin preparación escucha palabras. Escribí hoy dos preguntas reales en la primera página del cuaderno que vas a usar durante las sesiones, y dejalo listo antes de que empiece."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -42,19 +44,20 @@
         "¿Qué diferencia hace ir a la Conferencia General con preguntas específicas versus ir sin preparación?",
         "Según D&C 1:38, ¿cómo equivalen las palabras de los siervos del Señor a las palabras del Señor mismo?",
         "¿Qué preguntas concretas de tu vida querés llevar a la próxima Conferencia General?",
-        "¿Qué harás esta semana para prepararte espiritualmente antes de la próxima Conferencia General?"
+        "¿Qué harás esta semana para prepararte espiritualmente antes de la próxima Conferencia General?",
+        "¿En qué momento fijo de tu semana vas a repasar los mensajes de la última conferencia, para que no queden en una escucha única?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál fue el último mensaje de la Conferencia General que realmente te impactó? ¿Qué hizo que ese mensaje llegara a vos de manera diferente?",
+      "question": "Dos amigos miran la misma sesión de la Conferencia General. Luca llega con dos preguntas escritas y un cuaderno; Agustina la pone de fondo mientras hace otra cosa. Según lo que enseña esta lección, ¿de qué depende principalmente la diferencia entre lo que reciben?",
       "options": [
-        "Que el orador tenía una voz especialmente agradable o emotiva",
-        "Que llegué con una pregunta o necesidad específica que ese mensaje respondía directamente",
-        "Que era el mensaje más largo y detallado de toda la Conferencia",
-        "Que lo repetían mucho en las redes sociales de la Iglesia"
+        "De cuál de los dos tenga mayor conocimiento previo de doctrina.",
+        "De la preparación con que cada uno llega: preguntas concretas, oración previa y disposición a obedecer.",
+        "Del orador que le toque escuchar a cada uno en esa sesión.",
+        "De si miran la sesión en el centro de reuniones o desde su casa."
       ],
       "correctAnswer": 1
     },
@@ -62,43 +65,43 @@
       "id": 2,
       "question": "D&C 1:38 dice que las palabras de los siervos del Señor son 'como si fueran' Sus propias palabras. ¿Qué diferencia debería hacer eso en cómo te preparás para escuchar la Conferencia General?",
       "options": [
+        "Que debería tomar notas detalladas de todos los datos y cifras mencionados",
         "Que debería memorizar cada palabra para poder citarla exactamente",
         "Que debería llegar con la disposición de un alumno frente a su Maestro, no de un espectador ante un programa",
-        "Que debería grabar todo para escucharlo más tarde en lugar de prestar atención ahora",
-        "Que debería tomar notas detalladas de todos los datos y cifras mencionados"
+        "Que debería grabar todo para escucharlo más tarde en lugar de prestar atención ahora"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué preguntas concretas de tu vida querés llevar a la próxima Conferencia General? ¿Son preguntas que podés formular en una oración específica antes de la Conferencia?",
+      "question": "Doctrina y Convenios 1:38 dice que la palabra del Señor se cumple «sea por mi propia voz o por la voz de mis siervos». ¿Qué consecuencia práctica tiene esa declaración para quien escucha la Conferencia General?",
       "options": [
-        "No tengo preguntas específicas, prefiero escuchar con la mente abierta sin expectativas",
-        "Sí, tengo dos o tres preguntas reales sobre decisiones, fe o situaciones que estoy viviendo",
-        "Mis preguntas son demasiado personales para llevarlas a algo tan general como la Conferencia",
-        "La Conferencia General es para temas generales, no para preguntas personales específicas"
+        "Que las palabras de los siervos valen mientras coincidan con la opinión personal del oyente.",
+        "Que la promesa se aplicaba a la época de José Smith y hoy funciona de otro modo.",
+        "Que conviene escuchar solo a los oradores de mayor autoridad dentro de la Iglesia.",
+        "Que el mensaje de un siervo autorizado debe recibirse con el mismo peso que si lo dijera el Señor."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Qué diferencia hay entre alguien que llega a la Conferencia General preparado con oración y preguntas versus alguien que llega sin preparación?",
       "options": [
-        "El primero escucha un programa espiritual interesante; el segundo también pero con menos atención",
         "El primero puede recibir revelación personal específica; el segundo solo escucha palabras generales",
         "No hay diferencia real en la experiencia espiritual que se puede tener",
-        "El primero se beneficia más de los discursos académicamente; el segundo más emocionalmente"
+        "El primero se beneficia más de los discursos académicamente; el segundo más emocionalmente",
+        "El primero escucha un programa espiritual interesante; el segundo también pero con menos atención"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué harás esta semana para prepararte espiritualmente antes de la próxima Conferencia General? ¿Cuándo específicamente lo harás?",
+      "question": "Doctrina y Convenios 21:5–6 promete que si recibimos la palabra del profeta «con toda fe y paciencia», las puertas del infierno no prevalecerán. ¿Qué condición establece ese pasaje antes de la promesa?",
       "options": [
-        "Leer resúmenes de las conferencias anteriores para no llegar sin contexto",
-        "Orar por una o dos preguntas específicas y estudiar un discurso reciente del profeta antes de la Conferencia",
-        "Esperar a que llegue la Conferencia y prepararse en ese momento",
-        "Preparar bocadillos y hacer la Conferencia una actividad social con la familia"
+        "Que la palabra se acepte solo después de confirmarla con fuentes externas.",
+        "Que la palabra se reciba con fe y con paciencia, es decir, sosteniéndola también cuando no se la entiende del todo.",
+        "Que quien la reciba tenga un llamamiento activo en la Iglesia.",
+        "Que la promesa se cumple automáticamente por asistir a la conferencia."
       ],
       "correctAnswer": 1
     },
@@ -106,12 +109,23 @@
       "id": 6,
       "question": "D&C 21:5 promete que si seguimos las palabras del profeta 'las puertas del infierno no prevalecerán'. ¿Qué tipo de 'puertas del infierno' podrían estar intentando prevalecer en tu vida ahora mismo?",
       "options": [
+        "El 'infierno' es solo una metáfora que no tiene aplicación práctica",
         "Solo amenazas físicas y peligros visibles",
         "Dudas no resueltas, hábitos que me alejan del Espíritu, o situaciones donde cedo ante la presión",
-        "Desafíos solo relacionados con la economía o la salud",
-        "El 'infierno' es solo una metáfora que no tiene aplicación práctica"
+        "Desafíos solo relacionados con la economía o la salud"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 1:38 equipara la voz de los siervos con la del Señor, y 21:5–6 pide recibirla «con toda fe y paciencia». ¿Qué principio común sostienen los dos pasajes sobre la palabra profética?",
+      "options": [
+        "Que el valor del mensaje depende de la elocuencia con que se lo transmite.",
+        "Que la paciencia solo es necesaria cuando el consejo profético resulta difícil de cumplir.",
+        "Que ambas promesas se dirigen a la Iglesia como institución y no a los miembros en particular.",
+        "Que la autoridad del mensaje viene de quien lo envía, y por eso exige una respuesta que no depende del gusto del oyente."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

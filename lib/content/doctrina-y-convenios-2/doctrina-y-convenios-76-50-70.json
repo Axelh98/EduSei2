@@ -1,147 +1,134 @@
 {
   "id": "doctrina-y-convenios-76-50-70",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Después de describir la visión del Padre y del Hijo, la sección 76 detalla quiénes heredan la gloria celestial. El versículo 51 abre la lista con una frase que conviene leer despacio: «estos son los que recibieron el testimonio de Jesús». Después vienen el bautismo, guardar los mandamientos, recibir el Espíritu Santo y ser sellados por el Santo Espíritu de la promesa.",
+        "Leída de golpe, esa lista puede sonar a examen de admisión, y ahí aparece la pregunta que casi todos los jóvenes de la Iglesia se hacen alguna vez: «¿voy a ser suficientemente bueno?». La respuesta del pasaje no está en la lista sino en el versículo 69: son «hombres justos hechos perfectos mediante Jesús, el mediador del nuevo convenio». Nadie llega ahí por su cuenta, y el texto lo dice sin rodeos.",
+        "Eso cambia el sentido de todo lo anterior. Los requisitos no son una barrera que hay que superar con méritos propios; son la descripción de un camino en el que el Salvador hace la parte que nosotros no podemos hacer. Lo único que se pide de nuestro lado es seguir intentándolo y seguir arrepintiéndose."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 76:51",
+          "texto": "Estos son los que recibieron el testimonio de Jesús, y creyeron en su nombre, y fueron bautizados según la manera de su sepultura, siendo sepultados en el agua en su nombre; y esto de acuerdo con el mandamiento que él ha dado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p51#p51"
+        },
+        {
+          "referencia": "Doctrina y Convenios 76:53",
+          "texto": "Y son quienes vencen por la fe, y son sellados por el Santo Espíritu de la promesa, que el Padre derrama sobre todos los que son justos y fieles.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p53#p53"
+        },
+        {
+          "referencia": "Doctrina y Convenios 76:69",
+          "texto": "Son hombres justos hechos perfectos mediante Jesús, el mediador del nuevo convenio, que obró esta perfecta expiación derramando su propia sangre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p69#p69"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Paul V. Johnson",
+      "fuente": "«Perfeccionaos en Él», Conferencia General, octubre de 2022 (Liahona, noviembre de 2022, pág. 40)",
+      "texto": "Tal vez tengamos la tendencia a pensar que debemos perfeccionarnos nosotros mismos, pero eso no es posible. Seguir cada sugerencia de cada libro de autoayuda del mundo no provocará eso. Solo hay una manera y un nombre mediante el cual viene la perfección.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/24johnson?lang=spa&id=p11#p11"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La lista de requisitos del reino celestial termina con la frase que la explica: «hechos perfectos mediante Jesús». No dice «que se perfeccionaron», dice «hechos perfectos», y la diferencia entre esas dos formas es toda la doctrina. La pregunta «¿voy a ser suficientemente bueno?» está mal planteada desde el principio, porque nadie lo es por su cuenta y nadie tiene que serlo. Cuando esta semana aparezca esa pregunta —y va a aparecer—, respondete con el versículo 69 en vez de con la lista de tus últimos errores."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez te preguntaste si sos «suficientemente bueno» para el reino celestial? ¿Qué te disparó esa pregunta?",
+        "Según Doctrina y Convenios 76:51–53, ¿qué cosas describen a quienes heredan la gloria celestial?",
+        "El versículo 69 dice «hechos perfectos mediante Jesús». ¿Qué cambia esa frase respecto de la idea de perfeccionarse uno mismo?",
+        "El élder Johnson menciona los libros de autoayuda. ¿En qué se parece y en qué se diferencia el esfuerzo por mejorar del que propone el evangelio?",
+        "¿Qué error propio te cuesta más creer que ya está cubierto por la Expiación?",
+        "Esta semana, cuando aparezca la pregunta «¿alcanzo?», ¿con qué versículo concreto te la vas a contestar?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué aprendieron José Smith y Sidney Rigdon sobre el Reino Celestial en la visión de Doctrina y Convenios 76?",
+      "question": "¿Con qué frase abre Doctrina y Convenios 76:51 la descripción de quienes heredan la gloria celestial?",
       "options": [
-        "Que todos los hombres irán al mismo lugar",
-        "Que existen diferentes grados o reinos de gloria",
-        "Que nadie puede heredar el Reino Celestial",
-        "Que el Reino Celestial es solo simbólico"
+        "«Estos son los que guardaron todos los mandamientos sin falta».",
+        "«Estos son los que recibieron el testimonio de Jesús».",
+        "«Estos son los que sirvieron en la obra del Señor hasta el fin».",
+        "«Estos son los que nunca se apartaron del camino de los convenios»."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué acciones específicas permiten ser perfeccionados en Cristo según DyC 76:51–53?",
+      "question": "Según Doctrina y Convenios 76:53, ¿qué caracteriza a quienes son sellados por el Santo Espíritu de la promesa?",
       "options": [
-        "Recibir el testimonio de Jesús, ser bautizados, guardar los mandamientos",
-        "Solo asistir a la Iglesia",
-        "Evitar cualquier debilidad",
-        "No cometer errores nunca"
+        "Que completaron todas las ordenanzas del templo.",
+        "Que fueron llamados a un oficio del sacerdocio.",
+        "Que vencen por la fe y son justos y fieles.",
+        "Que reciben esa promesa en el momento del bautismo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué bendiciones se prometen en DyC 76:54–68, 70 a quienes hereden el Reino Celestial?",
+      "question": "Doctrina y Convenios 76:69 dice que son «hombres justos hechos perfectos mediante Jesús». ¿Qué corrige la forma pasiva de esa expresión?",
       "options": [
-        "Paz en este mundo y vida eterna en el venidero",
-        "Riquezas materiales",
-        "Fama y reconocimiento",
-        "Una vida sin pruebas"
+        "Que la justicia y la perfección son términos equivalentes en la Escritura.",
+        "Que solo quienes murieron fieles pueden ser llamados perfectos.",
+        "Que la perfección se alcanza por acumulación de buenas obras a lo largo de la vida.",
+        "Que la perfección es algo que se recibe por medio del Salvador, no un logro propio."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué enseñó Mormón en Moroni 7:41 sobre la esperanza?",
+      "question": "El élder Johnson enseñó que «solo hay una manera y un nombre mediante el cual viene la perfección». ¿Qué distingue esa enseñanza de los métodos de superación personal del mundo?",
       "options": [
-        "Que la esperanza procede únicamente de la Expiación de Jesucristo",
-        "Que la esperanza depende de nuestras obras sin Cristo",
-        "Que la esperanza es solo un sentimiento pasajero",
-        "Que la esperanza no tiene relación con la fe"
+        "Que ubica la fuente del cambio fuera de uno mismo, en Cristo, y no en la propia fuerza de voluntad.",
+        "Que descarta el valor de todo esfuerzo humano por mejorar.",
+        "Que produce resultados más rápidos que los métodos habituales.",
+        "Que exige más esfuerzo y disciplina que cualquier método de superación personal."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué significa tener esperanza en Cristo según DyC 59:23?",
+      "question": "Camila lleva una lista mental de todas las veces que falló este año y concluye que el reino celestial no es para ella. Según Doctrina y Convenios 76:69, ¿qué está midiendo mal?",
       "options": [
-        "Confiar en las promesas de Dios y esperar la vida eterna",
-        "Esperar que todo salga bien sin esfuerzo",
-        "Evitar pensar en el futuro",
-        "Depender solo de uno mismo"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 6,
-      "question": "¿Qué mensaje central transmite esta lección sobre Jesucristo?",
-      "options": [
-        "Que por medio de Él podemos recibir la exaltación y ser perfeccionados",
-        "Que solo los profetas pueden alcanzar la perfección",
-        "Que la perfección es imposible",
-        "Que la exaltación depende únicamente de nuestras obras"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 7,
-      "question": "¿Qué característica distingue a los que heredan el Reino Terrestre según DyC 76?",
-      "options": [
-        "Fueron valientes en su testimonio de Jesús",
-        "No fueron valientes en su testimonio de Jesús",
-        "Nunca escucharon del Evangelio",
-        "Rechazaron toda enseñanza espiritual"
+        "Está comparándose con compañeros que parecen más constantes que ella.",
+        "Está midiendo su destino por sus propios méritos, cuando el pasaje atribuye la perfección al Salvador.",
+        "Está exagerando la gravedad de faltas que en realidad son menores.",
+        "Está evaluando un año aislado en lugar de toda su trayectoria."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 8,
-      "question": "¿Qué invitación hizo el presidente Russell M. Nelson en 2022 sobre el testimonio de Jesucristo?",
+      "id": 6,
+      "question": "Tomás cree que el requisito de «vencer por la fe» del versículo 53 significa no volver a equivocarse nunca. ¿Qué le muestra el conjunto del pasaje?",
       "options": [
-        "Ignorar el testimonio",
-        "Depender del testimonio de otros",
-        "Hacerse cargo de su propio testimonio, nutrirlo y hacerlo crecer",
-        "Esperar que el testimonio llegue sin esfuerzo"
+        "Que la fe reemplaza la necesidad de guardar los mandamientos.",
+        "Que vencer por la fe es una condición reservada a los líderes de la Iglesia.",
+        "Que vencer por la fe consiste en sostenerse en Cristo, quien es el que perfecciona, y no en no fallar jamás.",
+        "Que el requisito se aplica solo a las faltas más graves."
       ],
       "correctAnswer": 2
     },
     {
-      "id": 9,
-      "question": "¿Qué diferencia se observa en el testimonio de los habitantes del Reino Celestial según DyC 76:51–52?",
+      "id": 7,
+      "question": "Doctrina y Convenios 76:51–53 enumera requisitos concretos y el versículo 69 los atribuye a la obra de Jesucristo. ¿Qué principio común forman ambas partes del pasaje?",
       "options": [
-        "Reciben el testimonio de Jesús y guardan los mandamientos",
-        "Son indiferentes al Evangelio",
-        "Rechazan toda enseñanza espiritual",
-        "No creen en Jesucristo"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 10,
-      "question": "¿Qué diferencia se observa en el testimonio de los habitantes del Reino Terrestre según DyC 76:75,79?",
-      "options": [
-        "Son valientes en el testimonio de Jesús",
-        "No fueron valientes en el testimonio de Jesús",
-        "Rechazaron completamente a Cristo",
-        "Nunca escucharon del Evangelio"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 11,
-      "question": "¿Qué diferencia se observa en el testimonio de los habitantes del Reino Telestial según DyC 76:82,101–103?",
-      "options": [
-        "No recibieron el testimonio de Jesús ni de los profetas",
-        "Recibieron plenamente el Evangelio",
-        "Guardaron todos los mandamientos",
-        "Fueron valientes en su testimonio"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 12,
-      "question": "Según el élder Quentin L. Cook, ¿qué significa ser valiente en el testimonio de Jesús?",
-      "options": [
-        "Centrarse en el poder de Jesucristo y Su sacrificio expiatorio, seguir la doctrina de Cristo, deleitarse en Su palabra y perseverar hasta el fin",
-        "Evitar hablar de Jesucristo",
-        "Depender solo de uno mismo",
-        "Ignorar las ordenanzas del templo"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 13,
-      "question": "¿Qué prácticas ayudan a fortalecer el testimonio de Jesucristo según la lección?",
-      "options": [
-        "Deleitarse en Su palabra",
-        "Ser firmes en Cristo y perseverar hasta el fin",
-        "Centrarse en Su expiación",
-        "Todas las anteriores"
+        "Que los requisitos son simbólicos y lo único que cuenta es la fe.",
+        "Que cumplir la lista completa asegura por sí misma la gloria celestial.",
+        "Que la Expiación se aplica solamente a quienes ya cumplieron los requisitos.",
+        "Que el esfuerzo propio y la gracia del Salvador operan juntos: uno pone el camino, Él pone lo que falta."
       ],
       "correctAnswer": 3
     }

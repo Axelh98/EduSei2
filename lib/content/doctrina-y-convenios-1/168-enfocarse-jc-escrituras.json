@@ -4,9 +4,8 @@
     {
       "tipo": "contexto",
       "contenido": [
-        "Las Escrituras tienen muchos contenidos: historia, leyes, genealogías, profecías, cartas. ¿Cómo no perderse en los detalles y llegar al corazón del mensaje? El Señor dijo en Juan 5:39: 'Escudriñad las Escrituras... ellas son las que dan testimonio de mí.' El centro de toda la Escritura es Jesucristo.",
-        "Esta lección enseña técnicas prácticas para mantener ese enfoque al estudiar: buscar deliberadamente referencias al Salvador, Su Expiación, Sus atributos, Sus promesas, y Sus invitaciones. Cualquier pasaje de la Escritura —sea del Antiguo Testamento, el Libro de Mormón, D&C o el Nuevo Testamento— tiene algo que revelar sobre el Salvador si sabemos cómo buscarlo.",
-        "Estudiar las Escrituras con este enfoque transforma la experiencia de lectura. Deja de ser un ejercicio académico de completar capítulos y se convierte en una conversación con el Salvador. Cada imagen, cada tipo, cada promesa cobra nueva vida cuando se entiende en relación a Él."
+        "Las Escrituras tienen muchos contenidos: historia, leyes, genealogías, profecías, cartas. ¿Cómo no perderse en los detalles y llegar al corazón del mensaje? El Señor dijo en Juan 5:39: «Escudriñad las Escrituras […] ellas son las que dan testimonio de mí». El centro de toda la Escritura es Jesucristo. Esta lección enseña técnicas prácticas para mantener ese enfoque al estudiar: buscar deliberadamente referencias al Salvador, Su Expiación, Sus atributos, Sus promesas y Sus invitaciones. Cualquier pasaje —del Antiguo Testamento, del Libro de Mormón, de Doctrina y Convenios o del Nuevo Testamento— tiene algo que revelar sobre Él si sabemos cómo buscarlo.",
+        "Estudiar las Escrituras con este enfoque transforma la experiencia de lectura. Deja de ser un ejercicio académico de completar capítulos y se convierte en una conversación con el Salvador. Cada imagen, cada tipo, cada promesa cobra nueva vida cuando se entiende en relación con Él. Y eso cambia algo muy concreto: la mayoría de los jóvenes que abandonan el estudio diario no lo hacen porque les falte tiempo, sino porque no encuentran nada que les hable. Buscar a Cristo en el texto es, antes que una técnica devocional, la respuesta práctica a esa sensación de estar leyendo un libro que no dice nada."
       ]
     },
     {
@@ -33,7 +32,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El centro de toda la Escritura es Jesucristo. Cuando estudiamos los textos sagrados buscando deliberadamente Su presencia —en tipologías, en promesas, en Sus atributos, en Sus invitaciones— el estudio se convierte en un encuentro real con el Salvador. Esta semana, elegí un capítulo de las Escrituras que conozcas bien y leelo de nuevo buscando específicamente qué revela sobre el Salvador que quizás no habías notado antes."
+      "contenido": [
+        "El centro de toda la Escritura es Jesucristo. Cuando estudiamos los textos sagrados buscando deliberadamente Su presencia —en tipologías, en promesas, en Sus atributos, en Sus invitaciones— el estudio se convierte en un encuentro real con el Salvador. Volvé a un capítulo que ya conozcas de memoria, uno que creas agotado, y leelo entero con una sola pregunta en la mano: ¿qué dice este pasaje sobre Él? Anotá lo que encuentres al margen; ahí empieza a cambiar tu manera de leer."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -42,43 +43,44 @@
         "¿Qué significa 'aplicar las Escrituras a vos mismo' como enseña 1 Nefi 19:23? ¿Cómo se hace eso en la práctica?",
         "¿Cómo cambia la experiencia de leer las Escrituras cuando buscás deliberadamente a Cristo en cada pasaje?",
         "¿Qué técnica concreta podrías usar la próxima vez que estudies para mantener el enfoque en el Salvador?",
-        "¿Qué pasaje de las Escrituras que conocés bien podría revelarte algo nuevo sobre el Salvador si lo relees con ese enfoque?"
+        "¿Qué pasaje de las Escrituras que conocés bien podría revelarte algo nuevo sobre el Salvador si lo relees con ese enfoque?",
+        "¿Qué capítulo concreto vas a releer con esa pregunta, y qué día de esta semana lo vas a hacer?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuándo fue la última vez que leíste las Escrituras y sentiste que te estaban hablando directamente a vos? ¿Qué estabas leyendo?",
+      "question": "Sofía dice que dejó de leer las Escrituras porque «no le decían nada»: terminaba los capítulos sin llevarse nada. Según el enfoque que enseña esta lección, ¿cuál es el cambio más útil que puede hacer?",
       "options": [
-        "Pasajes históricos del Antiguo Testamento sobre guerras y genealogías",
-        "Un versículo que describía exactamente lo que estaba viviendo o necesitaba escuchar",
-        "Las oraciones de la Santa Cena porque las conozco de memoria",
-        "Nunca sentí que las Escrituras me hablaran directamente"
+        "Reemplazar el estudio personal por la lectura en familia, donde alguien más explica el contenido.",
+        "Aumentar la cantidad de capítulos diarios hasta que el hábito se vuelva automático.",
+        "Leer buscando de forma deliberada qué revela el pasaje sobre el Salvador, en vez de solo avanzar en el texto.",
+        "Cambiar a un libro de Escritura más corto para poder terminarlo y sentir progreso."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Juan 5:39 dice que las Escrituras 'dan testimonio de mí' — refiriéndose a Cristo. ¿Qué cambia en tu lectura cuando buscás deliberadamente a Cristo en cada pasaje?",
       "options": [
-        "La lectura se vuelve más lenta y difícil de completar",
-        "Cada historia, profecía o ley cobra un significado más profundo al relacionarse con el Salvador",
         "Solo los pasajes del Nuevo Testamento revelan algo sobre Cristo",
-        "La búsqueda de Cristo solo aplica cuando el pasaje lo menciona explícitamente"
+        "La búsqueda de Cristo solo aplica cuando el pasaje lo menciona explícitamente",
+        "La lectura se vuelve más lenta y difícil de completar",
+        "Cada historia, profecía o ley cobra un significado más profundo al relacionarse con el Salvador"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "1 Nefi 19:23 invita a 'aplicar las Escrituras a vos mismo'. ¿Qué significa eso en la práctica para una situación concreta que estás viviendo ahora?",
+      "question": "1 Nefi 19:23 dice que Nefi comparó todas las Escrituras a su pueblo «para nuestro provecho e instrucción». ¿Qué significa aplicar ese método a un pasaje del Antiguo Testamento?",
       "options": [
-        "Cambiar las palabras del texto para que mencionen tu nombre directamente",
-        "Preguntar al leer: '¿qué principio de este versículo aplica a mi situación esta semana?'",
-        "Buscar en las Escrituras versículos que mencionen exactamente lo que me está pasando",
-        "Leer solo los pasajes que hablan de situaciones similares a la mía"
+        "Preguntarse qué muestra ese relato sobre el Salvador y qué exige de quien lo lee hoy.",
+        "Reemplazar el sentido original del texto por la interpretación que resulte más cómoda.",
+        "Estudiar el contexto histórico hasta poder reconstruir con precisión lo que ocurrió.",
+        "Suponer que los hechos narrados volverán a repetirse igual en la vida del lector."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -93,25 +95,36 @@
     },
     {
       "id": 5,
-      "question": "¿Qué pasaje de las Escrituras que ya conocés bien podrías releer esta semana buscando algo sobre el Salvador que quizás no habías notado antes?",
+      "question": "Mateo relee el relato de José en Egipto y nota que fue vendido por sus hermanos, injustamente encarcelado y después llegó a salvar a su familia del hambre. ¿Qué encontró, según el enfoque de esta lección?",
       "options": [
-        "Un pasaje del Antiguo Testamento que normalmente veo como solo histórico",
-        "Las oraciones de la Santa Cena en D&C 20:77–79 buscando qué revelan sobre el Salvador",
-        "Los artículos de fe que me sé de memoria pero sin reflexionar en ellos",
-        "Cualquier pasaje que haya leído antes sin quedarme con algo concreto"
+        "Un episodio histórico que conviene estudiar aparte del resto de la Escritura.",
+        "Una coincidencia narrativa sin mayor peso doctrinal dentro del relato.",
+        "Un tipo de Cristo: el rechazado por los suyos que termina siendo quien los salva.",
+        "Una lección exclusivamente moral sobre la paciencia ante la injusticia."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "El presidente Nelson invitó a estudiar «todo lo que Jesucristo es», atendiendo a lo que cada uno de Sus títulos y nombres significa personalmente. ¿Qué práctica de estudio se desprende directamente de esa invitación?",
+      "options": [
+        "Concentrar el estudio en el Nuevo Testamento, donde esos títulos aparecen con más frecuencia.",
+        "Elegir un solo título preferido y usarlo siempre en la oración personal.",
+        "Memorizar la mayor cantidad posible de títulos del Salvador en el orden en que aparecen.",
+        "Detenerse en un título —Abogado, Buen Pastor, Redentor— y rastrear qué hace Él bajo ese nombre en los pasajes que se leen."
       ],
       "correctAnswer": 3
     },
     {
-      "id": 6,
-      "question": "El estudio centrado en Cristo transforma las Escrituras de un libro antiguo a una conversación con el Salvador. ¿Qué hábito concreto adoptarías para mantener ese enfoque en tus lecturas diarias?",
+      "id": 7,
+      "question": "Juan 5:39 dice que las Escrituras dan testimonio de Cristo, y 1 Nefi 19:23 muestra a Nefi comparándolas consigo mismo y con su pueblo. ¿Qué principio común sobre el estudio de las Escrituras surge de los dos pasajes juntos?",
       "options": [
-        "Leer siempre de rodillas para mantener el espíritu de reverencia",
-        "Empezar cada sesión de estudio con una pregunta sobre el Salvador o una oración específica pidiendo verlo en el texto",
-        "Leer únicamente los versículos que el maestro de Seminario asignó",
-        "Escuchar los capítulos en audio para que entre mejor"
+        "Que el propósito del texto se cumple cuando lleva al lector a Cristo y toca su vida concreta.",
+        "Que cada pasaje tiene un único sentido correcto, fijado de antemano.",
+        "Que el estudio personal rinde más cuando se hace en grupo que a solas.",
+        "Que el texto solo se entiende bien cuando se conoce su contexto histórico completo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

@@ -1,81 +1,134 @@
 {
   "id": "doctrina-y-convenios-84-1-32",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En septiembre de 1832, con los primeros misioneros volviendo de sus viajes y la Iglesia creciendo, el Señor reveló Doctrina y Convenios 84. La sección explica de dónde viene la autoridad para actuar en Su nombre y qué hace esa autoridad cuando se ejerce.",
+        "El centro está en los versículos 19 al 22: el sacerdocio mayor «administra el evangelio y posee la llave […] del conocimiento de Dios», y «en sus ordenanzas se manifiesta el poder de la divinidad». No dice que las ordenanzas recuerden ese poder ni que lo simbolicen: dice que se manifiesta en ellas. El bautismo, la confirmación, la Santa Cena y las ordenanzas del templo no son ceremonias conmemorativas; son el punto donde el poder de Dios entra en la vida de una persona.",
+        "El élder Neil L. Andersen contó que en sus viajes los jóvenes le hacen siempre las mismas preguntas: «¿Me ayudará Dios? ¿Guiará Él mi vida? ¿Cómo puedo recibir la ayuda que necesito?». La respuesta de la sección 84 es concreta y está más cerca de lo que parece: pasa cada domingo, en una mesa con pan y agua."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 84:19–20",
+          "texto": "Y este sacerdocio mayor administra el evangelio y posee la llave de los misterios del reino, sí, la llave del conocimiento de Dios. Así que, en sus ordenanzas se manifiesta el poder de la divinidad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p19-p20#p19"
+        },
+        {
+          "referencia": "Doctrina y Convenios 84:21–22",
+          "texto": "Y sin sus ordenanzas y la autoridad del sacerdocio, el poder de la divinidad no se manifiesta a los hombres en la carne; porque sin esto, ningún hombre puede ver la faz de Dios, sí, el Padre, y vivir.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p21-p22#p21"
+        },
+        {
+          "referencia": "Doctrina y Convenios 84:46",
+          "texto": "Y el Espíritu da luz a todo hombre que viene al mundo; y el Espíritu ilumina a todo hombre en el mundo que escucha la voz del Espíritu.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p46#p46"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Neil L. Andersen",
+      "fuente": "«El poder de la divinidad por medio de las ordenanzas y bendiciones del sacerdocio», Para la Fortaleza de la Juventud, agosto de 2021, pág. 10",
+      "texto": "Mis queridos y jóvenes amigos, Dios va a ayudarlos y está listo para bendecirlos. Él es nuestro Padre amoroso y nos ha dado ordenanzas que nos ayudan a sentir Su poder en nuestra vida: el poder de la divinidad.",
+      "link": "https://www.churchofjesuschrist.org/study/ftsoy/2021/08/05_the-power-of-godliness-through-priesthood-ordinances-and-blessings?lang=spa&id=p2#p2"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "«En sus ordenanzas se manifiesta el poder de la divinidad» convierte a la Santa Cena en algo distinto de un momento de silencio semanal. Es el lugar donde el poder de Dios entra en una vida, y ese lugar está disponible todos los domingos, gratis y sin requisitos extraordinarios. Este domingo llegá a la reunión sabiendo qué vas a pedir en esos minutos: una cosa concreta que necesitás que Dios cambie en vos, y prestá atención a lo que pasa durante la semana siguiente."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "El élder Andersen dice que los jóvenes le preguntan «¿me ayudará Dios?». ¿Es una pregunta que te hiciste vos alguna vez?",
+        "Según Doctrina y Convenios 84:20, ¿dónde se manifiesta el poder de la divinidad?",
+        "¿Qué diferencia hay entre pensar la Santa Cena como un recordatorio y pensarla como el lugar donde entra el poder de Dios?",
+        "¿Cuál de las ordenanzas que ya recibiste sentís que entendés menos de lo que te gustaría?",
+        "¿Qué cosa concreta necesitás que el Señor cambie en vos ahora mismo?",
+        "Este domingo, ¿qué vas a pedir específicamente durante la Santa Cena, y cómo te vas a acordar de hacerlo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseña DyC 84:20–22 sobre las ordenanzas del sacerdocio?",
+      "question": "Según Doctrina y Convenios 84:19, ¿qué posee el sacerdocio mayor además de administrar el evangelio?",
       "options": [
-        "En sus ordenanzas se manifiesta el poder de la divinidad",
-        "Las ordenanzas son solo simbólicas",
-        "Las ordenanzas no tienen relación con la salvación",
-        "Las ordenanzas son opcionales"
+        "El derecho de recibir revelación para toda la humanidad.",
+        "La responsabilidad de preservar los registros sagrados.",
+        "La llave de los misterios del reino, es decir, la llave del conocimiento de Dios.",
+        "La autoridad para dirigir los asuntos temporales de la Iglesia."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿Qué significa el “sacerdocio mayor administra el Evangelio” según DyC 84:19?",
+      "question": "Doctrina y Convenios 84:20 dice que «en sus ordenanzas se manifiesta el poder de la divinidad». ¿Qué afirma exactamente ese versículo?",
       "options": [
-        "El Sacerdocio de Melquisedec administra las ordenanzas necesarias para la salvación y exaltación",
-        "El sacerdocio menor tiene toda la autoridad",
-        "No hay diferencia entre sacerdocios",
-        "El sacerdocio es solo una tradición"
+        "Que las ordenanzas son requisitos formales para pertenecer a la Iglesia.",
+        "Que el poder divino se concede en proporción a la dignidad de quien oficia.",
+        "Que las ordenanzas recuerdan el poder de Dios a quienes participan de ellas.",
+        "Que el poder de Dios se manifiesta en las ordenanzas mismas, y no solo se representa en ellas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Qué son los “misterios de Dios” según la Guía para el Estudio de las Escrituras?",
+      "question": "Según Doctrina y Convenios 84:21–22, ¿qué ocurre sin las ordenanzas y la autoridad del sacerdocio?",
       "options": [
-        "Verdades espirituales reveladas por Dios",
-        "Secretos humanos",
-        "Conocimientos científicos",
-        "Tradiciones culturales"
+        "El poder de la divinidad no se manifiesta a los hombres en la carne.",
+        "La Iglesia pierde su capacidad de organizarse.",
+        "Las revelaciones personales dejan de ser confiables.",
+        "Las bendiciones llegan igual, aunque con menor intensidad."
       ],
       "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué ordenanza brinda acceso inicial al poder de la divinidad en la vida de una persona?",
+      "question": "El élder Andersen escribió que Dios «está listo para bendecirlos» y que las ordenanzas nos ayudan a sentir Su poder. ¿Qué respuesta da esa enseñanza a un joven que pregunta si Dios lo va a ayudar?",
       "options": [
-        "El bautismo",
-        "La Santa Cena",
-        "El matrimonio",
-        "El ayuno"
+        "Que la ayuda llega cuando la persona alcanza cierto grado de dignidad.",
+        "Que la ayuda ya está disponible, y las ordenanzas son la vía concreta por la que se recibe.",
+        "Que la ayuda depende de la intensidad con que se la pida en oración.",
+        "Que conviene esperar una señal antes de contar con esa ayuda."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué bendición se recibe al obtener el don del Espíritu Santo?",
+      "question": "Nicolás asiste a la reunión sacramental cada domingo, pero dice que para él es «el rato más aburrido de la semana» y que no cambia nada. Según Doctrina y Convenios 84:20, ¿qué está pasando por alto?",
       "options": [
-        "Acceso al poder de la divinidad y guía constante",
-        "Riquezas materiales",
-        "Reconocimiento social",
-        "Evitar toda dificultad"
+        "Que conviene asistir con menos frecuencia para valorarla más.",
+        "Que la ordenanza tiene efecto por sí sola, con independencia de la participación.",
+        "Que ese es precisamente el momento en que el poder de Dios se manifiesta, y participar con intención cambia lo que recibe.",
+        "Que la reunión mejora si el discurso es interesante."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 6,
-      "question": "¿Qué nos recuerda la Santa Cena según la lección?",
+      "question": "Lucía va a recibir una bendición del sacerdocio y no sabe qué esperar. Según lo que enseña esta lección, ¿cuál es la expectativa más fiel a la doctrina?",
       "options": [
-        "El sacrificio de Jesucristo y cómo acceder a Su poder",
-        "La historia de Israel",
-        "La importancia de la cultura",
-        "El valor de la amistad"
+        "Que el efecto depende de la fe de quien la pronuncia.",
+        "Que conviene pedirla solo en situaciones muy graves.",
+        "Que la bendición resolverá el problema por el que la pide.",
+        "Que es una ocasión en la que el poder de Dios se manifiesta, aunque la forma y el momento de la ayuda los decide Él."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 7,
-      "question": "¿Qué enseñó el élder Neil L. Andersen sobre las ordenanzas?",
+      "question": "Doctrina y Convenios 84:20 sitúa el poder de la divinidad en las ordenanzas, y 84:46 dice que el Espíritu ilumina a todo hombre que escucha Su voz. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Que nos ayudan a sentir el poder de la divinidad en nuestra vida",
-        "Que son solo costumbres",
-        "Que no tienen relevancia actual",
-        "Que son opcionales"
+        "Que Dios usa medios concretos y accesibles —ordenanzas y la voz del Espíritu— para llegar a las personas.",
+        "Que las ordenanzas reemplazan la necesidad de escuchar al Espíritu.",
+        "Que la luz del Espíritu se limita a los miembros de la Iglesia.",
+        "Que el poder divino se manifiesta solo en circunstancias extraordinarias."
       ],
       "correctAnswer": 0
     }

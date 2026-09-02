@@ -28,7 +28,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Los mensajes de la Conferencia General son 'la voluntad del Señor, la mente del Señor, la palabra del Señor' (D&C 68:4) cuando son dados por el Espíritu. Estudiarlos con técnicas concretas —identificar el principio central, las Escrituras de fundamento, y la invitación a la acción— transforma esos mensajes en guía personal específica para tu vida. Esta semana, elegí un discurso reciente de la Conferencia General y estudíalo con ese proceso. Escribí qué vas a hacer diferente como resultado."
+      "contenido": [
+        "Los mensajes de la conferencia general son «la voluntad del Señor, la mente del Señor, la palabra del Señor» (Doctrina y Convenios 68:4) cuando se dan por el Espíritu. Estudiarlos con técnicas concretas —identificar el principio central, las Escrituras que los sostienen y la invitación a la acción— los convierte en guía personal específica. Tomá un discurso de la última conferencia, trabajalo con ese proceso y escribí al final una sola frase: qué vas a hacer distinto, y para cuándo."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -37,7 +39,8 @@
         "Según D&C 68:4, ¿qué condición hace que las palabras de los siervos del Señor sean equivalentes a Su Palabra?",
         "¿Qué herramientas concretas podrías usar para estudiar un discurso de la Conferencia General de forma más profunda?",
         "¿Qué discurso reciente de la Conferencia General más te habló? ¿Cuál fue la invitación a la acción que encontraste en él?",
-        "¿Qué mensaje de la Conferencia General vas a estudiar esta semana? ¿Cuándo y cómo lo harás?"
+        "¿Qué mensaje de la Conferencia General vas a estudiar esta semana? ¿Cuándo y cómo lo harás?",
+        "¿En qué día y a qué hora de esta semana vas a sentarte con ese discurso, y dónde vas a anotar lo que decidas hacer?"
       ]
     }
   ],
@@ -46,34 +49,34 @@
       "id": 1,
       "question": "¿Cuál es la diferencia más concreta entre escuchar un discurso de la Conferencia General y estudiarlo?",
       "options": [
+        "No hay diferencia real si prestás atención mientras escuchás",
         "Escuchar es más rápido; estudiar toma más tiempo pero produce los mismos resultados",
         "Escuchar lo pasa; estudiar lo integra — encontrás el principio central, las Escrituras de base y la acción concreta que te pide",
-        "Estudiar solo aplica a estudiantes de Seminario, no a todos los miembros",
-        "No hay diferencia real si prestás atención mientras escuchás"
+        "Estudiar solo aplica a estudiantes de Seminario, no a todos los miembros"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "D&C 68:4 dice que cuando los siervos del Señor hablan por el Espíritu, sus palabras son 'la voluntad del Señor, la mente del Señor, la palabra del Señor'. ¿Qué condición incluye esa promesa?",
       "options": [
-        "Que el orador tenga un cargo específico como apóstol o profeta",
-        "Que hablen 'por el Espíritu Santo' — lo que implica que la autoridad viene del Espíritu, no solo del cargo",
         "Que los miembros estén de acuerdo con lo que se dice antes de que sea válido",
-        "Que el discurso sea publicado oficialmente por la Iglesia después"
+        "Que el discurso sea publicado oficialmente por la Iglesia después",
+        "Que el orador tenga un cargo específico como apóstol o profeta",
+        "Que hablen 'por el Espíritu Santo' — lo que implica que la autoridad viene del Espíritu, no solo del cargo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Qué discurso reciente de la Conferencia General más te habló? ¿Cuál fue la invitación a la acción que encontraste en él?",
+      "question": "Doctrina y Convenios 68:4 dice que lo que los siervos del Señor hablan «cuando son inspirados por el Espíritu Santo» es voluntad, palabra y voz del Señor. Al estudiar un discurso, ¿qué se desprende de esa condición?",
       "options": [
-        "El discurso más emotivo porque fue el que más me movió sentimentalmente",
-        "El discurso que contenía un principio o invitación directamente aplicable a algo que estoy viviendo",
-        "El discurso más largo porque probablemente tenía más información importante",
-        "Todavía no encontré ningún discurso de la Conferencia que me hable directamente"
+        "Que el peso del mensaje viene del Espíritu que lo inspiró, y por eso merece un estudio comparable al de un pasaje de Escritura.",
+        "Que solo los discursos del profeta tienen esa categoría, y los del resto son opiniones autorizadas.",
+        "Que un discurso vale mientras coincida con lo que uno ya pensaba antes de escucharlo.",
+        "Que conviene evaluar cada discurso según la elocuencia del orador antes de aplicarlo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -90,23 +93,34 @@
       "id": 5,
       "question": "¿Qué discurso de la Conferencia General vas a estudiar esta semana? ¿Cuándo específicamente lo harás y qué proceso usarás?",
       "options": [
+        "Solo si tengo tiempo libre después de todas las otras obligaciones",
         "El que aparezca primero en la aplicación cuando la abra",
         "Uno que elija deliberadamente relacionado con una pregunta o área de crecimiento que tengo, con un tiempo definido",
-        "Esperar a que el maestro de Seminario asigne uno para no duplicar esfuerzos",
-        "Solo si tengo tiempo libre después de todas las otras obligaciones"
+        "Esperar a que el maestro de Seminario asigne uno para no duplicar esfuerzos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
-      "question": "El presidente Hinckley dijo que tenemos acceso a 'la palabra del Señor revelada en esta dispensación'. ¿Por qué esa abundancia de revelación debería generar más responsabilidad, no solo más información?",
+      "question": "El presidente Nelson señaló que quienes discursan en la conferencia centran sus mensajes en Jesucristo, y que «nunca ha habido una época en la historia del mundo en la que el conocimiento de nuestro Salvador fuera más vital». ¿Qué responsabilidad genera tener ese acceso?",
       "options": [
-        "Porque más información significa que seremos juzgados más estrictamente",
-        "Porque a quienes más se les da, más se les requerirá — y tener acceso a esa guía e ignorarla es una elección activa",
-        "Porque el acceso a revelación nos hace superiores espiritualmente a otras personas",
-        "Porque la responsabilidad solo aplica a los que estudian teología formalmente"
+        "Que el acceso a la revelación coloca a los miembros por encima de otras personas.",
+        "Que la responsabilidad recae sobre quienes estudian el evangelio de manera formal.",
+        "Que seremos juzgados con más severidad por el solo hecho de recibir más información.",
+        "Que a quienes más se les da, más se les requiere: tener la guía disponible e ignorarla es una decisión activa."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 68:4 condiciona la equivalencia entre la palabra de los siervos y la del Señor a que hablen «movidos por el Espíritu Santo», y el presidente Nelson señaló que los oradores de la conferencia centran sus mensajes en Jesucristo. ¿Qué principio común forman ambas cosas?",
+      "options": [
+        "Que lo que hace que un mensaje sea palabra del Señor es su origen y su centro, no la elocuencia de quien lo da.",
+        "Que todo discurso pronunciado por un líder de la Iglesia tiene rango de Escritura.",
+        "Que conviene escuchar solamente a los oradores de mayor jerarquía.",
+        "Que la autoridad del mensaje depende del cargo que ocupa quien lo pronuncia."
+      ],
+      "correctAnswer": 0
     }
   ]
 }

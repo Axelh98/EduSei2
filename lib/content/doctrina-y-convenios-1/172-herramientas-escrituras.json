@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La Iglesia ha puesto a disposición de sus miembros un conjunto de herramientas de estudio extraordinariamente poderoso, tanto en formato físico como digital a través de la aplicación Gospel Library. Esta lección introduce o refuerza el uso de esas herramientas: la Guía para el Estudio de las Escrituras, los encabezados y notas al pie, las referencias cruzadas, los mapas, la concordancia, el índice temático, los recursos de estudio en Gospel Library y el Diario de Estudio. El objetivo no es que los alumnos conozcan las herramientas superficialmente sino que las usen con habilidad en su estudio personal. Un estudiante que domina estas herramientas puede responder sus propias preguntas espirituales con independencia, profundidad y con el Espíritu — sin depender de que alguien le dé las respuestas."
+      "contenido": [
+        "La Iglesia puso a disposición de sus miembros un conjunto de herramientas de estudio muy poderoso, en formato impreso y digital a través de la aplicación Biblioteca del Evangelio. Esta lección introduce o refuerza su uso: la Guía para el Estudio de las Escrituras, los encabezamientos y las notas al pie, las referencias cruzadas, los mapas, la concordancia, el índice temático, los recursos de estudio de la aplicación y el diario de estudio.",
+        "El objetivo no es conocer las herramientas por encima, sino usarlas con soltura en el estudio personal. Un alumno que las domina puede responder sus propias preguntas espirituales con independencia y profundidad, sin depender de que alguien le dé la respuesta. Eso importa más de lo que parece: dentro de unos años, cuando aparezca una pregunta difícil un martes a la noche y no haya ningún maestro cerca, la diferencia entre quedarse con la duda y encontrar una respuesta va a estar en si sabés buscar o no."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -29,7 +32,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Dominar las herramientas de estudio de las Escrituras es una inversión que rinde dividendos espirituales por toda la vida. Cada minuto que pasás aprendiendo a usar la Guía, las referencias cruzadas o Gospel Library es un minuto que multiplicará el valor de cada sesión de estudio futura. Esta semana, elegí una herramienta que no usás habitualmente y practicá con ella. El objetivo es salir de esta lección con una herramienta más en tu repertorio de estudio personal."
+      "contenido": [
+        "Dominar las herramientas de estudio de las Escrituras es una inversión que rinde por el resto de la vida. Cada minuto que dedicás a aprender a usar la Guía para el Estudio de las Escrituras, las referencias cruzadas o la Biblioteca del Evangelio multiplica el valor de todas las sesiones de estudio que vengan después. Tomá una herramienta que hoy no usás y buscá con ella una sola cosa concreta antes del domingo; el objetivo es salir de esta lección con una herramienta más en tu repertorio, no con una lista de herramientas que conocés de nombre."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -38,7 +43,8 @@
         "¿Alguna vez usaste una referencia cruzada o una nota al pie que te ayudó a entender un versículo de una manera completamente nueva? ¿Cuál fue?",
         "¿Qué función de Gospel Library todavía no dominás bien y que podría mejorar tu estudio personal?",
         "Esta semana, tomá un versículo de las lecciones recientes y usá al menos dos herramientas para estudiarlo en profundidad. ¿Qué encontraste que no sabías?",
-        "¿Cómo podría dominar las herramientas de estudio ayudarte a responder tus propias preguntas espirituales con más independencia?"
+        "¿Cómo podría dominar las herramientas de estudio ayudarte a responder tus propias preguntas espirituales con más independencia?",
+        "Elegí una herramienta que casi no usás y buscá con ella una sola cosa esta semana. ¿Cuál elegís y qué vas a buscar?"
       ]
     }
   ],
@@ -69,34 +75,34 @@
       "id": 3,
       "question": "El élder Scott enseñó que si no se registran las impresiones del Espíritu al estudiar, se pierden. ¿Qué función de Gospel Library responde a esa necesidad directamente?",
       "options": [
-        "La función de subrayado y notas personales que permite anotar impresiones junto al versículo.",
-        "La función de descarga de discursos en audio para escuchar mientras se hace otra cosa.",
         "La función de compartir versículos en redes sociales con un solo toque.",
-        "La función de estadísticas de lectura que muestra cuántos capítulos has leído."
+        "La función de estadísticas de lectura que muestra cuántos capítulos has leído.",
+        "La función de subrayado y notas personales que permite anotar impresiones junto al versículo.",
+        "La función de descarga de discursos en audio para escuchar mientras se hace otra cosa."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Por qué conocer las herramientas de estudio de las Escrituras produce independencia espiritual — y eso es algo valioso para un joven?",
       "options": [
-        "Porque la independencia espiritual significa no necesitar a los líderes de la Iglesia.",
-        "Porque un estudiante que domina las herramientas puede responder sus propias preguntas espirituales y no depender de que alguien siempre le dé las respuestas — eso construye fe robusta, no frágil.",
         "Porque las herramientas de estudio reemplazan la necesidad de la oración.",
-        "Porque dominar las herramientas produce reconocimiento intelectual en la clase de Seminario."
+        "Porque dominar las herramientas produce reconocimiento intelectual en la clase de Seminario.",
+        "Porque la independencia espiritual significa no necesitar a los líderes de la Iglesia.",
+        "Porque un estudiante que domina las herramientas puede responder sus propias preguntas espirituales y no depender de que alguien siempre le dé las respuestas — eso construye fe robusta, no frágil."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Renata dice que 'no entiende un versículo de D&C que leyó esta mañana'. ¿Cuál sería el proceso correcto usando las herramientas de la lección, antes de rendirse o preguntar a alguien?",
       "options": [
-        "Leerlo en voz alta varias veces hasta que el significado aparezca.",
-        "Buscar el versículo en Google para ver qué dicen los comentaristas populares.",
         "Usar las notas al pie y referencias cruzadas de ese versículo, buscar el término en la Guía para el Estudio, y leer los versículos antes y después para entender el contexto.",
-        "Esperar la próxima clase de Seminario para que el maestro lo explique."
+        "Esperar la próxima clase de Seminario para que el maestro lo explique.",
+        "Leerlo en voz alta varias veces hasta que el significado aparezca.",
+        "Buscar el versículo en Google para ver qué dicen los comentaristas populares."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -113,12 +119,12 @@
       "id": 7,
       "question": "D&C 88:118 ('buscar conocimiento con el estudio y la fe') y 2 Timoteo 2:15 ('usar bien la palabra de verdad') juntos describen el tipo de estudiante de Escrituras que el Señor busca. ¿Cuál es ese perfil?",
       "options": [
+        "Alguien que puede defender las doctrinas de la Iglesia en debates intelectuales.",
         "Alguien que memoriza grandes cantidades de texto bíblico con precisión académica.",
         "Alguien que combina el esfuerzo activo del estudio —usando todas las herramientas disponibles— con la fe que abre el entendimiento, y que aplica lo que aprende con integridad.",
-        "Alguien que lee las Escrituras todos los días sin interrupción, independientemente de la comprensión.",
-        "Alguien que puede defender las doctrinas de la Iglesia en debates intelectuales."
+        "Alguien que lee las Escrituras todos los días sin interrupción, independientemente de la comprensión."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

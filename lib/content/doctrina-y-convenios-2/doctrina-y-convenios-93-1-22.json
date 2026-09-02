@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-93-1-22",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Doctrina y Convenios 93 empieza con una promesa enorme y una condición precisa: «toda alma que deseche sus pecados y venga a mí, invoque mi nombre, obedezca mi voz y guarde mis mandamientos, verá mi faz y sabrá que yo soy». Cuatro verbos, y después la promesa más grande que se le puede hacer a alguien.",
+        "Después el Señor revela algo que casi ninguna otra Escritura dice: cómo llegó Jesucristo a ser lo que es. «No recibió de la plenitud al principio, sino que continuó de gracia en gracia hasta que recibió la plenitud» (versículo 13). El Salvador, siendo quien era, creció. No apareció completo: fue recibiendo, paso a paso.",
+        "Y ahí está el punto para cualquier alumno. El versículo 20 aplica el mismo patrón a nosotros: «si guardáis mis mandamientos, recibiréis de su plenitud […]; recibiréis gracia sobre gracia». El camino de Él es el camino nuestro, en escala distinta. Nadie está atrasado por no ser todavía lo que quiere ser; así funciona el proceso, incluso para Él."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 93:1",
+          "texto": "De cierto, así dice el Señor: Acontecerá que toda alma que deseche sus pecados y venga a mí, invoque mi nombre, obedezca mi voz y guarde mis mandamientos, verá mi faz y sabrá que yo soy.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 93:12–13",
+          "texto": "Y yo, Juan, vi que no recibió de la plenitud al principio, mas recibía gracia sobre gracia; y no recibió de la plenitud al principio, sino que continuó de gracia en gracia hasta que recibió la plenitud.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p12-p13#p12"
+        },
+        {
+          "referencia": "Doctrina y Convenios 93:20",
+          "texto": "Porque si guardáis mis mandamientos, recibiréis de su plenitud y seréis glorificados en mí como yo lo soy en el Padre; por lo tanto, os digo, recibiréis gracia sobre gracia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p20#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Si me conocierais», Conferencia General, octubre de 2016 (Liahona, noviembre de 2016, págs. 103–105)",
+      "texto": "Comenzamos a conocer al Salvador cuando avivamos nuestras facultades espirituales y ponemos en práctica Sus enseñanzas hasta dar cabida en nuestra vida a una porción de Sus palabras. […] Seguimos conociendo al Señor cuando procuramos llegar a ser como Él mediante el poder de Su expiación.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2016/10/if-ye-had-known-me?lang=spa&id=p20#p20"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Que el Salvador mismo «continuó de gracia en gracia» cambia cómo se lee el propio progreso. Si Él recibió de a partes, esperar que nosotros lleguemos completos a algún punto es un error de expectativa, no una falla de carácter. El versículo 20 promete lo mismo para quien guarda los mandamientos: gracia sobre gracia, de a una. Mirá una sola cosa en la que estés un poco mejor que hace seis meses y quedate con eso. Después elegí la siguiente."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te genera saber que el Salvador «no recibió de la plenitud al principio» sino que creció de gracia en gracia?",
+        "Doctrina y Convenios 93:1 pone cuatro condiciones antes de la promesa de ver Su faz. ¿Cuál te parece la más exigente?",
+        "El élder Bednar dice que empezamos a conocer al Salvador poniendo en práctica Sus enseñanzas. ¿Qué enseñanza Suya estás practicando hoy?",
+        "¿En qué estás un poco mejor que hace seis meses? Aunque sea poco.",
+        "¿Hay algo en lo que te exigís llegar completo de una vez, y por eso abandonás?",
+        "¿Cuál es la siguiente porción de gracia que querés recibir? Nombrala y decí qué vas a hacer para buscarla."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseña DyC 93:2 y Juan 8:12 sobre Jesucristo?",
+      "question": "¿Qué cuatro cosas menciona Doctrina y Convenios 93:1 antes de prometer que el alma verá Su faz?",
       "options": [
-        "Él es la luz que da esperanza",
-        "Él es solo un maestro",
-        "Él no tiene poder divino",
-        "Él es un símbolo cultural"
+        "Creer, arrepentirse, bautizarse y recibir el Espíritu Santo.",
+        "Orar, ayunar, estudiar y servir a los demás.",
+        "Escuchar al profeta, asistir al templo, pagar el diezmo y compartir el evangelio.",
+        "Desechar sus pecados, venir a Él, invocar Su nombre y obedecer Su voz guardando Sus mandamientos."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "Según DyC 93:12–14 y Lucas 2:40, 52, ¿qué aprendemos de Jesucristo?",
+      "question": "Según Doctrina y Convenios 93:12–13, ¿cómo describe Juan el proceso por el que pasó Jesucristo?",
       "options": [
-        "Que creció en gracia y conocimiento",
-        "Que nunca cambió",
-        "Que no tuvo infancia",
-        "Que fue solo un mito"
+        "No recibió de la plenitud al principio, sino que continuó de gracia en gracia hasta recibirla.",
+        "Recibió la plenitud en el momento de Su resurrección.",
+        "Alcanzó la plenitud tras completar la Expiación en Getsemaní.",
+        "Recibió la plenitud desde el principio de Su ministerio mortal."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué propósito declara DyC 93:19 para esta revelación?",
+      "question": "Doctrina y Convenios 93:20 aplica a los discípulos el mismo patrón que describió sobre el Salvador. ¿Qué promete?",
       "options": [
-        "Que sepamos a quién adoramos",
-        "Que ignoremos la doctrina",
-        "Que sigamos tradiciones humanas",
-        "Que no busquemos revelación"
+        "Que recibirán la plenitud de una sola vez al guardar los mandamientos.",
+        "Que recibirán de Su plenitud y serán glorificados en Él, recibiendo gracia sobre gracia.",
+        "Que verán Su faz en el momento de su muerte.",
+        "Que su progreso será más rápido que el de quienes no guardan los mandamientos."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué enseñan DyC 93:3 y DyC 130:22 sobre el Padre y el Hijo?",
+      "question": "El élder Bednar enseñó que se comienza a conocer al Salvador «cuando avivamos nuestras facultades espirituales y ponemos en práctica Sus enseñanzas». ¿Qué orden propone esa frase?",
       "options": [
-        "Que son seres reales con gloria y poder",
-        "Que son solo fuerzas",
-        "Que son ideas humanas",
-        "Que no tienen forma"
+        "Es necesario tener una experiencia espiritual antes de poder poner en práctica Sus enseñanzas.",
+        "Primero se comprende plenamente la doctrina y después se la aplica.",
+        "Conocer al Salvador empieza por hacer lo que Él enseñó, no por acumular información sobre Él.",
+        "El conocimiento del Salvador se recibe como un don sin intervención personal."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Benjamín se propuso ser el tipo de persona que quiere ser «de una vez por todas» y abandona cada vez que recae. Según Doctrina y Convenios 93:12–13, ¿qué expectativa tiene equivocada?",
+      "options": [
+        "Pensar que las recaídas son inevitables en cualquier proceso de cambio.",
+        "Suponer que puede lograr el cambio sin ayuda divina.",
+        "Considerar que su meta es demasiado ambiciosa para su edad.",
+        "Creer que el progreso llega completo, cuando el propio Salvador recibió de gracia en gracia."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Ana quiere conocer mejor al Salvador y decide leer todo lo que encuentre sobre Él, pero no cambia nada de su conducta. Según la enseñanza del élder Bednar, ¿qué le falta?",
+      "options": [
+        "Poner en práctica Sus enseñanzas, que es donde empieza el conocerlo.",
+        "Dedicar más tiempo diario a la lectura sobre Su vida.",
+        "Esperar una confirmación espiritual antes de actuar.",
+        "Elegir fuentes de estudio más confiables que las que está usando."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué título de Cristo se refuerza en DyC 93:8 y Alma 38:9?",
+      "id": 7,
+      "question": "Doctrina y Convenios 93:13 dice que el Salvador continuó «de gracia en gracia», y 93:20 promete lo mismo a quienes guardan los mandamientos. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Él es vida y luz del mundo",
-        "Él es solo juez",
-        "Él es únicamente maestro",
-        "Él es símbolo cultural"
+        "Que el crecimiento espiritual concluye cuando se recibe la plenitud.",
+        "Que el camino del Salvador y el de Sus discípulos comparten la misma forma: crecimiento por etapas, no de una sola vez.",
+        "Que los discípulos pueden alcanzar en esta vida la misma plenitud que Él recibió.",
+        "Que la gracia se concede en proporción exacta a los mandamientos cumplidos."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

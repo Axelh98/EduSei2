@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "El evangelio tiene mucho que decir sobre el dinero — no porque el dinero sea malo, sino porque la relación de una persona con el dinero revela mucho sobre la condición de su corazón. El Señor enseñó en D&C 104:78 a salir de deudas, pagar lo que se debe, y vivir dentro de los propios medios. Estos principios son contracorriente en una cultura que promueve el consumo inmediato, el crédito fácil y el estatus a través de las posesiones. Para los jóvenes que están comenzando a manejar dinero propio, esta lección introduce principios que pueden marcar la diferencia entre una vida financiera sana y una llena de estrés y deuda. El diezmo, el ahorro, el evitar deudas innecesarias y la generosidad son principios del evangelio que protegen tanto el bienestar temporal como el espiritual."
+      "contenido": [
+        "El evangelio tiene mucho que decir sobre el dinero, no porque el dinero sea malo, sino porque la relación de una persona con el dinero revela bastante sobre la condición de su corazón. El Señor enseñó en Doctrina y Convenios 104:78 a salir de deudas, pagar lo que se debe y vivir dentro de los propios medios. Son principios contracorriente en una cultura que promueve el consumo inmediato, el crédito fácil y el estatus a través de las posesiones.",
+        "Para los jóvenes que están empezando a manejar dinero propio, esta lección introduce principios que marcan la diferencia entre una vida financiera sana y una llena de estrés y deuda. El diezmo, el ahorro, evitar deudas innecesarias y la generosidad protegen tanto el bienestar temporal como el espiritual. Y la escala no importa tanto como el hábito: quien aprende a apartar el diezmo y algo de ahorro del primer sueldo pequeño lo va a hacer con el primer sueldo grande; el que no, tampoco lo hará después, porque los gastos siempre crecen hasta ocupar todo el espacio disponible."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿Pagás diezmo regularmente? Si sí, ¿qué diferencia hace en tu actitud hacia el dinero? Si no, ¿qué te impide hacerlo?",
         "¿Hay alguna decisión financiera reciente tuya que, mirándola ahora, cambiarías? ¿Qué principio hubieras aplicado?",
         "¿Qué hábito financiero concreto querés desarrollar esta semana — ya sea ahorrar, gastar con más intención, o dar con más generosidad?",
-        "¿Cómo podría una buena administración de tus recursos económicos ahora prepararte mejor para una misión, el matrimonio o la universidad?"
+        "¿Cómo podría una buena administración de tus recursos económicos ahora prepararte mejor para una misión, el matrimonio o la universidad?",
+        "Si registraras durante siete días todo lo que gastás, ¿qué creés que te sorprendería más al mirar la lista? ¿Te animás a hacerlo y verificarlo?"
       ]
     }
   ],
@@ -69,34 +73,34 @@
       "id": 3,
       "question": "El élder Wirthlin enseñó que 'el principio de gastar menos de lo que ganamos parece trivial pero pocas cosas impactan más la calidad de vida familiar'. ¿Por qué ese principio tan simple tiene ese impacto tan profundo?",
       "options": [
+        "Porque el impacto es solo económico, no espiritual ni relacional.",
         "Porque el ahorro produce interés compuesto que multiplica la riqueza automáticamente.",
         "Porque vivir dentro de los medios elimina la fuente principal de estrés financiero — y ese estrés destruye la paz familiar y la capacidad de servir con libertad.",
-        "Porque los que ahorran más reciben mayores bendiciones económicas del Señor.",
-        "Porque el impacto es solo económico, no espiritual ni relacional."
+        "Porque los que ahorran más reciben mayores bendiciones económicas del Señor."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Por qué el diezmo es descrito en el evangelio como un principio de fe y no solo como una obligación económica?",
       "options": [
-        "Porque el Señor necesita ese dinero para financiar Sus operaciones.",
-        "Porque pagar el diezmo cuando es ajustado económicamente demuestra que el Señor está primero — y el Señor prometió en Malaquías 3:10 responder a esa prioridad con bendiciones.",
         "Porque el diezmo es la única forma de saber si alguien tiene fe genuina.",
-        "Porque el diezmo reemplaza al ayuno como la principal demostración de fe en el evangelio."
+        "Porque el diezmo reemplaza al ayuno como la principal demostración de fe en el evangelio.",
+        "Porque el Señor necesita ese dinero para financiar Sus operaciones.",
+        "Porque pagar el diezmo cuando es ajustado económicamente demuestra que el Señor está primero — y el Señor prometió en Malaquías 3:10 responder a esa prioridad con bendiciones."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Tomás recibe dinero de su trabajo de medio tiempo y lo gasta todo en la semana en entretenimiento. Según D&C 104:78 y el principio de administración del evangelio, ¿qué hábito concreto debería desarrollar?",
       "options": [
-        "Dejar de trabajar hasta que tenga suficiente disciplina para administrar bien el dinero.",
-        "Guardar todo el dinero sin gastar nada hasta tener una cantidad significativa.",
         "Separar el diezmo primero, después establecer un porcentaje para ahorro, y administrar el resto — vivir dentro de lo que tiene, no dentro de lo que desea tener.",
-        "Consultar con el obispo para que le diga exactamente cómo gastar cada peso."
+        "Consultar con el obispo para que le diga exactamente cómo gastar cada peso.",
+        "Dejar de trabajar hasta que tenga suficiente disciplina para administrar bien el dinero.",
+        "Guardar todo el dinero sin gastar nada hasta tener una cantidad significativa."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -113,12 +117,12 @@
       "id": 7,
       "question": "D&C 104:78 (saldar deudas) y Malaquías 3:10 (probar al Señor en el diezmo) juntos describen dos dimensiones de la administración fiel. ¿Cuál es el principio integrador?",
       "options": [
-        "Que el Señor solo bendice económicamente a quienes no tienen deudas.",
         "Que pagar el diezmo y saldar deudas son obligaciones independientes sin relación doctrinal.",
         "Que el principio económico del evangelio es idéntico a los principios de finanzas personales seculares.",
-        "Que la administración fiel pone al Señor primero (diezmo) y elimina la dependencia del mundo (deudas) — ambas juntas construyen la libertad económica y espiritual que el evangelio promueve."
+        "Que la administración fiel pone al Señor primero (diezmo) y elimina la dependencia del mundo (deudas) — ambas juntas construyen la libertad económica y espiritual que el evangelio promueve.",
+        "Que el Señor solo bendice económicamente a quienes no tienen deudas."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

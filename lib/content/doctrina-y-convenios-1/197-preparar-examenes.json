@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Los períodos de exámenes y los proyectos grandes son momentos donde muchos jóvenes sienten que su fe y su vida espiritual quedan en segundo plano. Esta lección propone lo opuesto: los principios del evangelio son exactamente las herramientas que hacen más efectivo el estudio intenso. Planificar con anticipación (D&C 88:119 habla de orden), pedir ayuda al Señor antes de estudiar (Santiago 1:5), descansar adecuadamente como responsabilidad con el cuerpo que Dios nos dio, y manejar la ansiedad con fe activa son principios que ningún manual de técnicas de estudio puede ofrecer. Esta lección no busca reemplazar el esfuerzo sino integrarlo con la fe para que el rendimiento académico sea una expresión completa de mayordomía espiritual y temporal."
+      "contenido": [
+        "Los períodos de exámenes y los proyectos grandes son momentos en que muchos jóvenes sienten que su vida espiritual queda en segundo plano. Esta lección propone lo contrario: los principios del evangelio son exactamente las herramientas que hacen más efectivo el estudio intenso. Planificar con anticipación (Doctrina y Convenios 88:119 habla de orden), pedir ayuda al Señor antes de estudiar (Santiago 1:5), descansar como responsabilidad hacia el cuerpo que Dios dio, y manejar la ansiedad con fe activa son cosas que ningún manual de técnicas de estudio ofrece.",
+        "La lección no busca reemplazar el esfuerzo, sino integrarlo con la fe para que el rendimiento académico sea una expresión completa de mayordomía. Conviene ser honesto sobre el orden de los factores: orar la noche anterior no compensa tres semanas sin abrir el cuaderno. Lo que la fe aporta es sostener la constancia mientras falta mucho, calmar la ansiedad que paraliza y dar perspectiva cuando el resultado llega y no es el esperado."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿Alguna vez pediste ayuda al Señor específicamente antes de un examen o proyecto difícil? ¿Qué pasó?",
         "¿Cómo cambia tu nivel de ansiedad frente a un examen cuando te preparás con tiempo vs. cuando lo dejás para el último momento?",
         "Esta semana, ¿qué examen o proyecto difícil tenés por delante? ¿Cómo podrías incorporar la oración y la planificación con fe en tu preparación?",
-        "¿Qué le dirías a un amigo que siente que la fe y el rendimiento académico son cosas separadas?"
+        "¿Qué le dirías a un amigo que siente que la fe y el rendimiento académico son cosas separadas?",
+        "Tomá el próximo examen o entrega importante y partilo en tres sesiones concretas: ¿qué día y a qué hora va cada una?"
       ]
     }
   ],
@@ -80,45 +84,45 @@
       "id": 4,
       "question": "El élder Bednar enseñó que el Señor 'amplifica nuestra capacidad' cuando lo reconocemos. ¿Por qué amplificar es diferente a reemplazar el esfuerzo?",
       "options": [
-        "Amplificar significa que el esfuerzo propio sigue siendo necesario y el Señor lo multiplica; reemplazar significaría que el esfuerzo no importa.",
         "No hay diferencia real — cualquier ayuda del Señor termina haciendo el trabajo por nosotros.",
         "Amplificar aplica al estudio académico; reemplazar aplica solo al estudio espiritual.",
-        "La diferencia es solo semántica y el resultado final es el mismo en ambos casos."
+        "La diferencia es solo semántica y el resultado final es el mismo en ambos casos.",
+        "Amplificar significa que el esfuerzo propio sigue siendo necesario y el Señor lo multiplica; reemplazar significaría que el esfuerzo no importa."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Tomás reza antes de cada examen pidiendo que le 'vaya bien' pero estudia muy poco durante la semana. Según D&C 9:7–8, ¿qué parte del proceso está invirtiendo Tomás?",
       "options": [
-        "Está haciendo exactamente lo correcto — primero la fe, después el esfuerzo.",
         "Está pidiendo sin haber estudiado primero — el Señor confirma el esfuerzo previo, no lo suple cuando se omite.",
         "No hay problema con su proceso siempre que ore con suficiente fe y convicción.",
-        "Debería orar solo después del examen para agradecer, no antes."
+        "Debería orar solo después del examen para agradecer, no antes.",
+        "Está haciendo exactamente lo correcto — primero la fe, después el esfuerzo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Lucía estudia con disciplina pero nunca ora antes de comenzar. Tiene buenas notas pero siente que olvida el material rápido. Según Santiago 1:5, ¿qué podría cambiar si incorporara la oración?",
       "options": [
-        "Sus calificaciones subirían automáticamente porque el Señor intervendría en los exámenes.",
         "No cambiaría nada — la oración no tiene efecto en procesos académicos.",
         "Recibiría sabiduría — no solo información memorizable — que le ayudaría a integrar lo aprendido de manera más duradera.",
-        "El Señor le mostraría qué temas estudiar para que no tenga que revisar todo el material."
+        "El Señor le mostraría qué temas estudiar para que no tenga que revisar todo el material.",
+        "Sus calificaciones subirían automáticamente porque el Señor intervendría en los exámenes."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "D&C 9:7–8 (estudiar primero, luego preguntar) y Santiago 1:5 (pedir sabiduría sin reproche) juntos describen un proceso completo. ¿Cuál es el principio unificador de esas dos enseñanzas?",
       "options": [
-        "Que el Señor hace el trabajo real y el esfuerzo humano es solo una señal de buena intención.",
         "Que la fe elimina la necesidad de esfuerzo sostenido cuando la petición es sincera.",
         "Que el Señor solo ayuda cuando el alumno llega al límite total de sus capacidades.",
-        "Que el esfuerzo va primero y el Señor lo confirma y amplifica — no es esfuerzo sin fe ni fe sin esfuerzo, sino los dos en secuencia."
+        "Que el esfuerzo va primero y el Señor lo confirma y amplifica — no es esfuerzo sin fe ni fe sin esfuerzo, sino los dos en secuencia.",
+        "Que el Señor hace el trabajo real y el esfuerzo humano es solo una señal de buena intención."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

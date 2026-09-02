@@ -1,83 +1,136 @@
 {
   "id": "doctrina-y-convenios-89-1-17",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En febrero de 1833, en una sala sobre la tienda de Newel K. Whitney en Kirtland, los hermanos de la Escuela de los Profetas se reunían a estudiar. Muchos masticaban tabaco y escupían en el piso, y Emma Smith tenía que limpiar después. José preguntó al Señor sobre el asunto y recibió Doctrina y Convenios 89.",
+        "Lo primero que dice la revelación es cómo hay que leerla: fue dada «no por vía de mandamiento ni de constreñimiento, sino […] como un principio con promesa, adaptada a la capacidad del débil y del más débil de todos los santos» (versículos 2–3). El Señor no empezó exigiendo: empezó explicando, y con paciencia por los hábitos que la gente ya tenía. Recién décadas más tarde, con el presidente Heber J. Grant, se pidió su observancia estricta.",
+        "El versículo 4 da la razón de fondo: «por motivo de las maldades y designios que existen y que existirán en el corazón de hombres conspiradores en los últimos días». Es una advertencia que en 1833 sonaba abstracta y hoy no lo suena tanto: existen industrias enteras cuyo negocio depende de que una sustancia te resulte imposible de dejar."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 89:3",
+          "texto": "Dada como un principio con promesa, adaptada a la capacidad del débil y del más débil de todos los santos, que son o que pueden ser llamados santos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 89:4",
+          "texto": "He aquí, de cierto, así os dice el Señor: Por motivo de las maldades y designios que existen y que existirán en el corazón de hombres conspiradores en los últimos días, os he amonestado y os prevengo, dándoos esta palabra de sabiduría por revelación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=spa&id=p4#p4"
+        },
+        {
+          "referencia": "Doctrina y Convenios 89:18–19",
+          "texto": "Y todos los santos que se acuerden de guardar y hacer estas cosas, rindiendo obediencia a los mandamientos, recibirán salud en el ombligo y médula en los huesos; y hallarán sabiduría y grandes tesoros de conocimiento, sí, tesoros escondidos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=spa&id=p18-p19#p18"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Boyd K. Packer",
+      "fuente": "«La Palabra de Sabiduría: El principio y las promesas», Conferencia General, abril de 1996 (Liahona, mayo de 1996)",
+      "texto": "No todo lo que es dañino se especifica. El arsénico, por ejemplo, por cierto que es malo aunque su fulminante acción no da tiempo a formar hábitos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/1996/04/the-word-of-wisdom-the-principle-and-the-promises?lang=spa&id=p15#p15"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La Palabra de Sabiduría se dio «como un principio con promesa», y esa forma de darla enseña tanto como su contenido. El Señor no empezó por la prohibición sino por la explicación, y tuvo paciencia con gente que ya tenía hábitos formados. Si hay algo que sabés que te está haciendo daño —una sustancia, una pantalla, una rutina—, no esperes a sentirte capaz de dejarlo del todo: elegí un primer paso proporcional a la capacidad que tenés hoy, que es exactamente como el Señor lo planteó."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te llama la atención de que la Palabra de Sabiduría se diera «no por vía de mandamiento» al principio?",
+        "El versículo 3 dice que fue adaptada «a la capacidad del débil y del más débil». ¿Qué revela eso sobre cómo trata Dios a las personas?",
+        "El versículo 4 advierte sobre «hombres conspiradores». ¿Qué industrias de hoy encajan en esa descripción?",
+        "El presidente Packer señala que no todo lo dañino está especificado. ¿Cómo se decide entonces sobre algo que la revelación no menciona?",
+        "¿Hay algo que sabés que te hace daño y que venís posponiendo dejar?",
+        "¿Cuál es el primer paso proporcional a tu capacidad de hoy? Definilo con día y hora."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué motivo dio el Señor en DyC 89:1–4 para revelar la Palabra de Sabiduría?",
+      "question": "Según Doctrina y Convenios 89:2–3, ¿de qué manera fue dada originalmente la Palabra de Sabiduría?",
       "options": [
-        "Proteger a los santos de los designios y maldades de los últimos días",
-        "Imponer una tradición cultural",
-        "Evitar el trabajo físico",
-        "Restringir la alimentación sin razón"
+        "No por vía de mandamiento, sino como un principio con promesa.",
+        "Como un consejo dirigido únicamente a los hermanos de la Escuela de los Profetas.",
+        "Como una advertencia temporal para las circunstancias de 1833.",
+        "Como un mandamiento obligatorio para todos los miembros."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué sustancias se aconseja evitar en la Palabra de Sabiduría según DyC 89:5–9?",
+      "question": "Doctrina y Convenios 89:3 dice que la revelación fue «adaptada a la capacidad del débil y del más débil de todos los santos». ¿Qué muestra esa frase?",
       "options": [
-        "Vino, bebidas fuertes, tabaco, café y té",
-        "Agua y pan",
-        "Frutas y verduras",
-        "Granos y hierbas"
+        "Que la exigencia se reduce para quienes tienen menos fuerza de voluntad.",
+        "Que el Señor tuvo en cuenta la condición real de las personas al dar el principio.",
+        "Que la Palabra de Sabiduría se aplicaba solo a los miembros con adicciones.",
+        "Que su cumplimiento quedaba a criterio de cada persona."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué alimentos recomienda el Señor en DyC 89:10–17?",
+      "question": "¿Qué razón da Doctrina y Convenios 89:4 para haber revelado la Palabra de Sabiduría?",
       "options": [
-        "Hierbas, frutas, granos y carne con moderación",
-        "Solo carne en abundancia",
-        "Comida rápida",
-        "Alimentos procesados"
+        "El deterioro de la salud que sufrían los primeros miembros de la Iglesia.",
+        "La preparación física requerida para el éxodo hacia el oeste.",
+        "Los designios de hombres conspiradores que existirían en los últimos días.",
+        "La necesidad de distinguir a los santos de las demás personas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué principio espiritual se enseña en 1 Corintios 6:19–20 sobre el cuerpo?",
+      "question": "El presidente Packer observó que «no todo lo que es dañino se especifica», y puso el arsénico como ejemplo. ¿Qué principio se desprende de esa observación?",
       "options": [
-        "Que nuestro cuerpo es templo del Espíritu Santo",
-        "Que el cuerpo no tiene valor",
-        "Que el cuerpo es solo físico",
-        "Que el cuerpo puede usarse sin restricciones"
+        "Que las sustancias no mencionadas quedan permitidas por omisión.",
+        "Que el peligro de una sustancia se mide por la rapidez con que actúa.",
+        "Que la lista de la revelación es incompleta y por eso debe ampliarse constantemente.",
+        "Que la Palabra de Sabiduría enseña un principio, y aplicarlo exige criterio además de lista."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Qué relación enseña DyC 88:15–16 entre el cuerpo y el espíritu?",
+      "question": "Nicolás quiere dejar un hábito que sabe que le hace mal, pero cada intento de dejarlo de golpe termina en fracaso y se siente peor. Según la forma en que el Señor dio la Palabra de Sabiduría, ¿qué enfoque se ajusta mejor?",
       "options": [
-        "El espíritu y el cuerpo juntos constituyen el alma del hombre",
-        "El cuerpo y el espíritu están separados para siempre",
-        "El cuerpo es irrelevante",
-        "El espíritu no necesita cuerpo"
+        "Dar un primer paso proporcional a su capacidad actual, como el Señor lo planteó desde el principio.",
+        "Concluir que el hábito no es tan grave si no logra dejarlo.",
+        "Buscar un sustituto que produzca un efecto parecido.",
+        "Esperar a sentirse con la fuerza suficiente para dejarlo definitivamente."
       ],
       "correctAnswer": 0
     },
     {
       "id": 6,
-      "question": "¿Qué decisión tomó el presidente Heber J. Grant en 1921 respecto a la Palabra de Sabiduría?",
+      "question": "Agustina sostiene que si algo no aparece nombrado en Doctrina y Convenios 89, entonces está permitido. Según lo que enseña esta lección, ¿qué le falta considerar?",
       "options": [
-        "Requirió abstenerse de alcohol, tabaco, café y té para recibir recomendación para el templo",
-        "Permitió el uso de tabaco en reuniones",
-        "Eliminó la Palabra de Sabiduría",
-        "La hizo opcional"
+        "Que la decisión corresponde exclusivamente a un líder del sacerdocio.",
+        "Que los líderes de la Iglesia han dado instrucciones adicionales y que el principio exige criterio propio.",
+        "Que toda sustancia no mencionada debe considerarse prohibida por precaución.",
+        "Que la revelación se refería únicamente a las sustancias conocidas en 1833."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 7,
-      "question": "¿Qué ayuda ofrece el Salvador en nuestros días a quienes luchan contra adicciones?",
+      "question": "Doctrina y Convenios 89:3 describe un principio adaptado al débil, y 89:18–19 promete salud y «grandes tesoros de conocimiento» a quienes lo guarden. ¿Qué principio común forman las dos partes de la revelación?",
       "options": [
-        "Fortaleza espiritual, apoyo mediante Su Expiación y guía para cambiar",
-        "Ignorar sus luchas",
-        "Dejar que enfrenten solos sus problemas",
-        "No brindar ayuda"
+        "Que las bendiciones prometidas se conceden por igual a todos los miembros.",
+        "Que la promesa de conocimiento se refiere exclusivamente al estudio de las Escrituras.",
+        "Que el Señor pide algo proporcional a la capacidad de cada uno y promete algo que excede lo que se le pide.",
+        "Que las promesas de salud dependen de la constancia física más que de la fe."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

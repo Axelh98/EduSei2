@@ -52,7 +52,8 @@
         "¿Qué significa para vos la frase 'no se haga mi voluntad, sino la Tuya'? ¿En qué situación de tu vida la sentís más difícil?",
         "¿Alguna vez hiciste algo difícil porque sentiste que Dios te lo pedía? ¿Qué pasó después?",
         "¿Qué verdades sobre el carácter del Salvador encontrás en D&C 19:1–3 y 15–19?",
-        "¿Qué decisión concreta podés tomar esta semana para someter tu voluntad a la de Dios?"
+        "¿Qué decisión concreta podés tomar esta semana para someter tu voluntad a la de Dios?",
+        "¿Cuál va a ser la primera señal de que estás cediendo en esa decisión, y qué vas a hacer cuando la veas aparecer?"
       ]
     }
   ],
@@ -72,45 +73,45 @@
       "id": 2,
       "question": "¿Qué nos dice D&C 19:1–3 sobre quién es Jesucristo?",
       "options": [
+        "Que tiene poder únicamente sobre los asuntos espirituales",
         "Que es un ser espiritual sin poder sobre las cosas temporales",
         "Que es el Redentor del mundo que lo ha subyugado todo y permanece a la diestra del Padre",
-        "Que es solo un profeta con más autoridad que los demás",
-        "Que tiene poder únicamente sobre los asuntos espirituales"
+        "Que es solo un profeta con más autoridad que los demás"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "¿Alguna vez sentiste que Dios te pedía hacer algo que te costaba? ¿Qué fue lo más difícil de esa situación?",
       "options": [
+        "Explicarle la decisión a otras personas",
         "Entender las palabras exactas de las Escrituras",
         "No saber si la petición venía realmente de Dios",
-        "Soltar el control de algo que sentía como mío",
-        "Explicarle la decisión a otras personas"
+        "Soltar el control de algo que sentía como mío"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "D&C 19:23 dice: 'Aprended de mí y escuchad mis palabras; andad en la mansedumbre de mi Espíritu, y tendréis paz en mí.' ¿Qué tipo de paz describe este versículo?",
       "options": [
-        "La ausencia total de problemas o dificultades en la vida",
-        "Una paz que depende de que las circunstancias salgan bien",
         "Una paz interior que coexiste con las dificultades cuando confiamos en Cristo",
-        "La tranquilidad que sentimos cuando ignoramos los problemas"
+        "La tranquilidad que sentimos cuando ignoramos los problemas",
+        "La ausencia total de problemas o dificultades en la vida",
+        "Una paz que depende de que las circunstancias salgan bien"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "¿Qué decisión concreta podrías tomar esta semana para someter tu voluntad a la de Dios en algo que te está costando?",
       "options": [
-        "Pedir que el problema desaparezca antes de actuar",
         "Esperar a sentirme completamente listo antes de hacer nada",
         "Dar un primer paso concreto aunque no tenga todas las respuestas todavía",
-        "Hablar del tema con muchas personas hasta estar seguro"
+        "Hablar del tema con muchas personas hasta estar seguro",
+        "Pedir que el problema desaparezca antes de actuar"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -122,6 +123,17 @@
         "Esperar a que Satanás cediera antes de continuar"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 19:16–19 muestra al Salvador diciendo que quiso «no beber la copa amarga» y aun así la bebió, y 19:2 lo presenta sometiéndose a la voluntad del Padre. ¿Qué principio común enseñan los dos pasajes sobre la obediencia?",
+      "options": [
+        "Que quien ama de verdad al Padre no siente dificultad frente a lo que Él pide.",
+        "Que la voluntad propia debe suprimirse antes de poder obedecer.",
+        "Que el sacrificio tiene valor solo cuando resulta costoso para quien lo hace.",
+        "Que la obediencia auténtica no exige que desaparezca la resistencia interior, sino que se actúe a pesar de ella."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

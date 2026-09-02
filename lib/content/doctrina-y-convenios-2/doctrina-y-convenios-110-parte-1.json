@@ -1,61 +1,136 @@
 {
   "id": "doctrina-y-convenios-110-parte-1",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "El domingo 3 de abril de 1836, una semana después de dedicar el templo de Kirtland, José Smith y Oliver Cowdery se retiraron detrás de las cortinas del púlpito para orar. Lo que ocurrió después está en Doctrina y Convenios 110: «el velo fue retirado de nuestras mentes, y los ojos de nuestro entendimiento fueron abiertos».",
+        "Vieron al Señor de pie sobre el barandal del púlpito. La descripción del versículo 3 es de las más impresionantes de la Escritura: ojos como llama de fuego, cabello blanco como la nieve pura, semblante más brillante que el sol, voz como el estruendo de muchas aguas. Y lo que dijo fue una declaración de identidad: «Soy el primero y el último; soy el que vive, soy el que fue muerto; soy vuestro abogado ante el Padre».",
+        "Después aceptó la casa: «he aceptado esta casa, y mi nombre estará aquí; y me manifestaré a mi pueblo en misericordia en esta casa» (versículo 7). Los santos habían dado todo lo que tenían para construirla, y el Señor la recibió. Vale notar quiénes estaban ahí: no gente perfecta, sino gente que se había esforzado. El hermano Bradley R. Wilcox lo dijo así: «la dignidad no significa estar libre de mancha; la dignidad consiste en ser sinceros y esforzarse»."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 110:1",
+          "texto": "El velo fue retirado de nuestras mentes, y los ojos de nuestro entendimiento fueron abiertos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "Doctrina y Convenios 110:3–4",
+          "texto": "Sus ojos eran como llama de fuego; el cabello de su cabeza era blanco como la nieve pura; su semblante brillaba más que el resplandor del sol; y su voz era como el estruendo de muchas aguas, sí, la voz de Jehová, que decía: Soy el primero y el último; soy el que vive, soy el que fue muerto; soy vuestro abogado ante el Padre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=spa&id=p3-p4#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 110:7",
+          "texto": "Porque he aquí, he aceptado esta casa, y mi nombre estará aquí; y me manifestaré a mi pueblo en misericordia en esta casa.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=spa&id=p7#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Hermano Bradley R. Wilcox",
+      "fuente": "«La dignidad no significa estar libre de mancha», Conferencia General, octubre de 2021 (Liahona, noviembre de 2021, págs. 62, 67)",
+      "texto": "El mensaje de Dios es que la dignidad no significa estar libre de mancha; la dignidad consiste en ser sinceros y esforzarse. […] Recuerden que el cambio es posible, que el arrepentimiento es un proceso y que la dignidad no significa estar libre de mancha.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/35wilcox?lang=spa&id=p5#p5"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "El Señor se presentó en Su templo diciendo «soy vuestro abogado ante el Padre» y aceptó una casa construida por gente pobre e imperfecta que había dado lo que tenía. Esa combinación —Él como abogado, ellos como esfuerzo sincero— es la que sostiene la promesa del versículo 7: «me manifestaré a mi pueblo en misericordia en esta casa». Si venís postergando algo por sentir que no estás a la altura, revisá con qué vara te estás midiendo. La dignidad es sinceridad y esfuerzo, no ausencia de errores."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Leé la descripción del Salvador en el versículo 3. ¿Qué imagen te queda?",
+        "Él se presentó como «vuestro abogado ante el Padre». ¿Por qué te parece que eligió ese título en ese momento?",
+        "El versículo 7 promete manifestarse «en misericordia» en Su casa. ¿Qué agrega la palabra misericordia?",
+        "El hermano Wilcox dice que la dignidad «consiste en ser sinceros y esforzarse». ¿Con qué vara te venís midiendo vos?",
+        "¿Hay algo que estés postergando porque sentís que no estás a la altura?",
+        "¿Con quién podrías hablarlo esta semana —un líder, un padre, alguien de confianza—? Poné nombre y día."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué ocurrió el 3 de abril de 1836 en el Templo de Kirtland?",
+      "question": "¿Qué ocurrió el 3 de abril de 1836, una semana después de la dedicación del templo de Kirtland?",
       "options": [
-        "Jesucristo se apareció a José Smith y Oliver Cowdery",
-        "Se canceló la reunión",
-        "No hubo manifestaciones",
-        "Solo se cantaron himnos"
+        "Se organizó el primer Cuórum de los Setenta.",
+        "El Salvador se apareció a José Smith y Oliver Cowdery, y aceptó el templo.",
+        "Se recibió la revelación sobre la Palabra de Sabiduría.",
+        "Comenzó la construcción del templo de Nauvoo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué promesa cumplió el Señor en DyC 110:7?",
+      "question": "¿Cómo se presentó el Salvador en Doctrina y Convenios 110:4?",
       "options": [
-        "Manifestarse a Su pueblo en Su casa",
-        "Enviar ángeles a todos los hogares",
-        "Construir templos en todo el mundo",
-        "Evitar sacrificios"
+        "Como el Hijo Unigénito del Padre Eterno.",
+        "Como el Creador de los cielos y de la tierra.",
+        "Como el primero y el último, el que vive, el que fue muerto, y el abogado ante el Padre.",
+        "Como el Rey de reyes y Señor de señores."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Cómo describieron José Smith y Oliver Cowdery al Salvador en DyC 110:1–4?",
+      "question": "Según Doctrina y Convenios 110:7, ¿qué prometió el Señor respecto de esa casa?",
       "options": [
-        "Glorioso y majestuoso",
-        "Común y corriente",
-        "Sin poder",
-        "Invisible"
+        "Que se convertiría en el modelo de todos los templos futuros.",
+        "Que allí se revelarían las ordenanzas restantes de la Restauración.",
+        "Que la protegería de todo daño mientras los santos fueran fieles.",
+        "Que la había aceptado, que Su nombre estaría allí y que se manifestaría a Su pueblo en misericordia."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué enseñanza se relaciona con las apariciones del Salvador en 3 Nefi 11, Isaías 6 y Éter 3?",
+      "question": "El hermano Wilcox enseñó que «la dignidad no significa estar libre de mancha; la dignidad consiste en ser sinceros y esforzarse». ¿Qué corrige esa definición?",
       "options": [
-        "El Señor se manifiesta en templos o lugares sagrados",
-        "El Señor nunca se aparece",
-        "Las visiones no son reales",
-        "Solo los profetas antiguos lo vieron"
+        "La idea de que la dignidad exige una vida sin errores.",
+        "La idea de que el arrepentimiento es un requisito previo a la dignidad.",
+        "La idea de que la dignidad se evalúa en una entrevista.",
+        "La idea de que el esfuerzo compensa cualquier conducta."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué verdad enseña DyC 110:5–10 sobre la dignidad para entrar al templo?",
+      "question": "Lucía evita hablar con su obispo sobre algo que le pesa porque cree que primero debería «estar bien». Según la enseñanza del hermano Wilcox, ¿qué está entendiendo al revés?",
       "options": [
-        "La dignidad nos prepara para acercarnos al Señor",
-        "Solo los perfectos pueden entrar",
-        "Nunca seremos dignos",
-        "No importa la dignidad"
+        "Que conviene esperar a sentirse con más fuerzas para conversarlo.",
+        "Que la sinceridad forma parte de la dignidad, y no es algo que se logra antes de ella.",
+        "Que el obispo solo atiende asuntos de gravedad considerable.",
+        "Que el arrepentimiento debe completarse en privado antes de consultarlo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Los santos que construyeron el templo de Kirtland eran pobres e imperfectos, y aun así el Señor aceptó la casa. ¿Qué principio ilustra ese hecho?",
+      "options": [
+        "Que el templo fue aceptado por su calidad arquitectónica.",
+        "Que la aceptación divina depende del sacrificio económico realizado.",
+        "Que el Señor recibe lo que se le ofrece con esfuerzo sincero, aunque no venga de gente perfecta.",
+        "Que las condiciones materiales no influyen en la aceptación de una obra."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "El Salvador se presentó como «abogado ante el Padre» y prometió manifestarse «en misericordia» en Su casa. ¿Qué principio común forman las dos declaraciones?",
+      "options": [
+        "Que el templo es el único lugar donde se recibe misericordia.",
+        "Que la función de abogado se limita al día del juicio final.",
+        "Que la misericordia se concede a quienes ya alcanzaron la dignidad plena.",
+        "Que la relación que Él propone con Su pueblo se apoya en la misericordia, no en la exigencia de perfección previa."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

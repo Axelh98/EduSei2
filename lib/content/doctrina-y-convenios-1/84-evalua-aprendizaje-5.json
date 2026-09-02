@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Esta evaluación cierra el quinto bloque del año y es la penúltima del semestre. Las lecciones de este bloque cubrieron el perdón incondicional (D&C 64:9–10), no cansarse de hacer el bien (D&C 64:33–34), el origen divino de las revelaciones (D&C 67), la responsabilidad de los padres de enseñar el evangelio (D&C 68:25–31), y el mandato de proclamar la verdad frente a la crítica (D&C 71). La evaluación espiritual genuina pregunta no cuánto sabés sino qué cambió en vos. Esta es también la última oportunidad antes de la evaluación final del semestre para consolidar los pasajes del Dominio de la Doctrina y establecer una meta espiritual para cerrar el año."
+      "contenido": [
+        "Esta evaluación cierra el quinto bloque del año y es la penúltima del semestre. Las lecciones cubrieron el perdón sin condiciones (Doctrina y Convenios 64:9–10), el no cansarse de hacer el bien (64:33–34), el origen divino de las revelaciones (sección 67), la responsabilidad de los padres de enseñar el evangelio (68:25–31) y el mandato de proclamar la verdad frente a la crítica (sección 71).",
+        "La evaluación espiritual genuina no pregunta cuánto sabés, sino qué cambió en vos. Es también la última oportunidad, antes de la evaluación final del semestre, para consolidar los pasajes del Dominio de la Doctrina y fijar una meta que cierre el año con fuerza. Vale la pena elegir una sola: una meta clara y chica que se cumple vale más que cinco ambiciosas que se abandonan en la segunda semana, y a esta altura del año ya tenés evidencia propia de cuál de las dos cosas te pasa más seguido."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -31,7 +34,8 @@
         "¿Qué principio de D&C 64 o D&C 71 estás aplicando activamente fuera del aula?",
         "¿Qué pasaje del Dominio de la Doctrina del semestre podés usar con más confianza ahora que al principio del año?",
         "¿En qué área de tu carácter o de tu vida espiritual ves más crecimiento desde que comenzó el año?",
-        "¿Qué meta espiritual concreta te ponés para cerrar el primer semestre con fuerza?"
+        "¿Qué meta espiritual concreta te ponés para cerrar el primer semestre con fuerza?",
+        "De todo lo que estudiaste este semestre, ¿qué es lo único que no querés olvidarte en cinco años? Escribilo con tus palabras."
       ]
     }
   ],
@@ -40,12 +44,12 @@
       "id": 1,
       "question": "Las semanas 16–18 cubrieron varios principios. ¿A cuál lección pertenece el principio 'de pequeñas cosas proceden las grandes'?",
       "options": [
-        "A D&C 64:20–43 — no cansarse de hacer el bien.",
         "A D&C 65 — el reino de Dios en la tierra.",
         "A D&C 67 — el origen divino de las revelaciones.",
-        "A D&C 71 — proclamar el evangelio frente a las críticas."
+        "A D&C 71 — proclamar el evangelio frente a las críticas.",
+        "A D&C 64:20–43 — no cansarse de hacer el bien."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
@@ -73,45 +77,45 @@
       "id": 4,
       "question": "D&C 64:9 dice que perdonar a todos es requerido. ¿Cuál es la diferencia entre perdonar 'porque el Señor lo manda' y perdonar 'porque entiendo que el resentimiento me destruye a mí'?",
       "options": [
+        "El primero es más valioso porque demuestra sujeción a la autoridad divina.",
         "No hay diferencia — el resultado espiritual es idéntico independientemente de la motivación.",
         "El primero es obediencia externa; el segundo es sabiduría interior. Idealmente ambas coinciden — el discípulo maduro obedece y entiende por qué esa obediencia lo libera.",
-        "El segundo es más valioso porque no requiere referencia al mandamiento.",
-        "El primero es más valioso porque demuestra sujeción a la autoridad divina."
+        "El segundo es más valioso porque no requiere referencia al mandamiento."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Camila siente que las últimas semanas del Seminario le enseñaron mucho pero no sabe cómo medir su crecimiento real. ¿Cuál es la mejor medida del aprendizaje espiritual genuino?",
       "options": [
+        "La cantidad de veces que asistió al Seminario sin faltar durante el bloque.",
         "La cantidad de preguntas que respondió correctamente en los quizzes del bloque.",
         "Cuántos versículos del Dominio de la Doctrina memorizó durante el período.",
-        "Si algo cambió en cómo actúa, cómo trata a otros, o cómo entiende su relación con el Señor — el aprendizaje real siempre produce cambio concreto.",
-        "La cantidad de veces que asistió al Seminario sin faltar durante el bloque."
+        "Si algo cambió en cómo actúa, cómo trata a otros, o cómo entiende su relación con el Señor — el aprendizaje real siempre produce cambio concreto."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Joaquín identificó que el principio de D&C 71 (proclamar en lugar de debatir) describe exactamente lo que necesita en su vida con un compañero crítico. ¿Qué haría la versión más fiel de Joaquín con ese reconocimiento?",
       "options": [
-        "Compartirlo con el maestro de Seminario para que le dé consejos más específicos.",
-        "Esperar a que su compañero crítico cambie antes de intentar proclamar nada.",
         "Identificar una oportunidad concreta esta semana para compartir lo que el evangelio significa en su vida — no argumentar sino testificar.",
-        "Escribir un ensayo sobre el principio de D&C 71 para consolidar su entendimiento."
+        "Escribir un ensayo sobre el principio de D&C 71 para consolidar su entendimiento.",
+        "Compartirlo con el maestro de Seminario para que le dé consejos más específicos.",
+        "Esperar a que su compañero crítico cambie antes de intentar proclamar nada."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Esta evaluación cierra el quinto bloque del año. ¿Cuál es la pregunta más importante que define si el aprendizaje del Seminario fue genuino este año?",
       "options": [
-        "'¿Cuántos capítulos de D&C estudié en total?'",
         "'¿Aprobé todos los exámenes del Dominio de la Doctrina?'",
         "'¿Hay algo en mí que cambió — en cómo veo al Señor, cómo trato a otros, cómo enfrento las dificultades — que no estaba antes de comenzar el año?'",
-        "'¿Asistí al Seminario con más regularidad que el año anterior?'"
+        "'¿Asistí al Seminario con más regularidad que el año anterior?'",
+        "'¿Cuántos capítulos de D&C estudié en total?'"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

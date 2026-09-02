@@ -5,8 +5,7 @@
       "tipo": "contexto",
       "contenido": [
         "Imaginá una caja que representa tu vida. Traés objetos que representan tus intereses: una pelota de fútbol, el cuaderno de la escuela, el celular, las Escrituras, la familia. Hay más objetos que espacio. ¿Qué elegís poner adentro? ¿Qué dejás afuera?",
-        "Esa imagen es el núcleo de D&C 25 Parte 2. El Señor le dijo a Emma: 'procura las cosas de un mundo mejor' (v. 10). No le dijo que eliminara todo lo temporal; le pidió que ordenara bien sus prioridades. Lo que el mundo ofrece no es malo en sí; el problema es cuando desplaza a lo eterno.",
-        "Está revelación aplica a cualquier adolescente que tiene más demandas que tiempo y energía: escuela, amistades, redes sociales, familia, iglesia, deportes. Todos compiten. El Señor no pide que abandones tus intereses; pide que no 'codicies' lo temporal hasta el punto de dejar afuera lo que realmente importa. Matthew 6:19–21 y 2 Nefi 9:51 dicen exactamente lo mismo que el Señor le dijo a Emma."
+        "Esa imagen es el núcleo de Doctrina y Convenios 25, Parte 2. El Señor le dijo a Emma: «procura las cosas de un mundo mejor» (v. 10). No le dijo que eliminara todo lo temporal; le pidió que ordenara bien sus prioridades. Lo que el mundo ofrece no es malo en sí; el problema aparece cuando desplaza a lo eterno. Esta revelación aplica a cualquier adolescente que tiene más demandas que tiempo y energía: escuela, amistades, redes sociales, familia, Iglesia, deportes. Todos compiten. El Señor no pide que abandones tus intereses; pide que no codicies lo temporal hasta el punto de dejar afuera lo que de verdad importa. Mateo 6:19–21 y 2 Nefi 9:51 dicen exactamente lo mismo que el Señor le dijo a Emma."
       ]
     },
     {
@@ -30,8 +29,17 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "\"Vencer al mundo y hallar descanso\", Conferencia General, octubre de 2022 (Liahona, noviembre de 2022, págs. 96–97)",
+      "texto": "Significa vencer la tentación de preocuparse más por las cosas de este mundo que por las cosas de Dios. Significa confiar en la doctrina de Cristo más que en las filosofías de los hombres. Significa deleitarse en la verdad, denunciar el engaño y llegar a ser \"humildes discípulos de Cristo\". Significa optar por abstenerse de todo lo que aleje al Espíritu.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/47nelson?lang=spa&id=p21#p21"
+    },
+    {
       "tipo": "conclusion",
-      "contenido": "El Señor invita a Emma —y a todos— a dejar de lado las cosas de este mundo y buscar las de un mundo mejor. Eso no significa renunciar a todo lo temporal; significa no aferrarse a lo temporal al punto de perder lo eterno. La promesa de D&C 25:15 es hermosa: el bien que hagamos será contado para nosotros y para nuestra posteridad. Esta semana, revisá tus prioridades reales. ¿Hay algo que necesitás dejar a un lado para dar más espacio a lo que realmente importa?"
+      "contenido": [
+        "El Señor invita a Emma —y a todos— a dejar de lado las cosas de este mundo y buscar las de un mundo mejor. Eso no significa renunciar a todo lo temporal; significa no aferrarse a lo temporal al punto de perder lo eterno. La promesa de Doctrina y Convenios 25:15 es hermosa: el bien que hagamos será contado para nosotros y para nuestra posteridad. Mirá dónde se fueron tus últimas dos horas libres y preguntate si eso es lo que habrías elegido poner en la caja."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -40,21 +48,22 @@
         "¿Qué crees que significa 'dejar a un lado las cosas de este mundo'? ¿Es posible sin volverse extremista?",
         "¿Hay algo en tu vida ahora mismo que está ocupando un lugar que debería tener otra cosa más importante?",
         "¿Cómo se conecta el consejo del Señor a Emma en D&C 25:10 con lo que Jesús enseña en Mateo 6:19–21?",
-        "¿Qué cambio concreto en tus prioridades podrías hacer esta semana para buscar más 'las cosas de un mundo mejor'?"
+        "¿Qué cambio concreto en tus prioridades podrías hacer esta semana para buscar más 'las cosas de un mundo mejor'?",
+        "De todo lo que ocupa tu semana, ¿qué es lo primero que se cae cuando andás corto de tiempo? ¿Qué dice eso de tu orden real de prioridades?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "D&C 25:10 dice 'deja a un lado las cosas de este mundo y busca las cosas de un mundo mejor'. ¿Qué cosas del mundo de un adolescente de hoy podrían estar ocupando espacio que debería tener algo más importante?",
+      "question": "Doctrina y Convenios 25:10 dice a Emma: «deja a un lado las cosas de este mundo y busca las cosas de un mundo mejor». Según el contexto de la revelación, ¿qué le estaba pidiendo el Señor?",
       "options": [
-        "Los libros de texto y los deberes escolares",
-        "El tiempo en redes sociales, los videojuegos, o el entretenimiento que desplaza lo espiritual",
-        "Las relaciones con los padres y hermanos",
-        "Las actividades deportivas y los pasatiempos sanos"
+        "Reordenar sus prioridades, de modo que lo temporal no desplazara lo eterno.",
+        "Renunciar a los bienes materiales que poseía junto con José.",
+        "Esperar instrucciones más precisas antes de tomar cualquier decisión.",
+        "Abandonar por completo toda ocupación temporal para dedicarse a la obra."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -69,36 +78,36 @@
     },
     {
       "id": 3,
-      "question": "¿Hay algo en tu vida ahora mismo que está ocupando un lugar que debería tener algo más importante? ¿Cómo te das cuenta de eso?",
+      "question": "Camila descubre que pasa tres horas diarias en redes sociales y quince minutos en su estudio personal, aunque diría que su fe es lo más importante para ella. Según el principio de Doctrina y Convenios 25:10, ¿qué revela esa comparación?",
       "options": [
-        "Cuando los demás me lo señalan directamente",
-        "Cuando noto que invierto más tiempo y energía en eso que en lo que realmente importa",
-        "Cuando el obispo me habla sobre el tema en una entrevista",
-        "Cuando siento culpa después de la Santa Cena"
+        "Que su estudio personal es de mejor calidad justamente por ser más breve.",
+        "Nada relevante: el tiempo dedicado no es una medida válida de lo que alguien valora.",
+        "Que las prioridades declaradas y las reales pueden separarse sin que uno lo note.",
+        "Que debería eliminar las redes sociales por completo para ordenar su vida."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "Mateo 6:19–21 dice 'donde esté vuestro tesoro, allí estará también vuestro corazón'. ¿Qué dice eso sobre la relación entre lo que elegimos priorizar y quiénes llegamos a ser?",
       "options": [
-        "Que el corazón sigue automáticamente al dinero sin importar lo que hagamos",
-        "Que nuestras prioridades forman nuestro carácter, y lo que elegimos valorar define quiénes somos",
         "Que solo las personas ricas tienen el corazón en el lugar equivocado",
-        "Que el corazón y el tesoro son metáforas sin aplicación práctica"
+        "Que el corazón y el tesoro son metáforas sin aplicación práctica",
+        "Que el corazón sigue automáticamente al dinero sin importar lo que hagamos",
+        "Que nuestras prioridades forman nuestro carácter, y lo que elegimos valorar define quiénes somos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Qué cambio concreto en tus prioridades podrías hacer esta semana para buscar más las 'cosas de un mundo mejor'?",
+      "question": "Doctrina y Convenios 25:15 promete que si Emma guarda los convenios, recibirá «una corona de justicia». ¿Qué agrega esa promesa a las decisiones cotidianas sobre cómo usar el tiempo?",
       "options": [
-        "Eliminar completamente cualquier actividad de entretenimiento",
-        "Reducir el tiempo en una actividad que desplaza lo espiritual y usarlo en algo que edifique",
-        "Esperar a tener más fuerza de voluntad antes de cambiar hábitos",
-        "Pedir al obispo que me dé una lista de cosas permitidas y no permitidas"
+        "Que las decisiones pequeñas de cada día se acumulan hacia un resultado que dura más que ellas.",
+        "Que las bendiciones prometidas dependen sobre todo de las decisiones grandes de la vida.",
+        "Que la promesa se dirigía únicamente a Emma por su llamamiento particular.",
+        "Que quien guarda los convenios recibe recompensas visibles en esta vida."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -110,6 +119,17 @@
         "Que no importa equivocarse porque Dios lo borrará del registro de todas formas"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "El Señor pidió a Emma «procurar las cosas de un mundo mejor», y Mateo 6:21 enseña que «donde esté vuestro tesoro, allí estará también vuestro corazón». ¿Qué principio común forman los dos pasajes?",
+      "options": [
+        "Que el desprendimiento total es la condición para recibir promesas eternas.",
+        "Que los bienes materiales son un obstáculo para la vida espiritual.",
+        "Que aquello a lo que uno le dedica lo mejor de su tiempo y su atención termina formando lo que uno es.",
+        "Que el corazón cambia primero y las prioridades se acomodan después solas."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

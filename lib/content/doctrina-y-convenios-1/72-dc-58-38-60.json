@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "D&C 58:38–60 contiene uno de los pasajes más citados y más poderosos sobre el arrepentimiento genuino en toda la Escritura restaurada. El contexto inmediato es la desobediencia de algunos miembros que no cumplieron los llamamientos del Señor en Misuri. Pero la respuesta del Señor va mucho más allá de esa situación particular: revela los principios eternos del arrepentimiento genuino. El arrepentimiento real incluye confesar, abandonar el pecado — y la promesa extraordinaria del versículo 42: el Señor no recuerda más los pecados del que se arrepiente sinceramente. Esta promesa no es retórica ni metafórica — es una declaración sobre cómo funciona la misericordia de Dios. Para los jóvenes que cargan con la culpa de errores pasados, que sienten que Dios no puede olvidar lo que hicieron, o que dudan si el arrepentimiento realmente los limpia completamente, este pasaje es la respuesta directa del Señor."
+      "contenido": [
+        "Doctrina y Convenios 58:38–60 contiene uno de los pasajes más citados sobre el arrepentimiento genuino en la Escritura restaurada. El contexto inmediato es la desobediencia de algunos miembros que no cumplieron con los llamamientos del Señor en Misuri, pero la respuesta va mucho más allá de esa situación: revela los principios permanentes del arrepentimiento.",
+        "El arrepentimiento real incluye confesar y abandonar el pecado, y trae consigo la promesa extraordinaria del versículo 42: el Señor no recuerda más los pecados de quien se arrepiente de veras. Esa promesa no es retórica ni una figura literaria: es una declaración sobre cómo funciona la misericordia de Dios. Para los jóvenes que cargan con la culpa de errores pasados, que sienten que Dios no puede olvidar lo que hicieron o que dudan de que el arrepentimiento limpie del todo, el pasaje responde de manera directa. Y plantea una pregunta incómoda: si el Señor ya no lo recuerda, ¿por qué seguimos recordándolo nosotros contra nosotros mismos?"
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿Qué significa exactamente la promesa 'yo, el Señor, no los recuerdo más'? ¿La creés de verdad?",
         "¿Hay algo que cargás de culpa del pasado que el Señor ya olvidó pero vos todavía no te perdonaste a vos mismo?",
         "¿Cuál es la diferencia entre remordimiento y arrepentimiento genuino?",
-        "Si supieras con certeza que el Señor ya no recuerda un error que cometiste, ¿qué cambiaría en vos esta semana?"
+        "Si supieras con certeza que el Señor ya no recuerda un error que cometiste, ¿qué cambiaría en vos esta semana?",
+        "Si el Señor ya no recuerda eso que vos seguís recordando, ¿qué necesitarías para dejar de usarlo en tu contra? ¿Con quién podrías hablarlo?"
       ]
     }
   ],
@@ -47,34 +51,34 @@
       "id": 1,
       "question": "D&C 58:42–43 describe el arrepentimiento genuino con dos componentes. ¿Cuáles son?",
       "options": [
-        "Confesar los pecados y abandonarlos — los dos son necesarios.",
-        "Sentir remordimiento y recibir una bendición del obispo.",
         "Orar durante cuarenta días y leer las Escrituras sin interrupción.",
-        "Pagar una ofrenda especial y ayunar tres veces consecutivas."
+        "Pagar una ofrenda especial y ayunar tres veces consecutivas.",
+        "Confesar los pecados y abandonarlos — los dos son necesarios.",
+        "Sentir remordimiento y recibir una bendición del obispo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "D&C 58:42 contiene una de las promesas más poderosas sobre el perdón. ¿Cuál es?",
       "options": [
-        "Que el Señor perdonará según la gravedad del pecado y el tiempo transcurrido.",
-        "Que 'yo, el Señor, no los recuerdo más' — el perdón es completo cuando el arrepentimiento es genuino.",
         "Que el perdón llega automáticamente después de suficiente tiempo sin cometer el mismo error.",
-        "Que el Señor perdona solo los pecados que otros no conocen."
+        "Que el Señor perdona solo los pecados que otros no conocen.",
+        "Que el Señor perdonará según la gravedad del pecado y el tiempo transcurrido.",
+        "Que 'yo, el Señor, no los recuerdo más' — el perdón es completo cuando el arrepentimiento es genuino."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "El presidente Nelson enseñó que el arrepentimiento 'no es un castigo sino una liberación'. ¿Qué implica esa perspectiva sobre la función real del arrepentimiento en la vida del discípulo?",
+      "question": "El élder Gong enseñó que «cuando nos arrepentimos, cuando confesamos y abandonamos nuestros pecados, el Señor dice que no los recuerda más». ¿Qué revela esa enseñanza sobre la función del arrepentimiento?",
       "options": [
-        "Que el arrepentimiento es opcional para quienes cometen errores menores.",
-        "Que el arrepentimiento no es la puerta a la vergüenza sino a la libertad — libera del peso del pecado y restaura la capacidad plena de recibir el Espíritu.",
-        "Que el arrepentimiento solo es liberación cuando no hay consecuencias visibles del pecado.",
-        "Que el arrepentimiento es una liberación solo para los miembros activos, no para quienes están alejados."
+        "Que no es una puerta a la vergüenza sino a la libertad: quita el peso del pecado y devuelve la plenitud del Espíritu.",
+        "Que solo libera cuando el pecado no dejó consecuencias visibles.",
+        "Que está disponible para los miembros activos y no para quienes se alejaron.",
+        "Que el arrepentimiento es opcional cuando se trata de faltas menores."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -91,34 +95,34 @@
       "id": 5,
       "question": "Valentina lleva meses sintiéndose culpable por algo que hizo y ya se arrepintió con el obispo. Sigue cargando esa culpa como si el perdón no fuera real. D&C 58:42 le habla directamente. ¿Qué le diría?",
       "options": [
+        "Que necesita arrepentirse nuevamente porque la culpa indica que algo quedó sin resolver.",
         "Que la culpa prolongada es una señal de que el arrepentimiento no fue completo.",
         "Que 'yo, el Señor, no los recuerdo más' — si el arrepentimiento fue genuino, la culpa que sigue cargando no viene del Señor sino de ella misma.",
-        "Que debe seguir sintiéndose mal como evidencia de que tomó el asunto en serio.",
-        "Que necesita arrepentirse nuevamente porque la culpa indica que algo quedó sin resolver."
+        "Que debe seguir sintiéndose mal como evidencia de que tomó el asunto en serio."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Agustín siente que su error fue 'demasiado grave' para que el Señor lo olvide de verdad. Según D&C 58:42, ¿qué condición establece el Señor para ese olvido completo?",
       "options": [
+        "Que Agustín haya compensado el daño causado completamente antes de recibir el perdón.",
         "Que el pecado no sea de cierto tipo que el Señor considera imperdonable.",
         "Que hayan pasado suficientes años desde el error para que su impacto se haya borrado.",
-        "Que el arrepentimiento sea genuino — que haya confesión y abandono real. La promesa no pone límite de gravedad; pone condición de sinceridad.",
-        "Que Agustín haya compensado el daño causado completamente antes de recibir el perdón."
+        "Que el arrepentimiento sea genuino — que haya confesión y abandono real. La promesa no pone límite de gravedad; pone condición de sinceridad."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "D&C 58:42 ('el Señor no los recuerda más') y D&C 19:16–19 (Cristo sufrió para que nosotros no suframos si nos arrepentimos) juntos forman la doctrina completa del arrepentimiento. ¿Cuál es ese mensaje completo?",
       "options": [
+        "Que el Salvador ya pagó el precio para que el arrepentimiento genuino produzca perdón real y completo — Su sufrimiento fue exactamente para que nosotros pudiéramos librarnos del nuestro, y ese perdón es tan completo que Él no lo recuerda más.",
         "Que el pecado tiene consecuencias inevitables que el arrepentimiento no puede eliminar completamente.",
         "Que el perdón del Señor es provisional y puede retirarse si se cometen nuevos errores.",
-        "Que el sufrimiento de Cristo fue solo simbólico y el arrepentimiento tiene valor independiente de Él.",
-        "Que el Salvador ya pagó el precio para que el arrepentimiento genuino produzca perdón real y completo — Su sufrimiento fue exactamente para que nosotros pudiéramos librarnos del nuestro, y ese perdón es tan completo que Él no lo recuerda más."
+        "Que el sufrimiento de Cristo fue solo simbólico y el arrepentimiento tiene valor independiente de Él."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     }
   ]
 }

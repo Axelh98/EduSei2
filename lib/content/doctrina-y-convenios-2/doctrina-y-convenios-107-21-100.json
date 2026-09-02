@@ -1,70 +1,134 @@
 {
   "id": "doctrina-y-convenios-107-21-100",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "La segunda parte de la sección 107 organiza los cuórums que dirigen la Iglesia y establece una regla que sorprende por lo exigente: «toda decisión que tome cualquiera de estos cuórums se hará por la voz unánime del cuórum» (versículo 27). No mayoría, no consenso aproximado: unanimidad.",
+        "El presidente Russell M. Nelson explicó por qué eso importa: «el llamamiento de quince hombres al santo apostolado nos proporciona gran protección como miembros de la Iglesia. ¿Por qué? Porque las decisiones de esos líderes deben ser unánimes». Quince personas con formaciones distintas y opiniones distintas —«¡créanmelo!», agregó— solo llegan a un acuerdo total cuando el Espíritu los guía a él.",
+        "La sección define además qué es un apóstol: «testigos especiales del nombre de Cristo en todo el mundo» (versículo 23). Y termina con una frase que aplica a cualquiera, tenga el cargo que tenga: «aprenda todo varón su deber, así como a obrar con toda diligencia en el oficio al cual fuere nombrado» (versículo 99). Nadie puede cumplir bien un deber que no se tomó el trabajo de aprender."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 107:23",
+          "texto": "Los doce consejeros viajantes son llamados para ser los Doce Apóstoles, o sea, testigos especiales del nombre de Cristo en todo el mundo, y así se distinguen de los otros oficiales de la iglesia en los deberes de su llamamiento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=spa&id=p23#p23"
+        },
+        {
+          "referencia": "Doctrina y Convenios 107:27",
+          "texto": "Y toda decisión que tome cualquiera de estos cuórums se hará por la voz unánime del cuórum; es decir, todos los miembros de cada uno de los cuórums tienen que llegar a un acuerdo en cuanto a sus decisiones, a fin de que estas tengan el mismo poder o validez entre sí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "Doctrina y Convenios 107:99",
+          "texto": "Por tanto, aprenda todo varón su deber, así como a obrar con toda diligencia en el oficio al cual fuere nombrado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=spa&id=p99#p99"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Sostengamos a los profetas», Conferencia General, octubre de 2014 (Liahona, noviembre de 2014, pág. 75)",
+      "texto": "El llamamiento de quince hombres al santo apostolado nos proporciona gran protección como miembros de la Iglesia. ¿Por qué? Porque las decisiones de esos líderes deben ser unánimes.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/10/sustaining-the-prophets?lang=spa&id=p15#p15"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "La regla de la unanimidad es una protección disfrazada de procedimiento: obliga a que ninguna decisión de la Iglesia dependa de la personalidad, la elocuencia o el peso de un solo hombre. Y el versículo 99 traslada la exigencia a cada uno: aprender el propio deber antes de ejercerlo. Averiguá esta semana qué se espera exactamente de la asignación que tenés —preguntale a quien te la dio, leé el manual, mirá lo que hace alguien que la cumple bien— y hacela con eso en la cabeza."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué te parece que el Señor pidió unanimidad y no mayoría para las decisiones de los cuórums?",
+        "El presidente Nelson dice que la unanimidad de quince personas distintas es una protección. ¿Protección contra qué?",
+        "El versículo 23 define a los apóstoles como «testigos especiales del nombre de Cristo». ¿Qué significa ser testigo de un nombre y no solo de un hecho?",
+        "«Aprenda todo varón su deber». ¿Sabés exactamente qué se espera de la asignación que tenés hoy?",
+        "¿Qué pasa cuando alguien cumple un deber sin haberse tomado el trabajo de aprenderlo?",
+        "¿A quién le vas a preguntar esta semana qué se espera de tu asignación? ¿Cuándo?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cómo compara Pablo a Jesucristo en Efesios 2:20?",
+      "question": "Según Doctrina y Convenios 107:27, ¿cómo deben tomarse las decisiones de los cuórums que dirigen la Iglesia?",
       "options": [
-        "Con la principal piedra del ángulo",
-        "Con un profeta",
-        "Con un apóstol",
-        "Con un discípulo"
+        "Por consulta a los miembros de la Iglesia.",
+        "Por mayoría simple de sus miembros.",
+        "Por la voz unánime del cuórum.",
+        "Por decisión del miembro que preside."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿Qué enseña DyC 107:23 sobre los Apóstoles?",
+      "question": "¿Cómo define Doctrina y Convenios 107:23 a los Doce Apóstoles?",
       "options": [
-        "Que son testigos especiales del nombre de Cristo",
-        "Que solo dirigen reuniones",
-        "Que no tienen responsabilidades",
-        "Que son iguales a todos los miembros"
+        "Como consejeros de la Primera Presidencia en asuntos doctrinales.",
+        "Como responsables de la instrucción de los cuórums locales.",
+        "Como administradores de los asuntos temporales de la Iglesia.",
+        "Como testigos especiales del nombre de Cristo en todo el mundo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "Según el élder David A. Bednar, ¿qué significa ser testigo especial del nombre de Cristo?",
+      "question": "¿Qué manda Doctrina y Convenios 107:99 a quien recibe un oficio?",
       "options": [
-        "Dar testimonio de Su misión, muerte, resurrección y doctrina",
-        "Solo hablar de Su nacimiento",
-        "Predicar sin autoridad",
-        "Evitar mencionar Su expiación"
+        "Aprender su deber y obrar con toda diligencia en el oficio al cual fuere nombrado.",
+        "Consultar cada decisión con quien preside antes de actuar.",
+        "Servir hasta que sea relevado formalmente del cargo.",
+        "Prepararse espiritualmente antes de aceptar la asignación."
       ],
       "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué responsabilidad tiene el Profeta o Presidente de la Iglesia según DyC 107:91–92?",
+      "question": "El presidente Nelson señaló que la unanimidad exigida a los quince líderes «nos proporciona gran protección». ¿Contra qué protege esa regla?",
       "options": [
-        "Dirigir toda la Iglesia bajo la autoridad del sacerdocio",
-        "Solo enseñar en su barrio",
-        "No tiene función",
-        "Depende de los obispos"
+        "Contra la crítica externa a las decisiones de la Iglesia.",
+        "Contra que una decisión de la Iglesia dependa de la influencia de una sola persona.",
+        "Contra las decisiones apresuradas en situaciones de urgencia.",
+        "Contra la posibilidad de que se cometan errores administrativos."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué función tienen los Setentas según DyC 107:25, 34, 38?",
+      "question": "Luca acepta un llamamiento y lo cumple como le parece, sin averiguar qué se espera de él. Según Doctrina y Convenios 107:99, ¿qué le falta?",
       "options": [
-        "Predicar el evangelio y ayudar a los Apóstoles",
-        "Solo administrar ordenanzas",
-        "No tienen función",
-        "Son jueces"
+        "Esperar a recibir instrucciones detalladas antes de comenzar.",
+        "Consultar con otros que hayan tenido el mismo llamamiento.",
+        "Aprender su deber, que es lo primero que el versículo manda antes de obrar con diligencia.",
+        "Pedir una asignación acorde a su experiencia previa."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 6,
-      "question": "¿Qué responsabilidad tienen los Obispos según DyC 107:71–74?",
+      "question": "En un consejo de clase, Martina propone decidir por votación y quedarse con la opinión de la mayoría para no demorar más. Según Doctrina y Convenios 107:27, ¿qué diferencia hay con el modelo que enseña la revelación?",
       "options": [
-        "Presidir sobre los asuntos temporales y espirituales de su congregación",
-        "No tienen autoridad",
-        "Solo predicar",
-        "Dependen de los jóvenes"
+        "Que las decisiones de un consejo de clase no requieren ningún procedimiento formal.",
+        "Que la votación es válida siempre que participen todos los miembros.",
+        "Que el que preside debería decidir cuando no hay acuerdo.",
+        "Que el modelo revelado busca el acuerdo de todos, porque eso es lo que indica la guía del Espíritu."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 107:27 exige unanimidad en los cuórums y 107:99 manda a cada uno aprender su deber. ¿Qué principio común forman los dos versículos?",
+      "options": [
+        "Que la obra del Señor se sostiene sobre responsabilidades tomadas en serio, tanto en conjunto como individualmente.",
+        "Que las decisiones importantes deben tomarse siempre en grupo.",
+        "Que la diligencia individual reemplaza la necesidad de consultar a otros.",
+        "Que los deberes de los cuórums son más exigentes que los individuales."
       ],
       "correctAnswer": 0
     }

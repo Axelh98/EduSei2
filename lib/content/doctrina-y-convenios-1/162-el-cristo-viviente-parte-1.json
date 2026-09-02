@@ -3,15 +3,18 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "El 1 de enero del año 2000, los Quórum de la Primera Presidencia y del Quórum de los Doce Apóstoles firmaron y publicaron 'El Cristo Viviente: El testimonio de los Apóstoles'. Este documento es el testimonio formal de los Apóstoles vivos sobre Jesucristo: quién es Él, qué hizo, y que vive hoy. La primera parte de la lección estudia los párrafos que describen la vida terrenal del Salvador: su nacimiento, su ministerio, sus milagros, la Expiación, la Resurrección. Cada párrafo es denso en doctrina y en emoción espiritual. Estudiar 'El Cristo Viviente' no es un ejercicio de memorización escolar — es una oportunidad de conocer al Salvador de una manera más profunda. Para muchos jóvenes que crecieron en la Iglesia, Jesús puede ser un nombre familiar pero no una persona real y cercana. Este documento está diseñado para cambiar eso."
+      "contenido": [
+        "El 1 de enero del año 2000, la Primera Presidencia y el Cuórum de los Doce Apóstoles firmaron y publicaron «El Cristo Viviente: El testimonio de los Apóstoles». Ese documento es el testimonio formal de los Apóstoles vivientes sobre Jesucristo: quién es Él, qué hizo y que vive hoy. La primera parte de la lección estudia los párrafos que describen la vida terrenal del Salvador: Su nacimiento, Su ministerio, Sus milagros, la Expiación y la Resurrección.",
+        "Cada párrafo es denso en doctrina. Estudiar «El Cristo Viviente» no es un ejercicio de memorización escolar: es una oportunidad de conocer al Salvador de una manera más profunda. Para muchos jóvenes que crecieron en la Iglesia, Jesús puede ser un nombre familiar sin ser una persona real y cercana; se puede saber mucho sobre Él y no conocerlo, del mismo modo que se puede saber la biografía de alguien famoso sin haberlo tratado nunca. El documento está diseñado para cerrar esa distancia: cada declaración obliga a preguntarse no solo «¿esto es cierto?», sino «¿esto lo creo yo?»."
+      ]
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
           "referencia": "El Cristo Viviente — Párrafo 2",
-          "texto": "Él fue el Hijo Unigénito del Padre Eterno. Recibió dones del Padre Eterno... y fue dotado de poder y autoridad del cielo para purificar y para sanar, para instruir y para inspirar.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa"
+          "texto": "Él fue el Gran Jehová del Antiguo Testamento y el Mesías del Nuevo Testamento. Bajo la dirección de Su Padre, Él fue el Creador de la tierra. […] Recorrió los caminos de Palestina, sanando a los enfermos, haciendo que los ciegos vieran y levantando a los muertos. Enseñó las verdades de la eternidad, la realidad de nuestra existencia premortal, el propósito de nuestra vida en la tierra y el potencial de los hijos y de las hijas de Dios en la vida venidera.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa&id=p2#p2"
         },
         {
           "referencia": "1 Corintios 15:3–4",
@@ -29,7 +32,7 @@
       "tipo": "enseñanza",
       "autor": "Élder Robert D. Hales",
       "fuente": "La conferencia general: Fortalece la fe y el testimonio”, Liahona, noviembre de 2013, pág. 7",
-      "texto": "El mundo se está alejando del Señor más rápido y más lejos que nunca. El adversario ha sido soltado sobre la tierra. Vemos, oímos, leemos, estudiamos y compartimos las palabras de los profetas para estar advertidos y protegidos. Por ejemplo, 'La Familia: Una Proclamación para el Mundo' se dio mucho antes de que enfrentáramos los desafíos que hoy afectan a la familia. 'El Cristo Viviente: El Testimonio de los Apóstoles' se preparó de antemano para cuando más lo necesitáramos.",
+      "texto": "El mundo se aleja del Señor más rápido y más lejos que nunca. El adversario ejerce su poder e influencia sobre la tierra. Vemos, oímos, leemos, estudiamos y compartimos las palabras de los profetas a fin de estar prevenidos y recibir protección. Por ejemplo, «La Familia: Una Proclamación para el Mundo» se recibió mucho antes de padecer las dificultades que ahora enfrenta la familia. «El Cristo Viviente: El testimonio de los Apóstoles» se preparó con antelación a cuando más la íbamos a necesitar.",
       "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/10/general-conference-strengthening-faith-and-testimony?lang=spa&id=p16#p16"
     },
     {
@@ -43,7 +46,8 @@
         "¿Cuál es la diferencia entre saber datos sobre Jesucristo y conocerlo como persona?",
         "¿Qué momento de la vida terrenal del Salvador te resulta más significativo, y por qué?",
         "¿Hay algo en tu vida esta semana donde necesitás al Salvador como Sanador, como Maestro, o como Amigo? ¿Qué sería acercarte a Él esta semana?",
-        "¿Cómo cambiaría tu semana si recordaras conscientemente cada mañana que el Salvador vive y te conoce?"
+        "¿Cómo cambiaría tu semana si recordaras conscientemente cada mañana que el Salvador vive y te conoce?",
+        "Elegí un párrafo del documento y leelo en voz alta esta semana, como si lo estuvieras firmando vos. ¿Cuál elegís y qué te cuesta de firmarlo?"
       ]
     }
   ],
@@ -52,34 +56,34 @@
       "id": 1,
       "question": "El documento 'El Cristo Viviente' fue emitido el 1 de enero del año 2000. ¿Quiénes lo firmaron como testigos?",
       "options": [
-        "Los miembros del Quórum de la Primera Presidencia y del Quórum de los Doce Apóstoles.",
-        "El presidente de la Iglesia y los presidentes de las estacas del mundo.",
         "Los presidentes de misión de los cinco continentes como representantes globales.",
-        "El profeta y los setenta miembros del Quórum de los Setenta."
+        "El profeta y los setenta miembros del Quórum de los Setenta.",
+        "Los miembros del Quórum de la Primera Presidencia y del Quórum de los Doce Apóstoles.",
+        "El presidente de la Iglesia y los presidentes de las estacas del mundo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "El documento declara que Cristo fue 'el Gran Jehová del Antiguo Testamento'. ¿Qué implica esa declaración sobre la identidad del Dios que habló con Moisés, Abraham y los profetas de Israel?",
       "options": [
+        "Que el nombre Jehová pertenece al Padre Celestial, no a Jesucristo.",
         "Que el Dios del Antiguo Testamento es diferente al Padre Celestial y al Jesucristo del Nuevo Testamento.",
         "Que Jehová era un título genérico que distintos seres divinos usaban según el contexto.",
-        "Que Jesucristo es el mismo Dios que dirigió a Israel — el mismo ayer, hoy y por los siglos.",
-        "Que el nombre Jehová pertenece al Padre Celestial, no a Jesucristo."
+        "Que Jesucristo es el mismo Dios que dirigió a Israel — el mismo ayer, hoy y por los siglos."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "El documento afirma que Cristo 'venció físicamente a la muerte'. ¿Qué diferencia doctrinal concreta hace creer en una resurrección corporal real versus una resurrección solo espiritual o metafórica?",
       "options": [
-        "Ninguna diferencia práctica — lo que importa es que exista algo después de la muerte.",
         "Una resurrección corporal real significa que la identidad personal continúa, que el cuerpo importa eternamente y que la muerte no es el final de quiénes somos.",
         "Solo importa a los teólogos que debaten sobre la naturaleza de la vida eterna.",
-        "La diferencia es solo semántica entre diferentes tradiciones religiosas."
+        "La diferencia es solo semántica entre diferentes tradiciones religiosas.",
+        "Ninguna diferencia práctica — lo que importa es que exista algo después de la muerte."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -107,23 +111,23 @@
       "id": 6,
       "question": "Joaquín tiene un amigo que pregunta 'si Cristo resucitó, ¿por qué no hay evidencia histórica más clara?'. Usando el principio del documento sobre el testimonio apostólico, ¿cuál es la respuesta más sólida?",
       "options": [
+        "Que la resurrección ocurrió hace tanto tiempo que la evidencia naturalmente se perdió.",
         "Que la evidencia histórica existe pero los científicos la ocultan deliberadamente.",
         "Que la fe no necesita evidencia histórica y preguntar eso muestra poca espiritualidad.",
-        "Que doce testigos actuales — apóstoles vivos — ofrecen su nombre como evidencia personal de que Él vive hoy.",
-        "Que la resurrección ocurrió hace tanto tiempo que la evidencia naturalmente se perdió."
+        "Que doce testigos actuales — apóstoles vivos — ofrecen su nombre como evidencia personal de que Él vive hoy."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto 'El Cristo Viviente' como D&C 76:22–23 afirman que Cristo 'vive'. Pero uno es un documento firmado y el otro es un relato de visión. ¿Qué fortaleza diferente aporta cada uno como testimonio?",
       "options": [
+        "'El Cristo Viviente' aporta un testimonio formal colectivo de testigos vivos; D&C 76 aporta un testimonio de experiencia directa y visual — juntos cubren lo intelectual y lo experiencial.",
         "Ambos aportan exactamente la misma fortaleza porque la fuente de ambos es el Espíritu Santo.",
         "'El Cristo Viviente' es más fuerte porque es reciente y fue firmado por más personas.",
-        "D&C 76 es más fuerte porque es Escritura canónica; 'El Cristo Viviente' es solo un documento moderno.",
-        "'El Cristo Viviente' aporta un testimonio formal colectivo de testigos vivos; D&C 76 aporta un testimonio de experiencia directa y visual — juntos cubren lo intelectual y lo experiencial."
+        "D&C 76 es más fuerte porque es Escritura canónica; 'El Cristo Viviente' es solo un documento moderno."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     }
   ]
 }

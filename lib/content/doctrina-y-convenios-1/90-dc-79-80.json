@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "D&C 79 y 80 son dos revelaciones cortas pero llenas de principios sobre los llamamientos misionales. D&C 79 llama a Jared Carter a servir una misión y le da una instrucción específica: predicar el evangelio por el Espíritu, el Consolador que enseña la verdad de todas las cosas. D&C 80 llama a Stephen Burnett y Eden Smith, y contiene una enseñanza que puede sorprender: el Señor les dice que no importa dónde vayan a misionar — dondequiera que vayan, si proclaman el evangelio fielmente, el Señor los acompañará y la obra avanzará. Esta flexibilidad divina muestra un principio que aplica más allá de las misiones formales: el Señor no necesita que las condiciones sean perfectas para que Su obra avance. Necesita discípulos dispuestos. Cuando la disposición está ahí, el Señor provee el camino."
+      "contenido": [
+        "Doctrina y Convenios 79 y 80 son dos revelaciones cortas pero cargadas de principios sobre los llamamientos misionales. La sección 79 llama a Jared Carter a servir una misión con una instrucción precisa: predicar el evangelio por el Espíritu, el Consolador que enseña la verdad de todas las cosas. La sección 80 llama a Stephen Burnett y Eden Smith, y contiene una enseñanza que puede sorprender: el Señor les dice que no importa adónde vayan; dondequiera que prediquen fielmente, no podrán ir descarriados.",
+        "Esa flexibilidad muestra un principio que va más allá de las misiones formales: el Señor no necesita condiciones perfectas para que Su obra avance, necesita discípulos dispuestos. Cuando la disposición está, Él provee el camino. Y eso saca de encima una excusa bastante común, la de esperar el momento ideal, el lugar ideal o el nivel de preparación ideal antes de hacer algo por la obra. Ninguno de los dos misioneros de la sección 80 sabía adónde iba cuando aceptó; lo que sí tenían era la decisión tomada de antemano."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿Qué te dice D&C 80:3 sobre la importancia de las condiciones externas cuando tenés la disposición de servir al Señor?",
         "¿Estás considerando una misión formal? ¿Qué te entusiasma o qué te preocupa al respecto?",
         "Más allá de una misión formal, ¿hay oportunidades en tu entorno actual donde podrías proclamar el evangelio con el Espíritu?",
-        "¿Con qué disposición terminás este primer semestre de Seminario? ¿Qué llevarás contigo al segundo semestre?"
+        "¿Con qué disposición terminás este primer semestre de Seminario? ¿Qué llevarás contigo al segundo semestre?",
+        "Terminás el semestre. ¿Qué es lo único que querés llevarte de estas semanas al segundo semestre, y cómo vas a hacer para no perderlo en las vacaciones?"
       ]
     }
   ],
@@ -47,12 +51,12 @@
       "id": 1,
       "question": "D&C 79:1–2 llama a Jared Carter a predicar el evangelio por el Espíritu. ¿Cuál es el nombre específico que el Señor usa para ese Espíritu en esos versículos?",
       "options": [
-        "El Consolador — el Espíritu que fue enviado para enseñar la verdad.",
         "El Espíritu de Revelación que guía a la verdad completa.",
         "El Espíritu de Profecía que confirma las palabras del profeta.",
-        "El Espíritu de Discernimiento que protege al misionero del engaño."
+        "El Espíritu de Discernimiento que protege al misionero del engaño.",
+        "El Consolador — el Espíritu que fue enviado para enseñar la verdad."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
@@ -78,36 +82,36 @@
     },
     {
       "id": 4,
-      "question": "El presidente Nelson enseñó que 'cada miembro es un misionero'. ¿Cómo conecta el principio de D&C 80:3 ('no podéis ir descarriados') con la obra misional cotidiana de un joven que no es misionero de tiempo completo?",
+      "question": "El élder Uchtdorf enseñó que «donde sea que se encuentren en este mundo, hay más que suficientes oportunidades de compartir las buenas nuevas del Evangelio». ¿Cómo se conecta eso con la promesa de Doctrina y Convenios 80:3 de que «no podéis ir descarriados»?",
       "options": [
-        "Que el principio solo aplica a misioneros con llamamiento formal y no a miembros comunes.",
-        "Que donde sea que el joven esté — su escuela, su barrio, su familia — ese es su campo misional actual, y la misma promesa de que 'no puede ir descarriado' aplica cuando predica con disposición fiel.",
-        "Que los jóvenes deben esperar a ser misioneros de tiempo completo para aplicar D&C 80.",
-        "Que la misión cotidiana es menos importante y no recibe la promesa del Señor en D&C 80."
+        "La obra cotidiana es un preparativo menor que queda fuera de la promesa del Señor.",
+        "La promesa se dirige solo a quienes tienen un llamamiento misional formal.",
+        "El lugar donde uno ya está —la escuela, el barrio, la familia— es su campo, y la promesa acompaña a quien predica con disposición fiel.",
+        "Los jóvenes deben esperar a la misión de tiempo completo para aplicar esa promesa."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Camila quiere compartir el evangelio pero siente que 'no sabe suficiente para responder preguntas difíciles'. D&C 80:4 le responde directamente. ¿Qué le diría?",
       "options": [
-        "Que primero debe estudiar todos los argumentos apologéticos antes de hablar con alguien.",
-        "Que empiece con lo que sí sabe y ha vivido — eso es exactamente lo que el Señor le pide: declarar lo que oyó, creyó y sabe que es verdadero. Su testimonio personal es suficiente.",
         "Que espere a ser misionera de tiempo completo para tener la autorización de hablar del evangelio.",
-        "Que la falta de conocimiento es una señal de que todavía no está lista para testificar."
+        "Que la falta de conocimiento es una señal de que todavía no está lista para testificar.",
+        "Que primero debe estudiar todos los argumentos apologéticos antes de hablar con alguien.",
+        "Que empiece con lo que sí sabe y ha vivido — eso es exactamente lo que el Señor le pide: declarar lo que oyó, creyó y sabe que es verdadero. Su testimonio personal es suficiente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Este es el cierre del primer semestre de Seminario. ¿Qué actitud misional describe D&C 79:1–2 y D&C 80:3–4 que sería la mejor manera de terminar el año?",
       "options": [
-        "La actitud de quien ya cumplió con lo que el Seminario le pedía y puede descansar.",
         "La actitud de quien predica por el Espíritu con disposición genuina, declarando lo que sabe que es verdadero, y confía en que dondequiera que esté, ese es su campo y no puede ir descarriado.",
         "La actitud de quien espera el llamamiento de misión para comenzar a proclamar el evangelio.",
-        "La actitud de quien evalúa cuánto aprendió en el año para determinar si está listo para testificar."
+        "La actitud de quien evalúa cuánto aprendió en el año para determinar si está listo para testificar.",
+        "La actitud de quien ya cumplió con lo que el Seminario le pedía y puede descansar."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

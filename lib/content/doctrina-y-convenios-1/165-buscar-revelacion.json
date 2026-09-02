@@ -4,9 +4,8 @@
     {
       "tipo": "contexto",
       "contenido": [
-        "Vivimos bombardeados de información. Redes sociales, podcasts, noticias: todo compite por decirnos qué creer. En ese ruido, ¿cómo sabés qué es verdad? ¿Cómo encontrás respuestas a las preguntas que realmente importan?",
-        "El primer principio para adquirir conocimiento espiritual es ir directamente a la fuente: podés pedirle a Dios. El Padre Celestial prometió revelar la verdad a la mente y al corazón por medio del Espíritu Santo (D&C 8:2). No es una promesa solo para profetas del pasado; es tu derecho y privilegio como hijo o hija de Dios.",
-        "Pero la revelación no cae del cielo de forma automática. Hay condiciones: humildad, fe genuina, disposición a actuar según lo que Dios responda, y fidelidad a los convenios. El presidente Nelson enseñó que necesitamos aumentar activamente nuestra capacidad de recibir revelación. No esperarla pasivamente, sino cultivarla con esfuerzo intencional."
+        "Vivimos bombardeados de información. Redes sociales, podcasts, noticias: todo compite por decirnos qué creer. En ese ruido, ¿cómo sabés qué es verdad? ¿Cómo encontrás respuestas a las preguntas que realmente importan? El primer principio para adquirir conocimiento espiritual es ir directamente a la fuente: podés pedirle a Dios. El Padre Celestial prometió revelar la verdad a la mente y al corazón por medio del Espíritu Santo (D. y C. 8:2). No es una promesa solo para profetas del pasado; es tu derecho y privilegio como hijo o hija de Dios.",
+        "Pero la revelación no cae del cielo de forma automática. Hay condiciones: humildad, fe genuina, disposición a actuar según lo que Dios responda, y fidelidad a los convenios. El presidente Nelson enseñó que necesitamos aumentar activamente nuestra capacidad de recibir revelación. No esperarla pasivamente, sino cultivarla con esfuerzo intencional. Eso cambia la pregunta: en vez de «¿por qué Dios no me contesta?», la pregunta pasa a ser «¿estoy en condiciones de escuchar?». Y esa segunda pregunta sí depende de vos."
       ]
     },
     {
@@ -33,7 +32,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Recibir revelación personal es el derecho de cada miembro fiel. Dios quiere comunicarse con vos —a tu mente y a tu corazón— exactamente en tus circunstancias actuales. Para recibir esa comunicación necesitás humildad, fe, obediencia, y disposición de actuar. Esta semana, elegí una pregunta concreta que tengas y llevala a Dios con fe genuina, dispuesto a recibir y a actuar según lo que recibas."
+      "contenido": [
+        "Recibir revelación personal es el derecho de cada miembro fiel. Dios quiere comunicarse con vos —a tu mente y a tu corazón— exactamente en tus circunstancias actuales. Para recibir esa comunicación necesitás humildad, fe, obediencia y disposición de actuar. Tomá una pregunta real que tengas dando vueltas hace tiempo, la que preferirías no mirar de frente, y llevala a Dios en oración antes de que termine la semana, con la decisión tomada de hacer lo que Él te indique."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -42,7 +43,8 @@
         "Según D&C 8:2–3, ¿de qué dos maneras habla el Espíritu Santo? ¿Qué diferencia hace eso en cómo reconocés una revelación?",
         "¿Alguna vez sentiste que recibiste una respuesta de Dios a algo concreto? ¿Cómo llegó esa respuesta?",
         "¿Qué condiciones necesitás cultivar en tu vida para recibir más revelación personal?",
-        "¿Qué pregunta concreta llevarás a Dios esta semana? ¿Cuándo y cómo lo harás?"
+        "¿Qué pregunta concreta llevarás a Dios esta semana? ¿Cuándo y cómo lo harás?",
+        "Cuando recibas una impresión sobre esa pregunta, ¿cómo vas a registrarla para no perderla: un cuaderno, una nota en el teléfono, un mensaje a vos mismo?"
       ]
     }
   ],
@@ -51,67 +53,78 @@
       "id": 1,
       "question": "¿Cuáles son tres fuentes que compiten por decirte qué creer en tu vida cotidiana?",
       "options": [
+        "Las noticias, la ciencia y la filosofía académica",
         "Las Escrituras, la oración y los líderes de la Iglesia",
         "Las redes sociales, las opiniones de amigos y los podcasts populares",
-        "Los libros de texto, los maestros de la escuela y los padres",
-        "Las noticias, la ciencia y la filosofía académica"
+        "Los libros de texto, los maestros de la escuela y los padres"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "D&C 8:2–3 dice que el Espíritu Santo hablará 'a tu mente y a tu corazón'. ¿Qué significa que sean los dos a la vez?",
       "options": [
-        "Que la revelación siempre produce emociones fuertes y visiones",
-        "Que hay una iluminación del entendimiento acompañada de paz interior, no solo una de las dos",
         "Que primero viene la emoción y después el pensamiento, siempre en ese orden",
-        "Que mente y corazón son la misma cosa en el lenguaje de las Escrituras"
+        "Que mente y corazón son la misma cosa en el lenguaje de las Escrituras",
+        "Que la revelación siempre produce emociones fuertes y visiones",
+        "Que hay una iluminación del entendimiento acompañada de paz interior, no solo una de las dos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Alguna vez sentiste que recibiste una respuesta de Dios a algo concreto de tu vida? ¿Cómo llegó esa respuesta — como pensamiento, como paz, como algo que leíste?",
+      "question": "Martina oró para saber si debía dejar un grupo de amigas que la estaba arrastrando a decisiones que no la dejaban tranquila. No escuchó ninguna voz, pero durante la semana volvió tres veces a un mismo pensamiento con una calma clara. Según Doctrina y Convenios 8:2–3, ¿cómo se interpreta mejor esa experiencia?",
       "options": [
-        "Como una voz audible que me habló directamente",
-        "Como un pensamiento claro o una sensación de paz que no podía explicar del todo",
-        "Como un sueño detallado con instrucciones exactas",
-        "Nunca recibí ningún tipo de respuesta de Dios"
+        "Fue exactamente la forma descrita en la Escritura: el Espíritu habla a la mente y al corazón.",
+        "Fue solo su propio razonamiento, ya que un pensamiento repetido es un producto natural de la preocupación.",
+        "Debería esperar una manifestación más espectacular antes de tomar cualquier decisión.",
+        "No fue revelación, porque la revelación auténtica siempre llega de una sola vez y sin ambigüedad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "El presidente Nelson pidió que 'aumentemos nuestra capacidad de recibir revelación'. ¿Qué condición personal es más importante cultivar para eso?",
       "options": [
-        "Leer las Escrituras en idiomas originales como el hebreo o el griego",
         "Tener un cargo de responsabilidad en la Iglesia",
         "Humildad, fe genuina, y disposición de actuar según lo que Dios responda",
-        "Haber asistido a Seminario sin faltas durante varios años"
+        "Haber asistido a Seminario sin faltas durante varios años",
+        "Leer las Escrituras en idiomas originales como el hebreo o el griego"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué pregunta concreta de tu vida llevarás a Dios esta semana? ¿Cuándo y cómo lo harás?",
+      "question": "Benjamín dice que no le lleva sus preguntas a Dios porque le parecen «demasiado chicas» para molestarlo con eso. Según los principios de esta lección, ¿cuál es la respuesta más fiel a la doctrina?",
       "options": [
-        "Esperar a tener una pregunta más importante antes de orar",
-        "Elegir una pregunta real que tengo ahora y presentarla a Dios en oración esta noche",
-        "Pedir al obispo que ore en mi lugar para recibir la respuesta más rápido",
-        "Escribir la pregunta pero no orar hasta tener más certeza"
+        "Debería esperar a ser mayor, cuando sus decisiones tengan consecuencias más serias.",
+        "Tiene razón: conviene reservar la oración para las decisiones verdaderamente grandes de la vida.",
+        "La promesa de revelación se dirige a los hijos de Dios en sus circunstancias reales, sin un mínimo de importancia.",
+        "Lo mejor es que consulte primero con un líder y, si él lo considera necesario, recién entonces ore."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Moroni 10:5 promete que 'por el poder del Espíritu Santo podréis conocer la verdad de todas las cosas'. ¿Qué hace esa promesa especialmente relevante para vivir en 2025?",
       "options": [
-        "Que ya no necesitamos estudiar nada porque el Espíritu lo revela todo automáticamente",
-        "Que en un mundo lleno de información contradictoria, tenemos acceso directo al árbitro definitivo de la verdad",
         "Que las generaciones actuales tienen más acceso al Espíritu que las anteriores",
-        "Que la promesa solo aplica a los líderes de la Iglesia que deben enseñar doctrinas"
+        "Que la promesa solo aplica a los líderes de la Iglesia que deben enseñar doctrinas",
+        "Que ya no necesitamos estudiar nada porque el Espíritu lo revela todo automáticamente",
+        "Que en un mundo lleno de información contradictoria, tenemos acceso directo al árbitro definitivo de la verdad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 8:2–3 promete que el Espíritu hablará a la mente y al corazón, y Moroni 10:5 promete que por Su poder se puede conocer la verdad de todas las cosas. ¿Qué tienen en común esas dos promesas respecto de quién puede reclamarlas?",
+      "options": [
+        "Las dos ponen la revelación al alcance de cualquier persona dispuesta a preguntar con intención real.",
+        "Las dos prometen respuestas inmediatas para quien las pide con suficiente insistencia.",
+        "Las dos están dirigidas a quienes ya tienen un llamamiento de liderazgo en la Iglesia.",
+        "Las dos se cumplieron en la época de los profetas antiguos y hoy funcionan de otra manera."
+      ],
+      "correctAnswer": 0
     }
   ]
 }

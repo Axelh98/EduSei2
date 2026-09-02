@@ -33,7 +33,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Las metas espirituales pequeñas y concretas son más poderosas que las grandes y vagas. 'Seré más espiritual' no cambia nada. 'Voy a orar diez minutos cada mañana, de rodillas, antes de salir de casa' sí puede cambiar todo. El Señor prometió en D&C 82:10 que está ligado cuando hacemos lo que Él dice. Las metas alineadas con el evangelio activan esas promesas. Esta semana, establecé una meta espiritual específica, medible, y con fecha. Escribila."
+      "contenido": [
+        "Las metas espirituales pequeñas y concretas son más poderosas que las grandes y vagas. «Seré más espiritual» no cambia nada. «Voy a orar diez minutos cada mañana, de rodillas, antes de salir de casa» sí puede cambiar todo. El Señor prometió en Doctrina y Convenios 82:10 que está obligado cuando hacemos lo que Él dice; las metas alineadas con el evangelio activan esas promesas. Escribí hoy una sola meta espiritual con verbo, horario y forma de medirla, y dejala anotada donde la veas todos los días."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -42,21 +44,22 @@
         "¿Cuál es la diferencia entre una meta vaga ('ser mejor') y una meta concreta ('leer cinco versículos cada mañana')? ¿Por qué importa esa diferencia?",
         "¿Cómo se conecta D&C 82:10 con el tema de fijar metas espirituales?",
         "¿Qué área de tu vida espiritual necesita más crecimiento en este momento?",
-        "¿Cuál es una meta espiritual concreta que vas a fijar esta semana? Sé específico: ¿qué, cuándo, cómo?"
+        "¿Cuál es una meta espiritual concreta que vas a fijar esta semana? Sé específico: ¿qué, cuándo, cómo?",
+        "¿A quién le vas a pedir que te pregunte en dos semanas cómo va esa meta, para tener alguien a quien rendirle cuentas?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál fue la última meta espiritual que te propusiste? ¿La cumpliste? Si no, ¿cuál fue la razón principal por la que no lo hiciste?",
+      "question": "Joaquín se propuso en enero «acercarse más al Señor» y en febrero no sabía si lo había logrado o no. Según lo que enseña esta lección, ¿cuál fue el problema de fondo de esa meta?",
       "options": [
-        "Era demasiado vaga — decía 'ser mejor' pero sin definir qué significaba eso",
-        "Era demasiado grande para empezar, así que nunca di el primer paso",
-        "Nadie me recordó que la había hecho y la olvidé",
-        "Cualquiera de las anteriores puede ser la razón"
+        "Que no definía ninguna acción concreta, ni cuándo ocurriría, ni cómo se sabría si se cumplió.",
+        "Que la fijó en enero, cuando las metas de Año Nuevo casi nunca funcionan.",
+        "Que no consultó con un líder de la Iglesia antes de comprometerse con ella.",
+        "Que era demasiado ambiciosa para el tiempo disponible que tenía."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -71,36 +74,36 @@
     },
     {
       "id": 3,
-      "question": "¿Qué área de tu vida espiritual necesita más crecimiento en este momento — la oración, el estudio de las Escrituras, la asistencia a las reuniones, o el servicio?",
+      "question": "Luca quiere crecer espiritualmente pero se dispersa: un día lee las Escrituras, otro día ayuna, otro se propone servir más, y no sostiene ninguna. Según Alma 37:6 y el proceso que enseña esta lección, ¿qué le conviene hacer?",
       "options": [
-        "La oración, porque es mecánica y no siento que realmente me comunico con Dios",
-        "El estudio de las Escrituras, porque lo hago esporádicamente sin consistencia",
-        "El servicio, porque tiende a quedar siempre para otro momento",
-        "Depende de la semana, pero hay un área que sé que está más descuidada"
+        "Pedir que le asignen una meta desde afuera, para no tener que elegir él.",
+        "Intentar las tres cosas a la vez, porque el crecimiento espiritual es integral y no se puede fragmentar.",
+        "Elegir un área concreta y trabajarla con constancia, confiando en que de lo pequeño y sencillo sale lo grande.",
+        "Esperar a tener una temporada con menos ocupaciones para empezar de forma ordenada."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "D&C 82:10 dice: 'Yo el Señor, estoy ligado cuando hacéis lo que yo digo'. ¿Qué conexión tiene eso con fijar metas espirituales?",
       "options": [
-        "Que el Señor cumplirá Sus promesas cuando nosotros cumplamos las nuestras",
         "Que el Señor nos obligará a cumplir las metas si las escribimos formalmente",
         "Que debemos esperar que el Señor actúe antes de comprometernos con nada",
-        "Que las promesas del Señor solo aplican a los líderes de la Iglesia"
+        "Que las promesas del Señor solo aplican a los líderes de la Iglesia",
+        "Que el Señor cumplirá Sus promesas cuando nosotros cumplamos las nuestras"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Cuál es una meta espiritual concreta que vas a fijar esta semana? ¿Qué específicamente harás, cuándo y cómo lo medirás?",
+      "question": "Doctrina y Convenios 82:10 dice que el Señor está obligado cuando hacemos lo que Él dice, «mas cuando no hacéis lo que os digo, ninguna promesa tenéis». ¿Qué implica ese versículo sobre las metas espirituales?",
       "options": [
-        "Ser más dedicado a la Iglesia en general durante el año",
-        "Una acción específica, en un momento concreto, durante un tiempo definido — por ejemplo cinco minutos de Escrituras cada noche antes de dormir",
-        "Esperar a que llegue la motivación antes de comprometerse con algo concreto",
-        "Hablar con el obispo para que él me diga qué meta debería tener"
+        "Que cumplir una meta espiritual es lo que pone en marcha una promesa que ya estaba ofrecida.",
+        "Que el Señor asigna una meta distinta a cada persona y hay que descubrir cuál es la propia.",
+        "Que las promesas de Dios dependen del tamaño de la meta que uno se proponga.",
+        "Que quien no cumple una meta pierde de forma definitiva las bendiciones asociadas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -112,6 +115,17 @@
         "Que las metas espirituales son siempre pequeñas comparadas con las metas del mundo"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "La lección une dos ideas: que el Señor está obligado cuando obedecemos (Doctrina y Convenios 82:10) y que de los medios pequeños salen las cosas grandes (Alma 37:6). ¿Qué principio común sobre el crecimiento espiritual surge de juntarlas?",
+      "options": [
+        "Que la obediencia asegura resultados visibles en un plazo breve y previsible.",
+        "Que el crecimiento espiritual depende sobre todo de la intensidad del esfuerzo puntual.",
+        "Que las promesas del Señor se activan por actos concretos y repetidos, aunque cada uno parezca menor.",
+        "Que las metas grandes son las únicas capaces de producir un cambio verdadero."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

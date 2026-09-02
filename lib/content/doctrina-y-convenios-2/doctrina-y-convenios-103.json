@@ -1,59 +1,134 @@
 {
   "id": "doctrina-y-convenios-103",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "En febrero de 1834, el Señor mandó organizar el Campamento de Israel: un grupo de voluntarios que marcharía más de mil quinientos kilómetros desde Ohio hasta Misuri para ayudar a los santos expulsados. Pidió quinientos hombres; respondieron algo más de doscientos.",
+        "Wilford Woodruff fue uno de ellos. Sus vecinos le rogaron que no fuera: le dijeron que si iba, perdería la vida. Él contestó: «Iría aunque supiera que una bala fuera a atravesarme el corazón al dar el primer paso en el estado de Misuri». Y explicó por qué con una frase que resume la sección entera: «Voy en pos de la salvación y la vida eterna, y no quiero que nada se interponga en mi camino para lograrlo».",
+        "El versículo 12 da el principio que ordena todo: «tras mucha tribulación, como os he dicho en un mandamiento anterior, viene la bendición». No dice que la tribulación sea la bendición, ni que se pueda evitar; dice el orden en que vienen las cosas. Y el versículo 36 agrega de qué depende el resultado: «toda victoria y toda gloria os es realizada mediante vuestra diligencia, fidelidad y oraciones de fe»."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 103:12",
+          "texto": "Porque tras mucha tribulación, como os he dicho en un mandamiento anterior, viene la bendición.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/103?lang=spa&id=p12#p12"
+        },
+        {
+          "referencia": "Doctrina y Convenios 103:27",
+          "texto": "Ningún hombre tema dar su vida por mi causa; porque quien dé su vida por mi causa, la hallará de nuevo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/103?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "Doctrina y Convenios 103:36",
+          "texto": "Toda victoria y toda gloria os es realizada mediante vuestra diligencia, fidelidad y oraciones de fe.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/103?lang=spa&id=p36#p36"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente James E. Faust",
+      "fuente": "«El discipulado», Conferencia General, octubre de 2006 (Liahona, noviembre de 2006, pág. 22)",
+      "texto": "A la mayoría de nosotros no se nos requiere morir por la Iglesia, sino vivir por ella. Para muchos, llevar cada día una vida cristiana puede llegar a ser más difícil que entregar la vida.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2006/10/discipleship?lang=spa&id=p29#p29"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Wilford Woodruff estuvo dispuesto a caminar mil quinientos kilómetros sabiendo que podía no volver. El presidente Faust señala la versión de esa entrega que a casi todos nos toca: no morir por la Iglesia sino vivir por ella, día por día, que a veces cuesta más. La sección promete que la bendición viene después de la tribulación, y que el resultado depende de la diligencia y de las oraciones de fe. Elegí el compromiso que hoy te esté costando sostener y sostenelo una semana más, sin renegociarlo."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "El Señor pidió quinientos hombres y respondieron poco más de doscientos. ¿Qué te parece que frenó a los demás?",
+        "Wilford Woodruff dijo que iría aunque supiera que le costaría la vida. ¿Qué te genera esa respuesta?",
+        "«Tras mucha tribulación viene la bendición». ¿Cómo cambia eso la manera de atravesar una etapa difícil?",
+        "El presidente Faust dice que vivir por la Iglesia puede ser más difícil que morir por ella. ¿Por qué te parece que dice eso?",
+        "¿Qué compromiso te está costando sostener últimamente?",
+        "¿Qué vas a hacer para sostenerlo una semana más sin renegociarlo? Definí el cómo."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué mandamiento recibió José Smith en DyC 103 respecto a los santos de Misuri?",
+      "question": "¿Cuántos hombres pidió el Señor para el Campamento de Israel y cuántos respondieron?",
       "options": [
-        "Organizar un grupo de voluntarios para ayudar",
-        "Ignorar la situación",
-        "Esperar sin actuar",
-        "Enviar cartas de consuelo"
+        "Pidió mil y respondieron quinientos.",
+        "Pidió cien y respondieron doscientos.",
+        "Pidió quinientos y respondieron poco más de doscientos.",
+        "Pidió doscientos y respondieron quinientos."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿Cuántos hombres pidió el Señor para el Campamento de Israel según DyC 103:22, 29–34?",
+      "question": "¿Qué principio establece Doctrina y Convenios 103:12?",
       "options": [
-        "500",
-        "200",
-        "50",
-        "1000"
+        "Que las bendiciones y las tribulaciones llegan en igual medida.",
+        "Que la tribulación es en sí misma una bendición.",
+        "Que la tribulación se evita mediante la obediencia.",
+        "Que tras mucha tribulación viene la bendición."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Cuántos respondieron realmente al llamado de formar el Campamento de Israel?",
+      "question": "Según Doctrina y Convenios 103:36, ¿de qué depende toda victoria y toda gloria?",
       "options": [
-        "Poco más de 200",
-        "Exactamente 500",
-        "Menos de 50",
-        "Más de 1000"
+        "De la diligencia, la fidelidad y las oraciones de fe.",
+        "De la protección que el Señor conceda en cada circunstancia.",
+        "De la unidad entre los líderes de la Iglesia.",
+        "De la cantidad de personas dispuestas a participar."
       ],
       "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué enseñanza del presidente Russell M. Nelson se relaciona con DyC 103?",
+      "question": "Wilford Woodruff respondió a sus vecinos: «Voy en pos de la salvación y la vida eterna, y no quiero que nada se interponga en mi camino». ¿Qué revela esa frase sobre su decisión?",
       "options": [
-        "Meditar en las promesas del Señor y verlas cumplirse",
-        "Ignorar las promesas",
-        "Evitar compromisos",
-        "No esperar bendiciones"
+        "Que subestimaba el peligro real del viaje a Misuri.",
+        "Que su prioridad estaba definida de antemano, y por eso la decisión no se discutía en cada obstáculo.",
+        "Que confiaba en que el Señor lo protegería de todo daño.",
+        "Que la presión del grupo lo llevó a comprometerse."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué principio enseñan DyC 103:27–28 y los evangelios sobre el discipulado?",
+      "question": "El presidente Faust enseñó que «a la mayoría de nosotros no se nos requiere morir por la Iglesia, sino vivir por ella», y que eso puede ser más difícil. ¿Por qué resultaría más difícil?",
       "options": [
-        "Negarse a sí mismo y seguir a Cristo",
-        "Buscar comodidad",
-        "Evitar sacrificios",
-        "Seguir solo cuando es fácil"
+        "Porque hoy hay menos oposición que en la época de los primeros santos.",
+        "Porque vivir el evangelio requiere más conocimiento doctrinal que antes.",
+        "Porque exige constancia diaria en circunstancias que no tienen nada de heroico.",
+        "Porque las exigencias de la Iglesia aumentaron con el tiempo."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Benjamín sostiene sus compromisos mientras le resultan emocionantes, y los abandona cuando se vuelven rutina. Según Doctrina y Convenios 103:36 y la enseñanza del presidente Faust, ¿qué le falta?",
+      "options": [
+        "Esperar una confirmación espiritual antes de comprometerse.",
+        "Comprometerse en menor cantidad de cosas a la vez.",
+        "Elegir compromisos que se ajusten mejor a sus intereses.",
+        "La diligencia sostenida, que es donde se juega el discipulado cotidiano."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 103:12 dice que la bendición viene tras la tribulación, y 103:36 atribuye la victoria a la diligencia y las oraciones de fe. ¿Qué principio común forman los dos versículos?",
+      "options": [
+        "Que el resultado prometido llega después de un proceso en el que la persona sostiene su parte.",
+        "Que la tribulación se acorta en proporción a la fe de quien la atraviesa.",
+        "Que la victoria depende exclusivamente de la intervención divina.",
+        "Que las oraciones de fe eliminan la necesidad del esfuerzo."
       ],
       "correctAnswer": 0
     }

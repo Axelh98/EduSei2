@@ -1,81 +1,134 @@
 {
   "id": "doctrina-y-convenios-88-51-95",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "El Señor ilustra la diferencia entre los reinos de gloria con una parábola muy simple: un hombre con un campo envía a sus siervos a trabajar, y les promete visitarlos, a cada uno en una hora distinta, para que vean «el gozo de [su] semblante». Todos reciben una visita; lo que cambia es cuándo y cuánto.",
+        "En medio de esa explicación aparece el versículo 63, uno de los más citados de toda la Restauración: «Allegaos a mí, y yo me allegaré a vosotros; buscadme diligentemente, y me hallaréis; pedid, y recibiréis; llamad, y se os abrirá». Cuatro promesas, y las cuatro empiezan con un verbo del lado de uno. La iniciativa no es de Dios esperando que la persona esté lista: es de la persona dando el primer paso.",
+        "El presidente Nelson describió cómo se ve esa iniciativa cuando es real: «cuando procuren el poder del Señor en su vida con la misma intensidad que tiene uno que se está ahogando y lucha por respirar». Esa es la diferencia entre querer acercarse y acercarse."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:63",
+          "texto": "Allegaos a mí, y yo me allegaré a vosotros; buscadme diligentemente, y me hallaréis; pedid, y recibiréis; llamad, y se os abrirá.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p63#p63"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:67",
+          "texto": "Y si vuestra mira está puesta únicamente en mi gloria, vuestro cuerpo entero será lleno de luz y no habrá tinieblas en vosotros; y el cuerpo lleno de luz comprende todas las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p67#p67"
+        },
+        {
+          "referencia": "Doctrina y Convenios 88:68",
+          "texto": "Por tanto, santificaos para que vuestras mentes se enfoquen únicamente en Dios, y vendrán los días en que lo veréis, porque os descubrirá su faz; y será en su propio tiempo y a su propia manera, y de acuerdo con su propia voluntad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p68#p68"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Cómo obtener el poder de Jesucristo en nuestra vida», Conferencia General, abril de 2017 (Liahona, mayo de 2017, pág. 42)",
+      "texto": "Cuando procuren el poder del Señor en su vida con la misma intensidad que tiene uno que se está ahogando y lucha por respirar, el poder proveniente de Jesucristo será de ustedes.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&id=p29#p29"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": [
+        "Las cuatro promesas del versículo 63 tienen la misma estructura: primero un verbo tuyo, después uno de Él. Allegaos y me allegaré. Buscadme y me hallaréis. No es que Dios esté lejos; es que la puerta se abre desde este lado. Elegí uno de esos cuatro verbos —acercarte, buscar, pedir, llamar— y hacelo esta semana con la intensidad que describe el presidente Nelson, no con la que se le pone a un trámite."
+      ]
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "En la parábola del campo, todos los siervos reciben una visita del Señor. ¿Qué cambia entre uno y otro?",
+        "Doctrina y Convenios 88:63 pone cuatro verbos de nuestro lado antes de cada promesa. ¿Cuál de los cuatro te cuesta más?",
+        "El presidente Nelson compara buscar el poder del Señor con alguien que se está ahogando. ¿Qué cambia esa imagen respecto de «orar cuando me acuerdo»?",
+        "¿Alguna vez buscaste algo con esa intensidad? ¿Qué era?",
+        "El versículo 68 dice que la respuesta llega «en su propio tiempo y a su propia manera». ¿Qué te genera esa condición?",
+        "¿Cuál de los cuatro verbos vas a practicar esta semana, y de qué manera concreta?"
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué invitación hace el Señor en DyC 88:63?",
+      "question": "En la parábola de Doctrina y Convenios 88:51–53, ¿qué promete el hombre del campo a cada uno de sus siervos?",
       "options": [
-        "Allegaos a mí y yo me allegaré a vosotros",
-        "Ignorad mis palabras",
-        "Alejaos de mí",
-        "No busquéis mi presencia"
+        "Que el campo quedará repartido entre ellos al terminar la jornada.",
+        "Que recibirán una recompensa proporcional al trabajo realizado.",
+        "Que los visitará, a cada uno en una hora distinta, y verán el gozo de su semblante.",
+        "Que podrán elegir en qué parte del campo trabajar."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿Qué bendiciones promete el Señor en DyC 88:64–65 a quienes se allegan a Él?",
+      "question": "¿Cuáles son las cuatro invitaciones de Doctrina y Convenios 88:63?",
       "options": [
-        "Recibirán paz, revelación y la presencia del Salvador",
-        "Obtendrán riquezas materiales",
-        "Serán reconocidos por el mundo",
-        "No tendrán pruebas"
+        "Orar, ayunar, estudiar y servir.",
+        "Creer, arrepentirse, bautizarse y perseverar.",
+        "Escuchar, meditar, obedecer y testificar.",
+        "Allegarse, buscar diligentemente, pedir y llamar."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Qué enseña DyC 88:67 sobre la pureza de corazón?",
+      "question": "Cada promesa de Doctrina y Convenios 88:63 va precedida de una acción de la persona. ¿Qué principio establece esa estructura?",
       "options": [
-        "Que quienes sean puros de corazón verán a Dios",
-        "Que la pureza no es necesaria",
-        "Que solo los líderes pueden ser puros",
-        "Que la pureza es imposible"
+        "Que el acercamiento del Señor responde a un primer movimiento de quien lo busca.",
+        "Que Dios permanece distante hasta que la persona alcanza cierta dignidad.",
+        "Que las cuatro acciones deben realizarse en el orden exacto en que aparecen.",
+        "Que las bendiciones se conceden en proporción al esfuerzo invertido."
       ],
       "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué verdad central se enseña en DyC 88:68–69?",
+      "question": "El presidente Nelson comparó procurar el poder del Señor con la intensidad de «uno que se está ahogando y lucha por respirar». ¿Qué distingue esa búsqueda de una petición ocasional?",
       "options": [
-        "Que debemos santificarnos para recibir la gloria celestial",
-        "Que la santificación es opcional",
-        "Que no hay necesidad de santificación",
-        "Que la santificación es solo simbólica"
+        "La frecuencia con que se repite la misma petición.",
+        "La urgencia y la prioridad absoluta que ocupa, no la cantidad de palabras que se usen.",
+        "La duración de la oración, que debe extenderse hasta recibir respuesta.",
+        "La gravedad del problema por el que se pide ayuda."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Qué enseñó el presidente Dieter F. Uchtdorf sobre nuestro valor ante Dios?",
+      "question": "Martina ora todas las noches por costumbre, pero admite que no espera realmente que algo cambie. Según la enseñanza del presidente Nelson y Doctrina y Convenios 88:63, ¿qué le falta?",
       "options": [
-        "Que somos importantes para Él y capaces de llegar a ser lo que fuimos concebidos",
-        "Que somos insignificantes",
-        "Que no tenemos propósito",
-        "Que Dios no se interesa en nosotros"
+        "Esperar a tener una necesidad urgente para que la oración tenga sentido.",
+        "Aumentar la frecuencia de sus oraciones a dos veces por día.",
+        "La intención real de buscar, que es lo que convierte el hábito en un acercamiento.",
+        "Utilizar un lenguaje más formal al dirigirse al Señor."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 6,
-      "question": "¿Qué maneras prácticas se mencionan en la lección para allegarse más al Padre Celestial y a Jesucristo?",
+      "question": "Luca hizo todo lo que sabía hacer para recibir una respuesta y no llegó nada. Según Doctrina y Convenios 88:68, ¿qué le conviene entender?",
       "options": [
-        "A través de la música, los videos y las imágenes inspiradoras",
-        "Ignorando las Escrituras",
-        "Alejándose de la oración",
-        "Evitando el servicio"
+        "Que la falta de respuesta indica que su petición no era apropiada.",
+        "Que las respuestas llegan solo después de un período determinado de fidelidad.",
+        "Que conviene reformular la pregunta hasta encontrar la correcta.",
+        "Que la promesa se cumple «en su propio tiempo y a su propia manera», lo que no equivale a que no vaya a cumplirse."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 7,
-      "question": "¿Qué principio central enseña DyC 88:51–95 sobre Jesucristo?",
+      "question": "Doctrina y Convenios 88:63 pide acercarse al Señor y 88:67 promete que quien tiene la mira puesta únicamente en Su gloria será lleno de luz. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Que Él gobierna Sus creaciones y nos invita a allegarnos a Él",
-        "Que no interviene en el mundo",
-        "Que solo gobierna a los líderes",
-        "Que no desea relación con Sus hijos"
+        "Que el acercamiento a Dios es una cuestión de dirección: hacia dónde se orienta la persona determina lo que recibe.",
+        "Que la luz se concede como recompensa después de un tiempo de obediencia.",
+        "Que la mira puesta en la gloria de Dios reemplaza la necesidad de buscarlo.",
+        "Que quienes reciben luz quedan libres de tomar decisiones difíciles."
       ],
       "correctAnswer": 0
     }

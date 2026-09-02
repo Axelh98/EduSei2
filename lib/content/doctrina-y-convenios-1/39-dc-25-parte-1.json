@@ -25,6 +25,13 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "\"Convenios\", Conferencia General, octubre de 2011 (Liahona, noviembre de 2011, pág. 88)",
+      "texto": "En el bautismo hacemos convenio de servir al Señor y de guardar Sus mandamientos. Cuando participamos de la Santa Cena, renovamos ese convenio y declaramos que estamos dispuestos a tomar sobre nosotros el nombre de Jesucristo. De ese modo, somos adoptados como Sus hijos e hijas y se nos conoce como hermanos y hermanas.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/covenants?lang=spa&id=p28#p28"
+    },
+    {
       "tipo": "conclusion",
       "contenido": "D&C 25 demuestra que el Señor tiene llamados divinos específicos para las mujeres, de igual importancia que cualquier otro llamado. Los consejos que le dio a Emma —consolar, estudiar, exhortar, crear— son también formas de llegar a ser más como el Salvador. El v. 16 lo extiende a todos: estas instrucciones son la voz del Señor para cada uno de nosotros. ¿Cuál de estas formas de ministerio podés practicar más activamente esta semana?"
     },
@@ -35,7 +42,8 @@
         "¿Cuáles son las asignaciones específicas que el Señor le dio a Emma en D&C 25? ¿Cuál de ellas crees que fue más significativa para ella?",
         "¿Alguna vez los himnos te ayudaron en un momento difícil o de duda? ¿Qué pasó?",
         "Si el v. 16 dice que esta revelación es 'la voz del Señor para todos', ¿cuál de los consejos a Emma aplica más directamente a tu vida ahora?",
-        "¿Cuál de las formas de ministerio que el Señor le pidió a Emma podrías practicar más activamente esta semana?"
+        "¿Cuál de las formas de ministerio que el Señor le pidió a Emma podrías practicar más activamente esta semana?",
+        "De las asignaciones que el Señor le dio a Emma, elegí la que menos te sale y practicala una vez esta semana. ¿Cuál es y en qué momento la vas a hacer?"
       ]
     }
   ],
@@ -44,23 +52,23 @@
       "id": 1,
       "question": "D&C 25 es la única revelación dirigida específicamente a una mujer en la sección canónica. El Señor llama a Emma 'dama elegida'. ¿Qué dice eso sobre cómo Dios ve a las mujeres?",
       "options": [
-        "Que las mujeres tienen un papel secundario pero honorable en la Iglesia",
-        "Que las mujeres reciben llamamientos divinos específicos con igual importancia que los demás",
         "Que el Señor solo habló a Emma porque era la esposa del profeta",
-        "Que las mujeres en la Iglesia primitiva tenían más autoridad que las de hoy"
+        "Que las mujeres en la Iglesia primitiva tenían más autoridad que las de hoy",
+        "Que las mujeres tienen un papel secundario pero honorable en la Iglesia",
+        "Que las mujeres reciben llamamientos divinos específicos con igual importancia que los demás"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Las asignaciones que el Señor dio a Emma — consolar, estudiar, exhortar, recopilar himnos — son también maneras de llegar a ser más como el Salvador. ¿Qué tienen en común esas asignaciones?",
       "options": [
-        "Que todas requieren un llamamiento formal de parte del obispo",
         "Que todas son formas de ministrar a otros y dedicarse a lo eterno por encima de lo temporal",
         "Que todas están relacionadas con la música y las artes",
-        "Que todas son exclusivas para las mujeres en la Iglesia"
+        "Que todas son exclusivas para las mujeres en la Iglesia",
+        "Que todas requieren un llamamiento formal de parte del obispo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -77,12 +85,12 @@
       "id": 4,
       "question": "D&C 25:12 dice 'el canto de los justos es una oración para mí'. ¿Qué cambia en tu manera de cantar los himnos si los tratas como una oración?",
       "options": [
+        "Los himnos solo funcionan como oración si los cantás en grupo, no individualmente",
         "Cantarlos se vuelve una obligación espiritual que genera culpa si no los cantás bien",
         "La atención se desplaza de la melodía a la letra, y la letra se convierte en una conversación con Dios",
-        "Solo importa el volumen y el entusiasmo, no las palabras específicas",
-        "Los himnos solo funcionan como oración si los cantás en grupo, no individualmente"
+        "Solo importa el volumen y el entusiasmo, no las palabras específicas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
@@ -99,10 +107,21 @@
       "id": 6,
       "question": "El Señor le prometió a Emma una 'corona de rectitud' si guardaba Sus mandamientos. ¿Qué motivación es más poderosa: la promesa de una recompensa futura o el amor al Salvador? ¿Por qué?",
       "options": [
-        "La recompensa futura, porque da algo concreto y tangible por qué esforzarse",
         "El amor al Salvador, porque genera obediencia voluntaria que no necesita control externo",
         "Ambas son iguales en efectividad, solo depende de la personalidad de cada persona",
-        "Ninguna de las dos: lo que realmente motiva es la presión social de la comunidad"
+        "Ninguna de las dos: lo que realmente motiva es la presión social de la comunidad",
+        "La recompensa futura, porque da algo concreto y tangible por qué esforzarse"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "El Señor llamó a Emma «dama elegida» y le encomendó consolar, exhortar y recopilar himnos; el presidente Nelson enseñó que por el convenio somos «adoptados como Sus hijos e hijas». ¿Qué principio común forman las dos ideas?",
+      "options": [
+        "Que los llamamientos en la Iglesia se asignan según los talentos naturales de cada persona.",
+        "Que la identidad que da el convenio precede a la tarea: primero se es hijo o hija en Su reino, y desde ahí se sirve.",
+        "Que las asignaciones de Emma correspondían a su época y hoy no tienen equivalente.",
+        "Que el servicio en la Iglesia es lo que hace que una persona llegue a ser aceptable ante Dios."
       ],
       "correctAnswer": 1
     }

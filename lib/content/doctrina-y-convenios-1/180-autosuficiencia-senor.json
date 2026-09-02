@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La autosuficiencia es uno de los principios más prácticos del evangelio de Jesucristo. No es independencia orgullosa — es la capacidad de proveer para las propias necesidades y las de la familia para estar en posición de servir a otros y no ser una carga para la Iglesia o la comunidad. El Señor enseñó en D&C 78:14 que los santos deben ser autosuficientes en lo temporal para poder ser ricos en lo espiritual y en el servicio. Esta lección introduce el concepto con fundamento doctrinal y con aplicaciones concretas: desarrollar habilidades laborales, administrar el dinero con sabiduría, preparar reservas, y cultivar la actitud de trabajo y responsabilidad personal que el evangelio promueve. Para un joven en la secundaria que todavía depende de sus padres, esta lección siembra principios que darán fruto en los próximos años de su vida."
+      "contenido": [
+        "La autosuficiencia es uno de los principios más prácticos del evangelio de Jesucristo. No es independencia orgullosa: es la capacidad de proveer para las propias necesidades y las de la familia, para estar en posición de servir a otros y no ser una carga para la Iglesia o la comunidad. El Señor enseñó en Doctrina y Convenios 78:14 que los santos deben ser autosuficientes en lo temporal para poder ser ricos en lo espiritual y en el servicio.",
+        "Esta lección introduce el concepto con fundamento doctrinal y con aplicaciones concretas: desarrollar habilidades laborales, administrar el dinero con sabiduría, preparar reservas y cultivar la actitud de trabajo y responsabilidad personal que el evangelio promueve. Para un joven de secundaria que todavía depende de sus padres, esas cosas suenan lejanas, y sin embargo casi todas empiezan ahora: el que aprende a terminar lo que empieza, a cumplir un horario y a manejar el poco dinero que tiene está construyendo exactamente la misma capacidad que después necesitará para sostener una familia. La autosuficiencia no aparece el día que uno se muda; se arma de a pedazos, mucho antes."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -38,7 +41,8 @@
         "¿Qué habilidades prácticas estás desarrollando ahora que te ayudarán a ser autosuficiente en los próximos años?",
         "¿Cómo administrás el dinero que tenés actualmente? ¿Qué hábito financiero querés desarrollar?",
         "¿Por qué la autosuficiencia es el fundamento del servicio genuino, según el evangelio?",
-        "¿Qué paso concreto darías esta semana para avanzar hacia ser más autosuficiente — en lo económico, académico o de habilidades?"
+        "¿Qué paso concreto darías esta semana para avanzar hacia ser más autosuficiente — en lo económico, académico o de habilidades?",
+        "¿Qué tarea de tu casa o de tu vida hoy hacen otros por vos y podrías empezar a hacer solo, aunque al principio te salga peor que a ellos?"
       ]
     }
   ],
@@ -58,67 +62,67 @@
       "id": 2,
       "question": "D&C 58:26–27 describe al siervo perezoso como aquel que espera ser mandado en todo. ¿Qué actitud opuesta promueve el Señor en esos versículos?",
       "options": [
+        "Delegar todas las responsabilidades a quienes tienen llamamientos formales.",
         "Ser ansiosamente dedicado a toda buena causa y hacer muchas cosas por propia voluntad.",
         "Esperar siempre la instrucción del obispo antes de tomar cualquier iniciativa.",
-        "Actuar solo cuando el beneficio personal está garantizado.",
-        "Delegar todas las responsabilidades a quienes tienen llamamientos formales."
+        "Actuar solo cuando el beneficio personal está garantizado."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
       "question": "El presidente Hinckley dijo que la autosuficiencia 'no es orgullo; es preparación para el servicio'. ¿Qué diferencia hay entre la autosuficiencia del evangelio y el individualismo orgulloso?",
       "options": [
+        "La autosuficiencia del evangelio se limita a los asuntos económicos; el individualismo abarca la vida entera.",
         "No hay diferencia real — ambos buscan la independencia económica personal.",
         "La autosuficiencia del evangelio se desarrolla para poder servir y dar más; el individualismo orgulloso busca la independencia para no necesitar de nadie ni dar a nadie.",
-        "El individualismo orgulloso es mejor porque produce más riqueza y eso beneficia a todos.",
-        "La autosuficiencia del evangelio se limita a los asuntos económicos; el individualismo abarca la vida entera."
+        "El individualismo orgulloso es mejor porque produce más riqueza y eso beneficia a todos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Por qué la autosuficiencia es descrita en el evangelio como un principio espiritual y no solo económico?",
       "options": [
-        "Porque el Señor quiere que los santos tengan más dinero que los no miembros.",
-        "Porque quien depende constantemente de otros para lo básico tiene poca capacidad de dar — y el propósito del evangelio es formar personas que puedan servir, contribuir y cuidar a otros.",
         "Porque la autosuficiencia económica garantiza automáticamente la autosuficiencia espiritual.",
-        "Porque el Señor prefiere a los miembros ricos sobre los pobres para Su obra."
+        "Porque el Señor prefiere a los miembros ricos sobre los pobres para Su obra.",
+        "Porque el Señor quiere que los santos tengan más dinero que los no miembros.",
+        "Porque quien depende constantemente de otros para lo básico tiene poca capacidad de dar — y el propósito del evangelio es formar personas que puedan servir, contribuir y cuidar a otros."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Renata tiene 17 años y todavía pide dinero a sus padres para todo aunque podría trabajar algunas horas. Según D&C 58:26–27, ¿qué perspectiva sobre su situación promueve el Señor?",
       "options": [
-        "Que es normal depender de los padres hasta los 25 años en la cultura actual.",
         "Que ser ansiosamente dedicada al bien incluye tomar iniciativa para desarrollar su propia capacidad económica — esperar que otros provean cuando puede empezar a hacerlo es el patrón del 'siervo perezoso'.",
         "Que debe esperar a terminar el colegio antes de pensar en la independencia económica.",
-        "Que su situación económica depende completamente de las circunstancias y el Señor no espera iniciativa cuando las condiciones son difíciles."
+        "Que su situación económica depende completamente de las circunstancias y el Señor no espera iniciativa cuando las condiciones son difíciles.",
+        "Que es normal depender de los padres hasta los 25 años en la cultura actual."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Mateo dice que 'no puede servir más en la Iglesia porque no tiene tiempo, dinero ni energía'. Según el principio de D&C 78:14 y la autosuficiencia como base del servicio, ¿qué le diría el evangelio?",
       "options": [
-        "Que tiene razón y debe esperar hasta tener más recursos antes de intentar servir.",
         "Que debe donar todo lo que tiene ahora aunque no le alcance para sus propias necesidades.",
         "Que desarrollar autosuficiencia — incluyendo administrar bien su tiempo y energía — es precisamente lo que le daría capacidad de servir; la autosuficiencia precede al servicio.",
-        "Que el servicio en la Iglesia requiere solo buena voluntad, no recursos ni tiempo real."
+        "Que el servicio en la Iglesia requiere solo buena voluntad, no recursos ni tiempo real.",
+        "Que tiene razón y debe esperar hasta tener más recursos antes de intentar servir."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "D&C 78:14 (independencia del mundo) y D&C 58:26–27 (iniciativa personal en el bien) son dos principios de autosuficiencia. ¿Cuál es la conexión profunda entre ellos?",
       "options": [
-        "Ambos hablan de dinero — uno de no deber y el otro de ganar.",
         "Son principios independientes que el Señor reveló en contextos separados sin relación directa.",
         "Uno es para hombres y el otro para mujeres según los roles del evangelio.",
-        "Ambos apuntan al mismo objetivo: un discípulo capaz de actuar desde la libertad — libre del mundo para no depender de él, y libre en el carácter para actuar sin necesitar ser compelido."
+        "Ambos apuntan al mismo objetivo: un discípulo capaz de actuar desde la libertad — libre del mundo para no depender de él, y libre en el carácter para actuar sin necesitar ser compelido.",
+        "Ambos hablan de dinero — uno de no deber y el otro de ganar."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

@@ -33,7 +33,9 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Jesucristo es el Abogado ante el Padre —está activamente intercediendo por cada uno de nosotros. Su deseo de reunir a Sus escogidos es urgente y lleno de amor. Ser parte de ese proceso no requiere ser misionero de tiempo completo; requiere estar dispuesto a compartir el evangelio en el entorno cotidiano. El Señor eligió a los 'débiles' precisamente para confundir a los sabios. Eso te incluye a vos. Esta semana, ¿quién en tu entorno podrías ayudar a escuchar al Redentor?"
+      "contenido": [
+        "Jesucristo es el Abogado ante el Padre: está intercediendo activamente por cada uno de nosotros. Su deseo de reunir a Sus escogidos es urgente y lleno de amor. Ser parte de ese proceso no exige ser misionero de tiempo completo; exige estar dispuesto a compartir el evangelio en el entorno cotidiano. El Señor eligió a los «débiles» precisamente para confundir a los sabios, y eso te incluye. Pensá en una persona concreta de tu curso o de tu barrio y hacé algo esta semana que la acerque un paso: una invitación, una respuesta honesta, una conversación que venías evitando."
+      ]
     },
     {
       "tipo": "cuestionario",
@@ -42,74 +44,86 @@
         "¿Qué significa para vos que Jesucristo se llame 'tu Abogado ante el Padre'?",
         "¿Por qué el Señor elige a los 'débiles' para Su obra, según D&C 29:7? ¿Cómo te hace sentir eso?",
         "¿Alguna vez sentiste que el Señor te usó para ayudar a alguien, aunque fuera en algo pequeño?",
-        "¿Quién en tu entorno cercano podría beneficiarse de escuchar el evangelio? ¿Qué podés hacer esta semana?"
+        "¿Quién en tu entorno cercano podría beneficiarse de escuchar el evangelio? ¿Qué podés hacer esta semana?",
+        "¿Qué te frena con esa persona en particular, y qué es lo más chico que podrías hacer igual, aunque el freno siga estando?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "D&C 29:1–2 describe a Jesucristo como 'vuestro Abogado ante el Padre'. ¿Qué imagen te genera eso — alguien que intercede activamente a tu favor?",
+      "question": "Doctrina y Convenios 29:5 presenta a Jesucristo como «vuestro abogado ante el Padre». ¿Qué agrega ese título a la comprensión de Su papel?",
       "options": [
-        "Un juez distante que evalúa si soy suficientemente bueno",
-        "Un defensor activo que está ante el Padre abogando por mí específicamente",
-        "Un observador neutral que registra mis errores sin intervenir",
-        "Una figura histórica que solo actuó como abogado en el pasado"
+        "Que representa al Padre ante los hombres, y no a los hombres ante el Padre.",
+        "Que Su función de abogado empieza recién en el juicio final.",
+        "Que actúa como juez imparcial que evalúa las obras de cada persona.",
+        "Que intercede activamente a favor de quien confía en Él, en lugar de limitarse a observar."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "El Salvador usa la imagen de una gallina que reúne a sus polluelos para describir Su deseo de reunir a Israel. ¿Qué dice esa imagen sobre la urgencia y el amor con que lo hace?",
       "options": [
-        "Que el Salvador reúne a Su pueblo con indiferencia por sentido del deber",
         "Que el Salvador reúne a Su pueblo con urgencia y amor, especialmente cuando hay peligro",
         "Que la reunión de Israel es un proceso frío y administrativo sin emoción",
-        "Que solo los 'polluelos' más obedientes son recogidos"
+        "Que solo los 'polluelos' más obedientes son recogidos",
+        "Que el Salvador reúne a Su pueblo con indiferencia por sentido del deber"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Doctrina y Convenios 29:7 dice que los escogidos son reunidos por medio de quienes son «débiles». Lucía siente que a los dieciséis años no tiene nada que aportar a la obra del Señor. ¿Qué le responde ese versículo?",
+      "options": [
+        "Que conviene esperar a tener más formación doctrinal antes de participar.",
+        "Que la obra del Señor se hace precisamente por medio de personas que no se sienten calificadas.",
+        "Que su aporte será menor que el de un adulto, pero de todos modos válido.",
+        "Que la debilidad se refiere a la condición espiritual, no a la edad o la experiencia."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 3,
-      "question": "D&C 29:7 dice que el Señor eligió a 'los débiles' para Su obra. ¿Alguna vez sentiste que eras demasiado joven, inexperto o imperfecto para ser instrumento del Señor?",
+      "id": 4,
+      "question": "¿Qué distingue el recogimiento de Israel entendido como acontecimiento futuro del recogimiento entendido como proceso que ya está ocurriendo?",
       "options": [
-        "Sí, y por eso no me involucro en compartir el evangelio",
-        "No, porque siempre me sentí completamente capacitado para todo lo que Dios pide",
-        "Sí, pero eso es exactamente lo que el Señor usa según este versículo",
-        "No aplica a mí porque este versículo es solo para los misioneros de tiempo completo"
+        "El proceso actual está a cargo de los misioneros de tiempo completo, y el futuro alcanzará a toda la Iglesia.",
+        "El acontecimiento futuro consiste en que los santos se muden a Sion, mientras que lo de hoy es una preparación de otro orden.",
+        "El proceso actual abarca a cada persona que escucha y acepta el evangelio ahora, muchas veces por medio de un conocido.",
+        "Las dos expresiones nombran lo mismo y se refieren a un único momento por venir."
       ],
       "correctAnswer": 2
     },
     {
-      "id": 4,
-      "question": "¿Cuál es la diferencia entre la reunión de Israel como evento futuro y como proceso activo que ocurre ahora?",
-      "options": [
-        "El evento futuro es cuando todos los santos se muden a Sion; el proceso actual no tiene nada que ver con eso",
-        "El proceso activo incluye cada persona que escucha y acepta el evangelio hoy, a través de alguien como vos",
-        "No hay diferencia, ambas cosas se refieren al mismo evento en el futuro",
-        "El proceso actual solo lo llevan adelante los misioneros de tiempo completo"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": 5,
-      "question": "¿Quién en tu entorno cercano podría beneficiarse de escuchar el evangelio o ser incluido en la reunión de Israel? ¿Qué podés hacer esta semana?",
+      "question": "El Salvador compara Su deseo de reunir a Israel con una gallina que reúne a sus polluelos. ¿Qué distingue esa imagen de una descripción puramente administrativa del recogimiento?",
       "options": [
-        "Esperar a que el misionero los encuentre porque es su trabajo",
-        "Identificar a una persona concreta y hacer algo pequeño pero real — invitar, compartir, orar por ellos",
-        "Hablar del evangelio solo cuando alguien me lo pida explícitamente",
-        "No es mi responsabilidad porque no tengo el llamamiento formal de misionero"
+        "Subraya que el recogimiento ocurre en un solo lugar geográfico.",
+        "Subraya que la reunión depende de la disposición previa de los reunidos.",
+        "Subraya la cantidad de personas que serán reunidas al final.",
+        "Subraya la urgencia y el afecto con que se reúne, sobre todo ante el peligro."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
-      "question": "El presidente Nelson dijo que esta es 'la causa más grande en toda la historia del mundo'. ¿Cómo cambia eso la forma en que ves tu rol como joven miembro de la Iglesia?",
+      "question": "El élder Renlund enseñó que el Padre Celestial desea que lleguemos a ser Sus herederos y que «no puede ofrecerles más, no puede prometerles más». ¿Cómo cambia esa declaración la forma de ver el propio lugar en la obra del Señor?",
       "options": [
-        "Me hace sentir presionado a convertir a muchas personas lo más rápido posible",
-        "Me recuerda que ser parte de la reunión de Israel no es una obligación sino un privilegio con impacto eterno",
-        "Confirma que debo esperar a ser misionero de tiempo completo para tener un rol real",
-        "Me indica que debo dejar otras actividades para dedicarme solo a la obra misional"
+        "Muestra que el vínculo con el Padre no es una obligación impuesta, sino una herencia ofrecida con consecuencias eternas.",
+        "Confirma que el papel real empieza recién con un llamamiento formal.",
+        "Indica que conviene dejar de lado otras actividades para dedicarse solo a la Iglesia.",
+        "Genera presión por lograr resultados visibles lo antes posible."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Doctrina y Convenios 29:5 llama a Cristo «abogado ante el Padre» y 29:7 dice que la obra se hace por medio de los débiles. ¿Qué principio común sobre la relación de Dios con Sus hijos forman los dos versículos?",
+      "options": [
+        "Que el llamado a servir corresponde solo a quienes ya recibieron ese perdón.",
+        "Que Dios se acerca a las personas por su condición real y no por sus méritos, tanto al defenderlas como al llamarlas a servir.",
+        "Que el Señor prefiere trabajar con personas sin preparación para que la gloria sea Suya.",
+        "Que la intercesión de Cristo sustituye la necesidad de que las personas actúen."
       ],
       "correctAnswer": 1
     }
