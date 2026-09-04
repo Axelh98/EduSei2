@@ -91,7 +91,7 @@
         "Releer todas las lecciones del bloque desde el principio para asegurarse de haber captado el contenido.",
         "Hablar con el maestro de Seminario para que le dé una evaluación honesta de su progreso como alumna."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -102,7 +102,7 @@
         "Que su relación con el Señor mejoró de manera observable: ora de distinta manera, trata a otros diferente, o tomó decisiones más alineadas con el Evangelio.",
         "Que asistió a más clases de Seminario que el semestre anterior y participó más activamente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,

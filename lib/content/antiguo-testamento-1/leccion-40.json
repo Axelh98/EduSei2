@@ -20,13 +20,13 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Éxodo 6:2, 6–8",
+          "referencia": "Éxodo 6:2–6",
           "texto": "Habló todavía Dios a Moisés, y le dijo: Yo soy Jehová. Os sacaré de debajo de las tareas pesadas de Egipto, y os libraré de su servidumbre, y os redimiré con brazo extendido.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/6?lang=spa&id=p2,p6-p8#p2"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/6?lang=spa&id=p2-p6#p2"
         },
         {
           "referencia": "Romanos 8:28",
-          "texto": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien.",
+          "texto": "Y sabemos que para los que aman a Dios, todas las cosas obrarán juntamente para su bien, para los que conforme a su propósito son llamados.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=spa&id=p28#p28"
         },
         {
@@ -100,7 +100,7 @@
         "Que Dios usa a personas con diferentes dones en roles complementarios: quien recibe la revelación y quien la comunica.",
         "Que Aarón tenía mejor oratoria que Moisés y el Señor prefirió usar la habilidad natural de cada uno."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 5,
@@ -111,7 +111,7 @@
         "Que el Señor permite esas pruebas para ver si su compromiso es genuino antes de enviarle las bendiciones prometidas.",
         "Que quizás la lectura diaria no es el hábito espiritual correcto para ella en este momento de su vida."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -122,7 +122,7 @@
         "Que el Señor está esperando que él tome primero alguna acción concreta antes de responder su oración directamente.",
         "Que las respuestas a las oraciones siempre llegan, pero muchas veces en maneras completamente diferentes a las que pedimos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

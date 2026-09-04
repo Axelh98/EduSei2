@@ -7,6 +7,21 @@ export type BloqueResumen =
   | { tipo: "doctrinal"; puntos: string[] }
   | { tipo: "reflexion"; preguntas: string[] }
 
+// ─── Imagen del manual oficial ────────────────────────────────────────────────
+//
+// Solo se guarda el identificador: la imagen la sirve churchofjesuschrist.org.
+// Ver lib/content/imagenes.ts para el porqué (términos de uso) y las URLs.
+
+export interface ImagenManual {
+  /** Identificador de la imagen en el servidor de la Iglesia. */
+  assetId: string
+  /** Texto alternativo, tal como lo publica el manual. */
+  alt: string
+  /** Dimensiones originales, para reservar el espacio y evitar saltos de layout. */
+  ancho?: number
+  alto?: number
+}
+
 // ─── Sección ──────────────────────────────────────────────────────────────────
 
 export interface Seccion {
@@ -23,6 +38,8 @@ export interface Seccion {
   link?: string
   preguntas?: string[]
   bloques?: BloqueResumen[]
+  /** Ilustración del manual que acompaña a la sección (hoy: solo "contexto"). */
+  imagen?: ImagenManual
 }
 
 // ─── Pregunta evaluativa ──────────────────────────────────────────────────────

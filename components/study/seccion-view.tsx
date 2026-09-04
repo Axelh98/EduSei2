@@ -2,6 +2,12 @@
 import { BookMarked, Quote, GraduationCap, ExternalLink } from "lucide-react"
 import type { Seccion } from "@/lib/types"
 import { BloqueView } from "./bloque-view"
+import { retratoDe, urlImagen, srcSetImagen } from "@/lib/content/imagenes"
+
+// Anchos de render. Las imágenes las sirve churchofjesuschrist.org: acá solo
+// se pide el tamaño que hace falta. Ver lib/content/imagenes.ts.
+const ANCHO_ILUSTRACION = 800
+const ANCHO_RETRATO = 48
 
 export function SeccionView({ seccion }: { seccion: Seccion }) {
 
@@ -17,13 +23,31 @@ export function SeccionView({ seccion }: { seccion: Seccion }) {
 
   if (seccion.tipo === "contexto") {
     return (
-      <p className="text-lg leading-[1.85] text-muted-foreground">
-        {seccion.contenido}
-      </p>
+      <div className="space-y-5">
+        {seccion.imagen && (
+          <figure className="overflow-hidden rounded-2xl border border-border/60">
+            <img
+              src={urlImagen(seccion.imagen.assetId, ANCHO_ILUSTRACION)}
+              srcSet={srcSetImagen(seccion.imagen.assetId, ANCHO_ILUSTRACION)}
+              sizes="(max-width: 768px) 100vw, 800px"
+              alt={seccion.imagen.alt}
+              width={seccion.imagen.ancho}
+              height={seccion.imagen.alto}
+              loading="lazy"
+              decoding="async"
+              className="h-auto w-full object-cover"
+            />
+          </figure>
+        )}
+        <p className="text-lg leading-[1.85] text-muted-foreground">
+          {seccion.contenido}
+        </p>
+      </div>
     )
   }
 
   if (seccion.tipo === "enseñanza") {
+    const retrato = retratoDe(seccion.autor)
     return (
       <div className="relative overflow-hidden rounded-2xl border border-secondary/15 bg-secondary/[0.06] p-8">
         <Quote className="absolute -left-2 -top-2 h-16 w-16 text-secondary/10" />
@@ -38,6 +62,20 @@ export function SeccionView({ seccion }: { seccion: Seccion }) {
               {seccion.fuente}
             </p>
           </div>
+          {/* Retrato oficial, si lo tenemos. Se resuelve por autor, no por
+              lección; si falta, el pie de la cita queda como estaba. */}
+          {retrato && (
+            <img
+              src={urlImagen(retrato, ANCHO_RETRATO)}
+              srcSet={srcSetImagen(retrato, ANCHO_RETRATO)}
+              alt={seccion.autor ?? ""}
+              width={ANCHO_RETRATO}
+              height={ANCHO_RETRATO}
+              loading="lazy"
+              decoding="async"
+              className="h-12 w-12 shrink-0 rounded-full border border-secondary/20 object-cover object-top"
+            />
+          )}
         </div>
         {/* ✅ NUEVO: link al discurso completo, mismo patrón que "escrituras" */}
         {seccion.link && (

@@ -13,9 +13,9 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Doctrina y Convenios 9:7–8",
-          "texto": "Debes estudiar esto en tu mente; luego preguntarme si es correcto, y si es correcto, haré que tu pecho arda dentro de ti; por tanto, sentirás que es correcto.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=spa&id=p7-p8#p7"
+          "referencia": "Doctrina y Convenios 9:8–10",
+          "texto": "Pero he aquí, te digo que debes estudiarlo en tu mente; entonces has de preguntarme si está bien; y si así fuere, haré que tu pecho arda dentro de ti; por tanto, sentirás que está bien. Mas si no estuviere bien, no sentirás tal cosa, sino que te sobrevendrá un estupor de pensamiento que te hará olvidar lo que está mal; por lo tanto, no puedes escribir lo que es sagrado a no ser que lo recibas de mí. Ahora, si hubieses sabido esto, habrías podido traducir ; sin embargo, no es oportuno que traduzcas ahora.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=spa&id=p8-p10#p8"
         },
         {
           "referencia": "Santiago 1:5",
@@ -24,7 +24,7 @@
         },
         {
           "referencia": "Moroni 10:4–5",
-          "texto": "Si pedís con un corazón sincero, con intención real, teniendo fe en Cristo, él os manifestará la verdad de ello por el poder del Espíritu Santo. Y por el poder del Espíritu Santo podréis conocer la verdad de todas las cosas.",
+          "texto": "Y cuando recibáis estas cosas, quisiera exhortaros a que preguntéis a Dios el Eterno Padre, en el nombre de Cristo, si no son verdaderas estas cosas; y si pedís con un corazón sincero , con verdadera intención , teniendo fe en Cristo, él os manifestará la verdad de ellas por el poder del Espíritu Santo; y por el poder del Espíritu Santo podréis conocer la verdad de todas las cosas.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p4-p5#p4"
         }
       ]
@@ -95,7 +95,7 @@
         "Porque la Iglesia enseña que las conversaciones sobre religión siempre deben ser formales y respetuosas, independientemente del contenido.",
         "Porque mostrar amor evita que la conversación se convierta en un conflicto que dañe la relación de amistad."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
@@ -117,7 +117,7 @@
         "Compartir que la ley de castidad vista desde el Plan de Salvación no es una restricción sino una protección que honra algo sagrado: el poder de dar vida y la intimidad del convenio.",
         "Señalarle que las estadísticas muestran que las personas que viven la ley de castidad tienen matrimonios más estables y felices."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 7,
@@ -128,7 +128,7 @@
         "Estudiar, enseñar y testificar: el ciclo que todo alumno de Seminario debe dominar antes de terminar el año.",
         "Prepararse, escuchar y responder: el patrón que asegura que cada conversación sobre el Evangelio termine de manera positiva."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

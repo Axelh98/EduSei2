@@ -20,7 +20,7 @@
         },
         {
           "referencia": "Proverbios 21:20",
-          "texto": "Tesoro precioso y aceite hay en la casa del sabio; mas el hombre insensato todo lo disipa.",
+          "texto": "Tesoro deseable y aceite hay en la casa del sabio, pero el hombre insensato todo lo disipa.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/21?lang=spa&id=p20#p20"
         },
         {
@@ -56,13 +56,14 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué enseñó el élder Ronald A. Rasband sobre la participación del Señor en nuestra vida?",
+      "question": "Según el presidente Russell M. Nelson, citado en la lección, ¿qué aprendió cuando empezó a pagar un diezmo completo sobre su modesto ingreso de interno?",
       "options": [
-        "Que Él solo se ocupa de los grandes milagros.",
-        "Que el Señor se ocupa de los pequeños detalles, incluyendo nuestras decisiones financieras.",
-        "Que el dinero es un tema que no le interesa a Dios."
+        "Que la Iglesia dependía de esa contribución para sostener sus programas.",
+        "Que conviene pagar el diezmo recién cuando el ingreso alcanza para cubrir lo necesario.",
+        "Que pagar el diezmo tiene que ver con la fe, no con el dinero, y que al hacerlo las ventanas del cielo empezaron a abrirse para él.",
+        "Que el diezmo garantiza una mejora económica proporcional al monto entregado."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,

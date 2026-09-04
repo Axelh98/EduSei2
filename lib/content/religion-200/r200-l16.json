@@ -14,19 +14,19 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Helamán 5:12",
+          "referencia": "Helamán 5:8–12",
           "texto": "Y ahora, mis hijos, recordad, recordad que en la roca de nuestro Redentor, que es Cristo, el Hijo de Dios, debéis edificar vuestro fundamento; para que cuando el diablo envíe sus poderosos vientos, sí, sus dardos en el torbellino, sí, cuando todo su granizo y su furiosa tormenta os azoten, no tendrá poder sobre vosotros para arrastraros hacia la perdición.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p8-p12#p8"
         },
         {
-          "referencia": "3 Nefi 14:24–25",
-          "texto": "Por tanto, todo aquel que oiga estas mis palabras y las practique, lo compararé a un hombre prudente que edificó su casa sobre la roca; y descendió la lluvia, y vinieron ríos, y soplaron vientos, y dieron con ímpetu contra aquella casa; y no cayó, porque estaba fundada sobre la roca.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=spa&id=p24-p25#p24"
+          "referencia": "3 Nefi 14:24–26",
+          "texto": "Por tanto, cualquiera que oye estas palabras mías, y las hace, lo compararé a un hombre prudente que edificó su casa sobre una roca ; y descendió la lluvia , y vinieron los torrentes, y soplaron los vientos, y dieron con ímpetu contra aquella casa; y no cayó , porque estaba fundada sobre una roca. Y todo el que me oye estas palabras, y no las hace, será comparado al hombre insensato que edificó su casa sobre la arena :",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=spa&id=p24-p26#p24"
         },
         {
-          "referencia": "Doctrina y Convenios 93:40",
+          "referencia": "Doctrina y Convenios 93:40–43",
           "texto": "Pero he recibido mandamiento de llevar a mis hijos en luz y en verdad.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p40#p40"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p40-p43#p40"
         }
       ]
     },
@@ -65,34 +65,34 @@
       "id": 1,
       "question": "La proclamación sobre la familia declara algo específico sobre la condición más importante para que haya felicidad en la vida familiar. ¿Cuál es esa condición?",
       "options": [
+        "Que la felicidad familiar depende del tamaño de la familia y del número de hijos.",
         "Que la felicidad familiar depende principalmente de la estabilidad económica del hogar.",
         "Que la felicidad en la vida familiar tiene mayor probabilidad de lograrse cuando se basa en las enseñanzas del Señor Jesucristo.",
-        "Que la felicidad familiar se logra cuando ambos cónyuges tienen educación universitaria.",
-        "Que la felicidad familiar depende del tamaño de la familia y del número de hijos."
+        "Que la felicidad familiar se logra cuando ambos cónyuges tienen educación universitaria."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Helamán 5:12 describe la razón por la que las personas y las familias deben edificar su cimiento en Cristo. ¿Qué promete ese versículo a quienes lo hacen?",
       "options": [
-        "Que nunca tendrán problemas económicos mientras sean fieles.",
-        "Que Satanás no tendrá poder para destruirlos cuando vengan las tormentas, los vientos y el granizo.",
         "Que sus hijos nunca abandonarán la Iglesia si el hogar está cimentado en Cristo.",
-        "Que recibirán revelación continua para tomar todas las decisiones del hogar."
+        "Que recibirán revelación continua para tomar todas las decisiones del hogar.",
+        "Que nunca tendrán problemas económicos mientras sean fieles.",
+        "Que Satanás no tendrá poder para destruirlos cuando vengan las tormentas, los vientos y el granizo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "El élder Donald L. Hallstrom describió que el Templo de Filadelfia fue anclado al granito con anclajes que penetraban entre 15 y 53 metros de profundidad para resistir vientos y aguas subterráneas. ¿Qué enseña esa imagen sobre el cimiento espiritual que las familias necesitan?",
       "options": [
-        "Que las familias necesitan grandes recursos económicos para resistir las presiones del mundo.",
         "Que un cimiento superficial en Cristo —asistir a la Iglesia sin cambio interior— no es suficiente; se necesita un anclaje profundo en convenios, enseñanzas y relación real con el Salvador.",
         "Que la ingeniería y la fe son mundos separados que no se deben mezclar.",
-        "Que los templos son el único lugar donde las familias pueden encontrar protección real."
+        "Que los templos son el único lugar donde las familias pueden encontrar protección real.",
+        "Que las familias necesitan grandes recursos económicos para resistir las presiones del mundo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -109,34 +109,34 @@
       "id": 5,
       "question": "La familia de Tomás asiste regularmente a la Iglesia, pero en el hogar la televisión, el trabajo y las actividades escolares llenan todo el tiempo. Raramente oran juntos o estudian las Escrituras. Según Helamán 5:12 y la lección, ¿qué les falta?",
       "options": [
+        "Que deberían mudarse a una zona con más miembros activos de la Iglesia.",
         "Nada: la asistencia a la Iglesia es suficiente para edificar el cimiento familiar en Cristo.",
         "Que el hogar está edificado sobre tradición religiosa pero no sobre el cimiento profundo en Cristo; los vientos del mundo pueden encontrar grietas donde el anclaje diario es débil.",
-        "Que deberían dejar de trabajar y de participar en actividades escolares para tener más tiempo espiritual.",
-        "Que deberían mudarse a una zona con más miembros activos de la Iglesia."
+        "Que deberían dejar de trabajar y de participar en actividades escolares para tener más tiempo espiritual."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "4 Nefi 1:15–18 describe a un pueblo que no tenía contenciones porque vivían las enseñanzas del Salvador. Valentina, que estudia sociología, le pregunta a su maestro: «¿Puede el Evangelio realmente cambiar la dinámica de un hogar?». Según ese pasaje y la proclamación, ¿cuál es la respuesta más coherente con la doctrina?",
       "options": [
+        "Que ese pasaje describe una situación ideal que no se puede lograr en la vida moderna.",
         "Que el Evangelio puede mejorar las actitudes personales pero no cambia dinámicas relacionales profundas.",
         "Que el cambio de dinámicas familiares depende principalmente de la terapia familiar, no de principios espirituales.",
-        "Que sí: cuando los miembros de un hogar eligen vivir juntos las enseñanzas de Cristo, el mismo principio que produjo la ausencia de contenciones en 4 Nefi puede transformar las relaciones familiares reales.",
-        "Que ese pasaje describe una situación ideal que no se puede lograr en la vida moderna."
+        "Que sí: cuando los miembros de un hogar eligen vivir juntos las enseñanzas de Cristo, el mismo principio que produjo la ausencia de contenciones en 4 Nefi puede transformar las relaciones familiares reales."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "La proclamación promete más felicidad cuando el hogar se basa en Cristo. Helamán 5:12 promete protección a quien edifica en Cristo. El élder Foster advierte que las distracciones no malas pueden ser igual de dañinas. ¿Cuál es el principio que une los tres?",
       "options": [
-        "Que el cimiento en Cristo es una metáfora poética sin aplicación práctica en el hogar cotidiano.",
         "Que edificar el hogar en Cristo no es un estado que se alcanza una vez, sino una elección activa y continua de priorizar Su presencia por encima de todo lo demás, incluyendo las buenas distracciones.",
         "Que la felicidad familiar es principalmente resultado de las circunstancias externas, y Cristo ayuda a aceptarlas.",
-        "Que el cimiento en Cristo es responsabilidad exclusiva del padre como líder espiritual del hogar."
+        "Que el cimiento en Cristo es responsabilidad exclusiva del padre como líder espiritual del hogar.",
+        "Que el cimiento en Cristo es una metáfora poética sin aplicación práctica en el hogar cotidiano."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

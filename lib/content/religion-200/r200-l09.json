@@ -19,14 +19,14 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=spa&id=p5-p6#p5"
         },
         {
-          "referencia": "Doctrina y Convenios 128:15",
+          "referencia": "Doctrina y Convenios 128:8–15",
           "texto": "Y ahora, os digo que estas cosas están relacionadas con el plan redentor de Dios a favor de los muertos; y tienen que ver con ellos, por cuanto los muertos sin nosotros no pueden ser perfectos, ni tampoco nosotros sin nuestros muertos podemos ser perfectos.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128?lang=spa&id=p15#p15"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128?lang=spa&id=p8-p15#p8"
         },
         {
-          "referencia": "Doctrina y Convenios 84:19–20",
+          "referencia": "Doctrina y Convenios 84:19–24",
           "texto": "Y el poder y las ordenanzas del sacerdocio mayor son tales que los misterios del reino se manifiestan; y sin este poder, nadie puede ver a Dios y vivir. En la ordenación de este sacerdocio, la plenitud de la gloria de Dios se manifiesta.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p19-p20#p19"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p19-p24#p19"
         }
       ]
     },
@@ -65,34 +65,34 @@
       "id": 1,
       "question": "Doctrina y Convenios 128:15 enseña algo específico sobre la relación entre nuestra salvación y la de nuestros antepasados. ¿Cuál es esa verdad?",
       "options": [
+        "Que las ordenanzas por los muertos son válidas solo si los familiares vivos las realizan personalmente en el templo.",
         "Que la salvación de nuestros antepasados es una obra de misericordia opcional que añade bendiciones extra a quienes la realizan.",
         "Que la salvación de nuestros antepasados fallecidos es necesaria y esencial para nuestra propia salvación y perfección.",
-        "Que podemos alcanzar la exaltación completa independientemente de si nuestros antepasados recibieron las ordenanzas salvadoras.",
-        "Que las ordenanzas por los muertos son válidas solo si los familiares vivos las realizan personalmente en el templo."
+        "Que podemos alcanzar la exaltación completa independientemente de si nuestros antepasados recibieron las ordenanzas salvadoras."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "El presidente Russell M. Nelson enseñó que recibir ordenanzas y convenios del sacerdocio nos da algo específico. ¿Qué prometió, según el manual?",
       "options": [
-        "Que nos garantiza el ingreso al reino celestial sin importar nuestras decisiones posteriores.",
-        "Que nos da acceso al poder de Dios y fortalece nuestra familia.",
         "Que nos permite ver al Padre Celestial en visiones con mayor frecuencia.",
-        "Que elimina las pruebas más difíciles de la vida mortal para los que son fieles."
+        "Que elimina las pruebas más difíciles de la vida mortal para los que son fieles.",
+        "Que nos garantiza el ingreso al reino celestial sin importar nuestras decisiones posteriores.",
+        "Que nos da acceso al poder de Dios y fortalece nuestra familia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Una amiga de otra fe pregunta: «¿Por qué su iglesia realiza ceremonias por los muertos?». Usando el principio de 1 Corintios 15:29 y la doctrina de la lección, ¿qué respondería un alumno fiel?",
       "options": [
-        "Que es una tradición cultural de la Iglesia sin respaldo escritural específico.",
-        "Que porque José Smith tuvo una visión donde vio a personas que necesitaban esas ordenanzas.",
         "Que porque el Padre Celestial desea la salvación de toda Su familia y, por Su amor y justicia, proveyó un camino para que quienes no tuvieron la oportunidad en vida puedan recibir las ordenanzas necesarias.",
-        "Que es una práctica opcional que solo beneficia a las familias que tienen muchos antepasados sin bautizar."
+        "Que es una práctica opcional que solo beneficia a las familias que tienen muchos antepasados sin bautizar.",
+        "Que es una tradición cultural de la Iglesia sin respaldo escritural específico.",
+        "Que porque José Smith tuvo una visión donde vio a personas que necesitaban esas ordenanzas."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -120,23 +120,23 @@
       "id": 6,
       "question": "Clara acaba de recibir su dotación en el templo y le pregunta a su maestra: «¿Tiene algún efecto real en mi vida el servicio del templo, más allá del significado espiritual?». Según DyC 128:15 y las promesas del presidente Nelson, ¿qué le respondería el principio doctrinal?",
       "options": [
-        "Que el efecto es principalmente simbólico: nos recuerda quiénes somos y a quién pertenecemos.",
-        "Que el templo fortalece el matrimonio y la familia, confiere el poder de Dios y nos hace partícipes de una obra que enlaza a toda la familia de Dios a través del tiempo.",
         "Que los efectos visibles llegan solo si asiste al templo con la frecuencia suficiente.",
-        "Que el mayor efecto es el sentimiento de paz interior que viene durante la ceremonia."
+        "Que el mayor efecto es el sentimiento de paz interior que viene durante la ceremonia.",
+        "Que el efecto es principalmente simbólico: nos recuerda quiénes somos y a quién pertenecemos.",
+        "Que el templo fortalece el matrimonio y la familia, confiere el poder de Dios y nos hace partícipes de una obra que enlaza a toda la familia de Dios a través del tiempo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "DyC 109:22 promete poder a quienes reciben ordenanzas. DyC 128:15 vincula nuestra salvación con la de nuestros antepasados. El presidente Hinckley enseñó que el servicio del templo nos hace más como Cristo. ¿Cuál es el principio unificador?",
       "options": [
-        "Que el templo es principalmente un lugar de paz y meditación donde nos alejamos del mundo por un momento.",
         "Que las ordenanzas del templo no son rituales aislados sino el mecanismo central por el cual el poder de Dios fluye hacia Sus hijos vivos y fallecidos, uniendo a toda Su familia en un propósito eterno compartido.",
         "Que la salvación es un asunto individual y el templo simplemente añade bendiciones adicionales a quienes lo deseen.",
-        "Que el servicio por los muertos es la obra más importante de la Iglesia, superior incluso a la misión y la familia personal."
+        "Que el servicio por los muertos es la obra más importante de la Iglesia, superior incluso a la misión y la familia personal.",
+        "Que el templo es principalmente un lugar de paz y meditación donde nos alejamos del mundo por un momento."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

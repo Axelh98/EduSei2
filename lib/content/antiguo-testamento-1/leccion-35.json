@@ -29,7 +29,7 @@
       "citas": [
         {
           "referencia": "Génesis 45:5–7",
-          "texto": "Ahora, pues, no os entristezcáis, ni os pese de haberme vendido acá; porque para preservación de vida me envió Dios delante de vosotros. Dios me envió delante de vosotros para preservaros posteridad sobre la tierra.",
+          "texto": "Ahora pues, no os entristezcáis ni os pese haberme vendido acá, porque para preservación de vida me envió Dios delante de vosotros. Pues ya ha habido dos años de hambre en medio de la tierra, y aún quedan cinco años en los que no habrá arada ni siega. Y Dios me envió delante de vosotros para preservaros un remanente en la tierra, y para daros vida por medio de una gran liberación.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/45?lang=spa&id=p5-p7#p5"
         },
         {
@@ -44,7 +44,7 @@
         },
         {
           "referencia": "Efesios 4:31–32",
-          "texto": "Quitense de vosotros toda amargura, enojo, ira, gritería y maledicencia, y toda malicia. Antes sed benignos unos con otros, misericordiosos, perdonándoos unos a otros, como Dios también os perdonó en Cristo.",
+          "texto": "Quítense de vosotros toda amargura, y enojo, e ira, y gritos, y maledicencia y toda malicia . Más bien, sed benignos los unos con los otros, misericordiosos, perdonándoos los unos a los otros, como también Dios os perdonó a vosotros en Cristo.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=spa&id=p31-p32#p31"
         }
       ]
@@ -130,7 +130,7 @@
         "Que debería compartir más tiempo con ese familiar para recordar los momentos buenos antes de decidir perdonar.",
         "Que el perdón genuino requiere primero resolver el conflicto directamente con la persona que la dañó."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 7,
@@ -141,7 +141,7 @@
         "José representa la paciencia en la adversidad y Judá representa el arrepentimiento que todo pecador necesita.",
         "Ambos representan la misma verdad: que el éxito viene después de la humillación, sin distinción entre sus roles."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ]
 }

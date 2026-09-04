@@ -15,13 +15,13 @@
       "citas": [
         {
           "referencia": "Génesis 1:28",
-          "texto": "Y los bendijo Dios, y les dijo Dios: Fructificad y multiplicaos; llenad la tierra, y sojuzgadla.",
+          "texto": "Y los bendijo Dios y les dijo Dios: Fructificad y multiplicaos ; y henchid la tierra y sojuzgadla; y tened dominio sobre los peces del mar, y sobre las aves de los cielos y sobre todas las bestias que se mueven sobre la tierra.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=spa&id=p28#p28"
         },
         {
-          "referencia": "Doctrina y Convenios 49:15–17",
+          "referencia": "Doctrina y Convenios 49:6–17",
           "texto": "Y nuevamente, en verdad os digo que quien prohíba casarse no está ordenado de Dios, porque el matrimonio está ordenado de Dios para el hombre. Por tanto, será lícito que tenga una esposa, pues esto fue creado para el hombre, con el fin de multiplicarse y henchir la tierra, conforme a mi mandamiento.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=spa&id=p15-p17#p15"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=spa&id=p6-p17#p6"
         },
         {
           "referencia": "Salmo 127:3",
@@ -65,45 +65,45 @@
       "id": 1,
       "question": "Génesis 1:27–28 registra el primer mandamiento que el Padre Celestial dio a Adán y Eva. ¿Cuál fue ese mandamiento?",
       "options": [
+        "Guardar el día de reposo como día sagrado.",
         "No comer del árbol del conocimiento del bien y el mal.",
         "Dominar sobre toda la creación y nombrar a los animales.",
-        "Multiplicarse y henchir la tierra.",
-        "Guardar el día de reposo como día sagrado."
+        "Multiplicarse y henchir la tierra."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Alma 37:37 ofrece un principio clave sobre cómo tomar decisiones importantes. ¿Qué aconseja ese versículo sobre las decisiones relacionadas con tener hijos?",
       "options": [
-        "Que debemos consultar primero con el obispo antes de tomar ninguna decisión sobre tener hijos.",
         "Que debemos consultar al Señor en todas nuestras cosas, incluyendo cuándo tener hijos y cuántos tener.",
         "Que las decisiones sobre tener hijos deben tomarse únicamente en función de la situación económica.",
-        "Que debemos esperar una señal clara antes de considerar tener hijos."
+        "Que debemos esperar una señal clara antes de considerar tener hijos.",
+        "Que debemos consultar primero con el obispo antes de tomar ninguna decisión sobre tener hijos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "El presidente M. Russell Ballard enseñó que traer un hijo al mundo es «cumplir parte del plan de felicidad del Padre Celestial». ¿Qué dice eso sobre la conexión entre la procreación y el plan de salvación?",
       "options": [
-        "Que la procreación es una función biológica sin relación directa con el plan espiritual de Dios.",
         "Que tener hijos es el único requisito para la exaltación, por encima de los convenios del templo.",
         "Que la procreación no es solo una responsabilidad familiar sino una contribución activa al plan eterno de Dios: cada hijo que nace recibe un cuerpo para progresar hacia la vida eterna.",
-        "Que el plan de felicidad está completo sin necesidad de que los individuos tengan hijos, y eso solo añade bendiciones extra."
+        "Que el plan de felicidad está completo sin necesidad de que los individuos tengan hijos, y eso solo añade bendiciones extra.",
+        "Que la procreación es una función biológica sin relación directa con el plan espiritual de Dios."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "La proclamación sobre la familia afirma que «la vida es sagrada y de origen divino». ¿Por qué esa declaración hace que el aborto por conveniencia sea incompatible con la doctrina del Evangelio, según el manual?",
       "options": [
+        "Porque la declaración se refiere únicamente a la vida de adultos, no a la de los nonatos.",
         "Porque la Iglesia tiene una posición política contraria al aborto en todos los países.",
         "Porque si la vida es de origen divino y sagrada desde su concepción, interrumpirla por conveniencia personal va en contra del carácter sagrado que Dios le ha dado.",
-        "Porque el aborto siempre produce daño físico permanente a la madre.",
-        "Porque la declaración se refiere únicamente a la vida de adultos, no a la de los nonatos."
+        "Porque el aborto siempre produce daño físico permanente a la madre."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
@@ -120,23 +120,23 @@
       "id": 6,
       "question": "Cecilia tuvo complicaciones médicas en su último embarazo y se siente culpable por haber decidido no tener más hijos, comparándose con hermanas que tienen familias numerosas. Según el principio de la lección sobre consultar al Señor, ¿qué perspectiva le ofrece la doctrina?",
       "options": [
-        "Que debería tener más hijos de todos modos porque el mandamiento no tiene excepciones.",
-        "Que las comparaciones con otras familias son válidas y deben guiar sus decisiones.",
         "Que las decisiones sobre tener hijos, cuando involucran salud u otras circunstancias serias, son un asunto entre ella, su esposo y el Señor, y no deben medirse por lo que hacen otras familias.",
-        "Que su sentimiento de culpa es señal de que debería reconsiderar su decisión."
+        "Que su sentimiento de culpa es señal de que debería reconsiderar su decisión.",
+        "Que debería tener más hijos de todos modos porque el mandamiento no tiene excepciones.",
+        "Que las comparaciones con otras familias son válidas y deben guiar sus decisiones."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Génesis 1:28 da el mandamiento de multiplicarse. La proclamación lo reafirma como vigente hoy. Alma 37:37 pide consultar al Señor en todo. ¿Cuál es el principio que une los tres?",
       "options": [
-        "Que el número exacto de hijos que debe tener cada familia está establecido por el Señor antes de nacer.",
         "Que el mandamiento de tener hijos es absoluto y no admite ninguna consideración de circunstancias personales.",
         "Que el mandamiento de multiplicarse es real y vigente, pero su aplicación concreta en cuándo y cuántos hijos tener es una decisión personal que debe tomarse en comunión con Dios, no por presión social ni por evasión cómoda.",
-        "Que las decisiones sobre tener hijos son exclusivamente médicas y no tienen dimensión espiritual."
+        "Que las decisiones sobre tener hijos son exclusivamente médicas y no tienen dimensión espiritual.",
+        "Que el número exacto de hijos que debe tener cada familia está establecido por el Señor antes de nacer."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

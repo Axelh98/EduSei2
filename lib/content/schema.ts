@@ -63,6 +63,13 @@ export const bloqueSchema = z.discriminatedUnion("tipo", [
 
 // ─── Sección ──────────────────────────────────────────────────────────────────
 
+export const imagenSchema = z.object({
+  assetId: z.string(),
+  alt: z.string(),
+  ancho: z.number().optional(),
+  alto: z.number().optional(),
+})
+
 export const seccionTipoSchema = z.enum([
   "contexto",
   "escrituras",
@@ -82,6 +89,7 @@ export const seccionSchema = z.object({
   link: z.string().optional(),
   preguntas: z.array(z.string()).optional(),
   bloques: z.array(bloqueSchema).optional(),
+  imagen: imagenSchema.optional(),
 })
 
 // ─── Pregunta evaluativa ──────────────────────────────────────────────────────

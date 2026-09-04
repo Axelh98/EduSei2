@@ -14,19 +14,19 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Doctrina y Convenios 137:7–9",
+          "referencia": "Doctrina y Convenios 137:6–10",
           "texto": "Vi que todas las personas que no han tenido la oportunidad de oír el evangelio en esta vida, pero que lo habrían recibido con todo su corazón, serán herederas del reino celestial. También vi que todos los niños que mueren antes de llegar a los años de responsabilidad son salvos en el reino celestial de los cielos.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137?lang=spa&id=p7-p9#p7"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137?lang=spa&id=p6-p10#p6"
         },
         {
-          "referencia": "Romanos 8:28",
+          "referencia": "Romanos 8:28–31",
           "texto": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=spa&id=p28#p28"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=spa&id=p28-p31#p28"
         },
         {
-          "referencia": "2 Nefi 31:20",
+          "referencia": "2 Nefi 31:13–20",
           "texto": "Por tanto, amados hermanos míos, sé que si seguís al Hijo con entera resolución de corazón, con una esperanza vívida en Cristo y en el amor de Dios y de todos los hombres, entonces os es bien, y no pereceréis.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=spa&id=p20#p20"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=spa&id=p13-p20#p13"
         }
       ]
     },
@@ -65,45 +65,45 @@
       "id": 1,
       "question": "Hebreos 11:8, 11–13 describe la fe de Abraham y Sara ante bendiciones que se demoraron. ¿Qué frase clave del versículo 13 describe su condición al morir sin haber recibido todas las promesas?",
       "options": [
-        "Que murieron con fe y sin haber recibido las promesas, pero las vieron de lejos y las saludaron.",
-        "Que murieron decepcionados porque Dios no cumplió lo prometido en su tiempo.",
         "Que sus promesas se transfirieron a sus hijos al momento de su muerte.",
-        "Que recibieron todas las promesas antes de morir gracias a su paciencia."
+        "Que recibieron todas las promesas antes de morir gracias a su paciencia.",
+        "Que murieron con fe y sin haber recibido las promesas, pero las vieron de lejos y las saludaron.",
+        "Que murieron decepcionados porque Dios no cumplió lo prometido en su tiempo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "1 Corintios 12:12–27 usa la analogía del cuerpo para describir la Iglesia. ¿Qué verdad específica extrae el manual de esa analogía para los miembros cuyas circunstancias familiares son difíciles?",
       "options": [
-        "Que quienes no están casados o no tienen hijos tienen un papel menor en la Iglesia.",
-        "Que todo miembro de la Iglesia es necesario y puede hacer una contribución importante, sea cual sea su circunstancia familiar.",
         "Que la Iglesia solo puede funcionar bien cuando todos sus miembros están casados en el templo.",
-        "Que los miembros solteros o divorciados deben esperar en sus casas hasta que su situación cambie."
+        "Que los miembros solteros o divorciados deben esperar en sus casas hasta que su situación cambie.",
+        "Que quienes no están casados o no tienen hijos tienen un papel menor en la Iglesia.",
+        "Que todo miembro de la Iglesia es necesario y puede hacer una contribución importante, sea cual sea su circunstancia familiar."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "El élder Jeffrey R. Holland enseñó que «algunas bendiciones nos llegan pronto, otras llevan más tiempo, y otras no se reciben hasta llegar al cielo; pero para aquellos que aceptan el evangelio de Jesucristo, siempre llegan». ¿Qué dice eso sobre la relación entre rectitud y tiempos del Señor?",
       "options": [
-        "Que la demora de una bendición es siempre señal de falta de fe o de rectitud.",
-        "Que si una persona es suficientemente recta, recibirá todas las bendiciones prometidas en esta vida.",
         "Que las bendiciones prometidas no dependen solo de la rectitud: los tiempos del Señor son soberanos, y la rectitud garantiza que lleguen, no que lleguen cuando nosotros queremos.",
-        "Que algunas personas simplemente no están destinadas a recibir ciertas bendiciones, sin importar cuán fieles sean."
+        "Que algunas personas simplemente no están destinadas a recibir ciertas bendiciones, sin importar cuán fieles sean.",
+        "Que la demora de una bendición es siempre señal de falta de fe o de rectitud.",
+        "Que si una persona es suficientemente recta, recibirá todas las bendiciones prometidas en esta vida."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "La joven de Harvard que compartió el presidente Oaks descubrió que su «deseo más profundo» no debería ser casarse, sino el discipulado de Jesucristo. ¿Qué cambio de perspectiva produjo esa revelación personal en su vida?",
       "options": [
-        "Que decidió abandonar el deseo de casarse y dedicarse exclusivamente a la vida religiosa.",
         "Que al poner el discipulado primero, el matrimonio como segunda prioridad perdió toda importancia para ella.",
         "Que al reordenar sus prioridades, encontró paz porque ya no dependía del matrimonio para tener una vida significativa; el Señor y sus tiempos podían guiarla.",
-        "Que aprendió que el matrimonio no era parte del plan del Señor para ella personalmente."
+        "Que aprendió que el matrimonio no era parte del plan del Señor para ella personalmente.",
+        "Que decidió abandonar el deseo de casarse y dedicarse exclusivamente a la vida religiosa."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
@@ -120,23 +120,23 @@
       "id": 6,
       "question": "Claudia tiene 32 años, es fiel en la Iglesia y desea casarse pero no ha encontrado a nadie. A veces siente que Dios la ha olvidado. Según el ejemplo de Abraham y Sara y el élder Holland, ¿qué perspectiva le ofrece esta lección?",
       "options": [
+        "Que debería resignarse a una vida sin matrimonio y encontrar gozo en otras formas.",
         "Que si fuera más activa socialmente, ya se habría casado.",
         "Que su situación es señal de que el matrimonio no es parte del plan de Dios para ella.",
-        "Que Abraham y Sara esperaron décadas y las promesas llegaron; su fidelidad no está siendo ignorada sino que los tiempos del Señor son distintos a los nuestros, y las promesas son ciertas.",
-        "Que debería resignarse a una vida sin matrimonio y encontrar gozo en otras formas."
+        "Que Abraham y Sara esperaron décadas y las promesas llegaron; su fidelidad no está siendo ignorada sino que los tiempos del Señor son distintos a los nuestros, y las promesas son ciertas."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Hebreos 11 muestra fe ante bendiciones demoradas. 1 Corintios 12 enseña que cada miembro es necesario. La joven de Harvard reorganizó sus prioridades. ¿Cuál es el principio que une los tres?",
       "options": [
-        "Que las circunstancias familiares no ideales son el mayor obstáculo para la felicidad en la Iglesia.",
         "Que ante bendiciones que se demoran, la respuesta del discipulado es: mantener la fe en los tiempos del Señor, encontrar el propio lugar como miembro valioso ahora, y priorizar la relación con Cristo por encima de los resultados deseados.",
         "Que la Iglesia debe cambiar su doctrina para acomodar mejor a quienes no encajan en el modelo familiar ideal.",
-        "Que las promesas de Dios para el matrimonio y los hijos solo se aplican en la vida terrenal; quien no las recibe aquí simplemente no las recibirá."
+        "Que las promesas de Dios para el matrimonio y los hijos solo se aplican en la vida terrenal; quien no las recibe aquí simplemente no las recibirá.",
+        "Que las circunstancias familiares no ideales son el mayor obstáculo para la felicidad en la Iglesia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

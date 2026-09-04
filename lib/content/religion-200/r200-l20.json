@@ -15,14 +15,14 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Doctrina y Convenios 93:40, 43",
+          "referencia": "Doctrina y Convenios 93:40–49",
           "texto": "Pero he recibido mandamiento de llevar a mis hijos en luz y en verdad. Y ahora doy a vosotros el mandamiento para llevar a vuestros hijos en luz y en verdad.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p40,43#p40"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=spa&id=p40-p49#p40"
         },
         {
           "referencia": "Doctrina y Convenios 68:25, 28",
-          "texto": "Y nuevamente, la Iglesia tiene el deber de cuidar de los hijos y de enseñarles doctrinas del reino; los padres tienen la obligación de enseñar a sus hijos a orar y a andar rectamente ante el Señor.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa&id=p25,28#p25"
+          "texto": "Y además, si hay padres que tengan hijos en Sion o en cualquiera de sus estacas organizadas, y no les enseñen a comprender la doctrina del arrepentimiento, de la fe en Cristo, el Hijo del Dios viviente, del bautismo y del don del Espíritu Santo por la imposición de manos, al llegar a la edad de ocho años, el pecado será sobre la cabeza de los padres. […] Y también enseñarán a sus hijos a orar y a andar rectamente delante del Señor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa&id=p25,p28#p25"
         },
         {
           "referencia": "Efesios 6:4",
@@ -88,23 +88,23 @@
       "id": 3,
       "question": "El élder D. Todd Christofferson enseñó que los padres son «únicos e irreemplazables». ¿Por qué un padre no puede ser simplemente sustituido por otro adulto masculino en la vida de sus hijos, según la lección?",
       "options": [
-        "Porque los padres tienen autoridad legal que otros hombres no tienen.",
-        "Porque la relación de un padre con sus hijos —su amor específico, su presencia, su influencia y su protección— cumple una función en el desarrollo de los hijos que ninguna otra relación puede replicar exactamente.",
         "Porque la Iglesia prohíbe que otros hombres asuman el rol paterno en familias con padre presente.",
-        "Porque la irreemplazabilidad del padre se refiere solo a la función de proveer económicamente."
+        "Porque la irreemplazabilidad del padre se refiere solo a la función de proveer económicamente.",
+        "Porque los padres tienen autoridad legal que otros hombres no tienen.",
+        "Porque la relación de un padre con sus hijos —su amor específico, su presencia, su influencia y su protección— cumple una función en el desarrollo de los hijos que ninguna otra relación puede replicar exactamente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "El élder Christofferson instó a los hombres a dejar de lado «las nociones exageradas de individualismo y autonomía» para «pensar primero en la felicidad y el bienestar de los demás». ¿Qué tensión cultural describe esa declaración?",
       "options": [
-        "La tensión entre ser un profesional exitoso y un buen padre de familia.",
         "La tensión entre la cultura actual que glorifica la realización personal individual y el llamado del Evangelio a subordinar esa realización al bien de la familia.",
         "La tensión entre los mandamientos de la Iglesia y las leyes civiles sobre la familia.",
-        "La tensión entre las expectativas económicas y las responsabilidades religiosas del padre."
+        "La tensión entre las expectativas económicas y las responsabilidades religiosas del padre.",
+        "La tensión entre ser un profesional exitoso y un buen padre de familia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -121,23 +121,23 @@
       "id": 6,
       "question": "Sebastián tiene 20 años y dice: «Todavía no estoy listo para pensar en ser padre; quiero vivir para mí mismo unos años». Según Juan 10:15 y la enseñanza del élder Christofferson sobre dejar el individualismo, ¿qué perspectiva le ofrece la lección?",
       "options": [
+        "Que la paternidad es una responsabilidad que Dios asigna en el momento justo y no es necesario prepararse antes.",
         "Que tiene razón: es mejor esperar muchos años antes de asumir la responsabilidad de ser padre.",
         "Que prepararse para la paternidad comienza ahora: desarrollar el carácter de un hombre que prioriza el bien de otros sobre el propio es el trabajo de toda la vida, y esa actitud es parte del discipulado.",
-        "Que debería casarse cuanto antes para no perder más tiempo en esa mentalidad.",
-        "Que la paternidad es una responsabilidad que Dios asigna en el momento justo y no es necesario prepararse antes."
+        "Que debería casarse cuanto antes para no perder más tiempo en esa mentalidad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Nuestro Padre Celestial es el ejemplo perfecto de paternidad. Juan 10 muestra al buen pastor que da su vida por sus ovejas. José recibió revelación para proteger a su familia. ¿Cuál es el principio que une los tres?",
       "options": [
-        "Que ser buen padre es principalmente una cuestión de carácter moral sin necesidad de guía divina.",
-        "Que la paternidad recta tiene un modelo perfecto en Dios y Cristo: involucra presencia amorosa, sacrificio personal y disposición para recibir revelación que guíe y proteja, todo subordinado al bien de la familia.",
         "Que el padre es el único que puede cumplir estas responsabilidades; la madre tiene un papel secundario.",
-        "Que la paternidad recta se mide principalmente por los logros académicos y económicos de los hijos."
+        "Que la paternidad recta se mide principalmente por los logros académicos y económicos de los hijos.",
+        "Que ser buen padre es principalmente una cuestión de carácter moral sin necesidad de guía divina.",
+        "Que la paternidad recta tiene un modelo perfecto en Dios y Cristo: involucra presencia amorosa, sacrificio personal y disposición para recibir revelación que guíe y proteja, todo subordinado al bien de la familia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

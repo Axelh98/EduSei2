@@ -27,18 +27,18 @@
         },
         {
           "referencia": "Salmo 84:1–2",
-          "texto": "¡Cuán amables son tus moradas, oh Jehová de los ejércitos! Anhela mi alma y aun ardientemente desea los atrios de Jehová; mi corazón y mi carne cantan al Dios vivo.",
+          "texto": "¡Cuán amables son tus moradas , oh Jehová de los ejércitos! Mi alma anhela los atrios de Jehová y aun desfallece por ellos; mi corazón y mi carne cantan con gozo al Dios vivo.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ps/84?lang=spa&id=p1-p2#p1"
         },
         {
-          "referencia": "Doctrina y Convenios 131:1–4",
-          "texto": "En el grado celestial de matrimonio hay tres cielos o grados; y para obtener el más elevado, un hombre debe entrar en este orden del sacerdocio.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/131?lang=spa&id=p1-p4#p1"
+          "referencia": "Doctrina y Convenios 131:1–2",
+          "texto": "En la gloria celestial hay tres cielos o grados; y para alcanzar el más alto , el hombre tiene que entrar en este orden del sacerdocio [es decir, el nuevo y sempiterno convenio del matrimonio];",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/131?lang=spa&id=p1-p2#p1"
         },
         {
-          "referencia": "Ezequiel 37:26–27",
+          "referencia": "Ezequiel 37:24–27",
           "texto": "Y haré con ellos pacto de paz... y mi santuario estará en medio de ellos para siempre. Sobre ellos tendrá mi morada, y yo seré a ellos por Dios, y ellos me serán por pueblo.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=spa&id=p26-p27#p26"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=spa&id=p24-p27#p24"
         }
       ]
     },
@@ -94,14 +94,14 @@
     },
     {
       "id": 4,
-      "question": "El presidente Nelson prometió bendiciones específicas a quienes adoran fielmente en el templo. Esas bendiciones incluyen respuestas a la oración, revelación personal y mayor fe. ¿Por qué el templo —en lugar de otro lugar— sería el contexto para recibir esas bendiciones específicas?",
+      "question": "El élder Neil L. Andersen promete que al asistir dignamente al templo seremos fortalecidos con el poder del Señor, Su nombre estará sobre nosotros y Sus ángeles velarán por nosotros. ¿Por qué el templo —y no otro lugar— sería el contexto de esas bendiciones?",
       "options": [
-        "Porque el Señor prometió estar en el templo de manera especial, y Su presencia potencia la revelación y la fe de quienes lo buscan ahí.",
-        "Porque las ordenanzas del templo activan automáticamente las bendiciones prometidas por el simple hecho de recibirlas.",
-        "Porque la arquitectura sagrada del templo reduce las distracciones y permite una concentración que no es posible en otros lugares.",
-        "Porque el templo es el único lugar donde el Espíritu Santo puede manifestarse con plena intensidad a los miembros de la Iglesia."
+        "Porque las ordenanzas del templo activan las bendiciones de forma automática, por el solo hecho de recibirlas.",
+        "Porque su arquitectura reduce las distracciones y permite una concentración imposible en otros lugares.",
+        "Porque el templo es el único lugar donde el Espíritu Santo puede manifestarse con plena intensidad.",
+        "Porque es literalmente la Casa del Señor: Él prometió estar ahí de manera especial, y esa presencia es la que fortalece y da revelación a quien lo busca."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 5,

@@ -26,13 +26,13 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=spa&id=p3#p3"
         },
         {
-          "referencia": "Doctrina y Convenios 58:27–28",
+          "referencia": "Doctrina y Convenios 58:21–28",
           "texto": "Los hombres deben ser diligentemente ocupados en la buena causa, y hacer muchas cosas por su propia voluntad, y llevar a cabo mucha justicia; porque el poder está en ellos, en los cuales están ordenados de Dios.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p27-p28#p27"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p21-p28#p21"
         },
         {
           "referencia": "Doctrina y Convenios 88:118",
-          "texto": "Buscad palabras de sabiduría de los mejores libros; buscad aprender y también por la fe.",
+          "texto": "Y por cuanto no todos tienen fe, buscad diligentemente y enseñaos el uno al otro palabras de sabiduría ; sí, buscad palabras de sabiduría de los mejores libros ; buscad conocimiento, tanto por el estudio como por la fe.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
         },
         {
@@ -61,12 +61,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Según el élder Ulisses Soares citado en la lección, ¿cómo describe la ayuda que el Señor nos ofrece para alcanzar nuestras metas?",
+      "question": "Según el presidente Dieter F. Uchtdorf, citado en la lección, ¿qué ocurre cuando no alcanzamos una meta que nos propusimos?",
       "options": [
-        "Condicionada a que las metas sean estrictamente religiosas o de servicio a los demás.",
-        "Limitada a las metas que el Señor ya aprobó mediante revelación directa previa.",
-        "Ilimitada, apoyando todo esfuerzo bueno y justo que hagamos con sinceridad.",
-        "Disponible solo después de haber demostrado esfuerzo sostenido durante un tiempo prolongado."
+        "Que conviene abandonar esa meta y elegir otra más realista para no repetir la frustración.",
+        "Que el fracaso indica que la meta no estaba alineada con la voluntad del Señor.",
+        "Que casi con seguridad vamos a fracasar al menos a corto plazo, pero continuar el viaje nos hace mejores de lo que éramos antes.",
+        "Que el esfuerzo cuenta solo si finalmente se alcanza el objetivo propuesto."
       ],
       "correctAnswer": 2
     },
@@ -105,14 +105,14 @@
     },
     {
       "id": 5,
-      "question": "Camila quiere mejorar sus notas este semestre, pero cada vez que fija una meta de estudio, la abandona después de pocos días. Según el principio del élder Soares sobre el 'esfuerzo constante', ¿qué debería cambiar?",
+      "question": "Camila quiere mejorar sus notas este semestre, pero cada vez que fija una meta de estudio la abandona a los pocos días. Según lo que enseña el presidente Uchtdorf sobre fracasar y continuar el viaje, ¿qué debería cambiar?",
       "options": [
-        "Valorar cada intento como parte del proceso, no solo el resultado final, y volver a intentarlo cada vez que falla sin tratarlo como fracaso definitivo.",
-        "Fijar metas más ambiciosas para tener más motivación, ya que las metas pequeñas no generan suficiente compromiso real.",
-        "Esperar a sentirse más motivada antes de fijar metas, para que el compromiso sea más genuino y duradero.",
-        "Pedirle a sus padres que controlen su tiempo de estudio hasta que desarrolle el hábito completamente por sí sola."
+        "Fijar metas más ambiciosas para tener más motivación, porque las metas pequeñas no generan compromiso real.",
+        "Valorar cada intento como parte del camino y volver a empezar cada vez que falla, en vez de leerlo como un fracaso definitivo.",
+        "Esperar a sentirse más motivada antes de fijar metas, para que el compromiso sea más genuino.",
+        "Pedirles a sus padres que le controlen el tiempo de estudio hasta que tenga el hábito formado."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,

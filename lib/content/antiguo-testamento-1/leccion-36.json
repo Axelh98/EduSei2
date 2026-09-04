@@ -21,9 +21,9 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "2 Nefi 3:14–15",
-          "texto": "Su nombre será como el de su padre; y será igual que yo, porque la cosa que el Señor llevará a cabo por su mano, por el poder del Señor dará fruto de alabanza a él.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/3?lang=spa&id=p14-p15#p14"
+          "referencia": "2 Nefi 3:14–16",
+          "texto": "Y así profetizó José, diciendo: He aquí, el Señor bendecirá a ese vidente, y los que traten de destruirlo serán confundidos; porque se cumplirá esta promesa que he recibido del Señor tocante al fruto de mis lomos. He aquí, estoy seguro del cumplimiento de esta promesa; y su nombre será igual que el mío; y será igual que el nombre de su padre. Y será semejante a mí, porque aquello que el Señor lleve a efecto por su mano, por el poder del Señor, guiará a mi pueblo a la salvación. Sí, José así profetizó: Estoy seguro de esto, así como estoy seguro de la promesa de Moisés; porque el Señor me ha dicho: Preservaré a tu descendencia para siempre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/3?lang=spa&id=p14-p16#p14"
         },
         {
           "referencia": "Amós 3:7",
@@ -31,9 +31,9 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=spa&id=p7#p7"
         },
         {
-          "referencia": "Doctrina y Convenios 135:3",
+          "referencia": "Doctrina y Convenios 135:3–7",
           "texto": "José Smith, el Profeta y Vidente del Señor, ha hecho más por la salvación de los hombres en este mundo que cualquier otro hombre que haya vivido en él, excepto solamente Jesús.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/135?lang=spa&id=p3#p3"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/135?lang=spa&id=p3-p7#p3"
         }
       ]
     },
@@ -96,7 +96,7 @@
         "No hay diferencia real entre los dos tipos de liberación, ya que ambos incluían componentes físicos y espirituales combinados.",
         "Moisés fue un libertador temporal mientras que José Smith fue un libertador permanente sin necesidad de sucesores."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
@@ -129,7 +129,7 @@
         "Que cada libertador que el Señor levanta tiene exactamente el mismo tipo de misión, solo adaptada al idioma y la cultura de su tiempo.",
         "Que la historia sagrada es cíclica: siempre hay apostasía, libertador, restauración y nueva apostasía en secuencia predecible."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

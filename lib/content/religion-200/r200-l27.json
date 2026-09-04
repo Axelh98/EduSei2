@@ -14,14 +14,14 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "La Familia: Una Proclamación para el Mundo, párrafo 7",
-          "texto": "Exhortamos a los ciudadanos responsables y a los funcionarios de gobierno en todas partes a fomentar aquellas medidas que fortalezcan a la familia como la unidad fundamental de la sociedad.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa&id=p7#p7"
+          "referencia": "La Familia:9",
+          "texto": "Hacemos un llamado a los ciudadanos responsables y a los funcionarios de gobierno de todas partes para que fomenten aquellas medidas designadas a fortalecer a la familia y a mantenerla como la unidad fundamental de la sociedad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa&id=p9#p9"
         },
         {
-          "referencia": "Doctrina y Convenios 134:1",
+          "referencia": "Doctrina y Convenios 134:1–10",
           "texto": "Creemos que los gobiernos fueron instituidos por Dios para el beneficio del hombre; y que Él responsabiliza a los hombres por sus actos en relación a ellos, ya sea en el hacer de leyes o en su administración, para el bien y la seguridad de la sociedad.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/134?lang=spa&id=p1#p1"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/134?lang=spa&id=p1-p10#p1"
         },
         {
           "referencia": "Mateo 5:13–14",
@@ -65,34 +65,34 @@
       "id": 1,
       "question": "La proclamación sobre la familia declara algo específico sobre las consecuencias sociales del debilitamiento familiar. ¿Cuál es esa declaración?",
       "options": [
-        "Que la desintegración de la familia traerá sobre las personas, las comunidades y las naciones las calamidades predichas por los profetas.",
-        "Que la desintegración de la familia solo afecta a quienes tienen hijos en edad escolar.",
         "Que la sociedad puede reemplazar a la familia con instituciones gubernamentales sin consecuencias.",
-        "Que la desintegración de la familia es un problema principalmente de países en desarrollo."
+        "Que la desintegración de la familia es un problema principalmente de países en desarrollo.",
+        "Que la desintegración de la familia traerá sobre las personas, las comunidades y las naciones las calamidades predichas por los profetas.",
+        "Que la desintegración de la familia solo afecta a quienes tienen hijos en edad escolar."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "El presidente Ballard citó una frase atribuida a Edmund Burke para motivar a los miembros a defender la familia. ¿Cuál es esa frase?",
       "options": [
-        "Que la familia es la unidad más sagrada de la sociedad y merece toda nuestra energía.",
-        "Que lo único que se requiere para que triunfe la maldad es que las buenas personas no hagan nada.",
         "Que defender la verdad en público siempre tiene un costo personal que vale la pena pagar.",
-        "Que la Iglesia es la única institución que puede defender la familia eficazmente en la sociedad."
+        "Que la Iglesia es la única institución que puede defender la familia eficazmente en la sociedad.",
+        "Que la familia es la unidad más sagrada de la sociedad y merece toda nuestra energía.",
+        "Que lo único que se requiere para que triunfe la maldad es que las buenas personas no hagan nada."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "La presidenta Julie B. Beck declaró: «Si no conocen la doctrina de la familia, no podrán defenderla». ¿Por qué el conocimiento doctrinal es un requisito previo para la defensa eficaz de la familia?",
       "options": [
-        "Porque solo los que conocen la doctrina pueden participar en debates públicos sobre la familia.",
         "Porque solo teniendo razones profundas y claras de por qué la familia importa se pueden articular respuestas coherentes, respetuosas y no meramente emocionales ante las preguntas difíciles.",
         "Porque la doctrina es un escudo mágico que protege automáticamente a quien la conoce.",
-        "Porque la Iglesia solo apoya públicamente a quienes demuestran conocimiento doctrinal avanzado."
+        "Porque la Iglesia solo apoya públicamente a quienes demuestran conocimiento doctrinal avanzado.",
+        "Porque solo los que conocen la doctrina pueden participar en debates públicos sobre la familia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -120,23 +120,23 @@
       "id": 6,
       "question": "Tomás siente miedo de hablar de la doctrina de la familia en su universidad porque teme ser juzgado. Según DyC 19:30 y la cita de Edmund Burke, ¿qué le ofrece esta lección?",
       "options": [
-        "Que tiene razón en guardar silencio porque los contextos universitarios no son adecuados para hablar de religión.",
-        "Que el silencio ante la erosión de la familia tiene consecuencias reales; el Señor puede ayudarle a superar el miedo y hablar con amor y claridad sin agresividad.",
         "Que debería esperar a tener más conocimiento antes de intentar defenderse en conversaciones difíciles.",
-        "Que la defensa pública de la familia solo corresponde a los líderes de la Iglesia, no a los miembros jóvenes."
+        "Que la defensa pública de la familia solo corresponde a los líderes de la Iglesia, no a los miembros jóvenes.",
+        "Que tiene razón en guardar silencio porque los contextos universitarios no son adecuados para hablar de religión.",
+        "Que el silencio ante la erosión de la familia tiene consecuencias reales; el Señor puede ayudarle a superar el miedo y hablar con amor y claridad sin agresividad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "La proclamación advierte sobre las consecuencias de la desintegración familiar. La presidenta Beck dice que no conocer la doctrina impide defenderla. Edmund Burke advierte sobre el silencio de las personas buenas. ¿Cuál es el principio que une los tres?",
       "options": [
-        "Que la familia es un tema político que los miembros de la Iglesia deben evitar en espacios públicos.",
         "Que defender la familia no es opcional para los discípulos: las consecuencias de no hacerlo son reales, el conocimiento doctrinal es la base para hacerlo bien, y el silencio de los que saben es tan peligroso como la ignorancia.",
         "Que la mejor manera de defender la familia es votar en las elecciones por candidatos que compartan los valores de la Iglesia.",
-        "Que la defensa de la familia es responsabilidad del gobierno, no de los individuos."
+        "Que la defensa de la familia es responsabilidad del gobierno, no de los individuos.",
+        "Que la familia es un tema político que los miembros de la Iglesia deben evitar en espacios públicos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

@@ -79,14 +79,14 @@
     },
     {
       "id": 3,
-      "question": "El maná era dado diariamente y no podía acumularse. El élder Bednar enseñó que la espiritualidad tampoco puede almacenarse. ¿Qué implica eso específicamente para un alumno de Seminario que tuvo una experiencia espiritual poderosa en el campamento de la Iglesia hace un mes?",
+      "question": "El maná se daba cada día y no podía acumularse. El élder D. Todd Christofferson enseñó que la nutrición espiritual es tan necesaria como la física. ¿Qué implica eso para un alumno de Seminario que tuvo una experiencia espiritual poderosa en un campamento de la Iglesia hace un mes?",
       "options": [
-        "Que esa experiencia fue real pero no suficiente como fundamento; cada día requiere su propia conexión con el Señor para mantener la espiritualidad viva.",
-        "Que las experiencias espirituales intensas duran más que las cotidianas, por lo que un mes es un tiempo razonable de beneficio.",
-        "Que el Señor envía experiencias intensas precisamente para que sirvan de reserva durante períodos de menor actividad espiritual.",
-        "Que las experiencias espirituales grupales son menos duraderas que las personales, por lo que debería buscar más tiempo en privado con el Señor."
+        "Que las experiencias espirituales intensas rinden más que las cotidianas, así que un mes es un plazo razonable de beneficio.",
+        "Que el Señor envía experiencias intensas precisamente para que sirvan de reserva en los períodos de menor actividad espiritual.",
+        "Que esa experiencia fue real pero no alcanza como fundamento: cada día pide su propia conexión con el Señor, igual que el maná se recogía cada mañana.",
+        "Que las experiencias espirituales en grupo duran menos que las personales, así que le conviene buscar más tiempo a solas con el Señor."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
@@ -123,14 +123,14 @@
     },
     {
       "id": 7,
-      "question": "El maná sostenía el cuerpo de Israel un día a la vez. Jesús se declaró el Pan de Vida que sostiene el alma para la eternidad. El president Nelson enseñó que en los días que vienen no será posible sobrevivir espiritualmente sin el Espíritu Santo. ¿Qué dice esa cadena de tres verdades sobre la urgencia de los hábitos espirituales diarios?",
+      "question": "El maná sostenía el cuerpo de Israel un día a la vez, y Jesús se declaró el Pan de Vida que sostiene el alma para la eternidad. El élder D. Todd Christofferson enseñó que la nutrición espiritual es tan necesaria como la física. ¿Qué dice esa cadena de verdades sobre los hábitos espirituales diarios?",
       "options": [
-        "Que la espiritualidad diaria no es una recomendación opcional sino una necesidad de supervivencia, igual que lo fue el maná en el desierto; y que Jesucristo es la fuente de esa nutrición.",
-        "Que las tres verdades se refieren a épocas distintas: el maná al Antiguo Testamento, Jesús al Nuevo, y el Espíritu Santo a nuestra época.",
-        "Que el Señor da formas distintas de sustento espiritual en cada dispensación, adaptadas a las necesidades específicas de cada época.",
-        "Que la urgencia del presidente Nelson aplica principalmente a los líderes de la Iglesia, cuyas responsabilidades son mayores que las de los miembros comunes."
+        "Que cada verdad corresponde a una época distinta: el maná al Antiguo Testamento, Jesús al Nuevo, y los hábitos diarios a la nuestra.",
+        "Que la nutrición espiritual diaria no es una recomendación opcional sino una necesidad real, igual que el maná en el desierto, y que Jesucristo es la fuente de ese sustento.",
+        "Que el Señor da formas distintas de sustento espiritual en cada dispensación, adaptadas a las necesidades de cada época.",
+        "Que el sustento espiritual diario pesa sobre todo en quienes tienen llamamientos de liderazgo en la Iglesia."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ]
 }

@@ -19,9 +19,9 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=spa&id=p26-p27#p26"
         },
         {
-          "referencia": "1 Nefi 11:17",
+          "referencia": "1 Nefi 11:11–17",
           "texto": "Y yo dije: Yo sé que él ama a sus hijos; sin embargo, no sé el significado de todas las cosas.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=spa&id=p17#p17"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=spa&id=p11-p17#p11"
         },
         {
           "referencia": "2 Nefi 26:33",
@@ -65,12 +65,12 @@
       "id": 1,
       "question": "La proclamación sobre la familia declara algo específico sobre el momento en que el género fue establecido. ¿Cuándo ocurrió eso, según la proclamación?",
       "options": [
-        "El género fue asignado al momento del nacimiento terrenal por el Padre Celestial.",
         "El género es una característica esencial de la identidad y el propósito premortales, mortales y eternos de la persona.",
         "El género fue determinado por los padres biológicos al momento de la concepción, sin intervención divina directa.",
-        "El género se define durante la vida mortal a través de las experiencias y decisiones de cada persona."
+        "El género se define durante la vida mortal a través de las experiencias y decisiones de cada persona.",
+        "El género fue asignado al momento del nacimiento terrenal por el Padre Celestial."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -87,56 +87,56 @@
       "id": 3,
       "question": "El manual nota que hay una diferencia entre los estereotipos culturales de género y las características esenciales del género en el plan eterno de Dios. ¿Por qué es importante hacer esa distinción?",
       "options": [
+        "Porque la doctrina del género se aplica solo a los mandamientos explícitos y no tiene relación con la vida cotidiana.",
         "Porque los estereotipos culturales nunca tienen nada que ver con el género real y deben rechazarse todos.",
         "Porque sin esa distinción, se podría confundir las tradiciones humanas cambiantes con la doctrina eterna, juzgando a las personas por no encajar en moldes culturales que no son necesariamente divinos.",
-        "Porque los estereotipos culturales son más importantes que la doctrina para entender cómo vivir el Evangelio.",
-        "Porque la doctrina del género se aplica solo a los mandamientos explícitos y no tiene relación con la vida cotidiana."
+        "Porque los estereotipos culturales son más importantes que la doctrina para entender cómo vivir el Evangelio."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "El manual aborda la situación de personas que experimentan sentimientos de incongruencia entre su sexo biológico y su identidad de género. ¿Cuál es la postura de la lección hacia esas personas?",
       "options": [
+        "Que esos sentimientos son siempre el resultado de pecado personal y deben ser tratados como transgresión.",
         "Que deben ser excluidas de la Iglesia hasta que resuelvan esos sentimientos.",
         "Que sus sentimientos validan la necesidad de cambiar de género para encontrar paz.",
-        "Que merecen amor, compasión e inclusión cristiana, y que el Salvador puede guiarles y apoyarles; la Iglesia ofrece recursos específicos para ellas en LaIglesiadeJesucristo.org.",
-        "Que esos sentimientos son siempre el resultado de pecado personal y deben ser tratados como transgresión."
+        "Que merecen amor, compasión e inclusión cristiana, y que el Salvador puede guiarles y apoyarles; la Iglesia ofrece recursos específicos para ellas en LaIglesiadeJesucristo.org."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Alexandra se siente incómoda en las conversaciones sobre rasgos «femeninos» porque no se identifica con varios de ellos. Se pregunta si su personalidad le permitirá cumplir con su potencial divino. Según el principio de la lección, ¿qué le diría la doctrina?",
       "options": [
-        "Que debería esforzarse por adoptar los rasgos femeninos tradicionales para estar en armonía con el plan de Dios.",
-        "Que si no encaja en los moldes culturales de feminidad, probablemente necesita buscar orientación profesional antes de participar en la Iglesia.",
         "Que los estereotipos culturales no son equivalentes a la doctrina eterna del género; su identidad esencial como hija de Dios no está determinada por si le gustan las mismas cosas que a otras mujeres, y su potencial divino es pleno.",
-        "Que la incomodidad que siente es señal de que tiene preguntas de género que debería explorar con un consejero externo a la Iglesia."
+        "Que la incomodidad que siente es señal de que tiene preguntas de género que debería explorar con un consejero externo a la Iglesia.",
+        "Que debería esforzarse por adoptar los rasgos femeninos tradicionales para estar en armonía con el plan de Dios.",
+        "Que si no encaja en los moldes culturales de feminidad, probablemente necesita buscar orientación profesional antes de participar en la Iglesia."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Un compañero de clase de Mateo le dice: «El género es solo una construcción social; cada quien puede definirse como quiera». Según la proclamación sobre la familia y la enseñanza del élder Bednar, ¿cómo respondería el principio doctrinal de esta lección?",
       "options": [
-        "Que tiene razón: el género no tiene importancia eterna y cada persona puede definirlo libremente.",
         "Que la Iglesia está en contra de esa idea únicamente por razones políticas y culturales, no doctrinales.",
         "Que el Evangelio restaurado enseña que el género es una característica esencial establecida antes de nacer y con propósito eterno; no es una construcción social, aunque sí puede haber estereotipos culturales erróneos que deben distinguirse de la doctrina.",
-        "Que Mateo debería evitar ese tipo de conversaciones para no contaminarse con ideas contrarias al Evangelio."
+        "Que Mateo debería evitar ese tipo de conversaciones para no contaminarse con ideas contrarias al Evangelio.",
+        "Que tiene razón: el género no tiene importancia eterna y cada persona puede definirlo libremente."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "La proclamación enseña que el género es eterno (premoral, mortal y eterno). El élder Bednar enseña que hombres y mujeres se complementan y perfeccionan. El manual pide compasión hacia quienes tienen incongruencia de género. ¿Cuál es el principio que une los tres elementos?",
       "options": [
+        "Que el género solo importa en el contexto del matrimonio y la procreación; fuera de eso, es una característica secundaria.",
         "Que la doctrina del género no admite compasión porque cualquier excepción debilita la enseñanza.",
         "Que el género eterno es una verdad doctrinal firme, y precisamente porque es una parte tan esencial de la identidad divina, la respuesta ante quienes luchan con él debe ser amor y compasión, no juicio: la firmeza doctrinal y la ternura pastoral no son opuestas.",
-        "Que la compasión hacia quienes tienen incongruencia de género implica aceptar sus decisiones de cambio de género como válidas.",
-        "Que el género solo importa en el contexto del matrimonio y la procreación; fuera de eso, es una característica secundaria."
+        "Que la compasión hacia quienes tienen incongruencia de género implica aceptar sus decisiones de cambio de género como válidas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

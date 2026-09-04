@@ -20,14 +20,14 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-tim/5?lang=spa&id=p8#p8"
         },
         {
-          "referencia": "Doctrina y Convenios 104:15–16",
+          "referencia": "Doctrina y Convenios 104:15–20",
           "texto": "Y es mi propósito proveer para mis santos, porque la tierra es llena, y hay bastante y que sobrar. Sí, dispuse de todas las cosas de este mundo, y la voluntad del cielo es que mis santos sean tratados con justicia en la tierra.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/104?lang=spa&id=p15-p16#p15"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/104?lang=spa&id=p15-p20#p15"
         },
         {
-          "referencia": "Doctrina y Convenios 78:13–14",
-          "texto": "Habéis de ser iguales en los lazos de las cosas terrenales, para que tengáis igualdad en las cosas celestiales.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p13-p14#p13"
+          "referencia": "Doctrina y Convenios 78:4–5",
+          "texto": "como establecimiento y orden permanentes y sempiternos para mi iglesia, a fin de adelantar la causa que habéis abrazado, para la salvación del hombre y la gloria de vuestro Padre que está en los cielos; para que seáis iguales en los vínculos de cosas celestiales, sí, y de cosas terrenales también, a fin de obtener cosas celestiales.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=spa&id=p4-p5#p4"
         }
       ]
     },
@@ -66,12 +66,12 @@
       "id": 1,
       "question": "Doctrina y Convenios 75:28–29 enseña algo específico sobre la relación entre el trabajo y la familia. ¿Cuál es esa enseñanza?",
       "options": [
-        "Que el trabajo es una consecuencia de la Caída y será eliminado en la vida eterna.",
         "Que los que laboran para el Señor tienen el deber de proveer para su propia familia; el que no lo hace no es un discípulo fiel.",
         "Que el trabajo temporal es inferior al servicio en la Iglesia y debe reducirse al mínimo posible.",
-        "Que las responsabilidades económicas solo corresponden al padre; la madre no debe trabajar nunca."
+        "Que las responsabilidades económicas solo corresponden al padre; la madre no debe trabajar nunca.",
+        "Que el trabajo es una consecuencia de la Caída y será eliminado en la vida eterna."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -99,45 +99,45 @@
       "id": 4,
       "question": "El presidente Ballard aconsejó que cuando las circunstancias requieren que tanto el padre como la madre trabajen, esa decisión debe tomarse juntos y en oración. ¿Por qué es importante esa condición específica de tomar la decisión «juntos y en oración»?",
       "options": [
-        "Porque la Iglesia requiere aprobación de los líderes para que ambos cónyuges trabajen.",
-        "Porque las decisiones económicas afectan a toda la familia y deben tomarse como compañeros iguales con guía divina, no por presión social ni por uno solo.",
         "Porque el trabajo de la madre fuera del hogar es un asunto de moda cultural que debe revisarse cuidadosamente.",
-        "Porque la decisión económica es principalmente del padre y la madre solo debe validarla."
+        "Porque la decisión económica es principalmente del padre y la madre solo debe validarla.",
+        "Porque la Iglesia requiere aprobación de los líderes para que ambos cónyuges trabajen.",
+        "Porque las decisiones económicas afectan a toda la familia y deben tomarse como compañeros iguales con guía divina, no por presión social ni por uno solo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Miguel acaba de casarse y tiene deudas de su época universitaria. Dice: «Tengo pensado liquidar las deudas con el dinero del diezmo por unos meses». Según Malaquías 3:8–10 y DyC 104:78 sobre pagar deudas, ¿qué perspectiva le ofrece la lección?",
       "options": [
-        "Que puede hacer eso temporalmente si está en una situación económica de emergencia.",
         "Que tanto el diezmo como pagar las deudas son principios financieros del Evangelio; ambos deben cumplirse, no uno a expensas del otro.",
         "Que el diezmo siempre puede posponerse mientras se tiene deuda porque Dios entiende las necesidades económicas.",
-        "Que debería pagar las deudas primero y luego empezar a pagar el diezmo cuando esté libre de ellas."
+        "Que debería pagar las deudas primero y luego empezar a pagar el diezmo cuando esté libre de ellas.",
+        "Que puede hacer eso temporalmente si está en una situación económica de emergencia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Valeria es madre soltera que trabaja tiempo completo. A veces se siente culpable por no estar más tiempo en casa con sus hijos. Según la proclamación y el consejo del presidente Ballard sobre las circunstancias variables, ¿qué le ofrece esta lección?",
       "options": [
-        "Que debería dejar de trabajar y pedir ayuda económica a la Iglesia para estar con sus hijos.",
         "Que su situación es un fracaso espiritual que debe corregirse cuanto antes.",
         "Que la proclamación reconoce que las circunstancias varían; en su caso, proveer es también criar con amor y el Señor puede guiarla en cómo equilibrar ambas responsabilidades con Su ayuda.",
-        "Que debería casarse pronto para que el padre de sus hijos pueda proveer y ella pueda quedarse en casa."
+        "Que debería casarse pronto para que el padre de sus hijos pueda proveer y ella pueda quedarse en casa.",
+        "Que debería dejar de trabajar y pedir ayuda económica a la Iglesia para estar con sus hijos."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "DyC 75:28–29 vincula el trabajo con el deber de proveer para la familia. Jacob 2:18–19 condiciona la búsqueda de riquezas a propósitos justos. Malaquías 3:8–10 conecta el diezmo con las bendiciones económicas. ¿Cuál es el principio que une los tres?",
       "options": [
+        "Que el diezmo es el único principio financiero del Evangelio; los demás son orientaciones culturales.",
         "Que el éxito económico es señal de obediencia y el fracaso es señal de desobediencia.",
         "Que la administración económica en el hogar no es un asunto solo práctico sino espiritual: cómo trabajamos, qué buscamos con el dinero y cómo lo usamos revelan nuestra relación con Dios y nuestras prioridades eternas.",
-        "Que los miembros de la Iglesia deben ser los más ricos de su comunidad para poder ser más generosos.",
-        "Que el diezmo es el único principio financiero del Evangelio; los demás son orientaciones culturales."
+        "Que los miembros de la Iglesia deben ser los más ricos de su comunidad para poder ser más generosos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

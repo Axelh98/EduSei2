@@ -15,18 +15,18 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Alma 7:11–12",
+          "referencia": "Alma 7:11–22",
           "texto": "Y él irá, sufriendo dolores, aflicciones y tentaciones de todo género; y esto para que se cumpla la palabra que dice: Tomará sobre sí los dolores y las enfermedades de su pueblo. Y tomará sobre sí sus debilidades para que sus entrañas se llenen de misericordia, conforme a la carne, a fin de que sepa según la carne cómo socorrer a su pueblo en sus enfermedades.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p11-p12#p11"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p11-p22#p11"
         },
         {
           "referencia": "Doctrina y Convenios 121:39",
-          "texto": "Aprendemos por dolorosa experiencia que es la naturaleza y disposición de casi todos los hombres que, tan pronto como reciben un poco de autoridad, como piensan, empiezan inmediatamente a ejercer injusto dominio.",
+          "texto": "Hemos aprendido, por tristes experiencias, que la naturaleza y disposición de casi todos los hombres, en cuanto reciben un poco de autoridad, como ellos suponen, es comenzar inmediatamente a ejercer injusto dominio.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=spa&id=p39#p39"
         },
         {
           "referencia": "Isaías 61:1",
-          "texto": "El Espíritu del Señor Jehová está sobre mí, porque me ungió Jehová; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos, y a los presos apertura de la cárcel.",
+          "texto": "El espíritu de Jehová el Señor está sobre mí, porque me ha ungido Jehová para proclamar buenas nuevas a los mansos; me ha enviado a vendar a los quebrantados de corazón, a proclamar libertad a los cautivos y a los prisioneros apertura de la cárcel ;",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/61?lang=spa&id=p1#p1"
         }
       ]
@@ -66,67 +66,67 @@
       "id": 1,
       "question": "La proclamación sobre la familia hace una advertencia explícita sobre el abuso y el maltrato. ¿Cuál es esa advertencia?",
       "options": [
-        "Que el abuso dentro de la familia es un asunto privado que debe resolverse sin involucrar a otros.",
-        "Que las personas que maltratan o abusan de su cónyuge o de sus hijos un día deberán responder ante Dios.",
         "Que quienes cometen abuso deben ser expulsados inmediatamente de la Iglesia.",
-        "Que el abuso solo es responsable ante Dios si ocurre de manera repetida y prolongada."
+        "Que el abuso solo es responsable ante Dios si ocurre de manera repetida y prolongada.",
+        "Que el abuso dentro de la familia es un asunto privado que debe resolverse sin involucrar a otros.",
+        "Que las personas que maltratan o abusan de su cónyuge o de sus hijos un día deberán responder ante Dios."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Isaías 61:1–3 describe la misión de Cristo hacia los quebrantados de corazón. ¿Qué promesa específica contiene ese pasaje para las víctimas de abuso?",
       "options": [
-        "Que las víctimas de abuso recibirán compensación económica por su sufrimiento.",
         "Que Jesucristo tiene el poder de sanar a los quebrantados de corazón, consolar a los que lloran y reemplazar la desesperanza por belleza.",
         "Que el Salvador castigará a los abusadores en esta vida.",
-        "Que el tiempo borrará automáticamente las heridas del abuso sin necesidad de intervención divina."
+        "Que el tiempo borrará automáticamente las heridas del abuso sin necesidad de intervención divina.",
+        "Que las víctimas de abuso recibirán compensación económica por su sufrimiento."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "El élder Richard G. Scott enseñó sobre las vías por las que viene la sanación del abuso. ¿Cuál es la fuente principal de sanación que el manual identifica para las víctimas?",
       "options": [
-        "El tiempo y la distancia física del abusador son suficientes para producir sanación completa.",
         "La sanación viene principalmente de la terapia psicológica profesional, sin necesidad de apoyo espiritual.",
         "Jesucristo y Su expiación son la fuente principal de sanación, aunque también pueden buscarse recursos profesionales y el apoyo de líderes confiables.",
-        "La sanación del abuso solo ocurre cuando el abusador se arrepiente y pide perdón."
+        "La sanación del abuso solo ocurre cuando el abusador se arrepiente y pide perdón.",
+        "El tiempo y la distancia física del abusador son suficientes para producir sanación completa."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "El manual advierte que algunos principios de la lección anterior (sobre el perdón) son diferentes cuando se trata de abuso. ¿Por qué el abuso requiere un tratamiento diferente al de una ofensa ordinaria en la familia?",
       "options": [
+        "Porque en el abuso la víctima siempre tiene parte de responsabilidad y eso complica el perdón.",
         "Porque el abuso no puede perdonarse mientras el abusador no haya pagado por sus actos ante la justicia.",
         "Porque en el abuso hay un daño de mayor gravedad que involucra la seguridad física y psicológica de la víctima, y la respuesta incluye protección y denuncia, no solo perdón y reconciliación inmediata.",
-        "Porque el abuso es un pecado contra Dios más que contra la persona, y por eso la víctima no debe intervenir.",
-        "Porque en el abuso la víctima siempre tiene parte de responsabilidad y eso complica el perdón."
+        "Porque el abuso es un pecado contra Dios más que contra la persona, y por eso la víctima no debe intervenir."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Natalia descubrió que su compañera de cuarto está siendo maltratada verbalmente por su novio. Le pide que lo guarde en secreto. Según la lección y las advertencias de la proclamación, ¿cuál sería la respuesta más coherente con la doctrina?",
       "options": [
+        "Denunciar la situación sin consultarle a su compañera para protegerla.",
         "Guardar el secreto porque es asunto privado de su compañera.",
         "Convencer a su compañera de que perdone al novio y dé una segunda oportunidad.",
-        "Mostrar compasión y apoyo a su compañera, ayudarla a entender que el abuso no es aceptable, y animarla a buscar ayuda de una persona de confianza o líder de la Iglesia.",
-        "Denunciar la situación sin consultarle a su compañera para protegerla."
+        "Mostrar compasión y apoyo a su compañera, ayudarla a entender que el abuso no es aceptable, y animarla a buscar ayuda de una persona de confianza o líder de la Iglesia."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Sebastián sufrió abuso físico en su infancia y lleva años cargando esa herida en silencio. Siente que Dios lo olvidó. Según Isaías 61:1–3 y 2 Nefi 2:1–2, ¿qué le ofrece el principio doctrinal de esta lección?",
       "options": [
-        "Que Dios lo olvidó porque permitió que sufriera, y eso significa que no merece sanación.",
-        "Que el abuso infantil es tan grave que ningún proceso terrenal puede producir sanación verdadera.",
         "Que Cristo tiene el poder específico de sanar los corazones quebrantados; Su sufrimiento vicario incluye el de Sebastián, y la sanación es posible aunque tome tiempo y requiera ayuda.",
-        "Que debe perdonar a sus abusadores antes de poder comenzar ningún proceso de sanación."
+        "Que debe perdonar a sus abusadores antes de poder comenzar ningún proceso de sanación.",
+        "Que Dios lo olvidó porque permitió que sufriera, y eso significa que no merece sanación.",
+        "Que el abuso infantil es tan grave que ningún proceso terrenal puede producir sanación verdadera."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 7,

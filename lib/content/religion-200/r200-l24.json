@@ -19,14 +19,14 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa&id=p27#p27"
         },
         {
-          "referencia": "Alma 7:11–12",
+          "referencia": "Alma 7:11–15",
           "texto": "Y él irá, sufriendo dolores, aflicciones y tentaciones de todo género; y esto para que se cumpla la palabra que dice: Tomará sobre sí los dolores y las enfermedades de su pueblo. Y tomará sobre sí la muerte a fin de aflojar los lazos de la muerte que ligan a su pueblo; y tomará sobre sí sus debilidades para que sus entrañas se llenen de misericordia.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p11-p12#p11"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p11-p15#p11"
         },
         {
-          "referencia": "Doctrina y Convenios 42:43–44",
-          "texto": "Los que están enfermos entre vosotros serán sanados también si tienen fe suficiente; mas también puede acontecer que el hombre haya recibido sabiduría para conocer que la fe del enfermo no es suficiente, así que será sanado por medio de las hierbas y las cosas más sencillas de la tierra.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=spa&id=p43-p44#p43"
+          "referencia": "Doctrina y Convenios 42:43, 48",
+          "texto": "Y los que de entre vosotros estén enfermos, y no tengan fe para ser sanados, pero creyeren, serán nutridos con toda ternura, con hierbas y alimento sencillo, y esto no por mano de un enemigo. […] Y además, sucederá que el que tuviere fe en mí para ser sanado, y no estuviere señalado para morir, sanará.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=spa&id=p43,p48#p43"
         }
       ]
     },
@@ -76,45 +76,45 @@
       "id": 2,
       "question": "Mosíah 18:8–9 describe el convenio del bautismo. ¿Qué principio extrae el manual de ese pasaje para ayudar a prevenir el suicidio y apoyar a quienes luchan con pensamientos suicidas?",
       "options": [
+        "Que los líderes de la Iglesia son los únicos autorizados para apoyar a quienes tienen pensamientos suicidas.",
         "Que el bautismo protege automáticamente contra todos los problemas de salud mental.",
         "Que como discípulos, nos comprometemos a llevar las cargas los unos de los otros y a llorar con los que lloran.",
-        "Que el suicidio es un pecado imperdonable que rompe el convenio bautismal.",
-        "Que los líderes de la Iglesia son los únicos autorizados para apoyar a quienes tienen pensamientos suicidas."
+        "Que el suicidio es un pecado imperdonable que rompe el convenio bautismal."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "La hermana Reyna I. Aburto compartió testimonios de personas que ocultaban su dolor mental por vergüenza y sentimientos de debilidad. ¿Qué consecuencia tiene ese silencio según el principio de la lección?",
       "options": [
-        "El silencio es la respuesta correcta: los problemas de salud mental son demasiado privados para compartirlos.",
-        "El silencio prolongado agrava el sufrimiento porque priva a la persona del apoyo de la comunidad y del profesional que podría ayudarla.",
         "El silencio es temporal; con el tiempo los problemas de salud mental desaparecen solos.",
-        "La vergüenza asociada a los problemas mentales es inevitable y los miembros deben aprender a vivir con ella."
+        "La vergüenza asociada a los problemas mentales es inevitable y los miembros deben aprender a vivir con ella.",
+        "El silencio es la respuesta correcta: los problemas de salud mental son demasiado privados para compartirlos.",
+        "El silencio prolongado agrava el sufrimiento porque priva a la persona del apoyo de la comunidad y del profesional que podría ayudarla."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "Alma 7:11–12 enseña que Cristo tomó sobre Sí mismo las penas, las enfermedades y las dolencias de su pueblo. ¿Qué dice eso específicamente sobre su capacidad de entender los problemas de salud mental?",
       "options": [
-        "Que Cristo sufrió físicamente pero no experimentó el sufrimiento emocional o mental.",
-        "Que Cristo entiende el sufrimiento mental desde afuera, como un observador compasivo.",
         "Que Cristo conoce por experiencia propia el sufrimiento emocional y mental de Sus hermanos y hermanas, lo que le da una capacidad única de ayudar desde dentro del dolor.",
-        "Que la expiación cura automáticamente todos los problemas de salud mental si la persona tiene suficiente fe."
+        "Que la expiación cura automáticamente todos los problemas de salud mental si la persona tiene suficiente fe.",
+        "Que Cristo sufrió físicamente pero no experimentó el sufrimiento emocional o mental.",
+        "Que Cristo entiende el sufrimiento mental desde afuera, como un observador compasivo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Un amigo le confiesa a Bruno que está experimentando depresión severa. Bruno no sabe qué decir y teme empeorar las cosas. Según la hermana Aburto y el principio de la lección, ¿cuál sería la respuesta más cristiana de Bruno?",
       "options": [
-        "Decirle que ore más y ayune porque eso resuelve los problemas espirituales que causan la depresión.",
         "Cambiar el tema para no hacer que su amigo se sienta más mal hablando de eso.",
         "Escuchar con empatía y sin juzgar, validar su dolor y animarlo a buscar ayuda de un profesional o líder de la Iglesia sin minimizar lo que siente.",
-        "Decirle que todos pasan por momentos difíciles y que con el tiempo se le va a pasar."
+        "Decirle que todos pasan por momentos difíciles y que con el tiempo se le va a pasar.",
+        "Decirle que ore más y ayune porque eso resuelve los problemas espirituales que causan la depresión."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -131,12 +131,12 @@
       "id": 7,
       "question": "El Salvador buscó descanso y oración para Su bienestar (Marcos 1:35). Alma 7:11–12 muestra que Cristo tomó sobre Sí el sufrimiento mental. Mosíah 18:8–9 nos llama a llevar las cargas de otros. ¿Cuál es el principio que une los tres?",
       "options": [
-        "Que la salud mental es un tema privado sin relación con el Evangelio o la comunidad de la Iglesia.",
-        "Que el Evangelio aborda la salud mental desde tres ángulos: Cristo nos enseñó a cuidarnos activamente, nos da a un Salvador que entiende nuestro dolor desde adentro, y nos llama a ser comunidad que carga las penas de los que sufren.",
         "Que los problemas de salud mental son exclusivamente espirituales y se resuelven solo con los medios de la Iglesia.",
-        "Que la salud mental perfecta es una promesa del Evangelio para quienes son suficientemente fieles."
+        "Que la salud mental perfecta es una promesa del Evangelio para quienes son suficientemente fieles.",
+        "Que la salud mental es un tema privado sin relación con el Evangelio o la comunidad de la Iglesia.",
+        "Que el Evangelio aborda la salud mental desde tres ángulos: Cristo nos enseñó a cuidarnos activamente, nos da a un Salvador que entiende nuestro dolor desde adentro, y nos llama a ser comunidad que carga las penas de los que sufren."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

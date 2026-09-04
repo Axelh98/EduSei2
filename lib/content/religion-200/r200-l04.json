@@ -20,14 +20,14 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=spa&id=p39#p39"
         },
         {
-          "referencia": "Doctrina y Convenios 49:15–17",
+          "referencia": "Doctrina y Convenios 49:6–17",
           "texto": "Y nuevamente, en verdad os digo que quien prohíba casarse no está ordenado de Dios, porque el matrimonio está ordenado de Dios para el hombre. Por tanto, será lícito que tenga una esposa, pues esto fue creado para el hombre, con el fin de multiplicarse y henchir la tierra, conforme a mi mandamiento; por tanto, a quien prohíba casarse no le es dada la ordenanza del sacerdocio.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=spa&id=p15-p17#p15"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=spa&id=p6-p17#p6"
         },
         {
-          "referencia": "2 Nefi 9:7–8",
+          "referencia": "2 Nefi 9:4–8",
           "texto": "Por tanto, fue necesario que existiese una expiación infinita; pues de no ser así, esta corrupción no podría revestirse de incorrupción. Y si cayera sobre la carne esta corrupción, el alma también debería perecer; sí, debería morir tanto respecto a las cosas temporales como a las espirituales; debería unirse a aquél diablo, y residir en el reino preparado para él.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=spa&id=p7-p8#p7"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=spa&id=p4-p8#p4"
         }
       ]
     },
@@ -66,67 +66,67 @@
       "id": 1,
       "question": "Según Doctrina y Convenios 49:15–16, ¿cuál es el propósito declarado por el Señor para el matrimonio y la familia en relación con la tierra?",
       "options": [
-        "Que el matrimonio es una institución social que el Señor tolera mientras no contradiga Sus mandamientos.",
-        "Que los hijos de los hombres deben casarse para que la tierra cumpla el objeto de su creación.",
         "Que el matrimonio es solo necesario para recibir las ordenanzas del templo, no como fin en sí mismo.",
-        "Que la familia fue establecida como protección económica para los miembros más vulnerables de la sociedad."
+        "Que la familia fue establecida como protección económica para los miembros más vulnerables de la sociedad.",
+        "Que el matrimonio es una institución social que el Señor tolera mientras no contradiga Sus mandamientos.",
+        "Que los hijos de los hombres deben casarse para que la tierra cumpla el objeto de su creación."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "El presidente M. Russell Ballard declaró que hay un «punto fundamental que lo conecta todo» en el plan de Dios. ¿Cuál es ese punto, según su cita en la lección?",
       "options": [
-        "La familia: sin ella, el plan de Dios no tiene propósito ni destino.",
-        "El sacerdocio: sin él, las ordenanzas de la familia no tienen validez eterna.",
         "Jesucristo y Su sacrificio expiatorio, del cual dependen el plan de Dios y nuestro destino eterno, incluyendo el matrimonio y la familia.",
-        "La proclamación sobre la familia, que une todas las enseñanzas del Evangelio en un solo documento."
+        "La proclamación sobre la familia, que une todas las enseñanzas del Evangelio en un solo documento.",
+        "La familia: sin ella, el plan de Dios no tiene propósito ni destino.",
+        "El sacerdocio: sin él, las ordenanzas de la familia no tienen validez eterna."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "2 Nefi 2:22–23 enseña que a causa de la Caída, Adán y Eva pudieron tener hijos. ¿Qué dice eso sobre la relación entre la Caída y el plan de Dios para las familias?",
       "options": [
-        "Que la Caída fue un accidente que Dios aprovechó para agregar las familias al plan.",
         "Que la Caída es un evento negativo que el Señor redimirá completamente solo en la resurrección.",
         "Que la Caída no fue un fracaso sino una parte necesaria del plan: permitió que los hijos de Dios naciesen en familias mortales, obtengan cuerpos y progresen hacia la vida eterna.",
-        "Que sin la Caída el plan de Dios habría sido perfectamente cumplido sin la necesidad de redención."
+        "Que sin la Caída el plan de Dios habría sido perfectamente cumplido sin la necesidad de redención.",
+        "Que la Caída fue un accidente que Dios aprovechó para agregar las familias al plan."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "El élder Robert D. Hales advirtió que Satanás ataca el matrimonio y la familia. ¿Por qué sería el adversario especialmente interesado en atacar esas instituciones específicamente, según el principio doctrinal de esta lección?",
       "options": [
+        "Porque Satanás solo ataca las instituciones que tienen respaldo legal del gobierno.",
         "Porque el matrimonio y la familia son tradiciones culturales que Satanás usa para distraer a las personas de lo espiritual.",
         "Porque si destruye el matrimonio y la familia, destruye la unidad central del plan de salvación del Padre y dificulta que Sus hijos alcancen la vida eterna.",
-        "Porque los miembros de la Iglesia son más vulnerables en el hogar que en otros entornos.",
-        "Porque Satanás solo ataca las instituciones que tienen respaldo legal del gobierno."
+        "Porque los miembros de la Iglesia son más vulnerables en el hogar que en otros entornos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Raquel, estudiante universitaria, es la única de su clase que defiende la importancia del matrimonio y los hijos. Sus compañeros le dicen que esas cosas «se interponen en la realización personal». Según Moisés 1:39 y el principio de esta lección, ¿qué podría responder Raquel?",
       "options": [
+        "Que debería evitar el tema en clase para no generar más conflicto.",
         "Que sus compañeros tienen razón: la familia es una elección personal sin importancia eterna.",
         "Que el matrimonio y los hijos son obligaciones religiosas que los miembros de la Iglesia deben cumplir aunque no quieran.",
-        "Que la obra y gloria de Dios es llevar a cabo la vida eterna del hombre, y la familia es el camino que Él estableció para eso; lo que el mundo llama «realización» es una versión reducida de lo que el Padre tiene preparado.",
-        "Que debería evitar el tema en clase para no generar más conflicto."
+        "Que la obra y gloria de Dios es llevar a cabo la vida eterna del hombre, y la familia es el camino que Él estableció para eso; lo que el mundo llama «realización» es una versión reducida de lo que el Padre tiene preparado."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Emilio tiene 22 años y siente que el matrimonio puede esperar: primero quiere terminar la carrera, encontrar trabajo estable y viajar. Según el principio de DyC 49:15–16 y la enseñanza del élder Hales, ¿qué perspectiva le ofrece esta lección?",
       "options": [
-        "Que debe casarse inmediatamente sin importar sus circunstancias económicas o personales.",
         "Que el matrimonio es una decisión tan importante que no debe ser postergada indefinidamente por metas que, si bien son válidas, no deben reemplazar el propósito central del plan eterno.",
         "Que Dios entiende perfectamente que los jóvenes de hoy tienen más compromisos y no espera que se casen pronto.",
-        "Que el matrimonio solo es urgente para quienes tienen una vocación específica de formar una familia grande."
+        "Que el matrimonio solo es urgente para quienes tienen una vocación específica de formar una familia grande.",
+        "Que debe casarse inmediatamente sin importar sus circunstancias económicas o personales."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

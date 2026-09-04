@@ -8,7 +8,13 @@
         "Moisés eligió esto: 'Amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas' (Deuteronomio 6:5). No fue una instrucción más en una lista larga. Fue el resumen de todo. El primer y gran mandamiento, como lo llamó el propio Jesucristo siglos después (Mateo 22:38).",
         "Lo más interesante es lo que Moisés dijo justo después: 'Estas palabras estarán sobre tu corazón; y las repetirás a tus hijos, y hablarás de ellas estando en tu casa, y andando por el camino.' El amor a Dios no era un sentimiento privado reservado para el templo. Era algo que debía impregnar la casa, la mesa, el camino, la conversación de cada día.",
         "¿Cómo se ve eso en tu vida? No en abstracto, sino en concreto. Amor a Dios puede ser la forma en que tratás a tu hermano menor. Puede ser cómo usás tu tiempo libre. Puede ser lo que elegís ver, leer o hacer cuando nadie te mira. La pregunta que Moisés plantea a Israel es la misma que el Señor te plantea a vos hoy: ¿qué lugar ocupa Él realmente en tu corazón?"
-      ]
+      ],
+      "imagen": {
+        "assetId": "49433d1aa17911ec9ff4eeeeac1e53cbb93bc874",
+        "alt": "Moisés de pie en el monte",
+        "ancho": 2124,
+        "alto": 1195
+      }
     },
     {
       "tipo": "escrituras",
@@ -67,14 +73,14 @@
     },
     {
       "id": 2,
-      "question": "El presidente Jeffrey R. Holland enseñó sobre la 'primera gran verdad de la eternidad'. ¿Cuál es esa verdad según su enseñanza?",
+      "question": "El élder K. Brett Nattress, citado en la lección, da vuelta el mandamiento de Deuteronomio 6:5 con una pregunta. ¿Cuál es su enseñanza?",
       "options": [
-        "Que el amor de Dios hacia Sus hijos es perfecto y constante, independientemente del comportamiento de ellos.",
         "Que el Evangelio de Jesucristo es la única fuente de verdad completa disponible para la humanidad.",
-        "Que el amor que Dios nos tiene es proporcional al amor que nosotros le mostramos a través de nuestra obediencia.",
-        "Que Dios nos ama a nosotros con todo Su corazón, alma, mente y fuerza, y que ese amor es la fuente de toda la enseñanza del Evangelio."
+        "Que el Padre Celestial siempre se acuerda de nosotros y nos ama perfectamente; la pregunta es si nosotros nos acordamos de Él y lo amamos.",
+        "Que el amor que Dios nos tiene es proporcional al amor que le mostramos con nuestra obediencia.",
+        "Que amar a Dios de todo corazón fue el único mandamiento que Moisés dejó a Israel antes de morir."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 3,
@@ -100,36 +106,36 @@
     },
     {
       "id": 5,
-      "question": "Nicolás dice que ama a Dios pero que 'no tiene ganas de orar todos los días ni de estudiar las Escrituras'. El presidente Holland enseña que Dios nos ama con todo Su corazón. ¿Cómo conecta esa verdad con la motivación para los hábitos espirituales?",
+      "question": "Nicolás dice que ama a Dios pero que 'no tiene ganas de orar todos los días ni de estudiar las Escrituras'. El élder Nattress enseña que Dios siempre se acuerda de nosotros y nos ama perfectamente. ¿Cómo conecta esa verdad con la motivación para los hábitos espirituales?",
       "options": [
-        "Que cuando uno entiende profundamente cuánto es amado por Dios, buscar la conexión con Él a través de la oración y las Escrituras se convierte en una respuesta natural a ese amor, no solo en una obligación.",
-        "Que el amor de Dios es incondicional y no depende de los hábitos espirituales de la persona; puede amarlo sin practicarlos.",
-        "Que el amor a Dios se demuestra principalmente en el trato a las personas que nos rodean, no en las prácticas espirituales personales.",
-        "Que si Nicolás orara con mayor frecuencia, sentiría más amor de Dios, lo que crearía un ciclo positivo de motivación."
+        "Que el amor de Dios es incondicional y no depende de los hábitos espirituales; puede amarlo sin practicarlos.",
+        "Que el amor a Dios se demuestra sobre todo en el trato a quienes nos rodean, no en las prácticas espirituales personales.",
+        "Que acordarse de Él es la respuesta natural a saberse amado: la oración y el estudio dejan de ser una obligación y pasan a ser la forma de corresponder ese amor.",
+        "Que si Nicolás orara con más frecuencia sentiría más amor de Dios, y eso crearía un ciclo positivo de motivación."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Sofía tiene miedo de que sus errores pasados hayan dañado su relación con Dios de forma permanente. Deuteronomio 6:5 le pide amar a Dios con todo el corazón, y el élder Nattress testifica que Él la ama perfectamente. ¿Qué verdad podría cambiar su perspectiva?",
+      "options": [
+        "Que el amor de Dios hacia ella es proporcional a su fidelidad actual, así que si mejora ahora su relación puede restaurarse.",
+        "Que el amor de Él viene primero: Dios ya se acuerda de ella y la ama perfectamente, antes de que ella haga nada para 'merecerlo'.",
+        "Que el daño de los errores pasados necesita tiempo y esfuerzo sostenido antes de repararse del todo.",
+        "Que necesita completar un proceso formal de arrepentimiento antes de poder sentir el amor de Dios."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 6,
-      "question": "Sofía tiene miedo de que sus errores pasados hayan dañado su relación con Dios de manera permanente. El principio de Deuteronomio 6:5 —amar a Dios con todo el corazón— y la enseñanza del presidente Holland le hablan directamente. ¿Qué verdad podría cambiar su perspectiva?",
+      "id": 7,
+      "question": "Deuteronomio 6 resume toda la ley en el amor a Dios. El élder Nattress agrega que Dios se acuerda de nosotros y nos ama perfectamente. ¿Qué estructura relacional aparece cuando esas dos verdades se sostienen juntas?",
       "options": [
-        "Que el amor de Dios hacia ella es proporcional a su fidelidad actual, por lo que si mejora ahora, su relación puede restaurarse.",
-        "Que el daño causado por los errores pasados requiere tiempo y esfuerzo sostenido para ser reparado completamente.",
-        "Que el mandamiento de amar a Dios incluye recibirle a Él primero: confiar en que Él la ama con todo Su corazón antes de que ella haga nada para 'merecer' ese amor de vuelta.",
-        "Que Sofía necesita un proceso formal de arrepentimiento antes de poder sentir el amor de Dios plenamente en su vida."
+        "Que el amor entre Dios y Sus hijos es una obligación mutua: Él cumple Su parte y nosotros la nuestra mediante la obediencia.",
+        "Que ambos amores pesan igual en la relación: el de Dios hacia nosotros y el nuestro hacia Él.",
+        "Que conocer el amor de Dios elimina el esfuerzo de guardar los mandamientos, porque la obediencia se vuelve automática.",
+        "Que el amor de Dios hacia nosotros es el fundamento que hace posible el amor que le devolvemos: no es una transacción, sino una relación que Él inicia."
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": 7,
-      "question": "Deuteronomio 6 resume toda la ley en el amor a Dios. El presidente Holland añade que Dios también nos ama a nosotros con todo lo que tiene. ¿Cuál es la estructura relacional que emerge cuando esas dos verdades se sostienen juntas?",
-      "options": [
-        "Que el amor entre Dios y Sus hijos es una relación de obligación mutua: Él cumple Su parte y nosotros cumplimos la nuestra mediante la obediencia.",
-        "Que el amor de Dios hacia nosotros es el fundamento que hace posible y da sentido al amor que nosotros le devolvemos; no es una transacción sino una relación de amor iniciada por Él.",
-        "Que ambos amores son equivalentes en importancia: el de Dios hacia nosotros y el nuestro hacia Él tienen el mismo peso en la relación.",
-        "Que conocer el amor de Dios elimina el esfuerzo necesario para guardar los mandamientos porque la obediencia se vuelve completamente natural."
-      ],
-      "correctAnswer": 0
     }
   ]
 }

@@ -46,7 +46,7 @@
       "preguntas": [
         "¿Qué pregunta personal llevarías a la próxima Conferencia General esperando una respuesta del Señor?",
         "¿Recordás algún mensaje de una Conferencia pasada que respondió una pregunta específica tuya o cambió algo concreto en tu vida? ¿Cuál fue?",
-        "El élder Andersen dice que la conferencia general es cuando Cristo 'da dirección a Su Iglesia y a nosotros en forma personal'. ¿Cómo cambia esa perspectiva la manera en que te preparás para escuchar cada discurso?",
+        "El presidente Nelson dice que quienes hablen en la conferencia centrarán sus mensajes en el Salvador, en Su misericordia y en Su infinito poder redentor. ¿Cómo cambia eso la manera en que te preparás para escuchar cada discurso?",
         "DyC 1:38 dice que la voz de los profetas es 'lo mismo' que la voz del Señor. ¿Cómo afecta esa doctrina la forma en que tratás los mensajes de la Conferencia en tu estudio personal?",
         "¿Qué hábito concreto —antes, durante o después de la Conferencia— podrías adoptar para aprovecharla mejor?",
         "¿Qué pasaría espiritualmente en tu vida si decidieras tratar los mensajes de la próxima Conferencia General con el mismo cuidado con el que estudiás las Escrituras?"
@@ -56,10 +56,10 @@
   "questions": [
     {
       "id": 1,
-      "question": "El élder Neil L. Andersen ofrece una sugerencia concreta para prepararse antes de la conferencia general. ¿Cuál es?",
+      "question": "La lección propone una manera concreta de prepararse antes de que empiece la conferencia general. ¿Cuál es?",
       "options": [
         "Hacer una lista de los oradores que más te gustan para anticipar sus temas.",
-        "Escribir las preguntas o preocupaciones que tienes y llevarlas al Señor en oración antes de que comience.",
+        "Escribir las preguntas o preocupaciones que tenés y llevarlas al Señor en oración antes de que comience.",
         "Leer todos los discursos de la conferencia anterior para tener contexto comparativo.",
         "Ayunar el día antes de la conferencia para estar más receptivo al Espíritu."
       ],
@@ -67,12 +67,12 @@
     },
     {
       "id": 2,
-      "question": "¿Cómo describe el élder Andersen quién guía los asuntos de la Iglesia y da dirección en la conferencia general?",
+      "question": "Doctrina y Convenios 1:38, citado en la lección, dice: 'ya sea por mi propia voz o por la voz de mis siervos, es lo mismo'. ¿Qué implica esa declaración sobre la conferencia general?",
       "options": [
-        "El Consejo de los Doce, que delibera y vota sobre los temas que se presentarán al pueblo.",
-        "La Primera Presidencia, cuya sabiduría y experiencia combinada orienta los mensajes del evento.",
-        "Un comité de comunicación que determina los temas según las necesidades globales de la Iglesia.",
-        "Jesucristo mismo, por medio de Sus siervos a quienes guía e inspira para hablar lo que Él quiere que el pueblo escuche."
+        "Que el Cuórum de los Doce delibera y vota los temas que se presentarán al pueblo.",
+        "Que la Primera Presidencia orienta los mensajes con su sabiduría y experiencia combinada.",
+        "Que un comité de comunicación determina los temas según las necesidades globales de la Iglesia.",
+        "Que escuchar a los siervos del Señor equivale a escuchar al Señor mismo: es Él quien dirige Su Iglesia y da la dirección."
       ],
       "correctAnswer": 3
     },

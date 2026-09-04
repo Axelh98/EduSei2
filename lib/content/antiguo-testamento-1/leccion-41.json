@@ -26,7 +26,7 @@
         },
         {
           "referencia": "Doctrina y Convenios 3:1",
-          "texto": "Las obras, los designios y los propósitos de Dios no pueden frustrarse, ni impedirse.",
+          "texto": "Las obras , los designios y los propósitos de Dios no se pueden frustrar ni tampoco pueden reducirse a la nada.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=spa&id=p1#p1"
         }
       ]
@@ -97,7 +97,7 @@
         "Que las personas que rechazan al Señor repetidamente pierden permanentemente la capacidad de arrepentirse.",
         "Que el Señor debería haber dado menos oportunidades a Faraón para evitar tanto sufrimiento al pueblo egipcio."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -119,7 +119,7 @@
         "Hablar con su obispo para que le explique por qué Dios puede parecer distante en ciertos períodos de la vida.",
         "Leer los testimonios de otras personas sobre experiencias espirituales para recordarse que el Señor sí actúa en la vida de Sus hijos."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 7,
@@ -130,7 +130,7 @@
         "Que el Señor actúa para que Sus hijos lo conozcan —su nombre, su poder, su fidelidad a los convenios— y usa tanto momentos íntimos como demostraciones públicas para lograrlo.",
         "Que las revelaciones del Señor en el Antiguo Testamento eran siempre dramáticas y visibles, a diferencia de las revelaciones más interiores y personales de nuestra época."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

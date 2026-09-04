@@ -87,56 +87,56 @@
       "id": 3,
       "question": "El élder Jeffrey R. Holland enseñó que la intimidad sexual es símbolo de la unión de «corazones, esperanzas, vidas, amor, familia, futuro, todo». ¿Por qué ese significado hace que la intimidad sexual fuera del matrimonio sea dañina, según la lección?",
       "options": [
-        "Porque fuera del matrimonio no existe atracción genuina y por eso la experiencia no tiene valor real.",
-        "Porque usar ese símbolo de unión total sin el compromiso total del convenio matrimonial distorsiona su significado y produce daño emocional y espiritual real.",
         "Porque solo en el templo se puede obtener la bendición que hace significativa la intimidad conyugal.",
-        "Porque la intimidad sexual fuera del matrimonio siempre resulta en consecuencias físicas negativas."
+        "Porque la intimidad sexual fuera del matrimonio siempre resulta en consecuencias físicas negativas.",
+        "Porque fuera del matrimonio no existe atracción genuina y por eso la experiencia no tiene valor real.",
+        "Porque usar ese símbolo de unión total sin el compromiso total del convenio matrimonial distorsiona su significado y produce daño emocional y espiritual real."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "Alma 38:12 enseña que si refrenamos nuestras pasiones, podemos estar «llenos de amor». ¿Cuál es la paradoja doctrinal que ese versículo presenta respecto a la ley de castidad?",
       "options": [
-        "Que las personas que guardan la ley de castidad sienten menos amor que las que no la guardan.",
-        "Que refrenar las pasiones no tiene nada que ver con el amor; son dos áreas separadas de la vida.",
         "Que la ley de castidad no suprime el amor sino que lo libera: el refreno de las pasiones desordenadas crea el espacio interior para un amor más pleno y genuino.",
-        "Que la paradoja es solo aparente; en realidad, guardar la ley de castidad reduce la capacidad de amar a largo plazo."
+        "Que la paradoja es solo aparente; en realidad, guardar la ley de castidad reduce la capacidad de amar a largo plazo.",
+        "Que las personas que guardan la ley de castidad sienten menos amor que las que no la guardan.",
+        "Que refrenar las pasiones no tiene nada que ver con el amor; son dos áreas separadas de la vida."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Un amigo de Nicolás le dice: «No entiendo por qué esperas al matrimonio para tener relaciones; si ambos dan su consentimiento, no hay problema». Según 1 Corintios 6:19–20 y el élder Holland, ¿qué le respondería el principio doctrinal?",
       "options": [
-        "Que tiene razón: el consentimiento mutuo es el único estándar ético que importa en la intimidad sexual.",
         "Que la Iglesia tiene esa regla por razones culturales históricas que ya no aplican en la sociedad actual.",
         "Que el consentimiento no es el único criterio: la intimidad sexual tiene un significado y un propósito que trasciende el acuerdo de dos personas, porque el cuerpo es templo de Dios y la intimidad es símbolo de unión total que solo tiene sentido dentro del convenio matrimonial.",
-        "Que debería dejar de tener ese tipo de amigos para proteger sus valores."
+        "Que debería dejar de tener ese tipo de amigos para proteger sus valores.",
+        "Que tiene razón: el consentimiento mutuo es el único estándar ético que importa en la intimidad sexual."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "Camila es sería y fiel pero a veces siente que vivir la ley de castidad es una carga que la priva de algo importante. Según 1 Corintios 10:13 y la lección, ¿qué perspectiva le ofrece el principio doctrinal?",
       "options": [
+        "Que la sensación de privación desaparecerá automáticamente cuando encuentre a su compañero eterno.",
         "Que sus sentimientos son válidos y probablemente la ley de castidad sea más difícil para ella que para otros.",
         "Que el Señor no deja que nadie sea tentado más allá de lo que puede resistir, y siempre provee una vía de escape; la ley de castidad no es una privación sino una protección de un don sagrado.",
-        "Que debería concentrarse en los aspectos positivos del soltería y no pensar tanto en lo que no tiene.",
-        "Que la sensación de privación desaparecerá automáticamente cuando encuentre a su compañero eterno."
+        "Que debería concentrarse en los aspectos positivos del soltería y no pensar tanto en lo que no tiene."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Génesis 2:24 describe la unión conyugal como «una sola carne». 1 Corintios 6:19–20 declara que el cuerpo es templo del Espíritu Santo. Alma 38:12 promete que refrenar las pasiones produce amor pleno. ¿Cuál es el principio que une los tres?",
       "options": [
-        "Que la intimidad sexual es irrelevante para la vida espiritual y debe mantenerse completamente separada de la fe.",
-        "Que la intimidad sexual es un don divino con dimensión espiritual profunda: involucra a Dios, al alma completa y al amor verdadero; por eso su uso correcto no la empobrece sino que la eleva a su propósito original.",
         "Que el refreno de las pasiones sexuales es el mérito principal por el cual Dios concede la exaltación.",
-        "Que los tres pasajes se refieren a aspectos distintos sin relación directa entre sí."
+        "Que los tres pasajes se refieren a aspectos distintos sin relación directa entre sí.",
+        "Que la intimidad sexual es irrelevante para la vida espiritual y debe mantenerse completamente separada de la fe.",
+        "Que la intimidad sexual es un don divino con dimensión espiritual profunda: involucra a Dios, al alma completa y al amor verdadero; por eso su uso correcto no la empobrece sino que la eleva a su propósito original."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

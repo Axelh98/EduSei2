@@ -33,9 +33,9 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/1?lang=spa&id=p17#p17"
         },
         {
-          "referencia": "Éxodo 1:20–21",
+          "referencia": "Éxodo 1:12–20",
           "texto": "Y Dios hizo bien a las parteras; y el pueblo se multiplicó y se fortaleció en gran manera. Y por cuanto las parteras temieron a Dios, él prosperó sus familias.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/1?lang=spa&id=p20-p21#p20"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/1?lang=spa&id=p12-p20#p12"
         },
         {
           "referencia": "Hechos 5:29",
@@ -43,9 +43,9 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/acts/5?lang=spa&id=p29#p29"
         },
         {
-          "referencia": "Josué 1:9",
-          "texto": "¿No te lo he mandado yo? Esfuérzate y sé valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=spa&id=p9#p9"
+          "referencia": "Josué 1:7–9",
+          "texto": "Solamente esfuérzate, y sé muy valiente, para cuidar de hacer conforme a toda la ley que mi siervo Moisés te mandó; no te apartes de ella ni a la derecha ni a la izquierda, para que prosperes en todas las cosas que emprendas. Este libro de la ley nunca se apartará de tu boca, sino que de día y de noche meditarás en él, para que guardes y hagas conforme a todo lo que en él está escrito, porque entonces harás prosperar tu camino y todo te saldrá bien. Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo dondequiera que vayas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=spa&id=p7-p9#p7"
         }
       ]
     },
@@ -119,7 +119,7 @@
         "Pedir a un adulto de confianza que intervenga antes de tomar cualquier decisión por sí sola.",
         "Delatarlos primero al maestro para neutralizar la amenaza antes de que puedan usarla contra ella."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -141,7 +141,7 @@
         "Que el conflicto entre el bien y el mal siempre involucra a naciones enteras, nunca a individuos que actúan por cuenta propia.",
         "Que el Señor retrasa Su intervención hasta que alguien con suficiente fe actúa primero, sin importar el costo de esa acción."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

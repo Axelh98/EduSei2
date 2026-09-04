@@ -14,9 +14,9 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Doctrina y Convenios 64:9–10",
-          "texto": "Por tanto, os digo que debéis perdonaros unos a otros; porque aquel que no perdona a su hermano sus transgresiones está condenado ante el Señor; porque en él permanece el mayor pecado. Yo, el Señor, perdonaré a quien yo quiera perdonar, mas de vosotros se requiere que perdonéis a todos.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p9-p10#p9"
+          "referencia": "Doctrina y Convenios 64:8–10",
+          "texto": "En la antigüedad mis discípulos buscaron motivo el uno contra el otro, y no se perdonaron unos a otros en su corazón; y por esta maldad fueron afligidos y disciplinados con severidad. Por tanto, os digo que debéis perdonaros los unos a los otros; pues el que no perdona las ofensas de su hermano, queda condenado ante el Señor, porque en él permanece el mayor pecado. Yo, el Señor, perdonaré a quien sea mi voluntad perdonar, mas a vosotros os es requerido perdonar a todos los hombres.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=p8-p10#p8"
         },
         {
           "referencia": "Moroni 6:8",
@@ -65,12 +65,12 @@
       "id": 1,
       "question": "Lucas 15:17–24 narra la parábola del hijo pródigo. ¿Qué hizo el padre cuando vio que su hijo regresaba de lejos?",
       "options": [
-        "Esperó dentro de la casa a que el hijo llegara para escuchar su explicación antes de recibirlo.",
-        "Mandó a los siervos a recibir al hijo para evaluar si su arrepentimiento era genuino.",
         "Corrió a encontrarlo, lo abrazó, lo besó y organizó una fiesta para celebrar su regreso.",
-        "Le recordó al hijo todos los errores que había cometido antes de perdonarlo."
+        "Le recordó al hijo todos los errores que había cometido antes de perdonarlo.",
+        "Esperó dentro de la casa a que el hijo llegara para escuchar su explicación antes de recibirlo.",
+        "Mandó a los siervos a recibir al hijo para evaluar si su arrepentimiento era genuino."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -87,34 +87,34 @@
       "id": 3,
       "question": "El élder Massimo De Feo enseñó que recordar el sacrificio del Salvador puede ayudarnos a perdonar a los demás. ¿Por qué ese recuerdo específico tiene ese poder?",
       "options": [
+        "Porque recordar la muerte de Cristo produce emociones que facilitan el perdón sin necesidad de esfuerzo interior.",
         "Porque nos recuerda que el Salvador ya perdonó a todos, así que nosotros no tenemos que hacerlo.",
         "Porque si Cristo perdonó nuestras deudas infinitas cuando no lo merecíamos, eso nos confronta con lo pequeño que es lo que otros nos deben en comparación, y nos inspira a extender la misma gracia.",
-        "Porque la expiación elimina automáticamente el dolor causado por otros, haciendo que el perdón sea innecesario.",
-        "Porque recordar la muerte de Cristo produce emociones que facilitan el perdón sin necesidad de esfuerzo interior."
+        "Porque la expiación elimina automáticamente el dolor causado por otros, haciendo que el perdón sea innecesario."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "La reconciliación de Jacob y Esaú en Génesis 33 ocurrió después de décadas de separación por una grave traición. ¿Qué principio sobre el perdón en la familia ilustra ese encuentro?",
       "options": [
+        "Que la reconciliación solo es posible cuando la parte ofensora ha compensado materialmente el daño causado.",
         "Que el tiempo por sí solo sana todas las heridas y hace innecesario el esfuerzo activo de reconciliarse.",
         "Que algunas ofensas son demasiado grandes para ser perdonadas dentro de la familia.",
-        "Que tanto el que ofendió como el que fue ofendido necesitan dar pasos activos hacia la reconciliación; y que la mano del Señor puede estar presente en ese encuentro.",
-        "Que la reconciliación solo es posible cuando la parte ofensora ha compensado materialmente el daño causado."
+        "Que tanto el que ofendió como el que fue ofendido necesitan dar pasos activos hacia la reconciliación; y que la mano del Señor puede estar presente en ese encuentro."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Rodrigo tuvo una discusión fuerte con su hermano mayor hace seis meses y ninguno de los dos ha dado el primer paso. Rodrigo siente que él «tiene menos culpa» y espera que su hermano se disculpe primero. Según DyC 64:8–11 y el principio de la lección, ¿qué le diría la doctrina?",
       "options": [
-        "Que tiene razón: el que tiene menos culpa debe esperar a que el otro pida perdón primero.",
         "Que el mandamiento de perdonar y el impulso de reconciliarse no dependen de quién «tiene más culpa»; esperar que el otro dé el primer paso mientras uno está dispuesto a hacerlo es una forma de falta de perdón.",
         "Que debería consultar con su obispo para determinar quién debe disculparse primero.",
-        "Que seis meses es tiempo suficiente para que la tensión sane sola y no es necesario hacer nada."
+        "Que seis meses es tiempo suficiente para que la tensión sane sola y no es necesario hacer nada.",
+        "Que tiene razón: el que tiene menos culpa debe esperar a que el otro pida perdón primero."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -131,12 +131,12 @@
       "id": 7,
       "question": "Lucas 15 muestra al padre corriendo hacia el hijo arrepentido. DyC 64:8–11 exige perdón a todas las personas. Génesis 33 muestra reconciliación entre hermanos después de décadas. ¿Cuál es el principio que une los tres?",
       "options": [
+        "Que algunas ofensas familiares son tan graves que el mandamiento de perdonar no se aplica en esos casos.",
         "Que el arrepentimiento y el perdón en la familia son siempre procesos rápidos cuando hay fe suficiente.",
         "Que el arrepentimiento y el perdón en la familia reflejan la relación del Padre Celestial con Sus hijos: Él siempre corre hacia quien regresa, y Sus discípulos están llamados a hacer lo mismo, sin importar la magnitud de la ofensa ni el tiempo transcurrido.",
-        "Que el perdón en la familia es diferente al perdón ante Dios y requiere condiciones distintas.",
-        "Que algunas ofensas familiares son tan graves que el mandamiento de perdonar no se aplica en esos casos."
+        "Que el perdón en la familia es diferente al perdón ante Dios y requiere condiciones distintas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

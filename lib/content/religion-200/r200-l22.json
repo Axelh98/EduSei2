@@ -14,9 +14,9 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Doctrina y Convenios 68:25, 28",
+          "referencia": "Doctrina y Convenios 68:20–28",
           "texto": "Y también les es ordenado a los padres que enseñen a sus hijos a entender la doctrina del arrepentimiento, la fe en Cristo el Hijo del Dios viviente, y el bautismo y el don del Espíritu Santo mediante la imposición de manos. Y los padres enseñarán a sus hijos a orar y a andar rectamente ante el Señor.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa&id=p25,28#p25"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa&id=p20-p28#p20"
         },
         {
           "referencia": "Deuteronomio 6:6–7",
@@ -65,23 +65,23 @@
       "id": 1,
       "question": "Doctrina y Convenios 68:25 y 93:40 establecen la responsabilidad de los padres respecto a la enseñanza del Evangelio. ¿Cuál es esa responsabilidad según esos versículos?",
       "options": [
-        "Que los padres deben enviar a sus hijos a clases de religión pagadas por la Iglesia.",
-        "Que los padres deben enseñar a sus hijos a orar, a caminar en rectitud y a observar los mandamientos.",
         "Que la Iglesia es la principal responsable de la educación religiosa de los hijos.",
-        "Que los padres deben memorizar las Escrituras junto con sus hijos cada semana."
+        "Que los padres deben memorizar las Escrituras junto con sus hijos cada semana.",
+        "Que los padres deben enviar a sus hijos a clases de religión pagadas por la Iglesia.",
+        "Que los padres deben enseñar a sus hijos a orar, a caminar en rectitud y a observar los mandamientos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "El manual menciona que Lehi invitó a su familia a comer del fruto del árbol (1 Nefi 8:12–18) y que algunos respondieron y otros no. ¿Qué demuestra ese relato sobre los padres rectos cuyos hijos toman decisiones distintas?",
       "options": [
-        "Que los padres rectos siempre logran que sus hijos sigan el Evangelio si enseñan lo suficiente.",
-        "Que si los hijos rechazan el Evangelio, es señal de que los padres fallaron en su enseñanza.",
         "Que incluso padres profundamente rectos como Lehi tienen hijos que eligen diferentes caminos; la agencia siempre está presente.",
-        "Que los padres no deben persistir en invitar a sus hijos si estos rechazan el Evangelio."
+        "Que los padres no deben persistir en invitar a sus hijos si estos rechazan el Evangelio.",
+        "Que los padres rectos siempre logran que sus hijos sigan el Evangelio si enseñan lo suficiente.",
+        "Que si los hijos rechazan el Evangelio, es señal de que los padres fallaron en su enseñanza."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -98,34 +98,34 @@
       "id": 4,
       "question": "El presidente Eyring enseñó que ante la preocupación por los seres queridos que se apartan del Evangelio, un profeta le dijo: «Se está preocupando por el problema equivocado. Usted simplemente viva digno del Reino Celestial». ¿Qué principio enseña ese consejo?",
       "options": [
+        "Que el reino celestial es una promesa exclusiva para quienes tienen familias perfectamente activas en la Iglesia.",
         "Que no debemos preocuparnos por los seres queridos que se apartan del Evangelio.",
         "Que nuestra fidelidad personal es la contribución más poderosa que podemos hacer a nuestra familia eterna; la situación de los demás, en las manos del Señor, puede ser más maravillosa de lo que imaginamos.",
-        "Que una vez que los hijos se apartan, ya no hay nada que los padres puedan hacer.",
-        "Que el reino celestial es una promesa exclusiva para quienes tienen familias perfectamente activas en la Iglesia."
+        "Que una vez que los hijos se apartan, ya no hay nada que los padres puedan hacer."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Los padres de Tomás nunca tuvieron oración familiar ni noche de hogar. Él quiere que su futura familia sea diferente pero no sabe cómo empezar. Según DyC 68:25 y la enseñanza de la presidenta Jones sobre los padres como «principales maestros del Evangelio», ¿qué le ofrece esta lección?",
       "options": [
+        "Que sin el ejemplo de sus padres es demasiado difícil y debería pedir ayuda a su futuro suegro.",
         "Que espere a tener hijos para empezar a pensar en esos hábitos.",
         "Que la Iglesia organizará todo automáticamente cuando forme su familia.",
-        "Que empezar hábitos espirituales en el hogar puede hacerse ahora, en pequeño, y que él puede ser el punto crucial que comienza una nueva tradición familiar aunque no la haya heredado.",
-        "Que sin el ejemplo de sus padres es demasiado difícil y debería pedir ayuda a su futuro suegro."
+        "Que empezar hábitos espirituales en el hogar puede hacerse ahora, en pequeño, y que él puede ser el punto crucial que comienza una nueva tradición familiar aunque no la haya heredado."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Daniela tiene un hermano que se alejó de la Iglesia hace dos años. Sus padres están muy angustiados y la familia ha dejado de invitarlo a actividades para evitar la tensión. Según el ejemplo de Lehi y la enseñanza del élder Soares, ¿qué principio les ofrece esta lección?",
       "options": [
-        "Que la mejor estrategia es no mencionarle el Evangelio para no presionarlo.",
-        "Que si se alejó completamente, lo más probable es que no vuelva y deben aceptarlo.",
         "Que deben seguir amándolo, orando por él y buscando la ayuda del Señor sin rendirse; el amor constante, no la presión ni el abandono, es el camino que la doctrina propone.",
-        "Que deben darle un ultimátum claro: o vuelve o lo excluyen de las actividades familiares."
+        "Que deben darle un ultimátum claro: o vuelve o lo excluyen de las actividades familiares.",
+        "Que la mejor estrategia es no mencionarle el Evangelio para no presionarlo.",
+        "Que si se alejó completamente, lo más probable es que no vuelva y deben aceptarlo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 7,

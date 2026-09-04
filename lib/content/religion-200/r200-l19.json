@@ -20,7 +20,7 @@
         },
         {
           "referencia": "Alma 56:47–48",
-          "texto": "Y nos dijeron que sus madres les habían enseñado que si no dudaban, Dios los libraría. Y pensaron en sus madres, y en sus palabras de fe.",
+          "texto": "Hasta entonces nunca habían combatido; no obstante, no temían la muerte, y estimaban más la libertad de sus padres que sus propias vidas; sí, sus madres les habían enseñado que si no dudaban, Dios los libraría. Y me repitieron las palabras de sus madres, diciendo: No dudamos que nuestras madres lo sabían.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/56?lang=spa&id=p47-p48#p47"
         },
         {
@@ -65,23 +65,23 @@
       "id": 1,
       "question": "El presidente M. Russell Ballard declaró que «no hay ninguna función en la vida más esencial ni más eterna» que cierta responsabilidad. ¿Cuál es esa responsabilidad?",
       "options": [
-        "El servicio en el templo y la historia familiar.",
-        "La maternidad.",
         "El liderazgo en la Iglesia.",
-        "La educación académica de los hijos."
+        "La educación académica de los hijos.",
+        "El servicio en el templo y la historia familiar.",
+        "La maternidad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Alma 56:47–48 describe la fe de los jóvenes guerreros. ¿A qué atribuyeron ellos su valentía en la batalla?",
       "options": [
+        "A que sus madres les habían enseñado que si no dudaban, Dios los libraría.",
         "A la bendición de sus padres antes de salir a la guerra.",
         "A sus años de entrenamiento físico y militar.",
-        "A que nunca habían derramado sangre anteriormente.",
-        "A que sus madres les habían enseñado que si no dudaban, Dios los libraría."
+        "A que nunca habían derramado sangre anteriormente."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -98,34 +98,34 @@
       "id": 4,
       "question": "La hermana Sheri L. Dew enseñó que «toda mujer es madre en virtud de su eterno destino divino». ¿Qué implica eso para una mujer que no ha tenido hijos biológicos?",
       "options": [
+        "Que esa declaración se aplica solo en sentido metafórico y no tiene peso doctrinal real.",
         "Que está incompleta en su destino eterno hasta que tenga hijos biológicos.",
         "Que la identidad materna es más amplia que la biología: incluye nutrir, cuidar e influir en las vidas de otros de manera que forma parte esencial de la naturaleza femenina eterna.",
-        "Que debería adoptar niños para cumplir con su responsabilidad divina.",
-        "Que esa declaración se aplica solo en sentido metafórico y no tiene peso doctrinal real."
+        "Que debería adoptar niños para cumplir con su responsabilidad divina."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Una amiga le dice a Sofía en redes sociales que «la maternidad es un desperdicio del potencial de la mujer» y que una carrera profesional es más importante. Según el presidente Christofferson y la lección, ¿qué podría responderle Sofía?",
       "options": [
+        "Que debería ignorar esos comentarios porque provienen de personas que no conocen el Evangelio.",
         "Que tiene razón: en la sociedad actual, la carrera profesional es más importante para el bienestar de la mujer.",
         "Que la Iglesia exige que las mujeres renuncien a sus carreras para ser madres.",
-        "Que tener hijos de Dios y cuidarlos es parte de la obra y la gloria de Dios mismo; lejos de limitar el potencial de la mujer, la maternidad es una expresión de su naturaleza divina y una contribución insustituible al plan eterno.",
-        "Que debería ignorar esos comentarios porque provienen de personas que no conocen el Evangelio."
+        "Que tener hijos de Dios y cuidarlos es parte de la obra y la gloria de Dios mismo; lejos de limitar el potencial de la mujer, la maternidad es una expresión de su naturaleza divina y una contribución insustituible al plan eterno."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Patricia siente que «no está en su naturaleza» ser materna y se preocupa de no poder ser la madre que el Señor espera. Según la promesa de que Dios da dones específicos a las mujeres para esta responsabilidad y el ejemplo del Salvador como modelo de cuidado, ¿qué le ofrece esta lección?",
       "options": [
-        "Que debería adoptar en lugar de tener hijos biológicos, ya que su naturaleza no es la materna.",
-        "Que tiene razón: algunas mujeres simplemente no son madres por naturaleza y eso está bien.",
         "Que el Señor da los dones necesarios para las responsabilidades que asigna; el Salvador es el modelo perfecto de cuidado, y Patricia puede desarrollar esas capacidades con Su ayuda.",
-        "Que debería consultar con un psicólogo antes de tomar ninguna decisión sobre la maternidad."
+        "Que debería consultar con un psicólogo antes de tomar ninguna decisión sobre la maternidad.",
+        "Que debería adoptar en lugar de tener hijos biológicos, ya que su naturaleza no es la materna.",
+        "Que tiene razón: algunas mujeres simplemente no son madres por naturaleza y eso está bien."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 7,

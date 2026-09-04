@@ -16,7 +16,7 @@
       "citas": [
         {
           "referencia": "Moisés 1:13",
-          "texto": "Y acaeció que Moisés miró hacia Satanás y dijo: ¿Quién eres tú? Porque he aquí, yo soy hijo de Dios, a semejanza de su Unigénito; ¿y dónde está tu gloria para que yo deba adorarte?",
+          "texto": "Y sucedió que Moisés miró a Satanás, y le dijo: ¿Quién eres tú? Porque, he aquí, yo soy un hijo de Dios, a semejanza de su Unigénito. ¿Y dónde está tu gloria, para que te adore?",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=spa&id=p13#p13"
         },
         {
@@ -66,12 +66,12 @@
       "id": 1,
       "question": "La proclamación sobre la familia declara que «todos los seres humanos, hombres y mujeres, son creados a la imagen de Dios». ¿Qué añade esa misma declaración sobre el origen de cada persona?",
       "options": [
-        "Que cada persona fue creada directamente por Dios en el momento de nacer.",
         "Que cada persona es un amado hijo o hija procreado como espíritu por padres celestiales y tiene una naturaleza divina.",
         "Que cada persona fue elegida en la prexistencia por sus méritos espirituales para nacer en la tierra.",
-        "Que los seres humanos son imagen de Dios solo en sentido simbólico, no literal."
+        "Que los seres humanos son imagen de Dios solo en sentido simbólico, no literal.",
+        "Que cada persona fue creada directamente por Dios en el momento de nacer."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -99,45 +99,45 @@
       "id": 4,
       "question": "El presidente Nelson recomendó preguntar al Padre Celestial en oración «qué siente Él en cuanto a ustedes y su misión aquí en la tierra». ¿Por qué ese ejercicio específico —preguntar por los sentimientos de Dios hacia uno mismo— es diferente a simplemente leer lo que las Escrituras dicen sobre los hijos de Dios?",
       "options": [
-        "No hay diferencia real: leer las Escrituras y orar producen siempre el mismo resultado.",
-        "Porque preguntar produce una revelación personal y directa que transforma la identidad interior de forma que la lectura general no puede lograr sola, convirtiendo la doctrina en experiencia vivida.",
         "Porque el presidente Nelson no confiaba en que los alumnos leyeran las Escrituras por sí solos.",
-        "Porque las Escrituras no dicen lo suficiente sobre la naturaleza divina; la oración completa esa información faltante."
+        "Porque las Escrituras no dicen lo suficiente sobre la naturaleza divina; la oración completa esa información faltante.",
+        "No hay diferencia real: leer las Escrituras y orar producen siempre el mismo resultado.",
+        "Porque preguntar produce una revelación personal y directa que transforma la identidad interior de forma que la lectura general no puede lograr sola, convirtiendo la doctrina en experiencia vivida."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Martina pasa mucho tiempo en redes sociales comparándose con otras personas y sintiéndose inferior. Cada vez que falla en algo, se dice a sí misma: «Soy un desastre, no sirvo para nada». Según el principio de Moisés 1 y la lección sobre la naturaleza divina, ¿qué le ofrecería esta lección como perspectiva?",
       "options": [
-        "Que debería dejar de usar las redes sociales para no exponerse a comparaciones dañinas.",
-        "Que sus sentimientos son normales y con el tiempo mejorarán solos.",
         "Que Satanás usa exactamente esa estrategia —convencernos de que somos menos de lo que somos— y que recordar su identidad como hija de Dios es el escudo más efectivo contra ese ataque.",
-        "Que debería buscar terapia psicológica para trabajar su autoestima antes de abordar los temas espirituales."
+        "Que debería buscar terapia psicológica para trabajar su autoestima antes de abordar los temas espirituales.",
+        "Que debería dejar de usar las redes sociales para no exponerse a comparaciones dañinas.",
+        "Que sus sentimientos son normales y con el tiempo mejorarán solos."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Sebastián dice: «No me importa mucho quién soy espiritualmente; lo que importa es lo que hago». Según el presidente Uchtdorf y el principio del destino divino, ¿qué le diría esta lección?",
       "options": [
-        "Que tiene razón: las obras importan más que la identidad.",
         "Que la identidad y las obras son completamente separadas y no se influyen mutuamente.",
         "Que quien uno es moldea lo que uno hace; conocer el destino divino da significado a cada acción cotidiana y cambia la motivación de «cumplir reglas» a «caminar hacia quien puedo llegar a ser».",
-        "Que debería primero completar una lista de buenas obras antes de preocuparse por preguntas de identidad."
+        "Que debería primero completar una lista de buenas obras antes de preocuparse por preguntas de identidad.",
+        "Que tiene razón: las obras importan más que la identidad."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "La proclamación declara nuestra naturaleza divina como hijos de Dios. Moisés 1 muestra cómo esa identidad protege contra Satanás. Romanos 8:16–17 enseña que somos coherederos con Cristo. ¿Cuál es el principio que une los tres?",
       "options": [
+        "Que la naturaleza divina se aplica únicamente a los miembros de la Iglesia que han recibido ordenanzas del templo.",
         "Que la naturaleza divina es solo una promesa futura que no tiene efecto práctico en la vida presente.",
         "Que conocer nuestra naturaleza y destino divinos no solo cambia cómo nos vemos, sino que nos da poder real: nos protege del adversario y da dirección y propósito a cada decisión que tomamos hoy.",
-        "Que Satanás no puede atacar a quienes conocen su naturaleza divina, por lo que el conocimiento les garantiza una vida sin tentaciones.",
-        "Que la naturaleza divina se aplica únicamente a los miembros de la Iglesia que han recibido ordenanzas del templo."
+        "Que Satanás no puede atacar a quienes conocen su naturaleza divina, por lo que el conocimiento les garantiza una vida sin tentaciones."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

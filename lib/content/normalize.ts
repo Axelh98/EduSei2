@@ -58,6 +58,7 @@ export function normalizeSeccion(s: any): Seccion {
   if (s.link !== undefined) out.link = s.link
   if (s.preguntas !== undefined) out.preguntas = s.preguntas
   if (s.bloques !== undefined) out.bloques = s.bloques.map(normalizeBloque)
+  if (s.imagen !== undefined) out.imagen = s.imagen
   return out as Seccion
 }
 

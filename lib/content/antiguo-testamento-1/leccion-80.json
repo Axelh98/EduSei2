@@ -9,13 +9,13 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "1 Samuel 3:9",
+          "referencia": "1 Samuel 3:9–13",
           "texto": "Y Elí dijo a Samuel: Ve y acuéstate; y si te llamare, dirás: Habla, Jehová, porque tu siervo oye.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p9#p9"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/3?lang=spa&id=p9-p13#p9"
         },
         {
           "referencia": "Moroni 10:5",
-          "texto": "Y por el poder del Espíritu Santo podéis conocer la verdad de todas las cosas.",
+          "texto": "y por el poder del Espíritu Santo podréis conocer la verdad de todas las cosas.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p5#p5"
         }
       ]
@@ -61,12 +61,12 @@
     },
     {
       "id": 3,
-      "question": "El presidente Nelson advirtió que 'quienes no hayan aprendido a obtener revelación personal caerán'. ¿Qué diferencia hay entre rezar para hablar al Señor y rezar para escuchar al Señor?",
+      "question": "Esta lección te invita a revisar cómo estás aprendiendo a recibir revelación personal. ¿Qué diferencia hay entre orar para hablarle al Señor y orar para escucharlo?",
       "options": [
-        "No hay diferencia esencial; lo importante es que la oración sea frecuente y sincera, independiente de la dirección.",
-        "Hablar al Señor es suficiente para la vida diaria, pero escucharlo es necesario solo en momentos de crisis.",
-        "Escuchar al Señor implica un estado de atención activa y disposición para recibir dirección; hablar sin escuchar convierte la oración en monólogo.",
-        "La revelación personal solo llega cuando uno permanece en silencio absoluto durante períodos prolongados de ayuno."
+        "No hay diferencia esencial; lo importante es que la oración sea frecuente y sincera, sin importar la dirección.",
+        "Hablarle al Señor alcanza para la vida diaria, pero escucharlo hace falta solo en momentos de crisis.",
+        "Escuchar al Señor implica atención activa y disposición para recibir dirección; hablar sin escuchar convierte la oración en un monólogo.",
+        "La revelación personal solo llega tras períodos prolongados de silencio absoluto y ayuno."
       ],
       "correctAnswer": 2
     },

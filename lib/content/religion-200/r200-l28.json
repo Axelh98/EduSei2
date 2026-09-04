@@ -15,19 +15,19 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "2 Nefi 31:20",
+          "referencia": "2 Nefi 31:13–20",
           "texto": "Por tanto, amados hermanos míos, sé que si seguís al Hijo con entera resolución de corazón, actuando sin hipocresía ni engaño ante Dios, sino con verdadera intención, teniendo una esperanza vívida en Cristo y en el amor de Dios y de todos los hombres, entonces os es bien, y no pereceréis.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=spa&id=p20#p20"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=spa&id=p13-p20#p13"
         },
         {
-          "referencia": "Doctrina y Convenios 138:47",
-          "texto": "Los fieles élderes de esta dispensación, cuando partan de la vida mortal, continuarán su labor de predicar el evangelio de arrepentimiento y redención por medio del sacrificio del Unigénito del Padre, entre aquellos que están en las tinieblas.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=spa&id=p47#p47"
+          "referencia": "Doctrina y Convenios 138:57",
+          "texto": "Vi que los fieles élderes de esta dispensación, cuando salen de la vida terrenal, continúan sus obras en la predicación del evangelio de arrepentimiento y redención, mediante el sacrificio del Unigénito Hijo de Dios, entre aquellos que están en tinieblas y bajo la servidumbre del pecado en el gran mundo de los espíritus de los muertos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=spa&id=p57#p57"
         },
         {
-          "referencia": "Moroni 10:32–33",
-          "texto": "Sí, venid a Cristo, y perfeccionaos en él, y absteneos de toda impiedad; y si os abstenéis de toda impiedad y amáis a Dios con toda vuestra fuerza, mente y alma, entonces es su gracia suficiente para vosotros, para que por su gracia seáis perfectos en Cristo.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p32-p33#p32"
+          "referencia": "Moroni 10:32",
+          "texto": "Sí, venid a Cristo, y perfeccionaos en él, y absteneos de toda impiedad, y si os abstenéis de toda impiedad, y amáis a Dios con todo vuestro poder, mente y fuerza, entonces su gracia os es suficiente, para que por su gracia seáis perfectos en Cristo; y si por la gracia de Dios sois perfectos en Cristo, de ningún modo podréis negar el poder de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p32#p32"
         }
       ]
     },
@@ -66,56 +66,56 @@
       "id": 1,
       "question": "El élder David A. Bednar declaró que «con la ayuda del Señor, ustedes pueden crear una familia eterna». ¿En qué contexto específico el manual presenta esa promesa?",
       "options": [
-        "Solo para quienes ya están casados en el templo y tienen hijos.",
         "Para quienes provienen de familias perfectamente activas en la Iglesia.",
         "Como una promesa universal para todos, independientemente de las circunstancias familiares actuales o del pasado.",
-        "Solo para quienes nunca han tenido problemas serios en su familia de origen."
+        "Solo para quienes nunca han tenido problemas serios en su familia de origen.",
+        "Solo para quienes ya están casados en el templo y tienen hijos."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "Abraham 1:2 describe los deseos de Abraham al buscar el sacerdocio. El manual lo usa como ejemplo de alguien que fue «el punto crucial» de su familia. ¿Qué significa ser ese punto crucial en el contexto de la lección?",
       "options": [
+        "Ser el miembro de la familia que nunca comete errores y sirve como ejemplo.",
         "Ser el miembro más activo de la Iglesia dentro de una familia para poder controlar las decisiones familiares.",
         "Ser quien comienza un nuevo patrón de rectitud en la familia, rompiendo ciclos negativos anteriores por decisión propia.",
-        "Ser el hijo mayor que hereda la responsabilidad de liderar la familia espiritualmente.",
-        "Ser el miembro de la familia que nunca comete errores y sirve como ejemplo."
+        "Ser el hijo mayor que hereda la responsabilidad de liderar la familia espiritualmente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "El élder Bednar habló de «reforzar la cadena e incluso restaurar los eslabones rotos». ¿Qué implica esa imagen sobre el papel del Señor en la edificación de familias eternas?",
       "options": [
+        "Que los eslabones rotos son permanentes y las generaciones futuras deben comenzar desde cero.",
         "Que el Señor solo trabaja con familias que no tienen eslabones rotos.",
         "Que la familia eterna es una cadena que el individuo construye solo, sin intervención divina.",
-        "Que el Señor puede unirse al esfuerzo del individuo para no solo continuar la cadena sino reparar los daños que el pecado o las circunstancias han causado en generaciones anteriores.",
-        "Que los eslabones rotos son permanentes y las generaciones futuras deben comenzar desde cero."
+        "Que el Señor puede unirse al esfuerzo del individuo para no solo continuar la cadena sino reparar los daños que el pecado o las circunstancias han causado en generaciones anteriores."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "La lección 28 cierra el curso preguntando a los alumnos: «¿En qué forma será diferente tu vida como resultado de lo que has aprendido?». ¿Qué tipo de cambio espera el manual que produzca el estudio de este curso?",
       "options": [
-        "Un cambio de conocimiento intelectual: saber más datos sobre la doctrina de la familia.",
         "Un cambio de conversión: llegar a ser más como Jesucristo en la manera de relacionarse con la familia y con el plan del Padre Celestial.",
         "Un cambio de estatus: ser considerado más maduro espiritualmente por los líderes de la Iglesia.",
-        "Un cambio de opinión: adoptar las posiciones políticas correctas sobre la familia."
+        "Un cambio de opinión: adoptar las posiciones políticas correctas sobre la familia.",
+        "Un cambio de conocimiento intelectual: saber más datos sobre la doctrina de la familia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Valeria proviene de una familia donde nunca hubo modelos de matrimonio eterno ni de vida espiritual en el hogar. Se pregunta si es posible que ella pueda edificar algo diferente. Según Abraham 1:2 y la promesa del élder Bednar, ¿qué le dice esta lección?",
       "options": [
-        "Que sus antecedentes familiares determinan en gran medida lo que ella puede lograr.",
         "Que necesita esperar a que su familia de origen cambie antes de poder edificar algo nuevo.",
         "Que ella puede ser el punto crucial que comienza un nuevo capítulo: con la ayuda del Señor, no necesita haber heredado rectitud para decidir vivirla y transmitirla.",
-        "Que le falta demasiado trabajo personal antes de poder aspirar a una familia eterna."
+        "Que le falta demasiado trabajo personal antes de poder aspirar a una familia eterna.",
+        "Que sus antecedentes familiares determinan en gran medida lo que ella puede lograr."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -132,12 +132,12 @@
       "id": 7,
       "question": "El élder Bednar dice que con la ayuda del Señor todos pueden crear una familia eterna. Abraham fue el punto crucial que comenzó un nuevo linaje de rectitud. El curso termina preguntando cómo seremos más como Cristo. ¿Cuál es el principio que une los tres elementos del cierre del curso?",
       "options": [
-        "Que la familia eterna es una meta solo para quienes nacieron en hogares perfectamente fieles.",
-        "Que edificar una familia eterna no depende de las circunstancias heredadas sino de la decisión presente de confiar en el Señor, tomar la iniciativa de comenzar un nuevo patrón y convertirse en alguien más parecido a Cristo: esa conversión es el verdadero fruto del curso.",
         "Que el conocimiento doctrinal adquirido en el curso es suficiente sin necesidad de cambio de carácter.",
-        "Que la esperanza de una familia eterna es solo para quienes están actualmente en circunstancias familiares ideales."
+        "Que la esperanza de una familia eterna es solo para quienes están actualmente en circunstancias familiares ideales.",
+        "Que la familia eterna es una meta solo para quienes nacieron en hogares perfectamente fieles.",
+        "Que edificar una familia eterna no depende de las circunstancias heredadas sino de la decisión presente de confiar en el Señor, tomar la iniciativa de comenzar un nuevo patrón y convertirse en alguien más parecido a Cristo: esa conversión es el verdadero fruto del curso."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

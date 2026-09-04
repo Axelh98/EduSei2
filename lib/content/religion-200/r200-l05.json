@@ -15,14 +15,14 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Abraham 3:24–26",
+          "referencia": "Abraham 3:18–25",
           "texto": "Y había entre aquellos seres espirituales algunos que eran nobles y grandes, y Dios vio que esas almas eran buenas, y se hallaba en medio de ellos; y dijo: Haré de estos mis gobernantes; porque los elegí en el principio, y sé que harán todo lo que yo les mandate. Y me dijo: Abraham, tú eres uno de ellos; fuiste elegido antes de nacer. Y encontrándose allí Abrahán, pudo ver que le hablaban muchas de las almas nobles y grandes. Y Dios vio que eran buenas; y se dijo: Bajaré y les haré ver estas cosas, y probaré si guardarán todo lo que el Señor su Dios les mandate.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=spa&id=p24-p26#p24"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=spa&id=p18-p25#p18"
         },
         {
-          "referencia": "Mosíah 3:19",
-          "texto": "Porque el hombre natural es enemigo de Dios y lo ha sido desde la caída de Adán, y lo será para siempre jamás, a menos que se someta al influjo del Santo Espíritu, y se despoje del hombre natural, y llegue a ser un santo por medio de la expiación de Cristo el Señor, y llegue a ser como un niño: sumiso, manso, humilde, paciente, lleno de amor, dispuesto a someterse a todas las cosas que el Señor juzgue conveniente infligirle, como lo hace un niño con su padre.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa&id=p19#p19"
+          "referencia": "Mosíah 3:17–19",
+          "texto": "Y además, te digo que no se dará otro nombre, ni otra senda ni medio, por el cual la salvación llegue a los hijos de los hombres, sino en el nombre de Cristo , el Señor Omnipotente, y por medio de ese nombre. Pues he aquí, él juzga, y su juicio es justo; y el niño que muere en su infancia no perece; mas los hombres beben condenación para sus propias almas, a menos que se humillen y se vuelvan como niños pequeños, y crean que la salvación fue, y es, y ha de venir en la sangre expiatoria de Cristo, el Señor Omnipotente, y por medio de ella. Porque el hombre natural es enemigo de Dios, y lo ha sido desde la caída de Adán, y lo será para siempre jamás, a menos que se someta al influjo del Santo Espíritu , y se despoje del hombre natural, y se haga santo por la expiación de Cristo el Señor, y se vuelva como un niño : sumiso, manso, humilde, paciente, lleno de amor y dispuesto a someterse a cuanto el Señor juzgue conveniente infligir sobre él, tal como un niño se somete a su padre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa&id=p17-p19#p17"
         },
         {
           "referencia": "Doctrina y Convenios 93:33–34",
@@ -77,34 +77,34 @@
       "id": 2,
       "question": "Mosíah 3:19 describe al «hombre natural» y cómo superarlo. ¿Cuáles son los atributos que ese versículo menciona que el discípulo debe desarrollar para dejar atrás al hombre natural?",
       "options": [
-        "Valentía, inteligencia, fuerza y liderazgo.",
-        "Mansedumbre, humildad, paciencia, amor puro y disposición a someterse al Espíritu.",
         "Oración diaria, estudio de las Escrituras, asistencia a la Iglesia y pago de diezmo.",
-        "Obediencia perfecta, riqueza honesta, servicio comunitario y testimonio público."
+        "Obediencia perfecta, riqueza honesta, servicio comunitario y testimonio público.",
+        "Valentía, inteligencia, fuerza y liderazgo.",
+        "Mansedumbre, humildad, paciencia, amor puro y disposición a someterse al Espíritu."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Alma 41:11 describe al hombre natural como «carnal, sensual y diabólico». ¿Cuál es la diferencia doctrinal entre «tener» esos impulsos como parte de la experiencia mortal y «ser» definido por ellos?",
       "options": [
-        "No hay diferencia: tener esos impulsos y dejarse definir por ellos son la misma cosa para Dios.",
         "Tener los impulsos es parte de la condición mortal y no es pecado; ser definido por ellos —permitir que gobiernen las decisiones— es lo que describe al hombre natural que se aleja de Dios.",
         "Los impulsos carnales son señal de que una persona no era fiel en la prexistencia.",
-        "Solo los impulsos sexuales entran en la categoría de «hombre natural»; el resto son simplemente preferencias personales."
+        "Solo los impulsos sexuales entran en la categoría de «hombre natural»; el resto son simplemente preferencias personales.",
+        "No hay diferencia: tener esos impulsos y dejarse definir por ellos son la misma cosa para Dios."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "El élder David A. Bednar enseñó que el cuerpo y el espíritu juntos forman el alma del hombre (DyC 88:15). ¿Qué dice eso sobre la visión del Evangelio restaurado respecto al cuerpo físico, en contraste con filosofías que consideran al cuerpo como inferior o como una prisión del espíritu?",
       "options": [
-        "Que el Evangelio restaurado coincide con esas filosofías: el cuerpo es temporal y lo que importa es el espíritu.",
         "Que el Evangelio restaurado enseña que el cuerpo es esencialmente neutral, ni positivo ni negativo.",
         "Que el Evangelio restaurado eleva el cuerpo como parte integral y sagrada de la persona: sin él, la salvación y la exaltación plenas no son posibles.",
-        "Que el cuerpo es importante solo durante la mortalidad; después de la resurrección, el espíritu vuelve a ser lo único que importa."
+        "Que el cuerpo es importante solo durante la mortalidad; después de la resurrección, el espíritu vuelve a ser lo único que importa.",
+        "Que el Evangelio restaurado coincide con esas filosofías: el cuerpo es temporal y lo que importa es el espíritu."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
@@ -121,23 +121,23 @@
       "id": 6,
       "question": "Camila siente que tiene un carácter explosivo y le cuesta mucho controlarse cuando discute con su mamá. Dice: «Soy así, no puedo cambiar». Según Mosíah 3:19 y el principio de vencer al hombre natural, ¿qué le ofrece esta lección?",
       "options": [
+        "Que el enojo con los padres es comprensible y que Dios entiende que es difícil controlarse.",
         "Que tiene razón: el carácter es genético y no puede cambiar significativamente.",
         "Que debería pedir a su obispo una bendición especial que le quite ese defecto de carácter.",
-        "Que la Expiación de Cristo no solo perdona pecados: también da poder para cambiar el carácter; someterse al influjo del Espíritu es el mecanismo por el cual ese cambio se hace posible, aunque tome tiempo.",
-        "Que el enojo con los padres es comprensible y que Dios entiende que es difícil controlarse."
+        "Que la Expiación de Cristo no solo perdona pecados: también da poder para cambiar el carácter; someterse al influjo del Espíritu es el mecanismo por el cual ese cambio se hace posible, aunque tome tiempo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "La proclamación enseña que aceptamos nacer para obtener un cuerpo y ganar experiencia. Mosíah 3:19 muestra que el cuerpo trae impulsos que debemos superar con la ayuda de Cristo. El élder Bednar enseñó que el cuerpo y el espíritu juntos forman el alma completa. ¿Cuál es el principio unificador?",
       "options": [
-        "Que el cuerpo es el problema principal de la vida mortal y la misión de los Santos es controlarlo o suprimirlo.",
         "Que el cuerpo es simultáneamente el don más importante de la mortalidad y el campo donde se da el mayor crecimiento espiritual: sus apetitos son el desafío que, vencido con Cristo, produce el carácter eterno que solo puede forjarse aquí.",
         "Que el cuerpo es irrelevante para la salvación porque lo que importa son las intenciones del corazón.",
-        "Que el cuerpo es un regalo pero la vida terrenal solo sirve para mostrar a Dios si somos dignos de la exaltación."
+        "Que el cuerpo es un regalo pero la vida terrenal solo sirve para mostrar a Dios si somos dignos de la exaltación.",
+        "Que el cuerpo es el problema principal de la vida mortal y la misión de los Santos es controlarlo o suprimirlo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }
