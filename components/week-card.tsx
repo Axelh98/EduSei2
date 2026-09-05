@@ -12,6 +12,8 @@ interface WeekCardProps {
   defaultOpen?: boolean
   selectedLessons: string[]
   onToggleLesson: (id: string) => void
+  /** Cada incremento abre la semana. Lo usa "Ir a la semana de hoy". */
+  openSignal?: number
 }
 
 // ─── Acordeón con animación real de altura ────────────────────────────────────
@@ -85,9 +87,17 @@ export function WeekCard({
   defaultOpen = false,
   selectedLessons,
   onToggleLesson,
+  openSignal = 0,
 }: WeekCardProps) {
   const [isOpen, setIsOpen] = useState(defaultOpen)
   const [completados, setCompletados] = useState<string[]>([])
+
+  // "Ir a la semana de hoy" abre la semana desde afuera. Va por señal y no
+  // por prop controlada para no cambiar cómo funciona el acordeón: el
+  // maestro puede cerrarla después con un clic, como cualquier otra.
+  useEffect(() => {
+    if (openSignal > 0) setIsOpen(true)
+  }, [openSignal])
 
   useEffect(() => {
     const saved = JSON.parse(localStorage.getItem("seminario-completados") || "[]")

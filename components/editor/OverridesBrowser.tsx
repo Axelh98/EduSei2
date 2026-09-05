@@ -9,15 +9,12 @@ import { useState, useMemo } from "react"
 import { Search, Plus, X } from "lucide-react"
 import { EditorOverrideCard } from "@/components/EditorOverrideCard"
 import { categories } from "@/lib/quiz-data"
+import { normalizeText as normalize } from "@/lib/utils"
 import type { LessonOverride } from "@/actions/overrides"
 
 interface Props {
   myOverrides:     LessonOverride[]
   publicOverrides: LessonOverride[]
-}
-
-function normalize(s: string): string {
-  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
 }
 
 function matchesFilters(

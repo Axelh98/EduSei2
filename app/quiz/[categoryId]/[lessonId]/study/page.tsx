@@ -1,6 +1,6 @@
 // app/quiz/[categoryId]/[lessonId]/study/page.tsx
 import { notFound } from "next/navigation"
-import { getCategoryById, getLessonById } from "@/lib/quiz-data"
+import { getCategoryById, getLessonById, getAdjacentStudyLessons } from "@/lib/quiz-data"
 import { getLessonContent } from "@/lib/content/loader"
 import { fetchPublicOverride } from "@/lib/override-resolver"
 import { StudyClient } from "./study-client"
@@ -71,6 +71,10 @@ export default async function StudyPage({ params, searchParams }: StudyPageProps
     }
   }
 
+  // 3. Vecinas con repaso, para las flechas. No se arrastra el overrideId:
+  //    un override es de esta lección, no de la siguiente.
+  const { prev, next } = getAdjacentStudyLessons(categoryId, lessonId)
+
   return (
     <StudyClient
       categoryId={categoryId}
@@ -81,6 +85,8 @@ export default async function StudyPage({ params, searchParams }: StudyPageProps
       courseType={lessonData.courseType as "seminario" | "instituto"}
       recoveryData={recoveryData}
       chapterUrl={lessonData.chapterUrl}
+      prevLesson={prev}
+      nextLesson={next}
     />
   )
 }

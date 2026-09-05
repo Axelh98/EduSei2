@@ -28,7 +28,7 @@ import {
   hasOverrides,
   type RecoveryItem,
 } from "@/lib/recovery-format"
-import { generateAssignmentMessage } from "@/lib/utils"
+import { generateAssignmentMessage, parseWeekDateRange } from "@/lib/utils"
 import { shareViaWhatsApp } from "@/lib/whatsapp-share"
 import { trackLessonsShared } from "@/lib/analytics"
 import { ArrowLeft, BookOpen, FileQuestion, Calendar, Layers, Share2, X, Check } from "lucide-react"
@@ -80,6 +80,33 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const totalLessons   = getTotalLessons(cat)
   const totalQuestions = getTotalQuestions(cat)
   const isFlat         = isFlatCategory(cat)
+
+  // ── "Ir a la semana de hoy" ─────────────────────────────────────────────
+  // Se calcula recién montado, no en el render: la página se prerenderiza y
+  // la fecha del build no es la del maestro que la abre.
+  const [semanaDeHoy, setSemanaDeHoy] = useState<number | null>(null)
+  const [abrirHoy, setAbrirHoy]       = useState(0)
+
+  useEffect(() => {
+    if (!mounted || isFlat) return
+    const hoy = new Date()
+    // dateRange no guarda el año y a veces no es una fecha ("Lecciones
+    // introductorias"): parseWeekDateRange devuelve null y esa semana queda
+    // afuera. Si ninguna matchea, el botón no se muestra.
+    const actual = weeks.find((w) => {
+      const rango = parseWeekDateRange(w.dateRange, hoy.getFullYear())
+      return rango !== null && hoy >= rango.start && hoy <= rango.end
+    })
+    setSemanaDeHoy(actual?.id ?? null)
+  }, [mounted, isFlat, weeks])
+
+  function irASemanaDeHoy() {
+    if (semanaDeHoy === null) return
+    setAbrirHoy((n) => n + 1)
+    document
+      .getElementById(`semana-${semanaDeHoy}`)
+      ?.scrollIntoView({ behavior: "smooth", block: "start" })
+  }
 
   const toggleLesson = (lessonId: string) => {
     setSelectedLessons(prev =>
@@ -329,15 +356,27 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                 />
               ) : (
                 <div className="flex flex-col gap-4">
+                  {semanaDeHoy !== null && (
+                    <button
+                      onClick={irASemanaDeHoy}
+                      className="self-start inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/5 px-4 py-2 text-xs font-bold text-primary transition-colors hover:bg-primary/10"
+                    >
+                      <Calendar className="h-3.5 w-3.5" />
+                      Ir a la semana de hoy
+                    </button>
+                  )}
+
                   {weeks.map((week, index) => (
-                    <WeekCard
-                      key={week.id}
-                      week={week}
-                      categoryId={cat.id}
-                      defaultOpen={index === 0}
-                      selectedLessons={selectedLessons}
-                      onToggleLesson={toggleLesson}
-                    />
+                    <div key={week.id} id={`semana-${week.id}`} className="scroll-mt-24">
+                      <WeekCard
+                        week={week}
+                        categoryId={cat.id}
+                        defaultOpen={index === 0}
+                        selectedLessons={selectedLessons}
+                        onToggleLesson={toggleLesson}
+                        openSignal={week.id === semanaDeHoy ? abrirHoy : 0}
+                      />
+                    </div>
                   ))}
                 </div>
               )}

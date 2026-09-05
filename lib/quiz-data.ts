@@ -78,6 +78,40 @@ export function getLessonById(categoryId: string, lessonId: string) {
   return null
 }
 
+/**
+ * Vecinas de una lección **dentro del recorrido de repaso** del curso.
+ *
+ * Aplana el curso en su orden real (todas las semanas, una detrás de otra) y
+ * salta las lecciones sin `hasStudy`: la ruta /study responde 404 en esas
+ * (ver study/page.tsx), así que apuntarles una flecha manda al maestro a un
+ * callejón sin salida.
+ *
+ * Cruza semanas a propósito — un maestro prepara el curso seguido, no una
+ * semana aislada.
+ */
+export function getAdjacentStudyLessons(
+  categoryId: string,
+  lessonId: string
+): { prev: { id: string; title: string } | null; next: { id: string; title: string } | null } {
+  const vacio = { prev: null, next: null }
+  const category = getCategoryById(categoryId)
+  if (!category) return vacio
+
+  const todas = isFlatCategory(category)
+    ? category.lessons
+    : category.weeks.flatMap((w) => w.lessons)
+
+  const conRepaso = todas.filter((l) => l.hasStudy ?? (l.secciones?.length ?? 0) > 0)
+  const i = conRepaso.findIndex((l) => l.id === lessonId)
+  if (i === -1) return vacio
+
+  const at = (n: number) => {
+    const l = conRepaso[n]
+    return l ? { id: l.id, title: l.title } : null
+  }
+  return { prev: at(i - 1), next: at(i + 1) }
+}
+
 export function getTotalLessons(category: Category): number {
   if (isFlatCategory(category)) return category.lessons.length
   return category.weeks.reduce((acc, w) => acc + w.lessons.length, 0)

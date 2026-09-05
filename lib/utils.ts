@@ -5,6 +5,63 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 
+// ─── Texto ───────────────────────────────────────────────────────────────────
+
+/**
+ * Minúsculas y sin diacríticos, para comparar lo que la gente escribe contra
+ * lo que dice el contenido: "helaman" tiene que encontrar "Helamán".
+ *
+ * Estaba duplicada en components/editor/LessonSelector.tsx y en
+ * OverridesBrowser.tsx; vive acá para que el buscador de lecciones use la
+ * misma regla que el editor.
+ */
+export function normalizeText(s: string): string {
+  return s.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase()
+}
+
+/**
+ * Convierte el `dateRange` de una semana ("9 al 15 de marzo", "30 de marzo al
+ * 5 de abril") en un par de fechas del año indicado.
+ *
+ * Devuelve null cuando no hay fecha que parsear —hay semanas rotuladas
+ * "Lecciones introductorias"—, y quien llame debe tratar ese null como
+ * "no sé", nunca como "es esta".
+ */
+export function parseWeekDateRange(
+  dateRange: string,
+  year: number
+): { start: Date; end: Date } | null {
+  const MESES = [
+    "enero", "febrero", "marzo", "abril", "mayo", "junio",
+    "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre",
+  ]
+  const texto = normalizeText(dateRange)
+  const mesIndex = (nombre: string) => MESES.indexOf(normalizeText(nombre))
+
+  // "30 de marzo al 5 de abril" — cada extremo trae su propio mes.
+  const dosMeses = texto.match(/(\d{1,2})\s+de\s+([a-z]+)\s+al?\s+(\d{1,2})\s+de\s+([a-z]+)/)
+  if (dosMeses) {
+    const [, d1, m1, d2, m2] = dosMeses
+    const i1 = mesIndex(m1)
+    const i2 = mesIndex(m2)
+    if (i1 === -1 || i2 === -1) return null
+    // Un rango que cruza diciembre-enero cae en el año siguiente.
+    const yearFin = i2 < i1 ? year + 1 : year
+    return { start: new Date(year, i1, +d1), end: new Date(yearFin, i2, +d2, 23, 59, 59) }
+  }
+
+  // "9 al 15 de marzo" — el mes es común a los dos extremos.
+  const unMes = texto.match(/(\d{1,2})\s+al?\s+(\d{1,2})\s+de\s+([a-z]+)/)
+  if (unMes) {
+    const [, d1, d2, m] = unMes
+    const i = mesIndex(m)
+    if (i === -1) return null
+    return { start: new Date(year, i, +d1), end: new Date(year, i, +d2, 23, 59, 59) }
+  }
+
+  return null
+}
+
 // ─── Nombre persistente del estudiante ───────────────────────────────────────
 
 const STUDENT_NAME_KEY = 'msi-student-name'

@@ -7,6 +7,7 @@
 import { useState, useEffect, useMemo, useRef } from "react"
 import { Search, Check, ChevronDown } from "lucide-react"
 import { categories, getTotalLessons } from "@/lib/quiz-data"
+import { normalizeText as normalize } from "@/lib/utils"
 import { isFlatCategory } from "@/lib/types"
 import type { Category } from "@/lib/types"
 
@@ -18,10 +19,6 @@ interface Props {
 }
 
 const selectClass = "w-full appearance-none px-3 py-2.5 pr-8 text-sm border border-input rounded-lg bg-background text-foreground outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 transition-all cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
-
-function normalize(s: string): string {
-  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
-}
 
 export function LessonSelector({ categoryId, lessonId, onChange, disabled }: Props) {
   const [selectedCategory, setSelectedCategory] = useState<Category | null>(

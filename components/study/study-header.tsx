@@ -3,15 +3,27 @@
 
 import { ArrowLeft, Download, Loader2 } from "lucide-react"
 import Link from "next/link"
+import { StudyNav, type StudyNeighbor } from "./study-nav"
 
 interface StudyHeaderProps {
   backUrl: string
   recoveryData?: string
   isExporting: boolean
   onExport: () => void
+  categoryId?: string
+  prevLesson?: StudyNeighbor | null
+  nextLesson?: StudyNeighbor | null
 }
 
-export function StudyHeader({ backUrl, recoveryData, isExporting, onExport }: StudyHeaderProps) {
+export function StudyHeader({
+  backUrl,
+  recoveryData,
+  isExporting,
+  onExport,
+  categoryId,
+  prevLesson,
+  nextLesson,
+}: StudyHeaderProps) {
   return (
     <div className="sticky top-0 z-10 border-b border-border bg-card/90 backdrop-blur-md px-4 py-3">
       <div className="mx-auto max-w-2xl flex items-center justify-between">
@@ -23,9 +35,19 @@ export function StudyHeader({ backUrl, recoveryData, isExporting, onExport }: St
           {recoveryData ? "Mi plan" : "Volver"}
         </Link>
 
-        <span className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground/40">
-          Repaso de estudio
-        </span>
+        {categoryId && (prevLesson || nextLesson) ? (
+          <StudyNav
+            categoryId={categoryId}
+            prev={prevLesson}
+            next={nextLesson}
+            recoveryData={recoveryData}
+            variant="compact"
+          />
+        ) : (
+          <span className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground/40">
+            Repaso de estudio
+          </span>
+        )}
 
         <button
           onClick={onExport}
