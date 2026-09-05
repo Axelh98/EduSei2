@@ -225,6 +225,15 @@
           "hasStudy": true
         },
         {
+          "id": "leccion-25-10",
+          "title": "Alma 53",
+          "description": "Los hijos del pueblo de Ammón se ofrecen para defender a los nefitas. Guardar los convenios con Dios trae Su ayuda y Su fortaleza.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/34-alma-53-63/341-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
+        {
           "id": "leccion-25-3",
           "title": "Alma 56",
           "description": "Los 2,000 jóvenes guerreros del pueblo de Ammón pelean su primera batalla. Ninguno muere gracias a su fe.",
@@ -622,6 +631,15 @@
       "title": "Semana 33",
       "dateRange": "14 al 18 de octubre",
       "lessons": [
+        {
+          "id": "leccion-33-5",
+          "title": "3 Nefi 20–22",
+          "description": "El Salvador profetiza que el Padre cumplirá Su convenio de recoger a Israel. Da señales para reconocer ese recogimiento, y el Libro de Mormón es una de ellas.",
+          "type": "Libro de Mormón - Ven Sigueme",
+          "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/42-3-nephi-20-26/421-teacher?lang=spa",
+          "questionCount": 7,
+          "hasStudy": true
+        },
         {
           "id": "leccion-33-1",
           "title": "3 Nefi 23",
