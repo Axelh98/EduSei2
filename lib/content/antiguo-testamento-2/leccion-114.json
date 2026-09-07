@@ -30,7 +30,7 @@
       "autor": "Hermana Sharon Eubank",
       "fuente": "«Cristo: la luz que resplandece en las tinieblas», Liahona, mayo de 2019",
       "texto": "El tinte escarlata del Antiguo Testamento no solo era de un color muy vivo sino además inalterable... Satanás usa ese razonamiento para derrotarnos: la lana blanca teñida de escarlata nunca puede volver a ser blanca, pero Jesucristo declara: 'mis caminos [son] más altos que vuestros caminos', y el milagro de Su gracia es que, cuando nos arrepentimos de nuestros pecados, Su sangre escarlata nos devuelve la pureza.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2019/05/42eubank?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2019/05/42eubank?lang=spa&id=p15#p15"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué te genera leer que Dios describe a Israel como hijos que 'se rebelaron' contra su propio Padre, en vez de simplemente 'pecadores'?",
-        "¿Alguna vez sentiste que un error tuyo era como una mancha 'imposible de quitar', tan permanente como el tinte escarlata?",
-        "¿Qué te parece que Cristo haya tenido que 'sangrar por cada poro' para que esa promesa de Isaías 1:18 fuera posible?",
-        "¿Qué significa para vos la invitación 'aprended a hacer el bien', no solo dejar de hacer lo malo?",
-        "¿Hay algo que sentís como una mancha permanente en tu vida que esta semana podrías empezar a llevarle a Dios?",
-        "¿A quién conocés que podría necesitar escuchar esta semana que ningún error es 'demasiado grande' para la Expiación de Cristo?"
+        "¿Qué te genera que Dios describa a Israel como hijos que «se rebelaron» contra su Padre, y no solo como pecadores?",
+        "¿Alguna vez sentiste que un error tuyo era una mancha imposible de quitar?",
+        "Volvé a leer Isaías 1:16–17 en el bloque de escrituras. ¿Cuántas acciones concretas pide ese pasaje, y cuáles son de dejar de hacer algo y cuáles de empezar a hacerlo?",
+        "¿Qué significa para vos que Cristo haya tenido que «sangrar por cada poro» para que la promesa del versículo 18 fuera posible?",
+        "¿Hay algo que sentís como una mancha permanente? Llevaselo a Él esta semana en oración, con Isaías 1:18 como punto de partida, y anotá lo que sentiste.",
+        "¿A quién conocés que necesite escuchar que ningún error es demasiado grande para Su Expiación?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál es el problema principal que Isaías describe en el capítulo 1 respecto al pueblo de Judá?",
+      "question": "¿Cómo describe Isaías 1:2–3 la situación de Israel?",
       "options": [
-        "Que olvidaron cómo construir el templo.",
-        "Que se alejaron del Señor, practicando rituales religiosos sin obediencia real ni amor genuino a Dios.",
-        "Que perdieron las Escrituras."
+        "Como un pueblo que nunca llegó a conocer al Dios verdadero.",
+        "Como hijos que se rebelaron contra su propio Padre.",
+        "Como una nación castigada por las guerras de sus vecinos.",
+        "Como un rebaño que se perdió por culpa de sus pastores."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué crítica hace el Señor sobre las ofrendas y fiestas religiosas del pueblo en Isaías 1?",
+      "question": "¿Qué promete Isaías 1:18?",
       "options": [
-        "Las elogia porque al menos hacían algo religioso.",
-        "Las detesta porque están vacías de sinceridad; el pueblo cumplía formas externas sin corazón cambiado.",
-        "Les pide que hagan más rituales."
+        "Que el pueblo volverá a habitar en paz su propia tierra.",
+        "Que los enemigos de Israel serán juzgados con dureza.",
+        "Que los pecados como la grana quedarán blancos como la nieve.",
+        "Que las ofrendas serán aceptadas si se hacen con humildad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Cuál es la hermosa promesa de Isaías 1:18?",
+      "question": "¿Por qué la lección explica cómo era el tinte escarlata de esa época?",
       "options": [
-        "Que el Señor castigará a todos los que pecaron.",
-        "'Si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí, vendrán a ser como blanca lana.'",
-        "Que Israel nunca más será atacado por sus enemigos."
+        "Porque era el color que usaban los sacerdotes en sus vestiduras.",
+        "Porque su precio mostraba la riqueza de quien lo llevaba.",
+        "Porque teñía la lana solo después de varios lavados sucesivos.",
+        "Porque no se podía quitar: es la mancha más difícil que existía."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué actitud hacia los pobres y necesitados reprende el Señor en Isaías 1?",
+      "question": "Según Doctrina y Convenios 19:16–19, ¿qué hizo posible ese cambio de escarlata a blanco?",
       "options": [
-        "Que los pobres recibían demasiada ayuda.",
-        "Que el pueblo ignoraba la justicia y no defendía al huérfano ni ayudaba a la viuda.",
-        "Que los ricos daban demasiado de sus riquezas."
+        "Que Cristo temblara de dolor y sangrara por cada poro.",
+        "Que Israel repitiera los sacrificios del templo cada año.",
+        "Que los profetas intercedieran por el pueblo ante Dios.",
+        "Que el pueblo cumpliera la ley durante una generación."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Nina se arrepintió hace tiempo pero sigue convencida de que «eso» la marcó para siempre. ¿Qué le responde Isaías 1:18?",
+      "options": [
+        "Que con los años el recuerdo se vuelve menos doloroso.",
+        "Que ni la mancha más difícil está fuera del alcance de Él.",
+        "Que conviene no volver a pensar en lo que ya fue perdonado.",
+        "Que debería hablar otra vez con su obispo sobre el tema."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué invitación personal hace el Señor en Isaías 1:18 que aplica directamente a tu vida?",
+      "id": 6,
+      "question": "Teo cree que arrepentirse es solo dejar de hacer lo malo. ¿Qué le agrega Isaías 1:16–17?",
       "options": [
-        "Que le presentes grandes ofrendas en el templo.",
-        "Que vengas y razonemos juntos; el Señor está dispuesto a perdonar y limpiar a quienes acuden a Él.",
-        "Que construyas una nueva ciudad santa."
+        "Que hay pecados que requieren una confesión formal ante el obispo.",
+        "Que el arrepentimiento incluye reparar el daño causado a otros.",
+        "Que además de dejar lo malo, hay que aprender a hacer el bien.",
+        "Que el cambio verdadero se nota en un plazo de varias semanas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "La dureza de Isaías 1:2–3 y la promesa del versículo 18 están en el mismo capítulo. ¿Qué muestra esa combinación?",
+      "options": [
+        "Que el capítulo reúne dos profecías dadas en momentos distintos.",
+        "Que la advertencia y el consuelo se dirigían a grupos diferentes.",
+        "Que Isaías cambió de opinión sobre el estado del pueblo.",
+        "Que el mismo que señala la rebelión ofrece limpiarla."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

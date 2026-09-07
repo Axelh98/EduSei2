@@ -30,7 +30,7 @@
       "autor": "Hermana Bonnie H. Cordon",
       "fuente": "«Llegar a ser un pastor», Conferencia General, octubre de 2018",
       "texto": "Es posible que nuestra oveja esté herida, perdida, incluso intencionadamente extraviada; como sus pastores, podemos estar entre los primeros que ven sus necesidades. Podemos escuchar y amar sin juzgarla, y ofrecer esperanza y ayuda con la guía prudente del Espíritu Santo.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/becoming-a-shepherd?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/becoming-a-shepherd?lang=spa&id=p32#p32"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué tipo de 'pastor' sentís que sos naturalmente con las personas de tu alrededor: el que busca, el que venda heridas, o el que fortalece a los débiles?",
-        "¿Alguna vez alguien te 'buscó' activamente en un momento en que te sentías perdido o alejado?",
-        "¿Qué te parece que Dios distinga entre distintos tipos de cuidado —buscar, vendar, fortalecer— según la necesidad específica de cada oveja?",
-        "¿Qué te impide a veces acercarte a alguien que ves herido o perdido, en vez de esperar a que se acerque solo?",
-        "¿A quién de tu entorno —familia, amigos, compañeros— podrías 'pastorear' esta semana con un gesto concreto de cuidado?",
-        "¿Qué necesitás vos mismo ahora mismo: ser buscado, que venden una herida, o que te fortalezcan?"
+        "¿Qué tipo de 'pastor' sos naturalmente: el que busca, el que venda heridas, o el que fortalece?",
+        "¿Alguna vez alguien te buscó activamente cuando te sentías perdido o alejado?",
+        "Volvé a leer Ezequiel 34:15–16 en el bloque de escrituras. ¿Qué cuatro acciones distintas nombra el Señor, y a qué necesidad responde cada una?",
+        "¿Qué te frena a veces para acercarte a alguien que ves herido, en vez de esperar a que se acerque?",
+        "¿A quién vas a 'pastorear' esta semana con un gesto concreto? Orá por esa persona antes y anotá lo que sentiste.",
+        "¿Qué necesitás vos ahora: que te busquen, que venden una herida, o que te fortalezcan?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué crítica hace el Señor a los 'pastores de Israel' en Ezequiel 34?",
+      "question": "¿De qué acusa Ezequiel 34:2–4 a los líderes de Israel?",
       "options": [
-        "Que no construyeron suficientes altares.",
-        "Que se apacentaban a sí mismos en lugar de apacentar al rebaño; no fortalecieron a las débiles, no curaron a las enfermas ni buscaron a las perdidas.",
-        "Que no recaudaron suficientes ofrendas."
+        "De haber permitido la entrada de dioses extranjeros al templo.",
+        "De alimentarse a sí mismos y no cuidar del rebaño.",
+        "De cobrar impuestos excesivos a las familias más pobres.",
+        "De abandonar la ciudad antes de la llegada del enemigo."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué promete hacer el Señor Dios mismo por Sus ovejas en Ezequiel 34:11–12?",
+      "question": "¿Qué anuncia el Señor en Ezequiel 34:11–12 frente a ese fracaso?",
       "options": [
-        "Enviar nuevos pastores humanos para reemplazar a los anteriores.",
-        "Buscar Él mismo a Sus ovejas, rescatarlas de todos los lugares donde fueron esparcidas en el día nubloso y oscuro.",
-        "Castigar a las ovejas que se alejaron del rebaño."
+        "Que enviaría un nuevo profeta a corregir a los pastores.",
+        "Que dispersaría al rebaño hasta que aprendiera la lección.",
+        "Que Él mismo buscaría a Sus ovejas y las libraría.",
+        "Que nombraría pastores extranjeros para cuidar al pueblo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Cómo describe Ezequiel 34:16 el cuidado específico que el Señor dará a cada oveja?",
+      "question": "Según Ezequiel 34:16, ¿qué hace el Señor con cada tipo de oveja?",
       "options": [
-        "Tratará a todas las ovejas exactamente igual sin importar su condición.",
-        "Buscará a la perdida, tornará a la descarriada, vendará a la perniquebrada y fortalecerá a la débil.",
-        "Solo cuidará a las ovejas que nunca se alejaron del rebaño."
+        "Reúne a todas en un mismo lugar y las cuenta una por una.",
+        "Separa a las fuertes de las débiles antes de guiarlas.",
+        "Espera a que vuelvan por su cuenta al redil abandonado.",
+        "Busca a la perdida, venda a la herida y fortalece a la débil."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué conexión directa existe entre Ezequiel 34 y las palabras de Jesucristo en Juan 10?",
+      "question": "¿Qué relación hay entre Ezequiel 34 y Juan 10:11 según la lección?",
       "options": [
-        "No existe ninguna conexión.",
-        "Jesucristo se identificó como el Buen Pastor que da su vida por las ovejas, cumpliendo la promesa de Ezequiel de que el Señor mismo vendría a pastorear.",
-        "Juan 10 contradice a Ezequiel 34."
+        "Jesús cumplió la profecía al llamarse a Sí mismo el buen pastor.",
+        "Los dos textos usan una imagen común en la literatura antigua.",
+        "Juan citó a Ezequiel para explicar el fracaso de los fariseos.",
+        "Ezequiel anunció que vendrían muchos pastores, no uno solo."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Valeria ve que una compañera dejó de venir a la Iglesia y no sabe si escribirle o esperar. ¿Qué le sugiere Ezequiel 34?",
+      "options": [
+        "Que espere a que la compañera dé el primer paso por su cuenta.",
+        "Que buscar activamente al que se alejó es parte del modelo.",
+        "Que avise a un líder y deje el asunto en sus manos.",
+        "Que no insista para no hacerla sentir presionada."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cómo puedes sentirte personalmente reconfortado por las promesas de Ezequiel 34 si alguna vez te sientes como una oveja perdida o herida?",
+      "id": 6,
+      "question": "Cristian quiere ayudar a un amigo pero siempre termina dándole consejos que no le pidió. ¿Qué le aporta la hermana Cordon?",
       "options": [
-        "Solo si tienes un líder de la Iglesia que te busque activamente.",
-        "Saber que el Señor mismo prometió buscar a las perdidas, vendarlas y fortalecerlas te asegura que Él está activamente interesado en ti, sin importar dónde estés.",
-        "Solo si ya te has arrepentido de todos tus errores."
+        "Que los consejos se aceptan mejor cuando vienen de un adulto.",
+        "Que conviene esperar a que el amigo pregunte antes de hablar.",
+        "Que escuchar y amar sin juzgar viene antes que la solución.",
+        "Que la mejor ayuda es invitarlo a una actividad de la Iglesia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Los pastores que fallaron (34:2–4) y el Pastor que promete buscar (34:11) forman un contraste. ¿Cuál?",
+      "options": [
+        "Unos gobernaban por herencia y el otro, por elección divina.",
+        "Unos cuidaban de día y el otro promete cuidar también de noche.",
+        "Unos actuaban en Israel y el otro, entre las naciones vecinas.",
+        "Unos se cuidaron a sí mismos; Él se ocupa de cada oveja."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

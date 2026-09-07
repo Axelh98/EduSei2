@@ -30,7 +30,7 @@
       "autor": "Presidente Russell M. Nelson",
       "fuente": "«Escúchalo», Liahona, mayo de 2020",
       "texto": "Yo les prometo que serán bendecidos con poder adicional para lidiar con la tentación, las pruebas y la debilidad. Les prometo milagros en sus matrimonios, sus relaciones familiares y sus trabajos diarios. Y les prometo que se incrementará su capacidad para sentir gozo, aun si aumentan las turbulencias en sus vidas.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2020/05/45nelson?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2020/05/45nelson?lang=spa&id=p32#p32"
     },
     {
       "tipo": "conclusion",
@@ -40,64 +40,91 @@
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué tan seguido leés las Escrituras por tu cuenta, más allá de lo que se pide en Seminario?",
-        "¿Qué te parece la imagen de la palabra de Dios como una 'lámpara a tus pies' en vez de una luz que ilumina todo el camino de una vez?",
-        "¿Alguna vez un versículo específico te ayudó a tomar una decisión concreta en un momento difícil?",
-        "¿Qué significa para vos 'guardar' la palabra de Dios en el corazón, y no solo leerla una vez?",
-        "¿Qué un solo versículo podrías elegir esta semana para memorizar o repasar varias veces?",
-        "¿A qué hora del día te sería más fácil sumar unos minutos de estudio personal de las Escrituras esta semana?"
+        "¿Qué te parece la imagen de la palabra de Dios como una lámpara a tus pies, en vez de una luz que ilumina todo el camino?",
+        "Volvé a leer Salmos 119:9–11 en el bloque de escrituras. ¿Qué pregunta hace el versículo 9, qué responde, y qué dice el 11 sobre dónde hay que guardar la palabra?",
+        "¿Alguna vez un versículo te ayudó a tomar una decisión concreta en un momento difícil?",
+        "¿Qué versículo vas a elegir esta semana para repasar? Leelo con espíritu de oración y anotá qué luz te da para el paso que tenés que dar.",
+        "¿A qué hora del día te sería más fácil sumar unos minutos de estudio personal?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál es el tema central del Salmo 119?",
+      "question": "¿Qué tiene de particular el Salmo 119 dentro de la Biblia?",
       "options": [
-        "Las victorias militares de Israel.",
-        "El amor profundo del salmista por la ley, los mandamientos y la palabra del Señor.",
-        "Las bendiciones materiales que Dios da a los fieles."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 2,
-      "question": "Según el Salmo 119:105, ¿qué función cumple la palabra del Señor en nuestra vida?",
-      "options": [
-        "'Tu palabra es lámpara a mis pies y lumbrera a mi camino.'",
-        "'Tu palabra es espada en mi mano derecha.'",
-        "'Tu palabra es oro que atesoro en el cofre.'"
+        "Es el capítulo más largo, con 176 versículos.",
+        "Es el único salmo que David escribió siendo ya rey de Israel.",
+        "Es el primer salmo que se cantó dentro del templo de Salomón.",
+        "Es el único que aparece repetido en dos libros distintos."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 3,
-      "question": "¿Qué beneficio espiritual describe el salmista al meditar en los mandamientos del Señor?",
+      "id": 2,
+      "question": "¿Cuál es la imagen central del Salmo 119:105?",
       "options": [
-        "Que nunca más tendrá tentaciones.",
-        "Que adquiere más entendimiento que sus enemigos y más sabiduría que los ancianos.",
-        "Que se vuelve rico y famoso."
+        "Un escudo que protege al que confía en la palabra de Dios.",
+        "Una lámpara a los pies y una luz para el camino.",
+        "Un tesoro escondido que hay que buscar con diligencia.",
+        "Una fuente de agua que no se seca en tiempo de sequía."
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Según la lección, ¿qué significa que sea una «lámpara» y no un reflector?",
+      "options": [
+        "Que la luz de las Escrituras se apaga si no se la cuida a diario.",
+        "Que la palabra alumbra mejor de noche que durante el día.",
+        "Que alumbra el siguiente paso, no el mapa completo de tu vida.",
+        "Que cada persona recibe una cantidad distinta de luz."
+      ],
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué actitud hacia los mandamientos del Señor expresa el salmista a lo largo del Salmo 119?",
+      "question": "¿Qué agrega 2 Nefi 32:3 a lo que dice el salmista?",
       "options": [
-        "Los ve como una carga difícil pero necesaria.",
-        "Los ama, los busca y los guarda porque ve en ellos la bondad y la sabiduría de Dios.",
-        "Los sigue solo por miedo al castigo."
+        "Que conviene leer las Escrituras en el orden en que fueron escritas.",
+        "Que el estudio debe hacerse siempre acompañado de la oración.",
+        "Que las Escrituras antiguas se entienden mejor con las modernas.",
+        "Que las palabras de Cristo dirán todas las cosas que debés hacer."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Bruna quiere que Dios le muestre cómo va a ser toda su vida antes de decidir qué estudiar. ¿Qué le responde el Salmo 119:105?",
+      "options": [
+        "Que la luz alcanza para el paso siguiente, y con eso se avanza.",
+        "Que espere hasta tener una respuesta completa y detallada.",
+        "Que las decisiones grandes conviene postergarlas un tiempo.",
+        "Que pida consejo a un adulto antes de orar por el tema."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Ulises lee un capítulo por día para cumplir, pero después no recuerda nada. ¿Qué le propone esta lección?",
+      "options": [
+        "Que lea dos capítulos diarios para compensar lo que olvida.",
+        "Que elija un versículo y busque qué luz le da para hoy.",
+        "Que cambie el horario de lectura a la primera hora del día.",
+        "Que use un resumen en vez del texto completo del capítulo."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cómo puedes aplicar el espíritu del Salmo 119 en tu estudio personal de las Escrituras?",
+      "id": 7,
+      "question": "«Lámpara es a mis pies tu palabra» (Salmos 119:105) y «las palabras de Cristo os dirán todas las cosas» (2 Nefi 32:3) se complementan. ¿Cómo?",
       "options": [
-        "Leyendo las Escrituras solo cuando te sientas obligado.",
-        "Buscando amar y atesorar las palabras del Señor, no solo cumplir con una tarea.",
-        "Memorizando todos los versículos del Salmo 119."
+        "Los dos textos pertenecen al mismo período de la historia sagrada.",
+        "Los dos piden memorizar pasajes antes de poder aplicarlos.",
+        "Uno dice cómo alumbra la palabra; el otro, de quién es esa palabra.",
+        "Los dos advierten que leer sin orar no sirve de nada."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

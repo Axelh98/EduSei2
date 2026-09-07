@@ -30,7 +30,7 @@
       "autor": "Élder Neil L. Andersen",
       "fuente": "«Venga Tu reino», Conferencia General, abril de 2015",
       "texto": "El solo pensar en Su venida me llena de emoción. ¡Será algo grandioso! El alcance y la grandeza, la inmensidad y la magnificencia, superarán todo lo que los ojos humanos hayan visto o experimentado.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2015/05/sunday-afternoon-session/thy-kingdom-come?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2015/05/sunday-afternoon-session/thy-kingdom-come?lang=spa&id=p44#p44"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué imagen de estos capítulos finales de Isaías te resulta más difícil de imaginar: el lobo y el cordero en paz, o un mundo sin memoria del dolor anterior?",
+        "¿Qué imagen te cuesta más imaginar: el lobo y el cordero en paz, o un mundo sin memoria del dolor?",
         "¿Qué sentís cuando pensás en la Segunda Venida: emoción, indiferencia, algo de miedo?",
-        "¿Alguna vez sentiste que la paz completa en el mundo era imposible de imaginar, dado todo el conflicto actual?",
-        "¿Qué te parece que Satanás esté completamente atado durante el Milenio, sin poder tentar a nadie?",
-        "¿Qué acción pequeña y concreta podrías hacer esta semana que ayude a que el mundo se parezca un poco más a la visión de paz de Isaías?",
-        "¿Cómo cambiaría tu manera de vivir el día a día si realmente vivieras con la expectativa activa de la Segunda Venida?"
+        "Volvé a leer Isaías 65:25 en el bloque de escrituras. ¿Qué animales nombra y qué hacen juntos, y qué frase final resume lo que ya no ocurrirá en Su santo monte?",
+        "¿Alguna vez sentiste que la paz completa era imposible, viendo el conflicto que hay hoy?",
+        "¿Qué acción concreta vas a hacer esta semana para que algo se parezca un poco más a esa visión? Pedile ayuda a Él en oración y anotá cuál elegiste.",
+        "¿Cómo cambiaría tu día a día si vivieras esperando de verdad Su venida?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál es el llamado urgente al inicio de Isaías 60:1?",
+      "question": "¿Qué anuncia Isaías 65:17?",
       "options": [
-        "'Huye, porque el juicio se acerca.'",
-        "'Levántate, resplandece; porque ha venido tu luz, y la gloria del Señor ha nacido sobre ti.'",
-        "'Prepárate para la guerra del fin de los tiempos.'"
+        "Que Jerusalén será reconstruida por manos extranjeras.",
+        "Que el pueblo entero volverá del exilio dentro de una sola generación.",
+        "Que creará nuevos cielos y nueva tierra, sin memoria de lo primero.",
+        "Que las naciones vecinas serán juzgadas con severidad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿Qué contraste describe Isaías 60:2 sobre la condición del mundo versus la de Sion?",
+      "question": "¿Qué imagen usa Isaías 65:25 para describir ese mundo?",
       "options": [
-        "Que el mundo prosperará mientras Sion decaerá.",
-        "Que tinieblas cubrirán la tierra y oscuridad los pueblos, pero sobre Sion amanecerá el Señor y Su gloria será vista.",
-        "Que Sion y el mundo tendrán exactamente la misma condición."
+        "El lobo y el cordero pacerán juntos, y el león comerá paja.",
+        "Los desiertos florecerán como el lirio en medio del valle.",
+        "Las espadas se convertirán en rejas de arado.",
+        "Los ríos correrán aun en los lugares más secos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué visión del Milenio ofrece Isaías 65:17–25?",
+      "question": "¿Qué enseña el Artículo de Fe 1:10 sobre ese período?",
       "options": [
-        "Que el mundo será destruido completamente.",
-        "Un nuevo cielo y nueva tierra donde los lobos y corderos comerán juntos, no habrá más llanto y los días del pueblo serán como los días de los árboles.",
-        "Que solo Israel vivirá en paz mientras las naciones se destruyen."
+        "Que solo los justos verán la venida del Señor en gloria.",
+        "Que Cristo reinará personalmente y la tierra será renovada.",
+        "Que la obra misional terminará antes de que Él venga.",
+        "Que las tribus de Israel volverán a su tierra original."
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "En Isaías 66:13, ¿qué imagen usa el Señor para describir el consuelo que dará a Su pueblo?",
+      "question": "Según Apocalipsis 20:1–3, ¿qué ocurrirá con Satanás durante el Milenio?",
       "options": [
-        "Como un rey que consuela a sus soldados vencidos.",
-        "Como una madre que consuela a su hijo.",
-        "Como un juez que absuelve al acusado."
+        "Perderá su influencia sobre quienes hayan hecho convenios.",
+        "Será juzgado junto con quienes lo siguieron en la tierra.",
+        "Podrá tentar solamente a quienes se lo permitan de forma consciente.",
+        "Un ángel lo atará por mil años, para que no engañe a las naciones."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Paloma mira las noticias y concluye que hablar de paz mundial es ingenuo. ¿Qué le ofrece Isaías?",
+      "options": [
+        "El consejo de informarse menos para no desanimarse tanto.",
+        "La certeza de que el mundo actual no es la versión final.",
+        "La idea de que los conflictos siempre existieron y siempre existirán.",
+        "La sugerencia de concentrarse solo en su entorno cercano."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cuál es el mensaje final de esperanza que dejan los capítulos finales de Isaías para los Santos de los Últimos Días?",
+      "id": 6,
+      "question": "Hernán dice que esperar la Segunda Venida no cambia nada de lo que hace hoy. ¿Qué le responde la lección?",
       "options": [
-        "Que los tiempos difíciles no tendrán fin.",
-        "Que la gloria, la paz y la presencia del Señor son el destino de Su pueblo fiel, y que cada acción justa de hoy construye ese futuro.",
-        "Que el futuro glorioso solo lo verán quienes ya son perfectos."
+        "Que esa espera no distrae del presente: da razones para vivir con fe.",
+        "Que conviene prepararse recién cuando aparezcan las señales.",
+        "Que nadie sabe la fecha, así que no vale la pena pensarlo.",
+        "Que la preparación es responsabilidad exclusiva de los líderes de la Iglesia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Los nuevos cielos (65:17) y los animales en paz (65:25) describen la misma realidad. ¿Cuál?",
+      "options": [
+        "Un cambio político en el que Israel gobernará las naciones.",
+        "Una restauración parcial que irá mejorando con los siglos.",
+        "Una renovación tan completa que la violencia deja de tener lugar.",
+        "Un largo período de prueba antes del juicio final de la humanidad."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

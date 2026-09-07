@@ -32,11 +32,11 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Cuál de los pasajes de dominio de la doctrina que estudiaste hasta ahora recordás con más facilidad?",
-        "¿Alguna vez usaste una Escritura para responder una pregunta difícil que te hizo un amigo?",
-        "¿Qué le dirías, usando Isaías 1:18, a alguien que siente que sus errores son demasiado grandes como para ser perdonados?",
-        "¿Qué le dirías, usando Isaías 53:4-5, a alguien que siente que a Dios no le importa su dolor?",
-        "¿Qué pasaje de dominio de la doctrina te gustaría practicar más esta semana, y con quién podrías practicarlo?",
+        "¿Cuál de los pasajes de Dominio de la Doctrina que estudiaste hasta ahora recordás con más facilidad?",
+        "¿Alguna vez usaste una Escritura para responder una pregunta difícil de un amigo?",
+        "Volvé a leer Isaías 1:18 e Isaías 53:4–5 en el bloque de escrituras. ¿Qué ofrece cada uno —uno limpia y el otro carga—, y cuál de los dos necesitarías vos primero?",
+        "¿Qué le dirías, usando Isaías 1:18, a alguien que siente que sus errores son demasiado grandes para ser perdonados?",
+        "¿Qué pasaje vas a practicar esta semana? Repetilo de memoria una vez al día y anotá qué te enseña sobre el Salvador.",
         "¿En qué situación de tu propia vida podrías necesitar recordar uno de estos versículos pronto?"
       ]
     }
@@ -44,53 +44,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál es el objetivo principal de las prácticas del Dominio de la doctrina?",
+      "question": "¿Qué promete Isaías 1:18?",
       "options": [
-        "Ganar premios en concursos de Escrituras.",
-        "Desarrollar la habilidad de usar las Escrituras y las palabras de los profetas para adquirir conocimiento espiritual y responder preguntas.",
-        "Memorizar pasajes para recitarlos sin entenderlos."
+        "Que los pecados como la grana serán emblanquecidos como la nieve.",
+        "Que el pueblo será restaurado a la tierra que había perdido en la guerra.",
+        "Que las ofrendas serán aceptadas si se hacen con sinceridad.",
+        "Que los enemigos de Israel serán vencidos en la batalla."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "Cuando alguien te presenta una pregunta difícil sobre el Evangelio, ¿cuál es el primer paso recomendado?",
+      "question": "¿Qué dice Isaías 53:4 sobre el Siervo que describe la profecía?",
       "options": [
-        "Dar tu opinión personal inmediatamente.",
-        "Actuar con fe y buscar la respuesta en las fuentes divinamente señaladas.",
-        "Decirle a la persona que esa pregunta no tiene respuesta."
+        "Que sería reconocido y honrado por todo el pueblo de Israel.",
+        "Que llevó nuestras enfermedades y sufrió nuestros dolores.",
+        "Que hablaría con autoridad delante de reyes y gobernantes.",
+        "Que reuniría a las tribus dispersas en un solo reino."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Por qué es importante analizar las preguntas difíciles con una perspectiva eterna?",
+      "question": "¿Qué condiciones pone el Salmo 24:3–4 para estar en el lugar santo?",
       "options": [
-        "Porque así evitamos tener que estudiar mucho.",
-        "Porque ver los temas desde la perspectiva del plan de salvación nos ayuda a entender la voluntad del Señor.",
-        "Porque solo las personas mayores entienden la perspectiva eterna."
+        "Haber cumplido con todas las ofrendas señaladas durante el año.",
+        "Pertenecer al linaje de Leví o haber sido consagrado.",
+        "Tener manos limpias y corazón puro, sin jurar con engaño.",
+        "Haber estudiado la ley bajo la dirección de un maestro."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "Al practicar el Dominio de la doctrina, ¿qué actitud debes tener hacia las personas con preguntas o dudas?",
+      "question": "Según la lección, ¿cuál es el objetivo de memorizar un pasaje de Dominio de la Doctrina?",
       "options": [
-        "Corregirlas con firmeza para que no sigan en el error.",
-        "Tratarlas con el mismo amor y respeto que el Padre Celestial y Jesucristo les tienen.",
-        "Evitar esas conversaciones para no confundirte tú mismo."
+        "Poder citarlo con exactitud durante la clase de Seminario.",
+        "Cumplir con la lista de pasajes que exige el programa.",
+        "Demostrar que se estudió el material del curso completo.",
+        "Tenerlo disponible en el momento exacto en que haga falta."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Pía tiene una amiga convencida de que ya arruinó todo y que no vale la pena volver. ¿Qué pasaje de esta práctica le sirve?",
+      "options": [
+        "Isaías 1:18: aunque los pecados sean como la grana, serán emblanquecidos.",
+        "Salmos 24:3–4, porque describe las condiciones para poder acercarse a Dios.",
+        "Génesis 1:26–27, porque habla del origen divino de cada persona.",
+        "Isaías 53:4, porque explica el motivo del sufrimiento humano."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Gaspar cree que a Dios no le interesa lo que él siente porque «hay problemas más graves». ¿Qué le responde Isaías 53:4?",
+      "options": [
+        "Que compare su situación con la de otros antes de quejarse.",
+        "Que Él llevó nuestras enfermedades y sufrió nuestros dolores.",
+        "Que los sentimientos personales no cambian la doctrina.",
+        "Que conviene hablar con un líder antes de sacar conclusiones."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué pasaje de los Salmos podría usarse para enseñar sobre confiar en el Señor en momentos de duda?",
+      "id": 7,
+      "question": "Isaías 1:18 e Isaías 53:4–5 hablan del mismo Cristo desde dos ángulos. ¿Cuáles?",
       "options": [
-        "El Salmo 51, sobre el arrepentimiento.",
-        "El Salmo 23, que declara que el Señor es nuestro pastor y nunca nos abandona.",
-        "El Salmo 119, sobre la ley de Dios."
+        "Uno anuncia Su nacimiento en Belén y el otro, Su segunda venida.",
+        "Uno se dirige a Israel y el otro, a todas las naciones.",
+        "Uno limpia lo que hiciste; el otro carga lo que te duele.",
+        "Uno describe Su enseñanza y el otro, Sus milagros."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

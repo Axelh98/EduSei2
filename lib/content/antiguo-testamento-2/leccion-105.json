@@ -30,7 +30,7 @@
       "autor": "Élder David A. Bednar",
       "fuente": "«Ora siempre», Liahona, noviembre de 2008",
       "texto": "El suplicar al Padre Celestial las bendiciones que deseamos en nuestra vida es algo bueno y apropiado; sin embargo, el orar de todo corazón por los demás, tanto por los que amamos como por los que nos ultrajan, es también un elemento importante de la oración ferviente.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2008/11/pray-always?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2008/11/pray-always?lang=spa&id=p31#p31"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Sentís que tus oraciones suelen ser sinceras y personales, o más bien automáticas y repetitivas?",
-        "¿Qué te parece la idea de clamar a Dios 'desde el extremo de la tierra' cuando tu corazón desmaya, como dice el Salmo 61?",
+        "¿Sentís que tus oraciones suelen ser sinceras y personales, o más bien automáticas?",
+        "¿Qué te parece la idea de clamar a Dios «desde el extremo de la tierra» cuando el corazón desmaya?",
+        "Volvé a leer Mateo 6:9–13 en el bloque de escrituras. ¿Cuántas cosas distintas pide esa oración, y cuál de todas casi nunca aparece en las tuyas?",
         "¿Alguna vez oraste por alguien que te había lastimado, como enseña el élder Bednar?",
-        "¿Qué parte del Padrenuestro te parece más importante o más difícil de vivir en tu vida diaria?",
-        "¿Qué podrías cambiar esta semana en cómo orás, para que sea más honesto y menos automático?",
-        "¿Por quién más, además de vos mismo, podrías orar esta semana con todo el corazón?"
+        "¿Qué vas a cambiar esta semana en tu forma de orar para que sea menos automática? Probalo una vez y anotá cómo se sintió.",
+        "¿Por quién más, además de vos, podrías orar esta semana de todo corazón?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué imagen usa el salmista en el Salmo 61 para describir su refugio en el Señor?",
+      "question": "¿Cómo describe el Salmo 61:1–2 la situación de quien ora?",
       "options": [
-        "Una fortaleza inexpugnable en el desierto.",
-        "Una roca más alta que él, donde puede refugiarse.",
-        "Un jardín lleno de agua fresca."
+        "Como alguien que agradece después de recibir una bendición.",
+        "Como alguien que clama desde el extremo de la tierra, con el corazón desmayando.",
+        "Como alguien que se prepara con calma y con mucho tiempo antes de entrar al templo.",
+        "Como alguien que enseña a otros la manera correcta de orar."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "En el Salmo 73, el salmista casi pierde la fe al ver que los malvados prosperaban. ¿Qué lo hizo recuperar la perspectiva correcta?",
+      "question": "Cuando los discípulos le pidieron a Jesús que les enseñara a orar, ¿qué les dio?",
       "options": [
-        "Ver que los malvados finalmente sufrían desgracias.",
-        "Entrar en el santuario de Dios y entender el fin de los impíos.",
-        "Hablar con el profeta Isaías."
+        "Una lista de temas que debían cubrirse en cada oración.",
+        "La instrucción de orar siempre en el templo y nunca solos.",
+        "Una oración breve, directa y honesta: el Padrenuestro.",
+        "El consejo de repetir los salmos que ya conocían de memoria."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Cuál es el tema central del Salmo 84?",
+      "question": "Según la lección, ¿qué enseñan estos salmos en conjunto sobre la oración?",
       "options": [
-        "El deseo profundo de estar en la Casa del Señor y la bienaventuranza de quienes la habitan.",
-        "La venganza sobre los enemigos de Israel.",
-        "Las instrucciones para construir el templo."
+        "Que conviene usar un lenguaje elevado al dirigirse a Dios.",
+        "Que las oraciones largas reciben más atención que las cortas.",
+        "Que hay momentos del día mejores que otros para orar.",
+        "Que se le puede hablar a Dios tal como uno se siente de verdad."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "¿Qué agrega el élder Bednar sobre la oración ferviente?",
+      "options": [
+        "Que incluye orar de corazón por otros, incluso por quien te ultraja.",
+        "Que debe hacerse de rodillas y en voz alta siempre que se pueda.",
+        "Que las peticiones personales conviene dejarlas para el final.",
+        "Que la oración familiar es más poderosa que la personal."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 4,
-      "question": "¿Qué verdad sobre Dios se repite en muchos de estos Salmos?",
+      "id": 5,
+      "question": "Amalia repite la misma oración cada noche y admite que ya no piensa en lo que dice. ¿Qué le propone esta lección?",
       "options": [
-        "Que Dios solo ayuda a los que nunca pecan.",
-        "Que Dios es un refugio, una fortaleza y una fuente de esperanza para quienes confían en Él.",
-        "Que Dios favorece solo a la nación de Israel."
+        "Que ore menos veces pero durante más tiempo cada vez.",
+        "Que le diga a Dios cómo se siente de verdad, sin editarlo.",
+        "Que use un texto escrito para no quedarse sin palabras.",
+        "Que espere a sentirse más espiritual antes de volver a orar."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cómo pueden estos Salmos ayudarte en tu vida personal?",
+      "id": 6,
+      "question": "Leandro se peleó con un compañero y no quiere ni nombrarlo cuando ora. ¿Qué le sugiere el consejo del élder Bednar?",
       "options": [
-        "Solo son útiles para los músicos que los cantan en el coro.",
-        "Sus palabras expresan emociones universales y nos enseñan cómo llevar al Señor tanto nuestra alegría como nuestro dolor.",
-        "Solo son útiles si los memorizas completamente."
+        "Que espere a que se le pase el enojo antes de volver a orar.",
+        "Que ore por su propia paciencia y no mencione al compañero.",
+        "Que orar de corazón incluye orar también por quien lo lastimó.",
+        "Que resuelva primero el conflicto y después lo lleve a la oración."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "El grito del Salmo 61 y la sencillez del Padrenuestro parecen muy distintos. ¿Qué comparten?",
+      "options": [
+        "Los dos se recitaban en las reuniones del templo de Jerusalén.",
+        "Los dos usan la misma cantidad de peticiones concretas.",
+        "Los dos fueron escritos para enseñar a orar a los niños.",
+        "Los dos son honestos: no fingen una calma que no existe."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

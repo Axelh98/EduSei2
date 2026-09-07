@@ -30,7 +30,7 @@
       "autor": "Élder Gerrit W. Gong",
       "fuente": "«Buen Pastor, Cordero de Dios», Liahona, mayo de 2019",
       "texto": "Nuestro Buen Pastor nos llama con Su voz y en Su nombre. Él busca, recoge y viene a Su pueblo. Mediante Su profeta viviente y cada uno de nosotros, Él invita a todos a encontrar paz, propósito, sanación y gozo en la plenitud de Su evangelio restaurado y en Su senda de los convenios.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2019/05/53gong?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2019/05/53gong?lang=spa&id=p39#p39"
     },
     {
       "tipo": "conclusion",
@@ -40,64 +40,91 @@
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué imagen del Salmo 23 te resulta más fácil de imaginar: los pastos verdes, el valle de sombra de muerte, o la mesa preparada?",
-        "¿Por qué creés que David eligió la imagen de un pastor, y no otra, para describir su relación con Dios?",
-        "¿Alguna vez sentiste que atravesabas un 'valle de sombra de muerte' —un momento de mucho miedo o incertidumbre— y sentiste que no estabas solo?",
-        "¿Qué significa para vos que Cristo prepare 'mesa' —es decir, dé paz— incluso en medio de un conflicto, y no solo después de que termine?",
-        "¿En qué área de tu vida necesitás confiar esta semana en que el Pastor te está guiando, aunque no veas todo el camino?",
-        "¿A quién podrías ayudar esta semana a sentir que no está solo en su propio 'valle', siguiendo el ejemplo del Buen Pastor?"
+        "¿Por qué te parece que David eligió la imagen de un pastor, y no otra, para describir su relación con Dios?",
+        "Volvé a leer Salmos 23:1–6 en el bloque de escrituras y contá cuántas cosas distintas hace el Pastor por Sus ovejas. ¿Cuál de todas necesitás más esta semana?",
+        "¿Alguna vez atravesaste un momento de mucho miedo o incertidumbre y sentiste que no estabas solo?",
+        "¿En qué área necesitás confiar esta semana en que el Pastor te está guiando? Llevala a la oración y anotá lo que te venga a la mente.",
+        "¿A quién podrías ayudar esta semana a sentir que no está solo en su propio 'valle'?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué imagen usa David para describir su relación con el Señor en el Salmo 23?",
+      "question": "¿Con qué frase abre el Salmo 23?",
       "options": [
-        "La de un rey y su siervo.",
-        "La de un pastor y sus ovejas.",
-        "La de un padre y su hijo pequeño."
+        "«Jehová es mi luz y mi salvación; ¿de quién temeré?».",
+        "«Bienaventurado el varón que no anda en consejo de malos».",
+        "«Jehová es mi pastor; nada me faltará».",
+        "«Alzaré mis ojos a los montes, de donde vendrá mi socorro»."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿Qué significa la frase 'aunque ande en valle de sombra de muerte, no temeré mal alguno'?",
+      "question": "Según el Salmo 23, ¿dónde prepara Dios la mesa para Sus ovejas?",
       "options": [
-        "Que David nunca tuvo miedo en su vida.",
-        "Que incluso en las situaciones más oscuras y peligrosas, la presencia del Señor da valor y paz.",
-        "Que las personas justas no mueren."
+        "En los pastos delicados, después de que pasa el peligro.",
+        "En presencia de los angustiadores, en medio del conflicto.",
+        "En la casa de Jehová, al terminar el viaje del rebaño.",
+        "Junto a las aguas de reposo, cuando cae la tarde."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué función tiene el 'báculo y el cayado' mencionados en el Salmo 23?",
+      "question": "¿Por qué la imagen del pastor era especialmente precisa en boca de David?",
       "options": [
-        "Son armas para pelear contra los enemigos.",
-        "Representan el apoyo, la guía y la corrección amorosa del Señor en nuestra vida.",
-        "Son herramientas para construir el templo."
+        "Porque los reyes de Israel usaban ese título de forma habitual.",
+        "Porque los profetas la habían usado antes que él.",
+        "Porque era la imagen más común en la poesía de esa época.",
+        "Porque él mismo había sido pastor y sabía lo que costaba."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Cómo se aplica el Salmo 23 a tu relación personal con Jesucristo hoy?",
+      "question": "¿Cómo retomó Jesús esta imagen en Juan 10:11?",
       "options": [
-        "Solo aplica para quienes viven en zonas rurales o con ovejas.",
-        "Jesucristo, como el Buen Pastor, te guía, te protege y te provee lo que necesitas espiritualmente.",
-        "El Salmo 23 ya no tiene relevancia en la vida moderna."
+        "Diciendo que Él es el buen pastor, que da Su vida por las ovejas.",
+        "Explicando que las ovejas debían reconocer la voz del pastor.",
+        "Comparando a los fariseos con pastores que abandonan su propio rebaño.",
+        "Anunciando que enviaría pastores a todas las naciones."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Sol está pasando por una enfermedad en su familia y siente que Dios está lejos justo cuando más lo necesita. ¿Qué le dice el Salmo 23?",
+      "options": [
+        "Que la prueba terminará pronto si mantiene la fe firme.",
+        "Que Él camina con ella dentro del valle, no después de salir.",
+        "Que conviene esperar respuestas antes de sacar conclusiones.",
+        "Que otras familias atraviesan situaciones todavía más duras."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué promesa final hace David en el Salmo 23?",
+      "id": 6,
+      "question": "Federico piensa que Dios solo se ocupa de los asuntos importantes del mundo. ¿Qué le responde Ezequiel 34:11 según la lección?",
       "options": [
-        "Que nunca más tendrá enemigos.",
-        "'El bien y la misericordia me seguirán todos los días de mi vida, y en la casa de Jehová moraré por largos días.'",
-        "Que construirá el templo más grande del mundo."
+        "Que el Señor delega el cuidado diario en los líderes locales.",
+        "Que la atención de Dios se reparte según la necesidad de cada uno.",
+        "Que Él mismo dijo que buscaría a Sus ovejas y las reconocería.",
+        "Que los asuntos personales se resuelven mejor con ayuda humana."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "El Salmo 23, Ezequiel 34:11 y Juan 10:11 usan la misma figura. ¿Qué muestra que los tres la usen?",
+      "options": [
+        "Que la ganadería era la actividad principal del pueblo de Israel.",
+        "Que los tres textos fueron escritos por autores contemporáneos.",
+        "Que la imagen del pastor era fácil de entender para cualquiera.",
+        "Que el Pastor del salmo y el que da Su vida son el mismo."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

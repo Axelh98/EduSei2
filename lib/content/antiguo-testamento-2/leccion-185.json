@@ -30,7 +30,7 @@
       "autor": "Presidente Russell M. Nelson",
       "fuente": "«La respuesta siempre es Jesucristo», Conferencia General, abril de 2023",
       "texto": "¡Les ruego que vengan a Él para que Él pueda sanarlos a ustedes! Él los sanará del pecado, conforme se arrepientan; los sanará de la tristeza y del miedo; los sanará de las heridas de este mundo.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/58nelson?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/58nelson?lang=spa&id=p7#p7"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué te genera saber que Jesucristo experimentó personalmente el dolor y la tristeza, y no solo los observó desde lejos?",
-        "¿Alguna vez atravesaste, o conocés a alguien que atravesó, un momento de tristeza profunda o depresión?",
-        "¿Qué te detiene, si es que algo te detiene, a la hora de pedir ayuda cuando te sentís mal emocionalmente?",
-        "¿Qué significa para vos que 'Dios está cercano a los quebrantados de corazón', en vez de alejarse de ellos?",
-        "¿A quién de confianza podrías contarle esta semana cómo te sentís realmente, si estás cargando algo pesado?",
-        "¿Qué paso concreto —hablar con alguien, orar, buscar ayuda profesional— podrías dar esta semana si vos o alguien que conocés está luchando con la tristeza?"
+        "¿Qué te genera saber que Jesucristo experimentó el dolor y la tristeza, y no solo los observó de lejos?",
+        "¿Alguna vez atravesaste, o conocés a alguien que atravesó, un momento de tristeza profunda?",
+        "Volvé a leer Mateo 11:28–30 en el bloque de escrituras. ¿A quiénes llama exactamente el Salvador, y qué dice que dará y cómo describe Su yugo?",
+        "¿Qué te detiene, si algo te detiene, a la hora de pedir ayuda cuando te sentís mal?",
+        "¿A quién de confianza vas a contarle esta semana cómo te sentís de verdad? Orá antes por esa conversación y anotá cómo salió.",
+        "¿Qué paso concreto podrías dar si vos o alguien que conocés está luchando con la tristeza?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Es la depresión una señal de falta de fe o de debilidad espiritual?",
+      "question": "¿Cómo describe Isaías 53:3 al Salvador?",
       "options": [
-        "Sí, quien tiene suficiente fe nunca debería sentirse deprimido.",
-        "No; la depresión es una condición real que puede afectar a cualquier persona, incluso a personas muy fieles.",
-        "Solo las personas sin testimonio experimentan depresión."
+        "Como un rey que vendría a reinar sobre todas las naciones.",
+        "Como varón de dolores y experimentado en quebranto.",
+        "Como un maestro rodeado siempre de multitudes que lo seguían.",
+        "Como un juez que vendría a separar a justos de injustos."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué profeta del Antiguo Testamento experimentó un profundo agotamiento y deseos de morir después de una gran victoria?",
+      "question": "¿A quiénes invita el Salvador en Mateo 11:28?",
       "options": [
-        "Moisés, después de cruzar el Mar Rojo.",
-        "Elías, después de su confrontación con los profetas de Baal.",
-        "Daniel, después de interpretar el sueño del rey."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 3,
-      "question": "¿Cómo respondió el Señor a Elías cuando estaba en su punto más bajo emocionalmente?",
-      "options": [
-        "Le dijo que debía ser más fuerte y seguir adelante.",
-        "Lo abandonó hasta que Elías se recuperara por su cuenta.",
-        "Envió un ángel para alimentarlo, dejarlo descansar y hablarle con voz apacible."
+        "A los que ya han guardado todos Sus mandamientos.",
+        "A quienes fueron llamados formalmente a servir en la obra.",
+        "A todos los que están trabajados y cargados.",
+        "A los que buscan aprender la ley con más detalle."
       ],
       "correctAnswer": 2
     },
     {
-      "id": 4,
-      "question": "¿Cuándo es importante buscar ayuda profesional para la tristeza o la depresión?",
+      "id": 3,
+      "question": "¿Qué dice el Salmo 34:18 sobre los quebrantados de corazón?",
       "options": [
-        "Solo cuando ya no puedas levantarte de la cama.",
-        "Cuando los sentimientos son persistentes, intensos o interfieren con tu vida diaria, buscar ayuda es sabio y valiente.",
-        "Nunca; los jóvenes deben resolver sus problemas solos."
+        "Que serán consolados cuando termine su tiempo de prueba.",
+        "Que deben acercarse al templo para hallar consuelo.",
+        "Que otros creyentes tienen el deber de acompañarlos.",
+        "Que Jehová está cercano a ellos."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "Según la lección, ¿qué relación hay entre la fe y pedir ayuda profesional?",
+      "options": [
+        "Pedir ayuda puede ser la forma en que Dios responde esa oración.",
+        "Conviene agotar primero todos los recursos espirituales.",
+        "La ayuda profesional se recomienda solo en casos muy graves.",
+        "Es preferible resolverlo con la familia antes que con un extraño."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Fabricio lleva semanas sin ganas de nada y cree que si tuviera más fe se le pasaría. ¿Qué le responde esta lección?",
+      "options": [
+        "Que aumente su estudio y su oración hasta notar un cambio.",
+        "Que la tristeza no es falta de fe: cuerpo y mente también intervienen.",
+        "Que se distraiga con actividades hasta que el ánimo mejore.",
+        "Que espere un tiempo prudencial antes de preocuparse."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué pequeñas acciones pueden ayudar cuando alguien enfrenta tristeza o depresión?",
+      "id": 6,
+      "question": "Julia nota que una amiga suya está muy decaída y no sabe qué decirle. ¿Qué le sugiere el Salmo 34:18?",
       "options": [
-        "Aislarse completamente para no molestar a los demás.",
-        "Buscar luz del sol, mantener rutinas, hablar con alguien de confianza, orar y recordar que el Señor comprende tu dolor.",
-        "Ignorar los sentimientos y enfocarse solo en trabajar."
+        "Que le proponga actividades para que se distraiga un poco.",
+        "Que espere a que su amiga saque el tema por su cuenta.",
+        "Que se acerque, porque así es como Él actúa con los quebrantados.",
+        "Que le recomiende leer las Escrituras todos los días."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "«Llevó él nuestros dolores» (Isaías 53:4) y «venid a mí» (Mateo 11:28) forman una sola invitación. ¿Por qué?",
+      "options": [
+        "Porque ambos textos se leían juntos en las sinagogas antiguas.",
+        "Porque los dos fueron escritos pensando en el mismo público.",
+        "Porque el segundo repite con otras palabras lo que dijo el primero.",
+        "Porque el que invita a descansar ya cargó eso mismo antes."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

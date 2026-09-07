@@ -30,7 +30,7 @@
       "autor": "Élder David A. Bednar",
       "fuente": "«Para que siempre nos acordemos de Él», Liahona, junio de 2023",
       "texto": "Nuestra responsabilidad sagrada es desarrollar hábitos santos que inviten al Espíritu del Señor a estar con nosotros en todo momento, hábitos tales como honrar los convenios, obedecer los mandamientos, arrepentirnos, perdonar, escudriñar las Escrituras, servir, y adorar en el hogar, en la Iglesia y en el templo.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2023/06/04-that-we-may-always-remember-him?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2023/06/04-that-we-may-always-remember-him?lang=spa&id=p14#p14"
     },
     {
       "tipo": "conclusion",
@@ -40,64 +40,91 @@
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué hábito llevás tiempo intentando cambiar sin mucho éxito?",
-        "¿Alguna vez sentiste que un cambio de hábito te resultó imposible solo con fuerza de voluntad, y necesitaste algo más?",
-        "¿Qué te parece la idea de pedirle a Dios un 'corazón nuevo' en vez de solo pedirle fuerza de voluntad?",
-        "¿Qué significa para vos que Cristo prometa volver fuertes las cosas débiles, en vez de simplemente eliminarlas?",
-        "¿Qué un solo hábito santo —oración, Escrituras, servicio— podrías empezar a practicar de forma más constante esta semana?",
-        "¿A quién podrías pedirle que te ayude a sostener ese cambio de hábito esta semana?"
+        "¿Alguna vez un cambio te resultó imposible solo con fuerza de voluntad?",
+        "Volvé a leer Éter 12:27 en el bloque de escrituras. ¿Qué tres cosas dice el Señor que hace con la debilidad, y cuál es la condición que pone?",
+        "¿Qué te parece pedirle a Dios «un corazón nuevo» en vez de pedirle solo más fuerza de voluntad?",
+        "¿Qué hábito santo vas a practicar esta semana? Pedile ayuda a Él específicamente con ese y anotá cómo te fue.",
+        "¿A quién podrías pedirle que te acompañe en ese cambio?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Por qué son tan poderosos los hábitos en la formación del carácter?",
+      "question": "¿Qué promete el Señor en Ezequiel 36:26?",
       "options": [
-        "Porque los hábitos reemplazan la necesidad de tomar decisiones conscientes.",
-        "Porque los hábitos repetidos moldean quiénes somos y cómo respondemos automáticamente a los desafíos.",
-        "Los hábitos no tienen gran impacto en la persona que somos."
+        "Un corazón nuevo, en lugar del corazón de piedra.",
+        "Un cambio gradual que tomará varias generaciones.",
+        "Una ley más sencilla que la que el pueblo ya conocía.",
+        "Un nuevo profeta que guiará al pueblo por la senda."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Cómo se relaciona el desarrollo de hábitos saludables con la Palabra de Sabiduría?",
+      "question": "Según Mosíah 3:19, ¿cómo se vence al «hombre natural»?",
       "options": [
-        "La Palabra de Sabiduría cubre todos los hábitos posibles sin dejar nada sin mencionar.",
-        "La Palabra de Sabiduría es un ejemplo de cómo el Señor nos da principios para guiar nuestros hábitos físicos y espirituales.",
-        "Solo aplica para adultos mayores de 30 años."
+        "Con disciplina personal sostenida durante muchos años.",
+        "Sometiéndose al influjo del Santo Espíritu.",
+        "Alejándose de todo lo que pueda representar una tentación.",
+        "Cumpliendo cada mandamiento sin excepción alguna."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Cuál es una estrategia útil para establecer un nuevo hábito positivo?",
+      "question": "¿Qué promete Éter 12:27 sobre las cosas débiles?",
       "options": [
-        "Intentar cambiar todos tus hábitos al mismo tiempo.",
-        "Empezar con un pequeño cambio concreto y repetirlo consistentemente hasta que se vuelva natural.",
-        "Esperar a sentirte motivado antes de empezar."
+        "Que serán quitadas de quien las lleve con suficiente paciencia.",
+        "Que dejarán de notarse a medida que uno madura.",
+        "Que se volverán fuertes para quienes se humillen ante Él.",
+        "Que servirán de advertencia para las demás personas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Cómo puede involucrar al Señor en el proceso de cambiar hábitos negativos?",
+      "question": "Según el élder Bednar, ¿qué son los «hábitos santos»?",
       "options": [
-        "Pidiéndole que Él lo cambie sin que tú hagas ningún esfuerzo.",
-        "Orando pidiendo Su ayuda y fortaleza mientras haces tu parte con consistencia.",
-        "Solo asistiendo a la Iglesia más seguido."
+        "Costumbres personales que cada uno elige según su propio criterio.",
+        "Prácticas reservadas para quienes tienen un llamamiento.",
+        "Rutinas que se cumplen sobre todo los domingos.",
+        "Prácticas como orar, servir y escudriñar, que invitan al Espíritu."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Marcos lleva meses intentando dejar un hábito y ya se convenció de que no puede. ¿Qué le ofrece Éter 12:27?",
+      "options": [
+        "Que su debilidad es el lugar donde Él promete hacerlo fuerte.",
+        "Que conviene cambiar de estrategia y probar con alguna otra cosa distinta.",
+        "Que algunos hábitos no se dejan hasta la edad adulta.",
+        "Que hable con su obispo antes de seguir intentando."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Belén quiere cambiar cinco cosas de su vida al mismo tiempo. ¿Qué le sugiere esta lección?",
+      "options": [
+        "Que empiece por la más difícil, para que el resto sea más fácil.",
+        "Que elija un solo hábito y le pida a Él ayuda con ese.",
+        "Que haga una lista y avance en orden alfabético.",
+        "Que espere a un momento del año con menos obligaciones."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué beneficio espiritual tiene desarrollar hábitos de estudio de las Escrituras y oración?",
+      "id": 7,
+      "question": "El corazón nuevo de Ezequiel 36 y la promesa de Éter 12:27 dicen lo mismo. ¿Qué?",
       "options": [
-        "Que te garantizan no tener problemas en la vida.",
-        "Que fortalecen tu relación con el Señor y te mantienen conectado a la fuente de fortaleza que necesitas cada día.",
-        "Que te hacen más inteligente que los demás estudiantes."
+        "Que el cambio verdadero exige constancia durante mucho más tiempo del previsto.",
+        "Que las debilidades desaparecen cuando uno se arrepiente.",
+        "Que el cambio de fondo lo hace Él, no la fuerza de voluntad sola.",
+        "Que la humildad es el primero de todos los mandamientos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

@@ -30,7 +30,7 @@
       "autor": "Élder Ulisses Soares",
       "fuente": "«Jesucristo: El Cuidador de nuestra alma», Conferencia General, abril de 2021",
       "texto": "Puedo asegurarles que Cristo está constantemente al tanto de las adversidades que experimentamos en la vida mortal. Él entiende plenamente la amargura, la agonía y el dolor físico, así como las dificultades emocionales y espirituales que afrontamos. Las entrañas del Salvador rebosan de misericordia y Él siempre está listo para socorrernos.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/41soares?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/41soares?lang=spa&id=p13#p13"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué parte de tu vida sentís ahora mismo como un 'desierto' que necesita convertirse en jardín?",
-        "¿Qué te genera que Dios repita 'yo, yo soy vuestro consolador' dos veces seguidas, como insistiendo en que le creas?",
-        "¿Alguna vez el miedo a la opinión de otra persona te pesó más de lo que debería haberlo hecho?",
-        "¿Qué te parece la imagen de 'pies hermosos' para describir a alguien que trae buenas noticias?",
-        "¿A quién podrías llevarle esta semana una 'buena noticia' —un mensaje de aliento, una invitación— como los 'pies hermosos' de Isaías 52?",
-        "¿Qué necesitás escuchar vos mismo esta semana de parte de Dios, según lo que aprendiste en Isaías 51?"
+        "¿Qué parte de tu vida sentís ahora como un 'desierto' que necesita convertirse en jardín?",
+        "¿Qué te genera que Dios repita «yo, yo soy vuestro consolador», como insistiendo en que le creas?",
+        "Volvé a leer Isaías 51:12 en el bloque de escrituras. ¿Qué declara el Señor sobre Sí mismo y qué pregunta hace después, y cómo se relacionan las dos partes del versículo?",
+        "¿Alguna vez el miedo a la opinión de otro te pesó más de lo que debería?",
+        "¿A quién podrías llevarle una buena noticia esta semana? Orá por esa persona antes y anotá lo que sentiste.",
+        "¿Qué necesitás escuchar vos mismo de parte de Él esta semana, según lo que leíste en Isaías 51?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿A quiénes se dirige el llamado 'escuchadme' repetido en Isaías 51?",
+      "question": "¿Qué promete Isaías 51:3 sobre el desierto de Sion?",
       "options": [
-        "A los reyes de las naciones paganas.",
-        "A quienes buscan la justicia y al Señor, animándolos a recordar Sus promesas y a confiar en Él.",
-        "Solo a los sacerdotes del templo."
+        "Que lo convertirá en Edén.",
+        "Que enviará lluvia sobre él durante siete años seguidos.",
+        "Que permitirá que el pueblo lo cultive con sus propias manos.",
+        "Que lo dejará vacío hasta que el pueblo se arrepienta del todo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué promete el Señor en Isaías 51:3 sobre la condición futura de Sion?",
+      "question": "¿Qué declara el Señor de Sí mismo en Isaías 51:12?",
       "options": [
-        "Que Sion será abandonada por sus habitantes.",
-        "Que el Señor consolará a Sion, convertirá su desierto en Edén y su soledad en jardín del Señor.",
-        "Que Sion será conquistada por sus enemigos."
+        "Que es el único Dios verdadero entre todas las naciones vecinas.",
+        "Que Él es el consolador de Su pueblo, repitiéndolo dos veces.",
+        "Que juzgará a quienes oprimieron a Israel en el exilio.",
+        "Que su brazo no se ha acortado para poder salvar."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Cuál es el significado del llamado '¡Despierta, despierta!' de Isaías 52?",
+      "question": "En la antigüedad, ¿qué significaba ver a un mensajero corriendo por los montes (Isaías 52:7)?",
       "options": [
-        "Una instrucción para levantarse temprano a orar.",
-        "Un llamado a Sion y a sus habitantes a levantarse de la condición de apostasía y cautividad espiritual, y a vestirse de fortaleza.",
-        "Una advertencia de que el juicio final es inminente."
+        "Que se acercaba un ejército enemigo a la ciudad.",
+        "Que el rey convocaba al pueblo a una fiesta solemne.",
+        "Que la guerra había terminado y llegaban buenas noticias.",
+        "Que había que cerrar las puertas de la ciudad antes del anochecer."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Cuál es la 'buena nueva' que los mensajeros proclaman en Isaías 52:7?",
+      "question": "Según la lección, ¿qué hace el Señor con el miedo a la opinión de los demás?",
       "options": [
-        "Que Israel ha ganado una batalla militar.",
-        "'¡Tu Dios reina!': la proclamación de la paz, del bien y de la salvación del Señor.",
-        "Que el templo de Jerusalén será reconstruido pronto."
+        "Lo descarta como una debilidad impropia de Su pueblo.",
+        "Promete que desaparecerá apenas la persona llegue a tener más fe.",
+        "Lo atribuye a la influencia de las naciones vecinas.",
+        "No lo minimiza: lo pone en perspectiva frente a Su promesa."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Milena está atravesando meses difíciles y siente que su vida es un desierto sin salida. ¿Qué le ofrece Isaías 51:3?",
+      "options": [
+        "La promesa de que ese desierto puede volverse un jardín.",
+        "El consejo de esperar a que la etapa pase por sí sola.",
+        "La certeza de que otras personas atraviesan cosas peores.",
+        "La sugerencia de buscar ayuda antes de seguir orando."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Octavio no se anima a invitar a un amigo porque teme quedar mal. ¿Cómo aplica Isaías 52:7 a su caso?",
+      "options": [
+        "Le conviene esperar a que el amigo muestre interés primero.",
+        "Es él quien puede llevar la buena noticia que el otro necesita.",
+        "Debería pedirle a un líder que hable con su amigo en su lugar.",
+        "Le sirve más invitar a alguien que ya conozca la Iglesia."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cómo conectan los Santos de los Últimos Días Isaías 52 con la Restauración y la obra misional?",
+      "id": 7,
+      "question": "El consuelo de Isaías 51 y el mensajero de Isaías 52 forman una secuencia. ¿Cuál?",
       "options": [
-        "No tienen ninguna conexión.",
-        "Los 'mensajeros de pies hermosos' que proclaman la buena nueva representan a los misioneros que llevan el Evangelio restaurado al mundo.",
-        "Solo hace referencia a los apóstoles del Nuevo Testamento."
+        "Primero se anuncia el castigo y después llega el perdón.",
+        "Primero habla el profeta y después responde el pueblo.",
+        "Primero se recibe consuelo de Él y después se lo lleva a otros.",
+        "Primero termina el exilio y después se reconstruye el templo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

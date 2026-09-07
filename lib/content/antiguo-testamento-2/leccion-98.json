@@ -30,7 +30,7 @@
       "autor": "Élder Jeffrey R. Holland",
       "fuente": "«Como una vasija quebrada», Liahona, noviembre de 2013",
       "texto": "Nuestros seres queridos que sufrían discapacidades en la vida terrenal se presentarán ante nosotros glorificados y grandiosos, asombrosamente perfectos en cuerpo y mente.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2013/11/saturday-afternoon-session/like-a-broken-vessel?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2013/11/saturday-afternoon-session/like-a-broken-vessel?lang=spa&id=p16#p16"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué sentiste al leer que Job, en medio de tanto dolor, dijo con tanta seguridad 'yo sé que mi Redentor vive'?",
+        "¿Qué sentiste al leer que Job, en medio de tanto dolor, dijo con tanta seguridad «yo sé que mi Redentor vive»?",
         "¿Conocés a alguien que haya perdido a un ser querido y haya encontrado consuelo en la certeza de la Resurrección?",
-        "¿Alguna vez pensaste en cómo sería reencontrarte con alguien que ya no está, gracias a la Resurrección?",
+        "Volvé a leer Job 19:25–27 en el bloque de escrituras. ¿Qué tres cosas afirma Job que sabe o que verá, y cuál de las tres te sorprende más viniendo de alguien que lo había perdido todo?",
         "¿Qué diferencia hace en tu vida diaria saber, y no solo creer, que Jesucristo resucitó?",
-        "¿A quién podrías consolar esta semana recordándole la certeza de la Resurrección, si está atravesando una pérdida?",
-        "¿Qué podrías hacer esta semana para que la esperanza de la Resurrección deje de ser solo una idea y se vuelva algo que sostiene tu día a día?"
+        "¿A quién podrías consolar esta semana recordándole esa certeza? Orá por esa persona antes de hablarle y anotá lo que sentiste.",
+        "¿Qué podrías hacer esta semana para que la esperanza de la Resurrección deje de ser una idea y sostenga tu día a día?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué pregunta profunda plantea Job en el capítulo 14 que todos los seres humanos nos hacemos?",
+      "question": "¿Qué pregunta se hace Job en medio de su sufrimiento (Job 14:14)?",
       "options": [
-        "¿Por qué Dios permite que los malvados prosperen?",
-        "'Si el hombre muere, ¿volverá a vivir?'",
-        "¿Por qué nacemos si vamos a sufrir?"
+        "Si el hombre muriere, ¿volverá a vivir?",
+        "¿Por qué permite Dios que sufran los justos de la tierra?",
+        "¿Hasta cuándo durará la prueba que estoy atravesando ahora?",
+        "¿Quién responderá por mí delante del tribunal de Dios?"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Cuál es el poderoso testimonio que Job pronuncia en el capítulo 19?",
+      "question": "¿Qué declara Job en 19:25, en el punto más oscuro del libro?",
       "options": [
-        "'Dios no está con los que sufren.'",
-        "'Yo sé que mi Redentor vive, y al fin se levantará sobre el polvo.'",
-        "'Prefiero morir a seguir sufriendo.'"
+        "Que sus amigos serían juzgados por sus consejos equivocados.",
+        "Que sabe que su Redentor vive y se levantará sobre el polvo.",
+        "Que prefería no haber nacido antes que seguir sufriendo así.",
+        "Que Dios le devolvería todo lo que había perdido."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué esperanza dio a Job saber que su Redentor vive?",
+      "question": "Job compara la vida humana con un árbol talado (Job 14:7–9). ¿Para qué usa esa imagen?",
       "options": [
-        "Que sus enemigos serían castigados pronto.",
-        "Que después de esta vida vería a Dios con sus propios ojos, aunque su piel fuera destruida.",
-        "Que sus riquezas serían restauradas de inmediato."
+        "Para mostrar que la naturaleza se recupera mucho más rápido que las personas.",
+        "Para explicar que las pruebas podan lo que sobra en una vida.",
+        "Para preguntar si al ser humano le queda esperanza como al árbol que retoña.",
+        "Para describir cómo quedó su casa después de las tragedias."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Cómo puede el testimonio de Job sobre la Resurrección fortalecer tu fe en momentos difíciles?",
+      "question": "Según la lección, ¿qué sabés vos que Job no llegó a saber?",
       "options": [
-        "Porque demuestra que el sufrimiento no es real.",
-        "Porque nos recuerda que esta vida no es el final y que Jesucristo tiene poder sobre la muerte.",
-        "Porque Job era un profeta y nosotros no podemos tener su misma fe."
+        "Por qué motivo exacto Dios permitió que Job atravesara sus pruebas.",
+        "Que sus hijos le serían devueltos al final de su vida terrenal.",
+        "Que el libro de Job terminaría siendo parte de las Escrituras.",
+        "Que Jesucristo resucitó, y que por eso la muerte no es el final."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "A Agustín se le murió el abuelo y dice que «no sirve de nada» pensar en la Resurrección porque igual no lo ve ahora. ¿Qué le ofrece esta lección?",
+      "options": [
+        "Que la certeza de que volverá a verlo puede sostenerlo mientras tanto.",
+        "Que con el tiempo el dolor se va solo y deja de necesitar consuelo alguno.",
+        "Que evite pensar en el tema hasta que se sienta más tranquilo.",
+        "Que su abuelo ya no sufre, y eso debería alcanzarle por ahora."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Manuel cree que hace falta entender por qué pasan las cosas malas antes de poder seguir creyendo. ¿Qué le muestra Job?",
+      "options": [
+        "Que las explicaciones llegan siempre, aunque a veces tarden años.",
+        "Que llegó a una certeza sobre su Redentor sin tener explicaciones.",
+        "Que conviene dejar de preguntar y aceptar la voluntad de Dios.",
+        "Que sus amigos tenían parte de razón en lo que le decían."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué aprendemos sobre la fe al ver que Job mantenía su testimonio incluso cuando se sentía abandonado?",
+      "id": 7,
+      "question": "La pregunta de Job 14:14 y la declaración de Job 19:25 están en el mismo libro. ¿Qué relación tienen?",
       "options": [
-        "Que la fe verdadera solo existe cuando todo va bien.",
-        "Que la fe genuina puede mantenerse firme aun en medio del dolor y la confusión.",
-        "Que no debemos expresar nuestras dudas ante Dios."
+        "Las dos fueron dichas por los amigos de Job, no por él mismo.",
+        "La segunda corrige un error doctrinal que había quedado planteado en la primera.",
+        "Una plantea la pregunta más antigua; la otra da la certeza que la responde.",
+        "Las dos describen la misma escena desde ángulos distintos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

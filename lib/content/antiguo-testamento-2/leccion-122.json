@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Ya estudiaste varios pasajes de dominio de la doctrina en distintos momentos de este curso: Proverbios 3:5–6 sobre confiar en el Señor, 2 Nefi 32:3 sobre deleitarse en las palabras de Cristo, y ahora se suma uno nuevo: Josué 24:15, donde Josué desafía a todo Israel a decidir a quién van a servir, y responde por su propia cuenta: «yo y mi casa serviremos a Jehová».\n\nEsta práctica no te pide memorizar un pasaje más sin conexión con los demás. Te pide notar cómo estos versículos, juntos, responden preguntas reales: ¿en quién confío cuando no entiendo lo que está pasando? (Proverbios 3:5–6). ¿Dónde busco dirección concreta para mi vida? (2 Nefi 32:3). ¿Qué elijo hacer yo, específicamente, hoy, sin esperar a que otros decidan primero? (Josué 24:15). Cada pasaje de dominio de la doctrina existe para un momento real de tu vida, no solo para un examen."
+      "contenido": "Ya estudiaste varios pasajes de Dominio de la Doctrina en este curso: Proverbios 3:5–6 sobre confiar en el Señor, 2 Nefi 32:3 sobre deleitarse en las palabras de Cristo, y ahora se suma Josué 24:15, donde Josué desafía a Israel a decidir a quién van a servir y responde por su cuenta: «yo y mi casa serviremos a Jehová».\n\nLos tres apuntan al mismo lugar. El Jehová a quien Josué promete servir es Jesucristo antes de Su nacimiento, así que esa decisión no es entre religión y nada: es entre Él y cualquier otra cosa. Y 2 Nefi 32:3 explica por qué vale la pena: «las palabras de Cristo os dirán todas las cosas que debéis hacer». No es un versículo sobre leer más; es una promesa de que Él responde cuando no sabés qué hacer.\n\nEsta práctica no te pide memorizar un pasaje suelto, sino notar cómo los tres, juntos, responden preguntas reales: ¿en quién confío cuando no entiendo lo que pasa? (Proverbios 3:5–6). ¿Dónde busco dirección concreta? (2 Nefi 32:3). ¿Qué elijo hacer yo, hoy, sin esperar a que otros decidan primero? (Josué 24:15). Cada pasaje de Dominio de la Doctrina existe para un momento real de tu vida, no para un examen."
     },
     {
       "tipo": "escrituras",
@@ -27,70 +27,97 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Josué no esperó a que el resto de Israel decidiera antes de comprometerse él mismo: «yo y mi casa serviremos a Jehová», dijo, sin condicionarlo a lo que eligieran los demás. Ese mismo espíritu de decisión personal, y no solo de conocimiento memorizado, es lo que estos pasajes de dominio de la doctrina buscan desarrollar en vos. Esta semana, elegí uno de los tres versículos de esta práctica y decidí conscientemente vivirlo en una situación concreta, en vez de solo poder citarlo de memoria."
+      "contenido": "Josué no esperó a que Israel se decidiera para comprometerse él: «yo y mi casa serviremos a Jehová», y ese Jehová es el Salvador. Eso es lo que estos pasajes buscan formar en vos: no memoria, sino decisión personal, apoyada en Su promesa de que Sus palabras te van a decir qué hacer cuando no lo tengas claro. Esta semana elegí uno de los tres versículos, decidí conscientemente vivirlo en una situación concreta, y anotá qué pasó cuando lo hiciste."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Cuál de estos tres pasajes de dominio de la doctrina —Proverbios 3:5-6, 2 Nefi 32:3, Josué 24:15— recordás con más facilidad?",
-        "¿Qué significa para vos decir, como Josué, 'yo y mi casa serviremos a Jehová', sin esperar a que otros decidan primero?",
-        "¿Alguna vez tuviste que tomar una decisión de fe sin que nadie más a tu alrededor la tomara contigo?",
-        "¿Cómo usarías uno de estos tres versículos para ayudar a un amigo que está dudando de su fe?",
-        "¿Qué decisión personal, como la de Josué, podrías tomar esta semana sin esperar a que nadie más la tome primero?",
-        "¿A quién podrías compartirle uno de estos versículos esta semana, y por qué elegirías ese en particular?"
+        "¿Cuál de los tres pasajes —Proverbios 3:5–6, 2 Nefi 32:3, Josué 24:15— recordás con más facilidad?",
+        "¿Qué significa decir, como Josué, «yo y mi casa serviremos a Jehová», sin esperar a que otros decidan primero?",
+        "Volvé a leer 2 Nefi 32:3 en el bloque de escrituras. ¿Qué promete exactamente ese versículo sobre las palabras de Cristo, y qué implica eso para una decisión que tengas pendiente?",
+        "¿Alguna vez tuviste que tomar una decisión de fe sin que nadie a tu alrededor la tomara con vos?",
+        "¿Qué decisión personal, como la de Josué, vas a tomar esta semana? Orá por ella antes y anotá lo que sentiste.",
+        "¿A quién podrías compartirle uno de estos versículos esta semana, y por qué ese?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "Si alguien te pregunta cómo saber si Dios te conoce personalmente, ¿qué versículo de Isaías podrías usar?",
+      "question": "¿Qué declara Josué en Josué 24:15 después de desafiar al pueblo?",
       "options": [
-        "Isaías 5:1, sobre la parábola de la viña.",
-        "Isaías 49:15–16, donde el Señor declara que te tiene grabado en las palmas de Sus manos.",
-        "Isaías 1:18, sobre el perdón de pecados."
+        "Que esperaría la decisión de los ancianos antes de comprometerse.",
+        "Que él y su casa servirían a Jehová.",
+        "Que las tribus debían votar antes de renovar el convenio.",
+        "Que dejaría el liderazgo si el pueblo elegía otros dioses."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué pasaje de Isaías 40 sirve para testificar del poder del Señor a alguien que se siente agotado y sin esperanza?",
+      "question": "Según 2 Nefi 32:3, ¿qué harán las palabras de Cristo por quien se deleita en ellas?",
       "options": [
-        "Isaías 40:3, sobre preparar el camino del Señor.",
-        "Isaías 40:31, que promete renovar las fuerzas de quienes esperan en el Señor.",
-        "Isaías 40:1, el llamado a consolar al pueblo."
+        "Le darán temas de conversación para enseñar a otras personas.",
+        "Le permitirán responder cualquier pregunta sobre doctrina.",
+        "Le dirán todas las cosas que debe hacer.",
+        "Le asegurarán que sus problemas se resolverán pronto."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "Al practicar el Dominio de la doctrina, ¿por qué es importante explicar el contexto de un versículo antes de compartirlo?",
+      "question": "Según la lección, ¿quién es el Jehová a quien Josué promete servir?",
       "options": [
-        "Para que la conversación sea más larga.",
-        "Porque entender el contexto ayuda a que la persona vea el mensaje completo y no solo una frase aislada.",
-        "El contexto no importa si el versículo es poderoso."
+        "Un título que Israel usaba para el conjunto de la divinidad.",
+        "El ángel que había guiado al pueblo por el desierto.",
+        "El nombre del Padre Celestial en el idioma de los hebreos.",
+        "Jesucristo, antes de Su nacimiento en la tierra."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué principio del Dominio de la doctrina se aplica cuando alguien cuestiona la existencia de Dios?",
+      "question": "¿Qué tienen en común los tres pasajes de esta práctica, según la lección?",
       "options": [
-        "Buscar fuentes externas a las Escrituras para convencerlo.",
-        "Actuar con fe, acudir a las fuentes divinamente señaladas y analizar la pregunta con perspectiva eterna.",
-        "Evitar el tema para no generar conflictos."
+        "Responden preguntas reales: en quién confiar, dónde buscar y qué elegir.",
+        "Pertenecen los tres al mismo libro del Antiguo Testamento.",
+        "Se memorizan con más facilidad que los demás pasajes del curso.",
+        "Fueron dados en momentos de guerra por profetas distintos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Lucas es el único de su grupo que quiere sostener sus estándares y siente que no tiene sentido si nadie lo acompaña. ¿Qué le aporta Josué 24:15?",
+      "options": [
+        "Que busque otro grupo donde todos compartan sus mismos estándares.",
+        "Que la decisión de Josué fue personal y no dependió del resto.",
+        "Que hable con su grupo para convencerlos de acompañarlo.",
+        "Que las decisiones difíciles conviene tomarlas de a varios."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cómo puede memorizar versículos clave de Isaías ayudarte en tu vida diaria?",
+      "id": 6,
+      "question": "Emma no sabe qué hacer con una decisión importante y siente que Dios no le responde. ¿Qué le propone 2 Nefi 32:3?",
       "options": [
-        "Solo sirve para impresionar a los demás.",
-        "Tener las palabras del Señor en tu mente te permite acceder a Su fortaleza y consuelo en cualquier momento, incluso sin tener las Escrituras a mano.",
-        "No tiene valor práctico fuera de las clases de Seminario."
+        "Que espere una respuesta clara antes de mover cualquier ficha.",
+        "Que consulte con un líder de la Iglesia en lugar de decidir sola.",
+        "Que se deleite en las palabras de Cristo: ahí está la dirección.",
+        "Que tome la decisión que le parezca más razonable y siga adelante."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Proverbios 3:5–6 y Josué 24:15 se apoyan mutuamente. ¿En qué?",
+      "options": [
+        "Los dos fueron escritos en el mismo período de la historia de Israel.",
+        "Los dos advierten sobre el peligro de adorar dioses extranjeros.",
+        "Los dos se dirigen a líderes y no a personas comunes del pueblo.",
+        "Uno pide confiar en Él; el otro, decidir servirle sin esperar a nadie."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

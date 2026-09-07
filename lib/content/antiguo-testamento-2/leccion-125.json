@@ -30,7 +30,7 @@
       "autor": "Élder D. Todd Christofferson",
       "fuente": "«La doctrina de pertenencia», Conferencia General, octubre de 2022",
       "texto": "Jesucristo murió por mí; Él me consideró digno de Su sangre.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/28christofferson?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/28christofferson?lang=spa&id=p40#p40"
     },
     {
       "tipo": "conclusion",
@@ -40,64 +40,91 @@
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te parece la imagen de un matrimonio para describir la relación entre Dios y Su pueblo?",
-        "¿Alguna vez atravesaste una etapa de distancia espiritual —dudas, oraciones vacías— y sentiste que Dios se había alejado primero?",
-        "¿Qué te genera que Dios compare Su fidelidad con algo más estable que las montañas?",
-        "¿Qué significa para vos la frase del élder Christofferson: 'Jesucristo murió por mí; Él me consideró digno de Su sangre'?",
-        "¿Qué podrías hacer esta semana si estás atravesando un momento de distancia espiritual, sabiendo que es solo 'por un breve momento'?",
-        "¿A quién conocés que esté atravesando una etapa de duda o distancia de la fe, y cómo podrías recordarle esta promesa?"
+        "¿Alguna vez atravesaste una etapa de dudas u oraciones vacías y sentiste que Él se había alejado primero?",
+        "Volvé a leer Isaías 54:10 en el bloque de escrituras. ¿Con qué compara el Señor Su bondad, y por qué esa comparación es más fuerte de lo que parece a primera vista?",
+        "¿Qué significa para vos la frase del élder Christofferson: «Él me consideró digno de Su sangre»?",
+        "Si estás en un momento de distancia espiritual, ¿qué paso vas a dar esta semana? Llevalo a la oración y anotá lo que te venga a la mente.",
+        "¿A quién conocés que esté atravesando dudas, y cómo podrías recordarle esta promesa?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué imagen de relación usa el Señor en Isaías 54 para describir Su vínculo con Su pueblo?",
+      "question": "¿Qué imagen usa Isaías 54:5 para describir la relación entre Dios y Su pueblo?",
       "options": [
-        "La de un rey con sus súbditos.",
-        "La de un esposo con su esposa; el Señor es el Dios de toda la tierra y el esposo fiel de Su pueblo.",
-        "La de un maestro con sus alumnos."
+        "La de un pastor con su rebaño en el desierto.",
+        "La de un matrimonio: «tu marido es tu Hacedor».",
+        "La de un rey con los súbditos de su reino.",
+        "La de un labrador con la viña que él mismo ha plantado."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué promete el Señor en Isaías 54:10 que nunca se apartará?",
+      "question": "¿Cómo describe Isaías 54:7 el tiempo de distancia que sintió Israel?",
       "options": [
-        "Las tierras que dio a Israel.",
-        "Su misericordia y Su convenio de paz, aunque los montes se muevan y los collados tiemblen.",
-        "El templo de Jerusalén."
+        "Como un castigo que duraría hasta la siguiente generación.",
+        "Como una prueba enviada para medir la fe del pueblo.",
+        "Como un breve momento, seguido de grandes misericordias.",
+        "Como una consecuencia inevitable de sus decisiones."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué invitación se hace a Sion en Isaías 54:2 que los Santos de los Últimos Días conectan con el crecimiento de la Iglesia?",
+      "question": "¿Con qué compara Isaías 54:10 la bondad del Señor?",
       "options": [
-        "Que reduzca el tamaño de su campamento.",
-        "'Ensancha el sitio de tu tienda... alarga tus cuerdas y refuerza tus estacas', imagen del crecimiento de la obra del Señor en el mundo.",
-        "Que se prepare para la guerra."
+        "Con la luz del sol, que vuelve cada mañana sin falta.",
+        "Con el agua de un manantial que nunca se seca.",
+        "Con la lluvia que cae sobre justos e injustos por igual.",
+        "Con los montes: se moverán antes que se quite Su bondad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué promesa hace el Señor sobre los hijos de Sion en Isaías 54:13?",
+      "question": "Según la lección, ¿por qué es significativa la comparación con los montes?",
       "options": [
-        "Que serán los más ricos de la tierra.",
-        "Que todos sus hijos serán enseñados por el Señor y que será grande la paz de sus hijos.",
-        "Que nunca tendrán que enfrentar la guerra."
+        "Porque los montes son el símbolo mismo de lo permanente.",
+        "Porque Israel adoraba en los montes altos del país.",
+        "Porque los montes marcaban las fronteras del territorio.",
+        "Porque desde los montes se veía llegar a los enemigos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Amanda lleva meses orando sin sentir nada y concluye que Dios perdió interés en ella. ¿Qué le responde Isaías 54?",
+      "options": [
+        "Que revise si hay algo en su vida que esté causando esa distancia.",
+        "Que la distancia es «por un breve momento» y el convenio sigue.",
+        "Que las etapas de sequedad son normales y hay que esperarlas.",
+        "Que hable con su obispo antes de sacar esa conclusión."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cómo puede la promesa de Isaías 54:10 consolarte en momentos en que sientes que el amor de Dios se ha apartado de ti?",
+      "id": 6,
+      "question": "Enzo piensa que Dios lo quiere solo mientras él se porte bien. ¿Qué le corrige la imagen del matrimonio?",
       "options": [
-        "No aplica si hemos cometido errores graves.",
-        "Nos recuerda que el Señor puede apartar Su presencia por un momento, pero Su misericordia y convenio de paz son eternos e inquebrantables.",
-        "Solo aplica a quienes nunca han tenido dudas."
+        "Que el afecto de Dios se renueva cada vez que uno se arrepiente.",
+        "Que las bendiciones dependen siempre de la obediencia previa.",
+        "Que es un compromiso, no un sentimiento que va y viene.",
+        "Que la relación con Dios se parece a una amistad cercana."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "«Por un breve momento te abandoné» (54:7) y «no se quitará de ti mi bondad» (54:10) están en el mismo capítulo. ¿Cómo se explican juntos?",
+      "options": [
+        "El segundo corrige lo que el primero había dicho de más.",
+        "Los dos se refieren a dos etapas históricas distintas.",
+        "El primero habla del pueblo entero y el segundo, de cada persona en particular.",
+        "Reconoce la distancia sentida y promete que el convenio no se rompe."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

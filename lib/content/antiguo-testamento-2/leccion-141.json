@@ -30,7 +30,7 @@
       "autor": "Élder Russell M. Nelson",
       "fuente": "«La preparación personal para las bendiciones del templo», Conferencia General, abril de 2001",
       "texto": "El templo es la Casa del Señor. La base de toda ordenanza y convenio del templo —el corazón del Plan de Salvación— es la Expiación de Jesucristo.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2001/04/personal-preparation-for-temple-blessings?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2001/04/personal-preparation-for-temple-blessings?lang=spa&id=p5#p5"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué imagen te parece más poderosa: el pequeño hilo de agua que se convierte en un río imposible de cruzar, o la promesa de sanidad para todo lo que el agua toca?",
+        "¿Qué imagen te resulta más fuerte: el hilo de agua que se vuelve un río, o la sanidad de todo lo que el agua toca?",
         "¿Qué sentís cuando pensás en el templo: curiosidad, distancia, expectativa?",
-        "¿Alguna vez una impresión espiritual pequeña —como ese primer hilo de agua— creció hasta convertirse en algo que sostuvo una parte importante de tu vida?",
-        "¿Qué significa para vos que la Expiación de Jesucristo sea 'el corazón' de toda ordenanza del templo?",
-        "¿Qué paso pequeño y concreto podrías dar esta semana para prepararte mejor para las bendiciones del templo?",
-        "¿Con quién podrías hablar esta semana —tus padres, tu obispo— sobre tus propias metas relacionadas con el templo?"
+        "Volvé a leer Ezequiel 47:9 en el bloque de escrituras. ¿Qué le pasa a todo lo que entra en ese río, y qué palabra usa el versículo para describirlo?",
+        "¿Alguna vez una impresión espiritual pequeña creció hasta sostener algo importante de tu vida?",
+        "¿Qué paso pequeño vas a dar esta semana para prepararte para las bendiciones del templo? Pedile guía en oración y anotá cuál elegiste.",
+        "¿Con quién podrías hablar esta semana sobre tus metas relacionadas con el templo?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿De dónde fluía el río que vio Ezequiel en el capítulo 47?",
+      "question": "¿De dónde nace el agua que ve Ezequiel en su visión (Ezequiel 47:1)?",
       "options": [
-        "De las montañas del norte de Israel.",
-        "Del umbral del templo hacia el oriente, corriendo bajo el lado derecho del altar.",
-        "Del Mar Mediterráneo hacia el desierto."
+        "De un manantial en las montañas cercanas a Jerusalén.",
+        "De debajo del umbral de la casa, es decir, del templo.",
+        "Del río Jordán, desviado hacia la ciudad santa.",
+        "De una fuente que el pueblo cavó junto al altar."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué característica notable tenía el río mientras más avanzaba desde el templo?",
+      "question": "¿Qué le ocurre a todo lo que entra en ese río (Ezequiel 47:9)?",
       "options": [
-        "Se hacía cada vez más pequeño hasta desaparecer.",
-        "Se hacía cada vez más profundo: de los tobillos a las rodillas, a los lomos, hasta ser un río que no se podía pasar.",
-        "Cambiaba de color según la estación del año."
+        "Queda purificado para poder entrar al templo.",
+        "Se detiene hasta que el sacerdote lo autorice.",
+        "Vive, y las aguas lo sanan.",
+        "Es llevado por la corriente hasta el mar."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué efecto producía el río en todo lugar por donde pasaba?",
+      "question": "¿Qué imagen parecida usó Jesús en Juan 4:14?",
       "options": [
-        "Destruía las ciudades que no eran santas.",
-        "Sanaba las aguas; todo ser viviente que se movía por donde entraba el río vivía, y los árboles en sus orillas daban fruto para alimento y sus hojas para medicina.",
-        "Solo beneficiaba a quienes vivían cerca del templo."
+        "La de un pozo que hay que cavar hondo para hallar agua.",
+        "La de un cántaro que se rompe camino a la fuente.",
+        "La de la lluvia que empapa la tierra sedienta.",
+        "La de un agua que se vuelve fuente para vida eterna."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué representa el río del templo en el contexto del Evangelio de Jesucristo?",
+      "question": "Según la lección, ¿cómo empieza esa transformación en la vida de una persona?",
       "options": [
-        "El río Jordán donde fue bautizado Jesús.",
-        "El poder sanador y vivificante del Evangelio que fluye del Salvador y Sus ordenanzas, dando vida espiritual a todos los que lo reciben.",
-        "Los ríos físicos que rodearán el templo milenial."
+        "Pequeña —una impresión, una paz— y va creciendo con el tiempo.",
+        "De golpe, la primera vez que se entra en el templo.",
+        "Después de recibir todas las ordenanzas disponibles.",
+        "Cuando la persona alcanza la edad de servir en una misión."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Sabrina siente que el templo es «para los adultos» y que todavía no le corresponde. ¿Qué le propone esta lección?",
+      "options": [
+        "Que espere a cumplir la edad en que se reciben las ordenanzas del templo.",
+        "Que empiece con un paso pequeño de preparación, como el hilo de agua.",
+        "Que acompañe a su familia aunque no entienda del todo.",
+        "Que estudie la historia de los templos antes de acercarse."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cómo puedes experimentar el efecto sanador del 'río' del Evangelio en tu propia vida?",
+      "id": 6,
+      "question": "Lisandro fue una vez al templo, no sintió nada especial y decidió no volver. ¿Qué le agrega la visión de Ezequiel?",
       "options": [
-        "Solo visitando el templo físicamente.",
-        "Sumergiéndote más profundamente en las ordenanzas, las Escrituras, la oración y los convenios, dejando que el poder del Salvador fluya y sane todas las áreas de tu vida.",
-        "Esperando a que el Milenio llegue para experimentar esa sanación."
+        "Que la primera visita al templo suele ser la más significativa de todas.",
+        "Que conviene ir acompañado para vivirlo de otra manera.",
+        "Que el río empieza como un hilo: la fuerza se construye de a poco.",
+        "Que la falta de sentimientos indica que hay algo por corregir."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "El río de Ezequiel 47 y el agua viva de Juan 4:14 apuntan a la misma verdad. ¿Cuál?",
+      "options": [
+        "Que el agua era un bien escaso y valioso en aquella región.",
+        "Que los profetas antiguos preferían las imágenes tomadas de la naturaleza.",
+        "Que el templo antiguo tenía un sistema de canales subterráneos.",
+        "Que hay una fuente de vida que no se agota y transforma lo que toca."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

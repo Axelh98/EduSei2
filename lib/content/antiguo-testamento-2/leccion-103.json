@@ -30,7 +30,7 @@
       "autor": "Élder David A. Bednar",
       "fuente": "«Limpios de manos y puros de corazón», Liahona, noviembre de 2007",
       "texto": "Las manos se limpian mediante el proceso de despojarnos del hombre natural y de vencer el pecado y las malas influencias de nuestra vida por medio de la expiación del Salvador. El corazón se purifica al recibir Su poder fortalecedor para hacer el bien y llegar a ser mejores.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2007/11/clean-hands-and-a-pure-heart?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2007/11/clean-hands-and-a-pure-heart?lang=spa&id=p19#p19"
     },
     {
       "tipo": "conclusion",
@@ -39,63 +39,90 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué te parece más difícil de lograr: tener 'manos limpias' (tus acciones) o 'corazón puro' (tus intenciones)?",
-        "¿Por qué crees que el salmo menciona las dos cosas, y no alcanza con una sola?",
-        "¿Alguna vez actuaste correctamente por fuera pero sabías que tu corazón no estaba realmente ahí?",
-        "¿Qué relación ves entre este salmo y cómo te preparás (o te preparás) para entrar al templo?",
-        "¿Qué podrías hacer esta semana para acercar más tu corazón a tus acciones, para que ambos reflejen lo mismo?",
-        "¿En qué área de tu vida sentís que necesitás más la ayuda de la Expiación de Cristo para tener 'manos limpias y corazón puro'?"
+        "¿Qué te resulta más difícil: tener 'manos limpias' (tus acciones) o 'corazón puro' (tus intenciones)?",
+        "¿Por qué te parece que el salmo menciona las dos cosas y no alcanza con una sola?",
+        "Volvé a leer Salmos 24:3–4 en el bloque de escrituras. ¿Qué pregunta hace el versículo 3 y qué cuatro condiciones enumera el versículo 4 como respuesta?",
+        "¿Alguna vez actuaste correctamente por fuera sabiendo que tu corazón no estaba realmente ahí?",
+        "¿Qué área necesita más la ayuda de Él para que tus manos y tu corazón digan lo mismo? Pedíselo en oración esta semana y anotá lo que sentiste.",
+        "¿Qué relación ves entre este salmo y cómo te preparás para entrar al templo?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué verdad sobre el Señor declara el Salmo 24 al inicio?",
+      "question": "¿Qué pregunta atraviesa el Salmo 24?",
       "options": [
-        "Que el Señor habita solo en los cielos.",
-        "Que de Jehová es la tierra y su plenitud; el mundo y los que en él habitan.",
-        "Que el Señor ha abandonado la tierra a los hombres."
+        "¿Quién subirá al monte de Jehová y estará en Su lugar santo?",
+        "¿Hasta cuándo esperará el pueblo la llegada del Mesías?",
+        "¿Quién defenderá la ciudad cuando lleguen los enemigos?",
+        "¿Dónde quedará el arca del convenio una vez terminada la procesión?"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "Según el Salmo 24, ¿quién puede subir al monte del Señor y estar en Su lugar santo?",
+      "question": "¿Cuál es la respuesta que da el Salmo 24:4?",
       "options": [
-        "Solo los sacerdotes del templo.",
-        "El de manos limpias y corazón puro, que no ha elevado su alma a la vanidad.",
-        "Solo los que han sido bautizados."
+        "El que ha guardado la ley desde su juventud sin faltar nunca.",
+        "El limpio de manos y puro de corazón, que no jura con engaño.",
+        "El que pertenece al linaje sacerdotal de la tribu de Leví.",
+        "El que ha traído las ofrendas señaladas para cada fiesta."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿A quién se refiere el título 'Rey de gloria' en el Salmo 24?",
+      "question": "Según la lección, ¿por qué el salmo pide las dos cosas y no una sola?",
       "options": [
-        "Al rey David, por sus victorias militares.",
-        "A Jehová, que es fuerte y poderoso; una descripción de Jesucristo.",
-        "Al ángel que guardaba el templo."
+        "Porque la ley exigía pureza ritual además de pureza moral.",
+        "Porque los sacerdotes del templo revisaban las dos antes de dejar entrar a alguien.",
+        "Porque no alcanza con parecer correcto si el corazón está en otro lado.",
+        "Porque las manos se ensucian más rápido que el corazón."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Cómo te ayuda reflexionar en el Salmo 24 a prepararte para entrar en el templo?",
+      "question": "¿Cómo cambia el tono del salmo en el versículo 7?",
       "options": [
-        "Te da una lista exacta de requisitos físicos.",
-        "Te invita a examinar tu corazón y tu vida para ser digno de estar en la presencia del Señor.",
-        "Solo aplica a los sacerdotes del Antiguo Testamento."
+        "Pasa a describir la construcción del templo sobre el monte Moriah antiguo.",
+        "Enumera las bendiciones que recibe quien sube al monte.",
+        "Advierte a las naciones vecinas sobre el poder de Israel.",
+        "Deja de preguntar quién sube y anuncia que entra el Rey de gloria."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Qué conexión tiene el Salmo 24 con la Segunda Venida de Jesucristo?",
+      "question": "Antonia cumple con todo lo que se espera de ella en la Iglesia, pero admite que lo hace para que no la reten. ¿Qué le señala el Salmo 24?",
       "options": [
-        "Ninguna; es solo un salmo de alabanza sin significado profético.",
-        "La imagen del 'Rey de gloria' que entra por las puertas puede verse como una prefiguración del triunfo de Cristo al regresar.",
-        "El Salmo 24 predice exactamente la fecha de la Segunda Venida."
+        "Que las acciones correctas terminan formando por sí solas buenas intenciones.",
+        "Que su caso es común y no vale la pena preocuparse por eso.",
+        "Que la conducta externa alcanza mientras no perjudique a nadie.",
+        "Que las manos limpias sin corazón puro dejan la respuesta a medias."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Vicente siente que nunca va a estar «lo bastante limpio» para entrar al templo. ¿Qué le enseña el élder Bednar según la lección?",
+      "options": [
+        "Que las manos se limpian y el corazón se purifica por la Expiación.",
+        "Que conviene esperar a ser mayor para preocuparse por eso.",
+        "Que el requisito principal es la asistencia constante a las reuniones.",
+        "Que nadie llega del todo limpio y por eso la norma es flexible."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "El salmo empieza preguntando quién puede subir y termina anunciando al Rey que entra. ¿Qué enseña ese movimiento?",
+      "options": [
+        "Que la procesión del arca tenía dos partes bien diferenciadas.",
+        "Que el mismo Dios ante quien nos preparamos viene a Su pueblo.",
+        "Que solo el rey podía atravesar las puertas del lugar santo.",
+        "Que las condiciones del versículo 4 se aplicaban solo ese día."
       ],
       "correctAnswer": 1
     }

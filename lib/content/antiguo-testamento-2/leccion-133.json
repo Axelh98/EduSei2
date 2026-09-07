@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Desde la introducción a Isaías hasta el llamado de Jeremías, recorriste algunas de las profecías más citadas de todo el Antiguo Testamento sobre quién es Jesucristo: «se llamará su nombre Admirable, Consejero, Dios fuerte» (Isaías 9:6), «aunque vuestros pecados sean como la grana, como la nieve serán emblanquecidos» (Isaías 1:18), y «ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores» (Isaías 53:4). Cada uno de estos pasajes describe una faceta distinta de Cristo: Su identidad, Su poder para perdonar, Su capacidad de entender tu sufrimiento.\n\nEsta lección no agrega contenido nuevo: te invita a notar cuál de estas verdades sobre Cristo todavía no dejaste que cambiara algo concreto en tu vida diaria. Conocer estos títulos y promesas de memoria es un primer paso; dejar que realmente definan cómo enfrentás esta semana es el segundo."
+      "contenido": "Desde la introducción a Isaías hasta el llamado de Jeremías recorriste algunas de las profecías más citadas del Antiguo Testamento sobre quién es Jesucristo: «se llamará su nombre Admirable, Consejero, Dios fuerte» (Isaías 9:6), «aunque vuestros pecados sean como la grana, como la nieve serán emblanquecidos» (Isaías 1:18) y «ciertamente llevó él nuestras enfermedades y sufrió nuestros dolores» (Isaías 53:4).\n\nLos tres dicen algo distinto sobre Él, y conviene no mezclarlos. El primero responde quién es: no un maestro más, sino el Consejero al que se acude cuando no sabés qué decidir, y el Dios fuerte cuando a vos te falta fuerza. El segundo responde qué puede hacer con lo que hiciste: el tinte escarlata era, en esa época, la mancha que no salía con nada, y aun así la promesa es que queda blanca. Y el tercero responde algo que ninguna de las dos anteriores cubre: qué hace con lo que te duele sin que sea culpa tuya. No dice que lo entiende de lejos; dice que lo llevó.\n\nPuestos juntos, cubren casi todo lo que a alguien de tu edad le puede pasar en una semana: no saber qué hacer, haber hecho algo de lo que te arrepentís, y que algo te duela sin explicación. Isaías escribió eso setecientos años antes de que Él naciera.\n\nEsta lección no agrega contenido nuevo: te invita a notar cuál de esas tres verdades todavía no dejaste que cambiara algo concreto. Saberlas de memoria es el primer paso; dejar que definan cómo encarás esta semana es el segundo."
     },
     {
       "tipo": "escrituras",
@@ -32,65 +32,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Cuál de los tres títulos o promesas de Cristo repasados en esta lección sentís que más necesitás ahora mismo?",
-        "¿Qué verdad de Isaías o Jeremías te costó más entender en estas semanas de estudio?",
-        "¿Hubo algún momento reciente donde sentiste que uno de estos versículos realmente te ayudó, y no solo lo leíste?",
-        "¿Qué crees que todavía te falta aplicar de lo que aprendiste en esta unidad?",
-        "¿Qué meta pequeña y concreta podrías ponerte esta semana a partir de uno de estos tres pasajes?",
-        "¿A quién podrías compartirle esta semana uno de estos versículos, y por qué elegirías justamente ese?"
+        "¿Cuál de los tres títulos o promesas de Cristo repasados acá sentís que más necesitás ahora?",
+        "¿Qué verdad de Isaías o Jeremías te costó más entender en estas semanas?",
+        "Volvé a leer Isaías 53:3–5 en el bloque de escrituras. ¿Qué cosas dice que Él llevó y sufrió, y cuál de todas te resulta más difícil de creer que hizo también por vos?",
+        "¿Hubo algún momento reciente en que uno de estos versículos te ayudó de verdad, y no solo lo leíste?",
+        "¿Qué verdad de esta unidad vas a dejar actuar esta semana? Pedíselo a Él en oración y anotá el primer paso.",
+        "¿A quién podrías compartirle uno de estos versículos, y por qué justamente ese?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál de las promesas de Isaías estudiadas te ha impactado más personalmente y por qué sería útil memorizarla?",
+      "question": "¿Qué nombres da Isaías 9:6 al Mesías?",
       "options": [
-        "Isaías 40:12, sobre las medidas del universo.",
-        "Isaías 41:10: 'No temas, porque yo estoy contigo', porque es una promesa directa de presencia y fortaleza que aplica a cualquier circunstancia.",
-        "Isaías 45:20, sobre la inutilidad de los ídolos."
+        "Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz.",
+        "Rey de Israel, Redentor y Santo de Jacob.",
+        "Emanuel, Hijo del Altísimo, Cordero de Dios y Príncipe de los pastores.",
+        "Maestro, Profeta y Libertador de Su pueblo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué tema común une las profecías de Isaías y Jeremías que estudiaste estas semanas?",
+      "question": "¿Qué promete Isaías 1:18?",
       "options": [
-        "La descripción detallada de las guerras de Israel.",
-        "El llamado del Señor a Su pueblo a volver a Él, con promesas de restauración, perdón y un futuro glorioso.",
-        "Las instrucciones para construir el segundo templo."
+        "Que el pueblo recuperará las tierras que había perdido.",
+        "Que los pecados como la grana quedarán blancos como la nieve.",
+        "Que las ofrendas del templo serán aceptadas nuevamente.",
+        "Que los profetas seguirán hablando hasta el fin de los días."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Cómo el llamamiento de Jeremías en Jeremías 1:5 cambia la manera en que ves tu propio valor y propósito?",
+      "question": "Según la lección, ¿a qué responde cada uno de los tres pasajes?",
       "options": [
-        "No tiene aplicación personal; solo aplica a los profetas.",
-        "Nos recuerda que el Padre Celestial nos conoció antes de nacer y que tiene un propósito específico para nuestra vida, lo cual nos da valor eterno.",
-        "Solo aplica si has recibido una bendición patriarcal."
+        "Los tres describen exactamente la misma verdad desde ángulos parecidos.",
+        "Los tres anuncian acontecimientos del tiempo de Isaías.",
+        "Uno dice quién es Él, otro qué hace con tu culpa, y otro con tu dolor.",
+        "Uno se dirige a Israel, otro a Judá y otro a las naciones."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿De qué manera las profecías sobre la reunión de Israel tienen relevancia directa para tu vida hoy?",
+      "question": "¿Por qué la lección destaca que el tinte escarlata «no salía con nada»?",
       "options": [
-        "No tienen relevancia; son solo historia antigua.",
-        "Tú puedes ser parte de esa reunión al recibir las ordenanzas del Evangelio, hacer trabajo de historia familiar y compartir el Evangelio.",
-        "Solo aplican a los descendientes biológicos de Israel."
+        "Porque era el color más caro que se conseguía en esa época.",
+        "Porque los sacerdotes lo usaban en sus vestiduras rituales.",
+        "Porque su fabricación era un secreto de los mercaderes fenicios.",
+        "Porque hace más fuerte la promesa de que igual quedará blanca."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Ariadna sabe de memoria muchos versículos pero dice que su semana no cambia en nada por eso. ¿Qué le propone esta lección?",
+      "options": [
+        "Elegir una sola verdad y dejar que cambie algo concreto.",
+        "Memorizar menos versículos y estudiarlos con más calma.",
+        "Buscar pasajes nuevos que le resulten más interesantes.",
+        "Esperar a que llegue una prueba difícil para aplicarlos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Genaro está pasando por algo doloroso que no fue culpa suya. ¿Cuál de los tres pasajes responde mejor a su situación?",
+      "options": [
+        "Isaías 9:6, porque le da un nombre al que puede acudir.",
+        "Isaías 53:4, porque dice que Él llevó también ese dolor.",
+        "Isaías 1:18, porque le asegura que puede ser perdonado.",
+        "Jeremías 1:5, porque le recuerda que fue conocido antes de nacer."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "Mirando hacia atrás en estas semanas de estudio, ¿qué cambio en tu vida diaria refleja mejor haber aprendido estas verdades?",
+      "id": 7,
+      "question": "¿Qué muestra que Isaías escribiera los tres pasajes siete siglos antes del nacimiento de Cristo?",
       "options": [
-        "Haber memorizado más versículos de Isaías.",
-        "Sentir mayor confianza en el Señor, mayor deseo de compartir el Evangelio y mayor convicción de que tienes un propósito divino.",
-        "Haber terminado todas las lecciones sin faltar ningún día."
+        "Que los profetas hebreos conocían muy bien la historia de su propio pueblo.",
+        "Que los textos fueron editados después de los hechos narrados.",
+        "Que lo que Él haría estaba anunciado mucho antes de que ocurriera.",
+        "Que Isaías fue el único profeta que habló del Mesías."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

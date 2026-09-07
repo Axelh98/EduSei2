@@ -30,7 +30,7 @@
       "autor": "Élder Kent F. Richards",
       "fuente": "«La Expiación sana todo dolor», Conferencia General, abril de 2011",
       "texto": "Testifico que la respuesta es sí, hay un médico. La expiación de Jesucristo cubre todas esas condiciones y propósitos de la mortalidad.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/04/the-atonement-covers-all-pain?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/04/the-atonement-covers-all-pain?lang=spa&id=p14#p14"
     },
     {
       "tipo": "conclusion",
@@ -39,63 +39,90 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué te parece que Jesús haya usado exactamente este pasaje de Isaías para presentarse a Sí mismo en Nazaret?",
-        "¿Cuál de las tareas de Isaías 61 —vendar corazones rotos, liberar cautivos, consolar a los que lloran— sentís que más necesitás ahora mismo?",
-        "¿Alguna vez viviste algo parecido a lo de Alma: un dolor muy intenso que se transformó en un gozo igual de intenso?",
-        "¿Qué significa para vos que la Expiación 'cubra todas las condiciones y propósitos de la mortalidad', sin excepción?",
-        "¿Qué 'ceniza' específica de tu vida podrías entregarle a Cristo esta semana en oración?",
-        "¿A quién que esté atravesando una 'ceniza' —dolor, pérdida, cautiverio— podrías acompañar esta semana?"
+        "¿Qué te parece que Jesús haya usado justo este pasaje para presentarse en Nazaret?",
+        "¿Cuál de las tareas de Isaías 61 —vendar corazones, liberar cautivos, consolar— necesitás más ahora?",
+        "Volvé a leer Isaías 61:1–3 en el bloque de escrituras y hacé la lista de todo lo que el Mesías vendría a hacer. ¿Cuántas tareas contás, y cuál de todas no habías notado antes?",
+        "¿Alguna vez viviste algo parecido a lo de Alma: un dolor intenso que se transformó en un gozo igual de intenso?",
+        "¿Qué 'ceniza' concreta vas a entregarle esta semana? Llevásela en oración y anotá lo que sentiste.",
+        "¿A quién que esté atravesando su propia 'ceniza' podrías acompañar esta semana?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué texto de Isaías 61 leyó Jesús en la sinagoga de Nazaret para declarar el inicio de Su ministerio?",
+      "question": "¿Qué tareas enumera Isaías 61:1 para el Mesías prometido?",
       "options": [
-        "'El espíritu del Señor está sobre mí, porque me ha ungido para dar buenas nuevas a los pobres.'",
-        "'Venid a mí todos los que estáis trabajados y cargados.'",
-        "'El que cree en mí, aunque esté muerto, vivirá.'"
+        "Reconstruir el templo y restaurar el culto de Israel.",
+        "Reunir a las tribus dispersas entre las naciones.",
+        "Vendar a los quebrantados de corazón y proclamar libertad a los cautivos.",
+        "Escribir la ley en el corazón de todo el pueblo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿A quiénes específicamente vino a sanar y liberar el Mesías según Isaías 61:1–2?",
+      "question": "¿Qué dijo Jesús en la sinagoga de Nazaret después de leer ese pasaje (Lucas 4:21)?",
       "options": [
-        "Solo a los ricos y poderosos de Israel.",
-        "A los pobres, a los quebrantados de corazón, a los cautivos, a los ciegos y a los que lloran.",
-        "Solo a los sacerdotes y levitas."
+        "Que las profecías de Isaías se cumplirían en poco tiempo.",
+        "Que ese día se había cumplido esa Escritura ante ellos.",
+        "Que Isaías había sido el mayor de todos los profetas.",
+        "Que la sinagoga debía estudiar ese rollo con más atención."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué imagen de transformación usa Isaías 61:3 para los que están de luto?",
+      "question": "Según Alma 36:20–21, ¿cómo describió Alma el cambio que vivió?",
       "options": [
-        "Que recibirán espadas en lugar de heridas.",
-        "Que recibirán 'corona de belleza en lugar de ceniza, aceite de gozo en lugar de luto y manto de alegría en lugar de espíritu angustiado'.",
-        "Que serán convertidos en guerreros poderosos."
+        "Que su gozo fue tan intenso como había sido su dolor.",
+        "Que dejó de recordar por completo lo que había hecho antes.",
+        "Que el cambio ocurrió lentamente a lo largo de varios años.",
+        "Que su familia notó el cambio antes que él mismo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Cómo puedes ser tú un instrumento para cumplir la misión de Isaías 61 en la vida de quienes te rodean?",
+      "question": "Según la lección, ¿por qué Isaías 61 no describe una misión terminada?",
       "options": [
-        "Solo los líderes con autoridad del sacerdocio pueden hacerlo.",
-        "Siendo empático, sirviendo con amor, compartiendo el Evangelio y siendo una fuente de consuelo para quienes sufren.",
-        "Predicando públicamente en las calles."
+        "Porque la profecía tenía un cumplimiento previsto para el Milenio.",
+        "Porque el texto original admite varias traducciones posibles.",
+        "Porque Él sigue vendando corazones y liberando cautivos hoy.",
+        "Porque los apóstoles continuaron esa obra después de Su muerte."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "¿Qué promete el Señor en Isaías 61:7 para los que sufrieron vergüenza y deshonra?",
+      "question": "Celeste arrastra una culpa vieja que no se anima a soltar. ¿Qué tarea de Isaías 61 responde a su situación?",
       "options": [
-        "Que serán vengados de sus enemigos.",
-        "Que recibirán el doble en lugar de su vergüenza y que tendrán gozo eterno.",
-        "Que serán trasladados a un lugar donde nadie los conozca."
+        "Consolar a todos los que lloran en el día del Señor.",
+        "Anunciar el año de la buena voluntad de Jehová.",
+        "Reedificar los lugares que quedaron desolados.",
+        "Proclamar libertad a los cautivos."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Aarón cree que su dolor es tan grande que ya nada podría compensarlo. ¿Qué le muestra la experiencia de Alma?",
+      "options": [
+        "Que el gozo llegó con una intensidad proporcional a ese dolor.",
+        "Que el dolor se olvida cuando pasa el tiempo suficiente.",
+        "Que su caso probablemente no sea tan grave como el de Alma.",
+        "Que conviene concentrarse en ayudar a otros para distraerse."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "La lista de Isaías 61 y la lectura de Jesús en Nazaret se conectan. ¿Qué muestra esa conexión?",
+      "options": [
+        "Que en las sinagogas se leía a Isaías todos los días de reposo.",
+        "Que Él se identificó como el Mesías descripto en esa lista.",
+        "Que los presentes conocían de memoria el rollo de Isaías.",
+        "Que la profecía era conocida en Nazaret desde hacía siglos."
       ],
       "correctAnswer": 1
     }

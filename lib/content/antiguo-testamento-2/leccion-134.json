@@ -30,7 +30,7 @@
       "autor": "Élder Kelly R. Johnson",
       "fuente": "«Poder duradero», Conferencia General, octubre de 2020",
       "texto": "He aprendido que el tener la palabra de Dios en lo profundo del alma, junto con la fe en el Señor Jesucristo y Su expiación, me permiten recurrir al poder de Dios para vencer al adversario y a cualquier cosa que podría lanzarme.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/56johnson?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/56johnson?lang=spa&id=p13#p13"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué diferencia notás entre 'saber' una regla del Evangelio y tenerla realmente 'escrita en el corazón'?",
-        "¿Qué te genera que el amor de Dios se describa como 'amor eterno', sin condiciones previas?",
-        "¿Hay algo del Evangelio que conocés muy bien de memoria pero que todavía no cambia tus decisiones diarias?",
-        "¿Qué te parece la imagen de Pablo de una 'carta escrita en el corazón' en vez de en piedra?",
-        "¿Qué principio concreto del Evangelio podrías trabajar esta semana para que pase de ser 'conocimiento' a ser algo escrito en tu corazón?",
-        "¿Cómo se nota, en la práctica, cuando alguien tiene un principio realmente 'escrito en el corazón' y no solo memorizado?"
+        "¿Qué diferencia notás entre «saber» una regla del Evangelio y tenerla escrita en el corazón?",
+        "¿Qué te genera que el amor de Dios se describa como «amor eterno», sin condiciones previas?",
+        "Volvé a leer Jeremías 31:33 en el bloque de escrituras. ¿En qué dos lugares dice el Señor que pondrá Su ley, y qué diferencia hay entre uno y otro?",
+        "¿Hay algo del Evangelio que conocés muy bien pero que todavía no cambia tus decisiones?",
+        "¿Qué principio vas a trabajar esta semana para acortar esa distancia? Pedile ayuda en oración y anotá cómo te fue.",
+        "¿Cómo se nota, en la práctica, que alguien tiene un principio escrito en el corazón y no solo memorizado?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál es la diferencia principal entre el antiguo convenio y el nuevo convenio que el Señor promete en Jeremías 31:31–33?",
+      "question": "¿Cómo describe Jeremías 31:3 el amor de Dios por Su pueblo?",
       "options": [
-        "El nuevo convenio solo cambia los lugares de adoración.",
-        "El antiguo fue escrito en tablas de piedra; el nuevo convenio el Señor lo escribirá en la mente y en el corazón del pueblo.",
-        "El nuevo convenio elimina todos los mandamientos del antiguo."
+        "Como un amor que se gana con obediencia constante.",
+        "Como un amor eterno con el que los atrajo con misericordia.",
+        "Como un amor reservado solamente para quienes vuelven del exilio.",
+        "Como un amor que se renueva con cada generación."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué promesa hace el Señor en Jeremías 31:34 sobre el conocimiento de Dios bajo el nuevo convenio?",
+      "question": "¿Qué promete el Señor en Jeremías 31:33?",
       "options": [
-        "Que solo los sacerdotes podrán conocer al Señor.",
-        "Que todos conocerán al Señor, desde el más pequeño hasta el más grande, y que perdonará sus maldades.",
-        "Que el conocimiento de Dios será exclusivo para Israel."
+        "Que enviará profetas nuevos a cada una de las generaciones del pueblo.",
+        "Que devolverá al pueblo la tierra prometida a sus padres.",
+        "Que pondrá Su ley en la mente y la escribirá en el corazón.",
+        "Que reconstruirá el templo con mayor gloria que antes."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Cómo se cumple el nuevo convenio de Jeremías 31 en la Iglesia de Jesucristo restaurada?",
+      "question": "¿Qué imagen usa Pablo en 2 Corintios 3:3 para describir a los primeros cristianos?",
       "options": [
-        "A través de las leyes civiles de las naciones.",
-        "A través de las ordenanzas del Evangelio, el don del Espíritu Santo y el esfuerzo personal de guardar los mandamientos con un corazón cambiado.",
-        "Solo cuando se construya el templo de Jerusalén."
+        "Una carta de Cristo escrita en tablas de carne del corazón.",
+        "Un edificio cuya piedra angular es Jesucristo mismo.",
+        "Un cuerpo con muchos miembros y una sola cabeza.",
+        "Una vid con ramas que dan fruto solo si permanecen unidas a ella."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué imagen de amor paternal usa el Señor en Jeremías 31:9 para describir Su relación con el Israel que regresa?",
+      "question": "Según la lección, ¿cuál es la diferencia entre conocer una regla y tenerla en el corazón?",
       "options": [
-        "Como un rey que recibe a un embajador extranjero.",
-        "Como un padre que lleva a su hijo con lloro y consolaciones, guiándolo junto a ríos de aguas por camino recto.",
-        "Como un general que acepta la rendición de sus tropas."
+        "Que la regla conocida se olvida y la del corazón permanece.",
+        "Que una se aprende en la Iglesia y la otra, en la familia.",
+        "Que una se enseña a los demás y la otra se guarda solo para uno mismo.",
+        "Que una se puede recitar; la otra ya forma parte de cómo reaccionás."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Elisa sabe perfectamente que la honestidad importa, pero copió en una prueba sin pensarlo dos veces. ¿Qué le señala Jeremías 31:33?",
+      "options": [
+        "Que ese principio todavía no está escrito en su corazón.",
+        "Que necesita estudiar más sobre el tema de la honestidad.",
+        "Que su caso es común entre los estudiantes de su edad.",
+        "Que debería confesarlo antes de volver a rendir."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Marco cree que Dios lo va a querer más si mejora primero. ¿Qué le corrige Jeremías 31:3?",
+      "options": [
+        "Que la mejora personal siempre precede a las bendiciones.",
+        "Que el amor de Dios es eterno y atrae, no espera condiciones.",
+        "Que conviene fijarse metas alcanzables antes de orar.",
+        "Que el amor de Dios se percibe mejor después de arrepentirse."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué señal de permanencia da el Señor en Jeremías 31:35–36 para garantizar que Sus promesas a Israel nunca fallarán?",
+      "id": 7,
+      "question": "La ley escrita en el corazón (Jeremías 31:33) y la carta de Pablo (2 Corintios 3:3) enseñan lo mismo. ¿Qué?",
       "options": [
-        "Que enviará un ángel a recordarlas cada generación.",
-        "Que si las leyes del sol, la luna y las estrellas se apartan, entonces la simiente de Israel también cesará; es decir, Sus promesas son tan firmes como la Creación.",
-        "Que construirá un monumento imperecedero en Jerusalén."
+        "Que la ley antigua fue reemplazada por una enteramente nueva.",
+        "Que escribir era la forma habitual de conservar la doctrina.",
+        "Que lo que de verdad guía no es lo externo, sino lo que quedó adentro.",
+        "Que los primeros cristianos conocían muy bien a los profetas hebreos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

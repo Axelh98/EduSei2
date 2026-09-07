@@ -30,7 +30,7 @@
       "autor": "Élder Neil L. Andersen",
       "fuente": "«Al concentrarse mi mente en pensar en Jesucristo», Conferencia General, abril de 2023",
       "texto": "Ocupar la mente con el poder de Jesucristo no significa que Él sea el único pensamiento que tengamos, sino que significa que todos nuestros pensamientos estén circunscritos a Su amor, Su vida, Sus enseñanzas, Su sacrificio expiatorio y Su gloriosa resurrección... Son bien recibidos en la mente imágenes divinas, pasajes sagrados de las Escrituras e himnos inspirados que suavizan con ternura el sinfín de pensamientos diarios que se precipitan en nuestra vida ajetreada.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/45andersen?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/45andersen?lang=spa&id=p28#p28"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué tipo de pensamientos sobre vos mismo se te repiten más seguido, buenos o negativos?",
+        "¿Qué tipo de pensamientos sobre vos mismo se te repiten más seguido?",
         "¿Alguna vez notaste que un pensamiento negativo cambió cómo actuaste ese día?",
-        "¿Qué herramientas —música, oración, Escrituras— te han ayudado antes a cambiar un mal momento mental?",
+        "Volvé a leer Isaías 26:3–4 en el bloque de escrituras. ¿Qué condición pone el versículo 3 para recibir «completa paz», y en qué dice el 4 que hay que confiar?",
         "¿Qué te genera saber que Dios conoce cada uno de tus pensamientos, incluso los difíciles?",
-        "¿Qué podrías hacer esta semana la próxima vez que aparezca un pensamiento negativo repetido, según lo que enseña el élder Andersen?",
-        "¿A quién podrías contarle esta semana si notás que tus pensamientos se están volviendo demasiado negativos?"
+        "La próxima vez que aparezca un pensamiento negativo repetido, ¿con qué lo vas a reemplazar? Probalo esta semana y anotá si cambió algo.",
+        "¿A quién podrías contarle si notás que tus pensamientos se están volviendo demasiado negativos?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Por qué es importante prestar atención a los pensamientos que tienes habitualmente?",
+      "question": "¿Qué dice el Salmo 139:2 sobre lo que Dios conoce?",
       "options": [
-        "Porque los pensamientos no afectan realmente nuestras acciones.",
-        "Porque los pensamientos influyen directamente en nuestros sentimientos y en nuestro comportamiento.",
-        "Solo importa lo que haces, no lo que piensas."
+        "Que entiende tus pensamientos desde lejos.",
+        "Que conoce solamente las acciones que ya realizaste.",
+        "Que espera a que le cuentes lo que estás pensando.",
+        "Que juzga cada pensamiento apenas aparece en la mente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué consejo da el apóstol Pablo en Filipenses 4:8 sobre el pensamiento?",
+      "question": "¿Qué promete Isaías 26:3?",
       "options": [
-        "Que debemos pensar solo en cosas religiosas.",
-        "Que debemos ocupar nuestra mente en cosas verdaderas, honestas, justas, puras y de buen nombre.",
-        "Que debemos evitar pensar en los problemas de la vida."
+        "Que los pensamientos difíciles desaparecerán con el tiempo.",
+        "Completa paz a aquel cuyo pensamiento se apoya en Él.",
+        "Que quien piense correctamente no atravesará pruebas.",
+        "Que la mente se aquieta cuando uno guarda silencio."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué es un 'pensamiento distorsionado' según esta lección?",
+      "question": "¿Qué instrucción da Doctrina y Convenios 6:36?",
       "options": [
-        "Un pensamiento que viene del diablo directamente.",
-        "Un patrón de pensar que no refleja la realidad, como creer que todo siempre sale mal.",
-        "Un pensamiento que solo tienen las personas con enfermedades mentales."
+        "Que se examinen los pensamientos al final de cada día.",
+        "Que se anoten las impresiones apenas se reciben.",
+        "Mirar hacia Él en todo pensamiento; no dudar ni temer.",
+        "Que se eviten los lugares donde surgen malas ideas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Cómo puede el Espíritu Santo ayudarte a cambiar patrones de pensamiento negativos?",
+      "question": "Según el élder Andersen, ¿qué significa ocupar la mente con Cristo?",
       "options": [
-        "Eliminando automáticamente todos tus pensamientos malos.",
-        "Guiándote hacia la verdad y recordándote el amor de Dios cuando el pensamiento negativo aparece.",
-        "Solo actúa si primero te bautizas de nuevo."
+        "Pensar únicamente en Él durante todo el día, sin ninguna distracción.",
+        "Dedicar un momento fijo de la jornada a la meditación.",
+        "Reemplazar cualquier pensamiento cotidiano por uno religioso.",
+        "Que todos los pensamientos queden circunscritos a Su amor y Su vida."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "A Emiliano se le repite que «siempre arruina todo» cada vez que se equivoca. ¿Qué le propone esta lección?",
+      "options": [
+        "Redirigir ese pensamiento hacia una Escritura, un himno o una oración.",
+        "Ignorar el pensamiento hasta que deje de aparecer solo.",
+        "Aceptarlo como algo normal de la forma de ser de cualquier persona, y seguir.",
+        "Contárselo enseguida a todos sus amigos más cercanos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Trinidad cree que tener pensamientos oscuros significa que su fe es débil. ¿Qué le responde el Salmo 139?",
+      "options": [
+        "Que debería estudiar mucho más para poder fortalecer su testimonio.",
+        "Que Él ya los conoce y aun así se queda: no está sola ahí dentro.",
+        "Que esos pensamientos vienen siempre del adversario.",
+        "Que conviene no prestarles atención hasta que se vayan."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué diferencia hay entre un pensamiento negativo ocasional y un patrón de pensamiento dañino?",
+      "id": 7,
+      "question": "«Has entendido mis pensamientos» (Salmos 139:2) y «mirad hacia mí en todo pensamiento» (D. y C. 6:36) se complementan. ¿Cómo?",
       "options": [
-        "No hay diferencia; ambos son igualmente peligrosos.",
-        "Un patrón dañino es un hábito repetitivo que distorsiona la realidad y erosiona la confianza en Dios y en uno mismo.",
-        "Los pensamientos negativos solo son dañinos si los dices en voz alta."
+        "Los dos advierten sobre el peligro de los malos pensamientos.",
+        "Los dos piden vigilar la mente antes de que aparezca la tentación.",
+        "Él ya conoce lo que pensás, y por eso puede pedirte que mires hacia Él.",
+        "Los dos fueron dados en momentos de crisis grave del pueblo del convenio."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

@@ -33,64 +33,91 @@
       "tipo": "cuestionario",
       "preguntas": [
         "De las lecciones de Job, los Salmos, Proverbios y Eclesiastés, ¿cuál te dejó pensando más?",
-        "¿Qué pregunta grande de esta unidad —sobre el sufrimiento, la muerte, la sabiduría, el propósito de la vida— es la que más te interesa a vos personalmente?",
-        "¿Hubo algún versículo de estas semanas que sentiste que te hablaba directamente a vos?",
-        "¿Qué verdad de esta unidad crees que todavía no aplicaste realmente en tu vida diaria?",
-        "¿Qué meta pequeña y concreta podrías ponerte esta semana a partir de algo que aprendiste en estas lecciones?",
-        "¿A quién podrías compartirle algo que aprendiste en esta unidad, y por qué elegirías contarle justo a esa persona?"
+        "¿Qué pregunta grande de esta unidad —el sufrimiento, la muerte, la sabiduría, el propósito— te interesa más a vos?",
+        "Volvé a leer Job 14:14 y Eclesiastés 12:13–14 en el bloque de escrituras. ¿Qué pregunta hace uno y qué respuesta da el otro, y cómo se completan entre sí?",
+        "¿Hubo algún versículo de estas semanas que sentiste que te hablaba directamente?",
+        "¿Qué verdad de esta unidad todavía no aplicaste? Elegí una, pedile ayuda a Él en oración y anotá el primer paso.",
+        "¿A quién podrías compartirle algo que aprendiste en esta unidad, y por qué esa persona?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué tema común une los Salmos, Proverbios y Eclesiastés?",
+      "question": "¿Qué pregunta se hizo Job en medio de su sufrimiento (Job 14:14)?",
       "options": [
-        "Todos describen batallas históricas de Israel.",
-        "Todos nos invitan a buscar al Señor como la fuente verdadera de sabiduría, paz y sentido.",
-        "Todos fueron escritos por el mismo autor."
+        "Si el hombre muriere, ¿volverá a vivir?",
+        "¿Quién puede entender los caminos del Todopoderoso?",
+        "¿Por qué prosperan los malvados mientras sufren los justos?",
+        "¿Hasta cuándo esconderá Dios Su rostro de mi angustia?"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "Si tuvieras que elegir un versículo de estos libros para memorizar, ¿cuál de los siguientes sería más aplicable a la vida diaria?",
+      "question": "¿Cómo describe el Salmo 119:105 la palabra de Dios?",
       "options": [
-        "Salmo 136:1 — 'Alabad a Jehová, porque Él es bueno.'",
-        "Proverbios 3:5–6 — 'Confía en el Señor con todo tu corazón y no te apoyes en tu propia prudencia.'",
-        "Eclesiastés 1:2 — 'Vanidad de vanidades, todo es vanidad.'"
+        "Como un escudo que detiene los dardos del adversario.",
+        "Como una lámpara a los pies y una luz para el camino.",
+        "Como un tesoro más valioso que el oro más puro.",
+        "Como una espada de dos filos que discierne el corazón."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué patrón de crecimiento espiritual has podido notar en tu propio estudio durante estas semanas?",
+      "question": "¿A qué conclusión llegó Eclesiastés después de probarlo todo (Eclesiastés 12:13)?",
       "options": [
-        "Solo importa cuántas lecciones completaste.",
-        "Lo importante es reflexionar honestamente en si tu fe, tu amor al Señor y tu deseo de seguirlo han crecido.",
-        "El crecimiento solo se mide por cuántos versículos memorizaste."
+        "Que la sabiduría humana basta si se la aplica con prudencia.",
+        "Que conviene disfrutar cada día sin pensar en el futuro.",
+        "Que temer a Dios y guardar Sus mandamientos es el todo del hombre.",
+        "Que las riquezas no son malas si se usan para hacer el bien."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "Según lo aprendido en Eclesiastés, ¿qué consecuencia tiene buscar la felicidad solo en las cosas del mundo?",
+      "question": "Según la lección, ¿qué tienen en común Job, el salmista y Salomón?",
       "options": [
-        "Conduce a una vida plena y satisfecha.",
-        "Resulta en una sensación de vacío, porque solo Dios puede llenar la necesidad más profunda del alma.",
-        "Es perfectamente aceptable si también vas a la Iglesia."
+        "Los tres escribieron sus libros en el mismo período histórico.",
+        "Los tres fueron reyes que gobernaron sobre el pueblo de Israel.",
+        "Los tres recibieron respuestas completas a todas sus preguntas.",
+        "Los tres llegaron a confiar en Dios sin entenderlo todo."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Zoe estudió toda la unidad y sacó buenas notas, pero nada cambió en su semana. ¿Qué propone una lección de evaluación?",
+      "options": [
+        "Repasar el material otra vez hasta recordarlo mejor.",
+        "Detenerse a elegir una verdad y aplicarla a algo concreto.",
+        "Avanzar a la unidad siguiente y volver a esta más adelante.",
+        "Comparar sus notas con las de otros compañeros de la clase."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué pequeño cambio en tu rutina diaria podrías hacer para aplicar las enseñanzas de estos libros?",
+      "id": 6,
+      "question": "Matilde dice que le sirve más una respuesta clara que una promesa sin explicación. ¿Qué le muestra Job?",
       "options": [
-        "Leer todos los Salmos en una sola semana.",
-        "Comenzar el día con una oración y un versículo de los Proverbios o Salmos para orientar tus pensamientos hacia el Señor.",
-        "Solo leer las Escrituras los domingos."
+        "Que las respuestas claras llegan a quienes las piden con fe.",
+        "Que las preguntas grandes se responden recién en la otra vida.",
+        "Que él sostuvo su fe con una certeza y no con una explicación.",
+        "Que conviene dejar de hacerse preguntas difíciles por un tiempo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "La pregunta de Job, la lámpara del salmista y la conclusión de Eclesiastés apuntan a lo mismo. ¿A qué?",
+      "options": [
+        "A que la vida terrenal es demasiado breve para entenderla.",
+        "A que las tres respuestas se encuentran en el mismo libro.",
+        "A que la sabiduría llega después de haber sufrido mucho.",
+        "A que hay un Dios real en quien se puede confiar sin verlo todo."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

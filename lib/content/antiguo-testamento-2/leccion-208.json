@@ -30,7 +30,7 @@
       "autor": "Presidente Russell M. Nelson",
       "fuente": "«Juventud de Israel», Devocional Mundial para Jóvenes Adultos, 3 de junio de 2018",
       "texto": "Mis queridos jóvenes extraordinarios, ustedes fueron enviados a la tierra en este preciso momento, el momento más crucial en la historia del mundo, para ayudar a recoger a Israel. No hay nada que esté ocurriendo en esta tierra ahora que sea más importante que eso. No hay nada que sea de mayor consecuencia. Absolutamente nada.",
-      "link": "https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa&id=p79#p79"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué sentiste al leer que el presidente Nelson dice que fuiste enviado a la tierra específicamente 'en este preciso momento'?",
-        "¿Qué entendías antes por 'reunir a Israel', y cambió algo después de esta lección?",
-        "¿Alguna vez ayudaste a alguien, sin ser una misión formal, a acercarse un poco más a Cristo o a la Iglesia?",
-        "¿Qué te parece la idea de que 'así de sencillo' puede ser reunir a Israel: cualquier cosa que ayude a alguien a acercarse a Dios?",
-        "¿Qué acción pequeña y concreta podrías hacer esta semana que cuente como parte de esta 'obra de recogimiento'?",
-        "¿Te gustaría 'alistarte en el batallón de jóvenes del Señor', como invitó el presidente Nelson? ¿Qué significaría eso para vos en la práctica?"
+        "¿Qué sentiste al leer que fuiste enviado a la tierra «en este preciso momento»?",
+        "¿Qué entendías antes por «reunir a Israel», y cambió algo después de esta lección?",
+        "Volvé a leer 3 Nefi 21:1–2 en el bloque de escrituras. ¿Qué promete el Salvador que hará con Su pueblo, y qué establecerá otra vez entre ellos?",
+        "¿Alguna vez ayudaste a alguien, sin ser una misión formal, a acercarse un poco más a Cristo?",
+        "¿Qué acción concreta vas a hacer esta semana como parte de esa obra? Pedile guía en oración y anotá cuál elegiste.",
+        "¿Qué significaría en la práctica «alistarte en el batallón de jóvenes del Señor»?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué título le da el presidente Nelson a los jóvenes de la Iglesia en los últimos días?",
+      "question": "¿Qué promete el Salvador en 3 Nefi 21:1?",
       "options": [
-        "Los guerreros del futuro.",
-        "La esperanza de Israel.",
-        "Los embajadores del Evangelio."
+        "Recoger a Su pueblo de su larga dispersión y establecer Sion.",
+        "Enviar señales en el cielo antes de Su segunda venida.",
+        "Restaurar el templo de Jerusalén a su antigua gloria.",
+        "Reunir a los doce discípulos para darles una última instrucción."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "Según el presidente Nelson, ¿para qué fuiste reservado para venir a la tierra en este tiempo?",
+      "question": "Según Doctrina y Convenios 39:11, ¿cuál es el vehículo de esa reunión?",
       "options": [
-        "Para disfrutar de las comodidades modernas.",
-        "Para ayudar a reunir a Israel de ambos lados del velo, que es la obra más importante de la historia.",
-        "Para construir más templos alrededor del mundo."
+        "La construcción de templos en todos los continentes.",
+        "Predicar la plenitud del Evangelio, el convenio enviado para recobrar a Israel.",
+        "El estudio de la genealogía de todas las familias del antiguo convenio de Israel.",
+        "La emigración de los santos hacia un mismo territorio."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué necesita el presidente Nelson de los jóvenes para llevar adelante la obra del Señor?",
+      "question": "Según el presidente Nelson, ¿cuándo estás ayudando a recoger a Israel?",
       "options": [
-        "Solo que asistan a la Iglesia cada domingo.",
-        "Que sean valientes, que estudien el Evangelio, que sirvan y que lideren en rectitud.",
-        "Que esperen hasta ser adultos para participar activamente."
+        "Cuando servís una misión de tiempo completo en otro país.",
+        "Cuando recibís un llamamiento oficial relacionado directamente con la obra.",
+        "Cada vez que ayudás a alguien a dar un paso hacia los convenios.",
+        "Cuando invitás a un amigo a asistir a una reunión dominical."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué tiene de especial la generación de jóvenes de hoy según las enseñanzas de los profetas?",
+      "question": "¿Cómo describió el presidente Nelson el momento en que nacieron los jóvenes de hoy?",
       "options": [
-        "Que son más inteligentes que las generaciones anteriores.",
-        "Que fueron reservados para este tiempo porque el Padre Celestial confiaba en su fortaleza y capacidad para enfrentar los desafíos de los últimos días.",
-        "Que tendrán menos pruebas que las generaciones anteriores."
+        "Como una época difícil que exigirá más sacrificio que antes.",
+        "Como un tiempo parecido al de las primeras generaciones de santos.",
+        "Como el período previo a las señales anunciadas por los profetas.",
+        "Como el momento más crucial en la historia del mundo."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Zacarías piensa que no puede aportar nada porque no tiene ningún llamamiento. ¿Qué le responde esta lección?",
+      "options": [
+        "Que la obra avanza igual sin la participación de cada joven de la Iglesia.",
+        "Que cualquier acción que acerque a alguien a Cristo ya cuenta.",
+        "Que espere hasta recibir una asignación de su obispo.",
+        "Que se concentre en prepararse para su futura misión."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué invitación personal hace el presidente Nelson a cada joven al final de su mensaje?",
+      "id": 6,
+      "question": "Noa quiere ayudar pero solo piensa en personas vivas. ¿Qué agrega el presidente Nelson?",
       "options": [
-        "Que se enfoquen en sus estudios académicos ante todo.",
-        "Que sean parte de la causa de Israel, que quiten las cadenas del pecado y lideren la obra de reunir a Israel.",
-        "Que esperen a recibir una revelación personal antes de actuar."
+        "Que la obra empieza siempre por la propia familia cercana.",
+        "Que conviene concentrarse en quienes ya conocen la Iglesia.",
+        "Que la obra incluye a las personas de ambos lados del velo.",
+        "Que los jóvenes deberían priorizar el trabajo del templo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "La promesa de 3 Nefi 21:1 y la invitación del presidente Nelson se conectan. ¿Cómo?",
+      "options": [
+        "Las dos anuncian que la reunión terminará dentro de esta misma generación.",
+        "Las dos describen señales que precederán a la segunda venida.",
+        "Las dos se dirigen únicamente a los descendientes de Lehi.",
+        "Él prometió recoger a Su pueblo, y hoy te pide ayudarlo a hacerlo."
+      ],
+      "correctAnswer": 3
     }
   ]
 }

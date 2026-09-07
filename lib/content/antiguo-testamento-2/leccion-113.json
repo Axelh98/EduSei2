@@ -30,7 +30,7 @@
       "autor": "Élder Jeffrey R. Holland",
       "fuente": "«La grandiosidad de Dios», Conferencia General, octubre de 2003",
       "texto": "La gran verdad es que en todo lo que Jesús vino a hacer y a decir, incluso Su sufrimiento y sacrificio expiatorio, y en eso especialmente, Él nos estaba enseñando quién es y cómo es Dios nuestro Padre Eterno, cuán intensamente se dedica a Sus hijos en toda época y en toda nación.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2003/10/the-grandeur-of-god?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2003/10/the-grandeur-of-god?lang=spa&id=p3#p3"
     },
     {
       "tipo": "conclusion",
@@ -39,65 +39,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué título de Cristo mencionado en Isaías 9:6 —Consejero, Príncipe de paz, Dios fuerte— sentís que necesitás más en este momento de tu vida?",
-        "¿Por qué crees que el propio Jesús resucitado dio un mandamiento específico de estudiar las palabras de Isaías?",
-        "¿Te habías animado antes a leer capítulos de Isaías por tu cuenta, o te parecían demasiado difíciles?",
-        "¿Qué diferencia hace saber que el propósito de Isaías siempre fue señalar a Cristo, y no confundir al lector?",
-        "¿Qué capítulo de Isaías te gustaría leer esta semana, usando la pregunta '¿qué me dice esto sobre Jesucristo?' como guía?",
-        "¿A quién le podrías compartir esta semana algo que aprendiste sobre Isaías, para ayudarlo a perderle el miedo a ese libro?"
+        "¿Qué título de Cristo de Isaías 9:6 —Consejero, Príncipe de paz, Dios fuerte— necesitás más ahora?",
+        "¿Por qué te parece que el propio Jesús resucitado mandó estudiar las palabras de Isaías?",
+        "Volvé a leer Isaías 9:6 en el bloque de escrituras y contá todos los nombres que se le dan. ¿Cuál de ellos describe algo que ya viste que Él hizo por vos?",
+        "¿Te habías animado antes a leer Isaías por tu cuenta, o te parecía demasiado difícil?",
+        "¿Qué capítulo de Isaías vas a leer esta semana con la pregunta «¿qué me dice esto sobre Jesucristo?»? Anotá lo que encuentres.",
+        "¿A quién podrías ayudar esta semana a perderle el miedo a ese libro?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Por qué el libro de Isaías es considerado especialmente importante en las Escrituras?",
+      "question": "¿Qué mandamiento dio el Salvador resucitado en 3 Nefi 23:1?",
       "options": [
-        "Porque es el libro más largo del Antiguo Testamento.",
-        "Porque Isaías es el profeta más citado en el Nuevo Testamento, el Libro de Mormón y Doctrina y Convenios.",
-        "Porque Isaías fue el rey más importante de Israel."
+        "Que escudriñaran diligentemente las palabras de Isaías.",
+        "Que enseñaran a sus hijos las profecías desde pequeños.",
+        "Que escribieran lo que Él había hecho entre ellos.",
+        "Que guardaran los registros en un lugar seguro."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿En qué época histórica profetizó Isaías?",
+      "question": "Según 1 Nefi 19:23, ¿para qué leyó Nefi las palabras de Isaías a sus hermanos?",
       "options": [
-        "Durante el éxodo de Egipto.",
-        "Durante el reinado de varios reyes de Judá, aproximadamente 700 años antes de Cristo.",
-        "Durante la construcción del templo de Salomón."
+        "Para demostrarles que él conocía mejor las Escrituras.",
+        "Para convencerlos más plenamente de creer en su Redentor.",
+        "Para explicarles la historia de las tribus de Israel.",
+        "Para que aprendieran el estilo poético que usaban los profetas."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Cuál es una de las razones por las que leer a Isaías puede parecer difícil?",
+      "question": "¿Qué nombres da Isaías 9:6 al Mesías que vendría?",
       "options": [
-        "Porque está escrito en un idioma muy moderno.",
-        "Porque usa un lenguaje poético y simbólico, y se refiere a eventos históricos que requieren contexto para entenderlos.",
-        "Porque no fue traducido correctamente al español."
+        "Rey de Israel, Santo de Jacob, Redentor del mundo y Señor de los ejércitos.",
+        "Buen Pastor, Puerta del redil y Luz verdadera.",
+        "Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz.",
+        "Emanuel, Hijo del Hombre y Cordero sin mancha."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué tipos de temas principales encontrarás en el libro de Isaías?",
+      "question": "Según la lección, ¿cuál es la clave para entender un pasaje difícil de Isaías?",
       "options": [
-        "Solo advertencias de destrucción para los malvados.",
-        "La misión de Jesucristo, la apostasía, la Restauración, los últimos días y la redención de Israel.",
-        "Solo historia política de los reinos de Israel y Judá."
+        "Descifrar con precisión académica cada símbolo poético.",
+        "Leerlo en voz alta varias veces hasta que suene familiar.",
+        "Buscar primero el contexto histórico de cada capítulo.",
+        "Preguntarse qué dice ese pasaje sobre Jesucristo."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Joaquina abre Isaías, no entiende nada en dos páginas y lo cierra. ¿Qué le propone esta lección?",
+      "options": [
+        "Que lea con la pregunta puesta en Cristo, y no en descifrar todo.",
+        "Que empiece por los capítulos más cortos y vaya avanzando muy despacio.",
+        "Que consiga una versión moderna en un lenguaje más simple.",
+        "Que deje Isaías para cuando tenga más años de estudio."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Ramón atraviesa una época de mucha ansiedad y no sabe qué buscar en las Escrituras. ¿Qué título de Isaías 9:6 le habla directamente?",
+      "options": [
+        "Padre eterno, porque describe la relación con el Padre Celestial.",
+        "Príncipe de paz, porque es lo que necesita en medio del caos.",
+        "Dios fuerte, porque asegura que nada puede vencerlo a Él.",
+        "Admirable, porque invita a asombrarse ante Su grandeza."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué consejo práctico se da para entender mejor las profecías de Isaías?",
+      "id": 7,
+      "question": "El mandamiento de 3 Nefi 23:1 y el propósito de 1 Nefi 19:23 se explican mutuamente. ¿Cómo?",
       "options": [
-        "Leerlas sin buscar ningún contexto histórico.",
-        "Pedir la guía del Espíritu Santo, buscar el contexto histórico y comparar con otras Escrituras que citan a Isaías.",
-        "Saltarse los capítulos difíciles y leer solo los que tienen versículos conocidos."
+        "Uno se dirige a los nefitas y el otro, a los lamanitas de aquella época.",
+        "Uno habla del pasado y el otro anuncia el futuro.",
+        "Se manda estudiar a Isaías porque sus palabras llevan a creer en Él.",
+        "Los dos piden memorizar los capítulos más conocidos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

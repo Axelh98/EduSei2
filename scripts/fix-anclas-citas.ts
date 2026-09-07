@@ -115,7 +115,9 @@ async function parrafosDe(link: string): Promise<Parrafo[] | null> {
     await dormir(400)
   }
   const ps: Parrafo[] = []
-  for (const m of body.matchAll(/<p[^>]*\bid="(p\d+)"[^>]*>([\s\S]*?)<\/p>/g)) {
+  // Los ids no siempre son `pN`: las citas que viven en una barra lateral del manual usan
+  // `aside1_p10`, y esos párrafos también son anclables. Capturar solo /p\d+/ los deja afuera.
+  for (const m of body.matchAll(/<p[^>]*\bid="([A-Za-z0-9_]*p\d+)"[^>]*>([\s\S]*?)<\/p>/g)) {
     ps.push({ id: m[1], texto: limpiar(m[2]) })
   }
   return ps

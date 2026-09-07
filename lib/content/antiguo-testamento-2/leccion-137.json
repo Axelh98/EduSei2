@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Esta práctica te invita a repasar y memorizar pasajes de dominio de la doctrina que ya estudiaste en este curso, como Éxodo 20:8 sobre el día de reposo e Isaías 58:13–14 sobre guardarlo como una delicia. El Libro de Mormón agrega otra promesa poderosa: «bendito y feliz estado de aquellos que guardan los mandamientos de Dios... son bendecidos en todas las cosas, tanto temporales como espirituales» (Mosíah 2:41).\n\nMemorizar estos pasajes no es un ejercicio académico aislado. Es prepararte para el momento en que un amigo te pregunte por qué guardás el día de reposo, o por qué te importa obedecer los mandamientos cuando parece que eso te limita. Tener la referencia y las palabras exactas listas en tu mente te permite responder desde un lugar de convicción tranquila, no de improvisación nerviosa."
+      "contenido": "Esta práctica te invita a repasar y memorizar pasajes de Dominio de la Doctrina que ya estudiaste, como Éxodo 20:8 sobre el día de reposo e Isaías 58:13–14 sobre guardarlo como una delicia. El rey Benjamín agrega la promesa: quienes guardan los mandamientos «son bendecidos en todas las cosas, tanto temporales como espirituales» (Mosíah 2:41).\n\nVale la pena mirar quién hizo esto antes que vos. Jesucristo estudió el Antiguo Testamento de chico, y cuando fue tentado en el desierto respondió de memoria: «Escrito está: No solo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios» (Mateo 4:4). No improvisó: tenía las palabras adentro y las usó en el peor momento. Memorizar no es un ejercicio escolar; es cargar de antemano lo que vas a necesitar cuando no haya tiempo de buscarlo.\n\nY el día de reposo del que hablan estos pasajes es Suyo: «el Hijo del Hombre es Señor aun del día de reposo» (Marcos 2:28). Guardarlo no es cumplir una regla semanal, es apartar un día para Aquel que lo instituyó. Cuando un amigo te pregunte por qué te importa, tener la referencia y las palabras exactas te deja responder desde una convicción tranquila y no desde la improvisación."
     },
     {
       "tipo": "escrituras",
@@ -27,70 +27,97 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El rey Benjamín prometió que guardar los mandamientos de Dios trae bendiciones tanto temporales como espirituales, un 'bendito y feliz estado' que vale la pena poder explicar con claridad cuando alguien te pregunte por qué te importa. Estos pasajes de dominio de la doctrina no son solo para recitar de memoria: son herramientas para sostener tu propia fe y para ayudar a otros a entender la tuya. Esta semana, practicá decir de memoria uno de estos tres pasajes, y pensá en una situación real donde podrías necesitar usarlo."
+      "contenido": "El rey Benjamín prometió que guardar los mandamientos trae bendiciones temporales y espirituales, y vale la pena poder explicarlo con claridad cuando alguien pregunte. Pero el mejor argumento para memorizar es el ejemplo del Salvador: Él llevaba las Escrituras adentro y las usó cuando más lo necesitaba, y el día de reposo del que hablan estos pasajes es Suyo. Esta semana practicá decir de memoria uno de los tres pasajes, pensá en una situación real donde podrías necesitarlo, y anotá qué te enseña ese versículo sobre Él."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Cuál de estos tres pasajes de dominio de la doctrina —el día de reposo, Isaías 58, o Mosíah 2:41— recordás con más facilidad?",
+        "¿Cuál de los tres pasajes —Éxodo 20:8, Isaías 58:13–14 o Mosíah 2:41— recordás con más facilidad?",
         "¿Alguna vez alguien te preguntó por qué guardás el día de reposo o por qué obedecés ciertos mandamientos?",
-        "¿Qué le dirías a un amigo que piensa que los mandamientos de Dios solo restringen y no traen ninguna bendición real?",
-        "¿Qué significa para vos el 'bendito y feliz estado' que promete Mosíah 2:41 a quienes guardan los mandamientos?",
-        "¿Con quién podrías practicar esta semana decir de memoria uno de estos pasajes?",
-        "¿En qué situación real de tu vida podrías necesitar usar uno de estos versículos pronto?"
+        "Volvé a leer Isaías 58:13–14 en el bloque de escrituras. ¿Qué pide exactamente el versículo 13, y qué promete a cambio el versículo 14?",
+        "¿Qué le dirías a un amigo que piensa que los mandamientos solo restringen y no traen ninguna bendición real?",
+        "¿Qué pasaje vas a memorizar esta semana? Repetilo en tu mente durante la semana y anotá qué te enseña sobre el Salvador.",
+        "¿En qué situación concreta de este mes podrías necesitar tener uno de estos versículos ya sabido?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "Si alguien te pregunta cómo puede Dios permitir tanto sufrimiento en el mundo, ¿qué principio de Lamentaciones podrías usar?",
+      "question": "¿Qué promete Mosíah 2:41 a quienes guardan los mandamientos de Dios?",
       "options": [
-        "Que Dios no existe porque si existiera no habría sufrimiento.",
-        "Que incluso en el sufrimiento más profundo, las misericordias del Señor nunca decaen y Su fidelidad es grande, como testificó Jeremías desde la destrucción total.",
-        "Que el sufrimiento siempre es consecuencia directa de pecados personales."
+        "Que serán bendecidos en todas las cosas, temporales y espirituales.",
+        "Que no atravesarán pruebas difíciles mientras sigan obedeciendo los mandamientos.",
+        "Que recibirán responsabilidades de liderazgo en la Iglesia.",
+        "Que sus hijos heredarán las tierras prometidas a los padres."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué pasaje de Jeremías 31 podrías compartir para explicar que la religión no es solo un conjunto de reglas externas?",
+      "question": "Según Isaías 58:13, ¿cómo se debe tratar el día de reposo?",
       "options": [
-        "Jeremías 31:15, sobre el llanto de Raquel.",
-        "Jeremías 31:33, donde el Señor promete escribir Su ley en los corazones, no solo en tablas de piedra.",
-        "Jeremías 31:6, sobre las centinelas en el monte."
+        "Como un día de descanso físico después de la semana de trabajo.",
+        "Como una delicia, sin buscar la propia voluntad ni los propios caminos.",
+        "Como la fecha fijada para las reuniones administrativas de la comunidad.",
+        "Como una jornada dedicada a las ofrendas y a los sacrificios."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "Al practicar el Dominio de la doctrina, ¿por qué es importante escuchar genuinamente la pregunta de la persona antes de responder?",
+      "question": "En Mateo 4:4, ¿cómo respondió el Salvador cuando fue tentado en el desierto?",
       "options": [
-        "Para ganar tiempo mientras piensas en la respuesta.",
-        "Porque entender la verdadera preocupación detrás de la pregunta te permite responder con mayor relevancia, empatía y guía del Espíritu.",
-        "Porque así pareces más inteligente."
+        "Guardó silencio hasta que el tentador se apartó de Su presencia.",
+        "Pidió al Padre que enviara ángeles a defenderlo de inmediato.",
+        "Citó de memoria un pasaje de las Escrituras que ya conocía.",
+        "Explicó con Sus propias palabras por qué la propuesta era falsa."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Cuál es la actitud que debes mantener cuando alguien rechaza el mensaje del Evangelio, según el ejemplo de Jeremías?",
+      "question": "Según la lección, ¿para qué sirve memorizar pasajes de las Escrituras?",
       "options": [
-        "Sentirte un fracaso y dejar de intentarlo.",
-        "Continuar siendo fiel, como Jeremías que siguió profetizando aunque el rey destruyó sus palabras, confiando en que el Señor hará Su obra.",
-        "Argumentar más intensamente hasta que la persona cambie de opinión."
+        "Para demostrar en clase cuánto se ha estudiado durante el año.",
+        "Para acumular referencias que puedan citarse en un discurso.",
+        "Para cumplir con el requisito del programa de Dominio de la Doctrina.",
+        "Para cumplir con el requisito anual que pide el programa de Dominio de la Doctrina."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "A Bautista lo invitan a un torneo que se juega los domingos y no sabe cómo explicar su decisión sin sonar raro. ¿Qué le da esta lección?",
+      "options": [
+        "Un pasaje sabido y una razón: el día de reposo es del Señor.",
+        "El argumento de que el deporte no es compatible con la fe.",
+        "La sugerencia de inventar otro compromiso para no dar explicaciones.",
+        "La idea de asistir al torneo y compensarlo yendo a la Iglesia después."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Una compañera le dice a Milagros que los mandamientos «son una lista de cosas prohibidas». ¿Qué le responde Mosíah 2:41 según la lección?",
+      "options": [
+        "Que las prohibiciones existen porque el ser humano no sabe elegir bien.",
+        "Que obedecer conduce a un estado bendecido en lo temporal y lo espiritual.",
+        "Que cada mandamiento tiene una explicación científica comprobable.",
+        "Que la lista es más corta de lo que la mayoría de la gente supone."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cuál es el beneficio de haber memorizado varios pasajes del Dominio de la doctrina a lo largo del semestre?",
+      "id": 7,
+      "question": "El ejemplo del Salvador en Mateo 4:4 y la práctica de memorizar frases clave se conectan. ¿Cómo?",
       "options": [
-        "Que puedes presumir de tu conocimiento bíblico.",
-        "Que tienes la palabra del Señor grabada en la mente y el corazón, lista para guiarte, consolarte y ayudarte a servir a los demás en cualquier momento.",
-        "Que obtendrás una calificación perfecta en Seminario."
+        "Muestran que las tentaciones se repiten con las mismas palabras.",
+        "Indican que el Antiguo Testamento se memorizaba entero en esa época.",
+        "Él usó lo que ya tenía sabido; memorizar es prepararse igual que Él.",
+        "Prueban que solo los pasajes del Antiguo Testamento sirven en la tentación."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }
