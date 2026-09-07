@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "En 1856, miles de pioneros Santos de los Últimos Días cruzaban las llanuras hacia el valle del Lago Salado empujando carros de mano. Las compañías de Martin y Willie quedaron atrapadas por el invierno a cientos de kilómetros de su destino, sin comida ni fuerzas para seguir. Cuando parecía que todo estaba perdido, aparecieron los rescatadores enviados por Brigham Young, arriesgando su propia vida para traerlos a salvo. El profeta Abdías, siglos antes, había profetizado algo parecido sobre un pueblo distinto: dijo que \"subirán salvadores al monte Sion\", refiriéndose a una obra de rescate espiritual centrada en el templo. Nuestros antepasados fallecidos están en una situación parecida a la de esos pioneros varados: necesitan ordenanzas esenciales —el bautismo, el don del Espíritu Santo, la investidura— que ellos ya no pueden recibir por sí mismos. El Señor preparó una manera de rescatarlos: que nosotros efectuemos esas ordenanzas por ellos en el templo. No hace falta ser un experto en genealogía ni tener acceso constante a un templo para empezar. Para un joven de tu edad, esto puede comenzar con algo tan simple como abrir la aplicación de FamilySearch un rato y ver qué nombres aparecen ya conectados a tu familia, o preguntarle a un abuelo sobre su historia. Cada nombre encontrado, cada ordenanza reservada, es un paso hacia convertirte en \"salvador en el monte Sion\", tal como lo fueron aquellos rescatadores del invierno de 1856. Participar en esta obra nos acerca a Jesucristo, porque hacemos por otros algo que ellos no pueden hacer por sí mismos, del mismo modo en que Él lo hizo por nosotros."
+      "contenido": "En 1856, miles de pioneros Santos de los Últimos Días cruzaban las llanuras hacia el valle del Lago Salado empujando carros de mano. Las compañías de Martin y Willie quedaron atrapadas por el invierno a cientos de kilómetros de su destino, sin comida ni fuerzas para seguir. Cuando parecía que todo estaba perdido, aparecieron los rescatadores enviados por Brigham Young, arriesgando su propia vida para traerlos a salvo. El profeta Abdías, siglos antes, había profetizado algo parecido sobre un pueblo distinto: dijo que \"subirán salvadores al monte Sion\", refiriéndose a una obra de rescate espiritual centrada en el templo. Nuestros antepasados fallecidos están en una situación parecida a la de esos pioneros varados: necesitan ordenanzas esenciales —el bautismo, el don del Espíritu Santo, la investidura— que ellos ya no pueden recibir por sí mismos. El Señor preparó una manera de rescatarlos: que nosotros efectuemos esas ordenanzas por ellos en el templo. No hace falta ser un experto en genealogía ni tener acceso constante a un templo para empezar. Para un joven de tu edad, esto puede comenzar con algo tan simple como abrir la aplicación de FamilySearch un rato y ver qué nombres aparecen ya conectados a tu familia, o preguntarle a un abuelo sobre su historia. Cada nombre encontrado, cada ordenanza reservada, es un paso hacia convertirte en \"salvador en el monte Sion\", tal como lo fueron aquellos rescatadores del invierno de 1856. Participar en esta obra nos acerca a Jesucristo, porque hacemos por otros algo que ellos no pueden hacer por sí mismos, del mismo modo en que Él lo hizo por nosotros. Eso es exactamente lo que significa Su expiación: hacer por alguien lo que ese alguien no puede hacer solo. Un bautismo por los muertos es esa misma lógica a escala chica."
     },
     {
       "tipo": "escrituras",
@@ -47,10 +47,10 @@
       "tipo": "cuestionario",
       "preguntas": [
         "¿Sabés el nombre de alguno de tus bisabuelos o tatarabuelos? ¿Qué sabés de su vida?",
-        "Si tuvieras que rescatar a alguien en peligro, como hicieron los rescatadores de las compañías de carros de mano, ¿qué estarías dispuesto a hacer?",
-        "¿Alguna vez sentiste una conexión especial con un antepasado, aunque nunca lo hayas conocido? ¿Qué pasó?",
-        "¿Por qué creés que el Señor quiere que participemos nosotros mismos en el rescate de nuestros antepasados, en lugar de hacerlo Él solo?",
-        "¿Qué paso concreto podrías dar esta semana para empezar a participar en la obra de historia familiar (por ejemplo, abrir FamilySearch o preguntarle a un familiar sobre su historia)?",
+        "Si tuvieras que rescatar a alguien en peligro, como los rescatadores de las compañías de carros de mano, ¿qué estarías dispuesto a hacer?",
+        "Volvé a leer Abdías 1:21 en el bloque de escrituras. ¿Quiénes dice que subirán al monte Sion, y de quién dice que será el reino?",
+        "¿Por qué creés que el Señor quiere que participemos nosotros en el rescate de nuestros antepasados, en lugar de hacerlo Él solo?",
+        "¿Qué paso concreto podrías dar esta semana para empezar en la obra de historia familiar? Pedí en oración qué nombre buscar primero y anotá lo que te venga.",
         "¿A qué familiar le podrías pedir esta semana que te cuente algo sobre su vida o sobre un antepasado?"
       ]
     }
@@ -58,53 +58,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿A qué se refiere el título \"salvadores en el monte de Sion\"?",
+      "question": "¿Qué les pasó a las compañías de carros de mano de Martin y Willie en 1856?",
       "options": [
-        "A las personas que rescatan a otros de desastres naturales.",
-        "A nosotros, cuando participamos en las ordenanzas por nuestros antepasados fallecidos.",
-        "Solo a los profetas antiguos."
+        "Quedaron atrapadas por el invierno, sin comida ni fuerzas para seguir.",
+        "Llegaron antes de lo previsto gracias al buen clima de ese año.",
+        "Decidieron regresar al punto de partida y esperar la primavera.",
+        "Se dividieron en grupos pequeños para avanzar con más rapidez."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "Según el presidente Nelson, ¿por qué es tan importante la obra por los antepasados ahora?",
+      "question": "Según Abdías 1:21, ¿quiénes subirán al monte Sion?",
       "options": [
-        "Porque hay muchas más personas esperando las ordenanzas al otro lado del velo que de este.",
-        "Porque es un pasatiempo interesante.",
-        "Para llenar las bases de datos de la Iglesia."
+        "Los profetas y videntes que el Señor haya llamado por nombre.",
+        "Salvadores, y el reino será de Jehová.",
+        "Las tribus de Israel que regresen del norte al final de los tiempos.",
+        "Los que hayan recibido todas las ordenanzas antes de morir."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Cómo te ayuda esta obra a ser más como Jesucristo?",
+      "question": "¿En qué se parecen nuestros antepasados fallecidos a los pioneros varados?",
       "options": [
-        "Al hacer algo por otros que ellos mismos no pueden hacer.",
-        "Al aprender mucha historia del mundo.",
-        "Al viajar a diferentes templos."
+        "En que ambos grupos decidieron emprender un viaje sin preparación.",
+        "En que los dos fueron abandonados por quienes debían cuidarlos.",
+        "En que necesitan algo que ya no pueden conseguir por sí mismos.",
+        "En que ambos esperaron demasiado antes de pedir ayuda a alguien."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué herramientas están disponibles para ayudarte a encontrar a tus antepasados?",
+      "question": "Según la lección, ¿por qué esta obra nos acerca a Jesucristo?",
       "options": [
-        "Solo libros antiguos en bibliotecas.",
-        "Aplicaciones y sitios web como FamilySearch.",
-        "No hay herramientas disponibles."
+        "Porque exige un sacrificio de tiempo parecido al que Él hizo por todos.",
+        "Porque las ordenanzas se efectúan dentro de Su casa, que es el templo.",
+        "Porque los nombres se registran en los archivos de Su Iglesia restaurada.",
+        "Porque hacemos por otros lo que ellos no pueden hacer solos, como Él."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Martina piensa que la historia familiar es para gente mayor con tiempo libre y conocimientos de genealogía. Según esta lección, ¿qué podría hacer ella hoy?",
+      "options": [
+        "Esperar a tener acceso constante a un templo antes de empezar algo.",
+        "Abrir FamilySearch un rato o preguntarle a un abuelo por su historia.",
+        "Anotarse en un curso formal de genealogía antes de buscar nombres.",
+        "Pedir a sus padres que le pasen el árbol familiar ya terminado."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Pueden los jóvenes participar en la obra del templo por sus antepasados?",
+      "id": 6,
+      "question": "Sofía encontró un nombre y reservó una ordenanza, pero siente que hizo muy poco. ¿Qué le diría la lección?",
       "options": [
-        "No, solo los adultos pueden hacerlo.",
-        "Sí, pueden realizar bautismos y confirmaciones por los muertos.",
-        "Solo después de cumplir 21 años."
+        "Que conviene juntar varios nombres antes de que el esfuerzo valga la pena.",
+        "Que lo importante es la cantidad de generaciones que logre completar.",
+        "Que cada nombre encontrado es un paso hacia ser salvador en el monte Sion.",
+        "Que debería confirmar los datos con un especialista antes de seguir."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Los rescatadores de 1856 y quienes hacen hoy obra del templo comparten algo. ¿Qué es?",
+      "options": [
+        "Los dos van a buscar a quienes no pueden salvarse por sí solos.",
+        "Los dos arriesgan bienes materiales por gente que no los conoce.",
+        "Los dos actúan por encargo directo de un profeta que los envía.",
+        "Los dos reciben una recompensa proporcional al esfuerzo invertido."
+      ],
+      "correctAnswer": 0
     }
   ]
 }

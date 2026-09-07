@@ -6,7 +6,7 @@
       "contenido": [
         "Puede parecer que las finanzas son un tema demasiado práctico para el Seminario. Pero el Señor se preocupa por los detalles de la vida de Sus hijos, incluyendo lo que hacen con su dinero. Hay más parábolas de Jesucristo sobre mayordomía financiera que sobre casi cualquier otro tema.",
         "La Iglesia enseña un conjunto simple pero poderoso de principios económicos: gastá menos de lo que ganás, evitá las deudas innecesarias, ahorrá para el futuro, y pagá el diezmo primero. Estos principios funcionan no porque sean estrategias financieras sofisticadas, sino porque reflejan una relación de confianza con el Señor como proveedor.",
-        "El diezmo merece atención especial. Malaquías 3:10 contiene una de las pocas invitaciones directas de Dios a 'probar' Sus promesas: 'Si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde.' El diezmo no es un impuesto. Es una declaración de que el Señor es el proveedor real y que vos sos el mayordomo de lo que Él te ha dado.",
+        "El diezmo merece atención especial. Malaquías 3:10 contiene una de las pocas invitaciones directas de Dios a 'probar' Sus promesas: 'Si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde'. El diezmo no es un impuesto: es una declaración de que el Señor es el proveedor real y vos el mayordomo de lo que Él te dio. Y hay algo más en el fondo. Nada de lo que tenés lo trajiste al mundo: la vida, el cuerpo, el tiempo y hasta la capacidad de trabajar son prestados. Jesucristo pagó por vos un precio que ni siquiera podés calcular, así que devolver una décima parte no es generosidad tuya, es reconocer de quién es todo. Su sacrificio convierte al diezmo en una respuesta, no en una tarifa.",
         "Proverbios 21:20 lo dice de una manera que cualquier adolescente puede entender: 'Tesoro precioso y aceite hay en la casa del sabio; mas el hombre insensato todo lo disipa.' Gastar todo lo que tenés en el momento en que lo tenés no es libertad. Es falta de visión. Los hábitos financieros que desarrolles ahora —aunque el dinero sea poco— son exactamente los mismos que usarás cuando el dinero sea más."
       ]
     },
@@ -25,7 +25,7 @@
         },
         {
           "referencia": "Doctrina y Convenios 119:4",
-          "texto": "Y después que el hombre haya ofrecido un diezmo de todo lo que posee, entonces recibirá el mandamiento de pagar el diezmo de su interés anualmente.",
+          "texto": "Y después de esto, todos aquellos que hayan entregado este diezmo pagarán la décima parte de todo su interés anualmente; y esta les será por ley fija para siempre, para mi santo sacerdocio, dice el Señor.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=spa&id=p4#p4"
         }
       ]
@@ -44,66 +44,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué hábito financiero tenés ahora mismo que creés que es sabio? ¿Y cuál creés que deberías cambiar?",
+        "¿Qué hábito financiero tuyo te parece sabio? ¿Y cuál creés que deberías cambiar?",
         "¿Pagás diezmo? Si lo hacés, ¿notaste alguna diferencia en cómo sentís el dinero que te queda?",
-        "¿Qué significa para vos la idea de que el diezmo es una señal de confianza en el Señor como proveedor?",
+        "Volvé a leer Malaquías 3:10 en el bloque de escrituras. ¿Qué palabra usa el Señor para invitarte a comprobar Su promesa, y qué promete exactamente a cambio?",
         "¿Cómo podría afectarte en diez años el hábito de gastar todo lo que tenés sin ahorrar nada?",
-        "¿Qué haría tu yo del futuro diferente con el dinero que tenés ahora, si pudiera darte un consejo?",
-        "¿Qué paso pequeño pero concreto podés dar esta semana hacia una mejor administración de los recursos que tenés?"
+        "¿Qué haría tu yo del futuro distinto con el dinero que tenés ahora, si pudiera darte un consejo?",
+        "¿Qué paso chico y concreto vas a dar esta semana hacia una mejor administración de lo que tenés? Ponelo en oración antes de empezar."
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "Según el presidente Russell M. Nelson, citado en la lección, ¿qué aprendió cuando empezó a pagar un diezmo completo sobre su modesto ingreso de interno?",
+      "question": "¿Cuáles son los principios económicos que enseña la Iglesia según esta lección?",
       "options": [
-        "Que la Iglesia dependía de esa contribución para sostener sus programas.",
-        "Que conviene pagar el diezmo recién cuando el ingreso alcanza para cubrir lo necesario.",
-        "Que pagar el diezmo tiene que ver con la fe, no con el dinero, y que al hacerlo las ventanas del cielo empezaron a abrirse para él.",
-        "Que el diezmo garantiza una mejora económica proporcional al monto entregado."
+        "Invertir temprano, diversificar los ahorros y evitar los bancos grandes.",
+        "Gastar menos de lo que se gana, evitar deudas, ahorrar y pagar el diezmo.",
+        "Trabajar horas extra, aceptar todo empleo y postergar los estudios.",
+        "Comprar solo al contado y no aceptar ayuda económica de nadie."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Malaquías 3:10 contiene algo poco común en las Escrituras. ¿Qué es?",
+      "options": [
+        "Una advertencia sobre el castigo que recibirán los que no diezmen.",
+        "Una explicación detallada de cómo debe calcularse el diezmo exacto.",
+        "Una invitación directa de Dios a 'probarlo' en el cumplimiento.",
+        "Una lista de las bendiciones materiales garantizadas a quien paga."
       ],
       "correctAnswer": 2
     },
     {
-      "id": 2,
-      "question": "¿Cuál de estos principios financieros se enseña en las Escrituras (como en Génesis 41)?",
-      "options": [
-        "Ahorrar recursos para prepararse para los tiempos difíciles.",
-        "Gastar todo el dinero para disfrutar el presente.",
-        "No preocuparse por las deudas."
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": 3,
-      "question": "¿Cuál debe ser nuestra prioridad suprema al administrar nuestro dinero?",
+      "question": "Según la lección, ¿por qué funcionan esos principios económicos?",
       "options": [
-        "Comprar el teléfono más moderno.",
-        "Pagar los diezmos y ofrendas y buscar el Reino de Dios.",
-        "Ser la persona más rica de la comunidad."
+        "Porque son estrategias financieras sofisticadas y bien estudiadas.",
+        "Porque reflejan una relación de confianza con el Señor como proveedor.",
+        "Porque coinciden con lo que recomiendan los especialistas del rubro.",
+        "Porque la Iglesia los aplica en la administración de sus propios fondos."
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Por qué es importante orar por nuestros asuntos temporales (como las finanzas)?",
+      "question": "¿Qué contrasta Proverbios 21:20 entre el sabio y el insensato?",
       "options": [
-        "Porque debemos hacer partícipe al Señor en todas las partes de nuestra vida.",
-        "Para que Dios nos dé los números de la lotería.",
-        "No es importante orar por eso; Dios ya lo sabe."
+        "El sabio guarda tesoro en su casa; el insensato lo disipa todo.",
+        "El sabio trabaja de sol a sol; el insensato prefiere descansar.",
+        "El sabio presta a interés; el insensato pide prestado sin medir.",
+        "El sabio comparte lo que tiene; el insensato lo esconde por miedo."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Qué principio nos ayuda a evitar la codicia según el manual?",
+      "question": "Valentina recibe algo de dinero de vez en cuando y lo gasta apenas lo tiene, porque total es poco. Según esta lección, ¿qué está pasando por alto?",
       "options": [
-        "Agradecer sinceramente las bendiciones que Dios ya nos ha dado.",
-        "Trabajar 24 horas al día.",
-        "No mirar lo que tienen los demás."
+        "Que el monto no importa: el hábito que forma ahora es el que va a tener después.",
+        "Que debería guardar todo y no gastar nada hasta ser independiente.",
+        "Que conviene pedir más para que valga la pena administrarlo bien.",
+        "Que a su edad todavía no corresponde preocuparse por estos temas."
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Luca dice que empezará a pagar diezmo cuando gane lo suficiente como para que se note. ¿Qué le respondería la lección?",
+      "options": [
+        "Que tiene razón: el diezmo se aplica recién a partir de un ingreso fijo.",
+        "Que el diezmo no es un monto, sino una declaración de en quién confía.",
+        "Que conviene esperar a tener trabajo estable para no interrumpirlo.",
+        "Que puede reemplazarlo por servicio en la Iglesia mientras tanto."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "La lección dice que el diezmo 'no es una tarifa, sino una respuesta'. ¿Por qué?",
+      "options": [
+        "Porque el monto se ajusta a lo que cada persona puede dar ese mes.",
+        "Porque es voluntario y nadie controla si efectivamente se paga.",
+        "Porque todo lo que tenés es prestado y Jesucristo ya pagó por vos.",
+        "Porque la Iglesia lo destina a obras que benefician a quien lo paga."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

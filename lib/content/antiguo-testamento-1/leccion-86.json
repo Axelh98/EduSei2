@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Después de que Asiria conquistó el reino del norte de Israel, puso la mira en Judá. El rey asirio Senaquerib tomó una a una las ciudades fortificadas de Judá y finalmente envió a un grupo de mensajeros hasta las murallas de Jerusalén para exigir la rendición. Frente al pueblo, el Rabsaces se burló abiertamente de la fe de Judá en el Señor, diciendo que ningún dios de ninguna nación había podido librar a su pueblo de Asiria, y que Jehová tampoco lo lograría. El rey Ezequías podría haber respondido con un ejército o con promesas vacías, pero hizo algo distinto: rasgó sus vestidos, entró al templo y llevó la carta de amenaza literalmente delante del Señor en oración. No pretendió tener todas las respuestas ni fingió no tener miedo; simplemente puso el problema en las manos de Dios. La respuesta llegó por medio del profeta Isaías: Jerusalén no caería. Esa misma noche, un ángel del Señor hirió al ejército asirio, y Senaquerib tuvo que retirarse humillado. Ezequías no ganó esa batalla con estrategia militar; la ganó con la decisión de confiar cuando todo parecía perdido. A los jóvenes también les llegan sus propios \"Rabsaces\": voces que se burlan de la fe, que dicen que confiar en Dios es ingenuo o que ya perdiste antes de empezar. La historia de Ezequías no promete que el ataque no vendrá, sino que muestra a dónde ir cuando llega: al Señor, en oración honesta, antes que a cualquier otra fuente de seguridad."
+      "contenido": "Después de que Asiria conquistó el reino del norte de Israel, puso la mira en Judá. El rey asirio Senaquerib tomó una a una las ciudades fortificadas de Judá y finalmente envió a un grupo de mensajeros hasta las murallas de Jerusalén para exigir la rendición. Frente al pueblo, el Rabsaces se burló abiertamente de la fe de Judá en el Señor, diciendo que ningún dios de ninguna nación había podido librar a su pueblo de Asiria, y que Jehová tampoco lo lograría. El rey Ezequías podría haber respondido con un ejército o con promesas vacías, pero hizo algo distinto: rasgó sus vestidos, entró al templo y llevó la carta de amenaza literalmente delante del Señor en oración. No pretendió tener todas las respuestas ni fingió no tener miedo; simplemente puso el problema en las manos de Dios. La respuesta llegó por medio del profeta Isaías: Jerusalén no caería. Esa misma noche, un ángel del Señor hirió al ejército asirio, y Senaquerib tuvo que retirarse humillado. Ezequías no ganó esa batalla con estrategia militar; la ganó con la decisión de confiar cuando todo parecía perdido. A los jóvenes también les llegan sus propios \"Rabsaces\": voces que se burlan de la fe, que dicen que confiar en Dios es ingenuo o que ya perdiste antes de empezar. La historia de Ezequías no promete que el ataque no vendrá, sino que muestra a dónde ir cuando llega: al Señor, en oración honesta, antes que a cualquier otra fuente de seguridad. Fijate además en la razón que da el Señor para salvar la ciudad: 'por causa de mí y por causa de David, mi siervo'. No dice que Jerusalén se salve porque Ezequías se lo haya ganado: la ampara por Su nombre y por un convenio hecho generaciones antes. Es el mismo mecanismo por el que vos podés acercarte hoy: no por lo bien que venís, sino por Jesucristo y por los convenios que Él sostiene. Su fidelidad es lo que cubre cuando la tuya no alcanza."
     },
     {
       "tipo": "escrituras",
@@ -46,11 +46,11 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Con qué parte del relato te identificás más: con el pueblo que escuchaba las amenazas asirias, o con Ezequías que llevó el problema al templo?",
-        "Si alguien se burlara abiertamente de tu fe delante de otras personas, como hizo el Rabsaces con Judá, ¿qué sería lo más difícil para vos?",
-        "¿Alguna vez oraste sobre un problema específico en lugar de solo preocuparte por él? ¿Qué diferencia notaste?",
-        "¿Por qué creés que Ezequías decidió llevar la carta de amenaza literalmente al templo antes de responder al enemigo?",
-        "¿Qué desafío concreto que estás enfrentando ahora podrías 'llevar al templo' esta semana, es decir, entregárselo a Dios en oración específica?",
+        "¿Con qué parte del relato te identificás más: con el pueblo que escuchaba las amenazas asirias, o con Ezequías, que llevó el problema al templo?",
+        "Si alguien se burlara abiertamente de tu fe delante de otros, como el Rabsaces con Judá, ¿qué sería lo más difícil para vos?",
+        "Volvé a leer 2 Reyes 19:34 en el bloque de escrituras. El Señor da dos razones para amparar la ciudad. ¿Cuáles son, y cuál te llama más la atención?",
+        "¿Por qué creés que Ezequías llevó la carta de amenaza literalmente al templo antes de responderle al enemigo?",
+        "¿Qué desafío concreto podrías 'llevar al templo' esta semana, es decir, entregárselo a Dios en una oración específica?",
         "¿A quién podrías pedirle que ore junto con vos por algo que te está costando enfrentar?"
       ]
     }
@@ -58,53 +58,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué hizo el rey Ezequías cuando el poderoso ejército asirio amenazó con destruir Jerusalén?",
+      "question": "¿Qué hizo el rey Ezequías cuando recibió la carta de amenaza de Senaquerib?",
       "options": [
-        "Se rindió de inmediato.",
-        "Acudió al Señor en el templo y buscó la guía del profeta Isaías.",
-        "Hizo una alianza secreta con Egipto."
+        "Reunió a su ejército y salió a enfrentar a los asirios en campo abierto.",
+        "Envió tributo en oro y plata para que el asedio se levantara pronto.",
+        "Pidió alianza militar a Egipto para resistir el avance del imperio.",
+        "La llevó al templo y la puso delante del Señor en oración."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Cuál es la promesa para quienes ponen su esperanza en Jehová?",
+      "question": "Según 2 Reyes 19:35, ¿cómo terminó el asedio de Jerusalén?",
       "options": [
-        "El Señor nos fortalecerá y nos librará según Su voluntad.",
-        "Nunca tendremos que enfrentar enemigos.",
-        "Seremos el ejército más grande del mundo."
+        "Un ángel del Señor hirió al campamento asirio esa misma noche.",
+        "Ezequías negoció una tregua que duró varios años más.",
+        "Los asirios se retiraron por una peste que ya traían de antes.",
+        "Isaías salió a hablar con Senaquerib y lo convenció de irse."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué hizo Ezequías con la carta amenazante del rey de Asiria?",
+      "question": "El Rabsaces se burló de la fe de Judá con un argumento concreto. ¿Cuál era?",
       "options": [
-        "La quemó inmediatamente.",
-        "La extendió delante de Jehová en el templo y oró.",
-        "La ignoró por completo."
+        "Que Ezequías había destruido los altares que el pueblo solía usar antes.",
+        "Que ningún dios de ninguna nación había librado a su pueblo de Asiria.",
+        "Que Judá era demasiado pequeña como para resistir un imperio.",
+        "Que los profetas de Israel ya habían anunciado la derrota total."
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Cómo libró el Señor a Jerusalén del ejército asirio?",
+      "question": "En 2 Reyes 19:34 el Señor da dos razones para amparar la ciudad. ¿Cuáles son?",
       "options": [
-        "Envió un ángel que hirió a 185,000 soldados en una noche.",
-        "Causó una tormenta que los dispersó.",
-        "Los israelitas pelearon y ganaron."
+        "Por la fidelidad de Ezequías y por el arrepentimiento del pueblo.",
+        "Por el templo que allí estaba y por los sacerdotes que servían.",
+        "Por causa de Sí mismo y por causa de David, Su siervo.",
+        "Por la antigüedad de la ciudad y por el convenio con Abraham."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "¿Qué característica de Ezequías se destaca en este relato?",
+      "question": "Agustina tiene un problema serio y su primera reacción es contárselo a todos sus amigos antes que a nadie más. ¿Qué le sugeriría el ejemplo de Ezequías?",
       "options": [
-        "Su fortaleza física.",
-        "Su fe en el Señor y su disposición a buscar ayuda divina.",
-        "Su riqueza material."
+        "Que hablar con amigos no sirve: hay que resolverlo en soledad completa.",
+        "Que lleve primero el problema al Señor, antes de reaccionar.",
+        "Que espere a que el problema se resuelva solo con el tiempo.",
+        "Que busque a alguien con más experiencia para que decida por ella."
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Nicolás siente que alguien se burla de sus creencias delante de otros y no sabe qué contestar. Según esta lección, ¿qué haría Ezequías en su lugar?",
+      "options": [
+        "Responder con el mismo tono para que la burla no quede sin respuesta.",
+        "Cambiar de tema hasta que la conversación pase a otra cosa.",
+        "Llevar la situación al Señor antes de decidir cómo responder.",
+        "Evitar a esa persona hasta que deje de mencionar el tema."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "La lección señala que el Señor amparó la ciudad 'por causa de Sí mismo' y no por los méritos de Ezequías. ¿Qué agrega eso a tu manera de acercarte a Él?",
+      "options": [
+        "Que conviene acumular méritos antes de pedirle algo importante.",
+        "Que las promesas del Señor dependen del desempeño de cada generación.",
+        "Que podés acercarte por Su fidelidad, no por lo bien que venís.",
+        "Que solo los reyes y profetas podían apelar a los convenios antiguos."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

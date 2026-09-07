@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Naamán era un general del ejército sirio, valiente y respetado, pero tenía lepra. Una joven israelita cautiva, esclava de su esposa, le habló de un profeta en Samaria que podía sanarlo. Naamán viajó con oro, plata y una carta del rey, esperando un tratamiento a la altura de su rango. Cuando llegó a la casa de Eliseo, el profeta ni siquiera salió a recibirlo: le mandó un mensaje simple, lávate siete veces en el Jordán. Naamán se enojó. Esperaba un gesto dramático, no una instrucción tan ordinaria, y estuvo a punto de irse, hasta que sus propios criados le hicieron una pregunta sencilla: si el profeta te hubiera pedido algo grande, ¿no lo habrías hecho? ¿Por qué no esta cosa pequeña? Naamán cedió, se sumergió siete veces, y salió limpio, con la piel como la de un niño. Su sanación no llegó por un discurso elaborado, sino por la obediencia a una instrucción sencilla que casi rechazó por orgullo. Algo parecido nos pasa a nosotros: a veces esperamos que Dios nos pida algo grande y espectacular para demostrar nuestra fe, cuando en realidad Él suele pedirnos cosas pequeñas, como orar antes de dormir, leer un capítulo o ser honestos en un examen. Ninguna de esas cosas parece suficiente para cambiar una vida, igual que un baño en un río común no parecía suficiente para curar la lepra. Pero es exactamente en esa obediencia sencilla, sostenida día tras día, donde el Señor obra Sus milagros más grandes."
+      "contenido": "Naamán era un general del ejército sirio, valiente y respetado, pero tenía lepra. Una joven israelita cautiva, esclava de su esposa, le habló de un profeta en Samaria que podía sanarlo. Naamán viajó con oro, plata y una carta del rey, esperando un tratamiento a la altura de su rango. Cuando llegó a la casa de Eliseo, el profeta ni siquiera salió a recibirlo: le mandó un mensaje simple, lávate siete veces en el Jordán. Naamán se enojó. Esperaba un gesto dramático, no una instrucción tan ordinaria, y estuvo a punto de irse, hasta que sus propios criados le hicieron una pregunta sencilla: si el profeta te hubiera pedido algo grande, ¿no lo habrías hecho? ¿Por qué no esta cosa pequeña? Naamán cedió, se sumergió siete veces, y salió limpio, con la piel como la de un niño. Su sanación no llegó por un discurso elaborado, sino por la obediencia a una instrucción sencilla que casi rechazó por orgullo. Algo parecido nos pasa a nosotros: a veces esperamos que Dios nos pida algo grande y espectacular para demostrar nuestra fe, cuando en realidad Él suele pedirnos cosas pequeñas, como orar antes de dormir, leer un capítulo o ser honestos en un examen. Ninguna de esas cosas parece suficiente para cambiar una vida, igual que un baño en un río común no parecía suficiente para curar la lepra. Pero es exactamente en esa obediencia sencilla, sostenida día tras día, donde el Señor obra Sus milagros más grandes. Y hay un detalle que no es casual: en el Antiguo Testamento la lepra era la imagen del pecado —algo que se mete en la carne y uno no puede sacarse solo—. Naamán no se curó por meterse al agua: se curó porque obedeció, y el río fue el lugar donde eso quedó marcado. Es la misma lógica del bautismo. La limpieza no viene del agua: viene de Jesucristo, y Su sacrificio es lo que hace que un gesto tan sencillo alcance."
     },
     {
       "tipo": "escrituras",
@@ -51,63 +51,90 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Con qué personaje de este relato te identificás más: con Naamán, que casi rechaza una instrucción simple, o con sus criados, que lo convencen de obedecer? ¿Por qué?",
-        "Si un profeta te pidiera hacer algo que te pareciera demasiado simple para solucionar tu problema, ¿cómo reaccionarías al principio?",
-        "¿Alguna vez subestimaste una acción pequeña —orar, pedir perdón, estudiar un poco— pensando que no iba a cambiar nada? ¿Qué pasó después?",
-        "¿Por qué creés que Dios elige, tantas veces, pedirnos cosas pequeñas y sencillas en lugar de grandes gestos?",
-        "¿Qué cosa pequeña y sencilla sentís que el Señor te está pidiendo hacer mejor esta semana?",
-        "¿A quién le podrías contar, dentro de un mes, cómo te fue con esa cosa pequeña que decidiste mejorar?"
+        "¿Con qué personaje te identificás más: con Naamán, que casi rechaza una instrucción simple, o con sus criados, que lo convencen de obedecer? ¿Por qué?",
+        "Si un profeta te pidiera algo que te pareciera demasiado simple para resolver tu problema, ¿cómo reaccionarías al principio?",
+        "Volvé a leer 2 Reyes 5:13–14 en el bloque de escrituras. ¿Qué le preguntan los criados a Naamán, y qué hace él después de escucharlos?",
+        "¿Por qué creés que Dios elige tantas veces pedirnos cosas pequeñas y sencillas en lugar de grandes gestos?",
+        "¿Qué cosa chica y sencilla sentís que el Señor te está pidiendo hacer mejor esta semana? Preguntáselo en oración y anotá lo que te venga.",
+        "¿A quién le podrías contar dentro de un mes cómo te fue con esa cosa pequeña que decidiste mejorar?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Por qué se indignó Naamán inicialmente con el consejo del profeta Eliseo?",
+      "question": "¿Qué le mandó decir Eliseo a Naamán cuando llegó a su casa?",
       "options": [
-        "Porque el profeta le pidió mucho dinero.",
-        "Porque el camino para ser sanado (lavarse en el Jordán) le pareció demasiado sencillo.",
-        "Porque no quería mojarse."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 2,
-      "question": "¿Cuál es la lección principal sobre las cosas \"pequeñas y sencillas\"?",
-      "options": [
-        "Que no son importantes para Dios.",
-        "Que al obedecer las cosas sencillas que el Señor pide, recibimos Su poder y bendiciones.",
-        "Que las cosas difíciles valen más que las sencillas."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 3,
-      "question": "¿Qué recibió Naamán además de la salud física al final de su historia?",
-      "options": [
-        "Un testimonio de que no hay Dios en toda la tierra, sino en Israel.",
-        "Un puesto de mando más alto.",
-        "Una medalla de honor."
+        "Que se lavara siete veces en el río Jordán.",
+        "Que ofreciera un sacrificio en el templo de Samaria.",
+        "Que dejara su oro y su plata como pago por la curación.",
+        "Que volviera a Siria y esperara noticias del profeta."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 4,
-      "question": "¿Quién convenció a Naamán de seguir el consejo del profeta?",
+      "id": 2,
+      "question": "¿Qué argumento usaron los criados para convencer a Naamán?",
       "options": [
-        "El rey de Israel.",
-        "Sus siervos le rogaron que probara el método sencillo.",
-        "Eliseo fue personalmente a convencerlo."
+        "Que el rey de Siria se enojaría si volvía sin haberlo intentado.",
+        "Que otros generales ya habían sido curados de la misma manera.",
+        "Que el viaje había sido demasiado largo como para volverse ahora.",
+        "Que si el profeta le hubiera pedido algo grande, lo habría hecho."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué se enojó Naamán con la instrucción que recibió?",
+      "options": [
+        "Porque el río Jordán quedaba a varios días de camino de allí.",
+        "Porque esperaba un gesto dramático, a la altura de su rango.",
+        "Porque el profeta le pidió más dinero del que había llevado.",
+        "Porque los sirios tenían prohibido bañarse en ríos extranjeros."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cuántas veces tuvo que sumergirse Naamán en el Jordán para ser sanado?",
+      "id": 4,
+      "question": "Después de sanar, ¿qué reconoció Naamán?",
       "options": [
-        "Una vez.",
-        "Tres veces.",
-        "Siete veces."
+        "Que no hay Dios en toda la tierra sino el de Israel.",
+        "Que su propia fe había sido la causa real de la curación.",
+        "Que debía quedarse a vivir en Samaria junto al profeta.",
+        "Que la lepra volvería si dejaba de cumplir los mandamientos."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Camila se propuso leer las Escrituras cada día, pero abandonó porque cinco minutos le parecían muy poco para servir de algo. Según esta lección, ¿qué está pasando por alto?",
+      "options": [
+        "Que conviene esperar a tener más tiempo libre para poder hacerlo bien.",
+        "Que leer poco puede ser peor que no leer, porque genera confusión.",
+        "Que lo pequeño y sostenido es justamente lo que el Señor suele pedir.",
+        "Que le convendría escuchar el audio en lugar de leer el texto."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Tomás quiere una experiencia espiritual fuerte y siente que orar cada noche es demasiado común como para producir algo. ¿Qué le respondería el relato de Naamán?",
+      "options": [
+        "Que la sanación llegó por obedecer algo sencillo, no por un gesto grande.",
+        "Que las experiencias espirituales fuertes solo llegan tras años de servicio.",
+        "Que conviene pedirle al obispo una bendición para acelerar el proceso.",
+        "Que orar de noche es menos eficaz que hacerlo por la mañana temprano."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "La lección dice que en el Antiguo Testamento la lepra era la imagen del pecado. ¿Qué agrega ese dato al relato de Naamán?",
+      "options": [
+        "Que el pecado solo afecta a quienes viven fuera del convenio.",
+        "Que lavarse en el Jordán curaba enfermedades de la piel de verdad.",
+        "Que la limpieza no vino del agua, sino de obedecer a Dios.",
+        "Que los generales extranjeros tenían prohibido entrar a Israel."
       ],
       "correctAnswer": 2
     }

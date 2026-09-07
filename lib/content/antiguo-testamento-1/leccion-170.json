@@ -32,7 +32,7 @@
       "autor": "Élder David A. Bednar",
       "fuente": "Liahona, abril de 2006",
       "texto": "La combinación que abre la puerta de la caja fuerte que guarda los tesoros de las Escrituras incluye una gran cantidad de trabajo: trabajo simple, arduo y tradicional... Los tesoros de las Escrituras que buscamos en nuestra vida no se pueden tomar prestados ni tampoco se pueden adquirir de segunda mano.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2006/04/because-we-have-them-before-our-eyes?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2006/04/because-we-have-them-before-our-eyes?lang=spa#p25"
     },
     {
       "tipo": "conclusion",
@@ -42,13 +42,91 @@
       "tipo": "cuestionario",
       "preguntas": [
         "¿Alguna vez comparaste dos personas de las Escrituras que enfrentaron la misma situación de forma distinta? ¿Qué aprendiste?",
-        "¿Qué diferencia te llama más la atención entre la respuesta de Satanás y la respuesta de Jesucristo en el concilio preterrenal?",
-        "¿Por qué creés que comparar dos relatos parecidos puede mostrar verdades que pasarías por alto leyendo cada uno por separado?",
-        "¿Qué dos personas, decisiones o relatos de las Escrituras te gustaría comparar en tu próximo estudio personal?",
-        "¿Qué principio vas a buscar la próxima vez que uses esta técnica de comparación en tu estudio de esta semana?",
-        "¿Con quién podrías compartir una comparación de las Escrituras que te haya ayudado a entender mejor una enseñanza de Jesucristo?"
+        "¿Qué diferencia te llama más la atención entre la respuesta de Satanás y la de Jesucristo en el concilio preterrenal?",
+        "Volvé a leer Moisés 4:1–2 en el bloque de escrituras. Poné las dos respuestas una al lado de la otra: ¿qué pide Satanás para sí mismo, y qué pide Jesucristo?",
+        "¿Por qué creés que comparar dos relatos parecidos muestra verdades que pasarías por alto leyendo cada uno por separado?",
+        "¿Qué dos personas, decisiones o relatos te gustaría comparar en tu próximo estudio personal?",
+        "¿Con quién podrías compartir una comparación que te haya ayudado a entender mejor una enseñanza de Jesucristo? Ponelo en oración antes y anotá lo que sentiste."
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué ejemplo usa la lección para explicar por qué comparar ayuda a entender?",
+      "options": [
+        "La sal y el azúcar, que se parecen hasta ponerlas juntas.",
+        "El agua y el aceite, que nunca llegan a mezclarse del todo.",
+        "El oro y el bronce, que se distinguen solo por su peso.",
+        "La luz y la sombra, que dependen una de la otra para existir."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Según Moisés 4, ¿qué ofreció Satanás en el concilio de los cielos?",
+      "options": [
+        "Enseñar personalmente la ley a cada uno de los hijos de Dios, sin excepción.",
+        "Gobernar la tierra en lugar de Adán durante el primer milenio.",
+        "Acortar el tiempo de la vida mortal para reducir las tentaciones.",
+        "Redimir a todo el género humano, de modo que no se perdiera ninguno."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "¿Qué queda claro al comparar la respuesta de Satanás con la de Jesucristo en el concilio?",
+      "options": [
+        "Que los dos planes eran válidos y el Padre eligió el más rápido.",
+        "Que Satanás no había entendido bien el plan del Padre Celestial.",
+        "La diferencia entre buscar el honor propio y someterse a Dios.",
+        "Que la propuesta de Satanás era imposible de llevar a la práctica."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "En Marcos 12, Jesús compara lo que echó la viuda con lo que echaron los demás. ¿Qué concluye?",
+      "options": [
+        "Que la viuda echó más que todos, porque dio de lo que necesitaba.",
+        "Que las ofrendas grandes son las más útiles para sostener el templo y su obra.",
+        "Que conviene dar solo cuando sobra, para no quedarse sin nada.",
+        "Que el monto exacto de la ofrenda no le interesa al Señor."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Nicolás quiere probar la técnica de esta lección en su estudio personal. ¿Cuál de estas sería una comparación bien planteada?",
+      "options": [
+        "Leer un capítulo entero y anotar todos los nombres propios que aparecen.",
+        "Poner lado a lado dos decisiones del mismo rey en momentos distintos.",
+        "Buscar en internet qué opinan otras personas sobre ese pasaje.",
+        "Leer el mismo versículo cinco veces seguidas hasta memorizarlo."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Ana dice que comparar personajes de las Escrituras le parece injusto, porque termina juzgando quién fue mejor persona. Según la lección, ¿qué le falta entender?",
+      "options": [
+        "Que comparar sirve justamente para decidir a qué personaje conviene imitar.",
+        "Que la técnica solo se aplica a versículos, nunca a personas concretas.",
+        "Que el objetivo no es ver quién es mejor, sino qué enseña la diferencia.",
+        "Que conviene comparar solo personajes del mismo libro de Escritura."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto el concilio de los cielos como la ofrenda de la viuda enseñan algo parecido cuando se los mira comparando. ¿Qué es?",
+      "options": [
+        "Que lo que revela el corazón no es el tamaño del gesto, sino su motivo.",
+        "Que los relatos del Nuevo Testamento explican mejor los del Antiguo.",
+        "Que Dios prefiere siempre a quienes tienen menos recursos materiales.",
+        "Que las decisiones importantes se toman mejor en grupo que a solas."
+      ],
+      "correctAnswer": 0
+    }
+  ]
 }

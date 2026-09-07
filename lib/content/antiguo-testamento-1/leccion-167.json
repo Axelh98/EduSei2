@@ -7,7 +7,7 @@
         "¿Alguna vez leíste un capítulo entero de las Escrituras y llegaste al final sin acordarte de nada? Te pasa a casi todos. El problema no es que las Escrituras sean aburridas. El problema es que a veces leemos el relato sin buscar lo que hay debajo de él. Esa sensación de vacío no significa que te falte fe; significa que todavía no aprendiste a mirar más allá de las palabras.",
         "Pensá en una banana. Nadie come la cáscara, pero la cáscara protege y mantiene fresca la fruta de adentro. Los relatos de las Escrituras funcionan parecido: son la cáscara que preserva algo más importante, las verdades del Evangelio que Dios quiere que encontrés.",
         "Hay dos formas de encontrarlas. Algunas verdades están escritas con toda claridad, en una sola frase, como \"confía en Jehová con todo tu corazón\" (Proverbios 3:5). Otras están implícitas: tenés que hacerte preguntas mientras leés, como \"¿qué me enseña esto sobre Dios?\" o \"¿por qué el Señor habrá incluido este relato?\".",
-        "La próxima vez que abras las Escrituras, no te conformes con terminar el capítulo. Preguntate qué verdad hay debajo del relato, y por qué el Padre Celestial querría que la conocieras justo ahora. Esa costumbre, más que la cantidad de versículos que leas, es lo que te va a acercar a Él."
+        "La próxima vez que abras las Escrituras, no te conformes con terminar el capítulo. Preguntate qué verdad hay debajo del relato y por qué el Padre Celestial querría que la conocieras justo ahora. Y mirá el ejemplo que trae esta misma lección: Números 21 cuenta que Moisés levantó una serpiente de bronce y, leído solo, es un episodio raro del desierto. Pero Juan 3:14 dice qué había debajo: 'como Moisés levantó la serpiente… así es necesario que el Hijo del Hombre sea levantado'. La verdad escondida en ese relato era Jesucristo y Su sacrificio. Casi siempre lo es: cuando buscás debajo del texto, lo que aparece es Él."
       ]
     },
     {
@@ -44,65 +44,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Cuál es la última verdad del Evangelio que encontraste en tu estudio personal de las Escrituras?",
-        "¿Alguna vez terminaste de leer un capítulo de las Escrituras sin acordarte de nada? ¿Qué creés que faltó en esa lectura?",
-        "¿Cuál es la diferencia entre una verdad \"expresada con claridad\" y una verdad \"implícita\"? ¿Cuál de las dos te resulta más difícil de encontrar?",
-        "Según el élder Bednar, ¿de dónde vienen la doctrina y los principios del Evangelio? ¿Por qué es importante saber eso cuando estudiás?",
-        "¿Qué pasaje vas a estudiar esta semana buscando específicamente una verdad implícita, y qué preguntas te vas a hacer mientras lo leés?",
-        "¿A quién podrías contarle esta semana una verdad que encontraste en tu estudio personal de las Escrituras?"
+        "¿Cuál es la última verdad del Evangelio que encontraste en tu estudio personal?",
+        "¿Alguna vez terminaste un capítulo sin acordarte de nada? ¿Qué te parece que faltó en esa lectura?",
+        "Volvé a leer Juan 3:14–16 en el bloque de escrituras. ¿Con qué compara Jesús Su propia muerte, y qué promete para el que cree en Él?",
+        "Según el élder Bednar, ¿de dónde vienen la doctrina y los principios del Evangelio? ¿Por qué importa saberlo cuando estudiás?",
+        "¿Qué pasaje vas a estudiar esta semana buscando una verdad implícita? Anotá las preguntas que te vas a hacer mientras lo leés.",
+        "¿A quién podrías contarle esta semana una verdad que encontraste en tu estudio personal?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál es la diferencia principal entre un 'hecho' histórico y un 'principio' del Evangelio?",
+      "question": "¿Con qué compara la lección el relato de las Escrituras y la verdad que contiene?",
       "options": [
-        "No hay diferencia; ambos son conceptos idénticos en las Escrituras.",
-        "El hecho describe lo que sucedió, mientras que el principio es una verdad eterna que se puede aplicar en cualquier época.",
-        "Los hechos son verdaderos y los principios son solo sugerencias personales."
+        "Con un mapa y el tesoro que señala en algún punto lejano.",
+        "Con la cáscara de una banana y la fruta que hay adentro.",
+        "Con una llave y la puerta que se abre solamente con ella.",
+        "Con una semilla y el árbol en que se convierte con los años."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué técnica es útil para identificar un principio cuando no está escrito de forma explícita?",
+      "question": "Según la lección, ¿de qué dos formas aparecen las verdades del Evangelio en las Escrituras?",
       "options": [
-        "Leer solo los encabezados de los capítulos.",
-        "Observar las relaciones de causa y efecto en la historia de los personajes.",
-        "Memorizar los nombres de todos los lugares mencionados."
+        "Escritas con claridad en una frase, o implícitas en el relato.",
+        "En los mandamientos directos y en las genealogías de los profetas.",
+        "En el Nuevo Testamento de forma clara y en el Antiguo de forma velada.",
+        "En las palabras de Jesús y en los comentarios que agregan los editores."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Por qué es importante expresar una verdad del Evangelio como una frase u oración completa?",
+      "question": "¿Qué hay que hacer para encontrar una verdad que está implícita?",
       "options": [
-        "Porque ayuda a definir mejor cómo esa verdad se aplica a nuestra conducta y decisiones.",
-        "Porque así es más fácil aprobar los exámenes de seminario.",
-        "Porque las palabras sueltas no tienen ningún significado espiritual."
+        "Consultar un diccionario bíblico antes de empezar la lectura del capítulo.",
+        "Leer el capítulo completo varias veces hasta que la frase aparezca sola.",
+        "Hacerse preguntas mientras se lee, como qué enseña esto sobre Dios.",
+        "Buscar la interpretación oficial en el manual antes de sacar conclusiones."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "Al buscar principios, ¿qué pregunta podrías hacerte para profundizar en el texto?",
+      "question": "Números 21 cuenta que Moisés levantó una serpiente de bronce. Según Juan 3:14, ¿qué verdad estaba debajo de ese relato?",
       "options": [
-        "¿Cuántos versículos tiene este capítulo?",
-        "¿Cuál es el mensaje central que el autor inspirado desea que yo aprenda de este relato?",
-        "¿En qué año se descubrieron estas planchas?"
+        "Que el bronce tenía propiedades curativas conocidas en la antigüedad.",
+        "Que las serpientes eran un símbolo de sabiduría entre los israelitas.",
+        "Que los milagros del desierto se repetirían en tiempos posteriores.",
+        "Que el Hijo del Hombre sería levantado para que el que crea viva."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Tomás termina cada capítulo sin acordarse de nada y concluye que le falta fe. Según esta lección, ¿qué le pasa en realidad?",
+      "options": [
+        "Que probablemente esté leyendo a una hora del día en que rinde poco.",
+        "Que todavía no aprendió a mirar más allá del relato mismo.",
+        "Que necesita empezar por libros más sencillos antes de seguir.",
+        "Que le convendría leer acompañado para sostener la atención."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué sucede cuando logramos reconocer correctamente la doctrina en las Escrituras?",
+      "id": 6,
+      "question": "Camila quiere probar esta técnica mañana en su estudio. ¿Cuál de estas preguntas la ayudaría más?",
       "options": [
-        "Las Escrituras se vuelven más relevantes para nuestros desafíos actuales.",
-        "Terminamos el estudio diario mucho más rápido.",
-        "Ya no necesitamos buscar la guía del Espíritu Santo."
+        "¿Cuántos versículos alcancé a leer hoy en comparación con ayer?",
+        "¿Qué palabras del pasaje no entiendo y debería buscar después?",
+        "¿Qué me enseña esto sobre Dios y por qué querría que lo sepa?",
+        "¿En qué año ocurrió este episodio dentro de la historia bíblica?"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "La lección dice que cuando buscás debajo del texto casi siempre aparece lo mismo. ¿Qué es?",
+      "options": [
+        "Una regla práctica que se puede aplicar el mismo día que se lee.",
+        "Un dato histórico que ayuda a ubicar el relato en su época.",
+        "Jesucristo y lo que Él hizo por quien está leyendo el pasaje.",
+        "Una advertencia sobre las consecuencias de la desobediencia."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

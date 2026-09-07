@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Eliseo sabía que el Señor pronto se llevaría a Elías el Profeta, y aun así eligió no separarse de él ni un solo día. Bet-el, Jericó, el río Jordán: en cada parada, Elías le insistía a Eliseo que se quedara, y en cada parada Eliseo respondía lo mismo: no te dejaré. Cuando finalmente llegaron al Jordán, Elías golpeó las aguas con su manto y ambos cruzaron por tierra seca. Del otro lado, Elías le hizo a Eliseo una última pregunta: pedí lo que quieras que haga por vos. Eliseo pidió una doble porción del espíritu de su maestro, un pedido enorme para alguien que se preparaba para asumir un llamamiento que no había elegido y que probablemente le daba miedo. Entonces un carro de fuego separó a los dos, y Elías fue llevado al cielo en un torbellino. Eliseo tomó el manto que había caído y golpeó las aguas del Jordán tal como lo había visto hacer a Elías. Las aguas se abrieron de nuevo, y los demás profetas que observaban desde la orilla reconocieron de inmediato: el espíritu de Elías reposa sobre Eliseo. El manto en sí no tenía ningún poder mágico; representaba la autoridad que Dios le había dado a Eliseo cuando lo llamó a servir. Lo mismo pasa hoy con cualquier llamamiento en la Iglesia: la autoridad viene de Dios en el momento en que alguien es apartado, pero el poder para cumplir ese llamamiento se recibe después, a medida que la persona se esfuerza por vivir con rectitud. Nadie está solo cuando acepta servir donde Dios lo llama, aunque al principio sienta que le falta preparación."
+      "contenido": "Eliseo sabía que el Señor pronto se llevaría a Elías el Profeta, y aun así eligió no separarse de él ni un solo día. Bet-el, Jericó, el río Jordán: en cada parada, Elías le insistía a Eliseo que se quedara, y en cada parada Eliseo respondía lo mismo: no te dejaré. Cuando finalmente llegaron al Jordán, Elías golpeó las aguas con su manto y ambos cruzaron por tierra seca. Del otro lado, Elías le hizo a Eliseo una última pregunta: pedí lo que quieras que haga por vos. Eliseo pidió una doble porción del espíritu de su maestro, un pedido enorme para alguien que se preparaba para asumir un llamamiento que no había elegido y que probablemente le daba miedo. Entonces un carro de fuego separó a los dos, y Elías fue llevado al cielo en un torbellino. Eliseo tomó el manto que había caído y golpeó las aguas del Jordán tal como lo había visto hacer a Elías. Las aguas se abrieron de nuevo, y los demás profetas que observaban desde la orilla reconocieron de inmediato: el espíritu de Elías reposa sobre Eliseo. El manto en sí no tenía ningún poder mágico; representaba la autoridad que Dios le había dado a Eliseo cuando lo llamó a servir. Lo mismo pasa hoy con cualquier llamamiento en la Iglesia: la autoridad viene de Dios en el momento en que alguien es apartado, pero el poder para cumplir ese llamamiento se recibe después, a medida que la persona se esfuerza por vivir con rectitud. Nadie está solo cuando acepta servir donde Dios lo llama, aunque al principio sienta que le falta preparación. Y conviene saber de dónde viene esa autoridad: el sacerdocio que Elías tenía y pasó a Eliseo no era de ninguno de los dos, es el poder de Jesucristo delegado a hombres. La Iglesia lo llama 'de Melquisedec' para no repetir tan seguido el nombre del Hijo de Dios, que es Su nombre verdadero. Cuando alguien te bendice, no te presta su fuerza personal: actúa en Su nombre."
     },
     {
       "tipo": "escrituras",
@@ -47,13 +47,91 @@
       "tipo": "cuestionario",
       "preguntas": [
         "¿Con qué personaje te identificás más: con Elías, que debía dejar su llamamiento, o con Eliseo, que debía asumir uno nuevo?",
-        "Si supieras que en poco tiempo vas a recibir una responsabilidad importante, ¿qué harías para prepararte, como hizo Eliseo al no separarse de Elías?",
-        "¿Alguna vez aceptaste un llamamiento o una responsabilidad sintiendo que no estabas del todo preparado? ¿Qué pasó después?",
-        "¿Por qué creés que Eliseo pidió una 'doble porción' del espíritu de Elías en lugar de pedir otra cosa?",
-        "¿Qué llamamiento o responsabilidad actual sentís que podrías cumplir mejor si confiaras más en que Dios te va a dar el poder para hacerlo?",
-        "¿A quién de tu barrio o rama podrías animar esta semana en su propio llamamiento, recordándole que Dios respalda a quienes Él llama?"
+        "Si supieras que pronto vas a recibir una responsabilidad importante, ¿qué harías para prepararte, como hizo Eliseo al no separarse de Elías?",
+        "Volvé a leer 2 Reyes 2:9–10 en el bloque de escrituras. ¿Qué le pide Eliseo a Elías, y qué condición le pone Elías para que se cumpla?",
+        "¿Alguna vez aceptaste una responsabilidad sintiendo que no estabas del todo preparado? ¿Qué pasó después?",
+        "¿Qué llamamiento o responsabilidad actual cumplirías mejor si confiaras más en que Dios te va a dar el poder para hacerlo?",
+        "¿A quién de tu barrio o rama podrías animar esta semana en su llamamiento? Pedí en oración que te venga un nombre y anotalo."
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué le pidió Eliseo a Elías cuando este le dijo que pidiera lo que quisiera?",
+      "options": [
+        "Que le enseñara a hacer los mismos milagros que él había hecho.",
+        "Una doble porción de su espíritu.",
+        "Que le dejara el manto como recuerdo de su maestro.",
+        "Que intercediera por él ante el Señor antes de partir."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Según el relato, ¿cómo fue llevado Elías?",
+      "options": [
+        "En un carro de fuego, y subió al cielo en un torbellino.",
+        "Desapareció durante la noche sin que nadie lo viera partir.",
+        "Se durmió junto al Jordán y su cuerpo fue sepultado allí.",
+        "Cruzó el río y siguió camino solo hacia el desierto de Judá."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "La lección aclara algo sobre el manto que Eliseo levantó. ¿Qué era en realidad?",
+      "options": [
+        "Un objeto con poder propio que Elías había recibido directamente del cielo.",
+        "Una prenda ceremonial que todo profeta debía usar para hacer milagros.",
+        "Un símbolo de la autoridad que Dios ya le había dado a Eliseo al llamarlo.",
+        "Un recordatorio para el pueblo de que Elías podía regresar en cualquier momento."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Según la lección, ¿en qué momento se recibe el poder para cumplir un llamamiento?",
+      "options": [
+        "Antes de aceptarlo, porque el Señor solo llama a quienes ya están preparados.",
+        "En el instante del apartamiento, junto con toda la capacidad que hará falta.",
+        "Únicamente cuando la persona ya cumplió varios llamamientos anteriores.",
+        "Después, a medida que la persona se esfuerza por servir y vivir con rectitud."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Agustina recibió un llamamiento en su clase y lo primero que pensó fue que no sabe lo suficiente como para hacerlo bien. Según esta lección, ¿qué le convendría entender?",
+      "options": [
+        "Que conviene rechazarlo hasta haber estudiado más y sentirse del todo preparada para eso.",
+        "Que la autoridad ya le fue dada, y el poder para cumplirlo llega mientras sirve.",
+        "Que si el Señor la llamó, ya tiene toda la capacidad necesaria desde el primer día.",
+        "Que puede pedir que se lo asignen a alguien con más experiencia en ese tema."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Lucía escuchó decir que una bendición del sacerdocio depende de lo buena persona que sea quien la da. Según la lección, ¿qué le respondería?",
+      "options": [
+        "Que en parte es cierto, porque la fe del que bendice determina el resultado.",
+        "Que quien bendice no presta su fuerza personal: actúa con autoridad delegada.",
+        "Que conviene buscar siempre al líder de más experiencia del barrio o la rama.",
+        "Que la bendición vale igual aunque la persona no haya sido apartada para eso."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Tanto el manto que pasó de Elías a Eliseo como el sacerdocio de hoy apuntan a la misma idea sobre la autoridad. ¿Cuál es?",
+      "options": [
+        "Que la autoridad se hereda dentro de ciertas familias que el Señor escoge de antemano.",
+        "Que la autoridad crece con los años de servicio que acumula quien la recibe.",
+        "Que la autoridad no es de quien la lleva: viene de Cristo y se ejerce en Su nombre.",
+        "Que la autoridad depende del objeto o la ordenanza con la que se transmite."
+      ],
+      "correctAnswer": 2
+    }
+  ]
 }

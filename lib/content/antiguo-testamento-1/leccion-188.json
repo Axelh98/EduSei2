@@ -7,7 +7,7 @@
         "Capaz estás cansado de la escuela. Tal vez sentís que estudiar no tiene sentido, que preferirías empezar a trabajar ya, o que la educación es solo un trámite antes de la \"vida real\". Es una sensación común entre los adolescentes, y es normal sentirla de vez en cuando.",
         "Pero el Padre Celestial ve la educación de otra manera. Para Él no es solamente un medio para ganar dinero. Es parte de tu progreso eterno. Cada vez que aprendés algo nuevo, con esfuerzo y disciplina, te estás pareciendo un poco más a Él. La inteligencia que ganás en esta vida no se pierde: te acompaña para siempre.",
         "Pensá en la educación como un embudo. Al principio, estudiar parece la abertura angosta: exige esfuerzo, sacrificio y disciplina. Pero esa angostura se abre después en más libertad, más oportunidades y más capacidad para servir a los demás. En cambio, elegir no esforzarte hoy parece más liviano, pero con el tiempo termina cerrando puertas.",
-        "No hace falta que ames cada materia del colegio. Lo que sí necesitás es una razón más grande que la nota del boletín: aprender es parte de llegar a ser como tu Padre Celestial, y de tener más herramientas para bendecir a otros el día de mañana."
+        "No hace falta que ames cada materia del colegio. Lo que sí necesitás es una razón más grande que la nota del boletín: aprender es parte de llegar a ser como tu Padre Celestial y de tener más herramientas para bendecir a otros mañana. Y hay un dato que ayuda cuando estudiar se hace cuesta arriba: Lucas escribe que Jesús, siendo chico, 'crecía en sabiduría'. El Salvador no llegó al mundo sabiéndolo todo de entrada: aprendió, como vos. Su ejemplo cubre también esta parte de tu vida, la que menos parece espiritual —las horas de estudio que nadie ve son parte de parecerse a Él."
       ]
     },
     {
@@ -42,7 +42,7 @@
       "autor": "Presidente Gordon B. Hinckley",
       "fuente": "\"Words of the Prophet: Seek Learning\", New Era, septiembre de 2007, págs. 3–4",
       "texto": "Obtengan toda la educación académica posible.",
-      "link": "https://www.churchofjesuschrist.org/study/new-era/2007/09/words-of-the-prophet-seek-learning?lang=eng"
+      "link": "https://www.churchofjesuschrist.org/study/new-era/2007/09/words-of-the-prophet-seek-learning?lang=eng#p7"
     },
     {
       "tipo": "conclusion",
@@ -51,63 +51,90 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Qué materia o tema te gusta aprender más, y cómo descubriste ese interés?",
-        "¿Alguna vez sentiste que estudiar era una pérdida de tiempo? ¿Qué te ayudó a cambiar esa forma de verlo, si es que cambió?",
-        "¿Por qué creés que el Padre Celestial quiere que Sus hijos sigan aprendiendo toda la vida, y no solo mientras están en la escuela?",
-        "¿Qué diferencia hay entre estudiar solo para aprobar una materia y estudiar para llegar a ser más semejante al Padre Celestial?",
-        "¿Qué materia o hábito de estudio te está costando más esta semana? ¿Qué paso concreto podés dar para no abandonarlo?",
-        "¿A quién podrías pedirle ayuda esta semana si algo en la escuela te resulta difícil?"
+        "¿Qué materia o tema te gusta más aprender, y cómo descubriste ese interés?",
+        "¿Alguna vez sentiste que estudiar era una pérdida de tiempo? ¿Qué te ayudó a cambiar esa mirada, si es que cambió?",
+        "Volvé a leer Doctrina y Convenios 130:18–19 en el bloque de escrituras. ¿Qué dice que se levantará con nosotros en la resurrección, y qué ventaja menciona después?",
+        "¿Qué diferencia hay entre estudiar solo para aprobar y estudiar para llegar a ser más semejante al Padre Celestial?",
+        "¿Qué materia o hábito de estudio te está costando más esta semana? Pedí ayuda en oración para no abandonarlo y anotá qué cambió.",
+        "¿A quién podrías pedirle ayuda esta semana si algo de la escuela se te hace difícil?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Por qué la educación se considera un mandamiento y no solo una sugerencia para los Santos de los Últimos Días?",
+      "question": "¿Con qué imagen compara la lección el esfuerzo de estudiar?",
       "options": [
-        "Porque es necesario para ser populares.",
-        "Porque el Señor desea que desarrollemos nuestros talentos y nos preparemos para servir.",
-        "Porque es la única forma de entrar al templo."
+        "Con un embudo: angosto al principio y más abierto después.",
+        "Con una escalera, donde cada escalón cuesta lo mismo que el anterior.",
+        "Con una carrera larga en la que todos parten desde el mismo lugar.",
+        "Con una llave que abre una sola puerta y después ya no sirve."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué tipo de bendiciones espirituales aporta la educación?",
+      "question": "Según Doctrina y Convenios 130:18–19, ¿qué pasa con la inteligencia que adquirimos en esta vida?",
       "options": [
-        "Nos permite ganar debates religiosos.",
-        "Aumenta nuestra capacidad de comprender la verdad y de recibir revelación personal.",
-        "Nos asegura que nunca tendremos problemas en la vida."
+        "Queda registrada en los archivos de la Iglesia para la posteridad.",
+        "Se levanta con nosotros en la resurrección y da ventaja después.",
+        "Se pierde al morir, porque pertenece solo al cuerpo mortal.",
+        "Se transmite a los descendientes por medio de los convenios."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Cuál es una bendición temporal clave de obtener formación académica?",
+      "question": "Según la lección, ¿por qué le importa al Padre Celestial que sigas aprendiendo?",
       "options": [
-        "Tener una casa más grande que la de los vecinos.",
-        "Poder trabajar menos horas que los demás.",
-        "Estar mejor capacitados para proveer para nuestras necesidades y las de nuestra futura familia."
+        "Porque la Iglesia necesita miembros con títulos y buenas profesiones.",
+        "Porque el estudio mantiene ocupada la mente y aleja las tentaciones.",
+        "Porque aprender es parte de llegar a ser como Él y de poder servir.",
+        "Porque quienes estudian más reciben llamamientos de más responsabilidad."
       ],
       "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "Según las enseñanzas de los profetas, ¿cuándo termina nuestro proceso de aprendizaje?",
+      "question": "La lección menciona un detalle sobre la infancia de Jesús que conecta con el estudio. ¿Cuál es?",
       "options": [
-        "Cuando nos graduamos de la escuela secundaria.",
-        "Es un proceso eterno que continúa incluso después de esta vida.",
-        "Cuando conseguimos nuestro primer empleo."
+        "Que enseñaba en el templo sin haber recibido instrucción alguna.",
+        "Que aprendió el oficio de Su padre antes de empezar Su ministerio.",
+        "Que memorizó la ley completa antes de cumplir los doce años.",
+        "Que Lucas escribe que 'crecía en sabiduría': también Él aprendió."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Benjamín quiere abandonar una materia difícil porque cree que no le va a servir para nada en la vida. Según esta lección, ¿qué le convendría considerar?",
+      "options": [
+        "Que puede dejarla y retomarla más adelante, cuando tenga más interés.",
+        "Que lo que aprende con esfuerzo no se pierde y lo prepara para servir.",
+        "Que conviene concentrarse solo en las materias que le resultan fáciles.",
+        "Que la formación académica importa menos que la espiritual a su edad."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cómo ayuda la formación académica a nuestro servicio en el Reino de Dios?",
+      "id": 6,
+      "question": "Lucía se pregunta cómo puede ser espiritual sentarse a estudiar matemática un martes cualquiera. ¿Qué le respondería la lección?",
       "options": [
-        "Nos da habilidades y conocimientos para ser instrumentos más eficaces en Sus manos.",
-        "Hace que nuestras oraciones sean escuchadas más rápido.",
-        "Nos permite evitar los llamamientos que no nos gustan."
+        "Que no lo es: lo espiritual y lo académico corren por caminos distintos.",
+        "Que conviene estudiar escuchando himnos para darle sentido espiritual.",
+        "Que las horas de estudio que nadie ve son parte de parecerse a Él.",
+        "Que solo cuenta como espiritual si después usa ese saber en la Iglesia."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "La lección dice que hace falta 'una razón más grande que la nota del boletín'. ¿Cuál es esa razón?",
+      "options": [
+        "Llegar a ser como el Padre Celestial y tener con qué bendecir a otros.",
+        "Conseguir un buen trabajo que permita mantener a una familia después.",
+        "Cumplir con lo que los padres y los maestros esperan de cada alumno.",
+        "Superar el rendimiento de los compañeros para destacarse en el curso."
       ],
       "correctAnswer": 0
     }

@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Habían pasado unos tres años desde que Elías el Profeta detuvo la lluvia sobre Israel como señal contra la idolatría, pero el pueblo seguía dividido entre dos religiones a la vez. Elías decidió terminar con la ambigüedad de una vez: reunió a todo Israel en el monte Carmelo junto con los cuatrocientos cincuenta profetas de Baal y les propuso una prueba definitiva. Cada bando prepararía un sacrificio sin encender fuego, e invocaría a su dios; el que respondiera con fuego del cielo, ese sería el Dios verdadero. Antes de empezar, Elías hizo una pregunta que atravesaba todas las excusas: ¿hasta cuándo van a titubear entre dos opiniones? Los profetas de Baal clamaron toda la mañana sin respuesta. Cuando le tocó el turno a Elías, hizo empapar el altar con agua tres veces, para que no quedara duda de que lo que iba a pasar no tenía explicación humana. Entonces oró, y el fuego de Jehová cayó y consumió todo, hasta el agua de la zanja. El pueblo, que había estado en silencio toda la prueba, cayó sobre su rostro y gritó: ¡Jehová es Dios! El desafío de Elías no era realmente contra los sacerdotes de Baal; era contra la indecisión del pueblo, esa costumbre de querer un poco de las dos cosas sin comprometerse del todo con ninguna. Es fácil pensar que uno ya eligió a quién sigue, hasta que aparece una situación concreta —qué mirar, qué decir, a quién imitar— donde en realidad se está caminando con un pie en cada línea. La pregunta de Elías sigue siendo la misma hoy: no cuánto sabés sobre Dios, sino a quién estás dispuesto a seguir de verdad."
+      "contenido": "Habían pasado unos tres años desde que Elías el Profeta detuvo la lluvia sobre Israel como señal contra la idolatría, pero el pueblo seguía dividido entre dos religiones a la vez. Elías decidió terminar con la ambigüedad: reunió a todo Israel en el monte Carmelo junto con los cuatrocientos cincuenta profetas de Baal y les propuso una prueba. Cada bando prepararía un sacrificio sin encender fuego, e invocaría a su dios; el que respondiera con fuego del cielo, ese sería el Dios verdadero. Antes de empezar, Elías hizo una pregunta que atravesaba todas las excusas: ¿hasta cuándo van a titubear entre dos opiniones? Los profetas de Baal clamaron toda la mañana sin respuesta. Cuando le tocó el turno a Elías, hizo empapar el altar con agua tres veces, para que no quedara duda de que lo que iba a pasar no tenía explicación humana. Entonces oró, y el fuego de Jehová cayó y consumió todo, hasta el agua de la zanja. El pueblo, que había estado en silencio toda la prueba, cayó sobre su rostro y gritó: ¡Jehová es Dios! El desafío de Elías no era realmente contra los sacerdotes de Baal; era contra la indecisión del pueblo, esa costumbre de querer un poco de las dos cosas sin comprometerse del todo con ninguna. Es fácil pensar que uno ya eligió a quién sigue, hasta que aparece una situación concreta —qué mirar, qué decir, a quién imitar— donde en realidad se está caminando con un pie en cada línea. La pregunta de Elías sigue siendo la misma hoy: no cuánto sabés sobre Dios, sino a quién estás dispuesto a seguir de verdad. Y hay un detalle del altar: lo que subió al monte no fue un argumento, fue un sacrificio. Siglos después, en otro monte a las afueras de Jerusalén, el sacrificio que resolvió la cuestión fue Jesucristo mismo, y ahí no bajó fuego del cielo a defenderlo. Elías pudo pedir una señal; Él eligió no pedirla. Su sacrificio es la respuesta definitiva, y llegó sin espectáculo."
     },
     {
       "tipo": "escrituras",
@@ -46,14 +46,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Con qué parte del pueblo de Israel te identificás más: con los que dudaban entre Baal y Jehová, o con Elías que exigió una decisión clara?",
-        "Si tuvieras que explicar con tus propias palabras qué significa 'claudicar entre dos opiniones', ¿qué ejemplo darías de la vida de un adolescente hoy?",
-        "¿Alguna vez sentiste que estabas tratando de seguir dos caminos distintos al mismo tiempo? ¿Qué pasó?",
-        "¿Qué voces compiten hoy por tu atención y podrían alejarte de seguir al Padre Celestial y a Jesucristo?",
+        "¿Con qué parte del pueblo de Israel te identificás más: con los que dudaban entre Baal y Jehová, o con Elías, que exigió una decisión clara?",
+        "Si tuvieras que explicar con tus palabras qué significa 'claudicar entre dos opiniones', ¿qué ejemplo darías de la vida de un adolescente hoy?",
+        "Volvé a leer 1 Reyes 18:21 en el bloque de escrituras. ¿Qué palabra usa Elías para describir lo que el pueblo venía haciendo, y qué dos opciones les pone delante?",
+        "¿Alguna vez sentiste que estabas tratando de seguir dos caminos distintos a la vez? ¿Qué pasó?",
         "¿En qué área concreta de tu vida vas a dejar de 'caminar por las dos líneas' esta semana?",
-        "¿A quién le podrías contar tu decisión de seguir completamente al Padre Celestial y a Jesucristo, para que te ayude a mantenerte firme?"
+        "¿A quién le podrías contar esa decisión para que te ayude a sostenerla? Antes de contárselo, ponelo en oración y anotá lo que sentiste."
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuántos profetas de Baal reunió Elías en el monte Carmelo para la prueba?",
+      "options": [
+        "Cuatrocientos cincuenta.",
+        "Doce, uno por cada tribu de Israel.",
+        "Setenta, como el consejo de ancianos.",
+        "Trescientos, el mismo número del ejército de Gedeón."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Antes de orar, Elías dio una instrucción sobre el altar que hacía la prueba todavía más difícil. ¿Cuál fue?",
+      "options": [
+        "Mandó apagar todas las antorchas del monte para que nadie viera lo que pasaba.",
+        "Mandó que el pueblo se retirara a la distancia para no presenciar el milagro.",
+        "Mandó reemplazar la leña seca por ramas verdes recién cortadas del bosque.",
+        "Mandó empapar el altar con agua tres veces, hasta llenar la zanja."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "¿Por qué mandó Elías empapar el altar antes de orar?",
+      "options": [
+        "Para cumplir un requisito ceremonial que la ley de Moisés exigía antes de un sacrificio.",
+        "Para dar tiempo a que los profetas de Baal terminaran de clamar a su dios.",
+        "Para que el fuego no pudiera atribuirse a ninguna causa natural ni a un truco.",
+        "Para demostrar que sabía más sobre sacrificios que los sacerdotes de Baal."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Según la lección, el desafío de Elías no apuntaba en realidad a los sacerdotes de Baal. ¿A qué apuntaba?",
+      "options": [
+        "A la indecisión del pueblo, que quería seguir a los dos a la vez.",
+        "A la debilidad militar de Israel frente a los reinos vecinos de aquella época.",
+        "A la corrupción del rey Acab, que había permitido levantar altares extranjeros.",
+        "A la falta de conocimiento del pueblo, que nunca había oído hablar de Jehová."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Martina dice que cree en el Evangelio, pero cuando está con su grupo evita cualquier tema que la haga quedar distinta, y se justifica pensando que igual sigue creyendo por dentro. Según el principio de esta lección, ¿qué le está pasando?",
+      "options": [
+        "Está siendo prudente, porque la fe es un asunto privado que no hace falta exponer ante nadie.",
+        "Está claudicando entre dos opiniones, que es lo que Elías señaló en el pueblo.",
+        "Está poniendo a prueba a sus amigos para ver quiénes la aceptarían de verdad.",
+        "Está esperando el momento adecuado, como hizo Elías durante aquellos tres años."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Tomás nota que los domingos decide en el momento si va a la Iglesia o no, según cómo se sienta al despertarse. ¿Qué le sugeriría el ejemplo del monte Carmelo?",
+      "options": [
+        "Que espere a tener una señal clara del Señor antes de comprometerse con un horario.",
+        "Que decida de antemano a quién sigue, en lugar de resolverlo cada vez según el ánimo.",
+        "Que asista solo los domingos en que sienta el Espíritu de manera especialmente fuerte.",
+        "Que hable con sus líderes para que le asignen algo que lo obligue a estar presente."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "En el Carmelo cayó fuego del cielo para probar quién era el Dios verdadero; siglos después, según la lección, Jesucristo no pidió ninguna señal parecida. ¿Qué contraste enseña eso?",
+      "options": [
+        "Que los milagros del Antiguo Testamento eran más impresionantes que los que vinieron después.",
+        "Que Elías tenía más fe que los discípulos que acompañaron al Salvador.",
+        "Que la respuesta definitiva sobre quién es Dios fue un sacrificio, no un espectáculo.",
+        "Que las señales del cielo dejaron de darse después de la época de los profetas."
+      ],
+      "correctAnswer": 2
+    }
+  ]
 }

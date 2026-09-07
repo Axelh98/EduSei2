@@ -21,6 +21,13 @@
       ]
     },
     {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dallin H. Oaks",
+      "fuente": "“El sacrificio”, Conferencia General, abril de 2012",
+      "texto": "El sufrimiento incomprensible de Jesucristo puso fin al sacrificio por derramamiento de sangre, pero no puso fin a la importancia del sacrificio en el plan del Evangelio. Nuestro Salvador nos requiere que continuemos ofreciendo sacrificios, pero los sacrificios que Él manda ahora son que le “[ofrezcamos] un corazón quebrantado y un espíritu contrito” (3 Nefi 9:20).",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2012/04/sacrifice?lang=spa&id=p9#p9"
+    },
+    {
       "tipo": "conclusion",
       "contenido": "Los convenios de obediencia y sacrificio no buscan quitarte algo, sino ayudarte a llegar a ser más como el Padre Celestial y el Salvador. Cada vez que elegís obedecer un mandamiento aunque sea difícil, o cuando entregás tu tiempo o tus recursos para servir en la Iglesia, ya estás viviendo el espíritu de estos convenios antes de hacerlos formalmente en el templo. Esta semana, identificá una manera concreta de practicar uno de estos dos principios, aunque sea en algo pequeño."
     },
@@ -29,9 +36,9 @@
       "preguntas": [
         "¿Qué mandamiento te resulta más fácil de obedecer y cuál te cuesta más?",
         "¿Alguna vez sacrificaste algo tuyo —tiempo, plata, comodidad— para servir a alguien o a la Iglesia? ¿Cómo te sentiste después?",
-        "¿Qué diferencia hay, para vos, entre obedecer por miedo y obedecer por amor a Dios?",
-        "¿De qué manera ya estás practicando el principio del sacrificio en tu vida diaria, aunque no lo hayas hecho como convenio formal todavía?",
-        "¿Qué decisión pequeña pero concreta podrías tomar esta semana para practicar la ley de obediencia?",
+        "Volvé a leer Abraham 3:25 en el bloque de escrituras. ¿Qué dice que se va a probar, y con qué palabras exactas lo dice?",
+        "¿De qué manera ya estás practicando el principio del sacrificio en tu vida diaria, aunque todavía no lo hayas hecho como convenio formal?",
+        "¿Qué decisión chica pero concreta podrías tomar esta semana para practicar la ley de obediencia? Pedí ayuda en oración para sostenerla.",
         "¿Hay algo —tiempo, talento, comodidad— que podrías ofrecer esta semana para servir a otra persona o a tu congregación?"
       ]
     }
@@ -39,53 +46,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué leyes prometemos vivir como parte del convenio de la investidura en el templo?",
+      "question": "¿Cuáles son los dos convenios del templo que trata esta lección?",
       "options": [
-        "Solo la ley del diezmo.",
-        "Las leyes de obediencia y de sacrificio.",
-        "Únicamente reglas de vestimenta."
+        "La ley de obediencia y la ley de sacrificio.",
+        "La ley de castidad y la ley de consagración.",
+        "La ley del diezmo y la ley del ayuno mensual.",
+        "La ley del Evangelio y la ley de la salud física."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Por qué el Señor nos pide hacer estos convenios en Su santa casa?",
+      "question": "Según la lección, ¿qué significa la ley de sacrificio?",
       "options": [
-        "Para ayudarnos a llegar a ser más semejantes a Él y a Su Hijo.",
-        "Porque quiere restringir nuestra libertad.",
-        "Para que podamos presumir de ser miembros del templo."
+        "Renunciar a los bienes materiales y vivir con lo mínimo necesario.",
+        "Entregar tiempo y talentos, y acercarse con un corazón quebrantado.",
+        "Ofrecer animales en el altar, como se hacía en el Antiguo Testamento.",
+        "Aceptar cualquier llamamiento sin importar las circunstancias personales."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Cuál es la relación entre el sacrificio y nuestro amor por el Salvador?",
+      "question": "En Abraham 3:25, ¿qué dice el Señor que se probaría?",
       "options": [
-        "Nuestra disposición a sacrificar muestra nuestra devoción y amor por Él.",
-        "El sacrificio es un castigo por nuestros pecados.",
-        "No hay relación entre ambos."
+        "Si el pueblo estaría dispuesto a construir un templo en el desierto.",
+        "Si los profetas serían capaces de guiar al pueblo sin equivocarse.",
+        "Si harían todas las cosas que el Señor su Dios les mandara.",
+        "Si las naciones aceptarían el Evangelio cuando se les predicara."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué significa obedecer la ley de obediencia?",
+      "question": "Según el presidente Oaks, ¿qué cambió el sufrimiento de Jesucristo respecto del sacrificio?",
       "options": [
-        "Hacer solo lo que nos gusta.",
-        "Comprometernos a obedecer los mandamientos de Dios y seguir el consejo de los líderes de la Iglesia.",
-        "Obedecer solo cuando es conveniente."
+        "Eliminó por completo la necesidad de sacrificarse en el Evangelio.",
+        "Trasladó la responsabilidad del sacrificio a los líderes del sacerdocio.",
+        "Reemplazó el sacrificio por la obediencia estricta a los mandamientos.",
+        "Puso fin al derramamiento de sangre, pero no a la importancia del sacrificio."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Joaquín cumple los mandamientos sobre todo por miedo a las consecuencias de no hacerlo. Según esta lección, ¿qué le falta entender?",
+      "options": [
+        "Que el miedo es un motivador legítimo mientras la conducta sea correcta.",
+        "Que los mandamientos existen para protegerlo y ayudarlo a ser como Dios.",
+        "Que basta con cumplir por fuera, porque el motivo no cambia el resultado.",
+        "Que conviene esperar a sentir amor antes de empezar a obedecer algo."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cómo nos preparan estos convenios para la vida eterna?",
+      "id": 6,
+      "question": "Ana quiere practicar la ley de sacrificio antes de hacer el convenio en el templo. ¿Cuál de estas opciones se le parece más?",
       "options": [
-        "No tienen relación con la vida eterna.",
-        "Nos ayudan a desarrollar atributos divinos y nos acercan al Padre Celestial y Jesucristo.",
-        "Solo sirven para esta vida terrenal."
+        "Esperar a recibir su investidura para recién entonces empezar a hacerlo.",
+        "Renunciar a algo que le gusta solo para comprobar si puede lograrlo.",
+        "Dedicar tiempo o talentos suyos a servir en su barrio esta semana.",
+        "Anotar todo lo que entrega para llevar la cuenta de sus sacrificios."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Según la lección, ¿qué tienen en común la ley de obediencia y la de sacrificio?",
+      "options": [
+        "Las dos ayudan a llegar a ser más como el Padre y el Salvador.",
+        "Las dos se cumplen únicamente dentro del edificio del templo.",
+        "Las dos exigen renunciar a algo que uno valora mucho en la vida.",
+        "Las dos se aplican solo a los adultos que ya tienen familia propia."
+      ],
+      "correctAnswer": 0
     }
   ]
 }

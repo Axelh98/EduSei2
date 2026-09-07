@@ -1057,6 +1057,71 @@ function libroDeContenido(cursos: Curso[], maxLineas: number): ExcelJS.Workbook 
   return wb
 }
 
+/**
+ * Agrega las pestañas de uno o varios cursos a un Excel de contenido que ya existe,
+ * sin tocar las hojas que ya están (y por lo tanto sin borrar lo que el auditor haya
+ * escrito en «Estado» y «Observaciones»).
+ *
+ * La hoja RESUMEN sí se regenera, porque sus totales quedarían mal: se recalcula
+ * desde `lib/content/` para todos los cursos que terminen presentes en el libro, y
+ * se vuelve a dejar en primer lugar.
+ */
+async function agregarAContenido(
+  ruta: string,
+  cursos: Curso[],
+  maxLineas: number,
+): Promise<{ agregadas: string[]; yaEstaban: string[] }> {
+  const wb = new ExcelJS.Workbook()
+  await wb.xlsx.readFile(ruta)
+
+  const conAlgo = cursos
+    .map((c) => ({ ...c, filas: c.filas.filter((f) => f.conMaterial) }))
+    .filter((c) => c.filas.length > 0)
+
+  const agregadas: string[] = []
+  const yaEstaban: string[] = []
+
+  for (const curso of conAlgo) {
+    const hoja = NOMBRE_HOJA[curso.cat.id] ?? curso.cat.id
+    if (wb.getWorksheet(hoja)) {
+      yaEstaban.push(hoja)
+      continue
+    }
+    agregarCurso(
+      wb,
+      curso,
+      columnasDeLecciones(curso.filas),
+      `${curso.resumen.nombre}  ·  ${curso.cat.id}`,
+      `${curso.resumen.nombre} — cuestionarios  ·  ${curso.cat.id}`,
+      "Ninguna de las lecciones con material de este curso tiene cuestionario.",
+      maxLineas,
+    )
+    agregadas.push(hoja, `${hoja} Quiz`)
+  }
+
+  // El RESUMEN se rehace con todos los cursos que hayan quedado en el libro.
+  const presentes = categories.filter((c) => wb.getWorksheet(NOMBRE_HOJA[c.id] ?? c.id))
+  const resumenes = presentes.map((cat) => leerCurso(cat).resumen)
+
+  const viejo = wb.getWorksheet("RESUMEN")
+  if (viejo) wb.removeWorksheet(viejo.id)
+  resumenContenido(wb, resumenes)
+
+  // addWorksheet la deja al final; el RESUMEN va primero.
+  const nuevo = wb.getWorksheet("RESUMEN")
+  if (nuevo) {
+    nuevo.orderNo = -1
+    wb.worksheets
+      .filter((w) => w.name !== "RESUMEN")
+      .forEach((w, i) => {
+        w.orderNo = i
+      })
+  }
+
+  await wb.xlsx.writeFile(ruta)
+  return { agregadas, yaEstaban }
+}
+
 function libroDePendientes(cursos: Curso[], maxLineas: number): ExcelJS.Workbook {
   const wb = new ExcelJS.Workbook()
   wb.creator = "AulaSEI"
@@ -1105,15 +1170,19 @@ async function main(): Promise<void> {
   const soloContenido = args.includes("--solo-contenido")
   const soloPendientes = args.includes("--solo-pendientes")
 
-  // Primer argumento suelto que no sea el valor de una opción.
-  const conValor = new Set(["--out-dir", "--max-lineas"])
-  const soloCurso = args.find(
+  const agregarA = valorDe(args, "--agregar-a")
+
+  // Argumentos sueltos que no sean el valor de una opción: uno o varios ids de curso.
+  const conValor = new Set(["--out-dir", "--max-lineas", "--agregar-a"])
+  const cursosPedidos = args.filter(
     (a, i) => !a.startsWith("--") && !(i > 0 && conValor.has(args[i - 1]))
   )
 
-  const elegidos = soloCurso ? categories.filter((c) => c.id === soloCurso) : categories
+  const elegidos = cursosPedidos.length
+    ? categories.filter((c) => cursosPedidos.includes(c.id))
+    : categories
   if (!elegidos.length) {
-    console.error(`No existe el curso "${soloCurso}".`)
+    console.error(`No existe ningún curso entre: ${cursosPedidos.join(", ")}.`)
     console.error(`Cursos: ${categories.map((c) => c.id).join(", ")}`)
     process.exit(1)
   }
@@ -1122,6 +1191,26 @@ async function main(): Promise<void> {
     const { filas, resumen } = leerCurso(cat)
     return { cat, filas, resumen }
   })
+
+  // Modo "agregar a un Excel que ya existe": no genera archivos nuevos.
+  if (agregarA) {
+    if (!existsSync(agregarA)) {
+      console.error(`No existe el archivo: ${agregarA}`)
+      process.exit(1)
+    }
+    const { agregadas, yaEstaban } = await agregarAContenido(agregarA, cursos, maxLineas)
+    if (yaEstaban.length) {
+      console.log(`Ya estaban (no se tocaron): ${yaEstaban.join(", ")}`)
+    }
+    console.log(
+      agregadas.length
+        ? `Hojas agregadas: ${agregadas.join(", ")}`
+        : "No había ninguna hoja nueva para agregar.",
+    )
+    console.log("RESUMEN regenerado con todos los cursos del libro.")
+    console.log(`Actualizado: ${agregarA}`)
+    return
+  }
 
   mkdirSync(outDir, { recursive: true })
   const escritos: string[] = []

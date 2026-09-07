@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Josafat llegó al trono de Judá en medio de la apostasía y decidió hacer algo poco común entre los reyes de su tiempo: en lugar de dejar que el pueblo se las arreglara solo con su fe, envió sacerdotes y levitas a recorrer todas las ciudades de Judá enseñando directamente de las Escrituras. Años después, esa misma confianza en la palabra de Dios se puso a prueba cuando un ejército enorme de Moab, Amón y el monte de Seir avanzó contra Judá. Josafat, con miedo, reunió a todo el pueblo a ayunar y orar, y terminó su oración con una frase honesta: \"no sabemos lo que hemos de hacer, mas a ti volvemos nuestros ojos\". La respuesta llegó por medio de un profeta llamado Jahaziel: no es vuestra la batalla, sino de Dios; apostaos, y quedaos quietos y ved la salvación de Jehová. Al día siguiente, Josafat puso a los cantores al frente del ejército, alabando a Dios antes incluso de empezar a pelear. El Señor confundió a los ejércitos enemigos, que terminaron atacándose entre sí, y Judá ni siquiera tuvo que luchar. Lo que conecta ambos momentos de la vida de Josafat —el rey que envía maestros a enseñar y el rey que enfrenta un ejército imposible— es el mismo principio: reconocer una verdad en las Escrituras y aplicarla con confianza, incluso cuando la situación da miedo. Josafat no inventó una solución nueva cada vez que apareció un problema; volvió una y otra vez a lo que ya sabía que era verdadero."
+      "contenido": "Josafat llegó al trono de Judá en medio de la apostasía y decidió hacer algo poco común entre los reyes de su tiempo: en lugar de dejar que el pueblo se las arreglara solo con su fe, envió sacerdotes y levitas a recorrer todas las ciudades de Judá enseñando directamente de las Escrituras. Años después, esa misma confianza en la palabra de Dios se puso a prueba cuando un ejército enorme de Moab, Amón y el monte de Seir avanzó contra Judá. Josafat, con miedo, reunió a todo el pueblo a ayunar y orar, y terminó su oración con una frase honesta: \"no sabemos lo que hemos de hacer, mas a ti volvemos nuestros ojos\". La respuesta llegó por medio de un profeta llamado Jahaziel: no es vuestra la batalla, sino de Dios; apostaos, y quedaos quietos y ved la salvación de Jehová. Al día siguiente, Josafat puso a los cantores al frente del ejército, alabando a Dios antes incluso de empezar a pelear. El Señor confundió a los ejércitos enemigos, que terminaron atacándose entre sí, y Judá ni siquiera tuvo que luchar. Lo que conecta ambos momentos de la vida de Josafat —el rey que envía maestros a enseñar y el rey que enfrenta un ejército imposible— es el mismo principio: reconocer una verdad en las Escrituras y aplicarla con confianza, incluso cuando la situación da miedo. Josafat no inventó una solución nueva cada vez que apareció un problema; volvió una y otra vez a lo que ya sabía que era verdadero. Y la frase que el Señor le mandó decir tiene una resonancia que Josafat no podía medir: 'no es vuestra la batalla, sino de Dios'. Siglos después, la batalla que de verdad importaba tampoco fue nuestra: la peleó Jesucristo solo, en Getsemaní y en la cruz, mientras el resto dormía. Judá se quedó quieto y vio la salvación de Jehová; nosotros hacemos algo parecido cada vez que dejamos de intentar salvarnos solos y aceptamos Su sacrificio."
     },
     {
       "tipo": "escrituras",
@@ -51,65 +51,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Con qué momento de la vida de Josafat te identificás más: con enviar maestros a enseñar, o con enfrentar un ejército que parecía imposible de vencer?",
-        "Si tuvieras que explicarle a alguien qué es un 'principio del Evangelio' con tus propias palabras, ¿qué dirías?",
-        "¿Alguna vez identificaste un principio en tu estudio personal de las Escrituras que después te ayudó en una situación real? ¿Cuál fue?",
-        "¿Por qué creés que Josafat decidió responder con alabanza antes de saber cómo iba a terminar la batalla?",
-        "¿Qué principio de esta lección —o de tu estudio personal reciente— vas a intentar aplicar esta semana ante una situación concreta?",
-        "¿Con quién podrías compartir esta semana un principio que hayas aprendido en tu estudio personal o familiar de las Escrituras?"
+        "¿Con qué momento de la vida de Josafat te identificás más: con enviar maestros a enseñar, o con enfrentar un ejército que parecía imposible?",
+        "Si tuvieras que explicar con tus palabras qué es un 'principio del Evangelio', ¿qué dirías?",
+        "Volvé a leer 2 Crónicas 20:17 en el bloque de escrituras. ¿Qué cosas les manda hacer el Señor, y cuál de ellas sería la más difícil de obedecer con miedo encima?",
+        "¿Por qué creés que Josafat respondió con alabanza antes de saber cómo iba a terminar la batalla?",
+        "¿Qué principio de esta lección vas a intentar aplicar esta semana ante una situación concreta? Pedí ayuda en oración y anotá cómo te fue.",
+        "¿Con quién podrías compartir esta semana un principio que hayas aprendido en tu estudio personal de las Escrituras?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué acción colectiva tomó el pueblo de Josafat para pedir ayuda ante un gran ejército enemigo?",
+      "question": "¿Qué hizo Josafat al llegar al trono, poco común entre los reyes de su tiempo?",
       "options": [
-        "Reunieron todos sus ahorros.",
-        "Ayunaron y oraron juntos buscando al Señor en Su casa.",
-        "Entrenaron 24 horas al día."
+        "Envió sacerdotes y levitas a enseñar las Escrituras por las ciudades.",
+        "Redujo todos los impuestos del reino para ganarse el favor del pueblo.",
+        "Trasladó la capital a una ciudad mejor fortificada.",
+        "Nombró jueces extranjeros para evitar favoritismos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Cuál de estos principios aprendemos de la victoria de Josafat?",
+      "question": "¿Con qué frase terminó Josafat su oración ante el ejército invasor?",
       "options": [
-        "Mientras creamos en el Señor y en Sus profetas, prosperaremos.",
-        "La música no tiene poder en las batallas.",
-        "El ayuno es solo para los adultos."
+        "'Jehová peleará por vosotros y vosotros os quedaréis tranquilos.'",
+        "'No sabemos lo que hemos de hacer, mas a ti volvemos nuestros ojos.'",
+        "'Hasta aquí nos ayudó Jehová en todos nuestros caminos.'",
+        "'Aunque yo ande en valle de sombra de muerte, no temeré mal alguno.'"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "¿Qué papel jugó la alabanza y la música en su liberación?",
+      "question": "¿Qué respondió el Señor por medio del profeta Jahaziel?",
       "options": [
-        "El Señor los bendijo mientras alababan con música incluso antes de la batalla.",
-        "Fue solo para celebrar después de ganar.",
-        "No tuvo ninguna importancia."
+        "Que el ejército enemigo se retiraría sin llegar a Judá.",
+        "Que debían atacar primero, antes del amanecer del día siguiente.",
+        "Que la batalla no era de ellos, sino de Dios.",
+        "Que el resultado dependería de cuántos ayunaran esa noche."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué mensaje dio el Espíritu a Josafat antes de la batalla: \"No temáis...\"?",
+      "question": "¿Qué hizo Josafat al día siguiente, antes de que empezara la batalla?",
       "options": [
-        "\"Porque la batalla no es vuestra, sino de Dios\".",
-        "\"Porque tenéis el ejército más grande\".",
-        "\"Porque sois invencibles\"."
+        "Envió mensajeros a negociar con los reyes enemigos.",
+        "Ordenó fortificar las ciudades del sur del reino.",
+        "Dividió el ejército en tres columnas para rodearlos.",
+        "Puso a los cantores al frente, alabando a Dios."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Martina tiene que tomar una decisión importante y lo primero que siente es que no tiene idea de qué hacer. Según el ejemplo de Josafat, ¿eso es un problema?",
+      "options": [
+        "Sí, porque conviene tener un plan antes de pedirle algo al Señor.",
+        "No: Josafat empezó reconociendo exactamente eso ante Dios.",
+        "Sí, porque la indecisión suele ser señal de falta de fe.",
+        "No, pero conviene resolverlo sola antes de involucrar a nadie."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Sofía quiere aplicar la técnica de Josafat esta semana. ¿Cuál de estas se le parece más?",
+      "options": [
+        "Agradecer por adelantado, antes de ver cómo se resuelve.",
+        "Esperar a que la situación se aclare para recién entonces orar.",
+        "Buscar en internet qué hicieron otros en su misma situación.",
+        "Postergar la decisión hasta sentirse completamente segura."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 5,
-      "question": "¿Qué hicieron los enemigos de Judá después de que el pueblo comenzó a alabar al Señor?",
+      "id": 7,
+      "question": "Las dos mitades de la vida de Josafat —enviar maestros y enfrentar un ejército— comparten un mismo principio. ¿Cuál?",
       "options": [
-        "Atacaron con más fuerza.",
-        "Se destruyeron entre ellos mismos.",
-        "Huyeron a sus países."
+        "Que la preparación militar es tan importante como la espiritual.",
+        "Que un rey debe delegar en otros las tareas más difíciles.",
+        "Que volvió a lo que ya sabía verdadero en vez de improvisar.",
+        "Que las decisiones se toman mejor con el consejo de profetas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

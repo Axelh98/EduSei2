@@ -1,6 +1,55 @@
 {
   "id": "leccion-64",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": [
+        "Hay una diferencia entre saber qué es una herramienta y saber usarla. Podés reconocer una llave inglesa en una foto y no tener idea de para qué sirve cuando se te rompe algo. Con los pasajes del Dominio de la Doctrina pasa lo mismo: memorizar la referencia no es lo mismo que saber a cuál acudir cuando la situación aparece de verdad.",
+        "Esta cuarta práctica es justamente para eso. El manual propone trabajar con casos reales —alguien presionado por su grupo para quebrantar un mandamiento, alguien que se pregunta si va a seguir cumpliéndolo cuando ya no viva con sus padres— y aplicarles los tres principios para adquirir conocimiento espiritual: actuar con fe, analizar los conceptos con una perspectiva eterna, y procurar mayor comprensión mediante las fuentes divinamente señaladas.",
+        "Y conviene tener claro para qué es todo esto. El Dominio de la Doctrina no existe para que ganes discusiones ni para que respondas rápido en clase: existe, dice el manual, para ayudarte a edificar el cimiento de tu vida sobre Jesucristo y Su Evangelio. Cada uno de esos pasajes es una manera distinta de mostrarte quién es Él. Actuar con fe es confiar en Su palabra antes de ver el resultado; mirar con perspectiva eterna es pedir prestados Sus ojos; acudir a las fuentes señaladas es escuchar donde Él eligió hablar. Los tres principios no son técnicas de estudio: son tres formas de acercarte a la misma Persona."
+      ]
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Josué 24:15",
+          "texto": "Y si mal os parece servir a Jehová, escogeos hoy a quién sirváis; si a los dioses a quienes sirvieron vuestros padres, cuando estuvieron al otro lado del río, o a los dioses de los amorreos en cuya tierra habitáis; pero yo y mi casa serviremos a Jehová.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "Santiago 1:5–6",
+          "texto": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, quien da a todos abundantemente y sin reproche, y le será dada. Pero pida con fe, no dudando nada, porque el que duda es semejante a la ola del mar, que es movida por el viento y echada de una parte a otra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa&id=p5-p6#p5"
+        },
+        {
+          "referencia": "Isaías 55:8–9",
+          "texto": "Porque mis pensamientos no son vuestros pensamientos... Como son más altos los cielos que la tierra, así son mis caminos más altos que vuestros caminos, y mis pensamientos más que vuestros pensamientos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=spa&id=p8-p9#p8"
+        },
+        {
+          "referencia": "2 Nefi 32:3–5",
+          "texto": "Los ángeles hablan por el poder del Espíritu Santo; por lo que declaran las palabras de Cristo. Por tanto, os dije: Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer. Por tanto, si después de haber hablado yo estas palabras, no podéis entenderlas, será porque no pedís ni llamáis; así que no sois llevados a la luz, sino que debéis perecer en las tinieblas. Porque he aquí, os digo otra vez, que si entráis por la senda y recibís el Espíritu Santo, él os mostrará todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3-p5#p3"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Un pasaje memorizado que nunca se usa es como una herramienta guardada en un cajón: no sirve de nada el día que hace falta. Practicar con casos concretos —antes de que el caso sea el tuyo— es lo que convierte una referencia en algo a lo que podés acudir cuando estés apurado o asustado. Y acordate de para qué es: cada uno de esos pasajes existe para llevarte a Jesucristo. Su gracia es lo que sostiene la decisión cuando la tomás; los versículos solo te recuerdan a quién le estás confiando el resultado. Elegí un pasaje del Dominio de la Doctrina de este año y practicá explicárselo a alguien usando una situación real, no una definición."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál de los pasajes del Dominio de la Doctrina de este año te resulta más fácil de recordar, y cuál te costaría más explicarle a alguien?",
+        "¿Alguna vez te pasó que sabías el versículo justo, pero recién te acordaste de él cuando la situación ya había pasado? ¿Qué te habría ayudado a recordarlo antes?",
+        "Volvé a leer 2 Nefi 32:3–5 en el bloque de escrituras. Nefi da una razón por la que alguien podría no entender las palabras de Cristo. ¿Cuál es, y qué pide que se haga en cambio?",
+        "De los tres principios —actuar con fe, mirar con perspectiva eterna, acudir a las fuentes divinamente señaladas—, ¿cuál usás menos? ¿Por qué te parece que es ese?",
+        "Pensá en una presión real que enfrenta alguien de tu edad. ¿Qué pasaje del Dominio de la Doctrina le serviría, y cómo se lo explicarías sin sonar a sermón?",
+        "¿Qué pregunta tuya, de las que todavía no tienen respuesta, querés llevar esta semana a la oración aplicando estos tres principios? Anotá lo que recibas, aunque sea poco."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,

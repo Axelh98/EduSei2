@@ -4,7 +4,7 @@
     {
       "tipo": "contexto",
       "contenido": [
-        "Hay una pregunta en Alma 5:26 que no es para el examen. Es para el corazón: '¿Podéis sentir eso ahora?' No pregunta si sabés las doctrinas del Evangelio. Pregunta si las estás viviendo.",
+        "Hay una pregunta en Alma 5:26 que no es para el examen. Es para el corazón: '¿Podéis sentir eso ahora?'. Fijate qué es exactamente lo que Alma pregunta si todavía sentís: 'la canción del amor que se redime'. No pregunta cuánta doctrina sabés. Pregunta si el amor redentor de Jesucristo sigue siendo algo vivo para vos, o si se volvió información que aprobaste una vez en una prueba.",
         "Este segundo momento de evaluación es una pausa para mirar hacia atrás y hacia adentro. Desde la creación del mundo hasta el final de Génesis, has recorrido algunos de los relatos más profundos de las Escrituras: el Plan de Salvación presentado en el concilio celestial, los convenios de Abraham, el matrimonio eterno de Isaac y Rebeca, la elección de Esaú de cambiar lo eterno por lo temporal, la providencia de Dios en la historia de José, y el perdón extraordinario que José extendió a sus hermanos.",
         "No es un repaso académico. Es una invitación a preguntarse: ¿qué de todo esto ha cambiado algo en mí? ¿Ha cambiado la manera en que trato a mi familia? ¿La manera en que enfrento las pruebas? ¿La disposición a perdonar a alguien que me hirió?",
         "Santiago 1:22 lo dice con claridad: la diferencia entre ser oyente y ser hacedor de la palabra es la diferencia entre conocer el Evangelio y vivirlo. El verdadero aprendizaje espiritual no termina en la cabeza. Termina en el corazón y se expresa en el comportamiento."
@@ -26,14 +26,18 @@
       ]
     },
     {
+      "tipo": "conclusion",
+      "contenido": "Este alto en el camino no mide cuánto retuviste, sino cuánto cambiaste. De Génesis aprendiste que Dios planifica con anticipación, que una primogenitura se puede vender barato, que la traición puede volverse providencia y que el perdón es posible incluso cuando parece que no. Pero ninguna de esas verdades se sostiene sola: todas cuelgan de Jesucristo, y es Su gracia la que hace posible un cambio de corazón, no la fuerza de voluntad del que se propone cambiar. Santiago pide hacedores y no solo oyentes, y hacer pesa menos cuando sabés que no lo hacés con tus propias fuerzas. Elegí una sola de estas verdades, escribila donde la veas todos los días, y actuá una vez en consecuencia antes del domingo."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué personaje del Antiguo Testamento estudiado hasta ahora —Abraham, Isaac, Rebeca, Esaú, Jacob, José— te habló más profundamente y por qué?",
         "¿Qué verdad doctrinal de las últimas semanas cambió o profundizó más tu comprensión del Evangelio?",
-        "Alma 5:26 pregunta si 'podés sentir eso ahora'. ¿Qué tan presente está en tu vida actual el amor del Salvador que aprendiste en estas lecciones?",
+        "Volvé a leer Alma 5:26 en el bloque de escrituras. Alma nombra dos cosas que pudieron haber pasado antes de hacer su pregunta. ¿Cuáles son, y cuál de las dos te cuesta más reconocer en vos?",
         "¿Hay algo que aprendiste y querés compartir con alguien más? ¿Con quién y de qué forma concreta podrías hacerlo esta semana?",
-        "¿En qué área de tu vida notás más crecimiento espiritual desde que comenzaste el año de Seminario?",
-        "¿Cuál es un cambio específico en tus hábitos espirituales que harás a partir de lo que aprendiste en estas semanas?"
+        "¿En qué área de tu vida notás más crecimiento espiritual desde que empezó el año de Seminario?",
+        "¿Cuál es un cambio concreto en tus hábitos espirituales que vas a hacer a partir de estas semanas? Llevalo a la oración antes de decidirlo y anotá qué sentiste."
       ]
     }
   ],

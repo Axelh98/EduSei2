@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Durante los reinados de Manasés y Amón, el pueblo de Judá se alejó tanto de Dios que las Escrituras terminaron perdidas dentro del propio templo, guardadas y olvidadas. Cuando Josías llegó a ser rey, a los ocho años, heredó una nación que prácticamente había dejado de conocer la palabra de Dios. Años más tarde, mientras se reparaba el templo, el sumo sacerdote Hilcías encontró un rollo antiguo: el libro de la ley. Cuando se lo leyeron a Josías, el rey rasgó sus vestidos, no por sorpresa vacía, sino porque comprendió cuánto se había alejado su pueblo de lo que Dios realmente había pedido. En lugar de guardar el hallazgo para sí mismo, Josías reunió a todo el pueblo, desde el más grande hasta el más pequeño, y leyó el libro completo en voz alta. Ese mismo día, el pueblo hizo convenio de volver al Señor con todo el corazón, y Josías comenzó a destruir sistemáticamente cada ídolo, cada altar falso, cada rastro de la idolatría que se había acumulado durante generaciones. Ningún otro rey, dice el texto, se volvió a Jehová con todo su corazón como lo hizo Josías. Lo notable es que el cambio no comenzó con una visión ni con un milagro espectacular: comenzó con la lectura de un texto que había estado ahí todo el tiempo, esperando ser abierto. Lo mismo puede pasar con tu propio ejemplar de las Escrituras: a veces la respuesta que necesitás no es nueva, es una que ya tenés, guardada, esperando que la busques con la misma seriedad que Josías."
+      "contenido": "Durante los reinados de Manasés y Amón, el pueblo de Judá se alejó tanto de Dios que las Escrituras terminaron perdidas dentro del propio templo, guardadas y olvidadas. Cuando Josías llegó a ser rey, a los ocho años, heredó una nación que prácticamente había dejado de conocer la palabra de Dios. Años más tarde, mientras se reparaba el templo, el sumo sacerdote Hilcías encontró un rollo antiguo: el libro de la ley. Cuando se lo leyeron a Josías, el rey rasgó sus vestidos, no por sorpresa vacía, sino porque comprendió cuánto se había alejado su pueblo de lo que Dios realmente había pedido. En lugar de guardar el hallazgo para sí mismo, Josías reunió a todo el pueblo, desde el más grande hasta el más pequeño, y leyó el libro completo en voz alta. Ese mismo día, el pueblo hizo convenio de volver al Señor con todo el corazón, y Josías comenzó a destruir sistemáticamente cada ídolo, cada altar falso, cada rastro de la idolatría que se había acumulado durante generaciones. Ningún otro rey, dice el texto, se volvió a Jehová con todo su corazón como lo hizo Josías. Lo notable es que el cambio no comenzó con una visión ni con un milagro espectacular: comenzó con la lectura de un texto que había estado ahí todo el tiempo, esperando ser abierto. Lo mismo puede pasar con tu propio ejemplar de las Escrituras: a veces la respuesta que necesitás no es nueva, es una que ya tenés, guardada, esperando que la busques con la misma seriedad que Josías. Y hay algo que Josías no podía saber y vos sí: la ley señalaba hacia adelante, y cada sacrificio que mandaba ofrecer apuntaba a Uno que vendría a ofrecerse a Sí mismo. Josías se volvió al Señor leyendo apenas una sombra de lo que vos tenés completo. Si reaccionó así con eso, la pregunta no es cuánto te falta leer, sino qué vas a hacer con lo que Jesucristo ya hizo."
     },
     {
       "tipo": "escrituras",
@@ -48,61 +48,88 @@
       "preguntas": [
         "¿Con qué personaje te identificás más: con Hilcías, que encontró el libro perdido, o con Josías, que reaccionó al escucharlo?",
         "Si encontraras un ejemplar de las Escrituras que nadie hubiera abierto en años, ¿qué esperarías encontrar ahí?",
-        "¿Alguna vez un pasaje de las Escrituras te hizo dar cuenta de algo que necesitabas cambiar? ¿Qué pasaje fue?",
-        "¿Por qué creés que Josías decidió leer el libro completo delante de todo el pueblo, en lugar de guardarlo solo para él?",
-        "¿Qué vas a hacer esta semana para acercarte a tu meta personal de estudio de las Escrituras del Antiguo Testamento?",
-        "¿Con quién podrías compartir esta semana un pasaje de las Escrituras que te haya ayudado a volverte al Señor?"
+        "Volvé a leer 2 Reyes 23:25 en el bloque de escrituras. ¿Con qué tres cosas dice que Josías se volvió al Señor, y qué agrega sobre los demás reyes?",
+        "¿Por qué creés que Josías leyó el libro completo delante de todo el pueblo en lugar de guardarlo para él?",
+        "¿Qué vas a hacer esta semana para acercarte a tu meta personal de estudio de las Escrituras?",
+        "¿Con quién podrías compartir un pasaje que te haya ayudado a volverte al Señor? Anotá antes qué te dijo a vos ese pasaje."
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué descubrimiento cambió el reinado de Josías y la vida de su pueblo?",
+      "question": "¿Qué se encontró mientras se reparaba el templo en tiempos de Josías?",
       "options": [
-        "Una mina de oro.",
-        "El hallazgo del \"libro de la ley\" (las Escrituras) en el templo.",
-        "Una nueva táctica militar."
+        "El arca del convenio, que había sido escondida.",
+        "El libro de la ley, que estaba perdido y olvidado.",
+        "Los registros genealógicos de las doce tribus.",
+        "Un altar de un dios extranjero levantado en secreto."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Cómo influyó el estudio de las Escrituras en el pueblo de Josías?",
+      "question": "¿Qué edad tenía Josías cuando llegó a ser rey?",
       "options": [
-        "Les ayudó a volverse al Señor con todo su corazón y a eliminar la idolatría.",
-        "Los hizo sentir más inteligentes que sus vecinos.",
-        "No tuvo ningún efecto duradero."
+        "Ocho años; era todavía un niño.",
+        "Dieciséis años, al morir su padre.",
+        "Veinticinco años, ya siendo adulto.",
+        "Doce años, la edad de su primer convenio."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué edad tenía Josías cuando comenzó a reinar?",
+      "question": "¿Por qué rasgó Josías sus vestidos al escuchar la lectura del libro?",
       "options": [
-        "Ocho años.",
-        "Dieciocho años.",
-        "Treinta años."
+        "Porque el rollo estaba tan dañado que no podía leerse entero.",
+        "Porque el sumo sacerdote lo había ocultado durante años.",
+        "Porque el libro anunciaba la caída inmediata de Jerusalén.",
+        "Porque comprendió cuánto se había alejado su pueblo de Dios."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Qué hizo Josías cuando escuchó las palabras del libro de la ley?",
+      "question": "¿Qué hizo Josías con el libro después de escucharlo?",
       "options": [
-        "Se alegró porque ya las conocía todas.",
-        "Rasgó sus vestidos en señal de arrepentimiento y humildad.",
-        "Mandó quemar el libro."
+        "Lo guardó en el templo para consultarlo cuando hiciera falta.",
+        "Encargó copias para repartirlas entre los sacerdotes del reino.",
+        "Lo leyó completo en voz alta delante de todo el pueblo.",
+        "Pidió que los escribas lo tradujeran a un lenguaje más simple."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Lucía tiene sus Escrituras sin abrir hace meses y dice que ya sabe más o menos lo que dicen. ¿Qué le mostraría el relato de Josías?",
+      "options": [
+        "Que conviene leer resúmenes en vez del texto completo, por tiempo.",
+        "Que el pueblo de Judá también las tenía, y guardadas no sirvieron.",
+        "Que basta con escuchar las lecciones de Seminario cada semana.",
+        "Que releer lo mismo no aporta nada nuevo después de un tiempo."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué verdad aprendemos sobre el poder de las Escrituras en nuestras vidas?",
+      "id": 6,
+      "question": "Joaquín encontró un pasaje que lo hizo darse cuenta de algo que necesita cambiar, y su primer impulso es no contárselo a nadie. Según lo que hizo Josías, ¿qué otra opción tiene?",
       "options": [
-        "Que las Escrituras pueden transformar a individuos y naciones enteras.",
-        "Que solo sirven para historiadores.",
-        "Que son demasiado antiguas para aplicarse hoy."
+        "Guardarlo hasta estar seguro de haberlo cambiado del todo.",
+        "Compartirlo, como hizo el rey al leérselo a todo el pueblo.",
+        "Escribirlo en un cuaderno y no volver a mirarlo por un tiempo.",
+        "Consultar con un maestro si el pasaje se aplica a su caso."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "El cambio del reino de Josías no empezó con una visión ni con un milagro. ¿Con qué empezó, según la lección?",
+      "options": [
+        "Con la lectura de un texto que ya estaba ahí, esperando.",
+        "Con una reforma política impulsada por los sacerdotes.",
+        "Con la derrota militar de los reinos vecinos idólatras.",
+        "Con una revelación que Josías recibió al entrar al templo."
       ],
       "correctAnswer": 0
     }

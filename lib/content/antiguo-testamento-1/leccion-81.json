@@ -51,65 +51,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Con qué personaje de este relato te identificás más: con Elías, que debía confiar en que Dios proveería, o con la viuda, que debía confiar en la palabra de un profeta? ¿Por qué?",
-        "Si hubieras estado en el lugar de la viuda, con solo un puñado de harina y un poco de aceite, ¿qué habría sido lo más difícil de obedecer el pedido de Elías?",
-        "¿Alguna vez seguiste un consejo del profeta o de un líder de la Iglesia sin tener la certeza de que iba a funcionar? ¿Qué pasó?",
-        "¿Qué te ayuda a confiar en que las palabras del profeta actual vienen realmente del Señor?",
+        "¿Con qué personaje te identificás más: con Elías, que debía confiar en que Dios proveería, o con la viuda, que debía confiar en la palabra de un profeta? ¿Por qué?",
+        "Si hubieras estado en el lugar de la viuda, con un puñado de harina y un poco de aceite, ¿qué habría sido lo más difícil de obedecer?",
+        "Volvé a leer 1 Reyes 17:14–16 en el bloque de escrituras. ¿Qué promete exactamente el Señor por medio de Elías, y hasta cuándo dice que va a durar?",
+        "¿Alguna vez seguiste un consejo del profeta sin tener la certeza de que iba a funcionar? ¿Qué pasó?",
         "¿Qué invitación reciente del profeta o de un Apóstol podrías poner en práctica esta semana, aunque te cueste?",
-        "¿A quién podrías contarle esta semana algo que hayas decidido hacer por seguir el consejo de un profeta?"
+        "¿A quién podrías contarle esta semana algo que decidiste hacer por seguir el consejo de un profeta? Pedí en oración que te ayude a sostenerlo."
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué le pidió Elías a la viuda de Sarepta antes de que ella alimentara a su propio hijo?",
+      "question": "¿Qué le quedaba a la viuda de Sarepta cuando Elías la encontró?",
       "options": [
-        "Que le diera todo su dinero.",
-        "Que le hiciera a él primero una pequeña torta cocida con lo último que tenía.",
-        "Que lo dejara vivir en su casa para siempre."
+        "Un puñado de harina y un poco de aceite.",
+        "Provisiones para una semana y algo de ganado.",
+        "Nada en absoluto: llevaba tres días sin comer.",
+        "Suficiente comida, pero se negaba a compartirla."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Cómo demostró la viuda su fe en Dios en medio de la sequía?",
+      "question": "¿Qué le prometió Elías a cambio de que le preparara comida primero?",
       "options": [
-        "Quejándose con el profeta.",
-        "Siguiendo las instrucciones del profeta a pesar de su situación desesperada.",
-        "Pidiendo una señal antes de actuar."
+        "Que su hijo llegaría a ser profeta en Israel algún día.",
+        "Que el rey Acab le devolvería todas sus tierras perdidas en la sequía.",
+        "Que la harina y el aceite no se acabarían durante la sequía.",
+        "Que la sequía terminaría antes de que pasara un mes."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Cuál fue la promesa cumplida por actuar con fe en este relato?",
+      "question": "¿Por qué era tan difícil lo que Elías le pidió a la viuda?",
       "options": [
-        "Que la harina y el aceite no escasearían hasta que volviera a llover.",
-        "Que la viuda se volvería la mujer más rica de Sarepta.",
-        "Que Elías le daría un nuevo hogar."
+        "Porque los israelitas tenían prohibido comer con extranjeros.",
+        "Porque el viaje hasta el arroyo le tomaba varios días enteros.",
+        "Porque el rey había prohibido dar comida a los profetas.",
+        "Porque debía dar de lo último que le quedaba, sin garantías."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "Al final del relato, ¿qué reconoció la viuda?",
+      "options": [
+        "Que Elías era varón de Dios y que la palabra de Jehová era verdad.",
+        "Que había sido una imprudencia arriesgar así la última comida de su hijo.",
+        "Que convenía mudarse a Israel para estar cerca del profeta.",
+        "Que su fe había sido más fuerte que la de los israelitas."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 4,
-      "question": "¿Qué milagro adicional realizó Elías en la casa de la viuda?",
+      "id": 5,
+      "question": "Mateo escuchó en la conferencia un consejo sobre el uso del teléfono y piensa probarlo cuando vea que a otros les funciona. Según el principio de esta lección, ¿qué le falta?",
       "options": [
-        "Multiplicó su ganado.",
-        "Resucitó a su hijo que había muerto.",
-        "Construyó una casa nueva."
+        "Esperar es lo prudente: conviene ver resultados ajenos antes de cambiar algo.",
+        "Actuar antes de tener la prueba, que es lo que hizo la viuda.",
+        "Consultar primero con un líder si el consejo aplica a su caso.",
+        "Buscar en las Escrituras un pasaje que confirme ese mismo consejo."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Qué podemos aprender sobre dar nuestras primicias al Señor de este relato?",
+      "id": 6,
+      "question": "Franco dice que le gustaría tener más fe antes de empezar a hacer lo que el profeta pide. ¿Qué le mostraría el relato de Sarepta?",
       "options": [
-        "Que Dios bendice a quienes confían en Él lo suficiente para dar primero.",
-        "Que debemos dar solo cuando nos sobra.",
-        "Que las viudas están exentas de dar."
+        "Que la fe se demuestra después del milagro, no antes de que ocurra.",
+        "Que conviene esperar a sentirse listo para no fallar en el intento.",
+        "Que la viuda actuó primero y el milagro llegó día tras día después.",
+        "Que solo los profetas pueden actuar sin tener todas las certezas."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Tanto la viuda de Sarepta como el consejo de un profeta viviente hoy piden lo mismo. ¿Qué es?",
+      "options": [
+        "Que se entregue una parte de los bienes materiales a la Iglesia.",
+        "Que se confíe antes de ver el resultado, no después.",
+        "Que se busque una señal antes de tomar cualquier decisión.",
+        "Que se consulte a los mayores antes de obedecer algo difícil."
+      ],
+      "correctAnswer": 1
     }
   ]
 }

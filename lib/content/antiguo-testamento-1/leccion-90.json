@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Asa se convirtió en rey de Judá en un momento de relativa calma, y usó esos años de paz para quitar los ídolos, reparar los altares y pedirle a su pueblo que buscara al Señor. Cuando un ejército etíope de un millón de hombres avanzó contra Judá, Asa no confió en el tamaño de su propio ejército; oró: \"Ayúdanos, oh Jehová, Dios nuestro, porque en ti nos apoyamos\". El Señor derrotó a los etíopes esa misma batalla. Poco después, un profeta llamado Azarías salió a su encuentro con un mensaje que resume toda la historia de Asa: Jehová estará con vosotros si vosotros estáis con él; y si le buscáis, vosotros le hallaréis; pero si le dejáis, él también os dejará. Ese mensaje no era solo para tiempos de guerra. Asa buscó al Señor tanto en la batalla como en la paz, y esa constancia —no un solo acto heroico— fue lo que trajo \"reposo por todas partes\" a su reino. El texto también deja una advertencia: más adelante en su vida, Asa dejó de buscar a Dios de la misma manera, confiando en alianzas humanas en lugar de en el Señor. Buscar a Dios no es algo que se hace una sola vez y ya queda resuelto para siempre; es una decisión que se repite, en los días fáciles y en los difíciles. La pregunta que deja esta lección no es si alguna vez buscaste al Señor, sino si lo seguís buscando ahora, en esta etapa concreta de tu vida."
+      "contenido": "Asa se convirtió en rey de Judá en un momento de relativa calma, y usó esos años de paz para quitar los ídolos, reparar los altares y pedirle a su pueblo que buscara al Señor. Cuando un ejército etíope de un millón de hombres avanzó contra Judá, Asa no confió en el tamaño de su propio ejército; oró: \"Ayúdanos, oh Jehová, Dios nuestro, porque en ti nos apoyamos\". El Señor derrotó a los etíopes esa misma batalla. Poco después, un profeta llamado Azarías salió a su encuentro con un mensaje que resume toda la historia de Asa: Jehová estará con vosotros si vosotros estáis con él; y si le buscáis, vosotros le hallaréis; pero si le dejáis, él también os dejará. Ese mensaje no era solo para tiempos de guerra. Asa buscó al Señor tanto en la batalla como en la paz, y esa constancia —no un solo acto heroico— fue lo que trajo \"reposo por todas partes\" a su reino. El texto también deja una advertencia: más adelante en su vida, Asa dejó de buscar a Dios de la misma manera, confiando en alianzas humanas en lugar de en el Señor. Buscar a Dios no es algo que se hace una sola vez y ya queda resuelto para siempre; es una decisión que se repite, en los días fáciles y en los difíciles. La pregunta que deja esta lección no es si alguna vez buscaste al Señor, sino si lo seguís buscando ahora, en esta etapa concreta de tu vida. Y conviene notar a quién se busca. La promesa de Azarías —'si le buscáis, vosotros le hallaréis'— no describe a un Dios escondido al que hay que rastrear. Jesucristo se describió a Sí mismo como el Buen Pastor que deja las noventa y nueve y sale por la que falta. Buscar al Señor no es dar con alguien que se esconde: es dejar de esquivar al que ya viene caminando hacia vos."
     },
     {
       "tipo": "escrituras",
@@ -47,10 +47,10 @@
       "tipo": "cuestionario",
       "preguntas": [
         "¿Con qué parte del relato de Asa te identificás más: con su fe durante la batalla, o con su falta de fe años después?",
-        "Si tuvieras que definir con tus propias palabras qué significa 'buscar al Señor', ¿qué dirías?",
-        "¿Alguna vez notaste que buscabas más a Dios en tiempos difíciles que en tiempos de paz? ¿Por qué creés que pasa eso?",
-        "¿Qué cosas de tu vida diaria podrían ser una forma de 'buscar al Señor' aunque no lo parezcan a simple vista?",
-        "¿Qué acción concreta vas a elegir esta semana para buscar más a Dios, incluso si en este momento tu vida está tranquila?",
+        "Si tuvieras que definir con tus palabras qué significa 'buscar al Señor', ¿qué dirías?",
+        "Volvé a leer 2 Crónicas 15:2 en el bloque de escrituras. Azarías dice tres cosas condicionales seguidas. ¿Cuáles son, y cuál te parece la más seria?",
+        "¿Alguna vez notaste que buscabas más a Dios en los tiempos difíciles que en los tranquilos? ¿Por qué te parece que pasa eso?",
+        "¿Qué acción concreta vas a elegir esta semana para buscar más a Dios, aunque tu vida esté tranquila? Ponela en oración antes de empezar.",
         "¿A quién le podrías preguntar esta semana cómo ha buscado al Señor en su propia vida?"
       ]
     }
@@ -58,51 +58,78 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuándo es el mejor momento para buscar al Señor, según la experiencia de Asa?",
+      "question": "¿Qué hizo Asa durante los años de paz al comienzo de su reinado?",
       "options": [
-        "Solo cuando tenemos problemas graves.",
-        "Solo cuando todo va bien y estamos en paz.",
-        "Tanto en tiempos de paz como en momentos de dificultad."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 2,
-      "question": "¿Qué promesa le dio el profeta Azarías a Asa en 2 Crónicas 15:2?",
-      "options": [
-        "\"Si le buscáis, vosotros le hallaréis\".",
-        "\"Ya no tendréis más guerras\".",
-        "\"Seréis los más sabios de Judá\"."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 3,
-      "question": "¿Qué error cometió Asa más adelante en su reinado?",
-      "options": [
-        "Construyó ídolos.",
-        "Confió en el rey de Siria en lugar de confiar en el Señor.",
-        "Abandonó el templo."
+        "Amplió las fronteras del reino con campañas militares.",
+        "Quitó los ídolos, reparó los altares y pidió buscar al Señor.",
+        "Reconstruyó el templo que Salomón había levantado antes.",
+        "Firmó alianzas con todos los reinos vecinos para evitar guerras."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 4,
-      "question": "¿Qué hizo Asa al principio de su reinado que agradó al Señor?",
+      "id": 2,
+      "question": "Frente al ejército etíope, ¿en qué se apoyó Asa?",
       "options": [
-        "Quitó los altares del culto extraño y los lugares altos.",
-        "Construyó más templos paganos.",
-        "Hizo alianzas con naciones enemigas."
+        "En el tamaño y el entrenamiento de su propio ejército.",
+        "En las fortificaciones que había construido en las ciudades.",
+        "En la oración: 'en ti nos apoyamos'.",
+        "En una alianza de emergencia con el reino del norte."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál fue el mensaje que el profeta Azarías le llevó a Asa?",
+      "options": [
+        "Que el reino entero se dividiría si no reconstruía el templo pronto.",
+        "Que su descendencia reinaría en Judá durante mil años.",
+        "Que si lo buscaban lo hallarían, y si lo dejaban, Él los dejaría.",
+        "Que debía formar una alianza con las tribus del norte."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Según la lección, ¿qué trajo 'reposo por todas partes' al reino de Asa?",
+      "options": [
+        "Un solo acto heroico en el momento de mayor peligro.",
+        "El tratado de paz que firmó después de vencer al ejército etíope.",
+        "La riqueza acumulada durante los años sin conflictos.",
+        "Su constancia en buscar al Señor tanto en la paz como en la guerra."
+      ],
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Qué lección aprendemos sobre la consistencia en buscar al Señor?",
+      "question": "Ana busca mucho al Señor cuando algo le sale mal, pero cuando todo va bien casi no ora. Según la advertencia del relato de Asa, ¿qué riesgo corre?",
       "options": [
-        "Que debemos buscar al Señor continuamente, no solo cuando las cosas van bien.",
-        "Que una vez que tenemos éxito, ya no necesitamos al Señor.",
-        "Que el Señor solo ayuda a los jóvenes."
+        "Ninguno: es normal buscar más a Dios en los momentos difíciles.",
+        "El de repetir lo que le pasó a Asa, que dejó de buscarlo después.",
+        "El de agotarse espiritualmente por orar demasiado seguido.",
+        "El de que sus oraciones dejen de ser escuchadas por costumbre."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Benjamín pregunta qué significa 'buscar al Señor' en un día común, sin nada especial. ¿Cuál sería la mejor respuesta según esta lección?",
+      "options": [
+        "Esperar a que aparezca una necesidad para acudir a Él.",
+        "Reservar la búsqueda para los domingos y las conferencias.",
+        "Sostener la misma constancia también cuando no hace falta.",
+        "Buscar señales de que Él aprueba lo que uno está haciendo."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "La historia de Asa tiene dos mitades: una de fe y otra de confianza en alianzas humanas. ¿Qué enseña ese contraste?",
+      "options": [
+        "Que la fe del pasado no reemplaza la decisión de hoy.",
+        "Que los reyes de Judá terminaban siempre alejándose de Dios.",
+        "Que las alianzas políticas eran pecado bajo la ley de Moisés.",
+        "Que la vejez debilita inevitablemente la fe de las personas."
       ],
       "correctAnswer": 0
     }

@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Durante una guerra entre Israel y Siria, el profeta Eliseo advertía al rey de Israel cada vez que los sirios planeaban un ataque, así que el rey sirio decidió capturarlo. Una noche, un ejército entero rodeó la ciudad de Dotán, donde estaba Eliseo. A la mañana siguiente, su criado salió, vio los caballos y carros por todos lados, y entró en pánico: \"¿Qué haremos?\". Eliseo, en cambio, estaba tranquilo. Le respondió algo que no tenía ningún sentido para los ojos del criado: no tengas miedo, porque son más los que están con nosotros que los que están con ellos. El criado solo veía un ejército enemigo. Entonces Eliseo oró para que Dios le abriera los ojos, y el joven vio el monte lleno de caballos y carros de fuego, un ejército celestial que había estado ahí todo el tiempo, invisible hasta ese momento. Nada había cambiado en la situación; lo único que cambió fue lo que el criado podía ver. Muchas veces sentimos que estamos solos frente a un problema —un examen difícil, una amistad que se rompe, la presión de encajar—, y esa sensación de estar rodeados y sin ayuda es real. Pero, igual que con el criado de Eliseo, la ayuda del Señor casi nunca desaparece; lo que a veces falta es la capacidad de reconocerla. Pedirle a Dios que nos abra los ojos no cambia el problema, pero sí cambia por completo cómo lo enfrentamos."
+      "contenido": "Durante una guerra entre Israel y Siria, el profeta Eliseo advertía al rey de Israel cada vez que los sirios planeaban un ataque, así que el rey sirio decidió capturarlo. Una noche, un ejército entero rodeó la ciudad de Dotán, donde estaba Eliseo. A la mañana siguiente, su criado salió, vio los caballos y carros por todos lados, y entró en pánico: \"¿Qué haremos?\". Eliseo, en cambio, estaba tranquilo. Le respondió algo que no tenía ningún sentido para los ojos del criado: no tengas miedo, porque son más los que están con nosotros que los que están con ellos. El criado solo veía un ejército enemigo. Entonces Eliseo oró para que Dios le abriera los ojos, y el joven vio el monte lleno de caballos y carros de fuego, un ejército celestial que había estado ahí todo el tiempo, invisible hasta ese momento. Nada había cambiado en la situación; lo único que cambió fue lo que el criado podía ver. Muchas veces sentimos que estamos solos frente a un problema —un examen difícil, una amistad que se rompe, la presión de encajar—, y esa sensación de estar rodeados y sin ayuda es real. Pero, igual que con el criado de Eliseo, la ayuda del Señor casi nunca desaparece; lo que a veces falta es la capacidad de reconocerla. Pedirle a Dios que nos abra los ojos no cambia el problema, pero sí cambia por completo cómo lo enfrentamos. Y no es solo cuestión de sentirse acompañado. En Doctrina y Convenios 84:88 el Señor lo dice en primera persona: 'allí estaré yo también, porque iré delante de vuestra faz. Estaré a vuestra diestra y a vuestra siniestra'. El que promete eso es Jesucristo, y no lo dice como figura poética: los carros de fuego de Dotán estaban ahí antes de que el criado los viera. Su promesa no depende de que vos la percibas."
     },
     {
       "tipo": "escrituras",
@@ -46,65 +46,92 @@
     {
       "tipo": "cuestionario",
       "preguntas": [
-        "¿Con qué personaje te identificás más en este relato: con el criado que solo veía el peligro, o con Eliseo que veía algo más?",
-        "Si te hubieras despertado rodeado por un ejército como le pasó al criado, ¿cuál habría sido tu primera reacción?",
-        "¿Alguna vez sentiste que estabas completamente solo frente a un problema, y después te diste cuenta de que no era así? ¿Qué pasó?",
+        "¿Con qué personaje te identificás más: con el criado que solo veía el peligro, o con Eliseo, que veía algo más?",
+        "Si te hubieras despertado rodeado por un ejército como el criado, ¿cuál habría sido tu primera reacción?",
+        "Volvé a leer 2 Reyes 6:15–16 en el bloque de escrituras. ¿Qué ve el criado al levantarse, y qué le responde Eliseo exactamente?",
         "¿Qué cosas te hacen más difícil reconocer las bendiciones o la ayuda de Dios en tu vida diaria?",
-        "¿Qué podrías hacer esta semana para pedirle a Dios que te ayude a 'abrir los ojos' frente a alguna situación difícil que estés viviendo?",
-        "¿A quién podrías contarle esta semana una vez en que sentiste el cuidado de Dios, aunque no lo hayas reconocido en el momento?"
+        "¿Qué situación difícil estás viviendo ahora? Orá esta semana pidiendo específicamente 'abrir los ojos' sobre ella, y anotá lo que empieces a notar.",
+        "¿A quién podrías contarle una vez en que sentiste el cuidado de Dios, aunque no lo hayas reconocido en el momento?"
       ]
     }
   ],
   "questions": [
     {
       "id": 1,
-      "question": "¿Por qué gritó atemorizado el criado de Eliseo cuando vio al ejército sirio?",
+      "question": "¿Qué vio el criado de Eliseo al salir por la mañana?",
       "options": [
-        "Porque no tenían armas.",
-        "Porque solo veía el peligro físico y no la ayuda espiritual.",
-        "Porque tenía hambre."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 2,
-      "question": "¿Qué pidió Eliseo al Señor que hiciera por su criado?",
-      "options": [
-        "Que los transportara a otro lugar.",
-        "\"Te ruego, oh Jehová, que abras sus ojos para que vea\".",
-        "Que destruyera a los sirios con fuego."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 3,
-      "question": "¿Cuál es la verdad que nos consuela en momentos de temor según esta lección?",
-      "options": [
-        "Los que están con nosotros son más que los que están contra nosotros (el poder del Señor nos protege).",
-        "Que los ejércitos humanos son siempre débiles.",
-        "Que debemos cerrar los ojos ante los problemas."
+        "Un ejército con caballos y carros rodeando la ciudad.",
+        "Que Eliseo se había marchado durante la noche sin avisar.",
+        "Un mensajero del rey de Siria pidiendo hablar con el profeta.",
+        "Que las puertas de la ciudad habían sido derribadas de noche."
       ],
       "correctAnswer": 0
     },
     {
-      "id": 4,
-      "question": "¿Qué vio el criado cuando el Señor abrió sus ojos?",
+      "id": 2,
+      "question": "¿Qué le pidió Eliseo al Señor en oración?",
       "options": [
-        "Más soldados sirios.",
-        "El monte lleno de gente de a caballo y de carros de fuego alrededor de Eliseo.",
-        "Un camino de escape secreto."
+        "Que destruyera al ejército sirio antes del amanecer.",
+        "Que enviara refuerzos desde las ciudades vecinas.",
+        "Que ocultara la ciudad a los ojos del enemigo.",
+        "Que abriera los ojos del criado para que viera."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "Según la lección, ¿qué cambió realmente cuando el criado vio los carros de fuego?",
+      "options": [
+        "El ejército celestial llegó justo en ese momento a defenderlos.",
+        "Nada de la situación: solo cambió lo que él podía ver.",
+        "Los sirios se retiraron apenas vieron el monte encendido.",
+        "Eliseo recibió autoridad nueva para enfrentar al enemigo."
       ],
       "correctAnswer": 1
     },
     {
-      "id": 5,
-      "question": "¿Cómo trató Eliseo a los soldados sirios después de que Dios los cegara?",
+      "id": 4,
+      "question": "En Doctrina y Convenios 84:88, ¿qué promete el Señor a quienes reciben a Sus siervos?",
       "options": [
-        "Los mató a todos.",
-        "Los llevó a Samaria y luego les dio de comer y los dejó ir en paz.",
-        "Los encerró en una cárcel para siempre."
+        "Que les dará riquezas y reconocimiento entre todas las naciones vecinas.",
+        "Que sus enemigos serán destruidos antes de que lleguen a atacar.",
+        "Que Él estará allí, irá delante y estará a su diestra y siniestra.",
+        "Que nunca volverán a enfrentar dificultades en la vida."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "Luca está pasando por un momento difícil y siente que nadie lo acompaña. ¿Qué le sugeriría el relato de Dotán?",
+      "options": [
+        "Que pida una señal visible para confirmar que Dios está con él.",
+        "Que su situación mejorará apenas deje de preocuparse tanto.",
+        "Que la ayuda puede estar ahí aunque todavía no la reconozca.",
+        "Que conviene resolverlo solo antes de pedirle ayuda a alguien."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Valentina quiere aplicar esta semana lo que aprendió de Eliseo. ¿Cuál de estas oraciones se parece más a la que hizo el profeta?",
+      "options": [
+        "Pedir que el problema desaparezca antes del fin de semana.",
+        "Pedir que otros noten lo difícil que es su situación actual.",
+        "Pedir una señal clara que le indique qué decisión tomar.",
+        "Pedir reconocer una forma en que el Señor ya la está ayudando."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "El criado y Eliseo miraban exactamente la misma escena. ¿Qué enseña esa diferencia, según la lección?",
+      "options": [
+        "Que la fe cambia lo que uno alcanza a ver, no los hechos.",
+        "Que los profetas tienen una vista física distinta a la común.",
+        "Que el miedo siempre indica falta de preparación espiritual.",
+        "Que conviene evitar mirar los problemas de frente para no temer."
+      ],
+      "correctAnswer": 0
     }
   ]
 }
