@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Mosíah 28 enseña que el amor por Jesucristo produce el deseo de compartir el Evangelio. Los hijos de Mosíah comprendieron la misericordia que habían recibido y quisieron ayudar a otros a encontrar la misma esperanza y felicidad. Compartir el Evangelio no requiere perfección, sino amor, fe y disposición para servir. El Señor puede usar nuestros esfuerzos sencillos para bendecir muchas vidas."
+      "contenido": "Mosíah 28 muestra que el amor por Jesucristo produce, casi solo, el deseo de compartir el Evangelio. Los hijos de Mosíah entendieron la misericordia que habían recibido —el texto recuerda que habían sido «los más viles pecadores»— y por eso no podían soportar que alguien se perdiera. Ese es el orden: primero recibís algo, después querés darlo. Compartir el Evangelio no exige perfección ni argumentos preparados; exige amor, fe y disposición. El Señor puede usar esfuerzos muy sencillos para cambiarle la vida a alguien, porque el poder es Suyo y no tuyo. Pensá en una persona concreta esta semana y hacé una sola cosa por ella."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué tuvieron que dejar los hijos de Mosíah para ir a predicarles a los lamanitas: comodidad, seguridad, o el trono?",
         "¿Con qué palabra describirías el motivo real de los hijos de Mosíah para ir a predicar: culpa, miedo, o amor?",
-        "¿Alguna vez sentiste tantas ganas de contarle a alguien lo bien que te hizo algo que se te hizo fácil hablar del tema, aunque fuera algo del Evangelio?",
+        "Fijate en Mosíah 28:4, en cómo describe el texto a los hijos de Mosíah antes de su conversión. ¿Te cambia algo saber de dónde venían?",
         "¿Hay alguien en tu vida a quien te gustaría hablarle de tu fe, pero todavía te da un poco de miedo o vergüenza?",
         "¿A quién específico podrías invitar esta semana a una actividad de la Iglesia o a hablar de lo que creés?",
-        "¿Qué frase corta podrías tener lista esta semana para responder si alguien te pregunta por qué vas al Seminario?"
+        "Los hijos de Mosíah no salieron a predicar de un día para el otro: primero oraron y ayunaron. Orá esta semana por una persona concreta antes de invitarla a nada, y anotá qué se te ocurre después."
       ]
     }
   ],
@@ -54,12 +54,12 @@
       "question": "¿Qué deseaban hacer los hijos de Mosíah después de su conversión?",
       "type": "multiple",
       "options": [
+        "Permanecer ocultos, lejos de cualquier responsabilidad",
         "Gobernar el reino que su padre les ofrecía",
         "Ir a predicar el evangelio entre los lamanitas",
-        "Acumular riquezas antes de iniciar cualquier misión",
-        "Permanecer ocultos, lejos de cualquier responsabilidad"
+        "Acumular riquezas antes de iniciar cualquier misión"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Mosíah 28:1",
       "explanation": "Los hijos de Mosíah deseaban ir a predicar el evangelio entre los lamanitas."
     },
@@ -96,12 +96,12 @@
       "question": "¿Cómo reaccionó el rey Mosíah ante la petición de sus hijos?",
       "type": "multiple",
       "options": [
-        "Se negó rotundamente y los mantuvo en el palacio",
         "Los envió de inmediato sin ninguna consulta previa",
         "Consultó al Señor y finalmente les concedió el permiso para ir",
-        "Decidió acompañarlos personalmente en la misión"
+        "Decidió acompañarlos personalmente en la misión",
+        "Se negó rotundamente y los mantuvo en el palacio"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "reference": "Mosíah 28:6-7",
       "explanation": "Mosíah consultó al Señor y finalmente les concedió el permiso para ir a predicar."
     },
@@ -110,12 +110,12 @@
       "question": "Catalina quiere compartir el evangelio con un grupo de compañeros que no comparten su fe, pero le da miedo el rechazo. ¿Qué la motiva el ejemplo de los hijos de Mosíah?",
       "type": "multiple",
       "options": [
-        "El amor genuino por las personas y el deseo de que conozcan la verdad, más que el temor al rechazo",
-        "La obligación de convencer a todos sus compañeros sin excepción",
         "El deseo de sentirse superior espiritualmente a los demás",
-        "La necesidad de evitar cualquier tipo de rechazo social"
+        "La necesidad de evitar cualquier tipo de rechazo social",
+        "El amor genuino por las personas y el deseo de que conozcan la verdad, más que el temor al rechazo",
+        "La obligación de convencer a todos sus compañeros sin excepción"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Mosíah 28:3",
       "explanation": "A los hijos de Mosíah los motivó el amor genuino por las personas y el deseo de que conocieran la verdad."
     },
@@ -124,12 +124,12 @@
       "question": "Nicolás siente que sus padres no confían en sus decisiones espirituales. ¿Qué muestra la reacción de Mosíah ante la petición de sus hijos?",
       "type": "multiple",
       "options": [
-        "Que Mosíah decidió negarse por miedo a perderlos",
-        "Que buscar la guía de Dios en vez de decidir solo por miedo o costumbre honra las decisiones de los hijos",
         "Que Mosíah ignoró por completo la petición de sus hijos",
-        "Que las decisiones de los hijos no importan hasta cierta edad"
+        "Que las decisiones de los hijos no importan hasta cierta edad",
+        "Que Mosíah decidió negarse por miedo a perderlos",
+        "Que buscar la guía de Dios en vez de decidir solo por miedo o costumbre honra las decisiones de los hijos"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 28:6-7",
       "explanation": "Mosíah buscó la guía de Dios en vez de decidir solo por miedo, mostrando respeto por la petición sincera de sus hijos."
     },
@@ -138,12 +138,12 @@
       "question": "¿Qué conecta el deseo de los hijos de Mosíah de predicar con la consulta de Mosíah al Señor antes de darles permiso?",
       "type": "multiple",
       "options": [
+        "Ambos muestran que las grandes decisiones familiares y misionales se toman mejor buscando la guía de Dios",
         "No tienen relación real entre sí",
         "Solo la consulta de Mosíah tiene relevancia espiritual real",
-        "Muestran que Mosíah no confiaba en el deseo de sus hijos",
-        "Ambos muestran que las grandes decisiones familiares y misionales se toman mejor buscando la guía de Dios"
+        "Muestran que Mosíah no confiaba en el deseo de sus hijos"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "reference": "Mosíah 28:1-8",
       "explanation": "Ambos elementos muestran que las grandes decisiones familiares y misionales se toman mejor buscando la guía de Dios."
     }

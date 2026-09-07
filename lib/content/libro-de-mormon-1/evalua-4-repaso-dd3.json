@@ -41,17 +41,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Evaluar nuestro aprendizaje espiritual nos ayuda a reconocer cómo el Señor está obrando en nuestra vida. El Evangelio de Jesucristo no fue dado solamente para aumentar nuestro conocimiento, sino para transformar nuestro corazón. Al repasar doctrinas y principios, fortalecemos nuestra fe y recordamos las verdades que el Espíritu nos ha confirmado. También aprendemos que el crecimiento espiritual ocurre gradualmente mediante la obediencia constante y la reflexión sincera. Jesucristo desea que continuemos aprendiendo, arrepintiéndonos y acercándonos a Él cada día."
+      "contenido": "Evaluar el propio aprendizaje ayuda a reconocer cómo el Señor viene obrando en tu vida, que es algo que casi nunca se ve mientras pasa. El Evangelio de Jesucristo no fue dado solo para aumentar conocimiento, sino para transformar el corazón. Al repasar doctrinas se fortalece la fe y se recuerdan las verdades que el Espíritu ya confirmó. Y algo más: el crecimiento espiritual ocurre de a poco, por obediencia constante, no por momentos intensos. Por eso conviene medirlo mirando meses y no días. Jesucristo quiere que sigas aprendiendo y acercándote a Él, con Su paciencia como referencia y no la tuya. Anotá esta semana un cambio real, por chico que sea."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "Si tuvieras que ponerte una nota del 1 al 10 sobre tu año espiritual, sin pensarlo mucho, ¿qué número dirías?",
         "¿Qué doctrina reciente te resultó más fácil de recordar este año?",
-        "¿Cómo has visto crecimiento espiritual en tu vida recientemente, aunque sea en algo pequeño?",
+        "Releé Helamán 5:12 y fijate qué dice que va a pasar igual, aunque el fundamento esté bien puesto. ¿Qué promete entonces el versículo?",
         "¿Cómo te ayudó el repaso doctrinal en algún momento de dificultad real que hayas tenido?",
         "¿Qué principio del Evangelio necesitás aplicar más plenamente esta semana, en una situación concreta?",
-        "¿Con quién podrías compartir esta semana en qué sentís que has crecido espiritualmente este año?"
+        "Tomá diez minutos esta semana y anotá en qué creciste espiritualmente este año y en qué no. Orá sobre las dos listas: la segunda también es información útil."
       ]
     }
   ],
@@ -61,12 +61,12 @@
       "question": "¿Por qué es importante la autoevaluación espiritual?",
       "type": "multiple",
       "options": [
-        "Para compararnos favorablemente con otros miembros de la clase",
         "Para sentirnos satisfechos con lo que ya hemos logrado",
         "Para cumplir un requisito formal del programa de Seminario",
-        "Para identificar con honestidad las áreas donde necesitamos mejorar"
+        "Para identificar con honestidad dónde necesitamos mejorar",
+        "Para compararnos favorablemente con otros miembros de la clase"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "La autoevaluación nos ayuda a identificar con honestidad las áreas donde necesitamos mejorar."
     },
     {
@@ -74,12 +74,12 @@
       "question": "¿Cuál es el valor de repasar constantemente los pasajes de dominio?",
       "type": "multiple",
       "options": [
-        "Para tenerlos disponibles cuando el Espíritu los traiga a nuestra memoria",
         "Para memorizarlos solo antes de un examen importante",
         "Para impresionar a otros con nuestra capacidad de memoria",
-        "Para tener algo que decir cuando alguien nos pregunte"
+        "Para tener algo que decir cuando alguien nos pregunte",
+        "Para tenerlos disponibles cuando el Espíritu los traiga"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "Repasarlos constantemente nos permite tenerlos disponibles cuando el Espíritu los traiga a la memoria."
     },
     {
@@ -87,12 +87,12 @@
       "question": "¿Qué temas principales hemos visto en Mosíah hasta ahora?",
       "type": "multiple",
       "options": [
-        "Solamente relatos de guerras y conquistas militares",
         "El cambio de corazón, convenios, servicio y profecías de Cristo",
         "Únicamente genealogías y listas de descendientes",
-        "Principalmente leyes civiles y sistemas de gobierno"
+        "Principalmente leyes civiles y sistemas de gobierno",
+        "Solamente relatos de guerras y conquistas militares"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "Hemos visto el cambio de corazón, los convenios, el servicio y las profecías de Cristo."
     },
     {
@@ -100,12 +100,12 @@
       "question": "¿Qué aprendemos del contraste entre el rey Benjamín y el rey Noé?",
       "type": "multiple",
       "options": [
-        "Que ambos reyes gobernaron de manera prácticamente idéntica",
-        "Que el poder político siempre corrompe a cualquier líder",
         "Que la riqueza material determina la calidad de un gobernante",
-        "Que el liderazgo justo bendice al pueblo mientras que el liderazgo inicuo lo destruye"
+        "Que el liderazgo justo bendice y el inicuo daña al pueblo",
+        "Que ambos reyes gobernaron de manera prácticamente idéntica",
+        "Que el poder político siempre corrompe a cualquier líder"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "El contraste muestra que el liderazgo justo bendice al pueblo, mientras que el inicuo lo destruye."
     },
     {
@@ -113,12 +113,12 @@
       "question": "Bruno siente que no ha avanzado nada espiritualmente este año. ¿Qué le sugerirías basándote en el propósito de la autoevaluación?",
       "type": "multiple",
       "options": [
+        "Ignorar el tema hasta el próximo año",
         "Que deje de intentarlo porque claramente no está funcionando",
-        "Revisar con honestidad en qué áreas ha crecido y cuáles necesita seguir trabajando",
-        "Compararse con otros compañeros de su clase de Seminario",
-        "Ignorar el tema hasta el próximo año"
+        "Revisar con honestidad en qué creció y qué le falta",
+        "Compararse con otros compañeros de su clase de Seminario"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "La autoevaluación honesta ayuda a identificar tanto el crecimiento logrado como las áreas por mejorar."
     },
     {
@@ -126,12 +126,12 @@
       "question": "Victoria quiere compartir el evangelio pero no sabe por dónde empezar. ¿Qué lección de los hijos de Mosíah podría aplicar?",
       "type": "multiple",
       "options": [
+        "Copiar exactamente el método que usó Ammón sin adaptarlo",
         "Esperar a sentirse completamente preparada antes de intentar cualquier cosa",
         "Buscar convencer a otros usando solo argumentos lógicos",
-        "Prepararse espiritualmente primero y luego servir con humildad a quienes enseña",
-        "Copiar exactamente el método que usó Ammón sin adaptarlo"
+        "Prepararse espiritualmente primero y después servir con humildad"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "reference": "Alma 17-26",
       "explanation": "El ejemplo de los hijos de Mosíah muestra la importancia de prepararse espiritualmente y servir con humildad."
     },
@@ -140,12 +140,12 @@
       "question": "¿Qué conecta el contraste entre el rey Benjamín y el rey Noé con la historia de conversión de los hijos de Mosíah?",
       "type": "multiple",
       "options": [
-        "No tienen ninguna relación entre sí",
-        "Ambos muestran que las decisiones y el corazón de una persona determinan el fruto de su influencia",
+        "Ambos muestran que el corazón determina el fruto de la influencia",
         "Solo el ejemplo del rey Benjamín es relevante para la conversión",
-        "Muestran que el liderazgo político no tiene relación con lo espiritual"
+        "Muestran que el liderazgo político no tiene relación con lo espiritual",
+        "No tienen ninguna relación entre sí"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "Ambos relatos muestran que las decisiones y el estado del corazón determinan el fruto de la influencia de una persona."
     }
   ]

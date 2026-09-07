@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La liberación de los pueblos de Limhi y Alma demuestra que el Señor cumple Sus promesas. Aunque las pruebas pueden durar más de lo esperado, Dios nunca olvida a Sus hijos fieles. Jesucristo tiene poder para liberarnos espiritual y emocionalmente. Él puede guiarnos fuera de la desesperación, el pecado y el temor. Al confiar en Su tiempo y en Su sabiduría, aprendemos que Su ayuda siempre llega de la manera perfecta."
+      "contenido": "La liberación de los pueblos de Limhi y de Alma muestra que el Señor cumple Sus promesas, aunque casi nunca en el plazo que uno esperaba. Las pruebas pueden durar más de lo previsto y Dios no se olvida de nadie mientras tanto. Jesucristo tiene poder para librar, y no solo de una situación externa: también del miedo, de la culpa y de la desesperación, que a veces aprietan más que el problema real. Al confiar en Su tiempo se aprende algo que no se aprende de otra manera. Y fijate qué hicieron ellos al salir: agradecer, antes que ninguna otra cosa. Empezá por ahí esta semana, aunque todavía estés adentro del problema."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "De las dos liberaciones (los guardias emborrachados o el sueño profundo sobre los lamanitas), ¿cuál te parece más sorprendente?",
         "Si tuvieras que resumir en una sola palabra la reacción del pueblo al llegar a Zarahemla, ¿cuál elegirías?",
-        "¿Alguna vez sentiste que una ayuda te llegó de una forma que jamás hubieras imaginado?",
+        "Buscá en Mosíah 24:21 qué fue lo primero que hicieron al llegar al valle de Alma, antes que cualquier otra cosa.",
         "¿Hay algo que estás esperando que Dios resuelva desde hace tiempo, y que esta historia te ayuda a mirar distinto?",
         "Esta semana, ¿en qué momento concreto podés practicar seguir confiando aunque la respuesta no llegue todavía?",
-        "¿A quién le podés agradecer esta semana por una ayuda que quizás nunca reconociste como venida de Dios?"
+        "Anotá una vez en que saliste de algo difícil y meditá durante la semana en cuánto de eso fue mérito tuyo y cuánto no."
       ]
     }
   ],
@@ -54,12 +54,12 @@
       "question": "¿Cómo liberó el Señor al pueblo de Alma?",
       "type": "multiple",
       "options": [
+        "Negociando directamente con los líderes lamanitas",
         "Haciendo que un sueño profundo cayera sobre los lamanitas",
         "Enviando un ejército nefita a rescatarlos por la fuerza",
-        "Provocando una tormenta que dispersó a sus captores",
-        "Negociando directamente con los líderes lamanitas"
+        "Provocando una tormenta que dispersó a sus captores"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Mosíah 24:19-20",
       "explanation": "El Señor hizo que un sueño profundo cayera sobre los lamanitas para que el pueblo de Alma escapara."
     },
@@ -68,12 +68,12 @@
       "question": "¿Qué debió hacer el pueblo antes de ser liberado?",
       "type": "multiple",
       "options": [
-        "Luchar con violencia contra sus captores lamanitas",
         "Organizar un escape secreto durante la noche",
         "Quejarse abiertamente sobre su situación con Dios",
-        "Someterse con paciencia a la voluntad del Señor"
+        "Someterse con paciencia a la voluntad del Señor",
+        "Luchar con violencia contra sus captores lamanitas"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Mosíah 24:15",
       "explanation": "Debieron someterse con paciencia a la voluntad del Señor antes de ser liberados."
     },
@@ -82,12 +82,12 @@
       "question": "¿Qué nos enseña esta historia sobre la liberación de Dios?",
       "type": "multiple",
       "options": [
-        "Que siempre llega de manera inmediata tras el primer ruego",
-        "Que viene en Su tiempo y manera, a menudo de formas inesperadas",
         "Que nunca llega si hemos cometido errores en el pasado",
-        "Que depende únicamente de nuestro propio esfuerzo físico"
+        "Que depende únicamente de nuestro propio esfuerzo físico",
+        "Que siempre llega de manera inmediata tras el primer ruego",
+        "Que viene en Su tiempo y manera, a menudo de formas inesperadas"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 24:17",
       "explanation": "La liberación de Dios viene en Su tiempo y manera, a menudo de formas inesperadas."
     },
@@ -96,12 +96,12 @@
       "question": "¿Qué hizo el pueblo de Alma inmediatamente después de ser librados?",
       "type": "multiple",
       "options": [
-        "Regresaron a reclamar sus tierras a los lamanitas",
-        "Se establecieron en el mismo lugar donde habían sido cautivos",
         "Huyeron al desierto y luego llegaron a Zarahemla dando gracias a Dios",
-        "Organizaron un ejército para vengarse de sus captores"
+        "Organizaron un ejército para vengarse de sus captores",
+        "Regresaron a reclamar sus tierras a los lamanitas",
+        "Se establecieron en el mismo lugar donde habían sido cautivos"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Mosíah 24:20-25",
       "explanation": "El pueblo huyó al desierto y luego llegó a Zarahemla, dando gracias a Dios por su liberación."
     },
@@ -110,12 +110,12 @@
       "question": "Luca está esperando una respuesta a una oración importante y siente que Dios se está tardando demasiado. ¿Qué le enseña la liberación del pueblo de Alma?",
       "type": "multiple",
       "options": [
+        "Que la demora significa que Dios no escuchó su oración",
         "Que la ayuda de Dios llega en Su tiempo, a menudo de formas que no esperamos",
         "Que Dios solo responde a las oraciones de personas especiales",
-        "Que debe dejar de orar si la respuesta tarda demasiado",
-        "Que la demora significa que Dios no escuchó su oración"
+        "Que debe dejar de orar si la respuesta tarda demasiado"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Mosíah 24:16-20",
       "explanation": "La liberación del pueblo de Alma muestra que la ayuda de Dios llega en Su tiempo, de formas que no siempre esperamos."
     },
@@ -124,12 +124,12 @@
       "question": "Camila cree que debe resolver todo sola sin pedir ayuda a Dios. ¿Qué muestra este relato sobre la humildad y la paciencia?",
       "type": "multiple",
       "options": [
+        "Que resolver los problemas sola siempre es la mejor opción",
         "Que pedir ayuda a Dios es señal de debilidad",
         "Que someterse con paciencia a la voluntad de Dios es parte de recibir Su ayuda",
-        "Que la paciencia no tiene ningún valor espiritual real",
-        "Que resolver los problemas sola siempre es la mejor opción"
+        "Que la paciencia no tiene ningún valor espiritual real"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Mosíah 24:15",
       "explanation": "Someterse con paciencia a la voluntad de Dios es parte de recibir Su ayuda en los momentos difíciles."
     },
@@ -138,12 +138,12 @@
       "question": "¿Qué conecta el sueño que cayó sobre los lamanitas con la gratitud del pueblo de Alma al llegar a Zarahemla?",
       "type": "multiple",
       "options": [
+        "La gratitud del pueblo no tuvo relación con su liberación",
         "No tienen ninguna relación entre sí",
         "Solo el sueño sobre los lamanitas es relevante para este relato",
-        "Ambos muestran que reconocer la mano de Dios en la liberación lleva naturalmente a la gratitud",
-        "La gratitud del pueblo no tuvo relación con su liberación"
+        "Ambos muestran que reconocer la mano de Dios en la liberación lleva naturalmente a la gratitud"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "reference": "Mosíah 24:19-25",
       "explanation": "Ambos elementos muestran que reconocer la mano de Dios en la liberación lleva naturalmente a la gratitud."
     }

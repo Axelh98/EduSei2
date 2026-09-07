@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El repaso constante de las doctrinas del Evangelio fortalece nuestro fundamento espiritual. Las Escrituras y las enseñanzas proféticas nos ayudan a reconocer la verdad y a resistir las influencias engañosas del mundo. El Dominio de la doctrina no tiene como objetivo solamente memorizar referencias, sino ayudarnos a desarrollar una relación más profunda con Jesucristo. Cuando estudiamos, meditamos y aplicamos las Escrituras, el Espíritu Santo confirma la verdad a nuestro corazón. El Señor desea que Su palabra esté siempre presente en nuestra mente y corazón para guiarnos en cada decisión importante."
+      "contenido": "Repasar las doctrinas fortalece el fundamento espiritual, y las Escrituras junto con las palabras de los profetas ayudan a reconocer la verdad y a resistir lo que confunde. Pero el Dominio de la Doctrina no busca que memorices referencias: busca que desarrolles una relación más profunda con Jesucristo. Por eso Jacob dice que escudriñaban a los profetas y que de ahí les venía la esperanza; el estudio no era el fin, era el medio. Cuando estudiás, meditás y aplicás, el Espíritu Santo confirma la verdad al corazón, y lo que queda no es un archivo de datos sino la certeza de Su amor. El Señor quiere Su palabra disponible en tu mente cuando llegue la decisión difícil."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué pasaje doctrinal recordás con más frecuencia, y por qué se te grabó justo ese?",
         "¿Qué cambia si pensás una decisión difícil con una 'perspectiva eterna' en vez de pensar solo en el momento?",
-        "¿Cómo te ha ayudado el Dominio de la doctrina a fortalecer tu testimonio en algún momento concreto?",
+        "Buscá en Doctrina y Convenios 88:118 las dos formas de aprender que menciona el versículo. ¿Cuál de las dos venís descuidando?",
         "¿Alguna vez una Escritura que tenías memorizada te ayudó en un momento real de duda o dificultad?",
         "¿Qué hábito de estudio concreto podrías mejorar esta semana para fortalecer tu conocimiento espiritual (por ejemplo, leer antes de dormir o repasar un versículo por día)?",
-        "¿A quién le podrías enseñar esta semana uno de los pasajes de dominio que ya conocés bien?"
+        "Escribí cuánto tiempo real le dedicaste a estudiar esta semana, sin redondear para arriba. Orá con ese número delante y decidí uno para la semana que viene."
       ]
     }
   ],
@@ -68,12 +68,12 @@
       "question": "¿Cómo podemos usar los pasajes de dominio en nuestra vida?",
       "type": "multiple",
       "options": [
-        "Aplicándolos en decisiones diarias y compartiendo con otros",
         "Recitándolos de memoria sin buscar aplicarlos",
         "Guardándolos en privado sin compartirlos nunca",
-        "Estudiándolos solo durante la clase de Seminario"
+        "Estudiándolos solo durante la clase de Seminario",
+        "Aplicándolos en decisiones diarias y compartiendo con otros"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "Podemos aplicarlos en nuestras decisiones diarias y compartirlos con otros."
     },
     {
@@ -81,12 +81,12 @@
       "question": "¿Cómo se relacionan los versículos de Mosíah entre sí?",
       "type": "multiple",
       "options": [
-        "No tienen ninguna relación temática entre ellos",
         "Todos enseñan sobre cambiar nuestra naturaleza y acercarnos a Cristo",
         "Se relacionan solo por pertenecer al mismo libro",
-        "Cada uno trata un tema completamente distinto sin conexión"
+        "Cada uno trata un tema completamente distinto sin conexión",
+        "No tienen ninguna relación temática entre ellos"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "Todos los versículos de Mosíah enseñan sobre cambiar nuestra naturaleza y acercarnos a Cristo."
     },
     {
@@ -94,12 +94,12 @@
       "question": "¿Qué principio enseña 2 Nefi 2:25, otro pasaje de dominio que hemos repasado?",
       "type": "multiple",
       "options": [
+        "Que los hombres existen solo para ser probados y castigados",
         "Que Adán cayó para que los hombres existiesen, y existen para tener gozo",
         "Que el gozo depende únicamente de las circunstancias externas",
-        "Que la caída de Adán fue un error que Dios no anticipó",
-        "Que los hombres existen solo para ser probados y castigados"
+        "Que la caída de Adán fue un error que Dios no anticipó"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "2 Nefi 2:25",
       "explanation": "2 Nefi 2:25 enseña que Adán cayó para que los hombres existiesen, y existen para tener gozo."
     },
@@ -108,12 +108,12 @@
       "question": "Gael no logra recordar las referencias exactas de los versículos de dominio en un examen. ¿Qué le recomendarías para retenerlos mejor?",
       "type": "multiple",
       "options": [
+        "Aprender solo los versículos más cortos y fáciles",
         "Memorizarlos solo la noche anterior al examen",
         "Repasarlos regularmente y relacionarlos con situaciones reales de su vida",
-        "Copiarlos varias veces sin pensar en su significado",
-        "Aprender solo los versículos más cortos y fáciles"
+        "Copiarlos varias veces sin pensar en su significado"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Repasar regularmente y relacionar los versículos con situaciones reales ayuda a retenerlos mejor."
     },
     {
@@ -121,12 +121,12 @@
       "question": "Emilia piensa que los versículos de Mosíah y los de Nefi no tienen nada que ver entre sí. ¿Qué le mostrarías sobre su relación?",
       "type": "multiple",
       "options": [
+        "Que la relación entre ellos es puramente cronológica",
         "Que efectivamente no tienen ninguna relación real",
         "Que solo los versículos de Mosíah tienen valor doctrinal",
-        "Que todos apuntan al mismo tema central: acercarnos a Cristo y transformar nuestro corazón",
-        "Que la relación entre ellos es puramente cronológica"
+        "Que todos apuntan al mismo tema central: acercarnos a Cristo y transformar nuestro corazón"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Todos los versículos de dominio apuntan al mismo tema central: acercarnos a Cristo y transformar nuestro corazón."
     },
     {
@@ -134,12 +134,12 @@
       "question": "¿Qué principio común comparten el versículo sobre el servicio (Mosíah 2:17) y el de la caída de Adán (2 Nefi 2:25)?",
       "type": "multiple",
       "options": [
-        "No comparten ningún principio en común",
         "Ambos muestran que el propósito de nuestra existencia se cumple sirviendo y buscando el gozo en Dios",
         "Solo uno de los dos tiene aplicación práctica real",
-        "Tratan temas completamente opuestos entre sí"
+        "Tratan temas completamente opuestos entre sí",
+        "No comparten ningún principio en común"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Mosíah 2:17; 2 Nefi 2:25",
       "explanation": "Ambos versículos muestran que el propósito de nuestra existencia se cumple sirviendo a otros y buscando el gozo en Dios."
     }

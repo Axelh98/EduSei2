@@ -41,7 +41,7 @@
       "preguntas": [
         "Si tuvieras que resumir en una frase lo que sienten Alma y Amulek durante su encarcelamiento, ¿qué dirías?",
         "¿Qué parte del relato de Alma 14 te resultó más difícil de leer?",
-        "¿Viviste alguna vez una situación injusta en la que no hubo una solución inmediata? ¿Cómo la atravesaste?",
+        "Releé Alma 14:11 y buscá la razón que da Alma para no usar el poder de Dios y detener lo que estaba pasando. ¿Te resulta una respuesta satisfactoria?",
         "¿Qué significa para vos \"confiar en la voluntad del Señor\" cuando las cosas no cambian tan rápido como quisieras?",
         "Pensá en alguien que esté atravesando algo injusto ahora mismo. ¿Qué podés hacer esta semana para acompañarlo, aunque no puedas resolver su problema?",
         "¿Qué oración o hábito espiritual podés sostener esta semana, aunque la respuesta no llegue de inmediato?"
@@ -54,12 +54,12 @@
       "question": "¿Qué terrible crimen cometió el pueblo de Ammoníah?",
       "type": "multiple",
       "options": [
+        "No cometieron ninguna falta grave contra su pueblo",
         "Quemaron a mujeres y niños creyentes junto con las escrituras",
         "Robaron las pertenencias de las familias más pobres",
-        "Solamente encarcelaron a algunos de los creyentes",
-        "No cometieron ninguna falta grave contra su pueblo"
+        "Solamente encarcelaron a algunos de los creyentes"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 14:8",
       "explanation": "El pueblo de Ammoníah quemó a mujeres y niños creyentes junto con las escrituras."
     },
@@ -68,12 +68,12 @@
       "question": "¿Por qué no permitió el Señor que Alma y Amulek detuvieran las muertes?",
       "type": "multiple",
       "options": [
+        "Como un castigo dirigido hacia los propios creyentes",
         "Porque a Dios no le importaba lo que ocurría",
-        "Para que la sangre de los inocentes testificara contra los malvados",
-        "Porque en ese momento no tenía el poder necesario",
-        "Como un castigo dirigido hacia los propios creyentes"
+        "Para que la sangre inocente testifique contra ellos",
+        "Porque en ese momento no tenía el poder necesario"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 14:11",
       "explanation": "El Señor lo permitió para que la sangre de los inocentes testificara contra los malvados."
     },
@@ -85,7 +85,7 @@
         "Escaparon aprovechando la oscuridad de la noche",
         "Los propios guardias decidieron dejarlos en libertad",
         "Pagaron una suma de dinero para obtener su libertad",
-        "Por el poder de Dios, las cuerdas se rompieron y las paredes cayeron"
+        "Por el poder de Dios cayeron los muros de la cárcel"
       ],
       "correctAnswer": 3,
       "reference": "Alma 14:27-28",
@@ -96,12 +96,12 @@
       "question": "¿Qué se obligó a presenciar a Alma y Amulek antes de su propio encarcelamiento?",
       "type": "multiple",
       "options": [
-        "Un juicio público en su contra por parte de los jueces",
-        "La destrucción de sus propias casas y posesiones",
         "La quema de las mujeres, los niños y las escrituras de los creyentes",
-        "Una celebración organizada por los líderes de la ciudad"
+        "Una celebración organizada por los líderes de la ciudad",
+        "Un juicio público en su contra por parte de los jueces",
+        "La destrucción de sus propias casas y posesiones"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 14:8-11",
       "explanation": "Se les obligó a presenciar la quema de las mujeres, los niños y las escrituras de los creyentes."
     },
@@ -111,7 +111,7 @@
       "type": "multiple",
       "options": [
         "Que Dios nunca interviene en situaciones de injusticia",
-        "Que Dios a veces permite el sufrimiento por un tiempo, pero finalmente actúa con justicia y poder",
+        "Que Dios permite el sufrimiento un tiempo y después actúa",
         "Que la injusticia siempre queda sin ninguna consecuencia",
         "Que solo debemos esperar sin hacer nada ante la injusticia"
       ],
@@ -126,7 +126,7 @@
       "options": [
         "Que la maldad nunca recibe ninguna consecuencia real",
         "Que ella debe encargarse personalmente de hacer justicia",
-        "Que la justicia de Dios eventualmente alcanza a quienes actúan con maldad, aunque no sea inmediato",
+        "Que la justicia de Dios llega, aunque no sea inmediata",
         "Que Dios ignora las injusticias cometidas contra otros"
       ],
       "correctAnswer": 2,
@@ -138,12 +138,12 @@
       "question": "¿Qué conecta el sufrimiento de las mujeres y niños quemados con la liberación posterior de Alma y Amulek?",
       "type": "multiple",
       "options": [
-        "No tienen ninguna relación entre sí",
-        "Ambos hechos muestran que Dios permite pruebas difíciles, pero también actúa para traer justicia y liberación",
         "Solo la liberación de Alma y Amulek tiene importancia en este relato",
-        "El sufrimiento de las mujeres y niños fue completamente evitable"
+        "El sufrimiento de las mujeres y niños fue completamente evitable",
+        "No tienen ninguna relación entre sí",
+        "Que Dios permite pruebas duras y también trae justicia y liberación"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 14",
       "explanation": "Ambos hechos muestran que Dios permite pruebas difíciles, pero también actúa para traer justicia y liberación."
     }

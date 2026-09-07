@@ -49,7 +49,7 @@
           "description": "Principios para resolver dudas y fortalecer el testimonio.",
           "type": "Preparación para la Vida",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/01-introductory-materials/015-teacher?lang=spa",
-          "questionCount": 0,
+          "questionCount": 7,
           "hasStudy": true
         }
       ]
@@ -118,7 +118,7 @@
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/13-2-nephi-31-33/132-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         },
         {
           "id": "2-nefi-32-1-7",
@@ -127,7 +127,7 @@
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/13-2-nephi-31-33/133-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         },
         {
           "id": "dd-2-nefi-32-3",
@@ -136,7 +136,7 @@
           "type": "Dominio de la Doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/13-2-nephi-31-33/134-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         },
         {
           "id": "2-nefi-32-8-9",
@@ -145,7 +145,7 @@
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/13-2-nephi-31-33/135-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         },
         {
           "id": "dd-2-nefi-32-8-9",
@@ -154,7 +154,7 @@
           "type": "Dominio de la Doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/14-jacob-1-4/141-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         }
       ]
     },
@@ -887,7 +887,7 @@
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/28-alma-23-29/281-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         },
         {
           "id": "alma-26",
@@ -896,7 +896,7 @@
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/28-alma-23-29/283-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         },
         {
           "id": "alma-29",
@@ -905,7 +905,7 @@
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/28-alma-23-29/284-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         },
         {
           "id": "evalua-tu-aprendizaje-5",
@@ -914,7 +914,7 @@
           "type": "Dominio de la Doctrina",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/26-alma-13-16/264-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         }
       ]
     },
@@ -930,7 +930,7 @@
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/29-alma-30-31/291-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         },
         {
           "id": "alma-30-30-60",
@@ -939,7 +939,7 @@
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/29-alma-30-31/292-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         },
         {
           "id": "alma-31-1-11",
@@ -948,7 +948,7 @@
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/29-alma-30-31/293-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         },
         {
           "id": "alma-31-12-38",
@@ -957,7 +957,7 @@
           "type": "Libro de Mormón - Ven Sigueme",
           "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2024/29-alma-30-31/294-teacher?lang=spa",
           "questionCount": 7,
-          "hasStudy": false
+          "hasStudy": true
         }
       ]
     }

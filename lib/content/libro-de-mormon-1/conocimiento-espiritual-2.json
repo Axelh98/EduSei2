@@ -46,10 +46,10 @@
       "preguntas": [
         "¿Hubo alguna situación en tu vida que, al verla solo desde lo inmediato, parecía terrible, pero que después, con más perspectiva, tuvo sentido?",
         "¿Qué diferencia hace saber que estamos en el 'segundo acto de tres' cuando enfrentás algo difícil o injusto?",
-        "El principio dice que debemos analizar las preguntas en el contexto del Plan de Salvación. ¿Podés pensar en una pregunta actual de tu vida y tratar de reformularla con ese contexto?",
+        "Buscá en Alma 42:1 qué era lo que tenía inquieta la mente de Coriantón. ¿Notás que Alma no lo reta por haber preguntado?",
         "¿Hay algo que te cuesta ver con una perspectiva eterna ahora mismo, algo que parece difícil de encajar en el plan del Padre Celestial?",
         "¿Qué pregunta o tema difícil que hayas escuchado en redes sociales o entre amigos podrías analizar de manera diferente usando este principio?",
-        "¿Cómo explicarías este principio a alguien que dice que la Iglesia no tiene respuestas para las preguntas difíciles del mundo actual?"
+        "Elegí la pregunta difícil que más vueltas te dé y escribila tal cual en un papel. Llevala a la oración esta semana y anotá si lo que cambia es la pregunta o sos vos."
       ]
     }
   ],
@@ -58,21 +58,21 @@
       "id": 1,
       "question": "El manual describe el segundo principio para adquirir conocimiento espiritual. ¿Cuál es ese principio?",
       "options": [
-        "Procurar comprensión mediante fuentes divinamente señaladas",
         "Actuar con fe antes de tener todas las respuestas",
         "Analizar los conceptos y las preguntas con una perspectiva eterna",
-        "Buscar la guía de los profetas locales antes de orar"
+        "Buscar la guía de los profetas locales antes de orar",
+        "Procurar comprensión mediante fuentes divinamente señaladas"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "El presidente Dallin H. Oaks usó la imagen de una obra de teatro de tres actos para describir la perspectiva eterna. ¿En qué acto dijo que se encuentra la vida mortal?",
+      "question": "Alma 42:1 dice que a Coriantón «hay algo más que inquieta tu mente, algo que no puedes comprender». ¿Cómo trata Alma esa inquietud?",
       "options": [
-        "En el primer acto, que define el propósito de todo lo que viene después",
-        "En el segundo acto, cuyo propósito viene definido por el primero y el tercero",
-        "En el tercer acto, donde se revelan todos los resultados finales",
-        "En una pausa entre el primer y el segundo acto"
+        "Le pide que deje de preguntar hasta tener más experiencia en el Evangelio.",
+        "La toma en serio y se pone a explicarle la doctrina que le falta.",
+        "Le responde que esas preguntas no tienen respuesta en esta vida.",
+        "Lo corrige por dudar y le recuerda cuál es su lugar como hijo."
       ],
       "correctAnswer": 1
     },
@@ -80,23 +80,23 @@
       "id": 3,
       "question": "El manual describe el ejercicio de 'reformular preguntas': identificar supuestos detrás de una pregunta y evaluarlos en el contexto del Plan de Salvación. ¿Cuál sería un ejemplo de cómo eso funciona en una pregunta real?",
       "options": [
-        "Cambiar '¿por qué Dios permitió este sufrimiento?' por '¿cómo puedo evitar el sufrimiento?'",
-        "Cambiar '¿por qué la vida es injusta?' por '¿qué está aprendiendo mi espíritu en esta circunstancia eterna?'",
         "Ignorar la pregunta difícil y reemplazarla por una más sencilla",
-        "Buscar en internet una respuesta académica a la pregunta original"
+        "Buscar en internet una respuesta académica a la pregunta original",
+        "Cambiar '¿por qué Dios permitió este sufrimiento?' por '¿cómo puedo evitar el sufrimiento?'",
+        "Cambiar '¿por qué la vida es injusta?' por '¿qué está aprendiendo mi espíritu en esta circunstancia eterna?'"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "La lección usa el ejercicio de mirar a través de un agujero pequeño en un papel y luego tratar de atrapar un objeto. ¿Qué ilustra ese ejercicio sobre la perspectiva limitada sin el Plan de Salvación?",
       "options": [
-        "Que la perspectiva más pequeña siempre es más precisa que la visión amplia",
         "Que sin el contexto del plan eterno, tomamos decisiones importantes con información drásticamente incompleta",
         "Que la perspectiva eterna nos hace ignorar los problemas terrenales inmediatos",
-        "Que solo los líderes de la Iglesia tienen acceso a la perspectiva completa"
+        "Que solo los líderes de la Iglesia tienen acceso a la perspectiva completa",
+        "Que la perspectiva más pequeña siempre es más precisa que la visión amplia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -113,23 +113,23 @@
       "id": 6,
       "question": "Mateo tiene un amigo que le pregunta: '¿Para qué sirve el Plan de Salvación en la vida real?' Según lo que aprendió en esta lección sobre la perspectiva eterna, ¿qué ejemplo concreto podría dar?",
       "options": [
+        "Que el Plan de Salvación solo importa a las personas mayores que están más cerca de la muerte",
         "Que el Plan de Salvación es principalmente para después de morir, no para la vida cotidiana",
         "Que el Plan de Salvación cambia cómo interpretamos las dificultades presentes, porque las vemos en el contexto de quiénes somos y hacia dónde vamos eternamente",
-        "Que el Plan de Salvación es un conjunto de reglas que nos dice cómo comportarnos en situaciones específicas",
-        "Que el Plan de Salvación solo importa a las personas mayores que están más cerca de la muerte"
+        "Que el Plan de Salvación es un conjunto de reglas que nos dice cómo comportarnos en situaciones específicas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Alma respondió las preguntas difíciles de Coriantón (Alma 40–42) sobre la resurrección y la justicia de Dios usando el contexto del Plan de Salvación. ¿Cómo ejemplifica eso el principio de esta lección?",
       "options": [
-        "Que las preguntas difíciles deben ignorarse para proteger la fe",
-        "Que las preguntas espirituales difíciles tienen respuestas más satisfactorias cuando se analizan dentro del marco del plan eterno de Dios, no solo desde la perspectiva terrenal",
         "Que solo los profetas como Alma pueden responder preguntas difíciles sobre el Evangelio",
-        "Que las preguntas de Coriantón eran simplemente señal de falta de fe, no de pensamiento genuino"
+        "Que las preguntas de Coriantón eran simplemente señal de falta de fe, no de pensamiento genuino",
+        "Que las preguntas difíciles deben ignorarse para proteger la fe",
+        "Que las preguntas espirituales difíciles tienen respuestas más satisfactorias cuando se analizan dentro del marco del plan eterno de Dios, no solo desde la perspectiva terrenal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

@@ -46,10 +46,10 @@
       "preguntas": [
         "¿Qué es lo que más te impresiona del valor de Abinadí frente al rey Noé?",
         "Si tuvieras que elegir una sola palabra para describir a Abinadí, ¿cuál sería?",
-        "¿Qué similitudes ves entre la época de Abinadí y algunas situaciones que se viven hoy?",
+        "Leé de nuevo Mosíah 17:9-10 y fijate qué es lo que Abinadí no está dispuesto a hacer, incluso con la muerte delante. ¿Cuál es la frase exacta?",
         "¿Cómo reaccionás normalmente cuando algo que enseña un profeta actual es justo lo que te cuesta más hacer?",
         "¿Qué invitación de un profeta actual necesitás aplicar más plenamente esta semana?",
-        "¿A quién podrías contarle esta semana algo que aprendiste de la valentía de Abinadí?"
+        "Abinadí habló sabiendo lo que le iba a costar. Escribí una cosa que sabés que deberías decir y venís callando, y orá por ella antes de decidir si la decís."
       ]
     }
   ],
@@ -59,12 +59,12 @@
       "question": "¿Qué profetizó Abinadí sobre el rey Noé?",
       "type": "multiple",
       "options": [
-        "Que reinaría en paz durante muchos años más",
         "Que se arrepentiría fácilmente al escuchar su mensaje",
         "Que sería perdonado si cambiaba sus leyes de inmediato",
-        "Que su vida sería valuada como una ropa en un horno ardiente"
+        "Que su vida sería valuada como una ropa en un horno ardiente",
+        "Que reinaría en paz durante muchos años más"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Mosíah 12:3",
       "explanation": "Abinadí profetizó que la vida del rey Noé sería valuada como una ropa en un horno ardiente."
     },
@@ -73,12 +73,12 @@
       "question": "¿Cómo selló Abinadí su testimonio?",
       "type": "multiple",
       "options": [
-        "Con su propia muerte, siendo quemado vivo en la hoguera",
         "Huyendo de la ciudad antes de que lo capturaran",
         "Negociando su liberación a cambio de silencio",
-        "Escribiendo un libro que se conservó por generaciones"
+        "Escribiendo un libro que se conservó por generaciones",
+        "Con su propia muerte, siendo quemado vivo en la hoguera"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Mosíah 17:20",
       "explanation": "Abinadí selló su testimonio con su propia muerte, siendo quemado por el rey Noé."
     },
@@ -87,12 +87,12 @@
       "question": "¿Qué muestra el ejemplo de Abinadí sobre el valor moral?",
       "type": "multiple",
       "options": [
-        "Que es mejor evitar el conflicto siempre que sea posible",
-        "Que debemos ceder ante la autoridad si insiste lo suficiente",
         "Que debemos defender la verdad sin importar las consecuencias",
-        "Que la verdad solo importa si es aceptada por la mayoría"
+        "Que la verdad solo importa si es aceptada por la mayoría",
+        "Que es mejor evitar el conflicto siempre que sea posible",
+        "Que debemos ceder ante la autoridad si insiste lo suficiente"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Mosíah 13:9",
       "explanation": "Abinadí enseña que debemos defender la verdad sin importar las consecuencias."
     },
@@ -129,12 +129,12 @@
       "question": "Catalina teme hablar de su fe porque sus amigos podrían burlarse de ella. ¿Qué la anima el ejemplo de Abinadí?",
       "type": "multiple",
       "options": [
-        "Que es mejor evitar cualquier conversación sobre su fe",
-        "Que testificar de la verdad tiene valor eterno, incluso si trae rechazo inmediato",
         "Que debe esperar a tener más edad para hablar de su fe",
-        "Que solo debe hablar si está segura de convencer a todos"
+        "Que solo debe hablar si está segura de convencer a todos",
+        "Que es mejor evitar cualquier conversación sobre su fe",
+        "Que testificar de la verdad tiene valor eterno, incluso si trae rechazo inmediato"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 17:7-10",
       "explanation": "Testificar de la verdad tiene valor eterno, aunque en el momento traiga rechazo o burla."
     },
@@ -143,12 +143,12 @@
       "question": "¿Cómo se relacionan la maldad del rey Noé y el valor de Abinadí en este relato?",
       "type": "multiple",
       "options": [
-        "No tienen ninguna relación entre sí",
-        "Muestran que la maldad siempre logra silenciar a la verdad",
         "El contraste muestra que la verdad puede sostenerse firme incluso frente a la corrupción del poder",
-        "Indican que Abinadí también era corrupto como el rey Noé"
+        "Indican que Abinadí también era corrupto como el rey Noé",
+        "No tienen ninguna relación entre sí",
+        "Muestran que la maldad siempre logra silenciar a la verdad"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Mosíah 11-17",
       "explanation": "El contraste entre la maldad de Noé y el valor de Abinadí muestra que la verdad puede sostenerse firme frente a la corrupción."
     }

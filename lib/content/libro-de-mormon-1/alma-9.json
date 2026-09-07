@@ -41,10 +41,10 @@
       "preguntas": [
         "Si tuvieras que hacer una lista rápida de tres bendiciones espirituales en tu vida, ¿cuáles pondrías primero?",
         "¿Qué parte de la advertencia de Alma al pueblo de Ammoníah te pareció más dura?",
-        "¿Alguna vez diste por sentada una bendición espiritual hasta que, por algún motivo, dejaste de tenerla cerca?",
+        "Fijate en Alma 9:26, en la lista de cosas de las que viene lleno el Hijo de Dios. ¿Cuál de todas no esperabas encontrar en esa lista?",
         "¿Por qué creés que Dios espera más de quienes han recibido más luz y conocimiento?",
         "Elegí una bendición espiritual que sueles dar por sentada. ¿Qué acción concreta podés hacer esta semana para vivir más a la altura de ella?",
-        "¿A quién podrías contarle esta semana sobre una bendición espiritual que hayas notado en tu vida últimamente?"
+        "Anotá esta semana tres bendiciones espirituales que tengas y que no te ganaste. Meditá en cuál de las tres venías tratando como si fuera obvia."
       ]
     }
   ],
@@ -54,12 +54,12 @@
       "question": "¿Qué bendiciones había recibido el pueblo de Ammoníah según Alma 9:20?",
       "type": "multiple",
       "options": [
-        "Habían sido altamente favorecidos, visitados por el Espíritu de Dios",
         "No habían recibido ninguna bendición especial de Dios",
         "Solamente habían prosperado en riquezas materiales",
-        "Habían obtenido poder político sobre otras ciudades"
+        "Habían obtenido poder político sobre otras ciudades",
+        "Habían sido altamente favorecidos, visitados por el Espíritu de Dios"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Alma 9:20",
       "explanation": "El pueblo de Ammoníah había sido altamente favorecido, visitado por el Espíritu de Dios."
     },
@@ -68,12 +68,12 @@
       "question": "¿Qué advertencia dio Alma sobre rechazar el conocimiento?",
       "type": "multiple",
       "options": [
-        "No habrá ninguna consecuencia por rechazar la verdad",
-        "Será más tolerable para los lamanitas que para ellos en el día del juicio",
+        "Será más tolerable para los lamanitas que para este pueblo",
         "Solamente perderán algunas bendiciones temporales menores",
-        "Todos recibirán exactamente el mismo juicio sin diferencias"
+        "Todos recibirán exactamente el mismo juicio sin diferencias",
+        "No habrá ninguna consecuencia por rechazar la verdad"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 9:23",
       "explanation": "Alma advirtió que sería más tolerable para los lamanitas que para ellos en el día del juicio."
     },
@@ -82,12 +82,12 @@
       "question": "¿Qué les urgió Alma a hacer?",
       "type": "multiple",
       "options": [
-        "Arrepentirse y no endurecer más sus corazones",
+        "Construir más edificios públicos en la ciudad",
+        "Arrepentirse y no endurecer el corazón",
         "Acumular más riquezas para asegurar su futuro",
-        "Mudarse a otra ciudad más segura",
-        "Construir más edificios públicos en la ciudad"
+        "Mudarse a otra ciudad más segura"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 9:12",
       "explanation": "Alma les urgió a arrepentirse y no endurecer más sus corazones."
     },
@@ -96,12 +96,12 @@
       "question": "¿Por qué mayor conocimiento implica mayor responsabilidad, según la enseñanza de Alma?",
       "type": "multiple",
       "options": [
-        "Porque Dios exige más a quienes tienen más riquezas materiales",
         "Porque el conocimiento no tiene relación con la responsabilidad moral",
         "Porque solo los líderes de la iglesia tienen esa responsabilidad",
-        "Porque quienes conocen la verdad y la rechazan pecan con mayor conciencia"
+        "Porque quienes conocen la verdad y la rechazan pecan con mayor conciencia",
+        "Porque Dios exige más a quienes tienen más riquezas materiales"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Alma 9:23",
       "explanation": "Quienes conocen la verdad y la rechazan pecan con mayor conciencia, por eso tienen mayor responsabilidad."
     },
@@ -110,12 +110,12 @@
       "question": "Guadalupe creció en la Iglesia y a veces da por sentado todo lo que ha aprendido. ¿Qué advertencia de Alma 9 le aplicarías?",
       "type": "multiple",
       "options": [
-        "Que mayor conocimiento implica mayor responsabilidad de vivir conforme a la verdad recibida",
         "Que haber crecido en la Iglesia ya garantiza la salvación",
         "Que el conocimiento recibido no tiene ninguna exigencia adicional",
-        "Que solo los conversos recientes tienen responsabilidad espiritual"
+        "Que solo los conversos recientes tienen responsabilidad espiritual",
+        "Que a mayor conocimiento, mayor responsabilidad de vivirlo"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Alma 9:23",
       "explanation": "Mayor conocimiento implica mayor responsabilidad de vivir conforme a la verdad recibida."
     },
@@ -124,12 +124,12 @@
       "question": "Tomás ve que sus amigos rechazan el evangelio a pesar de haberlo escuchado varias veces. ¿Qué le enseña la advertencia de Alma sobre el juicio?",
       "type": "multiple",
       "options": [
-        "Que no hay ninguna diferencia entre conocer y no conocer la verdad",
-        "Que rechazar la verdad conocida trae consecuencias más serias que nunca haberla escuchado",
+        "Que rechazar la verdad conocida es más grave que ignorarla",
         "Que sus amigos ya no tienen ninguna oportunidad de arrepentirse",
-        "Que el rechazo de sus amigos no tiene importancia real"
+        "Que el rechazo de sus amigos no tiene importancia real",
+        "Que no hay ninguna diferencia entre conocer y no conocer la verdad"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 9:23",
       "explanation": "Rechazar la verdad conocida trae consecuencias más serias que nunca haberla escuchado."
     },
@@ -138,12 +138,12 @@
       "question": "¿Qué relación hay entre las bendiciones que había recibido el pueblo de Ammoníah y la advertencia sobre el juicio que les dio Alma?",
       "type": "multiple",
       "options": [
-        "No tienen relación entre sí",
-        "Solo la advertencia sobre el juicio tiene importancia real",
         "Las bendiciones recibidas eliminan cualquier responsabilidad futura",
-        "Cuanto mayor es la bendición recibida, mayor es la responsabilidad de responder con fidelidad"
+        "A mayor bendición recibida, mayor responsabilidad de fidelidad",
+        "No tienen relación entre sí",
+        "Solo la advertencia sobre el juicio tiene importancia real"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Alma 9:20-23",
       "explanation": "Cuanto mayor es la bendición recibida, mayor es la responsabilidad de responder con fidelidad."
     }

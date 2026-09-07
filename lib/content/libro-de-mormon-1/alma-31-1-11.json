@@ -1,18 +1,70 @@
 {
   "id": "alma-31-1-11",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Hay un estudio sobre lo difícil que es caminar en línea recta cuando no hay puntos de referencia visibles. La gente cree que va derecho y en realidad va describiendo círculos. El presidente Uchtdorf lo usó para explicar algo espiritual: sin referencias confiables, uno se desvía sin darse cuenta y sin decidirlo. Los zoramitas son ese caso. Habían creído en Jesucristo y se fueron corriendo de a poco: dejaron de guardar los mandamientos, dejaron de reunirse como antes, dejaron de orar como les habían enseñado. Nadie anunció una ruptura. Cuando Alma llegó a Antiónum, se encontró con un pueblo que ya adoraba de una manera irreconocible. Y Alma tenía opciones. Podía haber mandado un ejército —los zoramitas amenazaban con aliarse con los lamanitas, así que había un problema militar real—. Eligió otra cosa. El texto explica por qué: la predicación de la palabra «había surtido un efecto más potente en la mente del pueblo que la espada o cualquier otra cosa». Por eso decidió «poner a prueba la virtud de la palabra de Dios», y conviene saber que virtud ahí viene del latín virtus, que significa fuerza o poder. No estaba probando si era linda: estaba probando si funcionaba. Su meta, escrita en su propia oración, era «traerlos nuevamente a ti en Cristo». Ese es el punto: la palabra de Dios no sirve para ganar discusiones, sirve para llevar gente de vuelta a Él. Y Alma sabía de qué hablaba, porque a él le había pasado: iba en dirección contraria cuando lo alcanzó Su misericordia, y por eso creía que todavía se podía alcanzar a los zoramitas. Si estás caminando sin referencias, entonces, la pregunta no es si te vas a desviar. Es hacia dónde, y cuánto vas a tardar en darte cuenta."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 31:5",
+          "texto": "Y como la predicación de la palabra tenía gran propensión a impulsar a la gente a hacer lo que era justo —sí, había surtido un efecto más potente en la mente del pueblo que la espada o cualquier otra cosa que les había acontecido— por tanto, Alma consideró prudente que pusieran a prueba la virtud de la palabra de Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Alma 31:9",
+          "texto": "Pero habían caído en grandes errores, pues no se esforzaban por guardar los mandamientos de Dios ni sus estatutos, según la ley de Moisés.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Alma 31:11",
+          "texto": "Sí, y en fin, pervertían las vías del Señor en muchísimos casos; por lo tanto, por esta razón, Alma y sus hermanos fueron a su tierra para predicarles la palabra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Alma 31:34",
+          "texto": "¡Oh Señor, concédenos lograr el éxito al traerlos nuevamente a ti en Cristo!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=spa&id=p34#p34"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dieter F. Uchtdorf",
+      "fuente": "«La restauración diaria», Liahona, noviembre de 2021, pág. 77",
+      "texto": "Sin puntos de referencia fiables, nos desviamos del curso.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/41uchtdorf?lang=spa&id=p9#p9"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Los zoramitas no se levantaron un día y decidieron abandonar a Jesucristo: se fueron desviando, un grado por vez, hasta terminar en un lugar irreconocible. Así funciona casi siempre. Por eso importan los puntos de referencia diarios —las Escrituras, la oración, la Santa Cena—: no porque sean requisitos, sino porque son lo que te avisa que te estás corriendo. Alma no eligió la espada aunque la tenía disponible: eligió la palabra, porque es lo único que cambia una mente, y su meta declarada era traerlos «nuevamente a ti en Cristo». Fijate esta semana qué referencia tuya se aflojó primero, y volvé a ponerla en su lugar."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez te diste cuenta tarde de que te habías ido corriendo de a poco en algo? ¿Qué te lo hizo notar?",
+        "¿Qué cosas hacen que un joven se aleje de Jesucristo sin haberlo decidido nunca de manera consciente?",
+        "Volvé a leer Alma 31:5 y buscá con qué compara el texto el poder de la palabra. ¿Por qué te parece que dice que fue «más potente» que eso?",
+        "Alma tenía un problema militar real y eligió predicar. ¿Qué te dice esa decisión sobre lo que él creía que cambia a la gente?",
+        "¿Cuál de tus puntos de referencia —estudio, oración, Seminario, Santa Cena— está más flojo ahora mismo?",
+        "Fijate una meta chica y concreta para fortalecer tu relación con Él, escribila en un papel y orá por ella cada día de esta semana."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "question": "¿Qué problema tenían los zoramitas?",
       "type": "multiple",
       "options": [
+        "En realidad no tenían ningún problema espiritual",
         "Se habían descarriado y pervertido el camino del Señor",
         "Eran un pueblo completamente perfecto sin ningún defecto",
-        "Mostraban una humildad ejemplar en todas sus acciones",
-        "En realidad no tenían ningún problema espiritual"
+        "Mostraban una humildad ejemplar en todas sus acciones"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 31:8-11",
       "explanation": "Los zoramitas se habían descarriado y pervertido el camino del Señor."
     },
@@ -49,12 +101,12 @@
       "question": "¿Quiénes acompañaron a Alma en esta misión?",
       "type": "multiple",
       "options": [
-        "Nadie, viajó completamente solo",
         "Ammón, Aarón y otros hermanos fieles",
         "Un grupo de completos desconocidos",
-        "Un pequeño ejército armado"
+        "Un pequeño ejército armado",
+        "Nadie, viajó completamente solo"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 31:6-7",
       "explanation": "A Alma lo acompañaron Ammón, Aarón y otros hermanos fieles."
     },
@@ -63,12 +115,12 @@
       "question": "Franco ve que un grupo de compañeros se ha alejado de la fe y le preocupa profundamente. ¿Qué ejemplo de Alma podría seguir para ayudarlos?",
       "type": "multiple",
       "options": [
+        "Esperar a que ellos busquen ayuda por sí mismos sin intervenir",
         "Ir hacia ellos con amor genuino, llevando la palabra de Dios como su principal herramienta",
         "Alejarse de ellos para no ser influenciado por sus decisiones",
-        "Exigirles que regresen a la fe sin ninguna explicación",
-        "Esperar a que ellos busquen ayuda por sí mismos sin intervenir"
+        "Exigirles que regresen a la fe sin ninguna explicación"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 31:1-6",
       "explanation": "Alma se acercó a los zoramitas con amor genuino, llevando la palabra de Dios como su principal herramienta."
     },
@@ -77,12 +129,12 @@
       "question": "Milagros siente que debe llevar 'pruebas fuertes' para convencer a alguien de la verdad. ¿Qué le enseña la elección de Alma de llevar solo la palabra de Dios?",
       "type": "multiple",
       "options": [
+        "Que la palabra de Dios no es suficiente sin apoyo adicional",
         "Que necesita argumentos más agresivos para convencer a otros",
         "Que la palabra de Dios, compartida con sinceridad, puede ser más poderosa que cualquier otro argumento",
-        "Que debe evitar compartir su fe si no tiene pruebas contundentes",
-        "Que la palabra de Dios no es suficiente sin apoyo adicional"
+        "Que debe evitar compartir su fe si no tiene pruebas contundentes"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 31:5",
       "explanation": "La palabra de Dios, compartida con sinceridad, puede ser más poderosa que cualquier otro argumento."
     },

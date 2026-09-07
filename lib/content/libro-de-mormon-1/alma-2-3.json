@@ -12,6 +12,16 @@
           "referencia": "Alma 3:18",
           "texto": "Ahora bien, los amlicitas no sabían que estaban cumpliendo las palabras de Dios cuando empezaron a marcarse la frente; sin embargo, se habían rebelado abiertamente contra Dios; por tanto, fue menester que la maldición cayera sobre ellos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=spa&id=p18#p18"
+        },
+        {
+          "referencia": "Alma 5:14",
+          "texto": "Y ahora os pregunto, hermanos míos de la iglesia: ¿Habéis nacido espiritualmente de Dios? ¿Habéis recibido su imagen en vuestros rostros? ¿Habéis experimentado este potente cambio en vuestros corazones?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p14#p14"
+        },
+        {
+          "referencia": "Mosíah 5:7",
+          "texto": "Ahora pues, a causa del convenio que habéis hecho, seréis llamados progenie de Cristo, hijos e hijas de él, porque he aquí, hoy él os ha engendrado espiritualmente; pues decís que vuestros corazones han cambiado por medio de la fe en su nombre; por tanto, habéis nacido de él y habéis llegado a ser sus hijos y sus hijas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=spa&id=p7#p7"
         }
       ]
     },
@@ -24,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Nuestra verdadera marca es el nombre de Jesucristo escrito en nuestro corazón, no una señal externa (Alma 5:14). Aunque el mundo intente marcarnos con sus propios valores, sus modas o la presión de encajar en un grupo, nosotros decidimos, día a día, a quién pertenecemos. La historia de Amlici nos recuerda que las consecuencias de nuestras decisiones muchas veces las provocamos nosotros mismos, sin que nadie más tenga la culpa. La vigilancia espiritual y la lealtad a los principios de libertad y verdad son fundamentales para no repetir su camino de rebelión y orgullo. Esta semana, elegí una amistad o una costumbre que quieras revisar, y preguntate honestamente si te está acercando al convenio que hiciste con el Señor o alejándote de él."
+      "contenido": "Nuestra verdadera marca no se ve desde afuera: es Su nombre escrito en el corazón. Aunque el mundo intente marcarnos con sus modas, sus valores o la presión de encajar en un grupo, cada día decidimos a quién pertenecemos. La historia de Amlici recuerda que muchas de las consecuencias que sufrimos nos las provocamos nosotros, sin que nadie más tenga la culpa. Pero el rey Benjamín agrega la otra mitad: podemos ser llamados «progenie de Cristo» porque Él nos engendró espiritualmente, y ese es el único título que nadie te puede sacar. Revisá esta semana una amistad o una costumbre y preguntate honestamente de qué lado te está marcando."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Con qué personaje de esta historia —Amlici o Alma— te identificás más y por qué?",
         "En una sola frase, ¿qué fue lo que realmente les pasó a los amlicitas por sus propias decisiones?",
-        "¿Alguna vez viviste una situación en la que quisiste conseguir algo (un puesto, un logro, la aprobación de alguien) a cualquier costo?",
+        "Volvé a leer Alma 3:18 y prestá atención a quién se puso la marca. ¿Se la puso Dios o se la pusieron ellos? ¿Qué cambia esa diferencia?",
         "¿Notaste alguna vez cómo una decisión tuya, buena o mala, terminó 'marcándote' de alguna forma frente a los demás?",
         "Esta semana, ¿qué amistad o costumbre concreta podrías revisar para ver si te acerca o te aleja del convenio que hiciste con Dios?",
-        "¿Qué decisión pequeña podrías tomar esta semana para elegir la verdad en lugar del camino más fácil?"
+        "Escribí cuáles son las tres cosas que más marcan quién sos ante los demás. Después orá para saber si alguna de ellas te está marcando del lado equivocado."
       ]
     }
   ],
@@ -44,12 +54,12 @@
       "question": "¿Qué quería Amlici?",
       "type": "multiple",
       "options": [
-        "Servir humildemente como consejero del pueblo",
-        "Ayudar a los pobres a mejorar su condición",
         "Ser rey sobre el pueblo",
-        "Predicar el evangelio por toda la tierra"
+        "Predicar el evangelio por toda la tierra",
+        "Servir humildemente como consejero del pueblo",
+        "Ayudar a los pobres a mejorar su condición"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 2:2",
       "explanation": "Amlici quería ser rey sobre el pueblo."
     },
@@ -58,12 +68,12 @@
       "question": "¿Qué marca pusieron los amlicitas sobre sí mismos?",
       "type": "multiple",
       "options": [
+        "Ropa de un color especial",
         "Una marca roja en la frente",
         "Ninguna marca visible",
-        "Tatuajes en ambos brazos",
-        "Ropa de un color especial"
+        "Tatuajes en ambos brazos"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 3:4",
       "explanation": "Los amlicitas se pusieron una marca roja en la frente para distinguirse."
     },
@@ -72,12 +82,12 @@
       "question": "¿Qué principio enseña Alma 3:26-27 sobre nuestras acciones?",
       "type": "multiple",
       "options": [
+        "Otras personas son responsables de nuestras decisiones",
         "Las acciones no tienen ninguna consecuencia eterna",
         "Nuestras acciones y deseos nos traen recompensas buenas o malas",
-        "Solo la suerte determina lo que nos sucede en la vida",
-        "Otras personas son responsables de nuestras decisiones"
+        "Solo la suerte determina lo que nos sucede en la vida"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 3:26-27",
       "explanation": "Nuestras acciones y deseos nos traen recompensas buenas o malas, según lo que elegimos."
     },
@@ -86,12 +96,12 @@
       "question": "¿Cómo intentó Amlici alcanzar su objetivo de gobernar?",
       "type": "multiple",
       "options": [
-        "Reuniendo un ejército para tomar el poder por la fuerza",
         "Ganando una elección organizada por el pueblo",
         "Convenciendo pacíficamente al pueblo de elegirlo juez",
-        "Pidiendo apoyo directo al rey de los lamanitas"
+        "Pidiendo apoyo directo al rey de los lamanitas",
+        "Reuniendo un ejército para tomar el poder por la fuerza"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Alma 2:2-9",
       "explanation": "Al perder la votación del pueblo, Amlici reunió un ejército para tomar el poder por la fuerza."
     },
@@ -100,12 +110,12 @@
       "question": "Nicolás quiere ser el líder de su equipo a toda costa, incluso pasando por encima de otros. ¿Qué advertencia le daría el ejemplo de Amlici?",
       "type": "multiple",
       "options": [
-        "Que el liderazgo siempre trae beneficios sin riesgos",
-        "Que está bien competir sin importar los métodos usados",
         "Que buscar poder de forma egoísta puede llevar a consecuencias destructivas para uno mismo y para otros",
-        "Que Amlici tuvo éxito al final gracias a su ambición"
+        "Que Amlici tuvo éxito al final gracias a su ambición",
+        "Que el liderazgo siempre trae beneficios sin riesgos",
+        "Que está bien competir sin importar los métodos usados"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 2-3",
       "explanation": "El ejemplo de Amlici muestra que buscar poder de forma egoísta trae consecuencias destructivas."
     },

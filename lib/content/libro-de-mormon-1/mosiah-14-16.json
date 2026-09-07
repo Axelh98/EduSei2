@@ -39,17 +39,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Abinadí enseñó con claridad que Jesucristo es el centro del plan de salvación. Solo mediante Su sufrimiento, muerte y resurrección podemos vencer el pecado y la muerte. El Salvador sufrió voluntariamente por cada uno de nosotros porque nos ama perfectamente. Él comprende nuestras pruebas, dolores y debilidades porque las experimentó en la Expiación. Gracias a Jesucristo existe esperanza, perdón y vida eterna. El testimonio de Abinadí sigue invitándonos a confiar plenamente en el Redentor."
+      "contenido": "Abinadí enseñó con una claridad que incomodaba: Jesucristo es el centro del plan de salvación, y solo por Su sufrimiento, Su muerte y Su resurrección se vence el pecado y la muerte. Sufrió voluntariamente por cada uno porque nos ama, y comprende nuestras pruebas y debilidades porque las vivió. Fijate en las palabras que usa Isaías por boca de Abinadí: fue herido por nuestras transgresiones y con Sus llagas somos sanados. Todo el peso está de Su lado de la oración. Gracias a Él hay esperanza, perdón y vida eterna. Leé esta semana Mosíah 14 despacio, sabiendo que ese «él» es una persona que te conoce."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué aprendés sobre Jesucristo en Mosíah 14 que quizás no sabías antes?",
         "En una palabra, ¿qué sentís cuando leés que Cristo fue 'herido por nuestras transgresiones'?",
-        "¿Cómo te ayuda saber que el Salvador comprende tus dolores personales, aunque nadie más los entienda del todo?",
+        "Volvé a leer Mosíah 14:5 y contá cuántas veces aparece «nuestro» o «nuestras» en ese solo versículo. ¿De quién eran las transgresiones y sobre quién cayó el castigo?",
         "¿Alguna vez viviste un momento en que sentiste que necesitabas una segunda oportunidad, y cómo se relaciona eso con la Expiación?",
         "¿Qué carga o error concreto te gustaría entregarle al Salvador esta semana, confiando en Su Expiación?",
-        "¿De qué manera específica podrías acercarte al Salvador esta semana: orando por algo puntual, leyendo un capítulo, o hablando con alguien de confianza?"
+        "Leé Mosíah 14 despacio y en voz baja, sabiendo que habla de Él. Anotá el versículo que más te pegue y orá con esa frase durante la semana."
       ]
     }
   ],
@@ -59,12 +59,12 @@
       "question": "¿De quién profetizó Isaías 53 (citado en Mosíah 14)?",
       "type": "multiple",
       "options": [
-        "De un rey terrenal que gobernaría con gran poder",
-        "De Moisés y su liderazgo sobre el pueblo de Israel",
         "De Abraham y el sacrificio que se le pidió realizar",
-        "Del sufrimiento y la misión redentora de Jesucristo"
+        "Del sufrimiento y la misión redentora de Jesucristo",
+        "De un rey terrenal que gobernaría con gran poder",
+        "De Moisés y su liderazgo sobre el pueblo de Israel"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Mosíah 14:4-5",
       "explanation": "Isaías 53, citado en Mosíah 14, profetiza del sufrimiento y la misión redentora de Jesucristo."
     },
@@ -73,12 +73,12 @@
       "question": "Según Mosíah 14:5, ¿por qué fue herido Cristo?",
       "type": "multiple",
       "options": [
+        "Sin ninguna razón específica mencionada en el texto",
         "Por sus propios errores durante su vida terrenal",
         "Por nuestras rebeliones y por nuestros pecados",
-        "Por un accidente que ocurrió durante su ministerio",
-        "Sin ninguna razón específica mencionada en el texto"
+        "Por un accidente que ocurrió durante su ministerio"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Mosíah 14:5",
       "explanation": "Cristo fue herido por nuestras rebeliones y por nuestros pecados."
     },
@@ -87,12 +87,12 @@
       "question": "¿Qué enseñó Abinadí sobre la naturaleza de Cristo según Mosíah 15:1-5?",
       "type": "multiple",
       "options": [
-        "Que Dios mismo descenderá y será el Padre y el Hijo",
         "Que sería solamente un profeta más entre muchos otros",
         "Que su naturaleza sería únicamente espiritual, sin cuerpo físico",
-        "Que no vendría a la tierra en esta dispensación"
+        "Que no vendría a la tierra en esta dispensación",
+        "Que Dios mismo descenderá y será el Padre y el Hijo"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Mosíah 15:1",
       "explanation": "Abinadí enseñó que Dios mismo descenderá entre los hijos de los hombres y será el Padre y el Hijo."
     },
@@ -101,12 +101,12 @@
       "question": "Según Mosíah 14, ¿cómo sería recibido Cristo por los hombres?",
       "type": "multiple",
       "options": [
-        "Sería recibido con honores reales desde su nacimiento",
         "Sería despreciado y desechado, sin que lo estimaran",
         "Sería aclamado inmediatamente como el Mesías por todos",
-        "Viviría una vida cómoda, libre de sufrimiento"
+        "Viviría una vida cómoda, libre de sufrimiento",
+        "Sería recibido con honores reales desde su nacimiento"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Mosíah 14:3",
       "explanation": "Isaías profetizó que Cristo sería despreciado y desechado entre los hombres."
     },
@@ -115,12 +115,12 @@
       "question": "Lautaro no entiende por qué Cristo tuvo que sufrir tanto si es Dios. ¿Qué le explica Mosíah 14 (Isaías 53) sobre esto?",
       "type": "multiple",
       "options": [
-        "Que Su sufrimiento fue un accidente inevitable",
-        "Que no existe ninguna razón clara para Su sufrimiento",
         "Que Cristo tuvo que sufrir obligado por circunstancias externas",
-        "Que Cristo eligió sufrir voluntariamente por amor, para poder redimirnos"
+        "Que Cristo eligió sufrir voluntariamente por amor, para poder redimirnos",
+        "Que Su sufrimiento fue un accidente inevitable",
+        "Que no existe ninguna razón clara para Su sufrimiento"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Mosíah 14",
       "explanation": "Cristo eligió voluntariamente sufrir por amor, como parte de Su misión redentora."
     },
@@ -129,12 +129,12 @@
       "question": "Milagros siente que nadie la entiende cuando pasa por algo difícil. ¿Qué le ofrece la enseñanza de que 'por su llaga fuimos curados'?",
       "type": "multiple",
       "options": [
-        "La certeza de que Cristo puede sanar y comprender su dolor personalmente",
-        "La idea de que su dolor no es tan importante comparado con el de Cristo",
         "La instrucción de resolver su dolor completamente sola",
-        "La promesa de que su dolor desaparecerá de inmediato"
+        "La promesa de que su dolor desaparecerá de inmediato",
+        "La certeza de que Cristo puede sanar y comprender su dolor personalmente",
+        "La idea de que su dolor no es tan importante comparado con el de Cristo"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Mosíah 14:5",
       "explanation": "Por los sufrimientos de Cristo, Él puede comprender y ayudar a sanar nuestro dolor personal."
     },
@@ -143,12 +143,12 @@
       "question": "¿Cómo conecta la profecía de Isaías 53 (Mosíah 14) con la enseñanza de que 'Dios mismo descenderá' (Mosíah 15)?",
       "type": "multiple",
       "options": [
-        "No tienen ninguna relación entre sí",
-        "Ambas revelan que el Redentor sería divino y a la vez sufriría como parte de Su misión",
         "Solo una de las dos profecías se cumplió realmente",
-        "Muestran que Cristo no tendría un cuerpo físico real"
+        "Muestran que Cristo no tendría un cuerpo físico real",
+        "No tienen ninguna relación entre sí",
+        "Ambas revelan que el Redentor sería divino y a la vez sufriría como parte de Su misión"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 14-15",
       "explanation": "Ambas profecías revelan que el Redentor sería divino y a la vez sufriría como parte de Su misión terrenal."
     }

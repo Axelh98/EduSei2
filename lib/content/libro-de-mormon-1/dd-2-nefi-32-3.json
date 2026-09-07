@@ -1,39 +1,79 @@
 {
   "id": "dd-2-nefi-32-3",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "2 Nefi 32:3 es corto y se memoriza rápido, pero conviene mirar bien qué dice antes de darlo por sabido. Nefi no dice «deleitaos en las Escrituras»: dice «deleitaos en las palabras de Cristo», y repite la expresión tres veces en un solo versículo. Esa insistencia es el punto. La promesa que sigue es la razón por la que este pasaje es de Dominio de la Doctrina: esas palabras «os dirán todas las cosas que debéis hacer». Todas. No solo las grandes decisiones. Dominarlo significa poder explicarle a alguien —a un amigo que te pregunta cómo se supone que uno sabe qué hacer— que existe una fuente confiable y dónde está. Y significa también saber por qué funciona: las Escrituras no son un manual de instrucciones anónimo, son el testimonio de Su vida y de Su poder. El Salvador dijo de ellas que «dan testimonio de mí». Cuando las abrís buscándolo a Él, estás usando el pasaje como Nefi lo pensó. Cuando las abrís solo para terminar un capítulo, estás leyendo las palabras y perdiéndote de quién son."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "2 Nefi 32:3",
+          "texto": "Los ángeles hablan por el poder del Espíritu Santo; por lo que declaran las palabras de Cristo. Por tanto, os dije: Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "2 Nefi 31:20",
+          "texto": "Por tanto, debéis seguir adelante con firmeza en Cristo, teniendo un fulgor perfecto de esperanza y amor por Dios y por todos los hombres. Por tanto, si marcháis adelante, deleitándoos en la palabra de Cristo, y perseveráis hasta el fin, he aquí, así dice el Padre: Tendréis la vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "Juan 5:39",
+          "texto": "Escudriñad las Escrituras, porque a vosotros os parece que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/5?lang=spa&id=p39#p39"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Dominar 2 Nefi 32:3 no termina cuando podés recitarlo: termina cuando cambia lo que hacés al abrir las Escrituras. Si las abrís buscando qué hacer, vas a encontrar reglas; si las abrís buscándolo a Él, vas a encontrar a alguien que además te dice qué hacer. Nefi eligió la palabra deleitarse a propósito, y el Salvador dijo que esos textos dan testimonio de Él. Las dos cosas apuntan al mismo lugar. Aprendete la frase clave esta semana y usala la próxima vez que alguien te diga que no sabe cómo tomar una decisión."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "Si tuvieras que explicar 2 Nefi 32:3 en treinta segundos, ¿qué dirías?",
+        "¿Qué diferencia hay entre buscar reglas en las Escrituras y buscar a una persona?",
+        "Volvé a leer 2 Nefi 32:3 y contá cuántas veces aparece «Cristo». ¿Por qué te parece que Nefi repite eso en un versículo tan corto?",
+        "¿En qué decisión concreta te gustaría que las Escrituras te dijeran qué hacer?",
+        "¿A quién podrías compartirle este versículo esta semana, y en qué situación le serviría?",
+        "Antes de abrir las Escrituras esta semana, orá pidiendo ver algo de Él, y anotá lo que encuentres aunque sea una sola frase."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "question": "Completa el versículo: '___; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.'",
       "options": [
+        "Guardaréis las palabras de Cristo en vuestro corazón",
         "Leed las palabras de Cristo con diligencia",
         "Deleitaos en las palabras de Cristo",
-        "Escuchad las palabras de Cristo con atención",
-        "Guardaréis las palabras de Cristo en vuestro corazón"
+        "Escuchad las palabras de Cristo con atención"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Cuál es la referencia exacta de este pasaje de Dominio de la doctrina?",
       "options": [
+        "Moroni 10:4",
         "1 Nefi 15:24",
         "2 Nefi 31:20",
-        "2 Nefi 32:3",
-        "Moroni 10:4"
+        "2 Nefi 32:3"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "El versículo promete que las palabras de Cristo nos dirán 'todas las cosas que debemos hacer'. ¿Esto significa que encontraremos respuestas explícitas a cada situación específica de nuestra vida en las Escrituras?",
       "options": [
-        "Sí, la Biblia y el Libro de Mormón contienen instrucciones explícitas para cada decisión posible",
         "No exactamente; las Escrituras enseñan principios que, junto con el Espíritu Santo, nos guían en situaciones específicas que el texto nunca menciona",
         "Solo si leemos el texto en el idioma original en que fue escrito",
-        "Solo para decisiones espirituales, no para decisiones prácticas cotidianas"
+        "Solo para decisiones espirituales, no para decisiones prácticas cotidianas",
+        "Sí, la Biblia y el Libro de Mormón contienen instrucciones explícitas para cada decisión posible"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -50,34 +90,34 @@
       "id": 5,
       "question": "Camila está en una situación en la que no sabe si decir la verdad o no decir nada para no herir a una amiga. No encuentra un versículo exacto sobre esa situación. Según el principio de 2 Nefi 32:3, ¿qué proceso podría usar?",
       "options": [
+        "Preguntarle al obispo antes de tomar cualquier decisión personal",
         "Buscar en internet qué dice la Iglesia sobre casos similares",
         "Leer pasajes sobre honestidad, veracidad y amor en las Escrituras, meditar en los principios que emergen, y pedir guía del Espíritu para su situación específica",
-        "Ignorar las Escrituras porque no hablan directamente de su caso",
-        "Preguntarle al obispo antes de tomar cualquier decisión personal"
+        "Ignorar las Escrituras porque no hablan directamente de su caso"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Tomás tiene que elegir entre dos actividades: ir al partido de fútbol de sus amigos o asistir a una actividad de la Iglesia. ¿Cómo podría usar 2 Nefi 32:3 en esta semana para que le ayude en ese tipo de decisiones?",
       "options": [
-        "Leer el versículo una vez para sentir que cumplió con su estudio y luego decidir por intuición",
-        "Estudiar las Escrituras deliberadamente esta semana para cultivar el contacto con las palabras de Cristo, que formarán su criterio cuando lleguen decisiones como esa",
         "Buscar en las Escrituras un versículo que diga explícitamente qué hacer en esa situación",
-        "Delegar la decisión a sus padres porque no es su responsabilidad aún"
+        "Delegar la decisión a sus padres porque no es su responsabilidad aún",
+        "Leer el versículo una vez para sentir que cumplió con su estudio y luego decidir por intuición",
+        "Estudiar las Escrituras deliberadamente esta semana para cultivar el contacto con las palabras de Cristo, que formarán su criterio cuando lleguen decisiones como esa"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "2 Nefi 32:3 dice que las palabras de Cristo nos dirán 'todas las cosas'. 2 Nefi 32:5 dice que el Espíritu nos enseñará 'todo'. ¿Son dos promesas redundantes o tienen roles distintos?",
       "options": [
-        "Son completamente redundantes; cualquiera de las dos sola es suficiente",
         "Las palabras de Cristo forman el fundamento de principios y el Espíritu los aplica personalmente a cada situación; ambas fuentes son necesarias y se complementan",
         "Las palabras de Cristo son superiores al Espíritu y bastan solas para guiarnos",
-        "El Espíritu es superior a las palabras escritas y hace innecesario el estudio constante de las Escrituras"
+        "El Espíritu es superior a las palabras escritas y hace innecesario el estudio constante de las Escrituras",
+        "Son completamente redundantes; cualquiera de las dos sola es suficiente"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

@@ -12,6 +12,16 @@
           "referencia": "Mosíah 8:16-17",
           "texto": "Y Ammón dijo que un vidente es también revelador y profeta; y que no hay mayor don que un hombre pueda tener, a menos que posea el poder de Dios, que nadie puede tener; sin embargo, el hombre puede recibir gran poder de Dios. Mas un vidente puede saber de cosas que han pasado y también de cosas futuras; y por este medio todas las cosas serán reveladas, o mejor dicho, las cosas secretas serán manifestadas, y las cosas ocultas saldrán a la luz; y lo que no es sabido, ellos lo darán a conocer; y también manifestarán cosas que de otra manera no se podrían saber.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=spa&id=p16-p17#p16"
+        },
+        {
+          "referencia": "Mosíah 7:33",
+          "texto": "Mas si os tornáis al Señor con íntegro propósito de corazón, y ponéis vuestra confianza en él, y le servís con toda la diligencia del alma, si hacéis esto, él, de acuerdo con su propia voluntad y deseo, os librará del cautiverio.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/7?lang=spa&id=p33#p33"
+        },
+        {
+          "referencia": "Mosíah 8:18",
+          "texto": "Así Dios ha dispuesto un medio para que el hombre, por la fe, pueda efectuar grandes milagros; por tanto, llega a ser un gran beneficio para sus semejantes.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=spa&id=p18#p18"
         }
       ]
     },
@@ -24,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La historia de la búsqueda de Limhi y su pueblo nos recuerda que nunca estamos solos; el Señor siempre tiene un plan para nuestro rescate. El papel de los profetas y videntes es vital para nuestra navegación en un mundo lleno de confusión. Al confiar en las palabras de aquellos que Dios ha llamado como videntes, obtenemos una visión más clara de nuestro propósito y podemos encontrar el camino de regreso al Padre."
+      "contenido": "La búsqueda del pueblo de Limhi recuerda que nunca estamos del todo perdidos: el Señor tiene un plan de rescate incluso para quien se metió solo en el problema. El papel de profetas y videntes es parte de ese plan, y por eso conviene tomar en serio lo que dicen: sirven para ver lo que uno no puede ver desde adentro de su propia situación. Ahora, fijate en la condición que pone Limhi: volverse al Señor con íntegro propósito de corazón. No alcanza con querer salir; hay que querer volver. Cuando eso pasa, el Salvador libra del cautiverio, y con Su poder hace posible lo que ninguna expedición podría resolver sola."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "De los personajes de Mosíah 7-8, ¿con cuál te quedarías: Ammón el explorador, o Limhi el rey que esperaba el rescate?",
         "¿Escuchaste alguna vez un discurso completo de la Conferencia General? ¿Qué es lo primero que recordás de él?",
-        "¿En qué situaciones has sentido que la guía de un profeta te ayudó a ver una decisión con más claridad?",
+        "Releé Mosíah 8:16-17 y buscá todo lo que Ammón dice que puede hacer un vidente. ¿Cuál de esas cosas te parece más útil hoy?",
         "¿Alguna vez viviste algo parecido a la espera de Limhi: sentir que nadie iba a venir a ayudarte, hasta que la ayuda finalmente llegó?",
         "¿Qué discurso o mensaje de un profeta actual podrías releer o volver a escuchar esta semana?",
-        "¿A quién le podrías compartir esta semana algo que un profeta actual haya enseñado recientemente?"
+        "Elegí un discurso reciente de un profeta y leelo despacio esta semana, con una pregunta tuya en la cabeza. Anotá si encontraste algo que no esperabas."
       ]
     }
   ],
@@ -58,12 +68,12 @@
       "question": "¿Qué es un vidente según Mosíah 8:16?",
       "type": "multiple",
       "options": [
-        "Un revelador y profeta también; mayor no puede haber",
         "Un líder político elegido por el pueblo para gobernar",
         "Un maestro común que solo enseña las Escrituras conocidas",
-        "Un sacerdote encargado únicamente de los sacrificios rituales"
+        "Un sacerdote encargado únicamente de los sacrificios rituales",
+        "Un revelador y profeta también; mayor no puede haber"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Mosíah 8:16",
       "explanation": "Un vidente es un revelador y un profeta también; mayor don no puede haber."
     },
@@ -72,12 +82,12 @@
       "question": "¿Por qué es valioso un vidente para el pueblo?",
       "type": "multiple",
       "options": [
+        "Porque puede revelar cosas ocultas y traer conocimiento de Dios",
         "Porque garantiza riquezas materiales a quienes lo siguen",
         "Porque su posición social le da autoridad automática",
-        "Porque su popularidad atrae a más gente a la ciudad",
-        "Porque puede revelar cosas ocultas y traer conocimiento de Dios"
+        "Porque su popularidad atrae a más gente a la ciudad"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "reference": "Mosíah 8:16-17",
       "explanation": "El vidente es valioso porque puede revelar cosas ocultas y traer conocimiento de Dios al pueblo."
     },
@@ -100,12 +110,12 @@
       "question": "Franco quiere saber si Dios realmente conoce su futuro personal. ¿Qué le enseña Mosíah 8:17 sobre los videntes?",
       "type": "multiple",
       "options": [
-        "Que Dios puede revelar cosas pasadas, presentes y futuras a través de Sus siervos",
-        "Que nadie, ni siquiera Dios, puede conocer el futuro de una persona",
         "Que solo los reyes pueden recibir ese tipo de revelación",
-        "Que el futuro de cada persona es completamente aleatorio"
+        "Que el futuro de cada persona es completamente aleatorio",
+        "Que Dios puede revelar cosas pasadas, presentes y futuras a través de Sus siervos",
+        "Que nadie, ni siquiera Dios, puede conocer el futuro de una persona"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Mosíah 8:17",
       "explanation": "Un vidente puede saber de cosas pasadas, presentes y futuras por el poder de Dios."
     },
@@ -128,12 +138,12 @@
       "question": "¿Qué conecta el don de vidente con la instrucción de Limhi de volverse al Señor?",
       "type": "multiple",
       "options": [
-        "Ambos muestran que el conocimiento y la liberación vienen de la relación con Dios, no de nuestros propios recursos",
         "No tienen ninguna relación entre sí",
         "El don de vidente hace innecesario volverse al Señor",
-        "Solo uno de los dos conceptos tiene aplicación práctica"
+        "Solo uno de los dos conceptos tiene aplicación práctica",
+        "Ambos muestran que el conocimiento y la liberación vienen de la relación con Dios, no de nuestros propios recursos"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Mosíah 7-8",
       "explanation": "Ambos elementos muestran que el conocimiento y la liberación provienen de la relación con Dios."
     }

@@ -41,17 +41,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Mosíah 19–20 enseña que el pecado trae sufrimiento, confusión y pérdida espiritual. El orgullo del rey Noé y su rechazo al profeta condujeron a consecuencias devastadoras para su pueblo. Sin embargo, aun en medio de la aflicción, el Señor continuó ofreciendo oportunidades de arrepentimiento. El Evangelio de Jesucristo nos permite cambiar, ser perdonados y hallar esperanza. Dios no desea castigarnos eternamente, sino ayudarnos a regresar a Él mediante el arrepentimiento sincero."
+      "contenido": "Mosíah 19–20 muestra que el pecado trae sufrimiento, confusión y pérdida, y que las consecuencias alcanzan a mucha gente que no eligió nada: el orgullo del rey Noé y su rechazo al profeta terminaron costándole caro a todo un pueblo. Y aun así, en medio de la aflicción, el Señor siguió ofreciendo oportunidades de arrepentimiento. Eso es lo que cambia el tono del relato. El Evangelio de Jesucristo permite cambiar, ser perdonado y encontrar esperanza, y esa puerta se abre por Su misericordia y no por mérito propio. Dios no busca castigar para siempre, busca que volvamos. Revisá esta semana a qué voces les estás dando lugar."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Con qué personaje de esta historia te identificás más: con los hombres que se cansaron de soportar a un mal líder, con Limhi, o con el pueblo que tuvo que pagar por errores que no cometió?",
         "¿Qué palabra usarías para describir lo que sintió el pueblo del rey Noé cuando por fin quedó libre de su liderazgo?",
-        "¿Alguna vez terminaste cargando las consecuencias de una decisión que tomó otra persona, aunque vos no tuvieras la culpa?",
+        "Releé Mosíah 20:21 y buscá qué reconoce el pueblo que fue la causa de todo lo que les pasó. ¿Cuánto tardaron en darse cuenta?",
         "¿Hubo algún momento en que ver sufrir a otros por seguir a un mal líder o a una mala influencia te hizo abrir los ojos sobre tu propia vida?",
         "Pensando en las voces que seguís cada día (amigos, redes, series, líderes de la Iglesia), ¿a cuál de ellas vas a prestarle menos atención esta semana?",
-        "¿Qué decisión pequeña podés tomar esta semana para no repetir un error que ya viste que le costó caro a otra persona?"
+        "Hacé una lista de las tres voces que más escuchás en la semana. Orá para saber cuál te está llevando a donde no querés ir, y anotá la respuesta."
       ]
     }
   ],
@@ -75,12 +75,12 @@
       "question": "¿Qué patrón vemos en la vida del rey Noé y su pueblo?",
       "type": "multiple",
       "options": [
-        "Las consecuencias inevitables del pecado y la desobediencia",
-        "Una obediencia constante que nunca fue puesta a prueba",
         "Una prosperidad que continuó sin ninguna interrupción",
-        "Decisiones que no tuvieron ningún efecto duradero"
+        "Decisiones que no tuvieron ningún efecto duradero",
+        "Las consecuencias inevitables del pecado y la desobediencia",
+        "Una obediencia constante que nunca fue puesta a prueba"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Mosíah 11-19",
       "explanation": "Vemos las consecuencias inevitables del pecado y la desobediencia."
     },
@@ -145,12 +145,12 @@
       "question": "¿Cómo se relacionan la muerte de Noé y el cautiverio posterior de su pueblo?",
       "type": "multiple",
       "options": [
-        "No tienen ninguna relación entre sí",
-        "Ambos muestran que las consecuencias de un mal liderazgo afectan a toda la comunidad, no solo al líder",
         "Muestran que el cautiverio fue causado por los lamanitas sin relación con Noé",
-        "Indican que el pueblo era inocente de cualquier responsabilidad"
+        "Indican que el pueblo era inocente de cualquier responsabilidad",
+        "No tienen ninguna relación entre sí",
+        "Ambos muestran que las consecuencias de un mal liderazgo afectan a toda la comunidad, no solo al líder"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 19-20",
       "explanation": "Ambos eventos muestran que las consecuencias de un mal liderazgo afectan a toda la comunidad, no solo al líder."
     }

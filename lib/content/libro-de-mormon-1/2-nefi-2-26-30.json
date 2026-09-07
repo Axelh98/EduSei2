@@ -48,10 +48,10 @@
       "preguntas": [
         "¿Cómo definirías la libertad con tus propias palabras? ¿Es lo mismo que 'hacer lo que uno quiere'?",
         "Lehi dice que podemos ser 'libres para siempre' o quedar 'cautivos'. ¿Podés pensar en ejemplos de ambas cosas en la vida real de alguien de tu edad?",
-        "¿Por qué crees que Cristo es necesario para que tengamos verdadera libertad, según lo que enseñó Lehi?",
+        "Releé 2 Nefi 2:29 y fijate con qué palabras describe Lehi lo que le pasa al que elige según «el deseo de la carne». ¿Quién termina reinando sobre esa persona?",
         "¿Hay alguna área de tu vida donde sentís que estás ejerciendo tu albedrío hacia la 'cautividad' sin darte cuenta? ¿Cómo lo cambiarías?",
         "¿Qué decisión concreta podrías tomar esta semana para moverte hacia la 'libertad y la vida eterna'?",
-        "Si le explicaras a un amigo que el Evangelio no te quita libertad sino que te la da, ¿qué ejemplo usarías?"
+        "Elegí una decisión que tengas pendiente y llevala a la oración esta semana. Escribí después si te movió hacia «la libertad y la vida eterna» o hacia el otro lado."
       ]
     }
   ],
@@ -60,23 +60,23 @@
       "id": 1,
       "question": "Según 2 Nefi 2:27, ¿qué dos opciones fundamentales presenta Lehi a sus hijos con respecto a su albedrío?",
       "options": [
-        "Elegir el camino fácil o el camino difícil del Evangelio",
-        "Escoger la libertad y la vida eterna mediante Cristo, o la cautividad y la muerte mediante el poder del diablo",
         "Elegir permanecer en el desierto o regresar a Jerusalén",
-        "Escoger entre vivir según las leyes de Moisés o según el Evangelio de Cristo"
+        "Escoger entre vivir según las leyes de Moisés o según el Evangelio de Cristo",
+        "Elegir el camino fácil o el camino difícil del Evangelio",
+        "Escoger la libertad y la vida eterna mediante Cristo, o la cautividad y la muerte mediante el poder del diablo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Lehi exhortó en 2 Nefi 2:30 a sus hijos a 'mirar hacia el gran Mediador'. ¿Cuál es el efecto prometido de hacerlo?",
       "options": [
-        "Que el Mediador resolverá todos sus problemas terrenales sin necesidad de esfuerzo personal",
         "Que serán libres para siempre si confían en Su doctrina y guardan Sus mandamientos",
         "Que el Mediador mediará ante el diablo para reducir las tentaciones que enfrentan",
-        "Que sus familias también recibirán la salvación automáticamente por la fe del individuo"
+        "Que sus familias también recibirán la salvación automáticamente por la fe del individuo",
+        "Que el Mediador resolverá todos sus problemas terrenales sin necesidad de esfuerzo personal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -91,36 +91,36 @@
     },
     {
       "id": 4,
-      "question": "El élder Bednar dijo que cuando elegimos a Cristo, 'nuestra libertad se expande porque nos liberamos de las cadenas del pecado'. ¿Cómo concilia eso con la percepción de que los mandamientos 'limitan' la libertad?",
+      "question": "2 Nefi 2:26–27 dice que somos «libres para escoger la libertad y la vida eterna» o bien «la cautividad y la muerte». ¿Cómo se concilia eso con la idea de que los mandamientos limitan la libertad?",
       "options": [
-        "No se concilia; los mandamientos sí limitan la libertad, pero es un sacrificio necesario para la salvación",
-        "Los mandamientos limitan opciones dañinas que en realidad reducen nuestra capacidad de actuar; la verdadera libertad es la capacidad de actuar bien, no de elegir cualquier cosa",
-        "El élder Bednar habla de libertad espiritual solo, no de libertad en las decisiones cotidianas",
-        "Los mandamientos no limitan nada porque son opcionales y nadie está obligado a seguirlos"
+        "Los mandamientos no limitan nada, porque en la práctica nadie está obligado a seguirlos.",
+        "No se concilia: los mandamientos sí quitan libertad, y ese es el precio que hay que pagar.",
+        "El versículo habla de libertad espiritual, no de las decisiones concretas de cada día.",
+        "Limitan opciones que terminan en cautividad, que es lo contrario de ampliar la libertad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "Sofía dice que el Evangelio 'le quita libertad' porque tiene que seguir muchas reglas. Usando 2 Nefi 2:27 y la enseñanza del élder Bednar, ¿cómo le explicarías que en realidad ocurre lo contrario?",
+      "question": "Sofía dice que el Evangelio «le quita libertad» porque hay muchas reglas que seguir. Usando 2 Nefi 2:27, ¿cómo le explicarías que ocurre exactamente lo contrario?",
       "options": [
-        "Que tiene razón, y que esa es la naturaleza del sacrificio que el Evangelio requiere",
-        "Que el Evangelio le ofrece la libertad real: la capacidad de actuar por sí misma en lugar de ser actuada por adicciones, presiones sociales o impulsos que la esclavizan",
-        "Que las reglas del Evangelio son menos restrictivas que las reglas del mundo",
-        "Que la libertad verdadera solo se experimenta en el mundo venidero, no en esta vida"
+        "Que las reglas del Evangelio son bastante menos restrictivas que las del mundo.",
+        "Que la libertad verdadera solo se experimenta en el mundo venidero, no en este.",
+        "Que tiene razón, y que ese es el sacrificio que el Evangelio pide a cambio.",
+        "Que el versículo llama libertad a poder actuar, y no a ser llevado por otro."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Luca siente que sus malas decisiones ya lo tienen 'atrapado' y que el camino del Evangelio ya no es para él. Según 2 Nefi 2:26–27, ¿qué promesa concreta podría darle esperanza?",
       "options": [
-        "Que si espera el tiempo suficiente, las consecuencias de sus decisiones desaparecerán solas",
         "Que gracias a la Redención de Cristo, siempre es posible elegir la libertad; la Expiación existe precisamente para liberar a quienes sienten estar atrapados",
         "Que si Dios lo quiere salvar, lo salvará sin importar lo que él elija",
-        "Que debería encontrar un grupo de apoyo comunitario antes de volver al camino del Evangelio"
+        "Que debería encontrar un grupo de apoyo comunitario antes de volver al camino del Evangelio",
+        "Que si espera el tiempo suficiente, las consecuencias de sus decisiones desaparecerán solas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

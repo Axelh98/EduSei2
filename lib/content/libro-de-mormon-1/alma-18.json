@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Qué palabra usarías para describir la reacción de Lamoni al ver la fuerza de Ammón: miedo, asombro, curiosidad? ¿Por qué esa palabra?",
         "¿Qué te parece la estrategia de Ammón de empezar preguntando en qué creía Lamoni, en vez de corregirlo de entrada?",
-        "¿Viviste alguna vez una situación en la que alguien te ayudó a entender algo espiritual partiendo de lo que vos ya creías?",
+        "Volvé a leer Alma 18:24-28 y fijate cómo arranca Ammón: con preguntas, no con un sermón. ¿Qué es lo primero que le pregunta al rey?",
         "¿Qué conexión ves entre \"servir primero\" y \"ganarse el derecho\" de hablar de las cosas de Dios?",
         "Pensá en una persona a la que te gustaría hablarle de tu fe. ¿Qué podrías hacer por ella esta semana, sin mencionar todavía el Evangelio?",
-        "¿Qué parte de la Creación, la Caída o la Expiación te gustaría entender mejor esta semana, y con quién podrías conversar sobre eso?"
+        "Elegí una persona a la que te gustaría hablarle de tu fe y orá por ella cada día de esta semana antes de decirle una sola palabra. Anotá al final qué notaste."
       ]
     }
   ],
@@ -54,12 +54,12 @@
       "question": "¿Qué pensó el rey Lamoni sobre Ammón al principio?",
       "type": "multiple",
       "options": [
+        "Que era un ladrón que buscaba robar sus rebaños",
         "Que era más que un hombre, posiblemente el Gran Espíritu",
         "Que era un hombre común, sin nada especial",
-        "Que era una persona débil y sin ninguna capacidad",
-        "Que era un ladrón que buscaba robar sus rebaños"
+        "Que era una persona débil y sin ninguna capacidad"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 18:2-3",
       "explanation": "El rey Lamoni pensó que Ammón era más que un hombre, posiblemente el Gran Espíritu."
     },
@@ -96,12 +96,12 @@
       "question": "¿Cómo sirvió Ammón al rey Lamoni?",
       "type": "multiple",
       "options": [
-        "Únicamente predicando sin realizar ningún trabajo físico",
         "Sirviendo como pastor y protegiendo sus rebaños",
         "Exigiendo respeto y un trato especial de la corte",
-        "Solicitando privilegios adicionales por su servicio"
+        "Solicitando privilegios adicionales por su servicio",
+        "Únicamente predicando sin realizar ningún trabajo físico"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 18:9-10",
       "explanation": "Ammón sirvió como pastor, protegiendo los rebaños del rey."
     },
@@ -110,12 +110,12 @@
       "question": "Antonella quiere enseñar el evangelio a una amiga que tiene ideas muy distintas sobre Dios. ¿Qué método de Ammón le sería útil?",
       "type": "multiple",
       "options": [
+        "Exigir que su amiga acepte su punto de vista sin explicación",
         "Comenzar preguntando lo que su amiga ya cree, y desde ahí enseñar con paciencia sobre Dios",
         "Corregir de inmediato cualquier idea equivocada que tenga su amiga",
-        "Evitar el tema para no generar ningún conflicto",
-        "Exigir que su amiga acepte su punto de vista sin explicación"
+        "Evitar el tema para no generar ningún conflicto"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 18:24-28",
       "explanation": "Ammón comenzó preguntando lo que el rey ya creía, y desde ahí enseñó con paciencia sobre Dios."
     },
@@ -138,12 +138,12 @@
       "question": "¿Cómo se relacionan el servicio de Ammón como pastor y su enseñanza posterior sobre el plan de redención?",
       "type": "multiple",
       "options": [
-        "No tienen relación real entre sí",
-        "El servicio fiel ganó la confianza de Lamoni, lo cual preparó su corazón para recibir la enseñanza espiritual",
         "Solo la enseñanza sobre el plan de redención fue relevante para la conversión de Lamoni",
-        "El servicio de Ammón retrasó la conversión del rey"
+        "El servicio de Ammón retrasó la conversión del rey",
+        "No tienen relación real entre sí",
+        "El servicio fiel ganó la confianza de Lamoni, lo cual preparó su corazón para recibir la enseñanza espiritual"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 18",
       "explanation": "El servicio fiel de Ammón ganó la confianza de Lamoni, lo cual preparó su corazón para recibir la enseñanza espiritual."
     }

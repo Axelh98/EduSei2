@@ -48,10 +48,10 @@
       "preguntas": [
         "¿Qué diferencia notás entre la experiencia de los Tres Testigos y la de los Ocho? ¿Por qué crees que el Señor diseñó dos tipos distintos de experiencias?",
         "¿Por qué crees que ninguno de los testigos negó su testimonio, incluso cuando varios se alejaron de la Iglesia?",
-        "¿Hay algo en tu vida —una experiencia, una sensación, algo que sentiste— que te dé confianza de que el Libro de Mormón es verdadero, aunque no hayas visto las planchas?",
+        "Volvé a leer Doctrina y Convenios 5:7 y fijate qué le dice el Señor a José sobre los que no quieren creer. ¿Alcanza con mostrar pruebas?",
         "El presidente Faust dice que el conocimiento mediante la fe y el Espíritu es más importante que ver ángeles. ¿Qué significa eso para tu propio testimonio?",
         "¿Cómo explicarías el testimonio de los testigos a alguien que te dice que es imposible creer en algo sin verlo físicamente?",
-        "¿Qué podrías hacer esta semana para fortalecer tu propio testimonio del Libro de Mormón, usando los medios que el Señor puso a tu disposición ahora?"
+        "Pedí esta semana tu propia confirmación, como enseña Moroni, y escribí la fecha en que empezaste a preguntar en serio. Los testigos vieron; a vos se te ofrece otra vía."
       ]
     }
   ],
@@ -82,12 +82,12 @@
       "id": 3,
       "question": "Los Tres Testigos vieron un ángel y oyeron la voz de Dios. Los Ocho Testigos tocaron físicamente las planchas. ¿Por qué es significativo que Dios proveyera dos tipos distintos de experiencia testimonial?",
       "options": [
-        "Porque Dios quería dar más información a unos que a otros según su nivel espiritual",
         "Porque cubrir tanto la experiencia espiritual-angelical como la física hace más difícil rechazar ambos testimonios simultáneamente con el mismo argumento",
         "Porque los Ocho Testigos no eran suficientemente dignos para ver al ángel como los Tres",
-        "Porque el ángel se negó a mostrarse a más de tres personas al mismo tiempo"
+        "Porque el ángel se negó a mostrarse a más de tres personas al mismo tiempo",
+        "Porque Dios quería dar más información a unos que a otros según su nivel espiritual"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -104,34 +104,34 @@
       "id": 5,
       "question": "Luca dice: 'Si yo hubiera visto las planchas como los testigos, entonces sí creería sin dudas'. Según la enseñanza del presidente Faust y el ejemplo de algunos testigos que se alejaron de la Iglesia, ¿qué problema tiene ese razonamiento?",
       "options": [
+        "Que el argumento de Luca es perfectamente válido y Dios debería proveer señales físicas a quienes las piden sinceramente",
         "Ninguno, ver las planchas garantizaría una fe permanente e inamovible",
         "Que algunos testigos las vieron o tocaron y aun así se alejaron temporalmente, mostrando que la experiencia física no reemplaza al testimonio espiritual sostenido por el Espíritu",
-        "Que las planchas ya no existen, así que ese escenario es imposible de considerar",
-        "Que el argumento de Luca es perfectamente válido y Dios debería proveer señales físicas a quienes las piden sinceramente"
+        "Que las planchas ya no existen, así que ese escenario es imposible de considerar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Valentina quiere obtener su propio testimonio del Libro de Mormón. Según lo que aprendió sobre los testigos y la promesa de Moroni 10:4–5, ¿qué pasos concretos podría dar esta semana?",
       "options": [
-        "Investigar en internet la evidencia arqueológica que apoya el libro",
-        "Leer el Libro de Mormón con sinceridad, registrar lo que siente, y preguntar a Dios con fe si es verdadero",
         "Esperar a que alguien le comparta su propio testimonio para ver si se siente bien con él",
-        "Completar la lectura completa del libro antes de pedir confirmación al Señor"
+        "Completar la lectura completa del libro antes de pedir confirmación al Señor",
+        "Investigar en internet la evidencia arqueológica que apoya el libro",
+        "Leer el Libro de Mormón con sinceridad, registrar lo que siente, y preguntar a Dios con fe si es verdadero"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "2 Nefi 27:12–14 profetizó siglos antes que habría testigos de las planchas. El hecho de que esa profecía se cumplió exactamente, ¿qué añade a la evidencia de la autenticidad del Libro de Mormón?",
       "options": [
-        "Nada, porque cualquier profecía general sobre testigos podría cumplirse por coincidencia",
         "Que el mismo libro que profetizó los testigos fue traducido con ellos presentes, creando un bucle de autenticación mutuamente reforzado",
         "Que las profecías de Nefi fueron escritas después de los hechos para que parecieran predicciones",
-        "Que la profecía solo aplica a los Tres Testigos, no a los Ocho"
+        "Que la profecía solo aplica a los Tres Testigos, no a los Ocho",
+        "Nada, porque cualquier profecía general sobre testigos podría cumplirse por coincidencia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

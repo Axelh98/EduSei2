@@ -1,18 +1,65 @@
 {
   "id": "alma-31-12-38",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Los zoramitas tenían un lugar preparado para orar: el Rameúmptom, un púlpito alto al que se subía uno por vez, una vez por semana. Desde ahí decían siempre exactamente lo mismo, palabra por palabra, y después se bajaban y no volvían a hablar de Dios hasta la semana siguiente. Vale la pena leer qué decían, porque es una de las oraciones más incómodas de las Escrituras. Agradecían haber sido separados de sus hermanos; agradecían no creer en «las necias tradiciones» de los demás; y agradecían que Dios les hubiera dado a conocer «que no habrá Cristo». Es decir: usaban la oración para felicitarse por lo que no eran y para dejar afuera a todos los demás, incluido Él. La forma se mantenía —el lugar, las palabras, la frecuencia—; el contenido estaba dado vuelta. Alma vio eso y el texto dice que «se angustió su corazón», sobre todo al ver que tenían el corazón puesto en el oro y en la plata. Y entonces él también oró, pero fijate la diferencia: los zoramitas hablaron de sí mismos, Alma habló de ellos. Pidió consuelo para sus compañeros, pidió poder para enseñar, y sobre todo pidió: «concédenos lograr el éxito al traerlos nuevamente a ti en Cristo». La misma actividad, dos direcciones opuestas. Y el modelo de Alma no era propio: el Salvador oró por los que lo estaban rechazando mientras lo rechazaban, y Su ejemplo es el que Alma estaba copiando al pedir por gente que acababa de agradecer que Él no existiera. Por eso conviene revisar de vez en cuando no si orás, sino qué pedís y a quién estás mirando cuando lo pedís. Es bastante fácil tener un Rameúmptom personal sin haber construido nunca ninguna torre."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 31:16",
+          "texto": "¡Santo Dios, creemos que tú nos has separado de nuestros hermanos; y no creemos en la tradición de nuestros hermanos que les fue transmitida por las puerilidades de sus padres; mas creemos que nos has escogido para ser tus santos hijos; y también nos has dado a conocer que no habrá Cristo!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=spa&id=p16#p16"
+        },
+        {
+          "referencia": "Alma 31:24",
+          "texto": "Ahora bien, cuando Alma vio esto, se angustió su corazón, pues vio que eran una gente inicua y perversa; sí, vio que sus corazones estaban puestos en el oro, y en la plata, y en toda clase de objetos finos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=spa&id=p24#p24"
+        },
+        {
+          "referencia": "Alma 31:34–35",
+          "texto": "¡Oh Señor, concédenos lograr el éxito al traerlos nuevamente a ti en Cristo! ¡He aquí, sus almas son preciosas, oh Señor, y muchos de ellos son nuestros hermanos; por tanto, danos, oh Señor, poder y sabiduría para que podamos traer a estos, nuestros hermanos, nuevamente a ti!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=spa&id=p34-p35#p34"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Dieter F. Uchtdorf",
+      "fuente": "«El orgullo y el sacerdocio», Liahona, noviembre de 2010, pág. 56",
+      "texto": "Cuando nuestro corazón está lleno de orgullo, cometemos un grave pecado, porque violamos los dos grandes mandamientos. En lugar de adorar a Dios y amar a nuestro prójimo, ponemos de manifiesto el verdadero objeto de nuestro amor y adoración: la imagen que vemos en el espejo. El orgullo es el gran pecado de elevarse a uno mismo. Para muchas personas es un Rameúmptom personal, un púlpito santo que justifica la envidia, la codicia y la vanidad.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2010/10/pride-and-the-priesthood?lang=spa&id=p13-p14#p13"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Los zoramitas hacían todo lo que se supone que hay que hacer: tenían un lugar, un día y unas palabras. Y aun así su adoración los alejaba de Dios y de la gente, porque estaba dada vuelta: hablaban de sí mismos y agradecían no ser como los demás. Alma hizo lo mismo —orar— y terminó en el lugar opuesto, pidiendo poder para traer a esos mismos zoramitas «nuevamente a ti en Cristo». La diferencia no estuvo en la forma, estuvo en el orgullo y en la humildad. Y lo que hace posible orar así es Su ejemplo: Él oró por los que lo estaban rechazando. Revisá esta semana no si orás, sino de quién hablás cuando lo hacés."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te llama más la atención del Rameúmptom: el púlpito, que subiera uno por vez, o que dijeran siempre lo mismo?",
+        "¿Se te ocurre alguna versión moderna de agradecer «no ser como los demás»? ¿Dónde la viste?",
+        "Volvé a leer Alma 31:16 y buscá las tres cosas por las que los zoramitas dan gracias. ¿Cuál de las tres es la más grave?",
+        "Alma y los zoramitas hicieron la misma actividad con resultados opuestos. ¿Qué te dice eso sobre para qué sirve realmente la oración?",
+        "¿A quién podrías incluir esta semana en tu oración, alguien de quien normalmente no te acordás?",
+        "Escribí tu última oración tal como la recordás y contá cuántas veces aparecés vos y cuántas aparecen los demás. Meditá en ese número sin justificarte."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "question": "¿Qué tenían los zoramitas para orar?",
       "type": "multiple",
       "options": [
-        "El Rameúmptom, un lugar alto donde subían a orar",
-        "Nada especial, oraban de manera sencilla y humilde",
         "Una iglesia normal como la de los demás nefitas",
-        "En realidad no practicaban ningún tipo de oración"
+        "En realidad no practicaban ningún tipo de oración",
+        "El Rameúmptom, un lugar alto donde subían a orar",
+        "Nada especial, oraban de manera sencilla y humilde"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Alma 31:13,21",
       "explanation": "Los zoramitas tenían el Rameúmptom, un lugar alto donde subían a orar."
     },
@@ -35,12 +82,12 @@
       "question": "¿Cómo contrastó la oración de Alma con la de los zoramitas?",
       "type": "multiple",
       "options": [
-        "Era prácticamente igual a la de los zoramitas",
         "Era humilde, sincera y suplicaba por las almas de los perdidos",
         "Mostraba también un tono orgulloso y presumido",
-        "En realidad Alma no llegó a orar en esa ocasión"
+        "En realidad Alma no llegó a orar en esa ocasión",
+        "Era prácticamente igual a la de los zoramitas"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 31:31-35",
       "explanation": "La oración de Alma era humilde, sincera y suplicaba por las almas de los perdidos."
     },
@@ -49,12 +96,12 @@
       "question": "¿Qué decían los zoramitas en su oración sobre ellos mismos?",
       "type": "multiple",
       "options": [
-        "Que se reconocían a sí mismos como pecadores",
-        "Que necesitaban urgentemente la ayuda de Dios",
         "Que eran un pueblo humilde ante los ojos de Dios",
-        "Que eran el pueblo elegido de Dios y que todos los demás serían echados al infierno"
+        "Que eran el pueblo elegido de Dios y que todos los demás serían echados al infierno",
+        "Que se reconocían a sí mismos como pecadores",
+        "Que necesitaban urgentemente la ayuda de Dios"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Alma 31:16-18",
       "explanation": "Los zoramitas decían ser el pueblo elegido de Dios y que todos los demás serían echados al infierno."
     },
@@ -63,12 +110,12 @@
       "question": "Santino ve que algunos compañeros oran en público solo para que otros los admiren. ¿Qué corrige Alma 31 sobre este tipo de oración?",
       "type": "multiple",
       "options": [
+        "Que no importa la actitud con la que se ore, solo las palabras usadas",
         "Que ese tipo de oración es la forma correcta de mostrar devoción",
         "Que la oración repetitiva y orgullosa, como la de los zoramitas, no refleja una relación sincera con Dios",
-        "Que orar en público siempre es señal de una fe fuerte",
-        "Que no importa la actitud con la que se ore, solo las palabras usadas"
+        "Que orar en público siempre es señal de una fe fuerte"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 31:15-18",
       "explanation": "La oración repetitiva y orgullosa de los zoramitas no reflejaba una relación sincera con Dios."
     },
@@ -77,12 +124,12 @@
       "question": "Pilar quiere aprender a orar de manera más genuina por las personas que le preocupan. ¿Qué ejemplo de la oración de Alma podría seguir?",
       "type": "multiple",
       "options": [
-        "Orar con humildad y sinceridad, suplicando por las almas de quienes se han apartado de la verdad",
         "Orar solo por sus propias necesidades personales",
         "Repetir las mismas palabras que otros usan en sus oraciones",
-        "Evitar orar por personas que no comparten su fe"
+        "Evitar orar por personas que no comparten su fe",
+        "Orar con humildad y sinceridad, suplicando por las almas de quienes se han apartado de la verdad"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Alma 31:31-35",
       "explanation": "Podemos orar con humildad y sinceridad, suplicando por las almas de quienes se han apartado de la verdad, como hizo Alma."
     },
@@ -91,12 +138,12 @@
       "question": "¿Cómo se relacionan el Rameúmptom de los zoramitas y la oración humilde de Alma por sus compañeros?",
       "type": "multiple",
       "options": [
-        "No tienen relación real entre sí",
         "El contraste muestra la diferencia entre una religiosidad orgullosa y una fe genuina centrada en el amor por los demás",
         "Ambos representan exactamente el mismo tipo de devoción religiosa",
-        "El Rameúmptom era en realidad un ejemplo positivo de oración"
+        "El Rameúmptom era en realidad un ejemplo positivo de oración",
+        "No tienen relación real entre sí"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 31:12-35",
       "explanation": "El contraste entre el Rameúmptom y la oración de Alma muestra la diferencia entre una religiosidad orgullosa y una fe genuina."
     }

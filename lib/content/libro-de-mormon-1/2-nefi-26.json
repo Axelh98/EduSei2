@@ -17,6 +17,11 @@
           "referencia": "2 Nefi 26:33",
           "texto": "Porque ninguna de estas iniquidades viene del Señor, porque él hace lo que es bueno entre los hijos de los hombres; y nada hace que no sea claro para los hijos de los hombres; y él invita a todos ellos a que vengan a él y participen de su bondad; y a nadie de los que a él vienen desecha, sean negros o blancos, esclavos o libres, varones o mujeres; y se acuerda de los paganos; y todos son iguales ante Dios, tanto los judíos como los gentiles.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=spa&id=p33#p33"
+        },
+        {
+          "referencia": "3 Nefi 9:14",
+          "texto": "Sí, en verdad os digo que si venís a mí, tendréis vida eterna. He aquí, mi brazo de misericordia se extiende hacia vosotros; y a cualquiera que venga, yo lo recibiré; y benditos son los que vienen a mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=spa&id=p14#p14"
         }
       ]
     },
@@ -29,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La invitación de Dios es personal y es universal al mismo tiempo. Personal porque te conoce a vos y te invita a vos. Universal porque no excluye a nadie. Eso tiene implicaciones concretas: para cómo te ves a vos mismo cuando sentís que no merecés venir a Él, y para cómo tratás a las personas que parecen 'diferentes' en tu comunidad o congregación. El Salvador no repudia a nadie. Nosotros tampoco deberíamos hacerlo."
+      "contenido": "La invitación de Dios es personal y universal al mismo tiempo: personal porque te conoce a vos y te invita a vos; universal porque no deja a nadie afuera. Eso tiene consecuencias concretas en dos direcciones: en cómo te mirás cuando sentís que no merecés acercarte, y en cómo tratás a los que parecen distintos. Y no se trata de una política de la Iglesia, sino de Su carácter. Él extendió Su brazo de misericordia y dijo que a cualquiera que venga lo recibe. El Salvador no repudia a nadie; nosotros tampoco deberíamos. Fijate esta semana a quién estás dejando afuera sin haberlo decidido del todo."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Alguna vez sentiste —o viste en alguien— la sensación de que el Evangelio 'no es para mí' o 'no merezco ir a Dios'? ¿Qué dirías a esa persona desde 2 Nefi 26:33?",
         "La frase 'no repudia a nadie que viene a Él' es muy directa. ¿Qué implica eso para tu propia relación con el Padre Celestial?",
-        "¿Hay personas en tu entorno —escuela, barrio, Iglesia— que podrían sentirse excluidas? ¿Cómo podrías reflejar el amor universal del Salvador hacia ellas?",
+        "Leé otra vez 2 Nefi 26:24 y buscá hasta dónde dice el versículo que llegó Su amor por el mundo. ¿Qué frase exacta usa para decirlo?",
         "¿Qué diferencia hay entre 'ir a Dios por obligación' e 'ir a Dios porque sabés que Él no te va a rechazar'? ¿Cómo cambia eso la experiencia?",
         "¿Cómo podrías invitar a alguien que se siente lejos del Evangelio de una manera que refleje el amor de Dios descrito en este versículo?",
-        "¿Qué significaría para tu comunidad de jóvenes que todos vivieran el principio de que 'todos son iguales ante Dios'?"
+        "Anotá en una hoja el nombre de alguien que te parezca lejos del Evangelio y orá por esa persona todos los días de esta semana. Fijate al final si cambió algo en cómo la mirás."
       ]
     }
   ],
@@ -48,41 +53,41 @@
       "id": 1,
       "question": "Según 2 Nefi 26:24, ¿cuál es la motivación del Señor para hacer todo lo que hace, incluyendo dar Su propia vida?",
       "options": [
+        "Establecer el estándar de comportamiento que todos los hijos de Dios deben alcanzar",
         "Cumplir la ley de justicia que requería un sacrificio de ese tipo",
         "Atraer a todos los hombres a Sí mismo porque ama al mundo",
-        "Demostrar que la obediencia al Padre es posible incluso en las circunstancias más difíciles",
-        "Establecer el estándar de comportamiento que todos los hijos de Dios deben alcanzar"
+        "Demostrar que la obediencia al Padre es posible incluso en las circunstancias más difíciles"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Según 2 Nefi 26:33, ¿a qué tipo de personas no repudia el Señor cuando vienen a Él?",
       "options": [
+        "Solo a los que demuestran arrepentimiento genuino antes de acercarse",
         "Solo a los que han guardado todos los mandamientos y son dignos de Su presencia",
         "Solo a los miembros bautizados de la Iglesia que han hecho convenios",
-        "A ninguno de los que vienen a Él, independientemente de raza, género o condición social",
-        "Solo a los que demuestran arrepentimiento genuino antes de acercarse"
+        "A ninguno de los que vienen a Él, independientemente de raza, género o condición social"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "2 Nefi 26:33 dice que 'todos son iguales ante Dios'. ¿Qué significa esa igualdad en el contexto del Evangelio, y qué no significa?",
       "options": [
-        "Significa que todos recibirán exactamente las mismas bendiciones y recompensas al final de la vida",
         "Significa que cada persona tiene igual acceso al amor de Dios y a la invitación de venir a Él; no significa que las elecciones no tengan consecuencias diferentes",
         "Significa que Dios no hace distinción alguna entre las personas y todas recibirán salvación",
-        "Significa que los mandamientos son opcionales para quienes tienen circunstancias difíciles"
+        "Significa que los mandamientos son opcionales para quienes tienen circunstancias difíciles",
+        "Significa que todos recibirán exactamente las mismas bendiciones y recompensas al final de la vida"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "El élder Renlund dijo que el Salvador 'está activamente buscándonos'. ¿Cómo modifica eso la imagen de alguien que siente que está demasiado lejos de Dios para acercarse?",
       "options": [
         "No la modifica; la persona todavía necesita dar todos los pasos hacia Dios sin esperar que Él intervenga primero",
-        "Sugiere que la distancia que percibimos de Dios no refleja la realidad; Él ya está moviéndose hacia nosotros mientras nosotros damos nuestros pasos hacia Él",
+        "Sugiere que la distancia que percibimos no es real: Él ya se está moviendo hacia nosotros",
         "Solo aplica a personas que ya eran miembros antes de alejarse; no a quienes nunca conocieron el Evangelio",
         "Significa que Dios fuerza a las personas a regresar independientemente de su albedrío"
       ],
@@ -92,34 +97,34 @@
       "id": 5,
       "question": "Sofía tiene una amiga que dice que no puede ir a la Iglesia porque 'esa gente' es solo para personas perfectas y ella tiene demasiados problemas. Usando 2 Nefi 26:33, ¿cómo le respondería?",
       "options": [
+        "Que las personas perfectas tampoco van a la Iglesia, así que no tiene que preocuparse por ese tema",
         "Que tiene razón en que la Iglesia tiene estándares altos, pero que debe esforzarse para alcanzarlos antes de asistir",
-        "Que el Señor no repudia a nadie que viene a Él, y la Iglesia debería reflejar ese amor incluyendo especialmente a quienes se sienten imperfectos",
-        "Que debería buscar una iglesia con estándares más bajos que se adapte mejor a su situación actual",
-        "Que las personas perfectas tampoco van a la Iglesia, así que no tiene que preocuparse por ese tema"
+        "Que el Señor no repudia a nadie que viene a Él, y que la Iglesia tendría que reflejar ese mismo amor",
+        "Que debería buscar una iglesia con estándares más bajos que se adapte mejor a su situación actual"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Tomás nota que en su quórum o clase algunos jóvenes son tratados como 'más miembros' que otros por su familia o historial. Según 2 Nefi 26:33, ¿qué actitud debería tomar él?",
       "options": [
-        "Seguir la corriente del grupo para no crear tensión social innecesaria",
-        "Tratar a todos con igual bienvenida porque todos son iguales ante Dios, independientemente de su historial familiar o de Iglesia",
         "Hablar con el líder para que corrija la actitud del grupo antes de actuar él mismo",
-        "Esperar a que los que son tratados diferente digan algo antes de intervenir"
+        "Esperar a que los que son tratados diferente digan algo antes de intervenir",
+        "Seguir la corriente del grupo para no crear tensión social innecesaria",
+        "Tratar a todos con la misma bienvenida, porque todos son iguales ante Dios"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "2 Nefi 26:24 dice que el Señor hace todo por amor y no repudia a nadie. 2 Nefi 26:33 dice que todos son iguales ante Él. ¿Qué imagen de Dios emerge al combinar ambas verdades?",
       "options": [
-        "Un Dios distante que ama a la humanidad en general sin involucrarse personalmente",
-        "Un Dios cuyo amor activo, universal e incondicional hacia cada uno de Sus hijos es el motor de toda Su obra, sin excluir a nadie del alcance de ese amor",
+        "Un Dios cuyo amor activo y universal hacia cada uno de Sus hijos mueve toda Su obra",
         "Un Dios que trata a todos igual en el sentido de que espera lo mismo de todos sin importar sus circunstancias",
-        "Un Dios que ama a todos pero que solo puede ayudar a quienes primero hacen los convenios necesarios"
+        "Un Dios que ama a todos pero que solo puede ayudar a quienes primero hacen los convenios necesarios",
+        "Un Dios distante que ama a la humanidad en general sin involucrarse personalmente"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

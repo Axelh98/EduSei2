@@ -1,6 +1,58 @@
 {
   "id": "alma-30-30-60",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Korihor llegó al final del camino. Los de Jersón y Gedeón no le compraron el discurso y lo llevaron ante Alma, donde repitió su acusación favorita: que los líderes vivían del trabajo ajeno y engañaban al pueblo. Alma le contestó con datos —él trabajaba con sus propias manos y nunca había recibido nada por su ministerio— y después le hizo la pregunta de fondo: ¿creés que hay un Dios? Korihor dijo que no, y pidió una señal. La respuesta de Alma es de las más citadas del Libro de Mormón: «Ya has tenido bastantes señales […]. Las Escrituras están delante de ti; sí, y todas las cosas indican que hay un Dios». Fijate en el orden en que las nombra: primero el testimonio de sus hermanos y de los profetas, después las Escrituras, y recién al final la tierra y los planetas en su orden. Lo grande viene último. Y acordate de qué era exactamente lo que Korihor quería que la gente negara: no una idea abstracta, sino que hubiera un Cristo y que Su expiación sirviera para algo. Por eso la evidencia más fuerte que Alma tenía a mano no era el movimiento de los astros: era Su misericordia obrando en personas concretas que se habían arrepentido. Korihor terminó pidiendo una señal y recibiéndola —quedó mudo—, y aun así escribió que siempre había sabido que había un Dios. La señal no le cambió el corazón, porque las señales no hacen eso. Vos no vas a tener el problema de Korihor. Vas a tener el otro: mirar todos los días cosas que indican que hay un Dios y no registrarlas."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 30:41",
+          "texto": "Mas he aquí, yo tengo todas las cosas como testimonio de que estas cosas son verdaderas; y también tú tienes todas las cosas como testimonio para ti de que son verdaderas; y, ¿las negarás? ¿Crees que estas cosas son verdaderas?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa&id=p41#p41"
+        },
+        {
+          "referencia": "Alma 30:44",
+          "texto": "Mas Alma le dijo: Ya has tenido bastantes señales; ¿quieres tentar a tu Dios? ¿Dirás: Muéstrame una señal, cuando tienes el testimonio de todos estos tus hermanos, y también de todos los santos profetas? Las Escrituras están delante de ti; sí, y todas las cosas indican que hay un Dios, sí, aun la tierra y todo cuanto hay sobre ella, sí, y su movimiento, sí, y también todos los planetas que se mueven en su orden regular testifican que hay un Creador Supremo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa&id=p44#p44"
+        },
+        {
+          "referencia": "Alma 30:52",
+          "texto": "Y Korihor extendió la mano y escribió, diciendo: Sé que estoy mudo, porque no puedo hablar; y sé que nada, sino el poder de Dios, pudo haber traído esto sobre mí; sí, y yo siempre he sabido que había un Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa&id=p52#p52"
+        },
+        {
+          "referencia": "Alma 30:60",
+          "texto": "Y así vemos el fin de aquel que pervierte las vías del Señor; y así vemos que el diablo no amparará a sus hijos en el postrer día, sino que los arrastra aceleradamente al infierno.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa&id=p60#p60"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Russell M. Nelson",
+      "fuente": "«Ven, sígueme», Liahona, mayo de 2019, pág. 90",
+      "texto": "Comprendan que cuando hay ausencia de experiencias con Dios, uno puede dudar de la existencia de Dios. Así que hagan lo necesario para empezar a tener experiencias con Él. Sean humildes. En oración, pidan tener ojos para ver la mano de Dios en su vida y en el mundo que los rodea. Pídanle que les diga si realmente está allí, si realmente los conoce. Pregúntenle qué siente Él por ustedes y luego, escuchen.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/46nelson?lang=spa&id=p33#p33"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Korihor pidió una señal y la recibió, y no le sirvió de nada: quedó mudo y siguió siendo el mismo. Las señales no construyen fe; la fe se construye teniendo experiencias con Dios y prestándoles atención. Alma tenía a mano el testimonio de sus hermanos, las Escrituras y el orden del universo, pero lo que de verdad lo sostenía era haber sentido Su misericordia en carne propia. Vos también tenés evidencias; el problema casi nunca es que falten, sino que pasan sin que las registres. Empezá esta semana a anotar una sola cosa por día en la que hayas visto Su mano, aunque te parezca chica."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Por qué te parece que dos personas pueden mirar exactamente lo mismo y sacar conclusiones distintas sobre si hay un Dios?",
+        "¿Qué te resulta más convincente como evidencia: algo que viste en la naturaleza, algo que te pasó a vos, o algo que le pasó a otro?",
+        "Volvé a leer Alma 30:44 y fijate en el orden en que Alma enumera las evidencias. ¿Cuál pone primero y cuál última? ¿Te sorprende ese orden?",
+        "Korihor escribió que «siempre he sabido que había un Dios». ¿Qué te dice eso sobre la diferencia entre saber algo y estar dispuesto a admitirlo?",
+        "¿Qué harías distinto esta semana si tuvieras la costumbre de buscar la mano de Dios todos los días?",
+        "Seguí el consejo del presidente Nelson: pedí en oración ojos para ver Su mano, y anotá durante siete días una cosa por día. Al final leé la lista completa de una sentada."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
@@ -21,12 +73,12 @@
       "question": "¿Qué señal dio Dios a Korihor?",
       "type": "multiple",
       "options": [
-        "Le concedió grandes riquezas como recompensa",
-        "Fue herido con mudez para que no pudiera hablar",
         "No le dio absolutamente ninguna señal",
-        "Le otorgó poder adicional para predicar"
+        "Le otorgó poder adicional para predicar",
+        "Le concedió grandes riquezas como recompensa",
+        "Fue herido con mudez para que no pudiera hablar"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 30:49-50",
       "explanation": "Dios hirió a Korihor con mudez para que no pudiera seguir hablando."
     },
@@ -35,12 +87,12 @@
       "question": "¿Qué confesó Korihor después de ser herido?",
       "type": "multiple",
       "options": [
-        "Que en realidad no confesó absolutamente nada",
-        "Que consideraba que tenía razón desde el principio",
         "Que siempre supo que había un Dios pero fue engañado por el diablo",
-        "Que la situación en realidad no le importaba"
+        "Que la situación en realidad no le importaba",
+        "Que en realidad no confesó absolutamente nada",
+        "Que consideraba que tenía razón desde el principio"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 30:52-53",
       "explanation": "Korihor confesó que siempre supo que había un Dios, pero fue engañado por el diablo."
     },
@@ -49,12 +101,12 @@
       "question": "¿Qué dijo Alma sobre pedir señales?",
       "type": "multiple",
       "options": [
-        "Que siempre es bueno pedir muchas señales a Dios",
-        "Que constantemente debemos exigir señales de Dios",
         "Que Dios nunca concede señales a nadie",
-        "Que pedir señales es señal de perversidad"
+        "Que pedir señales es señal de perversidad",
+        "Que siempre es bueno pedir muchas señales a Dios",
+        "Que constantemente debemos exigir señales de Dios"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Alma 30:43-44",
       "explanation": "Alma enseñó que pedir señales es señal de perversidad."
     },
@@ -63,12 +115,12 @@
       "question": "Bautista quiere pruebas contundentes antes de creer en algo relacionado con su fe. ¿Qué le enseña el pedido de señal de Korihor a Alma?",
       "type": "multiple",
       "options": [
-        "Que pedir señales de forma desafiante puede ser señal de perversidad, en lugar de un verdadero deseo de creer",
-        "Que pedir señales siempre es la mejor forma de fortalecer la fe",
         "Que Dios está obligado a dar una señal a quien la pida",
-        "Que Korihor tenía razón al exigir una señal"
+        "Que Korihor tenía razón al exigir una señal",
+        "Que pedir señales de forma desafiante puede ser señal de perversidad, en lugar de un verdadero deseo de creer",
+        "Que pedir señales siempre es la mejor forma de fortalecer la fe"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Alma 30:43-45",
       "explanation": "Pedir señales de forma desafiante puede ser señal de perversidad, en lugar de un verdadero deseo de creer."
     },
@@ -77,12 +129,12 @@
       "question": "Delfina se pregunta qué evidencias reales sostienen la fe en Dios. ¿Qué ejemplos dio Alma a Korihor sobre esto?",
       "type": "multiple",
       "options": [
-        "Solamente su propia opinión personal",
-        "El testimonio de los profetas, las escrituras, la creación misma y el testimonio de otras personas",
         "Ningún tipo de evidencia concreta",
-        "Únicamente argumentos filosóficos complejos"
+        "Únicamente argumentos filosóficos complejos",
+        "Solamente su propia opinión personal",
+        "El testimonio de los profetas, las escrituras, la creación misma y el testimonio de otras personas"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 30:44",
       "explanation": "Alma citó el testimonio de los profetas, las escrituras, la creación misma y el testimonio de otras personas."
     },
@@ -91,12 +143,12 @@
       "question": "¿Qué conecta la confesión final de Korihor con la advertencia de Alma sobre pedir señales de manera desafiante?",
       "type": "multiple",
       "options": [
-        "No tienen relación real entre sí",
-        "Korihor nunca reconoció haber conocido la verdad",
         "Ambas muestran que Korihor conocía la verdad desde el principio, pero eligió rechazarla hasta sufrir las consecuencias",
-        "La advertencia de Alma no tuvo relación con lo que Korihor confesó después"
+        "La advertencia de Alma no tuvo relación con lo que Korihor confesó después",
+        "No tienen relación real entre sí",
+        "Korihor nunca reconoció haber conocido la verdad"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 30:42-53",
       "explanation": "Ambas muestran que Korihor conocía la verdad desde el principio, pero eligió rechazarla hasta sufrir las consecuencias."
     }

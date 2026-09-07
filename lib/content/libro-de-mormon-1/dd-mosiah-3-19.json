@@ -27,16 +27,16 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Dominar Mosíah 3:19 es dominar el mapa del cambio espiritual. El diagnóstico (el hombre natural es enemigo de Dios), la condición (someterse al Espíritu), el proceso (despojarse), la fuente del poder (la Expiación de Cristo), y el resultado (volverse como un niño). Cuando podés explicar eso con tus propias palabras y cuando empezás a vivirlo, ya lo dominaste. No porque puedas recitarlo, sino porque está cambiando algo en vos."
+      "contenido": "Dominar Mosíah 3:19 es dominar el mapa completo del cambio espiritual: el diagnóstico (el hombre natural es enemigo de Dios), la condición (someterse al influjo del Santo Espíritu), el proceso (despojarse), la fuente del poder (la expiación de Cristo el Señor) y el resultado (volverse como un niño). Fijate que la fuente del poder no está en el medio de la lista por casualidad: sin ella, lo demás es fuerza de voluntad con vocabulario religioso. Cuando podés explicar ese mapa con tus palabras y además empezás a recorrerlo, ya lo dominaste. No porque puedas recitarlo, sino porque está cambiando algo. Elegí un tramo del mapa y trabajá ese esta semana."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cómo explicarías con tus propias palabras qué es el 'hombre natural'? ¿Qué ejemplos de tu vida cotidiana usarías?",
         "¿Cuál de las cinco partes de Mosíah 3:19 —diagnóstico, condición, proceso, fuente, resultado— te resulta más difícil de entender o aplicar?",
-        "¿Por qué la Expiación de Cristo es necesaria para despojarse del hombre natural? ¿No basta con fuerza de voluntad?",
+        "Volvé a leer Mosíah 3:19 y buscá la condición que aparece justo antes de la lista de atributos. ¿Qué tiene que pasar primero para que esos atributos sean posibles?",
         "¿Cómo usarías este versículo para explicarle a alguien que el Evangelio no solo perdona sino que transforma?",
-        "¿Qué evidencia ves en tu propia vida de que estás avanzando —aunque sea poco— en este proceso de despojarte del hombre natural?",
+        "Elegí uno solo de los atributos que nombra Mosíah 3:19 —sumiso, manso, humilde, paciente— y orá por él cada día de esta semana. Anotá dónde se te puso a prueba.",
         "¿Cómo se conecta Mosíah 3:19 con lo que aprendiste sobre la Caída en 2 Nefi 2? ¿Son dos lados del mismo problema?"
       ]
     }
@@ -75,12 +75,12 @@
       "question": "Según este versículo, ¿el hombre natural es enemigo de quién?",
       "type": "multiple",
       "options": [
-        "De sí mismo",
         "De la sociedad",
         "De Dios",
-        "De la naturaleza"
+        "De la naturaleza",
+        "De sí mismo"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "reference": "Mosíah 3:19",
       "explanation": "El hombre natural es enemigo de Dios y lo ha sido desde la caída de Adán."
     },
@@ -89,12 +89,12 @@
       "question": "¿Qué papel juega la expiación en despojarnos del hombre natural?",
       "type": "multiple",
       "options": [
-        "Nos exime de tener que cambiar nuestro comportamiento",
         "Nos otorga automáticamente la perfección sin esfuerzo",
         "Solamente cubre errores pasados sin afectar el futuro",
-        "Nos permite ceder al Espíritu Santo y ser transformados"
+        "Nos permite ceder al Espíritu Santo y ser transformados",
+        "Nos exime de tener que cambiar nuestro comportamiento"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Mosíah 3:19",
       "explanation": "Por medio de la expiación podemos ceder al Espíritu Santo y ser santificados."
     },
@@ -103,12 +103,12 @@
       "question": "Mateo memorizó el versículo pero dice que no sabe cómo aplicarlo cuando discute con su hermano. ¿Qué le sugerirías basándote en Mosíah 3:19?",
       "type": "multiple",
       "options": [
-        "Que ignore a su hermano hasta que se calme por su cuenta",
-        "Que ceda al Espíritu en lugar de reaccionar con su primer impulso de enojo",
         "Que le demuestre que tiene la razón antes de calmarse",
-        "Que evite hablar con él hasta sentirse mejor"
+        "Que evite hablar con él hasta sentirse mejor",
+        "Que ignore a su hermano hasta que se calme por su cuenta",
+        "Que ceda al Espíritu en lugar de reaccionar con su primer impulso de enojo"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 3:19",
       "explanation": "El versículo invita a ceder al Espíritu en lugar de actuar según el primer impulso natural."
     },

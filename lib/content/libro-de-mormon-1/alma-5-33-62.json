@@ -53,7 +53,7 @@
       "preguntas": [
         "¿Con qué imagen te quedás más de este pasaje: el árbol de la vida, el Buen Pastor, o el llamado por tu nombre?",
         "En una sola frase, ¿qué significa que Jesucristo sea el 'Buen Pastor'?",
-        "¿Alguna vez sentiste que Dios te llamaba a volver, aunque te hubieras alejado un poco de la Iglesia o de un hábito espiritual?",
+        "Buscá en Alma 5:38 con qué nombre dice Alma que el buen pastor te llama. ¿Por qué te parece que se toma el trabajo de aclarar cuál es ese nombre?",
         "¿Notaste alguna vez que el orgullo o la burla hacia otro te alejaban a vos mismo de sentir el Espíritu?",
         "Esta semana, ¿de qué forma concreta podrías 'salir de entre los inicuos' sin dejar de tratar bien a nadie?",
         "¿Qué decisión podrías tomar esta semana para escuchar más de cerca la voz del Buen Pastor, como leer un capítulo o hacer una oración más sincera?"
@@ -66,12 +66,12 @@
       "question": "¿Cómo describe Alma al Buen Pastor?",
       "type": "multiple",
       "options": [
+        "Como un pastor que solo cuida a las ovejas más fuertes",
         "Como alguien que abandona a las ovejas en tiempos difíciles",
         "Como una figura distante que no se involucra directamente",
-        "Como uno que llama a Sus ovejas por su nombre",
-        "Como un pastor que solo cuida a las ovejas más fuertes"
+        "Como uno que llama a Sus ovejas por su nombre"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "reference": "Alma 5:38",
       "explanation": "Alma describe al Buen Pastor como uno que llama a Sus ovejas por su nombre."
     },
@@ -80,12 +80,12 @@
       "question": "¿Qué invitación hace Alma en nombre del Señor?",
       "type": "multiple",
       "options": [
-        "A competir entre los miembros para ver quién es más fiel",
         "A venir y no temer, a nacer de nuevo",
         "A juzgar con severidad a quienes aún no se han convertido",
-        "A acumular riquezas como señal de bendición divina"
+        "A acumular riquezas como señal de bendición divina",
+        "A competir entre los miembros para ver quién es más fiel"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 5:49",
       "explanation": "Alma invita, en nombre del Señor, a venir sin temor y a nacer de nuevo."
     },
@@ -94,12 +94,12 @@
       "question": "¿Qué significa ser parte del rebaño del Buen Pastor?",
       "type": "multiple",
       "options": [
+        "Vivir sin enfrentar ninguna prueba ni dificultad",
         "Escuchar Su voz, seguirle y experimentar un cambio de corazón",
         "Simplemente asistir a las reuniones de la congregación",
-        "Alcanzar la perfección inmediata sin ningún proceso",
-        "Vivir sin enfrentar ninguna prueba ni dificultad"
+        "Alcanzar la perfección inmediata sin ningún proceso"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 5:37-41",
       "explanation": "Ser parte del rebaño significa escuchar Su voz, seguirle y experimentar un cambio de corazón."
     },
@@ -108,12 +108,12 @@
       "question": "¿Qué invitación hace Alma a quienes aún no han nacido de nuevo?",
       "type": "multiple",
       "options": [
+        "Que busquen una congregación distinta que les resulte más cómoda",
         "Que esperen mucho más tiempo antes de tomar cualquier decisión",
         "Que vengan y sean bautizados para arrepentimiento",
-        "Que se rindan porque el cambio ya no es posible para ellos",
-        "Que busquen una congregación distinta que les resulte más cómoda"
+        "Que se rindan porque el cambio ya no es posible para ellos"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 5:49",
       "explanation": "Alma invita a quienes aún no han nacido de nuevo a venir y ser bautizados para arrepentimiento."
     },
@@ -122,12 +122,12 @@
       "question": "Camila siente que se ha alejado tanto de la Iglesia que ya no podría volver. ¿Qué le ofrece la imagen del Buen Pastor en Alma 5?",
       "type": "multiple",
       "options": [
+        "La instrucción de resolver todo sola antes de acercarse a Dios",
         "La certeza de que ya es demasiado tarde para ella",
         "La idea de que debe esperar a sentirse mejor antes de volver",
-        "La certeza de que el Señor la llama por su nombre y la invita a volver sin importar cuánto se haya alejado",
-        "La instrucción de resolver todo sola antes de acercarse a Dios"
+        "La certeza de que el Señor la llama por su nombre y la invita a volver sin importar cuánto se haya alejado"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "reference": "Alma 5:38,49",
       "explanation": "El Buen Pastor llama a Sus ovejas por su nombre y las invita a volver sin importar cuánto se hayan alejado."
     },
@@ -136,12 +136,12 @@
       "question": "Franco tiene un amigo que muestra mucho orgullo y no acepta consejos de nadie. ¿Qué advierte Alma sobre el orgullo y la envidia?",
       "type": "multiple",
       "options": [
-        "Que son cualidades que ayudan a destacar entre los demás",
         "Que son obstáculos que impiden entrar en el redil de Dios y deben ser abandonados",
         "Que solo afectan a quienes ya tienen problemas espirituales graves",
-        "Que no tienen ninguna relación con la vida espiritual"
+        "Que no tienen ninguna relación con la vida espiritual",
+        "Que son cualidades que ayudan a destacar entre los demás"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 5:53-54",
       "explanation": "Alma advierte que el orgullo y la envidia son obstáculos que impiden entrar en el redil de Dios."
     },
@@ -150,12 +150,12 @@
       "question": "¿Qué relación hay entre la imagen del Buen Pastor y la invitación a nacer de nuevo en este mismo pasaje?",
       "type": "multiple",
       "options": [
-        "No tienen relación real entre sí",
-        "La imagen del Buen Pastor contradice la idea de nacer de nuevo",
         "Solo la invitación a nacer de nuevo tiene importancia doctrinal",
-        "Ambas muestran que Dios busca activamente a las personas y ofrece un camino real de transformación"
+        "Ambas muestran que Dios busca activamente a las personas y ofrece un camino real de transformación",
+        "No tienen relación real entre sí",
+        "La imagen del Buen Pastor contradice la idea de nacer de nuevo"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Alma 5:38-49",
       "explanation": "Ambas imágenes muestran que Dios busca activamente a las personas y ofrece un camino real de transformación."
     }

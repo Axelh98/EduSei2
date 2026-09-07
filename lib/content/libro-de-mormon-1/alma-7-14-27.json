@@ -46,10 +46,10 @@
       "preguntas": [
         "¿Cuál de los atributos que menciona Alma —humildad, paciencia, fe, esperanza o caridad— sentís que ya tenés más desarrollado?",
         "En una sola frase, ¿qué significa 'ser hallado sin mancha' ante Dios?",
-        "¿Alguna vez sentiste que no ibas a ser 'suficientemente bueno' para Dios sin importar cuánto te esforzaras?",
+        "Leé otra vez Alma 7:23 y hacé la lista de todos los atributos que nombra ahí. ¿Cuál de todos te falta más a vos?",
         "¿Notaste algún cambio real en vos cuando decidiste practicar la paciencia o la humildad en una situación difícil?",
         "Esta semana, ¿qué atributo concreto —paciencia, humildad, gratitud— vas a practicar de manera intencional, y en qué situación?",
-        "¿A quién podrías agradecerle esta semana, siguiendo el ejemplo de Alma 7:23 de 'siempre dar gracias a Dios'?"
+        "Hacé esta semana una oración que sea solo de agradecimiento, sin pedir nada. Anotá después qué fue distinto."
       ]
     }
   ],
@@ -59,12 +59,12 @@
       "question": "¿Cómo podemos ser hallados sin mancha ante Dios?",
       "type": "multiple",
       "options": [
-        "Por los méritos, misericordia y gracia del Santo Mesías",
         "Por nuestras propias fuerzas y esfuerzo personal únicamente",
         "Siendo perfectos por nosotros mismos antes del juicio final",
-        "Comparándonos favorablemente con otras personas"
+        "Comparándonos favorablemente con otras personas",
+        "Por los méritos, misericordia y gracia del Santo Mesías"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Alma 7:14",
       "explanation": "Podemos ser hallados sin mancha por los méritos, misericordia y gracia del Santo Mesías."
     },
@@ -73,12 +73,12 @@
       "question": "¿Qué virtudes menciona Alma que debemos desarrollar?",
       "type": "multiple",
       "options": [
-        "Orgullo y una confianza excesiva en uno mismo",
         "Humildad, amor, fe, esperanza y caridad",
         "Egoísmo y una fuerte ambición personal",
-        "Indiferencia hacia las necesidades de otras personas"
+        "Indiferencia hacia las necesidades de otras personas",
+        "Orgullo y una confianza excesiva en uno mismo"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 7:23-24",
       "explanation": "Alma menciona humildad, amor, fe, esperanza y caridad como virtudes a desarrollar."
     },
@@ -87,12 +87,12 @@
       "question": "¿Qué promesa se da a los que son fieles?",
       "type": "multiple",
       "options": [
-        "Riquezas materiales garantizadas en esta vida",
-        "Fama y reconocimiento entre su propio pueblo",
         "Poder político sobre otras naciones",
-        "Vida eterna en el reino de Dios"
+        "Vida eterna en el reino de Dios",
+        "Riquezas materiales garantizadas en esta vida",
+        "Fama y reconocimiento entre su propio pueblo"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Alma 7:16",
       "explanation": "A los fieles se les promete vida eterna en el reino de Dios."
     },
@@ -115,12 +115,12 @@
       "question": "Pilar siente que nunca podrá ser lo suficientemente buena para Dios sin importar cuánto se esfuerce. ¿Qué le enseña Alma 7:14?",
       "type": "multiple",
       "options": [
-        "Que debe esforzarse aún más hasta lograr la perfección por sí sola",
-        "Que podemos ser hallados sin mancha ante Dios por los méritos y la gracia de Cristo, no solo por esfuerzo propio",
         "Que solo unas pocas personas selectas pueden agradar a Dios",
-        "Que Dios espera perfección inmediata de cada persona"
+        "Que Dios espera perfección inmediata de cada persona",
+        "Que debe esforzarse aún más hasta lograr la perfección por sí sola",
+        "Que podemos ser hallados sin mancha ante Dios por los méritos y la gracia de Cristo, no solo por esfuerzo propio"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 7:14",
       "explanation": "Podemos ser hallados sin mancha ante Dios por los méritos y la gracia de Cristo, no solo por nuestro propio esfuerzo."
     },

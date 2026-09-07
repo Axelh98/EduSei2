@@ -34,14 +34,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La conversión de Alma y los hijos de Mosíah demuestra que Jesucristo puede cambiar cualquier corazón dispuesto a arrepentirse. Las oraciones fieles de los padres y líderes espirituales tienen gran poder. El Señor escucha las súplicas sinceras y obra de maneras milagrosas para ayudar a Sus hijos. Esta historia nos invita a nunca perder la esperanza en quienes se han apartado del camino del Evangelio."
+      "contenido": "La conversión de Alma y de los hijos de Mosíah muestra que Jesucristo puede cambiar cualquier corazón dispuesto a arrepentirse, incluso el de alguien que estaba trabajando en contra de la Iglesia. Las oraciones de padres y de líderes tienen un peso real: el ángel le dijo a Alma, en la cara, que venía por las oraciones de su padre. El Señor escucha las súplicas sinceras y obra de maneras que nadie anticipa. Pero el cambio no lo produjo el susto ni la vergüenza: lo produjo Su poder, que es el único capaz de sacar a alguien de «la hiel de amargura». Por eso esta historia es una invitación a no dar por perdido a nadie, empezando por vos."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "Si vieras a un ángel aparecerse con una voz que hace temblar la tierra, como le pasó a Alma, ¿qué crees que sería lo primero que sentirías: miedo, sorpresa, o alivio?",
         "¿Qué palabra describe mejor a Alma hijo antes de su conversión: rebelde, influyente, convencido, o las tres?",
-        "¿Alguna vez alguien oró tanto tiempo por vos o por un familiar que, cuando por fin pasó algo, se dieron cuenta de que esa oración tuvo que ver?",
+        "Volvé a leer Mosíah 27:14 y buscá la razón que da el ángel para haber venido. ¿De quién eran las oraciones que el Señor había oído?",
         "¿Tenés a alguien cercano por quien sentís que tenés que seguir orando aunque no veas cambios todavía?",
         "¿Por quién específicamente vas a orar esta semana, con la misma constancia con la que oraba Alma padre por su hijo?",
         "¿Qué palabra o actitud tuya necesitás cambiar esta semana para dejar de alejar a otros de la fe, aunque sea sin querer?"
@@ -54,12 +54,12 @@
       "question": "¿Qué estaban haciendo Alma hijo y los hijos de Mosíah?",
       "type": "multiple",
       "options": [
-        "Predicando activamente el evangelio por toda la tierra",
         "Estudiando cuidadosamente las Escrituras cada día",
         "Ayudando a los pobres y necesitados de su comunidad",
-        "Destruyendo la iglesia de Dios y llevando a otros al pecado"
+        "Destruyendo la iglesia de Dios y llevando a otros al pecado",
+        "Predicando activamente el evangelio por toda la tierra"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Mosíah 27:8-10",
       "explanation": "Alma hijo y los hijos de Mosíah estaban destruyendo la iglesia de Dios y llevando a otros al pecado."
     },
@@ -68,12 +68,12 @@
       "question": "¿Quién se apareció a Alma y sus compañeros?",
       "type": "multiple",
       "options": [
-        "Un ángel del Señor, con una voz que hizo temblar la tierra",
         "Un profeta anciano que los había estado buscando",
         "Sus propios padres, preocupados por su comportamiento",
-        "Un rey vecino que buscaba reclutarlos para la guerra"
+        "Un rey vecino que buscaba reclutarlos para la guerra",
+        "Un ángel del Señor, con una voz que hizo temblar la tierra"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Mosíah 27:11",
       "explanation": "Un ángel del Señor se apareció a Alma y sus compañeros, con una voz que hizo temblar la tierra."
     },
@@ -82,12 +82,12 @@
       "question": "¿Qué causó la conversión de Alma hijo?",
       "type": "multiple",
       "options": [
-        "Una decisión repentina tomada completamente solo, sin ayuda",
-        "La presión constante de la sociedad para que cambiara",
         "La intervención divina en respuesta a las oraciones de su padre y otros",
-        "El temor a perder su posición social entre el pueblo"
+        "El temor a perder su posición social entre el pueblo",
+        "Una decisión repentina tomada completamente solo, sin ayuda",
+        "La presión constante de la sociedad para que cambiara"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Mosíah 27:14",
       "explanation": "La conversión de Alma hijo fue causada por la intervención divina, en respuesta a las oraciones de su padre y otros."
     },
@@ -96,12 +96,12 @@
       "question": "¿Qué buscaban lograr específicamente Alma hijo y los hijos de Mosíah con sus acciones?",
       "type": "multiple",
       "options": [
+        "Unirse a los sacerdotes del rey Noé en sus enseñanzas",
         "Apartar a los miembros de la iglesia de la verdad con palabras astutas",
         "Fortalecer la fe de los miembros más jóvenes de la iglesia",
-        "Ganar el favor del rey Mosíah para heredar el trono",
-        "Unirse a los sacerdotes del rey Noé en sus enseñanzas"
+        "Ganar el favor del rey Mosíah para heredar el trono"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Mosíah 27:8",
       "explanation": "Buscaban apartar a los miembros de la iglesia de la verdad con palabras astutas."
     },
@@ -124,12 +124,12 @@
       "question": "Ian se pregunta si es posible cambiar completamente después de haber hecho mucho daño a otros. ¿Qué muestra la conversión de Alma hijo?",
       "type": "multiple",
       "options": [
-        "Que un cambio de corazón genuino es posible sin importar cuán lejos se haya estado del camino correcto",
-        "Que solo algunas personas pueden realmente cambiar",
         "Que el daño causado a otros no se puede reparar nunca",
-        "Que es necesario primero reparar todo el daño antes de poder cambiar"
+        "Que es necesario primero reparar todo el daño antes de poder cambiar",
+        "Que un cambio de corazón genuino es posible sin importar cuán lejos se haya estado del camino correcto",
+        "Que solo algunas personas pueden realmente cambiar"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 27",
       "explanation": "La conversión de Alma hijo muestra que un cambio de corazón genuino es posible sin importar cuán lejos se haya estado del camino correcto."
     },
@@ -138,12 +138,12 @@
       "question": "¿Qué conecta la aparición del ángel con lo que Alma hijo experimentó físicamente después (quedar mudo y sin fuerzas)?",
       "type": "multiple",
       "options": [
+        "Lo que experimentó físicamente fue una coincidencia sin relación con el ángel",
         "No tienen relación real entre sí",
         "Ambos elementos muestran el poder de Dios obrando de manera dramática para lograr un cambio real",
-        "Solo la aparición del ángel es relevante para su conversión",
-        "Lo que experimentó físicamente fue una coincidencia sin relación con el ángel"
+        "Solo la aparición del ángel es relevante para su conversión"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "reference": "Mosíah 27:11-19",
       "explanation": "Ambos elementos muestran el poder de Dios obrando de manera dramática para lograr un cambio real en Alma hijo."
     }

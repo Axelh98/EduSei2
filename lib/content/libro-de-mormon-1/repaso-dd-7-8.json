@@ -12,6 +12,16 @@
           "referencia": "Mosíah 3:19",
           "texto": "Porque el hombre natural es enemigo de Dios, y lo ha sido desde la caída de Adán, y lo será para siempre jamás, a menos que se someta al influjo del Santo Espíritu, y se despoje del hombre natural, y se haga santo por la expiación de Cristo el Señor, y se vuelva como un niño: sumiso, manso, humilde, paciente, lleno de amor y dispuesto a someterse a cuanto el Señor juzgue conveniente infligir sobre él, tal como un niño se somete a su padre.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa&id=p19#p19"
+        },
+        {
+          "referencia": "Mosíah 4:9",
+          "texto": "Creed en Dios; creed que él existe, y que creó todas las cosas, tanto en el cielo como en la tierra; creed que él tiene toda sabiduría y todo poder, tanto en el cielo como en la tierra; creed que el hombre no comprende todas las cosas que el Señor puede comprender.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Mosíah 5:7",
+          "texto": "Ahora pues, a causa del convenio que habéis hecho, seréis llamados progenie de Cristo, hijos e hijas de él, porque he aquí, hoy él os ha engendrado espiritualmente; pues decís que vuestros corazones han cambiado por medio de la fe en su nombre; por tanto, habéis nacido de él y habéis llegado a ser sus hijos y sus hijas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=spa&id=p7#p7"
         }
       ]
     },
@@ -24,9 +34,9 @@
       "preguntas": [
         "¿Cuál de los pasajes de dominio que repasamos te resulta más fácil de recordar?",
         "En una sola frase, ¿qué significa para vos ser 'sumiso, manso y humilde' como dice Mosíah 3:19?",
-        "¿Alguna vez usaste, sin querer o a propósito, un pasaje de dominio en una conversación real con un amigo o familiar?",
+        "Leé otra vez Mosíah 3:19 y fijate en la palabra con que describe al hombre natural: «enemigo». ¿Te parece una palabra fuerte de más, o exacta?",
         "¿Te costó alguna vez explicarle a alguien que no es de la Iglesia por qué crees lo que crees?",
-        "Esta semana, ¿qué pasaje de dominio elegirías para compartir con alguien, y con quién lo compartirías?",
+        "Anotá esta semana las veces que reaccionaste como «el hombre natural» y las veces que no. Meditá el domingo en esa lista, sin castigarte: es un diagnóstico, no una condena.",
         "¿Qué momento concreto de esta semana —una decisión, una conversación— podrías usar para practicar el 'cambio de corazón' de Mosíah 3:19?"
       ]
     }
@@ -37,12 +47,12 @@
       "question": "¿Por qué debemos repasar constantemente los pasajes de dominio?",
       "type": "multiple",
       "options": [
+        "Para mantenerlos frescos en nuestra memoria y listos para usar",
         "Solo para cumplir con un requisito del curso de Seminario",
         "No es realmente necesario repasarlos con frecuencia",
-        "Para tener algo que recitar frente a la clase",
-        "Para mantenerlos frescos en nuestra memoria y listos para usar"
+        "Para tener algo que recitar frente a la clase"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "explanation": "Debemos repasarlos constantemente para mantenerlos frescos en nuestra memoria y listos para usar."
     },
     {
@@ -50,12 +60,12 @@
       "question": "¿Cuál es la diferencia entre saber un pasaje y dominarlo?",
       "type": "multiple",
       "options": [
+        "Saber un pasaje ya es suficiente sin necesidad de más",
         "Dominar significa conocerlo, entenderlo y poder aplicarlo en la vida",
         "No existe ninguna diferencia real entre ambos conceptos",
-        "Dominar un pasaje significa solamente memorizarlo palabra por palabra",
-        "Saber un pasaje ya es suficiente sin necesidad de más"
+        "Dominar un pasaje significa solamente memorizarlo palabra por palabra"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "Dominar un pasaje significa conocerlo, entenderlo y poder aplicarlo en la vida."
     },
     {
@@ -63,12 +73,12 @@
       "question": "¿Qué temas principales cubren los versículos de dominio que hemos visto hasta ahora?",
       "type": "multiple",
       "options": [
-        "Únicamente relatos de batallas y conquistas militares",
         "Solamente genealogías de los profetas del Libro de Mormón",
         "Principalmente leyes civiles del gobierno nefita",
-        "Obediencia, albedrío, caída de Adán, servicio, cambio de corazón, convenios"
+        "Obediencia, albedrío, caída de Adán, servicio, cambio de corazón, convenios",
+        "Únicamente relatos de batallas y conquistas militares"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "Los versículos cubren temas como obediencia, albedrío, la caída de Adán, servicio, cambio de corazón y convenios."
     },
     {
@@ -76,12 +86,12 @@
       "question": "¿Cómo nos ayudan estos versículos en conversaciones sobre el evangelio?",
       "type": "multiple",
       "options": [
-        "Nos dan fundamentos doctrinales claros que podemos compartir",
         "No tienen ninguna utilidad fuera del salón de clases",
         "Solo sirven para que el maestro evalúe nuestro progreso",
-        "Complican las conversaciones en lugar de facilitarlas"
+        "Complican las conversaciones en lugar de facilitarlas",
+        "Nos dan fundamentos doctrinales claros que podemos compartir"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "Nos dan fundamentos doctrinales claros que podemos compartir en conversaciones sobre el evangelio."
     },
     {
@@ -89,12 +99,12 @@
       "question": "Bruno olvida los versículos de dominio justo cuando más los necesita, como en una conversación difícil. ¿Qué le ayudaría según lo que hemos aprendido sobre el repaso?",
       "type": "multiple",
       "options": [
-        "Dejar de intentar memorizarlos porque no funciona",
         "Repasarlos constantemente para que el Espíritu pueda traerlos a su memoria en el momento oportuno",
         "Memorizarlos solo antes de un examen",
-        "Escribirlos una sola vez y no volver a repasarlos"
+        "Escribirlos una sola vez y no volver a repasarlos",
+        "Dejar de intentar memorizarlos porque no funciona"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "Repasar constantemente ayuda a que el Espíritu traiga estos versículos a la memoria en el momento oportuno."
     },
     {
@@ -102,12 +112,12 @@
       "question": "Victoria piensa que aprender doctrina es solo para la clase de Seminario, no para su vida diaria. ¿Qué le corregirías?",
       "type": "multiple",
       "options": [
-        "Que efectivamente la doctrina solo aplica dentro del salón de clases",
-        "Que solo los adultos necesitan aplicar la doctrina en su vida",
         "Que la doctrina es interesante pero no tiene aplicación práctica",
-        "Que estos principios están diseñados para aplicarse en decisiones diarias fuera del salón de clases"
+        "Que estos principios están diseñados para aplicarse en decisiones diarias fuera del salón de clases",
+        "Que efectivamente la doctrina solo aplica dentro del salón de clases",
+        "Que solo los adultos necesitan aplicar la doctrina en su vida"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "Estos principios están diseñados para aplicarse en decisiones diarias, no solo dentro del salón de clases."
     },
     {
@@ -115,12 +125,12 @@
       "question": "¿Qué tienen en común los temas de obediencia, albedrío y cambio de corazón que hemos repasado?",
       "type": "multiple",
       "options": [
+        "Son temas completamente independientes entre generaciones distintas",
         "No tienen ningún tema en común",
         "Todos apuntan al mismo proceso de acercarnos más a Cristo mediante nuestras decisiones",
-        "Solo tratan sobre reglas que hay que seguir sin comprender",
-        "Son temas completamente independientes entre generaciones distintas"
+        "Solo tratan sobre reglas que hay que seguir sin comprender"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Todos estos temas apuntan al mismo proceso de acercarnos más a Cristo mediante nuestras decisiones."
     }
   ]

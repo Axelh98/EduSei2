@@ -27,7 +27,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Mosíah 18:8–10 enseña que el discipulado verdadero implica amar, servir y ministrar como lo hizo Jesucristo. Los convenios bautismales nos ayudan a recordar quiénes somos y a quién seguimos. Al vivir fielmente nuestros convenios, recibimos fortaleza espiritual y la compañía constante del Espíritu Santo. El Salvador desea que Su luz se refleje en nuestra vida diaria mediante actos de bondad, compasión y servicio."
+      "contenido": "Mosíah 18:8–10 enseña que el discipulado real se parece a lo que hizo Jesucristo: amar, servir y ministrar. Los convenios del bautismo sirven para recordar quiénes somos y a quién seguimos, y son sorprendentemente concretos: llevar las cargas de otros, llorar con los que lloran, consolar al que necesita consuelo. Nada de eso es abstracto. Al vivirlos con fidelidad recibimos fortaleza y la compañía del Espíritu Santo, que es exactamente lo que el versículo promete a cambio. El Salvador quiere que Su luz se note en cosas chicas y diarias. Buscá esta semana a alguien que esté llorando y quedate ahí, aunque no sepas qué decir."
     },
     {
       "tipo": "cuestionario",
@@ -37,7 +37,7 @@
         "¿Alguna vez tuviste que explicarle a alguien que no es miembro por qué el bautismo te compromete a algo más que ir a la iglesia los domingos?",
         "¿Hubo algún momento en que cumplir este convenio (consolar, acompañar, ser testigo) te costó más de lo que esperabas?",
         "¿A quién podrías consolar o acompañar esta semana, aplicando directamente Mosíah 18:9?",
-        "¿En qué conversación de esta semana vas a intentar explicar este pasaje con tus propias palabras, sin mirar el texto?"
+        "Releé tu convenio bautismal en Mosíah 18:8–10 y escribí cuál de las promesas te cuesta más. Llevá esa a la oración durante la semana."
       ]
     }
   ],
@@ -47,12 +47,12 @@
       "question": "Completa: 'Dispuestos a llevar las ___ los unos de los otros'",
       "type": "multiple",
       "options": [
-        "maletas",
         "responsabilidades de otros",
         "cargas",
-        "problemas sin ayuda"
+        "problemas sin ayuda",
+        "maletas"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "reference": "Mosíah 18:8",
       "explanation": "El convenio bautismal incluye estar dispuestos a llevar las cargas los unos de los otros."
     },
@@ -61,12 +61,12 @@
       "question": "¿Qué debemos hacer con los que lloran?",
       "type": "multiple",
       "options": [
+        "Evitarlos",
         "Ignorarlos",
         "Llorar con ellos",
-        "Juzgarlos",
-        "Evitarlos"
+        "Juzgarlos"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Mosíah 18:9",
       "explanation": "Debemos llorar con los que lloran, como parte del convenio bautismal."
     },
@@ -75,12 +75,12 @@
       "question": "¿Qué convenio específico hacemos al bautizarnos según Mosíah 18:8-9?",
       "type": "multiple",
       "options": [
-        "Sobrellevar cargas, consolar, ser testigos y servir a Dios",
         "Solo creer en Cristo sin ningún compromiso adicional",
         "Asistir regularmente a las reuniones de la congregación",
-        "Ser perfectos desde el momento mismo del bautismo"
+        "Ser perfectos desde el momento mismo del bautismo",
+        "Sobrellevar cargas, consolar, ser testigos y servir a Dios"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Mosíah 18:8-9",
       "explanation": "El convenio bautismal incluye sobrellevar cargas, consolar, ser testigos y servir a Dios."
     },
@@ -89,12 +89,12 @@
       "question": "¿Qué promete el Señor a quienes guardan el convenio bautismal?",
       "type": "multiple",
       "options": [
+        "Que seremos contados con los de la primera resurrección y tendremos vida eterna",
         "Solo bendiciones materiales durante esta vida terrenal",
         "Una vida completamente libre de todo problema",
-        "Reconocimiento y popularidad dentro de la comunidad",
-        "Que seremos contados con los de la primera resurrección y tendremos vida eterna"
+        "Reconocimiento y popularidad dentro de la comunidad"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "reference": "Mosíah 18:9",
       "explanation": "El Señor promete que seremos contados con los de la primera resurrección y tendremos vida eterna."
     },
@@ -117,12 +117,12 @@
       "question": "Franco piensa que servir a otros es opcional si él ya asiste a la iglesia regularmente. ¿Qué le corrige este pasaje?",
       "type": "multiple",
       "options": [
-        "Que el convenio bautismal incluye servir activamente, no solo asistir a las reuniones",
-        "Que asistir a la iglesia ya cumple con todo lo que el convenio exige",
         "Que servir a otros es solo tarea de los líderes de la congregación",
-        "Que el servicio es opcional para quienes ya están bautizados"
+        "Que el servicio es opcional para quienes ya están bautizados",
+        "Que el convenio bautismal incluye servir activamente, no solo asistir a las reuniones",
+        "Que asistir a la iglesia ya cumple con todo lo que el convenio exige"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Mosíah 18:8-9",
       "explanation": "El convenio bautismal incluye servir activamente a otros, más allá de asistir a las reuniones."
     },
@@ -131,12 +131,12 @@
       "question": "¿Qué relación hay entre 'llevar las cargas' de los demás y la promesa de la primera resurrección mencionada en este mismo pasaje?",
       "type": "multiple",
       "options": [
-        "No tienen relación alguna entre sí",
-        "Vivir el convenio de servicio es parte de lo que nos prepara para recibir esa promesa",
         "La promesa se cumple sin importar si servimos a otros o no",
-        "Solo la primera parte del convenio tiene relación con las promesas eternas"
+        "Solo la primera parte del convenio tiene relación con las promesas eternas",
+        "No tienen relación alguna entre sí",
+        "Vivir el convenio de servicio es parte de lo que nos prepara para recibir esa promesa"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 18:8-9",
       "explanation": "Vivir el convenio de servicio es parte de lo que nos prepara para recibir la promesa de la primera resurrección."
     }

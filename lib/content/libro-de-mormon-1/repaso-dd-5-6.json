@@ -27,14 +27,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Repasar las doctrinas del Evangelio fortalece nuestra fe y nos ayuda a permanecer firmes en Jesucristo. Las Escrituras y las enseñanzas proféticas son una guía segura en tiempos de incertidumbre. Cuando estudiamos diligentemente y aplicamos las doctrinas aprendidas, el Espíritu Santo confirma la verdad y fortalece nuestro testimonio. El Dominio de la doctrina nos ayuda a construir un fundamento espiritual sólido."
+      "contenido": "Repasar las doctrinas del Evangelio fortalece la fe y ayuda a permanecer firme en Jesucristo. Las Escrituras y las palabras de los profetas son una guía confiable cuando alrededor todo se discute. Y hay una razón por la que estos pasajes se estudian juntos y no sueltos: buscar el reino de Dios primero, deleitarse en las palabras de Cristo, buscar sabiduría por el estudio y por la fe. Los tres apuntan al mismo lugar. Cuando estudiás con esa intención y aplicás lo aprendido, el Espíritu Santo confirma la verdad, y el fundamento que se arma no es un conjunto de datos: es una relación con Aquel cuya gracia sostiene todo lo demás."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "De todos los versículos de Dominio de la doctrina que repasamos hasta ahora, ¿cuál te acordás más rápido de memoria?",
         "Si tuvieras que elegir uno de estos pasajes para escribirlo en tu cuaderno de Seminario en letras grandes, ¿cuál elegirías?",
-        "¿Alguna vez un versículo de Dominio de la doctrina te vino a la mente justo en el momento en que lo necesitabas?",
+        "Volvé a leer Jacob 2:18-19 y fijate en el orden que propone: qué se busca primero y qué después. ¿Y para qué dice que sirven las riquezas?",
         "¿Hubo alguna conversación reciente donde te hubiera servido tener uno de estos versículos más fresco en la memoria?",
         "¿Qué versículo de este repaso vas a repetir en voz alta al menos tres veces esta semana hasta memorizarlo mejor?",
         "¿Con quién podrías practicar explicando uno de estos pasajes esta semana, como si se lo estuvieras enseñando a alguien que no es de la Iglesia?"
@@ -47,12 +47,12 @@
       "question": "¿Cuántos pasajes de dominio hemos estudiado hasta ahora en Mosíah?",
       "type": "multiple",
       "options": [
-        "Ninguno todavía, comenzaremos a estudiarlos pronto",
         "Varios, incluyendo sobre servicio, felicidad y convenios bautismales",
         "Solamente uno, al inicio del libro de Mosíah",
-        "Cientos de versículos distintos de todo el libro"
+        "Cientos de versículos distintos de todo el libro",
+        "Ninguno todavía, comenzaremos a estudiarlos pronto"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "Hemos estudiado varios pasajes fundamentales de Mosíah sobre temas esenciales."
     },
     {
@@ -60,12 +60,12 @@
       "question": "¿Cómo pueden los pasajes de dominio ayudarnos en situaciones difíciles?",
       "type": "multiple",
       "options": [
+        "Son irrelevantes fuera del salón de clases",
         "El Espíritu los trae a nuestra memoria para guiarnos",
         "Solo tienen valor durante los exámenes de Seminario",
-        "No pueden ayudarnos en momentos de verdadera dificultad",
-        "Son irrelevantes fuera del salón de clases"
+        "No pueden ayudarnos en momentos de verdadera dificultad"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "El Espíritu Santo trae estos pasajes a nuestra memoria cuando más los necesitamos."
     },
     {
@@ -87,12 +87,12 @@
       "question": "¿Cómo se relacionan los versículos de dominio con nuestra vida diaria?",
       "type": "multiple",
       "options": [
-        "Nos dan principios fundamentales para guiar nuestras decisiones",
         "No se relacionan con las decisiones que tomamos hoy",
         "Solo sirven para ser estudiados sin ninguna aplicación práctica",
-        "Son demasiado antiguos para tener relevancia actual"
+        "Son demasiado antiguos para tener relevancia actual",
+        "Nos dan principios fundamentales para guiar nuestras decisiones"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "Estos versículos contienen principios que deben guiar nuestras acciones y decisiones diarias."
     },
     {
@@ -100,12 +100,12 @@
       "question": "Antonella va a ayudar a enseñar en una clase de niños y no sabe qué versículo de dominio usar sobre los convenios bautismales. ¿Cuál le recomendarías?",
       "type": "multiple",
       "options": [
-        "1 Nefi 3:7, porque habla de obediencia general",
         "Mosíah 18:8-10, que describe claramente los convenios que hacemos al bautizarnos",
         "2 Nefi 2:25, porque habla del gozo",
-        "Cualquier versículo, ya que todos tratan el mismo tema"
+        "Cualquier versículo, ya que todos tratan el mismo tema",
+        "1 Nefi 3:7, porque habla de obediencia general"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Mosíah 18:8-10",
       "explanation": "Mosíah 18:8-10 describe claramente los convenios que hacemos al bautizarnos."
     },
@@ -114,12 +114,12 @@
       "question": "Lautaro repasó los versículos de dominio pero olvida usarlos cuando realmente los necesita. ¿Qué le explicarías sobre el propósito de revisarlos regularmente?",
       "type": "multiple",
       "options": [
-        "Que revisarlos una sola vez ya es suficiente para toda la vida",
         "Que solo sirven durante el año en que se estudian",
         "Que el repaso constante ayuda a que el Espíritu los traiga a la memoria en el momento oportuno",
-        "Que memorizarlos no tiene ninguna utilidad real"
+        "Que memorizarlos no tiene ninguna utilidad real",
+        "Que revisarlos una sola vez ya es suficiente para toda la vida"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "El repaso constante ayuda a que el Espíritu traiga estos versículos a nuestra memoria cuando más los necesitamos."
     },
     {
@@ -127,12 +127,12 @@
       "question": "¿Qué tienen en común los distintos versículos de dominio que hemos repasado en estas semanas?",
       "type": "multiple",
       "options": [
+        "Tratan exclusivamente temas históricos sin relevancia actual",
         "No tienen ningún tema en común entre sí",
         "Todos refuerzan verdades fundamentales que fortalecen la fe y guían decisiones diarias",
-        "Solo sirven para ser memorizados sin ninguna aplicación real",
-        "Tratan exclusivamente temas históricos sin relevancia actual"
+        "Solo sirven para ser memorizados sin ninguna aplicación real"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Todos los versículos de dominio refuerzan verdades fundamentales que fortalecen la fe y guían decisiones diarias."
     }
   ]

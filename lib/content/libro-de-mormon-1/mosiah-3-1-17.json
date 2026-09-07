@@ -48,7 +48,7 @@
       "preguntas": [
         "¿Qué parte del sufrimiento del Salvador que describió el ángel te resulta más difícil de imaginar? ¿Por qué?",
         "Alma 7 dice que Cristo sufrió también nuestros dolores y enfermedades para poder socorrernos. ¿Cómo cambia eso tu forma de orar cuando estás pasando algo difícil?",
-        "¿Hay alguna situación de tu vida en este momento donde necesitarías recordar que el Salvador la vivió desde adentro y puede ayudarte?",
+        "Buscá en Mosíah 3:5–7 lo que el ángel anuncia que va a padecer el Señor Omnipotente. ¿Qué detalle de ese sufrimiento te resulta más concreto?",
         "La declaración de Mosíah 3:17 dice que no hay otro nombre ni otro camino. ¿Cómo explicarías eso a alguien que dice que hay muchos caminos hacia Dios?",
         "¿Cómo te hace sentir saber que la salvación está disponible para cualquiera que venga a Cristo, sin excepciones?",
         "¿Qué podrías hacer esta semana para acercarte más al Salvador, recordando todo lo que Él hizo para poder conocerte y ayudarte?"
@@ -60,12 +60,12 @@
       "id": 1,
       "question": "Según Mosíah 3:5–7, ¿cuáles son tres cosas específicas que el ángel profetizó que haría Cristo durante Su ministerio terrenal?",
       "options": [
-        "Escribir, predicar y establecer una iglesia formal",
         "Sanar a los enfermos, levantar a los muertos, y padecer tentaciones y dolor del cuerpo hasta sangrar por cada poro",
         "Morir en la cruz, resucitar, y ascender al cielo en presencia de testigos",
-        "Bautizar, ordenar apóstoles, y enseñar el Sermón del Monte"
+        "Bautizar, ordenar apóstoles, y enseñar el Sermón del Monte",
+        "Escribir, predicar y establecer una iglesia formal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -80,36 +80,36 @@
     },
     {
       "id": 3,
-      "question": "El élder Wilcox dijo que la Expiación 'no es solo algo que Cristo hizo por nosotros sino algo que Él hace con nosotros'. ¿Qué diferencia doctrinal establece esa distinción?",
+      "question": "Alma 7:11–13 dice que Él tomó sobre Sí no solo los pecados, sino también los dolores, las enfermedades y las debilidades de Su pueblo. ¿Qué le agrega eso a entender la expiación solo como perdón?",
       "options": [
-        "Que la Expiación fue completada en el pasado y ya no requiere nuestra participación activa",
-        "Que la Expiación no es solo un evento histórico de perdón sino un proceso activo y continuo de transformación en el que Cristo trabaja junto a nosotros mientras cambiamos",
-        "Que Cristo ya hizo Su parte y ahora nosotros debemos hacer nuestra parte completamente solos",
-        "Que la Expiación es diferente para cada persona según cuánto necesita ser cambiada"
+        "Que el perdón depende de cuánto haya sufrido antes cada persona.",
+        "Que fue un hecho del pasado que ya no requiere participación nuestra.",
+        "Que además de perdonar, sostiene y cambia a la persona en el camino.",
+        "Que Él hizo Su parte y el resto queda enteramente en manos de uno."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "Alma 7:11–12 añade que Cristo no solo sufrió por los pecados sino también por 'dolores, aflicciones y tentaciones de todas clases'. ¿Por qué es importante esa extensión del sufrimiento expiatorio?",
       "options": [
-        "Porque explica que todos los tipos de sufrimiento son pecado y necesitan expiación",
-        "Porque significa que Cristo no solo puede perdonar errores sino que comprende desde adentro cualquier sufrimiento humano y puede socorrernos en él con perfecta empatía",
         "Porque distingue a Cristo de otros profetas que solo sufrieron en espíritu, no físicamente",
-        "Porque establece que el sufrimiento es siempre redimible y no tiene consecuencias permanentes"
+        "Porque establece que el sufrimiento es siempre redimible y no tiene consecuencias permanentes",
+        "Porque explica que todos los tipos de sufrimiento son pecado y necesitan expiación",
+        "Porque significa que Cristo no solo puede perdonar errores sino que comprende desde adentro cualquier sufrimiento humano y puede socorrernos en él con perfecta empatía"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Camila está pasando por ansiedad severa y siente que nadie puede entender lo que ella vive. Según Alma 7:11–12 y Mosíah 3:7, ¿qué verdad podría ofrecerle esperanza específica?",
       "options": [
-        "Que si tiene suficiente fe, la ansiedad desaparecerá completamente",
         "Que Cristo padeció específicamente 'dolores y aflicciones de todas clases' para poder saber exactamente cómo socorrerla en lo que ella vive, desde dentro de esa experiencia",
         "Que las enfermedades mentales son pruebas que Dios da a las personas espiritualmente más fuertes",
-        "Que debería buscar un sacerdote para recibir una bendición de sanación antes de explorar otras opciones"
+        "Que debería buscar un sacerdote para recibir una bendición de sanación antes de explorar otras opciones",
+        "Que si tiene suficiente fe, la ansiedad desaparecerá completamente"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -126,12 +126,12 @@
       "id": 7,
       "question": "El ángel en Mosíah 3 profetizó el sufrimiento de Cristo con detalle (versículos 5–7) y luego declaró la exclusividad de Su nombre para la salvación (versículo 17). ¿Cuál es la conexión entre la profundidad de Su sufrimiento y la exclusividad de Su función salvadora?",
       "options": [
+        "El sufrimiento de Cristo fue tan grande que Dios lo declaró exclusivo como compensación por lo que atravesó",
         "No hay conexión; la exclusividad de Cristo se basa en Su divinidad, no en el nivel de Su sufrimiento",
         "Precisamente porque Cristo pagó el precio completo de todos los pecados y sufrimientos humanos, tiene la autoridad y la capacidad exclusiva de ofrecer la salvación que nadie más podría dar",
-        "La exclusividad de Cristo es solo una doctrina cultural del cristianismo, no una verdad doctrinal universal",
-        "El sufrimiento de Cristo fue tan grande que Dios lo declaró exclusivo como compensación por lo que atravesó"
+        "La exclusividad de Cristo es solo una doctrina cultural del cristianismo, no una verdad doctrinal universal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

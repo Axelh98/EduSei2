@@ -34,10 +34,10 @@
       "preguntas": [
         "¿Con quién te identificás más en este relato: con Amulek, que dudó antes de escuchar el llamado, o con Zeezrom, que hacía preguntas con mala intención?",
         "¿Qué te parece que Amulek haya sido \"llamado muchas veces\" antes de decidirse a escuchar?",
-        "¿Alguna vez alguien te hizo una pregunta sobre tu fe con la intención de hacerte quedar mal? ¿Cómo reaccionaste?",
+        "Volvé a leer Alma 10:22–23 y buscá qué es lo que, según Amulek, está sosteniendo a la ciudad entera. ¿Quiénes resultan ser los que la sostienen?",
         "¿Por qué creés que la respuesta simple y honesta de Amulek tuvo tanto efecto en Zeezrom?",
         "Pensá en una pregunta difícil que te hayan hecho sobre tu fe. ¿Cómo la responderías hoy, con tus propias palabras?",
-        "¿Qué podés hacer esta semana para sentirte más preparado la próxima vez que alguien ponga a prueba tu fe?"
+        "Antes de dormir, algún día de esta semana, preguntale al Padre Celestial qué necesitás entender mejor de tu propia fe. Anotá lo primero que te venga a la mente."
       ]
     }
   ],
@@ -47,12 +47,12 @@
       "question": "¿Quién era Amulek antes de su conversión?",
       "type": "multiple",
       "options": [
-        "Un hombre próspero que había endurecido su corazón",
-        "Un profeta reconocido públicamente por el pueblo",
         "Un líder establecido dentro de la organización de la iglesia",
-        "Un lamanita recién llegado a la ciudad de Ammoníah"
+        "Un lamanita recién llegado a la ciudad de Ammoníah",
+        "Un hombre próspero que había endurecido su corazón",
+        "Un profeta reconocido públicamente por el pueblo"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Alma 10:4-6",
       "explanation": "Amulek era un hombre próspero que había endurecido su corazón antes de su conversión."
     },
@@ -61,12 +61,12 @@
       "question": "¿Qué intentó hacer Zeezrom con Amulek?",
       "type": "multiple",
       "options": [
-        "Ayudarlo a preparar su siguiente sermón",
-        "Tentarlo con dinero para que negara a Dios",
         "Convencerlo de unirse formalmente a su familia",
-        "Ofrecerle una posición de liderazgo en la ciudad"
+        "Ofrecerle una posición de liderazgo en la ciudad",
+        "Ayudarlo a preparar su siguiente sermón",
+        "Tentarlo con dinero para que negara a Dios"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 11:22",
       "explanation": "Zeezrom intentó tentar a Amulek con dinero para que negara la existencia de Dios."
     },
@@ -75,12 +75,12 @@
       "question": "¿Cómo respondió Amulek a la tentación de Zeezrom?",
       "type": "multiple",
       "options": [
-        "Aceptó parte del dinero antes de arrepentirse",
-        "Guardó silencio para no comprometerse con nadie",
         "Rechazó firmemente y testificó de Dios",
-        "Huyó de la ciudad para evitar el conflicto"
+        "Huyó de la ciudad para evitar el conflicto",
+        "Aceptó parte del dinero antes de arrepentirse",
+        "Guardó silencio para no comprometerse con nadie"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 11:23-25",
       "explanation": "Amulek rechazó firmemente la tentación y testificó con valentía de Dios."
     },
@@ -89,12 +89,12 @@
       "question": "¿Quién acompañó a Alma en su predicación en Ammoníah?",
       "type": "multiple",
       "options": [
-        "Nefi",
-        "Mosíah",
         "Helamán",
-        "Amulek"
+        "Amulek",
+        "Nefi",
+        "Mosíah"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Alma 10:7",
       "explanation": "Amulek acompañó a Alma en su predicación en la ciudad de Ammoníah."
     },
@@ -103,12 +103,12 @@
       "question": "Catalina le ofrecen dinero a cambio de mentir sobre algo importante para ella. ¿Qué ejemplo de Amulek le da fuerza para resistir?",
       "type": "multiple",
       "options": [
-        "El ejemplo de Amulek, quien rechazó firmemente el soborno de Zeezrom y testificó de la verdad",
-        "El ejemplo de Zeezrom, quien logró convencer a Amulek",
         "Ningún ejemplo de este relato aplica a su situación",
-        "El ejemplo de aceptar parte del dinero para evitar problemas"
+        "El ejemplo de aceptar parte del dinero para evitar problemas",
+        "El ejemplo de Amulek, quien rechazó firmemente el soborno de Zeezrom y testificó de la verdad",
+        "El ejemplo de Zeezrom, quien logró convencer a Amulek"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Alma 11:22-25",
       "explanation": "Amulek rechazó firmemente el soborno de Zeezrom y testificó con valentía de la verdad."
     },
@@ -117,12 +117,12 @@
       "question": "Nicolás cree que antes de convertirse era 'demasiado bueno' para necesitar cambiar como Amulek. ¿Qué le muestra la historia de Amulek sobre esto?",
       "type": "multiple",
       "options": [
-        "Que solo las personas pobres necesitan conversión",
-        "Que incluso una persona próspera y respetada puede tener el corazón endurecido y necesitar conversión",
         "Que la prosperidad siempre indica una buena relación con Dios",
-        "Que Amulek nunca necesitó realmente cambiar"
+        "Que Amulek nunca necesitó realmente cambiar",
+        "Que solo las personas pobres necesitan conversión",
+        "Que incluso una persona próspera y respetada puede tener el corazón endurecido y necesitar conversión"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 10:4-6",
       "explanation": "Incluso una persona próspera y respetada como Amulek puede tener el corazón endurecido y necesitar conversión."
     },
@@ -131,12 +131,12 @@
       "question": "¿Cómo se relaciona el intento de soborno de Zeezrom con el mensaje central que predicaban Alma y Amulek?",
       "type": "multiple",
       "options": [
-        "No tienen relación real entre sí",
-        "El soborno confirmó que el mensaje de Alma y Amulek era incorrecto",
         "El soborno mostró que Zeezrom valoraba más el dinero que la verdad, justo lo opuesto a lo que Alma y Amulek enseñaban",
-        "Zeezrom compartía completamente el mensaje de Alma y Amulek"
+        "Zeezrom compartía completamente el mensaje de Alma y Amulek",
+        "No tienen relación real entre sí",
+        "El soborno confirmó que el mensaje de Alma y Amulek era incorrecto"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 10-11",
       "explanation": "El soborno mostró que Zeezrom valoraba más el dinero que la verdad, justo lo opuesto al mensaje de Alma y Amulek."
     }

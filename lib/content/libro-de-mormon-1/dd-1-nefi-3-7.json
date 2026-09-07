@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Hay frases que, cuando las sabés de memoria, te cambian en el momento en que más las necesitás. '1 Nefi 3:7' puede ser una de esas frases. No porque sea difícil de memorizar, sino porque cuando la tenés presente, cambia tu respuesta ante los mandamientos difíciles. El propósito del Dominio de la doctrina no es solo que puedas recitar versículos. Es que puedas explicarlos con tus propias palabras y aplicarlos a situaciones reales. Imaginá que alguien te dice: 'No puedo seguir ese mandamiento, es demasiado difícil para mí'. ¿Qué le dirías? La respuesta de Nefi no fue 'no te preocupes, va a ser fácil'. Fue: 'el Señor nunca da mandamientos sin prepararles la vía'. Eso es doctrina que funciona en conversaciones reales. Memorizar este pasaje te da vocabulario para ayudar a otros —y para ayudarte a vos mismo— cuando la obediencia parece imposible. Para aplicar bien este pasaje también ayuda recordar los tres principios de adquirir conocimiento espiritual: actuar con fe, ver las cosas con perspectiva eterna, y buscar respuestas en fuentes confiables. Los tres juntos arman una herramienta poderosa."
+      "contenido": "Hay frases que, cuando las sabés de memoria, te cambian justo en el momento en que más las necesitás. 1 Nefi 3:7 puede ser una de esas. No porque cueste memorizarla, sino porque te cambia la respuesta ante un mandamiento difícil. El propósito del Dominio de la Doctrina no es que recites versículos: es que puedas explicarlos con tus palabras y usarlos en situaciones reales. Imaginá que alguien te dice: «No puedo cumplir ese mandamiento, es demasiado difícil para mí». La respuesta de Nefi no fue «quedate tranquilo, va a ser fácil». Fue que el Señor «nunca da mandamientos a los hijos de los hombres sin prepararles una vía». Y ese «iré y haré» no fue el primero de la historia. Antes de que existiera este mundo, cuando el Padre preguntó a quién enviaría, el Hijo Amado contestó: «Padre, hágase tu voluntad, y sea tuya la gloria para siempre». Nefi estaba repitiendo, en chiquito, la frase de Jesucristo. Por eso el manual dice que dominar un pasaje es aprender a explicar la doctrina del Salvador: el que prepara la vía es el mismo que ya la recorrió entera, y por Su poder puede abrirla para vos."
     },
     {
       "tipo": "escrituras",
@@ -17,6 +17,11 @@
           "referencia": "1 Nefi 4:6",
           "texto": "E iba guiado por el Espíritu, sin saber de antemano lo que tendría que hacer.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/4?lang=spa&id=p6#p6"
+        },
+        {
+          "referencia": "Moisés 4:2",
+          "texto": "Pero, he aquí, mi Hijo Amado, que fue mi Amado y mi Escogido desde el principio, me dijo: Padre, hágase tu voluntad, y sea tuya la gloria para siempre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4?lang=spa&id=p2#p2"
         },
         {
           "referencia": "Filipenses 4:13",
@@ -41,17 +46,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Dominar 1 Nefi 3:7 no termina cuando podés recitarlo. Termina cuando podés usarlo. Cuando alguien duda de si puede cumplir un mandamiento difícil. Cuando vos mismo dudás. Cuando sentís que el camino está bloqueado. En ese momento, este versículo no es solo una cita bonita: es una promesa concreta del Señor. Él nunca te va a pedir algo sin prepararte el camino. Tu trabajo es dar el primer paso."
+      "contenido": "Dominar 1 Nefi 3:7 no termina cuando podés recitarlo: termina cuando podés usarlo. Cuando alguien duda de si puede cumplir un mandamiento difícil. Cuando el que duda sos vos. Cuando sentís que el camino está bloqueado. Ahí el versículo deja de ser una cita linda y pasa a ser una promesa concreta, y el que la respalda es Jesucristo, que dijo «hágase tu voluntad» antes que nadie y sostuvo esa palabra hasta el final. Él ya prometió preparar la vía, y la recorrió primero en carne propia. Aprendete la frase clave esta semana y usala la primera vez que alguien —incluido vos— diga que algo es imposible."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "Si tuvieras que explicar 1 Nefi 3:7 con tus propias palabras en 30 segundos, ¿qué dirías?",
         "¿En qué situaciones de la vida de un adolescente podría ser más útil recordar esta promesa?",
-        "¿Cómo podría cambiar la respuesta de alguien ante un mandamiento difícil si realmente creyera que el Señor prepara la vía?",
+        "Volvé a leer 1 Nefi 3:7 y marcá dónde termina lo que promete Nefi y dónde empieza lo que promete el Señor. ¿Cuál de las dos partes es la que se te olvida cuando algo te cuesta?",
         "¿Hay alguna persona en tu vida —amigo, familiar— que podría beneficiarse de escuchar este versículo? ¿Cómo se lo explicarías?",
         "¿Qué diferencia notás entre memorizar un versículo y verdaderamente creer en lo que dice?",
-        "¿Cómo combinarías 1 Nefi 3:7 con los tres principios de adquirir conocimiento espiritual si estuvieras enfrentando una pregunta difícil sobre el Evangelio?"
+        "Elegí el mandamiento que hoy te resulta más difícil, orá por él esta semana y anotá qué vía se te fue abriendo. Volvé a esa anotación dentro de un mes."
       ]
     }
   ],
@@ -60,23 +65,23 @@
       "id": 1,
       "question": "Completa el pasaje de Dominio de la doctrina: 'Iré y haré lo que el Señor ha mandado, porque sé que el Señor nunca da mandamientos a los hijos de los hombres sin ___'",
       "options": [
-        "darles las fuerzas para cumplirlos inmediatamente",
-        "prepararles la vía para que cumplan lo que les ha mandado",
         "mostrarles exactamente qué pasos seguir de antemano",
-        "eliminar todos los obstáculos del camino"
+        "eliminar todos los obstáculos del camino",
+        "darles las fuerzas para cumplirlos inmediatamente",
+        "prepararles la vía para que cumplan lo que les ha mandado"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿En cuál capítulo y versículo del Libro de Mormón se encuentra este pasaje de Dominio de la doctrina?",
       "options": [
-        "1 Nefi 2:16",
         "1 Nefi 3:7",
         "1 Nefi 4:6",
-        "2 Nefi 32:3"
+        "2 Nefi 32:3",
+        "1 Nefi 2:16"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -93,34 +98,34 @@
       "id": 4,
       "question": "La lección señala que dominar este versículo incluye poder explicarlo en una 'conversación real'. ¿Cuál situación de la vida adolescente sería ideal para usar este versículo de manera natural?",
       "options": [
+        "Cuando se debate la autenticidad histórica del Libro de Mormón",
         "Cuando alguien pregunta sobre la historia del Libro de Mormón",
         "Cuando un amigo dice que quiere hacer algo bueno pero siente que no puede, o que un mandamiento es imposible para él",
-        "Cuando alguien quiere saber cuántos libros tiene el Libro de Mormón",
-        "Cuando se debate la autenticidad histórica del Libro de Mormón"
+        "Cuando alguien quiere saber cuántos libros tiene el Libro de Mormón"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Valentina quiere dejar de mentirle a sus padres, pero siente que si dice la verdad sobre dónde está van a restringirla más. Le parece imposible cambiar. Usando 1 Nefi 3:7, ¿qué podría decirle un compañero de Seminario?",
       "options": [
-        "Que tiene razón, y que algunos mandamientos son imposibles en ciertas circunstancias familiares",
-        "Que el Señor nunca manda ser honesto sin preparar también la vía para que esa honestidad funcione, y que puede actuar con fe y ver cómo Él prepara las circunstancias",
         "Que primero debería cambiar su situación familiar y luego intentar ser honesta",
-        "Que el mandamiento de honrar a los padres es más importante que el de decir la verdad en este caso"
+        "Que el mandamiento de honrar a los padres es más importante que el de decir la verdad en este caso",
+        "Que tiene razón, y que algunos mandamientos son imposibles en ciertas circunstancias familiares",
+        "Que el Señor nunca manda ser honesto sin preparar también la vía para que esa honestidad funcione, y que puede actuar con fe y ver cómo Él prepara las circunstancias"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Luca dice que se sabe 1 Nefi 3:7 de memoria pero que cuando enfrenta mandamientos difíciles sigue evitándolos. ¿Qué le falta para haber 'dominado' realmente este versículo?",
       "options": [
-        "Necesita memorizarlo en otro idioma para comprenderlo mejor",
         "Le falta la dimensión de la fe activa: actuar confiando en la promesa, no solo conocerla intelectualmente",
         "Necesita estudiar más contexto histórico de la historia de Nefi",
-        "Le falta leer los versículos anteriores y posteriores para el contexto completo"
+        "Le falta leer los versículos anteriores y posteriores para el contexto completo",
+        "Necesita memorizarlo en otro idioma para comprenderlo mejor"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

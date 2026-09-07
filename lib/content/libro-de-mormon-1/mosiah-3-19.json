@@ -41,14 +41,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Despojarse del hombre natural no es un esfuerzo de voluntad pura. Es un proceso que ocurre cuando elegís, una y otra vez, someter tu voluntad al Espíritu. No de golpe. De a poco. Línea por línea. Cada vez que elegís la mansedumbre sobre el orgullo, la paciencia sobre la impulsividad, el amor sobre el enojo, estás haciéndote un poco más como un niño ante Dios. Y eso, paradójicamente, es crecer hacia lo que el Padre Celestial desea que seas."
+      "contenido": "Despojarse del hombre natural no es un esfuerzo de voluntad pura. Es un proceso que ocurre cuando elegís, una y otra vez, someter tu voluntad al Espíritu: no de golpe, sino de a poco, línea por línea. Cada vez que elegís la mansedumbre sobre el orgullo, la paciencia sobre la impulsividad o el amor sobre el enojo, te hacés un poco más como un niño delante de Dios. Y el versículo dice de dónde sale la fuerza para eso: de la expiación de Cristo el Señor, que es lo que convierte el intento en cambio real. Eso, por paradójico que suene, es crecer hacia lo que el Padre Celestial quiere que seas. Elegí un solo terreno y empezá ahí."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Podés describir una situación concreta de tu vida donde el 'hombre natural' hace su trabajo? ¿Cómo se manifiesta en vos?",
         "¿Qué diferencia hay entre 'volverse como un niño' (Mosíah 3:19) y ser infantil? ¿Por qué es importante esa distinción?",
-        "El élder Bednar dice que la pregunta central de la vida es si respondés al hombre natural o al Espíritu. ¿En qué momento de tu día esa decisión se siente más difícil?",
+        "Leé otra vez Mosíah 3:19 y fijate en la comparación final con un niño. ¿Qué es exactamente lo que dice que hace el niño?",
         "¿Qué cualidades del niño —sumisión, mansedumbre, humildad, paciencia, amor— te resultan más difíciles de cultivar? ¿Por qué?",
         "¿Qué hábito espiritual —oración, estudio de Escrituras, servicio— te ayuda más a someter el hombre natural en tu propia experiencia?",
         "¿Cómo explicarías a alguien que la Expiación de Cristo no es solo para el perdón de pecados sino también para transformar quién sos?"
@@ -75,12 +75,12 @@
       "question": "¿Cómo podemos despojarnos del hombre natural?",
       "type": "multiple",
       "options": [
-        "Sometiéndonos por completo al influjo del Santo Espíritu",
         "Esforzándonos solos, sin necesitar ayuda del Espíritu",
         "Cumpliendo perfectamente todos los mandamientos primero",
-        "Esperando pacientemente hasta que ocurra sin nuestra participación"
+        "Esperando pacientemente hasta que ocurra sin nuestra participación",
+        "Sometiéndonos por completo al influjo del Santo Espíritu"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Mosíah 3:19",
       "explanation": "Debemos someternos al influjo del Santo Espíritu y despojarnos del hombre natural mediante la expiación de Cristo."
     },
@@ -89,12 +89,12 @@
       "question": "¿Qué cualidades de niño debemos desarrollar?",
       "type": "multiple",
       "options": [
+        "Sumisión, mansedumbre, humildad, paciencia y disposición a amar",
         "Independencia total y confianza únicamente en uno mismo",
         "Cumplimiento estricto de reglas sin cambiar el corazón",
-        "Fortaleza física y disciplina personal constante",
-        "Sumisión, mansedumbre, humildad, paciencia y disposición a amar"
+        "Fortaleza física y disciplina personal constante"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "reference": "Mosíah 3:19",
       "explanation": "Debemos volvernos sumisos, mansos, humildes, pacientes, llenos de amor y dispuestos a someternos."
     },
@@ -117,12 +117,12 @@
       "question": "Agustín se enoja fácilmente cuando algo no sale como él quiere, y luego se arrepiente. Según Mosíah 3:19, ¿qué debería buscar para cambiar esa tendencia?",
       "type": "multiple",
       "options": [
-        "Reprimir sus emociones sin buscar ningún cambio interno real",
         "Aceptar que así es su personalidad y que no puede cambiar",
         "Evitar a las personas que lo hacen enojar en vez de cambiar él mismo",
-        "Someterse al Espíritu Santo para despojarse de esas reacciones del hombre natural"
+        "Someterse al Espíritu Santo para despojarse de esas reacciones del hombre natural",
+        "Reprimir sus emociones sin buscar ningún cambio interno real"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Mosíah 3:19",
       "explanation": "Mosíah 3:19 enseña que debemos someternos al Espíritu Santo para despojarnos del hombre natural."
     },
@@ -131,12 +131,12 @@
       "question": "Valentina siente que ser 'buena persona' ya es suficiente y no entiende por qué necesita cambiar más. ¿Qué le enseñaría este versículo?",
       "type": "multiple",
       "options": [
-        "Que incluso las buenas intenciones necesitan un cambio de corazón guiado por el Espíritu, no solo esfuerzo propio",
         "Que ser buena persona ya cumple con todo lo que Dios espera",
         "Que el cambio de corazón solo aplica a personas con grandes pecados",
-        "Que la bondad natural es más importante que la guía del Espíritu"
+        "Que la bondad natural es más importante que la guía del Espíritu",
+        "Que incluso las buenas intenciones necesitan un cambio de corazón guiado por el Espíritu, no solo esfuerzo propio"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Mosíah 3:19",
       "explanation": "El cambio de corazón requiere someternos al Espíritu, no solo tener buenas intenciones."
     },
@@ -145,12 +145,12 @@
       "question": "Tanto el 'hombre natural' como las cualidades de un niño se mencionan en Mosíah 3:19. ¿Cuál es el principio común que los conecta?",
       "type": "multiple",
       "options": [
-        "Que ambos conceptos describen la misma etapa de la vida sin ninguna diferencia",
-        "Que solo los niños pequeños pueden realmente cambiar su naturaleza",
         "Que debemos abandonar activamente nuestra naturaleza egoísta para adoptar cualidades como la humildad y el amor",
-        "Que el hombre natural y el niño representan ideales opuestos que no se relacionan entre sí"
+        "Que el hombre natural y el niño representan ideales opuestos que no se relacionan entre sí",
+        "Que ambos conceptos describen la misma etapa de la vida sin ninguna diferencia",
+        "Que solo los niños pequeños pueden realmente cambiar su naturaleza"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Mosíah 3:19",
       "explanation": "El versículo conecta ambos conceptos: debemos abandonar la naturaleza egoísta y adoptar activamente cualidades como la humildad y el amor."
     }

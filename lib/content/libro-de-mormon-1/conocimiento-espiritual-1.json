@@ -46,19 +46,97 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Nefi no tenía todas las respuestas cuando el Señor le mandó ir por las planchas. Tampoco entendía por qué tenía que hacer otras planchas. Pero actuó de todas formas. Y el Señor cumplió Su parte. Actuar con fe no es pretender que no tenés preguntas. Es elegir confiar en Dios mientras seguís buscando. Esta semana, si surge una pregunta difícil, no la ignorés ni te alejes. Llevala al Señor, seguí guardando los mandamientos, y aferrate a lo que ya sabés que es verdad."
+      "contenido": "Nefi no tenía todas las respuestas cuando el Señor le mandó ir por las planchas, ni entendía para qué debía hacer otras planchas más. Actuó igual, y el Señor cumplió Su parte. Actuar con fe no es pretender que no tenés preguntas: es elegir confiar mientras seguís buscando. Y conviene tener claro en quién se confía, porque no es una idea abstracta: es Aquel que ya prometió preparar la vía y nunca faltó a Su promesa. Esta semana, si aparece una pregunta difícil, no la ignorés ni te alejes. Llevala al Señor, seguí guardando los mandamientos y aferrate a lo que ya sabés que es verdad."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Hay alguna pregunta sobre el Evangelio o la Iglesia que hayas tenido (o tengas ahora) que no sabías muy bien cómo manejar?",
         "¿En qué se diferencia actuar con fe de simplemente ignorar las dudas o fingir que no existen?",
-        "Nefi obedeció el mandamiento de hacer planchas aunque no entendía el propósito. ¿Hubo algo en tu vida donde actuaste con fe antes de entenderlo todo? ¿Qué pasó?",
+        "Volvé a leer 1 Nefi 9:5–6 y fijate qué admite Nefi que no sabe. ¿Cómo hace para obedecer con tanta seguridad algo que no entiende?",
         "¿Qué recursos o fuentes usarías para buscar respuestas a preguntas difíciles sobre la Iglesia? ¿Los usás realmente?",
         "Esta semana, ¿hay alguna pregunta que podrías llevar al Señor en oración, en serio, esperando una respuesta?",
         "¿Qué significa para vos la frase del presidente Uchtdorf: 'dudá de tus dudas antes de dudar de tu fe'? ¿Cómo lo aplicarías?"
       ]
     }
   ],
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "El presidente Uchtdorf invitó a 'dudar de las dudas antes de dudar de la fe'. ¿A qué tipo específico de preguntas sobre el Evangelio se refería esta lección?",
+      "options": [
+        "Únicamente a las preguntas que tienen respuesta en las Escrituras",
+        "Solo a las preguntas que surgen de la lectura de fuentes anti-mormonas",
+        "A cualquier pregunta sobre el Evangelio, cualquiera sea su motivo",
+        "Solo a las preguntas sobre historia de la Iglesia, no sobre doctrina"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "Según 1 Nefi 3:7, Nefi expresó confianza en que el Señor prepara la vía. Pero en esta lección, este versículo se usa para ilustrar qué principio sobre el conocimiento espiritual específicamente.",
+      "options": [
+        "Que debemos buscar señales milagrosas antes de actuar en situaciones difíciles",
+        "Que el Señor siempre responde las preguntas antes de que demos el primer paso",
+        "Que el conocimiento espiritual llega sin que hagamos ningún esfuerzo",
+        "Que actuar con fe es el primer principio para el conocimiento espiritual"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "La lección describe cuatro razones por las que alguien podría tener preguntas sobre el Evangelio. ¿Por qué el manual enfatiza que cualquiera de esas razones 'podría ser correcta o incorrecta dependiendo de la actitud de la persona'?",
+      "options": [
+        "Porque lo que determina si una pregunta fortalece o debilita la fe no es el tema sino cómo decidimos manejarla",
+        "Porque las preguntas motivadas por curiosidad intelectual son siempre peligrosas para la fe",
+        "Porque la razón detrás de una pregunta es irrelevante para el crecimiento espiritual",
+        "Porque las preguntas honestamente son siempre buenas, sin importar la actitud"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "El presidente Nelson invitó a 'estudiar con el deseo de creer más que con la esperanza de encontrar una falla'. ¿Cómo cambiaría esa actitud los resultados del estudio del Evangelio?",
+      "options": [
+        "No cambiaría nada porque la verdad es la misma independientemente de la actitud del estudiante",
+        "Una búsqueda sincera abre el corazón al Espíritu, mientras que buscar fallas lo va cerrando",
+        "Estudiar para encontrar fallas es en realidad más honesto intelectualmente que estudiar con fe",
+        "La actitud solo importa para personas emocionalmente débiles, no para quienes razonan bien"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Valentina encontró en internet un artículo que cuestiona un aspecto de la historia de la Iglesia. Lo leyó y ahora siente que toda su fe se derrumba. Según el primer principio para adquirir conocimiento espiritual, ¿cuál sería el primer paso recomendado?",
+      "options": [
+        "Pedir a alguien que le explique el tema sin leer nada al respecto ella misma",
+        "Dejar de investigar el tema para proteger su fe",
+        "Aferrarse a lo que ya sabe que es verdad mientras busca respuestas",
+        "Aceptar las conclusiones del artículo porque fueron publicadas en internet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Mateo tiene una pregunta que no puede resolver sobre por qué Dios permitió algo difícil en su vida. Sus amigos le dicen que si Dios fuera bueno, no habría permitido eso. Según 1 Nefi 9:5–6, ¿qué perspectiva podría ayudar a Mateo?",
+      "options": [
+        "Que Mateo debería buscar otra religión que explique mejor el sufrimiento",
+        "Que las preguntas sobre el sufrimiento nunca tienen respuesta, así que es mejor no hacerlas",
+        "Que las dificultades de la vida prueban que Dios no existe",
+        "Que el Señor sabe todas las cosas desde el principio y ya preparó el camino"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "Tanto el presidente Uchtdorf ('duda de tus dudas antes de dudar de tu fe') como el presidente Nelson ('estudia con el deseo de creer') enseñan sobre cómo manejar preguntas difíciles. ¿Cuál es el principio común que une ambas invitaciones?",
+      "options": [
+        "Que la actitud con que enfrentamos las preguntas determina si nos acercan o alejan de Cristo",
+        "Que las preguntas solo son válidas si ya tenemos la respuesta antes de hacerlas",
+        "Que la duda y la fe son estados permanentes que no pueden coexistir en la misma persona",
+        "Que debemos suprimir las preguntas difíciles para proteger la fe"
+      ],
+      "correctAnswer": 0
+    }
+  ]
 }

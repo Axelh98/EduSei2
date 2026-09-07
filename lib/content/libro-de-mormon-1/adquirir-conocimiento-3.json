@@ -41,17 +41,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Las fuentes que elegís para buscar respuestas espirituales marcan la diferencia entre fortalecer tu fe y debilitarla. El Padre Celestial no te dejó sin guía: te dio Escrituras, profetas, el Espíritu Santo, y personas confiables a tu alrededor. Buscar en esas fuentes no es ingenuidad. Es sabiduría. La próxima vez que tengas una pregunta difícil sobre el Evangelio, antes de buscar en cualquier lugar de internet, preguntate: ¿estoy yendo a una fuente que me quiere acercar a Cristo, o a una que puede estar diseñada para alejarme de Él?"
+      "contenido": "Las fuentes que elegís para buscar respuestas espirituales marcan la diferencia entre fortalecer tu fe y debilitarla. El Padre Celestial no te dejó sin guía: te dio las Escrituras, profetas, el Espíritu Santo y personas confiables alrededor. Buscar ahí no es ingenuidad, es criterio. Y hay una prueba simple que Jacob le aplicó a Sherem: las Escrituras testifican de Cristo, así que una fuente que te aleja de Él está fallando el examen, por más sofisticada que suene. La próxima vez que tengas una pregunta difícil, antes de buscar en cualquier lado, preguntate si esa fuente te acerca a Su misericordia o te aleja de ella."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿A qué fuentes recurrís normalmente cuando tenés preguntas sobre el Evangelio o la Iglesia? ¿Por qué?",
         "¿Qué diferencia notás entre buscar en fuentes divinamente señaladas y buscar en cualquier fuente de internet?",
-        "Jacob respondió a Sherem desde su experiencia con las Escrituras y el Espíritu, no desde argumentos humanos. ¿Cómo aplicarías eso si alguien te desafiara tu fe?",
+        "Buscá en Jacob 7:10–12 qué le contesta Jacob a Sherem cuando este afirma que cree en las Escrituras. ¿Qué le dice que no está entendiendo?",
         "¿Hubo alguna vez en que una fuente confiable —un líder, las Escrituras, el Espíritu— te dio una respuesta que no esperabas pero que fue justo lo que necesitabas?",
         "¿Qué harías esta semana si encontraras algo en internet que pusiera en duda algo de lo que creés?",
-        "¿Cómo explicarías a alguien que no es miembro por qué elegís ciertas fuentes por encima de otras para buscar respuestas espirituales?"
+        "La próxima vez que algo que leas te sacuda la fe, antes de salir a buscar más información, pará y orá. Anotá esta semana qué diferencia notás entre resolver una duda desde la ansiedad y resolverla desde la calma."
       ]
     }
   ],
@@ -71,29 +71,29 @@
       "id": 2,
       "question": "Según el presidente Eyring, ¿qué tipo de verdades solo pueden confirmarse mediante revelación de Dios?",
       "options": [
+        "Únicamente las verdades contenidas en las Escrituras canónicas",
         "Las verdades sobre historia y ciencias naturales que la razón no puede alcanzar",
         "Las verdades más importantes, especialmente las que indican el camino para volver a Dios",
-        "Solo las verdades sobre el Plan de Salvación y la vida después de la muerte",
-        "Únicamente las verdades contenidas en las Escrituras canónicas"
+        "Solo las verdades sobre el Plan de Salvación y la vida después de la muerte"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Jacob enfrentó a Sherem usando las Escrituras, las revelaciones y el Espíritu Santo. ¿Por qué ese conjunto de fuentes fue más efectivo que simplemente responder con argumentos intelectuales?",
       "options": [
-        "Porque Jacob era más inteligente que Sherem y sabía más argumentos lógicos",
-        "Porque las fuentes divinamente señaladas acceden a una verdad que trasciende el debate intelectual y puede ser confirmada por el Espíritu al que escucha",
         "Porque Sherem era deshonesto y los argumentos intelectuales nunca convencen a personas deshonestas",
-        "Porque las fuentes divinamente señaladas dan al hablante más credibilidad social"
+        "Porque las fuentes divinamente señaladas dan al hablante más credibilidad social",
+        "Porque Jacob era más inteligente que Sherem y sabía más argumentos lógicos",
+        "Porque esas fuentes acceden a una verdad que el Espíritu puede confirmar al que escucha"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "El presidente Nelson dijo que 'muy pocas personas saben adónde acudir en busca de la verdad'. ¿Por qué eso es especialmente problemático en la época actual con acceso a tanta información?",
       "options": [
-        "Porque hay más información pero no necesariamente más sabiduría para evaluar qué fuentes son confiables",
+        "Porque hay más información pero no más sabiduría para evaluar qué fuentes sirven",
         "Porque la abundancia de información garantiza que alguien siempre diga la verdad",
         "Porque el acceso a información hace innecesario buscar la guía del Espíritu",
         "Porque más información significa más dudas y la Iglesia debería limitar el acceso a internet"
@@ -105,7 +105,7 @@
       "question": "Sofía encontró un video de YouTube que critica la Iglesia y lo compartió con sus amigos diciendo 'aquí hay evidencia'. Según el principio de las fuentes divinamente señaladas, ¿qué reflexión le faltó antes de compartirlo?",
       "options": [
         "Verificar que el video estuviera en español antes de compartirlo",
-        "Preguntar si la fuente tiene el propósito de acercar a Cristo o de sembrar dudas, y contrastar con fuentes confiables antes de sacar conclusiones",
+        "Preguntar si la fuente acerca a Cristo o siembra dudas antes de concluir",
         "Consultar con el obispo para saber si es apropiado compartir ese tipo de contenido",
         "Esperar que alguien con más experiencia viera el video primero"
       ],
@@ -115,23 +115,23 @@
       "id": 6,
       "question": "Tomás tiene una pregunta sobre la Iglesia que lo está perturbando. Según el tercer principio para adquirir conocimiento espiritual, ¿cuál sería el proceso correcto para buscar respuesta?",
       "options": [
+        "Decidir que si no encuentra la respuesta fácilmente, la pregunta no tiene respuesta",
         "Publicar la pregunta en redes sociales para ver qué responden los demás",
-        "Buscar la respuesta en las Escrituras, consultar con líderes confiables, orar al respecto, y evaluar las respuestas con el Espíritu Santo",
-        "Esperar a que la pregunta se resuelva sola con el tiempo",
-        "Decidir que si no encuentra la respuesta fácilmente, la pregunta no tiene respuesta"
+        "Buscar en las Escrituras, consultar a líderes confiables y orar al respecto",
+        "Esperar a que la pregunta se resuelva sola con el tiempo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Los tres principios para adquirir conocimiento espiritual son: actuar con fe (Parte 1), analizar con perspectiva eterna (Parte 2), y buscar en fuentes divinamente señaladas (Parte 3). ¿Por qué los tres son necesarios y ninguno es suficiente por sí solo?",
       "options": [
-        "Son redundantes y cualquiera de los tres por separado lleva al mismo resultado",
-        "Actuar con fe sin perspectiva eterna puede ser impulsivo; la perspectiva eterna sin fuentes confiables puede desviarse; las fuentes sin fe activa pueden volverse solo académicas. Juntos forman un sistema completo",
         "El tercero reemplaza a los dos primeros porque las fuentes correctas lo resuelven todo",
-        "El primero es el más importante y los otros dos son solo complementarios opcionales"
+        "El primero es el más importante y los otros dos son solo complementarios opcionales",
+        "Son redundantes y cualquiera de los tres por separado lleva al mismo resultado",
+        "Actuar con fe sin perspectiva eterna puede ser impulsivo; la perspectiva eterna sin fuentes confiables puede desviarse; las fuentes sin fe activa pueden volverse solo académicas. Juntos forman un sistema completo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

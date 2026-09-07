@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El Señor escucha las oraciones de Sus hijos aun cuando la respuesta no llega inmediatamente. Las experiencias de los pueblos de Limhi y Alma enseñan que Dios puede fortalecer el corazón y aliviar las cargas incluso antes de eliminar las pruebas. Jesucristo comprende perfectamente nuestras aflicciones y promete acompañarnos en medio de ellas. Cuando confiamos en Él y permanecemos fieles, recibimos fortaleza espiritual para continuar adelante con esperanza."
+      "contenido": "El Señor escucha las oraciones de Sus hijos aun cuando la respuesta no llega enseguida. Lo que vivieron los pueblos de Limhi y de Alma enseña que Dios puede fortalecer el corazón y aliviar las cargas antes de sacar la prueba, y a veces sin sacarla nunca. Fijate en la promesa exacta de Mosíah 24:14: no dijo que les quitaría el peso, dijo que no lo iban a sentir. Jesucristo entiende esas aflicciones desde adentro, porque las cargó primero; por Su poder es que el peso deja de ser lo que decide tu día. Cuando confiamos en Él y seguimos fieles, la fortaleza llega antes que el alivio."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué palabra usarías para describir cómo se sentían el pueblo de Limhi y el pueblo de Alma mientras esperaban ser liberados: cansados, con fe, enojados, resignados?",
         "¿Qué diferencia hay entre que Dios te saque de un problema y que Dios te dé fuerzas para atravesarlo?",
-        "¿Alguna vez oraste pidiendo que un problema desapareciera y, en cambio, sentiste que te daban fuerzas para aguantarlo un poco más?",
+        "Volvé a leer Mosíah 24:14 y prestá atención a lo que el Señor promete exactamente. ¿Prometió sacarles la carga, o algo distinto?",
         "¿Qué carga estás llevando ahora mismo en la que te vendría bien sentir esa clase de fortaleza?",
         "¿Qué vas a hacer esta semana, en vez de solo esperar, mientras esa carga sigue ahí?",
-        "¿A quién podrías contarle esta semana lo que estás cargando, para no llevarlo completamente solo?"
+        "Escribí en un papel la carga que estás llevando, tal cual es, sin arreglarla. Orá con ese papel delante durante la semana y anotá si lo que cambia es el peso o tus hombros."
       ]
     }
   ],
@@ -54,12 +54,12 @@
       "question": "¿Cómo ayudó el Señor al pueblo de Alma en su cautiverio?",
       "type": "multiple",
       "options": [
-        "Alivió sus cargas para que las llevaran con facilidad",
-        "Los liberó de inmediato sin que pasaran por ninguna prueba",
         "Envió un ejército celestial a pelear en su lugar",
-        "Les prometió solamente palabras de consuelo sin acción real"
+        "Les prometió solamente palabras de consuelo sin acción real",
+        "Alivió sus cargas para que las llevaran con facilidad",
+        "Los liberó de inmediato sin que pasaran por ninguna prueba"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Mosíah 24:14-15",
       "explanation": "El Señor alivió las cargas del pueblo de Alma para que las llevaran con facilidad."
     },
@@ -68,12 +68,12 @@
       "question": "¿Qué prometió el Señor hacer por el pueblo de Alma?",
       "type": "multiple",
       "options": [
+        "Hacer que sus enemigos desaparecieran sin dejar rastro",
         "Evitarles por completo cualquier tipo de prueba futura",
         "Darles riquezas materiales como recompensa inmediata",
-        "Librarlos de la servidumbre en Su propio tiempo",
-        "Hacer que sus enemigos desaparecieran sin dejar rastro"
+        "Librarlos de la servidumbre en Su propio tiempo"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "reference": "Mosíah 24:16",
       "explanation": "El Señor prometió librarlos de la servidumbre en Su propio tiempo."
     },
@@ -82,12 +82,12 @@
       "question": "¿Por qué fortalece el Señor a veces en vez de quitar las pruebas?",
       "type": "multiple",
       "options": [
+        "Para que crezcamos y aprendamos a confiar en Él",
         "Porque no tiene el poder necesario para quitarlas",
         "Como castigo por errores cometidos en el pasado",
-        "Sin ningún propósito claro que podamos entender",
-        "Para que crezcamos y aprendamos a confiar en Él"
+        "Sin ningún propósito claro que podamos entender"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "reference": "Mosíah 24:14",
       "explanation": "El Señor fortalece en vez de quitar las pruebas para que crezcamos y confiemos en Él."
     },
@@ -96,12 +96,12 @@
       "question": "¿Por qué el pueblo de Limhi estaba en cautiverio?",
       "type": "multiple",
       "options": [
+        "Solo a causa de una guerra sin ninguna otra razón",
         "Por las iniquidades de sus padres y las suyas propias",
         "Por una simple mala suerte sin ninguna razón espiritual",
-        "Únicamente por decisiones militares equivocadas",
-        "Solo a causa de una guerra sin ninguna otra razón"
+        "Únicamente por decisiones militares equivocadas"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Mosíah 21:2-4",
       "explanation": "El pueblo de Limhi estaba en cautiverio por las iniquidades de sus padres y las suyas propias."
     },
@@ -110,12 +110,12 @@
       "question": "Mateo siente que su carga en la escuela y en casa es demasiado pesada para seguir adelante. ¿Qué le enseña Mosíah 24:14-15 sobre esto?",
       "type": "multiple",
       "options": [
+        "Que las cargas pesadas son señal de que algo anda mal en su fe",
         "Que debe resolver todo completamente solo, sin ayuda de Dios",
         "Que Dios puede aliviar nuestras cargas para que las llevemos con más facilidad, aunque no siempre las quite",
-        "Que sus cargas desaparecerán de inmediato si ora una sola vez",
-        "Que las cargas pesadas son señal de que algo anda mal en su fe"
+        "Que sus cargas desaparecerán de inmediato si ora una sola vez"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Mosíah 24:14-15",
       "explanation": "Dios puede aliviar nuestras cargas para que las llevemos con más facilidad, aunque no siempre las quite por completo."
     },
@@ -138,12 +138,12 @@
       "question": "¿Qué relación hay entre 'aliviar las cargas' y 'fortalecer para las pruebas', ambas formas en que Dios ayudó a Su pueblo?",
       "type": "multiple",
       "options": [
-        "No tienen relación alguna entre sí",
         "Ambas muestran que la ayuda de Dios no siempre elimina la dificultad, sino que la hace llevadera",
         "Solo aliviar las cargas es una forma real de ayuda de Dios",
-        "Fortalecer para las pruebas contradice la idea de aliviar cargas"
+        "Fortalecer para las pruebas contradice la idea de aliviar cargas",
+        "No tienen relación alguna entre sí"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Mosíah 24:14-15",
       "explanation": "Ambas formas de ayuda muestran que Dios no siempre elimina la dificultad, sino que la hace llevadera."
     }

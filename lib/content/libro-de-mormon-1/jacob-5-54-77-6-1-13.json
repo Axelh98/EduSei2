@@ -41,17 +41,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Vivimos en la última fase de la alegoría: el momento de la cosecha. El Señor extiende Sus brazos todo el día hacia quienes todavía no han regresado. Y nos llama a ser Sus obreros en esa tarea. No necesitás una misión formal ni un llamamiento especial para participar. Necesitás disposición. Una conversación, un ejemplo, una invitación pueden cambiar la vida de alguien. Esta semana, el Señor necesita tus brazos extendidos también."
+      "contenido": "Vivimos en la última fase de la alegoría: el momento de la cosecha. El Señor extiende Sus brazos todo el día hacia los que todavía no volvieron, y nos llama a ser Sus obreros en esa tarea. No hace falta una misión formal ni un llamamiento especial para participar; hace falta disposición. Una conversación, un ejemplo o una invitación pueden cambiarle la vida a alguien. Y fijate a quién le extiende las manos, según Jacob: a «una gente obstinada y contenciosa». Su misericordia no espera a que la gente mejore primero, y por eso el trabajo tiene sentido. Esta semana el Señor necesita tus brazos extendidos también."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué significa para vos ser un 'obrero en la viña' en tu situación actual: en tu escuela, familia, barrio?",
         "La imagen de los brazos del Señor extendidos 'todo el día' hacia un pueblo de dura cerviz, ¿qué te dice sobre el carácter de Dios?",
-        "¿Hubo alguien que, al extenderte sus brazos hacia vos de alguna manera, te ayudó a acercarte más al Evangelio?",
+        "Fijate en Jacob 6:4–5, en el gesto que se repite: «les extiende sus manos todo el día». ¿A quiénes se las extiende, según el versículo?",
         "¿Hay alguien en tu vida que podría necesitar que alguien le extienda los brazos como lo hace el Señor? ¿Qué podrías hacer?",
         "¿Qué cosa concreta y alcanzable podrías hacer esta semana para ser parte de la obra de recogimiento?",
-        "¿Cómo te sentirías si supieras que tu esfuerzo, aunque sea pequeño, produce 'gozo' al Señor de la viña como se describe en la alegoría?"
+        "Anotá el nombre de alguien que se haya alejado y que todavía te importe. Meditá durante la semana en qué necesitaría de vos, y no en qué le dirías."
       ]
     }
   ],
@@ -60,19 +60,19 @@
       "id": 1,
       "question": "En la parte final de la alegoría (Jacob 5:61–62), el Señor convoca a sus siervos para trabajar en la viña. ¿Cuál es la condición del tiempo en ese momento final?",
       "options": [
-        "Que tienen tiempo ilimitado para completar la obra",
         "Que es 'la última vez' y el tiempo para cosechar antes de que la viña sea quemada es limitado",
         "Que es el comienzo de un nuevo ciclo y tienen todo el tiempo que necesiten",
-        "Que el tiempo ya terminó y solo pueden observar el resultado"
+        "Que el tiempo ya terminó y solo pueden observar el resultado",
+        "Que tienen tiempo ilimitado para completar la obra"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "Según Jacob 6:4–5, ¿cuál es la imagen que usa para describir cómo el Señor se relaciona con Su pueblo que todavía no regresó?",
       "options": [
         "El Señor espera sentado que el pueblo tome la iniciativa de regresar a Él",
-        "El Señor extiende Sus brazos hacia ellos todo el día, aunque sean un pueblo de dura cerviz",
+        "El Señor extiende Sus brazos hacia ellos todo el día, aunque sean de dura cerviz",
         "El Señor envía mensajeros cada cierta cantidad de años para invitar al pueblo a regresar",
         "El Señor ya cerró la puerta, pero puede reabrirla si el pueblo ora suficientemente"
       ],
@@ -82,41 +82,41 @@
       "id": 3,
       "question": "El presidente Nelson dijo que 'hoy necesitamos a cada miembro de la Iglesia haciendo su parte para recoger a Israel'. ¿Cómo conecta ese llamado con la imagen de los siervos en Jacob 5:61–62?",
       "options": [
+        "Los siervos de la alegoría solo representan a los profetas de la Iglesia, no a los miembros ordinarios",
         "El presidente Nelson habla de un trabajo futuro, mientras que Jacob 5 describe solo el pasado",
-        "Somos los siervos de esta dispensación final; la alegoría describe exactamente el tiempo en que vivimos, y el llamado a trabajar aplica a cada miembro, no solo a los líderes",
-        "El trabajo de recoger a Israel es responsabilidad exclusiva de los misioneros a tiempo completo",
-        "Los siervos de la alegoría solo representan a los profetas de la Iglesia, no a los miembros ordinarios"
+        "Somos los siervos de esta dispensación final, y el llamado a trabajar alcanza a cada miembro hoy",
+        "El trabajo de recoger a Israel es responsabilidad exclusiva de los misioneros a tiempo completo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "Jacob 6:12 llama a 'reconciliarse con Dios por medio de la expiación de Cristo'. ¿Por qué ese llamado viene después de la alegoría de la viña y no antes?",
       "options": [
-        "Es solo el orden literario del texto y no tiene significado doctrinal especial",
-        "Después de ver cuánto ha trabajado el Señor por nosotros en la alegoría, la invitación a reconciliarnos se convierte en respuesta natural al amor que Él ya demostró",
         "La alegoría es solo una introducción al verdadero mensaje de Jacob 6, que es sobre la Expiación",
-        "Jacob 6 es un texto independiente que no tiene relación con la alegoría del capítulo 5"
+        "Jacob 6 es un texto independiente que no tiene relación con la alegoría del capítulo 5",
+        "Es solo el orden literario del texto y no tiene significado doctrinal especial",
+        "Ver cuánto trabajó el Señor por nosotros vuelve natural la invitación a reconciliarnos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Tomás se siente cómodo en la Iglesia pero no habla del Evangelio con nadie fuera de ella. Según el principio de esta lección sobre ser obreros en la viña, ¿qué paso pequeño pero concreto podría dar esta semana?",
       "options": [
-        "Esperar a que alguien le pregunte sobre su religión antes de mencionar el Evangelio",
-        "Invitar a un amigo a una actividad de la Iglesia o compartir algo positivo que le haya enseñado el Evangelio esta semana",
+        "Invitar a un amigo a una actividad o compartir algo que le enseñó el Evangelio",
         "Hablar con el obispo para recibir un llamamiento formal de obra misional",
-        "Estudiar más la doctrina antes de sentirse listo para hablar del Evangelio con otros"
+        "Estudiar más la doctrina antes de sentirse listo para hablar del Evangelio con otros",
+        "Esperar a que alguien le pregunte sobre su religión antes de mencionar el Evangelio"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Valentina tiene una amiga que se alejó de la Iglesia hace dos años y siente que 'ya la perdió'. Según Jacob 6:4–5 (brazos extendidos todo el día), ¿qué actitud podría adoptar Valentina?",
       "options": [
         "Que tiene razón, y que después de cierto tiempo la persona ya no puede ser recuperada",
-        "Que así como el Señor extiende Sus brazos todo el día sin rendirse, ella también puede seguir siendo un lazo de conexión para su amiga, sin presionar",
+        "Que así como el Señor no se rinde, ella puede seguir siendo un lazo sin presionar",
         "Que debería hablarle del Evangelio de forma directa e insistente hasta que vuelva",
         "Que el Señor se encargará de su amiga sin que Valentina necesite hacer nada"
       ],
@@ -126,12 +126,12 @@
       "id": 7,
       "question": "La alegoría termina con gozo (Jacob 5:75): 'tenemos gozo en el fruto de nuestra viña'. Jacob 6 llama a reconciliarse con Dios. ¿Qué visión completa del tiempo presente emergen al combinar esas dos imágenes?",
       "options": [
+        "Que el gozo de la viña es solo para los que trabajaron en ella, no para los que son recogidos",
         "Que vivimos en el final de los tiempos y todo esfuerzo humano es fútil",
-        "Que vivimos en el tiempo de la cosecha: hay urgencia (el tiempo es limitado), hay gozo posible (el fruto puede ser bueno), y hay una invitación abierta (brazos extendidos) para todos",
-        "Que la alegoría terminó y ahora estamos solo en el período de espera hasta la Segunda Venida",
-        "Que el gozo de la viña es solo para los que trabajaron en ella, no para los que son recogidos"
+        "Que vivimos el tiempo de la cosecha: hay urgencia, gozo posible e invitación abierta",
+        "Que la alegoría terminó y ahora estamos solo en el período de espera hasta la Segunda Venida"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

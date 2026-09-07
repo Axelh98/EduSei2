@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "¿Cuánto tiempo y esfuerzo estás dispuesto a poner en algo antes de rendirte? La alegoría del olivo en Jacob 5 muestra a un Señor de la viña que no se rinde. Nunca. El profeta Zenós describe siglos de historia del pueblo de Dios como un jardinero que trabaja sin descanso para que su árbol dé fruto. Poda. Trasplanta. Injerta. Regresa una y otra vez. Y cuando el árbol produce fruto amargo después de todo ese esfuerzo, la reacción del Señor de la viña no es enojo ni abandono. Es dolor: '¿Qué más pude haber hecho por mi viña?'. Esa pregunta es una de las más conmovedoras de toda la Escritura. Dios preguntando si hizo suficiente. No como excusa, sino como expresión de amor genuino. El árbol en la alegoría representa a Israel, al pueblo de Dios. Pero también representa a cada persona. A vos. El Señor trabaja en tu vida con la misma paciencia. Cuando producís fruto amargo —cuando cometés errores, cuando te alejás— Él no cancela el trabajo. Sigue podando, sigue nutriendo, sigue buscando la manera de que des fruto bueno. Eso es lo que hace un jardinero que realmente ama lo que cuida."
+      "contenido": "¿Cuánto tiempo y esfuerzo estás dispuesto a poner en algo antes de rendirte? La alegoría del olivo, en Jacob 5, muestra a un Señor de la viña que no se rinde nunca. El profeta Zenós cuenta siglos de historia del pueblo de Dios como si fueran el trabajo de un jardinero que no para: poda, trasplanta, injerta, vuelve una y otra vez. Y cuando el árbol da fruto amargo después de todo ese esfuerzo, la reacción no es enojo ni abandono. Es dolor. El texto dice que «el Señor de la viña lloró», y preguntó: «¿Qué más pude haber hecho por mi viña?». Esa pregunta es una de las más conmovedoras de toda la Escritura: Dios preguntando si hizo suficiente. No como excusa, sino como expresión de amor genuino. Y conviene decir quién es el que llora, porque la alegoría no lo deja librado a la interpretación: el Señor de la viña es Jesucristo. El que poda, injerta y vuelve a intentarlo es el mismo que después dio Su vida por ese árbol. Eso cambia el tono de todo el capítulo. El olivo representa a Israel, al pueblo del convenio, pero también a cada persona. A vos. El Salvador trabaja en tu vida con esa misma paciencia, y cuando producís fruto amargo —cuando cometés errores, cuando te alejás— no cancela el trabajo. Sigue podando, sigue nutriendo, sigue buscando la manera de que des fruto bueno. Un jardinero cualquiera arranca el árbol que no rinde y planta otro. Este no: ya pagó por el que tiene, y por eso vuelve. Cuando sientas que ya gastaste todas tus oportunidades, acordate de quién es el que está podando."
     },
     {
       "tipo": "escrituras",
@@ -46,17 +46,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La pregunta del Señor de la viña —'¿Qué más pude haber hecho?'— no es una acusación. Es la expresión de un Padre que amó hasta el límite y no encontró ese límite. Dios no se cansa de trabajar en tu vida. Cada prueba que enfrentás, cada oportunidad de crecer, cada momento en que el Espíritu te invita a cambiar, es parte de ese trabajo constante. La única pregunta es si estás dispuesto a colaborar con el Jardinero o si vas a resistir la poda que te ayudaría a dar fruto."
+      "contenido": "La pregunta del Señor de la viña —«¿Qué más pude haber hecho?»— no es una acusación. Es la expresión de Alguien que amó hasta el límite y no encontró ese límite. Jesucristo no se cansa de trabajar en tu vida: cada prueba, cada oportunidad de crecer, cada momento en que el Espíritu te invita a cambiar es parte de ese trabajo constante, y todo se sostiene en Su sacrificio por el árbol que cuida. La única pregunta que queda abierta es de tu lado: si vas a colaborar con Él o si vas a resistir la poda que justamente te ayudaría a dar fruto. Elegí un área donde sabés que hay poda pendiente y no la esquives esta semana."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te llama más la atención de la alegoría: la paciencia del Señor de la viña o el fruto amargo del árbol? ¿Por qué?",
         "¿Cómo te hace sentir que el Señor de la viña llore por su árbol en lugar de enojarse?",
-        "¿En qué momento de tu vida sentiste que Dios estaba 'podando' algo para ayudarte a crecer, aunque en el momento doliera?",
-        "La viña da fruto amargo a pesar de todos los cuidados del Señor. ¿Qué cosas de tu entorno o de tus hábitos podrían estar produciendo 'fruto amargo' sin que lo notes?",
-        "¿Qué cosa concreta podrías hacer esta semana para 'colaborar con el Jardinero' en tu propia vida espiritual?",
-        "¿Cómo cambiaría tu actitud ante las pruebas si las vieras como parte del trabajo del Señor en tu vida, en lugar de como castigo o mala suerte?"
+        "Volvé a leer Jacob 5:41 sabiendo que el Señor de la viña representa a Jesucristo. ¿Qué le agrega esa identificación a la pregunta que hace ahí?",
+        "¿En qué momento de tu vida sentiste que Dios estaba «podando» algo para ayudarte a crecer, aunque en ese momento doliera?",
+        "¿Qué cosa concreta podrías hacer esta semana para «colaborar con el Jardinero» en tu propia vida espiritual?",
+        "Meditá esta semana en una prueba que estés atravesando y anotá qué podría estar podando el Salvador a través de ella."
       ]
     }
   ],
@@ -65,34 +65,34 @@
       "id": 1,
       "question": "En la alegoría de Zenós, ¿qué pregunta dice el Señor de la viña después de ver que el olivo sigue produciendo fruto malo a pesar de todos sus esfuerzos?",
       "options": [
+        "'¿Deberíamos trasplantar el árbol a otro lugar?'",
         "'¿Cuánto tiempo más les daré antes de cortar el árbol?'",
         "'¿Qué más pude haber hecho por mi viña?'",
-        "'¿Por qué no siguieron las instrucciones que les di?'",
-        "'¿Deberíamos trasplantar el árbol a otro lugar?'"
+        "'¿Por qué no siguieron las instrucciones que les di?'"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Qué representan el olivo cultivado y el olivo silvestre en la alegoría de Zenós, según Jacob?",
       "options": [
-        "La Iglesia de Jesucristo y la iglesia apostata respectivamente",
-        "La casa de Israel y las naciones gentiles respectivamente",
         "Los lamanitas y los nefitas respectivamente",
-        "Los justos y los pecadores dentro del pueblo de Israel"
+        "Los justos y los pecadores dentro del pueblo de Israel",
+        "La Iglesia de Jesucristo y la iglesia apostata respectivamente",
+        "La casa de Israel y las naciones gentiles respectivamente"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "El Señor de la viña llora por ella en Jacob 5:41 y 5:47. ¿Por qué es doctrinalmente significativo que el texto describa al Señor llorando por el pueblo, incluso después de tanto esfuerzo sin resultados?",
       "options": [
-        "Muestra que el Señor es vulnerable y no tiene control total sobre el resultado de Su obra",
         "Revela que el amor de Dios por Sus hijos no se agota por sus rebeliones repetidas, y que el sufrimiento de Sus hijos le afecta profundamente",
         "Indica que el Señor cometió errores al cuidar la viña que lo llevan a arrepentirse",
-        "Sugiere que las emociones humanas como el llanto son características divinas que debemos imitar"
+        "Sugiere que las emociones humanas como el llanto son características divinas que debemos imitar",
+        "Muestra que el Señor es vulnerable y no tiene control total sobre el resultado de Su obra"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -109,34 +109,34 @@
       "id": 5,
       "question": "Camila está pasando por una etapa muy difícil: cambió de escuela, sus amigos se alejaron, y siente que Dios la olvidó. Según el principio de la alegoría del olivo, ¿qué perspectiva podría cambiar su interpretación?",
       "options": [
+        "Que debería resignarse a que la vida a veces no tiene propósito y seguir adelante sin buscar significado",
         "Que los cambios difíciles son señal de que no está en el lugar correcto y debería irse",
         "Que el Señor de la viña trabaja más, no menos, en los momentos de trasplante; los cambios dolorosos pueden ser parte de Su cuidado activo",
-        "Que si Dios la amara, no permitiría que esos cambios ocurrieran",
-        "Que debería resignarse a que la vida a veces no tiene propósito y seguir adelante sin buscar significado"
+        "Que si Dios la amara, no permitiría que esos cambios ocurrieran"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Luca ha cometido errores repetidamente y siente que 'ya es un caso perdido para Dios'. Según el comportamiento del Señor de la viña en Jacob 5, ¿qué le diría la alegoría sobre cómo Dios lo ve?",
       "options": [
-        "Que después de un cierto número de errores repetidos, el Señor efectivamente corta el árbol",
-        "Que el Señor sigue trabajando en él con paciencia, llorando por su situación y buscando maneras de ayudarlo a dar fruto bueno",
         "Que Dios lo ve igual que a todos los demás y no le presta atención especial",
-        "Que la alegoría aplica a naciones enteras, no a individuos específicos como Luca"
+        "Que la alegoría aplica a naciones enteras, no a individuos específicos como Luca",
+        "Que después de un cierto número de errores repetidos, el Señor efectivamente corta el árbol",
+        "Que el Señor sigue trabajando en él con paciencia, llorando por su situación y buscando maneras de ayudarlo a dar fruto bueno"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "El élder Holland dijo que la alegoría es 'el testimonio más grande de la paciencia y el amor de Dios'. ¿Qué característica específica de la alegoría justifica esa afirmación?",
       "options": [
-        "Que describe muchos tipos diferentes de árboles y métodos de cultivo, mostrando la sabiduría agrícola del Señor",
         "Que el Señor de la viña nunca abandona el trabajo aunque los resultados son repetidamente decepcionantes, y cada nueva temporada busca otra forma de ayudar al árbol",
         "Que la alegoría predice con exactitud eventos históricos del pueblo de Israel",
-        "Que muestra que eventualmente todos los árboles dan fruto bueno si el Señor trabaja suficiente tiempo en ellos"
+        "Que muestra que eventualmente todos los árboles dan fruto bueno si el Señor trabaja suficiente tiempo en ellos",
+        "Que describe muchos tipos diferentes de árboles y métodos de cultivo, mostrando la sabiduría agrícola del Señor"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

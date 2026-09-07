@@ -34,10 +34,10 @@
       "preguntas": [
         "¿Qué palabra usarías para describir al \"hombre natural\" del que habla Mosíah 3:19?",
         "¿Te acordás en qué momento de tu vida escuchaste por primera vez Mosíah 4:9?",
-        "¿En qué área de tu vida sentís que el \"hombre natural\" se impone más seguido?",
+        "Releé Mosíah 18:8–10 y separá lo que promete el que se bautiza de lo que promete el Señor. ¿Cuál de las dos listas es más larga?",
         "¿Qué relación ves entre \"creer en Dios\" (Mosíah 4:9) y lograr \"despojarte del hombre natural\" (Mosíah 3:19)?",
         "Elegí un área donde querés vencer al hombre natural esta semana. ¿Qué paso concreto vas a dar?",
-        "¿A quién podrías explicarle esta semana, con tus propias palabras, qué significan estos dos versículos?"
+        "Tomá los tres pasajes de este repaso y anotá al lado de cada uno una situación real donde te habría servido. Orá por la que todavía no terminaste de resolver."
       ]
     }
   ],
@@ -47,12 +47,12 @@
       "question": "¿Cuántos pasajes de dominio has memorizado completamente?",
       "type": "multiple",
       "options": [
+        "La mayoría o todos los estudiados hasta ahora",
         "Ninguno todavía, apenas estoy comenzando a repasarlos",
         "Solamente uno o dos de los más recientes",
-        "No logro recordar con precisión cuántos son",
-        "La mayoría o todos los estudiados hasta ahora"
+        "No logro recordar con precisión cuántos son"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "explanation": "Se espera que hayas memorizado la mayoría o todos los pasajes estudiados hasta ahora."
     },
     {
@@ -60,12 +60,12 @@
       "question": "¿Cómo puedes usar los pasajes de dominio para enseñar a otros?",
       "type": "multiple",
       "options": [
+        "Criticando a quienes todavía no los conocen",
         "Compartiendo el pasaje y tu testimonio de su verdad",
         "No es posible usarlos realmente para enseñar a nadie",
-        "Recitándolos sin ofrecer ninguna explicación adicional",
-        "Criticando a quienes todavía no los conocen"
+        "Recitándolos sin ofrecer ninguna explicación adicional"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "D. y C. 100:5-6",
       "explanation": "Puedes usarlos compartiendo el pasaje junto con tu testimonio de su verdad."
     },
@@ -87,12 +87,12 @@
       "question": "¿Cómo nos preparan estos versículos para ser mejores misioneros?",
       "type": "multiple",
       "options": [
-        "Nos dan un fundamento doctrinal para enseñar y testificar",
         "En realidad no nos preparan de ninguna manera",
         "Solamente sirven para el propósito de memorizarlos",
-        "No tienen ese propósito según el programa de Seminario"
+        "No tienen ese propósito según el programa de Seminario",
+        "Nos dan un fundamento doctrinal para enseñar y testificar"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "Nos dan un fundamento doctrinal sólido para enseñar y testificar como misioneros."
     },
     {
@@ -100,12 +100,12 @@
       "question": "Guadalupe quiere ser mejor misionera pero siente que no sabe suficiente doctrina todavía. ¿Qué le mostrarías sobre el propósito de los pasajes de dominio?",
       "type": "multiple",
       "options": [
+        "Que le dan un fundamento doctrinal sólido para enseñar y testificar con confianza",
         "Que debe esperar a saber toda la doctrina antes de compartir algo",
         "Que los pasajes de dominio no tienen relación con la labor misional",
-        "Que solo los misioneros de tiempo completo los necesitan",
-        "Que le dan un fundamento doctrinal sólido para enseñar y testificar con confianza"
+        "Que solo los misioneros de tiempo completo los necesitan"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "explanation": "Los pasajes de dominio dan un fundamento doctrinal sólido para enseñar y testificar con confianza."
     },
     {

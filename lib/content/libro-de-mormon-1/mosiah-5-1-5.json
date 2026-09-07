@@ -12,6 +12,16 @@
           "referencia": "Mosíah 5:2",
           "texto": "Y todos clamaron a una voz, diciendo: Sí, creemos todas las palabras que nos has hablado; y además, sabemos de su certeza y verdad por el Espíritu del Señor Omnipotente, el cual ha efectuado un potente cambio en nosotros, o sea, en nuestros corazones, por lo que ya no tenemos más disposición a obrar mal, sino a hacer lo bueno continuamente.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=spa&id=p2#p2"
+        },
+        {
+          "referencia": "Mosíah 4:3",
+          "texto": "Y aconteció que después de que hubieron hablado estas palabras, el Espíritu del Señor descendió sobre ellos, y fueron llenos de gozo, habiendo recibido la remisión de sus pecados, y teniendo paz de conciencia a causa de la gran fe que tenían en Jesucristo que había de venir, según las palabras que el rey Benjamín les había hablado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Alma 5:14",
+          "texto": "Y ahora os pregunto, hermanos míos de la iglesia: ¿Habéis nacido espiritualmente de Dios? ¿Habéis recibido su imagen en vuestros rostros? ¿Habéis experimentado este potente cambio en vuestros corazones?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p14#p14"
         }
       ]
     },
@@ -24,14 +34,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Un cambio de corazón es la esencia de la conversión al Evangelio. Cuando permitimos que la Expiación de Jesucristo nos limpie y nos guíe, nuestros motivos y nuestras acciones se alinean con los propósitos de Dios. Este cambio es posible para todos, sin importar nuestro pasado, porque el Espíritu de Dios tiene el poder de ablandar los corazones más endurecidos. Nuestra meta es mantener ese Espíritu con nosotros para que el cambio sea permanente y profundo."
+      "contenido": "Un cambio de corazón es la esencia de la conversión. Cuando dejamos que la expiación de Jesucristo nos limpie y nos guíe, los motivos y las acciones empiezan a alinearse con los propósitos de Dios. Y fijate cómo lo cuenta el texto: el pueblo no dice «decidimos cambiar», dice que el Espíritu del Señor obró en ellos un potente cambio. Eso es una buena noticia, porque significa que no depende de que tengas suficiente fuerza de voluntad. Ese cambio está disponible para cualquiera, sin importar el pasado, porque el Espíritu puede ablandar los corazones más duros. Lo que sí depende de vos es lo que viene después: sostenerlo."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Con qué parte de la experiencia del pueblo del rey Benjamín te identificás más: el momento de sentirse indignos, o el momento de sentir el cambio en el corazón?",
         "En una sola palabra, ¿cómo describirías lo que sentís cuando pensás en la Expiación de Jesucristo?",
-        "¿Alguna vez notaste que se te fueron las ganas de hacer algo que antes te atraía, después de esforzarte por acercarte más a Dios?",
+        "Volvé a leer Mosíah 5:2 y buscá cómo describe el pueblo lo que le pasó. ¿Dicen que decidieron cambiar, o que algo obró en ellos?",
         "¿Qué papel sentís que tuvo el Espíritu Santo en algún cambio real que hayas vivido, aunque haya sido pequeño?",
         "¿Qué disposición concreta te gustaría pedirle a Dios que cambie en vos esta semana?",
         "¿A qué hábito espiritual (orar, leer las Escrituras, ir al Seminario) le podrías dedicar unos minutos más esta semana para nutrir tu cambio de corazón?"
@@ -58,12 +68,12 @@
       "question": "¿Qué disposición perdieron después del cambio de corazón?",
       "type": "multiple",
       "options": [
-        "La disposición a orar por su familia y sus necesidades",
-        "La disposición a servir en la congregación local",
         "La disposición a obrar mal y hacer siempre lo malo",
-        "La disposición a aprender más sobre las Escrituras sagradas"
+        "La disposición a aprender más sobre las Escrituras sagradas",
+        "La disposición a orar por su familia y sus necesidades",
+        "La disposición a servir en la congregación local"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Mosíah 5:2",
       "explanation": "Perdieron la disposición a obrar mal, no la disposición a hacer el bien."
     },
@@ -86,12 +96,12 @@
       "question": "¿Qué causó el 'potente cambio' en los corazones del pueblo?",
       "type": "multiple",
       "options": [
-        "El miedo a las consecuencias de desobedecer al rey Benjamín",
         "La presión de ver a todos los demás aceptar el mensaje",
         "Su propio esfuerzo y determinación personal, sin ayuda divina",
-        "La fe en Cristo y el poder transformador del Espíritu Santo"
+        "La fe en Cristo y el poder transformador del Espíritu Santo",
+        "El miedo a las consecuencias de desobedecer al rey Benjamín"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Mosíah 5:2",
       "explanation": "El cambio vino por la fe en Cristo y el poder del Espíritu Santo, no por su propio esfuerzo."
     },
@@ -100,12 +110,12 @@
       "question": "Thiago dice que no siente ningún cambio grande después de bautizarse y se pregunta si algo anda mal. ¿Qué le explicarías con Mosíah 5:2?",
       "type": "multiple",
       "options": [
-        "Que definitivamente algo anda mal en su conversión",
-        "Que el cambio de corazón puede ser gradual y se nota en el deseo continuo de hacer el bien",
         "Que debería bautizarse de nuevo para sentir el cambio",
-        "Que el bautismo no produce ningún cambio real en la persona"
+        "Que el bautismo no produce ningún cambio real en la persona",
+        "Que definitivamente algo anda mal en su conversión",
+        "Que el cambio de corazón puede ser gradual y se nota en el deseo continuo de hacer el bien"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 5:2",
       "explanation": "El cambio de corazón puede manifestarse gradualmente en un deseo continuo de hacer el bien."
     },
@@ -128,12 +138,12 @@
       "question": "¿Qué relación hay entre el 'cambio de corazón' del versículo 2 y 'el convenio de hacer la voluntad de Dios' del versículo 5?",
       "type": "multiple",
       "options": [
-        "El convenio ocurre antes que el cambio de corazón y lo provoca",
         "No tienen ninguna relación entre sí",
         "El cambio de corazón es lo que hace posible cumplir sinceramente el convenio",
-        "Solo uno de los dos conceptos es relevante para la salvación"
+        "Solo uno de los dos conceptos es relevante para la salvación",
+        "El convenio ocurre antes que el cambio de corazón y lo provoca"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "reference": "Mosíah 5:2-5",
       "explanation": "El cambio de corazón es lo que hace posible cumplir sinceramente el convenio de hacer la voluntad de Dios."
     }

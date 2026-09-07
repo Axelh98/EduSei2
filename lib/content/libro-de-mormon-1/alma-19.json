@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Qué personaje de este relato te llamó más la atención: la reina, Abish o el propio Lamoni? ¿Por qué?",
         "¿Qué fue lo que hizo Abish apenas se dio cuenta de lo que estaba pasando en la casa del rey?",
-        "¿Alguna vez tuviste que mantenerte firme en lo que creías mientras otros a tu alrededor estaban confundidos o discutían?",
+        "Fijate en Alma 19:36, en las dos condiciones que pone el versículo para que ese brazo se extienda. ¿Cuáles son?",
         "El élder Bednar dice que la conversión es \"un proceso constante\". ¿Tu propia experiencia de fe se parece más a un cambio repentino o a un proceso lento?",
         "¿Hay alguien en tu vida a quien hayas \"descartado\" como poco probable para el Evangelio? ¿Qué podrías hacer esta semana para verlo con más esperanza?",
-        "¿Qué pequeño paso podés dar esta semana para seguir \"convirtiéndote al Señor\", línea por línea?"
+        "Meditá esta semana en cuál fue el momento en que empezaste a creer de verdad, y no solo porque te criaron así. Anotalo aunque sean tres renglones: sirve tenerlo escrito para el día que dudes."
       ]
     }
   ],
@@ -68,12 +68,12 @@
       "question": "¿Quién más experimentó una conversión poderosa?",
       "type": "multiple",
       "options": [
-        "Nadie más además del propio rey Lamoni",
-        "Únicamente el rey, sin que nadie más se convirtiera",
         "Solamente Ammón, sin ningún otro lamanita",
-        "La reina, Ammón, siervos y muchos lamanitas"
+        "La reina, Ammón, siervos y muchos lamanitas",
+        "Nadie más además del propio rey Lamoni",
+        "Únicamente el rey, sin que nadie más se convirtiera"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Alma 19:13,16,29-31",
       "explanation": "La reina, Ammón, los siervos y muchos lamanitas también experimentaron una conversión poderosa."
     },
@@ -82,12 +82,12 @@
       "question": "¿Qué hizo la reina cuando se levantó?",
       "type": "multiple",
       "options": [
+        "Permaneció completamente en silencio ante todos",
         "Se quejó amargamente de lo ocurrido con su esposo",
         "Testificó de Jesucristo y de la misericordia de Dios",
-        "Se marchó del lugar sin decir ninguna palabra",
-        "Permaneció completamente en silencio ante todos"
+        "Se marchó del lugar sin decir ninguna palabra"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 19:29",
       "explanation": "La reina testificó de Jesucristo y de la misericordia de Dios."
     },
@@ -96,12 +96,12 @@
       "question": "¿Por qué uno de los siervos intentó matar a Ammón mientras yacía junto a Lamoni?",
       "type": "multiple",
       "options": [
-        "Porque su hermano había muerto por la espada de Ammón en las aguas de Sebús",
         "Porque pensaba que Ammón había robado las pertenencias del rey",
         "Porque el propio Lamoni se lo había ordenado antes de caer",
-        "Porque temía que Ammón intentara tomar el trono"
+        "Porque temía que Ammón intentara tomar el trono",
+        "Porque su hermano había muerto por la espada de Ammón en las aguas de Sebús"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Alma 19:21-22",
       "explanation": "Uno de los hombres que había estado en las aguas de Sebús intentó matar a Ammón por venganza, ya que su hermano había muerto por la espada de Ammón al defender los rebaños."
     },
@@ -110,12 +110,12 @@
       "question": "Camila ve a alguien tener una experiencia espiritual muy fuerte y no sabe cómo interpretarlo. ¿Qué le enseña lo que le pasó al rey Lamoni?",
       "type": "multiple",
       "options": [
-        "Que ese tipo de experiencias nunca son reales",
         "Que el poder del Espíritu puede manifestarse de formas intensas cuando alguien recibe la verdad",
         "Que esas experiencias solo les ocurren a los líderes religiosos",
-        "Que debe desconfiar de cualquier experiencia espiritual intensa"
+        "Que debe desconfiar de cualquier experiencia espiritual intensa",
+        "Que ese tipo de experiencias nunca son reales"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 19:6,13",
       "explanation": "El poder del Espíritu puede manifestarse de formas intensas cuando una persona recibe la verdad con todo su corazón."
     },
@@ -124,12 +124,12 @@
       "question": "Franco tiene miedo de que su familia reaccione mal si él cambia su forma de vivir por su fe. ¿Qué muestra la reacción de la reina y los siervos ante la conversión de Lamoni?",
       "type": "multiple",
       "options": [
+        "Que la conversión de Lamoni no afectó a nadie más en su casa",
         "Que la conversión de una persona puede generar confusión al inicio, pero también inspirar a otros a creer",
         "Que la familia siempre rechaza por completo cualquier cambio espiritual",
-        "Que es mejor ocultar los cambios de fe a la familia",
-        "Que la conversión de Lamoni no afectó a nadie más en su casa"
+        "Que es mejor ocultar los cambios de fe a la familia"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 19:13-31",
       "explanation": "La conversión de Lamoni generó confusión al inicio, pero también inspiró a la reina y a muchos otros a creer."
     },
@@ -138,12 +138,12 @@
       "question": "¿Qué relación hay entre lo que le sucedió a Lamoni y la conversión posterior de la reina y muchos lamanitas?",
       "type": "multiple",
       "options": [
+        "La experiencia de Lamoni impidió que otros se acercaran a la fe",
         "No tienen relación real entre sí",
         "La experiencia de Lamoni abrió el camino para que otros también recibieran testimonio y se convirtieran",
-        "Solo la conversión de la reina tuvo importancia real",
-        "La experiencia de Lamoni impidió que otros se acercaran a la fe"
+        "Solo la conversión de la reina tuvo importancia real"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 19",
       "explanation": "La experiencia de Lamoni abrió el camino para que otros también recibieran testimonio y se convirtieran."
     }

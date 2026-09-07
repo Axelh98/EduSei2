@@ -1,6 +1,53 @@
 {
   "id": "alma-23",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Probá pararte sobre un pie durante treinta segundos y pensá qué pasaría si alguien te empujara. Ahora pará los dos pies y pensá lo mismo. Las Escrituras usan justamente esa imagen: permanecer firmes frente al Señor, o caer. Alma 23 cuenta el caso más impresionante de firmeza de todo el Libro de Mormón. Después de la conversión del padre de Lamoni, se proclamó libertad religiosa en toda la tierra y los hijos de Mosíah pudieron predicar sin ser atacados. Miles de lamanitas creyeron. Y entonces viene la frase que le da título al capítulo: «cuantos lamanitas creyeron en su predicación y fueron convertidos al Señor, nunca más se desviaron». Nunca. Vale la pena preguntarse qué hicieron distinto, porque el versículo siguiente lo dice: «abandonaron las armas de su rebelión de modo que no pugnaron más en contra de Dios». Fijate que la conversión no fue a una idea ni a una institución, sino al Señor: se convirtieron a Jesucristo, que es una persona, y por eso el compromiso aguanta cuando las ideas se discuten. El élder Bednar señala que nuestras armas de rebelión probablemente no sean espadas, sino cosas como el egoísmo, el orgullo y la desobediencia, y que dejarlas requiere más que creer o saber. Estos lamanitas las enterraron literalmente, y eso hizo la diferencia entre creer un rato y no desviarse nunca. La pregunta para vos no es si creés. Es qué arma todavía tenés guardada por las dudas, esa que dejás a mano por si el Evangelio no llega a funcionar. Y conviene saber que soltarla no depende de tu fuerza de voluntad: estos lamanitas pudieron enterrar las suyas porque antes habían recibido Su misericordia, y eso es lo que da valor para desarmarse del todo."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 23:5",
+          "texto": "Y miles llegaron al conocimiento del Señor, sí, miles llegaron a creer en las tradiciones de los nefitas; y se les enseñó lo que contenían los anales y las profecías que se han transmitido aun hasta estos días.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/23?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Alma 23:6",
+          "texto": "Y tan cierto como vive el Señor, que cuantos creyeron, o sea, cuantos llegaron al conocimiento de la verdad por la predicación de Ammón y sus hermanos, según el espíritu de revelación y de profecía, y el poder de Dios que obraba milagros en ellos, sí, os digo, que así como vive el Señor, cuantos lamanitas creyeron en su predicación y fueron convertidos al Señor, nunca más se desviaron.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/23?lang=spa&id=p6#p6"
+        },
+        {
+          "referencia": "Alma 23:7",
+          "texto": "Porque se convirtieron en un pueblo justo; abandonaron las armas de su rebelión de modo que no pugnaron más en contra de Dios, ni tampoco en contra de ninguno de sus hermanos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/23?lang=spa&id=p7#p7"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder David A. Bednar",
+      "fuente": "«Convertidos al Señor», Liahona, noviembre de 2012, pág. 109",
+      "texto": "Nunca más se desviaron y abandonaron «las armas de su rebelión y no pugnaron más en contra de Dios». Para abandonar las preciadas «armas de rebelión» tales como el egoísmo, el orgullo y la desobediencia, se necesita más que el solo creer y saber. La convicción, la humildad, el arrepentimiento y la docilidad preceden el abandono de las armas de nuestra rebelión.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&id=p33#p33"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "«Nunca más se desviaron» no es una casualidad ni un rasgo de personalidad. El texto explica exactamente qué lo hizo posible: fueron convertidos al Señor, no a una idea, y enterraron las armas de su rebelión. Las dos cosas van juntas. Se puede creer bastante y seguir teniendo un arma guardada por las dudas, y esa arma es la que te vuelve a poner de un solo pie cuando alguien empuja. La conversión que aguanta es a una persona: al Salvador, cuya misericordia es la que sostiene el cambio cuando tu convicción flaquea. Identificá esta semana un arma tuya —una sola— y decidí qué vas a hacer con ella."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece más impresionante: que miles creyeran, o que ninguno se desviara después?",
+        "¿Qué diferencia ves entre estar convencido de una idea y estar convertido a una persona?",
+        "Volvé a leer Alma 23:7 y buscá qué hicieron exactamente los que se convirtieron. ¿Por qué te parece que el texto lo menciona justo después de decir que nunca se desviaron?",
+        "El élder Bednar dice que dejar las armas requiere más que creer y saber. ¿Qué agrega él a esa lista, y por qué te parece que hace falta?",
+        "¿Qué «arma de rebelión» tuya identificarías si tuvieras que nombrar una sola, sin buscar excusas?",
+        "Escribí esa arma en un papel, orá por ella durante la semana y anotá al final si te resultó más difícil de soltar de lo que pensabas."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
@@ -21,12 +68,12 @@
       "question": "¿Qué nombre se dieron a sí mismos los lamanitas convertidos?",
       "type": "multiple",
       "options": [
-        "Los guerreros de la fe",
         "Anti-nefi-lehitas, el pueblo de Dios",
         "Los conquistadores del norte",
-        "Los nuevos nefitas"
+        "Los nuevos nefitas",
+        "Los guerreros de la fe"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 23:17",
       "explanation": "Se dieron a sí mismos el nombre de anti-nefi-lehitas, el pueblo de Dios."
     },
@@ -35,12 +82,12 @@
       "question": "¿Qué caracterizó a estos convertidos?",
       "type": "multiple",
       "options": [
+        "Duda permanente sobre lo que habían aprendido",
         "Firmeza en la fe, nunca cayeron",
         "Una debilidad constante frente a las pruebas",
-        "Inconstancia en sus convicciones religiosas",
-        "Duda permanente sobre lo que habían aprendido"
+        "Inconstancia en sus convicciones religiosas"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 23:6",
       "explanation": "Estos convertidos se caracterizaron por su firmeza en la fe; nunca cayeron."
     },
@@ -49,12 +96,12 @@
       "question": "¿Qué hicieron los lamanitas convertidos cuando fueron atacados?",
       "type": "multiple",
       "options": [
-        "Pelearon con furia para defender a sus familias",
         "Huyeron de inmediato hacia las montañas cercanas",
         "Negociaron una tregua con sus antiguos enemigos",
-        "Se postraron y no opusieron resistencia, prefiriendo morir antes que pecar"
+        "Se postraron y no opusieron resistencia, prefiriendo morir antes que pecar",
+        "Pelearon con furia para defender a sus familias"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Alma 24:21-22",
       "explanation": "Se postraron y no opusieron resistencia, prefiriendo morir antes que volver a pecar."
     },
@@ -63,12 +110,12 @@
       "question": "Bruno tomó una mala decisión hace tiempo y ahora sus amigos lo siguen molestando por eso, aunque él ya cambió. ¿Qué le enseña el ejemplo de los anti-nefi-lehitas sobre dejar el pasado atrás?",
       "type": "multiple",
       "options": [
-        "Que un cambio genuino puede ser tan real y firme como enterrar completamente las viejas armas de su vida pasada",
         "Que debe seguir defendiéndose de las burlas de sus amigos con las mismas actitudes de antes",
         "Que el pasado siempre define completamente el futuro de una persona",
-        "Que solo debe cambiar si sus amigos lo aceptan de nuevo"
+        "Que solo debe cambiar si sus amigos lo aceptan de nuevo",
+        "Que un cambio genuino puede ser tan real y firme como enterrar completamente las viejas armas de su vida pasada"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Alma 24:15-19",
       "explanation": "El entierro de las armas muestra que un cambio genuino puede ser tan real y firme como dejar completamente atrás la vida pasada."
     },
@@ -77,12 +124,12 @@
       "question": "Victoria ve que un compañero es agredido injustamente y siente ganas de defenderlo con violencia. ¿Qué principio de los anti-nefi-lehitas podría aplicar en su reacción?",
       "type": "multiple",
       "options": [
-        "Que la violencia siempre es la única forma efectiva de defender a otros",
         "Que a veces la firmeza pacífica y el testimonio silencioso pueden influir más que la violencia",
         "Que debe ignorar la situación por completo para evitar problemas",
-        "Que solo los adultos pueden intervenir en este tipo de situaciones"
+        "Que solo los adultos pueden intervenir en este tipo de situaciones",
+        "Que la violencia siempre es la única forma efectiva de defender a otros"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 24:21-27",
       "explanation": "El ejemplo de los anti-nefi-lehitas muestra que la firmeza pacífica y el testimonio silencioso pueden influir más que la violencia."
     },
@@ -91,12 +138,12 @@
       "question": "¿Qué conecta el entierro de las armas con la conversión de muchos de sus atacantes lamanitas?",
       "type": "multiple",
       "options": [
-        "No tienen relación real entre sí",
         "La conversión de los atacantes ocurrió por completo al azar",
         "El sacrificio pacífico de los anti-nefi-lehitas se convirtió en un testimonio que llevó a otros a la conversión",
-        "El entierro de las armas provocó más violencia por parte de los atacantes"
+        "El entierro de las armas provocó más violencia por parte de los atacantes",
+        "No tienen relación real entre sí"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "reference": "Alma 24:25-27",
       "explanation": "El sacrificio pacífico de los anti-nefi-lehitas se convirtió en un testimonio que llevó a muchos de sus atacantes a la conversión."
     }

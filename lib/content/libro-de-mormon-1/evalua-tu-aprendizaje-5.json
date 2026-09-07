@@ -1,18 +1,58 @@
 {
   "id": "evalua-tu-aprendizaje-5",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Esta lección no trae material nuevo: es una parada para mirar hacia atrás. Ya recorriste desde Mosíah 18 hasta Alma 16, que incluye las aguas de Mormón, la conversión de Alma, el discurso del rey Benjamín y las preguntas del capítulo 5 de Alma. La meta acá es evaluar qué cambió realmente en vos, y para eso el propio Alma dejó la mejor herramienta: en vez de darte una lista de logros, hace preguntas. «¿Habéis nacido espiritualmente de Dios? ¿Habéis recibido su imagen en vuestros rostros?». Y más adelante, la que corta más fino: si sentiste el deseo de cantar la canción del amor que redime, «¿podéis sentir esto ahora?». Fijate que ninguna de esas preguntas mide cuánto sabés. Miden si algo se movió. Y todas apuntan al mismo lugar, porque el criterio que Alma usa no es tu desempeño: es si tus vestidos «han sido lavados y blanqueados mediante la sangre de Cristo, que vendrá para redimir a su pueblo de sus pecados». Evaluar el aprendizaje espiritual, entonces, no es contar capítulos leídos. Es preguntarte si estás más cerca de Él que hace tres meses, y ser honesto con la respuesta."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 5:14",
+          "texto": "Y ahora os pregunto, hermanos míos de la iglesia: ¿Habéis nacido espiritualmente de Dios? ¿Habéis recibido su imagen en vuestros rostros? ¿Habéis experimentado este potente cambio en vuestros corazones?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p14#p14"
+        },
+        {
+          "referencia": "Alma 5:26",
+          "texto": "Y ahora os digo, hermanos míos, si habéis experimentado un cambio en el corazón, y si habéis sentido el deseo de cantar la canción del amor que redime, quisiera preguntaros: ¿Podéis sentir esto ahora?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p26#p26"
+        },
+        {
+          "referencia": "Alma 5:27",
+          "texto": "¿Habéis caminado, conservándoos irreprensibles delante de Dios? Si os tocase morir en este momento, ¿podríais decir, dentro de vosotros, que habéis sido suficientemente humildes? ¿que vuestros vestidos han sido lavados y blanqueados mediante la sangre de Cristo, que vendrá para redimir a su pueblo de sus pecados?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p27#p27"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Evaluar no es calificarte. Es mirar con honestidad si algo se movió, y Alma da el criterio: no cuánto sabés, sino si el cambio de corazón sigue vivo hoy. Por eso su pregunta más incómoda es «¿podéis sentir esto ahora?», en presente. Y el punto de referencia tampoco es tu esfuerzo: es si estás confiando en la sangre de Cristo para quedar limpio, porque esa es la única tintorería que funciona. Tomate un rato esta semana, sin apuro y sin público, para contestarte esas preguntas por escrito. Guardá la hoja: te va a servir para la próxima evaluación."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "De todo lo que estudiaste desde Mosíah 18 hasta acá, ¿qué te quedó grabado sin que tuvieras que esforzarte por recordarlo?",
+        "¿Qué meta te fijaste al empezar el año que hoy ves distinta?",
+        "Volvé a leer Alma 5:26 y fijate en el tiempo verbal de la pregunta final. ¿Por qué te parece que Alma pregunta por el ahora y no por lo que sentiste una vez?",
+        "¿Hay alguna de las preguntas de Alma 5 que preferirías no contestarte? ¿Qué te dice eso?",
+        "¿Qué cosa concreta vas a cambiar en la segunda mitad del año, ahora que sabés qué te funcionó y qué no?",
+        "Contestá por escrito las preguntas de Alma 5:14 y 5:26, sin mostrárselas a nadie. Orá antes de empezar y guardá la hoja para releerla en tres meses."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "question": "¿Qué tan bien has aplicado lo aprendido este semestre?",
       "type": "multiple",
       "options": [
-        "He hecho esfuerzos sinceros por vivir los principios aprendidos",
-        "Considero que no he aplicado nada de lo aprendido",
         "Solamente memoricé la información sin aplicarla",
-        "No logro recordar bien lo que hemos estudiado"
+        "No logro recordar bien lo que hemos estudiado",
+        "Hice esfuerzos sinceros por vivir lo que aprendí",
+        "Considero que no he aplicado nada de lo aprendido"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": "Lo ideal es haber hecho esfuerzos sinceros por vivir los principios aprendidos."
     },
     {
@@ -20,12 +60,12 @@
       "question": "¿Cómo ha crecido tu testimonio este año?",
       "type": "multiple",
       "options": [
+        "Reconozco que todavía no tengo un testimonio propio",
         "Considero que no ha cambiado en absoluto",
         "Siento que se ha debilitado durante este tiempo",
-        "Ha crecido mediante el estudio, la oración y la aplicación",
-        "Reconozco que todavía no tengo un testimonio propio"
+        "Ha crecido por el estudio, la oración y la práctica"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "El testimonio crece mediante el estudio, la oración y la aplicación constante."
     },
     {
@@ -33,12 +73,12 @@
       "question": "¿Qué lecciones importantes aprendimos de los hijos de Mosíah?",
       "type": "multiple",
       "options": [
-        "Que la misión no vale realmente la pena el esfuerzo",
-        "Que la preparación espiritual y el servicio humilde pueden transformar vidas",
+        "Que la preparación y el servicio humilde transforman vidas",
         "Que convertir a otras personas es siempre algo fácil",
-        "Que solamente algunas personas están capacitadas para servir"
+        "Que solamente algunas personas están capacitadas para servir",
+        "Que la misión no vale realmente la pena el esfuerzo"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 17-26",
       "explanation": "Aprendimos que la preparación espiritual y el servicio humilde pueden transformar vidas."
     },
@@ -47,12 +87,12 @@
       "question": "¿Cómo podemos aplicar el ejemplo de los anti-nefi-lehitas?",
       "type": "multiple",
       "options": [
-        "Considerando que no es posible aplicar su ejemplo hoy",
-        "Solamente en situaciones de extremo peligro físico",
         "Reconociendo que su ejemplo no es relevante actualmente",
-        "Siendo fieles a nuestros convenios sin importar el costo"
+        "Siendo fieles a nuestros convenios sin importar el costo",
+        "Considerando que no es posible aplicar su ejemplo hoy",
+        "Solamente en situaciones de extremo peligro físico"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Alma 23-24",
       "explanation": "Podemos aplicar su ejemplo siendo fieles a nuestros convenios sin importar el costo."
     },
@@ -61,12 +101,12 @@
       "question": "Benjamín siente que este semestre aprendió mucho pero no sabe cómo demostrarlo en su vida diaria. ¿Qué le sugerirías basándote en la autoevaluación?",
       "type": "multiple",
       "options": [
-        "Buscar aplicar en decisiones concretas los principios aprendidos, no solo recordarlos para un examen",
-        "Memorizar más datos para el próximo examen",
         "Esperar a que otros noten su conocimiento sin hacer nada más",
-        "Comparar sus notas con las de sus compañeros"
+        "Comparar sus notas con las de sus compañeros",
+        "Aplicarlos en decisiones concretas, no solo recordarlos",
+        "Memorizar más datos para el próximo examen"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": "Lo ideal es buscar aplicar en decisiones concretas los principios aprendidos, no solo recordarlos para un examen."
     },
     {
@@ -74,12 +114,12 @@
       "question": "Julieta admira el ejemplo de los hijos de Mosíah pero siente que su propia vida es muy distinta a la de ellos. ¿Cómo podría aplicar esa lección a su realidad?",
       "type": "multiple",
       "options": [
-        "Copiar exactamente los mismos métodos que ellos usaron",
-        "Buscar su propia forma de preparación espiritual y servicio humilde, adaptada a su situación actual",
         "Esperar a tener una experiencia dramática como la de ellos antes de servir",
-        "Sentir que su situación no le permite aplicar ninguna de esas lecciones"
+        "Sentir que su situación no le permite aplicar ninguna de esas lecciones",
+        "Copiar exactamente los mismos métodos que ellos usaron",
+        "Buscar su propia preparación espiritual y servicio humilde"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 17-26",
       "explanation": "Podemos buscar nuestra propia forma de preparación espiritual y servicio humilde, adaptada a nuestra situación actual."
     },
@@ -88,12 +128,12 @@
       "question": "¿Qué conecta las lecciones sobre el poder de la palabra de Dios con el ejemplo de los anti-nefi-lehitas?",
       "type": "multiple",
       "options": [
+        "Ambas muestran que la palabra de Dios transforma corazones más que la fuerza",
+        "El ejemplo de los anti-nefi-lehitas contradice la enseñanza sobre el poder de la palabra",
         "No tienen relación real entre sí",
-        "Solo la enseñanza sobre la palabra de Dios tiene relevancia práctica",
-        "Ambas muestran que la palabra de Dios y el testimonio vivido pueden transformar corazones de forma más poderosa que la fuerza",
-        "El ejemplo de los anti-nefi-lehitas contradice la enseñanza sobre el poder de la palabra"
+        "Solo la enseñanza sobre la palabra de Dios tiene relevancia práctica"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 23-31",
       "explanation": "Ambas muestran que la palabra de Dios y el testimonio vivido pueden transformar corazones más poderosamente que la fuerza."
     }

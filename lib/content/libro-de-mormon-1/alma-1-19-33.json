@@ -12,6 +12,16 @@
           "referencia": "Alma 1:27",
           "texto": "Y de conformidad con lo que tenía, todo hombre repartía de sus bienes a los pobres, y a los necesitados, y a los enfermos y afligidos; y no usaban ropa costosa; no obstante, eran aseados y atractivos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "Alma 1:30",
+          "texto": "Y así, en sus prósperas circunstancias no desatendían a ninguno que estuviese desnudo, o que estuviese hambriento, o sediento, o enfermo, o que no hubiese sido nutrido; y no ponían el corazón en las riquezas; por consiguiente, eran generosos con todos, ora ancianos, ora jóvenes, esclavos o libres, varones o mujeres, pertenecieran o no a la iglesia, sin hacer distinción de personas, si estaban necesitadas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=spa&id=p30#p30"
+        },
+        {
+          "referencia": "Alma 1:26",
+          "texto": "Y cuando los sacerdotes dejaban su trabajo para impartir la palabra de Dios a los del pueblo, estos también dejaban sus labores para oír la palabra de Dios. Y después que el sacerdote les había impartido la palabra de Dios, todos volvían diligentemente a sus labores; y el sacerdote no se consideraba mejor que sus oyentes, porque el predicador no era de más estima que el oyente, ni el maestro era mejor que el discípulo; y así todos eran iguales y todos trabajaban, todo hombre según su fuerza.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=spa&id=p26#p26"
         }
       ]
     },
@@ -31,10 +41,10 @@
       "preguntas": [
         "¿Con qué actitud del pueblo de esta lección —la generosidad o la paciencia ante la burla— te identificás más?",
         "En una sola frase, ¿qué significa para vos ser 'firme e inamovible'?",
-        "¿Alguna vez tuviste que compartir algo tuyo —tiempo, plata, ropa— con alguien que lo necesitaba más que vos?",
+        "Fijate en Alma 1:27, en lo que el texto aclara justo después de decir que «no usaban ropa costosa». ¿Qué agrega ahí, y por qué te parece que lo aclara?",
         "¿Viviste alguna vez una situación en la que te trataron distinto por cómo te vestías o por lo que tenías (o no tenías)?",
         "¿A quién de tu grupo o tu curso podrías tratar esta semana con la misma igualdad que describe Alma 1:30, sin importar su situación económica?",
-        "¿Qué cosa concreta —ropa, tiempo, útiles— podrías compartir esta semana con alguien que la necesite?"
+        "Meditá esta semana en si tratás distinto a la gente según lo que tiene o cómo se viste. Anotá lo que se te venga, aunque no te guste leerlo después."
       ]
     }
   ],
@@ -44,12 +54,12 @@
       "question": "¿Cómo trataba la iglesia a los ricos y a los pobres?",
       "type": "multiple",
       "options": [
-        "Preferían atender primero las necesidades de los ricos",
-        "No hacían acepción de personas; todos eran iguales",
         "Solo permitían la membresía a personas de recursos limitados",
-        "Rechazaban a cualquiera que tuviera riquezas materiales"
+        "Rechazaban a cualquiera que tuviera riquezas materiales",
+        "Preferían atender primero las necesidades de los ricos",
+        "No hacían acepción de personas; todos eran iguales"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 1:30",
       "explanation": "La iglesia no hacía acepción de personas; todos eran considerados iguales."
     },
@@ -58,12 +68,12 @@
       "question": "¿Cómo compartían los miembros de la iglesia sus bienes?",
       "type": "multiple",
       "options": [
+        "Impartían de su sustancia a los necesitados",
         "Prestaban sus bienes únicamente a cambio de interés",
         "Guardaban todo lo que tenían solo para sus propias familias",
-        "Esperaban que el gobierno se encargara de repartir los bienes",
-        "Impartían de su sustancia a los necesitados"
+        "Esperaban que el gobierno se encargara de repartir los bienes"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "reference": "Alma 1:27",
       "explanation": "Los miembros impartían de su sustancia a los necesitados, cada uno según lo que tenía."
     },
@@ -86,12 +96,12 @@
       "question": "¿Cómo respondieron los miembros fieles de la iglesia ante la persecución?",
       "type": "multiple",
       "options": [
-        "Respondiendo con la misma hostilidad de sus perseguidores",
         "Abandonando la congregación para evitar más conflictos",
         "Exigiendo protección especial de las autoridades del gobierno",
-        "Con paciencia, soportando las aflicciones con fe"
+        "Con paciencia, soportando las aflicciones con fe",
+        "Respondiendo con la misma hostilidad de sus perseguidores"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Alma 1:25",
       "explanation": "Los miembros fieles soportaron la persecución con paciencia y fe."
     },
@@ -100,12 +110,12 @@
       "question": "Gael ve que en su grupo de jóvenes algunos tienen más dinero que otros y eso genera distancia entre ellos. ¿Qué principio de Alma 1:30 aplicaría?",
       "type": "multiple",
       "options": [
-        "Que los más ricos deben liderar siempre el grupo",
-        "No hacer acepción de personas; tratar a todos como iguales sin importar su situación económica",
         "Que es normal que se formen grupos según el nivel económico",
-        "Que solo los líderes deben preocuparse por la unidad del grupo"
+        "Que solo los líderes deben preocuparse por la unidad del grupo",
+        "Que los más ricos deben liderar siempre el grupo",
+        "No hacer acepción de personas; tratar a todos como iguales sin importar su situación económica"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 1:30",
       "explanation": "La iglesia no hacía acepción de personas; todos eran tratados como iguales sin importar su situación económica."
     },
@@ -114,12 +124,12 @@
       "question": "Emilia tiene ropa y cosas que ya no usa mientras conoce a alguien que las necesita. ¿Qué le enseña el ejemplo de la iglesia primitiva?",
       "type": "multiple",
       "options": [
-        "Que debe guardar todo por si acaso lo necesita después",
-        "Que ayudar a otros es responsabilidad exclusiva de los líderes",
         "Impartir de su sustancia a los necesitados, como hacían los primeros miembros de la iglesia",
-        "Que solo debe compartir si le sobra mucho"
+        "Que solo debe compartir si le sobra mucho",
+        "Que debe guardar todo por si acaso lo necesita después",
+        "Que ayudar a otros es responsabilidad exclusiva de los líderes"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 1:27",
       "explanation": "Los miembros de la iglesia primitiva impartían de su sustancia a los necesitados."
     },

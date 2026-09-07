@@ -39,16 +39,16 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Abinadí enseñó que el Evangelio no debe vivirse superficialmente. Los mandamientos de Dios tienen el propósito de transformar el corazón humano. La obediencia verdadera no consiste únicamente en reglas externas, sino en permitir que Jesucristo cambie nuestros deseos, motivaciones y prioridades. Cuando los mandamientos se escriben en el corazón, dejamos de obedecer por obligación y comenzamos a obedecer por amor. Esta transformación espiritual produce mayor paz, fortaleza y cercanía con Dios."
+      "contenido": "Abinadí enseñó que el Evangelio no se vive en la superficie. Los mandamientos existen para transformar el corazón, no para llenar una planilla. La obediencia verdadera no consiste en cumplir reglas externas, sino en dejar que Jesucristo cambie deseos, motivaciones y prioridades; por eso Jeremías promete una ley escrita en el corazón y no en piedra. Cuando eso pasa, se deja de obedecer por obligación y se empieza a obedecer por amor, y la diferencia se nota desde afuera. Esa transformación trae paz y cercanía con Dios, y se apoya en Su poder, no en tu disciplina. Elegí un mandamiento que hoy cumplís «de afuera» y pedile a Él que te cambie el motivo."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuál es la diferencia entre conocer un mandamiento y vivirlo realmente, en tus propias palabras?",
         "De los Diez Mandamientos, ¿cuál te parece que más fácilmente se guarda por fuera sin llegar a vivirse con el corazón?",
-        "¿Alguna vez sentiste que estabas 'cumpliendo' algo por fuera sin que realmente te importara por dentro?",
+        "Buscá en Jeremías 31:33 dónde dice el Señor que va a escribir Su ley. ¿En qué se diferencia eso de las tablas de piedra?",
         "¿Qué mandamiento sentís que necesitás internalizar más profundamente, no solo cumplir?",
-        "¿Qué podrías hacer esta semana para que ese mandamiento pase de ser una regla a algo que realmente querés vivir?",
+        "Elegí el mandamiento que hoy cumplís más «de afuera» y meditá esta semana en por qué existe. Anotá si cambia algo en cómo lo mirás.",
         "¿Cómo puede ayudarte Jesucristo esta semana a cambiar tu corazón respecto a ese mandamiento en concreto?"
       ]
     }
@@ -73,12 +73,12 @@
       "question": "Según Mosíah 13:11, ¿qué debemos hacer con los mandamientos?",
       "type": "multiple",
       "options": [
-        "Enseñarlos a nuestros hijos para que aprendan a guardarlos",
         "Guardarlos en privado sin compartirlos con nadie más",
         "Adaptarlos según las circunstancias de cada persona",
-        "Memorizarlos exactamente sin necesidad de vivirlos"
+        "Memorizarlos exactamente sin necesidad de vivirlos",
+        "Enseñarlos a nuestros hijos para que aprendan a guardarlos"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Mosíah 13:11",
       "explanation": "Debemos enseñar los mandamientos a nuestros hijos para que aprendan a guardarlos."
     },
@@ -87,12 +87,12 @@
       "question": "¿Qué reprochó Abinadí a los sacerdotes sobre su conocimiento de la ley?",
       "type": "multiple",
       "options": [
+        "Que fingían guardarla pero no la aplicaban en sus corazones",
         "Que la conocían perfectamente y también la vivían con exactitud",
         "Que nunca habían estudiado ni un solo mandamiento",
-        "Que la interpretaban de forma distinta a Moisés sin mala intención",
-        "Que fingían guardarla pero no la aplicaban en sus corazones"
+        "Que la interpretaban de forma distinta a Moisés sin mala intención"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "reference": "Mosíah 12:27-29",
       "explanation": "Abinadí les reprochó que fingían guardar la ley pero no la aplicaban en sus corazones."
     },
@@ -115,12 +115,12 @@
       "question": "Nicolás dice que conoce los mandamientos de memoria pero no ve por qué cambiaría su forma de vivir. ¿Qué le señala Abinadí a los sacerdotes sobre esto?",
       "type": "multiple",
       "options": [
-        "Que conocer la ley no basta; hay que vivirla realmente en el corazón",
         "Que memorizar los mandamientos ya es suficiente para agradar a Dios",
         "Que los mandamientos son solo para quienes enseñan en la iglesia",
-        "Que no es necesario aplicar los mandamientos si se conocen bien"
+        "Que no es necesario aplicar los mandamientos si se conocen bien",
+        "Que conocer la ley no basta; hay que vivirla realmente en el corazón"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Mosíah 12:27-29",
       "explanation": "Abinadí señaló que conocer la ley no basta; es necesario vivirla realmente en el corazón."
     },
@@ -129,12 +129,12 @@
       "question": "Antonella cree que enseñar a sus hermanos menores los mandamientos es tarea solo de sus padres. ¿Qué enseña Mosíah 13:11 al respecto?",
       "type": "multiple",
       "options": [
-        "Que solo los padres tienen esa responsabilidad",
         "Que todos tenemos la responsabilidad de enseñar los mandamientos a quienes están a nuestro cargo",
         "Que los mandamientos solo se enseñan en la iglesia, nunca en casa",
-        "Que no es necesario enseñar los mandamientos a los más jóvenes"
+        "Que no es necesario enseñar los mandamientos a los más jóvenes",
+        "Que solo los padres tienen esa responsabilidad"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Mosíah 13:11",
       "explanation": "Mosíah 13:11 enseña que debemos transmitir los mandamientos a las nuevas generaciones."
     },
@@ -143,12 +143,12 @@
       "question": "¿Qué relación hay entre citar los mandamientos y advertir sobre las consecuencias de no guardarlos, ambos hechos por Abinadí?",
       "type": "multiple",
       "options": [
-        "Conocer la ley sin vivirla trae las mismas consecuencias que ignorarla por completo",
-        "No tienen relación alguna entre sí",
         "Solo la advertencia sobre consecuencias es relevante, no citar los mandamientos",
-        "Citar los mandamientos elimina automáticamente la necesidad de advertir consecuencias"
+        "Citar los mandamientos elimina automáticamente la necesidad de advertir consecuencias",
+        "Conocer la ley sin vivirla trae las mismas consecuencias que ignorarla por completo",
+        "No tienen relación alguna entre sí"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Mosíah 12-13",
       "explanation": "Abinadí muestra que conocer la ley sin vivirla trae las mismas consecuencias que ignorarla por completo."
     }

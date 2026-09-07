@@ -1,17 +1,69 @@
 {
   "id": "2-nefi-32-8-9",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Hay un detalle en estos dos versículos que suele pasarse por alto. Nefi no dice que orar es difícil porque uno esté cansado o distraído. Dice algo más incómodo: que «el espíritu malo no enseña al hombre a orar, sino le enseña que no debe orar». O sea que esa voz que aparece justo cuando ibas a arrodillarte —«dejalo para mañana», «hoy no tiene sentido», «después de todo lo que hiciste, mejor no»— tiene remitente. No es simplemente pereza. Y si lo pensás, tiene toda la lógica: si la oración es el canal, lo primero que conviene cortar es el canal. Nefi había notado que su pueblo seguía «meditando en sus corazones» en vez de preguntar, y le duele tener que explicárselo. Entonces da el mandamiento de manera directa: «debéis orar siempre, y no desmayar». Y agrega algo que cambia la escala de la oración: que nada debemos hacer ante el Señor sin orar primero al Padre en el nombre de Cristo, «para que él os consagre vuestra acción». Consagrar quiere decir que Él toma algo común y lo vuelve útil para tu alma. Estudiar para una prueba, una conversación difícil con alguien de tu familia, un entrenamiento: la misma acción, hecha con o sin esa oración previa, no rinde lo mismo. Fijate además en el nombre en el que se ora. No es un trámite: se ora al Padre en el nombre de Cristo, porque es Él quien abre esa puerta, y la abrió con Su sacrificio. La oración no es un recurso de emergencia, es la forma normal de trabajar cuando sabés de quién dependés."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "2 Nefi 32:8",
+          "texto": "Y ahora bien, amados hermanos míos, percibo que aún estáis meditando en vuestros corazones; y me duele tener que hablaros concerniente a esto. Porque si escuchaseis al Espíritu que enseña al hombre a orar, sabríais que os es menester orar; porque el espíritu malo no enseña al hombre a orar, sino le enseña que no debe orar.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "2 Nefi 32:9",
+          "texto": "Mas he aquí, os digo que debéis orar siempre, y no desmayar; que nada debéis hacer ante el Señor, sin que primero oréis al Padre en el nombre de Cristo, para que él os consagre vuestra acción, a fin de que vuestra obra sea para el beneficio de vuestras almas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Alma 34:27",
+          "texto": "Sí, y cuando no estéis clamando al Señor, dejad que rebosen vuestros corazones, entregados continuamente en oración a él por vuestro bienestar, así como por el bienestar de los que os rodean.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "3 Nefi 18:21",
+          "texto": "Orad al Padre en vuestras familias, siempre en mi nombre, para que sean bendecidos vuestras esposas y vuestros hijos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p21#p21"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente M. Russell Ballard",
+      "fuente": "«Velad, pues, orando en todo tiempo», Liahona, noviembre de 2020, pág. 78",
+      "texto": "El orar por la justicia, la paz, los pobres y los enfermos a menudo no es suficiente. Después de arrodillarnos en oración, debemos levantarnos y hacer lo que podamos por ayudar, tanto a nosotros mismos como a los demás.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/41ballard?lang=spa&id=p30#p30"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Si alguna vez sentiste que «hoy no» justo cuando ibas a orar, ahora sabés de dónde viene esa idea: Nefi dice que el espíritu malo enseña al hombre que no debe orar. Reconocerlo ya te da ventaja. El mandamiento es simple —orar siempre y no desmayar— y la promesa que lo acompaña es enorme: que Él consagre lo que hacés, para que tu trabajo sirva de verdad a tu alma. Y se ora al Padre en el nombre de Cristo porque es Su nombre el que abre esa puerta, no tu buen desempeño de la semana. Elegí una cosa común de tu semana y no la empieces sin orar antes. Una sola, siete días."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Alguna vez notaste esa voz que aparece justo cuando ibas a orar? ¿Qué suele decirte?",
+        "¿Qué diferencia hay entre orar cuando estás en problemas y orar siempre?",
+        "Volvé a leer 2 Nefi 32:9 y buscá qué promete el versículo que hará el Señor con lo que hacemos. ¿Qué significa que consagre una acción?",
+        "¿Hay alguna parte de tu día que nunca se te ocurrió llevar a la oración porque te parece demasiado común?",
+        "¿Qué actividad concreta de esta semana vas a empezar orando antes, aunque parezca algo menor?",
+        "Escribí qué le pedirías al Padre Celestial si supieras que Él va a consagrar el resultado. Orá con esa lista y anotá qué cambió al final de la semana."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "question": "Según 2 Nefi 32:8, ¿qué hace el diablo para alejarnos de la oración?",
       "options": [
-        "Nos da demasiadas cosas buenas para que no necesitemos pedir ayuda",
-        "Nos enseña que no debemos orar, sino actuar por nuestra propia cuenta",
         "Nos tienta a creer que no debemos orar, endureciendo nuestro corazón contra el Padre",
-        "Nos convence de que somos indignos de hablar con el Padre Celestial"
+        "Nos convence de que somos indignos de hablar con el Padre Celestial",
+        "Nos da demasiadas cosas buenas para que no necesitemos pedir ayuda",
+        "Nos enseña que no debemos orar, sino actuar por nuestra propia cuenta"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -28,41 +80,41 @@
       "id": 3,
       "question": "Nefi pregunta retóricamente por qué no hablan la palabra de Cristo. ¿Cómo se conecta esa pregunta con la exhortación de 'orar siempre' en el versículo 9?",
       "options": [
+        "Hablar la palabra de Cristo es una forma de oración que hace innecesaria la oración formal",
         "No se conectan; son enseñanzas independientes sobre temas distintos",
-        "Tanto hablar la palabra de Cristo como orar son formas de mantener una comunicación viva y constante con el Padre, no solo en momentos formales",
-        "La oración constante reemplaza la necesidad de hablar las palabras de Cristo",
-        "Hablar la palabra de Cristo es una forma de oración que hace innecesaria la oración formal"
+        "Hablar la palabra de Cristo y orar son dos formas de mantener viva la comunicación",
+        "La oración constante reemplaza la necesidad de hablar las palabras de Cristo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "La lección enseña que el Espíritu Santo nos muestra lo que debemos orar. ¿Qué implica eso sobre la naturaleza de la oración sincera?",
       "options": [
-        "Que nuestras propias palabras no tienen valor en la oración si no están inspiradas",
-        "Que la oración más efectiva no es solo un monólogo preparado, sino una comunicación receptiva donde el Espíritu ayuda a articular lo que realmente necesitamos",
         "Que deberíamos usar solo fórmulas de oración prescritas para asegurar su efectividad",
-        "Que las oraciones improvisadas son superiores a las preparadas de antemano"
+        "Que las oraciones improvisadas son superiores a las preparadas de antemano",
+        "Que nuestras propias palabras no tienen valor en la oración si no están inspiradas",
+        "Que la oración más efectiva no es solo un monólogo preparado, sino una comunicación receptiva donde el Espíritu ayuda a articular lo que realmente necesitamos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Sofía tiene el hábito de rezar brevemente cada noche antes de dormir pero nunca siente que sus oraciones sean reales o útiles. Según los principios de 2 Nefi 32:8–9, ¿qué podría cambiar en su práctica?",
       "options": [
-        "Aumentar la duración de sus oraciones a al menos 30 minutos por noche",
-        "Orar en momentos del día cuando está más alerta, pedir guía del Espíritu sobre qué decir, y buscar que sus acciones diarias estén consagradas al bien de su alma",
+        "Orar cuando está más alerta, pedir guía del Espíritu y consagrar sus acciones",
         "Usar un libro de oraciones escritas para que sus palabras sean más perfectas",
-        "Dejar de orar formalmente y solo hablar con Dios de manera mental durante el día"
+        "Dejar de orar formalmente y solo hablar con Dios de manera mental durante el día",
+        "Aumentar la duración de sus oraciones a al menos 30 minutos por noche"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Mateo tuvo un día muy ocupado y cuando llega a casa se da cuenta de que nunca oró. Su amigo le dice: 'No importa, Dios sabe lo que necesitas aunque no le pidas'. ¿Cómo responde el principio de 2 Nefi 32:8–9 a esa perspectiva?",
       "options": [
         "Que el amigo tiene razón, y que Dios da las bendiciones de igual manera con o sin oración",
-        "Que el diablo enseña exactamente eso para endurecernos el corazón; la oración no es solo transmitir información a Dios sino mantener la conexión activa que consagra nuestras acciones",
+        "Que el diablo enseña justamente eso; la oración mantiene la conexión que consagra",
         "Que Dios solo ayuda a quienes oran formalmente al menos dos veces al día",
         "Que la oración es opcional para personas que ya tienen un testimonio fuerte"
       ],
@@ -72,12 +124,12 @@
       "id": 7,
       "question": "Las tres lecciones de la semana 3 cubren seguir adelante (2 Nefi 31), deleitarse en las palabras de Cristo (2 Nefi 32:3), y orar siempre (2 Nefi 32:8–9). ¿Cuál es el principio que une las tres enseñanzas?",
       "options": [
+        "Que solo una de las tres es verdaderamente esencial y las otras son complementarias",
         "Que el camino espiritual depende de un conjunto de rituales religiosos externos",
-        "Que la perseverancia en el camino del Evangelio requiere una relación activa y continua con Cristo: a través de Sus palabras, a través de la oración, y con claridad de esperanza y amor",
-        "Que las tres son enseñanzas independientes que deben aplicarse en diferentes etapas de la vida",
-        "Que solo una de las tres es verdaderamente esencial y las otras son complementarias"
+        "Que perseverar exige una relación viva con Cristo: Sus palabras, la oración y la esperanza",
+        "Que las tres son enseñanzas independientes que deben aplicarse en diferentes etapas de la vida"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Qué diferencias notás entre el Alma que perseguía a la Iglesia y el Alma que describe su propio corazón después del ángel?",
         "Si tuvieras que elegir una palabra para el 'antes' de Alma y otra para el 'después', ¿cuáles serían?",
-        "¿Alguna vez sentiste que Dios te dio una alegría tan grande que compensó por completo un dolor o una culpa anterior?",
+        "Releé Mosíah 27:29 y contá los contrastes que Alma usa para describir su cambio. ¿Con qué imagen arranca y con cuál termina?",
         "¿Hay alguna parte de tu vida donde sabés que todavía te falta ese cambio de corazón del que habla Alma?",
         "¿Qué actitud concreta vas a cambiar esta semana como señal de que estás dejando atrás algo, igual que hizo Alma?",
-        "¿A quién podrías contarle tu propia historia de cambio, por más pequeña que te parezca, esta semana?"
+        "Alma no se dio cuenta solo: alguien estuvo orando por él. Orá vos esta semana por una persona que sentís perdida, y anotá si cambia algo en cómo la mirás."
       ]
     }
   ],
@@ -54,12 +54,12 @@
       "question": "¿Qué significa 'nacer de Dios' según Mosíah 27:25?",
       "type": "multiple",
       "options": [
+        "Alcanzar un estatus social más alto dentro de la iglesia",
         "Experimentar un cambio de corazón y ser redimidos de un estado carnal a espiritual",
         "Nacer nuevamente de manera física en otra familia",
-        "Cumplir con el ritual del bautismo sin ningún cambio interno",
-        "Alcanzar un estatus social más alto dentro de la iglesia"
+        "Cumplir con el ritual del bautismo sin ningún cambio interno"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Mosíah 27:25",
       "explanation": "Nacer de Dios es experimentar un cambio de corazón y pasar de un estado carnal a uno espiritual."
     },
@@ -68,12 +68,12 @@
       "question": "¿Cómo cambió Alma después de su conversión?",
       "type": "multiple",
       "options": [
-        "Se volvió más orgulloso al sentirse especialmente elegido",
         "Permaneció exactamente igual, sin ningún cambio visible",
         "Se retiró completamente de la vida pública para siempre",
-        "Dedicó su vida a predicar el evangelio y reparar el daño que había causado"
+        "Dedicó su vida a predicar el evangelio y reparar el daño que había causado",
+        "Se volvió más orgulloso al sentirse especialmente elegido"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Mosíah 27:32-35",
       "explanation": "Alma dedicó su vida a predicar el evangelio y reparar el daño que había causado."
     },
@@ -82,12 +82,12 @@
       "question": "¿Qué dice Alma sobre todos los que desean ser salvos?",
       "type": "multiple",
       "options": [
-        "Que deben ser perfectos antes de poder arrepentirse",
-        "Que deben nacer otra vez y experimentar un cambio de corazón",
         "Que es imposible para cualquier persona lograrlo",
-        "Que basta con pertenecer a la familia correcta"
+        "Que basta con pertenecer a la familia correcta",
+        "Que deben ser perfectos antes de poder arrepentirse",
+        "Que deben nacer otra vez y experimentar un cambio de corazón"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 27:25-26",
       "explanation": "Alma enseña que todos los que deseen ser salvos deben nacer otra vez y experimentar un cambio de corazón."
     },
@@ -110,12 +110,12 @@
       "question": "Guadalupe siente que su testimonio es 'heredado' de sus padres y no algo propio. ¿Qué le enseña Mosíah 27:25 sobre 'nacer de Dios'?",
       "type": "multiple",
       "options": [
-        "Que basta con la fe de la familia para tener un testimonio verdadero",
-        "Que cada persona necesita su propio cambio de corazón, no basta con la fe de la familia",
         "Que 'nacer de Dios' es algo que ocurre automáticamente al crecer",
-        "Que su testimonio heredado ya es completamente válido"
+        "Que su testimonio heredado ya es completamente válido",
+        "Que basta con la fe de la familia para tener un testimonio verdadero",
+        "Que cada persona necesita su propio cambio de corazón, no basta con la fe de la familia"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Mosíah 27:25",
       "explanation": "Cada persona necesita experimentar su propio cambio de corazón; no basta con la fe heredada de la familia."
     },
@@ -124,12 +124,12 @@
       "question": "Tomás ayudó a dañar la reputación de alguien y ahora quiere reparar el daño que causó. ¿Qué ejemplo de Alma después de su conversión le sirve?",
       "type": "multiple",
       "options": [
+        "Disculparse una sola vez y no volver a mencionar el tema",
         "Ignorar el daño causado y seguir adelante sin más",
         "Dedicar su vida a hacer el bien y reparar activamente el daño causado, como hizo Alma",
-        "Esperar a que la otra persona lo perdone antes de actuar",
-        "Disculparse una sola vez y no volver a mencionar el tema"
+        "Esperar a que la otra persona lo perdone antes de actuar"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Mosíah 27:32-35",
       "explanation": "Alma dedicó su vida a hacer el bien y a reparar activamente el daño que había causado."
     },
@@ -138,12 +138,12 @@
       "question": "¿Cómo se relacionan 'nacer de Dios' y la decisión de Alma de predicar junto a los hijos de Mosíah?",
       "type": "multiple",
       "options": [
+        "Solo la conversión personal de Alma importa en este relato",
         "No tienen relación real entre sí",
         "Predicar era una obligación impuesta, sin relación con su conversión",
-        "El verdadero cambio de corazón lleva naturalmente al deseo de ayudar a otros a experimentarlo también",
-        "Solo la conversión personal de Alma importa en este relato"
+        "El verdadero cambio de corazón lleva naturalmente al deseo de ayudar a otros a experimentarlo también"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "reference": "Mosíah 27:25-37",
       "explanation": "El verdadero cambio de corazón lleva naturalmente al deseo de ayudar a otros a experimentar la misma conversión."
     }

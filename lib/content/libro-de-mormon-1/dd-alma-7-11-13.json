@@ -27,16 +27,16 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Alma 7:11–13 enseña una verdad profundamente consoladora: Jesucristo comprende perfectamente toda experiencia humana. Él conoce nuestras luchas porque voluntariamente las tomó sobre Sí durante Su expiación infinita. Esta verdad nos permite acudir a Él con plena confianza. El Salvador no solo perdona nuestros pecados, sino que también nos fortalece, sana y consuela. Cuando aplicamos estas doctrinas en nuestra vida diaria, aumentan nuestra esperanza y nuestra fe en Jesucristo."
+      "contenido": "Alma 7:11–13 enseña algo profundamente consolador: Jesucristo comprende toda experiencia humana, y no de oídas. Conoce nuestras luchas porque las tomó voluntariamente sobre Sí en Su expiación infinita, y el texto explica para qué lo hizo: para saber, según la carne, cómo socorrer a los suyos. Eso permite acudir a Él con confianza y sin explicaciones previas. El Salvador no solo perdona los pecados: también fortalece, sana y consuela al que no hizo nada malo y la está pasando mal igual. Elegí esta semana una carga concreta —tuya o de alguien cercano— y llevala a Él con esa certeza puesta."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Podés recitar de memoria, aunque sea en parte, Alma 7:11–13?",
         "En una sola frase, ¿qué tomó Cristo sobre Sí según este pasaje?",
-        "¿Alguna vez tuviste que explicarle este pasaje, o algo parecido, a un amigo que estaba sufriendo?",
+        "Leé otra vez Alma 7:11-13 y hacé la lista de todo lo que dice que Él tomó sobre sí. ¿Cuál de esas cosas te sorprende que también haya cargado?",
         "¿Hubo algún momento en que este pasaje te ayudó a entender mejor una prueba que estabas viviendo?",
-        "Esta semana, ¿a quién podrías compartirle este pasaje si lo ves pasando por un momento difícil?",
+        "Meditá esta semana en la frase «sabrá según la carne cómo socorrer a los de su pueblo». Anotá una carga concreta tuya y pedile a Él que la lleve con vos.",
         "¿Qué parte concreta de Alma 7:11–13 vas a repasar todos los días esta semana hasta memorizarla bien?"
       ]
     }
@@ -47,12 +47,12 @@
       "question": "¿Qué incluye la Expiación de Cristo según Alma 7:11-12?",
       "type": "multiple",
       "options": [
-        "Solo el perdón de los pecados, sin nada adicional",
         "Únicamente la sanación de enfermedades físicas graves",
         "Solamente los problemas de naturaleza espiritual",
-        "Dolores, aflicciones, tentaciones, enfermedades y pecados"
+        "Los dolores, aflicciones, tentaciones y enfermedades",
+        "Solo el perdón de los pecados, sin nada adicional"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Alma 7:11-12",
       "explanation": "La Expiación incluye dolores, aflicciones, tentaciones, enfermedades y pecados."
     },
@@ -61,12 +61,12 @@
       "question": "¿Cómo puede Cristo socorrernos en nuestras aflicciones?",
       "type": "multiple",
       "options": [
-        "Porque Él experimentó todas las cosas y sabe cómo ayudarnos",
         "No puede socorrernos de ninguna manera real",
         "Solamente por medio de palabras generales de consuelo",
-        "Únicamente después de que alcancemos la perfección"
+        "Únicamente después de que alcancemos la perfección",
+        "Porque Él lo experimentó y sabe cómo ayudarnos"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Alma 7:12",
       "explanation": "Cristo puede socorrernos porque Él experimentó todas las cosas y sabe cómo ayudarnos."
     },
@@ -75,12 +75,12 @@
       "question": "Según Alma 7:12, ¿por qué motivo Cristo tomaría sobre sí la carne?",
       "type": "multiple",
       "options": [
-        "Únicamente para tener un cuerpo físico como el nuestro",
-        "Para demostrar poder sobre los elementos de la naturaleza",
         "Para poder conocer, según la carne, cómo socorrer a Su pueblo",
-        "Sin ninguna razón declarada explícitamente en el texto"
+        "Sin ninguna razón declarada explícitamente en el texto",
+        "Únicamente para tener un cuerpo físico como el nuestro",
+        "Para demostrar poder sobre los elementos de la naturaleza"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 7:12",
       "explanation": "Cristo tomó sobre sí la carne para conocer, según la carne, cómo socorrer a Su pueblo."
     },
@@ -89,12 +89,12 @@
       "question": "¿Cómo nos ayuda saber que Cristo experimentó nuestras aflicciones?",
       "type": "multiple",
       "options": [
-        "Nos da confianza de que Él comprende perfectamente y puede ayudarnos",
+        "No tiene ninguna relevancia práctica en nuestra vida diaria",
+        "Nos da confianza de que Él comprende y puede ayudarnos",
         "No nos ayuda de ninguna manera práctica",
-        "Solo nos hace sentir culpables por nuestras debilidades",
-        "No tiene ninguna relevancia práctica en nuestra vida diaria"
+        "Solo nos hace sentir culpables por nuestras debilidades"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 7:12",
       "explanation": "Saber que Cristo experimentó nuestras aflicciones nos da confianza de que Él comprende y puede ayudarnos."
     },
@@ -103,12 +103,12 @@
       "question": "Delfina quiere ayudar a una amiga que está pasando por una situación muy dolorosa pero no sabe qué decirle. ¿Qué le sugiere Alma 7:11-13?",
       "type": "multiple",
       "options": [
+        "Decirle que ore más y no vuelva a mencionar el problema",
         "Decirle que su problema no es tan grave como parece",
-        "Compartir que Cristo experimentó ese mismo tipo de dolor y puede socorrerla realmente",
-        "Evitar el tema hasta que su amiga se sienta mejor sola",
-        "Decirle que ore más y no vuelva a mencionar el problema"
+        "Compartir que Cristo pasó por ese dolor y la socorre",
+        "Evitar el tema hasta que su amiga se sienta mejor sola"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 7:11-13",
       "explanation": "Podemos compartir que Cristo experimentó ese mismo tipo de dolor y puede socorrer verdaderamente a quien sufre."
     },
@@ -117,12 +117,12 @@
       "question": "Santino cree que la fe en Cristo no tiene ningún efecto práctico en momentos difíciles. ¿Qué le corregirías con este pasaje?",
       "type": "multiple",
       "options": [
-        "Que la fe en Cristo y el arrepentimiento hacen que la expiación sea efectiva en nuestra vida diaria",
         "Que la fe solo tiene efecto después de la muerte",
         "Que la expiación no requiere ninguna acción de nuestra parte",
-        "Que solo los líderes de la Iglesia se benefician realmente de la expiación"
+        "Que solo los líderes de la Iglesia se benefician realmente de la expiación",
+        "Que la fe en Cristo y el arrepentimiento hacen efectiva la expiación"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Alma 7:13",
       "explanation": "La fe en Cristo y el arrepentimiento hacen que la expiación sea efectiva en nuestra vida diaria."
     },
@@ -131,12 +131,12 @@
       "question": "¿Qué conecta el hecho de que Cristo tomó nuestra carne con Su capacidad de socorrernos?",
       "type": "multiple",
       "options": [
-        "No tienen relación entre sí",
-        "Al conocer la condición humana según la carne, Cristo puede socorrer a Su pueblo con comprensión perfecta",
+        "Cristo conoció la carne y por eso sabe socorrer a los suyos",
         "Tomar nuestra carne fue solo un requisito simbólico sin efecto real",
-        "Solo Su divinidad, no Su carne, le permite socorrernos"
+        "Solo Su divinidad, no Su carne, le permite socorrernos",
+        "No tienen relación entre sí"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 7:12-13",
       "explanation": "Al conocer la condición humana según la carne, Cristo puede socorrer a Su pueblo con comprensión perfecta."
     }

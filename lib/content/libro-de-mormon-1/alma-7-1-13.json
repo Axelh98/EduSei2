@@ -53,7 +53,7 @@
       "preguntas": [
         "¿Qué parte de lo que Cristo tomó sobre Sí —dolores, enfermedades, tentaciones o pecados— te resulta más significativa?",
         "En una sola frase, ¿por qué quiso Cristo experimentar nuestras debilidades 'según la carne'?",
-        "¿Alguna vez sentiste que nadie entendía realmente lo que estabas pasando, ni siquiera en tu propia casa?",
+        "Volvé a leer Alma 7:12 y buscá el para qué: ¿con qué fin dice el versículo que Él tomó sobre sí nuestras debilidades? La respuesta está en la última línea.",
         "¿Hubo algún momento en el que sentiste que Cristo realmente te entendía en medio de un dolor o una dificultad?",
         "Esta semana, ¿a quién podrías recordarle que Cristo entiende su dolor porque Él también lo vivió?",
         "¿Qué dificultad concreta que estás viviendo ahora podrías llevarle a Cristo en oración esta semana?"
@@ -66,12 +66,12 @@
       "question": "¿Qué tomó Cristo sobre sí según Alma 7:11?",
       "type": "multiple",
       "options": [
-        "Únicamente nuestros pecados, sin ningún otro tipo de carga",
-        "Nada relacionado con nuestras luchas personales",
         "Nuestros dolores, aflicciones, enfermedades, tentaciones y pecados",
-        "Solamente nuestras enfermedades físicas y nada más"
+        "Solamente nuestras enfermedades físicas y nada más",
+        "Únicamente nuestros pecados, sin ningún otro tipo de carga",
+        "Nada relacionado con nuestras luchas personales"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 7:11-12",
       "explanation": "Cristo tomó sobre sí nuestros dolores, aflicciones, enfermedades, tentaciones y pecados."
     },
@@ -122,12 +122,12 @@
       "question": "Renata siente que nadie entiende lo que está pasando en su vida, ni siquiera Dios. ¿Qué le enseña Alma 7:11-12?",
       "type": "multiple",
       "options": [
-        "Que Dios no puede comprender completamente los problemas humanos",
         "Que Cristo tomó sobre sí nuestros dolores y aflicciones para poder comprendernos y socorrernos",
         "Que debe resolver sus problemas sin buscar ayuda espiritual",
-        "Que solo las personas mayores pueden entender su situación"
+        "Que solo las personas mayores pueden entender su situación",
+        "Que Dios no puede comprender completamente los problemas humanos"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 7:11-12",
       "explanation": "Cristo tomó sobre sí nuestros dolores y aflicciones para poder comprendernos y socorrernos."
     },
@@ -136,12 +136,12 @@
       "question": "Bautista piensa que debe resolver solo sus problemas sin pedir ayuda a Dios. ¿Qué principio de este pasaje lo invita a cambiar de actitud?",
       "type": "multiple",
       "options": [
-        "Que pedir ayuda a Dios es señal de debilidad",
         "Que Dios solo ayuda a quienes ya resolvieron parte del problema solos",
         "Acudir a Cristo con confianza, ya que Él comprende nuestras debilidades y puede ayudarnos",
-        "Que es mejor no mencionar los problemas personales a nadie"
+        "Que es mejor no mencionar los problemas personales a nadie",
+        "Que pedir ayuda a Dios es señal de debilidad"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "reference": "Alma 7:12",
       "explanation": "Podemos acudir a Cristo con confianza, ya que Él comprende nuestras debilidades y puede ayudarnos."
     },
@@ -150,12 +150,12 @@
       "question": "¿Cómo se relacionan que Cristo tomó nuestras aflicciones y la profecía de que nacería en Jerusalén?",
       "type": "multiple",
       "options": [
+        "Tomar nuestras aflicciones no tuvo relación con Su nacimiento real",
         "No tienen relación entre sí",
         "Ambas muestran que la misión de Cristo fue real y concreta, cumplida en un lugar y tiempo específicos por amor a nosotros",
-        "Solo la profecía sobre Jerusalén tiene importancia histórica",
-        "Tomar nuestras aflicciones no tuvo relación con Su nacimiento real"
+        "Solo la profecía sobre Jerusalén tiene importancia histórica"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 7:10-12",
       "explanation": "Ambas muestran que la misión de Cristo fue real y concreta, cumplida en un lugar y tiempo específicos por amor a nosotros."
     }

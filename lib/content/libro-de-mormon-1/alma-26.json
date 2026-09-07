@@ -1,18 +1,70 @@
 {
   "id": "alma-26",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "¿Te pasó alguna vez tener una noticia tan buena que no podías esperar a contarla? Alma 26 es eso, pero después de catorce años. Ammón y sus hermanos vuelven de su misión entre los lamanitas —el mismo pueblo que al principio les parecía imposible— y el capítulo entero es Ammón sin poder contenerse. Su hermano Aarón lo frena porque le parece que se está pasando de entusiasmado, y Ammón le contesta algo que conviene leer despacio: «No me jacto de mi propia fuerza ni en mi propia sabiduría, mas he aquí, mi gozo es completo». Ahí está la diferencia entre presumir y gloriarse en el Señor. Ammón no está diciendo qué bueno que soy: está diciendo mirá lo que el Salvador hizo con gente que todos habían dado por perdida, empezando por nosotros mismos, que también fuimos rescatados. Por eso el capítulo repite la palabra gloriarse una y otra vez, siempre con el mismo destinatario: «nos gloriaremos en el Señor», y enseguida enumera de qué se gloría exactamente: de Su gran poder, de Su misericordia y de Su longanimidad para con los hijos de los hombres. Es una lista de atributos de una persona concreta, no una descarga de emoción. Y cierra con una pregunta que suena a desafío: «¿no tenemos razón para regocijarnos?». Si alguna vez te agradecieron algo que en realidad hizo otro, entendés el instinto de Ammón. Lo raro sería quedarse con el crédito. Lo normal, cuando de verdad sabés de dónde vino el resultado, es hacer lo que él hizo: contarlo, pero nombrando a quién corresponde."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 26:11",
+          "texto": "Pero Ammón le dijo: No me jacto de mi propia fuerza ni en mi propia sabiduría, mas he aquí, mi gozo es completo; sí, mi corazón rebosa de gozo, y me regocijaré en mi Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Alma 26:16",
+          "texto": "Por lo tanto, gloriémonos; sí, nos gloriaremos en el Señor; sí, nos regocijaremos porque es completo nuestro gozo; sí, alabaremos a nuestro Dios para siempre. He aquí, ¿quién puede gloriarse demasiado en el Señor? Sí, ¿y quién podrá decir demasiado de su gran poder, y de su misericordia y de su longanimidad para con los hijos de los hombres? He aquí, os digo que no puedo expresar ni la más mínima parte de lo que siento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=spa&id=p16#p16"
+        },
+        {
+          "referencia": "Alma 26:22",
+          "texto": "Sí, al que se arrepiente y ejerce la fe y produce buenas obras y ora continuamente sin cesar, a este le es permitido conocer los misterios de Dios; sí, a este le será permitido revelar cosas que nunca han sido reveladas; sí, y a este le será concedido llevar a miles de almas al arrepentimiento, así como a nosotros se nos ha permitido traer a estos nuestros hermanos al arrepentimiento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=spa&id=p22#p22"
+        },
+        {
+          "referencia": "Alma 26:35",
+          "texto": "Ahora bien, ¿no tenemos razón para regocijarnos? Sí, os digo que desde el principio del mundo no ha habido hombres que tuviesen tan grande razón para regocijarse como nosotros la tenemos; sí, y mi gozo se desborda, hasta el grado de gloriarme en mi Dios; porque él tiene todo poder, toda sabiduría y todo entendimiento; él comprende todas las cosas, y es un Ser misericordioso, aun hasta la salvación, para con aquellos que quieran arrepentirse y creer en su nombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=spa&id=p35#p35"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidenta Joy D. Jones",
+      "fuente": "«Por Él», Liahona, noviembre de 2018, pág. 50",
+      "texto": "El Señor aconsejó: «Mirad hacia mí en todo pensamiento». Y cada semana hacemos convenio de hacer precisamente eso: «recordarle siempre». ¿Puede ese enfoque divino aplicarse a todas las cosas que hacemos? ¿Puede incluso una insignificante tarea convertirse en una oportunidad para demostrar nuestro amor y devoción a Él? Yo creo que sí puede, y que lo hará.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/for-him?lang=spa&id=p12-p13#p12"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Gloriarse en el Señor no es falsa modestia ni una manera elegante de presumir. Es decir la verdad sobre de dónde vino el resultado. Ammón podía haberse quedado con el crédito de catorce años de trabajo y eligió enumerar, en cambio, el poder, la misericordia y la longanimidad de Aquel que hizo el trabajo de fondo. Eso no le quitó gozo: se lo completó. Y la invitación que deja el capítulo es doméstica, no heroica: podés convertir cualquier tarea común en algo hecho por Él. Repasá esta semana un logro tuyo reciente y contá honestamente cuánto fue tuyo y cuánto no."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Tuviste alguna vez una noticia que no podías esperar a contar? ¿Qué querías que la gente supiera exactamente?",
+        "Aarón pensó que Ammón se estaba pasando. ¿Por qué te parece que a veces confundimos gloriarse en el Señor con presumir?",
+        "Volvé a leer Alma 26:16 y hacé la lista de las cosas del Señor que Ammón nombra ahí. ¿Cuál de ellas te llama más la atención?",
+        "¿Hay algo bueno en tu vida que sueles atribuirte a vos y que, mirado con calma, no fue solo tuyo?",
+        "¿Qué tarea común y aburrida de esta semana podrías hacer «por Él», sin que nadie se entere de que la ofreciste?",
+        "Anotá tres cosas que el Señor haya hecho por vos este año y orá agradeciendo por cada una, por nombre. Fijate si el gozo te dura más que un rato."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "question": "¿Qué dice Ammón sobre el gozo que siente?",
       "type": "multiple",
       "options": [
-        "Afirma no sentir ningún tipo de gozo real",
-        "Se describe a sí mismo como una persona triste",
         "Su gozo es pleno por los frutos de su labor",
-        "Muestra completa indiferencia ante los resultados"
+        "Muestra completa indiferencia ante los resultados",
+        "Afirma no sentir ningún tipo de gozo real",
+        "Se describe a sí mismo como una persona triste"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 26:11",
       "explanation": "Ammón declara que su gozo es pleno por los frutos de su labor misionera."
     },
@@ -21,12 +73,12 @@
       "question": "¿Qué habían sido los lamanitas antes de su conversión?",
       "type": "multiple",
       "options": [
-        "Personas rectas que ya seguían los mandamientos",
-        "Una nación completamente pacífica desde siempre",
         "Misioneros dedicados a predicar el evangelio",
-        "Un pueblo feroz y sanguinario que se deleitaba en matar"
+        "Un pueblo feroz y sanguinario que se deleitaba en matar",
+        "Personas rectas que ya seguían los mandamientos",
+        "Una nación completamente pacífica desde siempre"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Alma 26:23-25",
       "explanation": "Los lamanitas habían sido un pueblo feroz y sanguinario que se deleitaba en matar."
     },
@@ -35,12 +87,12 @@
       "question": "¿A quién atribuye Ammón el éxito de su misión?",
       "type": "multiple",
       "options": [
+        "A su inteligencia y habilidad para convencer",
         "A su propia fuerza y capacidad personal",
         "Al poder y misericordia de Dios",
-        "A la buena suerte que tuvo durante el viaje",
-        "A su inteligencia y habilidad para convencer"
+        "A la buena suerte que tuvo durante el viaje"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 26:12",
       "explanation": "Ammón atribuye el éxito de su misión al poder y misericordia de Dios."
     },
@@ -63,12 +115,12 @@
       "question": "Gael ayudó a un amigo a acercarse más a Dios y ahora se siente muy feliz por eso, pero teme que sea orgullo. ¿Qué le aclara Alma 26 sobre el gozo de Ammón?",
       "type": "multiple",
       "options": [
-        "Que sentir gozo por ayudar a otros siempre es una forma de orgullo",
         "Que el gozo por ver a otros convertirse es apropiado cuando se atribuye el mérito a Dios, no a uno mismo",
         "Que debe ocultar su alegría para parecer más humilde",
-        "Que solo los misioneros de tiempo completo pueden sentir ese tipo de gozo"
+        "Que solo los misioneros de tiempo completo pueden sentir ese tipo de gozo",
+        "Que sentir gozo por ayudar a otros siempre es una forma de orgullo"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "reference": "Alma 26:11-16",
       "explanation": "El gozo por ver a otros convertirse es apropiado cuando reconocemos que el mérito es de Dios, no nuestro."
     },
@@ -77,12 +129,12 @@
       "question": "Emilia recuerda cómo era su vida antes de acercarse más a su fe y a veces se siente avergonzada de ese pasado. ¿Qué actitud de Ammón hacia los lamanitas conversos le ayudaría?",
       "type": "multiple",
       "options": [
+        "Comparar su pasado con el de otras personas para sentirse mejor",
         "Reconocer que el cambio es posible para cualquiera, sin importar cuán lejos haya estado del camino correcto",
         "Evitar hablar de su pasado con cualquier persona",
-        "Sentir que su pasado la descalifica para servir a otros",
-        "Comparar su pasado con el de otras personas para sentirse mejor"
+        "Sentir que su pasado la descalifica para servir a otros"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "reference": "Alma 26:23-25",
       "explanation": "Ammón reconoció que el cambio es posible para cualquiera, sin importar cuán lejos haya estado del camino correcto."
     },
@@ -91,12 +143,12 @@
       "question": "¿Qué relación hay entre el gozo de Ammón y el reconocimiento de que el éxito de su misión vino del poder de Dios?",
       "type": "multiple",
       "options": [
+        "Solo el reconocimiento del poder de Dios importa, sin relación con el gozo personal",
         "No tienen relación real entre sí",
         "El verdadero gozo espiritual nace de reconocer que la obra fue posible gracias al poder de Dios, no al propio mérito",
-        "El gozo de Ammón era completamente independiente de su fe en Dios",
-        "Solo el reconocimiento del poder de Dios importa, sin relación con el gozo personal"
+        "El gozo de Ammón era completamente independiente de su fe en Dios"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Alma 26:12",
       "explanation": "El verdadero gozo espiritual de Ammón nació de reconocer que el éxito de su misión vino del poder de Dios."
     }

@@ -34,14 +34,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Mosíah 26 enseña que el Salvador siempre está dispuesto a perdonar a quienes se vuelven sinceramente a Él. El arrepentimiento no es una señal de fracaso definitivo, sino una evidencia del amor y misericordia de Dios. Alma aprendió que el cuidado espiritual requiere paciencia, guía inspirada y compasión. Jesucristo puede limpiar el pecado, sanar el corazón y dar una nueva oportunidad a todos Sus hijos."
+      "contenido": "Mosíah 26 enseña que el Salvador siempre está dispuesto a perdonar a quien se vuelve a Él de verdad. El arrepentimiento no es la señal de que fracasaste: es la evidencia de Su misericordia funcionando. Fijate en la frase que usa el Señor con Alma —«cuantas veces mi pueblo se arrepienta»— porque no aparece ningún número ahí, y esa ausencia es la enseñanza. Alma aprendió además que cuidar espiritualmente a otros exige paciencia y guía inspirada, no reglamentos. Jesucristo puede limpiar el pecado, sanar el corazón y dar otra oportunidad. Si venís postergando un arrepentimiento porque ya lo intentaste antes, esta semana es un buen momento."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "Si fueras Alma y tuvieras que decidir qué hacer con alguien de tu grupo de jóvenes que pecó gravemente, ¿a quién le pedirías consejo primero?",
         "¿Qué palabra resume mejor lo que el Señor le enseñó a Alma sobre el perdón: límite, paciencia, o segunda oportunidad?",
-        "¿Alguna vez pensaste que habías fallado tanto que ya no valía la pena intentar arreglarlo con Dios o con otra persona?",
+        "Leé otra vez Mosíah 26:30 y fijate en las palabras «cuantas veces». ¿Le pone el versículo algún límite a ese número?",
         "¿Hubo alguna vez que perdonaste a alguien más de una vez por el mismo error, como el Señor le pidió a Alma?",
         "¿Hay algo que todavía no le confesaste a Dios en oración y que podrías empezar a hablar esta semana?",
         "¿A quién necesitás perdonar de nuevo esta semana, aunque ya lo hayas intentado antes?"
@@ -54,12 +54,12 @@
       "question": "¿Qué problema enfrentó Alma con la nueva generación?",
       "type": "multiple",
       "options": [
+        "No creían en la tradición de sus padres y pecaban",
         "Eran demasiado estrictos en guardar cada mandamiento",
         "Se negaban a participar en cualquier actividad social",
-        "Pedían más responsabilidades de las que se les daban",
-        "No creían en la tradición de sus padres y pecaban"
+        "Pedían más responsabilidades de las que se les daban"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "reference": "Mosíah 26:1-4",
       "explanation": "La nueva generación no creía en la tradición de sus padres y caía en el pecado."
     },
@@ -82,12 +82,12 @@
       "question": "¿Qué condición se requiere para ser perdonado según este capítulo?",
       "type": "multiple",
       "options": [
-        "Un arrepentimiento sincero acompañado de confesión",
-        "Simplemente decir que lo sentimos sin ningún cambio real",
         "Ninguna condición especial más allá del bautismo",
-        "Realizar una ofrenda material como compensación"
+        "Realizar una ofrenda material como compensación",
+        "Un arrepentimiento sincero acompañado de confesión",
+        "Simplemente decir que lo sentimos sin ningún cambio real"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Mosíah 26:29",
       "explanation": "Se requiere un arrepentimiento sincero acompañado de confesión."
     },
@@ -96,12 +96,12 @@
       "question": "¿Qué le preocupaba a Alma sobre algunos miembros de la iglesia?",
       "type": "multiple",
       "options": [
+        "Que cuestionaban públicamente algunas de sus enseñanzas",
         "Que no asistían con suficiente frecuencia a las reuniones",
         "Que no contribuían lo suficiente a las necesidades del templo",
-        "Que cometían pecados y causaban que otros se descarriaran",
-        "Que cuestionaban públicamente algunas de sus enseñanzas"
+        "Que cometían pecados y causaban que otros se descarriaran"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "reference": "Mosíah 26:6",
       "explanation": "A Alma le preocupaba que algunos miembros cometían pecados y hacían que otros se descarriaran."
     },
@@ -124,12 +124,12 @@
       "question": "Santino no cree en lo que sus padres le enseñaron sobre la Iglesia y se siente presionado a fingir que sí. ¿Qué muestra el problema que enfrentó Alma con la nueva generación?",
       "type": "multiple",
       "options": [
-        "Que la nueva generación de Alma no tuvo ningún problema real de fe",
-        "Que los hijos deben aceptar sin cuestionar la fe de sus padres",
         "Que fingir tener fe es aceptable mientras asista a la iglesia",
-        "Que la fe genuina no puede imponerse; cada persona necesita su propia conversión"
+        "Que la fe genuina no puede imponerse; cada persona necesita su propia conversión",
+        "Que la nueva generación de Alma no tuvo ningún problema real de fe",
+        "Que los hijos deben aceptar sin cuestionar la fe de sus padres"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Mosíah 26:1-4",
       "explanation": "El relato muestra que la fe genuina no puede imponerse; cada persona necesita experimentar su propia conversión."
     },
@@ -138,12 +138,12 @@
       "question": "¿Cómo se relacionan la preocupación de Alma por los pecadores y la instrucción del Señor de perdonar cuantas veces se arrepientan?",
       "type": "multiple",
       "options": [
+        "Solo la instrucción del Señor tiene relevancia práctica",
         "No tienen relación entre sí",
         "Ambas muestran que el objetivo no es castigar sino ayudar a las personas a volver al camino correcto",
-        "Muestran que Alma debía castigar sin dar oportunidad al arrepentimiento",
-        "Solo la instrucción del Señor tiene relevancia práctica"
+        "Muestran que Alma debía castigar sin dar oportunidad al arrepentimiento"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "reference": "Mosíah 26",
       "explanation": "Ambas muestran que el objetivo del liderazgo espiritual es ayudar a las personas a volver al camino correcto, no solo castigar."
     }

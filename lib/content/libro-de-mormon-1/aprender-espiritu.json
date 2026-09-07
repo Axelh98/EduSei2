@@ -46,14 +46,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El Espíritu Santo no es un premio para los perfectos. Es un regalo que el Padre Celestial pone a tu disposición ahora, en tu vida de hoy, con tus preguntas reales. Cuanto más lo invitás —obedeciendo, orando, estudiando— más claramente lo reconocés. Nefi no nació sabiendo escuchar. Eligió hablar con el Señor, y el Señor le respondió. Vos podés hacer lo mismo esta semana."
+      "contenido": "El Espíritu Santo no es un premio para los perfectos. Es un regalo que el Padre Celestial pone a tu disposición ahora, con tus preguntas reales y tu vida como es hoy. Cuanto más lo invitás —obedeciendo, orando, estudiando— más claramente lo reconocés. Nefi no nació sabiendo escuchar: era muy joven, tenía deseos y clamó al Señor, y el Señor le enterneció el corazón. Y no perdás de vista a quién te lleva esa voz: la función del Consolador es dar testimonio de Jesucristo, así que reconocerlo a Él es la señal de que estás escuchando bien. Empezá esta semana por pedir una sola cosa concreta, y prestá atención a lo que llega después."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cómo describirías la forma en que has sentido el Espíritu Santo en algún momento de tu vida? ¿Se pareció a alguna de las descripciones del élder Rasband?",
-        "¿Hay alguna diferencia entre la experiencia de Nefi (1 Nefi 2:16) y la de Lamanita al recibir revelación? ¿Qué dice eso sobre cómo funciona el Espíritu?",
         "¿Cuándo fue la última vez que sentiste un impulso a hacer algo bueno y lo hiciste? ¿Qué pasó?",
+        "Volvé a leer 1 Nefi 2:16 y fijate qué hizo Nefi primero y qué hizo el Señor después. ¿Cuál de las dos cosas depende de vos?",
         "¿Hay alguna área de tu vida —una decisión que tenés que tomar, algo que no entendés— donde te gustaría sentir más la guía del Espíritu?",
         "¿Qué hábito concreto podrías adoptar esta semana para invitar más al Espíritu Santo a tu estudio de las Escrituras o a tu vida diaria?",
         "¿Le explicarías a alguien que no conoce la Iglesia cómo funciona el Espíritu Santo? ¿Qué ejemplo de tu propia vida usarías?"
@@ -63,80 +63,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál es la frase exacta del presidente Russell M. Nelson citada en esta lección sobre el esfuerzo?",
+      "question": "Según 2 Nefi 32:5, ¿qué promete Nefi que hará el Espíritu Santo con quien entre por la senda y lo reciba?",
       "options": [
-        "El Señor recompensa a quienes se esfuerzan más que a los demás",
-        "El esfuerzo sin dirección divina no produce resultados espirituales",
-        "El Señor ama el esfuerzo, porque el esfuerzo brinda recompensas que no pueden recibirse sin él",
-        "Todo esfuerzo honesto eventualmente conduce al mismo resultado espiritual"
+        "Le revelará el día exacto en que ha de volver el Salvador.",
+        "Le dará el don de enseñar a otros con autoridad.",
+        "Le quitará las dificultades del camino que eligió recorrer.",
+        "Le mostrará todas las cosas que debe hacer."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "Según Éter 12:6, ¿en qué momento se recibe el testimonio?",
+      "question": "El élder Rasband describió de qué forma se comunica el Espíritu con mayor frecuencia. ¿Cuál fue su descripción?",
       "options": [
-        "Antes de ser probada la fe, como don gratuito del Señor",
-        "Solo cuando la persona es suficientemente perfecta en su comportamiento",
-        "No antes de la prueba de la fe; el testimonio viene después de demostrarla",
-        "Automáticamente al momento del bautismo y confirmación"
+        "En forma de sentimientos y de un suave impulso a actuar.",
+        "Por medio de sueños que hay que interpretar con ayuda de un líder.",
+        "Con una voz audible que se escucha en los momentos de mayor necesidad.",
+        "A través de señales visibles que confirman cada decisión importante."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "El élder Bednar dijo que aprender por la fe requiere 'esfuerzo espiritual, mental y físico'. ¿Por qué menciona las tres dimensiones y no solo la espiritual?",
+      "question": "Moroni 10:4–5 pone tres condiciones para recibir respuesta: corazón sincero, verdadera intención y fe en Cristo. ¿Por qué la promesa no depende solamente de hacer la pregunta?",
       "options": [
-        "Porque el crecimiento espiritual es secundario al desarrollo intelectual y físico",
-        "Porque el aprendizaje del Evangelio que lleva a la conversión involucra a la persona completa, no solo un aspecto",
-        "Porque las personas solo aprenden espiritualmente si primero han desarrollado sus capacidades mentales",
-        "Porque Dios requiere agotamiento físico como condición previa para recibir revelación"
+        "Porque esa promesa fue dada solo a quienes vivieron en los tiempos del Libro de Mormón.",
+        "Porque esa disposición del corazón es la que invita al Espíritu Santo a manifestar la verdad.",
+        "Porque Dios responde únicamente a quienes de antemano ya conocen la respuesta correcta.",
+        "Porque las preguntas hechas sin preparación previa ofenden al Padre Celestial y no reciben respuesta."
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "2 Nefi 28:30 enseña que el Señor da conocimiento 'línea por línea, precepto por precepto'. ¿Cómo se conecta este principio con la idea de 'aprender por la fe' en Seminario?",
+      "question": "En 1 Nefi 2:16 Nefi era «muy joven todavía» y aun así recibió respuesta. ¿Qué orden muestra ese versículo entre lo que hizo él y lo que hizo el Señor?",
       "options": [
-        "Que si esperamos el tiempo suficiente, el conocimiento llegará sin necesidad de esfuerzo",
-        "Que el crecimiento espiritual es gradual y requiere que actuemos con fe en lo que ya aprendimos para recibir más",
-        "Que el Señor da el mismo conocimiento a todos al mismo tiempo sin importar el esfuerzo individual",
-        "Que el aprendizaje gradual aplica solo para los profetas, no para los jóvenes en Seminario"
+        "Nefi creyó a su padre por obligación, y el Señor lo recompensó bastante más adelante.",
+        "Nefi esperó a tener más edad antes de pedir su propia confirmación espiritual.",
+        "Nefi clamó al Señor, y el Señor le enterneció el corazón para que creyera.",
+        "El Señor lo visitó primero, y recién después Nefi sintió deseos de creer a su padre."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "Sofía asiste a Seminario pero siempre está en su teléfono durante la clase y no participa en las discusiones. Según lo que enseña el élder Bednar sobre el aprendizaje activo, ¿qué está perdiendo Sofía?",
+      "question": "Ignacio tiene que decidir si cambia de escuela el año que viene. Ora, pero dice que «no escucha nada» y supone que Dios no le contesta. Según esta lección y el élder Rasband, ¿qué le convendría revisar?",
       "options": [
-        "Solo está perdiendo puntos de asistencia, pero el Espíritu igual le enseñará",
-        "Está perdiendo la oportunidad de recibir mensajes del Espíritu personalizados a sus necesidades, que llegan cuando participa activamente",
-        "No está perdiendo nada porque el contenido está disponible en línea",
-        "Solo pierde la oportunidad social de hacer amigos en la clase"
+        "Si el tema es lo bastante importante como para molestar al Padre Celestial con eso.",
+        "Si alguien con más autoridad puede tomar la decisión en su lugar y evitarle la duda.",
+        "Si conviene postergar la decisión hasta recibir una confirmación clara e imposible de confundir.",
+        "Si está esperando una voz audible cuando la respuesta suele llegar como un sentimiento."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
-      "question": "Luca dice que no siente que Dios le hable directamente, así que para qué esforzarse en estudiar el Evangelio. Según los principios de esta lección, ¿qué le dirías?",
+      "question": "Julieta siente el impulso de escribirle a una compañera que está pasando un mal momento, pero le da vergüenza y lo deja pasar. ¿Qué principio de la lección se aplica mejor a esa situación?",
       "options": [
-        "Que tiene razón, y que el esfuerzo solo vale si ya siente la presencia de Dios",
-        "Que el esfuerzo sincero es precisamente lo que demuestra al Padre Celestial que estamos listos para aprender, y abre la puerta a la instrucción del Espíritu",
-        "Que los sentimientos espirituales son la condición previa para estudiar, no el resultado",
-        "Que debería esperar hasta que Dios le envíe una señal clara antes de comprometerse con el estudio"
+        "Que el Espíritu suele impulsar suavemente a actuar, y reconocerlo se aprende actuando.",
+        "Que la vergüenza es señal de que ese impulso probablemente no venía del Espíritu Santo.",
+        "Que los impulsos de hacer el bien conviene consultarlos antes con un adulto de confianza.",
+        "Que si el impulso viniera del Espíritu volvería más fuerte y sin lugar a ninguna duda."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
-      "question": "El presidente Nelson dijo que 'el Señor ama el esfuerzo'. El élder Bednar añadió que la sinceridad y constancia de nuestros actos de fe le indican al Padre Celestial nuestra disposición a aprender. ¿Qué relación establecen estas dos enseñanzas entre el esfuerzo y la revelación?",
+      "question": "Nefi pidió ver por su cuenta lo que su padre había visto (1 Nefi 10:17–19) y Moroni invita a preguntar a Dios con verdadera intención (Moroni 10:4–5). ¿Qué tienen en común las dos invitaciones?",
       "options": [
-        "Que la revelación viene primero y el esfuerzo es solo la respuesta agradecida",
-        "Que el esfuerzo y la revelación son fenómenos completamente independientes entre sí",
-        "Que el esfuerzo activo y sincero es una señal de fe que activa la disposición de Dios a enseñarnos más",
-        "Que cualquier tipo de esfuerzo, sea sincero o no, produce el mismo resultado espiritual"
+        "Que las respuestas llegan más rápido cuando varias personas preguntan lo mismo.",
+        "Que el conocimiento espiritual se recibe pidiéndolo uno mismo, no heredándolo.",
+        "Que el testimonio de otra persona alcanza mientras uno no tenga dudas propias.",
+        "Que solo los profetas y los hijos de profetas reciben esa clase de manifestación."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

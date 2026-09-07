@@ -41,17 +41,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Mirar más allá del objetivo ocurre cuando la forma se vuelve más importante que el fondo. Cuando las reglas reemplazan a la relación. Cuando cumplís por costumbre en lugar de hacerlo por amor. La solución no es eliminar las normas, sino entender para qué están: para llevarte a Cristo. Cada mandamiento que guardás, cada ritual que practicás, cada domingo que elegís ir a la Iglesia, debería acercarte más a Él. Si no es así, vale la pena preguntarse por qué."
+      "contenido": "Mirar más allá del objetivo es lo que pasa cuando la forma se vuelve más importante que el fondo: cuando las reglas reemplazan a la relación y cumplís por costumbre en lugar de hacerlo por amor. La solución no es sacar las normas, sino entender para qué están. Jacob lo dice sin vueltas: reconciliaos con Dios por medio de la expiación de Cristo. Ese es el objetivo, y todo lo demás es el camino hacia ahí. Cada mandamiento que guardás, cada domingo que elegís ir, debería acercarte a Él. Si hace rato que no sentís que te acerca a nadie, vale la pena preguntarse qué se corrió de lugar."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Alguna vez te pasó de cumplir algo religioso 'de forma automática', sin pensar realmente para qué sirve?",
         "Jacob habla de 'mirar más allá del objetivo'. ¿Podés pensar en un ejemplo de hoy en que eso podría ocurrir?",
-        "¿Qué diferencia hay entre seguir reglas religiosas por hábito y seguirlas porque entendés que te llevan a Cristo?",
+        "Volvé a leer Jacob 4:14 y buscá qué fue lo que hizo tropezar a los judíos, según Jacob. ¿Fue falta de información o algo distinto?",
         "¿Cómo podría la humildad —el no aconsejar al Señor sino recibir Su consejo— cambiar la forma en que tomás decisiones?",
         "¿Hay alguna práctica religiosa en tu vida que podrías hacer con más intención esta semana, pensando en cómo te conecta con el Salvador?",
-        "Si alguien te preguntara 'para qué sirven todos estos mandamientos', ¿qué le dirías con las palabras de esta lección?"
+        "Meditá esta semana en qué cosa del Evangelio venís haciendo sin pensar para qué la hacés. Anotá la respuesta y, si no la encontrás, preguntale al Padre Celestial."
       ]
     }
   ],
@@ -60,12 +60,12 @@
       "id": 1,
       "question": "Según Jacob 4:14, ¿cuál fue el error específico que cometieron los judíos con respecto a las enseñanzas del Señor?",
       "options": [
-        "Que rechazaron completamente las enseñanzas de los profetas sin escucharlas",
         "Que miraron más allá del objetivo: despreciaron las palabras claras y buscaron cosas que no podían comprender",
         "Que adoptaron las enseñanzas de los profetas pero las aplicaron de manera incorrecta",
-        "Que estudiaron demasiado las Escrituras hasta perder la perspectiva práctica"
+        "Que estudiaron demasiado las Escrituras hasta perder la perspectiva práctica",
+        "Que rechazaron completamente las enseñanzas de los profetas sin escucharlas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -82,34 +82,34 @@
       "id": 3,
       "question": "'Mirar más allá del objetivo' puede suceder hoy. ¿Cuál de los siguientes ejemplos moderno ilustra mejor ese problema?",
       "options": [
-        "Un joven que va a la Iglesia y participa en todas las actividades, pero lo hace para construir relaciones sociales y no para acercarse a Cristo",
-        "Un estudiante que lee el Libro de Mormón y encuentra partes difíciles de entender",
         "Una persona que hace preguntas sobre la doctrina para entenderla mejor",
-        "Alguien que asiste al templo más de una vez al mes porque quiere ir frecuentemente"
+        "Alguien que asiste al templo más de una vez al mes porque quiere ir frecuentemente",
+        "Un joven que va a la Iglesia y participa en todas las actividades, pero lo hace para construir relaciones sociales y no para acercarse a Cristo",
+        "Un estudiante que lee el Libro de Mormón y encuentra partes difíciles de entender"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "Jacob dice en 4:11 que debemos 'reconciliarnos con Dios por medio de la expiación de Cristo'. ¿Qué relación tiene ese llamado con el problema de 'mirar más allá del objetivo'?",
       "options": [
-        "No tienen relación; son dos enseñanzas independientes del capítulo",
-        "La reconciliación con Cristo a través de la Expiación es el 'objetivo' que nunca debemos perder de vista; todos los rituales y prácticas apuntan a esa relación central",
         "La expiación es el 'objetivo' que debemos mirar desde lejos sin entrar en sus detalles complicados",
-        "Reconciliarse con Dios es lo que logran automáticamente quienes estudian las Escrituras con regularidad"
+        "Reconciliarse con Dios es lo que logran automáticamente quienes estudian las Escrituras con regularidad",
+        "No tienen relación; son dos enseñanzas independientes del capítulo",
+        "La reconciliación con Cristo a través de la Expiación es el 'objetivo' que nunca debemos perder de vista; todos los rituales y prácticas apuntan a esa relación central"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Camila pasa mucho tiempo discutiendo en su clase de Seminario sobre interpretaciones doctrinales complicadas y siente que así se acerca más a Dios. Según el principio de Jacob 4:14, ¿qué podría estar perdiendo?",
       "options": [
-        "Nada; el estudio profundo de la doctrina es exactamente lo que el Señor desea",
         "La sencillez de Cristo: puede estar tan enfocada en discutir ideas que pierde la relación personal y transformadora con el Salvador que es el objetivo real",
         "Solo tiempo que podría usar para memorizar más versículos del Dominio de la doctrina",
-        "La oportunidad de liderar el debate hacia conclusiones más correctas"
+        "La oportunidad de liderar el debate hacia conclusiones más correctas",
+        "Nada; el estudio profundo de la doctrina es exactamente lo que el Señor desea"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -126,12 +126,12 @@
       "id": 7,
       "question": "Jacob 4:14 advierte contra 'mirar más allá del objetivo'. Jacob 4:10 dice 'no busquéis aconsejar al Señor'. ¿Cuál es el principio subyacente que une ambas advertencias?",
       "options": [
+        "Que los judíos tenían un problema único de soberbia que no aplica a los miembros de la Iglesia hoy",
         "Que la inteligencia humana es el mayor obstáculo para la fe y debe suprimirse",
         "Que la tendencia humana a complicar, controlar o ir más allá de lo que Dios pide nos aleja de la sencillez y la humildad que permiten una relación verdadera con Cristo",
-        "Que debemos aceptar pasivamente todo sin cuestionarlo ni estudiarlo con profundidad",
-        "Que los judíos tenían un problema único de soberbia que no aplica a los miembros de la Iglesia hoy"
+        "Que debemos aceptar pasivamente todo sin cuestionarlo ni estudiarlo con profundidad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

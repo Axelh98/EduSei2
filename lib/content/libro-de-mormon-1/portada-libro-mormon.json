@@ -46,17 +46,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El Libro de Mormón no es un libro más. Tiene una misión específica que ningún otro libro puede cumplir. Cuando lo leés, participás en ese propósito: conocer a Cristo y ayudar a otros a conocerlo también. La próxima vez que abras el Libro de Mormón, recordá que no estás leyendo historia antigua. Estás sosteniendo en tus manos el instrumento que Dios preparó para el recogimiento de Su pueblo en estos días. Eso cambia todo."
+      "contenido": "El Libro de Mormón no es un libro más: tiene una misión que ningún otro libro cumple. Cuando lo leés, participás de ese propósito, que la portada declara sin rodeos: convencer al judío y al gentil de que Jesús es el Cristo. Ese es el criterio para saber si lo estás leyendo bien. Si terminás un capítulo sabiendo más datos pero sin haber visto nada de Su vida, de Su misericordia o de lo que Él promete, se te escapó el motivo por el que alguien enterró unas planchas durante siglos. La próxima vez que lo abras, acordate de que no estás leyendo historia antigua: tenés en las manos el instrumento que Dios preparó para el recogimiento de Su pueblo."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "Antes de esta lección, ¿sabías que la portada del Libro de Mormón explicaba su propósito? ¿Qué te llamó la atención de ella?",
         "¿Cuál de los dos propósitos del Libro de Mormón —recoger a Israel o testificar de Cristo— te resulta más fácil de entender en tu vida? ¿Por qué?",
-        "Si alguien te preguntara por qué la Iglesia usa tanto el Libro de Mormón si ya tienen la Biblia, ¿qué le dirías con las palabras del élder Soares y del presidente Nelson?",
+        "Volvé a leer Mormón 5:14 y buscá el fin declarado con el que el libro llegaría a los incrédulos. ¿Coincide con el motivo por el que vos lo leés?",
         "¿Sentís que conocés a Jesucristo mejor gracias al Libro de Mormón? ¿Hay algún pasaje específico que te haya acercado más a Él?",
         "¿Con quién podrías compartir el Libro de Mormón esta semana? ¿Cómo le explicarías por qué existe?",
-        "¿Cómo cambiaría tu forma de leer el Libro de Mormón si cada vez lo abrieras pensando que estás participando en el recogimiento de Israel?"
+        "Leé la portada del Libro de Mormón en voz alta esta semana y anotá con qué frase te quedás. Después orá preguntando si el libro está cumpliendo con vos lo que promete ahí."
       ]
     }
   ],
@@ -65,23 +65,23 @@
       "id": 1,
       "question": "El manual pregunta: '¿Por qué necesitamos el Libro de Mormón si ya tenemos la Biblia?' Según el élder Soares, ¿cuál es el rol específico del Libro de Mormón que la Biblia no cumple de la misma manera?",
       "options": [
-        "El Libro de Mormón es simplemente una versión más moderna y fácil de leer de la Biblia",
-        "El Libro de Mormón es el instrumento de Dios para lograr el recogimiento de Israel en los últimos días",
         "El Libro de Mormón reemplaza a la Biblia para los miembros de la Iglesia",
-        "El Libro de Mormón solo añade información histórica que le falta a la Biblia"
+        "El Libro de Mormón solo añade información histórica que le falta a la Biblia",
+        "El Libro de Mormón es simplemente una versión más moderna y fácil de leer de la Biblia",
+        "El Libro de Mormón es el instrumento de Dios para lograr el recogimiento de Israel en los últimos días"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Según la portada del Libro de Mormón, ¿para quiénes fue escrito y con qué dos propósitos principales?",
       "options": [
-        "Para los lamanitas; para preservar su historia y sus tradiciones culturales",
         "Para el resto de la casa de Israel, judíos y gentiles; para recoger a Israel y convencer a todos de que Jesús es el Cristo",
         "Para los miembros de la Iglesia; para fortalecer su fe y guiar su vida cotidiana",
-        "Para el mundo académico; para demostrar la autenticidad de la revelación moderna"
+        "Para el mundo académico; para demostrar la autenticidad de la revelación moderna",
+        "Para los lamanitas; para preservar su historia y sus tradiciones culturales"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -98,34 +98,34 @@
       "id": 4,
       "question": "La lección usa el ejemplo de una herramienta desconocida para ilustrar la importancia de entender el propósito del Libro de Mormón antes de usarlo. ¿Qué implica esa analogía para cómo deberíamos acercarnos al libro?",
       "options": [
+        "Que solo los que ya conocen la Iglesia pueden beneficiarse de leerlo",
         "Que el Libro de Mormón es tan complicado que necesitamos expertos para entenderlo",
         "Que conocer los propósitos del libro transforma cómo lo leemos y qué buscamos en él",
-        "Que el Libro de Mormón tiene un solo uso correcto y todos los demás son equivocados",
-        "Que solo los que ya conocen la Iglesia pueden beneficiarse de leerlo"
+        "Que el Libro de Mormón tiene un solo uso correcto y todos los demás son equivocados"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Camila tiene un amigo que le pregunta: '¿Por qué tu Iglesia se enfoca tanto en el Libro de Mormón si ya tienen la Biblia?' Según los propósitos de la portada y la enseñanza del élder Soares, ¿cuál sería la respuesta más completa?",
       "options": [
-        "Que la Biblia tiene errores y el Libro de Mormón los corrige",
-        "Que el Libro de Mormón tiene un propósito único: recoger a Israel y testificar de Cristo de una manera que la Biblia sola no puede cumplir en los últimos días",
         "Que el Libro de Mormón es más fácil de leer que la Biblia para los jóvenes modernos",
-        "Que ambos libros son idénticos en propósito y contenido, solo que el Libro de Mormón es más reciente"
+        "Que ambos libros son idénticos en propósito y contenido, solo que el Libro de Mormón es más reciente",
+        "Que la Biblia tiene errores y el Libro de Mormón los corrige",
+        "Que el Libro de Mormón tiene un propósito único: recoger a Israel y testificar de Cristo de una manera que la Biblia sola no puede cumplir en los últimos días"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Tomás nunca ha leído el Libro de Mormón y lo ve como un libro religioso más. Después de estudiar esta lección, ¿qué podría hacer esta semana que demostraría que entendió su propósito?",
       "options": [
-        "Comprar una edición más bonita del libro para tenerlo en su habitación",
         "Empezar a leerlo con la intención de conocer a Jesucristo y con la promesa de Moroni 10:4–5 en mente",
         "Recomendarle a un amigo que lo lea sin haberlo leído él mismo primero",
-        "Asistir a la Iglesia más frecuentemente para aprender sobre el libro de segunda mano"
+        "Asistir a la Iglesia más frecuentemente para aprender sobre el libro de segunda mano",
+        "Comprar una edición más bonita del libro para tenerlo en su habitación"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

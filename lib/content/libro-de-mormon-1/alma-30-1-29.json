@@ -1,18 +1,77 @@
 {
   "id": "alma-30-1-29",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Un maka-feke es un señuelo para pulpos. Está hecho para parecerse tanto a la comida de verdad que el pulpo, una vez que lo agarra, no lo suelta; y entonces el pescador simplemente tira de la línea. El presidente Monson usó esa imagen para explicar cómo trabaja el adversario: lo que te atrapa casi nunca se presenta como una trampa. Korihor es el ejemplo que da el Libro de Mormón. Llegó a Zarahemla en un tiempo de paz, y el texto lo llama «anticristo» porque predicaba «contra las profecías que habían declarado los profetas concernientes a la venida de Cristo». Sus argumentos suenan sorprendentemente actuales: nadie puede saber lo que no ve, así que no podés saber si habrá un Cristo; las profecías son tradiciones tontas de tus padres; no se puede hacer ninguna expiación por los pecados; a cada uno le va según su habilidad; y cuando uno se muere, ahí termina todo. Fijate qué ataca exactamente. No discute reglas de conducta: discute si Él existe y si Su expiación sirve de algo. Todo lo demás —incluido el «no era ningún crimen el que un hombre hiciese cosa cualquiera»— sale de ahí. Por eso el sumo sacerdote le hace la pregunta que resume el capítulo entero: «¿Por qué enseñas a este pueblo que no habrá Cristo, para interrumpir su gozo?». Los de Zarahemla se dejaron llevar; los de Jersón y Gedeón, no: el texto dice que «fueron más prudentes». No los salvó tener mejores argumentos, los salvó no darle lugar. Hoy los maka-fekes vienen en formato de video corto y de comentario ingenioso, y la pregunta es la misma: cuánto tiempo los dejás en la mano."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 30:6",
+          "texto": "Pero sucedió que a fines del año decimoséptimo llegó un hombre a la tierra de Zarahemla, y era un anticristo, porque empezó a predicar al pueblo contra las profecías que habían declarado los profetas concernientes a la venida de Cristo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa&id=p6#p6"
+        },
+        {
+          "referencia": "Alma 30:15",
+          "texto": "¿Cómo sabéis que son ciertas? He aquí, no podéis saber de las cosas que no veis; por lo tanto, no podéis saber si habrá un Cristo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "Alma 30:17",
+          "texto": "Y muchas otras cosas parecidas les habló, diciéndoles que no se podía hacer ninguna expiación por los pecados de los hombres, sino que en esta vida a cada uno le tocaba de acuerdo con su habilidad; por tanto, todo hombre prosperaba según su genio, todo hombre conquistaba según su fuerza; y no era ningún crimen el que un hombre hiciese cosa cualquiera.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Alma 30:22",
+          "texto": "Y aconteció que el sumo sacerdote le dijo: ¿Por qué andas pervirtiendo las vías del Señor? ¿Por qué enseñas a este pueblo que no habrá Cristo, para interrumpir su gozo? ¿Por qué hablas contra todas las profecías de los santos profetas?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa&id=p22#p22"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Presidente Thomas S. Monson",
+      "fuente": "«Leales a la fe», Liahona, mayo de 2006, pág. 18",
+      "texto": "Hoy estamos rodeados de los maka-fekes que el maligno oscila ante nosotros y con los que intenta atraernos y luego atraparnos. Una vez que la persona los agarra, es sumamente difícil soltarlos, y a veces hasta casi imposible. Para protegernos, debemos reconocerlos por lo que son y después ser firmes en nuestra determinación de evitarlos.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2006/04/true-to-the-faith?lang=spa&id=p6#p6"
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder D. Todd Christofferson",
+      "fuente": "«El divino don del arrepentimiento», Liahona, noviembre de 2011, pág. 38",
+      "texto": "[Las personas como] Korihor niegan la existencia misma de Cristo y del pecado. Su doctrina es que los valores, las normas e incluso la verdad son relativos; por tanto, lo que sea que uno considere correcto para sí mismo, los demás no pueden juzgarlo erróneo ni pecaminoso. En la superficie, esas filosofías parecen atractivas porque nos autorizan a satisfacer cualquier apetito o deseo sin preocuparnos por las consecuencias.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-divine-gift-of-repentance?lang=spa&id=p6-p7#p6"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Las enseñanzas contrarias a Cristo casi nunca se anuncian como tales: se presentan como libertad, como sentido común, como pensar por uno mismo. Korihor no le pidió a nadie que hiciera el mal de frente; primero le sacó la razón para no hacerlo. Por eso el antídoto no es tener la mejor réplica, sino conocerlo a Él lo suficiente como para notar cuándo algo lo está corriendo del centro. Lo que Korihor negaba —que hay una expiación, que hay Alguien que va a venir— es justamente lo que sostiene tu gozo. Revisá esta semana qué venís consumiendo a diario y sacá una sola cosa que esté debilitando eso."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Qué te parece más peligroso de un maka-feke: que engañe, o que uno no lo quiera soltar una vez que lo agarró?",
+        "De las enseñanzas de Korihor, ¿cuál te suena más parecida a algo que escuchás hoy?",
+        "Volvé a leer Alma 30:22 y fijate qué le reprocha exactamente el sumo sacerdote. ¿Qué dice que se interrumpe al enseñar que no habrá Cristo?",
+        "Los de Jersón y Gedeón fueron «más prudentes». ¿Qué te parece que hicieron distinto de los de Zarahemla?",
+        "¿Qué cuenta, canal o costumbre de tu semana dejarías de seguir si sospecharas que te está debilitando la fe?",
+        "Anotá una idea que hayas escuchado y que te haya dejado incómodo sin saber bien por qué. Llevala a la oración esta semana y fijate si lo que discute es una regla o es Él."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "question": "¿Qué enseñaba Korihor?",
       "type": "multiple",
       "options": [
-        "La verdad del evangelio tal como la enseñaban los profetas",
-        "La importancia de seguir fielmente a los profetas",
         "La necesidad urgente de un arrepentimiento sincero",
-        "Que no habría Cristo, ni expiación, ni vida después de la muerte"
+        "Que no habría Cristo, ni expiación, ni vida después de la muerte",
+        "La verdad del evangelio tal como la enseñaban los profetas",
+        "La importancia de seguir fielmente a los profetas"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "reference": "Alma 30:12-18",
       "explanation": "Korihor enseñaba que no habría Cristo, ni expiación, ni vida después de la muerte."
     },
@@ -21,12 +80,12 @@
       "question": "¿Cómo describe el libro de Mormón a Korihor?",
       "type": "multiple",
       "options": [
-        "Como un anticristo que negaba las profecías de Cristo",
-        "Como un profeta enviado a corregir errores",
         "Como un líder justo y respetado por todos",
-        "Como un amigo cercano de los sacerdotes"
+        "Como un amigo cercano de los sacerdotes",
+        "Como un anticristo que negaba las profecías de Cristo",
+        "Como un profeta enviado a corregir errores"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Alma 30:6",
       "explanation": "El libro de Mormón describe a Korihor como un anticristo que negaba las profecías de Cristo."
     },
@@ -35,12 +94,12 @@
       "question": "¿Qué efecto tuvieron las enseñanzas de Korihor?",
       "type": "multiple",
       "options": [
-        "No tuvieron ningún efecto sobre la población",
-        "Alejaron a muchas personas de la fe",
         "Fortalecieron la fe de quienes las escucharon",
-        "No lograron influir en absolutamente nadie"
+        "No lograron influir en absolutamente nadie",
+        "No tuvieron ningún efecto sobre la población",
+        "Alejaron a muchas personas de la fe"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 30:18",
       "explanation": "Las enseñanzas de Korihor alejaron a muchas personas de la fe."
     },
@@ -91,12 +150,12 @@
       "question": "¿Qué relación hay entre lo que enseñaba Korihor y la forma en que justificaba su derecho a enseñarlo?",
       "type": "multiple",
       "options": [
-        "No tienen relación real entre sí",
-        "Korihor usaba la idea de libertad individual para justificar una doctrina que en realidad alejaba a las personas de Dios",
         "Su justificación sobre la libertad era completamente independiente de su doctrina",
-        "Korihor no tenía ninguna justificación para sus enseñanzas"
+        "Korihor no tenía ninguna justificación para sus enseñanzas",
+        "No tienen relación real entre sí",
+        "Korihor usaba la idea de libertad individual para justificar una doctrina que en realidad alejaba a las personas de Dios"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 30:12-24",
       "explanation": "Korihor usaba la idea de libertad individual para justificar una doctrina que en realidad alejaba a las personas de Dios."
     }

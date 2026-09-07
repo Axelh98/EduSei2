@@ -1,50 +1,90 @@
 {
   "id": "dd-2-nefi-32-8-9",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Este pasaje de Dominio de la Doctrina hace dos cosas en muy pocas palabras. Primero explica por qué a veces no querés orar: «el espíritu malo no enseña al hombre a orar, sino le enseña que no debe orar». Ese dato solo ya sirve, porque le pone nombre a algo que casi todos experimentan y que suele confundirse con pereza o con vergüenza. Segundo, da el mandamiento y la promesa juntos: orar siempre y no desmayar, y nada hacer ante el Señor sin orar primero al Padre en el nombre de Cristo «para que él os consagre vuestra acción». Dominar este pasaje te da con qué responderle a alguien que dice que orar no cambia nada, porque la promesa no es que las circunstancias se acomoden: es que lo que hacés quede consagrado, es decir, que sirva para tu alma. Y fijate en el nombre por el que se pide: no es una fórmula de cierre, es la razón por la que la puerta está abierta. Se ora al Padre en el nombre de Cristo porque Él es quien la abrió, y la abrió con Su sacrificio."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "2 Nefi 32:8",
+          "texto": "Y ahora bien, amados hermanos míos, percibo que aún estáis meditando en vuestros corazones; y me duele tener que hablaros concerniente a esto. Porque si escuchaseis al Espíritu que enseña al hombre a orar, sabríais que os es menester orar; porque el espíritu malo no enseña al hombre a orar, sino le enseña que no debe orar.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p8#p8"
+        },
+        {
+          "referencia": "2 Nefi 32:9",
+          "texto": "Mas he aquí, os digo que debéis orar siempre, y no desmayar; que nada debéis hacer ante el Señor, sin que primero oréis al Padre en el nombre de Cristo, para que él os consagre vuestra acción, a fin de que vuestra obra sea para el beneficio de vuestras almas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Alma 34:27",
+          "texto": "Sí, y cuando no estéis clamando al Señor, dejad que rebosen vuestros corazones, entregados continuamente en oración a él por vuestro bienestar, así como por el bienestar de los que os rodean.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p27#p27"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Dominar 2 Nefi 32:8–9 es tener a mano dos cosas: el diagnóstico de por qué a veces no querés orar, y la promesa de lo que pasa cuando lo hacés igual. La primera te saca la culpa de encima; la segunda te da un motivo concreto. Y el mandamiento es bastante más amplio de lo que parece: no dice orar cuando haga falta, dice no hacer nada ante el Señor sin orar antes, para que Él consagre la acción. Eso alcanza a la escuela, al deporte y a las conversaciones difíciles. Todo se pide en el nombre de Cristo, porque es Su nombre el que sostiene la promesa. Practicá la frase clave esta semana hasta poder decirla sin mirar."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cómo le explicarías a alguien que dice que orar «no cambia nada» lo que promete este pasaje?",
+        "¿Qué te parece más útil de estos versículos: saber de dónde viene el impulso de no orar, o saber qué pasa cuando orás?",
+        "Volvé a leer 2 Nefi 32:9 y fijate qué palabra usa para lo que el Señor hace con nuestras acciones. ¿Qué te parece que significa ahí?",
+        "¿Qué cosa hacés habitualmente sin orar antes, simplemente porque nunca se te ocurrió?",
+        "¿Qué señal concreta te va a servir esta semana para acordarte de orar antes de empezar algo?",
+        "Elegí una actividad común, orá antes de hacerla cada día de esta semana y anotá si notás alguna diferencia en cómo sale o en cómo la vivís."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "question": "Completa el versículo: 'Y ahora bien, hijos míos, ____ siempre al Padre en mi nombre; y lo que sea que pidáis que sea justo, en fe creyendo que recibiréis, he aquí, os será dado.'",
       "options": [
-        "alabad",
         "escuchad",
         "orad",
-        "buscad"
+        "buscad",
+        "alabad"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "Según 2 Nefi 32:8, ¿qué les enseña el diablo específicamente a los hombres para alejarlos de Dios?",
       "options": [
+        "Que la oración formal es menos efectiva que los pensamientos mentales",
         "Que deben orar solo en lugares sagrados",
         "Que no deben orar, endureciendo su corazón",
-        "Que la oración es solo para los débiles que no pueden resolver sus problemas solos",
-        "Que la oración formal es menos efectiva que los pensamientos mentales"
+        "Que la oración es solo para los débiles que no pueden resolver sus problemas solos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "El versículo dice que el Padre 'consagrará' nuestras acciones cuando oramos. ¿Qué significa 'consagrar' una acción en este contexto?",
       "options": [
-        "Hacer que la acción sea perfecta y sin defectos",
-        "Transformar nuestros esfuerzos imperfectos para que obren para el bienestar de nuestra alma, añadiendo el poder de Dios a lo que hacemos",
         "Garantizar que la acción tendrá éxito desde una perspectiva mundana",
-        "Hacer que otras personas aprueben y valoren lo que hacemos"
+        "Hacer que otras personas aprueben y valoren lo que hacemos",
+        "Hacer que la acción sea perfecta y sin defectos",
+        "Transformar nuestros esfuerzos imperfectos para que obren para el bienestar de nuestra alma, añadiendo el poder de Dios a lo que hacemos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "El manual sugiere que este versículo puede usarse para ayudar a alguien que pregunta: '¿Para qué sirve orar si Dios ya sabe lo que necesito?' ¿Cuál sería la respuesta más fiel a la doctrina de este versículo?",
       "options": [
-        "Que la oración es principalmente para informar a Dios de nuestras necesidades, ya que aunque lo sabe, necesita que lo digamos",
         "Que la oración no es solo comunicar información sino una conexión activa que el diablo busca interrumpir y que, cuando se mantiene, consagra nuestra vida",
         "Que Dios en realidad no sabe todo y la oración le provee información necesaria",
-        "Que la oración es una tradición religiosa útil psicológicamente pero sin impacto espiritual real"
+        "Que la oración es una tradición religiosa útil psicológicamente pero sin impacto espiritual real",
+        "Que la oración es principalmente para informar a Dios de nuestras necesidades, ya que aunque lo sabe, necesita que lo digamos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -61,23 +101,23 @@
       "id": 6,
       "question": "Luca memoriza 2 Nefi 32:9 para el Dominio de la doctrina pero nunca ora formalmente. ¿Cuál es la diferencia entre dominar el versículo y dominarlo realmente?",
       "options": [
+        "Aplicar el versículo es opcional una vez que se lo ha memorizado",
         "No hay diferencia; memorizar el versículo es la meta del Dominio de la doctrina",
         "Dominar el versículo realmente significa que su promesa se está experimentando en la vida porque se practica la oración que describe",
-        "El Dominio de la doctrina solo requiere poder recitar el versículo, no aplicarlo",
-        "Aplicar el versículo es opcional una vez que se lo ha memorizado"
+        "El Dominio de la doctrina solo requiere poder recitar el versículo, no aplicarlo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "2 Nefi 32:3 dice que las palabras de Cristo nos dicen qué hacer. 2 Nefi 32:9 dice que la oración consagra nuestras acciones. ¿Qué imagen completa de la vida discipular emergen al combinar estas dos promesas?",
       "options": [
-        "Que podemos elegir una de las dos según nuestra preferencia personal",
-        "Que el discipulado requiere tanto recibir dirección a través de las palabras de Cristo como someter esas acciones a Dios mediante la oración, creando un ciclo de guía y consagración",
         "Que las palabras de Cristo son para la cabeza y la oración es para el corazón, y los dos no necesitan conectarse",
-        "Que la oración reemplaza eventualmente la necesidad de leer las Escrituras"
+        "Que la oración reemplaza eventualmente la necesidad de leer las Escrituras",
+        "Que podemos elegir una de las dos según nuestra preferencia personal",
+        "Que el discipulado requiere tanto recibir dirección a través de las palabras de Cristo como someter esas acciones a Dios mediante la oración, creando un ciclo de guía y consagración"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

@@ -53,10 +53,10 @@
       "preguntas": [
         "¿Cuál de las preguntas que hace Alma en este capítulo te parece la más directa?",
         "En una sola frase, ¿qué es para vos un 'cambio de corazón'?",
-        "¿Alguna vez sentiste que sabías todas las respuestas correctas en Seminario, pero no estabas seguro de sentir un cambio real por dentro?",
+        "Releé Alma 5:27 y contá las preguntas que Alma mete en ese solo versículo. Quedate con la que más te incomode.",
         "¿Hubo algún momento en tu vida donde notaste un cambio real en lo que querías hacer, no solo en lo que sabías?",
         "Esta semana, ¿qué pregunta de Alma 5 vas a hacerte honestamente antes de dormir, aunque sea una sola vez?",
-        "¿Qué decisión chica pero real podrías tomar esta semana para acercarte al 'cambio de corazón' que describe Alma?"
+        "Orá esta semana pidiendo ver una sola cosa que el Señor quiera cambiar en vos, y anotá lo que sientas. Una sola: no la lista entera."
       ]
     }
   ],
@@ -80,12 +80,12 @@
       "question": "¿Qué otra pregunta importante hace Alma en el versículo 19?",
       "type": "multiple",
       "options": [
-        "¿Cuánta riqueza material has logrado acumular?",
         "¿Eres una persona completamente perfecta?",
         "¿Cuántos años de educación formal tienes?",
-        "¿Puedes imaginar que oyes la voz del Señor diciendo 'Venid a mí'?"
+        "¿Puedes imaginar que oyes la voz del Señor diciendo 'Venid a mí'?",
+        "¿Cuánta riqueza material has logrado acumular?"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Alma 5:16",
       "explanation": "Alma pregunta si podemos imaginar oír la voz del Señor invitándonos a venir a Él."
     },
@@ -94,12 +94,12 @@
       "question": "¿Qué nos ayudan a hacer estas preguntas de Alma?",
       "type": "multiple",
       "options": [
-        "Evaluar honestamente nuestro progreso espiritual",
         "Compararnos favorablemente con el resto de la congregación",
         "Sentirnos superiores a quienes no han cambiado tanto",
-        "Juzgar el nivel espiritual de otras personas"
+        "Juzgar el nivel espiritual de otras personas",
+        "Evaluar honestamente nuestro progreso espiritual"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Alma 5:14-31",
       "explanation": "Estas preguntas nos ayudan a evaluar honestamente nuestro propio progreso espiritual."
     },
@@ -108,12 +108,12 @@
       "question": "¿Con qué imagen compara Alma este 'cambio de corazón' en el versículo 14?",
       "type": "multiple",
       "options": [
-        "Con ganar una batalla militar contra un enemigo poderoso",
-        "Con construir una casa nueva desde los cimientos",
         "Con recibir la imagen de Dios grabada en el propio semblante",
-        "Con aprender un oficio después de años de práctica"
+        "Con aprender un oficio después de años de práctica",
+        "Con ganar una batalla militar contra un enemigo poderoso",
+        "Con construir una casa nueva desde los cimientos"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "reference": "Alma 5:14",
       "explanation": "Alma compara el cambio de corazón con recibir la imagen de Dios grabada en el semblante."
     },
@@ -136,12 +136,12 @@
       "question": "Joaquín se compara constantemente con otros de su congregación para sentirse bien consigo mismo. ¿Qué le enseñan las preguntas de autoevaluación de Alma?",
       "type": "multiple",
       "options": [
-        "Que la autoevaluación debe ser honesta y personal, no una comparación con otras personas",
-        "Que compararse con otros es la mejor forma de medir el progreso espiritual",
         "Que solo importa ser mejor que la mayoría de la congregación",
-        "Que Alma recomendaba evaluar primero a los demás"
+        "Que Alma recomendaba evaluar primero a los demás",
+        "Que la autoevaluación debe ser honesta y personal, no una comparación con otras personas",
+        "Que compararse con otros es la mejor forma de medir el progreso espiritual"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "reference": "Alma 5:14-31",
       "explanation": "La autoevaluación que propone Alma debe ser honesta y personal, no una comparación con otras personas."
     },
@@ -150,12 +150,12 @@
       "question": "¿Cómo se conectan la pregunta sobre el cambio de corazón (v.14) y la de imaginar la voz del Señor invitando a venir (v.16)?",
       "type": "multiple",
       "options": [
-        "No tienen relación entre sí",
-        "Ambas invitan a examinar si nuestra relación con Dios es real y personal, no solo teórica",
         "Solo la primera pregunta tiene valor espiritual real",
-        "La segunda pregunta reemplaza la necesidad de la primera"
+        "La segunda pregunta reemplaza la necesidad de la primera",
+        "No tienen relación entre sí",
+        "Ambas invitan a examinar si nuestra relación con Dios es real y personal, no solo teórica"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Alma 5:14-16",
       "explanation": "Ambas preguntas invitan a examinar si nuestra relación con Dios es real y personal."
     }

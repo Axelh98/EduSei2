@@ -34,10 +34,10 @@
       "preguntas": [
         "¿Te acordás de tu propio bautismo o el de alguien cercano? ¿Qué recordás de ese día?",
         "De estos tres pasajes, ¿cuál te resulta más fácil de recordar?",
-        "¿Qué significa para vos \"llevar las cargas\" de otra persona en la práctica, no solo en teoría?",
+        "Buscá en Mosíah 26:22 qué se le pide a quien es recibido en la Iglesia, y qué promete el Señor a cambio.",
         "¿Alguna vez sentiste ese \"cambio de disposición\" del que habla Mosíah 5:2, aunque sea en un área pequeña de tu vida?",
         "Elegí a alguien cercano y una carga específica que podrías ayudarlo a llevar esta semana.",
-        "¿Qué parte de tu convenio bautismal sentís que necesitás renovar con más intención esta semana?"
+        "Mosíah 5:2 describe un cambio de corazón que la gente sintió, no que decidió. Orá esta semana pidiendo ese cambio en un área concreta y anotá lo que notes, aunque sea poco."
       ]
     }
   ],
@@ -47,12 +47,12 @@
       "question": "¿Por qué es importante repasar los pasajes de dominio regularmente?",
       "type": "multiple",
       "options": [
-        "Para mantenerlos accesibles cuando el Espíritu los necesite traer a nuestra memoria",
         "Solamente para tener éxito en los exámenes de la clase",
         "Para impresionar a otros con nuestra capacidad de memoria",
-        "No es realmente necesario repasarlos con frecuencia"
+        "No es realmente necesario repasarlos con frecuencia",
+        "Para mantenerlos accesibles cuando el Espíritu los necesite traer a nuestra memoria"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "Es importante para mantenerlos accesibles cuando el Espíritu los necesite traer a nuestra memoria."
     },
     {
@@ -60,12 +60,12 @@
       "question": "¿Cuál es la diferencia entre memorizar y dominar un pasaje?",
       "type": "multiple",
       "options": [
-        "No existe ninguna diferencia entre ambos conceptos",
-        "Memorizar ya es suficiente sin necesidad de comprensión",
         "Dominar incluye entender, vivir y poder enseñar el principio",
-        "Dominar significa simplemente repetirlo más veces seguidas"
+        "Dominar significa simplemente repetirlo más veces seguidas",
+        "No existe ninguna diferencia entre ambos conceptos",
+        "Memorizar ya es suficiente sin necesidad de comprensión"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "Dominar un pasaje incluye entenderlo, vivirlo y poder enseñar el principio."
     },
     {
@@ -87,12 +87,12 @@
       "question": "¿Cómo se relacionan los versículos de dominio de Alma con los de Mosíah?",
       "type": "multiple",
       "options": [
-        "Ambos enseñan sobre el cambio de corazón y la expiación de Cristo",
-        "No tienen ninguna relación temática entre sí",
         "Son completamente distintos en todos sus temas",
-        "Solamente se contradicen entre ellos en su enseñanza"
+        "Solamente se contradicen entre ellos en su enseñanza",
+        "Ambos enseñan sobre el cambio de corazón y la expiación de Cristo",
+        "No tienen ninguna relación temática entre sí"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": "Ambos conjuntos de versículos enseñan sobre el cambio de corazón y la expiación de Cristo."
     },
     {
@@ -100,12 +100,12 @@
       "question": "Antonella quiere ayudar a un amigo que está pasando un momento difícil, usando lo que ha aprendido en dominio de la doctrina. ¿Qué le recomendarías?",
       "type": "multiple",
       "options": [
-        "Recitar el versículo sin ningún comentario adicional",
-        "Compartir el pasaje junto con su propio testimonio de cómo esa verdad la ha ayudado",
         "Esperar a que su amigo pregunte directamente por un versículo",
-        "Evitar mencionar las escrituras para no parecer predicadora"
+        "Evitar mencionar las escrituras para no parecer predicadora",
+        "Recitar el versículo sin ningún comentario adicional",
+        "Compartir el pasaje junto con su propio testimonio de cómo esa verdad la ha ayudado"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "Podemos compartir el pasaje junto con nuestro propio testimonio de cómo esa verdad nos ha ayudado."
     },
     {

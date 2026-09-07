@@ -1,6 +1,58 @@
 {
   "id": "2-nefi-32-1-7",
-  "secciones": [],
+  "secciones": [
+    {
+      "tipo": "contexto",
+      "contenido": "Imaginate un banquete: la mesa llena, la comida que más te gusta, gente alrededor. Ahora imaginate a alguien que llega, mira todo eso y come tres bocados de pie, sin sentarse, mirando el teléfono. Técnicamente comió. Pero no se deleitó. Nefi eligió justamente esa palabra. Después de explicar cómo se entra en la senda, se dio cuenta de que su pueblo seguía «meditando en sus corazones» qué hacer después, y casi se impacienta: ¿por qué siguen dándole vueltas? La respuesta que da es corta y enorme: «Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer». Fijate que no dijo «las palabras», ni «las Escrituras» a secas. Dijo las palabras de Cristo, porque de eso se trata todo el libro: son las palabras de una persona que te conoce y que dio Su vida por vos, no las cláusulas de un reglamento. El élder Takashi Wada contó que de chico creía que deleitarse era simplemente comer bien, y que después entendió que el deleite verdadero incluye gozo, gratitud, compartir, estrechar relaciones. Deleitarse en las Escrituras, dijo, es más que leerlas: debería darte gozo real y acercarte al Salvador. Y Nefi agrega la otra mitad en el versículo 5: si recibís el Espíritu Santo, «él os mostrará todas las cosas que debéis hacer». Entre las dos frases queda armado el método completo para cuando no sabés qué hacer con tu vida —y a los diecisiete años eso pasa bastante seguido—: Sus palabras y Su Espíritu. No hay una tercera fuente que Nefi haya olvidado mencionar."
+    },
+    {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "2 Nefi 32:1",
+          "texto": "Y ahora bien, he aquí, amados hermanos míos, supongo que estaréis meditando en vuestros corazones en cuanto a lo que debéis hacer después que hayáis entrado en la senda. Mas he aquí, ¿por qué meditáis estas cosas en vuestros corazones?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p1#p1"
+        },
+        {
+          "referencia": "2 Nefi 32:3",
+          "texto": "Los ángeles hablan por el poder del Espíritu Santo; por lo que declaran las palabras de Cristo. Por tanto, os dije: Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "2 Nefi 32:5",
+          "texto": "Porque he aquí, os digo otra vez, que si entráis por la senda y recibís el Espíritu Santo, él os mostrará todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "2 Nefi 31:20",
+          "texto": "Por tanto, debéis seguir adelante con firmeza en Cristo, teniendo un fulgor perfecto de esperanza y amor por Dios y por todos los hombres. Por tanto, si marcháis adelante, deleitándoos en la palabra de Cristo, y perseveráis hasta el fin, he aquí, así dice el Padre: Tendréis la vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=spa&id=p20#p20"
+        }
+      ]
+    },
+    {
+      "tipo": "enseñanza",
+      "autor": "Élder Takashi Wada",
+      "fuente": "«Deleitarse en las palabras de Cristo», Liahona, mayo de 2019, pág. 39",
+      "texto": "Cuando era joven, creía que deleitarse era, sencillamente, tener una gran comida con arroz, sushi y salsa de soja. Ahora sé que el verdadero deleite es más que disfrutar de una comida deliciosa […]. Creo que cuando nos deleitamos en las palabras de Cristo, tenemos que pensar en el mismo tipo de experiencia. Deleitarse en las Escrituras es más que leerlas; debería brindarnos gozo real y fortalecer nuestra relación con el Salvador.",
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/26wada?lang=spa&id=p3#p3"
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "La diferencia entre leer y deleitarse no está en el tiempo que le dediques, sino en con qué te sentás a la mesa. Nefi no manda estudiar más: manda deleitarse, que es otra cosa. Y lo que hace posible ese deleite es de quién son esas palabras: son de Cristo, y por eso pueden decirte qué hacer cuando nadie más puede. Si venís leyendo por obligación y saliendo igual que como entraste, el problema probablemente no sea la cantidad. Probá esta semana con un solo capítulo, sentado, sin apuro y con una pregunta real en la cabeza, y fijate si cambia algo."
+    },
+    {
+      "tipo": "cuestionario",
+      "preguntas": [
+        "¿Cuál es la diferencia entre comer y deleitarse? ¿Se te ocurre un ejemplo tuyo de las dos cosas?",
+        "¿Cómo describirías hoy tu forma de leer las Escrituras: comida rápida, o banquete?",
+        "Volvé a leer 2 Nefi 32:3 y contá cuántas veces aparece la palabra «Cristo» en ese solo versículo. ¿Qué te dice esa insistencia?",
+        "Nefi se impacienta porque su pueblo seguía «meditando» qué hacer en vez de actuar. ¿Te pasa a vos algo parecido con alguna decisión?",
+        "¿Qué método concreto vas a probar esta semana para deleitarte y no solo leer: anotar preguntas, marcar, buscar qué dice de Él?",
+        "Antes de leer, orá pidiendo entender una cosa que necesitás, y anotá al terminar si encontraste algo que no venías buscando."
+      ]
+    }
+  ],
   "questions": [
     {
       "id": 1,
@@ -28,30 +80,30 @@
       "id": 3,
       "question": "Nefi pregunta en 2 Nefi 32:7: '¿De qué manera es posible que no habléis la palabra de Cristo?' ¿Qué actitud está cuestionando Nefi con esa pregunta retórica?",
       "options": [
-        "La costumbre de hablar demasiado sobre el Evangelio en contextos inapropiados",
-        "El silencio o la inacción de quienes conocen las palabras de Cristo pero no las comparten ni las aplican",
         "La tendencia a citar las Escrituras sin entender su contexto histórico",
-        "La práctica de predicar el Evangelio a personas que no lo han pedido"
+        "La práctica de predicar el Evangelio a personas que no lo han pedido",
+        "La costumbre de hablar demasiado sobre el Evangelio en contextos inapropiados",
+        "El silencio o la inacción de quienes conocen las palabras de Cristo pero no las comparten ni las aplican"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "La lección plantea que quienes reciben el don del Espíritu Santo tienen acceso a guía personal constante. ¿Por qué muchas personas que tienen ese don no experimentan esa guía de manera regular?",
       "options": [
-        "Porque el don del Espíritu Santo solo funciona en personas con experiencia religiosa avanzada",
-        "Porque el don requiere que nos deleitemos en las palabras de Cristo para crear las condiciones que permiten al Espíritu enseñarnos",
+        "Porque el don pide que nos deleitemos en las palabras de Cristo para que el Espíritu enseñe",
         "Porque la guía del Espíritu solo se activa en momentos de crisis o peligro extremo",
-        "Porque Dios reserva la guía específica del Espíritu para situaciones que afectan a muchas personas"
+        "Porque Dios reserva la guía específica del Espíritu para situaciones que afectan a muchas personas",
+        "Porque el don del Espíritu Santo solo funciona en personas con experiencia religiosa avanzada"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Valentina enfrenta una decisión difícil —cambiar de escuela o no— y no sabe qué hacer. Según 2 Nefi 32:3 y 32:5, ¿qué proceso concreto podría seguir para recibir guía?",
       "options": [
         "Preguntar a todos sus amigos y familiares para tomar la decisión más popular",
-        "Estudiar las Escrituras para entender los principios relevantes, orar al respecto, y estar atenta a los impulsos del Espíritu que le mostrarán qué hacer",
+        "Estudiar las Escrituras, orar al respecto y estar atenta a los impulsos del Espíritu",
         "Esperar hasta que la situación se resuelva sola sin necesidad de decidir",
         "Hacer una lista de pros y contras y elegir la opción que tenga más ventajas materiales"
       ],
@@ -61,23 +113,23 @@
       "id": 6,
       "question": "Luca dice que lee las Escrituras todos los días pero nunca siente guía específica para sus problemas cotidianos. Según los principios de esta lección, ¿qué elemento podría estar faltando?",
       "options": [
+        "Que necesita esperar más tiempo después de leer para que la guía llegue",
         "Que necesita leer más páginas por día para recibir guía específica",
-        "Que quizás lee de forma mecánica sin deleitarse genuinamente; la guía del Espíritu llega al que lee buscando activamente las palabras de Cristo para aplicarlas",
-        "Que las Escrituras no están diseñadas para dar guía en problemas cotidianos específicos",
-        "Que necesita esperar más tiempo después de leer para que la guía llegue"
+        "Que quizás lee de forma mecánica; la guía llega al que busca las palabras de Cristo",
+        "Que las Escrituras no están diseñadas para dar guía en problemas cotidianos específicos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "2 Nefi 32:3 (las palabras de Cristo nos dirán qué hacer) y 2 Nefi 32:5 (el Espíritu Santo nos enseñará todo) describen dos fuentes de guía. ¿Cuál es la relación entre ambas?",
       "options": [
-        "Son alternativas independientes: podemos elegir una u otra según nuestra preferencia",
-        "Las palabras de Cristo en las Escrituras y la guía del Espíritu Santo trabajan juntas, siendo el Espíritu quien ilumina las palabras y las aplica a nuestra situación personal",
         "Las palabras de Cristo son para situaciones generales y el Espíritu solo habla en emergencias",
-        "El Espíritu Santo hace innecesario el estudio de las Escrituras porque puede revelarnos todo directamente"
+        "El Espíritu Santo hace innecesario el estudio de las Escrituras porque puede revelarnos todo directamente",
+        "Son alternativas independientes: podemos elegir una u otra según nuestra preferencia",
+        "Las palabras de Cristo y el Espíritu trabajan juntos: Él ilumina esas palabras y las aplica"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

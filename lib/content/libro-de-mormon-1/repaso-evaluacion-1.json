@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Esta lección es un repaso de los primeros doce pasajes de Dominio de la Doctrina, desde 1 Nefi 3:7 hasta Mosíah 18:8-10, antes de la evaluación de mitad de año. No se trata solo de memorizar referencias: la meta es que puedas explicar cada verdad con tus propias palabras y reconocer en qué situación real de tu vida se aplica. Cada uno de estos pasajes responde a una pregunta distinta —qué hacer cuando Dios te pide algo difícil, por qué existe la Caída, qué significa servir a los demás, qué implica el convenio del bautismo— y juntos forman una base doctrinal que te va a servir mucho más allá del Seminario. Es normal saberte de memoria unos pasajes mejor que otros; lo importante en este repaso es identificar cuáles todavía te cuestan y dedicarles un poco más de tiempo. Repasarlos con calma, en vez de memorizarlos de apuro la noche anterior, es lo que realmente los convierte en herramientas que podés usar cuando alguien te haga una pregunta difícil sobre tu fe."
+      "contenido": "Esta lección repasa los primeros doce pasajes de Dominio de la Doctrina, desde 1 Nefi 3:7 hasta Mosíah 18:8–10, antes de la evaluación de mitad de año. No se trata solo de memorizar referencias: la meta es que puedas explicar cada verdad con tus palabras y reconocer en qué situación real se aplica. Cada pasaje responde a una pregunta distinta —qué hacer cuando Dios te pide algo difícil, por qué existe la Caída, qué significa servir a los demás, qué implica el convenio del bautismo— y juntos forman una base que te va a servir más allá del Seminario. Pero no son doce temas sueltos. Uno de los doce dice para dónde apuntan todos: el hombre natural se hace santo «por la expiación de Cristo el Señor». La obediencia difícil, el albedrío, el servicio y el bautismo no son cuatro materias separadas; son cuatro maneras de acercarse a la misma persona. Si al repasar podés decir qué te enseña cada pasaje sobre Jesucristo, ya no los estás memorizando: los estás entendiendo. Es normal saberte unos mejor que otros; lo importante acá es identificar cuáles te cuestan y darles un poco más de tiempo, con calma y no la noche anterior."
     },
     {
       "tipo": "escrituras",
@@ -22,22 +22,27 @@
           "referencia": "Mosíah 2:17",
           "texto": "Y he aquí, os digo estas cosas para que aprendáis sabiduría; para que sepáis que cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Mosíah 3:19",
+          "texto": "Porque el hombre natural es enemigo de Dios, y lo ha sido desde la caída de Adán, y lo será para siempre jamás, a menos que se someta al influjo del Santo Espíritu, y se despoje del hombre natural, y se haga santo por la expiación de Cristo el Señor, y se vuelva como un niño: sumiso, manso, humilde, paciente, lleno de amor y dispuesto a someterse a cuanto el Señor juzgue conveniente infligir sobre él, tal como un niño se somete a su padre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa&id=p19#p19"
         }
       ]
     },
     {
       "tipo": "conclusion",
-      "contenido": "Repasar estos doce pasajes no es un trámite antes de un examen: es una oportunidad de convertir versículos memorizados en convicciones propias. Cuando podés explicar con tus palabras por qué Adán cayó, o qué significa creer en Dios, esas verdades dejan de ser información ajena y empiezan a ser parte de cómo pensás y decidís. Esta semana, elegí uno de los doce pasajes que más te cueste recordar y practicá explicárselo a alguien —un hermano, un amigo, o incluso en voz alta para vos mismo— como si esa persona nunca lo hubiera escuchado."
+      "contenido": "Repasar estos doce pasajes no es un trámite antes de un examen: es la oportunidad de convertir versículos memorizados en convicciones propias. Cuando podés explicar con tus palabras por qué Adán cayó, o qué significa creer en Dios, esas verdades dejan de ser información ajena y pasan a formar parte de cómo pensás y decidís. Y si además podés decir qué muestra cada pasaje sobre Jesucristo y Su expiación, entonces los doce dejan de ser una lista y se vuelven un solo mensaje. Elegí el que más te cueste recordar y practicá explicárselo a alguien esta semana —un hermano, un amigo, o en voz alta para vos— como si nunca lo hubiera escuchado."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "De los doce pasajes de este repaso, ¿cuál te sabés de memoria sin dudar?",
         "¿Cuál de estos pasajes te costó más recordar hasta ahora?",
+        "Volvé a leer Mosíah 3:19 y fijate qué dice que hace posible el cambio del hombre natural. ¿Cuál de los otros once pasajes se conecta mejor con eso?",
         "Elegí un pasaje y contá una situación real, tuya o de alguien que conocés, donde esa verdad se aplicaría.",
-        "¿Qué diferencia hay entre memorizar una referencia y realmente entender lo que enseña?",
         "¿Qué técnica vas a usar esta semana para repasar los pasajes que todavía no te sabés bien?",
-        "Elegí un pasaje y practicá explicárselo a otra persona esta semana. ¿A quién se lo vas a explicar?"
+        "Elegí uno de los doce, meditá en qué te enseña sobre Jesucristo y anotá esa respuesta en una sola oración."
       ]
     }
   ],
@@ -60,12 +65,12 @@
       "question": "¿Cómo debes prepararte para la evaluación?",
       "type": "multiple",
       "options": [
-        "Estudiando únicamente la noche anterior a la evaluación",
         "Memorizando palabras sin buscar comprender su significado",
         "Repasar constantemente y vivir los principios",
-        "No es necesario ningún tipo de preparación previa"
+        "No es necesario ningún tipo de preparación previa",
+        "Estudiando únicamente la noche anterior a la evaluación"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "Debes prepararte repasando constantemente y viviendo los principios que has aprendido."
     },
     {
@@ -73,12 +78,12 @@
       "question": "¿Qué temas doctrinales principales hemos visto desde el inicio del año?",
       "type": "multiple",
       "options": [
-        "Obediencia, albedrío, expiación, cambio de corazón, convenios y fe",
-        "Únicamente relatos de guerras entre naciones",
         "Solamente listas de nombres y genealogías",
-        "Ningún tema doctrinal relevante en particular"
+        "Ningún tema doctrinal relevante en particular",
+        "Obediencia, albedrío, expiación, cambio de corazón, convenios y fe",
+        "Únicamente relatos de guerras entre naciones"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": "Hemos visto obediencia, albedrío, expiación, cambio de corazón, convenios y fe."
     },
     {
@@ -99,12 +104,12 @@
       "question": "Delfina siente que ha memorizado mucho pero no aplicado casi nada este año. ¿Qué le sugerirías para su autoevaluación?",
       "type": "multiple",
       "options": [
-        "Que se conforme con lo que ya memorizó",
         "Reflexionar honestamente sobre cómo ha vivido, no solo cuánto ha memorizado",
         "Comparar cuánto memorizó frente a sus compañeros",
-        "Dejar de estudiar más versículos hasta el próximo año"
+        "Dejar de estudiar más versículos hasta el próximo año",
+        "Que se conforme con lo que ya memorizó"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "La autoevaluación debe incluir reflexionar honestamente sobre cómo hemos vivido, no solo cuánto hemos memorizado."
     },
     {
@@ -112,12 +117,12 @@
       "question": "Santino quiere fortalecer su testimonio pero no sabe cómo empezar. ¿Qué le recomienda este repaso?",
       "type": "multiple",
       "options": [
-        "Esperar a que el testimonio llegue sin ningún esfuerzo personal",
-        "Depender completamente del testimonio de sus padres",
         "Memorizar más datos sin necesidad de vivirlos",
-        "Crecer mediante el estudio constante, la oración sincera y la aplicación de lo aprendido"
+        "Crecer mediante el estudio constante, la oración sincera y la aplicación de lo aprendido",
+        "Esperar a que el testimonio llegue sin ningún esfuerzo personal",
+        "Depender completamente del testimonio de sus padres"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "El testimonio crece mediante el estudio constante, la oración sincera y la aplicación de lo aprendido."
     },
     {
@@ -125,12 +130,12 @@
       "question": "¿Qué principio conecta el poder transformador del evangelio en los hijos de Mosíah con el ejemplo de los anti-nefi-lehitas?",
       "type": "multiple",
       "options": [
+        "Los anti-nefi-lehitas no experimentaron ningún cambio real",
         "No tienen relación real entre sí",
         "Ambos muestran que un cambio de corazón genuino puede transformar completamente la vida de una persona o un pueblo",
-        "Solo el ejemplo de los hijos de Mosíah es relevante para nuestra vida hoy",
-        "Los anti-nefi-lehitas no experimentaron ningún cambio real"
+        "Solo el ejemplo de los hijos de Mosíah es relevante para nuestra vida hoy"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Ambos ejemplos muestran que un cambio de corazón genuino puede transformar completamente la vida de una persona o un pueblo."
     }
   ]
