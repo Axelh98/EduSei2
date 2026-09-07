@@ -17,6 +17,11 @@
           "referencia": "Helamán 6:35–36",
           "texto": "Y así vemos que el Espíritu del Señor empezó a retirarse de los nefitas a causa de la iniquidad y la dureza de sus corazones. Y así vemos que el Señor comenzó a derramar su Espíritu sobre los lamanitas, por motivo de su inclinación y disposición a creer en sus palabras.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=spa&id=p35-p36#p35"
+        },
+        {
+          "referencia": "Helamán 3:29–30",
+          "texto": "Sí, vemos que todo aquel que quiera, puede asirse a la palabra de Dios, que es viva y poderosa, que partirá por medio toda la astucia, los lazos y las artimañas del diablo, y guiará al hombre de Cristo por un camino estrecho y angosto, a través de ese eterno abismo de miseria que se ha dispuesto para hundir a los inicuos, y depositará su alma, sí, su alma inmortal, a la diestra de Dios en el reino de los cielos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/3?lang=spa&id=p29-p30#p29"
         }
       ]
     },
@@ -36,10 +41,10 @@
       "preguntas": [
         "¿Qué te parece la idea de que Mormón compiló siglos de historia y se detuvo justo en estos versículos para señalarte algo?",
         "Helamán 3:27–28 dice que la puerta del cielo está abierta para 'todos, sí, para todos' los que crean en Cristo. ¿Qué te transmite esa repetición?",
-        "Helamán 6:35–36 contrasta un corazón que se endurece y pierde el Espíritu con uno dispuesto a creer y lo recibe. ¿En cuál de los dos te reconocés más esta semana?",
+        "Volvé a leer Helamán 3:27–28. Mormón repite una misma palabra para que no se te escape a quiénes incluye: fijate cuál es y cuántas veces la usa.",
         "El élder Bednar enseñó que hay que dejar de hacer cualquier cosa que nos separe del Espíritu. ¿Hay algo concreto que sabés que te está alejando del Espíritu ahora mismo?",
         "Si tuvieras que resumir en una frase propia lo que aprendiste de estos dos 'así vemos', ¿cuál sería?",
-        "¿Qué decisión concreta podés tomar esta semana para que el Espíritu se derrame sobre vos como se derramó sobre los lamanitas de Helamán 6?"
+        "Elegí esa cosa que sabés que te está endureciendo el corazón y orá esta semana pidiendo fuerza para dejarla. Anotá qué día te costó más y por qué."
       ]
     }
   ],
@@ -48,12 +53,12 @@
       "id": 1,
       "question": "¿Qué expresión repite Mormón varias veces en Helamán 3 y 6 para señalar una verdad doctrinal importante?",
       "options": [
-        "'He aquí, yo os digo'",
         "'Así vemos'",
         "'Acordaos, acordaos'",
-        "'Sucedió que'"
+        "'Sucedió que'",
+        "'He aquí, yo os digo'"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -70,34 +75,34 @@
       "id": 3,
       "question": "Según Helamán 6:35–36, ¿qué le sucede al Espíritu del Señor cuando un pueblo o una persona endurece su corazón por la iniquidad?",
       "options": [
+        "El Espíritu se traslada automáticamente a otra persona de la misma familia",
         "No tiene ningún efecto sobre la presencia del Espíritu",
         "El Espíritu del Señor empieza a retirarse",
-        "El Espíritu se hace más fuerte para compensar la iniquidad",
-        "El Espíritu se traslada automáticamente a otra persona de la misma familia"
+        "El Espíritu se hace más fuerte para compensar la iniquidad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "El mismo pasaje (Helamán 6:36) dice que el Espíritu se derramó sobre los lamanitas 'por motivo de su inclinación y disposición a creer'. ¿Qué principio general sobre recibir el Espíritu ilustra esta frase?",
       "options": [
-        "Que recibir el Espíritu depende únicamente del linaje o del pueblo al que uno pertenece",
-        "Que la disposición del corazón a creer y aceptar la palabra de Dios influye directamente en la presencia del Espíritu en la vida de una persona",
         "Que el Espíritu se derrama por igual sobre todos, sin importar la disposición del corazón de cada persona",
-        "Que solo los profetas pueden recibir el Espíritu del Señor"
+        "Que solo los profetas pueden recibir el Espíritu del Señor",
+        "Que recibir el Espíritu depende únicamente del linaje o del pueblo al que uno pertenece",
+        "Que la disposición a creer influye en la presencia del Espíritu"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Martina nota que últimamente evita orar y leer las Escrituras, y siente que 'algo' se distanció en su vida espiritual, aunque no sabría explicar bien qué. Según el principio de Helamán 6:35, ¿qué le podrías compartir?",
       "options": [
-        "Que probablemente no le pasa nada real, solo son ideas suyas",
-        "Que endurecer el corazón —incluso de a poco, dejando hábitos espirituales— puede hacer que el Espíritu comience a retirarse, tal como le pasó al pueblo nefita",
+        "Que endurecer el corazón de a poco hace que el Espíritu se retire",
         "Que el Espíritu del Señor nunca se retira de nadie, sin importar las decisiones que tome",
-        "Que solo pueblos enteros, no personas individuales, pueden alejar al Espíritu"
+        "Que solo pueblos enteros, no personas individuales, pueden alejar al Espíritu",
+        "Que probablemente no le pasa nada real, solo son ideas suyas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -114,12 +119,12 @@
       "id": 7,
       "question": "Tanto 'así vemos' de Helamán 3 (la puerta del cielo abierta) como 'así vemos' de Helamán 6 (el Espíritu que se retira o se derrama) enseñan algo en común. ¿Cuál es?",
       "options": [
-        "Que la disposición sincera del corazón a creer en Cristo determina si una persona recibe la misericordia y el Espíritu de Dios, o los pierde",
-        "Que la salvación depende exclusivamente del pueblo o la nación a la que uno pertenece",
         "Que el primer 'así vemos' habla de la fe de un pueblo, y el segundo únicamente de un castigo sin relación con eso",
-        "Que el Espíritu de Dios actúa de manera aleatoria, sin relación con las decisiones personales"
+        "Que el Espíritu de Dios actúa de manera aleatoria, sin relación con las decisiones personales",
+        "Que la disposición del corazón decide si se recibe o se pierde",
+        "Que la salvación depende exclusivamente del pueblo o la nación a la que uno pertenece"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

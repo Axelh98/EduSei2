@@ -9,6 +9,11 @@
       "tipo": "escrituras",
       "citas": [
         {
+          "referencia": "3 Nefi 11:3–5",
+          "texto": "Y aconteció que mientras así conversaban, unos con otros, oyeron una voz como si viniera del cielo; y miraron alrededor, porque no entendieron la voz que oyeron; y no era una voz áspera ni una voz fuerte; no obstante, y a pesar de ser una voz suave, penetró hasta lo más profundo de los que la oyeron… Y sucedió que de nuevo oyeron la voz, y no la entendieron. Y nuevamente por tercera vez oyeron la voz, y aguzaron el oído para escucharla.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p3-p5#p3"
+        },
+        {
           "referencia": "3 Nefi 11:7",
           "texto": "He aquí a mi Hijo Amado, en quien me complazco, en quien he glorificado mi nombre: a él oíd.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p7#p7"
@@ -29,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El pueblo tuvo que escuchar la voz del cielo tres veces antes de poder entenderla — no porque Dios hablara poco claro, sino porque hacía falta preparar el oído y el corazón para recibir un mensaje así de grande. Recién a la tercera vez comprendieron: era el Padre, presentando a Su Hijo. El élder Ulisses Soares enseñó que Cristo 'fue escogido y preordenado en el Gran Concilio de los cielos, aun antes de que se formara el mundo' — este momento en Abundancia no fue improvisado, era el cumplimiento de un plan que empezó antes de la creación misma. Cuando Cristo dice 'yo soy Jesucristo', no está pidiendo que le crean por fe ciega: está presentándose como Aquel de quien todos los profetas, incluido Samuel el Lamanita años antes, ya habían testificado. Hacelo concreto esta semana: elegí un momento para 'escuchar' con más atención algo espiritual que quizás te costó entender la primera vez."
+      "contenido": "El pueblo tuvo que escuchar la voz del cielo tres veces antes de poder entenderla — no porque Dios hablara poco claro, sino porque hacía falta preparar el oído y el corazón para recibir un mensaje así de grande. Recién a la tercera vez comprendieron: era el Padre, presentando a Su Hijo. El élder Ulisses Soares enseñó que Cristo 'fue escogido y preordenado en el Gran Concilio de los cielos, aun antes de que se formara el mundo': ese momento en Abundancia no fue improvisado, era el cumplimiento de un plan anterior a la creación. Elegí esta semana un momento para escuchar con más atención algo espiritual que quizás te costó entender la primera vez."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te pareció que la multitud necesitara escuchar la voz tres veces antes de entenderla?",
         "Si hubieras estado ahí esa tarde en Abundancia, ¿qué creés que habrías sentido al ver descender a Cristo?",
-        "¿Alguna vez tuviste que 'escuchar' algo espiritual más de una vez antes de entenderlo de verdad?",
+        "Volvé a leer 3 Nefi 11:10–11. Después de decir 'yo soy Jesucristo', Cristo agrega varias cosas sobre sí mismo: fijate cuáles son y cuál te sorprende más.",
         "¿Qué te parece la enseñanza del élder Soares de que Cristo fue 'escogido y preordenado... aun antes de que se formara el mundo'?",
         "¿Hay algo espiritual que sentís que todavía no terminaste de entender, y que te gustaría volver a escuchar con más atención esta semana?",
-        "Pensando en que la multitud cayó al suelo al ver a Cristo, ¿qué gesto concreto de reverencia podrías practicar vos esta semana hacia Él?"
+        "Elegí algo espiritual que no terminaste de entender y volvé a leerlo tres veces esta semana, en tres días distintos. Anotá qué aparece recién la tercera vez."
       ]
     }
   ],
@@ -48,29 +53,29 @@
       "id": 1,
       "question": "¿Cuántas veces tuvo que escuchar la multitud la voz del cielo antes de poder entender lo que decía?",
       "options": [
+        "Nunca llegaron a entenderla",
         "Una sola vez",
         "Tres veces",
-        "Cinco veces",
-        "Nunca llegaron a entenderla"
+        "Cinco veces"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Quién era la voz que se escuchó las tres veces, y qué anunciaba?",
       "options": [
-        "Un ángel anunciando la destrucción de las ciudades",
-        "El Padre, presentando a Su Hijo Amado y pidiendo que lo escucharan",
         "Samuel el Lamanita repitiendo su antigua profecía",
-        "El profeta Nefi hablando en nombre de Dios"
+        "El profeta Nefi hablando en nombre de Dios",
+        "Un ángel anunciando la destrucción de las ciudades",
+        "El Padre, presentando a Su Hijo Amado y pidiendo que lo escucharan"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Cuando Cristo descendió, la multitud 'cayó al suelo' pensando que era un ángel (3 Nefi 11:8). ¿Qué revela Su primera declaración —'Yo soy Jesucristo, de quien los profetas testificaron'— sobre cómo se identificó ante ellos?",
       "options": [
-        "Se presentó exactamente como los profetas, incluido Samuel el Lamanita, habían anunciado que Él vendría, confirmando el cumplimiento literal de esas profecías",
+        "Se presentó tal como los profetas habían anunciado",
         "Evitó identificarse claramente para generar más misterio",
         "Se presentó como un ángel enviado por Cristo, no como Cristo mismo",
         "No hizo ninguna referencia a las profecías anteriores sobre Su venida"
@@ -81,12 +86,12 @@
       "id": 4,
       "question": "En 3 Nefi 11:11, Cristo dice que se sometió 'con paciencia a la voluntad del Padre en todas las cosas desde el principio'. ¿Qué relación establece esa frase entre Su sufrimiento y Su identidad como Salvador?",
       "options": [
-        "Que Su disposición constante a someterse a la voluntad del Padre, incluso en el sufrimiento, es parte central de quién es Él como Salvador",
+        "Que Cristo actuó completamente por Su propia voluntad, sin relación con la del Padre",
+        "Que someterse a la voluntad del Padre es central en quién es Él",
         "Que Cristo se sometió a la voluntad del Padre solamente en el momento final de Su vida",
-        "Que la paciencia de Cristo fue una cualidad personal, separada de Su misión de salvar a la humanidad",
-        "Que Cristo actuó completamente por Su propia voluntad, sin relación con la del Padre"
+        "Que la paciencia de Cristo fue una cualidad personal, separada de Su misión de salvar a la humanidad"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
@@ -94,7 +99,7 @@
       "options": [
         "Que si no entendió a la primera, seguramente ese mensaje no era para ella",
         "Que no tiene sentido volver a repasar algo que ya escuchó una vez",
-        "Que no entender algo espiritual de inmediato es normal, y volver a prestarle atención con calma puede ayudarla a comprenderlo mejor, como le pasó a esa multitud",
+        "Que no entender a la primera es normal, y volver a mirar ayuda",
         "Que solo los profetas pueden entender mensajes espirituales complejos"
       ],
       "correctAnswer": 2
@@ -103,23 +108,23 @@
       "id": 6,
       "question": "Mateo se pregunta por qué Cristo, en lugar de aparecer de inmediato, hizo que la multitud escuchara primero la voz del Padre tres veces. Según el propósito de esa secuencia, ¿qué le ayudaría a entender?",
       "options": [
-        "Que fue un error en el relato sin ningún propósito real",
-        "Que esa secuencia preparó el corazón y la atención del pueblo para recibir un mensaje de una magnitud verdaderamente extraordinaria",
         "Que la voz del Padre no tenía ninguna relación con la aparición de Cristo que vino después",
-        "Que Dios prefiere que la gente no entienda los mensajes espirituales rápidamente"
+        "Que Dios prefiere que la gente no entienda los mensajes espirituales rápidamente",
+        "Que fue un error en el relato sin ningún propósito real",
+        "Que esa secuencia preparó el corazón y la atención del pueblo para recibir un mensaje de una magnitud verdaderamente extraordinaria"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto la preparación de escuchar la voz tres veces como la enseñanza del élder Soares sobre que Cristo fue 'preordenado... aun antes de que se formara el mundo' comparten un mismo principio sobre este momento. ¿Cuál es?",
       "options": [
-        "Que la aparición de Cristo en Abundancia fue un evento improvisado, sin ninguna preparación previa",
-        "Que este momento fue el cumplimiento cuidadosamente preparado de un plan que Dios trazó desde mucho antes, tanto en la eternidad como en la preparación inmediata del pueblo",
+        "Que fue el cumplimiento de un plan preparado desde antes",
         "Que la preordenación de Cristo solo se aplicaba a Su nacimiento en Jerusalén, no a Su ministerio posterior",
-        "Que solo los ángeles participaron en la planificación de este evento"
+        "Que solo los ángeles participaron en la planificación de este evento",
+        "Que la aparición de Cristo en Abundancia fue un evento improvisado, sin ninguna preparación previa"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

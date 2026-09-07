@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Cristo compara la falta de oración con quedar 'a merced' de que Satanás pueda zarandear como a trigo: no es una imagen menor. 'Orar siempre' no significa estar de rodillas todo el día, sino mantener una conexión constante con el Padre que no se corta apenas termina la oración formal. Los discípulos nefitas oraron con tanta fe que fueron rodeados de fuego, y Cristo mismo oró por ellos con palabras que ni Mormón pudo transcribir completas. Esta semana, agregá un momento de oración que hoy no tenés —al levantarte, antes de un examen, antes de una decisión difícil— y prestá atención a qué cambia."
+      "contenido": "Cristo compara la falta de oración con quedar a merced de que Satanás pueda zarandear como a trigo: no es una imagen menor. 'Orar siempre' no significa estar de rodillas todo el día, sino mantener una conexión constante con el Padre que no se corta apenas termina la oración formal. Y fijate la condición que Él pone en el versículo 21: orar al Padre siempre en Su nombre. La oración no llega por insistencia ni por buena redacción; llega por Su nombre. Los discípulos nefitas oraron con tanta fe que fueron rodeados de fuego, y Cristo mismo oró por ellos con palabras que ni Mormón pudo transcribir. Agregá esta semana un momento de oración que hoy no tenés y prestá atención a qué cambia."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cómo es tu práctica actual de oración familiar? ¿Qué podrías mejorar?",
         "¿Qué te enseña la oración de Cristo al Padre sobre Su interés en Sus discípulos?",
-        "¿De qué manera la oración constante te ayuda a evitar tentaciones según este pasaje?",
+        "Volvé a leer 3 Nefi 18:18. Cristo da un motivo para orar siempre y después dice qué quiere hacer Satanás: fijate en la imagen que usa y en qué le pasa al trigo cuando lo zarandean.",
         "¿Hubo alguna vez que orar justo antes de una situación difícil te ayudó a enfrentarla mejor?",
         "¿En qué momento del día se te hace más difícil recordar orar?",
-        "Elegí un momento concreto de esta semana donde vas a agregar una oración que hoy no hacés. ¿Cuál va a ser?"
+        "Probá esta semana orar una vez en un lugar donde nunca lo hacés —caminando, en el colectivo— y anotá si te sale distinto que de rodillas."
       ]
     }
   ],
@@ -53,40 +53,40 @@
       "id": 1,
       "question": "Según 3 Nefi 18:18, ¿qué advierte Cristo que puede pasar si Sus seguidores no velan y oran siempre?",
       "options": [
+        "Que dejarán de ser miembros de la Iglesia",
         "Que Satanás desea poseerlos para zarandearlos como a trigo",
         "Que perderán automáticamente todas sus bendiciones materiales",
-        "Que no podrán participar nunca más de la Santa Cena",
-        "Que dejarán de ser miembros de la Iglesia"
+        "Que no podrán participar nunca más de la Santa Cena"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "Según 3 Nefi 18:21, ¿a quiénes específicamente pide Cristo que se ore en familia?",
       "options": [
+        "Por los enemigos del pueblo nefita exclusivamente",
         "Únicamente a los líderes de la comunidad",
         "Por las esposas y los hijos, para que sean bendecidos",
-        "Solamente por los ancianos del pueblo",
-        "Por los enemigos del pueblo nefita exclusivamente"
+        "Solamente por los ancianos del pueblo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Cristo usa la imagen de ser 'zarandeados como a trigo' para describir lo que Satanás desea hacer sin la protección de la oración constante. ¿Qué representa esa imagen sobre el efecto de dejar de orar regularmente?",
       "options": [
-        "Que dejar de orar no tiene ninguna consecuencia real",
-        "Que sin una conexión constante con Dios, la persona queda más expuesta a la tentación y la inestabilidad espiritual",
         "Que la imagen se refiere únicamente a la cosecha agrícola de los nefitas",
-        "Que solo los líderes espirituales necesitan preocuparse por esta advertencia"
+        "Que solo los líderes espirituales necesitan preocuparse por esta advertencia",
+        "Que dejar de orar no tiene ninguna consecuencia real",
+        "Que sin conexión constante uno queda más expuesto"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "El relato describe que los discípulos oraron con tanta fe que fueron rodeados de fuego, y que Cristo oró por ellos con palabras que ni siquiera pudieron transcribirse. ¿Qué enseña ese nivel de poder espiritual sobre la relación entre la fe y la oración?",
       "options": [
-        "Que la oración con fe genuina puede abrir experiencias espirituales que superan lo que las palabras humanas pueden expresar",
+        "Que la oración con fe abre experiencias que superan las palabras",
         "Que ese tipo de experiencia solo era posible en la época de Cristo, sin relación con el presente",
         "Que la oración solo tiene valor si produce manifestaciones visibles como el fuego",
         "Que ese nivel de poder espiritual solo estaba disponible para los discípulos originales de Cristo"
@@ -98,7 +98,7 @@
       "question": "Valentina reconoce que ora casi únicamente antes de dormir, de forma muy breve y casi automática. Según el llamado de Cristo a 'orar siempre', ¿qué le ayudaría a replantearse su práctica?",
       "options": [
         "Que orar solo una vez al día, de cualquier forma, ya cumple completamente con esta enseñanza",
-        "Que 'orar siempre' invita a mantener una comunicación más constante y sincera con Dios a lo largo del día, no solo un hábito breve y automático",
+        "Que 'orar siempre' invita a una comunicación más constante",
         "Que orar muchas veces al día demuestra automáticamente que la oración es sincera",
         "Que este pasaje no tiene ninguna aplicación práctica para la vida diaria"
       ],
@@ -108,23 +108,23 @@
       "id": 6,
       "question": "Luca siente que orar en familia es 'incómodo' y prefiere que cada uno ore solo en su cuarto. Según 3 Nefi 18:21, ¿qué le ayudaría a entender el valor de la oración familiar?",
       "options": [
+        "Que la incomodidad inicial significa que no vale la pena intentarlo",
         "Que Cristo nunca mencionó la oración familiar como algo importante",
-        "Que Cristo pide explícitamente orar en familia para que sean bendecidos los integrantes del hogar, mostrando un valor específico en ese tipo de oración",
-        "Que la oración familiar es exactamente igual a la oración personal, sin ninguna diferencia",
-        "Que la incomodidad inicial significa que no vale la pena intentarlo"
+        "Que Cristo pide expresamente orar en familia",
+        "Que la oración familiar es exactamente igual a la oración personal, sin ninguna diferencia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Tanto la advertencia de ser 'zarandeados como a trigo' sin oración constante, como el ejemplo de los discípulos rodeados de fuego al orar con fe, enseñan un mismo principio central sobre la oración. ¿Cuál es?",
       "options": [
-        "Que la oración es opcional y solo cambia algo en circunstancias extraordinarias",
-        "Que la oración sincera y constante protege espiritualmente y puede abrir experiencias poderosas con Dios",
         "Que solo la oración pública tiene algún valor real",
-        "Que la advertencia sobre ser 'zarandeados' solo se aplicaba a los discípulos de esa época"
+        "Que la advertencia sobre ser 'zarandeados' solo se aplicaba a los discípulos de esa época",
+        "Que la oración es opcional y solo cambia algo en circunstancias extraordinarias",
+        "Que la oración sincera y constante protege espiritualmente y puede abrir experiencias poderosas con Dios"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

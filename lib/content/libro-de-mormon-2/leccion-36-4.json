@@ -6,14 +6,38 @@
       "contenido": "Llega el repaso final: los doce pasajes de Dominio de la Doctrina estudiados a lo largo de todo el semestre, desde Alma hasta Moroni: Alma 7:11–13, Alma 34:9–10, Alma 39:9, Alma 41:10, Helamán 5:12, 3 Nefi 11:10–11, 3 Nefi 12:48, 3 Nefi 27:20, Éter 12:6, Éter 12:27, Moroni 7:45–48 y Moroni 10:4–5. El objetivo ya no es aprender algo nuevo de cada uno por separado, sino tenerlos todos disponibles al mismo tiempo, como una caja de herramientas completa. El manual de Seminario propone emparejar cada referencia con su frase clave, completar pasajes con las palabras exactas que faltan, e identificar qué pasaje responde mejor a distintas situaciones reales que puede enfrentar un joven. Repasar los doce juntos, en lugar de uno a la vez, ayuda a notar algo que quizás no se veía antes: casi todos, de una forma u otra, terminan señalando lo mismo — que dependemos de Cristo, y que Su expiación es la respuesta central detrás de cada doctrina que aprendiste este semestre."
     },
     {
+      "tipo": "escrituras",
+      "citas": [
+        {
+          "referencia": "Alma 7:11–13",
+          "texto": "Y él saldrá, sufriendo dolores, aflicciones y tentaciones de todas clases; y esto para que se cumpla la palabra que dice: Tomará sobre sí los dolores y las enfermedades de su pueblo. Y tomará sobre sí la muerte, para soltar las ligaduras de la muerte que sujetan a su pueblo; y sus debilidades tomará él sobre sí… a fin de que según la carne sepa cómo socorrer a los de su pueblo. Sin embargo, el Hijo de Dios padece según la carne, a fin de tomar sobre sí los pecados de su pueblo, para borrar sus transgresiones según el poder de su liberación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p11-p13#p11"
+        },
+        {
+          "referencia": "Helamán 5:12",
+          "texto": "Y ahora bien, recordad, hijos míos, recordad que es sobre la roca de nuestro Redentor, el cual es Cristo, el Hijo de Dios, donde debéis establecer vuestro fundamento, para que cuando el diablo lance sus impetuosos vientos, sí, sus dardos en el torbellino, sí, cuando todo su granizo y furiosa tormenta os azoten, esto no tenga poder para arrastraros al abismo de miseria y angustia sin fin, a causa de la roca sobre la cual estáis edificados, que es un fundamento seguro.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        },
+        {
+          "referencia": "Moroni 10:4–5",
+          "texto": "Y cuando recibáis estas cosas, quisiera exhortaros a que preguntéis a Dios el Eterno Padre, en el nombre de Cristo, si no son verdaderas estas cosas; y si pedís con un corazón sincero, con verdadera intención, teniendo fe en Cristo, él os manifestará la verdad de ellas por el poder del Espíritu Santo; y por el poder del Espíritu Santo podréis conocer la verdad de todas las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p4-p5#p4"
+        }
+      ]
+    },
+    {
+      "tipo": "conclusion",
+      "contenido": "Doce pasajes, estudiados a lo largo de todo un semestre, y un solo hilo que los atraviesa: Jesucristo. Alma 7:11–13 dice que tomó sobre sí los dolores y los pecados de Su pueblo para saber cómo socorrerte. Helamán 5:12 dice sobre qué roca pararte cuando llegue la tormenta. Moroni 10:4–5 dice cómo podés saber por vos mismo que todo esto es verdad. No son doce datos sueltos para un examen: son doce herramientas que ya tenés, y las tres apuntan al mismo lugar. Elegí el pasaje que menos te sabés y practicalo esta semana hasta poder decirlo sin dudar."
+    },
+    {
       "tipo": "cuestionario",
       "preguntas": [
         "De los doce pasajes de Dominio de la Doctrina del semestre, ¿cuál te sabés mejor de memoria, y cuál peor?",
         "Si tuvieras que armar tu propia 'caja de herramientas' con tres de estos doce pasajes, ¿cuáles elegirías y por qué?",
-        "¿Notás algún hilo doctrinal común que conecte a varios de estos pasajes entre sí?",
+        "Releé Alma 7:11–13 pensando en una persona concreta que esté sufriendo. ¿Qué parte del pasaje le leerías a esa persona, y cuál te guardarías para vos?",
         "¿Cuál de estos pasajes usaste realmente, aunque sea una vez, en una conversación o decisión de tu vida real?",
         "Elegí un método concreto para repasar los pasajes que menos te sabés esta semana: tarjetas, repetición en voz alta, u otro.",
-        "¿A quién le podrías proponer repasar juntos estos doce pasajes antes de terminar el semestre?"
+        "Elegí el pasaje que más te costó este semestre y orá con él delante un día de esta semana. Anotá qué te dijo que no habías visto al memorizarlo."
       ]
     }
   ],
@@ -22,29 +46,29 @@
       "id": 1,
       "question": "¿Cuál de estas referencias corresponde al pasaje de Dominio de la Doctrina sobre el sacrificio infinito y eterno de Cristo?",
       "options": [
+        "Éter 12:6",
         "Alma 41:10",
         "Alma 34:9–10",
-        "Moroni 10:4–5",
-        "Éter 12:6"
+        "Moroni 10:4–5"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Qué pasaje enseña que 'la maldad nunca fue felicidad'?",
       "options": [
+        "3 Nefi 27:20",
         "Alma 39:9",
         "Helamán 5:12",
-        "Alma 41:10",
-        "3 Nefi 27:20"
+        "Alma 41:10"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Varios de estos doce pasajes —Alma 34:9-10, 3 Nefi 11:10-11, Moroni 7:45-48— tratan temas aparentemente distintos: el sacrificio de Cristo, Su identidad, y la caridad. ¿Qué tienen en común, mirados en conjunto?",
       "options": [
-        "Todos, de una forma u otra, señalan a Cristo como el centro y la fuente de la doctrina que enseñan, no solo un tema aislado",
+        "Todos señalan a Cristo como el centro de lo que enseñan",
         "No comparten ninguna relación real entre sí",
         "Solo tienen en común que pertenecen al mismo libro de Escritura",
         "Están relacionados únicamente por el orden en que se enseñaron durante el semestre"
@@ -55,45 +79,45 @@
       "id": 4,
       "question": "¿Por qué el manual de Seminario propone actividades de emparejar referencias con frases clave, en lugar de solo releer los pasajes una vez más?",
       "options": [
+        "Porque emparejar es más fácil que memorizar, así que reemplaza la necesidad de memorizar",
         "Porque emparejar activamente referencias y frases obliga a un recuerdo más preciso y disponible que la lectura pasiva",
         "Porque esas actividades no tienen ningún propósito adicional respecto de releer los pasajes",
-        "Porque el objetivo es memorizar solo las frases clave, sin importar la referencia exacta",
-        "Porque emparejar es más fácil que memorizar, así que reemplaza la necesidad de memorizar"
+        "Porque el objetivo es memorizar solo las frases clave, sin importar la referencia exacta"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "Valentina quiere ayudar a una amiga que siente que 'ya cometió un error demasiado grande' y no sabe cuál de los doce pasajes de Dominio de la Doctrina compartirle. Según el contenido de Alma 34:9-10, ¿por qué sería una buena opción para esa situación específica?",
       "options": [
-        "Porque enseña que solo un sacrificio infinito y eterno —el de Cristo— puede satisfacer la justicia por cualquier pecado, sin importar cuán grave parezca",
-        "Porque ese pasaje habla del perdón únicamente en términos generales, sin ofrecer ningún consuelo específico",
         "Porque solo aplica a errores pequeños, no a errores considerados graves",
-        "Porque ese pasaje habla únicamente de la caridad, no de la expiación"
+        "Porque ese pasaje habla únicamente de la caridad, no de la expiación",
+        "Porque enseña que solo un sacrificio infinito y eterno —el de Cristo— puede satisfacer la justicia por cualquier pecado, sin importar cuán grave parezca",
+        "Porque ese pasaje habla del perdón únicamente en términos generales, sin ofrecer ningún consuelo específico"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Franco se pregunta por qué tuvo que memorizar la referencia exacta de cada pasaje, y no solo la idea general. Según el objetivo de esta lección de repaso, ¿qué le ayudaría a entender la importancia de eso?",
       "options": [
-        "Que la referencia exacta no importa realmente, solo la idea general",
-        "Que conocer la referencia exacta le permite encontrar y compartir el pasaje con precisión en el momento en que alguien lo necesite, no solo recordarlo vagamente",
         "Que memorizar referencias es un ejercicio sin ningún propósito práctico",
-        "Que solo los maestros de Seminario necesitan saber las referencias exactas"
+        "Que solo los maestros de Seminario necesitan saber las referencias exactas",
+        "Que la referencia exacta no importa realmente, solo la idea general",
+        "Que la referencia exacta le permite encontrarlo cuando hace falta"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Después de repasar los doce pasajes en conjunto, ¿cuál sería la conclusión más fiel a lo que este repaso busca enseñar sobre el Dominio de la Doctrina como conjunto?",
       "options": [
-        "Que son doce datos aislados que solo sirven para un examen puntual",
-        "Que, tomados en conjunto, forman una base doctrinal conectada y utilizable en la vida real, no solo una lista para memorizar y olvidar",
+        "Que forman una base doctrinal conectada y usable",
         "Que solo unos pocos de los doce pasajes tienen aplicación real en la vida diaria",
-        "Que memorizarlos todos no aporta ninguna ventaja frente a memorizar solo uno o dos"
+        "Que memorizarlos todos no aporta ninguna ventaja frente a memorizar solo uno o dos",
+        "Que son doce datos aislados que solo sirven para un examen puntual"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

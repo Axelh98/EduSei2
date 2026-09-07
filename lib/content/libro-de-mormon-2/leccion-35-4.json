@@ -9,14 +9,19 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Mormón 3:9",
-          "texto": "Y he aquí, empezaron a jactarse de su propia fuerza, y a jurar ante los cielos que vengarían la sangre de sus hermanos...",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa&id=p9#p9"
+          "referencia": "Mormón 3:20–21",
+          "texto": "Y por esta razón os escribo, para que sepáis que todos tendréis que comparecer ante el tribunal de Cristo, sí, toda alma que pertenece a toda la familia humana de Adán; y debéis presentaros para ser juzgados por vuestras obras, ya sean buenas o malas; y también para que creáis en el evangelio de Jesucristo que tendréis entre vosotros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa&id=p20-p21#p20"
         },
         {
           "referencia": "Mormón 3:9–11",
           "texto": "Ahora bien, por motivo de esta cosa notable que mi pueblo, los nefitas, había logrado, empezaron a jactarse de su propia fuerza, y comenzaron a jurar ante los cielos que vengarían la sangre de sus hermanos que habían sido muertos por sus enemigos. Y juraron por los cielos, y también por el trono de Dios, que irían a la batalla contra sus enemigos, y los talarían de sobre la faz de la tierra. Y sucedió que desde esa ocasión yo, Mormón, me negué por completo a ser comandante y caudillo de este pueblo, a causa de su iniquidad y sus abominaciones.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa&id=p9-p11#p9"
+        },
+        {
+          "referencia": "Mormón 3:12",
+          "texto": "He aquí, yo los había dirigido; a pesar de sus iniquidades, muchas veces los había dirigido a la batalla; y los había amado con todo mi corazón, de acuerdo con el amor de Dios que había en mí; y todo el día se había derramado mi alma en oración a Dios a favor de ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa&id=p12#p12"
         }
       ]
     },
@@ -36,10 +41,10 @@
       "preguntas": [
         "¿Por qué es peligroso atribuirse el éxito o la fuerza a uno mismo en lugar de a Dios?",
         "¿Qué podemos aprender de la decisión de Mormón de no apoyar al pueblo en su deseo de venganza?",
-        "¿De qué manera puedes mostrar gratitud al Señor por los triunfos en tu vida?",
+        "Volvé a leer Mormón 3:9–11. Fijate qué dos cosas hicieron los nefitas después de la victoria, y cuál de las dos fue la que hizo que Mormón renunciara.",
         "¿Qué te parece la enseñanza del élder Oaks de que el juicio final es un reconocimiento de 'lo que hemos llegado a ser', no solo una suma de obras?",
         "¿Hay algún patrón de actitud —orgullo, gratitud, resentimiento— que notás repitiéndose en vos últimamente?",
-        "Pensando en 'lo que estás llegando a ser' con tus decisiones repetidas, ¿qué cambio concreto podés empezar esta semana?"
+        "Escribí en una hoja qué clase de persona te están armando tus decisiones repetidas de este mes. Meditá un momento en esa lista antes de guardarla."
       ]
     }
   ],
@@ -48,31 +53,31 @@
       "id": 1,
       "question": "¿Qué hizo Mormón cuando el pueblo no se arrepintió?",
       "options": [
-        "Los abandonó completamente",
-        "Rehusó ser su líder por su iniquidad",
         "Los apoyó incondicionalmente",
-        "Se fue del país"
+        "Se fue del país",
+        "Los abandonó completamente",
+        "Rehusó ser su líder"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Qué tipo de guerra describe Mormón?",
       "options": [
-        "Guerras justas",
         "Guerras terribles llenas de sangre y destrucción",
-        "Batallas menores",
-        "Conflictos pacíficos"
+        "Batallas menores entre pueblos vecinos, sin gran costo",
+        "Conflictos pacíficos",
+        "Guerras justas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "¿Qué lamentó Mormón sobre su pueblo?",
       "options": [
         "Su pobreza",
-        "Su día de gracia había pasado por endurecer sus corazones",
-        "Su falta de educación",
+        "Que su día de gracia había pasado",
+        "Su falta de educación y de instrucción en las Escrituras",
         "Sus derrotas"
       ],
       "correctAnswer": 1
@@ -81,29 +86,29 @@
       "id": 4,
       "question": "¿Por qué continuó Mormón llevando los registros?",
       "options": [
+        "Por tradición solamente",
         "Por dinero",
         "Para preservarlos para generaciones futuras",
-        "Por fama",
-        "Por tradición solamente"
+        "Por fama"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "¿Qué advertencia dio sobre el pecado?",
       "options": [
+        "Que es temporal y se resuelve solo con el paso del tiempo",
+        "Que es natural",
         "Que no importa",
-        "Que el pecado trae destrucción y corta el Espíritu",
-        "Que es temporal",
-        "Que es natural"
+        "Que el pecado trae destrucción y corta el Espíritu"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Lucía sacó una nota excelente en un examen difícil y, en lugar de agradecer la ayuda de su familia y de Dios, empieza a sentir que 'lo logró sola' y a mirar con desprecio a quienes sacaron notas más bajas. Según el patrón de los nefitas en Mormón 3:9-11, ¿qué advertencia se aplicaría a su situación?",
       "options": [
-        "Que atribuirse el éxito completamente a uno mismo, sin reconocer la ayuda recibida, es exactamente el patrón que llevó a los nefitas al orgullo y al rechazo de Mormón como líder",
+        "Que atribuirse todo el éxito es el patrón que llevó al orgullo",
         "Que está bien sentirse superior después de un logro real",
         "Que este pasaje se aplica únicamente a logros militares como los de los nefitas, no a la vida escolar",
         "Que la gratitud solo es necesaria en contextos religiosos, no en la vida escolar"
@@ -114,12 +119,12 @@
       "id": 7,
       "question": "Tanto el juramento de venganza de los nefitas como la enseñanza del élder Oaks sobre que el juicio final refleja 'lo que hemos llegado a ser' comparten un mismo principio central. ¿Cuál es?",
       "options": [
+        "Que Dios solo toma en cuenta la última decisión de una persona, sin considerar el patrón de toda su vida",
         "Que las decisiones repetidas —como jurar venganza en lugar de perdonar— no son hechos aislados, sino que moldean el carácter final de una persona, que es precisamente lo que Dios reconoce en el juicio",
         "Que un solo juramento de venganza ya determina por completo el destino final de una persona",
-        "Que el juicio final se basa únicamente en contar la cantidad de buenas y malas acciones",
-        "Que Dios solo toma en cuenta la última decisión de una persona, sin considerar el patrón de toda su vida"
+        "Que el juicio final se basa únicamente en contar la cantidad de buenas y malas acciones"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

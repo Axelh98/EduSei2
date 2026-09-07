@@ -16,6 +16,11 @@
       "tipo": "escrituras",
       "citas": [
         {
+          "referencia": "Éter 12:23–24",
+          "texto": "Y le dije: Señor, los gentiles se burlarán de estas cosas, debido a nuestra debilidad en escribir; porque tú, Señor, nos has hecho fuertes en palabras por la fe, pero no nos has hecho fuertes para escribir… y tú has hecho que no podamos escribir sino poco, a causa de la torpeza de nuestras manos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p23-p24#p23"
+        },
+        {
           "referencia": "Éter 12:26",
           "texto": "Y cuando hube dicho esto, el Señor me habló, diciendo: Los insensatos hacen burla, mas se lamentarán; y mi gracia es suficiente para los mansos, de manera que ellos no sacarán ventaja de vuestras debilidades.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa&id=p26#p26"
@@ -29,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Moroni tenía un miedo muy concreto: que la gente se riera de sus palabras por no ser un escritor perfecto. La respuesta de Dios no fue 'no te preocupes, tus palabras son perfectas'; fue algo más honesto y más útil: 'te doy debilidad para que seas humilde'. La debilidad no desaparece por arte de magia, se transforma cuando se lleva a Cristo con humildad y fe. Elegí, como paso concreto de esta semana, una debilidad concreta que normalmente escondés o de la que te avergonzás, y en vez de seguir ocultándola, llevala a Dios en oración, pidiendo específicamente ayuda con esa cosa."
+      "contenido": "Moroni tenía un miedo muy concreto: que la gente se riera de sus palabras por no ser un escritor perfecto. La respuesta de Dios no fue 'no te preocupes, tus palabras son perfectas'; fue algo más honesto y más útil: 'te doy debilidad para que seas humilde'. La debilidad no desaparece por arte de magia: se transforma cuando se lleva a Cristo, porque Su gracia es suficiente justamente ahí, y no en el lugar donde uno ya se siente fuerte. Elegí esta semana una debilidad concreta que normalmente escondés o de la que te avergonzás, y en vez de seguir ocultándola, llevala a Dios en oración pidiendo ayuda con esa cosa puntual."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Sabías que Moroni mismo dudaba de la calidad de su propia escritura antes de terminar el Libro de Mormón?",
         "¿Cuál es la diferencia entre que el Señor 'nos dé debilidad' y que tengamos 'pecado'?",
-        "¿Por qué te parece necesaria la humildad antes de que Cristo pueda convertir una debilidad en una fortaleza?",
+        "Buscá en Éter 12:27 las dos condiciones que el Señor pone antes de la promesa. ¿Cuál de las dos te resulta más difícil, y por qué esa?",
         "¿Alguna vez sentiste vergüenza por una debilidad tuya y evitaste pedir ayuda por eso?",
         "¿De qué manera la gracia de Cristo ha sido suficiente para vos en un momento de insuficiencia?",
-        "Pensá en una debilidad concreta que hoy escondés. ¿Qué paso pequeño podrías dar esta semana para llevarla a Dios en vez de seguir ocultándola?"
+        "Nombrá esa debilidad en tu oración de esta semana, sin suavizarla, y anotá si cambia algo en cómo la mirás después de decirla en voz alta."
       ]
     }
   ],
@@ -48,29 +53,29 @@
       "id": 1,
       "question": "¿Qué preocupación expresó Moroni sobre las escrituras que estaba terminando?",
       "options": [
+        "Que contenían demasiadas profecías",
         "Que eran demasiado largas",
         "Que los gentiles se burlarían de su debilidad al escribir",
-        "Que nadie las traduciría en el futuro",
-        "Que contenían demasiadas profecías"
+        "Que nadie las traduciría en el futuro"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Según Éter 12:27, ¿por qué da el Señor debilidad a los hombres?",
       "options": [
-        "Para que sean humildes",
         "Para castigarlos por sus pecados pasados",
         "Sin ningún propósito específico",
-        "Para que dependan de otras personas en vez de Dios"
+        "Para que dependan de otras personas en vez de Dios",
+        "Para que sean humildes"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "El Señor le dice a Moroni que 'los insensatos hacen burla, mas se lamentarán' (Éter 12:26). ¿Qué consuelo específico le ofrece esa afirmación frente a su temor de ser ridiculizado?",
       "options": [
-        "Que la burla de los insensatos no tendrá la última palabra ni definirá el valor real de lo escrito",
+        "Que la burla no define el valor real de lo escrito",
         "Que nadie se burlará jamás de ningún escrito religioso",
         "Que Moroni debía reescribir todo el libro para evitar cualquier crítica",
         "Que la opinión de los insensatos era, en realidad, más importante que la aprobación de Dios"
@@ -82,7 +87,7 @@
       "question": "El Señor promete que 'si se humillan ante mí, y tienen fe en mí, entonces haré que las cosas débiles sean fuertes para ellos' (Éter 12:27). ¿Qué relación establece este versículo entre la humildad y la transformación de una debilidad?",
       "options": [
         "Que superar una debilidad depende únicamente del esfuerzo personal, sin relación con la fe o la humildad",
-        "Que la humildad y la fe son la condición que abre la puerta para que la gracia de Cristo transforme una debilidad en fortaleza",
+        "Que la humildad y la fe abren la puerta a esa transformación",
         "Que basta con desear cambiar, sin que la humildad sea realmente necesaria",
         "Que las debilidades desaparecen automáticamente con el paso del tiempo, sin intervención divina"
       ],
@@ -92,34 +97,34 @@
       "id": 5,
       "question": "Mateo evita participar en un proyecto grupal porque siente que 'no es bueno hablando en público' y le da vergüenza que se rían de él. Según Éter 12:27, ¿qué le ayudaría a reconsiderar?",
       "options": [
+        "Que la vergüenza es la señal de que definitivamente no debe intentarlo",
         "Que debería evitar cualquier situación donde tenga que hablar en público para siempre",
-        "Que reconocer esa debilidad con humildad y llevarla a Dios puede ser el primer paso para que, con el tiempo, se convierta en una fortaleza",
-        "Que solo las personas naturalmente talentosas pueden mejorar en algo así",
-        "Que la vergüenza es la señal de que definitivamente no debe intentarlo"
+        "Que reconocerla y llevarla a Dios puede ser el primer paso",
+        "Que solo las personas naturalmente talentosas pueden mejorar en algo así"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Ana siente que su testimonio es 'débil' comparado con el de otros jóvenes de su grupo, y por eso evita compartirlo. Según el ejemplo de Moroni y la promesa de Éter 12:27, ¿qué le ayudaría?",
       "options": [
-        "Que su testimonio 'débil' no tiene ningún valor mientras no sea igual al de los demás",
-        "Que, igual que a Moroni, Dios puede fortalecer justamente lo que ella siente como debilidad si se acerca a Él con humildad y fe",
         "Que debería dejar de intentar compartir su testimonio por completo",
-        "Que comparar su testimonio con el de otros es la única forma válida de medir su fe"
+        "Que comparar su testimonio con el de otros es la única forma válida de medir su fe",
+        "Que su testimonio 'débil' no tiene ningún valor mientras no sea igual al de los demás",
+        "Que, igual que a Moroni, Dios puede fortalecer justamente lo que ella siente como debilidad si se acerca a Él con humildad y fe"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto el temor de Moroni a ser ridiculizado como la promesa del Señor de fortalecer las cosas débiles enseñan un mismo principio central de este pasaje. ¿Cuál es?",
       "options": [
-        "Que ocultar las debilidades es la única forma de evitar la burla ajena",
-        "Que reconocer una debilidad con humildad, en vez de esconderla, es lo que abre la puerta a que la gracia de Cristo la transforme en fortaleza",
+        "Que reconocer la debilidad abre la puerta a Su gracia",
         "Que las debilidades siempre son un obstáculo permanente sin ninguna solución",
-        "Que la opinión de los demás debe ser el principal criterio para medir el propio progreso espiritual"
+        "Que la opinión de los demás debe ser el principal criterio para medir el propio progreso espiritual",
+        "Que ocultar las debilidades es la única forma de evitar la burla ajena"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

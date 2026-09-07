@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Moroni frena el relato de los jareditas para hablar de la fe, y elige un ejemplo raro para empezar. El profeta Éter nació en cautiverio, en medio de un pueblo que rechazaba a los profetas, y aun así vivió con rectitud y les predicó. No le hicieron caso. Ese es el punto de partida: alguien que hizo lo correcto y no recibió el resultado que esperaba. Y ahí Moroni escribe la frase que ordena todo el capítulo: 'no recibís ningún testimonio sino hasta después de la prueba de vuestra fe'. El orden importa. Primero se actúa, después llega la confirmación. Nosotros preferiríamos el orden inverso: primero la certeza y después el compromiso. Moroni dice que no funciona así. Después hace una lista larga de gente que recibió milagros, y en cada caso el milagro llegó después de la fe, nunca antes: el hermano de Jared moviendo un monte, Alma y Amulek con las paredes de la cárcel, los tres discípulos. La fe, dice, es la esperanza de cosas que no se ven, y funciona como un ancla para el alma. Un ancla no se ve, y es lo único que te sostiene cuando el viento cambia."
+      "contenido": "Moroni frena el relato de los jareditas para hablar de la fe, y elige un ejemplo raro para empezar. El profeta Éter nació en cautiverio, en medio de un pueblo que rechazaba a los profetas, y aun así vivió con rectitud y les predicó. No le hicieron caso. Ese es el punto de partida: alguien que hizo lo correcto y no recibió el resultado que esperaba. Y ahí Moroni escribe la frase que ordena todo el capítulo: 'no recibís ningún testimonio sino hasta después de la prueba de vuestra fe'. El orden importa. Primero se actúa, después llega la confirmación. Nosotros preferiríamos el orden inverso: primero la certeza y después el compromiso. Moroni dice que no funciona así. Falta, eso sí, decir en qué hay que tener fe, porque Moroni nunca habla de la fe en abstracto. El manual lo pone en una línea: si queremos recibir un testimonio espiritual, primero hay que ejercer fe en Jesucristo y en Su evangelio. Los ejemplos que Moroni enumera no son gente con mucha fuerza de voluntad: son gente que creyó en Él. El hermano de Jared vio Su dedo porque creyó en Sus palabras; Alma y Amulek no tiraron abajo la cárcel por convicción propia. La fe, dice Moroni, es la esperanza de cosas que no se ven, y funciona como un ancla para el alma. Pero un ancla no sirve por sí misma: sirve por lo que hay del otro lado de la cadena."
     },
     {
       "tipo": "enseñanza",
@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Conocías la lista de ejemplos de fe que da Moroni en este capítulo?",
         "¿En qué ocasiones has tenido que ejercer fe antes de recibir un testimonio completo? ¿Qué aprendiste?",
-        "¿De qué maneras has observado que 'la fe precede al milagro' en tu vida o en la de otros?",
+        "Volvé a leer Éter 12:3–4. Moroni usa más de una imagen para hablar de la esperanza: fijate cuáles son y qué agrega la segunda que la primera no decía.",
         "¿Qué te impide ejercer más fe en algún aspecto de tu vida actualmente?",
         "¿Hay una decisión concreta donde estás esperando tener 'toda la certeza' antes de animarte a actuar?",
-        "Pensando en la imagen de la fe como 'ancla', ¿qué situación de tu vida necesita esa firmeza esta semana?"
+        "Elegí esa situación y orá por ella esta semana antes de tener ninguna certeza. Anotá qué pasó, aunque la respuesta todavía no haya llegado."
       ]
     }
   ],
@@ -53,30 +53,30 @@
       "id": 1,
       "question": "Según Éter 12:6, ¿cuándo se recibe un testimonio, según la enseñanza de Moroni?",
       "options": [
-        "Antes de ejercer cualquier tipo de fe",
-        "Después de la prueba de la fe",
         "Únicamente al final de la vida",
-        "Solo si se pide directamente a un profeta"
+        "Solo si se pide directamente a un profeta",
+        "Antes de ejercer cualquier tipo de fe",
+        "Después de la prueba de la fe"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Según Éter 12:3-4, ¿qué proporciona la esperanza que viene por la fe, según la enseñanza de Moroni?",
       "options": [
-        "Riquezas materiales inmediatas",
         "Un ancla para el alma, que da seguridad y firmeza",
         "La eliminación total de cualquier duda futura",
-        "Reconocimiento público instantáneo"
+        "Reconocimiento público instantáneo",
+        "Riquezas materiales inmediatas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "Moroni enseña que 'no recibís ningún testimonio sino hasta después de la prueba de vuestra fe' (Éter 12:6). ¿Qué orden de pasos describe esa enseñanza sobre cómo se desarrolla la fe espiritual?",
       "options": [
         "Que primero se recibe el testimonio completo y después, si se quiere, se ejerce la fe",
-        "Que la fe debe ejercerse primero, actuando sin tener toda la certeza, y el testimonio llega como resultado de esa prueba",
+        "Que la fe se ejerce primero y el testimonio llega después",
         "Que el testimonio siempre llega primero, y solo después resulta razonable ejercer la fe",
         "Que solo los profetas antiguos necesitaban pasar por ese proceso"
       ],
@@ -86,45 +86,45 @@
       "id": 4,
       "question": "Moroni menciona ejemplos como profetas que movieron montañas o dividieron el mar como resultado de la fe. ¿Qué elemento común comparten esos ejemplos según el argumento de Moroni?",
       "options": [
+        "Que solo los milagros más espectaculares cuentan como evidencia de fe",
         "Que todos esos milagros ocurrieron sin que nadie tuviera que actuar con fe primero",
         "Que en cada caso, la fe de la persona precedió y dio lugar al milagro correspondiente",
-        "Que esos milagros ocurrieron por el poder personal de cada profeta, sin relación con su fe en Cristo",
-        "Que solo los milagros más espectaculares cuentan como evidencia de fe"
+        "Que esos milagros ocurrieron por el poder personal de cada profeta, sin relación con su fe en Cristo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Joaquín quiere estar completamente seguro de que una decisión importante es correcta antes de dar cualquier paso, y por eso lleva meses sin decidirse. Según Éter 12:6, ¿qué principio le ayudaría a avanzar?",
       "options": [
-        "Que debería seguir esperando indefinidamente hasta tener certeza absoluta antes de actuar",
-        "Que el testimonio y la confirmación muchas veces llegan después de dar el paso de fe, no antes",
         "Que solo debería avanzar si logra sentir una certeza emocional fuerte antes de decidir",
-        "Que solo las personas con mucha experiencia pueden ejercer este tipo de fe"
+        "Que solo las personas con mucha experiencia pueden ejercer este tipo de fe",
+        "Que debería seguir esperando indefinidamente hasta tener certeza absoluta antes de actuar",
+        "Que la confirmación suele llegar después del paso de fe"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Camila siente que su fe es débil porque todavía tiene preguntas sin responder sobre el evangelio. Según la enseñanza de la fe como 'ancla' en Éter 12:3-4, ¿qué le ayudaría a entender?",
       "options": [
-        "Que tener preguntas sin responder significa que no tiene ninguna fe genuina",
         "Que la fe puede funcionar como un ancla firme incluso mientras existen preguntas todavía sin resolver, dando estabilidad en el proceso",
         "Que la fe solo es válida cuando no queda ninguna duda",
-        "Que las preguntas y la fe son temas completamente opuestos entre sí"
+        "Que las preguntas y la fe son temas completamente opuestos entre sí",
+        "Que tener preguntas sin responder significa que no tiene ninguna fe genuina"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Tanto el principio de que 'el testimonio llega después de la prueba de la fe' como los ejemplos de profetas que actuaron con fe antes de ver el milagro comparten una misma enseñanza central. ¿Cuál es?",
       "options": [
-        "Que actuar con fe, incluso sin tener toda la certeza, es lo que abre el camino para recibir una confirmación espiritual mayor",
+        "Que estos ejemplos aplican únicamente a personajes históricos, sin relación con la vida actual",
+        "Que actuar con fe sin certeza abre el camino a la confirmación",
         "Que la fe y los milagros no guardan ninguna relación entre sí en las Escrituras",
-        "Que solo se debe actuar cuando ya se tiene un testimonio completo y seguro",
-        "Que estos ejemplos aplican únicamente a personajes históricos, sin relación con la vida actual"
+        "Que solo se debe actuar cuando ya se tiene un testimonio completo y seguro"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

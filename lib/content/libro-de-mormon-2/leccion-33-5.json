@@ -46,10 +46,10 @@
       "preguntas": [
         "¿Qué imagen de esta lección se te quedó más grabada: las gavillas que se juntan, la tienda que se ensancha o el Salvador parado en medio de Su pueblo?",
         "¿Alguna vez te tocó ser el nuevo en un grupo? ¿Qué hizo alguien que te ayudó a sentirte parte?",
-        "¿De qué manera dirías que el Señor te está recogiendo a vos hoy: por medio de la Iglesia, del Libro de Mormón, o de alguien que guarda sus convenios cerca tuyo?",
+        "Volvé a leer 3 Nefi 20:18. Es una sola frase con una imagen del campo: fijate qué le pasa a una gavilla suelta y qué cambia cuando está junto a las demás.",
         "El Señor promete estar 'en medio' de Su pueblo. ¿Hubo algún momento en que lo sentiste así, aunque no tuvieras todo resuelto?",
         "¿A quién de tu escuela o de tu barrio podrías invitar esta semana a una actividad de la Iglesia?",
-        "¿Qué versículo del Libro de Mormón elegirías para compartir con alguien que se siente solo, y qué le dirías al mandárselo?"
+        "Elegí ese versículo y mandáselo a alguien esta semana. Antes de apretar enviar, orá un momento por esa persona y anotá qué te vino a la mente."
       ]
     }
   ],
@@ -58,12 +58,12 @@
       "id": 1,
       "question": "¿Con qué imagen describió el Salvador la manera en que recogería a Su pueblo (3 Nefi 20:18)?",
       "options": [
+        "Como el hombre que junta en la era las gavillas que ya están cortadas.",
         "Como el pastor que cuenta sus ovejas una por una al caer la noche.",
         "Como el sembrador que separa la buena semilla de la mala en la cosecha.",
-        "Como el pescador que arrastra su red cargada hasta la orilla.",
-        "Como el hombre que junta en la era las gavillas que ya están cortadas."
+        "Como el pescador que arrastra su red cargada hasta la orilla."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -91,23 +91,23 @@
       "id": 4,
       "question": "En 3 Nefi 22:2 el Señor manda 'ensancha el sitio de tu tienda' y, en la misma frase, 'haz más fuertes tus estacas'. ¿Qué enseña esa doble instrucción sobre Su obra en los últimos días?",
       "options": [
-        "Que debe crecer hacia afuera y afirmarse por dentro a la vez, no una cosa en vez de la otra.",
         "Que el crecimiento en número es la única medida real del progreso de la Iglesia del Señor.",
         "Que conviene esperar a ser muchos antes de ocuparse de sostener a los que ya están adentro.",
-        "Que la imagen de la tienda se refiere al templo en particular, y no a la Iglesia en su conjunto."
+        "Que la imagen de la tienda se refiere al templo en particular, y no a la Iglesia en su conjunto.",
+        "Que debe crecer hacia afuera y afirmarse por dentro a la vez, no una cosa en vez de la otra."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Agustina se mudó a otra ciudad y en su barrio nuevo casi no conoce a nadie de la Iglesia. Siente que eso del recogimiento no tiene nada que ver con su situación. Según esta lección, ¿qué le respondería mejor?",
       "options": [
+        "Que ser recogido no depende del lugar donde vivas, sino de venir a Cristo ahí mismo.",
         "Que el recogimiento es un acontecimiento del futuro y que por ahora no le toca participar.",
         "Que lo más sensato es esperar a volver a su ciudad anterior para retomar su lugar en la Iglesia.",
-        "Que su situación se va a resolver sola cuando la Iglesia crezca lo suficiente en su barrio.",
-        "Que ser recogido no depende del lugar donde vivas, sino de venir a Cristo ahí mismo."
+        "Que su situación se va a resolver sola cuando la Iglesia crezca lo suficiente en su barrio."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": 6,

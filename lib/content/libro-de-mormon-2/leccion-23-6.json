@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Queda una última cosa que a Coriantón lo tiene mal, y Alma la nombra directo: le preocupa que sea injusto que el pecador sea consignado a un estado de miseria. Es una objeción sincera, y es la misma que mucha gente tiene hoy. Si Dios es amoroso, ¿por qué hay consecuencias? Alma responde yendo mucho más atrás, hasta la Caída. Explica que cuando Adán y Eva salieron del huerto quedaron sujetos a dos muertes: la física y la espiritual, que es quedar separados de la presencia de Dios. Y explica por qué eso no fue un accidente. Si no hubiera consecuencias, no habría ley; si no hubiera ley, no habría justicia; y sin justicia, Dios dejaría de ser Dios. Alma le está mostrando a su hijo que la justicia no es el humor de Dios cuando se enoja: es lo que hace que Sus promesas signifiquen algo. Pero también le muestra la otra mitad. Dios previó todo esto y preparó desde el principio un plan de redención. La justicia y la misericordia no están peleadas en el plan del Padre. Están las dos, y hacía falta Alguien capaz de sostenerlas juntas."
+      "contenido": "Queda una última cosa que a Coriantón lo tiene mal, y Alma la nombra directo: le preocupa que sea injusto que el pecador sea consignado a un estado de miseria. Es una objeción sincera, y es la misma que mucha gente tiene hoy. Si Dios es amoroso, ¿por qué hay consecuencias? Alma responde yendo mucho más atrás, hasta la Caída. Explica que cuando Adán y Eva salieron del huerto quedaron sujetos a dos muertes: la física y la espiritual, que es quedar separados de la presencia de Dios. Y explica por qué eso no fue un accidente. Si no hubiera consecuencias, no habría ley; si no hubiera ley, no habría justicia; y sin justicia, Dios dejaría de ser Dios. Alma le está mostrando a su hijo que la justicia no es el humor de Dios cuando se enoja: es lo que hace que Sus promesas signifiquen algo. Pero también le muestra la otra mitad. Dios previó todo esto y preparó desde el principio un plan de redención. La justicia y la misericordia no están peleadas en el plan del Padre. Están las dos, y hacía falta Alguien capaz de sostenerlas juntas. Ese Alguien tiene nombre, y el manual de esta lección lo dice sin rodeos: habiendo satisfecho las demandas de la justicia, Cristo se adentra en el lugar de la justicia, y así el Salvador enmienda todas las cosas. El Redentor paga la deuda que la justicia reclama y te concede el perdón por el camino misericordioso del arrepentimiento. Sin Él, todo lo que Alma explica sería una mala noticia bien argumentada."
     },
     {
       "tipo": "escrituras",
@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Alma le muestra a Coriantón que la Caída de Adán y Eva no fue un error que arruinó el plan de Dios: fue una parte necesaria de él. Sin la Caída no habría mortalidad, ni agencia, ni oportunidad real de progresar. Y la ley de la justicia, lejos de ser fría, es lo que hace que la agencia tenga sentido: cada elección tiene una consecuencia real. Entender esto cambia la forma de ver los mandamientos: no son una lista de restricciones arbitrarias, son parte de un diseño coherente. El paso concreto para esta semana: elegí un mandamiento que te cuesta entender o cumplir, y pensá en qué consecuencia buena busca proteger."
+      "contenido": "Alma le muestra a Coriantón que la Caída de Adán y Eva no fue un error que arruinó el plan de Dios: fue una parte necesaria de él. Sin la Caída no habría mortalidad, ni agencia, ni oportunidad real de progresar. Y la ley de la justicia, lejos de ser fría, es lo que hace que la agencia tenga sentido: cada elección tiene una consecuencia real. Pero la justicia no es la última palabra. Jesucristo satisface sus exigencias y le abre lugar a la misericordia, y por eso la explicación de Alma termina en una buena noticia y no en una condena. Elegí esta semana un mandamiento que te cuesta entender o cumplir, y pensá en qué consecuencia buena busca proteger."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Alguna vez pensaste que la Caída de Adán y Eva fue 'un error'? ¿Qué pensás ahora después de esta lección?",
         "¿Qué te pareció más interesante de cómo Alma explica la justicia de Dios?",
-        "¿Cómo describirías con tus propias palabras la relación entre la justicia y la misericordia?",
+        "Volvé a leer Alma 42:24–25. Alma pone la justicia y la misericordia en la misma oración: fijate cuál de las dos reclama primero y qué condición aparece para que la otra pueda reclamar.",
         "¿De qué manera te ayuda entender este plan cuando te cuesta ver el sentido de un mandamiento?",
         "¿Qué mandamiento te cuesta más cumplir, y qué vas a hacer distinto esta semana con eso?",
-        "¿A quién le podrías explicar esta semana, con tus propias palabras, por qué la Caída fue necesaria?"
+        "Elegí el mandamiento que más te cuesta y escribí en una hoja por qué te cuesta. Después orá con esa hoja delante y fijate si la razón que escribiste sigue siendo la misma."
       ]
     }
   ],
@@ -53,12 +53,12 @@
       "id": 1,
       "question": "¿Qué gran plan explica Alma a Coriantón en este capítulo?",
       "options": [
-        "El plan de salvación",
-        "Un plan de defensa militar",
         "Un plan de gobierno civil",
-        "Un plan económico para Zarahemla"
+        "Un plan económico para Zarahemla",
+        "El plan de salvación",
+        "Un plan de defensa militar"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
@@ -75,51 +75,51 @@
       "id": 3,
       "question": "¿Por qué era necesario que Adán y Eva fueran expulsados del Jardín del Edén antes de poder comer del árbol de la vida?",
       "options": [
-        "Para castigarlos de forma permanente por su desobediencia",
-        "Para que no vivieran para siempre en un estado de pecado sin posibilidad de arrepentirse; la mortalidad se convirtió en el tiempo señalado para progresar",
+        "Para que no vivieran para siempre sin poder arrepentirse",
         "Porque el Jardín del Edén ya no tenía ningún propósito",
-        "Porque Dios cambió de opinión sobre el plan original"
+        "Porque Dios cambió de opinión sobre el plan original",
+        "Para castigarlos de forma permanente por su desobediencia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "¿Qué requiere la ley de la justicia, según la explicación de Alma en este capítulo?",
       "options": [
-        "Que solo los pecados más graves tengan consecuencias",
         "Que no exista ninguna consecuencia real por las obras de las personas",
-        "Que exista una consecuencia —castigo o felicidad— fijada en oposición a cada tipo de obra, de manera que ninguna ley quede sin efecto",
-        "Que el perdón sea automático para todos, sin condiciones"
+        "Que cada obra tenga fijada su consecuencia, castigo o felicidad",
+        "Que el perdón sea automático para todos, sin condiciones",
+        "Que solo los pecados más graves tengan consecuencias"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "Valentina piensa que la Caída de Adán y Eva fue solo 'un error' que arruinó el plan original de Dios. Según Alma 42, ¿qué matiz le agregarías?",
       "options": [
+        "Que Dios habría preferido que Adán y Eva nunca comieran del fruto prohibido",
         "Que tiene razón: la Caída fue un accidente que Dios tuvo que corregir después",
         "Que la Caída, lejos de arruinar el plan, fue una parte necesaria de él: hizo posible la mortalidad, la agencia y la oportunidad de progresar",
-        "Que la Caída fue obra exclusiva de Satanás, sin ningún propósito permitido por Dios",
-        "Que Dios habría preferido que Adán y Eva nunca comieran del fruto prohibido"
+        "Que la Caída fue obra exclusiva de Satanás, sin ningún propósito permitido por Dios"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Un amigo le dice a Mateo que 'ya que Dios es tan bueno, seguramente perdona cualquier cosa sin ninguna consecuencia'. Usando la explicación de Alma sobre la ley de la justicia, ¿qué le respondería Mateo?",
       "options": [
-        "Que Dios cambia sus leyes según cada situación particular",
-        "Que Dios es bueno, pero también es perfectamente justo; si simplemente pasara por alto el pecado sin ninguna consecuencia, dejaría de ser Dios, porque violaría su propia justicia",
         "Que su amigo tiene toda la razón, y que la justicia no es un atributo real de Dios",
-        "Que la ley de la justicia solo aplica a los inicuos más graves"
+        "Que la ley de la justicia solo aplica a los inicuos más graves",
+        "Que Dios cambia sus leyes según cada situación particular",
+        "Que Dios es bueno, pero si pasara por alto el pecado dejaría de ser justo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto la necesidad de la Caída como la existencia de la ley de la justicia forman parte de un mismo diseño divino. ¿Cuál es el principio que los une?",
       "options": [
-        "Que el plan de Dios está construido con leyes y condiciones consistentes, que hacen posible la agencia real y el progreso eterno, no arbitrariedades",
+        "Que el plan de Dios usa leyes consistentes que hacen posible la agencia",
         "Que ambos elementos son contradicciones dentro del plan de Dios",
         "Que la Caída y la justicia son temas completamente independientes entre sí",
         "Que Dios improvisa Sus leyes según las circunstancias de cada generación"

@@ -34,7 +34,7 @@
       "preguntas": [
         "De todo lo que estudiaste en estas últimas semanas, ¿qué historia o versículo se te quedó más grabado?",
         "¿Notás en tu propia vida algo parecido al 'ciclo del orgullo' que se repite en estos capítulos: momentos buenos que después te relajan espiritualmente?",
-        "¿Qué diferencia notás entre haber entendido una lección y haber cambiado realmente algo por ella?",
+        "Volvé a leer 3 Nefi 5:3. Es un versículo muy corto: fijate qué tres cosas dice que hizo el pueblo y en qué orden las pone.",
         "Pensando en Helamán 5:12, ¿sentís que tu fundamento en Cristo está más firme ahora que hace siete semanas? ¿Por qué?",
         "Elegí una sola enseñanza de estas últimas semanas y escribí una acción concreta y realista para aplicarla esta semana.",
         "¿A quién le podrías contar, esta semana, algo específico que aprendiste en este tramo del curso?"
@@ -46,29 +46,29 @@
       "id": 1,
       "question": "¿Qué rango de capítulos abarca este repaso de 'Evalúa tu aprendizaje 7'?",
       "options": [
-        "Desde Alma 53 hasta 3 Nefi 7",
-        "Desde Mosíah 1 hasta Alma 30",
         "Desde 3 Nefi 8 hasta Moroni 10",
-        "Desde Helamán 1 hasta Helamán 6 únicamente"
+        "Desde Helamán 1 hasta Helamán 6 únicamente",
+        "Desde Alma 53 hasta 3 Nefi 7",
+        "Desde Mosíah 1 hasta Alma 30"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Según Helamán 5:6-7, ¿para qué le dio Helamán a sus hijos los nombres de Nefi y Lehi, sus antepasados?",
       "options": [
-        "Únicamente para que tuvieran nombres distintivos dentro de la familia",
-        "Para que, al recordar esos nombres, recordaran también las buenas obras de esos antepasados",
         "Para que compitieran entre ellos por destacarse más que sus antepasados",
-        "El texto no explica ninguna razón específica para esa decisión"
+        "El texto no explica ninguna razón específica para esa decisión",
+        "Únicamente para que tuvieran nombres distintivos dentro de la familia",
+        "Para que, al recordar esos nombres, recordaran también las buenas obras de esos antepasados"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "A lo largo de estos capítulos aparece un patrón que se repite: humildad, prosperidad, orgullo y caída. ¿Qué advertencia práctica ofrece reconocer ese ciclo para la propia vida espiritual?",
       "options": [
-        "Que los buenos momentos espirituales, sin atención constante, pueden volverse la puerta de entrada al orgullo y al descuido",
+        "Que los buenos momentos, sin atención, abren la puerta al orgullo",
         "Que la prosperidad siempre es mala y debería evitarse por completo",
         "Que ese ciclo solo aplicaba a la sociedad nefita antigua, sin relación con la vida actual",
         "Que una vez alcanzada la humildad, ya no existe riesgo real de volver a caer en el orgullo"
@@ -90,29 +90,29 @@
       "id": 5,
       "question": "Agustina dice que 'ya escuchó todas estas lecciones' y no ve el punto de repasarlas de nuevo. Según el propósito de esta lección de evaluación, ¿qué le ayudaría a ver su valor?",
       "options": [
+        "Que solo vale la pena evaluar el aprendizaje al final del semestre completo",
         "Que repasar sin cambiar nada en la práctica no tiene ningún propósito real",
-        "Que el valor de este repaso no está en escuchar contenido nuevo, sino en detenerse a evaluar si esas lecciones ya escuchadas produjeron cambios reales en su vida",
-        "Que estas lecciones ya no tienen ninguna relevancia una vez terminada la semana en que se enseñaron",
-        "Que solo vale la pena evaluar el aprendizaje al final del semestre completo"
+        "Que el valor está en evaluar si esas lecciones cambiaron algo",
+        "Que estas lecciones ya no tienen ninguna relevancia una vez terminada la semana en que se enseñaron"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Joaquín reconoce que, después de una buena racha espiritual, empezó a relajarse en su oración diaria sin darse cuenta. Según el patrón del 'ciclo del orgullo' estudiado en estas semanas, ¿qué le ayudaría a responder?",
       "options": [
-        "Que relajarse después de un buen momento espiritual es completamente normal y no requiere ninguna atención especial",
-        "Que reconocer ese patrón a tiempo, como advierten estos capítulos, le permite corregir el rumbo antes de alejarse más de su fundamento en Cristo",
         "Que ya arruinó por completo su progreso espiritual y debería empezar de cero",
-        "Que ese patrón solo se aplica a sociedades enteras, no a la vida espiritual de una persona"
+        "Que ese patrón solo se aplica a sociedades enteras, no a la vida espiritual de una persona",
+        "Que relajarse después de un buen momento espiritual es completamente normal y no requiere ninguna atención especial",
+        "Que reconocer el patrón a tiempo le permite corregir el rumbo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto el consejo de Helamán de 'recordar' el ejemplo de los antepasados como el propósito de esta lección de 'evaluar el aprendizaje' comparten un mismo principio. ¿Cuál es?",
       "options": [
-        "Que recordar y evaluar activamente el propio camino espiritual ayuda a convertir el conocimiento en decisiones reales, en lugar de dejarlo como información pasada",
+        "Que recordar y evaluar convierte el conocimiento en decisiones",
         "Que ambos conceptos se refieren únicamente a memorizar datos históricos sin ninguna aplicación personal",
         "Que solo los líderes religiosos necesitan practicar este tipo de evaluación",
         "Que recordar el pasado espiritual reemplaza la necesidad de seguir tomando decisiones en el presente"

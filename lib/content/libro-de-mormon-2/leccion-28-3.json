@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Qué parte de la advertencia de Samuel en Helamán 13:8-10 te pareció más fuerte?",
         "Si tuvieras que resumir en una palabra lo que Dios realmente quiere para Su pueblo en este capítulo, ¿cuál sería: castigo, misericordia, o justicia?",
-        "¿Alguna vez sentiste que algo que hiciste era 'demasiado grave' como para ser perdonado?",
+        "Volvé a leer Mosíah 26:30. Fijate qué límite pone Dios al perdón en ese versículo y cuál, en cambio, no pone en ningún momento.",
         "¿Qué te parece la respuesta del presidente Nelson: 'Sí, hay esperanza. La esperanza está vinculada al arrepentimiento'?",
         "¿Hay algo en tu vida ahora mismo donde necesitás recordar que todavía hay una salida, como la que Samuel le ofrece al pueblo?",
-        "¿Qué paso concreto podés dar esta semana si sentís que hay algo pendiente entre vos y Dios?"
+        "Si hay algo pendiente entre vos y Dios, decíselo esta semana en una oración con nombre y apellido, sin rodeos. Anotá qué sentiste al terminar."
       ]
     }
   ],
@@ -53,12 +53,12 @@
       "id": 1,
       "question": "Según Helamán 13:8-10, ¿qué le pasaría al pueblo nefita si no se arrepentía, según la advertencia del Señor por medio de Samuel?",
       "options": [
-        "Perdería temporalmente sus riquezas materiales, sin otras consecuencias",
-        "El Señor les quitaría Su palabra y Su Espíritu, y no pasarían cuatrocientos años sin que sobreviniera su destrucción",
+        "Les quitaría Su palabra y Su Espíritu, y vendría la destrucción",
         "Solo los líderes del pueblo recibirían algún tipo de castigo",
-        "El Señor los perdonaría automáticamente sin ninguna condición"
+        "El Señor los perdonaría automáticamente sin ninguna condición",
+        "Perdería temporalmente sus riquezas materiales, sin otras consecuencias"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -75,41 +75,41 @@
       "id": 3,
       "question": "Samuel anuncia una destrucción real, pero ese mismo capítulo repite una y otra vez la condición 'si os arrepentís'. ¿Qué relación establece esto entre la justicia de Dios y Su misericordia?",
       "options": [
-        "Que la advertencia severa de Dios no es un fin en sí mismo, sino una invitación urgente al arrepentimiento, motivada por Su amor y no por deseo de destruir",
-        "Que la misericordia de Dios anula por completo Su justicia, sin ninguna consecuencia real",
         "Que la justicia y la misericordia de Dios son enseñanzas contradictorias e incompatibles",
-        "Que Dios solo advierte para asustar, sin intención real de perdonar a nadie"
+        "Que Dios solo advierte para asustar, sin intención real de perdonar a nadie",
+        "Que la advertencia severa de Dios no es un fin en sí mismo, sino una invitación urgente al arrepentimiento, motivada por Su amor y no por deseo de destruir",
+        "Que la misericordia de Dios anula por completo Su justicia, sin ninguna consecuencia real"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "Mosíah 26:30 promete que Dios perdona 'cuantas veces' Su pueblo se arrepienta. ¿Qué principio comparte este versículo con la promesa de Samuel en Helamán 13:17?",
       "options": [
-        "Que el arrepentimiento genuino, sin importar cuántas veces sea necesario, sigue teniendo acceso real al perdón de Dios",
         "Que solo existe una única oportunidad de arrepentirse en la vida de una persona",
         "Que el perdón de Dios depende exclusivamente de la cantidad de buenas obras realizadas",
-        "Que el perdón de Dios, aunque real, solo está disponible para el primer error, no para los siguientes"
+        "Que el perdón de Dios, aunque real, solo está disponible para el primer error, no para los siguientes",
+        "Que el arrepentimiento genuino, sin importar cuántas veces sea necesario, sigue teniendo acceso real al perdón de Dios"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Camila siente que ya cometió un error demasiado grave como para que Dios quiera perdonarla, y por eso dejó de orar. Según la promesa de Samuel en Helamán 13:17 y la enseñanza del presidente Nelson, ¿qué le ayudaría?",
       "options": [
+        "Que la esperanza está vinculada al arrepentimiento, sin importar el error",
+        "Que solo los líderes de la Iglesia pueden decidir si merece ser perdonada",
         "Que tiene razón: algunos errores son demasiado grandes como para tener esperanza real de perdón",
-        "Que debería esperar a sentirse mejor antes de volver a orar",
-        "Que la esperanza siempre está vinculada al arrepentimiento, sin importar cuán grave sienta que fue su error, y que el primer paso es acercarse a Dios, no alejarse",
-        "Que solo los líderes de la Iglesia pueden decidir si merece ser perdonada"
+        "Que debería esperar a sentirse mejor antes de volver a orar"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Benjamín escucha a un compañero decir que 'Dios en el Antiguo Mundo solo castigaba, y recién con Cristo apareció la misericordia'. Usando Helamán 13, ¿qué le podría responder?",
       "options": [
         "Que tiene razón, ya que este capítulo es puramente una amenaza sin ninguna oferta de misericordia",
-        "Que incluso en medio de una advertencia severa de destrucción, Dios ya ofrecía explícitamente el arrepentimiento como camino de regreso, mostrando que Su misericordia es constante en toda la historia sagrada",
+        "Que en plena advertencia Dios ya ofrecía el arrepentimiento",
         "Que la misericordia de Dios solo aparece después del año 1 d.C., sin ninguna excepción",
         "Que su compañero tiene razón en parte, porque la misericordia de Dios recién se volvió importante a partir de Cristo"
       ],
@@ -119,12 +119,12 @@
       "id": 7,
       "question": "Tanto la advertencia de Samuel en Helamán 13:8-10 como su promesa en el versículo 17 comparten un mismo propósito central detrás del mensaje profético. ¿Cuál es?",
       "options": [
-        "Que Dios advierte a Su pueblo precisamente porque quiere que se arrepienta y evite las consecuencias de su iniquidad, no porque desee destruirlo",
-        "Que las advertencias proféticas nunca dejan ninguna posibilidad real de cambio",
         "Que Samuel buscaba únicamente asustar al pueblo sin ofrecerle ninguna salida genuina",
-        "Que el arrepentimiento y la destrucción son consecuencias completamente independientes entre sí"
+        "Que el arrepentimiento y la destrucción son consecuencias completamente independientes entre sí",
+        "Que Dios advierte porque quiere que se arrepientan, no destruirlos",
+        "Que las advertencias proféticas nunca dejan ninguna posibilidad real de cambio"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

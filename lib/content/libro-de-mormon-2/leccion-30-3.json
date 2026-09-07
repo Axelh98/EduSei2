@@ -12,6 +12,16 @@
           "referencia": "3 Nefi 11:10–11",
           "texto": "Yo soy Jesucristo, de quien los profetas testificaron que vendría al mundo. Y he aquí, yo soy la luz y la vida del mundo; y he bebido de aquella copa amarga que el Padre me ha dado, y he glorificado al Padre tomando sobre mí los pecados del mundo, sometiéndome con paciencia a la voluntad del Padre en todas las cosas desde el principio.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p10-p11#p10"
+        },
+        {
+          "referencia": "Juan 5:30",
+          "texto": "No puedo yo hacer nada por mí mismo; como oigo, juzgo; y mi juicio es justo, porque no busco mi voluntad, sino la voluntad del Padre, que me envió.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/5?lang=spa&id=p30#p30"
+        },
+        {
+          "referencia": "Lucas 22:42",
+          "texto": "Diciendo: Padre, si quieres, pasa de mí esta copa; pero no se haga mi voluntad, sino la tuya.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/22?lang=spa&id=p42#p42"
         }
       ]
     },
@@ -24,7 +34,7 @@
       "preguntas": [
         "¿Ya te sabías de memoria, aunque sea en parte, 3 Nefi 11:10-11? ¿Qué frase se te queda más grabada?",
         "Si tuvieras que resumir en una palabra la doctrina de este pasaje, ¿cuál sería: obediencia, identidad, o confianza?",
-        "¿Qué te parece que Cristo diga que se sometió a la voluntad del Padre 'en todas las cosas', sin ninguna excepción?",
+        "Volvé a leer 3 Nefi 11:10–11. Contá cuántas afirmaciones hace Cristo sobre sí mismo en esos dos versículos, y fijate cuál de todas respalda a las demás.",
         "¿Alguna vez tuviste que decidir entre seguir la voz de Cristo o la de otra persona que te presionaba en una dirección distinta?",
         "Elegí memorizar 3 Nefi 11:10-11 esta semana. ¿Qué método vas a usar: repetirlo en voz alta, escribirlo, otro?",
         "Pensá en una decisión concreta de esta semana donde este versículo te podría ayudar a elegir a quién seguir."
@@ -58,30 +68,30 @@
       "id": 3,
       "question": "Cristo respalda Su declaración de identidad ('Yo soy Jesucristo') con el hecho de haberse sometido 'en todas las cosas desde el principio' (3 Nefi 11:11). ¿Qué relación establece esto entre Su obediencia pasada y la confianza que merece Su palabra?",
       "options": [
-        "Que Su total sometimiento a la voluntad del Padre es precisamente lo que respalda la autoridad y la confiabilidad de todo lo que Él enseña",
         "Que la confianza en la palabra de Cristo depende únicamente de los milagros que hizo, no de Su obediencia",
         "Que Cristo solo pide que le crean por la fuerza de Su aparición física, sin ninguna otra razón",
-        "Que Su sometimiento fue parcial, y por eso Su palabra requiere verificación adicional"
+        "Que Su sometimiento fue parcial, y por eso Su palabra requiere verificación adicional",
+        "Que Su sometimiento total respalda todo lo que Él enseña"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Por qué es significativo que el pasaje diga 'en todas las cosas' y no simplemente 'en las cosas importantes'?",
       "options": [
-        "Porque no tiene ninguna relevancia real para el significado del versículo",
-        "Porque subraya que la fidelidad de Cristo fue total y constante, sin excepciones, lo cual es distinto de una obediencia parcial o selectiva",
+        "Porque subraya que Su fidelidad fue total, sin excepciones",
         "Porque implica que Cristo solo obedeció en asuntos menores",
-        "Porque sugiere que el pasaje contiene un error de traducción"
+        "Porque sugiere que el pasaje contiene un error de traducción",
+        "Porque no tiene ninguna relevancia real para el significado del versículo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Jessica no está segura de si seguir el consejo de sus amigas o el de un líder de la Iglesia sobre una decisión importante. Según 3 Nefi 11:10-11, ¿qué principio le ayudaría a decidir a quién dar más peso?",
       "options": [
         "Que debería seguir siempre a sus amigas, porque las conoce mejor",
-        "Que la voz de Cristo merece una confianza distinta, respaldada por una vida entera de sometimiento total a la voluntad del Padre, algo que ninguna otra fuente puede ofrecer de la misma manera",
+        "Que Su voz merece una confianza que ninguna otra puede ofrecer",
         "Que ninguna voz merece más confianza que otra en este tipo de decisiones",
         "Que debería decidir basándose únicamente en lo que le resulte más cómodo"
       ],
@@ -91,23 +101,23 @@
       "id": 6,
       "question": "Luca quiere explicarle a un amigo por qué confía en las palabras de Cristo más que en otras voces que escucha a diario. Usando 3 Nefi 11:10-11, ¿qué idea central podría compartir?",
       "options": [
+        "Que este pasaje no ofrece ninguna razón real para confiar en Cristo",
         "Que confía en Cristo simplemente porque así se lo enseñaron desde niño, sin ninguna razón adicional",
         "Que la palabra de Cristo tiene un peso único porque Él ya demostró, con una obediencia total y constante, que es completamente digno de confianza",
-        "Que todas las voces merecen exactamente el mismo nivel de confianza",
-        "Que este pasaje no ofrece ninguna razón real para confiar en Cristo"
+        "Que todas las voces merecen exactamente el mismo nivel de confianza"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Tanto la frase 'yo soy Jesucristo' como la frase 'sometiéndome con paciencia a la voluntad del Padre en todas las cosas' forman una sola idea central de este pasaje de dominio de la doctrina. ¿Cuál es?",
       "options": [
-        "Que la identidad de Cristo como Salvador está respaldada por Su sometimiento total y constante a la voluntad del Padre, lo cual da autoridad y confiabilidad a todo lo que Él enseña",
         "Que la identidad de Cristo como Salvador se basa únicamente en Su poder, sin relación con Su carácter",
         "Que Cristo se presentó sin ofrecer ninguna evidencia de quién era realmente",
-        "Que el sometimiento de Cristo fue ocasional, solo en momentos específicos de Su vida"
+        "Que el sometimiento de Cristo fue ocasional, solo en momentos específicos de Su vida",
+        "Que Su identidad está respaldada por Su sometimiento total"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }

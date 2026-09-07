@@ -9,9 +9,14 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Alma 34:10",
-          "texto": "Porque es preciso que haya un gran y postrer sacrificio; sí, no un sacrificio de hombre, ni de bestia, ni de ningún género de ave; pues no será un sacrificio humano, sino debe ser un sacrificio infinito y eterno.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p10#p10"
+          "referencia": "Alma 34:9–10",
+          "texto": "Porque es necesario que se realice una expiación; pues según el gran plan del Dios Eterno, debe efectuarse una expiación, o de lo contrario, todo el género humano inevitablemente debe perecer… Porque es preciso que haya un gran y postrer sacrificio; sí, no un sacrificio de hombre, ni de bestia, ni de ningún género de ave; pues no será un sacrificio humano, sino debe ser un sacrificio infinito y eterno.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p9-p10#p9"
+        },
+        {
+          "referencia": "Alma 39:9",
+          "texto": "Hijo mío, quisiera que te arrepintieses y abandonases tus pecados, y no te dejases llevar más por las concupiscencias de tus ojos, sino que te refrenaras de todas estas cosas; porque a menos que hagas esto, de ningún modo podrás heredar el reino de Dios. ¡Oh recuerda, y comprométete, y abstente de estas cosas!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=spa&id=p9#p9"
         },
         {
           "referencia": "Alma 41:10",
@@ -34,17 +39,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Cuatro pasajes distintos, estudiados en cuatro semanas distintas, y sin embargo todos terminan señalando lo mismo: a Cristo. El élder Gerrit W. Gong enseñó que la expiación de nuestro Salvador es infinita y eterna, y que no importa dónde estemos ni qué hayamos hecho, 'no hay punto del que no podamos volver'. Ese es exactamente el hilo que conecta el sacrificio infinito de Alma 34, el llamado a dejar de excusarnos de Alma 39, la promesa de que la maldad nunca fue felicidad de Alma 41, y el fundamento sobre la roca de Helamán 5. Memorizar cada pasaje por separado es un buen comienzo. Verlos conectados, todos apuntando a la misma Persona, es lo que realmente los vuelve doctrina comprendida, no solo palabras repetidas. Elegí dos de estos cuatro pasajes esta semana, y escribí, en tus propias palabras, cómo se conectan entre sí."
+      "contenido": "Cuatro pasajes distintos, estudiados en cuatro semanas distintas, y sin embargo todos terminan señalando lo mismo: a Cristo. El élder Gerrit W. Gong enseñó que la expiación de nuestro Salvador es infinita y eterna, y que no importa dónde estemos ni qué hayamos hecho, 'no hay punto del que no podamos volver'. Ese es el hilo que conecta el sacrificio infinito de Alma 34, el llamado a dejar de excusarnos de Alma 39, la promesa de que la maldad nunca fue felicidad de Alma 41, y el fundamento sobre la roca de Helamán 5. Verlos conectados, todos apuntando a la misma Persona, es lo que los vuelve doctrina comprendida y no palabras repetidas. Elegí dos de los cuatro y escribí, con tus palabras, cómo se sostienen entre sí."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "De los cuatro pasajes repasados, ¿cuál te resultó más fácil de entender la primera vez, y cuál más difícil?",
         "Si tuvieras que unir dos de estos cuatro pasajes en una sola idea, ¿cuáles elegirías y por qué?",
-        "¿Notás alguna vez que estudiás un tema de la Iglesia por separado, sin ver cómo se conecta con otras cosas que ya sabías?",
+        "Volvé a leer Helamán 5:12 y Alma 34:9–10 uno detrás del otro. Uno habla de un sacrificio y el otro de un fundamento: fijate qué idea aparece en los dos.",
         "¿Qué te parece la enseñanza del élder Gong de que 'no hay punto del que no podamos volver'?",
         "Elegí dos de los cuatro pasajes de esta semana y escribí una frase que explique cómo se conectan entre sí.",
-        "¿A quién le podrías explicar esta semana cómo estos cuatro pasajes, aunque parecen hablar de cosas distintas, apuntan todos a Cristo?"
+        "Escribí los cuatro pasajes en una hoja y trazá una flecha desde cada uno hasta Cristo, con dos palabras que expliquen la conexión. Meditá en el resultado."
       ]
     }
   ],
@@ -53,78 +58,78 @@
       "id": 1,
       "question": "¿Cuáles son los cuatro pasajes de Dominio de la Doctrina que se repasan en esta lección?",
       "options": [
+        "Éter 12:6, Éter 12:27, Moroni 7:45–48 y Moroni 10:4–5",
         "Alma 7:11–13, Alma 32:21, Alma 34:9–10 y Alma 39:9",
         "Alma 34:9–10, Alma 39:9, Alma 41:10 y Helamán 5:12",
-        "Helamán 5:12, 3 Nefi 11:10–11, 3 Nefi 12:48 y 3 Nefi 27:20",
-        "Éter 12:6, Éter 12:27, Moroni 7:45–48 y Moroni 10:4–5"
+        "Helamán 5:12, 3 Nefi 11:10–11, 3 Nefi 12:48 y 3 Nefi 27:20"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Según el élder Gerrit W. Gong, ¿qué asegura Dios amorosamente a quienes se apartan o se pierden por un tiempo?",
       "options": [
-        "Que deben esperar a la siguiente vida para poder ser perdonados",
-        "Que no hay punto del que no puedan volver, porque la expiación de Cristo es infinita y eterna",
         "Que solo algunos pecados específicos pueden ser perdonados",
-        "Que el perdón depende exclusivamente de cuántas veces asistan a la Iglesia"
+        "Que el perdón depende exclusivamente de cuántas veces asistan a la Iglesia",
+        "Que deben esperar a la siguiente vida para poder ser perdonados",
+        "Que no hay punto del que no puedan volver, porque la expiación de Cristo es infinita y eterna"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Esta lección propone conectar varios pasajes de Dominio de la Doctrina entre sí, en lugar de estudiarlos solo por separado. ¿Qué gana un estudiante al ver esas conexiones?",
       "options": [
-        "Ninguna diferencia real; estudiar los pasajes juntos o por separado da exactamente el mismo resultado",
-        "Una comprensión más profunda de cómo distintas doctrinas del Evangelio se sostienen entre sí y apuntan a un mismo centro",
+        "Ver cómo distintas doctrinas se sostienen entre sí",
         "Que ya no hace falta memorizar cada pasaje individualmente",
-        "Que los pasajes pierden su significado específico al conectarlos con otros"
+        "Que los pasajes pierden su significado específico al conectarlos con otros",
+        "Ninguna diferencia real; estudiar los pasajes juntos o por separado da exactamente el mismo resultado"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "¿Qué tienen en común el sacrificio infinito de Alma 34:10 y el fundamento sobre la roca de Helamán 5:12, aunque parezcan tratar temas distintos?",
       "options": [
-        "Ninguna relación real; son doctrinas completamente independientes entre sí",
         "Ambos dependen exclusivamente de una interpretación simbólica sin base doctrinal",
-        "Ambos señalan a Jesucristo como el único capaz de sostener y salvar, ya sea mediante Su sacrificio o como fundamento firme ante las tormentas de la vida",
-        "Ambos se refieren únicamente a acontecimientos históricos del pueblo nefita, sin aplicación personal"
+        "Los dos señalan a Jesucristo como el único que sostiene y salva",
+        "Ambos se refieren únicamente a acontecimientos históricos del pueblo nefita, sin aplicación personal",
+        "Ninguna relación real; son doctrinas completamente independientes entre sí"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "Lucía siente que aprendió estos cuatro pasajes 'para el examen' pero no ve ninguna relación real entre ellos. Según el enfoque de esta lección, ¿qué le ayudaría a comprenderlos mejor?",
       "options": [
+        "Concentrarse solamente en el pasaje que le resulte más fácil de recordar",
         "Memorizarlos con más repeticiones, sin cambiar nada más en su método de estudio",
         "Buscar activamente cómo cada pasaje se conecta con los otros, en lugar de estudiar cada uno de forma aislada",
-        "Elegir memorizar solo los pasajes más cortos, ya que los más largos no valen el mismo esfuerzo",
-        "Concentrarse solamente en el pasaje que le resulte más fácil de recordar"
+        "Elegir memorizar solo los pasajes más cortos, ya que los más largos no valen el mismo esfuerzo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Mateo quiere ayudar a un amigo que siente que ya hizo algo 'demasiado grave' como para volver a Dios. De los cuatro pasajes repasados, ¿cuál sería el más directo para esa situación específica, junto con la enseñanza del élder Gong?",
       "options": [
+        "Alma 39:9, porque se limita exclusivamente al tema de la castidad sin ninguna aplicación más amplia",
         "Helamán 5:12, porque habla únicamente del fundamento sobre la roca sin relación con el perdón",
         "Alma 41:10, porque solo describe la felicidad en términos generales",
-        "Alma 34:9–10, porque enseña que el sacrificio infinito y eterno de Cristo alcanza para cualquier pecado, sin importar cuán grave parezca",
-        "Alma 39:9, porque se limita exclusivamente al tema de la castidad sin ninguna aplicación más amplia"
+        "Alma 34:9–10, porque el sacrificio infinito alcanza para cualquier pecado"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto la enseñanza del élder Gong sobre la expiación infinita como el propósito de conectar estos cuatro pasajes entre sí comparten un mismo principio central. ¿Cuál es?",
       "options": [
-        "Que cada pasaje de Dominio de la Doctrina debe entenderse únicamente de forma aislada, sin relación con los demás",
-        "Que la comprensión profunda del Evangelio surge de ver cómo distintas doctrinas, estudiadas en momentos distintos, en realidad se sostienen todas sobre Cristo",
+        "Que las doctrinas estudiadas por separado se sostienen sobre Cristo",
         "Que solo algunos pasajes de Dominio de la Doctrina tienen relación real con Jesucristo",
-        "Que memorizar la referencia exacta es más importante que comprender su significado"
+        "Que memorizar la referencia exacta es más importante que comprender su significado",
+        "Que cada pasaje de Dominio de la Doctrina debe entenderse únicamente de forma aislada, sin relación con los demás"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

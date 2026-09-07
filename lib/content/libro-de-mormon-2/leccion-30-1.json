@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "En medio de tres días de oscuridad total, después de una destrucción que borró ciudades enteras, la voz que se escucha no es de condena sino de lamento y de invitación: 'benditos son los que vienen a mí.' Cristo ya no pide sacrificios de animales; pide algo más difícil de entregar: un corazón quebrantado y un espíritu contrito. El élder Neal A. Maxwell enseñó que el verdadero sacrificio personal nunca fue poner un animal en el altar, sino poner ahí 'el animal que está dentro de nosotros' — el orgullo, la excusa, la resistencia — y dejarlo consumir. Como la gallina que junta a sus polluelos una y otra vez sin cansarse, Cristo sigue invitando aunque lo hayamos ignorado antes. Esta semana, identificá qué parte de vos todavía te cuesta 'poner en el altar', y dala un paso concreto de entrega genuina."
+      "contenido": "En medio de tres días de oscuridad total, después de una destrucción que borró ciudades enteras, la voz que se escucha no es de condena sino de lamento y de invitación: 'benditos son los que vienen a mí.' Cristo ya no pide sacrificios de animales; pide algo más difícil de entregar: un corazón quebrantado y un espíritu contrito. El élder Neal A. Maxwell enseñó que el verdadero sacrificio personal nunca fue poner un animal en el altar, sino poner ahí 'el animal que está dentro de nosotros' —el orgullo, la excusa, la resistencia— y dejarlo consumir. Como la gallina que junta a sus polluelos sin cansarse, Él sigue invitando aunque lo hayamos ignorado antes. Identificá esta semana qué parte de vos te cuesta poner en el altar, y dale un paso concreto de entrega."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué imagen te impactó más: la destrucción de las ciudades, los tres días de oscuridad, o la voz que se escucha en medio de todo eso?",
         "Si tuvieras que resumir en una palabra el tono de la voz de Cristo en este pasaje, ¿cuál sería: condena, lamento, o invitación?",
-        "¿Qué te parece la imagen de la gallina que junta a sus polluelos 'una y otra vez', sin cansarse de intentarlo?",
+        "Volvé a leer 3 Nefi 9:19–20. Cristo dice qué sacrificio ya no quiere y cuál sí: fijate qué promete al final del versículo 20 a quien traiga el segundo.",
         "¿Qué te parece la enseñanza del élder Maxwell de que el verdadero sacrificio es poner en el altar 'el animal que está dentro de nosotros'?",
         "¿Hay algo en vos —un hábito, una actitud, una excusa— que te cuesta 'poner en el altar' esta semana?",
-        "Pensando en la invitación de Cristo a los que sobrevivieron, ¿a quién le podrías extender vos una invitación genuina de acercarse, esta semana?"
+        "Antes de invitar a esa persona, orá por ella una vez al día durante tres días. Anotá si cambia algo en cómo pensás la conversación."
       ]
     }
   ],
@@ -53,67 +53,67 @@
       "id": 1,
       "question": "¿Qué ocurrió durante los tres días que siguieron a la destrucción descrita en 3 Nefi 8?",
       "options": [
-        "Hubo una oscuridad tan densa que no se podía encender ninguna vela",
         "El sol brilló con más intensidad de lo normal",
         "Cayó una lluvia continua sin ningún otro fenómeno",
-        "El pueblo celebró un festejo en honor a los sobrevivientes"
+        "El pueblo celebró un festejo en honor a los sobrevivientes",
+        "Una oscuridad tan densa que no se podía encender una vela"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Según 3 Nefi 9:19-20, ¿qué tipo de sacrificio pide Cristo a partir de ahora, en lugar del derramamiento de sangre de animales?",
       "options": [
-        "Un sacrificio de bienes materiales y riquezas",
         "Un corazón quebrantado y un espíritu contrito",
         "Un ayuno de varios días consecutivos",
-        "La construcción de nuevos templos"
+        "La construcción de nuevos templos",
+        "Un sacrificio de bienes materiales y riquezas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "La voz que se escucha en medio de la oscuridad no condena sin más a los sobrevivientes, sino que lamenta la destrucción y los invita a volver (3 Nefi 9:13-14). ¿Qué revela ese tono sobre el carácter de Cristo frente a la destrucción que Su pueblo mismo provocó con su iniquidad?",
       "options": [
-        "Que Su primera reacción, incluso después de una destrucción tan grave, es de misericordia e invitación al arrepentimiento, no solo de juicio",
+        "Que Cristo culpa únicamente a los sobrevivientes por lo ocurrido",
+        "Que Su primera reacción es misericordia e invitación, no juicio",
         "Que Cristo no tenía ningún interés real en lo sucedido a esas ciudades",
-        "Que la destrucción anuló por completo la posibilidad de arrepentimiento",
-        "Que Cristo culpa únicamente a los sobrevivientes por lo ocurrido"
+        "Que la destrucción anuló por completo la posibilidad de arrepentimiento"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "¿Por qué usa Cristo la imagen de la gallina que junta a sus polluelos 'una y otra vez' (3 Nefi 10:4-6) para describir Su relación con Su pueblo?",
       "options": [
-        "Para mostrar que Su paciencia y disposición a recibirlos se repite constantemente, a pesar de que el pueblo la haya rechazado antes",
-        "Para indicar que ya no tiene ninguna intención de seguir invitando al pueblo",
         "Porque la imagen se refiere únicamente al cuidado de una madre por sus hijos pequeños, sin ningún significado espiritual",
-        "Para explicar únicamente un fenómeno de la naturaleza, sin ninguna intención simbólica"
+        "Para explicar únicamente un fenómeno de la naturaleza, sin ninguna intención simbólica",
+        "Para mostrar que Su disposición a recibirlos se repite siempre",
+        "Para indicar que ya no tiene ninguna intención de seguir invitando al pueblo"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Martina siente que hizo algo tan grave que ya no tiene sentido intentar acercarse de nuevo a Dios. Según la imagen de la gallina que junta a sus polluelos 'una y otra vez' en 3 Nefi 10:4-6, ¿qué le ayudaría a repensar su situación?",
       "options": [
-        "Que tiene razón: después de cierto punto, ya no hay ninguna invitación real de acercarse",
-        "Que la disposición de Cristo a recibirla se renueva constantemente, sin importar cuántas veces haya sentido que se alejó antes",
         "Que solo las personas que nunca se alejaron pueden volver a acercarse a Dios",
-        "Que debería esperar a sentirse completamente digna antes de intentar acercarse"
+        "Que debería esperar a sentirse completamente digna antes de intentar acercarse",
+        "Que tiene razón: después de cierto punto, ya no hay ninguna invitación real de acercarse",
+        "Que Su disposición a recibirla se renueva constantemente"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Joaquín siente que ya 'cumple' con su fe porque asiste a la Iglesia regularmente, pero nunca se detiene a examinar su propio corazón. Según la enseñanza del élder Maxwell sobre el sacrificio de 'poner en el altar el animal que está dentro de nosotros', ¿qué le faltaría a Joaquín?",
       "options": [
-        "Nada; cumplir con la asistencia regular ya es suficiente por sí solo",
-        "Complementar sus acciones externas con una entrega interna real —examinar y rendir su propio orgullo o resistencia—, no solo cumplir con la forma",
+        "Sumar una entrega interna real, no solo cumplir con la forma",
         "Dejar de asistir a la Iglesia, ya que la asistencia no tiene ningún valor real",
-        "Que examinar el propio corazón solo es necesario para quienes recién empiezan a practicar su fe"
+        "Que examinar el propio corazón solo es necesario para quienes recién empiezan a practicar su fe",
+        "Nada; cumplir con la asistencia regular ya es suficiente por sí solo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

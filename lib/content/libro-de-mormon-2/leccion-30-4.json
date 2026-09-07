@@ -17,6 +17,11 @@
           "referencia": "3 Nefi 11:17",
           "texto": "¡Hosanna! ¡Bendito sea el nombre del Más Alto Dios! Y cayeron a los pies de Jesús, y lo adoraron.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Alma 7:11–12",
+          "texto": "Y él saldrá, sufriendo dolores, aflicciones y tentaciones de todas clases; y esto para que se cumpla la palabra que dice: Tomará sobre sí los dolores y las enfermedades de su pueblo. Y tomará sobre sí la muerte, para soltar las ligaduras de la muerte que sujetan a su pueblo; y sus debilidades tomará él sobre sí… a fin de que según la carne sepa cómo socorrer a los de su pueblo, de acuerdo con las debilidades de ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p11-p12#p11"
         }
       ]
     },
@@ -29,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Cristo no le pidió a la multitud que le creyera desde lejos: esperó a que cada persona, una por una, pasara y tocara con sus propias manos las marcas de los clavos. El obispo Gérald Caussé enseñó que 'así como Jesús invitó a cada uno de los discípulos nefitas a palpar Sus heridas, Él murió por cada uno de nosotros, personalmente, como si ustedes o yo fuésemos la única persona en la tierra.' Ese es el corazón de este pasaje: tu fe en Cristo no tiene que ser una copia de la de tus padres o tus amigos. Puede —y en algún momento debe— volverse tan personal como lo fue para cada persona que pasó esa tarde en Abundancia. Esta semana, buscá un momento de oración personal donde le pidas a Dios esa misma certeza individual, en lugar de conformarte con la fe que otros ya tienen."
+      "contenido": "Cristo no le pidió a la multitud que le creyera desde lejos: esperó a que cada persona, una por una, pasara y tocara con sus propias manos las marcas de los clavos. El obispo Gérald Caussé enseñó que 'así como Jesús invitó a cada uno de los discípulos nefitas a palpar Sus heridas, Él murió por cada uno de nosotros, personalmente'. Eso es lo que Alma ya había anunciado: Su expiación no fue un trámite general, tomó sobre sí las debilidades de cada uno para saber cómo socorrer a cada uno. Tu fe no tiene que ser una copia de la de tus padres. Buscá esta semana un momento de oración personal donde le pidas esa misma certeza individual."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te pareció que Cristo esperara a que cada persona, una por una, tocara Sus heridas, en lugar de hacer una sola declaración para toda la multitud?",
         "Si tuvieras que resumir en una palabra lo que sintió la multitud al final, ¿cuál sería: asombro, certeza, o adoración?",
-        "¿Sentís que tu fe en Cristo es 'prestada' de tus padres o de tu comunidad, o es algo que ya sentís como propio?",
+        "Volvé a leer 3 Nefi 11:14–15. Cristo da más de un motivo de por qué quiere que toquen las marcas: fijate cuáles son y cuál de ellos no esperabas.",
         "¿Qué te parece la enseñanza del obispo Caussé de que Cristo murió por vos 'como si fueras la única persona en la tierra'?",
         "¿Qué podés hacer esta semana para buscar una certeza más personal sobre Cristo, en lugar de depender solo de la fe de otros?",
-        "Pensando en la reacción de la multitud —gritar '¡Hosanna!' y adorarlo—, ¿qué gesto concreto de gratitud hacia Cristo podés practicar esta semana?"
+        "Pedí en oración esta semana una certeza que sea tuya y no prestada, y anotá exactamente qué pediste, para poder releerlo dentro de un mes."
       ]
     }
   ],
@@ -48,12 +53,12 @@
       "id": 1,
       "question": "¿A qué invitó Cristo a la multitud después de presentarse como Jesucristo?",
       "options": [
-        "A escuchar un sermón extenso sobre la ley de Moisés",
-        "A que cada persona se acercara y tocara las marcas de los clavos en Sus manos y pies",
+        "A que cada uno tocara las marcas de los clavos",
         "A regresar a sus casas y reflexionar en privado",
-        "A construir un templo antes de continuar con el mensaje"
+        "A construir un templo antes de continuar con el mensaje",
+        "A escuchar un sermón extenso sobre la ley de Moisés"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -70,41 +75,41 @@
       "id": 3,
       "question": "Cristo hizo que cada persona pasara individualmente a tocar Sus heridas, en lugar de hacer una sola declaración para toda la multitud a la vez (3 Nefi 11:14-15). ¿Qué principio sobre la fe ilustra esta forma de actuar?",
       "options": [
+        "Que esta forma de actuar no tenía ningún propósito relacionado con la fe",
         "Que Cristo prefiere que la fe se construya de manera colectiva únicamente, sin ninguna experiencia individual",
-        "Que la certeza personal e individual tiene un valor específico que una experiencia únicamente colectiva no puede reemplazar por completo",
-        "Que solo algunas personas de la multitud merecían recibir esa evidencia personal",
-        "Que esta forma de actuar no tenía ningún propósito relacionado con la fe"
+        "Que la certeza personal tiene un valor propio",
+        "Que solo algunas personas de la multitud merecían recibir esa evidencia personal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Por qué es significativo que Cristo dijera que las marcas probaban que Él era 'el Dios de Israel... que fui muerto por los pecados del mundo' (3 Nefi 11:14), y no solo que había resucitado?",
       "options": [
-        "Porque conecta la evidencia física de las heridas directamente con el propósito y el significado de Su sacrificio, no solo con el hecho de estar vivo",
         "Porque esa frase se refiere únicamente a probar que Cristo tenía un cuerpo físico, sin ningún otro significado",
         "Porque implica que la resurrección de Cristo fue menos importante que Su identidad como Dios de Israel",
-        "Porque sugiere que las heridas no tenían ningún significado espiritual real"
+        "Porque sugiere que las heridas no tenían ningún significado espiritual real",
+        "Porque une las heridas con el propósito de Su sacrificio"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Sofía siente que su testimonio de Cristo es solo 'el de sus papás', porque nunca tuvo una experiencia espiritual que sintiera completamente propia. Según el patrón de esta invitación personal en 3 Nefi 11:14-17, ¿qué le ayudaría?",
       "options": [
-        "Que la fe heredada de sus padres es exactamente igual de válida y no necesita ninguna experiencia personal adicional",
-        "Que buscar activamente su propia experiencia personal con Cristo —a través de la oración, el estudio, y la aplicación— puede ayudarla a que su fe deje de ser prestada y se vuelva propia, como le pasó a cada persona de esa multitud",
+        "Que buscar su propia experiencia puede volver propia esa fe",
         "Que no es posible tener una certeza personal distinta a la de los padres",
-        "Que debería esperar pasivamente a que la certeza le llegue sin ninguna acción de su parte"
+        "Que debería esperar pasivamente a que la certeza le llegue sin ninguna acción de su parte",
+        "Que la fe heredada de sus padres es exactamente igual de válida y no necesita ninguna experiencia personal adicional"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Tomás se pregunta por qué Dios no le da a él la misma clase de evidencia física que recibió esa multitud en Abundancia. Según la enseñanza del obispo Caussé de que Cristo murió por cada persona 'como si fuera la única persona en la tierra', ¿qué principio le ayudaría?",
       "options": [
         "Que Dios ya no ofrece ningún tipo de evidencia personal a nadie en la actualidad",
-        "Que, aunque la forma sea distinta hoy, Cristo sigue invitando a cada persona individualmente a buscar su propia certeza personal, con el mismo amor personal que mostró esa tarde",
+        "Que Él sigue invitando a cada uno a su propia certeza",
         "Que solo las personas de esa generación específica merecían una relación personal con Cristo",
         "Que buscar una certeza personal es innecesario si ya se cree en la existencia de Cristo"
       ],
@@ -114,12 +119,12 @@
       "id": 7,
       "question": "Tanto la invitación a tocar las heridas de forma individual como la enseñanza del obispo Caussé sobre morir 'por cada uno de nosotros, personalmente' comparten un mismo principio central. ¿Cuál es?",
       "options": [
-        "Que el amor y la expiación de Cristo, aunque son infinitos, también son profundamente personales para cada individuo, no solo un evento genérico para la humanidad en conjunto",
-        "Que la expiación de Cristo solo tiene valor si se experimenta de forma colectiva",
         "Que el sacrificio de Cristo fue mayor para unas personas que para otras",
-        "Que la certeza personal sobre Cristo depende únicamente de tener una experiencia física como la de esa multitud"
+        "Que la certeza personal sobre Cristo depende únicamente de tener una experiencia física como la de esa multitud",
+        "Que el amor y la expiación de Cristo, aunque son infinitos, también son profundamente personales para cada individuo, no solo un evento genérico para la humanidad en conjunto",
+        "Que la expiación de Cristo solo tiene valor si se experimenta de forma colectiva"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

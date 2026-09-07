@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Esta lección es distinta a las anteriores: no se estudia un capítulo nuevo, sino que se hace una pausa para evaluar el propio aprendizaje. El bloque que termina acá —desde Alma 17 hasta Alma 52— incluyó la conversión de los lamanitas por los hijos de Mosíah, la fe como semilla en la parábola de Alma a los zoramitas, la conversión de Alma el joven, el estandarte de la libertad de Moroni, y el contraste entre Amalickíah y Moroni. El manual invita a preguntarse, no cuánto se recuerda de memoria, sino qué cambió realmente. Una autoevaluación honesta no busca que te sientas mal por lo que todavía te falta, sino que notes lo que sí avanzó, por pequeño que parezca. Es lo mismo que hacer una pausa en un entrenamiento o en un cuatrimestre de la escuela: parar a mirar el progreso real ayuda más que seguir sin revisar nada. Esta semana, en vez de aprender algo nuevo, el trabajo es mirar hacia atrás con sinceridad."
+      "contenido": "Esta lección es distinta a las anteriores: no se estudia un capítulo nuevo, sino que se hace una pausa para evaluar el propio aprendizaje. El bloque que termina acá —desde Alma 17 hasta Alma 52— incluyó la conversión de los lamanitas por los hijos de Mosíah, la fe como semilla en la parábola de Alma a los zoramitas, la conversión de Alma el joven, el estandarte de la libertad de Moroni, y el contraste entre Amalickíah y Moroni. Una autoevaluación honesta no busca que te sientas mal por lo que todavía te falta, sino que notes lo que sí avanzó, por pequeño que parezca. Pero el manual pone el foco en un lugar bastante más concreto que 'cuánto aprendiste'. Pide dos cosas: que pienses, con espíritu de oración, en lo que sabés y sentís acerca de Jesucristo, y que te imagines explicándole a alguien escéptico cuál es Su función. Es una buena vara, porque todo el bloque apunta ahí. Los lamanitas cambiaron cuando conocieron al Salvador. Alma el joven se acordó de Él y el dolor se le volvió gozo. Y Ammón, al final de su misión, resumió el resultado sin quedarse ningún crédito: 'en cuanto a mi fuerza, soy débil… con su fuerza puedo hacer todas las cosas' (Alma 26:12). La pregunta de esta pausa no es cuánto retuviste. Es si estás más cerca de Él que hace ocho semanas."
     },
     {
       "tipo": "escrituras",
@@ -17,19 +17,24 @@
           "referencia": "Alma 5:14",
           "texto": "¿Habéis nacido espiritualmente de Dios? ¿Habéis recibido su imagen en vuestros rostros? ¿Habéis experimentado este potente cambio en vuestros corazones?",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p14#p14"
+        },
+        {
+          "referencia": "Alma 26:12",
+          "texto": "Sí, yo sé que nada soy; en cuanto a mi fuerza, soy débil; por tanto, no me jactaré de mí mismo, sino que me gloriaré en mi Dios, porque con su fuerza puedo hacer todas las cosas; sí, he aquí que hemos obrado muchos grandes milagros en esta tierra, por los cuales alabaremos su nombre para siempre jamás.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=spa&id=p12#p12"
         }
       ]
     },
     {
       "tipo": "conclusion",
-      "contenido": "No todo el crecimiento espiritual se siente como un cambio dramático de un día para el otro, como el de Alma el joven. La mayoría de las veces se parece más a la semilla de la parábola: algo que fue creciendo despacio, casi sin que lo notaras, a lo largo de varias semanas de estudio. Evaluar tu aprendizaje no es un trámite antes de seguir con el programa: es la oportunidad de reconocer ese crecimiento lento y ponerle nombre. Esta semana, dedicá un momento a escribir, aunque sea en el celular, una sola cosa concreta que cambió en vos desde que empezaste a estudiar Alma 17, y una sola cosa en la que querés poner más esfuerzo en las próximas semanas."
+      "contenido": "No todo el crecimiento espiritual se siente como un cambio dramático de un día para el otro, como el de Alma el joven. La mayoría de las veces se parece más a la semilla de la parábola: algo que fue creciendo despacio, casi sin que lo notaras. Evaluar tu aprendizaje no es un trámite antes de seguir con el programa: es la oportunidad de reconocer ese crecimiento y ponerle nombre. Y de reconocer de Quién vino: como Ammón, lo que avanzó no lo hiciste con tu fuerza. Esta semana, dedicá un momento a escribir una sola cosa concreta que cambió en vos desde que empezaste a estudiar Alma 17, y una sola cosa en la que querés poner más esfuerzo con Su ayuda."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué has aprendido recientemente por lo que estás agradecido?",
         "De todas las historias entre Alma 17 y Alma 52, ¿cuál se te quedó más grabada y por qué?",
-        "¿Qué cambios has notado últimamente en tus sentimientos y actitudes?",
+        "Volvé a leer Alma 5:14. Alma hace tres preguntas seguidas: fijate cuál de las tres es hoy la más difícil de responderte con sinceridad, y por qué esa y no otra.",
         "¿Cuáles son algunas de las maneras en que has aplicado lo que has estado aprendiendo?",
         "¿Qué perspectivas has obtenido del Espíritu Santo en tu estudio reciente?",
         "Pensando en las próximas semanas, ¿qué es una cosa puntual que te gustaría mejorar en tu estudio personal de las Escrituras?"
@@ -41,63 +46,63 @@
       "id": 1,
       "question": "¿Qué decisión tomaron los hijos de Mosíah respecto al trono que les correspondía por herencia, antes de partir como misioneros a los lamanitas?",
       "options": [
-        "Se repartieron el reino entre los cuatro hermanos",
         "Renunciaron a él para dedicarse a predicar el evangelio",
         "Esperaron a que Mosíah muriera para reclamarlo con más fuerza",
-        "Lo cedieron únicamente a cambio de tierras lamanitas"
+        "Lo cedieron únicamente a cambio de tierras lamanitas",
+        "Se repartieron el reino entre los cuatro hermanos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "En la parábola que Alma enseña a los zoramitas pobres, ¿con qué compara la palabra de Dios cuando recién se empieza a experimentar con ella?",
       "options": [
+        "Con un río que nunca se seca",
         "Con una semilla que se planta en el corazón",
         "Con un edificio ya terminado",
-        "Con una moneda de gran valor",
-        "Con un río que nunca se seca"
+        "Con una moneda de gran valor"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 3,
       "question": "Alma 36 describe la conversión de Alma el joven: primero un dolor tan intenso 'como jamás había experimentado', y después un gozo igual de intenso al recordar a Cristo. ¿Qué enseña esa secuencia sobre el arrepentimiento verdadero?",
       "options": [
+        "Que el gozo llega automáticamente, sin relación con haber reconocido antes el error",
         "Que el arrepentimiento genuino no involucra ninguna incomodidad",
-        "Que reconocer con sinceridad el propio pecado puede doler, pero ese dolor puede transformarse en un gozo real al recurrir a Cristo",
-        "Que solo quienes cometen pecados muy graves pueden sentir ese tipo de cambio",
-        "Que el gozo llega automáticamente, sin relación con haber reconocido antes el error"
+        "Que reconocer el propio pecado duele, pero al recurrir a Cristo se vuelve gozo",
+        "Que solo quienes cometen pecados muy graves pueden sentir ese tipo de cambio"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "El estandarte de la libertad de Moroni (Alma 46) unía en una sola frase a Dios, la religión, la libertad, la paz y la familia. ¿Qué principio general enseña esa forma de unir esos valores?",
       "options": [
-        "Que Moroni incluyó esos valores solo para que el estandarte sonara más convincente ante el pueblo",
-        "Que la fe, la libertad y los vínculos familiares están conectados, y defender uno fortalece a los demás",
         "Que solo la libertad política importaba de verdad para los nefitas",
-        "Que Moroni buscaba impresionar a sus enemigos con una lista larga de palabras"
+        "Que Moroni buscaba impresionar a sus enemigos con una lista larga de palabras",
+        "Que Moroni incluyó esos valores solo para que el estandarte sonara más convincente ante el pueblo",
+        "Que la fe, la libertad y los vínculos familiares están conectados, y defender uno fortalece a los demás"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Bruno lleva meses intentando que un amigo se interese en la Iglesia, y no ve ningún resultado todavía. Está por darse por vencido. Según el ejemplo de Amón con el rey Lamoni y su pueblo, ¿qué le ayudaría a recordar?",
       "options": [
-        "Que si no hay resultado inmediato, lo mejor es dejar de intentarlo",
-        "Que el servicio paciente y genuino, sostenido en el tiempo, puede abrir el corazón de alguien aunque no se vea de inmediato",
+        "Que el servicio paciente puede abrir un corazón aunque tarde",
         "Que Amón logró todo en una sola conversación",
-        "Que ese tipo de paciencia solo tiene sentido si se trata de un familiar directo"
+        "Que ese tipo de paciencia solo tiene sentido si se trata de un familiar directo",
+        "Que si no hay resultado inmediato, lo mejor es dejar de intentarlo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Lucía nota que un compañero de curso busca hacerse notar hablando mal de otros en secreto para quedar mejor él. Recordando el contraste entre Amalickíah y el capitán Moroni, ¿qué le ayudaría a explicarle a su compañero?",
       "options": [
         "Que ese tipo de estrategia da igual, mientras funcione a corto plazo",
-        "Que buscar destacar mediante el engaño o dañando a otros termina siendo destructivo, mientras que servir con integridad, como Moroni, construye confianza real",
+        "Que destacar dañando a otros destruye, y servir construye confianza",
         "Que Amalickíah es un buen modelo de cómo conseguir lo que uno quiere",
         "Que ese relato no tiene ninguna aplicación fuera del contexto de guerra"
       ],
@@ -109,7 +114,7 @@
       "options": [
         "Que el crecimiento espiritual siempre es lento y gradual, sin excepciones",
         "Que el crecimiento espiritual siempre ocurre de un momento para otro, como con Alma",
-        "Que el cambio verdadero a veces es gradual, como una semilla que crece despacio, y otras veces es más repentino, pero en ambos casos requiere buscar a Cristo con sinceridad",
+        "Que el cambio a veces es gradual y a veces repentino, pero siempre lleva a Cristo",
         "Que solo una de las dos formas de cambio espiritual es válida según las Escrituras"
       ],
       "correctAnswer": 2

@@ -10,13 +10,18 @@
       "citas": [
         {
           "referencia": "3 Nefi 27:19–20",
-          "texto": "Y nada impuro puede entrar en su reino; por tanto, nada entra en su reposo , sino aquellos que han lavado sus vestidos en mi sangre, mediante su fe, y el arrepentimiento de todos sus pecados y su fidelidad hasta el fin. Y este es el mandamiento: Arrepentíos , todos vosotros, extremos de la tierra, y venid a mí y sed bautizados en mi nombre, para que seáis santificados por la recepción del Espíritu Santo, a fin de que en el postrer día os presentéis ante mí sin mancha.",
+          "texto": "Y nada impuro puede entrar en su reino; por tanto, nada entra en su reposo, sino aquellos que han lavado sus vestidos en mi sangre, mediante su fe, y el arrepentimiento de todos sus pecados y su fidelidad hasta el fin. Y este es el mandamiento: Arrepentíos, todos vosotros, extremos de la tierra, y venid a mí y sed bautizados en mi nombre, para que seáis santificados por la recepción del Espíritu Santo, a fin de que en el postrer día os presentéis ante mí sin mancha.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p19-p20#p19"
         },
         {
           "referencia": "3 Nefi 27:27",
           "texto": "...Por lo tanto, ¿qué clase de hombres habéis de ser? En verdad os digo, aun como yo soy.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p27#p27"
+        },
+        {
+          "referencia": "3 Nefi 27:21",
+          "texto": "En verdad, en verdad os digo que este es mi evangelio; y vosotros sabéis las cosas que debéis hacer en mi iglesia; pues las obras que me habéis visto hacer, esas también las haréis; porque aquello que me habéis visto hacer, eso haréis vosotros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p21#p21"
         }
       ]
     },
@@ -36,7 +41,7 @@
       "preguntas": [
         "¿Qué atributo o característica de Jesucristo te gustaría incorporar más plenamente en tu vida ahora mismo?",
         "¿Cómo te da esperanza el saber que el bautismo y el Espíritu Santo pueden purificarnos de 'cosa inmunda'?",
-        "¿Alguna vez identificaste un momento de paz o claridad como una señal concreta del Espíritu Santo obrando en vos?",
+        "Volvé a leer 3 Nefi 27:19–20. Fijate qué condición pone Cristo para entrar y quién es el que limpia: ¿el que entra, o Alguien más?",
         "¿Qué te parece la enseñanza del presidente Eyring de que sentir el Espíritu es 'evidencia de que la Expiación está obrando' en tu vida?",
         "¿Qué puedes hacer esta semana para acercarte más a ser como Él es?",
         "Pensando en un momento reciente donde sentiste una influencia buena y tranquila, ¿cómo podés cultivar más momentos así esta semana?"
@@ -48,29 +53,29 @@
       "id": 1,
       "question": "¿Qué ejemplo deben seguir los discípulos, según 3 Nefi 27:27?",
       "options": [
+        "El de los ricos",
         "El del mundo",
         "El ejemplo de Cristo",
-        "El de los reyes",
-        "El de los ricos"
+        "El de los reyes"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Según 3 Nefi 27:19-20, ¿qué se necesita para que una persona sea santificada?",
       "options": [
-        "Solo buenas intenciones",
-        "Arrepentimiento, bautismo, y la recepción del Espíritu Santo",
         "Riquezas y posición social",
-        "Nacer en una familia de la Iglesia"
+        "Nacer en una familia de la Iglesia y asistir todos los domingos",
+        "Solo buenas intenciones",
+        "Arrepentimiento, bautismo y el Espíritu Santo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Cristo pregunta '¿qué clase de hombres habéis de ser?' y responde Él mismo: 'aun como yo soy' (3 Nefi 27:27). ¿Qué relación establece esa pregunta y respuesta entre el propósito de la vida y el ejemplo de Cristo?",
       "options": [
-        "Que el objetivo final del discipulado es llegar a ser semejantes a Cristo, no solo seguir un conjunto de reglas externas",
+        "Que el objetivo del discipulado es ser semejantes a Él",
         "Que la pregunta no tiene ninguna respuesta clara en el texto",
         "Que solo los apóstoles originales podían aspirar a ser como Cristo",
         "Que 'ser como Cristo' se refiere únicamente a Su apariencia física"
@@ -81,34 +86,34 @@
       "id": 4,
       "question": "¿Por qué la santificación por el Espíritu Santo es un paso necesario después del bautismo, y no algo que ocurre automáticamente por el bautismo solo?",
       "options": [
-        "Porque el bautismo perdona los pecados pasados, pero la santificación continua mediante el Espíritu es el proceso por el cual la persona se vuelve verdaderamente limpia y semejante a Cristo con el tiempo",
+        "Porque la santificación ocurre exclusivamente por el propio esfuerzo, sin ninguna ayuda espiritual",
+        "Porque el bautismo perdona lo pasado y la santificación sigue",
         "Porque el bautismo, por sí solo, ya completa todo el proceso de santificación de una persona",
-        "Porque el Espíritu Santo solo actúa una vez en la vida de una persona",
-        "Porque la santificación ocurre exclusivamente por el propio esfuerzo, sin ninguna ayuda espiritual"
+        "Porque el Espíritu Santo solo actúa una vez en la vida de una persona"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "Valentina fue bautizada hace tiempo, pero siente que 'no cambió mucho' desde entonces y se pregunta si eso significa que algo salió mal. Según 3 Nefi 27:19-20 y la enseñanza del presidente Eyring, ¿qué le ayudaría a entender su situación?",
       "options": [
-        "Que la santificación es un proceso continuo mediante el Espíritu Santo, no un cambio instantáneo que ocurre solo en el momento del bautismo",
-        "Que si no sintió un cambio radical inmediato, su bautismo no fue válido",
         "Que debería bautizarse nuevamente para que funcione esta vez",
-        "Que la santificación depende únicamente de la fecha exacta en que alguien fue bautizado"
+        "Que la santificación depende únicamente de la fecha exacta en que alguien fue bautizado",
+        "Que la santificación es un proceso continuo por el Espíritu",
+        "Que si no sintió un cambio radical inmediato, su bautismo no fue válido"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Nicolás sintió una paz inusual después de resolver un conflicto con un amigo perdonándolo, pero no sabía cómo interpretar esa sensación. Según la enseñanza del presidente Eyring, ¿qué le ayudaría a reconocer lo que sintió?",
       "options": [
-        "Que fue una simple coincidencia sin ningún significado espiritual",
-        "Que esa paz puede considerarse una tierna evidencia de que la Expiación de Cristo está obrando activamente en su vida en ese mismo momento",
         "Que solo los líderes de la Iglesia pueden sentir ese tipo de influencia espiritual",
-        "Que esa paz solo cuenta como señal espiritual si ocurre durante una oración formal"
+        "Que esa paz solo cuenta como señal espiritual si ocurre durante una oración formal",
+        "Que fue una simple coincidencia sin ningún significado espiritual",
+        "Que esa paz es evidencia de que la Expiación está obrando"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,

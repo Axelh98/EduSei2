@@ -9,22 +9,32 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Moroni 7:45",
-          "texto": "Y la caridad es sufrida y es benigna, y no tiene envidia, ni se envanece, no busca lo suyo, no se irrita fácilmente, no piensa el mal...",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa&id=p45#p45"
+          "referencia": "Moroni 7:45–48",
+          "texto": "Y la caridad es sufrida y es benigna, y no tiene envidia, ni se envanece, no busca lo suyo, no se irrita fácilmente, no piensa el mal, no se regocija en la iniquidad, sino se regocija en la verdad; todo lo sufre, todo lo cree, todo lo espera, todo lo soporta. Por tanto, amados hermanos míos, si no tenéis caridad, no sois nada, porque la caridad nunca deja de ser… Pero la caridad es el amor puro de Cristo, y permanece para siempre… Por consiguiente, amados hermanos míos, pedid al Padre con toda la energía de vuestros corazones, que seáis llenos de este amor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa&id=p45-p48#p45"
+        },
+        {
+          "referencia": "Juan 13:34–35",
+          "texto": "Un mandamiento nuevo os doy: Que os améis unos a otros; como yo os he amado, que también os améis los unos a los otros. En esto conocerán todos que sois mis discípulos, si tenéis amor los unos por los otros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/13?lang=spa&id=p34-p35#p34"
+        },
+        {
+          "referencia": "1 Corintios 13:4–5",
+          "texto": "La caridad es sufrida, es benigna; la caridad no tiene envidia, la caridad no se jacta, no se envanece; no se comporta indebidamente, no busca lo suyo, no se irrita, no piensa el mal.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=spa&id=p4-p5#p4"
         }
       ]
     },
     {
       "tipo": "conclusion",
-      "contenido": "Moroni 7:45 no describe la caridad con una sola palabra, sino con una lista concreta: es sufrida, es benigna, no tiene envidia, no se envanece, no busca lo suyo, no se irrita fácilmente. Cada una de esas frases es, en el fondo, una prueba práctica: podés preguntarte, frase por frase, si eso describe cómo tratás a las personas que más te cuestan. Memorizar este versículo te da una lista concreta contra la cual medir tus propias relaciones, no solo una idea vaga de 'ser bueno'. Esta semana, memorizá Moroni 7:45 y elegí una sola frase de la lista —'no se irrita fácilmente', por ejemplo— para practicarla de manera consciente."
+      "contenido": "Moroni 7:45 no describe la caridad con una sola palabra, sino con una lista concreta: es sufrida, es benigna, no tiene envidia, no se envanece, no busca lo suyo, no se irrita fácilmente. Cada frase es, en el fondo, una prueba práctica: podés preguntarte, frase por frase, si eso describe cómo tratás a las personas que más te cuestan. Pero el pasaje no termina en la lista, y esa es la parte que cambia todo: la caridad es el amor puro de Cristo, es Su amor y no el tuyo, y por eso Mormón manda pedirlo al Padre en vez de fabricarlo. Memorizá el pasaje esta semana y elegí una sola frase de la lista para practicarla, pidiendo primero."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Ya te sabías de memoria, aunque sea en parte, Moroni 7:45? ¿Qué frase se te queda más grabada?",
         "De toda la lista de características de la caridad en este versículo, ¿cuál te parece la más difícil de vivir?",
-        "Si aplicaras 'la caridad es sufrida y benigna' en tus relaciones diarias, ¿qué cambiaría?",
+        "Volvé a leer Moroni 7:45–48. La lista del versículo 45 describe qué es la caridad, y el 48 dice cómo se consigue: fijate qué verbo usa Mormón ahí y por qué no es 'esforzate'.",
         "¿Por qué es esencial ser 'discípulos verdaderos' de Jesucristo para recibir el don de la caridad?",
         "Elegí memorizar Moroni 7:45 esta semana. ¿Qué método vas a usar: repetirlo en voz alta, escribirlo, otro?",
         "De la lista de este versículo, elegí una sola frase para practicar de manera consciente esta semana. ¿Cuál elegís y con quién?"
@@ -36,67 +46,67 @@
       "id": 1,
       "question": "Según Moroni 7:45, ¿cómo es la caridad?",
       "options": [
-        "Impaciente y egoísta",
-        "Sufrida, benigna, no envidiosa ni jactanciosa",
         "Orgullosa",
-        "Interesada"
+        "Interesada",
+        "Impaciente y egoísta, según la descripción de Mormón",
+        "Sufrida, benigna, sin envidia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Según Moroni 7:45, ¿qué NO busca la caridad?",
       "options": [
-        "El bien",
         "Lo suyo propio",
         "Ayudar",
-        "Servir"
+        "Servir",
+        "El bien"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "El versículo describe la caridad con una lista extensa de características concretas —sufrida, benigna, sin envidia, sin irritarse fácilmente— en lugar de una sola definición general. ¿Qué propósito cumple describirla con tanto detalle?",
       "options": [
-        "Permite reconocer la caridad, o su ausencia, en situaciones específicas y cotidianas, no solo como un concepto abstracto",
+        "Solo aplica a un tipo específico de relación, no a la vida diaria en general",
+        "Permite reconocerla en situaciones cotidianas concretas",
         "No cumple ningún propósito adicional respecto de una definición general",
-        "Busca hacer la caridad más difícil de entender intencionalmente",
-        "Solo aplica a un tipo específico de relación, no a la vida diaria en general"
+        "Busca hacer la caridad más difícil de entender intencionalmente"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "¿Por qué es significativo que 'no se irrita fácilmente' y 'no busca lo suyo propio' aparezcan juntas en la misma descripción de la caridad?",
       "options": [
-        "Porque ambas apuntan a lo mismo: la caridad requiere anteponer el bienestar y la comprensión hacia el otro por encima de la propia comodidad o el propio orgullo",
-        "Porque una de las dos características es mucho más importante que la otra para definir la caridad",
         "Porque ambas describen la misma idea repetida con distintas palabras, sin agregar nada nuevo",
-        "Porque describen únicamente comportamientos poco importantes"
+        "Porque describen únicamente comportamientos poco importantes",
+        "Porque las dos piden poner al otro antes que uno mismo",
+        "Porque una de las dos características es mucho más importante que la otra para definir la caridad"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Martina siente que 'tiene razón' en casi todas las discusiones con su hermana y por eso no cede nunca. Según la frase de Moroni 7:45 de que la caridad 'no busca lo suyo propio', ¿qué principio le ayudaría?",
       "options": [
-        "Que tener razón siempre justifica no ceder en una discusión",
-        "Que la caridad invita a priorizar la relación y el bienestar del otro por encima de necesitar siempre tener la razón",
         "Que ese versículo no tiene ninguna aplicación en relaciones familiares",
-        "Que debería dejar de expresar su opinión por completo"
+        "Que debería dejar de expresar su opinión por completo",
+        "Que tener razón siempre justifica no ceder en una discusión",
+        "Que la caridad prioriza la relación sobre tener razón"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Nicolás se irrita con facilidad cuando las cosas no salen como él planeó, incluso en situaciones pequeñas. Según la frase de Moroni 7:45 'no se irrita fácilmente', ¿qué le ayudaría a aplicar este principio?",
       "options": [
-        "Que irritarse es aceptable siempre que la persona se disculpe después",
-        "Que practicar conscientemente la paciencia en esas situaciones pequeñas es una forma concreta de vivir la caridad que describe este versículo",
+        "Que practicar la paciencia en lo chico es vivir la caridad",
         "Que solo debería preocuparse por no irritarse en situaciones muy graves",
-        "Que la irritación es inevitable y no se puede trabajar en ella"
+        "Que la irritación es inevitable y no se puede trabajar en ella",
+        "Que irritarse es aceptable siempre que la persona se disculpe después"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

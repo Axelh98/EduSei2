@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Cristo sigue enseñando, y en estos dos capítulos se mete con las prácticas espirituales que todos hacemos y casi nadie examina. Habla de dar limosna, de orar y de ayunar, y en los tres casos hace la misma pregunta sin llegar a formularla: ¿para quién lo estás haciendo? Advierte contra hacerlo para ser visto por los hombres, porque el que ya recibió el aplauso, ya cobró. Después enseña a orar sin vanas repeticiones, y da el modelo del Padrenuestro. Sigue con los tesoros: donde esté tu tesoro, ahí va a estar tu corazón. Y dice algo que no admite punto medio: nadie puede servir a dos señores. Fijate cuántas de estas enseñanzas están armadas como una condición. Si hacés esto, pasa aquello. No son promesas vagas, son relaciones de causa y efecto. El sermón cierra con la imagen que resume todo: dos casas, la misma tormenta, dos finales distintos. La diferencia no estaba en la tormenta ni en la casa. Estaba en la roca. Cristo no promete que no te va a llover. Promete que si construís sobre Sus palabras, la lluvia no te va a tumbar."
+      "contenido": "Cristo sigue enseñando, y en estos dos capítulos se mete con las prácticas espirituales que todos hacemos y casi nadie examina. Habla de dar limosna, de orar y de ayunar, y en los tres casos hace la misma pregunta sin llegar a formularla: ¿para quién lo estás haciendo? Advierte contra hacerlo para ser visto por los hombres, porque el que ya recibió el aplauso, ya cobró. Después enseña a orar sin vanas repeticiones, y da el modelo del Padrenuestro. Sigue con los tesoros: donde esté tu tesoro, ahí va a estar tu corazón. Y dice algo que no admite punto medio: nadie puede servir a dos señores. Fijate cuántas de estas enseñanzas están armadas como una condición. Si hacés esto, pasa aquello. No son promesas vagas, son relaciones de causa y efecto. El sermón cierra con la imagen que resume todo: dos casas, la misma tormenta, dos finales distintos. La diferencia no estaba en la tormenta ni en la casa. Estaba en la roca. Cristo no promete que no te va a llover; Su promesa es otra, y más honesta: que si construís sobre Sus palabras, la lluvia no te va a tumbar."
     },
     {
       "tipo": "enseñanza",
@@ -41,7 +41,7 @@
       "preguntas": [
         "¿Sueles orar más en público, en privado, o casi por igual en ambos?",
         "¿Dónde identificarías que están tus 'tesoros' actualmente según la enseñanza de Cristo?",
-        "¿Cómo podrías asegurarte de que tus prácticas espirituales sean sinceras y no solo para que otros las vean?",
+        "Volvé a leer 3 Nefi 14:7-8. Son tres verbos seguidos: fijate en qué orden los pone Cristo y si te parece que hay una progresión entre uno y otro.",
         "¿Alguna vez pediste algo con fe y sentiste que la respuesta tardó más de lo que esperabas?",
         "¿Qué significaría 'buscar primero el reino de Dios' en tu situación concreta esta semana?",
         "Elegí un momento fijo de esta semana para orar a solas, en tu 'aposento'. ¿Cuál va a ser?"
@@ -53,12 +53,12 @@
       "id": 1,
       "question": "Según 3 Nefi 13:6, ¿dónde enseña Cristo que se debe orar para que el Padre 'recompense en público'?",
       "options": [
-        "En una plaza pública, frente a mucha gente",
         "En el aposento propio, con la puerta cerrada",
         "Únicamente dentro del templo",
-        "Solo cuando otra persona esté presente para escuchar"
+        "Solo cuando otra persona esté presente para escuchar",
+        "En una plaza pública, frente a mucha gente"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -75,41 +75,41 @@
       "id": 3,
       "question": "Cristo dice: 'porque donde esté vuestro tesoro, allí estará también vuestro corazón' (3 Nefi 13:21). ¿Qué principio enseña esa frase sobre la relación entre las prioridades y el corazón de una persona?",
       "options": [
+        "Que las prioridades materiales siempre son incompatibles con la fe",
         "Que el corazón de una persona determina sus prioridades, pero sus prioridades no revelan nada sobre su corazón",
-        "Que aquello en lo que una persona invierte su tiempo y esfuerzo revela, y a la vez moldea, lo que realmente le importa",
-        "Que solo el dinero determina el estado espiritual de alguien",
-        "Que las prioridades materiales siempre son incompatibles con la fe"
+        "Que aquello donde ponés tiempo y esfuerzo revela y moldea",
+        "Que solo el dinero determina el estado espiritual de alguien"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "Cristo enseña a orar en secreto y también a 'pedir, buscar y llamar' con fe (3 Nefi 14:7-8). ¿Qué tienen en común ambas enseñanzas sobre la naturaleza de la oración?",
       "options": [
-        "Que ambas enseñan que la oración debe hacerse siempre en público para que valga",
-        "Que la oración sincera y persistente, hecha con el corazón puesto en Dios y no en la opinión ajena, es la que realmente conecta con el Padre",
         "Que pedir con fe garantiza una respuesta inmediata y sin ningún tipo de espera",
-        "Que orar en secreto y pedir con fe son formas de oración incompatibles entre sí"
+        "Que orar en secreto y pedir con fe son formas de oración incompatibles entre sí",
+        "Que ambas enseñan que la oración debe hacerse siempre en público para que valga",
+        "Que la oración sincera y persistente es la que conecta"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Franco reza en voz alta frente a sus amigos principalmente para que noten que es una persona religiosa. Según 3 Nefi 13:6, ¿qué le ayudaría a reconsiderar?",
       "options": [
-        "Que esa forma de orar es exactamente la que Cristo recomienda para todos los casos",
         "Que Cristo enseña que la oración sincera se dirige al Padre en secreto, no busca principalmente la aprobación de otras personas",
         "Que orar frente a otros siempre es incorrecto, sin excepción",
-        "Que orar frente a otros es aceptable siempre que se use un tono de voz suficientemente sincero"
+        "Que orar frente a otros es aceptable siempre que se use un tono de voz suficientemente sincero",
+        "Que esa forma de orar es exactamente la que Cristo recomienda para todos los casos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Agustina dedica casi todo su tiempo libre a acumular seguidores y likes en redes sociales, y siente que eso ocupa el lugar central de sus pensamientos. Según 3 Nefi 13:21, ¿qué le ayudaría a reflexionar?",
       "options": [
         "Que el tiempo que se pasa en redes sociales no importa, siempre que no se hable mal de nadie",
-        "Que aquello en lo que invierte más tiempo y atención tiende a convertirse en lo que ocupa su corazón, y vale la pena revisar si es lo que realmente quiere priorizar",
+        "Que lo que ocupa su tiempo termina ocupando su corazón",
         "Que buscar reconocimiento en redes sociales es igual de válido que acumular tesoros en el cielo",
         "Que preocuparse por ese tema no tiene ninguna importancia espiritual"
       ],
@@ -119,12 +119,12 @@
       "id": 7,
       "question": "Tanto la enseñanza sobre orar en secreto como la del tesoro que revela el corazón apuntan a un mismo principio central de este bloque de capítulos. ¿Cuál es?",
       "options": [
+        "Que la recompensa del Padre depende únicamente de cuánto se ora en público",
         "Que las prácticas espirituales solo cuentan si otras personas las presencian",
-        "Que la sinceridad interior —a quién realmente se busca agradar y en qué se invierte el corazón— es más importante que la apariencia externa de la vida espiritual",
-        "Que el dinero y la oración son temas completamente separados en la enseñanza de Cristo",
-        "Que la recompensa del Padre depende únicamente de cuánto se ora en público"
+        "Que la sinceridad interior importa más que la apariencia",
+        "Que el dinero y la oración son temas completamente separados en la enseñanza de Cristo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

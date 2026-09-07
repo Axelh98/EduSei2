@@ -15,8 +15,13 @@
         },
         {
           "referencia": "Mormón 6:21–22",
-          "texto": "Y pronto viene el día en que vuestra parte mortal se revestirá de inmortalidad, y estos cuerpos que hoy se descomponen en corrupción, pronto se transformarán en incorruptibles ; y entonces tendréis que presentaros ante el tribunal de Cristo para ser juzgados según vuestras obras; y si tal fuere que sois justos, entonces benditos sois con vuestros padres que os han precedido. ¡Oh, si os hubieseis arrepentido antes que cayera sobre vosotros esta grande destrucción! Mas he aquí, habéis desaparecido, y el Padre, sí, el Padre Eterno del cielo, conoce vuestro estado; y él obra con vosotros de acuerdo con su justicia y misericordia .",
+          "texto": "Y pronto viene el día en que vuestra parte mortal se revestirá de inmortalidad, y estos cuerpos que hoy se descomponen en corrupción, pronto se transformarán en incorruptibles; y entonces tendréis que presentaros ante el tribunal de Cristo para ser juzgados según vuestras obras; y si tal fuere que sois justos, entonces benditos sois con vuestros padres que os han precedido. ¡Oh, si os hubieseis arrepentido antes que cayera sobre vosotros esta grande destrucción! Mas he aquí, habéis desaparecido, y el Padre, sí, el Padre Eterno del cielo, conoce vuestro estado; y él obra con vosotros de acuerdo con su justicia y misericordia.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=spa&id=p21-p22#p21"
+        },
+        {
+          "referencia": "3 Nefi 9:14",
+          "texto": "Sí, en verdad os digo que si venís a mí, tendréis vida eterna. He aquí, mi brazo de misericordia se extiende hacia vosotros; y a cualquiera que venga, yo lo recibiré; y benditos son los que vienen a mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=spa&id=p14#p14"
         }
       ]
     },
@@ -29,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Mormón lideró a un pueblo que sabía que iba camino a la destrucción, y aun así siguió intentando salvarlos hasta el final, llorando por ellos como 'pueblo hermoso' que rechazó los brazos abiertos de Cristo. El élder Neil L. Andersen enseñó que no hay herida —'no importa cuán profunda, cuán extensa o cuán dolorosa'— que quede fuera del alcance de Aquel 'cuyos brazos abiertos y manos heridas nos recibirán de regreso a Su presencia'. Los nefitas de Cumorah ya no pudieron volver; vos todavía podés. Esta semana, si sentís que te alejaste demasiado como para volver, recordá que esos brazos siguen abiertos, y dá un paso concreto hacia ellos."
+      "contenido": "Mormón lideró a un pueblo que sabía que iba camino a la destrucción, y aun así siguió intentando salvarlos hasta el final, llorando por ellos como 'pueblo hermoso' que rechazó los brazos abiertos de Cristo. El élder Neil L. Andersen enseñó que no hay herida —'no importa cuán profunda, cuán extensa o cuán dolorosa'— que quede fuera del alcance de Aquel 'cuyos brazos abiertos y manos heridas nos recibirán de regreso a Su presencia'. Los nefitas de Cumorah ya no pudieron volver; vos todavía podés. Su amor no se apagó en Cumorah: el mismo que lloró ahí dijo antes 'a cualquiera que venga, yo lo recibiré'. Dá esta semana un paso concreto hacia esos brazos."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué nos enseñan los lamentos de Mormón sobre el dolor que sienten Dios y Sus profetas cuando pecamos?",
         "¿Cómo te sentís al saber que Jesús siempre espera 'con los brazos abiertos'?",
-        "¿Qué acciones podés tomar para nunca 'apartarte de las vías del Señor'?",
+        "Leé Mormón 6:17 en voz alta. Es un lamento, no una explicación: ¿qué le cambia al versículo escucharlo dicho en voz alta en vez de leerlo callado?",
         "¿Qué te parece la enseñanza del élder Andersen de que ninguna herida, 'no importa cuán profunda', queda fuera del alcance de Cristo?",
         "¿Hay algo en tu vida que sentís que te alejó de Dios y todavía no supiste cómo acercarte de nuevo?",
-        "Pensando en el lamento de Mormón por su 'pueblo hermoso', ¿qué paso concreto podés dar esta semana para acercarte más a Cristo en lugar de alejarte?"
+        "Nombrá en tu oración de esta semana eso que sentís que te alejó, y pedí una sola cosa concreta al respecto. Anotá qué fue lo que pediste."
       ]
     }
   ],
@@ -48,34 +53,34 @@
       "id": 1,
       "question": "¿Dónde fue la batalla final de los nefitas?",
       "options": [
+        "Jerusalén",
         "Zarahemla",
         "Cumorah",
-        "Abundancia",
-        "Jerusalén"
+        "Abundancia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Cuántos nefitas murieron en la batalla final?",
       "options": [
-        "Cientos",
-        "Decenas de miles, casi toda la nación",
         "Pocos",
-        "Ninguno"
+        "Ninguno",
+        "Cientos, según el registro de Mormón",
+        "Decenas de miles"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "¿Qué hizo Mormón con los registros?",
       "options": [
-        "Los destruyó",
         "Los escondió en el cerro Cumorah",
         "Los quemó",
-        "Los vendió"
+        "Los vendió",
+        "Los destruyó"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -92,23 +97,23 @@
       "id": 5,
       "question": "¿Qué causó la destrucción final de los nefitas?",
       "options": [
-        "Guerra externa",
-        "Su extrema iniquidad y rechazo de Dios",
-        "Terremotos",
-        "Enfermedades"
+        "Enfermedades",
+        "Guerra externa contra un enemigo mucho más numeroso",
+        "Su iniquidad y rechazo de Dios",
+        "Terremotos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Mormón vuelve a liderar a su pueblo por compasión, aunque ya sabía que la destrucción era inevitable porque no se arrepentían (Mormón 6:1-6). ¿Qué revela esa decisión sobre el carácter de Mormón como líder y como discípulo de Cristo?",
       "options": [
-        "Que siguió amando y sirviendo a su pueblo hasta el final, incluso sabiendo que el resultado sería doloroso, reflejando el mismo amor persistente de Cristo",
         "Que Mormón actuó de manera contradictoria, sin ninguna razón real para volver a liderarlos",
         "Que Mormón esperaba obtener algún beneficio personal al volver a liderar al pueblo",
-        "Que Mormón actuó movido principalmente por el deber militar, no por amor genuino a su pueblo"
+        "Que Mormón actuó movido principalmente por el deber militar, no por amor genuino a su pueblo",
+        "Que siguió amando y sirviendo hasta el final"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 7,

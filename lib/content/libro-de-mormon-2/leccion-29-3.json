@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Después de la victoria contra los ladrones de Gadiantón, el pueblo nefita vive un tiempo de paz y prosperidad como pocas veces antes. Y ahí, exactamente en el momento en que todo parecía ir bien, empieza el problema: el orgullo. El texto es directo sobre cómo empezó: 'algunos se ensalzaron hasta el orgullo y la jactancia, por razón de sus sumamente grandes riquezas.' El pueblo se empieza a dividir en clases sociales según el dinero y las oportunidades de instruirse que cada uno tenía. Algunos se volvían sumamente humildes, mientras otros se ensalzaban en su orgullo. Incluso dentro de la iglesia, algunos miembros se enorgullecen de sus riquezas y empiezan a perseguir a los que no tienen tanto. La situación se deteriora tan rápido que, para el año siguiente, jueces y abogados corruptos se combinan en secreto, asesinan al juez superior, y destruyen por completo el gobierno. El pueblo, sin autoridad central, se fragmenta en tribus separadas, cada una según su propia familia. Una sociedad entera, que había estado unida para vencer una amenaza externa, se destruyó a sí misma desde adentro apenas dejó de tener un enemigo común. El orgullo no necesita una crisis externa para hacer daño: le alcanza con la prosperidad."
+      "contenido": "Después de la victoria contra los ladrones de Gadiantón, el pueblo nefita vive un tiempo de paz y prosperidad como pocas veces antes. Y ahí, exactamente en el momento en que todo parecía ir bien, empieza el problema: el orgullo. El texto es directo sobre cómo empezó: 'algunos se ensalzaron hasta el orgullo y la jactancia, por razón de sus sumamente grandes riquezas.' El pueblo se empieza a dividir en clases sociales según el dinero y las oportunidades de instruirse que cada uno tenía. Incluso dentro de la iglesia, algunos miembros se enorgullecen de sus riquezas y empiezan a perseguir a los que no tienen tanto. La situación se deteriora tan rápido que, para el año siguiente, jueces y abogados corruptos se combinan en secreto, asesinan al juez superior y destruyen por completo el gobierno. El pueblo, sin autoridad central, se fragmenta en tribus. Una sociedad entera que había estado unida para vencer una amenaza externa se destruyó a sí misma desde adentro apenas dejó de tener un enemigo común. Pero el relato no termina ahí, y esa es la parte que el manual del maestro no deja pasar. En medio de la fragmentación hubo gente que hizo caso a las palabras de Nefi y siguió al Salvador: se convirtieron al Señor y fueron bautizados. Son exactamente los mismos que unos capítulos después van a estar en el templo de Abundancia cuando Jesucristo descienda. El orgullo dividió al pueblo en tribus; Su evangelio volvió a juntar a los que quisieron. Ahí está la salida real: vencer el orgullo no es apretar los dientes para no compararse, es Su poder, que es lo único que cambia lo que uno quiere ser."
     },
     {
       "tipo": "escrituras",
@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Lo más llamativo de esta historia no es que el pueblo nefita haya fallado ante un enemigo poderoso: es que se destruyó a sí mismo apenas ese enemigo dejó de existir. La prosperidad, no la crisis, fue lo que hizo aparecer el orgullo. El presidente Ezra Taft Benson enseñó que 'la característica principal del orgullo es la enemistad: enemistad hacia Dios y enemistad hacia nuestros semejantes.' Ese es exactamente el patrón de 3 Nefi 6-7: primero aparecen las clases sociales, después la persecución entre hermanos, y al final ni siquiera queda gobierno en pie. El orgullo no siempre se ve como algo dramático; a veces empieza con algo tan simple como sentirte mejor que otra persona por lo que tenés. Esta semana, identificá un momento en el que sentiste esa tentación —compararte, sentirte superior— y elegí una acción concreta de humildad en su lugar."
+      "contenido": "Lo más llamativo de esta historia no es que el pueblo nefita haya fallado ante un enemigo poderoso: es que se destruyó a sí mismo apenas ese enemigo dejó de existir. La prosperidad, no la crisis, hizo aparecer el orgullo. El presidente Ezra Taft Benson enseñó que la característica principal del orgullo es la enemistad: hacia Dios y hacia nuestros semejantes. Y si el orgullo es enemistad, la cura no puede ser esforzarse más: es Jesucristo, cuyo poder cambia lo que uno quiere ser. Esta semana, identificá un momento en el que sentiste esa tentación de compararte o sentirte superior, y elegí una acción concreta de humildad en su lugar."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te sorprendió más de esta historia: que el problema haya empezado justo después de un tiempo de éxito, o la rapidez con la que todo se derrumbó?",
         "Si tuvieras que resumir en una palabra la causa principal de la destrucción del gobierno nefita, ¿cuál sería: orgullo, riqueza, o división?",
-        "¿Notaste alguna vez que te resultaba más fácil sentirte orgulloso o superior justo cuando las cosas te estaban yendo bien?",
+        "Volvé a leer 3 Nefi 6:14–15. Fijate quiénes son exactamente los que se envanecen en esos versículos: ¿te esperabas que fueran ellos?",
         "¿Qué te parece la enseñanza del presidente Benson de que el orgullo es, en el fondo, 'enemistad hacia Dios y hacia nuestros semejantes'?",
         "¿Hay alguna situación reciente donde te comparaste con otra persona y te sentiste superior o inferior por eso?",
-        "¿Qué acción concreta de humildad podés elegir esta semana en lugar de compararte con los demás?"
+        "Elegí a alguien con quien te comparás seguido y orá esta semana por esa persona, por su nombre. Anotá si cambia algo en lo que sentís cuando la ves."
       ]
     }
   ],
@@ -53,30 +53,30 @@
       "id": 1,
       "question": "Según 3 Nefi 6:10, ¿qué provocó que algunos del pueblo 'se ensalzaran hasta el orgullo y la jactancia'?",
       "options": [
-        "La derrota militar reciente frente a los ladrones de Gadiantón",
-        "Sus sumamente grandes riquezas, adquiridas durante el tiempo de paz y prosperidad",
         "Una nueva ley impuesta por el gobierno",
-        "La llegada de nuevos inmigrantes a la tierra"
+        "La llegada de nuevos inmigrantes a la tierra",
+        "La derrota militar reciente frente a los ladrones de Gadiantón",
+        "Sus grandes riquezas, ganadas en el tiempo de paz"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Qué le sucedió al gobierno nefita como consecuencia final de las divisiones y el orgullo descritos en estos capítulos?",
       "options": [
-        "Se fortaleció gracias a nuevas leyes más estrictas",
         "Fue completamente destruido, y el pueblo se dividió en tribus separadas",
         "Pasó a manos de los lamanitas de forma pacífica",
-        "No sufrió ningún cambio significativo"
+        "No sufrió ningún cambio significativo",
+        "Se fortaleció gracias a nuevas leyes más estrictas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "El texto señala que incluso 'algunos de los de la iglesia se envanecieron con motivo de sus inmensas riquezas' (3 Nefi 6:14). ¿Qué advertencia importante ilustra que el orgullo haya afectado también a miembros de la iglesia, y no solo a quienes estaban fuera de ella?",
       "options": [
         "Que pertenecer a la iglesia elimina automáticamente cualquier riesgo de caer en el orgullo",
-        "Que el orgullo puede afectar a cualquier persona, incluso a quienes tienen fe y participan activamente de la iglesia, si no se cuidan de él",
+        "Que el orgullo alcanza también a quienes van a la iglesia",
         "Que el orgullo solo es un problema real fuera del contexto religioso",
         "Que el texto no hace ninguna distinción entre miembros y no miembros de la iglesia"
       ],
@@ -86,45 +86,45 @@
       "id": 4,
       "question": "¿Por qué es significativo que la destrucción del gobierno nefita haya ocurrido justo después de un tiempo de paz y prosperidad, y no durante una crisis externa?",
       "options": [
-        "Porque muestra que el peligro espiritual del orgullo puede surgir precisamente cuando las cosas van bien, no solo en tiempos difíciles",
-        "Porque indica que la prosperidad siempre termina en destrucción de forma inevitable",
         "Porque prueba que la paz y la prosperidad no tienen ningún valor real",
-        "Porque no existe ninguna relación entre la prosperidad y las decisiones morales de un pueblo"
+        "Porque no existe ninguna relación entre la prosperidad y las decisiones morales de un pueblo",
+        "Porque el orgullo aparece justo cuando las cosas van bien",
+        "Porque indica que la prosperidad siempre termina en destrucción de forma inevitable"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Benjamín empezó a sacar mejores notas que sus compañeros y notó que comenzó a mirarlos 'de arriba hacia abajo' sin darse cuenta. Según el patrón de 3 Nefi 6 y la enseñanza del presidente Benson sobre el orgullo como enemistad, ¿qué le ayudaría a reconocer en su propia actitud?",
       "options": [
-        "Que tener éxito automáticamente lo vuelve mejor persona que sus compañeros",
-        "Que el orgullo puede aparecer justo en los momentos de éxito, y que compararse para sentirse superior es una forma de la misma enemistad que describe el presidente Benson",
         "Que no hay ninguna relación entre el rendimiento académico y el orgullo espiritual",
-        "Que debería ocultar sus logros para evitar cualquier posibilidad de orgullo"
+        "Que debería ocultar sus logros para evitar cualquier posibilidad de orgullo",
+        "Que tener éxito automáticamente lo vuelve mejor persona que sus compañeros",
+        "Que el orgullo aparece en el éxito, y compararse es enemistad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Camila ve que un grupo de compañeras empezó a excluir a otras chicas del curso porque 'no tienen la misma marca de ropa'. Según el patrón de división por clases que describe 3 Nefi 6:12, ¿qué le podría compartir?",
       "options": [
-        "Que ese tipo de división es solo un problema social moderno, sin relación con la época de los nefitas",
-        "Que dividir a las personas según lo que tienen, como hicieron los nefitas por sus riquezas, es exactamente el patrón que llevó a la destrucción de toda una sociedad",
+        "Que dividir a la gente por lo que tiene es el patrón nefita",
         "Que ese comportamiento es aceptable siempre que no se diga en voz alta",
-        "Que solo las divisiones económicas graves cuentan como orgullo real"
+        "Que solo las divisiones económicas graves cuentan como orgullo real",
+        "Que ese tipo de división es solo un problema social moderno, sin relación con la época de los nefitas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Tanto la división en clases sociales de 3 Nefi 6 como la fragmentación final del gobierno en tribus de 3 Nefi 7 comparten una misma raíz señalada por el presidente Benson. ¿Cuál es?",
       "options": [
+        "Que la riqueza en sí misma, sin relación con el orgullo, fue la causa directa de la destrucción",
         "Que ambos problemas nacieron de la enemistad que produce el orgullo, primero hacia los propios hermanos y después hacia el orden establecido por Dios",
         "Que la división en clases fue la única causa, sin relación con la fragmentación posterior del gobierno",
-        "Que la única causa real fue la falta de un ejército suficientemente fuerte",
-        "Que la riqueza en sí misma, sin relación con el orgullo, fue la causa directa de la destrucción"
+        "Que la única causa real fue la falta de un ejército suficientemente fuerte"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

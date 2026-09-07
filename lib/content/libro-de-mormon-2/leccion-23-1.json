@@ -10,13 +10,18 @@
       "citas": [
         {
           "referencia": "Alma 40:11–12",
-          "texto": "Ahora bien, respecto al estado del alma entre la muerte y la resurrección, he aquí, un ángel me ha hecho saber que los espíritus de todos los hombres, en cuanto se separan de este cuerpo mortal, sí, los espíritus de todos los hombres, sean buenos o malos, son llevados de regreso a ese Dios que les dio la vida. Y sucederá que los espíritus de los que son justos serán recibidos en un estado de felicidad que se llama paraíso : un estado de descanso , un estado de paz , donde descansarán de todas sus aflicciones, y de todo cuidado y pena.",
+          "texto": "Ahora bien, respecto al estado del alma entre la muerte y la resurrección, he aquí, un ángel me ha hecho saber que los espíritus de todos los hombres, en cuanto se separan de este cuerpo mortal, sí, los espíritus de todos los hombres, sean buenos o malos, son llevados de regreso a ese Dios que les dio la vida. Y sucederá que los espíritus de los que son justos serán recibidos en un estado de felicidad que se llama paraíso: un estado de descanso, un estado de paz, donde descansarán de todas sus aflicciones, y de todo cuidado y pena.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=spa&id=p11-p12#p11"
         },
         {
           "referencia": "Alma 40:23",
           "texto": "El alma será restaurada al cuerpo, y el cuerpo al alma; todo miembro y coyuntura serán restablecidos a su propio cuerpo.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=spa&id=p23#p23"
+        },
+        {
+          "referencia": "Alma 11:42–43",
+          "texto": "Ahora bien, hay una muerte que se llama la muerte temporal; y la muerte de Cristo desatará las ligaduras de esta muerte temporal, de modo que todos se levantarán de esta muerte. El espíritu y el cuerpo serán reunidos otra vez en su perfecta forma; los miembros así como las coyunturas serán restaurados a su propia forma.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=spa&id=p42-p43#p42"
         }
       ]
     },
@@ -36,7 +41,7 @@
       "preguntas": [
         "¿Qué preguntas te genera pensar en lo que pasa después de la muerte?",
         "¿Qué fue lo que más te sorprendió de la explicación de Alma sobre el paraíso y la prisión espiritual?",
-        "¿Cómo afecta esta enseñanza tu manera de ver la muerte de alguien cercano?",
+        "Volvé a leer Alma 40:11–12. Alma describe el paraíso diciendo sobre todo qué cosas NO hay ahí: fijate cuáles nombra y cuál de esas te haría más falta hoy.",
         "¿Qué podrías hacer en esta vida para prepararte mejor para el mundo de los espíritus?",
         "¿A quién que ya no está podrías dedicarle esta semana un pensamiento o una oración de gratitud?",
         "¿Qué decisión concreta tomarías esta semana pensando en la reunión futura con tus seres queridos?"
@@ -48,12 +53,12 @@
       "id": 1,
       "question": "¿Sobre qué tema enseña Alma a Coriantón en este capítulo?",
       "options": [
+        "La Segunda Venida de Cristo",
         "El significado del bautismo",
         "La creación del mundo",
-        "El estado del alma entre la muerte y la resurrección",
-        "La Segunda Venida de Cristo"
+        "El estado del alma entre la muerte y la resurrección"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 2,
@@ -70,56 +75,56 @@
       "id": 3,
       "question": "Alma describe tanto el paraíso como la prisión espiritual como estados del alma, no simplemente lugares físicos al azar. ¿Qué principio enseña esta distinción?",
       "options": [
-        "Que todos van al mismo lugar sin importar cómo hayan vivido",
-        "Que solo los profetas pueden saber qué les espera después de morir",
         "Que el destino de cada persona después de la muerte es aleatorio",
-        "Que el estado del alma tras la muerte refleja directamente cómo vivió esa persona y las obras que hizo en la mortalidad"
+        "Que el estado del alma refleja cómo vivió esa persona",
+        "Que todos van al mismo lugar sin importar cómo hayan vivido",
+        "Que solo los profetas pueden saber qué les espera después de morir"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "Alma enseña que todos, justos e inicuos, serán resucitados (Alma 40:16–21). ¿Qué nos dice esto sobre la resurrección en comparación con el estado del alma inmediatamente después de la muerte?",
       "options": [
-        "Que la resurrección es un don universal que alcanza a todos por igual, mientras que el estado del alma antes de ella sí depende de las obras de cada persona",
-        "Que solo los justos serán resucitados",
         "Que la resurrección depende completamente del arrepentimiento de cada persona",
-        "Que la resurrección y el juicio ocurren exactamente en el mismo instante que la muerte"
+        "Que la resurrección y el juicio ocurren exactamente en el mismo instante que la muerte",
+        "Que la resurrección es universal, pero el estado previo no",
+        "Que solo los justos serán resucitados"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "A Agustina le preocupa mucho pensar en qué sucede después de la muerte y no sabe bien qué creer. Según Alma 40, ¿qué le podrías compartir?",
       "options": [
-        "Que nadie puede saber nada acerca de lo que sucede después de morir",
-        "Que el espíritu regresa a Dios y entra en un estado de descanso si vivió con fe, y que finalmente cuerpo y espíritu se reunirán en la resurrección",
         "Que la muerte significa el fin completo de la existencia de la persona",
-        "Que solo los líderes de la Iglesia tienen derecho a un estado de descanso"
+        "Que solo los líderes de la Iglesia tienen derecho a un estado de descanso",
+        "Que nadie puede saber nada acerca de lo que sucede después de morir",
+        "Que el espíritu regresa a Dios y entra en un estado de descanso si vivió con fe, y que finalmente cuerpo y espíritu se reunirán en la resurrección"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Tomás piensa que como todos van a resucitar de todas formas, 'da lo mismo' cómo se viva ahora. Según Alma 40, ¿qué matiz le agregarías?",
       "options": [
-        "Que tiene razón: la forma de vivir no cambia nada del resultado final",
-        "Que aunque la resurrección alcanza a todos, el estado del alma tras la muerte —paraíso o prisión espiritual— sí depende de las obras y el arrepentimiento durante esta vida",
+        "Que la resurrección alcanza a todos, pero el estado previo depende de las obras",
         "Que solo la resurrección importa, y el estado intermedio del alma no tiene ninguna relevancia",
-        "Que Alma nunca habló sobre las consecuencias de las decisiones personales"
+        "Que Alma nunca habló sobre las consecuencias de las decisiones personales",
+        "Que tiene razón: la forma de vivir no cambia nada del resultado final"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Tanto el estado de paraíso como el de prisión espiritual muestran algo en común sobre el plan de Dios después de la muerte. ¿Cuál es?",
       "options": [
-        "Que la vida después de la muerte no es un estado indiferenciado; refleja de manera directa la relación que cada persona tuvo con la rectitud durante su vida mortal",
+        "Que solo existe un estado posible después de la muerte, sin distinción alguna",
+        "Que el estado después de la muerte refleja cómo se vivió",
         "Que ambos estados son idénticos y solo cambian de nombre",
-        "Que ninguno de los dos estados tiene relación con las decisiones tomadas en esta vida",
-        "Que solo existe un estado posible después de la muerte, sin distinción alguna"
+        "Que ninguno de los dos estados tiene relación con las decisiones tomadas en esta vida"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

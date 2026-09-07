@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Ya conocías la diferencia entre la ley de Moisés y la 'ley superior' que enseña Cristo en este capítulo?",
         "¿Qué diferencia notás entre enfocarse solo en las acciones externas y trabajar en las intenciones del corazón?",
-        "¿Cómo interpretás el mandamiento de ser 'perfecto' en el contexto de este capítulo?",
+        "Volvé a leer 3 Nefi 12:48. Fijate a quiénes nombra Cristo como modelo de perfección: son dos, no uno. ¿Por qué te parece que acá se incluye a Sí mismo?",
         "¿Te costó alguna vez más controlar un pensamiento o una actitud que una acción concreta?",
         "¿En qué área específica de tu vida sentís que la 'ley superior' podría aplicarse esta semana?",
-        "Pensando en un mandamiento que ya cumplís 'por fuera', ¿qué podrías trabajar esta semana en el 'por dentro'?"
+        "Elegí ese mandamiento y meditá dos minutos por día, esta semana, en qué siente tu corazón respecto a él. Anotá si la respuesta cambia del lunes al domingo."
       ]
     }
   ],
@@ -53,7 +53,7 @@
       "id": 1,
       "question": "Según 3 Nefi 12:48, ¿a qué invita Cristo a Sus seguidores respecto al Padre Celestial?",
       "options": [
-        "A ser perfectos así como Él y el Padre son perfectos",
+        "A ser perfectos como Él y el Padre",
         "A cumplir únicamente la ley de Moisés sin cambios",
         "A evitar cualquier tipo de crecimiento espiritual",
         "A juzgar con severidad a quienes cometen errores"
@@ -65,7 +65,7 @@
       "question": "Según el contexto de este capítulo, ¿qué relación tiene Cristo con la ley de Moisés?",
       "options": [
         "Vino a destruirla por completo, sin dejar ningún principio vigente",
-        "Vino a cumplirla, y a partir de ella enseña una ley superior centrada en el corazón",
+        "Vino a cumplirla y enseña una ley superior",
         "Nunca hizo mención alguna a la ley de Moisés",
         "Enseñó que la ley de Moisés ya no tenía ningún valor histórico"
       ],
@@ -75,41 +75,41 @@
       "id": 3,
       "question": "Cristo enseña que no basta con no matar, sino que también hay que controlar el enojo; no basta con no cometer adulterio, sino evitar los pensamientos lujuriosos. ¿Qué principio general revela ese patrón?",
       "options": [
+        "Que Cristo elimina cualquier estándar de conducta previo",
         "Que las leyes antiguas ya no tienen ninguna importancia",
         "Que la ley superior de Cristo examina las intenciones del corazón, no solo el comportamiento externo",
-        "Que solo importan las acciones visibles, nunca los pensamientos",
-        "Que Cristo elimina cualquier estándar de conducta previo"
+        "Que solo importan las acciones visibles, nunca los pensamientos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "El versículo 48 concluye la 'ley superior' con la invitación a ser perfectos 'así como' el Padre. ¿Por qué Cristo elige ese punto exacto para hacer esa invitación, después de hablar del corazón y no solo de las acciones?",
       "options": [
-        "Porque la perfección de la que habla Cristo nace primero de un cambio interior sincero, no solo de cumplir reglas externas",
         "Porque quería cerrar el sermón con una frase impactante sin relación con lo anterior",
         "Porque la perfección solo depende de cuántos mandamientos externos se cumplen",
-        "Porque ese versículo no tiene ninguna conexión con el resto del capítulo"
+        "Porque ese versículo no tiene ninguna conexión con el resto del capítulo",
+        "Porque la perfección nace de un cambio interior"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Bruno nunca le pegaría a nadie, pero guarda mucho resentimiento hacia un compañero y no hace nada por soltarlo. Según la ley superior de 3 Nefi 12, ¿qué le ayudaría a entender?",
       "options": [
-        "Que como nunca actuó con violencia física, no tiene nada que trabajar en ese tema",
-        "Que Cristo enseña que el enojo guardado en el corazón también necesita atención, no solo evitar la violencia física",
+        "Que el enojo guardado también necesita atención",
         "Que el resentimiento solo es un problema si finalmente termina en un acto de violencia",
-        "Que sentir resentimiento es igual de grave que cometer un delito"
+        "Que sentir resentimiento es igual de grave que cometer un delito",
+        "Que como nunca actuó con violencia física, no tiene nada que trabajar en ese tema"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Ana piensa que 'ser perfecta' significa no volver a equivocarse nunca a partir de hoy, y eso la desanima porque le parece imposible. Según la cita del élder Holland sobre 'un refinamiento que se completará' y el contexto de 3 Nefi 12:48, ¿qué le ayudaría?",
       "options": [
         "Que tiene razón en desanimarse, porque la perfección se exige de forma inmediata",
-        "Que la perfección que enseña Cristo es un proceso de refinamiento continuo, que se completará plenamente solo a través de Él, y no una exigencia de no fallar nunca desde ya",
+        "Que es un proceso continuo que se completa por medio de Él",
         "Que mejor abandone el esfuerzo, ya que de todos modos es imposible",
         "Que alcanzar la perfección depende únicamente de cuánto tiempo lleve una persona siendo miembro de la Iglesia"
       ],
@@ -119,12 +119,12 @@
       "id": 7,
       "question": "Tanto el mandamiento de controlar el enojo en lugar de solo evitar matar, como la invitación final a ser 'perfectos así como el Padre', comparten un mismo principio central de este capítulo. ¿Cuál es?",
       "options": [
+        "Que controlar el enojo es un mandamiento aparte, sin conexión con el llamado a ser perfectos",
         "Que las acciones externas son lo único que Dios evalúa realmente",
         "Que la verdadera obediencia nace de transformar el corazón, y ese proceso de transformación apunta hacia llegar a ser como el Padre",
-        "Que la ley de Moisés y la ley superior de Cristo son exactamente lo mismo",
-        "Que controlar el enojo es un mandamiento aparte, sin conexión con el llamado a ser perfectos"
+        "Que la ley de Moisés y la ley superior de Cristo son exactamente lo mismo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

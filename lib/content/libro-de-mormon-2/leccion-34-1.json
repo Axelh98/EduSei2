@@ -17,6 +17,11 @@
           "referencia": "3 Nefi 27:13",
           "texto": "He aquí, os he dado mi evangelio, y este es el evangelio que os he dado: que vine al mundo a cumplir la voluntad de mi Padre...",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p13#p13"
+        },
+        {
+          "referencia": "3 Nefi 27:14",
+          "texto": "Y mi Padre me envió para que fuese levantado sobre la cruz; y que después de ser levantado sobre la cruz, pudiese atraer a mí mismo a todos los hombres, para que así como he sido levantado por los hombres, así también los hombres sean levantados por el Padre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p14#p14"
         }
       ]
     },
@@ -36,10 +41,10 @@
       "preguntas": [
         "¿Sabías, antes de esta lección, por qué la Iglesia insiste tanto en usar su nombre completo?",
         "Si tuvieras que explicarle a alguien en una frase por qué la Iglesia lleva el nombre de Cristo, ¿qué dirías?",
-        "¿Alguna vez usaste un apodo para referirte a la Iglesia sin pensar en lo que eso implicaba?",
+        "Volvé a leer 3 Nefi 27:8. Cristo pone dos condiciones, no una, para que una iglesia sea Suya: fijate cuáles son y cuál de las dos es más fácil de cumplir solo en apariencia.",
         "¿Qué te parece la enseñanza del presidente Nelson de que quitar el nombre del Señor es 'una gran victoria de Satanás'?",
         "¿Qué podés hacer esta semana para usar con más intención el nombre completo de la Iglesia?",
-        "Pensando en que el evangelio de Cristo es 'hacer la voluntad del Padre', ¿qué decisión concreta esta semana refleja esa misma disposición en vos?"
+        "Escribí una decisión de esta semana donde tu voluntad y la del Padre podrían no coincidir. Meditá dos minutos en eso antes de decidir nada."
       ]
     }
   ],
@@ -48,23 +53,23 @@
       "id": 1,
       "question": "¿Qué preguntaron los discípulos sobre la iglesia?",
       "options": [
-        "Cómo organizarla",
-        "Qué nombre debería llevar",
         "Dónde construir",
-        "Cuándo reunirse"
+        "Cuándo reunirse",
+        "Cómo organizarla",
+        "Qué nombre debería llevar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Qué nombre dijo Cristo que debía llevar Su iglesia?",
       "options": [
-        "Cualquier nombre",
         "El nombre de Cristo",
         "El nombre de Moisés",
-        "El nombre de los apóstoles"
+        "El nombre de los apóstoles",
+        "Cualquier nombre"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -81,45 +86,45 @@
       "id": 4,
       "question": "Cristo explica que si Su Iglesia llevara el nombre de otra persona, sería la iglesia de esa persona y no la Suya (3 Nefi 27:8). ¿Qué principio doctrinal ilustra esa comparación?",
       "options": [
-        "Que el nombre de una iglesia identifica a quién pertenece realmente esa obra y a quién debe honrar",
-        "Que el nombre de una iglesia es un detalle sin ninguna importancia doctrinal",
         "Que cualquier nombre es igual de válido mientras la gente sea buena",
-        "Que solo importa el nombre en la época de Cristo, no en la actualidad"
+        "Que solo importa el nombre en la época de Cristo, no en la actualidad",
+        "Que el nombre dice a quién pertenece esa obra",
+        "Que el nombre de una iglesia es un detalle sin ninguna importancia doctrinal"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Sofía tiene un amigo que se refiere a la Iglesia siempre con un apodo informal, sin pensarlo dos veces. Según la enseñanza de Cristo en 3 Nefi 27 y la del presidente Nelson, ¿qué le podría compartir con respeto?",
       "options": [
-        "Que el nombre no tiene ninguna importancia real",
-        "Que usar el nombre completo es una forma concreta de honrar a quién pertenece realmente la Iglesia, tal como Cristo mismo lo explicó",
         "Que debería enojarse cada vez que alguien use un apodo",
-        "Que ese tema es solo una preferencia de estilo, sin relación con cómo Cristo definió a Su Iglesia"
+        "Que ese tema es solo una preferencia de estilo, sin relación con cómo Cristo definió a Su Iglesia",
+        "Que el nombre no tiene ninguna importancia real",
+        "Que usar el nombre completo honra a quién pertenece la Iglesia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Franco se pregunta si usar el nombre completo de la Iglesia realmente cambia algo en la práctica. Según la enseñanza del presidente Nelson de que omitirlo es 'una gran victoria de Satanás', ¿qué le ayudaría a entender la importancia del asunto?",
       "options": [
-        "Que es solo una preferencia estilística sin ningún peso espiritual",
-        "Que el nombre de la Iglesia comunica activamente a quién pertenece la obra, y quitarlo tiene consecuencias reales en cómo el mundo entiende esa relación con Cristo",
+        "Que el nombre comunica a quién pertenece la obra",
         "Que el nombre solo importa en documentos oficiales, no en el habla cotidiana",
-        "Que esto solo le interesa a los líderes de la Iglesia, no a los miembros comunes"
+        "Que esto solo le interesa a los líderes de la Iglesia, no a los miembros comunes",
+        "Que es solo una preferencia estilística sin ningún peso espiritual"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Tanto la explicación de Cristo sobre por qué Su Iglesia lleva Su nombre como la enseñanza del presidente Nelson comparten un mismo principio central. ¿Cuál es?",
       "options": [
-        "Que el nombre de la Iglesia no es un detalle administrativo, sino una declaración pública de a quién pertenece la obra y el evangelio que enseña",
+        "Que el nombre completo solo es necesario en contextos formales",
+        "Que el nombre es una declaración de a quién pertenece la obra",
         "Que el nombre de una iglesia nunca tiene relación con su doctrina",
-        "Que Satanás no tiene ningún interés real en cómo se llama la Iglesia",
-        "Que el nombre completo solo es necesario en contextos formales"
+        "Que Satanás no tiene ningún interés real en cómo se llama la Iglesia"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

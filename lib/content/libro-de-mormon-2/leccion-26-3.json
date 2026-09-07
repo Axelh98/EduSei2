@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Nefi, cansado de la corrupción del sistema judicial nefita y de un pueblo que había 'madurado para la destrucción' por elegir constantemente lo malo, renuncia al asiento judicial. Junto a su hermano Lehi, decide dedicar el resto de su vida a predicar, siguiendo el ejemplo de sus antepasados cuyos nombres llevan. Antes de que se separen para predicar, su padre Helamán les había dejado una instrucción que ellos llevan grabada: recordar lo que el Señor hizo por Nefi y Lehi —los primeros de ese nombre— y, sobre todo, edificar el fundamento de su vida sobre la roca de Cristo. Este capítulo es el puente entre la decisión de dejarlo todo por predicar y el gran milagro que va a ocurrir unos versículos después: antes de ver el poder de Dios actuar de manera espectacular, primero hace falta un fundamento ya construido de antemano."
+      "contenido": "Nefi, cansado de la corrupción del sistema judicial nefita y de un pueblo que había 'madurado para la destrucción' por elegir constantemente lo malo, renuncia al asiento judicial. Junto a su hermano Lehi, decide dedicar el resto de su vida a predicar, siguiendo el ejemplo de sus antepasados cuyos nombres llevan. Antes de que se separen para predicar, su padre Helamán les había dejado una instrucción que ellos llevan grabada: recordar lo que el Señor hizo por Nefi y Lehi —los primeros de ese nombre— y, sobre todo, edificar el fundamento de su vida sobre la roca de Cristo. Y Helamán es explícito sobre por qué esa roca y no otra: les dice que recuerden que no hay otra manera ni medio por los cuales el hombre pueda ser salvo, sino por la sangre expiatoria de Jesucristo, que viene a redimir al mundo (Helamán 5:9). No es una metáfora de arquitectura: es el nombre de una persona. Este capítulo es el puente entre la decisión de dejarlo todo por predicar y el gran milagro que va a ocurrir unos versículos después: antes de ver el poder de Dios actuar de manera espectacular, primero hace falta un fundamento ya construido de antemano, y hecho del material correcto."
     },
     {
       "tipo": "escrituras",
@@ -17,6 +17,11 @@
           "referencia": "Helamán 5:12",
           "texto": "Es sobre la roca de nuestro Redentor, el cual es Cristo, que debéis establecer vuestro fundamento.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        },
+        {
+          "referencia": "Helamán 5:9",
+          "texto": "¡Oh recordad, recordad, hijos míos, las palabras que el rey Benjamín habló a su pueblo! Sí, recordad que no hay otra manera ni medio por los cuales el hombre pueda ser salvo, sino por la sangre expiatoria de Jesucristo, que ha de venir; sí, recordad que él viene para redimir al mundo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p9#p9"
         }
       ]
     },
@@ -36,10 +41,10 @@
       "preguntas": [
         "¿Qué te parece la decisión de Nefi de renunciar a su cargo de juez, un puesto de poder, para dedicarse a predicar?",
         "El texto dice que el pueblo se había corrompido tanto que 'no podían ser gobernados por la ley ni por la justicia' (Helamán 5:2–3). ¿Viste alguna vez una situación donde las reglas ya no alcanzaban para arreglar algo?",
-        "¿Qué significa para vos 'edificar tu fundamento sobre la roca de Cristo' en tu vida diaria, concretamente?",
+        "Volvé a leer Helamán 5:12. Fijate qué promete el versículo en la parte que viene después del 'cuando': ¿qué dice exactamente que no puede pasar, y qué no promete?",
         "El presidente Nelson dice que un cimiento firme en Cristo elimina el temor. ¿Hay algo que temés ahora mismo donde ese principio podría ayudarte?",
         "¿Qué decisión —grande o chica— estás posponiendo por comodidad, como podría haber hecho Nefi si se hubiera quedado en su cargo?",
-        "¿Qué acción concreta podés tomar esta semana para fortalecer tu propio fundamento antes de que llegue una tormenta?"
+        "Escribí esa decisión que venís posponiendo en una nota del celular y orá por ella tres días seguidos. Al cuarto día, fijate si la seguís viendo igual."
       ]
     }
   ],
@@ -48,34 +53,34 @@
       "id": 1,
       "question": "¿Por qué Nefi decidió renunciar al asiento judicial que ocupaba?",
       "options": [
+        "Porque prefería dedicarse al comercio con los pueblos del norte",
         "Porque quería más poder político",
-        "Porque estaba fastidiado por la iniquidad del pueblo y quiso dedicarse por completo a predicar",
-        "Porque fue destituido por el pueblo",
-        "Porque prefería dedicarse al comercio"
+        "Porque estaba cansado de la iniquidad y quiso predicar",
+        "Porque fue destituido por el pueblo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Según Helamán 5:2–3, ¿por qué el pueblo nefita 'no podía ser gobernado por la ley ni por la justicia'?",
       "options": [
-        "Porque no existían suficientes jueces",
-        "Porque la mayoría elegía constantemente lo malo, y las leyes mismas se habían corrompido",
         "Porque los lamanitas controlaban el gobierno",
-        "Porque no había suficientes soldados para hacer cumplir la ley"
+        "Porque no había suficientes soldados para hacer cumplir la ley",
+        "Porque no existían suficientes jueces",
+        "Porque la mayoría elegía lo malo y las leyes se corrompieron"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "¿Qué decidieron hacer Nefi y Lehi con el resto de sus vidas después de dejar el asiento judicial?",
       "options": [
-        "Retirarse de la vida pública por completo",
         "Dedicarse a predicar la palabra de Dios todo el resto de sus días",
         "Unirse al ejército nefita",
-        "Buscar refugio entre los lamanitas"
+        "Buscar refugio entre los lamanitas",
+        "Retirarse de la vida pública por completo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -92,29 +97,29 @@
       "id": 5,
       "question": "Franco tiene la oportunidad de conseguir más popularidad si deja de lado algunos de sus estándares, y no sabe si vale la pena renunciar a esa comodidad. Según el ejemplo de Nefi, que renunció a un cargo de poder por sus convicciones, ¿qué le podrías compartir?",
       "options": [
+        "Que este relato no tiene ninguna aplicación a decisiones cotidianas",
         "Que la popularidad siempre debe priorizarse sobre las convicciones personales",
-        "Que, como Nefi, a veces sostener las propias convicciones implica renunciar a algo cómodo o valioso, y que ese tipo de decisión tiene valor eterno",
-        "Que Nefi se equivocó al renunciar a su cargo",
-        "Que este relato no tiene ninguna aplicación a decisiones cotidianas"
+        "Que sostener las convicciones a veces cuesta algo valioso",
+        "Que Nefi se equivocó al renunciar a su cargo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Valentina siente que últimamente 'todo le sale mal' y no sabe si su fe realmente la va a sostener si le pasa algo más grave. Según la enseñanza de Helamán 5:12 sobre edificar sobre la roca de Cristo, ¿qué le convendría entender?",
       "options": [
-        "Que el fundamento en Cristo solo sirve una vez que ya pasó la dificultad",
-        "Que un fundamento firme en Cristo, construido de manera constante, es precisamente lo que sostiene a una persona cuando llegan las dificultades, no algo que se logra durante la crisis misma",
         "Que sentir que 'todo le sale mal' significa que su fundamento en Cristo nunca fue real",
-        "Que solo quienes nunca tienen problemas tienen un fundamento firme"
+        "Que solo quienes nunca tienen problemas tienen un fundamento firme",
+        "Que el fundamento en Cristo solo sirve una vez que ya pasó la dificultad",
+        "Que el fundamento se construye antes, no durante la crisis"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto la decisión de Nefi de renunciar a su cargo por predicar como la instrucción de Helamán de edificar sobre la roca de Cristo comparten un mismo principio de fondo. ¿Cuál es?",
       "options": [
-        "Que las decisiones espirituales importantes se toman de antemano, con convicción, antes de que llegue el momento de la prueba",
+        "Que las decisiones espirituales se toman antes de la prueba",
         "Que solo los líderes políticos pueden tomar decisiones espirituales relevantes",
         "Que renunciar a un cargo es siempre la única forma válida de mostrar fe",
         "Que el fundamento espiritual solo se construye durante una crisis, no en la vida diaria"

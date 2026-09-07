@@ -17,6 +17,11 @@
           "referencia": "Mormón 2:13",
           "texto": "Mas he aquí, este mi gozo fue vano, porque su aflicción no era para arrepentimiento, por motivo de la bondad de Dios; sino que era más bien el pesar de los condenados...",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=spa&id=p13#p13"
+        },
+        {
+          "referencia": "Mormón 2:19",
+          "texto": "Y, ¡ay de mí por causa de sus iniquidades; porque mi corazón se ha visto lleno de pesar por razón de sus maldades, todos mis días! No obstante, sé que yo seré enaltecido en el postrer día.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=spa&id=p19#p19"
         }
       ]
     },
@@ -29,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Mormón fue visitado por el Señor a los 15 años y, poco después, se convirtió en líder de un pueblo que rechazaba activamente a Cristo — no porque fuera fácil, sino porque era quien Dios necesitaba ahí. El presidente Russell M. Nelson enseñó que 'los discípulos verdaderos de Jesucristo están dispuestos a destacarse, defender sus principios y ser diferentes a la gente del mundo.' Mormón lloró por su pueblo, pero sus lágrimas no cambiaron su fidelidad: siguió siendo fiel aunque estuviera completamente rodeado de iniquidad. Esta semana, identificá una situación donde 'destacarte' por seguir a Cristo te resulta incómodo, y elegí hacerlo de todas formas."
+      "contenido": "Mormón fue visitado por el Señor a los quince años y, poco después, se convirtió en líder de un pueblo que rechazaba activamente a Cristo — no porque fuera fácil, sino porque era quien Dios necesitaba ahí. Lo que probó a esa edad no fue una idea: fue Su misericordia, y eso lo sostuvo cuarenta años entre gente que iba para el otro lado. El presidente Russell M. Nelson enseñó que 'los discípulos verdaderos de Jesucristo están dispuestos a destacarse, defender sus principios y ser diferentes a la gente del mundo'. Esta semana, identificá una situación donde destacarte por seguir a Cristo te resulta incómodo, y elegí hacerlo igual."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cómo pudo Mormón mantener su fe en medio de un pueblo tan inicuo?",
         "¿Cuál es la diferencia entre el arrepentimiento sincero y 'el pesar de los condenados'?",
-        "¿Qué nos enseña la juventud de Mormón acerca de que el Señor confía en los jóvenes?",
+        "Volvé a leer Mormón 2:13. Mormón nombra dos clases de dolor y explica por qué una no sirve: fijate cómo llama a cada una y qué le falta a la segunda.",
         "¿Qué te parece la enseñanza del presidente Nelson de que los discípulos verdaderos 'están dispuestos a destacarse... y ser diferentes a la gente del mundo'?",
         "¿Alguna vez te sentiste 'diferente' por seguir un principio del Evangelio en un ambiente donde nadie más lo hacía?",
-        "¿Qué situación concreta de esta semana te va a pedir 'destacarte' como discípulo, y qué vas a hacer al respecto?"
+        "Antes de esa situación, orá pidiendo el valor concreto que te va a hacer falta. Anotá después si el valor llegó de la forma que esperabas."
       ]
     }
   ],
@@ -48,67 +53,67 @@
       "id": 1,
       "question": "¿Quién es el autor principal del libro de Mormón?",
       "options": [
+        "Alma",
         "Nefi",
         "Mormón",
-        "Moroni",
-        "Alma"
+        "Moroni, el hijo de Mormón"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿A qué edad fue Mormón llamado a llevar los registros?",
       "options": [
+        "20 años, cuando ya era comandante",
+        "30 años",
         "5 años",
-        "10 años",
-        "20 años",
-        "30 años"
+        "10 años"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "¿Qué condición espiritual describe Mormón de su pueblo?",
       "options": [
-        "Muy fieles",
-        "Extremadamente inicuos y sin arrepentimiento",
+        "Inicuos y sin arrepentimiento",
         "Buenos",
-        "Mejorando"
+        "Mejorando poco a poco después de la guerra",
+        "Muy fieles"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "Mormón describe el 'gozo' de su pueblo por ser librados de sus enemigos como 'pesares de los condenados', no arrepentimiento real (Mormón 2:13). ¿Qué diferencia establece esa frase entre el remordimiento y el arrepentimiento genuino?",
       "options": [
-        "Que lamentar las consecuencias de un error no es lo mismo que un cambio de corazón sincero motivado por el amor a Dios",
+        "Que Mormón no hace ninguna distinción entre esos dos tipos de dolor",
+        "Que lamentar consecuencias no es cambiar el corazón",
         "Que ambos conceptos significan exactamente lo mismo en este contexto",
-        "Que el pueblo de Mormón sí se arrepintió genuinamente, según ese versículo",
-        "Que Mormón no hace ninguna distinción entre esos dos tipos de dolor"
+        "Que el pueblo de Mormón sí se arrepintió genuinamente, según ese versículo"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "Sofía siente que sería 'raro' ser la única de su grupo de amigas que decide no participar en algo que sabe que está mal. Según la enseñanza del presidente Nelson sobre estar 'dispuestos a destacarse... y ser diferentes', ¿qué principio le ayudaría?",
       "options": [
-        "Que ser diferente por seguir un principio correcto es parte de lo que significa ser un discípulo verdadero, tal como fue para Mormón en medio de un pueblo inicuo",
-        "Que debería seguir a sus amigas para no sentirse raro",
         "Que ese principio solo aplicaba a profetas, no a jóvenes comunes",
-        "Que destacarse nunca tiene ningún valor espiritual real"
+        "Que destacarse nunca tiene ningún valor espiritual real",
+        "Que ser diferente por seguir un principio correcto es parte de lo que significa ser un discípulo verdadero, tal como fue para Mormón en medio de un pueblo inicuo",
+        "Que debería seguir a sus amigas para no sentirse raro"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Mateo se pregunta cómo Mormón pudo seguir siendo fiel durante toda su vida, rodeado de un pueblo que rechazaba a Dios activamente. Según el ejemplo de Mormón, ¿qué principio le ayudaría a entenderlo?",
       "options": [
+        "Que Mormón terminó cediendo a la presión de su entorno, según el texto",
         "Que Mormón vivió en un ambiente fácil, sin ninguna presión real para abandonar su fe",
         "Que la fidelidad de Mormón dependía completamente de que su entorno también fuera fiel",
-        "Que es posible mantener la fidelidad personal incluso cuando el entorno entero se mueve en la dirección opuesta, como decidió hacerlo Mormón",
-        "Que Mormón terminó cediendo a la presión de su entorno, según el texto"
+        "Que se puede ser fiel aunque el entorno vaya al revés"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,

@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La frase para memorizar es corta y no admite negociación: 'no recibís ningún testimonio sino hasta después de la prueba de vuestra fe'. Es un pasaje de dominio de la doctrina, y también una de las cosas más contraintuitivas que enseña el Evangelio. Nosotros funcionamos al revés. Queremos ver el resultado antes de invertir, saber que sale bien antes de arriesgar. Moroni dice que en lo espiritual el orden es fijo: la prueba de la fe viene primero, y el testimonio después. Fijate en la palabra 'prueba'. No significa examen con nota. Significa el momento en que tu fe se pone a prueba de verdad: cuando orás y no pasa nada evidente, cuando cumplís y nadie lo nota, cuando seguís yendo sin sentir gran cosa. Eso no es la señal de que tu fe no funciona. Según Éter 12:6, eso es exactamente la parte que va antes. Cuando practiques explicar este versículo, cuidá de no convertirlo en una promesa con fecha. No dice cuándo llega el testimonio. Dice qué va primero."
+      "contenido": "La frase para memorizar es corta y no admite negociación: 'no recibís ningún testimonio sino hasta después de la prueba de vuestra fe'. Es un pasaje de dominio de la doctrina, y también una de las cosas más contraintuitivas que enseña el Evangelio. Nosotros funcionamos al revés. Queremos ver el resultado antes de invertir, saber que sale bien antes de arriesgar. Moroni dice que en lo espiritual el orden es fijo: la prueba de la fe viene primero, y el testimonio después. Fijate en la palabra 'prueba'. No significa examen con nota. Significa el momento en que tu fe se pone a prueba de verdad: cuando orás y no pasa nada evidente, cuando cumplís y nadie lo nota, cuando seguís yendo sin sentir gran cosa. Eso no es la señal de que tu fe no funciona; según Éter 12:6, es exactamente la parte que va antes. Y hay una precisión que el manual de esta lección hace y que cambia el sentido del versículo: no dice 'la prueba de tu fuerza de voluntad'. Dice la prueba de tu fe, y la fe de la que habla Moroni es fe en Jesucristo. Eso importa al explicarlo. Lo que se pone a prueba no es cuánto aguantás vos: es si confiás en Él lo suficiente como para moverte antes de ver. Por eso el testimonio que llega después no es un premio por resistencia; es Él confirmando, por Su gracia, que estabas apoyado en el lugar correcto. Cuando lo expliques, decí en Quién hay que tener fe, y no solo que hay que tenerla."
     },
     {
       "tipo": "enseñanza",
@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Ya conocías este versículo de dominio de la doctrina antes de esta lección?",
         "¿En qué áreas de tu vida estás esperando un testimonio completo antes de actuar?",
-        "¿En qué ocasiones recibiste una confirmación espiritual después de ejercer fe primero? ¿Qué aprendiste?",
+        "Volvé a leer Éter 12:6 palabra por palabra. Fijate qué es exactamente lo que se pone a prueba según el versículo: ¿tu esfuerzo, tu paciencia, o tu fe?",
         "¿Cómo podés desarrollar más paciencia con este proceso de obtener un testimonio?",
         "¿A quién le podrías explicar esta semana, con tus propias palabras, lo que enseña Éter 12:6?",
-        "Elegí memorizar Éter 12:6 esta semana. ¿Qué método vas a usar para lograrlo?"
+        "Memorizá Éter 12:6 esta semana y usalo: elegí algo que venís postergando por falta de certeza, orá antes de dar el paso y anotá qué pasó después."
       ]
     }
   ],
@@ -64,41 +64,41 @@
       "id": 2,
       "question": "Según Juan 7:17, citado como apoyo de este dominio de la doctrina, ¿cómo puede una persona saber si una doctrina proviene de Dios?",
       "options": [
+        "Preguntando exclusivamente a un líder religioso",
         "Leyendo únicamente comentarios académicos sobre el tema",
         "Haciendo la voluntad de Dios",
-        "Esperando una señal visible en el cielo",
-        "Preguntando exclusivamente a un líder religioso"
+        "Esperando una señal visible en el cielo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Éter 12:6 enseña que el testimonio llega 'después' de la prueba de la fe, no antes. ¿Qué desafío específico presenta ese orden para alguien que busca certeza espiritual?",
       "options": [
-        "Ningún desafío, porque la certeza siempre llega primero de forma automática",
-        "Requiere estar dispuesto a actuar y comprometerse antes de tener la seguridad completa que naturalmente se desearía tener primero",
         "Elimina por completo la necesidad de cualquier tipo de fe personal",
-        "Solo aplica a quienes ya tienen un testimonio muy fuerte"
+        "Solo aplica a quienes ya tienen un testimonio muy fuerte",
+        "Ningún desafío, porque la certeza siempre llega primero de forma automática",
+        "Exige comprometerse antes de tener la seguridad completa"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "Hebreos 11:1 define la fe como 'la certeza de lo que se espera, la convicción de lo que no se ve'. ¿Cómo se relaciona esa definición con el principio de Éter 12:6?",
       "options": [
-        "No tienen ninguna relación entre sí",
-        "Ambas enseñan que la fe implica confiar y actuar en algo que todavía no se puede comprobar por completo, lo cual antecede a recibir un testimonio pleno",
+        "Ambas piden confiar en algo que todavía no se puede comprobar",
         "Hebreos 11:1 contradice directamente lo que enseña Éter 12:6",
-        "Ambas se refieren únicamente a acontecimientos históricos del pasado"
+        "Ambas se refieren únicamente a acontecimientos históricos del pasado",
+        "No tienen ninguna relación entre sí"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Bruno dice que no va a comprometerse más con la Iglesia hasta tener 'pruebas científicas' de que todo es verdad. Según Éter 12:6, ¿qué le ayudaría a reconsiderar ese planteo?",
       "options": [
         "Que tiene toda la razón, y que el testimonio siempre debería llegar antes de cualquier acción de fe",
-        "Que el patrón que enseña Moroni es el inverso: comprometerse con fe primero suele ser el camino para recibir después una confirmación espiritual",
+        "Que el patrón es el inverso: comprometerse con fe viene primero",
         "Que la ciencia y la fe son exactamente lo mismo según este versículo",
         "Que las pruebas científicas y el testimonio espiritual son exactamente el mismo tipo de evidencia"
       ],
@@ -108,23 +108,23 @@
       "id": 6,
       "question": "Martina siente miedo de comprometerse a leer las Escrituras todos los días porque 'no está segura de que vaya a sentir algo especial'. Según Éter 12:6, ¿qué principio le ayudaría a animarse igual?",
       "options": [
+        "Que el estudio de las Escrituras no requiere ningún tipo de fe previa",
         "Que solo debería intentarlo si tiene la certeza absoluta de que va a sentir algo primero",
         "Que probar la fe con una acción concreta, incluso sin la certeza previa, es exactamente el paso que suele preceder a recibir un testimonio",
-        "Que si no siente algo especial de inmediato, es señal de que todavía no tiene fe suficiente",
-        "Que el estudio de las Escrituras no requiere ningún tipo de fe previa"
+        "Que si no siente algo especial de inmediato, es señal de que todavía no tiene fe suficiente"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Tanto Éter 12:6 como Hebreos 11:1 enseñan algo en común sobre la relación entre la fe y la certeza espiritual. ¿Cuál es el principio que comparten?",
       "options": [
-        "Que la certeza siempre antecede a cualquier acto de fe",
-        "Que la fe genuina implica confiar y actuar sin tener toda la evidencia por adelantado, y que esa confianza es lo que después produce una convicción más firme",
         "Que la fe y la certeza son conceptos completamente opuestos y excluyentes",
-        "Que ninguno de los dos pasajes tiene relación real con la vida práctica de una persona"
+        "Que ninguno de los dos pasajes tiene relación real con la vida práctica de una persona",
+        "Que la certeza siempre antecede a cualquier acto de fe",
+        "Que la fe genuina actúa sin la evidencia completa por delante"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

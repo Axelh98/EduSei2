@@ -9,6 +9,11 @@
       "tipo": "escrituras",
       "citas": [
         {
+          "referencia": "Moroni 7:45",
+          "texto": "Y la caridad es sufrida y es benigna, y no tiene envidia, ni se envanece, no busca lo suyo, no se irrita fácilmente, no piensa el mal, no se regocija en la iniquidad, sino se regocija en la verdad; todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa&id=p45#p45"
+        },
+        {
           "referencia": "Moroni 7:47",
           "texto": "Pero la caridad es el amor puro de Cristo, y permanece para siempre; y a quien la posea en el postrer día, le irá bien.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa&id=p47#p47"
@@ -29,14 +34,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Mormón no describe la caridad como un sentimiento agradable ocasional; la describe como algo que hay que pedir a Dios 'con toda la energía de nuestros corazones', porque no se genera solo con esfuerzo propio. El presidente Thomas S. Monson lo hizo concreto: 'la caridad es tener paciencia con alguien que nos ha defraudado. Es resistir el impulso de ofenderse con facilidad. Es aceptar las debilidades y los defectos.' Esa es una caridad bastante más exigente que simplemente 'ser buena onda'. Elegí, para esta semana, a una persona específica que te resulta difícil de tratar con paciencia, y pedile a Dios en oración que te ayude a tratarla con ese mismo amor puro de Cristo."
+      "contenido": "Mormón no describe la caridad como un sentimiento agradable ocasional; la describe como algo que hay que pedir a Dios 'con toda la energía de nuestros corazones', porque no se genera con esfuerzo propio: es Su amor, no el tuyo, y por eso se recibe antes de poder darse. El presidente Thomas S. Monson lo hizo concreto: 'la caridad es tener paciencia con alguien que nos ha defraudado. Es resistir el impulso de ofenderse con facilidad. Es aceptar las debilidades y los defectos.' Eso es bastante más exigente que 'ser buena onda'. Elegí esta semana a una persona que te resulta difícil de tratar con paciencia, y pedile a Dios en oración que te llene de ese amor puro de Cristo."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Por qué creés que debemos 'pedir' la caridad en oración en lugar de solo intentar crearla nosotros mismos?",
         "¿Qué características de la caridad te parecen más difíciles de vivir?",
-        "¿A quién conocés que sea un buen ejemplo del amor puro de Cristo? ¿Qué hacen ellos que demuestra esa caridad?",
+        "Volvé a leer Moroni 7:48. Mormón dice a quién hay que pedirle, con qué intensidad y para qué: fijate en las tres cosas y en cuál de ellas ponés menos atención.",
         "¿Qué te parece la definición del presidente Monson de que la caridad es 'resistir el impulso de ofenderse con facilidad'?",
         "¿Hay alguna persona en tu vida con la que te cuesta particularmente ser paciente o no ofenderte? ¿Qué podés hacer esta semana al respecto?",
         "Pensando en la invitación de Mormón a orar 'con toda la energía de nuestros corazones', ¿qué momento concreto de esta semana vas a dedicar a esa oración?"
@@ -48,12 +53,12 @@
       "id": 1,
       "question": "¿Qué es la caridad según Moroni 7?",
       "options": [
-        "Dar dinero",
         "El amor puro de Cristo",
         "Ser amable a veces",
-        "Ayudar cuando es fácil"
+        "Ayudar cuando es fácil",
+        "Dar dinero"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -70,34 +75,34 @@
       "id": 3,
       "question": "Mormón enseña que la caridad debe pedirse en oración, en lugar de simplemente proponerse tenerla por esfuerzo propio (Moroni 7:48). ¿Qué principio revela esto sobre la naturaleza de la caridad?",
       "options": [
-        "Que la caridad es un don espiritual que Dios otorga a quienes lo buscan con sinceridad, no solo el resultado de la fuerza de voluntad personal",
-        "Que la caridad es una habilidad natural que algunas personas ya tienen y otras nunca podrán desarrollar",
         "Que la oración ayuda a sentir mejor respecto a los demás, pero no cambia realmente el propio carácter",
-        "Que la caridad se obtiene automáticamente con la edad, sin ningún esfuerzo espiritual"
+        "Que la caridad se obtiene automáticamente con la edad, sin ningún esfuerzo espiritual",
+        "Que la caridad es un don que Dios otorga a quien lo busca",
+        "Que la caridad es una habilidad natural que algunas personas ya tienen y otras nunca podrán desarrollar"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Por qué el presidente Monson describe la caridad en términos tan concretos —'paciencia con quien nos defraudó', 'resistir el impulso de ofenderse'— en lugar de una definición abstracta?",
       "options": [
-        "Porque esas descripciones concretas ayudan a reconocer la caridad en situaciones específicas de la vida diaria, no solo como una idea general",
         "Porque esas frases describen un ideal poco realista que casi nadie puede alcanzar en la práctica",
         "Porque la caridad, según esa descripción, solo se aplica a relaciones familiares",
-        "Porque el objetivo de esas frases es simplificar la caridad hasta perder su significado espiritual"
+        "Porque el objetivo de esas frases es simplificar la caridad hasta perder su significado espiritual",
+        "Porque ayudan a reconocer la caridad en situaciones concretas"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Agustina se enoja fácilmente cuando una amiga la hace esperar o cambia de planes sin avisar. Según la definición del presidente Monson de que la caridad es 'resistir el impulso de ofenderse con facilidad', ¿qué principio le ayudaría?",
       "options": [
-        "Que tiene todo el derecho a ofenderse siempre que alguien la haga esperar",
-        "Que practicar la caridad en ese tipo de situaciones cotidianas —resistiendo el impulso de ofenderse— es exactamente el tipo de amor que Mormón describe como esencial",
+        "Que resistir el impulso de ofenderse es esa clase de amor",
         "Que la caridad solo se pone a prueba en decisiones grandes, no en molestias cotidianas como esa",
-        "Que debería evitar a esa amiga en lugar de practicar la paciencia"
+        "Que debería evitar a esa amiga en lugar de practicar la paciencia",
+        "Que tiene todo el derecho a ofenderse siempre que alguien la haga esperar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -114,12 +119,12 @@
       "id": 7,
       "question": "Tanto la enseñanza de Mormón de pedir la caridad en oración como la descripción concreta del presidente Monson sobre la paciencia y no ofenderse comparten un mismo principio central. ¿Cuál es?",
       "options": [
-        "Que la caridad genuina se pide a Dios y se practica en situaciones concretas y a veces difíciles de la vida diaria, no solo se siente de manera espontánea",
-        "Que la caridad es simplemente una emoción pasajera sin ninguna aplicación práctica",
         "Que solo las personas naturalmente pacientes pueden desarrollar caridad real",
-        "Que pedir caridad en oración y practicarla en la vida diaria son cosas completamente independientes entre sí"
+        "Que pedir caridad en oración y practicarla en la vida diaria son cosas completamente independientes entre sí",
+        "Que la caridad se pide a Dios y se practica en lo concreto",
+        "Que la caridad es simplemente una emoción pasajera sin ninguna aplicación práctica"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

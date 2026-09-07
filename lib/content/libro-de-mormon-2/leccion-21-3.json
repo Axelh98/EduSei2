@@ -34,14 +34,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Zenós oró en el campo, en el desierto y hasta cuando lo despreciaban, y Dios siempre lo escuchó. Alma usa ese testimonio para enseñarles a los zoramitas pobres —y a nosotros— que la adoración no depende de un edificio ni de condiciones perfectas. Lo que importa es un corazón sincero vuelto hacia Jesucristo. Si alguna vez pensaste que necesitás 'el momento ideal' para orar, esta lección te invita a soltar esa excusa. Elegí un lugar poco común esta semana —el colectivo, tu cuarto antes de dormir, el recreo— y hacé ahí una oración real, aunque sea corta."
+      "contenido": "Zenós oró en el campo, en el desierto y hasta cuando lo despreciaban, y Dios siempre lo escuchó. Alma usa ese testimonio para enseñarles a los zoramitas pobres —y a nosotros— que la adoración no depende de un edificio ni de condiciones perfectas. Lo que importa es un corazón sincero vuelto hacia Jesucristo. Y Alma cierra el sermón diciendo exactamente qué pasa cuando alguien se vuelve al Hijo con todo el corazón: se le concede misericordia. La serpiente de bronce era apenas el símbolo; lo que sana de verdad es mirarlo a Él. Si alguna vez pensaste que necesitás 'el momento ideal' para orar, esta lección te invita a soltar esa excusa. Elegí un lugar poco común esta semana —el colectivo, tu cuarto antes de dormir, el recreo— y hacé ahí una oración real, aunque sea corta."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿En qué lugar poco común oraste alguna vez (el colectivo, la escuela, la cancha)?",
         "¿Qué te pareció más interesante de la historia de Zenós orando en tantos lugares distintos?",
-        "¿Cómo interpretas el consejo de Alma sobre centrar la adoración en Jesucristo, más que en un lugar?",
+        "Volvé a leer Alma 33:11 y fijate qué es exactamente lo que Alma dice que pasa cuando alguien se vuelve al Hijo. ¿Qué palabra usa para nombrar lo que se concede?",
         "¿Qué aprendes del testimonio de un profeta antiguo como Zenós, que oraba incluso cuando lo despreciaban?",
         "¿En qué momento de esta semana vas a probar orar en un lugar donde normalmente no lo hacés?",
         "¿Qué obstáculo concreto te impide orar más seguido, y qué podrías cambiar esta semana para resolverlo?"
@@ -53,12 +53,12 @@
       "id": 1,
       "question": "¿Qué pregunta específica le habían hecho a Alma los zoramitas más humildes, respecto a dónde se debe orar?",
       "options": [
-        "Si estaba permitido creer sin pertenecer a ninguna sinagoga",
-        "Si tenían que adorar solo una vez por semana en la sinagoga, o si podían hacerlo en cualquier lugar",
         "Si el bautismo era necesario antes de poder orar",
-        "Si los pobres podían entrar al templo de Zarahemla"
+        "Si los pobres podían entrar al templo de Zarahemla",
+        "Si estaba permitido creer sin pertenecer a ninguna sinagoga",
+        "Si debían adorar solo en la sinagoga o en cualquier lugar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
@@ -75,52 +75,52 @@
       "id": 3,
       "question": "Zenós ora en el campo, en el desierto, en las congregaciones, y hasta cuando sus enemigos lo expulsan y lo desprecian, y Dios sigue escuchándolo (Alma 33:4–11). ¿Qué les enseña esto a los zoramitas sobre el lugar de la oración?",
       "options": [
-        "Que hay que orar únicamente en el desierto, como hizo Zenós",
-        "Que la oración pública siempre vale más que la privada",
         "Que Dios solo escucha oraciones hechas en lugares apartados y silenciosos",
-        "Que la ubicación física no determina si Dios escucha; lo que importa es la sinceridad del corazón"
+        "Que la ubicación física no determina si Dios escucha; lo que importa es la sinceridad del corazón",
+        "Que hay que orar únicamente en el desierto, como hizo Zenós",
+        "Que la oración pública siempre vale más que la privada"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "Alma compara mirar la serpiente de bronce con creer en el Hijo de Dios (Alma 33:19–22). ¿Por qué muchos israelitas no fueron sanados, a pesar de que la señal era tan sencilla?",
       "options": [
-        "Porque Moisés no la había levantado en el lugar correcto",
         "Porque solo los sacerdotes tenían permiso para mirarla",
         "Porque la serpiente de bronce no tenía ningún poder real",
-        "Porque no creían que algo tan simple pudiera sanarlos, y por esa incredulidad no miraban"
+        "Porque no creían que algo tan simple pudiera sanarlos, y por esa incredulidad no miraban",
+        "Porque Moisés no la había levantado en el lugar correcto"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Benjamín dice que no puede sentir la presencia de Dios porque en su casa 'no hay un buen ambiente' para orar. Según lo que Alma enseña sobre Zenós, ¿qué le dirías?",
       "options": [
-        "Que Dios escuchó a Zenós en el campo, en el desierto y hasta cuando lo despreciaban; el lugar no es la limitación",
         "Que solo se puede orar dentro de un templo o capilla",
         "Que tiene razón: sin un lugar perfecto es imposible orar de verdad",
-        "Que debería esperar a tener su propio cuarto antes de intentar orar"
+        "Que debería esperar a tener su propio cuarto antes de intentar orar",
+        "Que Dios escuchó a Zenós hasta cuando lo despreciaban"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Martina cree que mejorar su vida espiritual 'no puede ser tan simple' como orar y leer las Escrituras todos los días; siente que necesita algo más dramático. Según el ejemplo de la serpiente de bronce, ¿qué le ayudaría a entender?",
       "options": [
+        "Que lo simple no es menos poderoso, y muchos se perdieron por eso",
+        "Que las cosas simples nunca producen cambios reales",
         "Que solo los líderes de la Iglesia pueden tener experiencias espirituales fuertes",
-        "Que efectivamente necesita una experiencia más espectacular para que valga la pena",
-        "Que la simplicidad de un hábito espiritual no lo hace menos poderoso; muchos israelitas se perdieron justamente por menospreciar algo tan sencillo",
-        "Que las cosas simples nunca producen cambios reales"
+        "Que efectivamente necesita una experiencia más espectacular para que valga la pena"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Tanto la oración de Zenós en cualquier lugar como el simple acto de mirar la serpiente de bronce enseñan algo parecido sobre acercarse a Dios. ¿Cuál es el principio común que los une?",
       "options": [
         "Que solo los profetas pueden acercarse verdaderamente a Dios",
-        "Que la fe genuina no depende del lugar ni de la complejidad de la acción, sino de la disposición sincera del corazón",
+        "Que la fe no depende del lugar ni de la complejidad",
         "Que se necesitan señales espectaculares para poder creer",
         "Que acercarse a Dios exige condiciones externas perfectas"
       ],

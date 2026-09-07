@@ -17,6 +17,11 @@
           "referencia": "Mormón 9:9",
           "texto": "¿Acaso leemos que Dios no es el mismo ayer, hoy y para siempre, y que en él hay variación o sombra de cambio?",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Mormón 9:27",
+          "texto": "Oh, no despreciéis, pues, ni os asombréis, antes bien, escuchad las palabras del Señor, y pedid al Padre, en el nombre de Jesús, cualquier cosa que necesitéis. No dudéis, mas sed creyentes; y empezad, como en los días antiguos, y allegaos al Señor con todo vuestro corazón.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=spa&id=p27#p27"
         }
       ]
     },
@@ -29,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Moroni escribe como si estuviera hablando directamente con nosotros: 'Jesucristo me os ha mostrado, y conozco vuestras obras.' No es una coincidencia que sus advertencias sobre el amor al dinero, las combinaciones secretas y la incredulidad en los milagros suenen tan actuales. El presidente Ezra Taft Benson enseñó: 'si ellos vieron nuestros días, y eligieron aquellas cosas que serían de máximo valor para nosotros, ¿no es pensando en ello que deberíamos estudiar el Libro de Mormón?' Cada advertencia de Moroni fue elegida a propósito, sabiendo que ibas a leerla vos. Cerrá la semana eligiendo una de las advertencias de Mormón 8-9 que más te interpeló, y tomá una acción concreta al respecto."
+      "contenido": "Moroni escribe como si estuviera hablando directamente con nosotros: 'Jesucristo me os ha mostrado, y conozco vuestras obras.' No es casualidad que sus advertencias sobre el amor al dinero y la incredulidad en los milagros suenen tan actuales. El presidente Ezra Taft Benson preguntó: 'si ellos vieron nuestros días, y eligieron aquellas cosas que serían de máximo valor para nosotros, ¿no es pensando en ello que deberíamos estudiar el Libro de Mormón?' Y fijate cómo cierra Moroni, después de tanta advertencia: no con una condena, sino con una invitación a venir a Él y a pedirle al Padre en Su nombre. Elegí una de esas advertencias y tomá una acción concreta."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cómo te hace sentir saber que los profetas antiguos vieron nuestros días y conocían nuestras debilidades y fortalezas?",
         "¿Por qué creés que muchas personas hoy niegan que Dios sea un Dios de milagros?",
-        "¿Qué podés hacer para no caer en el orgullo materialista que Moroni observó en nosotros?",
+        "Volvé a leer Mormón 8:35. Fijate en la diferencia entre las dos mitades del versículo: qué dice que no puede hacer, qué dice que sí sabe, y quién se lo mostró.",
         "¿Qué te parece la enseñanza del presidente Benson de que los profetas 'eligieron aquellas cosas que serían de máximo valor para nosotros'?",
         "De las advertencias que Moroni hace en estos capítulos, ¿cuál sentís que te habla más directamente a vos?",
-        "¿Qué acción concreta podés tomar esta semana en respuesta a esa advertencia específica?"
+        "Elegí esa advertencia y meditá un minuto por día en ella durante tres días. Anotá al tercer día qué acción concreta apareció."
       ]
     }
   ],
@@ -48,23 +53,23 @@
       "id": 1,
       "question": "¿Qué profetizó Moroni sobre los últimos días?",
       "options": [
-        "Paz perfecta",
-        "Guerras, contaminación y combinaciones secretas",
         "Nada especial",
-        "Prosperidad para todos"
+        "Prosperidad para todos y paz duradera en toda la tierra",
+        "Paz perfecta",
+        "Guerras, contaminación y combinaciones secretas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Contra qué advirtió Moroni específicamente?",
       "options": [
-        "La pobreza",
         "El orgullo y negar el poder de Dios",
-        "La educación",
-        "El trabajo"
+        "La educación y el estudio de las ciencias humanas",
+        "El trabajo",
+        "La pobreza"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -72,7 +77,7 @@
       "options": [
         "Que no existen",
         "Que Dios es un Dios de milagros",
-        "Que cesaron",
+        "Que cesaron cuando terminó la época de los apóstoles",
         "Que son raros"
       ],
       "correctAnswer": 1
@@ -81,45 +86,45 @@
       "id": 4,
       "question": "¿Por qué cesan los milagros según Moroni?",
       "options": [
+        "Sin razón",
         "Porque Dios cambia",
         "Por la incredulidad de los hijos de los hombres",
-        "Porque ya no son necesarios",
-        "Sin razón"
+        "Porque ya no son necesarios en una época con ciencia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "¿Qué invitó Moroni a los lectores a hacer?",
       "options": [
+        "Ignorar el evangelio y confiar en su propio juicio",
+        "Buscar señales",
         "Dudar",
-        "Venir a Cristo y ser perfeccionados en Él",
-        "Ignorar el evangelio",
-        "Buscar señales"
+        "Venir a Cristo y ser perfeccionados en Él"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Luca escucha a un compañero decir que 'los milagros ya no existen en esta época moderna'. Según lo que Moroni enseña sobre por qué cesan los milagros —por la incredulidad, no porque Dios haya cambiado—, ¿qué le podría responder?",
       "options": [
-        "Que tiene razón, los milagros pertenecían solo a épocas antiguas",
         "Que, según Moroni, Dios sigue siendo un Dios de milagros; lo que cambia es la disposición de las personas a creer, no la naturaleza de Dios",
         "Que los milagros solo ocurren en el Libro de Mormón, no en la vida real",
-        "Que los milagros dejaron de existir apenas terminó la época del Libro de Mormón"
+        "Que los milagros dejaron de existir apenas terminó la época del Libro de Mormón",
+        "Que tiene razón, los milagros pertenecían solo a épocas antiguas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Tanto la declaración de Moroni de que Cristo le mostró nuestros días como la enseñanza del presidente Benson sobre que los profetas 'eligieron lo de máximo valor para nosotros' comparten un mismo principio central. ¿Cuál es?",
       "options": [
+        "Que el valor del Libro de Mormón fue mayor para los primeros lectores que para los de hoy",
         "Que el Libro de Mormón no fue escrito de manera genérica, sino con un conocimiento específico y anticipado de los desafíos particulares que enfrentaríamos hoy",
         "Que las advertencias de Moroni eran generales y no tenían ninguna relación específica con nuestra época",
-        "Que Moroni escribió sin ningún conocimiento real de los lectores futuros",
-        "Que el valor del Libro de Mormón fue mayor para los primeros lectores que para los de hoy"
+        "Que Moroni escribió sin ningún conocimiento real de los lectores futuros"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

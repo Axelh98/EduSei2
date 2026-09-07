@@ -24,22 +24,27 @@
           "referencia": "3 Nefi 24:16-17",
           "texto": "Entonces los que temían al Señor hablaron a menudo, cada uno a su compañero; y el Señor escuchó y oyó; y fue escrito un libro de memorias delante de él para aquellos que temían al Señor y pensaban en su nombre. Y serán míos, dice el Señor de los Ejércitos, el día en que yo integre mis joyas; y los perdonaré como el hombre que perdona a su hijo que le sirve.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa&id=p16-p17#p16"
+        },
+        {
+          "referencia": "3 Nefi 24:17",
+          "texto": "Y serán míos, dice el Señor de los Ejércitos, el día en que yo integre mis joyas; y los perdonaré como el hombre que perdona a su hijo que le sirve.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa&id=p17#p17"
         }
       ]
     },
     {
       "tipo": "conclusion",
-      "contenido": "Cristo elige las palabras de Malaquías, entre todo lo que podría haber citado a los nefitas, para hablar de algo muy concreto: el dinero y la confianza. 'Traed todos los diezmos... y probadme ahora en esto' no es una amenaza, es una invitación a comprobarlo por experiencia propia. El diezmo no es solo una regla administrativa de la Iglesia; es una forma de practicar, mes a mes, que Dios va primero. Esta semana, si ya pagás diezmo, prestá atención especial a qué sentís al hacerlo; si todavía no te tocó hacerlo, hablá con tus padres o tu líder sobre por qué esta ley importa antes de que se vuelva solo un trámite."
+      "contenido": "Cristo elige las palabras de Malaquías, entre todo lo que podría haber citado a los nefitas, para hablar de algo muy concreto: el dinero y la confianza. 'Traed todos los diezmos… y probadme ahora en esto' no es una amenaza, es una invitación a comprobarlo por experiencia propia. Y fijate cómo termina el pasaje que Él eligió: los que temen al Señor quedan escritos en un libro de memorias, y Él dice que serán Suyos y que los perdonará como un padre perdona al hijo que le sirve. El diezmo no compra nada; del otro lado está Su perdón, que ya estaba ofrecido. Esta semana, si ya pagás diezmo, prestá atención a qué sentís al hacerlo; si todavía no, hablá con tus padres sobre por qué esta ley importa."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Sabías que Cristo mismo citó las palabras de Malaquías sobre el diezmo a los nefitas?",
         "¿Cómo describirías tu experiencia con el pago de diezmos y ofrendas, o la de tu familia?",
-        "¿Qué bendiciones has observado, en tu vida o en la de otros, al ser fiel en esta ley?",
+        "Volvé a leer 3 Nefi 24:16-17. Fijate qué hace Dios con los que le temen y hablan entre ellos: son varias cosas distintas, no una sola.",
         "¿De qué manera el pago del diezmo representa un acto de fe en la providencia divina?",
         "¿Alguna vez tuviste que elegir entre gastar en algo que querías o ser fiel con el diezmo?",
-        "¿Con quién podrías hablar esta semana sobre lo que significa para vos la ley del diezmo?"
+        "Antes de esa conversación, meditá un momento en qué te cuesta más entregar: si el dinero o la confianza. Anotá cuál de los dos es y por qué."
       ]
     }
   ],
@@ -48,12 +53,12 @@
       "id": 1,
       "question": "Según 3 Nefi 24:8-10, ¿qué invita Dios a hacer a quienes dudan de los beneficios de pagar diezmos?",
       "options": [
-        "Que esperen hasta ser adultos para empezar",
-        "Que lo prueben, trayendo todos los diezmos al alfolí",
         "Que consulten primero a un contador",
-        "Que paguen solo si les sobra dinero"
+        "Que paguen solo si les sobra dinero",
+        "Que esperen hasta ser adultos para empezar",
+        "Que lo prueben, trayendo todos los diezmos al alfolí"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
@@ -70,56 +75,56 @@
       "id": 3,
       "question": "Dios pregunta '¿robará el hombre a Dios?' antes de hablar del diezmo (3 Nefi 24:8). ¿Qué idea busca transmitir esa pregunta directa?",
       "options": [
+        "Que esa pregunta se refiere únicamente a los líderes religiosos de la época de Malaquías",
         "Que retener lo que corresponde a Dios equivale, en esencia, a un acto de deshonestidad",
         "Que el diezmo es una sugerencia sin ninguna importancia real",
-        "Que solo los ricos deben preocuparse por el diezmo",
-        "Que esa pregunta se refiere únicamente a los líderes religiosos de la época de Malaquías"
+        "Que solo los ricos deben preocuparse por el diezmo"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "La promesa de 'abrir las ventanas de los cielos' (3 Nefi 24:10) se presenta como resultado de probar a Dios con el diezmo. ¿Qué papel juega la fe en esa dinámica?",
       "options": [
+        "La promesa elimina la necesidad de cualquier tipo de confianza personal",
         "Ninguno: la promesa se cumple sin relación con la actitud de la persona",
-        "La fe consiste en dar primero, confiando en la promesa, en vez de esperar la bendición antes de obedecer",
-        "La fe solo importa después de recibir la bendición, no antes",
-        "La promesa elimina la necesidad de cualquier tipo de confianza personal"
+        "Dar primero, confiando en la promesa, y no al revés",
+        "La fe solo importa después de recibir la bendición, no antes"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Bruno empieza a ganar su primer dinero propio y no está seguro de si vale la pena pagar diezmo sobre montos pequeños. Según 3 Nefi 24:10, ¿qué principio le ayudaría a decidir?",
       "options": [
-        "Que la invitación de Dios a 'probarlo' aplica también a cantidades pequeñas, no solo a grandes ingresos",
         "Que el diezmo solo tiene sentido para adultos con trabajo estable",
         "Que debería esperar a tener mucho dinero para empezar a pagar diezmo",
-        "Que las cantidades pequeñas quedan automáticamente exentas de esta ley"
+        "Que las cantidades pequeñas quedan automáticamente exentas de esta ley",
+        "Que la invitación de Dios a 'probarlo' aplica también a cantidades pequeñas, no solo a grandes ingresos"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Lucía siente que pagar diezmo la deja con 'menos plata' para lo que quiere comprarse, y por eso a veces lo posterga. Según la invitación de Cristo a 'probarme en esto', ¿qué le ayudaría a repensar su actitud?",
       "options": [
-        "Que su percepción es correcta y no vale la pena seguir pagando diezmo",
-        "Que la invitación de Dios es justamente a experimentar, con fe, que priorizar el diezmo no la deja con menos, sino que abre bendiciones que no siempre son solo económicas",
+        "Que la invitación es a experimentar que priorizarlo no la deja con menos",
         "Que el diezmo únicamente beneficia a la organización de la Iglesia",
-        "Que la invitación a 'probar' a Dios en esto aplica solo a quienes ya tienen suficiente dinero"
+        "Que la invitación a 'probar' a Dios en esto aplica solo a quienes ya tienen suficiente dinero",
+        "Que su percepción es correcta y no vale la pena seguir pagando diezmo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Tanto la promesa de 'abrir las ventanas de los cielos' como la imagen del 'libro de memorias' para quienes temen al Señor comparten un mismo principio de este capítulo. ¿Cuál es?",
       "options": [
-        "Que Dios nota y recuerda la fidelidad de Sus hijos, y responde a ella con bendiciones concretas",
+        "Que las bendiciones prometidas dependen únicamente de la suerte",
+        "Que Dios nota y recuerda la fidelidad de Sus hijos",
         "Que solo las acciones públicas y visibles tienen valor ante Dios",
-        "Que estas dos promesas se cumplen automáticamente, sin relación con la fidelidad de la persona",
-        "Que las bendiciones prometidas dependen únicamente de la suerte"
+        "Que estas dos promesas se cumplen automáticamente, sin relación con la fidelidad de la persona"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

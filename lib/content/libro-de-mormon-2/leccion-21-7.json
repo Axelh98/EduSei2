@@ -9,14 +9,19 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "Alma 34:10–11",
-          "texto": "Porque es preciso que haya un gran y postrer sacrificio ; sí, no un sacrificio de hombre, ni de bestia, ni de ningún género de ave; pues no será un sacrificio humano, sino debe ser un sacrificio infinito y eterno. Y no hay hombre alguno que sacrifique su propia sangre, la cual expíe los pecados de otro. Y si un hombre mata, he aquí, ¿tomará nuestra ley, que es justa , la vida de su hermano? Os digo que no.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p10-p11#p10"
+          "referencia": "Alma 34:9–10",
+          "texto": "Porque es necesario que se realice una expiación; pues según el gran plan del Dios Eterno, debe efectuarse una expiación, o de lo contrario, todo el género humano inevitablemente debe perecer; sí, todos se han endurecido; sí, todos han caído y están perdidos, y, de no ser por la expiación que es necesario que se haga, deben perecer. Porque es preciso que haya un gran y postrer sacrificio; sí, no un sacrificio de hombre, ni de bestia, ni de ningún género de ave; pues no será un sacrificio humano, sino debe ser un sacrificio infinito y eterno.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p9-p10#p9"
         },
         {
           "referencia": "2 Nefi 9:6–7",
           "texto": "Porque así como la muerte ha pasado sobre todos los hombres, para cumplir el misericordioso designio del gran Creador, también es menester que haya un poder de resurrección, y la resurrección debe venir al hombre por motivo de la caída; y la caída vino a causa de la transgresión; y por haber caído el hombre, fue desterrado de la presencia del Señor. Por tanto, es preciso que sea una expiación infinita, pues a menos que fuera una expiación infinita, esta corrupción no podría revestirse de incorrupción. De modo que el primer juicio que vino sobre el hombre habría tenido que permanecer infinitamente. Y siendo así, esta carne tendría que descender para pudrirse y desmenuzarse en su madre tierra, para no levantarse jamás.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=spa&id=p6-p7#p6"
+        },
+        {
+          "referencia": "Mosíah 3:17",
+          "texto": "Y además, te digo que no se dará otro nombre, ni otra senda ni medio, por el cual la salvación llegue a los hijos de los hombres, sino en el nombre de Cristo, el Señor Omnipotente, y por medio de ese nombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=spa&id=p17#p17"
         }
       ]
     },
@@ -36,10 +41,10 @@
       "preguntas": [
         "¿Ya te habías memorizado antes algún versículo de las Escrituras? ¿Cuál?",
         "¿Qué palabra de Alma 34:9-10 te parece la clave para entender el versículo completo?",
-        "¿Alguna vez tuviste que explicarle a alguien por qué necesitamos un Salvador? ¿Cómo te fue?",
+        "Volvé a leer Alma 34:9–10. Fijate en los sacrificios que Amulek va descartando antes de decir cuál hace falta: ¿por qué te parece que los nombra uno por uno en vez de decirlo de una sola vez?",
         "¿Qué parte de este pasaje te costó más entender la primera vez que lo leíste?",
         "¿A quién le podrías explicar esta semana, con tus propias palabras, lo que dice Alma 34:9-10?",
-        "¿Qué días de esta semana vas a practicar decir de memoria este pasaje, aunque sea unos minutos cada vez?"
+        "Decilo de memoria un día de esta semana y quedate un minuto en silencio después, pensando qué parte de tu vida necesita que ese sacrificio sea infinito. Anotá lo que aparezca."
       ]
     }
   ],
@@ -48,45 +53,45 @@
       "id": 1,
       "question": "Según Alma 34:9, ¿qué es lo que un ser humano no puede hacer por otro, sin importar cuánto lo intente?",
       "options": [
-        "Enseñarle el Evangelio",
-        "Expiar por sus pecados",
         "Orar en su nombre",
-        "Ayudarlo económicamente"
+        "Ayudarlo económicamente",
+        "Enseñarle el Evangelio",
+        "Expiar por sus pecados"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Qué característica del sacrificio necesario se enfatiza en Alma 34:10 para explicar por qué debía ser el Hijo de Dios quien lo ofreciera?",
       "options": [
-        "Que fuera doloroso",
-        "Que fuera público, para que todos lo vieran",
         "Que fuera infinito y eterno",
-        "Que ocurriera exactamente en Jerusalén"
+        "Que ocurriera exactamente en Jerusalén",
+        "Que fuera doloroso",
+        "Que fuera público, para que todos lo vieran"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "Amulek explica que se requiere 'un gran sacrificio' porque, de otra manera, la ley de la justicia quedaría sin satisfacer. ¿Qué relación establece este versículo entre justicia y expiación?",
       "options": [
-        "Que la expiación es lo único capaz de satisfacer las exigencias de la justicia sin destruir al pecador",
+        "Que la expiación anula por completo la ley de la justicia",
+        "Que solo ella satisface la justicia sin destruir al pecador",
         "Que la justicia y la expiación son enseñanzas contradictorias",
-        "Que la justicia deja de existir después de la expiación",
-        "Que la expiación anula por completo la ley de la justicia"
+        "Que la justicia deja de existir después de la expiación"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "Si el sacrificio requerido tuviera que ser mayor que cualquier ofrenda de sangre animal o humana (Alma 34:10–12), ¿qué nos dice eso sobre la magnitud del pecado ante la justicia de Dios?",
       "options": [
-        "Que la deuda que genera el pecado es tan grande, que solo un ser infinito puede pagarla",
-        "Que Dios exagera la gravedad del pecado",
         "Que el pecado solo afecta a quien lo comete, sin consecuencias mayores",
-        "Que el pecado es un asunto menor que no requiere mucho esfuerzo para resolverse"
+        "Que el pecado es un asunto menor que no requiere mucho esfuerzo para resolverse",
+        "Que la deuda que genera el pecado es tan grande, que solo un ser infinito puede pagarla",
+        "Que Dios exagera la gravedad del pecado"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
@@ -95,7 +100,7 @@
         "Que en realidad no era necesario ningún sacrificio",
         "Que los ángeles podrían haber cumplido esa función",
         "Que cualquier persona muy justa podría haberlo hecho igual de bien",
-        "Que ningún hombre, por más justo que sea, puede ofrecer un sacrificio infinito; solo el Hijo de Dios podía satisfacer esa exigencia"
+        "Que ningún hombre puede ofrecer un sacrificio infinito"
       ],
       "correctAnswer": 3
     },
@@ -103,23 +108,23 @@
       "id": 6,
       "question": "Benjamín le dice a un compañero de curso que 'total, Dios perdona cualquier cosa fácilmente'. Usando el principio de Alma 34:9–10, ¿qué matiz le agregarías a esa idea?",
       "options": [
-        "Que solo los profetas pueden recibir perdón",
-        "Que el perdón depende exclusivamente de cuántas buenas obras se hagan",
         "Que el perdón de Dios existe, pero fue posible únicamente gracias a un sacrificio infinito, no porque el pecado 'no importe'",
-        "Que en realidad Dios no perdona con facilidad"
+        "Que en realidad Dios no perdona con facilidad",
+        "Que solo los profetas pueden recibir perdón",
+        "Que el perdón depende exclusivamente de cuántas buenas obras se hagan"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Alma 34:9 (lo que ningún hombre puede hacer) y Alma 34:10 (lo que sí puede hacer el Hijo de Dios) forman una sola idea central del pasaje de dominio de la doctrina. ¿Cuál es esa idea?",
       "options": [
-        "Que la expiación fue un evento simbólico sin efecto real",
-        "Que la salvación depende completamente de nuestro propio esfuerzo",
         "Que nadie necesita realmente ser salvo",
-        "Que dependemos por completo de Jesucristo para la salvación, porque solo Él pudo ofrecer el sacrificio infinito que la justicia exige"
+        "Que dependemos de Jesucristo, el único que pudo pagar",
+        "Que la expiación fue un evento simbólico sin efecto real",
+        "Que la salvación depende completamente de nuestro propio esfuerzo"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ]
 }

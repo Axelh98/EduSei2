@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Samuel dedica todo este capítulo a algo muy concreto: señales específicas y verificables que Dios va a dar para anunciar el nacimiento y la muerte de Su Hijo. No son señales vagas. Cinco años antes de que naciera Cristo, Samuel anuncia que va a haber un día, una noche y otro día sin ninguna oscuridad, como si todo fuera un solo día continuo, y que va a aparecer una estrella nueva jamás vista. Después describe las señales de Su muerte: tres días completos de oscuridad total, truenos y relámpagos durante horas, terremotos que parten rocas sólidas, y sepulcros que se abren. ¿Por qué tanto detalle? Porque una señal cumplida exactamente como se anunció es evidencia imposible de ignorar. Cuando alguien te dice de antemano, con años de anticipación, exactamente lo que va a pasar y después pasa tal cual lo dijo, ya no queda espacio razonable para la duda. Samuel cierra el capítulo con algo igual de importante: el motivo por el que Dios te da libertad para creer o no creer en todo esto. Nadie te obliga. Se te concede discernir el bien del mal, y se te concede escoger la vida o la muerte, la felicidad eterna o la miseria eterna, según tu propia decisión. Las señales existen para ayudarte a creer, pero la decisión de responder a esa evidencia siempre queda en tus manos."
+      "contenido": "Samuel dedica todo este capítulo a algo muy concreto: señales específicas y verificables que Dios va a dar para anunciar el nacimiento y la muerte de Su Hijo. No son señales vagas. Cinco años antes de que naciera Cristo, Samuel anuncia que va a haber un día, una noche y otro día sin ninguna oscuridad, como si todo fuera un solo día continuo, y que va a aparecer una estrella nueva jamás vista. Después describe las señales de Su muerte: tres días completos de oscuridad total, truenos y relámpagos durante horas, terremotos que parten rocas sólidas, y sepulcros que se abren. Pero fijate para qué dice Samuel que viene el que se anuncia: 'viene el Hijo de Dios para redimir a todos los que crean en su nombre' (Helamán 14:2). Las señales no son el punto de la profecía; el punto es Quién llega detrás de ellas. ¿Por qué tanto detalle, entonces? Porque una señal cumplida exactamente como se anunció es evidencia difícil de ignorar: cuando alguien te dice con años de anticipación lo que va a pasar y después pasa tal cual, queda poco espacio razonable para la duda. Samuel cierra el capítulo con algo igual de importante: el motivo por el que Dios te deja libre para creer o no. Nadie te obliga. Se te concede discernir el bien del mal y escoger la vida o la muerte según tu propia decisión. Las señales existen para ayudarte a creer en Él; la decisión de responder a esa evidencia queda siempre en tus manos."
     },
     {
       "tipo": "escrituras",
@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Samuel profetizó con una precisión asombrosa: cinco años exactos antes de que naciera Cristo, anunció una noche sin oscuridad y una nueva estrella. Después anunció, con el mismo detalle, las señales de Su muerte. Cuando esas señales se cumplieron tal como las había descrito, quedó claro que Dios cumple Sus promesas en el momento exacto que decide. Pero todo ese conocimiento no obliga a nadie a creer: Samuel termina recordando que Dios te da la libertad de escoger, con conocimiento real de las consecuencias. El presidente Dallin H. Oaks preguntó: '¿Qué tal si el día de Su venida fuese mañana? ¿Qué haríamos hoy?' Las señales no eran solo un espectáculo en el cielo; eran una invitación a prepararse con anticipación, no de último momento. Llevalo a la práctica esta semana: elegí una preparación espiritual concreta —oración, Escrituras, un mandamiento pendiente— como si supieras que el Salvador viene mañana."
+      "contenido": "Samuel profetizó con una precisión asombrosa: cinco años exactos antes del nacimiento de Cristo anunció una noche sin oscuridad y una nueva estrella, y después, con el mismo detalle, las señales de Su muerte. Cuando se cumplieron tal como las había descrito, quedó claro que Dios cumple Sus promesas en el momento que decide. Pero ese conocimiento no obliga a nadie: Samuel termina recordando que Dios te deja escoger, con conocimiento real de las consecuencias. El presidente Dallin H. Oaks preguntó: '¿Qué tal si el día de Su venida fuese mañana? ¿Qué haríamos hoy?' Elegí esta semana una preparación espiritual concreta —oración, Escrituras, un mandamiento pendiente— como si supieras que el Salvador viene mañana."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué señal te parece más impresionante: la noche sin oscuridad del nacimiento, o los tres días de tinieblas de la muerte de Cristo?",
         "Si tuvieras que esperar cinco años exactos para ver cumplida una promesa de Dios, ¿cómo creés que te sentirías con el paso del tiempo?",
-        "¿Alguna vez tuviste que esperar mucho tiempo para ver cumplida una promesa o una respuesta a una oración?",
+        "Volvé a leer Helamán 14:29–31. Samuel repite la palabra 'libres': fijate para qué dice que Dios te hizo libre, y qué dos caminos concretos pone delante.",
         "¿Qué te parece la pregunta del presidente Oaks: '¿Qué tal si el día de Su venida fuese mañana? ¿Qué harías hoy?'",
         "Si el Salvador viniera mañana, ¿qué cambiarías hoy mismo en tu vida espiritual?",
-        "Pensando en que Dios te da libertad para creer o no en estas señales, ¿qué decisión concreta podés tomar esta semana en lugar de posponerla?"
+        "Elegí esa decisión y llevala a la oración antes de tomarla. Anotá qué te llegó a la mente, y también qué pasó si no llegó nada claro."
       ]
     }
   ],
@@ -53,12 +53,12 @@
       "id": 1,
       "question": "¿Qué señal profetizó Samuel para el nacimiento de Cristo, referida a la ausencia de oscuridad?",
       "options": [
-        "Un terremoto que sacudiría toda la tierra",
-        "Un día, una noche y un día sin oscuridad, como si todo fuera un solo día",
+        "Un día, una noche y un día sin oscuridad",
         "Una inundación que cubriría las ciudades bajas",
-        "Una guerra que uniría a nefitas y lamanitas"
+        "Una guerra que uniría a nefitas y lamanitas",
+        "Un terremoto que sacudiría toda la tierra"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -75,41 +75,41 @@
       "id": 3,
       "question": "Samuel profetizó las señales del nacimiento cinco años antes de que se cumplieran, y las señales de la muerte con el mismo nivel de detalle (Helamán 14:2, 20-21). ¿Qué principio ilustra el hecho de que ambas se cumplieran exactamente como fueron anunciadas?",
       "options": [
-        "Que Dios cumple Sus promesas en el tiempo que Él determina, con una precisión que se puede verificar",
-        "Que las profecías del Libro de Mormón normalmente no se cumplen con exactitud",
         "Que el paso del tiempo hace que las profecías pierdan su validez",
-        "Que Samuel modificó su profecía original para que coincidiera con los hechos"
+        "Que Samuel modificó su profecía original para que coincidiera con los hechos",
+        "Que Dios cumple Sus promesas en el tiempo que Él determina",
+        "Que las profecías del Libro de Mormón normalmente no se cumplen con exactitud"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Por qué termina Samuel su descripción de señales tan detalladas hablando del albedrío (Helamán 14:29-31), en lugar de simplemente afirmar que todos deberían creer?",
       "options": [
-        "Porque las señales, por más contundentes que sean, no eliminan la necesidad de que cada persona decida creer por su propia voluntad",
         "Porque Samuel dudaba de la validez de sus propias profecías",
         "Porque el albedrío solo se aplica a decisiones que no involucran ninguna evidencia visible",
-        "Porque Dios obliga a creer a quienes presencian una señal cumplida"
+        "Porque Dios obliga a creer a quienes presencian una señal cumplida",
+        "Porque las señales no reemplazan la decisión de cada persona"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Ana escuchó que alguien en su clase de Seminario dice que 'la fe en Cristo no tiene ninguna evidencia real detrás'. Según las señales detalladas y cumplidas que profetizó Samuel, ¿qué le podría responder?",
       "options": [
-        "Que tiene razón, la fe no necesita ningún tipo de evidencia",
-        "Que las Escrituras registran señales específicas, anunciadas con años de anticipación y cumplidas exactamente como se describieron, lo cual es un tipo de evidencia real, aunque la fe siga requiriendo una decisión personal",
+        "Que las Escrituras registran señales anunciadas y cumplidas",
         "Que solo los nefitas antiguos podían presenciar evidencias de este tipo",
-        "Que ese tema no tiene ninguna importancia real para la fe"
+        "Que ese tema no tiene ninguna importancia real para la fe",
+        "Que tiene razón, la fe no necesita ningún tipo de evidencia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Luca sabe que debería cambiar algo en su vida después de escuchar la pregunta del presidente Oaks sobre si el Señor viniera mañana, pero decide 'pensarlo después'. Según el principio del albedrío en Helamán 14:30-31, ¿qué le ayudaría a repensar su decisión?",
       "options": [
         "Que posponer una respuesta a una impresión espiritual no tiene ninguna consecuencia real",
-        "Que Dios le concedió la libertad de decidir precisamente para que actúe con esa libertad ahora, no para posponerla indefinidamente",
+        "Que Dios le dio libertad para que actúe ahora, no para posponer",
         "Que solo las personas que presenciaron las señales originales tienen la responsabilidad de actuar",
         "Que pensarlo después siempre es la decisión más sabia frente a una impresión espiritual"
       ],
@@ -119,12 +119,12 @@
       "id": 7,
       "question": "Tanto las señales cumplidas con precisión como la doctrina del albedrío que Samuel enseña en este mismo capítulo comparten un mismo principio sobre cómo actúa Dios con Sus hijos. ¿Cuál es?",
       "options": [
-        "Que Dios provee evidencia suficiente para creer, pero respeta la libertad de cada persona para decidir qué hacer con esa evidencia",
-        "Que las señales celestiales reemplazan por completo la necesidad del albedrío personal",
         "Que Dios obliga a creer a quienes presencian el cumplimiento de una profecía",
-        "Que el albedrío solo importa antes de que ocurra una señal, y deja de tener sentido después"
+        "Que el albedrío solo importa antes de que ocurra una señal, y deja de tener sentido después",
+        "Que Dios provee evidencia suficiente para creer, pero respeta la libertad de cada persona para decidir qué hacer con esa evidencia",
+        "Que las señales celestiales reemplazan por completo la necesidad del albedrío personal"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

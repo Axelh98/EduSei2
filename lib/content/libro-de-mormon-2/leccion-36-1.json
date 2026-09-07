@@ -17,6 +17,11 @@
           "referencia": "Mormón 7:9",
           "texto": "Porque he aquí, se escriben estos con el fin de que creáis en aquellos; y si creéis en aquellos, también creeréis en estos; y si creéis en estos, sabréis concerniente a vuestros padres, y también las obras maravillosas que se efectuaron entre ellos por el poder de Dios.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=spa&id=p9#p9"
+        },
+        {
+          "referencia": "Mormón 7:10",
+          "texto": "Y sabréis también que sois un resto de la descendencia de Jacob; por tanto, sois contados entre los del pueblo del primer convenio; y si es que creéis en Cristo, y sois bautizados, primero en el agua, y después con fuego y con el Espíritu Santo, siguiendo el ejemplo de nuestro Salvador, de conformidad con lo que él nos ha mandado, entonces os irá bien en el día del juicio.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=spa&id=p10#p10"
         }
       ]
     },
@@ -36,10 +41,10 @@
       "preguntas": [
         "¿Por qué es importante estudiar tanto el Libro de Mormón como la Biblia?",
         "¿Qué aprendés del enfoque de Mormón en testificar de Cristo, incluso después de ver la destrucción de todo su pueblo?",
-        "¿Cómo podés fortalecer tu propio testimonio en el Salvador leyendo el Libro de Mormón?",
+        "Volvé a leer Mormón 7:9. Mormón habla de dos registros y de una relación entre ellos: fijate cuál lleva a cuál, y por qué te parece que lo dice en las dos direcciones.",
         "¿Qué te parece la enseñanza del presidente Nelson de que 'Israel' significa 'que Dios prevalezca'?",
         "¿Hay alguna influencia en tu vida —presión social, miedo, comodidad— que está 'prevaleciendo' por encima de la voz de Dios ahora mismo?",
-        "¿Qué decisión concreta esta semana refleja que estás dejando que Dios prevalezca en tu vida?"
+        "Antes de decidir nada, meditá un minuto en qué voz está prevaleciendo hoy en esa área de tu vida. Anotá cuál es y cuál querrías que fuera."
       ]
     }
   ],
@@ -48,7 +53,7 @@
       "id": 1,
       "question": "¿A quiénes escribe Mormón en el capítulo 7?",
       "options": [
-        "A los nefitas",
+        "A los nefitas sobrevivientes de la batalla de Cumorah",
         "A los lamanitas del futuro",
         "A los gentiles",
         "A nadie"
@@ -59,34 +64,34 @@
       "id": 2,
       "question": "¿Qué invita Mormón a los lamanitas a hacer?",
       "options": [
+        "Ignorar el evangelio y seguir su propio camino",
         "Hacer guerra",
         "Creer en Cristo y arrepentirse",
-        "Buscar riquezas",
-        "Ignorar el evangelio"
+        "Buscar riquezas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "¿Qué testifica Mormón sobre Jesús?",
       "options": [
+        "Que es solo un hombre bueno, como cualquier otro profeta",
+        "Que es un mito",
         "Que no existe",
-        "Que es el Cristo, el Hijo del Dios viviente",
-        "Que es solo un hombre",
-        "Que es un mito"
+        "Que es el Cristo, el Hijo del Dios viviente"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Qué esperanza ofrece Mormón a los descendientes de Lehi?",
       "options": [
-        "Ninguna",
         "Que pueden venir a Cristo y ser salvos",
-        "Solo castigo",
-        "Destrucción"
+        "Solo castigo por lo que hicieron sus antepasados",
+        "Destrucción",
+        "Ninguna"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -94,7 +99,7 @@
       "options": [
         "Odio",
         "Su preocupación por las generaciones futuras",
-        "Indiferencia",
+        "Indiferencia hacia el destino de sus enemigos",
         "Venganza"
       ],
       "correctAnswer": 1
@@ -103,23 +108,23 @@
       "id": 6,
       "question": "Ana tiene un familiar que dejó de creer en Dios después de vivir situaciones muy difíciles, similar a cómo el pueblo de Mormón vivió destrucción y sufrimiento extremos. Según el ejemplo de Mormón de seguir testificando de Cristo pese a haber presenciado la destrucción total de su pueblo, ¿qué actitud podría inspirarla?",
       "options": [
+        "Que debería evitar el tema por completo para no incomodar a su familiar",
         "Que ya no tiene sentido intentar compartir testimonio con alguien que sufrió tanto",
         "Que, como Mormón, es posible seguir sosteniendo y compartiendo la fe en Cristo incluso después de presenciar sufrimiento y pérdida profundos",
-        "Que solo las personas que nunca sufrieron pueden tener un testimonio genuino",
-        "Que debería evitar el tema por completo para no incomodar a su familiar"
+        "Que solo las personas que nunca sufrieron pueden tener un testimonio genuino"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Tanto la invitación de Mormón a los descendientes de Lehi a reconocerse parte de la casa de Israel como la enseñanza del presidente Nelson sobre 'dejar que Dios prevalezca' comparten un mismo principio central. ¿Cuál es?",
       "options": [
-        "Que la identidad como pueblo de Dios implica una decisión activa de dar prioridad a Su voz e influencia por encima de cualquier otra en la propia vida",
         "Que pertenecer a la casa de Israel es únicamente un dato genealógico sin ninguna implicación práctica",
         "Que pertenecer a la casa de Israel garantiza automáticamente que Dios prevalezca en la vida de esa persona",
-        "Que 'dejar que Dios prevalezca' solo aplica a los descendientes literales de Lehi, no a otras personas"
+        "Que 'dejar que Dios prevalezca' solo aplica a los descendientes literales de Lehi, no a otras personas",
+        "Que la identidad como pueblo de Dios implica una decisión activa de dar prioridad a Su voz e influencia por encima de cualquier otra en la propia vida"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }

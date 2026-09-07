@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Este repaso vuelve sobre dos pasajes de dominio de la doctrina ya estudiados: Alma 39:9, donde Alma le pide a su hijo Coriantón que deje de excusarse y se arrepienta de verdad, y Alma 41:10, donde Alma le enseña a Coriantón que 'la maldad nunca fue felicidad'. Los dos versículos vienen del mismo consejo de un padre a un hijo, pero apuntan a dos preguntas distintas: qué hacer con un error ya cometido, y por qué vale la pena no repetirlo. Repasar no es solo memorizar de nuevo las palabras exactas; es preguntarte si podrías explicarle estos dos versículos a alguien que nunca los escuchó, usando tus propias palabras y un ejemplo real de tu vida."
+      "contenido": "Este repaso vuelve sobre dos pasajes de dominio de la doctrina ya estudiados: Alma 39:9, donde Alma le pide a su hijo Coriantón que deje de excusarse y se arrepienta de verdad, y Alma 41:10, donde le enseña que 'la maldad nunca fue felicidad'. Los dos versículos vienen del mismo consejo de un padre a un hijo, pero apuntan a dos preguntas distintas: qué hacer con un error ya cometido, y por qué vale la pena no repetirlo. Repasar no es solo memorizar de nuevo las palabras exactas; es preguntarte si podrías explicarle estos dos versículos a alguien que nunca los escuchó, usando tus propias palabras y un ejemplo real de tu vida. El manual dice para qué sirve todo este ejercicio, y conviene no perderlo de vista: el propósito del Dominio de la Doctrina es que conozcas la doctrina del Salvador y puedas explicarla con la claridad suficiente para que nadie la malinterprete. Estos dos versículos no son reglas sueltas de conducta. El primero manda a Coriantón a arrepentirse, y arrepentirse solo tiene sentido si hay Alguien que perdona: Alma se lo dice explícito unos versículos después, cuando le anuncia que Jesucristo vendría a quitar los pecados del mundo y a declarar las gratas nuevas de la salvación. El segundo dice que la maldad nunca fue felicidad, y la buena noticia que hay detrás es que la felicidad sí existe, y que es Su expiación la que la vuelve alcanzable para el que quiere volver. Explicá eso, y no solo la frase, y vas a estar explicando doctrina en vez de un eslogan."
     },
     {
       "tipo": "escrituras",
@@ -17,6 +17,11 @@
           "referencia": "Alma 41:10",
           "texto": "La maldad nunca fue felicidad.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Alma 39:15",
+          "texto": "Y ahora bien, hijo mío, quisiera decirte algo concerniente a la venida de Cristo. He aquí, te digo que él es el que ciertamente vendrá a quitar los pecados del mundo; sí, él viene para declarar a su pueblo las gratas nuevas de la salvación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=spa&id=p15#p15"
         }
       ]
     },
@@ -29,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Alma 39:9 y Alma 41:10 son, en el fondo, dos caras de la misma moneda: uno te muestra qué hacer cuando ya te equivocaste, el otro te recuerda por qué conviene no seguir por ese camino. Memorizarlos de nuevo esta semana no es repetir un ejercicio viejo, sino tener ambas herramientas listas para el momento exacto en que las necesites: cuando quieras excusarte en lugar de asumir un error, o cuando alguien te diga que 'total, no pasa nada'. Elegí uno de los dos versículos y practicalo en voz alta todos los días de esta semana hasta decirlo de memoria sin dudar."
+      "contenido": "Alma 39:9 y Alma 41:10 son, en el fondo, dos caras de la misma moneda: uno te muestra qué hacer cuando ya te equivocaste, el otro te recuerda por qué conviene no seguir por ese camino. Y los dos apuntan al mismo lugar: a Jesucristo, que es quien hace posible volver y quien hace posible la felicidad que la maldad nunca dio. Memorizarlos de nuevo esta semana no es repetir un ejercicio viejo, sino tener ambas herramientas listas para el momento exacto en que las necesites: cuando quieras excusarte, o cuando alguien te diga que 'total, no pasa nada'. Elegí uno de los dos y practicalo en voz alta todos los días hasta decirlo de memoria sin dudar."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "De estos dos versículos, ¿cuál tenías más fresco en la memoria antes de este repaso?",
         "¿Qué palabra de cada versículo te parece la más directa: 'comprométete' en Alma 39:9, o 'nunca' en Alma 41:10?",
-        "¿Alguna vez te costó reconocer un error en lugar de buscar una excusa?",
+        "Volvé a leer Alma 39:9 y contá cuántos verbos le da Alma a Coriantón en una sola oración. ¿Cuál de todos te parece el más difícil de sostener en el tiempo?",
         "¿Viste alguna vez a alguien parecer feliz haciendo algo que sabías que no estaba bien? ¿Qué pensaste en ese momento?",
         "Elegí uno de los dos versículos para memorizar esta semana. ¿Cuál elegís y por qué?",
-        "¿A quién le podrías compartir uno de estos versículos esta semana, y en qué situación te parece que le serviría?"
+        "Elegí uno de los dos versículos y orá esta semana pidiendo saber a quién le haría falta escucharlo. Anotá el nombre que te venga a la mente."
       ]
     }
   ],
@@ -48,78 +53,78 @@
       "id": 1,
       "question": "¿Qué le pide Alma a su hijo Coriantón que haga, además de arrepentirse, según la frase clave de Alma 39:9?",
       "options": [
-        "Que se abstenga de dejarse llevar por las concupiscencias de sus ojos",
-        "Que se aleje definitivamente de su familia",
         "Que renuncie a cualquier cargo de liderazgo",
-        "Que espere a ser mayor para arrepentirse"
+        "Que espere a ser mayor para arrepentirse",
+        "Que se abstenga de dejarse llevar por las concupiscencias de sus ojos",
+        "Que se aleje definitivamente de su familia"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Según la frase clave de Alma 41:10, ¿qué es lo que 'nunca fue felicidad'?",
       "options": [
-        "El estudio de las Escrituras",
-        "La maldad",
         "El trabajo arduo",
-        "La pobreza"
+        "La pobreza",
+        "El estudio de las Escrituras",
+        "La maldad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Alma 39:9 dice 'recuerda, y comprométete, y abstente de estas cosas'. ¿Qué enseña esa secuencia de tres verbos sobre el proceso de dejar atrás un pecado?",
       "options": [
-        "Que basta con sentir remordimiento, sin necesidad de ninguna acción concreta",
-        "Que el arrepentimiento requiere recordar el error, decidir un cambio real y después sostenerlo con acciones concretas",
+        "Que arrepentirse pide recordar, decidir y después sostenerlo",
         "Que alcanza con recordar el error, sin que haga falta ningún compromiso posterior",
-        "Que el orden de esos tres pasos no tiene ninguna importancia"
+        "Que el orden de esos tres pasos no tiene ninguna importancia",
+        "Que basta con sentir remordimiento, sin necesidad de ninguna acción concreta"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "Alma 41:10 también dice que la iniquidad queda 'amontonada' sobre la propia cabeza del que la comete. ¿Qué idea comparte esa imagen con el consejo de Alma 39:9 de no 'excusarse' por los pecados?",
       "options": [
-        "Que ambos versículos enseñan que las consecuencias vienen de las propias decisiones, no de una excusa externa ni de un castigo arbitrario",
+        "Que los dos versículos contradicen la idea de que las decisiones tienen consecuencias",
+        "Que las consecuencias vienen de las propias decisiones",
         "Que ninguno de los dos versículos tiene relación con la responsabilidad personal",
-        "Que solo Alma 39:9 habla de consecuencias, mientras que Alma 41:10 habla únicamente de reglas sociales",
-        "Que los dos versículos contradicen la idea de que las decisiones tienen consecuencias"
+        "Que solo Alma 39:9 habla de consecuencias, mientras que Alma 41:10 habla únicamente de reglas sociales"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "Joaquín hizo trampa en un examen y ahora piensa 'ya está hecho, no tiene sentido decir nada'. Según Alma 39:9, ¿qué le ayudaría a entender?",
       "options": [
+        "Que basta con sentirse mal un rato para que el asunto quede resuelto",
         "Que efectivamente ya no hay nada que hacer una vez cometido el error",
-        "Que Alma invita justamente a lo contrario: recordar el error, comprometerse a cambiar y abstenerse de repetirlo, en cualquier momento",
-        "Que solo vale la pena arrepentirse de errores muy graves",
-        "Que basta con sentirse mal un rato para que el asunto quede resuelto"
+        "Que Alma invita a recordar, comprometerse y abstenerse",
+        "Que solo vale la pena arrepentirse de errores muy graves"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Camila ve en redes sociales a alguien que parece muy feliz llevando un estilo de vida que ella sabe que no está bien, y empieza a dudar de si vale la pena seguir sus propios estándares. Según Alma 41:10, ¿qué le ayudaría a responder esa duda?",
       "options": [
-        "Que debería copiar ese estilo de vida sin cuestionarlo",
-        "Que la apariencia externa de felicidad en redes sociales no siempre refleja la paz interior duradera de la que habla Alma",
         "Que Alma se equivocó en este punto de su enseñanza",
-        "Que lo que se ve en redes sociales siempre refleja con precisión la felicidad real de una persona"
+        "Que lo que se ve en redes sociales siempre refleja con precisión la felicidad real de una persona",
+        "Que debería copiar ese estilo de vida sin cuestionarlo",
+        "Que la imagen de las redes rara vez muestra la parte difícil"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Alma 39:9 y Alma 41:10 vienen del mismo consejo de un padre a su hijo. ¿Cuál es el principio común que une a ambos versículos?",
       "options": [
-        "Que el pasado no se puede cambiar, así que no vale la pena esforzarse",
         "Que enfrentar el pecado con honestidad y abandonarlo de verdad es el único camino hacia la felicidad duradera",
         "Que la felicidad y el arrepentimiento son dos temas completamente sin relación entre sí",
-        "Que solo los líderes religiosos necesitan aplicar estos principios"
+        "Que solo los líderes religiosos necesitan aplicar estos principios",
+        "Que el pasado no se puede cambiar, así que no vale la pena esforzarse"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

@@ -15,7 +15,7 @@
         },
         {
           "referencia": "Alma 37:44–46",
-          "texto": "Pues he aquí, tan fácil es prestar atención a la palabra de Cristo, que te indicará un curso directo a la felicidad eterna, como lo fue para nuestros padres prestar atención a esta brújula que les señalaba un curso directo a la tierra prometida. Y ahora digo: ¿No se ve en esto un símbolo? Porque tan cierto como este director trajo a nuestros padres a la tierra prometida por haber seguido sus indicaciones, así las palabras de Cristo, si seguimos su curso, nos llevan más allá de este valle de dolor a una tierra de promisión mucho mejor. Oh hijo mío, no seamos perezosos por la facilidad que presenta la senda ; porque así sucedió con nuestros padres; pues así les fue dispuesto, para que viviesen si miraban; así también es con nosotros. La vía está preparada, y si queremos mirar, podremos vivir para siempre.",
+          "texto": "Pues he aquí, tan fácil es prestar atención a la palabra de Cristo, que te indicará un curso directo a la felicidad eterna, como lo fue para nuestros padres prestar atención a esta brújula que les señalaba un curso directo a la tierra prometida. Y ahora digo: ¿No se ve en esto un símbolo? Porque tan cierto como este director trajo a nuestros padres a la tierra prometida por haber seguido sus indicaciones, así las palabras de Cristo, si seguimos su curso, nos llevan más allá de este valle de dolor a una tierra de promisión mucho mejor. Oh hijo mío, no seamos perezosos por la facilidad que presenta la senda; porque así sucedió con nuestros padres; pues así les fue dispuesto, para que viviesen si miraban; así también es con nosotros. La vía está preparada, y si queremos mirar, podremos vivir para siempre.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa&id=p44-p46#p44"
         },
         {
@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Alma le enseña a Helamán que Dios usa medios pequeños y sencillos —una brújula, un hábito diario, un versículo leído antes de dormir— para producir grandes cambios. La Liahona solo funcionaba cuando la familia de Lehi ejercía fe y prestaba atención; de la misma forma, las palabras de Cristo guían con claridad a quien realmente las sigue. No hace falta un milagro espectacular para avanzar espiritualmente. Elegí, esta semana, un hábito pequeño y sostenible —leer un versículo, orar dos minutos más, apagar el celular antes de dormir para leer Escrituras— y probá sostenerlo los siete días, prestando atención a cómo te guía."
+      "contenido": "Alma le enseña a Helamán que Dios usa medios pequeños y sencillos —una brújula, un hábito diario, un versículo leído antes de dormir— para producir grandes cambios. La Liahona solo funcionaba cuando la familia de Lehi ejercía fe y prestaba atención; de la misma forma, las palabras de Cristo guían con claridad a quien realmente las sigue. Y Alma dice para qué son las Escrituras: para llevarte al conocimiento del Señor y hacerte regocijar en Jesucristo, es decir, para hacerte venir a Él un poco cada día. Elegí esta semana un hábito pequeño y sostenible y probá sostenerlo los siete días, prestando atención a cómo te guía."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Conocías la historia de la Liahona antes de esta lección? ¿Qué sabías de ella?",
         "¿Qué 'cosa pequeña y sencilla' te llamó la atención de este capítulo?",
-        "¿De qué manera las palabras de Cristo te están guiando actualmente según la analogía de la Liahona?",
+        "Volvé a leer Alma 37:44–46. Alma dice que prestar atención a la palabra de Cristo es 'tan fácil' como otra cosa: fijate cuál, y qué agrega después sobre por qué igual la gente no lo hace.",
         "¿Qué registros personales (diario, fotos, notas) sentís que vale la pena mantener?",
         "¿Qué hábito pequeño vas a sostener esta semana, todos los días, sin faltar?",
-        "¿En qué momento del día vas a apartar esos minutos para ese hábito?"
+        "Antes de arrancar ese hábito, orá pidiendo que Dios te muestre qué necesitás ver esta semana en las Escrituras, y anotá lo que encuentres el primer día."
       ]
     }
   ],
@@ -53,12 +53,12 @@
       "id": 1,
       "question": "¿Qué le encarga Alma a Helamán que preserve con sumo cuidado en este capítulo?",
       "options": [
-        "Los registros sagrados: las planchas de bronce y las planchas de Nefi",
-        "Las armaduras de guerra",
         "La casa familiar en Zarahemla",
-        "El oro y la plata de la familia"
+        "El oro y la plata de la familia",
+        "Los registros sagrados: las planchas de bronce y las planchas de Nefi",
+        "Las armaduras de guerra"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
@@ -75,12 +75,12 @@
       "id": 3,
       "question": "Alma explica que la Liahona funcionaba 'según la fe' de quienes la usaban, y dejaba de funcionar cuando eran negligentes (Alma 37:40–41). ¿Con qué la compara directamente en el versículo 44?",
       "options": [
-        "Con un mapa dibujado por Nefi",
-        "Con las palabras de Cristo, que igual que la Liahona señalan un curso claro hacia la vida eterna si se les presta atención",
-        "Con las armas de guerra de los nefitas",
-        "Con las leyes civiles del rey Mosíah"
+        "Con las palabras de Cristo, que señalan el rumbo si se las mira",
+        "Con las armas de guerra de los nefitas, que había que mantener afiladas",
+        "Con las leyes civiles del rey Mosíah",
+        "Con un mapa dibujado por Nefi"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -97,29 +97,29 @@
       "id": 5,
       "question": "Camila siente que leer un capítulo corto de Escrituras cada noche 'no cambia nada' comparado con hacer algo más grande por su fe. Según el principio de los medios pequeños y sencillos (Alma 37:6–7), ¿qué le dirías?",
       "options": [
-        "Que precisamente esos hábitos pequeños y constantes son el medio que Dios usa para producir grandes cambios espirituales con el tiempo",
-        "Que leer poco cada noche es peor que no leer nada",
         "Que solo los adultos necesitan ese tipo de hábitos diarios",
-        "Que tiene razón, y que debería buscar algo más llamativo para fortalecer su fe"
+        "Que tiene razón, y que debería buscar algo más llamativo para fortalecer su fe",
+        "Que los hábitos pequeños y constantes son el medio que Dios usa",
+        "Que leer poco cada noche es peor que no leer nada"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Luca dejó de leer las Escrituras 'por un tiempo' y siente que perdió el rumbo en su vida, algo parecido a lo que le pasó a la familia de Lehi con la Liahona (Alma 37:40–41). ¿Qué le ayudaría a entender este capítulo?",
       "options": [
+        "Que una vez perdido el rumbo espiritual, ya no se puede recuperar",
         "Que la Liahona funcionaba de forma automática, sin importar la actitud de quienes la usaban",
         "Que la Liahona dejó de funcionar por un desperfecto técnico, sin relación con la fe de la familia",
-        "Que así como la Liahona dejaba de funcionar cuando eran negligentes, prestar atención a las palabras de Cristo requiere fe y diligencia constantes, no ocasionales",
-        "Que una vez perdido el rumbo espiritual, ya no se puede recuperar"
+        "Que prestar atención a Su palabra pide fe y diligencia constantes"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto la Liahona como los 'medios pequeños y sencillos' enseñan algo común sobre la forma en que actúa Dios. ¿Cuál es ese principio?",
       "options": [
-        "Que Dios usa medios sencillos y accesibles —una brújula, un hábito diario— para guiar y producir resultados grandes en la vida de quienes ejercen fe",
+        "Que Dios usa medios sencillos para producir resultados grandes",
         "Que Dios prefiere no intervenir en los asuntos cotidianos de las personas",
         "Que solo los objetos sagrados antiguos tienen poder real",
         "Que la fe y la diligencia no influyen en los resultados que Dios produce"

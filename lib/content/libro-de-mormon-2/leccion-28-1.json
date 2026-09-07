@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Qué te pareció la valentía de Samuel al subirse al muro para predicar, sabiendo que no lo iban a recibir bien?",
         "Si tuvieras que resumir en una palabra el mensaje de Samuel, ¿cuál sería: advertencia, misericordia, o arrepentimiento?",
-        "¿Alguna vez alguien te dijo algo incómodo pero que, con el tiempo, entendiste que venía de un cuidado genuino por vos?",
+        "Volvé a leer Helamán 13:17. Es un versículo corto en medio de una advertencia larga: fijate qué promete exactamente y bajo qué condición lo promete.",
         "¿Qué te parece la promesa del élder Andersen de que, si te preparás, van a llegarte pensamientos 'personalizados especialmente' para vos?",
         "¿Hay algún mensaje reciente de un líder de la Iglesia que te haya costado escuchar? ¿Qué vas a hacer esta semana con eso?",
-        "Pensando en cómo el Espíritu protegió a Samuel mientras cumplía su misión, ¿en qué área de tu vida necesitás esa misma protección esta semana?"
+        "Llevá esa área a la oración esta semana y nombrala en voz alta, sin adornarla. Anotá qué idea te llega en los días siguientes."
       ]
     }
   ],
@@ -53,78 +53,78 @@
       "id": 1,
       "question": "¿Quién fue Samuel el Lamanita y qué lo distingue de otros profetas de este momento del Libro de Mormón?",
       "options": [
+        "Un comerciante lamanita que viajaba entre las ciudades",
         "Un rey nefita que gobernaba desde Zarahemla",
         "Un profeta lamanita enviado a predicar el arrepentimiento a los nefitas",
-        "Un guerrero nefita reconocido por sus hazañas militares",
-        "Un comerciante lamanita que viajaba entre las ciudades"
+        "Un guerrero nefita reconocido por sus hazañas militares"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Qué ocurrió cuando el pueblo le arrojó piedras y flechas a Samuel mientras predicaba desde el muro?",
       "options": [
-        "Lo hirieron levemente, pero siguió predicando",
-        "El Espíritu del Señor lo protegió y ninguna lo alcanzó",
         "Samuel bajó del muro y dejó de predicar",
-        "Los guardias de la ciudad intervinieron para defenderlo"
+        "Los guardias de la ciudad intervinieron para defenderlo",
+        "Lo hirieron levemente, pero siguió predicando",
+        "El Espíritu del Señor lo protegió y ninguna lo alcanzó"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Samuel declara que 'nada puede salvar a los de este pueblo sino el arrepentimiento y la fe' (Helamán 13:6), pero también promete que 'si os arrepentís, todo esto os será devuelto' (13:17). ¿Qué relación establecen estos dos versículos entre la advertencia y la misericordia?",
       "options": [
-        "Que la advertencia de Samuel no dejaba ningún espacio real para el arrepentimiento",
-        "Que la advertencia severa y la promesa de misericordia son partes de un mismo mensaje: Dios advierte precisamente porque quiere que Su pueblo se salve",
+        "Que la advertencia y la promesa son partes del mismo mensaje",
         "Que la misericordia solo aplicaba a quienes nunca habían pecado",
-        "Que la promesa de misericordia solo aplica después de que se cumpla completamente el castigo anunciado"
+        "Que la promesa de misericordia solo aplica después de que se cumpla completamente el castigo anunciado",
+        "Que la advertencia de Samuel no dejaba ningún espacio real para el arrepentimiento"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "Después de ver que las piedras y flechas no podían herir a Samuel, el texto dice que 'muchos más creyeron en sus palabras' (Helamán 16:3). ¿Qué principio ilustra esta reacción del pueblo?",
       "options": [
+        "Que todos los que vieron el milagro se convirtieron de inmediato, sin excepción",
         "Que la evidencia de la protección divina llevó a algunos a reconsiderar su incredulidad y actuar en consecuencia",
         "Que el pueblo solo creía en milagros, sin importarle el contenido del mensaje",
-        "Que la protección de Samuel no tuvo ningún efecto en la fe de quienes la presenciaron",
-        "Que todos los que vieron el milagro se convirtieron de inmediato, sin excepción"
+        "Que la protección de Samuel no tuvo ningún efecto en la fe de quienes la presenciaron"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "Lucía escuchó un consejo de un líder de la Iglesia que le resultó difícil de aceptar, y por eso decidió ignorarlo. Según el ejemplo de cómo el pueblo respondió a Samuel, ¿qué principio le ayudaría a repensar su reacción?",
       "options": [
-        "Que un mensaje incómodo de un siervo del Señor puede venir precisamente de un cuidado genuino, y merece consideración en lugar de rechazo automático",
-        "Que solo los mensajes agradables pueden venir realmente de Dios",
         "Que ignorar un consejo incómodo nunca tiene ninguna consecuencia",
-        "Que un profeta actual solo merece ser escuchado si su consejo resulta cómodo de seguir"
+        "Que un profeta actual solo merece ser escuchado si su consejo resulta cómodo de seguir",
+        "Que un mensaje incómodo puede venir de un cuidado genuino",
+        "Que solo los mensajes agradables pueden venir realmente de Dios"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Joaquín sintió una impresión durante una charla de Seminario, pero no la relacionó con nada personal y siguió como si nada hubiera pasado. Según la enseñanza del élder Andersen de que llegan 'pensamientos personalizados' cuando nos preparamos, ¿qué le ayudaría a Joaquín?",
       "options": [
-        "Concluir que si la impresión no se repite varias veces, no vale la pena prestarle atención",
-        "Prepararse espiritualmente de antemano y prestar atención activa a los pensamientos que le llegan durante esos momentos, en vez de dejarlos pasar sin más",
         "Esperar a que la impresión se repita varias veces antes de considerarla válida",
-        "Pensar que solo los líderes de la Iglesia reciben ese tipo de pensamientos personalizados"
+        "Pensar que solo los líderes de la Iglesia reciben ese tipo de pensamientos personalizados",
+        "Concluir que si la impresión no se repite varias veces, no vale la pena prestarle atención",
+        "Prepararse antes y prestar atención a lo que le llega"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto la protección física que Samuel recibió sobre el muro como la promesa de que el arrepentimiento le devolvería al pueblo lo que había perdido, comparten un mismo principio sobre cómo actúa Dios a través de Sus profetas. ¿Cuál es?",
       "options": [
-        "Que los profetas están exentos de cualquier tipo de dificultad o rechazo mientras cumplen su misión",
-        "Que Dios respalda a Sus siervos y ofrece misericordia real a quienes responden con fe, aunque el mensaje inicial sea de advertencia",
+        "Que Dios respalda a Sus siervos y ofrece misericordia real",
         "Que la advertencia profética siempre termina en destrucción, sin espacio para el cambio",
-        "Que la protección divina depende exclusivamente de la valentía personal del profeta"
+        "Que la protección divina depende exclusivamente de la valentía personal del profeta",
+        "Que los profetas están exentos de cualquier tipo de dificultad o rechazo mientras cumplen su misión"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

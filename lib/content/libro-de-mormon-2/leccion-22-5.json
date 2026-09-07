@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Alma cierra el consejo a Helamán con una línea corta: 'aprende en tu juventud a guardar los mandamientos de Dios'. No dice que la juventud sea el único momento posible. Dice que es cuando se forman los patrones, y que es más fácil crecer derecho que enderezarse después. Después llama a Shiblón, y el tono cambia por completo. Con Shiblón no hay corrección: hay gratitud. Alma le dice que se goza por su firmeza y su paciencia, y le recuerda que él también fue sostenido por Dios cuando lo apedrearon y lo ataron entre los zoramitas. Es el hijo que estuvo bien, y Alma se toma el trabajo de decírselo. Pero igual le da un consejo, y es el que más cuesta: 'refrena todas tus pasiones, para que estés lleno de amor'. Fijate cómo está armada esa frase. No dice que te refrenes para portarte bien, ni para no meterte en problemas. Dice que refrenarse es lo que deja lugar para el amor. El autocontrol, acá, no es una jaula. Es lo que te permite querer a alguien de verdad, en vez de usarlo para sentirte bien un rato."
+      "contenido": "Alma cierra el consejo a Helamán con una línea corta: 'aprende en tu juventud a guardar los mandamientos de Dios'. No dice que la juventud sea el único momento posible. Dice que es cuando se forman los patrones, y que es más fácil crecer derecho que enderezarse después. Después llama a Shiblón, y el tono cambia por completo. Con Shiblón no hay corrección: hay gratitud. Alma le dice que se goza por su firmeza y su paciencia, y le recuerda que él también fue sostenido por Dios cuando lo apedrearon y lo ataron entre los zoramitas. Es el hijo que estuvo bien, y Alma se toma el trabajo de decírselo. Pero igual le da un consejo, y es el que más cuesta: 'refrena todas tus pasiones, para que estés lleno de amor'. Fijate cómo está armada esa frase. No dice que te refrenes para portarte bien, ni para no meterte en problemas. Dice que refrenarse es lo que deja lugar para el amor. Y antes de pedírselo, Alma le recuerda de dónde salió la fuerza que ya usó: 'en proporción a tu confianza en Dios, serás librado de tus tribulaciones' (Alma 38:5). El manual del maestro lo dice sin vueltas: padre e hijo habían experimentado Su poder para librar. Por eso el autocontrol, acá, no es una jaula ni un apretar los dientes. Es lo que te permite querer a alguien de verdad, y lo sostiene Jesucristo, que ya libró a los dos y sigue haciendo lo mismo con vos."
     },
     {
       "tipo": "escrituras",
@@ -12,6 +12,11 @@
           "referencia": "Alma 38:10-11",
           "texto": "Y así como has empezado a enseñar la palabra, así quisiera yo que continuases enseñando; y quisiera que fueses diligente y moderado en todas las cosas. Procura no ensalzarte en el orgullo; sí, procura no jactarte de tu propia sabiduría, ni de tu mucha fuerza.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/38?lang=spa&id=p10-p11#p10"
+        },
+        {
+          "referencia": "Alma 38:5",
+          "texto": "Y ahora bien, hijo mío, Shiblón, quisiera que recordaras que en proporción a tu confianza en Dios, serás librado de tus tribulaciones, y tus dificultades, y tus aflicciones, y serás enaltecido en el postrer día.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/38?lang=spa&id=p5#p5"
         },
         {
           "referencia": "Alma 37:47",
@@ -34,14 +39,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Alma le dice a Shiblón algo que vale para cualquiera: refrenar las pasiones no es reprimirse por reprimirse, es lo que permite estar 'lleno de amor' de verdad. También le pide no jactarse de su sabiduría ni de su fuerza, y tener paciencia frente a las aflicciones. Son consejos de un padre que confía en su hijo, no una lista de prohibiciones. La humildad y el dominio propio no te hacen menos fuerte: te hacen más capaz de amar y de servir bien a otros. Elegí, como desafío de esta semana, una situación donde normalmente reaccionás por impulso —una discusión, un comentario que te molesta— y practicá responder con paciencia en vez de con la primera reacción."
+      "contenido": "Alma le dice a Shiblón algo que vale para cualquiera: refrenar las pasiones no es reprimirse por reprimirse, es lo que permite estar 'lleno de amor' de verdad. También le pide no jactarse de su sabiduría ni de su fuerza, y tener paciencia frente a las aflicciones. Son consejos de un padre que confía en su hijo, no una lista de prohibiciones. Pero Alma no le pide fuerza de voluntad: le recuerda que fue librado en proporción a su confianza en Dios, porque el poder que sostiene no era suyo. Jesucristo es quien libra, y Su promesa sigue en pie para vos. Elegí, como desafío de esta semana, una situación donde normalmente reaccionás por impulso y practicá responder con paciencia, pidiéndole a Él la fuerza que sola no te alcanza."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Con cuál de los dos hijos de Alma en este capítulo te identificás más?",
         "¿Qué consejo de Alma a Shiblón te parece el más práctico para tu vida ahora?",
-        "¿Qué significa para vos 'refrenar tus pasiones'? ¿Cómo se vería eso en tu día a día?",
+        "Volvé a leer Alma 38:12. Alma dice para qué hay que refrenar las pasiones. ¿Cuál es el motivo que da el versículo, y en qué se diferencia del que vos hubieras puesto?",
         "¿De qué manera podrías evitar jactarte de tus logros o conocimientos al compartir el evangelio con otros?",
         "¿En qué situación concreta de esta semana vas a practicar responder con paciencia en vez de con tu primer impulso?",
         "Si escribieras una carta corta de consejo a alguien cercano, ¿qué principio de este capítulo le compartirías, y cuándo se la darías?"
@@ -64,12 +69,12 @@
       "id": 2,
       "question": "¿Qué le aconseja Alma a Shiblón sobre cómo enfrentar las aflicciones?",
       "options": [
-        "Que resuelva sus problemas únicamente con su propia sabiduría",
-        "Que espere a que desaparezcan solas",
         "Que evite hablar de ellas con cualquier persona",
-        "Que confíe en el Señor en todas sus aflicciones"
+        "Que confíe en el Señor en todas sus aflicciones",
+        "Que resuelva sus problemas únicamente con su propia sabiduría",
+        "Que espere a que desaparezcan solas"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 3,
@@ -77,7 +82,7 @@
       "options": [
         "Porque Alma consideraba que el amor y el autocontrol eran temas completamente distintos",
         "Porque solo los misioneros necesitan practicar el dominio propio",
-        "Porque una persona dominada por sus pasiones difícilmente puede enseñar con paciencia y mansedumbre; el dominio propio es condición para servir bien a los demás",
+        "Porque quien está dominado por sus pasiones no puede enseñar con mansedumbre",
         "Porque Alma pensaba que el dominio propio era un tema solo para los líderes, no para los misioneros jóvenes"
       ],
       "correctAnswer": 2
@@ -86,45 +91,45 @@
       "id": 4,
       "question": "Alma advierte a Shiblón que no se jacte de su propia sabiduría ni de su fuerza (Alma 38:11). ¿Qué peligro específico busca prevenir con este consejo?",
       "options": [
-        "Que el orgullo por sus propios logros o dones lo lleve a depender menos de Dios y más de sí mismo",
         "Que otros jóvenes dejen de admirarlo",
         "Que Shiblón pierda interés en seguir sirviendo en la Iglesia",
-        "Que Shiblón deje de esforzarse por completo en su vida espiritual"
+        "Que Shiblón deje de esforzarse por completo en su vida espiritual",
+        "Que el orgullo por sus logros lo lleve a depender menos de Dios"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Sofía es muy responsable, y varios adultos la elogian seguido por eso; empieza a sentirse un poco superior a sus compañeros menos comprometidos. Según el consejo de Alma a Shiblón, ¿qué le dirías?",
       "options": [
-        "Que tiene razón en sentirse superior, ya que se esfuerza más que los demás",
-        "Que, igual que a Shiblón, se le anima a no jactarse ni sentirse superior por sus virtudes, sino a mantenerse humilde y servir con amor",
+        "Que no se jacte por sus virtudes, sino que sirva con humildad",
         "Que debería dejar de esforzarse para no destacar tanto",
-        "Que los elogios de los adultos son la mejor medida de su valor espiritual"
+        "Que los elogios de los adultos son la mejor medida de su valor espiritual",
+        "Que tiene razón en sentirse superior, ya que se esfuerza más que los demás"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "A Mateo lo molestan por ser miembro de la Iglesia, y su primer impulso es responder con la misma agresividad. Según Alma 38:14, ¿qué principio le ayudaría a manejar la situación?",
       "options": [
-        "Que Alma enseña que responder con la misma dureza es la única forma de defenderse",
         "Que el tema de la paciencia no aparece en este capítulo",
         "Que Alma aconseja no vengar los insultos, sino tener paciencia y evitar devolver mal por mal",
-        "Que Alma recomienda ignorar por completo a quienes lo molestan, sin ninguna paciencia real"
+        "Que Alma recomienda ignorar por completo a quienes lo molestan, sin ninguna paciencia real",
+        "Que Alma enseña que responder con la misma dureza es la única forma de defenderse"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "Tanto el consejo de confiar en Dios en las aflicciones como el de refrenar las pasiones apuntan a un mismo tipo de fortaleza que Alma quiere que Shiblón desarrolle. ¿Cuál es?",
       "options": [
-        "Una fortaleza que depende de evitar cualquier tipo de dificultad",
         "Una fortaleza que solo se logra alejándose de los demás",
         "Una fortaleza basada exclusivamente en la resistencia física",
-        "Una fortaleza interior basada en la humildad y el dominio propio, no en la fuerza ni en el orgullo"
+        "Una fortaleza interior hecha de humildad y dominio propio",
+        "Una fortaleza que depende de evitar cualquier tipo de dificultad"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

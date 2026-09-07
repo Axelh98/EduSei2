@@ -17,6 +17,11 @@
           "referencia": "Helamán 5:12",
           "texto": "Es sobre la roca de nuestro Redentor, el cual es Cristo, que debéis establecer vuestro fundamento.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
+        },
+        {
+          "referencia": "3 Nefi 14:24–25",
+          "texto": "Por tanto, cualquiera que oye estas palabras mías, y las hace, lo compararé a un hombre prudente que edificó su casa sobre una roca; y descendió la lluvia, y vinieron los torrentes, y soplaron los vientos, y dieron con ímpetu contra aquella casa; y no cayó, porque estaba fundada sobre una roca.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=spa&id=p24-p25#p24"
         }
       ]
     },
@@ -29,7 +34,7 @@
       "preguntas": [
         "¿Ya te sabías de memoria, aunque sea en parte, Helamán 5:12? ¿Qué palabra se te hace más difícil de recordar?",
         "Si tuvieras que dibujar 'la roca de Cristo' como una imagen, ¿qué dibujarías?",
-        "¿En qué área de tu vida sentís que tu fundamento en Cristo es más firme? ¿Y en cuál es más débil?",
+        "Volvé a leer Helamán 5:12 entero, no solo la frase clave. Contá cuántas cosas dice Helamán que el diablo va a mandar, y fijate qué es exactamente lo que promete que NO va a poder hacer.",
         "¿Qué 'vientos' o 'tempestades' —tentaciones, dudas, presiones— sentís que estás enfrentando ahora mismo?",
         "Elegí memorizar Helamán 5:12 esta semana. ¿Qué método vas a usar: repetirlo en voz alta, escribirlo, ponerlo de fondo de pantalla?",
         "Pensá en una conversación real donde podrías usar este versículo para explicar por qué tu fe te sostiene. ¿Con quién sería?"
@@ -41,34 +46,34 @@
       "id": 1,
       "question": "Según Helamán 5:12, ¿sobre qué debemos edificar el fundamento de nuestra vida?",
       "options": [
-        "Sobre el conocimiento y la sabiduría personal que cada uno acumula con los años",
         "Sobre la roca de nuestro Redentor, que es Cristo",
         "Sobre las riquezas y posesiones materiales que se puedan conseguir",
-        "Sobre la aprobación y opinión de las demás personas"
+        "Sobre la aprobación y opinión de las demás personas",
+        "Sobre el conocimiento y la sabiduría personal que cada uno acumula con los años"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "Según Helamán 5:12, ¿qué promete el Señor a quienes edifiquen su fundamento sobre la roca de Cristo?",
       "options": [
-        "Que nunca más van a enfrentar ninguna dificultad en la vida",
         "Que van a recibir riquezas materiales de manera inmediata",
         "Que el diablo no tendrá poder para arrastrarlos al abismo de miseria e infelicidad sempiterna",
-        "Que serán reconocidos públicamente por su fe"
+        "Que serán reconocidos públicamente por su fe",
+        "Que nunca más van a enfrentar ninguna dificultad en la vida"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 3,
       "question": "El versículo menciona 'vientos', 'granizo' y 'torbellino' que azotan la casa edificada sobre la roca (Helamán 5:12). ¿A qué se refieren esas imágenes en la vida real?",
       "options": [
-        "A los ataques del diablo mediante la tentación, la duda y las dificultades de la vida",
-        "Únicamente a desastres naturales literales, sin ningún significado espiritual",
         "A las bendiciones que Dios envía a quienes son obedientes",
-        "A los castigos que reciben quienes no asisten regularmente a la iglesia"
+        "A los castigos que reciben quienes no asisten regularmente a la iglesia",
+        "A los ataques del diablo mediante la tentación, la duda y las dificultades de la vida",
+        "Únicamente a desastres naturales literales, sin ningún significado espiritual"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
@@ -77,7 +82,7 @@
         "Que recordar el nombre de un antepasado alcanza por sí solo, sin necesidad de conocer sus obras",
         "Que cambiar de nombre es la única forma de honrar a los antepasados",
         "Que solo los profetas antiguos merecen ser recordados por sus descendientes",
-        "Que recordar de manera intencional el ejemplo de quienes nos precedieron en la fe puede fortalecer nuestras propias decisiones"
+        "Que recordar el ejemplo de quienes nos precedieron fortalece"
       ],
       "correctAnswer": 3
     },
@@ -85,34 +90,34 @@
       "id": 5,
       "question": "Lucía descubrió un video que pone en duda parte de la historia de la Iglesia, y siente que su fe se tambalea. Según Helamán 5:12, ¿qué le ayudaría más en este momento?",
       "options": [
+        "Fortalecer su fundamento en Cristo mismo, no solo en datos",
+        "Esperar a que otra persona resuelva sus dudas por ella",
         "Dejar de investigar sobre el tema y evitar cualquier duda para siempre",
-        "Aceptar que su fe nunca podrá ser realmente firme",
-        "Fortalecer su fundamento en Cristo mismo —a través de la oración, el estudio y la fe en Su expiación— en lugar de depender solo de certezas históricas",
-        "Esperar a que otra persona resuelva sus dudas por ella"
+        "Aceptar que su fe nunca podrá ser realmente firme"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Benjamín tiene ganas de dejar de ir al Seminario porque un compañero se burló de su fe frente a otros. Según la imagen de Helamán 5:12 de una casa que resiste el viento y el granizo porque está sobre la roca, ¿qué principio le ayudaría?",
       "options": [
-        "Que su fundamento en Cristo puede sostenerlo incluso frente a la burla, si sigue construyéndolo con constancia en lugar de abandonarlo ante la primera tormenta",
+        "Que solo las personas sin ninguna duda pueden resistir ese tipo de comentarios",
+        "Que su fundamento puede sostenerlo si sigue construyéndolo",
         "Que debería dejar de asistir al Seminario para evitar cualquier burla futura",
-        "Que la burla de un compañero significa que su fe nunca fue real",
-        "Que solo las personas sin ninguna duda pueden resistir ese tipo de comentarios"
+        "Que la burla de un compañero significa que su fe nunca fue real"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "Tanto el nombre que Helamán les dio a sus hijos en memoria de sus antepasados como la imagen de edificar sobre la roca de Cristo enseñan algo en común sobre la fe. ¿Cuál es?",
       "options": [
-        "Que la fe depende únicamente de tener un nombre significativo",
         "Que recordar el pasado espiritual de la familia reemplaza la necesidad de un fundamento personal en Cristo",
         "Que solo las personas con antepasados fieles pueden edificar sobre la roca",
-        "Que la fe se fortalece recordando el ejemplo de quienes nos precedieron, pero se sostiene únicamente cuando la edificamos, cada uno por su cuenta, sobre Cristo"
+        "Que el ejemplo ajeno ayuda, pero cada uno edifica sobre Cristo",
+        "Que la fe depende únicamente de tener un nombre significativo"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

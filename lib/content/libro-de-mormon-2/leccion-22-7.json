@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Qué fue lo que más te llamó la atención del tono que usa Alma con Coriantón?",
         "¿Te sorprendió que Alma, siendo tan firme, también le ofreciera una segunda oportunidad a su hijo?",
-        "¿Qué te enseña este capítulo sobre el equilibrio entre reconocer la gravedad de un error y confiar en la misericordia?",
+        "Volvé a leer Alma 39:5. Alma ubica el pecado de Coriantón dentro de un orden: fijate qué dos cosas nombra como todavía más graves, y qué te dice ese orden sobre cómo mira Dios estas cosas.",
         "¿Cómo podrías ayudar a un amigo que cometió un error grave, sin minimizarlo pero tampoco sin quitarle la esperanza?",
         "¿Hay algo que estés ocultando por vergüenza y que podrías empezar a hablar esta semana con alguien de confianza?",
-        "¿Qué palabra o gesto concreto podrías ofrecerle esta semana a alguien que sabés que está pasando por un error, para que no se sienta solo?"
+        "Pensá en esa persona y orá por ella esta semana antes de decirle nada. Anotá qué palabra o gesto te viene a la mente para ofrecerle."
       ]
     }
   ],
@@ -53,41 +53,41 @@
       "id": 1,
       "question": "¿A quién reprende Alma con firmeza en este capítulo?",
       "options": [
-        "A Coriantón",
-        "A los zoramitas",
         "A Helamán",
-        "A Shiblón"
+        "A Shiblón",
+        "A Coriantón",
+        "A los zoramitas"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Qué pecado había cometido Coriantón mientras servía como misionero entre los zoramitas?",
       "options": [
+        "Mentira ante los jueces",
         "Orgullo excesivo",
         "Robo de bienes de la iglesia",
-        "Inmoralidad sexual con la ramera Isabel",
-        "Mentira ante los jueces"
+        "Inmoralidad sexual con la ramera Isabel"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Alma le dice a Coriantón que su pecado fue especialmente grave porque provocó que muchos zoramitas dudaran de la palabra al observar su conducta (Alma 39:11). ¿Qué principio enseña esto sobre el pecado personal?",
       "options": [
-        "Que el pecado de una persona nunca afecta a nadie más que a ella misma",
-        "Que las decisiones personales, sobre todo de quien representa la fe frente a otros, pueden influir directamente en la fe de esas personas",
+        "Que la conducta de quien representa la fe influye en otros",
         "Que solo los pecados públicos tienen alguna consecuencia",
-        "Que Alma exageraba la situación para asustar a su hijo"
+        "Que Alma exageraba la situación para asustar a su hijo",
+        "Que el pecado de una persona nunca afecta a nadie más que a ella misma"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "Alma describe el pecado sexual como 'abominable sobre todos los pecados', salvo el derramamiento de sangre inocente y la negación del Espíritu Santo (Alma 39:5). ¿Por qué lo trata con tanta seriedad, según el contexto del capítulo?",
       "options": [
         "Porque en esa cultura ese pecado se castigaba con la pena de muerte, y por eso Alma le temía",
-        "Porque involucra el uso indebido de un poder sagrado —el poder de crear vida— que Dios ha dado con un propósito santo",
+        "Porque usa mal un poder sagrado: el de crear vida",
         "Porque en esa cultura cualquier error social se consideraba igual de grave",
         "Porque Alma quería intimidar a Coriantón sin una razón doctrinal real"
       ],
@@ -97,34 +97,34 @@
       "id": 5,
       "question": "Un compañero le dice a Joaquín que 'los errores del pasado no importan tanto si uno sigue siendo buena persona ahora'. Según cómo Alma trata el arrepentimiento de Coriantón, ¿qué matiz agregaría Joaquín?",
       "options": [
-        "Que el pasado de una persona la define para siempre, sin posibilidad de cambio",
         "Que Alma nunca ofreció a Coriantón una segunda oportunidad",
         "Que la seriedad del pecado hace que el arrepentimiento sea inútil",
-        "Que Alma toma el pecado muy en serio, pero también deja claro que el arrepentimiento sincero y el abandono del pecado permiten seguir adelante y volver a servir"
+        "Que el pecado es serio, y el arrepentimiento sincero abre camino",
+        "Que el pasado de una persona la define para siempre, sin posibilidad de cambio"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Valentina se siente muy avergonzada por una decisión pasada y piensa que ya no tiene sentido seguir participando en la Iglesia. Según lo que Alma le pide a Coriantón al final del capítulo, ¿qué le dirías?",
       "options": [
+        "Que su vergüenza confirma que ya no puede volver a participar activamente",
         "Que debe esperar a sentirse completamente digna antes de acercarse de nuevo",
         "Que el arrepentimiento genuino no incluye ningún cambio de conducta",
-        "Que como a Coriantón, se le invita a confesar, abandonar el pecado y regresar a servir, no a alejarse por vergüenza",
-        "Que su vergüenza confirma que ya no puede volver a participar activamente"
+        "Que como a Coriantón, se le invita a confesar, abandonar el pecado y regresar a servir, no a alejarse por vergüenza"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto la gravedad con la que Alma trata el pecado sexual como su invitación final a Coriantón a volver al ministerio muestran dos caras de un mismo principio. ¿Cuál es?",
       "options": [
-        "Que solo los líderes de la Iglesia pueden recibir una segunda oportunidad",
-        "Que Dios toma el pecado en serio, pero su plan siempre incluye un camino real de regreso a través del arrepentimiento sincero",
+        "Que Dios toma el pecado en serio y deja un camino de regreso",
         "Que una vez cometido cierto tipo de pecado, no existe camino de regreso posible",
-        "Que la seriedad del pecado y la posibilidad de arrepentirse son ideas contradictorias"
+        "Que la seriedad del pecado y la posibilidad de arrepentirse son ideas contradictorias",
+        "Que solo los líderes de la Iglesia pueden recibir una segunda oportunidad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Cuál de las Bienaventuranzas te parece más fácil de entender a primera vista?",
         "¿Cuál de las Bienaventuranzas te parece más relevante para tu situación actual? ¿Por qué?",
-        "¿Cómo describirías el concepto de ser 'pobre en espíritu' según el contexto de 3 Nefi 12?",
+        "Volvé a leer 3 Nefi 12:3 y comparalo con la versión que conocés del Sermón del Monte: fijate qué palabras agrega Cristo acá y a quién señalan.",
         "¿Alguna vez sentiste que tu fe fue puesta a prueba y aun así elegiste seguir confiando en Dios?",
         "¿De qué forma específica podrías 'ser luz' en tu entorno esta semana?",
-        "Pensá en una persona concreta que podría necesitar ver 'tu luz' esta semana. ¿Qué gesto puntual harías?"
+        "Escribí el nombre de una persona que necesita ver esa luz y meditá un minuto por día, esta semana, en qué gesto concreto le haría bien."
       ]
     }
   ],
@@ -53,78 +53,78 @@
       "id": 1,
       "question": "Según 3 Nefi 12:3, ¿a quiénes pertenece el reino de los cielos?",
       "options": [
-        "A los pobres en espíritu que vienen a Cristo",
-        "Únicamente a los líderes religiosos",
         "A quienes tienen más riqueza material",
-        "Solo a quienes nunca cometieron ningún error"
+        "Solo a quienes nunca cometieron ningún error",
+        "A los pobres en espíritu que vienen a Cristo",
+        "Únicamente a los líderes religiosos"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Con qué se llena, según 3 Nefi 12:6, a quienes 'padecen hambre y sed de rectitud'?",
       "options": [
-        "Con riquezas materiales",
-        "Con el Espíritu Santo",
         "Con reconocimiento público",
-        "Con conocimiento académico"
+        "Con conocimiento académico",
+        "Con riquezas materiales",
+        "Con el Espíritu Santo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Cristo compara a Sus discípulos con una ciudad asentada sobre una colina y con una vela puesta en un candelero, no debajo de un almud. ¿Qué enseña esa doble imagen sobre vivir el evangelio?",
       "options": [
-        "Que la vida cristiana debe vivirse en secreto, sin que nadie la note",
-        "Que las buenas obras, vividas con sinceridad, naturalmente se vuelven visibles para otros y glorifican al Padre",
+        "Que las buenas obras sinceras se vuelven visibles solas",
         "Que solo los líderes de la Iglesia deben ser ejemplo público",
-        "Que mostrar las buenas obras siempre es una forma de orgullo"
+        "Que mostrar las buenas obras siempre es una forma de orgullo",
+        "Que la vida cristiana debe vivirse en secreto, sin que nadie la note"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "Las Bienaventuranzas describen estados del corazón —humildad, mansedumbre, hambre de rectitud— antes de hablar de acciones concretas. ¿Qué relación establece esto entre el carácter interior y el comportamiento visible?",
       "options": [
-        "Que basta con demostrar humildad y mansedumbre por fuera, sin que eso refleje un cambio real por dentro",
         "Que basta con actuar bien externamente, sin que el corazón cambie",
-        "Que el cambio de carácter interior es la base de la que después nace el comportamiento visible como 'luz'",
-        "Que las Bienaventuranzas solo aplican a la vida después de la muerte"
+        "Que el cambio interior es la base del comportamiento visible",
+        "Que las Bienaventuranzas solo aplican a la vida después de la muerte",
+        "Que basta con demostrar humildad y mansedumbre por fuera, sin que eso refleje un cambio real por dentro"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "Lucía siente que hacer lo correcto en su curso no sirve de nada porque 'nadie lo nota'. Según la enseñanza de la luz en el candelero, ¿qué le ayudaría a entender?",
       "options": [
+        "Que mostrar el propio ejemplo siempre busca aplausos",
         "Que tiene razón, y que por eso no vale la pena seguir esforzándose",
-        "Que las buenas obras sinceras, aunque parezcan pequeñas, con el tiempo se hacen notar como una luz que no se puede ocultar",
-        "Que solo las acciones grandes y públicas cuentan como 'luz'",
-        "Que mostrar el propio ejemplo siempre busca aplausos"
+        "Que las obras sinceras, aunque chicas, terminan notándose",
+        "Que solo las acciones grandes y públicas cuentan como 'luz'"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Franco dice que sentirse 'pobre en espíritu' —es decir, reconocer que necesita ayuda de Dios— lo hace sentir débil frente a sus amigos. Según 3 Nefi 12:3, ¿qué le dirías?",
       "options": [
-        "Que reconocer la propia necesidad de Dios no es debilidad, sino justamente la actitud a la que Cristo promete el reino de los cielos",
         "Que debería ocultar esa sensación y aparentar seguridad total",
         "Que ser 'pobre en espíritu' es un defecto que hay que superar cuanto antes",
-        "Que esa bienaventuranza no tiene ninguna aplicación práctica hoy"
+        "Que esa bienaventuranza no tiene ninguna aplicación práctica hoy",
+        "Que reconocer la propia necesidad de Dios no es debilidad, sino justamente la actitud a la que Cristo promete el reino de los cielos"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto la bienaventuranza de los que 'padecen hambre y sed de rectitud' como la imagen de la luz en el candelero comparten una misma idea sobre el discipulado. ¿Cuál es?",
       "options": [
-        "Que el discipulado es un estado pasivo que no requiere ninguna acción",
-        "Que buscar la rectitud con sinceridad naturalmente se traduce en una vida cuyas buenas obras se hacen visibles para otros",
+        "Que buscar la rectitud se traduce en obras visibles",
         "Que las obras externas son más importantes que el deseo interior de rectitud",
-        "Que ninguna de las dos enseñanzas tiene relación entre sí"
+        "Que ninguna de las dos enseñanzas tiene relación entre sí",
+        "Que el discipulado es un estado pasivo que no requiere ninguna acción"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

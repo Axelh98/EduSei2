@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Sabías que Cristo se quedó un tiempo extra con los nefitas en vez de partir enseguida?",
         "¿Qué te enseña este capítulo sobre el amor de Cristo por cada persona en particular?",
-        "¿En qué momentos de tu vida sentiste que Cristo 'se quedó' con vos cuando lo necesitabas?",
+        "Volvé a leer 3 Nefi 17:21. Es un versículo corto pero tiene varios verbos seguidos: fijate cuáles son y qué agrega cada uno al anterior.",
         "¿Alguna vez alguien te prestó atención de forma individual, en vez de tratarte como parte de un grupo, y qué diferencia hizo eso?",
         "¿Cómo podrías mostrar una compasión similar hacia alguien de tu entorno esta semana?",
-        "Pensá en una persona concreta a la que podrías prestarle atención individual, no genérica, esta semana. ¿Quién es?"
+        "Escribí los nombres de tres personas de tu grupo que casi nunca nombrás cuando orás, y sumalas a tu oración todos los días de esta semana."
       ]
     }
   ],
@@ -64,34 +64,34 @@
       "id": 2,
       "question": "¿Cómo bendijo Cristo a los niños que le trajeron, según 3 Nefi 17:21?",
       "options": [
+        "Pidió a los padres que los bendijeran ellos mismos",
         "Con una sola oración general para todo el grupo",
         "Uno por uno, orando al Padre por cada uno individualmente",
-        "Solo bendijo a los niños mayores",
-        "Pidió a los padres que los bendijeran ellos mismos"
+        "Solo bendijo a los niños mayores"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Cristo decide quedarse más tiempo con los nefitas al notar que estaban abrumados, en vez de continuar Su camino de inmediato. ¿Qué revela esa decisión sobre la forma en que Cristo atiende a las personas?",
       "options": [
-        "Que prioriza cumplir un itinerario por encima de las necesidades reales de la gente",
-        "Que presta atención genuina a lo que las personas necesitan en el momento, más allá de lo planeado",
         "Que solo actúa según lo que ya tenía decidido de antemano, sin importar las circunstancias",
-        "Que la fatiga de la gente no tiene ninguna relevancia para Él"
+        "Que la fatiga de la gente no tiene ninguna relevancia para Él",
+        "Que prioriza cumplir un itinerario por encima de las necesidades reales de la gente",
+        "Que atiende lo que la gente necesita, más allá del plan"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "El versículo 17 describe que ningún hombre puede escribir ni concebir el gozo que sintieron al oír a Cristo orar por ellos. ¿Qué sugiere esa descripción sobre la naturaleza de esa experiencia?",
       "options": [
-        "Que fue una experiencia común y fácil de explicar con palabras",
-        "Que fue una experiencia espiritual tan profunda que superaba la capacidad del lenguaje humano para describirla",
+        "Que fue una experiencia que superaba el lenguaje humano",
         "Que los discípulos exageraron la importancia del momento",
-        "Que la oración de Cristo no tuvo ningún efecto real en los presentes"
+        "Que la oración de Cristo no tuvo ningún efecto real en los presentes",
+        "Que fue una experiencia común y fácil de explicar con palabras"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -108,23 +108,23 @@
       "id": 6,
       "question": "Sofía siente que, al ser parte de un grupo de jóvenes numeroso, 'se pierde entre la multitud' y que a Dios no podría importarle su situación particular. Según 3 Nefi 17, ¿qué le ayudaría a pensar distinto?",
       "options": [
+        "Que Dios presta más atención a quienes tienen un rol destacado dentro del grupo",
         "Que tiene razón: Dios solo se ocupa de las necesidades grupales, no de las individuales",
-        "Que el ejemplo de Cristo bendiciendo a los niños 'uno por uno' muestra que el amor de Dios alcanza a cada persona de forma individual, sin importar el tamaño del grupo",
-        "Que solo las personas con roles de liderazgo reciben atención individual de Dios",
-        "Que Dios presta más atención a quienes tienen un rol destacado dentro del grupo"
+        "Que bendecir 'uno por uno' muestra que Su amor alcanza a cada uno",
+        "Que solo las personas con roles de liderazgo reciben atención individual de Dios"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Tanto la decisión de Cristo de quedarse más tiempo como el hecho de sanar y bendecir a las personas una por una enseñan un mismo principio sobre Su forma de amar. ¿Cuál es?",
       "options": [
-        "Que Cristo prioriza cumplir con un itinerario general por encima de las personas",
-        "Que el amor de Cristo se expresa en atención genuina e individual, no solo en gestos generales hacia la multitud",
         "Que solo los grupos grandes reciben la atención de Cristo",
-        "Que Cristo se quedó más tiempo únicamente para completar Su itinerario, no por atención personal a cada uno"
+        "Que Cristo se quedó más tiempo únicamente para completar Su itinerario, no por atención personal a cada uno",
+        "Que Cristo prioriza cumplir con un itinerario general por encima de las personas",
+        "Que Su amor se expresa en atención individual, no genérica"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

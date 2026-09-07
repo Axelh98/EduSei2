@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Nefi acaba de ser absuelto y la multitud se dispersa. Nadie lo acompaña. Va caminando solo hacia su casa, y Mormón anota qué estaba haciendo mientras caminaba: iba meditando las cosas que el Señor le había mostrado. No iba festejando ni rumiando la injusticia. Iba pensando en Dios. Y es justo ahí, en el camino, sin ceremonia y sin templo, cuando le llega una voz. Lo que el Señor le dice es notable. Lo bendice por las cosas que ha hecho, y le explica por qué va a confiarle el poder de sellar: porque no ha buscado su propia vida, sino la voluntad de Dios. La confianza no le llegó por pedirla, le llegó por lo que Nefi venía haciendo cuando nadie lo miraba. Y prestá atención al final del capítulo, que es la parte que suele pasarse por alto: apenas termina de recibir esa bendición, Nefi no vuelve a su casa a descansar. El texto dice que no fue a su casa, sino que volvió a las multitudes. Recibió la instrucción y salió a cumplirla en el mismo momento, sin pausa. En este capítulo la bendición y la obediencia inmediata van juntas."
+      "contenido": "Nefi acaba de ser absuelto y la multitud se dispersa. Nadie lo acompaña. Va caminando solo hacia su casa, y Mormón anota qué estaba haciendo mientras caminaba: iba meditando las cosas que el Señor le había mostrado. No iba festejando ni rumiando la injusticia. Iba pensando en Dios. Y es justo ahí, en el camino, sin ceremonia y sin templo, cuando le llega una voz. Lo que el Señor le dice es notable. Lo bendice por las cosas que ha hecho, y le explica por qué va a confiarle el poder de sellar: porque no ha buscado su propia vida, sino la voluntad de Dios. La confianza no le llegó por pedirla, le llegó por lo que Nefi venía haciendo cuando nadie lo miraba. El manual del maestro cruza este capítulo con una pregunta que lo cambia de lugar: ¿de qué maneras sirvió Jesucristo al Padre infatigablemente? Porque 'infatigablemente' es la palabra exacta que el Señor le dice a Nefi, y el único que la cumplió del todo fue Él. Jesucristo tampoco buscó Su propia vida sino la voluntad del Padre, y por eso el Padre le confió todo. Lo que Nefi recibió no fue un premio por esfuerzo: fue el mismo patrón del Hijo aplicado a un hombre. Y prestá atención al final del capítulo: apenas termina de recibir la bendición, Nefi no vuelve a su casa a descansar, sino que vuelve a las multitudes. Recibió la instrucción y salió a cumplirla en el mismo momento, igual que Él."
     },
     {
       "tipo": "escrituras",
@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Qué fue lo que más te sorprendió del poder que el Señor le dio a Nefi en este capítulo?",
         "Si tuvieras ese mismo poder de sellar, ¿en qué lo usarías primero?",
-        "¿Alguna vez sentiste que tus propios deseos estaban realmente alineados con lo que Dios querría para vos?",
+        "Volvé a leer Helamán 10:4. El Señor le da a Nefi varias razones por las que lo bendice: fijate cuál de todas no tiene que ver con algo que hizo, sino con algo que no buscó.",
         "¿Qué te parece la enseñanza del élder Renlund de que no buscamos cambiar la voluntad de Dios, sino alinear la nuestra con la Suya?",
         "¿Qué podés hacer esta semana para conocer mejor lo que Dios espera de vos, en lugar de solo pedirle lo que vos querés?",
-        "Pensando en la diligencia infatigable de Nefi, ¿qué compromiso espiritual concreto podés sostener esta semana sin dejarlo a medias?"
+        "Nefi iba meditando cuando le llegó la voz. Probá esta semana caminar diez minutos sin auriculares, meditando algo que Dios ya te mostró, y anotá si aparece algo nuevo."
       ]
     }
   ],
@@ -53,62 +53,62 @@
       "id": 1,
       "question": "¿Qué bendición extraordinaria recibió Nefi del Señor en Helamán 10?",
       "options": [
-        "El poder de sellar en la tierra, de modo que fuera sellado en el cielo",
         "Riquezas materiales para él y su familia",
         "Un cargo político de gran autoridad",
-        "Fama y reconocimiento inmediato entre su pueblo"
+        "Fama y reconocimiento inmediato entre su pueblo",
+        "El poder de sellar en la tierra y en el cielo"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Según Helamán 10:4–5, ¿por qué decidió el Señor entregarle este poder a Nefi específicamente?",
       "options": [
-        "Porque pertenecía a una familia con mucha riqueza",
-        "Porque era el más anciano de su generación",
         "Porque había declarado la palabra de Dios infatigablemente, sin miedo y sin buscar su propia vida",
-        "Porque tenía más experiencia militar que otros líderes"
+        "Porque tenía más experiencia militar que otros líderes",
+        "Porque pertenecía a una familia con mucha riqueza",
+        "Porque era el más anciano de su generación"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "El Señor le dice a Nefi que 'todas las cosas te serán hechas según tu palabra... porque tú no pedirás lo que sea contrario a mi voluntad' (Helamán 10:5). ¿Qué principio doctrinal explica por qué Dios podía confiarle ese poder a Nefi?",
       "options": [
-        "Que Dios entrega ese tipo de poder a cualquier persona que lo pida con suficiente insistencia",
-        "Que Nefi había memorizado fórmulas específicas para obtener lo que deseaba",
         "Que Dios entrega ese poder únicamente a los profetas de mayor edad y experiencia",
-        "Que la voluntad de Nefi estaba tan alineada con la de Dios que sus peticiones ya reflejaban lo que Dios mismo quería"
+        "Que su voluntad ya estaba alineada con la de Dios",
+        "Que Dios entrega ese tipo de poder a cualquier persona que lo pida con suficiente insistencia",
+        "Que Nefi había memorizado fórmulas específicas para obtener lo que deseaba"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "Nefi usó parte de este poder para declarar una hambruna que detuviera las guerras entre los nefitas (Helamán 11). ¿Qué revela esta decisión sobre cómo Nefi entendía el propósito del poder que había recibido?",
       "options": [
+        "Que actuó sin ninguna reflexión sobre las consecuencias de sus decisiones",
         "Que buscaba usar el poder para beneficio personal antes que para el bienestar del pueblo",
-        "Que entendía que el poder recibido debía usarse para guiar al pueblo hacia el arrepentimiento y el bienestar colectivo, no para su propio beneficio",
-        "Que quería demostrar públicamente cuánto poder tenía",
-        "Que actuó sin ninguna reflexión sobre las consecuencias de sus decisiones"
+        "Que el poder era para llevar al pueblo al arrepentimiento",
+        "Que quería demostrar públicamente cuánto poder tenía"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Agustina ora todas las noches pidiéndole a Dios cosas que ella quiere, pero rara vez se detiene a preguntarle qué es lo que Él querría de ella. Según el ejemplo de Nefi y la enseñanza del élder Renlund, ¿qué podría cambiar en su manera de orar?",
       "options": [
+        "Seguir orando de la misma manera, porque pedir con insistencia es lo único que realmente importa",
         "Dejar de orar hasta sentir que sus oraciones son escuchadas",
         "Pedir cosas más grandes para asegurarse de que Dios las escuche",
-        "Buscar activamente conocer y alinear su voluntad con la de Dios, en lugar de solo pedir lo que ella quiere",
-        "Seguir orando de la misma manera, porque pedir con insistencia es lo único que realmente importa"
+        "Buscar activamente conocer y alinear su voluntad con la de Dios, en lugar de solo pedir lo que ella quiere"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Tomás dejó de orar con constancia porque siente que 'total, Dios ya sabe lo que necesito'. Según la diligencia infatigable de Nefi al declarar la palabra de Dios, ¿qué principio le ayudaría a reconsiderar su actitud?",
       "options": [
-        "Que la constancia y la diligencia personal, como las de Nefi, son parte de cómo se construye una relación real con Dios, más allá de que Dios ya conozca sus necesidades",
+        "Que la constancia personal construye la relación con Dios",
         "Que efectivamente ya no necesita orar si Dios conoce sus necesidades",
         "Que la oración es solamente un formalismo sin ningún efecto real",
         "Que Nefi oraba únicamente cuando tenía un problema urgente que resolver"
@@ -120,7 +120,7 @@
       "question": "Tanto el poder de sellamiento que recibió Nefi como la enseñanza del élder Renlund sobre alinear nuestra voluntad con la de Dios comparten un mismo principio central. ¿Cuál es?",
       "options": [
         "Que el poder espiritual se entrega automáticamente a cualquier persona sin importar su carácter",
-        "Que cuanto más se alinea la voluntad de una persona con la de Dios, más se puede confiar en que sus decisiones y peticiones reflejen lo que Dios mismo desea",
+        "Que cuanto más se alinea la voluntad, más se puede confiar",
         "Que la voluntad de Dios y la voluntad humana son necesariamente siempre opuestas",
         "Que alinear la propia voluntad con la de Dios elimina la necesidad de la oración personal"
       ],

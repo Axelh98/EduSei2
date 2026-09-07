@@ -41,7 +41,7 @@
       "preguntas": [
         "¿Qué palabra usarías para describir el sacrificio de Cristo, según lo que enseña Amulek?",
         "¿Qué parte de la lista de Amulek sobre por qué orar te sorprendió más?",
-        "¿Cómo te ayuda el testimonio de Amulek a comprender mejor el sacrificio expiatorio?",
+        "Volvé a leer Alma 34:14. Amulek dice que todo 'ápice de la ley' señala hacia algo: fijate hacia qué, y por qué te parece que eligió una palabra tan chica como 'ápice'.",
         "¿Hubo algún momento en que orar por algo cotidiano —y no solo por una crisis— te haya ayudado?",
         "¿En qué momento del día vas a agregar una oración nueva esta semana?",
         "¿De qué forma concreta podrías expresar gratitud por la expiación esta semana, con una acción y no solo un pensamiento?"
@@ -53,12 +53,12 @@
       "id": 1,
       "question": "Después de que Alma enseña sobre la fe como una semilla, ¿qué compañero misionero toma la palabra en el capítulo 34 para explicar por qué es necesaria la expiación?",
       "options": [
-        "Corianton",
         "Ammón",
         "Amulek",
-        "Helamán"
+        "Helamán",
+        "Corianton"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 2,
@@ -75,34 +75,34 @@
       "id": 3,
       "question": "Amulek enseña que un hombre no puede expiar por su propia sangre ni por la de otro (Alma 34:9–11), aunque fuera un sacrificio 'no contaminado'. ¿Por qué esto muestra la necesidad de que sea el Hijo de Dios quien lo haga?",
       "options": [
-        "Porque un sacrificio humano, por más puro que fuera, sigue siendo finito, y la justicia exige algo mayor que toda la creación",
         "Porque los sacerdotes de esa época no estaban capacitados",
         "Porque la ley de Moisés prohibía cualquier sacrificio humano",
-        "Porque solo Dios cuenta con la riqueza necesaria para pagar la deuda"
+        "Porque solo Dios cuenta con la riqueza necesaria para pagar la deuda",
+        "Porque un sacrificio humano es finito, y la justicia exige más"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "Amulek enumera varios momentos y motivos para orar: por las cosechas, los rebaños, la casa, contra el poder del enemigo, e incluso por quienes nos persiguen (Alma 34:17–27). ¿Qué enseña esta lista sobre la oración?",
       "options": [
-        "Que solo se debe orar en ocasiones formales y programadas",
-        "Que la oración debe abarcar todos los aspectos de la vida diaria, no solo los momentos de crisis",
+        "Que la oración abarca toda la vida, no solo la crisis",
         "Que orar por los enemigos es innecesario",
-        "Que las oraciones largas son más efectivas que las cortas"
+        "Que las oraciones largas son más efectivas que las cortas",
+        "Que solo se debe orar en ocasiones formales y programadas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Franco solo ora cuando tiene un problema grande, como un examen difícil o una pelea con un amigo. Según el patrón de oración que enseña Amulek en Alma 34, ¿qué le sugerirías?",
       "options": [
-        "Que deje de orar por cosas pequeñas porque le quita tiempo a Dios",
-        "Que solo ore los domingos como parte del culto",
         "Que está bien, porque para eso sirve la oración",
-        "Que amplíe su oración a lo cotidiano: agradecer, pedir por su familia, por sus decisiones diarias, no solo por emergencias"
+        "Que amplíe su oración a lo cotidiano: agradecer, pedir por su familia, por sus decisiones diarias, no solo por emergencias",
+        "Que deje de orar por cosas pequeñas porque le quita tiempo a Dios",
+        "Que solo ore los domingos como parte del culto"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -110,7 +110,7 @@
       "options": [
         "Porque solo los adultos pueden acceder a la expiación",
         "Porque Amulek nunca habló sobre el perdón de los pecados",
-        "Porque el sacrificio infinito hace posible el arrepentimiento genuino, pero no elimina la responsabilidad personal de buscarlo con sinceridad",
+        "Porque hace posible el arrepentimiento, pero no lo reemplaza",
         "Porque en realidad el sacrificio de Cristo fue limitado y no cubre todos los pecados"
       ],
       "correctAnswer": 2
@@ -119,12 +119,12 @@
       "id": 7,
       "question": "Tanto la enseñanza sobre el sacrificio infinito como el llamado a orar en todo momento apuntan a una misma verdad sobre la relación entre Dios y las personas. ¿Cuál es esa verdad común?",
       "options": [
-        "Que dependemos por completo de Dios: tanto para nuestra salvación eterna como para lo cotidiano de cada día",
         "Que la oración y la expiación son temas sin relación entre sí",
         "Que solo los sacerdotes pueden acercarse verdaderamente a Dios",
-        "Que Dios está distante y solo interviene en ocasiones extraordinarias"
+        "Que Dios está distante y solo interviene en ocasiones extraordinarias",
+        "Que dependemos de Dios para lo eterno y para lo cotidiano"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }

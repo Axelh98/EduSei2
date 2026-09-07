@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Coriantón tenía otra confusión, y esta era peligrosa. Había escuchado —o había querido escuchar— que la restauración significaba que uno resucita en gloria pase lo que pase. Si eso fuera cierto, la conducta daría igual. Alma le explica que la restauración es otra cosa. La palabra significa devolver algo a su estado, y lo que se devuelve es lo que uno fue. Alma lo dice con una simetría casi incómoda: si deseaste el bien, se te restaura el bien; si deseaste el mal, se te restaura el mal. No es un castigo arbitrario que Dios elige aplicarte. Es que te devuelven exactamente lo que estuviste eligiendo. Por eso el juicio incluye los deseos y no solo los actos: Alma le dice que somos nuestros propios jueces. Y ahí aparece la frase que resume todo el capítulo: 'la maldad nunca fue felicidad'. Alma no la dice como amenaza. La dice como una descripción de cómo están hechas las cosas. Sembrar una cosa y esperar cosechar otra no funciona en el campo, y tampoco funciona con tu vida."
+      "contenido": "Coriantón tenía otra confusión, y esta era peligrosa. Había escuchado —o había querido escuchar— que la restauración significaba que uno resucita en gloria pase lo que pase. Si eso fuera cierto, la conducta daría igual. Alma le explica que la restauración es otra cosa. La palabra significa devolver algo a su estado, y lo que se devuelve es lo que uno fue. Alma lo dice con una simetría casi incómoda: si deseaste el bien, se te restaura el bien; si deseaste el mal, se te restaura el mal. No es un castigo arbitrario que Dios elige aplicarte. Es que te devuelven exactamente lo que estuviste eligiendo. Por eso el juicio incluye los deseos y no solo los actos: Alma le dice que somos nuestros propios jueces. Y ahí aparece la frase que resume todo el capítulo: 'la maldad nunca fue felicidad'. Alma no la dice como amenaza. La dice como una descripción de cómo están hechas las cosas. Sembrar una cosa y esperar cosechar otra no funciona en el campo, y tampoco funciona con tu vida. Falta, eso sí, el nombre que el manual del maestro le pone a este capítulo y que la lección suele perder: 'Jesucristo restaura todas las cosas'. La restauración no es una máquina impersonal que te devuelve lo tuyo. La sostiene Él: es Jesucristo quien devuelve el cuerpo a su forma perfecta en la resurrección, y también quien puede cambiar lo que estás sembrando antes de que llegue la cosecha. Por eso la ley que Alma explica no deja a Coriantón sin salida."
     },
     {
       "tipo": "escrituras",
@@ -34,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Alma explica la ley de la restauración con una imagen simple: cosechamos lo que sembramos. Si cultivamos deseos buenos, esos mismos deseos crecen con nosotros; si cultivamos el mal, también. Por eso la maldad nunca fue felicidad: va en contra de la ley bajo la cual Dios diseñó la felicidad real. Esto no es una amenaza, es información útil: cada decisión pequeña —lo que mirás, lo que decís, cómo tratás a otros— va formando a la persona en la que te estás convirtiendo. Esta semana, identificá un hábito o deseo que te gustaría 'sembrar' distinto, y dale un paso concreto en esa dirección."
+      "contenido": "Alma explica la ley de la restauración con una imagen simple: cosechamos lo que sembramos. Si cultivamos deseos buenos, esos mismos deseos crecen con nosotros; si cultivamos el mal, también. Por eso la maldad nunca fue felicidad: va en contra de la ley bajo la cual Dios diseñó la felicidad real. Esto no es una amenaza, es información útil: cada decisión pequeña va formando a la persona en la que te estás convirtiendo. Pero la ley no es la última palabra. Jesucristo restaura todas las cosas, y Su expiación es justamente lo que permite cambiar la semilla antes de la cosecha. Identificá un hábito o deseo que te gustaría 'sembrar' distinto y dale un paso concreto esta semana, sabiendo que Él ya se ofreció a ayudarte con eso."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Escuchaste antes la frase 'la maldad nunca fue felicidad'? ¿Dónde?",
         "¿Qué imagen o ejemplo usarías para explicar la ley de la restauración a alguien que no la conoce?",
-        "¿Qué evidencia has observado de que la maldad no conduce a la felicidad verdadera?",
+        "Volvé a leer Alma 41:13-14. Alma repite una misma estructura varias veces: fijate qué palabra se repite en cada par y qué agrega recién en la segunda mitad del versículo 14.",
         "¿Cómo se relaciona la ley de la restauración con las decisiones que tomás diariamente?",
         "¿Qué hábito o deseo te gustaría empezar a 'sembrar' distinto esta semana?",
-        "¿Qué paso concreto vas a dar esta semana para cambiar esa dirección?"
+        "Elegí ese hábito y llevalo a la oración esta semana: preguntale al Padre Celestial qué conviene cambiar primero, y anotá lo que te venga a la mente."
       ]
     }
   ],
@@ -53,23 +53,23 @@
       "id": 1,
       "question": "Según Alma 41, ¿qué significa la palabra 'restauración' en el contexto de la doctrina que enseña Alma?",
       "options": [
-        "Que todos reciben exactamente el mismo resultado, sin importar sus obras",
         "Volver exactamente al estado del Jardín del Edén",
         "Cambiar por completo la naturaleza de cada persona",
-        "El bien es restaurado al que hace el bien, y el mal es restaurado al que hace el mal"
+        "El bien se restaura al que hace el bien, y el mal al que hace el mal",
+        "Que todos reciben exactamente el mismo resultado, sin importar sus obras"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Qué frase, ya bien conocida, usa Alma para describir la relación entre la maldad y la felicidad?",
       "options": [
+        "'La maldad no tiene consecuencias'",
         "'La maldad es solo temporal'",
         "'La maldad es divertida por un tiempo'",
-        "'La maldad nunca fue felicidad'",
-        "'La maldad no tiene consecuencias'"
+        "'La maldad nunca fue felicidad'"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
@@ -86,45 +86,45 @@
       "id": 4,
       "question": "Si una persona desea hacer el mal durante esta vida sin arrepentirse, ¿qué enseña Alma 41 que sucederá con ese deseo?",
       "options": [
+        "Cambiará automáticamente al morir",
         "Tendrá ese mismo deseo en la vida venidera",
         "Se olvidará por completo",
-        "No tendrá ninguna consecuencia futura",
-        "Cambiará automáticamente al morir"
+        "No tendrá ninguna consecuencia futura"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "Tomás piensa que puede 'vivir cualquier cosa ahora' y cambiar sus deseos fácilmente más adelante, sin ningún costo. Según la doctrina de la restauración (Alma 41), ¿qué le dirías?",
       "options": [
+        "Que los deseos que cultivamos ahora desaparecen solos apenas cambia la situación externa",
         "Que tiene razón, cambiar de rumbo espiritual no cuesta ningún esfuerzo",
-        "Que los deseos que cultivamos ahora tienden a continuar y fortalecerse; cambiar de rumbo es posible mediante el arrepentimiento, pero no ocurre de forma automática ni sin esfuerzo",
-        "Que una vez que se cultiva un mal deseo, ya no hay forma de cambiarlo",
-        "Que los deseos que cultivamos ahora desaparecen solos apenas cambia la situación externa"
+        "Que los deseos cultivados ahora tienden a continuar y fortalecerse",
+        "Que una vez que se cultiva un mal deseo, ya no hay forma de cambiarlo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Martina cree que hacer trampa en un examen 'no tiene nada que ver' con su vida espiritual, porque 'es solo la escuela'. Según el principio de que 'el bien es restaurado al que hace el bien' (Alma 41:13–14), ¿qué matiz agregarías?",
       "options": [
-        "Que Alma se refería únicamente a decisiones tomadas en la edad adulta",
-        "Que cada decisión, incluso las pequeñas, va formando el tipo de persona en la que nos convertimos, y ese carácter es justamente lo que se 'restaura'",
         "Que solo las decisiones religiosas explícitas cuentan para la doctrina de la restauración",
-        "Que las decisiones escolares nunca afectan el carácter espiritual"
+        "Que las decisiones escolares nunca afectan el carácter espiritual",
+        "Que Alma se refería únicamente a decisiones tomadas en la edad adulta",
+        "Que cada decisión, incluso pequeña, forma el carácter que se restaura"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto la doctrina de la restauración como la frase 'la maldad nunca fue felicidad' comparten un mismo principio sobre las consecuencias de nuestras decisiones. ¿Cuál es?",
       "options": [
+        "Que lo que elegimos ser ahora determina lo que llegaremos a ser",
+        "Que solo las decisiones más importantes de la vida tienen efecto en el estado futuro de una persona",
         "Que solo Dios decide arbitrariamente el destino de cada persona",
-        "Que la felicidad y la maldad son en realidad lo mismo, solo con distinto nombre",
-        "Que nuestras acciones y deseos actuales determinan directamente nuestro estado futuro; no hay separación entre lo que elegimos ser ahora y lo que llegaremos a ser",
-        "Que solo las decisiones más importantes de la vida tienen efecto en el estado futuro de una persona"
+        "Que la felicidad y la maldad son en realidad lo mismo, solo con distinto nombre"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

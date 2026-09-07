@@ -17,6 +17,11 @@
           "referencia": "Mormón 8:16",
           "texto": "Y bendito sea aquel que saque esto a luz; porque será sacado de las tinieblas a la luz... y será hecho por el poder de Dios.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa&id=p16#p16"
+        },
+        {
+          "referencia": "Mormón 8:12",
+          "texto": "Y quien reciba esta historia, y no la condene por las imperfecciones que haya en ella, tal persona sabrá de cosas mayores que estas. He aquí, soy Moroni; y si fuera posible, os daría a conocer todas las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa&id=p12#p12"
         }
       ]
     },
@@ -29,17 +34,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Moroni quedó completamente solo —su padre y todo su pueblo habían muerto— y aun así siguió escribiendo, protegiendo un registro que sabía que llegaría a manos de gente que ni siquiera había nacido todavía. El profeta José Smith enseñó que el Libro de Mormón es 'el libro más correcto de cuantos hay sobre la tierra, y la piedra clave de nuestra religión', y que acercarse a sus preceptos acerca más a una persona a Dios que cualquier otro libro. Lo que hoy podés sostener en tus manos o leer en una aplicación le costó a Moroni la soledad de sus últimos años de vida. Elegí leer, esta semana, un pasaje del Libro de Mormón con la conciencia de lo que costó que llegara hasta vos."
+      "contenido": "Moroni quedó completamente solo —su padre y todo su pueblo habían muerto— y aun así siguió escribiendo, protegiendo un registro que sabía que llegaría a manos de gente que ni siquiera había nacido. Y siguió escondido por una razón concreta: no quiso negar a Cristo. Lo que protegía no era un objeto de oro: era el testimonio de Su misericordia con un pueblo entero. El profeta José Smith enseñó que el Libro de Mormón es 'el libro más correcto de cuantos hay sobre la tierra, y la piedra clave de nuestra religión', y que acercarse a sus preceptos acerca más a una persona a Dios que cualquier otro libro. Leé esta semana un pasaje con la conciencia de lo que costó que llegara hasta vos."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te impresiona más sobre la dedicación de Moroni al continuar escribiendo estando completamente solo?",
         "¿De qué manera las profecías de Moroni sobre nuestros días se cumplen hoy?",
-        "¿Cómo aumenta tu gratitud por el Libro de Mormón al saber lo que costó protegerlo?",
+        "Volvé a leer Mormón 8:3. Moroni dice dos cosas sobre su situación en un solo versículo: fijate cuál nombra primero y qué decide hacer a pesar de eso.",
         "¿Qué te parece la enseñanza de José Smith de que este es 'el libro más correcto... y la piedra clave de nuestra religión'?",
         "Si tuvieras que explicarle a alguien por qué el Libro de Mormón es un 'tesoro', usando la historia de Moroni, ¿qué le dirías?",
-        "¿Qué día concreto de esta semana vas a apartar para leer el Libro de Mormón con esa misma gratitud?"
+        "Antes de abrir el Libro de Mormón esta semana, meditá diez segundos en Moroni escribiendo escondido y solo. Anotá si eso cambia cómo leés esa vez."
       ]
     }
   ],
@@ -48,20 +53,20 @@
       "id": 1,
       "question": "¿Quién terminó el registro después de la muerte de Mormón?",
       "options": [
-        "Nefi",
         "Moroni",
         "Alma",
-        "Helamán"
+        "Helamán",
+        "Nefi"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "¿Qué describe Moroni sobre la destrucción?",
       "options": [
         "Fue menor",
-        "Fue total; todos los nefitas fueron destruidos",
-        "Solo algunas ciudades",
+        "Fue total: todos los nefitas destruidos",
+        "Solo algunas ciudades del norte fueron alcanzadas",
         "No hubo destrucción"
       ],
       "correctAnswer": 1
@@ -70,41 +75,41 @@
       "id": 3,
       "question": "¿Por qué quedó solo Moroni?",
       "options": [
+        "Era el más fuerte y sobrevivió a la batalla final",
         "Se escondió",
-        "Los lamanitas mataron a todos los que no los negaban",
-        "Escapó primero",
-        "Era el más fuerte"
+        "Los lamanitas mataban al que no negaba a Cristo",
+        "Escapó primero"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Qué profetizó Moroni sobre el libro?",
       "options": [
-        "Que se perdería",
-        "Que saldría a luz en los últimos días",
         "Que sería destruido",
-        "Que no importaría"
+        "Que no importaría",
+        "Que se perdería",
+        "Que saldría a luz en los últimos días"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "¿Cuál era la esperanza de Moroni al escribir?",
       "options": [
-        "Fama personal",
         "Que el registro ayudaría a generaciones futuras",
         "Venganza",
-        "Ninguna"
+        "Ninguna",
+        "Fama personal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Tomás tiene el Libro de Mormón en una aplicación del teléfono y a veces lo abre sin prestarle mucha atención, como una tarea más. Según la historia de Moroni escribiendo completamente solo para preservar este registro, ¿qué le ayudaría a cambiar su actitud?",
       "options": [
         "Que el formato digital hace que el contenido sea menos importante que antes",
-        "Recordar el costo real —la soledad, el peligro, los años— que implicó preservar este registro, para leerlo con la gratitud e intención que merece",
+        "Recordar el costo que implicó preservar el registro",
         "Que leer el libro en una aplicación del teléfono es, en sí mismo, una falta de respeto hacia el texto",
         "Que solo las copias físicas del libro merecen atención genuina"
       ],
@@ -114,12 +119,12 @@
       "id": 7,
       "question": "Tanto la dedicación de Moroni a preservar el registro en soledad como la enseñanza de José Smith sobre que este es 'el libro más correcto... y la piedra clave de nuestra religión' comparten un mismo principio. ¿Cuál es?",
       "options": [
-        "Que el valor real del Libro de Mormón está tanto en el sacrificio que costó preservarlo como en el acercamiento a Dios que ofrece a quien lo estudia y vive",
-        "Que el valor del libro depende únicamente de su antigüedad histórica",
         "Que el valor del libro depende únicamente de cuánto sufrimiento costó preservarlo, sin relación con su doctrina",
-        "Que el libro es valioso solo como objeto histórico, sin relación con acercarse a Dios"
+        "Que el libro es valioso solo como objeto histórico, sin relación con acercarse a Dios",
+        "Que su valor está en el sacrificio y en lo que ofrece",
+        "Que el valor del libro depende únicamente de su antigüedad histórica"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

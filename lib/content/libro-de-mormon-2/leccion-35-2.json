@@ -14,6 +14,11 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p3#p3"
         },
         {
+          "referencia": "Moroni 10:4",
+          "texto": "Y cuando recibáis estas cosas, quisiera exhortaros a que preguntéis a Dios el Eterno Padre, en el nombre de Cristo, si no son verdaderas estas cosas; y si pedís con un corazón sincero, con verdadera intención, teniendo fe en Cristo, él os manifestará la verdad de ellas por el poder del Espíritu Santo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p4#p4"
+        },
+        {
           "referencia": "Moroni 10:5",
           "texto": "Y por el poder del Espíritu Santo podréis conocer la verdad de todas las cosas.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p5#p5"
@@ -36,7 +41,7 @@
       "preguntas": [
         "¿Por qué es necesario recordar y meditar en la misericordia de Dios antes de preguntar si el libro es verdadero?",
         "¿Qué significa orar 'con verdadera intención'?",
-        "¿Cómo ha manifestado el Espíritu Santo verdades a tu corazón y mente en el pasado?",
+        "Buscá en Moroni 10:3 el verbo que Moroni usa para lo que hay que hacer con la misericordia de Dios. No es 'leer' ni 'saber': ¿cuál es?",
         "¿Qué te parece la promesa del presidente Nelson de que el Libro de Mormón nos 'vacuna contra los males de esta época'?",
         "¿Ya pusiste a prueba la promesa de Moroni 10:4 alguna vez con toda sinceridad? ¿Qué pasó?",
         "¿Qué día concreto de esta semana vas a apartar para leer el Libro de Mormón con verdadera intención?"
@@ -59,29 +64,29 @@
       "id": 2,
       "question": "¿Qué dones del Espíritu menciona Moroni?",
       "options": [
+        "Poder terrenal",
         "Ninguno",
         "Fe, esperanza, caridad, sanidades, milagros, profecía",
-        "Solo riquezas",
-        "Poder terrenal"
+        "Solo riquezas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Moroni pide primero 'recordar' y 'meditar' la misericordia de Dios, y recién después invita a preguntar si el libro es verdadero (Moroni 10:3-4). ¿Qué principio revela ese orden sobre cómo se recibe un testimonio genuino?",
       "options": [
-        "Que la disposición del corazón —agradecida y reflexiva— prepara el terreno para reconocer la respuesta del Espíritu, en lugar de hacer la pregunta con indiferencia",
         "Que el orden de los pasos no tiene ninguna importancia real en el proceso",
         "Que recordar la misericordia de Dios reemplaza por completo la necesidad de orar",
-        "Que solo las personas que ya tienen un testimonio pueden seguir este proceso"
+        "Que solo las personas que ya tienen un testimonio pueden seguir este proceso",
+        "Que un corazón agradecido prepara para reconocer la respuesta"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Por qué el presidente Nelson compara sumergirse en el Libro de Mormón con estar 'vacunado' contra los males de esta época?",
       "options": [
-        "Porque sugiere que el estudio constante del libro fortalece espiritualmente a la persona de manera protectora y preventiva, no solo como respuesta a una crisis puntual",
+        "Porque el estudio constante protege antes de la crisis",
         "Porque implica que leer el libro una sola vez es suficiente para toda la vida",
         "Porque implica que basta con poseer un ejemplar del libro, sin necesidad de leerlo con regularidad",
         "Porque se refiere únicamente a la protección física contra enfermedades"
@@ -92,34 +97,34 @@
       "id": 5,
       "question": "Valentina leyó el Libro de Mormón una vez, rápido, solo para terminarlo, y siente que 'no pasó nada'. Según Moroni 10:4 y la enseñanza del presidente Nelson, ¿qué le ayudaría a repensar su experiencia?",
       "options": [
-        "Que leer rápido sin buscar sinceramente la respuesta no es lo mismo que preguntar 'con un corazón sincero, con verdadera intención', que es la condición real de la promesa",
+        "Que leer el libro una vez, de cualquier manera, ya cumple con todo lo que pide el versículo",
+        "Que leer rápido no es preguntar con verdadera intención",
         "Que la promesa de Moroni no es real y nunca funciona",
-        "Que solo las personas especialmente espirituales pueden recibir esa respuesta",
-        "Que leer el libro una vez, de cualquier manera, ya cumple con todo lo que pide el versículo"
+        "Que solo las personas especialmente espirituales pueden recibir esa respuesta"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "Joaquín quiere invitar a un amigo que no es miembro a leer el Libro de Mormón, pero no sabe cómo explicarle qué esperar. Usando Moroni 10:4-5, ¿qué le podría explicar?",
       "options": [
+        "Que la única forma de saber si es verdadero es a través del análisis histórico",
         "Que el libro no ofrece ninguna forma real de verificar si es verdadero",
         "Que Dios promete manifestar la verdad del libro por el poder del Espíritu Santo a quien lo pida con un corazón sincero, verdadera intención, y fe en Cristo",
-        "Que solo los miembros de la Iglesia pueden recibir una respuesta a esa pregunta",
-        "Que la única forma de saber si es verdadero es a través del análisis histórico"
+        "Que solo los miembros de la Iglesia pueden recibir una respuesta a esa pregunta"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Tanto la invitación de Moroni a recordar la misericordia de Dios antes de preguntar, como la enseñanza del presidente Nelson sobre 'vacunarse' mediante el estudio diario, comparten un mismo principio. ¿Cuál es?",
       "options": [
-        "Que un testimonio genuino y duradero del Libro de Mormón se construye con un corazón preparado y un estudio sostenido, no con una lectura única e indiferente",
         "Que basta con leer el libro una sola vez, de cualquier forma, para obtener todos sus beneficios",
         "Que basta con haber sentido una vez la confirmación del Espíritu, sin necesidad de mantener el estudio después",
-        "Que solo los líderes de la Iglesia necesitan un testimonio sólido de este libro"
+        "Que solo los líderes de la Iglesia necesitan un testimonio sólido de este libro",
+        "Que el testimonio se construye con corazón preparado y estudio"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }

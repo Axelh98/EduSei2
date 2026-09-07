@@ -17,6 +17,11 @@
           "referencia": "3 Nefi 23:11",
           "texto": "Y Jesús les dijo: ¿Por qué no habéis escrito esto, que muchos santos se levantaron, y se aparecieron a muchos, y les ministraron?",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "3 Nefi 23:5",
+          "texto": "Y quienes escuchen mis palabras, y se arrepientan y sean bautizados, se salvarán. Escudriñad los profetas, porque muchos son los que testifican de estas cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=spa&id=p5#p5"
         }
       ]
     },
@@ -36,10 +41,10 @@
       "preguntas": [
         "¿Por qué creés que el Salvador dio el mandamiento de 'escudriñar' y no solo 'leer' las escrituras?",
         "Si tuvieras que describir tu propio estudio de las Escrituras en una palabra, ¿cuál sería: ocasional, constante, o en proceso?",
-        "¿Qué nos enseña la corrección de Cristo a Nefi sobre la importancia de llevar un registro de nuestra vida espiritual?",
+        "Volvé a leer 3 Nefi 23:1. Cristo no dice solo 'leed': fijate qué verbo usa y con qué palabra lo acompaña, y qué diferencia hace eso.",
         "¿Alguna vez 'escudriñaste' un versículo y encontraste algo que no habías notado en lecturas anteriores?",
         "Elegí un versículo esta semana para escudriñarlo de verdad, en lugar de solo leerlo. ¿Cuál elegís y cuándo lo vas a hacer?",
-        "¿Qué diferencia concreta notás entre los días en que 'leés' las Escrituras rápido y los días en que realmente las 'escudriñás'?"
+        "Empezá esta semana un registro corto: anotá cada día una sola línea de lo que encontraste al escudriñar, aunque parezca poco. El domingo, releé las siete."
       ]
     }
   ],
@@ -48,12 +53,12 @@
       "id": 1,
       "question": "Cuando Cristo revisa los registros nefitas, ¿qué descubre que faltaba escribir?",
       "options": [
-        "Una lista completa de las leyes civiles del pueblo",
         "Las palabras de Samuel el Lamanita sobre los santos que resucitaron y ministraron al pueblo",
         "El nombre de todos los reyes nefitas anteriores",
-        "Un mapa detallado de las tierras nefitas"
+        "Un mapa detallado de las tierras nefitas",
+        "Una lista completa de las leyes civiles del pueblo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -70,34 +75,34 @@
       "id": 3,
       "question": "Cristo corrige a Nefi por una omisión específica en el registro, en lugar de dejarlo pasar por ser un detalle menor. ¿Qué principio revela esa corrección sobre la forma en que Dios ve los registros sagrados?",
       "options": [
+        "Que los registros nefitas no tenían ningún valor espiritual real",
         "Que los detalles no importan mientras la idea general esté presente",
-        "Que cada parte de un registro sagrado importa, incluso lo que podría parecer un detalle secundario",
-        "Que Cristo estaba buscando un motivo para reprender a Nefi sin razón real",
-        "Que los registros nefitas no tenían ningún valor espiritual real"
+        "Que cada parte de un registro sagrado importa",
+        "Que Cristo estaba buscando un motivo para reprender a Nefi sin razón real"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "El élder Merrill J. Bateman enseñó que un contacto ocasional con las Escrituras generalmente no abre las puertas a la inspiración del Espíritu. ¿Qué distingue ese 'contacto ocasional' de 'escudriñar diligentemente'?",
       "options": [
-        "No hay ninguna diferencia real entre ambas formas de acercarse a las Escrituras",
-        "La profundidad, la repetición y la intención de encontrar aplicación personal, no solo la cantidad de páginas leídas",
         "Escudriñar diligentemente significa únicamente leer más rápido",
-        "El contacto ocasional es igual de efectivo si se hace todos los días"
+        "El contacto ocasional es igual de efectivo si se hace todos los días",
+        "No hay ninguna diferencia real entre ambas formas de acercarse a las Escrituras",
+        "La profundidad, la repetición y buscar aplicación personal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Tomás lee un capítulo de las Escrituras cada noche, pero admite que casi nunca recuerda de qué trataba al día siguiente. Según la enseñanza de este pasaje sobre escudriñar diligentemente, ¿qué le convendría probar?",
       "options": [
-        "Dejar de leer, ya que claramente no le sirve de nada",
-        "Detenerse en un versículo puntual, releerlo y preguntarse qué le dice específicamente a él, en lugar de solo avanzar página tras página",
+        "Detenerse en un versículo, releerlo y preguntarse qué le dice",
         "Leer todavía más rápido para cubrir más capítulos por noche",
-        "Memorizar los capítulos de memoria sin pensar en su significado"
+        "Memorizar los capítulos de memoria sin pensar en su significado",
+        "Dejar de leer, ya que claramente no le sirve de nada"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
@@ -114,12 +119,12 @@
       "id": 7,
       "question": "Tanto el mandamiento de escudriñar diligentemente las palabras de Isaías como la corrección de Cristo sobre el registro incompleto de Samuel enseñan algo en común sobre la relación de Dios con Su palabra escrita. ¿Cuál es?",
       "options": [
-        "Que Dios espera un compromiso cuidadoso y atento, tanto al leer como al registrar Su palabra",
-        "Que corregir un registro incompleto es tarea exclusiva de los profetas, sin relación con cómo un alumno estudia",
         "Que solo importa la cantidad de escrituras leídas, no la atención puesta en ellas",
-        "Que Cristo prioriza los registros históricos por sobre la aplicación personal de las Escrituras"
+        "Que Cristo prioriza los registros históricos por sobre la aplicación personal de las Escrituras",
+        "Que Dios espera un compromiso cuidadoso y atento, tanto al leer como al registrar Su palabra",
+        "Que corregir un registro incompleto es tarea exclusiva de los profetas, sin relación con cómo un alumno estudia"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

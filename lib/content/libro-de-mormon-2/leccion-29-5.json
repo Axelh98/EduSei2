@@ -3,11 +3,16 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Una vez más aparecen los cuatro pasajes de Dominio de la Doctrina estudiados en el curso —Alma 34:9–10, Alma 39:9, Alma 41:10 y Helamán 5:12—, ahora con un objetivo distinto al de la semana pasada. Ya no se trata solo de comprenderlos ni de memorizarlos: se trata de aplicarlos a situaciones reales de tu vida. El manual de Seminario compara este proceso con andar en bicicleta: hay pasajes que te ayudan a mantener el avance diario, otros que te ayudan a superar un obstáculo puntual, y otros que te conectan directamente con el poder del Salvador cuando más lo necesitás. De nada sirve memorizar Alma 39:9 si nunca lo usás el día que de verdad necesitás dejar de excusarte. De nada sirve saberte Helamán 5:12 de memoria si no lo recordás justo cuando llega la tormenta. Aplicar un pasaje de Escritura significa tenerlo tan presente que aparece solo, en el momento exacto en que una decisión real está en juego —no en un examen, sino en una conversación difícil, en una tentación concreta, en una duda que te ataja a mitad de semana."
+      "contenido": "Una vez más aparecen los cuatro pasajes de Dominio de la Doctrina estudiados en el curso —Alma 34:9–10, Alma 39:9, Alma 41:10 y Helamán 5:12—, ahora con un objetivo distinto al de la semana pasada. Ya no se trata solo de comprenderlos ni de memorizarlos: se trata de aplicarlos a situaciones reales de tu vida. El manual de Seminario compara este proceso con andar en bicicleta: hay pasajes que te ayudan a mantener el avance diario, otros que te ayudan a superar un obstáculo puntual, y otros que te conectan directamente con Su poder cuando más lo necesitás. Esa última categoría es la que le da sentido a todo el ejercicio, porque el manual dice para qué se aplican estos pasajes: para recurrir al poder del Salvador. De nada sirve memorizar Alma 39:9 si nunca lo usás el día que de verdad necesitás dejar de excusarte. De nada sirve saberte Helamán 5:12 de memoria si no lo recordás justo cuando llega la tormenta. Aplicar un pasaje significa tenerlo tan presente que aparece solo, en el momento exacto en que una decisión real está en juego —no en un examen, sino en una conversación difícil, en una tentación concreta, en una duda que te ataja a mitad de semana."
     },
     {
       "tipo": "escrituras",
       "citas": [
+        {
+          "referencia": "Alma 34:9–10",
+          "texto": "Porque es necesario que se realice una expiación; pues según el gran plan del Dios Eterno, debe efectuarse una expiación, o de lo contrario, todo el género humano inevitablemente debe perecer… Porque es preciso que haya un gran y postrer sacrificio; sí, no un sacrificio de hombre, ni de bestia, ni de ningún género de ave; pues no será un sacrificio humano, sino debe ser un sacrificio infinito y eterno.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p9-p10#p9"
+        },
         {
           "referencia": "Alma 39:9",
           "texto": "Hijo mío, quisiera que te arrepintieses y abandonases tus pecados, y no te dejases llevar más por las concupiscencias de tus ojos, sino que te refrenaras de todas estas cosas; porque a menos que hagas esto, de ningún modo podrás heredar el reino de Dios. ¡Oh recuerda, y comprométete, y abstente de estas cosas!",
@@ -34,17 +39,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El presidente Gordon B. Hinckley enseñó que 'la felicidad se halla en guardar los mandamientos', y que transgredirlos 'solo puede ocasionar desdicha' — exactamente lo que ya decía Alma 41:10 con otras palabras: 'la maldad nunca fue felicidad'. Ese es el punto de aplicar, y no solo memorizar: un pasaje que solo vive en tu cabeza no te sirve de nada en el momento real. Uno que tenés listo para usar —para explicarle algo a un amigo, para sostenerte en una tentación, para recordar tu fundamento quien sos en Cristo— sí cambia algo. Animate esta semana a elegir uno de estos cuatro pasajes y proponete usarlo activamente: compartilo con alguien, aplicalo a una decisión concreta, o recurrí a él en el momento exacto en que lo necesites."
+      "contenido": "El presidente Gordon B. Hinckley enseñó que 'la felicidad se halla en guardar los mandamientos', y que transgredirlos 'solo puede ocasionar desdicha' — exactamente lo que ya decía Alma 41:10 con otras palabras: 'la maldad nunca fue felicidad'. Ese es el punto de aplicar y no solo memorizar: un pasaje que solo vive en tu cabeza no te sirve en el momento real. Uno que tenés listo para usar —para explicarle algo a un amigo, para sostenerte en una tentación, para recordar sobre qué roca estás parado— sí cambia algo, porque te conecta con Su poder y no con tu fuerza de voluntad. Elegí uno de los cuatro pasajes esta semana y proponete usarlo activamente en una decisión concreta."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "De los cuatro pasajes repasados, ¿cuál sentís que ya usaste alguna vez en una situación real de tu vida?",
         "Si tuvieras que elegir uno de estos pasajes para 'llevarlo en el bolsillo' toda la semana, ¿cuál sería y por qué?",
-        "¿Notás alguna diferencia entre memorizar un versículo y recordarlo justo en el momento en que lo necesitás?",
+        "Volvé a leer Alma 41:10. Es el más corto de los cuatro: fijate qué palabra hace todo el trabajo en esa frase y qué cambiaría si la sacaras.",
         "¿Qué te parece la enseñanza del presidente Hinckley de que 'la felicidad se halla en guardar los mandamientos'?",
         "Elegí uno de los cuatro pasajes y pensá en una situación concreta de esta semana donde podrías aplicarlo.",
-        "¿A quién le podrías compartir esta semana uno de estos pasajes, y en qué situación específica se lo dirías?"
+        "Antes de compartirle un pasaje a alguien, orá por esa persona nombrándola. Anotá si el pasaje que ibas a elegir sigue siendo el mismo después de orar."
       ]
     }
   ],
@@ -64,23 +69,23 @@
       "id": 2,
       "question": "Según el presidente Gordon B. Hinckley, ¿dónde se encuentra la felicidad, y qué ocasiona transgredir los mandamientos?",
       "options": [
-        "La felicidad se halla en guardar los mandamientos; transgredirlos solo ocasiona desdicha",
-        "La felicidad depende principalmente de las circunstancias externas de cada persona",
         "Que basta con memorizar los pasajes de Dominio de la Doctrina para ser feliz, sin necesidad de vivirlos",
-        "Transgredir los mandamientos trae felicidad temporal sin ninguna consecuencia real"
+        "Transgredir los mandamientos trae felicidad temporal sin ninguna consecuencia real",
+        "La felicidad se halla en guardar los mandamientos; transgredirlos solo ocasiona desdicha",
+        "La felicidad depende principalmente de las circunstancias externas de cada persona"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Esta lección compara aplicar un pasaje de Escritura con andar en bicicleta: hay pasajes para mantener el avance diario, superar obstáculos, o conectarse con el poder del Salvador. ¿Qué diferencia establece esta comparación entre memorizar y aplicar?",
       "options": [
-        "Que memorizar y aplicar son exactamente lo mismo, sin ninguna diferencia real",
-        "Que aplicar implica tener el pasaje disponible para usarlo en el momento exacto de una decisión real, no solo poder recitarlo de memoria",
         "Que aplicar un pasaje es más fácil que memorizarlo",
-        "Que solo los pasajes largos pueden aplicarse a situaciones reales"
+        "Que solo los pasajes largos pueden aplicarse a situaciones reales",
+        "Que memorizar y aplicar son exactamente lo mismo, sin ninguna diferencia real",
+        "Que aplicar es tenerlo listo en el momento de una decisión real"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
@@ -98,7 +103,7 @@
       "question": "Martina se sabe Alma 39:9 de memoria, pero cuando enfrenta una tentación real no se acuerda de usarlo en ese momento. Según el enfoque de esta lección sobre 'aplicar' en lugar de solo memorizar, ¿qué le ayudaría?",
       "options": [
         "Que memorizar el versículo ya es suficiente, no hace falta ningún paso adicional",
-        "Practicar activamente a traer ese versículo a la mente en situaciones cotidianas de menor intensidad, para que esté disponible también en el momento de mayor tentación",
+        "Practicar traerlo a la mente en situaciones cotidianas más chicas",
         "Que debería memorizar un pasaje distinto, ya que ese no le sirve",
         "Que memorizar un pasaje distinto sería más útil que seguir practicando el mismo versículo"
       ],
@@ -110,7 +115,7 @@
       "options": [
         "Alma 39:9, porque se refiere específicamente a dejar de excusarse ante el pecado",
         "Alma 34:9–10, porque habla del sacrificio infinito y eterno de Cristo",
-        "Helamán 5:12, porque enseña que edificar el fundamento sobre la roca de Cristo sostiene a la persona cuando llegan las tormentas de la vida",
+        "Helamán 5:12, porque el fundamento sostiene en la tormenta",
         "Alma 41:10, porque se limita a hablar de la felicidad en términos generales"
       ],
       "correctAnswer": 2
@@ -119,12 +124,12 @@
       "id": 7,
       "question": "Tanto la comparación de aplicar Escrituras con 'andar en bicicleta' como la enseñanza del presidente Hinckley sobre la felicidad comparten un mismo principio central de esta lección. ¿Cuál es?",
       "options": [
-        "Que conocer una doctrina de memoria y vivirla activamente en las decisiones diarias son dos cosas distintas, y solo la segunda produce un cambio real",
         "Que memorizar Escrituras es innecesario si ya se comprende su significado general",
         "Que la felicidad y la aplicación de la doctrina son temas completamente independientes",
-        "Que solo se puede aplicar un pasaje de Escritura una vez en la vida"
+        "Que solo se puede aplicar un pasaje de Escritura una vez en la vida",
+        "Que conocer una doctrina de memoria y vivirla activamente en las decisiones diarias son dos cosas distintas, y solo la segunda produce un cambio real"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }

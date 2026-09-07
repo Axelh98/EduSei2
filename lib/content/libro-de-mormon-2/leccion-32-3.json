@@ -24,6 +24,11 @@
           "referencia": "3 Nefi 18:11",
           "texto": "Y haréis esto en memoria de mi sangre, para que testifiquéis al Padre que siempre os acordáis de mí.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Moroni 4:3",
+          "texto": "Oh Dios, Padre Eterno, en el nombre de Jesucristo, tu Hijo, te pedimos que bendigas y santifiques este pan para las almas de todos los que participen de él, para que lo coman en memoria del cuerpo de tu Hijo, y testifiquen ante ti, oh Dios, Padre Eterno, que están dispuestos a tomar sobre sí el nombre de tu Hijo, y a recordarle siempre, y a guardar sus mandamientos que él les ha dado, para que siempre puedan tener su Espíritu consigo. Amén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/4?lang=spa&id=p3#p3"
         }
       ]
     },
@@ -36,10 +41,10 @@
       "preguntas": [
         "¿Con qué frecuencia sentís que tu mente realmente está presente durante la Santa Cena?",
         "¿Qué haces durante la semana para prepararte para esa ordenanza?",
-        "¿De qué maneras específicas te 'acordás' del Salvador durante ese momento?",
+        "Volvé a leer 3 Nefi 18:7 y 3 Nefi 18:11 juntos. Cristo repite casi la misma frase dos veces: fijate qué cambia entre una y otra y qué queda igual.",
         "¿Cómo has notado que se cumple la promesa de tener Su Espíritu al recordarlo?",
         "Pensá en una distracción común que te aleja durante la Santa Cena. ¿Qué podrías hacer distinto esta semana?",
-        "¿Qué momento concreto de tu vida te gustaría traer a la mente la próxima vez que participes de la Santa Cena?"
+        "Antes del domingo, escribí en el celular ese momento que querés traer a la mente durante la Santa Cena, y leelo camino a la Iglesia."
       ]
     }
   ],
@@ -48,23 +53,23 @@
       "id": 1,
       "question": "Según 3 Nefi 18:7, ¿qué representa el pan de la Santa Cena?",
       "options": [
-        "El cuerpo de Cristo",
         "La ley de Moisés",
         "El pueblo nefita en su totalidad",
-        "Los doce discípulos escogidos"
+        "Los doce discípulos escogidos",
+        "El cuerpo de Cristo"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Según 3 Nefi 18:11, ¿de qué es testimonio al Padre el emblema del vino o agua?",
       "options": [
-        "De que el pueblo cumplió la ley de Moisés",
         "De que siempre se acuerdan de Cristo",
         "De que los discípulos fueron doce en número",
-        "De que la ciudad fue reconstruida"
+        "De que la ciudad fue reconstruida",
+        "De que el pueblo cumplió la ley de Moisés"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
@@ -81,34 +86,34 @@
       "id": 4,
       "question": "La cita del élder Christofferson dice que participar de estos emblemas es una forma de 'traer al Salvador a nuestra vida, a nuestro mismo ser'. ¿Cómo conecta esa idea con la instrucción de 'acordarse siempre' de 3 Nefi 18:7?",
       "options": [
+        "Ambas se refieren únicamente a un acto ceremonial sin ninguna aplicación personal",
         "Ambas enseñan que la Santa Cena es solo un símbolo sin ninguna conexión personal real",
-        "Ambas apuntan a que recordar a Cristo debe traducirse en integrarlo de forma real y continua en la propia vida, no solo en un recuerdo pasajero",
-        "Ninguna de las dos tiene relación con la vida diaria del participante",
-        "Ambas se refieren únicamente a un acto ceremonial sin ninguna aplicación personal"
+        "Ambas piden integrarlo de forma real y continua en la vida",
+        "Ninguna de las dos tiene relación con la vida diaria del participante"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Nicolás participa de la Santa Cena todas las semanas, pero reconoce que su mente suele estar en otra cosa durante esos minutos. Según el énfasis de 3 Nefi 18 en 'acordarse siempre', ¿qué le ayudaría a cambiar?",
       "options": [
-        "Que no hay ningún problema en que su mente esté distraída, ya que el ritual funciona igual",
-        "Que la ordenanza invita justamente a una atención consciente y renovada, así que podría elegir de antemano un pensamiento concreto en qué enfocarse",
         "Que solo los adultos necesitan concentrarse realmente durante la Santa Cena",
-        "Que basta con estar físicamente presente en la Santa Cena, sin importar en qué esté pensando la mente"
+        "Que basta con estar físicamente presente en la Santa Cena, sin importar en qué esté pensando la mente",
+        "Que no hay ningún problema en que su mente esté distraída, ya que el ritual funciona igual",
+        "Que la ordenanza invita a una atención consciente y renovada"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Ana siente que después de cometer un error durante la semana, 'no tiene sentido' participar plenamente de la Santa Cena ese domingo. Según el propósito de esta ordenanza, ¿qué le ayudaría a repensarlo?",
       "options": [
-        "Que tiene razón, y que debería evitar participar hasta sentirse completamente digna por sus propios méritos",
-        "Que la Santa Cena existe precisamente para renovar el convenio y recordar la Expiación de Cristo, lo cual incluye la oportunidad de arrepentirse y volver a comprometerse",
+        "Que la Santa Cena existe para renovar el convenio y volver",
         "Que la Santa Cena está reservada únicamente para quienes no cometieron ningún error esa semana",
-        "Que solo quienes nunca cometen errores deberían participar del sacramento"
+        "Que solo quienes nunca cometen errores deberían participar del sacramento",
+        "Que tiene razón, y que debería evitar participar hasta sentirse completamente digna por sus propios méritos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Cristo les explica a los nefitas algo que les cambiaba la manera de entenderse a sí mismos. Primero les dice que la ley de Moisés se cumplió en Él, y que Él es la ley y la luz. Después toca un tema que había quedado abierto del otro lado del mundo. Estando en Jerusalén, Cristo había hablado de 'otras ovejas que no son de este redil'. Los de allá entendieron que hablaba de los gentiles. Ahora les revela a los nefitas la verdad: esas otras ovejas eran ellos. Y no termina ahí. Les dice que todavía hay otras tribus que el Padre lo mandó visitar, y que a ellas también las conoce. La imagen que usa en todo el pasaje es la del pastor. No la del rey ni la del juez: la del pastor, que es alguien que cuenta sus ovejas y sale a buscar a la que falta. Si alguna vez sentiste que estás lejos, o que pertenecés a la parte del mundo que a Dios se le pasó por alto, este es el capítulo donde Cristo responde exactamente eso. No hay redil olvidado. Hay un solo Pastor, y te conoce por nombre."
+      "contenido": "Cristo les explica a los nefitas algo que les cambiaba la manera de entenderse a sí mismos. Primero les dice que la ley de Moisés se cumplió en Él, y que Él es la ley y la luz. Después toca un tema que había quedado abierto del otro lado del mundo. Estando en Jerusalén, Cristo había hablado de 'otras ovejas que no son de este redil'. Los de allá entendieron que hablaba de los gentiles. Ahora les revela a los nefitas la verdad: esas otras ovejas eran ellos. Y no termina ahí. Les dice que todavía hay otras tribus que el Padre lo mandó visitar, y que a ellas también las conoce. La imagen que usa en todo el pasaje es la del pastor. No la del rey ni la del juez: la del Buen Pastor, que es alguien que cuenta sus ovejas y sale a buscar a la que falta, no alguien que espera a que la oveja encuentre el camino sola. Si alguna vez sentiste que estás lejos, o que pertenecés a la parte del mundo que a Dios se le pasó por alto, este es el capítulo donde Cristo responde exactamente eso. No hay redil olvidado. Hay un solo Pastor, y te conoce por nombre."
     },
     {
       "tipo": "enseñanza",
@@ -41,10 +41,10 @@
       "preguntas": [
         "¿Habías escuchado antes la frase 'tengo otras ovejas que no son de este redil'?",
         "¿Qué te enseña el concepto de las 'otras ovejas' sobre el alcance del ministerio de Cristo?",
-        "¿De qué manera personal sentís que sos parte de ese 'rebaño' del que habla Cristo?",
+        "Volvé a leer 3 Nefi 15:20–21. Fijate a quiénes dice Cristo que el Padre 'separó', y qué razón da: ¿es una razón geográfica o de otro tipo?",
         "¿Alguna vez te sentiste 'fuera del grupo' en algún contexto, y cómo te hubiera ayudado sentirte incluido?",
         "¿Conocés a alguien que hoy se sienta un poco al margen de tu grupo de jóvenes o de tu familia?",
-        "¿Qué gesto concreto podrías hacer esta semana para que esa persona se sienta parte del 'rebaño'?"
+        "Escribí el nombre de esa persona en un papel y guardalo donde lo veas. Cada vez que lo veas esta semana, meditá un momento en cómo estará."
       ]
     }
   ],
@@ -53,41 +53,41 @@
       "id": 1,
       "question": "Según 3 Nefi 15:21, ¿a quiénes identifica Cristo como las 'otras ovejas' que mencionó a Sus discípulos en Jerusalén?",
       "options": [
+        "A un pueblo que nunca sería identificado",
         "A los ángeles del cielo",
         "A los nefitas, presentes en ese momento escuchándolo",
-        "Únicamente a los judíos de Jerusalén",
-        "A un pueblo que nunca sería identificado"
+        "Únicamente a los judíos de Jerusalén"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Según 3 Nefi 16:16, ¿qué le ha mandado el Padre a Cristo respecto a esta tierra?",
       "options": [
-        "Que la destruya por la iniquidad de su pueblo",
-        "Que la dé a este pueblo por herencia",
         "Que la mantenga oculta para siempre",
-        "Que la entregue únicamente a otra nación"
+        "Que la entregue únicamente a otra nación",
+        "Que la destruya por la iniquidad de su pueblo",
+        "Que la dé a este pueblo por herencia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Cristo dice que 'a causa de su iniquidad' las otras tribus dispersas no saben unas de otras (3 Nefi 15:20). ¿Qué relación establece ese versículo entre la desobediencia y la desconexión entre los pueblos de Israel?",
       "options": [
-        "Que la dispersión de las tribus fue una decisión geográfica de Dios, sin relación con la conducta del pueblo",
-        "Que el apartarse de Dios contribuyó a la fragmentación y pérdida de conexión entre las distintas partes de Israel",
+        "Que apartarse de Dios fragmentó y desconectó a Israel",
         "Que Dios dispersó a los pueblos sin ninguna razón relacionada con sus decisiones",
-        "Que la iniquidad solo afectó a los nefitas, no a las demás tribus"
+        "Que la iniquidad solo afectó a los nefitas, no a las demás tribus",
+        "Que la dispersión de las tribus fue una decisión geográfica de Dios, sin relación con la conducta del pueblo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "La promesa de que 'habrá un rebaño y un pastor' (3 Nefi 15:21) se cumple reuniendo a grupos que estaban dispersos y sin contacto entre sí. ¿Qué enseña esto sobre el alcance del plan de Cristo?",
       "options": [
         "Que el plan de Cristo se limita únicamente a un solo pueblo o nación",
-        "Que el plan de salvación de Cristo abarca a toda la familia humana dispersa, no solo a un grupo aislado",
+        "Que Su plan abarca a toda la familia humana dispersa",
         "Que los distintos pueblos de la tierra nunca podrán reunirse espiritualmente",
         "Que esta promesa se limita únicamente a los descendientes directos de las tribus originales de Israel"
       ],
@@ -97,34 +97,34 @@
       "id": 5,
       "question": "Camila siente que, por vivir lejos de los lugares donde comenzó la Iglesia, su fe 'vale menos' que la de otras personas. Según la enseñanza de las 'otras ovejas', ¿qué le ayudaría a entender?",
       "options": [
+        "Que solo los primeros discípulos de Jerusalén importan realmente en el plan de Cristo",
         "Que su percepción es correcta, porque solo importa el lugar de origen de la fe",
-        "Que el alcance del ministerio de Cristo siempre incluyó a pueblos alejados del centro conocido, y su fe tiene el mismo valor sin importar la distancia geográfica",
-        "Que las 'otras ovejas' ya no tienen relevancia en la actualidad",
-        "Que solo los primeros discípulos de Jerusalén importan realmente en el plan de Cristo"
+        "Que Su ministerio siempre incluyó a los pueblos lejanos",
+        "Que las 'otras ovejas' ya no tienen relevancia en la actualidad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Mateo nota que un compañero nuevo en el grupo de jóvenes se siente afuera porque no conoce a nadie. Según el principio de 'un rebaño y un pastor', ¿qué actitud reflejaría mejor esa enseñanza?",
       "options": [
-        "Ignorarlo, ya que integrarlo no es responsabilidad de nadie en particular",
-        "Buscar activamente incluirlo, reflejando el mismo deseo de Cristo de reunir a quienes están dispersos o se sienten afuera",
         "Esperar a que el compañero nuevo resuelva la situación completamente solo",
-        "Esperar a que el compañero nuevo dé el primer paso, ya que no es su responsabilidad acercarse primero"
+        "Esperar a que el compañero nuevo dé el primer paso, ya que no es su responsabilidad acercarse primero",
+        "Ignorarlo, ya que integrarlo no es responsabilidad de nadie en particular",
+        "Buscar activamente incluirlo, reflejando el mismo deseo de Cristo de reunir a quienes están dispersos o se sienten afuera"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "Tanto la revelación de que los nefitas son las 'otras ovejas' como la promesa de la tierra por herencia (3 Nefi 16:16) muestran algo en común sobre cómo actúa Dios con los pueblos dispersos. ¿Qué es?",
       "options": [
-        "Que Dios abandona a los pueblos que quedan geográficamente distantes del centro de la revelación",
-        "Que Dios tiene un plan deliberado para alcanzar, identificar y bendecir a todos los pueblos dispersos de Israel, sin importar cuán lejos estén",
+        "Que Dios tiene un plan deliberado para todos los dispersos",
         "Que solo un pueblo puede recibir las bendiciones prometidas a Israel",
-        "Que estas dos enseñanzas no guardan ninguna relación entre sí"
+        "Que estas dos enseñanzas no guardan ninguna relación entre sí",
+        "Que Dios abandona a los pueblos que quedan geográficamente distantes del centro de la revelación"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

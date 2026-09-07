@@ -3,11 +3,16 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Amulek pasa de la doctrina a la instrucción práctica, y se pone muy concreto. Primero enseña a orar, pero no como una fórmula: orar en los campos, en la casa, por las cosechas, por la familia, contra el enemigo, contra el adversario. Y después agrega algo que suele pasarse por alto: si alguien dice que ora por todo eso y no ayuda al necesitado ni al desnudo, su oración 'de nada le vale'. La oración y la manera de tratar a la gente no son dos temas separados. Después viene la advertencia central. Amulek dice que esta vida es el tiempo para prepararse para comparecer ante Dios, y que no conviene postergarlo hasta el final. Su razón no es una amenaza: es una observación sobre cómo funciona la gente. Los hábitos que construís ahora son los que vas a tener después, porque 'aquel mismo espíritu que posea vuestros cuerpos al salir de esta vida' es el que sigue con vos. No es que Dios te cierre la puerta. Es que uno se vuelve, con el tiempo, la persona que viene practicando ser. Por eso Amulek insiste en no dejarlo para mañana."
+      "contenido": "Amulek pasa de la doctrina a la instrucción práctica, y se pone muy concreto. Primero enseña a orar, pero no como una fórmula: orar en los campos, en la casa, por las cosechas, por la familia, contra el enemigo, contra el adversario. Y después agrega algo que suele pasarse por alto: si alguien dice que ora por todo eso y no ayuda al necesitado ni al desnudo, su oración 'de nada le vale'. La oración y la manera de tratar a la gente no son dos temas separados. Después viene la advertencia central. Amulek dice que esta vida es el tiempo para prepararse para comparecer ante Dios, y que no conviene postergarlo hasta el final. Su razón no es una amenaza: es una observación sobre cómo funciona la gente. Los hábitos que construís ahora son los que vas a tener después, porque 'aquel mismo espíritu que posea vuestros cuerpos al salir de esta vida' es el que sigue con vos. No es que Dios te cierre la puerta. Es que uno se vuelve, con el tiempo, la persona que viene practicando ser. Pero hay algo que Amulek dijo unos versículos antes y que le da sentido a toda la urgencia. Antes de pedirles que no lo dejen para mañana, les explicó por qué hoy alcanza: por el sacrificio infinito de Jesucristo, la misericordia satisface las exigencias de la justicia y 'ciñe a los hombres con brazos de seguridad' (Alma 34:15–16). Amulek no apura a nadie porque el tiempo se acabe y Dios se canse. Apura porque la puerta ya está abierta y el Señor obra 'inmediatamente' en el que se vuelve a Él. La prisa no es miedo: es que no tiene sentido esperar cuando el precio ya está pagado."
     },
     {
       "tipo": "escrituras",
       "citas": [
+        {
+          "referencia": "Alma 34:15–16",
+          "texto": "Y así él trae la salvación a cuantos crean en su nombre; ya que es el propósito de este último sacrificio poner en efecto las entrañas de misericordia, que sobrepujan a la justicia y proveen a los hombres la manera de tener fe para arrepentimiento. Y así la misericordia satisface las exigencias de la justicia, y ciñe a los hombres con brazos de seguridad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa&id=p15-p16#p15"
+        },
         {
           "referencia": "Alma 34:31–32",
           "texto": "Sí, quisiera que vinieseis y no endurecieseis más vuestros corazones; porque he aquí, hoy es el tiempo y el día de vuestra salvación; y por tanto, si os arrepentís y no endurecéis vuestros corazones, inmediatamente obrará para vosotros el gran plan de redención. Porque he aquí, esta vida es cuando el hombre debe prepararse para comparecer ante Dios; sí, el día de esta vida es el día en que el hombre debe ejecutar su obra.",
@@ -34,14 +39,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Amulek advierte algo directo: esta vida es el tiempo señalado para prepararnos, y postergar el arrepentimiento tiene un costo real. También enseña que la oración vacía —la de alguien que le da la espalda al necesitado— no vale nada; la fe genuina se nota en las acciones. Las dos ideas se conectan: el arrepentimiento verdadero no es una intención para 'después', es una decisión que se toma hoy, con hechos concretos. Pensá en algo que venís posponiendo cambiar —una disculpa, un hábito, una oración pendiente— y dale un primer paso esta semana, en vez de dejarlo para 'cuando tenga más tiempo'."
+      "contenido": "Amulek advierte algo directo: esta vida es el tiempo señalado para prepararnos, y postergar el arrepentimiento tiene un costo real. También enseña que la oración vacía —la de alguien que le da la espalda al necesitado— no vale nada; la fe genuina se nota en las acciones. Pero la urgencia de Amulek descansa en una promesa, no en una amenaza: por el sacrificio de Jesucristo, la misericordia ya satisface las exigencias de la justicia, y el Señor obra 'inmediatamente' en quien se vuelve a Él. No hay lista de espera. Pensá en algo que venís posponiendo cambiar —una disculpa, un hábito, una oración pendiente— y dale un primer paso esta semana, apoyándote en que Él ya hizo Su parte."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Alguna vez postergaste algo importante pensando 'lo hago después' y terminó costándote más?",
         "¿Qué te llamó la atención de la frase de Amulek sobre 'la noche de tinieblas'?",
-        "¿Hay algo en tu vida que hayas estado posponiendo cambiar? ¿Qué te frena?",
+        "Volvé a leer Alma 34:31–32. Amulek dice que algo obra 'inmediatamente' cuando alguien se arrepiente. ¿Qué dice exactamente el versículo que pasa en ese mismo momento?",
         "¿Cómo cambia tu forma de ver el tiempo la advertencia de Amulek sobre no procrastinar?",
         "¿Qué paso concreto vas a dar esta semana con eso que venís postergando?",
         "¿Cómo podrías incorporar un momento fijo de oración en tu rutina diaria, empezando esta semana?"
@@ -53,78 +58,78 @@
       "id": 1,
       "question": "Según Alma 34:32–33, ¿qué advierte Amulek sobre procrastinar el arrepentimiento hasta después de esta vida?",
       "options": [
-        "Que solo las personas mayores necesitan preocuparse por eso",
         "Que está bien esperar, porque siempre habrá otra oportunidad",
-        "Que esta vida es el tiempo señalado para prepararnos; si la desperdiciamos, la noche de las tinieblas nos alcanza",
-        "Que no tiene ninguna consecuencia real"
+        "Que esta vida es el tiempo señalado para prepararnos",
+        "Que no tiene ninguna consecuencia real",
+        "Que solo las personas mayores necesitan preocuparse por eso"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "Amulek enseña que si volvemos la espalda al necesitado, ¿qué ocurre con nuestra oración según Alma 34:28?",
       "options": [
+        "No cambia en nada",
         "Se vuelve aún más poderosa",
         "Es en vano y no vale nada",
-        "Se acorta automáticamente su duración",
-        "No cambia en nada"
+        "Se acorta automáticamente su duración"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Amulek dice que quienes mueren en sus pecados, sin haber hecho caso a las palabras de los profetas, quedan sujetos al espíritu del diablo. ¿Qué relación establece esto entre la procrastinación y la libertad futura de elegir?",
       "options": [
-        "Que el tiempo de esta vida es el único período en que la persona conserva plena libertad para arrepentirse; después, el hábito y las decisiones tomadas la sujetan",
         "Que después de la muerte todos son forzados a ser buenos",
         "Que la procrastinación no afecta el estado espiritual de nadie",
-        "Que la muerte da automáticamente una segunda oportunidad completa para cambiar"
+        "Que la muerte da automáticamente una segunda oportunidad completa para cambiar",
+        "Que solo en esta vida se conserva plena libertad para arrepentirse"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "Amulek pide 'compartir nuestras sustancias' con el necesitado y visitar al enfermo y al afligido (Alma 34:28–29). ¿Por qué conecta esta enseñanza justo después de hablar del sacrificio infinito de Cristo?",
       "options": [
+        "Porque el arrepentimiento verdadero, hecho posible por la expiación, se demuestra en cómo tratamos a los demás, no solo en palabras",
         "Porque ayudar a otros reemplaza la necesidad de la expiación",
         "Porque es un tema sin relación con la fe en Cristo",
-        "Porque quiere cambiar completamente de tema",
-        "Porque el arrepentimiento verdadero, hecho posible por la expiación, se demuestra en cómo tratamos a los demás, no solo en palabras"
+        "Porque quiere cambiar completamente de tema"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Nicolás tiene ganas de faltar al Seminario porque se quedó dormido, y piensa: 'da igual, mañana empiezo de nuevo con todo'. Según la advertencia de Amulek sobre no procrastinar, ¿qué le dirías?",
       "options": [
-        "Que 'este día de la vida' es el tiempo para prepararse, y que posponer decisiones pequeñas puede convertirse en un patrón que cuesta más romper después",
+        "Que tiene razón, siempre hay tiempo de sobra sin ningún costo",
+        "Que 'este día de la vida' es el tiempo para prepararse",
         "Que basta con tener la intención de cambiar mañana, aunque hoy decida no actuar",
-        "Que solo importa procrastinar en decisiones grandes, no en las pequeñas",
-        "Que tiene razón, siempre hay tiempo de sobra sin ningún costo"
+        "Que solo importa procrastinar en decisiones grandes, no en las pequeñas"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "Un compañero le dice a Lucía que orar alcanza, y que no hace falta involucrarse con los problemas reales de sus compañeros de curso. Usando Alma 34:28, ¿qué le respondería Lucía?",
       "options": [
-        "Que según Amulek, si le da la espalda al necesitado, su propia oración queda vacía; la fe genuina se muestra también en las acciones",
-        "Que ayudar a otros es opcional para quien ya tiene fe fuerte",
         "Que la oración y el servicio son temas completamente separados",
-        "Que está de acuerdo: orar siempre es suficiente"
+        "Que está de acuerdo: orar siempre es suficiente",
+        "Que según Amulek, si le da la espalda al necesitado, su propia oración queda vacía; la fe genuina se muestra también en las acciones",
+        "Que ayudar a otros es opcional para quien ya tiene fe fuerte"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Tanto la advertencia contra la procrastinación como el llamado a compartir con el necesitado enseñan algo en común sobre el arrepentimiento verdadero. ¿Cuál es ese principio compartido?",
       "options": [
-        "Que arrepentirse consiste únicamente en dejar de hacer algo malo, sin relación con hacer el bien a otros",
-        "Que el arrepentimiento requiere actuar ahora, con decisiones concretas, no solo con buenas intenciones para el futuro",
         "Que el arrepentimiento es un evento único que ocurre una sola vez en la vida",
-        "Que basta con sentir remordimiento, sin necesidad de cambiar nada"
+        "Que basta con sentir remordimiento, sin necesidad de cambiar nada",
+        "Que arrepentirse consiste únicamente en dejar de hacer algo malo, sin relación con hacer el bien a otros",
+        "Que el arrepentimiento exige actuar ahora, con decisiones concretas"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

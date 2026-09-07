@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La frase para memorizar es esta: 'venid a mí y sed bautizados… para que seáis santificados por la recepción del Espíritu Santo'. Fijate cómo está armado el versículo, porque es una secuencia y el orden importa. Primero arrepentirse. Después venir a Cristo y bautizarse. Después ser santificado por el Espíritu Santo. Y recién entonces poder comparecer sin mancha en el último día. Cada paso depende del anterior. La palabra difícil acá es 'santificados'. No significa portarse bien: significa ser hecho limpio y santo, y el que hace ese trabajo no sos vos, es el Espíritu Santo. Por eso el versículo dice 'seáis santificados' y no 'santificaos'. Guardá esa distinción, porque es exactamente lo que necesita alguien que se esfuerza, se arrepiente, y aun así vive con miedo de no alcanzar. Ese miedo suele venir de un supuesto falso: creer que hay que llegar limpio por cuenta propia. Este pasaje dice lo contrario. Vos venís y te bautizás; la limpieza la hace Él."
+      "contenido": "La frase para memorizar es esta: 'venid a mí y sed bautizados… para que seáis santificados por la recepción del Espíritu Santo'. Fijate cómo está armado el versículo, porque es una secuencia y el orden importa. Primero arrepentirse. Después venir a Cristo y bautizarse. Después ser santificado por el Espíritu Santo. Y recién entonces poder comparecer sin mancha en el último día. Cada paso depende del anterior. La palabra difícil acá es 'santificados'. No significa portarse bien: significa ser hecho limpio y santo, y el que hace ese trabajo no sos vos, es el Espíritu Santo. Por eso el versículo dice 'seáis santificados' y no 'santificaos'. Moroni lo explica todavía más claro: sois santificados en Cristo por la gracia de Dios, mediante el derramamiento de Su sangre. Guardá esa distinción, porque es exactamente lo que necesita alguien que se esfuerza, se arrepiente, y aun así vive con miedo de no alcanzar. Ese miedo suele venir de un supuesto falso: creer que hay que llegar limpio por cuenta propia. Este pasaje dice lo contrario. Vos venís y te bautizás en Su nombre; la limpieza la hace Él."
     },
     {
       "tipo": "escrituras",
@@ -12,6 +12,16 @@
           "referencia": "3 Nefi 27:20",
           "texto": "Y este es el mandamiento: Arrepentíos, todos vosotros, extremos de la tierra, y venid a mí y sed bautizados en mi nombre, para que seáis santificados por la recepción del Espíritu Santo, a fin de que en el postrer día os presentéis ante mí sin mancha.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "2 Nefi 31:17",
+          "texto": "Porque la puerta por la cual debéis entrar es el arrepentimiento y el bautismo en el agua; y entonces viene una remisión de vuestros pecados por fuego y por el Espíritu Santo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Moroni 10:33",
+          "texto": "Y además, si por la gracia de Dios sois perfectos en Cristo y no negáis su poder, entonces sois santificados en Cristo por la gracia de Dios, mediante el derramamiento de la sangre de Cristo, que está en el convenio del Padre para la remisión de vuestros pecados, a fin de que lleguéis a ser santos, sin mancha.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p33#p33"
         }
       ]
     },
@@ -24,7 +34,7 @@
       "preguntas": [
         "¿Ya te sabías de memoria, aunque sea en parte, 3 Nefi 27:20? ¿Qué frase se te queda más grabada?",
         "Si tuvieras que resumir en una palabra este versículo, ¿cuál sería: arrepentimiento, santificación, o mandamiento?",
-        "¿Qué significa para vos ser 'santificado por la recepción del Espíritu Santo'?",
+        "Volvé a leer 3 Nefi 27:20 y numerá los pasos que aparecen en el versículo. ¿Cuál de todos no lo hacés vos, sino Alguien más?",
         "¿Cómo te sentís al saber que podés presentarte ante Cristo 'sin mancha' si seguís este proceso?",
         "Elegí memorizar 3 Nefi 27:20 esta semana. ¿Qué método vas a usar: repetirlo en voz alta, escribirlo, otro?",
         "De los pasos que menciona este versículo —arrepentimiento, bautismo, Espíritu Santo— ¿cuál sentís que necesitás fortalecer más esta semana?"
@@ -47,29 +57,29 @@
       "id": 2,
       "question": "Según este versículo, ¿mediante qué se logra la santificación después del bautismo?",
       "options": [
-        "Mediante la recepción del Espíritu Santo",
-        "Únicamente mediante buenas obras",
         "Mediante el paso del tiempo sin ninguna acción adicional",
-        "Mediante el reconocimiento público de la comunidad"
+        "Mediante el reconocimiento público de la comunidad",
+        "Mediante la recepción del Espíritu Santo",
+        "Únicamente mediante buenas obras"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "El versículo describe una secuencia: arrepentimiento, venir a Cristo, bautismo, santificación por el Espíritu. ¿Qué principio ilustra que estos pasos aparezcan en un orden específico?",
       "options": [
-        "Que la salvación sigue un proceso progresivo, en el cual cada paso prepara para el siguiente, y no son elementos intercambiables o aislados",
         "Que el orden de los pasos no tiene ninguna importancia real",
         "Que basta con cumplir solo el último paso para obtener los mismos resultados",
-        "Que estos pasos ocurren automáticamente sin ninguna decisión personal"
+        "Que estos pasos ocurren automáticamente sin ninguna decisión personal",
+        "Que la salvación es un proceso donde cada paso prepara el siguiente"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Por qué es significativo que la meta final de este versículo sea presentarse ante Cristo 'sin mancha' en el postrer día, y no simplemente 'ser perdonado'?",
       "options": [
-        "Porque describe un objetivo completo y permanente de pureza, resultado de un proceso sostenido, no solo un evento aislado de perdón",
+        "Porque describe pureza completa, no solo un perdón puntual",
         "Porque 'sin mancha' se refiere únicamente a la apariencia física de la persona",
         "Porque esa frase se refiere únicamente a un estado emocional de paz, sin relación con la pureza real",
         "Porque implica que el perdón y la santificación son conceptos idénticos sin ninguna diferencia"
@@ -80,34 +90,34 @@
       "id": 5,
       "question": "Agustina se arrepintió de un error y sintió alivio, pero después no hizo nada más al respecto, pensando que 'ya estaba todo resuelto'. Según la secuencia completa de 3 Nefi 27:20, ¿qué le ayudaría a entender su proceso?",
       "options": [
-        "Que el arrepentimiento es un paso importante, pero la santificación continúa mediante mantener los convenios y buscar activamente la compañía del Espíritu Santo",
+        "Que sentir alivio significa que el proceso completo ya terminó",
+        "Que el arrepentimiento es un paso, y la santificación sigue",
         "Que una vez que siente alivio, ya no necesita hacer nada más nunca",
-        "Que el arrepentimiento y la santificación son exactamente lo mismo",
-        "Que sentir alivio significa que el proceso completo ya terminó"
+        "Que el arrepentimiento y la santificación son exactamente lo mismo"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "Benjamín quiere explicarle a un amigo, en pocas palabras, qué significa 'seguir a Cristo' según el Libro de Mormón. Usando 3 Nefi 27:20, ¿qué resumen sería más fiel al texto?",
       "options": [
+        "Que este versículo no ofrece ningún resumen claro del proceso",
         "Que consiste únicamente en creer intelectualmente sin ninguna acción adicional",
         "Que consiste en arrepentirse, acercarse a Cristo, bautizarse en Su nombre, y buscar la santificación continua mediante el Espíritu Santo",
-        "Que consiste en seguir tradiciones familiares sin ningún paso personal",
-        "Que este versículo no ofrece ningún resumen claro del proceso"
+        "Que consiste en seguir tradiciones familiares sin ningún paso personal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Tanto el mandamiento de arrepentirse y bautizarse como la meta de presentarse 'sin mancha' forman una sola idea central de este pasaje de dominio de la doctrina. ¿Cuál es?",
       "options": [
-        "Que la salvación es un proceso completo y progresivo —no un solo evento— que lleva de la iniquidad a la pureza mediante pasos concretos y sostenidos",
         "Que la salvación depende únicamente de un solo acto puntual, sin ningún proceso posterior",
         "Que el bautismo por sí solo garantiza automáticamente la pureza final sin ningún paso adicional",
-        "Que este pasaje no tiene ninguna aplicación práctica para la vida diaria"
+        "Que este pasaje no tiene ninguna aplicación práctica para la vida diaria",
+        "Que la salvación es un proceso progresivo, no un solo evento"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }

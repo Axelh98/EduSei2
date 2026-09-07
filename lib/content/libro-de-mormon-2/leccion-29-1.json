@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Han pasado casi los cinco años que anunció Samuel el Lamanita, y todavía no hay ninguna señal del nacimiento de Cristo. Los incrédulos empiezan a burlarse: 'ya se pasó el tiempo, y no se han cumplido las palabras de Samuel; han sido en vano vuestro gozo y vuestra fe.' La presión es tan fuerte que los que no creen fijan un día exacto para matar a todos los que sigan creyendo, si la señal no se cumple antes. Imaginate el peso de esa espera: sabés lo que creíste, pero el tiempo pasa y todavía no ves nada, mientras a tu alrededor te dicen que fuiste ingenuo por haber creído. Nefi, el profeta de esa generación, se angustia profundamente por su pueblo y pasa el día entero clamando a Dios en oración. Esa misma noche, el Señor le habla directamente: 'Levanta la cabeza y regocíjate… mañana yo vengo al mundo.' Esa misma noche cae la señal exactamente como se había profetizado. Este relato no es solo sobre una fecha límite que se cumplió a tiempo. Es sobre lo que significa seguir creyendo cuando la respuesta tarda más de lo que esperabas, y sobre lo que puede pasar cuando alguien —como Nefi— elige orar en vez de resignarse.",
+      "contenido": "Han pasado casi los cinco años que anunció Samuel el Lamanita, y todavía no hay ninguna señal del nacimiento de Cristo. Los incrédulos empiezan a burlarse: 'ya se pasó el tiempo, y no se han cumplido las palabras de Samuel; han sido en vano vuestro gozo y vuestra fe.' La presión es tan fuerte que los que no creen fijan un día exacto para matar a todos los que sigan creyendo, si la señal no se cumple antes. Imaginate el peso de esa espera: sabés lo que creíste, pero el tiempo pasa y todavía no ves nada, mientras a tu alrededor te dicen que fuiste ingenuo por haber creído. Nefi, el profeta de esa generación, se angustia profundamente por su pueblo y pasa el día entero clamando a Dios en oración. Esa misma noche, el Señor le habla directamente. Y fijate qué le dice, porque no es 'aguantá un poco más': le dice 'levanta la cabeza y regocíjate… mañana yo vengo al mundo'. La espera no terminó porque el pueblo aguantara lo suficiente. Terminó porque Él cumplió Su promesa, en la fecha que había dado. Esa misma noche cae la señal exactamente como se había profetizado. Este relato no es solo sobre una fecha límite que se cumplió a tiempo. Es sobre lo que significa seguir creyendo cuando la respuesta tarda más de lo que esperabas, y sobre lo que puede pasar cuando alguien —como Nefi— elige orar en vez de resignarse.",
       "imagen": {
         "assetId": "7ed99df2991411ed958ceeeeac1e07fe76525078",
         "alt": "nefitas viendo la nueva estrella",
@@ -40,14 +40,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Los creyentes de esta historia no solo esperaron: fueron burlados, amenazados de muerte, y vieron pasar el tiempo sin ninguna prueba visible de que su fe tuviera sentido. El élder Jeffrey R. Holland enseñó que la fe significa confiar en Dios 'en los buenos tiempos y en los malos, aunque eso incluya algo de sufrimiento hasta que veamos Su brazo revelarse a nuestro favor.' Nefi no se cruzó de brazos a esperar pasivamente: pasó el día entero orando por su pueblo. Esa noche llegó la respuesta. A veces la fe no se trata de tener la certeza de que algo va a pasar mañana, sino de seguir orando y confiando hoy, mientras la respuesta todavía no llega. Esta semana, si estás esperando una respuesta que tarda más de lo que quisieras, seguí el ejemplo de Nefi: en vez de resignarte, llevá esa espera directamente a Dios en oración."
+      "contenido": "Los creyentes de esta historia no solo esperaron: fueron burlados, amenazados de muerte, y vieron pasar el tiempo sin ninguna prueba visible de que su fe tuviera sentido. El élder Jeffrey R. Holland enseñó que la fe significa confiar en Dios 'en los buenos tiempos y en los malos, aunque eso incluya algo de sufrimiento hasta que veamos Su brazo revelarse a nuestro favor'. Nefi no se cruzó de brazos: pasó el día entero orando por su pueblo, y esa noche llegó la respuesta —no por su insistencia, sino porque Jesucristo cumplió lo que había prometido. Esta semana, si estás esperando una respuesta que tarda, seguí el ejemplo de Nefi: en vez de resignarte, llevá esa espera a Dios en oración."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te pareció la amenaza de los incrédulos de matar a los creyentes si la señal no se cumplía a tiempo?",
         "Si tuvieras que resumir en una palabra lo que sintió Nefi durante esa larga espera, ¿cuál sería: angustia, fe, o esperanza?",
-        "¿Alguna vez tuviste que esperar una respuesta de Dios mucho más tiempo del que hubieras querido?",
+        "Volvé a leer 3 Nefi 1:15–17. Fijate qué pasa primero en el versículo 15 y qué recién después: ¿qué hizo el Señor antes de que apareciera la señal en el cielo?",
         "¿Qué te parece la enseñanza del élder Holland de que la fe 'incluye algo de sufrimiento hasta que veamos Su brazo revelarse a nuestro favor'?",
         "Como Nefi, ¿hay algo por lo que necesitás orar con más constancia esta semana, en lugar de solo esperar pasivamente?",
         "¿A quién le podrías compartir esta semana esta historia, si sabés que está pasando por una espera difícil?"
@@ -70,23 +70,23 @@
       "id": 2,
       "question": "¿Qué hizo Nefi el día antes de que se cumpliera la señal, angustiado por la situación de su pueblo?",
       "options": [
+        "Convocó una asamblea pública para debatir con los incrédulos",
         "Reunió un ejército para defender a los creyentes por la fuerza",
         "Pasó el día entero clamando fervientemente a Dios en oración",
-        "Huyó de la ciudad para salvar su propia vida",
-        "Convocó una asamblea pública para debatir con los incrédulos"
+        "Huyó de la ciudad para salvar su propia vida"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "El texto dice que muchos incrédulos 'cayeron a tierra como si estuviesen muertos' al ver que no hubo oscuridad esa noche (3 Nefi 1:16-17). ¿Qué relación establece esa reacción con lo que habían planeado hacer?",
       "options": [
-        "Que se dieron cuenta de que el plan de destrucción que habían tramado contra los creyentes se había frustrado por completo ante la evidencia innegable",
         "Que sintieron un dolor físico causado directamente por la luz de la señal",
         "Que esa reacción no tenía ninguna relación con la amenaza que habían planeado",
-        "Que fingieron desmayarse para evitar cumplir con su propia amenaza"
+        "Que fingieron desmayarse para evitar cumplir con su propia amenaza",
+        "Que su plan contra los creyentes había quedado frustrado"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 4,
@@ -104,7 +104,7 @@
       "question": "Sofía siente que lleva mucho tiempo orando por algo importante sin ver ninguna respuesta, y empieza a dudar si tiene sentido seguir esperando. Según el ejemplo de los creyentes de 3 Nefi 1 y la enseñanza del élder Holland, ¿qué le ayudaría?",
       "options": [
         "Que si la respuesta tarda, es señal segura de que Dios no va a responder nunca",
-        "Que la fe genuina puede incluir un tiempo de espera difícil antes de ver 'el brazo de Dios revelarse a nuestro favor', y que eso no invalida la fe que ya tiene",
+        "Que la fe puede incluir una espera difícil sin dejar de ser fe",
         "Que debería dejar de orar por ese tema hasta sentirse más segura",
         "Que solo los profetas antiguos recibían respuestas reales a sus oraciones"
       ],
@@ -114,23 +114,23 @@
       "id": 6,
       "question": "Franco se siente presionado por compañeros que se burlan de su fe, diciendo que 'ya pasó mucho tiempo y nada cambió'. Según el ejemplo de Nefi ante la burla de los incrédulos, ¿qué actitud le ayudaría más?",
       "options": [
+        "Esperar a que la burla se detenga por sí sola sin tomar ninguna acción espiritual",
         "Responder a la burla dejando de creer, ya que la presión social es demasiado fuerte para resistirla",
         "Llevar esa presión directamente a Dios en oración sostenida, como hizo Nefi, en lugar de resignarse ante la burla",
-        "Ignorar completamente sus propios sentimientos de angustia sin buscar ayuda de Dios",
-        "Esperar a que la burla se detenga por sí sola sin tomar ninguna acción espiritual"
+        "Ignorar completamente sus propios sentimientos de angustia sin buscar ayuda de Dios"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Tanto la amenaza de muerte fijada por los incrédulos como la oración sostenida de Nefi la noche anterior a la señal muestran algo importante sobre la fe bajo presión. ¿Qué principio comparten?",
       "options": [
-        "Que la fe genuina a veces se pone a prueba justo en el momento de mayor presión, y es precisamente ahí donde la oración sostenida puede sostenerla",
         "Que la amenaza externa siempre logra destruir la fe de quien la sufre",
         "Que la oración solo tiene efecto cuando no existe ningún tipo de presión externa",
-        "Que la amenaza de los incrédulos fue lo que realmente provocó que se cumpliera la señal esa noche"
+        "Que la amenaza de los incrédulos fue lo que realmente provocó que se cumpliera la señal esa noche",
+        "Que la fe se prueba en la mayor presión, y la oración la sostiene"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ]
 }
