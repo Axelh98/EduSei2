@@ -61,7 +61,7 @@
       "options": [
         "Que se arrepentiría fácilmente al escuchar su mensaje",
         "Que sería perdonado si cambiaba sus leyes de inmediato",
-        "Que su vida sería valuada como una ropa en un horno ardiente",
+        "Que su vida sería valuada como una ropa en un horno",
         "Que reinaría en paz durante muchos años más"
       ],
       "correctAnswer": 2,
@@ -75,8 +75,8 @@
       "options": [
         "Huyendo de la ciudad antes de que lo capturaran",
         "Negociando su liberación a cambio de silencio",
-        "Escribiendo un libro que se conservó por generaciones",
-        "Con su propia muerte, siendo quemado vivo en la hoguera"
+        "Escribiendo un libro que se conservó por siglos",
+        "Con su propia muerte: fue quemado vivo en la hoguera"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 17:20",
@@ -87,10 +87,10 @@
       "question": "¿Qué muestra el ejemplo de Abinadí sobre el valor moral?",
       "type": "multiple",
       "options": [
-        "Que debemos defender la verdad sin importar las consecuencias",
+        "Que debemos defender la verdad aunque traiga consecuencias",
         "Que la verdad solo importa si es aceptada por la mayoría",
         "Que es mejor evitar el conflicto siempre que sea posible",
-        "Que debemos ceder ante la autoridad si insiste lo suficiente"
+        "Que debemos ceder ante la autoridad si insiste bastante"
       ],
       "correctAnswer": 0,
       "reference": "Mosíah 13:9",
@@ -102,7 +102,7 @@
       "type": "multiple",
       "options": [
         "Justicia estricta y decisiones sabias para el pueblo",
-        "Iniquidad, idolatría e indulgencia excesiva en los placeres",
+        "Iniquidad, idolatría e indulgencia en los placeres",
         "Paz espiritual y un fuerte compromiso con Dios",
         "Humildad constante frente a los profetas del Señor"
       ],
@@ -117,7 +117,7 @@
       "options": [
         "Que es mejor quedarse callado para no generar conflicto",
         "Que hay que seguir a la mayoría para no destacar negativamente",
-        "Que vale la pena defender lo correcto aunque la mayoría piense diferente",
+        "Que vale la pena defender lo correcto aunque otros no lo hagan",
         "Que solo los adultos deben preocuparse por este tipo de decisiones"
       ],
       "correctAnswer": 2,
@@ -130,9 +130,9 @@
       "type": "multiple",
       "options": [
         "Que debe esperar a tener más edad para hablar de su fe",
-        "Que solo debe hablar si está segura de convencer a todos",
+        "Que solo debe hablar de su fe cuando esté completamente segura de que nadie se va a burlar",
         "Que es mejor evitar cualquier conversación sobre su fe",
-        "Que testificar de la verdad tiene valor eterno, incluso si trae rechazo inmediato"
+        "Que testificar de la verdad tiene valor eterno, aunque traiga rechazo"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 17:7-10",
@@ -143,9 +143,9 @@
       "question": "¿Cómo se relacionan la maldad del rey Noé y el valor de Abinadí en este relato?",
       "type": "multiple",
       "options": [
-        "El contraste muestra que la verdad puede sostenerse firme incluso frente a la corrupción del poder",
+        "El contraste muestra que la verdad se sostiene frente al poder corrupto",
         "Indican que Abinadí también era corrupto como el rey Noé",
-        "No tienen ninguna relación entre sí",
+        "Muestran que la corrupción de un rey se explica por la falta de profetas valientes",
         "Muestran que la maldad siempre logra silenciar a la verdad"
       ],
       "correctAnswer": 0,

@@ -3,7 +3,7 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Samuel empieza su profecía con una advertencia que suena durísima: si los nefitas no se arrepienten, el Señor les quitará Su palabra y Su Espíritu, y no pasarán cuatrocientos años sin que caiga sobre ellos la destrucción. Es fácil quedarse solo con esa parte y pensar en Samuel como alguien que solo viene a anunciar castigo. Pero mirado de cerca, todo el capítulo está construido al revés: Dios no envía a Samuel porque quiera destruir a Su pueblo, sino porque quiere evitarlo. Cada advertencia viene acompañada de una salida: 'si os arrepentís, todo esto os será devuelto.' La destrucción no es el plan de Dios para los nefitas; es lo que va a pasar si insisten en rechazar el plan real, que es el arrepentimiento y la fe en Cristo. Esa es la esencia de la misericordia divina: no es que Dios mire para otro lado ante el pecado, sino que hace todo lo posible —incluso mandar a un profeta a arriesgar su vida sobre un muro— para que Su pueblo no tenga que enfrentar las consecuencias que él mismo se está buscando. A veces cuesta creer que uno todavía puede ser perdonado después de ciertos errores, como si hubiera una línea que ya cruzaste y no hay vuelta atrás. Este capítulo dice exactamente lo contrario."
+      "contenido": "Samuel empieza su profecía con una advertencia que suena durísima: si los nefitas no se arrepienten, el Señor les quitará Su palabra y Su Espíritu, y no pasarán cuatrocientos años sin que caiga sobre ellos la destrucción. Es fácil quedarse solo con esa parte y pensar en Samuel como alguien que solo viene a anunciar castigo. Pero mirado de cerca, todo el capítulo está construido al revés: Dios no envía a Samuel porque quiera destruir a Su pueblo, sino porque quiere evitarlo. Cada advertencia viene acompañada de una salida: 'si os arrepentís y os volvéis al Señor vuestro Dios, yo desviaré mi ira, dice el Señor' (Helamán 13:11). La destrucción no es el plan de Dios para los nefitas; es lo que va a pasar si insisten en rechazar el plan real, que es el arrepentimiento y la fe en Cristo. Esa es la esencia de la misericordia divina: no es que Dios mire para otro lado ante el pecado, sino que hace todo lo posible —incluso mandar a un profeta a arriesgar su vida sobre un muro— para que Su pueblo no tenga que enfrentar las consecuencias que él mismo se está buscando. A veces cuesta creer que uno todavía puede ser perdonado después de ciertos errores, como si hubiera una línea que ya cruzaste y no hay vuelta atrás. Este capítulo dice exactamente lo contrario."
     },
     {
       "tipo": "escrituras",
@@ -14,9 +14,9 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=spa&id=p8-p10#p8"
         },
         {
-          "referencia": "Helamán 13:17",
-          "texto": "Pero he aquí, si os arrepentís, todo esto os será devuelto.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=spa&id=p17#p17"
+          "referencia": "Helamán 13:11",
+          "texto": "Pero si os arrepentís y os volvéis al Señor vuestro Dios, yo desviaré mi ira, dice el Señor; sí, así dice el Señor: Benditos son los que se arrepienten y se vuelven a mí; pero, ¡ay del que no se arrepienta!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=spa&id=p11#p11"
         },
         {
           "referencia": "Mosíah 26:30",
@@ -30,7 +30,7 @@
       "autor": "Presidente Russell M. Nelson",
       "fuente": "Liahona, mayo de 2007, «El arrepentimiento y la conversión»",
       "texto": "Sí, hay esperanza. La esperanza está vinculada al arrepentimiento.",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2007/05/repentance-and-conversion?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2007/05/repentance-and-conversion?lang=spa&id=p4#p4"
     },
     {
       "tipo": "conclusion",
@@ -62,10 +62,10 @@
     },
     {
       "id": 2,
-      "question": "Inmediatamente después de la advertencia severa, ¿qué promesa concreta hace Samuel en el versículo 17?",
+      "question": "Inmediatamente después de la advertencia severa, ¿qué promesa concreta hace Samuel en el versículo 11?",
       "options": [
         "Que la destrucción ya era inevitable, sin importar lo que hicieran",
-        "Que si se arrepentían, todo lo que estaban por perder les sería devuelto",
+        "Que si se arrepentían y se volvían al Señor, Él desviaría Su ira",
         "Que solo los lamanitas podrían salvarse de la destrucción",
         "Que el arrepentimiento solo serviría para las generaciones futuras, no para ellos"
       ],
@@ -84,7 +84,7 @@
     },
     {
       "id": 4,
-      "question": "Mosíah 26:30 promete que Dios perdona 'cuantas veces' Su pueblo se arrepienta. ¿Qué principio comparte este versículo con la promesa de Samuel en Helamán 13:17?",
+      "question": "Mosíah 26:30 promete que Dios perdona 'cuantas veces' Su pueblo se arrepienta. ¿Qué principio comparte este versículo con la promesa de Samuel en Helamán 13:11?",
       "options": [
         "Que solo existe una única oportunidad de arrepentirse en la vida de una persona",
         "Que el perdón de Dios depende exclusivamente de la cantidad de buenas obras realizadas",
@@ -95,7 +95,7 @@
     },
     {
       "id": 5,
-      "question": "Camila siente que ya cometió un error demasiado grave como para que Dios quiera perdonarla, y por eso dejó de orar. Según la promesa de Samuel en Helamán 13:17 y la enseñanza del presidente Nelson, ¿qué le ayudaría?",
+      "question": "Camila siente que ya cometió un error demasiado grave como para que Dios quiera perdonarla, y por eso dejó de orar. Según la promesa de Samuel en Helamán 13:11 y la enseñanza del presidente Nelson, ¿qué le ayudaría?",
       "options": [
         "Que la esperanza está vinculada al arrepentimiento, sin importar el error",
         "Que solo los líderes de la Iglesia pueden decidir si merece ser perdonada",
@@ -117,7 +117,7 @@
     },
     {
       "id": 7,
-      "question": "Tanto la advertencia de Samuel en Helamán 13:8-10 como su promesa en el versículo 17 comparten un mismo propósito central detrás del mensaje profético. ¿Cuál es?",
+      "question": "Tanto la advertencia de Samuel en Helamán 13:8-10 como su promesa en el versículo 11 comparten un mismo propósito central detrás del mensaje profético. ¿Cuál es?",
       "options": [
         "Que Samuel buscaba únicamente asustar al pueblo sin ofrecerle ninguna salida genuina",
         "Que el arrepentimiento y la destrucción son consecuencias completamente independientes entre sí",

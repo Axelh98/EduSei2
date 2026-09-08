@@ -55,7 +55,7 @@
       "type": "multiple",
       "options": [
         "Ver únicamente acontecimientos que ya sucedieron en el pasado",
-        "Interpretar sueños de cualquier persona que se lo pida",
+        "Interpretar los sueños de cualquier persona que se lo pida",
         "Saber con certeza de cosas pasadas, presentes y futuras",
         "Curar enfermedades físicas mediante el poder de la vista"
       ],
@@ -82,8 +82,8 @@
       "question": "¿Por qué es valioso un vidente para el pueblo?",
       "type": "multiple",
       "options": [
-        "Porque puede revelar cosas ocultas y traer conocimiento de Dios",
-        "Porque garantiza riquezas materiales a quienes lo siguen",
+        "Porque revela cosas ocultas y trae conocimiento de Dios",
+        "Porque garantiza riquezas a quienes lo siguen",
         "Porque su posición social le da autoridad automática",
         "Porque su popularidad atrae a más gente a la ciudad"
       ],
@@ -96,9 +96,9 @@
       "question": "¿Qué le había sucedido al pueblo de Limhi?",
       "type": "multiple",
       "options": [
-        "Prosperaban sin ninguna dificultad ni amenaza externa",
+        "Prosperaban sin ninguna dificultad ni amenaza del exterior",
         "Estaban en cautiverio bajo el dominio de los lamanitas",
-        "Habían conquistado nuevas tierras fértiles recientemente",
+        "Habían conquistado nuevas tierras fértiles",
         "Vivían en paz total gracias a alianzas con otros pueblos"
       ],
       "correctAnswer": 1,
@@ -112,7 +112,7 @@
       "options": [
         "Que solo los reyes pueden recibir ese tipo de revelación",
         "Que el futuro de cada persona es completamente aleatorio",
-        "Que Dios puede revelar cosas pasadas, presentes y futuras a través de Sus siervos",
+        "Que Dios puede revelar el pasado, el presente y el futuro",
         "Que nadie, ni siquiera Dios, puede conocer el futuro de una persona"
       ],
       "correctAnswer": 2,
@@ -138,12 +138,12 @@
       "question": "¿Qué conecta el don de vidente con la instrucción de Limhi de volverse al Señor?",
       "type": "multiple",
       "options": [
-        "No tienen ninguna relación entre sí",
+        "El don de vidente sirve para el pasado y volverse al Señor, para el futuro",
         "El don de vidente hace innecesario volverse al Señor",
         "Solo uno de los dos conceptos tiene aplicación práctica",
-        "Ambos muestran que el conocimiento y la liberación vienen de la relación con Dios, no de nuestros propios recursos"
+        "Ambos muestran que conocimiento y liberación vienen de Dios"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "reference": "Mosíah 7-8",
       "explanation": "Ambos elementos muestran que el conocimiento y la liberación provienen de la relación con Dios."
     }

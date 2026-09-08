@@ -61,7 +61,7 @@
       "options": [
         "En realidad no tenían ningún problema espiritual",
         "Se habían descarriado y pervertido el camino del Señor",
-        "Eran un pueblo completamente perfecto sin ningún defecto",
+        "Eran un pueblo perfecto, sin ningún defecto",
         "Mostraban una humildad ejemplar en todas sus acciones"
       ],
       "correctAnswer": 1,
@@ -75,7 +75,7 @@
       "options": [
         "Un ejército numeroso para protegerse",
         "Una gran cantidad de dinero",
-        "La palabra de Dios como su única arma",
+        "La palabra de Dios como su arma",
         "Armas para defenderse en el camino"
       ],
       "correctAnswer": 2,
@@ -90,7 +90,7 @@
         "En realidad no es más poderosa que la espada",
         "Porque resulta más fácil de transportar en los viajes",
         "Porque es una opción considerablemente más económica",
-        "Porque tiene efecto más potente en la mente para llevar a hacer lo justo"
+        "Porque tiene más efecto en la mente que la espada"
       ],
       "correctAnswer": 3,
       "reference": "Alma 31:5",
@@ -101,7 +101,7 @@
       "question": "¿Quiénes acompañaron a Alma en esta misión?",
       "type": "multiple",
       "options": [
-        "Ammón, Aarón y otros hermanos fieles",
+        "Ammón, Aarón y otros hermanos",
         "Un grupo de completos desconocidos",
         "Un pequeño ejército armado",
         "Nadie, viajó completamente solo"
@@ -116,7 +116,7 @@
       "type": "multiple",
       "options": [
         "Esperar a que ellos busquen ayuda por sí mismos sin intervenir",
-        "Ir hacia ellos con amor genuino, llevando la palabra de Dios como su principal herramienta",
+        "Ir hacia ellos con amor genuino, llevando la palabra de Dios",
         "Alejarse de ellos para no ser influenciado por sus decisiones",
         "Exigirles que regresen a la fe sin ninguna explicación"
       ],
@@ -131,8 +131,8 @@
       "options": [
         "Que la palabra de Dios no es suficiente sin apoyo adicional",
         "Que necesita argumentos más agresivos para convencer a otros",
-        "Que la palabra de Dios, compartida con sinceridad, puede ser más poderosa que cualquier otro argumento",
-        "Que debe evitar compartir su fe si no tiene pruebas contundentes"
+        "Que la palabra de Dios compartida con sinceridad ya es poderosa",
+        "Que debe evitar compartir su fe sin pruebas contundentes"
       ],
       "correctAnswer": 2,
       "reference": "Alma 31:5",
@@ -143,10 +143,10 @@
       "question": "¿Qué relación hay entre la preocupación de Alma por los zoramitas y su elección de llevar la palabra de Dios como herramienta principal?",
       "type": "multiple",
       "options": [
-        "No tienen relación real entre sí",
+        "Alma eligió la palabra de Dios porque era lo más barato de llevar",
         "Alma prefería usar la fuerza en lugar de la palabra de Dios",
         "Su elección de llevar la palabra de Dios no tuvo relación con su preocupación por ellos",
-        "Su amor genuino por las almas de los zoramitas lo llevó a confiar en el poder transformador de la palabra de Dios"
+        "Su amor por las almas de los zoramitas lo llevó a confiar en la palabra"
       ],
       "correctAnswer": 3,
       "reference": "Alma 31:1-6",

@@ -49,7 +49,7 @@
         "escuchad",
         "orad",
         "buscad",
-        "alabad"
+        "oíd"
       ],
       "correctAnswer": 1
     },
@@ -71,7 +71,7 @@
         "Garantizar que la acción tendrá éxito desde una perspectiva mundana",
         "Hacer que otras personas aprueben y valoren lo que hacemos",
         "Hacer que la acción sea perfecta y sin defectos",
-        "Transformar nuestros esfuerzos imperfectos para que obren para el bienestar de nuestra alma, añadiendo el poder de Dios a lo que hacemos"
+        "Transformar nuestros esfuerzos para el bien de nuestra alma"
       ],
       "correctAnswer": 3
     },
@@ -79,7 +79,7 @@
       "id": 4,
       "question": "El manual sugiere que este versículo puede usarse para ayudar a alguien que pregunta: '¿Para qué sirve orar si Dios ya sabe lo que necesito?' ¿Cuál sería la respuesta más fiel a la doctrina de este versículo?",
       "options": [
-        "Que la oración no es solo comunicar información sino una conexión activa que el diablo busca interrumpir y que, cuando se mantiene, consagra nuestra vida",
+        "Que la oración no es informar, sino una conexión activa que el diablo busca cortar",
         "Que Dios en realidad no sabe todo y la oración le provee información necesaria",
         "Que la oración es una tradición religiosa útil psicológicamente pero sin impacto espiritual real",
         "Que la oración es principalmente para informar a Dios de nuestras necesidades, ya que aunque lo sabe, necesita que lo digamos"
@@ -91,9 +91,9 @@
       "question": "Valentina tiene un amigo que le dice que no ora porque 'no siente que sirva de algo'. Ella quiere usar 2 Nefi 32:8–9 para ayudarle. ¿Cuál sería el punto más importante que podría compartir?",
       "options": [
         "Que si ora suficientes veces, eventualmente sentirá algo que le convencerá de que funciona",
-        "Que el diablo específicamente enseña que la oración no sirve para endurecer el corazón, lo cual sugiere que la oración tiene un poder real que él quiere bloquear",
+        "Que el diablo enseña que la oración no sirve, lo cual sugiere que sí tiene un poder real",
         "Que la oración es obligatoria para los miembros de la Iglesia, independientemente de si sirve o no",
-        "Que la oración solo sirve si se hace en el idioma correcto y con las palabras adecuadas"
+        "Que la oración solamente sirve si se hace en el idioma correcto y con las palabras adecuadas"
       ],
       "correctAnswer": 1
     },
@@ -103,7 +103,7 @@
       "options": [
         "Aplicar el versículo es opcional una vez que se lo ha memorizado",
         "No hay diferencia; memorizar el versículo es la meta del Dominio de la doctrina",
-        "Dominar el versículo realmente significa que su promesa se está experimentando en la vida porque se practica la oración que describe",
+        "Que dominarlo de verdad es que su promesa se esté viviendo al orar",
         "El Dominio de la doctrina solo requiere poder recitar el versículo, no aplicarlo"
       ],
       "correctAnswer": 2
@@ -114,8 +114,8 @@
       "options": [
         "Que las palabras de Cristo son para la cabeza y la oración es para el corazón, y los dos no necesitan conectarse",
         "Que la oración reemplaza eventualmente la necesidad de leer las Escrituras",
-        "Que podemos elegir una de las dos según nuestra preferencia personal",
-        "Que el discipulado requiere tanto recibir dirección a través de las palabras de Cristo como someter esas acciones a Dios mediante la oración, creando un ciclo de guía y consagración"
+        "Que podemos elegir una de las dos de acuerdo con nuestra preferencia personal",
+        "Que el discipulado pide recibir dirección y consagrarla con la oración"
       ],
       "correctAnswer": 3
     }

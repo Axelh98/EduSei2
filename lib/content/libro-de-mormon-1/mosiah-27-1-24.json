@@ -56,7 +56,7 @@
       "options": [
         "Estudiando cuidadosamente las Escrituras cada día",
         "Ayudando a los pobres y necesitados de su comunidad",
-        "Destruyendo la iglesia de Dios y llevando a otros al pecado",
+        "Destruyendo la iglesia de Dios",
         "Predicando activamente el evangelio por toda la tierra"
       ],
       "correctAnswer": 2,
@@ -71,7 +71,7 @@
         "Un profeta anciano que los había estado buscando",
         "Sus propios padres, preocupados por su comportamiento",
         "Un rey vecino que buscaba reclutarlos para la guerra",
-        "Un ángel del Señor, con una voz que hizo temblar la tierra"
+        "Un ángel del Señor, cuya voz hizo temblar la tierra"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 27:11",
@@ -82,7 +82,7 @@
       "question": "¿Qué causó la conversión de Alma hijo?",
       "type": "multiple",
       "options": [
-        "La intervención divina en respuesta a las oraciones de su padre y otros",
+        "La intervención divina, tras las oraciones de su padre",
         "El temor a perder su posición social entre el pueblo",
         "Una decisión repentina tomada completamente solo, sin ayuda",
         "La presión constante de la sociedad para que cambiara"
@@ -97,7 +97,7 @@
       "type": "multiple",
       "options": [
         "Unirse a los sacerdotes del rey Noé en sus enseñanzas",
-        "Apartar a los miembros de la iglesia de la verdad con palabras astutas",
+        "Apartar a los miembros de la iglesia de la verdad",
         "Fortalecer la fe de los miembros más jóvenes de la iglesia",
         "Ganar el favor del rey Mosíah para heredar el trono"
       ],
@@ -125,11 +125,11 @@
       "type": "multiple",
       "options": [
         "Que el daño causado a otros no se puede reparar nunca",
-        "Que es necesario primero reparar todo el daño antes de poder cambiar",
-        "Que un cambio de corazón genuino es posible sin importar cuán lejos se haya estado del camino correcto",
+        "Que hay que primero reparar todo el daño antes de poder cambiar",
+        "Que un cambio de corazón genuino es posible, venga de donde venga",
         "Que solo algunas personas pueden realmente cambiar"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "reference": "Mosíah 27",
       "explanation": "La conversión de Alma hijo muestra que un cambio de corazón genuino es posible sin importar cuán lejos se haya estado del camino correcto."
     },

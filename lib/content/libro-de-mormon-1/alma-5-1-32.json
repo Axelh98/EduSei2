@@ -68,7 +68,7 @@
       "options": [
         "¿Has logrado suficiente éxito material?",
         "¿Has experimentado un cambio en tu corazón?",
-        "¿Eres conocido y respetado por muchos?",
+        "¿Eres conocido y respetado por mucha gente del pueblo?",
         "¿Tienes control sobre otras personas?"
       ],
       "correctAnswer": 1,
@@ -77,12 +77,12 @@
     },
     {
       "id": 2,
-      "question": "¿Qué otra pregunta importante hace Alma en el versículo 19?",
+      "question": "¿Qué otra pregunta importante hace Alma en el versículo 16?",
       "type": "multiple",
       "options": [
         "¿Eres una persona completamente perfecta?",
-        "¿Cuántos años de educación formal tienes?",
-        "¿Puedes imaginar que oyes la voz del Señor diciendo 'Venid a mí'?",
+        "¿Cuántos años de educación formal has completado ya?",
+        "¿Puedes imaginar que oyes 'Venid a mí' del Señor?",
         "¿Cuánta riqueza material has logrado acumular?"
       ],
       "correctAnswer": 2,
@@ -108,7 +108,7 @@
       "question": "¿Con qué imagen compara Alma este 'cambio de corazón' en el versículo 14?",
       "type": "multiple",
       "options": [
-        "Con recibir la imagen de Dios grabada en el propio semblante",
+        "Con recibir la imagen de Dios en el propio semblante",
         "Con aprender un oficio después de años de práctica",
         "Con ganar una batalla militar contra un enemigo poderoso",
         "Con construir una casa nueva desde los cimientos"
@@ -122,8 +122,8 @@
       "question": "Emilia sabe todas las respuestas correctas en la clase de Seminario, pero no está segura de sentir un cambio real en su corazón. ¿Qué pregunta de Alma 5:14 le ayudaría a reflexionar?",
       "type": "multiple",
       "options": [
-        "Preguntarse cuántas respuestas correctas puede dar en clase",
-        "Preguntarse honestamente si ha experimentado un verdadero cambio de corazón, no solo conocimiento",
+        "Preguntarse cuántas respuestas correctas puede proporcionar en clase",
+        "Preguntarse con honestidad si hubo un cambio real de corazón",
         "Preguntarse si sus compañeros la consideran una buena estudiante",
         "Preguntarse si conoce mejor la doctrina que el resto de la clase"
       ],
@@ -138,7 +138,7 @@
       "options": [
         "Que solo importa ser mejor que la mayoría de la congregación",
         "Que Alma recomendaba evaluar primero a los demás",
-        "Que la autoevaluación debe ser honesta y personal, no una comparación con otras personas",
+        "Que la autoevaluación debe ser honesta y personal, no comparativa",
         "Que compararse con otros es la mejor forma de medir el progreso espiritual"
       ],
       "correctAnswer": 2,
@@ -152,8 +152,8 @@
       "options": [
         "Solo la primera pregunta tiene valor espiritual real",
         "La segunda pregunta reemplaza la necesidad de la primera",
-        "No tienen relación entre sí",
-        "Ambas invitan a examinar si nuestra relación con Dios es real y personal, no solo teórica"
+        "La primera mira el presente y la segunda solo el pasado, sin conexión",
+        "Ambas invitan a examinar si nuestra relación con Dios es real"
       ],
       "correctAnswer": 3,
       "reference": "Alma 5:14-16",

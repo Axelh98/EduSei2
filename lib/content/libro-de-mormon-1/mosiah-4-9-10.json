@@ -59,7 +59,7 @@
       "question": "¿En qué debemos creer según Mosíah 4:9?",
       "type": "multiple",
       "options": [
-        "En Dios, que creó todas las cosas y tiene toda sabiduría y poder",
+        "En Dios, que creó todas las cosas",
         "En las filosofías populares de nuestra época y cultura",
         "En nuestras propias capacidades como única fuente de éxito",
         "En que el universo funciona sin ningún propósito definido"
@@ -87,7 +87,7 @@
       "question": "¿Con qué frecuencia debemos pedir perdón según este pasaje?",
       "type": "multiple",
       "options": [
-        "Únicamente en ocasiones religiosas especiales",
+        "Solo en ocasiones religiosas especiales",
         "Una vez al año en un día señalado",
         "Cada día, de manera constante y continua",
         "Solo cuando cometemos un pecado grave"
@@ -103,8 +103,8 @@
       "options": [
         "Que nunca debemos hacer preguntas ni buscar respuestas",
         "Que el estudio académico no tiene ningún valor real",
-        "Que solo los líderes de la Iglesia pueden entender la verdad",
-        "Que debemos reconocer nuestra dependencia de Dios y Su sabiduría"
+        "Que solo los líderes de la Iglesia entienden la verdad",
+        "Que debemos reconocer que dependemos de Dios y Su sabiduría"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 4:9",
@@ -115,7 +115,7 @@
       "question": "Joaquín tiene dudas porque no entiende cómo conciliar la ciencia con su fe. ¿Qué principio de Mosíah 4:9 podría ayudarlo?",
       "type": "multiple",
       "options": [
-        "Reconocer que el hombre no comprende todas las cosas y aun así confiar en Dios",
+        "Reconocer que el hombre no comprende todas las cosas y confiar",
         "Evitar por completo el estudio de la ciencia para no generar más dudas",
         "Rechazar cualquier idea científica que no aparezca en las escrituras",
         "Dejar de asistir a la iglesia hasta resolver todas sus dudas"
@@ -130,9 +130,9 @@
       "type": "multiple",
       "options": [
         "Ocultar lo que hizo para que nadie más se entere",
-        "Arrepentirse, abandonar el pecado y humillarse ante Dios para recibir perdón",
+        "Arrepentirse, abandonar el pecado y humillarse ante Dios",
         "Esperar a sentirse mejor antes de intentar cambiar",
-        "Compararse con otros que han cometido errores peores"
+        "Compararse con otros que hayan cometido errores todavía peores"
       ],
       "correctAnswer": 1,
       "reference": "Mosíah 4:10",
@@ -143,9 +143,9 @@
       "question": "¿Qué conecta la humildad ante Dios de la que habla Mosíah 4:9-10 con la promesa de perdón diario del versículo 11?",
       "type": "multiple",
       "options": [
-        "No están relacionadas, tratan temas completamente distintos",
+        "Que la humildad y el perdón responden a mandamientos distintos",
         "Que solo se puede pedir perdón una vez en la vida",
-        "Que la humildad genuina abre la puerta a recibir el perdón de Dios continuamente",
+        "Que la humildad genuina abre la puerta al perdón de Dios",
         "Que la humildad reemplaza la necesidad de pedir perdón"
       ],
       "correctAnswer": 2,

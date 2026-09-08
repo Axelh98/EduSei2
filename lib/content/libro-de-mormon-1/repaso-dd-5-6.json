@@ -47,7 +47,7 @@
       "question": "¿Cuántos pasajes de dominio hemos estudiado hasta ahora en Mosíah?",
       "type": "multiple",
       "options": [
-        "Varios, incluyendo sobre servicio, felicidad y convenios bautismales",
+        "Varios: sobre servicio, felicidad y convenios",
         "Solamente uno, al inicio del libro de Mosíah",
         "Cientos de versículos distintos de todo el libro",
         "Ninguno todavía, comenzaremos a estudiarlos pronto"
@@ -90,7 +90,7 @@
         "No se relacionan con las decisiones que tomamos hoy",
         "Solo sirven para ser estudiados sin ninguna aplicación práctica",
         "Son demasiado antiguos para tener relevancia actual",
-        "Nos dan principios fundamentales para guiar nuestras decisiones"
+        "Nos dan principios fundamentales para guiar decisiones"
       ],
       "correctAnswer": 3,
       "explanation": "Estos versículos contienen principios que deben guiar nuestras acciones y decisiones diarias."
@@ -100,7 +100,7 @@
       "question": "Antonella va a ayudar a enseñar en una clase de niños y no sabe qué versículo de dominio usar sobre los convenios bautismales. ¿Cuál le recomendarías?",
       "type": "multiple",
       "options": [
-        "Mosíah 18:8-10, que describe claramente los convenios que hacemos al bautizarnos",
+        "Mosíah 18:8-10, que describe el convenio bautismal",
         "2 Nefi 2:25, porque habla del gozo",
         "Cualquier versículo, ya que todos tratan el mismo tema",
         "1 Nefi 3:7, porque habla de obediencia general"
@@ -115,9 +115,9 @@
       "type": "multiple",
       "options": [
         "Que solo sirven durante el año en que se estudian",
-        "Que el repaso constante ayuda a que el Espíritu los traiga a la memoria en el momento oportuno",
+        "Que el repaso constante ayuda a que el Espíritu los recuerde",
         "Que memorizarlos no tiene ninguna utilidad real",
-        "Que revisarlos una sola vez ya es suficiente para toda la vida"
+        "Que revisarlos una sola vez ya alcanza para toda la vida"
       ],
       "correctAnswer": 1,
       "explanation": "El repaso constante ayuda a que el Espíritu traiga estos versículos a nuestra memoria cuando más los necesitamos."
@@ -128,8 +128,8 @@
       "type": "multiple",
       "options": [
         "Tratan exclusivamente temas históricos sin relevancia actual",
-        "No tienen ningún tema en común entre sí",
-        "Todos refuerzan verdades fundamentales que fortalecen la fe y guían decisiones diarias",
+        "Cada versículo trata un tema aislado",
+        "Todos refuerzan verdades que fortalecen la fe y guían",
         "Solo sirven para ser memorizados sin ninguna aplicación real"
       ],
       "correctAnswer": 2,

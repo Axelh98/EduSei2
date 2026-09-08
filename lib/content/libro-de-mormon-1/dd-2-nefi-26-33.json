@@ -71,7 +71,7 @@
       "id": 2,
       "question": "¿En qué libro y capítulo se encuentra el versículo 2 Nefi 26:33?",
       "options": [
-        "En el libro de Alma, capítulo 26",
+        "En el libro de Alma, capítulo 26, del Libro de Mormón",
         "En el segundo libro de Nefi, capítulo 26",
         "En el libro de Mosíah, capítulo 26",
         "En el libro de Moroni, capítulo 26"
@@ -83,8 +83,8 @@
       "question": "El versículo menciona específicamente: 'negro o blanco, esclavo o libre, varón o mujer'. ¿Por qué esa lista de pares de opuestos es doctrinalmente poderosa en su contexto histórico y hoy?",
       "options": [
         "Porque esas categorías representan los tipos de personas que tienen más dificultad para acceder al Evangelio",
-        "Porque esas eran las categorías de personas que existían en el tiempo de Nefi y no tienen relevancia actual",
-        "Porque en cualquier época existen grupos que la sociedad trata como menos valiosos; el versículo cierra sistemáticamente cada categoría de exclusión, señalando que ante Dios ninguna aplica",
+        "Porque esas categorías existían en tiempos de Nefi y hoy no aplican",
+        "Porque siempre hay grupos tratados como menos valiosos, y el versículo los incluye",
         "Porque el versículo enseña que todas las personas son literalmente idénticas ante Dios sin distinción alguna"
       ],
       "correctAnswer": 2
@@ -96,7 +96,7 @@
         "Que primero debe arrepentirse completamente antes de que el versículo aplique a su caso",
         "Que el versículo habla de categorías sociales, no de historial personal de pecados",
         "Que ese argumento podría ser válido dependiendo de la gravedad de lo que hizo",
-        "Que el versículo describe exactamente esa situación: el Señor no repudia a nadie que viene a Él, sin condición previa de perfección"
+        "Que el versículo describe justo eso: el Señor no repudia a nadie que viene a Él"
       ],
       "correctAnswer": 3
     },
@@ -116,7 +116,7 @@
       "question": "En la clase de Seminario de Mateo, hay un joven que llegó recientemente de otro país y parece diferente culturalmente. Algunos lo ignoran sin querer. ¿Cómo podría Mateo usar el principio de 2 Nefi 26:33 como guía para su comportamiento esta semana?",
       "options": [
         "Informarle al maestro para que él tome la iniciativa de incluir al joven en las actividades",
-        "Acercarse activamente a saludarlo y hacerle sentir bienvenido, reflejando en su comportamiento que ante Dios todos son iguales",
+        "Acercarse a saludarlo y hacerlo sentir bienvenido, porque ante Dios todos son iguales",
         "Esperar a que el joven tome la iniciativa de presentarse antes de incluirlo",
         "Organizar una actividad grupal donde todos se incluyan automáticamente sin necesidad de un esfuerzo individual"
       ],
@@ -128,8 +128,8 @@
       "options": [
         "Que ambos versículos se contradicen porque si Dios atrae activamente a todos, no debería haber nadie que llegue a Él siendo rechazado",
         "Que Dios busca activamente a todos (26:24) y al mismo tiempo establece condiciones que no todos pueden cumplir (26:33)",
-        "Que Dios se mueve hacia nosotros con amor activo (26:24) y al mismo tiempo tiene las puertas abiertas para recibirnos cuando llegamos (26:33), creando un movimiento de doble dirección",
-        "Que 26:24 describe el pasado y 26:33 describe el futuro escatológico, sin relación con el presente"
+        "Que Dios se mueve hacia nosotros con amor activo y a la vez recibe al que llega, en doble dirección",
+        "Que 26:24 describe el pasado y 26:33 describe el futuro escatológico, sin ninguna relación con el presente"
       ],
       "correctAnswer": 2
     }

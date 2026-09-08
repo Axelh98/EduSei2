@@ -59,9 +59,9 @@
       "question": "¿Qué cualidades desarrollaron los hijos de Mosíah durante su misión?",
       "type": "multiple",
       "options": [
-        "Desarrollaron orgullo por el éxito de su predicación",
+        "Desarrollaron orgullo por el éxito que tuvo su predicación entre los lamanitas",
         "Mostraron debilidad espiritual ante las dificultades",
-        "Se habían fortalecido en el conocimiento de la verdad mediante la oración y el ayuno",
+        "Se fortalecieron en el conocimiento de la verdad con oración y ayuno",
         "Vivieron con miedo constante durante toda la misión"
       ],
       "correctAnswer": 2,
@@ -76,7 +76,7 @@
         "Solicitando privilegios especiales antes de comenzar",
         "Negándose inicialmente a cualquier tipo de trabajo",
         "Exigiendo que se le reconociera como un líder importante",
-        "Ofreciéndose como siervo del rey"
+        "Ofreciéndose como siervo del rey desde el principio"
       ],
       "correctAnswer": 3,
       "reference": "Alma 17:25",
@@ -87,7 +87,7 @@
       "question": "¿Qué hizo Ammón cuando los lamanitas dispersaron los rebaños?",
       "type": "multiple",
       "options": [
-        "Reunió los rebaños y defendió contra los ladrones con gran poder",
+        "Reunió los rebaños y defendió a los siervos",
         "Huyó con miedo, dejando los rebaños abandonados",
         "Se rindió de inmediato ante los atacantes",
         "Pidió ayuda inmediata al rey antes de actuar"
@@ -102,7 +102,7 @@
       "type": "multiple",
       "options": [
         "Solamente estudiaron un poco antes de partir",
-        "Ayunaron, oraron y escudriñaron las escrituras por mucho tiempo",
+        "Ayunaron, oraron y escudriñaron mucho las Escrituras",
         "Fueron enviados de inmediato sin ningún tipo de preparación",
         "Ninguna preparación previa antes de comenzar su misión"
       ],
@@ -115,9 +115,9 @@
       "question": "Catalina quiere prepararse espiritualmente antes de un gran desafío que se le viene. ¿Qué ejemplo de los hijos de Mosíah le serviría?",
       "type": "multiple",
       "options": [
-        "Enfrentar el desafío sin ninguna preparación previa",
+        "Enfrentar el desafío sin preparación previa",
         "Esperar a que el desafío pase sin hacer nada",
-        "Fortalecerse mediante la oración y el ayuno antes de enfrentar la situación difícil",
+        "Fortalecerse con oración y ayuno antes del desafío",
         "Buscar únicamente el consejo de sus amigos"
       ],
       "correctAnswer": 2,
@@ -129,10 +129,10 @@
       "question": "Nicolás fue asignado a servir en un lugar donde no conoce a nadie y se siente inseguro. ¿Qué actitud de Ammón podría imitar?",
       "type": "multiple",
       "options": [
-        "Exigir reconocimiento inmediato por su disposición a servir",
+        "Exigir reconocimiento por su disposición a servir",
         "Evitar el servicio hasta sentirse más cómodo en el lugar",
         "Esperar a que otros le pidan ayuda antes de ofrecerla",
-        "Ofrecerse humildemente para servir, ganándose la confianza de otros con fidelidad"
+        "Ofrecerse humildemente para servir y ganarse la confianza"
       ],
       "correctAnswer": 3,
       "reference": "Alma 17:25",
@@ -143,10 +143,10 @@
       "question": "¿Qué conecta la preparación espiritual de los hijos de Mosíah con la disposición de Ammón a servir como pastor del rey Lamoni?",
       "type": "multiple",
       "options": [
-        "Ambas muestran que la preparación espiritual lleva naturalmente a un servicio humilde y efectivo",
+        "Ambas muestran que la preparación espiritual lleva a un servicio humilde y efectivo",
         "Solo la preparación espiritual tiene valor en este relato",
         "El servicio de Ammón no tuvo relación con su preparación previa",
-        "No tienen relación real entre sí"
+        "La preparación de los hijos de Mosíah fue intelectual y el servicio de Ammón fue físico"
       ],
       "correctAnswer": 0,
       "reference": "Alma 17",

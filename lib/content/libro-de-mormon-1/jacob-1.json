@@ -63,7 +63,7 @@
         "Aumentar la cantidad de reuniones y actividades religiosas del pueblo",
         "Asegurarse de que todos los miembros del pueblo obedecieran perfectamente los mandamientos",
         "Hacerse conocido entre el pueblo por su sabiduría y elocuencia",
-        "Tomar sobre sí la responsabilidad de enseñar con diligencia la palabra de Dios, respondiendo por los pecados del pueblo si no lo hacía"
+        "Tomar la responsabilidad de enseñar con diligencia la palabra de Dios"
       ],
       "correctAnswer": 3
     },
@@ -72,8 +72,8 @@
       "question": "El presidente Eyring dijo que magnificamos nuestro llamamiento cuando 'permitimos que el poder de Dios fluya a través de nosotros'. ¿Qué condición implica eso sobre nuestra actitud en el servicio?",
       "options": [
         "Que se requiere humildad y disposición de servir en la manera de Dios, no en la propia",
-        "Que el poder de Dios fluye automáticamente cuando alguien recibe un llamamiento formal",
-        "Que solo los líderes con cargos avanzados pueden experimentar ese flujo de poder",
+        "Que el poder de Dios fluye automáticamente cuando alguien recibe un llamamiento formal en la Iglesia",
+        "Que exclusivamente los líderes con cargos avanzados pueden experimentar ese flujo de poder",
         "Que debemos ser personas especialmente talentosas para que el poder de Dios fluya a través de nosotros"
       ],
       "correctAnswer": 0
@@ -83,7 +83,7 @@
       "question": "Jacob sintió el peso de la responsabilidad de enseñar, temiendo que los pecados del pueblo cayeran sobre su cabeza. ¿Por qué esa sensación de peso sería en realidad señal de que era el maestro correcto?",
       "options": [
         "Porque quienes no sienten ese peso son más capaces de enseñar sin prejuicios emocionales",
-        "Porque la seriedad con que tomamos las responsabilidades espirituales refleja cuánto nos importan las personas que servimos y Dios a quien servimos",
+        "Porque la seriedad con que tomamos una responsabilidad espiritual refleja cuánto nos importa",
         "Porque solo quienes tienen miedo enseñan bien, ya que el miedo les hace prepararse mejor",
         "Porque ese peso demuestra que Jacob entendía que su salvación dependía de que el pueblo fuera obediente"
       ],
@@ -95,7 +95,7 @@
       "options": [
         "La diligencia en Jacob era un requisito cultural de su época, no un principio eterno",
         "No se conectan directamente; D. y C. 107 habla del sacerdocio y Jacob no tenía el mismo sacerdocio",
-        "Ambos expresan el mismo principio: que magnificar significa actuar con diligencia en las responsabilidades específicas de tu llamamiento, cualquiera que sea",
+        "Ambos dicen lo mismo: magnificar es actuar con diligencia en el llamamiento que a uno le toca",
         "D. y C. 107 aplica solo a cargos del sacerdocio, no a llamamientos generales como el de Jacob"
       ],
       "correctAnswer": 2
@@ -106,8 +106,8 @@
       "options": [
         "Habría sido mejor rechazar el llamamiento si no estaba lista para hacerlo perfectamente",
         "La diferencia solo se nota cuando los demás te critican; si nadie nota el esfuerzo, no importa",
-        "Ninguna diferencia real, porque el resultado de una actividad no mide el valor espiritual del esfuerzo",
-        "Prepararse con diligencia habría demostrado que toma el llamamiento como una responsabilidad ante Dios y las personas que sirve, no como una tarea social"
+        "Ninguna diferencia real: el resultado no mide el valor del esfuerzo",
+        "Prepararse con diligencia habría mostrado que lo toma como una responsabilidad ante Dios y los demás"
       ],
       "correctAnswer": 3
     },
@@ -115,10 +115,10 @@
       "id": 6,
       "question": "Tomás tiene responsabilidades en la Iglesia que le parecen pequeñas y sin importancia comparadas con los cargos de liderazgo. Según lo que enseñó Jacob, ¿qué perspectiva le ayudaría?",
       "options": [
-        "Que el tamaño de un llamamiento no determina su importancia espiritual; lo que determina el impacto es la fidelidad y diligencia con que se magnifica",
+        "Que el tamaño del llamamiento no define su importancia; la define la fidelidad del que sirve",
         "Que debería esperar a tener un cargo más importante para poder contribuir significativamente",
         "Que las responsabilidades pequeñas son una forma de probar que no se confía en él todavía",
-        "Que tiene razón, y que debería buscar llamamientos más visibles para poder contribuir más"
+        "Que tiene razón, y que debería buscar llamamientos más visibles si quiere contribuir de verdad"
       ],
       "correctAnswer": 0
     },
@@ -127,8 +127,8 @@
       "question": "Jacob dijo que enseñaría con diligencia para que la sangre del pueblo no cayera sobre su cabeza (Jacob 1:19). El Señor dijo que Él trabaja con paciencia incansable en la viña (Jacob 5). ¿Qué principio sobre el servicio comparten Jacob y el Señor de la viña?",
       "options": [
         "Que el servicio verdadero nace de la obligación legal o del temor a las consecuencias, no del amor",
-        "Que tanto Jacob como el Señor demuestran que el servicio genuino implica responsabilidad total por el bienestar de quienes atendemos, motivado por amor profundo y no por conveniencia",
-        "Que el Señor y Jacob solo sirven cuando están seguros de que habrá resultados positivos",
+        "Que el servicio genuino implica responsabilidad total por quienes atendemos, movida por amor",
+        "Que el Señor y Jacob únicamente sirven cuando están seguros de que habrá resultados positivos",
         "Que el servicio con responsabilidad total es solo para profetas y el Señor, no para los jóvenes ordinarios"
       ],
       "correctAnswer": 1

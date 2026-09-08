@@ -47,10 +47,10 @@
       "question": "Completa: 'Dispuestos a llevar las ___ los unos de los otros'",
       "type": "multiple",
       "options": [
-        "responsabilidades de otros",
+        "preocupaciones",
         "cargas",
-        "problemas sin ayuda",
-        "maletas"
+        "penas",
+        "deudas"
       ],
       "correctAnswer": 1,
       "reference": "Mosíah 18:8",
@@ -61,10 +61,10 @@
       "question": "¿Qué debemos hacer con los que lloran?",
       "type": "multiple",
       "options": [
-        "Evitarlos",
-        "Ignorarlos",
-        "Llorar con ellos",
-        "Juzgarlos"
+        "Evitarlos por un tiempo",
+        "Ignorarlos hasta que se calmen",
+        "Llorar con los que lloran",
+        "Juzgarlos en silencio"
       ],
       "correctAnswer": 2,
       "reference": "Mosíah 18:9",
@@ -78,7 +78,7 @@
         "Solo creer en Cristo sin ningún compromiso adicional",
         "Asistir regularmente a las reuniones de la congregación",
         "Ser perfectos desde el momento mismo del bautismo",
-        "Sobrellevar cargas, consolar, ser testigos y servir a Dios"
+        "Sobrellevar cargas, consolar, ser testigos y servir"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 18:8-9",
@@ -89,7 +89,7 @@
       "question": "¿Qué promete el Señor a quienes guardan el convenio bautismal?",
       "type": "multiple",
       "options": [
-        "Que seremos contados con los de la primera resurrección y tendremos vida eterna",
+        "Ser contados con los de la primera resurrección",
         "Solo bendiciones materiales durante esta vida terrenal",
         "Una vida completamente libre de todo problema",
         "Reconocimiento y popularidad dentro de la comunidad"
@@ -104,7 +104,7 @@
       "type": "multiple",
       "options": [
         "Esperar a que la amiga hable del tema primero",
-        "Llorar con los que lloran, acompañándola en su dolor en vez de evitar la situación",
+        "Llorar con los que lloran y acompañarla",
         "Aconsejarle que no piense tanto en el problema",
         "Cambiar de tema para no incomodarla"
       ],
@@ -119,7 +119,7 @@
       "options": [
         "Que servir a otros es solo tarea de los líderes de la congregación",
         "Que el servicio es opcional para quienes ya están bautizados",
-        "Que el convenio bautismal incluye servir activamente, no solo asistir a las reuniones",
+        "Que el convenio incluye servir, no solo asistir a las reuniones",
         "Que asistir a la iglesia ya cumple con todo lo que el convenio exige"
       ],
       "correctAnswer": 2,
@@ -133,8 +133,8 @@
       "options": [
         "La promesa se cumple sin importar si servimos a otros o no",
         "Solo la primera parte del convenio tiene relación con las promesas eternas",
-        "No tienen relación alguna entre sí",
-        "Vivir el convenio de servicio es parte de lo que nos prepara para recibir esa promesa"
+        "La promesa depende solo de haberse bautizado una vez",
+        "Vivir el convenio de servicio prepara para recibir esa promesa"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 18:8-9",

@@ -59,9 +59,9 @@
       "question": "El manual describe el segundo principio para adquirir conocimiento espiritual. ¿Cuál es ese principio?",
       "options": [
         "Actuar con fe antes de tener todas las respuestas",
-        "Analizar los conceptos y las preguntas con una perspectiva eterna",
+        "Analizar los conceptos y preguntas con perspectiva eterna",
         "Buscar la guía de los profetas locales antes de orar",
-        "Procurar comprensión mediante fuentes divinamente señaladas"
+        "Procurar comprensión con fuentes divinamente señaladas"
       ],
       "correctAnswer": 1
     },
@@ -83,7 +83,7 @@
         "Ignorar la pregunta difícil y reemplazarla por una más sencilla",
         "Buscar en internet una respuesta académica a la pregunta original",
         "Cambiar '¿por qué Dios permitió este sufrimiento?' por '¿cómo puedo evitar el sufrimiento?'",
-        "Cambiar '¿por qué la vida es injusta?' por '¿qué está aprendiendo mi espíritu en esta circunstancia eterna?'"
+        "Cambiar '¿por qué la vida es injusta?' por '¿qué aprende mi espíritu acá?'"
       ],
       "correctAnswer": 3
     },
@@ -91,9 +91,9 @@
       "id": 4,
       "question": "La lección usa el ejercicio de mirar a través de un agujero pequeño en un papel y luego tratar de atrapar un objeto. ¿Qué ilustra ese ejercicio sobre la perspectiva limitada sin el Plan de Salvación?",
       "options": [
-        "Que sin el contexto del plan eterno, tomamos decisiones importantes con información drásticamente incompleta",
+        "Que sin el contexto del plan eterno decidimos con información muy incompleta",
         "Que la perspectiva eterna nos hace ignorar los problemas terrenales inmediatos",
-        "Que solo los líderes de la Iglesia tienen acceso a la perspectiva completa",
+        "Que solo los líderes de la Iglesia tienen acceso a la perspectiva completa del plan",
         "Que la perspectiva más pequeña siempre es más precisa que la visión amplia"
       ],
       "correctAnswer": 0
@@ -103,7 +103,7 @@
       "question": "Camila está enojada porque su oración por sanar a su abuela no fue contestada como esperaba. Desde una perspectiva solo terrenal, siente que Dios no existe o no le importa. ¿Cómo podría el principio de 'perspectiva eterna' ayudarle a reformular su pregunta?",
       "options": [
         "Diciéndole que sus sentimientos no son válidos y que debe aceptar todo sin cuestionarlo",
-        "Ayudándola a considerar que la vida mortal es el segundo acto de tres, y que la muerte de su abuela tiene un contexto eterno que incluye la resurrección y la continuidad del amor",
+        "Ayudándola a ver que la vida mortal tiene un contexto eterno que incluye la resurrección",
         "Diciéndole que Dios no contesta todas las oraciones porque algunas no son lo suficientemente sinceras",
         "Sugiriéndole que deje de orar hasta que tenga más fe"
       ],
@@ -115,7 +115,7 @@
       "options": [
         "Que el Plan de Salvación solo importa a las personas mayores que están más cerca de la muerte",
         "Que el Plan de Salvación es principalmente para después de morir, no para la vida cotidiana",
-        "Que el Plan de Salvación cambia cómo interpretamos las dificultades presentes, porque las vemos en el contexto de quiénes somos y hacia dónde vamos eternamente",
+        "Que el Plan de Salvación cambia cómo interpretamos las dificultades, porque las vemos con contexto",
         "Que el Plan de Salvación es un conjunto de reglas que nos dice cómo comportarnos en situaciones específicas"
       ],
       "correctAnswer": 2
@@ -127,7 +127,7 @@
         "Que solo los profetas como Alma pueden responder preguntas difíciles sobre el Evangelio",
         "Que las preguntas de Coriantón eran simplemente señal de falta de fe, no de pensamiento genuino",
         "Que las preguntas difíciles deben ignorarse para proteger la fe",
-        "Que las preguntas espirituales difíciles tienen respuestas más satisfactorias cuando se analizan dentro del marco del plan eterno de Dios, no solo desde la perspectiva terrenal"
+        "Que las preguntas difíciles tienen mejores respuestas dentro del marco del plan eterno"
       ],
       "correctAnswer": 3
     }

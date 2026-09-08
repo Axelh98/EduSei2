@@ -47,10 +47,10 @@
       "question": "¿Cuál es el propósito del dominio de las escrituras?",
       "type": "multiple",
       "options": [
-        "Internalizar verdades fundamentales para usarlas en la vida diaria",
+        "Internalizar verdades clave para usarlas en la vida diaria",
         "Ganar premios y reconocimientos dentro de la clase de Seminario",
         "Cumplir con un requisito necesario para graduarse del programa",
-        "Memorizar palabras exactas sin necesidad de comprenderlas"
+        "Memorizar las palabras exactas sin necesidad de comprenderlas"
       ],
       "correctAnswer": 0,
       "explanation": "El propósito es internalizar verdades fundamentales para usarlas en la vida diaria."
@@ -73,7 +73,7 @@
       "question": "¿Cuáles son los versículos de dominio de la doctrina que hemos visto hasta ahora?",
       "type": "multiple",
       "options": [
-        "Únicamente los versículos escritos originalmente en Doctrina y Convenios",
+        "Únicamente los versículos que fueron escritos originalmente en Doctrina y Convenios",
         "Solamente uno o dos versículos cortos de Mosíah",
         "1 Nefi 3:7, 2 Nefi 2:27, 2 Nefi 2:25, Mosíah 2:17, Mosíah 3:19, Mosíah 4:9",
         "Solo los versículos que se encuentran en el libro de Alma"
@@ -89,7 +89,7 @@
         "Para poder repetirlos rápidamente durante un examen escrito",
         "Para demostrarle al maestro que estudiamos lo suficiente",
         "Para completar una lista de requisitos del curso de Seminario",
-        "Para tener verdades fundamentales disponibles en momentos de necesidad"
+        "Para tener verdades fundamentales listas cuando hagan falta"
       ],
       "correctAnswer": 3,
       "explanation": "Memorizarlos nos da verdades fundamentales disponibles cuando más las necesitamos."
@@ -99,9 +99,9 @@
       "question": "Ian está por dar su primera clase y no sabe qué versículo de dominio usar para hablar de la fe. ¿Qué le recomendarías?",
       "type": "multiple",
       "options": [
-        "Elegir uno de los versículos de dominio y compartir también su propio testimonio de él",
+        "Elegir un versículo de dominio y compartir su propio testimonio",
         "Leer directamente de un comentario sin usar las escrituras",
-        "Evitar usar versículos de dominio en una primera clase",
+        "Evitar usar versículos de dominio en una primera clase con jóvenes",
         "Elegir cualquier versículo al azar sin pensarlo demasiado"
       ],
       "correctAnswer": 0,
@@ -113,9 +113,9 @@
       "type": "multiple",
       "options": [
         "Que solo sirve para aprobar evaluaciones de Seminario",
-        "Que el objetivo no es solo memorizar, sino tener esas verdades listas para aplicarlas en la vida",
+        "Que el objetivo no es memorizar, sino tener las verdades listas",
         "Que memorizar escrituras no tiene ningún valor real",
-        "Que memorizar es un fin en sí mismo, sin necesidad de aplicación"
+        "Que memorizar es un fin en sí mismo, sin aplicación"
       ],
       "correctAnswer": 1,
       "explanation": "El objetivo del dominio de las escrituras es tener esas verdades disponibles para aplicarlas en la vida diaria."
@@ -126,9 +126,9 @@
       "type": "multiple",
       "options": [
         "Únicamente se relacionan con la historia del pueblo nefita",
-        "Tratan temas completamente independientes sin ninguna conexión",
-        "Todos apuntan a fortalecer la fe en Cristo y guiar decisiones concretas de la vida diaria",
-        "Solo sirven como ejercicio de memoria sin propósito espiritual"
+        "Tratan temas independientes sin conexión",
+        "Todos apuntan a fortalecer la fe en Cristo y guiar decisiones",
+        "Solo sirven como ejercicio de memoria, sin propósito"
       ],
       "correctAnswer": 2,
       "explanation": "Todos los pasajes de dominio apuntan a fortalecer la fe en Cristo y guiar decisiones concretas de la vida diaria."

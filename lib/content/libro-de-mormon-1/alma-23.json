@@ -57,7 +57,7 @@
         "Las guardaron cuidadosamente por si las necesitaban después",
         "Las vendieron a otras naciones para obtener ganancias",
         "Se las entregaron a sus antiguos enemigos como regalo",
-        "Las enterraron profundamente como testimonio contra la guerra y el derramamiento de sangre"
+        "Las enterraron hondo, como testimonio contra la guerra"
       ],
       "correctAnswer": 3,
       "reference": "Alma 24:15-19",
@@ -68,8 +68,8 @@
       "question": "¿Qué nombre se dieron a sí mismos los lamanitas convertidos?",
       "type": "multiple",
       "options": [
-        "Anti-nefi-lehitas, el pueblo de Dios",
-        "Los conquistadores del norte",
+        "Anti-nefi-lehitas, pueblo de Dios",
+        "Los conquistadores del norte de la tierra",
         "Los nuevos nefitas",
         "Los guerreros de la fe"
       ],
@@ -83,9 +83,9 @@
       "type": "multiple",
       "options": [
         "Duda permanente sobre lo que habían aprendido",
-        "Firmeza en la fe, nunca cayeron",
+        "Firmeza en la fe; nunca cayeron en la incredulidad",
         "Una debilidad constante frente a las pruebas",
-        "Inconstancia en sus convicciones religiosas"
+        "Inconstancia y dudas en sus convicciones"
       ],
       "correctAnswer": 1,
       "reference": "Alma 23:6",
@@ -98,8 +98,8 @@
       "options": [
         "Huyeron de inmediato hacia las montañas cercanas",
         "Negociaron una tregua con sus antiguos enemigos",
-        "Se postraron y no opusieron resistencia, prefiriendo morir antes que pecar",
-        "Pelearon con furia para defender a sus familias"
+        "Se postraron y no opusieron resistencia a sus atacantes",
+        "Pelearon con furia para defender a sus familias y sus tierras"
       ],
       "correctAnswer": 2,
       "reference": "Alma 24:21-22",
@@ -113,7 +113,7 @@
         "Que debe seguir defendiéndose de las burlas de sus amigos con las mismas actitudes de antes",
         "Que el pasado siempre define completamente el futuro de una persona",
         "Que solo debe cambiar si sus amigos lo aceptan de nuevo",
-        "Que un cambio genuino puede ser tan real y firme como enterrar completamente las viejas armas de su vida pasada"
+        "Que un cambio genuino puede ser tan firme como enterrar las armas viejas"
       ],
       "correctAnswer": 3,
       "reference": "Alma 24:15-19",
@@ -124,9 +124,9 @@
       "question": "Victoria ve que un compañero es agredido injustamente y siente ganas de defenderlo con violencia. ¿Qué principio de los anti-nefi-lehitas podría aplicar en su reacción?",
       "type": "multiple",
       "options": [
-        "Que a veces la firmeza pacífica y el testimonio silencioso pueden influir más que la violencia",
-        "Que debe ignorar la situación por completo para evitar problemas",
-        "Que solo los adultos pueden intervenir en este tipo de situaciones",
+        "Que a veces la firmeza pacífica influye más que la violencia misma",
+        "Que tiene que ignorar la situación por completo para evitar problemas",
+        "Que solo los adultos pueden intervenir en ese tipo de situaciones difíciles",
         "Que la violencia siempre es la única forma efectiva de defender a otros"
       ],
       "correctAnswer": 0,
@@ -139,9 +139,9 @@
       "type": "multiple",
       "options": [
         "La conversión de los atacantes ocurrió por completo al azar",
-        "El sacrificio pacífico de los anti-nefi-lehitas se convirtió en un testimonio que llevó a otros a la conversión",
+        "Su sacrificio pacífico fue un testimonio que llevó a otros a creer",
         "El entierro de las armas provocó más violencia por parte de los atacantes",
-        "No tienen relación real entre sí"
+        "El entierro de las armas fue un gesto simbólico sin efecto en otros"
       ],
       "correctAnswer": 1,
       "reference": "Alma 24:25-27",

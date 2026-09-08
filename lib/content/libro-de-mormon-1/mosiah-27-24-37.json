@@ -55,7 +55,7 @@
       "type": "multiple",
       "options": [
         "Alcanzar un estatus social más alto dentro de la iglesia",
-        "Experimentar un cambio de corazón y ser redimidos de un estado carnal a espiritual",
+        "Experimentar un cambio de corazón, de carnal a espiritual",
         "Nacer nuevamente de manera física en otra familia",
         "Cumplir con el ritual del bautismo sin ningún cambio interno"
       ],
@@ -68,9 +68,9 @@
       "question": "¿Cómo cambió Alma después de su conversión?",
       "type": "multiple",
       "options": [
-        "Permaneció exactamente igual, sin ningún cambio visible",
+        "Permaneció igual, sin cambios",
         "Se retiró completamente de la vida pública para siempre",
-        "Dedicó su vida a predicar el evangelio y reparar el daño que había causado",
+        "Dedicó su vida a predicar y a reparar el daño causado",
         "Se volvió más orgulloso al sentirse especialmente elegido"
       ],
       "correctAnswer": 2,
@@ -84,8 +84,8 @@
       "options": [
         "Que es imposible para cualquier persona lograrlo",
         "Que basta con pertenecer a la familia correcta",
-        "Que deben ser perfectos antes de poder arrepentirse",
-        "Que deben nacer otra vez y experimentar un cambio de corazón"
+        "Que deben ser perfectos antes de arrepentirse",
+        "Que deben nacer otra vez, con un cambio de corazón"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 27:25-26",
@@ -96,7 +96,7 @@
       "question": "¿Qué declaró Alma hijo sobre su conversión?",
       "type": "multiple",
       "options": [
-        "Que su alma había sido redimida del hiel de amargura y de las cadenas del infierno",
+        "Que su alma fue redimida del hiel de amargura y las cadenas",
         "Que todo había sido simplemente un sueño sin mayor importancia",
         "Que el cambio solo fue temporal y luego se desvaneció",
         "Que prefería no hablar del tema con su familia"
@@ -113,9 +113,9 @@
         "Que 'nacer de Dios' es algo que ocurre automáticamente al crecer",
         "Que su testimonio heredado ya es completamente válido",
         "Que basta con la fe de la familia para tener un testimonio verdadero",
-        "Que cada persona necesita su propio cambio de corazón, no basta con la fe de la familia"
+        "Que cada uno necesita su propio cambio de corazón, no el heredado"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "reference": "Mosíah 27:25",
       "explanation": "Cada persona necesita experimentar su propio cambio de corazón; no basta con la fe heredada de la familia."
     },
@@ -126,7 +126,7 @@
       "options": [
         "Disculparse una sola vez y no volver a mencionar el tema",
         "Ignorar el daño causado y seguir adelante sin más",
-        "Dedicar su vida a hacer el bien y reparar activamente el daño causado, como hizo Alma",
+        "Dedicar su vida al bien y reparar activamente el daño",
         "Esperar a que la otra persona lo perdone antes de actuar"
       ],
       "correctAnswer": 2,
@@ -139,9 +139,9 @@
       "type": "multiple",
       "options": [
         "Solo la conversión personal de Alma importa en este relato",
-        "No tienen relación real entre sí",
+        "Alma predicó por mandato de su padre, no por su conversión",
         "Predicar era una obligación impuesta, sin relación con su conversión",
-        "El verdadero cambio de corazón lleva naturalmente al deseo de ayudar a otros a experimentarlo también"
+        "El cambio de corazón real lleva a querer que otros lo vivan"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 27:25-37",

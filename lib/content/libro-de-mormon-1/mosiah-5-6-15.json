@@ -103,7 +103,7 @@
       "question": "¿Qué convenio hizo el pueblo del rey Benjamín?",
       "type": "multiple",
       "options": [
-        "Hacer la voluntad de Dios y obedecer Sus mandamientos",
+        "Hacer la voluntad de Dios y obedecerle",
         "Cambiar completamente su forma de vestir y hablar",
         "Reunirse una vez al año para escuchar al rey",
         "Pagar un tributo anual de sus cosechas al templo"
@@ -118,7 +118,7 @@
       "type": "multiple",
       "options": [
         "Que tomar Su nombre es opcional para quienes ya son miembros",
-        "Que tomar el nombre de Cristo significa comprometerse a vivir como Sus hijos e hijas",
+        "Que tomar el nombre de Cristo es comprometerse a vivir como Sus hijos",
         "Que el nombre de Cristo es solo un título ceremonial sin más significado",
         "Que solo importa el nombre que aparece en los registros de la Iglesia"
       ],
@@ -133,7 +133,7 @@
       "options": [
         "Que necesita cambiar de familia para tener una fe genuina",
         "Que la fe heredada de la familia ya es suficiente para toda la vida",
-        "Que debe retener el nombre de Cristo escrito en su propio corazón, no solo heredarlo",
+        "Que debe retener el nombre de Cristo escrito en su corazón",
         "Que no es posible tener una fe verdaderamente propia"
       ],
       "correctAnswer": 2,
@@ -145,10 +145,10 @@
       "question": "¿Cómo conecta este pasaje la idea de 'ser hijos de Cristo' con la de 'retener Su nombre en el corazón'?",
       "type": "multiple",
       "options": [
-        "Son dos etapas separadas que nunca ocurren en la misma persona",
+        "Son dos etapas separadas que nunca coinciden en alguien",
         "Solo una de las dos ideas es necesaria para la salvación",
-        "No tienen relación alguna entre sí",
-        "Ambas describen la misma identidad espiritual vivida de manera activa y personal"
+        "Ser hijos de Cristo ocurre antes y el nombre viene después",
+        "Ambas describen la misma identidad espiritual vivida a diario"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 5:7-13",

@@ -52,9 +52,9 @@
       "question": "¿Cuál es el propósito de las evaluaciones de dominio?",
       "type": "multiple",
       "options": [
-        "Ayudarte a identificar lo que sabes bien y lo que necesitas repasar",
+        "Ayudarte a ver lo que sabes bien y lo que necesitas repasar",
         "Calificar y comparar a los estudiantes entre sí",
-        "Castigar a quienes no dedicaron suficiente tiempo a estudiar",
+        "Castigar a quienes no dedicaron bastante tiempo a estudiar",
         "Generar competencia entre los miembros de la clase"
       ],
       "correctAnswer": 0,
@@ -65,8 +65,8 @@
       "question": "¿Cómo debes prepararte para la evaluación?",
       "type": "multiple",
       "options": [
-        "Memorizando palabras sin buscar comprender su significado",
-        "Repasar constantemente y vivir los principios",
+        "Memorizando palabras sin buscar entender su significado",
+        "Repasar constantemente y vivir los principios aprendidos",
         "No es necesario ningún tipo de preparación previa",
         "Estudiando únicamente la noche anterior a la evaluación"
       ],
@@ -80,8 +80,8 @@
       "options": [
         "Solamente listas de nombres y genealogías",
         "Ningún tema doctrinal relevante en particular",
-        "Obediencia, albedrío, expiación, cambio de corazón, convenios y fe",
-        "Únicamente relatos de guerras entre naciones"
+        "Obediencia, albedrío, expiación, convenios y fe",
+        "Únicamente relatos de guerras entre naciones enemigas"
       ],
       "correctAnswer": 2,
       "explanation": "Hemos visto obediencia, albedrío, expiación, cambio de corazón, convenios y fe."
@@ -94,7 +94,7 @@
         "No es posible aplicarlas a nuestra realidad actual",
         "Solamente leyéndolas sin buscar ninguna aplicación práctica",
         "Considerándolas simplemente relatos históricos sin relevancia",
-        "Obedecer con fe, buscar revelación personal y confiar en el Señor"
+        "Obedecer con fe, buscar revelación y confiar en el Señor"
       ],
       "correctAnswer": 3,
       "explanation": "Podemos aplicarlas obedeciendo con fe, buscando revelación personal y confiando en el Señor."
@@ -104,7 +104,7 @@
       "question": "Delfina siente que ha memorizado mucho pero no aplicado casi nada este año. ¿Qué le sugerirías para su autoevaluación?",
       "type": "multiple",
       "options": [
-        "Reflexionar honestamente sobre cómo ha vivido, no solo cuánto ha memorizado",
+        "Reflexionar sobre cómo vivió, no cuánto memorizó",
         "Comparar cuánto memorizó frente a sus compañeros",
         "Dejar de estudiar más versículos hasta el próximo año",
         "Que se conforme con lo que ya memorizó"
@@ -118,7 +118,7 @@
       "type": "multiple",
       "options": [
         "Memorizar más datos sin necesidad de vivirlos",
-        "Crecer mediante el estudio constante, la oración sincera y la aplicación de lo aprendido",
+        "Crecer con estudio constante, oración sincera y aplicación",
         "Esperar a que el testimonio llegue sin ningún esfuerzo personal",
         "Depender completamente del testimonio de sus padres"
       ],
@@ -131,8 +131,8 @@
       "type": "multiple",
       "options": [
         "Los anti-nefi-lehitas no experimentaron ningún cambio real",
-        "No tienen relación real entre sí",
-        "Ambos muestran que un cambio de corazón genuino puede transformar completamente la vida de una persona o un pueblo",
+        "Los hijos de Mosíah cambiaron por su esfuerzo y no por el evangelio",
+        "Ambos muestran que un cambio de corazón genuino transforma la vida",
         "Solo el ejemplo de los hijos de Mosíah es relevante para nuestra vida hoy"
       ],
       "correctAnswer": 2,

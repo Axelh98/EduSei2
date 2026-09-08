@@ -61,7 +61,7 @@
       "question": "El presidente Ezra Taft Benson usó la imagen de la 'piedra clave' de un arco para describir el Libro de Mormón. ¿Qué característica específica de una piedra clave hace que esa analogía sea tan poderosa?",
       "options": [
         "Que es la piedra más antigua de la construcción",
-        "Que es la piedra central que sostiene todas las demás; si se retira, el arco entero se derrumba",
+        "Que si se la retira, el arco entero se derrumba",
         "Que es la piedra más visible y decorativa del arco",
         "Que es la piedra más grande del arco"
       ],
@@ -71,8 +71,8 @@
       "id": 2,
       "question": "El presidente Benson llamó al Libro de Mormón «la piedra clave de nuestra religión». ¿Qué implica esa imagen del arco de piedra que usa la lección?",
       "options": [
-        "Que el libro es la parte más antigua y por eso merece un lugar de honor.",
-        "Que si se quita esa pieza, la estructura entera pierde el sostén.",
+        "Que el libro es la parte más antigua de todas y por eso merece un lugar de honor.",
+        "Que si se quita esa pieza, toda la estructura pierde el sostén y se derrumba.",
         "Que el libro debe leerse antes que cualquier otro texto de las Escrituras.",
         "Que su valor está en ser el más difícil de entender de todos los libros."
       ],
@@ -85,7 +85,7 @@
         "Porque contiene fórmulas mágicas que actúan independientemente de la fe del lector",
         "Porque su contenido histórico inspira admiración y eso produce cambio de comportamiento",
         "Porque está escrito en un estilo literario que afecta positivamente las emociones",
-        "Porque como palabra de Dios, al recibirla con fe activa el poder del Espíritu Santo que testifica y transforma"
+        "Porque es la palabra de Dios y, recibida con fe, activa el poder del Espíritu Santo"
       ],
       "correctAnswer": 3
     },
@@ -93,9 +93,9 @@
       "id": 4,
       "question": "El presidente Nelson prometió que estudiar el Libro de Mormón cada día 'vacuna' contra adicciones y males de la época. ¿Qué mecanismo doctrinal explicaría ese efecto de protección?",
       "options": [
-        "Que el contacto diario con las palabras de Cristo fortalece el Espíritu, el cual resiste al hombre natural y sus tentaciones",
+        "Que el contacto diario con las palabras de Cristo fortalece el Espíritu contra la tentación",
         "Que el libro tiene propiedades psicológicas similares a una terapia cognitiva",
-        "Que la promesa del presidente Nelson es solo para personas que ya tienen un testimonio fuerte",
+        "Que la promesa del presidente Nelson es solo para quienes ya tienen testimonio",
         "Que leer el libro elimina automáticamente los deseos pecaminosos sin esfuerzo personal"
       ],
       "correctAnswer": 0
@@ -105,7 +105,7 @@
       "question": "Luca lee el Libro de Mormón solo cuando tiene tiempo, unas pocas veces al mes. El presidente Nelson prometió beneficios específicos para quienes lo estudian cada día. Según esta lección, ¿qué diferencia haría el cambio de 'ocasional' a 'diario'?",
       "options": [
         "Ninguna diferencia significativa, porque la cantidad no importa tanto como la calidad ocasional",
-        "La frecuencia diaria crea una exposición constante a las palabras de Cristo que produce las promesas específicas: mejores decisiones, respuestas a preguntas y protección espiritual",
+        "La frecuencia diaria expone constantemente a las palabras de Cristo y produce las promesas",
         "Solo importaría si Luca también ayuna simultáneamente mientras lee",
         "La diferencia sería solo en cuántas páginas conoce, no en el impacto espiritual"
       ],
@@ -117,7 +117,7 @@
       "options": [
         "Que el libro ya cumplió su propósito histórico y ahora es más un símbolo que una guía práctica",
         "Que tiene razón, y que una fe madura no necesita el libro tanto como los principiantes",
-        "Que precisamente porque es la piedra clave que sostiene el testimonio de la Restauración, su lectura continua es lo que mantiene el arco de la fe en pie",
+        "Que justamente por ser la piedra clave de la Restauración, leerlo mantiene el arco en pie",
         "Que la Iglesia insiste en leerlo por tradición, no necesariamente por razones doctrinales"
       ],
       "correctAnswer": 2
@@ -126,10 +126,10 @@
       "id": 7,
       "question": "El presidente Benson dijo que el Libro de Mormón 'testifica de Cristo con poder y claridad'. El presidente Nelson añadió que las ventanas del cielo se abren cuando se estudia con oración. ¿Cuál es el principio que conecta ambas promesas?",
       "options": [
-        "Que la promesa de ventanas abiertas aplica solo a la lectura pública y colectiva del libro",
+        "Que la promesa de ventanas abiertas aplica solamente a la lectura pública y colectiva del libro",
         "Que el testimonio de Cristo y la revelación personal son beneficios alternativos, no simultáneos",
-        "Que el libro actúa como un talismán que produce bendiciones independientemente de cómo se use",
-        "Que el libro es tanto fuente de revelación personal como testigo de Cristo, y ambas funciones se activan juntas mediante el estudio con oración y fe"
+        "Que el libro actúa como un talismán que produce bendiciones independientemente de la manera en que se use",
+        "Que el libro es fuente de revelación personal y testigo de Cristo, y las dos se activan juntas"
       ],
       "correctAnswer": 3
     }

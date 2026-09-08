@@ -83,7 +83,7 @@
       "type": "multiple",
       "options": [
         "Todos se mantuvieron humildes sin ninguna excepción",
-        "Algunos empezaron a enorgullecerse y perseguir a otros",
+        "Algunos se enorgullecieron y persiguieron a otros",
         "La prosperidad no tuvo ningún efecto sobre nadie",
         "Todos decidieron compartir aún más de lo habitual"
       ],
@@ -97,8 +97,8 @@
       "type": "multiple",
       "options": [
         "Abandonando la congregación para evitar más conflictos",
-        "Exigiendo protección especial de las autoridades del gobierno",
-        "Con paciencia, soportando las aflicciones con fe",
+        "Exigiendo protección especial a las autoridades",
+        "Con paciencia, soportando con fe cada una de las aflicciones",
         "Respondiendo con la misma hostilidad de sus perseguidores"
       ],
       "correctAnswer": 2,
@@ -113,7 +113,7 @@
         "Que es normal que se formen grupos según el nivel económico",
         "Que solo los líderes deben preocuparse por la unidad del grupo",
         "Que los más ricos deben liderar siempre el grupo",
-        "No hacer acepción de personas; tratar a todos como iguales sin importar su situación económica"
+        "No hacer acepción de personas: tratar a todos igual"
       ],
       "correctAnswer": 3,
       "reference": "Alma 1:30",
@@ -124,7 +124,7 @@
       "question": "Emilia tiene ropa y cosas que ya no usa mientras conoce a alguien que las necesita. ¿Qué le enseña el ejemplo de la iglesia primitiva?",
       "type": "multiple",
       "options": [
-        "Impartir de su sustancia a los necesitados, como hacían los primeros miembros de la iglesia",
+        "Impartir de su sustancia a los necesitados",
         "Que solo debe compartir si le sobra mucho",
         "Que debe guardar todo por si acaso lo necesita después",
         "Que ayudar a otros es responsabilidad exclusiva de los líderes"
@@ -138,8 +138,8 @@
       "question": "¿Cómo se relacionan la igualdad entre ricos y pobres y la paciencia frente a la persecución en este capítulo?",
       "type": "multiple",
       "options": [
-        "No tienen relación real entre sí",
-        "Ambas actitudes reflejan un corazón humilde que prioriza a Dios y a los demás por sobre el orgullo",
+        "La igualdad económica y la paciencia son virtudes sin vínculo",
+        "Ambas reflejan un corazón humilde que pone a Dios primero",
         "Solo la igualdad económica tiene valor espiritual real",
         "La paciencia ante la persecución contradice la idea de igualdad"
       ],

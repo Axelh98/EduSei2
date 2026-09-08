@@ -60,8 +60,8 @@
       "id": 1,
       "question": "Según Jacob 7:5, ¿qué fue lo que impidió que Sherem pudiera sacudir la fe de Jacob?",
       "options": [
-        "Que Jacob era más inteligente que Sherem en debates académicos",
-        "Que Jacob había recibido revelaciones, visto ángeles y tenía una experiencia personal directa con el Señor",
+        "Que Jacob era más inteligente que Sherem en los debates académicos",
+        "Que Jacob había recibido revelaciones y visto ángeles del Señor",
         "Que Jacob apeló a la autoridad de su cargo como sacerdote y profeta",
         "Que Sherem decidió no debatir seriamente con Jacob para no parecer irrespetuoso"
       ],
@@ -73,7 +73,7 @@
       "options": [
         "Fue expulsado del pueblo por un consejo de ancianos convocado por Jacob",
         "Se convirtió en discípulo de Jacob y predicó el Evangelio por el resto de su vida",
-        "Fue herido por el poder de Dios, confesó que había sido engañado por el diablo, y falleció",
+        "Fue herido por el poder de Dios, confesó su engaño y murió",
         "Huyó de la comunidad y nunca más se supo de él"
       ],
       "correctAnswer": 2
@@ -85,7 +85,7 @@
         "Porque era el único que podía debatir con Jacob en igualdad de condiciones intelectuales",
         "Porque la elocuencia es siempre señal de que alguien recibió educación de fuentes contrarias al Evangelio",
         "Porque las personas bien educadas siempre son más difíciles de convencer que las personas simples",
-        "Porque la elocuencia y el conocimiento del idioma le permitían hacer que ideas falsas sonaran razonables y convincentes para personas que no tenían un testimonio propio firme"
+        "Porque su elocuencia hacía que las ideas falsas sonaran razonables y convincentes para otros"
       ],
       "correctAnswer": 3
     },
@@ -95,8 +95,8 @@
       "options": [
         "Que Jacob conocía mejor los argumentos y pudo refutarlo con más habilidad.",
         "Que Sherem se contradijo solo y perdió credibilidad ante los que escuchaban.",
-        "Que Jacob había visto ángeles y recibido revelaciones sobre esas cosas.",
-        "Que el pueblo defendió a Jacob y Sherem se quedó sin apoyo para seguir."
+        "Que Jacob había visto ángeles y recibido revelaciones sobre estas cosas.",
+        "Que el pueblo defendió a Jacob y Sherem se quedó sin ningún apoyo para seguir."
       ],
       "correctAnswer": 2
     },
@@ -105,7 +105,7 @@
       "question": "Mateo tiene un compañero de clase que constantemente le hace preguntas diseñadas para avergonzarlo por sus creencias religiosas frente al grupo. Según el ejemplo de Jacob, ¿cuál sería la respuesta más efectiva?",
       "options": [
         "Evitar al compañero para no tener que enfrentar esas situaciones",
-        "Responder desde sus propias experiencias espirituales con calma y sin agresividad, sabiendo que el Espíritu puede confirmar la verdad de su testimonio personal",
+        "Responder desde sus propias experiencias espirituales, con calma y sin agresividad",
         "Preparar una lista de argumentos lógicos y citas de libros para responder en la próxima situación",
         "Pedirle al maestro que intervenga para que el compañero no siga haciendo preguntas"
       ],
@@ -117,7 +117,7 @@
       "options": [
         "Memorizar las respuestas estándar de la Iglesia a las preguntas difíciles más comunes",
         "Estudiar todos los argumentos apologéticos disponibles en internet",
-        "Buscar experiencias espirituales genuinas: orar, leer las Escrituras buscando sentir al Espíritu, y registrar esas experiencias para recordarlas cuando llegue el desafío",
+        "Buscar experiencias espirituales genuinas: orar, leer y registrarlas",
         "Evitar situaciones donde alguien podría desafiar su fe hasta que se sienta listo"
       ],
       "correctAnswer": 2

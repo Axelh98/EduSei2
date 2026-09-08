@@ -74,7 +74,7 @@
       "type": "multiple",
       "options": [
         "Misioneros dedicados a predicar el evangelio",
-        "Un pueblo feroz y sanguinario que se deleitaba en matar",
+        "Un pueblo feroz que se deleitaba en matar",
         "Personas rectas que ya seguían los mandamientos",
         "Una nación completamente pacífica desde siempre"
       ],
@@ -104,7 +104,7 @@
         "Que no debía sentir ningún tipo de gozo",
         "Que estaba mintiendo sobre los resultados de la misión",
         "Que no había trabajado lo suficiente durante la misión",
-        "Que se estaba jactando (pero Ammón clarificó que se gloriaba en el Señor)"
+        "Que se estaba jactando; Ammón se gloriaba en el Señor"
       ],
       "correctAnswer": 3,
       "reference": "Alma 26:10-16",
@@ -115,7 +115,7 @@
       "question": "Gael ayudó a un amigo a acercarse más a Dios y ahora se siente muy feliz por eso, pero teme que sea orgullo. ¿Qué le aclara Alma 26 sobre el gozo de Ammón?",
       "type": "multiple",
       "options": [
-        "Que el gozo por ver a otros convertirse es apropiado cuando se atribuye el mérito a Dios, no a uno mismo",
+        "Que ese gozo es apropiado si el mérito se atribuye a Dios",
         "Que debe ocultar su alegría para parecer más humilde",
         "Que solo los misioneros de tiempo completo pueden sentir ese tipo de gozo",
         "Que sentir gozo por ayudar a otros siempre es una forma de orgullo"
@@ -130,7 +130,7 @@
       "type": "multiple",
       "options": [
         "Comparar su pasado con el de otras personas para sentirse mejor",
-        "Reconocer que el cambio es posible para cualquiera, sin importar cuán lejos haya estado del camino correcto",
+        "Reconocer que el cambio es posible para cualquiera",
         "Evitar hablar de su pasado con cualquier persona",
         "Sentir que su pasado la descalifica para servir a otros"
       ],
@@ -144,8 +144,8 @@
       "type": "multiple",
       "options": [
         "Solo el reconocimiento del poder de Dios importa, sin relación con el gozo personal",
-        "No tienen relación real entre sí",
-        "El verdadero gozo espiritual nace de reconocer que la obra fue posible gracias al poder de Dios, no al propio mérito",
+        "El gozo de Ammón nació de su propio esfuerzo en la misión",
+        "El gozo verdadero nace de reconocer que la obra fue de Dios",
         "El gozo de Ammón era completamente independiente de su fe en Dios"
       ],
       "correctAnswer": 2,

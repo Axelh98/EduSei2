@@ -70,7 +70,7 @@
       "options": [
         "Era una oración perfecta según el patrón correcto",
         "Era demasiado humilde para el gusto del pueblo",
-        "Era simplemente demasiado larga y detallada",
+        "Era simplemente demasiado larga y muy detallada",
         "Era repetitiva, orgullosa y negaba a Cristo"
       ],
       "correctAnswer": 3,
@@ -82,7 +82,7 @@
       "question": "¿Cómo contrastó la oración de Alma con la de los zoramitas?",
       "type": "multiple",
       "options": [
-        "Era humilde, sincera y suplicaba por las almas de los perdidos",
+        "Era humilde y suplicaba por los perdidos",
         "Mostraba también un tono orgulloso y presumido",
         "En realidad Alma no llegó a orar en esa ocasión",
         "Era prácticamente igual a la de los zoramitas"
@@ -96,8 +96,8 @@
       "question": "¿Qué decían los zoramitas en su oración sobre ellos mismos?",
       "type": "multiple",
       "options": [
-        "Que eran un pueblo humilde ante los ojos de Dios",
-        "Que eran el pueblo elegido de Dios y que todos los demás serían echados al infierno",
+        "Que eran un pueblo humilde ante Dios",
+        "Que eran los elegidos y los demás se perderían",
         "Que se reconocían a sí mismos como pecadores",
         "Que necesitaban urgentemente la ayuda de Dios"
       ],
@@ -112,7 +112,7 @@
       "options": [
         "Que no importa la actitud con la que se ore, solo las palabras usadas",
         "Que ese tipo de oración es la forma correcta de mostrar devoción",
-        "Que la oración repetitiva y orgullosa, como la de los zoramitas, no refleja una relación sincera con Dios",
+        "Que la oración repetitiva y orgullosa no refleja fe sincera",
         "Que orar en público siempre es señal de una fe fuerte"
       ],
       "correctAnswer": 2,
@@ -127,7 +127,7 @@
         "Orar solo por sus propias necesidades personales",
         "Repetir las mismas palabras que otros usan en sus oraciones",
         "Evitar orar por personas que no comparten su fe",
-        "Orar con humildad y sinceridad, suplicando por las almas de quienes se han apartado de la verdad"
+        "Orar con humildad y sinceridad por los que se apartaron"
       ],
       "correctAnswer": 3,
       "reference": "Alma 31:31-35",
@@ -138,10 +138,10 @@
       "question": "¿Cómo se relacionan el Rameúmptom de los zoramitas y la oración humilde de Alma por sus compañeros?",
       "type": "multiple",
       "options": [
-        "El contraste muestra la diferencia entre una religiosidad orgullosa y una fe genuina centrada en el amor por los demás",
+        "El contraste separa la religiosidad orgullosa de la fe genuina",
         "Ambos representan exactamente el mismo tipo de devoción religiosa",
         "El Rameúmptom era en realidad un ejemplo positivo de oración",
-        "No tienen relación real entre sí"
+        "El Rameúmptom y la oración de Alma buscaban lo mismo por vías distintas"
       ],
       "correctAnswer": 0,
       "reference": "Alma 31:12-35",

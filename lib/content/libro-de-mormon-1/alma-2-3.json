@@ -54,9 +54,9 @@
       "question": "¿Qué quería Amlici?",
       "type": "multiple",
       "options": [
-        "Ser rey sobre el pueblo",
+        "Ser rey sobre todo el pueblo de los nefitas",
         "Predicar el evangelio por toda la tierra",
-        "Servir humildemente como consejero del pueblo",
+        "Servir como consejero del pueblo",
         "Ayudar a los pobres a mejorar su condición"
       ],
       "correctAnswer": 0,
@@ -69,7 +69,7 @@
       "type": "multiple",
       "options": [
         "Ropa de un color especial",
-        "Una marca roja en la frente",
+        "Marca roja en la frente",
         "Ninguna marca visible",
         "Tatuajes en ambos brazos"
       ],
@@ -84,7 +84,7 @@
       "options": [
         "Otras personas son responsables de nuestras decisiones",
         "Las acciones no tienen ninguna consecuencia eterna",
-        "Nuestras acciones y deseos nos traen recompensas buenas o malas",
+        "Nuestras acciones y deseos traen recompensa o castigo",
         "Solo la suerte determina lo que nos sucede en la vida"
       ],
       "correctAnswer": 2,
@@ -97,9 +97,9 @@
       "type": "multiple",
       "options": [
         "Ganando una elección organizada por el pueblo",
-        "Convenciendo pacíficamente al pueblo de elegirlo juez",
+        "Convenciendo al pueblo de elegirlo juez",
         "Pidiendo apoyo directo al rey de los lamanitas",
-        "Reuniendo un ejército para tomar el poder por la fuerza"
+        "Reuniendo un ejército y tomando el poder a la fuerza"
       ],
       "correctAnswer": 3,
       "reference": "Alma 2:2-9",
@@ -110,8 +110,8 @@
       "question": "Nicolás quiere ser el líder de su equipo a toda costa, incluso pasando por encima de otros. ¿Qué advertencia le daría el ejemplo de Amlici?",
       "type": "multiple",
       "options": [
-        "Que buscar poder de forma egoísta puede llevar a consecuencias destructivas para uno mismo y para otros",
-        "Que Amlici tuvo éxito al final gracias a su ambición",
+        "Que buscar poder de forma egoísta trae consecuencias destructivas",
+        "Que Amlici terminó teniendo éxito gracias a su ambición y su audacia",
         "Que el liderazgo siempre trae beneficios sin riesgos",
         "Que está bien competir sin importar los métodos usados"
       ],
@@ -125,7 +125,7 @@
       "type": "multiple",
       "options": [
         "Que las decisiones pequeñas no tienen ningún impacto real",
-        "Que nuestras acciones y deseos determinan las recompensas que recibimos, buenas o malas",
+        "Que nuestras acciones y deseos determinan lo que recibimos",
         "Que solo las grandes decisiones importan ante Dios",
         "Que el resultado de nuestras decisiones depende solo de la suerte"
       ],
@@ -138,10 +138,10 @@
       "question": "¿Qué relación hay entre la marca que los amlicitas se pusieron ellos mismos y el principio de que nos separamos de Dios por nuestras propias elecciones?",
       "type": "multiple",
       "options": [
-        "No tienen relación alguna entre sí",
+        "La marca de los amlicitas fue una moda, no una decisión espiritual",
         "La marca fue impuesta por Dios sin relación con sus decisiones",
-        "Ambas muestran que las consecuencias de nuestras decisiones muchas veces las provocamos nosotros mismos",
-        "Solo el principio de separación de Dios es relevante aquí"
+        "Ambas muestran que esas consecuencias las provocamos nosotros",
+        "Solamente el principio de separación de Dios es relevante aquí"
       ],
       "correctAnswer": 2,
       "reference": "Alma 3",

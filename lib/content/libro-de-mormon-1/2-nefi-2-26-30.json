@@ -63,7 +63,7 @@
         "Elegir permanecer en el desierto o regresar a Jerusalén",
         "Escoger entre vivir según las leyes de Moisés o según el Evangelio de Cristo",
         "Elegir el camino fácil o el camino difícil del Evangelio",
-        "Escoger la libertad y la vida eterna mediante Cristo, o la cautividad y la muerte mediante el poder del diablo"
+        "Escoger la libertad y la vida eterna, o la cautividad y la muerte"
       ],
       "correctAnswer": 3
     },
@@ -72,8 +72,8 @@
       "question": "Lehi exhortó en 2 Nefi 2:30 a sus hijos a 'mirar hacia el gran Mediador'. ¿Cuál es el efecto prometido de hacerlo?",
       "options": [
         "Que serán libres para siempre si confían en Su doctrina y guardan Sus mandamientos",
-        "Que el Mediador mediará ante el diablo para reducir las tentaciones que enfrentan",
-        "Que sus familias también recibirán la salvación automáticamente por la fe del individuo",
+        "Que el Mediador mediará ante el diablo para reducir las tentaciones que enfrentan los hombres",
+        "Que sus familias también se salvarán por la fe de uno",
         "Que el Mediador resolverá todos sus problemas terrenales sin necesidad de esfuerzo personal"
       ],
       "correctAnswer": 0
@@ -82,8 +82,8 @@
       "id": 3,
       "question": "2 Nefi 2:26 dice que gracias a la Redención los hombres 'actúan por sí mismos y no son actuados'. ¿Qué diferencia hay entre alguien que 'actúa' y alguien que 'es actuado'?",
       "options": [
-        "Quien actúa trabaja físicamente y quien es actuado es pasivo en sus actividades cotidianas",
-        "Quien actúa ejerce su albedrío moral conscientemente; quien es actuado es llevado por impulsos, presiones o adicciones sin dirección personal",
+        "Quien actúa trabaja físicamente y quien es actuado es pasivo",
+        "Quien actúa ejerce su albedrío conscientemente; quien es actuado va llevado por impulsos",
         "Quien actúa obedece mandamientos y quien es actuado los desobedece",
         "La diferencia es solo semántica y no tiene implicaciones prácticas"
       ],
@@ -106,7 +106,7 @@
       "options": [
         "Que las reglas del Evangelio son bastante menos restrictivas que las del mundo.",
         "Que la libertad verdadera solo se experimenta en el mundo venidero, no en este.",
-        "Que tiene razón, y que ese es el sacrificio que el Evangelio pide a cambio.",
+        "Que tiene razón, y que ese es el sacrificio que el Evangelio siempre pide a cambio.",
         "Que el versículo llama libertad a poder actuar, y no a ser llevado por otro."
       ],
       "correctAnswer": 3
@@ -115,8 +115,8 @@
       "id": 6,
       "question": "Luca siente que sus malas decisiones ya lo tienen 'atrapado' y que el camino del Evangelio ya no es para él. Según 2 Nefi 2:26–27, ¿qué promesa concreta podría darle esperanza?",
       "options": [
-        "Que gracias a la Redención de Cristo, siempre es posible elegir la libertad; la Expiación existe precisamente para liberar a quienes sienten estar atrapados",
-        "Que si Dios lo quiere salvar, lo salvará sin importar lo que él elija",
+        "Que gracias a la Redención de Cristo siempre es posible elegir la libertad",
+        "Que si Dios lo quiere salvar, lo salvará con independencia de lo que él elija",
         "Que debería encontrar un grupo de apoyo comunitario antes de volver al camino del Evangelio",
         "Que si espera el tiempo suficiente, las consecuencias de sus decisiones desaparecerán solas"
       ],
@@ -127,7 +127,7 @@
       "question": "Lehi dice que somos libres para escoger 'la libertad y la vida eterna, mediante el gran Mediador'. ¿Por qué el Mediador es esencial para que esa libertad sea posible, y no simplemente nuestro propio esfuerzo?",
       "options": [
         "Porque el Mediador hace el trabajo por nosotros sin necesidad de nuestro esfuerzo",
-        "Porque la Caída nos dejó sujetos a consecuencias que solo la Expiación puede revertir; sin el Mediador, nuestros errores pasados nos impedirían verdaderamente escoger la vida eterna",
+        "Porque la Caída nos dejó sujetos a consecuencias que solo la Expiación puede revertir",
         "Porque el Mediador es necesario solo para personas que han cometido pecados muy graves",
         "Porque el esfuerzo personal es completamente suficiente para alcanzar la vida eterna sin necesitar un mediador"
       ],

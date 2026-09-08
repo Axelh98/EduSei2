@@ -55,7 +55,7 @@
       "type": "multiple",
       "options": [
         "Que solo debía haber un sacerdote para toda la nación",
-        "Que todos los sacerdotes debían hacerse populares y vivir del sustento del pueblo",
+        "Que los sacerdotes debían hacerse populares y vivir del pueblo",
         "Que los sacerdotes debían renunciar a cualquier tipo de reconocimiento público",
         "Que los sacerdotes debían trabajar con sus propias manos como el resto del pueblo"
       ],
@@ -85,7 +85,7 @@
         "Decidió unirse temporalmente a las ideas de Nehor",
         "Huyó de la ciudad para no tener que enfrentarlo",
         "Prefirió ignorar el problema para evitar conflictos",
-        "Defendió la verdad y estableció la ley contra las supercherías"
+        "Defendió la verdad y estableció la ley"
       ],
       "correctAnswer": 3,
       "reference": "Alma 1:12",
@@ -111,7 +111,7 @@
       "type": "multiple",
       "options": [
         "Que la salvación depende de la riqueza de la persona",
-        "Que todos serían salvos sin importar cómo vivieran, lo cual Alma corrigió como falso",
+        "Que todos serían salvos vivieran como vivieran",
         "Que debemos vivir con rectitud para ser salvos",
         "Que solo los sacerdotes pueden ser salvos"
       ],
@@ -126,7 +126,7 @@
       "options": [
         "Que solo es un problema si el predicador comete un delito",
         "Que es una forma válida de servicio si logra convencer a otros",
-        "Reconocer las supercherías sacerdotales: predicar por dinero y popularidad en vez de amor a Dios",
+        "Reconocer las supercherías: predicar por dinero y popularidad",
         "Que no hay ningún problema mientras la gente escuche el mensaje"
       ],
       "correctAnswer": 2,
@@ -139,9 +139,9 @@
       "type": "multiple",
       "options": [
         "Ambas eran enseñanzas verdaderas mal interpretadas por el pueblo",
-        "No tienen relación entre sí",
+        "La doctrina de Nehor y su sacerdocio pagado eran cosas separadas",
         "Solo la doctrina sobre la salvación era realmente dañina",
-        "Ambas buscaban el beneficio personal de Nehor en lugar de la verdad y el bienestar del pueblo"
+        "Ambas buscaban el beneficio personal de Nehor, no la verdad"
       ],
       "correctAnswer": 3,
       "reference": "Alma 1",

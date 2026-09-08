@@ -74,10 +74,10 @@
       "question": "¿Cuántos versículos de dominio de la doctrina llevamos hasta ahora?",
       "type": "multiple",
       "options": [
-        "Solo 2 o 3 versículos hasta el momento",
+        "Solo dos o tres hasta ahora",
         "Ninguno todavía, comenzaremos pronto",
         "Aproximadamente 10-12 versículos clave",
-        "Varios cientos de versículos distintos"
+        "Varios cientos de versículos distintos del libro"
       ],
       "correctAnswer": 2,
       "explanation": "Llevamos aproximadamente 10 a 12 versículos clave de dominio de la doctrina."
@@ -90,7 +90,7 @@
         "En realidad no nos preparan de ninguna manera",
         "Solamente sirven para el propósito de memorizarlos",
         "No tienen ese propósito según el programa de Seminario",
-        "Nos dan un fundamento doctrinal para enseñar y testificar"
+        "Nos dan base doctrinal para enseñar y testificar"
       ],
       "correctAnswer": 3,
       "explanation": "Nos dan un fundamento doctrinal sólido para enseñar y testificar como misioneros."
@@ -100,10 +100,10 @@
       "question": "Guadalupe quiere ser mejor misionera pero siente que no sabe suficiente doctrina todavía. ¿Qué le mostrarías sobre el propósito de los pasajes de dominio?",
       "type": "multiple",
       "options": [
-        "Que le dan un fundamento doctrinal sólido para enseñar y testificar con confianza",
+        "Que le dan un fundamento doctrinal para enseñar con confianza",
         "Que debe esperar a saber toda la doctrina antes de compartir algo",
         "Que los pasajes de dominio no tienen relación con la labor misional",
-        "Que solo los misioneros de tiempo completo los necesitan"
+        "Que únicamente los misioneros de tiempo completo los necesitan"
       ],
       "correctAnswer": 0,
       "explanation": "Los pasajes de dominio dan un fundamento doctrinal sólido para enseñar y testificar con confianza."
@@ -114,7 +114,7 @@
       "type": "multiple",
       "options": [
         "Guardarlos solo para sí mismo",
-        "Compartir el pasaje junto con su propio testimonio de su verdad",
+        "Compartir el pasaje junto con su testimonio",
         "Esperar a ser líder de la Iglesia para compartirlos",
         "Recitarlos solo cuando se lo pidan en un examen"
       ],
@@ -127,9 +127,9 @@
       "question": "¿Qué relación hay entre memorizar los versículos de dominio y aplicarlos realmente en la vida?",
       "type": "multiple",
       "options": [
-        "No tienen ninguna relación entre sí",
+        "Memorizar y aplicar son dos etapas que no se tocan",
         "Memorizarlos ya es suficiente sin necesidad de aplicarlos",
-        "Memorizarlos es solo el primer paso; entenderlos y vivirlos es lo que realmente transforma a la persona",
+        "Memorizar es el primer paso; vivirlo es lo que transforma",
         "Aplicarlos es innecesario si ya se memorizaron correctamente"
       ],
       "correctAnswer": 2,

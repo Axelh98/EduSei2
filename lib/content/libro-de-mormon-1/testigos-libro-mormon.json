@@ -61,8 +61,8 @@
       "question": "El manual menciona que David Whitmer, Martin Harris y Oliver Cowdery contribuyeron de formas concretas a la salida a luz del Libro de Mormón. ¿Cuál de los siguientes describe la contribución de Martin Harris?",
       "options": [
         "Permitió que José y Emma vivieran en su casa durante la traducción",
-        "Sirvió como escribiente principal durante la mayor parte de la traducción",
-        "Hipotecó su granja para pagar los costos de impresión del libro",
+        "Sirvió como escribiente principal casi toda la traducción",
+        "Hipotecó su propia granja para pagar los costos de impresión del libro",
         "Proveyó los materiales de escritura usados durante la traducción"
       ],
       "correctAnswer": 2
@@ -71,10 +71,10 @@
       "id": 2,
       "question": "Según el manual, ¿cuántos de los once testigos (Tres y Ocho) negaron eventualmente su testimonio de las planchas, incluso aquellos que se alejaron de la Iglesia?",
       "options": [
-        "Todos los que se alejaron de la Iglesia negaron su testimonio",
+        "Los que se alejaron de la Iglesia negaron su testimonio",
         "Aproximadamente la mitad lo negó bajo presión",
         "Solo uno de los once negó su testimonio antes de morir",
-        "Ninguno de los once testigos negó jamás su testimonio de las planchas"
+        "Ninguno de los once negó jamás su testimonio de las planchas"
       ],
       "correctAnswer": 3
     },
@@ -82,7 +82,7 @@
       "id": 3,
       "question": "Los Tres Testigos vieron un ángel y oyeron la voz de Dios. Los Ocho Testigos tocaron físicamente las planchas. ¿Por qué es significativo que Dios proveyera dos tipos distintos de experiencia testimonial?",
       "options": [
-        "Porque cubrir tanto la experiencia espiritual-angelical como la física hace más difícil rechazar ambos testimonios simultáneamente con el mismo argumento",
+        "Porque cubrir la experiencia espiritual y la física hace más difícil rechazarlas",
         "Porque los Ocho Testigos no eran suficientemente dignos para ver al ángel como los Tres",
         "Porque el ángel se negó a mostrarse a más de tres personas al mismo tiempo",
         "Porque Dios quería dar más información a unos que a otros según su nivel espiritual"
@@ -94,7 +94,7 @@
       "question": "El presidente Faust dijo que llegar al conocimiento del Salvador mediante la fe y el Espíritu 'es aún más importante que ver ángeles'. ¿Qué implicación tiene eso para nosotros hoy, que no tenemos acceso físico a las planchas?",
       "options": [
         "Que estamos en desventaja espiritual respecto a los once testigos",
-        "Que nuestro testimonio obtenido mediante fe y el Espíritu Santo puede ser igual o más profundo que el de quienes tuvieron manifestaciones físicas",
+        "Que un testimonio por fe y por el Espíritu puede ser igual de profundo",
         "Que deberíamos pedir señales físicas similares a las que recibieron los testigos",
         "Que la experiencia de los testigos es irrelevante para nuestra fe personal"
       ],
@@ -106,7 +106,7 @@
       "options": [
         "Que el argumento de Luca es perfectamente válido y Dios debería proveer señales físicas a quienes las piden sinceramente",
         "Ninguno, ver las planchas garantizaría una fe permanente e inamovible",
-        "Que algunos testigos las vieron o tocaron y aun así se alejaron temporalmente, mostrando que la experiencia física no reemplaza al testimonio espiritual sostenido por el Espíritu",
+        "Que algunos testigos las vieron o tocaron y aun así se alejaron un tiempo",
         "Que las planchas ya no existen, así que ese escenario es imposible de considerar"
       ],
       "correctAnswer": 2
@@ -118,7 +118,7 @@
         "Esperar a que alguien le comparta su propio testimonio para ver si se siente bien con él",
         "Completar la lectura completa del libro antes de pedir confirmación al Señor",
         "Investigar en internet la evidencia arqueológica que apoya el libro",
-        "Leer el Libro de Mormón con sinceridad, registrar lo que siente, y preguntar a Dios con fe si es verdadero"
+        "Leer el libro con sinceridad, anotar lo que siente y preguntarle a Dios"
       ],
       "correctAnswer": 3
     },
@@ -126,9 +126,9 @@
       "id": 7,
       "question": "2 Nefi 27:12–14 profetizó siglos antes que habría testigos de las planchas. El hecho de que esa profecía se cumplió exactamente, ¿qué añade a la evidencia de la autenticidad del Libro de Mormón?",
       "options": [
-        "Que el mismo libro que profetizó los testigos fue traducido con ellos presentes, creando un bucle de autenticación mutuamente reforzado",
+        "Que el libro que profetizó los testigos se tradujo con ellos presentes",
         "Que las profecías de Nefi fueron escritas después de los hechos para que parecieran predicciones",
-        "Que la profecía solo aplica a los Tres Testigos, no a los Ocho",
+        "Que la profecía exclusivamente aplica a los Tres Testigos, no a los Ocho",
         "Nada, porque cualquier profecía general sobre testigos podría cumplirse por coincidencia"
       ],
       "correctAnswer": 0

@@ -61,8 +61,8 @@
       "options": [
         "No presentó ninguna evidencia concreta a Korihor",
         "Únicamente compartió su propia opinión personal",
-        "El testimonio de los profetas, las escrituras, todas las cosas y el testimonio de los demás",
-        "Se basó solamente en argumentos filosóficos complejos"
+        "Los profetas, las Escrituras y el testimonio ajeno",
+        "Se basó solo en argumentos filosóficos complejos"
       ],
       "correctAnswer": 2,
       "reference": "Alma 30:44",
@@ -76,7 +76,7 @@
         "No le dio absolutamente ninguna señal",
         "Le otorgó poder adicional para predicar",
         "Le concedió grandes riquezas como recompensa",
-        "Fue herido con mudez para que no pudiera hablar"
+        "Fue herido con mudez y no pudo hablar más"
       ],
       "correctAnswer": 3,
       "reference": "Alma 30:49-50",
@@ -87,7 +87,7 @@
       "question": "¿Qué confesó Korihor después de ser herido?",
       "type": "multiple",
       "options": [
-        "Que siempre supo que había un Dios pero fue engañado por el diablo",
+        "Que siempre supo que había un Dios y fue engañado",
         "Que la situación en realidad no le importaba",
         "Que en realidad no confesó absolutamente nada",
         "Que consideraba que tenía razón desde el principio"
@@ -101,7 +101,7 @@
       "question": "¿Qué dijo Alma sobre pedir señales?",
       "type": "multiple",
       "options": [
-        "Que Dios nunca concede señales a nadie",
+        "Que Dios en ningún caso concede señales a nadie",
         "Que pedir señales es señal de perversidad",
         "Que siempre es bueno pedir muchas señales a Dios",
         "Que constantemente debemos exigir señales de Dios"
@@ -117,7 +117,7 @@
       "options": [
         "Que Dios está obligado a dar una señal a quien la pida",
         "Que Korihor tenía razón al exigir una señal",
-        "Que pedir señales de forma desafiante puede ser señal de perversidad, en lugar de un verdadero deseo de creer",
+        "Que pedir señales de forma desafiante no es deseo de creer",
         "Que pedir señales siempre es la mejor forma de fortalecer la fe"
       ],
       "correctAnswer": 2,
@@ -130,9 +130,9 @@
       "type": "multiple",
       "options": [
         "Ningún tipo de evidencia concreta",
-        "Únicamente argumentos filosóficos complejos",
+        "Solo argumentos filosóficos complejos",
         "Solamente su propia opinión personal",
-        "El testimonio de los profetas, las escrituras, la creación misma y el testimonio de otras personas"
+        "Los profetas, las Escrituras y la creación"
       ],
       "correctAnswer": 3,
       "reference": "Alma 30:44",
@@ -143,9 +143,9 @@
       "question": "¿Qué conecta la confesión final de Korihor con la advertencia de Alma sobre pedir señales de manera desafiante?",
       "type": "multiple",
       "options": [
-        "Ambas muestran que Korihor conocía la verdad desde el principio, pero eligió rechazarla hasta sufrir las consecuencias",
+        "Ambas muestran que Korihor conocía la verdad y la rechazó",
         "La advertencia de Alma no tuvo relación con lo que Korihor confesó después",
-        "No tienen relación real entre sí",
+        "Korihor confesó por miedo al castigo, no por convicción",
         "Korihor nunca reconoció haber conocido la verdad"
       ],
       "correctAnswer": 0,

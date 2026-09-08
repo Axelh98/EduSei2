@@ -47,7 +47,7 @@
       "question": "Completa el versículo: '___; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.'",
       "options": [
         "Guardaréis las palabras de Cristo en vuestro corazón",
-        "Leed las palabras de Cristo con diligencia",
+        "Leed las palabras de Cristo",
         "Deleitaos en las palabras de Cristo",
         "Escuchad las palabras de Cristo con atención"
       ],
@@ -68,7 +68,7 @@
       "id": 3,
       "question": "El versículo promete que las palabras de Cristo nos dirán 'todas las cosas que debemos hacer'. ¿Esto significa que encontraremos respuestas explícitas a cada situación específica de nuestra vida en las Escrituras?",
       "options": [
-        "No exactamente; las Escrituras enseñan principios que, junto con el Espíritu Santo, nos guían en situaciones específicas que el texto nunca menciona",
+        "No exactamente; enseñan principios que el Espíritu aplica a cada situación",
         "Solo si leemos el texto en el idioma original en que fue escrito",
         "Solo para decisiones espirituales, no para decisiones prácticas cotidianas",
         "Sí, la Biblia y el Libro de Mormón contienen instrucciones explícitas para cada decisión posible"
@@ -80,9 +80,9 @@
       "question": "El manual sugiere explicar este versículo a alguien que no es miembro de la Iglesia. ¿Cuál sería el elemento más sorprendente de la promesa para esa persona?",
       "options": [
         "Que existe un libro llamado Libro de Mormón además de la Biblia",
-        "Que Dios se comunica directamente con las personas ordinarias a través de Sus palabras, no solo a través de intermediarios religiosos",
+        "Que Dios se comunica directo con la gente común, sin intermediarios",
         "Que la Iglesia tiene reuniones donde se estudian las Escrituras",
-        "Que hay versículos que deben memorizarse en el programa de Seminario"
+        "Que hay versículos que deben memorizarse en todo el programa de Seminario"
       ],
       "correctAnswer": 1
     },
@@ -91,8 +91,8 @@
       "question": "Camila está en una situación en la que no sabe si decir la verdad o no decir nada para no herir a una amiga. No encuentra un versículo exacto sobre esa situación. Según el principio de 2 Nefi 32:3, ¿qué proceso podría usar?",
       "options": [
         "Preguntarle al obispo antes de tomar cualquier decisión personal",
-        "Buscar en internet qué dice la Iglesia sobre casos similares",
-        "Leer pasajes sobre honestidad, veracidad y amor en las Escrituras, meditar en los principios que emergen, y pedir guía del Espíritu para su situación específica",
+        "Buscar en internet qué dice la Iglesia sobre casos así",
+        "Leer sobre honestidad y amor, meditarlos y pedir guía del Espíritu",
         "Ignorar las Escrituras porque no hablan directamente de su caso"
       ],
       "correctAnswer": 2
@@ -104,7 +104,7 @@
         "Buscar en las Escrituras un versículo que diga explícitamente qué hacer en esa situación",
         "Delegar la decisión a sus padres porque no es su responsabilidad aún",
         "Leer el versículo una vez para sentir que cumplió con su estudio y luego decidir por intuición",
-        "Estudiar las Escrituras deliberadamente esta semana para cultivar el contacto con las palabras de Cristo, que formarán su criterio cuando lleguen decisiones como esa"
+        "Estudiar las Escrituras esta semana para que formen el criterio con que decide"
       ],
       "correctAnswer": 3
     },
@@ -112,7 +112,7 @@
       "id": 7,
       "question": "2 Nefi 32:3 dice que las palabras de Cristo nos dirán 'todas las cosas'. 2 Nefi 32:5 dice que el Espíritu nos enseñará 'todo'. ¿Son dos promesas redundantes o tienen roles distintos?",
       "options": [
-        "Las palabras de Cristo forman el fundamento de principios y el Espíritu los aplica personalmente a cada situación; ambas fuentes son necesarias y se complementan",
+        "Las palabras de Cristo dan los principios y el Espíritu los aplica a cada caso",
         "Las palabras de Cristo son superiores al Espíritu y bastan solas para guiarnos",
         "El Espíritu es superior a las palabras escritas y hace innecesario el estudio constante de las Escrituras",
         "Son completamente redundantes; cualquiera de las dos sola es suficiente"

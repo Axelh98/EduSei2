@@ -68,7 +68,7 @@
         "Como un proceso de escritura automática guiada por el Espíritu sin instrumentos",
         "Como una traducción colectiva hecha por José Smith y Oliver Cowdery trabajando juntos",
         "Como un proceso de decodificación mediante conocimiento del idioma egipcio reformado",
-        "Como una revelación asistida por instrumentos físicos proporcionados por el Señor, no una traducción por experto en idiomas"
+        "Como una revelación asistida por instrumentos físicos proporcionados por el Señor"
       ],
       "correctAnswer": 3
     },
@@ -76,8 +76,8 @@
       "id": 2,
       "question": "Emma Smith, esposa de José, describió el proceso de dictado. ¿Qué característica específica del proceso mencionó que evidencia su naturaleza divina?",
       "options": [
-        "Que José dictaba sin ver el manuscrito y al retomar el trabajo continuaba exactamente donde lo había dejado, sin releer",
-        "Que Emma verificaba cada palabra con el texto original en el idioma antiguo",
+        "Que José dictaba sin ver el manuscrito y retomaba justo donde había dejado",
+        "Que Emma verificaba cada palabra con el texto en el idioma antiguo",
         "Que José siempre tenía las planchas abiertas frente a él mientras dictaba",
         "Que José escribía primero y luego dictaba lo escrito"
       ],
@@ -88,7 +88,7 @@
       "question": "D. y C. 135:3 dice que José produjo el Libro de Mormón 'por el don y el poder de Dios'. ¿Por qué es significativa esa descripción a la luz de lo que sabemos sobre las capacidades educativas de José Smith en ese momento?",
       "options": [
         "Porque José era un erudito experto en literatura y teología, por lo que necesitaba ayuda divina para un libro tan sencillo",
-        "Porque José tenía educación limitada, lo que hace aún más notable producir un texto tan extenso y teológicamente coherente",
+        "Porque José tenía educación limitada, lo que hace más notable un texto tan extenso y coherente",
         "Porque José había estudiado idiomas antiguos en la universidad antes de recibir las planchas",
         "Porque la complejidad del libro es indiferente al nivel educativo del traductor"
       ],
@@ -99,8 +99,8 @@
       "question": "El élder Soares describió la salida a luz del libro como un proceso de revelación asistido por instrumentos que el Señor proporcionó, no como una traducción académica. ¿Qué implica esa distinción?",
       "options": [
         "Que José necesitaba dominar el idioma original para poder completar el trabajo con exactitud.",
-        "Que el texto depende de la erudición de José y por eso conviene leerlo con cierta reserva.",
-        "Que el resultado no se explica por la preparación de José, sino por el don y el poder de Dios.",
+        "Que el texto depende de la erudición de José y por lo tanto conviene leerlo con cierta reserva.",
+        "Que el resultado no se explica por la preparación de José, sino por el don y poder de Dios.",
         "Que los instrumentos hacían el trabajo solos y José no ponía nada de su parte en el proceso."
       ],
       "correctAnswer": 2
@@ -112,7 +112,7 @@
         "Que el libro es demasiado largo para haberlo inventado, lo cual es evidencia suficiente",
         "Que otros profetas también escribieron libros extensos, así que no es sorprendente",
         "Que José era demasiado joven para inventar algo así, lo cual prueba que fue divino",
-        "Que José dictaba sin ver el manuscrito y retomaba exactamente donde había dejado, sin notas, lo que no es consistente con una invención o plagio"
+        "Que José dictaba sin ver el manuscrito y retomaba justo donde había dejado, sin notas"
       ],
       "correctAnswer": 3
     },
@@ -120,9 +120,9 @@
       "id": 6,
       "question": "Mateo enfrenta algo muy difícil que Dios le ha pedido hacer, pero siente que el obstáculo es demasiado grande. Según el principio que ilustra la historia de las imprentas rechazadas, ¿qué podría recordar?",
       "options": [
-        "Que el Señor no prometió que el camino sería fácil, pero sí que lo haría posible para quienes confían en Él y perseveran",
+        "Que el Señor no prometió un camino fácil, pero sí que lo haría posible",
         "Que los obstáculos son señal de que debería buscar un camino diferente",
-        "Que la dificultad del camino indica que Dios cambió Su plan para él",
+        "Que la dificultad del camino indica que Dios cambió Su plan y conviene esperar",
         "Que si Dios realmente lo quisiera, no habría obstáculos en el camino"
       ],
       "correctAnswer": 0
@@ -132,9 +132,9 @@
       "question": "Tanto el proceso milagroso de traducción descrito por Emma como las profecías de 2 Nefi 27 sobre los testigos del libro apuntan a lo mismo. ¿Cuál es el principio unificador?",
       "options": [
         "Que el Libro de Mormón fue diseñado para ser difícil de creer y así probar la fe de las personas",
-        "Que Dios preparó múltiples evidencias de la autenticidad divina del libro, desde el proceso de producción hasta los testigos, para que nadie tuviera que creer solo en una palabra",
+        "Que Dios preparó varias evidencias de la autenticidad divina del libro, desde el proceso hasta los testigos",
         "Que los milagros relacionados con el libro son principalmente para fortalecer la fe de los que ya creen",
-        "Que el proceso de traducción y los testimonios de los testigos son independientes y no se refuerzan entre sí"
+        "Que el proceso de traducción y los testimonios de los testigos son independientes entre sí"
       ],
       "correctAnswer": 1
     }

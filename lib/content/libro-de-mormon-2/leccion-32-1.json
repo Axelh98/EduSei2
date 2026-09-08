@@ -16,9 +16,9 @@
       "tipo": "escrituras",
       "citas": [
         {
-          "referencia": "3 Nefi 17:7–17",
-          "texto": "¿Hay entre vosotros alguno que esté enfermo? Traedlos aquí. Y los sanó a todos.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=spa&id=p7-p17#p7"
+          "referencia": "3 Nefi 17:7–9",
+          "texto": "¿Tenéis enfermos entre vosotros? Traedlos aquí. ¿Tenéis cojos, o ciegos, o lisiados, o mutilados, o leprosos, o atrofiados, o sordos, o quienes estén afligidos de manera alguna? Traedlos aquí y yo los sanaré, porque tengo compasión de vosotros; mis entrañas rebosan de misericordia. Pues percibo que deseáis que os muestre lo que he hecho por vuestros hermanos en Jerusalén, porque veo que vuestra fe es suficiente para que yo os sane. Y sucedió que cuando hubo hablado así, toda la multitud, de común acuerdo, se acercó, con sus enfermos, y sus afligidos, y sus cojos, y sus ciegos, y sus mudos, y todos los que padecían cualquier aflicción; y los sanaba a todos, según se los llevaban.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=spa&id=p7-p9#p7"
         },
         {
           "referencia": "3 Nefi 17:21",
@@ -51,7 +51,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "Según 3 Nefi 17:7-17, ¿qué hizo Cristo al notar que había personas enfermas entre los nefitas?",
+      "question": "Según 3 Nefi 17:7-9, ¿qué hizo Cristo al notar que había personas enfermas entre los nefitas?",
       "options": [
         "Les pidió que oraran solos por su propia sanidad",
         "Los sanó a todos, atendiéndolos personalmente",
@@ -100,7 +100,7 @@
         "Que atender a las personas de forma genérica siempre es más efectivo que hacerlo de forma individual",
         "Que el ejemplo de Cristo muestra que la atención personalizada, uno por uno, puede tener un valor especial que un trato solo grupal no logra",
         "Que Cristo nunca se preocupó por las necesidades individuales de las personas",
-        "Que ese pasaje no tiene ninguna aplicación a situaciones de grupo"
+        "Que Cristo atendió uno por uno solo porque el grupo era pequeño"
       ],
       "correctAnswer": 1
     },
@@ -110,7 +110,7 @@
       "options": [
         "Que Dios presta más atención a quienes tienen un rol destacado dentro del grupo",
         "Que tiene razón: Dios solo se ocupa de las necesidades grupales, no de las individuales",
-        "Que bendecir 'uno por uno' muestra que Su amor alcanza a cada uno",
+        "Que bendecir 'uno por uno' muestra que Su amor alcanza a cada persona por separado",
         "Que solo las personas con roles de liderazgo reciben atención individual de Dios"
       ],
       "correctAnswer": 2

@@ -62,7 +62,7 @@
       "type": "multiple",
       "options": [
         "Seguir reglas específicas sin necesidad de involucrarnos con otros",
-        "Llevar las cargas, llorar con los que lloran y consolar a los que necesitan consuelo",
+        "Llevar las cargas, llorar con los que lloran y consolar a otros",
         "Asistir a la iglesia todos los domingos sin excepción",
         "Contribuir económicamente según nuestras posibilidades"
       ],
@@ -77,8 +77,8 @@
       "options": [
         "Esperar que otros nos pidan ayuda antes de ofrecerla",
         "Sentir compasión sin que eso implique ningún cambio",
-        "Tener el corazón preparado para servir activamente",
-        "Pensar en ayudar sin necesidad de actuar de inmediato"
+        "Tener el corazón preparado para servir a otros activamente",
+        "Pensar en ayudar, sin necesidad de actuar de inmediato ni después"
       ],
       "correctAnswer": 2,
       "reference": "Mosíah 18:8-9",
@@ -91,8 +91,8 @@
       "options": [
         "Protección total contra cualquier tipo de prueba",
         "Riquezas materiales abundantes durante esta vida",
-        "Una posición de liderazgo dentro de la congregación",
-        "Ser redimidos por Dios y contados con los de la primera resurrección"
+        "Una posición de liderazgo permanente dentro de la congregación",
+        "Ser redimidos y contados con los de la primera resurrección"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 18:9",
@@ -103,8 +103,8 @@
       "question": "¿Dónde bautizó Alma a los que creyeron?",
       "type": "multiple",
       "options": [
-        "En las aguas de Mormón, cerca del bosque donde se escondían",
-        "En el río Sidón, cerca de la ciudad de Zarahemla",
+        "En las aguas de Mormón, junto al bosque escondido",
+        "En el río Sidón, cerca de la gran ciudad de Zarahemla",
         "En una pila especialmente construida para la ocasión",
         "En el templo, siguiendo el ritual tradicional del rey"
       ],
@@ -118,9 +118,9 @@
       "type": "multiple",
       "options": [
         "Que el convenio ya no tiene ninguna exigencia después del bautismo",
-        "Que se comprometió a llevar las cargas de otros, consolar a los que sufren y servir a Dios",
+        "Que se comprometió a llevar cargas de otros, consolar y servir",
         "Que el convenio solo implica asistir a las reuniones dominicales",
-        "Que solo los líderes de la iglesia deben cumplir ese convenio"
+        "Que solamente los líderes de la iglesia deben cumplir ese convenio"
       ],
       "correctAnswer": 1,
       "reference": "Mosíah 18:8-10",
@@ -133,7 +133,7 @@
       "options": [
         "Aconsejarlo solo si es de su misma congregación",
         "Esperar a que su compañero le pida ayuda directamente",
-        "Estar dispuesto a llorar con los que lloran y consolar a quienes necesitan consuelo",
+        "Estar dispuesto a llorar con él y a consolarlo",
         "Ignorar la situación porque no es asunto suyo"
       ],
       "correctAnswer": 2,
@@ -146,9 +146,9 @@
       "type": "multiple",
       "options": [
         "Solo el bautismo tiene importancia duradera en este relato",
-        "No tienen relación real entre sí",
-        "La organización de la iglesia reemplazó la necesidad del bautismo",
-        "El bautismo estableció el convenio personal, y la iglesia le dio una comunidad para vivirlo juntos"
+        "La organización de la iglesia fue una decisión política de Alma",
+        "La organización de la iglesia reemplazó al bautismo",
+        "El bautismo estableció el convenio y la iglesia dio la comunidad"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 18:8-17",

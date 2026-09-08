@@ -66,9 +66,9 @@
       "question": "¿Qué tomó Cristo sobre sí según Alma 7:11?",
       "type": "multiple",
       "options": [
-        "Nuestros dolores, aflicciones, enfermedades, tentaciones y pecados",
+        "Nuestros dolores, aflicciones, enfermedades y pecados",
         "Solamente nuestras enfermedades físicas y nada más",
-        "Únicamente nuestros pecados, sin ningún otro tipo de carga",
+        "Solo nuestros pecados, sin ningún otro tipo de carga",
         "Nada relacionado con nuestras luchas personales"
       ],
       "correctAnswer": 0,
@@ -80,8 +80,8 @@
       "question": "¿Por qué experimentó Cristo todas estas cosas?",
       "type": "multiple",
       "options": [
-        "Sin ningún propósito específico mencionado en el texto",
-        "Para saber cómo socorrernos según nuestras enfermedades",
+        "Sin ningún propósito mencionado en el texto",
+        "Para saber cómo socorrernos según nuestras dolencias",
         "Para demostrar que Él era superior a la humanidad",
         "Porque estaba obligado a hacerlo sin poder elegir"
       ],
@@ -96,7 +96,7 @@
       "options": [
         "A permanecer exactamente igual sin necesidad de cambiar",
         "A juzgar con severidad las decisiones de otras personas",
-        "A despojarnos de la envidia, el orgullo y la mentira",
+        "A despojarnos de la envidia, del orgullo y de la mentira",
         "A alcanzar la perfección únicamente por nuestro propio esfuerzo"
       ],
       "correctAnswer": 2,
@@ -122,9 +122,9 @@
       "question": "Renata siente que nadie entiende lo que está pasando en su vida, ni siquiera Dios. ¿Qué le enseña Alma 7:11-12?",
       "type": "multiple",
       "options": [
-        "Que Cristo tomó sobre sí nuestros dolores y aflicciones para poder comprendernos y socorrernos",
-        "Que debe resolver sus problemas sin buscar ayuda espiritual",
-        "Que solo las personas mayores pueden entender su situación",
+        "Que Cristo tomó nuestros dolores para comprendernos y socorrer",
+        "Que tiene que resolver sus problemas sin buscar ayuda espiritual",
+        "Que solamente las personas mayores pueden entender su situación",
         "Que Dios no puede comprender completamente los problemas humanos"
       ],
       "correctAnswer": 0,
@@ -137,7 +137,7 @@
       "type": "multiple",
       "options": [
         "Que Dios solo ayuda a quienes ya resolvieron parte del problema solos",
-        "Acudir a Cristo con confianza, ya que Él comprende nuestras debilidades y puede ayudarnos",
+        "Acudir a Cristo, que comprende nuestras debilidades",
         "Que es mejor no mencionar los problemas personales a nadie",
         "Que pedir ayuda a Dios es señal de debilidad"
       ],
@@ -151,9 +151,9 @@
       "type": "multiple",
       "options": [
         "Tomar nuestras aflicciones no tuvo relación con Su nacimiento real",
-        "No tienen relación entre sí",
-        "Ambas muestran que la misión de Cristo fue real y concreta, cumplida en un lugar y tiempo específicos por amor a nosotros",
-        "Solo la profecía sobre Jerusalén tiene importancia histórica"
+        "El nacimiento en Jerusalén no se relaciona con Sus aflicciones",
+        "Ambas muestran que Su misión fue real, en un lugar y un tiempo",
+        "Solamente la profecía sobre Jerusalén tiene importancia histórica"
       ],
       "correctAnswer": 2,
       "reference": "Alma 7:10-12",

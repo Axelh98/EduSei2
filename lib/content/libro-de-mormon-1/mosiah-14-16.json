@@ -60,7 +60,7 @@
       "type": "multiple",
       "options": [
         "De Abraham y el sacrificio que se le pidió realizar",
-        "Del sufrimiento y la misión redentora de Jesucristo",
+        "Del sufrimiento y la misión de Jesucristo",
         "De un rey terrenal que gobernaría con gran poder",
         "De Moisés y su liderazgo sobre el pueblo de Israel"
       ],
@@ -116,7 +116,7 @@
       "type": "multiple",
       "options": [
         "Que Cristo tuvo que sufrir obligado por circunstancias externas",
-        "Que Cristo eligió sufrir voluntariamente por amor, para poder redimirnos",
+        "Que Cristo eligió sufrir por amor, para redimirnos",
         "Que Su sufrimiento fue un accidente inevitable",
         "Que no existe ninguna razón clara para Su sufrimiento"
       ],
@@ -131,7 +131,7 @@
       "options": [
         "La instrucción de resolver su dolor completamente sola",
         "La promesa de que su dolor desaparecerá de inmediato",
-        "La certeza de que Cristo puede sanar y comprender su dolor personalmente",
+        "La certeza de que Cristo comprende y puede sanar su dolor",
         "La idea de que su dolor no es tan importante comparado con el de Cristo"
       ],
       "correctAnswer": 2,
@@ -143,10 +143,10 @@
       "question": "¿Cómo conecta la profecía de Isaías 53 (Mosíah 14) con la enseñanza de que 'Dios mismo descenderá' (Mosíah 15)?",
       "type": "multiple",
       "options": [
-        "Solo una de las dos profecías se cumplió realmente",
+        "Solo una se cumplió",
         "Muestran que Cristo no tendría un cuerpo físico real",
-        "No tienen ninguna relación entre sí",
-        "Ambas revelan que el Redentor sería divino y a la vez sufriría como parte de Su misión"
+        "La profecía de Isaías anula lo que anuncia Mosíah 15",
+        "Ambas revelan a un Redentor divino que sufriría"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 14-15",

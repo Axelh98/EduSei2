@@ -70,8 +70,8 @@
       "options": [
         "Recitándolos de memoria sin buscar aplicarlos",
         "Guardándolos en privado sin compartirlos nunca",
-        "Estudiándolos solo durante la clase de Seminario",
-        "Aplicándolos en decisiones diarias y compartiendo con otros"
+        "Estudiándolos solo durante la clase de Seminario y nada más",
+        "Aplicándolos en decisiones diarias y compartiéndolos"
       ],
       "correctAnswer": 3,
       "explanation": "Podemos aplicarlos en nuestras decisiones diarias y compartirlos con otros."
@@ -81,10 +81,10 @@
       "question": "¿Cómo se relacionan los versículos de Mosíah entre sí?",
       "type": "multiple",
       "options": [
-        "Todos enseñan sobre cambiar nuestra naturaleza y acercarnos a Cristo",
-        "Se relacionan solo por pertenecer al mismo libro",
+        "Todos enseñan a cambiar por dentro y venir a Cristo",
+        "Se relacionan solamente por pertenecer al mismo libro",
         "Cada uno trata un tema completamente distinto sin conexión",
-        "No tienen ninguna relación temática entre ellos"
+        "Se relacionan únicamente por hablar del rey Benjamín"
       ],
       "correctAnswer": 0,
       "explanation": "Todos los versículos de Mosíah enseñan sobre cambiar nuestra naturaleza y acercarnos a Cristo."
@@ -94,9 +94,9 @@
       "question": "¿Qué principio enseña 2 Nefi 2:25, otro pasaje de dominio que hemos repasado?",
       "type": "multiple",
       "options": [
-        "Que los hombres existen solo para ser probados y castigados",
-        "Que Adán cayó para que los hombres existiesen, y existen para tener gozo",
-        "Que el gozo depende únicamente de las circunstancias externas",
+        "Que los hombres existen para ser probados y castigados",
+        "Que Adán cayó para que los hombres existiesen y tengan gozo",
+        "Que el gozo depende solo de las circunstancias externas",
         "Que la caída de Adán fue un error que Dios no anticipó"
       ],
       "correctAnswer": 1,
@@ -108,9 +108,9 @@
       "question": "Gael no logra recordar las referencias exactas de los versículos de dominio en un examen. ¿Qué le recomendarías para retenerlos mejor?",
       "type": "multiple",
       "options": [
-        "Aprender solo los versículos más cortos y fáciles",
-        "Memorizarlos solo la noche anterior al examen",
-        "Repasarlos regularmente y relacionarlos con situaciones reales de su vida",
+        "Aprender solamente los versículos más cortos y fáciles",
+        "Memorizarlos únicamente la noche anterior al examen",
+        "Repasarlos seguido y ligarlos a situaciones reales",
         "Copiarlos varias veces sin pensar en su significado"
       ],
       "correctAnswer": 2,
@@ -124,7 +124,7 @@
         "Que la relación entre ellos es puramente cronológica",
         "Que efectivamente no tienen ninguna relación real",
         "Que solo los versículos de Mosíah tienen valor doctrinal",
-        "Que todos apuntan al mismo tema central: acercarnos a Cristo y transformar nuestro corazón"
+        "Que todos apuntan al mismo tema: acercarnos a Cristo"
       ],
       "correctAnswer": 3,
       "explanation": "Todos los versículos de dominio apuntan al mismo tema central: acercarnos a Cristo y transformar nuestro corazón."
@@ -134,10 +134,10 @@
       "question": "¿Qué principio común comparten el versículo sobre el servicio (Mosíah 2:17) y el de la caída de Adán (2 Nefi 2:25)?",
       "type": "multiple",
       "options": [
-        "Ambos muestran que el propósito de nuestra existencia se cumple sirviendo y buscando el gozo en Dios",
+        "Ambos muestran que existimos para servir y gozar en Dios",
         "Solo uno de los dos tiene aplicación práctica real",
         "Tratan temas completamente opuestos entre sí",
-        "No comparten ningún principio en común"
+        "El servicio y el gozo son temas sin punto de contacto"
       ],
       "correctAnswer": 0,
       "reference": "Mosíah 2:17; 2 Nefi 2:25",

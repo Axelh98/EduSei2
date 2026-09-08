@@ -44,95 +44,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Por qué es importante repasar los pasajes de dominio regularmente?",
-      "type": "multiple",
+      "question": "Según Mosíah 26:22, ¿qué promete el Señor a quien es bautizado para arrepentimiento y cree en Su nombre?",
       "options": [
-        "Solamente para tener éxito en los exámenes de la clase",
-        "Para impresionar a otros con nuestra capacidad de memoria",
-        "No es realmente necesario repasarlos con frecuencia",
-        "Para mantenerlos accesibles cuando el Espíritu los necesite traer a nuestra memoria"
+        "Que no volverá a enfrentar ninguna tentación",
+        "Que su nombre quedará en el registro",
+        "Que lo perdonará liberalmente",
+        "Que recibirá un llamamiento"
       ],
-      "correctAnswer": 3,
-      "explanation": "Es importante para mantenerlos accesibles cuando el Espíritu los necesite traer a nuestra memoria."
+      "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿Cuál es la diferencia entre memorizar y dominar un pasaje?",
-      "type": "multiple",
+      "question": "Según Mosíah 5:2, ¿qué describió el pueblo del rey Benjamín después de creer sus palabras?",
       "options": [
-        "Dominar incluye entender, vivir y poder enseñar el principio",
-        "Dominar significa simplemente repetirlo más veces seguidas",
-        "No existe ninguna diferencia entre ambos conceptos",
-        "Memorizar ya es suficiente sin necesidad de comprensión"
+        "Que el Espíritu obró en ellos un potente cambio de corazón",
+        "Que decidieron esforzarse mucho más por cumplir toda la ley de Moisés",
+        "Que memorizaron el discurso completo para enseñarlo",
+        "Que pidieron que se escribiera un mandamiento nuevo"
       ],
-      "correctAnswer": 0,
-      "explanation": "Dominar un pasaje incluye entenderlo, vivirlo y poder enseñar el principio."
+      "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué versículo de dominio habla sobre la expiación de Cristo tomando nuestras aflicciones?",
-      "type": "multiple",
+      "question": "Mosíah 18:8–10 enumera lo que la persona bautizada está dispuesta a hacer: llevar las cargas de otros, llorar con los que lloran y consolar a quien lo necesita. ¿Qué tienen en común los tres compromisos?",
       "options": [
-        "1 Nefi 3:7",
-        "Alma 7:11-13",
-        "Mosíah 2:17",
-        "2 Nefi 2:27"
+        "Los tres son requisitos previos que hay que cumplir antes de bautizarse",
+        "Los tres se refieren al estudio personal de las Escrituras",
+        "Los tres se cumplen dentro del edificio de la Iglesia",
+        "Los tres tienen que ver con otras personas, no solo con uno mismo"
       ],
-      "correctAnswer": 1,
-      "reference": "Alma 7:11-13",
-      "explanation": "Alma 7:11-13 habla sobre la expiación de Cristo tomando nuestras aflicciones."
+      "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Cómo se relacionan los versículos de dominio de Alma con los de Mosíah?",
-      "type": "multiple",
+      "question": "El contexto dice que pertenecer a la Iglesia «no es solo un registro o un nombre en una lista». Según Mosíah 5:2 y Mosíah 26:22 juntos, ¿qué es entonces?",
       "options": [
-        "Son completamente distintos en todos sus temas",
-        "Solamente se contradicen entre ellos en su enseñanza",
-        "Ambos enseñan sobre el cambio de corazón y la expiación de Cristo",
-        "No tienen ninguna relación temática entre sí"
+        "Un conjunto de reglas que hay que memorizar y repetir cada domingo en clase",
+        "Un cambio real de deseos, sostenido por un convenio que se renueva",
+        "Un acuerdo formal que se firma una sola vez y no cambia",
+        "Una tradición familiar que se hereda de padres a hijos"
       ],
-      "correctAnswer": 2,
-      "explanation": "Ambos conjuntos de versículos enseñan sobre el cambio de corazón y la expiación de Cristo."
+      "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "Antonella quiere ayudar a un amigo que está pasando un momento difícil, usando lo que ha aprendido en dominio de la doctrina. ¿Qué le recomendarías?",
-      "type": "multiple",
+      "question": "Agustina se bautizó hace dos años y siente que su vida no cambió tanto como esperaba. Según lo que Mosíah 5:2 dice sobre de dónde vino ese cambio, ¿qué sería lo más coherente?",
       "options": [
-        "Esperar a que su amigo pregunte directamente por un versículo",
-        "Evitar mencionar las escrituras para no parecer predicadora",
-        "Recitar el versículo sin ningún comentario adicional",
-        "Compartir el pasaje junto con su propio testimonio de cómo esa verdad la ha ayudado"
+        "Que si todavía no lo sintió, su bautismo no fue válido",
+        "Que conviene esperar a ser mayor, porque el cambio llega solo con los años",
+        "Que ese cambio lo obra el Espíritu del Señor y se le pide a Él, no se fabrica sola",
+        "Que el cambio depende únicamente de cuánto se esfuerce ella por su cuenta"
       ],
-      "correctAnswer": 3,
-      "explanation": "Podemos compartir el pasaje junto con nuestro propio testimonio de cómo esa verdad nos ha ayudado."
+      "correctAnswer": 2
     },
     {
       "id": 6,
-      "question": "Lautaro piensa que memorizar los versículos de dominio no le sirve para su vida real. ¿Qué le explicarías sobre dominar un pasaje?",
-      "type": "multiple",
+      "question": "Facundo se entera de que un compañero de clase la está pasando mal en su casa, pero piensa que no es asunto suyo. Según el convenio que describe Mosíah 18:8–10, ¿qué le responderías?",
       "options": [
-        "Que dominar un pasaje incluye entenderlo, vivirlo y poder aplicarlo, no solo memorizarlo",
-        "Que memorizar ya es suficiente sin necesidad de comprensión",
-        "Que dominar un pasaje solo sirve para las evaluaciones de Seminario",
-        "Que no hay ninguna diferencia entre memorizar y dominar"
+        "Que su convenio bautismal ya incluye llorar con los que lloran y consolarlos",
+        "Que primero debería consultarlo con un líder antes de acercarse a preguntar algo",
+        "Que esas cargas son responsabilidad de la familia del compañero, no suya",
+        "Que conviene esperar a que el compañero se lo pida directamente"
       ],
-      "correctAnswer": 0,
-      "explanation": "Dominar un pasaje incluye entenderlo, vivirlo y poder aplicarlo, no solo memorizarlo."
+      "correctAnswer": 0
     },
     {
       "id": 7,
-      "question": "¿Qué relación hay entre los versículos de dominio de Mosíah y los de Alma que hemos estudiado?",
-      "type": "multiple",
+      "question": "Mosíah 5:2 describe un cambio que ocurre adentro, en el corazón; Mosíah 18:8–10 describe compromisos que se cumplen afuera, con otras personas. ¿Qué principio une las dos cosas?",
       "options": [
-        "No tienen ninguna relación temática entre sí",
-        "Ambos grupos de versículos enseñan sobre el cambio de corazón y la expiación de Cristo como temas centrales",
-        "Solo los versículos de Alma tienen valor doctrinal real",
-        "Tratan temas completamente opuestos entre sí"
+        "Que el cambio interior y el servicio exterior son dos caminos separados hacia Dios",
+        "Que el servicio a los demás reemplaza la necesidad de un cambio interior",
+        "Que el cambio de corazón basta y el servicio queda como algo opcional",
+        "Que el cambio de corazón se vuelve visible en cómo tratamos a los demás"
       ],
-      "correctAnswer": 1,
-      "explanation": "Ambos grupos de versículos enseñan sobre el cambio de corazón y la expiación de Cristo como temas centrales."
+      "correctAnswer": 3
     }
   ]
 }

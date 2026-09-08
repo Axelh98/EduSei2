@@ -47,7 +47,7 @@
       "question": "¿Por qué debemos repasar constantemente los pasajes de dominio?",
       "type": "multiple",
       "options": [
-        "Para mantenerlos frescos en nuestra memoria y listos para usar",
+        "Para tenerlos frescos en la memoria y listos para usar",
         "Solo para cumplir con un requisito del curso de Seminario",
         "No es realmente necesario repasarlos con frecuencia",
         "Para tener algo que recitar frente a la clase"
@@ -63,7 +63,7 @@
         "Saber un pasaje ya es suficiente sin necesidad de más",
         "Dominar significa conocerlo, entenderlo y poder aplicarlo en la vida",
         "No existe ninguna diferencia real entre ambos conceptos",
-        "Dominar un pasaje significa solamente memorizarlo palabra por palabra"
+        "Dominar un pasaje significa solo memorizarlo palabra por palabra"
       ],
       "correctAnswer": 1,
       "explanation": "Dominar un pasaje significa conocerlo, entenderlo y poder aplicarlo en la vida."
@@ -75,7 +75,7 @@
       "options": [
         "Solamente genealogías de los profetas del Libro de Mormón",
         "Principalmente leyes civiles del gobierno nefita",
-        "Obediencia, albedrío, caída de Adán, servicio, cambio de corazón, convenios",
+        "Obediencia, albedrío, servicio, cambio de corazón",
         "Únicamente relatos de batallas y conquistas militares"
       ],
       "correctAnswer": 2,
@@ -87,9 +87,9 @@
       "type": "multiple",
       "options": [
         "No tienen ninguna utilidad fuera del salón de clases",
-        "Solo sirven para que el maestro evalúe nuestro progreso",
+        "Solo sirven para que el maestro nos evalúe",
         "Complican las conversaciones en lugar de facilitarlas",
-        "Nos dan fundamentos doctrinales claros que podemos compartir"
+        "Nos dan fundamentos doctrinales claros que compartir"
       ],
       "correctAnswer": 3,
       "explanation": "Nos dan fundamentos doctrinales claros que podemos compartir en conversaciones sobre el evangelio."
@@ -99,10 +99,10 @@
       "question": "Bruno olvida los versículos de dominio justo cuando más los necesita, como en una conversación difícil. ¿Qué le ayudaría según lo que hemos aprendido sobre el repaso?",
       "type": "multiple",
       "options": [
-        "Repasarlos constantemente para que el Espíritu pueda traerlos a su memoria en el momento oportuno",
+        "Repasarlos seguido para que el Espíritu los traiga a su memoria",
         "Memorizarlos solo antes de un examen",
         "Escribirlos una sola vez y no volver a repasarlos",
-        "Dejar de intentar memorizarlos porque no funciona"
+        "Dejar de intentar memorizarlos, porque a él nunca le funciona bien"
       ],
       "correctAnswer": 0,
       "explanation": "Repasar constantemente ayuda a que el Espíritu traiga estos versículos a la memoria en el momento oportuno."
@@ -113,8 +113,8 @@
       "type": "multiple",
       "options": [
         "Que la doctrina es interesante pero no tiene aplicación práctica",
-        "Que estos principios están diseñados para aplicarse en decisiones diarias fuera del salón de clases",
-        "Que efectivamente la doctrina solo aplica dentro del salón de clases",
+        "Que estos principios se aplican a decisiones diarias fuera del aula",
+        "Que la doctrina solo aplica dentro del salón de clases",
         "Que solo los adultos necesitan aplicar la doctrina en su vida"
       ],
       "correctAnswer": 1,
@@ -126,8 +126,8 @@
       "type": "multiple",
       "options": [
         "Son temas completamente independientes entre generaciones distintas",
-        "No tienen ningún tema en común",
-        "Todos apuntan al mismo proceso de acercarnos más a Cristo mediante nuestras decisiones",
+        "Cada tema pertenece a una época distinta del Libro de Mormón",
+        "Todos apuntan al mismo proceso de acercarnos a Cristo decidiendo",
         "Solo tratan sobre reglas que hay que seguir sin comprender"
       ],
       "correctAnswer": 2,

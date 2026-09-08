@@ -65,7 +65,7 @@
       "id": 1,
       "question": "Completa el pasaje de Dominio de la doctrina: 'Iré y haré lo que el Señor ha mandado, porque sé que el Señor nunca da mandamientos a los hijos de los hombres sin ___'",
       "options": [
-        "mostrarles exactamente qué pasos seguir de antemano",
+        "mostrarles de antemano exactamente qué pasos tienen que seguir",
         "eliminar todos los obstáculos del camino",
         "darles las fuerzas para cumplirlos inmediatamente",
         "prepararles la vía para que cumplan lo que les ha mandado"
@@ -88,9 +88,9 @@
       "question": "Cuando alguien dice que un mandamiento es 'demasiado difícil para cumplirse', ¿cómo responde directamente la doctrina de 1 Nefi 3:7 a esa objeción?",
       "options": [
         "Diciendo que si es muy difícil, quizás ese mandamiento no aplica a esa persona en particular",
-        "Declarando que el Señor nunca da mandamientos sin preparar la vía para cumplirlos, por lo que la dificultad no cancela la posibilidad",
+        "Declarando que el Señor nunca manda sin preparar la vía, así que la dificultad no cancela",
         "Reconociendo que algunos mandamientos son demasiado difíciles para ciertas personas y Dios lo entiende",
-        "Sugiriendo que la dificultad indica que se está aplicando el mandamiento incorrectamente"
+        "Sugiriendo que la dificultad indica que se está aplicando el mandamiento de forma incorrecta"
       ],
       "correctAnswer": 1
     },
@@ -100,7 +100,7 @@
       "options": [
         "Cuando se debate la autenticidad histórica del Libro de Mormón",
         "Cuando alguien pregunta sobre la historia del Libro de Mormón",
-        "Cuando un amigo dice que quiere hacer algo bueno pero siente que no puede, o que un mandamiento es imposible para él",
+        "Cuando un amigo siente que un mandamiento le resulta imposible",
         "Cuando alguien quiere saber cuántos libros tiene el Libro de Mormón"
       ],
       "correctAnswer": 2
@@ -109,10 +109,10 @@
       "id": 5,
       "question": "Valentina quiere dejar de mentirle a sus padres, pero siente que si dice la verdad sobre dónde está van a restringirla más. Le parece imposible cambiar. Usando 1 Nefi 3:7, ¿qué podría decirle un compañero de Seminario?",
       "options": [
-        "Que primero debería cambiar su situación familiar y luego intentar ser honesta",
+        "Que primero debería cambiar su situación familiar y después intentar ser honesta",
         "Que el mandamiento de honrar a los padres es más importante que el de decir la verdad en este caso",
         "Que tiene razón, y que algunos mandamientos son imposibles en ciertas circunstancias familiares",
-        "Que el Señor nunca manda ser honesto sin preparar también la vía para que esa honestidad funcione, y que puede actuar con fe y ver cómo Él prepara las circunstancias"
+        "Que el Señor no manda ser honesto sin preparar también la vía para que funcione"
       ],
       "correctAnswer": 3
     },
@@ -120,7 +120,7 @@
       "id": 6,
       "question": "Luca dice que se sabe 1 Nefi 3:7 de memoria pero que cuando enfrenta mandamientos difíciles sigue evitándolos. ¿Qué le falta para haber 'dominado' realmente este versículo?",
       "options": [
-        "Le falta la dimensión de la fe activa: actuar confiando en la promesa, no solo conocerla intelectualmente",
+        "Le falta la fe activa: actuar confiando en la promesa, no solo saberla",
         "Necesita estudiar más contexto histórico de la historia de Nefi",
         "Le falta leer los versículos anteriores y posteriores para el contexto completo",
         "Necesita memorizarlo en otro idioma para comprenderlo mejor"
@@ -132,7 +132,7 @@
       "question": "1 Nefi 3:7 dice que el Señor 'prepara la vía'. Filipenses 4:13 dice 'todo lo puedo en Cristo que me fortalece'. ¿Cuál es el principio doctrinal común que une ambos versículos?",
       "options": [
         "Que los mandamientos siempre serán fáciles de cumplir para quienes tienen fe suficiente",
-        "Que la capacidad para cumplir la voluntad de Dios no viene de nuestra fuerza natural sino de la habilitación divina que Él provee",
+        "Que la capacidad de cumplir la voluntad de Dios viene de Su habilitación, no de nuestra fuerza",
         "Que Dios cumple los mandamientos por nosotros cuando le pedimos ayuda",
         "Que la fortaleza de Cristo solo aplica en las tradiciones del Nuevo Testamento, y 1 Nefi 3:7 es un principio independiente"
       ],

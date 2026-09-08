@@ -62,9 +62,9 @@
       "type": "multiple",
       "options": [
         "De vejez, después de un reinado largo y tranquilo",
-        "Quemado, cumpliendo la profecía de Abinadí",
+        "Quemado por fuego, cumpliendo la profecía de Abinadí",
         "En batalla, defendiendo a su pueblo con valentía",
-        "De una enfermedad repentina antes de ser capturado"
+        "De una enfermedad repentina, antes de que pudieran capturarlo"
       ],
       "correctAnswer": 1,
       "reference": "Mosíah 19:20",
@@ -77,7 +77,7 @@
       "options": [
         "Una prosperidad que continuó sin ninguna interrupción",
         "Decisiones que no tuvieron ningún efecto duradero",
-        "Las consecuencias inevitables del pecado y la desobediencia",
+        "Las consecuencias inevitables del pecado del pueblo",
         "Una obediencia constante que nunca fue puesta a prueba"
       ],
       "correctAnswer": 2,
@@ -90,9 +90,9 @@
       "type": "multiple",
       "options": [
         "Continuaron en la misma iniquidad sin ningún cambio",
-        "Prosperaron de inmediato bajo un nuevo liderazgo justo",
+        "Prosperaron de inmediato con un liderazgo justo",
         "Regresaron pacíficamente a la tierra de Zarahemla",
-        "Entraron en cautiverio bajo el dominio de los lamanitas"
+        "Entraron en cautiverio bajo dominio de los lamanitas"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 19:15,28",
@@ -103,8 +103,8 @@
       "question": "¿Por qué el propio pueblo se volvió contra el rey Noé?",
       "type": "multiple",
       "options": [
-        "Porque temían morir a manos de los lamanitas por causa de él",
-        "Porque preferían un impuesto más alto para el templo",
+        "Porque temían morir a manos de los lamanitas por él",
+        "Porque preferían un impuesto más alto al templo",
         "Porque querían que gobernara por más tiempo",
         "Porque estaban celosos de su riqueza personal"
       ],
@@ -117,10 +117,10 @@
       "question": "Joaquín ve que un amigo sigue tomando malas decisiones y parece no tener consecuencias todavía. ¿Qué le enseña la historia del rey Noé?",
       "type": "multiple",
       "options": [
-        "Que las malas decisiones nunca tienen consecuencias reales",
-        "Que las consecuencias del pecado llegan, aunque a veces tarden en manifestarse",
-        "Que solo los reyes enfrentan consecuencias por sus decisiones",
-        "Que su amigo definitivamente nunca enfrentará consecuencias"
+        "Que las malas decisiones en ningún caso tienen consecuencias reales",
+        "Que las consecuencias del pecado llegan, aunque a veces tarden",
+        "Que solo los reyes enfrentan consecuencias reales por sus decisiones",
+        "Que su amigo definitivamente en ningún caso enfrentará consecuencias"
       ],
       "correctAnswer": 1,
       "reference": "Mosíah 19:20",
@@ -132,8 +132,8 @@
       "type": "multiple",
       "options": [
         "Que Dios abandona a quienes estuvieron cerca de la maldad de otros",
-        "Que el pueblo nunca pudo recuperarse de los errores de Noé",
-        "Que Dios permite nuevas oportunidades incluso después de las malas decisiones de otros",
+        "Que el pueblo en ningún caso pudo recuperarse de los errores de Noé",
+        "Que Dios da nuevas oportunidades pese a las decisiones de otros",
         "Que solo los descendientes directos de Noé sufrieron las consecuencias"
       ],
       "correctAnswer": 2,
@@ -147,8 +147,8 @@
       "options": [
         "Muestran que el cautiverio fue causado por los lamanitas sin relación con Noé",
         "Indican que el pueblo era inocente de cualquier responsabilidad",
-        "No tienen ninguna relación entre sí",
-        "Ambos muestran que las consecuencias de un mal liderazgo afectan a toda la comunidad, no solo al líder"
+        "El cautiverio fue un castigo directo por la muerte de Noé",
+        "Ambos muestran que un mal liderazgo afecta a toda la comunidad"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 19-20",

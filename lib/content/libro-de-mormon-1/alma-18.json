@@ -55,7 +55,7 @@
       "type": "multiple",
       "options": [
         "Que era un ladrón que buscaba robar sus rebaños",
-        "Que era más que un hombre, posiblemente el Gran Espíritu",
+        "Que era más que un hombre: el Gran Espíritu",
         "Que era un hombre común, sin nada especial",
         "Que era una persona débil y sin ninguna capacidad"
       ],
@@ -70,7 +70,7 @@
       "options": [
         "Simplemente adivinó basándose en su expresión facial",
         "El propio rey se los contó directamente",
-        "Por el Espíritu de Dios que le revelaba los pensamientos del rey",
+        "Por el Espíritu de Dios que se los reveló",
         "Escuchó una conversación privada a escondidas"
       ],
       "correctAnswer": 2,
@@ -82,10 +82,10 @@
       "question": "¿Qué enseñó Ammón al rey Lamoni?",
       "type": "multiple",
       "options": [
-        "Únicamente relatos e historias sin ninguna doctrina",
-        "Filosofías humanas populares de otras naciones",
+        "Solo relatos e historias sin ninguna doctrina",
+        "Filosofías humanas populares de otros pueblos",
         "Nada de real importancia espiritual",
-        "Sobre Dios, la Creación, Adán y el Plan de Redención"
+        "Sobre Dios, la Creación y el Plan de Redención"
       ],
       "correctAnswer": 3,
       "reference": "Alma 18:26-39",
@@ -96,10 +96,10 @@
       "question": "¿Cómo sirvió Ammón al rey Lamoni?",
       "type": "multiple",
       "options": [
-        "Sirviendo como pastor y protegiendo sus rebaños",
+        "Sirviendo como pastor y cuidando sus rebaños del robo",
         "Exigiendo respeto y un trato especial de la corte",
         "Solicitando privilegios adicionales por su servicio",
-        "Únicamente predicando sin realizar ningún trabajo físico"
+        "Solo predicando sin realizar ningún trabajo físico"
       ],
       "correctAnswer": 0,
       "reference": "Alma 18:9-10",
@@ -111,7 +111,7 @@
       "type": "multiple",
       "options": [
         "Exigir que su amiga acepte su punto de vista sin explicación",
-        "Comenzar preguntando lo que su amiga ya cree, y desde ahí enseñar con paciencia sobre Dios",
+        "Empezar preguntando lo que su amiga ya cree y enseñar desde ahí",
         "Corregir de inmediato cualquier idea equivocada que tenga su amiga",
         "Evitar el tema para no generar ningún conflicto"
       ],
@@ -126,7 +126,7 @@
       "options": [
         "Que Lamoni ignoró por completo el servicio de Ammón",
         "Que el servicio solo tiene valor si es reconocido públicamente",
-        "Que el servicio fiel y constante puede abrir la puerta a que otros escuchen el evangelio",
+        "Que el servicio fiel abre la puerta a que otros escuchen",
         "Que el servicio de Ammón no tuvo ninguna consecuencia real"
       ],
       "correctAnswer": 2,
@@ -140,8 +140,8 @@
       "options": [
         "Solo la enseñanza sobre el plan de redención fue relevante para la conversión de Lamoni",
         "El servicio de Ammón retrasó la conversión del rey",
-        "No tienen relación real entre sí",
-        "El servicio fiel ganó la confianza de Lamoni, lo cual preparó su corazón para recibir la enseñanza espiritual"
+        "El servicio de Ammón y su enseñanza fueron dos etapas sin conexión entre sí",
+        "El servicio fiel ganó la confianza de Lamoni y preparó su corazón para la enseñanza"
       ],
       "correctAnswer": 3,
       "reference": "Alma 18",

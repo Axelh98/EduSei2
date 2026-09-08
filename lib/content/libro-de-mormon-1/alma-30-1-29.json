@@ -67,7 +67,7 @@
       "type": "multiple",
       "options": [
         "La necesidad urgente de un arrepentimiento sincero",
-        "Que no habría Cristo, ni expiación, ni vida después de la muerte",
+        "Que no habría Cristo, ni expiación, ni vida después",
         "La verdad del evangelio tal como la enseñaban los profetas",
         "La importancia de seguir fielmente a los profetas"
       ],
@@ -82,8 +82,8 @@
       "options": [
         "Como un líder justo y respetado por todos",
         "Como un amigo cercano de los sacerdotes",
-        "Como un anticristo que negaba las profecías de Cristo",
-        "Como un profeta enviado a corregir errores"
+        "Como un anticristo que negaba las profecías",
+        "Como un profeta enviado a corregir los errores del pueblo"
       ],
       "correctAnswer": 2,
       "reference": "Alma 30:6",
@@ -95,9 +95,9 @@
       "type": "multiple",
       "options": [
         "Fortalecieron la fe de quienes las escucharon",
-        "No lograron influir en absolutamente nadie",
+        "Convencieron a los jueces de cambiar las leyes del pueblo",
         "No tuvieron ningún efecto sobre la población",
-        "Alejaron a muchas personas de la fe"
+        "Alejaron de la fe a muchas personas del pueblo"
       ],
       "correctAnswer": 3,
       "reference": "Alma 30:18",
@@ -108,10 +108,10 @@
       "question": "¿Cómo justificaba Korihor su derecho a enseñar sus falsas doctrinas?",
       "type": "multiple",
       "options": [
-        "Apelaba a su libertad y decía que no había ley contra las creencias",
-        "Explicaba que no necesitaba justificarse ante nadie",
+        "Decía que no había ninguna ley contra las creencias",
+        "Decía que no necesitaba justificarse ante nadie",
         "Afirmaba tener permiso explícito de los profetas",
-        "Se basaba únicamente en su popularidad entre el pueblo"
+        "Se basaba solo en su popularidad entre el pueblo"
       ],
       "correctAnswer": 0,
       "reference": "Alma 30:24",
@@ -123,7 +123,7 @@
       "type": "multiple",
       "options": [
         "Que esos argumentos siempre son completamente ciertos",
-        "Que las enseñanzas que niegan a Cristo pueden sonar convincentes, pero conducen a las personas lejos de la verdad",
+        "Que las enseñanzas que niegan a Cristo pueden sonar convincentes",
         "Que debe evitar cualquier conversación sobre el tema con su compañero",
         "Que la religión efectivamente no tiene ningún valor real"
       ],
@@ -138,8 +138,8 @@
       "options": [
         "Que debe abandonar su fe hasta tener una prueba física",
         "Que nunca debe hablar de su fe con nadie que dude",
-        "Que la fe se fortalece con evidencias espirituales y el testimonio de otros, no solo con pruebas físicas",
-        "Que la existencia de Dios no tiene ninguna forma de evidenciarse"
+        "Que la fe se apoya en evidencias espirituales, no solo físicas",
+        "Que la existencia de Dios no puede evidenciarse"
       ],
       "correctAnswer": 2,
       "reference": "Alma 30:39-44",
@@ -152,8 +152,8 @@
       "options": [
         "Su justificación sobre la libertad era completamente independiente de su doctrina",
         "Korihor no tenía ninguna justificación para sus enseñanzas",
-        "No tienen relación real entre sí",
-        "Korihor usaba la idea de libertad individual para justificar una doctrina que en realidad alejaba a las personas de Dios"
+        "Korihor separaba a propósito su doctrina de su reclamo de libertad",
+        "Usaba la idea de libertad para justificar una doctrina que alejaba de Dios"
       ],
       "correctAnswer": 3,
       "reference": "Alma 30:12-24",

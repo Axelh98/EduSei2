@@ -104,8 +104,8 @@
       "type": "multiple",
       "options": [
         "Ningún ejemplo de este relato aplica a su situación",
-        "El ejemplo de aceptar parte del dinero para evitar problemas",
-        "El ejemplo de Amulek, quien rechazó firmemente el soborno de Zeezrom y testificó de la verdad",
+        "El ejemplo de aceptar parte del dinero para evitar líos",
+        "El de Amulek, que rechazó el soborno de Zeezrom y testificó",
         "El ejemplo de Zeezrom, quien logró convencer a Amulek"
       ],
       "correctAnswer": 2,
@@ -118,9 +118,9 @@
       "type": "multiple",
       "options": [
         "Que la prosperidad siempre indica una buena relación con Dios",
-        "Que Amulek nunca necesitó realmente cambiar",
-        "Que solo las personas pobres necesitan conversión",
-        "Que incluso una persona próspera y respetada puede tener el corazón endurecido y necesitar conversión"
+        "Que Amulek en ningún caso necesitó realmente cambiar",
+        "Que solamente las personas pobres necesitan conversión",
+        "Que una persona próspera puede necesitar conversión"
       ],
       "correctAnswer": 3,
       "reference": "Alma 10:4-6",
@@ -131,9 +131,9 @@
       "question": "¿Cómo se relaciona el intento de soborno de Zeezrom con el mensaje central que predicaban Alma y Amulek?",
       "type": "multiple",
       "options": [
-        "El soborno mostró que Zeezrom valoraba más el dinero que la verdad, justo lo opuesto a lo que Alma y Amulek enseñaban",
+        "El soborno mostró que Zeezrom prefería el dinero a la verdad",
         "Zeezrom compartía completamente el mensaje de Alma y Amulek",
-        "No tienen relación real entre sí",
+        "El soborno de Zeezrom fue ajeno al mensaje que ellos predicaban",
         "El soborno confirmó que el mensaje de Alma y Amulek era incorrecto"
       ],
       "correctAnswer": 0,

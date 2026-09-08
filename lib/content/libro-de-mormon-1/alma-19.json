@@ -54,7 +54,7 @@
       "question": "¿Qué le sucedió al rey Lamoni después de escuchar a Ammón?",
       "type": "multiple",
       "options": [
-        "Cayó como si estuviera muerto, siendo vencido por el Espíritu",
+        "Cayó como muerto, vencido por el Espíritu",
         "Se enojó profundamente y rechazó el mensaje",
         "No le sucedió nada fuera de lo común",
         "Se fue a dormir sin ningún efecto especial"
@@ -85,7 +85,7 @@
         "Permaneció completamente en silencio ante todos",
         "Se quejó amargamente de lo ocurrido con su esposo",
         "Testificó de Jesucristo y de la misericordia de Dios",
-        "Se marchó del lugar sin decir ninguna palabra"
+        "Se marchó del lugar sin decir una sola palabra"
       ],
       "correctAnswer": 2,
       "reference": "Alma 19:29",
@@ -99,7 +99,7 @@
         "Porque pensaba que Ammón había robado las pertenencias del rey",
         "Porque el propio Lamoni se lo había ordenado antes de caer",
         "Porque temía que Ammón intentara tomar el trono",
-        "Porque su hermano había muerto por la espada de Ammón en las aguas de Sebús"
+        "Porque su hermano murió por la espada de Ammón en Sebús"
       ],
       "correctAnswer": 3,
       "reference": "Alma 19:21-22",
@@ -110,7 +110,7 @@
       "question": "Camila ve a alguien tener una experiencia espiritual muy fuerte y no sabe cómo interpretarlo. ¿Qué le enseña lo que le pasó al rey Lamoni?",
       "type": "multiple",
       "options": [
-        "Que el poder del Espíritu puede manifestarse de formas intensas cuando alguien recibe la verdad",
+        "Que el poder del Espíritu puede manifestarse de forma intensa",
         "Que esas experiencias solo les ocurren a los líderes religiosos",
         "Que debe desconfiar de cualquier experiencia espiritual intensa",
         "Que ese tipo de experiencias nunca son reales"
@@ -125,7 +125,7 @@
       "type": "multiple",
       "options": [
         "Que la conversión de Lamoni no afectó a nadie más en su casa",
-        "Que la conversión de una persona puede generar confusión al inicio, pero también inspirar a otros a creer",
+        "Que una conversión puede confundir al inicio, pero también inspirar",
         "Que la familia siempre rechaza por completo cualquier cambio espiritual",
         "Que es mejor ocultar los cambios de fe a la familia"
       ],
@@ -139,8 +139,8 @@
       "type": "multiple",
       "options": [
         "La experiencia de Lamoni impidió que otros se acercaran a la fe",
-        "No tienen relación real entre sí",
-        "La experiencia de Lamoni abrió el camino para que otros también recibieran testimonio y se convirtieran",
+        "La conversión de la reina ocurrió por su cuenta, sin relación con Lamoni",
+        "La experiencia de Lamoni abrió el camino para que otros creyeran",
         "Solo la conversión de la reina tuvo importancia real"
       ],
       "correctAnswer": 2,

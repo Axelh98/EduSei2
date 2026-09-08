@@ -51,12 +51,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Según Éter 12:6, ¿cuándo se recibe un testimonio, según la enseñanza de Moroni?",
+      "question": "Según Éter 12:10, ¿qué tenían en común los de la antigüedad que fueron llamados según el santo orden de Dios?",
       "options": [
-        "Únicamente al final de la vida",
-        "Solo si se pide directamente a un profeta",
-        "Antes de ejercer cualquier tipo de fe",
-        "Después de la prueba de la fe"
+        "Que fueron llamados por su edad",
+        "Que ya tenían un testimonio completo antes de ser llamados",
+        "Que pertenecían por nacimiento al linaje sacerdotal",
+        "Que fue por su fe que recibieron ese llamamiento"
       ],
       "correctAnswer": 3
     },
@@ -100,7 +100,7 @@
         "Que solo debería avanzar si logra sentir una certeza emocional fuerte antes de decidir",
         "Que solo las personas con mucha experiencia pueden ejercer este tipo de fe",
         "Que debería seguir esperando indefinidamente hasta tener certeza absoluta antes de actuar",
-        "Que la confirmación suele llegar después del paso de fe"
+        "Que la confirmación suele llegar después de dar el paso de fe, no antes de darlo"
       ],
       "correctAnswer": 3
     },
@@ -120,7 +120,7 @@
       "question": "Tanto el principio de que 'el testimonio llega después de la prueba de la fe' como los ejemplos de profetas que actuaron con fe antes de ver el milagro comparten una misma enseñanza central. ¿Cuál es?",
       "options": [
         "Que estos ejemplos aplican únicamente a personajes históricos, sin relación con la vida actual",
-        "Que actuar con fe sin certeza abre el camino a la confirmación",
+        "Que actuar con fe antes de tener certeza es lo que abre camino a la confirmación",
         "Que la fe y los milagros no guardan ninguna relación entre sí en las Escrituras",
         "Que solo se debe actuar cuando ya se tiene un testimonio completo y seguro"
       ],

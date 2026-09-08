@@ -55,7 +55,7 @@
       "type": "multiple",
       "options": [
         "Negociando directamente con los líderes lamanitas",
-        "Haciendo que un sueño profundo cayera sobre los lamanitas",
+        "Haciendo caer un sueño profundo sobre los lamanitas",
         "Enviando un ejército nefita a rescatarlos por la fuerza",
         "Provocando una tormenta que dispersó a sus captores"
       ],
@@ -68,7 +68,7 @@
       "question": "¿Qué debió hacer el pueblo antes de ser liberado?",
       "type": "multiple",
       "options": [
-        "Organizar un escape secreto durante la noche",
+        "Organizar un escape secreto a lo largo de la noche",
         "Quejarse abiertamente sobre su situación con Dios",
         "Someterse con paciencia a la voluntad del Señor",
         "Luchar con violencia contra sus captores lamanitas"
@@ -84,8 +84,8 @@
       "options": [
         "Que nunca llega si hemos cometido errores en el pasado",
         "Que depende únicamente de nuestro propio esfuerzo físico",
-        "Que siempre llega de manera inmediata tras el primer ruego",
-        "Que viene en Su tiempo y manera, a menudo de formas inesperadas"
+        "Que siempre llega apenas se ruega",
+        "Que viene en Su tiempo y de formas inesperadas"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 24:17",
@@ -96,7 +96,7 @@
       "question": "¿Qué hizo el pueblo de Alma inmediatamente después de ser librados?",
       "type": "multiple",
       "options": [
-        "Huyeron al desierto y luego llegaron a Zarahemla dando gracias a Dios",
+        "Huyeron al desierto y llegaron a Zarahemla agradecidos",
         "Organizaron un ejército para vengarse de sus captores",
         "Regresaron a reclamar sus tierras a los lamanitas",
         "Se establecieron en el mismo lugar donde habían sido cautivos"
@@ -111,7 +111,7 @@
       "type": "multiple",
       "options": [
         "Que la demora significa que Dios no escuchó su oración",
-        "Que la ayuda de Dios llega en Su tiempo, a menudo de formas que no esperamos",
+        "Que Dios respondió igual, aunque no cuando ellos querían",
         "Que Dios solo responde a las oraciones de personas especiales",
         "Que debe dejar de orar si la respuesta tarda demasiado"
       ],
@@ -126,7 +126,7 @@
       "options": [
         "Que resolver los problemas sola siempre es la mejor opción",
         "Que pedir ayuda a Dios es señal de debilidad",
-        "Que someterse con paciencia a la voluntad de Dios es parte de recibir Su ayuda",
+        "Que someterse con paciencia a Dios es parte de Su ayuda",
         "Que la paciencia no tiene ningún valor espiritual real"
       ],
       "correctAnswer": 2,
@@ -139,9 +139,9 @@
       "type": "multiple",
       "options": [
         "La gratitud del pueblo no tuvo relación con su liberación",
-        "No tienen ninguna relación entre sí",
-        "Solo el sueño sobre los lamanitas es relevante para este relato",
-        "Ambos muestran que reconocer la mano de Dios en la liberación lleva naturalmente a la gratitud"
+        "La gratitud del pueblo vino de llegar a Zarahemla, no de Dios",
+        "Solo el sueño sobre los lamanitas importa en este relato",
+        "Reconocer la mano de Dios en la liberación lleva a la gratitud"
       ],
       "correctAnswer": 3,
       "reference": "Mosíah 24:19-25",

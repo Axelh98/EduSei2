@@ -52,7 +52,7 @@
       "question": "De los tres versículos repasados en esta lección, ¿cuál enseña específicamente sobre la oración y su efecto sobre nuestras acciones?",
       "options": [
         "2 Nefi 32:3, que promete que las palabras de Cristo nos dirán qué hacer",
-        "2 Nefi 32:8–9, que exhorta a orar siempre para que el Padre consagre nuestras acciones",
+        "2 Nefi 32:8–9, que exhorta a orar siempre para consagrar lo que hacemos",
         "Moroni 10:4, que invita a preguntar a Dios sobre la veracidad del Libro de Mormón",
         "1 Nefi 3:7, que enseña que el Señor prepara la vía"
       ],
@@ -62,10 +62,10 @@
       "id": 2,
       "question": "Salmos 119:11 dice: «En mi corazón he guardado tus palabras para no pecar contra ti». ¿Para qué sirve, según ese versículo, tener un pasaje guardado de memoria?",
       "options": [
-        "Para poder citarlo con exactitud cuando alguien pregunta sobre la doctrina.",
+        "Para poder citarlo con exactitud si alguien pregunta.",
         "Para tenerlo disponible en el momento de decidir, antes de que sea tarde.",
         "Para demostrar constancia en el estudio personal de las Escrituras.",
-        "Para reemplazar la necesidad de leer el pasaje completo más adelante."
+        "Para reemplazar la necesidad de volver a leer el pasaje completo más adelante."
       ],
       "correctAnswer": 1
     },
@@ -76,7 +76,7 @@
         "El primero es el más importante y los otros dos son solo aclaraciones del mismo principio",
         "Los tres deben memorizarse en orden porque cada uno es condición previa del siguiente",
         "Los tres dicen esencialmente lo mismo sobre la importancia de la obediencia",
-        "El primero nos da confianza para obedecer mandamientos difíciles; el segundo nos indica cómo saber qué hacer; el tercero consagra lo que hacemos mediante la oración"
+        "El primero da confianza; el segundo indica qué hacer; el tercero consagra lo hecho"
       ],
       "correctAnswer": 3
     },
@@ -86,7 +86,7 @@
       "options": [
         "Que espere una respuesta directa antes de abrir las Escrituras.",
         "Que consulte las palabras de Cristo, y no solamente su propio criterio.",
-        "Que consulte a un líder porque las Escrituras no cubren casos concretos.",
+        "Que consulte a un líder: las Escrituras no cubren casos concretos.",
         "Que resuelva primero por su cuenta y después verifique en el texto."
       ],
       "correctAnswer": 1
@@ -96,9 +96,9 @@
       "question": "Camila tiene una evaluación del Dominio de la doctrina próximamente pero no ha practicado. Según los principios de esta lección sobre la memorización, ¿qué estrategia sería más coherente con el propósito del Dominio de la doctrina?",
       "options": [
         "Estudiar intensamente la noche anterior para tener los versículos frescos el día del examen",
-        "Practicar los versículos en contextos de conversación real, pensando en situaciones donde los usaría, para que se vuelvan anclas espirituales y no solo texto memorizados",
+        "Practicar los versículos en conversaciones reales, pensando dónde los usaría",
         "Pedir a alguien que le dicte los versículos varias veces para aprenderlos por repetición mecánica",
-        "Concentrarse solo en recordar las referencias, no el contenido exacto"
+        "Concentrarse exclusivamente en recordar las referencias, no el contenido exacto"
       ],
       "correctAnswer": 1
     },
@@ -106,9 +106,9 @@
       "id": 6,
       "question": "Luca tiene todos los versículos memorizados pero dice que nunca los usa en conversaciones reales porque 'se ve raro citar versículos'. ¿Qué le falta para que el Dominio de la doctrina cumpla su propósito?",
       "options": [
-        "Buscar amigos que también sepan las citas para que no se sienta raro citarlas",
+        "Buscar amigos que sepan las citas para no sentirse raro",
         "Practicar citas más largas y más versículos para tener más opciones",
-        "La dimensión de la aplicación: el objetivo es poder explicar la doctrina con sus propias palabras en conversaciones naturales, no citar formalmente",
+        "La aplicación: explicar la doctrina con sus palabras, no citar formalmente",
         "Aprender a hacer transiciones más suaves entre la conversación y la cita"
       ],
       "correctAnswer": 2
@@ -118,9 +118,9 @@
       "question": "¿En qué situación real de la vida adolescente los tres versículos (1 Nefi 3:7; 2 Nefi 32:3; 2 Nefi 32:8–9) podrían usarse de forma coordinada, no como citas separadas?",
       "options": [
         "Solo en contextos formales de Seminario o conferencias religiosas",
-        "Cuando alguien tiene dudas específicas sobre la historia de la Iglesia",
-        "En una discusión académica sobre la autenticidad histórica del Libro de Mormón",
-        "Cuando un amigo dice que quiere ser más fiel al Evangelio pero no sabe por dónde empezar: 1 Nefi 3:7 le da confianza para intentarlo; 2 Nefi 32:3 le indica dónde buscar guía; 2 Nefi 32:8–9 le muestra cómo consagrar sus esfuerzos"
+        "Cuando alguien tiene dudas específicas sobre la historia de la Iglesia moderna",
+        "En una discusión académica sobre el Libro de Mormón",
+        "Cuando un amigo quiere ser más fiel al Evangelio y no sabe por dónde empezar"
       ],
       "correctAnswer": 3
     }

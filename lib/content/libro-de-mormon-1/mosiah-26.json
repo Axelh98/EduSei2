@@ -69,8 +69,8 @@
       "type": "multiple",
       "options": [
         "Perdonar solamente la primera vez que alguien peque",
-        "Perdonar cuantas veces la persona se arrepienta sinceramente",
-        "Esperar una señal pública antes de conceder el perdón",
+        "Perdonar todas las veces que la persona se arrepienta",
+        "Esperar una señal pública antes de conceder cualquier perdón",
         "Dejar que el perdón dependa del tamaño del pecado"
       ],
       "correctAnswer": 1,
@@ -110,7 +110,7 @@
       "question": "Abril cometió un error grave y siente que ya no merece el perdón de Dios. ¿Qué le enseña Mosíah 26:29-30 sobre el arrepentimiento?",
       "type": "multiple",
       "options": [
-        "Que Dios perdona cuantas veces la persona se arrepienta con sinceridad",
+        "Que Dios perdona cuantas veces uno se arrepienta",
         "Que solo se puede pedir perdón una vez en la vida",
         "Que algunos errores son demasiado graves para ser perdonados",
         "Que debe esperar años antes de poder recibir el perdón"
@@ -125,7 +125,7 @@
       "type": "multiple",
       "options": [
         "Que fingir tener fe es aceptable mientras asista a la iglesia",
-        "Que la fe genuina no puede imponerse; cada persona necesita su propia conversión",
+        "Que la fe genuina no puede imponerse: cada uno necesita la suya",
         "Que la nueva generación de Alma no tuvo ningún problema real de fe",
         "Que los hijos deben aceptar sin cuestionar la fe de sus padres"
       ],
@@ -139,8 +139,8 @@
       "type": "multiple",
       "options": [
         "Solo la instrucción del Señor tiene relevancia práctica",
-        "No tienen relación entre sí",
-        "Ambas muestran que el objetivo no es castigar sino ayudar a las personas a volver al camino correcto",
+        "La preocupación de Alma iba contra la instrucción del Señor",
+        "Ambas muestran que el objetivo es ayudar a volver, no castigar",
         "Muestran que Alma debía castigar sin dar oportunidad al arrepentimiento"
       ],
       "correctAnswer": 2,

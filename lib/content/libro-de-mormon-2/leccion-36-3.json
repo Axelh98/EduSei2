@@ -30,7 +30,7 @@
       "autor": "Presidente Ezra Taft Benson",
       "fuente": "Liahona, «El Libro de Mormón: La clave de nuestra religión»",
       "texto": "Si ellos vieron nuestros días, y eligieron aquellas cosas que serían de máximo valor para nosotros, ¿no es pensando en ello que deberíamos estudiar el Libro de Mormón?",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2011/10/the-book-of-mormon-keystone-of-our-religion?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2011/10/the-book-of-mormon-keystone-of-our-religion?lang=spa&id=p24#p24"
     },
     {
       "tipo": "conclusion",
@@ -73,12 +73,12 @@
     },
     {
       "id": 3,
-      "question": "¿Qué testificó Moroni sobre los milagros?",
+      "question": "Moroni escribe 'no dudéis, mas sed creyentes' y en esa misma frase pide algo concreto (Mormón 9:27). ¿Qué es lo que pide hacer?",
       "options": [
-        "Que no existen",
-        "Que Dios es un Dios de milagros",
-        "Que cesaron cuando terminó la época de los apóstoles",
-        "Que son raros"
+        "Pedir solo por las necesidades de otras personas",
+        "Pedir al Padre, en el nombre de Jesús, lo que se necesite",
+        "Guardar las dudas para uno mismo y no comentarlas con nadie",
+        "Esperar a tener certeza total antes de pedir algo"
       ],
       "correctAnswer": 1
     },

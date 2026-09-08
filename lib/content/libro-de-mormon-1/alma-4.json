@@ -77,7 +77,7 @@
       "options": [
         "La pobreza extrema que afectaba a toda la nación",
         "Orgullo, riquezas y persecución entre los miembros",
-        "La ausencia total de líderes religiosos capacitados",
+        "La falta de líderes religiosos capacitados",
         "Las guerras constantes contra los lamanitas"
       ],
       "correctAnswer": 1,
@@ -91,7 +91,7 @@
       "options": [
         "Solamente un poder limitado al ámbito temporal",
         "Menor poder de convencimiento que la fuerza militar",
-        "Efecto más potente en la mente que la espada o cualquier cosa",
+        "Efecto más potente que la espada",
         "Ningún poder real más allá de lo simbólico"
       ],
       "correctAnswer": 2,
@@ -106,7 +106,7 @@
         "La membresía de la iglesia creció sin ningún problema",
         "El pueblo se volvió más unido y generoso que antes",
         "Los jueces del pueblo ganaron más autoridad espiritual",
-        "Se crearon divisiones, con miembros que se creían mejores que otros"
+        "Se crearon divisiones, con unos que se creían mejores"
       ],
       "correctAnswer": 3,
       "reference": "Alma 4:8-9",
@@ -117,7 +117,7 @@
       "question": "Lautaro tiene un cargo de liderazgo en su clase de Seminario y siente que le quita tiempo para lo que más le importa espiritualmente. ¿Qué ejemplo de Alma 4 podría orientarlo?",
       "type": "multiple",
       "options": [
-        "Alma cedió el asiento judicial para dedicarse a predicar la palabra, priorizando lo espiritual",
+        "Alma cedió el asiento judicial para predicar la palabra",
         "Que el liderazgo y la espiritualidad nunca pueden combinarse",
         "Que debe mantener el cargo sin importar el costo espiritual",
         "Que debe renunciar a cualquier tipo de responsabilidad"
@@ -132,7 +132,7 @@
       "type": "multiple",
       "options": [
         "Que no hay ningún problema en sentirse superior a otros",
-        "Que el orgullo por la prosperidad puede causar división y persecución dentro de la comunidad de fe",
+        "Que el orgullo por la prosperidad causa división en la fe",
         "Que solo los líderes deben preocuparse por el orgullo del pueblo",
         "Que tener más recursos siempre es señal de bendición divina"
       ],
@@ -146,8 +146,8 @@
       "type": "multiple",
       "options": [
         "El orgullo del pueblo no tuvo ninguna influencia en la decisión de Alma",
-        "No tienen relación real entre sí",
-        "Alma priorizó combatir el orgullo con la palabra de Dios, que consideró más poderosa que su autoridad política",
+        "Alma dejó el cargo por cansancio, no por el orgullo del pueblo",
+        "Alma prefirió combatir el orgullo con la palabra, no con el cargo",
         "El cargo político de Alma era la única forma de combatir el orgullo"
       ],
       "correctAnswer": 2,
