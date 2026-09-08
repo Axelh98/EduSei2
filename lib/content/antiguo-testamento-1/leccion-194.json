@@ -86,7 +86,7 @@
         "Que el reino de Dios es un ideal a largo plazo y las prioridades de la semana actual pueden organizarse según las necesidades prácticas inmediatas.",
         "Que el versículo aplica principalmente a los adultos con responsabilidades de liderazgo, no tanto a los adolescentes en etapa de formación."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
@@ -105,21 +105,21 @@
       "options": [
         "Hacer primero las tareas más fáciles para generar momentum antes de enfrentar lo más difícil de la semana.",
         "Consultar con sus padres cuáles actividades pueden eliminarse para reducir la carga total de la semana.",
-        "Escribir todo lo que tiene que hacer, identificar qué es verdaderamente urgente versus importante, y programar el Señor primero aunque parezca que no hay tiempo.",
+        "Escribir todo lo que tiene que hacer, distinguir lo urgente de lo importante y programar al Señor primero.",
         "Hablar con sus maestros para conseguir extensiones en las tareas y así poder dedicar tiempo a todo sin tanta presión."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Nicolás organiza su semana siempre dejando el Seminario, la oración y las Escrituras para 'si sobra tiempo'. Con frecuencia no sobra nada. La lección ofrece un principio que explica directamente por qué ese enfoque falla. ¿Cuál es?",
       "options": [
-        "Que buscar primero el reino de Dios en la agenda —programarlo al inicio y no al final— es la única manera de garantizar que tenga un lugar consistente en la semana.",
+        "Que buscar primero el reino de Dios en la agenda —programarlo al inicio, no al final— le da un lugar consistente en la semana.",
         "Que la solución es levantarse más temprano para tener tiempo extra antes de que el día se llene de otras actividades.",
         "Que el Señor promete añadir tiempo sobrenatural a quien lo pone primero, de modo que las demás tareas también se completan.",
         "Que la oración, el Seminario y las Escrituras deberían reducirse a su mínima expresión durante semanas particularmente cargadas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
@@ -130,7 +130,7 @@
         "Que la Creación demuestra que el Señor mismo necesita orden para operar, lo que implica que el desorden en la vida de Sus hijos lo limita a Él también.",
         "Que establecer orden en la vida es principalmente una virtud de carácter que el Señor aprecia por su valor moral, independientemente de sus efectos prácticos."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

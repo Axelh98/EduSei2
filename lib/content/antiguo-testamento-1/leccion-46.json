@@ -40,7 +40,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Israel murmuró pocos días después de presenciar uno de los milagros más grandes de la historia. Eso no los hace hipócritas: los hace humanos. La fe genuina requiere renovación constante porque la memoria espiritual se debilita sin alimentación diaria. 'Jehová tu sanador' sigue siendo el nombre de Dios hoy. Él puede endulzar las aguas amargas de la desilusión, el dolor y el miedo —si llevás esas amarguras a Él en lugar de murmurar con los demás."
+      "contenido": "Israel murmuró pocos días después de presenciar uno de los milagros más grandes de la historia. Eso no los hace hipócritas: los hace humanos. La fe genuina requiere renovación constante porque la memoria espiritual se debilita sin alimentación diaria. «Jehová tu sanador» sigue siendo el nombre de Dios hoy. Él puede endulzar las aguas amargas de la desilusión, el dolor y el miedo —si llevás esas amarguras a Él en lugar de murmurar con los demás. Pablo dice que la roca que acompañó a Israel en el desierto era Cristo: el agua que endulzó Mara ya venía de Él. Esta semana, cuando algo te salga amargo, decíselo a Él antes que a nadie."
     },
     {
       "tipo": "cuestionario",
@@ -105,17 +105,17 @@
       "options": [
         "Que debería confrontar a su amiga directamente para resolver el conflicto antes de pedirle ayuda al Señor.",
         "Que el tiempo sana sola esa clase de amargura; la única acción necesaria es esperar con paciencia.",
-        "Que el mismo 'árbol' —la Expiación de Jesucristo— que hizo dulces las aguas de Mara puede sanar la amargura emocional si ella se lo lleva al Señor.",
+        "Que el mismo «árbol» —la Expiación de Cristo— que endulzó Mara puede sanar su amargura si se la lleva a Él.",
         "Que debería alejarse de su amiga definitivamente porque las relaciones que generan amargura no son saludables."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Tomás tiene un obispo nuevo al que no conoce bien y dice que 'no le ve el punto' a asistir a las reuniones porque el anterior le parecía mucho mejor. Según el principio del sostenimiento en la batalla de Amalec, ¿qué perspectiva ofrece la lección?",
       "options": [
         "Que debería hablar con el obispo anterior para que lo ayude a relacionarse mejor con el nuevo líder.",
-        "Que sostener a los líderes llamados por el Señor —incluso cuando no los conocemos bien— es parte de cómo la obra del Señor prospera, no una preferencia personal.",
+        "Que sostener a los líderes llamados por el Señor es parte de cómo prospera Su obra, no una preferencia.",
         "Que tiene razón en ser selectivo sobre a cuáles reuniones asistir mientras evalúa el estilo del nuevo obispo.",
         "Que el Señor entiende sus preferencias y eventualmente llamará a alguien que se adapte mejor a su estilo."
       ],
@@ -126,11 +126,11 @@
       "question": "Mara (agua amarga), Refidim (sin agua) y la batalla contra Amalec son tres pruebas distintas que Israel enfrentó en el mismo período. ¿Qué patrón emerge sobre cómo el Señor responde a las necesidades de Su pueblo en esas tres situaciones?",
       "options": [
         "Que el Señor elimina siempre el problema de raíz para que no vuelva a ocurrir la misma prueba en el futuro.",
-        "Que el Señor responde cuando el pueblo clama, pero la forma de respuesta varía: a veces sana directamente, a veces instruye a actuar, a veces requiere el esfuerzo sostenido del pueblo.",
+        "Que el Señor responde cuando el pueblo clama, pero la forma varía: a veces sana, a veces instruye a actuar, a veces pide esfuerzo.",
         "Que el Señor solo responde a las necesidades físicas en el desierto; las espirituales requieren un contexto diferente.",
         "Que las tres pruebas muestran que el pueblo no aprendía de sus experiencias previas y el Señor tuvo que repetir la misma lección de maneras distintas."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

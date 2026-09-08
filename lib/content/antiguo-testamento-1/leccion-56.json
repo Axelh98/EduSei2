@@ -72,7 +72,7 @@
       "question": "Caleb y Josué dieron un reporte completamente diferente al de los otros diez espías. ¿Cuál fue el argumento central de su reporte favorable?",
       "options": [
         "Que el ejército israelita era más numeroso de lo que los otros espías habían calculado correctamente.",
-        "Que si el Señor se agradare de ellos, los llevaría a esa tierra y les ayudaría a prevalecer: el factor determinante era la presencia del Señor, no el tamaño del ejército.",
+        "Que si el Señor se agradare de ellos, los llevaría a esa tierra: el factor era Su presencia, no el ejército.",
         "Que los habitantes de Canaán estaban debilitados por enfermedades y no representaban una amenaza real.",
         "Que la tierra era tan fértil que compensaba cualquier riesgo militar: valía la pena intentarlo por los beneficios."
       ],
@@ -82,7 +82,7 @@
       "id": 3,
       "question": "Los doce espías vieron exactamente las mismas ciudades y los mismos habitantes. Sin embargo, sus conclusiones fueron radicalmente distintas. ¿Qué factor, según la lección, determinó la diferencia entre los dos reportes?",
       "options": [
-        "El marco desde el que interpretaron los datos: los diez midieron el desafío con escala humana; Caleb y Josué lo midieron con la escala del Señor que había dividido el Mar Rojo.",
+        "El marco desde el que interpretaron los datos: los diez midieron el desafío con escala humana; Caleb y Josué, con la del Señor.",
         "Que Caleb y Josué recibieron una revelación privada del Señor que los otros diez no recibieron durante la exploración.",
         "Que los diez espías exploraron zonas más peligrosas de Canaán y vieron situaciones que Caleb y Josué no llegaron a ver.",
         "Que la experiencia previa en combate de Caleb y Josué les daba una perspectiva más realista sobre las posibilidades reales de éxito."
@@ -95,7 +95,7 @@
       "options": [
         "Que el miedo nunca tiene consecuencias en el largo plazo si eventualmente la persona se arrepiente de haberlo cedido.",
         "Que los grandes milagros solo ocurren cuando todo el pueblo tiene fe unánime, no cuando solo unos pocos confían.",
-        "Que cómo interpretamos los desafíos —desde el miedo o desde la fe en el Señor— determina las decisiones que tomamos, y esas decisiones tienen consecuencias reales y duraderas.",
+        "Que interpretar los desafíos desde el miedo o desde la fe determina las decisiones, y esas tienen consecuencias reales.",
         "Que el Señor castiga directamente a quienes muestran falta de fe enviándoles más dificultades como consecuencia inmediata."
       ],
       "correctAnswer": 2
@@ -109,7 +109,7 @@
         "Que avance con fe: el factor determinante no es solo su capacidad actual sino lo que el Señor puede hacer con ella si se esfuerza y confía.",
         "Que el Señor tiene un plan específico para ella y ese plan no incluye fracasos, así que puede avanzar sin miedo a las consecuencias."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 6,
@@ -128,10 +128,10 @@
       "options": [
         "Que la fe genuina nunca experimenta miedo; la presencia del miedo es siempre señal de falta de fe en el Señor.",
         "Que los tres tenían experiencias espirituales previas más intensas que el resto del pueblo, lo que explica su mayor confianza.",
-        "Que la fe activa —que mide la situación desde la perspectiva de un Dios que actúa— permite avanzar donde otros se paralizan, independientemente del género, el cargo o la experiencia.",
+        "Que la fe activa —que mide la situación desde la perspectiva de un Dios que actúa— permite avanzar donde otros se paralizan.",
         "Que el éxito de los tres dependió de haber persuadido al resto del pueblo de que los siguiera; sin ese apoyo colectivo, su fe individual no habría servido."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

@@ -69,7 +69,7 @@
       "id": 2,
       "question": "La lección propone que el Plan de Salvación es el marco desde el cual deben analizarse los temas difíciles del Evangelio. ¿Por qué ese marco específico y no simplemente el sentido común o la lógica?",
       "options": [
-        "Porque el Plan de Salvación incluye una perspectiva de eternidades —preterrenal, mortal y posmortal— que el sentido común limitado a la vida mortal no puede ofrecer.",
+        "Porque el Plan de Salvación abarca lo preterrenal, lo mortal y lo posmortal, algo que el sentido común no puede ofrecer.",
         "Porque el Plan de Salvación fue diseñado por el Padre Celestial para responder todas las preguntas posibles sobre el Evangelio.",
         "Porque usar el sentido común en asuntos espirituales siempre lleva a conclusiones erróneas que dañan la fe.",
         "Porque el Plan de Salvación es la única doctrina que todos los miembros tienen en común y puede servir como base compartida para el diálogo."
@@ -81,11 +81,11 @@
       "question": "La lección invita a adoptar una 'perspectiva eterna' al enfrentar preguntas difíciles sobre el Evangelio. ¿Qué hace esa perspectiva que simplemente 'tener más información' no puede hacer?",
       "options": [
         "La perspectiva eterna garantiza que la pregunta difícil tendrá una respuesta satisfactoria en el corto plazo.",
-        "La información puede resolver algunas preguntas, pero la perspectiva eterna transforma la manera de sostener las que no tienen respuesta inmediata, reemplazando la ansiedad por confianza.",
+        "La información resuelve algunas preguntas; la perspectiva eterna cambia cómo se sostienen las que no tienen respuesta.",
         "La perspectiva eterna es simplemente otra forma de tener más información, solo que organizada desde el marco del Plan de Salvación.",
         "La perspectiva eterna elimina la necesidad de buscar información porque todo se puede entender desde el marco doctrinal que ya se tiene."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 4,
@@ -96,7 +96,7 @@
         "Que el amor perfecto del Padre garantiza que eventualmente El explicará todo lo que permitió, aunque la explicación pueda tardar hasta la eternidad.",
         "Que las experiencias dolorosas que el Señor permite son siempre proporcionales al crecimiento que producen, lo que hace que valgan la pena en términos de beneficio espiritual."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -104,7 +104,7 @@
       "options": [
         "Que las políticas de la Iglesia son perfectas desde el inicio y lo que parece un cambio es en realidad una aclaración de algo que siempre fue así.",
         "Que debería investigar más sobre esos cambios históricos antes de intentar aplicar una perspectiva eterna al tema.",
-        "Que la perspectiva eterna distingue entre doctrina eterna —que no cambia— y políticas o procedimientos que el Señor puede ajustar según las necesidades de Su pueblo en cada época, como lo hizo en el Antiguo Testamento.",
+        "Que la perspectiva eterna distingue entre doctrina eterna, que no cambia, y políticas que el Señor ajusta en cada época.",
         "Que esa pregunta requiere respuesta de un líder con autoridad apostólica y no debería intentar resolverla por cuenta propia."
       ],
       "correctAnswer": 2
@@ -113,7 +113,7 @@
       "id": 6,
       "question": "Agustín no puede entender por qué el Señor permitió que su familia pasara por una prueba muy dolorosa si supuestamente los ama. La lección ofrece un principio concreto para sostener esa pregunta. ¿Cuál es?",
       "options": [
-        "Que confiar en que el Padre Celestial ve lo que él no puede ver —incluyendo el resultado de la prueba— permite sostener la pregunta sin que destruya la fe, aunque no la resuelva de inmediato.",
+        "Que confiar en que el Padre Celestial ve lo que él no puede ver permite sostener la pregunta sin que destruya la fe, aunque no la resuelva.",
         "Que las pruebas difíciles son siempre señal de que el Señor confía profundamente en la persona y la está preparando para algo mayor.",
         "Que el dolor de la prueba disminuirá naturalmente con el tiempo, y cuando eso ocurra la perspectiva eterna será más fácil de adoptar.",
         "Que debería estudiar los casos del Antiguo Testamento donde el Señor permitió pruebas similares para encontrar el patrón de respuesta que Dios usa."
@@ -125,11 +125,11 @@
       "question": "La Lección 163 enseñó a actuar con fe ante preguntas sin respuesta. Esta lección enseña a analizarlas con perspectiva eterna. Juntas forman un enfoque completo ante la duda. ¿Cuál es la diferencia de función entre el principio de cada lección?",
       "options": [
         "La Lección 163 aplica a dudas sobre conducta personal y esta a dudas sobre doctrina; son complementarias pero no se superponen.",
-        "La Lección 163 trata la actitud externa ante la duda —seguir actuando— y esta trata el marco mental desde el que se sostiene la duda; una es sobre qué hacer y la otra sobre cómo pensar.",
+        "La Lección 163 trata la actitud externa ante la duda —seguir actuando— y esta trata el marco mental desde el que se la sostiene.",
         "Ambas enseñan exactamente el mismo principio: que la fe es más importante que la información en el proceso de resolver dudas espirituales.",
         "Esta lección es más avanzada que la Lección 163 y está diseñada para quienes ya practicaron actuar con fe y necesitan un siguiente nivel de comprensión."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ]
 }

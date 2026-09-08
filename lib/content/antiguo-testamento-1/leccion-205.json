@@ -39,7 +39,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La Conferencia General es una de las bendiciones espirituales más extraordinarias de nuestra era: acceso gratuito, dos veces al año, a la voz del Señor a través de Sus profetas vivos. Aprovecharla plenamente requiere preparación, actitud de oración, y la disposición de actuar sobre lo que recibás. Esta semana, antes de la próxima Conferencia, escribí al menos una pregunta personal que llevarás al Señor esperando una respuesta."
+      "contenido": "La Conferencia General es una de las bendiciones espirituales más extraordinarias de nuestra era: acceso gratuito, dos veces al año, a la voz del Señor a través de Sus profetas vivos. Aprovecharla plenamente requiere preparación, actitud de oración, y la disposición de actuar sobre lo que recibás. Y no la escuches como quien junta buenos consejos: el trabajo de un profeta viviente es señalarte a Jesucristo, que es de quien viene el mensaje. Esta semana, antes de la próxima Conferencia, escribí al menos una pregunta personal que llevarás al Señor esperando una respuesta, y anotá lo que te venga mientras escuchás."
     },
     {
       "tipo": "cuestionario",
@@ -72,7 +72,7 @@
         "Que el Cuórum de los Doce delibera y vota los temas que se presentarán al pueblo.",
         "Que la Primera Presidencia orienta los mensajes con su sabiduría y experiencia combinada.",
         "Que un comité de comunicación determina los temas según las necesidades globales de la Iglesia.",
-        "Que escuchar a los siervos del Señor equivale a escuchar al Señor mismo: es Él quien dirige Su Iglesia y da la dirección."
+        "Que escuchar a los siervos del Señor equivale a escucharlo a Él, porque es Él quien dirige."
       ],
       "correctAnswer": 3
     },
@@ -82,10 +82,10 @@
       "options": [
         "Escribir las preguntas demuestra al Señor que el estudio es intencional y merece una respuesta más clara.",
         "Porque el manual de Seminario requiere evidencia escrita de la preparación previa a la conferencia.",
-        "Porque la escritura ayuda a clarificar lo que realmente se busca, hace la oración más específica y facilita reconocer la respuesta cuando llega.",
+        "Porque escribirlas clarifica lo que se busca, hace la oración más específica y ayuda a reconocer la respuesta.",
         "Porque las preguntas escritas pueden compartirse con el maestro de Seminario para recibir orientación adicional."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 4,
@@ -93,7 +93,7 @@
       "options": [
         "Permite recordar más citas textuales de los oradores para usarlas en conversaciones posteriores.",
         "Hace que la persona permanezca despierta durante toda la sesión sin distracciones externas.",
-        "Ilumina y confirma la verdad de lo que se escucha, y puede señalar qué mensaje es especialmente relevante para la situación personal del oyente.",
+        "Ilumina y confirma la verdad de lo que se escucha, y señala qué mensaje es relevante para el oyente.",
         "Garantiza que toda la familia presente pueda escuchar sin conflictos ni interrupciones durante las sesiones."
       ],
       "correctAnswer": 2
@@ -103,7 +103,7 @@
       "question": "Valentina ve la conferencia general como 'dos horas de discursos que no tienen nada que ver con mi vida'. Según el principio de preparación que enseña esta lección, ¿qué cambio podría transformar esa experiencia?",
       "options": [
         "Ver la conferencia con amigos para que el ambiente social haga el evento más atractivo y memorable.",
-        "Llevar preguntas reales de su vida a la conferencia y buscar activamente si algún discurso las responde, con el Espíritu como guía.",
+        "Llevar preguntas reales de su vida a la conferencia y buscar si algún discurso las responde, con el Espíritu.",
         "Elegir solo una sesión —la que tenga los oradores más conocidos— para no saturarse con tanto contenido.",
         "Leer los discursos escritos en lugar de ver la transmisión en vivo, porque la lectura permite mayor concentración."
       ],
@@ -116,7 +116,7 @@
         "Grabar toda la conferencia para poder revisarla después cuando tenga más tiempo disponible.",
         "Pedirle a alguien de la familia que tome notas por él para no perder el hilo de los discursos.",
         "Copiar textualmente cada discurso para tener un registro fiel de lo que cada orador dijo durante el evento.",
-        "Escribir las ideas que captan su atención durante la conferencia y pedirle al Señor que confirme cuáles son relevantes para él."
+        "Escribir las ideas que le llamen la atención y pedirle al Señor que confirme cuáles son para él."
       ],
       "correctAnswer": 3
     },
@@ -129,7 +129,7 @@
         "Que el Espíritu Santo actúa principalmente durante la escucha en vivo, y las otras dos etapas son complementos opcionales.",
         "Que prepararse, escuchar y estudiar son formas de honrar el llamado de los Apóstoles y Profetas como representantes del Señor."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

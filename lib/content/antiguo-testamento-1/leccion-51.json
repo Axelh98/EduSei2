@@ -40,7 +40,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El episodio del becerro de oro no es solo la historia de un fracaso colectivo. Es la historia de cómo Dios responde al fracaso con misericordia y segundas oportunidades. El Señor no reveló Su misericordia cuando Israel estaba en su mejor momento. La reveló en el peor. Eso es lo que hace que el arrepentimiento sea posible: no la perfección de tu actuación, sino el carácter inmutable de Dios."
+      "contenido": "El episodio del becerro de oro no es solo la historia de un fracaso colectivo. Es la historia de cómo Dios responde al fracaso con misericordia y segundas oportunidades. El Señor no reveló Su misericordia cuando Israel estaba en su mejor momento. La reveló en el peor. Eso es lo que hace que el arrepentimiento sea posible: no la perfección de tu actuación, sino el carácter inmutable de Dios. Y esa misericordia tiene un precio y un nombre: en Doctrina y Convenios 19 es el propio Cristo quien describe lo que Le costó dejarla disponible. Si venís arrastrando algo, llevaselo esta semana en oración en vez de seguir cargándolo solo."
     },
     {
       "tipo": "cuestionario",
@@ -94,10 +94,10 @@
       "options": [
         "Que el Señor le dio segundas tablas a Israel porque consideró que el pecado no había sido tan grave como parecía inicialmente.",
         "Que el convenio renovado en las segundas tablas era de menor exigencia que el original para adaptarse a la realidad del pueblo.",
-        "Que el Señor siempre está dispuesto a renovar el convenio con quien genuinamente se arrepiente; las segundas tablas son un símbolo de que hay camino de regreso.",
+        "Que el Señor siempre está dispuesto a renovar el convenio con quien se arrepiente; las segundas tablas son el camino de regreso.",
         "Que las primeras tablas fueron rotas para que las segundas, escritas por Moisés, tuvieran más valor espiritual que las escritas por el dedo de Dios."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
@@ -105,32 +105,32 @@
       "options": [
         "Que el nivel de su culpa actual es señal de que su arrepentimiento fue insuficiente y necesita hacer más antes de sentirse perdonada.",
         "Que el tiempo es el mejor sanador y eventualmente el sentimiento de 'ya no ser la misma' desaparecerá sin que tenga que hacer nada especial.",
-        "Que el mismo Señor que le dio a Israel segundas tablas le ofrece a ella también un convenio renovado; el arrepentimiento no la deja sin tablas sino que le da las segundas.",
+        "Que el mismo Señor que le dio a Israel unas segundas tablas le ofrece a ella un convenio renovado: el arrepentimiento le da las segundas.",
         "Que debería comparar su situación con la de Israel para ver que su error fue mucho menor y no necesita cargar con tanto peso emocional."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Tomás siente que 'Dios es estricto y no perdona los errores reales'. Éxodo 34:6–7 le presenta un retrato del carácter divino. ¿Cuál es el rasgo de ese retrato que más contradice directamente la creencia de Tomás?",
       "options": [
-        "Que el Señor es 'tardo para la ira' y 'grande en misericordia': no es el juez impaciente que Tomás imagina sino alguien que extiende perdón a quien se acerca con sinceridad.",
+        "Que el Señor es 'tardo para la ira' y 'grande en misericordia': no es el juez impaciente que imagina, sino quien perdona al que se acerca.",
         "Que el Señor es omnisciente y conoce todos los errores de Tomás, lo que paradójicamente hace que el perdón sea más significativo.",
         "Que la justicia del Señor garantiza que si Tomás hace lo correcto de ahora en adelante, los errores pasados serán borrados del registro.",
         "Que el Señor 'guarda misericordia a millares', lo que significa que hay muchas personas en peor situación que Tomás que también han recibido perdón."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "Israel rompió el convenio con el becerro de oro. El Señor proclamó Su misericordia y dio segundas tablas. Moisés intercedió por el pueblo apelando al carácter de Dios. ¿Cuál es el patrón sobre la intercesión y la misericordia que emerge de esos tres elementos juntos?",
       "options": [
         "Que la misericordia de Dios responde a la intercesión de los justos más que a las acciones de quienes pecaron directamente.",
-        "Que la misericordia divina está disponible cuando hay arrepentimiento genuino y alguien que intercede apelan do al carácter fiel de Dios, no solo a las reglas.",
+        "Que la misericordia divina está disponible cuando hay arrepentimiento genuino y alguien que intercede apelando al carácter de Dios.",
         "Que el Señor necesita ser persuadido por Sus siervos para extender misericordia, porque Su inclinación natural es hacia la justicia estricta.",
         "Que las segundas tablas representan una versión degradada del Evangelio diseñada para personas que demostraron no poder vivir el nivel más alto."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

@@ -40,7 +40,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La serpiente de bronce tenía una fuente: Jehová. Las instrucciones de la Pascua tenían una fuente: Jehová. Los mandamientos del Sinaí tenían una fuente: Jehová. El patrón del Antiguo Testamento es consistente: Dios siempre señaló fuentes autorizadas a través de las cuales comunicó Su voluntad. En nuestra era esas fuentes son las mismas —Escrituras, profetas vivientes, Espíritu Santo— y su autoridad no disminuye porque existan millones de otras fuentes disponibles."
+      "contenido": "La serpiente de bronce tenía una fuente: Jehová. Las instrucciones de la Pascua tenían una fuente: Jehová. Los mandamientos del Sinaí tenían una fuente: Jehová. El patrón del Antiguo Testamento es consistente: Dios siempre señaló fuentes autorizadas a través de las cuales comunicó Su voluntad. En nuestra era esas fuentes son las mismas —Escrituras, profetas vivientes, Espíritu Santo— y su autoridad no disminuye porque existan millones de otras fuentes disponibles. Y fijate quién habla en las tres: el Jehová que dio la ley en el Sinaí es Jesucristo antes de nacer. Esta semana, cuando te cruces con una afirmación fuerte sobre el Evangelio, preguntá en oración contra cuál de esas fuentes se sostiene, antes de darla por buena."
     },
     {
       "tipo": "cuestionario",
@@ -83,10 +83,10 @@
       "options": [
         "Porque las fuentes no autorizadas son siempre falsas y malintencionadas, mientras que las fuentes divinamente señaladas son siempre correctas.",
         "Porque la abundancia de información hace que sea más fácil que nunca encontrar la verdad sin necesitar fuentes autorizadas.",
-        "Porque una fuente puede contener información verdadera y útil sobre muchos temas pero carecer de la autoridad espiritual para guiar hacia la salvación, y confundir ambas cosas es peligroso.",
+        "Porque una fuente puede tener información verdadera sobre muchos temas y carecer de autoridad espiritual para guiar a la salvación.",
         "Porque el Señor solo bendice el estudio de fuentes que tienen aprobación oficial de la Iglesia, y otras fuentes bloquean la revelación."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
@@ -97,13 +97,13 @@
         "Que el profeta viviente tiene más autoridad que las Escrituras antiguas, por lo que debe seguirse su enseñanza sobre la impresión.",
         "Que es señal de que las Escrituras necesitan ser reinterpretadas para el contexto actual, y el Espíritu está dando esa reinterpretación."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Valentina tiene dudas sobre una doctrina de la Iglesia y las primeras fuentes que consultó fueron comentarios en YouTube y foros de internet. Según el principio de la lección, ¿qué debería cambiar en su proceso?",
       "options": [
-        "Consultar primero las fuentes divinamente señaladas —Escrituras, discursos de profetas, Gospel Topics Essays— y llevar lo que encuentre al Señor en oración antes de recurrir a otras fuentes.",
+        "Consultar primero las fuentes divinamente señaladas —Escrituras y discursos de profetas— y llevar lo que encuentre al Señor en oración.",
         "Dejar de buscar respuestas por su cuenta y llevar la pregunta directamente a su obispo para recibir una respuesta autorizada.",
         "Evitar completamente fuentes externas a la Iglesia porque todas carecen de la perspectiva espiritual necesaria para responder preguntas de fe.",
         "Buscar un equilibrio entre fuentes de la Iglesia y fuentes externas para tener una visión completa antes de formarse una opinión."
@@ -116,7 +116,7 @@
       "options": [
         "Si la fuente tiene suficientes seguidores como para ser considerada confiable en estos temas históricos.",
         "Si él mismo ha leído la respuesta de la Iglesia al mismo tema para poder presentar una perspectiva equilibrada.",
-        "Si esa fuente tiene autoridad espiritual para hablar sobre el Evangelio o si solo tiene credibilidad académica o popular, que son cosas distintas.",
+        "Si esa fuente tiene autoridad espiritual para hablar del Evangelio o solo credibilidad académica o popular.",
         "Si alguno de sus amigos podría sentirse perturbado por el contenido, para decidir si es apropiado compartirlo con ese grupo."
       ],
       "correctAnswer": 2
@@ -130,7 +130,7 @@
         "Que el patrón demuestra que el Señor prefería la obediencia ciega en la antigüedad, pero hoy espera que Sus hijos desarrollen discernimiento crítico independiente.",
         "Que las fuentes del Antiguo Testamento (Moisés, los profetas) tienen igual autoridad que las fuentes modernas (profetas vivientes) y pueden usarse indistintamente."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     }
   ]
 }

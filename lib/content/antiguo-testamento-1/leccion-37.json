@@ -19,6 +19,11 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa&id=p26#p26"
         },
         {
+          "referencia": "Abraham 2:9–11",
+          "texto": "Y haré de ti una nación grande y te bendeciré sobremanera, y engrandeceré tu nombre entre todas las naciones, y serás una bendición para tu descendencia después de ti, para que en sus manos lleven este ministerio y sacerdocio a todas las naciones. Y las bendeciré mediante tu nombre; pues cuantos reciban este evangelio serán llamados por tu nombre; y serán considerados tu descendencia, y se levantarán y te bendecirán como padre de ellos; y en tu descendencia después de ti serán bendecidas todas las familias de la tierra, sí, con las bendiciones del evangelio, que son las bendiciones de salvación, sí, de vida eterna.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=spa&id=p9-p11#p9"
+        },
+        {
           "referencia": "Santiago 1:22",
           "texto": "Sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=spa&id=p22#p22"
@@ -44,7 +49,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "Según el élder Larry R. Lawrence citado en esta lección de evaluación, ¿qué es más importante que la velocidad de nuestro progreso espiritual?",
+      "question": "Alma 5:26 no pregunta cuánta doctrina aprendiste, sino «¿podéis sentir eso ahora?». ¿Qué está midiendo esa pregunta?",
       "options": [
         "La cantidad de Escrituras que memorizamos durante el año de estudio.",
         "El número de actividades de la Iglesia a las que asistimos con regularidad.",
@@ -58,7 +63,7 @@
       "question": "Las lecciones de evaluación incluyen una imagen de dos árboles: uno joven y uno maduro. ¿Qué simboliza esa comparación en el contexto del crecimiento espiritual?",
       "options": [
         "Que los jóvenes tienen menos responsabilidad espiritual que los adultos de la Iglesia.",
-        "Que el crecimiento espiritual es un proceso gradual que requiere tiempo, esfuerzo y cuidado constante.",
+        "Que el crecimiento espiritual es un proceso gradual, que pide tiempo y cuidado constante.",
         "Que el árbol maduro representa al maestro de Seminario y el joven al alumno que aprende de él.",
         "Que el Evangelio es como la naturaleza: tiene estaciones de crecimiento y de descanso alternadas."
       ],
@@ -68,7 +73,7 @@
       "id": 3,
       "question": "Las lecciones de evaluación no tienen el objetivo de calificarte ni compararte con otros. ¿Cuál es entonces su propósito real dentro del programa de Seminario?",
       "options": [
-        "Hacer una pausa honesta para reconocer el propio crecimiento espiritual con la ayuda del Espíritu Santo.",
+        "Hacer una pausa honesta para reconocer tu propio crecimiento con ayuda del Espíritu Santo.",
         "Prepararte para los exámenes formales que el programa de Seminario aplica al final del año.",
         "Revisar qué contenido fue más popular entre los alumnos para planificar las próximas lecciones.",
         "Identificar qué alumnos necesitan atención adicional por parte del maestro de la clase."
@@ -81,19 +86,19 @@
       "options": [
         "Porque el conocimiento doctrinal es menos importante que los sentimientos en el proceso de conversión.",
         "Porque el Seminario no puede medir el conocimiento, pero sí puede medir los deseos mediante preguntas de reflexión.",
-        "Porque los convenios se viven desde el corazón; saber y querer son cosas distintas, y ambas importan para el crecimiento real.",
+        "Porque los convenios se viven desde el corazón; saber algo y quererlo son cosas distintas, y ambas importan.",
         "Porque los alumnos tienden a responder mejor las preguntas sobre deseos que las preguntas sobre datos específicos."
       ],
       "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "Rocío termina el bloque de Génesis sintiéndose 'igual que al principio' y piensa que no aprendió nada. El élder Lawrence enseña que la dirección importa más que la velocidad. ¿Qué podría hacer Rocío para evaluar su crecimiento real?",
+      "question": "Rocío termina el bloque de Génesis sintiéndose «igual que al principio» y piensa que no aprendió nada. Esta lección invita a revisar el cuaderno de estudio para notar evidencias concretas de crecimiento. ¿Qué podría hacer Rocío para evaluar su crecimiento real?",
       "options": [
         "Comparar sus respuestas actuales con las de sus compañeros para tener una referencia externa objetiva.",
-        "Preguntarse si su deseo de acercarse al Señor, guardar convenios y seguir aprendiendo creció aunque sea un poco.",
+        "Preguntarse si su deseo de acercarse al Señor y guardar convenios creció aunque sea un poco.",
         "Releer todas las lecciones del bloque desde el principio para asegurarse de haber captado el contenido.",
-        "Hablar con el maestro de Seminario para que le dé una evaluación honesta de su progreso como alumna."
+        "Hablar con el maestro para que le dé una evaluación honesta de su progreso."
       ],
       "correctAnswer": 1
     },
@@ -114,7 +119,7 @@
       "options": [
         "Porque esos temas son los más difíciles del programa y los alumnos necesitan un descanso antes de continuar.",
         "Porque el estudio de Génesis contiene la mayor cantidad de versículos del Dominio de la Doctrina del año.",
-        "Porque esos temas tocan decisiones eternas —convenios, familia, perdón— que no pueden quedarse solo en información; la evaluación invita a convertirlos en compromisos personales.",
+        "Porque esos temas tocan decisiones eternas —convenios, familia, perdón— que no pueden quedar solo en información.",
         "Porque el calendario del programa establece evaluaciones cada cierto número de semanas, independientemente del contenido estudiado."
       ],
       "correctAnswer": 2

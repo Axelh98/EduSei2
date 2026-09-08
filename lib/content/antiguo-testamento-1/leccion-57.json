@@ -74,7 +74,7 @@
         "Que la serpiente de bronce fue el símbolo más poderoso del Antiguo Testamento, por lo que Él lo eligió para describir Su propia misión.",
         "Que mirando a Cristo con fe, las personas podrían ser sanadas de sus enfermedades físicas tal como Israel fue sanado de las mordeduras."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 3,
@@ -85,13 +85,13 @@
         "Que el Evangelio necesita presentarse de maneras más complejas para que las personas lo tomen en serio en nuestra época.",
         "Que quienes rechazan el Evangelio por su sencillez nunca habrían creído de todas formas, independientemente de cómo se les presentara."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "La serpiente de bronce era el símbolo de la misma cosa que estaba matando al pueblo —pero levantada sobre un asta. ¿Qué enseña ese simbolismo aparentemente paradójico sobre la Expiación de Cristo?",
       "options": [
-        "Que Cristo tomó sobre Sí mismo el pecado —lo que estaba destruyendo a la humanidad— y al ser levantado en la cruz convirtió esa misma imagen en la fuente de la salvación.",
+        "Que Cristo tomó sobre Sí el pecado que destruía a la humanidad y al ser levantado lo volvió fuente de salvación.",
         "Que el Señor usa los símbolos del enemigo para confundirlo, una estrategia espiritual que también debemos aprender.",
         "Que el pecado y la gracia coexisten en el Evangelio sin resolverse completamente en esta vida mortal.",
         "Que la forma visual del sacrificio no importa mientras la intención del corazón sea sincera y el acto sea obediente."
@@ -104,17 +104,17 @@
       "options": [
         "Que quizás su arrepentimiento anterior no fue suficientemente profundo y necesita repetir el proceso con mayor intensidad.",
         "Que el proceso de arrepentimiento requiere tiempo proporcional a la gravedad del error, y quizás simplemente necesita esperar más.",
-        "Que el remedio es el mismo que para Israel: mirar a Cristo con fe —no resolver el problema con más esfuerzo propio— y confiar en que Su poder es suficiente para sanar lo que él no puede sanar solo.",
-        "Que debería hablar con un líder de la Iglesia que pueda confirmale si su arrepentimiento fue aceptado antes de seguir adelante."
+        "Que el remedio es el mismo que para Israel: mirar a Cristo con fe y confiar en que Su poder basta para sanar lo que él no puede.",
+        "Que debería hablar con un líder de la Iglesia que pueda confirmarle si su arrepentimiento fue aceptado antes de seguir adelante."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Rocío tiene un amigo que dice: 'El Evangelio me parece demasiado simple; necesito algo con más profundidad intelectual para creer.' Alma 33:20 habla de quienes murieron 'por la sencillez del camino'. ¿Cómo respondería la lección?",
       "options": [
         "Que el Evangelio también tiene complejidad doctrinal profunda que puede satisfacer la búsqueda intelectual; debería estudiar más antes de juzgarlo.",
-        "Que la sencillez del Evangelio no es superficialidad sino accesibilidad; quienes lo rechazan por 'demasiado simple' repiten el error de quienes murieron por no querer simplemente mirar la serpiente.",
+        "Que la sencillez del Evangelio no es superficialidad sino accesibilidad; rechazarlo por 'demasiado simple' repite el error de Israel.",
         "Que debería respetar la posición de su amigo y no insistir porque cada persona llega al Evangelio en su propio tiempo y manera.",
         "Que la Iglesia tiene programas de estudio avanzado que podrían satisfacer las necesidades intelectuales de su amigo antes de que tome una decisión definitiva."
       ],
@@ -125,11 +125,11 @@
       "question": "Israel murmuró, recibió consecuencias, se arrepintió, y el Señor proveyó un remedio sencillo que algunos no quisieron usar. ¿En qué se diferencia ese patrón del patrón del ciclo de Jueces (apostasía, opresión, clamor, liberación) y qué tiene de único el episodio de Números 21?",
       "options": [
         "No hay diferencia real: ambos patrones muestran que el Señor siempre libera a quien clama, independientemente de las circunstancias.",
-        "En el ciclo de Jueces el Señor envía un liberador externo; en Números 21 el remedio requiere una acción de fe personal e individual: nadie podía mirar por otro, cada persona debía hacer ese acto por sí misma.",
+        "En Jueces el Señor envía un liberador externo; en Números 21 el remedio pide una acción de fe individual: nadie podía mirar por otro.",
         "El ciclo de Jueces aplica a toda la nación y Números 21 aplica solo a los individuos que murmuran personalmente sin involucrar al pueblo.",
         "En Números 21 el Señor fue más rápido en responder porque el arrepentimiento del pueblo fue más sincero que en los ciclos de Jueces posteriores."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

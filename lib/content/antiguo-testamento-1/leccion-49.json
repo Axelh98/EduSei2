@@ -75,14 +75,14 @@
         "Porque el reposo físico semanal garantiza que el pueblo tenga energía suficiente para servir al Señor los otros seis días.",
         "Porque el Señor separó ese día antes de la creación del mundo y lo bendijo como el día más sagrado de toda la semana."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "El primer mandamiento dice 'No tendrás dioses ajenos delante de mí'. En el contexto del mundo actual, ¿qué formas podría tomar un 'dios ajeno' para un adolescente de 15 años?",
       "options": [
         "Solo las religiones que explícitamente adoran a deidades distintas del Dios de Israel y los Santos.",
-        "Cualquier cosa que ocupe el primer lugar en tiempo, atención y lealtad por encima del Señor: redes sociales, popularidad, la opinión de los demás o el entretenimiento.",
+        "Cualquier cosa que ocupe el primer lugar en tiempo y lealtad por encima del Señor: redes, popularidad.",
         "Las supersticiones y creencias folk que combinan elementos religiosos con prácticas culturales locales.",
         "Los libros, películas o músicos a los que se admira profundamente porque crean una forma de dependencia emocional."
       ],
@@ -97,7 +97,7 @@
         "Para demostrar que el Señor solo da mandamientos después de haber demostrado Su poder con milagros visibles.",
         "Porque el orden cronológico de los eventos históricos determina cómo deben interpretarse las leyes que derivan de ellos."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 5,
@@ -105,21 +105,21 @@
       "options": [
         "Que la santificación del sábado es un proceso gradual y Diego está en una etapa temprana de ese desarrollo espiritual.",
         "Que la santificación interior que Diego describe eventualmente se manifestará en cambios externos cuando esté listo.",
-        "Que hay una contradicción en su planteamiento: si el día fuera realmente sagrado para él, eso se vería en sus elecciones concretas, no solo en una actitud interior declarada.",
+        "Que hay una contradicción en su planteamiento: si el día fuera realmente sagrado, se vería en sus elecciones concretas.",
         "Que el presidente Nelson habla de adultos con más responsabilidades; para adolescentes hay más flexibilidad en cómo guardar el día de reposo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Valentina dice que obedece los mandamientos pero 'sin ganas', como si fueran una carga. La lección sugiere ver los mandamientos como guía de alguien que nos ama. ¿Qué cambio de perspectiva podría transformar esa experiencia?",
       "options": [
         "Recordar que los mandamientos tienen consecuencias serias si no se guardan, lo que hace que valga la pena el esfuerzo.",
-        "Entender que los mandamientos vienen del mismo Dios que la sacó de Egipto —o de cualquier esclavitud moderna— y fueron diseñados para llevarla hacia la libertad y la plenitud, no para limitarla.",
+        "Entender que los mandamientos vienen del mismo Dios que la sacó de Egipto y fueron diseñados para darle libertad.",
         "Comparar su obediencia con la de otros miembros más jóvenes para recordarse que sus esfuerzos son significativos.",
         "Pedirle al Señor que quite el peso emocional de los mandamientos para que guardarlos se sienta más natural."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
@@ -130,7 +130,7 @@
         "Que el resumen de Jesús simplificó los mandamientos para culturas que no podían cumplir los diez en toda su complejidad.",
         "Que los diez mandamientos y el resumen de Jesús son dos sistemas distintos de ética que se complementan pero no se pueden reducir el uno al otro."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ]
 }

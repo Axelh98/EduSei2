@@ -44,7 +44,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El Yom Kippur expresaba visualmente algo que las palabras apenas pueden contener: que el Señor no solo perdona los pecados, sino que los aleja de nosotros para siempre. El chivo no regresaba. Cristo tampoco regresa nuestros pecados perdonados. El mandamiento de amar al prójimo que cierra Levítico 19 no es una adición al sistema de expiación: es su consecuencia natural. Cuando entendés cuánto fuiste perdonado, amar a los demás se convierte en algo diferente."
+      "contenido": "El Yom Kippur expresaba visualmente algo que las palabras apenas pueden contener: que el Señor no solo perdona los pecados, sino que los aleja de nosotros para siempre. El chivo no regresaba. Cristo tampoco regresa nuestros pecados perdonados; Isaías lo dijo siglos antes: «Jehová cargó en él el pecado de todos nosotros». El mandamiento de amar al prójimo que cierra Levítico 19 no es una adición al sistema de expiación: es su consecuencia natural. Cuando entendés cuánto fuiste perdonado, amar a los demás se convierte en algo diferente. Esta semana, si hay algo que ya confesaste y seguís cargando, pedile en oración que te ayude a dejarlo ir."
     },
     {
       "tipo": "cuestionario",
@@ -96,23 +96,23 @@
       "id": 4,
       "question": "El mandamiento de Levítico 19:18 —'amarás a tu prójimo como a ti mismo'— aparece en una sección sobre la santidad del pueblo. ¿Qué conexión doctrinal establece esa ubicación entre la santidad personal y el amor al prójimo?",
       "options": [
-        "Que amar al prójimo es la consecuencia natural de haber recibido el perdón divino; quien ha experimentado la misericordia de Dios puede extenderla a los demás.",
+        "Que amar al prójimo es la consecuencia natural de haber recibido el perdón divino: quien recibió misericordia puede darla.",
         "Que la santidad personal es principalmente una cualidad interior que no necesariamente se manifiesta en las relaciones con otras personas.",
         "Que el amor al prójimo es más importante que cualquier ritual religioso y debería reemplazar las ordenanzas formales.",
         "Que la santidad del pueblo dependía de sus líderes religiosos, mientras que el amor al prójimo era responsabilidad individual."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Sofía se arrepintió de algo serio hace varios meses, habló con su obispo y recibió el perdón, pero todavía no puede 'sentir' que está perdonada. El Salmo 103:12 y el símbolo del chivo expiatorio hablan directamente a esa situación. ¿Qué le diría esta lección?",
       "options": [
         "Que el sentimiento de perdón llega solo después de un período adicional de prueba que demuestra que el arrepentimiento fue genuino.",
-        "Que la imagen del chivo que se aleja sin regresar y el oriente que no alcanza el occidente son imágenes de un perdón que ya ocurrió: no necesita un segundo sentimiento para confirmar lo que el Señor ya hizo.",
+        "Que el chivo que se aleja sin regresar y el oriente que no alcanza el occidente muestran un perdón que ya ocurrió.",
         "Que debería hablar nuevamente con su obispo para que le confirme que el proceso de perdón fue completo y válido.",
         "Que la ausencia de sentimiento de perdón podría ser una señal de que necesita pasar por el proceso de arrepentimiento nuevamente."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -120,7 +120,7 @@
       "options": [
         "Que el perdón interior es suficiente si la relación fue dañada de manera irreparable; no todas las relaciones deben restaurarse.",
         "Que debería consultar con un consejero para determinar si la situación es lo suficientemente grave como para justificar el alejamiento.",
-        "Que 'amar al prójimo como a sí mismo' incluye un componente de trato activo, no solo una actitud interna; el mandamiento tiene dimensión relacional concreta.",
+        "Que «amar al prójimo como a sí mismo» incluye trato activo, no solo actitud interna: tiene dimensión relacional.",
         "Que el perdón genuino siempre resulta en la restauración completa de la relación, sin excepciones."
       ],
       "correctAnswer": 2
@@ -131,10 +131,10 @@
       "options": [
         "El primero representa la justicia y el segundo la misericordia; juntos muestran que la Expiación satisface ambas a la vez.",
         "El primero representa el Getsemaní y el segundo la Resurrección; los dos momentos clave del sacrificio expiatorio.",
-        "El primero representa el sacrificio de Cristo que paga el precio del pecado; el segundo representa que ese mismo Cristo toma los pecados y los elimina completamente, sin que regresen.",
+        "El primero representa el sacrificio de Cristo que paga el precio del pecado; el segundo, que Él los elimina sin que regresen.",
         "El primero representa la obediencia de Cristo al Padre y el segundo representa la libertad que la Expiación da a los que se arrepienten."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

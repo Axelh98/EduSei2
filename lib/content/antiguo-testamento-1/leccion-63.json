@@ -82,7 +82,7 @@
       "question": "Josué advirtió al pueblo: 'No podréis servir a Jehová' (Josué 24:19), después de que ellos prometieron que lo harían. ¿Por qué esa advertencia, en lugar de simplemente aceptar su compromiso?",
       "options": [
         "Porque Josué desconfiaba de la sinceridad del pueblo después de décadas de ver sus inconsistencias en el desierto.",
-        "Porque el Señor es santo y el compromiso con Él es exigente; Josué quería que entendieran el peso real de lo que prometían antes de comprometerse.",
+        "Porque el Señor es santo y el compromiso con Él es exigente; Josué quería que entendieran el peso de lo que prometían.",
         "Porque la ley de Moisés era tan compleja que ningún pueblo podía guardarla completamente sin ayuda sobrenatural continua.",
         "Porque Josué sabía que moriría pronto y quería dejar al pueblo con una advertencia que los mantuviera humildes después de su muerte."
       ],
@@ -108,18 +108,18 @@
         "Que la decisión de servir al Señor es más fácil de tomar cuando se es joven porque hay menos compromisos que dificulten el camino.",
         "Que el Señor respeta el tiempo de cada persona y no exige una decisión en un momento en que todavía no hay claridad suficiente."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Mateo dice que sirve al Señor los domingos pero el resto de la semana 'vive como cualquier otro'. Josué 24:15 plantea la elección como algo que define toda la vida, no solo un día. ¿Qué le diría esa perspectiva?",
       "options": [
         "Que servir al Señor en el contexto familiar y religioso los domingos es lo esencial; las decisiones del resto de la semana son de naturaleza diferente.",
-        "Que la elección de Josué no era sobre asistencia a ceremonias sino sobre a quién se obedece cuando nadie mira; la fidelidad que no cubre la semana entera no es fidelidad completa.",
+        "Que la elección de Josué no era sobre ceremonias sino sobre a quién se obedece cuando nadie mira; la fidelidad parcial no es fidelidad.",
         "Que reducir el servicio al Señor a un día es una etapa natural en el desarrollo de la fe y con el tiempo se expandirá a otros días.",
         "Que el Señor acepta la fidelidad parcial porque entiende las presiones del mundo y no espera que los adolescentes sean perfectamente consistentes."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 7,

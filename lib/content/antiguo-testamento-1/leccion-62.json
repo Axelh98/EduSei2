@@ -39,7 +39,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Rahab y los sacerdotes de Josué comparten algo: actuaron antes de tener garantías. Uno escondió espías sin saber si sobreviviría. Los otros entraron a un río crecido sin saber exactamente cuándo se abriría. Y en ambos casos el Señor respondió con fidelidad y poder. La fe no es certeza; es acción sin certeza. Esta semana, identificá el 'Jordán' que el Señor te está pidiendo que cruces y decidí meter los pies en el agua."
+      "contenido": "Rahab y los sacerdotes de Josué comparten algo: actuaron antes de tener garantías. Una escondió espías sin saber si sobreviviría. Los otros entraron a un río crecido sin saber exactamente cuándo se abriría. Y en ambos casos el Señor respondió con fidelidad y poder. La fe no es certeza; es acción sin certeza, y por eso Moroni escribió que no se recibe testimonio sino hasta después de la prueba de la fe. El mismo Señor que detuvo el Jordán es el que te acompaña hoy. Esta semana, identificá el «Jordán» que el Señor te está pidiendo que cruces, pedile ayuda en oración y decidí meter los pies en el agua."
     },
     {
       "tipo": "cuestionario",
@@ -96,18 +96,18 @@
         "Que Rahab es un caso excepcional que demuestra la misericordia extrema del Señor, pero no representa un principio general.",
         "Que el Señor planificó desde antes que Rahab fuera incluida en la genealogía de Cristo, lo que justifica cualquier medio que ella usó."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Lucía quiere mejorar su relación con el Señor pero dice: 'Tengo demasiado pasado negativo; alguien como yo no puede formar parte de la historia del Señor.' El ejemplo de Rahab habla directamente a esa creencia. ¿Qué le diría?",
       "options": [
         "Que el pasado de Rahab fue perdonado porque actuó heroicamente, y Lucía también puede hacerlo si encuentra la oportunidad correcta.",
-        "Que el Señor incluye en Su historia a personas como Rahab —con pasado complejo— cuando eligen confiar en Él y actuar con fe; el pasado no descalifica a nadie del presente.",
+        "Que el Señor incluye en Su historia a personas como Rahab cuando eligen confiar en Él y actuar con fe; el pasado no descalifica.",
         "Que el ejemplo de Rahab es uno de los casos más extremos y su situación personal probablemente no requiere tanto contraste.",
         "Que lo importante no es el pasado sino el futuro; si Lucía se compromete ahora con el Señor, el pasado dejará de ser relevante."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -118,7 +118,7 @@
         "Que la experiencia de hablar en público se acumula con el tiempo y no debe esperar un milagro para la primera vez.",
         "Que debería pedir al obispo que le permita posponer el discurso hasta que se sienta más preparado y con menos miedo."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 7,
@@ -129,7 +129,7 @@
         "Que la fe de Rahab fue mayor que la de los sacerdotes porque ella actuó sin haber visto ninguno de los milagros previos de Israel.",
         "Que los memoriales físicos como las doce piedras son la principal manera en que el Señor preserva la fe entre generaciones."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

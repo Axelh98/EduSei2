@@ -89,27 +89,27 @@
       "options": [
         "Que las revelaciones que llegan solo a la mente son más confiables que las que llegan solo al corazón.",
         "Que la revelación que involucra la mente es doctrinal mientras que la del corazón es siempre de naturaleza emocional.",
-        "Que cuando una impresión es solo mental puede ser un pensamiento propio, pero cuando involucra tanto la mente como el corazón la posibilidad de que sea revelación aumenta.",
+        "Que una impresión solo mental puede ser un pensamiento propio; cuando involucra mente y corazón, es más probable que sea revelación.",
         "Que la revelación a la mente es suficiente para tomar decisiones, y el corazón se involucra solo en decisiones especialmente importantes."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "La lección enseña que reconocer las diferentes maneras en que el Espíritu se comunica ayuda a recibir revelación. ¿Por qué no reconocer esas formas puede llevar a perder revelaciones reales?",
       "options": [
-        "Porque una persona que solo espera sentir emociones intensas puede ignorar los pensamientos claros o la paz que el Espíritu también usa para comunicarse.",
+        "Porque quien solo espera emociones intensas puede ignorar los pensamientos claros o la paz que el Espíritu usa.",
         "Porque el Espíritu solo se comunica de una manera específica por persona y hay que descubrir cuál es la propia.",
         "Porque las formas del Espíritu cambian con la edad y lo que funcionaba de adolescente no sirve de adulto.",
         "Porque quien no conoce las formas del Espíritu terminará confundiendo revelación con intuición humana en todos los casos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Lucía dice: 'Nunca escucho nada cuando oro; creo que no funciona para mí.' Según el principio de 3 Nefi 11 y de D&C 8:2, ¿qué podría estar pasando por alto?",
       "options": [
-        "Que la revelación personal requiere preparar el corazón y estar atenta a formas sutiles como pensamientos, paz o impresiones, no solo esperar una voz audible.",
+        "Que la revelación personal pide preparar el corazón y atender formas sutiles —pensamientos, paz, impresiones—, no solo una voz audible.",
         "Que debería orar más tiempo cada día porque la cantidad de oración está directamente relacionada con la frecuencia de la revelación.",
         "Que posiblemente hay algo en su vida que está bloqueando la revelación y necesita arrepentirse antes de que el Señor le hable.",
         "Que la revelación personal no es para todos en la misma medida y ella probablemente recibe guía de otras maneras que no reconoce como revelación."
@@ -122,7 +122,7 @@
       "options": [
         "Que debería pedir una bendición patriarcal específica sobre su carrera antes de tomar cualquier decisión definitiva.",
         "Que debería consultar con su obispo, ya que las decisiones sobre educación requieren orientación de liderazgo local.",
-        "Que la revelación de D&C 9 requiere estudiar el asunto primero en la mente, formular una propuesta concreta, y luego preguntar al Señor; esperar sin actuar no es el proceso correcto.",
+        "Que D&C 9 pide estudiar el asunto primero en la mente, formular una propuesta concreta y recién entonces preguntar al Señor.",
         "Que el Señor ya le dio la respuesta pero él no la reconoció porque estaba buscando algo más espectacular de lo que el Espíritu normalmente usa."
       ],
       "correctAnswer": 2
@@ -136,7 +136,7 @@
         "Que la voz apacible, la mente y el corazón son tres canales separados que el Señor usa en distintas circunstancias según lo que necesita comunicar.",
         "Que el proceso de D&C 9 es para decisiones importantes, mientras que 3 Nefi 11 describe cómo funciona la revelación para el pueblo en general."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

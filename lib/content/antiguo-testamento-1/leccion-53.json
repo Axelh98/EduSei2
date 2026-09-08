@@ -40,7 +40,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Los sacrificios de Levítico no eran rituales vacíos. Eran lecciones visuales repetidas semana a semana, año a año, sobre la realidad del pecado y la necesidad de un Redentor. Cuando ese Redentor llegó y cumplió todo lo que los sacrificios simbolizaban, instituyó el nuevo sacrificio: un corazón quebrantado y un espíritu contrito. Ese es el sacrificio que el Señor sigue pidiendo hoy. Esta semana, ofrecele eso."
+      "contenido": "Los sacrificios de Levítico no eran rituales vacíos. Eran lecciones visuales repetidas semana a semana, año a año, sobre la realidad del pecado y la necesidad de un Redentor. Adán mismo los ofrecía sin entender por qué, hasta que un ángel se lo explicó: eran «una semejanza del sacrificio del Unigénito del Padre». Cuando ese Redentor llegó y cumplió todo lo que los sacrificios simbolizaban, instituyó el nuevo sacrificio: un corazón quebrantado y un espíritu contrito. Ese es el sacrificio que el Señor sigue pidiendo hoy, y es el único que cualquiera puede ofrecer. Esta semana, ofrecele eso en oración, y anotá qué te pide rendirle."
     },
     {
       "tipo": "cuestionario",
@@ -92,12 +92,12 @@
       "id": 4,
       "question": "Los sacrificios de Levítico eran repetidos continuamente: diariamente, semanalmente, mensualmente, anualmente. ¿Qué limitación de esos sacrificios repetidos señalaba indirectamente la necesidad de una Expiación diferente?",
       "options": [
-        "Que el sacrificio del Salvador tendría que realizarse 'una vez para siempre' (Hebreos 9:12) porque ninguna repetición podía cubrir el pecado permanentemente.",
+        "Que el sacrificio del Salvador tendría que ser 'una vez para siempre', porque ninguna repetición cubría el pecado.",
         "Que los animales disponibles eran insuficientes para mantener el ritmo de sacrificios requerido por toda la nación.",
         "Que los sacerdotes cometían errores en la administración de los ritos, lo que hacía que algunos sacrificios fueran inválidos.",
         "Que el costo económico de los sacrificios era demasiado alto para las familias israelitas más pobres."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
@@ -105,16 +105,16 @@
       "options": [
         "Que debería pedir una explicación a su obispo antes de comprometerse a obedecer mandamientos que no entiende.",
         "Que estudiar más sobre el origen histórico de los mandamientos le ayudaría a entenderlos antes de seguirlos.",
-        "Que confiar en el Señor y obedecer aunque no se entienda completamente es también un acto de fe; el entendimiento a menudo viene después de la obediencia, no antes.",
+        "Que confiar en el Señor y obedecer aunque no se entienda es también un acto de fe; el entendimiento viene después.",
         "Que los mandamientos que no se entienden son probablemente de menor importancia y pueden esperar hasta tener más madurez espiritual."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "3 Nefi 9:19–20 indica que el Señor ya no pide sacrificios de animales sino 'un corazón quebrantado y un espíritu contrito'. ¿Qué significa eso en términos prácticos para Lucía, que siente que 'no tiene nada valioso que ofrecerle al Señor'?",
       "options": [
-        "Que lo que el Señor más valora no son logros ni dones externos sino la disposición honesta a rendirle la voluntad propia, algo que cualquier persona puede ofrecer.",
+        "Que lo que el Señor más valora no son logros ni dones externos sino la disposición honesta a rendirle la voluntad.",
         "Que debería buscar maneras de servir en la Iglesia para compensar la falta de otras ofrendas más visibles.",
         "Que el corazón quebrantado es una señal de debilidad espiritual que necesita ser sanado antes de poder acercarse al Señor con confianza.",
         "Que el Señor comprende sus limitaciones actuales y no espera nada de ella hasta que esté en mejor posición de dar."
@@ -125,12 +125,12 @@
       "id": 7,
       "question": "Levítico establece cinco tipos de ofrendas: holocausto, paz, pecado, culpa y cereales. Cada una aborda un aspecto distinto de la relación entre el ser humano y Dios. ¿Qué dice esa variedad sobre la naturaleza de la Expiación de Cristo que prefiguraban?",
       "options": [
-        "Que la Expiación de Cristo es suficientemente amplia para cubrir adoración, comunión, pecado, culpa y gratitud: toda la dimensión de la relación rota entre el ser humano y Dios.",
+        "Que la Expiación de Cristo es suficientemente amplia para cubrir adoración, comunión, pecado, culpa y gratitud ante Dios.",
         "Que las cinco ofrendas representan las cinco etapas del proceso de arrepentimiento que Cristo establecería en el Nuevo Testamento.",
         "Que la variedad de ofrendas refleja la diversidad de culturas dentro de Israel que tenían distintas formas de adorar.",
         "Que Cristo instituyó cinco ordenanzas del Evangelio como equivalentes espirituales de los cinco tipos de ofrenda levítica."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

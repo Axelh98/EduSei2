@@ -85,7 +85,7 @@
       "id": 3,
       "question": "La guía invita a preguntar: '¿Mi uso de la tecnología ayuda o perjudica las relaciones que tengo con los demás?' ¿Por qué esa pregunta apunta específicamente a las relaciones?",
       "options": [
-        "Porque el Evangelio centra el propósito de la vida en las relaciones —con Dios y con los demás— y la tecnología debe servir a ese propósito, no competir con él.",
+        "Porque el Evangelio centra el propósito de la vida en las relaciones con Dios y con los demás, no en la tecnología.",
         "Porque las relaciones son el único indicador objetivo y medible de si usamos bien o mal la tecnología.",
         "Porque el tiempo y el contenido son difíciles de medir objetivamente, pero el efecto en las relaciones es siempre visible.",
         "Porque la tecnología afecta principalmente las relaciones sociales y tiene poco efecto real en la vida espiritual individual."
@@ -107,7 +107,7 @@
       "id": 5,
       "question": "Agustín pasa tres o cuatro horas diarias en TikTok. Cuando cierra la aplicación, se siente vacío, irritable y sin ganas de orar o estudiar. Según la lección, ¿qué está describiendo esa experiencia?",
       "options": [
-        "Una señal de que la aplicación está 'adormeciendo su sensibilidad al Espíritu' y debería reconsiderar seriamente su uso.",
+        "Una señal de que la aplicación está adormeciendo su sensibilidad al Espíritu y debería revisar su uso.",
         "Fatiga normal por el esfuerzo mental que requiere consumir contenido digital en forma constante.",
         "Una respuesta esperada y temporal que desaparece con el tiempo a medida que se acostumbra al contenido.",
         "Un problema médico de atención o concentración que debería consultar con un profesional de salud."
@@ -118,12 +118,12 @@
       "id": 6,
       "question": "Rocío usa sus redes sociales principalmente para compararse con otras personas y termina cada vez sintiéndose insuficiente y triste. ¿Cuál sería un primer paso concreto y coherente con el principio de actuar según las impresiones del Espíritu?",
       "options": [
-        "Identificar qué cuentas o hábitos específicos le generan ese sentimiento y tomar una decisión intencional sobre ellos —dejar de seguir, limitar el tiempo o cambiar cómo las usa.",
+        "Identificar qué cuentas o hábitos le generan ese sentimiento y decidir con intención qué hacer con ellos.",
         "Seguir a más personas inspiradoras para reemplazar el contenido negativo con contenido más positivo y edificante.",
         "Dejar las redes sociales permanentemente, ya que han demostrado ser perjudiciales para su bienestar emocional.",
         "Compartir más contenido propio en sus redes para sentirse más segura de sí misma y de sus logros."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 7,

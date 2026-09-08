@@ -86,7 +86,7 @@
       "id": 3,
       "question": "Deuteronomio 6:7 instruye a hablar estas palabras a los hijos 'estando en tu casa, y andando por el camino, y al acostarte, y cuando te levantes'. ¿Qué modelo de enseñanza religiosa establece esa instrucción?",
       "options": [
-        "Que el amor a Dios no puede compartimentarse en momentos 'religiosos'; debe impregnar las conversaciones de la vida cotidiana en todos sus contextos.",
+        "Que el amor a Dios no puede compartimentarse en momentos 'religiosos'; debe impregnar las conversaciones cotidianas.",
         "Que las familias deben tener sesiones formales de estudio religioso en cada una de esas cuatro instancias del día.",
         "Que los momentos más eficaces para la enseñanza espiritual son los de transición —al levantarse y al acostarse— por su carga emocional.",
         "Que la responsabilidad de la educación religiosa recae principalmente en los padres y los hijos son receptores pasivos de esa enseñanza."
@@ -98,11 +98,11 @@
       "question": "Jesús citó Deuteronomio 6:5 cuando le preguntaron cuál era el primer gran mandamiento. Al conectar ese versículo con el segundo —'amarás a tu prójimo'— dijo que 'de estos dos mandamientos depende toda la ley'. ¿Qué implica eso sobre la estructura interna de todos los demás mandamientos?",
       "options": [
         "Que los dos mandamientos del amor a Dios y al prójimo son más importantes que todos los demás juntos y pueden reemplazarlos.",
-        "Que los demás mandamientos son derivaciones específicas de esos dos principios: todos se pueden entender como aplicaciones del amor a Dios o del amor al prójimo.",
+        "Que los demás mandamientos son derivaciones específicas de esos dos: todos se entienden como aplicaciones del amor a Dios o al prójimo.",
         "Que los mandamientos específicos —como el sábado o la honestidad— son secundarios y pueden ignorarse si se está cumpliendo bien con el amor.",
         "Que el amor a Dios y al prójimo son condiciones previas que deben cumplirse antes de poder guardar los mandamientos específicos correctamente."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
@@ -110,7 +110,7 @@
       "options": [
         "Que el amor de Dios es incondicional y no depende de los hábitos espirituales; puede amarlo sin practicarlos.",
         "Que el amor a Dios se demuestra sobre todo en el trato a quienes nos rodean, no en las prácticas espirituales personales.",
-        "Que acordarse de Él es la respuesta natural a saberse amado: la oración y el estudio dejan de ser una obligación y pasan a ser la forma de corresponder ese amor.",
+        "Que acordarse de Él es la respuesta natural a saberse amado: orar y estudiar dejan de ser una obligación impuesta.",
         "Que si Nicolás orara con más frecuencia sentiría más amor de Dios, y eso crearía un ciclo positivo de motivación."
       ],
       "correctAnswer": 2
@@ -120,7 +120,7 @@
       "question": "Sofía tiene miedo de que sus errores pasados hayan dañado su relación con Dios de forma permanente. Deuteronomio 6:5 le pide amar a Dios con todo el corazón, y el élder Nattress testifica que Él la ama perfectamente. ¿Qué verdad podría cambiar su perspectiva?",
       "options": [
         "Que el amor de Dios hacia ella es proporcional a su fidelidad actual, así que si mejora ahora su relación puede restaurarse.",
-        "Que el amor de Él viene primero: Dios ya se acuerda de ella y la ama perfectamente, antes de que ella haga nada para 'merecerlo'.",
+        "Que el amor de Él viene primero: ya se acuerda de ella y la ama perfectamente, antes de que haga nada.",
         "Que el daño de los errores pasados necesita tiempo y esfuerzo sostenido antes de repararse del todo.",
         "Que necesita completar un proceso formal de arrepentimiento antes de poder sentir el amor de Dios."
       ],
@@ -133,7 +133,7 @@
         "Que el amor entre Dios y Sus hijos es una obligación mutua: Él cumple Su parte y nosotros la nuestra mediante la obediencia.",
         "Que ambos amores pesan igual en la relación: el de Dios hacia nosotros y el nuestro hacia Él.",
         "Que conocer el amor de Dios elimina el esfuerzo de guardar los mandamientos, porque la obediencia se vuelve automática.",
-        "Que el amor de Dios hacia nosotros es el fundamento que hace posible el amor que le devolvemos: no es una transacción, sino una relación que Él inicia."
+        "Que el amor de Dios hacia nosotros es el fundamento del amor que le devolvemos: Él inicia la relación."
       ],
       "correctAnswer": 3
     }

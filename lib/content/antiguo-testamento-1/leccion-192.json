@@ -82,17 +82,17 @@
       "options": [
         "Que debes leer los libros escolares en voz alta, línea por línea, para mayor comprensión.",
         "Que el Señor solo te ayuda si cumples primero con una cuota mínima de horas de estudio propio.",
-        "Que el aprendizaje es gradual: el Señor da dirección a medida que actuás con fe en cada paso pequeño, no todo de golpe.",
+        "Que el aprendizaje es gradual: el Señor da dirección a medida que actuás con fe, de a poco.",
         "Que debes estudiar una sola materia a la vez de manera completamente lineal, sin saltar temas."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "La lección invita a pedir al Señor cosas muy específicas relacionadas con la escuela, como 'el valor de hacer preguntas en clase'. ¿Por qué esa especificidad en la oración es importante?",
       "options": [
         "Porque el Señor solo responde oraciones que incluyen peticiones muy detalladas y concretas.",
-        "Porque orar sobre necesidades concretas del estudio muestra al Señor que realmente incluimos nuestra vida escolar en nuestra relación con Él.",
+        "Porque orar sobre necesidades concretas del estudio incluye la vida escolar en la relación con Él.",
         "Porque las peticiones generales como 'ayúdame en la escuela' no tienen suficiente poder espiritual.",
         "Porque el Señor necesita información detallada para saber exactamente dónde intervenir en nuestra educación."
       ],
@@ -107,7 +107,7 @@
         "Que debería pedirle al Espíritu Santo que le revele las preguntas exactas que tendrá el examen.",
         "Que la oración antes de un examen no es tan efectiva como la oración durante el proceso de estudio previo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -118,18 +118,18 @@
         "Que cambie las circunstancias de la clase para que el profesor explique el tema de una manera que él pueda entender mejor.",
         "Que haga que las matemáticas le resulten innecesarias, ya que el Señor puede guiarlo hacia una carrera donde no las use."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "Esta lección enseña que el Señor puede ayudar en los estudios académicos, y la Lección 188 enseña que la educación es un principio del Evangelio. ¿Cómo se complementan esas dos verdades?",
       "options": [
-        "La primera explica el cómo recibir ayuda divina en el estudio; la segunda explica el por qué estudiar importa eternamente. Juntas forman una visión completa del aprendizaje como acto de fe.",
+        "La primera explica cómo recibir ayuda divina en el estudio; la segunda, por qué estudiar importa eternamente. Juntas se completan.",
         "Ambas lecciones enseñan exactamente lo mismo con diferentes ejemplos: que el Señor valora la educación académica tanto como la espiritual.",
         "La Lección 188 es más fundamental porque sin el por qué, la Lección 192 sobre el cómo pierde su base doctrinal.",
         "Son complementarias solo para los jóvenes que planean ir a la universidad; para quienes no planean hacerlo, la Lección 192 es más relevante."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     }
   ]
 }

@@ -40,7 +40,7 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El maná del desierto enseñó a Israel a depender de Dios un día a la vez. El Pan de Vida que es Jesucristo enseña la misma lección espiritual: no es posible vivir de la espiritualidad de ayer. La fe que sostuvo a Israel en el desierto —diaria, humilde, confiada— es la misma que nos sostiene hoy. Esta semana, establecé un hábito diario —aunque sea pequeño— de 'recoger tu maná' antes de que el día empiece."
+      "contenido": "El maná del desierto enseñó a Israel a depender de Dios un día a la vez. El Pan de Vida que es Jesucristo enseña la misma lección espiritual: no es posible vivir de la espiritualidad de ayer. La fe que sostuvo a Israel en el desierto —diaria, humilde, confiada— es la misma que nos sostiene hoy. Esta semana, establecé un hábito diario —aunque sea pequeño— de «recoger tu maná» antes de que el día empiece. Y cuando falles un día, no vuelvas a cero ni te castigues: el maná caía de nuevo a la mañana siguiente, sin reproche, y así funciona también Su gracia."
     },
     {
       "tipo": "cuestionario",
@@ -95,7 +95,7 @@
         "Que el Señor no puede proveer en el día de reposo por las leyes que Él mismo estableció desde la creación.",
         "Que el sábado era principalmente un día de prueba para ver si el pueblo tenía suficiente fe para confiar en la doble porción del día anterior.",
         "Que el trabajo del sexto día era más abundante para compensar el descanso del séptimo, enseñando equilibrio.",
-        "Que el Señor proveyó de antemano para que el día de reposo pudiera guardarse sin ansiedad por las necesidades; santificar ese día era compatible con ser sostenido."
+        "Que el Señor proveyó de antemano para que el día de reposo pudiera guardarse sin ansiedad por las necesidades."
       ],
       "correctAnswer": 3
     },
@@ -104,11 +104,11 @@
       "question": "Rocío dice: 'No tengo tiempo para orar ni estudiar las Escrituras todos los días; hago lo que puedo y el Señor entiende.' Usando el principio del maná, ¿cuál es la respuesta más honesta que le daría esta lección?",
       "options": [
         "Que el Señor efectivamente entiende y la fe sincera aunque irregular es suficiente para mantener la conexión espiritual.",
-        "Que la espiritualidad no funciona con acumulación: cada día que pasa sin esa conexión es un día sin 'maná', independientemente de lo ocupada que esté.",
+        "Que la espiritualidad no funciona con acumulación: cada día que pasa sin esa conexión es un día sin 'maná' recogido.",
         "Que debería establecer un tiempo mínimo de cinco minutos por día, que es suficiente para mantener la conexión con el Señor.",
         "Que estudiar los fines de semana de manera más intensa puede compensar los días de semana en que no tiene tiempo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -116,7 +116,7 @@
       "options": [
         "Que debería cambiar de tipo de estudio porque el formato actual claramente no le funciona a su estilo de aprendizaje.",
         "Que la sensación de 'no diferencia' es una señal de que su oración y su estudio no son todavía lo suficientemente profundos.",
-        "Que el maná alimentaba al pueblo aunque no siempre sintieran la nutrición en el momento de comerlo; la espiritualidad diaria trabaja muchas veces de manera invisible antes de ser evidente.",
+        "Que el maná alimentaba aunque no siempre sintieran la nutrición al comerlo; lo diario trabaja de forma invisible.",
         "Que tres semanas es poco tiempo; el Señor responde siempre en Su propio tiempo, que puede ser meses o años."
       ],
       "correctAnswer": 2
@@ -126,7 +126,7 @@
       "question": "El maná sostenía el cuerpo de Israel un día a la vez, y Jesús se declaró el Pan de Vida que sostiene el alma para la eternidad. El élder D. Todd Christofferson enseñó que la nutrición espiritual es tan necesaria como la física. ¿Qué dice esa cadena de verdades sobre los hábitos espirituales diarios?",
       "options": [
         "Que cada verdad corresponde a una época distinta: el maná al Antiguo Testamento, Jesús al Nuevo, y los hábitos diarios a la nuestra.",
-        "Que la nutrición espiritual diaria no es una recomendación opcional sino una necesidad real, igual que el maná en el desierto, y que Jesucristo es la fuente de ese sustento.",
+        "Que la nutrición espiritual diaria no es opcional sino una necesidad real, y Jesucristo es la fuente de ese sustento.",
         "Que el Señor da formas distintas de sustento espiritual en cada dispensación, adaptadas a las necesidades de cada época.",
         "Que el sustento espiritual diario pesa sobre todo en quienes tienen llamamientos de liderazgo en la Iglesia."
       ],

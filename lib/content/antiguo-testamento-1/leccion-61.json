@@ -85,7 +85,7 @@
         "Que la fortaleza del Señor está disponible para quien acepta un llamado con humildad, independientemente de cuán grande fuera su predecesor.",
         "Que el Señor compara siempre a los nuevos líderes con los anteriores para motivarlos a alcanzar el mismo nivel de fidelidad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
@@ -96,7 +96,7 @@
         "Que meditar en la ley era más importante que la presencia del Señor como fuente de valentía para los desafíos que vendría.",
         "Que el Señor diseñó esas instrucciones para que Josué tuviera algo concreto que hacer mientras esperaba la manifestación visible del apoyo divino."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 5,
@@ -129,7 +129,7 @@
         "Que el Señor combina Su presencia prometida con acciones concretas requeridas del llamado, porque la presencia de Dios no elimina la responsabilidad humana.",
         "Que las promesas son siempre más importantes que las instrucciones; las instrucciones son solo formas de fortalecer la confianza en la promesa."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ]
 }

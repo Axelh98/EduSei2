@@ -77,12 +77,12 @@
       "id": 3,
       "question": "Esta práctica enseña a analizar preguntas difíciles con perspectiva eterna. ¿Cuál es la diferencia entre analizar una pregunta difícil 'con perspectiva eterna' y simplemente 'buscar más información'?",
       "options": [
-        "Que la perspectiva eterna incluye el Plan de Salvación como marco interpretativo, lo que cambia el tipo de preguntas que se hacen y el tipo de respuestas que se aceptan.",
+        "Que la perspectiva eterna incluye el Plan de Salvación como marco, lo que cambia las preguntas y las respuestas que se aceptan.",
         "Que buscar más información es un proceso intelectual mientras que la perspectiva eterna es un proceso espiritual; ambos son necesarios pero distintos.",
         "Que la perspectiva eterna elimina la necesidad de buscar información porque todo puede entenderse desde el marco doctrinal ya conocido.",
         "No hay diferencia real; la perspectiva eterna es simplemente buscar información en fuentes que el Señor ha señalado."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -115,18 +115,18 @@
         "Preguntar al obispo → estudiar las Escrituras → orar por confirmación → dejar de pensar en el tema si no llega respuesta.",
         "Ignorar la pregunta si genera ansiedad → recuperar la estabilidad → estudiar cuando esté más tranquilo → compartir con alguien de confianza."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "Esta lección integra cuatro principios: actuar con fe, perspectiva eterna, fuentes divinamente señaladas y tratar con amor a quien pregunta. ¿Cuál es el modelo de discipulado que esa combinación propone para nuestra época?",
       "options": [
-        "Que el discípulo de Cristo en nuestra época debe ser tanto un buscador serio de verdad como un testigo compasivo; no puede separar el saber del cómo relacionarse con quien pregunta.",
+        "Que el discípulo de Cristo debe ser tanto un buscador serio de verdad como un testigo compasivo; no puede separar ambas cosas.",
         "Que los cuatro principios son etapas secuenciales: primero la fe, luego la perspectiva, luego las fuentes, luego el amor.",
         "Que el amor a quien pregunta es el elemento más importante; los otros tres principios son herramientas al servicio de esa actitud central.",
         "Que el modelo propone que los alumnos de Seminario se conviertan en apologistas capaces de defender la Iglesia en cualquier conversación difícil."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     }
   ]
 }

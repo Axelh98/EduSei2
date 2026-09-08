@@ -85,7 +85,7 @@
         "Porque esa actitud invariablemente lleva a tratar con injusticia a las personas que contribuyeron al éxito de uno.",
         "Porque el Señor puede quitar lo que dio cuando Sus hijos dejan de reconocerlo como la fuente de sus bendiciones."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
@@ -93,21 +93,21 @@
       "options": [
         "Porque el registro escrito puede compartirse con otras personas que también necesitan recordar la bondad de Dios en sus vidas.",
         "Porque el Señor prometió en las Escrituras que quienes escriben sus experiencias espirituales recibirán más revelación.",
-        "Porque la escritura activa la atención hacia lo que normalmente pasa desapercibido, convirtiendo el agradecimiento en un ejercicio habitual en lugar de ocasional.",
+        "Porque la escritura activa la atención hacia lo que normalmente pasa desapercibido, y vuelve el agradecimiento un hábito.",
         "Porque los registros escritos pueden revisarse en momentos de prueba para recordar que el Señor ya actuó antes y puede hacerlo de nuevo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Emilia tuvo un año escolar excelente y dice: 'Me esforcé mucho y los resultados lo reflejan.' No menciona al Señor. Deuteronomio 8:17 habla directamente de esa actitud. ¿Qué le diría la lección?",
       "options": [
         "Que su esfuerzo fue real y merece reconocimiento; atribuirlo todo a Dios sería deshonrar su propio trabajo y capacidad.",
-        "Que el esfuerzo humano y la providencia divina coexisten sin contradicción; reconocer al Señor no niega su esfuerzo sino que lo ubica en la perspectiva correcta.",
+        "Que el esfuerzo humano y la providencia divina coexisten; reconocer al Señor no niega su esfuerzo sino que lo ubica bien.",
         "Que debería orar de inmediato para pedir perdón por haberse atribuido los resultados antes de agradecérselos al Señor.",
         "Que el Señor puede quitar ese éxito si ella continúa sin reconocerlo, por lo que es urgente que cambie su actitud rápidamente."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -124,12 +124,12 @@
       "id": 7,
       "question": "Israel olvidó al Señor en la prosperidad (Deuteronomio 8). El ciclo de Jueces muestra que ese olvido produjo apostasía repetida. ¿Qué patrón sobre la memoria espiritual emerge de esos dos textos juntos?",
       "options": [
-        "Que la memoria espiritual es frágil por naturaleza y requiere estructuras deliberadas de renovación —rituales, registros, conversaciones— para mantenerse activa.",
+        "Que la memoria espiritual es frágil por naturaleza y requiere estructuras deliberadas —rituales, registros, conversaciones— para seguir activa.",
         "Que el olvido de Dios en la prosperidad es una debilidad específica de Israel y no necesariamente un patrón universal de la naturaleza humana.",
         "Que el Señor diseñó las dificultades precisamente para que Israel no pudiera olvidarlo; en ausencia de pruebas, el olvido era inevitable.",
         "Que quienes tienen un testimonio genuino no experimentan el tipo de olvido que afectó a Israel, ya que la conversión real produce una memoria permanente."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

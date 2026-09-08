@@ -90,18 +90,18 @@
       "id": 4,
       "question": "Al estudiar la liberación de Israel en el Mar Rojo, un alumno identifica el atributo del Señor de 'librar a Su pueblo en situaciones imposibles'. ¿Cómo debería ese hallazgo cambiar su oración esa semana?",
       "options": [
-        "Podría orar con mayor confianza sabiendo que el mismo Señor que liberó a Israel puede obrar en su situación específica.",
+        "Podría orar con más confianza sabiendo que el Señor que liberó a Israel puede obrar en su situación.",
         "Debería citar ese versículo en su oración para recordarle al Señor Su promesa de liberación.",
         "Ese hallazgo es principalmente académico y no tiene aplicación directa en cómo ora una persona.",
         "Debería compartirlo en la siguiente clase de Seminario antes de aplicarlo personalmente a su oración."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Camila dice que el Antiguo Testamento 'le aburre porque son solo historias de guerras y castigos'. Según la técnica de esta lección, ¿qué podría hacer para que su experiencia de lectura cambie?",
       "options": [
-        "Buscar activamente en cada relato —incluso en los de guerra y juicio— qué atributo de Cristo o qué verdad sobre Su Expiación se refleja en esa historia.",
+        "Buscar en cada relato —incluso en los de guerra y juicio— qué atributo de Cristo aparece reflejado.",
         "Enfocarse solo en los Salmos y Proverbios que tienen lenguaje más poético y accesible para alguien como ella.",
         "Leer primero el comentario de un líder de la Iglesia sobre cada capítulo antes de leer el texto mismo.",
         "Saltearse los capítulos que le resultan difíciles y concentrarse en los que ya le generan interés."
@@ -114,7 +114,7 @@
       "options": [
         "Aumentar el tiempo de estudio de 10 a 20 minutos para poder leer con mayor calma y detalle.",
         "Elegir un capítulo por semana para leerlo varias veces hasta memorizarlo en lugar de leer varios capítulos.",
-        "Al leer, pausar cada pocos versículos y preguntar: '¿Qué aprendo aquí sobre Jesucristo o sobre cómo Él actúa?', y registrar la respuesta.",
+        "Al leer, pausar cada pocos versículos y preguntar qué aprende sobre Jesucristo, y anotar la respuesta.",
         "Leer en voz alta para activar más sentidos y así retener mejor el contenido de lo que estudia."
       ],
       "correctAnswer": 2
@@ -123,12 +123,12 @@
       "id": 7,
       "question": "Esta lección enseña a buscar a Cristo en las Escrituras, y la Lección 161 enseña a edificar un cimiento espiritual en Cristo. Ambas hablan de centrar el estudio en el Salvador. ¿Cuál es el principio común que las une?",
       "options": [
-        "Que la fe en Jesucristo crece cuando lo buscamos activamente —tanto en las páginas de las Escrituras como en las decisiones de la vida diaria— y no solo cuando recibimos enseñanza pasiva.",
+        "Que la fe en Jesucristo crece cuando lo buscamos activamente, tanto en las páginas de las Escrituras como en las decisiones diarias.",
         "Que el conocimiento doctrinal sobre Cristo es suficiente para construir la fe; las experiencias personales son complementarias.",
         "Que las Escrituras y los hábitos espirituales son igualmente importantes pero sirven propósitos completamente distintos en el crecimiento espiritual.",
         "Que el Dominio de la Doctrina es el punto de encuentro entre ambas lecciones, ya que conecta el estudio de las Escrituras con la vida práctica."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }
