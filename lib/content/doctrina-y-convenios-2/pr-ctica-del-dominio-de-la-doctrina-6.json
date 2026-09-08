@@ -26,6 +26,11 @@
           "referencia": "Doctrina y Convenios 82:10",
           "texto": "Yo, el Señor, estoy obligado cuando hacéis lo que os digo; mas cuando no hacéis lo que os digo, ninguna promesa tenéis.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Juan 6:68–69",
+          "texto": "Y le respondió Simón Pedro: Señor, ¿a quién iremos? Tú tienes palabras de vida eterna. Y nosotros hemos creído y sabemos que tú eres el Cristo, el Hijo del Dios viviente.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/6?lang=spa&id=p68-p69#p68"
         }
       ]
     },
@@ -38,19 +43,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": [
-        "Un pasaje del Dominio de la Doctrina se vuelve tuyo cuando podés hacer tres cosas: decir qué enseña con tus palabras, nombrar una situación concreta donde se aplica, y contar qué hiciste distinto por él. Las tres, no una. Tomá la lista de dificultades que armaste hoy, elegí la que más te toca a vos, y buscá el pasaje que le corresponde. Esta semana, cuando esa dificultad aparezca, acordate de que ya tenés algo escrito para ese momento."
-      ]
+      "contenido": "Un pasaje del Dominio de la Doctrina se vuelve tuyo cuando podés hacer tres cosas: decir qué enseña con tus palabras, nombrar una situación concreta donde se aplica, y contar qué hiciste distinto por él. Las tres, no una. Y la pregunta de fondo que el manual pone detrás de todas es por qué alguien permanece fiel: Pedro la contestó en una línea —«Señor, ¿a quién iremos? Tú tienes palabras de vida eterna»—, y ahí está la razón, que es una persona y no un argumento. Tomá la lista de dificultades que armaste hoy, elegí la que más te toca, y buscá el pasaje que le corresponde."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuáles son las tres dificultades más comunes que ves en los chicos de tu edad? Sé concreto, no general.",
         "¿Qué pasaje del Dominio de la Doctrina le corresponde a cada una?",
-        "Elegí uno de esos pasajes: ¿cómo se lo explicarías con tus palabras a alguien que no es de la Iglesia?",
+        "Buscá en Juan 6:68–69, dentro del bloque de escrituras, la respuesta de Pedro cuando muchos discípulos se fueron. ¿Qué razón da para quedarse, y en qué se parece a la que te den las personas a las que preguntes esta semana?",
         "El presidente Nelson habla de entender la doctrina e implementarla. ¿Cuál de las dos te cuesta más?",
         "¿Qué pasaje podés recitar pero no sabrías explicar todavía?",
-        "¿A quién le vas a preguntar esta semana por qué sigue siendo fiel al evangelio, y qué esperás escuchar?"
+        "¿A quién le vas a preguntar esta semana por qué sigue siendo fiel al evangelio, y qué esperás escuchar? Orá antes de esa conversación y anotá lo que te haya quedado."
       ]
     }
   ],
@@ -62,7 +65,7 @@
         "Cuando se lo ha marcado en el ejemplar de las Escrituras.",
         "Cuando se lo puede ubicar rápidamente dentro del libro.",
         "Cuando se lo puede recitar de memoria con su referencia exacta.",
-        "Cuando se lo puede explicar con palabras propias y conectar con una situación concreta."
+        "En el momento en que se lo puede explicar y conectar con una situación."
       ],
       "correctAnswer": 3
     },
@@ -70,7 +73,7 @@
       "id": 2,
       "question": "¿Cuáles son los tres principios para adquirir conocimiento espiritual que esta lección practica?",
       "options": [
-        "Actuar con fe; examinar los conceptos y las preguntas con una perspectiva eterna; buscar comprensión mediante fuentes divinamente señaladas.",
+        "Actuar con fe, perspectiva eterna y fuentes divinas.",
         "Orar, ayunar y asistir al templo con regularidad.",
         "Estudiar, memorizar y enseñar lo aprendido a otra persona.",
         "Escuchar al profeta, seguir al obispo y confiar en los padres."
@@ -82,7 +85,7 @@
       "question": "El presidente Nelson enseñó que la doctrina pura «cambia la vida de todo aquel que la entiende y procura implementarla». ¿Qué implica que nombre las dos cosas juntas?",
       "options": [
         "Que la comprensión intelectual basta si es suficientemente profunda.",
-        "Que entender sin aplicar, o aplicar sin entender, deja el proceso incompleto.",
+        "Que entender sin aplicar, o aplicar sin entender, no alcanza.",
         "Que la aplicación precede necesariamente a la comprensión.",
         "Que la doctrina cambia la vida por sí sola, sin intervención de la persona."
       ],
@@ -94,7 +97,7 @@
       "options": [
         "Que la obediencia parcial produce bendiciones proporcionales.",
         "Que memorizar los pasajes activa por sí mismo las promesas del Señor.",
-        "Que las promesas de los pasajes estudiados se activan al ponerlos en práctica, no al conocerlos.",
+        "Que las promesas se activan al ponerlos en práctica, no al conocerlos.",
         "Que las promesas se cumplen en el momento y la forma que la persona espera."
       ],
       "correctAnswer": 2
@@ -114,7 +117,7 @@
       "id": 6,
       "question": "Franco tiene una pregunta sobre un tema difícil de la historia de la Iglesia y no sabe por dónde empezar. Según los tres principios que practica esta lección, ¿cuál es el primer paso?",
       "options": [
-        "Actuar con fe: sostenerse en lo que ya sabe mientras busca en las fuentes que el Señor señaló.",
+        "Actuar con fe: sostenerse en lo que ya sabe mientras busca.",
         "Buscar todas las posturas contrarias para formarse un juicio equilibrado.",
         "Consultar únicamente con amigos que compartan su misma fe.",
         "Dejar la pregunta de lado hasta tener más madurez espiritual."
@@ -126,7 +129,7 @@
       "question": "Doctrina y Convenios 84:20 sitúa el poder de Dios en las ordenanzas, y el presidente Nelson dice que la doctrina pura cambia la vida de quien la entiende y la implementa. ¿Qué principio común forman las dos ideas?",
       "options": [
         "Que el cambio espiritual ocurre de manera independiente de la voluntad de la persona.",
-        "Que el evangelio produce cambios reales a través de cosas concretas que la persona hace, no solo de lo que cree.",
+        "Que el evangelio cambia la vida por cosas concretas, no solo por creer.",
         "Que las ordenanzas reemplazan la necesidad de estudiar la doctrina.",
         "Que la comprensión doctrinal es más importante que la participación en las ordenanzas."
       ],

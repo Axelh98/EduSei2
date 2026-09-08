@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "Cuando los santos comenzaron a llegar a Kirtland, Ohio, surgió inmediatamente una necesidad práctica urgente: cómo organizar y administrar los bienes temporales de la comunidad de manera justa. Algunas familias llegaban con poco; otras con más. Algunos miembros estaban siendo influenciados por un hombre llamado Leman Copley, que promovía un sistema comunitario propio y no aprobado por el Señor. En ese contexto, D&C 41 introduce dos cosas fundamentales: el llamado de Edward Partridge como primer obispo de la Iglesia en esta dispensación, y el principio de que las leyes y la organización de la Iglesia vienen del Señor, no de la inventiva humana. El Señor describe a Edward Partridge como un hombre cuyo corazón es puro, sin doblez — y lo llama precisamente porque su rectitud lo califica para administrar los bienes de los pobres con fidelidad. Esta lección muestra que el Señor llama a quienes tienen el corazón correcto, no necesariamente a los más brillantes o más conocidos."
+      "contenido": [
+        "Cuando los santos comenzaron a llegar a Kirtland, Ohio, surgió inmediatamente una necesidad práctica urgente: cómo organizar y administrar los bienes temporales de la comunidad de manera justa. Algunas familias llegaban con poco; otras con más. Algunos miembros estaban siendo influenciados por un hombre llamado Leman Copley, que promovía un sistema comunitario propio y no aprobado por el Señor. En ese contexto, D&C 41 introduce dos cosas fundamentales: el llamado de Edward Partridge como primer obispo de la Iglesia en esta dispensación, y el principio de que las leyes y la organización de la Iglesia vienen del Señor, no de la inventiva humana. El Señor describe a Edward Partridge como un hombre cuyo corazón es puro, sin doblez — y lo llama precisamente porque su rectitud lo califica para administrar los bienes de los pobres con fidelidad. Esta lección muestra que el Señor llama a quienes tienen el corazón correcto, no necesariamente a los más brillantes o más conocidos.",
+        "Y en el mismo capítulo, unos versículos antes, el Señor define quién es discípulo Suyo: «el que recibe mi ley y la guarda, tal es mi discípulo». No es una prueba de conocimiento ni de reputación, es de coherencia — y es exactamente lo que después alaba en Edward Partridge, un corazón «en quien no hay engaño». Jesucristo pide eso porque Él lo hizo primero: recibió la ley del Padre y la guardó hasta el final, incluso cuando le costó todo. Su ejemplo es el que hace posible el pedido, y Su promesa a quien camina así es que llegará a conocerlo de verdad, no de oídas."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -34,16 +37,18 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El llamado de Edward Partridge en D&C 41 establece un principio que no cambia: el Señor califica a quienes llama por la condición de su corazón, no por sus credenciales externas. La descripción 'como Natanael, en quien no hay engaño' es un estándar de carácter que aplica a cualquier líder, madre, padre, misionero o joven que quiere servir al Señor fielmente. ¿En qué medida podría el Señor describir tu corazón con esas palabras?"
+      "contenido": [
+        "El llamado de Edward Partridge en Doctrina y Convenios 41 establece un principio que no cambia: el Señor califica a quienes llama por la condición de su corazón, no por sus credenciales externas. La descripción «como Natanael, en quien no hay engaño» es un estándar de carácter que vale para cualquier líder, padre, madre, misionero o joven que quiera servir. Y el versículo 5 dice quién marca esa vara: Jesucristo, que llama discípulo suyo al que recibe Su ley y la guarda, porque Él la guardó primero. Elegí un acto chico de integridad para esta semana —de los que nadie ve— y hacelo pensando en Él."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Por qué describió el Señor a Edward Partridge como 'alguien en quien no hay engaño'? ¿Qué significa eso en la práctica?",
         "¿Hay algún líder de la Iglesia en tu vida del que podría decirse lo mismo? ¿Qué tiene ese líder que admirás?",
-        "¿Qué diferencia hay entre recibir las leyes del Señor y guardarlas, según D&C 41:5?",
+        "Fijate en Doctrina y Convenios 41:5: ¿qué distingue exactamente al discípulo del que solo dice que lo es? ¿Dónde se nota esa diferencia en una semana común?",
         "¿Hay algo en tu carácter que querés fortalecer para que el Señor pueda describir tu corazón como 'sin engaño'?",
-        "¿Qué pequeño acto de integridad — aunque nadie lo vea — podrías practicar esta semana?",
+        "¿Qué pequeño acto de integridad —aunque nadie lo vea— podrías practicar esta semana? Meditá un momento en cuál elegís y escribilo antes de cerrar el cuaderno.",
         "¿En qué situación concreta de los próximos días vas a tener la oportunidad de decir la verdad cuando mentir sería más cómodo?"
       ]
     }
@@ -65,7 +70,7 @@
       "question": "D&C 41:5 establece una distinción entre dos tipos de personas. ¿Cuál es esa distinción?",
       "options": [
         "El que fue bautizado antes de 1831 y el que fue bautizado después.",
-        "El que recibe la ley del Señor y la hace versus el que dice recibirla pero no la hace.",
+        "El que recibe la ley del Señor y la guarda frente al que dice recibirla.",
         "El que tiene un llamamiento formal y el que sirve sin un cargo asignado.",
         "El que tiene fe y el que no la tiene."
       ],
@@ -77,7 +82,7 @@
       "options": [
         "Porque la integridad es un don espiritual que no puede aprenderse, a diferencia de la experiencia.",
         "Porque la integridad es la cualidad más fácil de desarrollar y todos la pueden tener rápidamente.",
-        "Porque quien tiene experiencia pero no integridad puede usar esa experiencia para su propio beneficio en lugar del bien de los demás.",
+        "Porque quien tiene experiencia pero no integridad puede usarla para su propio beneficio.",
         "Porque el Señor prefiere a personas sin experiencia para que no dependan de sus propias capacidades."
       ],
       "correctAnswer": 2
@@ -89,7 +94,7 @@
         "Hacer es más importante en los primeros años de membresía; recibir lo es en la vejez.",
         "Recibir aplica a las doctrinas y hacer aplica solo a los mandamientos formales como el diezmo.",
         "No hay diferencia real — quien recibe la ley genuinamente la hará automáticamente.",
-        "Recibir es intelectual — conocer y aceptar la doctrina; hacer es vital — convertir ese conocimiento en acción y en carácter."
+        "Recibir es conocer y aceptar la doctrina; hacer es convertirla en acción y carácter."
       ],
       "correctAnswer": 3
     },
@@ -97,7 +102,7 @@
       "id": 5,
       "question": "Agustín se comporta diferente cuando está con sus amigos de la Iglesia que cuando está en la escuela — más paciente con unos, más agresivo con otros. Según el estándar de Edward Partridge en D&C 41:11, ¿cómo describiría el Señor esa situación?",
       "options": [
-        "Como una forma de engaño — ser diferente según quién mira es exactamente lo opuesto de ser 'alguien sin engaño'.",
+        "Como una forma de engaño: ser distinto según quién mira es lo contrario de eso.",
         "Como una señal de madurez — saber adaptar el comportamiento al contexto social.",
         "Como algo que solo importa en los líderes de la Iglesia, no en los miembros comunes.",
         "Como una adaptación social normal que no tiene implicaciones espirituales."
@@ -109,7 +114,7 @@
       "question": "Valentina dice que conoce perfectamente la doctrina del amor y del servicio, pero rara vez actúa según eso en casa. Según D&C 41:5, ¿en qué categoría la ubica el Señor?",
       "options": [
         "Como alguien que está creciendo espiritualmente a su propio ritmo.",
-        "Como alguien que dice recibir la ley pero no la hace — lo cual el Señor describe directamente como no ser Su discípula.",
+        "Como alguien que dice recibir la ley pero no la hace, que es lo que el Señor describe ahí.",
         "Como alguien con un llamamiento espiritual alto pero circunstancias difíciles.",
         "Como alguien a quien el Señor entiende porque el hogar siempre es el lugar más difícil para practicar el evangelio."
       ],
@@ -121,7 +126,7 @@
       "options": [
         "Que los cargos del sacerdocio requieren aprobación de la congregación antes de ser válidos.",
         "Que los primeros llamamientos de la Iglesia restaurada fueron todos excepcionales y no sirven de patrón hoy.",
-        "Que el Señor llama según la condición del corazón — en Partridge la integridad, en Rigdon los dones consagrados — y esa es la cualidad que importa más.",
+        "Que el Señor llama según la condición del corazón: la integridad de uno, los dones del otro.",
         "Que el Señor siempre llama a personas con experiencia religiosa previa para los cargos más importantes."
       ],
       "correctAnswer": 2

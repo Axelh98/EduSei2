@@ -6,7 +6,8 @@
       "contenido": [
         "Imaginá que tenés una pregunta difícil sobre la historia de la Iglesia o una doctrina que no entendés bien. ¿Dónde la buscás primero? ¿Google? ¿Reddit? ¿Un video de YouTube crítico?",
         "No beberías agua de una fuente contaminada aunque tuvieras sed. El mismo principio aplica a la verdad espiritual. El tercer principio para adquirir conocimiento espiritual es buscar comprensión a través de las fuentes que el Padre Celestial mismo señaló: las Escrituras, las palabras de los profetas en la Conferencia General, la Biblioteca del Evangelio, los Temas del Evangelio, Para la Fortaleza de la Juventud, líderes de la Iglesia de confianza, padres y familiares fieles, y sobre todo el Espíritu Santo mediante la oración.",
-        "Estas fuentes no son arbitrarias: son el amor de Dios traducido en medios concretos para guiarte. El presidente Nelson enseñó que muy pocas personas en nuestra época saben adónde ir en busca de la verdad. Vos sí lo sabés. Usalas."
+        "Estas fuentes no son arbitrarias: son el amor de Dios traducido en medios concretos para guiarte. El presidente Nelson enseñó que muy pocas personas en nuestra época saben adónde ir en busca de la verdad. Vos sí lo sabés. Usalas.",
+        "Detrás de la lista de fuentes hay una persona con una manera de mirar. Jesucristo vivió con perspectiva eterna: «he descendido del cielo, no para hacer mi voluntad, sino la voluntad del que me envió», dijo mientras la gente lo presionaba para que hiciera otra cosa. Tenía la cruz por delante y no cambió el rumbo, porque veía el final desde el principio. Analizar un tema con perspectiva eterna es pedirle prestada esa mirada: no preguntarte solo qué me conviene esta semana, sino qué me acerca a quien quiero llegar a ser. Y Su ejemplo muestra que esa mirada se puede sostener incluso cuando duele."
       ]
     },
     {
@@ -16,6 +17,11 @@
           "referencia": "Doctrina y Convenios 88:118",
           "texto": "Y por cuanto no todos tienen fe, buscad diligentemente y enseñaos el uno al otro palabras de sabiduría; sí, buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
+        },
+        {
+          "referencia": "Juan 6:38",
+          "texto": "Porque he descendido del cielo, no para hacer mi voluntad, sino la voluntad del que me envió.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/6?lang=spa&id=p38#p38"
         },
         {
           "referencia": "2 Nefi 28:30",
@@ -34,7 +40,7 @@
     {
       "tipo": "conclusion",
       "contenido": [
-        "Las fuentes que usás para buscar verdad espiritual determinan qué tan cerca de Dios llegás. Doctrina y Convenios 88:118 pide buscarlas con diligencia, «en el estudio y también con la fe». La próxima vez que te aparezca una pregunta espiritual, frená antes de escribirla en un buscador y dedicale primero quince minutos a las fuentes que el Señor señaló: la Escritura, los Temas del Evangelio, la oración. La diferencia no está solo en la respuesta que encontrás, sino en quién te la da."
+        "Las fuentes que usás para buscar verdad espiritual determinan qué tan cerca de Dios llegás. Doctrina y Convenios 88:118 pide buscarlas con diligencia, «tanto por el estudio como por la fe». Pero antes que la fuente está la mirada: Jesucristo enfrentó cada decisión sabiendo para qué había venido, y Su ejemplo es el que te presta esa perspectiva cuando la tuya no llega más allá del viernes. La próxima vez que aparezca una pregunta espiritual, frená antes de escribirla en un buscador y dedicale primero quince minutos a las fuentes que el Señor señaló: la Escritura, los Temas del Evangelio, la oración. La diferencia no está solo en la respuesta que encontrás, sino en quién te la da."
       ]
     },
     {
@@ -42,10 +48,10 @@
       "preguntas": [
         "¿A dónde vas normalmente cuando tenés una pregunta sobre el evangelio o la Iglesia? ¿Esas fuentes son confiables?",
         "¿Cuáles son al menos cinco fuentes divinamente señaladas para buscar verdad espiritual?",
-        "¿Alguna vez encontraste información confusa o perturbadora sobre la Iglesia en internet? ¿Cómo lo manejaste?",
+        "Leé Juan 6:38 y después 2 Nefi 28:30. ¿Qué tienen en común el modo en que Jesús explica para qué vino y el modo en que el Señor promete enseñar «línea por línea»?",
         "¿Cómo demuestran las fuentes divinamente señaladas el amor que el Padre Celestial tiene por vos?",
         "¿Cuál de las fuentes divinamente señaladas usás menos? ¿Cómo podrías usarla más esta semana?",
-        "¿Qué pregunta concreta vas a llevar esta semana a los Temas del Evangelio o a la Biblioteca del Evangelio en vez de a un buscador?"
+        "Antes de abrir cualquier fuente esta semana, ¿qué pregunta concreta le vas a llevar primero al Padre Celestial en oración, y qué vas a anotar de lo que te venga a la mente después?"
       ]
     }
   ],
@@ -54,7 +60,7 @@
       "id": 1,
       "question": "A Tomás le aparece en redes un video que cuestiona un episodio de la historia de la Iglesia y siente el impulso de buscar más videos parecidos para entender. Según el tercer principio para adquirir conocimiento espiritual, ¿cuál es el criterio que debería guiar su búsqueda?",
       "options": [
-        "Acudir a las fuentes que el Padre Celestial señaló, que son las que están ordenadas a llevar a la verdad.",
+        "Acudir a las fuentes que el Padre Celestial señaló, que son las que llevan a la verdad.",
         "Dejar la pregunta de lado, porque investigar temas difíciles suele debilitar la fe.",
         "Confiar en la opinión del amigo que le compartió el video, ya que conoce el contexto.",
         "Escuchar primero la mayor cantidad posible de posturas contrarias para formarse un juicio equilibrado."
@@ -66,7 +72,7 @@
       "question": "¿Cuáles son al menos cinco fuentes divinamente señaladas que el Padre Celestial estableció para encontrar verdad espiritual?",
       "options": [
         "Google, YouTube, Wikipedia, foros de debate y libros de filosofía",
-        "Las Escrituras, las palabras de los profetas, la Biblioteca del Evangelio, los Temas del Evangelio y el Espíritu Santo",
+        "Las Escrituras, las palabras de los profetas, los Temas del Evangelio y el Espíritu Santo",
         "El obispo, el presidente de misión, el patriarca, el consejero del sacerdocio y el líder de la Primaria",
         "La Biblia únicamente, sin otras fuentes adicionales"
       ],
@@ -78,7 +84,7 @@
       "options": [
         "Concluir que si existe una acusación seria, probablemente haya algo de verdad en ella.",
         "Guardar la afirmación sin contrastarla y esperar a que el tiempo aclare las cosas.",
-        "Llevarla a las fuentes señaladas —los Temas del Evangelio, las Escrituras, un líder de confianza— y estudiarla ahí.",
+        "Llevarla a las fuentes señaladas —Temas del Evangelio, Escritura— y estudiarla ahí.",
         "Difundirla entre sus amigos para ver si alguno tiene una explicación convincente."
       ],
       "correctAnswer": 2
@@ -90,7 +96,7 @@
         "Que la fe consiste en aceptar que algunas cosas nunca se van a poder entender.",
         "Que las apariencias confusas indican que la información recibida es falsa.",
         "Que las preguntas difíciles se disuelven solas si uno espera el tiempo suficiente.",
-        "Que el lugar desde donde se mira cambia lo que se ve, y por eso importa desde qué fuentes y con qué perspectiva se busca la respuesta."
+        "Que el lugar desde donde se mira cambia lo que se ve; por eso importa la fuente."
       ],
       "correctAnswer": 3
     },
@@ -98,7 +104,7 @@
       "id": 5,
       "question": "Doctrina y Convenios 88:118 pide buscar sabiduría «en el estudio y también con la fe». Si alguien usa solo una de las dos vías, ¿qué le falta según ese versículo?",
       "options": [
-        "Solo con estudio puede acumular datos sin recibir la confirmación que da el Espíritu.",
+        "Solo con estudio puede acumular datos sin recibir la confirmación que da el Espíritu Santo.",
         "Solo con fe alcanza, porque el estudio es un complemento opcional para quien tiene tiempo.",
         "Solo con estudio se llega a la verdad más rápido, aunque con menos convicción personal.",
         "Las dos vías conducen al mismo resultado, así que basta con elegir la que resulte más cómoda."
@@ -110,7 +116,7 @@
       "question": "D&C 88:118 dice 'buscad conocimiento de los mejores libros; buscad la sabiduría en el estudio y también con la fe'. ¿Por qué necesita las dos cosas — estudio Y fe?",
       "options": [
         "Porque la fe es el sustituto del estudio para quienes no pueden leer bien",
-        "Porque el estudio sin fe puede llevar a conclusiones frías, y la fe sin estudio puede ser ingenua",
+        "Porque el estudio sin fe deriva en frialdad, y la fe sin estudio en ingenuidad",
         "Porque Dios solo responde a quienes han estudiado suficiente antes de orar",
         "Porque la fe y el estudio son incompatibles y deben balancearse con cuidado"
       ],
@@ -122,7 +128,7 @@
       "options": [
         "Que quien no recibe respuesta inmediata debería revisar si está buscando en el lugar correcto.",
         "Que la verdad llega completa a quienes la piden con suficiente sinceridad.",
-        "Que la verdad se recibe de a partes, por un proceso sostenido en el que el que busca pone algo de su parte.",
+        "Que la verdad se recibe de a partes, en un proceso donde el que busca pone algo.",
         "Que el estudio personal reemplaza la necesidad de las fuentes oficiales de la Iglesia."
       ],
       "correctAnswer": 2

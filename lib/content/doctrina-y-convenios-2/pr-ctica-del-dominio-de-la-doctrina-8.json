@@ -6,7 +6,8 @@
       "contenido": [
         "Esta práctica cierra el trabajo del Dominio de la Doctrina con el paso que más cuesta: poner en práctica. Repasar los pasajes es rápido; explicarlos, un poco más difícil; usarlos cuando la situación aparece, otra cosa completamente distinta.",
         "La lección combina ese repaso con los tres principios para adquirir conocimiento espiritual: actuar con fe, examinar los conceptos y las preguntas con una perspectiva eterna, y buscar comprensión mediante fuentes divinamente señaladas. Los tres funcionan juntos y ninguno alcanza solo. Actuar con fe sin buscar en las fuentes correctas lleva a decisiones apresuradas; buscar sin actuar deja todo en teoría.",
-        "Doctrina y Convenios 107:99 dice «aprenda todo varón su deber, así como a obrar con toda diligencia». Aprender y obrar, en ese orden y las dos cosas. Lo mismo vale para un pasaje del Dominio de la Doctrina: no está aprendido cuando se lo puede recitar, sino cuando cambió algo de cómo actúa quien lo estudió."
+        "Doctrina y Convenios 107:99 dice «aprenda todo varón su deber, así como a obrar con toda diligencia». Aprender y obrar, en ese orden y las dos cosas. Lo mismo vale para un pasaje del Dominio de la Doctrina: no está aprendido cuando se lo puede recitar, sino cuando cambió algo de cómo actúa quien lo estudió.",
+        "El manual dice para qué existe todo este trabajo: «el Dominio de la Doctrina puede ayudar a los alumnos a edificar los cimientos de su vida sobre Jesucristo y Su Evangelio». No sobre una lista de referencias ni sobre la habilidad de citar de memoria: sobre Él. Helamán se lo explicó así a sus hijos: «es sobre la roca de nuestro Redentor, el cual es Cristo, el Hijo de Dios, donde debéis establecer vuestro fundamento» (Helamán 5:12). Un pasaje memorizado no sostiene a nadie; lo que sostiene es Aquel del que ese pasaje habla, y Su promesa es que quien edifica ahí no cae."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 88:118",
           "texto": "Y por cuanto no todos tienen fe, buscad diligentemente y enseñaos el uno al otro palabras de sabiduría; sí, buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
+        },
+        {
+          "referencia": "Helamán 5:12",
+          "texto": "Y ahora bien, recordad, hijos míos, recordad que es sobre la roca de nuestro Redentor, el cual es Cristo, el Hijo de Dios, donde debéis establecer vuestro fundamento, para que cuando el diablo lance sus impetuosos vientos, sí, sus dardos en el torbellino, sí, cuando todo su granizo y furiosa tormenta os azoten, esto no tenga poder para arrastraros al abismo de miseria y angustia sin fin, a causa de la roca sobre la cual estáis edificados, que es un fundamento seguro, un fundamento sobre el cual, si los hombres edifican, no caerán.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12"
         }
       ]
     },
@@ -47,10 +53,10 @@
       "preguntas": [
         "¿Cuál es el pasaje del Dominio de la Doctrina que más te sirvió hasta ahora? ¿Para qué te sirvió?",
         "De los tres principios para adquirir conocimiento espiritual, ¿cuál practicás menos?",
-        "¿Qué pasa cuando alguien actúa con fe pero sin buscar en las fuentes correctas?",
+        "Buscá en Helamán 5:12, dentro del bloque de escrituras, sobre qué manda Helamán establecer el fundamento. ¿Qué le pasa, según ese versículo, al que edifica ahí cuando llega la tormenta?",
         "El presidente Hinckley dice que no hay llamamientos insignificantes. ¿Cómo se aplica eso a tu situación actual?",
         "¿En qué conversación de esta semana podría aparecer naturalmente uno de estos pasajes?",
-        "Elegí ese pasaje y esa conversación. ¿Cuáles son, y qué vas a decir?"
+        "Elegí ese pasaje y esa conversación: ¿cuáles son, y qué vas a decir? Pedilo en oración antes de la conversación y anotá después cómo salió."
       ]
     }
   ],
@@ -60,7 +66,7 @@
       "question": "¿Cuáles son los tres principios para adquirir conocimiento espiritual que esta práctica repasa?",
       "options": [
         "Memorizar, explicar y enseñar los pasajes a otros.",
-        "Actuar con fe; examinar los conceptos y preguntas con una perspectiva eterna; buscar comprensión mediante fuentes divinamente señaladas.",
+        "Actuar con fe, mirar con perspectiva eterna y buscar fuentes.",
         "Orar, estudiar y obedecer con constancia.",
         "Escuchar al profeta, asistir a las reuniones y servir en la Iglesia."
       ],
@@ -72,7 +78,7 @@
       "options": [
         "Prepararse espiritualmente y buscar el consejo de otros.",
         "Aceptarla con humildad y sostenerla hasta ser relevado.",
-        "Aprender su deber y obrar con toda diligencia.",
+        "Aprender su propio deber y obrar con toda diligencia.",
         "Consultar con quien preside y actuar con prudencia."
       ],
       "correctAnswer": 2
@@ -84,7 +90,7 @@
         "Avanza más rápido que quien se detiene a investigar.",
         "Queda exento de responsabilidad por los errores que cometa.",
         "Recibe igualmente la confirmación del Espíritu por su disposición.",
-        "Corre el riesgo de tomar decisiones apresuradas, porque los principios funcionan juntos."
+        "Corre el riesgo de decidir apresuradamente, porque van juntos."
       ],
       "correctAnswer": 3
     },
@@ -92,8 +98,8 @@
       "id": 4,
       "question": "El presidente Hinckley enseñó que «en esta Iglesia no hay ningún llamamiento pequeño o insignificante». ¿En qué se apoya esa afirmación?",
       "options": [
-        "En que todos, al desempeñar sus tareas, ejercen influencia en la vida de otros.",
-        "En que los llamamientos se asignan por revelación en todos los casos.",
+        "En que todos, al desempeñar sus tareas, influyen en otras vidas.",
+        "En que los llamamientos se asignan por revelación siempre.",
         "En que cada llamamiento conduce a otro de mayor responsabilidad.",
         "En que la Iglesia no distingue jerarquías entre sus miembros."
       ],
@@ -104,7 +110,7 @@
       "question": "Benjamín puede recitar seis pasajes del Dominio de la Doctrina de memoria, pero nunca cambió nada de lo que hace por ellos. Según esta lección, ¿en qué punto del proceso está?",
       "options": [
         "En el paso final, que es la memorización completa.",
-        "Antes del paso decisivo: el pasaje no está aprendido hasta que cambia algo de cómo actúa.",
+        "Previamente del paso decisivo, porque nada cambió aún.",
         "En condiciones de enseñarlos a otros alumnos.",
         "En el nivel adecuado para su edad y experiencia."
       ],
@@ -116,8 +122,8 @@
       "options": [
         "Estudiando el contexto histórico de cada pasaje en profundidad.",
         "Repasándolos todos los días hasta memorizarlos por completo.",
-        "Usándolos antes en situaciones chicas, cuando no hay nada importante en juego.",
-        "Esperando a que una situación difícil los haga aparecer."
+        "Usándolos antes en situaciones chicas, sin nada en juego.",
+        "Esperando a que una situación complicado los haga aparecer."
       ],
       "correctAnswer": 2
     },
@@ -128,7 +134,7 @@
         "Que el estudio debe completarse antes de asumir cualquier responsabilidad.",
         "Que la diligencia compensa la falta de conocimiento previo.",
         "Que el aprendizaje espiritual y el cumplimiento de deberes son procesos independientes.",
-        "Que en el evangelio conocer y hacer son dos mitades de lo mismo, y ninguna funciona sin la otra."
+        "Que conocer y hacer son dos mitades de lo mismo en el evangelio."
       ],
       "correctAnswer": 3
     }

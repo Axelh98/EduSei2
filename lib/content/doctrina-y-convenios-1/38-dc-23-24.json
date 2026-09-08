@@ -18,6 +18,11 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/23?lang=spa&id=p1#p1"
         },
         {
+          "referencia": "Doctrina y Convenios 24:1",
+          "texto": "He aquí, fuiste llamado y escogido para escribir el Libro de Mormón, y a mi ministerio; y te he elevado de tus aflicciones y te he aconsejado, de manera que has sido librado de todos tus enemigos, y de los poderes de Satanás y de las tinieblas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=spa&id=p1#p1"
+        },
+        {
           "referencia": "Doctrina y Convenios 24:7–8",
           "texto": "Porque dedicarás todo tu servicio a Sion; y en esto tendrás fuerza. Sé paciente en las aflicciones, porque tendrás muchas; pero sopórtalas, pues he aquí, estoy contigo hasta el fin de tus días.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=spa&id=p7-p8#p7"
@@ -29,18 +34,21 @@
       "autor": "Cristina B. Franco",
       "fuente": "El Padre Celestial te conoce, Liahona, Junio de 2018",
       "texto": "El Padre Celestial también te conoce a ti. Él sabe dónde estás y quién eres y lo que necesitas. Él escucha y contesta tus oraciones. Por muy solo que te sientas, Él siempre está ahí. ¡Nunca estás solo! Siempre puedes volverte a Él",
-      "link": "https://www.churchofjesuschrist.org/study/liahona/2018/06/children/heavenly-father-knows-you?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/liahona/2018/06/children/heavenly-father-knows-you?lang=spa&id=p9#p9"
     },
     {
       "tipo": "conclusion",
-      "contenido": "El Señor no habló en D&C 23–24 a la Iglesia en general; habló a personas concretas por su nombre. Ese es Su estilo: personal, específico, adaptado a cada situación. La promesa de 'ten paciencia en tus aflicciones, pues no siempre tendrás que sufrir' no fue para toda la humanidad en abstracto; fue para José Smith en su situación concreta. Y el Señor tiene el mismo tipo de instrucción personalizada para vos. Buscá Su guía con fe y especificidad."
+      "contenido": [
+        "El Señor no habló en D&C 23–24 a la Iglesia en general; habló a personas concretas por su nombre. Ese es Su estilo: personal, específico, adaptado a cada situación. La promesa de 'ten paciencia en tus aflicciones, pues no siempre tendrás que sufrir' no fue para toda la humanidad en abstracto; fue para José Smith en su situación concreta. Y el Señor tiene el mismo tipo de instrucción personalizada para vos. Buscá Su guía con fe y especificidad.",
+        "Y conviene notar cómo empieza el Señor: antes de dar instrucciones le recuerda a José que fue Él quien lo levantó de sus aflicciones y lo libró de sus enemigos. Su promesa viene primero; la tarea, después."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Quién te conoce mejor en tu vida ahora mismo? ¿Qué sabe de vos que pocos saben?",
         "¿Qué te enseña el hecho de que el Señor diera instrucciones individualizadas a cada persona en D&C 23?",
-        "¿Alguna vez sentiste que el Señor te conocía específicamente a vos, no solo como miembro genérico? Contá brevemente.",
+        "Buscá en Doctrina y Convenios 24:1 las tres cosas que el Señor dice que ya hizo por José antes de pedirle nada. ¿Cuál de las tres te gustaría poder decir de vos mismo?",
         "¿Qué consejo de D&C 24 sentís que está más directamente dirigido a tu situación actual?",
         "¿Cuándo fue la última vez que buscaste la guía del Señor para algo específico de tu vida? ¿Lo harás esta semana?",
         "¿Qué pregunta concreta —no general— vas a llevar a la oración esta semana, y en qué momento del día la vas a hacer?"
@@ -54,7 +62,7 @@
       "options": [
         "Que Dios da las mismas instrucciones a todos pero en momentos diferentes",
         "Que Dios trata a todos exactamente igual sin considerar las diferencias individuales",
-        "Que Dios conoce a cada persona individualmente, sus fortalezas, debilidades y situación específica",
+        "Que Dios conoce a cada persona con sus fortalezas y su situación.",
         "Que Dios solo habla a las personas cuando tienen un cargo de responsabilidad"
       ],
       "correctAnswer": 2
@@ -66,7 +74,7 @@
         "Que las aflicciones son una señal de que Dios nos está probando especialmente a nosotros",
         "Que los santos nunca deberían sufrir tanto como los no miembros",
         "Que el sufrimiento terminará exactamente cuando lo elijamos nosotros",
-        "Que el Señor sabe que estamos sufriendo, tiene un límite en mente, y no nos abandona en el proceso"
+        "Que el Señor sabe del sufrimiento, le pone límite y no abandona."
       ],
       "correctAnswer": 3
     },
@@ -74,7 +82,7 @@
       "id": 3,
       "question": "En Doctrina y Convenios 23 el Señor dio revelaciones distintas a Oliver Cowdery, Hyrum Smith, Samuel Smith, José Smith padre y Joseph Knight, reconociendo en cada una fortalezas y debilidades particulares. ¿Qué principio doctrinal se desprende de esa forma de responder?",
       "options": [
-        "Que Él conoce a cada persona en su situación concreta, y su guía se ajusta a esa historia particular.",
+        "Que Él conoce a cada uno en su situación y ajusta Su guía a eso.",
         "Que las revelaciones personales solo se conceden a quienes tienen un llamamiento.",
         "Que la guía divina se adapta al grado de fe que cada persona demuestra previamente.",
         "Que el Señor prefiere dirigirse a las personas de a una y no a la Iglesia como cuerpo."
@@ -98,7 +106,7 @@
       "options": [
         "Compañía: las oraciones familiares tienen más eficacia que las personales.",
         "Mayor frecuencia: convendría orar también por la mañana.",
-        "Especificidad: el Señor respondió a preguntas concretas de personas concretas, no a peticiones genéricas.",
+        "Concreción: el Señor respondió a preguntas concretas, no genéricas.",
         "Formalidad: las oraciones deberían usar un lenguaje más reverente."
       ],
       "correctAnswer": 2
@@ -110,7 +118,7 @@
         "Vuelve innecesaria la oración, ya que Él conoce de antemano cada necesidad.",
         "Obliga a mostrarse bien delante de Él aunque uno no lo esté.",
         "Genera la sensación incómoda de estar observado en todo momento.",
-        "Permite acercarse sin tener que explicarlo todo, porque Él ya conoce la situación que uno atraviesa."
+        "Permite acercarse sin explicarlo todo, porque Él ya conoce la situación."
       ],
       "correctAnswer": 3
     },
@@ -118,7 +126,7 @@
       "id": 7,
       "question": "En Doctrina y Convenios 23–24 el Señor responde a personas por su nombre, y la hermana Franco enseñó que el Padre Celestial «sabe dónde estás y quién eres y lo que necesitas». ¿Qué principio común sostienen las dos cosas?",
       "options": [
-        "Que la relación de Dios con Sus hijos es individual, y por eso Su guía llega ajustada a cada situación.",
+        "Que la relación de Dios con cada hijo es individual, y Su guía también.",
         "Que quien conoce mejor la doctrina recibe respuestas más precisas.",
         "Que las respuestas de Dios llegan siempre por medio de otra persona.",
         "Que la revelación personal es un privilegio reservado a los primeros santos."

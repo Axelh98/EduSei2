@@ -6,7 +6,8 @@
       "contenido": [
         "Dos veces al año, el Salvador habla a toda Su Iglesia a través de Sus profetas y apóstoles en la Conferencia General. Eso no es una metáfora; es la promesa de D&C 1:38: las palabras del Señor 'pronunciadas por la voz de mis siervos... es como si fuera el mío propio'.",
         "Pero hay una diferencia enorme entre sentarse en un asiento y recibir un mensaje del Señor. La diferencia es la preparación. Los mejores estudiantes del evangelio llegan a la Conferencia General con preguntas específicas, con un corazón preparado por la oración, con una disposición genuina de actuar según lo que reciban. No llegan a ver un espectáculo; llegan a escuchar a su Padre a través de Sus siervos.",
-        "Esta lección enseña cómo prepararse para la próxima Conferencia General de forma concreta: estudiar mensajes anteriores de los líderes, identificar preguntas del alma que querés llevar, orar con anticipación para estar receptivo, y comprometerte de antemano a actuar según lo que recibas."
+        "Esta lección enseña cómo prepararse para la próxima Conferencia General de forma concreta: estudiar mensajes anteriores de los líderes, identificar preguntas del alma que querés llevar, orar con anticipación para estar receptivo, y comprometerte de antemano a actuar según lo que recibas.",
+        "Y hay una promesa que le cambia el peso a esos dos días. El Señor dijo de Sus propias palabras: «estas palabras no son de hombres, ni de hombre, sino mías… porque es mi voz la que os las declara», y agregó que por eso podemos testificar de haber oído Su voz. Cuando escuchás la conferencia preparado, no estás escuchando discursos: estás escuchando a Jesucristo hablando por Sus siervos. Su promesa es que lo vas a reconocer, y esa es la razón por la que conviene llegar con preguntas hechas y no con el televisor de fondo."
       ]
     },
     {
@@ -21,6 +22,11 @@
           "referencia": "Doctrina y Convenios 21:5–6",
           "texto": "Porque recibiréis su palabra con toda fe y paciencia como si viniera de mi propia boca. Porque si hacéis estas cosas, las puertas del infierno no prevalecerán contra vosotros.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=spa&id=p5-p6#p5"
+        },
+        {
+          "referencia": "Doctrina y Convenios 18:34–36",
+          "texto": "Estas palabras no son de hombres, ni de hombre, sino mías; por tanto, testificaréis que son de mí, y no del hombre. Porque es mi voz la que os las declara; porque os son dadas por mi Espíritu, y por mi poder las podéis leer los unos a los otros; y si no fuera por mi poder, no podríais tenerlas. Por tanto, podéis testificar que habéis oído mi voz y que conocéis mis palabras.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=spa&id=p34-p36#p34"
         }
       ]
     },
@@ -42,9 +48,9 @@
       "preguntas": [
         "¿Cuál fue el último mensaje de la Conferencia General que realmente te impactó? ¿Qué lo hizo significativo para vos?",
         "¿Qué diferencia hace ir a la Conferencia General con preguntas específicas versus ir sin preparación?",
-        "Según D&C 1:38, ¿cómo equivalen las palabras de los siervos del Señor a las palabras del Señor mismo?",
+        "Volvé a leer Doctrina y Convenios 18:34–36. ¿De quién dice el Señor que son esas palabras, y qué agrega sobre lo que Sus oyentes pueden llegar a testificar?",
         "¿Qué preguntas concretas de tu vida querés llevar a la próxima Conferencia General?",
-        "¿Qué harás esta semana para prepararte espiritualmente antes de la próxima Conferencia General?",
+        "¿Qué vas a hacer esta semana para prepararte antes de la próxima conferencia? Anotá dos preguntas concretas y llevalas a la oración antes de la primera sesión.",
         "¿En qué momento fijo de tu semana vas a repasar los mensajes de la última conferencia, para que no queden en una escucha única?"
       ]
     }
@@ -55,7 +61,7 @@
       "question": "Dos amigos miran la misma sesión de la Conferencia General. Luca llega con dos preguntas escritas y un cuaderno; Agustina la pone de fondo mientras hace otra cosa. Según lo que enseña esta lección, ¿de qué depende principalmente la diferencia entre lo que reciben?",
       "options": [
         "De cuál de los dos tenga mayor conocimiento previo de doctrina.",
-        "De la preparación con que cada uno llega: preguntas concretas, oración previa y disposición a obedecer.",
+        "De la preparación con que cada uno llegó a mirar la sesión.",
         "Del orador que le toque escuchar a cada uno en esa sesión.",
         "De si miran la sesión en el centro de reuniones o desde su casa."
       ],
@@ -67,7 +73,7 @@
       "options": [
         "Que debería tomar notas detalladas de todos los datos y cifras mencionados",
         "Que debería memorizar cada palabra para poder citarla exactamente",
-        "Que debería llegar con la disposición de un alumno frente a su Maestro, no de un espectador ante un programa",
+        "Que debería llegar con la disposición de un alumno, no de un espectador.",
         "Que debería grabar todo para escucharlo más tarde en lugar de prestar atención ahora"
       ],
       "correctAnswer": 2
@@ -79,7 +85,7 @@
         "Que las palabras de los siervos valen mientras coincidan con la opinión personal del oyente.",
         "Que la promesa se aplicaba a la época de José Smith y hoy funciona de otro modo.",
         "Que conviene escuchar solo a los oradores de mayor autoridad dentro de la Iglesia.",
-        "Que el mensaje de un siervo autorizado debe recibirse con el mismo peso que si lo dijera el Señor."
+        "Que el mensaje de un siervo autorizado pesa igual que si lo dijera el Señor mismo."
       ],
       "correctAnswer": 3
     },
@@ -87,7 +93,7 @@
       "id": 4,
       "question": "¿Qué diferencia hay entre alguien que llega a la Conferencia General preparado con oración y preguntas versus alguien que llega sin preparación?",
       "options": [
-        "El primero puede recibir revelación personal específica; el segundo solo escucha palabras generales",
+        "El primero puede recibir revelación personal; el segundo solo oye palabras.",
         "No hay diferencia real en la experiencia espiritual que se puede tener",
         "El primero se beneficia más de los discursos académicamente; el segundo más emocionalmente",
         "El primero escucha un programa espiritual interesante; el segundo también pero con menos atención"
@@ -99,7 +105,7 @@
       "question": "Doctrina y Convenios 21:5–6 promete que si recibimos la palabra del profeta «con toda fe y paciencia», las puertas del infierno no prevalecerán. ¿Qué condición establece ese pasaje antes de la promesa?",
       "options": [
         "Que la palabra se acepte solo después de confirmarla con fuentes externas.",
-        "Que la palabra se reciba con fe y con paciencia, es decir, sosteniéndola también cuando no se la entiende del todo.",
+        "Que la palabra se reciba con fe y con paciencia, aun sin entenderla.",
         "Que quien la reciba tenga un llamamiento activo en la Iglesia.",
         "Que la promesa se cumple automáticamente por asistir a la conferencia."
       ],
@@ -111,7 +117,7 @@
       "options": [
         "El 'infierno' es solo una metáfora que no tiene aplicación práctica",
         "Solo amenazas físicas y peligros visibles",
-        "Dudas no resueltas, hábitos que me alejan del Espíritu, o situaciones donde cedo ante la presión",
+        "Dudas sin resolver y hábitos que alejan del Espíritu",
         "Desafíos solo relacionados con la economía o la salud"
       ],
       "correctAnswer": 2
@@ -123,7 +129,7 @@
         "Que el valor del mensaje depende de la elocuencia con que se lo transmite.",
         "Que la paciencia solo es necesaria cuando el consejo profético resulta difícil de cumplir.",
         "Que ambas promesas se dirigen a la Iglesia como institución y no a los miembros en particular.",
-        "Que la autoridad del mensaje viene de quien lo envía, y por eso exige una respuesta que no depende del gusto del oyente."
+        "Que la autoridad del mensaje viene de quien lo envía, y por eso obliga a responder."
       ],
       "correctAnswer": 3
     }

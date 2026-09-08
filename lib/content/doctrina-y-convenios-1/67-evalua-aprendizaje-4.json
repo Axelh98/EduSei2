@@ -12,6 +12,11 @@
       "tipo": "escrituras",
       "citas": [
         {
+          "referencia": "Doctrina y Convenios 50:40",
+          "texto": "He aquí, sois niños pequeños y no podéis soportar todas las cosas por ahora; debéis crecer en gracia y en el conocimiento de la verdad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p40#p40"
+        },
+        {
           "referencia": "Doctrina y Convenios 45:57",
           "texto": "Porque aquellos que son prudentes y han recibido la verdad, y han tomado al Santo Espíritu por guía, y no han sido engañados... aguantarán el día.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=spa&id=p57#p57"
@@ -25,17 +30,20 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El cuarto bloque presentó al Salvador como Intercesor (D&C 45:3–5), las señales de los tiempos como confirmación de la fe y no como fuente de miedo, y los dones del Espíritu como herramientas de servicio mutuo. Si algo de esto cambió algo en vos — en cómo ves al Salvador, en cómo te preparás, en cómo usás tus dones — ese es el aprendizaje real. Establecé una meta espiritual concreta para el próximo bloque que sea tuya."
+      "contenido": [
+        "El cuarto bloque presentó al Salvador como Intercesor (D&C 45:3–5), las señales de los tiempos como confirmación de la fe y no como fuente de miedo, y los dones del Espíritu como herramientas de servicio mutuo. Si algo de esto cambió algo en vos — en cómo ves al Salvador, en cómo te preparás, en cómo usás tus dones — ese es el aprendizaje real. Establecé una meta espiritual concreta para el próximo bloque que sea tuya.",
+        "Y conviene evaluar con la vara que usa el Señor, no con la del rendimiento: «sois niños pequeños y no podéis soportar todas las cosas por ahora; debéis crecer en gracia y en el conocimiento de la verdad». Se espera crecimiento, no perfección, y Su gracia es lo que sostiene ese crecimiento."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuál fue la enseñanza de este bloque que más te impactó personalmente, y cómo cambió algo en vos?",
         "De los principios estudiados — intercesión del Salvador, señales de los tiempos, dones del Espíritu, discernimiento — ¿cuál aplicás más en tu vida diaria?",
-        "¿Qué pasaje del Dominio de la Doctrina de este bloque podés usar con más confianza en una conversación real?",
+        "Releé Doctrina y Convenios 50:40. ¿Qué reconoce el Señor sobre lo que Sus discípulos pueden soportar por ahora, y en qué dos cosas dice que deben crecer?",
         "¿En qué área de tu vida espiritual ves luz creciendo, como describe D&C 50:24?",
         "¿Qué meta espiritual específica y alcanzable te ponés para el próximo bloque de estudio?",
-        "Compará tus respuestas de la evaluación anterior con las de hoy. ¿Qué cambió, aunque sea poco, y qué sigue exactamente igual?"
+        "¿Qué meta espiritual te ponés para el bloque que viene? Ponela en oración esta semana y escribila donde la vuelvas a ver dentro de un mes."
       ]
     }
   ],
@@ -45,7 +53,7 @@
       "question": "De las semanas 11–12, ¿a cuál de estos principios pertenece la frase 'todo lo que no edifica no viene de Dios'?",
       "options": [
         "Al principio del examen de preparación de D&C 9.",
-        "Al criterio de D&C 50:23 para discernir si una manifestación o enseñanza viene del Espíritu.",
+        "Al criterio de D&C 50:23 para discernir lo que edifica.",
         "Al principio sobre la importancia de la asistencia a las reuniones.",
         "Al principio sobre cómo buscar los dones con diligencia en D&C 46."
       ],
@@ -69,7 +77,7 @@
         "Que D&C 46 y 49 son repeticiones del mismo principio expresadas de manera diferente.",
         "Que el Señor prefería dar revelaciones largas para cubrir múltiples problemas a la vez.",
         "Que el Señor quería establecer todas las leyes de la Iglesia antes de moverse a Misuri.",
-        "Que la Iglesia en Ohio enfrentaba simultáneamente confusión espiritual interna y error doctrinal externo — y el Señor respondió ambos con revelación directa."
+        "Que la Iglesia en Ohio enfrentaba al mismo tiempo confusión interna y error doctrinal."
       ],
       "correctAnswer": 3
     },
@@ -77,7 +85,7 @@
       "id": 4,
       "question": "¿Cuál es la diferencia entre buscar los 'mejores dones' (D&C 46:8) y simplemente esperar que el Señor los asigne sin buscarlos?",
       "options": [
-        "Buscar activamente implica orar, identificar la necesidad de quienes nos rodean y actuar con los dones que ya tenemos mientras pedimos los que necesitamos.",
+        "Orar, identificar la necesidad del otro y actuar con los dones que ya tenemos hoy.",
         "Solo los líderes deben buscar dones; los miembros comunes deben esperar la asignación.",
         "Buscar los dones es una señal de ambición espiritual que el Señor desaprueba.",
         "No hay diferencia — el Señor los asigna independientemente de si los buscamos."
@@ -89,7 +97,7 @@
       "question": "Valentina siente que las semanas 11–12 del Seminario le enseñaron mucho sobre discernimiento y dones, pero no sabe cómo aplicarlo esta semana. ¿Cuál sería la aplicación más directa y concreta?",
       "options": [
         "Escribir un ensayo sobre D&C 46 y 50 para el maestro de Seminario.",
-        "Identificar un don que tiene, buscar a alguien que lo necesite, y usar el criterio de 'edificar' para evaluar una influencia espiritual en su vida esta semana.",
+        "Identificar un don propio y usarlo esta semana con quien lo necesite.",
         "Hablar con el obispo sobre sus dones espirituales para que los registre formalmente.",
         "Esperar a la siguiente evaluación para decidir cómo aplicar lo aprendido."
       ],
@@ -101,7 +109,7 @@
       "options": [
         "Que la fe sin experiencias visibles no es válida para la vida eterna.",
         "Que tiene razón en preocuparse — las experiencias dramáticas son evidencia necesaria de la fe.",
-        "Que la luz crece gradualmente — el problema no es la ausencia de experiencias dramáticas sino si cada día está eligiendo recibir la Palabra y continuar en el Señor.",
+        "Que la luz crece gradualmente: la pregunta es si cada día sigue eligiendo.",
         "Que debería buscar experiencias más intensas para confirmar su fe."
       ],
       "correctAnswer": 2
@@ -113,7 +121,7 @@
         "Que el Señor estableció en ese período todas las reglas de conducta necesarias para la Iglesia.",
         "Que la organización formal de la Iglesia es más importante que las manifestaciones espirituales individuales.",
         "Que las revelaciones de ese período aplican solo al contexto histórico de Ohio en 1831.",
-        "Que el Espíritu Santo es el árbitro de lo que es genuino — en los dones, en la enseñanza y en la doctrina — y el discípulo fiel aprende a reconocer Su presencia por los frutos que produce."
+        "Que el Espíritu Santo es el árbitro de lo genuino: en los dones, la enseñanza y la doctrina."
       ],
       "correctAnswer": 3
     }

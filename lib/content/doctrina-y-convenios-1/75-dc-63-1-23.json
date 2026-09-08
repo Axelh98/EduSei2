@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "En agosto de 1831, algunos miembros de la Iglesia buscaban señales milagrosas como evidencia antes de creer o antes de comprometerse más plenamente con el evangelio. D&C 63:1–23 es la respuesta directa del Señor a esa mentalidad: las señales siguen a los que creen — no preceden a la fe para producirla. Buscar señales antes de creer es una trampa espiritual que el adversario usa para mantener a las personas en una fe permanentemente condicionada. El principio del Señor es exactamente el opuesto: primero la fe, luego las señales como confirmación. Esta lección también trata sobre la pureza sexual como condición espiritual: el Señor advierte directamente que la impureza cierra el acceso a la revelación y al Espíritu. Para los jóvenes que navegan una cultura saturada de estímulos sexuales y que a veces sienten que los estándares del evangelio son anticuados, esta revelación establece la razón espiritual de esos estándares: la pureza sexual no es una restricción sino una condición de la capacidad de recibir y reconocer la guía del Espíritu."
+      "contenido": [
+        "En agosto de 1831, algunos miembros de la Iglesia buscaban señales milagrosas como evidencia antes de creer o antes de comprometerse más plenamente con el evangelio. D&C 63:1–23 es la respuesta directa del Señor a esa mentalidad: las señales siguen a los que creen — no preceden a la fe para producirla. Buscar señales antes de creer es una trampa espiritual que el adversario usa para mantener a las personas en una fe permanentemente condicionada. El principio del Señor es exactamente el opuesto: primero la fe, luego las señales como confirmación. Esta lección también trata sobre la pureza sexual como condición espiritual: el Señor advierte directamente que la impureza cierra el acceso a la revelación y al Espíritu. Para los jóvenes que navegan una cultura saturada de estímulos sexuales y que a veces sienten que los estándares del evangelio son anticuados, esta revelación establece la razón espiritual de esos estándares: la pureza sexual no es una restricción sino una condición de la capacidad de recibir y reconocer la guía del Espíritu.",
+        "El orden que enseña este capítulo lo puso el propio Salvador en una escena conocida. Cuando Tomás dijo que no creería hasta ver las marcas, Jesús se le apareció y le dijo: «Porque me has visto, Tomás, has creído; bienaventurados los que no vieron y creyeron». No lo rechazó, pero dejó claro cuál de las dos cosas vale más. Es lo mismo que dice Doctrina y Convenios 63:9–10: la fe no viene por señales, las señales vienen por la fe. Y Su promesa está del lado del que da el paso primero, sin evidencia de sobra, confiando en quién es Él."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -12,6 +15,11 @@
           "referencia": "Doctrina y Convenios 63:9–10",
           "texto": "Pero he aquí, la fe no viene por las señales, mas las señales siguen a los que creen. Sí, las señales vienen por la fe, no por la voluntad de los hombres, ni como les plazca, sino por la voluntad de Dios.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=spa&id=p9-p10#p9"
+        },
+        {
+          "referencia": "Juan 20:29",
+          "texto": "Jesús le dijo: Porque me has visto, Tomás, has creído; bienaventurados los que no vieron y creyeron.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/20?lang=spa&id=p29#p29"
         },
         {
           "referencia": "Doctrina y Convenios 63:16",
@@ -25,7 +33,7 @@
       "autor": "Presidente Dallin H. Oaks",
       "fuente": "«Recuperarse de caer en la trampa de la pornografía», Liahona, octubre de 2015, págs. 52–53",
       "texto": "Creo que todas las personas se han visto expuestas a la pornografía de manera involuntaria. Eso no es un pecado si nos alejamos de ella.",
-      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/232-doctrine-and-covenants-63-1-23?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/232-doctrine-and-covenants-63-1-23?lang=spa&id=aside1_aside3_p1#aside1_aside3_p1"
     },
     {
       "tipo": "conclusion",
@@ -36,10 +44,10 @@
       "preguntas": [
         "¿Cuál es la secuencia correcta entre fe y señales según D&C 63:9–10? ¿Por qué importa ese orden?",
         "¿Alguna vez esperaste una señal o confirmación antes de actuar con fe? ¿Qué pasó?",
-        "¿Cómo explica D&C 63:16 la relación entre la pureza moral y la capacidad de recibir guía espiritual?",
+        "Fijate en Juan 20:29: ¿a quiénes llama Jesús «bienaventurados», y en qué se parece eso a lo que dice Doctrina y Convenios 63:9–10 sobre la fe y las señales?",
         "¿Qué influencias en tu entorno — contenido digital, conversaciones, entretenimiento — podrían estar afectando tu capacidad de recibir la guía del Espíritu?",
         "¿Qué decisión concreta tomarías esta semana para proteger tu pureza espiritual y tu acceso a la luz del Señor?",
-        "De las influencias que nombraste, ¿cuál vas a limitar esta semana de manera medible —una app menos, un horario tope, una cuenta que dejás de seguir—?"
+        "De las influencias que nombraste, ¿cuál vas a limitar esta semana? Reflexioná por qué esa y no otra, y escribí tu respuesta donde la vuelvas a ver."
       ]
     }
   ],
@@ -48,7 +56,7 @@
       "id": 1,
       "question": "D&C 63:9–10 establece la secuencia correcta entre fe y señales. ¿Cuál es esa secuencia?",
       "options": [
-        "Las señales siguen a los que creen — la fe precede a las señales, no al revés.",
+        "Las señales siguen a los que creen: primero va la fe, y solo después ellas.",
         "Las señales deben buscarse primero para confirmar que la fe es correcta.",
         "Las señales y la fe se desarrollan simultáneamente sin un orden específico.",
         "Las señales solo siguen a los que tienen cargos de sacerdocio activos."
@@ -72,7 +80,7 @@
       "options": [
         "Porque buscar señales es una señal de deshonestidad espiritual que el Señor no recompensa.",
         "Porque las señales siempre son falsas y engañosas por naturaleza.",
-        "Porque la fe basada en señales externas depende de que las señales continúen — cuando dejan de venir, la fe colapsa; la fe basada en el Espíritu es independiente de las circunstancias.",
+        "Porque la fe basada en señales depende de que sigan viniendo; cuando faltan, se cae.",
         "Porque las señales solo se dan una vez y después ya no están disponibles."
       ],
       "correctAnswer": 2
@@ -84,7 +92,7 @@
         "Que la impureza mental es un pecado menor que el Señor comprende dada la cultura actual.",
         "Que solo la impureza en actos físicos afecta la presencia del Espíritu, no los pensamientos.",
         "Que la impureza moral solo afecta las relaciones humanas, no la relación con el Espíritu.",
-        "Que el Espíritu Santo necesita un templo limpio para habitar — la impureza mental cierra el canal de comunicación espiritual más importante que el discípulo tiene."
+        "Que el Espíritu necesita un templo limpio, y la impureza mental le cierra ese canal suyo."
       ],
       "correctAnswer": 3
     },
@@ -92,7 +100,7 @@
       "id": 5,
       "question": "Agustín dice que no puede creer en el evangelio hasta que tenga una experiencia sobrenatural que lo convenza. Según D&C 63:9–10, ¿qué está haciendo Agustín sin darse cuenta?",
       "options": [
-        "Buscando señales antes de tener fe — y el Señor dice que las señales siguen a los que creen, no a los que primero quieren ver para después creer.",
+        "Buscando señales antes de tener fe, cuando el Señor dijo que siguen a los que creen.",
         "Aplicando el principio de D&C 9:7–8 correctamente — estudiar primero, luego preguntar.",
         "Teniendo exactamente la actitud de humildad que el Señor valora antes de dar señales.",
         "Siendo razonable — la evidencia espiritual es una demanda legítima antes de creer."
@@ -104,7 +112,7 @@
       "question": "Sofía consume contenido digital que sabe que compromete su pureza mental pero dice que 'no tiene consecuencias porque solo son imágenes'. D&C 63:16 le responde directamente. ¿Qué le diría?",
       "options": [
         "Que tiene razón — las imágenes mentales no tienen el mismo impacto que los actos físicos.",
-        "Que lo que mira para codiciar le quita la luz y la gracia de Dios — la pureza empieza en lo que se permite en la mente, no solo en lo que se hace físicamente.",
+        "Que lo que mira para codiciar le quita la luz, y la pureza empieza en su propia mente.",
         "Que debería hablar con el obispo antes de preocuparse por el contenido digital.",
         "Que el problema solo existirá si esas imágenes mentales llevan a acciones físicas."
       ],
@@ -116,7 +124,7 @@
       "options": [
         "La confianza de los líderes locales en el discípulo como miembro confiable.",
         "La preparación para recibir el sacerdocio o las ordenanzas del templo.",
-        "La capacidad de recibir y mantener el Espíritu Santo — tanto la mentalidad de señales como la impureza mental cierran esa capacidad; ambos principios protegen el acceso al Espíritu.",
+        "La capacidad de recibir el Espíritu Santo: las dos cosas cierran ese acceso.",
         "La posición social del discípulo dentro de la comunidad de la Iglesia."
       ],
       "correctAnswer": 2

@@ -6,7 +6,8 @@
       "contenido": [
         "Cualquiera que haya hecho una caminata larga sabe que la mitad del trayecto es el peor momento: ya estás cansado y todavía falta. Nadie mide su avance mirando la cima; se mide mirando hacia atrás, hacia dónde arrancó.",
         "Esta evaluación cierra el estudio de Doctrina y Convenios 76–83, un bloque que incluye la visión de los tres grados de gloria, el mandato de socorrer a los débiles, la promesa de que el Señor está obligado cuando obedecemos y la instrucción de recibir todas las cosas con gratitud. Son ideas grandes, y por eso mismo es fácil terminarlas sin notar si cambiaron algo.",
-        "La lección propone tres preguntas concretas: ¿podés explicar con tus palabras lo que estudiaste?, ¿qué pasó con las metas que te fijaste?, ¿cambió algo en lo que querés y en lo que sos capaz de hacer? La tercera es la más difícil de contestar honestamente, porque el crecimiento espiritual casi nunca se siente mientras ocurre. Por eso conviene escribir las respuestas: dentro de seis meses, el papel va a ser mucho más confiable que el recuerdo."
+        "La lección propone tres preguntas concretas: ¿podés explicar con tus palabras lo que estudiaste?, ¿qué pasó con las metas que te fijaste?, ¿cambió algo en lo que querés y en lo que sos capaz de hacer? La tercera es la más difícil de contestar honestamente, porque el crecimiento espiritual casi nunca se siente mientras ocurre. Por eso conviene escribir las respuestas: dentro de seis meses, el papel va a ser mucho más confiable que el recuerdo.",
+        "El manual pide que esta evaluación deje algo en claro antes de cerrar el bloque: heredar un reino de gloria, incluida la celestial, «solo es posible por medio de Jesucristo». La visión de la sección 76 lo dice con todas las letras: los del reino celestial son «hombres justos hechos perfectos mediante Jesús, el mediador del nuevo convenio, que obró esta perfecta expiación derramando su propia sangre» (versículo 69). Ninguna de las decisiones que anotes esta semana te hace perfecto: te acerca a Él, que es quien perfecciona. Y los tres grados de gloria, señala el manual, muestran justamente Su misericordia."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 82:10",
           "texto": "Yo, el Señor, estoy obligado cuando hacéis lo que os digo; mas cuando no hacéis lo que os digo, ninguna promesa tenéis.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Doctrina y Convenios 76:69",
+          "texto": "Son hombres justos hechos perfectos mediante Jesús, el mediador del nuevo convenio, que obró esta perfecta expiación derramando su propia sangre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p69#p69"
         }
       ]
     },
@@ -47,7 +53,7 @@
       "preguntas": [
         "¿Alguna vez hiciste algo largo y exigente —una caminata, un entrenamiento, un proyecto—? ¿Cómo sabías que estabas avanzando?",
         "De todo lo que estudiaste en Doctrina y Convenios 76–83, ¿qué podrías explicarle a alguien con tus propias palabras ahora mismo?",
-        "¿Qué metas te fijaste en estas semanas? ¿Qué pasó con ellas?",
+        "Volvé a leer Doctrina y Convenios 76:69 en el bloque de escrituras. ¿Mediante quién dice el versículo que los justos son hechos perfectos, y qué cambia eso en la manera de evaluar tu propio progreso?",
         "El presidente Nelson dice que cada acción buena que «el hombre natural no haría» es vencer al mundo. ¿Cuál fue la última tuya?",
         "Doctrina y Convenios 81:5 manda socorrer a los débiles y levantar las manos caídas. ¿A quién levantaste vos en estas semanas?",
         "Escribí las tres decisiones concretas que tomaste por lo que aprendiste. ¿Cuáles son, y dónde vas a guardar esa lista?"
@@ -60,7 +66,7 @@
       "question": "Según Doctrina y Convenios 81:5, ¿qué se le manda hacer a quien es fiel en su oficio?",
       "options": [
         "Predicar el evangelio a toda criatura sin demora.",
-        "Socorrer a los débiles, levantar las manos caídas y fortalecer las rodillas debilitadas.",
+        "Socorrer a los débiles y levantar las manos caídas.",
         "Reunir a los santos en el lugar señalado para Sion.",
         "Guardar en secreto las revelaciones recibidas hasta el momento indicado."
       ],
@@ -72,7 +78,7 @@
       "options": [
         "Que recibirá revelación sobre los misterios del reino.",
         "Que sus oraciones serán contestadas de inmediato.",
-        "Que será glorificado y le serán añadidas las cosas de esta tierra hasta cien tantos.",
+        "Que será glorificado y recibirá las cosas de esta tierra.",
         "Que quedará libre de las tribulaciones de los últimos días."
       ],
       "correctAnswer": 2
@@ -84,7 +90,7 @@
         "Lo limita a quienes ya recibieron las ordenanzas del templo.",
         "Lo reduce a evitar los pecados más graves.",
         "Lo convierte en un logro final que se alcanza tras años de fidelidad.",
-        "Lo convierte en una serie de decisiones concretas y repetidas, no en un estado que se conquista de una vez."
+        "Lo convierte en decisiones concretas y repetidas, no en un estado."
       ],
       "correctAnswer": 3
     },
@@ -92,7 +98,7 @@
       "id": 4,
       "question": "Martina siente que este semestre «no cambió en nada» y por eso no quiere hacer la evaluación. Según lo que propone esta lección, ¿qué le conviene hacer?",
       "options": [
-        "Revisar sus notas y sus metas escritas, porque el crecimiento rara vez se siente mientras ocurre.",
+        "Revisar sus notas y sus metas escritas de estas semanas.",
         "Comparar su progreso con el de sus compañeros de clase.",
         "Fijarse metas más ambiciosas para el próximo bloque.",
         "Esperar a sentir un cambio claro antes de intentar evaluarse."
@@ -104,7 +110,7 @@
       "question": "Luca cumple con sus tareas de la Iglesia pero nunca se le ocurre ayudar a alguien si no se lo piden. Según Doctrina y Convenios 81:5, ¿qué le falta a su forma de ser fiel?",
       "options": [
         "Aceptar un llamamiento formal que le dé una responsabilidad concreta.",
-        "La iniciativa de socorrer y levantar a quien lo necesita, que es parte del mandato y no un agregado opcional.",
+        "La iniciativa de socorrer y levantar, que es parte del mandato.",
         "Mayor conocimiento doctrinal antes de intentar ayudar a otros.",
         "Esperar a que un líder le asigne a quién debe ayudar."
       ],
@@ -116,8 +122,8 @@
       "options": [
         "Que agradecer sustituye la necesidad de obedecer los mandamientos.",
         "Que la glorificación depende del número de bendiciones recibidas.",
-        "Que es una actitud que Dios recompensa además de valorar, y no solo una cortesía.",
-        "Que la gratitud se debe expresar únicamente por las bendiciones materiales."
+        "Que es una actitud que Dios recompensa además de valorar, no una cortesía.",
+        "Que la gratitud se debe expresar solo por las bendiciones materiales."
       ],
       "correctAnswer": 2
     },
@@ -127,8 +133,8 @@
       "options": [
         "Que las promesas divinas se cumplen con independencia de lo que la persona haga.",
         "Que la evaluación personal debe centrarse en los sentimientos más que en los actos.",
-        "Que vencer al mundo es un requisito previo para reclamar cualquier promesa.",
-        "Que el avance espiritual se mide por acciones concretas y repetidas, que son las que activan las promesas."
+        "Que vencer al mundo es un requisito previo a fin de reclamar cualquier promesa.",
+        "Que el avance espiritual se mide por lo que se hace, no por lo que se siente."
       ],
       "correctAnswer": 3
     }

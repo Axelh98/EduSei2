@@ -5,12 +5,18 @@
       "tipo": "contexto",
       "contenido": [
         "El Señor fue claro en Doctrina y Convenios 88:118 y 130:18–19: buscar conocimiento de los mejores libros y con la fe es un mandamiento, y la inteligencia que adquirimos en esta vida nos acompaña en la resurrección. Estudiar —en la escuela, en el Seminario, en casa— no es solo una obligación social o económica, sino una responsabilidad espiritual.",
-        "Para los jóvenes de secundaria que a veces sienten que el estudio es una carga sin propósito, esta lección propone un cambio de perspectiva: la educación es mayordomía. El Señor te dio una mente y espera que la desarrolles con la misma dedicación con que desarrollás el carácter. La lección también aborda la tensión real entre las demandas del colegio y las de la Iglesia, y ofrece principios para integrarlas en lugar de verlas como rivales. Esa tensión es concreta —el examen del lunes contra la actividad del sábado, la beca contra la misión— y negarla no ayuda a nadie: lo que ayuda es tener un criterio para decidir cuando las dos cosas no entran en la misma semana."
+        "Para los jóvenes de secundaria que a veces sienten que el estudio es una carga sin propósito, esta lección propone un cambio de perspectiva: la educación es mayordomía. El Señor te dio una mente y espera que la desarrolles con la misma dedicación con que desarrollás el carácter. La lección también aborda la tensión real entre las demandas del colegio y las de la Iglesia, y ofrece principios para integrarlas en lugar de verlas como rivales. Esa tensión es concreta —el examen del lunes contra la actividad del sábado, la beca contra la misión— y negarla no ayuda a nadie: lo que ayuda es tener un criterio para decidir cuando las dos cosas no entran en la misma semana.",
+        "Hay un motivo más para estudiar, y es el que menos se nombra: aprender del mundo es aprender de Quien lo hizo. «Todas las cosas por medio de él fueron hechas, y sin él nada de lo que ha sido hecho fue hecho.» La química, la historia, la música y la biología que ves en el colegio son la obra de Jesucristo mirada de cerca. Por eso estudiar te puede acercar a Él y no solo a un título. Su promesa es que quien busca aprender y crecer halla fortaleza —emocional, intelectual y espiritual—, y esa fortaleza no queda anotada en ningún boletín."
       ]
     },
     {
       "tipo": "escrituras",
       "citas": [
+        {
+          "referencia": "Juan 1:3",
+          "texto": "Todas las cosas por medio de él fueron hechas, y sin él nada de lo que ha sido hecho fue hecho.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/1?lang=spa&id=p3#p3"
+        },
         {
           "referencia": "Doctrina y Convenios 88:118",
           "texto": "Y por cuanto no todos tienen fe, buscad diligentemente y enseñaos el uno al otro palabras de sabiduría; sí, buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe.",
@@ -32,15 +38,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Ver la educación como mayordomía espiritual lo cambia todo: ya no estudiás solo para conseguir trabajo o para aprobar — estudiás porque el Señor te dio una mente y espera que la desarrolles para Su obra y para el bienestar de tu familia y tu comunidad. D&C 130:18–19 promete que el conocimiento adquirido con fidelidad no se pierde — trasciende esta vida. Esa es una motivación que ningún otro sistema de valores puede ofrecer."
+      "contenido": [
+        "Ver la educación como mayordomía espiritual lo cambia todo: ya no estudiás solo para conseguir trabajo o para aprobar, sino porque el Señor te dio una mente y espera que la desarrolles para Su obra y para el bienestar de tu familia y tu comunidad. Doctrina y Convenios 130:18–19 promete que el conocimiento adquirido con fidelidad no se pierde: trasciende esta vida. Y hay una ganancia que llega mucho antes: conforme aprendés sobre el mundo, vas conociendo mejor a Jesucristo, que lo creó. Elegí una materia que estés dejando caer y dedicale media hora extra esta semana, sabiendo para Quién es ese trabajo."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cómo cambiaría tu actitud hacia el colegio si lo vieras como una responsabilidad espiritual en lugar de una obligación social?",
         "¿Qué materia o habilidad estás aprendiendo ahora que podría ser útil para el servicio en la Iglesia o en tu familia?",
-        "¿Cómo integrás actualmente el estudio del evangelio con el estudio académico? ¿Se refuerzan o compiten?",
-        "¿Qué hábito de estudio concreto podrías mejorar esta semana, tanto en la escuela como en las Escrituras?",
+        "Releé Doctrina y Convenios 130:18–19. ¿Qué dos condiciones nombra el versículo para que alguien adquiera más conocimiento e inteligencia que otro? ¿Cuál de las dos depende de vos hoy?",
+        "Elegí la materia que más se te está cayendo y ponela en oración una vez esta semana. ¿Qué se te ocurrió hacer distinto después?",
         "Si la inteligencia que adquirís en esta vida te acompaña en la resurrección, ¿qué querés llevarte?",
         "¿Qué materia estás dejando caer ahora mismo, y qué cambio concreto de tu rutina de estudio la levantaría antes de que termine el trimestre?"
       ]
@@ -64,7 +72,7 @@
       "options": [
         "La fe sin estudio es más valorada por el Señor porque demuestra mayor humildad.",
         "Nada problemático — ambas formas producen crecimiento espiritual aunque de manera diferente.",
-        "El estudio sin fe puede volverse arrogante; la fe sin estudio puede volverse superficial — cada una sola es incompleta.",
+        "El estudio sin fe se vuelve arrogante y la fe sin estudio, superficial.",
         "El estudio sin fe es más peligroso que la fe sin estudio."
       ],
       "correctAnswer": 2
@@ -84,7 +92,7 @@
       "id": 4,
       "question": "El élder Bednar enseñó que estamos en la tierra «para aprender a aprender» y para llegar a amar el aprendizaje. Según esa idea, ¿qué es más valioso que el contenido específico de cualquier materia?",
       "options": [
-        "La habilidad de abordar cualquier tema nuevo con método, curiosidad y perseverancia.",
+        "La habilidad de abordar cualquier tema con método y perseverancia.",
         "La disciplina de estudiar más horas que los demás sin cansarse.",
         "La facilidad para explicar a otros lo que uno ya domina.",
         "La capacidad de memorizar grandes cantidades de información con precisión."
@@ -96,7 +104,7 @@
       "question": "Tomás detesta matemáticas y dice que no las va a necesitar nunca. Según Doctrina y Convenios 130:18–19, ¿qué argumento del evangelio le da más perspectiva sobre ese razonamiento?",
       "options": [
         "Que el Señor le dará ese conocimiento en la resurrección si llega a necesitarlo para Su obra.",
-        "Que la inteligencia adquirida con diligencia y obediencia se lleva a la otra vida, incluso la que hoy parece inútil.",
+        "Que la inteligencia adquirida con diligencia y obediencia se lleva a la otra vida.",
         "Que las matemáticas son imprescindibles para administrar el dinero en la vida adulta.",
         "Que conviene estudiar lo que no gusta porque desarrolla el carácter frente a la dificultad."
       ],
@@ -108,7 +116,7 @@
       "options": [
         "La dimensión social — no estudia en grupo y eso limita su aprendizaje.",
         "La dimensión formal — necesita un llamamiento de la Iglesia para que su estudio tenga valor espiritual.",
-        "La dimensión de la fe — está estudiando 'con el estudio' pero sin 'la fe' que el Señor pone junto al estudio como condición.",
+        "La dimensión de la fe: estudia «con el estudio», pero sin la fe que el Señor pide.",
         "La dimensión doctrinal — necesita leer las Escrituras además de sus materias para que el estudio sea completo."
       ],
       "correctAnswer": 2
@@ -120,7 +128,7 @@
         "Que la educación académica es más importante que la educación espiritual en esta etapa de la vida.",
         "Que el Señor recompensa el estudio académico con bendiciones económicas en esta vida.",
         "Que la educación formal y la fe espiritual son dos caminos paralelos que nunca se cruzan.",
-        "Que el aprendizaje es una responsabilidad eterna y espiritual — no termina en la escuela ni en esta vida — y la fe lo transforma de obligación en mayordomía."
+        "Que aprender es una responsabilidad eterna, y la fe la vuelve mayordomía."
       ],
       "correctAnswer": 3
     }

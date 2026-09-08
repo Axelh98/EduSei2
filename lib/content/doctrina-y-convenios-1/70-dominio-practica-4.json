@@ -18,6 +18,11 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p11-p12#p11"
         },
         {
+          "referencia": "Doctrina y Convenios 82:10",
+          "texto": "Yo, el Señor, estoy obligado cuando hacéis lo que os digo; mas cuando no hacéis lo que os digo, ninguna promesa tenéis.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=spa&id=p10#p10"
+        },
+        {
           "referencia": "Doctrina y Convenios 50:24",
           "texto": "Lo que es de Dios es luz; y el que recibe luz y persevera en Dios, recibe más luz, y esa luz se hace más y más resplandeciente hasta el día perfecto.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p24#p24"
@@ -29,12 +34,13 @@
       "autor": "Élder Richard G. Scott",
       "fuente": "«El poder de las Escrituras», Conferencia General, octubre de 2011 (Liahona, noviembre de 2011)",
       "texto": "Una escritura memorizada pasa a ser una amistad duradera que no se debilita con el paso del tiempo.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa&id=p15#p15"
     },
     {
       "tipo": "conclusion",
       "contenido": [
-        "El Dominio de la Doctrina es equipamiento espiritual permanente. Cada pasaje que entendés de verdad y podés usar queda disponible para toda la vida, y sobre todo para los momentos que nadie planifica: una pregunta incómoda en el colegio, una noche difícil, un amigo que se está alejando. Esta sesión de práctica no es un repaso escolar, es una verificación de qué tan listos están esos versículos para cuando hagan falta. Antes de irte del aula, elegí el pasaje que peor te salió hoy y decidí a quién se lo vas a explicar en voz alta esta semana."
+        "El Dominio de la Doctrina es equipamiento espiritual permanente. Cada pasaje que entendés de verdad y podés usar queda disponible para toda la vida, y sobre todo para los momentos que nadie planifica: una pregunta incómoda en el colegio, una noche difícil, un amigo que se está alejando. Esta sesión de práctica no es un repaso escolar, es una verificación de qué tan listos están esos versículos para cuando hagan falta. Antes de irte del aula, elegí el pasaje que peor te salió hoy y decidí a quién se lo vas a explicar en voz alta esta semana.",
+        "Y hay un pasaje del bloque que explica por qué tenerlos a mano: «yo, el Señor, estoy obligado cuando hacéis lo que os digo». Él se compromete primero, y Su promesa hace que obedecer no sea un salto al vacío."
       ]
     },
     {
@@ -42,10 +48,10 @@
       "preguntas": [
         "¿Qué pasajes del Dominio de la Doctrina podés citar y explicar con más confianza hoy?",
         "Si alguien te dijera 'no sé si tengo dones espirituales', ¿qué versículo usarías y cómo lo explicarías?",
-        "¿Cuándo fue la última vez que usaste un pasaje memorizado fuera del aula de Seminario?",
+        "Leé Doctrina y Convenios 82:10. ¿A qué se compromete el Señor y bajo qué condición, y qué dice que pasa cuando esa condición no se cumple?",
         "¿Qué versículo todavía no tenés bien dominado? ¿Cuál es tu plan para aprenderlo esta semana?",
         "¿Cómo explicarías D&C 50:24 a alguien que siente que su fe no está creciendo?",
-        "Elegí uno de los tres pasajes y explicáselo hoy a alguien de tu casa, en menos de un minuto y sin leerlo. ¿Cuál elegís y a quién?"
+        "¿Qué pasaje de este bloque querés tener listo para cuando alguien te pregunte algo difícil? Orá pidiendo reconocer ese momento y anotá cuál elegiste."
       ]
     }
   ],
@@ -54,7 +60,7 @@
       "id": 1,
       "question": "D&C 46:11–12 es un pasaje del Dominio de la Doctrina. ¿Cuál es su declaración central?",
       "options": [
-        "A todos se les dan dones por el Espíritu de Dios, para que todos sean beneficiados.",
+        "A todos, para que todos sean beneficiados.",
         "El Señor está obligado cuando hacemos lo que Él dice.",
         "La luz de Cristo da luz a todo hombre que viene al mundo.",
         "Si no sois uno, no sois míos."
@@ -66,7 +72,7 @@
       "question": "Si alguien te pregunta '¿por qué confías en que el Señor cumplirá Sus promesas?', ¿cuál de los pasajes del Dominio de la Doctrina responde eso más directamente?",
       "options": [
         "D&C 8:2–3 — habla a la mente y al corazón.",
-        "D&C 82:10 — 'Yo, el Señor, estoy obligado cuando hacéis lo que os digo.'",
+        "D&C 82:10: 'Yo, el Señor, estoy obligado'",
         "D&C 18:10–11 — el valor de las almas.",
         "D&C 6:36 — 'No temas, pequeño rebaño.'"
       ],
@@ -78,7 +84,7 @@
       "options": [
         "Rechazándolo de inmediato sin considerarlo porque la confusión ya es señal suficiente.",
         "Aceptándolo porque cualquier cosa espiritual tiene valor aunque genere confusión.",
-        "Aplicando el criterio del versículo: si no edifica — si no te acerca al Señor, no fortalece tu fe ni te inspira a ser mejor — no viene de Dios.",
+        "Aplicando el criterio del versículo: si no te acerca al Señor, no es de Él.",
         "Consultando primero las redes sociales para ver qué opina la mayoría."
       ],
       "correctAnswer": 2
@@ -90,7 +96,7 @@
         "Saber cuántos versículos tiene la sección en la que aparece.",
         "Haber escuchado tres sermones diferentes sobre ese versículo.",
         "Haberlo copiado a mano tres veces como técnica de memorización.",
-        "Poder explicar su principio central con tus propias palabras, ubicarlo en su contexto y aplicarlo a una situación real sin necesitar buscarlo."
+        "Poder explicarlo con tus palabras y usarlo sin ir a buscarlo."
       ],
       "correctAnswer": 3
     },
@@ -98,7 +104,7 @@
       "id": 5,
       "question": "Nicolás memorizó D&C 46:11–12 pero nunca lo usó fuera del Seminario. Esta semana su hermana menor le dice que siente que no tiene ningún don especial. ¿Cómo podría Nicolás usar ese versículo?",
       "options": [
-        "Diciéndole que el versículo dice que a todos se les da un don — y ayudándola a identificar cuál podría ser el suyo.",
+        "Mostrándole que el versículo promete un don a cada uno, también a ella.",
         "Guardándolo para una situación más importante porque el problema de su hermana es menor.",
         "Enviándole el versículo por mensaje de texto sin explicación para que ella lo interprete.",
         "Recitándoselo en voz alta para que ella lo memorice también."
@@ -110,7 +116,7 @@
       "question": "Renata quiere usar un versículo del Dominio de la Doctrina en su próxima lección de Seminario. ¿Cuál es la señal de que lo usó bien, no solo que lo citó?",
       "options": [
         "Que recitó el versículo sin errores y dio la referencia completa.",
-        "Que el versículo iluminó el principio de la lección y los alumnos pudieron conectarlo con su propia vida.",
+        "Que el versículo iluminó el principio y ellos lo conectaron.",
         "Que usó el versículo más largo disponible para impresionar al maestro.",
         "Que la clase aplaudió después de la cita."
       ],
@@ -122,7 +128,7 @@
       "options": [
         "El versículo aprendido fue revisado una vez; el dominado fue revisado más de diez veces.",
         "El versículo aprendido está en el corazón; el dominado solo está en la mente.",
-        "El versículo aprendido puede recitarse; el dominado puede usarse — aparece naturalmente en conversaciones, decisiones y momentos de necesidad, sin tener que buscarlo.",
+        "El aprendido puede recitarse; el dominado aparece solo cuando hace falta usarlo.",
         "No hay diferencia práctica — ambos producen el mismo resultado espiritual."
       ],
       "correctAnswer": 2

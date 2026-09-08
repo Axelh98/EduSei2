@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La salud emocional es uno de los temas más relevantes para los jóvenes de hoy, y el evangelio tiene mucho que decir sobre ella. Esta lección no propone que la fe reemplaza la atención profesional cuando es necesaria — propone que los principios del evangelio son recursos poderosos para construir la fortaleza emocional que permite atravesar las dificultades de la vida sin quebrarse. Los principios que se estudian incluyen: la identidad como hijo o hija del Padre Celestial como base de la autoestima real, la Expiación del Salvador como fuente de sanación emocional, la oración y el estudio de las Escrituras como herramientas de regulación emocional, el servicio a otros como antídoto a la depresión, y la comunidad de la Iglesia como red de sostén. Para los jóvenes que lidian con ansiedad, comparación, soledad o incertidumbre sobre el futuro, esta lección ofrece una perspectiva que ninguna influencia secular puede dar: la fortaleza emocional tiene una fuente espiritual."
+      "contenido": [
+        "La salud emocional es uno de los temas más relevantes para los jóvenes de hoy, y el evangelio tiene mucho que decir sobre ella. Esta lección no propone que la fe reemplaza la atención profesional cuando es necesaria — propone que los principios del evangelio son recursos poderosos para construir la fortaleza emocional que permite atravesar las dificultades de la vida sin quebrarse. Los principios que se estudian incluyen: la identidad como hijo o hija del Padre Celestial como base de la autoestima real, la Expiación del Salvador como fuente de sanación emocional, la oración y el estudio de las Escrituras como herramientas de regulación emocional, el servicio a otros como antídoto a la depresión, y la comunidad de la Iglesia como red de sostén. Para los jóvenes que lidian con ansiedad, comparación, soledad o incertidumbre sobre el futuro, esta lección ofrece una perspectiva que ninguna influencia secular puede dar: la fortaleza emocional tiene una fuente espiritual.",
+        "Hay una razón doctrinal por la que el Señor puede acompañar ese dolor y no solo mirarlo desde afuera. Alma explica que Jesucristo tomó sobre Sí los dolores y las enfermedades de Su pueblo, y también sus debilidades, «para que sus entrañas sean llenas de misericordia… a fin de que según la carne sepa cómo socorrer a los de su pueblo». No es que entienda de oídas: lo vivió. Por eso cuando llevás una carga emocional a Él no estás explicándole algo nuevo, y Su misericordia no es lástima: es la de alguien que estuvo exactamente ahí."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -12,6 +15,11 @@
           "referencia": "Doctrina y Convenios 121:7–8",
           "texto": "Hijo mío, paz a tu alma; tu adversidad y tus aflicciones no serán más que por un breve momento; y entonces, si lo sobrellevas bien, Dios te exaltará; triunfarás sobre todos tus enemigos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=spa&id=p7-p8#p7"
+        },
+        {
+          "referencia": "Alma 7:11–12",
+          "texto": "Y él saldrá, sufriendo dolores, aflicciones y tentaciones de todas clases; y esto para que se cumpla la palabra que dice: Tomará sobre sí los dolores y las enfermedades de su pueblo. Y tomará sobre sí la muerte, para soltar las ligaduras de la muerte que sujetan a su pueblo; y sus debilidades tomará él sobre sí, para que sus entrañas sean llenas de misericordia, según la carne, a fin de que según la carne sepa cómo socorrer a los de su pueblo, de acuerdo con las debilidades de ellos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p11-p12#p11"
         },
         {
           "referencia": "Filipenses 4:7",
@@ -25,7 +33,7 @@
       "autor": "Élder Jeffrey R. Holland",
       "fuente": "«Como una vasija quebrada», Liahona, noviembre de 2013, págs. 40–42",
       "texto": "Si tuvieran apendicitis, Dios esperaría que pidieran una bendición del sacerdocio y que obtuvieran la mejor atención médica disponible; lo mismo se aplica a los trastornos emocionales. […] Las mentes quebradas se pueden curar de la misma manera que se curan los huesos y los corazones rotos.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/10/like-a-broken-vessel?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/10/like-a-broken-vessel?lang=spa&id=p10#p10"
     },
     {
       "tipo": "conclusion",
@@ -36,7 +44,7 @@
       "preguntas": [
         "¿Qué principios del evangelio te ayudan más cuando atravesás momentos emocionalmente difíciles?",
         "¿Alguna vez sentiste la 'paz de Dios que sobrepasa todo entendimiento' de Filipenses 4:7 en un momento difícil? ¿Cómo llegó?",
-        "¿Hay algo que estás cargando emocionalmente ahora mismo que podrías llevarle al Señor en oración esta semana?",
+        "Fijate en Alma 7:11–12: además de los pecados, ¿qué otras cosas dice Alma que Jesucristo tomó sobre Sí, y para qué dice que lo hizo?",
         "¿Cómo podrías ser vos un recurso de apoyo emocional para alguien en tu entorno que está luchando?",
         "¿Qué hábito espiritual — oración, Escrituras, servicio, comunidad — quieres fortalecer esta semana para construir más fortaleza emocional en el Señor?",
         "Si esta semana la carga se pone más pesada de lo que podés sola o solo, ¿a qué adulto de confianza vas a recurrir? Nombralo ahora, antes de necesitarlo."
@@ -49,7 +57,7 @@
       "question": "D&C 121:7–8 fue escrito por José Smith desde la Cárcel de Liberty. ¿Cuál es la promesa específica que el Señor le da en esos versículos?",
       "options": [
         "Que la Iglesia prosperaría incluso sin su presencia.",
-        "Paz sea a tu alma — tu adversidad y aflicciones no serán sino un pequeño momento, y si soportas bien, Dios te exaltará en lo alto.",
+        "«Paz a tu alma; tu adversidad será por un breve momento».",
         "Que sería liberado de la cárcel en pocas semanas.",
         "Que sus perseguidores recibirían castigo inmediato del Señor."
       ],
@@ -61,7 +69,7 @@
       "options": [
         "Que solo está disponible para quienes tienen una fe perfecta sin dudas.",
         "Que es una emoción producida por la meditación y la práctica espiritual disciplinada.",
-        "Que sobrepasa todo entendimiento y guarda los corazones y pensamientos en Cristo Jesús.",
+        "Que sobrepasa todo entendimiento y guarda el corazón y la mente en Cristo Jesús.",
         "Que llega después de resolver todos los problemas y circunstancias difíciles."
       ],
       "correctAnswer": 2
@@ -73,7 +81,7 @@
         "Que el sufrimiento emocional es menos importante que el sufrimiento espiritual para el Señor.",
         "Que el Salvador interviene directamente para eliminar el sufrimiento emocional de quienes oran.",
         "Que el Salvador solo comprende el sufrimiento espiritual causado por el pecado.",
-        "Que el Salvador conoce desde dentro cada tipo de sufrimiento emocional — no ofrece comprensión teórica sino comprensión experiencial completa de lo que el discípulo vive."
+        "Que el Salvador conoce ese sufrimiento desde adentro, y no de manera teórica ni lejana."
       ],
       "correctAnswer": 3
     },
@@ -81,7 +89,7 @@
       "id": 4,
       "question": "¿Por qué los principios del evangelio — identidad como hijo de Dios, Expiación, oración, servicio, comunidad — son recursos de salud emocional y no solo espiritual?",
       "options": [
-        "Porque el evangelio trata a la persona como una unidad — D&C 88:15 dice que el espíritu y el cuerpo son el alma — y lo que fortalece el espíritu tiene efectos reales en el estado emocional.",
+        "Porque el evangelio trata a la persona como una unidad: el cuerpo y el espíritu son el alma.",
         "Porque el evangelio es superior a la psicología y la reemplaza completamente.",
         "Porque los principios del evangelio solo tienen efecto emocional en personas con suficiente fe.",
         "Porque la salud espiritual y emocional son mundos separados que no se influyen."
@@ -93,7 +101,7 @@
       "question": "Camila lleva semanas sintiéndose ansiosa y vacía sin saber bien por qué. Según la lección, ¿cuál sería el primer principio del evangelio que podría anclar su identidad en ese estado?",
       "options": [
         "Que debería ayunar más frecuentemente para recibir paz espiritual.",
-        "Que es hija de un Padre Celestial que la conoce por nombre y tiene un plan específico para ella — esa identidad no cambia con el estado emocional que está experimentando.",
+        "Que es hija de un Padre Celestial que la conoce, y eso no cambia con el ánimo.",
         "Que debería leer más versículos del Dominio de la Doctrina para fortalecer su mente.",
         "Que necesita encontrar un llamamiento en la Iglesia que le dé propósito."
       ],
@@ -105,7 +113,7 @@
       "options": [
         "Que orar sin fuerzas ni palabras no tiene valor espiritual real.",
         "Que debería esperar a sentirse mejor antes de retomar los hábitos espirituales.",
-        "Que José Smith oró desde la Cárcel de Liberty en una de sus noches más oscuras — precisamente cuando no hay fuerzas es cuando el Señor dice 'paz sea a tu alma', y esa oración imperfecta puede recibir esa respuesta.",
+        "Que José oró desde la cárcel en su peor noche, y ahí recibió «paz a tu alma».",
         "Que el Señor entiende que no siempre se puede orar y que el silencio también es válido."
       ],
       "correctAnswer": 2
@@ -117,7 +125,7 @@
         "La paz del Señor solo llega después de que los problemas se resuelven.",
         "Solo los santos más avanzados pueden experimentar esa paz mientras los problemas continúan.",
         "No se diferencia — la paz del Señor elimina los problemas y por eso no hay diferencia.",
-        "La paz del Señor es una presencia en medio del problema, no la ausencia del problema — José tenía paz en la cárcel sin que la cárcel desapareciera, y Filipenses describe una paz que guarda el corazón incluso cuando las circunstancias no cambian."
+        "Que Su paz es una presencia dentro del problema, no la ausencia del problema."
       ],
       "correctAnswer": 3
     }

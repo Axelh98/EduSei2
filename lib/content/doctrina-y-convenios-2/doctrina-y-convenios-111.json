@@ -6,7 +6,8 @@
       "contenido": [
         "En agosto de 1836, la Iglesia estaba endeudada. La construcción del templo de Kirtland había costado mucho más de lo previsto, y algunos hermanos escucharon que en Salem, Massachusetts, había un tesoro escondido en el sótano de una casa. José Smith y otros líderes viajaron hasta allí con la esperanza de encontrarlo y saldar las deudas.",
         "No encontraron ningún tesoro. Lo que recibieron fue Doctrina y Convenios 111, donde el Señor no los reprende con dureza pero corrige el rumbo: «no os preocupéis por vuestras deudas, porque os daré el poder de pagarlas» (versículo 5). Y les revela que en esa ciudad había otra cosa: personas preparadas para recibir el evangelio.",
-        "La sección incluye además un consejo que suena muy práctico: «sed prudentes como la serpiente, y al mismo tiempo sin pecado; y yo dispondré todas las cosas para vuestro bienestar» (versículo 11). El presidente Dallin H. Oaks observó que los errores son inevitables en el crecimiento, y que «evitar toda posibilidad de cometer un error significa evitar toda posibilidad de crecer». El viaje a Salem fue un error de cálculo, y el Señor lo usó igual."
+        "La sección incluye además un consejo que suena muy práctico: «sed prudentes como la serpiente, y al mismo tiempo sin pecado; y yo dispondré todas las cosas para vuestro bienestar» (versículo 11). El presidente Dallin H. Oaks observó que los errores son inevitables en el crecimiento, y que «evitar toda posibilidad de cometer un error significa evitar toda posibilidad de crecer». El viaje a Salem fue un error de cálculo, y el Señor lo usó igual.",
+        "Falta decir de quién es la promesa del versículo 11 —«yo dispondré todas las cosas para vuestro bienestar»— y sobre qué se apoya. El consejo de ser «prudentes como la serpiente» no es astucia de negocios: es el mismo que Jesucristo dio a Sus discípulos cuando los envió a predicar (Mateo 10:16). Y el manual señala dónde descansa el «todas las cosas»: obran para nuestro bien cuando somos «santificados en Cristo […] en el convenio del Padre» (Moroni 10:33). Es Su gracia la que sostiene la promesa, no el cálculo del que la recibe. José volvió de Salem sin tesoro y con eso."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 111:11",
           "texto": "Por tanto, sed prudentes como la serpiente, y al mismo tiempo sin pecado; y yo dispondré todas las cosas para vuestro bienestar, en cuanto podáis recibirlas. Amén.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/111?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Moroni 10:32–33",
+          "texto": "Sí, venid a Cristo, y perfeccionaos en él, y absteneos de toda impiedad, y si os abstenéis de toda impiedad, y amáis a Dios con todo vuestro poder, mente y fuerza, entonces su gracia os es suficiente, para que por su gracia seáis perfectos en Cristo. Y además, si por la gracia de Dios sois perfectos en Cristo y no negáis su poder, entonces sois santificados en Cristo por la gracia de Dios, mediante el derramamiento de la sangre de Cristo, que está en el convenio del Padre para la remisión de vuestros pecados, a fin de que lleguéis a ser santos, sin mancha.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p32-p33#p32"
         }
       ]
     },
@@ -34,7 +40,7 @@
       "autor": "Presidente Dallin H. Oaks",
       "fuente": "«Sins and Mistakes», Ensign, octubre de 1996, pág. 67 (artículo publicado solo en inglés; citado en el Manual del maestro de Seminario de Doctrina y Convenios, 2025, lección 131)",
       "texto": "Los errores son inevitables en el proceso de crecimiento en la vida mortal. Evitar toda posibilidad de cometer un error significa evitar toda posibilidad de crecer. […] Si estamos dispuestos a que se nos corrija por nuestros errores, los errores inocentes pueden constituir una fuente de crecimiento y progreso.",
-      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/401-doctrine-and-covenants-111?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/401-doctrine-and-covenants-111?lang=spa&id=aside1_p3#aside1_p3"
     },
     {
       "tipo": "conclusion",
@@ -47,10 +53,10 @@
       "preguntas": [
         "José Smith viajó a Salem buscando un tesoro que no existía. ¿Qué te sorprende de cómo respondió el Señor?",
         "«No os preocupéis por vuestras deudas, porque os daré el poder de pagarlas». ¿Qué diferencia hay entre eso y prometer pagarlas Él?",
-        "El versículo 8 dice que la voluntad del Señor se manifiesta «por la paz y el poder de mi Espíritu». ¿Cómo reconocés vos esa paz?",
+        "Volvé a leer Moroni 10:32–33 en el bloque de escrituras. ¿De qué depende, según ese pasaje, que «todas las cosas» obren para nuestro bien, y qué le agrega eso a la promesa del versículo 11?",
         "El presidente Oaks dice que evitar todo error es evitar todo crecimiento. ¿Estás de acuerdo? ¿Por qué?",
         "¿En qué te equivocaste últimamente? ¿Qué aprendiste de eso?",
-        "¿Hay algo que no estás intentando por miedo a equivocarte? ¿Qué primer paso podrías dar igual esta semana?"
+        "¿Hay algo que no estás intentando por miedo a equivocarte? Nombralo y dá el primer paso esta semana; antes de darlo, orá por eso y anotá lo que te venga a la mente."
       ]
     }
   ],
@@ -60,7 +66,7 @@
       "question": "¿Qué llevó a José Smith y a otros líderes a viajar a Salem, Massachusetts, en 1836?",
       "options": [
         "Una asignación misional para predicar en la costa este.",
-        "La noticia de un tesoro escondido con el que esperaban saldar las deudas de la Iglesia.",
+        "La noticia de un tesoro escondido en el sótano de una casa.",
         "La necesidad de comprar materiales para el templo de Kirtland.",
         "Una invitación de miembros que vivían en esa ciudad."
       ],
@@ -72,7 +78,7 @@
       "options": [
         "Que no debían haber contraído deudas en primer lugar.",
         "Que las saldará Él mismo si los santos son fieles.",
-        "Que no se preocupen, porque les dará el poder de pagarlas.",
+        "Que no se preocupen: les dará poder a fin de pagarlas.",
         "Que las deudas se cancelarán con el tiempo."
       ],
       "correctAnswer": 2
@@ -84,7 +90,7 @@
         "Mediante una señal visible en el lugar señalado.",
         "A través del consejo de los líderes locales.",
         "Por medio de un mensajero enviado a instruirlos.",
-        "Por la paz y el poder de Su Espíritu fluyendo hacia ellos."
+        "Por la paz y el poder del Espíritu del Señor."
       ],
       "correctAnswer": 3
     },
@@ -103,7 +109,7 @@
       "id": 5,
       "question": "Martina no se anima a aceptar una asignación en su clase porque tiene miedo de hacerlo mal. Según la enseñanza del presidente Oaks, ¿qué está eligiendo sin darse cuenta?",
       "options": [
-        "Proteger a su clase de una experiencia deficiente.",
+        "Proteger a su clase de una experiencia deficiente por su parte.",
         "Evitar el crecimiento junto con el riesgo de equivocarse.",
         "Una forma prudente de esperar hasta estar preparada.",
         "Dar lugar a que otra persona más capacitada lo haga."
@@ -116,7 +122,7 @@
       "options": [
         "Que los errores de los líderes tienen consecuencias menores.",
         "Que conviene actuar solo cuando se tiene certeza completa.",
-        "Que puede reorientar el rumbo sin humillar a quien se equivocó.",
+        "Que es capaz de reorientar el rumbo sin humillar a quien se equivocó.",
         "Que las equivocaciones se corrigen mediante una reprensión severa."
       ],
       "correctAnswer": 2
@@ -128,7 +134,7 @@
         "Que la prudencia consiste en no arriesgarse nunca.",
         "Que los errores son aceptables mientras no se repitan.",
         "Que la inocencia excusa la falta de preparación.",
-        "Que se espera criterio y prudencia, pero no una perfección que paralice la acción."
+        "Que se espera prudencia, no perfección paralizante."
       ],
       "correctAnswer": 3
     }

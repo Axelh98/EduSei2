@@ -3,11 +3,19 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La segunda parte de D&C 45 describe el horizonte glorioso que espera a los fieles en los últimos días: la edificación de la Nueva Jerusalén como ciudad de refugio (versículos 65–67) y la venida del Señor con Sus santos de Enoc para reinar durante el milenio. En este contexto, el Señor introduce la parábola de las Diez Vírgenes (versículos 56–57) como el marco interpretativo central: de las diez jóvenes que esperaban al novio, cinco tenían aceite en sus lámparas y cinco no. Cuando el novio llegó, las cinco insensatas no pudieron entrar. El aceite no podía prestarse porque era el resultado de decisiones acumuladas a lo largo del tiempo. Esta parábola no es un mensaje aterrador — es una invitación urgente: la preparación espiritual se construye día a día, y ningún evento emocional de último momento puede reemplazarla. Para un joven que vive para el presente, esta lección introduce una pregunta con consecuencias eternas: ¿estás llenando tu lámpara ahora?"
+      "contenido": [
+        "La segunda parte de D&C 45 describe el horizonte glorioso que espera a los fieles en los últimos días: la edificación de la Nueva Jerusalén como ciudad de refugio (versículos 65–67) y la venida del Señor con Sus santos de Enoc para reinar durante el milenio. En este contexto, el Señor introduce la parábola de las Diez Vírgenes (versículos 56–57) como el marco interpretativo central: de las diez jóvenes que esperaban al novio, cinco tenían aceite en sus lámparas y cinco no. Cuando el novio llegó, las cinco insensatas no pudieron entrar. El aceite no podía prestarse porque era el resultado de decisiones acumuladas a lo largo del tiempo. Esta parábola no es un mensaje aterrador — es una invitación urgente: la preparación espiritual se construye día a día, y ningún evento emocional de último momento puede reemplazarla. Para un joven que vive para el presente, esta lección introduce una pregunta con consecuencias eternas: ¿estás llenando tu lámpara ahora?",
+        "Conviene no perder de vista de quién se está hablando. Toda la sección describe el regreso de una persona concreta: «me verán en las nubes del cielo, revestido de poder y gran gloria, con todos los santos ángeles». El que vuelve es Jesucristo, y vuelve a cumplir las promesas que Él mismo hizo. Por eso la parábola no busca asustarte: el aceite se junta conociéndolo a Él, y prepararse para Su venida es lo mismo que acercarse a Él ahora. Su promesa es que quien lo esté esperando lo va a reconocer cuando llegue."
+      ]
     },
     {
       "tipo": "escrituras",
       "citas": [
+        {
+          "referencia": "Doctrina y Convenios 45:44",
+          "texto": "Y entonces me buscarán, y he aquí, vendré; y me verán en las nubes del cielo, revestido de poder y gran gloria, con todos los santos ángeles; y el que no me esté esperando será desarraigado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=spa&id=p44#p44"
+        },
         {
           "referencia": "Doctrina y Convenios 45:56–57",
           "texto": "Y en aquel día, cuando yo venga en mi gloria, se cumplirá la parábola que hablé acerca de las diez vírgenes. Porque aquellos que son prudentes y han recibido la verdad, y han tomado al Santo Espíritu por guía, y no han sido engañados, de cierto os digo que estos no serán talados ni echados al fuego, sino que aguantarán el día.",
@@ -36,10 +44,10 @@
       "preguntas": [
         "¿Qué representa el aceite en la parábola de las Diez Vírgenes según D&C 45:56–57?",
         "¿Por qué las vírgenes sabias no podían prestarle el aceite a las insensatas? ¿Qué nos enseña eso sobre la preparación espiritual?",
-        "Si midieras el aceite en tu lámpara hoy, ¿cómo lo describirías: lleno, a la mitad, casi vacío? ¿Qué hábito diario lo está llenando o vaciando?",
+        "Volvé a leer Doctrina y Convenios 45:44. ¿Qué dice el Señor que hará la gente antes de que Él venga, y qué le pasa al que «no me esté esperando»?",
         "¿Qué hábito espiritual concreto querés fortalecer esta semana para llenar tu lámpara un poco más?",
         "¿Qué significa para vos que la Nueva Jerusalén sea 'un lugar de seguridad para los santos'? ¿Cómo te preparás para ser parte de ese pueblo?",
-        "¿A qué hora exacta de tu día vas a poner ese hábito que llena la lámpara, para que no dependa de que sobre tiempo?"
+        "¿A qué hora exacta de tu día vas a poner ese hábito que llena la lámpara? Pedile al Señor en oración que te ayude a sostenerlo y anotá el día que empezaste."
       ]
     }
   ],
@@ -49,7 +57,7 @@
       "question": "D&C 45:56–57 aplica la parábola de las Diez Vírgenes a los últimos días. Según esos versículos, ¿qué caracteriza a las vírgenes sabias — no el aceite en sí, sino la cualidad que las distingue?",
       "options": [
         "Que tenían lámparas más grandes que las insensatas.",
-        "Que recibieron la verdad y tomaron al Espíritu Santo por su guía, y no fueron engañadas.",
+        "Que recibieron la verdad y tomaron al Espíritu Santo por guía.",
         "Que nacieron en familias con tradición religiosa fuerte.",
         "Que fueron las primeras en prepararse y llegaron con tiempo de sobra."
       ],
@@ -73,7 +81,7 @@
         "Porque en la parábola el tiempo se acabó antes de que pudieran compartir.",
         "Porque demuestra que las vírgenes sabias eran egoístas y no querían compartir.",
         "Porque el aceite era un recurso escaso que no había suficiente para todas.",
-        "Porque la preparación espiritual acumulada con el tiempo no puede transferirse — es el resultado de decisiones propias que nadie puede dar ni recibir de otra persona."
+        "Porque la preparación acumulada con el tiempo no se puede transferir a otro."
       ],
       "correctAnswer": 3
     },
@@ -81,7 +89,7 @@
       "id": 4,
       "question": "¿Qué representa concretamente el 'aceite' en la parábola según el principio de D&C 45:56–57?",
       "options": [
-        "La preparación espiritual construida con el tiempo mediante convenios activos, oración, estudio y servicio fiel.",
+        "La preparación espiritual construida con oración, estudio y servicio fiel.",
         "La membresía en la Iglesia y la asistencia regular a las reuniones del domingo.",
         "Los recursos materiales acumulados para los tiempos difíciles.",
         "El conocimiento teológico acumulado mediante el estudio de las Escrituras."
@@ -93,7 +101,7 @@
       "question": "Nicolás tiene 16 años y piensa 'tengo tiempo de prepararme espiritualmente después, ahora quiero disfrutar'. Según el principio del aceite en la parábola, ¿cuál es el problema concreto con ese razonamiento?",
       "options": [
         "Que el Señor castiga a quienes demoran su preparación más allá de cierta edad.",
-        "Que el aceite no se llena de golpe en el último momento — se acumula gota a gota en los años ordinarios, y los años de hoy son esos años.",
+        "Que el aceite no se llena de golpe: se junta gota a gota en los años comunes.",
         "Que disfrutar y prepararse espiritualmente son completamente incompatibles.",
         "Que no hay tiempo suficiente en la adolescencia para prepararse y también vivir normalmente."
       ],
@@ -105,7 +113,7 @@
       "options": [
         "Que la dependencia del ambiente es normal y el Señor la compensará cuando la situación mejore.",
         "Que tiene suficiente aceite porque sus hábitos son buenos cuando las condiciones lo permiten.",
-        "Que su aceite depende del ambiente externo — lo que necesita es que su preparación espiritual sea interior y autónoma, no condicionada a circunstancias favorables.",
+        "Que su aceite depende del ambiente: necesita una preparación propia, no prestada.",
         "Que debería pedir a su familia que la acompañe en cada situación para mantener sus hábitos."
       ],
       "correctAnswer": 2
@@ -117,7 +125,7 @@
         "Que la preparación material y espiritual son igualmente importantes para los últimos días.",
         "Que ambas metáforas se refieren exclusivamente a la preparación para el Segundo Advenimiento, no a la vida cotidiana.",
         "Que los lugares santos son donde se produce el aceite espiritual — fuera de ellos no hay preparación posible.",
-        "Que la firmeza y la preparación espiritual son la misma cosa: un estado interior construido gradualmente, que no depende de las circunstancias externas para sostenerse."
+        "Que la firmeza y la preparación son lo mismo: un estado interior que se construye de a poco."
       ],
       "correctAnswer": 3
     }

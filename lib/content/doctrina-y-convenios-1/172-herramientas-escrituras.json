@@ -5,7 +5,8 @@
       "tipo": "contexto",
       "contenido": [
         "La Iglesia puso a disposición de sus miembros un conjunto de herramientas de estudio muy poderoso, en formato impreso y digital a través de la aplicación Biblioteca del Evangelio. Esta lección introduce o refuerza su uso: la Guía para el Estudio de las Escrituras, los encabezamientos y las notas al pie, las referencias cruzadas, los mapas, la concordancia, el índice temático, los recursos de estudio de la aplicación y el diario de estudio.",
-        "El objetivo no es conocer las herramientas por encima, sino usarlas con soltura en el estudio personal. Un alumno que las domina puede responder sus propias preguntas espirituales con independencia y profundidad, sin depender de que alguien le dé la respuesta. Eso importa más de lo que parece: dentro de unos años, cuando aparezca una pregunta difícil un martes a la noche y no haya ningún maestro cerca, la diferencia entre quedarse con la duda y encontrar una respuesta va a estar en si sabés buscar o no."
+        "El objetivo no es conocer las herramientas por encima, sino usarlas con soltura en el estudio personal. Un alumno que las domina puede responder sus propias preguntas espirituales con independencia y profundidad, sin depender de que alguien le dé la respuesta. Eso importa más de lo que parece: dentro de unos años, cuando aparezca una pregunta difícil un martes a la noche y no haya ningún maestro cerca, la diferencia entre quedarse con la duda y encontrar una respuesta va a estar en si sabés buscar o no.",
+        "Ahora bien, ninguna de esas herramientas es el punto de llegada. Son medios, y el destino tiene nombre: la Guía para el Estudio tiene una entrada que se llama «Jesucristo», y casi cualquier referencia cruzada que sigas termina, tarde o temprano, en Él. Nefi lo dijo sin rodeos: deleitaos en las palabras de Cristo, porque las palabras de Cristo os dirán todas las cosas que debéis hacer. La concordancia, los mapas y las notas al pie existen para que encuentres más rápido lo que Él dijo. Es Su voz la que estás buscando, y Su promesa es que esas palabras te van a decir qué hacer."
       ]
     },
     {
@@ -15,6 +16,11 @@
           "referencia": "Doctrina y Convenios 88:118",
           "texto": "Y por cuanto no todos tienen fe, buscad diligentemente y enseñaos el uno al otro palabras de sabiduría; sí, buscad palabras de sabiduría de los mejores libros; buscad conocimiento, tanto por el estudio como por la fe.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p118#p118"
+        },
+        {
+          "referencia": "2 Nefi 32:3",
+          "texto": "Los ángeles hablan por el poder del Espíritu Santo; por lo que declaran las palabras de Cristo. Por tanto, os dije: Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=spa&id=p3#p3"
         },
         {
           "referencia": "2 Timoteo 2:15",
@@ -28,12 +34,12 @@
       "autor": "Élder Richard G. Scott",
       "fuente": "«El poder de las Escrituras», Conferencia General, octubre de 2011 (Liahona, noviembre de 2011)",
       "texto": "¿Marcas tus ejemplares? ¿Pones notas en el margen para recordar un momento de guía espiritual o una experiencia que te haya enseñado una profunda lección?",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-power-of-scripture?lang=spa&id=p18#p18"
     },
     {
       "tipo": "conclusion",
       "contenido": [
-        "Dominar las herramientas de estudio de las Escrituras es una inversión que rinde por el resto de la vida. Cada minuto que dedicás a aprender a usar la Guía para el Estudio de las Escrituras, las referencias cruzadas o la Biblioteca del Evangelio multiplica el valor de todas las sesiones de estudio que vengan después. Tomá una herramienta que hoy no usás y buscá con ella una sola cosa concreta antes del domingo; el objetivo es salir de esta lección con una herramienta más en tu repertorio, no con una lista de herramientas que conocés de nombre."
+        "Dominar las herramientas de estudio de las Escrituras es una inversión que rinde por el resto de la vida. Cada minuto que dedicás a aprender a usar la Guía para el Estudio de las Escrituras, las referencias cruzadas o la Biblioteca del Evangelio multiplica el valor de todas las sesiones de estudio que vengan después, y todas ellas apuntan al mismo lugar: un testimonio de Jesucristo como tu Salvador y Redentor. Tomá una herramienta que hoy no usás y buscá con ella una sola cosa concreta antes del domingo. El objetivo es salir de esta lección con una herramienta más en tu repertorio, no con una lista de nombres."
       ]
     },
     {
@@ -41,10 +47,10 @@
       "preguntas": [
         "¿Qué herramientas de estudio de las Escrituras usás actualmente con más frecuencia? ¿Cuáles casi no usás?",
         "¿Alguna vez usaste una referencia cruzada o una nota al pie que te ayudó a entender un versículo de una manera completamente nueva? ¿Cuál fue?",
-        "¿Qué función de Gospel Library todavía no dominás bien y que podría mejorar tu estudio personal?",
+        "Volvé a leer 2 Nefi 32:3. ¿Qué dice exactamente que harán por vos las palabras de Cristo, y en qué se diferencia eso de «entenderlas mejor»?",
         "Esta semana, tomá un versículo de las lecciones recientes y usá al menos dos herramientas para estudiarlo en profundidad. ¿Qué encontraste que no sabías?",
         "¿Cómo podría dominar las herramientas de estudio ayudarte a responder tus propias preguntas espirituales con más independencia?",
-        "Elegí una herramienta que casi no usás y buscá con ella una sola cosa esta semana. ¿Cuál elegís y qué vas a buscar?"
+        "Meditá cinco minutos en una sola pregunta antes de abrir cualquier herramienta esta semana: ¿qué quiero entender de verdad? ¿Qué te apareció mientras meditabas?"
       ]
     }
   ],
@@ -53,7 +59,7 @@
       "id": 1,
       "question": "D&C 88:118 instruye buscar conocimiento 'de los mejores libros'. ¿Qué herramienta oficial de la Iglesia contiene definiciones doctrinales, referencias cruzadas temáticas y mapas para el estudio de las Escrituras?",
       "options": [
-        "La Guía para el Estudio de las Escrituras — disponible en la aplicación Gospel Library.",
+        "La Guía para el Estudio de las Escrituras, en la Biblioteca del Evangelio.",
         "El manual de estudio de la Conferencia General publicado cada seis meses.",
         "El diccionario de la Iglesia publicado en el siglo XIX por Brigham Young.",
         "Los libros de texto del Instituto de Religión que contienen notas de los apóstoles."
@@ -65,7 +71,7 @@
       "question": "2 Timoteo 2:15 instruye a quien estudia la Palabra a presentarse como 'obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad'. ¿Qué implica 'usar bien' en el contexto del estudio de las Escrituras?",
       "options": [
         "Citar los versículos con la referencia exacta sin cometer errores.",
-        "Entenderlos en su contexto, interpretar correctamente su significado y aplicarlos con precisión — no usarlos fuera de su sentido original.",
+        "Entenderlos en su contexto y aplicarlos sin sacarlos de su sentido original.",
         "Memorizar el mayor número posible de capítulos para tenerlos disponibles.",
         "Leerlos en el idioma original hebreo o griego para mayor precisión."
       ],
@@ -77,7 +83,7 @@
       "options": [
         "La función de compartir versículos en redes sociales con un solo toque.",
         "La función de estadísticas de lectura que muestra cuántos capítulos has leído.",
-        "La función de subrayado y notas personales que permite anotar impresiones junto al versículo.",
+        "El subrayado y las notas personales, para anotar impresiones junto al versículo.",
         "La función de descarga de discursos en audio para escuchar mientras se hace otra cosa."
       ],
       "correctAnswer": 2
@@ -89,7 +95,7 @@
         "Porque las herramientas de estudio reemplazan la necesidad de la oración.",
         "Porque dominar las herramientas produce reconocimiento intelectual en la clase de Seminario.",
         "Porque la independencia espiritual significa no necesitar a los líderes de la Iglesia.",
-        "Porque un estudiante que domina las herramientas puede responder sus propias preguntas espirituales y no depender de que alguien siempre le dé las respuestas — eso construye fe robusta, no frágil."
+        "Porque el que domina las herramientas puede responder sus propias preguntas espirituales."
       ],
       "correctAnswer": 3
     },
@@ -97,7 +103,7 @@
       "id": 5,
       "question": "Renata dice que 'no entiende un versículo de D&C que leyó esta mañana'. ¿Cuál sería el proceso correcto usando las herramientas de la lección, antes de rendirse o preguntar a alguien?",
       "options": [
-        "Usar las notas al pie y referencias cruzadas de ese versículo, buscar el término en la Guía para el Estudio, y leer los versículos antes y después para entender el contexto.",
+        "Usar las notas al pie, la Guía para el Estudio y los versículos vecinos.",
         "Esperar la próxima clase de Seminario para que el maestro lo explique.",
         "Leerlo en voz alta varias veces hasta que el significado aparezca.",
         "Buscar el versículo en Google para ver qué dicen los comentaristas populares."
@@ -109,7 +115,7 @@
       "question": "Tomás estudia las Escrituras en papel porque 'el celular distrae'. Pero entonces no puede acceder a las herramientas digitales. ¿Cuál sería el enfoque más práctico según el principio de la lección?",
       "options": [
         "Debe elegir solo uno — papel o digital — y ser consistente con esa elección.",
-        "Puede estudiar en papel y usar Gospel Library solo para las herramientas (notas al pie, referencias, Guía) — las herramientas son un complemento, no un reemplazo del texto.",
+        "Estudiar en papel y usar la aplicación solo para las herramientas de apoyo.",
         "El papel es siempre superior al digital para el estudio espiritual.",
         "Debería usar solo el digital porque el papel no permite acceder a suficientes recursos."
       ],
@@ -121,7 +127,7 @@
       "options": [
         "Alguien que puede defender las doctrinas de la Iglesia en debates intelectuales.",
         "Alguien que memoriza grandes cantidades de texto bíblico con precisión académica.",
-        "Alguien que combina el esfuerzo activo del estudio —usando todas las herramientas disponibles— con la fe que abre el entendimiento, y que aplica lo que aprende con integridad.",
+        "Alguien que combina el esfuerzo del estudio con la fe que abre el entendimiento.",
         "Alguien que lee las Escrituras todos los días sin interrupción, independientemente de la comprensión."
       ],
       "correctAnswer": 2

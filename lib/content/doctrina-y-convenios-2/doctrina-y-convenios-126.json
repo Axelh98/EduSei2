@@ -6,7 +6,8 @@
       "contenido": [
         "Doctrina y Convenios 126 tiene tres versículos y está dirigida a una sola persona. En julio de 1841, el Señor le dijo a Brigham Young: «ya no te es requerido separarte de tu familia como en lo pasado, pues tu ofrenda me es aceptable».",
         "Para entender el peso de esa frase hay que saber qué había hecho. Brigham había salido a servir una misión a Inglaterra estando tan enfermo que no podía caminar solo hasta el carro. Era viudo, con dos hijas pequeñas a cargo. Escribió después que si había entre los santos alguien más pobre que él, era porque no tenía nada: no tenía zapatos —solo un par de botas prestadas— ni ropa de invierno más que un saco casero usado durante años. Dijo: «Yo estaba dispuesto a irme a Inglaterra o morir al intentarlo».",
-        "Esa misión produjo entre siete y ocho mil bautismos y sentó las bases de la obra misional en Europa. Y cuando volvió, el Señor no le pidió más: le dijo que velara «especialmente por tu familia, desde ahora en adelante y para siempre». El mismo Dios que le pidió el sacrificio le puso el límite."
+        "Esa misión produjo entre siete y ocho mil bautismos y sentó las bases de la obra misional en Europa. Y cuando volvió, el Señor no le pidió más: le dijo que velara «especialmente por tu familia, desde ahora en adelante y para siempre». El mismo Dios que le pidió el sacrificio le puso el límite.",
+        "El manual propone leer al lado de esto un relato del Nuevo Testamento: el hombre rico a quien Jesucristo le dijo «vende todo lo que tienes y dalo a los pobres […] y ven, sígueme» (Lucas 18:22), y que se fue triste porque era muy rico. La invitación es la misma en los dos casos, y la hace la misma persona. Brigham no tenía zapatos y la aceptó; el otro tenía todo y no pudo. Eso explica también por qué el Señor puede decir «tu ofrenda me es aceptable»: quien pesa la ofrenda es el que dio Su vida entera, y sabe exactamente cuánto vale lo que cada uno entrega."
       ]
     },
     {
@@ -26,15 +27,20 @@
           "referencia": "Doctrina y Convenios 126:3",
           "texto": "Por tanto, te mando enviar mi palabra a todas partes y velar especialmente por tu familia, desde ahora en adelante y para siempre. Amén.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/126?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Lucas 18:22",
+          "texto": "Y Jesús, al oír esto, le dijo: Aún te falta una cosa: vende todo lo que tienes y dalo a los pobres, y tendrás tesoro en el cielo; y ven, sígueme.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/18?lang=spa&id=p22#p22"
         }
       ]
     },
     {
       "tipo": "enseñanza",
-      "autor": "Presidente Russell M. Nelson",
-      "fuente": "«Cómo ser Santos de los Últimos Días ejemplares», Conferencia General, octubre de 2018 (Liahona, noviembre de 2018, pág. 113)",
-      "texto": "Consideren la gran misericordia y bondad de Dios, quien, antes de la fundación del mundo, proveyó una manera para dar las bendiciones del templo a aquellos que murieron sin un conocimiento del Evangelio.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/becoming-exemplary-latter-day-saints?lang=spa&id=p7#p7"
+      "autor": "Presidente Brigham Young",
+      "fuente": "Enseñanzas de los Presidentes de la Iglesia: Brigham Young, 1997, pág. 6 (citado en el Manual del maestro de Seminario de Doctrina y Convenios, 2025, lección 136)",
+      "texto": "Habíamos arribado […] como forasteros en tierra lejana y sin dinero, pero gracias a la misericordia de Dios hemos logrado muchos amigos, establecido Iglesias en casi todos los pueblos y ciudades importantes del reino de la Gran Bretaña, efectuado entre siete y ocho mil bautismos […]: en todas estas cosas reconozco la mano de Dios.",
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/441-doctrine-and-covenants-126?lang=spa&id=figure6_p29#figure6_p29"
     },
     {
       "tipo": "conclusion",
@@ -47,10 +53,10 @@
       "preguntas": [
         "Brigham Young salió a su misión enfermo, viudo y sin zapatos. ¿Qué te genera ese dato?",
         "«He visto tu obra y tu afán». ¿Qué te parece que el Señor lleve esa cuenta aunque nadie más la lleve?",
-        "El Señor le mandó velar «especialmente por tu familia». ¿Por qué te parece que lo puso como mandamiento y no como permiso?",
+        "Volvé a leer Lucas 18:22 en el bloque de escrituras. ¿Qué le pide ahí Jesucristo al hombre rico, y en qué se parece eso a lo que Brigham Young ya había hecho sin que nadie se lo pidiera dos veces?",
         "¿Hay algo cercano que estés descuidando por ocuparte de lo que se nota más?",
         "¿Alguna vez sentiste que ya diste suficiente en algo? ¿Cómo lo supiste?",
-        "Elegí una cosa concreta que vas a corregir en tu casa esta semana. ¿Cuál es?"
+        "Elegí una cosa concreta que vas a corregir en tu casa esta semana. Antes de elegirla, orá pidiendo ver qué es lo que estás descuidando, y anotá lo primero que aparezca."
       ]
     }
   ],
@@ -72,7 +78,7 @@
       "options": [
         "Que debía trasladarse a Nauvoo con su familia.",
         "Que debía preparar una nueva misión a las Islas Británicas.",
-        "Que ya no le era requerido separarse de su familia como en lo pasado, porque su ofrenda era aceptable.",
+        "Que ya no le era requerido separarse de su familia.",
         "Que sería llamado a presidir el Cuórum de los Doce."
       ],
       "correctAnswer": 2
@@ -83,8 +89,8 @@
       "options": [
         "Presidir la construcción del templo y organizar a los santos.",
         "Registrar la historia de la Iglesia y enseñar a los élderes.",
-        "Recaudar los diezmos y administrar los bienes de la Iglesia.",
-        "Enviar Su palabra a todas partes y velar especialmente por su familia."
+        "Recaudar los diezmos de la Iglesia.",
+        "Enviar Su palabra y velar especialmente por su familia."
       ],
       "correctAnswer": 3
     },
@@ -92,10 +98,10 @@
       "id": 4,
       "question": "Brigham Young salió a su misión enfermo, viudo, con dos hijas y sin zapatos propios. ¿Qué revela el contexto sobre el sentido de «tu ofrenda me es aceptable»?",
       "options": [
-        "Que el Señor reconoce el costo real de lo que cada persona entrega, no solo el resultado obtenido.",
+        "Que el Señor reconoce el costo real de lo que cada persona entrega.",
         "Que las misiones de esa época exigían un sacrificio mayor que las actuales.",
         "Que la aceptación de la ofrenda dependía del número de bautismos logrados.",
-        "Que el Señor esperaba que otros asumieran la misión en su lugar."
+        "Que el Señor esperaba que otras personas asumieran la misión en su lugar."
       ],
       "correctAnswer": 0
     },
@@ -104,7 +110,7 @@
       "question": "El Señor le manda a Brigham Young «velar especialmente por tu familia» después de años de servicio. ¿Qué muestra esa instrucción?",
       "options": [
         "Que su familia había presentado una queja ante los líderes.",
-        "Que el cuidado de la familia forma parte del mandato divino y no compite con él.",
+        "Que el cuidado de la familia es parte del mandato, no un permiso.",
         "Que su servicio anterior había sido excesivo y debía compensarlo.",
         "Que las responsabilidades familiares reemplazan a las de la Iglesia con la edad."
       ],
@@ -116,7 +122,7 @@
       "options": [
         "Que el servicio en la Iglesia tiene prioridad sobre lo familiar.",
         "Que conviene alternar semanas de servicio y semanas en casa.",
-        "Que velar por la familia es parte del mandato del Señor, no una alternativa a servirle.",
+        "Que velar por la familia forma parte de lo que el Señor manda.",
         "Que debería reducir su participación hasta que su familia lo pida."
       ],
       "correctAnswer": 2
@@ -125,10 +131,10 @@
       "id": 7,
       "question": "Doctrina y Convenios 126:2 dice «he visto tu obra y tu afán», y 126:3 manda velar por la familia. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Que el servicio prolongado exime de responsabilidades futuras.",
+        "Que el servicio largo exime de deberes futuros.",
         "Que las revelaciones personales se conceden solo a los líderes.",
         "Que la familia y la obra del Señor compiten por el mismo tiempo.",
-        "Que el Señor conoce el esfuerzo real de cada persona y adapta lo que le pide a su situación."
+        "Que el Señor conoce el esfuerzo real y adapta lo que pide."
       ],
       "correctAnswer": 3
     }

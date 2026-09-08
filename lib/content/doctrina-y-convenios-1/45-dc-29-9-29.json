@@ -13,6 +13,11 @@
       "tipo": "escrituras",
       "citas": [
         {
+          "referencia": "Doctrina y Convenios 29:5",
+          "texto": "Elevad vuestros corazones y alegraos, porque yo estoy en medio de vosotros, y soy vuestro intercesor ante el Padre; y es su buena voluntad daros el reino.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=spa&id=p5#p5"
+        },
+        {
           "referencia": "Doctrina y Convenios 29:9–11",
           "texto": "Porque la hora está cerca, y próximo está el día cuando la tierra estará madura; y todos los soberbios y los que hacen maldad serán como rastrojo, y yo los abrasaré, dice el Señor de los Ejércitos, a fin de que no exista maldad en la tierra; porque la hora está cerca, y lo que hablaron mis apóstoles se ha de cumplir; porque acontecerá tal como dijeron; porque con poder y gran gloria me revelaré desde los cielos, con todas sus huestes, y moraré en rectitud con los hombres sobre la tierra mil años, y los malvados no permanecerán.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=spa&id=p9-p11#p9"
@@ -34,7 +39,8 @@
     {
       "tipo": "conclusion",
       "contenido": [
-        "Las señales de los últimos días son exactamente eso: señales de que el Salvador viene. Para quienes tienen su vida edificada sobre Cristo son motivo de expectativa y gozo, no de terror. La pregunta correcta no es «¿cuándo será?» sino «¿estoy preparado?». La preparación concreta —convenios activos, hábitos espirituales diarios, servicio— es la respuesta que el Señor pide. Elegí uno de esos cuatro y llevalo de «lo hago cuando me acuerdo» a «lo hago siempre a esta hora», empezando mañana."
+        "Las señales de los últimos días son exactamente eso: señales de que el Salvador viene. Para quienes tienen su vida edificada sobre Cristo son motivo de expectativa y gozo, no de terror. La pregunta correcta no es «¿cuándo será?» sino «¿estoy preparado?». La preparación concreta —convenios activos, hábitos espirituales diarios, servicio— es la respuesta que el Señor pide. Elegí uno de esos cuatro y llevalo de «lo hago cuando me acuerdo» a «lo hago siempre a esta hora», empezando mañana.",
+        "Y todo lo que la sección describe descansa en una frase del principio: «yo estoy en medio de vosotros, y soy vuestro intercesor ante el Padre». Jesucristo no anuncia el final desde lejos: está en medio del pueblo e intercede por él."
       ]
     },
     {
@@ -42,10 +48,10 @@
       "preguntas": [
         "¿Cómo te hace sentir leer sobre las señales de los últimos días? ¿Miedo, indiferencia, esperanza? ¿Por qué?",
         "¿Por qué el Señor revela anticipadamente los eventos del fin de los tiempos en lugar de simplemente dejarlos ocurrir?",
-        "¿Qué diferencia hay entre la reacción al conocer las señales del fin de los tiempos de alguien con cimiento espiritual sólido versus alguien sin él?",
+        "Leé Doctrina y Convenios 29:5. ¿Qué dos cosas dice el Señor que es y hace por Su pueblo, y qué agrega sobre la voluntad del Padre?",
         "¿Qué tipo de preparación espiritual crees que es más importante para estar listo para la Segunda Venida?",
         "¿Qué cambio concreto harías en tu vida esta semana para estar más preparado espiritualmente?",
-        "De las cuatro formas de preparación que menciona la lección, ¿cuál es la que hoy tenés más floja y por qué te cuesta esa en particular?"
+        "¿Qué preparación concreta vas a empezar esta semana? Pedile al Señor en oración que te muestre cuál es la que más te falta y escribí la respuesta."
       ]
     }
   ],
@@ -57,7 +63,7 @@
         "Para señalar una fecha aproximada que permita organizarse.",
         "Para distinguir de antemano a quienes serán preservados de quienes no.",
         "Para que el temor mueva a las personas a arrepentirse antes de que sea tarde.",
-        "Para que quienes creen puedan prepararse con información y esperar con esperanza, no con terror."
+        "Para que los que creen se preparen y esperen con esperanza, no con terror."
       ],
       "correctAnswer": 3
     },
@@ -65,7 +71,7 @@
       "id": 2,
       "question": "Doctrina y Convenios 29:8 manda a los escogidos ser «congregados en un lugar», y el pasaje siguiente anuncia lo que vendrá. ¿Por qué el Señor revela de antemano los acontecimientos del fin de los tiempos en lugar de dejar que simplemente ocurran?",
       "options": [
-        "Para que quienes creen puedan prepararse y reconocer las señales cuando aparezcan, en vez de ser sorprendidos.",
+        "Para que los que creen reconozcan las señales y no los sorprendan.",
         "Para demostrar que la profecía es verdadera cuando los hechos se cumplan.",
         "Para que las tribulaciones resulten menos severas para los que están advertidos.",
         "Para que sus siervos puedan anunciar la fecha con precisión suficiente."
@@ -101,7 +107,7 @@
         "La cantidad de señales que haya sabido reconocer a tiempo.",
         "El lugar geográfico donde le toque vivir esos acontecimientos.",
         "El grado de conocimiento doctrinal que haya alcanzado.",
-        "La condición de su vida ante el Señor: si está edificada sobre Cristo o no."
+        "La condición de su vida ante el Señor: sobre qué está edificada."
       ],
       "correctAnswer": 3
     },
@@ -109,7 +115,7 @@
       "id": 6,
       "question": "El élder Christofferson enseñó que cuando el Salvador venga «la opresión y la injusticia no solo disminuirán, sino que cesarán» y que «incluso el dolor y la angustia de la muerte serán erradicados». ¿Qué actitud ante las señales de los últimos días se desprende de esa enseñanza?",
       "options": [
-        "Expectativa: lo que viene después de las señales es la eliminación definitiva del sufrimiento.",
+        "Expectativa: tras las señales viene el fin del sufrimiento.",
         "Indiferencia, ya que el desenlace no depende de las acciones humanas.",
         "Resignación ante un período de tribulación que no se puede evitar.",
         "Alerta ansiosa, para no ser sorprendido por los acontecimientos."
@@ -121,7 +127,7 @@
       "question": "Doctrina y Convenios 29:9–11 anuncia que los santos «verán al Salvador cara a cara», y los versículos 14–21 describen las tribulaciones previas. ¿Qué principio común sostienen las dos partes del pasaje?",
       "options": [
         "Que las tribulaciones son el castigo que precede necesariamente a toda bendición.",
-        "Que las señales difíciles y la promesa gozosa forman una sola revelación: se anuncian juntas para que la primera se lea a la luz de la segunda.",
+        "Que las señales y la promesa se anuncian juntas, y una explica a la otra.",
         "Que solo quienes atraviesen las tribulaciones verán al Salvador.",
         "Que el orden de los acontecimientos permite calcular cuándo ocurrirá el regreso."
       ],

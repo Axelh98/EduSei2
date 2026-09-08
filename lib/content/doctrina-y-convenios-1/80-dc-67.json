@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "En noviembre de 1831, los líderes de la Iglesia reunidos en Kirtland debatían si publicar una colección de las revelaciones recibidas hasta ese momento. Algunos tenían dudas sobre si el lenguaje de las revelaciones era lo suficientemente digno o sofisticado para ser publicado. El Señor respondió con D&C 67: un desafío directo a los hombres más eruditos presentes — específicamente William McLellin, reconocido por su educación — a que intentaran escribir la revelación más sencilla del libro con el mismo poder y pureza que tenían las revelaciones del Señor. McLellin intentó el desafío y fracasó. La conclusión que el Señor sacó fue poderosa: si el más sabio entre los presentes no podía imitar la revelación más sencilla, eso era prueba de Su origen divino. Esta lección desafía a los jóvenes a evaluar su propio testimonio del origen de las Escrituras: ¿las crees porque te las enseñaron, o porque tenés razones genuinas para confiar en su origen divino?"
+      "contenido": [
+        "En noviembre de 1831, los líderes de la Iglesia reunidos en Kirtland debatían si publicar una colección de las revelaciones recibidas hasta ese momento. Algunos tenían dudas sobre si el lenguaje de las revelaciones era lo suficientemente digno o sofisticado para ser publicado. El Señor respondió con D&C 67: un desafío directo a los hombres más eruditos presentes — específicamente William McLellin, reconocido por su educación — a que intentaran escribir la revelación más sencilla del libro con el mismo poder y pureza que tenían las revelaciones del Señor. McLellin intentó el desafío y fracasó. La conclusión que el Señor sacó fue poderosa: si el más sabio entre los presentes no podía imitar la revelación más sencilla, eso era prueba de Su origen divino. Esta lección desafía a los jóvenes a evaluar su propio testimonio del origen de las Escrituras: ¿las crees porque te las enseñaron, o porque tenés razones genuinas para confiar en su origen divino?",
+        "Pero el capítulo no termina en el desafío a McLellin. Termina en una promesa. El Señor dice que si nos despojamos de los celos y los temores y nos humillamos delante de Él, el velo se va a rasgar y lo veremos, y sabremos que Él es. Y agrega, con paciencia: «no podéis aguantar ahora la presencia de Dios… por consiguiente, continuad con paciencia hasta perfeccionaros». O sea que la meta no es ganar una discusión sobre el origen de las Escrituras: es llegar a conocer a Jesucristo cara a cara. Su promesa está ahí, y Él conoce el ritmo al que cada uno puede caminar hasta ella."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -17,6 +20,11 @@
           "referencia": "Doctrina y Convenios 67:10",
           "texto": "Y además, de cierto os digo que es vuestro el privilegio, y os hago una promesa a vosotros los que habéis sido ordenados a este ministerio, que si os despojáis de toda envidia y temor, y os humilláis delante de mí, porque no sois suficientemente humildes, el velo se rasgará, y me veréis y sabréis que yo soy, no con la mente carnal o natural, sino con la espiritual.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=spa&id=p10#p10"
+        },
+        {
+          "referencia": "Doctrina y Convenios 67:13",
+          "texto": "No podéis aguantar ahora la presencia de Dios, ni la ministración de ángeles; por consiguiente, continuad con paciencia hasta perfeccionaros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/67?lang=spa&id=p13#p13"
         }
       ]
     },
@@ -25,7 +33,7 @@
       "autor": "Presidente Dieter F. Uchtdorf",
       "fuente": "«Vivir el Evangelio con gozo», Liahona, noviembre de 2014, pág. 121",
       "texto": "Nuestro Padre Celestial está constantemente derramando bendiciones sobre nosotros; son nuestros temores, dudas y pecados los que impiden que esas bendiciones lleguen a nosotros.",
-      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/251-doctrine-and-covenants-67?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/251-doctrine-and-covenants-67?lang=spa&id=aside1_p4#aside1_p4"
     },
     {
       "tipo": "conclusion",
@@ -36,7 +44,7 @@
       "preguntas": [
         "¿Qué desafío propuso el Señor en D&C 67, y qué demostró el resultado de ese desafío?",
         "¿Qué evidencias — más allá de que te lo enseñaron — tenés vos del origen divino de las Escrituras?",
-        "¿Alguna vez dudaste de la veracidad de las Escrituras o de las revelaciones del profeta? ¿Cómo manejaste esa duda?",
+        "Buscá en Doctrina y Convenios 67:10 lo que el Señor promete a quienes se despojen de celos y temores. ¿Qué dice exactamente que va a pasar con el velo?",
         "¿Qué pasaría si estudiaras una sección de D&C o un capítulo del Libro de Mormón esta semana específicamente buscando evidencias de su origen divino?",
         "¿Cómo explicarías a alguien escéptico por qué creés que las revelaciones son de Dios y no de hombres?",
         "¿Qué sección o capítulo vas a estudiar esta semana con esa mirada, y qué vas a anotar al terminar para no perder lo que encontraste?"
@@ -48,7 +56,7 @@
       "id": 1,
       "question": "D&C 67:5–7 desafía a los más sabios a escribir la revelación más sencilla del libro con el mismo poder. ¿Quién intentó ese desafío y qué ocurrió?",
       "options": [
-        "William McLellin lo intentó y fracasó — no pudo igualarlo.",
+        "William McLellin lo intentó y no pudo igualar el texto revelado.",
         "Oliver Cowdery lo intentó y el resultado fue destruido por el Señor.",
         "Nadie se atrevió a intentarlo porque sabían que fracasarían.",
         "Sidney Rigdon lo intentó y produjo algo comparable pero inferior."
@@ -60,7 +68,7 @@
       "question": "D&C 67:10 advierte que los santos no podrían 'soportar la presencia de Dios ahora mismo'. ¿Qué implica eso sobre las condiciones necesarias para estar ante el Señor?",
       "options": [
         "Que nadie puede ver a Dios en esta vida bajo ninguna circunstancia.",
-        "Que el problema no es la voluntad del Señor sino la preparación del discípulo — ver a Dios requiere un nivel de santidad que se construye con el tiempo.",
+        "Que el límite no está en el Señor sino en la preparación del discípulo.",
         "Que solo los profetas pueden estar ante el Señor.",
         "Que la presencia de Dios es tan aterradora que nadie querrá estar en ella."
       ],
@@ -71,11 +79,11 @@
       "question": "D&C 67 fue dada cuando algunos cuestionaban el lenguaje de las revelaciones de José Smith. El resultado del desafío demostró algo sobre el origen de esas revelaciones. ¿Cuál fue esa evidencia?",
       "options": [
         "Que José era el único hombre inteligente suficiente para producir ese texto.",
-        "Que si la revelación más sencilla no podía imitarse por el hombre más erudito presente, eso demostraba que su origen era divino, no humano.",
+        "Que si el más erudito no pudo imitar la más sencilla, el origen era divino y no humano.",
         "Que el idioma inglés era insuficiente para expresar las revelaciones divinas.",
         "Que el desafío era imposible por razones lingüísticas técnicas, no espirituales."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
@@ -84,7 +92,7 @@
         "La enseñanza se refiere a lo espiritual y la sección 67 solo a lo intelectual.",
         "La sección 67 se dirigía a los élderes de 1831 y hoy no tiene aplicación personal.",
         "Son ideas contrarias: la sección 67 apela al razonamiento y la enseñanza apela al sentimiento.",
-        "Las dos ubican el obstáculo del lado del receptor: la revelación y las bendiciones están disponibles, y lo que falta es la disposición para recibirlas."
+        "Que las dos ponen el obstáculo del lado del que recibe y no del que da las cosas."
       ],
       "correctAnswer": 3
     },
@@ -92,7 +100,7 @@
       "id": 5,
       "question": "Sofía tiene un amigo que dice que 'las revelaciones de José Smith son solo sus propias ideas religiosas'. ¿Cómo usaría el principio de D&C 67 en esa conversación?",
       "options": [
-        "Señalando que el Señor mismo desafió a los más instruidos a imitar una sola — y fracasaron. Si fueran solo ideas humanas, ese intento habría tenido más éxito.",
+        "Señalando que el Señor desafió a los más sabios a imitar una, y fracasaron.",
         "Mostrándo la falta de educación formal de José como evidencia principal.",
         "Evitando el tema porque no hay manera de probar el origen de las revelaciones.",
         "Citando todas las revelaciones que José recibió para demostrar su volumen."
@@ -104,7 +112,7 @@
       "question": "Mateo a veces duda de las revelaciones modernas porque 'suenan demasiado humanas'. D&C 67 le ofrece una perspectiva diferente. ¿Cuál es?",
       "options": [
         "Que las revelaciones que suenan humanas son inválidas y deben descartarse.",
-        "Que el Señor mismo reconoce en D&C 67:5 que las revelaciones usan el lenguaje humano según la capacidad de los receptores — eso no reduce su origen divino sino que explica cómo Dios comunica.",
+        "Que el Señor usa el lenguaje humano según la capacidad de quien lo recibe hoy.",
         "Que Mateo debería leer solo las revelaciones que le parecen más sobrenaturales en su estilo.",
         "Que dudar de las revelaciones modernas es una señal de madurez intelectual que el Señor valora."
       ],
@@ -116,7 +124,7 @@
       "options": [
         "Es evidencia teológica — muestra que el contenido doctrinal es más profundo que cualquier texto humano.",
         "Es evidencia emocional — genera un sentimiento que convence más que los argumentos.",
-        "Es evidencia empírica — invita a intentar la prueba y el fracaso en hacerlo habla por sí solo, sin necesidad de argumentos adicionales.",
+        "Es evidencia empírica: invita a hacer la prueba, y después el fracaso habla solo.",
         "Es evidencia histórica — demuestra que nadie en la historia pudo escribir algo similar."
       ],
       "correctAnswer": 2

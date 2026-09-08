@@ -5,7 +5,8 @@
       "tipo": "contexto",
       "contenido": [
         "El Señor reveló en Doctrina y Convenios 21:4–5 que las palabras del profeta deben recibirse con paciencia y fe, como si vinieran directamente de Él. Pero recibirlas no es solo escucharlas: requiere un proceso activo de buscarlas, estudiarlas con el Espíritu, identificar las verdades que contienen y decidir qué cambiar en la propia vida como respuesta.",
-        "Esta lección enseña herramientas concretas para estudiar los discursos del presidente de la Iglesia y de los Apóstoles: cómo identificar el principio central de un discurso, cómo encontrar las promesas y las condiciones que contiene, y cómo escribir una acción que surja del estudio. Para un joven que consume información todo el día y rara vez la aplica, esas habilidades valen más de lo que parecen: la diferencia entre haber escuchado veinte discursos y haber cambiado por uno solo no está en la cantidad de contenido, sino en si algo de eso llegó a convertirse en una decisión."
+        "Esta lección enseña herramientas concretas para estudiar los discursos del presidente de la Iglesia y de los Apóstoles: cómo identificar el principio central de un discurso, cómo encontrar las promesas y las condiciones que contiene, y cómo escribir una acción que surja del estudio. Para un joven que consume información todo el día y rara vez la aplica, esas habilidades valen más de lo que parecen: la diferencia entre haber escuchado veinte discursos y haber cambiado por uno solo no está en la cantidad de contenido, sino en si algo de eso llegó a convertirse en una decisión.",
+        "Y hay una frase de Jesús que explica por qué esto no es un culto a la personalidad. Él dijo: «El que recibe al que yo envío, a mí me recibe; y el que a mí me recibe, recibe al que me envió». O sea que escuchar al profeta es una manera de recibirlo a Él, no un reemplazo. Por eso los profetas de esta época centran sus mensajes en el Salvador, en Su misericordia y en Su poder redentor: lo que traen no es de ellos. Cuando seguís un consejo profético que te cuesta, no estás obedeciendo a un hombre: estás confiando en Jesucristo, que eligió hablar así."
       ]
     },
     {
@@ -15,6 +16,11 @@
           "referencia": "Doctrina y Convenios 21:4–5",
           "texto": "Por tanto, vosotros, es decir, la iglesia, daréis oído a todas sus palabras y mandamientos que os dará según los reciba, andando delante de mí con toda santidad; porque recibiréis su palabra con toda fe y paciencia como si viniera de mi propia boca.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=spa&id=p4-p5#p4"
+        },
+        {
+          "referencia": "Juan 13:20",
+          "texto": "De cierto, de cierto os digo: El que recibe al que yo envío, a mí me recibe; y el que a mí me recibe, recibe al que me envió.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/13?lang=spa&id=p20#p20"
         },
         {
           "referencia": "Amós 3:7",
@@ -41,7 +47,7 @@
       "preguntas": [
         "¿Recordás algún mensaje de la Conferencia General reciente que te haya impactado? ¿Cuál fue?",
         "¿Cuál es la diferencia entre escuchar al profeta y seguir al profeta?",
-        "¿Alguna vez aplicaste en tu vida algo que enseñó el presidente de la Iglesia? ¿Qué pasó?",
+        "Fijate en Juan 13:20 y seguí la cadena que arma Jesús: ¿quién recibe a quién, y dónde termina? ¿Qué cambia eso en la manera de escuchar al profeta?",
         "Esta semana, elegí un discurso de la última Conferencia General. ¿Qué principio central enseñó? ¿Qué acción concreta podrías tomar vos?",
         "¿Cómo podrías hacer que estudiar las enseñanzas del profeta sea parte de tu rutina semanal?",
         "¿Qué discurso vas a estudiar esta semana con este método, y qué única acción vas a escribir al final para cumplir antes del domingo?"
@@ -75,7 +81,7 @@
       "id": 3,
       "question": "El presidente Nelson exhortó a estudiar los mensajes de la conferencia «con frecuencia, incluso repetidas veces, durante los próximos seis meses». ¿Qué supone esa invitación sobre la manera de recibir la palabra profética?",
       "options": [
-        "Que la palabra profética se recibe por un estudio sostenido y repetido, no por una escucha única.",
+        "Que la palabra profética se recibe estudiándola, no solamente oyéndola.",
         "Que los discursos actuales reemplazan el estudio de las Escrituras.",
         "Que conviene esperar a la próxima conferencia antes de aplicar lo escuchado.",
         "Que basta con escuchar cada mensaje una vez y quedarse con la impresión general."
@@ -87,7 +93,7 @@
       "question": "¿Qué diferencia hay entre escuchar un discurso del profeta durante la Conferencia General y estudiarlo activamente después con herramientas de Gospel Library?",
       "options": [
         "Ninguna diferencia real si uno presta atención durante la transmisión en vivo.",
-        "Estudiar activamente significa identificar el principio central, las Escrituras usadas, las promesas y la acción concreta que el profeta invita a tomar.",
+        "Estudiar es identificar el principio, la promesa y la acción que el mensaje pide.",
         "La diferencia es solo de tiempo — estudiar toma más horas pero produce los mismos resultados.",
         "El estudio posterior solo lo hacen los maestros de Seminario para preparar lecciones."
       ],
@@ -99,7 +105,7 @@
       "options": [
         "No tomó suficientes notas durante la transmisión en vivo.",
         "No compartió los discursos en sus redes sociales inmediatamente.",
-        "No volvió a los discursos después, no identificó el principio central y no decidió una acción concreta.",
+        "No volvió al discurso después ni decidió ninguna acción concreta.",
         "No leyó los discursos en inglés para entenderlos con más precisión."
       ],
       "correctAnswer": 2
@@ -111,7 +117,7 @@
         "Que el profeta debería dar consejería individual para que sus mensajes sean más útiles.",
         "Que Renata tiene razón y debería buscar orientación de fuentes más específicas a su situación.",
         "Que los consejos del profeta realmente son demasiado generales para situaciones individuales.",
-        "Que Renata recibe las palabras del profeta con filtro personal en lugar de con paciencia y fe — y eso impide que el Espíritu le muestre la aplicación personal."
+        "Que los recibe con un filtro propio, y no con la fe y con la paciencia que el Señor le pide."
       ],
       "correctAnswer": 3
     },
@@ -119,7 +125,7 @@
       "id": 7,
       "question": "Amós 3:7 dice que el Señor no hace nada sin revelar Sus secretos a Sus profetas. D&C 21:4–5 pide recibir esas palabras con fe. ¿Qué principio completo forman esos dos versículos juntos sobre la relación entre el Señor, el profeta y el discípulo?",
       "options": [
-        "Que el Señor diseñó un canal de comunicación: habla al profeta para hablar a Sus hijos — y el discípulo que recibe con fe cierra ese circuito de revelación.",
+        "Que el Señor diseñó un canal de comunicación concreto: le habla al profeta para hablarles a Sus hijos.",
         "Que el profeta tiene acceso a información privilegiada y el discípulo solo necesita obedecerlo sin entender por qué.",
         "Que D&C 21 y Amós 3 describen épocas diferentes y no deben leerse juntos.",
         "Que los secretos del Señor son solo para el profeta y los miembros comunes no tienen acceso a ellos."

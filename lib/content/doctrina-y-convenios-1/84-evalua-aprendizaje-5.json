@@ -5,12 +5,18 @@
       "tipo": "contexto",
       "contenido": [
         "Esta evaluación cierra el quinto bloque del año y es la penúltima del semestre. Las lecciones cubrieron el perdón sin condiciones (Doctrina y Convenios 64:9–10), el no cansarse de hacer el bien (64:33–34), el origen divino de las revelaciones (sección 67), la responsabilidad de los padres de enseñar el evangelio (68:25–31) y el mandato de proclamar la verdad frente a la crítica (sección 71).",
-        "La evaluación espiritual genuina no pregunta cuánto sabés, sino qué cambió en vos. Es también la última oportunidad, antes de la evaluación final del semestre, para consolidar los pasajes del Dominio de la Doctrina y fijar una meta que cierre el año con fuerza. Vale la pena elegir una sola: una meta clara y chica que se cumple vale más que cinco ambiciosas que se abandonan en la segunda semana, y a esta altura del año ya tenés evidencia propia de cuál de las dos cosas te pasa más seguido."
+        "La evaluación espiritual genuina no pregunta cuánto sabés, sino qué cambió en vos. Es también la última oportunidad, antes de la evaluación final del semestre, para consolidar los pasajes del Dominio de la Doctrina y fijar una meta que cierre el año con fuerza. Vale la pena elegir una sola: una meta clara y chica que se cumple vale más que cinco ambiciosas que se abandonan en la segunda semana, y a esta altura del año ya tenés evidencia propia de cuál de las dos cosas te pasa más seguido.",
+        "Conviene recordar hacia dónde apunta una evaluación así. No se trata de sacar una nota interna, sino de acercarse más al Salvador, y Él dejó dicho cómo funciona ese acercamiento: «Allegaos a mí, y yo me allegaré a vosotros; buscadme diligentemente, y me hallaréis». Es una promesa con dos partes, y la primera te toca a vos. Por eso mirar con honestidad qué aprendiste y qué no en estas semanas no es un trámite: es la manera de ver dónde estás parado para dar el próximo paso hacia Él, que ya prometió salir a tu encuentro."
       ]
     },
     {
       "tipo": "escrituras",
       "citas": [
+        {
+          "referencia": "Doctrina y Convenios 88:63",
+          "texto": "Allegaos a mí, y yo me allegaré a vosotros; buscadme diligentemente, y me hallaréis; pedid, y recibiréis; llamad, y se os abrirá.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p63#p63"
+        },
         {
           "referencia": "Doctrina y Convenios 64:33",
           "texto": "No os canséis de hacer lo bueno, porque estáis poniendo los cimientos de una gran obra. Y de las cosas pequeñas proceden las grandes.",
@@ -25,14 +31,16 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Estamos llegando al cierre del primer semestre. Las verdades estudiadas en este bloque — sobre el perdón, la constancia, el origen de la revelación, la responsabilidad familiar y la proclamación de la verdad — son principios que duran toda la vida. La mejor manera de cerrar este bloque es identificar cuál de estas verdades está cambiando algo concreto en tu manera de vivir, y comprometerse a llevar eso al próximo semestre."
+      "contenido": [
+        "La mejor evaluación espiritual no mide lo que sabés, sino lo que hacés con lo que sabés. Si las lecciones de este bloque te desafiaron a algo concreto —perdonar a alguien, no cansarte de hacer el bien, entregar más de tu corazón—, esa es la medida real. Y la dirección la marcó el propio Señor: «Allegaos a mí, y yo me allegaré a vosotros». Su promesa cubre la segunda mitad del camino, siempre que vos hagas la primera. Ponete una meta concreta para el bloque que viene y pedile a Él, por nombre, que te ayude a sostenerla."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuál fue la enseñanza de este bloque que más impacto tuvo en tu vida personal, y qué cambió en vos?",
         "¿Qué principio de D&C 64 o D&C 71 estás aplicando activamente fuera del aula?",
-        "¿Qué pasaje del Dominio de la Doctrina del semestre podés usar con más confianza ahora que al principio del año?",
+        "Releé Doctrina y Convenios 88:63. ¿Cuántas promesas distintas hace el Señor en ese solo versículo, y qué tienen todas en común respecto de quién da el primer paso?",
         "¿En qué área de tu carácter o de tu vida espiritual ves más crecimiento desde que comenzó el año?",
         "¿Qué meta espiritual concreta te ponés para cerrar el primer semestre con fuerza?",
         "De todo lo que estudiaste este semestre, ¿qué es lo único que no querés olvidarte en cinco años? Escribilo con tus palabras."
@@ -55,7 +63,7 @@
       "id": 2,
       "question": "D&C 65 describe una piedra que 'rodará hasta llenar la tierra'. ¿De qué profecía del Antiguo Testamento toma esa imagen?",
       "options": [
-        "De Daniel 2 — la piedra cortada sin manos que destruye las estatuas de los reinos del mundo.",
+        "De Daniel 2: la piedra cortada sin manos que llena la tierra.",
         "De Isaías 28 — la piedra angular del fundamento de Sion.",
         "De Ezequiel 37 — los huesos secos que vuelven a la vida.",
         "De Jeremías 31 — el nuevo convenio escrito en el corazón del pueblo."
@@ -67,7 +75,7 @@
       "question": "Las semanas 16–18 incluyeron D&C 64 (perdón), D&C 65 (reino), D&C 67 (origen de revelaciones) y D&C 71 (respuesta a críticos). ¿Qué tema de fondo une a todas esas secciones?",
       "options": [
         "Que el Señor organizó la Iglesia en Ohio y Misuri con instrucciones muy específicas.",
-        "Que el discípulo fiel enfrenta oposición — interna (falta de perdón, cansancio) y externa (críticas, dudas) — y el Señor provee principios concretos para cada tipo.",
+        "Que el discípulo fiel enfrenta oposición de adentro y también de afuera, siempre.",
         "Que el sacerdocio es la fuente principal de todas las bendiciones de ese período.",
         "Que el traslado a Misuri fue el evento doctrinal más importante de esa época."
       ],
@@ -79,7 +87,7 @@
       "options": [
         "El primero es más valioso porque demuestra sujeción a la autoridad divina.",
         "No hay diferencia — el resultado espiritual es idéntico independientemente de la motivación.",
-        "El primero es obediencia externa; el segundo es sabiduría interior. Idealmente ambas coinciden — el discípulo maduro obedece y entiende por qué esa obediencia lo libera.",
+        "El primero es obediencia externa; el segundo, un cambio real del corazón.",
         "El segundo es más valioso porque no requiere referencia al mandamiento."
       ],
       "correctAnswer": 2
@@ -91,7 +99,7 @@
         "La cantidad de veces que asistió al Seminario sin faltar durante el bloque.",
         "La cantidad de preguntas que respondió correctamente en los quizzes del bloque.",
         "Cuántos versículos del Dominio de la Doctrina memorizó durante el período.",
-        "Si algo cambió en cómo actúa, cómo trata a otros, o cómo entiende su relación con el Señor — el aprendizaje real siempre produce cambio concreto."
+        "Si algo cambió en cómo actúa y en cómo trata a los demás, aprendió de verdad."
       ],
       "correctAnswer": 3
     },
@@ -99,7 +107,7 @@
       "id": 6,
       "question": "Joaquín identificó que el principio de D&C 71 (proclamar en lugar de debatir) describe exactamente lo que necesita en su vida con un compañero crítico. ¿Qué haría la versión más fiel de Joaquín con ese reconocimiento?",
       "options": [
-        "Identificar una oportunidad concreta esta semana para compartir lo que el evangelio significa en su vida — no argumentar sino testificar.",
+        "Identificar una ocasión concreta de esta semana en la que ya pueda aplicarlo.",
         "Escribir un ensayo sobre el principio de D&C 71 para consolidar su entendimiento.",
         "Compartirlo con el maestro de Seminario para que le dé consejos más específicos.",
         "Esperar a que su compañero crítico cambie antes de intentar proclamar nada."
@@ -111,7 +119,7 @@
       "question": "Esta evaluación cierra el quinto bloque del año. ¿Cuál es la pregunta más importante que define si el aprendizaje del Seminario fue genuino este año?",
       "options": [
         "'¿Aprobé todos los exámenes del Dominio de la Doctrina?'",
-        "'¿Hay algo en mí que cambió — en cómo veo al Señor, cómo trato a otros, cómo enfrento las dificultades — que no estaba antes de comenzar el año?'",
+        "«¿Cambió algo en mí, en cómo veo al Señor y a los demás?»",
         "'¿Asistí al Seminario con más regularidad que el año anterior?'",
         "'¿Cuántos capítulos de D&C estudié en total?'"
       ],

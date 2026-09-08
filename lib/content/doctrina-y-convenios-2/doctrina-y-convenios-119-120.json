@@ -6,7 +6,8 @@
       "contenido": [
         "En julio de 1838, en Far West, el Señor reveló la ley del diezmo tal como la conocemos hoy: «todos aquellos que hayan entregado este diezmo pagarán la décima parte de todo su interés anualmente; y esta les será por ley fija para siempre» (Doctrina y Convenios 119:4). Antes de eso, la Iglesia había intentado sostenerse con la consagración, y no había funcionado.",
         "La sección 120 agrega algo que casi nadie conoce: quién decide en qué se usa ese dinero. Un consejo formado por la Primera Presidencia, el Obispado Presidente y el Cuórum de los Doce, «así como por mi propia voz dirigida a ellos». Ese consejo sigue funcionando igual hoy, y ninguna decisión se toma sin unanimidad.",
-        "La ley del diezmo es de las pocas donde el Señor invita explícitamente a comprobar la promesa. El élder Stanley G. Ellis lo planteó como una pregunta directa: ¿tenemos la fe para confiar en que con el noventa por ciento del ingreso más la ayuda del Señor estamos en mejores condiciones que con el cien por ciento por nuestra cuenta? Para alguien que recién empieza a manejar dinero propio, esa es una pregunta muy concreta."
+        "La ley del diezmo es de las pocas donde el Señor invita explícitamente a comprobar la promesa. El élder Stanley G. Ellis lo planteó como una pregunta directa: ¿tenemos la fe para confiar en que con el noventa por ciento del ingreso más la ayuda del Señor estamos en mejores condiciones que con el cien por ciento por nuestra cuenta? Para alguien que recién empieza a manejar dinero propio, esa es una pregunta muy concreta.",
+        "Hay algo que la sección no dice y que el manual repite en cada página: de quién es esta ley. La llama «la ley del diezmo del Salvador». No es una política administrativa de la Iglesia; es Jesucristo quien la manda y quien promete. Y la promesa la pronunció Él mismo, con Su propia voz, cuando visitó a los nefitas y les citó a Malaquías: «probadme ahora en esto […] si no os abriré las ventanas de los cielos» (3 Nefi 24:10). Es de las pocas veces en que Su invitación es, literalmente, que se ponga Su promesa a prueba."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 119:3",
           "texto": "Y esto será el principio del diezmo de mi pueblo.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "3 Nefi 24:10",
+          "texto": "Traed todos los diezmos al alfolí para que haya alimento en mi casa; y probadme ahora en esto, dice el Señor de los Ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros una bendición tal que no haya donde contenerla.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/24?lang=spa&id=p10#p10"
         }
       ]
     },
@@ -47,10 +53,10 @@
       "preguntas": [
         "¿Qué te parece que cambia entre pagar el diezmo de lo que sobra y apartarlo apenas recibís el dinero?",
         "Doctrina y Convenios 120:1 dice quiénes deciden el uso de los diezmos. ¿Qué te aporta saber cómo funciona ese consejo?",
-        "El élder Ellis pregunta si confiás en que el 90 % con ayuda del Señor es mejor que el 100 % solo. ¿Cuál es tu respuesta honesta?",
+        "Buscá en 3 Nefi 24:10, dentro del bloque de escrituras, la palabra con la que el Señor invita a poner Su promesa a prueba. ¿Qué te llama la atención de que use justo esa palabra, y justo con el diezmo?",
         "¿Pagás diezmo hoy? Si sí, ¿qué notaste? Si no, ¿qué te frena?",
         "El versículo 4 dice que es «ley fija para siempre». ¿Qué implica que no sea una contribución voluntaria?",
-        "¿Qué vas a hacer este mes con la décima parte de lo que recibas? Definilo ahora."
+        "¿Qué vas a hacer este mes con la décima parte de lo que recibas? Definilo ahora, y anotá qué te viene a la mente cuando le preguntás al Padre Celestial si de verdad confiás en esa promesa."
       ]
     }
   ],
@@ -59,10 +65,10 @@
       "id": 1,
       "question": "Según Doctrina y Convenios 119:4, ¿en qué consiste la ley del diezmo?",
       "options": [
-        "En contribuir según las necesidades de cada congregación.",
+        "En contribuir de acuerdo con las necesidades de cada congregación.",
         "En donar una parte proporcional a los ingresos de cada familia.",
         "En entregar todos los bienes al obispo para su administración.",
-        "En pagar la décima parte de todo el interés anualmente, como ley fija para siempre."
+        "En pagar cada año la décima parte de todo el interés propio."
       ],
       "correctAnswer": 3
     },
@@ -70,7 +76,7 @@
       "id": 2,
       "question": "¿Quiénes integran, según Doctrina y Convenios 120:1, el consejo que dispone de los diezmos?",
       "options": [
-        "La Primera Presidencia, el obispo y su consejo, y el sumo consejo, con la voz del Señor dirigida a ellos.",
+        "La Primera Presidencia, el obispo y el sumo consejo.",
         "Los Setenta y los presidentes de estaca.",
         "Un comité designado por la Primera Presidencia para cada período.",
         "El obispo de cada barrio y su consejo local."
@@ -82,8 +88,8 @@
       "question": "Doctrina y Convenios 119 fue revelada después de que la Iglesia intentara sostenerse con la consagración. ¿Qué muestra ese contexto?",
       "options": [
         "Que la ley del diezmo reemplazó definitivamente el principio de consagración.",
-        "Que el Señor dio una ley adaptada a lo que Su pueblo podía vivir en ese momento.",
-        "Que la consagración había sido una instrucción provisional desde el principio.",
+        "Que el Señor dio una ley adaptada a lo que Su pueblo podía vivir.",
+        "Que la consagración fue una instrucción provisional.",
         "Que las leyes económicas de la Iglesia cambian según la situación financiera."
       ],
       "correctAnswer": 1
@@ -94,7 +100,7 @@
       "options": [
         "Una pregunta dirigida a quienes tienen ingresos elevados.",
         "Una pregunta sobre administración financiera y planificación de gastos.",
-        "Una pregunta sobre confianza, que solo se responde poniéndola a prueba.",
+        "Una pregunta sobre confianza, que se responde probándola.",
         "Una pregunta retórica sin respuesta verificable."
       ],
       "correctAnswer": 2
@@ -103,10 +109,10 @@
       "id": 5,
       "question": "Martina paga el diezmo con lo que le queda a fin de mes, y algunos meses no le queda nada. Según el principio que enseña esta lección, ¿qué le conviene cambiar?",
       "options": [
-        "Pagar el diezmo cada dos meses para acumular el monto.",
+        "Pagar el diezmo cada dos meses a fin de acumular el monto.",
         "Consultar con el obispo si su situación la exime temporalmente.",
         "Reducir sus gastos hasta que el diezmo entre en el presupuesto.",
-        "Apartar la décima parte apenas recibe el dinero, antes de gastar nada."
+        "Apartar la décima parte apenas recibe, antes de gastar."
       ],
       "correctAnswer": 3
     },
@@ -114,7 +120,7 @@
       "id": 6,
       "question": "Luca todavía no maneja dinero propio y cree que el diezmo no lo involucra. Según lo que enseña esta lección, ¿qué le conviene hacer?",
       "options": [
-        "Decidir de antemano qué hará cuando reciba dinero, porque la decisión se vuelve más difícil después.",
+        "Decidir de antemano qué hará cuando reciba dinero propio.",
         "Pedir a sus padres que paguen el diezmo en su nombre.",
         "Considerar que el mandamiento se aplica solo a los adultos.",
         "Esperar a tener ingresos para recién entonces estudiar el principio."
@@ -125,8 +131,8 @@
       "id": 7,
       "question": "Doctrina y Convenios 119:4 establece el diezmo como ley fija, y 120:1 detalla quiénes deciden su uso con la voz del Señor. ¿Qué principio común forman las dos secciones?",
       "options": [
-        "Que la responsabilidad de quien paga termina en el momento de entregarlo.",
-        "Que el diezmo es una ley del Señor administrada bajo Su dirección, y no una recaudación de la organización.",
+        "Que quien paga ya cumplió al entregarlo.",
+        "Que el diezmo es una ley del Señor administrada bajo Su dirección.",
         "Que la cantidad y el destino del diezmo se ajustan según las necesidades.",
         "Que el consejo puede modificar la ley del diezmo si lo considera necesario."
       ],

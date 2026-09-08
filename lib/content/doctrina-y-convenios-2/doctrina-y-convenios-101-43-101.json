@@ -6,7 +6,8 @@
       "contenido": [
         "La segunda parte de la sección 101 es una parábola. Un noble planta doce olivos en un terreno escogido y manda a sus siervos construir una torre para vigilar la viña. Los siervos discuten entre ellos, se vuelven perezosos y no construyen la torre. Cuando llega el enemigo, no hay nadie mirando, y la viña es destruida.",
         "La parábola explicaba a los santos por qué habían perdido el condado de Jackson: no fue solo la violencia del populacho, fue también que no habían hecho lo que se les mandó cuando había tiempo. El élder David A. Bednar señaló algo importante sobre cómo funcionan las parábolas: el significado no se declara de forma explícita, y cada persona recibe la verdad «en proporción a su fe en Dios, su preparación espiritual personal y su voluntad de aprender».",
-        "Y ahí está la parte incómoda de esta parábola en particular. La torre no era un lujo ni una tarea urgente el día que se mandó construirla; era una defensa para un ataque que todavía no había llegado. Lo que los siervos hicieron mal fue postergar algo que no parecía apremiante, hasta que fue tarde. Es exactamente lo que pasa con los hábitos espirituales."
+        "Y ahí está la parte incómoda de esta parábola en particular. La torre no era un lujo ni una tarea urgente el día que se mandó construirla; era una defensa para un ataque que todavía no había llegado. Lo que los siervos hicieron mal fue postergar algo que no parecía apremiante, hasta que fue tarde. Es exactamente lo que pasa con los hábitos espirituales.",
+        "Vale la pena preguntarse quién es el noble de la parábola. El manual lo señala: el noble representa a Jesucristo, y los olivos son Su pueblo. Enseñar así era Su manera habitual —«todo esto habló Jesús por parábolas a la gente, y sin parábolas no les hablaba» (Mateo 13:34)—, porque una parábola no entrega la respuesta hecha: la deja al alcance del que está dispuesto a buscarla. Y si el dueño de la viña es Él, la torre que manda construir no es una tarea más: es la protección que Su poder ofrece a quienes guardan Sus convenios."
       ]
     },
     {
@@ -23,9 +24,9 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=spa&id=p50#p50"
         },
         {
-          "referencia": "Doctrina y Convenios 101:16",
-          "texto": "Consuélense, pues, vuestros corazones en lo concerniente a Sion, porque toda carne está en mis manos; quedaos tranquilos y sabed que yo soy Dios.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=spa&id=p16#p16"
+          "referencia": "Mateo 13:34–35",
+          "texto": "Todo esto habló Jesús por parábolas a la gente, y sin parábolas no les hablaba, para que se cumpliese lo que fue dicho por medio del profeta, cuando dijo: Abriré en parábolas mi boca; declararé cosas escondidas desde la fundación del mundo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=spa&id=p34-p35#p34"
         }
       ]
     },
@@ -45,19 +46,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": [
-        "Los siervos de la parábola no destruyeron la viña: simplemente no construyeron la torre cuando había tiempo y nada parecía urgente. Esa es la forma habitual en que se pierden las cosas importantes, y no tiene nada de dramática. Mirá qué torre estás dejando de construir —el estudio diario, la oración, una conversación pendiente— y poné el primer ladrillo esta semana, mientras todavía no hace falta."
-      ]
+      "contenido": "Los siervos de la parábola no destruyeron la viña: simplemente no construyeron la torre cuando había tiempo y nada parecía urgente. Esa es la forma habitual en que se pierden las cosas importantes, y no tiene nada de dramática. Pero la torre no la inventaron ellos: se la mandó el dueño de la viña, y ese dueño es Jesucristo. Lo que Él pide construir de antemano es lo mismo que después nos sostiene, porque el poder que protege es Suyo y no nuestro. Mirá qué torre estás dejando de construir —el estudio diario, la oración, una conversación pendiente— y poné el primer ladrillo esta semana, mientras todavía no hace falta."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "En la parábola, ¿qué fue exactamente lo que hicieron mal los siervos?",
         "La torre servía para vigilar antes del ataque. ¿Qué «torres» tenés vos que no parecen urgentes hoy?",
-        "El élder Bednar dice que cada persona recibe de una parábola «en proporción a su voluntad de aprender». ¿Qué te dice a vos esta parábola?",
+        "Releé Mateo 13:34–35 en el bloque de escrituras. ¿Qué razón da ese pasaje para que Jesús enseñara con parábolas, y cómo cambia eso la forma en que leés la parábola de la viña?",
         "Los siervos discutieron entre ellos y se volvieron perezosos. ¿Qué relación ves entre las dos cosas?",
         "La hermana Bingham habla de protección «contra la influencia del adversario» por guardar los convenios. ¿En qué se parece eso a la torre?",
-        "¿Qué torre vas a empezar a construir esta semana? Nombrala y decí cuál es el primer ladrillo."
+        "¿Qué torre vas a empezar a construir esta semana? Nombrala, poné el primer ladrillo, y anotá qué te viene a la mente cuando le preguntes al Padre Celestial por dónde empezar."
       ]
     }
   ],
@@ -69,7 +68,7 @@
         "Cavar un pozo para regar los árboles.",
         "Repartirse la viña en partes iguales.",
         "Cercar el terreno con un muro de piedra.",
-        "Construir una torre para vigilar la viña."
+        "Construir una torre y vigilar la viña."
       ],
       "correctAnswer": 3
     },
@@ -77,7 +76,7 @@
       "id": 2,
       "question": "Según Doctrina y Convenios 101:50, ¿qué ocurrió mientras los siervos discordaban entre sí?",
       "options": [
-        "Se volvieron muy perezosos y no hicieron caso de los mandamientos de su señor.",
+        "Se volvieron perezosos y desoyeron a su señor.",
         "Abandonaron la viña y regresaron a sus casas.",
         "Construyeron la torre pero en el lugar equivocado.",
         "Pidieron al señor instrucciones más detalladas."
@@ -89,7 +88,7 @@
       "question": "¿Qué explicaba esta parábola a los santos que habían sido expulsados del condado de Jackson?",
       "options": [
         "Que la persecución había sido enteramente responsabilidad de sus enemigos.",
-        "Que la pérdida se relacionaba también con no haber hecho lo mandado cuando había tiempo.",
+        "Que la pérdida se relacionaba con no haber hecho lo mandado a tiempo.",
         "Que debían abandonar definitivamente el proyecto de Sion.",
         "Que el Señor había retirado Su protección de manera permanente."
       ],
@@ -101,7 +100,7 @@
       "options": [
         "Que su significado se fija de antemano y admite una sola lectura.",
         "Que reserva las verdades más profundas para quienes tienen un llamamiento.",
-        "Que la comprensión depende de la disposición del que escucha, y no solo de la claridad del mensaje.",
+        "Que la comprensión depende también de la disposición del que escucha.",
         "Que las parábolas fueron pensadas para ocultar la doctrina a la mayoría."
       ],
       "correctAnswer": 2
@@ -113,7 +112,7 @@
         "Que el estudio personal es menos importante que otros hábitos espirituales.",
         "Que conviene esperar a tener una motivación clara para retomarlo.",
         "Que el Señor avisa antes de que lleguen las dificultades.",
-        "Que la torre se construye antes del ataque, no durante."
+        "Que la torre se construye antes del ataque, no cuando ya llegó."
       ],
       "correctAnswer": 3
     },
@@ -121,10 +120,10 @@
       "id": 6,
       "question": "Joaquín observa que en su clase se discute mucho y se hace poco. Según Doctrina y Convenios 101:50, ¿qué riesgo señala ese patrón?",
       "options": [
-        "Que la discordia y la pereza aparecen juntas, y terminan en desobediencia a lo mandado.",
+        "Que discordia y pereza aparecen juntas y terminan en desobediencia.",
         "Que las discusiones son necesarias para llegar a buenas decisiones.",
         "Que la falta de acuerdo indica que las instrucciones no eran claras.",
-        "Que el problema se resuelve cuando alguien asume el liderazgo."
+        "Que el problema se resuelve en el momento en que alguien asume el liderazgo."
       ],
       "correctAnswer": 0
     },
@@ -133,7 +132,7 @@
       "question": "La parábola muestra una torre que debía construirse antes del peligro, y la hermana Bingham enseña que guardar los convenios da protección contra el adversario. ¿Qué principio común forman las dos ideas?",
       "options": [
         "Que quienes guardan los convenios no enfrentan pruebas.",
-        "Que la protección espiritual se construye de antemano, cuando todavía no hace falta.",
+        "Que la protección espiritual se construye antes de que haga falta.",
         "Que la protección divina llega en el momento exacto en que se la necesita.",
         "Que los convenios sustituyen la necesidad de hábitos espirituales diarios."
       ],

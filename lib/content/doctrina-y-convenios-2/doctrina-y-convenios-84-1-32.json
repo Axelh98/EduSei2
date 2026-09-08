@@ -6,7 +6,8 @@
       "contenido": [
         "En septiembre de 1832, con los primeros misioneros volviendo de sus viajes y la Iglesia creciendo, el Señor reveló Doctrina y Convenios 84. La sección explica de dónde viene la autoridad para actuar en Su nombre y qué hace esa autoridad cuando se ejerce.",
         "El centro está en los versículos 19 al 22: el sacerdocio mayor «administra el evangelio y posee la llave […] del conocimiento de Dios», y «en sus ordenanzas se manifiesta el poder de la divinidad». No dice que las ordenanzas recuerden ese poder ni que lo simbolicen: dice que se manifiesta en ellas. El bautismo, la confirmación, la Santa Cena y las ordenanzas del templo no son ceremonias conmemorativas; son el punto donde el poder de Dios entra en la vida de una persona.",
-        "El élder Neil L. Andersen contó que en sus viajes los jóvenes le hacen siempre las mismas preguntas: «¿Me ayudará Dios? ¿Guiará Él mi vida? ¿Cómo puedo recibir la ayuda que necesito?». La respuesta de la sección 84 es concreta y está más cerca de lo que parece: pasa cada domingo, en una mesa con pan y agua."
+        "El élder Neil L. Andersen contó que en sus viajes los jóvenes le hacen siempre las mismas preguntas: «¿Me ayudará Dios? ¿Guiará Él mi vida? ¿Cómo puedo recibir la ayuda que necesito?». La respuesta de la sección 84 es concreta y está más cerca de lo que parece: pasa cada domingo, en una mesa con pan y agua.",
+        "Falta decir de quién es esa autoridad. El manual lo dice sin rodeos: toda la autoridad del sacerdocio, incluida la de las ordenanzas del templo, proviene de Jesucristo. Y Él mismo no se la tomó: «tampoco Cristo se glorificó a sí mismo haciéndose sumo sacerdote», sino que la recibió del Padre (Hebreos 5:5). Por eso el poder que se manifiesta en las ordenanzas es Suyo, no de quien las administra, y por eso la Santa Cena es «en memoria del sacrificio expiatorio de Jesucristo». Cuando el pan pasa por tu fila, lo que se te ofrece es Su expiación puesta a tu alcance."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 84:46",
           "texto": "Y el Espíritu da luz a todo hombre que viene al mundo; y el Espíritu ilumina a todo hombre en el mundo que escucha la voz del Espíritu.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p46#p46"
+        },
+        {
+          "referencia": "Hebreos 5:4–6",
+          "texto": "Y nadie toma para sí esta honra, sino el que es llamado por Dios, como lo fue Aarón. Así tampoco Cristo se glorificó a sí mismo haciéndose sumo sacerdote, sino el que le dijo: Tú eres mi Hijo, yo te he engendrado hoy. Como también dice en otro lugar: Tú eres sacerdote para siempre, según el orden de Melquisedec.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/heb/5?lang=spa&id=p4-p6#p4"
         }
       ]
     },
@@ -47,10 +53,10 @@
       "preguntas": [
         "El élder Andersen dice que los jóvenes le preguntan «¿me ayudará Dios?». ¿Es una pregunta que te hiciste vos alguna vez?",
         "Según Doctrina y Convenios 84:20, ¿dónde se manifiesta el poder de la divinidad?",
-        "¿Qué diferencia hay entre pensar la Santa Cena como un recordatorio y pensarla como el lugar donde entra el poder de Dios?",
+        "Leé Hebreos 5:4–6 en el bloque de escrituras. ¿Cómo recibió Jesucristo Su propio sacerdocio, y qué dice eso sobre de quién es el poder que se manifiesta en las ordenanzas?",
         "¿Cuál de las ordenanzas que ya recibiste sentís que entendés menos de lo que te gustaría?",
         "¿Qué cosa concreta necesitás que el Señor cambie en vos ahora mismo?",
-        "Este domingo, ¿qué vas a pedir específicamente durante la Santa Cena, y cómo te vas a acordar de hacerlo?"
+        "Este domingo, ¿qué vas a pedir específicamente durante la Santa Cena? Anotalo antes de ir, y al salir de la reunión escribí qué te vino a la mente durante esos minutos."
       ]
     }
   ],
@@ -61,8 +67,8 @@
       "options": [
         "El derecho de recibir revelación para toda la humanidad.",
         "La responsabilidad de preservar los registros sagrados.",
-        "La llave de los misterios del reino, es decir, la llave del conocimiento de Dios.",
-        "La autoridad para dirigir los asuntos temporales de la Iglesia."
+        "La llave de los misterios, es decir, del conocimiento de Dios.",
+        "La autoridad con el fin de dirigir los asuntos temporales de la Iglesia."
       ],
       "correctAnswer": 2
     },
@@ -70,10 +76,10 @@
       "id": 2,
       "question": "Doctrina y Convenios 84:20 dice que «en sus ordenanzas se manifiesta el poder de la divinidad». ¿Qué afirma exactamente ese versículo?",
       "options": [
-        "Que las ordenanzas son requisitos formales para pertenecer a la Iglesia.",
+        "Que las ordenanzas son requisitos formales a fin de pertenecer a la Iglesia.",
         "Que el poder divino se concede en proporción a la dignidad de quien oficia.",
         "Que las ordenanzas recuerdan el poder de Dios a quienes participan de ellas.",
-        "Que el poder de Dios se manifiesta en las ordenanzas mismas, y no solo se representa en ellas."
+        "Que en las ordenanzas mismas se manifiesta el poder de Dios, no se evoca."
       ],
       "correctAnswer": 3
     },
@@ -81,7 +87,7 @@
       "id": 3,
       "question": "Según Doctrina y Convenios 84:21–22, ¿qué ocurre sin las ordenanzas y la autoridad del sacerdocio?",
       "options": [
-        "El poder de la divinidad no se manifiesta a los hombres en la carne.",
+        "El poder de la divinidad no se manifiesta en la carne.",
         "La Iglesia pierde su capacidad de organizarse.",
         "Las revelaciones personales dejan de ser confiables.",
         "Las bendiciones llegan igual, aunque con menor intensidad."
@@ -93,7 +99,7 @@
       "question": "El élder Andersen escribió que Dios «está listo para bendecirlos» y que las ordenanzas nos ayudan a sentir Su poder. ¿Qué respuesta da esa enseñanza a un joven que pregunta si Dios lo va a ayudar?",
       "options": [
         "Que la ayuda llega cuando la persona alcanza cierto grado de dignidad.",
-        "Que la ayuda ya está disponible, y las ordenanzas son la vía concreta por la que se recibe.",
+        "Que la colabora ya está disponible y llega por medio de las ordenanzas.",
         "Que la ayuda depende de la intensidad con que se la pida en oración.",
         "Que conviene esperar una señal antes de contar con esa ayuda."
       ],
@@ -105,7 +111,7 @@
       "options": [
         "Que conviene asistir con menos frecuencia para valorarla más.",
         "Que la ordenanza tiene efecto por sí sola, con independencia de la participación.",
-        "Que ese es precisamente el momento en que el poder de Dios se manifiesta, y participar con intención cambia lo que recibe.",
+        "Que ese es justamente el momento en que el poder de Dios se manifiesta.",
         "Que la reunión mejora si el discurso es interesante."
       ],
       "correctAnswer": 2
@@ -117,7 +123,7 @@
         "Que el efecto depende de la fe de quien la pronuncia.",
         "Que conviene pedirla solo en situaciones muy graves.",
         "Que la bendición resolverá el problema por el que la pide.",
-        "Que es una ocasión en la que el poder de Dios se manifiesta, aunque la forma y el momento de la ayuda los decide Él."
+        "Que es una ocasión donde el poder de Dios se manifiesta."
       ],
       "correctAnswer": 3
     },
@@ -125,7 +131,7 @@
       "id": 7,
       "question": "Doctrina y Convenios 84:20 sitúa el poder de la divinidad en las ordenanzas, y 84:46 dice que el Espíritu ilumina a todo hombre que escucha Su voz. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Que Dios usa medios concretos y accesibles —ordenanzas y la voz del Espíritu— para llegar a las personas.",
+        "Que Dios usa medios concretos y accesibles a fin de llegar a las personas.",
         "Que las ordenanzas reemplazan la necesidad de escuchar al Espíritu.",
         "Que la luz del Espíritu se limita a los miembros de la Iglesia.",
         "Que el poder divino se manifiesta solo en circunstancias extraordinarias."

@@ -6,16 +6,27 @@
       "contenido": [
         "Escuchar un discurso de la Conferencia General y estudiar un discurso de la Conferencia General son dos experiencias completamente diferentes. Escuchar lo pasás una vez. Estudiarlo lo integrás a tu vida.",
         "Esta lección enseña técnicas concretas para convertir los mensajes de los líderes en guía personal aplicable: identificar el principio central del discurso, encontrar las Escrituras que el orador usa como fundamento, subrayar la invitación a la acción que hace el Señor a través de ese mensaje, y escribir cómo vas a actuar específicamente.",
-        "Hay una razón por la que los mensajes de la Conferencia General están disponibles en la Biblioteca del Evangelio con texto completo, audio, video y referencias: el Señor quiere que los estudies, no solo que los escuches. Cada discurso de la Conferencia General es una oportunidad de revelación personal cuando lo tratas como una fuente divinamente señalada y lo estudias con la misma reverencia y atención que darías a una sección de D&C."
+        "Hay una razón por la que los mensajes de la Conferencia General están disponibles en la Biblioteca del Evangelio con texto completo, audio, video y referencias: el Señor quiere que los estudies, no solo que los escuches. Cada discurso de la Conferencia General es una oportunidad de revelación personal cuando lo tratas como una fuente divinamente señalada y lo estudias con la misma reverencia y atención que darías a una sección de D&C.",
+        "Y hay una razón de fondo para estudiarlos así. Quienes hablan en la conferencia general centran sus mensajes en el Salvador, en Su misericordia y en Su infinito poder redentor: el tema de fondo de cada discurso, sea cual sea el título, es Jesucristo. Por eso el Señor dice que Su propia voz y la de Sus siervos «es lo mismo»; no porque los líderes sean perfectos, sino porque lo que traen no es de ellos. Cuando te sentás a estudiar un discurso, estás escuchando a Alguien que ya te conoce hablando por boca de alguien que quizá no."
       ]
     },
     {
       "tipo": "escrituras",
       "citas": [
         {
+          "referencia": "Doctrina y Convenios 1:38",
+          "texto": "Lo que yo, el Señor, he dicho, yo lo he dicho, y no me disculpo; y aunque pasaren los cielos y la tierra, mi palabra no pasará, sino que toda será cumplida, sea por mi propia voz o por la voz de mis siervos, es lo mismo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=spa&id=p38#p38"
+        },
+        {
           "referencia": "Doctrina y Convenios 68:4",
           "texto": "Y lo que hablen cuando sean inspirados por el Espíritu Santo será Escritura, será la voluntad del Señor, será la intención del Señor, será la palabra del Señor, será la voz del Señor y el poder de Dios para salvación.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa&id=p4#p4"
+        },
+        {
+          "referencia": "3 Nefi 27:13",
+          "texto": "He aquí, os he dado mi evangelio, y este es el evangelio que os he dado: que vine al mundo a cumplir la voluntad de mi Padre, porque mi Padre me envió.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p13#p13"
         }
       ]
     },
@@ -29,7 +40,7 @@
     {
       "tipo": "conclusion",
       "contenido": [
-        "Los mensajes de la conferencia general son «la voluntad del Señor, la mente del Señor, la palabra del Señor» (Doctrina y Convenios 68:4) cuando se dan por el Espíritu. Estudiarlos con técnicas concretas —identificar el principio central, las Escrituras que los sostienen y la invitación a la acción— los convierte en guía personal específica. Tomá un discurso de la última conferencia, trabajalo con ese proceso y escribí al final una sola frase: qué vas a hacer distinto, y para cuándo."
+        "Los mensajes de la conferencia general son «la voluntad del Señor, la mente del Señor, la palabra del Señor» (Doctrina y Convenios 68:4) cuando se dan por el Espíritu, y el Señor mismo aclaró que Su voz y la de Sus siervos son lo mismo. Estudiarlos con técnicas concretas —identificar el principio central, las Escrituras que lo sostienen y la invitación a la acción— los convierte en guía personal específica. Tomá un discurso de la última conferencia, trabajalo con ese proceso y escribí al final una sola frase: qué vas a hacer distinto, y para cuándo. Buscá ahí lo que Jesucristo te está pidiendo y no solo lo que el orador dijo: Su misericordia es el tema de fondo de todos ellos."
       ]
     },
     {
@@ -37,7 +48,7 @@
       "preguntas": [
         "¿Cuál es la diferencia entre escuchar un discurso de la Conferencia General y estudiarlo? ¿Cuál de las dos hacés más?",
         "Según D&C 68:4, ¿qué condición hace que las palabras de los siervos del Señor sean equivalentes a Su Palabra?",
-        "¿Qué herramientas concretas podrías usar para estudiar un discurso de la Conferencia General de forma más profunda?",
+        "Fijate en Doctrina y Convenios 1:38: ¿qué dice exactamente el Señor que pasa con Su palabra aunque «pasaren los cielos y la tierra»? ¿Qué cambia eso en la manera de escuchar la próxima conferencia?",
         "¿Qué discurso reciente de la Conferencia General más te habló? ¿Cuál fue la invitación a la acción que encontraste en él?",
         "¿Qué mensaje de la Conferencia General vas a estudiar esta semana? ¿Cuándo y cómo lo harás?",
         "¿En qué día y a qué hora de esta semana vas a sentarte con ese discurso, y dónde vas a anotar lo que decidas hacer?"
@@ -51,7 +62,7 @@
       "options": [
         "No hay diferencia real si prestás atención mientras escuchás",
         "Escuchar es más rápido; estudiar toma más tiempo pero produce los mismos resultados",
-        "Escuchar lo pasa; estudiar lo integra — encontrás el principio central, las Escrituras de base y la acción concreta que te pide",
+        "Escuchar lo pasa; estudiar lo integra: principio, Escrituras de base y acción",
         "Estudiar solo aplica a estudiantes de Seminario, no a todos los miembros"
       ],
       "correctAnswer": 2
@@ -63,7 +74,7 @@
         "Que los miembros estén de acuerdo con lo que se dice antes de que sea válido",
         "Que el discurso sea publicado oficialmente por la Iglesia después",
         "Que el orador tenga un cargo específico como apóstol o profeta",
-        "Que hablen 'por el Espíritu Santo' — lo que implica que la autoridad viene del Espíritu, no solo del cargo"
+        "Que hablen «por el Espíritu Santo»: la autoridad viene de Él, no del cargo"
       ],
       "correctAnswer": 3
     },
@@ -71,7 +82,7 @@
       "id": 3,
       "question": "Doctrina y Convenios 68:4 dice que lo que los siervos del Señor hablan «cuando son inspirados por el Espíritu Santo» es voluntad, palabra y voz del Señor. Al estudiar un discurso, ¿qué se desprende de esa condición?",
       "options": [
-        "Que el peso del mensaje viene del Espíritu que lo inspiró, y por eso merece un estudio comparable al de un pasaje de Escritura.",
+        "Que el peso del mensaje viene del Espíritu que lo inspiró, y merece estudiarse así.",
         "Que solo los discursos del profeta tienen esa categoría, y los del resto son opiniones autorizadas.",
         "Que un discurso vale mientras coincida con lo que uno ya pensaba antes de escucharlo.",
         "Que conviene evaluar cada discurso según la elocuencia del orador antes de aplicarlo."
@@ -83,7 +94,7 @@
       "question": "¿Qué herramientas concretas de la Biblioteca del Evangelio podrías usar para estudiar un discurso de la Conferencia General de manera más profunda?",
       "options": [
         "Solo la función de búsqueda para encontrar discursos sobre un tema específico",
-        "Las referencias de Escrituras vinculadas al texto, la opción de agregar notas, y los estudios relacionados",
+        "Las referencias de Escritura vinculadas, las notas propias y los estudios relacionados",
         "La opción de compartir en redes sociales para llegar a más personas",
         "Solo el audio del discurso porque el texto no aporta nada adicional"
       ],
@@ -91,14 +102,14 @@
     },
     {
       "id": 5,
-      "question": "¿Qué discurso de la Conferencia General vas a estudiar esta semana? ¿Cuándo específicamente lo harás y qué proceso usarás?",
+      "question": "Joaquín abre la aplicación el domingo a la noche y elige el primer discurso que aparece, sin ninguna pregunta en mente. Según el proceso que enseña esta lección, ¿qué le falta a su método?",
       "options": [
-        "Solo si tengo tiempo libre después de todas las otras obligaciones",
-        "El que aparezca primero en la aplicación cuando la abra",
-        "Uno que elija deliberadamente relacionado con una pregunta o área de crecimiento que tengo, con un tiempo definido",
-        "Esperar a que el maestro de Seminario asigne uno para no duplicar esfuerzos"
+        "Nada: cualquier discurso sirve, porque todos fueron dados por inspiración divina",
+        "Elegir con un propósito y un momento fijos, y buscar la invitación a actuar",
+        "Esperar a que un maestro le asigne el discurso para no repetir el de otro",
+        "Leer solamente el resumen del discurso, porque el texto completo lo confunde"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
@@ -107,7 +118,7 @@
         "Que el acceso a la revelación coloca a los miembros por encima de otras personas.",
         "Que la responsabilidad recae sobre quienes estudian el evangelio de manera formal.",
         "Que seremos juzgados con más severidad por el solo hecho de recibir más información.",
-        "Que a quienes más se les da, más se les requiere: tener la guía disponible e ignorarla es una decisión activa."
+        "Que a quienes más se les da, más se les requiere: ignorar la guía es una decisión."
       ],
       "correctAnswer": 3
     },
@@ -115,7 +126,7 @@
       "id": 7,
       "question": "Doctrina y Convenios 68:4 condiciona la equivalencia entre la palabra de los siervos y la del Señor a que hablen «movidos por el Espíritu Santo», y el presidente Nelson señaló que los oradores de la conferencia centran sus mensajes en Jesucristo. ¿Qué principio común forman ambas cosas?",
       "options": [
-        "Que lo que hace que un mensaje sea palabra del Señor es su origen y su centro, no la elocuencia de quien lo da.",
+        "Que un mensaje es palabra del Señor por su origen y su centro, no por la elocuencia.",
         "Que todo discurso pronunciado por un líder de la Iglesia tiene rango de Escritura.",
         "Que conviene escuchar solamente a los oradores de mayor jerarquía.",
         "Que la autoridad del mensaje depende del cargo que ocupa quien lo pronuncia."

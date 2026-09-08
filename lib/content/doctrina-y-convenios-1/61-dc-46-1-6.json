@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "A principios de 1831, algunas reuniones de la Iglesia en Ohio se habían vuelto caóticas. Ciertos miembros actuaban de maneras extravagantes afirmando que era el Espíritu quien los guiaba, mientras que otros habían comenzado a excluir de las reuniones a personas que no eran miembros. El Señor respondió con D&C 46, que comienza estableciendo un principio fundamental: las reuniones de la Iglesia deben ser dirigidas por el Espíritu Santo, y tanto quienes las conducen como quienes asisten tienen la responsabilidad de buscar ese Espíritu. La instrucción de los versículos 1–6 es directa: no excluyan a quienes buscan sinceramente, porque las reuniones son una oportunidad para que el Espíritu toque el corazón de todos los que asisten. Esta lección invita a los jóvenes a reflexionar sobre su propia actitud hacia las reuniones de la Iglesia — ¿van a buscar el Espíritu o van por obligación, por costumbre, o porque sus padres los llevan?"
+      "contenido": [
+        "A principios de 1831, algunas reuniones de la Iglesia en Ohio se habían vuelto caóticas. Ciertos miembros actuaban de maneras extravagantes afirmando que era el Espíritu quien los guiaba, mientras que otros habían comenzado a excluir de las reuniones a personas que no eran miembros. El Señor respondió con D&C 46, que comienza estableciendo un principio fundamental: las reuniones de la Iglesia deben ser dirigidas por el Espíritu Santo, y tanto quienes las conducen como quienes asisten tienen la responsabilidad de buscar ese Espíritu. La instrucción de los versículos 1–6 es directa: no excluyan a quienes buscan sinceramente, porque las reuniones son una oportunidad para que el Espíritu toque el corazón de todos los que asisten. Esta lección invita a los jóvenes a reflexionar sobre su propia actitud hacia las reuniones de la Iglesia — ¿van a buscar el Espíritu o van por obligación, por costumbre, o porque sus padres los llevan?",
+        "Y hay un modelo detrás de esa instrucción. Cuando el Salvador visitó a los nefitas dio una orden parecida sobre el que llega sin ser digno todavía: «no lo echaréis de vuestras sinagogas ni de vuestros lugares donde adoráis, porque debéis continuar ministrando por estos; pues no sabéis si tal vez vuelvan, y se arrepientan, y vengan a mí… y yo los sane». Jesucristo no cerró la puerta de nadie, y da la razón: Él es quien sana, y el que hoy parece lejos puede ser el que vuelva. Recibir bien a alguien en la Iglesia no es simpatía: es Su ejemplo, y Su promesa de sanar es lo que está en juego."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -12,6 +15,11 @@
           "referencia": "Doctrina y Convenios 46:2",
           "texto": "Pero a pesar de las cosas que están escritas, siempre se ha concedido a los élderes de mi iglesia desde el principio, y siempre será así, dirigir todas las reuniones conforme los oriente y los guíe el Santo Espíritu.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=spa&id=p2#p2"
+        },
+        {
+          "referencia": "3 Nefi 18:32",
+          "texto": "No obstante, no lo echaréis de vuestras sinagogas ni de vuestros lugares donde adoráis, porque debéis continuar ministrando por estos; pues no sabéis si tal vez vuelvan, y se arrepientan, y vengan a mí con íntegro propósito de corazón, y yo los sane; y vosotros seréis el medio de traerles la salvación.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p32#p32"
         },
         {
           "referencia": "Doctrina y Convenios 46:7",
@@ -25,21 +33,23 @@
       "autor": "Élder Gerrit W. Gong",
       "fuente": "«Lugar en el mesón», Liahona, mayo de 2021, pág. 25",
       "texto": "Hagamos de Su Iglesia un lugar de gracia y espacio, donde cada persona se pueda reunir.",
-      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/191-doctrine-and-covenants-46-1-6?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/191-doctrine-and-covenants-46-1-6?lang=spa&id=aside1_aside2_p1#aside1_aside2_p1"
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 46:1–6 establece que las reuniones de la Iglesia tienen un propósito espiritual que va más allá de la asistencia física: son oportunidades de recibir y dar el Espíritu. La instrucción de no excluir a quienes buscan sinceramente es también una invitación a nosotros mismos: ¿vamos con el corazón abierto a buscar al Señor, o con la mente ya cerrada? La calidad de la experiencia espiritual en una reunión depende en gran medida de la disposición de quienes asisten."
+      "contenido": [
+        "Doctrina y Convenios 46:1–6 establece que las reuniones de la Iglesia tienen un propósito espiritual que va más allá de la asistencia: son oportunidades de recibir y de dar el Espíritu. La instrucción de no excluir a quien busca sinceramente es también una pregunta para uno mismo: ¿voy con el corazón abierto o con la mente ya cerrada? Y el modelo es Jesucristo, que mandó seguir ministrando incluso a los que parecían lejos, porque Él es quien sana y no sabemos quién va a volver. Este domingo, acercate a alguien que suele quedar solo: es la forma más concreta de seguir Su ejemplo."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuál es tu actitud habitual cuando vas a la Iglesia o al Seminario — buscás el Espíritu o vas por otra razón?",
         "¿Por qué creés que el Señor instruyó a no excluir a quienes buscan sinceramente el reino?",
-        "¿Alguna vez tuviste una experiencia espiritual real en una reunión de la Iglesia? ¿Qué la hizo posible?",
+        "Releé 3 Nefi 18:32. ¿Qué razón da el Salvador para no echar a nadie de los lugares de adoración, y qué dice que hará Él si esa persona vuelve?",
         "¿Qué podrías cambiar en tu preparación antes de ir a la Iglesia para que la experiencia sea más espiritual?",
         "¿Hay alguien en tu entorno que esté buscando sinceramente al Señor a quien podrías invitar a una reunión esta semana?",
-        "Este domingo, ¿a quién de tu clase o de tu barrio te vas a acercar para que no quede solo, aunque no sea de tu grupo habitual?"
+        "Este domingo, ¿a quién de tu clase o de tu barrio te vas a acercar para que no quede solo? Pedile al Señor en oración que te muestre a quién, y anotá el nombre antes del sábado."
       ]
     }
   ],
@@ -51,7 +61,7 @@
         "Permitir la entrada solo a los miembros bautizados con membresía activa.",
         "Invitar únicamente a personas ya comprometidas a bautizarse.",
         "Reservar las reuniones sagradas para quienes han recibido el Espíritu Santo.",
-        "No expulsar de los lugares de adoración a quien sinceramente busca el reino."
+        "No expulsar de la adoración a quien busca sinceramente el reino."
       ],
       "correctAnswer": 3
     },
@@ -83,7 +93,7 @@
       "options": [
         "Que solo importa la actitud de los líderes, no de los miembros.",
         "Que ir a la Iglesia es suficiente con solo estar físicamente presente.",
-        "Que debemos ir con la disposición de dar y recibir por el Espíritu, no solo de cumplir una obligación.",
+        "Que hay que ir dispuesto a dar y recibir por el Espíritu, no a cumplir.",
         "Que la actitud personal no importa mientras se asista regularmente."
       ],
       "correctAnswer": 2
@@ -95,7 +105,7 @@
         "No hay mucho que pueda hacer — la experiencia espiritual depende principalmente del maestro.",
         "Sentarse más cerca del frente para distraerse menos con los demás.",
         "Pedir al maestro que haga las clases más entretenidas.",
-        "Llegar con la intención real de buscar el Espíritu y abrirse a recibir algo específico del Señor ese día."
+        "Llegar con la intención de buscar el Espíritu y esperar algo del Señor."
       ],
       "correctAnswer": 3
     },
@@ -103,7 +113,7 @@
       "id": 6,
       "question": "Sofía está pensando en no invitar a su amiga no miembro a la actividad de la Iglesia porque 'no va a entender nada'. Según D&C 46:2, ¿qué le respondería el Señor?",
       "options": [
-        "Que no se debe expulsar a quien sinceramente busca — y Sofía ni siquiera le está dando la oportunidad de hacerlo.",
+        "Que no se excluye al que busca, y Sofía ni siquiera le da la oportunidad.",
         "Que primero debe preparar a su amiga estudiando con ella antes de invitarla.",
         "Que las actividades sociales están bien para no miembros pero no las reuniones espirituales.",
         "Que tiene razón y es mejor esperar a que su amiga exprese interés primero."
@@ -115,7 +125,7 @@
       "question": "D&C 46:2 (no excluir a quien busca) y D&C 46:7 (buscar los mejores dones para el beneficio de todos) pertenecen a la misma revelación. ¿Cuál es el principio común que las une?",
       "options": [
         "Que los dones espirituales y la asistencia a reuniones son temas completamente separados.",
-        "Que la Iglesia funciona como comunidad orientada hacia afuera — tanto la apertura a los que buscan como el uso de dones para beneficio mutuo reflejan un pueblo que sirve en lugar de excluir.",
+        "Que la Iglesia mira hacia afuera: se abre al que busca y usa los dones para todos.",
         "Que las reuniones de la Iglesia deben ser accesibles económicamente para todos.",
         "Que el Señor pone reglas de conducta para proteger a los miembros de influencias externas."
       ],

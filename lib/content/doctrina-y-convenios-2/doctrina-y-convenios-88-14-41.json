@@ -6,7 +6,8 @@
       "contenido": [
         "Esta parte de la sección 88 responde una pregunta que casi todos se hacen alguna vez: ¿qué pasa después de morir, y por qué unos heredan un reino y otros otro? La respuesta del Señor no apela al castigo, sino a la capacidad.",
         "El versículo 22 lo dice sin rodeos: «el que no es capaz de obedecer la ley de un reino celestial, no puede soportar una gloria celestial». No dice que no se lo permitan; dice que no podría soportarla. Es la diferencia entre una puerta cerrada con llave y una habitación para la que uno todavía no está preparado. Y el versículo 32 agrega que cada uno gozará de aquello que esté dispuesto a recibir.",
-        "Antes de eso, los versículos 15 al 17 dan la definición que ordena todo el pasaje: «el espíritu y el cuerpo son el alma del hombre», y «la resurrección de los muertos es la redención del alma». El cuerpo no es un envase temporal del que uno se libera: es la mitad de lo que uno es, y por eso la Resurrección no es un consuelo poético, es la reparación de algo real."
+        "Antes de eso, los versículos 15 al 17 dan la definición que ordena todo el pasaje: «el espíritu y el cuerpo son el alma del hombre», y «la resurrección de los muertos es la redención del alma». El cuerpo no es un envase temporal del que uno se libera: es la mitad de lo que uno es, y por eso la Resurrección no es un consuelo poético, es la reparación de algo real.",
+        "Queda por decir quién hace posible esa redención del alma. El manual lo enuncia así: «debido a que Jesucristo es nuestro Salvador, podemos confiar en que Él puede ayudarnos a cambiar, arrepentirnos y proporcionar fortaleza». Sin Su resurrección, el versículo 16 no diría nada: es Su cuerpo resucitado el que sirve de modelo para el nuestro. Pablo lo escribió así: Él «transformará el cuerpo de nuestra humillación, para ser semejante al cuerpo de su gloria» (Filipenses 3:21). Y la capacidad que menciona el versículo 22 tampoco se fabrica solo: se desarrolla apoyándose en Su gracia."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 88:28",
           "texto": "Aquellos que son de un espíritu celestial recibirán el mismo cuerpo que fue el cuerpo natural; sí, vosotros recibiréis vuestros cuerpos, y vuestra gloria será aquella por medio de la cual vuestro cuerpo sea vivificado.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p28#p28"
+        },
+        {
+          "referencia": "Filipenses 3:21",
+          "texto": "El que transformará el cuerpo de nuestra humillación, para ser semejante al cuerpo de su gloria, mediante el poder con el cual puede también sujetar a sí mismo todas las cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/philip/3?lang=spa&id=p21#p21"
         }
       ]
     },
@@ -38,19 +44,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": [
-        "La sección 88 no describe el juicio como una sentencia arbitraria sino como un ajuste: cada persona recibe la gloria que puede soportar y que estuvo dispuesta a recibir. Eso corre el foco de «¿alcanzo el puntaje?» a «¿en qué me estoy convirtiendo?», y la segunda pregunta sí se puede responder hoy. Elegí una de las cuatro cosas que menciona el élder Christofferson —obediencia, sacrificio, consagración, fidelidad— y practicala esta semana en algo chico y verificable."
-      ]
+      "contenido": "La sección 88 no describe el juicio como una sentencia arbitraria sino como un ajuste: cada persona recibe la gloria que puede soportar y que estuvo dispuesta a recibir. Eso corre el foco de «¿alcanzo el puntaje?» a «¿en qué me estoy convirtiendo?», y la segunda pregunta sí se puede responder hoy. Tampoco es una carrera en soledad: la capacidad de vivir una ley celestial se desarrolla apoyándose en la gracia de Jesucristo, que es quien resucita el cuerpo y redime el alma. Elegí una de las cuatro cosas que menciona el élder Christofferson —obediencia, sacrificio, consagración, fidelidad— y practicala esta semana en algo chico y verificable."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te parece más justo: que el juicio sea una nota que se saca o que sea la gloria que uno es capaz de soportar? ¿Por qué?",
         "Doctrina y Convenios 88:15 dice que «el espíritu y el cuerpo son el alma del hombre». ¿Qué cambia esa definición sobre cómo tratás tu propio cuerpo?",
-        "¿Qué significa, en la práctica, que alguien «no pueda soportar» una gloria en vez de que se le prohíba entrar?",
+        "Buscá en Filipenses 3:21, dentro del bloque de escrituras, qué promete Pablo que ocurrirá con nuestro cuerpo. ¿A qué lo compara, y qué le agrega eso a lo que el versículo 16 llama «la redención del alma»?",
         "El élder Christofferson menciona obediencia, sacrificio, consagración y fidelidad. ¿Cuál de las cuatro te resulta hoy más lejana?",
         "¿Hay algo que estés postergando porque pensás que hay tiempo de sobra para prepararte?",
-        "Elegí una de esas cuatro y practicala esta semana en algo concreto. ¿Cuál elegís y qué vas a hacer?"
+        "Elegí una de esas cuatro y practicala esta semana en algo concreto: ¿cuál elegís y qué vas a hacer? Pedile ayuda en oración antes de empezar y anotá cómo te fue."
       ]
     }
   ],
@@ -59,7 +63,7 @@
       "id": 1,
       "question": "Según Doctrina y Convenios 88:15, ¿qué es el alma del hombre?",
       "options": [
-        "El espíritu y el cuerpo juntos.",
+        "El espíritu junto con el cuerpo, no uno solo.",
         "La parte inmortal que sobrevive a la muerte.",
         "La conciencia moral que distingue el bien del mal.",
         "El espíritu, que habita temporalmente en un cuerpo."
@@ -71,7 +75,7 @@
       "question": "¿Cómo describe Doctrina y Convenios 88:16 la resurrección de los muertos?",
       "options": [
         "Como la recompensa reservada a los justos.",
-        "Como la redención del alma.",
+        "Como la redención del alma, cuerpo y espíritu.",
         "Como el juicio final de todos los seres humanos.",
         "Como la separación definitiva del cuerpo y el espíritu."
       ],
@@ -83,8 +87,8 @@
       "options": [
         "Que la ley celestial exige un nivel de perfección inalcanzable en esta vida.",
         "Que el acceso a esa gloria depende de una decisión externa que se comunica en el juicio.",
-        "Que se trata de una cuestión de capacidad desarrollada, y no de un permiso que se concede o se niega.",
-        "Que la gloria celestial resulta incómoda incluso para quienes la heredan."
+        "Que es una cuestión de capacidad desarrollada, no de un permiso concedido.",
+        "Que la gloria celestial resulta incómoda incluso a fin de quienes la heredan."
       ],
       "correctAnswer": 2
     },
@@ -95,7 +99,7 @@
         "Establece que esos cuatro elementos se exigen únicamente en el templo.",
         "Indica que la ley celestial cambia según la época en que vive cada persona.",
         "Señala que el cumplimiento debe ser perfecto para que tenga algún valor.",
-        "Aclara que la ley celestial es un conjunto de compromisos concretos que se pueden empezar a vivir ahora."
+        "Aclara que son compromisos concretos que se pueden empezar a vivir en este momento."
       ],
       "correctAnswer": 3
     },
@@ -103,10 +107,10 @@
       "id": 5,
       "question": "Benjamín cuida poco su descanso y su alimentación porque piensa que «lo importante es el espíritu». Según Doctrina y Convenios 88:15, ¿qué está separando indebidamente?",
       "options": [
-        "El cuerpo y el espíritu, que según el versículo forman juntos el alma.",
+        "El cuerpo y el espíritu, que según el versículo son el alma.",
         "La vida presente y la vida futura, que son etapas distintas.",
         "La salud física y el rendimiento académico, que se afectan mutuamente.",
-        "La responsabilidad personal y la ayuda que ofrece el Señor."
+        "La responsabilidad personal y la colabora que ofrece el Señor."
       ],
       "correctAnswer": 0
     },
@@ -115,7 +119,7 @@
       "question": "Camila cree que le alcanza con «ser buena persona» y que preocuparse por convenios y ordenanzas es un detalle secundario. Según Doctrina y Convenios 88:22 y la enseñanza del élder Christofferson, ¿qué le falta considerar?",
       "options": [
         "Que la bondad natural basta si se sostiene durante toda la vida.",
-        "Que la ley celestial incluye compromisos concretos, y la capacidad de vivir en esa gloria se desarrolla viviéndolos.",
+        "Que la ley celestial incluye compromisos concretos que se viven.",
         "Que ser buena persona no tiene ningún valor ante el Señor.",
         "Que los convenios son requisitos formales sin efecto sobre el carácter."
       ],
@@ -125,9 +129,9 @@
       "id": 7,
       "question": "Doctrina y Convenios 88:16 llama a la resurrección «la redención del alma», y 88:28 promete que los de espíritu celestial recibirán el mismo cuerpo que fue natural. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Que la redención alcanza al espíritu y deja el cuerpo fuera del plan.",
+        "Que la redención alcanza al espíritu y permite el cuerpo fuera del plan.",
         "Que la resurrección se concede únicamente a quienes heredan la gloria celestial.",
-        "Que el plan de Dios restaura a la persona entera, cuerpo incluido, y no solo una parte de ella.",
+        "Que el plan de Dios restaura a la persona entera, con cuerpo incluido.",
         "Que el cuerpo resucitado será distinto del cuerpo mortal en todos sus aspectos."
       ],
       "correctAnswer": 2

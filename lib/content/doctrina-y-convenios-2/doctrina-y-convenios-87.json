@@ -6,7 +6,8 @@
       "contenido": [
         "El 25 de diciembre de 1832, José Smith recibió una revelación que anunciaba guerras a partir de la rebelión de Carolina del Sur, y que esas guerras terminarían derramándose sobre todas las naciones. Era una profecía muy específica en un momento en que nadie la esperaba.",
         "Orson Pratt, uno de los primeros apóstoles, llevaba una copia de esa revelación en sus viajes misionales y la compartía con la gente. Se burlaban de él: le decían que la profecía era «un gran disparate» y que era «víctima de un impostor». Él contaba después que su respuesta siempre era la misma: «Espera, el Señor tiene su tiempo establecido». Casi treinta años más tarde, la Guerra Civil estadounidense empezó exactamente donde la revelación decía.",
-        "Pero la sección no termina en el anuncio de las guerras. Termina en un mandato personal, el versículo 8: «permaneced en lugares santos y no seáis movidos». Esa es la parte que le toca a cualquier alumno hoy. Frente a un mundo que da malas noticias todos los días, la instrucción del Señor no fue predecir fechas ni acumular provisiones: fue elegir dónde estar parado."
+        "Pero la sección no termina en el anuncio de las guerras. Termina en un mandato personal, el versículo 8: «permaneced en lugares santos y no seáis movidos». Esa es la parte que le toca a cualquier alumno hoy. Frente a un mundo que da malas noticias todos los días, la instrucción del Señor no fue predecir fechas ni acumular provisiones: fue elegir dónde estar parado.",
+        "Falta decir de quién viene la profecía y hacia dónde apunta. El manual lo aclara dos veces: «lee Doctrina y Convenios 87:1–4 y busca lo que Jesucristo reveló a través de Su profeta», y recuerda que la responsabilidad primordial de un profeta «es la de dar testimonio de Cristo». Juan lo había dicho en una frase: «el testimonio de Jesús es el espíritu de profecía» (Apocalipsis 19:10). Por eso el capítulo no termina en las guerras sino en un lugar donde estar parado. El presidente Nelson lo prometió así: si el cimiento espiritual «está edificado firmemente en Jesucristo, no tienen por qué temer». Los lugares santos son santos porque Él está en ellos."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 87:7",
           "texto": "A fin de que cesen de ascender desde la tierra a los oídos del Señor de Sabaot, el clamor de los santos, y de la sangre de ellos, pidiendo que sean vengados de sus enemigos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/87?lang=spa&id=p7#p7"
+        },
+        {
+          "referencia": "Apocalipsis 19:10",
+          "texto": "Entonces yo me postré a sus pies para adorarle. Y él me dijo: ¡Mira, no lo hagas!; yo soy consiervo tuyo y de tus hermanos que tienen el testimonio de Jesús. ¡Adora a Dios!, porque el testimonio de Jesús es el espíritu de profecía.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/rev/19?lang=spa&id=p10#p10"
         }
       ]
     },
@@ -47,10 +53,10 @@
       "preguntas": [
         "¿Qué noticia de las últimas semanas te dejó más inquieto? ¿Qué hiciste con esa inquietud?",
         "Orson Pratt aguantó treinta años de burlas sosteniendo la profecía. ¿De dónde te parece que sacaba esa paciencia?",
-        "¿Qué son «lugares santos» en tu vida diaria? Nombrá tres concretos.",
+        "Leé Apocalipsis 19:10 en el bloque de escrituras. ¿Qué dice ahí que es «el espíritu de profecía», y qué te muestra eso sobre para qué existe una profecía como la de la sección 87?",
         "El élder Andersen compara alejarse de la Iglesia durante una prueba de fe con salir del refugio cuando viene el tornado. ¿Por qué te parece que la reacción natural es justamente esa?",
         "¿Hubo alguna vez que te alejaste de algo bueno justo cuando más lo necesitabas?",
-        "¿Cuál de esos lugares santos vas a proteger esta semana, aunque tengas ganas de saltearlo?"
+        "Nombrá tres «lugares santos» concretos de tu vida diaria. ¿Cuál de los tres vas a proteger esta semana, aunque tengas ganas de saltearlo? Decidilo en oración y anotá cuál elegiste."
       ]
     }
   ],
@@ -59,10 +65,10 @@
       "id": 1,
       "question": "¿Qué anunciaba la profecía de Doctrina y Convenios 87, recibida el 25 de diciembre de 1832?",
       "options": [
-        "La expulsión de los santos del estado de Misuri.",
+        "La expulsión de los santos del estado de Misuri y de Illinois.",
         "La construcción del templo de Kirtland y sus bendiciones.",
         "La fecha exacta de la Segunda Venida del Salvador.",
-        "Guerras que comenzarían con la rebelión de Carolina del Sur y se derramarían sobre todas las naciones."
+        "Guerras que comenzarían con la rebelión de Carolina del Sur."
       ],
       "correctAnswer": 3
     },
@@ -70,8 +76,8 @@
       "id": 2,
       "question": "¿Cuál es el mandato personal con el que cierra Doctrina y Convenios 87:8?",
       "options": [
-        "Permanecer en lugares santos y no ser movidos hasta que venga el día del Señor.",
-        "Advertir a las naciones sobre los juicios que se aproximan.",
+        "Permanecer en lugares santos y no ser movidos hasta ese día.",
+        "Advertir a las naciones acerca de los juicios que se aproximan.",
         "Congregarse en el lugar central de Sion antes de que empiecen las guerras.",
         "Reunir provisiones suficientes para los tiempos de escasez."
       ],
@@ -82,7 +88,7 @@
       "question": "Orson Pratt llevó esa profecía durante décadas mientras la gente le decía que era «un gran disparate». Su respuesta era: «Espera, el Señor tiene su tiempo establecido». ¿Qué principio ilustra esa actitud?",
       "options": [
         "Que el cumplimiento de las profecías puede calcularse con el estudio suficiente.",
-        "Que la fe en la palabra del Señor no depende de que el cumplimiento sea inmediato.",
+        "Que la fe en la palabra del Señor no depende del cumplimiento inmediato.",
         "Que conviene evitar compartir profecías que aún no se cumplieron.",
         "Que las burlas indican que una profecía es verdadera."
       ],
@@ -94,8 +100,8 @@
       "options": [
         "Que las dudas deben resolverse antes de volver a participar.",
         "Que las pruebas de fe son inevitables y no se pueden prevenir.",
-        "Que el impulso de alejarse aparece justo cuando la protección es más necesaria.",
-        "Que la Iglesia protege únicamente a quienes ya tienen un testimonio firme."
+        "Que el impulso de alejarse aparece cuando más se necesita la protección.",
+        "Que la Iglesia protege solo a quienes ya tienen un testimonio firme."
       ],
       "correctAnswer": 2
     },
@@ -103,10 +109,10 @@
       "id": 5,
       "question": "A Lucía le llegan cada día noticias alarmantes y siente que no tiene sentido planear nada a futuro. Según Doctrina y Convenios 87:8, ¿qué respuesta propone el Señor?",
       "options": [
-        "Prepararse materialmente para los acontecimientos anunciados.",
+        "Prepararse materialmente con el propósito de lo que viene.",
         "Esperar señales más claras antes de tomar cualquier decisión.",
         "Reducir el consumo de noticias hasta que la situación mejore.",
-        "Elegir y sostener lugares santos donde permanecer firme, en vez de intentar controlar lo que viene."
+        "Elegir y sostener lugares santos donde permanecer firme."
       ],
       "correctAnswer": 3
     },
@@ -114,8 +120,8 @@
       "id": 6,
       "question": "Nicolás dejó de ir a la Iglesia justo cuando le surgió una duda seria sobre la historia de la Restauración, porque le incomodaba estar ahí sin tener respuestas. Según la enseñanza del élder Andersen, ¿qué tiene de riesgoso esa decisión?",
       "options": [
-        "Que abandona el lugar donde están los recursos para resolver la duda, en el momento en que más los necesita.",
-        "Que su ausencia va a ser notada por los demás miembros del barrio.",
+        "Que abandona el lugar donde están los recursos, justo cuando los necesita.",
+        "Que su ausencia va a ser notada por las demás personas miembros del barrio.",
         "Que la duda va a crecer de manera automática si no se la enfrenta enseguida.",
         "Que perderá el derecho a participar de las ordenanzas mientras esté ausente."
       ],
@@ -126,7 +132,7 @@
       "question": "Doctrina y Convenios 87 anuncia calamidades y termina mandando permanecer en lugares santos. ¿Qué principio común forman esas dos partes de la revelación?",
       "options": [
         "Que conocer las profecías es requisito para recibir protección.",
-        "Que el Señor revela lo que viene no para producir miedo, sino para que Su pueblo sepa dónde ubicarse.",
+        "Que revela lo que viene no a fin de asustar, sino para ubicar a Su pueblo.",
         "Que las calamidades se pueden evitar si los santos permanecen fieles.",
         "Que los lugares santos protegen físicamente de los desastres anunciados."
       ],

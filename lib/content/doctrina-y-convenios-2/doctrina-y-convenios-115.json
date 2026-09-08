@@ -6,7 +6,8 @@
       "contenido": [
         "En abril de 1838, en Far West, Misuri, donde miles de santos se habían reunido después de escapar de la persecución del condado de Jackson, el Señor declaró algo que hasta entonces no estaba fijado: «así se llamará mi iglesia en los postreros días, a saber, La Iglesia de Jesucristo de los Santos de los Últimos Días» (versículo 4).",
         "El nombre no es una etiqueta administrativa. Contiene dos cosas: de quién es la Iglesia —de Jesucristo, no de José Smith ni de sus miembros— y quiénes la componen: santos de los últimos días, es decir, discípulos que viven en esta dispensación. Por eso el presidente Russell M. Nelson insistió tanto en usarlo completo: quitarle el nombre del Salvador a Su Iglesia le quita, precisamente, lo que la define.",
-        "El versículo 5 agrega la instrucción que sigue al nombre: «Levantaos y brillad, para que vuestra luz sea un estandarte a las naciones». Un estandarte es algo que se ve desde lejos y que sirve de punto de reunión. No alcanza con llevar el nombre correcto; hay que ser algo que otros puedan ver y hacia lo cual puedan venir."
+        "El versículo 5 agrega la instrucción que sigue al nombre: «Levantaos y brillad, para que vuestra luz sea un estandarte a las naciones». Un estandarte es algo que se ve desde lejos y que sirve de punto de reunión. No alcanza con llevar el nombre correcto; hay que ser algo que otros puedan ver y hacia lo cual puedan venir.",
+        "El razonamiento del nombre no empieza en 1838. El Salvador resucitado ya se lo había explicado a los nefitas, y con una lógica difícil de discutir: «¿cómo puede ser mi iglesia salvo que lleve mi nombre? […] si lleva mi nombre, entonces es mi iglesia, si es que están fundados sobre mi evangelio» (3 Nefi 27:8). Las dos mitades importan: el nombre y el fundamento. Llevar Su nombre sin estar fundados en Su evangelio sería una etiqueta vacía, y estar fundados en Su evangelio sin llevar Su nombre le quitaría el crédito a quien hizo la obra."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 115:6",
           "texto": "A fin de que el recogimiento en la tierra de Sion y sus estacas sea para defensa y para refugio contra la tempestad y contra la ira, cuando sea derramada sin mezcla sobre toda la tierra.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=spa&id=p6#p6"
+        },
+        {
+          "referencia": "3 Nefi 27:7–8",
+          "texto": "Por tanto, cualquier cosa que hagáis, la haréis en mi nombre, de modo que daréis mi nombre a la iglesia; y en mi nombre pediréis al Padre que bendiga a la iglesia por mi causa. ¿Y cómo puede ser mi iglesia salvo que lleve mi nombre? Porque si una iglesia lleva el nombre de Moisés, entonces es la iglesia de Moisés; o si se le da el nombre de algún hombre, entonces es la iglesia de ese hombre; pero si lleva mi nombre, entonces es mi iglesia, si es que están fundados sobre mi evangelio.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=spa&id=p7-p8#p7"
         }
       ]
     },
@@ -38,19 +44,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": [
-        "El nombre de la Iglesia dice de quién es y quiénes la forman, y por eso no es negociable ni abreviable. Pero el versículo 5 aclara que llevar el nombre no alcanza: hay que levantarse y brillar, ser un estandarte que otros puedan ver desde lejos. Fijate esta semana cómo nombrás a la Iglesia cuando hablás con alguien de afuera, y fijate también si lo que ven de vos se parece a lo que ese nombre promete."
-      ]
+      "contenido": "El nombre de la Iglesia dice de quién es y quiénes la forman, y por eso no es negociable ni abreviable. Pero el Salvador puso una condición junto al nombre: que estén «fundados sobre mi evangelio». Llevar Su nombre y no parecerse a Él sería una etiqueta vacía, y el versículo 5 lo dice de otro modo: hay que levantarse y brillar, ser un estandarte que otros puedan ver desde lejos. Fijate esta semana cómo nombrás a la Iglesia cuando hablás con alguien de afuera, y fijate también si lo que ven de vos se parece a lo que ese nombre promete."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cómo nombrás vos a la Iglesia cuando hablás con alguien que no es miembro? ¿Por qué de esa manera?",
         "El nombre completo dice de quién es la Iglesia y quiénes la forman. ¿Qué se pierde cuando se lo abrevia?",
-        "El presidente Nelson dice que pasar por alto el nombre del Salvador es pasar por alto lo que Él hizo. ¿Estás de acuerdo? ¿Por qué?",
+        "Leé 3 Nefi 27:7–8 en el bloque de escrituras. ¿Qué condición agrega el Salvador después de decir que la iglesia debe llevar Su nombre, y por qué te parece que no alcanza con una sola de las dos cosas?",
         "«Levantaos y brillad, para que vuestra luz sea un estandarte». ¿Qué es un estandarte y para qué sirve?",
         "¿Qué ven de vos las personas que no son miembros? ¿Se parece a lo que el nombre de la Iglesia promete?",
-        "¿Qué vas a hacer esta semana para usar el nombre completo y para que lo que hacés lo respalde?"
+        "¿Qué vas a hacer esta semana para usar el nombre completo y para que lo que hacés lo respalde? Llevalo a la oración antes de empezar y anotá qué te vino a la mente."
       ]
     }
   ],
@@ -60,7 +64,7 @@
       "question": "¿Qué declaró el Señor en Doctrina y Convenios 115:4?",
       "options": [
         "Que Far West sería el nuevo lugar central de Sion.",
-        "Que Su iglesia se llamaría La Iglesia de Jesucristo de los Santos de los Últimos Días.",
+        "Que Su iglesia se llamaría La Iglesia de Jesucristo.",
         "Que se debía construir un templo en Far West.",
         "Que los santos debían dejar de usar el nombre de mormones."
       ],
@@ -72,8 +76,8 @@
       "options": [
         "Una defensa contra sus enemigos.",
         "Un refugio para los perseguidos.",
-        "Un estandarte a las naciones.",
-        "Una señal del fin de los tiempos."
+        "Un estandarte a todas las naciones.",
+        "Una señal clara del fin de los tiempos."
       ],
       "correctAnswer": 2
     },
@@ -92,7 +96,7 @@
       "id": 4,
       "question": "El presidente Nelson enseñó que «quitar el nombre del Señor de la Iglesia del Señor es una gran victoria de Satanás». ¿Con qué razón fundamenta esa afirmación?",
       "options": [
-        "Con que al desechar el nombre del Salvador se desdeña todo lo que Él hizo, incluida Su expiación.",
+        "Con que al quitar Su nombre se desdeña todo lo que Él hizo por nosotros.",
         "Con que el nombre fue dado por revelación y no puede modificarse.",
         "Con que los apodos generan confusión entre quienes investigan la Iglesia.",
         "Con que el nombre completo distingue a la Iglesia de otras denominaciones."
@@ -104,7 +108,7 @@
       "question": "Ana usa siempre una abreviatura al hablar de la Iglesia porque el nombre completo le resulta largo. Según lo que enseña esta lección, ¿qué conviene que considere?",
       "options": [
         "Que lo importante es la intención con que se lo diga.",
-        "Que el nombre completo comunica de quién es la Iglesia, y esa es la parte que la abreviatura pierde.",
+        "Que el nombre completo comunica de quién es la Iglesia.",
         "Que el uso de abreviaturas está permitido en conversaciones informales.",
         "Que la longitud del nombre es un obstáculo reconocido por los líderes."
       ],
@@ -116,7 +120,7 @@
       "options": [
         "Estudiar más a fondo la doctrina antes de dar testimonio.",
         "Explicar a sus compañeros el significado del nombre completo.",
-        "Levantarse y brillar, de modo que su luz sea visible como un estandarte.",
+        "Levantarse y brillar a fin de que su luz se vea como estandarte.",
         "Invitar a sus compañeros a las actividades de la Iglesia."
       ],
       "correctAnswer": 2
@@ -128,7 +132,7 @@
         "Que el nombre correcto basta para identificar a la Iglesia verdadera.",
         "Que el estandarte se refiere a la organización de las estacas.",
         "Que la visibilidad de la Iglesia depende de su tamaño.",
-        "Que llevar el nombre de Cristo implica también parecerse a Él de manera visible."
+        "Que llevar el nombre de Cristo implica parecerse a Él de verdad."
       ],
       "correctAnswer": 3
     }

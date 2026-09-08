@@ -18,6 +18,11 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=spa&id=p2#p2"
         },
         {
+          "referencia": "3 Nefi 18:7",
+          "texto": "Y haréis esto en memoria de mi cuerpo que os he mostrado. Y será un testimonio al Padre de que siempre os acordáis de mí. Y si os acordáis siempre de mí, tendréis mi Espíritu para que esté con vosotros.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p7#p7"
+        },
+        {
           "referencia": "Doctrina y Convenios 27:3–5",
           "texto": "Por tanto, os doy el mandamiento de no comprar vino, ni bebidas fuertes a vuestros enemigos; de modo que, no beberéis de ninguno, a menos que sea recién hecho por vosotros; sí, en este reino de mi Padre que se edificará sobre la tierra. He aquí, así me parece sabio; por tanto, no os maravilléis, porque la hora viene cuando beberé del fruto de la vid con vosotros en la tierra.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=spa&id=p3-p5#p3"
@@ -29,21 +34,24 @@
       "autor": "Élder M. Russell Ballard",
       "fuente": "\"Quedaos tranquilos, y sabed que yo soy Dios\", devocional del Sistema Educativo de la Iglesia para los jóvenes adultos, 4 de mayo de 2014 (citado en el Manual del maestro de Seminario de Doctrina y Convenios, 2025, lección 41)",
       "texto": "En esta importante reunión deberíamos centrarnos en el Señor mediante las oraciones, el canto de himnos, y al tomar los emblemas de Su cuerpo y sangre en vez de conectarnos a nuestros dispositivos móviles. No se pueden conectar con el Espíritu durante la presentación de la Santa Cena mientras leen o envían mensajes en su teléfono o tableta.",
-      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/131-doctrine-and-covenants-27-1-14?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/131-doctrine-and-covenants-27-1-14?lang=spa&id=aside1_p3#aside1_p3"
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 27 revela que la Santa Cena no es solo un rito memorial; es una anticipación de la gran reunión futura del convenio. Lo que el Señor pide es participar 'con la mira puesta únicamente en Su gloria', no en la forma ni en los elementos. Esa intención del corazón transforma la experiencia. Este domingo, antes de recibir la Santa Cena, tomá un momento para deliberadamente dirigir tu mente y corazón al Salvador."
+      "contenido": [
+        "D&C 27 revela que la Santa Cena no es solo un rito memorial; es una anticipación de la gran reunión futura del convenio. Lo que el Señor pide es participar 'con la mira puesta únicamente en Su gloria', no en la forma ni en los elementos. Esa intención del corazón transforma la experiencia. Este domingo, antes de recibir la Santa Cena, tomá un momento para deliberadamente dirigir tu mente y corazón al Salvador.",
+        "Y el propio Salvador explicó para qué instituyó la ordenanza: se hace «en memoria de mi cuerpo», como testimonio al Padre de que siempre nos acordamos de Él, con la promesa de tener Su Espíritu. Eso convierte unos segundos en silencio en lo más parecido a una cita semanal con Jesucristo, sostenida por Su sacrificio y no por nuestra concentración."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "Tu amigo te dice que la Santa Cena 'no le parece gran cosa'. ¿Qué le mostrarías de D&C 27 para ayudarlo a ver su significado?",
         "¿Qué enseña D&C 27:2 sobre lo que realmente importa al participar de la Santa Cena?",
-        "¿Qué te dice sobre el carácter del Señor saber que Él participará en la gran Santa Cena del Milenio junto a Sus discípulos?",
+        "Mirá el versículo 3 Nefi 18:7. ¿Qué tres cosas dice el Salvador que pasan cuando se toma la Santa Cena: en memoria de qué, testimonio de qué y qué promesa acompaña?",
         "¿Tus experiencias recientes al participar de la Santa Cena fueron significativas? ¿Qué las hizo así, o qué las impidió?",
         "¿Qué harás diferente este domingo para participar de la Santa Cena 'con la mira puesta únicamente en la gloria de Dios'?",
-        "¿Qué vas a hacer con el celular durante la Santa Cena este domingo, de manera concreta?"
+        "¿Qué vas a hacer con el celular durante la Santa Cena este domingo? Decidilo ahora y usá esos minutos para orar sobre una sola cosa concreta."
       ]
     }
   ],
@@ -53,7 +61,7 @@
       "question": "Tu amigo te dice: 'La Santa Cena no me parece gran cosa, es solo pan y agua.' ¿Qué le mostrarías de D&C 27 para ayudarlo a ver su significado real?",
       "options": [
         "Que el pan y el agua son símbolos obligatorios sin los cuales el convenio no es válido",
-        "Que lo que importa no son los elementos sino participar 'con la mira puesta únicamente en la gloria de Dios'",
+        "Que no importan los elementos, sino la mira puesta en la gloria de Dios.",
         "Que la Santa Cena es un ritual necesario para mantener la membresía activa",
         "Que el pan representa el cuerpo físico de Cristo que fue enterrado"
       ],
@@ -65,7 +73,7 @@
       "options": [
         "No haber asistido a la clase de Evangelio Mié antes",
         "El tipo de pan o la calidad del agua usados en la ordenanza",
-        "Pensar en lo que haremos después del bloque, estar distraídos, o participar por costumbre social",
+        "Pensar en lo que sigue, distraerse o participar por costumbre.",
         "No recordar de memoria las palabras exactas de las oraciones"
       ],
       "correctAnswer": 2
@@ -77,7 +85,7 @@
         "La claridad con que quien oficia pronuncia la oración sacramental.",
         "El interés que despierten los discursos de esa reunión en particular.",
         "La calidad de la música y del ambiente durante el servicio sacramental.",
-        "La disposición con que la persona llega, preparada durante la semana para ese momento."
+        "La disposición con la que llega, preparada durante la semana."
       ],
       "correctAnswer": 3
     },
@@ -85,7 +93,7 @@
       "id": 4,
       "question": "Los versículos 5–14 de D&C 27 revelan que en la Santa Cena del Milenio participarán Moroni, Elías, Juan el Bautista, Abraham, Isaac, Jacob y otros. ¿Qué agrega eso al significado de esta ordenanza?",
       "options": [
-        "Que la Santa Cena no es solo un ritual memorial sino una anticipación de la gran reunión eterna del convenio",
+        "Que la Santa Cena anticipa la gran reunión eterna del convenio que viene.",
         "Que debemos esperar a que lleguen esos personajes antes de participar de la Santa Cena con seriedad",
         "Que la Santa Cena del Milenio reemplazará a la Santa Cena actual",
         "Que la Santa Cena del futuro será más válida que la actual porque incluirá a más personas importantes"
@@ -97,7 +105,7 @@
       "question": "¿Qué harías diferente este domingo para participar de la Santa Cena 'con la mira puesta únicamente en la gloria de Dios'?",
       "options": [
         "Llegar temprano para sentarme en el banco de adelante y evitar distracciones",
-        "Tomar un momento antes del servicio para dirigir deliberadamente mi mente y corazón al Salvador",
+        "Tomar un momento antes de la reunión para dirigir la mente y el corazón a Él.",
         "Llevar un diario y escribir durante la Santa Cena para aprovechar mejor el tiempo",
         "Cerrar los ojos durante toda la distribución para concentrarme mejor"
       ],
@@ -109,7 +117,7 @@
       "options": [
         "Que José no tenía buen criterio sobre los preparativos de las ordenanzas",
         "Que los ángeles supervisan todos los detalles administrativos de la Iglesia",
-        "Que las doctrinas de la Santa Cena no fueron inventadas por José sino reveladas por un mensajero celestial",
+        "Que esas doctrinas no las inventó José Smith: las reveló un mensajero celestial.",
         "Que el vino estaba prohibido para los santos desde el principio de la Restauración"
       ],
       "correctAnswer": 2
@@ -121,7 +129,7 @@
         "Que los emblemas deberían reemplazarse por elementos más significativos para los jóvenes.",
         "Que la reverencia depende sobre todo de la conducta visible ante los demás.",
         "Que la forma exterior de la ordenanza es indiferente mientras haya buena intención.",
-        "Que lo decisivo es dónde está puesta la atención, y por eso lo que la desvía deja de ser un detalle menor."
+        "Que lo decisivo es dónde está la atención, y lo que la desvía importa."
       ],
       "correctAnswer": 3
     }

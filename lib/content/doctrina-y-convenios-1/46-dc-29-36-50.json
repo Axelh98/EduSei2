@@ -18,6 +18,11 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=spa&id=p35#p35"
         },
         {
+          "referencia": "Doctrina y Convenios 29:39",
+          "texto": "Y es menester que el diablo tiente a los hijos de los hombres, de otra manera estos no podrían ser sus propios agentes; porque si nunca tuviesen lo amargo, no podrían conocer lo dulce.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=spa&id=p39#p39"
+        },
+        {
           "referencia": "Doctrina y Convenios 29:46–48",
           "texto": "Pero he aquí, os digo que los niños pequeños son redimidos desde la fundación del mundo, mediante mi Unigénito; por tanto, no pueden pecar, porque no le es dado poder a Satanás para tentar a los niños pequeños, sino hasta cuando empiezan a ser responsables ante mí; porque a ellos les es dado conforme a mi voluntad, según me plazca, a fin de que se requieran grandes cosas de las manos de sus padres.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=spa&id=p46-p48#p46"
@@ -40,10 +45,10 @@
       "preguntas": [
         "¿Por qué el albedrío —la libertad de elegir— es tan central en el Plan de Salvación que incluso el diablo fue expulsado del cielo por intentar destruirlo?",
         "¿Qué doctrina sobre los niños pequeños enseña D&C 29:46–48? ¿Por qué eso es consolador?",
-        "Si un amigo te preguntara 'si Dios es bueno, ¿por qué permite el mal?', ¿qué respuesta te daría D&C 29?",
+        "Buscá en Doctrina y Convenios 29:39 la razón que da el Señor para que exista la tentación. ¿Qué pasaría con el albedrío si no existiera lo amargo?",
         "¿Cómo refleja la doctrina sobre los niños pequeños la misericordia perfecta del Padre Celestial?",
         "¿Qué parte del Plan de Salvación te da más esperanza ahora mismo? ¿Por qué?",
-        "¿A quién de tu entorno le podría servir escuchar la doctrina sobre los niños pequeños, y cómo se la contarías con tus palabras?"
+        "¿En qué decisión de esta semana vas a usar tu albedrío a propósito y no por inercia? Meditá un momento y escribí cuál es antes de que llegue."
       ]
     }
   ],
@@ -52,7 +57,7 @@
       "id": 1,
       "question": "Si un amigo te pregunta '¿por qué Dios permite que exista el mal si es bueno?', ¿qué respuesta te daría D&C 29:35–39?",
       "options": [
-        "Que la agencia — la libertad de elegir — es el corazón del plan, y sin posibilidad de elegir el mal, el bien no tendría significado",
+        "Que el albedrío es el corazón del plan: sin poder elegir, nada significa.",
         "Que el mal es una ilusión y en realidad todo es parte de la voluntad de Dios",
         "Que el mal existe porque Dios está castigando a la humanidad por los pecados de Adán",
         "Que Dios no tiene control sobre el mal y por eso lo permite"
@@ -64,7 +69,7 @@
       "question": "D&C 29:36 dice que el diablo fue expulsado del cielo porque 'pretendió la honra de Dios y el albedrío del hombre'. ¿Qué dice eso sobre el valor que Dios le da a nuestra libertad?",
       "options": [
         "Que Dios prefiere que seamos obedientes aunque sea por obligación",
-        "Que Dios valora tanto nuestra libertad que expulsó a quien intentó destruirla",
+        "Que Dios valoró tanto la libertad que expulsó a quien quiso destruirla.",
         "Que el albedrío fue un error de diseño que el diablo explotó",
         "Que la libertad es peligrosa y deberíamos tener menos de ella"
       ],
@@ -76,7 +81,7 @@
       "options": [
         "Que la responsabilidad de sus actos recae por completo sobre sus padres.",
         "Que los niños quedan exentos del bautismo hasta que ellos mismos lo pidan.",
-        "Que la redención de los niños pequeños está asegurada por la Expiación, sin necesidad de bautismo antes de la edad de responsabilidad.",
+        "Que los niños pequeños están redimidos por la expiación, sin bautismo previo.",
         "Que los niños pequeños son incapaces de recibir influencia espiritual de ningún tipo."
       ],
       "correctAnswer": 2
@@ -88,7 +93,7 @@
         "Indica que el mal fue creado por Dios como parte del plan original.",
         "Sostiene que la oposición desaparecerá cuando la persona alcance suficiente fe.",
         "Justifica el sufrimiento como un castigo proporcional a las faltas cometidas.",
-        "La vuelve condición del discernimiento moral: sin contraste, la elección entre el bien y el mal carecería de sentido."
+        "La vuelve condición del discernimiento: sin contraste no hay elección."
       ],
       "correctAnswer": 3
     },
@@ -96,7 +101,7 @@
       "id": 5,
       "question": "Valentina se entera de que una prima suya murió a los dos años y sus padres no son miembros de la Iglesia. Según Doctrina y Convenios 29:46–48, ¿qué puede decirles con seguridad doctrinal?",
       "options": [
-        "Que los niños pequeños están redimidos por medio de la Expiación, sin condiciones pendientes.",
+        "Que los niños pequeños están redimidos por la expiación, sin nada pendiente.",
         "Que la situación se resolverá en el juicio final según la fe de la familia.",
         "Que la doctrina no se pronuncia con claridad sobre los niños de padres no miembros.",
         "Que el destino de la niña depende de que se realicen ordenanzas por ella en el templo."
@@ -108,7 +113,7 @@
       "question": "Tomás sostiene que si Dios fuera realmente bueno impediría el mal en el mundo. Según Doctrina y Convenios 29:36–39, ¿cuál es la respuesta doctrinal más completa?",
       "options": [
         "Que Dios impide el mal cuando la persona afectada tiene fe suficiente.",
-        "Que el albedrío es tan central en el plan que el diablo fue expulsado por querer destruirlo: sin posibilidad de elegir mal, no habría elección real.",
+        "Que el albedrío es tan central que el diablo fue expulsado por atacarlo.",
         "Que el mal existe únicamente como consecuencia de las decisiones de otras personas.",
         "Que el sufrimiento presente carece de importancia frente a las bendiciones futuras."
       ],
@@ -120,7 +125,7 @@
       "options": [
         "Que el albedrío pierde vigencia en los casos en que la persona no puede comprenderlo.",
         "Que la salvación de los niños depende de la fidelidad con que sus padres guarden los convenios.",
-        "Que el plan combina justicia y misericordia sin dejar a nadie fuera: exige elección a quien puede elegir y cubre a quien todavía no puede.",
+        "Que el plan combina justicia y misericordia sin dejar a nadie afuera.",
         "Que la justicia divina se aplica a los adultos y la misericordia a los niños."
       ],
       "correctAnswer": 2

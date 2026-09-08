@@ -6,7 +6,8 @@
       "contenido": [
         "El 27 de octubre de 1838, el gobernador Lilburn W. Boggs firmó una orden que decía que los mormones debían ser tratados como enemigos y «exterminados o expulsados del estado». Tres días después, un grupo armado atacó el asentamiento de Hawn's Mill y asesinó a diecisiete personas, entre ellas un niño de diez años.",
         "Durante el invierno, unos ocho mil santos cruzaron el estado hacia Illinois. Muchos iban a pie, con lo puesto. José Smith estaba preso en la cárcel de Liberty y no pudo ayudarlos; fue Brigham Young quien organizó la evacuación y logró que casi ninguno quedara atrás.",
-        "Del otro lado del río, los habitantes de Quincy, Illinois, hicieron algo notable: aprobaron una resolución pública pidiendo a sus vecinos que trataran a los recién llegados «con toda la amabilidad que sean capaces de otorgar» y que evitaran cualquier comentario que pudiera herirlos. Gente que no compartía su religión les abrió las casas. En medio del peor episodio de persecución de la historia de la Iglesia, esa fue la respuesta que recibieron de desconocidos."
+        "Del otro lado del río, los habitantes de Quincy, Illinois, hicieron algo notable: aprobaron una resolución pública pidiendo a sus vecinos que trataran a los recién llegados «con toda la amabilidad que sean capaces de otorgar» y que evitaran cualquier comentario que pudiera herirlos. Gente que no compartía su religión les abrió las casas. En medio del peor episodio de persecución de la historia de la Iglesia, esa fue la respuesta que recibieron de desconocidos.",
+        "El manual cierra esta lección con una pregunta directa: ¿en qué sentido la decisión de José de perdonar recuerda a Jesucristo? La respuesta está en la cruz. Mientras lo estaban matando y se repartían Su ropa, dijo: «Padre, perdónalos, porque no saben lo que hacen» (Lucas 23:34). No perdonó después, cuando ya había pasado: perdonó mientras ocurría. José escribió desde la cárcel de Liberty sin pedir venganza sobre Misuri, y ahí está la semejanza. El presidente Eyring nombra la base de todo eso: se permanece firme sobre la roca de la fe en Jesucristo, y es Su ejemplo el que hace posible perdonar así."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 123:17",
           "texto": "Por tanto, muy queridos hermanos, hagamos con buen ánimo cuanta cosa esté a nuestro alcance; y entonces podremos permanecer tranquilos, con la más completa seguridad, para ver la salvación de Dios y que se revele su brazo.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/123?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Lucas 23:34",
+          "texto": "Y Jesús decía: Padre, perdónalos, porque no saben lo que hacen. Y repartieron entre sí sus vestidos, echando suertes.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=spa&id=p34#p34"
         }
       ]
     },
@@ -47,10 +53,10 @@
       "preguntas": [
         "¿Qué te genera saber que existió una orden oficial de exterminio contra un grupo religioso?",
         "Los habitantes de Quincy no compartían la fe de los santos y los recibieron igual. ¿Qué te dice eso?",
-        "Doctrina y Convenios 122:7 dice que todas esas cosas «te servirán de experiencia». ¿Cómo se recibe una frase así en medio del sufrimiento?",
+        "Leé Lucas 23:34 en el bloque de escrituras. ¿En qué momento exacto dijo eso el Salvador, y qué diferencia hay entre perdonar mientras algo ocurre y perdonar cuando ya pasó?",
         "El presidente Eyring habla de permanecer firmes «sobre la roca de su fe». ¿Qué es esa roca en tu caso concreto?",
         "¿Conocés a alguien que esté pasándola mal ahora mismo?",
-        "«Hagamos con buen ánimo cuanta cosa esté a nuestro alcance». ¿Qué está a tu alcance con esa persona esta semana?"
+        "«Hagamos con buen ánimo cuanta cosa esté a nuestro alcance». ¿Qué está a tu alcance con esa persona esta semana? Orá por ella antes de hacerlo y anotá lo que notaste."
       ]
     }
   ],
@@ -62,7 +68,7 @@
         "Que se prohibiera la práctica pública de su religión en Misuri.",
         "Que José Smith y otros líderes fueran arrestados.",
         "Que los santos entregaran sus armas a las autoridades del estado.",
-        "Que los mormones fueran tratados como enemigos y exterminados o expulsados del estado."
+        "Que los mormones fueran tratados como enemigos y expulsados."
       ],
       "correctAnswer": 3
     },
@@ -70,7 +76,7 @@
       "id": 2,
       "question": "¿Quién organizó la evacuación de unos ocho mil santos hacia Illinois durante el invierno de 1838–1839?",
       "options": [
-        "Brigham Young, mientras José Smith estaba preso en la cárcel de Liberty.",
+        "Brigham Young, con José Smith preso en Liberty.",
         "José Smith, desde la cárcel de Liberty, por medio de cartas.",
         "Sidney Rigdon, como consejero de la Primera Presidencia.",
         "El Obispado Presidente de la Iglesia."
@@ -82,7 +88,7 @@
       "question": "¿Qué hicieron los habitantes de Quincy, Illinois, al llegar los santos expulsados?",
       "options": [
         "Les exigieron garantías antes de permitirles establecerse.",
-        "Aprobaron una resolución pública pidiendo que los trataran con amabilidad y sin herir sus sentimientos.",
+        "Aprobaron una resolución pidiendo amabilidad hacia ellos.",
         "Los enviaron a un asentamiento apartado de la ciudad.",
         "Les ofrecieron trabajo a cambio de que renunciaran a predicar."
       ],
@@ -106,7 +112,7 @@
         "Que la fe elimina las tormentas de la vida.",
         "Que el arrepentimiento diario reemplaza la necesidad de convenios.",
         "Que quienes tienen fe suficiente no sienten el impacto de las pruebas.",
-        "Que la firmeza no es una cualidad del carácter, sino el resultado de prácticas concretas sostenidas."
+        "Que la firmeza no es del carácter, sino de prácticas sostenidas."
       ],
       "correctAnswer": 3
     },
@@ -114,7 +120,7 @@
       "id": 6,
       "question": "Nicolás se entera de que un compañero está atravesando una situación familiar difícil y no hace nada porque cree que no puede resolverle el problema. Según Doctrina y Convenios 123:17, ¿qué le falta considerar?",
       "options": [
-        "Que el mandato es hacer con buen ánimo lo que esté a nuestro alcance, no resolverlo todo.",
+        "Que el mandato es hacer lo que esté al alcance, no resolverlo todo.",
         "Que conviene esperar a que su compañero pida ayuda de manera explícita.",
         "Que estos asuntos corresponden a los líderes de la Iglesia.",
         "Que ofrecer ayuda sin poder resolver el problema puede resultar ofensivo."
@@ -126,7 +132,7 @@
       "question": "Doctrina y Convenios 122:7 promete que las aflicciones darán experiencia, y 123:17 manda hacer con buen ánimo lo que esté al alcance. ¿Qué principio común forman los dos versículos?",
       "options": [
         "Que la experiencia adquirida compensa por completo el dolor sufrido.",
-        "Que ante lo que no se puede controlar queda igual algo por hacer, y eso es lo que se pide.",
+        "Que ante lo incontrolable queda de todos modos algo por hacer, y eso se pide.",
         "Que las aflicciones cesan cuando la persona actúa con buen ánimo.",
         "Que el sufrimiento debe aceptarse sin intentar modificar las circunstancias."
       ],

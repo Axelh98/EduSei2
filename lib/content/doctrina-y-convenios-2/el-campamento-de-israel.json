@@ -6,7 +6,8 @@
       "contenido": [
         "En mayo de 1834, poco más de doscientos hombres salieron de Kirtland hacia Misuri. Caminaron cerca de mil quinientos kilómetros en pleno verano, entre cuarenta y sesenta kilómetros por día. José Smith caminó casi todo el trayecto a pie, con los pies llenos de ampollas y sangrando, y según los registros nunca se quejó, mientras que la mayoría del grupo iba a él a quejarse del pan, de la mantequilla rancia y del calor.",
         "Uno de los participantes, Nathan Baldwin, escribió que en las praderas sufrían tanta sed que bebían el rocío del pasto pasando un plato por la hierba, y que en los pantanos aprendió a «colar gusanos con los dientes». Heber C. Kimball dejó otro registro: «no tuvimos temor ni vacilamos en seguir la marcha porque Dios estaba con nosotros».",
-        "El Campamento de Israel nunca peleó. Llegaron, y el Señor les dijo que volvieran. Vistos desde afuera, caminaron mil quinientos kilómetros para nada. Pero de ese grupo salieron después nueve de los doce primeros apóstoles de esta dispensación, y todos los miembros del primer Cuórum de los Setenta. Lo que parecía una expedición fracasada fue en realidad el proceso donde se formaron los líderes de la Iglesia."
+        "El Campamento de Israel nunca peleó. Llegaron, y el Señor les dijo que volvieran. Vistos desde afuera, caminaron mil quinientos kilómetros para nada. Pero de ese grupo salieron después nueve de los doce primeros apóstoles de esta dispensación, y todos los miembros del primer Cuórum de los Setenta. Lo que parecía una expedición fracasada fue en realidad el proceso donde se formaron los líderes de la Iglesia.",
+        "El manual encabeza esta lección con dos palabras: «Seguir a Jesucristo». Y es exactamente lo que describe la marcha. Él lo había planteado sin adornos: «si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz y sígame» (Mateo 16:24). Los del Campamento hicieron literalmente eso —dejaron su casa, caminaron hasta sangrar, obedecieron cuando les dijeron que volvieran— y en el camino se parecieron un poco más a Él. Ese es el punto: no llegaron a ninguna parte, pero Su ejemplo los estaba formando, y de ese grupo salieron los que después sostuvieron la Iglesia."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 103:36",
           "texto": "Toda victoria y toda gloria os es realizada mediante vuestra diligencia, fidelidad y oraciones de fe.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/103?lang=spa&id=p36#p36"
+        },
+        {
+          "referencia": "Mateo 16:24",
+          "texto": "Entonces Jesús dijo a sus discípulos: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz y sígame.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=spa&id=p24#p24"
         }
       ]
     },
@@ -47,7 +53,7 @@
       "preguntas": [
         "José Smith caminó todo el trayecto con los pies sangrando y no se quejó, mientras la mayoría se quejaba del pan y del calor. ¿Qué te dice ese contraste?",
         "Doctrina y Convenios 105:19 dice que el Señor los llevó hasta ahí «para poner a prueba su fe». ¿Qué se prueba exactamente en una marcha así?",
-        "El Campamento nunca peleó y volvió sin cumplir su objetivo. ¿Por qué te parece que valió la pena igual?",
+        "Buscá en Mateo 16:24, dentro del bloque de escrituras, las tres cosas que pide Jesucristo a quien quiera seguirlo. ¿Cuál de las tres hizo el Campamento de Israel de la manera más literal?",
         "El élder Holland dice que el cristianismo «es reconfortante, pero a menudo no es cómodo». ¿En qué notás vos esa diferencia?",
         "¿Hiciste alguna vez algo con mucho esfuerzo que pareció no servir para nada? ¿Qué te quedó de eso?",
         "¿Qué aprendiste de algo que te salió mal este año? Escribilo, aunque todavía duela."
@@ -59,7 +65,7 @@
       "id": 1,
       "question": "¿Qué distancia aproximada recorrió el Campamento de Israel desde Kirtland hasta Misuri?",
       "options": [
-        "Cerca de mil quinientos kilómetros.",
+        "Unos mil quinientos kilómetros.",
         "Alrededor de tres mil kilómetros.",
         "Unos doscientos kilómetros.",
         "Unos quinientos kilómetros."
@@ -71,8 +77,8 @@
       "question": "Según Doctrina y Convenios 105:19, ¿con qué propósito llevó el Señor a los miembros del Campamento hasta ese punto?",
       "options": [
         "Para que reclamaran las tierras perdidas en el condado de Jackson.",
-        "Para poner a prueba su fe, después de haber oído sus oraciones y aceptado su ofrenda.",
-        "Para que aprendieran a organizarse militarmente.",
+        "Para poner a prueba su fe, tras oír sus oraciones.",
+        "A fin de que aprendieran a organizarse militarmente.",
         "Para que conocieran las condiciones de vida en Misuri."
       ],
       "correctAnswer": 1
@@ -83,7 +89,7 @@
       "options": [
         "La decisión de trasladar la Iglesia hacia el oeste.",
         "La organización de las primeras estacas de la Iglesia.",
-        "Nueve de los doce primeros apóstoles de esta dispensación y todo el primer Cuórum de los Setenta.",
+        "Nueve de los doce primeros apóstoles y los Setenta.",
         "El proyecto de construir el templo de Kirtland."
       ],
       "correctAnswer": 2
@@ -95,7 +101,7 @@
         "Entre los miembros que enfrentan pruebas y los que no.",
         "Entre las enseñanzas antiguas y las actuales de la Iglesia.",
         "Entre la fe personal y la práctica religiosa comunitaria.",
-        "Entre el consuelo que da el evangelio y la facilidad que no promete."
+        "Entre lo que el evangelio consuela y lo que no facilita."
       ],
       "correctAnswer": 3
     },
@@ -103,7 +109,7 @@
       "id": 5,
       "question": "Agustina se esforzó todo el año en un proyecto de servicio que finalmente no se concretó, y siente que perdió el tiempo. Según lo que muestra el Campamento de Israel, ¿qué pregunta le sirve más?",
       "options": [
-        "En quién se convirtió mientras lo hacía, más allá del resultado.",
+        "En quién se convirtió en el proceso, no qué logró.",
         "Si el proyecto estaba bien planificado desde el comienzo.",
         "Si otras personas valoraron su esfuerzo.",
         "Qué resultado concreto obtuvo al final del proceso."
@@ -115,7 +121,7 @@
       "question": "Los registros muestran a José Smith caminando con los pies ampollados sin quejarse, mientras la mayoría se quejaba de las comodidades. ¿Qué principio ilustra ese contraste?",
       "options": [
         "Que las dificultades del viaje fueron menores de lo que se recuerda.",
-        "Que el liderazgo se ejerce sobre todo con el ejemplo en las condiciones difíciles.",
+        "Que el liderazgo se ejerce con el ejemplo en lo difícil.",
         "Que las quejas de los demás eran injustificadas dado el clima.",
         "Que el Profeta poseía una resistencia física superior."
       ],
@@ -127,8 +133,8 @@
       "options": [
         "Que el Señor prueba únicamente a quienes tienen responsabilidades de liderazgo.",
         "Que el objetivo de una prueba es siempre visible mientras se la atraviesa.",
-        "Que la dificultad del camino no es una desviación del plan: es parte de cómo se forma la persona.",
-        "Que las pruebas se acortan para quienes muestran mayor fe."
+        "Que la dificultad del camino no es una desviación: forma a la persona.",
+        "Que las pruebas se acortan con el propósito de quienes muestran mayor fe."
       ],
       "correctAnswer": 2
     }

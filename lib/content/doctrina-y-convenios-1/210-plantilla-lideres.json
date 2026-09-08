@@ -5,7 +5,8 @@
       "tipo": "contexto",
       "contenido": [
         "Esta lección ofrece herramientas concretas para estudiar los discursos de los líderes de la Iglesia de manera profunda y sistemática. A diferencia de escuchar o leer de forma pasiva, el estudio activo de un discurso implica identificar el principio central que enseña, las promesas y condiciones que contiene, las Escrituras en que se apoya y la acción personal que sugiere.",
-        "Esta plantilla convierte cualquier discurso de la conferencia general en una fuente de revelación personal. Para los jóvenes que consumen mucho contenido pero rara vez lo procesan en profundidad, la herramienta vale doble: sirve para el estudio espiritual y también entrena el pensamiento crítico en general. Vale la pena notar el contraste: nadie recuerda el noventa por ciento de lo que miró la semana pasada, y sin embargo un solo discurso trabajado con lápiz y papel puede seguir dando vueltas años después. La diferencia no está en el contenido, sino en qué hizo la persona con él."
+        "Esta plantilla convierte cualquier discurso de la conferencia general en una fuente de revelación personal. Para los jóvenes que consumen mucho contenido pero rara vez lo procesan en profundidad, la herramienta vale doble: sirve para el estudio espiritual y también entrena el pensamiento crítico en general. Vale la pena notar el contraste: nadie recuerda el noventa por ciento de lo que miró la semana pasada, y sin embargo un solo discurso trabajado con lápiz y papel puede seguir dando vueltas años después. La diferencia no está en el contenido, sino en qué hizo la persona con él.",
+        "Conviene tener claro hacia dónde apunta toda esta herramienta. Cuando Juan quiso adorar al ángel que le mostraba las visiones, el ángel lo frenó y le explicó por qué: «el testimonio de Jesús es el espíritu de profecía». Todo mensaje profético verdadero termina señalando al mismo lugar. Un profeta no se pone entre vos y el Salvador: se pone al lado y señala el camino hacia Él. Por eso, cuando trabajes un discurso con esta plantilla, la última pregunta no es qué dijo el orador, sino qué te muestra ese mensaje sobre Jesucristo, sobre Su amor y sobre lo que Él está dispuesto a hacer por vos."
       ]
     },
     {
@@ -20,6 +21,11 @@
           "referencia": "Doctrina y Convenios 1:38",
           "texto": "Lo que yo, el Señor, he dicho, yo lo he dicho, y no me disculpo; y aunque pasaren los cielos y la tierra, mi palabra no pasará, sino que toda será cumplida, sea por mi propia voz o por la voz de mis siervos, es lo mismo.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=spa&id=p38#p38"
+        },
+        {
+          "referencia": "Apocalipsis 19:10",
+          "texto": "Entonces yo me postré a sus pies para adorarle. Y él me dijo: ¡Mira, no lo hagas!; yo soy consiervo tuyo y de tus hermanos que tienen el testimonio de Jesús. ¡Adora a Dios!, porque el testimonio de Jesús es el espíritu de profecía.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/rev/19?lang=spa&id=p10#p10"
         }
       ]
     },
@@ -28,7 +34,7 @@
       "autor": "Élder Neil L. Andersen",
       "fuente": "«El profeta de Dios», Liahona, mayo de 2018, pág. 26",
       "texto": "Un profeta no se interpone entre ustedes y el Salvador. Más bien, permanece a su lado y señala el camino hacia el Salvador.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa&id=p33#p33"
     },
     {
       "tipo": "conclusion",
@@ -41,10 +47,10 @@
       "preguntas": [
         "¿Cuál es la diferencia entre escuchar un discurso de la Conferencia General y estudiarlo con una plantilla?",
         "Elegí un discurso de la última Conferencia General. ¿Cuál es su principio central? ¿Qué promesa contiene? ¿Qué acción personal sugiere para vos?",
-        "¿Qué discurso de un líder de la Iglesia recordás de los últimos años que haya cambiado algo en vos? ¿Por qué ese?",
+        "Releé Apocalipsis 19:10. ¿Qué razón le da el ángel a Juan para no ser adorado, y qué dice esa razón sobre el centro de todo mensaje profético?",
         "¿Cómo podrías incorporar el estudio de discursos de líderes en tu rutina semanal de estudio del evangelio?",
         "¿Por qué dice el Señor en D&C 21:4–5 que las palabras del profeta deben recibirse 'como si vinieran de su propia boca'?",
-        "¿Qué día de esta semana vas a sentarte a trabajar un discurso con esta plantilla, y dónde vas a guardar lo que escribas para poder releerlo?"
+        "¿Qué día de esta semana vas a sentarte a trabajar un discurso con esta plantilla? Antes de empezar, orá pidiendo entender qué te muestra ese mensaje sobre el Salvador, y anotá lo que te venga."
       ]
     }
   ],
@@ -55,7 +61,7 @@
       "options": [
         "Como sugerencias inspiradas que cada miembro puede aplicar según su criterio.",
         "Como revelación secundaria de menor autoridad que las Escrituras canónicas.",
-        "Como si vinieran de la propia boca del Señor, con toda paciencia y fe.",
+        "Como si vinieran de la propia boca del Señor, recibidas con fe y paciencia.",
         "Como instrucciones de un maestro sabio cuya experiencia merece respeto."
       ],
       "correctAnswer": 2
@@ -66,16 +72,16 @@
       "options": [
         "El título del discurso, el nombre del orador, la duración, y el idioma original.",
         "La doctrina teórica, la historia eclesiástica, la profecía futura, y el consejo práctico.",
-        "El principio central, las Escrituras usadas, las promesas y condiciones, y la acción personal concreta.",
-        "El tema general, la historia personal del líder, las estadísticas de la Iglesia, y la aplicación global."
+        "El principio central, las Escrituras en que se apoya, las promesas y la acción.",
+        "El tema general, la biografía del orador, las estadísticas y la aplicación."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "El élder Andersen enseñó que «un profeta no se interpone entre ustedes y el Salvador; más bien, permanece a su lado y señala el camino hacia el Salvador». ¿Qué corrige esa imagen sobre la función del profeta?",
       "options": [
-        "Que la función del profeta es orientar hacia el Salvador, no ocupar Su lugar ni el de la revelación personal.",
+        "Que el profeta orienta hacia el Salvador, sin ocupar Su lugar.",
         "Que las palabras del profeta valen más que las Escrituras cuando ambas hablan del mismo tema.",
         "Que solo las declaraciones oficiales del profeta tienen autoridad, y no sus discursos.",
         "Que el profeta reemplaza la necesidad de que cada persona busque su propia relación con Cristo."
@@ -87,7 +93,7 @@
       "question": "¿Cuál es la diferencia entre escuchar un discurso de la Conferencia General y estudiarlo activamente con la plantilla de la lección?",
       "options": [
         "No hay diferencia real si uno presta atención durante la transmisión en vivo.",
-        "El estudio activo transforma el discurso de un mensaje recibido pasivamente a una fuente de revelación personal — identificar principio, promesas, condiciones y acción produce aplicación concreta.",
+        "El estudio activo lo vuelve fuente de revelación personal, con acción concreta.",
         "La diferencia es solo de tiempo — el estudio posterior toma más horas pero produce los mismos resultados.",
         "El estudio activo solo lo hacen los maestros; los alumnos solo necesitan escuchar."
       ],
@@ -99,7 +105,7 @@
       "options": [
         "No tomó suficientes notas durante la transmisión en vivo.",
         "No compartió los discursos en sus redes sociales inmediatamente después.",
-        "No volvió a los discursos después, no identificó el principio central ni decidió una acción concreta.",
+        "No volvió al discurso, no buscó el principio ni decidió una acción.",
         "No leyó los discursos en inglés para entenderlos con más precisión doctrinal."
       ],
       "correctAnswer": 2
@@ -111,18 +117,18 @@
         "Que los discursos de la Conferencia General son demasiado formales y deberían ser más conversacionales.",
         "Que el profeta debería dar consejería individual para que sus mensajes sean más útiles.",
         "Que tiene razón y debería buscar orientación en fuentes más específicas a su situación.",
-        "Que Agustín recibe las palabras del profeta con filtro personal en lugar de con paciencia y fe — y eso impide que el Espíritu le muestre la aplicación personal."
+        "Que recibe las palabras con filtro propio, no con la fe y la paciencia que pide el Señor."
       ],
       "correctAnswer": 3
     },
     {
       "id": 7,
-      "question": "Amós 3:7 ('el Señor no hace nada sin revelar sus secretos a sus profetas') y D&C 21:4–5 ('recibid sus palabras como de mi boca') forman juntos un principio. ¿Cuál es?",
+      "question": "Doctrina y Convenios 21:4–5 pide recibir las palabras del profeta «como si vinieran de mi propia boca», y Doctrina y Convenios 1:38 dice que la voz del Señor y la de Sus siervos «es lo mismo». ¿Qué principio forman juntos?",
       "options": [
-        "Que el Señor diseñó un canal de comunicación activo: habla al profeta para hablar a Sus hijos — y el discípulo que recibe con fe cierra ese circuito de revelación continua.",
-        "Que solo los secretos doctrinales se revelan a través del profeta; los asuntos personales llegan directamente.",
-        "Que D&C 21 y Amós 3 describen épocas diferentes y no deben leerse juntos.",
-        "Que el profeta es infalible en todas sus declaraciones públicas y privadas."
+        "Que el Señor habla por Sus siervos, y quien recibe con fe cierra ese circuito.",
+        "Que solo los asuntos doctrinales llegan por el profeta y los personales, directamente.",
+        "Que las dos secciones describen épocas distintas y no conviene leerlas juntas.",
+        "Que el profeta resulta infalible en todas sus declaraciones, públicas y privadas."
       ],
       "correctAnswer": 0
     }

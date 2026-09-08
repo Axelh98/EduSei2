@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "D&C 65 es una de las revelaciones más breves de toda la Doctrina y Convenios — apenas cinco versículos — pero contiene una de las profecías más grandiosas sobre el destino del reino de Dios en la tierra. El Señor describe la piedra que Daniel vio en visión (Daniel 2): una piedra cortada sin manos que rueda desde una montaña pequeña hasta llenar toda la tierra. Esa piedra es la Iglesia restaurada. El Señor instruye a los santos que oren para que el reino llegue, así como oraron para que se hiciera la voluntad del Padre en el cielo. Esta conexión entre la oración personal y el avance del reino de Dios es profunda: el Señor invita a Sus discípulos a ser socios activos en la obra a través de la oración. Para un joven que a veces siente que la oración es una rutina religiosa sin consecuencias reales, esta revelación establece algo diferente: la oración del discípulo fiel es una fuerza activa en el avance del reino."
+      "contenido": [
+        "D&C 65 es una de las revelaciones más breves de toda la Doctrina y Convenios — apenas cinco versículos — pero contiene una de las profecías más grandiosas sobre el destino del reino de Dios en la tierra. El Señor describe la piedra que Daniel vio en visión (Daniel 2): una piedra cortada sin manos que rueda desde una montaña pequeña hasta llenar toda la tierra. Esa piedra es la Iglesia restaurada. El Señor instruye a los santos que oren para que el reino llegue, así como oraron para que se hiciera la voluntad del Padre en el cielo. Esta conexión entre la oración personal y el avance del reino de Dios es profunda: el Señor invita a Sus discípulos a ser socios activos en la obra a través de la oración. Para un joven que a veces siente que la oración es una rutina religiosa sin consecuencias reales, esta revelación establece algo diferente: la oración del discípulo fiel es una fuerza activa en el avance del reino.",
+        "Conviene ver de quién es el reino del que habla la profecía. La piedra de Daniel no rueda sola: es la Iglesia que Jesucristo restauró, y la restauró con un propósito concreto, prepararnos a nosotros y al mundo para Su regreso. Por eso las Escrituras lo llaman el Esposo y a la Iglesia Su esposa: lo que se está preparando es un encuentro, no un operativo. Cuando orás «venga tu reino», estás pidiendo que se apure ese día y ofreciéndote para la parte que te toca. Su promesa es que las llaves del reino ya fueron entregadas al hombre sobre la tierra, así que el trabajo no depende de la buena voluntad de nadie: ya empezó."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -30,18 +33,20 @@
       "autor": "Élder D. Todd Christofferson",
       "fuente": "«Prepararse para el regreso del Señor», Liahona, mayo de 2019, págs. 82, 84",
       "texto": "La Iglesia de Jesucristo de los Santos de los Últimos Días tiene el poder y la comisión singulares de realizar los preparativos necesarios para la segunda venida del Señor.",
-      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/243-doctrine-and-covenants-65?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/243-doctrine-and-covenants-65?lang=spa&id=figure2_p2#figure2_p2"
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 65 presenta al joven discípulo como parte activa de una de las profecías más grandiosas de la historia: la piedra de Daniel que llena toda la tierra. No es espectador — es colaborador. La oración fiel, el servicio honesto, el testimonio dado en el momento correcto: cada uno de esos actos es un impulso a esa piedra que rueda. Saber que formás parte de eso no es un argumento intelectual — es una fuente de propósito que puede cambiar tu perspectiva de cada día."
+      "contenido": [
+        "Doctrina y Convenios 65 presenta al joven discípulo como parte activa de una de las profecías más grandiosas de la historia: la piedra de Daniel que llena toda la tierra. No es espectador, es colaborador. Y la piedra tiene dueño: Jesucristo restauró Su Iglesia justamente para preparar al mundo para Su segunda venida, y en las Escrituras Él es el Esposo al que se sale a recibir. La oración fiel, el servicio honesto y el testimonio dado a tiempo son empujones a esa piedra. Esta semana, orá una vez por el avance del reino con un nombre concreto en mente, y hacé algo por esa persona."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te genera saber que formás parte del cumplimiento de la profecía de Daniel sobre el reino de Dios?",
         "¿Cómo cambia tu actitud hacia la oración saber que es una fuerza activa en el avance del reino?",
-        "¿Alguna vez sentiste que eras parte de algo más grande que vos mismo? ¿Cuándo?",
+        "Leé Doctrina y Convenios 65:5–6. ¿Qué dos cosas pide el Señor que se hagan «para preparar el camino», y a quién dice que hay que salir a recibir?",
         "¿Qué harías diferente esta semana si vivieras con la conciencia de que sos colaborador activo en la obra más importante de la tierra?",
         "¿Cómo podés orar esta semana específicamente para que el reino de Dios avance — en tu familia, en tu barrio, en tu escuela?",
         "Escribí el nombre de una persona por la que vas a orar todos los días de esta semana con una petición concreta. ¿Quién es y qué le vas a pedir al Señor para ella?"
@@ -53,7 +58,7 @@
       "id": 1,
       "question": "D&C 65 tiene solo cinco versículos pero contiene una profecía de Daniel. ¿Qué imagen usa el Señor para describir el crecimiento del reino de Dios en la tierra?",
       "options": [
-        "Una piedra cortada sin manos que rueda desde una montaña y llena toda la tierra.",
+        "Una piedra cortada sin manos que rueda y llena toda la tierra.",
         "Un río pequeño que comienza en las montañas y llena todos los valles.",
         "Un fuego pequeño que se extiende hasta cubrir toda la tierra.",
         "Una semilla de mostaza que crece hasta ser el árbol más grande del jardín."
@@ -77,7 +82,7 @@
       "options": [
         "Que la profecía se cumplirá igual, con independencia de lo que hagan los miembros.",
         "Que son espectadores de una obra que llevan adelante los adultos de la Iglesia.",
-        "Que forman parte del cuerpo al que se encomendó esa preparación, y cada acción fiel suya la hace avanzar.",
+        "Que forman parte del cuerpo al que se le encomendó esa preparación entera.",
         "Que la preparación corresponde solo a los misioneros de tiempo completo."
       ],
       "correctAnswer": 2
@@ -89,7 +94,7 @@
         "Que la persecución es una señal de que el reino ya llegó a su tamaño máximo.",
         "Que el Señor intervendrá milagrosamente en cada crisis para proteger a la Iglesia.",
         "Que el discípulo nunca enfrentará circunstancias difíciles si sirve fielmente.",
-        "Que el tamaño actual o las dificultades presentes no definen el destino final — el Señor declaró el resultado con certeza y ese decreto no puede anularse."
+        "Que el tamaño de hoy no define el final: el Señor ya declaró cuál es el fin."
       ],
       "correctAnswer": 3
     },
@@ -97,7 +102,7 @@
       "id": 5,
       "question": "Renata siente que su oración semanal es rutinaria y sin impacto. Según D&C 65:5–6, ¿qué cambiaría en su oración si entendiera el principio de esta lección?",
       "options": [
-        "Que al orar específicamente por el avance del reino del Señor, se convierte en colaboradora activa de una obra profética — su oración tiene un propósito que trasciende sus circunstancias personales.",
+        "Que al orar por el avance del reino se vuelve colaboradora de esa obra.",
         "Que debería memorizar el texto exacto de D&C 65:5–6 para incluirlo en sus oraciones.",
         "Que la oración solo tiene impacto cuando viene acompañada de ayuno formal.",
         "Que debería orar más tiempo para que su oración sea más efectiva."
@@ -109,7 +114,7 @@
       "question": "Joaquín piensa que 'la Iglesia es solo una organización pequeña entre miles y no tiene mucho futuro'. D&C 65 y Daniel 2:44 le responden directamente. ¿Cuál es esa respuesta?",
       "options": [
         "Que debería estudiar estadísticas de crecimiento de la Iglesia para tener más confianza.",
-        "Que el tamaño actual no determina el destino — el Señor declaró que esa piedra llenará toda la tierra y ese decreto es irrevocable.",
+        "Que el tamaño actual no determina el destino: ese decreto es irrevocable.",
         "Que la Iglesia ya es grande suficiente y la profecía ya se cumplió.",
         "Que Joaquín debería hacer más trabajo misional para que la Iglesia crezca más rápido."
       ],
@@ -121,7 +126,7 @@
       "options": [
         "Que el tamaño de la Iglesia y la fidelidad personal son temas completamente separados.",
         "Que el cansancio en el servicio y el pequeño tamaño del reino son problemas que el Señor resolverá en el futuro sin nuestra participación.",
-        "Que el discípulo que comprende la perspectiva del Señor —que de pequeñas cosas proceden las grandes, y que el reino está destinado a llenar la tierra— tiene una fuente de energía y propósito que supera el desánimo cotidiano.",
+        "Que quien ve como el Señor —lo pequeño produce lo grande, y el reino llenará la tierra— saca de ahí su energía.",
         "Que ambas lecciones tratan principalmente de eventos futuros sin aplicación práctica presente."
       ],
       "correctAnswer": 2

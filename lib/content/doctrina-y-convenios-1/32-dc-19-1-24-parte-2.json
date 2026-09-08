@@ -16,6 +16,16 @@
           "referencia": "Doctrina y Convenios 19:16–19",
           "texto": "Porque he aquí, yo, Dios, he padecido estas cosas por todos, para que no padezcan, si se arrepienten; mas si no se arrepienten, tendrán que padecer así como yo; padecimiento que hizo que yo, Dios, el mayor de todos, temblara a causa del dolor y sangrara por cada poro y padeciera, tanto en el cuerpo como en el espíritu, y deseara no tener que beber la amarga copa y desmayar. Sin embargo, gloria sea al Padre, bebí, y acabé mis preparativos para con los hijos de los hombres.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=spa&id=p16-p19#p16"
+        },
+        {
+          "referencia": "Doctrina y Convenios 19:20",
+          "texto": "Por lo que otra vez te mando que te arrepientas, no sea que te humille con mi omnipotencia; y que confieses tus pecados para que no sufras estos castigos de que he hablado, los cuales en muy pequeño grado, sí, en grado mínimo probaste en la ocasión en que retiré mi Espíritu.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "Alma 36:19–20",
+          "texto": "Y he aquí que cuando pensé esto, ya no me pude acordar más de mis dolores; sí, dejó de atormentarme el recuerdo de mis pecados. Y, ¡oh qué gozo, y qué luz tan maravillosa fue la que vi! Sí, mi alma se llenó de un gozo tan profundo como lo había sido mi dolor.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=spa&id=p19-p20#p19"
         }
       ]
     },
@@ -28,17 +38,19 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 19:16–19 es el testimonio más directo que existe sobre la Expiación: el Salvador mismo describe lo que sufrió y por qué. Lo hizo para liberarnos, no para atraparnos en la culpa. Cada vez que alguien te diga que el arrepentimiento es una carga o un castigo, podés mostrarle este pasaje: Cristo sufrió precisamente para que arrepentirse sea el camino de vuelta a casa, no el castigo. Eso transforma la forma en que nos acercamos a Él."
+      "contenido": [
+        "Doctrina y Convenios 19 muestra lo que costó el arrepentimiento y por qué el Señor insiste tanto en él: no para castigar, sino para que nadie tenga que padecer lo que Él ya padeció. Alma lo describe desde el otro lado: cuando se acordó de Jesucristo, el recuerdo de sus pecados dejó de atormentarlo y su alma se llenó de un gozo tan profundo como había sido el dolor. Ese es el intercambio que ofrece Su expiación. Elegí una cosa de la que necesites arrepentirte y dá esta semana el primer paso, por chico que sea."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "De los enunciados sobre el arrepentimiento del inicio de la clase (verdades y mitos), ¿cuál te sorprendió más? ¿Por qué?",
         "¿Por qué D&C 19:16–19 es tan significativo como testimonio de la Expiación? ¿Qué lo hace único?",
-        "¿Alguna vez evitaste arrepentirte porque parecía demasiado difícil o vergonzoso? ¿Qué te frenó?",
+        "Releé Alma 36:19–20. ¿Qué fue lo primero que dejó de pasarle a Alma cuando se acordó de Jesucristo, y con qué compara la profundidad del gozo que sintió después?",
         "¿Cómo cambia tu relación con Dios cuando entendés el arrepentimiento como un don de amor y no como un castigo?",
         "¿Hay algo de lo que necesites arrepentirte esta semana? ¿Cuál sería el primer paso concreto?",
-        "¿A quién conocés que esté cargando una culpa vieja y podría necesitar escuchar que el arrepentimiento es un don? ¿Qué le dirías?"
+        "¿A quién conocés que esté cargando una culpa vieja y podría necesitar escuchar esto? Orá por esa persona esta semana antes de decidir si le hablás."
       ]
     }
   ],
@@ -48,7 +60,7 @@
       "question": "¿Cuál de estas afirmaciones sobre el arrepentimiento es verdadera según D&C 19:16–19?",
       "options": [
         "El arrepentimiento es principalmente un castigo por los pecados",
-        "El arrepentimiento es un don que Cristo hizo posible sufriendo para que nosotros no suframos",
+        "El arrepentimiento es un don: Cristo sufrió para que no suframos.",
         "Solo necesitamos arrepentirnos una vez en la vida en el bautismo",
         "El Padre Celestial no puede amarnos hasta que nos arrepintamos completamente"
       ],
@@ -60,7 +72,7 @@
       "options": [
         "Porque ese versículo fue escrito en el idioma original de Adán",
         "Porque demuestra que el Salvador tiene mejor memoria que los profetas",
-        "Porque las palabras de un testigo presencial tienen más peso que las de alguien que lo oyó contar",
+        "Porque el testigo presencial pesa más que quien lo escuchó contar.",
         "Porque así lo confirmó la Primera Presidencia en una conferencia general"
       ],
       "correctAnswer": 2
@@ -72,7 +84,7 @@
         "Que la vergüenza es una señal confiable de la gravedad real de lo que hizo.",
         "Que conviene esperar a sentirse con más fuerzas antes de empezar el proceso.",
         "Que resolver el asunto en privado con Dios alcanza en todos los casos.",
-        "Que el arrepentimiento es la salida del sufrimiento, no su entrada: Cristo sufrió para que ella no tenga que hacerlo."
+        "Que el arrepentimiento es la salida del sufrimiento, no su entrada."
       ],
       "correctAnswer": 3
     },
@@ -80,7 +92,7 @@
       "id": 4,
       "question": "El Salvador 'quiso no beber la copa amarga y retroceder' pero la bebió de todas formas. ¿Qué nos dice eso sobre el arrepentimiento como don?",
       "options": [
-        "Que el arrepentimiento nos costó algo inmenso al Salvador, lo que lo hace valioso y no trivial",
+        "Que el arrepentimiento le costó algo inmenso al Salvador, y por eso vale.",
         "Que el arrepentimiento es imposible sin experimentar sufrimiento igual al de Cristo",
         "Que el arrepentimiento solo es válido si lloramos durante el proceso",
         "Que el arrepentimiento es fácil porque Cristo ya hizo todo el trabajo"
@@ -92,7 +104,7 @@
       "question": "El presidente Nelson enseñó que «demasiadas personas consideran el arrepentimiento como un castigo» y que es Satanás quien genera ese sentimiento. Según esa enseñanza, ¿de dónde viene la resistencia a arrepentirse?",
       "options": [
         "De una evaluación realista del esfuerzo que el proceso exige.",
-        "De una idea sobre el arrepentimiento que el adversario alimenta, no de la naturaleza del arrepentimiento mismo.",
+        "De una idea que alimenta el adversario, no del arrepentimiento en sí.",
         "De la falta de instrucción doctrinal sobre cómo hacerlo.",
         "De la severidad con que la Iglesia trata las faltas graves."
       ],
@@ -116,7 +128,7 @@
         "Que la gravedad de la falta determina cuánta misericordia está disponible.",
         "Que el sufrimiento del Salvador reemplaza toda consecuencia de las decisiones humanas.",
         "Que el arrepentimiento es sobre todo un acto de disciplina personal.",
-        "Que el arrepentimiento existe para liberar del sufrimiento, y quien lo vive como condena está leyendo mal su propósito."
+        "Que el arrepentimiento existe para liberar del sufrimiento, no para condenar."
       ],
       "correctAnswer": 3
     }

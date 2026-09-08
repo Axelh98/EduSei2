@@ -9,6 +9,11 @@
       "tipo": "escrituras",
       "citas": [
         {
+          "referencia": "Doctrina y Convenios 39:5–6",
+          "texto": "Y de cierto, de cierto te digo, que el que recibe mi evangelio, me recibe a mí; y quien no recibe mi evangelio, tampoco me recibe a mí. Y este es mi evangelio: Arrepentimiento y bautismo en el agua, tras lo cual viene el bautismo de fuego y del Espíritu Santo, sí, el Consolador, el cual manifiesta todas las cosas y enseña las cosas apacibles del reino.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/39?lang=spa&id=p5-p6#p5"
+        },
+        {
           "referencia": "Doctrina y Convenios 39:9–10",
           "texto": "No obstante, has conocido mucha tristeza, porque me has rechazado muchas veces a causa del orgullo y de los afanes del mundo. Pero he aquí, los días de tu liberación han llegado, si escuchas mi voz que te dice: Levántate y bautízate, y lava tus pecados, invocando mi nombre, y recibirás mi Espíritu y una bendición mayor que cualquiera que hayas conocido.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/39?lang=spa&id=p9-p10#p9"
@@ -36,10 +41,10 @@
       "preguntas": [
         "¿Por qué creés que James Covill quebró su promesa al Señor, si acababa de hacerla sinceramente?",
         "¿Alguna vez hiciste una promesa al Señor y después la abandonaste por miedo a lo que dirían otros? ¿Cómo te sentiste?",
-        "¿Qué significa que el corazón de James 'estaba puesto en las cosas del mundo' (D&C 40:2)?",
+        "Mirá el versículo Doctrina y Convenios 39:5 y después el 39:6. ¿Qué relación pone el Señor entre recibir Su evangelio y recibirlo a Él, y en qué dice que consiste ese evangelio?",
         "¿Hay alguna promesa al Señor que hiciste y que estás postergando cumplir? ¿Qué impide que lo hagas esta semana?",
         "¿Cómo podrías fortalecer tu decisión de guardar los convenios cuando la presión social se hace sentir?",
-        "Elegí una de esas promesas postergadas y ponele fecha: ¿qué día de esta semana la vas a cumplir, y quién te va a preguntar si lo hiciste?"
+        "¿Hay algo que estás postergando por miedo al costo social, como le pasó a James Covill? Orá por eso esta semana y escribí qué decidiste."
       ]
     }
   ],
@@ -50,7 +55,7 @@
       "options": [
         "El Espíritu Santo primero, para motivarle a bautizarse con más convicción.",
         "Ninguno — James ya tenía el Espíritu y el bautismo era solo una formalidad.",
-        "El bautismo primero; luego se le daría el Espíritu Santo — la obediencia a la ordenanza precede al don.",
+        "El bautismo primero y después el Espíritu Santo: la ordenanza precede al don.",
         "Ambos simultáneamente como un solo acto de la misericordia del Señor."
       ],
       "correctAnswer": 2
@@ -70,7 +75,7 @@
       "id": 3,
       "question": "James Covill había servido cuarenta años como ministro y bautizado a miles. Aun así, el Señor le pedía bautizarse nuevamente. ¿Qué diferencia doctrinal justifica ese pedido?",
       "options": [
-        "Que el bautismo con autoridad restaurada del sacerdocio es doctrinalmente diferente a los bautismos sin esa autoridad.",
+        "Que el bautismo con autoridad restaurada es doctrinalmente distinto de los demás.",
         "Que el bautismo repetido es simplemente una señal de humildad sin diferencia real.",
         "Que James necesitaba demostrar públicamente que renunciaba a su cargo previo.",
         "Que los bautismos anteriores de James eran inválidos por sus pecados personales."
@@ -82,7 +87,7 @@
       "question": "D&C 40:2 dice que James tenía el corazón 'puesto en las cosas del mundo'. ¿Qué significa eso concretamente en el contexto de su situación — no como crítica moral sino como diagnóstico espiritual?",
       "options": [
         "Que James era codicioso y buscaba dinero por encima de la verdad.",
-        "Que la preocupación por su reputación, su congregación y su posición social pesaba más en su corazón que la verdad que había recibido.",
+        "Que su reputación y su posición social pesaron más que la verdad que recibió.",
         "Que James no creía realmente en el evangelio y solo fingió interés desde el principio.",
         "Que James nunca oró sinceramente para saber si el evangelio era verdad."
       ],
@@ -94,7 +99,7 @@
       "options": [
         "Falta de motivación intrínseca que el Señor entiende y perdona sin consecuencias.",
         "Un error menor sin relación con los patrones descritos en D&C 39–40.",
-        "Tener el corazón puesto en la aprobación de otros más que en la promesa hecha al Señor.",
+        "Tener el corazón puesto en la aprobación ajena y no en lo prometido al Señor.",
         "Humildad auténtica que lo llevó a no presumir de sus hábitos espirituales."
       ],
       "correctAnswer": 2
@@ -106,7 +111,7 @@
         "Que basta con haber recibido bien el consejo aunque no se actúe, porque la intención cuenta.",
         "Que el obispo debería repetir el consejo hasta que Lucía sienta la motivación suficiente.",
         "Que el Señor tiene paciencia ilimitada y Lucía puede tomar el tiempo que necesite.",
-        "Que el Espíritu no siempre contenderá con la persona — el momento de receptividad espiritual no siempre regresa."
+        "Que el Espíritu no siempre contenderá: ese momento de apertura no siempre vuelve."
       ],
       "correctAnswer": 3
     },
@@ -114,7 +119,7 @@
       "id": 7,
       "question": "D&C 39 ofrece a James promesas extraordinarias. D&C 40 revela que las rechazó por miedo y apego al mundo. ¿Qué principio sobre la naturaleza del arrepentimiento y la conversión ilustran esas dos revelaciones juntas?",
       "options": [
-        "Que el gozo inicial y la promesa sincera no garantizan la conversión — esta requiere que el corazón cambie su jerarquía de valores, no solo que la mente acepte la doctrina.",
+        "Que el gozo inicial no garantiza la conversión: hace falta que el corazón cambie.",
         "Que las promesas del Señor pierden valor cuando la persona no las acepta.",
         "Que la conversión siempre ocurre de forma gradual y James simplemente necesitaba más tiempo.",
         "Que el Señor es injusto al ofrecer promesas a alguien que sabe que no las aceptará."

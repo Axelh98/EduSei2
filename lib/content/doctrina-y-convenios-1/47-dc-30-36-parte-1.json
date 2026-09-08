@@ -5,12 +5,18 @@
       "tipo": "contexto",
       "contenido": [
         "Entre septiembre y diciembre de 1830, el Señor dio una serie de revelaciones cortas pero poderosas a varios de los primeros miembros de la Iglesia. A David, Peter hijo y John Whitmer (Doctrina y Convenios 30), el Señor los reprendió por haber temido al hombre y por tener el pensamiento puesto en las cosas de la tierra más que en Su ministerio. A Ezra Thayre y Northrop Sweet (Doctrina y Convenios 33) los llama a predicar con una imagen memorable: el campo ya está blanco y el tiempo se agota, de modo que Sus siervos deben trabajar con urgencia. A Orson Pratt (Doctrina y Convenios 34), un joven de diecinueve años recién llegado al evangelio, lo llama a proclamar el arrepentimiento y a fortalecer su testimonio.",
-        "Estas revelaciones tienen en común un principio central: el Señor llama a personas imperfectas y comunes a predicar el evangelio restaurado, y les pide que actúen ahora, no después. Para un joven de hoy que siente que no está listo para servir, testificar o asumir responsabilidades en la Iglesia, estas revelaciones son una respuesta directa: el Señor llama a quien tiene, no a quien parece listo."
+        "Estas revelaciones tienen en común un principio central: el Señor llama a personas imperfectas y comunes a predicar el evangelio restaurado, y les pide que actúen ahora, no después. Para un joven de hoy que siente que no está listo para servir, testificar o asumir responsabilidades en la Iglesia, estas revelaciones son una respuesta directa: el Señor llama a quien tiene, no a quien parece listo.",
+        "Y hay una razón por la que la urgencia importa tanto. El Salvador dijo de Sí mismo: «Yo soy la luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la luz de la vida». Cuanto más oscuro se pone el mundo, más necesaria se vuelve esa luz, y el encargo que recibieron David, Ezra y Orson es el mismo que sigue en pie: no fabricar luz propia, sino señalar la Suya. Por eso no hace falta sentirse listo. Lo que compartís no es tu solidez, es la de Él, y prometió acompañar a quien abre la boca: «estoy con vosotros»."
       ]
     },
     {
       "tipo": "escrituras",
       "citas": [
+        {
+          "referencia": "Juan 8:12",
+          "texto": "Y Jesús les habló otra vez, diciendo: Yo soy la luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la luz de la vida.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/8?lang=spa&id=p12#p12"
+        },
         {
           "referencia": "Doctrina y Convenios 33:8–10",
           "texto": "Abrid vuestra boca y será llena, y seréis como Nefi el de antaño, que salió de Jerusalén al desierto. Sí, abrid vuestra boca sin cesar, y vuestras espaldas serán cargadas de gavillas, porque he aquí, estoy con vosotros. Sí, abrid vuestra boca y será llena, y decid: Arrepentíos, arrepentíos y preparad la vía del Señor, y enderezad sus sendas; porque el reino de los cielos está cerca.",
@@ -37,17 +43,19 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 30–34 muestran que el Señor llama a personas normales, con miedos y defectos reales, a proclamar Su evangelio con urgencia. La corrección a David Whitmer por temer al hombre más que a Dios es un recordatorio vigente: buscar la aprobación de los demás antes que la dirección divina nos paraliza. La clave no es sentirse listo, sino estar dispuesto. Si sientes que no estás preparado para testificar o servir, estas revelaciones te dicen que eso no es obstáculo para el Señor — la disposición es suficiente para que Él haga el resto."
+      "contenido": [
+        "Doctrina y Convenios 30–34 muestran que el Señor llama a personas normales, con miedos y defectos reales, a proclamar Su evangelio con urgencia. La corrección a David Whitmer por temer al hombre más que a Dios sigue vigente: buscar la aprobación ajena antes que la dirección divina paraliza. La clave no es sentirse listo, sino estar dispuesto, porque lo que se comparte no es la propia seguridad sino la luz de Jesucristo, que dijo «el que me sigue no andará en tinieblas». Si sentís que no estás preparado para testificar, estas revelaciones te dicen que eso no es un obstáculo para Él: Su promesa de estar con vos alcanza."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿A quién de los llamados en D&C 30–34 te pareces más en este momento de tu vida, y por qué?",
         "¿Qué le reprendió el Señor a David Whitmer, y alguna vez has cometido ese mismo error?",
-        "¿Qué significa para vos que Orson Pratt fuera llamado a predicar con apenas 19 años recién bautizado?",
+        "Buscá en Juan 8:12 las dos cosas que Jesús promete al que lo sigue. ¿En qué se diferencia «no andar en tinieblas» de «tener la luz de la vida»?",
         "¿Hay algo en tu vida donde estás esperando 'estar listo' antes de actuar con fe? ¿Qué sería dar ese paso esta semana?",
         "¿A quién de tu entorno podrías compartir algo del evangelio esta semana, aunque sea pequeño?",
-        "¿Qué te dirías a vos mismo dentro de un año si esta semana das ese paso, y qué te dirías si no lo das?"
+        "¿Qué te dirías a vos mismo dentro de un año si esta semana das ese paso? Llevalo al Señor en oración antes de decidir y escribí lo que sentiste."
       ]
     }
   ],
@@ -58,7 +66,7 @@
       "options": [
         "Disputar con el profeta y negarse a bautizarse nuevamente.",
         "Abandonar su misión antes de tiempo y regresar a su familia sin autorización.",
-        "Temer la opinión de los hombres y tener la mente puesta en las cosas de la tierra.",
+        "Temer la opinión de los hombres y pensar en las cosas de la tierra.",
         "No pagar el diezmo y faltar a las reuniones de la Iglesia con frecuencia."
       ],
       "correctAnswer": 2
@@ -70,7 +78,7 @@
         "A los líderes religiosos de las ciudades de Ohio y Misuri.",
         "A los emigrantes europeos que llegaban a las costas del este.",
         "A los miembros inactivos de las congregaciones en Nueva York.",
-        "A los lamanitas, los pueblos nativos de América."
+        "A los lamanitas, que son los pueblos originarios de América."
       ],
       "correctAnswer": 3
     },
@@ -90,9 +98,9 @@
       "question": "El Señor llamó a Orson Pratt a predicar cuando tenía apenas 19 años y llevaba pocas semanas bautizado. ¿Qué principio ilustra ese llamado sobre los criterios del Señor para Sus obreros?",
       "options": [
         "Que el Señor espera a que una persona sea casi perfecta antes de encargarle una responsabilidad.",
-        "Que el Señor no llama a los capacitados; capacita a quienes llama, sin importar la edad ni la experiencia.",
+        "Que el Señor no llama a los capacitados: capacita a los que llama, sea cual sea su edad.",
         "Que los llamamientos tempranos son excepciones históricas que no se repiten en la Iglesia actual.",
-        "Que la experiencia y los años de membresía son los factores más importantes para un llamado."
+        "Que la experiencia y los años de membresía son lo más importante para un llamado."
       ],
       "correctAnswer": 1
     },
@@ -102,7 +110,7 @@
       "options": [
         "Humildad excesiva que le impide hablar sin sentir que se alaba a sí misma.",
         "Falta de preparación doctrinal suficiente para responder preguntas difíciles.",
-        "Temer a los hombres más que al Señor y poner la mente en las cosas de la tierra.",
+        "Temer a los hombres más que al Señor, con la mente en lo de la tierra.",
         "No tener un llamamiento formal que la autorice a compartir el evangelio."
       ],
       "correctAnswer": 2
@@ -114,7 +122,7 @@
         "Que debería pedir al obispo que le asigne un mentor más experimentado primero.",
         "Que su falta de conocimiento lo excusa temporalmente de la responsabilidad de servir.",
         "Que efectivamente debería estudiar más antes de intentar servir.",
-        "Que el Señor usa precisamente a los débiles para confundir a los poderosos — el poder viene de Él, no de Mateo."
+        "Que el Señor usa a los débiles para confundir a los poderosos: el poder es Suyo."
       ],
       "correctAnswer": 3
     },
@@ -122,7 +130,7 @@
       "id": 7,
       "question": "Tanto la reprensión a David Whitmer (D&C 30) como el llamado a Orson Pratt (D&C 34) giran alrededor de la misma tensión. ¿Cuál es el principio común que los une?",
       "options": [
-        "Que el miedo a las personas paraliza; la confianza en el Señor libera — y Él capacita a quien responde.",
+        "Que el miedo a la gente paraliza y la confianza en el Señor libera; Él capacita al que acude.",
         "Que los llamamientos misioneros son más importantes que los llamamientos locales en la Iglesia.",
         "Que el miedo y la falta de experiencia son los dos obstáculos principales para servir al Señor.",
         "Que el Señor siempre reprende antes de llamar para asegurarse de que el corazón esté listo."

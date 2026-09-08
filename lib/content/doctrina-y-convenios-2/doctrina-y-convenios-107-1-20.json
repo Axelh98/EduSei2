@@ -26,6 +26,11 @@
           "referencia": "Doctrina y Convenios 107:20",
           "texto": "El poder y la autoridad del sacerdocio menor, o sea, el de Aarón, consiste en poseer las llaves del ministerio de ángeles y en administrar las ordenanzas exteriores, la letra del evangelio, el bautismo de arrepentimiento para la remisión de pecados, de acuerdo con los convenios y los mandamientos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=spa&id=p20#p20"
+        },
+        {
+          "referencia": "Mateo 16:19",
+          "texto": "Y a ti te daré las llaves del reino de los cielos, y todo lo que ates en la tierra será atado en los cielos; y todo lo que desates en la tierra será desatado en los cielos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=spa&id=p19#p19"
         }
       ]
     },
@@ -38,19 +43,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": [
-        "El nombre original del sacerdocio mayor dice de quién es: «según el Orden del Hijo de Dios». Toda autoridad que alguien ejerce en la Iglesia es prestada, y el que la presta es Él. Eso cambia dos cosas a la vez: nadie puede tratarla como propiedad personal, y nadie que la ejerce actúa solo. Si tenés hoy una asignación —repartir la Santa Cena, enseñar, ministrar—, hacela esta semana recordando de quién es la autoridad con la que estás actuando."
-      ]
+      "contenido": "El nombre original del sacerdocio mayor dice de quién es: «según el Orden del Hijo de Dios». Toda autoridad que alguien ejerce en la Iglesia es prestada, y el que la presta es Jesucristo: fue Él quien le dijo a Pedro «a ti te daré las llaves del reino de los cielos», y sigue siendo Él quien decide qué se delega y cómo se usa. Eso cambia dos cosas a la vez: nadie puede tratar esa autoridad como propiedad personal, y nadie que la ejerce actúa solo. Si tenés hoy una asignación —repartir la Santa Cena, enseñar, ministrar—, hacela esta semana recordando de quién es la autoridad con la que estás actuando."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Por qué te parece que se cambió el nombre del sacerdocio mayor, «según el Orden del Hijo de Dios», por el de Melquisedec?",
         "Comparando los versículos 18–19 con el 20, ¿qué diferencia ves entre lo que administra cada sacerdocio?",
-        "El Sacerdocio Aarónico posee «las llaves del ministerio de ángeles». ¿Qué te parece que significa eso?",
+        "Leé Mateo 16:19 en el bloque de escrituras. ¿Quién entrega ahí las llaves y a quién, y qué le agrega eso a lo que enseña el presidente Oaks sobre de quién son todas las llaves?",
         "El presidente Oaks dice que todas las llaves las posee el Salvador y Él decide cómo se usan. ¿Qué cambia eso sobre quien ejerce una asignación?",
         "¿Qué asignación tenés hoy, por chica que sea, en la Iglesia o en tu casa?",
-        "¿Cómo la vas a hacer esta semana distinto, recordando de quién es la autoridad? Sé concreto."
+        "¿Cómo vas a hacer esa asignación esta semana, recordando de quién es la autoridad? Sé concreto, orá por eso antes de empezar y anotá lo que notaste."
       ]
     }
   ],
@@ -59,10 +62,10 @@
       "id": 1,
       "question": "Según Doctrina y Convenios 107:3, ¿cuál era el nombre original del sacerdocio mayor?",
       "options": [
-        "El Sacerdocio Patriarcal.",
+        "El Sacerdocio Patriarcal de los antiguos padres.",
         "El Sacerdocio del Nuevo Convenio.",
         "El Sacerdocio de Melquisedec.",
-        "El Santo Sacerdocio según el Orden del Hijo de Dios."
+        "El Sacerdocio del Orden del Hijo de Dios."
       ],
       "correctAnswer": 3
     },
@@ -82,7 +85,7 @@
       "question": "¿Qué administra el Sacerdocio Aarónico según Doctrina y Convenios 107:20?",
       "options": [
         "Las bendiciones patriarcales y las ordenanzas del templo.",
-        "Las ordenanzas exteriores, la letra del evangelio y el bautismo de arrepentimiento.",
+        "La letra del evangelio y el bautismo de arrepentimiento.",
         "La instrucción doctrinal de los miembros de la Iglesia.",
         "Las decisiones sobre la organización de los cuórums."
       ],
@@ -94,7 +97,7 @@
       "options": [
         "Que las asignaciones menores no requieren autorización previa.",
         "Que la autoridad aumenta con los años de servicio.",
-        "Que la autoridad con la que actúa es prestada, y por eso no puede ejercerse como propiedad personal.",
+        "Que la autoridad con la que actúa es prestada, no propia.",
         "Que solo quienes poseen llaves pueden actuar con autoridad."
       ],
       "correctAnswer": 2
@@ -106,7 +109,7 @@
         "Que debería solicitar una asignación de mayor responsabilidad.",
         "Que su cuórum evalúa la manera en que cumple su deber.",
         "Que la ordenanza pierde validez si no se realiza con atención.",
-        "Que está administrando una ordenanza bajo llaves que pertenecen al Salvador."
+        "Que administra una ordenanza con llaves que pertenecen a Él."
       ],
       "correctAnswer": 3
     },
@@ -114,10 +117,10 @@
       "id": 6,
       "question": "Ana fue apartada para enseñar en su clase y se pregunta con qué autoridad lo hace, ya que no posee un oficio del sacerdocio. Según lo que enseña esta lección, ¿cuál es la respuesta?",
       "options": [
-        "Enseña con la autorización de quien posee las llaves, y por eso ejerce autoridad del sacerdocio en su llamamiento.",
+        "Enseña con la autorización de quien posee las llaves.",
         "Enseña por delegación del maestro anterior, sin autoridad formal.",
         "Su autoridad proviene de su preparación personal en el evangelio.",
-        "No ejerce autoridad, sino que colabora con quienes sí la tienen."
+        "No ejerce autoridad, sino que colabora."
       ],
       "correctAnswer": 0
     },
@@ -126,7 +129,7 @@
       "question": "Doctrina y Convenios 107:3 da al sacerdocio el nombre del Hijo de Dios, y el presidente Oaks enseña que todas las llaves le pertenecen a Él. ¿Qué principio común forman las dos ideas?",
       "options": [
         "Que las llaves se distribuyen por igual entre todos los miembros de la Iglesia.",
-        "Que el sacerdocio es de Cristo, y quienes actúan en él lo hacen en Su nombre y no en el propio.",
+        "Que el sacerdocio pertenece a Cristo, y se ejerce en Su nombre y no en el propio.",
         "Que el cambio de nombre fue una decisión administrativa sin contenido doctrinal.",
         "Que la autoridad del sacerdocio se transfiere de forma permanente a quien la recibe."
       ],

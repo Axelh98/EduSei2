@@ -6,7 +6,8 @@
       "contenido": [
         "Hiram Page era miembro fiel de la Iglesia. Uno de los testigos del Libro de Mormón. Un hombre con buenas intenciones. Y tenía una piedra por medio de la cual afirmaba recibir revelaciones para toda la Iglesia. Varios miembros le creían. Incluso Oliver Cowdery estaba influenciado.",
         "El Señor respondió con D&C 28: hay un solo canal para la revelación que afecta a toda la Iglesia, y ese canal es el profeta. Este principio no limita la revelación personal —cada miembro puede y debe recibir revelación para su propia vida, su familia y su llamamiento. Pero la revelación que dirige a toda la Iglesia viene a través de una sola persona designada. Eso no es burocracia; es protección divina contra el engaño.",
-        "El caso de Hiram Page es una advertencia relevante para hoy: alguien puede ser sincero, bienintencionado, y equivocado al mismo tiempo. La sinceridad no garantiza la veracidad. El orden establecido por el Señor existe precisamente para protegernos de ese tipo de engaño, por más convincente que parezca."
+        "El caso de Hiram Page es una advertencia relevante para hoy: alguien puede ser sincero, bienintencionado, y equivocado al mismo tiempo. La sinceridad no garantiza la veracidad. El orden establecido por el Señor existe precisamente para protegernos de ese tipo de engaño, por más convincente que parezca.",
+        "Detrás de ese orden hay un diseño, y no salió de un comité. Pablo escribió que fue Jesucristo mismo quien «constituyó a unos apóstoles; y a otros, profetas», y explicó para qué: para edificar el cuerpo de Cristo hasta que todos lleguemos «a la medida de la estatura de la plenitud de Cristo». O sea que el canal existe para llevarte a Él, no para mantenerte a distancia. El Salvador dirige Su Iglesia con orden porque Su propósito es que llegues completo, y un engaño sincero puede sacarte del camino igual que uno malintencionado. Su promesa es que dentro de ese marco el Espíritu Santo derrama conocimiento, dirección y consuelo."
       ]
     },
     {
@@ -21,6 +22,11 @@
           "referencia": "Doctrina y Convenios 28:11–12",
           "texto": "Y además, irás a tu hermano, Hiram Page, entre tú y él a solas, y le dirás que las cosas que él ha escrito mediante esa piedra no son mías, y que Satanás lo engaña; porque he aquí, no se le han señalado estas cosas, ni a ninguno de los de esta iglesia le será designada cosa alguna que sea contraria a los convenios de ella.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/28?lang=spa&id=p11-p12#p11"
+        },
+        {
+          "referencia": "Efesios 4:11–13",
+          "texto": "Y él mismo constituyó a unos apóstoles; y a otros, profetas; y a otros, evangelistas; y a otros, pastores y maestros; a fin de perfeccionar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo, hasta que todos lleguemos a la unidad de la fe y del conocimiento del Hijo de Dios, a un varón perfecto, a la medida de la estatura de la plenitud de Cristo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=spa&id=p11-p13#p11"
         }
       ]
     },
@@ -33,17 +39,19 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 28 establece un principio protector esencial: la revelación para toda la Iglesia viene a través del profeta. Esto no impide la revelación personal; la protege. El caso de Hiram Page nos recuerda que la sinceridad no garantiza la veracidad. El orden establecido por el Señor es una expresión de Su cuidado por Su pueblo, no una restricción de la comunicación divina. Cuando participamos de ese orden, elegimos la protección que Dios ofrece."
+      "contenido": [
+        "Doctrina y Convenios 28 establece un principio protector: la revelación para toda la Iglesia llega por medio del profeta. Eso no impide la revelación personal, la protege. El caso de Hiram Page recuerda que la sinceridad no garantiza la veracidad. Y el orden no es una restricción burocrática: Efesios 4 dice que fue Jesucristo quien puso apóstoles y profetas, y para qué lo hizo — para que lleguemos «a la medida de la estatura de la plenitud de Cristo». Elegí un asunto en el que hoy estés siguiendo una voz que no sabés de dónde viene, y contrastalo esta semana con lo que enseña el profeta viviente."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué tiene de peligroso que cualquier persona afirme recibir revelaciones para toda la Iglesia, aunque sea con buenas intenciones?",
         "¿Por qué la sinceridad de Hiram Page no era suficiente para validar las revelaciones que afirmaba recibir?",
-        "¿Cómo podés distinguir entre la revelación personal para tu vida y lo que sería revelación para la Iglesia?",
+        "Leé Efesios 4:11–13. ¿Quién puso a los apóstoles y profetas, según ese pasaje, y hasta dónde dice que tiene que llegar la gente por medio de ellos?",
         "¿Cómo te protege saber que la revelación para la Iglesia viene a través del profeta?",
         "¿Hubo alguna vez que alguien te dijo algo que parecía espiritual pero que iba en contra de las enseñanzas de la Iglesia? ¿Cómo lo discerniste?",
-        "Si mañana alguien de tu edad te dice que recibió una revelación para tu clase o tu quórum, ¿qué le vas a preguntar y a quién vas a consultar?"
+        "Si mañana alguien de tu edad te dice que recibió una revelación para tu clase o tu quórum, ¿qué le vas a preguntar, a quién vas a consultar y qué vas a llevar vos a la oración antes de decidir?"
       ]
     }
   ],
@@ -52,7 +60,7 @@
       "id": 1,
       "question": "Hiram Page era un miembro fiel con buenas intenciones que afirmaba recibir revelaciones para toda la Iglesia. ¿Por qué eso era un problema aunque fuera sincero?",
       "options": [
-        "Porque la sinceridad no garantiza la veracidad, y la Iglesia necesita un canal ordenado de revelación",
+        "Porque la sinceridad no garantiza la verdad, y hace falta un canal ordenado",
         "Porque Hiram no tenía el nivel educativo necesario para recibir revelaciones",
         "Porque Oliver Cowdery era más digno que él en ese momento",
         "Porque las revelaciones nunca pueden venir a través de objetos físicos"
@@ -64,7 +72,7 @@
       "question": "D&C 28:2–3 dice que solo el profeta está designado para recibir revelación para toda la Iglesia. ¿Cómo protege eso a los miembros?",
       "options": [
         "Evita que los miembros tengan que pensar o discernir por sí mismos",
-        "Establece un canal claro y confiable para recibir la voluntad de Dios sin confusión",
+        "Establece un canal claro para recibir la voluntad de Dios sin confusión",
         "Impide que cualquier miembro reciba revelación personal en su propia vida",
         "Garantiza que el profeta nunca cometerá errores personales"
       ],
@@ -72,43 +80,43 @@
     },
     {
       "id": 3,
-      "question": "¿Alguna vez viste o escuchaste a alguien que afirmaba tener revelaciones especiales para un grupo, familia o comunidad fuera de la estructura de la Iglesia? ¿Qué señales te dieron desconfianza?",
+      "question": "Un compañero de Franco le dice que recibió una revelación para todo el grupo de jóvenes y que hay que seguirlo a él antes que al obispo. Según Doctrina y Convenios 28, ¿cuál es la señal más clara de que algo no cierra?",
       "options": [
-        "Que usaba un lenguaje espiritual poco común o poco familiar",
-        "Que la persona hablaba demasiado fuerte o con mucha emoción",
-        "Que el mensaje iba en contra de las enseñanzas del profeta o pedía seguirlo a él en lugar de a los líderes establecidos",
-        "Que no era miembro de la Iglesia o no tenía un cargo formal"
+        "Que use un lenguaje espiritual poco común o distinto del habitual en clase.",
+        "Que el mensaje pida seguirlo a él en lugar de a los líderes establecidos.",
+        "Que hable con demasiada emoción al contar cómo recibió esa revelación.",
+        "Que todavía no tenga un llamamiento formal dentro del grupo de jóvenes."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Cómo distinguís entre la revelación personal para tu vida y lo que sería revelación para toda la Iglesia o para otros?",
+      "question": "Lucía siente una impresión clara sobre cómo debería organizarse la clase de su hermana menor. Según el principio de Doctrina y Convenios 28, ¿cómo se distingue esa impresión de una revelación válida?",
       "options": [
-        "Solo los líderes con cargos pueden discernir entre los dos tipos",
-        "No hay diferencia práctica entre los dos tipos de revelación",
-        "La revelación personal se siente más fuerte que la revelación para otros",
-        "La revelación personal me guía en mi vida, mis decisiones y mi llamamiento; no incluye instrucciones para otros fuera de mi responsabilidad"
+        "Toda impresión fuerte y clara puede tratarse como revelación para el grupo.",
+        "La revelación guía la vida propia, no la responsabilidad ajena.",
+        "Las impresiones sobre otras personas siempre vienen de la propia imaginación.",
+        "Solo quienes tienen un cargo pueden recibir impresiones sobre alguna cosa."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "¿Cómo podés participar más activamente en el 'común acuerdo' en tu barrio o rama — más allá de levantar la mano mecánicamente en las reuniones?",
+      "question": "En un barrio se sostiene un llamamiento y la mayoría levanta la mano sin saber de quién se trata. Según el principio del común acuerdo que enseña Doctrina y Convenios 28, ¿qué le falta a ese voto?",
       "options": [
-        "Orando por los líderes antes de la reunión y llegando informado para dar un voto con convicción",
-        "No participando si no conocés bien a la persona que se llama",
-        "Pidiéndole al obispo que te explique cada decisión antes de votar",
-        "Votando en contra de los llamamientos cuando no estás de acuerdo con el líder elegido"
+        "Nada: el sostenimiento es un trámite y el voto no cambia la decisión tomada.",
+        "Que cada uno llegue informado y haya orado antes de votar.",
+        "Que se vote en contra cuando uno no conoce personalmente a la persona.",
+        "Que el obispo explique en detalle cada llamamiento antes de pedir el voto."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "El caso de Hiram Page es una advertencia para hoy. ¿Qué pregunta podrías hacerte para evaluar cualquier afirmación espiritual que escuches?",
       "options": [
         "'¿Esta persona tiene un testimonio fuerte y es respetada en su comunidad?'",
-        "'¿Esto está alineado con las enseñanzas del profeta viviente y las Escrituras oficiales?'",
+        "«¿Coincide con lo que enseñan el profeta viviente y las Escrituras?»",
         "'¿Esta revelación produce emociones fuertes que me hacen sentir que es verdadera?'",
         "'¿Cuántas personas ya lo creen y lo siguen?'"
       ],
@@ -120,7 +128,7 @@
       "options": [
         "Que las revelaciones deben confirmarse siempre con un líder antes de actuar.",
         "Que la revelación personal es menos confiable que la que recibe el profeta.",
-        "Que la revelación auténtica opera dentro de límites establecidos, y fuera de ellos la sinceridad no basta para validarla.",
+        "Que la revelación auténtica opera dentro de límites, no fuera de ellos.",
         "Que solo quienes tienen autoridad pueden recibir respuestas de Dios."
       ],
       "correctAnswer": 2

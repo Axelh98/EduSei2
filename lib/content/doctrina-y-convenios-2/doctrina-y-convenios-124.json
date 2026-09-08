@@ -6,7 +6,8 @@
       "contenido": [
         "En enero de 1841, con los santos apenas instalados en Nauvoo, el Señor mandó construir otro templo. Habían perdido el de Kirtland al huir de Ohio, y el mandato llegaba cuando todavía estaban levantando sus propias casas en un terreno pantanoso.",
         "El versículo 40 explica para qué: «edifíquese esta casa a mi nombre, para que en ella pueda yo revelar mis ordenanzas a mi pueblo». Y el 41 agrega algo más: «me propongo revelar a mi iglesia cosas que han estado escondidas desde antes de la fundación del mundo». En el templo de Nauvoo se revelaron las ordenanzas de la investidura y del sellamiento tal como se conocen hoy.",
-        "La sección incluye además una promesa que consuela a cualquiera que se haya esforzado sin lograr el resultado. El versículo 49 dice que cuando alguien procura hacer una obra mandada «con todas sus fuerzas y con todo lo que tienen» y sus enemigos se lo impiden, al Señor «le conviene no exigirla más […] sino aceptar sus ofrendas». Lo que se mide es el esfuerzo, no el resultado."
+        "La sección incluye además una promesa que consuela a cualquiera que se haya esforzado sin lograr el resultado. El versículo 49 dice que cuando alguien procura hacer una obra mandada «con todas sus fuerzas y con todo lo que tienen» y sus enemigos se lo impiden, al Señor «le conviene no exigirla más […] sino aceptar sus ofrendas». Lo que se mide es el esfuerzo, no el resultado.",
+        "Queda por decir por qué un edificio puede hacer todo eso. El manual lo resume en una frase: las ordenanzas del templo «nos guían hacia nuestro Salvador y nos conceden las bendiciones que nos llegan por medio de la Expiación de Jesucristo». Pablo lo había dicho antes: entramos al Lugar Santísimo «por la sangre de Jesucristo, por el camino nuevo y vivo que él nos consagró, a través del velo, esto es, de su carne» (Hebreos 10:19–20). El templo no abre una puerta propia: abre la que Él abrió. Y el nombre que el versículo 40 manda poner sobre la casa es el Suyo."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 124:15",
           "texto": "Y además, de cierto te digo, bendito es mi siervo Hyrum Smith, porque yo, el Señor, lo amo a causa de la integridad de su corazón, y porque él ama lo que es justo ante mí, dice el Señor.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=spa&id=p15#p15"
+        },
+        {
+          "referencia": "Hebreos 10:19–20",
+          "texto": "Así que, hermanos, teniendo libertad para entrar en el Lugar Santísimo por la sangre de Jesucristo, por el camino nuevo y vivo que él nos consagró, a través del velo, esto es, de su carne.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/heb/10?lang=spa&id=p19-p20#p19"
         }
       ]
     },
@@ -47,7 +53,7 @@
       "preguntas": [
         "Los santos recibieron el mandato de construir otro templo cuando todavía no tenían casas propias. ¿Qué te parece de ese orden de prioridades?",
         "El versículo 41 habla de «cosas que han estado escondidas desde antes de la fundación del mundo». ¿Qué te genera esa frase?",
-        "El élder Bednar dice que el templo no es para tener «una experiencia memorable». ¿Cuál es entonces su propósito?",
+        "Leé Hebreos 10:19–20 en el bloque de escrituras. ¿Por medio de qué dice Pablo que se entra al Lugar Santísimo, y qué cambia eso en la manera de mirar el mandato del versículo 40?",
         "El versículo 49 promete que el Señor acepta la ofrenda cuando el esfuerzo fue completo aunque el resultado no llegue. ¿Cómo te cae esa promesa?",
         "¿Hay algo en lo que estés poniendo todo y no esté saliendo?",
         "Escribí qué es lo que sí pusiste en eso. ¿Cuándo lo vas a hacer, y a quién se lo vas a contar?"
@@ -59,10 +65,10 @@
       "id": 1,
       "question": "Según Doctrina y Convenios 124:40, ¿con qué propósito mandó el Señor edificar el templo de Nauvoo?",
       "options": [
-        "Para reemplazar el templo perdido en Kirtland.",
+        "Con el fin de reemplazar el templo perdido en Kirtland.",
         "Para demostrar la fidelidad de los santos ante sus vecinos.",
         "Para que sirviera de refugio a los santos perseguidos.",
-        "Para poder revelar en él Sus ordenanzas a Su pueblo."
+        "Con el fin de poder revelar en él Sus ordenanzas a Su pueblo."
       ],
       "correctAnswer": 3
     },
@@ -70,7 +76,7 @@
       "id": 2,
       "question": "¿Qué promete el Señor revelar en Doctrina y Convenios 124:41?",
       "options": [
-        "Cosas que han estado escondidas desde antes de la fundación del mundo.",
+        "Cosas que estaban escondidas desde antes del mundo.",
         "La ubicación definitiva de la ciudad de Sion.",
         "Los nombres de quienes heredarán la gloria celestial.",
         "El momento exacto de Su segunda venida."
@@ -92,9 +98,9 @@
       "id": 4,
       "question": "El élder Bednar enseñó que no edificamos templos «solo para tener una experiencia personal o familiar memorable». ¿Qué propósito señala en cambio?",
       "options": [
-        "Que las experiencias memorables son un beneficio secundario del templo.",
+        "Que las experiencias memorables son un beneficio secundario.",
         "Que la construcción de templos une a los miembros en un esfuerzo común.",
-        "Que los convenios y ordenanzas son esenciales para la santificación del corazón y la exaltación.",
+        "Que los convenios y ordenanzas recibidos allí son esenciales.",
         "Que los templos sirven como señal visible de la presencia de la Iglesia."
       ],
       "correctAnswer": 2
@@ -105,8 +111,8 @@
       "options": [
         "Como una tarea que debería haber delegado en alguien con más experiencia.",
         "Como una obra que quedará pendiente hasta que su amigo cambie de actitud.",
-        "Como un fracaso que conviene analizar para no repetir los errores.",
-        "Como una ofrenda que el Señor acepta, porque lo que se mide es el esfuerzo sostenido."
+        "Como un fracaso que conviene analizar a fin de no repetir los errores.",
+        "Como una ofrenda que el Señor acepta, porque mide el esfuerzo puesto."
       ],
       "correctAnswer": 3
     },
@@ -114,9 +120,9 @@
       "id": 6,
       "question": "Martina piensa que ir al templo es sobre todo una experiencia emotiva que la deja tranquila. Según la enseñanza del élder Bednar, ¿qué le falta considerar?",
       "options": [
-        "Que los convenios y ordenanzas que recibe allí son esenciales para su santificación, más allá de lo que sienta.",
+        "Que lo esencial son los convenios y ordenanzas, no lo que sienta.",
         "Que la emoción es un indicador confiable de la calidad de la visita.",
-        "Que conviene asistir con menos frecuencia para valorarlo más.",
+        "Que conviene asistir con menos frecuencia con el fin de valorarlo más.",
         "Que las experiencias del templo varían según la preparación previa."
       ],
       "correctAnswer": 0
@@ -126,7 +132,7 @@
       "question": "Doctrina y Convenios 124:40 manda edificar la casa para revelar ordenanzas, y 124:49 promete que el Señor acepta la ofrenda de quien se esfuerza aunque no logre terminar. ¿Qué principio común forman los dos versículos?",
       "options": [
         "Que la obra del templo se completa solo cuando cesan las persecuciones.",
-        "Que el Señor pide una obra concreta y valora la entrega con que se la emprende, más allá del resultado.",
+        "Que el Señor pide una obra concreta y valora la entrega con que se emprende.",
         "Que las ordenanzas del templo son opcionales para quienes se esfuerzan en otras áreas.",
         "Que los mandamientos se ajustan a la capacidad de cada generación."
       ],

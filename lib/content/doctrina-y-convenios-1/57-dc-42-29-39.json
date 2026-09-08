@@ -14,6 +14,11 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=spa&id=p30-p31#p30"
         },
         {
+          "referencia": "Mateo 25:40",
+          "texto": "Y respondiendo el Rey, les dirá: De cierto os digo que en cuanto lo hicisteis a uno de estos, mis hermanos más pequeños, a mí lo hicisteis.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=spa&id=p40#p40"
+        },
+        {
           "referencia": "Doctrina y Convenios 42:38",
           "texto": "Porque por cuanto lo hacéis al más pequeño de estos, a mí lo hacéis.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=spa&id=p38#p38"
@@ -29,17 +34,20 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La ley de la consagración no fue retirada porque sea obsoleta — fue suspendida porque los santos no estaban preparados para vivirla plenamente. Hoy la vivimos parcialmente a través del ayuno y las ofrendas, las contribuciones humanitarias y el servicio. Pero el principio de fondo es eterno: somos mayordomos de los bienes del Señor, y cómo los usamos con los que tienen necesidad es una medida directa de cuánto amamos al Salvador en la persona de Sus hijos."
+      "contenido": [
+        "La ley de la consagración no fue retirada porque sea obsoleta — fue suspendida porque los santos no estaban preparados para vivirla plenamente. Hoy la vivimos parcialmente a través del ayuno y las ofrendas, las contribuciones humanitarias y el servicio. Pero el principio de fondo es eterno: somos mayordomos de los bienes del Señor, y cómo los usamos con los que tienen necesidad es una medida directa de cuánto amamos al Salvador en la persona de Sus hijos.",
+        "Y hay una razón por la que consagrar duele menos de lo que parece: Jesucristo dijo que lo que se hace por el más pequeño se le hace a Él. Cada vez que sostenés a alguien que la está pasando mal, el destinatario real es el Salvador, y Su promesa es que eso no se pierde ni se olvida."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuál es la diferencia entre ser dueño de algo y ser mayordomo de algo? ¿Cómo cambia esa diferencia tu relación con lo que tenés?",
         "¿De qué maneras concretas vivís la ley de la consagración hoy como miembro de la Iglesia?",
-        "¿Hay alguna necesidad cerca tuya — en tu familia, barrio o quórum — que podrías atender con algo que vos tenés en exceso?",
+        "Releé Mateo 25:40 junto a Doctrina y Convenios 42:30–31. ¿A quién dice el Rey que se le hizo lo que se hizo al más pequeño, y qué agrega D. y C. 42 sobre el destino de lo consagrado?",
         "¿Qué te hace más difícil dar: el dinero, el tiempo, la atención, o la energía? ¿Por qué?",
         "Esta semana, ¿qué acto concreto de generosidad podrías hacer como expresión de amor al Salvador en la persona de alguien que necesita ayuda?",
-        "De lo que tenés en exceso —ropa, tiempo libre, conocimiento de una materia—, ¿qué podrías poner a disposición de alguien concreto antes del domingo?"
+        "¿Quién de tu entorno está necesitando algo que vos podrías dar? Pedile al Señor en oración que te muestre un nombre y escribilo."
       ]
     }
   ],
@@ -50,7 +58,7 @@
       "options": [
         "A sus vecinos más pobres directamente, sin intermediarios eclesiásticos.",
         "A una cuenta de ahorro personal para futuros períodos de escasez.",
-        "Al obispo, para administrarlo en una tesorería destinada a los que no tienen.",
+        "Al obispo, para una tesorería destinada a los que no tienen.",
         "Al profeta, para financiar la traducción de la Biblia."
       ],
       "correctAnswer": 2
@@ -62,7 +70,7 @@
         "A Juan 3:16, donde el amor de Dios se expresa en el don de Su Hijo.",
         "A la parábola del sembrador, donde la semilla cae en tierra buena.",
         "Al Sermón del Monte, donde se promete que los misericordiosos alcanzarán misericordia.",
-        "A Mateo 25:40: 'en cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis'."
+        "A Mateo 25:40: lo que se hace a uno de los más pequeños, se le hace a Él."
       ],
       "correctAnswer": 3
     },
@@ -70,7 +78,7 @@
       "id": 3,
       "question": "La ley de consagración de D&C 42 nunca fue implementada plenamente por los santos de 1831. ¿Qué principio detrás de esa ley sí puede aplicarse hoy sin una sociedad de consagración formal?",
       "options": [
-        "El principio de mayordomía: lo que tenemos — tiempo, dinero, talento — son bienes del Señor que administramos con responsabilidad hacia quienes tienen necesidad.",
+        "La mayordomía: el tiempo, el dinero y el talento son bienes del Señor que administramos.",
         "El principio de que toda la propiedad privada debe cederse voluntariamente a la Iglesia.",
         "El principio de que el Señor proveerá milagrosamente a quienes donen todo sin guardar reservas.",
         "Ninguno — la ley era exclusiva para esa época y no tiene aplicación en el mundo moderno."
@@ -82,7 +90,7 @@
       "question": "D&C 42:42 advierte contra la 'ociosidad'. ¿Qué diferencia hay entre el descanso legítimo y la ociosidad que el Señor condena?",
       "options": [
         "Solo la ociosidad visible frente a otros es problemática; el descanso en privado siempre está bien.",
-        "El descanso renueva la capacidad de servir mejor; la ociosidad es una actitud de indiferencia hacia la responsabilidad y hacia las necesidades de los demás.",
+        "El descanso renueva la capacidad de servir; la ociosidad es indiferencia hacia el otro.",
         "La ociosidad solo es un pecado cuando se trata de trabajo económico, no de actividades espirituales.",
         "No hay diferencia — ambas implican no estar trabajando activamente."
       ],
@@ -94,7 +102,7 @@
       "options": [
         "Si está descansando lo suficiente para no agotarse cuando vuelva la rutina.",
         "Si sus padres aprueban la cantidad de tiempo que dedica al entretenimiento.",
-        "Si hay alguien cerca que podría beneficiarse de ese tiempo que él está administrando como si fuera solo suyo.",
+        "Si hay alguien cerca que necesita ese tiempo que él administra como si fuera suyo.",
         "Si el contenido que consume durante el entretenimiento es apropiado según los estándares de la Iglesia."
       ],
       "correctAnswer": 2
@@ -106,7 +114,7 @@
         "Que el diezmo es suficiente hasta que tenga recursos económicos propios.",
         "Que la contribución económica es la única forma válida de vivir el principio de consagración.",
         "Que debería esperar a tener ingresos propios antes de pensar en contribuir.",
-        "Que la consagración incluye tiempo, atención y habilidades — recursos que Sofía sí tiene aunque no tenga dinero."
+        "Que la consagración incluye tiempo, atención y habilidades, no solo dinero."
       ],
       "correctAnswer": 3
     },
@@ -114,7 +122,7 @@
       "id": 7,
       "question": "D&C 42:38 ('dar a los pobres es dar al Señor') y la ley de consagración juntos apuntan al mismo principio. ¿Cuál es?",
       "options": [
-        "Que la relación entre el discípulo y el Salvador se mide concretamente en cómo trata a las personas que tienen menos — el amor al Señor y el amor al prójimo son la misma acción.",
+        "Que amar al Señor y amar al prójimo terminan siendo exactamente la misma acción.",
         "Que el Señor necesita recursos económicos de Sus discípulos para financiar Su obra en la tierra.",
         "Que la ley de consagración es la más importante de todas las leyes reveladas en D&C 42.",
         "Que dar a los pobres garantiza bendiciones económicas proporcionales en esta vida."

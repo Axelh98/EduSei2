@@ -21,6 +21,11 @@
           "referencia": "Doctrina y Convenios 50:31–32",
           "texto": "Por tanto, acontecerá que si veis manifestado un espíritu que no podéis comprender, y no recibís a ese espíritu, pediréis al Padre en el nombre de Jesús; y si él no os da a conocer ese espíritu, entonces sabréis que no es de Dios. Y os será dado poder sobre ese espíritu; y proclamaréis contra dicho espíritu en voz alta, que no es de Dios.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p31-p32#p31"
+        },
+        {
+          "referencia": "Doctrina y Convenios 50:41–42",
+          "texto": "No temáis, pequeñitos, porque sois míos, y yo he vencido al mundo, y vosotros sois de aquellos que mi Padre me ha dado; y ninguno de los que el Padre me ha dado se perderá.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=spa&id=p41-p42#p41"
         }
       ]
     },
@@ -29,18 +34,21 @@
       "autor": "Élder Gary E. Stevenson",
       "fuente": "«No me engañes», Liahona, noviembre de 2019, pág. 94",
       "texto": "Satanás, el padre de las mentiras y el gran engañador, nos haría cuestionar las cosas como realmente son e ignorar las verdades eternas o que las reemplacemos con algo que parece más placentero. Ha pasado milenios calculando y practicando la habilidad de persuadir a los hijos de Dios a creer que lo bueno es malo y que lo malo es bueno.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/10/45stevenson?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2019/10/45stevenson?lang=spa&id=p14#p14"
     },
     {
       "tipo": "conclusion",
-      "contenido": "El criterio de D&C 50:23 — todo lo que no edifica no viene de Dios — es una de las herramientas de discernimiento espiritual más útiles que existen. No requiere experiencia teológica avanzada para aplicarlo: simplemente preguntate si lo que estás escuchando, viendo o viviendo te acerca al Salvador, fortalece tu fe y te inspira a ser mejor. Si sí, viene de Dios. Si no, hay que tener cuidado."
+      "contenido": [
+        "El criterio de D&C 50:23 — todo lo que no edifica no viene de Dios — es una de las herramientas de discernimiento espiritual más útiles que existen. No requiere experiencia teológica avanzada para aplicarlo: simplemente preguntate si lo que estás escuchando, viendo o viviendo te acerca al Salvador, fortalece tu fe y te inspira a ser mejor. Si sí, viene de Dios. Si no, hay que tener cuidado.",
+        "Y el capítulo cierra con la voz de Jesucristo diciendo algo que conviene tener a mano: «no temáis, pequeñitos, porque sois míos, y yo he vencido al mundo… y ninguno de los que el Padre me ha dado se perderá». Discernir espíritus no es una habilidad de expertos: es Su promesa de no dejar perder a los Suyos."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuál es el criterio que da el Señor en D&C 50:23 para reconocer si algo viene de Dios?",
         "¿Cómo aplicarías ese criterio a contenido sobre espiritualidad o fe que ves en redes sociales?",
-        "¿Alguna vez viviste una experiencia que parecía espiritual pero que después te dejó confundido o alejado del Señor? ¿Cómo la reconociste?",
+        "Volvé a leer Doctrina y Convenios 50:41–42. ¿Con qué palabra llama el Señor a Sus discípulos, y qué dos razones les da para no temer?",
         "¿Qué diferencia hay entre una emoción fuerte y una manifestación genuina del Espíritu Santo?",
         "¿Cómo podés usar el criterio de 'edificar' para evaluar las influencias espirituales en tu vida esta semana?",
         "Elegí una cuenta o un canal que seguís y pasale el criterio de Doctrina y Convenios 50:23. ¿Te deja mejor o solo más agitado? ¿Qué vas a hacer con eso?"
@@ -66,7 +74,7 @@
         "Las reuniones terminaban muy tarde y los miembros se quejaban.",
         "El profeta José Smith estaba ausente y los miembros no sabían cómo conducir las reuniones.",
         "Los miembros no pagaban el diezmo regularmente.",
-        "Algunos actuaban de maneras extravagantes afirmando que el Espíritu los guiaba, cuando en realidad no era así."
+        "Actuaban de maneras extravagantes diciendo que el Espíritu los guiaba."
       ],
       "correctAnswer": 3
     },
@@ -74,7 +82,7 @@
       "id": 3,
       "question": "D&C 50:24 dice que quien recibe la Palabra de Dios 'recibe luz, y esa luz crece más y más hasta el día perfecto'. ¿Qué implica ese principio sobre la naturaleza del crecimiento espiritual?",
       "options": [
-        "Que el crecimiento espiritual es acumulativo — cada elección de recibir la luz añade más luz, y ese proceso es gradual y continuo.",
+        "Que el crecimiento espiritual es acumulativo: cada elección de recibir añade más luz.",
         "Que la luz espiritual llega de golpe en experiencias de conversión intensas, no gradualmente.",
         "Que solo los profetas reciben esa luz creciente; los miembros comunes mantienen una luz constante.",
         "Que hay un momento único de iluminación completa y después ya no se necesita crecer."
@@ -86,7 +94,7 @@
       "question": "¿Por qué D&C 50:22 dice que si alguien predica 'por otro espíritu, no es de Dios'? ¿Qué implica eso sobre la responsabilidad del que enseña?",
       "options": [
         "Que cualquier enseñanza equivocada descalifica al maestro permanentemente.",
-        "Que enseñar el evangelio no es una tarea casual — requiere preparación espiritual genuina, no solo conocimiento del tema.",
+        "Que enseñar el evangelio no es tarea casual: pide preparación espiritual real.",
         "Que el Espíritu garantiza automáticamente que no se cometan errores doctrinales.",
         "Que solo los llamados a tiempo completo pueden enseñar sin el riesgo de un 'espíritu incorrecto'."
       ],
@@ -98,7 +106,7 @@
       "options": [
         "Que las emociones intensas son siempre una señal de la presencia del Espíritu.",
         "Que si produce emociones positivas, debe venir del Espíritu independientemente de sus efectos.",
-        "Que lo que no edifica no viene de Dios — si aleja de las fuentes espirituales reales, es oscuridad aunque se sienta bien.",
+        "Que lo que no edifica no viene de Dios, por más que en el momento se sienta bien.",
         "Que la Iglesia exagera al evaluar negativamente contenido emocional de otras fuentes espirituales."
       ],
       "correctAnswer": 2
@@ -110,7 +118,7 @@
         "Solo debería omitir la preparación si ya tiene años de experiencia enseñando.",
         "El problema no es la falta de preparación sino no haber pedido permiso al obispo.",
         "Nada — confiar en el Espíritu es exactamente lo que D&C 50 pide.",
-        "Está omitiendo la preparación previa — el Espíritu enseña a través del maestro preparado, no en lugar del maestro que no se preparó."
+        "Está omitiendo la preparación: el Espíritu enseña por el maestro preparado."
       ],
       "correctAnswer": 3
     },
@@ -118,7 +126,7 @@
       "id": 7,
       "question": "D&C 50:23 ('lo que no edifica no es de Dios') y D&C 50:24 ('quien recibe la Palabra recibe luz que crece') forman un sistema. ¿Cómo funcionan juntos para guiar la vida espiritual de un joven?",
       "options": [
-        "El primero da el filtro para discernir qué recibir; el segundo promete que recibir bien construye una vida de luz creciente — juntos describen tanto cómo elegir como qué sucede cuando se elige bien.",
+        "El primero da el filtro para discernir qué recibir; el segundo, la promesa de luz.",
         "Uno aplica a las reuniones de la Iglesia y el otro al estudio personal, pero no interactúan.",
         "Solo aplican a maestros y líderes, no a los alumnos que reciben las enseñanzas.",
         "El primero es más importante que el segundo porque el discernimiento precede al crecimiento."

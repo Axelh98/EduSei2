@@ -6,7 +6,8 @@
       "contenido": [
         "Un amigo te pregunta: '¿Para qué necesitás ir a la iglesia? ¿No podés tener una relación con Dios sin organismos ni rituales?' Es una pregunta honesta que mucha gente hace hoy.",
         "El 6 de abril de 1830, once días después de publicarse el Libro de Mormón, La Iglesia de Jesucristo de los Santos de los Últimos Días fue organizada en la casa de Peter y Mary Whitmer en Fayette, Nueva York. Ese día el Señor reveló D&C 20, conocida como los 'Artículos y Convenios de la Iglesia'. Esta revelación no fue obra de hombres; fue la constitución divina de la Iglesia restaurada.",
-        "Los versículos 1–36 establecen verdades fundamentales: la naturaleza de Dios, la realidad de la Caída, la necesidad de la Expiación, y el papel del Espíritu Santo. No son reglas inventadas por José Smith; son doctrinas reveladas el mismo día que se organizó la Iglesia. Estudiar estos versículos te da las palabras para responder a la pregunta de tu amigo con convicción real y con fundamento doctrinal."
+        "Los versículos 1–36 establecen verdades fundamentales: la naturaleza de Dios, la realidad de la Caída, la necesidad de la Expiación, y el papel del Espíritu Santo. No son reglas inventadas por José Smith; son doctrinas reveladas el mismo día que se organizó la Iglesia. Estudiar estos versículos te da las palabras para responder a la pregunta de tu amigo con convicción real y con fundamento doctrinal.",
+        "Y en medio de esos artículos hay un testimonio que responde la pregunta de tu amigo mejor que cualquier argumento sobre organización. Los versículos 21 al 24 no hablan de estructura: hablan de una persona. «El Dios Omnipotente dio a su Hijo Unigénito… Sufrió tentaciones pero no hizo caso de ellas. Fue crucificado, murió y resucitó al tercer día.» Esa es la razón de que exista la Iglesia. No es un club con reglas, es la manera en que Jesucristo pone Sus ordenanzas y Su expiación al alcance de cualquiera. La Iglesia no reemplaza tu relación con Él: es el lugar donde Él prometió administrarla."
       ]
     },
     {
@@ -21,6 +22,11 @@
           "referencia": "Doctrina y Convenios 20:17–19",
           "texto": "Por estas cosas sabemos que hay un Dios en el cielo, infinito y eterno, de eternidad en eternidad el mismo Dios inmutable, el organizador de los cielos y de la tierra, y de todo cuanto en ellos hay; y que creó al hombre, varón y hembra, según su propia imagen, y a su propia semejanza él los creó; y les dio mandamientos de que lo amaran y lo sirvieran a él, el único Dios verdadero y viviente, y que él fuese el único ser a quien adorasen.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa&id=p17-p19#p17"
+        },
+        {
+          "referencia": "Doctrina y Convenios 20:21–24",
+          "texto": "Por tanto, el Dios Omnipotente dio a su Hijo Unigénito, como está escrito en esas Escrituras que de él se han dado. Sufrió tentaciones pero no hizo caso de ellas. Fue crucificado, murió y resucitó al tercer día; y ascendió al cielo, para sentarse a la diestra del Padre, para reinar con omnipotencia de acuerdo con la voluntad del Padre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa&id=p21-p24#p21"
         },
         {
           "referencia": "Doctrina y Convenios 20:25–27",
@@ -45,9 +51,9 @@
       "preguntas": [
         "Si un amigo te preguntara por qué necesitás pertenecer a una iglesia organizada para tener una relación con Dios, ¿qué le dirías?",
         "¿Qué verdades sobre Dios identificás en D&C 20:17–19? ¿Cuál te resulta más significativa?",
-        "¿Alguna vez dudaste de la necesidad de la Iglesia en tu vida? ¿Qué te ayudó en ese momento?",
+        "Fijate en Doctrina y Convenios 20:21–24 y hacé la lista de lo que dice que hizo Jesucristo, en orden. ¿Cuál de esos hechos es el que más se te pierde de vista un día común?",
         "¿Por qué fue importante que el Señor revelara estas doctrinas el mismo día que organizó la Iglesia?",
-        "¿Qué aspecto de la Iglesia valorás más ahora mismo? ¿Cómo podés participar más activamente en él esta semana?",
+        "¿Qué aspecto de la Iglesia valorás más ahora mismo? Ponelo en oración esta semana y anotá qué te sugiere hacer el Señor para participar más en él.",
         "¿Qué llamamiento, tarea o responsabilidad chica podrías aceptar o pedir este mes para pasar de asistir a la Iglesia a sostenerla?"
       ]
     }
@@ -60,7 +66,7 @@
         "Que la Iglesia es un requisito solo para los que quieren llegar al reino celestial",
         "Que sin la Iglesia no es posible creer en Dios correctamente",
         "Que la Iglesia es opcional pero útil para mantenerse motivado",
-        "Que la Iglesia fue fundada por revelación divina para administrar el evangelio y sus ordenanzas"
+        "Que la Iglesia fue fundada por revelación para administrar las ordenanzas"
       ],
       "correctAnswer": 3
     },
@@ -68,7 +74,7 @@
       "id": 2,
       "question": "¿Qué verdad sobre Dios enseña D&C 20:17–19 que es fundamental para todo lo demás?",
       "options": [
-        "Que Dios existe desde toda la eternidad, lo sabe todo, y está lleno de misericordia, justicia y verdad",
+        "Que Dios es eterno e inmutable, y está lleno de misericordia y verdad",
         "Que Dios es un ser abstracto sin forma ni personalidad definida",
         "Que Dios creó el mundo y luego se alejó para observar sin intervenir",
         "Que Dios solo habla a través de los textos del Antiguo Testamento"
@@ -77,14 +83,14 @@
     },
     {
       "id": 3,
-      "question": "¿Alguna vez dudaste de si realmente necesitás pertenecer a la Iglesia para vivir el evangelio? ¿Qué te hizo reconsiderar esa idea o qué todavía te genera preguntas?",
+      "question": "Nicolás sostiene que puede vivir el evangelio por su cuenta, sin pertenecer a ninguna iglesia. Según Doctrina y Convenios 20 y lo que enseñó el presidente Oaks, ¿qué le falta a ese planteo?",
       "options": [
-        "La dificultad de asistir a las reuniones cuando hay otras cosas más interesantes",
-        "Entender que las ordenanzas y los convenios requieren una organización con autoridad",
-        "Que nadie en la Iglesia me explica bien por qué es necesaria",
-        "Ver que personas fuera de la Iglesia también son buenas personas"
+        "Que las ordenanzas de salvación piden autoridad y una organización.",
+        "Que sin asistir a las reuniones nadie llega a entender bien la doctrina revelada.",
+        "Que la vida en la Iglesia es sobre todo un apoyo social para sostener la motivación.",
+        "Que fuera de la Iglesia las buenas obras de una persona no tienen ningún valor real."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
@@ -99,20 +105,20 @@
     },
     {
       "id": 5,
-      "question": "¿Qué aspecto concreto de la Iglesia valorás más en este momento de tu vida? ¿Cómo podrías participar más activamente en él esta semana?",
+      "question": "Martina asiste a la Iglesia todas las semanas pero dice que «no le pasa nada» ahí. Según lo que D. y C. 20 enseña sobre para qué existe la Iglesia, ¿por dónde le conviene empezar?",
       "options": [
-        "Los discursos de la Conferencia General aunque no los aplique a mi vida",
-        "Asistir sin involucrarme demasiado para mantener mi independencia",
-        "Las actividades sociales porque me ayudan a hacer amigos",
-        "La Santa Cena, los llamamientos o el Seminario — y hacer algo concreto con eso esta semana"
+        "Cambiar de barrio hasta encontrar uno donde las clases sean más entretenidas.",
+        "Por la Santa Cena y los convenios, que son la razón por la que la Iglesia existe.",
+        "Esperar a que un líder la invite a participar antes de involucrarse en algo.",
+        "Concentrarse en las actividades sociales, que son lo que sostiene la asistencia."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "D&C 20 fue revelada el mismo día que se organizó la Iglesia. ¿Por qué es significativo que el Señor estableciera las doctrinas antes de organizar la estructura?",
       "options": [
-        "Porque demuestra que la Iglesia está fundada en doctrinas reveladas, no en opiniones humanas",
+        "Porque muestra que la Iglesia se funda en doctrina revelada, no en opiniones",
         "Para que José Smith tuviera respaldo legal ante las autoridades del gobierno",
         "Porque las doctrinas son más fáciles de revelar que la estructura organizacional",
         "Para que nadie pudiera cambiar las reglas después de la organización"
@@ -124,7 +130,7 @@
       "question": "Doctrina y Convenios 20:17–19 declara verdades sobre Dios y sobre la creación del hombre, y el presidente Oaks enseñó que la plenitud de la doctrina y las ordenanzas de salvación «solo están disponibles en la Iglesia restaurada». ¿Qué principio común sostienen las dos cosas?",
       "options": [
         "Que la doctrina verdadera puede alcanzarse por razonamiento personal si se es sincero.",
-        "Que las verdades sobre Dios y los medios para actuar sobre ellas llegan juntos, y la Iglesia es la que custodia ambos.",
+        "Que las verdades sobre Dios y los medios para actuar sobre ellas vienen juntos.",
         "Que la organización de la Iglesia es sobre todo una necesidad práctica de coordinación.",
         "Que las buenas obras hechas fuera de la Iglesia carecen de valor ante Dios."
       ],

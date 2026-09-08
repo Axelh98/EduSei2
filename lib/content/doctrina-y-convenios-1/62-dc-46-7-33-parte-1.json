@@ -34,17 +34,20 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 46:11–12 es una declaración universal: a todos se les dan dones por el Espíritu. No hay excepción. Si todavía no identificás claramente cuál es tu don, eso no significa que no lo tenés — significa que todavía no lo descubriste o que no lo estás usando. Los dones del Espíritu no son trofeos para coleccionar sino herramientas para servir. Identificar el tuyo y ponerlo al servicio de los demás es una de las responsabilidades más hermosas que el Señor te da."
+      "contenido": [
+        "D&C 46:11–12 es una declaración universal: a todos se les dan dones por el Espíritu. No hay excepción. Si todavía no identificás claramente cuál es tu don, eso no significa que no lo tenés — significa que todavía no lo descubriste o que no lo estás usando. Los dones del Espíritu no son trofeos para coleccionar sino herramientas para servir. Identificar el tuyo y ponerlo al servicio de los demás es una de las responsabilidades más hermosas que el Señor te da.",
+        "Y el criterio final lo dio el Señor en el mismo capítulo: los dones se dan «para el beneficio de los que me aman y guardan todos mis mandamientos». No son adornos personales: son herramientas de Jesucristo repartidas para sostener a Su pueblo, y Su promesa es que a cada uno se le da al menos una."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuáles de los dones listados en D&C 46 reconocés en personas cercanas a vos?",
         "¿Alguna vez pensaste que no tenés dones espirituales? ¿Qué te dice D&C 46:11–12 sobre eso?",
-        "¿Qué don espiritual creés que el Señor te dio a vos? ¿Cómo lo estás usando?",
+        "Fijate en Doctrina y Convenios 46:11–12 y en Moroni 10:8. ¿A cuántas personas dice cada pasaje que se les da un don, y para qué dicen que se dan?",
         "¿Cómo usarías un don tuyo esta semana para beneficiar a alguien en tu familia, quórum o clase?",
         "¿Qué don en otra persona admirás y agradecés, aunque sea diferente al tuyo?",
-        "¿A quién le vas a decir esta semana qué don reconocés en él o ella? Muchas personas no saben que lo tienen hasta que alguien se lo nombra."
+        "¿Qué don te gustaría reconocer en vos? Orá esta semana pidiendo verlo y anotá lo que te venga a la mente, aunque parezca poca cosa."
       ]
     }
   ],
@@ -54,7 +57,7 @@
       "question": "Según D&C 46:11–12, ¿a cuántas personas se les dan dones por el Espíritu de Dios?",
       "options": [
         "Solo a quienes los buscan mediante ayuno y oración prolongada.",
-        "A todos — a cada persona se le da un don para que todos sean beneficiados.",
+        "A todos: a cada uno se le da un don para beneficio de todos.",
         "Solo a los que tienen el Sacerdocio Melquisedec activo.",
         "A los que han estado en la Iglesia por más de cinco años."
       ],
@@ -66,7 +69,7 @@
       "options": [
         "Memorización de Escrituras, elocuencia, popularidad y liderazgo natural.",
         "Fe, sabiduría, salud perfecta y riqueza material.",
-        "Fe para sanar, fe para ser sanado, hacer milagros, profecía, discernimiento de espíritus, lenguas e interpretación.",
+        "Fe para sanar, hacer milagros, profecía, discernimiento y lenguas.",
         "Obediencia, humildad, paciencia y gratitud."
       ],
       "correctAnswer": 2
@@ -78,7 +81,7 @@
         "Los dones no aplican fuera del contexto formal de las reuniones de la Iglesia.",
         "Los dones no pueden usarse si no se tiene un llamamiento específico que los requiera.",
         "Los dones no son para el estudio personal de las Escrituras.",
-        "Los dones no son para el lucimiento o la exhibición personal — su propósito es el servicio mutuo, no la autopromoción."
+        "Que no son para el lucimiento: su propósito es el servicio mutuo."
       ],
       "correctAnswer": 3
     },
@@ -86,7 +89,7 @@
       "id": 4,
       "question": "El élder Ashton enseñó que los dones del Espíritu incluyen 'escuchar con compasión' y 'ver el bien en los demás'. ¿Qué amplía esa enseñanza sobre la lista de D&C 46?",
       "options": [
-        "Que los dones del Espíritu incluyen capacidades cotidianas de carácter, no solo manifestaciones sobrenaturales visibles.",
+        "Que los dones incluyen capacidades cotidianas de carácter, no solo milagros.",
         "Que el élder Ashton contradice a D&C 46 y sus enseñanzas no deben tomarse en cuenta.",
         "Que la lista de D&C 46 está incompleta y necesita ser actualizada.",
         "Que los dones más dramáticos como milagros y lenguas son los únicos que realmente importan."
@@ -98,7 +101,7 @@
       "question": "Renata dice que no tiene dones espirituales porque nunca sanó a nadie ni habló en lenguas. Según D&C 46:11–12, ¿qué le respondería el Señor directamente?",
       "options": [
         "Que espere — los dones espirituales solo llegan después de años de membresía activa.",
-        "Que a todos se les da un don — el problema no es que no tenga sino que todavía no lo identificó.",
+        "Que a todos se les da un don: el suyo todavía no lo identificó.",
         "Que los dones solo se manifiestan en momentos de crisis extrema.",
         "Que tiene razón y debe orar con más intensidad para recibir un don visible."
       ],
@@ -110,7 +113,7 @@
       "options": [
         "Esperando que alguien le pida explícitamente que los escuche antes de usar ese don.",
         "Registrándolo en un formulario de llamamientos para que el obispo lo use oficialmente.",
-        "Buscando activamente a alguien en su entorno que necesite ser escuchado y ofreciéndole ese don.",
+        "Buscando a alguien de su entorno que necesite ser escuchado y ofreciéndoselo.",
         "Guardándolo para cuando tenga un llamamiento que lo requiera formalmente."
       ],
       "correctAnswer": 2
@@ -122,7 +125,7 @@
         "La tensión entre los miembros activos y los menos activos sobre el acceso a los dones.",
         "La tensión entre el Padre y el Hijo sobre quién otorga los dones.",
         "La tensión entre los dones espirituales y los talentos naturales que la persona desarrolló sola.",
-        "La tensión entre la fe individual y la comunidad — todos tienen dones, pero su valor se realiza cuando se usan para otros."
+        "Que todos tienen dones, pero su valor se realiza cuando se usan para otros."
       ],
       "correctAnswer": 3
     }

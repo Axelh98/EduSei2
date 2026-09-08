@@ -6,7 +6,8 @@
       "contenido": [
         "Después de que el Salvador aceptó el templo, los cielos volvieron a abrirse tres veces más. Moisés entregó «las llaves del recogimiento de Israel de las cuatro partes de la tierra». Elías —Elías el Profeta, en el registro en español— apareció y dijo que había llegado el tiempo del que habló Malaquías, y entregó las llaves para «hacer volver el corazón de los padres a los hijos, y el de los hijos a los padres».",
         "Esas llaves no son un dato histórico: son la razón por la que hoy existen la obra misional, la historia familiar y las ordenanzas del templo. El élder Gary E. Stevenson lo resumió así: las llaves para sellar restauradas por Elías «permiten que se realicen ordenanzas en los santos templos», y esas ordenanzas «permiten a las personas y las familias regresar a la presencia de nuestros padres celestiales».",
-        "El versículo 16 cierra con una frase que ubica todo lo demás: «se entregan en vuestras manos las llaves de esta dispensación; y por esto sabréis que el día grande y terrible del Señor está cerca, sí, a las puertas». Lo que empezó en una sala del templo de Kirtland es lo que hace que un joven de hoy pueda buscar el nombre de un bisabuelo y llevarlo al templo."
+        "El versículo 16 cierra con una frase que ubica todo lo demás: «se entregan en vuestras manos las llaves de esta dispensación; y por esto sabréis que el día grande y terrible del Señor está cerca, sí, a las puertas». Lo que empezó en una sala del templo de Kirtland es lo que hace que un joven de hoy pueda buscar el nombre de un bisabuelo y llevarlo al templo.",
+        "Vale recordar hacia dónde apunta todo eso. El manual lo dice sin rodeos: las ordenanzas del templo «siempre señalan hacia el Salvador y Su expiación». Las llaves que Moisés y Elías entregaron no crean una salvación aparte; hacen que la que Jesucristo ya compró alcance a quienes murieron sin recibirla. Por eso Malaquías anunció la venida de Elías «antes que venga el día de Jehová, grande y terrible» (Malaquías 4:5): el recogimiento y el sellamiento son la preparación para el regreso de Aquel que aceptó ese templo una semana antes."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 110:16",
           "texto": "Por tanto, se entregan en vuestras manos las llaves de esta dispensación; y por esto sabréis que el día grande y terrible del Señor está cerca, sí, a las puertas.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=spa&id=p16#p16"
+        },
+        {
+          "referencia": "Malaquías 4:5–6",
+          "texto": "He aquí, yo os envío a Elías el Profeta antes que venga el día de Jehová, grande y terrible. Él hará volver el corazón de los padres hacia los hijos, y el corazón de los hijos hacia los padres, no sea que yo venga y hiera la tierra con maldición.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=spa&id=p5-p6#p5"
         }
       ]
     },
@@ -38,19 +44,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": [
-        "Lo que ocurrió en esa sala del templo de Kirtland explica por qué hoy alguien puede buscar el nombre de una bisabuela, encontrarlo y llevarlo al templo. Las llaves que Elías restauró son las que hacen que ese trabajo tenga efecto de los dos lados del velo. Entrá esta semana a FamilySearch y buscá un nombre de tu familia que no conozcas. Es el primer eslabón concreto de una cadena que empezó en 1836."
-      ]
+      "contenido": "Lo que ocurrió en esa sala del templo de Kirtland explica por qué hoy alguien puede buscar el nombre de una bisabuela, encontrarlo y llevarlo al templo. Las llaves que Elías restauró son las que hacen que ese trabajo tenga efecto de los dos lados del velo, y lo que le da valor del otro lado es la expiación de Jesucristo: las ordenanzas no salvan por sí solas, aplican lo que Él ya pagó. Entrá esta semana a FamilySearch y buscá un nombre de tu familia que no conozcas. Es el primer eslabón concreto de una cadena que empezó en 1836."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "Tres mensajeros aparecieron después del Salvador. ¿Qué entregó cada uno?",
         "El versículo 15 habla de «hacer volver el corazón de los padres a los hijos, y el de los hijos a los padres». ¿Qué significa eso en tu familia concreta?",
-        "El élder Stevenson dice que esas llaves permiten que las familias regresen a la presencia de Dios. ¿Qué te genera esa idea?",
+        "Buscá en Malaquías 4:5–6, dentro del bloque de escrituras, lo que ese profeta anunció que haría Elías. ¿Qué palabras coinciden casi exactamente con las del versículo 15, y qué te dice esa coincidencia?",
         "¿Cuánto sabés de tus bisabuelos? ¿Quién en tu familia sabe más?",
         "¿Por qué te parece que el Señor eligió el templo para restaurar esas llaves y no otro lugar?",
-        "Entrá a FamilySearch esta semana y buscá un nombre que no conozcas. ¿Qué día lo vas a hacer?"
+        "Entrá a FamilySearch esta semana y buscá un nombre que no conozcas: ¿qué día lo vas a hacer? Cuando lo encuentres, orá por esa persona y anotá lo que sentiste."
       ]
     }
   ],
@@ -59,7 +63,7 @@
       "id": 1,
       "question": "¿Qué llaves entregó Moisés en la visión de Doctrina y Convenios 110:11?",
       "options": [
-        "Las llaves del recogimiento de Israel de las cuatro partes de la tierra.",
+        "Las llaves a fin de recoger a Israel de toda la tierra.",
         "Las llaves de la administración del sacerdocio.",
         "Las llaves de la traducción de los registros antiguos.",
         "Las llaves del sellamiento de las familias."
@@ -71,7 +75,7 @@
       "question": "Según Doctrina y Convenios 110:14–15, ¿qué había profetizado Malaquías respecto de Elías el Profeta?",
       "options": [
         "Que reuniría a las diez tribus perdidas de Israel.",
-        "Que sería enviado antes del día grande y terrible del Señor, para hacer volver el corazón de los padres a los hijos y el de los hijos a los padres.",
+        "Que sería enviado antes del día grande y terrible del Señor.",
         "Que restauraría el sacerdocio de Melquisedec sobre la tierra.",
         "Que anunciaría la Segunda Venida del Salvador."
       ],
@@ -83,7 +87,7 @@
       "options": [
         "Que las llaves debían mantenerse en secreto hasta el momento indicado.",
         "Que el trabajo del templo quedaba restringido a los apóstoles.",
-        "Que por eso se sabría que el día grande y terrible del Señor está cerca, a las puertas.",
+        "Que por eso se sabría que el día del Señor está cerca.",
         "Que las llaves anteriores dejaban de tener efecto."
       ],
       "correctAnswer": 2
@@ -103,8 +107,8 @@
       "id": 5,
       "question": "Franco piensa que la historia familiar es una actividad para personas mayores con tiempo libre. Según Doctrina y Convenios 110:14–15, ¿qué está pasando por alto?",
       "options": [
-        "Que es el cumplimiento de una profecía y una de las razones por las que se restauraron las llaves.",
-        "Que existen herramientas digitales que facilitan esa tarea.",
+        "Que cumple una profecía, y por lo tanto se restauraron esas llaves.",
+        "Que existen herramientas digitales que facilitan mucho esa tarea.",
         "Que los jóvenes pueden realizar bautismos por los muertos.",
         "Que se trata de una actividad recomendada pero no esencial."
       ],
@@ -127,7 +131,7 @@
       "options": [
         "Que las llaves de Moisés y las de Elías cumplen funciones sin relación entre sí.",
         "Que la historia familiar precede necesariamente a la obra misional.",
-        "Que la obra de la Restauración busca reunir a la familia humana, en ambos lados del velo.",
+        "Que la Restauración busca reunir a la familia humana, viva y muerta.",
         "Que el recogimiento de Israel se limita a la obra misional entre los vivos."
       ],
       "correctAnswer": 2

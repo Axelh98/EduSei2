@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "La segunda parte de este bloque cubre D&C 31–32 y 36, revelaciones dadas a Thomas B. Marsh, Parley P. Pratt y Oliver Cowdery, y a Edward Partridge. A Thomas B. Marsh (D&C 31), el Señor le ofrece orientación personal extraordinariamente detallada: le habla de su familia, de sus debilidades y de cómo el Espíritu lo guiará si confía plenamente en el Señor. A Parley P. Pratt y a Oliver Cowdery (D&C 32), el Señor les encomienda la primera misión a los lamanitas, un mandato histórico para llevar el evangelio a los pueblos nativos de América. A Edward Partridge (D&C 36), el Señor declara directamente el perdón de sus pecados y lo llama a dedicar su tiempo y esfuerzo a la obra. Estas revelaciones enseñan que el Señor conoce a cada persona con una profundidad que ningún ser humano puede igualar: sus circunstancias familiares, sus miedos, su potencial. Eso no es un concepto abstracto — es una relación personal activa."
+      "contenido": [
+        "La segunda parte de este bloque cubre D&C 31–32 y 36, revelaciones dadas a Thomas B. Marsh, Parley P. Pratt y Oliver Cowdery, y a Edward Partridge. A Thomas B. Marsh (D&C 31), el Señor le ofrece orientación personal extraordinariamente detallada: le habla de su familia, de sus debilidades y de cómo el Espíritu lo guiará si confía plenamente en el Señor. A Parley P. Pratt y a Oliver Cowdery (D&C 32), el Señor les encomienda la primera misión a los lamanitas, un mandato histórico para llevar el evangelio a los pueblos nativos de América. A Edward Partridge (D&C 36), el Señor declara directamente el perdón de sus pecados y lo llama a dedicar su tiempo y esfuerzo a la obra. Estas revelaciones enseñan que el Señor conoce a cada persona con una profundidad que ningún ser humano puede igualar: sus circunstancias familiares, sus miedos, su potencial. Eso no es un concepto abstracto — es una relación personal activa.",
+        "Y hay una frase en esas revelaciones que explica todo el resto. A Parley y a Oliver el Señor les dice: «yo mismo los acompañaré y estaré entre ellos; y soy su intercesor ante el Padre». No los manda solos ni los deja rindiendo cuentas por su cuenta: Él mismo intercede por ellos. Por eso el destino de toda esa obra es el que Moroni resume al final del Libro de Mormón: «venid a Cristo, y perfeccionaos en él». Tu tarea no es convencer a nadie ni cargar con el resultado, sino acercar a alguien a una Persona cuya gracia alcanza para perfeccionarlo."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -22,6 +25,11 @@
           "referencia": "Doctrina y Convenios 32:1, 3",
           "texto": "Y ahora, concerniente a mi siervo Parley P. Pratt, he aquí, le digo: Vivo yo, que es mi voluntad que declare mi evangelio y aprenda de mí, y sea manso y humilde de corazón... Y también irá con ellos Ziba Peterson; y yo mismo los acompañaré y estaré entre ellos; y soy su intercesor ante el Padre, y nada prevalecerá en contra de ellos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/32?lang=spa&id=p1,p3#p1"
+        },
+        {
+          "referencia": "Moroni 10:32",
+          "texto": "Sí, venid a Cristo, y perfeccionaos en él, y absteneos de toda impiedad, y si os abstenéis de toda impiedad, y amáis a Dios con todo vuestro poder, mente y fuerza, entonces su gracia os es suficiente, para que por su gracia seáis perfectos en Cristo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa&id=p32#p32"
         }
       ]
     },
@@ -34,14 +42,16 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 31–32 y 36 revelan un Dios que no da revelaciones genéricas: las da personalizadas, adaptadas a la situación específica de cada persona. Que el Señor hablara directamente de la familia de Thomas Marsh, o que declarara el perdón personal de Edward Partridge antes de llamarlo, muestra que el evangelio no es un sistema de reglas impersonales sino una relación viva. Si el Señor conocía así a estos primeros santos, te conoce a vos de la misma manera: con esa profundidad, con ese detalle, con esa atención."
+      "contenido": [
+        "Doctrina y Convenios 31–32 y 36 revelan un Dios que no da revelaciones genéricas: las da personalizadas, ajustadas a la situación de cada persona. Que el Señor hablara de la familia de Thomas Marsh, o que declarara el perdón de Edward Partridge antes de llamarlo, muestra que el evangelio no es un sistema de reglas impersonales sino una relación viva. Y a Parley le dijo algo todavía más grande: «soy su intercesor ante el Padre». Si Jesucristo conocía así a esos primeros santos e interceder por ellos era Su tarea, te conoce a vos igual. Contale esta semana un detalle que venís dando por sabido."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué te llama la atención de cómo el Señor habló con Thomas Marsh en D&C 31?",
         "¿Qué significa para vos que el Señor le dijera a Edward Partridge 'tus pecados te son perdonados' antes de llamarlo?",
-        "¿Alguna vez sentiste que el Señor te conocía de manera personal? ¿Cuándo?",
+        "Fijate en Doctrina y Convenios 32:1, 3: además de acompañarlos, ¿qué dice el Señor que Él es para esos misioneros ante el Padre? ¿Qué cambia eso en cómo mirás una tarea que te queda grande?",
         "¿Cómo cambia tu manera de orar saber que el Señor conoce tus circunstancias familiares y personales en detalle?",
         "¿Hay algo que le pedirías al Señor esta semana si supieras con certeza que Él ya sabe todo lo que estás viviendo?",
         "¿Qué detalle de tu situación —de tu familia, de tu salud, de tu semana— nunca le contaste al Señor en voz alta porque diste por sentado que ya lo sabe?"
@@ -55,7 +65,7 @@
       "options": [
         "Parcialmente preparado en el este, pero no en el oeste del país.",
         "En estado de barbecho, esperando las lluvias del arrepentimiento primero.",
-        "Listo para la siega — blanco para ser cosechado de inmediato.",
+        "Listo para la siega: blanco ya y a la espera de ser cosechado.",
         "Todavía no estaba listo y necesitaban esperar la señal del profeta."
       ],
       "correctAnswer": 2
@@ -67,7 +77,7 @@
         "El perdón y el llamado se dan simultáneamente como un solo acto divino.",
         "Primero años de servicio, y el perdón se confirma al final de la vida.",
         "Primero el llamado, luego el perdón como recompensa por aceptarlo.",
-        "Primero el perdón, luego el llamado — la misericordia precede a la responsabilidad."
+        "Primero el perdón y después el llamado: la misericordia va delante."
       ],
       "correctAnswer": 3
     },
@@ -75,7 +85,7 @@
       "id": 3,
       "question": "D&C 31 le da a Thomas B. Marsh instrucciones detalladas sobre su familia, sus viajes y sus debilidades personales. ¿Qué revela eso sobre la naturaleza de la revelación personal del Señor?",
       "options": [
-        "Que el Señor conoce las circunstancias específicas de cada persona y adapta Su guía a ellas.",
+        "Que el Señor conoce las circunstancias de cada persona y adapta Su guía a ellas.",
         "Que Thomas Marsh era el único en recibir revelaciones tan detalladas por su cargo especial.",
         "Que las revelaciones personales solo tratan de asuntos espirituales, no de familia o viajes.",
         "Que el Señor solo da revelaciones generales aplicables a todos por igual."
@@ -87,7 +97,7 @@
       "question": "D&C 36:1–2 describe a Jesucristo como el Señor que habló y 'el mundo fue hecho'. ¿Por qué comenzar una revelación de llamado misional con esa declaración de identidad?",
       "options": [
         "Es una fórmula de saludo oficial sin implicaciones doctrinales específicas.",
-        "Porque todo llamado al servicio nace del amor de quien creó el mundo — entender quién llama cambia cómo respondemos.",
+        "Porque saber quién llama —el que creó el mundo— cambia cómo se responde.",
         "Para recordarle a Edward que el mundo le pertenece al Señor y no a él.",
         "Porque era necesario establecer la autoridad legal antes de dar cualquier instrucción."
       ],
@@ -111,7 +121,7 @@
         "Que puede esperar hasta los 18 años sin perder oportunidades importantes.",
         "Que el trabajo en la viña requiere siempre una asignación formal previa.",
         "Que tiene razón y debe prepararse durante los próximos años antes de actuar.",
-        "Que la viña está lista ahora mismo, y su familia, amigos y escuela son parte de ella hoy."
+        "Que la viña ya está lista, y su familia y su escuela forman parte de ella."
       ],
       "correctAnswer": 3
     },
@@ -119,7 +129,7 @@
       "id": 7,
       "question": "D&C 31 habla del conocimiento personal que el Señor tiene de Thomas Marsh. D&C 36 declara el perdón de Edward Partridge antes de llamarlo. ¿Qué principio común sobre el Señor revelan estas dos revelaciones juntas?",
       "options": [
-        "Que el Señor adapta Su guía y Su misericordia a la persona específica — conoce a cada uno y responde a lo que ese individuo necesita.",
+        "Que el Señor adapta Su guía y Su misericordia a la persona concreta que tiene delante.",
         "Que el Señor trata diferente a los líderes de la Iglesia que a los miembros comunes.",
         "Que el conocimiento personal del Señor y Su perdón son independientes y no tienen relación.",
         "Que el Señor solo habla de manera personal cuando hay un llamado importante que asignar."

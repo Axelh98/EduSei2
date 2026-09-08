@@ -34,17 +34,20 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 38:27 y 30 son dos frases que se refuerzan mutuamente: si sois uno, estáis preparados — y si estáis preparados, no temeréis. El miedo que los santos de 1830 sentían era real. La respuesta del Señor no fue eliminar la amenaza de inmediato, sino revelar quién es Él y pedir unidad y preparación. El mismo patrón aplica hoy: la preparación espiritual y la unidad en el Señor son la respuesta al miedo, no la ausencia de peligros."
+      "contenido": [
+        "D&C 38:27 y 30 son dos frases que se refuerzan mutuamente: si sois uno, estáis preparados — y si estáis preparados, no temeréis. El miedo que los santos de 1830 sentían era real. La respuesta del Señor no fue eliminar la amenaza de inmediato, sino revelar quién es Él y pedir unidad y preparación. El mismo patrón aplica hoy: la preparación espiritual y la unidad en el Señor son la respuesta al miedo, no la ausencia de peligros.",
+        "Y el que da la orden se presenta primero: dice que es el mismo que estaba «desde el principio» y que Sus ojos están sobre los santos. Su promesa de reunirlos es lo que sostiene el pedido."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué le dijo el Señor a los santos cuando tenían miedo, en lugar de solo resolver el problema?",
         "¿Alguna vez el Señor te respondió una angustia revelándote quién es Él, más que dándote una solución inmediata?",
-        "¿Qué significa para vos 'si no sois uno, no sois míos' en el contexto de tu familia, tu quórum o tu clase?",
+        "Fijate en Doctrina y Convenios 38:7. ¿Qué dice el Señor sobre dónde están Sus ojos y sobre lo que ve, y qué cambia eso en cómo se lee el mandamiento que sigue?",
         "¿Hay algo de lo que tenés miedo ahora mismo? ¿Cómo aplica D&C 38:30 a esa situación?",
         "¿Qué podrías hacer esta semana para fortalecer la unidad en tu familia o en tu grupo de la Iglesia?",
-        "Doctrina y Convenios 38:27 dice «si no sois uno, no sois míos». ¿Qué relación tuya —en tu casa, en tu clase, en tu quórum— está más lejos de esa unidad, y qué paso podrías dar vos primero?"
+        "¿Qué preparación concreta te está pidiendo el Señor hoy que venís postergando? Llevala a la oración esta semana y anotá el primer paso."
       ]
     }
   ],
@@ -77,7 +80,7 @@
       "options": [
         "Acumular bienes materiales para no depender de nadie durante las tribulaciones.",
         "Memorizar todas las doctrinas del evangelio para poder responder cualquier pregunta.",
-        "Tener convenios activos, hábitos de oración y estudio, y una fe que no depende de las circunstancias externas.",
+        "Convenios activos, hábitos de oración y de estudio, y una fe que no depende del ánimo.",
         "Rodearse de muchos miembros activos de la Iglesia para no estar solo en momentos difíciles."
       ],
       "correctAnswer": 2
@@ -89,7 +92,7 @@
         "Que la obediencia es más valiosa cuando no cuesta nada, porque entonces viene del corazón.",
         "Que el Señor compensa económicamente a quienes sacrifican bienes materiales por obedecerle.",
         "Que obedecer al Señor siempre resulta en ausencia de sacrificio o pérdida personal.",
-        "Que la obediencia genuina a veces tiene un costo real y visible — y ese costo es parte del principio, no un error."
+        "Que la obediencia a veces cuesta de verdad, y ese costo forma parte del principio."
       ],
       "correctAnswer": 3
     },
@@ -97,7 +100,7 @@
       "id": 5,
       "question": "Nicolás está muy ansioso por un examen importante la próxima semana y siente que el miedo lo paraliza. Según D&C 38:30, ¿qué pregunta debería hacerse primero?",
       "options": [
-        "¿Estoy preparado espiritualmente — orando, estudiando las Escrituras, confiando en el Señor — además de académicamente?",
+        "«¿Estoy preparado espiritualmente y no solo académicamente para esto?»",
         "¿Por qué el Señor me permite sentir este miedo si soy un miembro fiel?",
         "¿Debería pedir al obispo una bendición para garantizar que todo salga bien?",
         "¿Cuántas horas más necesito estudiar para estar absolutamente seguro de aprobar?"
@@ -109,7 +112,7 @@
       "question": "Camila recibió un consejo de su líder que no entiende completamente pero que implica un cambio real en su vida. Según el patrón de los santos que obedecieron el mandato de mudarse a Ohio, ¿qué haría la Camila más fiel?",
       "options": [
         "Preguntar al líder hasta que le dé una explicación satisfactoria antes de obedecer.",
-        "Dar el paso de fe aunque no entienda todo, confiando en que el sentido se revelará en el proceso.",
+        "Dar el paso de fe sin entenderlo todo, confiando en que el sentido va a llegar después.",
         "Obedecer solo la parte que entiende y esperar para el resto.",
         "Esperar hasta entender completamente el porqué antes de tomar cualquier acción."
       ],
@@ -121,7 +124,7 @@
       "options": [
         "Que el conocimiento de que Dios ve todo debería eliminarnos el miedo automáticamente sin esfuerzo propio.",
         "Que la preparación material es más urgente que la espiritual porque el Señor ya se encarga de lo espiritual.",
-        "Que sabemos que Él conoce el camino completo — eso da base para confiar; y prepararse espiritualmente es la respuesta práctica a esa confianza.",
+        "Que Él conoce el camino entero, y prepararse espiritualmente es la respuesta a esa confianza.",
         "Que Dios tiene el control y por eso nosotros no necesitamos hacer nada para prepararnos."
       ],
       "correctAnswer": 2

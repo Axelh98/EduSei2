@@ -6,7 +6,8 @@
       "contenido": [
         "Las secciones 127 y 128 son dos cartas que José Smith escribió mientras estaba escondido, perseguido por autoridades de Misuri que querían extraditarlo. En medio de eso, lo que le ocupaba la cabeza era el bautismo por los muertos.",
         "La doctrina había empezado a enseñarse en Nauvoo poco antes, y la reacción fue inmediata. Wilford Woodruff escribió: «en cuanto lo oí, mi alma saltó de gozo […]. Fui y me bauticé por todos mis parientes muertos de los que me acordé». Vilate Kimball le escribió a su esposo: «¿No es esta una doctrina gloriosa?».",
-        "El versículo 15 de la sección 128 explica por qué importa tanto: «su salvación es necesaria y esencial para la nuestra […]: ellos sin nosotros no pueden ser perfeccionados, ni tampoco podemos nosotros ser perfeccionados sin nuestros muertos». No es una obra de caridad hacia los antepasados; es una dependencia mutua. El presidente Nelson lo dijo así: antes de la fundación del mundo, el Padre Celestial instituyó el bautismo para quienes murieran sin conocer el evangelio, porque «Él ama a esos hijos también»."
+        "El versículo 15 de la sección 128 explica por qué importa tanto: «su salvación es necesaria y esencial para la nuestra […]: ellos sin nosotros no pueden ser perfeccionados, ni tampoco podemos nosotros ser perfeccionados sin nuestros muertos». No es una obra de caridad hacia los antepasados; es una dependencia mutua. El presidente Nelson lo dijo así: antes de la fundación del mundo, el Padre Celestial instituyó el bautismo para quienes murieran sin conocer el evangelio, porque «Él ama a esos hijos también».",
+        "Falta la razón por la que existe algo que ofrecerles. El élder Christofferson la dijo en una frase: «nuestras labores en beneficio de los muertos dan elocuente testimonio de que Jesucristo es el divino Redentor de todo el género humano». Sin Su resurrección no habría nada que llevar al templo por nadie: «así como en Adán todos mueren, así también en Cristo todos serán vivificados» (1 Corintios 15:22). El bautismo por los muertos no inventa una salvación aparte; extiende la que Él ya compró, a los que no llegaron a enterarse."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 127:4",
           "texto": "Además, de cierto así dice el Señor: Continúese sin cesar la obra de mi templo, así como todas las obras que os he señalado; y redóblense vuestra diligencia, perseverancia, paciencia y obras, y de ningún modo perderéis vuestro galardón, dice el Señor de las Huestes.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/127?lang=spa&id=p4#p4"
+        },
+        {
+          "referencia": "1 Corintios 15:21–22",
+          "texto": "Porque por cuanto la muerte entró por un hombre, también por un hombre la resurrección de los muertos. Porque así como en Adán todos mueren, así también en Cristo todos serán vivificados.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=spa&id=p21-p22#p21"
         }
       ]
     },
@@ -47,10 +53,10 @@
       "preguntas": [
         "Wilford Woodruff dijo que su alma «saltó de gozo» al escuchar esta doctrina. ¿Por qué te parece que reaccionó así?",
         "«Ellos sin nosotros no pueden ser perfeccionados». ¿Qué te dice esa dependencia mutua?",
-        "El presidente Nelson dice que Dios «ama a esos hijos también». ¿Qué problema resuelve esa afirmación?",
+        "Buscá en 1 Corintios 15:21–22, dentro del bloque de escrituras, la razón por la que hay algo que ofrecerle a alguien que ya murió. ¿Qué dice ahí Pablo que ocurre «en Cristo», y qué pasaría con esta doctrina sin eso?",
         "¿Qué le responderías a alguien que pregunta qué pasa con quienes murieron sin conocer el evangelio?",
         "¿Cuántos nombres de tus antepasados conocés? ¿Hasta qué generación llegás?",
-        "Averiguá esta semana una sola cosa sobre un antepasado tuyo. ¿A quién le vas a preguntar y cuándo?"
+        "Averiguá esta semana una sola cosa sobre un antepasado tuyo: ¿a quién le vas a preguntar y cuándo? Cuando lo sepas, orá por esa persona y anotá lo que sentiste."
       ]
     }
   ],
@@ -60,7 +66,7 @@
       "question": "¿En qué circunstancias escribió José Smith las cartas que hoy son las secciones 127 y 128?",
       "options": [
         "Mientras dirigía la construcción del templo de Nauvoo.",
-        "Mientras estaba escondido, perseguido por autoridades que querían extraditarlo a Misuri.",
+        "Mientras estaba escondido, perseguido a partir de Misuri.",
         "Durante su encierro en la cárcel de Liberty.",
         "En el viaje de regreso desde Salem, Massachusetts."
       ],
@@ -84,7 +90,7 @@
         "La historia familiar y los registros genealógicos.",
         "El sellamiento de las familias en el templo.",
         "La transmisión de la fe de una generación a otra.",
-        "El bautismo por los muertos."
+        "El bautismo vicario por los muertos en el templo."
       ],
       "correctAnswer": 3
     },
@@ -92,7 +98,7 @@
       "id": 4,
       "question": "El presidente Nelson enseñó que el Padre Celestial instituyó el bautismo para quienes murieran sin conocer el evangelio, «antes de la fundación del mundo». ¿Qué muestra ese dato?",
       "options": [
-        "Que la provisión no fue una solución improvisada, sino parte del plan desde el principio.",
+        "Que no fue una solución improvisada, sino parte del plan original.",
         "Que la ordenanza se reveló recién en la época de Nauvoo por conveniencia práctica.",
         "Que las personas que mueren sin el evangelio quedan en desventaja permanente.",
         "Que el bautismo por los muertos reemplaza al bautismo en vida."
@@ -104,7 +110,7 @@
       "question": "Ana pregunta qué pasa con su abuela, que murió sin haber conocido la Iglesia. Según Doctrina y Convenios 128:15–18 y la enseñanza del presidente Nelson, ¿qué puede responderle a alguien?",
       "options": [
         "Que su situación se resolverá en el juicio final según sus obras.",
-        "Que Dios previó desde antes de la fundación del mundo una manera de darle esas bendiciones, y que Ana puede participar en ella.",
+        "Que Dios previó desde antes del mundo una manera de darle esas bendiciones.",
         "Que solo los familiares directos pueden realizar esas ordenanzas.",
         "Que la respuesta depende de si su abuela tuvo oportunidad de escuchar el evangelio."
       ],
@@ -115,8 +121,8 @@
       "question": "Wilford Woodruff dijo que al oír la doctrina del bautismo por los muertos «mi alma saltó de gozo» y fue a bautizarse por todos los parientes que recordaba. ¿Qué revela esa reacción?",
       "options": [
         "Que los primeros santos tenían más conocimiento genealógico que nosotros.",
-        "Que la práctica se realizaba sin los registros que hoy se exigen.",
-        "Que la doctrina se recibió como una buena noticia y no como una obligación adicional.",
+        "Que la práctica se realizaba sin los registros que actualmente se exigen.",
+        "Que la doctrina se recibió como buena noticia y no como obligación.",
         "Que existía urgencia por completar las ordenanzas antes de perder Nauvoo."
       ],
       "correctAnswer": 2
@@ -127,8 +133,8 @@
       "options": [
         "Que la obra por los muertos tiene prioridad sobre las ordenanzas de los vivos.",
         "Que la diligencia se exige sobre todo a quienes tienen antepasados conocidos.",
-        "Que la perfección de los muertos depende exclusivamente del esfuerzo de sus descendientes.",
-        "Que la obra del templo no es un servicio opcional hacia otros, sino parte de la propia salvación."
+        "Que la perfección de los muertos depende solo del esfuerzo de sus descendientes.",
+        "Que la obra del templo no es un servicio opcional sino parte de la propia salvación."
       ],
       "correctAnswer": 3
     }

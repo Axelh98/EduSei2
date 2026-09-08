@@ -6,12 +6,18 @@
       "contenido": [
         "Esta instancia de evaluación cierra el tercer bloque del año. No es un examen de contenidos académicos: es una invitación a medir el crecimiento espiritual real. El Señor no evalúa cuánto sabemos, sino en quién nos estamos convirtiendo.",
         "Las lecciones del tercer bloque cubrieron principios sobre el llamado al servicio (Doctrina y Convenios 30–36), la congregación y la unidad (37–38) y la fidelidad a los convenios (39–40). La evaluación espiritual genuina pregunta otra cosa: ¿cómo cambié?, ¿qué principio aprendido estoy aplicando?, ¿qué pasaje del Dominio de la Doctrina puedo usar en una conversación real?",
-        "Conviene responder por escrito y con honestidad, incluso cuando la respuesta sincera sea «todavía nada». Ese «todavía nada» es información útil: muestra exactamente dónde empezar el bloque siguiente, y vale mucho más que una respuesta prolija que nadie va a verificar. También conviene guardar lo que escribas, porque la próxima evaluación se vuelve mucho más útil si podés comparar contra algo concreto en vez de contra tu recuerdo, que casi siempre es demasiado duro o demasiado indulgente."
+        "Conviene responder por escrito y con honestidad, incluso cuando la respuesta sincera sea «todavía nada». Ese «todavía nada» es información útil: muestra exactamente dónde empezar el bloque siguiente, y vale mucho más que una respuesta prolija que nadie va a verificar. También conviene guardar lo que escribas, porque la próxima evaluación se vuelve mucho más útil si podés comparar contra algo concreto en vez de contra tu recuerdo, que casi siempre es demasiado duro o demasiado indulgente.",
+        "Conviene también mirar la evaluación desde el lado del que la pide. En Doctrina y Convenios 19:23 el Señor resume en una frase lo que espera de este trabajo: «Aprende de mí y escucha mis palabras; camina en la mansedumbre de mi Espíritu, y en mí tendrás paz». No dice «rendí cuentas», dice «aprende de mí». La medida no es cuánto material cubriste, sino cuánto te acercaste a Jesucristo, y Su promesa a quien hace ese trabajo es paz en Él, no una calificación. Por eso una respuesta honesta de «todavía nada» no es un fracaso: es el punto exacto desde donde Él puede empezar a trabajar."
       ]
     },
     {
       "tipo": "escrituras",
       "citas": [
+        {
+          "referencia": "Doctrina y Convenios 19:23",
+          "texto": "Aprende de mí y escucha mis palabras; camina en la mansedumbre de mi Espíritu, y en mí tendrás paz.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=spa&id=p23#p23"
+        },
         {
           "referencia": "Doctrina y Convenios 38:30",
           "texto": "Si estáis preparados, no temeréis.",
@@ -26,14 +32,16 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "La mejor evaluación espiritual no mide lo que sabés sino lo que hacés con lo que sabés. Si las lecciones del tercer bloque te desafiaron a algo concreto — ser más valiente para testificar, más unido con alguien, más fiel a una promesa — esa es la medida real del aprendizaje. Establecé una meta para el próximo bloque que sea específica, alcanzable y tuya."
+      "contenido": [
+        "La mejor evaluación espiritual no mide lo que sabés, sino lo que hacés con lo que sabés. Si las lecciones de este bloque te desafiaron a algo concreto —ser más valiente para testificar, más unido con alguien, más fiel a una promesa—, esa es la medida real del aprendizaje. Y la vara la puso el propio Salvador en Doctrina y Convenios 19:23: aprender de Él, escuchar Sus palabras y andar en la mansedumbre de Su Espíritu, con la promesa de que en Él vas a tener paz. Establecé una meta para el próximo bloque que sea específica, alcanzable y tuya, y pedile a Él que la sostenga."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuál fue la lección de este bloque que más impacto tuvo en tu vida personal, y por qué?",
         "¿Qué principio aprendido en estas semanas estás aplicando activamente fuera del aula de Seminario?",
-        "¿Qué pasaje del Dominio de la Doctrina dominás mejor ahora que hace un mes, y cómo lo usaste?",
+        "Buscá en Doctrina y Convenios 19:23 los tres verbos que el Señor usa antes de prometer paz. ¿Cuál de los tres te está costando más en este bloque?",
         "¿En qué área de tu vida ves crecimiento espiritual real desde que comenzó el año?",
         "¿Qué meta espiritual concreta te ponés para el próximo bloque de estudio?",
         "Escribí tu respuesta más honesta a esta pregunta: si alguien mirara solo tu última semana, ¿qué diría que aprendiste en Seminario este bloque?"
@@ -45,10 +53,10 @@
       "id": 1,
       "question": "De los principios estudiados en las semanas 6–8, ¿cuál de los siguientes pertenece específicamente a D&C 38:27?",
       "options": [
-        "'Si no sois uno, no sois míos'.",
-        "'Si estáis preparados, no temeréis'.",
-        "'Abrid vuestra boca y no la cerréis'.",
-        "'El campo ya está listo para la siega'."
+        "«Si no sois uno, no sois míos», dice el Señor.",
+        "«Si estáis preparados, entonces no habréis de temer».",
+        "«Abrid vuestra boca y no la cerréis en ningún momento».",
+        "«El campo ya está blanco y listo para la siega»."
       ],
       "correctAnswer": 0
     },
@@ -69,7 +77,7 @@
       "options": [
         "Porque la existencia histórica de Cristo es cuestionada por muchos historiadores modernos.",
         "Porque los datos históricos son suficientes para establecer la base de la fe cristiana.",
-        "Porque si Cristo vive, intercede por nosotros ahora mismo y Su poder está disponible hoy — no es solo un recuerdo.",
+        "Porque si Cristo vive, intercede por nosotros hoy mismo y Su poder está disponible ahora.",
         "Porque la declaración la firman doce personas y eso la hace más confiable que los registros históricos."
       ],
       "correctAnswer": 2
@@ -81,7 +89,7 @@
         "Que la preparación material para las tribulaciones y la fe en la resurrección son equivalentes.",
         "Que ambos tratan del regreso físico de Cristo a la tierra en los últimos días.",
         "Que el miedo y la Resurrección solo se relacionan en el contexto de los mártires.",
-        "Que la preparación espiritual y la victoria de Cristo sobre la muerte eliminan las razones últimas del miedo más profundo."
+        "Que la preparación espiritual y la victoria de Cristo sobre la muerte quitan el miedo."
       ],
       "correctAnswer": 3
     },
@@ -89,7 +97,7 @@
       "id": 5,
       "question": "Joaquín estudió las semanas 6–8 pero no puede recordar ningún principio que haya aplicado fuera del Seminario. ¿Qué dice eso sobre la diferencia entre aprender y crecer?",
       "options": [
-        "Que recibió información pero no la convirtió en cambio — el aprendizaje real siempre deja una huella en cómo vivimos.",
+        "Que recibió información pero no la convirtió en un cambio real de vida.",
         "Que eso es normal y no hay problema porque la siembra tarda en dar fruto.",
         "Que el Seminario falló en hacer el contenido relevante para su vida.",
         "Que Joaquín tiene mala memoria y necesita técnicas de memorización más efectivas."
@@ -101,7 +109,7 @@
       "question": "Sofía identificó que el principio de D&C 30 ('temer a los hombres') describe exactamente algo que ella hace. ¿Qué haría la Sofía más fiel con ese reconocimiento esta semana?",
       "options": [
         "Escribirlo en su diario y seguir con su vida normal hasta que se sienta lista para cambiar.",
-        "Identificar una situación concreta esta semana donde puede elegir temer al Señor en lugar de temer a las personas.",
+        "Identificar una situación concreta esta semana donde pueda temer al Señor y no a la gente.",
         "Pedirle al maestro que dé una lección especial sobre ese tema para toda la clase.",
         "Compartirlo con sus amigos del Seminario para que también se examinen a sí mismos."
       ],
@@ -113,7 +121,7 @@
       "options": [
         "Que la geografía física del traslado a Ohio fue el evento más importante de ese período.",
         "Que los primeros miembros de la Iglesia eran menos fieles que los miembros actuales.",
-        "Que el miedo — a los hombres, a los sacrificios, a los costos — es el principal obstáculo que el Señor pide superar para ser Su discípulo.",
+        "Que el miedo —a los hombres, al sacrificio, al costo— es el obstáculo que hay que superar.",
         "Que la Iglesia necesitaba más organización antes de poder avanzar la obra del Señor."
       ],
       "correctAnswer": 2

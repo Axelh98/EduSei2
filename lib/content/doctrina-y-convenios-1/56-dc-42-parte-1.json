@@ -34,17 +34,20 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 42 establece que la Iglesia opera por leyes reveladas, no por tradiciones humanas ni por preferencias individuales. Las leyes sobre la moralidad, la honestidad y la manera de enseñar no son un estándar impuesto desde afuera — son la descripción de quién es Cristo y de quién Sus discípulos están aprendiendo a ser. La promesa de D&C 42:61 es especialmente motivadora: quienes persistan en buscar recibirán revelación sobre revelación, construyendo un edificio de conocimiento espiritual que trae gozo y vida eterna."
+      "contenido": [
+        "D&C 42 establece que la Iglesia opera por leyes reveladas, no por tradiciones humanas ni por preferencias individuales. Las leyes sobre la moralidad, la honestidad y la manera de enseñar no son un estándar impuesto desde afuera — son la descripción de quién es Cristo y de quién Sus discípulos están aprendiendo a ser. La promesa de D&C 42:61 es especialmente motivadora: quienes persistan en buscar recibirán revelación sobre revelación, construyendo un edificio de conocimiento espiritual que trae gozo y vida eterna.",
+        "Y la ley que ordena todo esto no es un reglamento: es la manera en que Jesucristo cuida a Su pueblo. Cada mandamiento de la sección apunta a proteger a alguien —al que enseña, al que recibe, al vecino—, y Su promesa a quien la guarda es tener Su Espíritu como compañía constante."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Por qué dice el Señor en D&C 42:14 que si no recibís el Espíritu, no enseñaréis? ¿Qué implica eso para cómo preparás una lección o un discurso?",
         "¿Cómo explicarías a alguien que no es miembro de la Iglesia por qué los estándares morales de D&C 42 son relevantes hoy?",
-        "¿Qué área de tu carácter personal se ve desafiada por las leyes de D&C 42?",
+        "Volvé a leer Doctrina y Convenios 42:14. ¿Qué condición pone el Señor antes de mandar enseñar, y qué dice que pasa si esa condición no se cumple?",
         "¿Qué significa para vos la promesa de D&C 42:61? ¿Qué harías diferente en tu estudio si creyeras de verdad esa promesa?",
         "¿Hay alguna ley del evangelio que estás guardando más por obligación que por convicción? ¿Qué cambiaría si la guardaras por amor?",
-        "¿Cuál de las leyes de Doctrina y Convenios 42 vas a estudiar esta semana para entender el porqué detrás del mandato, y no solo el mandato?"
+        "¿Qué parte de la ley del Señor te está costando más ahora mismo? Ponelo en oración esta semana y anotá qué te sugirió hacer."
       ]
     }
   ],
@@ -78,7 +81,7 @@
         "El nivel de las intenciones pero no de los pensamientos espontáneos que uno no controla.",
         "Solo los actos premeditados con tiempo suficiente para haberlos evitado.",
         "Solo el comportamiento visible y verificable, porque Dios no juzga los pensamientos.",
-        "El nivel de los deseos y los pensamientos — la pureza del discípulo comienza en lo interno antes de manifestarse externamente."
+        "El nivel de los deseos y los pensamientos: la pureza empieza en lo interno."
       ],
       "correctAnswer": 3
     },
@@ -86,7 +89,7 @@
       "id": 4,
       "question": "D&C 42:61 promete 'revelación sobre revelación' a quienes pidan. ¿A qué condición está ligada esa promesa según el versículo?",
       "options": [
-        "A pedir — la promesa responde a la acción de preguntar con fe, no llega automáticamente.",
+        "A pedir: la promesa responde a preguntar con fe.",
         "A ser mayor de 18 años y tener el Sacerdocio Melquisedec activo.",
         "A pagar el diezmo completo durante al menos un año previo.",
         "A haber completado el programa de Seminario de cuatro años."
@@ -98,7 +101,7 @@
       "question": "Nicolás tiene el hábito de ver contenido en internet que sabe que no debería ver, aunque nunca actuó físicamente mal. Según D&C 42:22–23, ¿cómo evalúa el Señor esa situación?",
       "options": [
         "Como una debilidad humana normal que el Señor comprende completamente sin consecuencias.",
-        "Como un asunto de adulterio en el corazón — la ley opera en el nivel de los pensamientos y deseos, no solo de los actos.",
+        "Como un asunto de adulterio en el corazón: la ley alcanza también a los deseos internos.",
         "Como algo que solo importa cuando la persona está casada, no durante la adolescencia.",
         "Como algo sin consecuencias espirituales mientras no haya actos físicos inapropiados."
       ],
@@ -110,7 +113,7 @@
       "options": [
         "Que sus compañeros notarán que no se preparó espiritualmente y eso dañará su reputación.",
         "Que su lección tendrá errores doctrinales por no haber consultado las fuentes correctas.",
-        "Que la lección puede estar bien preparada en papel pero faltará el poder del Espíritu que transforma el conocimiento en testimonio.",
+        "Que la lección puede estar bien armada en papel y faltarle el poder del Espíritu.",
         "Que sin orar primero, el llamamiento de Renata como maestra no es válido para esa clase."
       ],
       "correctAnswer": 2
@@ -122,7 +125,7 @@
         "Que las leyes del evangelio se dividen en las que regulan lo público y las que regulan lo privado.",
         "Que el Señor distingue entre leyes para líderes y leyes para miembros comunes.",
         "Que la ley de la castidad y la ley de enseñanza son los dos mandamientos más importantes de D&C 42.",
-        "Que el evangelio opera desde adentro hacia afuera — la autenticidad interna (pureza, Espíritu) es la condición de la efectividad externa (enseñar, servir)."
+        "Que el evangelio opera de adentro hacia afuera: lo interno hace posible lo externo."
       ],
       "correctAnswer": 3
     }

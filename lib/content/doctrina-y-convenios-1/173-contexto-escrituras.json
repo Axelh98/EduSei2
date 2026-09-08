@@ -5,7 +5,8 @@
       "tipo": "contexto",
       "contenido": [
         "Comprender el contexto de un versículo —quién lo escribió, a quién, cuándo, por qué y en qué circunstancias— no es un ejercicio académico opcional, sino una herramienta esencial para interpretar correctamente la voluntad del Señor. Un versículo sacado de su contexto puede usarse para apoyar casi cualquier idea, incluidas las incorrectas. Conocer el contexto protege contra las interpretaciones erradas y profundiza la comprensión del mensaje original.",
-        "Esta lección enseña tres tipos de contexto que siempre conviene considerar: el histórico (¿qué estaba pasando cuando se escribió?), el literario (¿qué dicen los versículos anteriores y posteriores?) y el doctrinal (¿cómo se conecta con el resto de la doctrina del evangelio?). Los tres se aprenden con la práctica y valen para mucho más que el estudio de las Escrituras: la misma pregunta —«¿de dónde salió esto y qué había alrededor?»— es la que distingue a quien puede evaluar un video, una noticia o una cita suelta de quien solamente la comparte."
+        "Esta lección enseña tres tipos de contexto que siempre conviene considerar: el histórico (¿qué estaba pasando cuando se escribió?), el literario (¿qué dicen los versículos anteriores y posteriores?) y el doctrinal (¿cómo se conecta con el resto de la doctrina del evangelio?). Los tres se aprenden con la práctica y valen para mucho más que el estudio de las Escrituras: la misma pregunta —«¿de dónde salió esto y qué había alrededor?»— es la que distingue a quien puede evaluar un video, una noticia o una cita suelta de quien solamente la comparte.",
+        "Hay un contexto que abarca a todos los demás. Cuando Jesús resucitado caminó con dos discípulos hacia Emaús, no empezó explicando quién era: «comenzando desde Moisés y siguiendo por todos los profetas, les declaraba en todas las Escrituras lo que de él decían». El marco más grande de cualquier pasaje es Él. Por eso vale hacerse siempre la misma pregunta al terminar de contextualizar un versículo: ¿qué me enseña esto sobre el Salvador, sobre Su amor y sobre Su poder en mi vida? Si el contexto no llega hasta ahí, el trabajo quedó a mitad de camino."
       ]
     },
     {
@@ -15,6 +16,11 @@
           "referencia": "Doctrina y Convenios 18:3–4",
           "texto": "Y si sabes que son verdaderas, he aquí, te mando que confíes en las cosas que están escritas; porque en ellas se hallan escritas todas las cosas concernientes al fundamento de mi iglesia, mi evangelio y mi roca.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=spa&id=p3-p4#p3"
+        },
+        {
+          "referencia": "Lucas 24:27",
+          "texto": "Y comenzando desde Moisés y siguiendo por todos los profetas, les declaraba en todas las Escrituras lo que de él decían.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24?lang=spa&id=p27#p27"
         },
         {
           "referencia": "2 Pedro 1:20",
@@ -28,21 +34,23 @@
       "autor": "Presidente Thomas S. Monson",
       "fuente": "«Sé lo mejor que puedas ser», Liahona, mayo de 2009, pág. 68",
       "texto": "Familiarícense con las lecciones que se enseñan en las Escrituras. Aprendan las circunstancias y el entorno de las parábolas del Maestro y las admoniciones de los profetas. Estúdienlas como si les hablaran a ustedes, porque así es.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2009/04/be-your-best-self?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2009/04/be-your-best-self?lang=spa&id=p18#p18"
     },
     {
       "tipo": "conclusion",
-      "contenido": "Comprender el contexto de las Escrituras es una habilidad que protege la fe y la profundiza simultáneamente. Para un joven que enfrenta interpretaciones incorrectas de versículos en redes sociales o en conversaciones, saber cómo contextualizar un pasaje es una defensa sólida y un instrumento de enseñanza poderoso. Esta habilidad, combinada con las otras herramientas de estudio aprendidas en el año, te convierte en un estudiante genuinamente independiente de las Escrituras."
+      "contenido": [
+        "Comprender el contexto de las Escrituras es una habilidad que protege la fe y la profundiza al mismo tiempo. Para un joven que se cruza con interpretaciones incorrectas de versículos en redes o en una conversación, saber contextualizar un pasaje es una defensa sólida y también un instrumento para enseñar. Combinada con las otras herramientas de estudio del año, te convierte en un estudiante genuinamente independiente de las Escrituras. Pero la pregunta que cierra el trabajo no es histórica sino personal: cuando ya sabés quién escribió, a quién y por qué, preguntate qué te muestra el pasaje sobre Jesucristo y sobre Su misericordia, que es de quien hablan todas las Escrituras."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuáles son los tres tipos de contexto que hay que considerar al estudiar un versículo? ¿Cuál usás menos habitualmente?",
         "¿Alguna vez viste un versículo usado fuera de contexto para apoyar una idea incorrecta? ¿Cómo lo reconociste?",
-        "Tomá D&C 58:26–27. ¿Qué cambia en tu comprensión de ese versículo cuando conocés el contexto histórico en que fue revelado?",
+        "Releé Lucas 24:27. ¿Desde dónde empieza Jesús a explicarles las Escrituras a los dos discípulos, y qué dice el versículo que les estaba mostrando en todas ellas?",
         "¿Cómo puede conocer el contexto de un versículo proteger tu fe cuando enfrentás críticas o interpretaciones erróneas?",
         "¿Qué versículo del semestre te gustaría estudiar en más profundidad usando las tres categorías de contexto?",
-        "Tomá una cita o un versículo que hayas visto circular en redes y buscá de dónde sale. ¿Cuál elegís y qué esperás encontrar al leer lo que estaba alrededor?"
+        "Tomá una cita o un versículo que hayas visto circular en redes y buscá de dónde sale. Después de leer lo que estaba alrededor, llevalo al Señor y anotá qué cambió en tu manera de entenderlo."
       ]
     }
   ],
@@ -51,12 +59,12 @@
       "id": 1,
       "question": "La lección describe tres tipos de contexto esenciales para interpretar correctamente un versículo. ¿Cuáles son?",
       "options": [
-        "Textual, lingüístico y hermenéutico.",
-        "Personal, comunitario y eclesial.",
-        "Histórico (cuándo y por qué), literario (qué dicen los versículos alrededor) y doctrinal (cómo se conecta con el resto de la doctrina).",
-        "Geográfico, político y cultural."
+        "Textual, lingüístico y hermenéutico, según la tradición de los estudios bíblicos",
+        "Histórico (cuándo y por qué), literario (lo que rodea) y doctrinal (el resto)",
+        "Personal, comunitario y eclesial, según cómo lo recibe cada congregación",
+        "Geográfico, político y cultural, según dónde se dio cada revelación registrada"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 2,
@@ -65,7 +73,7 @@
         "Que solo los profetas y apóstoles pueden interpretar correctamente las Escrituras.",
         "Que las Escrituras deben leerse siempre en grupo para evitar errores de interpretación.",
         "Que cada persona puede interpretar las Escrituras como mejor le parezca sin referencia externa.",
-        "Que las Escrituras no pueden interpretarse individualmente de manera aislada — forman un cuerpo coherente y la interpretación correcta considera ese cuerpo completo."
+        "Que las Escrituras forman un cuerpo coherente y se interpretan considerándolo entero."
       ],
       "correctAnswer": 3
     },
@@ -73,7 +81,7 @@
       "id": 3,
       "question": "El presidente Monson invitó a aprender «las circunstancias y el entorno de las parábolas del Maestro y las admoniciones de los profetas». ¿Por qué un versículo sacado de su contexto puede terminar apoyando ideas que el autor nunca quiso decir?",
       "options": [
-        "Porque el significado de un texto depende en parte de lo que lo rodea: quién habla, a quién y en qué situación.",
+        "Porque el significado depende también de lo que lo rodea: quién habla, a quién y cuándo.",
         "Porque quien cita mal un versículo siempre lo hace con intención de manipular a otros.",
         "Porque los versículos aislados resultan más difíciles de memorizar que los pasajes completos.",
         "Porque los versículos fuera de contexto pierden de forma automática su valor espiritual."
@@ -85,7 +93,7 @@
       "question": "¿Cómo protege el conocimiento del contexto histórico de las revelaciones de D&C la fe de un joven que encuentra críticas históricas sobre esas revelaciones en internet?",
       "options": [
         "Porque el contexto histórico elimina todas las dificultades que las críticas presentan.",
-        "Porque entender el contexto original de una revelación —quién la recibió, cuándo, por qué— permite evaluar con más precisión si una crítica distorsiona ese contexto o no.",
+        "Porque saber quién recibió la revelación y por qué permite ver si la crítica distorsiona.",
         "Porque el conocimiento histórico reemplaza la necesidad de la fe.",
         "Porque las críticas históricas nunca son válidas cuando vienen de fuera de la Iglesia."
       ],
@@ -97,27 +105,27 @@
       "options": [
         "Cualquiera de los tres — todos son igualmente válidos como primer paso y producen resultados idénticos.",
         "El contexto doctrinal — comparar el versículo con lo que el profeta actual enseña.",
-        "El contexto histórico — entender cuándo fue revelada esa sección, a quién y en qué circunstancias específicas.",
+        "El contexto histórico: cuándo fue revelada esa sección, a quién y en qué circunstancia.",
         "El contexto literario — leer los versículos anteriores y posteriores para ver el significado más amplio."
       ],
       "correctAnswer": 2
     },
     {
       "id": 6,
-      "question": "Nicolás quiere estudiar D&C 58:26–27 en profundidad. Según la lección, ¿cuál sería el proceso completo de contextualización?",
+      "question": "Nicolás quiere estudiar Doctrina y Convenios 18:3–4 en profundidad. Según la lección, ¿cuál sería el proceso completo de contextualización?",
       "options": [
-        "Pedirle al maestro de Seminario que lo explique en la próxima clase.",
-        "Leer el versículo diez veces hasta tenerlo memorizado con precisión.",
-        "Buscar el versículo en Google para ver cuántas personas lo citan en blogs religiosos.",
-        "Investigar quién estaba en Misuri cuando fue revelado (histórico), leer los versículos 24–30 del capítulo (literario), y conectarlo con D&C 46 y principios de mayordomía (doctrinal)."
+        "Pedirle al maestro de Seminario que se lo explique en la próxima clase",
+        "Leer el versículo diez veces hasta tenerlo memorizado con precisión",
+        "Ver quién la recibió (histórico), leer los versículos vecinos (literario) y su doctrina",
+        "Buscar el versículo en internet para ver cuántas personas lo citan en sus blogs"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Las herramientas de estudio (lección anterior) y el contexto de las Escrituras (esta lección) juntos forman un sistema. ¿Cuál es el principio integrador?",
       "options": [
-        "Que ambos sirven al mismo objetivo: convertir al discípulo en un estudiante independiente y preciso de las Escrituras — las herramientas dan acceso a la información y el contexto enseña cómo usarla correctamente.",
+        "Que las herramientas dan acceso a la información y el contexto enseña a usarla como debe.",
         "Que las herramientas son digitales y el contexto es una habilidad analítica sin relación con las herramientas.",
         "Que el contexto es más importante que las herramientas para la comprensión espiritual.",
         "Que las herramientas son para principiantes y el contexto es para estudiantes avanzados."

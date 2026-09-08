@@ -6,12 +6,18 @@
       "contenido": [
         "Leer la Escritura y encontrar verdades del evangelio en la Escritura son dos cosas distintas. Podés terminar un capítulo entero y no llevarte nada que cambie tu vida. O podés leer tres versículos y encontrar un principio que transforma cómo tomás una decisión esa semana.",
         "Esta lección enseña el proceso de identificar, formular y aplicar verdades doctrinales del texto bíblico. Una 'verdad del evangelio' bien formulada tiene dos partes: un principio ('cuando hacemos X') y una consecuencia promisoria ('el Señor hace Y'). No es solo una observación histórica ('los israelitas cruzaron el mar Rojo') sino un principio transferible ('cuando actuamos con fe en las palabras del profeta, el Señor abre el camino').",
-        "El dominio de esta habilidad transforma el estudio de las Escrituras de una actividad religiosa pasiva a una fuente activa de guía personal. Cada vez que encontrás una verdad del evangelio y la aplicás a tu situación, las Escrituras se convierten en lo que el Señor prometió: una lámpara a tus pies."
+        "El dominio de esta habilidad transforma el estudio de las Escrituras de una actividad religiosa pasiva a una fuente activa de guía personal. Cada vez que encontrás una verdad del evangelio y la aplicás a tu situación, las Escrituras se convierten en lo que el Señor prometió: una lámpara a tus pies.",
+        "Hay un motivo por el que este trabajo vale la pena, y Jesús lo dijo en una frase: «Escudriñad las Escrituras… ellas son las que dan testimonio de mí». Toda verdad del evangelio que encontrás termina apuntando al mismo lugar. Cuando formulás un principio junto con Su promesa —«cuando hago esto, el Señor hace aquello»—, lo que estás poniendo por escrito no es una regla de conducta más: es algo que acabás de descubrir sobre Su carácter. Por eso este hábito te cambia la semana y no solo el cuaderno. Lo que estás aprendiendo, en realidad, es a reconocerlo a Él."
       ]
     },
     {
       "tipo": "escrituras",
       "citas": [
+        {
+          "referencia": "Juan 5:39",
+          "texto": "Escudriñad las Escrituras, porque a vosotros os parece que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/5?lang=spa&id=p39#p39"
+        },
         {
           "referencia": "Salmos 119:105",
           "texto": "Lámpara es a mis pies tu palabra, y luz a mi camino.",
@@ -34,18 +40,18 @@
     {
       "tipo": "conclusion",
       "contenido": [
-        "Encontrar verdades del evangelio en las Escrituras es una habilidad que se desarrolla con práctica. El proceso: leer el texto, identificar el principio doctrinal, formularlo en palabras propias («cuando… entonces…») y aplicarlo a una situación concreta de tu vida. Cuando lo hacés con regularidad, las Escrituras dejan de ser un libro antiguo de historias y se convierten en la guía práctica que el Señor prometió. Practicalo hoy mismo con el primer pasaje que leas: escribí la verdad en una sola oración, con sus dos partes, y guardala."
+        "Encontrar verdades del evangelio en las Escrituras es una habilidad que se desarrolla con práctica. El proceso: leer el texto, identificar el principio doctrinal, formularlo en palabras propias («cuando… entonces…») y aplicarlo a una situación concreta de tu vida. Cuando lo hacés con regularidad, las Escrituras dejan de ser un libro antiguo de historias y se convierten en la guía práctica que el Señor prometió, y sobre todo en el lugar donde se conoce a Jesucristo, que es de quien todas ellas dan testimonio. Practicalo hoy mismo con el primer pasaje que leas: escribí la verdad en una sola oración, con sus dos partes, y guardala."
       ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuál es la diferencia entre observar un hecho histórico en la Escritura y encontrar una verdad del evangelio aplicable a tu vida?",
-        "¿Podés tomar D&C 27:2 y formularlo como una verdad del evangelio con estructura 'cuando... entonces...'?",
-        "¿Alguna vez encontraste en las Escrituras algo que te ayudó a tomar una decisión concreta? ¿Qué fue?",
+        "Tomá 2 Timoteo 3:16–17 y formulalo como una verdad del evangelio con estructura «cuando… entonces…». ¿Qué te costó más: identificar el principio o la promesa?",
+        "Buscá en Juan 5:39 la razón que Jesús da para escudriñar las Escrituras. ¿En qué se diferencia de la razón por la que vos las abrís habitualmente?",
         "¿Qué hace que las Escrituras sean 'útiles para enseñar, redargüir, corregir e instruir', como dice 2 Timoteo 3:16?",
         "¿En qué situación concreta de tu vida esta semana podés aplicar una verdad del evangelio que encontraste en tus lecturas?",
-        "¿Qué situación concreta de los próximos siete días vas a usar como banco de pruebas para la verdad que formulaste?"
+        "Antes de aplicar la verdad que formulaste, ¿qué le vas a preguntar al Padre Celestial sobre ella en oración, y dónde vas a anotar lo que sentiste después?"
       ]
     }
   ],
@@ -55,7 +61,7 @@
       "question": "¿Cuál es la diferencia entre observar que 'los israelitas cruzaron el mar Rojo' y encontrar una verdad del evangelio en ese evento?",
       "options": [
         "No hay diferencia, ambas son formas válidas de leer las Escrituras",
-        "La verdad del evangelio es un principio transferible: 'cuando actuamos con fe en las palabras del profeta, el Señor abre el camino'",
+        "Es un principio transferible: «cuando actuamos con fe, el Señor abre camino»",
         "La verdad del evangelio solo existe en los versículos del Nuevo Testamento",
         "Encontrar verdades del evangelio requiere estudiar teología avanzada"
       ],
@@ -74,32 +80,32 @@
     },
     {
       "id": 3,
-      "question": "Tomá D&C 27:2: 'no importa qué coméis ni qué bebéis cuando participáis de la Santa Cena, si es así que lo hacéis con miras puestas únicamente en mi gloria.' ¿Cómo formularías la verdad del evangelio de ese versículo con la estructura 'cuando… entonces…'?",
+      "question": "Salmos 119:105 dice «Lámpara es a mis pies tu palabra». ¿Cómo se formula esa imagen como verdad del evangelio con la estructura «cuando… entonces…»?",
       "options": [
-        "Cuando tenemos hambre, entonces la Santa Cena nos alimenta físicamente",
-        "Cuando asistimos a la reunión sacramental, entonces Dios nos perdona automáticamente",
-        "Cuando participamos de la Santa Cena, entonces debemos usar pan de trigo sin levadura",
-        "Cuando participamos de la Santa Cena con la intención centrada en glorificar a Dios, entonces la ordenanza tiene poder real más allá del ritual"
+        "Cuando leemos las Escrituras, entonces desaparecen las dificultades del camino",
+        "Cuando estudiamos con constancia, entonces recibimos el plan completo de nuestra vida",
+        "Cuando acudimos a la palabra de Dios, entonces recibimos luz para el paso siguiente",
+        "Cuando memorizamos versículos, entonces se nos aclaran todas las decisiones futuras"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "2 Timoteo 3:16 dice que las Escrituras son 'útiles para enseñar, redargüir, corregir, instruir en justicia'. ¿Cuál de esas cuatro funciones encontrás más difícil de aceptar?",
+      "question": "Franco dice que le gusta leer las Escrituras, pero saltea los pasajes que lo incomodan. Según 2 Timoteo 3:16, ¿qué función de la Escritura se está perdiendo?",
       "options": [
-        "Redargüir o corregir, porque prefiero que las Escrituras me confirmen lo que ya creo en lugar de desafiarme",
-        "Instruir en justicia, porque no sé bien qué significa eso en la práctica",
-        "Todas son igualmente fáciles de aceptar",
-        "Enseñar, porque prefiero aprender de personas y no de textos"
+        "La de enseñar, que es la única función que se ejerce leyendo con atención",
+        "La de redargüir y corregir, que es justamente la que produce el cambio",
+        "La de instruir en justicia, que solo opera cuando el pasaje resulta agradable",
+        "La de consolar, que la Escritura ejerce cuando uno atraviesa una crisis fuerte"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "Valentina lee que los israelitas cruzaron el mar Rojo y anota: «Israel cruzó el mar Rojo huyendo de Egipto». Su maestra le dice que eso todavía no es una verdad del evangelio. ¿Qué le falta a su anotación?",
       "options": [
         "Precisar mejor los datos históricos del episodio y su fecha aproximada.",
-        "Un principio transferible con su consecuencia: cuando actuamos con fe en la palabra del profeta, el Señor abre camino.",
+        "Un principio con su consecuencia: cuando actuamos con fe, el Señor abre camino.",
         "Incluir una referencia cruzada con otro pasaje que narre el mismo hecho.",
         "Escribirla en primera persona para que resulte más cercana."
       ],
@@ -111,7 +117,7 @@
       "options": [
         "Memorizar el versículo y confiar en que su sentido se aclare con el tiempo.",
         "Aplicar el pasaje a la propia vida, después formularlo y por último leerlo con atención.",
-        "Leer el texto, identificar el principio, formularlo con la estructura «cuando… entonces…» y aplicarlo a una situación concreta.",
+        "Leer el texto, identificar el principio, formularlo y aplicarlo a algo concreto.",
         "Buscar primero un comentario que explique el pasaje y luego leerlo con esa interpretación."
       ],
       "correctAnswer": 2
@@ -123,7 +129,7 @@
         "Que el estudio doctrinal riguroso es suficiente por sí mismo para fortalecer la fe.",
         "Que las funciones incómodas de la Escritura —reprender, corregir— corresponden solo a los líderes.",
         "Que la instrucción en justicia es la única de las cuatro funciones que sigue vigente hoy.",
-        "Que la Escritura cumple su función cuando produce un cambio en quien la estudia, no solo cuando se la comprende."
+        "Que la Escritura cumple su función cuando produce un cambio en quien la estudia."
       ],
       "correctAnswer": 3
     }

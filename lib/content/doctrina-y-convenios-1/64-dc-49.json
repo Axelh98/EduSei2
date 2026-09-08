@@ -9,6 +9,11 @@
       "tipo": "escrituras",
       "citas": [
         {
+          "referencia": "Doctrina y Convenios 49:5",
+          "texto": "Así dice el Señor; pues yo soy Dios, y he mandado a mi Unigénito Hijo al mundo para la redención del mundo, y he decretado que el que lo reciba será salvo, y el que no lo reciba será condenado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=spa&id=p5#p5"
+        },
+        {
           "referencia": "Doctrina y Convenios 49:15–16",
           "texto": "Y además, de cierto os digo, que quien prohíbe casarse no es ordenado por Dios, porque el matrimonio lo decretó Dios para el hombre. Por tanto, es lícito que tenga una esposa, y los dos serán una sola carne, y todo esto para que la tierra cumpla el objeto de su creación.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=spa&id=p15-p16#p15"
@@ -25,21 +30,24 @@
       "autor": "Élder D. Todd Christofferson",
       "fuente": "«El porqué del matrimonio, el porqué de la familia», Liahona, mayo de 2015, págs. 52–53",
       "texto": "Él es quien, en el comienzo, creó a Adán y a Eva a Su imagen, varón y hembra; y los unió como esposo y esposa para que fuesen 'una sola carne' y se multiplicaran e hinchiesen la Tierra.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/04/why-marriage-why-family?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/04/why-marriage-why-family?lang=spa&id=p21#p21"
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 49 muestra que el Señor está dispuesto a corregir errores doctrinales con claridad, incluso cuando quienes los sostienen son sinceros. La sinceridad no convierte en verdad lo que no lo es. Para los jóvenes que viven en una cultura donde la 'verdad personal' es valorada por encima de la doctrina revelada, esta lección plantea una pregunta directa: ¿cómo decides qué es verdad — por lo que sientes, por lo que es culturalmente aceptado, o por lo que el Señor ha revelado a través de Sus profetas?"
+      "contenido": [
+        "D&C 49 muestra que el Señor está dispuesto a corregir errores doctrinales con claridad, incluso cuando quienes los sostienen son sinceros. La sinceridad no convierte en verdad lo que no lo es. Para los jóvenes que viven en una cultura donde la 'verdad personal' es valorada por encima de la doctrina revelada, esta lección plantea una pregunta directa: ¿cómo decides qué es verdad — por lo que sientes, por lo que es culturalmente aceptado, o por lo que el Señor ha revelado a través de Sus profetas?",
+        "Y antes de corregir un solo error, el Señor dice qué es lo cierto: que el Padre mandó a Su Unigénito para la redención del mundo, y que quien lo recibe es salvo. Esa es la vara para medir cualquier doctrina nueva."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuáles eran las creencias de los Shakers que el Señor corrigió en D&C 49? ¿Por qué las corrigió?",
         "¿Cómo distinguís entre una doctrina revelada por el Señor y una idea religiosa sincera pero no inspirada?",
-        "¿Hay tendencias culturales hoy que contradicen doctrinas del evangelio? ¿Cómo respondés cuando te enfrentás a ellas?",
+        "Mirá el versículo Doctrina y Convenios 49:5. ¿Para qué dice el Señor que envió a Su Hijo Unigénito, y qué decretó respecto de quien lo recibe?",
         "¿Qué herramientas usás para saber si algo que escuchás es doctrina verdadera o una interpretación humana?",
         "¿Cómo podría el conocimiento de esta lección ayudarte a responder a alguien que propone ideas religiosas atractivas pero contrarias al evangelio?",
-        "La próxima vez que escuches una idea religiosa que suene bien pero no te cierre, ¿cuál va a ser tu primer paso concreto para verificarla antes de aceptarla o descartarla?"
+        "¿Qué idea sobre el evangelio escuchaste últimamente que no sabés si es correcta? Llevala a la oración esta semana y contrastala con lo que enseña el profeta."
       ]
     }
   ],
@@ -50,7 +58,7 @@
       "options": [
         "Que la Segunda Venida ya había ocurrido y que no se debía pagar diezmo.",
         "Que las mujeres no podían predicar y que la Biblia era inútil.",
-        "Que el matrimonio era pecaminoso y que abstenerse de carne era señal de santidad.",
+        "Que el matrimonio era pecaminoso y abstenerse de carne, santidad.",
         "Que debían bautizarse repetidamente y que no existían los profetas."
       ],
       "correctAnswer": 2
@@ -62,7 +70,7 @@
         "Que es una tradición cultural sin base doctrinal específica.",
         "Que aplica solo a los miembros de la Iglesia con convenios del templo.",
         "Que es una institución temporal que termina con la muerte.",
-        "Que es lícito y ordenado por Dios — cualquier enseñanza contraria viene del adversario."
+        "Que es lícito y ordenado por Dios desde el principio de la creación."
       ],
       "correctAnswer": 3
     },
@@ -70,7 +78,7 @@
       "id": 3,
       "question": "Los Shakers eran personas sinceras que creían que sus doctrinas venían de Dios. ¿Qué nos enseña D&C 49 sobre la relación entre la sinceridad y la verdad?",
       "options": [
-        "Que se puede ser completamente sincero y estar completamente equivocado — la verdad no depende de la intensidad de la creencia.",
+        "Que se puede ser completamente sincero y estar completamente equivocado.",
         "Que los Shakers no eran sinceros, solo pretendían creer.",
         "Que la sinceridad siempre garantiza que las creencias son verdaderas.",
         "Que la sinceridad es suficiente — Dios acepta cualquier creencia mientras sea genuina."
@@ -82,7 +90,7 @@
       "question": "D&C 49:24 profetizó que 'los lamanitas florecerán como la rosa' antes del gran día del Señor. ¿Qué dice ese tipo de profecía sobre la naturaleza de las revelaciones del Señor?",
       "options": [
         "Que el Señor solo da profecías sobre el pasado para confirmar lo que ya ocurrió.",
-        "Que el Señor conoce el futuro con certeza y revela Su plan con precisión — cada profecía cumplida confirma Su autoridad.",
+        "Que el Señor conoce el futuro con certeza y revela Su plan con precisión.",
         "Que las profecías son metáforas poéticas sin cumplimiento literal esperado.",
         "Que esa profecía todavía no tiene relevancia porque los lamanitas no han florecido."
       ],
@@ -94,7 +102,7 @@
       "options": [
         "Que es una perspectiva cultural válida que los miembros pueden adoptar según su criterio.",
         "Que esa enseñanza tiene partes correctas que podrían complementar la doctrina del evangelio.",
-        "Que esa doctrina viene del adversario — el Señor declaró el matrimonio como ordenado por Él desde la creación.",
+        "Que esa doctrina viene del adversario: el Señor ordenó el matrimonio desde la creación.",
         "Que el matrimonio es importante pero los miembros deben decidir por sí mismos si es 'para ellos'."
       ],
       "correctAnswer": 2
@@ -106,7 +114,7 @@
         "Que su amigo está en lo correcto y la Iglesia no debería ser necesaria.",
         "Que debe mostrarle a su amigo estadísticas sobre cuántos miembros son más felices que los no miembros.",
         "Que la espiritualidad sin la Iglesia no existe en ninguna forma.",
-        "Que la sinceridad no garantiza la verdad — los Shakers eran sinceros y doctrinalmente erróneos. La fuente de autoridad importa, no solo la intensidad de la creencia."
+        "Que la sinceridad no garantiza la verdad: lo que importa es la fuente de autoridad."
       ],
       "correctAnswer": 3
     },
@@ -114,7 +122,7 @@
       "id": 7,
       "question": "D&C 49 corrige doctrinas sobre el matrimonio y la alimentación, y D&C 67 (que veremos después) desafía a los hombres a imitar las revelaciones. Ambas revelaciones defienden lo mismo. ¿Cuál es ese principio?",
       "options": [
-        "Que las revelaciones del Señor no pueden ser imitadas ni reemplazadas por la inteligencia humana — tienen origen y autoridad que ninguna tradición o argumento humano puede duplicar.",
+        "Que las revelaciones del Señor no las puede imitar ni reemplazar la inteligencia humana.",
         "Que las revelaciones de la Restauración son superiores en extensión a las de otras religiones.",
         "Que los apóstoles tienen autoridad sobre los profetas en asuntos doctrinales.",
         "Que toda doctrina debe ser verificada científicamente antes de ser enseñada en la Iglesia."

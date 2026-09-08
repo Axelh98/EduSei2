@@ -20,6 +20,11 @@
           "referencia": "Juan 17:3",
           "texto": "Y esta es la vida eterna: que te conozcan a ti, el único Dios verdadero, y a Jesucristo, a quien has enviado.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/17?lang=spa&id=p3#p3"
+        },
+        {
+          "referencia": "Doctrina y Convenios 130:22",
+          "texto": "El Padre tiene un cuerpo de carne y huesos, tangible como el del hombre; así también el Hijo; pero el Espíritu Santo no tiene un cuerpo de carne y huesos, sino es un personaje de Espíritu.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=spa&id=p22#p22"
         }
       ]
     },
@@ -28,21 +33,24 @@
       "autor": "Élder Neal A. Maxwell",
       "fuente": "«Testigos especiales de Cristo», Liahona, abril de 2001, pág. 5",
       "texto": "Bajo la dirección del Padre, Cristo era el Señor del universo, que creó incontables mundos, de los cuales el nuestro es solo uno.",
-      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/272-doctrine-and-covenants-76-19-24?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/272-doctrine-and-covenants-76-19-24?lang=spa&id=aside1_p3#aside1_p3"
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 76:19–24 establece la doctrina más fundamental de la Restauración: el Padre y el Hijo son seres separados y reales, y la vida eterna consiste en conocerlos personalmente. Todo el programa del evangelio — las ordenanzas, los convenios, el Seminario, la misión, el templo — existe para preparar personas que puedan entrar en esa relación. La visión de D&C 76 no es solo un registro histórico: es una descripción del destino hacia el que el evangelio te está conduciendo."
+      "contenido": [
+        "D&C 76:19–24 establece la doctrina más fundamental de la Restauración: el Padre y el Hijo son seres separados y reales, y la vida eterna consiste en conocerlos personalmente. Todo el programa del evangelio — las ordenanzas, los convenios, el Seminario, la misión, el templo — existe para preparar personas que puedan entrar en esa relación. La visión de D&C 76 no es solo un registro histórico: es una descripción del destino hacia el que el evangelio te está conduciendo.",
+        "Y lo que hace posible esa relación es el mismo Jesucristo que vieron a la diestra del Padre: Él abrió el camino y prometió que quienes le siguen verán Su rostro. Conocerlo no es una meta lejana reservada a los profetas; es la invitación que Él extiende a cada persona."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué doctrina sobre la naturaleza del Padre y del Hijo establece D&C 76:19–24?",
         "¿Cómo describe Juan 17:3 el propósito de la vida eterna? ¿Qué significa 'conocerlos' versus 'saber sobre ellos'?",
-        "¿Cómo cambiaría tu motivación para guardar los convenios saber que cada uno te acerca más a conocer al Padre y al Hijo personalmente?",
+        "Volvé a leer Doctrina y Convenios 76:19–20. ¿Qué dice el pasaje que tocó el Señor para que pudieran ver, y qué vieron enseguida?",
         "¿Qué aspectos del carácter del Padre y del Hijo querés conocer mejor? ¿Cómo podrías buscar ese conocimiento esta semana?",
         "¿Cómo explicarías a alguien que no es miembro de la Iglesia por qué los Santos de los Últimos Días creen que el Padre y el Hijo son seres separados?",
-        "Si conocer al Padre y al Hijo es la meta, ¿qué estás haciendo esta semana que efectivamente te acerca a eso, y qué estás haciendo solo por costumbre?"
+        "Si conocer al Padre y al Hijo es la meta, ¿qué les vas a pedir en oración esta semana? Anotá lo que te venga a la mente después de orar."
       ]
     }
   ],
@@ -53,7 +61,7 @@
       "options": [
         "'Que el Padre y el Hijo son uno en propósito aunque distintos en persona.'",
         "'Que el Salvador intercede continuamente por Sus discípulos ante el trono de Dios.'",
-        "'Que vive. Porque le vimos, aun a la diestra de Dios; y oímos la voz que daba testimonio de que Él es el Unigénito del Padre.'",
+        "'¡Que vive! Porque lo vimos, sí, a la diestra de Dios', y oyeron la voz del Padre.",
         "'Que Cristo resucitó y que Su Padre celestial lo recibió en gloria eterna.'"
       ],
       "correctAnswer": 2
@@ -65,7 +73,7 @@
         "Los ojos físicos de José y Sidney con una luz especial.",
         "Los corazones de José y Sidney para prepararlos emocionalmente.",
         "La mente de José Smith solamente, quien luego describió la visión a Sidney.",
-        "Los ojos del entendimiento de José y Sidney — no fue una experiencia física sino espiritual."
+        "Los ojos del entendimiento de los dos: no fue física sino espiritual."
       ],
       "correctAnswer": 3
     },
@@ -73,7 +81,7 @@
       "id": 3,
       "question": "D&C 76:22–23 establece que el Padre y el Hijo son seres separados — José vio al Hijo 'a la diestra de Dios'. ¿Qué doctrina sobre la naturaleza de Dios confirma directamente ese testimonio?",
       "options": [
-        "Que el Padre y el Hijo son seres distintos y separados — la Trinidad como tres personas en una es doctrinalmente incorrecta según esta visión.",
+        "Que el Padre y el Hijo son seres distintos y separados, no una sola persona.",
         "Que el Hijo es menor que el Padre porque está ubicado 'a su diestra' y no en el centro.",
         "Que el Espíritu Santo también fue visto en la visión aunque el texto no lo mencione.",
         "Que el Padre y el Hijo son la misma persona en diferentes manifestaciones."
@@ -85,7 +93,7 @@
       "question": "El élder Maxwell enseñó que, bajo la dirección del Padre, «Cristo era el Señor del universo, que creó incontables mundos, de los cuales el nuestro es solo uno». ¿Qué agrega Doctrina y Convenios 76:22–24 a esa afirmación?",
       "options": [
         "Que es el único pasaje de toda la Escritura donde se nombra al Padre y al Hijo juntos.",
-        "Que la declaración proviene de dos testigos que lo vieron, y que por medio de Él los mundos fueron creados y sus habitantes son engendrados hijos de Dios.",
+        "Que lo declaran dos testigos que lo vieron, y que por medio de Él fueron creados los mundos.",
         "Que es la sección más citada de Doctrina y Convenios, y de ahí proviene su autoridad.",
         "Que el testimonio vale por la posición de José Smith, superior a la de cualquier otro testigo."
       ],
@@ -97,7 +105,7 @@
       "options": [
         "Los escritos teológicos de los primeros padres de la Iglesia cristiana.",
         "Los argumentos filosóficos sobre la naturaleza de Dios desarrollados por teólogos modernos.",
-        "La visión de D&C 76 donde José y Sidney vieron al Hijo 'a la diestra de Dios' — dos seres distintos en dos posiciones distintas, vistas al mismo tiempo.",
+        "La visión de D&C 76: vieron al Hijo 'a la diestra de Dios', dos seres distintos.",
         "La traducción de José Smith de la Biblia que clarifica los versículos sobre la Trinidad."
       ],
       "correctAnswer": 2
@@ -109,7 +117,7 @@
         "Evidencia estadística sobre el número de personas que han testificado de Cristo.",
         "Los argumentos filosóficos del diseño inteligente que apuntan a un Creador.",
         "Evidencia arqueológica que confirma los hechos históricos del Nuevo Testamento.",
-        "El testimonio personal de dos hombres que lo vieron — no como creencia sino como experiencia directa. Si Tomás busca con fe, el mismo Espíritu que confirmó la visión puede confirmarle a él."
+        "El testimonio de dos hombres que lo vieron: experiencia directa, no creencia."
       ],
       "correctAnswer": 3
     },
@@ -117,7 +125,7 @@
       "id": 7,
       "question": "D&C 76:22–23 (testimonio de que 'vive') y 'El Cristo Viviente' (estudiado en la semana 7) comparten la misma declaración central separados por casi dos siglos. ¿Qué dice ese eco a través del tiempo sobre la naturaleza del testimonio del Salvador?",
       "options": [
-        "Que el testimonio verdadero del Salvador trasciende el tiempo — distintas personas en distintas épocas llegan a la misma certeza a través del mismo Espíritu, y esa convergencia es en sí misma una evidencia.",
+        "Que el testimonio verdadero del Salvador trasciende el tiempo: el mismo Espíritu lo confirma.",
         "Que los testimonios del siglo XIX son más válidos que los modernos porque están más cerca de Cristo.",
         "Que 'El Cristo Viviente' es solo una repetición formal de D&C 76 sin valor doctrinal adicional.",
         "Que el testimonio de Cristo pierde fuerza con el tiempo y debe actualizarse cada generación."

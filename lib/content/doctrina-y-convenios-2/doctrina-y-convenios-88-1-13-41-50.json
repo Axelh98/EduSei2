@@ -6,7 +6,8 @@
       "contenido": [
         "Doctrina y Convenios 88 fue llamada por José Smith «la hoja de olivo […] arrancada del árbol del paraíso», un mensaje de paz después de meses difíciles. Los versículos 6 al 13 explican qué es la luz de Cristo, y son de los pasajes más amplios de toda la Escritura.",
         "El texto dice que esa luz «existe en todas las cosas», que «da vida a todas las cosas» y que es «la ley por la cual se gobiernan todas las cosas». No es una metáfora de bondad: es lo que sostiene el universo, y al mismo tiempo lo que «vivifica vuestro entendimiento» (versículo 11). La misma luz que hace funcionar al sol es la que te permite reconocer que algo está bien o mal antes de que nadie te lo explique.",
-        "Eso tiene una consecuencia práctica que suele pasarse por alto: toda persona la tiene. El compañero que no cree en nada, el vecino de otra religión, la persona con la que discutiste ayer. La hermana Sharon Eubank lo dijo así: no importa cuánto se esfuerce, la oscuridad no puede apagar esa luz, jamás. Eso cambia cómo se mira a la gente y cómo se mira uno a sí mismo en las semanas malas."
+        "Eso tiene una consecuencia práctica que suele pasarse por alto: toda persona la tiene. El compañero que no cree en nada, el vecino de otra religión, la persona con la que discutiste ayer. La hermana Sharon Eubank lo dijo así: no importa cuánto se esfuerce, la oscuridad no puede apagar esa luz, jamás. Eso cambia cómo se mira a la gente y cómo se mira uno a sí mismo en las semanas malas.",
+        "Vale decir de quién es esa luz, porque el nombre está en el propio término: es la luz de Jesucristo. Juan lo escribió al empezar su evangelio: «en él estaba la vida, y la vida era la luz de los hombres. Y la luz resplandece en las tinieblas, y las tinieblas no la comprendieron» (Juan 1:4–5). No es una fuerza impersonal repartida por el universo: es Su vida sosteniendo la de todos. Por eso la hermana Eubank pudo decir que la oscuridad no la apaga jamás — no porque la luz sea resistente, sino porque Él lo es."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 88:49",
           "texto": "La luz en las tinieblas resplandece, y las tinieblas no la comprenden; no obstante, el día vendrá en que comprenderéis aun a Dios, siendo vivificados en él y por él.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=spa&id=p49#p49"
+        },
+        {
+          "referencia": "Juan 1:4–5",
+          "texto": "En él estaba la vida, y la vida era la luz de los hombres. Y la luz resplandece en las tinieblas, y las tinieblas no la comprendieron.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/1?lang=spa&id=p4-p5#p4"
         }
       ]
     },
@@ -47,10 +53,10 @@
       "preguntas": [
         "¿Qué imagen te viene a la cabeza cuando escuchás «la luz de Cristo»? ¿Coincide con lo que dicen los versículos 11 al 13?",
         "Doctrina y Convenios 88:13 dice que esa luz «da vida a todas las cosas» y es «la ley por la cual se gobiernan todas las cosas». ¿Qué te sorprende de esa descripción?",
-        "Si toda persona tiene esa luz, ¿cómo cambia eso la forma de mirar a alguien que piensa muy distinto de vos?",
+        "Volvé a leer Juan 1:4–5 en el bloque de escrituras. ¿Qué dice ahí Juan que había «en él», y qué le agrega eso a lo que la sección 88 llama la luz de Cristo?",
         "La hermana Eubank dice que sin una conexión fuerte con Cristo «comenzamos a morir espiritualmente». ¿Cómo se nota eso, según tu experiencia?",
         "¿Qué cosa concreta te mantiene conectado a esa fuente cuando la semana viene difícil?",
-        "Elegí una persona a la que sueles descartar rápido. ¿Qué vas a hacer esta semana para mirarla de otra manera?"
+        "Elegí una persona a la que solés descartar rápido: ¿qué vas a hacer esta semana para mirarla de otra manera? Orá por ella antes y anotá si cambió algo."
       ]
     }
   ],
@@ -60,7 +66,7 @@
       "question": "Según Doctrina y Convenios 88:7, ¿qué relación tiene la luz de Cristo con el sol?",
       "options": [
         "Que el sol fue creado como símbolo de esa luz.",
-        "Que Cristo está en el sol, es la luz del sol y el poder por el cual fue hecho.",
+        "Que Cristo está en el sol, es su luz y el poder que lo hizo.",
         "Que la luz del sol es la manifestación más débil de la luz de Cristo.",
         "Que ambas luces provienen de fuentes distintas pero cumplen la misma función."
       ],
@@ -72,7 +78,7 @@
       "options": [
         "Que alcanza a los justos, guía a los que buscan y aparta a los rebeldes.",
         "Que fue creada al principio, sostiene el presente y permanecerá para siempre.",
-        "Que existe en todas las cosas, da vida a todas las cosas y es la ley por la cual se gobiernan todas las cosas.",
+        "Que existe en todo, da vida a todo y es la ley que lo gobierna.",
         "Que ilumina, purifica y santifica a quienes la reciben."
       ],
       "correctAnswer": 2
@@ -83,8 +89,8 @@
       "options": [
         "Que solo los miembros de la Iglesia poseen esa capacidad de manera confiable.",
         "Que el entendimiento humano es independiente de cualquier influencia divina.",
-        "Que esa capacidad se adquiere solamente mediante la instrucción religiosa.",
-        "Que proviene de una luz que Dios da a toda persona, y no de una construcción puramente cultural."
+        "Que esa capacidad se adquiere exclusivamente con instrucción religiosa.",
+        "Que proviene de una luz que Dios da a toda persona, no de la cultura."
       ],
       "correctAnswer": 3
     },
@@ -92,7 +98,7 @@
       "id": 4,
       "question": "La hermana Eubank enseñó que «sin una fuerte conexión a Él, comenzamos a morir espiritualmente». ¿Qué imagen del progreso espiritual propone esa frase?",
       "options": [
-        "Que la vida espiritual requiere una conexión sostenida, y su ausencia produce un deterioro gradual.",
+        "Que la vida espiritual pide conexión sostenida, y sin ella se deteriora.",
         "Que la conexión con Cristo se restablece automáticamente con el tiempo.",
         "Que el deterioro espiritual es siempre resultado de una decisión consciente.",
         "Que el estado espiritual es estable mientras no se cometan faltas graves."
@@ -104,7 +110,7 @@
       "question": "Franco evita a un compañero de curso porque «no cree en nada y se burla de todo». Según Doctrina y Convenios 88:11–13, ¿qué está pasando por alto?",
       "options": [
         "Que la burla indica que la persona ya rechazó la luz de manera definitiva.",
-        "Que ese compañero también tiene la luz de Cristo, que está en todas las cosas y en toda persona.",
+        "Que ese compañero también tiene la luz de Cristo, que está en todo.",
         "Que evitar a quienes se burlan es lo que la Escritura recomienda.",
         "Que su compañero cambiará de actitud si recibe suficiente atención."
       ],
@@ -116,8 +122,8 @@
       "options": [
         "Que conviene esperar a que el sentimiento vuelva antes de retomar sus hábitos.",
         "Que la oscuridad espiritual es una etapa que solo atraviesan algunas personas.",
-        "Que las tinieblas no comprenden la luz, pero no la apagan: sentirse apagado no equivale a haberla perdido.",
-        "Que la fe se pierde efectivamente cuando deja de sentirse."
+        "Que las tinieblas no comprenden la luz, aunque no la apaguen.",
+        "Que la fe se pierde efectivamente en el momento en que deja de sentirse."
       ],
       "correctAnswer": 2
     },
@@ -128,7 +134,7 @@
         "Que la luz de Cristo actúa con independencia de lo que cada persona haga.",
         "Que la conexión espiritual es una metáfora sin correlato en la realidad física.",
         "Que quienes tienen más luz reciben mayores responsabilidades.",
-        "Que la vida —física y espiritual— depende de una fuente que está fuera de nosotros y hay que mantener cerca."
+        "Que la vida, física y espiritual, depende de una fuente externa."
       ],
       "correctAnswer": 3
     }

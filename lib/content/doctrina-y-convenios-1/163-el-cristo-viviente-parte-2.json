@@ -37,14 +37,16 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "El testimonio no se hereda — se construye. Los Apóstoles que firmaron 'El Cristo Viviente' no lo hicieron por tradición familiar sino por convicción personal. La invitación de esta lección es exactamente esa: pasar de un conocimiento de segunda mano a un testimonio propio. No importa qué tan joven seas — el Salvador te puede revelar la verdad de Su existencia si vos la buscás de la misma manera que Tomás, con honestidad y con disposición a creer."
+      "contenido": [
+        "El testimonio no se hereda: se construye. Los Apóstoles que firmaron «El Cristo Viviente» no lo hicieron por tradición familiar, sino por convicción propia, y Job lo dijo siglos antes con las mismas cuatro palabras que cualquiera puede llegar a decir: «yo sé que mi Redentor vive». Tomás también llegó ahí, aunque tardó. Escribí esta semana tu testimonio del Salvador en tres oraciones, incluida la parte que todavía no podés afirmar del todo, y guardalo para releerlo dentro de un año."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Con qué parte de 'El Cristo Viviente' te identificás más como testimonio propio, y con cuál todavía no podés decir que es tuyo?",
         "¿Qué similitudes ves entre Tomás en Juan 20 y alguien que conocés (o vos mismo) que duda sobre el Salvador?",
-        "Si tuvieras que escribir tu propio testimonio del Salvador en tres oraciones, ¿qué dirías?",
+        "Releé Juan 20:27–28. ¿Qué le pide Jesús a Tomás que haga exactamente, y con qué dos palabras le responde Tomás?",
         "¿Qué harías esta semana para que tu testimonio del Salvador sea más tuyo y menos heredado?",
         "¿A quién podrías compartirle este documento o una parte de tu testimonio del Salvador esta semana?",
         "¿Qué parte de tu testimonio todavía no podés afirmar con honestidad? Escribila igual, con la palabra «todavía» adelante, y volvé a leerla dentro de un mes."
@@ -58,7 +60,7 @@
       "options": [
         "Que Cristo fue elegido porque fue el primero en ofrecerse voluntariamente durante la Creación.",
         "Que la elección de Cristo ocurrió simultáneamente con la Caída, no antes.",
-        "Que la Expiación fue planificada antes de que este mundo existiera — Dios nunca fue tomado por sorpresa.",
+        "Que la Expiación estaba planificada desde antes de que este mundo existiera.",
         "Que el Plan fue diseñado de emergencia después de la Caída de Adán y Eva."
       ],
       "correctAnswer": 2
@@ -70,7 +72,7 @@
         "Son solo un detalle simbólico sin implicaciones sobre la naturaleza del cuerpo resucitado.",
         "Son un recordatorio visual de que sufrió, para generar gratitud en quienes lo vean.",
         "Sirven como identificación para que los santos lo reconozcan aunque no lo hayan visto antes.",
-        "Demuestran que la resurrección no elimina el registro físico del sacrificio — la Expiación es parte permanente de Su identidad."
+        "Que la resurrección no borra el registro del sacrificio: quedó como parte de quién es Él."
       ],
       "correctAnswer": 3
     },
@@ -78,7 +80,7 @@
       "id": 3,
       "question": "El documento describe a Cristo como 'la luz, la vida y la esperanza del mundo'. ¿Por qué usar tres palabras diferentes en lugar de una sola, como simplemente 'salvador'?",
       "options": [
-        "Porque cada una apunta a una necesidad diferente: oscuridad espiritual, muerte, y desesperanza — Cristo responde a las tres simultáneamente.",
+        "Porque cada una responde a algo distinto: la oscuridad, la muerte y la desesperanza.",
         "Porque son los tres títulos que los apóstoles usaban en sus discursos individuales y querían unificarlos.",
         "Porque 'luz' y 'vida' aplican a esta vida, pero 'esperanza' solo aplica a la vida futura.",
         "Por razones de estilo literario para hacer el documento más solemne y formal."
@@ -90,7 +92,7 @@
       "question": "Juan 20:27–28 describe a Tomás viendo las marcas del Salvador y exclamando '¡Señor mío y Dios mío!'. ¿Qué diferencia hay entre la fe de Tomás antes y después de ese momento?",
       "options": [
         "No hay diferencia real — Tomás siempre tuvo fe pero no la había expresado verbalmente.",
-        "Antes era fe de segunda mano basada en el testimonio de otros; después era fe de primera mano basada en experiencia personal.",
+        "Antes era una fe prestada por otros; después, una fe basada en lo que él mismo vivió.",
         "Después de ver a Cristo, Tomás ya no necesitaba fe porque tenía conocimiento absoluto.",
         "La fe de Tomás se debilitó porque los que creen sin ver son más bienaventurados."
       ],
@@ -102,7 +104,7 @@
       "options": [
         "Dejar de creer temporalmente para ver si la fe regresa por sí sola.",
         "Aceptar que la fe heredada es suficiente para toda la vida si los padres son fieles.",
-        "Buscar activamente sus propias experiencias espirituales — preguntar, estudiar y orar hasta que el testimonio sea suyo, no de sus padres.",
+        "Buscar sus propias experiencias: preguntar, estudiar y orar hasta que sea suyo.",
         "Esperar a ser mayor antes de buscar su propio testimonio porque no está lista."
       ],
       "correctAnswer": 2
@@ -114,7 +116,7 @@
         "Vida — debería asistir a más reuniones de la Iglesia para estar rodeado de personas que lo animen.",
         "Los tres atributos son iguales y Mateo debería elegir el que le suene mejor ese día.",
         "Luz — debería estudiar más doctrina para aclarar sus pensamientos.",
-        "Esperanza — podría leer el último párrafo del documento y orar específicamente por la paz que Cristo ofrece."
+        "Esperanza: leer el último párrafo y orar por la paz que Cristo ofrece."
       ],
       "correctAnswer": 3
     },
@@ -122,7 +124,7 @@
       "id": 7,
       "question": "El testimonio de Tomás ('¡Señor mío y Dios mío!') y el cierre del documento ('Él vive') son expresiones similares separadas por dos mil años. ¿Qué principio sobre el testimonio de Cristo une esas dos declaraciones?",
       "options": [
-        "Que el testimonio verdadero del Salvador trasciende el tiempo — distintas personas en distintas épocas llegan a la misma certeza por el mismo Espíritu.",
+        "Que el testimonio verdadero cruza los siglos: la misma certeza, el mismo Espíritu.",
         "Que los testimonios más poderosos son siempre breves y emocionales.",
         "Que los testimonios en grupo como el del documento son más válidos que los individuales como el de Tomás.",
         "Que solo los que vieron físicamente a Cristo pueden tener un testimonio completo."

@@ -17,6 +17,11 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa&id=p25#p25"
         },
         {
+          "referencia": "3 Nefi 18:21",
+          "texto": "Orad al Padre en vuestras familias, siempre en mi nombre, para que sean bendecidos vuestras esposas y vuestros hijos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=spa&id=p21#p21"
+        },
+        {
           "referencia": "Doctrina y Convenios 68:28",
           "texto": "Y también enseñarán a sus hijos a orar y a andar rectamente delante del Señor.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=spa&id=p28#p28"
@@ -28,18 +33,21 @@
       "autor": "Presidente Russell M. Nelson",
       "fuente": "«Cómo ser Santos de los Últimos Días ejemplares», Liahona, noviembre de 2018, págs. 113–114",
       "texto": "El nuevo curso de estudio integrado, centrado en el hogar y apoyado por la Iglesia, tiene el potencial de desatar el poder de las familias al seguir cada una de ellas dicho curso, de manera consciente y cuidadosa, para transformar su hogar en un santuario de fe. Prometo que a medida que trabajen con diligencia para remodelar su hogar, centrándolo en el aprendizaje del Evangelio, con el tiempo sus días de reposo serán verdaderamente una delicia.",
-      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/252-doctrine-and-covenants-68-25-31?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/252-doctrine-and-covenants-68-25-31?lang=spa&id=aside1_p2#aside1_p2"
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 68:25–31 pone la responsabilidad de la transmisión de la fe exactamente donde el Señor quiere que esté: en los padres. Para los jóvenes del Seminario, esa responsabilidad les espera en el futuro — pero la preparación comienza ahora. Cómo vivís el evangelio hoy, qué testimonio estás construyendo, qué hábitos espirituales estás desarrollando: todo eso forma a la persona que será padre o madre algún día, capaz de enseñar a sus propios hijos 'a orar y a andar rectamente ante el Señor'."
+      "contenido": [
+        "D&C 68:25–31 pone la responsabilidad de la transmisión de la fe exactamente donde el Señor quiere que esté: en los padres. Para los jóvenes del Seminario, esa responsabilidad les espera en el futuro — pero la preparación comienza ahora. Cómo vivís el evangelio hoy, qué testimonio estás construyendo, qué hábitos espirituales estás desarrollando: todo eso forma a la persona que será padre o madre algún día, capaz de enseñar a sus propios hijos 'a orar y a andar rectamente ante el Señor'.",
+        "Y el Salvador dio la misma instrucción a los nefitas con una razón adjunta: orar en familia «siempre en mi nombre», para que la casa entera sea bendecida. Enseñar a los hijos no es una tarea administrativa de los padres: es la manera concreta en que Su promesa alcanza a una familia."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Tus padres o algún adulto de tu vida te enseñaron el evangelio en el hogar? ¿De qué manera — con palabras, con el ejemplo, con ambas cosas?",
         "¿Qué te dice D&C 68:25 sobre la responsabilidad de los padres que no enseñan el evangelio a sus hijos?",
-        "Si algún día tenés hijos, ¿qué principio del evangelio es el primero que querés enseñarles? ¿Por qué ese?",
+        "Mirá el versículo 3 Nefi 18:21. ¿En nombre de quién manda orar el Salvador en las familias, y qué resultado dice que va a tener esa oración?",
         "¿Hay algo del evangelio que vos aprendiste en el Seminario que querés asegurarte de transmitir a tu familia futura?",
         "¿Cómo podés empezar a prepararte hoy para ser el tipo de padre o madre que D&C 68:28 describe?",
         "¿Qué es lo que hoy sabés del evangelio y no querés que se pierda en tu familia? Escribilo como se lo explicarías a un chico de siete años."
@@ -74,7 +82,7 @@
       "question": "El presidente Nelson enseñó que 'los padres son los maestros de evangelio más importantes que sus hijos tendrán jamás'. ¿Por qué ninguna institución —ni la Iglesia ni el Seminario— puede reemplazar ese rol?",
       "options": [
         "Porque las instituciones no tienen suficiente personal para atender a cada hijo individualmente.",
-        "Porque el hogar es donde la doctrina se convierte en vida — los padres enseñan no solo con palabras sino con el ejemplo diario y el contexto del amor familiar que ninguna clase puede replicar.",
+        "Porque en el hogar la doctrina se vuelve vida: se enseña con el ejemplo de todos los días.",
         "Porque los maestros institucionales no tienen el Espíritu Santo a diferencia de los padres.",
         "Porque la Iglesia solo enseña doctrina mientras los padres enseñan valores prácticos."
       ],
@@ -86,7 +94,7 @@
       "options": [
         "Que el pecado sobre los padres es solo una expresión metafórica sin consecuencias doctrinales concretas.",
         "Que la responsabilidad es compartida equitativamente entre los padres y la Iglesia.",
-        "Que la enseñanza espiritual del hogar es una responsabilidad sagrada con consecuencias espirituales reales — no es delegable, y empezar a prepararla ahora mientras se es joven tiene sentido.",
+        "Que la enseñanza espiritual del hogar es una responsabilidad indelegable.",
         "Que la responsabilidad aplica solo en zonas geográficas llamadas 'Sion'."
       ],
       "correctAnswer": 2
@@ -98,7 +106,7 @@
         "Debería esperar a tener su propia familia antes de aplicar estos principios.",
         "Puede hablar con el obispo para que asigne a alguien de la Iglesia que ayude a sus hermanos.",
         "Nada — la responsabilidad de D&C 68 es solo de los padres, no de los hermanos mayores.",
-        "Puede ser un instrumento en el hogar para enseñar a orar y andar rectamente, y al mismo tiempo ir construyendo el tipo de hogar espiritual que ella quiere tener algún día."
+        "Puede enseñar a orar en su hogar hoy y así preparar el que quiera tener mañana."
       ],
       "correctAnswer": 3
     },
@@ -106,7 +114,7 @@
       "id": 6,
       "question": "Nicolás dice que 'el Seminario y los maestros de la Iglesia son suficientes para enseñarle el evangelio a sus hijos futuros'. D&C 68:25 le responde directamente. ¿Cómo?",
       "options": [
-        "Que el mandamiento de enseñar recae sobre los padres, no sobre la Iglesia — delegar completamente esa responsabilidad es exactamente lo que D&C 68 previene.",
+        "Que el mandamiento de enseñar recae sobre los padres y no sobre la Iglesia: no es delegable.",
         "Que debería estudiar más en el Seminario para estar mejor preparado como futuro padre.",
         "Que la responsabilidad de D&C 68 aplica solo en circunstancias donde no hay Iglesia organizada.",
         "Que tiene razón — la Iglesia está bien equipada para asumir toda la responsabilidad espiritual."
@@ -118,7 +126,7 @@
       "question": "D&C 68:25 (deber de enseñar) y D&C 68:28 (enseñar a orar y andar rectamente) juntos describen el hogar ideal. ¿Cuál es el principio completo sobre el hogar como institución espiritual?",
       "options": [
         "Que el hogar es principalmente un lugar de educación doctrinal formal con estructura similar a la Iglesia.",
-        "Que el hogar es el lugar donde la doctrina se hace vida — donde los niños aprenden no solo verdades sino a vivir por ellas, a orar y a caminar con el Señor en lo cotidiano.",
+        "Que en el hogar la doctrina se hace vida: ahí se aprende a orar y a andar con el Señor cada día.",
         "Que el hogar solo tiene valor espiritual si los padres tienen llamamientos activos en la Iglesia.",
         "Que la enseñanza en el hogar es complementaria y opcional cuando la Iglesia funciona bien."
       ],

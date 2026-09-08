@@ -26,6 +26,11 @@
           "referencia": "Doctrina y Convenios 123:17",
           "texto": "Por tanto, muy queridos hermanos, hagamos con buen ánimo cuanta cosa esté a nuestro alcance; y entonces podremos permanecer tranquilos, con la más completa seguridad, para ver la salvación de Dios y que se revele su brazo.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/123?lang=spa&id=p17#p17"
+        },
+        {
+          "referencia": "Hechos 3:6",
+          "texto": "Y Pedro dijo: No tengo plata ni oro, mas lo que tengo te doy: En el nombre de Jesucristo de Nazaret, ¡levántate y anda!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/acts/3?lang=spa&id=p6#p6"
         }
       ]
     },
@@ -38,19 +43,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": [
-        "Los santos llegaron a un pantano sin dinero, enfermos de malaria, después de que un estado entero los expulsara. Cinco años más tarde tenían una ciudad y un templo. No fue porque las condiciones mejoraran: fue porque hicieron con buen ánimo lo que estaba a su alcance, un día a la vez. Si estás en una situación que parece imposible de remontar, no busques la solución completa. Buscá lo único que sí podés hacer hoy y hacelo."
-      ]
+      "contenido": "Los santos llegaron a un pantano sin dinero, enfermos de malaria, después de que un estado entero los expulsara. Cinco años más tarde tenían una ciudad y un templo. No fue porque las condiciones mejoraran: fue porque hicieron con buen ánimo lo que estaba a su alcance, un día a la vez, y apoyados en el poder de Jesucristo, que es el único nombre que José invocó junto a la cama de Elijah Fordham. Si estás en una situación que parece imposible de remontar, no busques la solución completa. Buscá lo único que sí podés hacer hoy y hacelo, pidiéndole a Él la fuerza para la parte que no depende de vos."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "Los santos compraron un pantano porque era lo único que podían pagar. ¿Qué te dice ese punto de partida?",
         "En el relato de Elijah Fordham, José le pregunta primero si cree que Jesús es el Cristo. ¿Por qué te parece que empezó por ahí?",
-        "José les dijo a las hermanas que el Señor «tiene para ellas algo mejor» que lo que habían planeado. ¿Alguna vez te pasó algo así?",
+        "Leé Hechos 3:6 en el bloque de escrituras y compará esas palabras con las que José Smith le dijo a Elijah Fordham. ¿Qué tienen en común las dos frases, y de dónde viene en ambos casos el poder que sana?",
         "El presidente Eyring habla de una cosecha que parecía «más allá de su capacidad». ¿Qué te parece hoy más allá de la tuya?",
         "¿Qué es lo único que sí podés hacer hoy respecto de esa situación?",
-        "Hacelo esta semana. ¿Qué día y a qué hora?"
+        "Hacelo esta semana: ¿qué día y a qué hora? Antes de empezar, orá pidiendo fuerza para la parte que no depende de vos, y anotá lo que sentiste."
       ]
     }
   ],
@@ -62,7 +65,7 @@
         "Porque un miembro adinerado lo adquirió para la Iglesia.",
         "Porque lo obtuvieron a cambio de las propiedades perdidas en Misuri.",
         "Porque el gobierno de Illinois se los cedió como compensación.",
-        "Porque era un terreno pantanoso que nadie más quería y estaba barato."
+        "Porque era un pantano que nadie más quería y estaba barato."
       ],
       "correctAnswer": 3
     },
@@ -70,7 +73,7 @@
       "id": 2,
       "question": "En el relato de la sanación de Elijah Fordham, ¿qué le preguntó José Smith después de que Fordham dijera que temía que fuera demasiado tarde?",
       "options": [
-        "Si creía que Jesús es el Cristo.",
+        "Si creía que Jesús es realmente el Cristo.",
         "Si su familia estaba presente para acompañarlo.",
         "Si deseaba que se llamara a un médico.",
         "Si había recibido las ordenanzas del templo."
@@ -82,8 +85,8 @@
       "question": "Cuando las hermanas llevaron a José Smith los estatutos de su sociedad de costura, ¿qué respondió?",
       "options": [
         "Que convenía ampliar la sociedad a más ciudades antes de organizarla.",
-        "Que eran los mejores de su tipo, pero que el Señor tenía algo mejor para ellas.",
-        "Que debían presentarlos ante el obispo para su aprobación.",
+        "Que eran los mejores de su tipo, pero que había en cierta medida mejor.",
+        "Que debían presentarlos ante el obispo a fin de su aprobación.",
         "Que la organización debía esperar a que el templo estuviera terminado."
       ],
       "correctAnswer": 1
@@ -94,7 +97,7 @@
       "options": [
         "Por haber sostenido a la Iglesia con sus bienes.",
         "Por su lealtad hacia su hermano José durante la persecución.",
-        "Porque el Señor lo ama a causa de la integridad de su corazón y porque ama lo que es justo.",
+        "Porque el Señor lo ama por la integridad de su corazón.",
         "Por su servicio como Patriarca de la Iglesia."
       ],
       "correctAnswer": 2
@@ -106,7 +109,7 @@
         "Que las metas deben ajustarse a la capacidad real de quienes las asumen.",
         "Que el éxito de la obra misional depende del número de misioneros.",
         "Que las dificultades se superan con esfuerzo suficiente.",
-        "Que el Señor prepara de antemano lo que las personas todavía no ven posible."
+        "Que el Señor prepara de antemano lo que todavía no se ve posible."
       ],
       "correctAnswer": 3
     },
@@ -114,7 +117,7 @@
       "id": 6,
       "question": "Ana está en una situación familiar que no ve cómo mejorar y siente que cualquier cosa que haga es insuficiente. Según lo que muestra el establecimiento de Nauvoo y Doctrina y Convenios 123:17, ¿qué le conviene hacer?",
       "options": [
-        "Hacer con buen ánimo lo único que sí está a su alcance hoy, sin pretender resolverlo todo.",
+        "Hacer con buen ánimo lo único que sí está a su alcance hoy.",
         "Buscar ayuda profesional antes de intentar cualquier cosa por su cuenta.",
         "Aceptar que algunas situaciones no admiten mejora.",
         "Esperar a que las circunstancias cambien antes de intentar algo."
@@ -126,7 +129,7 @@
       "question": "Los santos llegaron a un pantano y construyeron una ciudad, y Doctrina y Convenios 124:55 pide edificar una casa al Señor «para que probéis ante mí que sois fieles». ¿Qué principio común forman esos dos hechos?",
       "options": [
         "Que las pruebas de fidelidad se reservan a los momentos de crisis.",
-        "Que la fidelidad se demuestra construyendo con lo que hay, y no esperando condiciones mejores.",
+        "Que la fidelidad se demuestra construyendo con lo que se tiene hoy.",
         "Que el Señor recompensa el esfuerzo con circunstancias más favorables.",
         "Que la construcción del templo era la única prueba de fidelidad aceptable."
       ],

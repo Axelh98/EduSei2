@@ -3,11 +3,19 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "D&C 59 fue revelada en agosto de 1831, el mismo día en que falleció Polly Knight, la primera persona miembro de la Iglesia en morir en Misuri. En ese contexto de duelo, el Señor reveló principios sobre el día de reposo y la gratitud. La revelación describe cómo el día de reposo debe guardarse: ofreciendo ayuno y oración, regocijándose y dando ofrendas de alegría, y recordando al Señor con los sacramentos que Él instituyó. El principio central es que el día de reposo no es una restricción sino un regalo — un día diseñado para renovar la conexión con el Señor y recordar el propósito de la vida. Para los jóvenes que a veces sienten que el domingo es el día más aburrido de la semana, esta lección propone una perspectiva completamente diferente: el día de reposo es el día más rico de la semana para quien lo guarda con el corazón correcto."
+      "contenido": [
+        "D&C 59 fue revelada en agosto de 1831, el mismo día en que falleció Polly Knight, la primera persona miembro de la Iglesia en morir en Misuri. En ese contexto de duelo, el Señor reveló principios sobre el día de reposo y la gratitud. La revelación describe cómo el día de reposo debe guardarse: ofreciendo ayuno y oración, regocijándose y dando ofrendas de alegría, y recordando al Señor con los sacramentos que Él instituyó. El principio central es que el día de reposo no es una restricción sino un regalo — un día diseñado para renovar la conexión con el Señor y recordar el propósito de la vida. Para los jóvenes que a veces sienten que el domingo es el día más aburrido de la semana, esta lección propone una perspectiva completamente diferente: el día de reposo es el día más rico de la semana para quien lo guarda con el corazón correcto.",
+        "Vale la pena recordar de quién es el día. Jesús lo dijo con todas las letras: «el día de reposo fue hecho por causa del hombre, y no el hombre por causa del día de reposo», y agregó que «el Hijo del Hombre es Señor aun del día de reposo». No es una lista de prohibiciones que alguien armó: es Su regalo, pensado para que descanses de verdad y te renueves. Y el domingo es domingo porque Él resucitó ese día. Por eso la pregunta útil no es «¿esto está permitido?», sino «¿esto me acerca a Él?»: la respuesta a la segunda casi siempre resuelve la primera."
+      ]
     },
     {
       "tipo": "escrituras",
       "citas": [
+        {
+          "referencia": "Marcos 2:27–28",
+          "texto": "También les dijo: El día de reposo fue hecho por causa del hombre, y no el hombre por causa del día de reposo. Así que el Hijo del Hombre es Señor aun del día de reposo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/mark/2?lang=spa&id=p27-p28#p27"
+        },
         {
           "referencia": "Doctrina y Convenios 59:12–13",
           "texto": "Pero recuerda que en este, el día del Señor, ofrecerás tus ofrendas y tus sacramentos al Altísimo, confesando tus pecados a tus hermanos, y ante el Señor. Y en este día no harás ninguna otra cosa sino preparar tus alimentos con sencillez de corazón, a fin de que tus ayunos sean perfectos, o en otras palabras, que tu gozo sea cabal.",
@@ -25,7 +33,7 @@
       "autor": "Élder Russell M. Nelson",
       "fuente": "«El día de reposo es una delicia», Liahona, mayo de 2015, pág. 129",
       "texto": "Cuando tenía que tomar una decisión en cuanto a si una actividad era o no era apropiada para el día de reposo, simplemente me preguntaba a mí mismo: '¿Qué señal quiero darle a Dios?'. Esa pregunta hizo que mis opciones respecto al día de reposo fueran bien claras.",
-      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa&id=p11#p11"
     },
     {
       "tipo": "conclusion",
@@ -36,10 +44,10 @@
       "preguntas": [
         "¿Cómo describirías tu domingo típico? ¿Es más un día de deleite espiritual o de obligación?",
         "¿Qué actividades del domingo te ayudan a renovar tu conexión con el Señor? ¿Cuáles te alejan de eso?",
-        "¿Qué diferencia hace en tu semana entera el hecho de haber guardado bien el día de reposo?",
+        "Leé Marcos 2:27–28. ¿Para quién dice Jesús que fue hecho el día de reposo, y qué título se da a Sí mismo respecto de ese día?",
         "¿Qué cambio concreto y alcanzable harías en tu domingo para que sea más como lo describe D&C 59?",
         "¿Cómo explicarías a alguien que no es miembro por qué guardás el día de reposo, de una manera que suene a libertad y no a restricción?",
-        "Elegí una sola cosa que vas a sacar de tu domingo y una sola que vas a poner. ¿Cuáles son, y cómo vas a acordarte el sábado a la noche?"
+        "Elegí una sola cosa que vas a sacar de tu domingo y una sola que vas a poner. Meditá un rato en cuáles son antes de decidir, y escribilas."
       ]
     }
   ],
@@ -73,7 +81,7 @@
         "La obligación produce más frutos espirituales porque implica más sacrificio.",
         "Solo los adultos pueden sentir el deleite del domingo; los jóvenes deben guardar por obligación primero.",
         "No hay diferencia — el resultado externo es el mismo independientemente de la motivación.",
-        "Guardar el domingo por obligación es una carga que se cumple; guardarlo por amor es una fuente de renovación que uno busca — la motivación transforma la experiencia."
+        "Por obligación es una carga que se cumple; por amor, una fuente que se busca."
       ],
       "correctAnswer": 3
     },
@@ -81,7 +89,7 @@
       "id": 4,
       "question": "D&C 59:15–16 promete que los santos que guardan los mandamientos recibirán 'la plenitud de la tierra'. ¿Qué tipo de bendición describe ese lenguaje — material, espiritual o ambas?",
       "options": [
-        "Ambas — las bendiciones del Señor a quienes guardan Sus mandamientos incluyen tanto dimensiones temporales como espirituales, y con gratitud como condición central.",
+        "Ambas: incluyen lo temporal y lo espiritual, con la gratitud como condición.",
         "Solo aplica a los santos que vivieron en Misuri en el siglo XIX.",
         "Solo material — el Señor promete prosperidad económica a los obedientes.",
         "Solo espiritual — es una metáfora de paz interior sin implicaciones temporales."
@@ -93,7 +101,7 @@
       "question": "Luca describe su domingo típico: asistir a la Iglesia por obligación, volver a casa y pasar el resto del día en el celular. Según D&C 59:9–10, ¿qué pregunta concreta debería hacerse sobre ese domingo?",
       "options": [
         "'¿Cuántas horas exactamente debo estar en modo espiritual para que el día sea válido?'",
-        "'¿Qué actividades del domingo me están acercando a renovar mi relación con el Señor y cuáles simplemente llenan el tiempo?'",
+        "«¿Qué cosa concreta del domingo me acerca al Señor y qué solo me llena el tiempo?»",
         "'¿Hay alguna regla oficial de la Iglesia que prohíba usar el celular los domingos?'",
         "'¿Mis padres me están observando para ver si guardo bien el día de reposo?'"
       ],
@@ -105,7 +113,7 @@
       "options": [
         "Que el deleite llegaría automáticamente si simplemente cambia su actitud sin cambiar sus hábitos.",
         "Que ya no tendría que asistir a la Iglesia porque la asistencia obligatoria contradice el deleite.",
-        "Que en lugar de preguntarse '¿qué no puedo hacer hoy?', se preguntaría '¿qué puedo hacer hoy que renueve mi conexión con el Señor y con mi familia?'",
+        "Que cambiaría «¿qué no puedo hacer hoy?» por «¿qué cosa puede renovarme hoy?».",
         "Que buscaría actividades más entretenidas dentro del marco del día de reposo."
       ],
       "correctAnswer": 2
@@ -117,7 +125,7 @@
         "Que la gratitud se expresa principalmente mediante el diezmo y las ofrendas, no en el reposo.",
         "Que ambos son obligaciones formales que el Señor requiere sin mayor conexión entre ellas.",
         "Que la gratitud aplica a lo material y el reposo a lo espiritual, y por eso aparecen juntos.",
-        "Que el día de reposo es la expresión semanal de la gratitud más profunda — un tiempo dedicado a reconocer que Dios es la fuente de todo lo que tenemos, incluida la vida misma."
+        "Que el día de reposo es la expresión semanal de la gratitud más honda que uno puede tener."
       ],
       "correctAnswer": 3
     }

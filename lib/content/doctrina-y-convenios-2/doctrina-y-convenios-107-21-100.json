@@ -6,7 +6,8 @@
       "contenido": [
         "La segunda parte de la sección 107 organiza los cuórums que dirigen la Iglesia y establece una regla que sorprende por lo exigente: «toda decisión que tome cualquiera de estos cuórums se hará por la voz unánime del cuórum» (versículo 27). No mayoría, no consenso aproximado: unanimidad.",
         "El presidente Russell M. Nelson explicó por qué eso importa: «el llamamiento de quince hombres al santo apostolado nos proporciona gran protección como miembros de la Iglesia. ¿Por qué? Porque las decisiones de esos líderes deben ser unánimes». Quince personas con formaciones distintas y opiniones distintas —«¡créanmelo!», agregó— solo llegan a un acuerdo total cuando el Espíritu los guía a él.",
-        "La sección define además qué es un apóstol: «testigos especiales del nombre de Cristo en todo el mundo» (versículo 23). Y termina con una frase que aplica a cualquiera, tenga el cargo que tenga: «aprenda todo varón su deber, así como a obrar con toda diligencia en el oficio al cual fuere nombrado» (versículo 99). Nadie puede cumplir bien un deber que no se tomó el trabajo de aprender."
+        "La sección define además qué es un apóstol: «testigos especiales del nombre de Cristo en todo el mundo» (versículo 23). Y termina con una frase que aplica a cualquiera, tenga el cargo que tenga: «aprenda todo varón su deber, así como a obrar con toda diligencia en el oficio al cual fuere nombrado» (versículo 99). Nadie puede cumplir bien un deber que no se tomó el trabajo de aprender.",
+        "Conviene detenerse en la definición del versículo 23, porque explica para qué existe todo lo demás: los apóstoles son «testigos especiales del nombre de Cristo en todo el mundo». No testigos de una organización ni de una doctrina en abstracto, sino de Su nombre. Es el mismo encargo que el Salvador resucitado les dejó antes de ascender: «me seréis testigos […] hasta lo último de la tierra» (Hechos 1:8). La regla de la unanimidad, los cuórums y los deberes que la sección organiza existen para sostener ese testimonio, no al revés."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 107:99",
           "texto": "Por tanto, aprenda todo varón su deber, así como a obrar con toda diligencia en el oficio al cual fuere nombrado.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=spa&id=p99#p99"
+        },
+        {
+          "referencia": "Hechos 1:8",
+          "texto": "Pero recibiréis poder cuando el Espíritu Santo venga sobre vosotros, y me seréis testigos en Jerusalén, en toda Judea, y en Samaria y hasta lo último de la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/acts/1?lang=spa&id=p8#p8"
         }
       ]
     },
@@ -47,10 +53,10 @@
       "preguntas": [
         "¿Por qué te parece que el Señor pidió unanimidad y no mayoría para las decisiones de los cuórums?",
         "El presidente Nelson dice que la unanimidad de quince personas distintas es una protección. ¿Protección contra qué?",
-        "El versículo 23 define a los apóstoles como «testigos especiales del nombre de Cristo». ¿Qué significa ser testigo de un nombre y no solo de un hecho?",
+        "Volvé a leer Hechos 1:8 en el bloque de escrituras. ¿De quién dijo el Salvador que serían testigos Sus apóstoles, y en qué se parece eso a la definición del versículo 23?",
         "«Aprenda todo varón su deber». ¿Sabés exactamente qué se espera de la asignación que tenés hoy?",
         "¿Qué pasa cuando alguien cumple un deber sin haberse tomado el trabajo de aprenderlo?",
-        "¿A quién le vas a preguntar esta semana qué se espera de tu asignación? ¿Cuándo?"
+        "¿A quién le vas a preguntar esta semana qué se espera de tu asignación, y cuándo? Antes de hacerlo, orá pidiendo entender para qué sirve, y anotá lo que te venga."
       ]
     }
   ],
@@ -61,7 +67,7 @@
       "options": [
         "Por consulta a los miembros de la Iglesia.",
         "Por mayoría simple de sus miembros.",
-        "Por la voz unánime del cuórum.",
+        "Por la voz unánime del cuórum entero.",
         "Por decisión del miembro que preside."
       ],
       "correctAnswer": 2
@@ -81,7 +87,7 @@
       "id": 3,
       "question": "¿Qué manda Doctrina y Convenios 107:99 a quien recibe un oficio?",
       "options": [
-        "Aprender su deber y obrar con toda diligencia en el oficio al cual fuere nombrado.",
+        "Aprender cuál es su deber y obrar con toda diligencia.",
         "Consultar cada decisión con quien preside antes de actuar.",
         "Servir hasta que sea relevado formalmente del cargo.",
         "Prepararse espiritualmente antes de aceptar la asignación."
@@ -93,7 +99,7 @@
       "question": "El presidente Nelson señaló que la unanimidad exigida a los quince líderes «nos proporciona gran protección». ¿Contra qué protege esa regla?",
       "options": [
         "Contra la crítica externa a las decisiones de la Iglesia.",
-        "Contra que una decisión de la Iglesia dependa de la influencia de una sola persona.",
+        "Contra que una decisión dependa de la influencia de uno nada más.",
         "Contra las decisiones apresuradas en situaciones de urgencia.",
         "Contra la posibilidad de que se cometan errores administrativos."
       ],
@@ -105,7 +111,7 @@
       "options": [
         "Esperar a recibir instrucciones detalladas antes de comenzar.",
         "Consultar con otros que hayan tenido el mismo llamamiento.",
-        "Aprender su deber, que es lo primero que el versículo manda antes de obrar con diligencia.",
+        "Aprender su deber, que es lo primero que manda el versículo.",
         "Pedir una asignación acorde a su experiencia previa."
       ],
       "correctAnswer": 2
@@ -116,8 +122,8 @@
       "options": [
         "Que las decisiones de un consejo de clase no requieren ningún procedimiento formal.",
         "Que la votación es válida siempre que participen todos los miembros.",
-        "Que el que preside debería decidir cuando no hay acuerdo.",
-        "Que el modelo revelado busca el acuerdo de todos, porque eso es lo que indica la guía del Espíritu."
+        "Que el que preside debería decidir en el momento en que no hay acuerdo.",
+        "Que el modelo revelado busca el acuerdo de todos, no la mayoría."
       ],
       "correctAnswer": 3
     },
@@ -125,8 +131,8 @@
       "id": 7,
       "question": "Doctrina y Convenios 107:27 exige unanimidad en los cuórums y 107:99 manda a cada uno aprender su deber. ¿Qué principio común forman los dos versículos?",
       "options": [
-        "Que la obra del Señor se sostiene sobre responsabilidades tomadas en serio, tanto en conjunto como individualmente.",
-        "Que las decisiones importantes deben tomarse siempre en grupo.",
+        "Que la obra se sostiene sobre responsabilidades tomadas en serio.",
+        "Que las decisiones importantes tienen que tomarse siempre en grupo.",
         "Que la diligencia individual reemplaza la necesidad de consultar a otros.",
         "Que los deberes de los cuórums son más exigentes que los individuales."
       ],

@@ -6,7 +6,8 @@
       "contenido": [
         "Esta evaluación cierra el estudio de Doctrina y Convenios 84 a 93, un bloque denso: el poder de la divinidad en las ordenanzas, el juramento y el convenio del sacerdocio, la parábola del trigo y la cizaña, la Palabra de Sabiduría con sus promesas, la luz de Cristo que está en todas las cosas, y la revelación de que el Salvador mismo creció «de gracia en gracia».",
         "Son ideas que cuesta medir. Por eso la evaluación no pregunta cuánto sabés, sino qué cambió: si podés explicar esas verdades con tus palabras, qué pasó con las metas que te fijaste, y en qué se nota hoy algo que hace dos meses no estaba.",
-        "El presidente Eyring dijo que sintió el gozo de acercarse al Salvador «mediante sencillos actos de obediencia a los mandamientos». Esa frase da la vara correcta para esta evaluación. No hay que buscar un cambio espectacular: hay que buscar los actos sencillos y ver si se sostuvieron. Ahí es donde el progreso ocurre y donde, además, se puede verificar."
+        "El presidente Eyring dijo que sintió el gozo de acercarse al Salvador «mediante sencillos actos de obediencia a los mandamientos». Esa frase da la vara correcta para esta evaluación. No hay que buscar un cambio espectacular: hay que buscar los actos sencillos y ver si se sostuvieron. Ahí es donde el progreso ocurre y donde, además, se puede verificar.",
+        "El manual le pone a esta evaluación un objetivo concreto: que el alumno pueda explicar las funciones, los títulos y las características de Jesucristo que estudió. No se trata de recordar datos sueltos sobre secciones, sino de haber conocido mejor a una persona. Y la invitación que Él mismo hace en este libro es simple: «Aprende de mí y escucha mis palabras; camina en la mansedumbre de mi Espíritu, y en mí tendrás paz» (Doctrina y Convenios 19:23). La vara de esta evaluación, entonces, es doble: qué aprendiste de Él, y si Su paz se nota en algo concreto de tus semanas."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 89:19",
           "texto": "Y hallarán sabiduría y grandes tesoros de conocimiento, sí, tesoros escondidos.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=spa&id=p19#p19"
+        },
+        {
+          "referencia": "Doctrina y Convenios 19:23",
+          "texto": "Aprende de mí y escucha mis palabras; camina en la mansedumbre de mi Espíritu, y en mí tendrás paz.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=spa&id=p23#p23"
         }
       ]
     },
@@ -38,19 +44,17 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": [
-        "La vara que propone el presidente Eyring para medir el progreso son los «sencillos actos de obediencia»: no las decisiones heroicas, sino las repetidas. Revisá estas semanas buscando esos actos, no los momentos emocionantes. Escribí tres que hayas sostenido y uno que abandonaste, y para el que abandonaste anotá qué lo hizo caer. Esa última anotación es la más útil de todas para el bloque que viene."
-      ]
+      "contenido": "La vara que propone el presidente Eyring para medir el progreso son los «sencillos actos de obediencia»: no las decisiones heroicas, sino las repetidas. Y la vara del manual es todavía más precisa: qué aprendiste de Jesucristo en estas semanas, porque Su promesa —«en mí tendrás paz»— se verifica en la vida de todos los días. Revisá el bloque buscando esos actos, no los momentos emocionantes. Escribí tres que hayas sostenido y uno que abandonaste, y para el que abandonaste anotá qué lo hizo caer. Esa última anotación es la más útil de todas para el bloque que viene."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "De todo lo que estudiaste en Doctrina y Convenios 84–93, ¿qué idea te resultó más difícil de aceptar? ¿Por qué?",
         "¿Cuál de esas verdades podrías explicarle hoy a alguien sin mirar los apuntes?",
-        "El presidente Eyring habla de «sencillos actos de obediencia». ¿Cuáles sostuviste vos en estas semanas?",
+        "Volvé a leer Doctrina y Convenios 19:23 en el bloque de escrituras. ¿Qué tres cosas pide ahí el Salvador antes de prometer la paz, y cuál de las tres sostuviste mejor en este bloque?",
         "¿Cuál abandonaste? ¿Qué lo hizo caer: el cansancio, la falta de tiempo, el olvido?",
         "Doctrina y Convenios 93:20 promete «gracia sobre gracia». ¿En qué notás que recibiste una porción más que antes?",
-        "¿Qué meta concreta te ponés para el próximo bloque, y cómo vas a evitar que caiga por lo mismo que la anterior?"
+        "¿Qué meta concreta te ponés para el próximo bloque, y cómo vas a evitar que caiga por lo mismo que la anterior? Elegila en oración y anotala hoy."
       ]
     }
   ],
@@ -59,7 +63,7 @@
       "id": 1,
       "question": "Según Doctrina y Convenios 88:63, ¿qué acción precede a la promesa «yo me allegaré a vosotros»?",
       "options": [
-        "Allegarse al Señor, es decir, dar el primer paso hacia Él.",
+        "Allegarse al Señor, dando el primer paso.",
         "Recibir las ordenanzas del templo.",
         "Esperar con paciencia el momento señalado.",
         "Guardar todos los mandamientos sin excepción."
@@ -83,7 +87,7 @@
       "options": [
         "La comparación con el progreso de otros miembros.",
         "La intensidad de las experiencias espirituales vividas en el período.",
-        "La constancia de acciones sencillas y repetidas, más que los momentos extraordinarios.",
+        "La constancia de acciones sencillas, más que los momentos altos.",
         "La cantidad de conocimiento doctrinal adquirido."
       ],
       "correctAnswer": 2
@@ -95,7 +99,7 @@
         "Porque se refieren a doctrinas que aún no han sido reveladas.",
         "Porque solo se comprenden después de esta vida.",
         "Porque están reservados a quienes reciben un llamamiento especial.",
-        "Porque no son evidentes de antemano: aparecen para quien vive el principio."
+        "Porque no son evidentes de antemano, sino al vivir el principio."
       ],
       "correctAnswer": 3
     },
@@ -103,7 +107,7 @@
       "id": 5,
       "question": "Agustina sostuvo su estudio diario durante tres semanas y lo abandonó en la cuarta, y concluye que no sirvió de nada. Según lo que propone esta evaluación, ¿qué le conviene hacer con ese dato?",
       "options": [
-        "Anotar qué hizo caer el hábito, porque esa información es la que le sirve para el próximo intento.",
+        "Anotar qué hizo caer el hábito, que es lo que sirve después.",
         "Reducir la meta hasta un punto en que sea imposible fallar.",
         "Aceptar que no todos los hábitos espirituales son para todas las personas.",
         "Descartar el intento y empezar de cero con una meta más ambiciosa."
@@ -115,9 +119,9 @@
       "question": "Luca busca en estas semanas alguna experiencia espiritual intensa que confirme su progreso y no encuentra ninguna. Según la enseñanza del presidente Eyring, ¿dónde debería mirar?",
       "options": [
         "En la comparación con su estado espiritual del año anterior.",
-        "En los actos sencillos de obediencia que sostuvo, aunque no hayan venido acompañados de emoción.",
+        "En los actos sencillos de obediencia que sostuvo.",
         "En el conocimiento nuevo que adquirió durante el bloque.",
-        "En la opinión de sus líderes sobre su desempeño."
+        "En la opinión de sus líderes acerca de su desempeño."
       ],
       "correctAnswer": 1
     },
@@ -127,7 +131,7 @@
       "options": [
         "Que la cercanía con Dios depende principalmente de los sentimientos.",
         "Que los actos sencillos valen únicamente cuando se repiten durante años.",
-        "Que el acercamiento a Dios se construye con acciones al alcance de cualquiera, no con condiciones extraordinarias.",
+        "Que acercarse a Dios se construye con acciones al alcance de cualquier persona.",
         "Que las promesas del Señor exigen un nivel de compromiso que pocos alcanzan."
       ],
       "correctAnswer": 2

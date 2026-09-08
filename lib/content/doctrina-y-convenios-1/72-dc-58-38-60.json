@@ -17,6 +17,11 @@
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=spa&id=p42-p43#p42"
         },
         {
+          "referencia": "Doctrina y Convenios 19:16",
+          "texto": "Porque he aquí, yo, Dios, he padecido estas cosas por todos, para que no padezcan, si se arrepienten.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=spa&id=p16#p16"
+        },
+        {
           "referencia": "Isaías 1:18",
           "texto": "Venid ahora, dice Jehová, y razonemos juntos: aunque vuestros pecados sean como la grana, como la nieve serán emblanquecidos; aunque sean rojos como el carmesí, vendrán a ser como blanca lana.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=spa&id=p18#p18"
@@ -28,21 +33,24 @@
       "autor": "Élder Gerrit W. Gong",
       "fuente": "«Volver a confiar», Liahona, noviembre de 2021, pág. 98",
       "texto": "Cuando nos arrepentimos, cuando confesamos y abandonamos nuestros pecados, el Señor dice que no los recuerda más.",
-      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/222-doctrine-and-covenants-58-38-60?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/222-doctrine-and-covenants-58-38-60?lang=spa&id=aside1_p4#aside1_p4"
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 58:42–43 establece que el arrepentimiento genuino tiene tres movimientos: confesar, abandonar, y recibir el perdón completo. La promesa 'yo, el Señor, no los recuerdo más' es incondicional cuando el arrepentimiento es sincero. Esto no es invitación a la complacencia — es invitación a la esperanza. Ningún error del pasado define tu futuro si elegís el arrepentimiento genuino. La limpieza que el Salvador ofrece es completa, no parcial."
+      "contenido": [
+        "D&C 58:42–43 establece que el arrepentimiento genuino tiene tres movimientos: confesar, abandonar, y recibir el perdón completo. La promesa 'yo, el Señor, no los recuerdo más' es incondicional cuando el arrepentimiento es sincero. Esto no es invitación a la complacencia — es invitación a la esperanza. Ningún error del pasado define tu futuro si elegís el arrepentimiento genuino. La limpieza que el Salvador ofrece es completa, no parcial.",
+        "Y la razón por la que el Señor puede decir «no los recuerdo más» está unos capítulos antes: Él ya padeció esas cosas por todos, para que nadie tenga que padecerlas si se arrepiente. El olvido de Dios no es distracción: es el resultado de Su sacrificio, ya pagado."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuáles son los dos componentes del arrepentimiento genuino que describe D&C 58:43?",
         "¿Qué significa exactamente la promesa 'yo, el Señor, no los recuerdo más'? ¿La creés de verdad?",
-        "¿Hay algo que cargás de culpa del pasado que el Señor ya olvidó pero vos todavía no te perdonaste a vos mismo?",
+        "Buscá en Doctrina y Convenios 58:42–43 las dos señales del arrepentimiento verdadero. ¿Cuál de las dos es más fácil de fingir y cuál no?",
         "¿Cuál es la diferencia entre remordimiento y arrepentimiento genuino?",
         "Si supieras con certeza que el Señor ya no recuerda un error que cometiste, ¿qué cambiaría en vos esta semana?",
-        "Si el Señor ya no recuerda eso que vos seguís recordando, ¿qué necesitarías para dejar de usarlo en tu contra? ¿Con quién podrías hablarlo?"
+        "¿Hay algo que ya confesaste y seguís cargando igual? Llevalo a la oración esta semana con Doctrina y Convenios 58:42 delante y anotá qué cambió."
       ]
     }
   ],
@@ -65,7 +73,7 @@
         "Que el perdón llega automáticamente después de suficiente tiempo sin cometer el mismo error.",
         "Que el Señor perdona solo los pecados que otros no conocen.",
         "Que el Señor perdonará según la gravedad del pecado y el tiempo transcurrido.",
-        "Que 'yo, el Señor, no los recuerdo más' — el perdón es completo cuando el arrepentimiento es genuino."
+        "Que 'yo, el Señor, no los recuerdo más': el perdón llega a ser completo."
       ],
       "correctAnswer": 3
     },
@@ -73,7 +81,7 @@
       "id": 3,
       "question": "El élder Gong enseñó que «cuando nos arrepentimos, cuando confesamos y abandonamos nuestros pecados, el Señor dice que no los recuerda más». ¿Qué revela esa enseñanza sobre la función del arrepentimiento?",
       "options": [
-        "Que no es una puerta a la vergüenza sino a la libertad: quita el peso del pecado y devuelve la plenitud del Espíritu.",
+        "Que no es puerta a la vergüenza sino a la libertad: quita el peso.",
         "Que solo libera cuando el pecado no dejó consecuencias visibles.",
         "Que está disponible para los miembros activos y no para quienes se alejaron.",
         "Que el arrepentimiento es opcional cuando se trata de faltas menores."
@@ -85,7 +93,7 @@
       "question": "¿Por qué el arrepentimiento genuino requiere tanto confesar como abandonar — y no basta con solo una de las dos?",
       "options": [
         "Porque la confesión sola demuestra honestidad y eso es suficiente para el perdón.",
-        "Porque confesar sin abandonar es reconocer el problema sin resolverlo; abandonar sin confesar puede ser orgullo que evita la humildad — los dos juntos completan la transformación.",
+        "Porque confesar sin abandonar reconoce el problema, pero no lo resuelve nunca.",
         "Porque son requisitos formales de la Iglesia sin razón espiritual profunda.",
         "Porque el abandono es más difícil que la confesión y por eso el Señor requiere ambos."
       ],
@@ -97,7 +105,7 @@
       "options": [
         "Que necesita arrepentirse nuevamente porque la culpa indica que algo quedó sin resolver.",
         "Que la culpa prolongada es una señal de que el arrepentimiento no fue completo.",
-        "Que 'yo, el Señor, no los recuerdo más' — si el arrepentimiento fue genuino, la culpa que sigue cargando no viene del Señor sino de ella misma.",
+        "Que 'yo, el Señor, no los recuerdo más': la culpa que aún le queda no viene de Él.",
         "Que debe seguir sintiéndose mal como evidencia de que tomó el asunto en serio."
       ],
       "correctAnswer": 2
@@ -109,7 +117,7 @@
         "Que Agustín haya compensado el daño causado completamente antes de recibir el perdón.",
         "Que el pecado no sea de cierto tipo que el Señor considera imperdonable.",
         "Que hayan pasado suficientes años desde el error para que su impacto se haya borrado.",
-        "Que el arrepentimiento sea genuino — que haya confesión y abandono real. La promesa no pone límite de gravedad; pone condición de sinceridad."
+        "Que el arrepentimiento sea genuino: que haya confesión y abandono reales."
       ],
       "correctAnswer": 3
     },
@@ -117,7 +125,7 @@
       "id": 7,
       "question": "D&C 58:42 ('el Señor no los recuerda más') y D&C 19:16–19 (Cristo sufrió para que nosotros no suframos si nos arrepentimos) juntos forman la doctrina completa del arrepentimiento. ¿Cuál es ese mensaje completo?",
       "options": [
-        "Que el Salvador ya pagó el precio para que el arrepentimiento genuino produzca perdón real y completo — Su sufrimiento fue exactamente para que nosotros pudiéramos librarnos del nuestro, y ese perdón es tan completo que Él no lo recuerda más.",
+        "Que el Salvador ya pagó el precio para que el arrepentimiento genuino traiga perdón real.",
         "Que el pecado tiene consecuencias inevitables que el arrepentimiento no puede eliminar completamente.",
         "Que el perdón del Señor es provisional y puede retirarse si se cometen nuevos errores.",
         "Que el sufrimiento de Cristo fue solo simbólico y el arrepentimiento tiene valor independiente de Él."

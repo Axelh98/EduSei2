@@ -6,7 +6,8 @@
       "contenido": [
         "Esta evaluación cierra el estudio de Doctrina y Convenios 106 a 115, un bloque que cubre el sacerdocio y sus llaves, la dedicación del templo de Kirtland, la aparición del Salvador y de Moisés y Elías, el viaje fallido a Salem y el nombre correcto de la Iglesia.",
         "La pregunta que ordena la evaluación no es cuánto recordás, sino qué cambió. Y conviene buscarlo en el lugar correcto. El élder Quentin L. Cook llamó «lo eterno de cada día» a esa zona donde efectivamente ocurre la vida espiritual: no en los acontecimientos extraordinarios, sino en las decisiones repetidas que casi no se notan mientras se toman.",
-        "Este bloque tuvo, además, un episodio útil para evaluarse: el viaje a Salem. José Smith se equivocó de objetivo, y el Señor corrigió el rumbo sin humillarlo. Al revisar tus últimas semanas, buscá las dos cosas: lo que sostuviste y lo que erraste. Las dos enseñan, y la segunda a veces más."
+        "Este bloque tuvo, además, un episodio útil para evaluarse: el viaje a Salem. José Smith se equivocó de objetivo, y el Señor corrigió el rumbo sin humillarlo. Al revisar tus últimas semanas, buscá las dos cosas: lo que sostuviste y lo que erraste. Las dos enseñan, y la segunda a veces más.",
+        "El manual propone una imagen para esta evaluación —los marcadores de sendero que el Padre y Jesucristo dejaron a lo largo del camino— y después una pregunta que la ordena toda: ¿cómo puede un marcador de sendero ser un símbolo del Salvador? La respuesta la dio Él mismo: «Yo soy el camino, y la verdad y la vida; nadie viene al Padre sino por mí» (Juan 14:6). No es una señal más en el recorrido: es el recorrido. Por eso el manual también recuerda que quienes sirven en la Iglesia pueden recurrir a Su poder por medio de Su sacerdocio, que es de lo que trató todo este bloque."
       ]
     },
     {
@@ -26,6 +27,11 @@
           "referencia": "Doctrina y Convenios 111:11",
           "texto": "Por tanto, sed prudentes como la serpiente, y al mismo tiempo sin pecado; y yo dispondré todas las cosas para vuestro bienestar, en cuanto podáis recibirlas. Amén.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/111?lang=spa&id=p11#p11"
+        },
+        {
+          "referencia": "Juan 14:6",
+          "texto": "Jesús le dijo: Yo soy el camino, y la verdad y la vida; nadie viene al Padre sino por mí.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa&id=p6#p6"
         }
       ]
     },
@@ -38,16 +44,14 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": [
-        "El bloque que cerrás incluye la visión más gloriosa de la Restauración y un viaje equivocado a buscar un tesoro que no existía. Las dos cosas están en el mismo libro y las dos enseñan. Al evaluarte, no busques solo los momentos altos: revisá también dónde te equivocaste y qué hiciste después. Escribí una lista corta de las dos columnas —lo que sostuviste y lo que erraste— y quedátela para el próximo bloque."
-      ]
+      "contenido": "El bloque que cerrás incluye la visión más gloriosa de la Restauración y un viaje equivocado a buscar un tesoro que no existía. Las dos cosas están en el mismo libro y las dos enseñan. Y las dos apuntan al mismo lugar: el Salvador que aceptó el templo de Kirtland es el mismo que corrigió el rumbo de José en Salem sin humillarlo, porque Su misericordia y Su corrección vienen juntas. Al evaluarte, no busques solo los momentos altos: revisá también dónde te equivocaste y qué hiciste después. Escribí una lista corta de las dos columnas —lo que sostuviste y lo que erraste— y quedátela para el próximo bloque."
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "De todo lo estudiado en Doctrina y Convenios 106–115, ¿qué te impactó más y por qué?",
         "El viaje a Salem fue un error de cálculo que el Señor usó igual. ¿En qué error tuyo pasó algo parecido?",
-        "El élder Cook habla de «lo eterno de cada día». ¿Qué decisión cotidiana tuya tiene más peso del que parece?",
+        "Leé Juan 14:6 en el bloque de escrituras. ¿Con qué tres palabras se define ahí el Salvador, y por qué te parece que el manual lo llama «marcador de sendero» y no solo destino?",
         "¿Qué hábito sostuviste durante este bloque?",
         "¿Cuál abandonaste, y qué lo hizo caer?",
         "Escribí las dos columnas —lo que sostuviste y lo que erraste— y guardalas. ¿Cuándo lo vas a hacer?"
@@ -62,7 +66,7 @@
         "Ser paciente en la tribulación.",
         "Ser fiel hasta el fin.",
         "Ser diligente en el cumplimiento del deber.",
-        "Ser humilde."
+        "Ser humilde ante el Señor."
       ],
       "correctAnswer": 3
     },
@@ -71,7 +75,7 @@
       "question": "Según Doctrina y Convenios 109:8, ¿qué siete características debía tener la casa del Señor?",
       "options": [
         "Casa de oración, de ayuno, de fe, de instrucción, de gloria, de orden y de Dios.",
-        "Casa de convenios, de ordenanzas, de revelación, de paz, de refugio, de luz y de verdad.",
+        "Casa de convenios, de revelación, de paz, de luz y de verdad.",
         "Casa de servicio, de estudio, de unidad, de sacrificio, de esperanza, de gozo y de amor.",
         "Casa de historia familiar, de sellamiento, de investidura, de bautismo, de enseñanza, de consejo y de adoración."
       ],
@@ -82,7 +86,7 @@
       "question": "Doctrina y Convenios 111:11 pide ser «prudentes como la serpiente, y al mismo tiempo sin pecado». ¿Qué combinación propone ese consejo?",
       "options": [
         "Inocencia que excuse la falta de previsión.",
-        "Criterio práctico junto con integridad, sin sacrificar ninguno de los dos.",
+        "Criterio práctico junto con integridad personal.",
         "Cautela extrema para evitar cualquier riesgo.",
         "Astucia suficiente para adelantarse a los adversarios."
       ],
@@ -90,12 +94,12 @@
     },
     {
       "id": 4,
-      "question": "El élder Cook destacó que el Salvador «estuvo dispuesto a venir a la tierra como un humilde bebé» pese a Su condición divina. ¿Qué ilustra ese contraste sobre la vida espiritual?",
+      "question": "El élder Cook llamó «lo eterno de cada día» a la zona donde ocurre de verdad la vida espiritual. ¿Qué propone esa expresión sobre dónde buscar el propio progreso?",
       "options": [
-        "Que el nacimiento del Salvador fue el acontecimiento central de Su misión.",
-        "Que la grandeza espiritual exige renunciar a toda posición.",
-        "Que lo más significativo suele ocurrir en circunstancias que no parecen extraordinarias.",
-        "Que la humildad es una virtud reservada a los grandes personajes."
+        "Que el progreso se mide comparando cada año con el anterior.",
+        "Que lo cotidiano importa menos que las decisiones grandes de la vida.",
+        "Que las decisiones repetidas y poco llamativas son las que más forman.",
+        "Que la vida espiritual avanza sobre todo en los momentos extraordinarios."
       ],
       "correctAnswer": 2
     },
@@ -106,7 +110,7 @@
         "La cantidad de material que logró estudiar durante el período.",
         "La comparación con lo que lograron sus compañeros de clase.",
         "Los momentos en que sintió emociones intensas durante las lecciones.",
-        "Las decisiones cotidianas que sostuvo, que es donde ocurre el avance real."
+        "Las decisiones cotidianas que sostuvo, donde ocurre el avance."
       ],
       "correctAnswer": 3
     },
@@ -114,7 +118,7 @@
       "id": 6,
       "question": "El viaje a Salem fue un error de cálculo que el Señor aprovechó para revelar otra cosa. ¿Qué aporta ese episodio a una evaluación personal honesta?",
       "options": [
-        "Que los errores también forman parte del avance y conviene incluirlos en la revisión.",
+        "Que los errores también avanzan, y es necesario revisarlos.",
         "Que los errores deben omitirse para no desalentarse.",
         "Que un error grave anula el progreso del período.",
         "Que las equivocaciones se corrigen solas con el tiempo."
@@ -126,7 +130,7 @@
       "question": "Doctrina y Convenios 112:10 promete respuestas a quien es humilde, y 111:11 pide prudencia junto con integridad. ¿Qué principio común forman los dos versículos al evaluar el propio progreso?",
       "options": [
         "Que la evaluación personal exige la confirmación de un líder.",
-        "Que el avance espiritual depende de cómo la persona se dispone, más que de las circunstancias que le tocan.",
+        "Que el avance depende de la disposición y no de las circunstancias.",
         "Que la humildad y la prudencia son virtudes que se excluyen entre sí.",
         "Que las respuestas del Señor llegan sin importar la actitud de quien pregunta."
       ],

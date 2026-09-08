@@ -3,7 +3,10 @@
   "secciones": [
     {
       "tipo": "contexto",
-      "contenido": "En julio de 1831, José Smith y un grupo de líderes viajaron a Misuri siguiendo la instrucción del Señor de que esa tierra era la promesa para los santos. Cuando llegaron a Independence, el Señor reveló D&C 57: esa ciudad sería el lugar central de Sion, y el terreno donde se construiría el templo fue dedicado por el profeta. Era un momento de cumplimiento profético extraordinario — los santos sentían que estaban parados literalmente en el lugar donde comenzaría la Sion del Señor en los últimos días. El Señor también instruyó a los santos sobre cómo establecerse en esa tierra: comprando terrenos, organizando imprentas, y haciéndolo todo de manera ordenada y fiel. Esta lección enseña que la visión de Sion no es solo espiritual sino también práctica: requiere trabajo, organización y fidelidad en las cosas pequeñas. La Sion que el Señor busca no cae del cielo — se construye una acción fiel a la vez."
+      "contenido": [
+        "En julio de 1831, José Smith y un grupo de líderes viajaron a Misuri siguiendo la instrucción del Señor de que esa tierra era la promesa para los santos. Cuando llegaron a Independence, el Señor reveló D&C 57: esa ciudad sería el lugar central de Sion, y el terreno donde se construiría el templo fue dedicado por el profeta. Era un momento de cumplimiento profético extraordinario — los santos sentían que estaban parados literalmente en el lugar donde comenzaría la Sion del Señor en los últimos días. El Señor también instruyó a los santos sobre cómo establecerse en esa tierra: comprando terrenos, organizando imprentas, y haciéndolo todo de manera ordenada y fiel. Esta lección enseña que la visión de Sion no es solo espiritual sino también práctica: requiere trabajo, organización y fidelidad en las cosas pequeñas. La Sion que el Señor busca no cae del cielo — se construye una acción fiel a la vez.",
+        "Y conviene no confundir Sion con un lugar en un mapa. El Señor la define por lo que es la gente: «esta es Sion: los puros de corazón». Imaginá una comunidad entera de personas que se esfuerzan de verdad por seguir a Jesucristo y Su ejemplo —esa es la idea—, y el que la edifica es Él, usando las habilidades concretas de cada uno. Por eso comprar terrenos en Misuri era solo la parte visible del encargo. La parte que sigue en pie es la otra: llegar a ser más semejante a Cristo donde vivís, porque Sion se construye con personas así o no se construye."
+      ]
     },
     {
       "tipo": "escrituras",
@@ -17,6 +20,11 @@
           "referencia": "Doctrina y Convenios 57:5",
           "texto": "Así como todo terreno que colinda con la llanura, hasta donde mis discípulos puedan comprar terrenos. He aquí, esto es prudente, a fin de que los adquieran como herencia eterna.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/57?lang=spa&id=p5#p5"
+        },
+        {
+          "referencia": "Doctrina y Convenios 97:21",
+          "texto": "Por tanto, de cierto, así dice el Señor: Regocíjese Sion, porque esta es Sion: los puros de corazón; por consiguiente, regocíjese Sion mientras se lamentan todos los inicuos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=spa&id=p21#p21"
         }
       ]
     },
@@ -25,21 +33,23 @@
       "autor": "Profeta José Smith",
       "fuente": "Enseñanzas de los Presidentes de la Iglesia: José Smith, 2007, pág. 196",
       "texto": "Nuestro objetivo principal debe ser la edificación de Sion.",
-      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/212-doctrine-and-covenants-57?lang=spa"
+      "link": "https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/212-doctrine-and-covenants-57?lang=spa&id=aside1_p2#aside1_p2"
     },
     {
       "tipo": "conclusion",
-      "contenido": "D&C 57 marca un momento histórico: el Señor señalando el lugar físico donde se edificará Sion en los últimos días. Pero la lección más duradera no es la geografía sino el principio: la Sion del Señor se construye con personas que trabajan fielmente, se organizan con orden y ponen la visión del reino por encima de sus intereses personales. Eso puede comenzar hoy, en tu hogar, en tu barrio, en tu corazón."
+      "contenido": [
+        "Doctrina y Convenios 57 señala el lugar central de Sion, pero la definición que importa está en Doctrina y Convenios 97:21: Sion son los puros de corazón. La ciudad se edifica con gente, y el que la edifica es Jesucristo, y Su ejemplo es el molde de la gente que la forma. Eso convierte una profecía lejana en una tarea de esta semana: el barrio, la clase y la casa donde estás son el material con el que se construye. Elegí una relación concreta de tu casa que hoy no esté bien y hacé la primera cosa que la acerque, aunque sea chica."
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Qué significa que Independence, Misuri sea el 'lugar central' de Sion, según D&C 57?",
         "¿Por qué creés que el Señor instruyó a los santos a comprar terrenos y organizarse de manera práctica para construir Sion?",
-        "¿Qué tiene que ver Sion con tu vida hoy, si es una ciudad que todavía no existe?",
+        "Volvé a leer Doctrina y Convenios 97:21. ¿Con qué palabras define el Señor qué es Sion, y en qué se diferencia esa definición de un lugar geográfico?",
         "¿Qué características de un 'pueblo de corazón puro' querés desarrollar vos esta semana?",
         "¿Qué cosa pequeña pero real podrías hacer en tu hogar o barrio para contribuir a construir Sion desde adentro?",
-        "Sion empieza por la convivencia diaria. ¿Con quién de tu casa necesitás arreglar algo esta semana para que ese lugar se parezca un poco más a un pueblo de un solo corazón?"
+        "Sion empieza por la convivencia diaria. ¿Con quién de tu casa necesitás arreglar algo? Orá por esa persona esta semana antes de hablarle y anotá qué cambió."
       ]
     }
   ],
@@ -48,7 +58,7 @@
       "id": 1,
       "question": "D&C 57:1–3 identifica Independence, Misuri como el lugar central de algo. ¿De qué?",
       "options": [
-        "De Sion, donde el templo debía ser edificado.",
+        "De Sion, la ciudad donde debía edificarse el templo del Señor en Misuri.",
         "De las operaciones comerciales de la Iglesia en el oeste de los Estados Unidos.",
         "Del cuartel general del ejército de los santos en los últimos días.",
         "De la misión más grande que la Iglesia tenía asignada en ese período."
@@ -60,7 +70,7 @@
       "question": "D&C 57:5 instruye a Sidney Gilbert sobre cómo establecerse en Independence. ¿Qué debía obtener y para qué propósito?",
       "options": [
         "Permiso del gobierno local para predicar en las calles de la ciudad.",
-        "Una licencia para establecer un almacén y que los santos pudieran comprar la tierra en paz.",
+        "Una licencia para poner un almacén y que los santos compraran tierra.",
         "Un contrato de arrendamiento para construir el primer templo de Sion.",
         "Una licencia para establecer una imprenta y distribuir el evangelio."
       ],
@@ -72,7 +82,7 @@
       "options": [
         "Que cualquier ciudad podía llegar a ser Sion con suficiente organización y recursos.",
         "Que la ciudad física era lo decisivo y el carácter de la gente, algo secundario.",
-        "Que la ciudad era el marco visible de una obra mayor: formar un pueblo dispuesto a poner al Señor por encima de todo.",
+        "Que la ciudad era la parte visible de otra obra: formar un pueblo fiel al Señor.",
         "Que el lugar geográfico no tenía ninguna importancia dentro del plan del Señor."
       ],
       "correctAnswer": 2
@@ -84,7 +94,7 @@
         "Que el trabajo temporal es una carga que el Señor impone a los santos como prueba.",
         "Que la Iglesia debe ser autosuficiente económicamente antes de poder avanzar su misión.",
         "Que el Señor hace todo milagrosamente sin que Sus discípulos deban trabajar.",
-        "Que la visión del reino de Dios requiere trabajo práctico, organización y fe en acción — las visiones gloriosas se edifican con esfuerzo ordinario y fiel."
+        "Que la visión del reino pide trabajo práctico, organización y fe puesta en acción."
       ],
       "correctAnswer": 3
     },
@@ -92,7 +102,7 @@
       "id": 5,
       "question": "Agustina piensa que «Sion es algo del futuro que no tiene que ver con mi vida hoy». Según la enseñanza de José Smith sobre la edificación de Sion, ¿qué le falta ver?",
       "options": [
-        "Que edificar Sion empieza en el hogar y en el barrio de hoy, con decisiones que ya están a su alcance.",
+        "Que edificar Sion empieza hoy, en la casa y en el barrio en donde ella vive y estudia.",
         "Que la construcción de Sion corresponde a los líderes y no a los jóvenes de la Iglesia.",
         "Que primero debe terminar sus estudios y recién después ocuparse de contribuir a Sion.",
         "Que conviene esperar instrucciones concretas del profeta antes de hacer nada al respecto."
@@ -104,7 +114,7 @@
       "question": "Sofía sabe dónde está Independence pero nunca pensó que eso tuviera impacto en su fe. ¿Cómo podría el conocimiento de D&C 57 cambiar cómo entiende el propósito del evangelio en su vida?",
       "options": [
         "Haciéndola querer mudarse físicamente a Misuri para estar más cerca de Sion.",
-        "Recordándole que es parte de una historia y un plan que trasciende su vida individual — hay una obra de edificación en marcha donde ella tiene un rol.",
+        "Recordándole que hay una obra en marcha en la que ella tiene un lugar propio.",
         "Convenciéndola de que la historia de la Iglesia es más importante que la doctrina.",
         "Generando en ella ansiedad por los eventos del fin del mundo que se acercan."
       ],
@@ -116,7 +126,7 @@
       "options": [
         "Que la organización eclesiástica es más importante que el carácter personal en la construcción del reino.",
         "Que Ohio y Misuri son igualmente importantes en el plan del Señor para los últimos días.",
-        "Que el reino de Dios se edifica con orden concreto y práctico — tanto en las personas (D&C 51) como en los lugares (D&C 57) — la visión gloriosa requiere organización fiel en los detalles pequeños.",
+        "Que el reino se edifica con orden concreto, tanto en las personas como en los lugares.",
         "Que el Señor siempre revela primero los lugares y después organiza a las personas."
       ],
       "correctAnswer": 2
