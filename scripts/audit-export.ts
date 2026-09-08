@@ -55,7 +55,6 @@ const NOMBRE_HOJA: Record<string, string> = {
   "nuevo-testamento": "NT",
   "doctrina-y-convenios-1": "DyC 1",
   "doctrina-y-convenios-2": "DyC 2",
-  Bloques: "Bloques",
   "religion-250": "Rel 250",
   "religion-225": "Rel 225",
   "religion-301": "Rel 301",

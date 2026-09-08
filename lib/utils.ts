@@ -162,7 +162,6 @@ function getProgramLabel(categoryId: string): string {
     'libro-de-mormon',
     'doctrina-y-convenios-1',
     'doctrina-y-convenios-2',
-    'Bloques',
   ]
   return seminarioIds.includes(categoryId) ? 'Seminario' : 'Instituto'
 }

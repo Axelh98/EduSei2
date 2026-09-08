@@ -28,7 +28,6 @@ import libroDeMormon2 from "./libro-de-mormon-2/_manifest.json"
 import nuevoTestamento from "./nuevo-testamento/_manifest.json"
 import doctrinaYConvenios1 from "./doctrina-y-convenios-1/_manifest.json"
 import doctrinaYConvenios2 from "./doctrina-y-convenios-2/_manifest.json"
-import bloques from "./Bloques/_manifest.json"
 import religion250 from "./religion-250/_manifest.json"
 import religion225 from "./religion-225/_manifest.json"
 import religion301 from "./religion-301/_manifest.json"
@@ -42,7 +41,6 @@ const MANIFESTS: Record<string, any> = {
   "nuevo-testamento": nuevoTestamento,
   "doctrina-y-convenios-1": doctrinaYConvenios1,
   "doctrina-y-convenios-2": doctrinaYConvenios2,
-  Bloques: bloques,
   "religion-250": religion250,
   "religion-225": religion225,
   "religion-301": religion301,
@@ -146,16 +144,6 @@ const COURSES: CourseMeta[] = [
     courseType: "seminario",
     semester: 2,
     semesterGroup: "doctrina-y-convenios",
-  },
-  {
-    id: "Bloques",
-    name: "Bloque de Escrituras",
-    shortName: "Bloque",
-    description:
-      "Un bloque de estudio que combina las cuatro escrituras. Ideal para repasar y comparar enseñanzas clave.",
-    icon: "book-open",
-    color: "bg-primary",
-    courseType: "seminario",
   },
   {
     id: "religion-250",

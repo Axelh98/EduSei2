@@ -49,14 +49,6 @@ const SEMINARIO_THEMES: Record<string, CategoryTheme> = {
     siglaBg: "#FAECE7",
     siglaText: "#711B13",
   },
-  "Bloques": {
-    stripe: "#888780",
-    iconBg: "#F1EFE8",
-    iconColor: "#5F5E5A",
-    sigla: "Bloque",
-    siglaBg: "#F1EFE8",
-    siglaText: "#2C2C2A",
-  },
 }
 
 const INSTITUTO_FUNDAMENTAL_THEME = {
@@ -106,15 +98,6 @@ function CategoryIcon({ categoryId, color }: { categoryId: string; color: string
         <svg width="22" height="22" viewBox="0 0 20 20" fill="none">
           <circle cx="10" cy="10" r="7" stroke={color} strokeWidth="1.2" fill="none" />
           <path d="M10 6v8M6 10h8" stroke={color} strokeWidth="1.2" strokeLinecap="round" />
-        </svg>
-      )
-    case "Bloques":
-      return (
-        <svg width="22" height="22" viewBox="0 0 20 20" fill="none">
-          <rect x="3" y="3" width="6" height="6" rx="1" stroke={color} strokeWidth="1.2" fill="none" />
-          <rect x="11" y="3" width="6" height="6" rx="1" stroke={color} strokeWidth="1.2" fill="none" />
-          <rect x="3" y="11" width="6" height="6" rx="1" stroke={color} strokeWidth="1.2" fill="none" />
-          <rect x="11" y="11" width="6" height="6" rx="1" stroke={color} strokeWidth="1.2" fill="none" />
         </svg>
       )
     default:

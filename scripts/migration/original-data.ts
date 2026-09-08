@@ -16,7 +16,6 @@ import { libroMormonSegundoSemestreWeeks } from "../../lib/data/libro-de-mormon-
 import { nuevoTestamentoWeeks } from "../../lib/data/nuevo-testamento"
 import { doctrinaYConveniosWeeks1semestre } from "../../lib/data/doctrina-y-convenios-primer-semestre"
 import { doctrinaYConveniosWeeks2semestre } from "../../lib/data/doctrina-y-convenios-segundo-semestre"
-import { bloqueDeEscriturasWeeks } from "../../lib/data/bloques"
 import { religion250Lessons } from "../../lib/data/religion-250"
 import { religion225Lessons } from "../../lib/data/religion-225"
 import { religion301Lessons } from "../../lib/data/religion-301"
@@ -37,7 +36,6 @@ export const ORIGINAL_WEEKLY: Record<string, Week[]> = {
   "nuevo-testamento": nuevoTestamentoWeeks as Week[],
   "doctrina-y-convenios-1": doctrinaYConveniosWeeks1semestre as Week[],
   "doctrina-y-convenios-2": doctrinaYConveniosWeeks2semestre as Week[],
-  Bloques: bloqueDeEscriturasWeeks as Week[],
 }
 
 export const ORIGINAL_FLAT: Record<string, Lesson[]> = {

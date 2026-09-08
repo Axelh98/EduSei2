@@ -8,32 +8,6 @@
 type JsonLoader = () => Promise<{ default: any }>
 
 export const CONTENT_MAP: Record<string, Record<string, JsonLoader>> = {
-  "Bloques": {
-    "bloque-at-1": () => import("./Bloques/bloque-at-1.json"),
-    "bloque-at-2": () => import("./Bloques/bloque-at-2.json"),
-    "bloque-at-3": () => import("./Bloques/bloque-at-3.json"),
-    "bloque-at-4": () => import("./Bloques/bloque-at-4.json"),
-    "bloque-at-5": () => import("./Bloques/bloque-at-5.json"),
-    "bloque-at-6": () => import("./Bloques/bloque-at-6.json"),
-    "bloque-at-7": () => import("./Bloques/bloque-at-7.json"),
-    "bloque-at-8": () => import("./Bloques/bloque-at-8.json"),
-    "bloque-lm-1": () => import("./Bloques/bloque-lm-1.json"),
-    "bloque-lm-2": () => import("./Bloques/bloque-lm-2.json"),
-    "bloque-lm-3": () => import("./Bloques/bloque-lm-3.json"),
-    "bloque-lm-4": () => import("./Bloques/bloque-lm-4.json"),
-    "bloque-lm-5": () => import("./Bloques/bloque-lm-5.json"),
-    "bloque-lm-6": () => import("./Bloques/bloque-lm-6.json"),
-    "bloque-lm-7": () => import("./Bloques/bloque-lm-7.json"),
-    "bloque-nt-1": () => import("./Bloques/bloque-nt-1.json"),
-    "bloque-nt-2": () => import("./Bloques/bloque-nt-2.json"),
-    "bloque-nt-3": () => import("./Bloques/bloque-nt-3.json"),
-    "bloque-nt-4": () => import("./Bloques/bloque-nt-4.json"),
-    "bloque-nt-5": () => import("./Bloques/bloque-nt-5.json"),
-    "bloque-nt-6": () => import("./Bloques/bloque-nt-6.json"),
-    "bloque-nt-7": () => import("./Bloques/bloque-nt-7.json"),
-    "bloque-nt-8": () => import("./Bloques/bloque-nt-8.json"),
-    "bloque-nt-9": () => import("./Bloques/bloque-nt-9.json"),
-  },
   "antiguo-testamento-1": {
     "leccion-1": () => import("./antiguo-testamento-1/leccion-1.json"),
     "leccion-161": () => import("./antiguo-testamento-1/leccion-161.json"),
@@ -720,7 +694,6 @@ export const CONTENT_MAP: Record<string, Record<string, JsonLoader>> = {
 }
 
 export const MANIFEST_MAP: Record<string, JsonLoader> = {
-  "Bloques": () => import("./Bloques/_manifest.json"),
   "antiguo-testamento-1": () => import("./antiguo-testamento-1/_manifest.json"),
   "antiguo-testamento-2": () => import("./antiguo-testamento-2/_manifest.json"),
   "doctrina-y-convenios-1": () => import("./doctrina-y-convenios-1/_manifest.json"),
