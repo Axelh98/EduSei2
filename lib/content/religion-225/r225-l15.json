@@ -1,5 +1,172 @@
 {
   "id": "r225-l15",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Imagina que te conviertes a la Iglesia restaurada en 1832. Si te criaron como cristiano, probablemente creías tres cosas: que el Padre, el Hijo y el Espíritu Santo son un solo Dios sin cuerpo, partes ni pasiones; que los seres humanos no existían antes de nacer y fueron creados de la nada; y que Dios es incognoscible, de modo que pretender parecerse a Él sería una insolencia. La Restauración desarmó las tres. Mientras traducía Génesis en 1830, José Smith recibió lo que hoy es el primer capítulo de Moisés, donde el Señor le dice a un profeta, con todas las letras, cuál es Su trabajo: la inmortalidad y la vida eterna del hombre. No la gloria propia. Nosotros."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El libro de Abraham agregó la otra mitad del cuadro: antes de esta vida existíamos, éramos inteligencias organizadas, y entre ellas Dios vio a las nobles y grandes. Doctrina y Convenios lo dice en cinco palabras: «También el hombre fue en el principio con Dios». En 1844, pocos meses antes de morir, José habló en el funeral de su amigo King Follett y llevó la doctrina hasta el final: si los hombres no comprenden la naturaleza de Dios, no se comprenden a sí mismos; y Dios instituyó leyes para que Sus hijos pudieran progresar como Él lo hizo, «de gracia en gracia, de exaltación en exaltación». El élder Hales lo definió con una frase que conviene no perder: la vida eterna es «la vida que Dios vive»."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Moisés 1:39",
+          "texto": "Porque, he aquí, esta es mi obra y mi gloria: Llevar a cabo la inmortalidad y la vida eterna del hombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=spa&id=p39#p39",
+          "comentario": "El versículo que ordena todo lo demás. Todo lo que Dios hace —la Creación, los mandamientos, la Expiación, la Iglesia— existe para esto y no para otra cosa."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Abraham 3:22–23",
+          "texto": "Y el Señor me había mostrado a mí, Abraham, las inteligencias que fueron organizadas antes que existiera el mundo; y entre todas estas había muchas de las nobles y grandes; y vio Dios que estas almas eran buenas, y estaba en medio de ellas, y dijo: A estos haré mis gobernantes; pues estaba entre aquellos que eran espíritus, y vio que eran buenos; y me dijo: Abraham, tú eres uno de ellos; fuiste escogido antes de nacer.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=spa&id=p22-p23#p22",
+          "comentario": "Abraham ve las inteligencias organizadas antes de que el mundo fuese. La frase clave es «tú eres uno de ellos»: la vida preterrenal no es una idea abstracta, tiene tu nombre adentro."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 76:50–53",
+          "texto": "Y otra vez testificamos, porque vimos y oímos, y este es el testimonio del evangelio de Cristo concerniente a los que saldrán en la resurrección de los justos: Estos son los que recibieron el testimonio de Jesús, y creyeron en su nombre, y fueron bautizados según la manera de su sepultura, siendo sepultados en el agua en su nombre; y esto de acuerdo con el mandamiento que él ha dado, para que, guardando los mandamientos, fuesen lavados y limpiados de todos sus pecados, y recibiesen el Santo Espíritu por la imposición de las manos del que es ordenado y sellado para ejercer este poder; y son quienes vencen por la fe, y son sellados por el Santo Espíritu de la promesa, que el Padre derrama sobre todos los que son justos y fieles.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=spa&id=p50-p53#p50",
+          "comentario": "La descripción de quiénes heredan el reino celestial. Nótese que la lista no empieza por logros sino por creer, ser bautizado, guardar los mandamientos y ser sellado por el Santo Espíritu de la promesa."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder Robert D. Hales",
+          "fuente": "«El Plan de Salvación: un sagrado tesoro de conocimiento que nos guía», Liahona, octubre de 2015, pág. 33",
+          "texto": "El don de la vida eterna merece cualquier esfuerzo que hagamos para estudiar, aprender y poner en práctica el Plan de Salvación. Todo el género humano resucitará y recibirá las bendiciones de la inmortalidad; pero para obtener la vida eterna, el tipo de vida que Dios vive, vale la pena vivir el Plan de Salvación con todo el corazón, mente, alma y fuerza.",
+          "link": "https://www.churchofjesuschrist.org/study/liahona/2015/10/the-plan-of-salvation-a-sacred-treasure-of-knowledge-to-guide-us?lang=spa",
+          "linkManual": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-15-class-preparation-material-heavenly-fathers-plan-and-our-divine-potential?lang=spa#p5"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder D. Todd Christofferson",
+          "fuente": "«Yo reprendo y disciplino a todos los que amo», Liahona, mayo de 2011, pág. 97",
+          "texto": "En todo eso, el propósito de Dios es que nosotros, Sus hijos, podamos experimentar el gozo supremo, estar con Él eternamente y llegar a ser como Él es.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2011/04/as-many-as-i-love-i-rebuke-and-chasten?lang=spa#p4"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Hay una manera equivocada de escuchar esta doctrina y una correcta. La equivocada la convierte en una carrera: si el destino es llegar a ser como Dios, entonces cada día es una evaluación y cada falla, una pérdida de terreno. La correcta empieza por el orden en que suceden las cosas. Primero está lo que Él ya hizo: nos dio existencia, nos puso en un plan y envió a Su Hijo a redimirnos cuando todavía no habíamos hecho nada por merecerlo. El progreso del que habló José Smith es «de gracia en gracia»: no se avanza por fuerza propia, se avanza recibiendo. Por eso la pregunta útil esta semana no es cuánto te falta, sino qué paso concreto puedes dar hoy confiando en el poder de Jesucristo para sostenerte."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "La obra y la gloria de Dios es llevar a cabo la inmortalidad y la vida eterna del hombre (Moisés 1:39).",
+            "Existimos antes de esta vida: el hombre «fue en el principio con Dios», y Abraham vio a las inteligencias organizadas antes de que el mundo fuese (Doctrina y Convenios 93:29; Abraham 3:22–23).",
+            "La vida eterna es «la vida que Dios vive», y se distingue de la inmortalidad, que todo el género humano recibirá (élder Hales).",
+            "José Smith enseñó en el funeral de King Follett que quien no comprende la naturaleza de Dios tampoco se comprende a sí mismo, y que progresamos «de gracia en gracia».",
+            "El propósito de Dios en todo esto es que Sus hijos experimenten el gozo supremo, estén con Él eternamente y lleguen a ser como Él (élder Christofferson)."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Qué parte del plan de salvación te resultó más difícil de explicar a alguien que no es miembro?",
+            "¿Cómo cambia tu manera de mirar a la gente el saber que todos existían antes de nacer?",
+            "Vuelve a leer Moisés 1:39. ¿Qué dice el Señor que es Su obra y Su gloria, y qué implica eso sobre cuánto le importas?",
+            "El élder Hales definió la vida eterna como «la vida que Dios vive». ¿Qué parte de esa vida te gustaría empezar a vivir ahora?",
+            "¿Qué hábito concreto vas a cambiar esta semana para dar un paso, aunque sea pequeño, en esa dirección?",
+            "Ora agradeciendo por algo que ya recibiste sin merecerlo y anota lo que te venga a la mente."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "Según Moisés 1:39, ¿cuál es la obra y la gloria de Dios?",
+      "options": [
+        "Llevar a cabo la inmortalidad y la vida eterna del hombre",
+        "Recibir la adoración de todos Sus hijos en la vida que viene después",
+        "Establecer las leyes por las que se rige el universo entero y sus mundos",
+        "Crear y gobernar mundos sin número por toda la eternidad venidera"
+      ],
+      "correctAnswer": 0,
+      "explanation": "«Porque he aquí, esta es mi obra y mi gloria: Llevar a cabo la inmortalidad y la vida eterna del hombre»."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "¿Qué enseña Abraham 3:22–23 sobre nuestra existencia antes de esta vida?",
+      "options": [
+        "Que solo algunos espíritus escogidos existieron antes de esta vida",
+        "Que existíamos como inteligencias organizadas antes del mundo",
+        "Que nuestra vida anterior no dejó ninguna huella reconocible en esta",
+        "Que fuimos creados de la nada en el momento de nacer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abraham vio «las inteligencias que fueron organizadas antes que existiera el mundo», y el Señor le dijo: «tú eres uno de ellos»."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "El élder Hales distinguió la inmortalidad de la vida eterna. ¿En qué consiste esa diferencia?",
+      "options": [
+        "La inmortalidad se recibe en el templo y la vida eterna, al morir",
+        "Son dos nombres distintos para una misma bendición prometida",
+        "Todos resucitarán, pero la vida eterna es el tipo de vida que Dios vive",
+        "La inmortalidad dura para siempre y la vida eterna, solo un tiempo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "«Todo el género humano resucitará y recibirá las bendiciones de la inmortalidad; pero para obtener la vida eterna, el tipo de vida que Dios vive, vale la pena vivir el Plan de Salvación con todo el corazón»."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "En el discurso del funeral de King Follett, ¿qué relación estableció José Smith entre conocer a Dios y conocernos a nosotros mismos?",
+      "options": [
+        "Que conocerse a uno mismo es el requisito previo para llegar a conocer a Dios",
+        "Que ambas cosas son inalcanzables mientras dure la vida terrenal",
+        "Que solo los profetas llamados pueden comprender esas verdades",
+        "Que quien no comprende la naturaleza de Dios tampoco se comprende"
+      ],
+      "correctAnswer": 3,
+      "explanation": "«No son sino pocos los seres en el mundo que entienden correctamente la naturaleza de Dios […]. Si los hombres no comprenden la naturaleza de Dios, no se comprenden a sí mismos»."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Milagros escucha que podemos llegar a ser como Dios y lo vive como una presión que la agobia. ¿Qué corrige esa lectura, según la lección?",
+      "options": [
+        "Que el progreso es «de gracia en gracia»: se avanza recibiendo",
+        "Que la exaltación depende sobre todo del esfuerzo sostenido",
+        "Que esa doctrina se aplica solo a quienes sirven en llamamientos",
+        "Que conviene no pensar en ese destino hasta tener bastante más edad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "José Smith enseñó que se avanza «de un pequeño grado a otro […], de gracia en gracia, de exaltación en exaltación». El orden empieza por lo que Dios ya hizo."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Ezequiel trata con desprecio a un compañero que le cae mal. ¿Qué verdad restaurada de esta lección se aplica directamente a eso?",
+      "options": [
+        "Que conviene tratar bien a todos para evitar conflictos futuros",
+        "Que esa persona existía antes de nacer y tiene el mismo potencial divino",
+        "Que las diferencias entre las personas desaparecerán al resucitar",
+        "Que el juicio sobre los demás corresponde solo a Dios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abraham vio a las inteligencias organizadas antes del mundo. Saber que todos existían antes y que la obra de Dios es la vida eterna de cada uno cambia cómo se mira a la gente."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "Moisés 1:39 y la enseñanza del élder Christofferson describen el propósito de Dios desde dos ángulos. ¿Qué principio los une?",
+      "options": [
+        "Que la gloria de Dios aumenta según cuántos hijos le obedezcan",
+        "Que la creación de mundos sin número es la obra principal del Padre Celestial",
+        "Que Dios ordena Su obra alrededor del gozo y el destino de Sus hijos",
+        "Que el plan de salvación se comprende solo después de esta vida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Señor declara que Su obra y Su gloria es la vida eterna del hombre; el élder Christofferson dice que Su propósito es que Sus hijos «experimenten el gozo supremo, estén con Él eternamente y lleguen a ser como Él es»."
+    }
+  ]
 }

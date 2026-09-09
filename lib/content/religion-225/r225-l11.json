@@ -1,5 +1,172 @@
 {
   "id": "r225-l11",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Los hijos de Israel son los descendientes de Jacob, cuyo nombre fue cambiado a Israel, y herederos del convenio que Dios hizo con Abraham y con Isaac. Por su iniquidad y su rebelión, esas doce tribus fueron esparcidas entre todas las naciones. El recogimiento de Israel es el proceso inverso: el Señor volviendo a juntar a Su pueblo del convenio, no por nostalgia geográfica, sino para que reciba las ordenanzas que solo se administran donde Él tiene una casa. Isaías lo vio como una segunda vez en que el Señor extiende Su mano, y el Libro de Mormón agrega el dato que cambia todo: es el Salvador mismo quien recoge a los descendientes de Jacob."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "En nuestra dispensación empezó casi de inmediato. Un mes después de una revelación de septiembre de 1830, Oliver Cowdery y otros tres hermanos salieron en un viaje misional; su mayor éxito ocurrió al detenerse en Kirtland, Ohio, donde bautizaron a unos ciento treinta conversos y abrieron sin saberlo el primer lugar de recogimiento de la Iglesia. Después vinieron Misuri, Illinois y el valle del Lago Salado, y en cada uno de esos lugares el Señor mandó construir un templo. Hoy el recogimiento ya no consiste en mudarse: el Señor congrega a Su pueblo en las estacas y los templos de cada nación, y lo congrega espiritualmente cada vez que alguien llega al conocimiento de Su evangelio."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Isaías 11:11–12",
+          "texto": "Asimismo, acontecerá en aquel día que el Señor pondrá otra vez su mano para recobrar el remanente de su pueblo que haya quedado de Asiria, y de Egipto, y de Patros, y de Etiopía, y de Elam, y de Sinar, y de Hamat y de las islas del mar. Y levantará estandarte a las naciones, y juntará a los desterrados de Israel y reunirá a los esparcidos de Judá de los cuatro confines de la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/11?lang=spa&id=p11-p12#p11",
+          "comentario": "«Por segunda vez»: Isaías anuncia un recogimiento posterior al regreso de Babilonia. La señal levantada a las naciones y los desterrados juntados de los cuatro extremos de la tierra describen lo que hoy hace la obra misional."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "3 Nefi 5:24–26",
+          "texto": "Y tan cierto como vive el Señor, reunirá de las cuatro partes de la tierra a todo el resto de los descendientes de Jacob que se hallan dispersos sobre toda la superficie de la tierra. Y tal como ha hecho convenio con toda la casa de Jacob, así se cumplirá, en su debido tiempo, el convenio que ha concertado con la casa de Jacob, para la restauración de toda la casa de Jacob al conocimiento del convenio que él ha hecho con ellos. Y entonces conocerán a su Redentor, que es Jesucristo, el Hijo de Dios; y entonces serán recogidos de las cuatro partes de la tierra a sus propios países, de donde han sido dispersados; sí, así como vive el Señor, así sucederá. Amén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/5?lang=spa&id=p24-p26#p24",
+          "comentario": "Mormón declara quién es el agente del recogimiento: el Señor, cumpliendo el convenio que hizo con Jacob. Nosotros ayudamos, pero la obra no es nuestra."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 29:7",
+          "texto": "Y sois llamados para efectuar el recogimiento de mis escogidos; porque estos escuchan mi voz y no endurecen su corazón.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=spa&id=p7#p7",
+          "comentario": "El criterio del recogimiento no es el linaje ni el mérito, sino el oído: son recogidos los que oyen Su voz y no endurecen el corazón."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Russell M. Nelson",
+          "fuente": "«Juventud de Israel», devocional mundial para los jóvenes, 3 de junio de 2018, suplemento de la revista Liahona, págs. 8, 11–12",
+          "texto": "[U]stedes fueron enviados a la tierra en este preciso momento, el momento más crucial de la historia del mundo, para ayudar a recoger a Israel. No hay nada que esté ocurriendo en esta tierra ahora que sea más importante que eso. No hay nada que sea de mayor consecuencia. Absolutamente nada.",
+          "link": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-11-class-preparation-material-the-gathering-of-israel?lang=spa#p30"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Dallin H. Oaks",
+          "fuente": "«Compartir el Evangelio», Liahona, enero de 2002, págs. 8–9",
+          "texto": "Las impresiones vendrán. Sabemos —gracias a incontables testimonios— que, en Su debida forma y en Su debido tiempo, el Señor está preparando a personas para que acepten Su evangelio. Esas personas están investigando y, cuando procuremos saber quiénes son, el Señor contestará sus oraciones al dar respuesta a las nuestras. Él dará inspiración y guiará a los que tienen el deseo y sinceramente buscan orientación sobre cómo, dónde, cuándo y con quién compartir el Evangelio.",
+          "link": "https://www.churchofjesuschrist.org/study/liahona/2002/01/sharing-the-gospel?lang=spa",
+          "linkManual": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-11-class-preparation-material-the-gathering-of-israel?lang=spa#p26"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cuando José Smith le susurró a Heber C. Kimball que el Espíritu le había dicho que fuera a Inglaterra, Heber se sintió abrumado: se consideraba uno de los siervos más débiles de Dios. Clamó pidiendo sabiduría y se esforzó por confiar en que el Señor le daría poder para expresarse. Estuvo fuera once meses y dos días, y unas dos mil almas se sumaron a la Iglesia. La lección no es que había que ser Heber C. Kimball. Es que la ansiedad por no estar a la altura es el punto de partida normal de esta obra, no una señal de que no te toca. El presidente Oaks describió el mecanismo: pedir en oración por alguien concreto hoy, y prestar oído. El Señor responde las oraciones de quien busca al respondernos a nosotros."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "El recogimiento de Israel es el cumplimiento del convenio que Dios hizo con Abraham, y el Salvador mismo es quien recoge a los descendientes de Jacob (3 Nefi 5:24–26).",
+            "Son recogidos quienes oyen la voz del Señor y no endurecen el corazón, no quienes cumplen un requisito de linaje (Doctrina y Convenios 29:7).",
+            "El propósito del recogimiento, en toda época, ha sido edificar templos para que los hijos de Dios reciban las ordenanzas más altas.",
+            "Hoy el recogimiento es tanto físico —en las estacas y templos de cada nación— como espiritual, cuando alguien llega al conocimiento del Evangelio.",
+            "Participar en el recogimiento requiere sacrificio de tiempo, energía y talentos, y es la obra más importante que ocurre hoy sobre la tierra (presidente Nelson)."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Quién te compartió a ti el Evangelio, o quién lo compartió con tu familia?",
+            "Heber C. Kimball se sentía incapaz y fue igual. ¿Qué es lo que más te frena a la hora de hablar de tu fe?",
+            "Vuelve a leer Doctrina y Convenios 29:7. ¿A quiénes dice el Señor que se recoge, y qué condición pone?",
+            "El presidente Nelson dijo que nada de lo que ocurre hoy es más importante que esta obra. ¿Qué tendría que cambiar en tu agenda para que eso fuera cierto también en tu vida?",
+            "¿A qué persona concreta podrías invitar esta semana a algo de la Iglesia, sin discurso previo?",
+            "Ora pidiendo que se te muestre a quién el Señor ya está preparando, y anota el nombre que te venga a la mente."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "¿Quiénes son los hijos de Israel y por qué fueron esparcidos?",
+      "options": [
+        "Los descendientes de Jacob, esparcidos por su iniquidad y rebelión",
+        "Los conversos del Nuevo Testamento, dispersos por la persecución",
+        "Los pueblos del Libro de Mormón, esparcidos tras las guerras finales",
+        "Los habitantes de Jerusalén, dispersados por el imperio romano"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Son los descendientes de Jacob, cuyo nombre fue cambiado a Israel, y partícipes del convenio hecho con Abraham. El Señor los esparció por su iniquidad y rebelión."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "Según 3 Nefi 5:24–26, ¿quién lleva a cabo el recogimiento de los descendientes de Jacob?",
+      "options": [
+        "Los profetas antiguos, mediante sus profecías escritas",
+        "El Señor mismo, cumpliendo el convenio que hizo con Jacob",
+        "Las naciones gentiles, al abrirse al Evangelio",
+        "Los misioneros llamados en cada dispensación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mormón declara que el Señor recogerá al resto de la posteridad de Jacob, en cumplimiento del convenio que hizo con él."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "Según Doctrina y Convenios 29:7, ¿a quiénes recoge el Señor?",
+      "options": [
+        "A los que han recibido todas las ordenanzas del templo",
+        "A los que viven cerca de una estaca ya establecida",
+        "A los que oyen Su voz y no endurecen el corazón",
+        "A los descendientes directos de las doce tribus antiguas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "«Sois llamados para efectuar el recogimiento de mis escogidos […] mis escogidos oyen mi voz y no endurecen el corazón»."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Cuál ha sido, en todas las épocas, el propósito divino del recogimiento?",
+      "options": [
+        "Formar comunidades económicamente autosuficientes",
+        "Proteger a los santos de la persecución de sus vecinos",
+        "Concentrar a los miembros para facilitar su organización",
+        "Edificar templos donde recibir las ordenanzas más altas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "José Smith declaró que el propósito divino del recogimiento, en todas las épocas, ha sido edificar templos para que los hijos del Señor reciban las ordenanzas más altas."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Emilia quiere compartir el Evangelio pero se siente incapaz y sin palabras. ¿Qué le enseña la experiencia de Heber C. Kimball?",
+      "options": [
+        "Que se sintió igual de débil, confió en Dios y fue lo mismo",
+        "Que solo los misioneros llamados deben hacerlo",
+        "Que conviene esperar a sentirse preparado antes de aceptar el llamado",
+        "Que la capacidad de hablar bien es lo que decide el resultado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Heber se sentía «uno de los siervos más débiles de Dios», clamó pidiendo sabiduría y fue igual: unas dos mil almas se sumaron a la Iglesia en once meses."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Bruno no sabe con quién empezar a compartir el Evangelio. Según el presidente Oaks, ¿cuál es el primer paso?",
+      "options": [
+        "Estudiar más doctrina antes de intentar cualquier conversación",
+        "Pedir en oración por la persona a quien el Señor quiere ayudar hoy",
+        "Invitar a la mayor cantidad de conocidos que sea posible",
+        "Esperar a que alguien le pregunte primero sobre sus creencias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "«Debemos pedir en oración la ayuda y la guía del Señor para que podamos ser instrumentos en Sus manos y ayudar al que esté preparado». Él responde las oraciones del que busca al responder las nuestras."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "El recogimiento hoy es a la vez físico y espiritual. ¿Qué muestra esa doble forma sobre la obra del Señor?",
+      "options": [
+        "Que la obra depende sobre todo del crecimiento en número de miembros",
+        "Que mudarse a un lugar central sigue siendo lo más importante",
+        "Que lo congrega donde vive y en el conocimiento de Su evangelio",
+        "Que el recogimiento antiguo era distinto en propósito del actual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Señor recoge físicamente a Su pueblo en las estacas y los templos de las naciones, y espiritualmente cada vez que alguien llega al conocimiento de Su evangelio."
+    }
+  ]
 }

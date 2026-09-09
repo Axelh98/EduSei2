@@ -77,41 +77,41 @@
       "id": 1,
       "question": "¿Cuál es el mandamiento central que Moisés repitió en Deuteronomio 6:5, conocido como el Shemá?",
       "options": [
+        "Honrar a tu padre y a tu madre para que tus días se alarguen.",
         "Guardar el día de reposo con todo rigor.",
-        "Amar al Señor tu Dios con todo tu corazón, con toda tu alma y con todas tus fuerzas.",
-        "No tener dioses ajenos delante de Jehová.",
-        "Honrar a tu padre y a tu madre para que tus días se alarguen."
+        "Amar al Señor tu Dios con todo tu corazón, tu alma y tus fuerzas.",
+        "No tener dioses ajenos delante de Jehová."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Qué peligro específico advirtió Moisés al pueblo en Deuteronomio 8 sobre cuando prosperaran en la tierra prometida?",
       "options": [
+        "Que los impuestos de los reyes vecinos los empobrecerían.",
         "Que olvidarían el idioma hebreo al mezclarse con otras culturas.",
         "Que serían atacados por naciones más poderosas.",
-        "Que podrían enorgullecerse y olvidarse de que fue el Señor quien les dio la prosperidad.",
-        "Que los impuestos de los reyes vecinos los empobrecerían."
+        "Que podrían enorgullecerse y olvidar que el Señor les dio la prosperidad."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "¿A quién anunció Moisés en Deuteronomio 18:15–19 que el Señor levantaría como profeta semejante a él?",
       "options": [
+        "A Jesucristo, que hablaría las palabras del Padre.",
+        "A Elías, quien vendría antes del día del Señor.",
         "A Josué, su sucesor inmediato.",
-        "A Samuel, el último de los jueces.",
-        "A Jesucristo, el gran profeta que hablaría las palabras del Padre.",
-        "A Elías, quien vendría antes del día del Señor."
+        "A Samuel, el último de los jueces."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "¿Qué elección fundamental presentó Moisés al pueblo en Deuteronomio 30:19–20?",
       "options": [
         "Entre quedarse en el desierto o entrar a la tierra prometida.",
-        "Entre la vida y la muerte, la bendición y la maldición, invitándolos a elegir la vida.",
+        "Entre la vida y la muerte, la bendición y la maldición.",
         "Entre seguir a Moisés o elegir a un nuevo líder.",
         "Entre el sacerdocio de Aarón y el de Melquisedec."
       ],
@@ -121,12 +121,12 @@
       "id": 5,
       "question": "¿Qué nos enseña la muerte de Moisés en Deuteronomio 34 sobre el carácter del servicio fiel a Dios?",
       "options": [
+        "Que el Señor abandonó a Moisés al final de su vida.",
         "Que el servicio fiel garantiza una vida larga sin sufrimiento.",
-        "Que incluso los grandes siervos de Dios pueden no ver cumplidas todas las promesas en su vida mortal, pero su fidelidad tiene valor eterno.",
-        "Que Moisés fracasó al final por no poder entrar a la tierra prometida.",
-        "Que el Señor abandonó a Moisés al final de su vida."
+        "Que aun los grandes siervos pueden no ver cumplidas todas las promesas en vida.",
+        "Que Moisés fracasó al final por no poder entrar a la tierra prometida."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

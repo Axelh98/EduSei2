@@ -71,30 +71,30 @@
       "id": 1,
       "question": "¿Cuál fue el propósito principal de las diez plagas enviadas sobre Egipto, según Éxodo 7–10?",
       "options": [
+        "Convencer a Faraón de que se convirtiera al Dios de Israel.",
         "Castigar al pueblo egipcio por sus pecados pasados.",
         "Demostrar que Moisés era más poderoso que los magos de Faraón.",
-        "Mostrar que Jehová es el único Dios verdadero y liberar a Israel de la esclavitud.",
-        "Convencer a Faraón de que se convirtiera al Dios de Israel."
+        "Mostrar que Jehová es el único Dios verdadero."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Qué debían hacer los israelitas con la sangre del cordero pascual en Éxodo 12?",
       "options": [
-        "Beberla como parte de la ceremonia de la Pascua.",
-        "Untarla en los postes y dinteles de sus puertas para que el ángel destructor los pasara por alto.",
+        "Untarla en los postes y el dintel de sus puertas.",
         "Ofrecerla en el altar del tabernáculo como sacrificio.",
-        "Guardarla en vasijas de barro para los días siguientes."
+        "Guardarla en vasijas de barro para los días siguientes.",
+        "Beberla como parte de la ceremonia de la Pascua."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "¿En qué sentido el cordero pascual es un símbolo profético de Jesucristo?",
       "options": [
         "Porque Jesús también fue criado en Egipto durante su infancia.",
-        "Porque su sangre, al igual que la del cordero, nos protege de la muerte espiritual cuando actuamos con fe.",
+        "Porque, como el cordero, Su sangre protege al que actúa con fe.",
         "Porque Jesús instituyó la Pascua durante Su ministerio terrenal.",
         "Porque el cordero era el animal favorito de los israelitas."
       ],
@@ -104,23 +104,23 @@
       "id": 4,
       "question": "¿Qué endureció el corazón de Faraón y le impidió liberar a Israel a pesar de las plagas?",
       "options": [
+        "La influencia de los magos que le aseguraban que podían igualar todos los milagros.",
         "La presión de sus consejeros que temían perder mano de obra.",
         "El orgullo y la obstinación que lo llevaban a resistir la voluntad de Dios repetidamente.",
-        "Una maldición específica que el Señor puso sobre él desde el principio.",
-        "La influencia de los magos que le aseguraban que podían igualar todos los milagros."
+        "Una maldición específica que el Señor puso sobre él desde el principio."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "¿Qué nos enseña la institución de la Pascua sobre la importancia de los rituales y ordenanzas en el Evangelio?",
       "options": [
-        "Que los rituales son solo tradiciones culturales sin valor espiritual.",
-        "Que las ordenanzas son actos de obediencia que nos recuerdan las promesas de salvación de Dios.",
         "Que el Señor prefiere rituales elaborados sobre la obediencia sencilla.",
-        "Que los rituales solo son necesarios en tiempos de crisis."
+        "Que los rituales solo son necesarios en tiempos de crisis.",
+        "Que los rituales son solo tradiciones culturales sin valor espiritual.",
+        "Que son actos de obediencia que traen a la memoria Sus promesas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

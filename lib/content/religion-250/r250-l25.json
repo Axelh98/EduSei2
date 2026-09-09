@@ -58,12 +58,12 @@
       "type": "multiple",
       "question": "Según Lucas 9:23, ¿con qué frecuencia debe un discípulo de Cristo tomar su cruz?",
       "options": [
-        "Una vez al año durante el ayuno",
         "Solo en momentos de crisis o tentación",
         "Cada día",
-        "Cuando siente la inspiración del Espíritu Santo"
+        "Cuando siente la inspiración del Espíritu Santo",
+        "Una vez al año durante el ayuno"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "Jesús dijo: «tome su cruz cada día, y sígame.» El discipulado no es ocasional — es una elección que se renueva diariamente."
     },
     {
@@ -71,12 +71,12 @@
       "type": "multiple",
       "question": "Según Juan 8:31–32, ¿cuál es la señal de un verdadero discípulo de Cristo?",
       "options": [
+        "Observar perfectamente todos los mandamientos",
         "Realizar milagros y señales en el nombre de Cristo",
         "Permanecer en la palabra de Cristo",
-        "Testificar públicamente de Cristo ante otros",
-        "Observar perfectamente todos los mandamientos"
+        "Testificar públicamente de Cristo ante otros"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Jesús dijo: «Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos.» La permanencia — la constancia a lo largo del tiempo — distingue al verdadero discípulo."
     },
     {
@@ -84,12 +84,12 @@
       "type": "multiple",
       "question": "Según el Élder Uchtdorf, ¿cómo describió el verdadero discipulado?",
       "options": [
-        "Una tarea que se completa al recibir todas las ordenanzas del templo",
-        "Un proceso continuo de llegar a ser, transformándose hasta tener los atributos de Cristo",
         "El cumplimiento perfecto de todos los mandamientos del Evangelio",
-        "Un estado de gracia que se recibe mediante la fe sola"
+        "Un estado de gracia que se recibe mediante la fe sola",
+        "Una tarea que se completa al recibir todas las ordenanzas del templo",
+        "Un proceso continuo de llegar a ser, transformándose hasta tener los atributos de Cristo"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "El Élder Uchtdorf enseñó: «El discipulado no es una tarea que completamos sino un proceso continuo de llegar a ser.» No es un punto de llegada sino un camino de transformación."
     },
     {

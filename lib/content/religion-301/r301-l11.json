@@ -72,7 +72,7 @@
       "question": "¿Cómo reaccionó José al reconocer a sus hermanos cuando llegaron a Egipto en busca de alimento?",
       "options": [
         "Los mandó arrestar de inmediato como venganza.",
-        "Los reconoció, pero ellos no lo reconocieron a él, y los puso a prueba antes de revelarse.",
+        "Los reconoció, pero ellos no lo reconocieron a él.",
         "Los ignoró y ordenó a sus siervos que los atendieran.",
         "Huyó de la sala para que no lo vieran llorar."
       ],
@@ -82,45 +82,45 @@
       "id": 2,
       "question": "¿Qué acto de sacrificio de Judá fue determinante para que José se revelara ante sus hermanos en Génesis 44?",
       "options": [
+        "Judá confesó que habían vendido a José años atrás.",
         "Judá ofreció pagar el doble del precio del grano.",
-        "Judá se ofreció a quedarse como esclavo en lugar de Benjamín para protegerlo.",
-        "Judá prometió traer a Jacob a Egipto.",
-        "Judá confesó que habían vendido a José años atrás."
+        "Judá ofreció quedarse en lugar de Benjamín.",
+        "Judá prometió traer a Jacob a Egipto."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "¿Qué perspectiva espiritual compartió José con sus hermanos para ayudarles a superar la culpa por haberlo vendido?",
       "options": [
+        "Que el Faraón había ordenado que se les perdonara.",
         "Que el tiempo había borrado todo rencor y ya no importaba el pasado.",
         "Que ellos deberían pagar por su maldad trabajando para él.",
-        "Que fue Dios quien lo envió delante de ellos para preservar la vida de su familia.",
-        "Que el Faraón había ordenado que se les perdonara."
+        "Que fue Dios quien lo envió delante de ellos para preservar la vida de su familia."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Qué bendiciones dio Jacob a sus hijos antes de morir, y qué importancia tienen en Génesis 49?",
       "options": [
-        "Les distribuyó equitativamente sus riquezas materiales.",
-        "Pronunció profecías y bendiciones proféticas sobre el destino de cada tribu de Israel.",
+        "Bendijo proféticamente a cada una de las doce tribus.",
         "Les ordenó que regresaran a Canaán de inmediato.",
-        "Les pidió que construyeran un monumento en su honor."
+        "Les pidió que construyeran un monumento en su honor.",
+        "Les distribuyó equitativamente sus riquezas materiales."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "¿Qué nos enseña la vida de José sobre el propósito de las pruebas difíciles en nuestra vida?",
       "options": [
-        "Que Dios abandona a quienes enfrentan circunstancias injustas.",
         "Que debemos evitar toda situación que pueda traer sufrimiento.",
-        "Que el Señor puede usar nuestras adversidades para prepararnos y posicionarnos donde más se necesita.",
-        "Que el éxito solo llega a quienes tienen familias perfectas."
+        "Que el Señor usa la adversidad para prepararnos.",
+        "Que el éxito solo llega a quienes tienen familias perfectas.",
+        "Que Dios abandona a quienes enfrentan circunstancias injustas."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

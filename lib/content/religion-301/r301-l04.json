@@ -72,7 +72,7 @@
       "question": "¿Cómo respondió inicialmente Enoc al ser llamado por el Señor para predicar en Moisés 6?",
       "options": [
         "Aceptó con gran entusiasmo sin ninguna duda.",
-        "Se sintió indigno y poco elocuente, preguntando por qué lo escogía a él.",
+        "Se sintió indigno y poco elocuente para la tarea.",
         "Huyó como lo hizo Jonás.",
         "Pidió señales milagrosas antes de aceptar el llamado."
       ],
@@ -84,7 +84,7 @@
       "options": [
         "Que nunca enfrentaría oposición.",
         "Que le daría riquezas para financiar su ministerio.",
-        "Que abriría su boca y que ningún hombre podría detener sus palabras.",
+        "Que abriría su boca y le daría poder.",
         "Que le enviaría ángeles visibles para acompañarlo siempre."
       ],
       "correctAnswer": 2
@@ -93,34 +93,34 @@
       "id": 3,
       "question": "¿Qué principio del Evangelio predicó Enoc al pueblo, según Moisés 6:57–60?",
       "options": [
-        "Que la salvación se obtiene solo por el nacimiento en una familia justa.",
-        "El arrepentimiento, el bautismo, el don del Espíritu Santo y la fe en el nombre de Jesucristo.",
         "Que las obras externas son suficientes sin necesidad de conversión interna.",
-        "Que solo los descendientes de Adán podían ser salvos."
+        "Que solo los descendientes de Adán podían ser salvos.",
+        "Que la salvación se obtiene solo por el nacimiento en una familia justa.",
+        "El arrepentimiento, el bautismo, el Espíritu Santo y la fe en Jesucristo."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Qué nos enseña la historia del llamado de Enoc sobre cómo el Señor prepara y capacita a quienes llama?",
       "options": [
+        "Que el Señor capacita a quienes llama y suple sus debilidades.",
+        "Que el éxito del llamado depende totalmente del talento personal.",
         "Que solo llama a personas que ya son perfectas y talentosas.",
-        "Que el Señor no llama a quienes tienen debilidades.",
-        "Que el Señor capacita a quienes llama, supliendo sus debilidades con poder divino.",
-        "Que el éxito del llamado depende totalmente del talento personal."
+        "Que el Señor no llama a quienes tienen debilidades."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "¿Cuál fue el resultado del ministerio de Enoc entre el pueblo que escuchó su mensaje?",
       "options": [
-        "La mayoría lo rechazó y fue apedreado.",
         "Solo unos pocos se convirtieron y formaron una pequeña comunidad.",
-        "Multitudes se convirtieron y el pueblo comenzó a edificar una ciudad justa.",
-        "No tuvo ningún impacto visible durante su vida."
+        "Muchos se convirtieron y edificaron Sion.",
+        "No tuvo ningún impacto visible durante su vida.",
+        "La mayoría lo rechazó y fue apedreado."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

@@ -65,10 +65,10 @@
       "type": "truefalse",
       "question": "Verdadero o Falso: Según el presidente Nelson, la Restauración del Evangelio fue completada con la muerte de José Smith y ya no continúa.",
       "options": [
-        "Verdadero",
-        "Falso"
+        "Falso",
+        "Verdadero"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "Falso. El presidente Nelson enseñó: «La Restauración es una obra en curso. La revelación continúa... No podemos quedarnos donde estamos y pretender que la Restauración ya está completa.»"
     },
     {

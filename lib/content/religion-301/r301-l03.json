@@ -71,56 +71,56 @@
       "id": 1,
       "question": "¿Qué consecuencias trajo la Caída de Adán y Eva según Génesis 3 y Moisés 4?",
       "options": [
+        "Causó únicamente la muerte física sin ninguna consecuencia espiritual.",
         "Solo trajo maldición y no tuvo ningún propósito positivo.",
-        "Introdujo la mortalidad, el trabajo, el dolor y la separación temporal de la presencia de Dios.",
-        "Hizo que Adán y Eva perdieran su memoria de la preexistencia.",
-        "Causó únicamente la muerte física sin ninguna consecuencia espiritual."
+        "Introdujo la mortalidad, el dolor y la separación de la presencia de Dios.",
+        "Hizo que Adán y Eva perdieran su memoria de la preexistencia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Por qué se considera la Caída como parte fundamental del plan de Dios y no solo un error?",
       "options": [
-        "Porque Dios no pudo evitarla.",
-        "Porque era necesaria para que Adán y Eva pudieran tener hijos y experimentar la alegría y el dolor de la mortalidad.",
         "Porque Satanás actuó de acuerdo al plan sin saberlo.",
-        "Porque los mandamientos dados a Adán y Eva eran imposibles de cumplir."
+        "Porque los mandamientos dados a Adán y Eva eran imposibles de cumplir.",
+        "Porque Dios no pudo evitarla.",
+        "Porque era necesaria para que pudieran tener hijos y conocer el gozo y el dolor."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Según Moisés 5, ¿qué hizo Adán después de la Caída al ofrecer sacrificios?",
       "options": [
-        "Lo hizo por costumbre sin entender su significado.",
-        "Lo hizo en obediencia a un mandamiento del Señor, y luego recibió revelación sobre su significado.",
+        "Lo hizo en obediencia a un mandamiento del Señor.",
         "Lo hizo para obtener perdón por su transgresión sin recibir ninguna instrucción.",
-        "Lo hizo solo después de que Eva se lo ordenó."
+        "Lo hizo solo después de que Eva se lo ordenó.",
+        "Lo hizo por costumbre sin entender su significado."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "¿Cómo prefiguran los sacrificios de Adán la misión de Jesucristo?",
       "options": [
-        "Simbolizan el trabajo que Dios espera de todos Sus hijos.",
         "Representan la obediencia ciega sin necesidad de comprensión.",
-        "Son un tipo y sombra del sacrificio expiatorio del Primogénito del Padre.",
-        "Solo representan gratitud y no tienen relación con la Expiación."
+        "Son un tipo del sacrificio expiatorio del Unigénito.",
+        "Solo representan gratitud y no tienen relación con la Expiación.",
+        "Simbolizan el trabajo que Dios espera de todos Sus hijos."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "¿Qué lección personal podemos aprender de la respuesta de Adán y Eva ante las consecuencias de la Caída?",
       "options": [
+        "Que solo los profetas pueden recuperarse de sus errores.",
         "Que debemos evitar toda situación difícil para no cometer errores.",
-        "Que podemos avanzar con fe y obediencia incluso cuando enfrentamos consecuencias difíciles.",
-        "Que la desobediencia siempre conduce a la felicidad si se racionaliza bien.",
-        "Que solo los profetas pueden recuperarse de sus errores."
+        "Que podemos avanzar con fe y obediencia aun ante consecuencias difíciles.",
+        "Que la desobediencia siempre conduce a la felicidad si se racionaliza bien."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

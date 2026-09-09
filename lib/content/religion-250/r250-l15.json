@@ -64,19 +64,19 @@
       "id": 1,
       "question": "Según DyC 20:77, al participar de la Santa Cena los miembros testifican que están dispuestos a hacer tres cosas. ¿Cuáles son?",
       "options": [
-        "Ayunar, pagar el diezmo y asistir al templo regularmente.",
-        "Tomar el nombre de Cristo, recordarle siempre y guardar Sus mandamientos.",
+        "Tomar sobre sí el nombre de Cristo, recordarle y guardar Sus mandamientos.",
         "Bautizarse, recibir el Espíritu Santo y servir en un llamamiento activo.",
-        "Estudiar las Escrituras, orar en familia y asistir a las reuniones de la Iglesia."
+        "Estudiar las Escrituras, orar en familia y asistir a las reuniones de la Iglesia.",
+        "Ayunar, pagar el diezmo y asistir al templo regularmente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "En Lucas 22:15, antes de instituir la Santa Cena, Jesús expresa algo sobre esa última Pascua con Sus discípulos. ¿Qué dijo?",
       "options": [
         "Que era necesario completar el ritual para cumplir la ley de Moisés por última vez.",
-        "Que había deseado comer esa Pascua con ellos antes de padecer.",
+        "Que en gran manera había deseado comer esa Pascua con ellos antes de padecer.",
         "Que uno de ellos lo traicionaría y era importante que lo supieran antes de comenzar.",
         "Que sería la última vez que comerían juntos hasta la segunda venida."
       ],
@@ -86,41 +86,41 @@
       "id": 3,
       "question": "El élder Bednar enseñó que la Santa Cena nos ayuda a «recordar siempre» a Cristo de manera que el Espíritu Santo pueda santificar nuestra vida. ¿Por qué el recordar tiene ese efecto, en vez de ser simplemente un ejercicio de memoria?",
       "options": [
+        "Porque el acto de recordar en sí mismo cumple el convenio, independientemente de las acciones que lo sigan.",
         "Porque Dios recompensa el esfuerzo de memorización con bendiciones automáticas.",
-        "Porque recordar a Cristo orienta la atención y las decisiones de la semana — quien vive con esa conciencia activa toma decisiones diferentes a quien no la tiene.",
-        "Porque el recuerdo activa una respuesta emocional que produce cambio de conducta por reacción psicológica.",
-        "Porque el acto de recordar en sí mismo cumple el convenio, independientemente de las acciones que lo sigan."
+        "Porque quien vive con esa conciencia activa decide distinto que quien no la tiene.",
+        "Porque el recuerdo activa una respuesta emocional que produce cambio de conducta por reacción psicológica."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "El élder Holland llamó a la reunión sacramental «la hora más sagrada de la semana». ¿Qué implica esa descripción para la manera en que un discípulo debería prepararse para esa hora?",
       "options": [
-        "Que la preparación física — llegando puntualmente y bien vestido — es lo más importante.",
-        "Que el momento de la Santa Cena merece al menos la misma preparación interna que cualquier experiencia que consideramos sagrada — reflexión previa, arrepentimiento y disposición consciente.",
         "Que la preparación es responsabilidad exclusiva del sacerdocio que administra la ordenanza.",
-        "Que la sacralidad de la reunión depende principalmente de la calidad del sermón del obispo."
+        "Que la sacralidad de la reunión depende principalmente de la calidad del sermón del obispo.",
+        "Que la preparación física — llegando puntualmente y bien vestido — es lo más importante.",
+        "Que merece la preparación de lo sagrado: reflexión previa, arrepentimiento y disposición."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Matías asiste a la Iglesia cada semana pero confiesa que durante la Santa Cena suele pensar en otras cosas — el partido del día anterior, lo que hará en la tarde. Según el principio de la lección y 3 Nefi 18:7, ¿qué práctica concreta podría transformar esa experiencia?",
       "options": [
+        "Identificar antes algo que agradecer o de lo que arrepentirse, y sostener esa intención.",
+        "Sentarse más cerca del frente para sentir más presión social de mantenerse concentrado.",
         "Llevar un cuaderno a la reunión y tomar notas del discurso para mantenerse enfocado.",
-        "Cerrar los ojos durante toda la administración de la Santa Cena para eliminar distracciones visuales.",
-        "Antes de que empiece la reunión, identificar algo específico por lo que agradecer al Salvador o algo de lo que quiere arrepentirse — y dejar que esa intención guíe su mente mientras los emblemas pasan.",
-        "Sentarse más cerca del frente para sentir más presión social de mantenerse concentrado."
+        "Cerrar los ojos durante toda la administración de la Santa Cena para eliminar distracciones visuales."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Clara dice que la Santa Cena le parece «solo una costumbre» y que no entiende por qué tiene que hacerlo cada semana — le basta con sentirse bien con Dios a su manera. Según Lucas 22:15–20 y el principio del convenio, ¿qué le diría esta lección?",
       "options": [
         "Que tiene razón: la relación personal con Dios es suficiente y las ordenanzas son opcionales para quienes tienen buenas intenciones.",
-        "Que la Santa Cena no fue instituida por la Iglesia sino por el Salvador mismo, la noche de Su mayor sacrificio — y que renovar los convenios semanalmente no es costumbre sino el mecanismo por el cual el Espíritu permanece con nosotros.",
+        "Que renovar convenios cada semana es el mecanismo por el cual el Espíritu permanece.",
         "Que debería consultar con su obispo sobre una exención temporal de la ordenanza.",
         "Que la frecuencia semanal es una práctica cultural que podría reducirse sin afectar la validez del convenio."
       ],
@@ -130,12 +130,12 @@
       "id": 7,
       "question": "Lucas 22:15 muestra a Cristo deseando esa última cena. DyC 20:77 detalla el convenio que renovamos. El élder Bednar conecta la Santa Cena con la compañía constante del Espíritu. ¿Cuál es el principio que une los tres elementos?",
       "options": [
+        "Que los tres pasajes describen aspectos independientes de la ordenanza que no tienen relación doctrinal directa.",
         "Que la Santa Cena es principalmente una conmemoración histórica de un evento pasado sin efecto presente.",
-        "Que la Santa Cena es una ordenanza viva: el Salvador la deseó con urgencia, definió su contenido en convenio, y su práctica semanal activa la presencia del Espíritu en la vida del discípulo — es pasado, presente y futuro a la vez.",
-        "Que el valor de la Santa Cena depende principalmente de los sentimientos emocionales que produce en el momento.",
-        "Que los tres pasajes describen aspectos independientes de la ordenanza que no tienen relación doctrinal directa."
+        "Que es una ordenanza viva: Él la deseó, definió su convenio y su práctica trae el Espíritu.",
+        "Que el valor de la Santa Cena depende principalmente de los sentimientos emocionales que produce en el momento."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

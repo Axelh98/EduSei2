@@ -78,7 +78,7 @@
       "question": "¿Qué propuso el Señor al pueblo de Israel en Éxodo 19:5–6 si guardaban Su convenio?",
       "options": [
         "Que recibirían tierras fértiles y lluvias abundantes.",
-        "Que serían Su especial tesoro, un reino de sacerdotes y una nación santa.",
+        "Que serían Su especial tesoro entre los pueblos.",
         "Que serían librados de toda enfermedad y muerte prematura.",
         "Que gobernarían sobre todas las naciones de la tierra."
       ],
@@ -90,7 +90,7 @@
       "options": [
         "No matarás.",
         "Honra a tu padre y a tu madre.",
-        "No tendrás dioses ajenos delante de mí.",
+        "No tendrás otros dioses delante de mí.",
         "Guardarás el día de reposo para santificarlo."
       ],
       "correctAnswer": 2
@@ -99,30 +99,30 @@
       "id": 3,
       "question": "¿Qué ocurrió cuando Moisés tardó en bajar del monte Sinaí y cómo reaccionó el pueblo en Éxodo 32?",
       "options": [
-        "El pueblo oró y ayunó esperando pacientemente su regreso.",
-        "El pueblo construyó un becerro de oro y comenzó a adorarlo, rompiendo el convenio.",
         "El pueblo marchó hacia la tierra prometida sin esperar a Moisés.",
-        "El pueblo eligió a Aarón como su nuevo profeta permanente."
+        "El pueblo eligió a Aarón como su nuevo profeta permanente.",
+        "El pueblo oró y ayunó esperando pacientemente su regreso.",
+        "Hicieron un becerro de oro, rompiendo el convenio."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Qué reveló el Señor sobre Su carácter a Moisés en Éxodo 34:6–7 al renovar las tablas del convenio?",
       "options": [
-        "Que era un Dios de justicia estricta que no toleraba ningún error.",
-        "Que era misericordioso, clemente, tardo para la ira y grande en misericordia y verdad.",
+        "Que era misericordioso, clemente, tardo para la ira y grande en misericordia.",
         "Que solo perdonaba a quienes ofrecían sacrificios perfectos.",
-        "Que Su paciencia con Israel había llegado a su límite."
+        "Que Su paciencia con Israel había llegado a su límite.",
+        "Que era un Dios de justicia estricta que no toleraba ningún error."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "¿Por qué los Diez Mandamientos siguen siendo relevantes para los miembros de la Iglesia hoy?",
       "options": [
         "Porque son requisito para recibir la recomendación del templo.",
-        "Porque reflejan principios eternos que protegen nuestra relación con Dios y con los demás.",
+        "Porque reflejan principios eternos que protegen nuestras relaciones.",
         "Porque la ley de Moisés nunca fue abolida por el Evangelio de Jesucristo.",
         "Porque son los únicos mandamientos que el Señor ha dado en toda la historia."
       ],

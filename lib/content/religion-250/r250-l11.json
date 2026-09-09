@@ -57,19 +57,19 @@
       "id": 1,
       "question": "En Mateo 16:18–19, Jesús promete edificar Su Iglesia y darle ciertas llaves a Pedro. ¿Qué dijo el Salvador sobre la permanencia de esa Iglesia?",
       "options": [
-        "Que permanecería mientras existieran apóstoles en la tierra para dirigirla.",
-        "Que las puertas del Hades no prevalecerían contra ella.",
+        "Que las puertas del infierno no prevalecerían contra la Iglesia que Él edificaría.",
         "Que duraría exactamente cuarenta años antes de que fuera restaurada.",
-        "Que sobreviviría siempre que el pueblo guardara la ley de Moisés."
+        "Que sobreviviría siempre que el pueblo guardara la ley de Moisés.",
+        "Que permanecería mientras existieran apóstoles en la tierra para dirigirla."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "Según el élder Christofferson en «El porqué de la Iglesia» (Liahona, noviembre 2015), ¿qué requiere el progreso espiritual que no puede lograrse en aislamiento personal?",
       "options": [
         "Suficiente tiempo de meditación privada y estudio individual de las Escrituras.",
-        "Fe en Jesucristo, arrepentimiento, bautismo, el don del Espíritu Santo, y perseverar hasta el fin — todos dentro de una comunidad de santos.",
+        "Fe, arrepentimiento, bautismo, el Espíritu Santo y perseverar, dentro de una comunidad.",
         "Acceder a los textos sagrados en el idioma original para una comprensión plena.",
         "El estudio sistemático de la teología académica de varias tradiciones religiosas."
       ],
@@ -79,12 +79,12 @@
       "id": 3,
       "question": "Efesios 4:11–14 dice que la Iglesia fue organizada con apóstoles y profetas para que los santos no sean «niños fluctuantes». ¿Qué amenaza específica protege esa estructura, según el contexto del versículo?",
       "options": [
+        "El riesgo de que los líderes locales corrompieran la doctrina sin supervisión apostólica.",
         "La persecución de autoridades civiles que querían suprimir la religión.",
-        "El ser zarandeados por «todo viento de doctrina» — es decir, la confusión doctrinal en un mundo de enseñanzas contradictorias.",
-        "La tendencia natural de los miembros a abandonar la Iglesia en la adolescencia.",
-        "El riesgo de que los líderes locales corrompieran la doctrina sin supervisión apostólica."
+        "El ser zarandeados por «todo viento de doctrina» en un mundo de enseñanzas contrarias.",
+        "La tendencia natural de los miembros a abandonar la Iglesia en la adolescencia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
@@ -93,7 +93,7 @@
         "Porque la espiritualidad individual es inferior y la Iglesia es la única fuente válida de crecimiento espiritual.",
         "Porque Dios registra las obras de servicio comunal y las recompensa diferente a las individuales.",
         "Porque las ordenanzas del sacerdocio pierden su validez si no se realizan en el contexto de una congregación.",
-        "Porque el amor al prójimo solo puede practicarse en contacto real con personas reales — incluyendo sus idiosincrasias — y eso requiere comunidad, no solo intención privada."
+        "Porque el amor al prójimo solo se practica con personas reales, y eso pide comunidad."
       ],
       "correctAnswer": 3
     },
@@ -101,19 +101,19 @@
       "id": 5,
       "question": "Valentina asiste a la Iglesia cada semana pero dice que «no le saca nada» — siente que las clases son aburridas y la gente no la conoce. Según la enseñanza del élder Christofferson y DyC 1:30, ¿qué perspectiva podría transformar su experiencia?",
       "options": [
+        "Que la Iglesia no es un servicio que se consume sino una comunidad donde se contribuye.",
+        "Que debería hablar con el obispo para que le asigne un llamamiento más interesante.",
         "Que debería buscar una congregación más activa donde las actividades sean más entretenidas.",
-        "Que tiene razón: si la experiencia no es emocionalmente satisfactoria, no está produciendo beneficio espiritual real.",
-        "Que la Iglesia no es un servicio que se consume sino una comunidad donde se contribuye — y que ser el instrumento mediante el cual otra persona siente que pertenece puede cambiar radicalmente la experiencia de asistir.",
-        "Que debería hablar con el obispo para que le asigne un llamamiento más interesante."
+        "Que tiene razón: si la experiencia no es emocionalmente satisfactoria, no está produciendo beneficio espiritual real."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Pablo dice: «Yo creo en Dios y leo la Biblia cada día. No necesito una institución para ser espiritual». Según el principio de Efesios 4:11–14 y la lección, ¿qué le respondería esta enseñanza?",
       "options": [
         "Que tiene razón: la espiritualidad personal intensa es equivalente a la participación en la Iglesia organizada.",
-        "Que sin la estructura de apóstoles, profetas y ordenanzas del sacerdocio, el creyente queda expuesto a toda clase de vientos doctrinales y sin acceso a las ordenanzas necesarias para la exaltación.",
+        "Que sin apóstoles ni ordenanzas del sacerdocio falta la protección y el acceso a la exaltación.",
         "Que debería unirse a cualquier iglesia cristiana, ya que todas ofrecen el mismo nivel de protección doctrinal.",
         "Que la lectura bíblica diaria reemplaza efectivamente a la Iglesia si se hace con suficiente dedicación."
       ],
@@ -123,12 +123,12 @@
       "id": 7,
       "question": "Mateo 16:18–19 muestra a Cristo fundando una Iglesia con llaves y apóstoles. Efesios 4:11–14 explica el propósito de esa estructura. DyC 1:30 confirma que esa misma Iglesia existe hoy. ¿Cuál es el principio que conecta los tres pasajes?",
       "options": [
+        "Que los tres pasajes describen tres Iglesias distintas en diferentes épocas históricas.",
         "Que la Iglesia es una institución humana que se adapta culturalmente según la época, manteniendo solo los principios generales.",
-        "Que la Iglesia es la creación permanente e intencional de Cristo para proveer las ordenanzas, la protección doctrinal y la comunidad que Sus hijos necesitan para su exaltación — y eso no cambia con el tiempo.",
-        "Que la autoridad de la Iglesia reside en los textos sagrados y no en líderes vivientes.",
-        "Que los tres pasajes describen tres Iglesias distintas en diferentes épocas históricas."
+        "Que la Iglesia es la creación permanente de Cristo para dar ordenanzas, doctrina y comunidad.",
+        "Que la autoridad de la Iglesia reside en los textos sagrados y no en líderes vivientes."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

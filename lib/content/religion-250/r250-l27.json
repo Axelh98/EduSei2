@@ -65,12 +65,12 @@
       "type": "multiple",
       "question": "Según Juan 8:12, ¿qué promete Cristo a quienes le siguen?",
       "options": [
-        "Prosperidad material y protección de las enfermedades",
-        "No andarán en tinieblas sino que tendrán la luz de la vida",
         "Conocimiento perfecto de todas las verdades eternas",
-        "La capacidad de obrar milagros en Su nombre"
+        "La capacidad de obrar milagros en Su nombre",
+        "Prosperidad material y protección de las enfermedades",
+        "No andarán en tinieblas sino que tendrán la luz de la vida"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "Jesús prometió: «el que me sigue, no andará en tinieblas, sino que tendrá la luz de la vida.» La promesa es de orientación y vida espiritual para quienes le siguen."
     },
     {
@@ -78,12 +78,12 @@
       "type": "multiple",
       "question": "Según DyC 88:11–13, ¿cuál es la fuente de la luz del sol, la luna y las estrellas?",
       "options": [
-        "Las leyes naturales establecidas por el Padre en la Creación",
-        "La energía nuclear de las reacciones físicas del universo",
         "Cristo — cuya luz ilumina toda la Creación",
-        "El poder del Espíritu Santo que está en todas las cosas"
+        "El poder del Espíritu Santo que está en todas las cosas",
+        "Las leyes naturales establecidas por el Padre en la Creación",
+        "La energía nuclear de las reacciones físicas del universo"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "DyC 88 revela que la luz del sol, la luna y las estrellas fue hecha por Cristo y son expresiones de Su poder. La luz de Cristo no es solo espiritual — permea toda la creación física."
     },
     {

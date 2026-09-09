@@ -1,5 +1,171 @@
 {
   "id": "r225-l07",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Mientras traducían el Libro de Mormón, José Smith y Oliver Cowdery llegaron al relato en que el Señor resucitado da a Sus doce discípulos nefitas la autoridad para bautizar. La lectura les dejó una pregunta concreta: José nunca había sido bautizado, y ninguno de los dos tenía autoridad para hacerlo. El 15 de mayo de 1829 dejaron el trabajo, se adentraron en el bosque cerca del río Susquehanna y se pusieron de rodillas a preguntar a Dios por el bautismo y la remisión de los pecados. Mientras oraban, la voz del Redentor les habló paz y apareció un ángel en una nube de luz. Se presentó como Juan el Bautista, puso las manos sobre sus cabezas y les confirió el Sacerdocio Aarónico."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Poco después, en mayo o junio de ese mismo año, Pedro, Santiago y Juan les confirieron el Sacerdocio de Melquisedec y las llaves del reino. La restauración no terminó ahí: durante los quince años siguientes el Señor fue revelando la estructura, los deberes y la conducta de los poseedores del sacerdocio, y envió mensajeros con llaves adicionales —Moisés, Elías y Elías el Profeta en el Templo de Kirtland en 1836—. Conviene distinguir dos cosas que se confunden con facilidad. La autoridad del sacerdocio es el poder de actuar en nombre de Dios que se confiere por ordenación. Las llaves son el derecho de dirigir el uso de esa autoridad: dónde, cuándo y por quién se ejerce. Todo acto y toda ordenanza de la Iglesia se realizan bajo la autorización de alguien que posee las llaves correspondientes."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 13:1",
+          "texto": "Sobre vosotros, mis consiervos, en el nombre del Mesías, confiero el Sacerdocio de Aarón, el cual tiene las llaves del ministerio de ángeles, y del evangelio de arrepentimiento, y del bautismo por inmersión para la remisión de pecados; y este sacerdocio nunca más será quitado de la tierra, hasta que los hijos de Leví de nuevo ofrezcan al Señor un sacrificio en rectitud.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/13?lang=spa&id=p1#p1",
+          "comentario": "Son las palabras exactas de Juan el Bautista al ordenar a José y a Oliver. Nótese qué llaves nombra: el ministerio de ángeles, el evangelio de arrepentimiento y el bautismo para la remisión de pecados. Las tres tienen que ver con volver a estar limpios."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 27:12–13",
+          "texto": "y también con Pedro, Santiago y Juan, a quienes os he enviado a vosotros, por medio de los cuales os he ordenado y confirmado para ser apóstoles y testigos especiales de mi nombre, y para poseer las llaves de vuestro ministerio y de las mismas cosas que les revelé a ellos; a quienes he encomendado las llaves de mi reino y una dispensación del evangelio para los últimos tiempos; y para el cumplimiento de los tiempos, en la cual juntaré en una todas las cosas, tanto las que están en el cielo, como las que están en la tierra;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=spa&id=p12-p13#p12",
+          "comentario": "El Señor recuerda que fue Él quien envió a Pedro, Santiago y Juan. La autoridad no se heredó ni se dedujo de la Biblia: se entregó de manos de quienes ya la tenían."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 84:19–21",
+          "texto": "Y este sacerdocio mayor administra el evangelio y posee la llave de los misterios del reino, sí, la llave del conocimiento de Dios. Así que, en sus ordenanzas se manifiesta el poder de la divinidad. Y sin sus ordenanzas y la autoridad del sacerdocio, el poder de la divinidad no se manifiesta a los hombres en la carne;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=spa&id=p19-p21#p19",
+          "comentario": "Revelado en septiembre de 1832. El versículo explica para qué existe el sacerdocio: sin sus ordenanzas, el poder de Dios no llega a la vida de una persona mortal."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Dallin H. Oaks",
+          "fuente": "«Las llaves y la autoridad del sacerdocio», Liahona, mayo de 2014, págs. 49–50",
+          "texto": "Al final, todas las llaves del sacerdocio las posee el Señor Jesucristo, de quien es este sacerdocio. Él es quien determina qué llaves se delegan a los mortales y la forma en que habrán de utilizarse.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=spa#p9"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder Dale G. Renlund",
+          "fuente": "«El sacerdocio y el poder redentor del Salvador», Liahona, noviembre de 2017, págs. 64, 65",
+          "texto": "[…] Mediante el sacerdocio, el poder de la divinidad se manifiesta en la vida de todo aquel que hace y guarda los convenios del Evangelio y recibe las ordenanzas asociadas con ellos [véase Doctrina y Convenios 84:19–21]. Esa es la manera en que cada uno de nosotros viene a Cristo, es purificado y se reconcilia con Dios. El poder expiatorio de Cristo se hace accesible mediante el sacerdocio, el cual distribuye la carga útil.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-priesthood-and-the-saviors-atoning-power?lang=spa#p10"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Es fácil pensar en el sacerdocio como un organigrama: quién dirige qué y quién autoriza a quién. La imagen del élder Renlund corrige eso. El sacerdocio es el medio por el cual el poder expiatorio del Salvador llega efectivamente hasta una persona concreta. Sin ese canal, la Expiación seguiría siendo verdadera y seguiría siendo infinita, pero no habría bautismo que remita pecados, ni Santa Cena que renueve ese convenio cada domingo, ni sellamiento que una a una familia más allá de la muerte. Por eso la restauración del sacerdocio no fue un trámite previo a la organización de la Iglesia: fue el momento en que el Señor volvió a poner Su poder al alcance de la mano. La próxima ordenanza en la que participes —tomar la Santa Cena este domingo— es una entrega de ese poder, no una costumbre."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "El 15 de mayo de 1829, Juan el Bautista confirió a José Smith y a Oliver Cowdery el Sacerdocio Aarónico, con las llaves del ministerio de ángeles, del evangelio de arrepentimiento y del bautismo para la remisión de pecados (Doctrina y Convenios 13).",
+            "Poco después, Pedro, Santiago y Juan les confirieron el Sacerdocio de Melquisedec y las llaves del reino (Doctrina y Convenios 27:12–13).",
+            "La autoridad del sacerdocio es el poder de actuar en nombre de Dios; las llaves son el derecho de dirigir el uso de esa autoridad.",
+            "Todas las llaves del sacerdocio las posee el Señor Jesucristo, y es Él quien determina cuáles se delegan a los mortales y cómo se usan (presidente Oaks).",
+            "En las ordenanzas del sacerdocio se manifiesta el poder de la divinidad: son el canal por el cual el poder expiatorio de Cristo se hace accesible a cada persona (Doctrina y Convenios 84:19–21; élder Renlund)."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Cuál fue la última ordenanza o bendición del sacerdocio en la que participaste, y qué recordás de ese momento?",
+            "José y Oliver preguntaron por el bautismo porque lo leyeron y les quedó una duda concreta. ¿Qué pregunta te dejó pendiente tu estudio de esta semana?",
+            "Vuelve a leer Doctrina y Convenios 84:19–21. ¿Qué dice exactamente el versículo 21 que no ocurre sin las ordenanzas y la autoridad del sacerdocio?",
+            "El élder Renlund enseñó que el sacerdocio hace accesible el poder expiatorio de Cristo. ¿En qué momento de tu vida sentiste que una ordenanza te acercó a Él y no solo cumplió un requisito?",
+            "¿Qué podrías cambiar concretamente en tu manera de tomar la Santa Cena el próximo domingo?",
+            "Medita esta semana en una ordenanza que ya recibiste y anota qué convenio hiciste en ella y cómo lo estás guardando hoy."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "¿Quién confirió el Sacerdocio Aarónico a José Smith y a Oliver Cowdery el 15 de mayo de 1829?",
+      "options": [
+        "Moroni, el mismo mensajero que le había entregado las planchas",
+        "Juan el Bautista, que se apareció como un ángel en una nube de luz",
+        "Pedro, Santiago y Juan, enviados por el Señor desde el principio de la obra",
+        "Elías el Profeta, que vino con las llaves del poder para sellar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mientras oraban cerca del río Susquehanna, apareció un ángel que se presentó como Juan el Bautista y les confirió el Sacerdocio Aarónico (véase D. y C. 13; José Smith—Historia 1:68–72)."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "Según Doctrina y Convenios 13:1, ¿qué llaves posee el Sacerdocio Aarónico?",
+      "options": [
+        "Las del recogimiento de Israel y las de la dispensación de Abraham",
+        "Las de los misterios del reino y de la llave del conocimiento de Dios",
+        "Las del ministerio de ángeles, del evangelio de arrepentimiento y del bautismo",
+        "Las del poder para sellar en la tierra y en los cielos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Juan el Bautista confirió «el Sacerdocio de Aarón, el cual tiene las llaves del ministerio de ángeles, y del evangelio de arrepentimiento, y del bautismo por inmersión para la remisión de pecados»."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "¿Cuál es la diferencia entre la autoridad del sacerdocio y las llaves del sacerdocio?",
+      "options": [
+        "La autoridad se recibe en el templo y las llaves se reciben en el bautismo",
+        "La autoridad corresponde al Sacerdocio Aarónico y las llaves al de Melquisedec",
+        "La autoridad dura toda la vida y las llaves duran un solo día",
+        "La autoridad es actuar en nombre de Dios; las llaves dirigen su uso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El presidente Joseph F. Smith enseñó que la autoridad es el poder delegado para actuar en nombre de Dios, y que «el poder de dirigir estas obras es lo que constituye las llaves del sacerdocio»."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "El presidente Oaks enseñó que todas las llaves del sacerdocio las posee el Señor Jesucristo. ¿Qué se sigue de esa enseñanza?",
+      "options": [
+        "Que Él determina qué llaves se delegan a los mortales y cómo se usan",
+        "Que los líderes de la Iglesia deciden por votación qué llaves conviene delegar",
+        "Que las llaves se transmiten por linaje familiar desde los apóstoles antiguos",
+        "Que cada poseedor del sacerdocio recibe todas las llaves al ser ordenado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "«Al final, todas las llaves del sacerdocio las posee el Señor Jesucristo, de quien es este sacerdocio. Él es quien determina qué llaves se delegan a los mortales y la forma en que habrán de utilizarse»."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Joaquín dice que asiste a la Iglesia por costumbre y que la Santa Cena le resulta un trámite semanal. Según lo que enseña esta lección, ¿qué le ayudaría a entender mejor esa ordenanza?",
+      "options": [
+        "Que conviene participar solo cuando uno siente algo especial ese domingo",
+        "Que es el canal por el que el poder expiatorio de Cristo llega hasta él",
+        "Que su valor está sobre todo en la unidad social que crea en el barrio",
+        "Que se trata de un recordatorio simbólico sin efecto real sobre la persona"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El élder Renlund enseñó que «el poder expiatorio de Cristo se hace accesible mediante el sacerdocio». La Santa Cena renueva el convenio del bautismo y entrega ese poder, no es una costumbre."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Una amiga pregunta por qué hicieron falta mensajeros celestiales si la Biblia ya describe el sacerdocio. ¿Qué respuesta se ajusta a Doctrina y Convenios 27:12–13?",
+      "options": [
+        "Que el sacerdocio antiguo era distinto del que se restauró en estos días",
+        "Que la Biblia había perdido los capítulos donde se explicaba la ordenación",
+        "Que la autoridad se entregó de manos de quienes ya la poseían, no se dedujo de un texto",
+        "Que José Smith prefirió recibirla de ángeles antes que estudiarla en la Biblia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Señor recuerda que Él envió a Pedro, Santiago y Juan, «por medio de los cuales os he ordenado y confirmado». La autoridad se confiere por imposición de manos de quien la tiene."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "Doctrina y Convenios 84:19–21 y la enseñanza del élder Renlund apuntan a lo mismo respecto de las ordenanzas. ¿Cuál es ese principio común?",
+      "options": [
+        "Que su forma exterior importa más que la disposición de quien las recibe",
+        "Que fueron dadas sobre todo para distinguir a la Iglesia de otras iglesias",
+        "Que las ordenanzas ordenan la vida de la Iglesia y evitan la confusión",
+        "Que sin ellas el poder de la divinidad no se manifiesta en la carne"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El pasaje declara que «sin sus ordenanzas y la autoridad del sacerdocio, el poder de la divinidad no se manifiesta a los hombres en la carne»; el élder Renlund lo explica como el canal que hace accesible el poder expiatorio de Cristo."
+    }
+  ]
 }

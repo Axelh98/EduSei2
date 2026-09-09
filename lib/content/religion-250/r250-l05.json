@@ -57,30 +57,30 @@
       "id": 1,
       "question": "En Génesis 17:7, el Señor establece Su convenio con Abraham. ¿Qué lo hace diferente de un contrato humano ordinario, según el texto?",
       "options": [
-        "Que fue firmado por testigos delante de toda la congregación de Israel.",
-        "Que fue establecido como «convenio perpetuo», no limitado a la vida de Abraham sino que se extiende a sus generaciones.",
         "Que Abraham pagó una cantidad de plata como señal del acuerdo.",
-        "Que fue redactado por ángeles y depositado en el Arca del Convenio."
+        "Que fue redactado por ángeles y depositado en el Arca del Convenio.",
+        "Que fue firmado por testigos delante de toda la congregación de Israel.",
+        "Que fue establecido como «convenio perpetuo», que se extiende a sus generaciones."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "Según la lección, ¿qué afirmó el apóstol Pablo sobre la relación de los bautizados con el convenio abrahánico?",
+      "question": "Según la lección, ¿qué afirmó el apóstol Pablo sobre la relación de los bautizados con el convenio abrahámico?",
       "options": [
+        "Que quienes son de Cristo son linaje de Abraham y herederos de la promesa hecha a él.",
+        "Que el convenio abrahámico se aplica únicamente a los varones que reciben el sacerdocio.",
         "Que el convenio de Abraham quedó obsoleto al llegar el Evangelio de Cristo.",
-        "Que solo los descendientes biológicos de Abraham heredan las promesas del convenio.",
-        "Que quienes son de Cristo son linaje de Abraham y herederos según la promesa.",
-        "Que el convenio abrahánico se aplica únicamente a los varones que reciben el sacerdocio."
+        "Que solo los descendientes biológicos de Abraham heredan las promesas del convenio."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "El presidente Nelson enseñó que los convenios «nos vinculan a Dios y nos hacen partícipes de Su poder». ¿Qué diferencia hay entre seguir reglas morales sin convenio y vivir los mismos principios dentro de un convenio formal con Dios?",
       "options": [
         "Ninguna diferencia práctica: la conducta correcta tiene el mismo valor independientemente del convenio.",
-        "El convenio añade la dimensión de la identidad y el acceso a la fortaleza divina — no sos solo alguien que se porta bien, sino alguien vinculado jurídicamente al poder del Dios más grande que existe.",
+        "El convenio añade identidad y acceso a la fortaleza divina: no es solo portarse bien, es estar vinculado a Dios.",
         "La diferencia es principalmente ceremonial: el convenio es un símbolo externo sin efecto real en la vida.",
         "Los convenios solo importan para recibir bendiciones en el templo; en la vida diaria son irrelevantes."
       ],
@@ -90,41 +90,41 @@
       "id": 4,
       "question": "Moisés 7:18 describe a la Ciudad de Enoc como un pueblo «de un mismo corazón y una misma mente» donde «no había pobres». ¿Qué condiciones internas hicieron posible ese resultado externo?",
       "options": [
+        "Un milagro divino que multiplicó los bienes materiales sin que el pueblo tuviera que hacer nada.",
         "Una economía planificada y un gobierno fuerte que redistribuyó los recursos por la fuerza.",
-        "La fidelidad colectiva a los convenios produjo una comunidad donde el cuidado mutuo no fue legislado sino vivido desde el corazón.",
-        "Una selección rigurosa de miembros que excluía a quienes no cumplían ciertos estándares económicos.",
-        "Un milagro divino que multiplicó los bienes materiales sin que el pueblo tuviera que hacer nada."
+        "La fidelidad a los convenios produjo una comunidad donde el cuidado mutuo se vivía de corazón.",
+        "Una selección rigurosa de miembros que excluía a quienes no cumplían ciertos estándares económicos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Tomás fue bautizado de niño pero ahora, en la universidad, siente que su membresía en la Iglesia es una formalidad heredada de sus padres. Dice: «No sé si los convenios significan algo para mí personalmente». Según la enseñanza del presidente Nelson, ¿qué le ofrece esta lección?",
       "options": [
+        "Que los convenios solo adquieren significado personal cuando uno tiene familia propia.",
         "Que debería ser rebautizado para que el convenio sea realmente suyo.",
         "Que la sensación de indiferencia es normal y desaparecerá con el tiempo sin necesidad de acción.",
-        "Que cada domingo al participar de la Santa Cena tiene la oportunidad de renovar conscientemente convenios que lo vinculan al poder de Dios — y que esa decisión semanal puede volverse muy personal si se toma con intención.",
-        "Que los convenios solo adquieren significado personal cuando uno tiene familia propia."
+        "Que la Santa Cena semanal es la ocasión de renovar esos convenios con intención propia."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Paula siente que no necesita la Iglesia para ser una persona íntegra y espiritual. Dice: «Creo en Dios y me porto bien — ¿para qué formalizar eso con convenios?». Según DyC 84:33–38 y la lección, ¿qué le respondería el principio del convenio?",
       "options": [
+        "Que los convenios no son formalidades: dan acceso a ordenanzas y promesas que no hay sin ellos.",
+        "Que debería concentrarse en ser mejor persona antes de preocuparse por los convenios.",
         "Que tiene razón: la integridad personal es equivalente a cualquier convenio formal.",
-        "Que los convenios no añaden nada a la fe sincera de una persona honesta y de buen corazón.",
-        "Que los convenios no son formalidades vacías sino el mecanismo por el cual se accede a las ordenanzas del sacerdocio y a las promesas específicas del Padre que no están disponibles sin ellos.",
-        "Que debería concentrarse en ser mejor persona antes de preocuparse por los convenios."
+        "Que los convenios no añaden nada a la fe sincera de una persona honesta y de buen corazón."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 7,
-      "question": "Génesis 17:7 establece el convenio abrahánico, DyC 84:33–38 vincula el sacerdocio a un «juramento y convenio», y Moisés 7:18 muestra el resultado comunitario de vivir fielmente esos compromisos. ¿Cuál es el principio que conecta los tres pasajes?",
+      "question": "Génesis 17:7 establece el convenio abrahámico, DyC 84:33–38 vincula el sacerdocio a un «juramento y convenio», y Moisés 7:18 muestra el resultado comunitario de vivir fielmente esos compromisos. ¿Cuál es el principio que conecta los tres pasajes?",
       "options": [
         "Que los convenios son principalmente instrumentos históricos que demuestran la fidelidad de Dios a lo largo del tiempo.",
-        "Que los convenios no son simples promesas morales sino la estructura mediante la cual el poder de Dios fluye hacia Sus hijos — individualmente y en comunidad.",
+        "Que los convenios no son promesas morales sino la estructura por la que fluye el poder de Dios.",
         "Que solo los convenios del Antiguo Testamento son eternamente vinculantes; los modernos tienen una función temporal.",
         "Que la sociedad perfecta se construye primero estableciendo leyes externas que luego producen cambio interno."
       ],

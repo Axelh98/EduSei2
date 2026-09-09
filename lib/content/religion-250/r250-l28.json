@@ -78,12 +78,12 @@
       "type": "multiple",
       "question": "Según Hechos 1:8, ¿cuál es la fuente del poder para ser testigos de Cristo?",
       "options": [
+        "La autorización del sacerdocio por parte de los líderes",
         "El conocimiento profundo de las Escrituras",
         "La experiencia personal de conversión",
-        "El Espíritu Santo",
-        "La autorización del sacerdocio por parte de los líderes"
+        "El Espíritu Santo"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Cristo prometió: «recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos.» El poder para testificar proviene del Espíritu Santo."
     },
     {
@@ -102,12 +102,12 @@
       "type": "multiple",
       "question": "Según la comisión de Cristo en Hechos 1:8, ¿cuál es el alcance geográfico de nuestro testimonio?",
       "options": [
-        "Solo en nuestra familia y comunidad local",
         "En nuestra nación y los países vecinos",
         "Desde Jerusalén (círculo cercano) hasta lo último de la tierra",
-        "En los países donde la Iglesia ya está establecida"
+        "En los países donde la Iglesia ya está establecida",
+        "Solo en nuestra familia y comunidad local"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "Cristo comisionó a Sus discípulos a ser testigos «en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra» — desde lo más cercano hasta el mundo entero."
     },
     {

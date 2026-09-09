@@ -71,56 +71,56 @@
       "id": 1,
       "question": "En la visión de Moisés 1, ¿qué le reveló el Señor a Moisés sobre su identidad antes de mostrarle Sus obras?",
       "options": [
-        "Que Moisés sería el rey de Egipto.",
         "Que Moisés era hijo de Dios, hecho a Su semejanza.",
         "Que Moisés debía escribir todas las Escrituras.",
-        "Que Moisés gobernaría sobre todos los ángeles."
+        "Que Moisés gobernaría sobre todos los ángeles.",
+        "Que Moisés sería el rey de Egipto."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "¿Qué aprendió Moisés sobre sí mismo después de que la gloria del Señor se retiró de él?",
       "options": [
-        "Que era más poderoso que Satanás.",
         "Que tenía una misión idéntica a la de Adán.",
         "Que en comparación con Dios, el hombre no es nada por sí solo.",
-        "Que podía ver todo el universo sin ayuda divina."
+        "Que podía ver todo el universo sin ayuda divina.",
+        "Que era más poderoso que Satanás."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 3,
       "question": "En Abraham 3, ¿qué le mostró el Señor a Abraham mediante el Urim y Tumim?",
       "options": [
+        "Los nombres de todos sus descendientes futuros.",
         "La historia completa de Egipto.",
-        "Las estrellas, los planetas y la inteligencia de las almas preexistentes.",
-        "Un mapa detallado de la tierra prometida.",
-        "Los nombres de todos sus descendientes futuros."
+        "Las estrellas y los espíritus nobles.",
+        "Un mapa detallado de la tierra prometida."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Cuál es el propósito central de la vida mortal según lo revelado a Abraham en Abraham 3?",
       "options": [
+        "Encontrar pareja y formar una familia numerosa.",
         "Acumular riquezas y conocimiento terrenal.",
         "Demostrar que somos más inteligentes que los demás.",
-        "Ser probados para ver si hacemos todo lo que el Señor nos manda.",
-        "Encontrar pareja y formar una familia numerosa."
+        "Ser probados para ver si hacemos lo que Él manda."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "¿Qué verdad sobre el carácter de Dios se destaca en ambas visiones, la de Moisés y la de Abraham?",
       "options": [
-        "Que Dios solo se comunica con los profetas más perfectos.",
         "Que Dios conoce y valora individualmente a cada uno de Sus hijos.",
         "Que Dios prefiere las visiones a las Escrituras escritas.",
-        "Que Dios solo revela Sus obras a quienes lo buscan en el desierto."
+        "Que Dios solo revela Sus obras a quienes lo buscan en el desierto.",
+        "Que Dios solo se comunica con los profetas más perfectos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

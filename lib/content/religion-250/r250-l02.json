@@ -64,41 +64,41 @@
       "id": 1,
       "question": "«El Cristo Viviente: El Testimonio de los Apóstoles» fue publicado el 1 de enero del año 2000. ¿Qué cargo ocupaba Jesucristo en el Antiguo Testamento según ese documento?",
       "options": [
+        "Era el ángel guardián de Israel sin autoridad divina propia.",
         "Era conocido como el Mesías de los gentiles y el Salvador de Roma.",
         "Era el Gran Jehová del Antiguo Testamento y el Mesías del Nuevo Testamento.",
-        "Era solo una figura profética sin presencia activa antes de Belén.",
-        "Era el ángel guardián de Israel sin autoridad divina propia."
+        "Era solo una figura profética sin presencia activa antes de Belén."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "En Mateo 16:15–17, Jesús le pregunta a Sus discípulos quién dice la gente que Él es. Cuando Pedro responde correctamente, ¿qué le explica el Salvador sobre el origen de ese testimonio?",
       "options": [
+        "Que fue revelado en sueños durante su infancia en Galilea.",
         "Que Pedro lo sabía porque era el más inteligente de los doce apóstoles.",
         "Que lo aprendió estudiando las Escrituras del Antiguo Testamento con dedicación.",
-        "Que esa verdad no le fue revelada por carne ni sangre, sino por el Padre Celestial.",
-        "Que fue revelado en sueños durante su infancia en Galilea."
+        "Que esa verdad no le fue revelada por carne ni sangre, sino por el Padre Celestial."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "La palabra «Cristo» en griego significa «el ungido», equivalente al hebreo «Mesías». ¿Por qué es significativo que Andrés usara ese título exacto cuando le dijo a Pedro «Hemos hallado al Cristo» (Juan 1:41)?",
       "options": [
-        "Porque estaba usando el saludo formal de cortesía de la época.",
-        "Porque estaba declarando que Jesús era el Rey y Libertador prometido desde los tiempos de los profetas, no simplemente un buen maestro.",
+        "Porque declaraba que Jesús era el Rey y Libertador prometido, no un buen maestro.",
         "Porque el título «Cristo» era común para cualquier líder religioso en Israel.",
-        "Porque quería diferenciar a Jesús de los demás predicadores llamados Jesús en la región."
+        "Porque quería diferenciar a Jesús de los demás predicadores llamados Jesús en la región.",
+        "Porque estaba usando el saludo formal de cortesía de la época."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "Juan 20:30–31 explica que los milagros de Jesús fueron escritos «para que creáis que Jesús es el Cristo». ¿Qué método de confirmación de la verdad describe este versículo, y en qué se diferencia del que usó Pedro en Mateo 16?",
       "options": [
         "Juan usa evidencias históricas escritas; Pedro usó argumentos filosóficos personales.",
-        "Juan describe el testimonio que viene de leer los registros; Pedro recibió su conocimiento por revelación directa del Padre, no por observación externa.",
+        "El de Juan viene de los registros escritos; el de Pedro, de revelación del Padre.",
         "Juan apela a la razón; Pedro apeló a las emociones del momento.",
         "No hay diferencia real: ambos llegaron a su testimonio por el mismo camino."
       ],
@@ -110,7 +110,7 @@
       "options": [
         "Leer más libros sobre la historia de la Iglesia para acumular evidencias intelectuales.",
         "Esperar a que el testimonio llegue solo en algún momento de crisis espiritual.",
-        "Buscar activamente la revelación personal del Padre a través de la oración, el estudio y la acción en fe, no solo heredar la convicción de otros.",
+        "Buscar la revelación personal del Padre por la oración, el estudio y la acción.",
         "Preguntarle a sus padres cuál fue el momento exacto en que ellos recibieron su testimonio e imitarlo."
       ],
       "correctAnswer": 2
@@ -119,23 +119,23 @@
       "id": 6,
       "question": "Diego tiene un amigo que le dice: «Creo en un Dios, pero no necesito decir que 'Cristo vive' — eso me parece demasiado específico». Según el élder Andersen y 2 Nefi 25:26, ¿qué le diría Diego desde lo aprendido en esta lección?",
       "options": [
+        "Que su amigo debería unirse a la Iglesia antes de poder entender cualquier aspecto del Evangelio.",
         "Que tiene razón: creer en un Dios genérico es suficiente para ser buena persona.",
         "Que hablar de Cristo es una opción personal que cada uno elige según sus preferencias religiosas.",
-        "Que hablar de Cristo específicamente importa porque Su nombre, Su expiación y Su resurrección son la fuente de toda esperanza real, y el Espíritu puede confirmar esa verdad concreta.",
-        "Que su amigo debería unirse a la Iglesia antes de poder entender cualquier aspecto del Evangelio."
+        "Que nombrar a Cristo importa: Su expiación y Su resurrección son la fuente de la esperanza."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "El testimonio de Pedro en Mateo 16 vino por revelación directa del Padre. El de Juan en Juan 20:30–31 viene de los registros escritos de milagros. El de los Apóstoles en «El Cristo Viviente» es un documento oficial firmado por quince testigos especiales. ¿Qué principio común une estas tres formas distintas de testimoniar?",
       "options": [
-        "Que el testimonio más válido es siempre el más antiguo y el que proviene de los textos originales.",
-        "Que todos los testimonios verdaderos del Salvador pasan en algún momento por la confirmación del Espíritu Santo, independientemente del medio externo.",
+        "Que todo testimonio verdadero pasa por la confirmación del Espíritu, sea cual sea el medio externo.",
         "Que ningún testimonio individual puede ser considerado válido sin el respaldo de un documento oficial de la Iglesia.",
-        "Que los milagros físicos son la evidencia más confiable y deben preceder siempre a cualquier declaración de fe."
+        "Que los milagros físicos son la evidencia más confiable y deben preceder siempre a cualquier declaración de fe.",
+        "Que el testimonio más válido es siempre el más antiguo y el que proviene de los textos originales."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

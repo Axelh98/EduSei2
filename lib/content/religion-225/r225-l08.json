@@ -1,5 +1,171 @@
 {
   "id": "r225-l08",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "El 6 de abril de 1830, alrededor de sesenta personas se reunieron en la casa de troncos de Peter Whitmer, padre, en Fayette, Nueva York, para presenciar la organización de la Iglesia de Cristo en estos últimos días. Ese mismo día, de pie junto a un arroyo, José Smith vio bautizarse a su madre y a su padre. Cuando Joseph, padre, salió del agua, José lo tomó de la mano, lo ayudó a llegar a la orilla y lo abrazó llorando: años de caminos distintos en la búsqueda de la verdad terminaban en una misma fe. Los reunidos sostuvieron a José y a Oliver Cowdery como líderes, tomaron la Santa Cena, presenciaron ordenaciones al sacerdocio y vieron confirmar a los ya bautizados."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Un año y medio más tarde, el Señor llamó a esta «la única iglesia verdadera y viviente sobre la faz de toda la tierra», hablando a la iglesia colectiva y no individualmente. La frase incomoda a mucha gente, y conviene entender qué afirma y qué no. No afirma que las demás iglesias carezcan de verdad ni que no hagan un bien enorme: lo hacen. Afirma que aquí están la plenitud de la doctrina restaurada, la autoridad del sacerdocio para efectuar las ordenanzas de salvación y un testimonio singular de quién es Jesucristo. Y «viviente» significa que no es un monumento a lo que Dios dijo una vez: sigue creciendo y ajustándose por revelación. Ser miembro de ella no autoriza a sentirse mejor que nadie; obliga a amar a los demás e invitarlos a venir a Cristo."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 20:1",
+          "texto": "El origen de la Iglesia de Cristo en estos últimos días, habiendo transcurrido mil ochocientos treinta años desde la venida de nuestro Señor y Salvador Jesucristo en la carne; habiendo sido debidamente organizada y establecida de acuerdo con las leyes del país, por la voluntad y el mandamiento de Dios, en el cuarto mes y el sexto día del mes que es llamado abril,",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa&id=p1#p1",
+          "comentario": "El Señor señaló por revelación el día exacto en que Su Iglesia debía organizarse otra vez. La fecha no la eligió José Smith por conveniencia."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 115:4",
+          "texto": "porque así se llamará mi iglesia en los postreros días, a saber, La Iglesia de Jesucristo de los Santos de los Últimos Días.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=spa&id=p4#p4",
+          "comentario": "El nombre no fue una decisión de comité. El Señor lo dio por revelación en 1838, y en él aparecen las dos cosas que la definen: de quién es la Iglesia y quiénes son sus miembros."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Moroni 6:4–5",
+          "texto": "Y después que habían sido recibidos por el bautismo, y el poder del Espíritu Santo había obrado en ellos y los había purificado, eran contados entre los del pueblo de la iglesia de Cristo; y se inscribían sus nombres, a fin de que se hiciese memoria de ellos y fuesen nutridos por la buena palabra de Dios, para guardarlos en la vía correcta, para conservarlos continuamente atentos a orar, confiando solamente en los méritos de Cristo, que era el autor y perfeccionador de su fe. Y la iglesia se reunía a menudo para ayunar y orar, y para hablar unos con otros concerniente al bienestar de sus almas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=spa&id=p4-p5#p4",
+          "comentario": "Moroni describe para qué se reunía la iglesia antigua: para que nadie quedara olvidado, para nutrirse de la palabra y para sostenerse unos a otros. El modelo de hoy es el mismo."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder D. Todd Christofferson",
+          "fuente": "«El porqué de la Iglesia», Liahona, noviembre de 2015, págs. 108, 110",
+          "texto": "Si una persona cree que todos los caminos conducen al cielo o que no hay requisitos específicos para la salvación, no verá la necesidad de proclamar el Evangelio ni de las ordenanzas y los convenios para redimir, ya sea a los vivos o a los muertos. Sin embargo, no hablamos solamente de la inmortalidad, sino también de la vida eterna; y para ello, el sendero del Evangelio y de los convenios son fundamentales, y el Salvador necesita una Iglesia para ponerlos a disposición de todos los hijos de Dios —tanto de los vivos como de los muertos.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2015/10/why-the-church?lang=spa#p21"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Hermana Bonnie L. Oscarson",
+          "fuente": "«Las necesidades ante nosotros», Liahona, noviembre de 2017, págs. 26–27",
+          "texto": "Pidan a su Padre Celestial que les muestre aquellos a su alrededor que necesitan su ayuda y que los inspire en cuanto a cómo servirles mejor. Recuerden que el Salvador a menudo ministraba a una persona a la vez.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-needs-before-us?lang=spa#p17"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "La objeción más común hoy no es doctrinal sino práctica: «puedo ser buena persona y creer en Dios sin pertenecer a nada». La respuesta de la lección no es que la religión organizada sea cómoda, porque a menudo no lo es. Es que la vida eterna requiere ordenanzas, convenios y una comunidad que sostenga a la persona en el camino, y que ninguna de esas tres cosas se consigue en soledad. El Salvador podría haber dejado un libro de buenos principios; en cambio organizó una Iglesia, con imperfectos a cargo, para que Su poder redentor llegara por las ordenanzas hasta todos los hijos de Dios, vivos y muertos. Eso significa que hay un lugar donde haces falta. Pregúntale al Padre Celestial quién, a tu alrededor, necesita ayuda esta semana, y haz esa sola cosa."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "La Iglesia de Cristo fue organizada nuevamente el 6 de abril de 1830, en el día que el Señor mismo señaló por revelación (Doctrina y Convenios 20:1).",
+            "El Señor dio por revelación el nombre por el que debía llamarse Su Iglesia en los últimos días (Doctrina y Convenios 115:4).",
+            "El Señor la declaró «la única iglesia verdadera y viviente sobre la faz de toda la tierra», hablando a la iglesia colectiva y no individualmente (Doctrina y Convenios 1:30).",
+            "Tres características sostienen esa declaración: la plenitud de la doctrina, el poder del sacerdocio y un testimonio singular de Jesucristo (presidente Oaks).",
+            "El Salvador organizó una Iglesia porque las ordenanzas, los convenios y el sostén mutuo de los santos no se obtienen en soledad (élder Christofferson; Moroni 6:4–5)."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Qué recuerdo tienes de una reunión de la Iglesia en la que te sentiste realmente parte de algo?",
+            "José abrazó a su padre llorando al verlo bautizarse. ¿Qué persona de tu familia te gustaría ver dar un paso así?",
+            "Vuelve a leer Moroni 6:4–5. ¿Para qué se reunía la iglesia antigua, según ese pasaje, y cuál de esos propósitos se cumple menos en tu barrio hoy?",
+            "¿Cómo le explicarías, con tacto pero sin rodeos, a alguien que se considera espiritual pero no ve sentido en pertenecer a una iglesia?",
+            "¿Qué responsabilidad de tu barrio podrías asumir este mes para que la Iglesia funcione un poco mejor donde vivís?",
+            "Ora esta semana pidiendo que se te muestre quién a tu alrededor necesita ayuda, y anota el primer nombre que te venga a la mente."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "¿Dónde y cuándo se organizó nuevamente la Iglesia de Cristo en estos últimos días?",
+      "options": [
+        "En Fayette, Nueva York, el 6 de abril de 1830",
+        "En Harmony, Pensilvania, en mayo de 1829, junto al río Susquehanna",
+        "En Kirtland, Ohio, el 27 de marzo de 1836, al dedicarse el templo",
+        "En la arboleda sagrada de Palmyra, en la primavera de 1820"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alrededor de sesenta personas se reunieron el 6 de abril de 1830 en la casa de Peter Whitmer, padre, en Fayette, Nueva York, para presenciar la organización de la Iglesia."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "Según Doctrina y Convenios 115:4, ¿de dónde proviene el nombre de la Iglesia?",
+      "options": [
+        "De la traducción de un término que aparece en las planchas de oro",
+        "De una revelación en la que el Señor declaró cómo debía llamarse Su iglesia",
+        "De una votación de los primeros élderes reunidos en conferencia general",
+        "Del uso que le fueron dando los vecinos de Kirtland con el correr del tiempo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Señor lo dio por revelación en 1838: «porque así se llamará mi iglesia en los postreros días, a saber, La Iglesia de Jesucristo de los Santos de los Últimos Días»."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "El Señor declaró que esta es «la única iglesia verdadera y viviente». Según la lección, ¿qué NO significa esa declaración?",
+      "options": [
+        "Que la Iglesia sigue creciendo y ajustándose mediante la revelación",
+        "Que aquí está la autoridad para efectuar las ordenanzas de salvación",
+        "Que las demás iglesias carecen de verdad y no hacen ningún bien",
+        "Que aquí se encuentra la plenitud de la doctrina restaurada por el Señor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El hermano Callister explicó que la declaración no significa que otras iglesias no posean verdad ni hagan el bien, porque ciertamente la tienen y lo hacen."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Qué quiere decir que la Iglesia del Señor sea «viviente»?",
+      "options": [
+        "Que conserva sin cambios las prácticas del siglo XIX",
+        "Que sus miembros son numerosos y están repartidos por todo el mundo",
+        "Que sus doctrinas se adaptan a la opinión mayoritaria de cada época",
+        "Que sigue recibiendo revelación, y por eso crece y se ajusta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una iglesia viviente no es un monumento a lo que Dios dijo una vez: continúa creciendo y adaptándose mediante la revelación del Señor, aunque las verdades del Evangelio no cambien."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Valentina te dice que puede ser buena persona y creer en Dios sin pertenecer a ninguna iglesia. Según el élder Christofferson, ¿cuál es la respuesta más completa?",
+      "options": [
+        "Que la vida eterna requiere ordenanzas, convenios y una comunidad que sostenga",
+        "Que la pertenencia importa sobre todo por la disciplina y el orden que impone a la vida",
+        "Que basta con asistir de vez en cuando para recibir las mismas bendiciones",
+        "Que sin una iglesia es imposible ser una buena persona o sentir a Dios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El élder Christofferson enseñó que no hablamos solo de la inmortalidad, sino de la vida eterna, y que «el Salvador necesita una Iglesia» para poner a disposición de todos el sendero del Evangelio y de los convenios."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Franco asiste a la Iglesia cada domingo, pero siente que solo va a recibir y que nadie lo necesita. ¿Qué principio de esta lección responde mejor a eso?",
+      "options": [
+        "Que su sensación indica que aún no comprende la doctrina",
+        "Que en el barrio se nos necesita para dar, no solo para recibir",
+        "Que la asistencia constante ya cumple con lo que el Señor espera de él",
+        "Que conviene esperar un llamamiento formal antes de involucrarse más"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hermana Oscarson enseñó que no solo recibimos lo que se ofrece en la Iglesia: «se nos necesita para dar y proveer», y sugirió pedir al Padre Celestial que nos muestre a quién ayudar."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "Moroni 6:4–5 describe la iglesia antigua y el élder Christofferson explica por qué el Salvador organizó una Iglesia hoy. ¿Qué principio comparten ambos?",
+      "options": [
+        "Que el bautismo basta por sí solo para conservar a alguien en la vía correcta",
+        "Que la iglesia es principalmente un registro administrativo de sus miembros",
+        "Que la comunidad de santos sostiene a cada persona en el camino de los convenios",
+        "Que las reuniones frecuentes eran necesarias antes, pero hoy son opcionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Moroni describe una iglesia que inscribía nombres, nutría con la palabra y se reunía a menudo para sostenerse; Christofferson enseña que el sendero de los convenios no se recorre en aislamiento."
+    }
+  ]
 }

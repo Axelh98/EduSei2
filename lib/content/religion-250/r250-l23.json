@@ -65,12 +65,12 @@
       "type": "multiple",
       "question": "¿Cuál es la actitud que el Señor instruye a Sus seguidores tener ante los eventos de los últimos días, según DyC 101:36?",
       "options": [
-        "Vigilancia y ansiedad ante las señales que se acercan",
-        "Esperanza y falta de temor — el reino les pertenece",
         "Preparación material rigurosa para los tiempos difíciles",
-        "Urgencia de arrepentimiento antes de que sea demasiado tarde"
+        "Urgencia de arrepentimiento antes de que sea demasiado tarde",
+        "Vigilancia y ansiedad ante las señales que se acercan",
+        "Esperanza y falta de temor — el reino les pertenece"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "El Señor declara: «no temáis, porque el reino os pertenece.» La actitud correcta ante los últimos días es esperanza y confianza, no temor y ansiedad."
     },
     {
@@ -89,12 +89,12 @@
       "type": "multiple",
       "question": "¿Cuál es la mejor preparación para la Segunda Venida del Salvador?",
       "options": [
-        "Calcular la fecha exacta mediante el estudio profético",
         "Acumular provisiones materiales para los tiempos difíciles",
         "Vivir fielmente el Evangelio de Jesucristo cada día",
-        "Conocer en detalle todas las señales de los últimos días"
+        "Conocer en detalle todas las señales de los últimos días",
+        "Calcular la fecha exacta mediante el estudio profético"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "El Salvador enseñó: «Estad listos, porque a la hora que no pensáis, el Hijo del Hombre vendrá.» La mejor preparación es el discipulado diario fiel, no el cálculo de fechas ni el acumulo material."
     }
   ]

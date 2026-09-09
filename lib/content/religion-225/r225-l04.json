@@ -6,30 +6,50 @@
       "bloques": [
         {
           "tipo": "parrafo",
+          "texto": "En el invierno de 1828–1829, un maestro de escuela de veintidós años llamado Oliver Cowdery se alojaba con los padres de José Smith en Palmyra y oyó hablar de las planchas de oro. Oró en privado para saber si aquello era cierto y sintió una seguridad de paz que no le contó a nadie. Viajó a Harmony, conoció al Profeta y empezó a servirle de escribiente. Poco después, José recibió una revelación dirigida a Oliver en la que el Señor le recordaba aquella oración secreta. Oliver quedó atónito: nadie podría haber sabido eso, salvo Dios. Esa escena resume la doctrina de esta lección. Jesucristo dirige Su Iglesia hablando, y también le habla a cada persona por su nombre, incluso sobre lo que nunca le contó a nadie."
+        },
+        {
+          "tipo": "parrafo",
           "texto": "Una de las doctrinas más distintivas de La Iglesia de Jesucristo de los Santos de los Últimos Días es la creencia en la revelación continua. No creemos en un Dios que habló en el pasado y luego guardó silencio. Creemos en un Padre Celestial que todavía habla — tanto a profetas vivientes para guiar a Su Iglesia como a cada individuo para guiar su vida personal. La revelación no es una reliquia del pasado bíblico; es una realidad presente y accesible."
         },
         {
           "tipo": "escritura",
           "referencia": "Artículos de Fe 1:9",
           "texto": "Creemos todo lo que Dios ha revelado, todo lo que actualmente revela, y creemos que aún revelará muchos grandes e importantes asuntos pertenecientes al reino de Dios.",
-          "comentario": "Esta declaración resume la doctrina de la revelación continua: pasado («ha revelado»), presente («actualmente revela») y futuro («aún revelará»). Dios no ha terminado de hablar a Sus hijos."
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=spa&id=p9#p9",
+          "comentario": "Tres tiempos verbales en una sola frase: reveló, revela y revelará. La revelación no es un recuerdo del pasado bíblico ni una promesa para el futuro: es la manera normal en que Dios trata con Sus hijos."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 9:7–8",
+          "texto": "He aquí, no has entendido; has supuesto que yo te lo concedería cuando no pensaste sino en pedirme. Pero he aquí, te digo que debes estudiarlo en tu mente; entonces has de preguntarme si está bien; y si así fuere, haré que tu pecho arda dentro de ti; por tanto, sentirás que está bien.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=spa&id=p7-p8#p7",
+          "comentario": "La respuesta del Señor a Oliver cuando no logró traducir. No bastaba con pedir: había que estudiarlo primero en la mente y llegar a una conclusión propia, y recién entonces preguntar si era correcta."
         },
         {
           "tipo": "escritura",
           "referencia": "Doctrina y Convenios 121:26, 33",
-          "texto": "Dios dará a conocer a los hijos de los hombres conocimiento concerniente a los tiempos y las épocas, en el debido tiempo del Señor... ¿Cuántas veces he llamado a vosotros por la boca de mis siervos, y por el ministerio de ángeles, y por mi propia voz, y por la voz de truenos?",
-          "comentario": "El Señor tiene múltiples formas de comunicarse: mediante profetas, ángeles, Su propia voz y el Espíritu Santo. No está limitado a un solo canal ni a una sola época. La comunicación divina es constante para quienes tienen oídos para oír."
+          "texto": "Dios os dará conocimiento por medio de su Santo Espíritu, sí, por el inefable don del Espíritu Santo, conocimiento que no se ha revelado desde el principio del mundo hasta ahora; ¿Hasta cuándo pueden permanecer impuras las aguas que corren? ¿Qué poder hay que detenga los cielos? Tan inútil le sería al hombre extender su débil brazo para contener el río Misuri en su curso decretado, o volverlo hacia atrás, como evitar que el Todopoderoso derrame conocimiento desde el cielo sobre la cabeza de los Santos de los Últimos Días.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=spa&id=p26-p33#p26",
+          "comentario": "El Señor promete conocimiento que no se ha revelado desde el principio del mundo, y describe con una imagen de río lo inútil que sería intentar detener ese derramamiento."
         },
         {
           "tipo": "cita",
           "autor": "Presidente Russell M. Nelson",
           "fuente": "«Revelación para la Iglesia, revelación para nuestras vidas», Conferencia General, abril de 2018 (Liahona, mayo de 2018, pág. 96)",
           "texto": "En los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo […]; les suplico que aumenten su capacidad espiritual para recibir revelación.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa"
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa#kicker1"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Dallin H. Oaks",
+          "fuente": "«En Su propio tiempo y a Su propia manera», Liahona, agosto de 2013, págs. 26, 27",
+          "texto": "[E]l recibir instrucción por medio del Espíritu no es algo pasivo. A menudo no se recibe la comunicación del Señor hasta que hayamos estudiado el asunto en la mente; entonces recibimos una confirmación.",
+          "link": "https://www.churchofjesuschrist.org/study/liahona/2013/08/in-his-own-time-in-his-own-way?lang=spa#p25"
         },
         {
           "tipo": "parrafo",
-          "texto": "Hay dos tipos de revelación: profética (para guiar a la Iglesia) y personal (para guiar a los individuos). El profeta y presidente de la Iglesia es el único que recibe revelación para toda la Iglesia, pero cada miembro puede recibir revelación para su propia vida, su familia y sus responsabilidades. Padres, madres, maestros, líderes — todos pueden recibir revelación dentro de su esfera de responsabilidad. Un obispo puede recibir revelación para su barrio, pero no para otro barrio. Una madre puede recibir revelación para sus hijos, pero no para los hijos de otra familia."
+          "texto": "Hay dos clases de revelación: la profética, para guiar a la Iglesia, y la personal, para guiar a cada uno. Solo el profeta y presidente de la Iglesia recibe revelación para toda la Iglesia; cada miembro la recibe dentro de su propia esfera de responsabilidad. Un obispo la recibe para su barrio, no para otro; una madre, para sus hijos, no para los de otra familia. Ese límite no es burocrático: es lo que hace confiable el sistema entero. Y la revelación rara vez llega como un relámpago. El élder Bednar la comparó con el amanecer: casi siempre es luz que crece de a poco, y muchas veces uno la recibe sin darse cuenta exacta de cuándo. Por eso el Salvador pide que estudiemos primero el asunto en la mente. Él responde, pero a quien ya se puso a trabajar."
         },
         {
           "tipo": "doctrinal",
@@ -44,10 +64,12 @@
         {
           "tipo": "reflexion",
           "preguntas": [
-            "¿Cuándo has recibido revelación personal que te guió en una decisión importante de tu vida?",
-            "¿Por qué es importante entender los límites de la revelación personal — que no podemos recibir revelación fuera de nuestra esfera de responsabilidad?",
-            "El presidente Nelson enseñó que la revelación personal es «absolutamente esencial» en nuestros días. ¿Por qué crees que esto es más urgente ahora que nunca?",
-            "¿Qué estás haciendo para aumentar tu capacidad de recibir y reconocer revelación personal?"
+            "¿Cuándo recibiste una guía que te ayudó en una decisión importante, aunque en el momento no la llamaras revelación?",
+            "¿Por qué te parece que el Señor puso límites a la esfera en la que cada uno recibe revelación?",
+            "Vuelve a leer Doctrina y Convenios 9:7–8. ¿Qué le faltó hacer a Oliver, según el versículo 7, antes de pedir?",
+            "El presidente Nelson enseñó que la revelación personal es indispensable para sobrevivir espiritualmente hoy. ¿Por qué crees que es más urgente ahora?",
+            "¿Qué decisión concreta tienes pendiente que podrías empezar a estudiar en tu mente esta semana?",
+            "Ora por esa decisión después de haberla estudiado, y anota la impresión que recibas aunque parezca pequeña."
           ]
         }
       ]
@@ -59,50 +81,91 @@
       "type": "multiple",
       "question": "Según los Artículos de Fe 1:9, ¿cuál es la posición de la Iglesia sobre la revelación?",
       "options": [
-        "Que Dios solo reveló verdades en los tiempos bíblicos",
-        "Que Dios ha revelado, actualmente revela y aún revelará muchos grandes asuntos",
-        "Que la revelación terminó con la muerte de los apóstoles originales",
-        "Que solo el profeta puede recibir revelación, no los miembros individuales"
+        "Que Dios ha revelado, revela actualmente y aún revelará grandes asuntos",
+        "Que solo el profeta recibe revelación, y nunca los miembros",
+        "Que Dios reveló Su voluntad únicamente en los tiempos bíblicos",
+        "Que la revelación terminó al morir los apóstoles originales"
       ],
-      "correctAnswer": 1,
-      "explanation": "Artículos de Fe 1:9 declara: «Creemos todo lo que Dios ha revelado, todo lo que actualmente revela, y creemos que aún revelará muchos grandes e importantes asuntos.» Es revelación continua: pasado, presente y futuro."
+      "correctAnswer": 0,
+      "explanation": "«Creemos todo lo que Dios ha revelado, todo lo que actualmente revela, y creemos que aún revelará muchos grandes e importantes asuntos»."
     },
     {
       "id": 2,
       "type": "multiple",
-      "question": "¿Quién es el único que puede recibir revelación para toda la Iglesia?",
+      "question": "¿Qué le ocurrió a Oliver Cowdery cuando José Smith recibió la revelación que hoy es Doctrina y Convenios 6?",
       "options": [
-        "Cualquier apóstol ordenado",
-        "El Quórum de los Doce actuando en conjunto",
-        "El profeta y presidente de la Iglesia",
-        "Cualquier poseedor del Sacerdocio de Melquisedec"
+        "Exigió que la revelación fuera confirmada por otro testigo presente",
+        "Quedó atónito: el Señor le recordó una oración que no había contado a nadie",
+        "Decidió abandonar la traducción y regresar a su escuela en Vermont",
+        "Pidió ver las planchas de oro antes de aceptar seguir como escribiente"
       ],
-      "correctAnswer": 2,
-      "explanation": "Solo el profeta y presidente de la Iglesia puede recibir revelación para toda la Iglesia. Otros líderes reciben revelación dentro de sus responsabilidades, pero no para la Iglesia entera."
+      "correctAnswer": 1,
+      "explanation": "Oliver había orado en privado para saber si el mensaje era cierto. Cuando el Señor lo mencionó en la revelación, «nadie podría haber sabido eso, salvo Dios»."
     },
     {
       "id": 3,
-      "type": "truefalse",
-      "question": "Verdadero o Falso: Según DyC 121:26, el Señor ha llamado a Sus hijos mediante profetas, ángeles y Su propia voz — no solo de una forma.",
+      "type": "multiple",
+      "question": "¿Quién es el único que recibe revelación para toda la Iglesia?",
       "options": [
-        "Verdadero",
-        "Falso"
+        "El Cuórum de los Doce Apóstoles actuando en conjunto",
+        "Cualquier poseedor del Sacerdocio de Melquisedec",
+        "El profeta y presidente de la Iglesia",
+        "Cualquier apóstol que haya sido debidamente ordenado"
       ],
-      "correctAnswer": 0,
-      "explanation": "Verdadero. El Señor pregunta: «¿Cuántas veces he llamado a vosotros por la boca de mis siervos, y por el ministerio de ángeles, y por mi propia voz...?» Dios usa múltiples canales de comunicación."
+      "correctAnswer": 2,
+      "explanation": "La revelación para toda la Iglesia corresponde al profeta y presidente; cada miembro la recibe dentro de su propia esfera de responsabilidad."
     },
     {
       "id": 4,
       "type": "multiple",
-      "question": "¿Cuál es el ámbito correcto de la revelación personal?",
+      "question": "El élder Bednar comparó la revelación con la luz. ¿Cuál de los dos modelos que describió es el más común?",
       "options": [
-        "Cualquier tema sobre el cual una persona desee recibir guía",
-        "Solo asuntos relacionados con la Iglesia y llamamientos",
-        "Dentro de la esfera de responsabilidad de la persona — su vida, familia y llamamientos",
-        "Únicamente para tomar decisiones de importancia eterna"
+        "Una luz que se enciende de golpe en un cuarto a oscuras",
+        "Una luz que aparece y desaparece sin razón",
+        "La luz de la luna, que solo alumbra durante ciertas noches",
+        "La luz que crece de a poco, como el sol al amanecer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "«La mayoría de las veces, la revelación viene en pequeños incrementos a lo largo de cierto tiempo»; el modelo del relámpago «tiende a ser más infrecuente que común»."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Martina tiene que elegir entre dos carreras y lleva semanas orando para que el Señor le diga cuál. Según Doctrina y Convenios 9:7–8 y el presidente Oaks, ¿qué le falta?",
+      "options": [
+        "Estudiarlo en su mente, llegar a una conclusión y preguntar si es correcta",
+        "Suponer que cualquiera de las dos opciones da lo mismo ante Dios",
+        "Esperar en silencio a que la respuesta llegue en el tiempo del Señor",
+        "Pedir que otra persona con más experiencia en el tema decida el asunto por ella"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Señor reprendió a Oliver por «no haber estudiado más que pedirme». Recibir instrucción por medio del Espíritu «no es algo pasivo»."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Un amigo dice que un impulso que sintió es revelación para que su líder de barrio cambie una decisión. ¿Qué principio de la lección corrige eso?",
+      "options": [
+        "Que las impresiones fuertes suelen venir de nuestros propios deseos",
+        "Que cada uno recibe revelación dentro de su esfera de responsabilidad",
+        "Que ninguna impresión personal puede considerarse revelación verdadera",
+        "Que la revelación llega solo a quienes tienen un llamamiento formal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una madre la recibe para sus hijos, un obispo para su barrio. Nadie recibe revelación para dirigir la esfera que le corresponde a otro."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "La experiencia de Oliver Cowdery y la enseñanza del presidente Oaks describen dos caras de la revelación. ¿Cuál es el principio que las une?",
+      "options": [
+        "Que las respuestas llegan siempre en el momento en que se piden",
+        "Que la confirmación espiritual sustituye al esfuerzo de pensar",
+        "Que Dios conoce a cada uno y responde a quien hace su parte",
+        "Que la revelación depende del cargo que uno ocupe en la Iglesia"
       ],
       "correctAnswer": 2,
-      "explanation": "Cada persona puede recibir revelación para su propia vida, familia y llamamientos — su esfera de responsabilidad. No podemos recibir revelación para áreas fuera de nuestra responsabilidad."
+      "explanation": "El Señor sabía de una oración que Oliver no había contado a nadie; y también le enseñó que la confirmación llega después de estudiar el asunto en la mente."
     }
   ]
 }

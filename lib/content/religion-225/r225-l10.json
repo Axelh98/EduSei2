@@ -1,5 +1,171 @@
 {
   "id": "r225-l10",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "El mismo día en que la Iglesia fue organizada, el Señor reveló que José Smith sería llamado «vidente, traductor, profeta, apóstol de Jesucristo, élder de la iglesia», y dio a los santos un mandamiento incómodo: recibir su palabra como si viniera de la boca del Señor mismo. Incómodo porque un profeta es una persona concreta, con acento, con opiniones sobre el clima y con una manera de hablar que a alguien le va a resultar antipática. Un año después el Señor volvió sobre lo mismo sin dejar lugar a interpretación: sea por Su propia voz o por la voz de Sus siervos, es lo mismo."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El Señor sabía que eso no iba a ser fácil, y por eso pidió recibir esa palabra «con toda paciencia y fe». La historia de la Iglesia muestra que la instrucción hacía falta. Cuando se reveló la visión de los tres grados de gloria, varios apostataron porque la doctrina les resultaba demasiado generosa. El propio Brigham Young contó que aquella visión era tan contraria a lo que había estudiado antes que su primera reacción fue «un momento»: no la rechazó, pero tampoco la entendía, y tuvo que pensar y orar, leer y pensar, hasta comprenderla por sí mismo. Ese es exactamente el trabajo que la fe y la paciencia describen."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 21:4–6",
+          "texto": "Por tanto, vosotros, es decir, la iglesia, daréis oído a todas sus palabras y mandamientos que os dará según los reciba, andando delante de mí con toda santidad; porque recibiréis su palabra con toda fe y paciencia como si viniera de mi propia boca. Porque si hacéis estas cosas, las puertas del infierno no prevalecerán contra vosotros; sí, y Dios el Señor dispersará los poderes de las tinieblas de ante vosotros, y hará sacudir los cielos para vuestro bien y para la gloria de su nombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=spa&id=p4-p6#p4",
+          "comentario": "El mandamiento y la promesa van juntos. A quien recibe la palabra del profeta con paciencia y fe se le promete que las puertas del infierno no prevalecerán contra él y que el Señor dispersará los poderes de las tinieblas de delante de él."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 1:38",
+          "texto": "Lo que yo, el Señor, he dicho, yo lo he dicho, y no me disculpo; y aunque pasaren los cielos y la tierra, mi palabra no pasará, sino que toda será cumplida, sea por mi propia voz o por la voz de mis siervos, es lo mismo.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=spa&id=p38#p38",
+          "comentario": "El versículo que cierra la discusión sobre si conviene distinguir entre lo que dice el Señor y lo que dicen Sus siervos cuando hablan por Él: «es lo mismo»."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 28:2",
+          "texto": "Pero he aquí, de cierto, de cierto te digo, que nadie será nombrado para recibir mandamientos y revelaciones en esta iglesia sino mi siervo José Smith, hijo, porque los recibe así como Moisés.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/28?lang=spa&id=p2#p2",
+          "comentario": "Revelación dada cuando Hiram Page, uno de los Ocho Testigos, decía recibir revelaciones para la Iglesia con una piedra. La respuesta del Señor no discute el contenido: aclara quién tiene el encargo de recibirlas."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder Neil L. Andersen",
+          "fuente": "«El profeta de Dios», Liahona, mayo de 2018, págs. 26, 27",
+          "texto": "[H]e comprobado que a medida que estudio en oración las palabras del profeta de Dios y meticulosamente, con paciencia, alineo espiritualmente mi voluntad con sus enseñanzas inspiradas, mi fe en el Señor Jesucristo siempre aumenta. Si decidimos dejar de lado su consejo y determinamos que nuestro criterio es más acertado, nuestra fe queda mermada y nuestra perspectiva eterna se nubla. Les prometo que, en tanto permanezcan resueltos a seguir al profeta, su fe en el Salvador aumentará.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=spa#p31"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Hermana Carol F. McConkie",
+          "fuente": "«Vivir de acuerdo con las palabras de los profetas», Liahona, noviembre de 2014, págs. 78, 79",
+          "texto": "Cuando escuchamos las palabras de los profetas, edificamos nuestros hogares y nuestra vida sobre un fundamento seguro, «la roca de nuestro Redentor, el cual es Cristo, el Hijo de Dios».",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/10/live-according-to-the-words-of-the-prophets?lang=spa#p24"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Conviene tener claro qué es doctrina y qué no. El élder Christofferson recordó que no toda declaración de un líder, pasada o presente, constituye doctrina: una opinión personal expresada en una ocasión, por bien pensada que esté, no obliga a la Iglesia. Y el élder Andersen dio la señal práctica para reconocerla: la doctrina no está escondida en un párrafo oscuro de un discurso viejo, sino que los quince la enseñan y la repiten. Eso libera de una ansiedad frecuente y devuelve el foco a lo que importa. Seguir al profeta no es un ejercicio de disciplina institucional: es la manera de edificar sobre la roca de nuestro Redentor. La promesa del élder Andersen es concreta: al seguirlo, la fe en el Salvador aumenta."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "El día en que se organizó la Iglesia, el Señor mandó recibir la palabra de Su profeta con toda paciencia y fe (Doctrina y Convenios 21:4–5).",
+            "Sea por la voz del Señor o por la de Sus siervos cuando hablan por Él, «es lo mismo» (Doctrina y Convenios 1:38).",
+            "Solo el profeta y presidente de la Iglesia recibe revelación para toda la Iglesia; la revelación de Hiram Page fue rechazada por esa razón (Doctrina y Convenios 28:2, 11).",
+            "No toda declaración de un líder constituye doctrina; la doctrina la enseñan de manera congruente los quince profetas, videntes y reveladores.",
+            "Seguir al profeta edifica la vida sobre la roca del Redentor, y quien lo hace ve aumentar su fe en Jesucristo (hermana McConkie; élder Andersen)."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Qué consejo profético te resultó difícil de aceptar la primera vez que lo escuchaste?",
+            "Brigham Young dijo «un momento» ante una doctrina nueva, pero no la rechazó. ¿Qué diferencia hay entre no entender algo y descartarlo?",
+            "Vuelve a leer Doctrina y Convenios 21:4–6. ¿Qué promete el Señor exactamente a quien recibe la palabra del profeta con paciencia y fe?",
+            "El élder Andersen prometió que seguir al profeta aumenta la fe en el Salvador. ¿Notaste eso alguna vez en tu propia vida?",
+            "¿Qué enseñanza reciente de la conferencia general podrías poner en práctica esta semana, aunque no la entiendas del todo?",
+            "Ora pidiendo entender una enseñanza profética que hoy te cuesta, y anota lo que vayas comprendiendo con el correr de los días."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "Según Doctrina y Convenios 21:4–5, ¿cómo deben los santos recibir la palabra del profeta?",
+      "options": [
+        "Cuando el Cuórum de los Doce la apruebe por unanimidad",
+        "Con toda paciencia y fe, como si viniera de la boca del Señor",
+        "Después de comprobarla con los líderes locales",
+        "Solamente cuando coincida con su propio criterio maduro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "«Recibiréis su palabra como si viniera de mi propia boca, con toda paciencia y fe» (D. y C. 21:4–5)."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "¿Qué enseña Doctrina y Convenios 1:38 sobre la voz del Señor y la de Sus siervos?",
+      "options": [
+        "Que la palabra de los siervos requiere confirmación posterior",
+        "Que la voz del Señor solo llega por medio de las Escrituras antiguas",
+        "Que, sea por Su voz o por la de Sus siervos, es lo mismo",
+        "Que los siervos hablan por sí mismos salvo en conferencia general"
+      ],
+      "correctAnswer": 2,
+      "explanation": "«Mi palabra no pasará, sino que toda será cumplida, sea por mi propia voz o por la voz de mis siervos, es lo mismo»."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "¿Qué problema resolvió la revelación que hoy es Doctrina y Convenios 28?",
+      "options": [
+        "La disputa sobre dónde debía construirse el primer templo",
+        "La discusión sobre quiénes podían bautizar a los nuevos conversos",
+        "Las dudas sobre el orden de los libros del Libro de Mormón",
+        "Que Hiram Page decía recibir revelaciones para toda la Iglesia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hiram Page, uno de los Ocho Testigos, decía recibir revelaciones mediante una piedra, y muchos santos las creían. El Señor aclaró quién recibe revelación para la Iglesia."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "Brigham Young contó que al principio no entendió la visión de los grados de gloria. ¿Qué hizo entonces?",
+      "options": [
+        "Dijo «un momento», y pensó, oró y leyó hasta comprenderla",
+        "Esperó a que otro apóstol se la explicara con detalle",
+        "Dejó el asunto de lado y no volvió a ocuparse de él",
+        "Pidió que la doctrina se sometiera a votación de los santos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "«No la rechacé, pero tampoco la entendía […]. [Tuve] que pensar y orar, leer y pensar, hasta que supe y la comprendí plenamente por mí mismo»."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Luca encontró una frase de un líder de la Iglesia de hace décadas que no coincide con lo que se enseña hoy, y eso lo inquieta. ¿Qué principio de la lección se aplica?",
+      "options": [
+        "Que la doctrina antigua queda anulada por la más reciente",
+        "Que no toda declaración de un líder constituye doctrina de la Iglesia",
+        "Que conviene no leer discursos publicados hace muchos años",
+        "Que toda declaración de un líder es doctrina obligatoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El élder Christofferson enseñó que una declaración hecha por un líder en una ocasión a menudo representa una opinión personal, y que no por eso resulta oficial o vinculante para la Iglesia."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Julián quiere saber si algo es doctrina de la Iglesia o no. Según el élder Andersen, ¿cuál es la señal práctica?",
+      "options": [
+        "Que se pueda encontrar citada en alguno de los manuales de la Iglesia",
+        "Que aparezca una vez en un discurso de conferencia",
+        "Que la enseñen los quince y se repita, sin estar escondida",
+        "Que la mayoría de los miembros de su barrio esté de acuerdo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "«Todos los quince miembros de la Primera Presidencia y el Cuórum de los Doce enseñan la doctrina; no está escondida en un oscuro párrafo de un discurso»."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "La promesa del élder Andersen y la enseñanza de la hermana McConkie apuntan al mismo resultado de seguir al profeta. ¿Cuál es?",
+      "options": [
+        "Que se obtiene mayor reconocimiento dentro de la Iglesia",
+        "Que la vida se vuelve más previsible y con menos dificultades",
+        "Que las dudas doctrinales desaparecen de manera definitiva",
+        "Que la fe en Jesucristo aumenta y se edifica sobre Él"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El élder Andersen prometió que «su fe en el Salvador aumentará»; la hermana McConkie enseñó que así se edifica sobre «la roca de nuestro Redentor»."
+    }
+  ]
 }

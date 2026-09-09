@@ -8,7 +8,7 @@
       "description": "El contexto histórico y espiritual que preparó el mundo para la Restauración del Evangelio.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-1-class-preparation-material-prelude-to-the-restoration?lang=spa",
-      "questionCount": 5,
+      "questionCount": 7,
       "hasStudy": true
     },
     {
@@ -17,7 +17,7 @@
       "description": "La visita del Padre Celestial y Jesucristo al joven José Smith en la arboleda sagrada.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-2-class-preparation-material-the-first-vision?lang=spa",
-      "questionCount": 5,
+      "questionCount": 7,
       "hasStudy": true
     },
     {
@@ -26,7 +26,7 @@
       "description": "Principios y procesos para obtener conocimiento por medio del Espíritu Santo.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-3-class-preparation-material-acquiring-spiritual-knowledge?lang=spa",
-      "questionCount": 4,
+      "questionCount": 7,
       "hasStudy": true
     },
     {
@@ -35,7 +35,7 @@
       "description": "Cómo Dios comunica Su voluntad a Sus hijos mediante la revelación personal y profética.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-4-class-preparation-material-the-doctrine-of-revelation?lang=spa",
-      "questionCount": 4,
+      "questionCount": 7,
       "hasStudy": true
     },
     {
@@ -44,7 +44,7 @@
       "description": "La traducción y publicación del Libro de Mormón mediante el don y el poder de Dios.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-5-class-preparation-material-the-coming-forth-of-the-book-of-mormon?lang=spa",
-      "questionCount": 5,
+      "questionCount": 7,
       "hasStudy": true
     },
     {
@@ -53,8 +53,8 @@
       "description": "El papel central del Libro de Mormón como testimonio de Jesucristo y fundamento de la fe restaurada.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-6-class-preparation-material-the-book-of-mormon-the-keystone-of-our-religion?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l07",
@@ -62,8 +62,8 @@
       "description": "El restablecimiento del sacerdocio de Aarón y de Melquisedec mediante mensajeros celestiales.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-7-class-preparation-material-restoration-of-the-priesthood?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l08",
@@ -71,8 +71,8 @@
       "description": "El establecimiento formal de la Iglesia restaurada el 6 de abril de 1830.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-8-class-preparation-material-the-organization-of-the-church-of-jesus-christ?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l09",
@@ -80,8 +80,8 @@
       "description": "La naturaleza divina de Jesucristo y Su papel central como Redentor de la humanidad.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-9-class-preparation-material-jesus-christ-our-divine-redeemer?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l10",
@@ -89,8 +89,8 @@
       "description": "La importancia de escuchar y obedecer la voz de los profetas y apóstoles vivientes.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-10-class-preparation-material-following-the-lords-living-prophets?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l11",
@@ -98,8 +98,8 @@
       "description": "El cumplimiento de las profecías sobre el recogimiento de Israel en los últimos días.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-11-class-preparation-material-the-gathering-of-israel?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l12",
@@ -107,8 +107,8 @@
       "description": "El mandamiento de edificar Sion y crear comunidades consagradas centradas en Cristo.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-12-class-preparation-material-establishing-the-cause-of-zion?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l13",
@@ -116,8 +116,8 @@
       "description": "Los principios y mandamientos que Dios ha dado a Su pueblo para guiar su vida.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-13-class-preparation-material-the-laws-of-god?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l14",
@@ -125,8 +125,8 @@
       "description": "Las revelaciones modernas que ampliaron el canon de las Escrituras en la Restauración.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-14-class-preparation-material-the-lord-reveals-additional-scripture?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l15",
@@ -134,8 +134,8 @@
       "description": "El plan de salvación y la doctrina de la exaltación y el potencial divino del ser humano.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-15-class-preparation-material-heavenly-fathers-plan-and-our-divine-potential?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l16",
@@ -143,8 +143,8 @@
       "description": "La dedicación del Templo de Kirtland y la restauración de llaves del sacerdocio por Moisés, Elías y Elías.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-16-class-preparation-material-the-kirtland-temple-and-priesthood-keys?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l17",
@@ -152,8 +152,8 @@
       "description": "Lecciones de los primeros santos que mantuvieron su fe a pesar de persecuciones y dificultades.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-17-class-preparation-material-remaining-faithful-amid-opposition-and-affliction?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l18",
@@ -161,8 +161,8 @@
       "description": "El papel de las mujeres en la Iglesia y la fundación y misión de la Sociedad de Socorro.",
       "type": "Religión 225",
       "chapterUrl": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-18-class-preparation-material-latter-day-saint-women-and-the-relief-society?lang=spa",
-      "questionCount": 0,
-      "hasStudy": false
+      "questionCount": 7,
+      "hasStudy": true
     },
     {
       "id": "r225-l19",

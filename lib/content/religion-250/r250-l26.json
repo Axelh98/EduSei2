@@ -58,12 +58,12 @@
       "type": "multiple",
       "question": "Según 3 Nefi 27:27, ¿cuál es el estándar al que Cristo llama a Sus discípulos?",
       "options": [
-        "Ser buenas personas que ayudan a los demás",
-        "Cumplir todos los mandamientos del Evangelio",
         "Ser «así como Él es» — desarrollar Su carácter",
-        "Convertirse en misioneros activos en el mundo"
+        "Convertirse en misioneros activos en el mundo",
+        "Ser buenas personas que ayudan a los demás",
+        "Cumplir todos los mandamientos del Evangelio"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "Cristo pregunta: «¿Qué clase de hombres debéis ser? En verdad os digo que así como yo soy.» La meta es el carácter de Cristo, no solo el cumplimiento de reglas."
     },
     {
@@ -71,12 +71,12 @@
       "type": "multiple",
       "question": "Según Moroni 7:47, ¿qué es la caridad?",
       "options": [
-        "La práctica del servicio voluntario en la Iglesia",
         "La generosidad material hacia los necesitados",
         "El amor puro de Cristo que perdura para siempre",
-        "La virtud de perdonar a los que nos ofenden"
+        "La virtud de perdonar a los que nos ofenden",
+        "La práctica del servicio voluntario en la Iglesia"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "Moroni define la caridad como «el amor puro de Cristo» que «perdura para siempre». No es simplemente un sentimiento — es la naturaleza divina de Cristo en cuanto al amor."
     },
     {
@@ -95,12 +95,12 @@
       "type": "multiple",
       "question": "¿Cómo se adquieren los atributos de Cristo según la doctrina del Evangelio?",
       "options": [
-        "De manera instantánea mediante una experiencia espiritual de conversión",
-        "Gradualmente mediante práctica deliberada y la transformación del Espíritu Santo",
         "Solo después de la resurrección cuando recibimos cuerpos glorificados",
-        "Principalmente a través del estudio intensivo de las Escrituras"
+        "Principalmente a través del estudio intensivo de las Escrituras",
+        "De manera instantánea mediante una experiencia espiritual de conversión",
+        "Gradualmente mediante práctica deliberada y la transformación del Espíritu Santo"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "Los atributos de Cristo se adquieren gradualmente, combinando el esfuerzo personal deliberado con la influencia transformadora del Espíritu Santo y la gracia de Cristo."
     }
   ]

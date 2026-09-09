@@ -57,19 +57,19 @@
       "id": 1,
       "question": "Según DyC 138, ¿qué hizo Jesucristo durante el tiempo entre Su muerte y Su resurrección respecto a los espíritus en el mundo de los espíritus?",
       "options": [
+        "Organizó misioneros entre los espíritus fieles para predicar a los de las tinieblas.",
+        "Juzgó a los espíritus según sus obras y determinó su destino eterno.",
         "Descansó en el sepulcro para prepararse para la Resurrección.",
-        "Predicó el Evangelio personalmente a todos los espíritus sin excepción.",
-        "Organizó misioneros entre los espíritus fieles y los designó para predicar el Evangelio a los que estaban en tinieblas.",
-        "Juzgó a los espíritus según sus obras y determinó su destino eterno."
+        "Predicó el Evangelio personalmente a todos los espíritus sin excepción."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "1 Corintios 15:29 menciona una práctica de la Iglesia primitiva que Pablo usa como argumento dentro de su defensa de la resurrección. ¿Cuál es esa práctica?",
       "options": [
         "La unción de los enfermos en nombre de los que ya habían fallecido.",
-        "El bautismo por los muertos — realizarlo en nombre de personas fallecidas.",
+        "El bautismo por los muertos, realizado en nombre de personas fallecidas.",
         "La oración continua por las almas de los difuntos hasta que fueran liberadas.",
         "El ayuno colectivo en nombre de quienes murieron sin bautizarse."
       ],
@@ -79,56 +79,56 @@
       "id": 3,
       "question": "Cuando realizamos ordenanzas vicarias en el templo, la agencia de la persona fallecida permanece intacta — puede aceptar o rechazar. ¿Por qué ese detalle es doctrinal y no simplemente logístico?",
       "options": [
+        "Porque la agencia solo importa en la vida mortal; en el mundo de los espíritus todas las decisiones son finales.",
         "Porque la agencia es un derecho legal que la Iglesia debe respetar para evitar conflictos con las leyes civiles.",
-        "Porque si la ordenanza vicaria comprometiera la agencia del fallecido, violaría el principio fundamental del plan de salvación — que la exaltación solo puede obtenerse por decisión libre.",
-        "Porque de otro modo los familiares podrían presionar a los fallecidos espiritualmente.",
-        "Porque la agencia solo importa en la vida mortal; en el mundo de los espíritus todas las decisiones son finales."
+        "Porque comprometer la agencia del fallecido rompería el principio de que la exaltación se elige.",
+        "Porque de otro modo los familiares podrían presionar a los fallecidos espiritualmente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "1 Pedro 3:18–19 menciona que Cristo «predicó a los espíritus encarcelados» después de Su muerte. ¿Qué respuesta da esa doctrina a la pregunta filosófica de qué ocurre con quienes murieron sin escuchar el Evangelio?",
       "options": [
+        "Que el predicar a los espíritus encarcelados fue un evento único del período entre la muerte y la resurrección de Cristo, sin implicaciones para el presente.",
         "Que esas personas simplemente no tienen oportunidad de salvación, lo cual refleja la justicia divina.",
         "Que Dios los juzgará con misericordia genérica sin que necesiten las ordenanzas del Evangelio.",
-        "Que la historia de cada persona no termina en la muerte — el Evangelio puede alcanzarlos en el mundo de los espíritus, y las ordenanzas pueden realizarse vicariamente aquí, extendiendo la misma oportunidad que tenemos nosotros.",
-        "Que el predicar a los espíritus encarcelados fue un evento único del período entre la muerte y la resurrección de Cristo, sin implicaciones para el presente."
+        "Que la historia no termina en la muerte: el Evangelio los alcanza allí y las ordenanzas se hacen aquí."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Diego nunca ha ido al templo porque siente que «la obra por los muertos es para personas mayores con tiempo para la genealogía». Según DyC 138 y la lección, ¿qué le diría este principio?",
       "options": [
-        "Que tiene razón: la investigación genealógica requiere un nivel de madurez y recursos que los jóvenes generalmente no tienen.",
-        "Que la obra del templo no es una actividad de nicho para jubilados sino la extensión activa de la Expiación de Cristo a través de las barreras de la muerte — y que participar en ella lo conecta directamente con la obra más grande que el Salvador está haciendo.",
+        "Que la obra del templo no es de nicho: es la Expiación de Cristo extendida más allá de la muerte, y él puede participar.",
         "Que debería esperar hasta casarse para comenzar la obra del templo, ya que es más significativa con familia propia.",
-        "Que su contribución a la obra por los muertos puede limitarse a donar dinero para que otros hagan las investigaciones."
+        "Que su contribución a la obra por los muertos puede limitarse a donar dinero para que otros hagan las investigaciones.",
+        "Que tiene razón: la investigación genealógica requiere un nivel de madurez y recursos que los jóvenes generalmente no tienen."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Fernanda tiene un abuelo que murió sin haber recibido el Evangelio. Se pregunta si eso significa que está «perdido para siempre». Según DyC 138 y 1 Corintios 15:29, ¿qué le ofrece la doctrina restaurada?",
       "options": [
-        "Que debería resignarse porque la muerte es el límite de la misericordia de Dios.",
         "Que puede rezar por él pero que sin bautismo en vida no hay salvación posible.",
-        "Que la Expiación es de alcance infinito, que el Evangelio se predica también en el mundo de los espíritus, y que ella puede actuar como su representante en el templo para ofrecerle la misma oportunidad que ella tiene.",
-        "Que Dios juzgará a su abuelo con misericordia automática por su ignorancia, sin necesidad de ordenanzas."
+        "Que la Expiación es de alcance infinito y el Evangelio se predica también tras el velo.",
+        "Que Dios juzgará a su abuelo con misericordia automática por su ignorancia, sin necesidad de ordenanzas.",
+        "Que debería resignarse porque la muerte es el límite de la misericordia de Dios."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "DyC 138 muestra a Cristo organizando el ministerio en el mundo de los espíritus. 1 Corintios 15:29 menciona el bautismo por los muertos en la Iglesia primitiva. El templo extiende hoy las ordenanzas salvadoras a los fallecidos. ¿Cuál es el principio que une los tres?",
       "options": [
+        "Que la obra por los muertos es una doctrina opcional que enriquece pero no es esencial para la salvación individual.",
         "Que la redención de los muertos es un proceso moderno sin precedente en las Escrituras antiguas.",
-        "Que la misión del Salvador de extender el Evangelio a todos Sus hijos no fue interrumpida por Su muerte ni limitada a los vivos — el mismo plan de salvación opera en ambos lados del velo.",
-        "Que los tres elementos describen el mismo evento histórico desde perspectivas distintas.",
-        "Que la obra por los muertos es una doctrina opcional que enriquece pero no es esencial para la salvación individual."
+        "Que la misión del Salvador no se interrumpió con Su muerte: el mismo plan opera a ambos lados del velo.",
+        "Que los tres elementos describen el mismo evento histórico desde perspectivas distintas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

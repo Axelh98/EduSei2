@@ -12,7 +12,7 @@
           "tipo": "escritura",
           "referencia": "Números 13:30; 14:6–9",
           "texto": "Entonces Caleb hizo callar al pueblo delante de Moisés, y dijo: Subamos luego, y tomemos posesión de ella; porque más podremos nosotros que ellos… Y Josué hijo de Nun y Caleb hijo de Jefone, que eran de los que habían reconocido la tierra, rompieron sus vestidos. Y hablaron a toda la congregación de los hijos de Israel, diciendo: La tierra por donde pasamos para reconocerla, es tierra en gran manera buena. Si el Señor se agradare de nosotros, él nos llevará a esta tierra, y nos la entregará; tierra que fluye leche y miel. Por tanto, no seáis rebeldes contra el Señor, ni temáis al pueblo de esta tierra; porque nosotros los comeremos como pan; su amparo se ha apartado de ellos, y con nosotros está el Señor.",
-          "comentario": "El contraste entre los diez espías y Josué y Caleb es uno de los más elocuentes del Antiguo Testamento sobre el poder de la perspectiva de fe. Los diez vieron obstáculos gigantescos y se vieron pequeños. Josué y Caleb vieron al Señor y vieron a los obstáculos pequeños. La misma geografía, los mismos enemigos, la misma información —pero una interpretación radicalmente diferente, basada en en quién confían."
+          "comentario": "El contraste entre los diez espías y Josué y Caleb es uno de los más elocuentes del Antiguo Testamento sobre el poder de la perspectiva de fe. Los diez vieron obstáculos gigantescos y se vieron pequeños. Josué y Caleb vieron al Señor y vieron a los obstáculos pequeños. La misma geografía, los mismos enemigos, la misma información —pero una interpretación radicalmente diferente, basada en quién confían."
         },
         {
           "tipo": "escritura",
@@ -71,56 +71,56 @@
       "id": 1,
       "question": "¿Cuál fue la consecuencia de que los espías enviados a Canaán regresaran con un informe de incredulidad en Números 13–14?",
       "options": [
-        "El pueblo decidió atacar inmediatamente a pesar del informe negativo.",
-        "Israel vagó por el desierto durante cuarenta años hasta que murió la generación incrédula.",
         "El Señor encontró una ruta alternativa para que entraran a la tierra.",
-        "Moisés fue castigado por haber enviado los espías."
+        "Moisés fue castigado por haber enviado los espías.",
+        "El pueblo decidió atacar inmediatamente a pesar del informe negativo.",
+        "Cuarenta años de desierto, hasta que murió esa generación."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Qué distinguió el informe de Caleb y Josué del informe de los demás diez espías en Números 13–14?",
       "options": [
+        "Confiaron en el Señor y no en el tamaño del enemigo.",
+        "Caleb y Josué propusieron una alianza con los habitantes de Canaán.",
         "Caleb y Josué dijeron que la tierra no valía la pena conquistar.",
-        "Caleb y Josué exageraron los peligros para que el pueblo fuera más cuidadoso.",
-        "Caleb y Josué confiaron en que el Señor les daría la victoria a pesar de los obstáculos.",
-        "Caleb y Josué propusieron una alianza con los habitantes de Canaán."
+        "Caleb y Josué exageraron los peligros para que el pueblo fuera más cuidadoso."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "¿Qué simbolizaba la serpiente de bronce que Moisés levantó en el desierto según Números 21?",
       "options": [
-        "El poder de Moisés sobre los animales del desierto.",
         "La sabiduría médica que el Señor le dio a Israel.",
-        "A Jesucristo levantado en la cruz, de modo que quienes miraran a Él con fe serían sanados espiritualmente.",
-        "La victoria de Israel sobre sus enemigos en el desierto."
+        "A Cristo levantado en la cruz, para sanar a quien mirara con fe.",
+        "La victoria de Israel sobre sus enemigos en el desierto.",
+        "El poder de Moisés sobre los animales del desierto."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "¿Qué nos enseña la actitud de murmuración y queja constante de Israel en el desierto?",
       "options": [
+        "Que quejarse es una forma válida de comunicarse con el Señor.",
         "Que era razonable quejarse dadas las difíciles condiciones del desierto.",
-        "Que la ingratitud y la falta de fe nos impiden recibir las bendiciones que el Señor tiene preparadas.",
-        "Que el Señor era demasiado estricto con el pueblo de Israel.",
-        "Que quejarse es una forma válida de comunicarse con el Señor."
+        "Que la ingratitud y la falta de fe nos impiden recibir las bendiciones.",
+        "Que el Señor era demasiado estricto con el pueblo de Israel."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "¿Qué lección sobre la confianza en el Señor podemos aprender del ejemplo de Josué al ser llamado como sucesor de Moisés en Números 27?",
       "options": [
-        "Que los líderes deben buscar el poder por sus propios méritos.",
-        "Que el Señor prepara y designa a Sus siervos con anticipación para continuar Su obra.",
         "Que Josué era superior a Moisés en todos los aspectos.",
-        "Que el liderazgo siempre debe heredarse dentro de la misma familia."
+        "Que el liderazgo siempre debe heredarse dentro de la misma familia.",
+        "Que los líderes deben buscar el poder por sus propios méritos.",
+        "Que el Señor designa a Sus siervos antes de necesitarlos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

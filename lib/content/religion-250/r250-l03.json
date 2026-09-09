@@ -57,23 +57,23 @@
       "id": 1,
       "question": "En Abraham 3:27, cuando el Padre preguntó «¿A quién enviaré?», Jesucristo respondió primero. ¿Cuál fue la respuesta de Satanás, según Moisés 4:1?",
       "options": [
-        "Que no tenía interés en ir y sugirió enviar a los ángeles más poderosos.",
         "Que estaba dispuesto, pero pidió que Dios garantizara que todos serían salvados sin excepción.",
-        "Que iría, redimiría a toda la humanidad sin pérdidas, pero exigía que la gloria fuera para él.",
-        "Que enviaría en su lugar a los espíritus más valientes de la vida preterrenal."
+        "Que iría y redimiría a todos sin perder a nadie, pero pidiendo la gloria para sí.",
+        "Que enviaría en su lugar a los espíritus más valientes de la vida preterrenal.",
+        "Que no tenía interés en ir y sugirió enviar a los ángeles más poderosos."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "Según Abraham 3:22–23, ¿cómo se describe a Jesucristo en comparación con los demás espíritus en la vida preterrenal?",
       "options": [
+        "Era el más poderoso físicamente, lo que lo hacía el candidato ideal para ser Salvador.",
         "Era igual a todos los espíritus nobles en inteligencia y carácter.",
-        "Era más inteligente que todos — no había dos iguales a Él entre todos los espíritus.",
-        "Era el más joven pero el más obediente de todos.",
-        "Era el más poderoso físicamente, lo que lo hacía el candidato ideal para ser Salvador."
+        "Era más inteligente que todos: ninguno era semejante a Él.",
+        "Era el más joven pero el más obediente de todos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
@@ -82,7 +82,7 @@
         "Porque Satanás no tenía el poder para cumplirla, así que era solo una promesa vacía.",
         "Porque el Padre quería que al menos algunos espíritus eligieran el fracaso como parte del plan.",
         "Porque la propuesta de Satanás era idéntica a la de Cristo pero llegó después.",
-        "Porque para salvar a todos sin excepción habría que eliminar la agencia moral, que es esencial para el crecimiento y la exaltación reales."
+        "Porque salvar a todos sin excepción exigiría eliminar la agencia moral."
       ],
       "correctAnswer": 3
     },
@@ -90,45 +90,45 @@
       "id": 4,
       "question": "Apocalipsis 12:10–11 dice que los fieles «le han vencido por medio de la sangre del Cordero y de la palabra del testimonio de ellos». ¿Qué dice ese versículo sobre la guerra espiritual que comenzó en la vida preterrenal y continúa hoy?",
       "options": [
-        "Que la guerra preterrenal ya terminó y no tiene relación con la vida actual.",
-        "Que vencer a Satanás en la vida mortal requiere la Expiación de Cristo y el testimonio personal activo — los mismos instrumentos que funcionaron antes de nacer.",
+        "Que vencer a Satanás pide la Expiación de Cristo y el testimonio personal activo.",
         "Que solo los mártires que mueren por su fe pueden vencer a Satanás definitivamente.",
-        "Que la «sangre del Cordero» se refiere únicamente al rito del sacrificio del Antiguo Testamento."
+        "Que la «sangre del Cordero» se refiere únicamente al rito del sacrificio del Antiguo Testamento.",
+        "Que la guerra preterrenal ya terminó y no tiene relación con la vida actual."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Lucas dice: «No sé si elegí seguir a Cristo antes de nacer — no lo recuerdo y no puede probarse. ¿Para qué pensar en algo que no puedo verificar?». Según la lección, ¿cuál es la respuesta más coherente con el principio doctrinal enseñado?",
       "options": [
-        "Que tiene razón: si no se puede recordar ni verificar, no tiene relevancia práctica para la vida presente.",
-        "Que debería buscar revelaciones personales específicas que le confirmen exactamente qué hizo en la prexistencia.",
         "Que la vida preterrenal es una doctrina reservada solo para los miembros más avanzados en el Evangelio.",
-        "Que aunque no recordamos esa decisión, el hecho de tener un cuerpo mortal es evidencia de que la tomamos, y eso nos da una razón de confianza: ya elegimos correctamente cuando más importaba."
+        "Que aunque no recordemos esa decisión, tener un cuerpo mortal prueba que elegimos bien cuando más importaba.",
+        "Que tiene razón: si no se puede recordar ni verificar, no tiene relevancia práctica para la vida presente.",
+        "Que debería buscar revelaciones personales específicas que le confirmen exactamente qué hizo en la prexistencia."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "Camila siente que en su vida hay áreas donde no puede someter su voluntad al Señor — especialmente cuando Sus mandamientos chocan con sus planes académicos y de carrera. Según el contraste entre Cristo y Satanás en Moisés 4:1–2, ¿qué principio le ofrece esta lección?",
       "options": [
+        "Que Dios entiende las ambiciones profesionales y no espera sumisión en esas áreas.",
         "Que debería postponer sus decisiones de fe hasta terminar sus estudios.",
-        "Que la diferencia fundamental entre el bien y el mal es exactamente esa tensión entre «hágase tu voluntad» y «dame tu gloria», y que cada decisión pequeña de sumisión es práctica real de ese principio.",
-        "Que los mandamientos de la Iglesia están diseñados para personas sin ambiciones profesionales.",
-        "Que Dios entiende las ambiciones profesionales y no espera sumisión en esas áreas."
+        "Que la diferencia entre el bien y el mal está en «hágase tu voluntad» o «dame tu gloria».",
+        "Que los mandamientos de la Iglesia están diseñados para personas sin ambiciones profesionales."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Cristo dijo «hágase tu voluntad» en la vida preterrenal (Moisés 4:2) y también en Getsemaní (Mateo 26:39). ¿Qué dice esa repetición del mismo patrón en dos momentos tan distintos sobre el carácter del Salvador?",
       "options": [
-        "Que la sumisión de Cristo era situacional — funcionó en esos dos momentos extremos pero no era su actitud constante.",
-        "Que la sumisión al Padre no fue un acto puntual heroico sino el carácter central y consistente de toda Su existencia, preterrenal y mortal.",
         "Que Cristo dudó en ambos momentos, lo que lo hace más cercano a nuestra experiencia humana.",
-        "Que el Padre colocó deliberadamente a Cristo en situaciones de prueba para ver si seguía siendo fiel."
+        "Que el Padre colocó deliberadamente a Cristo en situaciones de prueba para ver si seguía siendo fiel.",
+        "Que la sumisión de Cristo era situacional — funcionó en esos dos momentos extremos pero no era su actitud constante.",
+        "Que la sumisión al Padre no fue un acto puntual sino el carácter central de toda Su existencia."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

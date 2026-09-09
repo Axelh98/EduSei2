@@ -57,30 +57,30 @@
       "id": 1,
       "question": "En DyC 19:18, el Salvador describe Su sufrimiento en Getsemaní en primera persona. ¿Cuáles fueron las palabras exactas que usó para describir la magnitud de ese sufrimiento?",
       "options": [
-        "«Sufrí más de lo que cualquier ser mortal habría podido soportar en su lugar.»",
-        "«Temblar de dolor y sangrar de cada poro, y sufrir tanto en cuerpo como en espíritu.»",
         "«Sentí el peso de todos los pecados del mundo como una carga aplastante sobre mi espalda.»",
-        "«Vi cada pecado y cada dolor y los tomé uno por uno hasta que no quedó ninguno sin cubrir.»"
+        "«Vi cada pecado y cada dolor y los tomé uno por uno hasta que no quedó ninguno sin cubrir.»",
+        "«Sufrí más de lo que cualquier ser mortal habría podido soportar en su lugar.»",
+        "«Temblar de dolor y sangrar de cada poro, y sufrir tanto en cuerpo como en espíritu.»"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "Alma 7:11–12 enseña que Cristo sufrió no solo por los pecados sino también por algo más. ¿Qué más incluyó Su sufrimiento según ese pasaje?",
       "options": [
-        "Las injusticias históricas de los pueblos que no recibieron el Evangelio en vida.",
         "Los dolores, las enfermedades, las aflicciones y las flaquezas de Su pueblo.",
         "Los errores futuros de quienes no se arrepentirían después de conocer el Evangelio.",
-        "El sufrimiento de los animales y de toda la creación durante la mortalidad."
+        "El sufrimiento de los animales y de toda la creación durante la mortalidad.",
+        "Las injusticias históricas de los pueblos que no recibieron el Evangelio en vida."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "El élder Holland afirmó que la Expiación fue «infinita» en alcance, «eterna» en duración, pero también «personal» porque el Salvador nos conoce individualmente. ¿Por qué los tres adjetivos son necesarios juntos — no basta con uno o dos?",
       "options": [
         "Porque son simplemente tres maneras poéticas de decir lo mismo.",
-        "Porque «infinita» sin «personal» produciría una Expiación abstracta que no me alcanza; «personal» sin «infinita» limitaría su poder; y «eterna» asegura que sus efectos no caducan — los tres son necesarios para describir un sacrificio que funciona para mí, ahora.",
+        "Porque «infinita» sin «personal» no me alcanza, y «personal» sin «infinita» no bastaría.",
         "Porque la teología requiere tres atributos para cada doctrina, siguiendo el patrón de la Trinidad.",
         "Porque los tres adjetivos corresponden a las tres fases de la Expiación: Getsemaní, la cruz y la resurrección."
       ],
@@ -90,41 +90,41 @@
       "id": 4,
       "question": "Alma 7:12 dice que Cristo tomó sobre Sí las flaquezas de Su pueblo «para que sus entrañas se llenen de misericordia conforme a la carne, a fin de que sepa cómo socorrer a su pueblo». ¿Qué dice eso sobre la naturaleza del apoyo que el Salvador puede ofrecernos?",
       "options": [
+        "Que la misericordia de Cristo es mayor hacia quienes más han sufrido, proporcional a la magnitud de su dolor.",
         "Que el Salvador nos ayuda con compasión genérica porque conoce la condición humana en abstracto.",
-        "Que el Salvador puede sostenernos con comprensión exacta porque experimentó personalmente lo que experimentamos — no es una compasión desde fuera sino desde adentro.",
-        "Que el Salvador debe consultarnos sobre nuestros problemas antes de poder ayudarnos efectivamente.",
-        "Que la misericordia de Cristo es mayor hacia quienes más han sufrido, proporcional a la magnitud de su dolor."
+        "Que puede sostenernos con comprensión exacta porque experimentó lo que experimentamos.",
+        "Que el Salvador debe consultarnos sobre nuestros problemas antes de poder ayudarnos efectivamente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "Emilio cometió un error grave y aunque se arrepintió, siente que no puede haber sido perdonado completamente. Cree que la Expiación «es para pecados normales, no para lo mío». Según DyC 19:16 y 2 Nefi 9:21, ¿qué le dice esta lección?",
       "options": [
+        "Que la sensación de no haber sido perdonado es evidencia de que el arrepentimiento no fue completo.",
         "Que debería esperar más tiempo antes de sentir la seguridad del perdón.",
         "Que consulte con el obispo para que evalúe si su arrepentimiento fue suficiente.",
-        "Que DyC 19:16 dice que Cristo sufrió «por todos» — no con excepciones por categoría de pecado — y 2 Nefi 9:21 confirma que Su sufrimiento abarcó toda criatura viviente, lo que incluye los errores que a Emilio le parecen demasiado grandes.",
-        "Que la sensación de no haber sido perdonado es evidencia de que el arrepentimiento no fue completo."
+        "Que Cristo sufrió «por todos», y eso incluye lo que a Emilio le parece demasiado grande."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
       "question": "Patricia atraviesa una depresión severa y siente que Dios no puede entender lo que ella vive porque «Él es perfecto». Según Alma 7:11–12 y la lección, ¿qué le ofrece esta doctrina?",
       "options": [
+        "Que Cristo tomó sobre Sí dolores, aflicciones y flaquezas para sostenerla con comprensión real.",
+        "Que si aumenta su fe lo suficiente, el sufrimiento desaparecerá como promesa de la Expiación.",
         "Que la depresión es principalmente una condición espiritual que se resuelve con más oración y estudio.",
-        "Que Dios en efecto no puede entender su sufrimiento emocional, pero los mortales que la rodean sí.",
-        "Que Cristo tomó sobre Sí exactamente esa clase de dolor — dolores, aflicciones, flaquezas — para poder sostenernos con comprensión perfecta, no con lástima desde lejos sino con experiencia real.",
-        "Que si aumenta su fe lo suficiente, el sufrimiento desaparecerá como promesa de la Expiación."
+        "Que Dios en efecto no puede entender su sufrimiento emocional, pero los mortales que la rodean sí."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 7,
       "question": "DyC 19:18 habla de sufrimiento «en cuerpo y espíritu». Alma 7:11–12 incluye dolores, enfermedades y flaquezas. 2 Nefi 9:21 dice «toda criatura viviente». ¿Cuál es el principio que une el alcance de esos tres pasajes?",
       "options": [
         "Que la Expiación tiene límites doctrinales precisos que cada pasaje define desde una perspectiva diferente.",
-        "Que la Expiación de Cristo fue absolutamente comprensiva — no hay categoría de sufrimiento humano que quede fuera, lo que hace posible que sea la fuente de sostenimiento para cualquier condición mortal.",
+        "Que la Expiación fue absolutamente comprensiva, y por eso sostiene cualquier condición mortal.",
         "Que cada pasaje describe una fase distinta de la Expiación, y solo juntos conforman una imagen completa.",
         "Que el alcance de la Expiación varía según el nivel de fe y el grado de arrepentimiento de cada persona."
       ],

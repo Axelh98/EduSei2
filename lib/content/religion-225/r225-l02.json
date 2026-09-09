@@ -6,30 +6,51 @@
       "bloques": [
         {
           "tipo": "parrafo",
+          "texto": "La región del oeste del estado de Nueva York donde vivía la familia Smith hervía de predicación religiosa. Los avivamientos se sucedían y cada congregación reclamaba para sí la verdad. José tenía catorce años y estaba en el medio de eso: su madre y dos de sus hermanos se inclinaban por los presbiterianos, él simpatizaba con los metodistas, y el ruido de argumentos enfrentados le impedía decidir. «En medio de esta guerra de palabras y tumulto de opiniones —escribió— yo me decía frecuentemente: ¿Qué se debe hacer?». Un día leyó en Santiago que quien tenga falta de sabiduría la pida a Dios, y esa sola frase le entró más hondo que cualquier sermón."
+        },
+        {
+          "tipo": "parrafo",
           "texto": "Una mañana de primavera de 1820, un joven de 14 años llamado José Smith entró en una arboleda cerca de su casa en Palmyra, Nueva York. Lo que ocurrió allí cambió el curso de la historia humana. Por primera vez desde los tiempos del Nuevo Testamento, el Padre Celestial y Jesucristo se aparecieron juntos a un ser humano, iniciando lo que llamamos la dispensación del cumplimiento de los tiempos."
         },
         {
           "tipo": "escritura",
-          "referencia": "José Smith—Historia 1:15–17",
-          "texto": "Vi una columna de luz, más brillante que el sol, directamente arriba de mi cabeza; y esta luz gradualmente descendió hasta descansar sobre mí... Al reposar sobre mí la luz, vi en el aire arriba de mí a dos Personajes, cuyo fulgor y gloria no admiten descripción. Uno de ellos me habló, llamándome por mi nombre, y dijo, señalando al otro: Éste es mi Hijo Amado: ¡Escúchalo!",
-          "comentario": "El relato de José es directo y poderoso. Vio al Padre y al Hijo como seres separados y distintos con cuerpos glorificados. El Padre presentó al Hijo y dirigió a José hacia Él. Esta visión restauró verdades fundamentales sobre la naturaleza de Dios que se habían perdido."
+          "referencia": "José Smith—Historia 1:11–12",
+          "texto": "Agobiado bajo el peso de las graves dificultades que provocaban las contiendas de estos grupos religiosos, un día estaba leyendo la Epístola de Santiago, primer capítulo y quinto versículo, que dice: Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, quien da a todos abundantemente y sin reproche, y le será dada. Ningún pasaje de las Escrituras jamás penetró el corazón de un hombre con más fuerza que este en esta ocasión, el mío. Pareció introducirse con inmenso poder en cada fibra de mi corazón. Lo medité repetidas veces, sabiendo que si alguien necesitaba sabiduría de Dios, esa persona era yo; porque no sabía qué hacer, y a menos que obtuviera mayor conocimiento del que hasta entonces tenía, jamás llegaría a saber; porque los maestros religiosos de las diferentes sectas entendían los mismos pasajes de las Escrituras de un modo tan distinto, que destruían toda esperanza de resolver el problema recurriendo a la Biblia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=spa&id=p11-p12#p11",
+          "comentario": "El versículo que puso todo en marcha. José no fue a la arboleda por curiosidad teológica: fue porque un pasaje de la Biblia le prometió una respuesta y decidió tomarlo en serio."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "José Smith—Historia 1:16–17",
+          "texto": "Mas esforzándome con todo mi aliento por pedirle a Dios que me librara del poder de este enemigo que se había apoderado de mí, y en el momento en que estaba para hundirme en la desesperación y entregarme a la destrucción —no a una ruina imaginaria, sino al poder de un ser efectivo del mundo invisible que ejercía una fuerza tan asombrosa como yo nunca había sentido en ningún otro ser— precisamente en este momento de tan grande alarma vi una columna de luz, más brillante que el sol, directamente arriba de mi cabeza; y esta luz gradualmente descendió hasta descansar sobre mí. No bien se apareció, me sentí libre del enemigo que me había sujetado. Al reposar sobre mí la luz, vi en el aire arriba de mí a dos Personajes, cuyo fulgor y gloria no admiten descripción. Uno de ellos me habló, llamándome por mi nombre, y dijo, señalando al otro: Este es mi Hijo Amado: ¡Escúchalo!",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=spa&id=p16-p17#p16",
+          "comentario": "El relato de José es directo. Vio al Padre y al Hijo como dos seres separados y distintos, con cuerpos glorificados. El Padre habló para presentar al Hijo y dirigir a José hacia Él: «Escúchalo»."
         },
         {
           "tipo": "escritura",
           "referencia": "José Smith—Historia 1:18–19",
-          "texto": "Mi objeto al dirigirme al Señor fue saber cuál de todas las sectas era la verdadera, a fin de saber a cuál unirme. Por tanto, tan luego como me hube recobrado lo suficiente para poder hablar, pregunté a los Personajes que estaban en la luz arriba de mí, cuál de todas las sectas era la verdadera y a cuál debía unirme. Se me contestó que no debía unirme a ninguna, porque todas estaban en error.",
-          "comentario": "José recibió una respuesta directa a su pregunta: ninguna de las iglesias existentes tenía la plenitud de la verdad ni la autoridad del sacerdocio. Se necesitaba una restauración completa, no una reforma."
+          "texto": "Había sido mi objeto recurrir al Señor para saber cuál de todas las sectas era la verdadera, a fin de saber a cuál unirme. Por tanto, luego que me hube recobrado lo suficiente para poder hablar, pregunté a los Personajes que estaban en la luz arriba de mí, cuál de todas las sectas era la verdadera (porque hasta ese momento nunca se me había ocurrido pensar que todas estuvieran en error), y a cuál debía unirme. Se me contestó que no debía unirme a ninguna, porque todas estaban en error; y el Personaje que me habló dijo que todos sus credos eran una abominación a su vista; que todos aquellos profesores se habían pervertido; que “con sus labios me honran, pero su corazón lejos está de mí; enseñan como doctrinas los mandamientos de los hombres, teniendo apariencia de piedad, mas negando el poder de ella”.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=spa&id=p18-p19#p18",
+          "comentario": "José recibió una respuesta directa a la pregunta que había llevado: ninguna de las iglesias existentes tenía la plenitud de la verdad ni la autoridad del sacerdocio. Hacía falta una restauración, no una reforma."
         },
         {
           "tipo": "cita",
           "autor": "Presidente Gordon B. Hinckley",
           "fuente": "«El maravilloso fundamento de nuestra fe», Conferencia General, octubre de 2002 (Liahona, noviembre de 2002)",
           "texto": "O sucedió o no sucedió; si no ocurrió, quiere decir que esta obra es un fraude; si ocurrió, quiere decir que es la obra más importante y maravillosa debajo de los cielos.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/2002/10/the-marvelous-foundation-of-our-faith?lang=spa"
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2002/10/the-marvelous-foundation-of-our-faith?lang=spa#p26"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder Richard J. Maynes",
+          "fuente": "«La Primera Visión: La clave de la verdad», Liahona, junio de 2017, págs. 30, 31",
+          "texto": "La Primera Visión de José Smith es la clave para desvelar muchas verdades que habían estado ocultas durante siglos. No olvidemos ni subestimemos las muchas y preciadas verdades que hemos aprendido de la Primera Visión.",
+          "link": "https://www.churchofjesuschrist.org/study/liahona/2017/06/the-first-vision-key-to-truth?lang=spa",
+          "linkManual": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-2-class-preparation-material-the-first-vision?lang=spa#p3"
         },
         {
           "tipo": "parrafo",
-          "texto": "La Primera Visión restauró verdades fundamentales: (1) que Dios el Padre y Jesucristo son seres separados, distintos y glorificados; (2) que los cielos no están cerrados — Dios sigue hablando a Sus hijos; (3) que la plenitud del Evangelio no estaba sobre la tierra y necesitaba ser restaurada; (4) que Dios conoce a cada uno de Sus hijos por nombre y responde oraciones sinceras. Estas verdades forman el fundamento de la fe restaurada."
+          "texto": "La Primera Visión restauró verdades que llevaban siglos perdidas: que el Padre y el Hijo son seres separados, distintos y glorificados; que los cielos no están cerrados y Dios sigue hablando; que la plenitud del Evangelio no estaba sobre la tierra y debía ser restaurada; y que Dios conoce a cada uno de Sus hijos por su nombre y responde a una oración sincera. Ese último punto es el que más cerca queda de tu vida. El Padre no le habló a un teólogo consagrado ni a un anciano venerable, sino a un chico de catorce años sin instrucción que no sabía qué hacer y decidió preguntar. La misma disposición de Jesucristo a responder sigue disponible para ti hoy, y empieza igual: con una pregunta hecha en serio."
         },
         {
           "tipo": "doctrinal",
@@ -44,10 +65,12 @@
         {
           "tipo": "reflexion",
           "preguntas": [
-            "¿Qué significa para ti personalmente que el Padre Celestial conoció a José Smith por nombre? ¿Qué implica eso sobre Su conocimiento de ti?",
-            "¿Cómo afecta tu fe la enseñanza de que el Padre y el Hijo son seres separados con cuerpos glorificados?",
-            "José tenía 14 años cuando tuvo esta experiencia sagrada. ¿Qué te enseña eso sobre la capacidad de los jóvenes de tener experiencias espirituales profundas?",
-            "Si alguien te preguntara por qué crees que la Primera Visión realmente ocurrió, ¿qué evidencias espirituales o históricas compartirías?"
+            "¿Qué significa para ti que el Padre Celestial llamara a José Smith por su nombre? ¿Qué implica eso sobre lo que Él sabe de ti?",
+            "José tenía catorce años cuando tuvo esta experiencia sagrada. ¿Qué te enseña eso sobre la edad a la que alguien puede recibir una respuesta de Dios?",
+            "Vuelve a leer José Smith—Historia 1:18–19. ¿Qué preguntó José exactamente y qué se le respondió, palabra por palabra?",
+            "¿Cómo cambia tu fe saber que el Padre y el Hijo son dos seres separados con cuerpos glorificados?",
+            "Si alguien te preguntara por qué crees que la Primera Visión ocurrió realmente, ¿qué le responderías esta semana?",
+            "Elige una pregunta que tengas hace tiempo, ora por ella con la misma sinceridad de José y anota lo que sientas después."
           ]
         }
       ]
@@ -57,65 +80,93 @@
     {
       "id": 1,
       "type": "multiple",
-      "question": "Según José Smith—Historia 1:17, ¿qué dijo el Padre Celestial cuando apareció con Jesucristo a José Smith?",
+      "question": "Según José Smith—Historia 1:17, ¿qué dijo el Padre Celestial al aparecer junto a Jesucristo?",
       "options": [
         "«Soy el Alfa y la Omega, el principio y el fin»",
-        "«Éste es mi Hijo Amado: ¡Escúchalo!»",
-        "«Yo soy Jehová, el Dios de tus padres»",
-        "«Prepárate para recibir mi palabra»"
+        "«Prepárate para recibir mi palabra»",
+        "«Este es mi Hijo Amado: ¡Escúchalo!»",
+        "«Yo soy Jehová, Dios de tus padres»"
       ],
-      "correctAnswer": 1,
-      "explanation": "El Padre presentó al Hijo con las palabras: «Éste es mi Hijo Amado: ¡Escúchalo!», dirigiendo la atención y la fe de José hacia Jesucristo."
+      "correctAnswer": 2,
+      "explanation": "El Padre presentó al Hijo y dirigió hacia Él la atención y la fe de José: «Este es mi Hijo Amado: ¡Escúchalo!»."
     },
     {
       "id": 2,
       "type": "multiple",
-      "question": "¿Qué pregunta específica llevó José Smith a la arboleda sagrada?",
+      "question": "¿Qué pregunta llevó José Smith a la arboleda sagrada?",
       "options": [
-        "Cómo podría saber si Dios existía realmente",
-        "Cuál de todas las iglesias era la verdadera y a cuál debía unirse",
-        "Si sus pecados podían ser perdonados",
-        "Cuándo vendría Jesucristo nuevamente"
+        "Si sus pecados habían quedado perdonados",
+        "Cuándo habría de venir Jesucristo por segunda vez",
+        "Cómo podría llegar a saber si Dios existía realmente",
+        "Cuál de todas las iglesias era la verdadera y a cuál unirse"
       ],
-      "correctAnswer": 1,
-      "explanation": "José Smith—Historia 1:18 registra: «Mi objeto al dirigirme al Señor fue saber cuál de todas las sectas era la verdadera, a fin de saber a cuál unirme.»"
+      "correctAnswer": 3,
+      "explanation": "«Mi objeto al dirigirme al Señor fue saber cuál de todas las sectas era la verdadera, a fin de saber a cuál unirme» (JS—H 1:18)."
     },
     {
       "id": 3,
       "type": "multiple",
-      "question": "¿Qué le dijo el Salvador a José Smith acerca de las iglesias existentes en 1820?",
+      "question": "¿Qué respondió el Salvador a José Smith acerca de las iglesias existentes en 1820?",
       "options": [
-        "Que debía unirse a la iglesia más cercana a su casa",
-        "Que debía crear una nueva denominación basada en sus creencias",
-        "Que no debía unirse a ninguna porque todas estaban en error",
-        "Que todas las iglesias tenían parte de la verdad y debía aprender de todas"
+        "Que no debía unirse a ninguna, porque todas estaban en error",
+        "Que debía unirse a la congregación más cercana a su casa",
+        "Que todas tenían parte de la verdad y debía aprender de cada una",
+        "Que debía crear una denominación nueva con sus propias creencias"
       ],
-      "correctAnswer": 2,
-      "explanation": "José fue instruido claramente: «Se me contestó que no debía unirme a ninguna, porque todas estaban en error» (JS—H 1:19). Se requería una restauración, no una reforma."
+      "correctAnswer": 0,
+      "explanation": "«Se me contestó que no debía unirme a ninguna, porque todas estaban en error» (JS—H 1:19). Hacía falta una restauración, no una reforma."
     },
     {
       "id": 4,
-      "type": "truefalse",
-      "question": "Verdadero o Falso: El presidente Hinckley enseñó que toda nuestra religión se sustenta o cae en el testimonio de la Primera Visión.",
+      "type": "multiple",
+      "question": "El presidente Hinckley dijo que la Primera Visión «o sucedió o no sucedió». ¿Qué quiso enseñar con ese planteo?",
       "options": [
-        "Verdadero",
-        "Falso"
+        "Que la visión es un asunto secundario frente a las obras de cada miembro",
+        "Que no hay término medio: o la obra es un fraude, o es la más importante de todas",
+        "Que cada persona puede interpretar el relato de la manera que prefiera",
+        "Que la historicidad del relato importa menos que su valor simbólico"
       ],
-      "correctAnswer": 0,
-      "explanation": "Verdadero. El presidente Hinckley declaró: «Nuestra religión entera se sustenta o cae en el testimonio de la Primera Visión. O sucedió o no sucedió.»"
+      "correctAnswer": 1,
+      "explanation": "«O sucedió o no sucedió; si no ocurrió, quiere decir que esta obra es un fraude; si ocurrió, quiere decir que es la obra más importante y maravillosa debajo de los cielos»."
     },
     {
       "id": 5,
       "type": "multiple",
-      "question": "¿Qué edad tenía José Smith cuando recibió la Primera Visión?",
+      "question": "Agustina encuentra en internet que existen varios relatos de la Primera Visión escritos en años distintos y eso la inquieta. Según esta lección, ¿qué conviene que haga primero?",
       "options": [
-        "17 años",
-        "14 años",
-        "21 años",
-        "19 años"
+        "Suponer que los relatos fueron alterados por enemigos de la Iglesia",
+        "Concluir que el relato oficial se redactó mucho después de los hechos",
+        "Leer los relatos y llevar la pregunta al Señor, como hizo José",
+        "Dejar el tema de lado hasta que alguien con autoridad se lo explique"
       ],
-      "correctAnswer": 1,
-      "explanation": "José tenía 14 años cuando recibió la Primera Visión en la primavera de 1820. Esto demuestra que los jóvenes pueden tener experiencias espirituales profundas."
+      "correctAnswer": 2,
+      "explanation": "La lección enseña el mismo método que usó José: leer, preguntar en serio y llevar la pregunta a Dios. Los relatos son públicos y la Iglesia los publica en el ensayo «Relatos de la Primera Visión»."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Benjamín siente que a los diecisiete años es demasiado joven para recibir respuestas importantes de Dios. ¿Qué le responde el relato de la Primera Visión?",
+      "options": [
+        "Que conviene esperar a la misión para hacer preguntas de ese peso",
+        "Que las visiones son excepcionales y no conviene esperar ninguna",
+        "Que las respuestas llegan solo cuando uno ya tiene experiencia de vida",
+        "Que José recibió una respuesta a los catorce porque preguntó en serio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "José tenía catorce años, ninguna instrucción formal y una pregunta sincera. La edad no fue un obstáculo: la disposición a preguntar fue el punto de partida."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "El élder Maynes llama a la Primera Visión «la clave para desvelar muchas verdades». Según lo que José vio y oyó, ¿qué verdad quedó establecida de inmediato?",
+      "options": [
+        "Que el Padre y el Hijo son dos seres separados y distintos",
+        "Que la Biblia había dejado de tener valor para los últimos días",
+        "Que el sacerdocio ya había sido restaurado antes de esa visión",
+        "Que Dios ya no llamaría profetas como en los tiempos antiguos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "José vio a dos Personajes: el Padre presentó al Hijo. Esa sola escena corrige siglos de credos que enseñaban lo contrario."
     }
   ]
 }

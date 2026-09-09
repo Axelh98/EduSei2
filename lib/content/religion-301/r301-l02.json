@@ -71,56 +71,56 @@
       "id": 1,
       "question": "Según Génesis 1 y Abraham 4–5, ¿quién llevó a cabo físicamente la creación de la tierra?",
       "options": [
+        "Adán y Eva antes de la mortalidad.",
         "El Padre Celestial actuando solo.",
         "Los ángeles bajo la dirección de Dios.",
-        "Jesucristo (Jehová) bajo la dirección del Padre Celestial.",
-        "Adán y Eva antes de la mortalidad."
+        "Jesucristo (Jehová)."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Qué frase repetida en el relato de la creación en Génesis 1 subraya la aprobación divina de cada etapa?",
       "options": [
-        "\"Y así fue hecho para siempre.\"",
-        "\"Y vio Dios que era bueno.\"",
+        "«Y vio Dios que esto era bueno.»",
         "\"Y el hombre lo llamó por su nombre.\"",
-        "\"Y el Espíritu descansó sobre las aguas.\""
+        "\"Y el Espíritu descansó sobre las aguas.\"",
+        "\"Y así fue hecho para siempre.\""
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "¿En qué día de la creación fue creado el ser humano, según el relato del Génesis?",
       "options": [
-        "El cuarto día.",
         "El quinto día.",
-        "El sexto día.",
-        "El séptimo día."
+        "El sexto día de la creación.",
+        "El séptimo día.",
+        "El cuarto día."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "¿Qué enseña Moisés 2–3 sobre la relación entre la creación espiritual y la creación física?",
       "options": [
+        "Que ambas creaciones ocurrieron al mismo tiempo.",
         "Que la creación espiritual ocurrió después de la física.",
-        "Que todas las cosas fueron creadas espiritualmente antes de ser creadas físicamente.",
-        "Que la creación espiritual solo aplica a los seres humanos.",
-        "Que ambas creaciones ocurrieron al mismo tiempo."
+        "Que todo fue creado primero en espíritu.",
+        "Que la creación espiritual solo aplica a los seres humanos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "¿Qué nos enseña el hecho de que Jesucristo fue el Creador sobre Su papel en el plan de salvación?",
       "options": [
-        "Que Su misión comenzó únicamente en Belén.",
-        "Que actuó como agente del Padre desde el principio, preparando un mundo para nuestra experiencia mortal.",
         "Que la creación fue Su única responsabilidad ante el Padre.",
-        "Que no necesitó la autorización del Padre para crear."
+        "Que no necesitó la autorización del Padre para crear.",
+        "Que Su misión comenzó únicamente en Belén.",
+        "Que fue agente del Padre desde el principio."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

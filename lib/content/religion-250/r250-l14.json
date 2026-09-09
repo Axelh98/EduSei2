@@ -57,78 +57,78 @@
       "id": 1,
       "question": "En Marcos 1:40–42, antes de pronunciar una sola palabra de sanación al leproso, ¿qué hizo Jesús?",
       "options": [
-        "Le pidió que demostrara su fe realizando una acción simbólica.",
         "Oró en silencio durante varios minutos antes de responder.",
-        "Extendió la mano y lo tocó, eligiendo el contacto físico deliberadamente.",
-        "Le preguntó si realmente creía que podía sanarlo."
+        "Extendió la mano y lo tocó, eligiendo deliberadamente el contacto físico.",
+        "Le preguntó si realmente creía que podía sanarlo.",
+        "Le pidió que demostrara su fe realizando una acción simbólica."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 2,
       "question": "Según Alma 7:11–12, ¿qué tomó Cristo sobre Sí mismo además de los pecados, durante la Expiación?",
       "options": [
+        "La culpa de quienes murieran sin oportunidad de escuchar el Evangelio.",
         "Las responsabilidades administrativas del sacerdocio que recaerían sobre Sus apóstoles.",
         "Los dolores, las enfermedades, las aflicciones y las flaquezas de Su pueblo.",
-        "El recuerdo colectivo de la humanidad para poder juzgar con perfecta información.",
-        "La culpa de quienes murieran sin oportunidad de escuchar el Evangelio."
+        "El recuerdo colectivo de la humanidad para poder juzgar con perfecta información."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "Hechos 10:38 describe el ministerio de Jesús como «anduvo haciendo bienes». ¿Qué dice esa descripción sobre la naturaleza de los milagros del Salvador?",
       "options": [
-        "Que los milagros eran principalmente señales diseñadas para convencer a los escépticos de Su divinidad.",
-        "Que los milagros no eran actos de poder aislados sino la expresión constante y cotidiana de un carácter compasivo que respondía a las necesidades reales de las personas.",
         "Que los milagros tenían un propósito político — demostrar la superioridad del Evangelio sobre la ley mosaica.",
-        "Que los milagros solo ocurrían cuando los beneficiarios tenían suficiente fe previa para merecerlos."
+        "Que los milagros solo ocurrían cuando los beneficiarios tenían suficiente fe previa para merecerlos.",
+        "Que los milagros eran principalmente señales diseñadas para convencer a los escépticos de Su divinidad.",
+        "Que eran la expresión constante de un carácter compasivo que respondía a necesidades reales."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "El élder Bednar enseñó que la Expiación da fortaleza para soportar el sufrimiento, no solo para ser perdonados. ¿Por qué esa dimensión de la Expiación es tan importante como la dimensión del perdón?",
       "options": [
-        "Porque el sufrimiento inocente es estadísticamente más común que el pecado consciente.",
-        "Porque gran parte del dolor humano no proviene del pecado propio sino de la condición mortal — enfermedades, pérdidas, traiciones — y la Expiación que no cubriera eso dejaría incompleto el propósito de Cristo de sostenernos en todo.",
+        "Porque gran parte del dolor humano no nace del pecado sino de la mortalidad.",
         "Porque el perdón de los pecados es menos urgente que el alivio del sufrimiento físico.",
-        "Porque la fortaleza habilitadora es la única dimensión de la Expiación que requiere fe activa del receptor."
+        "Porque la fortaleza habilitadora es la única dimensión de la Expiación que requiere fe activa del receptor.",
+        "Porque el sufrimiento inocente es estadísticamente más común que el pecado consciente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Renata atraviesa una depresión severa y siente que Dios no la escucha. Dice: «Si me amara, no permitiría que me sintiera así». Según Alma 7:11–12 y la enseñanza del élder Bednar, ¿qué le diría esta lección?",
       "options": [
-        "Que tiene razón en su duda: un Dios bueno no permitiría el sufrimiento de una persona inocente.",
         "Que debería concentrarse en ser más obediente para que el sufrimiento disminuya.",
-        "Que Cristo tomó sobre Sí exactamente ese tipo de dolor — no para que ella no lo sintiera, sino para poder sostenerla con comprensión perfecta desde adentro, y que la Expiación da fortaleza para atravesarlo, no siempre para evitarlo.",
-        "Que la depresión es principalmente un problema médico y no tiene relación con la Expiación."
+        "Que Cristo tomó sobre Sí ese mismo dolor para sostenerla desde adentro, no para evitarlo.",
+        "Que la depresión es principalmente un problema médico y no tiene relación con la Expiación.",
+        "Que tiene razón en su duda: un Dios bueno no permitiría el sufrimiento de una persona inocente."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "Jesús tocó al leproso — alguien que legalmente era «inmundo» e intocable — antes de curarlo. Tomás tiene un compañero de trabajo que la mayoría evita por su historial o su conducta. Según el patrón del Salvador con el leproso, ¿qué le sugeriría esta lección?",
       "options": [
+        "Que solo los líderes con autoridad del sacerdocio están en posición de ministrar a personas con historiales difíciles.",
         "Que debe evitar a personas con conductas problemáticas para proteger su propio bienestar espiritual.",
-        "Que el toque antes de la palabra de sanación fue el mensaje real — el valor de la persona precede a su reforma, y una muestra de atención genuina puede ser el punto de partida de una transformación.",
-        "Que debe esperar que esa persona resuelva sus problemas antes de acercarse, para evitar malentendidos.",
-        "Que solo los líderes con autoridad del sacerdocio están en posición de ministrar a personas con historiales difíciles."
+        "Que el valor de la persona precede a su reforma, y la atención genuina es el punto de partida.",
+        "Que debe esperar que esa persona resuelva sus problemas antes de acercarse, para evitar malentendidos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "Los milagros físicos del ministerio terrenal de Cristo (sanar al leproso, devolverle la vista al ciego) y el milagro espiritual de la Expiación descrito en Alma 7:11–12 comparten un origen y un propósito. ¿Cuál es el principio que los une?",
       "options": [
+        "Que los milagros físicos tenían propósito de demostración pública y la Expiación tiene propósito privado e individual.",
         "Que ambos tipos de milagro requieren la misma cantidad de fe por parte del receptor para ser efectivos.",
         "Que los milagros físicos eran preparatorios y la Expiación los reemplazó, haciéndolos innecesarios en la era moderna.",
-        "Que ambos brotan del mismo carácter compasivo del Salvador — Él «anduvo haciendo bienes» porque así es, y la Expiación es el gesto más grande de ese mismo carácter aplicado al sufrimiento más profundo de la humanidad.",
-        "Que los milagros físicos tenían propósito de demostración pública y la Expiación tiene propósito privado e individual."
+        "Que ambos brotan del mismo carácter compasivo: Él «anduvo haciendo bienes» porque así es."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

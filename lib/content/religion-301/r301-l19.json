@@ -74,7 +74,7 @@
       "question": "¿Qué promesa y mandamiento recibió Josué del Señor al inicio de su liderazgo en Josué 1?",
       "options": [
         "Que recibiría riquezas de todas las naciones que conquistara.",
-        "Que sería fuerte y valiente porque el Señor estaría con él a dondequiera que fuese.",
+        "Que fuera fuerte y valiente, porque el Señor estaría con él dondequiera.",
         "Que nunca enfrentaría resistencia de los habitantes de Canaán.",
         "Que el pueblo lo obedecería sin cuestionarlo en ninguna decisión."
       ],
@@ -84,45 +84,45 @@
       "id": 2,
       "question": "¿Qué acto de fe demostró Rahab al ayudar a los espías israelitas en Josué 2?",
       "options": [
+        "Que ofreció sacrificios al Dios de Israel antes de conocer a los espías.",
         "Que abandonó su ciudad para unirse al campamento de Israel.",
         "Que escondió a los espías y ató un cordón rojo en su ventana como señal de protección.",
-        "Que entregó al rey de Jericó información falsa para salvar a los espías.",
-        "Que ofreció sacrificios al Dios de Israel antes de conocer a los espías."
+        "Que entregó al rey de Jericó información falsa para salvar a los espías."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "¿Qué instrucción poco convencional dio el Señor para conquistar Jericó, y qué nos enseña en Josué 6?",
       "options": [
+        "Enviar una delegación diplomática antes de cualquier acción militar.",
         "Construir catapultas y atacar en la madrugada, enseñando la importancia de la estrategia militar.",
         "Negociar con los habitantes de Jericó, enseñando la importancia del diálogo.",
-        "Marchar alrededor de la ciudad durante siete días y tocar trompetas, enseñando que la obediencia exacta trae victoria divina.",
-        "Enviar una delegación diplomática antes de cualquier acción militar."
+        "Marchar siete días alrededor de la ciudad tocando trompetas: la obediencia exacta vence."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Por qué Israel sufrió una derrota en Hai después del éxito en Jericó, según Josué 7?",
       "options": [
+        "Porque Acán había desobedecido y tomado lo consagrado.",
+        "Porque el Señor quería que Israel aprendiera de sus errores militares.",
         "Porque el ejército de Hai era significativamente más poderoso.",
-        "Porque Josué no consultó suficientemente al Señor antes de la batalla.",
-        "Porque Acán había desobedecido el mandamiento de no tomar del botín consagrado al Señor.",
-        "Porque el Señor quería que Israel aprendiera de sus errores militares."
+        "Porque Josué no consultó suficientemente al Señor antes de la batalla."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "¿Cuál fue el reto final que Josué presentó al pueblo en Josué 24:15?",
       "options": [
-        "Que decidieran a quién servirían, declarando él mismo que su casa serviría al Señor.",
+        "Que decidieran qué leyes de Moisés seguirían observando.",
+        "Que escogieran a quién servir; su casa serviría al Señor.",
         "Que eligieran entre quedarse en Canaán o regresar a Egipto.",
-        "Que nombraran al próximo líder que guiaría a Israel.",
-        "Que decidieran qué leyes de Moisés seguirían observando."
+        "Que nombraran al próximo líder que guiaría a Israel."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ]
 }

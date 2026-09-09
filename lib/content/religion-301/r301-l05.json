@@ -71,19 +71,19 @@
       "id": 1,
       "question": "¿Cómo se describe la ciudad de Sion fundada por Enoc en Moisés 7?",
       "options": [
-        "Como una ciudad grande y militarmente poderosa.",
-        "Como un pueblo de un solo corazón y una sola mente, que moraba en justicia y no tenía pobres.",
+        "Como un pueblo de un solo corazón y una sola mente, sin pobres entre ellos.",
         "Como una comunidad aislada que rechazaba a todos los extranjeros.",
-        "Como una ciudad que alcanzó la paz solo después de muchas guerras."
+        "Como una ciudad que alcanzó la paz solo después de muchas guerras.",
+        "Como una ciudad grande y militarmente poderosa."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "¿Qué sucedió con la ciudad de Sion y su pueblo al final, según Moisés 7?",
       "options": [
         "Fue destruida por sus enemigos.",
-        "Fue llevada al cielo por el Señor debido a su justicia.",
+        "Fue llevada al cielo por su justicia.",
         "Emigró a la tierra prometida junto con Abraham.",
         "Permaneció en la tierra hasta el tiempo de Noé."
       ],
@@ -93,34 +93,34 @@
       "id": 3,
       "question": "En Moisés 7, ¿cómo reaccionó el Señor al ver la maldad y el sufrimiento en la tierra durante el tiempo de Noé?",
       "options": [
+        "Delegó toda Su preocupación a los ángeles.",
         "Permaneció indiferente ante el sufrimiento humano.",
-        "Lloró, demostrando Su profundo amor y dolor por Sus hijos que rechazaban el Evangelio.",
-        "Se enojó sin sentir ninguna tristeza.",
-        "Delegó toda Su preocupación a los ángeles."
+        "Lloró, y así reveló Su amor por ellos.",
+        "Se enojó sin sentir ninguna tristeza."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Qué profecía hizo Enoc en Moisés 7 sobre los últimos días que nos involucra directamente?",
       "options": [
-        "Que la ciudad de Sion nunca más volvería a la tierra.",
-        "Que la ciudad de Sion regresaría y se uniría a un pueblo justo en la tierra en los últimos días.",
         "Que solo los descendientes de Enoc vivirían en los últimos días.",
-        "Que el Señor destruiría la tierra antes de que Sion pudiera regresar."
+        "Que el Señor destruiría la tierra antes de que Sion pudiera regresar.",
+        "Que la ciudad de Sion nunca más volvería a la tierra.",
+        "Que la ciudad de Sion volvería y se uniría a un pueblo justo en los últimos días."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "¿Qué principio de unidad y cuidado mutuo podemos aplicar hoy de la experiencia del pueblo de Sion?",
       "options": [
-        "Que la unidad solo es posible en comunidades perfectas.",
-        "Que buscar el bienestar de los demás y eliminar la pobreza entre nosotros es parte de vivir la ley de Sion.",
+        "Que buscar el bien de los demás y eliminar la pobreza es vivir la ley de Sion.",
         "Que el éxito material de la comunidad es la medida de su justicia.",
-        "Que debemos aislarnos del mundo para alcanzar la santidad."
+        "Que debemos aislarnos del mundo para alcanzar la santidad.",
+        "Que la unidad solo es posible en comunidades perfectas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

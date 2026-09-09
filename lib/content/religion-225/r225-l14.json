@@ -1,5 +1,171 @@
 {
   "id": "r225-l14",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "A un editor de Chicago que le preguntó qué creía su Iglesia, José Smith le respondió con una frase que hoy es el noveno Artículo de Fe: creemos todo lo que Dios ha revelado, todo lo que revela ahora y que aún revelará muchos grandes e importantes asuntos. Esa creencia tiene una consecuencia práctica que distingue a esta Iglesia: además de la Biblia, los Santos de los Últimos Días tienen el Libro de Mormón, Doctrina y Convenios y la Perla de Gran Precio. El presidente Nelson lo resumió así: por medio de José Smith se recibieron más hojas de Escritura que por medio de cualquier otro profeta."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cada uno de esos libros llegó de un modo distinto. Doctrina y Convenios nació de preguntas concretas: en los primeros años había, escribió José, «un gran anhelo de recibir la palabra del Señor concerniente a todo asunto que de alguna manera se relacionara con nuestra salvación», y el Señor respondió una y otra vez. A los dieciocho meses de organizada la Iglesia, un grupo de élderes reunido en Hiram, Ohio, decidió recopilar y publicar esas revelaciones, y declararon que valían «como las riquezas de toda la tierra». La Perla de Gran Precio recoge la traducción inspirada de Génesis, parte de Mateo, el testimonio de José y los escritos de Abraham. Y la Traducción de José Smith de la Biblia no fue un trabajo de idiomas: José leía la versión del rey Santiago y hacía correcciones según lo inspiraba el Espíritu Santo."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 1:37",
+          "texto": "Escudriñad estos mandamientos porque son verdaderos y fidedignos, y las profecías y promesas que contienen se cumplirán todas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=spa&id=p37#p37",
+          "comentario": "El propio prefacio del Señor a Sus revelaciones. No pide admirarlas ni archivarlas: pide escudriñarlas, porque en ellas se cumplirá lo que Él dijo."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Moisés 7:28–30",
+          "texto": "Y aconteció que el Dios del cielo miró al resto del pueblo, y lloró, y Enoc dio testimonio de ello, diciendo: ¿Por qué lloran los cielos, y derraman sus lágrimas como la lluvia sobre las montañas? Y dijo Enoc al Señor: ¿Cómo es posible que tú llores, si eres santo, y de eternidad en eternidad? Y si fuera posible que el hombre pudiese contar las partículas de la tierra, sí, de millones de tierras como esta, no sería ni el principio del número de tus creaciones; y tus cortinas aún están desplegadas; y tú todavía estás allí, y tu seno está allí; y también eres justo; eres misericordioso y benévolo para siempre;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=spa&id=p28-p30#p28",
+          "comentario": "Uno de los pasajes que la Traducción de José Smith devolvió a la cristiandad: Enoc ve a Dios llorar. La Biblia sola no nos habría dicho que el Creador de innumerables mundos se conmueve por lo que hacen Sus hijos."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Abraham 1:2",
+          "texto": "y hallando que había mayor felicidad, paz y reposo para mí, busqué las bendiciones de los padres, y el derecho al cual yo debía ser ordenado, a fin de administrarlas; habiendo sido yo mismo seguidor de la rectitud, deseando también ser el poseedor de gran conocimiento, y ser un seguidor más fiel de la rectitud, y lograr un conocimiento mayor, y ser padre de muchas naciones, un príncipe de paz, y anhelando recibir instrucciones y guardar los mandamientos de Dios, llegué a ser un heredero legítimo, un Sumo Sacerdote, poseedor del derecho que pertenecía a los patriarcas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=spa&id=p2#p2",
+          "comentario": "Abraham cuenta su propia historia en primera persona. Lo que pide no es riqueza ni descendencia todavía, sino ser «un seguidor más fiel de la rectitud» y poseer mayor conocimiento."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Profeta José Smith",
+          "fuente": "Enseñanzas de los Presidentes de la Iglesia: José Smith, 2007, pág. 217",
+          "texto": "Creo en la Biblia tal como se hallaba cuando salió de la pluma de sus escritores originales. Los traductores ignorantes, los escribientes descuidados y los sacerdotes intrigantes y corruptos han cometido muchos errores.",
+          "link": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-14-class-preparation-material-the-lord-reveals-additional-scripture?lang=spa#p9"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Russell M. Nelson",
+          "fuente": "«Súbanse a la ola», Liahona, mayo de 2013, pág. 47",
+          "texto": "Por medio de [José Smith] hemos recibido más hojas de Escrituras que de cualquier otro profeta.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/04/catch-the-wave?lang=spa#p27"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El libro de Abraham es el que más preguntas despierta, y conviene decir lo que se sabe y lo que no. Concuerda con hallazgos sobre el mundo antiguo que nadie conocía en 1835: que en Egipto sí se practicaban sacrificios humanos, y que existía un lugar llamado Ulishem cerca de Harán, como dice Abraham 1:10. Los fragmentos de papiro que sobrevivieron son copias de siglos posteriores, lo cual no prueba nada en contra: los manuscritos bíblicos más antiguos también son muy posteriores a sus autores. Ni el Señor ni José explicaron cómo se tradujo. Con este libro pasa lo mismo que con toda Escritura restaurada: existe para llevar a la persona a Jesucristo, y la evidencia mayor de que es verdadero es el testimonio que da el Espíritu Santo a quien lo estudia con oración."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "La revelación continua es doctrina distintiva de la Iglesia restaurada: Dios ha revelado, revela y revelará (Artículos de Fe 1:9).",
+            "El Señor mandó escudriñar Sus revelaciones y prometió que todas se cumplirán (Doctrina y Convenios 1:37).",
+            "La Traducción de José Smith no fue un trabajo de idiomas: José corregía y ampliaba el texto bíblico según lo inspiraba el Espíritu Santo.",
+            "La Perla de Gran Precio contiene extractos de esa traducción —el libro de Moisés y José Smith—Mateo— además de los escritos de Abraham.",
+            "La evidencia mayor de la veracidad del libro de Abraham, como la de toda Escritura, es el testimonio del Espíritu Santo a quien lo estudia con oración."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Cuál de los libros de Escritura restaurados te resultó más difícil de empezar a leer, y por qué?",
+            "Los primeros santos dijeron que las revelaciones valían «como las riquezas de toda la tierra». ¿Qué le dirías a alguien que no entiende esa comparación?",
+            "Vuelve a leer Moisés 7:28–30. ¿Qué le sorprende a Enoc de lo que ve, y qué te enseña ese pasaje sobre el carácter de Dios?",
+            "¿Qué pasaje de Doctrina y Convenios te habló a ti en un momento concreto de tu vida?",
+            "¿Qué capítulo de la Perla de Gran Precio podrías leer esta semana para conocerlo de primera mano y no de oídas?",
+            "Ora antes de leerlo y anota qué entendiste sobre Jesucristo que no sabías antes."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "¿Qué respondió José Smith al editor de Chicago que preguntó qué creía la Iglesia sobre la revelación?",
+      "options": [
+        "Que la revelación había terminado con la muerte del último apóstol",
+        "Que Dios ha revelado, revela y aún revelará grandes asuntos",
+        "Que las revelaciones solo se dan a los profetas de la antigüedad bíblica",
+        "Que la Biblia contiene ya todo lo que hace falta saber acerca de Dios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Esa respuesta es hoy el noveno Artículo de Fe: «Creemos todo lo que Dios ha revelado, todo lo que actualmente revela, y creemos que aún revelará muchos grandes e importantes asuntos»."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "¿Cómo llevó a cabo José Smith su traducción inspirada de la Biblia?",
+      "options": [
+        "Traduciendo del hebreo y del griego con ayuda de eruditos",
+        "Trabajando sobre un manuscrito original en griego que le llegó de Europa",
+        "Leyendo la versión del rey Santiago y corrigiéndola por inspiración",
+        "Dictando de memoria los pasajes que el ángel le había mostrado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "No tradujo de un idioma a otro ni tuvo un manuscrito original: leía y estudiaba pasajes, y hacía correcciones y adiciones según lo inspiraba el Espíritu Santo."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "¿Qué contiene la Perla de Gran Precio?",
+      "options": [
+        "Únicamente los escritos del patriarca Abraham y sus facsímiles",
+        "Las cartas que José Smith escribió desde la cárcel de Liberty",
+        "Las revelaciones que no entraron en Doctrina y Convenios",
+        "Extractos de la Traducción de José Smith, su historia y los Artículos de Fe"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El libro de Moisés y José Smith—Mateo son extractos de esa traducción; también incluye José Smith—Historia, los Artículos de Fe y los escritos de Abraham."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "Los fragmentos de papiro recuperados en 1967 datan de siglos después de Abraham. ¿Por qué eso no refuta el libro de Abraham?",
+      "options": [
+        "Porque los registros antiguos se transmitían como copias de copias",
+        "Porque la datación de esos fragmentos nunca pudo establecerse del todo",
+        "Porque José Smith nunca afirmó haberlos usado para traducir",
+        "Porque los eruditos que los fecharon no conocían el egipcio antiguo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los manuscritos bíblicos más antiguos que se conservan también datan de siglos después de que se escribieran los libros que contienen."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Delfina quiere saber si el libro de Abraham es verdadero y busca una prueba definitiva en internet. Según la lección, ¿dónde está la evidencia mayor?",
+      "options": [
+        "En la coincidencia entre los papiros y las traducciones modernas de ellos",
+        "En el testimonio del Espíritu Santo a quien lo estudia con oración",
+        "En los hallazgos arqueológicos sobre Egipto hechos en los últimos años",
+        "En la cantidad de eruditos que hoy en día aceptan su autenticidad histórica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "«Al igual que sucede con las demás Escrituras, la creencia en la veracidad del contenido del libro de Abraham es principalmente una cuestión de fe», confirmada por el Espíritu Santo."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Santiago dice que le alcanza con la Biblia y que los otros libros son un agregado innecesario. ¿Qué le responde esta lección?",
+      "options": [
+        "Que la Biblia perdió toda su autoridad al aparecer las Escrituras modernas",
+        "Que basta con leer un libro a fondo antes que muchos por encima",
+        "Que las Escrituras restauradas devuelven verdades claras que se perdieron",
+        "Que la Biblia solo se entiende leyendo antes Doctrina y Convenios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "José Smith creía en la Biblia «tal como se hallaba cuando salió de la pluma de sus escritores originales», y la Traducción restaura verdades que se perdieron con el tiempo."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "El prefacio del Señor en Doctrina y Convenios 1:37 y el modo en que nació ese libro apuntan a lo mismo. ¿Qué principio comparten?",
+      "options": [
+        "Que solo los élderes reunidos en conferencia podían publicarlas",
+        "Que las revelaciones antiguas valen más que las recibidas después",
+        "Que el valor de un libro de Escritura depende de su extensión",
+        "Que las revelaciones se dieron para responder preguntas y hay que escudriñarlas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las revelaciones respondieron al «gran anhelo de recibir la palabra del Señor», y el Señor mandó escudriñarlas porque todas se cumplirán."
+    }
+  ]
 }

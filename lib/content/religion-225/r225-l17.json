@@ -1,5 +1,172 @@
 {
   "id": "r225-l17",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "El año siguiente a la dedicación del Templo de Kirtland fue el peor de la historia temprana de la Iglesia. «Se debilitó la determinación de muchos de los hombres más fuertes de la Iglesia», dijo Brigham Young sobre 1837. La Iglesia arrastraba decenas de miles de dólares de deuda por el templo y la compra de tierras; la depresión económica de ese año hizo quebrar bancos en todo el país, y con ellos la Sociedad de Seguridad Financiera de Kirtland, a los siete meses de abrir. Doscientas personas perdieron casi todo lo que habían invertido. Muchos santos permanecieron fieles, pero otros —incluidos líderes— responsabilizaron a José Smith de su ruina, lo llamaron profeta caído y buscaron reemplazarlo."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Un año después la cosa empeoró. Algunos disidentes intentaron matar al Profeta, que huyó de noche a Misuri; allí las tensiones terminaron en un conflicto armado y José pasó el invierno de 1838–1839 en la cárcel de Liberty. Comía pan de maíz, dormía sobre heno aplastado y aguantaba a los curiosos que se asomaban a las rejas para burlarse. Afuera, los santos habían sido expulsados de Sion, el templo de Kirtland estaba en manos de los acreedores y la gente dormía dispersa a lo largo del Misisipí. Desde esa celda, José escribió la oración más humana de las Escrituras: «Oh Dios, ¿en dónde estás?». Lo notable no es la pregunta, sino la respuesta que recibió: no fue un rescate inmediato, sino una explicación de para qué sirve todo eso."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 112:10",
+          "texto": "Sé humilde; y el Señor tu Dios te llevará de la mano y dará respuesta a tus oraciones.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/112?lang=spa&id=p10#p10",
+          "comentario": "Dado a Thomas B. Marsh cuando el Cuórum de los Doce se estaba dividiendo. Dos líneas con la condición y la promesa: sé humilde, y el Señor te tomará de la mano y responderá."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 121:7–8",
+          "texto": "Hijo mío, paz a tu alma; tu adversidad y tus aflicciones no serán más que por un breve momento; y entonces, si lo sobrellevas bien, Dios te exaltará; triunfarás sobre todos tus enemigos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=spa&id=p7-p8#p7",
+          "comentario": "La respuesta del Señor al «¿en dónde estás?» de José. No niega la adversidad ni la abrevia: la pone en escala —«un breve momento»— y promete lo que viene después."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 122:7",
+          "texto": "si eres echado en el foso o en manos de homicidas, y eres condenado a muerte; si eres arrojado al abismo; si las bravas olas conspiran contra ti; si el viento huracanado se hace tu enemigo; si los cielos se ennegrecen y todos los elementos se combinan para obstruir la vía; y sobre todo, si las puertas mismas del infierno se abren de par en par para tragarte, entiende, hijo mío, que todas estas cosas te servirán de experiencia, y serán para tu bien.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/122?lang=spa&id=p7#p7",
+          "comentario": "El versículo enumera desgracias concretas —no abstracciones— y las cierra con la razón: todo eso «te dará experiencia y será para tu bien». El argumento final es el ejemplo del Hijo del Hombre, que descendió debajo de todo."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Hermana Eliza R. Snow",
+          "fuente": "Enseñanzas de los Presidentes de la Iglesia: José Smith, 2007, pág. 336",
+          "texto": "Muchos de los que habían sido humildes y fieles en la ejecución de todo deber […] empezaron a volverse de espíritu soberbio y a enaltecerse en el orgullo de su corazón. A medida que los santos bebían del amor y del espíritu del mundo, el Espíritu del Señor se fue alejando de su corazón.",
+          "link": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-17-class-preparation-material-remaining-faithful-amid-opposition-and-affliction?lang=spa#p3"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder Jeffrey R. Holland",
+          "fuente": "«Lessons from Liberty Jail», Ensign, septiembre de 2009, pág. 28",
+          "texto": "Las enseñanzas del invierno de 1838–1839 nos enseñan que cada aflicción puede transformarse en una experiencia redentora si somos fieles a nuestro Padre Celestial durante esa tribulación. Esas lecciones difíciles nos enseñan que la situación extrema del hombre es una oportunidad para Dios y que, si somos humildes, fieles, creyentes y no maldecimos a Dios por nuestros problemas, Él puede convertir las prisiones injustas, inhumanas y debilitadoras de nuestra vida en templos o al menos en situaciones que nos brinden consuelo, revelación, compañía divina y paz.",
+          "link": "https://www.churchofjesuschrist.org/study/ensign/2009/09/lessons-from-liberty-jail?lang=eng",
+          "linkManual": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-teacher-material-2019/lesson-17-teacher-material-remaining-faithful-amid-opposition-and-affliction?lang=spa#p24"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Conviene notar qué distinguió a los que se quedaron de los que se fueron. No fue que unos sufrieran menos: la crisis financiera golpeó a todos por igual. Eliza R. Snow señaló lo que cambió por dentro: al beber del espíritu del mundo, el Espíritu del Señor se fue alejando de su corazón. Y el consejo del Señor a Thomas B. Marsh apunta a lo mismo: sé humilde, y Él te tomará de la mano. La cárcel de Liberty terminó siendo, como dijo el élder Holland, algo más parecido a un templo que a una prisión, no porque el lugar mejorara sino porque José siguió hablando con Dios adentro. Ese es el ofrecimiento del Salvador para lo que estés atravesando: no que se acabe mañana, sino que Su gracia lo convierta en algo que te sirva."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "La crisis de Kirtland de 1837 no distinguió entre fieles e infieles por lo que sufrieron, sino por cómo respondieron.",
+            "Eliza R. Snow observó que el Espíritu del Señor se alejó del corazón de los santos a medida que estos bebían del espíritu del mundo.",
+            "El Señor prometió a Thomas B. Marsh que, si era humilde, lo tomaría de la mano y respondería a sus oraciones (Doctrina y Convenios 112:10).",
+            "La adversidad, aun la más injusta, es «un breve momento» y puede dar experiencia y ser para nuestro bien (Doctrina y Convenios 121:7–8; 122:7).",
+            "El argumento final del Señor es Su propio ejemplo: el Hijo del Hombre descendió debajo de todo, y por eso puede sostener a quien atraviesa cualquier cosa."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Qué prueba de fe conoces de cerca, propia o de alguien de tu familia?",
+            "Muchos santos culparon a José Smith de su ruina económica. ¿Por qué es tan fácil buscar un culpable cuando algo sale mal?",
+            "Vuelve a leer Doctrina y Convenios 122:7. ¿Qué dice el Señor que harán todas esas cosas por ti, y con qué ejemplo cierra el versículo?",
+            "El élder Holland dijo que una prisión puede volverse un templo. ¿En qué situación difícil sentiste que Dios estaba cerca?",
+            "¿Qué vas a hacer esta semana distinto para no alejarte cuando algo no salga como esperabas?",
+            "Ora contándole al Señor la dificultad que tengas ahora, sin pedir que se acabe, y anota qué te responde."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "¿Qué provocó la crisis que sacudió a la Iglesia en Kirtland en 1837?",
+      "options": [
+        "Un desacuerdo sobre quién debía dirigir la obra en Inglaterra",
+        "Una división doctrinal entre los miembros del Cuórum de los Doce",
+        "El pánico económico nacional y la quiebra de la sociedad financiera",
+        "La decisión del Señor de trasladar la sede de la Iglesia al estado de Misuri"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La deuda por el templo y las tierras, más la depresión económica que quebró bancos en todo el país, hundieron a la Sociedad de Seguridad Financiera de Kirtland a los siete meses de abrir."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "Eliza R. Snow describió qué cambió en el corazón de los santos durante esa crisis. ¿Qué observó?",
+      "options": [
+        "Que dejaron de reunirse por miedo a la persecución de sus vecinos de Kirtland",
+        "Que perdieron la fe al ver que el templo quedaba en manos ajenas",
+        "Que su pobreza les impidió seguir cumpliendo con sus deberes",
+        "Que al beber del espíritu del mundo, el Espíritu del Señor se alejó"
+      ],
+      "correctAnswer": 3,
+      "explanation": "«Muchos de los que habían sido humildes y fieles […] empezaron a volverse de espíritu soberbio […]. A medida que los santos bebían del amor y del espíritu del mundo, el Espíritu del Señor se fue alejando de su corazón»."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "Según Doctrina y Convenios 112:10, ¿qué promete el Señor a quien es humilde?",
+      "options": [
+        "Que lo llevará de la mano y responderá su oración",
+        "Que le mostrará por adelantado el final de sus pruebas",
+        "Que lo llamará a un puesto de mayor responsabilidad en la Iglesia",
+        "Que lo librará de toda dificultad en el plazo que él pida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "«Sé humilde; y el Señor tu Dios te llevará de la mano y te dará respuesta a tus oraciones»."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Cómo respondió el Señor al clamor de José Smith «Oh Dios, ¿en dónde estás?» desde la cárcel de Liberty?",
+      "options": [
+        "Guardando silencio hasta que la prueba hubiera terminado",
+        "Explicándole que su adversidad sería un breve momento y para su bien",
+        "Anunciándole el castigo que caería sobre sus perseguidores",
+        "Ordenando a los santos que fueran a rescatarlo de inmediato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "«Hijo mío, paz a tu alma; tu adversidad y tus aflicciones no serán más que por un breve momento» (D. y C. 121:7), y «todas estas cosas te servirán de experiencia, y serán para tu bien» (122:7)."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Rocío perdió su trabajo y siente que Dios la abandonó justo cuando más se esforzaba por ser fiel. ¿Qué le ofrece esta lección?",
+      "options": [
+        "Que conviene no orar sobre asuntos materiales o económicos propios",
+        "Que el silencio de Dios significa que debe cambiar de rumbo",
+        "Que puede clamar como José y esperar la misma clase de respuesta",
+        "Que las pruebas llegan solamente cuando la persona antes hizo algo mal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "José hizo esa misma pregunta desde una celda injusta. La respuesta no fue un rescate inmediato, sino la promesa de que la adversidad daría experiencia y sería para su bien."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "El élder Holland dijo que Dios puede convertir una prisión en un templo. ¿Qué condición señaló para que eso ocurra?",
+      "options": [
+        "Que la persona comprenda de antemano cuál es el propósito de la prueba",
+        "Que otros miembros de la Iglesia intercedan en su favor con oraciones",
+        "Que la aflicción sea breve y no vuelva a repetirse con el tiempo",
+        "Ser humildes y fieles y no maldecir a Dios por los problemas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "«Si somos humildes, fieles, creyentes y no maldecimos a Dios por nuestros problemas, Él puede convertir las prisiones injustas […] en templos»."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "Doctrina y Convenios 122:7 cierra con el ejemplo del Hijo del Hombre. ¿Qué agrega ese cierre al consuelo del versículo?",
+      "options": [
+        "Que Él descendió debajo de todo y por eso puede sostener a cualquiera",
+        "Que las aflicciones terminan siempre en el mismo plazo para todos",
+        "Que el sufrimiento del Salvador excusa el de los demás",
+        "Que la comparación sirve para medir cuán grave es cada prueba"
+      ],
+      "correctAnswer": 0,
+      "explanation": "«El Hijo del Hombre ha descendido debajo de todo ello. ¿Eres tú mayor que él?». La promesa no es teórica: se apoya en Alguien que ya pasó por más."
+    }
+  ]
 }

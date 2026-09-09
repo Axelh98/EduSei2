@@ -58,7 +58,7 @@
       "question": "En Mateo 26:39, Jesús ora en Getsemaní con una frase que resume perfectamente Su actitud ante el Padre. ¿Cuál es esa frase?",
       "options": [
         "«Hágase tu voluntad y no la mía, porque tú eres el único Dios verdadero.»",
-        "«No sea como yo quiero, sino como tú.»",
+        "«No sea como yo quiero, sino como tú, Padre.»",
         "«Que pase de mí esta copa si acaso no ha de beberse.»",
         "«Heme aquí, listo para cumplir todo lo que me mandas.»"
       ],
@@ -79,56 +79,56 @@
       "id": 3,
       "question": "Juan 5:30 muestra a Jesús diciendo que no busca Su propia voluntad sino la del Padre «en cada juicio». ¿Qué dice eso sobre dónde se practica realmente la sumisión?",
       "options": [
-        "Que la sumisión es una actitud reservada para los momentos de crisis extrema como Getsemaní.",
-        "Que la sumisión al Padre no fue un acto heroico puntual sino una orientación constante de cada decisión cotidiana durante todo el ministerio del Salvador.",
         "Que Jesús sustituyó su voluntad personal por la del Padre solo cuando las decisiones eran moralmente complejas.",
-        "Que Juan 5:30 describe una sumisión forzada, no una elección libre."
+        "Que Juan 5:30 describe una sumisión forzada, no una elección libre.",
+        "Que la sumisión es una actitud reservada para los momentos de crisis extrema como Getsemaní.",
+        "Que la sumisión no fue un acto puntual sino la orientación de cada decisión diaria."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "2 Nefi 31:7 explica que Jesús fue bautizado «para cumplir toda justicia» a pesar de ser sin pecado. ¿Qué enseña ese acto sobre la relación del Salvador con las ordenanzas del Evangelio?",
       "options": [
-        "Que las ordenanzas son obligatorias incluso para Dios, lo que demuestra que la ley es superior a la divinidad.",
-        "Que el Salvador sometió Su voluntad a las ordenanzas del Padre para dejarnos un ejemplo — ningún mandamiento es «solo para otros».",
+        "Que sometió Su voluntad a las ordenanzas para dejarnos ejemplo: ninguna es «solo para otros».",
         "Que el bautismo de Jesús fue un acto político para ganarse la confianza del pueblo judío.",
-        "Que el Salvador se bautizó para demostrar que Juan el Bautista tenía autoridad legítima."
+        "Que el Salvador se bautizó para demostrar que Juan el Bautista tenía autoridad legítima.",
+        "Que las ordenanzas son obligatorias incluso para Dios, lo que demuestra que la ley es superior a la divinidad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Luca recibió una oferta de trabajo excelente, pero aceptarla implicaría trabajar los domingos y faltar regularmente a la Iglesia. Dice: «Si Dios me dio este talento, no puede estar mal usarlo». Según el principio de la sumisión aprendido en esta lección, ¿qué le diría el ejemplo del Salvador?",
       "options": [
-        "Que Dios entiende las necesidades económicas y la excepción dominical está permitida para trabajos de alto rendimiento.",
         "Que debería aceptar el trabajo y compensar espiritualmente con más oración durante la semana.",
-        "Que la diferencia entre Cristo y Satanás fue exactamente la pregunta «¿hágase mi voluntad o la Tuya?» — y que someter los planes personales al mandamiento del día de reposo es práctica real de ese principio.",
-        "Que los talentos profesionales son más importantes que los compromisos religiosos porque tienen impacto social más amplio."
+        "Que la diferencia entre Cristo y Satanás fue esa pregunta: «¿mi voluntad o la Tuya?».",
+        "Que los talentos profesionales son más importantes que los compromisos religiosos porque tienen impacto social más amplio.",
+        "Que Dios entiende las necesidades económicas y la excepción dominical está permitida para trabajos de alto rendimiento."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 6,
       "question": "Valentina ora y estudia regularmente, pero siente que en su vida hay una decisión pendiente que sabe que el Señor le pide y que ella sigue postergando. Según el élder Maxwell y el ejemplo de Cristo en Juan 5:30, ¿qué le dice esta lección?",
       "options": [
+        "Que el Señor no espera que actuemos sobre impresiones que no vienen con instrucciones detalladas.",
         "Que posponer indefinidamente es válido mientras continúe orando y estudiando las Escrituras.",
-        "Que la sumisión no es una actitud interior sino una acción concreta — y que la brecha entre saber lo que el Señor pide y actuar es exactamente donde la voluntad propia resiste.",
-        "Que debería esperar una señal clara antes de actuar sobre algo que no entiende completamente.",
-        "Que el Señor no espera que actuemos sobre impresiones que no vienen con instrucciones detalladas."
+        "Que la sumisión no es una actitud interior sino una acción concreta, y esa brecha es la resistencia.",
+        "Que debería esperar una señal clara antes de actuar sobre algo que no entiende completamente."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 7,
       "question": "En la vida preterrenal, Cristo dijo «hágase tu voluntad» (Moisés 4:2). En Getsemaní repitió «no sea como yo quiero, sino como tú» (Mateo 26:39). En Su ministerio cotidiano dijo «no busco mi voluntad, sino la del Padre» (Juan 5:30). ¿Qué dice la consistencia de ese patrón a través de toda Su existencia?",
       "options": [
-        "Que Cristo carecía de voluntad propia y simplemente ejecutaba las órdenes del Padre sin agencia real.",
-        "Que la sumisión de Cristo no fue situacional ni heroica — fue el carácter central y permanente de toda Su identidad, desde la eternidad hasta la cruz.",
         "Que el Salvador tuvo que aprender la sumisión progresivamente, comenzando en la prexistencia y perfeccionándola en Getsemaní.",
-        "Que los tres momentos son metáforas teológicas sin relación con una actitud literal del Salvador."
+        "Que los tres momentos son metáforas teológicas sin relación con una actitud literal del Salvador.",
+        "Que Cristo carecía de voluntad propia y simplemente ejecutaba las órdenes del Padre sin agencia real.",
+        "Que Su sumisión no fue situacional sino el carácter permanente de toda Su identidad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

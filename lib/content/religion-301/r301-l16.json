@@ -77,19 +77,19 @@
       "id": 1,
       "question": "¿Cuál fue el propósito principal del tabernáculo que el Señor mandó construir en Éxodo 25?",
       "options": [
+        "Ser un lugar sagrado para la presencia del Señor.",
+        "Reemplazar el monte Sinaí como lugar de revelación permanente.",
         "Ser un lugar de reunión política para los líderes de Israel.",
-        "Servir como almacén para guardar los tesoros del pueblo.",
-        "Ser un lugar sagrado donde el Señor pudiera habitar en medio de Su pueblo.",
-        "Reemplazar el monte Sinaí como lugar de revelación permanente."
+        "Servir como almacén para guardar los tesoros del pueblo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "¿Qué nos enseña el hecho de que el pueblo contribuyó voluntariamente con sus ofrendas para construir el tabernáculo en Éxodo 35–36?",
       "options": [
         "Que las contribuciones eran obligatorias bajo pena de castigo.",
-        "Que el corazón generoso y dispuesto es lo que el Señor valora en quienes le sirven.",
+        "Que el Señor valora el corazón generoso y dispuesto de quienes le sirven.",
         "Que solo los más ricos podían participar en la construcción.",
         "Que el Señor necesitaba los materiales físicos para poder habitar entre ellos."
       ],
@@ -101,7 +101,7 @@
       "options": [
         "La gratitud del pueblo por las cosechas abundantes.",
         "El poder económico de quienes los ofrecían.",
-        "El sacrificio expiatorio de Jesucristo que quitaría los pecados del mundo.",
+        "El sacrificio de Cristo por los pecados del mundo.",
         "La superioridad del sacerdocio levítico sobre el pueblo común."
       ],
       "correctAnswer": 2
@@ -110,23 +110,23 @@
       "id": 4,
       "question": "¿Qué ocurría en el Día de la Expiación descrito en Levítico 16 y qué simbolizaba?",
       "options": [
-        "El sumo sacerdote entraba al lugar santísimo para hacer expiación por los pecados del pueblo, prefigurando la expiación de Cristo.",
         "El pueblo ayunaba durante cuarenta días como señal de arrepentimiento colectivo.",
         "Se realizaba un gran banquete en honor al Señor para celebrar el año nuevo.",
-        "Los sacerdotes quemaban todos los registros de deudas del pueblo."
+        "Los sacerdotes quemaban todos los registros de deudas del pueblo.",
+        "Entraba al lugar santísimo a expiar por el pueblo, tipo de Cristo."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "¿Qué principio de santidad personal se enfatiza en Levítico 19:2 y cómo aplica a nuestra vida hoy?",
       "options": [
+        "Que debemos ser santos porque el Señor es santo, reflejando Su carácter.",
+        "Que la santidad era un requisito solo para los israelitas del Antiguo Testamento.",
         "Que solo los sacerdotes tienen la obligación de ser santos.",
-        "Que la santidad se logra únicamente a través de rituales externos.",
-        "Que debemos ser santos porque el Señor nuestro Dios es santo, buscando reflejar Su carácter en nuestra vida.",
-        "Que la santidad era un requisito solo para los israelitas del Antiguo Testamento."
+        "Que la santidad se logra únicamente a través de rituales externos."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

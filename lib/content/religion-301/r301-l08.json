@@ -72,7 +72,7 @@
       "question": "¿Por qué el Señor destruyó Sodoma y Gomorra, según Génesis 18–19?",
       "options": [
         "Porque sus habitantes no pagaban los diezmos.",
-        "Porque su maldad era extremadamente grave y clamaba al cielo.",
+        "Porque su maldad clamaba al cielo.",
         "Porque se habían rebelado contra Abraham.",
         "Porque no aceptaron construir un altar para el Señor."
       ],
@@ -84,7 +84,7 @@
       "options": [
         "Que podemos negociar con Dios para evitar cualquier consecuencia.",
         "Que Abraham dudaba del poder del Señor para destruir ciudades.",
-        "Que Abraham tenía un corazón misericordioso y se preocupaba por el bienestar de otros.",
+        "Que Abraham era misericordioso y se preocupaba por los demás.",
         "Que Lot era el único justo en toda la ciudad."
       ],
       "correctAnswer": 2
@@ -93,34 +93,34 @@
       "id": 3,
       "question": "¿Cuál fue la prueba máxima de obediencia que el Señor le pidió a Abraham en Génesis 22?",
       "options": [
-        "Abandonar todas sus riquezas y vivir como nómada.",
-        "Ofrecer en sacrificio a su hijo Isaac, quien era el cumplimiento de las promesas del convenio.",
         "Pelear contra todos los reyes de Canaán sin ayuda.",
-        "Ayunar durante cuarenta días en el desierto."
+        "Ayunar durante cuarenta días en el desierto.",
+        "Abandonar todas sus riquezas y vivir como nómada.",
+        "Ofrecer en sacrificio a su hijo Isaac, el hijo de la promesa."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿En qué sentido el sacrificio de Isaac es un tipo y símbolo del sacrificio del Padre Celestial?",
       "options": [
-        "En que ambos sacrificios ocurrieron en el mismo lugar geográfico.",
-        "En que así como Abraham estuvo dispuesto a ofrecer a su hijo amado, el Padre ofreció a Su Hijo Unigénito por nosotros.",
+        "En que, como Abraham con su hijo amado, el Padre ofreció a Su Unigénito.",
         "En que Isaac y Jesucristo tuvieron vidas idénticas.",
-        "En que ambos padres recibieron riquezas como recompensa por su obediencia."
+        "En que ambos padres recibieron riquezas como recompensa por su obediencia.",
+        "En que ambos sacrificios ocurrieron en el mismo lugar geográfico."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "¿Qué reafirmó el ángel del Señor a Abraham después de que demostró estar dispuesto a sacrificar a Isaac?",
       "options": [
-        "Que debía encontrar un nuevo lugar para vivir.",
         "Que su posteridad heredaría las riquezas de Egipto.",
-        "Que en su posteridad serían benditas todas las naciones de la tierra por su obediencia.",
-        "Que nunca más tendría que enfrentar pruebas tan difíciles."
+        "Que por su obediencia serían benditas todas las naciones.",
+        "Que nunca más tendría que enfrentar pruebas tan difíciles.",
+        "Que debía encontrar un nuevo lugar para vivir."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

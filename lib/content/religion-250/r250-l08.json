@@ -64,12 +64,12 @@
       "id": 1,
       "question": "Miqueas 5:2 profetizó el lugar de nacimiento del Mesías con siglos de anticipación. ¿Qué ciudad señaló?",
       "options": [
+        "Belén Efrata, la pequeña entre las familias de Judá.",
+        "Hebrón, donde fueron sepultados los patriarcas.",
         "Nazaret, en la región de Galilea.",
-        "Jerusalén, ciudad de David y sede del templo.",
-        "Belén Efrata, pequeña entre las familias de Judá.",
-        "Hebrón, donde fueron sepultados los patriarcas."
+        "Jerusalén, ciudad de David y sede del templo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -86,56 +86,56 @@
       "id": 3,
       "question": "1 Nefi 10:4 registra que Lehi profetizó sobre el Mesías desde el continente americano, aproximadamente 600 años antes de Cristo, sin contacto con Isaías. ¿Qué significa que ambos profetas describieran al mismo Mesías independientemente?",
       "options": [
+        "Que el Libro de Mormón copió sus profecías mesiánicas de los textos del Antiguo Testamento.",
         "Que ambos debieron de haber leído los mismos textos, lo que explica la similitud de sus testimonios.",
-        "Que la coherencia entre dos fuentes independientes y geográficamente separadas es evidencia de revelación divina común, no de coincidencia cultural.",
-        "Que las profecías mesiánicas eran ideas generales que cualquier profeta podía deducir por razonamiento.",
-        "Que el Libro de Mormón copió sus profecías mesiánicas de los textos del Antiguo Testamento."
+        "Que dos fuentes independientes y geográficamente separadas coincidan es evidencia de revelación común.",
+        "Que las profecías mesiánicas eran ideas generales que cualquier profeta podía deducir por razonamiento."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "El élder Holland describió el Libro de Mormón como «la expresión sagrada del convenio pleno y final de Cristo con la humanidad». ¿Qué dice eso sobre el propósito central del libro?",
       "options": [
-        "Que fue escrito principalmente para registrar la historia de los pueblos del continente americano.",
-        "Que su propósito central es testificar de Jesucristo como el Mesías prometido, funcionando como otro testamento que confirma y amplía el del Nuevo Testamento.",
         "Que fue diseñado principalmente como una guía de moralidad práctica sin relación directa con la identidad de Cristo.",
-        "Que su función es reemplazar al Antiguo Testamento, que quedó obsoleto con la Restauración."
+        "Que su función es reemplazar al Antiguo Testamento, que quedó obsoleto con la Restauración.",
+        "Que fue escrito principalmente para registrar la historia de los pueblos del continente americano.",
+        "Que su fin es testificar de Cristo, confirmando y ampliando el Nuevo Testamento."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "Bruno tiene un amigo que le dice: «Las profecías sobre Jesús son tan vagas que cualquier persona podría \"cumplirlas\" con suficiente imaginación». Usando lo aprendido en esta lección, ¿cómo respondería Bruno con más solidez?",
       "options": [
+        "Que detalles como Belén, las manos traspasadas y las 30 monedas son demasiado precisos.",
+        "Que la validez de las profecías es irrelevante porque la fe es un asunto puramente personal.",
         "Que su amigo tiene razón y que la fe en Cristo no depende de evidencias sino solo de sentimientos personales.",
-        "Que las profecías son vagas en general, pero que Cristo las superó todas con su vida ejemplar.",
-        "Que profecías específicas como el lugar de nacimiento (Belén), el método de muerte (traspasar manos y pies) y detalles como las 30 monedas y las vestiduras sorteadas son demasiado precisas para ser coincidencia, y que convergieron en una sola persona.",
-        "Que la validez de las profecías es irrelevante porque la fe es un asunto puramente personal."
+        "Que las profecías son vagas en general, pero que Cristo las superó todas con su vida ejemplar."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Carla comenzó a leer el Antiguo Testamento y lo encuentra aburrido y desconectado de su vida. Según el principio de esta lección sobre las profecías mesiánicas, ¿qué perspectiva podría transformar su lectura?",
       "options": [
-        "Que debería leer primero el Nuevo Testamento y luego volver al Antiguo si tiene tiempo.",
         "Que el Antiguo Testamento es principalmente un documento histórico-cultural sin aplicación espiritual directa.",
-        "Que si lee el Antiguo Testamento buscando a Cristo — en cada profecía, tipo y símbolo — descubrirá un retrato acumulado del Salvador construido durante siglos, lo que da unidad y propósito a todo el texto.",
-        "Que el Antiguo Testamento solo es relevante para quienes tienen ascendencia judía."
+        "Que leerlo buscando a Cristo revela un retrato del Salvador construido durante siglos.",
+        "Que el Antiguo Testamento solo es relevante para quienes tienen ascendencia judía.",
+        "Que debería leer primero el Nuevo Testamento y luego volver al Antiguo si tiene tiempo."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 7,
       "question": "Isaías 53 (Antiguo Testamento), 1 Nefi 10:4 (Libro de Mormón) y el testimonio de los Apóstoles en «El Cristo Viviente» (documento moderno) coinciden en identificar a Jesucristo como el Mesías prometido. ¿Cuál es el principio que conecta estos tres testigos de épocas tan distintas?",
       "options": [
+        "Que los tres documentos se basan en los mismos textos originales en hebreo, lo que explica la coincidencia.",
         "Que la doctrina del Mesías fue inventada progresivamente y cada generación añadió más detalles.",
-        "Que la verdad sobre Cristo no está limitada a una época, una cultura ni un continente — la misma revelación divina ha producido testimonios convergentes en tiempos y lugares separados.",
-        "Que el testimonio de fuentes más antiguas es siempre más confiable que el de fuentes modernas.",
-        "Que los tres documentos se basan en los mismos textos originales en hebreo, lo que explica la coincidencia."
+        "Que la verdad sobre Cristo no está limitada a una época, una cultura ni un continente.",
+        "Que el testimonio de fuentes más antiguas es siempre más confiable que el de fuentes modernas."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

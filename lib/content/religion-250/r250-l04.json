@@ -57,19 +57,19 @@
       "id": 1,
       "question": "Según Juan 1:1–3, ¿qué rol tuvo Jesucristo en la Creación?",
       "options": [
-        "Fue el observador y aprobador de lo que el Padre Celestial creó directamente.",
-        "Fue el Creador de algunas cosas, mientras que los ángeles crearon el resto.",
         "Todas las cosas fueron hechas por medio de Él, y sin Él nada de lo creado fue hecho.",
-        "Creó únicamente a los seres humanos; el resto del universo fue obra del Padre."
+        "Creó únicamente a los seres humanos; el resto del universo fue obra del Padre.",
+        "Fue el observador y aprobador de lo que el Padre Celestial creó directamente.",
+        "Fue el Creador de algunas cosas, mientras que los ángeles crearon el resto."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "Moisés 1:39 revela cuál es la obra y gloria de Dios. ¿Cuál es esa declaración exacta?",
       "options": [
         "«Crear mundos sin número para que los seres celestiales los habiten.»",
-        "«Llevar a cabo la inmortalidad y la vida eterna del hombre.»",
+        "«Llevar a cabo la inmortalidad y la vida eterna del hombre», declara el Señor.",
         "«Establecer leyes eternas por las cuales toda la creación sea gobernada.»",
         "«Proveer un cuerpo físico a cada espíritu que fue fiel en la prexistencia.»"
       ],
@@ -79,12 +79,12 @@
       "id": 3,
       "question": "El presidente Nelson, siendo cirujano cardíaco, dijo que su estudio del cuerpo humano profundizó su fe. ¿Qué principio sobre la relación entre ciencia y fe ilustra esa experiencia?",
       "options": [
+        "Que solo quienes estudian medicina pueden entender verdaderamente la Creación divina.",
         "Que la ciencia y la fe son incompatibles y que quien estudia ciencia debe elegir una de las dos.",
-        "Que el conocimiento científico profundo puede revelar la firma del Creador en Su obra, haciendo la fe más informada, no menos posible.",
-        "Que los científicos creyentes deben ignorar los hallazgos que contradicen su fe para mantenerla intacta.",
-        "Que solo quienes estudian medicina pueden entender verdaderamente la Creación divina."
+        "Que la ciencia profunda puede revelar la firma del Creador, y hacer la fe más informada.",
+        "Que los científicos creyentes deben ignorar los hallazgos que contradicen su fe para mantenerla intacta."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
@@ -93,7 +93,7 @@
         "Que los discípulos deben evitar disfrutar el mundo físico para no apegarse a cosas temporales.",
         "Que el disfrute de la naturaleza solo está permitido en el día de reposo.",
         "Que las cosas físicas son inferiores a las espirituales y no merecen atención sostenida.",
-        "Que disfrutar la Creación con reconocimiento y gratitud es una forma de adoración, no una distracción espiritual."
+        "Que disfrutar la Creación con gratitud es una forma de adoración."
       ],
       "correctAnswer": 3
     },
@@ -101,19 +101,19 @@
       "id": 5,
       "question": "Andrés estudia ingeniería ambiental y a veces siente que su carrera y su fe son mundos separados. Dice: «Lo que hago en la facultad no tiene nada que ver con el Evangelio». Según Juan 1:3 y la enseñanza del presidente Nelson, ¿qué le diría esta lección?",
       "options": [
+        "Que estudiar el mundo creado por Cristo es, en sí, explorar Su obra.",
+        "Que puede mantener ambas cosas separadas sin que se afecten mutuamente.",
         "Que tiene razón: el conocimiento técnico y el espiritual operan en esferas completamente distintas.",
-        "Que debería cambiar a una carrera más directamente relacionada con el servicio religioso.",
-        "Que estudiar el mundo que Cristo creó es, en sí mismo, explorar la obra del Creador — y eso puede profundizar la fe si se aborda con la perspectiva correcta.",
-        "Que puede mantener ambas cosas separadas sin que se afecten mutuamente."
+        "Que debería cambiar a una carrera más directamente relacionada con el servicio religioso."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 6,
       "question": "Romina siente que su vida universitaria es rutinaria y sin significado. Le cuesta encontrar propósito en las actividades cotidianas. Según Moisés 1:39 y el principio de la Creación como acto de amor deliberado, ¿qué perspectiva le ofrece esta lección?",
       "options": [
         "Que el propósito solo se encuentra en actividades explícitamente religiosas como la oración y el Seminario.",
-        "Que el mundo fue creado deliberadamente para que los hijos de Dios pudieran vivir, aprender y progresar hacia la vida eterna, lo que da significado a cada día vivido con intención.",
+        "Que el mundo fue creado a propósito para que Sus hijos aprendieran y progresaran.",
         "Que el propósito llega automáticamente cuando uno completa su educación universitaria.",
         "Que la sensación de falta de propósito es señal de que debe cambiar de carrera o de ciudad."
       ],
@@ -123,12 +123,12 @@
       "id": 7,
       "question": "Juan 1:3 dice que Cristo creó todas las cosas, y Moisés 1:39 dice que Su obra y gloria es «llevar a cabo la inmortalidad y la vida eterna del hombre». ¿Cuál es el principio que conecta la Creación con el plan de salvación?",
       "options": [
+        "Que la gloria de Dios y la Creación son conceptos independientes que las Escrituras no relacionan directamente.",
         "Que la Creación fue un proyecto separado del plan de salvación, relacionados solo por el hecho de que el mismo Creador participó en ambos.",
-        "Que la Creación fue el primer acto del plan de salvación: Cristo preparó el escenario donde Sus hermanos y hermanas podrían obtener cuerpos, aprender y regresar al Padre.",
-        "Que la Creación fue hecha principalmente para demostrar el poder de Dios, y el plan de salvación es una respuesta a la Caída que no estaba prevista.",
-        "Que la gloria de Dios y la Creación son conceptos independientes que las Escrituras no relacionan directamente."
+        "Que la Creación fue el primer acto del plan de salvación: Cristo preparó el escenario para volver al Padre.",
+        "Que la Creación fue hecha principalmente para demostrar el poder de Dios, y el plan de salvación es una respuesta a la Caída que no estaba prevista."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

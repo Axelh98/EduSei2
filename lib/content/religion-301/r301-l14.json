@@ -73,7 +73,7 @@
       "options": [
         "Oraron con calma y confiaron completamente en el Señor.",
         "Se prepararon para luchar contra el ejército egipcio.",
-        "Tuvieron miedo y se quejaron contra Moisés, deseando haber permanecido en Egipto.",
+        "Tuvieron miedo y se quejaron contra Moisés, deseando volver a Egipto.",
         "Buscaron un camino alternativo por el desierto."
       ],
       "correctAnswer": 2
@@ -82,12 +82,12 @@
       "id": 2,
       "question": "¿Qué instrucción dio Moisés al pueblo antes de que el mar se dividiera en Éxodo 14:13–14?",
       "options": [
-        "Que se prepararan para nadar con sus pertenencias.",
-        "Que no tuvieran miedo, que estuvieran firmes y vieran la salvación del Señor.",
         "Que construyeran balsas rápidamente para cruzar.",
-        "Que regresaran a Egipto y negociaran con Faraón."
+        "Que regresaran a Egipto y negociaran con Faraón.",
+        "Que se prepararan para nadar con sus pertenencias.",
+        "Que no temieran y estuvieran firmes."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
@@ -105,7 +105,7 @@
       "question": "¿Qué ocurrió cuando algunos israelitas desobedecieron las instrucciones sobre el maná y guardaron más de lo necesario?",
       "options": [
         "El maná extra se multiplicó y alimentó a más personas.",
-        "El maná guardado se llenó de gusanos y se pudrió.",
+        "El maná que guardaron crió gusanos y se pudrió.",
         "El Señor los castigó enviando una plaga sobre ellos.",
         "El maná extra desapareció milagrosamente durante la noche."
       ],
@@ -115,12 +115,12 @@
       "id": 5,
       "question": "¿Qué lección sobre el liderazgo aprendemos del consejo que Jetro dio a Moisés en Éxodo 18?",
       "options": [
+        "Que Moisés estaba fallando como líder y debía ser reemplazado.",
         "Que un líder debe hacer todo el trabajo solo para demostrar su capacidad.",
         "Que es sabio delegar responsabilidades para servir mejor al pueblo y evitar el agotamiento.",
-        "Que los líderes religiosos no deben escuchar consejos de personas ajenas a su fe.",
-        "Que Moisés estaba fallando como líder y debía ser reemplazado."
+        "Que los líderes religiosos no deben escuchar consejos de personas ajenas a su fe."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

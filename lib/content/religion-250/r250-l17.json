@@ -64,45 +64,45 @@
       "id": 1,
       "question": "Según «El Cristo Viviente», cuando el Salvador resucitado se apareció a Sus discípulos, ¿qué hizo para demostrar la realidad física de Su cuerpo glorificado?",
       "options": [
+        "Voló sobre ellos para mostrar que ya no estaba sujeto a la gravedad.",
         "Apareció en medio de ellos de repente para demostrar que podía atravesar paredes.",
-        "Los invitó a tocar las marcas de los clavos en Sus manos y pies.",
-        "Partió pan y distribuyó vino como símbolo de Su resurrección.",
-        "Voló sobre ellos para mostrar que ya no estaba sujeto a la gravedad."
+        "Los invitó a tocar las marcas de los clavos en Sus manos y en Sus pies.",
+        "Partió pan y distribuyó vino como símbolo de Su resurrección."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "1 Corintios 15:20 llama a Cristo las «primicias de los que durmieron». ¿Qué significa ese término en relación con la resurrección universal?",
       "options": [
-        "Que Cristo fue el único que realmente resucitó; los demás solo experimentarán una resurrección espiritual.",
-        "Que Su resurrección fue la primera y garantiza que todos los que hayan vivido también resucitarán — así como las primicias del campo anuncian la cosecha completa.",
         "Que los primeros en resucitar serán quienes durmieron más años en la tumba.",
-        "Que Cristo resucitó primero como demostración experimental antes de que el plan de la resurrección fuera aprobado por el Padre."
+        "Que Cristo resucitó primero como demostración experimental antes de que el plan de la resurrección fuera aprobado por el Padre.",
+        "Que Cristo fue el único que realmente resucitó; los demás solo experimentarán una resurrección espiritual.",
+        "Que fue la primera y anuncia la cosecha completa: todos resucitarán."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "Pablo escribió en 1 Corintios 15:14: «Si Cristo no resucitó, vana es también vuestra fe». ¿Por qué hace depender la validez de toda la fe cristiana de ese único hecho histórico?",
       "options": [
-        "Porque la resurrección es el milagro más difícil de creer y quien la acepta puede aceptar cualquier otra doctrina.",
-        "Porque si Cristo no venció la muerte, entonces el pecado y la muerte prevalecen, la Expiación no funciona, y todas las promesas del Evangelio son ilusiones sin fundamento real.",
+        "Porque si la muerte prevalece, la Expiación no funciona y las promesas son ilusión.",
         "Porque la resurrección era la señal específica que los judíos esperaban para reconocer al Mesías.",
-        "Porque sin resurrección no habría forma de distinguir el Evangelio de otras filosofías morales de la antigüedad."
+        "Porque sin resurrección no habría forma de distinguir el Evangelio de otras filosofías morales de la antigüedad.",
+        "Porque la resurrección es el milagro más difícil de creer y quien la acepta puede aceptar cualquier otra doctrina."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "Alma 40:23 describe la resurrección como una restauración tan precisa que «ni un cabello de la cabeza se perderá». ¿Qué dice esa precisión sobre el tipo de atención que el Padre Celestial presta a cada persona?",
       "options": [
-        "Que la descripción es metafórica y no debe tomarse como literalmente precisa.",
-        "Que la resurrección será más completa para quienes tuvieron cuerpos más sanos en la vida mortal.",
         "Que el nivel de detalle describe solo la resurrección de los justos, no la universal.",
-        "Que Dios tiene un interés meticuloso e individual en cada detalle de cada uno de Sus hijos — la eternidad no es un proceso masivo e impersonal sino una restauración perfecta de cada individuo."
+        "Que la eternidad no es un proceso masivo sino una restauración de cada individuo.",
+        "Que la descripción es metafórica y no debe tomarse como literalmente precisa.",
+        "Que la resurrección será más completa para quienes tuvieron cuerpos más sanos en la vida mortal."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 5,
@@ -110,7 +110,7 @@
       "options": [
         "Que si su fe fuera más fuerte, el dolor disminuiría en proporción directa.",
         "Que debería concentrarse en las necesidades de los demás para distraerse del duelo.",
-        "Que la Resurrección no elimina el dolor del duelo — Cristo también lloró ante la tumba de Lázaro — pero transforma su significado: la separación es real pero temporal, y eso cambia el horizonte sin negar el dolor presente.",
+        "Que no quita el dolor —Cristo lloró ante la tumba— pero cambia el horizonte.",
         "Que el dolor intenso es señal de que no confía suficientemente en las promesas del Evangelio."
       ],
       "correctAnswer": 2
@@ -119,23 +119,23 @@
       "id": 6,
       "question": "Jesús le preguntó a Marta «¿Crees esto?» después de declarar «Yo soy la resurrección y la vida». Natalia estudia en la universidad y dice que cree en la resurrección «en teoría» pero que no cambia nada en su vida diaria. Según el patrón de Marta, ¿qué le falta a esa creencia?",
       "options": [
+        "Asistir al templo con más frecuencia para estar en contacto con la doctrina de la inmortalidad.",
         "Más conocimiento doctrinal sobre los detalles de la resurrección corporal.",
         "Una experiencia emocional intensa que confirme la doctrina de manera sentida.",
-        "La Resurrección como doctrina abstracta es «en teoría»; la que Jesús le preguntó a Marta era personal — «¿tú, esto?» — y esa convicción personal cambia la manera de vivir, de perder, de esperar.",
-        "Asistir al templo con más frecuencia para estar en contacto con la doctrina de la inmortalidad."
+        "Que la doctrina abstracta no basta: Jesús preguntó a Marta por su convicción personal."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,
       "question": "1 Corintios 15:20 dice que Cristo fue las «primicias» — garantía de la resurrección universal. Alma 40:23 describe la restauración perfecta del cuerpo individual. «El Cristo Viviente» invita a los discípulos a tocar las marcas reales. ¿Cuál es el principio que conecta los tres?",
       "options": [
-        "Que la resurrección es principalmente un evento colectivo que el individuo experimenta como parte de la humanidad.",
-        "Que la Resurrección es simultáneamente universal en alcance e intensamente individual en experiencia — nadie queda fuera, y nadie es un número anónimo.",
+        "Que es universal en alcance e intensamente individual: nadie queda fuera ni es un número.",
         "Que los tres pasajes describen la resurrección desde perspectivas filosóficas incompatibles que deben reconciliarse.",
-        "Que la resurrección del cuerpo es secundaria respecto a la supervivencia del espíritu."
+        "Que la resurrección del cuerpo es secundaria respecto a la supervivencia del espíritu.",
+        "Que la resurrección es principalmente un evento colectivo que el individuo experimenta como parte de la humanidad."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

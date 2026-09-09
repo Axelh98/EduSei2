@@ -58,7 +58,7 @@
       "question": "2 Nefi 25:23 contiene una de las declaraciones más citadas sobre la gracia. ¿Cuál es la frase exacta?",
       "options": [
         "«Es por la gracia que nos salvamos, si somos diligentes en guardar todos los mandamientos.»",
-        "«Es por la gracia que nos salvamos, después de hacer cuanto podamos.»",
+        "«Es por la gracia que nos salvamos, después de hacer cuanto podamos», dice Nefi.",
         "«Es por la gracia que nos salvamos, cuando nuestra fe supera nuestras obras.»",
         "«Es por la gracia que nos salvamos, independientemente de nuestro esfuerzo personal.»"
       ],
@@ -70,7 +70,7 @@
       "options": [
         "Una sola: el perdón de los pecados que la Expiación hizo posible.",
         "Tres: perdón, fortaleza y resurrección.",
-        "Dos: la gracia salvadora que limpia, y la gracia habilitadora que capacita para hacer y llegar a ser más.",
+        "Dos: la salvadora, que limpia, y la habilitadora, que capacita.",
         "Cuatro: perdón, santificación, resurrección y exaltación."
       ],
       "correctAnswer": 2
@@ -79,30 +79,30 @@
       "id": 3,
       "question": "Éter 12:27 dice que el Señor da debilidades a los hombres para que sean humildes y que «las cosas débiles se vuelvan fuertes» con fe. ¿Qué dice eso sobre el propósito de nuestras limitaciones?",
       "options": [
+        "Que las debilidades solo existen para diferenciar a los humildes de los orgullosos, sin otro propósito.",
         "Que las debilidades son consecuencias del pecado que deben eliminarse con esfuerzo propio.",
         "Que las debilidades son errores del diseño divino que el Señor compensa con la gracia.",
-        "Que las debilidades son parte deliberada del plan — el mecanismo por el cual aprendemos a depender de Cristo y a dejar que Su gracia opere donde el esfuerzo propio no llega.",
-        "Que las debilidades solo existen para diferenciar a los humildes de los orgullosos, sin otro propósito."
+        "Que son el mecanismo por el cual aprendemos a depender de Cristo y de Su gracia."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "Pablo escribió en 2 Corintios 12:9–10 que se «gloría en sus debilidades» para que repose sobre él el poder de Cristo. ¿Qué diferencia hay entre esa actitud y la resignación pasiva ante las limitaciones?",
       "options": [
-        "Ninguna: glorificar las debilidades es simplemente otra forma de aceptar que no hay nada que hacer.",
-        "Que Pablo no aceptaba pasivamente sus debilidades sino que las reconocía activamente como el punto de entrada de la gracia — era una postura de fe y acción, no de rendición.",
+        "Que no era rendición sino fe y acción: la debilidad como puerta de la gracia.",
         "Que Pablo se «gloriaba» solo cuando las debilidades lo hacían parecer más humano ante sus convertidos.",
-        "Que la diferencia es puramente semántica y ambas actitudes producen los mismos resultados."
+        "Que la diferencia es puramente semántica y ambas actitudes producen los mismos resultados.",
+        "Ninguna: glorificar las debilidades es simplemente otra forma de aceptar que no hay nada que hacer."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "Sofía trabaja muy duro para ser buena persona pero siente que no necesita a Cristo para las cosas cotidianas — solo acude a Él cuando comete errores graves. Según la distinción del élder Bednar entre gracia salvadora y gracia habilitadora, ¿qué le falta reconocer?",
       "options": [
         "Que debería cometer más errores para necesitar al Salvador con más frecuencia.",
-        "Que la gracia salvadora es para los errores, pero la gracia habilitadora es para cada momento — estudiar, relacionarse, tomar decisiones, desarrollar el carácter — y sin ella el progreso real está limitado.",
+        "Que la gracia habilitadora es para cada momento, no solo para los errores graves.",
         "Que su esfuerzo personal es suficiente para la vida cotidiana y que reservar a Cristo para las crisis es una forma válida de fe.",
         "Que primero debe agotar todos sus recursos personales antes de que sea apropiado pedir la gracia habilitadora."
       ],
@@ -114,7 +114,7 @@
       "options": [
         "Que debería rendirse y aceptar que algunas personas no tienen la capacidad de mejorar.",
         "Que la gracia habilitadora requiere que primero eliminemos el error por esfuerzo propio antes de que Cristo pueda intervenir.",
-        "Que la condición para que las cosas débiles se vuelvan fuertes es la humildad y la fe — no la perfección previa — y que cuando llega al límite de lo que puede solo, ese es exactamente el momento donde la gracia puede operar.",
+        "Que la condición no es la perfección sino la humildad y la fe, y su límite es donde obra la gracia.",
         "Que debería aumentar el número de actividades religiosas para generar más oportunidades de gracia."
       ],
       "correctAnswer": 2
@@ -123,12 +123,12 @@
       "id": 7,
       "question": "2 Nefi 25:23 dice «después de hacer cuanto podamos». Éter 12:27 dice que las debilidades se vuelven fuertes con humildad y fe. 2 Corintios 12:9 dice «mi poder se perfecciona en la debilidad». ¿Cuál es el principio que conecta los tres?",
       "options": [
-        "Que el esfuerzo humano es lo que activa la gracia divina — a mayor esfuerzo, mayor gracia disponible.",
-        "Que la gracia opera precisamente en la frontera entre lo que podemos y lo que no — donde termina nuestra capacidad empieza el poder de Cristo, y esa frontera es el lugar donde se fabrica el crecimiento real.",
         "Que los tres pasajes enseñan que la gracia reemplaza el esfuerzo cuando la persona se vuelve suficientemente humilde.",
-        "Que la gracia es un concepto más del Nuevo Testamento que del Libro de Mormón, y los tres pasajes se contradicen levemente."
+        "Que la gracia es un concepto más del Nuevo Testamento que del Libro de Mormón, y los tres pasajes se contradicen levemente.",
+        "Que el esfuerzo humano es lo que activa la gracia divina — a mayor esfuerzo, mayor gracia disponible.",
+        "Que la gracia opera justo en la frontera entre lo que podemos y lo que no podemos solos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

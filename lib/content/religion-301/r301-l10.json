@@ -77,41 +77,41 @@
       "id": 1,
       "question": "¿Qué motivó a los hermanos de José a venderlo como esclavo a los ismaelitas en Génesis 37?",
       "options": [
+        "José había insultado a sus hermanos delante de todo el pueblo.",
         "José había robado la bendición de su hermano mayor.",
-        "Los celos, el odio que le tenían y la preferencia que su padre Jacob le mostraba.",
-        "Jacob les ordenó que lo enviaran a Egipto para aprender sabiduría.",
-        "José había insultado a sus hermanos delante de todo el pueblo."
+        "Los celos y el odio que le tenían por el favoritismo de su padre.",
+        "Jacob les ordenó que lo enviaran a Egipto para aprender sabiduría."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Qué evidencia encontramos en Génesis 39 de que el Señor estaba con José durante su esclavitud en Egipto?",
       "options": [
+        "Sus hermanos fueron castigados inmediatamente después de venderlo.",
         "José recibió riquezas inmediatas al llegar a Egipto.",
         "El Señor le apareció visiblemente cada noche para consolarlo.",
-        "Todo lo que José hacía prosperaba y fue puesto a cargo de la casa de Potifar.",
-        "Sus hermanos fueron castigados inmediatamente después de venderlo."
+        "Todo lo que José hacía prosperaba y fue puesto a cargo de la casa de Potifar."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "¿Cómo respondió José a la tentación de la esposa de Potifar, y qué nos enseña su ejemplo?",
       "options": [
-        "Cedió ante la presión para no perder su posición.",
-        "Huyó de la situación y se negó a pecar contra Dios, aunque esto le costó la cárcel.",
+        "Huyó de la situación y no quiso pecar contra Dios.",
         "Ignoró la situación y continuó con su trabajo como si nada.",
-        "Habló con Potifar directamente para resolver el problema."
+        "Habló con Potifar directamente para resolver el problema.",
+        "Cedió ante la presión para no perder su posición."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "¿Qué don especial demostró José en la cárcel que lo preparó para su papel futuro, según Génesis 40?",
       "options": [
         "La capacidad de curar enfermedades.",
-        "El don de interpretar sueños mediante la revelación del Señor.",
+        "El don de interpretar sueños por revelación.",
         "La habilidad de hablar todos los idiomas de Egipto.",
         "El don de leer el pensamiento de los demás."
       ],
@@ -123,7 +123,7 @@
       "options": [
         "A su propia sabiduría y experiencia.",
         "Al copero que lo recomendó ante Faraón.",
-        "A Dios, diciendo que no era en él sino que Dios daría respuesta propicia a Faraón.",
+        "A Dios, que daría a Faraón respuesta propicia.",
         "A los sabios de Egipto que lo habían entrenado."
       ],
       "correctAnswer": 2

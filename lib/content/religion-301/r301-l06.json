@@ -77,56 +77,56 @@
       "id": 1,
       "question": "¿Por qué decidió el Señor enviar el diluvio en tiempos de Noé, según Génesis 6 y Moisés 8?",
       "options": [
-        "Porque Noé le pidió que castigara a sus vecinos.",
-        "Porque la maldad del hombre era grande y sus pensamientos eran continuamente malos.",
         "Porque la tierra necesitaba agua para ser más fértil.",
-        "Porque los animales se habían multiplicado demasiado."
+        "Porque los animales se habían multiplicado demasiado.",
+        "Porque Noé le pidió que castigara a sus vecinos.",
+        "Porque la maldad se había vuelto grande."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Qué nos enseña la preparación de Noé al construir el arca antes de ver la lluvia?",
       "options": [
-        "Que debemos esperar ver las consecuencias antes de actuar.",
-        "Que la fe verdadera nos lleva a obedecer las instrucciones del Señor incluso sin ver el resultado final.",
+        "Que la fe lleva a obedecer aunque no se vea el final.",
         "Que las obras físicas son más importantes que la fe espiritual.",
-        "Que solo los profetas necesitan prepararse para los desafíos futuros."
+        "Que solo los profetas necesitan prepararse para los desafíos futuros.",
+        "Que debemos esperar ver las consecuencias antes de actuar."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "¿Qué simboliza el arco iris que el Señor puso como señal después del diluvio?",
       "options": [
-        "Que el mundo nunca más tendría lluvia.",
         "Que Noé era el más justo de toda la historia.",
-        "El convenio de Dios de no volver a destruir la tierra con agua.",
-        "Que los animales del arca habían sobrevivido con éxito."
+        "El convenio de Dios con Noé.",
+        "Que los animales del arca habían sobrevivido con éxito.",
+        "Que el mundo nunca más tendría lluvia."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 4,
       "question": "¿Cuál fue el error fundamental de quienes construyeron la Torre de Babel, según Génesis 11?",
       "options": [
+        "Que no invitaron a Noé a participar en la construcción.",
         "Que no tenían suficientes materiales para terminar la torre.",
-        "Que buscaban hacerse de un nombre y fama propios en lugar de glorificar a Dios.",
-        "Que construyeron la torre en un lugar prohibido por el Señor.",
-        "Que no invitaron a Noé a participar en la construcción."
+        "Que buscaban hacerse un nombre propio en lugar de glorificar a Dios.",
+        "Que construyeron la torre en un lugar prohibido por el Señor."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "¿Qué lección sobre el orgullo y la humildad podemos extraer del episodio de la Torre de Babel?",
       "options": [
+        "Que aprender nuevos idiomas es una maldición divina.",
         "Que los grandes proyectos de construcción siempre desagradan a Dios.",
         "Que la unidad del pueblo es suficiente para lograr cualquier objetivo.",
-        "Que buscar gloria propia en lugar de depender de Dios lleva a la confusión y la dispersión.",
-        "Que aprender nuevos idiomas es una maldición divina."
+        "Que buscar gloria propia lleva a confusión y dispersión."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

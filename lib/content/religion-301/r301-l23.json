@@ -59,19 +59,19 @@
       "id": 1,
       "question": "¿En qué basó David su confianza para enfrentarse a Goliat en 1 Samuel 17, a diferencia de los demás soldados de Israel?",
       "options": [
+        "En el Señor, que lo había librado del león y del oso, y lo libraría ahora.",
+        "En el tamaño de la honda que había perfeccionado durante años.",
         "En su superioridad física y sus años de entrenamiento militar.",
-        "En el apoyo del rey Saúl y el mejor equipo de guerra.",
-        "En su confianza en el Señor, quien lo había librado del león y del oso, y libraría también al filisteo.",
-        "En el tamaño de la honda que había perfeccionado durante años."
+        "En el apoyo del rey Saúl y el mejor equipo de guerra."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 2,
       "question": "¿Qué virtud demostró David al tener la oportunidad de matar a Saúl en la cueva y no hacerlo en 1 Samuel 24?",
       "options": [
         "Cobardía, porque tenía miedo de las consecuencias.",
-        "Respeto por el ungido del Señor, reconociendo que no le correspondía a él quitar la vida al rey.",
+        "Respetó al ungido del Señor y no alzó su mano contra él.",
         "Estrategia política para ganarse el favor del pueblo.",
         "Obediencia a Joab, su general, quien le ordenó no atacar."
       ],
@@ -83,7 +83,7 @@
       "options": [
         "Convenció a su esposo Nabal de que pidiera perdón a David.",
         "Huyó con sus siervos para evitar la confrontación.",
-        "Actuó con sabiduría y valentía al salir al encuentro de David con provisiones y palabras de paz.",
+        "Fue al encuentro de David y lo apaciguó.",
         "Apeló al rey Saúl para que interviniera en el conflicto."
       ],
       "correctAnswer": 2
@@ -92,23 +92,23 @@
       "id": 4,
       "question": "¿Qué promesa hizo el Señor a David a través del profeta Natán en 2 Samuel 7 sobre su linaje?",
       "options": [
-        "Que David construiría el templo más grande del mundo.",
-        "Que su trono sería establecido para siempre, apuntando al reino eterno de Jesucristo, descendiente de David.",
         "Que todos sus hijos serían reyes de naciones poderosas.",
-        "Que Israel nunca más sería derrotado en la batalla."
+        "Que Israel nunca más sería derrotado en la batalla.",
+        "Que David construiría el templo más grande del mundo.",
+        "Que su trono sería establecido para siempre."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "¿Qué nos enseña el ejemplo de Abigail sobre el poder de la intervención pacífica en momentos de conflicto?",
       "options": [
-        "Que debemos evitar involucrarnos en conflictos ajenos a toda costa.",
-        "Que la valentía combinada con la sabiduría puede cambiar el curso de los acontecimientos y salvar vidas.",
+        "Que la valentía sabia puede evitar un derramamiento de sangre.",
         "Que las mujeres deben actuar solo cuando sus esposos no pueden hacerlo.",
-        "Que llevar regalos siempre resuelve cualquier conflicto."
+        "Que llevar regalos siempre resuelve cualquier conflicto.",
+        "Que debemos evitar involucrarnos en conflictos ajenos a toda costa."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

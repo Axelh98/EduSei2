@@ -64,41 +64,41 @@
       "id": 1,
       "question": "¿Qué decisión heroica tomó Rut al quedarse con su suegra Noemí en lugar de regresar a su pueblo en Rut 1?",
       "options": [
+        "Permaneció con Noemí porque el camino de regreso era demasiado peligroso.",
         "Decidió quedarse porque no tenía familia a quien regresar.",
-        "Renunció a su tierra, su pueblo y sus dioses para acompañar a Noemí y adoptar al Dios de Israel como su Dios.",
-        "Se quedó únicamente porque esperaba recibir una herencia de Noemí.",
-        "Permaneció con Noemí porque el camino de regreso era demasiado peligroso."
+        "Dejó su tierra y sus dioses por el Dios de Israel.",
+        "Se quedó únicamente porque esperaba recibir una herencia de Noemí."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Qué virtud destacó Booz en Rut al reconocer su lealtad hacia Noemí en Rut 2?",
       "options": [
-        "Su habilidad para trabajar en el campo más rápido que las demás.",
-        "Su bondad y lealtad al haber dejado todo por su suegra en lugar de buscar a hombres jóvenes.",
         "Su belleza y elegancia que la distinguían de las demás mujeres.",
-        "Su conocimiento de las leyes y costumbres de Israel."
+        "Su conocimiento de las leyes y costumbres de Israel.",
+        "Su habilidad para trabajar en el campo más rápido que las demás.",
+        "Su lealtad: dejó todo por Noemí en vez de buscar su propio interés."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "¿Cómo respondió Ana a su angustia por no tener hijos, y qué promesa hizo al Señor en 1 Samuel 1?",
       "options": [
+        "Oró con amargura y prometió consagrar al hijo al servicio del Señor.",
+        "Pidió a su esposo Elcana que intercediera por ella ante el sacerdote.",
         "Se enojó con el Señor y dejó de asistir al tabernáculo.",
-        "Aceptó su situación sin hacer nada al respecto.",
-        "Oró con amargura y lágrimas, prometiendo consagrar al hijo que le fuera dado al servicio del Señor.",
-        "Pidió a su esposo Elcana que intercediera por ella ante el sacerdote."
+        "Aceptó su situación sin hacer nada al respecto."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "¿Qué nos enseña la respuesta de Samuel al escuchar la voz del Señor por primera vez en 1 Samuel 3?",
       "options": [
         "Que los jóvenes no están preparados para recibir revelación del Señor.",
-        "Que debemos estar dispuestos a escuchar y responder con humildad: 'Habla, Señor, que tu siervo escucha.'",
+        "Que hay que escuchar y responder con humildad: «Habla, que tu siervo oye».",
         "Que la revelación solo viene cuando estamos completamente dormidos.",
         "Que Samuel necesitó años de entrenamiento antes de poder reconocer la voz del Señor."
       ],
@@ -108,12 +108,12 @@
       "id": 5,
       "question": "¿Qué lección sobre la fidelidad en el convenio podemos aprender comparando la historia de Rut con la de Orfa?",
       "options": [
+        "Que Rut tuvo suerte pero Orfa no fue castigada por regresar.",
         "Que Orfa tomó la decisión más sabia al regresar con su familia.",
-        "Que las decisiones de lealtad a los convenios, aunque costosas, traen bendiciones eternas que no podemos anticipar.",
-        "Que la fidelidad solo importa cuando hay beneficios inmediatos visibles.",
-        "Que Rut tuvo suerte pero Orfa no fue castigada por regresar."
+        "Que la lealtad al convenio, aunque cueste, trae bendiciones que no se anticipan.",
+        "Que la fidelidad solo importa cuando hay beneficios inmediatos visibles."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

@@ -59,41 +59,41 @@
       "id": 1,
       "question": "¿Qué provocó la división del reino de Israel después de la muerte de Salomón en 1 Reyes 12?",
       "options": [
+        "La muerte prematura de los hijos mayores de Salomón antes de poder heredar.",
         "Una invasión extranjera que separó físicamente el territorio.",
-        "La negativa de Roboam a aligerar las cargas impuestas por Salomón, lo que causó la rebelión de las diez tribus del norte.",
-        "Una disputa entre los sacerdotes del norte y del sur sobre el lugar de adoración.",
-        "La muerte prematura de los hijos mayores de Salomón antes de poder heredar."
+        "La negativa de Roboam a aligerar las cargas, que llevó a la rebelión del norte.",
+        "Una disputa entre los sacerdotes del norte y del sur sobre el lugar de adoración."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "¿Qué milagro realizó Elías a favor de la viuda de Sarepta en 1 Reyes 17, y qué principio ilustra?",
       "options": [
-        "Multiplicó el aceite y la harina de la viuda que compartió lo poco que tenía, ilustrando que la obediencia y la generosidad traen bendiciones milagrosas.",
         "Hizo llover sobre su campo para que sus cosechas prosperaran.",
         "La protegió de los soldados del rey Acab que querían arrestarla.",
-        "Le reveló el lugar donde había un tesoro enterrado para que pudiera sobrevivir."
+        "Le reveló el lugar donde había un tesoro enterrado para que pudiera sobrevivir.",
+        "Multiplicó el aceite y la harina de quien compartió lo poco que tenía."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "¿Qué demostró el enfrentamiento en el monte Carmelo entre Elías y los profetas de Baal en 1 Reyes 18?",
       "options": [
-        "Que Elías era más inteligente que los profetas de Baal en debate.",
-        "Que Jehová es el único Dios verdadero, capaz de responder con fuego mientras Baal no respondió.",
+        "Que Jehová es el único Dios verdadero: respondió con fuego, y Baal no.",
         "Que el pueblo de Israel siempre estuvo fiel al Señor a pesar de sus líderes.",
-        "Que los sacrificios con fuego eran superiores a otras formas de adoración."
+        "Que los sacrificios con fuego eran superiores a otras formas de adoración.",
+        "Que Elías era más inteligente que los profetas de Baal en debate."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "¿De qué manera el Señor se manifestó a Elías en el monte Horeb en 1 Reyes 19, y qué nos enseña?",
       "options": [
         "En un gran viento, un terremoto y fuego, enseñando Su poder absoluto.",
-        "En una voz apacible y delicada después del viento, el terremoto y el fuego, enseñando que el Señor frecuentemente habla en susurros al alma.",
+        "En un silbo apacible tras el viento, el terremoto y el fuego.",
         "En una visión espectacular de ángeles, enseñando que necesitamos experiencias dramáticas.",
         "A través de un sueño profundo, enseñando la importancia del descanso espiritual."
       ],
@@ -105,7 +105,7 @@
       "options": [
         "Que el Señor abandona a quienes se rinden ante el desánimo.",
         "Que los profetas no deben mostrar debilidad emocional.",
-        "Que el Señor cuida tiernamente a Sus siervos, incluso en sus momentos de mayor debilidad y agotamiento.",
+        "Que el Señor cuida tiernamente a Sus siervos aun en su mayor debilidad.",
         "Que el trabajo del Señor siempre produce paz inmediata sin periodos de agotamiento."
       ],
       "correctAnswer": 2

@@ -77,12 +77,12 @@
       "id": 1,
       "question": "¿Qué principio guió a Abraham al buscar esposa para Isaac en Génesis 24?",
       "options": [
+        "Que Isaac se casara con alguien de su familia que compartiera su fe.",
+        "Que Abraham elegiría la esposa sin consultar con Isaac.",
         "Que Isaac debía casarse con la mujer más rica de la región.",
-        "Que Isaac debía encontrar a la mujer más bella de Canaán.",
-        "Que Isaac debía casarse con alguien de su propia familia y que compartiera su fe en el Señor.",
-        "Que Abraham elegiría la esposa sin consultar con Isaac."
+        "Que Isaac debía encontrar a la mujer más bella de Canaán."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 2,
@@ -99,34 +99,34 @@
       "id": 3,
       "question": "¿Qué evento importante le ocurrió a Jacob durante su viaje a Harán que fortaleció su fe en Génesis 28?",
       "options": [
+        "Encontró agua milagrosa en el desierto.",
         "Encontró un gran tesoro enterrado en el camino.",
-        "Tuvo una visión de una escalera que llegaba al cielo y recibió la confirmación del convenio abrahámico.",
-        "Venció a un ejército de enemigos con la ayuda de ángeles visibles.",
-        "Encontró agua milagrosa en el desierto."
+        "Tuvo la visión de la escalera al cielo y le fue confirmado el convenio.",
+        "Venció a un ejército de enemigos con la ayuda de ángeles visibles."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 4,
       "question": "¿Qué simboliza la lucha de Jacob con el ángel en Génesis 32 y qué nombre recibió después?",
       "options": [
-        "Simboliza la derrota de Jacob y recibió el nombre de Esaú.",
-        "Simboliza su perseverancia espiritual y recibió el nombre de Israel, que significa 'el que lucha con Dios'.",
         "Simboliza su fortaleza física y recibió el nombre de Abraham.",
-        "Simboliza su fracaso en la oración y recibió el nombre de Lot."
+        "Simboliza su fracaso en la oración y recibió el nombre de Lot.",
+        "Simboliza la derrota de Jacob y recibió el nombre de Esaú.",
+        "Su perseverancia espiritual, y pasó a llamarse Israel."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 5,
       "question": "¿Qué lección sobre el perdón podemos aprender de la reconciliación entre Jacob y Esaú en Génesis 33?",
       "options": [
+        "Que el perdón puede restaurar relaciones rotas.",
+        "Que Esaú perdonó a Jacob solo porque recibió regalos.",
         "Que el tiempo borra automáticamente todos los rencores sin necesidad de esfuerzo.",
-        "Que es mejor evitar a las personas que nos han lastimado para no revivir el dolor.",
-        "Que el corazón puede cambiar con el tiempo y el perdón puede restaurar relaciones rotas.",
-        "Que Esaú perdonó a Jacob solo porque recibió regalos."
+        "Que es mejor evitar a las personas que nos han lastimado para no revivir el dolor."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

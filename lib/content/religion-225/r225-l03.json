@@ -6,30 +6,50 @@
       "bloques": [
         {
           "tipo": "parrafo",
+          "texto": "Tarde o temprano aparece una pregunta que incomoda. Un dato de la historia de la Iglesia que nadie te había contado, una práctica que no entiendes, una crítica que suena razonable. Lo primero que conviene saber es que la pregunta en sí no es el problema: la Restauración entera empezó porque un chico de catorce años tenía una y decidió llevarla al lugar correcto. Lo que sí cambia todo es cómo se pregunta y a quién se le pregunta. El élder Jeffrey R. Holland dio el consejo más práctico para ese momento: aférrate al conocimiento que ya tienes y mantente firme hasta que recibas más. Buscar respuestas a la manera del Señor no es un método para conseguir certezas rápidas; es la manera de construir sobre la roca de nuestro Redentor, de modo que cuando lleguen los vientos —y llegan— la duda no derribe lo que ya sabías."
+        },
+        {
+          "tipo": "parrafo",
           "texto": "Vivimos en una era de información sin precedentes. Con unos pocos clics podemos acceder a más datos de los que nuestros ancestros conocieron en toda su vida. Sin embargo, información no es lo mismo que conocimiento, y conocimiento no es lo mismo que sabiduría. El Evangelio restaurado enseña que existe un tipo especial de conocimiento — conocimiento espiritual — que solo puede adquirirse mediante el Espíritu Santo y que es más valioso que todo el conocimiento secular del mundo."
         },
         {
           "tipo": "escritura",
           "referencia": "Doctrina y Convenios 8:2–3",
-          "texto": "Sí, he aquí, yo te diré en tu mente y en tu corazón, por medio del Espíritu Santo que vendrá sobre ti y que morará en tu corazón. Ahora, he aquí, este es el espíritu de revelación; he aquí, este es el espíritu mediante el cual Moisés condujo a los hijos de Israel por el Mar Rojo sobre tierra seca.",
-          "comentario": "El Señor enseña que la revelación viene tanto a la mente como al corazón. No es solo un sentimiento ni solo un pensamiento — es una combinación de entendimiento intelectual e impresión espiritual. El mismo poder que dividió el Mar Rojo está disponible para guiarnos hoy."
+          "texto": "Sí, he aquí, hablaré a tu mente y a tu corazón por medio del Espíritu Santo que vendrá sobre ti y morará en tu corazón. Ahora, he aquí, este es el espíritu de revelación; he aquí, es el espíritu mediante el cual Moisés condujo a los hijos de Israel a través del mar Rojo sobre tierra seca.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=spa&id=p2-p3#p2",
+          "comentario": "El Señor le describe a Oliver Cowdery cómo funciona la revelación: no solo como un pensamiento claro ni solo como un sentimiento cálido, sino en la mente y en el corazón a la vez."
         },
         {
           "tipo": "escritura",
           "referencia": "1 Corintios 2:11, 14",
-          "texto": "Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoció las cosas de Dios, sino el Espíritu de Dios... Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las puede entender, porque se han de discernir espiritualmente.",
-          "comentario": "Pablo establece una verdad fundamental: las cosas espirituales solo pueden discernirse espiritualmente. El método científico, por útil que sea, tiene límites inherentes. No puede medir el amor, probar la existencia de Dios ni evaluar la autenticidad de una escritura. Se requiere un método diferente."
+          "texto": "Porque, ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoció las cosas de Dios, sino el Espíritu de Dios. Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las puede entender, porque se han de discernir espiritualmente.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/2?lang=spa&id=p11-p14#p11",
+          "comentario": "Pablo explica el límite del método puramente intelectual: hay cosas que no se entienden mal por falta de inteligencia, sino porque se disciernen de otra manera. Se han de discernir espiritualmente."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Helamán 5:12",
+          "texto": "Y ahora bien, recordad, hijos míos, recordad que es sobre la roca de nuestro Redentor, el cual es Cristo, el Hijo de Dios, donde debéis establecer vuestro fundamento, para que cuando el diablo lance sus impetuosos vientos, sí, sus dardos en el torbellino, sí, cuando todo su granizo y furiosa tormenta os azoten, esto no tenga poder para arrastraros al abismo de miseria y angustia sin fin, a causa de la roca sobre la cual estáis edificados, que es un fundamento seguro, un fundamento sobre el cual, si los hombres edifican, no caerán.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa&id=p12#p12",
+          "comentario": "Helamán no promete a sus hijos que no habrá tormenta, sino que la tormenta no los derribará si el fundamento es el correcto. Actuar con fe es, día a día, seguir edificando sobre esa roca."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Dieter F. Uchtdorf",
+          "fuente": "«El reflejo en el agua», devocional del Sistema Educativo de la Iglesia, 1 de noviembre de 2009",
+          "texto": "Mis queridos jóvenes amigos, somos personas que hacen preguntas. Siempre lo hemos sido, porque sabemos que el preguntar conduce a la verdad. Fue así que comenzó la Iglesia, por un joven que tenía interrogantes. De hecho, no estoy seguro de cómo se puede descubrir la verdad si no se hacen preguntas […]. La indagación es la cuna del testimonio […]. El hacer preguntas no es señal de debilidad; es el acto precursor del crecimiento.",
+          "link": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-3-class-preparation-material-acquiring-spiritual-knowledge?lang=spa#p2"
         },
         {
           "tipo": "cita",
           "autor": "Presidente Dallin H. Oaks",
           "fuente": "«La verdad y el plan», Conferencia General, octubre de 2018 (Liahona, noviembre de 2018, pág. 25)",
           "texto": "Debemos ser prudentes al buscar la verdad y elegir fuentes […]. Debemos tener cuidado con las razones de aquel que proporciona la información […]. Nuestras decisiones personales deben basarse en información de fuentes que reúnan los requisitos con respecto al tema, y estén libres de motivaciones egoístas.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/truth-and-the-plan?lang=spa"
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/truth-and-the-plan?lang=spa#p6"
         },
         {
           "tipo": "parrafo",
-          "texto": "El proceso para adquirir conocimiento espiritual incluye tres elementos esenciales: (1) Actuar con fe — hacer preguntas sinceras, estudiar diligentemente y obedecer lo que ya sabemos; (2) Examinar conceptos e ideas con una perspectiva eterna — no solo con lógica humana sino considerando las verdades del Evangelio; (3) Buscar mayor comprensión mediante la revelación — orar, meditar, ayunar y estar dispuesto a recibir respuestas del Espíritu. Este patrón fue el que siguió José Smith cuando leyó Santiago 1:5 y decidió preguntarle a Dios."
+          "texto": "El proceso para adquirir conocimiento espiritual tiene tres partes. Actuar con fe: hacer preguntas sinceras, estudiar con diligencia y obedecer lo que ya sabemos. Analizar los conceptos con una perspectiva eterna: mirarlos dentro del plan de salvación y de las enseñanzas del Salvador, y no solo con la lógica del momento. Y procurar mayor comprensión mediante las fuentes que el Señor señaló: el Espíritu Santo, las Escrituras, los profetas vivientes y los familiares fieles. Ese fue exactamente el camino de José Smith: leyó, se aferró a lo que ya sabía y preguntó. Ninguna de las tres partes funciona sola. Y la promesa del Salvador sigue en pie: quien pide con verdadera intención, buscando actuar según lo que reciba, recibe."
         },
         {
           "tipo": "doctrinal",
@@ -44,10 +64,12 @@
         {
           "tipo": "reflexion",
           "preguntas": [
-            "¿Cuándo has sentido que recibiste conocimiento espiritual que no podrías haber obtenido mediante el estudio o la lógica sola?",
-            "¿Qué diferencia hay entre «saber» que algo es verdad mediante evidencia y «saber» mediante el Espíritu Santo?",
-            "DyC 8:2 dice que la revelación viene a la mente y al corazón. ¿Cómo reconoces cuando ambos están alineados en una impresión espiritual?",
-            "¿Qué pregunta espiritual tienes ahora mismo para la cual necesitas buscar conocimiento mediante el Espíritu?"
+            "¿Cuándo sentiste que recibiste conocimiento que no podrías haber obtenido solo estudiando?",
+            "¿Qué diferencia hay entre saber algo por evidencia y saberlo por el Espíritu Santo?",
+            "Vuelve a leer Doctrina y Convenios 8:2–3. ¿Por dónde dice el Señor que llega la revelación, y cómo reconoces que ambas partes están alineadas?",
+            "El presidente Uchtdorf dijo que la indagación es la cuna del testimonio. ¿Qué pregunta tuya terminó fortaleciendo tu fe en lugar de debilitarla?",
+            "¿Qué fuente poco confiable estás consultando hoy que convendría cambiar por una de las que el Señor señaló?",
+            "Elige la pregunta que más te inquieta, ora por ella esta semana y anota lo que vayas entendiendo, aunque sea de a poco."
           ]
         }
       ]
@@ -57,52 +79,93 @@
     {
       "id": 1,
       "type": "multiple",
-      "question": "Según DyC 8:2, ¿cómo viene la revelación del Espíritu Santo?",
+      "question": "Según Doctrina y Convenios 8:2, ¿cómo declara el Señor que llega la revelación del Espíritu Santo?",
       "options": [
-        "Solo como un sentimiento de paz en el corazón",
-        "Exclusivamente como pensamientos claros en la mente",
-        "En la mente y en el corazón — ambos juntos",
-        "Principalmente a través de sueños durante la noche"
+        "Principalmente a través de sueños recibidos durante la noche",
+        "En la mente y en el corazón, las dos cosas juntas",
+        "Solo como un sentimiento de paz que se siente en el corazón",
+        "Exclusivamente como pensamientos claros y ordenados en la mente"
       ],
-      "correctAnswer": 2,
-      "explanation": "El Señor declaró: «yo te diré en tu mente y en tu corazón, por medio del Espíritu Santo.» La revelación verdadera incluye tanto entendimiento mental como impresión espiritual en el corazón."
+      "correctAnswer": 1,
+      "explanation": "«Hablaré a tu mente y a tu corazón por medio del Espíritu Santo». La revelación no es solo un razonamiento ni solo una emoción."
     },
     {
       "id": 2,
-      "type": "truefalse",
-      "question": "Verdadero o Falso: Según 1 Corintios 2:14, el hombre natural puede entender las cosas del Espíritu de Dios mediante el intelecto y la lógica sola.",
+      "type": "multiple",
+      "question": "Según 1 Corintios 2:14, ¿por qué el hombre natural no percibe las cosas del Espíritu de Dios?",
       "options": [
-        "Verdadero",
-        "Falso"
+        "Porque su formación cultural le impide interpretar bien los símbolos",
+        "Porque no ha estudiado con suficiente rigor las Escrituras antiguas",
+        "Porque esas cosas se han de discernir espiritualmente y no por intelecto",
+        "Porque Dios las mantiene ocultas para la mayoría de las personas"
       ],
-      "correctAnswer": 1,
-      "explanation": "Falso. Pablo enseña que «el hombre natural no percibe las cosas que son del Espíritu de Dios... se han de discernir espiritualmente.» El método secular tiene límites inherentes para conocer verdades espirituales."
+      "correctAnswer": 2,
+      "explanation": "Pablo escribe que «para él son locura, y no las puede entender, porque se han de discernir espiritualmente»: es una cuestión de método, no de inteligencia."
     },
     {
       "id": 3,
       "type": "multiple",
-      "question": "Según el Élder Oaks, ¿cómo se logra el conocimiento espiritual?",
+      "question": "El presidente Oaks advirtió que «debemos ser prudentes al buscar la verdad y elegir fuentes». ¿Qué preguntas propone la lección para evaluar una fuente?",
       "options": [
-        "Mediante el estudio académico riguroso de las Escrituras",
-        "Combinando el intelecto con experiencia humana extensa",
-        "Únicamente mediante el Espíritu Santo",
-        "A través de la tradición transmitida de generación en generación"
+        "Si es popular, si es reciente y si la recomienda alguien conocido",
+        "Si está escrita por un miembro de la Iglesia y si resulta de lectura fácil y amena",
+        "Si coincide con lo que uno ya pensaba antes de empezar a leer",
+        "Cuáles son sus intenciones, qué tan cerca está del hecho y si omite evidencia"
       ],
-      "correctAnswer": 2,
-      "explanation": "El Élder Oaks declaró que «el conocimiento espiritual se logra únicamente mediante el Espíritu Santo», no mediante el intelecto solo ni la experiencia humana."
+      "correctAnswer": 3,
+      "explanation": "La lección propone mirar las cualificaciones e intenciones del autor, su cercanía a los hechos, si ignora evidencia disponible, el contexto y el respaldo de otras fuentes fiables."
     },
     {
       "id": 4,
       "type": "multiple",
-      "question": "¿Cuál es el patrón correcto para adquirir conocimiento espiritual?",
+      "question": "¿Cuál es el patrón que enseña la lección para adquirir conocimiento espiritual?",
       "options": [
-        "Esperar pasivamente hasta que Dios nos revele todo lo que necesitamos",
-        "Actuar con fe, examinar conceptos con perspectiva eterna y buscar revelación",
-        "Confiar solo en el razonamiento lógico y la evidencia empírica",
-        "Aceptar sin cuestionar todo lo que dicen las autoridades religiosas"
+        "Actuar con fe, mirar con perspectiva eterna y buscar las fuentes del Señor",
+        "Aceptar sin cuestionar todo lo que digan las autoridades religiosas de la época",
+        "Confiar solamente en el razonamiento lógico y en la evidencia empírica disponible",
+        "Esperar sin hacer nada hasta que Dios revele todo lo que necesitamos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los tres principios son actuar con fe, analizar los conceptos con una perspectiva eterna y procurar mayor comprensión mediante las fuentes divinamente señaladas."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Nicolás encuentra un video que cuestiona un episodio de la historia de la Iglesia y siente que se le cae todo lo que creía. Según esta lección, ¿qué debería hacer primero?",
+      "options": [
+        "Evitar el tema por completo hasta que la inquietud se le pase sola",
+        "Aferrarse a lo que ya sabe y examinar la fuente antes de sacar una conclusión",
+        "Buscar en internet a alguien que refute el video con argumentos similares",
+        "Aceptar que su testimonio anterior estaba mal fundado desde el principio"
       ],
       "correctAnswer": 1,
-      "explanation": "El proceso incluye: (1) Actuar con fe, (2) Examinar conceptos con perspectiva eterna, y (3) Buscar revelación mediante oración y estudio. Requiere esfuerzo activo, no pasividad."
+      "explanation": "El élder Holland aconsejó «aférrense al conocimiento que ya tienen y manténganse firmes hasta que reciban más conocimiento». La lección agrega evaluar la fiabilidad de la fuente."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Ana descubre que una antepasada suya se casó a los quince años en el siglo XIX y eso la escandaliza. ¿Qué principio de la lección le ayudaría a analizarlo mejor?",
+      "options": [
+        "Que los hechos incómodos del pasado conviene dejarlos de lado",
+        "Que la historia familiar no tiene relación con el conocimiento espiritual",
+        "Que las preguntas históricas se examinan en el contexto de tiempo y lugar",
+        "Que solo los historiadores profesionales pueden opinar sobre esas cuestiones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La lección enseña a considerar la cultura y las normas de la época en vez de imponer las perspectivas actuales; en ese tiempo esos matrimonios eran frecuentes."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "Helamán 5:12 y los tres principios de esta lección apuntan a lo mismo. ¿Cuál es ese principio común?",
+      "options": [
+        "Que la duda desaparece por completo cuando uno estudia lo suficiente el tema",
+        "Que la revelación reemplaza al estudio cuidadoso de las Escrituras",
+        "Que las preguntas difíciles conviene postergarlas hasta tener bastante más edad",
+        "Que un fundamento puesto sobre Cristo sostiene a la persona en la tormenta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Helamán no promete ausencia de tormentas, sino que la tormenta no derriba a quien edificó sobre la roca del Redentor. Los tres principios son la manera de seguir edificando ahí."
     }
   ]
 }

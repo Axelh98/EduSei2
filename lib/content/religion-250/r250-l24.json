@@ -58,12 +58,12 @@
       "type": "multiple",
       "question": "Según DyC 45:3–5, ¿qué papel desempeña Jesucristo en el Juicio Final además de ser el Juez?",
       "options": [
+        "Es quien presenta las acusaciones de Satanás ante el Padre",
         "Es el testigo principal de nuestras obras durante la vida mortal",
         "Es nuestro Abogado ante el Padre, intercediendo en nuestro favor",
-        "Es el notario divino que registra todas nuestras acciones",
-        "Es quien presenta las acusaciones de Satanás ante el Padre"
+        "Es el notario divino que registra todas nuestras acciones"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "DyC 45:3–5 revela a Cristo como «el abogado ante el Padre, que está intercediendo tu causa ante él», señalando Su sufrimiento y sangre derramada en nuestro favor."
     },
     {
@@ -71,12 +71,12 @@
       "type": "multiple",
       "question": "Según DyC 137:9, ¿qué considera el Señor al juzgar a los hombres?",
       "options": [
-        "Solo sus obras externas y cumplimiento de mandamientos",
-        "Sus obras y también el deseo de sus corazones",
         "Solo el grado de fidelidad a sus convenios del templo",
-        "El testimonio de sus familiares y líderes de la Iglesia"
+        "El testimonio de sus familiares y líderes de la Iglesia",
+        "Solo sus obras externas y cumplimiento de mandamientos",
+        "Sus obras y también el deseo de sus corazones"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "El Señor declara que juzgará «según sus obras, según el deseo de sus corazones». Tanto las acciones externas como las motivaciones internas son consideradas."
     },
     {
@@ -84,12 +84,12 @@
       "type": "multiple",
       "question": "Según el presidente Oaks, ¿qué evalúa principalmente el Juicio Final?",
       "options": [
-        "La suma total de obras buenas comparada con las malas",
-        "El número de personas a quienes enseñamos el Evangelio",
         "Lo que hemos llegado a ser — el efecto transformador de nuestras elecciones",
-        "El grado en que cumplimos nuestros llamamientos de la Iglesia"
+        "El grado en que cumplimos nuestros llamamientos de la Iglesia",
+        "La suma total de obras buenas comparada con las malas",
+        "El número de personas a quienes enseñamos el Evangelio"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "El presidente Oaks enseñó que «el Juicio Final no es simplemente una evaluación de la suma total de las obras... Es un reconocimiento del efecto final que tienen nuestros hechos y pensamientos — lo que hemos llegado a ser.»"
     },
     {

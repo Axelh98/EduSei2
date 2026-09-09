@@ -1,5 +1,172 @@
 {
   "id": "r225-l06",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "En 1830, el mismo año en que se publicó el Libro de Mormón, un predicador itinerante llamado Parley P. Pratt viajaba hacia el este cuando sintió que debía bajarse del barco cerca de Palmyra, Nueva York. Caminó dieciséis kilómetros hasta la casa de un diácono bautista, que le habló de un libro traducido de unas planchas de oro. Parley lo abrió esa misma tarde y ya no pudo soltarlo: leyó todo el día, comer le resultó una molestia y le agobiaba tener que ir a dormir. Mientras leía, escribió después, el Espíritu de Dios reposó sobre él, y supo y comprendió que el libro era verdadero con la misma claridad con que un hombre sabe que existe."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Once años más tarde, un domingo de noviembre de 1841, el profeta José Smith pasó el día en consejo con los Doce Apóstoles en la casa de Brigham Young y les declaró que el Libro de Mormón era el más correcto de todos los libros sobre la tierra, la piedra clave de nuestra religión, y que un hombre se acercaría más a Dios por seguir sus preceptos que los de cualquier otro libro. La imagen es precisa: la piedra clave es la pieza que se corta a medida para el vértice de un arco. Mientras está puesta, el arco sostiene su propio peso sin soportes; si se la quita, todo lo demás se derrumba. El Libro de Mormón sostiene el testimonio del Santo de los Últimos Días de esa manera, y lo hace porque su tema no es la historia antigua de un continente, sino el Salvador mismo. Casi cada página apunta a Su vida, a Su sacrificio expiatorio y a la invitación de venir a Él."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 17:6",
+          "texto": "Y ha traducido el libro, sí, la parte que le he mandado; y vive vuestro Señor y vuestro Dios, que es verdadero.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/17?lang=spa&id=p6#p6",
+          "comentario": "En junio de 1829, antes de que el libro llegara a la imprenta, el Señor mismo declaró que la traducción era verdadera. La veracidad del Libro de Mormón no depende de la defensa que hagamos de él."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 20:8–12",
+          "texto": "y le dio poder de lo alto para traducir el Libro de Mormón, por los medios preparados de antemano, el cual contiene la historia de un pueblo caído, y la plenitud del evangelio de Jesucristo a los gentiles y también a los judíos; el cual se dio por inspiración, y se confirma a otros por la ministración de ángeles, y por ellos se declara al mundo; probando al mundo que las Santas Escrituras son verdaderas, y que Dios inspira a los hombres y los llama a su santa obra en esta edad y generación, así como en las antiguas; demostrando por este medio que él es el mismo Dios ayer, hoy y para siempre. Amén.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=spa&id=p8-p12#p8",
+          "comentario": "El Señor da aquí las razones por las que hizo salir a luz el libro: contiene la plenitud de Su evangelio, confirma que la Biblia es verdadera y demuestra que Dios sigue hablando hoy como habló en la antigüedad."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "1 Nefi 13:40",
+          "texto": "Y el ángel me habló, diciendo: Estos últimos anales que has visto entre los gentiles, establecerán la verdad de los primeros, los cuales son los de los doce apóstoles del Cordero, y darán a conocer las cosas claras y preciosas que se les han quitado, y manifestarán a todas las familias, lenguas y pueblos que el Cordero de Dios es el Hijo del Eterno Padre, y es el Salvador del mundo; y que es necesario que todos los hombres vengan a él, o no serán salvos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/13?lang=spa&id=p40#p40",
+          "comentario": "Nefi vio, seis siglos antes de Cristo, para qué serviría el libro que él estaba escribiendo: no para competir con la Biblia, sino para respaldarla y para declarar quién es Jesucristo."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder David A. Bednar",
+          "fuente": "«Velando… con toda perseverancia», Liahona, mayo de 2010, pág. 41",
+          "texto": "El Libro de Mormón es el más correcto de todos los libros sobre la tierra porque se centra en la Verdad (véase Juan 14:6; 1 Nefi 13:40), o sea, Jesucristo, y restaura las cosas claras y preciosas que se han quitado del Evangelio verdadero […]. La combinación singular de estos dos factores —el enfocarse en el Salvador y la claridad de las enseñanzas— invita de manera convincente el testimonio confirmador del tercer miembro de la Trinidad, o sea, el Espíritu Santo. Por consiguiente, el Libro de Mormón se dirige al espíritu y al corazón del lector como ningún otro tomo de Escritura lo hace.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2010/04/watching-with-all-perseverance?lang=spa",
+          "linkManual": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-6-class-preparation-material-the-book-of-mormon-the-keystone-of-our-religion?lang=spa#p19"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Ezra Taft Benson",
+          "fuente": "«El Libro de Mormón: La [piedra] clave de nuestra religión», Liahona, octubre de 2011, págs. 54, 55",
+          "texto": "El Libro de Mormón es la piedra clave de nuestro testimonio de Jesucristo. […] Gran parte del mundo cristiano actual rechaza la divinidad del Salvador, pone en tela de juicio Su nacimiento milagroso, Su vida perfecta y la realidad de Su gloriosa resurrección. El Libro de Mormón enseña en términos claros e inequívocos la autenticidad de tales hechos. También proporciona la explicación más completa de la doctrina de la Expiación […].",
+          "link": "https://www.churchofjesuschrist.org/study/liahona/2011/10/the-book-of-mormon-keystone-of-our-religion?lang=spa#p16"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Una piedra clave no se prueba discutiendo su forma, sino poniéndola en el arco y dejando que aguante el peso. Con el Libro de Mormón ocurre lo mismo. Los críticos no faltan, y algunos de sus argumentos suenan sólidos hasta que uno recuerda que el libro nunca prometió ganar un debate: prometió que quien lo lea y pregunte a Dios recibirá una respuesta. El Señor testificó de su veracidad antes de que estuviera impreso, y esa promesa sigue abierta para cada lector nuevo. Si el libro es verdadero, entonces José Smith fue llamado por Jesucristo y Su evangelio fue restaurado con todo lo que eso implica. La manera de saberlo no es esperar a tener todas las respuestas, sino abrirlo mañana temprano y leer con la pregunta hecha."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "El Señor mismo testificó de la veracidad del Libro de Mormón en junio de 1829, antes de que se publicara (Doctrina y Convenios 17:6).",
+            "El libro salió a luz para contener la plenitud del evangelio de Jesucristo, confirmar que las Santas Escrituras son verdaderas y demostrar que Dios es el mismo ayer, hoy y para siempre (Doctrina y Convenios 20:8–12).",
+            "Es el más correcto de todos los libros porque se centra en Jesucristo y restaura las cosas claras y preciosas que se habían quitado del Evangelio (élder Bednar).",
+            "Es la piedra clave en tres sentidos: de nuestro testimonio de Jesucristo, de nuestra doctrina y del testimonio mismo; si se lo quita, el arco entero se derrumba (presidente Benson).",
+            "El estudio diario del Libro de Mormón acerca a la persona a Dios más que cualquier otro libro, porque la lleva a venir a Cristo."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Cuándo fue la primera vez que abriste el Libro de Mormón por decisión propia y no porque alguien te lo pidiera?",
+            "Parley P. Pratt no pudo dejar de leer. ¿Qué parte del Libro de Mormón te ha atrapado a ti de esa manera?",
+            "Vuelve a leer Doctrina y Convenios 20:8–12. ¿Qué razones da el Señor allí para haber sacado a luz el libro que no habías notado antes?",
+            "El presidente Benson enseñó que toda la Iglesia permanece o cae según la veracidad del Libro de Mormón. ¿Qué cambia en tu vida si ese libro es verdadero?",
+            "¿A quién conoces que esté atravesando algo difícil y con quién podrías compartir esta semana un pasaje concreto del Libro de Mormón?",
+            "Ora antes de tu próximo estudio y anota qué te viene a la mente mientras lees; vuelve a esa nota al final de la semana."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "¿Qué declaró el profeta José Smith a los Doce Apóstoles en 1841 acerca del Libro de Mormón?",
+      "options": [
+        "Que su traducción había sido revisada y aprobada por los Doce Apóstoles antes de imprimirse",
+        "Que era el libro más antiguo que se conservaba del continente americano",
+        "Que era el más correcto de todos los libros y la piedra clave de nuestra religión",
+        "Que debía leerse siempre después de haber terminado el estudio de la Biblia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "José Smith declaró a los Doce que el Libro de Mormón «era el más correcto de todos los libros sobre la tierra, y la piedra clave de nuestra religión», y que un hombre se acercaría más a Dios por seguir sus preceptos."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "Según Doctrina y Convenios 17:6, ¿qué testificó el Señor sobre la traducción del Libro de Mormón?",
+      "options": [
+        "Que su contenido sería confirmado únicamente por los tres testigos",
+        "Que la terminaría solamente si José Smith permanecía digno hasta el final",
+        "Que otros traductores completarían más adelante las partes que faltaban",
+        "Que José la había traducido tal como se le mandó, y que es verdadera"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Señor declaró: «Y ha traducido el libro, sí, la parte que le he mandado; y vive vuestro Señor y vuestro Dios, que es verdadero» (D. y C. 17:6), antes de que el libro llegara a la imprenta."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "El élder Bednar explicó por qué el Libro de Mormón es «el más correcto de todos los libros». ¿Cuál fue su razón?",
+      "options": [
+        "Porque se centra en Jesucristo y restaura las cosas claras y preciosas del Evangelio",
+        "Porque su texto impreso nunca necesitó corrección alguna desde 1829",
+        "Porque fue escrito por profetas que vivieron después de la resurrección de Cristo",
+        "Porque contiene más pasajes proféticos que cualquier otro libro de Escritura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El élder Bednar enseñó que el libro es el más correcto «porque se centra en la Verdad […], o sea, Jesucristo, y restaura las cosas claras y preciosas que se han quitado del Evangelio verdadero»."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Qué señala la metáfora del arco y su piedra clave respecto del Libro de Mormón?",
+      "options": [
+        "Que el arco se sostiene igual aunque la piedra clave se retire con cuidado",
+        "Que si se lo quita, toda la estructura del testimonio se derrumba",
+        "Que el libro es la parte más antigua y decorativa de la estructura de la fe",
+        "Que su lugar en el arco puede ser ocupado por cualquier otra Escritura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El presidente Benson enseñó que, al igual que el arco se derrumba si se le quita la piedra clave, toda la Iglesia permanece o cae en base a la veracidad del Libro de Mormón."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Camila encontró en internet un argumento contra el Libro de Mormón que no sabe cómo responder y quedó inquieta. Según esta lección, ¿cuál sería el paso más coherente?",
+      "options": [
+        "Confiar en que la Iglesia ya ha respondido eso y no ocuparse más del asunto",
+        "Dejar de leer el libro hasta encontrar una respuesta satisfactoria",
+        "Volver a leerlo con oración, porque su veracidad se comprueba leyéndolo",
+        "Suponer que el argumento es falso sin examinarlo, porque proviene de un crítico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El libro nunca prometió ganar un debate: prometió que quien lo lea y pregunte a Dios recibirá respuesta. Estudiarlo con oración es la vía que la lección propone frente a las críticas."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Un amigo te dice que ya tiene la Biblia y que por eso no necesita el Libro de Mormón. Según Doctrina y Convenios 20:8–12, ¿qué respuesta se ajusta a lo que el Señor declaró?",
+      "options": [
+        "Que solo quienes leen el Libro de Mormón pueden comprender bien la Biblia",
+        "Que la Biblia perdió su autoridad cuando salió a luz el Libro de Mormón",
+        "Que ambos libros cuentan exactamente la misma historia con otras palabras y otro estilo",
+        "Que el Libro de Mormón prueba al mundo que las Santas Escrituras son verdaderas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Señor declaró que el libro sale a luz «probando al mundo que las Santas Escrituras son verdaderas»: respalda la Biblia en lugar de reemplazarla."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "Tanto 1 Nefi 13:40 como la enseñanza del élder Bednar describen la función del Libro de Mormón. ¿Qué principio comparten?",
+      "options": [
+        "Que existe para manifestar que Jesucristo es el Hijo de Dios y el Salvador del mundo",
+        "Que su valor principal es histórico y documenta a los pueblos antiguos de América",
+        "Que fue escrito para los gentiles y solo después para la casa de Israel",
+        "Que su corrección depende de la exactitud de las ediciones impresas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nefi vio que los anales manifestarían «que el Cordero de Dios es el Hijo del Eterno Padre, y es el Salvador del mundo»; el élder Bednar señaló que el libro es el más correcto porque se centra en Jesucristo."
+    }
+  ]
 }

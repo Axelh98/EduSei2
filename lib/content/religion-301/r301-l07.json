@@ -77,56 +77,56 @@
       "id": 1,
       "question": "¿Cuáles son los tres elementos principales del convenio abrahámico que el Señor prometió a Abraham?",
       "options": [
+        "Un reino eterno, el sacerdocio de Aarón y un trono en Israel.",
         "Tierras fértiles, un ejército poderoso y larga vida.",
-        "Una tierra prometida, posteridad innumerable y que en él serían benditas todas las familias de la tierra.",
-        "Riquezas, sabiduría y protección de sus enemigos.",
-        "Un reino eterno, el sacerdocio de Aarón y un trono en Israel."
+        "Tierra prometida, posteridad y sacerdocio.",
+        "Riquezas, sabiduría y protección de sus enemigos."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "Según Abraham 1–2, ¿qué buscaba Abraham antes de recibir el convenio del Señor?",
       "options": [
-        "Fama y reconocimiento entre los reyes de su época.",
-        "Mayor justicia, el sacerdocio, la felicidad y la paz.",
         "Un lugar donde vivir lejos de su familia.",
-        "Conocimiento científico sobre las estrellas y los planetas."
+        "Conocimiento científico sobre las estrellas y los planetas.",
+        "Fama y reconocimiento entre los reyes de su época.",
+        "Mayor justicia, el sacerdocio, la felicidad y la paz."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "¿Cómo demostró Abraham su fe al responder al llamado de Dios en Génesis 12?",
       "options": [
-        "Esperó varios años antes de salir para asegurarse de que la promesa era real.",
-        "Partió de su tierra y de su parentela tal como el Señor le dijo, sin saber a dónde iba.",
+        "Partió de su tierra y de su parentela tal como el Señor le dijo.",
         "Negoció con el Señor las condiciones del viaje antes de partir.",
-        "Envió a sus siervos primero para verificar que la tierra era buena."
+        "Envió a sus siervos primero para verificar que la tierra era buena.",
+        "Esperó varios años antes de salir para asegurarse de que la promesa era real."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "¿Qué significado tiene la circuncisión como señal del convenio entre Dios y Abraham en Génesis 17?",
       "options": [
-        "Era una práctica de higiene sin significado espiritual.",
         "Era una señal de que Abraham era superior a otros pueblos.",
-        "Era un símbolo físico del convenio hecho entre Dios y Abraham y su posteridad.",
-        "Era un requisito para poder entrar al sacerdocio levítico."
+        "Era el signo visible del convenio con su posteridad.",
+        "Era un requisito para poder entrar al sacerdocio levítico.",
+        "Era una práctica de higiene sin significado espiritual."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 5,
       "question": "¿De qué manera el convenio abrahámico nos afecta a nosotros hoy como miembros de la Iglesia?",
       "options": [
+        "No tiene relevancia en la actualidad porque fue reemplazado por la ley de Moisés.",
         "Solo afecta a los descendientes biológicos de Abraham.",
-        "Al ser bautizados y recibir el Evangelio, nos convertimos en herederos de las promesas del convenio abrahámico.",
-        "Solo aplica a quienes viven en la Tierra Santa.",
-        "No tiene relevancia en la actualidad porque fue reemplazado por la ley de Moisés."
+        "Al recibir el Evangelio somos herederos de las promesas abrahámicas.",
+        "Solo aplica a quienes viven en la Tierra Santa."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

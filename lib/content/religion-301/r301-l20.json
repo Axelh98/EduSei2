@@ -77,30 +77,30 @@
       "id": 1,
       "question": "¿Cuál es el patrón repetitivo que describe el ciclo de Israel en el libro de Jueces?",
       "options": [
-        "Israel prospera, conquista nuevas tierras, descansa y luego vuelve a expandirse.",
-        "Israel peca, es oprimido por enemigos, clama al Señor, Dios levanta un juez libertador y el pueblo descansa.",
         "Israel elige un rey, este los guía a la victoria, muere y el proceso se repite.",
-        "Israel construye un templo, lo abandona, lo reconstruye y así sucesivamente."
+        "Israel construye un templo, lo abandona, lo reconstruye y así sucesivamente.",
+        "Israel prospera, conquista nuevas tierras, descansa y luego vuelve a expandirse.",
+        "Israel peca, es oprimido, clama, recibe un libertador y descansa."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Qué nos enseña la historia de Débora como jueza y profetisa en Jueces 4?",
       "options": [
-        "Que las mujeres solo podían liderar en ausencia de hombres disponibles.",
-        "Que el Señor puede llamar y capacitar a cualquier persona dispuesta para cumplir Su propósito.",
+        "Que el Señor puede llamar y capacitar a cualquiera que esté dispuesto.",
         "Que el liderazgo femenino era una anomalía que debía corregirse.",
-        "Que Débora gobernó en contra de la voluntad de los líderes varones de Israel."
+        "Que Débora gobernó en contra de la voluntad de los líderes varones de Israel.",
+        "Que las mujeres solo podían liderar en ausencia de hombres disponibles."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "¿Qué inseguridad inicial mostró Gedeón cuando el Señor lo llamó en Jueces 6, y cómo lo superó?",
       "options": [
         "Temía hablar en público y el Señor le prometió elocuencia.",
-        "Se sentía el menor de su familia y de la tribu más débil, pero confió en la promesa de que el Señor estaría con él.",
+        "Se creía el menor de todos, y confió en la promesa.",
         "No sabía combatir y pidió que le enviaran un ejército más grande.",
         "Dudaba de su fe y pidió ver un ángel visible antes de actuar."
       ],
@@ -110,23 +110,23 @@
       "id": 4,
       "question": "¿Por qué redujo el Señor el ejército de Gedeón a solo trescientos hombres antes de la batalla en Jueces 7?",
       "options": [
+        "Para castigar a los soldados que habían mostrado cobardía previamente.",
         "Porque un ejército pequeño era más fácil de abastecer en el desierto.",
-        "Para que Israel no se atribuyera la victoria a sí mismo sino que reconociera que fue el Señor quien venció.",
-        "Porque los demás soldados no tenían suficiente entrenamiento militar.",
-        "Para castigar a los soldados que habían mostrado cobardía previamente."
+        "Para que la victoria no se atribuyera a Israel sino al Señor.",
+        "Porque los demás soldados no tenían suficiente entrenamiento militar."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "¿Qué lección sobre las consecuencias de comprometer los convenios podemos aprender de la caída de Sansón en Jueces 16?",
       "options": [
+        "Que la fuerza física es más importante que la fidelidad espiritual.",
         "Que los dones espirituales son permanentes sin importar nuestras decisiones.",
         "Que revelar los secretos sagrados a quienes nos presionan no tiene consecuencias graves.",
-        "Que ceder ante la presión del mundo y abandonar los convenios nos priva del poder espiritual que el Señor nos da.",
-        "Que la fuerza física es más importante que la fidelidad espiritual."
+        "Que abandonar los convenios nos deja sin el poder del Señor."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

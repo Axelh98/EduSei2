@@ -57,41 +57,41 @@
       "id": 1,
       "question": "Según Moisés 5:6–8, Adán obedeció el mandamiento de ofrecer sacrificios sin saber la razón. ¿Qué le reveló el ángel sobre el significado de ese rito?",
       "options": [
+        "Que era una purificación ritual obligatoria para todos los que habitaban fuera del Jardín.",
         "Que era una práctica de gratitud sin relación con ningún evento futuro.",
         "Que era una semejanza del sacrificio del Unigénito del Padre — un símbolo de la Expiación de Cristo.",
-        "Que representaba el trabajo diario que Adán debía hacer para ganarse el sustento.",
-        "Que era una purificación ritual obligatoria para todos los que habitaban fuera del Jardín."
+        "Que representaba el trabajo diario que Adán debía hacer para ganarse el sustento."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 2,
       "question": "En Juan 3:14–15, Jesús compara Su propio levantamiento en la cruz con un evento del Antiguo Testamento. ¿A qué evento se refiere?",
       "options": [
-        "Al sacrificio de Isaac por Abraham en el monte Moria.",
-        "A Moisés levantando la serpiente de bronce en el desierto para sanar a Israel.",
         "A Elías elevándose al cielo en un carro de fuego.",
-        "Al arca de Noé levantada sobre las aguas del diluvio."
+        "Al arca de Noé levantada sobre las aguas del diluvio.",
+        "Al sacrificio de Isaac por Abraham en el monte Moria.",
+        "A la serpiente de bronce que Moisés levantó en el desierto."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 3,
       "question": "El élder McConkie enseñó que «todo el sistema de la ley mosaica estaba diseñado para centrar la fe de Israel en Jesucristo». ¿Qué dice eso sobre la forma en que debemos leer el Antiguo Testamento?",
       "options": [
-        "Que el Antiguo Testamento es irrelevante para los cristianos modernos porque fue reemplazado por el Nuevo Testamento.",
-        "Que cada ley, ceremonia y símbolo del Antiguo Testamento es una pieza de un retrato de Cristo que se vuelve visible cuando sabemos a quién apuntan.",
+        "Que cada ley y símbolo del Antiguo Testamento es una pieza de un retrato de Cristo.",
         "Que solo los sacrificios de animales tienen valor simbólico; el resto de la ley mosaica no señala a Cristo.",
-        "Que el Antiguo Testamento fue escrito como historia cultural sin propósito tipológico."
+        "Que el Antiguo Testamento fue escrito como historia cultural sin propósito tipológico.",
+        "Que el Antiguo Testamento es irrelevante para los cristianos modernos porque fue reemplazado por el Nuevo Testamento."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": 4,
       "question": "1 Corintios 10:4 dice que «la roca era Cristo». Pablo lee a Cristo dentro del relato del éxodo de Israel. ¿Qué principio hermenéutico (forma de leer las Escrituras) está aplicando?",
       "options": [
         "Que toda referencia a una roca en la Biblia es automáticamente un símbolo de Cristo.",
-        "Que los eventos históricos del Antiguo Testamento pueden ser leídos como tipos que anticipan a Cristo, sin que eso elimine su realidad histórica.",
+        "Que los hechos históricos pueden leerse como tipos que anticipan a Cristo, sin dejar de ser reales.",
         "Que la historia de Israel en el desierto es una alegoría sin hechos reales detrás.",
         "Que solo los apóstoles tenían autoridad para interpretar los símbolos del Antiguo Testamento."
       ],
@@ -101,23 +101,23 @@
       "id": 5,
       "question": "Julia dice que participa de la Santa Cena cada semana pero casi no piensa en su significado mientras lo hace — lo ve como una costumbre. Según el principio del simbolismo aprendido en esta lección, ¿qué perspectiva podría cambiar esa experiencia?",
       "options": [
+        "Que debería leer el Antiguo Testamento antes de cada reunión sacramental para obtener más contexto histórico.",
         "Que debería enfocarse en la música del coro para que la experiencia sea más emotiva.",
-        "Que los símbolos de la Santa Cena — el pan y el agua — son la continuación directa de toda la cadena simbólica que comenzó con Adán y apunta al cuerpo y sangre del Cordero de Dios.",
-        "Que la costumbre es en sí misma valiosa y no necesita reflexión activa para producir beneficio espiritual.",
-        "Que debería leer el Antiguo Testamento antes de cada reunión sacramental para obtener más contexto histórico."
+        "Que el pan y el agua continúan la cadena simbólica que empezó con Adán y apunta al Cordero.",
+        "Que la costumbre es en sí misma valiosa y no necesita reflexión activa para producir beneficio espiritual."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 6,
       "question": "Ignacio estudia el Antiguo Testamento en clase y siente que es un libro de historias antiguas sin relevancia personal. Dice: «No entiendo por qué lo leo». Usando el principio de esta lección, ¿qué le diría su compañero de estudio?",
       "options": [
+        "Que la relevancia del Antiguo Testamento depende de cuánto conocimiento histórico previo tenga el lector.",
         "Que el Antiguo Testamento es útil principalmente para la historia cultural del judaísmo.",
         "Que debería saltearse el Antiguo Testamento y concentrarse en el Nuevo Testamento, que es más relevante.",
-        "Que cada símbolo, sacrificio y personaje del Antiguo Testamento es una flecha que apunta hacia el Salvador — aprender a leerlos es aprender a ver a Cristo antes de que naciera en Belén.",
-        "Que la relevancia del Antiguo Testamento depende de cuánto conocimiento histórico previo tenga el lector."
+        "Que cada símbolo y personaje es una flecha que apunta al Salvador antes de Belén."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 7,

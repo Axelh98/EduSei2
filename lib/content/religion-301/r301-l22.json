@@ -70,41 +70,41 @@
       "id": 2,
       "question": "¿Cuál fue el error de Saúl en 1 Samuel 13 que le costó el reino?",
       "options": [
+        "Eligió a sus propios consejeros en lugar de consultar al Señor.",
         "Atacó a los filisteos sin el permiso del Señor.",
-        "Ofreció un sacrificio que le correspondía solo a Samuel, actuando por impaciencia e incredulidad.",
-        "Huyó de la batalla cuando el enemigo era más numeroso.",
-        "Eligió a sus propios consejeros en lugar de consultar al Señor."
+        "No esperó a Samuel y ofreció él mismo el sacrificio.",
+        "Huyó de la batalla cuando el enemigo era más numeroso."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 3,
       "question": "¿Qué principio eterno reveló el Señor a Samuel al ungir a David en 1 Samuel 16:7?",
       "options": [
-        "Que la apariencia física es el mejor indicador del liderazgo.",
-        "Que el Señor mira el corazón del hombre, no su apariencia exterior.",
         "Que los más jóvenes siempre son los más aptos para liderar.",
-        "Que el linaje familiar es el criterio más importante para el llamado."
+        "Que el linaje familiar es el criterio más importante para el llamado.",
+        "Que la apariencia física es el mejor indicador del liderazgo.",
+        "Que el Señor mira el corazón del hombre, no su apariencia exterior."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 4,
       "question": "¿Qué nos enseña el rechazo de Saúl en 1 Samuel 15 después de no obedecer completamente el mandato del Señor respecto a los amalecitas?",
       "options": [
+        "Que obedecer es mejor que los sacrificios: la obediencia a medias no lo es.",
+        "Que Saúl debió haber consultado más a sus generales antes de actuar.",
         "Que el Señor es demasiado estricto con los errores pequeños.",
-        "Que obedecer parcialmente es equivalente a obedecer completamente.",
-        "Que obedecer es mejor que los sacrificios, y que la obediencia a medias no es verdadera obediencia.",
-        "Que Saúl debió haber consultado más a sus generales antes de actuar."
+        "Que obedecer parcialmente es equivalente a obedecer completamente."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 5,
       "question": "¿Qué lección sobre la humildad y la disposición para ser ungido podemos aprender de David al ser elegido entre todos sus hermanos?",
       "options": [
         "Que el éxito en la vida depende del orden de nacimiento en la familia.",
-        "Que el Señor puede escoger a quien parece menos importante a los ojos del mundo para cumplir Sus propósitos.",
+        "Que el Señor escoge a quien el mundo tiene por menor para cumplir Sus fines.",
         "Que David era superior a sus hermanos en todas las habilidades.",
         "Que Jacob favoreció a David de la misma manera que a José."
       ],

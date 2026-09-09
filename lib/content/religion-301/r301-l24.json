@@ -64,30 +64,30 @@
       "id": 1,
       "question": "¿Cuál fue la raíz del grave pecado de David con Betsabé en 2 Samuel 11?",
       "options": [
-        "Que David estaba solo y deprimido después de muchas batallas.",
-        "Que David cedió a la tentación en lugar de huir de ella, y luego intentó encubrir su pecado.",
         "Que Betsabé lo sedujo intencionalmente para obtener poder.",
-        "Que los consejeros de David le aconsejaron mal en ese momento."
+        "Que los consejeros de David le aconsejaron mal en ese momento.",
+        "Que David estaba solo y deprimido después de muchas batallas.",
+        "Que cedió a la tentación en lugar de huir de ella."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": 2,
       "question": "¿Cómo confrontó el profeta Natán a David sobre su pecado en 2 Samuel 12, y qué nos enseña su método?",
       "options": [
+        "Le contó una parábola y David se condenó a sí mismo.",
+        "Lo amenazó con perder el reino si no confesaba inmediatamente.",
         "Lo confrontó públicamente frente a todo el pueblo de Israel.",
-        "Le escribió una carta detallando todos sus errores.",
-        "Le contó una parábola sobre un hombre rico y una oveja, llevando a David a reconocer su propio pecado.",
-        "Lo amenazó con perder el reino si no confesaba inmediatamente."
+        "Le escribió una carta detallando todos sus errores."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": 3,
       "question": "¿Qué pidió Salomón al Señor cuando se le apareció en Gabaón en 1 Reyes 3, y por qué agradó esta petición a Dios?",
       "options": [
         "Pidió riquezas y fama, lo cual agradó al Señor por su ambición.",
-        "Pidió un corazón entendido para juzgar al pueblo con justicia, lo cual agradó al Señor por su desinterés personal.",
+        "Pidió un corazón entendido para juzgar con justicia, y eso agradó al Señor.",
         "Pidió victoria sobre todos sus enemigos, lo cual agradó al Señor por su valentía.",
         "Pidió larga vida para poder construir el templo, lo cual agradó al Señor por su dedicación."
       ],
@@ -97,23 +97,23 @@
       "id": 4,
       "question": "¿Qué causó la caída espiritual de Salomón al final de su reinado en 1 Reyes 11?",
       "options": [
+        "Sus hijos se rebelaron contra él y lo convencieron de abandonar su fe.",
         "Sus constantes guerras con las naciones vecinas lo alejaron del Señor.",
-        "Sus muchas esposas extranjeras lo llevaron a adorar dioses ajenos, apartando su corazón del Señor.",
-        "Su excesiva riqueza lo hizo desconfiar de la revelación divina.",
-        "Sus hijos se rebelaron contra él y lo convencieron de abandonar su fe."
+        "Las esposas extranjeras lo llevaron a los dioses ajenos.",
+        "Su excesiva riqueza lo hizo desconfiar de la revelación divina."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 5,
       "question": "¿Qué lección sobre mantenernos firmes en los convenios podemos aprender de la trayectoria de Salomón?",
       "options": [
-        "Que la sabiduría y el éxito iniciales garantizan la fidelidad futura.",
-        "Que incluso quienes comienzan con grandes dones espirituales pueden apartarse si permiten influencias contrarias al Evangelio.",
         "Que el Señor no castiga a quienes han sido sabios en su juventud.",
-        "Que construir templos es suficiente para mantener la fidelidad de toda una vida."
+        "Que construir templos es suficiente para mantener la fidelidad de toda una vida.",
+        "Que la sabiduría y el éxito iniciales garantizan la fidelidad futura.",
+        "Que aun quien empieza con grandes dones puede apartarse si lo permite."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }
