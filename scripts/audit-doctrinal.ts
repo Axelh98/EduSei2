@@ -36,6 +36,7 @@ import { readFileSync, readdirSync, existsSync } from "node:fs"
 import { join } from "node:path"
 import { categories } from "../lib/content/registry"
 import { isFlatCategory } from "../lib/types"
+import { normalizar } from "./normalizar-resumen"
 
 const CONTENT_DIR = join(process.cwd(), "lib", "content")
 
@@ -110,9 +111,11 @@ function tiposPorLeccion(categoryId: string): Map<string, string> {
 
 interface Resultado {
   categoryId: string
+  medidas: number   // lecciones con material, de cualquiera de las dos convenciones
   clasica: number
   ctxNombra: number
-  ctxSustancia: number
+  conSustancia: number   // contexto + conclusión: el criterio del checklist
+  ctxSustancia: number   // solo contexto: la métrica con la que se midió la línea de base del 6-sep-2026
   cierreNombra: number
   algunoNombra: number // contexto O conclusion — es el ítem del checklist doctrinal
   conEspiritu: number
@@ -134,8 +137,10 @@ function auditarCategoria(categoryId: string, detalle: boolean): Resultado | nul
   let resumen = 0
   const r: Resultado = {
     categoryId,
+    medidas: 0,
     clasica: 0,
     ctxNombra: 0,
+    conSustancia: 0,
     ctxSustancia: 0,
     cierreNombra: 0,
     algunoNombra: 0,
@@ -160,25 +165,26 @@ function auditarCategoria(categoryId: string, detalle: boolean): Resultado | nul
       vacias++
       continue
     }
-    if (secciones.some((s: any) => s.tipo === "resumen")) {
-      resumen++
-      continue
-    }
-    r.clasica++
+    // Desde el 9-sep-2026 la convención `resumen` también se mide: `normalizar-resumen.ts` la
+    // lleva a la forma clásica. Antes se contaba y se salteaba, y por eso un curso como
+    // religion-301 se auditaba mirando 5 de sus 25 lecciones.
+    const n_ = normalizar(secciones)
+    if (n_.convencion === "resumen") resumen++
+    else r.clasica++
+    r.medidas++
 
-    const ctx = texto(secciones.find((s: any) => s.tipo === "contexto")?.contenido)
-    const cierre = texto(secciones.find((s: any) => s.tipo === "conclusion")?.contenido)
-    const preguntas: string[] = (
-      secciones.find((s: any) => s.tipo === "cuestionario")?.preguntas ?? []
-    ).map((p: unknown) => (typeof p === "string" ? p : ""))
-    const refs: string[] = (
-      secciones.find((s: any) => s.tipo === "escrituras")?.citas ?? []
-    ).map((c: any) => String(c?.referencia ?? ""))
+    const ctx = texto(n_.contexto)
+    // Para Cristo y sustancia se mira el cierre MÁS los puntos doctrinales: en la convención
+    // `resumen` la doctrina de la lección vive ahí, no en el párrafo final.
+    const cierre = texto(n_.conclusionDoctrinal)
+    const preguntas: string[] = n_.preguntas
+    const refs: string[] = n_.escrituras.map((c: any) => String(c?.referencia ?? ""))
 
     const ctxN = NOMBRE.test(ctx)
     const cierreN = NOMBRE.test(cierre)
     if (ctxN) r.ctxNombra++
     if (cierreN) r.cierreNombra++
+    if ((ctxN || cierreN) && SUSTANCIA.test(ctx + " " + cierre)) r.conSustancia++
     if (ctxN && SUSTANCIA.test(ctx)) r.ctxSustancia++
 
     if (ctxN || cierreN) {
@@ -210,25 +216,28 @@ function auditarCategoria(categoryId: string, detalle: boolean): Resultado | nul
     else sinEscudrinar.push({ lessonId, problema: "ninguna pregunta devuelve al alumno al pasaje" })
   }
 
-  const pct = (a: number) => (r.clasica ? `${Math.round((a * 100) / r.clasica)} %` : "-")
+  const pct = (a: number) => (r.medidas ? `${Math.round((a * 100) / r.medidas)} %` : "-")
   console.log(`\n=== ${categoryId} (${files.length} archivos) ===`)
   console.log(
     `secciones: [] (sin material): ${vacias} | convención "resumen": ${resumen} | convención clásica: ${r.clasica}`
   )
-  if (r.clasica === 0) {
+  if (r.medidas === 0) {
     console.log('(sin lecciones de convención clásica — nada que medir)')
     return r
   }
-  console.log(`Cristo en contexto:            ${r.ctxNombra}/${r.clasica} (${pct(r.ctxNombra)})`)
-  console.log(`Cristo en conclusion:          ${r.cierreNombra}/${r.clasica} (${pct(r.cierreNombra)})`)
+  console.log(`Cristo en contexto:            ${r.ctxNombra}/${r.medidas} (${pct(r.ctxNombra)})`)
+  console.log(`Cristo en conclusion:          ${r.cierreNombra}/${r.medidas} (${pct(r.cierreNombra)})`)
   console.log(
-    `Cristo en alguna de las dos:   ${r.algunoNombra}/${r.clasica} (${pct(r.algunoNombra)})   <- ítem del checklist doctrinal`
+    `Cristo en alguna de las dos:   ${r.algunoNombra}/${r.medidas} (${pct(r.algunoNombra)})   <- ítem del checklist doctrinal`
   )
   console.log(
-    `  ...y además dice algo de Él: ${r.ctxSustancia}/${r.clasica} (${pct(r.ctxSustancia)})   (indicio, no veredicto: confirmar leyendo)`
+    `  ...y además dice algo de Él: ${r.conSustancia}/${r.medidas} (${pct(r.conSustancia)})   (indicio, no veredicto: confirmar leyendo)`
   )
-  console.log(`Pregunta que invita a orar/meditar/anotar: ${r.conEspiritu}/${r.clasica} (${pct(r.conEspiritu)})`)
-  console.log(`Pregunta que devuelve al pasaje:          ${r.conEscudrinar}/${r.clasica} (${pct(r.conEscudrinar)})`)
+  console.log(
+    `     de ellas, ya en el contexto: ${r.ctxSustancia}/${r.medidas} (${pct(r.ctxSustancia)})   (métrica de la línea de base del 6-sep-2026)`
+  )
+  console.log(`Pregunta que invita a orar/meditar/anotar: ${r.conEspiritu}/${r.medidas} (${pct(r.conEspiritu)})`)
+  console.log(`Pregunta que devuelve al pasaje:          ${r.conEscudrinar}/${r.medidas} (${pct(r.conEscudrinar)})`)
 
   if (detalle) {
     const grupos: [string, Hallazgo[]][] = [
@@ -247,38 +256,38 @@ function auditarCategoria(categoryId: string, detalle: boolean): Resultado | nul
 }
 
 function ranking(resultados: Resultado[]) {
-  const conDatos = resultados.filter((r) => r.clasica > 0)
-  conDatos.sort((a, b) => a.algunoNombra / a.clasica - b.algunoNombra / b.clasica)
+  const conDatos = resultados.filter((r) => r.medidas > 0)
+  conDatos.sort((a, b) => a.algunoNombra / a.medidas - b.algunoNombra / b.medidas)
   const pct = (a: number, b: number) => `${Math.round((a * 100) / b)} %`.padStart(5)
   console.log("\n\n=== RANKING (peor primero, por centralidad en Cristo) ===")
   console.log("curso".padEnd(24) + " lecc  Cristo  sustancia  orar  escudriñar")
   for (const r of conDatos) {
     console.log(
       r.categoryId.padEnd(24) +
-        String(r.clasica).padStart(5) +
-        pct(r.algunoNombra, r.clasica).padStart(8) +
-        pct(r.ctxSustancia, r.clasica).padStart(11) +
-        pct(r.conEspiritu, r.clasica).padStart(6) +
-        pct(r.conEscudrinar, r.clasica).padStart(12)
+        String(r.medidas).padStart(5) +
+        pct(r.algunoNombra, r.medidas).padStart(8) +
+        pct(r.conSustancia, r.medidas).padStart(11) +
+        pct(r.conEspiritu, r.medidas).padStart(6) +
+        pct(r.conEscudrinar, r.medidas).padStart(12)
     )
   }
   const t = conDatos.reduce(
     (a, r) => ({
-      clasica: a.clasica + r.clasica,
+      medidas: a.medidas + r.medidas,
       algunoNombra: a.algunoNombra + r.algunoNombra,
-      ctxSustancia: a.ctxSustancia + r.ctxSustancia,
+      conSustancia: a.conSustancia + r.conSustancia,
       conEspiritu: a.conEspiritu + r.conEspiritu,
       conEscudrinar: a.conEscudrinar + r.conEscudrinar,
     }),
-    { clasica: 0, algunoNombra: 0, ctxSustancia: 0, conEspiritu: 0, conEscudrinar: 0 }
+    { medidas: 0, algunoNombra: 0, conSustancia: 0, conEspiritu: 0, conEscudrinar: 0 }
   )
   console.log(
     "TOTAL".padEnd(24) +
-      String(t.clasica).padStart(5) +
-      pct(t.algunoNombra, t.clasica).padStart(8) +
-      pct(t.ctxSustancia, t.clasica).padStart(11) +
-      pct(t.conEspiritu, t.clasica).padStart(6) +
-      pct(t.conEscudrinar, t.clasica).padStart(12)
+      String(t.medidas).padStart(5) +
+      pct(t.algunoNombra, t.medidas).padStart(8) +
+      pct(t.conSustancia, t.medidas).padStart(11) +
+      pct(t.conEspiritu, t.medidas).padStart(6) +
+      pct(t.conEscudrinar, t.medidas).padStart(12)
   )
 }
 

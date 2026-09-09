@@ -9,42 +9,57 @@
           "texto": "El libro del Éxodo comienza con un pueblo oprimido y sin voz y termina con la gloria del Señor llenando el tabernáculo recién construido. Entre esos dos puntos se despliega la historia más dramática del Antiguo Testamento: la liberación de Israel de la esclavitud. Los primeros seis capítulos establecen el escenario: la providencia de Dios preservando la vida de Moisés desde el nacimiento, el encuentro transformador en la zarza ardiente, el llamamiento al que Moisés resistió con cuatro objeciones distintas, y las promesas divinas que respondieron cada una. Dios no llamó a Moisés porque fuera el más elocuente o el más confiado; lo llamó porque era el hombre que Él había preparado, y a quienes Dios llama, Él también equipa."
         },
         {
+          "tipo": "parrafo",
+          "texto": "Vale la pena notar cómo empieza todo. Antes de la zarza ardiente y antes del Éxodo, la historia se sostiene por dos mujeres cuyos nombres el texto se molestó en conservar: Sifra y Fúa, las parteras que desobedecieron una orden directa del hombre más poderoso del mundo conocido. El libro de la liberación de un pueblo entero arranca con un acto pequeño y silencioso de valentía. Eso cambia la escala de la pregunta que la lección le hace al alumno: no «¿estoy a la altura de una misión histórica?», sino «¿qué hago mañana cuando obedecer a Dios me cueste algo concreto?»."
+        },
+        {
           "tipo": "escritura",
           "referencia": "Éxodo 1:15–17",
-          "texto": "Y el rey de Egipto habló a las parteras de las hebreas, una de las cuales se llamaba Sifra, y otra Fúa; y les dijo: Cuando asistáis a las hebreas en sus partos, y veáis el sexo: si es hijo, matadlo; y si es hija, entonces viva. Pero las parteras temieron a Dios, y no hicieron como les mandó el rey de Egipto, sino que preservaron la vida a los niños.",
+          "texto": "Y habló el rey de Egipto a las parteras de las hebreas, una de las cuales se llamaba Sifra y la otra Fúa, y les dijo: Cuando asistáis a las hebreas en sus partos y miréis sobre el lecho de parto, si es hijo, matadlo; y si es hija, entonces que viva. Mas las parteras temieron a Dios y no hicieron como les mandó el rey de Egipto, sino que preservaron la vida a los niños.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/1?lang=spa&id=p15-p17#p15",
           "comentario": "Las parteras hebreas son las primeras figuras de resistencia civil en la historia bíblica. Ante el mandato de un poder imperial, eligieron obedecer a Dios antes que al hombre. El texto es explícito sobre su motivación: 'temieron a Dios'. El temor de Dios —entendido como reverencia y lealtad suprema— produce valentía, no cobardía. Su ejemplo anticipa el principio apostólico: 'Es necesario obedecer a Dios antes que a los hombres' (Hechos 5:29)."
         },
         {
           "tipo": "escritura",
           "referencia": "Éxodo 3:2–6",
-          "texto": "Y se le apareció el Ángel del Señor en una llama de fuego en medio de una zarza; y él miró, y vio que la zarza ardía en fuego, y la zarza no se consumía… Y dijo: No te acerques; quita tu calzado de tus pies, porque el lugar en que tú estás, tierra santa es. Y dijo: Yo soy el Dios de tu padre, el Dios de Abraham, el Dios de Isaac, y el Dios de Jacob. Entonces Moisés cubrió su rostro, porque tuvo miedo de mirar a Dios.",
+          "texto": "Y se le apareció el ángel de Jehová en una llama de fuego en medio de una zarza; y él miró y vio que la zarza ardía en fuego, mas la zarza no se consumía. Entonces Moisés dijo: Iré yo ahora y veré esta gran maravilla, por qué causa la zarza no se quema. Y viendo Jehová que él iba a mirar, lo llamó Dios de en medio de la zarza y dijo: ¡Moisés, Moisés! Y él respondió: Heme aquí. Y dijo: No te acerques acá; quita el calzado de tus pies, porque el lugar en que tú estás tierra santa es. Y dijo: Yo soy el Dios de tu padre, el Dios de Abraham, el Dios de Isaac y el Dios de Jacob. Entonces Moisés cubrió su rostro, porque tuvo miedo de mirar a Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/3?lang=spa&id=p2-p6#p2",
           "comentario": "La zarza ardiente es uno de los símbolos más ricos del Antiguo Testamento: fuego que ilumina sin consumir. Teológicamente sugiere la presencia divina que transforma sin destruir. El mandato de quitar el calzado es una señal de reverencia: el suelo sagrado requiere humildad y desapego de lo ordinario antes de encontrarse con lo divino. El templo, como la zarza, es el lugar donde el Señor se revela, y entra en él requiere una preparación similar."
         },
         {
           "tipo": "escritura",
-          "referencia": "Éxodo 3:11–12; 4:10–12",
-          "texto": "Entonces Moisés respondió a Dios: ¿Quién soy yo para que vaya a Faraón, y saque de Egipto a los hijos de Israel? Y él respondió: Ve, porque yo estaré contigo… Y dijo Moisés al Señor: ¡Ay, Señor! nunca he sido hombre de fácil palabra, ni antes, ni desde que tú hablas a tu siervo; porque soy tardo en el habla y torpe de lengua. Y el Señor le dijo: ¿Quién dio la boca al hombre?… ¿No soy yo el Señor? Ahora pues, ve, y yo estaré con tu boca, y te enseñaré lo que hayas de hablar.",
-          "comentario": "Moisés presentó cuatro objeciones antes de aceptar el llamamiento: falta de identidad ('¿Quién soy yo?'), falta de conocimiento ('¿Quién eres tú?'), falta de credibilidad ('¿Y si no me creen?') y falta de elocuencia. Dios respondió cada una no resolviendo las debilidades de Moisés, sino prometiendo Su propia presencia y poder. La lección es eterna: el Señor no espera que estemos equipados para llamarnos; Él es el equipamiento."
+          "referencia": "Éxodo 3:11–12",
+          "texto": "Entonces Moisés respondió a Dios: ¿Quién soy yo para que vaya a Faraón y saque de Egipto a los hijos de Israel? Y él le respondió: Ve, porque yo estaré contigo; y esto te será por señal de que yo te he enviado: Cuando hayas sacado de Egipto al pueblo, serviréis a Dios sobre este monte.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/3?lang=spa&id=p11-p12#p11",
+          "comentario": "«¿Quién soy yo para que vaya a Faraón?». La primera objeción de Moisés es de identidad, y la respuesta del Señor no lo contradice: no le dice «sí eres capaz», le dice «yo estaré contigo». Dios no resolvió la debilidad de Moisés; le ofreció Su presencia, que es otra cosa. La señal que le da es curiosa, porque solo se cumple después de obedecer: «serviréis a Dios sobre este monte». Primero hay que salir; recién después se ve la confirmación."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Éxodo 4:10–12",
+          "texto": "Entonces dijo Moisés a Jehová: ¡Ay, Señor! Yo no soy hombre de fácil palabra, ni en el pasado, ni desde que tú hablas a tu siervo, porque soy tardo en el habla y torpe de lengua. Y Jehová le respondió: ¿Quién dio la boca al hombre? ¿O quién hizo al mudo y al sordo, al que ve y al ciego? ¿No soy yo, Jehová? Ahora pues, ve, que yo estaré en tu boca, y te enseñaré lo que has de decir.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/4?lang=spa&id=p10-p12#p10",
+          "comentario": "La última objeción de Moisés es la de la elocuencia: «soy tardo en el habla y torpe de lengua». La respuesta del Señor va más atrás que el problema: «¿Quién dio la boca al hombre?». El argumento no es que Moisés hable bien, sino que quien lo envía es el mismo que hizo la boca con la que va a hablar. Con esas objeciones y sus respuestas, Éxodo 3–4 se vuelve el pasaje bíblico del llamamiento: el Señor no llama a los preparados, prepara a los llamados."
         },
         {
           "tipo": "escritura",
           "referencia": "Éxodo 6:6–8",
-          "texto": "Por tanto, di a los hijos de Israel: Yo soy el Señor; y yo os sacaré de debajo de las tareas pesadas de Egipto, y os libraré de su servidumbre, y os redimiré con brazo extendido, y con juicios grandes; y os tomaré por mi pueblo y seré vuestro Dios; y vosotros sabréis que yo soy el Señor vuestro Dios, que os saqué de debajo de las tareas pesadas de Egipto. Y os meteré en la tierra por la cual alcé mi mano jurando que la daría a Abraham, a Isaac y a Jacob.",
+          "texto": "Por tanto, dirás a los hijos de Israel: Yo soy Jehová; y yo os sacaré de debajo de las pesadas cargas de Egipto, y os libraré de su servidumbre y os redimiré con brazo extendido y con grandes juicios. Y os tomaré como mi pueblo y seré vuestro Dios; y vosotros sabréis que yo soy Jehová vuestro Dios, que os sacó de debajo de las pesadas cargas de Egipto. Y os llevaré a la tierra por la cual alcé mi mano jurando que la daría a Abraham, a Isaac y a Jacob; y yo os la daré por heredad. Yo Jehová.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/ex/6?lang=spa&id=p6-p8#p6",
           "comentario": "Este pasaje contiene cinco verbos de acción divina: sacaré, libraré, redimiré, tomaré, meteré. Cada uno describe una etapa del proceso de salvación. El patrón no es solo histórico —Israel de Egipto— sino tipológico: describe la obra del Salvador al liberar a cada alma de la esclavitud del pecado. El Éxodo de Egipto es el prototipo del Éxodo espiritual que Jesucristo realiza en la vida de cada discípulo."
         },
         {
           "tipo": "cita",
-          "autor": "Élder D. Todd Christofferson",
-          "fuente": "«Redención», Liahona, mayo de 2013, pág. 109.",
-          "texto": "La promesa del Señor a Israel —'os sacaré, os libraré, os redimiré'— es también Su promesa a cada uno de nosotros. El Éxodo físico de Egipto fue una sombra del Éxodo espiritual que el Salvador ofrece: liberarnos del pecado, de la muerte, de todo aquello que nos tiene atados. Él es nuestro Moisés eterno.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/2013/04/redemption?lang=spa"
+          "autor": "Presidente Henry B. Eyring",
+          "fuente": "«Elévense a la altura de su llamamiento», Liahona, noviembre de 2002, pág. 77.",
+          "texto": "Habrá ocasiones en las que se sienta abrumado. Uno de los ataques que recibirá será mediante el sentimiento de que usted resulta inadecuado; y sí, es inadecuado para aceptar el llamamiento de representar al Salvador únicamente con sus propias fuerzas; pero usted tiene acceso a más que sus facultades naturales y no trabaja solo. El Señor magnificará lo que usted diga y haga a los ojos de la gente a la que preste servicio.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2002/10/rise-to-your-call?lang=spa"
         },
         {
           "tipo": "cita",
           "autor": "Presidente Russell M. Nelson",
-          "fuente": "«Revelación para la Iglesia, revelación para nuestras vidas», Liahona, mayo de 2018, pág. 93.",
-          "texto": "El Señor le dijo a Moisés: 'Yo estaré contigo'. Esa misma promesa es tuya y mía. Cuando el Señor nos pide hacer algo difícil, Su respuesta a nuestra duda no es eliminar la dificultad, sino prometernos Su presencia. Con Él, lo imposible se vuelve posible.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa"
+          "fuente": "«Cómo obtener el poder de Jesucristo en nuestra vida», Liahona, mayo de 2017, pág. 40.",
+          "texto": "Los discípulos verdaderos de Jesucristo están dispuestos a destacarse, defender sus principios y ser diferentes a la gente del mundo. Son impávidos, devotos y valientes.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa#p18"
         },
         {
           "tipo": "parrafo",
@@ -63,10 +78,12 @@
         {
           "tipo": "reflexion",
           "preguntas": [
-            "Las parteras hebreas arriesgaron sus vidas por obedecer a Dios antes que al Faraón. ¿Has tenido que elegir entre obedecer a Dios y obedecer a una autoridad humana? ¿Qué te ayudó a elegir correctamente?",
-            "Moisés encontró al Señor en el desierto, cuidando ovejas, en un lugar ordinario. ¿En qué lugares o momentos ordinarios de tu vida has sentido la presencia del Señor?",
-            "Moisés puso cuatro objeciones antes de aceptar su llamamiento. ¿Qué objeciones has puesto tú ante los llamados del Señor en tu vida? ¿Cómo respondió Él a cada una?",
-            "Los cinco verbos de Éxodo 6 describen lo que Dios hace por Su pueblo: sacar, librar, redimir, tomar, meter. ¿En cuál de esas etapas te sientes actualmente en tu camino personal con el Señor?"
+            "Las parteras hebreas arriesgaron sus vidas por obedecer a Dios antes que al Faraón. ¿Alguna vez tuviste que elegir entre obedecer a Dios y obedecer a una autoridad humana? ¿Qué te ayudó a decidir?",
+            "Moisés encontró al Señor mientras cuidaba ovejas, en un lugar del todo ordinario. ¿En qué momento común de tu semana te resultaría más raro esperar la voz de Dios?",
+            "Vuelve a leer Éxodo 3:11–12 y Éxodo 4:10–12 y anota, para cada objeción de Moisés, cuál fue exactamente la respuesta del Señor. ¿Qué tienen en común esas respuestas?",
+            "El presidente Eyring dijo que el sentimiento de ser inadecuado es un ataque, no un diagnóstico. ¿En qué llamamiento, tarea o relación te sientes inadecuado hoy?",
+            "Los cinco verbos de Éxodo 6:6–8 describen lo que Dios hace por Su pueblo: sacar, librar, redimir, tomar y meter. Ora esta semana pidiendo ver en cuál de esas etapas estás, y anota lo que te venga a la mente.",
+            "Elige un ámbito concreto donde te toque «destacarte», como dijo el presidente Nelson, y decide una sola cosa que harás distinto esta semana."
           ]
         }
       ]
@@ -75,58 +92,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué providencia divina protegió la vida de Moisés desde su nacimiento en Éxodo 2?",
+      "question": "Según Éxodo 1:15–17, ¿qué motivo da el texto para explicar por qué las parteras hebreas desobedecieron la orden del rey de Egipto?",
       "options": [
-        "Su madre lo escondió en una cesta y lo halló la hija de Faraón.",
-        "Una familia israelita lo escondió durante diez años sin ser descubiertos.",
-        "Los israelitas sobornaron a los guardias para protegerlo.",
-        "Un ángel lo llevó directamente al desierto para protegerlo."
+        "Que temieron a Dios y por eso no hicieron como el rey les había mandado.",
+        "Que la orden del rey no había sido puesta por escrito ni confirmada ante testigos.",
+        "Que confiaban en que Faraón nunca llegaría a enterarse del asunto.",
+        "Que los padres hebreos les habían pagado para que salvaran a los recién nacidos."
       ],
       "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "¿Qué aspecto del carácter del Señor se revela en Éxodo 3:7 al describir Su conocimiento del sufrimiento de Israel?",
+      "question": "En la zarza ardiente, el Señor le ordenó a Moisés quitarse el calzado. ¿Qué razón dio el texto de Éxodo 3 para esa instrucción?",
       "options": [
-        "Que el Señor actuó tarde porque tenía otras prioridades.",
-        "Que el Señor ha visto la aflicción de Su pueblo, escuchado su clamor y conoce sus pesares.",
-        "Que el Señor solo responde cuando el sufrimiento dura más de cuarenta años.",
-        "Que el Señor necesitaba a Moisés para poder enterarse del sufrimiento de Israel."
+        "Que así se presentaban los siervos ante los reyes de Egipto.",
+        "Que el lugar donde estaba parado era tierra santa.",
+        "Que debía dejar allí toda señal de su pasado en el palacio de Egipto.",
+        "Que el fuego de la zarza podía dañar el calzado de un pastor."
       ],
       "correctAnswer": 1
     },
     {
       "id": 3,
-      "question": "Cuando Moisés preguntó el nombre de Dios en la zarza ardiendo, ¿qué respondió el Señor en Éxodo 3:14?",
+      "question": "Moisés objetó «¿quién soy yo para que vaya a Faraón?» y el Señor respondió «yo estaré contigo». ¿Qué muestra esa respuesta sobre la manera en que Dios trata la debilidad de quienes llama?",
       "options": [
-        "\"Soy el Dios de las naciones.\"",
-        "\"Soy el Creador del cielo y la tierra.\"",
-        "«YO SOY EL QUE SOY».",
-        "\"Soy el Dios de Egipto y de Israel.\""
+        "Que espera a que el llamado se sienta preparado del todo antes de enviarlo a servir.",
+        "Que corrige primero cada defecto del llamado y después le encomienda la misión.",
+        "Que no niega la debilidad, sino que ofrece Su presencia como respuesta.",
+        "Que suele reemplazar al llamado por alguien de mayores capacidades naturales."
       ],
       "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "¿Qué señales le dio el Señor a Moisés en Éxodo 4 para que el pueblo creyera que había sido enviado por Dios?",
+      "question": "El comentario de la lección llama a Éxodo 6:6–8 un patrón tipológico por sus cinco verbos: sacaré, libraré, redimiré, tomaré y meteré. ¿Qué quiere decir eso?",
       "options": [
-        "El poder de invocar lluvia y fuego del cielo a voluntad.",
-        "La habilidad de multiplicar alimentos y dividir ríos.",
-        "La capacidad de hablar todos los idiomas y curar enfermedades.",
-        "La vara, la mano leprosa y el agua vuelta sangre."
+        "Que los cinco verbos debían repetirse en las oraciones familiares de Israel cada mañana.",
+        "Que el texto hebreo original usaba cinco nombres distintos para Dios.",
+        "Que la liberación se cumpliría en cinco etapas históricas sucesivas.",
+        "Que el relato del Éxodo describe también la obra de Jesucristo al librar a cada alma del pecado."
       ],
       "correctAnswer": 3
     },
     {
       "id": 5,
-      "question": "¿Qué principio sobre el llamado al servicio podemos aprender de la experiencia de Moisés en la zarza ardiendo?",
+      "question": "A Rocío le pidieron dirigir un proyecto de servicio en su barrio y respondió que no sirve para hablar en público ni sabe organizar gente. Según lo que el Señor le contestó a Moisés y la enseñanza del presidente Eyring, ¿qué le convendría entender?",
       "options": [
-        "Que el Señor llama a personas imperfectas y promete estar con ellas.",
-        "Que los llamados importantes siempre vienen acompañados de riqueza y reconocimiento.",
-        "Que Dios solo llama a quienes tienen elocuencia y habilidades naturales.",
-        "Que debemos rechazar los llamados si no nos sentimos preparados."
+        "Que sí es inadecuada por sus propias fuerzas, pero no trabaja sola: el Señor magnifica lo que haga.",
+        "Que la timidez desaparece siempre en cuanto uno empieza a servir a los demás.",
+        "Que sentirse inadecuada es una señal confiable de que ese llamado no era para ella todavía.",
+        "Que debería aceptar solo si antes consigue capacitación formal en liderazgo."
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Gonzalo trabaja en una oficina donde todos se burlan de un compañero y él se ríe para no quedar afuera del grupo. Según el ejemplo de las parteras y la enseñanza del presidente Nelson, ¿qué sería lo más coherente con la lección?",
+      "options": [
+        "Cambiar de trabajo, porque el ambiente no le permite vivir sus principios.",
+        "Estar dispuesto a destacarse y ser distinto del resto aunque le cueste algo.",
+        "Denunciar el caso ante sus superiores antes de intentar cualquier otra medida.",
+        "Esperar a que otro compañero tome la iniciativa de frenar las burlas."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Las parteras hebreas y Moisés aparecen en la misma lección como dos respuestas al mismo poder de Faraón. ¿En qué se parecen sus dos historias?",
+      "options": [
+        "En que ninguno de los dos llegó a ver las consecuencias de lo que había hecho.",
+        "En que los dos ocuparon cargos de autoridad dentro de la corte de Egipto.",
+        "En que los dos obedecieron a Dios antes que al hombre, sin sentirse los indicados.",
+        "En que los dos actuaron después de recibir una visión en el desierto de Madián, junto al monte."
+      ],
+      "correctAnswer": 2
     }
   ]
 }

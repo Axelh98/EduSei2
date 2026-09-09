@@ -9,40 +9,54 @@
           "texto": "El libro de Números narra los cuarenta años de peregrinación de Israel por el desierto —el período más costoso de su historia— causado en gran medida por su propia incredulidad. El informe de los doce espías enviados a Canaán es el pivote narrativo: diez regresaron con un informe basado en el miedo ('somos como langostas ante ellos'), y dos —Josué y Caleb— regresaron con uno basado en la fe ('si el Señor se agradare de nosotros, él nos llevará'). La diferencia no estaba en lo que vieron —todos vieron los mismos gigantes y ciudades amuralladas— sino en a quién miraban. El miedo mira al problema; la fe mira a Dios."
         },
         {
+          "tipo": "parrafo",
+          "texto": "Números es el libro de una generación que se quedó a mitad de camino, y por eso incomoda más que otros. La distancia entre Egipto y Canaán se recorre a pie en cuestión de semanas; a Israel le llevó cuarenta años, y no por el terreno. Ese dato conviene tenerlo cerca al leer, porque el libro no habla de gente peor que nosotros. Habla de gente que ya había visto el mar abrirse y que, aun así, calculó sus posibilidades sin contar con Dios. Lo que sigue —la murmuración, las serpientes, el episodio de Balaam— son variaciones de ese mismo error."
+        },
+        {
           "tipo": "escritura",
-          "referencia": "Números 13:30; 14:6–9",
-          "texto": "Entonces Caleb hizo callar al pueblo delante de Moisés, y dijo: Subamos luego, y tomemos posesión de ella; porque más podremos nosotros que ellos… Y Josué hijo de Nun y Caleb hijo de Jefone, que eran de los que habían reconocido la tierra, rompieron sus vestidos. Y hablaron a toda la congregación de los hijos de Israel, diciendo: La tierra por donde pasamos para reconocerla, es tierra en gran manera buena. Si el Señor se agradare de nosotros, él nos llevará a esta tierra, y nos la entregará; tierra que fluye leche y miel. Por tanto, no seáis rebeldes contra el Señor, ni temáis al pueblo de esta tierra; porque nosotros los comeremos como pan; su amparo se ha apartado de ellos, y con nosotros está el Señor.",
-          "comentario": "El contraste entre los diez espías y Josué y Caleb es uno de los más elocuentes del Antiguo Testamento sobre el poder de la perspectiva de fe. Los diez vieron obstáculos gigantescos y se vieron pequeños. Josué y Caleb vieron al Señor y vieron a los obstáculos pequeños. La misma geografía, los mismos enemigos, la misma información —pero una interpretación radicalmente diferente, basada en quién confían."
+          "referencia": "Números 13:30",
+          "texto": "Entonces Caleb hizo callar al pueblo delante de Moisés, y dijo: Subamos enseguida, y poseámosla, porque ciertamente podremos apoderarnos de ella.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/num/13?lang=spa&id=p30#p30",
+          "comentario": "Caleb habla primero y habla solo. Los otros diez no dijeron mentiras: describieron con exactitud las ciudades amuralladas y la estatura de sus habitantes. La diferencia no está en los datos, sino en lo que cada informe deja afuera. El de Caleb incluye al Señor en la cuenta; el de los diez, no. Es la razón por la que dos hombres pueden mirar el mismo problema y describir dos mundos distintos."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Números 14:6–9",
+          "texto": "Y Josué hijo de Nun y Caleb hijo de Jefone, que eran de los que habían reconocido la tierra, rasgaron sus vestidos; y hablaron a toda la congregación de los hijos de Israel, diciendo: La tierra por donde pasamos para reconocerla es tierra en gran manera buena. Si Jehová se agrada de nosotros, él nos llevará a esa tierra y nos la entregará; es una tierra que fluye leche y miel. Por tanto, no seáis rebeldes contra Jehová, ni temáis al pueblo de esta tierra, porque son como pan para nosotros; su amparo se ha apartado de ellos y con nosotros está Jehová. No los temáis.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/num/14?lang=spa&id=p6-p9#p6",
+          "comentario": "Josué y Caleb rasgan sus vestidos, que es el gesto del duelo: no están discutiendo una estrategia militar, están viendo a un pueblo entero a punto de perder una promesa. Su argumento tampoco es que Israel sea fuerte. Es que el amparo de los cananeos «su amparo se ha apartado de ellos y con nosotros está Jehová». La fe que describen no consiste en negar a los gigantes, sino en no dejar a Dios fuera del cálculo."
         },
         {
           "tipo": "escritura",
           "referencia": "Números 21:8–9",
-          "texto": "Y el Señor dijo a Moisés: Hazte una serpiente ardiente, y ponla sobre una asta; y cualquiera que fuere mordido y mirare a ella, vivirá. Y Moisés hizo una serpiente de bronce, y la puso sobre una asta; y cuando alguna serpiente mordía a alguno, miraba a la serpiente de bronce, y vivía.",
+          "texto": "Y Jehová dijo a Moisés: Hazte una serpiente ardiente y ponla sobre un asta; y acontecerá que cualquiera que sea mordido y la mire, vivirá. Y Moisés hizo una serpiente de bronce y la puso sobre un asta, y sucedía que cuando una serpiente mordía a alguno, y este miraba a la serpiente de bronce, vivía.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/num/21?lang=spa&id=p8-p9#p8",
           "comentario": "Jesucristo Mismo interpretó este símbolo: 'Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado' (Juan 3:14–15). La serpiente de bronce era una tipología perfecta: quienes eran mordidos por el veneno del pecado podían mirar al que sería levantado en la cruz y vivir. No se exigió ningún ritual complejo, ninguna pureza previa. Solo mirar. El acceso a la Expiación de Cristo es igualmente simple y radical: mirar a Él con fe."
         },
         {
           "tipo": "escritura",
           "referencia": "Números 27:15–18, 20",
-          "texto": "Entonces respondió Moisés al Señor, diciendo: Ponga el Señor, Dios de los espíritus de toda carne, un varón sobre la congregación, que salga delante de ellos y que entre delante de ellos, que los saque y los introduzca, para que la congregación del Señor no sea como ovejas sin pastor. Y el Señor dijo a Moisés: Toma a Josué hijo de Nun, varón en el cual hay espíritu, y pondrás tu mano sobre él… Y pondrás de tu dignidad sobre él, para que toda la congregación de los hijos de Israel le obedezca.",
+          "texto": "Entonces respondió Moisés a Jehová, diciendo: Ponga Jehová, Dios de los espíritus de toda carne, un hombre sobre la congregación, que salga delante de ellos y que entre delante de ellos, que los saque y los introduzca, para que la congregación de Jehová no sea como ovejas sin pastor. Y Jehová dijo a Moisés: Toma a Josué hijo de Nun, hombre en el cual hay espíritu, y pon tu mano sobre él; Y pondrás de tu dignidad sobre él, para que toda la congregación de los hijos de Israel le obedezca.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/num/27?lang=spa&id=p15-p20#p15",
           "comentario": "La transferencia de autoridad de Moisés a Josué ilustra el principio de la sucesión apostólica: el liderazgo de la Iglesia no muere con el profeta; se transfiere mediante ordenación con autoridad. Moisés, en lugar de aferrarse a su posición, intercedió ante el Señor para que el pueblo tuviera un pastor. Este acto de humildad ante la propia mortalidad es uno de los momentos más nobles de todo el ministerio de Moisés."
         },
         {
           "tipo": "cita",
-          "autor": "Élder Neal A. Maxwell",
-          "fuente": "«Mirando a Jesucristo», Liahona, diciembre de 1987.",
-          "texto": "Como la serpiente de bronce en el desierto, Jesucristo fue levantado para que todos los que miran a Él puedan vivir. No mirar es la única razón por la que alguien muere espiritualmente. El remedio siempre ha estado disponible; la única condición es la disposición a mirar. El orgullo, la distracción y la autosuficiencia son los únicos velos que impiden ver.",
-          "link": "https://www.churchofjesuschrist.org/study/ensign/1987/12/looking-unto-jesus?lang=spa"
+          "autor": "Presidente Russell M. Nelson",
+          "fuente": "«La respuesta siempre es Jesucristo», Liahona, mayo de 2023, pág. 127.",
+          "texto": "Queridos hermanos y hermanas, Jesucristo les extiende esa misma invitación hoy. ¡Les ruego que vengan a Él para que Él pueda sanarlos a ustedes! Él los sanará del pecado, conforme se arrepientan; los sanará de la tristeza y del miedo; los sanará de las heridas de este mundo.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/04/58nelson?lang=spa#p7"
         },
         {
           "tipo": "cita",
-          "autor": "Élder Jeffrey R. Holland",
-          "fuente": "«Sed optimistas», Liahona, junio de 2007.",
-          "texto": "Josué y Caleb vieron los mismos gigantes que los otros diez espías. La diferencia no estaba en su agudeza visual, sino en su fe. Si el Señor está con nosotros, no importa cuán grandes sean los obstáculos. La fe ve más allá del tamaño del problema y mira al tamaño de Dios.",
-          "link": "https://www.churchofjesuschrist.org/study/liahona/2007/06/be-ye-therefore-perfect-eventually?lang=spa"
+          "autor": "Élder Neil L. Andersen",
+          "fuente": "«Heridos», Liahona, noviembre de 2018, pág. 84.",
+          "texto": "Buscamos la felicidad, anhelamos la paz, deseamos que haya amor, y el Señor derrama sobre nosotros una asombrosa abundancia de bendiciones. Pero, entremezclada con el gozo y la felicidad, una cosa es segura: habrá momentos, horas, días, a veces años, en los que su alma estará herida.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/wounded?lang=spa#p14"
         },
         {
           "tipo": "parrafo",
-          "texto": "La historia de Balaam en Números 22–24 introduce una paradoja notable: un profeta que conoce la voz de Dios pero cuyo corazón está dividido por el amor al dinero y la fama. El Señor permitió que la burra de Balaam hablara para detenerlo, pero la lección no es el milagro: es la advertencia de que el conocimiento de la voluntad de Dios no garantiza la fidelidad a ella. Balaam sabía lo que Dios quería; el problema era lo que Balaam quería. El conocimiento sin la conversión del corazón es insuficiente para sostener el discipulado."
+          "texto": "Balaam, en Números 22–24, es una paradoja notable: un profeta que conoce la voz de Dios y tiene el corazón dividido por el amor al dinero y a la fama. El Señor permitió que su asna hablara para detenerlo, pero la lección no es el milagro: conocer la voluntad de Dios no garantiza la fidelidad a ella. Balaam sabía lo que Dios quería; el problema era lo que Balaam quería. Frente a esa división, el libro deja el remedio en un símbolo: la serpiente de bronce levantada en el asta. Jesucristo la nombró para explicar Su propia cruz, y bastaba mirarla para vivir. Su misericordia no exige que resolvamos antes esa ambivalencia; pide el gesto de mirarlo a Él, y de ahí sale la sanación. Cuando notes el corazón dividido, no esperes a tenerlo entero para volver: mira primero."
         },
         {
           "tipo": "doctrinal",
@@ -57,10 +71,12 @@
         {
           "tipo": "reflexion",
           "preguntas": [
-            "Los diez espías y Josué y Caleb vieron lo mismo pero lo interpretaron de manera opuesta. ¿Ante qué desafíos actuales en tu vida tiendes a dar un 'informe de langostas' en lugar de un 'informe de fe'?",
-            "La serpiente de bronce solo requería mirar para sanar. ¿Qué te impide mirar más completamente a Cristo en los momentos de prueba? ¿Orgullo, distracción, sensación de indignidad?",
-            "Moisés intercedió ante el Señor para que el pueblo tuviera un pastor antes de su propia muerte. ¿Qué te dice eso sobre el tipo de líder que honra el Señor? ¿Cómo aplica ese modelo a tus propias responsabilidades actuales?",
-            "Balaam conocía la voz de Dios pero su corazón estaba dividido. ¿Hay áreas en tu vida donde conoces la voluntad del Señor pero tu corazón sigue dividido? ¿Qué podría ayudarte a unificar tu corazón?"
+            "Los diez espías y Josué y Caleb vieron exactamente lo mismo y contaron dos cosas distintas. ¿Ante qué desafío actual tiendes a dar el «informe de langostas»?",
+            "El élder Andersen dijo que habrá momentos, y a veces años, en que el alma esté herida. ¿Te resulta más fácil o más difícil creer eso de lo que te enseñaron sobre la vida de fe?",
+            "Vuelve a leer Números 21:8–9 y fíjate exactamente en qué se les pedía a los mordidos que hicieran. ¿Cuán difícil era esa instrucción, y por qué crees que muchos igual no la siguieron?",
+            "Jesucristo usó esa serpiente para hablar de Su cruz. ¿Qué cambia en tu manera de leer Números 21 cuando lo escuchas dicho por Él?",
+            "El presidente Nelson rogó que vengamos a Él para ser sanados de las heridas de este mundo. Ora esta semana nombrando una herida concreta y anota lo que sientas después.",
+            "Balaam sabía lo que Dios quería y quería otra cosa. Elige un solo punto en el que tu conducta y tu convicción no coinciden, y decide un paso concreto para acercarlas esta semana."
           ]
         }
       ]
@@ -69,58 +85,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál fue la consecuencia de que los espías enviados a Canaán regresaran con un informe de incredulidad en Números 13–14?",
+      "question": "Según Números 13:30, ¿qué dijo Caleb al pueblo después del informe de los espías?",
       "options": [
-        "El Señor encontró una ruta alternativa para que entraran a la tierra.",
-        "Moisés fue castigado por haber enviado los espías.",
-        "El pueblo decidió atacar inmediatamente a pesar del informe negativo.",
-        "Cuarenta años de desierto, hasta que murió esa generación."
+        "Que enviaran una segunda expedición para confirmar todo lo que habían visto.",
+        "Que negociaran un tratado de paz con los habitantes de la tierra.",
+        "Que era mejor esperar una generación entera antes de intentar la conquista.",
+        "Que subieran y tomaran posesión, porque ciertamente podrían más que ellos."
       ],
       "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué distinguió el informe de Caleb y Josué del informe de los demás diez espías en Números 13–14?",
+      "question": "Según Números 21:8–9, ¿qué debían hacer los israelitas mordidos por las serpientes para vivir?",
       "options": [
-        "Confiaron en el Señor y no en el tamaño del enemigo.",
-        "Caleb y Josué propusieron una alianza con los habitantes de Canaán.",
-        "Caleb y Josué dijeron que la tierra no valía la pena conquistar.",
-        "Caleb y Josué exageraron los peligros para que el pueblo fuera más cuidadoso."
+        "Mirar la serpiente de bronce que Moisés había puesto sobre el asta.",
+        "Beber del agua que Moisés hizo brotar de la peña en las aguas de Meriba.",
+        "Ofrecer un sacrificio de expiación sobre el altar que estaba en el tabernáculo.",
+        "Confesar en voz alta su murmuración delante de todo el campamento de Israel."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué simbolizaba la serpiente de bronce que Moisés levantó en el desierto según Números 21?",
+      "question": "Diez espías y dos espías vieron lo mismo y trajeron informes opuestos. Según el contexto y los comentarios de la lección, ¿dónde está la diferencia entre ambos informes?",
       "options": [
-        "La sabiduría médica que el Señor le dio a Israel.",
-        "A Cristo levantado en la cruz, para sanar a quien mirara con fe.",
-        "La victoria de Israel sobre sus enemigos en el desierto.",
-        "El poder de Moisés sobre los animales del desierto."
+        "En que los dos habían recorrido una zona bastante más fértil que el resto del grupo.",
+        "En que los dos incluyeron al Señor en el cálculo y los diez lo dejaron afuera.",
+        "En que los diez hablaron primero y arrastraron la opinión de la multitud.",
+        "En que los diez exageraron el tamaño real de las ciudades amuralladas."
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué nos enseña la actitud de murmuración y queja constante de Israel en el desierto?",
+      "question": "La lección presenta la serpiente de bronce como una tipología de Jesucristo. ¿Qué aspecto del símbolo sostiene esa lectura?",
       "options": [
-        "Que quejarse es una forma válida de comunicarse con el Señor.",
-        "Que era razonable quejarse dadas las difíciles condiciones del desierto.",
-        "Que la ingratitud y la falta de fe nos impiden recibir las bendiciones.",
-        "Que el Señor era demasiado estricto con el pueblo de Israel."
+        "Que Moisés la fabricó con sus propias manos siguiendo un patrón que le fue revelado.",
+        "Que fue conservada dentro del arca del convenio durante toda la peregrinación.",
+        "Que fue levantada en un asta y bastaba mirarla con fe para recibir la vida.",
+        "Que estaba hecha de bronce, el mismo metal del altar de los holocaustos."
       ],
       "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "¿Qué lección sobre la confianza en el Señor podemos aprender del ejemplo de Josué al ser llamado como sucesor de Moisés en Números 27?",
+      "question": "Lorena sabe desde hace meses que debería reconciliarse con su hermano, y en cambio se dedica a estudiar el Evangelio con más intensidad que nunca. Según lo que la lección enseña sobre Balaam, ¿qué habría que decirle?",
       "options": [
-        "Que Josué era superior a Moisés en todos los aspectos.",
-        "Que el liderazgo siempre debe heredarse dentro de la misma familia.",
-        "Que los líderes deben buscar el poder por sus propios méritos.",
-        "Que el Señor designa a Sus siervos antes de necesitarlos."
+        "Que primero conviene sentir el deseo de reconciliarse y después dar el paso.",
+        "Que la reconciliación es asunto del hermano y no una responsabilidad suya.",
+        "Que el estudio adicional terminará resolviendo por sí solo ese conflicto familiar.",
+        "Que conocer la voluntad de Dios no equivale a hacerla; el corazón sigue dividido."
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Ezequiel arrastra desde hace años una herida que lo avergüenza y por eso evita orar sobre el tema. Según la enseñanza del presidente Nelson citada en la lección, ¿qué sería lo más coherente?",
+      "options": [
+        "Venir a Él tal como está, porque Él sana las heridas de este mundo.",
+        "Esperar a sentirse digno antes de llevarle ese asunto al Señor en oración.",
+        "Tratar el tema con un amigo de confianza en lugar de mencionárselo a Dios.",
+        "Asumir que ciertas heridas del pasado quedan fuera del alcance de la oración."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "El informe de los espías y el episodio de la serpiente de bronce cuentan dos fracasos de la misma generación. ¿Qué diferencia hay entre lo que se les pidió en cada caso?",
+      "options": [
+        "En el primero la falta fue de unos pocos y en el segundo, de todo el pueblo.",
+        "En el primero se les pidió confiar antes de ver; en el segundo, solo mirar y vivir.",
+        "En el primero intervino Moisés y en el segundo actuó Josué en su lugar.",
+        "En el primero el Señor guardó silencio y en el segundo respondió de inmediato."
+      ],
+      "correctAnswer": 1
     }
   ]
 }

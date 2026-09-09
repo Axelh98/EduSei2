@@ -19,9 +19,11 @@
 //   - "clásica": secciones contexto / escrituras / enseñanza / conclusion / cuestionario
 //   - "resumen": una sola sección tipo "resumen" con bloques (parrafo, escritura,
 //     cita, doctrinal, reflexion) — la usan religion-225 y parte de religion-301.
-// Este script aplica las reglas de la skill de enriquecimiento a la clásica
-// (es la que esa skill genera) y solo hace un conteo de bloques para la de
-// resumen — no hay una spec de largo documentada para esa convención todavía.
+// Desde el 9-sep-2026 el script mide LAS DOS: `normalizar-resumen.ts` lleva los
+// bloques de la convención `resumen` a la forma clásica con la spec fijada en
+// docs/auditorias/BITACORA-r225.md. Antes hacía `continue` sobre `resumen` y solo
+// las contaba, con lo que un curso podía declararse cerrado mirando 5 de 25
+// lecciones (era el caso de religion-301).
 //
 //   npx tsx scripts/audit-completitud.ts <categoria> [...]
 //   npx tsx scripts/audit-completitud.ts --todos
@@ -31,6 +33,7 @@ import { readFileSync, readdirSync, existsSync } from "node:fs"
 import { join } from "node:path"
 import { categories } from "../lib/content/registry"
 import { isFlatCategory } from "../lib/types"
+import { normalizar, DOCTRINAL_MIN, DOCTRINAL_MAX } from "./normalizar-resumen"
 
 const CONTENT_DIR = join(process.cwd(), "lib", "content")
 
@@ -75,6 +78,7 @@ function auditarCategoria(categoryId: string, detalle: boolean) {
   const contextoFuera: Hallazgo[] = []
   const conclusionFuera: Hallazgo[] = []
   const cuestionarioFuera: Hallazgo[] = []
+  const doctrinalFuera: Hallazgo[] = []
   const quizFuera: Hallazgo[] = []
   const sinEnseñanza: Hallazgo[] = []
   const sinConclusion: Hallazgo[] = []
@@ -87,37 +91,39 @@ function auditarCategoria(categoryId: string, detalle: boolean) {
     const secciones = j.secciones ?? []
     if (!secciones.length) { vacias++; continue }
 
-    if (secciones.some((s: any) => s.tipo === "resumen")) { resumen++; continue }
-    clasica++
+    const n_ = normalizar(secciones)
+    if (n_.convencion === "resumen") resumen++
+    else clasica++
 
-    const ctx = secciones.find((s: any) => s.tipo === "contexto")
-    if (ctx) {
+    if (n_.contexto) {
       conContexto++
-      const n = palabras(join_(ctx.contenido))
+      const n = palabras(n_.contexto)
       if (n < CONTEXTO_MIN || n > CONTEXTO_MAX) contextoFuera.push({ lessonId, problema: `contexto ${n} palabras` })
     }
 
-    const nEnseñanza = secciones.filter((s: any) => s.tipo === "enseñanza").length
-    if (nEnseñanza === 0) {
+    if (n_.ensenanzas.length === 0) {
       conEnseñanza0++
       if (tipos.get(lessonId) === "Dominio de la Doctrina") dominioDoctrinaSinEnseñanza++
       else sinEnseñanza.push({ lessonId, problema: "sin cita de líder (enseñanza)" })
     }
 
-    const concl = secciones.find((s: any) => s.tipo === "conclusion")
-    if (concl) {
+    if (n_.tieneConclusion) {
       conConclusion++
-      const n = palabras(join_(concl.contenido))
+      const n = palabras(n_.conclusion)
       if (n < CONCLUSION_MIN || n > CONCLUSION_MAX) conclusionFuera.push({ lessonId, problema: `conclusion ${n} palabras` })
     } else {
-      sinConclusion.push({ lessonId, problema: "sin sección conclusion" })
+      // En la convención `resumen` esto significa un solo párrafo, que haría de contexto y de
+      // conclusión a la vez; en la clásica, que falta la sección.
+      sinConclusion.push({ lessonId, problema: n_.convencion === "resumen" ? "un solo párrafo: no hay cierre distinguible del contexto" : "sin sección conclusion" })
     }
 
-    const cuest = secciones.find((s: any) => s.tipo === "cuestionario")
-    if (cuest) {
-      const n = (cuest.preguntas ?? []).length
-      if (n !== CUESTIONARIO_ESPERADO) cuestionarioFuera.push({ lessonId, problema: `cuestionario con ${n} preguntas (se espera ${CUESTIONARIO_ESPERADO})` })
-    }
+    // Los puntos doctrinales son un bloque propio de la convención `resumen`; la clásica no los
+    // tiene y por eso no se le exigen.
+    if (n_.convencion === "resumen" && (n_.doctrinal.length < DOCTRINAL_MIN || n_.doctrinal.length > DOCTRINAL_MAX))
+      doctrinalFuera.push({ lessonId, problema: `doctrinal con ${n_.doctrinal.length} puntos (se esperan ${DOCTRINAL_MIN}-${DOCTRINAL_MAX})` })
+
+    if (n_.preguntas.length !== CUESTIONARIO_ESPERADO)
+      cuestionarioFuera.push({ lessonId, problema: `cuestionario con ${n_.preguntas.length} preguntas (se espera ${CUESTIONARIO_ESPERADO})` })
 
     const nQuiz = (j.questions ?? []).length
     if (nQuiz > 0) {
@@ -130,22 +136,25 @@ function auditarCategoria(categoryId: string, detalle: boolean) {
 
   console.log(`\n=== ${categoryId} (${files.length} archivos) ===`)
   console.log(`secciones: [] (sin material): ${vacias} | convención "resumen": ${resumen} | convención clásica: ${clasica}`)
-  if (clasica === 0) { console.log("(sin lecciones de convención clásica — nada más que chequear con las reglas de seminary-enrichment)"); return }
-  console.log(`contexto: ${conContexto}/${clasica} presente, ${contextoFuera.length} fuera de rango ${CONTEXTO_MIN}-${CONTEXTO_MAX} palabras`)
+  const medidas = resumen + clasica
+  if (medidas === 0) { console.log("(sin lecciones con material que medir)"); return }
+  console.log(`contexto: ${conContexto}/${medidas} presente, ${contextoFuera.length} fuera de rango ${CONTEXTO_MIN}-${CONTEXTO_MAX} palabras`)
   console.log(
-    `enseñanza: ${clasica - conEnseñanza0}/${clasica} con al menos una cita de líder, ` +
+    `enseñanza: ${medidas - conEnseñanza0}/${medidas} con al menos una cita de líder, ` +
     `${sinEnseñanza.length} sin ninguna` +
     (dominioDoctrinaSinEnseñanza ? ` (+ ${dominioDoctrinaSinEnseñanza} "Dominio de la Doctrina", esperado por su propio tipo)` : "")
   )
-  console.log(`conclusion: ${conConclusion}/${clasica} presente (${sinConclusion.length} sin la sección), ${conclusionFuera.length} fuera de rango ${CONCLUSION_MIN}-${CONCLUSION_MAX} palabras`)
-  console.log(`cuestionario: ${cuestionarioFuera.length}/${clasica} sin exactamente ${CUESTIONARIO_ESPERADO} preguntas reflexivas`)
-  console.log(`quiz: ${conQuiz}/${clasica} con preguntas (${sinQuiz.length} sin ninguna), ${quizFuera.length} sin exactamente ${QUIZ_ESPERADO}`)
+  console.log(`conclusion: ${conConclusion}/${medidas} presente (${sinConclusion.length} sin cierre distinguible), ${conclusionFuera.length} fuera de rango ${CONCLUSION_MIN}-${CONCLUSION_MAX} palabras`)
+  console.log(`cuestionario: ${cuestionarioFuera.length}/${medidas} sin exactamente ${CUESTIONARIO_ESPERADO} preguntas reflexivas`)
+  if (resumen) console.log(`doctrinal: ${doctrinalFuera.length}/${resumen} fuera de ${DOCTRINAL_MIN}-${DOCTRINAL_MAX} puntos (solo convención "resumen")`)
+  console.log(`quiz: ${conQuiz}/${medidas} con preguntas (${sinQuiz.length} sin ninguna), ${quizFuera.length} sin exactamente ${QUIZ_ESPERADO}`)
 
   if (detalle) {
     const grupos: [string, Hallazgo[]][] = [
       ["SIN ENSEÑANZA", sinEnseñanza], ["SIN CONCLUSION", sinConclusion], ["SIN QUIZ", sinQuiz],
       ["CONTEXTO FUERA DE RANGO", contextoFuera], ["CONCLUSION FUERA DE RANGO", conclusionFuera],
       ["CUESTIONARIO ≠ 6", cuestionarioFuera], ["QUIZ ≠ 7", quizFuera],
+      [`DOCTRINAL FUERA DE ${DOCTRINAL_MIN}-${DOCTRINAL_MAX}`, doctrinalFuera],
     ]
     for (const [titulo, lista] of grupos) {
       if (!lista.length) continue

@@ -9,40 +9,54 @@
           "texto": "El relato de la Creación es uno de los pasajes más estudiados de toda la historia religiosa, y sin embargo el mundo secular y el mundo religioso frecuentemente lo malinterpretan por igual. El Antiguo Testamento restaurado nos da tres relatos complementarios de la Creación: Génesis (el relato canónico), Moisés 2–3 (la traducción inspirada de José Smith) y Abraham 4–5 (el relato desde la perspectiva preterrenal). Juntos revelan que Jesucristo fue el creador activo de la tierra bajo la dirección del Padre, que la Creación fue deliberada y cuidadosa, y que el hombre y la mujer fueron creados a la imagen de Dios como corona de esa obra."
         },
         {
+          "tipo": "parrafo",
+          "texto": "Hay una pregunta previa que conviene despejar antes de entrar en los textos: qué está tratando de contestar el relato de la Creación. No es un informe de laboratorio ni pretende serlo; no explica mecanismos, explica intenciones. Dice quién hizo el mundo, para quién lo hizo y con qué cuidado. Discutir si los seis «días» son jornadas de veinticuatro horas es discutir algo que el texto nunca se propuso responder, y suele hacer perder lo que sí afirma con toda claridad: que este mundo fue pensado como casa, que quien lo organizó lo hizo por encargo del Padre, y que la persona humana es la última pieza que se coloca, no la primera que sobra."
+        },
+        {
           "tipo": "escritura",
           "referencia": "Moisés 2:1",
-          "texto": "Y aconteció que el Señor Dios habló a Moisés, diciendo: He aquí, yo te revelo concerniente a este cielo y a esta tierra; escribe las palabras que yo te hablo. Y en el principio, yo, el Señor, creé los cielos y la tierra.",
+          "texto": "Y sucedió que el Señor habló a Moisés, diciendo: He aquí, te revelo lo concerniente a este cielo y a esta tierra; escribe las palabras que hablo. Soy el Principio y el Fin, el Dios Omnipotente; he creado estas cosas por medio de mi Unigénito; sí, en el principio creé los cielos y la tierra sobre la cual estás.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/2?lang=spa&id=p1#p1",
           "comentario": "A diferencia de Génesis 1:1, Moisés identifica claramente al Creador como el Señor Dios hablando en primera persona. El Nuevo Testamento confirma esto: 'Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho' (Juan 1:3). Jesucristo, como Jehová premortal, fue el creador activo de este mundo."
         },
         {
           "tipo": "escritura",
           "referencia": "Abraham 4:1",
-          "texto": "Y entonces el Señor dijo: Bajemos; y bajaron al principio, y ellos, es decir los dioses, organizaron y formaron los cielos y la tierra.",
+          "texto": "Entonces el Señor dijo: Descendamos. Y descendieron en el principio, y ellos, esto es, los Dioses, organizaron y formaron los cielos y la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=spa&id=p1#p1",
           "comentario": "Abraham 4 usa el término 'los dioses' en plural, reflejando la naturaleza plural del concilio divino que supervisó la Creación. El verbo 'organizar' es significativo: la materia no fue creada de la nada, sino organizada de materia preexistente, una doctrina única de la teología de la Restauración."
         },
         {
           "tipo": "escritura",
-          "referencia": "Génesis 1:26–27; Moisés 2:26–27",
-          "texto": "Y dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza… Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.",
-          "comentario": "Ser creados a imagen de Dios no es una metáfora en la teología restaurada. El Padre Celestial tiene un cuerpo de carne y huesos tan tangible como el del hombre (DyC 130:22). Nuestra semejanza física con Dios es un recordatorio constante de nuestro potencial divino y de la relación literal entre Padre e hijos."
+          "referencia": "Génesis 1:26–27",
+          "texto": "Y dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y tenga dominio sobre los peces del mar, y sobre las aves de los cielos, y sobre las bestias, y sobre toda la tierra y sobre todo animal que se arrastra sobre la tierra. Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=spa&id=p26-p27#p26",
+          "comentario": "El plural del versículo 26 —«hagamos al hombre a nuestra imagen»— fue durante siglos una de las frases más discutidas del Génesis. La Restauración la lee sin rodeos: hay más de una persona en esa conversación. Y el versículo 27 agrega el dato que el mundo antiguo no tenía: la imagen divina no es de unos pocos ni de un sexo, sino de «varón y hembra». Toda la doctrina sobre el valor de la persona humana empieza en estas dos líneas."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Moisés 2:26–27",
+          "texto": "Y yo, Dios, dije a mi Unigénito, el cual fue conmigo desde el principio: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y fue hecho. Y yo, Dios, dije: Tenga dominio sobre los peces del mar, sobre las aves del cielo, sobre el ganado, sobre toda la tierra y sobre todo lo que se arrastra sobre la tierra. Y yo, Dios, creé al hombre a mi propia imagen, a imagen de mi Unigénito lo creé; varón y hembra los creé.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/2?lang=spa&id=p26-p27#p26",
+          "comentario": "El mismo pasaje en la traducción inspirada de José Smith agrega algo que Génesis no dice: quién habla. «Y yo, Dios, dije a mi Unigénito, el cual fue conmigo desde el principio». La conversación de Génesis 1:26 deja de ser un enigma: es el Padre hablando con Jesucristo, el que llevaría a cabo la Creación. Comparar los dos textos lado a lado es el ejercicio que esta lección propone."
         },
         {
           "tipo": "cita",
           "autor": "La Primera Presidencia y el Cuórum de los Doce Apóstoles",
           "fuente": "«El Cristo Viviente: El testimonio de los Apóstoles», 1 de enero de 2000",
-          "texto": "Él fue el Gran Jehová del Antiguo Testamento y el Mesías del Nuevo Testamento. Bajo la dirección de Su Padre, Él fue el Creador de la tierra. «Todas las cosas por medio de él fueron hechas, y sin él nada de lo que ha sido hecho fue hecho» (Juan 1:3).",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/the-living-christ-the-testimony-of-the-apostles?lang=spa"
+          "texto": "Él fue el Gran Jehová del Antiguo Testamento y el Mesías del Nuevo Testamento. Bajo la dirección de Su Padre, Él fue el Creador de la tierra. «Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho» (Juan 1:3).",
+          "link": "https://www.churchofjesuschrist.org/study/manual/the-living-christ-the-testimony-of-the-apostles/the-living-christ-the-testimony-of-the-apostles?lang=spa#p3"
         },
         {
           "tipo": "cita",
           "autor": "La Primera Presidencia y el Consejo de los Doce Apóstoles",
           "fuente": "«La Familia: Una Proclamación para el Mundo», 23 de septiembre de 1995",
           "texto": "Todos los seres humanos, hombres y mujeres, son creados a la imagen de Dios. Cada uno es un amado hijo o hija procreado como espíritu por padres celestiales y, como tal, cada uno tiene una naturaleza y un destino divinos.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa"
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa#p2"
         },
         {
           "tipo": "parrafo",
-          "texto": "La Creación no fue un evento casual ni fue el producto de fuerzas impersonales. Cada uno de los seis periodos de creación ('Y vio Dios que era bueno') expresa la deliberación y el cuidado con los que el Señor construyó este mundo como hogar para Sus hijos. El descanso del séptimo día no indica cansancio divino, sino la institución de un patrón sagrado: la dedicación periódica de tiempo a lo espiritual. El día de reposo es así tan antiguo como la Creación misma."
+          "texto": "La Creación no fue un evento casual ni el producto de fuerzas impersonales. Cada uno de los seis períodos —«y vio Dios que era bueno»— expresa la deliberación con la que el Señor construyó este mundo como hogar para Sus hijos. El descanso del séptimo día no indica cansancio divino, sino la institución de un patrón sagrado: dedicar tiempo, con regularidad, a lo que no se compra. Y hay algo más que el Cristo Viviente subraya: el mismo Jesucristo que organizó la materia de este mundo fue después el que dio Su vida por quienes lo habitan. Su poder creador y Su sacrificio expiatorio no son dos temas distintos; son el mismo amor en dos momentos. Esta semana, mira una sola cosa creada —una persona incluida— con la conciencia de a quién le costó algo."
         },
         {
           "tipo": "doctrinal",
@@ -57,10 +71,12 @@
         {
           "tipo": "reflexion",
           "preguntas": [
-            "¿Cómo cambia tu relación con el mundo natural saber que fue creado por Jesucristo con un propósito divino para ti?",
-            "¿Qué significa para ti personalmente ser creado 'a imagen de Dios'? ¿Cómo debería eso influir en cómo te tratas a ti mismo y a los demás?",
-            "¿De qué maneras prácticas observas el día de reposo como un don dado desde la Creación?",
-            "Los tres relatos de la Creación ofrecen perspectivas diferentes del mismo evento. ¿Qué te dice eso sobre cómo Dios revela la verdad: gradualmente, en múltiples capas?"
+            "¿Cómo cambia tu relación con el mundo natural saber que fue creado por Jesucristo con un propósito?",
+            "¿Qué significa para ti ser creado «a imagen de Dios», y cómo debería influir en cómo tratas a los demás?",
+            "Vuelve a leer Génesis 1:26–27 junto a Moisés 2:26–27 y anota qué agrega el segundo texto que el primero no dice. ¿Qué cambia con ese dato?",
+            "El día de reposo aparece ya en la Creación, no en el Sinaí. ¿Qué te sugiere que sea así de antiguo?",
+            "Los tres relatos de la Creación dicen cosas distintas del mismo hecho. Ora esta semana pidiendo entender algo nuevo de uno de ellos, y anota lo que recibas.",
+            "Elige un momento fijo de esta semana para dejar de producir y simplemente agradecer lo que no hiciste tú."
           ]
         }
       ]
@@ -69,58 +85,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "Según Génesis 1 y Abraham 4–5, ¿quién llevó a cabo físicamente la creación de la tierra?",
+      "question": "Según Moisés 2:1, ¿por medio de quién declara el Señor que hizo los cielos y la tierra?",
       "options": [
-        "Adán y Eva antes de la mortalidad.",
-        "El Padre Celestial actuando solo.",
-        "Los ángeles bajo la dirección de Dios.",
-        "Jesucristo (Jehová)."
+        "Por medio de las leyes naturales que Él mismo había establecido con anterioridad.",
+        "Por medio de los ángeles que le servían desde antes de la fundación del mundo.",
+        "Por medio de la palabra de Su poder, sin intervención de ninguna otra persona.",
+        "Por medio de Su Unigénito, que estaba con Él desde el principio."
       ],
       "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué frase repetida en el relato de la creación en Génesis 1 subraya la aprobación divina de cada etapa?",
+      "question": "Según Génesis 1:26–27, ¿a quiénes creó Dios a Su imagen?",
       "options": [
-        "«Y vio Dios que esto era bueno.»",
-        "\"Y el hombre lo llamó por su nombre.\"",
-        "\"Y el Espíritu descansó sobre las aguas.\"",
-        "\"Y así fue hecho para siempre.\""
+        "Al varón y a la mujer, a los dos a imagen de Dios.",
+        "Al varón primero, y después a la mujer a imagen del varón.",
+        "A la familia entera, incluidos los hijos que vendrían más adelante.",
+        "A los seres humanos junto con todos los seres vivientes de la tierra."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿En qué día de la creación fue creado el ser humano, según el relato del Génesis?",
+      "question": "El comentario de la lección compara Génesis 1:26 con Moisés 2:26–27. ¿Qué agrega el segundo texto que el primero no dice?",
       "options": [
-        "El quinto día.",
-        "El sexto día de la creación.",
-        "El séptimo día.",
-        "El cuarto día."
+        "Que la Creación se completó en un lapso de seis jornadas de veinticuatro horas.",
+        "Que quien habla es el Padre y a quien le habla es Su Unigénito, Jesucristo.",
+        "Que la creación humana ocurrió antes que la de los animales.",
+        "Que Adán recibió el encargo de poner nombre a todos los seres creados."
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Qué enseña Moisés 2–3 sobre la relación entre la creación espiritual y la creación física?",
+      "question": "La lección sostiene que el relato de la Creación no busca explicar mecanismos. ¿Qué es, entonces, lo que sí afirma con claridad?",
       "options": [
-        "Que ambas creaciones ocurrieron al mismo tiempo.",
-        "Que la creación espiritual ocurrió después de la física.",
-        "Que todo fue creado primero en espíritu.",
-        "Que la creación espiritual solo aplica a los seres humanos."
+        "Que el orden de los animales creados sigue una jerarquía de importancia.",
+        "Que la materia fue traída de la nada por un acto único e irrepetible.",
+        "Que el mundo fue pensado como hogar y la persona humana no es una pieza sobrante.",
+        "Que los seis períodos corresponden a etapas geológicas que la ciencia ya confirmó."
       ],
       "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "¿Qué nos enseña el hecho de que Jesucristo fue el Creador sobre Su papel en el plan de salvación?",
+      "question": "Noelia trata muy mal a una compañera que le cae pesada y sostiene que eso no tiene nada que ver con su vida religiosa. Según lo que enseña Génesis 1:26–27, ¿qué le falta considerar?",
       "options": [
-        "Que la creación fue Su única responsabilidad ante el Padre.",
-        "Que no necesitó la autorización del Padre para crear.",
-        "Que Su misión comenzó únicamente en Belén.",
-        "Que fue agente del Padre desde el principio."
+        "Que conviene evitar el contacto con quienes generan ese tipo de reacción.",
+        "Que esas antipatías son inevitables y no conviene darles demasiada importancia.",
+        "Que el problema se resolvería si la otra persona cambiara su manera de ser.",
+        "Que la imagen de Dios está en esa persona también, y por eso el trato no es un asunto aparte."
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Diego trabaja siete días por semana y dice que descansar es tiempo perdido. Según lo que la lección enseña sobre el séptimo día, ¿qué habría que señalarle?",
+      "options": [
+        "Que el patrón de apartar tiempo es tan antiguo como la Creación misma.",
+        "Que conviene descansar solo cuando el cuerpo empieza a dar señales de agotamiento.",
+        "Que el día de reposo se instituyó recién en el Sinaí, junto con la ley de Moisés.",
+        "Que el descanso semanal es una recomendación médica sin base real."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "El párrafo de cierre conecta la obra creadora de Jesucristo con Su sacrificio expiatorio. ¿Cuál es esa conexión?",
+      "options": [
+        "Que la Creación quedó incompleta hasta que se llevó a cabo la Expiación.",
+        "Que el mismo que organizó este mundo fue después el que dio Su vida por quienes lo habitan.",
+        "Que los dos hechos se conmemoran juntos en la ordenanza de la Santa Cena dominical.",
+        "Que ambos hechos ocurrieron por mandato directo del Padre Celestial en el mismo momento."
+      ],
+      "correctAnswer": 1
     }
   ]
 }

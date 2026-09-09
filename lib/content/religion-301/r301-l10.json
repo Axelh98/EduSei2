@@ -9,27 +9,42 @@
           "texto": "La historia de José el hijo de Jacob es considerada por muchos estudiosos como la narración corta más elaborada literariamente de todo el Antiguo Testamento. Pero más que un relato literario, es una de las tipologías más completas de Jesucristo: un hijo amado traicionado por sus propios hermanos, vendido por piezas de plata, abandonado injustamente, y que sin embargo, en el momento de mayor poder, elige la misericordia sobre la venganza y convierte su sufrimiento en salvación para otros. Cada etapa de la historia de José —los sueños, la traición, la esclavitud, la prisión, el ascenso— es inseparable del otro: sin la traición no habría llegado a Egipto; sin la prisión no habría conocido al copero; sin el copero, nunca habría llegado ante Faraón."
         },
         {
+          "tipo": "parrafo",
+          "texto": "Hay un detalle en la manera de contar esta historia que conviene notar antes de empezar. El relato de José es largo y no tiene milagros espectaculares: no se abre ningún mar, no cae fuego del cielo, no habla ninguna zarza. Lo que hay es una frase que vuelve una y otra vez en los momentos más oscuros —«y el Señor estaba con José»— justo cuando parece que no lo está: vendido, esclavo, calumniado, preso. El texto insiste en eso a propósito. Está enseñando a reconocer la presencia de Dios en las temporadas donde nada se ve, que son casi todas."
+        },
+        {
           "tipo": "escritura",
           "referencia": "Génesis 37:3–4, 11",
-          "texto": "Y amaba Israel a José más que a todos sus hijos, porque lo había tenido en su vejez; y le hizo una túnica de diversos colores. Y viendo sus hermanos que su padre lo amaba más que a todos sus hermanos, le aborrecían, y no podían hablarle pacíficamente… Y sus hermanos le tenían envidia, pero su padre meditaba en esto.",
+          "texto": "Y amaba Israel a José más que a todos sus hijos, porque le había tenido en su vejez; y le hizo una túnica de diversos colores. Y viendo sus hermanos que su padre lo amaba más que a todos sus hermanos, le aborrecían y no podían hablarle pacíficamente. Y sus hermanos le tenían envidia, mas su padre reflexionaba sobre eso.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/37?lang=spa&id=p3-p11#p3",
           "comentario": "La envidia de los hermanos ante el amor preferente del padre por José prefigura el rechazo de Israel ante Jesucristo. El propio Señor fue el 'Hijo amado' del Padre (Mateo 3:17), rechazado por sus compatriotas. La túnica de colores era señal de distinción y autoridad; su destrucción por los hermanos representó el intento de borrar esa señal. Sin embargo, el propósito de Dios no puede ser destruido por la envidia humana."
         },
         {
           "tipo": "escritura",
           "referencia": "Génesis 39:2–4, 9",
-          "texto": "Mas el Señor estaba con José, y fue varón próspero; y estaba en la casa de su amo el egipcio. Y vio su amo que el Señor estaba con él, y que todo lo que él hacía, el Señor lo hacía prosperar en su mano… ¿Cómo, pues, haría yo este grande mal, y pecaría contra Dios?",
-          "comentario": "La frase 'el Señor estaba con José' se repite cuatro veces en el capítulo 39, como un estribillo teológico. No fue la inteligencia de José ni su posición social lo que lo hizo prosperar; fue la presencia constante del Señor. Y cuando llegó la tentación de la esposa de Potifar, José no argumentó sobre las consecuencias prácticas: preguntó '¿cómo pecaría contra Dios?' La integridad de José estaba fundamentada en su relación con el Señor, no en el miedo a ser descubierto."
+          "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio. Y vio su amo que Jehová estaba con él y que todo lo que él hacía, Jehová lo hacía prosperar en su mano. Así halló José gracia ante sus ojos y le servía; y él le hizo mayordomo de su casa y entregó en su poder todo lo que tenía. No hay otro mayor que yo en esta casa, y ninguna cosa me ha reservado sino a ti, por cuanto tú eres su esposa; ¿cómo, pues, haría yo este gran mal y pecaría contra Dios?",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/39?lang=spa&id=p2-p9#p2",
+          "comentario": "La frase 'Jehová estaba con José' se repite cuatro veces en el capítulo 39, como un estribillo teológico. No fue la inteligencia de José ni su posición social lo que lo hizo prosperar; fue la presencia constante del Señor. Y cuando llegó la tentación de la esposa de Potifar, José no argumentó sobre las consecuencias prácticas: preguntó «¿cómo, pues, haría yo este gran mal y pecaría contra Dios?» La integridad de José estaba fundamentada en su relación con el Señor, no en el miedo a ser descubierto."
         },
         {
           "tipo": "escritura",
-          "referencia": "Génesis 40:8; 41:16",
-          "texto": "Y le dijeron: Hemos tenido un sueño, y no hay quien lo interprete. Entonces les dijo José: ¿No son de Dios las interpretaciones? Contádmelo ahora… Y respondió José a Faraón, diciendo: No está en mí; Dios será el que dé respuesta propicia a Faraón.",
-          "comentario": "José rechazó consistentemente el crédito por sus dones, redirigiendo siempre la atención hacia Dios. Esta humildad no fue fingida ni estratégica: fue la expresión natural de alguien que genuinamente comprendía que sus capacidades eran un don divino, no un logro personal. Esta actitud es el fundamento del verdadero liderazgo al estilo del Evangelio."
+          "referencia": "Génesis 40:8",
+          "texto": "Y ellos le dijeron: Hemos soñado un sueño, y no hay quien lo interprete. Entonces les dijo José: ¿No son de Dios las interpretaciones? Contádmelo ahora.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/40?lang=spa&id=p8#p8",
+          "comentario": "José está preso, olvidado y sin ninguna razón para hacerse el interesante, y sin embargo lo primero que hace al escuchar a los dos presos es corregir la atribución: «¿No son de Dios las interpretaciones?». Es una frase corta y dice mucho. En el punto más bajo de su vida, José todavía sabe de quién es el don que tiene, y no se lo apropia."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Génesis 41:16",
+          "texto": "Y respondió José a Faraón, diciendo: No está en mí; Dios será quien responda paz a Faraón.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/41?lang=spa&id=p16#p16",
+          "comentario": "Años después, la escena se repite delante del hombre más poderoso del mundo conocido, y la respuesta de José es idéntica: «No está en mí; Dios será quien responda paz a Faraón». Lo notable es que la frase no cambia con las circunstancias. Dicha en la cárcel podría ser humildad forzada; dicha ante Faraón, cuando decir otra cosa le habría convenido, es carácter."
         },
         {
           "tipo": "escritura",
           "referencia": "Génesis 41:38–40",
-          "texto": "Y dijo Faraón a sus siervos: ¿Acaso hallaremos a otro hombre como éste, en quien esté el espíritu de Dios? Y dijo Faraón a José: Pues que Dios te ha hecho saber todo esto, no hay entendido ni sabio como tú. Tú estarás sobre mi casa, y por tu palabra se gobernará todo mi pueblo; solamente en el trono seré yo mayor que tú.",
+          "texto": "Y dijo Faraón a sus siervos: ¿Hallaremos a otro hombre como este, en quien esté el espíritu de Dios? Y dijo Faraón a José: Puesto que Dios te ha hecho saber todo esto, no hay entendido ni sabio como tú. Tú estarás a cargo de mi casa y por tu palabra se gobernará todo mi pueblo; solamente en el trono seré yo mayor que tú.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/41?lang=spa&id=p38-p40#p38",
           "comentario": "El ascenso de José de la prisión al palacio ocurrió en un solo día. Pero ese día fue el fruto de años de fidelidad en circunstancias invisibles. Las grandes oportunidades raramente anuncian su llegada; se encuentran quienes ya están siendo fieles cuando nadie mira. José no se preparó para el momento de Faraón: fue fiel a Dios en la oscuridad de la prisión, y esa fidelidad lo preparó para brillar cuando llegó la luz."
         },
         {
@@ -37,14 +52,14 @@
           "autor": "Élder Ronald A. Rasband",
           "fuente": "«Por designio divino», Conferencia General, octubre de 2017 (Liahona, noviembre de 2017, pág. 57)",
           "texto": "La mano del Señor los guía. Por «designio divino», Él se ocupa de los pequeños detalles de su vida, así como de los sucesos importantes.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/by-divine-design?lang=spa"
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/by-divine-design?lang=spa#kicker1"
         },
         {
           "tipo": "cita",
           "autor": "Obispo W. Christopher Waddell",
           "fuente": "«Había pan», Conferencia General, octubre de 2020 (Liahona, noviembre de 2020, pág. 43)",
           "texto": "Hoy en día, somos bendecidos al ser guiados por profetas que comprenden la necesidad de que nos preparemos para las calamidades «que sobrevendr[án]» y que reconocen las limitaciones o restricciones que podemos encontrar al esforzarnos por seguir su consejo. […] El Señor no espera que hagamos más de lo que podemos, pero sí espera que hagamos lo que podemos hacer, cuando podamos hacerlo.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/25waddell?lang=spa"
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/25waddell?lang=spa#p12"
         },
         {
           "tipo": "parrafo",
@@ -63,10 +78,12 @@
         {
           "tipo": "reflexion",
           "preguntas": [
-            "La frase 'el Señor estaba con José' aparece cuatro veces en un solo capítulo. ¿Qué evidencia habría de la presencia del Señor en tu vida si alguien cercano a ti describiera tu historia?",
-            "Ante la tentación, José preguntó '¿Cómo pecaría contra Dios?' —no '¿Qué pasará si me descubren?' ¿Cuál es el fundamento de tus decisiones morales: el miedo a las consecuencias o la relación con Dios?",
-            "José fue fiel en la prisión, sin audiencia y sin recompensa visible, y eso lo preparó para el trono. ¿En qué área de tu vida estás siendo llamado a ser fiel 'en lo poco' (Lucas 16:10) aunque nadie lo vea?",
-            "La historia de José muestra que Dios puede convertir la traición y el sufrimiento injusto en un instrumento de salvación. ¿Hay alguna experiencia difícil en tu propia historia de la que el Señor podría estar haciendo algo bueno, incluso si todavía no lo ves?"
+            "La frase «el Señor estaba con José» aparece varias veces en un solo capítulo. Si alguien contara tu historia, ¿dónde pondría esa frase?",
+            "Ante la tentación, José preguntó cómo pecaría contra Dios, no qué pasaría si lo descubrían. ¿Cuál de las dos preguntas gobierna tus decisiones?",
+            "Vuelve a leer Génesis 40:8 y Génesis 41:16 y compara las dos respuestas de José. ¿Qué es exactamente lo que no cambia entre la cárcel y el palacio?",
+            "José fue fiel en la prisión, sin público ni recompensa. ¿Dónde te toca a ti ser fiel «en lo poco» sin que nadie lo vea?",
+            "El Señor convirtió la traición en salvación para muchos. Ora esta semana por una experiencia difícil de tu historia y anota lo que sientas después.",
+            "Elige una decisión de esta semana y tomala aplicando la pregunta de José, no la del riesgo de ser descubierto."
           ]
         }
       ]
@@ -75,58 +92,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué motivó a los hermanos de José a venderlo como esclavo a los ismaelitas en Génesis 37?",
+      "question": "Según Génesis 39:2–4, 9, ¿qué respondió José cuando la mujer de Potifar insistió en tentarlo?",
       "options": [
-        "José había insultado a sus hermanos delante de todo el pueblo.",
-        "José había robado la bendición de su hermano mayor.",
-        "Los celos y el odio que le tenían por el favoritismo de su padre.",
-        "Jacob les ordenó que lo enviaran a Egipto para aprender sabiduría."
+        "Que su posición en la casa no le permitía comprometerse así.",
+        "Que pediría consejo antes de tomar una decisión sobre semejante asunto.",
+        "Que cómo haría él tan gran maldad y pecaría contra Dios.",
+        "Que temía el castigo que Potifar podría imponerle si llegaba a enterarse."
       ],
       "correctAnswer": 2
     },
     {
       "id": 2,
-      "question": "¿Qué evidencia encontramos en Génesis 39 de que el Señor estaba con José durante su esclavitud en Egipto?",
+      "question": "Según Génesis 41:38–40, ¿qué reconoció Faraón en José antes de ponerlo al frente de Egipto?",
       "options": [
-        "Sus hermanos fueron castigados inmediatamente después de venderlo.",
-        "José recibió riquezas inmediatas al llegar a Egipto.",
-        "El Señor le apareció visiblemente cada noche para consolarlo.",
-        "Todo lo que José hacía prosperaba y fue puesto a cargo de la casa de Potifar."
+        "Que sus años de prisión lo habían preparado mejor que a cualquier otro funcionario.",
+        "Que su origen extranjero le permitiría mediar con los pueblos vecinos.",
+        "Que su familia en Canaán podría proveer alimento durante la escasez.",
+        "Que en él estaba el espíritu de Dios y que no había nadie tan entendido y sabio."
       ],
       "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "¿Cómo respondió José a la tentación de la esposa de Potifar, y qué nos enseña su ejemplo?",
+      "question": "La lección compara la respuesta de José en la cárcel (Génesis 40:8) con la que dio ante Faraón (Génesis 41:16). ¿Qué muestra esa comparación?",
       "options": [
-        "Huyó de la situación y no quiso pecar contra Dios.",
-        "Ignoró la situación y continuó con su trabajo como si nada.",
-        "Habló con Potifar directamente para resolver el problema.",
-        "Cedió ante la presión para no perder su posición."
+        "Que lo que no cambia entre la cárcel y el palacio es a quién le atribuye el don.",
+        "Que en la cárcel se mostró más cauto y ante Faraón se mostró más audaz.",
+        "Que José usaba siempre la misma fórmula para evitar comprometerse con una interpretación.",
+        "Que José había aprendido a hablar con soltura la lengua de Egipto durante su encierro."
       ],
       "correctAnswer": 0
     },
     {
       "id": 4,
-      "question": "¿Qué don especial demostró José en la cárcel que lo preparó para su papel futuro, según Génesis 40?",
+      "question": "La lección señala que en el relato de José no aparecen milagros espectaculares. ¿Qué aparece en cambio, y para qué?",
       "options": [
-        "La capacidad de curar enfermedades.",
-        "El don de interpretar sueños por revelación.",
-        "La habilidad de hablar todos los idiomas de Egipto.",
-        "El don de leer el pensamiento de los demás."
+        "Aparecen genealogías detalladas, para ubicar la historia dentro del linaje de Jacob.",
+        "Aparece la frase «el Señor estaba con José», para enseñar a reconocerlo cuando nada se ve.",
+        "Aparecen listas de bienes y ganado, para mostrar el crecimiento de su prosperidad.",
+        "Aparecen sueños repetidos, para mostrar que Dios habla siempre de la misma manera."
       ],
       "correctAnswer": 1
     },
     {
       "id": 5,
-      "question": "Al interpretar los sueños de Faraón en Génesis 41, ¿a quién atribuyó José el mérito de la interpretación?",
+      "question": "Lucero trabaja con esmero en algo que nadie supervisa ni agradece, y empieza a preguntarse para qué se esfuerza. Según los años de José en la cárcel, ¿qué le convendría considerar?",
       "options": [
-        "A su propia sabiduría y experiencia.",
-        "Al copero que lo recomendó ante Faraón.",
-        "A Dios, que daría a Faraón respuesta propicia.",
-        "A los sabios de Egipto que lo habían entrenado."
+        "Que conviene hacer visible su esfuerzo para que alguien con autoridad lo note.",
+        "Que quizá esté en el puesto equivocado y le convenga buscar otro cuanto antes.",
+        "Que la fidelidad sin público fue justamente lo que preparó a José para lo que vino.",
+        "Que sin reconocimiento externo resulta muy difícil sostener la calidad de un trabajo."
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Emilio evita ciertas conductas sobre todo por miedo a que lo descubran. Según la respuesta de José a la mujer de Potifar, ¿qué le falta?",
+      "options": [
+        "Reforzar los controles externos para no volver a exponerse a esa clase de situaciones.",
+        "Buscar a alguien que le pida cuentas con regularidad de su conducta.",
+        "Aceptar que el miedo a las consecuencias es un motivo suficiente y bastante estable.",
+        "Apoyar la decisión en la relación con Dios, no en el riesgo de ser descubierto."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "La lección presenta a José como un tipo de Jesucristo. ¿En qué se apoya esa lectura, según el párrafo de cierre?",
+      "options": [
+        "En una serie de correspondencias: el hijo amado traicionado, vendido, humillado y luego exaltado para salvar a los suyos.",
+        "En que los dos fueron reconocidos como profetas por gobernantes extranjeros de su misma época y de su tiempo.",
+        "En que los dos interpretaron sueños y anunciaron acontecimientos que iban a ocurrir en el futuro.",
+        "En que los dos nacieron en Belén y pasaron parte de su vida en Egipto."
+      ],
+      "correctAnswer": 0
     }
   ]
 }

@@ -9,46 +9,47 @@
           "texto": "El libro de los Jueces es quizás el más cíclico de toda la Escritura: una y otra vez Israel abandona al Señor, cae bajo la opresión de naciones vecinas, clama a Dios en su angustia, el Señor levanta un juez para liberarlos, hay paz durante la vida del juez, y al morir el ciclo vuelve a comenzar. Este patrón —apostasía, aflicción, arrepentimiento, liberación, paz, apostasía— no es solo historia antigua; es la descripción más honesta del comportamiento humano ante la prosperidad y la prueba. Los jueces individuales —Débora, Gedeón, Sansón— son figuras complejas y humanas, cada una con fortalezas extraordinarias y debilidades que a veces los llevan a la tragedia. Sus historias no son lecciones de perfección, sino de cómo Dios puede usar instrumentos imperfectos y de lo que ocurre cuando esos instrumentos se alejan de Él."
         },
         {
+          "tipo": "parrafo",
+          "texto": "Antes de entrar en las historias conviene aclarar de qué se ocupa el libro, porque es fácil leerlo como una colección de aventuras. Jueces cubre unos tres siglos en los que Israel no tiene rey ni profeta permanente, y el texto lo resume con una frase que repite varias veces: cada uno hacía lo que bien le parecía. Los episodios ásperos que aparecen —y son varios— no están puestos como ejemplo, sino como diagnóstico de lo que ocurre cuando un pueblo se queda sin referencia común. El manual oficial invita a leerlos buscando el patrón, no la anécdota."
+        },
+        {
           "tipo": "escritura",
           "referencia": "Jueces 2:10–12",
-          "texto": "Y toda aquella generación también fue reunida a sus padres. Y se levantó después de ellos otra generación que no conocía al Señor, ni la obra que él había hecho por Israel. Después los hijos de Israel hicieron lo malo ante los ojos del Señor, y sirvieron a los baales. Y dejaron al Señor, el Dios de sus padres, que los había sacado de la tierra de Egipto.",
-          "comentario": "El detonador del ciclo de los jueces es revelador: 'una generación que no conocía al Señor'. La fe no se transmite automáticamente de padres a hijos; requiere enseñanza intencional y experiencia personal. Cuando una generación no enseña y la siguiente no aprende, el conocimiento de Dios se pierde en una sola generación. Esto explica la urgencia del mandato de Moisés en Deuteronomio 6 de enseñar a los hijos constantemente."
+          "texto": "Y toda aquella generación fue también reunida con sus padres. Y se levantó después de ellos otra generación que no conocía a Jehová ni la obra que él había hecho por Israel. Y los hijos de Israel hicieron lo malo ante los ojos de Jehová y sirvieron a los baales. Y abandonaron a Jehová, el Dios de sus padres, que los había sacado de la tierra de Egipto, y se fueron tras otros dioses, los dioses de los pueblos que estaban en sus alrededores, a los cuales adoraron; y provocaron a ira a Jehová.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/judg/2?lang=spa&id=p10-p12#p10",
+          "comentario": "El detonador del ciclo de los jueces es revelador: «otra generación que no conocía a Jehová». La fe no se transmite automáticamente de padres a hijos; requiere enseñanza intencional y experiencia personal. Cuando una generación no enseña y la siguiente no aprende, el conocimiento de Dios se pierde en una sola generación. Esto explica la urgencia del mandato de Moisés en Deuteronomio 6 de enseñar a los hijos constantemente."
         },
         {
           "tipo": "escritura",
           "referencia": "Jueces 6:12–16",
-          "texto": "Y el ángel del Señor se le apareció, y le dijo: El Señor está contigo, varón esforzado y valiente. Y Gedeón le respondió: Ah, señor mío, si el Señor está con nosotros, ¿por qué nos ha sobrevenido todo esto?… Entonces el Señor le miró, y dijo: Ve con esta tu fortaleza, y salvarás a Israel de la mano de los madianitas. ¿No te envío yo? Y él respondió: Ah, señor mío, ¿con qué salvaré yo a Israel? He aquí que mi familia es pobre en Manasés, y yo el menor en la casa de mi padre.",
-          "comentario": "El llamamiento de Gedeón sigue el patrón del llamamiento de Moisés: el elegido se ve pequeño, el Señor lo ve grande. La pregunta de Gedeón —'si el Señor está con nosotros, ¿por qué nos ha sobrevenido todo esto?'— es genuinamente humana y teológicamente honesta. El Señor no respondió con un argumento, sino con una misión: 'Ve con esta tu fortaleza'. La fortaleza que Gedeón no veía en sí mismo ya era visible para el Señor."
+          "texto": "Y el ángel de Jehová se le apareció y le dijo: Jehová está contigo, hombre poderoso y valiente. Y Gedeón le respondió: Ah, señor mío, si Jehová está con nosotros, ¿por qué nos ha sobrevenido todo esto? ¿Y dónde están todas sus maravillas que nuestros padres nos han contado, diciendo: ¿No nos sacó Jehová de Egipto? Y ahora Jehová nos ha desamparado y nos ha entregado en manos de los madianitas. Y mirándole Jehová, le dijo: Ve con esta tu fuerza y salvarás a Israel de manos de los madianitas. ¿No te envío yo? Entonces le respondió: Ah, señor mío, ¿con qué salvaré a Israel? He aquí que mi familia es pobre en Manasés, y yo el menor en la casa de mi padre. Y Jehová le dijo: Ciertamente yo estaré contigo, y derrotarás a los madianitas como a un solo hombre.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=spa&id=p12-p16#p12",
+          "comentario": "El llamamiento de Gedeón sigue el patrón del llamamiento de Moisés: el elegido se ve pequeño, el Señor lo ve grande. La pregunta de Gedeón —'si Jehová está con nosotros, ¿por qué nos ha sobrevenido todo esto?'— es genuinamente humana y teológicamente honesta. El Señor no respondió con un argumento, sino con una misión: «Ve con esta tu fuerza». La fortaleza que Gedeón no veía en sí mismo ya era visible para el Señor."
         },
         {
           "tipo": "escritura",
           "referencia": "Jueces 7:2–4, 7",
-          "texto": "Y el Señor dijo a Gedeón: El pueblo que está contigo es mucho para que yo entregue a los madianitas en su mano, no sea que se alabe Israel contra mí, diciendo: Mi mano me ha salvado… Haz pregonar en los oídos del pueblo, diciendo: Quien tema y se estremezca, madrugue y devuélvase desde el monte de Galaad… Y el Señor dijo a Gedeón: Con estos trescientos hombres os salvaré, y entregaré a los madianitas en tus manos.",
+          "texto": "Y Jehová dijo a Gedeón: El pueblo que está contigo es mucho para que yo entregue a los madianitas en sus manos, no sea que se alabe Israel contra mí, diciendo: Mi propia mano me ha salvado. Y ahora, haz pregonar a oídos del pueblo, diciendo: El que tema y se estremezca, regrese desde el monte Galaad. Y regresaron de los del pueblo veintidós mil, y quedaron diez mil. Y Jehová dijo a Gedeón: Aún es mucho el pueblo; llévalos a las aguas, y allí yo te los pondré a prueba; y del que yo te diga: Vaya este contigo, irá contigo; mas de cualquiera que yo te diga: Este no vaya contigo, ese no irá. Entonces Jehová dijo a Gedeón: Con estos trescientos hombres que lamieron el agua os salvaré y entregaré a los madianitas en tus manos; y váyase toda la demás gente cada uno a su lugar.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/judg/7?lang=spa&id=p2-p7#p2",
           "comentario": "El Señor redujo deliberadamente el ejército de Israel de 32.000 a 300 hombres. La razón es teológicamente decisiva: para que Israel no se gloríe a sí mismo sino al Señor. Este principio —Dios frecuentemente trabaja con lo insuficiente para que la gloria sea Suya— recorre toda la Escritura. Pablo lo articularía siglos después: 'Lo necio del mundo escogió Dios, para avergonzar a los sabios' (1 Corintios 1:27)."
         },
         {
           "tipo": "escritura",
           "referencia": "Jueces 16:20, 22",
-          "texto": "Y ella dijo: ¡Sansón, los filisteos sobre ti! Y luego que despertó él de su sueño, se dijo: Esta vez saldré como las otras y me escaparé. Pero él no sabía que el Señor ya se había apartado de él… Y el cabello de su cabeza comenzó a crecer, después que fue rapado.",
-          "comentario": "La caída de Sansón es una de las tragedias más poderosas del Antiguo Testamento: un hombre dotado de poder extraordinario que no comprendió que ese poder tenía su fuente en la consagración a Dios, no en sus propias capacidades. 'No sabía que el Señor ya se había apartado de él' es la frase más triste del libro. Sin embargo, su historia termina no en la derrota sino en la restauración: su cabello creció de nuevo, y su último acto fue el más grande. Incluso Sansón ilustra que el arrepentimiento genuino puede restaurar el poder perdido."
+          "texto": "Y le dijo: ¡Sansón, los filisteos sobre ti! Y luego que despertó él de su sueño, se dijo: Esta vez saldré como las otras y me escaparé. Pero no sabía que Jehová ya se había apartado de él. Y el cabello de su cabeza comenzó a crecer después que fue rapado.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/judg/16?lang=spa&id=p20-p22#p20",
+          "comentario": "La caída de Sansón es una de las tragedias más poderosas del Antiguo Testamento: un hombre dotado de poder extraordinario que no comprendió que ese poder tenía su fuente en la consagración a Dios, no en sus propias capacidades. 'No sabía que Jehová ya se había apartado de él' es la frase más triste del libro. Sin embargo, su historia termina no en la derrota sino en la restauración: su cabello creció de nuevo, y su último acto fue el más grande. Incluso Sansón ilustra que el arrepentimiento genuino puede restaurar el poder perdido."
         },
         {
           "tipo": "cita",
-          "autor": "Élder Dieter F. Uchtdorf",
-          "fuente": "«El camino de regreso a casa», Liahona, mayo de 2024, pág. 8.",
-          "texto": "El libro de los Jueces ilustra una verdad que el Salvador confirmó en Sus parábolas: el Padre siempre está dispuesto a recibir de regreso a quien se ha alejado. Cada vez que Israel clamó al Señor en su angustia, el Señor respondió. No los dejó en la opresión. El ciclo de los Jueces es también el ciclo de la misericordia divina: por mucho que el hombre se aleje, el camino de regreso siempre está abierto.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/2024/04/11uchtdorf?lang=spa"
-        },
-        {
-          "tipo": "cita",
-          "autor": "Presidente M. Russell Ballard",
-          "fuente": "«Permaneced firmes en la fe», Liahona, noviembre de 2008, pág. 94.",
-          "texto": "El ciclo de los Jueces nos enseña lo peligrosa que es la prosperidad para la fe: Israel se alejó de Dios precisamente cuando las cosas iban bien. La adversidad los llevó de vuelta. Este patrón nos llama a cultivar la gratitud y la fidelidad en los momentos de abundancia, antes de que la necesidad nos obligue a recordar al Señor.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/2008/10/standfast?lang=spa"
+          "autor": "Presidente Russell M. Nelson",
+          "fuente": "«Decisiones para la eternidad», devocional mundial para jóvenes adultos, 15 de mayo de 2022.",
+          "texto": "Mediante Su expiación, el Señor Jesucristo venció al mundo. Por tanto, Él es «poderoso para […] limpiar[los] de toda iniquidad». Él los librará de sus circunstancias más agobiantes a Su manera y en Su propio tiempo. Conforme ustedes vengan a Él con fe, Él los guiará, preservará y protegerá. Él sanará sus corazones rotos y les dará consuelo en su angustia.",
+          "link": "https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa#p57"
         },
         {
           "tipo": "parrafo",
-          "texto": "Débora, la única jueza del libro, ofrece un contraste refrescante con el ciclo general de decaimiento. Era profetisa y lideró a Israel a una victoria decisiva sobre el general cananeo Sísara. Su historia ilustra que el Señor llama a quienes Él escoge, sin las limitaciones que la cultura impone, y que la profecía y el liderazgo son dones del Espíritu accesibles a quienes el Señor escoge para Sí mismo. El cántico de Débora en Jueces 5 es uno de los poemas más antiguos de la Biblia, y su tono de alabanza a Dios lo diferencia radicalmente de las quejas del ciclo de la murmuración."
+          "texto": "Débora, la única jueza del libro, ofrece un contraste con el ciclo general de decaimiento: fue profetisa, y su fe le dio a Barac el valor que él no encontraba solo. Pero el libro entero apunta más allá de sus protagonistas. Cada juez libera a Israel por un rato y después muere, y el ciclo vuelve a empezar; ninguno alcanza. Esa insuficiencia repetida es justamente lo que el relato quiere que se note, porque el libertador que no muere y cuya paz no depende de una generación es Jesucristo. Los jueces son ensayos de Él: rescates parciales que preparan al pueblo para reconocer al Salvador cuyo poder redentor sí llega hasta la raíz del problema. Esta semana, en vez de prometer que no volverás a caer, apóyate en Su misericordia y vuelve a empezar desde ahí."
         },
         {
           "tipo": "doctrinal",
@@ -63,10 +64,12 @@
         {
           "tipo": "reflexion",
           "preguntas": [
-            "El ciclo de los Jueces comenzó con una generación que no conocía al Señor. ¿Qué haces actualmente para asegurarte de que las personas bajo tu influencia —familia, amigos, quienes enseñas— lleguen a conocer al Señor por experiencia propia, no solo de oídas?",
-            "Gedeón preguntó '¿si el Señor está con nosotros, por qué nos ha sobrevenido todo esto?' ¿Has hecho alguna vez esa misma pregunta? ¿Qué respondió el Señor a tu corazón?",
-            "El Señor redujo el ejército a 300 para que la victoria no pudiera atribuirse al poder humano. ¿Hay alguna área en tu vida donde el Señor te ha pedido hacer algo con recursos insuficientes, precisamente para que aprendas a depender de Él?",
-            "Sansón no sabía que el Señor ya se había apartado de él. ¿Qué indicadores en tu propia vida te alertarían de que te estás alejando de la presencia del Señor antes de llegar a ese punto?"
+            "El ciclo de los Jueces arranca con una generación que «no conocía a Jehová». ¿Qué hace que una fe no pase de una generación a la siguiente?",
+            "Gedeón preguntó por qué, si el Señor estaba con ellos, les había sobrevenido todo aquello. ¿Alguna vez hiciste esa misma pregunta?",
+            "Vuelve a leer Jueces 6:12–16 y compara cómo se describe a Gedeón el ángel y cómo se describe Gedeón a sí mismo. ¿Cuál de las dos descripciones se cumple después?",
+            "El presidente Nelson enseñó que Jesucristo libra de las circunstancias más agobiantes a Su manera y en Su tiempo. ¿Qué te cuesta más de esa frase: «a Su manera» o «en Su tiempo»?",
+            "Sansón no se dio cuenta de que el Señor se había apartado. Ora esta semana pidiendo ver una zona donde te estés alejando sin notarlo, y anota lo que venga.",
+            "El ciclo se rompe cuando alguien clama en vez de arreglárselas solo. Elige una situación concreta de esta semana y llévala al Señor antes de intentar resolverla."
           ]
         }
       ]
@@ -75,58 +78,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Cuál es el patrón repetitivo que describe el ciclo de Israel en el libro de Jueces?",
+      "question": "Según Jueces 2:10–12, ¿qué se dice de la generación que se levantó después de Josué?",
       "options": [
-        "Israel elige un rey, este los guía a la victoria, muere y el proceso se repite.",
-        "Israel construye un templo, lo abandona, lo reconstruye y así sucesivamente.",
-        "Israel prospera, conquista nuevas tierras, descansa y luego vuelve a expandirse.",
-        "Israel peca, es oprimido, clama, recibe un libertador y descansa."
+        "Que emigró hacia el norte y se mezcló con los pueblos de la costa fenicia.",
+        "Que reclamó un rey para gobernar como lo tenían las naciones vecinas.",
+        "Que conservó el altar de Siquem pero descuidó las fiestas anuales del Señor.",
+        "Que no conocía a Jehová ni la obra que había hecho por Israel, y sirvió a otros dioses."
       ],
       "correctAnswer": 3
     },
     {
       "id": 2,
-      "question": "¿Qué nos enseña la historia de Débora como jueza y profetisa en Jueces 4?",
+      "question": "Según Jueces 7:2–4, 7, ¿por qué razón mandó el Señor reducir el ejército de Gedeón?",
       "options": [
-        "Que el Señor puede llamar y capacitar a cualquiera que esté dispuesto.",
-        "Que el liderazgo femenino era una anomalía que debía corregirse.",
-        "Que Débora gobernó en contra de la voluntad de los líderes varones de Israel.",
-        "Que las mujeres solo podían liderar en ausencia de hombres disponibles."
+        "Para que Israel no se jactara diciendo que su propia mano lo había salvado.",
+        "Para dejar suficientes hombres custodiando el campamento durante toda la noche.",
+        "Porque el terreno del valle no permitía desplegar una fuerza numerosa.",
+        "Porque la mayoría de aquellos hombres no tenía ninguna experiencia previa en combate."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "¿Qué inseguridad inicial mostró Gedeón cuando el Señor lo llamó en Jueces 6, y cómo lo superó?",
+      "question": "El ciclo que estructura el libro de los Jueces tiene cuatro etapas. ¿Cuáles son, según el contexto y los puntos doctrinales de la lección?",
       "options": [
-        "Temía hablar en público y el Señor le prometió elocuencia.",
-        "Se creía el menor de todos, y confió en la promesa.",
-        "No sabía combatir y pidió que le enviaran un ejército más grande.",
-        "Dudaba de su fe y pidió ver un ángel visible antes de actuar."
+        "Promesa, prueba, obediencia y bendición material sobre las doce tribus.",
+        "Apostasía, aflicción bajo un opresor, clamor al Señor y liberación por un juez.",
+        "Migración, asentamiento, construcción de altares y aparición de los profetas.",
+        "Conquista, reparto de la tierra, censo de las tribus y renovación pública del convenio."
       ],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "question": "¿Por qué redujo el Señor el ejército de Gedeón a solo trescientos hombres antes de la batalla en Jueces 7?",
+      "question": "Cuando el ángel saluda a Gedeón como «varón esforzado y valiente», él responde describiéndose de otra manera. ¿Qué enseña ese contraste, según la lección?",
       "options": [
-        "Para castigar a los soldados que habían mostrado cobardía previamente.",
-        "Porque un ejército pequeño era más fácil de abastecer en el desierto.",
-        "Para que la victoria no se atribuyera a Israel sino al Señor.",
-        "Porque los demás soldados no tenían suficiente entrenamiento militar."
+        "Que el llamamiento se le ofreció primero a otro y él quedó como reemplazo.",
+        "Que Gedeón todavía no había reconocido que su interlocutor venía de parte del Señor.",
+        "Que el Señor ve en Sus siervos una fortaleza que ellos todavía no reconocen.",
+        "Que la humildad excesiva descalificaba a un hombre para dirigir a Israel."
       ],
       "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "¿Qué lección sobre las consecuencias de comprometer los convenios podemos aprender de la caída de Sansón en Jueces 16?",
+      "question": "Ariel repite el mismo error cada pocos meses, se arrepiente con sinceridad y vuelve a caer, y ya piensa que no tiene sentido intentarlo otra vez. Según el ciclo de los Jueces y la enseñanza del presidente Nelson en esta lección, ¿qué le dirías?",
       "options": [
-        "Que la fuerza física es más importante que la fidelidad espiritual.",
-        "Que los dones espirituales son permanentes sin importar nuestras decisiones.",
-        "Que revelar los secretos sagrados a quienes nos presionan no tiene consecuencias graves.",
-        "Que abandonar los convenios nos deja sin el poder del Señor."
+        "Que el problema es de disciplina personal y se resuelve con más fuerza de voluntad.",
+        "Que el arrepentimiento repetido pierde valor cuando se vuelve una costumbre.",
+        "Que conviene esperar a estar seguro de no recaer antes de volver a empezar.",
+        "Que el patrón se rompe clamando a Aquel que libra de las circunstancias más agobiantes."
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "Ivana se ofrece para una responsabilidad en la Iglesia y enseguida se arrepiente porque no se siente capaz. Según el llamamiento de Gedeón, ¿qué principio se aplica a su caso?",
+      "options": [
+        "Que la misión precede a la capacidad: el Señor faculta a quien envía.",
+        "Que conviene aceptar solamente aquello para lo que uno ya está preparado.",
+        "Que la sensación de incapacidad suele indicar que el llamamiento es de otro.",
+        "Que la capacidad se demuestra antes de recibir la misión y nunca después."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Los jueces libran a Israel una y otra vez, pero ninguno rompe el ciclo. ¿Hacia qué apunta esa insuficiencia repetida, según el párrafo de cierre?",
+      "options": [
+        "Hacia el fracaso definitivo del pueblo, que ya no volvería a ser liberado.",
+        "Hacia Jesucristo, el Libertador que no muere y cuyo rescate llega a la raíz.",
+        "Hacia la conveniencia de repartir el liderazgo entre varios jueces al mismo tiempo.",
+        "Hacia la necesidad de un rey que unifique políticamente a las doce tribus de Israel."
+      ],
+      "correctAnswer": 1
     }
   ]
 }

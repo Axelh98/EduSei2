@@ -9,42 +9,54 @@
           "texto": "El libro de Josué es el relato de la generación que sí creyó. Mientras la generación del desierto murió sin entrar a la tierra prometida por su incredulidad, la nueva generación —liderada por Josué ('Jehová es salvación', el mismo nombre en hebreo que Jesús)— cruzó el Jordán y tomó posesión de la promesa. El patrón se repite: cruzar un cuerpo de agua (el Jordán se detuvo), enfrentar fortalezas aparentemente invencibles (Jericó), y descubrir que las victorias no vienen por la superioridad militar humana sino por la obediencia al Señor. El libro culmina con el discurso final de Josué en Siquem —una renovación del convenio— donde lanzó el desafío que ha resonado en cada generación posterior: 'Escogeos hoy a quién sirváis… pero yo y mi casa serviremos al Señor.'"
         },
         {
+          "tipo": "parrafo",
+          "texto": "Vale la pena detenerse en el nombre del protagonista antes de entrar al relato. Josué se llamaba Oseas y fue Moisés quien le cambió el nombre; en hebreo, Yehoshúa significa «Jehová es salvación», y es la misma palabra que siglos después se traduciría al griego como Jesús. Quien lleva al pueblo adentro de la promesa lleva, literalmente, el nombre del Salvador. Ese detalle marca el tono del libro entero: las victorias que vienen no se explican por el ejército, por las murallas ni por la estrategia, sino por quién va delante."
+        },
+        {
           "tipo": "escritura",
           "referencia": "Josué 1:7–9",
-          "texto": "Solamente esfuérzate y sé muy valiente, para cuidar de hacer conforme a toda la ley que mi siervo Moisés te mandó; no te apartes de ella ni a diestro ni a siniestro, para que seas prosperado en todas las cosas que emprendas. Nunca se apartará de tu boca este libro de la ley, sino que de día y de noche meditarás en él, para que guardes y hagas conforme a todo lo que en él está escrito; porque entonces harás prosperar tu camino, y todo te saldrá bien. Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque el Señor tu Dios estará contigo en dondequiera que vayas.",
+          "texto": "Solamente esfuérzate, y sé muy valiente, para cuidar de hacer conforme a toda la ley que mi siervo Moisés te mandó; no te apartes de ella ni a la derecha ni a la izquierda, para que prosperes en todas las cosas que emprendas. Este libro de la ley nunca se apartará de tu boca, sino que de día y de noche meditarás en él, para que guardes y hagas conforme a todo lo que en él está escrito, porque entonces harás prosperar tu camino y todo te saldrá bien. Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo dondequiera que vayas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=spa&id=p7-p9#p7",
           "comentario": "El mandato 'esfuérzate y sé muy valiente' se repite cuatro veces en el primer capítulo. La valentía que el Señor pide no es la ausencia de miedo —Josué enfrentaba una tarea humanamente imposible— sino la determinación de avanzar a pesar del miedo, fundamentada en la promesa divina. Y la condición de la prosperidad no es la habilidad estratégica, sino la meditación constante en la ley del Señor y la obediencia cuidadosa a ella."
         },
         {
           "tipo": "escritura",
           "referencia": "Josué 2:11–12",
-          "texto": "Y que el Señor vuestro Dios es Dios arriba en los cielos y abajo en la tierra. Os ruego pues, que me juréis ahora por el Señor, que como he hecho misericordia con vosotros, así la haréis vosotros con la casa de mi padre.",
-          "comentario": "Rahab, una mujer cananea de reputación dudosa, declara una de las confesiones de fe más notables del libro: 'El Señor vuestro Dios es Dios arriba en los cielos y abajo en la tierra'. Su fe no vino de haber presenciado los milagros del desierto, sino de haber escuchado el relato de ellos. Y esa fe la llevó a arriesgar su vida para proteger a los espías. Rahab es incluida en la genealogía de Jesucristo (Mateo 1:5), ilustrando que la fe genuina no tiene fronteras étnicas ni sociales."
+          "texto": "Al oír esto, ha desfallecido nuestro corazón, y no ha quedado más aliento en hombre alguno por causa de vosotros, porque Jehová, vuestro Dios, es Dios arriba en los cielos y abajo en la tierra. Os ruego pues, ahora, que me juréis por Jehová, que como he hecho misericordia con vosotros, así la haréis vosotros con la casa de mi padre, de lo cual me daréis una señal segura;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/josh/2?lang=spa&id=p11-p12#p11",
+          "comentario": "Rahab, una mujer cananea de reputación dudosa, declara una de las confesiones de fe más notables del libro: 'Jehová vuestro Dios es Dios arriba en los cielos y abajo en la tierra'. Su fe no vino de haber presenciado los milagros del desierto, sino de haber escuchado el relato de ellos. Y esa fe la llevó a arriesgar su vida para proteger a los espías. Rahab es incluida en la genealogía de Jesucristo (Mateo 1:5), ilustrando que la fe genuina no tiene fronteras étnicas ni sociales."
         },
         {
           "tipo": "escritura",
           "referencia": "Josué 6:2–5",
-          "texto": "Mas el Señor dijo a Josué: Mira, yo he entregado en tu mano a Jericó y a su rey, con sus varones de guerra. Rodearéis la ciudad todos los hombres de guerra… Así harás por seis días. Y siete sacerdotes llevarán siete bocinas de cuernos de carnero delante del arca; y al séptimo día daréis vuelta a la ciudad siete veces, y los sacerdotes tocarán las bocinas. Y cuando toquen prolongadamente el cuerno de carnero, así que oigáis el sonido de la bocina, todo el pueblo gritará a gran voz, y el muro de la ciudad caerá.",
+          "texto": "Mas Jehová dijo a Josué: Mira, yo he entregado en tus manos a Jericó y a su rey, con sus varones de guerra. Rodearéis, pues, la ciudad todos los hombres de guerra, yendo alrededor de la ciudad una vez; y esto haréis durante seis días. Y siete sacerdotes llevarán siete trompetas de cuerno de carnero delante del arca; y al séptimo día daréis siete vueltas a la ciudad, y los sacerdotes tocarán las trompetas. Y cuando toquen prolongadamente el cuerno de carnero, y cuando oigáis el sonido de la trompeta, todo el pueblo gritará a gran voz, y el muro de la ciudad caerá; entonces el pueblo subirá, cada uno derecho hacia delante.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/josh/6?lang=spa&id=p2-p5#p2",
           "comentario": "La toma de Jericó redefinió completamente lo que se entiende por estrategia militar divina: marchar en silencio alrededor de una ciudad amurallada, con sacerdotes portando el arca del convenio, durante seis días. Desde la perspectiva humana era absurdo. Desde la perspectiva de la fe, era el método que garantizaba que nadie pudiera atribuir la victoria a su propio ingenio. El Señor frecuentemente pide obediencia que desafía el sentido común precisamente para que la gloria de la victoria sea claramente Suya."
         },
         {
           "tipo": "escritura",
           "referencia": "Josué 24:14–15",
-          "texto": "Ahora pues, temed al Señor, y servidle con integridad y en verdad; y quitad de entre vosotros los dioses a los cuales sirvieron vuestros padres al otro lado del río, y en Egipto; y servid al Señor. Y si mal os parece servir al Señor, escogeos hoy a quién sirváis; si a los dioses a quienes sirvieron vuestros padres, cuando estuvieron al otro lado del río, o a los dioses de los amorreos en cuya tierra habitáis; pero yo y mi casa serviremos al Señor.",
-          "comentario": "El discurso final de Josué en Siquem es un modelo de renovación de convenio: recuento de la historia de las misericordias de Dios, invitación a elegir, y compromiso personal público. La frase 'yo y mi casa serviremos al Señor' no es solo una declaración individual; es una declaración familiar. Josué no impuso el evangelio a su familia; modeló para ellos la elección libre y valiente. Ese es el liderazgo espiritual hogareño en su forma más pura."
+          "texto": "Ahora pues, temed a Jehová, y servidle con integridad y en verdad; y quitad de en medio de vosotros los dioses a los cuales sirvieron vuestros padres al otro lado del río y en Egipto, y servid a Jehová. Y si mal os parece servir a Jehová, escogeos hoy a quién sirváis; si a los dioses a quienes sirvieron vuestros padres, cuando estuvieron al otro lado del río, o a los dioses de los amorreos en cuya tierra habitáis; pero yo y mi casa serviremos a Jehová.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=spa&id=p14-p15#p14",
+          "comentario": "El discurso final de Josué en Siquem es un modelo de renovación de convenio: recuento de la historia de las misericordias de Dios, invitación a elegir, y compromiso personal público. La frase 'yo y mi casa serviremos a Jehová' no es solo una declaración individual; es una declaración familiar. Josué no impuso el evangelio a su familia; modeló para ellos la elección libre y valiente. Ese es el liderazgo espiritual hogareño en su forma más pura."
         },
         {
           "tipo": "cita",
-          "autor": "Élder Gary E. Stevenson",
-          "fuente": "«Yo y mi casa serviremos al Señor», Liahona, noviembre de 2023, pág. 95.",
-          "texto": "Josué no dijo 'yo serviré al Señor' sino 'yo y mi casa serviremos al Señor'. Esa inclusión deliberada de su familia fue un acto de liderazgo espiritual hogareño. Los padres y madres en la Iglesia hoy son llamados a hacer esa misma declaración con su vida diaria: modelar el discipulado en el hogar para que sus hijos vean lo que significa servir al Señor.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/2023/10/17stevenson?lang=spa"
+          "autor": "Presidente Russell M. Nelson",
+          "fuente": "«Cristo ha resucitado; la fe en Él moverá montes», Liahona, mayo de 2021, págs. 103–104.",
+          "texto": "Su creciente fe en Él moverá montes, no los montes de roca que embellecen la tierra, sino los montes de desdicha en sus vidas. Su fe floreciente les ayudará a convertir los desafíos en crecimiento y oportunidades incomparables.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/49nelson?lang=spa#p36"
         },
         {
           "tipo": "cita",
-          "autor": "Presidente Ezra Taft Benson",
-          "fuente": "«El libro de Josué: Un manual para los últimos días», Conferencia General, octubre de 1979.",
-          "texto": "El libro de Josué es un manual para los santos de los últimos días. Sus principios —esforzarse y ser valiente, meditar en las Escrituras de día y de noche, obedecer con precisión incluso cuando la estrategia parece absurda, renovar el convenio regularmente— son los mismos principios que nos llevarán a nuestra propia tierra prometida.",
-          "link": "https://www.churchofjesuschrist.org/study/general-conference/1979/10/the-book-of-joshua?lang=spa"
+          "autor": "Élder Dale G. Renlund",
+          "fuente": "«Escogeos hoy», Liahona, noviembre de 2018, págs. 104–106.",
+          "texto": "De hecho, Dios desea, espera y ordena que cada uno de Sus hijos elija por sí mismo. Él no nos forzará. […] Necesitamos escoger a quién serviremos. La magnitud de nuestra felicidad eterna depende de que elijamos al Dios viviente y nos unamos a Él en Su obra.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2018/10/choose-you-this-day?lang=spa#p26"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El libro termina en Siquem con una escena que no era necesaria militarmente: Josué reúne al pueblo ya instalado en la tierra y le pide que elija. Podría haberlo dado por hecho —la promesa estaba cumplida, la tierra repartida—, pero sabía que una generación no hereda la decisión de la anterior. Su «yo y mi casa serviremos a Jehová» no impone nada: modela. Es un hombre que elige en voz alta para que otros puedan elegir. Y detrás de ese llamado está la misericordia de Jesucristo, que sostiene la promesa aun cuando el pueblo tarda en decidirse y que hace posible volver a elegir después de haber elegido mal. Antes de que termine la semana, decide en voz alta una sola cosa que vas a servirle, y decila donde alguien la escuche."
         },
         {
           "tipo": "doctrinal",
@@ -59,10 +71,12 @@
         {
           "tipo": "reflexion",
           "preguntas": [
-            "El Señor le dijo a Josué cuatro veces 'esfuérzate y sé valiente'. ¿En qué área de tu vida el Señor te está llamando a tener esa misma valentía de fe, a avanzar aunque el desafío parezca imposible?",
-            "Rahab creyó con solo haber escuchado los relatos de los milagros de Dios. ¿Qué te dice eso sobre el poder de compartir tu testimonio de las obras del Señor en tu propia vida?",
-            "La toma de Jericó requirió siete días de marcha silenciosa que parecía absurda. ¿Hay algún mandamiento o práctica del Evangelio que todavía te parece poco estratégica o difícil de explicar, pero que el Señor te pide obedecer con precisión?",
-            "Josué hizo una declaración familiar, no solo personal: 'yo y mi casa'. ¿Qué declaración específica sobre el servicio al Señor estás modelando con tu vida cotidiana en tu hogar?"
+            "El Señor le repitió a Josué «esfuérzate y sé valiente» varias veces en pocos versículos. ¿Por qué te parece que hizo falta repetirlo?",
+            "Rahab creyó sin haber presenciado ningún milagro: solo escuchó los relatos. ¿Qué historia que te contaron sostiene hoy tu propia fe?",
+            "Vuelve a leer Josué 6:2–5 y anota la lista exacta de instrucciones para tomar Jericó. ¿Qué parte de ese plan habrías cuestionado si te tocaba obedecerlo?",
+            "El presidente Nelson habló de mover los montes de desdicha, no los de roca. ¿Cuál es el monte que hoy te gustaría que se moviera?",
+            "El élder Renlund recordó que Dios no nos fuerza y espera que elijamos. Ora esta semana por una decisión que estás postergando, y anota lo que recibas.",
+            "Josué eligió en voz alta y delante de todos. Elige una manera concreta de hacer visible esta semana, en tu casa, algo que hasta ahora vives solo por dentro."
           ]
         }
       ]
@@ -71,58 +85,80 @@
   "questions": [
     {
       "id": 1,
-      "question": "¿Qué promesa y mandamiento recibió Josué del Señor al inicio de su liderazgo en Josué 1?",
+      "question": "Según Josué 1:7–9, ¿qué le mandó el Señor a Josué junto con la orden de esforzarse y ser valiente?",
       "options": [
-        "Que recibiría riquezas de todas las naciones que conquistara.",
-        "Que fuera fuerte y valiente, porque el Señor estaría con él dondequiera.",
-        "Que nunca enfrentaría resistencia de los habitantes de Canaán.",
-        "Que el pueblo lo obedecería sin cuestionarlo en ninguna decisión."
+        "Que reconstruyera el altar del monte Ebal antes de cruzar el Jordán.",
+        "Que el libro de la ley no se apartara de su boca y meditara en él día y noche.",
+        "Que dividiera el ejército en doce cuerpos, uno por cada una de las tribus de Israel.",
+        "Que consultara a los ancianos antes de cada movimiento militar."
       ],
       "correctAnswer": 1
     },
     {
       "id": 2,
-      "question": "¿Qué acto de fe demostró Rahab al ayudar a los espías israelitas en Josué 2?",
+      "question": "Según Josué 2:11–12, ¿qué había convencido a Rahab de que Jehová era Dios arriba en los cielos y abajo en la tierra?",
       "options": [
-        "Que ofreció sacrificios al Dios de Israel antes de conocer a los espías.",
-        "Que abandonó su ciudad para unirse al campamento de Israel.",
-        "Que escondió a los espías y ató un cordón rojo en su ventana como señal de protección.",
-        "Que entregó al rey de Jericó información falsa para salvar a los espías."
+        "El testimonio directo de un profeta israelita que había entrado antes a Jericó.",
+        "Un sueño nocturno en el que se le mostró la caída futura de la ciudad amurallada.",
+        "Haber oído lo que el Señor había hecho por Israel en Egipto y en el camino.",
+        "Haber visto con sus propios ojos el paso del Jordán desde la muralla."
       ],
       "correctAnswer": 2
     },
     {
       "id": 3,
-      "question": "¿Qué instrucción poco convencional dio el Señor para conquistar Jericó, y qué nos enseña en Josué 6?",
+      "question": "La lección observa que el nombre de Josué significa «Jehová es salvación» y es el mismo que después se traduciría como Jesús. ¿Qué aporta ese dato a la lectura del libro?",
       "options": [
-        "Enviar una delegación diplomática antes de cualquier acción militar.",
-        "Construir catapultas y atacar en la madrugada, enseñando la importancia de la estrategia militar.",
-        "Negociar con los habitantes de Jericó, enseñando la importancia del diálogo.",
-        "Marchar siete días alrededor de la ciudad tocando trompetas: la obediencia exacta vence."
+        "Aclara por qué las tribus del oriente cruzaron armadas el Jordán.",
+        "Señala que el libro se escribió varios siglos después de los hechos.",
+        "Explica por qué Moisés lo escogió entre los doce espías enviados a Canaán.",
+        "Marca que quien introduce al pueblo en la promesa lleva el nombre del Salvador."
       ],
       "correctAnswer": 3
     },
     {
       "id": 4,
-      "question": "¿Por qué Israel sufrió una derrota en Hai después del éxito en Jericó, según Josué 7?",
+      "question": "Según Josué 6:2–5, el plan para tomar Jericó no dependía de una estrategia militar. ¿Qué muestra eso, según los puntos doctrinales de la lección?",
       "options": [
-        "Porque Acán había desobedecido y tomado lo consagrado.",
-        "Porque el Señor quería que Israel aprendiera de sus errores militares.",
-        "Porque el ejército de Hai era significativamente más poderoso.",
-        "Porque Josué no consultó suficientemente al Señor antes de la batalla."
+        "Que el Señor diseña victorias que hacen evidente que la gloria es Suya.",
+        "Que la marcha silenciosa buscaba desmoralizar a los habitantes de la ciudad.",
+        "Que las murallas de Jericó ya estaban muy deterioradas por el paso del tiempo.",
+        "Que Israel carecía por completo de armas después de tantos años en el desierto."
       ],
       "correctAnswer": 0
     },
     {
       "id": 5,
-      "question": "¿Cuál fue el reto final que Josué presentó al pueblo en Josué 24:15?",
+      "question": "Mariano quiere dejar un hábito que lo avergüenza, pero se convence de que primero tiene que sentirse fuerte y recién después decidir. Según el mandato que el Señor le dio a Josué, ¿qué le falta ver?",
       "options": [
-        "Que decidieran qué leyes de Moisés seguirían observando.",
-        "Que escogieran a quién servir; su casa serviría al Señor.",
-        "Que eligieran entre quedarse en Canaán o regresar a Egipto.",
-        "Que nombraran al próximo líder que guiaría a Israel."
+        "Que estos cambios solo funcionan si los emprende junto a otra persona.",
+        "Que la valentía de fe no es ausencia de miedo, sino avanzar sobre la promesa.",
+        "Que le conviene esperar hasta que el hábito pierda fuerza por sí solo.",
+        "Que la vergüenza es un buen indicador de cuándo uno ya está listo para actuar."
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Fabiana quiere que su casa sea un lugar de fe, pero se limita a exigirles a los suyos que cumplan. Según la declaración de Josué en Siquem y la enseñanza del élder Renlund, ¿qué habría que ajustar?",
+      "options": [
+        "Que la responsabilidad por la fe de la familia recae en los líderes locales.",
+        "Que conviene dejar el tema de lado hasta que ellos pregunten por su cuenta.",
+        "Que Dios espera que cada uno elija, y el liderazgo en casa se modela, no se impone.",
+        "Que primero debe lograr la obediencia y solo después dar su propio ejemplo."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "Rahab y el pueblo reunido en Siquem representan dos maneras de llegar a la misma decisión. ¿Qué las une, según esta lección?",
+      "options": [
+        "Las dos ocurrieron el mismo año, antes de que se repartiera la tierra entre las tribus.",
+        "Las dos involucran a personas ajenas al pueblo del convenio de Israel.",
+        "Las dos escenas suceden dentro de las murallas de una misma ciudad fortificada.",
+        "Las dos muestran a alguien que elige servir al Señor por decisión propia."
+      ],
+      "correctAnswer": 3
     }
   ]
 }
