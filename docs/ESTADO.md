@@ -1,12 +1,14 @@
-# Estado del trabajo — agosto 2026
+# Estado del trabajo — agosto-septiembre 2026
 
 Documento de traspaso entre sesiones. Cubre dos trabajos:
 
 1. **Reestructuración del almacenamiento de lecciones** — terminada y verificada.
 2. **Auditoría de citas proféticas** — empezada, la mayor parte pendiente.
 
-> **Todo lo descrito acá está commiteado en `main`** (agosto de 2026), en un único
-> commit que cubre la reestructuración y la auditoría de citas.
+> **Ojo con dónde vive esto.** La reestructuración y la primera auditoría de citas están
+> commiteadas en `main` (agosto de 2026, un único commit). Todo lo de septiembre va en la rama
+> `contenido/doctrina-y-convenios`, y al 2-sep-2026 **buena parte sigue sin commitear** en el
+> árbol de trabajo.
 > El plan original está en `~/.claude/plans/bubbly-pondering-puzzle.md`.
 
 > 🗺️ Desde agosto de 2026 también hay auditoría de **referencias de Escritura** y de
@@ -70,13 +72,41 @@ JS de cliente: **6,3 MB → 4,4 MB**. Los manifiestos suman 295 KB.
 - **`antiguo-testamento-2` nunca mostró repaso.** Su mapa apuntaba al archivo de
   resúmenes del *primer* semestre y ningún id coincide (67 lecciones, 0 coincidencias).
   No se puede arreglar sin escribir el material del segundo semestre.
+  **Resuelto el 31-ago-2026**: se generó el material del segundo semestre con
+  `seminary-enrichment` (las 67 lecciones). Ver
+  `docs/auditorias/COMPLETITUD-antiguo-testamento-2.md` — contenido generado y verificado al
+  escribirlo, pero todavía sin una auditoría de citas independiente.
 - **`getWeeksWithExtendedContent` fusionaba los 5,7 MB de secciones para nada**:
   `WeekCard` no las usa. Eliminada.
 - **`religion-250.ts` y `religion-200.ts` tenían secciones duplicadas y muertas**
   (~170 KB) que `quiz-data.ts` sobrescribía.
 - **43 lecciones de `libro-de-mormon-2` existen solo en el archivo de contenido**
   y no están en ninguna semana, así que ninguna pantalla las muestra. Se migraron
-  igual (marcadas con `"orphan": true` en el manifiesto) para no perderlas.
+  igual para no perderlas.
+
+  > ⚠️ **Corregido el 4-sep-2026.** Este punto decía que quedaron «marcadas con `"orphan": true`
+  > en el manifiesto». **Esa marca no existe**: se verificó que la cadena `orphan` no aparece ni en
+  > el `_manifest.json` actual ni en el del commit de migración (`d76ff92`). Los archivos huérfanos
+  > simplemente **no figuran en el manifiesto**, que es lo que los deja invisibles — y también lo
+  > que hace que ningún script los distinga si recorre el directorio en vez del manifiesto (ese
+  > error infló los conteos del corpus durante dos días; ver ¹ más abajo).
+  >
+  > El número tampoco es 43 hoy: son **45**. El manifiesto pasó de 68 a 78 lecciones con la
+  > reconstrucción de las semanas 24-27 y 31-33, que reescribió el mapeo y dejó atrás los archivos
+  > viejos. Detalle en
+  > [`auditorias/CALIDAD-contexto-libro-de-mormon-2.md`](auditorias/CALIDAD-contexto-libro-de-mormon-2.md) §5.
+  >
+  > ✅ **Cerrado el 4-sep-2026, más tarde el mismo día.** Se borraron 44 y **se rescató uno**
+  > (`leccion-25-10`, Alma 53: cubría un día de clase que el manifiesto no tenía y que ninguna otra
+  > lección cubre). `libro-de-mormon-2` quedó en **80 archivos / 79 lecciones activas, sin
+  > huérfanos**. Los únicos que quedan en el proyecto son los **8 de `doctrina-y-convenios-2`**.
+  >
+  > ✅ **Cerrado también para DyC-2 el 8-sep-2026, pero con la decisión contraria: se conservan.**
+  > Se leyeron los 8 y se comparó su cobertura contra las lecciones activas antes de decidir nada,
+  > con el mismo método de §5.1. **Ninguno cubre material que el sitio no tenga ya**: son las 8
+  > lecciones que estaban asignadas a los dos semestres a la vez, y DyC-1 las cubre con lecciones
+  > activas y cerradas al 100 %. No hay un caso como el de `leccion-25-10`. **El proyecto ya no
+  > tiene huérfanos pendientes de triaje.**
 
 ## Pendientes de esta parte
 
@@ -107,27 +137,51 @@ recuperarla.
 
 # 2. Auditoría de citas proféticas — EN CURSO
 
-## Panorama: 470 citas de líderes en 8 cursos
+## Panorama: 619 citas de líderes en 9 cursos
 
 | Curso | Citas | Con banderas al empezar | Ahora | Verificadas una por una |
 |---|---:|---:|---:|---|
 | antiguo-testamento-1 | 110 | 12 | 3 | **curso cerrado (110/110)** ¹ |
-| libro-de-mormon-1 | 92 | 4 | 4 | **curso cerrado** |
-| libro-de-mormon-2 | 39 | 0 | 0 | **curso cerrado** |
-| doctrina-y-convenios-1 | 80 | 58 | 1 | 50 de 80 |
+| antiguo-testamento-2 | 61 | 3 | 2 | **curso cerrado (61/61)**, ver `auditorias/AUDITORIA-citas-AT2.md` |
+| libro-de-mormon-1 | 104 ³ | 4 | 0 | **curso cerrado**; anclas `#pN` 104/104 (7-sep-2026) |
+| libro-de-mormon-2 | 73 ⁵ | 0 | 0 | **curso cerrado (73/73, 8-sep-2026)**, con **ancla al párrafo verificada por n-grama literal en 72**; la 73ª es un devocional de BYU sin párrafos numerados (se verificó que la página responde y contiene la cita) — ver `auditorias/BITACORA-libro-de-mormon-2.md` |
+| doctrina-y-convenios-1 | 80 | 58 | 1 | **curso cerrado (80/80)**, ver `auditorias/AUDITORIA-citas-DyC1.md` |
+| doctrina-y-convenios-2 | 50 ⁴ | — | 0 | **curso cerrado (50/50)**, con **ancla al párrafo verificada por n-grama en las 50** (8-sep-2026). Una cita se reemplazó por pertinencia — ver `auditorias/BITACORA-doctrina-y-convenios-2.md` |
 | religion-250 | 38 | 5 | 0 | **curso cerrado (38/38)** |
 | religion-225 | 5 | 5 | **0** | **curso cerrado (5/5)** |
 | religion-301 | 50 | 24 | 1 | 20 de 50 |
-| religion-200 | 56 | 6 | 1 | 1 de 56 |
-| **Total** | **470** | **117** | **10** | **355 de 470 (76 %)** |
+| religion-200 | 56 | 6 | 1 | **17 de 56** — pasada estructural completa, **5 fabricadas/rotas**, ver `auditorias/AUDITORIA-citas-R200.md` |
+| **Total** | **619** ⁵ | **120** | **12** | **550 de 619 (89 %)** |
+
+³ LdM-1 pasó de 92 a 104 citas de líder el 7-sep-2026: se generaron desde cero las 13
+lecciones que estaban con `secciones: []` y se les escribieron 9 citas nuevas, todas tomadas del
+manual de su propia lección y con el link verificado contra la API antes de escribirlo. Dos de los
+slugs que el manual cita **no existían** y devolvían el índice de la conferencia con HTTP 200 (fila
+17 del catálogo); se encontraron los reales parseando ese mismo índice.
+
+⁴ DyC-2 pasó de 54 a **50** el 8-sep-2026: no se borró ninguna, se **recontó sobre el manifiesto**.
+Las otras 4 viven en archivos huérfanos que la app no muestra. Es el mismo error de denominador
+que ya se había corregido en LdM-2 el 4-sep.
+
+⁵ LdM-2 pasó de las 39 auditadas en agosto a **73** el 8-sep-2026. No se agregaron 34 de golpe:
+la reconstrucción del curso ya había llevado el corpus real a 71 (que esta tabla nunca actualizó), y
+el cierre del 8-sep sumó las 2 últimas, en `36-4` y `36-5`, las dos *Ven Sigueme* que no tenían
+ninguna. Las 73 quedaron verificadas y ancladas en esa misma sesión. Los totales de la fila de abajo
+suman esas 73 y descuentan las 39 viejas para no duplicar.
 
 > ¹ **`antiguo-testamento-1` lo revisó Axel a mano** (agosto de 2026) y lo dio por
 > correcto. Esa revisión **no está registrada cita por cita** en
 > `AUDITORIA-citas-AT1.md`: ese documento solo detalla las 4 que encontró el detector.
 > Si más adelante hiciera falta evidencia por cita, hay que rehacerla.
 
-**Quedan 115 citas sin verificar**, en tres cursos: `religion-301` (30),
-`doctrina-y-convenios-1` (30) y `religion-200` (55).
+**Quedan 69 citas sin verificar**, en dos cursos: `religion-301` (30) y `religion-200` (39 sin
+comparar texto, más las 5 fabricadas/rotas ya identificadas que necesitan reemplazo desde el manual).
+
+> **Actualización 1-sep-2026.** `doctrina-y-convenios-1` quedó cerrado: las 29 citas que tenían
+> `link` se verificaron descargando cada discurso y **ninguna resultó fabricada**, aunque 9 tenían
+> una traducción reescrita en vez del texto oficial. Además se generó y verificó
+> `doctrina-y-convenios-2` completo (54 citas nuevas, comprobadas por recall al escribirlas), lo
+> que sube el total del corpus de 531 a 585 citas.
 
 Son **447 fuentes distintas**: verificar un discurso cubre todas sus repeticiones.
 
@@ -264,12 +318,35 @@ los dos casos.
 - [ ] **Las 30 citas de `religion-301` que ya tenían `link`.** **Prioridad alta:** el
       grupo sin link de ese curso salió 20/20 inválido, así que no hay motivo para
       suponer que el otro grupo esté sano. Ver `AUDITORIA-citas-R301.md`.
-- [ ] **Las 30 citas de DyC-1 que ya tenían `link`.** Ver `AUDITORIA-citas-DyC1.md`.
-- [ ] **Las 55 citas restantes de `religion-200`.** Ver `AUDITORIA-citas-R200.md`.
+- [x] ~~Las 30 citas de DyC-1 que ya tenían `link`~~ — cerradas el 1-sep-2026 (29 citas; ninguna
+      fabricada, 9 con traducción reescrita y corregidas). Ver `AUDITORIA-citas-DyC1.md`.
+- [ ] **Las 39 citas de `religion-200` sin comparar texto, más las 5 fabricadas/rotas** que ya
+      se identificaron y necesitan reemplazo desde el manual. La pasada estructural (links) ya
+      está hecha. Ver `auditorias/AUDITORIA-citas-R200.md`.
+- [ ] **Agregar el ancla al párrafo a las 277 citas que no la tienen** (45 % del corpus).
+      Desde el 2-sep-2026 todo `link` de cita debe apuntar al párrafo (`&id=p23#p23`), no al
+      discurso completo. Cuatro cursos no tienen ninguna: AT-2 (61), R200 (56), R301 (50),
+      R225 (5). Verificar con `npx tsx scripts/audit-links-citas.ts <curso> --solo-problemas`.
 
-**Orden sugerido:** `religion-301` (30) → `doctrina-y-convenios-1` (30) →
-`religion-200` (55). Ya no hay ningún grupo marcado por banderas: de acá en adelante
-hay que abrir el manual de cada lección.
+**Orden sugerido:** `religion-301` (30) → `religion-200` (39). Ya no hay ningún grupo
+marcado por banderas: de acá en adelante hay que abrir el manual de cada lección.
+
+### Dos defectos transversales que aparecieron auditando DyC (1-sep-2026)
+
+Los dos tienen script propio y **están pendientes en el resto del corpus**. El detalle y el orden
+sugerido están en `auditorias/PLAN-DE-AUDITORIA.md` §3.
+
+1. **Preguntas que citan a un líder ausente de la sección `enseñanza`.** Aparece cuando una
+   auditoría de citas cambia el autor y nadie revisa `questions`: en DyC-1 eran **37 preguntas en
+   33 lecciones**, muchas citando al autor que se había determinado fabricado. Se detecta con
+   `npx tsx scripts/audit-autores-quiz.ts --todos`. Pendientes: `religion-200` (38),
+   `libro-de-mormon-1` (33), `antiguo-testamento-1` (19), `religion-250` (6), `religion-225` (2).
+
+2. **Quizzes adivinables por la posición de la respuesta correcta.** **11 de los 12 cursos** lo
+   tenían; en `antiguo-testamento-2` responder siempre la segunda opción acertaba el **96 %** y en
+   `nuevo-testamento` el **95 %**. Se mide y se corrige con
+   `npx tsx scripts/audit-distribucion-respuestas.ts <categoria> --write`, que solo rota el orden
+   de las opciones y no toca el texto. Es la corrección más barata del plan: un comando por curso.
 
 ---
 
@@ -278,14 +355,48 @@ hay que abrir el manual de cada lección.
 Las citas de líderes son **la décima parte** de lo que se puede auditar. Relevado en
 agosto de 2026 al discutir cómo dejar que un auditor externo revise el sitio:
 
-| Elemento | Cantidad | Verificable contra | Estado |
+| Elemento | Cantidad ¹ | Verificable contra | Estado (2-sep-2026) |
 |---|---:|---|---|
-| Referencias de Escritura | **1207** (80 sin `link`) | Las Escrituras | **196 auditadas (16 %)** — ver abajo |
-| Preguntas de quiz | 3770 | La lección | nunca auditado |
-| Citas de líderes | 470 | churchofjesuschrist.org | 76 % |
-| Bloques de `contexto` | 425 | Criterio doctrinal | nunca auditado |
-| Cuestionarios de reflexión | 425 | Criterio pedagógico | nunca auditado |
-| `conclusion` | 316 | Criterio doctrinal | nunca auditado |
+| Referencias de Escritura | **1509** ² | Las Escrituras | **Remedido el 8-sep-2026 sobre los 6 cursos grandes**: DyC-1 **280/280** ✅, DyC-2 **208/208** ✅ (subió de 162 con las 46 citas del cierre doctrinal), LdM-1 **308 OK + 1 auto** ✅, AT-2 **199 OK + 1 a revisar**, **AT-1 249 OK + 34 a revisar**, **LdM-2 216 OK + 30 a revisar + 4 auto**. Las **65 pendientes** son el frente C de §0 de [`auditorias/PLAN-DE-AUDITORIA.md`](auditorias/PLAN-DE-AUDITORIA.md). R200 sigue en 53/84 |
+| Preguntas de quiz | 4118 | La lección | **1344 revisadas**: los dos cursos de DyC, R200 completo (196) y AT-1 lecciones 1-45 (119). El sesgo de posición se midió en los 12 y se corrigió en 4 |
+| Citas de líderes | **621** ² | churchofjesuschrist.org | **~509 verificadas (82 %)**: quedan R301 (30), R200 (39), **LdM-2 (35 — recontado el 4-sep, antes se decía 30)** y DyC-1 (8) (ver ¹) |
+| Bloques de `contexto` | 562 | Criterio doctrinal | los 145 de DyC revisados y en rango; **LdM-1 completo: 91/91 en rango y 91/91 nombrando a Jesucristo** (7-sep-2026) |
+| Cuestionarios de reflexión | 562 | Criterio pedagógico | los 145 de DyC revisados y en rango; **LdM-1 completo: 91/91 con seis preguntas, con la de escudriñar y con la de orar/meditar/anotar** (7-sep-2026) |
+| `conclusion` | 526 | Criterio doctrinal | los 145 de DyC revisados y en rango; **LdM-1 completo: 91/91 presentes y en rango** (7-sep-2026) |
+
+> ¹ **Cantidades recontadas el 2-sep-2026 con un conteo directo sobre `lib/content`** (secciones
+> `escrituras.citas[]` + `enseñanza` + los bloques `escritura`/`cita` de las secciones `resumen`).
+> Las cifras viejas —1369 escrituras, 585 citas, 4162 preguntas— venían de un relevamiento de
+> agosto y ya no cerraban por un error de suma en el total de escrituras.
+>
+> ⚠️ **Corregido el 4-sep-2026: el recuento del 2-sep también estaba mal, y por eso las cifras de
+> arriba bajaron de 1619/650 a 1503/619.** Ese conteo recorrió los **archivos del directorio** en
+> vez de las lecciones del **manifiesto**, y sumó **54 archivos huérfanos** que la app no muestra:
+> 45 en `libro-de-mormon-2` y 8 en `doctrina-y-convenios-2`. La conclusión de que «el corpus creció
+> después de auditarlo» era falsa para LdM-2: la reconstrucción de las semanas 24-27 y 31-33
+> (commits `182ab88` y `7314c0f`) **no amplió ese curso, lo reemplazó**, y dejó atrás los archivos
+> viejos con un mapeo de semanas distinto. LdM-2 tenía **189 escrituras y 69 citas**, no 287 y 94
+> (**195 y 71** desde el rescate de `leccion-25-10` y la generación de `leccion-33-5`, ambas el 4-sep);
+> DyC-2 tiene **144 y 50**, no 162 y 56. Ver
+> [`auditorias/CALIDAD-contexto-libro-de-mormon-2.md`](auditorias/CALIDAD-contexto-libro-de-mormon-2.md) §5.
+>
+> Lo que sí sigue en pie: la sesión de DyC sumó **8 citas** a `doctrina-y-convenios-1` (80 → 88).
+> Ese material
+> se generó con `seminary-enrichment` (verificado en el momento de escribirlo), pero **no tiene
+> pasada de auditoría propia**: por eso los cursos marcados «cerrados» no cubren el 100 % de su
+> contenido actual.
+
+> ² **Recontado el 4-sep-2026 sobre las 677 lecciones de los manifiestos** (685 archivos: los 8
+> restantes son los huérfanos de `doctrina-y-convenios-2`). Sube 6 escrituras y 2 citas respecto del
+> conteo anterior: las de `leccion-25-10` (Alma 53), rescatada del limbo de huérfanos ese día, y las
+> de `leccion-33-5` (3 Nefi 20–22), generada y auditada esa misma tarde.
+>
+> ⚠️ **Las columnas «auditadas» bajaron y llevan «~» a propósito.** `libro-de-mormon-2` figuraba
+> como cerrado, pero su auditoría de escrituras es del 29-ago y la de citas del 18-ago, y la
+> reconstrucción del curso es del 31-ago y el 1-sep: **44 de sus 191 escrituras y 35 de sus 70
+> citas nunca se contrastaron contra la fuente**. Medido comparando el corpus activo de hoy contra
+> el universo completo de archivos del 30-ago; detalle en
+> [`auditorias/CALIDAD-contexto-libro-de-mormon-2.md`](auditorias/CALIDAD-contexto-libro-de-mormon-2.md) §4.1.
 
 ### Referencias de Escritura — arrancado en Doctrina y Convenios 1 (agosto de 2026)
 
@@ -302,19 +413,31 @@ tenía contenido que no aparece en ningún lugar del capítulo citado (D&C 64:23
 de diezmo, no de ayuno, como decía el archivo). Ninguna cita resultó ser de un libro o
 capítulo equivocado — el error dominante fue de fidelidad textual, no de fabricación.
 
-**Quedan sin auditar ~1011 de las 1207 referencias de Escritura**: Libro de Mormón,
-Antiguo/Nuevo Testamento y Religión 200/225/250/301. El método de DyC-1 (descargar el
-capítulo, comparar por contención de segmentos y por recall de palabras, buscar en todo
-el capítulo antes de concluir que el texto no existe) es reutilizable tal cual.
+**Actualizado al 4-sep-2026: quedan 212 de las 1503 referencias de Escritura** (14 %), no las
+~1011 de la versión vieja de este párrafo (anterior al cierre de LdM-1, LdM-2, AT-2 y DyC-2) ni
+las 328 sobre 1619 que decía la corrección del 2-sep (ese denominador incluía 116 escrituras que
+viven en archivos huérfanos — ver ¹). El desglose es: `religion-301` (87), `religion-250` (84),
+`antiguo-testamento-1` (48), `religion-200` (31) y `religion-225` (10). **`libro-de-mormon-2` ya
+no figura acá**: sus 68 «pendientes» eran las de los archivos huérfanos. El método de DyC-1 —descargar el capítulo, comparar por contención de segmentos y
+por recall de palabras, buscar en todo el capítulo antes de concluir que el texto no existe—
+es reutilizable tal cual, y hoy está automatizado en `audit-escrituras.ts` +
+`fix-escrituras.ts` + `rescan-ventana-ancha.ts`.
+
+> ⚠️ **Cuidado con el orden al corregir a mano.** `rescan-ventana-ancha.ts` lee el reporte
+> cacheado en `.cache/escrituras/<curso>.json`, no los archivos. Si corregís una cita a mano y
+> después corrés el rescan sin regenerar el reporte, **te pisa la corrección**. El orden
+> correcto es: corregir a mano → `audit-escrituras.ts` (regenera el reporte) → `rescan --write`.
+> Pasó en AT-1 y hubo que reaplicar dos correcciones.
 
 ### Si hay que darle el contenido a un auditor externo
 
 **El sitio no sirve para eso.** Razones concretas:
 
-- **43 lecciones son invisibles desde el sitio.** Hay 714 archivos de lección y solo
-  **671 alcanzables**; las 43 restantes son de `libro-de-mormon-2` y no figuran en
+- **8 lecciones son invisibles desde el sitio.** Hay **685** archivos de lección y
+  **677 alcanzables**; las 8 restantes son de `doctrina-y-convenios-2` y no figuran en
   ningún manifiesto, así que ninguna pantalla las muestra. Un auditor que navegue el
-  sitio devolvería un informe con el 6 % del corpus sin tocar, sin saberlo.
+  sitio no las vería, sin saberlo. (Eran 43+ hasta el 4-sep-2026: las 44 de
+  `libro-de-mormon-2` se borraron y una se rescató al manifiesto.)
 - No hay dónde anotar un veredicto ni forma de citar «revisé la lección X en tal
   estado». El auditor tendría que armar su propia planilla en paralelo.
 - Navegar 671 lecciones a mano no permite filtrar, ordenar ni buscar.
@@ -330,7 +453,7 @@ falta es la forma de recorrerla.
    auditar sin decidir eso es hacerle perder el tiempo a alguien.
 2. **Un CSV por curso**, una fila por elemento auditable
    (`curso, lección, tipo, autor, fuente, texto, link`) más dos columnas vacías
-   `veredicto` y `notas`. Es lo único que escala a 1207 escrituras. Ya existe la mitad:
+   `veredicto` y `notas`. Es lo único que escala a las 1503 escrituras del corpus. Ya existe la mitad:
    `extract-citas.ts --csv` lo hace para citas; falta extenderlo a escrituras,
    `contexto`, `conclusion` y cuestionarios.
 3. **Una página de auditoría por curso** con todas las lecciones de corrido y cada
@@ -350,6 +473,9 @@ npx tsx scripts/extract-citas.ts --json                # con banderas, para filt
 
 npx tsx scripts/fix-citas-links.ts                     # simulación
 npx tsx scripts/fix-citas-links.ts --write             # aplica
+
+npx tsx scripts/audit-links-citas.ts <curso>                   # ¿el link resuelve? ¿tiene ancla?
+npx tsx scripts/audit-links-citas.ts <curso> --solo-problemas  # solo lo que falla
 
 npx tsx scripts/validate-content.ts                    # correr tras cada corrección
 ```
@@ -371,10 +497,49 @@ párrafos**, un párrafo por elemento; un solo párrafo puede ir como string.
 | `scripts/extract-citas.ts` | Inventario y detección de problemas en citas |
 | `scripts/fix-citas-links.ts` | Corrección automática de links de citas |
 | `scripts/migration/**` | Scripts de la migración (ya cumplieron su función) |
-| `docs/auditorias/AUDITORIA-citas-DyC1.md` | Auditoría en curso |
+| `docs/auditorias/AUDITORIA-citas-DyC1.md` | **Curso cerrado (80/80)** |
 | `docs/auditorias/AUDITORIA-citas-R250.md` | Recuperada de git |
 | `docs/auditorias/AUDITORIA-citas-libro-de-mormon.md` | Recuperada de git |
 | `docs/auditorias/AUDITORIA-citas-R301.md` | Grupo sin `link` cerrado (20/50) |
 | `docs/auditorias/AUDITORIA-citas-R225.md` | Curso cerrado (5/5) |
 | `docs/auditorias/AUDITORIA-citas-AT1.md` | Empezada (4/110) |
-| `docs/auditorias/AUDITORIA-citas-R200.md` | Empezada (1/56) |
+| `docs/auditorias/AUDITORIA-citas-R200.md` | Pasada estructural completa (2-sep-2026); 17/56 verificadas, 5 fabricadas/rotas |
+
+## Agregados en la sesión de Doctrina y Convenios (1-sep-2026)
+
+| Ruta | Qué es |
+|---|---|
+| `docs/auditorias/CALIDAD-doctrina-y-convenios-1.md` | Auditoría de Nivel 2 de DyC-1 y el detalle de los cuatro defectos que destapó |
+| `docs/auditorias/COMPLETITUD-doctrina-y-convenios-2.md` | Reconstrucción del manifiesto de DyC-2 y generación de sus 48 lecciones |
+| `scripts/audit-autores-quiz.ts` | Cruza los líderes nombrados en `questions`/`cuestionario` contra el autor real de `enseñanza` |
+| `scripts/audit-distribucion-respuestas.ts` | Mide y corrige el sesgo de posición de la respuesta correcta (`--write` rota las opciones) |
+| `scripts/audit-export.ts` → opción `--agregar-a` | Suma cursos a un Excel de auditoría existente sin pisar las hojas ya cargadas |
+
+## Agregados en la sesión del 2-sep-2026 (AT-1 y R200)
+
+| Ruta | Qué es |
+|---|---|
+| `scripts/audit-links-citas.ts` | **Nuevo.** Verifica que el `link` de cada cita de líder (a) resuelva a un discurso real —el sitio **no da 404** con un slug inexistente, redirige al índice con HTTP 200— y (b) lleve ancla al párrafo. Sirve para los 12 cursos |
+
+**Trabajo hecho en esa sesión:**
+
+- **`antiguo-testamento-1`:** 19/19 atribuciones de quiz cerradas · citas de Escritura de 0 a
+  **231/279** · **29 respuestas de quiz corregidas** (ver `auditorias/PLAN-DE-AUDITORIA.md` §1.3).
+- **`religion-200`:** sesgo de posición corregido (60 % → 25/25/25/25) · **196/196 respuestas de
+  quiz verificadas, limpias** · citas de Escritura de 28 a **53/84** · pasada estructural de las
+  56 citas de líder, con **5 fabricadas/rotas confirmadas**.
+- **Reglas nuevas:** el `link` de toda cita debe llevar **ancla al párrafo** (277 de 619 no la
+  tienen); agregada a `seminary-enrichment/SKILL.md` y verificada por el script nuevo.
+- **Corregido en la documentación:** la skill `seminary-audit` que varios documentos citaban
+  **no existe**; y este archivo decía «quedan ~1011 referencias de Escritura», que era texto viejo.
+- **Recuento del corpus (cierre de la sesión).** Al bajar el estado de R200 a los índices
+  aparecieron cifras que ya no cerraban, así que se recontó `lib/content` archivo por archivo:
+  **1619 escrituras** (no 1369: la suma vieja estaba mal), **650 citas de líder** (no 585) y
+  **4118 preguntas de quiz** (no 4162).
+
+  ⚠️ **Ese recuento también estaba mal, corregido el 4-sep-2026.** Contó archivos, no lecciones del
+  manifiesto, e incluyó 54 huérfanos. Los números reales son **1503 escrituras** y **619 citas**;
+  `libro-de-mormon-2` no pasó de 237 a 287 escrituras sino que **se reemplazó** en la
+  reconstrucción, quedando en 189. Con los denominadores reales: escrituras **1291/1503 (86 %)**,
+  citas de líder **516/619 (83 %)**. La lección de proceso: *contar archivos no es contar
+  contenido* — filtrá siempre por los `id` del manifiesto.

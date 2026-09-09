@@ -145,9 +145,15 @@ saltarse en la auditoría de citas de líderes (§6 de `AUDITORIA-citas-libro-de
 
 - **`doctrina-y-convenios-2`** no tiene ninguna cita de escritura que auditar todavía: sus 54
   lecciones no tienen material de repaso (`secciones: []`), solo preguntas de quiz.
+  **(Actualizado 1-sep-2026: ya tiene material y quedó cerrado, 162/162.)**
 - Esta auditoría cubre **196 de las ~1207 referencias de Escritura** relevadas en todo el
   proyecto (ver `docs/ESTADO.md`, sección "Lo que queda fuera del alcance actual"). El resto —
   Libro de Mormón, Antiguo/Nuevo Testamento, Religión 200/225/250/301 — no está tocado.
+  **(Actualizado 4-sep-2026: el corpus real son 1503 referencias, de las cuales 1291 están
+  auditadas; lo que sigue sin tocar son R301, R250, R225, más lo que falta de AT-1 y R200 — ver
+  `../ESTADO.md`. El recuento del 2-sep decía 1619 y contaba 116 referencias que viven en archivos
+  huérfanos, entre ellas las 68 que se le atribuían a la reconstrucción de LdM-2, un curso que en
+  realidad está cerrado — ver `PLAN-DE-AUDITORIA.md` §1.5.)**
 - El método (descarga + comparación por recall de palabras + búsqueda en todo el capítulo) es
   reutilizable tal cual para esos cursos; a diferencia de las citas de líder, acá no hace falta
   buscar el documento — el `link` casi siempre existe, así que el trabajo es más rápido por

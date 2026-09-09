@@ -5,9 +5,11 @@ del curso `doctrina-y-convenios-1`. Mismo criterio que
 [R250](AUDITORIA-citas-R250.md) y [Libro de Mormón](AUDITORIA-citas-libro-de-mormon.md):
 cada cita se verifica contra el discurso original en `churchofjesuschrist.org`.
 
-**Estado: grupo de riesgo cerrado.** Las **49 citas que no tenían `link`** —las 7
+**Estado: CURSO CERRADO — 80/80 citas verificadas (1-sep-2026).** Las **49 citas que no tenían `link`** —las 7
 documentadas al principio más las 42 restantes— están verificadas y corregidas.
-Las 31 que ya traían `link` siguen sin revisar una por una.
+Las 29 restantes, que ya traían `link`, se verificaron el 1-sep-2026 descargando cada
+discurso: **ninguna resultó fabricada**, 9 no eran textuales y las 9 están corregidas.
+Ver «Las 29 citas que ya traían `link`» más abajo.
 
 ---
 
@@ -33,13 +35,12 @@ inválidas.
 | `voseo-en-cita` | 5 | **0** |
 | `nombre-mal-escrito` | 8 | **0** |
 | `link-no-oficial` | 1 | **0** |
-| `elder-sin-tilde` | 8 | 7 |
+| `elder-sin-tilde` | 8 | **0** |
 | `link-sin-lang-spa` | 0 | 1 |
-| **Total de citas con problemas** | **58** | **8** |
+| **Total de citas con problemas** | **58** | **1** |
 
-Las 7 de `elder-sin-tilde` son cosméticas y pertenecen a la tarea mecánica que
-sigue pendiente para todo el corpus. La de `link-sin-lang-spa` es esperada: el
-artículo de Bednar de `191-importancia-educacion` solo existe en inglés.
+La única bandera que queda, `link-sin-lang-spa`, es esperada: el artículo de Bednar de
+`191-importancia-educacion` solo existe en inglés.
 
 ## Señal lingüística: voseo
 
@@ -380,13 +381,58 @@ discurso garantiza que la referencia existe, no que la atribución sea correcta.
 Un cruce rápido de «fecha del discurso vs. fechas de vida del autor» encontraría
 más casos como este sin salir a internet.
 
+## Las 29 citas que ya traían `link` — cerradas (1-sep-2026)
+
+Se descargaron los 29 discursos y se comparó cada texto contra el original por recall de palabras,
+además de cruzar el autor declarado con el del discurso.
+
+**Ninguna resultó fabricada.** Es el contraste más fuerte de toda la auditoría: en el grupo *sin*
+`link`, 42 de 42 citas cuya `fuente` era solo «Liahona, mes de año, pág. N» resultaron inválidas;
+en el grupo *con* `link` y con título de discurso, 29 de 29 apuntaban al discurso correcto y al
+autor correcto. El formato de la referencia predijo la validez en los 78 casos, sin excepción.
+
+Lo que sí apareció: **9 de las 29 no eran textuales.** Tenían el autor correcto, el discurso
+correcto y la idea correcta, pero el texto era **una traducción alternativa reescrita**, no el
+texto oficial en español.
+
+| Lección | Autor | Recall antes | Qué se hizo |
+|---|---|---:|---|
+| `56-dc-42-parte-1` | Renlund | 0.79 | Texto literal de «Escógete hoy», ancla `p21` |
+| `162-el-cristo-viviente-parte-1` | Hales | 0.79 | Texto literal, ancla `p16` |
+| `48-dc-30-36-parte-2` | Uchtdorf | 0.79 | Texto literal, ancla `p39` |
+| `35-dc-20-1-36` | Oaks | 0.81 | Texto literal, ancla `p23` |
+| `51-dc-37-38-parte-1` | Eyring | 0.81 | Texto literal, ancla `p9` |
+| `57-dc-42-29-39` | Uchtdorf | 0.86 | Texto literal de la historia de la estatua, ancla `p3` |
+| `196-integridad-educacion` | Wirthlin | 0.90 | Texto literal de *Ensign* abril 1990 ¹, ancla `p4` |
+| `53-dc-39-40` | Nelson | 0.91 | Texto literal de «Convenios», ancla `p5` |
+| `47-dc-30-36-parte-1` | Nelson | 0.93 | Texto literal, ancla `p7` |
+
+Las 20 restantes ya eran textuales; a todas se les reancló el `link` al párrafo exacto.
+
+¹ La página en español de ese discurso de 1990 es un escaneo antiguo al que le faltan tildes
+(«integro», «mas», «intimo»). Se transcribió el texto literal **restaurando solo esas tildes**,
+que son un defecto de digitalización de la página y no del texto original.
+
+**Citas de líder de `doctrina-y-convenios-1`: cerrado 80/80.**
+
+## Un daño colateral que esta auditoría dejó, y que ya se corrigió
+
+Al cambiar el autor de `enseñanza` en 28 lecciones (tabla D), **nadie revisó si el `cuestionario`
+y el `questions` seguían citando al autor viejo.** Seguían: un cruce mecánico encontró
+**37 preguntas en 33 lecciones** que atribuían enseñanzas a un líder ausente de la lección, en
+muchos casos el mismo cuyo texto se había determinado fabricado.
+
+Las 37 están corregidas. El chequeo quedó automatizado en `scripts/audit-autores-quiz.ts` y el
+caso está catalogado como defecto #12 en `CICLO-GENERACION-AUDITORIA.md`. **Regla que se
+desprende: cuando una auditoría de citas cambia autores, correr ese cruce en la misma sesión.**
+Detalle completo en [`CALIDAD-doctrina-y-convenios-1.md`](CALIDAD-doctrina-y-convenios-1.md).
+
 ## Qué falta en este curso
 
-- [ ] **Las 30 citas restantes que ya traían `link`.** No se revisaron una por una.
-      Son un grupo bastante más sano, pero entre las verificadas hubo 6 de 49 con
-      la fuente correcta y el texto inventado, y el caso de `37-dc-21` muestra que
-      también hay autorías equivocadas.
-- [ ] Las 7 de «Elder» sin tilde, junto con las del resto del corpus.
+- Nada en citas de líder: **80/80 verificadas**. `extract-citas.ts` deja una sola bandera,
+  `link-sin-lang-spa`, que es esperada (el artículo de Bednar de `191-importancia-educacion` solo
+  existe en inglés).
+- Las 7 de «Elder» sin tilde ya no aparecen: el detector devuelve 0 en este curso.
 
 ## Cómo continuar
 
