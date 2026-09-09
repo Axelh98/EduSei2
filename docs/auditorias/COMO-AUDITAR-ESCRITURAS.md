@@ -15,6 +15,36 @@ es un script.
 
 ---
 
+> ### ⚠️ Antes de leer nada más: el script **solo ve las citas que tienen `link`**
+>
+> `audit-escrituras.ts` construye la URL del capítulo a partir del `link` de cada cita. Una cita
+> sin `link` no se descarga, no se compara y **no aparece en el reporte** — ni siquiera como
+> pendiente. El resultado es que un curso puede informar «100 % OK» mirando una fracción de sus
+> escrituras, sin que nada en la salida lo advierta.
+>
+> Pasó en `religion-301` (medido el 9-sep-2026): de sus **87 citas, el script veía 17**, e
+> informaba `OK 8 · REVISAR_MANUAL 8 · AUTO_CORREGIBLE 1`. El curso parecía razonable. Al ponerle
+> `link` a las otras 70 y restituirlas desde la API resultaron **todas** paráfrasis:
+>
+> | pasaje | antes | después | |
+> |---|---:|---:|---|
+> | Moisés 7:60–64 | 270 car. | 1337 car. | **+395 %** |
+> | Moisés 6:57–59 | 282 | 1037 | +268 % |
+> | Moisés 4:6–12 | 308 | 939 | +205 % |
+> | Éxodo 34:6–7 | 233 | 424 | +82 % |
+>
+> **Antes de correr el script, contá cuántas citas del curso tienen `link`.** Si no son todas, ese
+> número es el denominador real de lo que el reporte va a decir. La lista de cursos con citas sin
+> `link` está en §1.2 de [`PLAN-DE-AUDITORIA.md`](PLAN-DE-AUDITORIA.md).
+>
+> Y un efecto secundario que conviene anticipar: **restituir un pasaje puede dejar mintiendo a su
+> `comentario`**, que se escribió contra el texto viejo y suele entrecomillar frases de él. En
+> `religion-301`, 34 de 44 frases entrecomilladas quedaron sin coincidir con su propio pasaje —
+> casi todas porque el comentario decía «el Señor» donde la Escritura SUD dice «Jehová». Ver la
+> fila 46 de [`CICLO-GENERACION-AUDITORIA.md`](CICLO-GENERACION-AUDITORIA.md).
+
+---
+
 ## 1. El flujo en tres comandos (más uno de apoyo)
 
 ```bash

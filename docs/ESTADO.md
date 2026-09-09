@@ -149,9 +149,12 @@ recuperarla.
 | doctrina-y-convenios-2 | 50 ⁴ | — | 0 | **curso cerrado (50/50)**, con **ancla al párrafo verificada por n-grama en las 50** (8-sep-2026). Una cita se reemplazó por pertinencia — ver `auditorias/BITACORA-doctrina-y-convenios-2.md` |
 | religion-250 | 38 | 5 | 0 | **curso cerrado (38/38)** |
 | religion-225 | 5 | 5 | **0** | **curso cerrado (5/5)** |
-| religion-301 | 50 | 24 | 1 | 20 de 50 |
+| religion-301 | 49 ⁶ | 0 | 0 | **curso cerrado (49/49, 9-sep-2026)** — las 32 que faltaban se reemplazaron con citas del manual oficial de cada lección; ver `auditorias/BITACORA-r301.md` |
 | religion-200 | 56 | 6 | 1 | **17 de 56** — pasada estructural completa, **5 fabricadas/rotas**, ver `auditorias/AUDITORIA-citas-R200.md` |
-| **Total** | **619** ⁵ | **120** | **12** | **550 de 619 (89 %)** |
+| **Total** | **618** ⁵ ⁶ | **96** | **11** | **579 de 618 (94 %)** |
+
+⁶ `religion-301` pasó de 50 a **49** el 9-sep-2026: `r301-l20` tenía dos citas y su manual oficial
+trae una sola de líder. Antes que dejar la segunda sin respaldo verificable, se borró el bloque.
 
 ³ LdM-1 pasó de 92 a 104 citas de líder el 7-sep-2026: se generaron desde cero las 13
 lecciones que estaban con `secciones: []` y se les escribieron 9 citas nuevas, todas tomadas del
@@ -174,8 +177,9 @@ suman esas 73 y descuentan las 39 viejas para no duplicar.
 > `AUDITORIA-citas-AT1.md`: ese documento solo detalla las 4 que encontró el detector.
 > Si más adelante hiciera falta evidencia por cita, hay que rehacerla.
 
-**Quedan 69 citas sin verificar**, en dos cursos: `religion-301` (30) y `religion-200` (39 sin
-comparar texto, más las 5 fabricadas/rotas ya identificadas que necesitan reemplazo desde el manual).
+**Quedan 39 citas sin verificar**, todas en `religion-200` (39 sin comparar texto, más las 5
+fabricadas/rotas ya identificadas que necesitan reemplazo desde el manual). `religion-301` se
+cerró el 9-sep-2026.
 
 > **Actualización 1-sep-2026.** `doctrina-y-convenios-1` quedó cerrado: las 29 citas que tenían
 > `link` se verificaron descargando cada discurso y **ninguna resultó fabricada**, aunque 9 tenían
@@ -210,13 +214,29 @@ Detalle en **`docs/auditorias/AUDITORIA-citas-DyC1.md`**. De las 49 verificadas,
 solo **7 resultaron textuales**; 28 no correspondían a ninguna fuente del autor
 declarado.
 
-### Religión 301 — grupo sin `link` cerrado (20 de 50)
+### Religión 301 — curso cerrado (49 de 49, 9-sep-2026)
 
-Detalle en **`docs/auditorias/AUDITORIA-citas-R301.md`**. Peor resultado del corpus:
-**20 de 20 inválidas, ninguna textual.** 17 de los 20 discursos citados **no existen**
-—el autor nunca dio un discurso con ese título en esa fecha—, y los 3 restantes eran
-un documento atribuido a la persona equivocada y dos discursos reales cuyo texto no
-aparece en ellos. Los 20 reemplazos salen del manual oficial de Instituto 2026.
+Detalle en **`docs/auditorias/AUDITORIA-citas-R301.md`** y en
+**`docs/auditorias/BITACORA-r301.md`**. Fue el peor resultado del corpus: de las 50 citas
+originales, **32 no verificaban**.
+
+El primer grupo auditado (las 20 sin `link`) resultó **20 de 20 inválidas, ninguna textual**: 17
+de esos discursos **no existen** —el autor nunca dio uno con ese título en esa fecha—, y los 3
+restantes eran un documento atribuido a la persona equivocada y dos discursos reales cuyo texto no
+aparece en ellos.
+
+Las 12 restantes se cerraron el 9-sep, y mostraron que **un `link` que resuelve no prueba nada**:
+
+- **Link que no resuelve a un discurso.** El de `r301-l11` apuntaba a
+  `/liahona/2002/03/the-healing-power-of-forgiveness`, que responde **200 con el índice de la
+  revista de marzo de 2002**, no 404. Ese slug es el del discurso de Hinckley de octubre de 2005.
+- **Link correcto con texto ajeno.** En `r301-l14` el enlace a Kearon era el bueno, pero solo la
+  primera frase del texto atribuido está en el discurso; el resto se había agregado detrás.
+
+Los 32 reemplazos salen del manual oficial de Instituto 2026: del texto verbatim del ancla del
+manual, o del discurso que el manual enlaza. **Ningún slug se dedujo.** `r301-l20` quedó con una
+sola cita —de ahí que el curso tenga 49 y no 50—: su manual trae una sola cita de líder y no
+enlaza ningún discurso, así que se borró el bloque antes que dejarlo sin respaldo.
 
 ### Religión 225 — curso cerrado (5 de 5)
 

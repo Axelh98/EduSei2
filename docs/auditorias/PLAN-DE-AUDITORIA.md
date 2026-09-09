@@ -36,13 +36,28 @@ material de repaso todavía, ver §2)
 | `libro-de-mormon-2` | ✅ **cerrado (246 OK de 250, 8-sep-2026)** — los 4 restantes son resúmenes de pasaje largo que el comparador por recall no puede validar (§4.1), no un pendiente | ✅ **cerrado (73/73, 8-sep-2026)**: 72 con ancla verificada por n-grama literal; la 73ª es un devocional de BYU sin párrafos numerados | ✅ Nivel 1 cerrado (31-ago) · ✅ Nivel 2 cerrado (31-ago, 546 preguntas leídas) — `CALIDAD-libro-de-mormon-2.md` · ✅ **Nivel 3 (registro) cerrado 4-sep: 47 `contexto` reescritos, mediana 82 → 187** — `CALIDAD-contexto-libro-de-mormon-2.md` · ✅ **quiz: las 560 preguntas leídas una por una, 0 `correctAnswer` apuntando a un distractor (8-sep)** | ✅ **cerrado 80/80 en los ocho frentes (8-sep-2026)** |
 | `doctrina-y-convenios-1` | ✅ cerrado (196/196, revalidado 1-sep-2026) | ✅ **cerrado (80/80, 1-sep-2026)** | ✅ **cerrado (91/91 en las cinco secciones, 1-sep-2026)** — ver `CALIDAD-doctrina-y-convenios-1.md` | — |
 | `religion-200` | 🟡 **53/84 (2-sep-2026)**; 25 son citas-resumen y **6 son pendientes reales** | 🟡 **17/56**: pasada estructural completa, **5 fabricadas/rotas confirmadas**, 39 sin comparar texto — ver `AUDITORIA-citas-R200.md` | ✅ sano (28/28 en todo) · ✅ quiz sin sesgo (2-sep) · ✅ **196/196 respuestas verificadas** | — |
-| `religion-225` | 🔴 no empezada (10 citas, **0 con link** — ver §1.2) | ✅ cerrado (5/5) | — (usa convención `resumen`, sin spec propia todavía) | — |
+| `religion-225` | 🔴 no empezada (10 citas, **0 con link** — ver §1.2) | ✅ cerrado (5/5) | ✅ **28/28 en rango (9-sep-2026)** — desde esa fecha los scripts miden la convención `resumen`, ver §1.8 | ✅ **28/28 en los cuatro frentes (9-sep-2026)** |
 | `religion-250` | 🔴 no empezada (84 citas, todas con link) | ✅ cerrado (38/38) | 🟡 quiz: 21/28 con 7 preguntas exactas | — |
-| `religion-301` | 🔴 no empezada (87 citas, solo 17 con link — ver §1.2) | 🟡 20/50 (40 %) | 🟡 casi todo `resumen` (20/25); las 5 clásicas tienen cuestionario en 5, no 6 | — |
+| `religion-301` | ✅ **cerrado (91/91 OK, 9-sep-2026)** — al poner `link` a las 70 que no lo tenían resultaron **todas** paráfrasis; una creció 395 % | ✅ **cerrado (49/49, 9-sep-2026)**: las 32 que no verificaban se reemplazaron con citas del manual oficial de cada lección | ✅ **cerrado (25/25 en los nueve frentes, 9-sep-2026)** — ver [`BITACORA-r301.md`](BITACORA-r301.md) | ✅ **cerrado 25/25 (9-sep-2026)**: Cristo, sustancia, orar y escudriñar al 100 % |
 | `antiguo-testamento-2` | 🟡 **199 OK · 1 `REVISAR_MANUAL` (medido 8-sep-2026)** | ✅ cerrado (61/61) | ✅ contenido generado (31-ago-2026, con `seminary-enrichment`, 67/67) — ver §2 y `COMPLETITUD-antiguo-testamento-2.md` | 🟡 **casi cerrado (8-sep)**: escrituras 65/67 · conclusión 65/67 · los otros seis frentes en 67/67 |
 | `nuevo-testamento` | — | — | — (secciones `[]` en las 78 lecciones) | — |
 | `doctrina-y-convenios-2` | ✅ **cerrado (208/208, 8-sep-2026)** — subió de 162 con las 46 citas nuevas del cierre doctrinal | ✅ **cerrado (50/50, todas con ancla verificada por n-grama, 8-sep-2026)** | ✅ **cerrado (48/48, 1-sep-2026)** — ver `COMPLETITUD-doctrina-y-convenios-2.md` | ✅ **cerrado 48/48 en los ocho frentes (8-sep-2026)** — ver `BITACORA-doctrina-y-convenios-2.md` |
 | `Bloques` | — | — | — (secciones `[]` en las 24 lecciones) | — |
+
+> ### ⚠️ Los números anteriores al 9-sep-2026 no son comparables con los de después
+>
+> Hasta esa fecha, `audit-doctrinal.ts` y `audit-completitud.ts` **salteaban la convención
+> `resumen`**: la contaban y seguían de largo. El proyecto auditaba **533 de 581 lecciones** sin
+> decirlo en ninguna parte — `religion-225` entera era invisible y de `religion-301` solo se
+> medían 5 de 25. Desde el 9-sep los dos scripts la miden (ver §1.8), así que los denominadores
+> de la columna doctrinal cambiaron para esos dos cursos.
+>
+> El mismo día se corrigió la métrica de **sustancia**, que medía «nombra a Cristo *y* dice algo
+> de Él» mirando solo el `contexto`, cuando el criterio del propio checklist —y el que el script
+> ya usaba para marcar `SOLO NOMBRADO`— es `contexto + conclusión`. Eso **sube el porcentaje de
+> sustancia de todos los cursos sin que el contenido haya cambiado**: `religion-200` pasa de 29 %
+> a 100 %, `libro-de-mormon-1` de 67 % a 100 %, el total del proyecto de 77 % a 99 %. El reporte
+> conserva las dos líneas para no romper la comparación con la línea de base del 6-sep.
 
 **La columna doctrinal se agregó el 7-sep-2026**, al cerrar el primer curso en las tres medidas
 que mide `audit-doctrinal.ts` (nombra a Cristo · invita a orar/meditar/anotar · devuelve al pasaje).
@@ -310,6 +325,49 @@ y su matiz— y los distractores se agregan después, más rápido y más cortos
 Regla nueva en `seminary-enrichment/SKILL.md` (contable, no cualitativa: contar en cuántas de las 7
 pasa, y emparejar si son más de 2) y fila 23 en
 [`CICLO-GENERACION-AUDITORIA.md`](CICLO-GENERACION-AUDITORIA.md).
+
+### 1.8 ⚠️ Hallazgo nuevo (9-sep-2026): las auditorías miraban 533 de 581 lecciones
+
+`audit-doctrinal.ts` y `audit-completitud.ts` hacían `continue` al encontrar una lección de
+convención `resumen`: la contaban en el encabezado y no la medían. El efecto, hasta que se
+midió, era invisible en los reportes:
+
+| curso | lecciones que se medían | lecciones reales |
+|---|---|---|
+| `religion-225` | **0** (no aparecía en el ranking doctrinal) | 28 |
+| `religion-301` | 5 | 25 |
+| **proyecto** | **533** | **581** |
+
+La spec de largo de la convención `resumen` estaba fijada desde el 8-sep en
+[`BITACORA-r225.md`](BITACORA-r225.md), pero vivía solo en los scripts del scratchpad
+(`evaluar.js`, `inv.js`), así que el cierre de un curso con esa convención no era reproducible
+por nadie más.
+
+**Corregido el 9-sep-2026** con `scripts/normalizar-resumen.ts`, que lleva los bloques a la forma
+clásica y lo importan los dos scripts. Al medirlas, las 48 lecciones que faltaban dieron limpio:
+`religion-225` al 100 % en los cuatro frentes doctrinales y sin nada fuera de rango en
+completitud. Estaban bien hechas; nadie las estaba mirando.
+
+La spec, para referencia:
+
+| campo | en la convención `resumen` |
+|---|---|
+| `contexto` | los `parrafo` de apertura (todos menos el último), 150–340 palabras |
+| `conclusion` | el párrafo de cierre **solo**, 80–140 palabras |
+| `doctrinal` | bloque aparte, 4 a 6 puntos |
+| Cristo / sustancia | se busca en el párrafo de cierre **más** los puntos doctrinales |
+| `cuestionario` | los `preguntas` del bloque `reflexion`, 6 |
+| `escrituras` | los bloques `escritura`, ≥ 3, con `link` |
+
+Distinguir «el párrafo de cierre» de «el cierre más los puntos doctrinales» no es un detalle:
+sumar los puntos al contar palabras daba *conclusión demasiado larga* en el 100 % de las
+lecciones bien escritas, y no mirarlos al buscar a Cristo daba el falso negativo simétrico.
+
+**Un caso que este cambio destapa y conviene mirar:** una lección `resumen` con un solo `parrafo`
+no tiene cierre distinguible del contexto —el mismo párrafo se contaría dos veces—. El script
+ahora lo informa como «sin cierre distinguible». Lo tenía `r301-l19` y se corrigió.
+
+---
 
 ### 1.1 Completitud de contenido — detalle por curso (Nivel 1, mecánico)
 
