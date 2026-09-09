@@ -1,5 +1,171 @@
 {
   "id": "r225-l26",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Los santos que llegaron al valle del Gran Lago Salado se encontraron con clima adverso, plagas de grillos, sequía y hambre. A Brigham Young, sin embargo, le interesaba menos la cosecha que otra cosa: «Este es un buen lugar para producir santos», dijo en 1856. Cuando en el duro invierno de 1848 algunos quisieron irse a California a buscar oro, profetizó que Dios había designado la Gran Cuenca para el recogimiento de Su pueblo, que allí prosperarían, que el clima se atenuaría y que construirían una ciudad y un templo. Para cuando murió, en 1877, entre sesenta y setenta mil pioneros habían emigrado y fundado unas cuatrocientas comunidades, y el Fondo Perpetuo para la Emigración había financiado el viaje de treinta mil santos desde Europa."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Esa misma década dejó también lo peor de la historia de la Iglesia en el oeste. En 1857, creyendo por error que los santos estaban en rebelión, el presidente Buchanan envió mil quinientos soldados a Utah. En ese clima de miedo, una caravana de emigrantes de Arkansas entró en el territorio y hubo roces en Cedar City. Isaac Haight, alcalde y presidente de estaca, pidió permiso a su comandante para actuar contra ellos; se lo negaron y le dijeron que ignorara las amenazas. En vez de obedecer, planeó con John D. Lee un ataque y una mentira para encubrirlo. El 11 de septiembre de 1857, en Mountain Meadows, la milicia asesinó a unos ciento veinte hombres, mujeres y niños bajo bandera de tregua. Solo sobrevivieron diecisiete niños pequeños."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 121:39",
+          "texto": "Hemos aprendido, por tristes experiencias, que la naturaleza y disposición de casi todos los hombres, en cuanto reciben un poco de autoridad, como ellos suponen, es comenzar inmediatamente a ejercer injusto dominio.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=spa&id=p39#p39",
+          "comentario": "Escrito desde la cárcel de Liberty, casi veinte años antes de Mountain Meadows. Describe con exactitud lo que ocurrió allí: hombres con un poco de autoridad que empiezan a ejercer dominio injusto."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Proverbios 28:13",
+          "texto": "El que encubre sus pecados no prosperará,pero el que los confiesa y los abandona alcanzará misericordia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/prov/28?lang=spa&id=p13#p13",
+          "comentario": "El versículo que separa lo que hicieron los líderes de Cedar City de lo que podrían haber hecho. Encubrir fue la decisión que convirtió un ataque en una masacre."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "3 Nefi 12:43–44",
+          "texto": "Y he aquí, está escrito también que amarás a tu prójimo, y aborrecerás a tu enemigo; mas he aquí, yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=spa&id=p43-p44#p43",
+          "comentario": "Las palabras del Salvador a los nefitas sobre los enemigos. Si se hubieran obedecido, la caravana habría seguido su camino: es exactamente lo que el mensajero traía por escrito, dos días tarde."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Brigham Young",
+          "fuente": "En James S. Brown, Life of a Pioneer: Being the Autobiography of James S. Brown, 1900, págs. 121–122",
+          "texto": "Hay quienes me han planteado la idea de ir [a California]. Les he dicho que Dios ha designado este lugar [la Gran Cuenca] para el recogimiento de Sus santos y que les irá mejor aquí que en las minas de oro […]. Dios me ha mostrado que este es el lugar para establecer a Su pueblo y aquí es donde prosperará […]; Dios atenuará el clima y construiremos una ciudad y un templo para el Dios Altísimo en este lugar.",
+          "link": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-26-class-preparation-material-the-church-in-the-west?lang=spa#p3"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Presidente Henry B. Eyring",
+          "fuente": "«150th Anniversary of Mountain Meadows Massacre», 11 de septiembre de 2007, saladeprensa.laiglesiadejesucristo.org",
+          "texto": "El Evangelio de Jesucristo que hemos aceptado aborrece el asesinato a sangre fría de hombres, mujeres y niños. De hecho, aboga por la paz y el perdón. Lo que aquí hicieron miembros de nuestra Iglesia hace mucho tiempo representa un horrible e inexcusable abandono de las enseñanzas y la conducta cristianas […]. Lamentamos profundamente la masacre llevada a cabo en este valle […] y el sufrimiento innecesario e incalculable de las víctimas de aquel momento y de sus familiares hasta el día de hoy.",
+          "link": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-26-class-preparation-material-the-church-in-the-west?lang=spa#p27"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Dos días después de la masacre volvió el mensajero de Brigham Young con la instrucción de dejar que la caravana partiera en paz. Cuando Haight leyó esas palabras rompió a llorar como un niño y solo pudo decir: «Demasiado tarde, demasiado tarde». Esa misma temporada, los líderes en Salt Lake City resolvieron el conflicto con el gobierno por medio de negociaciones y conversaciones de paz, sin una sola víctima. El contraste es la lección de la lección: un grupo actuó por su cuenta desoyendo a su autoridad, y el otro esperó y negoció. El presidente Eyring lo llamó por su nombre en 2007: un horrible e inexcusable abandono de las enseñanzas cristianas. Ser miembro de la Iglesia de Jesucristo no vuelve infalible a nadie; seguir Sus enseñanzas es una decisión que se toma cada vez."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "Brigham Young profetizó que la Gran Cuenca sería el lugar de recogimiento de los santos, y para 1877 unos setenta mil pioneros habían fundado cerca de cuatrocientas comunidades.",
+            "El Fondo Perpetuo para la Emigración financió el viaje de treinta mil santos desde Europa.",
+            "La masacre de Mountain Meadows resultó de las decisiones de líderes y colonos locales que desobedecieron a su comandante y encubrieron lo hecho.",
+            "El mensajero con la instrucción de dejar pasar la caravana en paz llegó dos días tarde.",
+            "El Evangelio de Jesucristo aborrece el asesinato y aboga por la paz y el perdón; lo ocurrido allí fue un abandono inexcusable de Sus enseñanzas (presidente Eyring)."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Qué historia de pionero conoces que te haya mostrado lo que cuesta sostener una comunidad?",
+            "Haight desobedeció a su comandante y encubrió lo que hizo. ¿En qué punto de esa cadena se pudo haber detenido todo?",
+            "Vuelve a leer Doctrina y Convenios 121:39. ¿Qué dice el versículo que ocurre con casi todos los hombres cuando reciben un poco de autoridad?",
+            "El presidente Eyring pidió perdón públicamente en 2007. ¿Qué te parece que una Iglesia reconozca así algo hecho por sus miembros?",
+            "¿Dónde tienes hoy alguna autoridad, por pequeña que sea, y cómo la estás ejerciendo?",
+            "Ora pidiendo ver si estás encubriendo algo, y anota lo que venga sin discutirlo."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "¿Qué profetizó Brigham Young cuando algunos santos quisieron irse a las minas de oro de California?",
+      "options": [
+        "Que Dios había designado la Gran Cuenca y allí prosperarían",
+        "Que la Iglesia entera se trasladaría a California en pocos años más",
+        "Que quienes se marcharan perderían todo lo que habían conseguido",
+        "Que el oro se agotaría antes de que llegaran a establecerse allí"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dijo también que Dios atenuaría el clima y que allí construirían una ciudad y un templo. Para 1877 unos setenta mil pioneros habían fundado cerca de cuatrocientas comunidades."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "¿Qué era el Fondo Perpetuo para la Emigración?",
+      "options": [
+        "Un impuesto que los territorios cobraban a los recién llegados",
+        "Un recurso que ayudó a financiar el viaje de treinta mil santos desde Europa",
+        "Una reserva de grano creada ante la llegada de las tropas federales",
+        "Un plan para comprar tierras en los territorios vecinos a Utah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se estableció para ayudar a los inmigrantes pobres Santos de los Últimos Días, y financió viajes desde las Islas Británicas, Escandinavia, Suiza, Alemania y los Países Bajos."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "¿Qué instrucción recibió Isaac Haight de su comandante antes de la masacre de Mountain Meadows?",
+      "options": [
+        "Que consultara primero con los demás presidentes de estaca de toda la zona",
+        "Que negociara directamente con los responsables de la caravana",
+        "Que no convocara la milicia y que ignorara las amenazas de los emigrantes",
+        "Que reuniera la milicia y actuara con la mayor rapidez posible"
+      ],
+      "correctAnswer": 2,
+      "explanation": "William Dame le negó el permiso. En vez de obedecer, Haight planeó con John D. Lee un ataque y una mentira para encubrirlo."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Qué ocurrió dos días después de la masacre de Mountain Meadows?",
+      "options": [
+        "Los responsables se entregaron voluntariamente a las autoridades del territorio",
+        "Brigham Young viajó él mismo hasta el sur del territorio de Utah para intervenir",
+        "El ejército de los Estados Unidos entró finalmente en el valle del Lago Salado",
+        "Regresó el mensajero con la orden de dejar partir la caravana en paz"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cuando Haight leyó las palabras de Brigham Young, «rompió a llorar como un niño y las únicas palabras que logró pronunciar fueron: “Demasiado tarde, demasiado tarde”»."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Gael pregunta cómo puede ser que miembros de la Iglesia hicieran algo así. ¿Qué respondió el presidente Eyring en 2007?",
+      "options": [
+        "Que fue un abandono horrible e inexcusable de las enseñanzas cristianas",
+        "Que la responsabilidad recayó sobre las autoridades civiles del territorio",
+        "Que las circunstancias de la época explican en buena parte lo que sucedió",
+        "Que se trató de un episodio del que faltan aún muchos datos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "«El Evangelio de Jesucristo que hemos aceptado aborrece el asesinato a sangre fría de hombres, mujeres y niños. De hecho, aboga por la paz y el perdón»."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Ariadna dirige un grupo pequeño y le cuesta aceptar cuando le corrigen una decisión. ¿Qué le advierte Doctrina y Convenios 121:39?",
+      "options": [
+        "Que la autoridad se pierde cuando no se ejerce con firmeza",
+        "Que casi todos empiezan a ejercer dominio injusto al recibir un poco de autoridad",
+        "Que conviene delegar cuanto antes las decisiones difíciles",
+        "Que quien dirige debe rendir cuentas ante quienes lo sostuvieron en el cargo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "«Es la naturaleza y disposición de casi todos los hombres, en cuanto suponen que tienen un poco de autoridad […], empezar inmediatamente a ejercer injusto dominio»."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "El conflicto con el gobierno se resolvió por negociación y sin víctimas, mientras que en Cedar City terminó en masacre. ¿Qué muestra ese contraste?",
+      "options": [
+        "Que las tensiones se resuelven mejor cuando intervienen las autoridades civiles",
+        "Que la milicia del sur estaba peor entrenada que la del norte",
+        "Que actuar por cuenta propia desoyendo a la autoridad llevó a la tragedia",
+        "Que la distancia con Salt Lake City hacía inevitables muchos malentendidos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los líderes en Salt Lake City resolvieron el conflicto con conversaciones de paz; los de Cedar City desobedecieron a su comandante y encubrieron lo hecho."
+    }
+  ]
 }

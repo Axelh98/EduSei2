@@ -1,5 +1,171 @@
 {
   "id": "r225-l20",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Cada vez que el Señor ha tenido en la tierra un pueblo que obedecía Su palabra, le ha mandado edificar templos. La Primera Presidencia lo resumió así en 2019, y las Escrituras lo documentan desde Adán y Eva, que ofrecían sacrificios, hasta Moisés con el tabernáculo, Salomón con su templo y los nefitas reuniéndose en el suyo. No es una costumbre que la Iglesia haya inventado en el siglo XIX: es el patrón con el que Dios trata a Su pueblo desde el principio. Con la Restauración volvió también la adoración en el templo, y con ella las ordenanzas que bendicen a los vivos y a los que están del otro lado del velo."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El primero de esta dispensación fue el de Kirtland, dedicado en 1836. La oración dedicatoria no la escribió José Smith: la recibió por revelación, y está en Doctrina y Convenios 109. Ahí pidió cosas concretas para quien entrara en esa casa: que saliera armado del poder de Dios, que Su gloria estuviera sobre Su pueblo, que los que adoraran allí crecieran en conocimiento y perfeccionaran su preparación. Cinco años después, en Nauvoo, el Señor mandó construir otro templo y explicó para qué: para revelar ordenanzas que habían estado escondidas desde antes de la fundación del mundo. Entre ellas estaba la investidura, que José empezó a administrar en 1842 en el cuarto superior de su tienda de ladrillo rojo."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 109:22–23",
+          "texto": "Te rogamos, Padre Santo, que tus siervos salgan de esta casa armados con tu poder, y que tu nombre esté sobre ellos, y los rodee tu gloria, y tus ángeles los guarden; y que de este sitio lleven nuevas sumamente grandes y gloriosas, en verdad, hasta los cabos de la tierra, a fin de que sepan que esta es tu obra y que has extendido tu mano para cumplir lo que has hablado por boca de los profetas tocante a los últimos días.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=spa&id=p22-p23#p22",
+          "comentario": "Parte de la oración dedicatoria del Templo de Kirtland. Fijate en el verbo: los que salen de la casa del Señor salen «armados» de poder, y ese poder es para salir, no para quedarse adentro."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 124:40–41",
+          "texto": "Y de cierto os digo, edifíquese esta casa a mi nombre, para que en ella pueda yo revelar mis ordenanzas a mi pueblo; porque me propongo revelar a mi iglesia cosas que han estado escondidas desde antes de la fundación del mundo, cosas que pertenecen a la dispensación del cumplimiento de los tiempos.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=spa&id=p40-p41#p40",
+          "comentario": "La razón que da el Señor para mandar edificar el Templo de Nauvoo: revelar a Su pueblo ordenanzas escondidas desde antes de la fundación del mundo. El templo no es un edificio conmemorativo; es donde se entrega algo que no se entrega en ningún otro lado."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Moisés 5:5–7",
+          "texto": "Y les dio mandamientos de que adorasen al Señor su Dios y ofreciesen las primicias de sus rebaños como ofrenda al Señor. Y Adán fue obediente a los mandamientos del Señor. Y después de muchos días, un ángel del Señor se apareció a Adán y le dijo: ¿Por qué ofreces sacrificios al Señor? Y Adán le contestó: No sé, sino que el Señor me lo mandó. Entonces el ángel le habló, diciendo: Esto es una semejanza del sacrificio del Unigénito del Padre, el cual es lleno de gracia y de verdad.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/5?lang=spa&id=p5-p7#p5",
+          "comentario": "Adán ofrece sacrificios sin saber por qué, y obedece igual. Cuando el ángel le explica que es una semejanza del sacrificio del Unigénito, queda claro que toda adoración en el templo apunta al mismo lugar."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Hermana Jean A. Stevens",
+          "fuente": "«Hijas de Dios bajo convenio», Liahona, noviembre de 2014, pág. 117",
+          "texto": "Si hemos de recibir todas las bendiciones que Dios nos ofrece tan generosamente, nuestro sendero terrenal debe llegar al templo. Los templos son una expresión del amor de Dios. Él nos invita a todos a venir, a aprender de Él, a sentir Su amor, y a recibir las ordenanzas del sacerdocio necesarias para tener la vida eterna con Él […]. Es mediante Su Amado Hijo, Jesucristo, que se cumple toda esperanza, toda promesa y toda bendición del templo.",
+          "link": "https://www.churchofjesuschrist.org/study/general-conference/2014/10/covenant-daughters-of-god?lang=spa#p27"
+        },
+        {
+          "tipo": "cita",
+          "autor": "La Primera Presidencia",
+          "fuente": "«First Presidency Statement on Temples», 2 de enero de 2019, newsroom.ChurchofJesusChrist.org",
+          "texto": "Con la restauración del Evangelio en estos últimos días, la adoración en el templo también ha sido restaurada para bendecir la vida de las personas en todo el mundo y también del otro lado del velo […]. Un templo dedicado es el lugar de adoración más sagrado sobre la tierra.",
+          "link": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-20-class-preparation-material-temple-ordinances-and-worship?lang=spa#p3"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "La investidura se llama así porque es un don, no un examen. En ella se recibe mayor conocimiento de los propósitos del Señor, poder para hacer lo que Él pide, guía y protección al servir, y esperanza y paz para esta vida y para la que viene. A cambio se hacen convenios concretos: obediencia, sacrificio, el Evangelio, castidad y consagración. José se proponía extenderla a todos los santos dignos, no reservarla; Willard Richards lo dijo con todas las letras, y Emma Smith fue la primera mujer investida, en 1843. Nada de eso funciona por el edificio ni por la ceremonia en sí. Como enseñó la hermana Stevens, toda promesa del templo se cumple mediante Jesucristo. Esta semana, mira qué te falta para estar en condiciones de entrar, y empieza por ahí."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "Siempre que el Señor ha tenido un pueblo obediente en la tierra, le ha mandado edificar templos; el patrón se documenta desde Adán y Eva.",
+            "La oración dedicatoria del Templo de Kirtland fue recibida por revelación y pide que quienes adoren allí salgan armados del poder de Dios (Doctrina y Convenios 109).",
+            "El Señor mandó edificar el Templo de Nauvoo para revelar ordenanzas escondidas desde antes de la fundación del mundo (Doctrina y Convenios 124:40–41).",
+            "La investidura es un don de Dios que confiere conocimiento, poder, guía, esperanza y paz, y va unida a cinco convenios: obediencia, sacrificio, el Evangelio, castidad y consagración.",
+            "Toda esperanza, promesa y bendición del templo se cumple mediante Jesucristo (hermana Stevens)."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Qué sentiste la primera vez que entraste a un templo, o qué te gustaría sentir cuando entres?",
+            "Adán ofreció sacrificios durante años sin saber por qué. ¿Qué haces tú cuando obedeces algo que todavía no entiendes del todo?",
+            "Vuelve a leer Doctrina y Convenios 124:40–41. ¿Para qué dice el Señor que manda edificar Su casa, y qué implica la palabra «escondidas»?",
+            "La hermana Stevens dijo que los templos son una expresión del amor de Dios. ¿En qué se nota ese amor concretamente?",
+            "¿Qué paso concreto darás este mes para acercarte al templo: una entrevista, un nombre, una asistencia?",
+            "Ora preguntando qué te falta para estar preparado, y anota lo que te venga a la mente sin discutirlo."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "Según la Primera Presidencia, ¿desde cuándo existe el patrón de la adoración en el templo?",
+      "options": [
+        "Desde la dedicación del Templo de Kirtland en el año 1836",
+        "Desde el reinado de Salomón, que edificó el primer templo verdadero",
+        "Desde Adán y Eva; las Escrituras lo documentan a lo largo de la historia",
+        "Desde que Moisés recibió el modelo del tabernáculo en el Sinaí"
+      ],
+      "correctAnswer": 2,
+      "explanation": "«Cada vez que el Señor ha tenido un pueblo en la tierra que obedecía Su palabra, se le ha mandado edificar templos». El patrón se documenta desde Adán y Eva."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "¿Cómo obtuvo José Smith la oración dedicatoria del Templo de Kirtland?",
+      "options": [
+        "La compuso durante los meses previos con sus consejeros",
+        "La adaptó de la oración que Salomón ofreció en su propio templo",
+        "La improvisó el mismo día, movido por el Espíritu de la ocasión",
+        "La recibió por revelación, y hoy es Doctrina y Convenios 109"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las palabras de esa oración las recibió por revelación del Señor, y quedaron registradas como Doctrina y Convenios 109."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "Según Doctrina y Convenios 124:40–41, ¿para qué mandó el Señor edificar el Templo de Nauvoo?",
+      "options": [
+        "Para revelar ordenanzas escondidas desde antes de la fundación del mundo",
+        "Para demostrar a sus vecinos la prosperidad de la nueva ciudad",
+        "Para reemplazar el Templo de Kirtland, perdido ante los acreedores",
+        "Para reunir a los santos dispersos tras la expulsión de Misuri"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Señor declara que edificará una casa a Su nombre para revelar allí a Su pueblo las ordenanzas que han estado escondidas desde antes de la fundación del mundo."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "En Moisés 5:5–7, Adán ofrece sacrificios durante años. ¿Qué le explica el ángel cuando le pregunta por qué?",
+      "options": [
+        "Que era la costumbre que sus descendientes debían conservar siempre",
+        "Que es una semejanza del sacrificio del Unigénito del Padre",
+        "Que la obediencia sin comprensión tiene mucho más mérito ante Dios",
+        "Que el sacrificio sustituye a las ordenanzas que aún no se habían dado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "«Esto es una semejanza del sacrificio del Unigénito del Padre». Toda la adoración en el templo apunta al mismo lugar."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Guadalupe cree que la investidura es una especie de examen que hay que aprobar. ¿Qué corrige esa idea?",
+      "options": [
+        "Que no exige ningún compromiso por parte de quien la recibe",
+        "Que solo se entiende después de años de asistencia al templo",
+        "Que la palabra investidura significa literalmente un don de Dios",
+        "Que se puede recibir varias veces hasta llegar a comprenderla del todo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La investidura es «un don»: Dios confiere bendiciones sagradas por medio de la expiación de Jesucristo. Va unida a convenios, pero no es una evaluación."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Lautaro pregunta si la investidura estaba reservada a unos pocos, ya que José la administró primero a un grupo reducido. ¿Qué muestra el registro histórico?",
+      "options": [
+        "Que la ordenanza se modificó después para poder darla a más gente",
+        "Que solo los miembros del Cuórum de los Doce podían recibirla entonces",
+        "Que se limitó a quienes habían contribuido a la construcción del templo",
+        "Que José se proponía extenderla a todos los santos dignos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Willard Richards explicó que no se les dio a conocer nada que no se diera a conocer a todos los santos tan pronto estuvieran preparados y hubiera un lugar adecuado. Emma Smith fue la primera mujer investida, en 1843."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "La oración dedicatoria de Kirtland y la enseñanza de la hermana Stevens apuntan a lo mismo sobre el templo. ¿Qué principio comparten?",
+      "options": [
+        "Que las bendiciones del templo se reciben por medio de Jesucristo",
+        "Que la asistencia frecuente es lo que determina las bendiciones",
+        "Que las ordenanzas antiguas fueron reemplazadas por las modernas",
+        "Que el edificio en sí concentra un poder que no existe fuera de él"
+      ],
+      "correctAnswer": 0,
+      "explanation": "José pidió que quienes adoraran allí salieran armados del poder de Dios; la hermana Stevens enseñó que «es mediante Su Amado Hijo, Jesucristo, que se cumple toda esperanza, toda promesa y toda bendición del templo»."
+    }
+  ]
 }

@@ -1,5 +1,172 @@
 {
   "id": "r225-l25",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "«Así termina el mormonismo», publicó un periódico al anunciar la muerte de José y Hyrum. Muchos observadores dieron por hecho que la Iglesia se desmoronaría, y en Nauvoo los propios santos no sabían quién los guiaría. Brigham Young estaba de misión en el este y recién el 16 de julio de 1844 recibió la carta con la noticia. Sintió que la cabeza se le resquebrajaba; nunca había sentido tanta desesperanza. Su primer pensamiento fue el sacerdocio: José había poseído todas las llaves para investir y sellar, y sin ellas la obra no podía avanzar. Por un momento temió que se las hubiera llevado a la tumba. Entonces recordó, en una ráfaga de revelación, que José se las había conferido a los Doce. Se golpeó la rodilla y dijo: «Las llaves del reino están aquí, en la Iglesia»."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El 8 de agosto los santos se reunieron para escuchar a Sidney Rigdon reclamar el liderazgo. Después habló Brigham Young, brevemente, y propuso que el Cuórum de los Doce dirigiera la Iglesia. Emily Hoyt contó que mientras lo escuchaba levantó la mirada para asegurarse de que no era José quien hablaba: tenía sus expresiones, su modo de razonar y hasta el sonido de su voz. Wilford Woodruff escribió que, si no lo hubiera visto con sus propios ojos, nadie habría podido convencerlo de que no era José Smith. Decenas de santos dejaron testimonios parecidos. Con la declaración de Brigham sobre las llaves y con la confirmación del Espíritu Santo, los santos entendieron la voluntad del Señor y sostuvieron a los Doce."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 107:23",
+          "texto": "Los doce consejeros viajantes son llamados para ser los Doce Apóstoles, o sea, testigos especiales del nombre de Cristo en todo el mundo, y así se distinguen de los otros oficiales de la iglesia en los deberes de su llamamiento.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=spa&id=p23#p23",
+          "comentario": "La definición del oficio que resolvió la sucesión antes de que hiciera falta resolverla. Los Doce son testigos especiales del nombre de Cristo en todo el mundo, y poseen en conjunto las llaves."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 136:2",
+          "texto": "Organícense en compañías todo el pueblo de La Iglesia de Jesucristo de los Santos de los Últimos Días y los que viajen con ellos, con el convenio y la promesa de guardar todos los mandamientos y los estatutos del Señor nuestro Dios.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/136?lang=spa&id=p2#p2",
+          "comentario": "«La palabra y la voluntad del Señor en cuanto al campamento de Israel»: instrucciones concretas de organización para una caravana de miles de personas. La revelación no siempre llega en forma de visión."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 136:21–22",
+          "texto": "Guardaos del pecado de tomar el nombre del Señor en vano, porque soy el Señor vuestro Dios, sí, el Dios de vuestros padres, el Dios de Abraham, de Isaac y de Jacob. Soy el que saqué a los hijos de Israel de la tierra de Egipto; y mi brazo está extendido en los postreros días para salvar a mi pueblo Israel.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/136?lang=spa&id=p21-p22#p21",
+          "comentario": "En medio de las instrucciones prácticas, el Señor recuerda quién es y qué hizo antes: el mismo que sacó a los hijos de Israel de Egipto. El precedente no era decorativo; era la promesa."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Hermana Sarah Rich",
+          "fuente": "En Hijas en Mi reino: La historia y la obra de la Sociedad de Socorro, 2011, pág. 34",
+          "texto": "Si no hubiera sido por la fe y el conocimiento que se nos concedieron en aquel templo mediante la influencia y la ayuda del Espíritu del Señor, nuestra experiencia habría sido como dar un salto al vacío […]; pero teníamos fe en nuestro Padre Celestial y depositamos en Él nuestra confianza sabiendo que éramos Su pueblo escogido.",
+          "link": "https://www.churchofjesuschrist.org/study/manual/daughters-in-my-kingdom/chapter-3?lang=spa",
+          "linkManual": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-25-class-preparation-material-succession-in-the-presidency-and-the-trek-west?lang=spa#p21"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder Robert D. Hales",
+          "fuente": "«Las bendiciones del templo», Liahona, febrero de 2014, pág. 54",
+          "texto": "Los convenios que hicieron con el Señor en el Templo de Nauvoo fueron una protección para ellos durante el trayecto hacia el oeste, tal como lo es para cada uno de nosotros hoy día y a lo largo de nuestra vida.",
+          "link": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-25-class-preparation-material-succession-in-the-presidency-and-the-trek-west?lang=spa#p23"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Hay un detalle del éxodo que conviene no perder. La revelación que dirigió el traslado por las planicies no llegó en Nauvoo, mientras los Doce planificaban la salida, ni en la orilla del Misisipi. Llegó el 14 de enero de 1847, en Winter Quarters, con los santos ya un año en camino, enfermos de desnutrición y de frío. El presidente Oaks señaló lo que eso enseña: los hijos de Dios reciben revelación cuando están en acción, no sentados en casa esperando que el Señor les diga el primer paso. Antes de partir habían llenado el templo día y noche para recibir sus ordenanzas, y esos convenios con Jesucristo los sostuvieron, porque Su promesa de ir delante de ellos no dependía del clima ni de las provisiones. Si esperas una respuesta, empieza a caminar."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "José Smith confirió a los Doce Apóstoles todas las llaves del sacerdocio antes de morir; por eso la obra pudo continuar (Doctrina y Convenios 107:23).",
+            "Los santos sostuvieron al Cuórum de los Doce por el testimonio del Espíritu Santo, no solo por un argumento de autoridad.",
+            "Miles de santos llenaron el Templo de Nauvoo día y noche antes del éxodo para recibir la investidura y el sellamiento.",
+            "Los convenios del templo fueron una protección durante el trayecto hacia el oeste, como lo son hoy (élder Hales).",
+            "La revelación que dirigió el traslado llegó cuando los santos ya estaban en marcha, no mientras esperaban instrucciones (Doctrina y Convenios 136; presidente Oaks)."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Cómo llegaste a saber que quienes dirigen la Iglesia hoy fueron llamados por Dios?",
+            "Brigham Young pensó primero en las llaves del sacerdocio, no en el liderazgo. ¿Qué te dice esa prioridad?",
+            "Vuelve a leer Doctrina y Convenios 136:21–22. ¿Qué les pide el Señor y con qué precedente histórico respalda Su promesa?",
+            "Sarah Rich dijo que sin lo recibido en el templo habría sido «dar un salto al vacío». ¿Qué te sostiene a ti cuando el futuro es incierto?",
+            "¿Qué decisión estás postergando hasta tener una respuesta, y qué primer paso podrías dar esta semana?",
+            "Ora después de dar ese paso, no antes, y anota si algo cambia."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "¿Cuál fue el primer pensamiento de Brigham Young al enterarse de la muerte de José Smith?",
+      "options": [
+        "Cómo protegerían a los santos de Nauvoo frente a posibles nuevos ataques",
+        "Si las llaves del sacerdocio se habrían perdido con el Profeta",
+        "Cuándo debía regresar de su misión en el este del país para ayudarlos",
+        "Quién dirigiría la Iglesia ahora que el Profeta ya no estaba con ellos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Temió por un momento que José se hubiera llevado las llaves a la tumba, hasta que recordó que se las había conferido a los Doce: «Las llaves del reino están aquí, en la Iglesia»."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "¿Qué experimentaron muchos santos mientras Brigham Young hablaba el 8 de agosto de 1844?",
+      "options": [
+        "Que los Doce lo señalaron públicamente como sucesor del Profeta",
+        "Que su discurso repetía palabra por palabra el último sermón de José",
+        "Que sus expresiones, su modo de razonar y su voz eran las de José Smith",
+        "Que una luz visible descendió sobre él ante toda la congregación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Emily Hoyt levantó la mirada para asegurarse de que no era José quien hablaba; Wilford Woodruff escribió que, de no haberlo visto, nadie habría podido convencerlo de que no era él."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "Según Doctrina y Convenios 107:23, ¿qué son los Doce Apóstoles?",
+      "options": [
+        "Los consejeros del Presidente de la Iglesia en asuntos administrativos",
+        "Los encargados de dirigir la obra misional en el mundo entero",
+        "Un cuórum que ejerce autoridad solo cuando falta la Primera Presidencia",
+        "Testigos especiales del nombre de Cristo en todo el mundo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ese oficio, y las llaves que José les había conferido, son la razón por la que la obra pudo continuar sin interrupción tras el martirio."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Qué hicieron los santos en el Templo de Nauvoo antes de partir hacia el oeste?",
+      "options": [
+        "Llenaron el templo día y noche para recibir la investidura y el sellamiento",
+        "Lo cerraron y sellaron para evitar que fuera profanado tras su partida",
+        "Guardaron los registros de la Iglesia para llevarlos con ellos",
+        "Lo dedicaron formalmente aunque estuviera aún sin terminar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sarah Rich escribió que sin la fe y el conocimiento recibidos allí, la experiencia habría sido «como dar un salto al vacío»."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Tobías reza hace meses pidiendo dirección sobre su futuro y no recibe respuesta. Según el presidente Oaks y Doctrina y Convenios 136, ¿qué podría estar faltando?",
+      "options": [
+        "Consultar la decisión con alguien que ya haya pasado por lo mismo",
+        "Ponerse en acción, porque la revelación suele llegar a quien ya camina",
+        "Ayunar durante un período prolongado antes de volver a preguntar",
+        "Esperar con paciencia hasta que llegue el tiempo señalado por el Señor mismo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La revelación sobre el traslado no llegó en Nauvoo mientras se planificaba, sino en Winter Quarters, con los santos ya en camino: «los hijos de Dios reciben revelación cuando están en acción»."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "Constanza atraviesa un año de mucha incertidumbre. ¿Qué le ofrece el ejemplo de los santos que cruzaron las planicies?",
+      "options": [
+        "Que la incertidumbre desaparece cuando se recibe una respuesta clara",
+        "Que conviene postergar las decisiones grandes hasta que todo se aclare",
+        "Que los convenios hechos con el Señor sostienen durante el trayecto",
+        "Que las dificultades se acortan si uno tiene la fe suficiente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El élder Hales enseñó que los convenios del Templo de Nauvoo «fueron una protección para ellos durante el trayecto hacia el oeste, tal como lo es para cada uno de nosotros hoy día»."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "La sucesión de 1844 y la revelación de 1847 muestran dos formas en que el Señor guio a Su pueblo. ¿Qué tienen en común?",
+      "options": [
+        "Que en ambas ocasiones se convocó a votación a todos los santos",
+        "Que las dos decisiones se tomaron sin consultar al Cuórum de los Doce Apóstoles",
+        "Que ambas se produjeron en momentos de calma y organización",
+        "Que la guía llegó por medio de las llaves del sacerdocio ya conferidas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En 1844 las llaves ya estaban en los Doce; en 1847 la revelación llegó por medio de quien las presidía. La continuidad de la obra descansa en esas llaves, no en una persona."
+    }
+  ]
 }

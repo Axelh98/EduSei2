@@ -1,5 +1,171 @@
 {
   "id": "r225-l22",
-  "secciones": [],
-  "questions": []
+  "secciones": [
+    {
+      "tipo": "resumen",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Esta lección trata un tema del que la Iglesia habla abiertamente y sobre el que publica ensayos en Temas del Evangelio. Conviene sostener dos cosas a la vez, porque las dos son ciertas: el matrimonio plural fue mandado por Dios a José Smith, y fue una prueba durísima para casi todos los que lo vivieron. Ya en 1831, traduciendo el Antiguo Testamento, José oró para entender por qué algunos profetas y reyes antiguos lo habían practicado. La respuesta llegó como revelación —hoy Doctrina y Convenios 132— y, algún tiempo después, como mandamiento de vivir ese principio y enseñarlo. Personas cercanas al Profeta informaron que un ángel se le apareció tres veces entre 1834 y 1842 para mandárselo."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Lo que sabemos con certeza es limitado, y conviene decirlo así. José y quienes lo practicaron en Nauvoo apenas lo mencionaron por escrito. Sabemos que su primer matrimonio plural, con Fanny Alger, fue en Kirtland a mediados de la década de 1830, y que desde 1841 se casó con otras mujeres y dio a conocer el principio a un número limitado de miembros. La mayoría de esas mujeres tenían entre veinte y cuarenta años; la mayor, Fanny Young, cincuenta y seis; la menor, Helen Mar Kimball, se selló a él varios meses antes de cumplir quince, algo inapropiado según las normas actuales y legal en aquella época. También se selló a varias mujeres ya casadas, y ni ellas ni él explicaron gran cosa: el ensayo de Temas del Evangelio ofrece varias explicaciones posibles y no elige ninguna."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Abraham 3:25",
+          "texto": "y con esto los probaremos, para ver si harán todas las cosas que el Señor su Dios les mandare;",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=spa&id=p25#p25",
+          "comentario": "El versículo que enmarca toda la lección. Uno de los propósitos de esta vida es probar si haremos todas las cosas que el Señor mande, y algunos mandamientos chocan con lo que la cultura y uno mismo esperaban."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Doctrina y Convenios 132:34–35",
+          "texto": "Dios mandó a Abraham, y Sara le dio a Agar por esposa a Abraham. ¿Por qué lo hizo? Porque era la ley; y de Agar nacieron muchos pueblos. De modo que, entre otras cosas, esto cumplía las promesas. ¿Se halló, pues, Abraham bajo condenación? De cierto te digo que no, porque yo, el Señor, lo mandé.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=spa&id=p34-p35#p34",
+          "comentario": "La explicación que el Señor da sobre Abraham y Agar: lo que se le mandó, y por qué su obediencia no le fue contada como pecado. Es la respuesta a la pregunta que José había hecho en 1831."
+        },
+        {
+          "tipo": "escritura",
+          "referencia": "Jacob 2:30",
+          "texto": "Porque si yo quiero levantar posteridad para mí, dice el Señor de los Ejércitos, lo mandaré a mi pueblo; de lo contrario, mi pueblo obedecerá estas cosas.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=spa&id=p30#p30",
+          "comentario": "El principio que ordena todo lo demás: la monogamia es la norma, y la excepción existe solo cuando el Señor la manda expresamente para levantar posteridad. Sin este versículo, la práctica no se entiende."
+        },
+        {
+          "tipo": "cita",
+          "autor": "Hermana Eliza R. Snow",
+          "fuente": "Eliza R. Snow, en Biography and Family Record of Lorenzo Snow, 1884, pág. 69",
+          "texto": "El Profeta José […] describió la difícil prueba mental que experimentó para vencer la repugnancia que sentía […] en lo relativo al establecimiento del matrimonio plural. Él conocía la voz de Dios, sabía que el mandamiento que el Todopoderoso le había dado era proceder […]. Sabía que no solo tenía que combatir y superar sus propios prejuicios e inclinaciones, sino que también tenía que hacer frente a todo el mundo cristiano; no obstante, Dios, que está por encima de todo, había dado el mandamiento y se le debía obedecer.",
+          "link": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019/lesson-22-class-preparation-material-plural-marriage?lang=spa#p11"
+        },
+        {
+          "tipo": "cita",
+          "autor": "Élder Marcus B. Nash",
+          "fuente": "«El nuevo y sempiterno convenio», Liahona, diciembre de 2015, págs. 28, 30",
+          "texto": "[A]lgunos […] interpretan de forma incorrecta lo que dice en [las Escrituras] como que el matrimonio plural es necesario para la exaltación […]. Sin embargo, las revelaciones no apoyan ese concepto […]. [L]a vida eterna se promete a una pareja monógama que es sellada por la autoridad del sacerdocio y que cumple el convenio; sin otros requisitos ni condiciones […]. La Iglesia afirma que la monogamia es la norma de Dios en cuanto al matrimonio, excepto cuando Él autoriza u ordena lo contrario mediante Su profeta.",
+          "link": "https://www.churchofjesuschrist.org/study/liahona/2015/12/the-new-and-everlasting-covenant?lang=spa#p21"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "La práctica terminó por revelación, igual que había empezado. Desde la década de 1860 el gobierno de los Estados Unidos endureció las leyes hasta imponer penas de cárcel; llegó el Manifiesto, y en 1904 el presidente Joseph F. Smith presentó un segundo manifiesto que prohibió todo matrimonio plural nuevo bajo pena de excomunión. Hoy la doctrina es clara: la monogamia es la norma de Dios y el matrimonio plural no es requisito para la exaltación. Lo que queda para nosotros no es la práctica, sino lo que hicieron Brigham Young, que al enterarse deseó morir y tuvo que orar sin cesar, y Lucy Walker, cuya alma se rebelaba hasta que su cuarto se llenó de luz. Ninguno obedeció porque le gustara: llevaron la pregunta a Jesucristo y confiaron en Su promesa de responder a quien pregunta de verdad."
+        },
+        {
+          "tipo": "doctrinal",
+          "puntos": [
+            "Uno de los propósitos de la vida terrenal es probar si haremos todas las cosas que el Señor mande (Abraham 3:25).",
+            "José Smith preguntó en 1831 por qué antiguos profetas practicaron el matrimonio plural, y el Señor respondió con la revelación que hoy es Doctrina y Convenios 132.",
+            "La monogamia es la norma de Dios en cuanto al matrimonio, excepto cuando Él manda lo contrario por medio de Su profeta para levantar posteridad (Jacob 2:30; élder Nash).",
+            "El matrimonio plural no es necesario para la exaltación: la vida eterna se promete a la pareja monógama sellada que cumple el convenio (élder Nash).",
+            "La práctica terminó por revelación: el Manifiesto y, en 1904, el segundo manifiesto del presidente Joseph F. Smith, que prohibió todo matrimonio plural nuevo."
+          ]
+        },
+        {
+          "tipo": "reflexion",
+          "preguntas": [
+            "¿Qué sabías de este tema antes de esta lección, y de dónde lo habías sacado?",
+            "Brigham Young dijo que al enterarse deseó morir, y aun así siguió adelante. ¿Qué te dice eso sobre la diferencia entre entender y obedecer?",
+            "Vuelve a leer Jacob 2:30. ¿Cuál dice el Señor que es la norma, y bajo qué condición existe la excepción?",
+            "El élder Nash aclaró que el matrimonio plural no es requisito para la exaltación. ¿Por qué te parece que esa aclaración hace falta?",
+            "¿Cómo le explicarías este tema a un amigo que lo escuchó por primera vez en un video crítico?",
+            "Elige un mandamiento que hoy te cueste aceptar, llévalo al Señor en oración como hicieron ellos y anota lo que recibas."
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "question": "¿Qué llevó a José Smith a preguntar al Señor sobre el matrimonio plural en 1831?",
+      "options": [
+        "El estudio del Antiguo Testamento durante su traducción inspirada",
+        "Una pregunta que le hicieron los miembros recién llegados a Kirtland",
+        "El consejo de los Doce Apóstoles reunidos en conferencia general",
+        "Una discusión entre los santos sobre las costumbres de otras iglesias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Trabajando en la traducción inspirada del Antiguo Testamento, oró para entender por qué algunos antiguos profetas y reyes israelitas lo habían practicado."
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "Según Jacob 2:30, ¿cuál es la norma del Señor respecto del matrimonio?",
+      "options": [
+        "La norma varía según la cultura y la época de cada pueblo concreto",
+        "La monogamia, salvo que el Señor mande otra cosa",
+        "No hay una norma fija; cada pueblo recibe su propia instrucción",
+        "El matrimonio plural, salvo que el Señor mande lo contrario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "«Porque si yo quiero levantar posteridad para mí, se lo mandaré a mi pueblo; de otra manera, obedecerán estas cosas», es decir, la monogamia."
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "question": "¿Qué describió Eliza R. Snow acerca de la reacción inicial de José Smith ante este mandamiento?",
+      "options": [
+        "Que lo aceptó de inmediato por su confianza absoluta en el Señor",
+        "Que pidió al Señor que se lo confirmara ante testigos antes de proceder",
+        "Que atravesó una difícil prueba mental para vencer la repugnancia que sentía",
+        "Que lo recibió con alivio, porque explicaba pasajes que no entendía"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Snow escribió que tuvo que superar sus propios prejuicios e inclinaciones y enfrentar a todo el mundo cristiano, «no obstante, Dios […] había dado el mandamiento y se le debía obedecer»."
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "question": "¿Qué respondió Brigham Young cuando se enteró de la práctica del matrimonio plural?",
+      "options": [
+        "Que la aceptó sin dificultad por su lealtad al Profeta",
+        "Que pidió tiempo para consultarlo con los demás apóstoles",
+        "Que se negó al principio y estuvo a punto de dejar la Iglesia",
+        "Que fue la primera vez en su vida que deseó morir"
+      ],
+      "correctAnswer": 3,
+      "explanation": "«Fue la primera vez en mi vida que deseé morir». Añadió que tuvo que orar sin cesar y ejercer la fe, hasta que el Señor le reveló la verdad de ello."
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "question": "Catalina escuchó que el matrimonio plural es necesario para alcanzar la exaltación. Según el élder Nash, ¿qué enseñan las revelaciones?",
+      "options": [
+        "Que la vida eterna se promete a la pareja monógama sellada que cumple el convenio",
+        "Que la cuestión no ha sido aclarada por los profetas de estos días",
+        "Que depende de las circunstancias particulares de cada matrimonio",
+        "Que fue necesario en el siglo XIX y dejó de serlo después del Manifiesto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "«Las revelaciones no apoyan ese concepto […]. La vida eterna se promete a una pareja monógama que es sellada por la autoridad del sacerdocio y que cumple el convenio; sin otros requisitos ni condiciones»."
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "question": "¿Cómo terminó la práctica del matrimonio plural en la Iglesia?",
+      "options": [
+        "Los santos votaron discontinuarla en una conferencia general",
+        "Por el Manifiesto y, en 1904, un segundo manifiesto que la prohibió del todo",
+        "Se abandonó gradualmente al morir la generación entera que la había practicado",
+        "Cesó cuando el gobierno de los Estados Unidos la prohibió por ley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la conferencia de abril de 1904, el presidente Joseph F. Smith anunció que todo matrimonio plural nuevo quedaba prohibido y que quien lo celebrara o contrajera sería excomulgado."
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "question": "Abraham 3:25 y las experiencias de Brigham Young y Lucy Walker apuntan al mismo principio. ¿Cuál es?",
+      "options": [
+        "Que las pruebas de fe se reservan para los líderes principales de la Iglesia",
+        "Que los mandamientos difíciles se comprenden mejor con los años",
+        "Que la vida terrenal prueba si haremos lo que el Señor mande, aunque cueste",
+        "Que Dios solo pide lo que resulta razonable para cada cultura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El propósito declarado es probar «si harán todas las cosas que el Señor su Dios les mandare». Los dos llevaron la pregunta a Dios antes de obedecer."
+    }
+  ]
 }

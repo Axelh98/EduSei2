@@ -5,8 +5,8 @@
       "tipo": "contexto",
       "contenido": [
         "Vivimos en el momento de la historia con más acceso a información que jamás haya existido. Con un teléfono en la mano podés acceder en segundos a miles de artículos, videos, opiniones y teorías sobre cualquier tema. Y sin embargo, vivimos también en uno de los momentos de mayor confusión sobre qué es verdad. Hay «verdades» contradictorias sobre nutrición, política, historia, ética, propósito de vida. Todo parece cuestionable. ¿Cómo encontrás un ancla?",
-        "Cuando Jesús terminó el Sermón del Monte, los oyentes quedaron «admirados de Su doctrina; porque les enseñaba como quien tiene autoridad, y no como los escribas» (Mateo 7:28–29). La diferencia no era retórica — era ontológica. Los escribas transmitían interpretaciones de la ley. Jesús ES la ley. No hablaba sobre la verdad: Él declaró «Yo soy... la verdad» (Juan 14:6). Esa afirmación es la más radical que alguien pueda hacer, y es o completamente falsa o absolutamente transformadora.",
-        "El Sermón del Monte es quizás el discurso más importante de la historia humana. En él, Jesús no abolió la ley de Moisés — la elevó radicalmente. Ya no basta con no matar: hay que eliminar la ira. Ya no basta con no cometer adulterio: hay que purificar el corazón. El estándar del Evangelio no opera desde afuera hacia adentro, como las reglas de una institución — opera desde adentro hacia afuera, transformando el carácter de la persona. Eso es lo que hace que las enseñanzas de Cristo sean cualitativamente diferentes de cualquier otro sistema ético que haya existido."
+        "Cuando Jesús terminó el Sermón del Monte, «la multitud se admiraba de su doctrina, porque les enseñaba como quien tiene autoridad, y no como los escribas» (Mateo 7:28–29). La diferencia no era retórica — era ontológica. Los escribas transmitían interpretaciones de la ley. Jesús ES la ley. No hablaba sobre la verdad: Él declaró «Yo soy el camino, y la verdad, y la vida» (Juan 14:6). Esa afirmación es la más radical que alguien pueda hacer, y es o completamente falsa o absolutamente transformadora.",
+        "El Sermón del Monte es quizás el discurso más importante de la historia humana. En él, Jesús no abolió la ley de Moisés — la elevó radicalmente. Ya no basta con no matar: hay que eliminar la ira. Ya no basta con no cometer adulterio: hay que purificar el corazón. El estándar del Evangelio no opera desde afuera hacia adentro, como las reglas de una institución — opera desde adentro hacia afuera, transformando el carácter de la persona. Eso es lo que hace que las enseñanzas de Cristo sean cualitativamente diferentes de cualquier otro sistema ético que haya existido. Y hay una razón de fondo: ningún otro maestro pudo además dar el poder para cumplir lo que enseñaba. Cristo elevó el estándar y, con Su gracia, ofrece la fuerza para alcanzarlo."
       ]
     },
     {
@@ -14,18 +14,18 @@
       "citas": [
         {
           "referencia": "Juan 14:6",
-          "texto": "Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.",
+          "texto": "Jesús le dijo: Yo soy el camino, y la verdad y la vida; nadie viene al Padre sino por mí.",
           "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=spa&id=p6#p6"
         },
         {
-          "referencia": "Juan 7:16–17",
-          "texto": "Jesús les respondió y dijo: Mi doctrina no es mía, sino de aquel que me envió. El que quiera hacer la voluntad de Dios, conocerá si la doctrina es de Dios, o si yo hablo por mi propia cuenta.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/7?lang=spa&id=p16-p17#p16"
+          "referencia": "Juan 7:16–18",
+          "texto": "Jesús les respondió y dijo: Mi doctrina no es mía, sino de aquel que me envió. El que quiera hacer la voluntad de él conocerá si la doctrina es de Dios o si yo hablo por mí mismo. El que habla por sí mismo su propia gloria busca; pero el que busca la gloria del que le envió, este es verdadero, y no hay en él injusticia.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/7?lang=spa&id=p16-p18#p16"
         },
         {
           "referencia": "Mateo 5:21–22, 27–28",
-          "texto": "Oísteis que fue dicho a los antiguos: No matarás; y cualquiera que matare será culpable de juicio. Pero yo os digo que cualquiera que se enoje contra su hermano, será culpable de juicio... Oísteis que fue dicho: No cometerás adulterio. Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón.",
-          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=spa&id=p21-p22#p21"
+          "texto": "Oísteis que fue dicho a los antiguos: No matarás; y cualquiera que matare será culpable de juicio. Pero yo os digo que cualquiera que se enoje con su hermano será culpable de juicio; y cualquiera que diga a su hermano: Raca, será culpable ante el concilio; y cualquiera que diga: Insensato, quedará expuesto al fuego del infierno. […] Oísteis que fue dicho: No cometerás adulterio. Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya ha cometido adulterio con ella en su corazón.",
+          "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=spa&id=p21-p28#p21"
         }
       ]
     },
@@ -38,16 +38,18 @@
     },
     {
       "tipo": "conclusion",
-      "contenido": "Juan 7:17 ofrece la clave para discernir si las enseñanzas de Cristo son verdaderas: «El que quiera hacer la voluntad de Dios, conocerá si la doctrina es de Dios». La verdad de Cristo no se prueba solo con argumentos intelectuales — se confirma con la experiencia de vivirla. Cuando ponés en práctica una enseñanza del Salvador, el Espíritu Santo puede testificar que es verdadera. Esa es la epistemología del Evangelio: actuar primero, y el conocimiento sigue. ¿Cuál enseñanza del Sermón del Monte estás listo para comenzar a practicar esta semana, antes de entender todo su alcance?"
+      "contenido": [
+        "Juan 7:17 ofrece la clave para discernir si las enseñanzas de Cristo son verdaderas: «El que quiera hacer la voluntad de él conocerá si la doctrina es de Dios». La verdad de Cristo no se prueba solo con argumentos intelectuales — se confirma con la experiencia de vivirla. Cuando ponés en práctica una enseñanza del Salvador, el Espíritu Santo puede testificar que es verdadera. Y no la practicás con tus propias fuerzas: Su gracia sostiene el intento y Su ejemplo muestra hacia dónde va. Esa es la epistemología del Evangelio: actuar primero, y el conocimiento sigue. ¿Cuál enseñanza del Sermón del Monte estás listo para comenzar a practicar esta semana, antes de entender todo su alcance?"
+      ]
     },
     {
       "tipo": "cuestionario",
       "preguntas": [
         "¿Cuál enseñanza del Sermón del Monte — no matar la ira, purificar el corazón, amar a los enemigos — te resulta más desafiante en tu vida actual?",
         "Jesús dijo «Yo soy la verdad», no «Yo enseño la verdad». ¿Qué diferencia práctica hace esa distinción para la manera en que buscás orientación espiritual?",
-        "Juan 7:17 dice que la verdad de la doctrina se conoce al estar dispuesto a hacer la voluntad de Dios. ¿Qué dice eso sobre la relación entre obediencia y comprensión espiritual?",
+        "Volvé a leer Juan 7:16–18 en el bloque de escrituras. ¿Qué prueba propone Jesús para distinguir a quien habla de parte de Dios de quien habla por sí mismo? Fijate en el versículo 18: la clave está en qué gloria busca cada uno.",
         "El presidente Nelson dijo que nunca ha habido una época en la que el conocimiento del Salvador fuera más vital y personalmente relevante para toda alma humana. ¿Cuáles son las fuentes concretas en las que más confiás para discernir qué es verdad? ¿Son confiables?",
-        "Mateo dice que elevó el estándar de la ley porque quería que actuáramos como Él, no solo que obedeciéramos reglas. ¿Cómo cambia tu manera de seguir los mandamientos si los entendés como parte de un proceso de transformación interna más que como lista de reglas externas?",
+        "El Sermón del Monte eleva el estándar de la ley porque el Salvador quería que llegáramos a actuar como Él, no solo que obedeciéramos reglas. ¿Cómo cambia tu manera de guardar los mandamientos si los entendés como parte de una transformación interna y no como una lista externa? Llevá esa pregunta a la oración esta semana y anotá lo que te venga.",
         "El Sermón del Monte eleva la ley de Moisés desde la conducta externa hacia la transformación interna. La Lección 6 mostró que toda la ley mosaica apuntaba hacia Cristo. ¿Qué dice ese arco completo sobre el objetivo final del Evangelio?"
       ]
     }
@@ -70,14 +72,14 @@
       "options": [
         "Estar dispuesto a hacer la voluntad de Dios: quien lo esté sabrá si la doctrina es de Dios.",
         "Pedir una señal milagrosa que confirme que Sus palabras son verdaderas.",
-        "Comparar Sus enseñanzas con los textos de los profetas del Antiguo Testamento.",
+        "Comparar Sus enseñanzas con los textos de los profetas del Antiguo Testamento y de la ley de Moisés.",
         "Consultar a los escribas y fariseos como autoridades religiosas reconocidas."
       ],
       "correctAnswer": 0
     },
     {
       "id": 3,
-      "question": "El Sermón del Monte eleva el estándar de «no matarás» a «quien se enoje con su hermano» (Mateo 5:21–22). ¿Qué principio sobre la naturaleza del Evangelio ilustra ese cambio?",
+      "question": "El Sermón del Monte eleva el estándar de «No matarás» a «cualquiera que se enoje con su hermano será culpable de juicio» (Mateo 5:21–22). ¿Qué principio sobre la naturaleza del Evangelio ilustra ese cambio?",
       "options": [
         "Que el Evangelio de Cristo es más exigente que la ley de Moisés y por lo tanto más difícil de cumplir.",
         "Que el Evangelio obra de adentro hacia afuera: transforma el corazón, no la conducta sola.",
@@ -88,7 +90,7 @@
     },
     {
       "id": 4,
-      "question": "El presidente Nelson advirtió que vivimos en un mundo «saturado de información pero escaso de verdad pura». ¿Qué hace que la verdad pura sea diferente de la información abundante?",
+      "question": "El presidente Nelson advirtió: «Una de las plagas de nuestra época es que muy pocas personas saben adónde acudir en busca de la verdad». ¿Qué hace que la verdad pura sea diferente de la información abundante?",
       "options": [
         "Que la verdad pura puede identificarse porque produce consenso entre todas las tradiciones religiosas del mundo.",
         "Que la verdad pura siempre proviene de fuentes académicamente verificadas y revisadas por pares.",
@@ -123,7 +125,7 @@
       "id": 7,
       "question": "Juan 14:6 dice que Cristo ES la verdad (no que la enseña). Juan 7:17 dice que quien quiere hacer la voluntad de Dios conocerá si la doctrina es de Dios. El Sermón del Monte transforma la ley externa en una cuestión del corazón. ¿Cuál es el principio que une estos tres elementos?",
       "options": [
-        "Que la verdad del Evangelio se accede principalmente por el intelecto y la razón filosófica.",
+        "Que a la verdad del Evangelio se accede por el intelecto y la razón.",
         "Que en el Evangelio conocer la verdad es inseparable de vivirla y transformarse.",
         "Que Cristo es la única fuente de verdad factual y que toda otra fuente de conocimiento es ilegítima.",
         "Que el Sermón del Monte reemplaza a Juan 14:6 como la declaración más importante de Cristo sobre Sí mismo."
