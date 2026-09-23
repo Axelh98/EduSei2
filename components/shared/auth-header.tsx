@@ -34,7 +34,7 @@ export function AuthHeader({ userEmail, userRole, backHref, backLabel, eyebrow }
         ) : (
           <Link href="/" className="flex items-center gap-2 group">
             <span className="text-[11px] font-bold uppercase tracking-widest text-primary group-hover:text-primary/80 transition-colors">
-              MSI
+              Aula SEI
             </span>
             <span className="text-xs text-muted-foreground">· inicio</span>
           </Link>

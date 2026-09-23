@@ -242,7 +242,7 @@ export function AdminDashboard({
                 Panel de administración
               </p>
               <h1 className="mt-0.5 text-xl font-bold text-foreground">
-                AulaSEI Analytics
+                Aula SEI Analytics
               </h1>
             </div>
             <RangeSelector value={range} />
@@ -644,7 +644,7 @@ export function AdminDashboard({
 
         {/* Footer */}
         <div className="mt-8 text-center text-[10px] text-muted-foreground/40">
-          MSI Admin · Datos en tiempo real desde Supabase ·{" "}
+          Aula SEI Admin · Datos en tiempo real desde Supabase ·{" "}
           <a
             href={`/admin?key=${adminKey}&range=${range}`}
             className="underline"

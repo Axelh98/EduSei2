@@ -277,7 +277,7 @@ function leerCurso(cat: Category): { filas: Fila[]; resumen: ResumenCurso } {
   const idsSoloArchivo: string[] = []
 
   const archivos = existsSync(dir)
-    ? readdirSync(dir).filter((f) => f.endsWith(".json") && f !== "_manifest.json")
+    ? readdirSync(dir).filter((f) => f.endsWith(".json") && !f.startsWith("_"))
     : []
 
   for (const archivo of archivos) {
@@ -286,7 +286,13 @@ function leerCurso(cat: Category): { filas: Fila[]; resumen: ResumenCurso } {
     const { secciones, questions } = normalizeLessonFile(raw)
 
     const meta = porId.get(lessonId)
-    if (!meta) idsSoloArchivo.push(lessonId)
+    // Fuera del catalogo del curso: ninguna pantalla del sitio la muestra, asi que no
+    // se vuelca al Excel — auditarla seria trabajo perdido. Se sigue contando para que
+    // el informe la reporte como pendiente del proyecto (ver "Cosas a mirar").
+    if (!meta) {
+      idsSoloArchivo.push(lessonId)
+      continue
+    }
 
     filas.push({
       categoryId: cat.id,
@@ -904,9 +910,10 @@ function resumenContenido(wb: ExcelJS.Workbook, rs: ResumenCurso[]): void {
   }
   for (const r of rs.filter((x) => x.soloArchivo > 0)) {
     nota(
-      `${r.nombre}: ${r.soloArchivo} lecciones tienen material completo pero no están en el ` +
-        `catálogo del curso, así que ninguna pantalla del sitio las muestra. En la hoja ${r.hoja} ` +
-        `figuran con «SOLO ARCHIVO» en la primera columna.`
+      `${r.nombre}: ${r.soloArchivo} archivos de lección quedaron fuera del catálogo del curso, ` +
+        `así que ninguna pantalla del sitio los muestra. NO se incluyeron en la hoja ${r.hoja}: ` +
+        `auditarlos sería trabajo perdido. Se listan acá como pendiente del proyecto — hay que ` +
+        `sumarlos al catálogo o borrarlos, y esa decisión no es del auditor.`
     )
     nota(`   ids: ${r.idsSoloArchivo.join(", ")}`)
   }

@@ -30,7 +30,7 @@ export default async function EditorPage() {
         <div className="max-w-6xl mx-auto flex items-center justify-between gap-4 px-4 sm:px-6 py-3">
           <Link href="/" className="flex items-center gap-2 group">
             <span className="text-[11px] font-bold uppercase tracking-widest text-primary group-hover:text-primary/80 transition-colors">
-              MSI
+              Aula SEI
             </span>
             <span className="text-xs text-muted-foreground group-hover:text-foreground transition-colors">
               · volver al inicio
