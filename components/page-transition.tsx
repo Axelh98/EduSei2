@@ -30,13 +30,20 @@ export function PageTransition({ children }: PageTransitionProps) {
       {
         duration: 220,
         easing: "ease-out",
-        fill: "both",
+        // "backwards" y no "both": con "both" el translateY(0) final quedaba
+        // aplicado para siempre, y cualquier transform en un ancestro convierte
+        // a ese ancestro en la referencia de los `position: fixed` de adentro.
+        // Los modales `fixed inset-0` y las barras fijas se posicionaban contra
+        // la página entera en vez de contra la pantalla.
+        fill: "backwards",
       }
     )
   }, [pathname])
 
   return (
-    <div ref={ref} style={{ willChange: "opacity, transform" }}>
+    // Sin `will-change: transform` por el mismo motivo: también crea un
+    // bloque contenedor para los `fixed` descendientes.
+    <div ref={ref}>
       {children}
     </div>
   )

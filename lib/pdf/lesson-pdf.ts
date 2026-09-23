@@ -13,7 +13,7 @@
 // La versión anterior ponía 108 caracteres por línea (lo legible son 60-75),
 // sin justificar, todo en Helvetica y con cajas de color. Esta:
 //
-//   · Columna de ~78 caracteres — márgenes de 30 mm, cuerpo a 13 pt.
+//   · Márgenes de 22 mm y cuerpo a 11.5 pt: el tamaño de un documento impreso.
 //   · Serif (Times) para leer, sans (Helvetica) para rotular. Es la
 //     combinación editorial clásica: la serif se lee mejor en papel y la
 //     sans separa la estructura del contenido.
@@ -48,31 +48,33 @@ const C = {
 }
 
 // ─── Medidas (mm) ─────────────────────────────────────────────────────────────
-// Medidas calibradas midiendo el resultado, no a ojo: con 30 mm de margen y
-// el cuerpo a 13 pt la columna queda en 78 caracteres por línea. La versión
-// anterior (14 mm y 10 pt) daba 108, que es donde el ojo se pierde al saltar
-// de renglón.
+// Medidas calibradas midiendo el resultado, no a ojo. La primera versión
+// (14 mm y 10 pt) daba 108 caracteres por línea, donde el ojo se pierde al
+// saltar de renglón. La segunda (30 mm y 13 pt) se leía bien pero parecía un
+// libro de letra grande: casi 3 páginas por lección, con un tercio de la hoja
+// en blanco. Esta queda en el medio: 22 mm y cuerpo a 11.5 pt, que es el
+// tamaño de un documento impreso normal, y el aire entre secciones ajustado.
 const L = {
-  margin:     30,
-  top:        20,
-  bottom:     20,
-  indent:     7,     // sangría de primera línea
-  quoteInset: 8,     // corrimiento del texto citado respecto del hilo
-  lead:       6.2,   // interlineado del cuerpo (≈1.35)
-  leadQuote:  6,
-  gapPara:    2.4,   // aire entre párrafos del mismo bloque
-  gapBlock:   7,     // aire entre bloques
-  gapSection: 11,    // aire antes del rótulo de una sección nueva
+  margin:     22,
+  top:        17,
+  bottom:     19,
+  indent:     6,     // sangría de primera línea
+  quoteInset: 7,     // corrimiento del texto citado respecto del hilo
+  lead:       5.3,   // interlineado del cuerpo (≈1.3)
+  leadQuote:  5.1,
+  gapPara:    1.8,   // aire entre párrafos del mismo bloque
+  gapBlock:   5,     // aire entre bloques
+  gapSection: 8,     // aire antes del rótulo de una sección nueva
 }
 
 const F = {
-  body:    13,
-  quote:   12.5,
-  cita:    13,
-  label:   8.5,
-  small:   9,
-  title:   20,
-  meta:    9,
+  body:    11.5,
+  quote:   11,
+  cita:    11.5,
+  label:   8,
+  small:   8.5,
+  title:   18,
+  meta:    8.5,
 }
 
 type Pos = { y: number }
@@ -195,16 +197,16 @@ export async function buildLessonPdf(options: LessonPdfOptions): Promise<any> {
    */
   const rotulo = (texto: string) => {
     pos.y += L.gapSection
-    ensure(16 + L.lead * 2)
+    ensure(13 + L.lead * 2)
     pdf.setFont("helvetica", "bold")
     pdf.setFontSize(F.label)
     pdf.setTextColor(...C.primary)
     pdf.text(texto.toUpperCase(), M, pos.y, { charSpace: 0.4 })
-    pos.y += 2.2
+    pos.y += 2
     pdf.setDrawColor(...C.primary)
     pdf.setLineWidth(0.5)
     pdf.line(M, pos.y, M + 14, pos.y)
-    pos.y += 6
+    pos.y += 5
   }
 
   /** Texto citado con hilo vertical a la izquierda. */
@@ -234,14 +236,14 @@ export async function buildLessonPdf(options: LessonPdfOptions): Promise<any> {
     if (alto <= altoPagina) ensure(alto + 2)
     else ensure(Math.min(lineas.length, 2) * lead + 2)
 
-    const yIni = pos.y - 3.6
+    const yIni = pos.y - 3.1
 
     lineas.forEach((linea: string, i: number) => {
       if (pos.y + lead > BOT) {
         // El hilo se corta al pie y se retoma en la página siguiente.
         pdf.setDrawColor(...C.primary)
         pdf.setLineWidth(0.7)
-        pdf.line(M + 1, yIni, M + 1, pos.y - 3.6)
+        pdf.line(M + 1, yIni, M + 1, pos.y - 3.1)
         newPage()
       }
       pdf.setFont("times", opts.style ?? "italic")
@@ -254,7 +256,7 @@ export async function buildLessonPdf(options: LessonPdfOptions): Promise<any> {
 
     pdf.setDrawColor(...C.primary)
     pdf.setLineWidth(0.7)
-    pdf.line(M + 1, yIni, M + 1, pos.y - 3.6)
+    pdf.line(M + 1, yIni, M + 1, pos.y - 3.1)
   }
 
   /** Enlace discreto: sans pequeña, en color primario. Sin glifos raros. */
@@ -283,7 +285,7 @@ export async function buildLessonPdf(options: LessonPdfOptions): Promise<any> {
   pdf.setTextColor(...C.muted)
   pdf.text(categoryName, W - M, pos.y, { align: "right" })
 
-  pos.y += 12
+  pos.y += 10
 
   // Título
   pdf.setFont("helvetica", "bold")
@@ -292,7 +294,7 @@ export async function buildLessonPdf(options: LessonPdfOptions): Promise<any> {
   const titulo = pdf.splitTextToSize(lessonTitle, CW)
   titulo.forEach((linea: string) => {
     pdf.text(linea, M, pos.y)
-    pos.y += 9
+    pos.y += 8
   })
 
   // Línea de metadatos
@@ -309,7 +311,7 @@ export async function buildLessonPdf(options: LessonPdfOptions): Promise<any> {
     enlace("Ver la lección en el manual oficial", chapterUrl, W - M, pos.y, "right")
   }
 
-  pos.y += 3.5
+  pos.y += 3
   pdf.setDrawColor(...C.rule)
   pdf.setLineWidth(0.4)
   pdf.line(M, pos.y, W - M, pos.y)
@@ -423,7 +425,7 @@ function escritura(
   const { pdf, M, W, pos, ensure, citado, enlace, parrafo } = ctx
 
   if (cita.referencia) {
-    ensure(12)
+    ensure(11)
     pdf.setFont("helvetica", "bold")
     pdf.setFontSize(F.small)
     // La referencia misma es el enlace: un "leer" suelto contra el margen
@@ -435,18 +437,18 @@ function escritura(
       pdf.setTextColor(...C.ink)
       pdf.text(cita.referencia, M, pos.y)
     }
-    pos.y += 5.4
+    pos.y += 4.8
   }
 
   citado(`«${cita.texto}»`)
 
   if (cita.comentario) {
-    pos.y += 2
+    pos.y += 1.5
     parrafo(cita.comentario, {
       x: M + L.quoteInset,
       ancho: ctx.CW - L.quoteInset,
       size: F.small + 0.5,
-      lead: 4.6,
+      lead: 4.3,
       color: C.muted,
     })
   }
@@ -460,18 +462,18 @@ function citaDeLider(
 
   // La atribución va pegada a la cita: se reserva su alto para que el salto de
   // página no la deje huérfana en la hoja siguiente.
-  const altoAtribucion = cita.autor ? (cita.fuente ? 10 : 6) : 0
-  citado(`«${cita.texto}»`, { size: F.cita, lead: 5.6, colaAtribucion: altoAtribucion })
+  const altoAtribucion = cita.autor ? (cita.fuente ? 9 : 5.5) : 0
+  citado(`«${cita.texto}»`, { size: F.cita, lead: 5.2, colaAtribucion: altoAtribucion })
 
   if (!cita.autor) return
 
-  pos.y += 2
+  pos.y += 1.5
   pdf.setFont("helvetica", "bold")
   pdf.setFontSize(F.small)
   pdf.setTextColor(...C.ink)
   // La raya de atribución es la convención para firmar una cita.
   pdf.text(`— ${cita.autor}`, W - M, pos.y, { align: "right" })
-  pos.y += 4.4
+  pos.y += 4
 
   // La fuente es el enlace: una línea suelta que diga "Ver el discurso
   // completo" agrega un renglón y no dice nada que la fuente no diga ya.
@@ -494,7 +496,7 @@ function citaDeLider(
 /** Preguntas con numeración colgada: el número afuera, el texto alineado. */
 function preguntas(lista: string[], ctx: any) {
   const { pdf, M, CW, pos, ensure } = ctx
-  const numW = 7
+  const numW = 6
   const ancho = CW - numW
 
   lista.forEach((pregunta, i) => {
@@ -518,7 +520,7 @@ function preguntas(lista: string[], ctx: any) {
       ctx.dibujarLinea(linea, M + numW, pos.y, ancho, !esUltima)
       pos.y += L.lead
     })
-    pos.y += 3
+    pos.y += 2
   })
 }
 
@@ -549,7 +551,7 @@ function renderBloque(bloque: BloqueResumen, ctx: any) {
       for (const punto of bloque.puntos) {
         ensure(10)
         const yInicio = pos.y
-        parrafo(punto, { x: M + 6, ancho: CW - 6 })
+        parrafo(punto, { x: M + 5, ancho: CW - 5 })
         // Guión colgado, a la francesa.
         pdf.setFont("times", "normal")
         pdf.setFontSize(F.body)
