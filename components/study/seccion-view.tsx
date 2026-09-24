@@ -1,21 +1,34 @@
 // components/study/seccion-view.tsx
-import { BookMarked, Quote, GraduationCap, ExternalLink } from "lucide-react"
 import type { Seccion } from "@/lib/types"
-import { BloqueView } from "./bloque-view"
-import { retratoDe, urlImagen, srcSetImagen } from "@/lib/content/imagenes"
+import { BloqueView, Atribucion, Escritura } from "./bloque-view"
+import { Citado, ListaColgada, Prosa, Rotulo } from "./editorial"
+import { urlImagen, srcSetImagen } from "@/lib/content/imagenes"
 
 // Anchos de render. Las imágenes las sirve churchofjesuschrist.org: acá solo
 // se pide el tamaño que hace falta. Ver lib/content/imagenes.ts.
 const ANCHO_ILUSTRACION = 800
-const ANCHO_RETRATO = 48
 
-export function SeccionView({ seccion }: { seccion: Seccion }) {
+export function SeccionView({
+  seccion,
+  anterior,
+  siguiente,
+}: {
+  seccion: Seccion
+  /** Tipo de la sección previa y la siguiente: varias citas seguidas comparten rótulo, como en el PDF. */
+  anterior?: Seccion["tipo"]
+  siguiente?: Seccion["tipo"]
+}) {
 
   if (seccion.tipo === "resumen" && seccion.bloques) {
     return (
-      <div className="space-y-6">
+      <div className="space-y-7">
         {seccion.bloques.map((bloque, i) => (
-          <BloqueView key={i} bloque={bloque} />
+          <BloqueView
+            key={i}
+            bloque={bloque}
+            // Dos párrafos seguidos son uno continuando al otro: el segundo se sangra.
+            continua={bloque.tipo === "parrafo" && seccion.bloques![i - 1]?.tipo === "parrafo"}
+          />
         ))}
       </div>
     )
@@ -23,9 +36,10 @@ export function SeccionView({ seccion }: { seccion: Seccion }) {
 
   if (seccion.tipo === "contexto") {
     return (
-      <div className="space-y-5">
+      <div>
+        <Rotulo>Contexto</Rotulo>
         {seccion.imagen && (
-          <figure className="overflow-hidden rounded-2xl border border-border/60">
+          <figure className="mb-6 overflow-hidden rounded-lg">
             <img
               src={urlImagen(seccion.imagen.assetId, ANCHO_ILUSTRACION)}
               srcSet={srcSetImagen(seccion.imagen.assetId, ANCHO_ILUSTRACION)}
@@ -39,92 +53,32 @@ export function SeccionView({ seccion }: { seccion: Seccion }) {
             />
           </figure>
         )}
-        <p className="text-lg leading-[1.85] text-muted-foreground">
-          {seccion.contenido}
-        </p>
+        {seccion.contenido && <Prosa texto={seccion.contenido} />}
       </div>
     )
   }
 
   if (seccion.tipo === "enseñanza") {
-    const retrato = retratoDe(seccion.autor)
+    // "Enseñanza" es el nombre del campo en el JSON; en la página es una cita.
+    const primeraDelGrupo = anterior !== "enseñanza"
     return (
-      <div className="relative overflow-hidden rounded-2xl border border-secondary/15 bg-secondary/[0.06] p-8">
-        <Quote className="absolute -left-2 -top-2 h-16 w-16 text-secondary/10" />
-        <blockquote className="relative font-serif text-xl font-medium italic leading-relaxed text-foreground">
-          "{seccion.texto}"
-        </blockquote>
-        <div className="mt-6 flex items-center gap-3">
-          <div className="h-px flex-1 bg-secondary/20" />
-          <div className="text-right">
-            <p className="text-sm font-bold text-secondary">{seccion.autor}</p>
-            <p className="text-xs uppercase tracking-wider text-muted-foreground">
-              {seccion.fuente}
-            </p>
-          </div>
-          {/* Retrato oficial, si lo tenemos. Se resuelve por autor, no por
-              lección; si falta, el pie de la cita queda como estaba. */}
-          {retrato && (
-            <img
-              src={urlImagen(retrato, ANCHO_RETRATO)}
-              srcSet={srcSetImagen(retrato, ANCHO_RETRATO)}
-              alt={seccion.autor ?? ""}
-              width={ANCHO_RETRATO}
-              height={ANCHO_RETRATO}
-              loading="lazy"
-              decoding="async"
-              className="h-12 w-12 shrink-0 rounded-full border border-secondary/20 object-cover object-top"
-            />
-          )}
-        </div>
-        {/* ✅ NUEVO: link al discurso completo, mismo patrón que "escrituras" */}
-        {seccion.link && (
-          <div className="mt-4 flex justify-end">
-            <a
-              href={seccion.link}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group inline-flex items-center gap-1.5 text-xs font-medium text-secondary/70 transition-colors hover:text-secondary"
-            >
-              Ver discurso completo
-              <ExternalLink className="h-3 w-3 opacity-60 transition-opacity group-hover:opacity-100" />
-            </a>
-          </div>
+      <div>
+        {primeraDelGrupo && (
+          <Rotulo>{siguiente === "enseñanza" ? "Citas" : "Cita"}</Rotulo>
         )}
+        <Citado grande>{seccion.texto}</Citado>
+        <Atribucion autor={seccion.autor} fuente={seccion.fuente} link={seccion.link} />
       </div>
     )
   }
 
   if (seccion.tipo === "escrituras") {
     return (
-      <div className="space-y-4">
-        <h3 className="flex items-center gap-2 text-[10px] font-black uppercase tracking-[0.15em] text-muted-foreground">
-          <BookMarked className="h-4 w-4" />
-          Escrituras clave
-        </h3>
-        <div className="grid gap-3">
+      <div>
+        <Rotulo>Escrituras clave</Rotulo>
+        <div className="space-y-7">
           {seccion.citas?.map((cita, i) => (
-            <div key={i} className="rounded-2xl border border-primary/15 bg-primary/[0.025] p-5">
-              {/* ✅ CAMBIO: Convertir referencia en link si existe cita.link */}
-              {cita.link ? (
-                <a
-                  href={cita.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="group mb-2 inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-widest text-primary transition-colors hover:text-primary/80"
-                >
-                  {cita.referencia}
-                  <ExternalLink className="h-3 w-3 opacity-60 transition-opacity group-hover:opacity-100" />
-                </a>
-              ) : (
-                <span className="mb-2 block text-xs font-bold uppercase tracking-widest text-primary">
-                  {cita.referencia}
-                </span>
-              )}
-              <p className="font-serif text-sm italic leading-relaxed text-foreground/90">
-                "{cita.texto}"
-              </p>
-            </div>
+            <Escritura key={i} referencia={cita.referencia} texto={cita.texto} link={cita.link} />
           ))}
         </div>
       </div>
@@ -133,30 +87,19 @@ export function SeccionView({ seccion }: { seccion: Seccion }) {
 
   if (seccion.tipo === "cuestionario") {
     return (
-      <div className="rounded-2xl border-2 border-dashed border-primary/20 bg-primary/[0.015] p-6">
-        <h3 className="mb-4 flex items-center gap-2 text-[10px] font-black uppercase tracking-[0.15em] text-primary">
-          <GraduationCap className="h-4 w-4" />
-          Para reflexionar
-        </h3>
-        <ol className="space-y-4">
-          {seccion.preguntas?.map((pregunta, i) => (
-            <li key={i} className="flex gap-3 text-sm leading-relaxed text-muted-foreground">
-              <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-primary/10 text-[10px] font-bold text-primary">
-                {i + 1}
-              </span>
-              {pregunta}
-            </li>
-          ))}
-        </ol>
+      <div>
+        <Rotulo>Para reflexionar</Rotulo>
+        <ListaColgada items={seccion.preguntas ?? []} />
       </div>
     )
   }
 
   if (seccion.tipo === "conclusion") {
     return (
-      <p className="border-l-2 border-primary/30 pl-5 font-serif text-base italic leading-relaxed text-muted-foreground">
-        {seccion.contenido}
-      </p>
+      <div>
+        <Rotulo>Conclusión</Rotulo>
+        {seccion.contenido && <Prosa texto={seccion.contenido} italica />}
+      </div>
     )
   }
 

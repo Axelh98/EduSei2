@@ -102,10 +102,10 @@ export function StudyClient({
         <div className="mx-auto max-w-2xl" id="study-content">
 
           <div className="mb-10">
-            <p className="mb-1 text-[10px] font-black uppercase tracking-[0.2em] text-primary/60">
+            <p className="mb-2 text-[0.6875rem] font-bold uppercase tracking-[0.18em] text-primary">
               {categoryName}
             </p>
-            <h1 className="font-serif text-3xl font-bold leading-tight text-foreground md:text-4xl">
+            <h1 className="font-serif text-3xl font-bold leading-tight text-foreground text-balance md:text-4xl">
               {lessonTitle}
             </h1>
             {chapterUrl && (
@@ -118,6 +118,7 @@ export function StudyClient({
                 Abrir en el manual oficial ↗
               </a>
             )}
+            <hr className="mt-6 border-border" />
 
             {/* Las mismas tarjetas que al final: saltar de lección sin tener
                 que leer el repaso entero primero. */}
@@ -133,10 +134,14 @@ export function StudyClient({
           {secciones.length > 0 ? (
             <>
               <SectionIndex secciones={secciones} />
-              <div className="space-y-10">
+              <div className="space-y-12">
                 {secciones.map((seccion, i) => (
                   <section key={i} id={`sec-${i}`} className="scroll-mt-24">
-                    <SeccionView seccion={seccion} />
+                    <SeccionView
+                      seccion={seccion}
+                      anterior={secciones[i - 1]?.tipo}
+                      siguiente={secciones[i + 1]?.tipo}
+                    />
                   </section>
                 ))}
               </div>
