@@ -9,6 +9,9 @@ const _inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 const _merriweather = Merriweather({
   subsets: ['latin'],
   weight: ['300', '400', '700', '900'],
+  // Las citas del repaso van en itálica: sin la cursiva real, el navegador
+  // inclina la redonda y queda tosca.
+  style: ['normal', 'italic'],
   variable: '--font-merriweather',
 })
 

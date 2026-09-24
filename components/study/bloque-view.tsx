@@ -1,160 +1,165 @@
 "use client"
 
 // components/study/bloque-view.tsx
-import { BookOpen, Quote, Star, HelpCircle, ExternalLink } from "lucide-react"
 import type { BloqueResumen } from "@/lib/types"
+import { CUERPO, Citado, ListaColgada, Rotulo } from "./editorial"
+import { retratoDe, urlImagen, srcSetImagen } from "@/lib/content/imagenes"
 
-export function BloqueView({ bloque }: { bloque: BloqueResumen }) {
+const ANCHO_RETRATO = 40
+
+/**
+ * Escritura: la referencia misma es el enlace, en versalita sobre el texto
+ * citado. Mismo criterio que el PDF: un "Ver en las Escrituras" suelto
+ * agregaba un renglón que no decía nada que la referencia no dijera ya.
+ */
+export function Escritura({
+  referencia,
+  texto,
+  comentario,
+  link,
+}: {
+  referencia?: string
+  texto: string
+  comentario?: string
+  link?: string
+}) {
+  const claseRef = "font-sans text-xs font-bold uppercase tracking-[0.12em]"
+  return (
+    <div>
+      {referencia && (
+        <p className="mb-2">
+          {link ? (
+            <a
+              href={link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`${claseRef} text-primary underline-offset-4 hover:underline`}
+            >
+              {referencia}
+            </a>
+          ) : (
+            <span className={`${claseRef} text-foreground`}>{referencia}</span>
+          )}
+        </p>
+      )}
+      <Citado>{texto}</Citado>
+      {comentario && (
+        <p className="mt-3 pl-[calc(1.25rem+2px)] font-serif text-[0.9375rem] leading-[1.7] text-muted-foreground hyphens-auto text-pretty sm:text-justify">
+          {comentario}
+        </p>
+      )}
+    </div>
+  )
+}
+
+/**
+ * Firma de una cita: raya de atribución, alineada a la derecha. La fuente es
+ * el enlace al discurso; el retrato oficial va al costado si lo tenemos.
+ */
+export function Atribucion({
+  autor,
+  fuente,
+  link,
+}: {
+  autor?: string
+  fuente?: string
+  link?: string
+}) {
+  if (!autor && !fuente && !link) return null
+  const retrato = retratoDe(autor)
+  return (
+    <div className="mt-4 flex items-center justify-end gap-3 text-right">
+      <div>
+        {autor && (
+          <p className="font-sans text-sm font-bold text-foreground">— {autor}</p>
+        )}
+        {fuente && link ? (
+          <a
+            href={link}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-sans text-xs text-primary underline-offset-4 hover:underline"
+          >
+            {fuente}
+          </a>
+        ) : fuente ? (
+          <p className="font-sans text-xs text-muted-foreground">{fuente}</p>
+        ) : link ? (
+          <a
+            href={link}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-sans text-xs text-primary underline-offset-4 hover:underline"
+          >
+            Ver el discurso
+          </a>
+        ) : null}
+      </div>
+      {retrato && (
+        <img
+          src={urlImagen(retrato, ANCHO_RETRATO)}
+          srcSet={srcSetImagen(retrato, ANCHO_RETRATO)}
+          alt={autor ?? ""}
+          width={ANCHO_RETRATO}
+          height={ANCHO_RETRATO}
+          loading="lazy"
+          decoding="async"
+          className="h-10 w-10 shrink-0 rounded-full object-cover object-top grayscale-[30%]"
+        />
+      )}
+    </div>
+  )
+}
+
+export function BloqueView({
+  bloque,
+  continua = false,
+}: {
+  bloque: BloqueResumen
+  /** El párrafo sigue a otro párrafo: lleva sangría de primera línea. */
+  continua?: boolean
+}) {
   switch (bloque.tipo) {
-
-    // ─── Párrafo narrativo — mejor contraste, text-wrap:pretty ────────────
     case "parrafo":
+      // El espacio entre párrafos lo pone el contenedor; con sangría, el que
+      // sigue a otro se pega más, como en un libro.
       return (
-        <p className="text-base leading-[1.9] text-foreground/80 [text-wrap:pretty]">
+        <p className={`${CUERPO} ${continua ? "-mt-5 indent-[1.5em]" : ""}`}>
           {bloque.texto}
         </p>
       )
 
-    // ─── Escritura — ahora con link opcional al versículo ─────────────────
     case "escritura":
       return (
-        <div className="rounded-2xl border border-primary/15 bg-primary/[0.03] p-5">
-          <div className="mb-3 flex items-center gap-2">
-            <BookOpen className="h-3.5 w-3.5 text-primary" />
-            <span className="text-[10px] font-black uppercase tracking-[0.18em] text-primary">
-              {bloque.referencia}
-            </span>
-          </div>
-          <p className="font-serif text-base leading-relaxed text-foreground [text-wrap:pretty]">
-            "{bloque.texto}"
-          </p>
-          {bloque.comentario && (
-            <p className="mt-3 text-sm leading-relaxed text-muted-foreground [text-wrap:pretty]">
-              {bloque.comentario}
-            </p>
-          )}
-          {bloque.link && (
-            <a
-              href={bloque.link}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-3 inline-flex items-center gap-1.5 text-xs font-medium text-primary/70 transition-colors hover:text-primary hover:underline"
-            >
-              Ver en las Escrituras
-              <ExternalLink className="h-3 w-3" />
-            </a>
-          )}
-        </div>
+        <Escritura
+          referencia={bloque.referencia}
+          texto={bloque.texto}
+          comentario={bloque.comentario}
+          link={bloque.link}
+        />
       )
 
-    // ─── Cita — ahora con link opcional al discurso completo ──────────────
     case "cita":
       return (
-        <div
-          className="relative overflow-hidden rounded-2xl p-7"
-          style={{ backgroundColor: "#1e293b" }}
-        >
-          <Quote
-            className="absolute right-5 top-4 h-12 w-12 opacity-10"
-            style={{ color: "#ffffff" }}
-          />
-          <div
-            className="mb-4 inline-flex items-center gap-1.5 rounded-full px-3 py-1"
-            style={{ backgroundColor: "rgba(255,255,255,0.12)" }}
-          >
-            <Star className="h-3 w-3" style={{ color: "#fbbf24" }} />
-            <span
-              className="text-[9px] font-black uppercase tracking-[0.2em]"
-              style={{ color: "#fbbf24" }}
-            >
-              Cita Profética
-            </span>
-          </div>
-          <blockquote
-            className="relative font-serif text-xl font-medium italic leading-relaxed [text-wrap:pretty]"
-            style={{ color: "#f1f5f9" }}
-          >
-            "{bloque.texto}"
-          </blockquote>
-          <div className="mt-6 flex items-center gap-3">
-            <div className="h-px flex-1" style={{ backgroundColor: "rgba(255,255,255,0.15)" }} />
-            <div className="text-right">
-              <p className="text-sm font-bold" style={{ color: "#e2e8f0" }}>
-                {bloque.autor}
-              </p>
-              {bloque.fuente && (
-                <p className="text-xs uppercase tracking-wider" style={{ color: "#94a3b8" }}>
-                  {bloque.fuente}
-                </p>
-              )}
-            </div>
-          </div>
-          {bloque.link && (
-            <div className="mt-4 flex justify-end">
-              <a
-                href={bloque.link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 text-xs font-medium transition-opacity hover:opacity-80"
-                style={{ color: "#93c5fd" }}
-              >
-                Ver discurso completo
-                <ExternalLink className="h-3 w-3" />
-              </a>
-            </div>
-          )}
+        <div>
+          <Citado grande>{bloque.texto}</Citado>
+          <Atribucion autor={bloque.autor} fuente={bloque.fuente} link={bloque.link} />
         </div>
       )
 
-    // ─── Puntos doctrinales — numerados como pills, más jerarquía ─────────
     case "doctrinal":
       return (
-        <div className="space-y-3">
-          <h3 className="flex items-center gap-2 text-[10px] font-black uppercase tracking-[0.18em] text-muted-foreground">
-            <Star className="h-3.5 w-3.5" />
-            Verdades doctrinales
-          </h3>
-          <ol className="space-y-2">
-            {bloque.puntos.map((punto, i) => (
-              <li
-                key={i}
-                className="flex items-start gap-3 rounded-xl border-l-2 border-primary/25 bg-primary/[0.03] px-4 py-3"
-              >
-                <span className="mt-0.5 font-mono text-xs font-black text-primary/60 select-none shrink-0">
-                  {String(i + 1).padStart(2, "0")}
-                </span>
-                <span className="text-sm leading-relaxed text-foreground [text-wrap:pretty]">
-                  {punto}
-                </span>
-              </li>
-            ))}
-          </ol>
+        <div className="pt-3">
+          <Rotulo>Verdades doctrinales</Rotulo>
+          <ListaColgada items={bloque.puntos} marca="raya" />
         </div>
       )
 
-    // ─── Preguntas de reflexión — más espaciosas, numeradas ───────────────
     case "reflexion":
       return (
-        <div className="space-y-3">
-          <h3 className="flex items-center gap-2 text-[10px] font-black uppercase tracking-[0.18em] text-muted-foreground">
-            <HelpCircle className="h-3.5 w-3.5" />
-            Para reflexionar
-          </h3>
-          <ol className="space-y-2">
-            {bloque.preguntas.map((pregunta, i) => (
-              <li
-                key={i}
-                className="flex items-start gap-3 rounded-xl border border-border bg-muted/25 px-4 py-3.5"
-              >
-                <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-secondary/15 text-[9px] font-black text-secondary/80 select-none mt-0.5">
-                  {i + 1}
-                </span>
-                <span className="text-sm leading-relaxed text-foreground [text-wrap:pretty]">
-                  {pregunta}
-                </span>
-              </li>
-            ))}
-          </ol>
+        <div className="pt-3">
+          <Rotulo>Para reflexionar</Rotulo>
+          <ListaColgada items={bloque.preguntas} />
         </div>
       )
 
